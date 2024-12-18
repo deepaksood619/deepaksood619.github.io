@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.16e63e15.css">
-<script src="/assets/js/runtime~main.95f914c7.js" defer="defer"></script>
-<script src="/assets/js/main.d3ee03ee.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.f0791415.js" defer="defer"></script>
+<script src="/assets/js/main.f70c48bb.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -29,7 +29,7 @@
 <p>AWS Glue is a fully managed extract, transform, and load (ETL) service that makes it easy for customers to prepare and load their data for analytics. You can create and run an ETL job with a few clicks in the AWS Management Console. You simply point AWS Glue to your data stored on AWS, and AWS Glue discovers your data and stores the associated metadata (e.g. table definition and schema) in the AWS Glue Data Catalog. Once cataloged, your data is immediately searchable, queryable, and available for ETL.</p>
 <p>AWS Glue is designed to work with <strong>semi-structured data</strong>. It introduces a component called a<strong>dynamic frame</strong>, which you can use in your ETL scripts. A dynamic frame is similar to an Apache Spark dataframe, except that each record is self-describing, so no schema is required initially. With dynamic frames, you get schema flexibility and a set of advanced transformations specifically designed for dynamic frames. You can convert between dynamic frames and Spark dataframes, so that you can take advantage of both AWS Glue and Spark transformations to do the kinds of analysis that you want.</p>
 <p>You can use the AWS Glue console to discover data, transform it, and make it available for search and querying. The console calls the underlying services to orchestrate the work required to transform your data. You can also use the AWS Glue API operations to interface with AWS Glue services. Edit, debug, and test your Python or Scala Apache Spark ETL code using a familiar development environment.</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Cloud-AWS-AWS-Glue-image1-b0e741f9e0857794d4ddb9ed365d6224.jpg" width="1510" height="360" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Cloud-AWS-AWS-Glue-image1-8c6b069983d21085ff669fc7a65ddfbf.jpg" width="998" height="238" class="img_ev3q"></p>
 <p><a href="https://aws.amazon.com/glue" target="_blank" rel="noopener noreferrer">https://aws.amazon.com/glue</a></p>
 <p><a href="https://docs.aws.amazon.com/glue/latest/dg/what-is-glue.html" target="_blank" rel="noopener noreferrer">https://docs.aws.amazon.com/glue/latest/dg/what-is-glue.html</a></p>
 <p><a href="https://docs.aws.amazon.com/glue/latest/dg/how-it-works.html" target="_blank" rel="noopener noreferrer">https://docs.aws.amazon.com/glue/latest/dg/how-it-works.html</a></p>
@@ -39,7 +39,7 @@
 <p>Second option: we chose to use an AWS Glue feature called bookmarks. Once a job completes successfully, it sets an invisible bookmark. Any change you make to that bucket after the bookmark has been set, will be worked on by the next execution of the job (behind the scenes, modification dates are examined by the bookmark)</p>
 <p>Note: you may only add new files, or append to existing files. Overwriting data in existing files is not supported (nor should you want to do it. In fact, in the new world of event sourcing, overwriting means hiding a crime)</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="aws-glue-concepts">AWS Glue Concepts<a href="#aws-glue-concepts" class="hash-link" aria-label="Direct link to AWS Glue Concepts" title="Direct link to AWS Glue Concepts">​</a></h2>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Cloud-AWS-AWS-Glue-image2-3f082192a6a6354077244d316c1c1c4a.jpg" width="768" height="576" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Cloud-AWS-AWS-Glue-image2-738d6a80ebb2dab72699f515eef46481.jpg" width="768" height="576" class="img_ev3q"></p>
 <p>You definejobsin AWS Glue to accomplish the work that&#x27;s required to extract, transform, and load (ETL) data from a data source to a data target. You typically perform the following actions:</p>
 <ul>
 <li>You define acrawlerto populate your AWS Glue Data Catalog with metadata table definitions. You point your crawler at a data store, and the crawler creates table definitions in the Data Catalog.
@@ -83,7 +83,7 @@ When your job runs, a script extracts data from your data source, transforms the
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="populating-the-aws-glue-data-catalog">Populating the AWS Glue Data Catalog<a href="#populating-the-aws-glue-data-catalog" class="hash-link" aria-label="Direct link to Populating the AWS Glue Data Catalog" title="Direct link to Populating the AWS Glue Data Catalog">​</a></h2>
 <p>The AWS Glue Data Catalog contains references to data that is used as sources and targets of your extract, transform, and load (ETL) jobs in AWS Glue. To create your data warehouse, you must catalog this data. The AWS Glue Data Catalog is an index to the location, schema, and runtime metrics of your data. You use the information in the Data Catalog to create and monitor your ETL jobs. Information in the Data Catalog is stored as metadata tables, where each table specifies a single data store. Typically, you run a crawler to take inventory of the data in your data stores, but there are other ways to add metadata tables into your Data Catalog. For more information, see <a href="https://docs.aws.amazon.com/glue/latest/dg/tables-described.html" target="_blank" rel="noopener noreferrer">Defining Tables in the AWS Glue Data Catalog</a>.</p>
 <p>The following workflow diagram shows how AWS Glue crawlers interact with data stores and other elements to populate the Data Catalog.</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Cloud-AWS-AWS-Glue-image3-55b8d01f541a47fd56cbabbef27ad1e8.jpg" width="768" height="576" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Cloud-AWS-AWS-Glue-image3-a251b9fec14181b2de9827c62e468a60.jpg" width="768" height="576" class="img_ev3q"></p>
 <p>The following is the general workflow for how a crawler populates the AWS Glue Data Catalog:</p>
 <ul>
 <li>

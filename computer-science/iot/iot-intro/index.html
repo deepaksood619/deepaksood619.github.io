@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.16e63e15.css">
-<script src="/assets/js/runtime~main.95f914c7.js" defer="defer"></script>
-<script src="/assets/js/main.d3ee03ee.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.f0791415.js" defer="defer"></script>
+<script src="/assets/js/main.f70c48bb.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -93,7 +93,7 @@ On a high level, the software architecture choices for IoT client devices fall i
 </ul>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="notifications">Notifications<a href="#notifications" class="hash-link" aria-label="Direct link to Notifications" title="Direct link to Notifications">​</a></h3>
 <p>Information flows in one direction from other systems to a device (or a group of devices) for conveying status changes</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/IoT-Intro-image1-ad8ea9a959a665172cfe3e02f37a528d.jpg" width="1100" height="572" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/IoT-Intro-image1-edb0a50eec06ad15e78765b940bf5b62.jpg" width="1000" height="520" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="classifying-device-states">Classifying Device States<a href="#classifying-device-states" class="hash-link" aria-label="Direct link to Classifying Device States" title="Direct link to Classifying Device States">​</a></h2>
 <table><thead><tr><th><strong>Classifier</strong></th><th><strong>Description</strong></th></tr></thead><tbody><tr><td><strong>Assumed State</strong></td><td>We are unable to get the state of the device. Best we can do is to assume the state based on our last command. Example - WattMan Lite which we deployed previously, we were controlling ACs based on infrared signal - during that time we used to work on &quot;Assumed State&quot;.</td></tr><tr><td><strong>Cloud Polling</strong></td><td>Integration of this device happens via the cloud and requires an active internet connection. Polling the state means that an update might be noticed later.</td></tr><tr><td><strong>Cloud Push</strong></td><td>Integration of this device happens via the cloud and requires an active internet connection. Home Assistant will be notified as soon as a new state is available.</td></tr><tr><td><strong>Local Polling</strong></td><td>Offers direct communication with device. Polling the state means that an update might be noticed later. Example - For relay boards where we communicate over modbus protocol, we work on Local Polling. Periodically, we read the current status of values in relay board and ensure that it&#x27;s the same state that we had last set.</td></tr><tr><td><strong>Local Push</strong></td><td>Offers direct communication with device. Home Assistant will be notified as soon as a new state is available. Example - For the smart plug that we are currently interfacing, device does &quot;Local Push&quot; on the mqtt server on Rpi. So it reports it&#x27;s state on a mqtt topic in a periodic basis.</td></tr></tbody></table>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="tools">Tools<a href="#tools" class="hash-link" aria-label="Direct link to Tools" title="Direct link to Tools">​</a></h2>

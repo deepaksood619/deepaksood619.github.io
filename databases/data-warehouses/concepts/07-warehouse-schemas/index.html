@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.16e63e15.css">
-<script src="/assets/js/runtime~main.95f914c7.js" defer="defer"></script>
-<script src="/assets/js/main.d3ee03ee.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.f0791415.js" defer="defer"></script>
+<script src="/assets/js/main.f70c48bb.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -36,7 +36,7 @@
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-a-star-schema">What is a Star Schema?<a href="#what-is-a-star-schema" class="hash-link" aria-label="Direct link to What is a Star Schema?" title="Direct link to What is a Star Schema?">​</a></h2>
 <p>In the Star Schema, the center of the star can have one fact table and a number of associated dimension tables. It is known as star schema as its structure resembles a star. The star schema is the simplest type of Data Warehouse schema. It is also known as Star Join Schema and is optimized for querying large data sets.</p>
 <p>Star schema is a mature modeling approach widely adopted by relational data warehouses. It requires modelers to classify their model tables as either dimension or fact.</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Data-Warehousing_Warehouse-Schemas-image1-1e14b5dd18b86f3056d85d832704fa6f.jpg" width="528" height="459" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Data-Warehousing_Warehouse-Schemas-image1-a73abb9678eb15e3d4d2d4c50f30712a.jpg" width="528" height="459" class="img_ev3q"></p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="example-of-star-schema">Example of Star Schema<a href="#example-of-star-schema" class="hash-link" aria-label="Direct link to Example of Star Schema" title="Direct link to Example of Star Schema">​</a></h3>
 <p>For example, as you can see in the above-given image that fact table is at the center which contains keys to every dimension table like Dealer_ID, Model ID, Date_ID, Product_ID, Branch_ID &amp; other attributes like Units sold and revenue.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="characteristics-of-star-schema">Characteristics of Star Schema<a href="#characteristics-of-star-schema" class="hash-link" aria-label="Direct link to Characteristics of Star Schema" title="Direct link to Characteristics of Star Schema">​</a></h3>
@@ -55,7 +55,7 @@
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-a-snowflake-schema">What is a Snowflake Schema?<a href="#what-is-a-snowflake-schema" class="hash-link" aria-label="Direct link to What is a Snowflake Schema?" title="Direct link to What is a Snowflake Schema?">​</a></h2>
 <p>A Snowflake Schema is an extension of a Star Schema, and it adds additional dimensions. It is called snowflake because its diagram resembles a Snowflake.</p>
 <p>The dimension tables are normalized which splits data into additional tables. In the following example, Country is further normalized into an individual table.</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Data-Warehousing_Warehouse-Schemas-image2-d980d53836c55baac30544d543a5bdaf.jpg" width="987" height="453" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Data-Warehousing_Warehouse-Schemas-image2-da4e69ecd99b06bd6e11b3716c33ce9b.jpg" width="987" height="453" class="img_ev3q"></p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="characteristics-of-snowflake-schema">Characteristics of Snowflake Schema<a href="#characteristics-of-snowflake-schema" class="hash-link" aria-label="Direct link to Characteristics of Snowflake Schema" title="Direct link to Characteristics of Snowflake Schema">​</a></h3>
 <ul>
 <li>The main benefit of the snowflake schema it uses smaller disk space.</li>
@@ -67,7 +67,7 @@
 <table><thead><tr><th><strong>Star Schema</strong></th><th><strong>Snow Flake Schema</strong></th></tr></thead><tbody><tr><td>Hierarchies for the dimensions are stored in the dimensional table.</td><td>Hierarchies are divided into separate tables.</td></tr><tr><td>It contains a fact table surrounded by dimension tables.</td><td>One fact table surrounded by dimension table which are in turn surrounded by dimension table</td></tr><tr><td>In a star schema, only single join creates the relationship between the fact table and any dimension tables.</td><td>A snowflake schema requires many joins to fetch the data.</td></tr><tr><td>Simple DB Design.</td><td>Very Complex DB Design.</td></tr><tr><td>Denormalized Data structure and query also run faster.</td><td>Normalized Data Structure.</td></tr><tr><td>High level of Data redundancy</td><td>Very low-level data redundancy</td></tr><tr><td>Single Dimension table contains aggregated data.</td><td>Data Split into different Dimension Tables.</td></tr><tr><td>Cube processing is faster.</td><td>Cube processing might be slow because of the complex join.</td></tr><tr><td>Offers higher performing queries using Star Join Query Optimization. Tables may be connected with multiple dimensions.</td><td>The Snow Flake Schema is represented by centralized fact table which unlikely connected with multiple dimensions.</td></tr></tbody></table>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-a-galaxy-schema">What is a Galaxy schema?<a href="#what-is-a-galaxy-schema" class="hash-link" aria-label="Direct link to What is a Galaxy schema?" title="Direct link to What is a Galaxy schema?">​</a></h2>
 <p>A Galaxy Schema contains two fact table that shares dimension tables. It is also called Fact Constellation Schema. The schema is viewed as a collection of stars hence the name Galaxy Schema.</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Data-Warehousing_Warehouse-Schemas-image3-f3d586bdf26eafed034a6660932404f9.jpg" width="813" height="373" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Data-Warehousing_Warehouse-Schemas-image3-d4d34782e740caa9f9c5b34cb839c148.jpg" width="813" height="373" class="img_ev3q"></p>
 <p>As you can see in above figure, there are two facts table - Revenue &amp; Product</p>
 <p>In Galaxy schema shared dimensions are called <strong>Conformed Dimensions.</strong></p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="characteristics-of-galaxy-schema">Characteristics of Galaxy Schema<a href="#characteristics-of-galaxy-schema" class="hash-link" aria-label="Direct link to Characteristics of Galaxy Schema" title="Direct link to Characteristics of Galaxy Schema">​</a></h3>
@@ -79,7 +79,7 @@
 <li>This schema is helpful for aggregating fact tables for better understanding.</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-star-cluster-schema">What is Star Cluster Schema?<a href="#what-is-star-cluster-schema" class="hash-link" aria-label="Direct link to What is Star Cluster Schema?" title="Direct link to What is Star Cluster Schema?">​</a></h2>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Data-Warehousing_Warehouse-Schemas-image4-01170f2940a1e3bd9598a45bfd457ee2.jpg" width="782" height="215" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Data-Warehousing_Warehouse-Schemas-image4-63902c38fa678c5a4ead330ba16986e6.jpg" width="782" height="215" class="img_ev3q"></p>
 <p>Snowflake schema contains fully expanded hierarchies. However, this can add complexity to the Schema and requires extra joins. On the other hand, star schema contains fully collapsed hierarchies, which may lead to redundancy. So, the best solution may be a balance between these two schemas which is star cluster schema design.</p>
 <p>Overlapping dimensions can be found as forks in hierarchies. A fork happens when an entity acts as a parent in two different dimensional hierarchies. Fork entities then identified as classification with one-to-many relationships.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="summary">Summary<a href="#summary" class="hash-link" aria-label="Direct link to Summary" title="Direct link to Summary">​</a></h2>

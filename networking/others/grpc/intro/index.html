@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.16e63e15.css">
-<script src="/assets/js/runtime~main.95f914c7.js" defer="defer"></script>
-<script src="/assets/js/main.d3ee03ee.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.f0791415.js" defer="defer"></script>
+<script src="/assets/js/main.f70c48bb.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -32,7 +32,7 @@
 <p><strong>gRPC</strong> is an <a href="https://en.wikipedia.org/wiki/Open-source_software" target="_blank" rel="noopener noreferrer">open source</a><a href="https://en.wikipedia.org/wiki/Remote_procedure_call" target="_blank" rel="noopener noreferrer">remote procedure call</a>(RPC) system initially developed at <a href="https://en.wikipedia.org/wiki/Google" target="_blank" rel="noopener noreferrer">Google</a>. It uses <a href="https://en.wikipedia.org/wiki/HTTP/2" target="_blank" rel="noopener noreferrer">HTTP/2</a> for transport, <a href="https://en.wikipedia.org/wiki/Protocol_Buffers" target="_blank" rel="noopener noreferrer">Protocol Buffers</a> as the <a href="https://en.wikipedia.org/wiki/Interface_description_language" target="_blank" rel="noopener noreferrer">interface description language</a>, and provides features such as authentication, bidirectional streaming and flow control, blocking or nonblocking bindings, and cancellation and timeouts. It generates cross-platform client and server bindings for many languages</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="overview">Overview<a href="#overview" class="hash-link" aria-label="Direct link to Overview" title="Direct link to Overview">​</a></h2>
 <p>In gRPC a client application can directly call methods on a server application on a different machine as if it was a local object, making it easier for you to create distributed applications and services. As in many RPC systems, gRPC is based around the idea of defining a service, specifying the methods that can be called remotely with their parameters and return types. On the server side, the server implements this interface and runs a gRPC server to handle client calls. On the client side, the client has a stub (referred to as just a client in some languages) that provides the same methods as the server.</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/gRPC-image1-0a9559aa576fbcba192cc67dfadc6603.jpg" width="552" height="327" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/gRPC-image1-42f4f92a7696253de8f43f44a265e553.jpg" width="552" height="327" class="img_ev3q"></p>
 <p>gRPC clients and servers can run and talk to each other in a variety of environments - from servers inside Google to your own desktop - and can be written in any of gRPC&#x27;s supported languages. So, for example, you can easily create a gRPC server in Java with clients in Go, Python, or Ruby. In addition, the latest Google APIs will have gRPC versions of their interfaces, letting you easily build Google functionality into your applications.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="types-of-grpc-service">Types of gRPC service<a href="#types-of-grpc-service" class="hash-link" aria-label="Direct link to Types of gRPC service" title="Direct link to Types of gRPC service">​</a></h2>
 <p>gRPC lets you define four kinds of service method</p>
@@ -111,7 +111,7 @@
 <li><strong>Service discovery</strong></li>
 <li><strong>load balancing (Client-side / Look-aside load balancing)</strong></li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/gRPC-image2-0db3867238a7c910fafaddf014849f47.jpg" width="1099" height="750" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/gRPC-image2-f9aeaecd515d2730623d508aa3e7dc61.jpg" width="999" height="682" class="img_ev3q"></p>
 <ul>
 <li>Proxyless RPC Mesh</li>
 </ul>
@@ -122,12 +122,12 @@
 <li><a href="https://github.com/grpc/grpc/blob/master/doc/naming" target="_blank" rel="noopener noreferrer">name resolver</a></li>
 <li><a href="https://github.com/grpc/grpc/blob/master/doc/load-balancing" target="_blank" rel="noopener noreferrer">load balancing policy</a>.</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/gRPC-image3-41edcac24ec8ed88433b6422343f7193.jpg" width="1048" height="606" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/gRPC-image3-2eeac1b4abd6d68e4c94f0401c9bf3cc.jpg" width="1000" height="578" class="img_ev3q"></p>
 <p><a href="https://github.com/jtattermusch/grpc-loadbalancing-kubernetes-examples" target="_blank" rel="noopener noreferrer">https://github.com/jtattermusch/grpc-loadbalancing-kubernetes-examples</a></p>
 <ul>
 <li><em><em>Automatic retries, hedging</em> (Retry hedging)</em>*</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/gRPC-image4-c9526d88262a6d91b2bece611c8e5a04.jpg" width="1101" height="530" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/gRPC-image4-93a5423f4c9798d4c016fde22265a242.jpg" width="999" height="481" class="img_ev3q"></p>
 <ul>
 <li>Hit all backend</li>
 <li>If you get response from one client, cancel all requests</li>

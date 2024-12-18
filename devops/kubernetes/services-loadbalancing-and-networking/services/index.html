@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.16e63e15.css">
-<script src="/assets/js/runtime~main.95f914c7.js" defer="defer"></script>
-<script src="/assets/js/main.d3ee03ee.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.f0791415.js" defer="defer"></script>
+<script src="/assets/js/main.f70c48bb.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -69,7 +69,7 @@
 </ul>
 <p>The front-end is stable and reliable. This means the name, IP and port number are guaranteed to never change for the entire life of the Service. The stable nature of the Service front-end also means that you do not need to worry about stale entries on clients that cache DNS results for longer than the standards recommend.</p>
 <p>The back-end is highly dynamic and will load-balance traffic to all Pods in the cluster that match the set of labels the Service is configured to look for.</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/DevOps-Kubernetes-Services-image1-d0f0e40735af867b21ffca247c5977d2.jpg" width="1246" height="250" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/DevOps-Kubernetes-Services-image1-a2b47a27f3d6fcac780cd714ab340389.jpg" width="997" height="200" class="img_ev3q"></p>
 <p>Load-balancing in this situation is simple L4 round-robin load-balancing. This works at the &quot;connection&quot; level where all requests over the same connection go to the same Pod. This means two things:</p>
 <ul>
 <li>Multiple requests from the same browser will always hit the samePod. This is because browsers send all requests over a single connection that is kept open using keep alives. Requests via tools like curl open a new connection for each request and will therefore hit different Pods.</li>

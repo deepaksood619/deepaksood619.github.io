@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.16e63e15.css">
-<script src="/assets/js/runtime~main.95f914c7.js" defer="defer"></script>
-<script src="/assets/js/main.d3ee03ee.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.f0791415.js" defer="defer"></script>
+<script src="/assets/js/main.f70c48bb.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -36,7 +36,7 @@
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="horizontal-pod-autoscaler-hpa">Horizontal Pod Autoscaler (HPA)<a href="#horizontal-pod-autoscaler-hpa" class="hash-link" aria-label="Direct link to Horizontal Pod Autoscaler (HPA)" title="Direct link to Horizontal Pod Autoscaler (HPA)">​</a></h2>
 <p>The Horizontal Pod Autoscaler automatically scales the number of pods in a replication controller, deployment, replica set or stateful set based on observed CPU utilization (or, with<a href="https://git.k8s.io/community/contributors/design-proposals/instrumentation/custom-metrics-api" target="_blank" rel="noopener noreferrer">custom metrics</a> support, on some other application-provided metrics). Note that Horizontal Pod Autoscaling does not apply to objects that can&#x27;t be scaled, for example, DaemonSets.</p>
 <p>The Horizontal Pod Autoscaler is implemented as a Kubernetes API resource and a controller. The resource determines the behavior of the controller. The controller periodically adjusts the number of replicas in a replication controller or deployment to match the observed average CPU utilization to the target specified by user.</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/DevOps-Kubernetes-Tasks-image1-98dbee72b84f7e251d4d6dfac82a3d55.jpg" width="822" height="742" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/DevOps-Kubernetes-Tasks-image1-a57d3b08d45312dd9d77eb25c54d4e35.jpg" width="720" height="650" class="img_ev3q"></p>
 <p>The Horizontal Pod Autoscaler is implemented as a control loop, with a period controlled by the controller manager&#x27;s--horizontal-pod-autoscaler-sync-periodflag (with a default value of 15 seconds).</p>
 <p>When managing the scale of a group of replicas using the Horizontal Pod Autoscaler, it is possible that the number of replicas keeps fluctuating frequently due to the dynamic nature of the metrics evaluated. This is sometimes referred to as <em>thrashing</em>.</p>
 <p>desiredReplicas = ceil[currentReplicas * ( currentMetricValue / desiredMetricValue )]</p>

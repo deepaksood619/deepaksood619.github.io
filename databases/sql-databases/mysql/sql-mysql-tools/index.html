@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.16e63e15.css">
-<script src="/assets/js/runtime~main.95f914c7.js" defer="defer"></script>
-<script src="/assets/js/main.d3ee03ee.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.f0791415.js" defer="defer"></script>
+<script src="/assets/js/main.f70c48bb.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -63,11 +63,11 @@
 <p>Other popular online schema change tools, such as Percona&#x27;s <a href="https://www.percona.com/doc/percona-toolkit/LATEST/pt-online-schema-change.html" target="_blank" rel="noopener noreferrer">pt-online-schema-change</a>, work by implementing a set of three triggers (INSERT, UPDATE, andDELETE) on the master to keep a shadow copy table in sync with changes. This introduces a small performance penalty due to write amplification, but more significantly requires seven instances of metadata locks. These effectively stall DML (Data Manipulation Language) events.</p>
 <p>Since Gh-ost operates using the binary log, it is not susceptible to the <a href="https://github.com/github/gh-ost/blob/master/doc/why-triggerless" target="_blank" rel="noopener noreferrer">trigger-based drawbacks</a>. Finally Gh-ost is able to effectively <a href="https://github.com/github/gh-ost/blob/master/doc/interactive-commands#examples" target="_blank" rel="noopener noreferrer">throttle activity to zero events</a>, allowing you to pause the schema migration for a while if your server begins to struggle, and resume when the activity bubble moves on.</p>
 <p>So how does Gh-ost work? By default, Gh-ost connects to a replica (slave), identifies the master, and applies the migration on the master. It receives changes on a replica to the source table in <a href="https://dev.mysql.com/doc/en/binary-log-setting.html" target="_blank" rel="noopener noreferrer">binlog_format=ROW</a>, parses the log, and converts these statements to be re-executed on the master&#x27;s shadow table.It keeps track of the row counts on the replica and identifies when it is time to perform an atomic cutover (switch tables).</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/MySQL_SQL-MySQL-Tools-image1-be8d9682a736aca4a2d23e57286bcf9d.jpg" width="1200" height="537" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/MySQL_SQL-MySQL-Tools-image1-34a13b24e28b3c2583b6f00039a7c42c.jpg" width="999" height="447" class="img_ev3q"></p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="gh-ost-operation-modes">Gh-ost operation modes<a href="#gh-ost-operation-modes" class="hash-link" aria-label="Direct link to Gh-ost operation modes" title="Direct link to Gh-ost operation modes">​</a></h3>
 <p>Gh-ost provides an alternative mode where you execute the migration directly on the master (whether it has slaves or not), read back the master&#x27;s <code>binlog_format=ROW</code> events, and then re-apply them to the shadow table.</p>
 <p>A final option is available to run the migration only on the replica without impacting the master, so you can test or otherwise validate the migration.</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/MySQL_SQL-MySQL-Tools-image2-3bedb6f8934258d8a65cb42494cd1033.jpg" width="1200" height="502" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/MySQL_SQL-MySQL-Tools-image2-2d51de2e5d138ad6f043f099c6dac670.jpg" width="999" height="418" class="img_ev3q"></p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="gh-ost-general-flow">Gh-ost general flow<a href="#gh-ost-general-flow" class="hash-link" aria-label="Direct link to Gh-ost general flow" title="Direct link to Gh-ost general flow">​</a></h3>
 <p>Note that if your schema has foreign keys then Gh-ost may not operate cleanly, as this configuration is not supported.</p>
 <p><a href="https://github.com/github/gh-ost" target="_blank" rel="noopener noreferrer">https://github.com/github/gh-ost</a></p>

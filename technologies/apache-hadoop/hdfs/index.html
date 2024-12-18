@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.16e63e15.css">
-<script src="/assets/js/runtime~main.95f914c7.js" defer="defer"></script>
-<script src="/assets/js/main.d3ee03ee.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.f0791415.js" defer="defer"></script>
+<script src="/assets/js/main.f70c48bb.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -93,7 +93,7 @@
 <li>Relax POSIX requirements to increase the throughput</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="basic-architecture-of-hdfs">Basic architecture of HDFS<a href="#basic-architecture-of-hdfs" class="hash-link" aria-label="Direct link to Basic architecture of HDFS" title="Direct link to Basic architecture of HDFS">​</a></h2>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Technologies-Apache-HDFS-image1-5d56e6e42933e11ecd75363e8577031f.jpg" width="1098" height="632" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Technologies-Apache-HDFS-image1-0c56c47d5e8388f722afd12d17628f3b.jpg" width="999" height="575" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="hdfs-architecture-key-components">HDFS Architecture: Key components<a href="#hdfs-architecture-key-components" class="hash-link" aria-label="Direct link to HDFS Architecture: Key components" title="Direct link to HDFS Architecture: Key components">​</a></h2>
 <ul>
 <li>Single NameNode: A master server that manages the file system namespace and basically regulates access to these files from clients, and it also keeps track of where the data is on the DataNodes and where the blocks are distributed essentially.</li>
@@ -157,7 +157,7 @@
 </ul>
 </li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Technologies-Apache-HDFS-image2-d867a2c844225c883809f139148faa34.jpg" width="1440" height="1080" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Technologies-Apache-HDFS-image2-553e0ec7ddb5cc1b7faace93decc810f.jpg" width="1000" height="750" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="hdfs-performance-measures">HDFS Performance Measures<a href="#hdfs-performance-measures" class="hash-link" aria-label="Direct link to HDFS Performance Measures" title="Direct link to HDFS Performance Measures">​</a></h2>
 <ul>
 <li>Determine the number of blocks for a given file size</li>
@@ -168,7 +168,7 @@
 <ul>
 <li>Distributed data on local disks on several nodes</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Technologies-Apache-HDFS-image3-22e87464806ac6ee622f890342b883c0.jpg" width="1099" height="179" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Technologies-Apache-HDFS-image3-afe9a21d26eeba8634d202284e6d648f.jpg" width="995" height="162" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="hdfs-block-size">HDFS Block Size<a href="#hdfs-block-size" class="hash-link" aria-label="Direct link to HDFS Block Size" title="Direct link to HDFS Block Size">​</a></h2>
 <ul>
 <li>Default block size is 64 megabytes</li>
@@ -180,7 +180,7 @@
 <li><strong>NameNode memory usage:</strong> Every block that you create basically every file could be a lot of blocks as we saw in the previous case, 160 blocks. And if you have millions of files that&#x27;s millions of objects essentially. And for each object, it uses a bit of memory on the NameNode, so that is a direct effect of the number of blocks. But if you have replication, then you have 3 times the number of blocks</li>
 <li><strong>Number of map tasks:</strong> Number of maps typically depends on the number of blocks being processed.</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Technologies-Apache-HDFS-image4-2724b93b755d4168288c22317f529afd.jpg" width="714" height="238" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Technologies-Apache-HDFS-image4-8d4aaa9047e20a3736e4a30d07aa1cb9.jpg" width="714" height="238" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="large-no-of-small-files-impact-on-name-node">Large No. of small files: Impact on Name node<a href="#large-no-of-small-files-impact-on-name-node" class="hash-link" aria-label="Direct link to Large No. of small files: Impact on Name node" title="Direct link to Large No. of small files: Impact on Name node">​</a></h2>
 <ul>
 <li><strong>Memory usage:</strong> Typically, the usage is around 150 bytes per object. Now, if you have a billion objects, that&#x27;s going to be like 300GB of memory.</li>
@@ -203,8 +203,8 @@
 </li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="read--write-processes-in-hdfs">Read / Write Processes in HDFS<a href="#read--write-processes-in-hdfs" class="hash-link" aria-label="Direct link to Read / Write Processes in HDFS" title="Direct link to Read / Write Processes in HDFS">​</a></h2>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Technologies-Apache-HDFS-image5-974b4c50062f3673ad2c9c41bc9b5350.jpg" width="1440" height="1080" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Technologies-Apache-HDFS-image6-ae50bfa8102c9227622bec45aeca7931.jpg" width="1440" height="1080" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Technologies-Apache-HDFS-image5-05414860573d96551babc6c658d2dd52.jpg" width="1000" height="750" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Technologies-Apache-HDFS-image6-69c9c8b6d7ddb8ed09ff17bb0ed91978.jpg" width="1000" height="750" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="hdfs-tuning-parameters">HDFS Tuning Parameters<a href="#hdfs-tuning-parameters" class="hash-link" aria-label="Direct link to HDFS Tuning Parameters" title="Direct link to HDFS Tuning Parameters">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="overview">Overview<a href="#overview" class="hash-link" aria-label="Direct link to Overview" title="Direct link to Overview">​</a></h3>
 <ul>

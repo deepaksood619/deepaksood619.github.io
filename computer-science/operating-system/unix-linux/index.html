@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.16e63e15.css">
-<script src="/assets/js/runtime~main.95f914c7.js" defer="defer"></script>
-<script src="/assets/js/main.d3ee03ee.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.f0791415.js" defer="defer"></script>
+<script src="/assets/js/main.f70c48bb.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -39,7 +39,7 @@
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="linux-is-an-extensionless-system">Linux is an extensionless system<a href="#linux-is-an-extensionless-system" class="hash-link" aria-label="Direct link to Linux is an extensionless system" title="Direct link to Linux is an extensionless system">​</a></h2>
 <p>Files can have any extension they like or none at all.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="directory-structure">Directory Structure<a href="#directory-structure" class="hash-link" aria-label="Direct link to Directory Structure" title="Direct link to Directory Structure">​</a></h2>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Unix-Linux-image1-d592f0f2f26321363bb1e51dc749e362.jpg" width="747" height="421" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Unix-Linux-image1-5664e29f7916228bd1bd523b38394121.jpg" width="747" height="421" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="unix-file-types">Unix File Types<a href="#unix-file-types" class="hash-link" aria-label="Direct link to Unix File Types" title="Direct link to Unix File Types">​</a></h2>
 <p>There are 6 file types in Unix systems -</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="regular-file">Regular file<a href="#regular-file" class="hash-link" aria-label="Direct link to Regular file" title="Direct link to Regular file">​</a></h3>
@@ -75,14 +75,14 @@ Here&#x27;s how the different types of special device files look in your ls outp
 <p><a href="https://linux-audit.com/linux-capabilities-101" target="_blank" rel="noopener noreferrer">https://linux-audit.com/linux-capabilities-101</a></p>
 <p><a href="https://blog.container-solutions.com/linux-capabilities-why-they-exist-and-how-they-work" target="_blank" rel="noopener noreferrer">https://blog.container-solutions.com/linux-capabilities-why-they-exist-and-how-they-work</a></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="linux-kernel">Linux kernel<a href="#linux-kernel" class="hash-link" aria-label="Direct link to Linux kernel" title="Direct link to Linux kernel">​</a></h2>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Unix-Linux-image2-bbee5f959552cda5c70d99484202f258.jpg" width="1506" height="845" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Unix-Linux-image2-480fe339f29764e0b10ccc2257b04cc7.jpg" width="1000" height="561" class="img_ev3q"></p>
 <p>The kernel space is where we have system memory for low level applications on the kernel running. The user space is the environment where our user processes function and execute.</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Unix-Linux-image3-9c8220da33540df8de4716e5116efb5a.jpg" width="760" height="300" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Unix-Linux-image4-e2948d664c00420b5043bcf7b838ffe3.jpg" width="422" height="628" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Unix-Linux-image3-68f327e9949febe2544eaff965f21ae5.jpg" width="760" height="300" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Unix-Linux-image4-b307d6e6c5bd7c13fbeed0c04cb34bac.jpg" width="422" height="628" class="img_ev3q"></p>
 <p>Whenever an applications makes a request to a kernel level function, an interrupt is sent which tells the processor to stop whatever it is doing and attend to that particular request, you can think about it like context switching if it makes it easier to understand. Provided the user space application has relevant permission, there&#x27;s a context switch to the kernel space, the user space application awaits a response back after the context switch has started and the required program/functionality in the kernel space is executed through the aid of the appropriate interrupt handler.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="syscalls">Syscalls<a href="#syscalls" class="hash-link" aria-label="Direct link to Syscalls" title="Direct link to Syscalls">​</a></h2>
 <p>Systems Calls aka syscall is an API which allows a <strong>small</strong> part of kernel functionality to be exposed to user level applications. A small part is really stressed to inform whoever reading that syscalls are limited and are generic to serve a purpose. They are not the same across every operating system and do differ in both definition and mode of access.</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Unix-Linux-image5-2c5c6f30dc119aec9b66a291a016d34d.jpg" width="1194" height="810" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Unix-Linux-image5-31a66c8ebabfca7691589206ec1589c9.jpg" width="999" height="678" class="img_ev3q"></p>
 <p>Sometimes, we have a group of syscalls that we want to group together, we do this using a linux kernel feature called Capabilities. These are predefined sets of privileges which a running program can have access to or be limited by.</p>
 <p>Capabilities further enhance syscalls by grouping related ones into defined privileges that can be granted or denied at once. This prevents even root level applications from exploiting restricted kernel spaces with reserved permissions.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="linux-namespaces">Linux Namespaces<a href="#linux-namespaces" class="hash-link" aria-label="Direct link to Linux Namespaces" title="Direct link to Linux Namespaces">​</a></h2>
@@ -148,7 +148,7 @@ Functions</p>
 <p>The Portable Operating System Interface (POSIX)is a family of <a href="https://en.wikipedia.org/wiki/Standardization" target="_blank" rel="noopener noreferrer">standards</a> specified by the <a href="https://en.wikipedia.org/wiki/IEEE_Computer_Society" target="_blank" rel="noopener noreferrer">IEEE Computer Society</a> for maintaining compatibility between <a href="https://en.wikipedia.org/wiki/Operating_system" target="_blank" rel="noopener noreferrer">operating systems</a>. POSIX defines the <a href="https://en.wikipedia.org/wiki/Application_programming_interface" target="_blank" rel="noopener noreferrer">application programming interface</a>(API), along with command line <a href="https://en.wikipedia.org/wiki/Unix_shell" target="_blank" rel="noopener noreferrer">shells</a> and utility interfaces, for software compatibility with variants of <a href="https://en.wikipedia.org/wiki/Unix" target="_blank" rel="noopener noreferrer">Unix</a> and other operating systems.</p>
 <p><a href="https://en.wikipedia.org/wiki/POSIX" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/POSIX</a></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="boot-process">Boot Process<a href="#boot-process" class="hash-link" aria-label="Direct link to Boot Process" title="Direct link to Boot Process">​</a></h2>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Unix-Linux-image6-20ec4d736c2d9a780e45f5c70b47622e.jpg" width="800" height="428" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Unix-Linux-image6-a374a35f9d55abaa52dba4bd4acaa051.jpg" width="800" height="428" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="distributions">Distributions<a href="#distributions" class="hash-link" aria-label="Direct link to Distributions" title="Direct link to Distributions">​</a></h2>
 <p><a href="https://dev.to/pluralsight/which-distribution-of-linux-should-i-use-51g7" target="_blank" rel="noopener noreferrer">https://dev.to/pluralsight/which-distribution-of-linux-should-i-use-51g7</a></p>
 <ul>

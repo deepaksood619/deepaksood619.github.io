@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.16e63e15.css">
-<script src="/assets/js/runtime~main.95f914c7.js" defer="defer"></script>
-<script src="/assets/js/main.d3ee03ee.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.f0791415.js" defer="defer"></script>
+<script src="/assets/js/main.f70c48bb.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -113,8 +113,8 @@ Temporary tables</p>
 <li>Immutable blocks means that we only logically delete rows on UPDATE or DELETE</li>
 <li>Must VACUUM or DEEP COPY to remove ghost rows from table</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/AWS-Redshift_Deep-dive-Best-practices-image1-37fec9dbd9a60e231c8c1372f0af71fd.jpg" width="1018" height="418" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/AWS-Redshift_Deep-dive-Best-practices-image2-34279566519c07a62e8c8f978b0f0cc4.jpg" width="1016" height="460" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/AWS-Redshift_Deep-dive-Best-practices-image1-6d10d6b7045220bf6d61dd0d855d240b.jpg" width="999" height="410" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/AWS-Redshift_Deep-dive-Best-practices-image2-56deb6e729c2a79f2ac9605eb14fc1f0.jpg" width="998" height="452" class="img_ev3q"></p>
 <p>Steps</p>
 <ol>
 <li>Load CSV data into a staging table</li>
@@ -122,7 +122,7 @@ Temporary tables</p>
 <li>Insert (or append) data from the staging into the production table</li>
 </ol>
 <p>Create a Transaction</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/AWS-Redshift_Deep-dive-Best-practices-image3-ddc6a6dae376b1d3c644301d81e88d1e.jpg" width="954" height="408" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/AWS-Redshift_Deep-dive-Best-practices-image3-a9972fa6c52e2c3ba19e26d4e49c276a.jpg" width="954" height="408" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="best-practices-elt">Best practices: ELT<a href="#best-practices-elt" class="hash-link" aria-label="Direct link to Best practices: ELT" title="Direct link to Best practices: ELT">​</a></h2>
 <p>Wrap workflow/statements in an explicit transaction</p>
 <p>Consider using DROP TABLE or TRUNCATE instead of DELETE</p>

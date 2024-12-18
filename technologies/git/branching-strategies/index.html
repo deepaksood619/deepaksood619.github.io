@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.16e63e15.css">
-<script src="/assets/js/runtime~main.95f914c7.js" defer="defer"></script>
-<script src="/assets/js/main.d3ee03ee.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.f0791415.js" defer="defer"></script>
+<script src="/assets/js/main.f70c48bb.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -42,8 +42,8 @@
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="trunk-based-development">Trunk based development<a href="#trunk-based-development" class="hash-link" aria-label="Direct link to Trunk based development" title="Direct link to Trunk based development">​</a></h2>
 <p>only a single branch (called trunk) everyone commits to it. Making sure they commit at least once in 24 hours. (Trunk means main development branch)</p>
 <p>A source-control branching model, where developers collaborate on code in a single branch called &#x27;trunk&#x27; *, resist any pressure to create other long-lived development branches by employing documented techniques. They therefore avoid merge hell, do not break the build, and live happily ever after.</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Technologies-Git-Branching-Strategies-image1-a96f7507730a8515451455824bb98de7.jpg" width="712" height="183" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Technologies-Git-Branching-Strategies-image2-68c0dd5b0cff8f983c0b9d5a89aaef99.jpg" width="726" height="366" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Technologies-Git-Branching-Strategies-image1-28f657667bb435b6b1e5ead58133d0e8.jpg" width="712" height="183" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Technologies-Git-Branching-Strategies-image2-7a5a80511db9e960dd21cefb2026e6ff.jpg" width="726" height="366" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="git-flow---feature-branches-can-cause-long-running-branches-which-can-be-hard-to-merge">Git Flow - feature branches (can cause long running branches which can be hard to merge)<a href="#git-flow---feature-branches-can-cause-long-running-branches-which-can-be-hard-to-merge" class="hash-link" aria-label="Direct link to Git Flow - feature branches (can cause long running branches which can be hard to merge)" title="Direct link to Git Flow - feature branches (can cause long running branches which can be hard to merge)">​</a></h2>
 <p>GitHub flow, is supposed to be a very lightweight branching strategy for Git. You can&#x27;t say the same about GitFlow. It lies on the opposite end of the spectrum, being a more <strong>heavy-weight process</strong>. So, how does GitFlow work?</p>
 <p>In short, <strong>GitFlow relies on two long-lived branches and some short-lived ones</strong>. The permanent ones are good old master and the new kid on the block, &quot;development.&quot; The state of &quot;master&quot; should always be pristine; it reflects the last &quot;good,&quot; stable version that&#x27;s in production.</p>
@@ -64,7 +64,7 @@
 <p>Hotfix branches are also meant to prepare for a release in production. The difference, though, is that this time the release wasn&#x27;t planned. Instead, it&#x27;s due to necessity: a critical bug in production that must be dealt with swiftly.</p>
 <p>The idea is that work on new features can continue as usual while, at the same time, someone is preparing a fix for the critical production problem.</p>
 <p>Hotfix branches should be created from master since that branch reflects the last desirable state of the application in production. While the fix is done and ready to go, the branch should be merged to master. But don&#x27;t just merge it to master: it&#x27;s also vital that it&#x27;s merged to &quot;develop&quot; because the feature releases will need those corrections as well.</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Technologies-Git-Branching-Strategies-image3-8460a53f183b7a1b8cf923d56c350f2d.jpg" width="1150" height="1524" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Technologies-Git-Branching-Strategies-image3-4623ab56bb1abc000c93c28cb4ab2b2c.jpg" width="1000" height="1325" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="enhanced-git-flow">Enhanced Git Flow<a href="#enhanced-git-flow" class="hash-link" aria-label="Direct link to Enhanced Git Flow" title="Direct link to Enhanced Git Flow">​</a></h2>
 <p><strong>Master or single flow problems</strong></p>
 <p>If there&#x27;s a critical bug in production that needs to be fixed immediately, it would be a major disaster for the development team to have to roll back all the work accrued in the main branch thus far just to deploy the fix. And deploying code without proper testing-whether the code is considered half-baked or well-developed-is clearly not an option.</p>

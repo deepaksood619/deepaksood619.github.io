@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.16e63e15.css">
-<script src="/assets/js/runtime~main.95f914c7.js" defer="defer"></script>
-<script src="/assets/js/main.d3ee03ee.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.f0791415.js" defer="defer"></script>
+<script src="/assets/js/main.f70c48bb.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -31,7 +31,7 @@
 <ol>
 <li>Significant coefficients</li>
 </ol>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image1-972c19ee43a0f8cd540c241b019e0aee.jpg" width="1101" height="360" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image1-9779535898f1d98960104d004f42bcef.jpg" width="997" height="326" class="img_ev3q"></p>
 <ol start="2">
 <li>
 <p>Parsimonious (as simple as possible)</p>
@@ -62,14 +62,14 @@
 <p>The name of the model comes from autoregression. This means that the model uses values of the same variable (auto) to estimate the current one (regression)</p>
 <p>We rely on autoregressive models when there is clear autocorrelation within the data. The term (autocorrelation) suggest that the variable is correlated with itself. More precisely, values from consecutive periods are related</p>
 <p>Since time series assumes that patterns found in the past translate to the future, if autocorrelation is present in the data, we need to us some form of AR model to capture this relationship if we wish to make good estimates</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image2-4fd0b3fd291a20e3999e7e3297fc3809.jpg" width="554" height="320" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image2-71a76e906a77da53d9392de7cb2c0e04.jpg" width="554" height="320" class="img_ev3q"></p>
 <ul>
 <li>A linear model, where current period values are a sum of past outcomes multiplied by a numeric factor</li>
 <li>phi is between -1 and +1</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="implementation-of-simple-mode-in-python">Implementation of simple mode in Python<a href="#implementation-of-simple-mode-in-python" class="hash-link" aria-label="Direct link to Implementation of simple mode in Python" title="Direct link to Implementation of simple mode in Python">​</a></h2>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image3-00f7f48eb420f0e2f49ea46c1ab67d50.jpg" width="1064" height="424" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image4-3cb9d68eb0153ca40d54c27f6786fe86.jpg" width="1100" height="440" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image3-73cd7e28909dfd3a92c4758f52c9244f.jpg" width="999" height="398" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image4-5844268777091c4351729d76f7d164b5.jpg" width="1000" height="400" class="img_ev3q"></p>
 <p>Which do we use to select the correct ARmodel and why: the ACFor the PACF? The PACF because it shows the individual effect each past value has on the current one.</p>
 <div class="language-python codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-python codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token keyword" style="color:#00009f">from</span><span class="token plain"> statsmodels</span><span class="token punctuation" style="color:#393A34">.</span><span class="token plain">tsa</span><span class="token punctuation" style="color:#393A34">.</span><span class="token plain">arima_model </span><span class="token keyword" style="color:#00009f">import</span><span class="token plain"> ARMA</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">model_ar </span><span class="token operator" style="color:#393A34">=</span><span class="token plain"> ARMA</span><span class="token punctuation" style="color:#393A34">(</span><span class="token plain">df</span><span class="token punctuation" style="color:#393A34">.</span><span class="token plain">market_value</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"> order</span><span class="token operator" style="color:#393A34">=</span><span class="token punctuation" style="color:#393A34">(</span><span class="token number" style="color:#36acaa">1</span><span class="token punctuation" style="color:#393A34">,</span><span class="token number" style="color:#36acaa">0</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">results_ar </span><span class="token operator" style="color:#393A34">=</span><span class="token plain"> model_ar</span><span class="token punctuation" style="color:#393A34">.</span><span class="token plain">fit</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">results_ar</span><span class="token punctuation" style="color:#393A34">.</span><span class="token plain">summary</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <p>Why does the model estimate two values, when we&#x27;re only using an AR(1)model?</p>
@@ -103,9 +103,9 @@
 <p>The name of the model comes from the moving averages of fixed period intervals as we cruise move through the data set</p>
 <p>This implies that there are other factors apart from the previous values of the variable that need to be accounted for. Therefore, if we know how far off our predictions were last time, then we have a better chance of estimating the prices better this time</p>
 <p>This is why, these models incorporate past residuals (also known as error terms) to help us improve our estimations. These make sure our model handles unexpected shocks well, which is why it&#x27;s also known as a smoothing model</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image5-1ce0779821a6e31816f884f9738db8a5.jpg" width="478" height="308" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image5-a0fb4e403959f417f64c0426bea97353.jpg" width="478" height="308" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="implementation-of-the-simple-model-in-python">Implementation of the Simple Model in Python<a href="#implementation-of-the-simple-model-in-python" class="hash-link" aria-label="Direct link to Implementation of the Simple Model in Python" title="Direct link to Implementation of the Simple Model in Python">​</a></h2>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image6-6f959fbdabf02706cb30453563de4a43.jpg" width="1066" height="442" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image6-4879af80a9df26adbae9e049668eaccb.jpg" width="998" height="414" class="img_ev3q"></p>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="how-is-the-mamodel-different-from-the-armodel">How is the MAmodel different from the ARmodel?<a href="#how-is-the-mamodel-different-from-the-armodel" class="hash-link" aria-label="Direct link to How is the MAmodel different from the ARmodel?" title="Direct link to How is the MAmodel different from the ARmodel?">​</a></h4>
 <p>The MA model includes past residuals, while the ARmodel includes past values.</p>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-the-most-important-change-we-make-when-switching-from-an-ar1-model-to-an-ma1-model">What is the most important change we make when switching from an AR(1) model to an MA(1) model?<a href="#what-is-the-most-important-change-we-make-when-switching-from-an-ar1-model-to-an-ma1-model" class="hash-link" aria-label="Direct link to What is the most important change we make when switching from an AR(1) model to an MA(1) model?" title="Direct link to What is the most important change we make when switching from an AR(1) model to an MA(1) model?">​</a></h4>
@@ -128,9 +128,9 @@
 <p>The name comes from combining the names of the two simpler models it incorporates - the AR and the MA</p>
 <p>The ARMA incorporates both past values (like the AR) and past errors (like the MA). By including both, we should improve our estimates. This is because we are enabling our AR model to calibrate (by including how far off our predictions were) and also giving a benchmark (different from the constant) to the MA model, which should severely decrease the variation in the residuals</p>
 <p>Picking the correct order for such a model could be tricky, since including or removing AR and MA orders can have widly different effects on the accuracy</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image7-3ea1124abacf56df6f800c0607582dc8.jpg" width="516" height="318" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image8-7ade1249972b6ef6dec76d906c59f728.jpg" width="1034" height="510" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image9-30ebf7580a4861320dbf32f52cadecf2.jpg" width="1100" height="236" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image7-4228446c861e3c130e2882a374b20901.jpg" width="516" height="318" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image8-e33ae876c50aad0129a182933a0a14a7.jpg" width="1000" height="493" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image9-188f3df405ba0837ecda3eff624e35ad.jpg" width="997" height="214" class="img_ev3q"></p>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="positive-07649-arl1returns-means-that">Positive 0.7649 ar.L1.returns means that<a href="#positive-07649-arl1returns-means-that" class="hash-link" aria-label="Direct link to Positive 0.7649 ar.L1.returns means that" title="Direct link to Positive 0.7649 ar.L1.returns means that">​</a></h4>
 <ul>
 <li>A coefficient above 75% suggest that there is a positive tendency between past and present values</li>
@@ -168,8 +168,8 @@
 <p>Then, we fit a normal ARMA model like we already learned to</p>
 <p>An ARIMA model with 0 degrees of integration is simply an ARMA model, and so any ARIMA (p,0,1) model is equivalent to an ARMA (p,q)</p>
 <p>The order of integration (d) tells us exactly how many times we need to compute the non-seasonal differences between the values to reach stationarity and including more is discouraged (due to data attrition and interpretability of the results)</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image10-8a75be694cccf21969c492a7f0d8bcf0.jpg" width="568" height="332" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image11-cace5cb79f7104a5dab84b852bf3ea42.jpg" width="1010" height="512" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image10-7660c32f28dd425a1905c256ab412d06.jpg" width="568" height="332" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image11-791b1d065aeb81d58b6fa3e0737e0aea.jpg" width="998" height="506" class="img_ev3q"></p>
 <p>p - AutoRegressive (AR) components</p>
 <p>d - Integrated components</p>
 <p>The number of times we need to integrate the time-series to ensure stationarity</p>
@@ -180,7 +180,7 @@
 <li>ARIMA (0, 0, q) = MA(q)</li>
 <li>ARIMA (p, 0, 0) = AR(p)</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image12-e409498cafe1a42fb04e4b77ca52d45d.jpg" width="1099" height="628" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image12-90db3c44d0f1c2527b199528657f1ca9.jpg" width="999" height="571" class="img_ev3q"></p>
 <ul>
 <li>For any integration we lose a single observation</li>
 </ul>
@@ -188,7 +188,7 @@
 <p>An ARMA(1,2) and an MA(1)</p>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="why-does-an-arimapdq-model-estimate-the-same-number-of-coefficients-as-an-armapq-model-if-the-former-has-a-higher-total-order">Why does an ARIMA(p,d,q) model estimate the same number of coefficients as an ARMA(p,q) model if the former has a higher total order?<a href="#why-does-an-arimapdq-model-estimate-the-same-number-of-coefficients-as-an-armapq-model-if-the-former-has-a-higher-total-order" class="hash-link" aria-label="Direct link to Why does an ARIMA(p,d,q) model estimate the same number of coefficients as an ARMA(p,q) model if the former has a higher total order?" title="Direct link to Why does an ARIMA(p,d,q) model estimate the same number of coefficients as an ARMA(p,q) model if the former has a higher total order?">​</a></h4>
 <p>Because the order of integration does not affect the number of coefficients we are trying to find.</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image13-7a88991a4be651a06be68ea231fcf156.jpg" width="1099" height="640" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image13-156699a13c307f536868d92d815fa457.jpg" width="999" height="582" class="img_ev3q"></p>
 <p>ARIMA (5,1,1)</p>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="why-do-we-expect-the-best-non-integrated-arma-models-for-returns-would-hold-the-best-fits-for-the-ar-and-ma-orders-of-the-arimapdq-for-prices">Why do we expect the best non-integrated ARMA models for returns would hold the best fits for the AR and MA orders of the ARIMA(p,d,q) for prices?<a href="#why-do-we-expect-the-best-non-integrated-arma-models-for-returns-would-hold-the-best-fits-for-the-ar-and-ma-orders-of-the-arimapdq-for-prices" class="hash-link" aria-label="Direct link to Why do we expect the best non-integrated ARMA models for returns would hold the best fits for the AR and MA orders of the ARIMA(p,d,q) for prices?" title="Direct link to Why do we expect the best non-integrated ARMA models for returns would hold the best fits for the AR and MA orders of the ARIMA(p,d,q) for prices?">​</a></h4>
 <p>Because price returns are a form of weighted integration</p>
@@ -204,8 +204,8 @@
 <p>The ARMAX is an extension of the ARIMA model, which incorporates other exogenous variables</p>
 <p>These variables can be pretty much anything that can have an affect on the values we are trying to estimate. The only requirement is that we have data available for every time period we are interested in. Thus we often rely on other time series as the exogenous components in the regression.</p>
 <p>These models are great, when a big part of the change period to period cannot be explained by past values and past errors alone, so including other relevant values might be of great help (like the prices for an index of a market of a neighbouring country)</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image14-3a3f6840907f6bdfe2f42c05ed0001a2.jpg" width="540" height="342" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image15-f33190f8087840b8035aa770bbf3b6a0.jpg" width="1104" height="512" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image14-2c3f803fc8c74166c6308864b17b937f.jpg" width="540" height="342" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image15-616e214a72967dae2ba13c0692278492.jpg" width="998" height="463" class="img_ev3q"></p>
 <p>The ARIMA is just an integrated version of the ARMA model. What that means is, we simply integrate the data (however many times is needed) to get a stationary set</p>
 <p>Then, we fit a normal ARMA model like we already learned to</p>
 <p>An ARIMA model with 0 degrees of integration is simply an ARMA model, and so any ARIMA (p,0,q) model is equivalent to an ARMA (p,q)</p>
@@ -230,8 +230,8 @@
 <p>By setting the values of certain orders to 0, or by not providing certain information, the model can be simplified</p>
 <p>For instance, by not including exogenous variables and having no integration, the model automatically becomes equivalent to a SARMA</p>
 <p>The equation on the left is exactly that - a SARIMAX equivalent of a SARMA</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image16-999fe35ae2c40c98780b7b27ee0fe10a.jpg" width="632" height="350" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image17-87ae228eb12d5e76a04f7522d2d6fdbf.jpg" width="1084" height="472" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image16-8f14b4ff114456a268dcd8cda2788277.jpg" width="632" height="350" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image17-e38c45bfb153400554757c97cd3c5f58.jpg" width="999" height="435" class="img_ev3q"></p>
 <p>Capital letters - Seasonal components</p>
 <p>Lower letters - Non seasonal components</p>
 <p>s = Length of cycle</p>
@@ -239,10 +239,10 @@
 <li>The number of periods needed to pass before the tendency reappears</li>
 <li>s = 1 -&gt; No seasonality</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image18-b1b0962c1eb749aa6e82290296d52a3e.jpg" width="1066" height="466" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image19-21e73c8a067cfae6281028c1f0c40528.jpg" width="1082" height="448" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image20-0626f3a4069ad3fac21cb156deaf3b5d.jpg" width="1080" height="480" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image21-eb1448dc04b9c879598f0e70a11cb1c5.jpg" width="1070" height="476" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image18-702ffdcee5bc7c9f30d8939ad5c9924b.jpg" width="1000" height="437" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image19-0d9c75c548458221c3340702ea9be4e5.jpg" width="1000" height="414" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image20-8541f43c9042c804e63de2236df97580.jpg" width="999" height="444" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image21-67a56a979d64a612fb3bc8b4e2b5a549.jpg" width="998" height="444" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="volatility">Volatility<a href="#volatility" class="hash-link" aria-label="Direct link to Volatility" title="Direct link to Volatility">​</a></h2>
 <ul>
 <li>The magnitude of residuals</li>
@@ -266,20 +266,20 @@
 <p>Unlike the previous models, the ARCH measures volatility of the results, rather than the results themselves. Thus, the purpose of it is entirely different and focused on predicting turbulence increase or decrease in the values</p>
 <p>As you can see on the left side of the equation, the endogenous variable is the variance, rather than the time series variable</p>
 <p>Thus, this is only the variance equation of the model. The simplest ARCH model assumes a 0 or constant mean, so this is the only equation we are interested in</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image22-c7926f02a1093697a69bff7976c78798.jpg" width="610" height="348" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image23-854148f2f494607070806c917263e780.jpg" width="1076" height="488" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image22-b4c535da898ddb794882c177adc2770d.jpg" width="610" height="348" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image23-1a84f5518079122df281af1a340707fa.jpg" width="999" height="453" class="img_ev3q"></p>
 <p>Why does the ARCHmodel require 2 equations?</p>
 <p>Because we need some sort of benchmark to measure the volatility away from it.</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image24-771ad5be419512b52899c274a4650274.jpg" width="1327" height="640" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image25-357c9aa1628ff82f53b263b3b67bafcf.jpg" width="1326" height="647" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image24-c5c7eb27a709cee504783fb0ee41ee25.jpg" width="999" height="482" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image25-dae65c9cd724153956c5c78a6e6cd7d0.jpg" width="998" height="487" class="img_ev3q"></p>
 <p>How many coefficients does the simple ARCHmodel estimate? - 3</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="garch-generalized-autoregressive-conditional-heteroskedasticity-model">GARCH (Generalized Autoregressive Conditional Heteroskedasticity Model)<a href="#garch-generalized-autoregressive-conditional-heteroskedasticity-model" class="hash-link" aria-label="Direct link to GARCH (Generalized Autoregressive Conditional Heteroskedasticity Model)" title="Direct link to GARCH (Generalized Autoregressive Conditional Heteroskedasticity Model)">​</a></h2>
 <p>As the name suggests, the GARCH is just the generalized version of the ARCH model</p>
 <p>This generalization is expressed in including past variances as well as past squared residuals to estimate current (and subsequent) variances</p>
 <p>The generalization comes from the fact that including a single past variance would (in theory) contain in itself the explanatory power of all other previous squared error terms</p>
 <p>It serves as a sort of ARMA equivalent to the ARCH, where we&#x27;re including both past values and past errors (albeit squared)</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image26-d82849bbcf6d9e190e787496ca3ad951.jpg" width="502" height="316" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image27-59b206b10be8d7d010ed3e8f9b01a0d5.jpg" width="1074" height="490" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image26-24964ee7d405a26fcbc6ce3300c2a473.jpg" width="502" height="316" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image27-8af6ea76742fe7a1459de4493f52ecf3.jpg" width="999" height="456" class="img_ev3q"></p>
 <p>How is the GARCH different from the ARCH?</p>
 <p>Includes past conditional variances</p>
 <p>Why is the GARCH similar to the ARMA?</p>
@@ -297,7 +297,7 @@
 <ul>
 <li>auto_arima by default only compares the model based on their AIC</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image28-72831cc28fde157ac5991a00d9d4aed8.jpg" width="1099" height="450" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Course-Time-Series-Analysis_Time-Series-Modeling-image28-6b8596fe17eaa3ee69d07515ab50787f.jpg" width="999" height="409" class="img_ev3q"></p>
 <p><a href="http://alkaline-ml.com/pmdarima/modules/generated/pmdarima.arima.auto_arima.html#pmdarima.arima.auto_arima" target="_blank" rel="noopener noreferrer">http://alkaline-ml.com/pmdarima/modules/generated/pmdarima.arima.auto_arima.html#pmdarima.arima.auto_arima</a></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="forecasting">Forecasting<a href="#forecasting" class="hash-link" aria-label="Direct link to Forecasting" title="Direct link to Forecasting">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="pitfallspeculiarities">Pitfalls/Peculiarities<a href="#pitfallspeculiarities" class="hash-link" aria-label="Direct link to Pitfalls/Peculiarities" title="Direct link to Pitfalls/Peculiarities">​</a></h3>

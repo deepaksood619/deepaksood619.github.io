@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.16e63e15.css">
-<script src="/assets/js/runtime~main.95f914c7.js" defer="defer"></script>
-<script src="/assets/js/main.d3ee03ee.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.f0791415.js" defer="defer"></script>
+<script src="/assets/js/main.f70c48bb.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -66,7 +66,7 @@
 <li>A related concept to generalization is overfitting. If your model has very low training error but high generalization error, then it is overfitting</li>
 <li>This means that the model has learned to model the noise in the training data, instead of learning the underlying structure of the data</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image1-efb495cb3cdf9f42ae901348fd4d54c5.jpg" width="1099" height="243" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image1-cf90c20d48352b2abef2b390181f3624.jpg" width="1000" height="221" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="connection-between-overfitting-and-generalization">Connection between overfitting and generalization<a href="#connection-between-overfitting-and-generalization" class="hash-link" aria-label="Direct link to Connection between overfitting and generalization" title="Direct link to Connection between overfitting and generalization">​</a></h2>
 <ul>
 <li>A model that overfits will not generalize well to new data</li>
@@ -79,7 +79,7 @@
 <li>Underfitting on the other hand, occurs when the model has not learned the structure of the data. This results in high training error and high test error</li>
 <li>Both are undesirable, since both mean that the model will not generalize well to new data. Overfitting generally occurs when a model is too complex, that is, it has too many parameters relative to the number of training samples. So to avoid overfitting, the model needs to be kept as simple as possible, and yet still solve the input/output mapping for the given data set</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image2-27ab8981a3cc8cd2c8d5f1a71f538d78.jpg" width="1102" height="199" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image2-95191a493257ae88567bfb127e761eeb.jpg" width="997" height="180" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-causes-overfitting">What causes overfitting<a href="#what-causes-overfitting" class="hash-link" aria-label="Direct link to What causes overfitting" title="Direct link to What causes overfitting">​</a></h2>
 <ul>
 <li>In summary, overfitting is when your model has learned the noise in the training data instead of the underlying structure of the data. You want to avoid overfitting so that your model will generalize well to new data</li>
@@ -88,7 +88,7 @@
 <ul>
 <li>A decision tree, also referred to as tree induction, the tree repeatedly splits the data in a node in order to get successively paired subsets of data</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image3-15f98ba4af99847c1dac747061cb0c86.jpg" width="508" height="428" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image3-be1f30c65e504d27c6316b7bcfc6b72f.jpg" width="508" height="428" class="img_ev3q"></p>
 <ul>
 <li>Note that a decision tree classifier can potentially expand its nodes until it can perfectly classify samples in the training data</li>
 <li>But if the tree grows node to fit the noise in the training data, then it will not classify a new sample well</li>
@@ -96,7 +96,7 @@
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="avoiding-overfitting-in-decision-trees">Avoiding Overfitting in Decision Trees<a href="#avoiding-overfitting-in-decision-trees" class="hash-link" aria-label="Direct link to Avoiding Overfitting in Decision Trees" title="Direct link to Avoiding Overfitting in Decision Trees">​</a></h2>
 <p>Two methods</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image4-036948da812c69d68b4282ce550bf323.jpg" width="661" height="460" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image4-d3150fe87251a46b1acb59a41ead6b41.jpg" width="661" height="460" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="pre-pruning">Pre-pruning<a href="#pre-pruning" class="hash-link" aria-label="Direct link to Pre-pruning" title="Direct link to Pre-pruning">​</a></h2>
 <ul>
 <li>With pre-pruning, the idea is to stop tree induction before a fully grown tree is built that perfectly fits the training data</li>
@@ -114,7 +114,7 @@
 <li>So those nodes should be removed. In practice, post-pruning tends to give better results. This is because pruning decisions are based on information from the full tree. Pre-pruning, on the other hand, may stop the tree growing process prematurely. However, post-pruning is more computationally expensive since the tree has to be expanded to its full size</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="training-vs-testing-phase">Training vs Testing Phase<a href="#training-vs-testing-phase" class="hash-link" aria-label="Direct link to Training vs Testing Phase" title="Direct link to Training vs Testing Phase">​</a></h2>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image5-c50663cf9e0bb4436402575fda8ea71f.jpg" width="1002" height="588" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image5-bc4f39749b53e944d4f8030dd56aad6c.jpg" width="999" height="586" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="avoiding-overfitting">Avoiding Overfitting<a href="#avoiding-overfitting" class="hash-link" aria-label="Direct link to Avoiding Overfitting" title="Direct link to Avoiding Overfitting">​</a></h2>
 <ul>
 <li>Recall that a model that overfits does not generalize well to new data</li>
@@ -127,21 +127,21 @@
 <li>A validation set can be used to guide the training process to avoid overfitting and deliver good generalization performance</li>
 <li>We have discussed having a training set and a separate test set. The training set is used to build a model and the test set is used to see how the model performs a new data</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image6-a7377df63d3fbf0025d43c949bf2f825.jpg" width="948" height="354" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image6-b563da69f556a81b4715712af0cd94e7.jpg" width="948" height="354" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="training-and-validation-error">Training and Validation Error<a href="#training-and-validation-error" class="hash-link" aria-label="Direct link to Training and Validation Error" title="Direct link to Training and Validation Error">​</a></h2>
 <ul>
 <li>Now we want to further divide up the training data into a training set and a validation set</li>
 <li>The training set is used to train the model as before and the validation set is used to determine when to stop training the model to avoid overfitting, in order to get the best generalization performance</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image7-65bb1681cb60f05aaa26b8ed01596b5f.jpg" width="786" height="408" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image7-c7f427a98d3cdbff167606ca20935fcb.jpg" width="786" height="408" class="img_ev3q"></p>
 <ul>
 <li>The idea is to look at the errors on both training set and validation set during model training. The orange solid line on the plot is the training error and the green line is the validation error. We see that as model building progresses along the x-axis, the number of nodes increases. That is the complexity of the model increases. We can see that as the model complexity increases, the training error decreases. On the other hand, the validation error initially decreases but then starts to increase.</li>
 <li>When the validation error increases, this indicates that the model is overfitting, resulting in decreased generalization performance</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image8-5b5139ff8839481f2df795812c3dc41d.jpg" width="794" height="406" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image8-9598888dbc5fbf326ecd8f6d1842137a.jpg" width="794" height="406" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="when-to-stop-training">When to Stop Training?<a href="#when-to-stop-training" class="hash-link" aria-label="Direct link to When to Stop Training?" title="Direct link to When to Stop Training?">​</a></h2>
 <p>This can be used to determine when to stop training. Where validation error starts to increase is when you get the best generalization performance, so training should stop there. This method of using a validation set to determine when to stop training is referred to as model selection since you&#x27;re selecting one from many of varying complexities. Note that this was illustrated for a decision tree classifier, but the same method can be applied to any type of machine learning model</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image9-2e0b69573702bc33c10547466857ba1c.jpg" width="1140" height="498" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image9-e4e8826c3071d649e6c91ddd71d04e93.jpg" width="998" height="436" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="ways-to-create-and-use-the-validation-set">Ways to create and use the validation set<a href="#ways-to-create-and-use-the-validation-set" class="hash-link" aria-label="Direct link to Ways to create and use the validation set" title="Direct link to Ways to create and use the validation set">​</a></h2>
 <ul>
 <li>There are several ways to create and use the validation set to avoid overfitting. The different methods are<!-- -->
@@ -157,7 +157,7 @@
 <ul>
 <li>The first way to use a validation set is the holdout method. This describes the scenario that we have been discussing, where part of the training data is reserved as a validation set. The validation set is then the holdout set</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image10-f20763ae6a09da162f65bf773b89524d.jpg" width="1408" height="572" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image10-46f488b05d03eb2e8aec9f867592c9b0.jpg" width="999" height="406" class="img_ev3q"></p>
 <ul>
 <li>Errors on the training set and the holdout set are calculated at each step during model training and plotted together as we&#x27;ve seen before. And the lowest error on the holdout set is when training should stop. This is the just the process that we have described here before. There&#x27;s some limitations to the holdout method however</li>
 <li>First, since some samples are reserved for the holdout validation set, the training set now has less data than it originally started out with</li>
@@ -173,7 +173,7 @@
 <ul>
 <li>A way to improve on the repeated holdout method is use cross-validation. Cross-validation works as follows. Segment the data into k number of disjoing partitions. During each iteration, one partition is used as the validation set. Repeat the process k times. Each time using a different partition for validation. So each partition is used for validation exactly once. This is illustrated in this figure. In the first iteration, the first partition, is used for validation. In the second iteration, the second partition is used for validation and so on</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image11-cad0e66957e1c989833f0f808bb3d91c.jpg" width="772" height="376" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image11-ceec04c333677dc3d8ab57ef92c0d20a.jpg" width="772" height="376" class="img_ev3q"></p>
 <ul>
 <li>The overall validation error is calculated by averaging the validation errors for all k iterations</li>
 <li>The model with the smallest average validation error then is selected. The process we just described is referred to as k-fold cross-validation. This is a very commonly used approach to model selection in practice</li>
@@ -223,20 +223,20 @@
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="metrics-to-evaluate-model-performance">Metrics to Evaluate Model Performance<a href="#metrics-to-evaluate-model-performance" class="hash-link" aria-label="Direct link to Metrics to Evaluate Model Performance" title="Direct link to Metrics to Evaluate Model Performance">​</a></h2>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="class-labels">Class Labels<a href="#class-labels" class="hash-link" aria-label="Direct link to Class Labels" title="Direct link to Class Labels">​</a></h2>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image12-cf15efc17551eeae600aed96a27ab842.jpg" width="902" height="484" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image12-438eb69b363d88525c55f25b2827f739.jpg" width="902" height="484" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="types-of-classification-errors">Types of Classification Errors<a href="#types-of-classification-errors" class="hash-link" aria-label="Direct link to Types of Classification Errors" title="Direct link to Types of Classification Errors">​</a></h2>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image13-490383d925472110153ed68055a8bd79.jpg" width="944" height="562" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image13-9c0f8dd828695de4242f31f686e6e8ac.jpg" width="944" height="562" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="accuracy-rate">Accuracy Rate<a href="#accuracy-rate" class="hash-link" aria-label="Direct link to Accuracy Rate" title="Direct link to Accuracy Rate">​</a></h2>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image14-d63a592e4b751350101de983d0eb2840.jpg" width="850" height="600" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image15-6bc06a0ee63616194752a3ced4a6ffdd.jpg" width="720" height="526" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image14-92b8829a8fb9057521f11ed4569e11fd.jpg" width="850" height="600" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image15-12adf53535e13c8f1ae5c685abcfb2f4.jpg" width="720" height="526" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="precision-and-recall">Precision and Recall<a href="#precision-and-recall" class="hash-link" aria-label="Direct link to Precision and Recall" title="Direct link to Precision and Recall">​</a></h2>
 <ul>
 <li>Precision is considered a measure of exactness because it calculates the percentage of samples predicted as positive, which are actually in a positive class</li>
 <li>Recall is considered a measure of completeness, because it calculates the percentage of positive samples that the model correctly identified</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image16-499ef10b3cfa00d9447795c74aac7a42.jpg" width="737" height="440" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image16-2ad32ec8c3abe09b40f6610b6a3ea3de.jpg" width="737" height="440" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="f-measure">F-Measure<a href="#f-measure" class="hash-link" aria-label="Direct link to F-Measure" title="Direct link to F-Measure">​</a></h2>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image17-f8261969c11db9c27a3f3a0d82e6f02f.jpg" width="988" height="622" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Evaluation-image17-c7d9147e6934e37c82fa23de2c25298b.jpg" width="988" height="622" class="img_ev3q"></p>
 <p><a href="https://en.wikipedia.org/wiki/F-score" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/F-score</a></p></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="row margin-top--sm theme-doc-footer-edit-meta-row"><div class="col"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/ai/model-evaluation/evaluation.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_JAkA"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2024-02-05T13:06:14.000Z" itemprop="dateModified">Feb 5, 2024</time></b> by <b>Deepak</b></span></div></div></footer></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/ai/model-evaluation/confusion-matrix"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Confusion Matrix</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/ai/model-evaluation/generalization-and-sampling"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Generalization and Sampling</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#generalization-and-overfitting" class="table-of-contents__link toc-highlight">Generalization and Overfitting</a></li><li><a href="#errors-in-classification" class="table-of-contents__link toc-highlight">Errors in Classification</a></li><li><a href="#generalization" class="table-of-contents__link toc-highlight">Generalization</a></li><li><a href="#overfitting" class="table-of-contents__link toc-highlight">Overfitting</a></li><li><a href="#connection-between-overfitting-and-generalization" class="table-of-contents__link toc-highlight">Connection between overfitting and generalization</a></li><li><a href="#what-causes-overfitting" class="table-of-contents__link toc-highlight">What causes overfitting</a></li><li><a href="#overfitting-in-decision-trees" class="table-of-contents__link toc-highlight">Overfitting in Decision Trees</a></li><li><a href="#avoiding-overfitting-in-decision-trees" class="table-of-contents__link toc-highlight">Avoiding Overfitting in Decision Trees</a></li><li><a href="#pre-pruning" class="table-of-contents__link toc-highlight">Pre-pruning</a></li><li><a href="#post-pruning" class="table-of-contents__link toc-highlight">Post-pruning</a></li><li><a href="#overfitting-in-decision-trees-1" class="table-of-contents__link toc-highlight">Overfitting in Decision Trees</a></li><li><a href="#training-vs-testing-phase" class="table-of-contents__link toc-highlight">Training vs Testing Phase</a></li><li><a href="#avoiding-overfitting" class="table-of-contents__link toc-highlight">Avoiding Overfitting</a></li><li><a href="#validation-set" class="table-of-contents__link toc-highlight">Validation Set</a></li><li><a href="#training-and-validation-error" class="table-of-contents__link toc-highlight">Training and Validation Error</a></li><li><a href="#when-to-stop-training" class="table-of-contents__link toc-highlight">When to Stop Training?</a></li><li><a href="#ways-to-create-and-use-the-validation-set" class="table-of-contents__link toc-highlight">Ways to create and use the validation set</a></li><li><a href="#holdout-method" class="table-of-contents__link toc-highlight">Holdout Method</a></li><li><a href="#repeated-holdout-method" class="table-of-contents__link toc-highlight">Repeated Holdout Method</a></li><li><a href="#k-fold-cross-validation" class="table-of-contents__link toc-highlight">K-Fold Cross-Validation</a></li><li><a href="#leave-one-out-cross-validation" class="table-of-contents__link toc-highlight">Leave-One-Out Cross-Validation</a></li><li><a href="#uses-of-validation-set" class="table-of-contents__link toc-highlight">Uses of Validation Set</a></li><li><a href="#uses-of-datasets" class="table-of-contents__link toc-highlight">Uses of Datasets</a></li><li><a href="#validation-set-summary" class="table-of-contents__link toc-highlight">Validation Set Summary</a></li><li><a href="#metrics-to-evaluate-model-performance" class="table-of-contents__link toc-highlight">Metrics to Evaluate Model Performance</a></li><li><a href="#class-labels" class="table-of-contents__link toc-highlight">Class Labels</a></li><li><a href="#types-of-classification-errors" class="table-of-contents__link toc-highlight">Types of Classification Errors</a></li><li><a href="#accuracy-rate" class="table-of-contents__link toc-highlight">Accuracy Rate</a></li><li><a href="#precision-and-recall" class="table-of-contents__link toc-highlight">Precision and Recall</a></li><li><a href="#f-measure" class="table-of-contents__link toc-highlight">F-Measure</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2024 Deep Notes, Built with ❤️</div></div></div></footer></div>
 </body>
 </html>

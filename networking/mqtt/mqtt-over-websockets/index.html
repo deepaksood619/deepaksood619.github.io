@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.16e63e15.css">
-<script src="/assets/js/runtime~main.95f914c7.js" defer="defer"></script>
-<script src="/assets/js/main.d3ee03ee.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.f0791415.js" defer="defer"></script>
+<script src="/assets/js/main.f70c48bb.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -44,7 +44,7 @@
 <p><a href="http://caniuse.com/#feat=websockets" target="_blank" rel="noopener noreferrer">Every modern browser that supports WebSockets</a> can be a full-fledged MQTT client and offer all the features described in the MQTT Essentials.The Keep Alive, Last Will and Testament, Quality of Service, and Retained Messages features work the same way in the browser as in a native MQTT client. All you need is a <a href="https://eclipse.org/paho/clients/js/" target="_blank" rel="noopener noreferrer">JavaScript library</a> that enables MQTT over WebSockets and a broker that supports MQTT over webSockets. Of course, the HiveMQ broker offers this capability straight out-of-the-box.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="how-does-it-work">How does it work?<a href="#how-does-it-work" class="hash-link" aria-label="Direct link to How does it work?" title="Direct link to How does it work?">​</a></h2>
 <p>WebSocket is a network protocol that provides bi-directional communication between a browser and a web server. The protocol was standardized in 2011 and all modern browsers provide built-in support for it. Similar to MQTT, the WebSocket protocol is based on TCP.</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/MQTT-over-WebSockets-image1-29cd5c6880363012b9f4f103a15c1ba0.jpg" width="842" height="359" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/MQTT-over-WebSockets-image1-47c8cdb910beead869e957e9eae5d3fa.jpg" width="842" height="359" class="img_ev3q"></p>
 <p>InMQTT over WebSockets, the MQTT message (for example, a CONNECT or PUBLISH packet) is transferred over the network and encapsulated by one or more WebSocket frames. WebSockets are a good transport method for MQTT because they provide bi-directional, ordered, and lossless communication (WebSockets also leverage TCP). To communicate with an MQTT broker over WebSockets, the broker must be able to handle native WebSockets. Occasionally, people use a webserver and bridge WebSockets to the MQTT broker, but we don&#x27;t recommend this method. When using HiveMQ, it is very easy to get started with WebSockets. Simply enable the native support in the configuration. For more information, read <a href="https://www.hivemq.com/mqtt-over-websockets-with-hivemq/" target="_blank" rel="noopener noreferrer">MQTT over WebSockets with HiveMQ</a>.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-not-use-mqtt-directly">Why not use MQTT directly?<a href="#why-not-use-mqtt-directly" class="hash-link" aria-label="Direct link to Why not use MQTT directly?" title="Direct link to Why not use MQTT directly?">​</a></h2>
 <p>Currently, it is not possible to speak pure MQTT in a browser because it is not possible to open a raw TCP connection. <a href="http://www.w3.org/TR/raw-sockets/" target="_blank" rel="noopener noreferrer">Socket API</a> will change that situation; however, few browsers implement this API yet.</p>

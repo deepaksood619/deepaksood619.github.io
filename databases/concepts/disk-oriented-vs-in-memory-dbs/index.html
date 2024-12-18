@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.16e63e15.css">
-<script src="/assets/js/runtime~main.95f914c7.js" defer="defer"></script>
-<script src="/assets/js/main.d3ee03ee.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.f0791415.js" defer="defer"></script>
+<script src="/assets/js/main.f70c48bb.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -41,7 +41,7 @@ But now DRAM capacities are large enough that most structured databases will ent
 <li>concurrency control</li>
 <li>logging/recovery</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Disk-oriented-vs-in-memory-DBs-image1-d43855c7c27b38bb85b995e326e72680.jpg" width="943" height="566" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Disk-oriented-vs-in-memory-DBs-image1-b644bc6b2b4e87e6706fa231efb9027e.jpg" width="943" height="566" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="buffer-pool">Buffer Pool<a href="#buffer-pool" class="hash-link" aria-label="Direct link to Buffer Pool" title="Direct link to Buffer Pool">​</a></h2>
 <p>The DBMS organizes the database as a set of fixed-length blocks called <strong>slotted pages</strong>. The system uses an in-memory (volatile) buffer pool to cache the blocks cached from disk.</p>
 <ul>
@@ -68,7 +68,7 @@ But now DRAM capacities are large enough that most structured databases will ent
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="logging-and-recovery">Logging and Recovery<a href="#logging-and-recovery" class="hash-link" aria-label="Direct link to Logging and Recovery" title="Direct link to Logging and Recovery">​</a></h2>
 <p>Most DBMS use STEAL+NO-FORCE buffer pool policies, so all modifications have to be flushed to the WAL before a transaction can commit. Each log entry contain before and after image of record modified. Lots of work to keep track of LSNs all throughout the DBMS.</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Disk-oriented-vs-in-memory-DBs-image2-f4e0ac86c96fe757147084e81cbf1767.jpg" width="859" height="463" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Disk-oriented-vs-in-memory-DBs-image2-36160e65857bfe7d5cc811e910059d32.jpg" width="859" height="463" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-not-mmaps">Why not MMaps?<a href="#why-not-mmaps" class="hash-link" aria-label="Direct link to Why not MMaps?" title="Direct link to Why not MMaps?">​</a></h2>
 <p>Memory-map (mmap) a database file into DRAM and let the OS be in charge of swapping data in and out as needed.</p>
 <p>Use madvise and msync to give hints to the OS about what data is safe to flush.
@@ -103,7 +103,7 @@ Notable mmap DBMSs</p>
 <li>Fixed-length vs variable-length data pools</li>
 <li>Use checksums to detct software errors from trashing the database</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Disk-oriented-vs-in-memory-DBs-image3-e11181915b5594b92e14ffee268327a0.jpg" width="860" height="433" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Disk-oriented-vs-in-memory-DBs-image3-f699aa423f7b81e0037bdd6da2d29025.jpg" width="860" height="433" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="concurrency-control-1">Concurrency Control<a href="#concurrency-control-1" class="hash-link" aria-label="Direct link to Concurrency Control" title="Direct link to Concurrency Control">​</a></h2>
 <p>In-memory DBMSs still use either a pessimistic or optimistic concurrency control schemes to interleave transactions. They will use modern variants of these algorithms that are designed for in-memory data stor-age. The new bottleneck is contention caused from transactions trying to access data at the same time.</p>
 <p>One key difference is that an in-memory DBMS can store locking information about each tuple together with its data. This is because the cost of a transaction acquiring a lock is the same as accessing data. Contrast this with disk-oriented DBMSs where locks are physically stored separate from their tuples because the tuples may get swapped out to disk.</p>

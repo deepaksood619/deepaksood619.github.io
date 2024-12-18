@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.16e63e15.css">
-<script src="/assets/js/runtime~main.95f914c7.js" defer="defer"></script>
-<script src="/assets/js/main.d3ee03ee.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.f0791415.js" defer="defer"></script>
+<script src="/assets/js/main.f70c48bb.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -49,7 +49,7 @@
 <p>Note: The data may or may not be stored in sorted order.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="data-reference-or-pointer">Data Reference or Pointer<a href="#data-reference-or-pointer" class="hash-link" aria-label="Direct link to Data Reference or Pointer" title="Direct link to Data Reference or Pointer">​</a></h3>
 <p>The second column is the <strong>Data Reference or Pointer</strong> which contains a set of pointers holding the address of the disk block where that particular key value can be found.</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Indexing-image1-8757cc85b4431a5d41b458d1ab3399d5.jpg" width="1226" height="755" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Indexing-image1-3f4ee9c080c73f837bd0ac76e1f73f16.jpg" width="999" height="615" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="attributes-of-indexing">Attributes of Indexing<a href="#attributes-of-indexing" class="hash-link" aria-label="Direct link to Attributes of Indexing" title="Direct link to Attributes of Indexing">​</a></h2>
 <ul>
 <li><strong>Access Types:</strong> This refers to the type of access such as value based search, range access, etc.</li>
@@ -74,7 +74,7 @@
 <li>For every search key value in the data file, there is an index record.</li>
 <li>This record contains the search key and also a reference to the first data record with that search key value.</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Indexing-image2-eacf657558ebc0c09eac54a2ee6aeec8.jpg" width="1241" height="764" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Indexing-image2-1f4629169c40225b8a469abd89dd3e46.jpg" width="999" height="615" class="img_ev3q"></p>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="sparse-index">Sparse Index<a href="#sparse-index" class="hash-link" aria-label="Direct link to Sparse Index" title="Direct link to Sparse Index">​</a></h4>
 <ul>
 <li>In sparse index, index records are not created for every search key. An index record here contains a search key and an actual pointer to the data on the disk. To search a record, we first proceed by index record and reach at the actual location of the data. If the data we are looking for is not where we directly reach by following the index, then the system starts sequential search until the desired data is found.</li>
@@ -82,7 +82,7 @@
 <li>To locate a record, we find the index record with the largest search key value less than or equal to the search key value we are looking for.</li>
 <li>We start at that record pointed to by the index record, and proceed along with the pointers in the file (that is, sequentially) until we find the desired record.</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Indexing-image3-3fb670f7d280e6df4258a5fe493f8139.jpg" width="1241" height="766" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Indexing-image3-911a430f33577e3120bfe746b8f6046a.jpg" width="1000" height="617" class="img_ev3q"></p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="hash-file-organization">Hash File organization<a href="#hash-file-organization" class="hash-link" aria-label="Direct link to Hash File organization" title="Direct link to Hash File organization">​</a></h3>
 <p>Indices are based on the values being distributed uniformly across a range of buckets. The buckets to which a value is assigned is determined by a function called a hash function.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="heaped-storage">Heaped storage<a href="#heaped-storage" class="hash-link" aria-label="Direct link to Heaped storage" title="Direct link to Heaped storage">​</a></h2>
@@ -93,19 +93,19 @@
 When more than two records are stored in the same file these types of storing known as cluster indexing. By using the cluster indexing we can reduce the cost of searching reason being multiple records related to the same thing are stored at one place and it also gives the frequent joining of more than two tables(records).</p>
 <p>Clustering index is defined on an ordered data file. The data file is ordered on a non-key field. In some cases, the index is created on non-primary key columns which may not be unique for each record. In such cases, in order to identify the records faster, we will group two or more columns together to get the unique values and create index out of them. This method is known as the clustering index. Basically, records with similar characteristics are grouped together and indexes are created for these groups.</p>
 <p>For example, students studying in each semester are grouped together. i.e. 1stSemester students, 2ndsemester students, 3rdsemester students etc are grouped.</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Indexing-image4-77ba4695690f4a586fdb4bc849e9fb83.jpg" width="702" height="322" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Indexing-image4-f1bc29ec0f2ea05dceb160699e536fb9.jpg" width="702" height="322" class="img_ev3q"></p>
 <p>Clustered index sorted according to first name (Search key)</p>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="primary-indexing">Primary Indexing<a href="#primary-indexing" class="hash-link" aria-label="Direct link to Primary Indexing" title="Direct link to Primary Indexing">​</a></h4>
 <p>This is a type of Clustered Indexing wherein the data is sorted according to the search key and the primary key of the database table is used to create the index. It is a default format of indexing where it induces sequential file organization. As primary keys are unique and are stored in a sorted manner, the performance of the searching operation is quite efficient.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="non-clustered-or-secondary-indexing">Non-clustered or Secondary Indexing<a href="#non-clustered-or-secondary-indexing" class="hash-link" aria-label="Direct link to Non-clustered or Secondary Indexing" title="Direct link to Non-clustered or Secondary Indexing">​</a></h3>
 <p>A non clustered index just tells us where the data lies, i.e. it gives us a list of virtual pointers or references to the location where the data is actually stored. Data is not physically stored in the order of the index. Instead, data is present in leaf nodes. For eg. the contents page of a book. Each entry gives us the page number or location of the information stored. The actual data here(information on each page of the book) is not organized but we have an ordered reference(contents page) to where the data points actually lie. We can have only dense ordering in the non-clustered index as sparse ordering is not possible because data is not physically organized accordingly.</p>
 <p>It requires more time as compared to the clustered index because some amount of extra work is done in order to extract the data by further following the pointer. In the case of a clustered index, data is directly present in front of the index.</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Indexing-image5-7c48eeb66ad22ce6cec0e713b443fd86.jpg" width="1097" height="717" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Indexing-image5-99db6d2e1e91f95b963bb922a0de6b7f.jpg" width="999" height="653" class="img_ev3q"></p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="multilevel-indexing">Multilevel Indexing<a href="#multilevel-indexing" class="hash-link" aria-label="Direct link to Multilevel Indexing" title="Direct link to Multilevel Indexing">​</a></h3>
 <p>With the growth of the size of the database, indices also grow. As the index is stored in the main memory, a single-level index might become too large a size to store with multiple disk accesses. The multilevel indexing segregates the main block into various smaller blocks so that the same can be stored in a single block. The outer blocks are divided into inner blocks which in turn are pointed to the data blocks. This can be easily stored in the main memory with fewer overheads.</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Indexing-image6-6287861e5402f6a2d06d6e1d5dcc5507.jpg" width="533" height="525" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Indexing-image6-80f8a94acba846328ff1beb2cc281e14.jpg" width="533" height="525" class="img_ev3q"></p>
 <p>Index records comprise search-key values and data pointers. Multilevel index is stored on the disk along with the actual database files. As the size of the database grows, so does the size of the indices. There is an immense need to keep the index records in the main memory so as to speed up the search operations. If single-level index is used, then a large size index cannot be kept in memory which leads to multiple disk accesses.</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Indexing-image7-34f5d9df6f30e649bc7b899018fe336b.jpg" width="480" height="516" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Indexing-image7-0441ddb6da92d9f8f07a16692b66e706.jpg" width="480" height="516" class="img_ev3q"></p>
 <p>Multi-level Index helps in breaking down the index into several smaller indices in order to make the outermost level so small that it can be saved in a single disk block, which can easily be accommodated anywhere in the main memory.</p>
 <p><a href="https://www.geeksforgeeks.org/indexing-in-databases-set-1" target="_blank" rel="noopener noreferrer">https://www.geeksforgeeks.org/indexing-in-databases-set-1</a></p>
 <p><a href="https://www.tutorialspoint.com/dbms/dbms_indexing.htm" target="_blank" rel="noopener noreferrer">https://www.tutorialspoint.com/dbms/dbms_indexing.htm</a></p>

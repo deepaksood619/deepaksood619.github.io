@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.16e63e15.css">
-<script src="/assets/js/runtime~main.95f914c7.js" defer="defer"></script>
-<script src="/assets/js/main.d3ee03ee.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.f0791415.js" defer="defer"></script>
+<script src="/assets/js/main.f70c48bb.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -48,7 +48,7 @@ In logical clock systems each process has two data structures: <em>logical local
 <p>Lamport suggests using something different from the typical physical clock that we all think of. Instead of using each process&#x27;s physical clock to track the order of events, we can instead use acounter. The counter can start with an initial time (like 0), and we can treat that counter as the processes own local clock.
 Lamport continues with this idea by proposing that, not only will every process within a distributed system have its own counter clock, but eacheventthat is recorded on a process should also have avalueon that process&#x27;s local clock. Furthermore, the value of each of these events on the clock must mirror any happened before relationships. For example, if eventa→ b, then the clock time for when eventaoccurred must be less than the clock time for whenever eventboccurred; in other words, clock(a) &lt; clock(b).</p>
 <p>By using basic counters instead of physical clocks, Lamport simplifies clocks into something a little easier to deal with. These counter clocks are called logical clocks. Alogical clockis quite different from a physical clock in that there is no central notion of time, and the clock is just a counter that increments based on events in the system.</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Clocks-image1-1f5895f1d48b2263b723f61292bcc705.jpg" width="1035" height="1431" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Clocks-image1-fac40ea1a3190e6ed2be7b3bf5bb0857.jpg" width="1000" height="1382" class="img_ev3q"></p>
 <p><a href="https://en.wikipedia.org/wiki/Logical_clock" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Logical_clock</a></p>
 <p><a href="https://medium.com/baseds/ticking-clocks-in-a-distributed-system-ef2aa4df07a3" target="_blank" rel="noopener noreferrer">https://medium.com/baseds/ticking-clocks-in-a-distributed-system-ef2aa4df07a3</a></p>
 <p><a href="https://medium.com/baseds/logical-time-and-lamport-clocks-part-2-272c097dcdda" target="_blank" rel="noopener noreferrer">https://medium.com/baseds/logical-time-and-lamport-clocks-part-2-272c097dcdda</a></p>

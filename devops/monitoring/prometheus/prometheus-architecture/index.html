@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.16e63e15.css">
-<script src="/assets/js/runtime~main.95f914c7.js" defer="defer"></script>
-<script src="/assets/js/main.d3ee03ee.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.f0791415.js" defer="defer"></script>
+<script src="/assets/js/main.f70c48bb.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -74,12 +74,12 @@
 <li><strong>Querier-</strong> Handles PromQL queries from clients (including <a href="https://grafana.com/" target="_blank" rel="noopener noreferrer">Grafana</a> dashboards), abstracting over both ephemeral time series data and samples in long-term storage.</li>
 </ul>
 <p>Each of these components can be managed independently, which is key to Cortex&#x27;s scalability and operations story. You can see a basic diagram of Cortex and the systems it interacts with below:</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/DevOps-Monitoring-Prometheus-Architecture-image1-bb4263b183987cff7cedd6fa7172eb04.jpg" width="1024" height="921" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/DevOps-Monitoring-Prometheus-Architecture-image1-b0528c909a92f2c622ac15b91905b1c9.jpg" width="1000" height="899" class="img_ev3q"></p>
 <p>As the diagram shows, Cortex &quot;completes&quot; the Prometheus Monitoring System. To adapt it to existing Prometheus installations, you just need to re-configure your Prometheus instances to remote write to your Cortex cluster and Cortex handles the rest.</p>
 <p><a href="https://www.cncf.io/blog/2018/12/18/cortex-a-multi-tenant-horizontally-scalable-prometheus-as-a-service" target="_blank" rel="noopener noreferrer">https://www.cncf.io/blog/2018/12/18/cortex-a-multi-tenant-horizontally-scalable-prometheus-as-a-service</a></p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="thanos">Thanos<a href="#thanos" class="hash-link" aria-label="Direct link to Thanos" title="Direct link to Thanos">​</a></h3>
 <p>Thanos stores time series data in an object store like AWS S3, Google Cloud Storage, etc. Thanos pushes metrics through a side-car container from each Prometheus server through the gRPC store API to the query service in order to provide a global query view. The side-car container also pushes immutable data blocks to the object storage. When you need to retrieve data that is on block storage, the store component takes care of that. The compactor component takes care of compaction and downsampling.</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/DevOps-Monitoring-Prometheus-Architecture-image2-97886348d288db0e889f0f2078c18c8d.jpg" width="664" height="332" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/DevOps-Monitoring-Prometheus-Architecture-image2-7dfe6ba4fc1ebcdab905e5dd7e820be7.jpg" width="664" height="332" class="img_ev3q"></p>
 <p><a href="https://thanos.io/" target="_blank" rel="noopener noreferrer">Thanos - Highly available Prometheus setup with long term storage capabilities</a></p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="m3">M3<a href="#m3" class="hash-link" aria-label="Direct link to M3" title="Direct link to M3">​</a></h3>
 <p>M3 is an open source, large-scale metrics platform developed by Uber. It has its own time series database, M3DB. Like Thanos, M3 also uses a side-car container to push the metrics to the DB. In addition, it supports metric deduplication and merging, and provides distributed query support.</p>

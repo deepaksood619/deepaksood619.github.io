@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.16e63e15.css">
-<script src="/assets/js/runtime~main.95f914c7.js" defer="defer"></script>
-<script src="/assets/js/main.d3ee03ee.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.f0791415.js" defer="defer"></script>
+<script src="/assets/js/main.f70c48bb.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -37,7 +37,7 @@
 <p><a href="https://en.wikipedia.org/wiki/Log-structured_merge-tree" target="_blank" rel="noopener noreferrer">Log-structured merge-tree - Wikipedia</a></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="anatomy">Anatomy<a href="#anatomy" class="hash-link" aria-label="Direct link to Anatomy" title="Direct link to Anatomy">​</a></h2>
 <p>In LSM Trees, all the writes are performed against the mutable in-memory data structure (once again, often implemented using a data structure allowing logarithmic time lookup, such as a B-Tree or a <a href="http://epaperpress.com/sortsearch/download/skiplist.pdf" target="_blank" rel="noopener noreferrer">SkipList</a>). Whenever the size of the tree reaches a certain threshold (or after some predefined time period elapses, whichever comes first), we write the data the disk, creating a new SSTable. This process is sometimes called &quot;flush&quot;. Retrieving the data may require searching all SSTables on disk, checking the in-memory table and merging their contents together before returning the result.</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/LSM-(Log-Structured-Merge-Trees)-image1-31e1993ac29c3ec1a87971e89a58bc5e.jpg" width="1004" height="277" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/LSM-(Log-Structured-Merge-Trees)-image1-8372e5866d44da3f0009c19c24f5d9cb.jpg" width="997" height="275" class="img_ev3q"></p>
 <p>Structure of an LSM Tree: a memory-resident table, used for writes. Whenever the memory table is large enough, it&#x27;s sorted contents are written on disk, becoming an SSTable. Reads are served, hitting all SSTables and the memory-resident table, requiring a merge process to reconcile the data.</p>
 <p>The merge step during the read is required, since the data can be split in several parts (for example, an insert followed by delete operation, where delete would shadow the originally inserted record; or an insert, followed by the update operation, where a new field is added to the record).</p>
 <p>Every data item in SSTable has a timestamp associated with it. For inserts it specifies the write time, for updates - an update time and removal time for deletes.</p>

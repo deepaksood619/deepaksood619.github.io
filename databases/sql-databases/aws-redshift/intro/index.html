@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.16e63e15.css">
-<script src="/assets/js/runtime~main.95f914c7.js" defer="defer"></script>
-<script src="/assets/js/main.d3ee03ee.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.f0791415.js" defer="defer"></script>
+<script src="/assets/js/main.f70c48bb.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -62,7 +62,7 @@
 <li>Changing column encoding requires a table rebuild</li>
 <li>SELECT &quot;column&quot;, type, encoding FROM pg_table_def WHERE tablename = &#x27;deep dive&#x27;;</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/AWS-Redshift-image1-06c04a9a23e912d9063c596673cc980b.jpg" width="1101" height="592" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/AWS-Redshift-image1-0080ea8b9cefd405957826eaefa72c64.jpg" width="999" height="537" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="concurrency-control">Concurrency Control<a href="#concurrency-control" class="hash-link" aria-label="Direct link to Concurrency Control" title="Direct link to Concurrency Control">​</a></h2>
 <p><a href="https://dbdb.io/browse?concurrency-control=multi-version-concurrency-control-mvcc" target="_blank" rel="noopener noreferrer">Multi-version Concurrency Control (MVCC)</a></p>
 <p>Although not explicitly stated, Redshift utilizes Multi Version Concurrency Control. In particular, transactions capture a snapshot of the latest committed version of the data at the time a SELECT query, a DML statement, ALTER TABLE statement, CREATE TABLE statement, DROP TABLE statement, or TRUNCATE TABLE statement is executed. Redshift prevents write-write conflicts from happening by forcing a transaction to obtain a table-level write lock and only allowing a transaction to release all its write locks when the transaction either commits or aborts. Furthermore, a VACUUM operation is required in order to remove all records marked for deletion and also perform any resorting operations that may or may not be required.</p>
@@ -138,7 +138,7 @@
 <ul>
 <li>Execute queries directly again Amazon S3</li>
 </ul>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/AWS-Redshift-image2-e577f1d2407fb32739f62cf63055c19f.jpg" width="988" height="856" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/AWS-Redshift-image2-29f2e2c5a8842a249591a4f78162eed8.jpg" width="750" height="650" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="views">Views<a href="#views" class="hash-link" aria-label="Direct link to Views" title="Direct link to Views">​</a></h2>
 <p><a href="https://dbdb.io/browse?views=virtual-views" target="_blank" rel="noopener noreferrer">Virtual Views</a></p>
 <p>Redshift supports virtual views. The contents of the view are not directly materialized and the query defining the view is rerun every time the view is being used in another query. DELETE or UPDATE statements cannot be used against the view.</p>

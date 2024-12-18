@@ -18,8 +18,8 @@
 <meta name="theme-color" content="rgb(47, 133, 85)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.16e63e15.css">
-<script src="/assets/js/runtime~main.95f914c7.js" defer="defer"></script>
-<script src="/assets/js/main.d3ee03ee.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.f0791415.js" defer="defer"></script>
+<script src="/assets/js/main.f70c48bb.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -36,7 +36,7 @@
 What Distinguishes the Time Series Workload?</li>
 </ul>
 <p>Time Series Databases have key architectural design properties that make them very different from other databases. These include: time-stamp data storage and compression, data lifecycle management, data summarization, ability to handle large time series dependent scans of many records, and time series aware queries.</p>
-<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Time-Series-Databases-image1-71504a68619e592a30994378fa728990.jpg" width="1600" height="433" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/Time-Series-Databases-image1-c067a9d821596af67754ee576f79756c.jpg" width="998" height="270" class="img_ev3q"></p>
 <p><em>For example:</em> With a Time Series Database, it is common to request a summary of data over a large time period. This requires going over a range of data points to perform some computation like a percentile increase this month of a metric over the same period in the last six months, summarized by month. This kind of workload is very difficult to optimize for with a distributed key value store. TSDB&#x27;s are optimized for exactly this use case giving millisecond level query times over months of data.</p>
 <p><em>Another example:</em> With Time Series Databases, it&#x27;s common to keep high precision data around for a short period of time. This data is aggregated and downsampled into longer term trend data. This means that for every data point that goes into the database, it will have to be deleted after its period of time is up. This kind of data lifecycle management is difficult for application developers to implement on top of regular databases. They must devise schemes for cheaply evicting large sets of data and constantly summarizing that data at scale. With a Time Series Database, this functionality is provided out of the box.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="time-series-databases-1">Time Series Databases<a href="#time-series-databases-1" class="hash-link" aria-label="Direct link to Time Series Databases" title="Direct link to Time Series Databases">​</a></h2>
