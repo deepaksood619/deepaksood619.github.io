@@ -99,7 +99,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/timeline_blurred.webp',
+      image: 'img/timeline_compressed.webp',
       navbar: {
         title: 'Deep Notes',
         logo: {

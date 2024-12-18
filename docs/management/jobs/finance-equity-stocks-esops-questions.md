@@ -175,3 +175,22 @@ Here are some things to know about warrants:
 [Warrant (finance) - Wikipedia](https://en.wikipedia.org/wiki/Warrant_(finance))
 
 [Stock Warrants vs. Stock Options: What's the Difference?](https://www.investopedia.com/ask/answers/08/stock-option-warrant.asp)
+
+## Salaries
+
+- **Salaries -** [https://www.levels.fyi/#](https://www.levels.fyi/)
+- DevOps and Cloud Architect Salary
+	- $15/hr full-time in Bangalore
+	- $60/hr full-time in Singapore
+	- $75/hr as an Independent Consultant for a US startup from my home
+	- $150/hr representing my own company for enterprises from my small indian town
+
+### In-Hand Salaries
+
+- 10 LPA CTC = 68000 per month salary
+- 20 LPA CTC = 1,20,000 per month salary
+- 30 LPA CTC = 1,75,000 per month salary
+- 40 LPA CTC = 2,28,000 per month salary
+- 50 LPA CTC = 2,82,000 per month salary
+- 85 LPA CTC = 4,66,000 per month salary
+- 1 CR CTC = 5,45,000 per month salary

@@ -123,3 +123,4 @@ Additionally, site-wide events like site moves may trigger an increase in crawl 
 - [Google Search Central - YouTube](https://www.youtube.com/@GoogleSearchCentral)
 - [Ahrefs - YouTube](https://www.youtube.com/@AhrefsCom)
 - [How Search Works - YouTube](https://www.youtube.com/playlist?list=PLKoqnv2vTMUN83JWBNM6MoBuBcyqhFNY3)
+- [Control the Content You Share on Search | Google Search Central  |  Documentation  |  Google for Developers](https://developers.google.com/search/docs/crawling-indexing/control-what-you-share)

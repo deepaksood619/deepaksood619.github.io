@@ -106,6 +106,16 @@ In essence, `JSON_SR` is beneficial in scenarios where you need strict schema co
 
 [ksqlDB Serialization Formats](https://docs.ksqldb.io/en/0.10.0-ksqldb/developer-guide/serialization/)
 
+## JSON-LD
+
+Javascript Object Notation for Linking Data
+
+JSON-LD is a lightweight Linked Data format. It is easy for humans to read and write. It is based on the already successful JSON format and provides a way to help JSON data interoperate at Web-scale. JSON-LD is an ideal data format for programming environments, REST Web services, and unstructured databases such as Apache CouchDB and MongoDB.
+
+[JSON-LD - JSON for Linking Data](https://json-ld.org/)
+
+Usage in structured data markup in Google Search - [Intro to How Structured Data Markup Works | Google Search Central  |  Documentation  |  Google for Developers](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data)
+
 ## References
 
 http://json.org
