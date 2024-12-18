@@ -8,6 +8,13 @@
 ## Google Tools
 
 - https://search.google.com/test/rich-results
+	- AMP
+	- Breadcrumbs
+	- FAQs
+	- Profile page
+	- Q&A
+	- Review Snippets
+	- Videos
 - https://search.google.com/test/amp
 - https://pagespeed.web.dev/
 

@@ -15,10 +15,10 @@
   ],
   "id": "/?source=pwa",
   "start_url": "/?source=pwa",
+  "theme_color": "#2f8555",
   "background_color": "#2f8555",
   "display": "standalone",
   "scope": "/",
-  "theme_color": "#2f8555",
   "description": "Deep Notes | Deepak's Personal Wiki",
   "screenshots": [
     {

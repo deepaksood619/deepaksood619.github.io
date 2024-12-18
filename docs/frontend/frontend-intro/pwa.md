@@ -18,3 +18,5 @@
 [PWABuilder Suite Documentation](https://docs.pwabuilder.com/#/builder/app-store)
 
 [PWAs in app stores  |  Articles  |  web.dev](https://web.dev/articles/pwas-in-app-stores)
+
+[Workbox  |  Chrome for Developers](https://developer.chrome.com/docs/workbox/)
