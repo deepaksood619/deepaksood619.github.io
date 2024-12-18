@@ -15,6 +15,7 @@
 - [Growth Hacking](growth-hacking)
 - [Growth Hacking Metrics](management/growth-hacking-metrics.md)
 - [Marketing](management/marketing.md)
+	- [Digital Advertising](management/digital-advertising.md)
 - [Sales](management/sales.md)
 - [Customer Engagement / CX](customer-engagement-cx)
 - [Community Building](community-building)

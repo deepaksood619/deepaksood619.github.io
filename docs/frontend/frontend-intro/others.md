@@ -152,7 +152,6 @@ cjpeg -quality 75 -outfile compressed.jpg original.jpg
 cjpeg -quality 85 -progressive -optimize -tune-psnr -outfile temp.jpg
 ```
 
-
 [GitHub - mozilla/mozjpeg: Improved JPEG encoder.](https://github.com/mozilla/mozjpeg)
 
 ### ImageOptim CLI
@@ -177,13 +176,13 @@ imageoptim --quality-low *.jpg
 - **Description**: A lossless JPEG compressor that rearranges file structure for optimal compression.
 - **Compression Method**: Lossless.
 - **Installation**:
-    
+
     `brew install jpeg`
-    
+
 - **Example Command**:
-    
+
     `jpegtran -optimize -progressive -outfile compressed.jpg original.jpg`
-    
+
     - Optimizes and converts the image to a progressive JPEG format.
 
 ### Recommendation

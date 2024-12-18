@@ -44,7 +44,7 @@ For example, a multi-asset fund might invest in equity, debt, as well as gold.
 
 ![small-cap funds](../../media/Screenshot%202024-12-15%20at%205.01.43%20PM.jpg)
 
-## Toppers in different categories by 1-year returns: 
+## Toppers in different categories by 1-year returns
 
 - Mid Cap: Motilal Oswal Midcap
 - Large & Midcap: Motilal Oswal Large & Midcap

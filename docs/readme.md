@@ -53,7 +53,7 @@ If this is your first time visiting this wiki, start from the outline below and 
 
 ## Size of Wiki
 
-Below are my 2100+ notes & their relations visualized using Obsidian.
+Below are my 2400+ notes & their relations visualized using Obsidian.
 
 ![All Notes Visualized in an Obsidian Graph](media/notes-visualized.jpg)
 

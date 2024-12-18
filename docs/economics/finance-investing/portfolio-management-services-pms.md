@@ -29,7 +29,7 @@ Fund houses that offer mutual fund schemes can now launch SIFs. How will they be
 
 SIFs offer fund managers much more flexibility compared to mutual funds.
 
-While mutual funds are categorized by the type of stocks they invest in (like large-cap or mid-cap), SIFs are all about the strategy. Fund managers can use strategies like long-short, typically used by hedge funds. 
+While mutual funds are categorized by the type of stocks they invest in (like large-cap or mid-cap), SIFs are all about the strategy. Fund managers can use strategies like long-short, typically used by hedge funds.
 
 This means fund managers can bet on both winners and losers.
 
@@ -49,4 +49,4 @@ For instance, no scheme can allocate more than 10% of its corpus to a single com
 
 ### 3 Investor-Friendly Fees
 
-Unlike PMS and AIFs, which have high fees, SIFs will have a much more investor-friendly expense ratio, similar to mutual funds. Taxation rules could also be similar. 
+Unlike PMS and AIFs, which have high fees, SIFs will have a much more investor-friendly expense ratio, similar to mutual funds. Taxation rules could also be similar.
