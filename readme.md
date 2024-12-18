@@ -18,7 +18,7 @@ Below are my 2100+ notes & their relations visualized using Obsidian.
 
 ![All Notes Visualized Zoomed in an Obsidian Graph](notes-visualized-zoom.jpg)
 
-This wiki is large. 170,000+ lines of markdown (calculated with [loc](https://github.com/cgag/loc))
+This wiki is large. 280,000+ lines of markdown (calculated with [loc](https://github.com/cgag/loc))
 
 ```bash
 loc

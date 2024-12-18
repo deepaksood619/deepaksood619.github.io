@@ -158,3 +158,4 @@ Full journey for a single request is:
 - [Asynchronous Tasks With Django and Celery – Real Python](https://realpython.com/asynchronous-tasks-with-django-and-celery/)
 - [Celery Integration With Django - GeeksforGeeks](https://www.geeksforgeeks.org/celery-integration-with-django/)
 - [Docker compose with Django 4, Celery, Redis and Postgres | React and Django Tutorial](https://saasitive.com/tutorial/django-celery-redis-postgres-docker-compose/)
+- [The Definitive Guide to Celery and Django - Getting Started | TestDriven.io](https://testdriven.io/courses/django-celery/getting-started/)

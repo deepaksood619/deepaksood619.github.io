@@ -124,20 +124,6 @@ https://github.com/photoprism/photoprism
 
 https://docs.photoprism.app/getting-started
 
-## Adwords
-
-AdWords (now more commonly known as Google Ads) is a system that allows businesses to bid for advertising space in the Google search results and on other Google-affiliated properties. AdSense is a system that allows publishers and website owners to sell ad space to businesses.
-
-## Adsense
-
-Auto ads use Google's smart technology to:
-
-- Understand your page structure
-- Detect any existing Google ads on your page. (Note that we're not able to detect ads from other ad networks.)
-- Automatically place new ads based on different elements such as your page layout, the amount of content on your page, and your existing Google ads. Occasionally, Auto ads might place two ads next to each other (regardless of the ads' network origin).
-
-Ex for adsense - https://deepaksood619.github.io/ads.txt
-
 ## Mulesoft
 
 MuleSoft is a platform that gives IT the tools to automate everything. This includes integrating data and systems, automating workflows and processes, and creating incredible digital experiences — all on a single, easy-to-use platform. With our unique approach, IT creates the digital building blocks that teams can use as they need, all with the right security, governance, and compliance measures built in.

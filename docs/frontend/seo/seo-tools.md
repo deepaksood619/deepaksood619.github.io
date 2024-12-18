@@ -41,6 +41,10 @@
 	- [Google's New CrUX Vis Tool: Explore Core Web Vitals Data | DebugBear](https://www.debugbear.com/blog/google-crux-vis)
 - [mPulse — Real User Performance Monitoring and Real-Time Analytics | Akamai](https://www.akamai.com/products/mpulse-real-user-monitoring)
 
+## Website Speed Test
+
+- [Free Website Speed Test | Testing And Monitoring](https://www.debugbear.com/test/website-speed)
+
 ## Tools
 
 - [SEOquake - Chrome Web Store](https://chromewebstore.google.com/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc)

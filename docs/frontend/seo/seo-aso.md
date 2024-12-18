@@ -1,12 +1,10 @@
 # SEO / ASO
 
-### SEO - Search Engine Optimization
-
-### SMO - Social Media Optimization
-
-### SEM - Search Engine Marketing
-
-### ASO - App Store Optimization
+- SEO - Search Engine Optimization
+- SMO - Social Media Optimization
+- SEM - Search Engine Marketing
+- ASO - App Store Optimization
+- SEM - Search Engine Marketing
 
 ### SEM - Search Engine Marketing
 
@@ -144,9 +142,14 @@ https://ecommercetuners.com/seo-for-ecommerce-product-detail-pages
 
 AMP is a web component framework that you can use to easily create user-first websites, stories, emails, and ads.
 
-[AMP on Google  |  Google for Developers](https://developers.google.com/amp)
+### Links
 
-[Accelerated Mobile Pages – Index](https://wilsonmar.github.io/accelerated-mobile-pages/)
+- [AMP on Google  |  Google for Developers](https://developers.google.com/amp)
+- [Accelerated Mobile Pages – Index](https://wilsonmar.github.io/accelerated-mobile-pages/)
+- [AMP Websites Examples - amp.dev](https://amp.dev/documentation/examples/)
+- [Intro to AMP (Accelerated Mobile Pages) - YouTube](https://www.youtube.com/watch?v=lBTCB7yLs8Y)
+- [AMP: Accelerated Mobile Pages with Paul Bakaus - YouTube](https://www.youtube.com/watch?v=SOx1XfOjJPI)
+- [How AMP achieves its speed - Google I/O 2016 - YouTube](https://www.youtube.com/watch?v=cfekj564rs0)
 
 ## Subdomain vs subdirectory
 
@@ -164,10 +167,15 @@ Different content on slash and non-slash URLs is okay for Google, but often is l
 - [GitHub - slorber/trailing-slash-guide: Understand and fix your static website trailing slash issues!](https://github.com/slorber/trailing-slash-guide)
 - [To slash or not to slash  |  Google Search Central Blog  |  Google Developers](https://developers.google.com/search/blog/2010/04/to-slash-or-not-to-slash)
 
+## Google Search Algorithms
+
+- [Moz - Google Algorithm Update History](https://moz.com/google-algorithm-change)
+
 ## Learning / Courses
 
 - [The 7 Best SEO Courses & Certifications in 2024](https://backlinko.com/seo-certification-guide)
 - [Beginner's Guide to SEO (Search Engine Optimization) - Moz](https://moz.com/beginners-guide-to-seo)
+- [GitHub - bmpi-dev/awesome-seo: Google SEO Research and Web Traffic Monetization](https://github.com/bmpi-dev/awesome-seo)
 
 ## References
 

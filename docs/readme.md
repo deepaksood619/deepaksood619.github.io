@@ -59,7 +59,7 @@ Below are my 2100+ notes & their relations visualized using Obsidian.
 
 ![All Notes Visualized Zoomed in an Obsidian Graph](media/notes-visualized-zoom.jpg)
 
-This wiki is large. 170,000+ lines of markdown (calculated with [loc](https://github.com/cgag/loc))
+This wiki is large. 280,000+ lines of markdown (calculated with [loc](https://github.com/cgag/loc))
 
 ```bash
 loc
@@ -93,7 +93,7 @@ I use [Zettlekasten Method](psychology/learning/note-taking-second-brain-pkm-zet
 
 **My Obsidian View**
 
-![image](media/obsidian-screenshot.jpg)
+![Obsidian Screenshot](media/obsidian-screenshot.jpg)
 
 ## Must Read Pages
 

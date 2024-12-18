@@ -312,9 +312,9 @@ https://neilpatel.com/blog/social-media-shortcuts
 
 ### Sexually Sugestive Ads
 
-[Is Sex in Advertising Effective?](https://www.businessnewsdaily.com/2649-sex-sells-more.html)
-
-[Sex in advertising - Wikipedia](https://en.wikipedia.org/wiki/Sex_in_advertising)
+- [Is Sex in Advertising Effective?](https://www.businessnewsdaily.com/2649-sex-sells-more.html)
+- [Sex in advertising - Wikipedia](https://en.wikipedia.org/wiki/Sex_in_advertising)
+- sex sells
 
 ## Social Listening Tools
 

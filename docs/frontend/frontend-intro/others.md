@@ -24,11 +24,15 @@ mogrify -format jpg -quality 50% /path/to/folder/abc.png
 
 mogrify -format jpg /path/to/folder/*.png
 
-mogrify -format jpg -quality 20% *.png
+mogrify -format jpg -quality 50% *.png
 
 mogrify -quality 20% /path/to/folder/*.jpg
 
 mogrify -quality 10% *.jpg
+
+# Reduce: If you set a lower quality value (e.g., `-quality 50`), the image file size is reduced by increasing compression. This may lead to a loss in visual quality (e.g., pixelation or artifacts), but the image becomes lighter and faster to load.
+
+# Leave (High Quality): If you set a higher quality value (e.g., `-quality 90` or `-quality 100`), the image retains more detail with minimal compression. This ensures better visual fidelity but results in a larger file size.
 
 # convert pdf to images
 convert input.pdf output.jpg

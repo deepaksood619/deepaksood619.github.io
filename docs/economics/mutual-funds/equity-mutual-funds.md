@@ -44,6 +44,14 @@ For example, a multi-asset fund might invest in equity, debt, as well as gold.
 
 ![small-cap funds](../../media/Screenshot%202024-12-15%20at%205.01.43%20PM.jpg)
 
+## Toppers in different categories by 1-year returns: 
+
+- Mid Cap: Motilal Oswal Midcap
+- Large & Midcap: Motilal Oswal Large & Midcap
+- Flexi Cap: Motilal Oswal Flexi Cap
+
+![motilal-oswal-mf](../../media/Screenshot%202024-12-18%20at%2010.45.33%20PM.jpg)
+
 ## Momentum Investing
 
 ![Momentum Investing](../../media/Screenshot%202024-05-01%20at%2011.50.48%20AM.jpg)
