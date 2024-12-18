@@ -12,7 +12,7 @@ Wolf warrior diplomacy / strategy
 
 [Principles for Dealing with the Changing World Order by Ray Dalio](https://www.youtube.com/watch?v=xguam0TKMw8)
 
-![image](../../media/International-Relations-IR-image1.jpg)
+![image](../../../media/International-Relations-IR-image1.jpg)
 
 - 15 August 1971 - US would no longer exchange dollars held by foreign governments for gold
 - 2 main principles to fix the declining power

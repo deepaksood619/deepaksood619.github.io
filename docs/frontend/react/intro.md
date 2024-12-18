@@ -116,6 +116,11 @@ Building a static version requires a lot of typing and no thinking, and adding i
 2. Identify Where Your State Should Live
 3. Add Inverse Data Flow
 
+## React 19
+
+- [React v19 – React](https://react.dev/blog/2024/12/05/react-19)
+- [React 19 Upgrade Guide – React](https://react.dev/blog/2024/04/25/react-19-upgrade-guide)
+
 ## Advanced
 
 [Advanced React Patterns, Performance, Environment and Testing | New Course Launch 🎉](https://www.youtube.com/watch?v=MfIoAG3e7p4&ab_channel=codedamn)

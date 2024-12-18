@@ -54,6 +54,8 @@ Rich results are experiences on Google surfaces, such as Search, that go beyond 
 
 [Mark Up FAQs with Structured Data | Google Search Central  |  Documentation  |  Google for Developers](https://developers.google.com/search/docs/appearance/structured-data/faqpage)
 
+- A Frequently Asked Question (FAQ) page contains a list of questions and answers pertaining to a particular topic. Properly marked up FAQ pages may be eligible to have a rich result on Search and an Action on the Google Assistant, which can help your site reach the right users.
+
 [Rich Results Test - Google Search Console](https://search.google.com/test/rich-results)
 
 ## Siphoning
@@ -143,6 +145,8 @@ https://ecommercetuners.com/seo-for-ecommerce-product-detail-pages
 AMP is a web component framework that you can use to easily create user-first websites, stories, emails, and ads.
 
 [AMP on Google  |  Google for Developers](https://developers.google.com/amp)
+
+[Accelerated Mobile Pages – Index](https://wilsonmar.github.io/accelerated-mobile-pages/)
 
 ## Subdomain vs subdirectory
 

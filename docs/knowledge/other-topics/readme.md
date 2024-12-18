@@ -4,7 +4,7 @@
     - [Types of Governments](knowledge/other-topics/politics/types-of-governments.md)
     - [Politics](knowledge/other-topics/politics/others.md)
     - [Indian Polity](knowledge/other-topics/politics/indian-polity.md)
-- [International Relations IR](knowledge/other-topics/international-relations-ir.md)
+    - [International Relations IR](knowledge/other-topics/politics/international-relations-ir.md)
 - [Environmental Sciences](knowledge/other-topics/climate-change.md)
 - [Philosophy](knowledge/other-topics/philosophy.md)
 - [Education / PhD](knowledge/other-topics/education-phd.md)

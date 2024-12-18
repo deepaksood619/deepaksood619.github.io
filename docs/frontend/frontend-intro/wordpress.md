@@ -67,7 +67,6 @@ Pages - That are not part of blog, and are standalone pages like about us, conta
 ## Plugins
 
 - https://wp-rocket.me
-
 - W3 Total Cache
 - WP Super Cache
 - Kinsta Cache
@@ -84,15 +83,15 @@ Pages - That are not part of blog, and are standalone pages like about us, conta
 
 ## Tools
 
-- WP-Cli
+### WP-Cli
 
 [WP-Cli](https://wp-cli.org/) lets you work with WordPress using the command line. With this great tool you can upgrade and downgrade WordPress in seconds, as well as update plugins. Notably, when you find yourself migrating to a different server, the built in search-replace command will take care of all the url changes for you, and it's worth installing it simply because of that.
 
-- Advanced Database Cleaner
+### Advanced Database Cleaner
 
 The [Advanced Database Cleaner](https://wordpress.org/plugins/advanced-database-cleaner/) plugin cleans out spam comments, built in revisions, and transients. You can even set up tasks to run automatically.
 
-- Query Monitor
+### Query Monitor
 
 When things are running slowly and you're not sure what to blame, [Query Monitor](https://wordpress.org/plugins/query-monitor/) lets you see what queries are taking too long to execute, as well as show you PHP warnings and errors.
 
