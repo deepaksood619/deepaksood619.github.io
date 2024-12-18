@@ -14,9 +14,9 @@ If this is your first time visiting this wiki, take a look at [outline](https://
 
 Below are my 2400+ notes & their relations visualized using Obsidian.
 
-![All Notes Visualized in an Obsidian Graph](notes-visualized.jpg)
+![All Notes Visualized in an Obsidian Graph](docs/media/notes-visualized.jpg)
 
-![All Notes Visualized Zoomed in an Obsidian Graph](notes-visualized-zoom.jpg)
+![All Notes Visualized Zoomed in an Obsidian Graph](docs/media/notes-visualized-zoom.jpg)
 
 This wiki is large. 280,000+ lines of markdown (calculated with [loc](https://github.com/cgag/loc))
 
@@ -90,7 +90,7 @@ I use Zettlekasten Method for note taking and obsidian tool to manage and struct
 
 **My Obsidian View**
 
-![Obsidian Screenshot](obsidian-screenshot.jpg)
+![Obsidian Screenshot](docs/media/obsidian-screenshot.jpg)
 
 ## Must Read Pages
 
