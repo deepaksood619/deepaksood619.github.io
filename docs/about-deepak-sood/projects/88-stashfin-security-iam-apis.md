@@ -23,23 +23,23 @@ Followed - AAA - Authentication, Authorization and Audit with best practices
 
 ### Immutable Logs for Audit
 
-![stashfin-immutable-audit-logs](../../media/Pasted%20image%2020231201175020.png)
+![stashfin-immutable-audit-logs](../../media/Pasted%20image%2020231201175020.jpg)
 
 ### Authorization
 
-![stashfin-authorization](../../media/Pasted%20image%2020231201175035.png)
+![stashfin-authorization](../../media/Pasted%20image%2020231201175035.jpg)
 
 ### Postman implementation and documentation of all APIs
 
 [Stashfin Partners API](https://documenter.getpostman.com/view/16927648/TzzGGtg9)
 
-![stashfin-screenshot](../../media/Pasted%20image%2020231201175731.png)
+![stashfin-screenshot](../../media/Pasted%20image%2020231201175731.jpg)
 
-![stashfin-screenshot](../../media/Pasted%20image%2020231201175751.png)
+![stashfin-screenshot](../../media/Pasted%20image%2020231201175751.jpg)
 
 #### API Testing
 
-![stashfin-screenshot](../../media/Pasted%20image%2020231201175759.png)
+![stashfin-screenshot](../../media/Pasted%20image%2020231201175759.jpg)
 
 ## WebView Implementations
 
@@ -52,8 +52,8 @@ Followed - AAA - Authentication, Authorization and Audit with best practices
     - brand ambassador program
     - stashearn
 
-![stasfin-screenshot](../../media/Pasted%20image%2020231201180310.png)
+![stasfin-screenshot](../../media/Pasted%20image%2020231201180310.jpg)
 
-![stashfin-screenshot](../../media/Pasted%20image%2020231201180349.png)
+![stashfin-screenshot](../../media/Pasted%20image%2020231201180349.jpg)
 
-![stashfin-screenshot](../../media/Pasted%20image%2020231201180442.png)
+![stashfin-screenshot](../../media/Pasted%20image%2020231201180442.jpg)

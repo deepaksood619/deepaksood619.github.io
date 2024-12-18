@@ -22,7 +22,7 @@ Pulsar, developed originally by Yahoo, is an all-in-one messaging and streaming 
 
 There are two layers in Pulsar architecture: the serving layer and the persistent layer. Pulsar natively supports tiered storage, where we can leverage cheaper object storage like AWS S3 to persist messages for a longer term.
 
-![message-queues](../../media/Pasted%20image%2020231225102216.png)
+![message-queues](../../media/Pasted%20image%2020231225102216.jpg)
 
 ## Others
 

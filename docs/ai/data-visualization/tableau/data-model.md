@@ -13,7 +13,7 @@ The data model has two layers:
 
 Noodles = Relationships
 
-![relationship-logical-layer](../../../media/Pasted%20image%2020230320181009.png)
+![relationship-logical-layer](../../../media/Pasted%20image%2020230320181009.jpg)
 
 The top-level view of a data source with multiple, related tables. This is the logical layer. Logical tables can be combined using relationships (noodles). They don't use join types. They act like containers for physical tables.
 
@@ -21,7 +21,7 @@ The top-level view of a data source with multiple, related tables. This is the l
 
 Venn diagram = Joins
 
-![relationship-physical-layer](../../../media/Pasted%20image%2020230320181018.png)
+![relationship-physical-layer](../../../media/Pasted%20image%2020230320181018.jpg)
 
 Double-click a logical table to open it and see its physical tables. Physical tables can be combined using joins or unions. In this example, the Book logical table is made of three, joined physical tables (Book, Award, Info).
 

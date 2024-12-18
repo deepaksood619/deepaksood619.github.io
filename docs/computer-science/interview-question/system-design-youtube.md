@@ -1,6 +1,6 @@
 # System Design of YouTube
 
-![System Design of YouTube](../../media/Pasted%20image%2020240921221234.png)
+![System Design of YouTube](../../media/Pasted%20image%2020240921221234.jpg)
 
 1. The user creates a video upload request and provides the video files along with the details about the video.
 2. The raw video files are uploaded to an Object Storage (such as S3).

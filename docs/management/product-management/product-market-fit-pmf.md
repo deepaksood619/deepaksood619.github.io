@@ -24,7 +24,7 @@ A go-to-market (GTM) strategy is a step-by-step plan for launching a new product
 - Where will you sell your product? What markets do you want to pursue, and what does the demand and competition look like in those markets?
 - How will you reach your target customers and create demand?
 
-![go-to-market-strategy](../../media/Pasted%20image%2020230801121928.png)
+![go-to-market-strategy](../../media/Pasted%20image%2020230801121928.jpg)
 
 https://asana.com/resources/go-to-market-gtm-strategy
 

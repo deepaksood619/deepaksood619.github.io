@@ -16,13 +16,13 @@ There is only some pre-processing needed when using CNNs. They develop and adapt
 
 The basic unit of a CNN framework is a neuron. The concept of neurons is based on human neurons, where synapses occur due to [neuron activation](https://viso.ai/deep-learning/neuron-activation/). These are statistical functions that calculate the weighted average of inputs and apply an activation function to the result generated. Layers are a cluster of neurons, with each layer having a particular function.
 
-![Concept of a neural network](../../media/Pasted%20image%2020240917123040.png)
+![Concept of a neural network](../../media/Pasted%20image%2020240917123040.jpg)
 
 ## CNN Layers
 
 A CNN system may have somewhere between 3 to 150 or even more layers: The “deep” of Deep neural networks refers to the number of layers. One layer’s output acts as another layer’s input. Deep multi-layer neural networks include [Resnet50 (50 layers) or ResNet101 (101 layers)](https://viso.ai/deep-learning/resnet-residual-neural-network/).
 
-![Concept of a Convolutional Neural Network (CNN)](../../media/Pasted%20image%2020240917123109.png)
+![Concept of a Convolutional Neural Network (CNN)](../../media/Pasted%20image%2020240917123109.jpg)
 
 ![CNN Architecture](../../media/Screenshot%202024-09-18%20at%2011.12.53%20PM.jpg)
 

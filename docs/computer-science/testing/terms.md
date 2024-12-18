@@ -384,7 +384,7 @@ https://www.tutorialspoint.com/software_testing_dictionary/index.htm
 - **UI Testing** - This tests the UI interactions with the APIs to make sure the data can be displayed properly.
 - **Fuzz Testing** - This injects invalid or unexpected input data into the API and tries to crash the API. In this way, it identifies the API vulnerabilities.
 
-![api-testing](../../media/Pasted%20image%2020231230004011.png)
+![api-testing](../../media/Pasted%20image%2020231230004011.jpg)
 
 ## White box vs Black box vs Grey box testing
 

@@ -283,7 +283,7 @@ The rise of wages in jobs without productivity gains derives from the requiremen
 
 Baumol helps us understand not only today’s economy but also a likely path for the economy’s future. He explained why labor-intensive services get more and more expensive as the economy grows. And those kinds of services are likely to be the future of the global economy.
 
-![baumol-effect](../../media/Pasted%20image%2020230623092653.png)
+![baumol-effect](../../media/Pasted%20image%2020230623092653.jpg)
 
 [Baumol effect - Wikipedia](https://en.wikipedia.org/wiki/Baumol_effect)
 

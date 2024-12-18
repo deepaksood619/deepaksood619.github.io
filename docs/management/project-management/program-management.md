@@ -25,7 +25,7 @@ There are three distinct types of communication: status reporting, direction set
 
 ## Program management vs. project management
 
-![program-vs-project-management](../../media/Pasted%20image%2020231218173534.png)
+![program-vs-project-management](../../media/Pasted%20image%2020231218173534.jpg)
 
 Program management is sometimes confused with project management. Project management is the process of leading a project performed by a team to achieve certain goals, such as building a new product.
 

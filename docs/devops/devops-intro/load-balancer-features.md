@@ -66,4 +66,4 @@ Load balancers facilitate horizontal scaling by effectively managing increased t
 
 Load balancers continuously monitor the health and performance of servers, removing failed or unhealthy servers from the pool to maintain optimal performance.
 
-![Load Balancer Use Cases](../../media/Pasted%20image%2020240117160744.png)
+![Load Balancer Use Cases](../../media/Pasted%20image%2020240117160744.jpg)

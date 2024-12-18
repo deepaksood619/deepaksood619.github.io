@@ -35,7 +35,7 @@ https://auth0.com/learn/multifactor-authentication
 
 ## Types of Authentication
 
-![rest-api-authentication-methods](../../../media/Pasted%20image%2020231224135903.png)
+![rest-api-authentication-methods](../../../media/Pasted%20image%2020231224135903.jpg)
 
 - Cookie-Based authentication
 - Token-Based authentication
@@ -144,7 +144,7 @@ Single Sign On works by having a central server, which all the applications trus
 
 For example, Google implements Single Sign On in its services. Google's central server is [https://accounts.google.com](https://accounts.google.com/). Once you are logged in this server, you will be able to access Gmail, Youtube, and Google Docs without entering your credentials again.
 
-![how-does-sso-work](../../../media/Pasted%20image%2020231224144602.png)
+![how-does-sso-work](../../../media/Pasted%20image%2020231224144602.jpg)
 
 ## IAM - Identity and Access Management
 

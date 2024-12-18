@@ -11,4 +11,4 @@ Most people feel they understand the world with far greater detail, coherence, a
     - Division of cognitive labour
     - Shared intentionality
 
-![knowledge-illusion](../media/Pasted%20image%2020230804235124.png)
+![knowledge-illusion](../media/Pasted%20image%2020230804235124.jpg)

@@ -68,7 +68,7 @@ https://haydenjames.io/linux-networking-commands-scripts
 60. [Wireshark](https://www.wireshark.org/)--network protocol analyzer.
 61. FRP - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. - https://github.com/fatedier/frp
 
-![Linux Performance Observability Tools](../../media/Pasted%20image%2020240213012455.png)
+![Linux Performance Observability Tools](../../media/Pasted%20image%2020240213012455.jpg)
 
 ## magic-wormhole
 

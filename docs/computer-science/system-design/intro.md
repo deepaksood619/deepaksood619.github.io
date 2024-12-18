@@ -34,7 +34,7 @@ Systems design is the process of defining the [architecture](https://en.wikipedi
 
 ## Approaching a system design problem
 
-![System Design Cheat Sheet](../../media/Pasted%20image%2020240124154620.png)
+![System Design Cheat Sheet](../../media/Pasted%20image%2020240124154620.jpg)
 
 ### Gather requirements (Functional and non-functional requirements)
 
@@ -196,7 +196,7 @@ This helps as you no longer have to make assumptions about
 
 [System Design Blueprint: The Ultimate Guide | by Love Sharma | Apr, 2023 | Dev Genius](https://blog.devgenius.io/system-design-blueprint-the-ultimate-guide-e27b914bf8f1)
 
-![system-design-checklist](../../media/Screenshot%202023-05-26%20at%201.21.56%20PM.png)
+![system-design-checklist](../../media/Screenshot%202023-05-26%20at%201.21.56%20PM.jpg)
 
 - [System Designs - YouTube](https://www.youtube.com/playlist?list=PLQnljOFTspQXSevtRqvMNycWfHM7cXc3d)
 - [System Design Master Template: How to Answer Any System Design Interview Question. | by Arslan Ahmad | Level Up Coding](https://levelup.gitconnected.com/system-design-master-template-how-to-answer-any-system-design-interview-question-ee5dc332acd5)
@@ -213,4 +213,4 @@ This helps as you no longer have to make assumptions about
 - [Behind AWS S3’s Massive Scale](https://highscalability.com/behind-aws-s3s-massive-scale/)
 - [Software Architecture Patterns - ByteByteGo Newsletter](https://blog.bytebytego.com/p/software-architecture-patterns)
 
-![System Design Cheatsheet](../../media/Pasted%20image%2020240607132531.png)
+![System Design Cheatsheet](../../media/Pasted%20image%2020240607132531.jpg)

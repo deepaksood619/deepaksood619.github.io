@@ -16,7 +16,7 @@ You can also explicitly cast between many types:
 
 ### Type precedence graph
 
-![type-precedence-graph](../../media/Pasted%20image%2020230529234112.png)
+![type-precedence-graph](../../media/Pasted%20image%2020230529234112.jpg)
 
 [SQL data type rules | Databricks on AWS](https://docs.databricks.com/sql/language-manual/sql-ref-datatype-rules.html)
 

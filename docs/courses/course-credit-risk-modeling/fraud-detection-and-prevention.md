@@ -8,7 +8,7 @@
 
 Amazon Fraud Detector is a fully managed service that makes it easy to identify potentially fraudulent online activities such as online payment fraud and the creation of fake accounts.
 
-![Amazon Fraud Detector](../../media/Pasted%20image%2020240916160527.png)
+![Amazon Fraud Detector](../../media/Pasted%20image%2020240916160527.jpg)
 
 1. Step 1 - Explore data models for your business use case.
 2. Step 2 - Define the event you want to evaluate for fraud.

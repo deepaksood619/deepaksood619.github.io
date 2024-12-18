@@ -28,7 +28,7 @@ RAG is an AI framework for retrieving facts from an external knowledge base to g
 
 ## Advanced
 
-![RAG from Scratch](../../media/Pasted%20image%2020240802004652.png)
+![RAG from Scratch](../../media/Pasted%20image%2020240802004652.jpg)
 
 ### Advanced RAG Techniques
 

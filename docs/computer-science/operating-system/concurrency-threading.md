@@ -125,7 +125,7 @@ Main differences between process and thread:
 - Context switching is more expensive between processes.
 - Inter-thread communication is faster for threads.
 
-![program vs process vs threads](../../media/Pasted%20image%2020240723230943.png)
+![program vs process vs threads](../../media/Pasted%20image%2020240723230943.jpg)
 
 ## Are Threads Lighter than Processes
 

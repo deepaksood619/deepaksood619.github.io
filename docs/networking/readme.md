@@ -17,4 +17,4 @@
 - **Streaming Processing** - Streaming Processing allows for the continuous ingestion, processing, and analysis of data streams in real-time.
 - **Orchestration** - Orchestration involves a central coordinator (an orchestrator) managing the interactions between distributed components or services to achieve a workflow or business process.
 
-![Top 9 System Integrations](../media/Pasted%20image%2020240705001108.png)
+![Top 9 System Integrations](../media/Pasted%20image%2020240705001108.jpg)

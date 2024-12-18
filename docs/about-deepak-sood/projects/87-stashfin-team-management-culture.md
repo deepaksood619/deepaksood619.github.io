@@ -19,20 +19,20 @@
 - Atleast 2 approvals, one from senior dev and one from junior dev is mandatory for merging the code
 - Using Git and a proper PR process. Every feature or bug fix is a separate branch and submitted as a PR
 
-![stashfin-git-review-process](../../media/Pasted%20image%2020231201181214.png)
+![stashfin-git-review-process](../../media/Pasted%20image%2020231201181214.jpg)
 
 ### Scrum / Kanban / Project Management
 
 - Implemented Agile project management methodology across teams
 
-![example-scrum-board](../../media/Pasted%20image%2020231201181414.png)
+![example-scrum-board](../../media/Pasted%20image%2020231201181414.jpg)
 
 ## Documentation
 
 - Used a combination of google docs with team folders, etc
 - Introduced confluence for documentation
 
-![example-confluence-documentation](../../media/Pasted%20image%2020231201181347.png)
+![example-confluence-documentation](../../media/Pasted%20image%2020231201181347.jpg)
 
 ### Process process for documentation
 
@@ -42,7 +42,7 @@
 - HLD provides an overview of the system architecture, major components, and their interactions. It helps in aligning the team and stakeholders on the overall structure of the application.
 - We should update the HLD whenever there are significant changes to the system architecture. It serves as a reference for new team members and ensures everyone has a shared understanding of the system.
 
-![high-level-diagram-example](../../media/Pasted%20image%2020231201183011.png)
+![high-level-diagram-example](../../media/Pasted%20image%2020231201183011.jpg)
 
 #### LLD (Low Level Diagrams) and ER (Entity Relationship Diagrams)
 
@@ -53,6 +53,6 @@
 - We include ERDs as part of our documentation to maintain a clear understanding of the database schema. This is especially helpful during database migrations or when onboarding new team members.
 - During code reviews or discussions about database changes, referring to the ERD ensures that everyone is on the same page regarding the data model.
 
-![low-level-diagram-example](../../media/Pasted%20image%2020231201183115.png)
+![low-level-diagram-example](../../media/Pasted%20image%2020231201183115.jpg)
 
-![entity-relationship-diagram](../../media/Pasted%20image%2020231201183143.png)
+![entity-relationship-diagram](../../media/Pasted%20image%2020231201183143.jpg)

@@ -1,6 +1,6 @@
 # Coding Guidelines / Code Reviews / Clean Code
 
-![10 Good Coding Principles](../../media/Pasted%20image%2020240207000423.png)
+![10 Good Coding Principles](../../media/Pasted%20image%2020240207000423.jpg)
 
 Code reviews are fundamental to the software development process, even when there's only one engineer.
 

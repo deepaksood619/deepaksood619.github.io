@@ -649,7 +649,7 @@ sort adult.csv | uniq -c | sort -r | head -n 3
 2 49, Self-emp-not-inc, 43479, Some-college, 10, Married-civ-spouse, ...
 ```
 
-![Log Parsing Commands](../../media/Pasted%20image%2020240620022249.png)
+![Log Parsing Commands](../../media/Pasted%20image%2020240620022249.jpg)
 
 ## openssl
 

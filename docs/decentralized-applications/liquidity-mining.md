@@ -94,7 +94,7 @@ Yield farming involves maximizing returns on cryptocurrency holdings by moving t
 
 [Yield Farming vs. Liquidity Mining: What's the Difference? - B2Bbroker](https://b2broker.com/news/yield-farming-vs-liquidity-mining-whats-the-difference/)
 
-![staking-vs-yf-vs-lm](../media/Pasted%20image%2020230626135923.png)
+![staking-vs-yf-vs-lm](../media/Pasted%20image%2020230626135923.jpg)
 
 [Staking vs Yield Farming vs Liquidity Mining- What's The Difference? - Blockchain Council](https://www.blockchain-council.org/defi/staking-vs-yield-farming-vs-liquidity-mining/)
 

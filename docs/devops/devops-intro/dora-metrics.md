@@ -7,7 +7,7 @@ The [DevOps Research and Assessment (DORA)](https://cloud.google.com/blog/produ
 - **Change Failure Rate**—The percentage of deployments causing a failure in production
 - **Time to Restore Service**—How long it takes an organization to recover from a failure in production
 
-![DORA Metrics](../../media/Pasted%20image%2020240303224853.png)
+![DORA Metrics](../../media/Pasted%20image%2020240303224853.jpg)
 
 ### Links
 

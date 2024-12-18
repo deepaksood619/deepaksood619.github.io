@@ -108,7 +108,7 @@
 
 [Diamond Hands vs Paper Hands - Which Hands to Have? - YouTube](https://www.youtube.com/watch?v=j4N0M0Od7_E)
 
-![ranks-of-bitcoin-holders](../media/Screenshot%202023-04-03%20at%209.02.03%20AM.png)
+![ranks-of-bitcoin-holders](../media/Screenshot%202023-04-03%20at%209.02.03%20AM.jpg)
 
 [Make $100 Per Day Trading Cryptocurrency 2023 (Full Strategy) - YouTube](https://www.youtube.com/watch?v=1IU0kIKXOUc)
 

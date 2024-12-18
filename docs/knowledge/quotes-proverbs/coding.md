@@ -356,7 +356,7 @@ Any intelligent fool can make things bigger, more complex, and more violent. It 
 
 There are only two industries that call their customers 'users': illegal drugs and software -- Edward Tufte
 
-![automation-truth](../../media/Pasted%20image%2020230811165442.png)
+![automation-truth](../../media/Pasted%20image%2020230811165442.jpg)
 
 [GitHub - mame/quine-relay: An uroboros program with 100+ programming languages](https://github.com/mame/quine-relay)
 

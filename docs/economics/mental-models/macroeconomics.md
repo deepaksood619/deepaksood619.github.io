@@ -85,7 +85,7 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 - free [capital](https://en.wikipedia.org/wiki/Capital_(economics) "Capital (economics)") movement (absence of [capital controls](https://en.wikipedia.org/wiki/Capital_control "Capital control"))
 - an independent [monetary policy](https://en.wikipedia.org/wiki/Monetary_policy "Monetary policy")
 
-![impossible-trilemma](../../media/Pasted%20image%2020230326180326.png)
+![impossible-trilemma](../../media/Pasted%20image%2020230326180326.jpg)
 
 - **Side A**: A country can choose to fix exchange rates with one or more countries and have a free flow of capital with others. If it chooses this scenario, independent monetary policy is not achievable because interest rate fluctuations would create currency arbitrage stressing the currency pegs and causing them to break.
 - **Side B**: The country can choose to have a free flow of capital among all foreign nations and also have an autonomous monetary policy. Fixed exchange rates among all nations and the free flow of capital are mutually exclusive. As a result, only one can be chosen at a time. So, if there is a free flow of capital among all nations, there cannot be fixed exchange rates.

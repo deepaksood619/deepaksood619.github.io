@@ -16,4 +16,4 @@
 - **Suffix tree:** for string pattern search
 - **R-tree:** multi-dimension search, such as finding the nearest neighbor
 
-![8 data structures that power your databases](../../media/Pasted%20image%2020240112150921.png)
+![8 data structures that power your databases](../../media/Pasted%20image%2020240112150921.jpg)

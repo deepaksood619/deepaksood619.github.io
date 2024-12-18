@@ -9,11 +9,11 @@
 
 ## Tableau Server Architecture
 
-![tableau-architecture-diagram](../../../media/Pasted%20image%2020230714180101.png)
+![tableau-architecture-diagram](../../../media/Pasted%20image%2020230714180101.jpg)
 
 ### Tableau Server Deployment Reference Architecture
 
-![tableau-server-deployment-reference-architecture](../../../media/Pasted%20image%2020230714180337.png)
+![tableau-server-deployment-reference-architecture](../../../media/Pasted%20image%2020230714180337.jpg)
 
 ## Components of Tableau Server
 

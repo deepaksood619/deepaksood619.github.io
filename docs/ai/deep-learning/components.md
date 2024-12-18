@@ -6,7 +6,7 @@
 - The **hidden layers** now perform the calculations on the received data. The biggest challenge here in neural networks creation is to decide the number of neurons and optimal number of hidden layers.
 - Finally, the **output layer** takes in the inputs that are passed in from the layers before it and performs the calculations via its neurons to compute the output.
 
-![neural network in deep learning](../../media/Pasted%20image%2020240917230635.png)
+![neural network in deep learning](../../media/Pasted%20image%2020240917230635.jpg)
 
 Deep learning requires a large amount of data for best results, while processing the data, neural networks can classify data with labels received from the dataset involving highly complex mathematical calculations.
 

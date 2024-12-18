@@ -19,7 +19,7 @@
 
 ![image](../../media/System-Design-Others-image3.jpg)
 
-![netflix-overall-architecture](../../media/Pasted%20image%2020230626094711.png)
+![netflix-overall-architecture](../../media/Pasted%20image%2020230626094711.jpg)
 
 https://www.linkedin.com/pulse/system-design-netflix-narendra-l
 

@@ -6,7 +6,7 @@
 - According to Wyckoff’s rules, a price trend never repeats itself exactly and trends must be studied in context with past behavior.
 - The Wyckoff Method can help investors make less emotional, better-informed decisions about when to buy and sell stocks.
 
-![wyckoff-method](../../media/Pasted%20image%2020230715103730.png)
+![wyckoff-method](../../media/Pasted%20image%2020230715103730.jpg)
 
 [Wyckoff Method: Rules, Accumulation, and Distribution](https://www.investopedia.com/articles/active-trading/070715/making-money-wyckoff-way.asp)
 

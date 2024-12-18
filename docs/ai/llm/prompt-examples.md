@@ -99,9 +99,9 @@ https://chatgpt.com/share/674780e9-c504-8005-a023-b7aa945329d4
 
 ### Prompting Guide
 
-![ChatGPT Ultimate Prompting Guide](../../media/chatgpt-promt-engineering.png)
+![ChatGPT Ultimate Prompting Guide](../../media/chatgpt-promt-engineering.jpg)
 
-![ChatGPT Prompts Commands](../../media/chatgpt-prompts.png)
+![ChatGPT Prompts Commands](../../media/chatgpt-prompts.jpg)
 
 Share the most important leadership lessons and insights from the book `{insert book}` by `{insert author}`. For each insight suggest an actionable way I can embody it.
 

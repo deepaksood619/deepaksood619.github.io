@@ -33,7 +33,7 @@
 - [Low-Code / No-Code Platforms / LCNC](cloud/others/low-code-no-code-lcnc.md)
 - [Others - SAAS](others-saas)
 
-![cloud-comparision](../../media/Pasted%20image%2020231216002914.png)
+![cloud-comparision](../../media/Pasted%20image%2020231216002914.jpg)
 
 - AWS
 - Azure

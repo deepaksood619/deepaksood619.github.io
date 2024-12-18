@@ -270,7 +270,7 @@ Here are some quick-hit rules for URL path (resource name) design:
 - Use lower-case in URL segments, separating words with underscores (`_`) or hyphens ('-'). Some servers ignore case so it's best to be clear.
 - Keep URLs as short as possible, with as few segments as makes sense.
 
-![Effective and Safe APIs](../../media/Pasted%20image%2020240111204509.png)
+![Effective and Safe APIs](../../media/Pasted%20image%2020240111204509.jpg)
 
 https://www.restapitutorial.com/lessons/restquicktips.html
 
@@ -298,4 +298,4 @@ https://blog.feathersjs.com/design-patterns-for-modern-web-apis-1f046635215
 - **Middleware:** Reusable functions that can control the flow of data and trigger additional functionality when interacting with REST services
 - **Real-time:** A set of events that can be sent automatically when following the REST architecture
 
-![improve-api-performance](../../media/Pasted%20image%2020231224140824.png)
+![improve-api-performance](../../media/Pasted%20image%2020231224140824.jpg)

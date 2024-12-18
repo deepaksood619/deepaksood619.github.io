@@ -6,7 +6,7 @@
 
 [**FASTag API reference** - Setu Docs](https://docs.setu.co/payments/fastag/api-reference)
 
-![fasttag-api-reference](../../media/Pasted%20image%2020231213213203.png)
+![fasttag-api-reference](../../media/Pasted%20image%2020231213213203.jpg)
 
 ### Fast Tags at petrol pumps
 

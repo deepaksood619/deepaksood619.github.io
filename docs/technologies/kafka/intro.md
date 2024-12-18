@@ -167,7 +167,7 @@ https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates
 - [Kafka without Zookeeper: Tutorial & Examples](https://redpanda.com/guides/kafka-tutorial/kafka-without-zookeeper)
 - [KRaft Quorum: How to run Kafka without Zookeper](https://www.conduktor.io/blog/kraft-quorum-run-kafka-without-zookeeper/)
 
-![Kafka with KRaft](../../media/Pasted%20image%2020240808170843.png)
+![Kafka with KRaft](../../media/Pasted%20image%2020240808170843.jpg)
 
 ## Best Practices
 

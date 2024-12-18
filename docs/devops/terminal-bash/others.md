@@ -11,7 +11,7 @@
 7. The system runs a set of startup scripts and configure the environment.
 8. The users are presented with a login window. The system is now ready.
 
-![Linux Boot Process](../../media/Pasted%20image%2020240219161748.png)
+![Linux Boot Process](../../media/Pasted%20image%2020240219161748.jpg)
 
 ## systemd / initd
 

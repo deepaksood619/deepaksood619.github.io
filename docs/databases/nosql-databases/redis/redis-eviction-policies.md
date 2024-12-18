@@ -63,7 +63,7 @@ https://redis.io/topics/lru-cache
 
 https://tokers.github.io/posts/lru-and-lfu-in-redis-memory-eviction
 
-![cache-problems](../../../media/Pasted%20image%2020240105232856.png)
+![cache-problems](../../../media/Pasted%20image%2020240105232856.jpg)
 
 ## Important Points
 

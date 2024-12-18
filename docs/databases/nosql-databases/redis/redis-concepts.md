@@ -112,7 +112,7 @@ https://redis.io/commands/scan
 - **No persistence**: You can disable persistence completely. This is sometimes used when caching.
 - **RDB + AOF**: You can also combine both AOF and RDB in the same instance. Notice that, in this case, when Redis restarts the AOF file will be used to reconstruct the original dataset since it is guaranteed to be the most complete.
 
-![redis-persistance](../../../media/Pasted%20image%2020231224140113.png)
+![redis-persistance](../../../media/Pasted%20image%2020231224140113.jpg)
 
 ### AOF - Append Only File
 

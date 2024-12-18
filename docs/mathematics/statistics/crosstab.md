@@ -8,7 +8,7 @@ For a precise reference, a cross-tabulation is a two- (or more) dimensional tabl
 
 It is common for crosstabs to contain more than two variables. For example, the table below shows four variables. The rows represent one categorical variable, which records brand preference, and the columns represent age and income-within-gender.
 
-![crosstab-demonstration](../../media/Pasted%20image%2020230817174312.png)
+![crosstab-demonstration](../../media/Pasted%20image%2020230817174312.jpg)
 
 ## Key decisions when creating a crosstab
 

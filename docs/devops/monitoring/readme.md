@@ -14,7 +14,7 @@
 - [ML Monitoring](ai/libraries/ml-monitoring.md)
 - [Others](devops/monitoring/others.md)
 
-![Monitoring Cheat Sheet](../../media/Pasted%20image%2020240115131943.png)
+![Monitoring Cheat Sheet](../../media/Pasted%20image%2020240115131943.jpg)
 
 - **Data Collection:** Gather information from diverse sources to enhance decision-making.
 - **Data Storage:** Safely store and manage data for future analysis and reference.

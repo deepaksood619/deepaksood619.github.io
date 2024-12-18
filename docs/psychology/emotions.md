@@ -2,17 +2,17 @@
 
 ## Emotion Wheels
 
-![Emotion Wheel I](../media/Pasted%20image%2020230514131840.png)
+![Emotion Wheel I](../media/Pasted%20image%2020230514131840.jpg)
 
-![Emotion Wheel II](../media/Pasted%20image%2020230514131848.png)
+![Emotion Wheel II](../media/Pasted%20image%2020230514131848.jpg)
 
-![Emotion Wheel III - Uncomfortable Emotions](../media/Pasted%20image%2020230514131857.png)
+![Emotion Wheel III - Uncomfortable Emotions](../media/Pasted%20image%2020230514131857.jpg)
 
-![Emotion Wheel III - Comfortable Emotions](../media/Pasted%20image%2020230514131906.png)
+![Emotion Wheel III - Comfortable Emotions](../media/Pasted%20image%2020230514131906.jpg)
 
-![HS Needs Wheel I](../media/Pasted%20image%2020230514131917.png)
+![HS Needs Wheel I](../media/Pasted%20image%2020230514131917.jpg)
 
-![HS Needs Wheel II](../media/Pasted%20image%2020230514131925.png)
+![HS Needs Wheel II](../media/Pasted%20image%2020230514131925.jpg)
 
 [Emotion Wheels & Needs Wheel - Human Systems](https://humansystems.co/emotionwheels/)
 

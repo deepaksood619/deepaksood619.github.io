@@ -14,7 +14,7 @@
 
 With the intent to build data and AI applications, Databricks consists of two core components: the **Control Plane and the Data Plane**. The control plane is **fully managed by Databricks** and consists of the Web UI, Notebooks, Jobs & Queries and the Cluster Manager. The Dataplane **resides in your AWS Account** and is where Databricks Clusters run to process data.
 
-![databricks control and data plane](../../../media/Pasted%20image%2020230522180510.png)
+![databricks control and data plane](../../../media/Pasted%20image%2020230522180510.jpg)
 
 ## Databricks SQL (DB SQL)
 

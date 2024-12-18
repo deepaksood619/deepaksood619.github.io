@@ -152,9 +152,9 @@ Percona XtraBackup creates a physical backup of the database files whereas the o
 
 The benchmark was run on an [m5dn.8xlarge](https://aws.amazon.com/blogs/aws/new-m5n-and-r5n-instances-with-up-to-100-gbps-networking/) instance, with 128GB RAM, 32 vCPU, and 2xNVMe disks of 600GB (one for backup and the other one for MySQL data). The MySQL version was 8.0.26 and configured with 89Gb of buffer pool, 20Gb of redo log, and a sample database of 177 GB
 
-![mysql backup performance](../../../media/Pasted%20image%2020240526173518.png)
+![mysql backup performance](../../../media/Pasted%20image%2020240526173518.jpg)
 
-![Backup Size](../../../media/Pasted%20image%2020240526175011.png)
+![Backup Size](../../../media/Pasted%20image%2020240526175011.jpg)
 
 Time to restore (in seconds)
 

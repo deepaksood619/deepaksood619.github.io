@@ -42,7 +42,7 @@ Take your expertise and apply it to something new.
 
 ## Learning Pyramid
 
-![learning-pyramid](../../media/Pasted%20image%2020231223204149.png)
+![learning-pyramid](../../media/Pasted%20image%2020231223204149.jpg)
 
 ![image](../../media/Learning-Intro-image1.jpg)
 
@@ -390,7 +390,7 @@ Our memories have a forgetting curve, and unless we review what we see or learn,
 
 Due to the internet, our recall memory has become less necessary, because now we don't need to remember information to recall it. Recognition memory is more important with recall memory fading away due to it being externalized.
 
-![curve of forgetting](../../media/Pasted%20image%2020230716224959.png)
+![curve of forgetting](../../media/Pasted%20image%2020230716224959.jpg)
 
 [The Knowledge Illusion](../../book-summaries/the-knowledge-illusion)
 

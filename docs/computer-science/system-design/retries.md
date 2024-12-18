@@ -34,4 +34,4 @@ Exponential jitter backoff combines exponential backoff with randomness. After e
 
 [Exponential Backoff And Jitter | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)
 
-![How we retry on failures](../../media/Pasted%20image%2020240529204631.png)
+![How we retry on failures](../../media/Pasted%20image%2020240529204631.jpg)

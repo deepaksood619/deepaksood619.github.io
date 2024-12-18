@@ -107,4 +107,4 @@ https://www.toptal.com/android/testing-like-a-true-green-droid
 
 - Upon approval, set a release date to coordinate the launch on both iOS and Android platforms
 
-![releasing a mobile app](../../../media/Pasted%20image%2020240110125910.png)
+![releasing a mobile app](../../../media/Pasted%20image%2020240110125910.jpg)

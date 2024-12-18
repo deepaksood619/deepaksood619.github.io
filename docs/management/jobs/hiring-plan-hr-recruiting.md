@@ -72,7 +72,7 @@ Background verification tool - [verifydirectintl.com/index.aspx](https://verifyd
 
 https://auren.substack.com/p/moneyballing-for-talent
 
-![image](../../media/Hiring-Plan-HR-Recruiting-image1.png)
+![image](../../media/Hiring-Plan-HR-Recruiting-image1.jpg)
 
 ### Hiring
 

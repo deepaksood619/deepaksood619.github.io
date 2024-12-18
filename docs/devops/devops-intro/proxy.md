@@ -159,7 +159,7 @@ A reverse proxy is good for:
 3. Cache static contents
 4. Encrypt and decrypt SSL communications
 
-![Forward proxy vs reverse proxy](../../media/Pasted%20image%2020240705001243.png)
+![Forward proxy vs reverse proxy](../../media/Pasted%20image%2020240705001243.jpg)
 
 ## Links
 

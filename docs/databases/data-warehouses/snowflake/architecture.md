@@ -18,9 +18,9 @@ Snowflake is not a packaged software offering that can be installed by a user. S
 
 Snowflake’s architecture is a hybrid of traditional shared-disk and shared-nothing database architectures. Similar to shared-disk architectures, Snowflake uses a central data repository for persisted data that is accessible from all compute nodes in the platform. But similar to shared-nothing architectures, Snowflake processes queries using MPP (massively parallel processing) compute clusters where each node in the cluster stores a portion of the entire data set locally. This approach offers the data management simplicity of a shared-disk architecture, but with the performance and scale-out benefits of a shared-nothing architecture.
 
-![snowflake-architecture](../../../media/Pasted%20image%2020231205121227.png)
+![snowflake-architecture](../../../media/Pasted%20image%2020231205121227.jpg)
 
-![snowflake-architecture](../../../media/Pasted%20image%2020240104225355.png)
+![snowflake-architecture](../../../media/Pasted%20image%2020240104225355.jpg)
 
 Snowflake’s unique architecture consists of three key layers:
 

@@ -227,23 +227,23 @@ Gain operational insights and take action on AWS resources
 - [Data discovery](https://docs.aws.amazon.com/wellarchitected/latest/analytics-lens/data-discovery.html)
 - [Modern data architecture](https://docs.aws.amazon.com/wellarchitected/latest/analytics-lens/modern-data-architecture.html)
 
-![modern data architecture reference architecture](../../media/Pasted%20image%2020230326214747.png)
+![modern data architecture reference architecture](../../media/Pasted%20image%2020230326214747.jpg)
 
 - [Batch data processing](https://docs.aws.amazon.com/wellarchitected/latest/analytics-lens/batch-data-processing.html)
 
-![batch data processing reference architecture](../../media/Pasted%20image%2020230326214900.png)
+![batch data processing reference architecture](../../media/Pasted%20image%2020230326214900.jpg)
 
 - [Streaming ingest and stream processing](https://docs.aws.amazon.com/wellarchitected/latest/analytics-lens/streaming-ingest-and-stream-processing.html)
 
-![streaming ingest reference architecture](../../media/Pasted%20image%2020230326220025.png)
+![streaming ingest reference architecture](../../media/Pasted%20image%2020230326220025.jpg)
 
 - [Operational analytics](https://docs.aws.amazon.com/wellarchitected/latest/analytics-lens/operational-analytics.html)
 
-![operation analytics reference architecture](../../media/Pasted%20image%2020230326221139.png)
+![operation analytics reference architecture](../../media/Pasted%20image%2020230326221139.jpg)
 
 - [Data visualization](https://docs.aws.amazon.com/wellarchitected/latest/analytics-lens/data-visualization.html)
 
-![data visualization reference architecture](../../media/Pasted%20image%2020230326221220.png)
+![data visualization reference architecture](../../media/Pasted%20image%2020230326221220.jpg)
 
 [Data Analytics Lens - Data Analytics Lens](https://docs.aws.amazon.com/wellarchitected/latest/analytics-lens/analytics-lens.html)
 

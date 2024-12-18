@@ -6,7 +6,7 @@ Blocks are batches of transactions with a hash of the previous block in the chai
 
 To ensure that all participants on the Ethereum network maintain a synchronized state and agree on the precise history of transactions, we batch transactions into blocks. This means dozens (or hundreds) of transactions are committed, agreed on, and synchronized all at once.
 
-![A diagram showing transaction in a block causing state changes](../../media/Pasted%20image%2020230305103925.png)
+![A diagram showing transaction in a block causing state changes](../../media/Pasted%20image%2020230305103925.jpg)
 
 By spacing out commits, we give all network participants enough time to come to consensus: even though transaction requests occur dozens of times per second, blocks are only created and committed on Ethereum once every **twelve seconds**.
 

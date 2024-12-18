@@ -44,7 +44,7 @@ https://docs.aws.amazon.com/elasticloadbalancing/latest/network/introduction.htm
 
 ## AWS Network Architecture
 
-![Typical AWS Network Architecture](../../../media/Pasted%20image%2020240316230001.png)
+![Typical AWS Network Architecture](../../../media/Pasted%20image%2020240316230001.jpg)
 
 - **VPC (Virtual Private Cloud) -** At the heart of AWS's networking services is the Amazon VPC, which allows users to provision a logically isolated section of the AWS Cloud. Within this isolated environment, users can launch AWS resources in a virtual network that they define.
 

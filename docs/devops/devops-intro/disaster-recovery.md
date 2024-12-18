@@ -24,7 +24,7 @@ Disaster recovery in the database world relates to the backups, logs and replica
 - **Mirroring** - maintaining two copies of the same database at different locations. One in offline mode so we know where things are at when we need to use it.
 - **Replication** - the secondary database is online and can be queried. This is not only good for Disaster Recovery but can be useful if you utilise one instance for reporting and one for live queries. If you are using AWS setting this up takes just a few clicks.
 
-![Disaster Recovery](../../media/Pasted%20image%2020240129201820.png)
+![Disaster Recovery](../../media/Pasted%20image%2020240129201820.jpg)
 
 ### 1. Backup and Restore Strategy
 

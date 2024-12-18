@@ -89,7 +89,7 @@ https://trac.ffmpeg.org/wiki/Concatenate
 - HDR - High Dynamic Range
 - SDR - Standard Dynamic Range
 
-![hdr-vs-sdr](../../media/Pasted%20image%2020230718133117.png)
+![hdr-vs-sdr](../../media/Pasted%20image%2020230718133117.jpg)
 
 [Bringing HDR video to Reels - Engineering at Meta](https://engineering.fb.com/2023/07/17/video-engineering/hdr-video-reels-meta/)
 

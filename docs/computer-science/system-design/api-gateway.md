@@ -23,7 +23,7 @@
 15. Rate Limiting
 16. Expose as API service
 
-![api-gateway](../../media/Pasted%20image%2020231224193859.png)
+![api-gateway](../../media/Pasted%20image%2020231224193859.jpg)
 
 ## Using an API gateway has the following benefits
 
@@ -119,8 +119,8 @@ A cloud native solution to streamline API management across **edge**, **middle
 - Error Handling
 - Input Validation
 
-![api-security](../../media/Pasted%20image%2020231230003843.png)
+![api-security](../../media/Pasted%20image%2020231230003843.jpg)
 
-![api-gateway](../../media/Pasted%20image%2020240806193107.png)
+![api-gateway](../../media/Pasted%20image%2020240806193107.jpg)
 
 [API Gateway - ByteByteGo Newsletter](https://blog.bytebytego.com/p/api-gateway)

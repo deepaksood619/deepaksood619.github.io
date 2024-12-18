@@ -190,19 +190,19 @@ The clause "ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW" in the given query
 
 ## SQL Window Functions Cheat Sheet
 
-![window-function-cheatsheet-page-1](../../../media/Screenshot%202023-05-30%20at%2011.57.00%20PM.png)
+![window-function-cheatsheet-page-1](../../../media/Screenshot%202023-05-30%20at%2011.57.00%20PM.jpg)
 
-![window-function-cheatsheet-page-2](../../../media/Screenshot%202023-05-30%20at%2011.57.36%20PM.png)
+![window-function-cheatsheet-page-2](../../../media/Screenshot%202023-05-30%20at%2011.57.36%20PM.jpg)
 
-![window-function-cheatsheet-page-3](../../../media/Screenshot%202023-05-30%20at%2011.58.29%20PM.png)
+![window-function-cheatsheet-page-3](../../../media/Screenshot%202023-05-30%20at%2011.58.29%20PM.jpg)
 
-![window-function-cheatsheet-page-4](../../../media/Screenshot%202023-05-30%20at%2011.58.55%20PM.png)
+![window-function-cheatsheet-page-4](../../../media/Screenshot%202023-05-30%20at%2011.58.55%20PM.jpg)
 
-![window-function-cheatsheet-page-5](../../../media/Screenshot%202023-05-30%20at%2011.59.10%20PM.png)
+![window-function-cheatsheet-page-5](../../../media/Screenshot%202023-05-30%20at%2011.59.10%20PM.jpg)
 
-![window-function-cheatsheet-page-6](../../../media/Screenshot%202023-05-30%20at%2011.59.25%20PM.png)
+![window-function-cheatsheet-page-6](../../../media/Screenshot%202023-05-30%20at%2011.59.25%20PM.jpg)
 
-![window-function-cheatsheet-page-7](../../../media/Screenshot%202023-05-30%20at%2011.59.41%20PM.png)
+![window-function-cheatsheet-page-7](../../../media/Screenshot%202023-05-30%20at%2011.59.41%20PM.jpg)
 
 [SQL Window Functions Cheat Sheet | LearnSQL.com](https://learnsql.com/blog/sql-window-functions-cheat-sheet/)
 

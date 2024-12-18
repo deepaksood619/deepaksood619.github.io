@@ -47,7 +47,7 @@
 
 ### Creating and maintaining product roadmaps
 
-![product-roadmap-example](../../media/Pasted%20image%2020231201183958.png)
+![product-roadmap-example](../../media/Pasted%20image%2020231201183958.jpg)
 
 ## Links
 

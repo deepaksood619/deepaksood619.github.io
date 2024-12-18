@@ -2,7 +2,7 @@
 
 Triple Constraint Triangle (Iron Triangle of Project Management)
 
-![project-constraints](../../media/Pasted%20image%2020231123121945.png)
+![project-constraints](../../media/Pasted%20image%2020231123121945.jpg)
 
 Note that these contraints are interrelated, so a strain on one of the core contraints will affect one or more of the other constraints
 

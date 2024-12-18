@@ -25,7 +25,7 @@ Able to search ~5cr entries in 7 mins of average time with 4-5 where conditions
 6. **Replication** - Create replicas of your primary database on different servers for scaling the reads.
 7. **Sharding** - Split your database tables into smaller pieces and spread them across servers. Used for scaling the writes as well as the reads.
 
-![Database scaling cheatsheet](../../../media/Pasted%20image%2020240529203417.png)
+![Database scaling cheatsheet](../../../media/Pasted%20image%2020240529203417.jpg)
 
 ## Data Partitioning
 

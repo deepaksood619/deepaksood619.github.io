@@ -132,7 +132,7 @@
 | Plus - Tier - 1                                  | 2             |               |
 | Plus - Tier - 2                                  | 1             |               |
 
-![image](../../media/HR-M-Interviews-Resume-Keywords-Pointers-image1.png)
+![image](../../media/HR-M-Interviews-Resume-Keywords-Pointers-image1.jpg)
 
 ## Resume Builders / Helpers
 

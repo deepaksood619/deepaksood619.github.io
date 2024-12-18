@@ -188,4 +188,4 @@ A **Sybil attack** is a type of attack on a computer [network service](https:
 - Physical tampering
 - Electromagnetic interference
 
-![Network Attacks](../../media/Pasted%20image%2020240129232212.png)
+![Network Attacks](../../media/Pasted%20image%2020240129232212.jpg)

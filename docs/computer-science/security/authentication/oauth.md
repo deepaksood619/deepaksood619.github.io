@@ -136,4 +136,4 @@ https://developer.okta.com/docs/concepts/api-access-management
 
 https://www.youtube.com/watch?v=996OiexHze0
 
-![OAuth](../../../media/Pasted%20image%2020240229111711.png)
+![OAuth](../../../media/Pasted%20image%2020240229111711.jpg)

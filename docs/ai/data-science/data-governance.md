@@ -66,9 +66,9 @@ To protect sensitive data, we should grant minimal permissions to the users. Oft
 
 When we develop data products like reports or data feeds, we need to design a process to maintain data quality. Data developers should be granted with necessary permissions during development. After the data is online, they should be revoked from the data access.
 
-![managing sensitive data](../../media/Pasted%20image%2020240228190110.png)
+![managing sensitive data](../../media/Pasted%20image%2020240228190110.jpg)
 
-![Data Governance](../../media/Pasted%20image%2020240213122425.png)
+![Data Governance](../../media/Pasted%20image%2020240213122425.jpg)
 
 ## Links
 

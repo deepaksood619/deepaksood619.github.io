@@ -271,4 +271,4 @@ Here are 30 websites to find remote jobs that pay in USD:
 
 ## Others
 
-![ChatGPT Prompts for Job Hunting](../../media/1723056210575.jpeg)
+![ChatGPT Prompts for Job Hunting](../../media/1723056210575.jpg)

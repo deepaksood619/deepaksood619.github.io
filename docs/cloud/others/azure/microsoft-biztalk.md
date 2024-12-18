@@ -1,6 +1,6 @@
 # Microsoft BizTalk
 
-![Microsoft BizTalk](../../../media/Pasted%20image%2020240622232938.png)
+![Microsoft BizTalk](../../../media/Pasted%20image%2020240622232938.jpg)
 
 - predecessor of logic apps
 - Works on on-prem model

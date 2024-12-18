@@ -45,7 +45,7 @@ https://lotusarise.com/koppen-climate-classification-system-upsc
 1. Ionosphere (lies within the thermosphere)
 5. Exosphere
 
-![layers-of-atmosphere](../../media/Pasted%20image%2020230805120712.png)
+![layers-of-atmosphere](../../media/Pasted%20image%2020230805120712.jpg)
 
 [Earth's Atmosphere: A Multi-layered Cake - Climate Change: Vital Signs of the Planet](https://climate.nasa.gov/news/2919/earths-atmosphere-a-multi-layered-cake/)
 

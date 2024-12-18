@@ -1,6 +1,6 @@
 # SEO Optimizing Techniques
 
-![seo-optimization-techniques](../../media/Pasted%20image%2020241218233629.png)
+![seo-optimization-techniques](../../media/Pasted%20image%2020241218233629.jpg)
 
 ## SEO Concepts
 

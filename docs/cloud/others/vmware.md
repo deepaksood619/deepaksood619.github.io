@@ -12,7 +12,7 @@ Thus, a single VMWare ESXi Server can support multiple Windows VMs or a combinat
 
 Being a Type-1 hypervisor, VMWare ESXi Server runs directly on top of physical infrastructure. Hence the term ‘bare metal’. This characteristic is different from that of a Type-2 hypervisor, which has to be installed on top of an operating system. The following diagram illustrates the difference between the two.
 
-![type-1-vs-type-2-hypervisor](../../media/Pasted%20image%2020231223194557.png)
+![type-1-vs-type-2-hypervisor](../../media/Pasted%20image%2020231223194557.jpg)
 
 ### VMware ESXi Features
 
@@ -69,7 +69,7 @@ VMM provides the execution environment for a virtual machine. This process is al
 
 The CIM system provides an interface for remote applications so that they can access device drivers and underlying hardware resources on the ESXi server in question. Access is provided through a set of APIs. The CIM system consists of an object manager known as a CIM broker and a collection of CIM providers. CIM providers are written by VMware itself as well by hardware vendors who want a way to manage and monitor their manufactured devices.
 
-![vmware-esxi-architecture](../../media/Pasted%20image%2020231223195008.png)
+![vmware-esxi-architecture](../../media/Pasted%20image%2020231223195008.jpg)
 
 [What Is the VMware ESXi Server and Its Role in the VMware Suite?](https://www.parallels.com/blogs/ras/vmware-esxi/)
 

@@ -21,7 +21,7 @@
 
 ## Architectural Patterns
 
-![software-architecture-styles](../../media/Pasted%20image%2020230719181140.png)
+![software-architecture-styles](../../media/Pasted%20image%2020230719181140.jpg)
 
 ## Top 6 Cloud Messaging Patterns
 

@@ -456,4 +456,4 @@ If your business can't run without you - if you can't safely leave your business
 
 Tobacco lobby releasing a study on the health benefits of smoking
 
-![client-meme](../../media/Screenshot_20240106-223754.png)
+![client-meme](../../media/Screenshot_20240106-223754.jpg)

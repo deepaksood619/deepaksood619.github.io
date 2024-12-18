@@ -306,7 +306,7 @@ The five phases of the Design Thinking Process are:
 
 https://www.freecodecamp.org/news/the-design-thinking-process-explained
 
-![visual-hierarchy-size-of-words](../../media/Pasted%20image%2020230726123953.png)
+![visual-hierarchy-size-of-words](../../media/Pasted%20image%2020230726123953.jpg)
 
 ## Tools
 

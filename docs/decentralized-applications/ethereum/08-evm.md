@@ -10,7 +10,7 @@ The analogy of a 'distributed ledger' is often used to describe blockchains like
 
 While Ethereum has its own native cryptocurrency (Ether) that follows almost exactly the same intuitive rules, it also enables a much more powerful function: [smart contracts](https://ethereum.org/en/developers/docs/smart-contracts/). For this more complex feature, a more sophisticated analogy is required. Instead of a distributed ledger, Ethereum is a distributed [state machine](https://wikipedia.org/wiki/Finite-state_machine). Ethereum's state is a large data structure which holds not only all accounts and balances, but a _machine state_, which can change from block to block according to a pre-defined set of rules, and which can execute arbitrary machine code. The specific rules of changing state from block to block are defined by the EVM.
 
-![A diagram showing the make up of the EVM](../../media/Pasted%20image%2020230525235106.png)
+![A diagram showing the make up of the EVM](../../media/Pasted%20image%2020230525235106.jpg)
 
 ## The Ethereum state transition function
 
@@ -42,7 +42,7 @@ Contracts, however, do contain a Merkle Patricia _storage_ trie (as a word-addre
 
 Compiled smart contract bytecode executes as a number of EVM [opcodes](https://ethereum.org/en/developers/docs/evm/opcodes/), which perform standard stack operations like `XOR`, `AND`, `ADD`, `SUB`, etc. The EVM also implements a number of blockchain-specific stack operations, such as `ADDRESS`, `BALANCE`, `BLOCKHASH`, etc.
 
-![A diagram showing where gas is needed for EVM operations](../../media/Pasted%20image%2020230525235227.png)
+![A diagram showing where gas is needed for EVM operations](../../media/Pasted%20image%2020230525235227.jpg)
 
 ## EVM implementations
 
@@ -61,7 +61,7 @@ Over Ethereum's nine year history, the EVM has undergone several revisions, and 
 
 As Ethereum uses EVM(Ethereum Virtual Machine) as a core component of the network, smart contract code written in high-level languages needs to be compiled into EVM bytecode to be run. **EMV Bytecode is an executable code on EVM and Contract ABI is an interface to interact with EVM bytecode.** For example, if you want to call a function in a smart contract with your JavaScript code, ABI plays a role as an intermediary between your JavaScript code and EVM bytecode to interact with each other. Below diagram shows the architecture of Contract ABI, EVM bytecode and outside components(dApp and network). The left side is a process of compiling and the right side is interacting.
 
-![evm-bytecode-with-abi](../../media/Pasted%20image%2020230525235415.png)
+![evm-bytecode-with-abi](../../media/Pasted%20image%2020230525235415.jpg)
 
 **solc** - can be used to generate Contract ABI and EVM bytecode
 

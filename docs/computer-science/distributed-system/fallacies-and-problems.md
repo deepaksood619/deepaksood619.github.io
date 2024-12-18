@@ -34,7 +34,7 @@ https://medium.com/baseds/foraging-for-the-fallacies-of-distributed-computing-pa
 
 ## How do we detect node failures in distributed systems?
 
-![Top 6 Heartbeat Detection Mechanisms](../../media/Pasted%20image%2020240316230514.png)
+![Top 6 Heartbeat Detection Mechanisms](../../media/Pasted%20image%2020240316230514.jpg)
 
 Heartbeat mechanisms are crucial in distributed systems for monitoring the health and status of various components. Here are several types of heartbeat detection mechanisms commonly used in distributed systems:
 

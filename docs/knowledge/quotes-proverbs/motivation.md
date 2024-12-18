@@ -697,7 +697,7 @@ The true mark of a pro - at anything - is that he understands, loves, and is goo
 
 [HOW TO BEGIN by Michael Bungay Stanier | Core Message - YouTube](https://www.youtube.com/watch?v=YCOkYefqoyY)
 
-![Keep Moving](../../media/keep-moving.png)
+![Keep Moving](../../media/keep-moving.jpg)
 
 If you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do you have to keep moving forward. -- Martin Luther King Jr
 

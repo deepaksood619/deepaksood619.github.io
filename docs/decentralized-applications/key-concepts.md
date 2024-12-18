@@ -4,7 +4,7 @@
 
 [The Architecture of a Web 3.0 application](https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application)
 
-![Web3 Architecture](../media/Pasted%20image%2020230316210821.png)
+![Web3 Architecture](../media/Pasted%20image%2020230316210821.jpg)
 
 ## Trapdoor function
 

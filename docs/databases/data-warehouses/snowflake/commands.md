@@ -67,7 +67,7 @@ DROP WAREHOUSE IF EXISTS sf_tuts_wh;
 
 ### Lifecycle Diagram
 
-![snowflake-sql-lifecycle-diagram](../../../media/Pasted%20image%2020231205120527.png)
+![snowflake-sql-lifecycle-diagram](../../../media/Pasted%20image%2020231205120527.jpg)
 
 ## Terraform
 

@@ -10,7 +10,7 @@ The architecture of pre-trained models varies, but they share common traits. The
 
 ## Top Pre-Trained Models for Image Classification
 
-![Overview of architectures until 2018](../../media/Pasted%20image%2020240916193555.png)
+![Overview of architectures until 2018](../../media/Pasted%20image%2020240916193555.jpg)
 
 Several pre-trained models have become standards in image classification due to their performance and reliability. Here are the key models:
 
@@ -124,7 +124,7 @@ YOLO is popular because of its single-stage architecture, real-time performance,
 
 ## Differences
 
-![Differences between different pre-trained models](../../media/Pasted%20image%2020240916184828.png)
+![Differences between different pre-trained models](../../media/Pasted%20image%2020240916184828.jpg)
 
 | Model name                   | Number of parameters (Millions) | ImageNet Top 1 Accuracy | Year |
 | ---------------------------- | ------------------------------- | ----------------------- | ---- |

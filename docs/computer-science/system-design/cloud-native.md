@@ -46,7 +46,7 @@ https://thenewstack.io/primer-distributed-systems-and-cloud-native-computing
 
 ## Architecture
 
-![Cloud Native Reference Architecture](../../media/Pasted%20image%2020240906232317.png)
+![Cloud Native Reference Architecture](../../media/Pasted%20image%2020240906232317.jpg)
 
 [Cloud Native Architecture: Its Benefits and Key Components](https://successive.tech/blog/exploring-cloud-native-architecture-its-benefits-and-key-components/)
 

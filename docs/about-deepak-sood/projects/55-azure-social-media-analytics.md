@@ -8,7 +8,7 @@ To achieve this, building a comprehensive social media monitoring platform is cr
 
 ## Architecture Diagram
 
-![Architecture Diagram](../../media/Pasted%20image%2020240712013958.png)
+![Architecture Diagram](../../media/Pasted%20image%2020240712013958.jpg)
 
 - **Data Ingestion:** The solution facilitates the ingestion of social media data from diverse sources such as Twitter, news feeds, and other APIs, ensuring a continuous flow of relevant data for analysis.
 - **Data Processing:** Once ingested, the data undergoes a series of processing steps facilitated by Azure services such as Azure Storage, Azure Synapse Analytics, Language Service, Translator Service, and Azure Maps. These services work in tandem to cleanse, transform, and enrich the data, ensuring its quality and enhancing its value through language detection, translation, and geographical enrichment.

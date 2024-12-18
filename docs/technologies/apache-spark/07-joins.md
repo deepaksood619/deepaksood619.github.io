@@ -39,7 +39,7 @@ In a Broadcast Join a copy of the small table is sent to all the Executors. Each
 3. The property is configurable and has a max limit of 8GB.
 4. The table is cached on the driver node as well on the executor nodes and if a large table is broadcasted then it will be a network intensive operation leading to performance degradation.
 
-![Broadcast Hash Join Implementation](../../media/Pasted%20image%2020230327110925.png)
+![Broadcast Hash Join Implementation](../../media/Pasted%20image%2020230327110925.jpg)
 
 ## Shuffle Hash Join
 
@@ -52,7 +52,7 @@ Shuffle Hash Join involves a two-phase process, the shuffle and hash join phase.
 
 > **spark.sql.join.preferSortMergeJoin=false (Default value is true)**
 
-![Shuffle Hash Join](../../media/Pasted%20image%2020230327111057.png)
+![Shuffle Hash Join](../../media/Pasted%20image%2020230327111057.jpg)
 
 ## Shuffle Sort Merge Join
 
@@ -63,7 +63,7 @@ Shuffle Sort Merge Join as the name suggest involves a shuffle and sort-merge ph
 3. The join keys need to be sortable.
 4. All join types are supported.
 
-![Shuffle Sort Merge Join](../../media/Pasted%20image%2020230327111131.png)
+![Shuffle Sort Merge Join](../../media/Pasted%20image%2020230327111131.jpg)
 
 ## Cartesian Join
 
@@ -117,7 +117,7 @@ Look at the join hints in the following order:
 - There are multiple ways to fight skewness, one is repartitioning.
 - We can create our own repartitioning key, e.g. using the key salting technique
 
-![spark-join-summary](../../media/Pasted%20image%2020230327110541.png)
+![spark-join-summary](../../media/Pasted%20image%2020230327110541.jpg)
 
 https://towardsdatascience.com/the-art-of-joining-in-spark-dcbd33d693c
 

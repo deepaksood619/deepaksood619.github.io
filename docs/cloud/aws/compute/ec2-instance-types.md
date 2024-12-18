@@ -79,7 +79,7 @@ The "d" in "m5ad" indicates that these instances come with local NVMe SSD storag
 - a - AMD CPUs
 - g - Graviton based processors
 
-![Evolution of AWS General Purpose Instances](../../../media/Pasted%20image%2020240522015248.png)
+![Evolution of AWS General Purpose Instances](../../../media/Pasted%20image%2020240522015248.jpg)
 
 [Amazon EC2 z1d Instances](https://aws.amazon.com/ec2/instance-types/z1d/) - Delivering a sustained all core frequency of up to 4.0 GHz, and a high memory to vCPU ratio - z1d.xlarge (4,32) - $271.56 monthly
 

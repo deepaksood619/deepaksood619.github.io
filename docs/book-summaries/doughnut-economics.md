@@ -79,7 +79,7 @@ Thirdly, Kate describes another common point I've read about when discussing pla
 
 This is a big takeaway for me when presenting complex information. You need to adapt it to your audience. That is pretty straightforward, but my significant takeaway is that I should be sharing more images in my PowerPoint presentations with businesses instead of showing complex formulas to make it clear and memorable to viewers what I am trying to present. I should leave looking at formulas and data points in detail to my team.
 
-![doughnut-economics](../media/Pasted%20image%2020240722181140.png)
+![doughnut-economics](../media/Pasted%20image%2020240722181140.jpg)
 
 [Summary of Kate Raworth's book, “Doughnut Economics"](https://www.linkedin.com/pulse/summary-kate-raworths-book-doughnut-economics-salvatoriello-mba/)
 

@@ -1,6 +1,6 @@
 # Product Manager PM Role
 
-![product-manager-skills](../../media/Pasted%20image%2020240723234521.png)
+![product-manager-skills](../../media/Pasted%20image%2020240723234521.jpg)
 
 ## Role
 

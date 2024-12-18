@@ -39,7 +39,7 @@
 
 Challenging, Specific, Immediate and Approach Goals
 
-![image](../../media/TODO-Goals-image1.png)
+![image](../../media/TODO-Goals-image1.jpg)
 
 Once you've gotten SMART, commit to your goals by writting them down. This gives you accountability, and also makes it more likely that you'll achieve your aims - 42 percent more likely.
 

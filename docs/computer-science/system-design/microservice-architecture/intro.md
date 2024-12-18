@@ -77,7 +77,7 @@ Enables scaling of a specific component of an application rather than scaling th
 8. Design micro frontend
 9. Orchestrating microservices
 
-![Microservice Best Practices](../../../media/Pasted%20image%2020240229111422.png)
+![Microservice Best Practices](../../../media/Pasted%20image%2020240229111422.jpg)
 
 ## Things to keep in mind
 

@@ -71,7 +71,7 @@ The migration from Confluent Kafka and Airflow SaaS to on-prem setups on Linode 
 
 ### Confluent Cloud to Kafka on K8s Migration
 
-![Kafka on Kubernetes](../../media/Pasted%20image%2020240712020317.png)
+![Kafka on Kubernetes](../../media/Pasted%20image%2020240712020317.jpg)
 
 To ensure zero downtime during the migration of a Confluent Cloud Kafka cluster to a Kafka cluster deployed on Kubernetes using Strimzi and Kafka MirrorMaker, here are the steps:
 
@@ -86,7 +86,7 @@ To ensure zero downtime during the migration of a Confluent Cloud Kafka cluster 
 
 ### Astronomer to Airflow on K8s Migration
 
-![Architecture Diagram](../../media/Pasted%20image%2020240712020653.png)
+![Architecture Diagram](../../media/Pasted%20image%2020240712020653.jpg)
 
 To ensure a smooth migration from Astronomer to Airflow on K8s, here are the steps:
 

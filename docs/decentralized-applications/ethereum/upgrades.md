@@ -73,7 +73,7 @@ Ethereum social consensus, _for other purposes_:
 
 ## Future Upgrades
 
-![ethereum-upgrades](../../media/Pasted%20image%2020230913230740.png)
+![ethereum-upgrades](../../media/Pasted%20image%2020230913230740.jpg)
 
 [Ethereum Upgrades | X](https://twitter.com/stacy_muur/status/1699133944803823895)
 

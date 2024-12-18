@@ -4,7 +4,7 @@
 
 [Social media analysis with Azure Stream Analytics - Azure Stream Analytics | Microsoft Learn](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-twitter-sentiment-analysis-trends)
 
-![social media analytics solution architecture](../media/Pasted%20image%2020240227211925.png)
+![social media analytics solution architecture](../media/Pasted%20image%2020240227211925.jpg)
 
 ### Dataflow
 

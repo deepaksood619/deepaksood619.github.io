@@ -17,13 +17,13 @@
 - **Software Developer Good -** https://drive.google.com/drive/folders/1zMuTUjsifK9QVvrwF56oE8EJcgw9YBhJ?usp=sharing
 - **Pradeep Parameswaran**
 
-![image](../../media/Personality-Profiles-image1.png)
+![image](../../media/Personality-Profiles-image1.jpg)
 
-![image](../../media/Personality-Profiles-image2.jpeg)
+![image](../../media/Personality-Profiles-image2.jpg)
 
-![image](../../media/Personality-Profiles-image3.jpeg)
+![image](../../media/Personality-Profiles-image3.jpg)
 
-![image](../../media/Personality-Profiles-image4.png)
+![image](../../media/Personality-Profiles-image4.jpg)
 
 ![image](../../media/Personality-Profiles-image5.jpg)
 

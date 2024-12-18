@@ -25,7 +25,7 @@ Book - What has religion done for mankind?
 
 [What is the history of burqas when Muslim women first used it, and why? - Quora](https://www.quora.com/What-is-the-history-of-burqas-when-Muslim-women-first-used-it-and-why)
 
-![veil](../../media/Pasted%20image%2020240819131213.png)
+![veil](../../media/Pasted%20image%2020240819131213.jpg)
 
 - People, male and female, should be able to wear whatever they like whenever they like, with the exception of when security requires that a persons face be visible for the safety of the general population.
 

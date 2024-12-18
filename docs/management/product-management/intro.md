@@ -103,9 +103,9 @@ https://basecamp.com/shapeup
 
 ![image](../../media/Product-Management-image5.jpg)
 
-![image](../../media/Screenshot%202023-03-14%20at%204.26.52%20PM.png)
+![image](../../media/Screenshot%202023-03-14%20at%204.26.52%20PM.jpg)
 
-![mvp-image](../../media/Screenshot%202023-03-14%20at%204.26.26%20PM.png)
+![mvp-image](../../media/Screenshot%202023-03-14%20at%204.26.26%20PM.jpg)
 
 ## 1% Problem
 

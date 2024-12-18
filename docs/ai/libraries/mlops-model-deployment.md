@@ -18,7 +18,7 @@ The model is deployed to an online prediction service cluster (generally contain
 
 DataOps is an approach to data analytics and data-driven decision making that follows the agile development methodology of continuous improvement. The goal of DataOps is to reduce the cost of data management, improve data quality, and deliver insights to analysts and business users faster by creating datapipelines.
 
-![DataOps](../../media/Pasted%20image%2020240906232222.png)
+![DataOps](../../media/Pasted%20image%2020240906232222.jpg)
 
 [DataOps vs. DevOps: What's the Difference?](https://blog.hubspot.com/website/dataops-vs-devops)
 
@@ -77,7 +77,7 @@ To note a few features:
 
 ### ONNX (Open Neural Network Exchange)
 
-![ONNX](../../media/Pasted%20image%2020240719194528.png)
+![ONNX](../../media/Pasted%20image%2020240719194528.jpg)
 
 [ONNX](http://onnx.ai/) (Open Neural Network Exchange), an open-source format for representing deep learning models, was developed by Microsoft and is now managed by the Linux Foundation. It addresses the challenge of model packaging by providing a standardized format that enables easy transfer of machine learning models between different deep learning frameworks.
 

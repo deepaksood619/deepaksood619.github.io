@@ -12,7 +12,7 @@ Introduction to Kong as an API gateway, key features, and benefits.
 
 Presentation - [Kong in Action: Simplifying API Management for modern Application](https://docs.google.com/presentation/d/1jOlgLiX3Bgu2daL7j8qPuuK4F8I8IOjplomguL0DQwU/edit?usp=sharing)
 
-![Simplifying API Management for modern Application - Kong](../media/Pasted%20image%2020241206150616.png)
+![Simplifying API Management for modern Application - Kong](../media/Pasted%20image%2020241206150616.jpg)
 
 Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of experience in designing, deploying, and optimizing scalable tech infrastructures. Specializing in DevOps, he has deep expertise in CI/CD pipelines, Kubernetes orchestration, and cloud platforms like AWS and Azure. His work includes automating deployments, implementing microservices, and ensuring infrastructure reliability through tools like Prometheus, Grafana, and Elasticsearch.
 
@@ -51,7 +51,7 @@ Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of expe
 - bit.ly/unsaid-session-14
 - [Session 2- Resource & Tasks - Cracking SDE - Big Tech](https://docs.google.com/document/d/1zL0WGVSkMjSDETfca43GTMCzJVmP40AlewAroIkpx7U/edit?usp=sharing)
 
-![Data Structures for Interview - UnsaidTalks](../media/WhatsApp%20Image%202024-11-30%20at%2009.18.59.jpeg)
+![Data Structures for Interview - UnsaidTalks](../media/WhatsApp%20Image%202024-11-30%20at%2009.18.59.jpg)
 
 ### Meetup Talk - Real-Time Data Warehousing Solution with AWS and Confluent Cloud - OpsTree Solutions (23 November 2024)
 
@@ -137,7 +137,7 @@ Proportion of students - 1st year + 2nd year (70%), 3rd + 4th year (30%)
 
 ![NIT Delhi - GenAI for Freshers](../media/Screenshot%202024-09-15%20at%2010.08.49%20PM.jpg)
 
-![NIT Delhi - GenAI for Freshers](../media/1726397196299.jpeg)
+![NIT Delhi - GenAI for Freshers](../media/1726397196299.jpg)
 
 [Deepak Sood on LinkedIn: #genai #techforfreshers #aiinnovation #careermoves #nitdelhi](https://www.linkedin.com/posts/deepaksood619_genai-aiinnovation-nitdelhi-activity-7241120393694994433-jsdz?utm_source=share&utm_medium=member_desktop)
 
@@ -177,7 +177,7 @@ Slides - [From Zero to Hero: Mastering GenAI in a Flash](https://docs.google.com
 
 "From Zero to Hero: Mastering GenAI in a Flash" is your one-stop session to dive deep into the world of Generative AI. We'll start by exploring **what GenAI is**, the **problems it solves**, and **where it all began**—taking you through its evolution. Then, we’ll glimpse into the **future of GenAI** and what’s on the horizon. In the technical deep dive, we’ll cover **prompt engineering**, the power of **LLMs (Large Language Models)**, the magic of **embeddings**, and how to supercharge your AI with **RAGs (Retrieval-Augmented Generation)**. It’s everything you need to go from zero to hero in GenAI!
 
-![From Zero to Hero: Mastering GenAI in a Flash](../media/Pasted%20image%2020240831144403.png)
+![From Zero to Hero: Mastering GenAI in a Flash](../media/Pasted%20image%2020240831144403.jpg)
 
 [Deepak Sood on LinkedIn: #genai #aiworkshop #futuretalent #innovation #hackathon #srmist…](https://www.linkedin.com/posts/deepaksood619_genai-aiworkshop-futuretalent-activity-7237536731544051712-QH0m)
 
@@ -241,7 +241,7 @@ Presentation - [Introduction to GenAI](https://docs.google.com/presentation/d/10
 
 Post - [Deepak Sood on LinkedIn: #genai #rag #artificialintelligence #datascience #aiinnovation…](https://www.linkedin.com/posts/deepaksood619_genai-rag-artificialintelligence-activity-7230291496627789825-T9hR)
 
-![Expert Speak - Empowering Gen AI with RAG](../media/WhatsApp%20Image%202024-08-10%20at%2016.09.32.jpeg)
+![Expert Speak - Empowering Gen AI with RAG](../media/WhatsApp%20Image%202024-08-10%20at%2016.09.32.jpg)
 
 ### Talk at Meetup Zero - GenAI Edition (3 August 2024)
 
@@ -256,9 +256,9 @@ Topic: Empowering GenAI with RAG (Retrieval-Augmented Generation)
 - How RAG is transforming industries by enhancing the capabilities of AI models.
 - Insights into implementing RAG to empower your AI solutions.
 
-![Meet Up Zero - Empowering GenAI with RAG](../media/Pasted%20image%2020240810153313.png)
+![Meet Up Zero - Empowering GenAI with RAG](../media/Pasted%20image%2020240810153313.jpg)
 
-![Empowering GenAI with RAG](../media/Pasted%20image%2020240810155153.png)
+![Empowering GenAI with RAG](../media/Pasted%20image%2020240810155153.jpg)
 
 [TensorFlow User Group Ghaziabad (TFUG Ghaziabad) on LinkedIn: #tfug #tfugghaziabad #tensorflow #genai #newevent #event #developers #gde…](https://www.linkedin.com/posts/tensorflow-user-group-ghaziabad_tfug-tfugghaziabad-tensorflow-activity-7223731628953460737-v3xA?utm_source=share&utm_medium=member_desktop)
 

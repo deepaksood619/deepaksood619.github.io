@@ -6,7 +6,7 @@ Apache Hudi ingests & manages storage of large analytical datasets over DFS (hdf
 
 Apache Hudi is a transactional data lake platform that brings database and data warehouse capabilities to the data lake. Hudi reimagines slow old-school batch data processing with a powerful new incremental processing framework for low latency minute-level analytics.
 
-![Apache Hudi](../../media/Pasted%20image%2020240801225724.png)
+![Apache Hudi](../../media/Pasted%20image%2020240801225724.jpg)
 
 ## Hudi Features
 

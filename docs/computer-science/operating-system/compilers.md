@@ -25,7 +25,7 @@ Using 4 compilers of different languages and sources to check each other's work
 
 [Compiled vs Interpreted Programming Languages - C++, Rust, Go, Haskell, C#, Java, Python, Javascript - YouTube](https://www.youtube.com/watch?v=y6VvxGHCxa4&ab_channel=Finematics)
 
-![Compiled vs Interpreted Language Difference](../../media/Pasted%20image%2020240229112128.png)
+![Compiled vs Interpreted Language Difference](../../media/Pasted%20image%2020240229112128.jpg)
 
 ## Compiler
 

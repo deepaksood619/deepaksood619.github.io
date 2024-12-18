@@ -4,7 +4,7 @@
 
 [NBFC / Banking Terms](economics/fintech-nbfc-banking-terms.md)
 
-![stashfin-product-architecture](../../media/Pasted%20image%2020231201172554.png)
+![stashfin-product-architecture](../../media/Pasted%20image%2020231201172554.jpg)
 
 ## Processes
 

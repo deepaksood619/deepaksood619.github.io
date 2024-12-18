@@ -4,7 +4,7 @@
 - **URI - Uniform Resource Indicator**
 - **URN - Uniform Resource Name**
 
-![URL vs URI vs URN](../../media/Pasted%20image%2020240219161536.png)
+![URL vs URI vs URN](../../media/Pasted%20image%2020240219161536.jpg)
 
 Standing for Hypertext Transfer Protocol, HTTP is an application layer protocol that enables communication between two entities in a network.
 
@@ -75,7 +75,7 @@ Introduced the concept of HTTP "streams": an abstraction that allows HTTP implem
 
 Of course, despite these features, HTTP2 can also be slow depending on the exact technical scenario. Therefore, developers need to test and optimize things to maximize the benefits of HTTP2.
 
-![Why HTTP2 is faster than HTTP1](../../media/Pasted%20image%2020240620022659.png)
+![Why HTTP2 is faster than HTTP1](../../media/Pasted%20image%2020240620022659.jpg)
 
 ## Ports
 

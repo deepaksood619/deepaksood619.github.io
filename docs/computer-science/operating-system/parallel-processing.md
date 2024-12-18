@@ -22,7 +22,7 @@ https://en.wikipedia.org/wiki/Message_Passing_Interface
 
 ## Concurrency vs Parallelism
 
-![Concurrency vs Parallelism](../../media/Pasted%20image%2020240607132644.png)
+![Concurrency vs Parallelism](../../media/Pasted%20image%2020240607132644.jpg)
 
 ## Embarrassingly Parallel
 

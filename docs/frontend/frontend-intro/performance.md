@@ -41,4 +41,4 @@
 7. **Pre-fetching** - Proactively fetch or cache resources that are likely to be needed soon.
 8. **Dynamic Imports** - Load code modules dynamically based on user actions to optimize the initial loading times.
 
-![Frontend Performance Cheatsheet](../../media/Pasted%20image%2020240605180411.png)
+![Frontend Performance Cheatsheet](../../media/Pasted%20image%2020240605180411.jpg)

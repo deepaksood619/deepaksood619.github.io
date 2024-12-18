@@ -12,7 +12,7 @@
 
 ## Architecture
 
-![emerging-llm-app-stack](../../media/Pasted%20image%2020230827130415.png)
+![emerging-llm-app-stack](../../media/Pasted%20image%2020230827130415.jpg)
 
 [Emerging Architectures for LLM Applications | Andreessen Horowitz](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
 
@@ -23,7 +23,7 @@
 - Self attention
 - GPT3 - 45tb of text data
 
-![chat-gpt-working](../../media/Pasted%20image%2020240123172317.png)
+![chat-gpt-working](../../media/Pasted%20image%2020240123172317.jpg)
 
 [Let’s Architect! Discovering Generative AI on AWS | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/lets-architect-generative-ai/)
 

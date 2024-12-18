@@ -4,7 +4,7 @@
 
 [Word](https://www.elastic.co/what-is/word-embedding) and sentence embeddings are two of the most common subtypes of vector embeddings, but there are others. Some vector embeddings can represent entire documents, as well as image vectors designed to match up visual content, user profile vectors to determine a user’s preferences, product vectors that help identify similar products and many others. Vector embeddings help [machine learning](https://www.elastic.co/what-is/machine-learning) algorithms find patterns in data and perform tasks such as [sentiment analysis](https://www.elastic.co/what-is/sentiment-analysis), language translation, recommendation systems, and many more.
 
-![vector-embeddings](../../media/Pasted%20image%2020231216192551.png)
+![vector-embeddings](../../media/Pasted%20image%2020231216192551.jpg)
 
 ### Types of vector embeddings
 

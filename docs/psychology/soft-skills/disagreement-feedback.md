@@ -2,7 +2,7 @@
 
 ## Giving Feedback
 
-![How to give feedback](../../media/Screenshot%202023-03-17%20at%203.16.48%20PM.png)
+![How to give feedback](../../media/Screenshot%202023-03-17%20at%203.16.48%20PM.jpg)
 
 ## Why are we Yelling?: The Art of Productive Disagreement by Buster Benson
 
@@ -80,7 +80,7 @@ Remember, feedback is not a one-size-fits-all approach. Trust your own judgement
 
 ### How to Argue / Argument / Refute
 
-![hierarchy-of-disagreement](../../media/Pasted%20image%2020230628225903.png)
+![hierarchy-of-disagreement](../../media/Pasted%20image%2020230628225903.jpg)
 
 What is your sample size?
 

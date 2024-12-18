@@ -35,4 +35,4 @@
 7. **SMTP (Simple Mail Transfer Protocol)** - SMTP is a standard protocol to transfer electronic mail from one user to another.
 8. **FTP (File Transfer Protocol)** - FTP is used to transfer computer files between client and server. It has separate connections for the control channel and data channel.
 
-![Popular Network Protocols](../../media/Pasted%20image%2020240626162238.png)
+![Popular Network Protocols](../../media/Pasted%20image%2020240626162238.jpg)

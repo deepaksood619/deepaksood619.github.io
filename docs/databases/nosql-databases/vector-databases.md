@@ -29,4 +29,4 @@ Vector databases are designed to handle critical query and algorithmic styles se
 - [Key considerations when choosing a database for your generative AI applications | AWS Database Blog](https://aws.amazon.com/blogs/database/key-considerations-when-choosing-a-database-for-your-generative-ai-applications/)
 - [InterviewReady | System Design Course | Gaurav Sen](https://interviewready.io/blog/vector-db-vs-relational-db)
 
-![Vector Databases](../../media/Pasted%20image%2020240405112318.png)
+![Vector Databases](../../media/Pasted%20image%2020240405112318.jpg)

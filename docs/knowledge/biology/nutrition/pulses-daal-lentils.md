@@ -33,7 +33,7 @@ Mix a handful of sprouted Saabut moong daal in a bowl of yogurt, season with sal
 
 ## Hari split moong daal / green split moong daal / moong daal chilka
 
-![hari moong daal](../../../media/Pasted%20image%2020240226114404.png)
+![hari moong daal](../../../media/Pasted%20image%2020240226114404.jpg)
 
 ### Saabut vs Hari moong daal
 
@@ -98,11 +98,11 @@ Skinless Urad does not need soaking before it is cooked. It is often ground into
 
 - Soak for 5 hours
 
-![moth dal](../../../media/Pasted%20image%2020240227082926.png)
+![moth dal](../../../media/Pasted%20image%2020240227082926.jpg)
 
 ## Kulthi Dal (Horse Gram)
 
-![kulthi dal](../../../media/Pasted%20image%2020240227083043.png)
+![kulthi dal](../../../media/Pasted%20image%2020240227083043.jpg)
 
 ## Kabuli chana
 

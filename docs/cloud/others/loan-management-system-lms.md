@@ -5,7 +5,7 @@
 - Security pledging and unpledging
 - Loan interest accrual
 
-![Loan Management System](../../media/Pasted%20image%2020240911234136.png)
+![Loan Management System](../../media/Pasted%20image%2020240911234136.jpg)
 
 ## Links
 

@@ -9,7 +9,7 @@ Kafka relies heavily on the OS kernel to move data around quickly. It relies on 
 
 Zero-copy means that Kafka sends messages from the file (or more likely, the Linux filesystem cache) directly to the network channel without any intermediate buffers.
 
-![Why is Kafka Fast](../../media/Pasted%20image%2020240213012230.png)
+![Why is Kafka Fast](../../media/Pasted%20image%2020240213012230.jpg)
 
 [ByteByteGo - YouTube](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxKPCx8UjOik2iB9rKHDWqgzv_y59aCrDW)
 

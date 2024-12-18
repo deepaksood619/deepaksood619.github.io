@@ -127,7 +127,7 @@ All Accounts
 
 ## Cheatsheet
 
-![cheatsheet-finance](../../media/Pasted%20image%2020230626095710.png)
+![cheatsheet-finance](../../media/Pasted%20image%2020230626095710.jpg)
 
 #### cashflow
 

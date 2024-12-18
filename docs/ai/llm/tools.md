@@ -44,7 +44,7 @@
 
 ## [Midjourney](https://www.midjourney.com/)
 
-![midjourney-cheatsheet](../../media/Screenshot%202023-05-26%20at%201.56.33%20PM.png)
+![midjourney-cheatsheet](../../media/Screenshot%202023-05-26%20at%201.56.33%20PM.jpg)
 
 - [Civitai: The Home of Open-Source Generative AI](https://civitai.com/)
 
@@ -108,7 +108,7 @@
 	- Clone yourself with AI using your content. Coach and mentor your audience 24/7 with an AI digital version of yourself, offering expert advice and insights.
 - [Study.lol/](http://study.lol/) - Youtube.com summarizer
 
-![ai-tools](../../media/image.png)
+![ai-tools](../../media/image.jpg)
 
 ## Purpose-built accelerators for generative AI
 

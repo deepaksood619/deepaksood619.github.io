@@ -9,7 +9,7 @@ Always don't say yes to any offer at that time, always sleep over it
 3. Clear and organized thinking
 4. Drive Discussions (80-20 rule, You must talk 80% of the time and interviewer 20%)
 
-![image](../../media/Personality-Questions-to-company-image1.png)
+![image](../../media/Personality-Questions-to-company-image1.jpg)
 
 https://www.lennysnewsletter.com/p/negotiating-comp
 

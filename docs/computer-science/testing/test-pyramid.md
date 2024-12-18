@@ -140,4 +140,4 @@ https://www.freecodecamp.org/news/types-of-software-testing
 4. Load Testing: Tests a system's ability to handle high workloads and identifies performance issues.
 5. Error Testing: Evaluates how the software handles invalid inputs and error conditions. 6. Test Automation: Automates test case execution for efficiency, repeatability, and error reduction.
 
-![testing](../../media/Pasted%20image%2020231231105537.png)
+![testing](../../media/Pasted%20image%2020231231105537.jpg)

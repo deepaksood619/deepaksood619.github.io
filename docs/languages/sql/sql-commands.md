@@ -8,7 +8,7 @@
 4. DCL - data control language, such as GRANT, REVOKE
 5. TCL - transaction control language, such as COMMIT, ROLLBACK
 
-![SQL Commands](../../media/Pasted%20image%2020240601092219.png)
+![SQL Commands](../../media/Pasted%20image%2020240601092219.jpg)
 
 ![image](../../media/SQL-Commands-image1.jpg)
 
