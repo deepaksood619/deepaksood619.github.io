@@ -108,8 +108,13 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/deepaksood619/deepaksood619.github.io',
+            href: 'https://github.com/deepaksood619',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            href: 'https://www.linkedin.com/in/deepaksood619/',
+            label: 'LinkedIn',
             position: 'right',
           },
         ],

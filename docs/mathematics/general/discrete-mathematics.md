@@ -12,11 +12,11 @@ A recurrence relation is an equation that recursively defines a sequence where t
 
 Example − `Fibonacci series − Fn = Fn−1 + Fn−2 Fn = Fn−1 + Fn−2, Tower of Hanoi − Fn = 2 Fn − 1 + 1`
 
-1. **Linear Recurrence Relations**
+### 1. **Linear Recurrence Relations**
 
 A linear recurrence equation of degree k or order k is a recurrence equation which is in the formatxn=A1xn−1+A2xn−1+A3xn−1+...Akxn−k (Anis a constant andAk≠0) on a sequence of numbers as a first-degree polynomial.
 
-2. **Non-Homogeneous Recurrence Relation**
+### 2. **Non-Homogeneous Recurrence Relation**
 
 A recurrence relation is called non-homogeneous if it is in the form
 

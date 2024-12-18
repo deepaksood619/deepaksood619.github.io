@@ -36,7 +36,7 @@ Devtron is designed to be modular, and its functionality can be easily extended 
 
 #### Architecture
 
-![](https://github.com/devtron-labs/devtron/raw/main/assets/Architecture.jpg)
+![image](https://github.com/devtron-labs/devtron/raw/main/assets/Architecture.jpg)
 
 [Devtron | A Software Platform for Kubernetes Application Management](https://devtron.ai/)
 

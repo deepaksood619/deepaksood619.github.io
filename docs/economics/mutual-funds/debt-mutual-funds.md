@@ -126,6 +126,7 @@ https://freefincal.com/why-i-partially-switched-from-icici-multi-asset-fund-to-i
 | ----------------------------------------------------------------------------------------------- | ----------------------------------- | --------------- |
 | Equities & Equity related instruments                                                           | 0-100                               | Very High       |
 | Debt securities & Money Market instruments including Units of Debt oriented mutual fund schemes | 0-100                               | Low to Moderate |
+
 The fund will predominantly invest in debt instruments and endeavour to maintain equity allocation between 35% and 65% (some of it will be hedged via approved derivative instruments as permitted by SEBI from time to time)
 
 It is a credible and tax-efficient* alternative to certain fixed income instruments (like bank fixed deposits), offering the scope to earn income along with the prospect of growth in Net Asset Value (NAV) when held for a reasonably long period.

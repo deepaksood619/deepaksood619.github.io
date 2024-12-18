@@ -40,7 +40,7 @@ Uber's real-time data infrastructure is powered by a combination of advanced ope
 
 The diagram below shows the overall landscape.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e74a5c9-a041-4657-a3e4-39017b238e76_1600x1017.png)
+![image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e74a5c9-a041-4657-a3e4-39017b238e76_1600x1017.png)
 
 Let’s take a closer look at the key technologies Uber relies on, how they work, and the unique tweaks that make them fit Uber's requirements.
 
@@ -50,7 +50,7 @@ Kafka is the backbone of Uber’s data streaming.
 
 It handles trillions of messages and petabytes of data daily, helping to transport information from user apps (like driver and rider apps) and microservices. Kafka’s key role is to move this streaming data to batch and real-time systems.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35bab385-a2ed-4c4f-958d-66e20e5d269b_1600x813.png)
+![image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35bab385-a2ed-4c4f-958d-66e20e5d269b_1600x813.png)
 
 At Uber, Kafka was heavily customized to meet its large-scale needs. Some of the key features are as follows:
 
@@ -75,7 +75,7 @@ By implementing these changes, Uber has made Flink more reliable and easier to u
 
 See the diagram below that shows the Unified Flink Architecture at Uber.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9e8a845-940c-468d-a19c-f39f1a8cc4b4_1600x1017.png)
+![image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9e8a845-940c-468d-a19c-f39f1a8cc4b4_1600x1017.png)
 
 ### Apache Pinot for Real-Time OLAP
 
@@ -167,7 +167,7 @@ For example, surge pricing calculations, which depend on real-time supply and de
 
 See the diagram below:
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F00f0c703-4ef5-4a6e-bc5e-82c3a6c86db6_1600x1141.png)
+![image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F00f0c703-4ef5-4a6e-bc5e-82c3a6c86db6_1600x1141.png)
 
 This setup requires careful synchronization of data between regions. Uber uses uReplicator, a tool they developed to replicate Kafka messages across clusters, ensuring the system remains redundant and reliable. Even if one region goes down, the data is preserved and can be quickly restored in the backup region, minimizing disruption to the service.
 
@@ -181,7 +181,7 @@ If the primary region fails, the system fails over to a backup (passive) region,
 
 See the diagram below that shows the Active-Passive setup.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8bd81bc0-b086-4fa9-bde0-b16c1fe32634_1600x961.png)
+![image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8bd81bc0-b086-4fa9-bde0-b16c1fe32634_1600x961.png)
 
 The key challenge in Active-Passive setups is offset synchronization—ensuring that the consumer in the backup region starts processing from the same point as the primary region.
 

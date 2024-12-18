@@ -144,7 +144,7 @@ The key distinction lies in their approaches: LangChain prioritizes customizatio
 
 No matter what AI framework you pick, I always recommend using a robust data platform like SingleStore that supports not just vector storage but also hybrid search, low latency, fast data ingestion, all data types, AI frameworks integration, and much more.
 
-![](../../media/Pasted%20image%2020241118181518.jpg)
+![image](../../media/Pasted%20image%2020241118181518.jpg)
 
 [A Beginner’s Guide to Building LLM-Powered Applications with LangChain! - DEV Community](https://dev.to/pavanbelagatti/a-beginners-guide-to-building-llm-powered-applications-with-langchain-2d6e)
 

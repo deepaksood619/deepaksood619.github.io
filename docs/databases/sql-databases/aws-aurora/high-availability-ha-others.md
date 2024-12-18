@@ -43,7 +43,7 @@ MySQL NDB Cluster also protects against the estimated 30% of downtime resulting 
 
 ### Master with Active Master (Circular Replication)
 
-![](https://severalnines.com/wp-content/uploads/2022/05/05-mysql-rep-wp.jpeg)
+![image](https://severalnines.com/wp-content/uploads/2022/05/05-mysql-rep-wp.jpeg)
 
 Also known as ring topology, this setup requires two or more MySQL servers which act as master. All masters receive writes and generate binlogs with a few caveats:
 
