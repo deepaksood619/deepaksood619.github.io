@@ -139,3 +139,7 @@ Social Stock Exchange is a new segment on stock exchanges meant to enable invest
 https://zerodha.com/varsity
 
 https://risk.learnapp.co/quiz
+
+[Introducing Margin Trading Facility (MTF) on Kite – Z-Connect by Zerodha](https://zerodha.com/z-connect/featured/introducing-margin-trade-funding-mtf-on-kite)
+
+- [Understanding Margin Trading Facility (MTF) at Zerodha: A Complete Guide - YouTube](https://www.youtube.com/watch?v=AYDD5b14IUY)

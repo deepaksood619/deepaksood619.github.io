@@ -15,6 +15,8 @@ Generate a LinkedIn post related to # Topic. Generate 3 paragraphs with max 3 se
 
 Generate a LinkedIn post discussing # Your Chosen Topic. Share my insights, experiences, or opinions in a concise and engaging manner. Encourage my network to join the conversation by commenting with their thoughts or experiences. Use relevant hashtags to increase visibility. # LinkedIn # # Additional Hashtags
 
+[LinkedIn Text Formatter • Grow Your Personal Brand On LinkedIn](https://taplio.com/linkedin-post-formatter)
+
 ### ChatGPT prompt to write error free
 
 `{paste your writing}`

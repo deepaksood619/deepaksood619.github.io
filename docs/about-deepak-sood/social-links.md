@@ -67,3 +67,7 @@
     - 10FastFingers - https://10fastfingers.com/user/1090885
 - Regex Crossword - https://regexcrossword.com/players/38485
 - YourStory - https://yourstory.com/people/deepak-sood
+
+## Posts
+
+- [Deepak Sood on LinkedIn: #ai #data #devops #leadership #learning #growth #thankful #opstree…](https://www.linkedin.com/posts/deepaksood619_ai-data-devops-activity-7275592636168597509-nfyQ?utm_source=share&utm_medium=member_desktop)

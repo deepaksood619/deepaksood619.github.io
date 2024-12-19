@@ -50,7 +50,7 @@ aws s3 presign s3://bigbet90/index.html --expires-in 90 # in seconds max 36 hour
 aws s3 cp aws.jpg s3://bigbet90 --region us-west-2 --endpoint-url https://bigbet90.s3-accelerate.amazonaws.com
 ```
 
-## Download folder / bucket from s3
+## Download / Upload folder / bucket from s3
 
 ```bash
 aws s3 sync
