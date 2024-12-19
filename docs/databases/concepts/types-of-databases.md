@@ -87,7 +87,7 @@ https://rethinkdb.com
 - [Hadoop (Spark)](https://tinkerpop.apache.org/docs/current/reference/#sparkgraphcomputer)- OLAP graph processor using Spark.
 - [HGraphDB](https://github.com/rayokota/hgraphdb)- OLTP graph database running on Apache HBase.
 - [Huawei Graph Engine Service](https://www.huaweicloud.com/en-us/product/ges.html)- Fully-managed, distributed, at-scale graph query and analysis service that provides a visualized interactive analytics platform.
-- [IBM Graph](https://console.ng.bluemix.net/catalog/services/ibm-graph/)- OLTP graph database as a service.
+- IBM Graph- OLTP graph database as a service.
 - [JanusGraph](http://janusgraph.org/)- Distributed OLTP and OLAP graph database with BerkeleyDB, Apache Cassandra and Apache HBase support.
 - [JanusGraph (Amazon)](https://github.com/awslabs/dynamodb-janusgraph-storage-backend/)- The Amazon DynamoDB Storage Backend for JanusGraph.
 	- https://medium.com/terminusdb/graph-fundamentals-part-1-rdf-60dcf8d0c459
@@ -97,7 +97,7 @@ https://rethinkdb.com
 - [Sqlg](https://github.com/pietermartin/sqlg)- OLTP implementation on SQL databases.
 - [Stardog](https://stardog.com/)- RDF graph database with OLTP and OLAP support.
 - [TinkerGraph](https://tinkerpop.apache.org/docs/current/reference/#tinkergraph-gremlin)- In-memory OLTP and OLAP reference implementation.
-- [Titan](https://thinkaurelius.github.io/titan/)- Distributed OLTP and OLAP graph database with BerkeleyDB, Apache Cassandra and Apache HBase support.
+- Titan - Distributed OLTP and OLAP graph database with BerkeleyDB, Apache Cassandra and Apache HBase support.
 - [Titan (Amazon)](https://github.com/awslabs/dynamodb-titan-storage-backend)- The Amazon DynamoDB storage backend for Titan.
 - [Titan (Tupl)](https://github.com/classmethod/tupl-titan-storage-backend)- The Tupl storage backend for Titan.
 - [Unipop](https://github.com/rmagen/unipop)- OLTP Elasticsearch and JDBC backed graph.
@@ -193,7 +193,7 @@ Semantic RDF graph databases are databases that map objects using the Resource D
 
 ## Embedded databases
 
-https://jsondb.io
+https://github.com/Jsondb/jsondb-core
 
 ## Resources
 

@@ -125,13 +125,13 @@ Extensions that helps make obsidian better
 
 ## LYT - Linking Your Thinking
 
-- https://obsidian
+- obsidian
 - [My 2020 Comprehensive Obsidian Workflow For Zettelkasten and Evergreen Notes](https://www.youtube.com/watch?v=Ewhfok91AdE)
 - [Obsidian Plugins (0.9.10) - My top plugins in the Obsidian app](https://www.youtube.com/watch?v=X61wRmfZU8Y)
 - https://github.com/obsidianmd
 - https://github.com/ransurf/obsidian-resources
-- https://forum.obsidian/t/example-workflows-in-obsidian/1093
-- https://forum.obsidian/t/plugin-for-flashcards-note-level-spaced-repetition-all-inside-obsidian/16498
+- https://forum.obsidian.md/t/example-workflows-in-obsidian/1093
+- https://forum.obsidian.md/t/plugin-for-flashcards-note-level-spaced-repetition-all-inside-obsidian/16498
 - https://github.com/st3v3nmw/obsidian-spaced-repetition
 - https://github.com/theohbrothers/ConvertOneNote2MarkDown
 - https://www.linkingyourthinking.com/lyt-kit-v5-overview
@@ -155,28 +155,27 @@ Extensions that helps make obsidian better
     - https://demo-gatsby-starter-primer-wiki.owenyoung.com
     - https://demo-obsidian.owenyoung.com/
 - https://github.com/flowershow/flowershow - 156
-- https://forum.obsidian/t/obsidian-mkdocs-a-free-publish-alternative-workflow/29540
-- https://forum.obsidian/t/pubsidian-free-and-elegant-obsidian-publish-alternative/21825
+- https://forum.obsidian.md/t/obsidian-mkdocs-a-free-publish-alternative-workflow/29540
+- https://forum.obsidian.md/t/pubsidian-free-and-elegant-obsidian-publish-alternative/21825
 - [GitHub - nikitavoloboev/knowledge: Everything I know](https://github.com/nikitavoloboev/knowledge)
 
 ## Publish / Examples / Showcases / Codex
 
 - [Second Brain Showcases Awesome](https://github.com/KasperZutterman/Second-Brain)
-- https://publish.obsidian/chromatically/publish+homepage
-- https://notes.nitinpai.in/Start+Here
-- https://publish.obsidian/alexisrondeau/Welcome+to+my+digital+garden
-- https://publish.obsidian/myquantumwell/Welcome+to+The+Quantum+Well
-- https://publish.obsidian/planet
-- https://publish.obsidian/christopher/%2BWelcome+to+Chris's+note-in-use
+- https://publish.obsidian.md/chromatically/publish+homepage
+- https://www.nitinpai.in/
+- https://publish.obsidian.md/alexisrondeau/Welcome+to+my+digital+garden
+- https://publish.obsidian.md/myquantumwell/Welcome+to+The+Quantum+Well
+- https://publish.obsidian.md/planet
+- https://publish.obsidian.md/christopher/%2BWelcome+to+Chris's+note-in-use
 - https://quartz.jzhao.xyz/notes/showcase/
 - https://scalingsynthesis.com
-- https://publish.obsidian/andymatuschak/Andy+Matuschak/Evergreen+notes
-- https://filipedonadio.com/a-curated-list-of-obsidian-public-vaults
-- https://forum.obsidian/t/the-all-obsidian-publish-s-collection-by-leo-latest-update-20210324/7248
+- https://publish.obsidian.md/andymatuschak/Andy+Matuschak/Evergreen+notes
+- https://filipedonadio.com/
+- https://forum.obsidian.md/t/the-all-obsidian-publish-s-collection-by-leo-latest-update-20210324/7248
 - https://hiran.in/notes
 - https://vinzent03.github.io/obsidian-advanced-uri
 - https://wiki.nikiv.dev/
-- [arboretum.link](https://www.arboretum.link/)
 - [Slate Star Codex](https://slatestarcodex.com/)
 
 ### Blogs example templates

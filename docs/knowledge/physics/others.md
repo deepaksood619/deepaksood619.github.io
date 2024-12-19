@@ -16,7 +16,7 @@ the phenomenon in which the value of a physical property lags behind changes in 
 
 ## Quantum Mechanics
 
-https://publish.obsidian/myquantumwell/Welcome+to+The+Quantum+Well
+https://publish.obsidian.md/myquantumwell/Welcome+to+The+Quantum+Well
 
 [A future with quantum biology - with Alexandra Olaya-Castro](https://www.youtube.com/watch?v=rYYHQYx_QvY)
 

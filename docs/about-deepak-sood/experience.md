@@ -125,7 +125,7 @@ Working on android as frontend and django as backend. Stack includes MQTT and re
 
 https://play.google.com/store/apps/details?id=com.zenatix.smartaccontrol&hl=en
 
-https://zenatix.com/products
+https://zenatix.com/
 
 ### CISO Cybersecurity, Software Developer (Dec 16 - July 17)
 

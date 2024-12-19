@@ -16,7 +16,7 @@ We have a habit of distorting the facts until they become bearable for our own v
 
 Just make sure that you're choosing a technology because it solves real needs for you, not because the cool kids are doing it.
 
-[**Mere newness bias**](https://mindmodeling.org/cogsci2015/papers/0177/index.html)
+**Mere newness bias**
 
 Many software developers tend to undervalue technologies they have worked with for a long time, and overvalue the benefits of a new technology.
 

@@ -190,7 +190,7 @@ In the late 16th and early 17th centuries, Thomas Hobson worked as a licensed ca
 - [Two-front War](https://en.wikipedia.org/wiki/Two-front_war) - "A war in which fighting takes place on two geographically separate fronts."
 - [Flypaper Theory](https://en.wikipedia.org/wiki/Flypaper_theory_%28strategy%29) - "The idea that it is desirable to draw enemies to a single area, where it is easier to kill them and they are far from one's own vulnerabilities." (related:[honeypot](https://en.wikipedia.org/wiki/Honeypot_(computing)))
 - (3) Fighting the Last War--- Using strategies and tactics that worked successfully in the past, but are no longer as useful.
-- (3) Rumsfeld's Rule - "You go to war with the Army you have. They're not the Army you might want or wish to have at a later time." (related:[Joy's law](https://en.wikipedia.org/wiki/Joy%27s_law_%28management%29) - "no matter who you are, most of the smartest people work for someone else.";[Effectuation](https://en.wikipedia.org/wiki/Effectuation))
+- (3) Rumsfeld's Rule - "You go to war with the Army you have. They're not the Army you might want or wish to have at a later time." (related:[Joy's law](https://en.wikipedia.org/wiki/Joy%27s_law_%28management%29) - "no matter who you are, most of the smartest people work for someone else.";[Effectuation](https://effectuation.org/effectuation-101))
 - [Trojan Horse](https://en.wikipedia.org/wiki/Trojan_War) - "After a fruitless 10-year siege, the Greeks constructed a huge wooden horse, and hid a select force of men inside. The Greeks pretended to sail away, and the Trojans pulled the horse into their city as a victory trophy. That night the Greek force crept out of the horse and opened the gates for the rest of the Greek army, which had sailed back under cover of night. The Greeks entered and destroyed."
 - [Empty Fort Strategy](https://en.wikipedia.org/wiki/Empty_Fort_Strategy) - "Involves using reverse psychology (and luck) to deceive the enemy into thinking that an empty location is full of traps and ambushes, and therefore induce the enemy to retreat." (related:[Potemkin village](https://en.wikipedia.org/wiki/Potemkin_village) - "any construction (literal or figurative) built solely to deceive others into thinking that a situation is better than it really is.";[vaporware](https://en.wikipedia.org/wiki/Vaporware) - "a product, typically computer hardware or software, that is announced to the general public but is never actually manufactured nor officially cancelled.")
 - [Exit Strategy](https://en.wikipedia.org/wiki/Exit_strategy) - "A means of leaving one's current situation, either after a predetermined objective has been achieved, or as a strategy to mitigate failure."
@@ -439,8 +439,6 @@ https://en.wikipedia.org/wiki/Zeigarnik_effect
 ![image](../../media/Mental-Models-image8.jpg)
 
 ![image](../../media/Mental-Models-image9.jpg)
-
-https://www.coglode.com/story/offsetting-painful-loss-with-reassuring-certainty
 
 Decision making is hard.
 
