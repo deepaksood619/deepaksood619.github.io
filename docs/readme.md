@@ -2,7 +2,7 @@
 slug: /
 ---
 
-# Deepak's Personal Wiki
+# Deepak's Wiki
 
 This is my personal wiki where I share everything I know about this world in form of an online wiki.
 

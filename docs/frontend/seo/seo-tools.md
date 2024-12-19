@@ -33,7 +33,6 @@
 - https://stories.google
 - https://purifycss.online
 - https://moz.com
-- [Rich Results Test - Google Search Console](https://search.google.com/test/rich-results)
 - [POP: On-Page SEO & Content Optimization Tool Suite](https://www.pageoptimizer.pro/)
 - [Ahrefs—Marketing Intelligence Tools Powered by Big Data.](https://ahrefs.com/)
 - [Siteliner - Find Duplicate Content on your site](https://www.siteliner.com/)
@@ -44,6 +43,7 @@
 ## Website Speed Test
 
 - [Free Website Speed Test | Testing And Monitoring](https://www.debugbear.com/test/website-speed)
+- [Website Speed Test | Pingdom Tools](https://tools.pingdom.com/)
 
 ## Tools
 
@@ -51,3 +51,5 @@
 - [SEO Minion - Chrome Web Store](https://chromewebstore.google.com/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi?pli=1)
 	- [SEO Minion - SEO Extension - YouTube](https://www.youtube.com/playlist?list=PL4ToiDFOv6A8S7RfsyoDDUMvwloHywQG2)
 - [Keywords Everywhere - Keyword Tool - Chrome Web Store](https://chromewebstore.google.com/detail/keywords-everywhere-keywo/hbapdpeemoojbophdfndmlgdhppljgmp)
+- [Validate XML Sitemap - XML Sitemaps Generator](https://www.xml-sitemaps.com/validate-xml-sitemap.html)
+- [Free Broken Link Checker - Check your website for dead links online](https://www.brokenlinkcheck.com/broken-links.php)

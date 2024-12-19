@@ -48,7 +48,7 @@
 16. [Udemy - Modern React with Redux by Stephen Grider](https://www.udemy.com/react-redux) (24 Mar'18)
 17. [Udemy - Python for Data Structure, Algorithms, and Interviews](courses/udemy-python-for-data-structures-algorithms.md)  (20 Apr'18)
 18. Khan Academy - LSAT Preparation (Sept'2018)
-19. [Udacity - Scalable Microservices with Kubernetes by Google](https://in.udacity.com/course/scalable-microservices-with-kubernetes--ud615) (5 Jan'2018)
+19. [Scaling Microservices on Kubernetes | Udacity](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615) (5 Jan'2018)
 20. [Introduction to Probability - The Science of Uncertainty by MITx on edX](mathematics/probability/intro-to-probability/readme.md) (June'2018)
 21. [google-professional-cloud-architect-pca](courses/google-professional-cloud-architect-pca.md)
 22. [course-aws-certified-database-specialty](databases/others/course-aws-certified-database-specialty.md)

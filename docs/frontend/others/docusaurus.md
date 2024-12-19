@@ -150,3 +150,4 @@ algolia: {
 - [Docusaurus](https://docusaurus.io/docs/blog)
 - [GitHub - webbertakken/awesome-docusaurus: A curated list of awesome Docusaurus resources.](https://github.com/webbertakken/awesome-docusaurus)
 - [Docusaurus](https://docusaurus.io/docs/seo)
+- [johnnyreilly | johnnyreilly](https://johnnyreilly.com/)

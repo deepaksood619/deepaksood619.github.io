@@ -136,6 +136,9 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      customCss: {
+        primaryColor: '#3578e5',
+      },
       algolia: {
         // The application ID provided by Algolia
         appId: 'X3OY8NGHVH',
