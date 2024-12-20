@@ -26,6 +26,7 @@
 - [RAG Presentation](about-deepak-sood/projects/48-rag-genai-presentation.md)
 - [Opstree Standard Proposal Format](about-deepak-sood/projects/71-opstree-standard-proposal-format.md)
 - [Podcast - Streamlining Cloud Migration Through Data Engineering](about-deepak-sood/projects/46-podcast-streamlining-cloud-migration-through-data-engineering.md)
+- [Podcast - Stream Processing using Kafka and Flink](about-deepak-sood/projects/43-podcast-stream-processing-using-kafka-and-flink.md)
 
 #### Case Studies
 

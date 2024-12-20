@@ -1,5 +1,10 @@
 # Meetups / Talks / Sessions
 
+### Podcast - Stream Processing using Kafka and Flink (20 December 2024)
+
+- Transcript - [Podcast - Stream Processing using Kafka and Flink](about-deepak-sood/projects/43-podcast-stream-processing-using-kafka-and-flink.md)
+- Raw Recording - [Raw Recording - Podcast - Stream Processing using Kafka and Flink](https://drive.google.com/file/d/1FLiWYSlUP3oHc954fuVVYxAmQKv35pZz/view?usp=drive_link)
+
 ### Kong in Action: Simplifying API Management for Modern Applications - Kong (14 December 2024)
 
 Introduction to Kong as an API gateway, key features, and benefits.
@@ -273,3 +278,9 @@ https://www.slideshare.net/deepaksood566/how-to-empower-a-platform-with-a-data-p
 ### Webinar on Career Guidance at SSTC (27 June 2020)
 
 https://www.slideshare.net/deepaksood566/computer-science-career-guidance
+
+## Finding Meetups
+
+- [Commudle - Connect & Learn With Software Developers](https://www.commudle.com/)
+- [meetup.com](https://www.meetup.com/)
+- [10 Alternatives to meetup 2024. In the realm of event organisation and… | by Sean Preusse | Medium](https://medium.com/@sppreus/10-alternatives-to-meetup-2024-07150b877bb0)

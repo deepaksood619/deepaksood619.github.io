@@ -43,13 +43,17 @@ https://launchbylunch.com/posts/2014/Feb/16/sql-naming-conventions
 
 ## References
 
-### Games
+### SQL Games
 
-- [Solve SQL | HackerRank](https://www.hackerrank.com/domains/sql)
 - https://mystery.knightlab.com
 - https://selectstarsql.com
-- https://littlekendra.com/course-category/sqlchallenges
-- https://github.com/WebDevSimplified/Learn-SQL
+- [Oops!](https://littlekendra.com/course-category/sqlchallenges)
+- https://www.hackerrank.com/domains/sql
+- https://www.w3schools.com/sql/trysql.asp?filename=trysql_asc
+- https://www.w3schools.com/mysql/trymysql.asp?filename=trysql_select_where_and_or
+- https://use-the-index-luke.com/3-minute-test/mysql
+- Terraria
+- [GitHub - WebDevSimplified/Learn-SQL: Exercises for beginners to learn SQL](https://github.com/WebDevSimplified/Learn-SQL)
 - [SQuizL - Guess the SQL Statement](https://devgym.oracle.com/pls/apex/f?p=10001:4242::::4242::)
 
 ### Others

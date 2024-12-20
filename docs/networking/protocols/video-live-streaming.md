@@ -69,6 +69,8 @@ ffmpeg (fast forward motion pictures expert group) for streaming videos over rtp
 ### Commands
 
 ```bash
+brew install ffmpeg
+
 ffmpeg -i demo.mp4 -v 0 -vcodec mpeg4 -f mpegts udp://192.168.1.119:1234
 
 ffplay udp://192.168.1.119:1234

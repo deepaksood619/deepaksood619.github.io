@@ -60,6 +60,7 @@ Always tell stories, most visual stories are the best, and simple
 - [online recording studio](https://riverside.fm/)
 - Zoom it
 - https://github.com/hakimel/reveal.js
+- [Speech calculator: how long does your speech take? – Debatrix International](https://debatrix.com/en/speech-calculator/)
 
 ## Presentation Tools
 
