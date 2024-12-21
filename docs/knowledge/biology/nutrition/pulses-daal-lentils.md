@@ -167,13 +167,14 @@ This [lentil](https://www.thespruceeats.com/history-of-lentils-1807624) has a nu
 
 ## Health Benefits
 
-Just 1 cup of cooked daal can give you as much as 62 percent of your daily dietary fiber requirement. Daalsalso have high levels of important minerals like manganese, phosphorous, potassium, iron and copper. They are high in folates and the B-vitamins like Thiamin.
+Just 1 cup of cooked daal can give you as much as 62 percent of your daily dietary fiber requirement. Daals also have high levels of important minerals like manganese, phosphorous, potassium, iron and copper. They are high in folates and the B-vitamins like Thiamin.
 
-- Peanuts / Moong falli / groundnuts / earth nuts / goobers / not nut, legume family
+- Peanuts / Singdana
+- Moong falli / groundnuts / earth nuts / goobers / not nut, legume family
 
-https://www.thespruceeats.com/a-photo-gallery-of-indian-daals-and-beans-4121903
+[Daal-Palak Ka Shorba (Lentil and Spinach Soup) Recipe](https://www.thespruceeats.com/a-photo-gallery-of-indian-daals-and-beans-4121903)
 
-https://myheartbeets.com/different-types-of-indian-dals-legumes-lentils-beans-pulses
+[Indian Cooking 101: Different Types of Indian Dals (Legumes, Lentils, Beans, Pulses) | My Heart Beets](https://myheartbeets.com/different-types-of-indian-dals-legumes-lentils-beans-pulses)
 
 ## Sproutes / Seeds / Sprouted grains
 

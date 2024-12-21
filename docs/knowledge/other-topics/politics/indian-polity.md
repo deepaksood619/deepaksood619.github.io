@@ -35,6 +35,10 @@ Long years ago we made a tryst with destiny, and now the time comes when we shal
 
 [Constitutional, Statutory and Quasi-Judicial Bodies - Indian Polity Notes for UPSC](https://byjus.com/free-ias-prep/constitutional-statutory-and-quasi-judicial-bodies/)
 
+## Parliament
+
+- 2.5 lakhs per minute cost of running parliament
+
 ## Narendra Modi / PM Modi
 
 - Tanashah - dictator

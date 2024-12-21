@@ -40,7 +40,9 @@ mogrify -format jpg -quality 50% *.jpeg
 # Leave (High Quality): If you set a higher quality value (e.g., `-quality 90` or `-quality 100`), the image retains more detail with minimal compression. This ensures better visual fidelity but results in a larger file size.
 
 # convert pdf to images
-convert input.pdf output.jpg
+convert input.pdf output.jpg # deprecated
+magick input.pdf output.jpg
+magick convert input.pdf output.jpg
 
 # For good quality use these parameters
 convert -density 300 -quality 100 in.pdf out.jpg

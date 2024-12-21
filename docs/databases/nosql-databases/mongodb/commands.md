@@ -52,6 +52,44 @@ brew install mongodb-database-tools
 mongodump --uri="mongodb://mongodb0.example.com:27017"
 ```
 
+### Mongo Dump Job
+
+`0 */6 * * * python3 /home/ubuntu/db_backups/db_snapshot.py`
+
+```python title="db_snapshot.py"
+import datetime
+import os
+import shutil
+
+import boto3
+
+s3 = boto3.client(
+    "s3",
+    aws_access_key_id="xxx",
+    aws_secret_access_key="xxx",
+)
+
+
+def make_dump():
+    os.system("mongodump --uri='mongodb://root:example@localhost:27017/db_name?authSource=admin'")
+    shutil.make_archive(file_name, "zip", "dump")
+
+
+def upload_to_s3():
+    s3.upload_file(
+        f"{file_name}.zip", "s3-storage-bucket", f"db_backup/{file_name}.zip"
+    )
+
+
+if __name__ == "__main__":
+    script_directory = os.path.dirname(os.path.abspath(__file__))
+    os.chdir(script_directory)
+    file_name = f"dump_{datetime.datetime.now().strftime('%Y_%m_%d_%H:%M')}"
+    make_dump()
+    upload_to_s3()
+    os.system("rm -r dump*")
+```
+
 ## Mongo DB Queries
 
 ```python

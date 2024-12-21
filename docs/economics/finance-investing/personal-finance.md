@@ -25,6 +25,7 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 - Andromoney
 - axio
 - [Cashews](https://cashews.finance/)
+- Bluecoins
 
 ## Others
 

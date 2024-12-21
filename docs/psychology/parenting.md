@@ -222,12 +222,15 @@ Why kicking out children after 18 years is important, let's say you are very wea
 ## Youtube
 
 - [Emma Hubbard - YouTube](https://www.youtube.com/@EmmaHubbard)
-   	- [Toddler Development (12 Months to 18 Months) - YouTube](https://www.youtube.com/playlist?list=PLEPQYw7MIUjbBw63r0nASZmbst1FF6sHv)
-   	- Natural breaks
-   	- Timers
-   	- Count down
+	- [Toddler Development (12 Months to 18 Months) - YouTube](https://www.youtube.com/playlist?list=PLEPQYw7MIUjbBw63r0nASZmbst1FF6sHv)
+	- Natural breaks
+	- Timers
+	- Count down
 - [potty training - YouTube](https://www.youtube.com/playlist?list=PLEPQYw7MIUjbysDVfRhyFJCTv2X9JhaUI)
 - [Ms Rachel - Toddler Learning Videos - YouTube](https://www.youtube.com/@msrachel)
+- [Bluey - Official Channel - YouTube](https://www.youtube.com/@BlueyOfficialChannel)
+- [Cocomelon - Nursery Rhymes - YouTube](https://www.youtube.com/channel/UCbCmjCuTUZos6Inko4u57UQ)
+	- [CoComelon Classroom - Learning for Kids - YouTube](https://www.youtube.com/@CoComelonClassroom)
 
 ## Milestones
 

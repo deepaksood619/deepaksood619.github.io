@@ -21,6 +21,7 @@
     - [Code Build](developer-tools/code-build)
 - [Compute](compute/readme.md)
     - [Amazon EKS](compute/amazon-eks)
+    - [Amazon EC2](cloud/aws/compute/amazon-ec2.md)
     - [EC2 Instance Types](compute/ec2-instance-types)
     - [Burstable Instances (T Class)](cloud/aws/compute/burstable-instances.md)
     - [Amazon ECS](cloud/aws/compute/amazon-ecs.md)

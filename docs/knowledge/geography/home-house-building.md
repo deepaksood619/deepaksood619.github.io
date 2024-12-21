@@ -61,3 +61,4 @@ https://www.youtube.com/watch?v=dy81ldYQdgY
 - [I bought my Dream House!](https://youtu.be/BqvtFfkbQxs)
 - [1900 SQFT मैं 4 Bhk Flats with double road facing in indrapuram - YouTube](https://www.youtube.com/watch?v=ELoh31N_IcI)
 - [DLF’s New ‘Ultra-Luxury’ Project to Have the Costliest Apartments in India | Gurugram Real Estate - YouTube](https://www.youtube.com/watch?v=DUPyFm_2daY)
+- [House of Bridges - Mahad #allaboutarchitecture #architectureanddesign #Mahad - YouTube](https://www.youtube.com/watch?v=JZmROG530Ao)

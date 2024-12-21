@@ -1,29 +1,8 @@
 # Compute
 
-## Amazon EC2
-
-Virtual Servers in the Cloud
-
-installing docker in ubuntu ec2 instance
-
-```bash
-apt-get update
-apt-get install docker
-sudo usermod -aG docker ubuntu
-# log out of terminal and log back in
-sudo systemctl start docker
-docker run hello-world
-```
-
-[Ubuntu | Docker Docs](https://docs.docker.com/engine/install/ubuntu/)
-
-[AWS EC2 Instance Types](ec2-instance-types)
-
-## Amazon EC2 Auto Scaling Group (ASG)
-
-Scale Compute Capacity to Meet Demand
-
-[Amazon EC2 Auto Scaling lifecycle hooks - Amazon EC2 Auto Scaling](https://docs.aws.amazon.com/autoscaling/ec2/userguide/lifecycle-hooks.html?icmpid=docs_ec2as_help_panel)
+- [Amazon EC2](cloud/aws/compute/amazon-ec2.md)
+- [EC2 Instance Types](cloud/aws/compute/ec2-instance-types.md)
+- [AWS Lambda](cloud/aws/compute/aws-lambda.md)
 
 ## Amazon Elagoostic Container Service
 
@@ -74,55 +53,6 @@ Fargate allocates the right amount of compute, eliminating the need to choose in
 
 [Serverless Compute Engine–AWS Fargate Pricing–Amazon Web Services](https://aws.amazon.com/fargate/pricing/)
 
-## AWS Lambda
-
-Run Your Code in Response to Events
-
-```python
-# Stock Check Lambda function
-
-# This function is triggered when values are inserted into the Inventory DynamoDB table.
-# Inventory counts are checked, and if an item is out of stock, a notification is sent to an SNS topic.
-
-# This handler is executed every time the Lambda function is triggered
-def lambda_handler(event, context):
-
-    # Show the incoming event in the debug log
-    print("Event received by Lambda function: " + json.dumps(event, indent=2))
-
-    # For each inventory item added, check if the count is zero
-    for record in event['Records']:
-    newImage = record['dynamodb'].get('NewImage', None)
-    if newImage:
-
-        count = int(record['dynamodb']['NewImage']['Count']['N'])
-
-        if count == 0:
-        store = record['dynamodb']['NewImage']['Store']['S']
-        item  = record['dynamodb']['NewImage']['Item']['S']
-
-        # Construct message to be sent
-        message = store + ' is out of stock of ' + item
-        print(message)
-
-        # Connect to SNS
-        sns = boto3.client('sns')
-        alertTopic = 'NoStock'
-        snsTopicArn = [t['TopicArn'] for t in sns.list_topics()['Topics']
-                        if t['TopicArn'].lower().endswith(':' + alertTopic.lower())][0]
-
-        # Send message to SNS
-        sns.publish(
-            TopicArn=snsTopicArn,
-            Message=message,
-            Subject='Inventory Alert!',
-            MessageStructure='raw'
-        )
-
-    # Finished!
-    return 'Successfully processed {} records.'.format(len(event['Records']))
-```
-
 ## AWS Serverless Application Repository
 
 Discover, Deploy, and Publish Serverless Applications
@@ -132,20 +62,6 @@ Discover, Deploy, and Publish Serverless Applications
 Build a Hybrid Cloud without Custom Hardware
 
 ## [AWS Elastic Kubernetes Service (EKS)](amazon-eks)
-
-## EC2 > Networking > Elastic IP Addresses
-
-An Elastic IP address is a static IPv4 address designed for dynamic cloud computing. An Elastic IP address is associated with your AWS account. With an Elastic IP address, you can mask the failure of an instance or software by rapidly remapping the address to another instance in your account.
-
-An Elastic IP address is a public IPv4 address, which is reachable from the internet. If your instance does not have a public IPv4 address, you can associate an Elastic IP address with your instance to enable communication with the internet; for example, to connect to your instance from your local computer.
-
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html
-
-## EC2 > Networking > ENI
-
-An elastic network interface (referred to as a*network interface*in this documentation) is a logical networking component in a VPC that represents a virtual network card.
-
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-eni.html
 
 ## Others
 

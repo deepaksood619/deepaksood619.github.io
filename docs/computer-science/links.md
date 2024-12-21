@@ -1394,6 +1394,20 @@
 1390. [I Used AlphaFold 3 To Cure Cancer (Tutorial)](https://youtu.be/kll90oM9CoQ)
 1391. [Where http2 hits its limit](https://youtu.be/beDiiWE8ESM)
 1392. [How I built an AI Teacher with Vector Databases and ChatGPT](https://youtu.be/Z3uWleYwOQA)
+1393. [XZ Exploit - Computerphile](https://youtu.be/LY8_35a_DEA)
+1394. [The year in AI: 2024 customer innovation highlights with Google Cloud](https://youtu.be/rDFlR9NG6lM)
+1395. [8 Most Important System Design Concepts You Should Know](https://youtu.be/BTjxUS_PylA)
+1396. [Data Engineering Trends 2025: Focus on this!](https://youtu.be/lt2sRxb9RyU)
+1397. [How to Structure Your Data](https://youtu.be/aDAMwDAlnmo)
+1398. [New AWS Lambda Console Code Editor!](https://youtu.be/fm1wg2U4sJU)
+1399. [Spring AI Full Course with Projects – Build Smarter Spring Boot Applicat...](https://youtu.be/9Crrhz0pm8s)
+1400. [Kaggle Data Science Competition Course – Solve Three Challenges Step-by-...](https://youtu.be/BV03sQ0srcU)
+1401. [(Raw→Bronze→Silver) Using New S3 Table Buckets, EMR EC2, and Orchestrati...](https://youtu.be/H88C21HUNug)
+1402. [The Worst Programming Language Ever • Mark Rendle • YOW! 2014](https://youtu.be/Fmq2EhV2U2M)
+1403. [Master Software Architecture • Maciej «MJ» Jedrzejewski & Artur Skowrońs...](https://youtu.be/cI9dfQLTXlU)
+1404. [NVIDIA’s New AI: Training 10,000x Faster!](https://youtu.be/QCllgrnk8So)
+1405. [How the Bitcoin Protocol Actually Works • Jan Møller • YOW! 2016](https://youtu.be/8Xsut4MQYhg)
+1406. [Mini-ITX Open Chassis](https://youtu.be/MfSvYFR0jqU)
 
 ## Bytebytego
 

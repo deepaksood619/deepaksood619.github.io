@@ -457,6 +457,8 @@ An offshore account is one that is opened by a citizen outside her home country.
 
 - Till 50 lakh of LTCG, buy NHAI bonds, get 5% interest rate with 5 year lock in and only pay taxes on interest earned on NHAI bonds and principle which was going to be taxed becomes tax free.
 
+[Section 54F of Income Tax Act: Capital Gains Can Be Invested Multiple Times To Buy A New Residential House Property](https://cleartax.in/s/invest-multiple-capital-gains-on-buying-new-house-property)
+
 ### Points
 
 1. Only certain investment avenues qualify for tax perks-long-term capital assets like listed & unlisted stocks, foreign shares, equity funds, and physical gold, except for house property.
