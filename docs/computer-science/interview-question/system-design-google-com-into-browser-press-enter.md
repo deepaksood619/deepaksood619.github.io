@@ -1,11 +1,13 @@
 # System Design - What happens when you type google.com into your browser's address box and press enter?
 
+![What happens when you type a URL into a browser?](../../media/What%20happens%20when%20you%20type%20a%20URL%20into%20a%20browser?.webp)
+
 Ever wondered what exactly happens when you type google.com into your browser's address box and press enter?
 
 - The "g" key is pressed
 - The "enter" key bottoms out
 - Interrupt fires (NOT for USB keyboards)
-- (On Windows) AWM_KEYDOWNmessage is sent to the app
+- (On Windows) AWM_KEYDOWN message is sent to the app
 - (On OS X) AKeyDownNSEvent is sent to the app
 - (On GNU/Linux) the Xorg server listens for keycodes
 - Parse URL
@@ -107,3 +109,4 @@ After rendering has completed, the browser executes JavaScript code as a result 
 ## References
 
 - [GitHub - alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"](https://github.com/alex/what-happens-when)
+- [Post from ByteByteGo - YouTube](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxJDvMpF4jVEn4aKuBqgYa3mjJay5k8g7r)

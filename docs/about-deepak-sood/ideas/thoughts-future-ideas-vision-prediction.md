@@ -36,6 +36,11 @@ What they have done essentially is to develop a type of semiconductor device cal
 
 [(PDF) Linear, symmetric, self-selecting 14-bit molecular memristors](https://www.researchgate.net/publication/377744243_Linear_symmetric_self-selecting_14-bit_molecular_memristors)
 
+#### Links
+
+- [2024's Biggest Breakthroughs in Math - YouTube](https://www.youtube.com/watch?v=lwVSeXswWZY)
+- [2024's Biggest Breakthroughs in Biology and Neuroscience - YouTube](https://www.youtube.com/watch?v=p9XHI_26cPE)
+
 ## Thoughts
 
 We are highly unqualified to speak anything about anything that we are not working in, therefore we should speak about facts rather than opinions

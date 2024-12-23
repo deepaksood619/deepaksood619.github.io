@@ -206,3 +206,7 @@ https://www.freecodecamp.org/news/how-to-use-google-tag-manager-to-maintain-goog
 ### MixPanel
 
 Mixpanel helps you learn how people use your app with mobile & web analytics. Instead of tracking page views, you can measure and see how people are actually using your app by tracking actions.
+
+## Links
+
+- [How to Build Search Terms Report in Google Analytics 4 (GA4) - YouTube](https://www.youtube.com/watch?v=6kCrLKTQzn4)

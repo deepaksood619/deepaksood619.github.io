@@ -24,10 +24,18 @@ One of the biggest questions around in-context learning is: What happens if we j
 
 [Exploring real-time streaming for generative AI Applications | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/exploring-real-time-streaming-for-generative-ai-applications/)
 
-## Links
+## LoRA (Low Rank Adaptation)
 
 - [Mastering Low-Rank Adaptation (LoRA): Enhancing Large Language Models for Efficient Adaptation | DataCamp](https://www.datacamp.com/tutorial/mastering-low-rank-adaptation-lora-enhancing-large-language-models-for-efficient-adaptation)
 - [LoRA](https://huggingface.co/docs/diffusers/main/en/training/lora)
 - [GitHub - microsoft/LoRA: Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"](https://github.com/microsoft/LoRA)
+- [LoRA - Explained! - YouTube](https://www.youtube.com/watch?v=Bq9zqTJDsjg)
+
+## HSNW (Hierarchical Navigable Small Worlds)
+
+[System Design of ChatGPT | Mock interview @gkcs - YouTube](https://www.youtube.com/watch?v=H9Qdm8_JBAs)
+
+## Links
+
 - [AWS re:Invent 2023 - Generative AI: Architectures and applications in depth (BOA308) - YouTube](https://www.youtube.com/watch?v=aEA6X_IElpc)
 - [AWS re:Invent 2023 - SaaS meets AI/ML & generative AI: Multi-tenant patterns & strategies (SAS306) - YouTube](https://www.youtube.com/watch?v=oBhP44wowoY)

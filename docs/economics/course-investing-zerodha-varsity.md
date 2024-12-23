@@ -143,3 +143,5 @@ https://risk.learnapp.co/quiz
 [Introducing Margin Trading Facility (MTF) on Kite – Z-Connect by Zerodha](https://zerodha.com/z-connect/featured/introducing-margin-trade-funding-mtf-on-kite)
 
 - [Understanding Margin Trading Facility (MTF) at Zerodha: A Complete Guide - YouTube](https://www.youtube.com/watch?v=AYDD5b14IUY)
+
+LAMF - [The Ultimate Guide to Loans Against Mutual Funds 🦁 Best, Quickest & Cheapest Loan - YouTube](https://www.youtube.com/watch?v=yPXAhAdf1-E)

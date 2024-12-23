@@ -29,6 +29,7 @@ Ex
 
 - No notes on videos
 - Videos should be like books, where one can annotate, add notes, search, arrange, etc. that you can do with books.
+- [I Redesigned the ENTIRE YouTube UI from Scratch - YouTube](https://www.youtube.com/watch?v=OUM6XmhViN4)
 
 ### Google Search
 

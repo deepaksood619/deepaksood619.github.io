@@ -28,3 +28,7 @@ Introduces a clear plan of action, setting out when and where you'll carry out t
     - **Habit contract** - that imposes negative consequences if you fail to stay on track
 - **Habit stacking** can be used to introduce new behaviors
     - stack new habit on top of an existing habit
+
+## Links
+
+- [ATOMIC HABITS by James Clear Audiobook | Book Summary in English - YouTube](https://www.youtube.com/watch?v=vicGUErRBwI)

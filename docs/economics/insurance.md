@@ -25,6 +25,10 @@ How much cover is needed
 
 [ULIP का काला सच | Unit Linked Insurance Plan Vs Mutual Fund | Which is better investment? - YouTube](https://www.youtube.com/watch?v=eNl6SMjTqMo)
 
+## Health Insurance
+
+- [Health insurance policy - You need to change immediately! Health insurance will be rejected? - YouTube](https://www.youtube.com/watch?v=A0NjCGEDrcI)
+
 ## Others
 
 ### Endowment Plan / Endowment Policy

@@ -6,6 +6,8 @@
 - Dungeon Warfare 2
 - PCMR - PC Master Race
 - [Top 10Best Browser Multiplayer Games To Play With Friends | by New one Game | Medium](https://medium.com/@gamenewone288/top-10best-browser-multiplayer-games-to-play-with-friends-4162215416c4)
+- [Microsoft Flight Simulator 2024 Review - YouTube](https://www.youtube.com/watch?v=K5JqXNiWnMc)
+	- [Microsoft Flight Simulator 2024 - Announce Trailer - 4K - YouTube](https://www.youtube.com/watch?v=p3xp-SnZDoY)
 
 ### Mini Metro
 

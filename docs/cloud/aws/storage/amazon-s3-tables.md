@@ -70,10 +70,12 @@ AWS S3 Tables redefine how organizations manage and query Iceberg tables, combin
 
 ## Links
 
-[New Amazon S3 Tables: Storage optimized for analytics workloads | AWS News Blog](https://aws.amazon.com/blogs/aws/new-amazon-s3-tables-storage-optimized-for-analytics-workloads/)
-
-[AWS re:Invent 2024 - What’s new with Amazon S3 (STG212) - YouTube](https://youtu.be/pbsIVmWqr2M?si=UYfb1GbqHUi2b3bi)
-
-[Amazon S3 Tables](https://aws.amazon.com/s3/features/tables/)
-
-[Amazon S3 Tables: A Game Changer in Analytics and Data Lake Space - DEV Community](https://dev.to/asankab/amazon-s3-tables-a-game-changer-in-analytics-and-data-lake-space-2mjo)
+- [New Amazon S3 Tables: Storage optimized for analytics workloads | AWS News Blog](https://aws.amazon.com/blogs/aws/new-amazon-s3-tables-storage-optimized-for-analytics-workloads/)
+- [AWS re:Invent 2024 - What’s new with Amazon S3 (STG212) - YouTube](https://youtu.be/pbsIVmWqr2M?si=UYfb1GbqHUi2b3bi)
+- [Amazon S3 Tables](https://aws.amazon.com/s3/features/tables/)
+- [Amazon S3 Tables: A Game Changer in Analytics and Data Lake Space - DEV Community](https://dev.to/asankab/amazon-s3-tables-a-game-changer-in-analytics-and-data-lake-space-2mjo)
+- [How to use New Amazon S3 Metadata and Query the S3 metadata in table buckets with EMR Spark 7 5 - YouTube](https://www.youtube.com/watch?v=HvWJdq7hDzY)
+- [4-Step Guide to Create S3 Buckets & Deploy Iceberg PySpark Job with EMR 7.5 & Shell Scrip - YouTube](https://www.youtube.com/watch?v=uOO4nxiYJA4)
+- [Amazon S3 Tables - Store Tabular Data in S3 | Amazon Web Services - YouTube](https://www.youtube.com/watch?v=bLB_cl-u3jM)
+- [Amazon S3 Metadata - Accelerate Data Discovery | Amazon Web Services - YouTube](https://www.youtube.com/watch?v=pWekT7Ic6VE)
+- [Post from Soumil Shah - YouTube](https://www.youtube.com/channel/UC_eOodxvwS_H7x2uLQa-svw/community?lb=Ugkxk3cZ9CxtKYcvfdSkwwOMlHwR6KqHG68G)

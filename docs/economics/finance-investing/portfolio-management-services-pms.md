@@ -50,3 +50,8 @@ For instance, no scheme can allocate more than 10% of its corpus to a single com
 ### 3 Investor-Friendly Fees
 
 Unlike PMS and AIFs, which have high fees, SIFs will have a much more investor-friendly expense ratio, similar to mutual funds. Taxation rules could also be similar.
+
+## Others
+
+- Deserv
+- Marcellus

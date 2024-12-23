@@ -11,3 +11,11 @@ MaxCompute (previously known as ODPS) is a general purpose, fully managed, multi
 [All You Need to Know About MaxCompute | by Alibaba Cloud | Medium](https://alibaba-cloud.medium.com/all-you-need-to-know-about-maxcompute-ea5238959653)
 
 [What is MaxCompute? - MaxCompute - Alibaba Cloud Documentation Center](https://www.alibabacloud.com/help/en/maxcompute/product-overview/what-is-maxcompute)
+
+[Alibaba Cloud Open Data Platform and Service | MaxCompute - YouTube](https://www.youtube.com/watch?v=fDLTcjpfNBo)
+
+[Alibaba Cloud Open Data Platform and Service | Lakehouse of MaxCompute - YouTube](https://www.youtube.com/watch?v=8pJxr58Lpeg)
+
+## Others
+
+- [Alibaba Infrastructure Service | PANJIU Liquid Cooling Solutions - YouTube](https://www.youtube.com/watch?v=K3-jB-bqujQ)

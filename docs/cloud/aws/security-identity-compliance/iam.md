@@ -279,3 +279,5 @@ Use AWS Control Tower to set up and operate your multi-account AWS environment w
 - AWS IAM Identity Center
 
 [How to Set Up Federated Single Sign-On to AWS Using Google Apps | AWS Security Blog](https://aws.amazon.com/blogs/security/how-to-set-up-federated-single-sign-on-to-aws-using-google-apps/)
+
+[AWS Account Setup: My 10-Step Checklist After 14 Years - YouTube](https://www.youtube.com/watch?v=KmlbPpVdl-I)

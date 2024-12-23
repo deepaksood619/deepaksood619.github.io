@@ -27,6 +27,8 @@
 - [THE ALGEBRA OF WEALTH by Scott Galloway | Core Message - YouTube](https://www.youtube.com/watch?v=XUs4nTC0oOY&ab_channel=ProductivityGame)
 - [THE INTELLIGENT INVESTOR by Benjamin Graham | Core Message - YouTube](https://www.youtube.com/watch?v=eT2DA389c8w)
 - [Bruce Lee Wisdom: BE WATER, MY FRIEND by Shannon Lee | Core Message - YouTube](https://www.youtube.com/watch?v=dkpQGQcbOc0)
+- [GRIT by Angela Duckworth | Core Message (Revised & Expanded) - YouTube](https://www.youtube.com/watch?v=XZOX6XrgfD4)
+- [100 THINGS SUCCESSFUL PEOPLE DO by Nigel Cumberland Audiobook | Book Summary in English - YouTube](https://www.youtube.com/watch?v=F2Qxkw9DgEs)
 
 ### [Learn to lead: THE 21 IRREFUTABLE LAWS OF LEADERSHIP by John Maxwell | Core Message - YouTube](https://www.youtube.com/watch?v=QQhdiktL99w)
 

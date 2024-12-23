@@ -136,3 +136,4 @@ https://github.com/pantsel/konga
 - [GitHub - Kong/kong: 🦍 The Cloud-Native API Gateway and AI Gateway.](https://github.com/Kong/kong)
 - [Managing microservices and APIs with Kong and Konga | by Tselentis Panagis | Medium](https://medium.com/@tselentispanagis/managing-microservices-and-apis-with-kong-and-konga-7d14568bb59d)
 - [The Platform Powering the API World | Kong Inc.](https://konghq.com/)
+- [become an kong api gateway expert | kong api gateway full crash course - YouTube](https://www.youtube.com/watch?v=tagH5k7nBQ0)

@@ -44,6 +44,8 @@ For example, a multi-asset fund might invest in equity, debt, as well as gold.
 
 ![small-cap funds](../../media/Screenshot%202024-12-15%20at%205.01.43%20PM.jpg)
 
+[The Rising Mid-Cap Star You Can’t Ignore | Edelweiss Mid Cap Fund Review - YouTube](https://www.youtube.com/watch?v=SUjCGbVUtnA)
+
 ## Toppers in different categories by 1-year returns
 
 - Mid Cap: Motilal Oswal Midcap

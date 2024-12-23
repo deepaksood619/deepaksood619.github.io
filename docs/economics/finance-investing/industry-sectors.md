@@ -57,3 +57,11 @@ Top 10 Pharma Companies
 - Telecommunications
 
 Airlines - [Demystifying Airline Economics: RASK, Yield, and Load Factor](https://www.linkedin.com/pulse/demystifying-airline-economics-rask-yield-load-factor-laili-abdullah/)
+
+Sectors where FIIs are Investing
+
+- IT - $653 million
+- BFSI - $296 million
+- Real Estate - $244 million
+- Pharma - $57 million
+- Chemicals - $2 million

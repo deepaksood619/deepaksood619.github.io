@@ -21,6 +21,8 @@ https://www.coursera.org/articles/solutions-architect
 
 ![Architect Roadmap](../../media/Pasted%20image%2020240905012811.jpg)
 
+[AWS Solutions Architect Associate Certification (SAA-C03) – Full Course ...](https://youtu.be/c3Cn4xYfxJY)
+
 ## Others
 
 - MSAT - Manufacturing Science and Technology

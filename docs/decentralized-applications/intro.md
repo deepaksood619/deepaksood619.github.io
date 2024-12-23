@@ -85,3 +85,5 @@ https://hackernoon.com/crypto-baby-talk-first-50-terms-that-you-should-know-abou
 - External layer
 
 The fundamental value proposition for blockchains. - [**TheValueProp**](https://thevalueprop.io/)
+
+[Confidential Tokens? New cERC20 developed by Inco and Circle Research - YouTube](https://www.youtube.com/watch?v=soIXZNmKO28)

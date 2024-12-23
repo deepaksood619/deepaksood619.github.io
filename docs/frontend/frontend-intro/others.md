@@ -45,7 +45,14 @@ magick input.pdf output.jpg
 magick convert input.pdf output.jpg
 
 # For good quality use these parameters
-convert -density 300 -quality 100 in.pdf out.jpg
+magick convert -density 300 -quality 100 in.pdf out.jpg
+
+# resize image to width 25, keeping aspect ratio
+magick convert -geometry 25x src/image1.png out/image1.png
+magick convert -geometry 600x src/image1.png out/image1.png
+
+# resize image to height 25, keeping aspect ratio
+magick convert -geometry x25 src/image1.png out/image1.png
 
 # [ImageMagick - Command-line Tools: Convert](https://www.imagemagick.org/script/convert.php)
 ```

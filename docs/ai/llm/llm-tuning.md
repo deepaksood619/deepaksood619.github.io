@@ -15,6 +15,7 @@ Supervised fine-tuning means updating a pre-trained language model using labeled
 - Instruction fine-tuning
 - Full fine-tuning
 - Parameter-efficient fine-tuning (PEFT)
+	- [LLM (Parameter Efficient) Fine Tuning - Explained! - YouTube](https://www.youtube.com/watch?v=HcVtpLAGMXo)
 
 ## Links
 

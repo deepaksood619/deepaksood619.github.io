@@ -1408,6 +1408,7 @@
 1404. [NVIDIA’s New AI: Training 10,000x Faster!](https://youtu.be/QCllgrnk8So)
 1405. [How the Bitcoin Protocol Actually Works • Jan Møller • YOW! 2016](https://youtu.be/8Xsut4MQYhg)
 1406. [Mini-ITX Open Chassis](https://youtu.be/MfSvYFR0jqU)
+1407. [Seagate reinvented the hard drive! - YouTube](https://www.youtube.com/watch?v=-HyR373zkX4)
 
 ## Bytebytego
 
@@ -1431,5 +1432,6 @@
 - [Netflix's Tech Stack.](http://youtube.com/post/UgkxObUeIP88QiHb9ACj8-71Os443rMVVfBn)
 - [How Do Search Engines Work?](http://youtube.com/post/Ugkxv1Gf8JJ_igJTVC15cBoFSwN81mFcBVA3)
 - [How do AirTags work?](http://youtube.com/post/Ugkx9VV-A8-DsyFebl-TxGqKzDICxvZAMCiu)
+- [What is OSI Model](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxmobHk4yoFerC9q2dM0b5QqPqzvwtdcDZ)
 
 ## End

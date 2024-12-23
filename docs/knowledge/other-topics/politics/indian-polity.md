@@ -39,6 +39,10 @@ Long years ago we made a tryst with destiny, and now the time comes when we shal
 
 - 2.5 lakhs per minute cost of running parliament
 
+## Bilateral Exercises of the Indian Armed Forces
+
+![](../../../media/Screenshot%202024-12-21%20at%2011.47.56%20PM.jpg)
+
 ## Narendra Modi / PM Modi
 
 - Tanashah - dictator

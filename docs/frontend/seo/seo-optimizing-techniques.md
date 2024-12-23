@@ -90,3 +90,4 @@ Optimizing websites is an art that few are familiar with. The more the engineer 
 
 - [Flat Site Structure: Impact on Conversions and User Engagement | Flowmatters](https://www.flowmatters.com/blog/the-impact-of-flat-site-structure-on-conversion-rates-and-user-engagement/)
 - [What Is the Google E-A-T Principle and How To Apply it | Flowmatters](https://www.flowmatters.com/blog/what-is-the-google-e-a-t-principle-and-how-to-apply-it-to-boost-your-rankings/)
+- Canonicalization in Search - [Handling Dupes - Same Same or Different? | Search Off the Record - YouTube](https://www.youtube.com/watch?v=6bAlB0RHs9c)

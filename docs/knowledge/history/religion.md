@@ -36,3 +36,7 @@ https://en.wikipedia.org/wiki/New_religious_movement
 ## Links
 
 [World Religions Explained (Full Series) - YouTube](https://www.youtube.com/watch?v=nxhSOcyPCVo&ab_channel=UsefulCharts)
+
+[Is Atheism a Religion?: Crash Course Religions #13 - YouTube](https://www.youtube.com/watch?v=CZXFZAxX3UA)
+
+- Non theism

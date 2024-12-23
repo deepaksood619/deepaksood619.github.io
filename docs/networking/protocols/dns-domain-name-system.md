@@ -68,6 +68,10 @@ How long to let record values be cached Shorter = better for fast changing value
 
 ## Most Common Types
 
+![DNS Record Types](../../media/Pasted%20image%2020241221234532.jpg)
+
+[Post from ByteByteGo - YouTube](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=Ugkx6MwYG1xAy1KkNLL1qqpZDR4ted5qpK2S)
+
 ### A
 
 Map domain name to IPv4 address. Ex: example.com => 127.0.0.1

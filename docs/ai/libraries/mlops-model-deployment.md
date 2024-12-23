@@ -157,3 +157,7 @@ https://www.seldon.io
 - [AWS re:Invent 2023 - Introduction to MLOps engineering on AWS (TNC215) - YouTube](https://www.youtube.com/watch?v=2kzJPhgDkDE)
 - [AWS re:Invent 2023 - Zero to machine learning: Jump-start your data-driven journey (SMB204) - YouTube](https://www.youtube.com/watch?v=-CSrOKo8Qgs)
 - [Step-by-Step Guide to Deploying ML Models with Docker](https://www.kdnuggets.com/step-by-step-guide-to-deploying-ml-models-with-docker)
+- [End-to-End Machine Learning Project – AI, MLOps - YouTube](https://www.youtube.com/watch?v=o6vbe5G7xNo)
+	- ZenML
+	- MLflow
+-

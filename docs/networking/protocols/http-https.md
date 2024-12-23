@@ -86,6 +86,7 @@ Of course, despite these features, HTTP2 can also be slow depending on the exact
 
 - HTTP Short Polling
 - HTTP Long Polling
+	- [The genius of long polling - YouTube](https://www.youtube.com/watch?v=5aRamFLgtis)
 - HTTP Periodic Polling
 - HTTP Streaming
 - SSE (Server Sent Events / EventSource)

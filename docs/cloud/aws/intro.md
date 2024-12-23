@@ -61,3 +61,4 @@ https://www.youtube.com/watch?v=3hLmDS179YE
 - [AWS cuts database prices almost 50% and adds distributed scaling capabilities | VentureBeat](https://venturebeat.com/data-infrastructure/aws-cuts-database-prices-almost-50-and-adds-distributed-scaling-capabilities/)
 - [AWS re:Invent 2024 announcements and keynote updates](https://www.aboutamazon.com/news/aws/aws-reinvent-2024-keynote-live-news-updates)
 - [AWS re:Invent 2024 Highlights - reInvent Keynote & New Features Summarized - YouTube](https://www.youtube.com/watch?v=VVGcp_Wypuo)
+- [The AWS re:Invent CEO Keynote with Matt Garman in 10 Minutes - YouTube](https://www.youtube.com/watch?v=rQiziOkJFSg)

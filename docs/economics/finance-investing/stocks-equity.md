@@ -155,3 +155,5 @@ https://www.moneycontrol.com/india-investors-portfolio
 - [Top 5 Themes for Diwali 5️⃣🧨🪔 - YouTube](https://www.youtube.com/watch?v=MuHYNkYOfgA&ab_channel=SOIC)
 - [Spotting Winners in Metals & Mining Sector 🏆 - YouTube](https://www.youtube.com/watch?v=osKVi2JSIzQ&ab_channel=SOIC)
 - [Smart Money is Buying these Stocks! 🏋️‍♀️ - YouTube](https://www.youtube.com/watch?v=rP2QvQI59lE)
+- [I do 0 SIPs now. Here is why (5 better strategies...) | Akshat Shrivastava - YouTube](https://www.youtube.com/watch?v=UYAYMhtBWbE)
+- [SOIC Special (Live)- Spotting Mega Themes - YouTube](https://www.youtube.com/watch?v=aRfkFcOhl7g)

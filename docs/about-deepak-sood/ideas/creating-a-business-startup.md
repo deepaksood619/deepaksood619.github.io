@@ -326,3 +326,4 @@ Discovery commerce is the equivalent of 'I'm feeling lucky' in Google searches. 
 - [Business Building Masterclass - Idea to Product ✈️ - YouTube](https://www.youtube.com/watch?v=juZmbYfGmiU&ab_channel=LabourLawAdvisor)
 - [How To Start A Dev Tools Company | Startup School - YouTube](https://www.youtube.com/watch?v=z1aKRhRnVNk)
 - [Make ₹50 Lakhs in 50 Days | E-Commerce/Business Masterclass - YouTube](https://www.youtube.com/watch?v=N3rZ6glHKTQ)
+- [How Do Indian Founders make 100 Crores Selling Their Companies? - YouTube](https://www.youtube.com/watch?v=zrq7kczXpXQ)

@@ -272,8 +272,6 @@ https://365datascience.teachable.com/courses/enrolled/233558
 
 ![image](../media/Intro-to-Microsoft-Excel-Google-Sheets-image2.jpg)
 
-[Google Sheets - Full Course](https://www.youtube.com/watch?v=N2opj8XzYBY&ab_channel=freeCodeCamp.org)
-
 ## Google Drive
 
 [Set up a shared drive - Google Workspace Learning Center](https://support.google.com/a/users/answer/9310249?authuser=0)
@@ -283,3 +281,8 @@ https://365datascience.teachable.com/courses/enrolled/233558
 ## Google Doc
 
 Extension - Page Sizer
+
+## Links
+
+- [Learn Google Sheets – Full Course for Beginners - YouTube](https://www.youtube.com/watch?v=cWGQncQxaHI)
+- [Google Sheets - Full Course](https://www.youtube.com/watch?v=N2opj8XzYBY&ab_channel=freeCodeCamp.org)

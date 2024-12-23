@@ -167,6 +167,8 @@ https://en.wikipedia.org/wiki/Parliamentary_system
 
 [Permanent revolution - Wikipedia](https://en.wikipedia.org/wiki/Permanent_revolution)
 
+[Who Was Karl Marx? And Why Is Everyone Still Talking About Him? - YouTube](https://www.youtube.com/watch?v=3imIf8NAcWQ)
+
 ## Liberalism
 
 [Every Liberalism Term Explained in 5 Minutes - YouTube](https://www.youtube.com/watch?v=NAq-Qlm-qhA&ab_channel=TheWhiteboardExplainer)

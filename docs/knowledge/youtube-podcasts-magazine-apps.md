@@ -291,9 +291,10 @@
 - [Dr Pal - YouTube](https://www.youtube.com/@DrPal)
 - [Bryan Johnson - YouTube](https://www.youtube.com/@bryanjohnson)
 
-### Countries
+### Countries / Macro
 
 - India - [Lastly - YouTube](https://www.youtube.com/@lastlyy)
+- [Cogito - YouTube](https://www.youtube.com/@cogitoedu)
 
 ### Others
 
