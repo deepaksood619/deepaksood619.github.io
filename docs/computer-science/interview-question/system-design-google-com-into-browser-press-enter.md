@@ -1,6 +1,6 @@
 # System Design - What happens when you type google.com into your browser's address box and press enter?
 
-![What happens when you type a URL into a browser?](../../media/What%20happens%20when%20you%20type%20a%20URL%20into%20a%20browser?.webp)
+![What happens when you type a URL into a browser?](../../media/What-happens-when-you-type-a-URL-into-a-browser.webp)
 
 Ever wondered what exactly happens when you type google.com into your browser's address box and press enter?
 

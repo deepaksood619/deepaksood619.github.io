@@ -395,7 +395,13 @@ https://www.eversql.com/how-to-find-unused-indexes-in-a-mysql-database
 
 ## Full table scans
 
-`select * from sys.x$statements_with_full_table_scans;`
+```sql
+select * from sys.x$statements_with_full_table_scans;`
+
+select * from sys.`x$statement_analysis`;
+
+select * from sys.`x$statements_with_runtimes_in_95th_percentile`;
+```
 
 ## Rebuilding or Repairing Tables or Indexes
 
