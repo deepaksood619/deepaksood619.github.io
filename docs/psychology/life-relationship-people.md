@@ -12,6 +12,8 @@ There are some very smart people in the world who like to solve really hard prob
 
 Like should be treated alike
 
+If you trust me then you shouldn't ask for my account statement and if you don't trust me then you should trust my given account statement - Pandit Jawaharlal Nehru to his father
+
 #### Ernest Hemingway
 
 - Before you talk, listen.

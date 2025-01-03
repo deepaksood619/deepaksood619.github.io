@@ -116,9 +116,14 @@ https://economictimes.indiatimes.com/wealth/save/set-limits-when-it-comes-to-hel
 ## Others
 
 - DINK - Double Income No Kid
+- SINK - Single Income, No Kids
+	- SINBADs" (Single Income, No Boyfriend/Assets/Dude)
 - Double Income No Kids With A Dog/Cat (DINKWAD / DINKWAC)
 - FI-NP-RE / FINPRE - Financially Independent, not planning to Retire Early
 - HENRY - High Earning but Not Rich Yet
+- KIPPERs - Kids in Parents' Pockets Eroding Retirement Savings
+- PODWOGs - Parents of DINKs Without Grandchildren
+- [The Rise In DINKs, SINKs, DINKWADs, KIPPERs And More](https://www.forbes.com/sites/jackkelly/2024/06/20/the-rise-in-dinks-sinks-dinkwads-kippers/)
 
 ## Links
 

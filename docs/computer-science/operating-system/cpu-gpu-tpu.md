@@ -72,3 +72,5 @@ https://dzone.com/articles/nice-cpu-time-ni-time-in-top
 ## Links
 
 [Chasing Silicon: The Race for GPUs](https://www.youtube.com/watch?v=IPre5287P3I)
+
+[5 reasons why Google's Trillium could transform AI and cloud computing - and 2 obstacles | ZDNET](https://www.zdnet.com/article/5-reasons-why-googles-trillium-could-transform-ai-and-cloud-computing-and-2-obstacles/)

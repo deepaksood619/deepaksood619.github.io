@@ -16,6 +16,7 @@
 - https://www.linkedin.com/in/gurmeet-makkar-b410b3b/
 - **Software Developer Good -** https://drive.google.com/drive/folders/1zMuTUjsifK9QVvrwF56oE8EJcgw9YBhJ?usp=sharing
 - **Pradeep Parameswaran**
+- [https://arpitbhayani.me/](https://arpitbhayani.me/)
 
 ![image](../../media/Personality-Profiles-image1.jpg)
 

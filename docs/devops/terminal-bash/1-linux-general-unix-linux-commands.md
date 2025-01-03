@@ -48,6 +48,8 @@ ssh-import-id
 # SSH KeyGen
 ssh-keygen -t rsa -b 4096 -C "deepaksood619@gmail.com"
 
+ssh-keygen -t rsa -b 4096 -C "deepak.sood@dealshare.in"
+
 ssh-keygen -R energy.abc.com # reset the saved key of server
 
 ssh-keygen -t ecdsa -b 521 -C "deepaksood619@gmail.com"

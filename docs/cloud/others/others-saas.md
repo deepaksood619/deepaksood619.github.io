@@ -182,6 +182,13 @@ MuleSoft is a platform that gives IT the tools to automate everything. This incl
 - [Shopflo · A checkout that converts](https://shopflo.com/)
 - Stripe
 - [Social media makes you famous. Nas.io helps you pay rent.](https://nas.io/india)
+- Razorpay
+- Lotuspay
+- [All-in-one payment platform for global businesses | inai](https://inai.io/) - Monitoring
+- PayU
+- Zoho Checkout
+- PhonePe - Payment Gateway
+- CashFree
 
 ## Others
 

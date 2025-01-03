@@ -96,7 +96,7 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 - [30 \[Software Engineering\] research papers you should read - YouTube](https://www.youtube.com/watch?v=kVP1qM9zgaA)
 - [25 Computer Papers You Should Read! - YouTube](https://www.youtube.com/watch?v=_kynGl5hr9U&ab_channel=ByteByteGo)
 
-## Repositories
+## Github Repositories
 
 - https://awesomeopensource.com
 - https://github.com/sindresorhus/awesome
@@ -113,6 +113,7 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 - [GitHub - papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.](https://github.com/papers-we-love/papers-we-love)
 - [GitHub - tycrek/degoogle: A huge list of alternatives to Google products. Privacy tips, tricks, and links.](https://github.com/tycrek/degoogle)
 - [GitHub - cloudcommunity/Cloud-Free-Tier-Comparison: Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison)
+- [17 Mindblowing Github Repositories You Never Knew Existed - DEV Community](https://dev.to/kafeel_ahmad/17-mindblowing-github-repositories-you-never-knew-existed-555g)
 
 ### Example Repositories
 

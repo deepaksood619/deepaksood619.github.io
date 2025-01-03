@@ -12,6 +12,10 @@
 - [CS 886: Recent Advances on Foundation Models](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)
 - [LLM Bootcamp - Spring 2023 - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
 - [GitHub - microsoft/generative-ai-for-beginners: 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/](https://github.com/microsoft/generative-ai-for-beginners)
+- [**AI Skills Navigator**](https://aiskillsnavigator.microsoft.com/en-us)
+	- [Career Essentials in Generative AI by Microsoft and LinkedIn Learning Path | LinkedIn Learning, formerly Lynda.com](https://aka.ms/GenAILearningPathway)
+	- [Microsoft Launches New AI Skills Training and Resources as part of Skill for Jobs Initiative](https://www.linkedin.com/pulse/microsofts-launches-new-ai-skills-training-resources-part-behncken/)
+	- [Ignite Edition Challenge: Microsoft Learn Challenge | Microsoft Learn](https://learn.microsoft.com/en-us/training/topics/event-challenges)
 
 ## AI (Artificial Intelligence) + ML (Machine Learning)
 

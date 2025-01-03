@@ -177,6 +177,7 @@ Extensions that helps make obsidian better
 - https://vinzent03.github.io/obsidian-advanced-uri
 - https://wiki.nikiv.dev/
 - [Slate Star Codex](https://slatestarcodex.com/)
+- [https://arpitbhayani.me/](https://arpitbhayani.me/)
 
 ### Blogs example templates
 

@@ -14,6 +14,7 @@ Not your keys not your coins
     - These types of bitcoin wallets cannot be accessed through the internet. They often involve physical devices (like a USB stick), where bitcoin and other cryptocurrencies can be stored securely offline.
     - Authentication with hardware wallets like the Grid+ Lattice1, Keystone, Ledger, and Trezor.
     - [Ledger Nano S Plus | Ledger](https://shop.ledger.com/products/ledger-nano-s-plus)
+    - [Trezor hardware wallet passphrase and hidden wallet issues](https://trezor.io/support/a/passphrase-hidden-wallets-issues)
 
 - Paper Wallets - [5 Steps to Creating an ULTRA Secure Bitcoin Paper Wallet (2023 Updated)](https://99bitcoins.com/bitcoin-wallet/paper/)
 

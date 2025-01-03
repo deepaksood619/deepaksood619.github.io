@@ -6,6 +6,7 @@
 4. Future the land prices in highly dense environment will go down because people will start moving to rural areas when flying taxis are invented. People's range while traveling will increase given the same amount of time, from current 10 kms in a car to 100 kms in a flying taxi in same 10 mins.
 5. Robotics, AI and flying taxis will significantly change the world, so it's better to move out of India, after babies since a huge population will be a bane instead of boom
 6. Text and Writing is not a very good type of communication for humans, Humans love voice based communication, so AI LLM will reinvent everything. Humans will learn by talking and voice assistants will write and reply everything in real time.
+	1. You can talk 3x faster than you can type.
 
 ## Disrupters
 

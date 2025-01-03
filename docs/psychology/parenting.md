@@ -258,6 +258,8 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [10 month old, first week](https://www.babycentre.co.uk/s1001678/10-month-old-first-week)
 - [How to Drop From Two Naps to One](https://www.whattoexpect.com/first-year/ask-heidi/dropping-morning-nap.aspx)
 - [How to Potty Train Your Baby](https://www.whattoexpect.com/first-year/baby-care/potty-train-your-baby.aspx)
+	- [Tips on Starting Potty Training: How to Potty Train Your Toddler](https://www.whattoexpect.com/toddler/potty-training/how-to-start-potty-training)
+	- Kids are generally not ready to potty train before the age of 2, and some children may wait until as late as 3 1/2.
 - [When Do Babies Start Talking?](https://www.whattoexpect.com/first-year/first-words/)
 - [Nutritional Needs of Babies: the First 12 Months](https://www.whattoexpect.com/first-year/feeding-baby/nutritional-needs-of-babies/)
 - [When Do Babies Understand Directions and Commands?](https://www.whattoexpect.com/toddler/understand-directions/)
@@ -301,3 +303,4 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [Ways to manage your toddler's screen time | BabyCentre](https://www.babycentre.co.uk/a556933/ways-to-manage-your-toddlers-screen-time)
 - [Parenting Mistakes, Raising A Child, Ideal Routine & Psychology | Swati | Josh Talks Aasha - YouTube](https://www.youtube.com/watch?v=dakf6KN93Qs)
 - [Three-Day Potty Training: How It Works and Tips for Success](https://www.whattoexpect.com/toddler/potty-training/3-day-potty-training)
+- [The Best Crafts for Toddlers](https://www.whattoexpect.com/toddler/playtime-tips/crafts-for-toddlers/)

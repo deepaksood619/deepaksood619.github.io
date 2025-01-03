@@ -13,3 +13,4 @@
 - [Developer Roles](developer-roles)
 - [Modeling Languages](modeling-languages)
 - [Change Management](computer-science/software-engineering/change-management.md)
+- [Coding Quotes](knowledge/quotes-proverbs/coding.md)

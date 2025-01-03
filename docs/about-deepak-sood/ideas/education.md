@@ -274,6 +274,12 @@ Just add a module of UPSC in khan academy. It has everything.
 
 ![total-spend-on-research](../../media/Screenshot%202024-12-12%20at%204.37.15%20PM.jpg)
 
+## Boards
+
+- International Baccalaureate (IB) and Cambridge curricula
+- ICSE
+- CBSE
+
 ## Links
 
 - [He's helped THOUSANDS of people learn to code \[Leon Noel of #100devs on freeCodeCamp Podcast #117\] - YouTube](https://www.youtube.com/watch?v=KYAakLooVuE&ab_channel=freeCodeCamp.org)

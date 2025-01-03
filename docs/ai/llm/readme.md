@@ -4,6 +4,7 @@
 - [Models](ai/llm/models.md)
 - [Limitations / Problems](ai/llm/limitations-problems.md)
 - [LLM Building](ai/llm/llm-building.md)
+	- [Langchain](ai/llm/langchain.md)
 - [LLM Tuning](ai/llm/llm-tuning.md)
 - [Design Patterns](ai/llm/design-patterns.md)
 - [RAG Retrieval Augmented Generation](ai/llm/rag-retrieval-augmented-generation.md)

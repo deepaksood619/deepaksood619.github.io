@@ -85,6 +85,7 @@ https://freefincal.com/are-debt-mutual-funds-an-alternative-to-fixed-deposits
 
 [Best Liquid Fund 2025 | Top Liquid Fund 2025 - YouTube](https://www.youtube.com/watch?v=ejkekhSsttU&ab_channel=pranjalkamra)
 
+- **Axis liquid fund direct growth** - (0.15%, Fund size - 33183.3 Cr, Good returns)
 - Quantum liquid fund
 
 ## Gilt funds

@@ -124,7 +124,7 @@ Mis (Monthly Income Scheme) - Limit 9 lakh
 - Single Pay Immediate Annuity Plan
 - Single-Pay Deferred Annuity Plan
 
-[ABSLI Guaranteed Annuity Plus - Guaranteed Income for a Retired Life](https://lifeinsurance.adityabirlacapital.com/retirement-and-pension-plans/absli-guaranteed-annuity-plus)
+[ABSLI Guaranteed Annuity Plus - Guaranteed Income for a Retired Life](https://lifeinsurance.adityabirlacapital.com/retirement-and-pension-plans/absli-guaranteed-annuity-plus) (Aditya Birla Sun Life Immediate)
 
 - Give ₹1 lakh/ month for 5 years and Get ₹ 4.58 lakhs every year till your life
 - 7.63%

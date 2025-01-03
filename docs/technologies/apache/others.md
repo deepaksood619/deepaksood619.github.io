@@ -81,3 +81,9 @@ Storm has many use cases: realtime analytics, online machine learning, continuou
 Storm integrates with the queueing and database technologies you already use. A Storm topology consumes streams of data and processes those streams in arbitrarily complex ways, repartitioning the streams between each stage of the computation however needed.
 
 http://storm.apache.org
+
+## Apache POI
+
+Apache POI is an open-source java library to create and manipulate various file formats based on Microsoft Office. Using POI, one should be able to perform create, modify and display/read operations on the following file formats. For Example, Java doesn’t provide built-in support for working with excel files, so we need to look for open-source APIs for the job.
+
+[Introduction to Apache POI - GeeksforGeeks](https://www.geeksforgeeks.org/apache-poi-introduction/)

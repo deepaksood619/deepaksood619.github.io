@@ -43,6 +43,25 @@ RAG is an AI framework for retrieving facts from an external knowledge base to g
 
 RIG - Retrieval Interleaved Generation - [DataGemma through RIG and RAG - by Bugra Akyildiz](https://mlops.substack.com/p/datagemma-through-rig-and-rag)
 
+#### Contextual Retrieval
+
+Contextual Retrieval (introduced by Anthropic1) addresses a common issue in traditional Retrieval-Augmented Generation (RAG) systems: individual text chunks often lack enough context for accurate retrieval and understanding.
+
+Contextual Retrieval enhances each chunk by adding specific, explanatory context before embedding or indexing it. This preserves the relationship between the chunk and its broader document, significantly improving the system's ability to retrieve and use the most relevant information.
+
+- [Better Context for your RAG with Contextual Retrieval | MLExpert - Get Things Done with AI Bootcamp](https://www.mlexpert.io/blog/rag-contextual-retrieval)
+
+### GraphRAG
+
+- [Enhancing the Accuracy of RAG Applications With Knowledge Graphs | by Tomaz Bratanic | Neo4j Developer Blog | Medium](https://medium.com/neo4j/enhancing-the-accuracy-of-rag-applications-with-knowledge-graphs-ad5e2ffab663)
+- [Enhance Your RAG Applications with Knowledge Graph RAG | Build Intelligent Apps With SingleStore](https://www.singlestore.com/blog/enhance-your-rag-applications-with-knowledge-graph-rag/)
+- [GraphRAG: Unlocking LLM discovery on narrative private data - Microsoft Research](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
+- [GraphRAG: New tool for complex data discovery now on GitHub - Microsoft Research](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/)
+- [Neo4j | 🦜️🔗 LangChain](https://python.langchain.com/docs/integrations/graphs/neo4j_cypher/)
+	- langchain cypher qa chain
+
+![Graph RAG](../../media/Screenshot%202024-12-27%20at%2011.34.53%20AM.jpg)
+
 ## Links
 
 - [What is RAG (Retrieval-Augmented Generation)?](https://aws.amazon.com/what-is/retrieval-augmented-generation)
@@ -63,7 +82,6 @@ RIG - Retrieval Interleaved Generation - [DataGemma through RIG and RAG - by Bug
 - [Building RAG with Open-Source and Custom AI Models](https://www.bentoml.com/blog/building-rag-with-open-source-and-custom-ai-models)
 - [RAG - Retrieval Augmented Generation - YouTube](https://www.youtube.com/playlist?list=PL8motc6AQftn-X1HkaGG9KjmKtWImCKJS)
 - [How to Choose the Right Embedding Model for Your LLM Application | MongoDB](https://www.mongodb.com/developer/products/atlas/choose-embedding-model-rag/)
-- [GraphRAG: New tool for complex data discovery now on GitHub - Microsoft Research](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/)
 - [Building Production RAG Over Complex Documents - YouTube](https://www.youtube.com/watch?v=dI_TmTW9S4c)
 - [Retrieval-Augmented Generation (RAG) Patterns and Best Practices - YouTube](https://www.youtube.com/watch?v=eUY9i1CWmUg)
 - [RAG (Retrieval Augmented Generation) - YouTube](https://www.youtube.com/playlist?list=PLQxDHpeGU14Blorx3Ps1eZJ4XvKET1_vx)

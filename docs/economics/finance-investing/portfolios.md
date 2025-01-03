@@ -227,3 +227,4 @@ https://joinditto.in
 - [Best Sector to Invest for Long Term | Business Cycles & Ambit's Sector Attractiveness Framework - YouTube](https://www.youtube.com/watch?v=mTXkio4dE0Y)
 - [Inside Ashish Kacholia’s Stock Portfolio: Key Lessons from His Investment Strategy 🐳 - YouTube](https://www.youtube.com/watch?v=kUWE1T26du8)
 - [Learn How To Invest In Stock Market For Beginners | Ep 34 - YouTube](https://www.youtube.com/watch?v=Ao7WHrRw_VM)
+- [Nasdaq vs Nifty: How to divide your stock portfolio across Wall Street and Dalal Street in 2025 - The Economic Times](https://economictimes.indiatimes.com/markets/stocks/news/nasdaq-vs-nifty-how-to-divide-your-stock-portfolio-across-wall-street-and-dalal-street-in-2025/articleshow/116846787.cms)

@@ -19,23 +19,23 @@ Consider the followingUITableViewCellconstructor:
 
 - (id)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString *)reuseIdentifier
 
-## What is the purpose of thereuseIdentifier? What is the advantage of setting it to a non-nilvalue?
+## What is the purpose of the reuseIdentifier? What is the advantage of setting it to a non-nil value?
 
-ThereuseIdentifieris used to group together similar rows in anUITableView; i.e., rows that differ only in their content, but otherwise have similar layouts.
+The reuseIdentifier is used to group together similar rows in an UITableView; i.e., rows that differ only in their content, but otherwise have similar layouts.
 
-AUITableViewwill normally allocate just enoughUITableViewCellobjects to display the content visible in the table. IfreuseIdentifieris set to a non-nilvalue, then when the table view is scrolled, UITableViewwill first attempt to reuse an already allocatedUITableViewCellwith the samereuseIdentifier. IfreuseIdentifierhas not been set, theUITableViewwill be forced to allocate newUITableViewCellobjects for each new item that scrolls into view, potentially leading to laggy animations.
+A UITableView will normally allocate just enough UITableView Cell objects to display the content visible in the table. If reuseIdentifier is set to a non-nil value, then when the table view is scrolled, UITableView will first attempt to reuse an already allocated UITableViewCell with the same reuseIdentifier. If reuseIdentifier has not been set, the UITableView will be forced to allocate new UITableView Cell objects for each new item that scrolls into view, potentially leading to laggy animations.
 
 ## What are different ways that you can specify the layout of elements in aUIView?
 
 Here are a few common ways to specify the layout of elements in aUIView:
 
-- Using InterfaceBuilder, you can add aXIBfile to your project, layout elements within it, and then load theXIBin your application code (either automatically, based on naming conventions, or manually). Also, using InterfaceBuilder you can create astoryboardfor your application.
-- You can your own code to useNSLayoutConstraintsto have elements in a view arranged by Auto Layout.
-- You can createCGRects describing the exact coordinates for each element and pass them toUIView's- (id)initWithFrame:(CGRect)framemethod.
+- Using InterfaceBuilder, you can add a XIB file to your project, layout elements within it, and then load theXIBin your application code (either automatically, based on naming conventions, or manually). Also, using InterfaceBuilder you can create a storyboard for your application.
+- You can your own code to use NSLayoutConstraints to have elements in a view arranged by Auto Layout.
+- You can createCGRects describing the exact coordinates for each element and pass them toUIView's- (id)initWithFrame:(CGRect) frame method.
 
 ## What is the difference between atomic and nonatomic properties? Which is the default for synthesized properties (Ans - Atomic)? When would you use one vs. the other?
 
-Properties specified asatomicare guaranteed to always return a fully initialized object. This also happens to be the default state for synthesized properties so, while it's a good practice to specifyatomicto remove the potential for confusion, if you leave it off, your properties will still beatomic. This guarantee of atomic properties comes at a cost to performance, however. If you have a property for which you know that retrieving an uninitialized value is not a risk (e.g. if all access to the property is already synchronized via other means), then setting it tononatomiccan gain you a bit of performance.
+Properties specified as atomic are guaranteed to always return a fully initialized object. This also happens to be the default state for synthesized properties so, while it's a good practice to specify atomic to remove the potential for confusion, if you leave it off, your properties will still beatomic. This guarantee of atomic properties comes at a cost to performance, however. If you have a property for which you know that retrieving an uninitialized value is not a risk (e.g. if all access to the property is already synchronized via other means), then setting it to nonatomic can gain you a bit of performance.
 
 ## What's the difference between an "app ID" and a "bundle ID" and what is each used for?
 
@@ -66,9 +66,9 @@ You can think of a managed object context as an intelligent scratch pad. When yo
 
 Key functionality provided by amanaged object contextincludes:
 
-- **Life-cycle management.**The context provides validation, inverse relationship handling, and undo/redo. Through a context you can retrieve or "fetch" objects from a persistent store, make changes to those objects, and then either discard the changes or commit them back to the persistent store. The context is responsible for watching for changes in its objects and maintains an undo manager so you can have finer-grained control over undo and redo. You can insert new objects and delete ones you have fetched, and commit these modifications to the persistent store.
-- **Notifications.**A context posts notifications at various points which can optionally be monitored elsewhere in your application.
-- **Concurrency.**Core Data uses thread (or serialized queue) confinement to protect managed objects and managed object contexts. In OS X v10.7 and later and iOS v5.0 and later, when you create a context you can specify the concurrency pattern with which you will use it usinginitWithConcurrencyType:.
+- **Life-cycle management.** The context provides validation, inverse relationship handling, and undo/redo. Through a context you can retrieve or "fetch" objects from a persistent store, make changes to those objects, and then either discard the changes or commit them back to the persistent store. The context is responsible for watching for changes in its objects and maintains an undo manager so you can have finer-grained control over undo and redo. You can insert new objects and delete ones you have fetched, and commit these modifications to the persistent store.
+- **Notifications.** A context posts notifications at various points which can optionally be monitored elsewhere in your application.
+- **Concurrency.** Core Data uses thread (or serialized queue) confinement to protect managed objects and managed object contexts. In OS X v10.7 and later and iOS v5.0 and later, when you create a context you can specify the concurrency pattern with which you will use it using initWithConcurrencyType:.
 
 Compare and contrast the different ways of achieving concurrency in OS X and iOS. (no)
 
@@ -107,3 +107,11 @@ What are rendering options forJSONSerialization? (not)
 https://www.toptal.com/ios/interview-questions
 
 Swift - https://www.toptal.com/swift/interview-questions
+
+## TestFlight
+
+Beta testing made simple with TestFlight
+
+TestFlight makes it easy for testers to give feedback on your apps, games, and App Clips across Apple platforms before you publish. Share your beta with just your team, or the public. Learn how to get started with TestFlight.
+
+[TestFlight - Apple Developer](https://developer.apple.com/testflight/)

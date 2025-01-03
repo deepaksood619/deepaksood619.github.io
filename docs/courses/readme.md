@@ -63,9 +63,15 @@
 
 ## Certifications
 
+### Career Essentials in Generative AI by Microsoft and LinkedIn (Jan 2025)
+
+[Career Essentials in Generative AI by Microsoft and LinkedIn Learning Path | LinkedIn Learning, formerly Lynda.com](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin)
+
 ### Introduction to Generative AI (Sept 2024)
 
 [Introduction to Generative AI | Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/1f158c1e-44d1-4d15-b0c7-48b1cce0f1b2/badges/11173360)
+
+[Introduction to Generative AI | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/536)
 
 ### HackerRank (Nov 2023)
 

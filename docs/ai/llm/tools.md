@@ -56,8 +56,10 @@
     - [Chat D-ID](https://chat.d-id.com/)
 - AI generated presentation
     - [Gamma App](https://gamma.app/)
+    - https://www.presentations.ai/
     - [Presentation Software | Basic to Beautiful in Minutes with Beautiful.ai](https://www.beautiful.ai/)
     - [Decktopus | Create Better Presentations | AI Presentation Assistant](https://app.decktopus.com/dashboard/decks)
+    - https://www.mentimeter.com/features/ai-builder
     - [Plus AI for Google Slides™ - Google Workspace Marketplace](https://wvorkspace.google.com/u/0/marketplace/app/plus_ai_for_google_slides/214277172452)
 - [AudioPen - The easiest way to convert messy thoughts into clear text.](https://audiopen.ai/)
 - [Instantly.ai - Cold Email Software](https://instantly.ai/)
@@ -107,6 +109,7 @@
 - [Knorish Flow AI - Knorish](https://knorish.com/knorish-flow-ai.html)
 	- Clone yourself with AI using your content. Coach and mentor your audience 24/7 with an AI digital version of yourself, offering expert advice and insights.
 - [Study.lol/](http://study.lol/) - Youtube.com summarizer
+- [Seyhan Lee](https://seyhanlee.com/)
 
 ![ai-tools](../../media/image.jpg)
 
