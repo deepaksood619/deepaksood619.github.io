@@ -74,3 +74,15 @@ The application of Isolation Forest for anomaly detection proved effective in id
 This case study demonstrates the practical application of AI/ML in anomaly detection, showcasing the ability to process and analyze large datasets, extract valuable insights, and ensure the reliability of metric data.
 
 [Leveraging AI for efficient incident response - Engineering at Meta](https://engineering.fb.com/2024/06/24/data-infrastructure/leveraging-ai-for-efficient-incident-response/)
+
+## Variational autoencoder
+
+In machine learning, a variational autoencoder (VAE) is an artificial neural network architecture introduced by Diederik P. Kingma and Max Welling. It is part of the families of probabilistic graphical models and variational Bayesian methods.
+
+In addition to being seen as an autoencoder neural network architecture, variational autoencoders can also be studied within the mathematical formulation of variational Bayesian methods, connecting a neural encoder network to its decoder through a probabilistic latent space (for example, as a multivariate Gaussian distribution) that corresponds to the parameters of a variational distribution.
+
+[Variational autoencoder - Wikipedia](https://en.wikipedia.org/wiki/Variational_autoencoder)
+
+[Anomaly Detection using VAEs | Kaggle](https://www.kaggle.com/code/lucfrachon/anomaly-detection-using-vaes)
+
+[Anomaly Detection Using a Variational Autoencoder, Part II | by Luc Frachon | Medium](https://medium.com/@luc.frachon/anomaly-detection-using-a-variational-autoencoder-part-ii-beeb30f0d88f)

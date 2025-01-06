@@ -83,9 +83,19 @@ A final option is available to run the migration only on the replica without imp
 
 Note that if your schema has foreign keys then Gh-ost may not operate cleanly, as this configuration is not supported.
 
+### Ghost Tables
+
+A ghost table is a database table that is no longer in use but still takes up space. Ghost tables are often created during schema changes or data migrations
+
+### Links
+
 https://github.com/github/gh-ost
 
 https://www.infoworld.com/article/3241730/top-5-open-source-tools-for-mysql-administrators.html
+
+[GH-OST for MySQL Schema Change.](https://www.mydbops.com/blog/gh-ost-for-mysql-schema-change)
+
+[How we Altered a MySQL Table with 50 Million Rows without Downtime using gh-ost - Browntape](https://browntape.com/how-we-altered-a-mysql-table-with-50m-rows-without-downtime-with-gh-ost/)
 
 Alternatives - [GitHub - cashapp/spirit: Online Schema Change Tool for MySQL 8.0+](https://github.com/cashapp/spirit)
 

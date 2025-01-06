@@ -1099,4 +1099,14 @@ If intelligence is the ability to respond to any argument, wisdom lies in knowin
 
 Archbishop Desmond Tutu said, "There comes a point where we need to stop just pulling people out of the river. We need to go upstream and find out why they're falling in".
 
+**7 Rules of Life**
+
+1. Let It Go - Never Ruin a Good Day By Thinking About a Bad Yesterday.
+2. Ignore Them - Don't Listen to Other People. Live a Life That's Empowering to You.
+3. Give It Time - Time Heals Everything
+4. Don T Compare - the Only Person You Should Try to Beat is the Person You Were Yesterday.
+5. Stay Calm - It's Okay Not to Have Everything Figured Out. Know That in Time, Youll Get There.
+6. It's on You - Only You Are in Charge of Your Happiness.
+7. Smile - Life is Short. Enjoy It While You Have It.
+
 ## End

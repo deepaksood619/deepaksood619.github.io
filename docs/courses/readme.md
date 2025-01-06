@@ -65,6 +65,10 @@
 
 ### Career Essentials in Generative AI by Microsoft and LinkedIn (Jan 2025)
 
+[Certificate of Completion - Career Essentials in Generative AI by Microsoft and LinkedIn Learning](https://www.linkedin.com/learning/certificates/db9064448d1bb57cf458424d6af5bb635f7b23091c06c40780e25a24825b1dc5?trk=share_certificate)
+
+[Deepak Sood on LinkedIn: Certificate of Completion](https://www.linkedin.com/posts/deepaksood619_certificate-of-completion-activity-7281051167688663041-xD9_)
+
 [Career Essentials in Generative AI by Microsoft and LinkedIn Learning Path | LinkedIn Learning, formerly Lynda.com](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin)
 
 ### Introduction to Generative AI (Sept 2024)

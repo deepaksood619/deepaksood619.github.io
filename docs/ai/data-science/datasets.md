@@ -32,6 +32,12 @@ The Beyond the Imitation Game Benchmark (BIG-bench) is a _collaborative_ bench
 
 [Common Crawl - Blog - October 2024 Crawl Archive Now Available](https://www.commoncrawl.org/blog/october-2024-crawl-archive-now-available)
 
+### LAION (Large-scale Artificial Intelligence Open Network)
+
+[LAION-5B: A NEW ERA OF OPEN LARGE-SCALE MULTI-MODAL DATASETS | LAION](https://laion.ai/blog/laion-5b/)
+
+[LAION - Wikipedia](https://en.wikipedia.org/wiki/LAION)
+
 ## YCSB Workloads
 
 YCSB includes a set of core workloads that define a basic benchmark for cloud systems.

@@ -26,14 +26,17 @@
 - **Aurora MySQL**
     - db.r6g.xlarge - 751.04 USD
     - db.r6g.large - 534.96 USD
+    - IO Costs extra
 - **Amazon RDS for MySQL**
     - db.r6g.xlarge - 1,242.49 USD
+    - 1x storage backup costs included
 - **Aurora Serverless v2**
     - 3 ACU - 713.81 USD
     - 10 ACU - 1,633.61 USD
 - **EC2 m7g.xlarge**
     - 609.39 USD with EC2 Instance Savings Plans
     - m5a.xlarge - 634.21 USD with On demand
+    - Backup Costs extra
 - **Aurora IO Optimized**
     - db.r6g.xlarge - 1,068.54 USD
 

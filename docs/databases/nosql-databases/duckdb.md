@@ -33,3 +33,4 @@ brew install duckdb
 - [DuckDB – An in-process SQL OLAP database management system](https://duckdb.org/)
 - [GitHub - duckdb-in-action/examples](https://github.com/duckdb-in-action/examples)
 - [Introduction to DuckDB: A Guide for Data Analysis | DataCamp](https://www.datacamp.com/blog/an-introduction-to-duckdb-what-is-it-and-why-should-you-use-it)
+- [Handling Billions of Rows with SQL in Minutes Using DuckDB | Towards Data Science](https://towardsdatascience.com/handling-billions-of-records-in-minutes-with-sql-%EF%B8%8F-484d2d6027bc)
