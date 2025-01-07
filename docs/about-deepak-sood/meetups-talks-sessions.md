@@ -1,5 +1,22 @@
 # Meetups / Talks / Sessions
 
+### Kong in Action: Simplifying API Management for Modern Applications - CNCG (18 January 2024)
+
+In today’s rapidly evolving digital landscape, efficient API management is the cornerstone of seamless application performance, scalability, and security. Join us for an insightful session on **"Kong in Action: Simplifying API Management for Modern Applications"**, where we unravel the power of Kong as a leading API gateway and management solution.
+
+This session introduces Kong’s key features, including load balancing, traffic control, authentication, observability, and its plugin-driven architecture. Learn why API management is critical for modern application ecosystems and how Kong empowers developers to streamline API lifecycle management effortlessly.
+
+**Key Takeaways**
+
+- Explore real-world use cases showcasing Kong’s transformative capabilities in diverse industries.
+- Understand the "why" behind API management and its role in enabling secure, scalable, and efficient integrations.
+- Dive into API lifecycle management with Kong, covering design, deployment, monitoring, and iteration.
+- Get actionable tips for getting started with Kong effectively, whether you're deploying on-premises or in the cloud.
+
+Whether you’re a developer, architect, or tech enthusiast, this session offers valuable insights into leveraging Kong to simplify API management, reduce operational overhead, and future-proof your applications. Let’s simplify API management together!
+
+[See API Kong-Versations:Gateway to 2025 at CNCF New Delhi](https://community.cncf.io/events/details/cncf-new-delhi-presents-api-kong-versationsgateway-to-2025/)
+
 ### Podcast - Stream Processing using Kafka and Flink (20 December 2024)
 
 - Transcript - [Podcast - Stream Processing using Kafka and Flink](about-deepak-sood/projects/43-podcast-stream-processing-using-kafka-and-flink.md)
@@ -24,7 +41,7 @@ Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of expe
 - [Simplifying API Management for modern Application , Sat, Dec 14, 2024, 11:00 AM | Meetup](https://www.meetup.com/kong-delhi/events/304930016/?slug=kong-delhi&eventId=304930016)
 - [Deepak Sood on LinkedIn: #kongmeetup #apimanagement #techtalks #networking #delhitechcommunity](https://www.linkedin.com/feed/update/urn:li:share:7272973093516582912/)
 - [Kong](devops/others/kong.md)
-- [\[Meetup\] Mastering APIOps:From spec to portal with kong's Tools & Best Practices, Sat, Dec 7, 2024, 10:30 AM | Meetup](https://www.meetup.com/kong-bengaluru/events/302975712/)
+- [Meetup - Mastering APIOps:From spec to portal with kong's Tools & Best Practices, Sat, Dec 7, 2024, 10:30 AM | Meetup](https://www.meetup.com/kong-bengaluru/events/302975712/)
 
 ### Neo4j Enablement Session at Opstree (12 December 2024)
 

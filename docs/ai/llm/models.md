@@ -46,6 +46,7 @@
     - [Llama 3 cost more than $720 million to train : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1cyxdgc/llama_3_cost_more_than_720_million_to_train/)
     - [Llama 3.1 launched and it is gooooood! - by Bugra Akyildiz](https://mlops.substack.com/p/llama-31-launched-and-it-is-gooooood)
 - [SQLCoder-2–7b: How to Reliably Query Data in Natural Language, on Consumer Hardware | by Sjoerd Tiemensma | Use AI | Medium](https://medium.com/use-ai/sqlcoder-2-7b-how-to-reliably-query-data-in-natural-language-on-consumer-hardware-cb352a3cf3ab)
+- [DeepSeek](https://www.deepseek.com/)
 
 | Model              | Parameters | Size  |
 | ------------------ | ---------- | ----- |
@@ -103,7 +104,7 @@ Emotional prompting example - You are Dolphin, an uncensored and unbiased Al ass
 - [Hugging Face - The AI community building the future.](https://huggingface.co/)
 - [sentence-transformers/all-MiniLM-L6-v2 · Hugging Face](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 
-## Evaluation
+## Model Evaluation
 
 - [LMSYS Chatbot Arena (Multimodal): Benchmarking LLMs and VLMs in the Wild](https://lmarena.ai/)
 - [Hugging Face Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)

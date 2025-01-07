@@ -66,6 +66,16 @@ MariaDB intended to maintain high compatibility with MySQL, ensuring a drop-in r
 
 Its lead developer/CTO is [Michael "Monty" Widenius](https://en.wikipedia.org/wiki/Michael_Widenius), one of the founders of [MySQL AB](https://en.wikipedia.org/wiki/MySQL_AB) and the founder of Monty Program AB. On 16 January 2008, MySQL AB announced that it had agreed to be acquired by [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems) for approximately $1 billion. The acquisition completed on 26 February 2008. Sun was then bought the following year by Oracle Corporation. MariaDB is named after Monty's younger daughter, Maria. (MySQL is named after his other daughter, My.)
 
+Editors
+
+- MySQLWorkbench
+- Windows - [Database Workbench - MariaDB Knowledge Base](https://mariadb.com/kb/en/database-workbench/)
+- [Sequel Pro](https://sequelpro.com/)
+- [Heidi Sql](http://www.heidisql.com/)
+- [SQLyog](https://www.webyog.com/)
+
+[mariadb-report - MariaDB Knowledge Base](https://mariadb.com/kb/en/mariadb-report/)
+
 ## MySQL 5 vs MySQL 8
 
 https://mysqlserverteam.com/whats-new-in-mysql-8-0-generally-available

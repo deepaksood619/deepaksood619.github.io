@@ -47,6 +47,16 @@ There are mainly two ways of deploying an ML model:
 
 [MLOps guide](https://huyenchip.com/mlops/)
 
+### MLOps Components
+
+- Version Control
+- CI/CD
+- Orchestration
+- Experiment Tracking & Model Registry
+- Data Lineage & Feature Stores
+- Model Training & Serving
+- Monitoring & Observability
+
 ## Tools
 
 ### KubeFlow
@@ -160,4 +170,3 @@ https://www.seldon.io
 - [End-to-End Machine Learning Project – AI, MLOps - YouTube](https://www.youtube.com/watch?v=o6vbe5G7xNo)
 	- ZenML
 	- MLflow
--

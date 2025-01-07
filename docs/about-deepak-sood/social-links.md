@@ -40,6 +40,7 @@
 - Instagram - https://instagram.com/deepaksood619/
 - Facebook - https://www.facebook.com/deepaksood619
 - Twitter - https://twitter.com/deepaksood619
+	- https://x.com/deepaksood619
 - Skype Username - deepaksood619@gmail.com
 - Github Personal - https://github.com/deepaksood619
 - Gitlab Personal - [Deepak Sood · GitLab](https://gitlab.com/deepaksood619)

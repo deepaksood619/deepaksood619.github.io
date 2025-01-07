@@ -210,6 +210,26 @@ A business sends an RFP when they need more information about a product or servi
 - https://blog.trello.com/50-project-management-terms-you-should-know
 - https://blog.trello.com/most-common-project-blockers
 
+## Project Management Delivery
+
+If you are leading a project, your only responsibility is to ensure it is delivered, whatever it takes. Here are a few pointers that I have followed
+
+1. avoid being blocked, always find a way out
+2. if there is a chance of a delay, communicate early
+3. always look for trade-offs and make sure we pick the right one
+4. estimate timelines well; good estimation reduces chaos
+5. influence others so that they prioritize our tasks
+6. always reiterate key details to ensure alignment, there is no such thing as over-communication.
+
+On the technical and execution side, here's what I ensure
+
+1. form a deep understanding and high clarity about the project
+2. create a solid plan, reduce ambiguity, and keep the team focused
+3. be agile, monitor progress, revise plan if required
+4. make sure every single person involved in the project is aligned
+
+Delivering a project requires very high focus, clarity, and persistence. Keep the big picture in mind, but execute with attention to detail.
+
 ## Links
 
 [The Complete Project Management Body of Knowledge in One Video (PMBOK 7th Edition) - YouTube](https://www.youtube.com/watch?v=2gmCr40uT4U&ab_channel=DavidMcLachlan)

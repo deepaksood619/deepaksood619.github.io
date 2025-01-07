@@ -108,3 +108,5 @@ Jepsen is an effort to improve the safety of distributed databases, queues, cons
 [Rapydo | Cloud Database Automation](https://www.rapydo.io/)
 
 [Cloud Data Management Solution, AWS Backup and Recovery | NIMESA](https://nimesa.io/)
+
+[Sequel Pro](https://sequelpro.com/)

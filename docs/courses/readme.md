@@ -26,6 +26,7 @@
 5. [Credit Risk Modeling in Python](courses/course-credit-risk-modeling/syllabus.md)
 6. [Time Series Analysis in Python](courses/course-time-series-analysis/syllabus.md)
 7. [Customer Analytics in Python](courses/customer-analytics-in-python/syllabus.md)
+	1. [Marketing mix modeling (MMM)](courses/customer-analytics-in-python/marketing-mix-modeling-MMM.md)
 8. [Mathematics](courses/365-ds-mathematics.md)
 
 ## Others

@@ -44,6 +44,7 @@
 
 - [Free Website Speed Test | Testing And Monitoring](https://www.debugbear.com/test/website-speed)
 - [Website Speed Test | Pingdom Tools](https://tools.pingdom.com/)
+- [PageSpeed Insights](https://pagespeed.web.dev/)
 
 ## Tools
 

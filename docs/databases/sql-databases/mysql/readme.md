@@ -18,18 +18,19 @@
 - [Thread States](databases/sql-databases/mysql/thread-states.md)
 - [SQL / MySQL Tools](sql-mysql-tools)
 - [Percona Toolkit](databases/sql-databases/mysql/percona-toolkit.md)
-- Backup
-    - [Backup Types](databases/sql-databases/mysql/backup-types.md)
-    - [Backup Policy](databases/sql-databases/mysql/backup-policy.md)
-    - [Backup Comparisons](databases/sql-databases/mysql/backup-comparisons.md)
-    - [mysqldump](databases/sql-databases/mysql/mysqldump.md)
-    - [mydumper](databases/sql-databases/mysql/mydumper.md)
-    - [percona-xtrabackup](databases/sql-databases/mysql/percona-xtrabackup.md)
 - [Others](databases/sql-databases/mysql/others.md)
 
-[B.3.7 Known Issues in MySQL](https://dev.mysql.com/doc/refman/8.4/en/known-issues.html)
+### Backup
+
+- [Backup Types](databases/sql-databases/mysql/backup-types.md)
+- [Backup Policy](databases/sql-databases/mysql/backup-policy.md)
+- [Backup Comparisons](databases/sql-databases/mysql/backup-comparisons.md)
+- [mysqldump](databases/sql-databases/mysql/mysqldump.md)
+- [mydumper](databases/sql-databases/mysql/mydumper.md)
+- [percona-xtrabackup](databases/sql-databases/mysql/percona-xtrabackup.md)
 
 ### Others
 
 - [Amazon Aurora](databases/sql-databases/aws-aurora/readme.md)
 - [Amazon RDS](databases/sql-databases/amazon-rds.md)
+- [B.3.7 Known Issues in MySQL](https://dev.mysql.com/doc/refman/8.4/en/known-issues.html)

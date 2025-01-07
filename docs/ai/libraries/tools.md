@@ -194,6 +194,7 @@ https://www.cortex.dev
 	- SHAP (SHapley Additive exPlanations)
 	- FastAPI
 	- Docker
+- [GitHub - feast-dev/feast: The Open Source Feature Store for Machine Learning](https://github.com/feast-dev/feast)
 
 ## SAAS Tools
 
