@@ -53,6 +53,10 @@ Data source filters in Tableau are mainly used to restrict sensitive data from v
 
 [https://public.tableau.com/app/profile/nastengraph/viz/Howtoplacelegendstocharts/Legendsandcharts](https://public.tableau.com/app/profile/nastengraph/viz/Howtoplacelegendstocharts/Legendsandcharts)
 
+## Embeddings
+
+[Embed Views into Webpages - Tableau](https://help.tableau.com/current/pro/desktop/en-us/embed.htm)
+
 ## Links
 
 [Tableau Dashboard for Sample Superstore Dataset - YouTube](https://www.youtube.com/watch?v=C5KSjZe5yWQ)

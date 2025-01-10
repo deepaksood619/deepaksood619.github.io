@@ -80,6 +80,14 @@ The six main KRAs of Tech Leadership
 5. Security & Compliance: Protect customer data. Lower security incident rates. Ensure successful compliance audits.
 6. Strategic Impact: Drive revenue growth and minimize risks with leanness, agility and scalability.
 
+[5 skills to develop to grow from Senior to Staff Engineer](https://newsletter.eng-leadership.com/p/5-skills-to-develop-to-grow-from)
+
+1. Extreme Ownership
+2. Ruthless Execution
+3. Sees chaos as a ladder
+4. Malleability
+5. Non-ambiguous Communicator
+
 ## Links
 
 [https://mfi.engineering/money-forward-i-engineering-2021-43e473dca440](https://mfi.engineering/money-forward-i-engineering-2021-43e473dca440)

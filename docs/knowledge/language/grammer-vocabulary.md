@@ -150,7 +150,8 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - **apathy - lack of interest, enthusiasm or concern**
 - terse - sparing in the use of words; abrupt
 - temperament - a person's or animal's nature, especially as it permanently affects their behaviour
-- hypocrisy - the practice of claiming to have higher standards or more noble beliefs than is the case
+- **hypocrisy** - the practice of claiming to have higher standards or more noble beliefs than is the case
+	- **hypocrite** - A person who shows double standards, such as considering others' mistakes as significant while dismissing their own.
 - Heuristic
     - enabling someone to discover or learn something for themselves.
     - proceeding to a solution by trial and error or by rules that are only loosely defined.

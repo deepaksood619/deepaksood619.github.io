@@ -1,5 +1,7 @@
 # GCP BigQuery / Big Query
 
+BigQuery is a serverless data analytics platform. You don't need to provision individual instances or virtual machines to use BigQuery. Instead, BigQuery automatically allocates computing resources as you need them. You can also reserve compute capacity ahead of time in the form of _slots_, which represent virtual CPUs
+
 ## Architecture
 
 - Dremel - The execution engine
@@ -35,6 +37,65 @@ dataset_ref = client.dataset("hacker_news", project="bigquery-public-data")
 dataset_ref = client.dataset("chicago_crime", project="bigquery-public-data")
 dataset = client.get_dataset(dataset_ref)
 ```
+
+## Queries
+
+### Data scanning analysis
+
+```sql
+-- find how much data is being scanned by month
+SELECT
+  FORMAT_TIMESTAMP('%Y-%m', creation_time) AS month,
+  ROUND(SUM(total_bytes_processed) / POW(2, 30), 2) AS total_gb_scanned
+FROM
+  `region-asia-south1.INFORMATION_SCHEMA.JOBS_BY_PROJECT`
+WHERE
+  state = 'DONE'
+  AND job_type = 'QUERY'
+  AND creation_time BETWEEN TIMESTAMP('2024-01-01') AND CURRENT_TIMESTAMP()
+GROUP BY
+  month
+ORDER BY
+  month;
+
+-- find how much data is being scanned by day
+SELECT
+  FORMAT_TIMESTAMP('%Y-%m-%d', creation_time) AS day,
+  ROUND(SUM(total_bytes_processed) / POW(2, 30), 2) AS total_gb_scanned
+FROM
+  `region-REGION_NAME.INFORMATION_SCHEMA.JOBS_BY_PROJECT`
+WHERE
+  state = 'DONE'
+  AND job_type = 'QUERY'
+  AND creation_time BETWEEN TIMESTAMP('2025-01-01') AND CURRENT_TIMESTAMP()
+GROUP BY
+  day
+ORDER BY
+  day;
+
+-- find the top queries that scanned the most amount of data
+SELECT
+  query,
+  user_email,
+  COUNT(*) AS query_count,
+  ROUND(SUM(total_bytes_processed) / POW(2, 30), 2) AS total_gb_scanned,
+  ROUND(SUM(total_bytes_processed) / COUNT(*) / POW(2, 30), 2) AS avg_gb_scanned_per_query,
+  ARRAY_AGG(FORMAT_TIMESTAMP('%Y-%m-%d %H:%M:%S', creation_time) ORDER BY creation_time) AS query_run_timestamps
+FROM
+  `region-asia-south1.INFORMATION_SCHEMA.JOBS_BY_PROJECT`
+WHERE
+  state = 'DONE'
+  AND job_type = 'QUERY'
+  AND creation_time BETWEEN TIMESTAMP('2025-01-01') AND CURRENT_TIMESTAMP()
+GROUP BY
+  query,
+  user_email
+ORDER BY
+  total_gb_scanned DESC
+LIMIT 10;
+```
+
+### SQL
 
 ```sql
 -- standardSQL
@@ -77,6 +138,20 @@ ORDER BY
 Queries (on-demand) - $6.25 per TiB - The first 1 TiB per month is free.
 
 [Pricing  |  BigQuery: Cloud Data Warehouse  |  Google Cloud](https://cloud.google.com/bigquery/pricing)
+
+[Understand slots  \|  BigQuery  \|  Google Cloud](https://cloud.google.com/bigquery/docs/slots)
+
+- A BigQuery slot is a virtual compute unit used by BigQuery to execute SQL queries or other job types. During the execution of a query, BigQuery automatically determines how many slots are used by the query. The number of slots used depends on the amount of data being processed, the complexity of the query, and the number of slots available.
+- Fair scheduling in BigQuery
+- Idle slots
+
+[Quotas and limits  \|  BigQuery  \|  Google Cloud](https://cloud.google.com/bigquery/quotas)
+
+[Estimate and control costs  \|  BigQuery  \|  Google Cloud](https://cloud.google.com/bigquery/docs/best-practices-costs)
+
+[Pricing  \|  BigQuery: Cloud Data Warehouse  \|  Google Cloud](https://cloud.google.com/bigquery/pricing)
+
+[Estimate and control costs  \|  BigQuery  \|  Google Cloud](https://cloud.google.com/bigquery/docs/best-practices-costs)
 
 ## Others
 

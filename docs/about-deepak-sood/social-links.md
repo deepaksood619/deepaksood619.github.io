@@ -79,3 +79,4 @@ Company Name
 ## Posts
 
 - [Deepak Sood on LinkedIn: #ai #data #devops #leadership #learning #growth #thankful #opstree…](https://www.linkedin.com/posts/deepaksood619_ai-data-devops-activity-7275592636168597509-nfyQ?utm_source=share&utm_medium=member_desktop)
+- [Deepak Sood on LinkedIn: #dataengineering #ecommerce #collaboration #learning #growth #dealshare…](https://www.linkedin.com/feed/update/urn:li:share:7283203790399291394/)

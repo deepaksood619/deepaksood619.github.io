@@ -20,6 +20,20 @@ https://public.tableau.com/en-us/gallery/travel-planner-emissions-calculator
 
 [8 Most-Favorited Data Visualizations on Tableau Public](https://www.tableau.com/blog/8-most-favorited-data-visualizations-tableau-public)
 
+## Types
+
+- Tableau Server
+- Tableau Online
+
+### Hosting & Infrastructure
+
+| **Aspect**              | **Tableau Server**                                                     | **Tableau Online**                                          |
+| ----------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------- |
+| **Hosting**             | Self-hosted on-premise or in a private cloud (e.g., AWS, Azure, GCP).  | Hosted by Tableau (cloud-based SaaS solution).              |
+| **Infrastructure**      | Managed by your organization’s IT team.                                | Managed entirely by Tableau.                                |
+| **Setup & Maintenance** | Requires installation, configuration, and updates by the organization. | No setup required; Tableau handles updates and maintenance. |
+| **Hardware Costs**      | Organization bears hardware and infrastructure costs.                  | No hardware costs; pricing is subscription-based.           |
+
 ## Debugging
 
 Client-side redering - `:render=false`

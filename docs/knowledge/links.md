@@ -7939,5 +7939,6 @@
 7925. [You need to do this in JOB INTERVIEWS!](https://youtu.be/krJYKP13J2k)
 7926. [How I built my own 27Cr Mutual Fund. And pay 0% commissions on it | Aksh...](https://youtu.be/lN_0PqASmlk)
 7927. [2025 tech trends to look out for](https://youtu.be/CM2TgIEcvpc)
+7928. [OnePlus 13 Series Winter Launch Event - YouTube](https://www.youtube.com/watch?v=QODMZuqbhhI&ab_channel=OnePlus)
 
 ## End
