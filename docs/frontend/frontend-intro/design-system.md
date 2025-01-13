@@ -32,12 +32,18 @@ https://atomicdesign.bradfrost.com/table-of-contents
 ## Tools
 
 - Frontify
-- Zeplin
-- Lona
+
+### Lona
 
 A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.
 
 https://github.com/airbnb/Lona
+
+### Zeplin
+
+A design delivery tool that helps designers publish files in a format that developers can understand. It's a central hub for build-ready designs that the entire product team can use. Zeplin is good for asset collaboration.
+
+[Zeplin vs. Figma Dev Mode: a point-by-point breakdown \| Zeplin Gazette](https://blog.zeplin.io/zeplin-vs-dev-mode/)
 
 ### StoryBook
 

@@ -143,6 +143,12 @@ An ETF is called an exchange-traded fund since it's traded on an exchange just l
 - iNAV is reported approximately every 10-15 seconds, hence it represents a near real-time view of the value of a fund..
 - iNAV is a tool that helps to keep funds trading near their par value
 - Reporting an iNAV can help a fund to avoid significant premium and discount trading
+- [How ETF Works? | iNAV concept Explained - YouTube](https://www.youtube.com/watch?v=DpD_23GYdAQ)
+- [How motilal oswal most shares nasdaq 100 etf returns are higher than nasdaq 100 index? : r/IndianStockMarket](https://www.reddit.com/r/IndianStockMarket/comments/1hl2v17/how_motilal_oswal_most_shares_nasdaq_100_etf/)
+- [What is iNAV and how to view it on Kite?](https://support.zerodha.com/category/trading-and-markets/kite-web-and-mobile/others/articles/what-is-inav)
+	- MON100
+	- MON100INAV
+- Reserve Bank of India (RBI) limits how much AMCs can invest overseas. Currently, this limit is $7 billion for the entire industry and $1 billion per AMC.
 
 ### Things to keep in mind when investing in ETF
 
@@ -150,8 +156,6 @@ An ETF is called an exchange-traded fund since it's traded on an exchange just l
 - **How high is the tracking error?** - Tracking error is the difference between the returns of the fund and its benchmark index it is trying to mimic. A higher tracking error shows that the fund is not replicating the index truly.
 - **How liquid is the fund?** - Liquidity can be an issue in case of ETFs as they can only be bought and sold on the exchanges. You would be able to sell only if there is enough demand and  that may not always be the case.
 - **Expense Ratio?**
-
-[How ETF Works? | iNAV concept Explained - YouTube](https://www.youtube.com/watch?v=DpD_23GYdAQ)
 
 [How to CRUSH the Nifty by 10% Every Year? | Smart Beta ETF Strategies | Alpha, Momentum, Low Vol - YouTube](https://www.youtube.com/watch?v=F8YxDJISrEw)
 

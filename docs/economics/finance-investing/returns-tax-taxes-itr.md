@@ -530,6 +530,9 @@ As per the amendment in the Finance Act 2021, with effect from 1st April 2021, t
 
 Under the Liberalised Remittance Scheme (LRS), all resident individuals are allowed to freely remit up to USD 2,50,000 per financial year (April – March) for any permissible current or capital account transaction or a combination of both. The Scheme is not available to corporates, partnership firms, HUF, Trusts etc.
 
+- [Sending money abroad? Here's all you need to know about the RBI's Liberalised Remittance Scheme \| Mint](https://www.livemint.com/money/personal-finance/sending-money-abroad-rbi-liberalised-remittance-scheme-foreign-investments-foreign-vacations-overseas-travel-11728384618529.html)
+- [GIFT City isn’t just for NRIs and foreigner investors—it has something for everyone \| Mint](https://www.livemint.com/money/personal-finance/gift-city-financial-services-investment-products-jobs-nri-foreign-investors-ifsca-fema-financial-hub-11728281266323.html)
+
 ### What is the current TCS (Tax Collected at Source) rate for LRS?
 
 It is 5% of the remittance amount above INR 7 Lakhs. From October 1, 2023 onwards, the rate will be 20% of the remittance amount. TCS (Tax Collected at Source) amount will be visible on your Form 26AS.

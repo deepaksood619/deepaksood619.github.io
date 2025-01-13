@@ -218,6 +218,10 @@ Some resource types require their names to follow the DNS label standard as defi
 - start with an alphanumeric character
 - end with an alphanumeric character
 
+## Godaddy
+
+[Domain by GoDaddy, DNS by Route53 \| by Ryan Canty \| Medium](https://jryancanty.medium.com/domain-by-godaddy-dns-by-route53-fc7acf2f5580)
+
 ## Links
 
 [Say (an encrypted) hello to a more private internet.](https://blog.mozilla.org/en/products/firefox/encrypted-hello/)

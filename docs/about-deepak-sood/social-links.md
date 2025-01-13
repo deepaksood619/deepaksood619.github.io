@@ -76,6 +76,11 @@ Thanks & Regards,
 [Senior AI, Data & DevOps](https://www.linkedin.com/in/deepaksood619/)
 Company Name
 
+Please excuse my Brevity.
+
+Sent from my phone,
+Deepak
+
 ## Posts
 
 - [Deepak Sood on LinkedIn: #ai #data #devops #leadership #learning #growth #thankful #opstree…](https://www.linkedin.com/posts/deepaksood619_ai-data-devops-activity-7275592636168597509-nfyQ?utm_source=share&utm_medium=member_desktop)

@@ -87,6 +87,7 @@ This is a tool that analyzes the token’s smart contract, tokenomics, holders, 
 - [Mailchain | Add web3 email to your project](https://mailchain.com/)
 - [Celestia - Home](https://celestia.org/)
 - [Ethereum API | IPFS API & Gateway | ETH Nodes as a Service](https://www.infura.io/)
+- [Sentio](https://www.sentio.xyz/)
 
 ## Resources
 
