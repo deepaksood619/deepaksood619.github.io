@@ -55,8 +55,11 @@
     - Trainium & Inferentia
     - [Supported connectors - Amazon Q](https://docs.aws.amazon.com/amazonq/latest/business-use-dg/connectors-list.html)
     - Pricing
-      		- Amazon Q Business  $20/month per user
-      		- Amazon Q Developer $25/month per user
+		- Amazon Q Business  $20/month per user
+			- Amazon Q Business Lite
+			- Amazon Q Business Pro
+		- Amazon Q Developer $25/month per user
+		- https://aws.amazon.com/q/developer/
 - [Course - Architecting on AWS](cloud/aws/course-architecting-on-aws.md)
 - [AWS Competency Program](cloud/aws/aws-competency-program.md)
 - [Others](cloud/aws/others.md)

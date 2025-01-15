@@ -59,3 +59,22 @@ https://python-poetry.org/docs
 ## setup.py and mainfest.ini
 
 https://flask.palletsprojects.com/en/0.12.x/tutorial/packaging/#tutorial-packaging
+
+## Others
+
+[virtualenv-and-pip](python/python-intro/virtualenv-and-pip.md)
+
+### UV
+
+- 🚀 A single tool to replace `pip`, `pip-tools`, `pipx`, `poetry`, `pyenv`, `twine`, `virtualenv`, and more.
+- ⚡️ [10-100x faster](https://github.com/astral-sh/uv/blob/main/BENCHMARKS.md) than `pip`.
+- 🐍 [Installs and manages](https://github.com/astral-sh/uv#python-management) Python versions.
+- 🛠️ [Runs and installs](https://github.com/astral-sh/uv#tool-management) Python applications.
+- ❇️ [Runs single-file scripts](https://github.com/astral-sh/uv#script-support), with support for [inline dependency metadata](https://docs.astral.sh/uv/guides/scripts#declaring-script-dependencies).
+- 🗂️ Provides [comprehensive project management](https://github.com/astral-sh/uv#project-management), with a [universal lockfile](https://docs.astral.sh/uv/concepts/projects#project-lockfile).
+- 🔩 Includes a [pip-compatible interface](https://github.com/astral-sh/uv#a-pip-compatible-interface) for a performance boost with a familiar CLI.
+- 🏢 Supports Cargo-style [workspaces](https://docs.astral.sh/uv/concepts/workspaces) for scalable projects.
+- 💾 Disk-space efficient, with a [global cache](https://docs.astral.sh/uv/concepts/cache) for dependency deduplication.
+- ⏬ Installable without Rust or Python via `curl` or `pip`.
+- 🖥️ Supports macOS, Linux, and Windows.
+- [GitHub - astral-sh/uv: An extremely fast Python package and project manager, written in Rust.](https://github.com/astral-sh/uv)

@@ -69,6 +69,19 @@ Assertive individuals are self-assured, even-tempered, and resistant to stress. 
 - ...say modern human beauty standards are unrealistic
 - ...go to great lengths to avoid stress
 
+## high5test
+
+- Strength 1 - Philomath
+	- Philomaths love learning. They explore many interests, follow new paths and acquire as much knowledge as possible. They don’t enjoy the company of so-called 'know-it-alls’, people with little curiosity and no desire to explore new ideas.
+- Strength 2 - Time Keeper
+	- Nothing excites Time Keepers more than meeting a deadline. They enjoy setting up processes, timelines and plans. They may feel confused in chaotic circumstances where neither the outcomes nor the ways to achieve these are clear.
+- Strength 3 - Storyteller
+	- Storytellers are masters of communication. They like to host events, speak in public and be heard. They suffer in situations where they can’t express themselves through words.
+- Strength 4 - Catalyst
+	- Catalysts love to get things started and are great at creating momentum in stagnant environments. They have a hard time waiting and so-called ‘wasting time’ when they know they could be moving forward and getting things off the ground.
+- Strength 5 - Empathizer
+	- Empathizers are great at understanding how people feel and use this sensibility to do good for others. They become frustrated when asked to disregard feelings and focus solely on logic instead.
+
 ## RISC DIGITAL MINDSET
 
 ### Resiliency - Adaptability

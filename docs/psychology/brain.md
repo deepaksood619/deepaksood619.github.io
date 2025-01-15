@@ -144,3 +144,5 @@ https://blog.trello.com/sophrology-for-better-work-life-harmony
 [Sleep](psychology/sleep.md)
 
 [How to Keep Your Brain Young and Healthy | Louisa Nicola - YouTube](https://www.youtube.com/watch?v=tZQcd2K9HwQ)
+
+[Mind–body dualism - Wikipedia](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism)

@@ -40,6 +40,10 @@
 - [Traditional AI Case Studies](about-deepak-sood/projects/45-traditional-ai-case-studies.md)
 - [Agri Tech Digital Transformation Case Study](about-deepak-sood/projects/44-agri-tech-digital-transformation-case-study.md)
 
+#### Others
+
+- [Cloud Based SAAS Data Platform](about-deepak-sood/projects/41-cloud-based-saas-data-platform.md)
+
 ### Bake.io
 
 [Bake.io Data Engineering](about-deepak-sood/projects/75-bake-io-data-engineering.md) (Mar'23 - Nov'23)

@@ -138,4 +138,5 @@ Gitleaks is a SAST tool for **detecting** and **preventing** hardcoded secre
 - [Home - Sprinto - Continuous Security & Compliance Platform - Sprinto](https://sprinto.com/)
 - [Scrut Automation - Simplified continuous compliance automation](https://www.scrut.io/)
 - [Falco](https://falco.org/)
-   	- Falco is a cloud-native security tool designed for Linux systems. It employs custom rules on kernel events, which are enriched with container and Kubernetes metadata, to provide real-time alerts. Falco helps you gain visibility into abnormal behavior, potential security threats, and compliance violations, contributing to comprehensive runtime security.
+	- Falco is a cloud-native security tool designed for Linux systems. It employs custom rules on kernel events, which are enriched with container and Kubernetes metadata, to provide real-time alerts. Falco helps you gain visibility into abnormal behavior, potential security threats, and compliance violations, contributing to comprehensive runtime security.
+- [Compliance: Ensuring standards and regulations \| Priva](https://www.priva.com/compliance)

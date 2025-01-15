@@ -87,6 +87,21 @@ Doctors often use echoes to:
 
 To prepare for an echo, patients may be asked to lie still on an exam table, breathe in a certain way, or roll onto their left side. They may also receive oxygen through a face mask or tube in their nostrils. For some types of echoes, patients may need to take sedating medication or have their throat numbed with a spray or gel.
 
+## HBOT
+
+Hyperbaric oxygen therapy (HBOT) protocols vary depending on the condition being treated and the patient's response. HBOT involves breathing pure oxygen in a pressurized chamber.
+
+Common HBOT protocols
+
+- **Sensorineural hearing loss**: 2.0–2.5 ATA for 90 minutes per day, 10–20 treatments
+- **Flap compromise**: 2.0–2.5 ATA for 90–120 minutes, initially twice a day
+- **Neurological conditions**: 2 ATA or less for 40–60 daily sessions
+
+Emerging HBOT protocols
+
+- **Reduced oxygen pressure**: 2 ATA or lower for 40–60 daily sessions
+- **Intermittent exposure**: Repeated exposure to hyperbaric conditions
+
 ## Glands
 
 Your body has two types of sweat glands:
@@ -136,3 +151,5 @@ Hydra don't age
 ## Links
 
 [The more fertile you are, the sooner you may die](https://www.msn.com/en-in/lifestyle/whats-hot/the-more-fertile-you-are-the-sooner-you-may-die-study/ar-AA1lA8ML)
+
+[Human body temperature - Wikipedia](https://en.wikipedia.org/wiki/Human_body_temperature)

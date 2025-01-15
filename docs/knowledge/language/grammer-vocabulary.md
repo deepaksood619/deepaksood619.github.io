@@ -219,3 +219,27 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 
 - act or work as a shill
 - your husband in the crowd could shill for you.
+
+### Platitude
+
+A platitude is a statement that is seen as trite, meaningless, or prosaic, aimed at quelling social, emotional, or cognitive unease. The statement may be true, but its meaning has been lost due to its excessive use as a thought-terminating cliché.
+
+[Platitude - Wikipedia](https://en.wikipedia.org/wiki/Platitude)
+
+- Thoughts and prayers
+- It doesn't matter who scores, as long as the team wins
+- Sacrifice today for a better tomorrow
+- Nobody's perfect
+- Good things come to those who wait
+- Life is a mystery
+- That's just my personal opinion
+- I wish I knew then what I know now
+- Sometimes bad things lead to good things
+- What doesn't kill you makes you stronger
+- We all die someday
+- Everybody changes
+- It really do be like that sometimes
+- Take the good with the bad
+- Everything isn't always what it seems
+- Everything happens for a reason
+- Whatever will be, will be

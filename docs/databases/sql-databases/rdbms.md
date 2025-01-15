@@ -37,11 +37,11 @@ All data stored in a relational database is of a certain data type. Some of the 
 
 [Bi-Directional Replication](https://docs.oracle.com/en/middleware/goldengate/core/21.3/coredoc/administer-configuring-bi-directional-replication.html)
 
-### SQL Server
+### SQL Server / MS SQL / Microsoft SQL Server
 
 - Microsoft owns SQL Server. Like Oracle DB, the code is also close sourced.
 - Large enterprise applications mostly use SQL Server. The key difference between Oracle and SQL Server is that SQL Server only supports the Windows Operating System.
-- Microsoft offers a free entry-level version calledExpressbut can become very expensive as you scale your application.
+- Microsoft offers a free entry-level version called Express but can become very expensive as you scale your application.
 
 ## SQL Server Integration Service (SSIS)
 

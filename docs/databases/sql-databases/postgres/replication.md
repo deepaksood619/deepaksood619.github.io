@@ -80,6 +80,8 @@ MySQL and MariaDB have different implementations of multi-source replication, wh
 
 [Speeding up Postgres Data Dumps](https://www.iseatz.com/blog/speeding-up-postgres-data-dumps)
 
+[PostgreSQL: Documentation: 17: 25.3. **Continuous Archiving and Point-in-Time Recovery (PITR)**](https://www.postgresql.org/docs/current/continuous-archiving.html)
+
 ## Links
 
 - [26. High Availability, Load Balancing, and Replication](https://www.postgresql.org/docs/12/high-availability.html)

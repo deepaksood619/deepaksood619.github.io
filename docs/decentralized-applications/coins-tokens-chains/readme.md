@@ -194,6 +194,22 @@ Cosmos is a decentralized network of independent parallel blockchains, each powe
 - [Aptos Review: APT Any Potential?! This You NEED To Know!! - YouTube](https://www.youtube.com/watch?v=t6DSYcpJDuk&ab_channel=CoinBureau)
 	- Libra -> Diem -> Aptos + Sui
 
+### Mantra
+
+MANTRA is a Security first RWA Layer 1 Blockchain, capable of adherence and enforcement of real world regulatory requirements. Built for Institutions and Developers, MANTRA offers a Permissionless Blockchain for Permissioned applications.
+
+**Key Features**
+
+- Built using Cosmos SDK, IBC compatible, with CosmWasm supported
+- Secured via a sovereign PoS validator set
+- Scalable up to 10k TPS
+- Built-in Modules, SDKs and APIs to create, trade and manage regulatory compliant RWAs
+- Improved User Experience to onboard non-native users and institutions to Web3
+
+[Overview \| MANTRA Chain](https://docs.mantrachain.io/)
+
+[MANTRA Price: OM Live Price Chart, Market Cap & News Today \| CoinGecko](https://www.coingecko.com/en/coins/mantra)
+
 ## Differences
 
 ### Aptos vs HyperLedger Fabric

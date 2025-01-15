@@ -123,6 +123,18 @@ Connected traffic lights with intelligent routing system
 
 Computer vision traffic management, single pole in mid with high mast 4 side cameras, within same poles trafic lights. Traffic light will be controlled by the amount of cars in each lane.
 
+In a traffic signal, "VAC" stands for "**Vehicle Actuated Control**," meaning the traffic light automatically adjusts its timing based on the presence of vehicles detected at the intersection, essentially giving a green light only when a car is waiting to proceed.
+
+**Key points about VAC**
+
+- **Adaptive system:** VAC is considered an adaptive traffic control system, responding to real-time traffic conditions.
+- **Vehicle detection sensors:** These sensors detect the presence of vehicles and trigger the signal change.
+- **Efficiency in moderate traffic:** VAC is often most effective in situations with moderate traffic flow.
+
+ATC - Adaptive Traffic Control
+
+[What does ATC or VAC means on traffic signals? - Quora](https://www.quora.com/What-does-ATC-or-VAC-means-on-traffic-signals)
+
 ## Mobile As Laptop
 
 1. Only desktop, keyboard and mouse needed

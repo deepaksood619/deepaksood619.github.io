@@ -14,3 +14,4 @@
 - [Quotes](economics/finance-investing/quotes.md)
 - [Company Management](economics/finance-investing/company-management.md)
 - [Indian Company Types](economics/finance-investing/indian-company-types.md)
+- [Tools](economics/finance-investing/tools.md)

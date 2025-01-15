@@ -9,7 +9,12 @@
 - [Microsoft Flight Simulator 2024 Review - YouTube](https://www.youtube.com/watch?v=K5JqXNiWnMc)
 	- [Microsoft Flight Simulator 2024 - Announce Trailer - 4K - YouTube](https://www.youtube.com/watch?v=p3xp-SnZDoY)
 
-### Mini Metro
+## Xbox / PS4 / PS5 / Playstation
+
+- Don't buy xbox or ps5 buy gaming desktop instead, since it can be used for far more things
+- AstroBot
+
+## Mini Metro
 
 [My "strategy guide" for Mini Metro : r/MiniMetro](https://www.reddit.com/r/MiniMetro/comments/ceyt26/my_strategy_guide_for_mini_metro/)
 
@@ -20,6 +25,7 @@
 - [Top 10 Best Table Tennis Points - YouTube](https://www.youtube.com/watch?v=dokC3iGTmSw)
 - [Formula 1, explained for rookies - YouTube](https://www.youtube.com/watch?v=SSdsncLXLYs)
 - [Formula E: The electric F1, explained - YouTube](https://www.youtube.com/watch?v=8foQERR0mc0)
+- [Stimpmeter - Wikipedia](https://en.wikipedia.org/wiki/Stimpmeter)
 
 ## Guitar
 

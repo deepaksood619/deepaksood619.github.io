@@ -1109,4 +1109,8 @@ Archbishop Desmond Tutu said, "There comes a point where we need to stop just pu
 6. It's on You - Only You Are in Charge of Your Happiness.
 7. Smile - Life is Short. Enjoy It While You Have It.
 
+To each their own - idiom - people have the right to their own preferences and opinions
+
+- Similar phrases “Different strokes for different folks, “Whatever floats your boat, and “One man's fish is another man's poison.
+
 ## End

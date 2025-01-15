@@ -489,6 +489,10 @@ You understand an idea not when you've memorized it, but when you know why its s
 3. Timely feedback
 4. Deliberate practice
 
+## Tools
+
+- https://curious.com/
+
 ## Others
 
 - [Marty Lobdell - Study Less Study Smart](https://youtu.be/IlU-zDU6aQ0)

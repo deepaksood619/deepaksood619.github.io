@@ -38,6 +38,8 @@
 - [402Payment Required](https://httpstatuses.com/402)
 - [403Forbidden](https://httpstatuses.com/403)
 - [404Not Found](https://httpstatuses.com/404)
+	- Soft 404 - A soft 404 error is a "page not found" error that is not properly communicated to search engine bots. It occurs when a web server responds with a 200 OK HTTP response code for a page that doesn't exist, instead of the correct 404 Not Found.
+	- Soft 404 errors are different from hard 404 errors, which are actual response codes that indicate to search engines not to crawl invalid pages. Soft 404 errors can impact SEO because Google de-indexes pages that return a soft 404 error.
 - [405Method Not Allowed](https://httpstatuses.com/405)
 - [406Not Acceptable](https://httpstatuses.com/406)
 - [407Proxy Authentication Required](https://httpstatuses.com/407)

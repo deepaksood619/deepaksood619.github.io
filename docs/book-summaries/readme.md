@@ -86,6 +86,7 @@
 - [Power and Prediction](book-summaries/power-and-prediction.md)
 - [7 Powers: The Foundations of Business Strategy](book-summaries/7-powers-the-foundations-of-business-strategy.md)
 - [Alchemy: The Surprising Power of Ideas That Don't Make Sense](book-summaries/alchemy-the-surprising-power-of-ideas-that-dont-make-sense.md)
+- [The Mom Test](book-summaries/the-mom-test.md)
 - [Others](book-summaries/others.md)
 - [Books / Blinkist - Productivity](book-summaries/books-blinkist-productivity.md)
 - [Books / Blinkist - Management](../management/books-blinkist-management)

@@ -11,3 +11,5 @@
 [What actually ARE muscle cramps? - YouTube](https://www.youtube.com/watch?v=WsWPI18RmVU)
 
 [Deltoid muscle - Wikipedia](https://en.wikipedia.org/wiki/Deltoid_muscle)
+
+[Brachialis muscle - Wikipedia](https://en.wikipedia.org/wiki/Brachialis_muscle)

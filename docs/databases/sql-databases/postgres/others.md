@@ -141,6 +141,18 @@ https://info.crunchydata.com/blog/how-to-get-started-with-pgbackrest-and-postgre
 
 Foreign data wrappers (FDWs) allow PostgreSQL to connect to and query data from external data sources. They provide a virtual table interface to remote data, enabling seamless integration. Examples include `postgres_fdw` for PostgreSQL-to-PostgreSQL integration or `file_fdw` for accessing data in flat files.
 
+## pgbadger
+
+A fast PostgreSQL Log Analyzer
+
+pgBadger is a PostgreSQL performance analyzer, built for speed with fully detailed reports based on your PostgreSQL log files.
+
+[GitHub - darold/pgbadger: A fast PostgreSQL Log Analyzer](https://github.com/darold/pgbadger)
+
+[PostgreSQL Log Analysis With pgBadger \| Severalnines](https://severalnines.com/blog/postgresql-log-analysis-pgbadger/)
+
+[PGBadger \| Postgresql log analysis made easy - DEV Community](https://dev.to/full_stack_adi/pgbadger-postgresql-log-analysis-made-easy-54ki)
+
 ## Others
 
 - [GitHub - hydradatabase/hydra: Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes.](https://github.com/hydradatabase/hydra)

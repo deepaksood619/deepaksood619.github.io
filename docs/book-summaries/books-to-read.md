@@ -189,6 +189,21 @@ Book recommendation by Barack Obama
 
 [17 Books to Read in 2022 | My Top Reads of 2021 | Ankur Warikoo Hindi](https://youtu.be/pJYFetCibXI)
 
+[Walmart CEO Shares His Favorite Reads of Last Year - Business Insider](https://www.businessinsider.com/walmart-ceo-reading-list-favorite-books-2025-1)
+
+- "How to Know a Person" by David Brooks
+- "Just the Good Stuff" by Jim VandeHei
+- "Financial Literacy For All" by John Hope Bryant
+- "Financial Literacy For All" by John Hope Bryant was published in April 2024. Wiley/Amazon
+- "Genesis" by Henry Kissinger, Craig Mundie, and Eric Schmidt
+- "Genesis," co-written by former Google CEO Eric Schmidt, explores the potential benefits and
+- "Co-Intelligence" by Ethan Mollick
+- "Competing in the Age of AI" by Marco Iansiti and Karim R. Lakhani
+- "How Stella Saved the Farm" by Vijay Govindarajan and Chris Trimble
+- "Collaborative Disruption" by Tom Muccio
+- "The Wisdom of the Bullfrog" by Adm. William McRaven
+- "Made in America" by Sam Walton with John Huey
+
 ## Economics
 
 - Freakonomics by Steven D. Levitt and Shephen J. Dubner

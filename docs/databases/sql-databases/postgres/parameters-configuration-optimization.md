@@ -25,6 +25,12 @@ SELECT @@session.max_execution_time -- 15000
 
 PostgreSQL uses its own buffer and also uses kernel buffered IO. That means data is stored in memory twice, first in PostgreSQL buffer and then kernel buffer. Unlike other databases, PostgreSQL does not provide direct IO. This is called double buffering. The PostgreSQL buffer is called **shared_buffer** which is the most effective tunable parameter for most operating systems. This parameter sets how much dedicated memory will be used by PostgreSQL for cache.
 
+##### shared_buffers
+
+Sets the amount of memory the database server uses for shared memory buffers. The default is typically 32 megabytes (32MB), but might be less if your kernel settings will not support it (as determined during initdb). This setting must be at least 128 kilobytes. (Non-default values of BLCKSZ change the minimum.) However, settings significantly higher than the minimum are usually needed for good performance. This parameter can only be set at server start.
+
+[PostgreSQL: Documentation: 9.1: Resource Consumption](https://www.postgresql.org/docs/9.1/runtime-config-resource.html)
+
 #### wal_buffers
 
 PostgreSQL writes its WAL (write ahead log) record into the buffers and then these buffers are flushed to disk. The default size of the buffer, defined bywal_buffers, is 16MB, but if you have a lot of concurrent connections then a higher value can give better performance.

@@ -9,12 +9,6 @@ VPF - https://cleartax.in/s/pf-vs-vpf
 - 1 lakh LTCG
 - Top 10 focused stocks - Marcellus PMS
 
-## Tools
-
-https://www.tikr.com
-
-[AI Chat for Financial Analyst](https://finchat.io/) - FinChat.io is powered by ChatGPT. Using AI, FinChat generates answers to questions about public companies and investors. To generate accurate answers, FinChat provides reasoning, sources and data.
-
 ## Buying
 
 https://www.joinhoney.com

@@ -170,15 +170,6 @@ But I do not treat the indicators with the same conviction. It is always good to
 
 When you identify a trading opportunity, always look how the trade is positioned from the Dow Theory perspective. For example if you are considering a long trade based on candlesticks, then look at what the primary and secondary trend is suggesting. If the primary trend is bullish, then it would be a good sign, however if we are in the secondary trend (which is counter to the primary) then you may want to think twice as the immediate trend is counter to the long trade.
 
-## Tools
-
-[India and global trading economic calendar - Zerodha markets](https://zerodha.com/markets/calendar/)
-
-- Annual report of the company
-- Industry related data
-- Access to news
-- MS Excel
-
 [Top 11 Financial Planning Thumb Rules | Learn With ETMONEY - YouTube](https://www.youtube.com/watch?v=w3Y0-Keho9Y)
 
 [10 RULES of INVESTING for Smarter & Faster Financial Decisions | Learn Investment Basics w/ Examples - YouTube](https://www.youtube.com/watch?v=rfScEFtcx3s)

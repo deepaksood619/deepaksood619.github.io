@@ -178,6 +178,30 @@ Taxes can be significantly reduced. For 60 lakh under 44ADA tax is only around 7
 
 [Section 44ADA - Presumptive Tax for Professionals](https://groww.in/p/tax/section-44ada-of-income-tax-act)
 
+[Tax on Consultancy Services: Applicability, Tax Rate and Benefits](https://cleartax.in/s/tax-on-consultancy-services)
+
+[Taxation for software engineer consultant : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/18rfyb0/taxation_for_software_engineer_consultant/)
+
+LUT - Letter of Undertaking
+
+[Tax Benefits for Consultants in India 2024](https://www.bankbazaar.com/tax/tax-benefits-for-consultants.html)
+
+1. If the consultant works from home, rent of space
+2. Commuting if it is related to work
+3. Vehicle fuel expenses
+4. Equipment maintenance
+5. Telephone and internet bill
+6. Stationery charges
+7. Cost of cell phone
+8. [Car loan interest](https://www.bankbazaar.com/car-loan-interest-rate.html)
+9. Courier and mail service
+10. Books and newspapers
+11. Vehicle insurance
+12. Sweeper, peon or driver’s salary
+13. Depreciation is allowed on vehicle and office equipment
+
+Consultant’s whose income exceeds Rs.10 lakh must get their expenses audited by a chartered accountant. Consultant trades off less tax for more paperwork. **The highest tax charged for a consultant is 11.33%** which includes the educational cess whereas an employee can get charged 33.99% as the highest tax.
+
 ### Deductions
 
 - Rent of the property

@@ -63,6 +63,9 @@ The future of decentralized finance lies in the hands of those who dare to chall
 - [BitGo - How institutions and platforms securely access crypto](https://www.bitgo.com/)
 - [Fireblocks - #1 Institutional Digital Asset Custody, Settlement & Issuance](https://www.fireblocks.com/)
 - [Unibot - The Fastest Uniswap Telegram Sniper](https://unibot.app/)
+- [Fern](https://fernhq.com/)
+	- Your onchain bank account
+	- Fern is the easiest way to onramp, offramp, and make crypto to fiat payments. For global citizens and teams.
 
 ## Hyperledger
 

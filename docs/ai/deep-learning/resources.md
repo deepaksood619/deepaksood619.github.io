@@ -22,5 +22,5 @@
 - [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
 - [Deep Learning](https://www.deeplearningbook.org/)
 - [Dive into Deep Learning with this free 15-hour YouTube Course](https://www.freecodecamp.org/news/learn-deep-learning-from-the-president-of-kaggle)
-   	- [Practical Deep Learning for Coders - Full Course from fast.ai and Jeremy Howard - YouTube](https://www.youtube.com/watch?v=0oyCUWLL_fU)
-   	- [Practical Deep Learning for Coders - Full Course from fast.ai and Jeremy Howard (part 2) - YouTube](https://www.youtube.com/watch?v=HL7LOfyf6bc)
+	- [Practical Deep Learning for Coders - Full Course from fast.ai and Jeremy Howard - YouTube](https://www.youtube.com/watch?v=0oyCUWLL_fU)
+	- [Practical Deep Learning for Coders - Full Course from fast.ai and Jeremy Howard (part 2) - YouTube](https://www.youtube.com/watch?v=HL7LOfyf6bc)

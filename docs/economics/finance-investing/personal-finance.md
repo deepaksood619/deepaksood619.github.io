@@ -20,13 +20,6 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 
 [Personal Finance - Mutual Funds - YouTube](https://www.youtube.com/playlist?list=PLX2SHiKfualGsjgd7fKFC-JXRF6vO73hk)
 
-## Tools
-
-- Andromoney
-- axio
-- [Cashews](https://cashews.finance/)
-- Bluecoins
-
 ## Others
 
 - Folks, I’ve some big plans of my own this year that’s going to suck the money out of my wallet. So, I’ll have to ditch this trip to Goa (adulting sucks). But come and hang out with me at home before you all go, and we’ll have a blast?

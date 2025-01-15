@@ -144,6 +144,8 @@ https://support.google.com/firebase/answer/9237506?hl=en
 
 ## Attribution
 
+**Definition -** the action of regarding something as being caused by a person or thing.
+
 Let's say you've spent some money on two different ad campaigns to bring users into your app. After a few weeks, you discover:
 
 - Ad campaign #1 resulted in 500 clicks.

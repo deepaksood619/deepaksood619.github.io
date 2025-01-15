@@ -110,8 +110,16 @@
 	- Clone yourself with AI using your content. Coach and mentor your audience 24/7 with an AI digital version of yourself, offering expert advice and insights.
 - [Study.lol/](http://study.lol/) - Youtube.com summarizer
 - [Seyhan Lee](https://seyhanlee.com/)
+- [Home - teachafy](https://assistant.teachafy.com/)
+	- [Teachafy Labs](https://teachafy.com/)
 
-![ai-tools](../../media/image.jpg)
+## AI Agents
+
+- [agent.ai \| The Professional Network for AI Agents](https://agent.ai/agents)
+- [AI Agents Directory - Find and Compare AI Assistants \| AI Agents List](https://aiagentslist.com/)
+- [AI Agents Marketplace \| AI Agents Directory - Discover Best AI Agents](https://aiagentsdirectory.com/)
+
+![AI Agents Landscape](../../media/Pasted%20image%2020250114143214.jpg)
 
 ## Purpose-built accelerators for generative AI
 
@@ -127,3 +135,5 @@
 
 - [code-generators](ai/llm/code-generators.md)
 - [Libraries](ai/llm/libraries.md)
+
+![ai-tools](../../media/image.jpg)

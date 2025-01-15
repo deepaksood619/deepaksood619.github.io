@@ -1,5 +1,10 @@
 # Travelling
 
+Every weekend shouldn't be a party
+Once a year trip plan
+
+Slow thoughtful life, rather than party life
+
 ## Case Against Travel
 
 [G. K. Chesterton](https://www.newyorker.com/magazine/2008/07/07/the-back-of-the-world) wrote that "travel narrows the mind." [Ralph Waldo Emerson](https://www.newyorker.com/tag/ralph-waldo-emerson) called travel "a fool’s paradise." Socrates and Immanuel Kant-arguably the two greatest philosophers of all time-voted with their feet, rarely leaving their respective home towns of Athens and Königsberg. But the greatest hater of travel, ever, was the Portuguese writer [Fernando Pessoa](https://www.newyorker.com/magazine/2017/09/04/fernando-pessoas-disappearing-act), whose wonderful "[Book of Disquiet](https://www.amazon.com/Book-Disquiet-Penguin-Classics/dp/0141183047?ots=1&tag=thneyo0f-20&linkCode=w50)" crackles with outrage:

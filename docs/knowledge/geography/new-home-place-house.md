@@ -229,6 +229,66 @@ https://freefincal.com/real-estate-investing-practical-aspects-retail-investors-
 
 [Why will I NOT buy a house?](https://youtu.be/IwBu_YYXGzY)
 
+#### Thoughts 1
+
+Life is currently too dynamic to plan very super long term, so live short term happy cycles
+
+Try to create a family life wherever noone is dependent on me, so I can be free and do whatever I want
+
+Therefore you need a lot of money
+
+I am an implementor -
+
+Papa open a franchise - supermarket that is not dependent on him, but he has a place to spend time
+
+Land living in isolation vs society flat living with people
+
+If not delhi, can raipur, hyderbad be our place of dwelling
+
+Buy 1 acre land
+Good air quality
+Good social security
+
+Good infra
+
+Low crime
+
+Good hospitals nearby
+Good education
+Open a school
+Gardening for parents
+Close to didi jiju
+
+Dubai is an option
+
+Do we really want to stay in India
+
+- culture
+- indian people
+
+What do I want to do
+
+- give back to society
+- do fundamental core research
+- solve core world problems
+- live long and healthy
+- participate in sports
+
+Try 1st living in isolation (without needing more people or society) if it works and you are happy than move out of India
+
+Find a purpose for your life
+
+Live long enough so someone finds a cure to aging
+
+For papa - find hobby
+For maa - find hobby
+
+Children can be a gateway to everyone's life
+Start with tution, speak to mother, than to father
+Give best education
+Slowly takeover the education full time
+Close or tieup with other schools
+
 ### New Flats
 
 - **> 3000 sq ft**

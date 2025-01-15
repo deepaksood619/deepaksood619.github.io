@@ -15,7 +15,11 @@ This session introduces Kong’s key features, including load balancing, traffic
 
 Whether you’re a developer, architect, or tech enthusiast, this session offers valuable insights into leveraging Kong to simplify API management, reduce operational overhead, and future-proof your applications. Let’s simplify API management together!
 
+![API Kong-Versations gateway to 2025](../media/deepak_sood_kong_in_action.jpg)
+
 [See API Kong-Versations:Gateway to 2025 at CNCF New Delhi](https://community.cncf.io/events/details/cncf-new-delhi-presents-api-kong-versationsgateway-to-2025/)
+
+[Deepak Sood on LinkedIn: #meetup #apimanagement #kongapi #techcommunity #apigateway #devops…](https://www.linkedin.com/posts/deepaksood619_meetup-apimanagement-kongapi-activity-7284961469870317568-vay_?utm_source=share&utm_medium=member_desktop)
 
 ### Podcast - Stream Processing using Kafka and Flink (20 December 2024)
 

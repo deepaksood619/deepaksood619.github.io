@@ -1,6 +1,9 @@
 # Family Games / Gifts
 
 - Family Weekly game night
+- Card Games
+	- Uno
+	- Bluff game
 - Guess the --- Youtube
 - Dum charades
 - Jigsaw

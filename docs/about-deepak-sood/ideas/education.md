@@ -106,6 +106,18 @@ Highly personalized education for each person
 - And rote learning is not required
 - AI will be question and answer with voice, and all facts will be accessible all the time
 
+Use gemini or gpt live to learn about some topic
+
+Create a tutoring system, that teaches naturally, and ask questions, create conversation, don't create a monologue.
+
+Teach the best conversation techniques to gpt so it tries good conversation with the child and try to create a curiosity.
+
+Feedback from camera from a child expression is very important, so gpt understand how child is expressing through his gestures and facial expressions. And tweak the delivery of education based on that.
+
+Next big revolution is from text based gpt to voice, and then from voice based gpt to video, over both ways.
+
+Audio visual communication.
+
 ### Links
 
 [A social ‘study buddy’ gets a conversational lift from Meta Llama](https://ai.meta.com/blog/foondamate-study-aid-education-llama/)

@@ -43,9 +43,11 @@ BRIN works in terms of _block ranges_ (or “page ranges”). A block range 
 
 A bloom index is perfect for multi-column queries on big tables where you only need to test for equality. It uses a special mathematical structure called a bloom filter that's based on probability and uses significantly less space.
 
-### [GIN and GiST indexes](https://www.postgresql.org/docs/11/textsearch-indexes.html)
+### [GIN and GiST indexes](https://www.postgresql.org/docs/11/textsearch-indexes.html) (Generalized Inverted Index)
 
 Use a GIN or GiST index for efficient indexes based on composite values like text, arrays, and JSON.
+
+A Generalized Inverted Index (GIN) is a type of index that stores mappings from values in a column to the rows that contain those values. GIN indexes are used to speed up searches for specific elements within composite values, such as arrays, JSONB documents, and full-text search vectors.
 
 There are two kinds of indexes that can be used to speed up full text searches. Note that indexes are not mandatory for full text searching, but in cases where a column is searched on a regular basis, an index is usually desirable.
 
@@ -69,6 +71,8 @@ Performance
 - GIN indexes are two-to-three times larger than GiST indexes
 
 https://habr.com/en/company/postgrespro/blog/448746
+
+[PostgreSQL: Documentation: 17: 64.4. GIN Indexes](https://www.postgresql.org/docs/current/gin.html)
 
 [PostgreSQL: Documentation: 9.1: GiST and GIN Index Types](https://www.postgresql.org/docs/9.1/textsearch-indexes.html)
 

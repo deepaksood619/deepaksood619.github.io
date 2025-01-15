@@ -6,6 +6,8 @@
 
 **Watch great leaders motivational videos** - oprah wimfrey
 
+I don't know but we will figure it out
+
 Better try then cry
 
 Shut up, suit up, show up

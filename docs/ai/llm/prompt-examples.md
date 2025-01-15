@@ -49,6 +49,25 @@ Make sure to
 
 Create 15 mcq questions (with 4 options each and 1 correct answer) around below topics
 
+### Create architecture diagram
+
+I need to generate a sequence diagram.
+
+Here is my flow:
+
+1) User send request into Orders service
+2) Orders Service validate model
+3) Orders service call Identity service to validate permissions
+4) If identity service return not allowed, return forbidden to user
+5) else if IF Identity service allowed, Order service call database to saving new order
+6) Order service return to user success status
+
+**Provide result into mermaid format**
+
+![Insert mermaid in draw.io](../../media/Pasted%20image%2020250115235701.png)
+
+[How to generate architecture diagrams with ChatGPT](https://bool.dev/blog/detail/create-architecture-diagrams-with-chatgpt)
+
 ### Create Presentation
 
 [Prepare Your Presentation like a MBB Consultant | Snack Prompt](https://snackprompt.com/prompt/prepare-your-presentation-like-a-mbb-consultant)
