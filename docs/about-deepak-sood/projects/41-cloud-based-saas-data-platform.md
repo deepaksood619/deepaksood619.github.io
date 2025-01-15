@@ -52,11 +52,11 @@ Design and develop an architecture for a cloud-based SaaS data platform that off
 ## Solution
 
 ### 1. High-Level Block Diagram
-  
+
 ![cloud-based-saas-platform](../../media/cloud-based-saas-platform.drawio.png)
-  
+
 ### 2. Data Flow Overview
-  
+
 1. Data Ingestion Layer:
 	- Real-time data ingestion: APIs, Message Queues (e.g., Kafka, AWS Kinesis).
 	- Batch ingestion: Bulk uploads (via SFTP, HTTP endpoints, etc.).
@@ -77,9 +77,9 @@ Design and develop an architecture for a cloud-based SaaS data platform that off
 	- Monitoring & Logging: Real-time dashboards, alerts, and audit trails.
 	- Multi-Tenancy: Data isolation per client via namespace or account-level separation.
 	- Compliance Manager: Validation against regulations (e.g., GDPR, HIPAA).
-	  
+
 ### 3. Choice of Cloud Services
-  
+
 - Compute:
 	- AWS Lambda / GCP Cloud Functions / Azure Functions for serverless ingestion and transformation.
 	- AWS Fargate / GCP Cloud Run for containerized microservices (batch jobs or long-running tasks).
@@ -105,27 +105,29 @@ Design and develop an architecture for a cloud-based SaaS data platform that off
 - Monitoring & Logging:
 	- AWS CloudWatch / GCP Operations Suite / Azure Monitor.
 	- Prometheus and Grafana for custom dashboards.
-  
+
 ### 4. Handling Specific Challenges
-  
+
 #### Data Schema Evolution
 
 - Implement a schema registry (AWS Glue Schema Registry or Confluent Schema Registry).
 - Use versioning to support backward compatibility.
 - Dynamically validate and transform incoming data based on schema versions.
+
 #### Scaling Challenges
 
 - Use autoscaling for serverless services like AWS Lambda or Kubernetes.
 - Partitioning and sharding strategies for message queues and databases.
 - Design storage with hot/cold tiering for cost efficiency and scalability.
+
 #### Ensuring Data Security
 
 - End-to-end encryption: Encrypt data at rest and in transit (e.g., TLS, AES-256).
 - Role-based access control: Use cloud-native IAM services.
 - Secure data isolation with namespaces for multi-tenancy.
-  
+
 ### 5. Integration with ML Workflows
-  
+
 - Feature Engineering:
 	- Use ETL pipelines to automate feature extraction (e.g., AWS Glue + SageMaker).
 - Model Serving:
@@ -133,9 +135,9 @@ Design and develop an architecture for a cloud-based SaaS data platform that off
 - Integration:
 	- Enable seamless access to processed data for ML workflows via APIs.
 	- Automate data labeling and validation using services like AWS Rekognition or custom ML pipelines.
-  
+
 ### 6. Trade-Offs
-  
+
 - **Serverless vs. Containerized Services:** Serverless solutions reduce operational overhead but may have execution time limits; containers provide more control for long-running tasks.
 - **Hot/Cold Storage Optimization:** Improves cost efficiency but may introduce latency for accessing cold storage.
 - **Schema Evolution Complexity:** Adds design overhead but ensures flexibility for clients with diverse and changing datasets.

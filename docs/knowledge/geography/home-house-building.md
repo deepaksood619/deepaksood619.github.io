@@ -15,6 +15,8 @@ https://www.youtube.com/watch?v=dy81ldYQdgY
 
 ![image](../../media/Personality-Life-Lessons-Buying-Guide-Travelling-Shopping-image1.jpg)
 
+![building cost](../../media/Screenshot%202025-01-16%20at%2012.41.08%20AM.jpg)
+
 ## Things to keep in mind
 
 - Railings should be glass and big, so that babies cannot fall through

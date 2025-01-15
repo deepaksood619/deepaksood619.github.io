@@ -37,3 +37,9 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 - [10 Timeless Investing Tips for Financial Freedom - The 1% News](https://news.onepercentclub.io/plan/10-timeless-investing-tips-to-become-a-successful-investor/5382/)
 - [Can I transfer Rs. 62 Lakhs from FDs to index funds and stay invested for 18 years?](https://freefincal.com/can-i-transfer-rs-62-lakhs-from-fds-to-index-funds-and-stay-invested-for-18-years/)
 - [Life Decisions that Affect an Indian's Bank Balance](https://freefincal.com/life-decisions-that-affect-an-indians-bank-balance/)
+- [5 Financial Habits that can Destroy Your Wealth in 2025 | CA Rachana Ranade](https://youtu.be/wE071sPR9CE)
+	- Just in case Hoarder - Minimalism
+	- Financial Illusionist - sab kuch thik ho jayega
+	- FOMO financier
+	- Gig economy syndrome
+	- Legacy builder syndrome
