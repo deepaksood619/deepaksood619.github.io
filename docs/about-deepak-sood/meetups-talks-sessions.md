@@ -1,5 +1,10 @@
 # Meetups / Talks / Sessions
 
+### Navigating Ethical Dilemmas in AI and ML Research and Education: A Focus on Generative AI (24 January 2024)
+
+- AIML Club at Manav Rachna International Institute of Research & Studies (MRIIRS)
+- second and third year students
+
 ### Kong in Action: Simplifying API Management for Modern Applications - CNCG (18 January 2024)
 
 In today’s rapidly evolving digital landscape, efficient API management is the cornerstone of seamless application performance, scalability, and security. Join us for an insightful session on **"Kong in Action: Simplifying API Management for Modern Applications"**, where we unravel the power of Kong as a leading API gateway and management solution.
@@ -20,6 +25,8 @@ Whether you’re a developer, architect, or tech enthusiast, this session offers
 [See API Kong-Versations:Gateway to 2025 at CNCF New Delhi](https://community.cncf.io/events/details/cncf-new-delhi-presents-api-kong-versationsgateway-to-2025/)
 
 [Deepak Sood on LinkedIn: #meetup #apimanagement #kongapi #techcommunity #apigateway #devops…](https://www.linkedin.com/posts/deepaksood619_meetup-apimanagement-kongapi-activity-7284961469870317568-vay_?utm_source=share&utm_medium=member_desktop)
+
+[Deepak Sood on LinkedIn: #apimanagement #konginaction #techcommunity](https://www.linkedin.com/posts/deepaksood619_cncgnewdelhi-apikongversations-kong-activity-7285976509545070593--IJR?utm_source=share&utm_medium=member_desktop)
 
 ### Podcast - Stream Processing using Kafka and Flink (20 December 2024)
 

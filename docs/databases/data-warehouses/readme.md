@@ -7,7 +7,7 @@
 	- [Clickhouse](databases/data-warehouses/clickhouse.md)
 	- [Amazon Redshift](databases/sql-databases/aws-redshift/readme.md)
 	- [Amazon Athena](cloud/aws/analytics/amazon-athena.md)
-	- [GCP BigQuery](cloud/others/gcp-bigquery-big-query.md)
+	- [GCP BigQuery](databases/data-warehouses/bigquery/readme.md)
 	- [Elasticsearch](technologies/elasticsearch/readme.md)
 	- [Hadoop](technologies/apache-hadoop/readme.md)
 	- [Druid](databases/nosql-databases/druid/readme.md)

@@ -131,6 +131,81 @@ More than just another GUI to Kong Admin API
 
 https://github.com/pantsel/konga
 
+## Getting Started
+
+[Get started with Konnect - Kong Konnect \| Kong Docs](https://docs.konghq.com/konnect/getting-started/)
+
+### Installation using Konnect
+
+```bash
+brew tap kong/deck
+brew install deck
+
+export DECK_KONNECT_CONTROL_PLANE_NAME='serverless-default'
+export DECK_KONNECT_TOKEN='kpat_eIfenaD74twNK4GTWCmAACVV0Dh69DML9fjDNU9YbXxAOrH9G'
+deck gateway ping
+```
+
+### Config
+
+```yaml
+# Welcome to Konnect!
+# In this quickstart, you'll set up a sample API and test key Kong Gateway
+# features, including authentication and rate-limiting. Using decK, you'll
+# sync the configuration in this file to a Serverless Gateway, giving you
+# hands-on experience with managing Gateway setups as code.
+# Once you're comfortable, you can define your own API in a decK configuration
+# or sync this configuration to a Gateway running in another environment.
+
+_format_version: "3.0"
+
+# A service is Kong Gateway's entity that describes an API or microservice.
+services:
+- host: api.kong-air.com
+  name: Kong-Air-Flights-API
+  path: /flights
+  port: 443
+  protocol: https
+
+  # A route defines the rules for how incoming requests are matched
+  # by Kong Gateway and sent to the appropriate backend service.
+  routes:
+  - name: deck-demo-route
+    methods:
+    - GET
+    - OPTIONS
+    paths:
+    - /first-route
+    protocols:
+    - http
+
+  # A plugin adds functionality to Kong Gateway, enabling features like
+  # authentication, rate limiting, logging, and more.
+  plugins:
+    # The key-auth plugin secures your service by requiring consumers to
+    # provide an API key for access.
+    - name: key-auth
+      config:
+        key_names:
+        - apikey
+        hide_credentials: false
+
+# In order to be able to access your authenticated API, we need to define a consumer and credentials.
+consumers:
+- username: demo_user
+  keyauth_credentials:
+  - key: hello_world
+```
+
+### Sync & Test
+
+```bash
+deck gateway sync ./demo_deck_config.yaml
+
+# test
+curl https://kong-578a9e8f3ausw9mj7.kongcloud.dev/first-route -H "apikey: hello_world"
+```
+
 ## References
 
 - [GitHub - Kong/kong: 🦍 The Cloud-Native API Gateway and AI Gateway.](https://github.com/Kong/kong)

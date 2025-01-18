@@ -5,7 +5,7 @@
 3. [Clickhouse](databases/data-warehouses/clickhouse.md)
 4. [Amazon Redshift](databases/sql-databases/aws-redshift/readme.md)
 5. [Amazon Athena](cloud/aws/analytics/amazon-athena.md)
-6. [GCP BigQuery](cloud/others/gcp-bigquery-big-query.md)
+6. [GCP BigQuery](databases/data-warehouses/bigquery/readme.md)
 7. [Elasticsearch](technologies/elasticsearch/readme.md)
 8. [Hadoop](technologies/apache-hadoop/readme.md)
 9. [Druid](databases/nosql-databases/druid/readme.md)

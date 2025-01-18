@@ -174,6 +174,8 @@ https://medium.com/containers-101/kubernetes-deployment-antipatterns-part-1-9e7b
 
 ## Learning (Container.training)
 
+KubeAstronaut
+
 https://container.training/kube-selfpaced.yml.html
 
 https://github.com/jpetazzo/container.training

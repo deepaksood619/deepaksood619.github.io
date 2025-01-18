@@ -90,6 +90,18 @@ https://aws.amazon.com/about-aws/whats-new/2020/12/multi-attach-support-now-avai
 
 [Can I reduce an over-sized EBS volume? | AWS re:Post](https://repost.aws/questions/QUPe0ekJ79TpaI-TNGoPXIKQ/can-i-reduce-an-over-sized-ebs-volume)
 
+## Increasing Size
+
+[Extend the file system after resizing an Amazon EBS volume - Amazon EBS](https://docs.aws.amazon.com/ebs/latest/userguide/recognize-expanded-volume-linux.html)
+
+```bash
+# xen based instance
+sudo lsblk
+sudo growpart /dev/xvda 1
+df -hT
+sudo resize2fs /dev/root
+```
+
 ## Links
 
 - [EBS vs NVMe: Don’t Use EBS for Cloud Native Services](https://www.vantage.sh/blog/ebs-vs-nvme-pricing-performance)

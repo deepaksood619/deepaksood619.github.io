@@ -73,6 +73,9 @@ https://cloud.google.com/scheduler/docs/quickstart
 
 ### Cloud Dataflow
 
+- Dataflow is a unified programming model and a managed service for developing and executing a wide range of data processing patterns including ETL, batch computation, and continuous computation.
+- The Dataflow model combines batch and stream processing so developers don't have to make tradeoffs between correctness, cost, and processing time.
+
 Unified stream and batch data processing that's serverless, fast, and cost-effective.
 
 - Real-time insights and activation with data streaming and machine learning

@@ -199,11 +199,24 @@ https://www.freecodecamp.org/news/how-to-use-google-tag-manager-to-maintain-goog
 
 ## Others
 
-- https://github.com/PostHog/posthog
 - https://www.adjust.com
 - [Heap - Better Insights. Faster. | Heap](https://www.heap.io/)
 - [Amplitude | Product Analytics & Event Tracking Platform | Amplitude](https://amplitude.com/)
 - [easyinsights.ai](https://easyinsights.ai/)
+
+### PostHog
+
+- Specify events manually, or use autocapture to get started quickly
+- Analyze data with ready-made visualizations, or do it yourself with SQL
+- Track website visitors separately with our GA4 alternative
+- Only capture properties on the people you want to track, save money when you don't
+- Gather insights by capturing session replays, console logs, and network monitoring
+- Improve your product with Experiments that automatically analyze performance
+- Safely roll out features to select users or cohorts with feature flags
+- Send out fully customizable surveys to specific cohorts of users
+- Connect to external services and manage data flows with PostHog CDP
+
+[GitHub - PostHog/posthog: 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.](https://github.com/PostHog/posthog)
 
 ### MixPanel
 

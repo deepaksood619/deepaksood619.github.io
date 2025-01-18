@@ -66,6 +66,7 @@ The future of decentralized finance lies in the hands of those who dare to chall
 - [Fern](https://fernhq.com/)
 	- Your onchain bank account
 	- Fern is the easiest way to onramp, offramp, and make crypto to fiat payments. For global citizens and teams.
+- [Internet Native Investing \| Midas](https://midas.app/)
 
 ## Hyperledger
 
