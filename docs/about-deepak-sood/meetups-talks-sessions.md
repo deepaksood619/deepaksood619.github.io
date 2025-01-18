@@ -20,6 +20,8 @@ This session introduces Kong’s key features, including load balancing, traffic
 
 Whether you’re a developer, architect, or tech enthusiast, this session offers valuable insights into leveraging Kong to simplify API management, reduce operational overhead, and future-proof your applications. Let’s simplify API management together!
 
+Presentation - [Kong in Action](https://docs.google.com/presentation/d/1nVVmLVwAhyjERJafOMY-Tl6diNCMDeH6q3TpNdHak3I/edit?usp=sharing)
+
 ![API Kong-Versations gateway to 2025](../media/deepak_sood_kong_in_action.jpg)
 
 [See API Kong-Versations:Gateway to 2025 at CNCF New Delhi](https://community.cncf.io/events/details/cncf-new-delhi-presents-api-kong-versationsgateway-to-2025/)

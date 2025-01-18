@@ -6,7 +6,7 @@
 - Jupiter - The Network
 - BigQuery - The Service
 
-![image](media/Cloud-Others-BigQuery-Big-Query-image1.jpg)
+![image](../../../media/Cloud-Others-BigQuery-Big-Query-image1.jpg)
 
 ## Separation of Compute and State
 
