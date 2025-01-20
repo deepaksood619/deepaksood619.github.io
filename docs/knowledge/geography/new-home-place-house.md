@@ -159,6 +159,10 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 - RO / Water
     - Ceremic filters are also good (doesn't require electricity / doesn't need Maintenance / no wastage of water / Cheap)
     - https://www.livemint.com/Leisure/6IPqOAHPfAb4aLecr2U0vI/How-safe-is-your-water.html
+- Water
+	- Tubewell
+	- Water storage tanks - underground (10000 ltrs) and above (1000 ltrs)
+	- Close by lakes/rivers for undisturbed water supply
 - Big Wardrobes (storage)
     - Sliding door better
     - Add door plastic below adder so cold AC air doesn't leak from below door
@@ -353,6 +357,7 @@ Take the value of the home that you are considering multiply by 5% and divide by
 8. No objection certificate (noc)
 9. Mutation letter
 10. Conversion certificate
+11. Motation / Mutation
 
 [Flat buying tips - 21 points checklist before buying a flat | FLAT BUYING TIPS | Personal Finance | - YouTube](https://www.youtube.com/watch?v=5biF-qJxuyo&ab_channel=InvestAajForKal)
 
@@ -456,6 +461,39 @@ A person feeding themselves a vegetarian diet would need about an acre of land a
 - [Addressing Short Term Real Estate Investors](https://youtu.be/zaHI01OlAi4)
 - [All Top Upcoming Projects | Real Estate | Noida | Ghaziabad](https://youtu.be/dAFvSRxwEhU)
 - [Noida Sec 150 Overview | Discover The Darker side and Future Opportunities | Whitehat Realty - YouTube](https://www.youtube.com/watch?v=K8o5Ky5VMV8&ab_channel=WhitehatRealty)
+
+### 2025-01-18 - Locations - Buy
+
+**Requirement -** We are looking for a residential plot, in a 1 hour travelling distance from sector 18. The budget is 2-3 cr. It should be from a reputed developer in a gated already built-up society, where people are already living. Loan should be available for due diligence. Not looking for a farm house. Something like chhattarpur farms, or ansal villas. It can be either be new or resell.
+
+144, advent building
+151 sector
+
+146 sector
+
+Brokers
+
+- +91 95829 72918 - AK Sharma
+
+[ATS Pristine - Google Maps](https://www.google.com/maps/place/ATS+Pristine,+Pushta+Rd,+Sector+150,+Noida,+Uttar+Pradesh+201310/data=!4m2!3m1!1s0x390cc1933f72bb5f:0x35523950c45896a7?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBjI1LjIuNBgAIJ6dCipsLDk0MjQyNTE3LDk0MjIzMjk5LDk0MjE2NDEzLDk0MjEyNDk2LDk0MjA3Mzk0LDk0MjA3NTA2LDk0MjA4NTA2LDk0MjE3NTIzLDk0MjE4NjUzLDk0MjI5ODM5LDQ3MDg0MzkzLDk0MjEzMjAwQgJJTg%3D%3D)
+
++91 70115 43356 - Ace estate Surendra tiwari, moneytree,
+ATS sector 22 D, yamuna expressway
+
+95829 72918 - Duplex bungalow rwa sector 135
+[HD-207, Duplex Villa Sector-135, Noida - Google Maps](https://www.google.com/maps/place/HD-207,+Duplex+Villa+Sector-135,+Noida/@28.4987734,77.3968481,17z/data=!3m1!4b1!4m6!3m5!1s0x390ce9acb76d6c2f:0xccb67a92fb9d54c3!8m2!3d28.4987734!4d77.3968481!16s%2Fg%2F11j7j7m70r?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D)
+
++919973136791 farm house lake view - Residential plot - [Rise Resorts Residency Villa - Google Maps](https://www.google.com/maps/place/Rise+Resorts+Residency+Villa/@28.5800944,77.4317573,17z/data=!3m1!4b1!4m6!3m5!1s0x390cef0301f8bfb7:0xabc2d83d549b4e46!8m2!3d28.5800944!4d77.4317573!16s%2Fg%2F11k547hlpn?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D)
+
+### 2025-01-17 - Rent
+
++919990086104 sector 26, 3rd floor, 45000, 3 bhk, 2 bathroom
+
+078275 71239 sector 26 rent broker
+
++918077095384 sector 26 (17 jan)
+
+Manoj broker - sector 26 - +91 98181 09460 (17 jan)
 
 ### Rates
 

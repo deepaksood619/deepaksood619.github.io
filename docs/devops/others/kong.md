@@ -208,48 +208,52 @@ curl https://kong-578a9e8f3ausw9mj7.kongcloud.dev/first-route -H "apikey: hello_
 
 ## Quiz
 
-### Question 1:
+### Question 1
 
-**What is a primary benefit of using Kong's plugin-driven architecture?**  
-1. It reduces the need for API versioning.  
-2. It allows custom extensions in multiple programming languages.  
-3. It eliminates the need for load balancing.  
+**What is a primary benefit of using Kong's plugin-driven architecture?**
+
+1. It reduces the need for API versioning.
+2. It allows custom extensions in multiple programming languages.
+3. It eliminates the need for load balancing.
 4. It replaces the need for microservices.
 
 **Answer:** 2. It allows custom extensions in multiple programming languages.
 
 ---
 
-### Question 2:
+### Question 2
 
-**Which of the following best describes Kong's role in a microservices architecture?**  
-1. It replaces microservices with a single monolithic application.  
-2. It acts as an entry point for client requests, managing traffic to microservices.  
-3. It serves as a database for microservices data.  
+**Which of the following best describes Kong's role in a microservices architecture?**
+
+1. It replaces microservices with a single monolithic application.
+2. It acts as an entry point for client requests, managing traffic to microservices.
+3. It serves as a database for microservices data.
 4. It directly processes client requests without routing them.
 
 **Answer:** 2. It acts as an entry point for client requests, managing traffic to microservices.
 
 ---
 
-### Question 3:
+### Question 3
 
-**Which authentication methods are supported by Kong?**  
-1. Basic, JWT, HMAC, OAuth 2  
-2. Basic, SSH, HMAC, LDAP  
-3. OAuth 1, JWT, SAML, SSH  
+**Which authentication methods are supported by Kong?**
+
+1. Basic, JWT, HMAC, OAuth 2
+2. Basic, SSH, HMAC, LDAP
+3. OAuth 1, JWT, SAML, SSH
 4. OAuth 2, SSH, LDAP, SAML
 
 **Answer:** 1. Basic, JWT, HMAC, OAuth 2
 
 ---
 
-### Question 4:
+### Question 4
 
-**What is Kong's "Admin API" primarily used for?**  
-1. Managing backend service configurations.  
-2. Controlling consumer-level traffic directly.  
-3. Configuring and managing Kong Gateway settings.  
+**What is Kong's "Admin API" primarily used for?**
+
+1. Managing backend service configurations.
+2. Controlling consumer-level traffic directly.
+3. Configuring and managing Kong Gateway settings.
 4. Monitoring API health and performance metrics.
 
 **Answer:** 3. Configuring and managing Kong Gateway settings.

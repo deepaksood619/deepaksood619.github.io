@@ -6,7 +6,7 @@ Option to assign adhoc queries that we run on bq studio to low priority tasks: w
 
 **Job Priority: Batch**
 
-When you set the **Job Priority** to **Batch** and check the **Override** box:  
+When you set the **Job Priority** to **Batch** and check the **Override** box:
 
 1. **Batch Priority Enabled**: All queries you run from the BigQuery Web UI (BQ Studio) under your account will execute as **Batch** jobs by default.
 2. **Impact**:

@@ -51,3 +51,5 @@ https://prometheus.io/docs/alerting/alertmanager
 https://prometheus.io/docs/alerting/configuration
 
 [https://github.com/prometheus/alertmanager/blob/master/doc/examples/simple.yml](https://github.com/prometheus/alertmanager/blob/master/doc/examples/simple.yml)
+
+[GitHub - robusta-dev/robusta: Better Prometheus alerts for Kubernetes - smart grouping, AI enrichment, and automatic remediation](https://github.com/robusta-dev/robusta)

@@ -3,7 +3,7 @@
 - [Product overview](/bigquery/docs/introduction)
 
 ## How does BigQuery work?
-    
+
 - [Storage](/bigquery/docs/storage_overview)
 - [Analytics](/bigquery/docs/query-overview)
 - [Administration](/bigquery/docs/admin-intro)
@@ -15,7 +15,7 @@
 ## Quickstarts
 
 ### Try the Cloud console
-    
+
 - [Query public data](/bigquery/docs/quickstarts/query-public-dataset-console)
 - [Load and query data](/bigquery/docs/quickstarts/load-data-console)
 - [Enable asset management](/bigquery/docs/enable-assets)
@@ -113,20 +113,20 @@
 - [BigQuery tables for Apache Iceberg](/bigquery/docs/iceberg-tables)
 
 - Specify table schemas
-    
+
     - [Specify a schema](/bigquery/docs/schemas)
     - [Specify nested and repeated columns](/bigquery/docs/nested-repeated)
     - [Specify default column values](/bigquery/docs/default-values)
 
 - Segment with partitioned tables
-    
+
     - [Introduction](/bigquery/docs/partitioned-tables)
     - [Create partitioned tables](/bigquery/docs/creating-partitioned-tables)
     - [Manage partitioned tables](/bigquery/docs/managing-partitioned-tables)
     - [Query partitioned tables](/bigquery/docs/querying-partitioned-tables)
-    
+
 - Optimize with clustered tables
-    
+
     - [Introduction](/bigquery/docs/clustered-tables)
     - [Create and use clustered tables](/bigquery/docs/creating-clustered-tables)
     - [Query clustered tables](/bigquery/docs/querying-clustered-tables)
@@ -136,12 +136,12 @@
 - [Introduction](/bigquery/docs/external-data-sources)
 
 - Types of external tables
-    
+
     - [BigLake external tables](/bigquery/docs/biglake-intro)
     - [BigQuery Omni](/bigquery/docs/omni-introduction)
     - [Object tables](/bigquery/docs/object-table-introduction)
     - [External tables](/bigquery/docs/external-tables)
-    
+
 - [External table definition file](/bigquery/docs/external-table-definition)
 - [Externally partitioned data](/bigquery/docs/hive-partitioned-queries)
 - [Use metadata caching](/bigquery/docs/metadata-caching)
@@ -211,9 +211,11 @@
 ## Load, transform, and export
 
 - [Introduction](/bigquery/docs/load-transform-export-intro)
+
 ## Load data
 
 - [Introduction](/bigquery/docs/loading-data)
+
 ### BigQuery Data Transfer Service
 
 - [Introduction](/bigquery/docs/dts-introduction)
@@ -229,62 +231,62 @@
 - [Data source change log](/bigquery/docs/transfer-changes)
 
 - Transfer guides
-    
+
     - Amazon S3
-        
+
         - [Introduction](/bigquery/docs/s3-transfer-intro)
         - [Schedule transfers](/bigquery/docs/s3-transfer)
         - [Transfer runtime parameters](/bigquery/docs/s3-transfer-parameters)
-        
+
     - Azure Blob Storage
-        
+
         - [Introduction](/bigquery/docs/blob-storage-transfer-intro)
         - [Schedule transfers](/bigquery/docs/blob-storage-transfer)
         - [Transfer runtime parameters](/bigquery/docs/blob-storage-transfer-parameters)
-        
+
     - Campaign Manager
-        
+
         - [Schedule transfers](/bigquery/docs/doubleclick-campaign-transfer)
         - [Report transformation](/bigquery/docs/doubleclick-campaign-transformation)
-        
+
     - Cloud Storage
-        
+
         - [Introduction](/bigquery/docs/cloud-storage-transfer-overview)
         - [Schedule transfers](/bigquery/docs/cloud-storage-transfer)
         - [Transfer runtime parameters](/bigquery/docs/gcs-transfer-parameters)
-        
+
     - Comparison Shopping Service Center
-        
+
         - [Introduction](/bigquery/docs/css-center-transfer)
         - [Schedule transfers](/bigquery/docs/css-center-transfer-schedule-transfers)
         - [Transfer report schema](/bigquery/docs/css-center-products-schema)
-        
+
     - Display & Video 360
-        
+
         - [Schedule transfers](/bigquery/docs/display-video-transfer)
         - [Report transformation](/bigquery/docs/display-video-transformation)
-        
+
     - Facebook Ads
-        
+
         - [Schedule transfers](/bigquery/docs/facebook-ads-transfer)
         - [Report transformation](/bigquery/docs/facebook-ads-transformation)
-        
+
     - Google Ad Manager
-        
+
         - [Schedule transfers](/bigquery/docs/doubleclick-publisher-transfer)
         - [Report transformation](/bigquery/docs/doubleclick-publisher-transformation)
-        
+
     - Google Ads
-        
+
         - [Schedule transfers](/bigquery/docs/google-ads-transfer)
         - [Report transformation](/bigquery/docs/google-ads-transformation)
-        
+
     - Google Merchant Center
-        
+
         - [Introduction](/bigquery/docs/merchant-center-transfer)
         - [Schedule transfers](/bigquery/docs/merchant-center-transfer-schedule-transfers)
         - Transfer report schema
-            
+
             - [Best Sellers table](/bigquery/docs/merchant-center-best-sellers-schema)
             - [Local Inventories table](/bigquery/docs/merchant-center-local-inventories-schema)
             - [Performance table](/bigquery/docs/merchant-center-performance-schema)
@@ -297,41 +299,41 @@
             - [Regional Inventories table](/bigquery/docs/merchant-center-regional-inventories-schema)
             - [Top Brands table](/bigquery/docs/merchant-center-top-brands-schema)
             - [Top Products table](/bigquery/docs/merchant-center-top-products-schema)
-        
+
     - Google Play
-        
+
         - [Schedule transfers](/bigquery/docs/play-transfer)
         - [Transfer report transformation](/bigquery/docs/play-transformation)
-        
+
     - Oracle
-        
+
         - [Schedule transfers](/bigquery/docs/oracle-transfer)
-        
+
     - Salesforce
-        
+
         - [Schedule transfers](/bigquery/docs/salesforce-transfer)
-        
+
     - Salesforce Marketing Cloud
-        
+
         - [Schedule transfers](/bigquery/docs/sfmc-transfer)
-        
+
     - Search Ads 360
-        
+
         - [Schedule transfers](/bigquery/docs/search-ads-transfer)
         - [Transfer report transformation](/bigquery/docs/search-ads-transformation)
         - [Migration guide](/bigquery/docs/search-ads-migration-guide)
-        
+
     - ServiceNow
-        
+
         - [Schedule transfers](/bigquery/docs/servicenow-transfer)
-        
+
     - YouTube channel
-        
+
         - [Schedule transfers](/bigquery/docs/youtube-channel-transfer)
         - [Transfer report transformation](/bigquery/docs/youtube-channel-transformation)
-        
+
     - YouTube content owner
-        
+
         - [Schedule transfers](/bigquery/docs/youtube-content-owner-transfer)
         - [Transfer report transformation](/bigquery/docs/youtube-content-owner-transformation)
 
@@ -355,14 +357,13 @@
 - [Read data with the Storage Read API](/bigquery/docs/reference/storage)
 
 - Write data with the Storage Write API
-    
+
     - [Introduction](/bigquery/docs/write-api)
     - [Stream data with the Storage Write API](/bigquery/docs/write-api-streaming)
     - [Batch load data with the Storage Write API](/bigquery/docs/write-api-batch)
     - [Best practices](/bigquery/docs/write-api-best-practices)
     - [Stream updates with change data capture](/bigquery/docs/change-data-capture)
     - [Use the legacy streaming API](/bigquery/docs/streaming-data-into-bigquery)
-    
 
 - [Load data from other Google services](/bigquery/docs/load-data-google-services)
 - [Discover and catalog Cloud Storage data](/bigquery/docs/automatic-discovery)
@@ -440,10 +441,10 @@
 - [Geospatial analytics syntax reference](/bigquery/docs/reference/standard-sql/geography_functions)
 
 - Geospatial analytics tutorials
-    
+
     - [Get started with geospatial analytics](/bigquery/docs/geospatial-get-started)
     - [Use geospatial analytics to plot a hurricane's path](/bigquery/docs/geospatial-tutorial-hurricane)
- 
+
 ### Search data
 
 - [Search indexed data](/bigquery/docs/search)
@@ -464,6 +465,7 @@
 - [Create continuous queries](/bigquery/docs/continuous-queries)
 
 - [Use cached results](/bigquery/docs/cached-results)
+
 ### Work with sessions
 
 - [Introduction](/bigquery/docs/sessions-intro)
@@ -494,7 +496,7 @@
 ### Manage open source metadata
 
 - BigQuery metastore
-    
+
     - [Introduction](/bigquery/docs/about-bqms)
     - [Use with Apache Spark and standard tables, BigQuery tables for Apache Iceberg, and external tables](/bigquery/docs/bqms-use-tables)
     - [Use with Apache Spark in BigQuery Studio](/bigquery/docs/bqms-use-notebook)
@@ -504,31 +506,31 @@
     - [Create tables with Apache Spark and query in BigQuery](/bigquery/docs/bqms-query-tables)
     - [Additional features](/bigquery/docs/bqms-features)
     - [Migrate from Dataproc Metastore](/bigquery/docs/bqms-dpms-migration-tool)
-    
+
 - [BigLake Metastore](/bigquery/docs/manage-open-source-metadata)
 
 ### Use external tables and datasets
 
 - Amazon S3 data
-    
+
     - [Query Amazon S3 data](/bigquery/docs/query-aws-data)
     - [Export query results to Amazon S3](/bigquery/docs/omni-aws-export-results-to-s3)
-    
+
 - [Query Apache Iceberg data](/bigquery/docs/query-iceberg-data)
 - [Query open table formats with manifests](/bigquery/docs/query-open-table-format-using-manifest-files)
 
 - Azure Blob Storage data
-    
+
     - [Query Azure Blob Storage data](/bigquery/docs/query-azure-data)
     - [Export query results to Azure Blob Storage](/bigquery/docs/omni-azure-export-results-to-azure-storage)
-    
+
 - [Query Cloud Bigtable data](/bigquery/docs/external-data-bigtable)
 
 - Cloud Storage data
-    
+
     - [Query Cloud Storage data in BigLake tables](/bigquery/docs/query-cloud-storage-using-biglake)
     - [Query Cloud Storage data in external tables](/bigquery/docs/query-cloud-storage-data)
-    
+
 - [Work with Salesforce Data Cloud data](/bigquery/docs/salesforce-quickstart)
 - [Query Google Drive data](/bigquery/docs/query-drive-data)
 - [Create AWS Glue federated datasets](/bigquery/docs/glue-federated-datasets)
@@ -623,18 +625,18 @@
 	- [Tune a model using your data](/bigquery/docs/generate-text-tuning)
 	- [Use tuning and evaluation to improve model performance](/bigquery/docs/tune-evaluate)
 	- [Analyze images with a Gemini vision model](/bigquery/docs/image-analysis)
-    
+
 - Generate embeddings
-    
+
     - [Generate text embeddings using an LLM](/bigquery/docs/generate-text-embedding)
     - [Generate image embeddings using an LLM](/bigquery/docs/generate-visual-content-embedding)
     - [Handle quota errors by calling ML.GENERATE\_EMBEDDING iteratively](/bigquery/docs/iterate-generate-embedding-calls)
     - [Generate video embeddings using an LLM](/bigquery/docs/generate-video-embedding)
     - [Generate and search multimodal embeddings](/bigquery/docs/generate-multimodal-embeddings)
     - [Generate text embeddings using pretrained TensorFlow models](/bigquery/docs/generate-embedding-with-tensorflow-models)
-    
+
 - Vector search
-    
+
     - [Search embeddings with vector search](/bigquery/docs/vector-search)
     - [Perform semantic search and retrieval-augmented generation](/bigquery/docs/vector-index-text-search-tutorial)
 
@@ -643,23 +645,23 @@
 - [Overview](/bigquery/docs/ai-application-overview)
 
 #### Tutorials
-    
+
 - Natural language processing
-    
+
     - [Understand text](/bigquery/docs/understand-text)
     - [Translate text](/bigquery/docs/translate-text)
-    
+
 - Document processing
-    
+
     - [Process documents](/bigquery/docs/process-document)
     - [Parse PDFs in a retrieval-augmented generation pipeline](/bigquery/docs/rag-pipeline-pdf)
-    
+
 - Speech recognition
-    
+
     - [Transcribe audio files](/bigquery/docs/transcribe)
-    
+
 - Computer vision
-    
+
     - [Annotate images](/bigquery/docs/annotate-image)
     - [Run inference on image data](/bigquery/docs/object-table-inference)
     - [Analyze images with an imported classification model](/bigquery/docs/inference-tutorial-resnet)
@@ -695,22 +697,22 @@
 - [Get started with BigQuery ML](/bigquery/docs/create-machine-learning-model)
 
 - Regression and classification
-    
+
     - [Create a linear regression model](/bigquery/docs/linear-regression-tutorial)
     - [Create a logistic regression classification model](/bigquery/docs/logistic-regression-prediction)
-    - [Create a boosted tree classification model](/bigquery/docs/boosted-tree-classifier-tutorial) 
+    - [Create a boosted tree classification model](/bigquery/docs/boosted-tree-classifier-tutorial)
 
 - Clustering
-    
+
     - [Cluster data with a k-means model](/bigquery/docs/kmeans-tutorial)
 
 - Recommendation
-    
+
     - [Create recommendations based on explicit feedback with a matrix factorization model](/bigquery/docs/bigqueryml-mf-explicit-tutorial)
     - [Create recommendations based on implicit feedback with a matrix factorization model](/bigquery/docs/bigqueryml-mf-implicit-tutorial)
 
 - Time series forecasting
-    
+
     - [Forecast a single time series with a univariate model](/bigquery/docs/arima-single-time-series-forecasting-tutorial)
     - [Forecast multiple time series with a univariate model](/bigquery/docs/arima-multiple-time-series-forecasting-tutorial)
     - [Scale a univariate time series model to millions of time series](/bigquery/docs/arima-speed-up-tutorial)
@@ -718,25 +720,25 @@
     - [Forecast multiple time series with a multivariate model](/bigquery/docs/arima-plus-xreg-multiple-time-series-forecasting-tutorial)
     - [Use custom holidays with a univariate model](/bigquery/docs/time-series-forecasting-holidays-tutorial)
     - [Limit forecasted values for a univariate model](/bigquery/docs/arima-time-series-forecasting-with-limits-tutorial)
-    - [Forecast hierarchical time series with a univariate model](/bigquery/docs/arima-time-series-forecasting-with-hierarchical-time-series)    
+    - [Forecast hierarchical time series with a univariate model](/bigquery/docs/arima-time-series-forecasting-with-hierarchical-time-series)
 
 - Anomaly detection
-    
+
     - [Anomaly detection with a multivariate time series](/bigquery/docs/time-series-anomaly-detection-tutorial)
 
 - Imported and remote models
-    
+
     - [Make predictions with imported TensorFlow models](/bigquery/docs/making-predictions-with-imported-tensorflow-models)
     - [Make predictions with scikit-learn models in ONNX format](/bigquery/docs/making-predictions-with-sklearn-models-in-onnx-format)
     - [Make predictions with PyTorch models in ONNX format](/bigquery/docs/making-predictions-with-pytorch-models-in-onnx-format)
     - [Make predictions with remote models on Vertex AI](/bigquery/docs/bigquery-ml-remote-model-tutorial)
 
 - Hyperparameter tuning
-    
+
     - [Improve model performance with hyperparameter tuning](/bigquery/docs/hyperparameter-tuning-tutorial)
 
 - Export models
-    
+
     - [Export a BigQuery ML model for online prediction](/bigquery/docs/export-model-tutorial)
 
 ## Augmented analytics

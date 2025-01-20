@@ -11,6 +11,42 @@
 - `/generate`
 - `/optimize`
 - `/tests`
+- Start chatting with copilot - `Opt + Cmd + I (chat with copilot)`
+
+### Help
+
+You can ask me general programming questions, or chat with the following participants which have specialized expertise and can perform actions:
+
+- @workspace - Ask about your workspace
+    - /explain - Explain how the code in your active editor works
+    - /tests - Generate unit tests for the selected code
+    - /fix - Propose a fix for the problems in the selected code
+    - /new - Scaffold code for a new file or project in a workspace
+    - /newNotebook - Create a new Jupyter Notebook
+    - /fixTestFailure - Propose a fix for the failing test
+    - /setupTests - Set up tests in your project (Experimental)
+- @vscode - Ask questions about VS Code
+    - /search - Generate query parameters for workspace search
+    - /startDebugging - Generate launch config and start debugging in VS Code (Experimental)
+- @terminal - Ask how to do something in the terminal
+    - /explain - Explain something in the terminal
+- @github - Get answers grounded in web search, code search, and your enterprise's knowledge bases
+
+You can also help me understand your question by using the following variables to give me extra context:
+
+- `#editor` - The visible source code in the active editor
+- `#selection` - The current selection in the active editor
+- `#terminalLastCommand` - The active terminal's last run command
+- `#terminalSelection` - The active terminal's selection
+- `#file` - Choose a file in the workspace
+
+To have a great conversation, ask me questions as if I was a real programmer:
+
+- **Show me the code** you want to talk about by having the files open and selecting the most important lines.
+- **Make refinements** by asking me follow-up questions, adding clarifications, providing errors, etc.
+- **Review my suggested code** and tell me about issues or improvements, so I can iterate on it.
+
+You can also ask me questions about your editor selection by [starting an inline chat session (⌘I)](vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/code/electron-sandbox/workbench/workbench.html).
 
 ### Links
 

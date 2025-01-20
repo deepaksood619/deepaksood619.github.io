@@ -6,6 +6,7 @@
 - [Concepts](ai/data-visualization/tableau/concepts.md)
 - [Augmented Analytics](ai/data-visualization/tableau/augmented-analytics.md)
 - [Dashboarding](ai/data-visualization/tableau/dashboarding.md)
+- [Questions](ai/data-visualization/tableau/interview-questions.md)
 - [Others](ai/data-visualization/tableau/others.md)
 
 Visualization from relational databases and data cubes, OLAP cubes, cloud databases

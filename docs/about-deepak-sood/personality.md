@@ -82,6 +82,8 @@ Assertive individuals are self-assured, even-tempered, and resistant to stress. 
 - Strength 5 - Empathizer
 	- Empathizers are great at understanding how people feel and use this sensibility to do good for others. They become frustrated when asked to disregard feelings and focus solely on logic instead.
 
+[Free Strengths Test \| Find Your Character Traits & Personality Types](https://high5test.com/)
+
 ## RISC DIGITAL MINDSET
 
 ### Resiliency - Adaptability

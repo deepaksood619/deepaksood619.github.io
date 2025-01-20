@@ -3,7 +3,7 @@
 ### Navigating Ethical Dilemmas in AI and ML Research and Education: A Focus on Generative AI (24 January 2024)
 
 - AIML Club at Manav Rachna International Institute of Research & Studies (MRIIRS)
-- second and third year students
+- Second and third year students
 
 ### Kong in Action: Simplifying API Management for Modern Applications - CNCG (18 January 2024)
 
@@ -29,6 +29,8 @@ Presentation - [Kong in Action](https://docs.google.com/presentation/d/1nVVmLVwA
 [Deepak Sood on LinkedIn: #meetup #apimanagement #kongapi #techcommunity #apigateway #devops…](https://www.linkedin.com/posts/deepaksood619_meetup-apimanagement-kongapi-activity-7284961469870317568-vay_?utm_source=share&utm_medium=member_desktop)
 
 [Deepak Sood on LinkedIn: #apimanagement #konginaction #techcommunity](https://www.linkedin.com/posts/deepaksood619_cncgnewdelhi-apikongversations-kong-activity-7285976509545070593--IJR?utm_source=share&utm_medium=member_desktop)
+
+[Deepak Sood on LinkedIn: #apimanagement #kongapi #microservices #techtalks #knowledgesharing…](https://www.linkedin.com/posts/deepaksood619_apimanagement-kongapi-microservices-activity-7286813576332288000-YuzR?utm_source=share&utm_medium=member_desktop)
 
 ### Podcast - Stream Processing using Kafka and Flink (20 December 2024)
 
