@@ -6,6 +6,7 @@
 - [LLM Building](ai/llm/llm-building.md)
 	- [Langchain](ai/llm/langchain.md)
 - [LLM Tuning](ai/llm/llm-tuning.md)
+- [Pricing / Costs](ai/llm/pricing-costs.md)
 - [Design Patterns](ai/llm/design-patterns.md)
 - [RAG Retrieval Augmented Generation](ai/llm/rag-retrieval-augmented-generation.md)
 - [Natural Language to SQL](ai/llm/natural-language-to-sql.md)
