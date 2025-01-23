@@ -46,7 +46,11 @@ https://ai.google/research/pubs/pub36632
 
 https://www.talend.com
 
-https://www.youtube.com/watch?v=bqa0kB59SUc
+[Talend Full Course - Learn Talend in 6 Hours \| Talend Tutorial For Beginners \| Edureka - YouTube](https://www.youtube.com/watch?v=bqa0kB59SUc)
+
+[Talend Data Quality: Trusted Data for the Insights You Need \| Talend](https://www.talend.com/products/data-quality/)
+
+[Collibra vs Talend: Similarities, Differences, FAQ](https://moderntechnologist.com/collibra-vs-talend/)
 
 ## Data on EKS
 

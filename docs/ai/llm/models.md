@@ -84,6 +84,41 @@ Emotional prompting example - You are Dolphin, an uncensored and unbiased Al ass
 - Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.
 - [GitHub - openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper)
 
+#### Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series
+
+##### What is Time Series?
+
+Time series is a popular use case that consists of gathering data in order over time. It's crucial to use this data to make predictions and spot trends. It can be applied to real-life situations like:
+
+- Predicting Stock Prices
+- Figuring out Future Product Demand
+- Energy Demand Prediction
+- Supply Chain Optimization
+
+##### Why is it challenging?
+
+Predicting time series is challenging because patterns in the data can change over time and are influenced by many unpredictable factors.
+
+So... what's the deal with TTMs?
+
+1. TTM, a general representation model for time series, provides zero-shot forecasts that are state-of-the-art, outperforming popular benchmarks demanding billions of parameters.
+2. With less than 1 million parameters, TTM supports point forecasting use-cases ranging from minutely to hourly resolutions and can be easily fine-tuned on your multi-variate target data, requiring just 5% of the training data to be competitive.
+3. TTM takes only a few seconds for zeroshot/inference and a few minutes for finetuning in 1 GPU machine, unlike the long timing-requirements and heavy computing infra needs of other pre-trained models.
+4. TTM models are pre-trained on diverse public time-series datasets and can be easily accessed and deployed.
+
+##### Features
+
+- Open Source
+- Small Model
+- Easy to Fine Tune
+- Great out-of-the-box performance
+- Fast and Efficient
+
+##### Links
+
+- [Paper page - Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series](https://huggingface.co/papers/2401.03955)
+- [Granite Time Series Models - a ibm-granite Collection](https://huggingface.co/collections/ibm-granite/granite-time-series-models-663a90c6a2da73482bce3dc6)
+
 #### Others
 
 [Introducing Nova-2: The Fastest, Most Accurate Speech-to-Text API | Deepgram](https://deepgram.com/learn/nova-2-speech-to-text-api)

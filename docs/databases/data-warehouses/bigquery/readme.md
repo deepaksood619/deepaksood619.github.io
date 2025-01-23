@@ -30,6 +30,7 @@ Queries (on-demand) - $6.25 per TiB - The first 1 TiB per month is free.
 ## Others
 
 - `BigQuery` should not be used if you expect OLTP behavior or performance.
+- [Write data from Kafka to BigQuery with Dataflow  \|  Google Cloud](https://cloud.google.com/dataflow/docs/kafka-dataflow)
 
 ## References
 

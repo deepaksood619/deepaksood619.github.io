@@ -1,9 +1,13 @@
 # Meetups / Talks / Sessions
 
-### Navigating Ethical Dilemmas in AI and ML Research and Education: A Focus on Generative AI (24 January 2024)
+### Navigating Ethical Dilemmas in AI and ML Research and Education in Generative AI (24 January 2024)
 
 - AIML Club at Manav Rachna International Institute of Research & Studies (MRIIRS)
 - Second and third year students
+
+[MRAC on LinkedIn: #ai #machinelearning #ethicsinai #generativeai #manavrachna #aimlclub…](https://www.linkedin.com/posts/mrac-mri_ai-machinelearning-ethicsinai-activity-7288152581913165826-Ax8j?utm_source=share&utm_medium=member_desktop)
+
+[Deepak Sood on LinkedIn: #ethicalai #generativeai #aiforgood #machinelearning #aimlclub #airesearch…](https://www.linkedin.com/posts/deepaksood619_ai-machinelearning-ethicsinai-activity-7288180380531073024-xwOY?utm_source=share&utm_medium=member_desktop)
 
 ### Kong in Action: Simplifying API Management for Modern Applications - CNCG (18 January 2024)
 

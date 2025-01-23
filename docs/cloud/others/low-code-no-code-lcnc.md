@@ -54,6 +54,8 @@
 
 - [Create a Free Website with a Drag-and-Drop Builder | HubSpot](https://www.hubspot.com/products/cms/drag-and-drop-website-builder)
 - [The 6 best free website builders in 2024 | Zapier](https://zapier.com/blog/best-website-builders/)
+- [How to Quickly Build SaaS Products With Lovable AI (No Coding)](https://www.productcompass.pm/p/how-to-create-saas-apps-with-lovable-ai)
+- [Fetching Title#83di](https://lovable.dev/blog/2025-01-22-figma-to-lovable-builder-io-native-integration)
 
 ## Links
 

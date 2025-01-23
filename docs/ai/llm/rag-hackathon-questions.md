@@ -118,6 +118,28 @@ Customers say - https://www.amazon.in/Duracell-Slimmest-Charging-Portable-Simult
 - [AI Hackathons](ai/hackathons.md)
 - [Practical AI Problems](ai/ml-fundamentals/practical-ai-problems.md)
 
+## Summarized GenAI Use Cases
+
+### 1. Intelligent Review Summarization for E-Commerce
+
+An AI-powered tool that ingests multilingual, multimodal product reviews, analyzes sentiment, and extracts key aspects like quality, features, and value. It provides concise summaries, enabling customers to make informed decisions quickly and efficiently.
+
+### 2. Virtual Recruiter with RAG System
+
+A generative AI assistant leverages Amazon Bedrock and Claude to create a Retrieval-Augmented Generation (RAG) system for personalized hiring. It automates tasks like resume screening, crafting outreach messages, and answering candidate queries, streamlining recruitment with tailored interactions.
+
+### 3. EdTech Career Advisor
+
+An AI-driven advisor that helps students discover suitable colleges and branches based on their preferences and rank. It provides tailored recommendations, empowering students to make data-informed career decisions.
+
+### 4. Agentic AI for University Information
+
+A GenAI agent that queries databases to provide relevant, real-time information to students, faculty, and administrators in an educational university setting. It simplifies access to critical data like course details, schedules, and academic resources.
+
+### 5. Generative BI with Amazon Q in QuickSight
+
+Generative Business Intelligence uses Amazon Q in QuickSight to enable intuitive, conversational queries for data analysis. Users can ask questions in natural language and get instant visual insights, simplifying complex data-driven decision-making.
+
 ## Links
 
 - [AWS Gen AI Hackathon](about-deepak-sood/projects/58-aws-gen-ai-hackathon-rag.md)
