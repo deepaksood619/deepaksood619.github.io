@@ -46,7 +46,7 @@ To have a great conversation, ask me questions as if I was a real programmer:
 - **Make refinements** by asking me follow-up questions, adding clarifications, providing errors, etc.
 - **Review my suggested code** and tell me about issues or improvements, so I can iterate on it.
 
-You can also ask me questions about your editor selection by [starting an inline chat session (⌘I)](vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/code/electron-sandbox/workbench/workbench.html).
+You can also ask me questions about your editor selection by starting an inline chat session (⌘I).
 
 ### Free tier
 

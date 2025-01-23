@@ -120,7 +120,28 @@ https://chatgpt.com/share/674780e9-c504-8005-a023-b7aa945329d4
 
 ### Prompting Guide
 
-![ChatGPT Ultimate Prompting Guide](../../media/chatgpt-promt-engineering.jpg)
+1. **Tone:** Specify the desired tone (e.g., formal, casual, informative, persuasive).
+2. **Format:** Define the format or structure (e.g., essay, bullet points, outline, dialogue).
+3. **Act as:** Indicate a role or perspective to adopt (e.g., expert, critic, enthusiast).
+4. **Objective:** State the goal or purpose of the response (e.g., inform, persuade, entertain).
+5. **Context:** Provide background information, data, or context for accurate content generation.
+6. **Scope:** Define the scope or range of the topic.
+7. **Keywords:** List important keywords or phrases to be included.
+8. **Limitations:** Specify constraints, such as word or character count.
+9. **Examples:** Provide examples of desired style, structure, or content.
+10. **Deadline:** Mention deadlines or time frames for time-sensitive responses.
+11. **Audience:** Specify the target audience for tailored content.
+12. **Language:** Indicate the language for the response, if different from the prompt.
+13. **Citations:** Request inclusion of citations or sources to support information.
+14. **Points of view:** Ask the Al to consider multiple perspectives or opinions.
+15. **Counterarguments:** Request addressing potential counterarguments.
+16. **Terminology:** Specify industry-specific or technical terms to use or avoid.
+17. **Analogies:** Ask the Al to use analogies or examples to clarify concepts.
+18. **Quotes:** Request inclusion of relevant quotes or statements from experts.
+19. **Statistics:** Encourage the use of statistics or data to support claims.
+20. **Visual elements:** Inquire about including charts, graphs, or images.
+21. **Call to action:** Request a clear call to action or next steps.
+22. **Sensitivity:** Mention sensitive topics or issues to be handled with care or avoided.
 
 ![ChatGPT Prompts Commands](../../media/chatgpt-prompts.jpg)
 
@@ -138,3 +159,7 @@ For this RFP, please share the questionnaire that can be sent to client for crea
 For the attached RFP Create a proposal from vendor opstree to client mentioned in RFP. Create only the outline so we can add the details later.
 
 Now create a detailed plan for section 3.1 ABC
+
+## Creating Followup Questions
+
+What are the questions that needs to be asked to understand the requirements fully. Keep all questions one liner and not make it verbose
