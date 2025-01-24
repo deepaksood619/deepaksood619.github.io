@@ -40,6 +40,8 @@ Presentation - [Kong in Action](https://docs.google.com/presentation/d/1nVVmLVwA
 
 [Deepak Sood on LinkedIn: #apimanagement #kongapi #microservices #techtalks #knowledgesharing…](https://www.linkedin.com/posts/deepaksood619_apimanagement-kongapi-microservices-activity-7286813576332288000-YuzR?utm_source=share&utm_medium=member_desktop)
 
+[CNCG New Delhi on LinkedIn: 𝗪𝗲 𝗖𝗮𝗺𝗲, 𝗪𝗲 𝗞𝗼𝗻𝗴-𝘃𝗲𝗿𝘁𝗲𝗱 𝘁𝗵𝗲 𝗰𝗿𝗼𝘄𝗱 At CNCG New…](https://www.linkedin.com/posts/cncgnd_%F0%9D%97%AA%F0%9D%97%B2-%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%B2-%F0%9D%97%AA%F0%9D%97%B2-%F0%9D%97%9E%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%B1-ugcPost-7287826100376809472-HIZC?utm_source=share&utm_medium=member_desktop)
+
 ### Podcast - Stream Processing using Kafka and Flink (20 December 2024)
 
 - Transcript - [Podcast - Stream Processing using Kafka and Flink](about-deepak-sood/projects/43-podcast-stream-processing-using-kafka-and-flink.md)
