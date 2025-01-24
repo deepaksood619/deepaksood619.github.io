@@ -25,6 +25,7 @@
 
 ## AI Generators
 
+- Midjourney
 - [**Gemini** - Google DeepMind](https://deepmind.google/technologies/gemini)
     - [Google Bard update: Image generation and Gemini Pro adds more languages](https://blog.google/products/bard/google-bard-gemini-pro-image-generation/)
 - [Stable Diffusion Online](https://stablediffusionweb.com/) - [Stability AI](https://stability.ai/) - Generation of unique, realistic, high-quality images, art, logos, and designs

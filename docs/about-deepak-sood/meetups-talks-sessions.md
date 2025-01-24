@@ -5,6 +5,10 @@
 - AIML Club at Manav Rachna International Institute of Research & Studies (MRIIRS)
 - Second and third year students
 
+Presentation - [Ethics in GenAI](https://docs.google.com/presentation/d/1R-o8VoK926GisNSoHL6c2t52cOYUWyLjRyqtpC7-ecw/edit?usp=sharing)
+
+![Expert Talk - Navigating Ethical Dilemmas in AI and ML Research and Education in Generative AI](../media/Pasted%20image%2020250123230257.jpg)
+
 [MRAC on LinkedIn: #ai #machinelearning #ethicsinai #generativeai #manavrachna #aimlclub…](https://www.linkedin.com/posts/mrac-mri_ai-machinelearning-ethicsinai-activity-7288152581913165826-Ax8j?utm_source=share&utm_medium=member_desktop)
 
 [Deepak Sood on LinkedIn: #ethicalai #generativeai #aiforgood #machinelearning #aimlclub #airesearch…](https://www.linkedin.com/posts/deepaksood619_ai-machinelearning-ethicsinai-activity-7288180380531073024-xwOY?utm_source=share&utm_medium=member_desktop)

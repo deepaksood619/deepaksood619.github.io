@@ -17,6 +17,7 @@
 - [Tools](ai/llm/tools.md)
 - [Code Generators](ai/llm/code-generators.md)
 - [LLM FinTech Use Cases](ai/llm/fintech-use-cases.md)
+- [Ethics](ai/llm/ethics.md)
 
 ## Questions / Problem Statements / Hackathons
 
