@@ -56,3 +56,4 @@ Long years ago we made a tryst with destiny, and now the time comes when we shal
 - [Fact-checking five days of Narendra Modi’s speeches: A catalogue of lies](https://scroll.in/article/1067126/fact-checking-five-days-of-narendra-modis-speeches-a-catalogue-of-lies)
 - [Inside Indian polls: Modi’s lies, fake news and media that does not question](https://www.newslaundry.com/2024/04/18/inside-indian-polls-modis-lies-fake-news-and-media-that-does-not-question)
 - [43 Modi Claims That Are Not True, Over 5 Years](https://www.factchecker.in/43-modi-claims-that-are-not-true-over-5-years/)
+- [PM Modi's Viral 'Teleprompter Fail' Video: AAP Takes DIG at PM Says 'Like BJP, Teleprompter Also...' - YouTube](https://www.youtube.com/watch?v=hJD57DSDQpY&ab_channel=OneindiaNews)

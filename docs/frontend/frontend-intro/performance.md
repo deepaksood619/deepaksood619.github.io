@@ -42,3 +42,5 @@
 8. **Dynamic Imports** - Load code modules dynamically based on user actions to optimize the initial loading times.
 
 ![Frontend Performance Cheatsheet](../../media/Pasted%20image%2020240605180411.jpg)
+
+[Post from ByteByteGo - YouTube](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=Ugkxb9-E5Z6uubpOMMwxhQQ1NT4RTYC-yP_u)
