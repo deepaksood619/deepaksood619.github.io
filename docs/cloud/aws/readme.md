@@ -45,6 +45,7 @@
     - [Amazon Database Migration Service DMS](aws-database-migration-service-dms)
 - [AWS Backup](cloud/aws/aws-backup.md)
 - [AWS Rekognition](aws-rekognition)
+- [Amazon Transcribe](cloud/aws/amazon-transcribe.md)
 - [Amazon Pinpoint](amazon-pinpoint)
 - [Amazon Q (Preview)](https://aws.amazon.com/q/)
     - Your generative AI-powered assistant designed for work that can be tailored to your business

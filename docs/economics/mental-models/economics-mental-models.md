@@ -307,6 +307,18 @@ In economics, the **Jevons paradox** (sometimes **Jevons effect**) occurs whe
 
 [Jevons paradox - Wikipedia](https://en.wikipedia.org/wiki/Jevons_paradox)
 
+## Lipstick index
+
+The lipstick index is an economic theory that suggests that people buy small luxuries, like cosmetics, when the economy is struggling. The term was coined by Leonard Lauder, the former chairman of Estée Lauder.
+
+- The theory suggests that people buy affordable luxuries to treat themselves and escape financial problems.
+- The lipstick index is based on the idea that people want to feel good and satisfy psychological desires, even when times are hard.
+- The lipstick index is supported by sales data, but some say it doesn't capture the whole picture of consumer splurging.
+
+## Men's Underwear Index (MUI)
+
+The Men's Underwear Index (MUI) is an economic indicator that suggests that an increase in men's underwear sales indicates a healthy economy. The MUI is based on the idea that people are more likely to buy non-essential items like underwear when they feel optimistic about their financial situation. Former US Federal Reserve chairman Alan Greenspan is credited with coining the MUI.
+
 ## Links
 
 - [Marginal Utility / Analysis](marginal-utility-analysis)

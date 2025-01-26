@@ -29,6 +29,8 @@
 - [Podcast - Stream Processing using Kafka and Flink](about-deepak-sood/projects/43-podcast-stream-processing-using-kafka-and-flink.md)
 - [Document Data Extraction](about-deepak-sood/projects/42-document-data-extraction.md)
 - [On-Premise MLOps Platform](about-deepak-sood/projects/40-on-premise-mlops-platform.md)
+- [Cloud Based SAAS Data Platform](about-deepak-sood/projects/41-cloud-based-saas-data-platform.md)
+- [AI Powered Call Quality Monitoring](about-deepak-sood/projects/39-ai-powered-call-quality-monitoring.md)
 
 #### Case Studies
 
@@ -40,10 +42,6 @@
 - [GenAI Case Study - Careers360](about-deepak-sood/projects/47-genai-case-study-careers360.md)
 - [Traditional AI Case Studies](about-deepak-sood/projects/45-traditional-ai-case-studies.md)
 - [Agri Tech Digital Transformation Case Study](about-deepak-sood/projects/44-agri-tech-digital-transformation-case-study.md)
-
-#### Others
-
-- [Cloud Based SAAS Data Platform](about-deepak-sood/projects/41-cloud-based-saas-data-platform.md)
 
 ### Bake.io
 

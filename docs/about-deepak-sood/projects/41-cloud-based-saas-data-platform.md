@@ -55,6 +55,8 @@ Design and develop an architecture for a cloud-based SaaS data platform that off
 
 ![cloud-based-saas-platform](../../media/cloud-based-saas-platform.drawio.png)
 
+https://drive.google.com/file/d/1Kk1_INbeBsGtxDgAVCBjlUDcSLd-B2_D/view?usp=drive_link
+
 ### 2. Data Flow Overview
 
 1. Data Ingestion Layer:

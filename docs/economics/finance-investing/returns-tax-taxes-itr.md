@@ -6,12 +6,18 @@ Tax evasion (punishable) vs tax avoidance (your legitimate right) of saving tax
 
 Tax Consulation - https://www.charteredclub.com/tax-consultation-with-ca-karan-batra
 
-Input tax credit
-
 **Period: April 1, 2022 - March 31, 2023**
 
 - Financial Year: 2022 - 2023
 - Assessment Year: 2023 - 2024
+
+### Input tax credit
+
+[Input Tax Credit under GST - Conditions To Claim](https://cleartax.in/s/input-tax-credit-under-gst)
+
+[Input Tax Credit (ITC) under GST Explained](https://cleartax.in/s/gst-input-tax-credit)
+
+[What is Input Tax Credit (ITC) under GST with Example?](https://www.bajajfinserv.in/what-is-input-tax-credit-under-gst)
 
 ### Direct and indirect taxes
 
@@ -55,6 +61,10 @@ Mr. India will be liable to pay income tax on this INR 1 crore at [slab rates](h
 [A Comprehensive Guide on Tax for Freelancers](https://www.thegalacticadvisors.com/post/comprehensive-guide-on-tax-for-freelancers)
 
 [Input Tax Credit under GST - Check Conditions To Claim](https://www.bajajfinserv.in/what-is-input-tax-credit-under-gst)
+
+### Foreign Income
+
+For example, **if you receive Rs 1,00,000 as foreign remittance into your Indian bank account, you are liable to pay 18%**, i.e., Rs 18,000 as GST to the Indian government. If you receive foreign remittances not in INR but in a foreign currency, you are not liable to pay GST on the amount you received.
 
 ## CA
 
@@ -159,8 +169,9 @@ If people have to invest or spend more, they need to earn at least ₹2.5lks/yr?
 
 [Certain Pensions | Zee Business](https://www.zeebiz.com/personal-finance/photo-gallery-income-tax-season-non-taxable-5-types-income-exempt-from-taxation-agriculture-gifts-gratuity-scholarships-pension-300544/certain-pensions-300549)
 
-## Freelancing / Freelancer
+## Freelancing / Freelancer / Consulting
 
+- 194J
 - ITR4
 - If the total tax liability during a financial year exceeds Rs.10,000, the taxpayer is required to pay taxes every quarter. This is called advance tax.
 - If the total revenue from freelancing work is not more than Rs. 20 lakhs, then GST does not apply.
@@ -168,7 +179,7 @@ If people have to invest or spend more, they need to earn at least ₹2.5lks/yr?
 
 ### 44ADA - Presumptive Tax Scheme for Professionals
 
-The benefit of section 44ADA can be taken only by those specified professionals whose annual gross receipts are under Rs.50 lakh (This limit is Rs.75 lakh, provided 95% of the receipts are through recognised banking channels).
+The benefit of section 44ADA can be taken only by those specified professionals whose annual gross receipts are under Rs.50 lakh (This limit is **Rs.75 lakh**, provided 95% of the receipts are through recognised banking channels).
 
 The presumptive scheme of taxation reduces the compliance burden on small professions and facilitates ease of doing business. Under the presumptive scheme of taxation, profits/taxable income is presumed at 50% of the gross receipts.
 
@@ -221,6 +232,22 @@ Consultant’s whose income exceeds Rs.10 lakh must get their expenses audited b
 LUT (Letter of Undertaking) - [GST: How to file an LUT?](https://www.thegalacticadvisors.com/post/gst-how-to-file-an-lut) - let's you export goods or services without payment of GST
 
 Proprietorship Taxation - [Proprietorship Tax Return Filing & Its Compliance - IndiaFilings](https://www.indiafilings.com/learn/proprietorship-tax-return-filing/)
+
+[Tax on Consultancy Services: Applicability, Tax Rate and Benefits](https://cleartax.in/s/tax-on-consultancy-services)
+
+[Taxation for software engineer consultant : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/18rfyb0/taxation_for_software_engineer_consultant/)
+
+[Save MONEY on TAXES! \| Tax Tips for Freelancers 2023 \| Ankur Warikoo Hindi - YouTube](https://www.youtube.com/watch?v=dBRC5hPcokc)
+
+### GST / LUT
+
+[Is LUT needed even if the income is under 20 Laks? : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/1btrn2r/is_lut_needed_even_if_the_income_is_under_20_laks/)
+
+[How to furnish LUT in RFD-11 on GST Portal](https://cleartax.in/s/lut-letter-of-undertaking-gst)
+
+[LUT Full Form, Eligibility, and Process](https://www.skydo.com/blog/all-you-need-to-know-about-lut-for-tech-service-export)
+
+[LUT Full Form, Eligibility, and Process](https://www.skydo.com/blog/all-you-need-to-know-about-lut-for-tech-service-export)
 
 ## Deductions
 
@@ -563,19 +590,22 @@ It is 5% of the remittance amount above INR 7 Lakhs. From October 1, 2023 onward
 
 ## Links
 
-[How To (LEGALLY) Never Pay Taxes - Do This Today - YouTube](https://www.youtube.com/watch?v=248o4zc9RmI)
-
-[Section 10 Of Income Tax Act: Exemptions, Allowances and How To Claim It?](https://cleartax.in/s/section-10-of-income-tax-act)
-
-[How to Save TAX](https://www.youtube.com/watch?v=BfSx7qcDxx4)
-
-[Make your Income Tax ZERO! | Ultimate Tax Saving Masterclass | LLA - YouTube](https://www.youtube.com/watch?v=orK0WFvN0OU&ab_channel=LabourLawAdvisor)
-
-1. Professional Pursuit Allowance - no limit
-2. Uniform Allowance
-3. Mobile Allowance
-4. Internet Charges
-5. Books/subscription/periodicals
-6. Furniture
-7. Children education - 9600 for 2 children
-8. Food allowance/voucher
+- [How To (LEGALLY) Never Pay Taxes - Do This Today - YouTube](https://www.youtube.com/watch?v=248o4zc9RmI)
+- [Section 10 Of Income Tax Act: Exemptions, Allowances and How To Claim It?](https://cleartax.in/s/section-10-of-income-tax-act)
+- [How to Save TAX](https://www.youtube.com/watch?v=BfSx7qcDxx4)
+- [Make your Income Tax ZERO! | Ultimate Tax Saving Masterclass | LLA - YouTube](https://www.youtube.com/watch?v=orK0WFvN0OU&ab_channel=LabourLawAdvisor)
+	1. Professional Pursuit Allowance - no limit
+	2. Uniform Allowance
+	3. Mobile Allowance
+	4. Internet Charges
+	5. Books/subscription/periodicals
+	6. Furniture
+	7. Children education - 9600 for 2 children
+	8. Food allowance/voucher
+- [Question to the people earning more than 30 LPA, how much tax you pay? How do you save tax? \| Glassdoor Forum](https://www.glassdoor.co.in/Community/salary-slabs-consulting/question-to-the-people-earning-more-than-30-lpa-how-much-tax-you-pay-how-do-you-save-tax-egzt-5)
+- [GST on freelance consulting fees](https://www.taxfull.com/13579/gst-on-freelance-consulting-fees)
+- [GST On consultancy Services, GST Consultant - CaptainBiz](https://www.captainbiz.com/blogs/is-gst-applicable-on-consultancy-charges/)
+- [I'm a software consultant and I have registered for GST. My income is 25 LPA but under 44ADA I can claim 50% as expenses. Should I file GST for 25L or 12.5L? - All About CA - Quora](https://allaboutca.quora.com/Im-a-software-consultant-and-I-have-registered-for-GST-My-income-is-25-LPA-but-under-44ADA-I-can-claim-50-as-expenses)
+- [Impact of GST on IT Sector](https://cleartax.in/s/impact-of-gst-on-it-sector)
+- [Do I need to register GST? I have earning 18 LPA from software development freelancing and my client is in Mumbai and I am in Delhi. - Quora](https://www.quora.com/Do-I-need-to-register-GST-I-have-earning-18-LPA-from-software-development-freelancing-and-my-client-is-in-Mumbai-and-I-am-in-Delhi)
+- [I have recently begun freelancing for a couple of clients. I also have a salaried job. My composite income from salary and freelancing may exceed 20 lakhs this year but income from freelancing alone will not. Do I have to register for GST? - Quora](https://www.quora.com/I-have-recently-begun-freelancing-for-a-couple-of-clients-I-also-have-a-salaried-job-My-composite-income-from-salary-and-freelancing-may-exceed-20-lakhs-this-year-but-income-from-freelancing-alone-will-not-Do-I-have)

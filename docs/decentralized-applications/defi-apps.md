@@ -32,3 +32,4 @@
 	- [Provenance Blockchain Explorer - Dashboard](https://explorer.provenance.io/dashboard)
 	- [Introduction | Provenance Blockchain Developer Portal](https://developer.provenance.io/docs/)
 	- [bfi.uchicago.edu/wp-content/uploads/Provenance-Whitepaper.pdf](https://bfi.uchicago.edu/wp-content/uploads/Provenance-Whitepaper.pdf)
+- [RWA.xyz \| Private Credit](https://app.rwa.xyz/private_credit)

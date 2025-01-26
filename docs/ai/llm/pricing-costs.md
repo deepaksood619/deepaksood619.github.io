@@ -23,7 +23,7 @@ Hosting Llama 3 Billion parameters or similar other multimodal  and used the exp
 
 ## Costs
 
-### Assumptions:
+### Assumptions
 
 1. **Model Size**:
     - LLaMA 3B parameters: ~6GB (weights).

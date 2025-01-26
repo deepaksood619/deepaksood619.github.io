@@ -60,6 +60,7 @@ Total with Duplicates - 331 services
 2. **Amazon Chime** - Frustration-free meetings, video calls, and chat
 3. **Amazon Chime SDK** - Real-time messaging, audio, video, and screen sharing
 4. **Amazon Connect** - Omnichannel cloud contact center
+	1. [Amazon Connect Contact Lens](https://aws.amazon.com/connect/contact-lens/)
 5. **Amazon Connect forecasting, capacity planning, and scheduling** - Respond faster to capacity and workforce changes with ML-powered contact center capabilities
 6. **Amazon Dash Cart** - Empower consumers to shop with efficiency and ease
 7. **Amazon Honeycode** - Build mobile & web apps without programming

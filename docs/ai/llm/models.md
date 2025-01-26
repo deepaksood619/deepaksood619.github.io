@@ -174,6 +174,10 @@ So... what's the deal with TTMs?
 
 [10 Best Alternatives To ChatGPT: Developer Edition - Semaphore](https://semaphoreci.com/blog/chatgpt-alternatives)
 
+## GPTs
+
+[Explore GPTs](https://chatgpt.com/gpts)
+
 ## Links
 
 - [Should You Use Open Source Large Language Models? - YouTube](https://www.youtube.com/watch?v=y9k-U9AuDeM&ab_channel=IBMTechnology)
@@ -181,3 +185,4 @@ So... what's the deal with TTMs?
 - [GitHub - yaodongC/awesome-instruction-dataset: A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)](https://github.com/yaodongC/awesome-instruction-dataset)
 - [llama.ttf](https://fuglede.github.io/llama.ttf/)
 - [The Perfect Cheating Machine? - Cal Newport](https://calnewport.com/the-perfect-cheating-machine/)
+- [linkedin.com/company/soketlabs/?originalSubdomain=in](https://www.linkedin.com/company/soketlabs/?originalSubdomain=in)
