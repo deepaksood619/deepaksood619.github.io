@@ -84,6 +84,7 @@ Your entire infrastructure. Defined as code. In about a day
 
 - Puppet
 - AWS CloudFormation
+- [Terratest \| Automated tests for your infrastructure code.](https://terratest.gruntwork.io/)
 
 #### OpenTofu
 

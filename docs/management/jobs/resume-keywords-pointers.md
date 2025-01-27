@@ -132,6 +132,26 @@
 | Plus - Tier - 1                                  | 2             |               |
 | Plus - Tier - 2                                  | 1             |               |
 
+### MySQL SQL Developer
+
+1. Proficient in writing complex SQL queries, stored procedures, functions, and triggers.
+2. Strong experience in database design, normalization, and optimization techniques.
+3. Skilled in creating and maintaining relational database models for high-performance applications.
+4. Expertise in query performance tuning and debugging.
+5. Hands-on experience with data integration and ETL processes using MySQL.
+6. Knowledge of version control systems like Git for SQL script management.
+7. Familiarity with reporting tools (e.g., Tableau, Power BI) and data visualization using SQL is a plus
+
+### MySQL DBA
+
+1. Expertise in MySQL installation, configuration, and server administration.
+2. Strong experience in backup, recovery, and replication strategies (e.g., Master-Slave, GTID).
+3. Proficient in monitoring and tuning MySQL database performance and query optimization.
+4. Experience in managing high-availability and disaster recovery environments.
+5. Skilled in managing database security, user roles, and access controls.
+6. Hands-on experience with tools like Percona Toolkit, MyDumper/MyLoader, MySQL Enterprise Monitor, Monyog, etc
+7. Familiarity with cloud-based MySQL solutions (e.g., AWS Aurora, AWS RDS, Azure Database for MySQL).
+
 ![image](../../media/HR-M-Interviews-Resume-Keywords-Pointers-image1.jpg)
 
 ## Resume Builders / Helpers

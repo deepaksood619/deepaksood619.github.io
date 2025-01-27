@@ -39,6 +39,7 @@
 - [CrUX Vis](https://cruxvis.withgoogle.com/)
 	- [Google's New CrUX Vis Tool: Explore Core Web Vitals Data | DebugBear](https://www.debugbear.com/blog/google-crux-vis)
 - [mPulse — Real User Performance Monitoring and Real-Time Analytics | Akamai](https://www.akamai.com/products/mpulse-real-user-monitoring)
+- [Rank Math - Best Free WordPress SEO Tools in 2025](https://rankmath.com/)
 
 ## Website Speed Test
 

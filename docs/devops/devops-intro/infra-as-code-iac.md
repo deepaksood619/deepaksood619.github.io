@@ -37,7 +37,9 @@ Security policies also contain notable differences between the various cloud pro
 - Terraform
 - CloudFormation
 - Ansible
-- Digital Rebar
+- [Terratest \| Automated tests for your infrastructure code.](https://terratest.gruntwork.io/)
+
+### Digital Rebar
 
 Digital Rebar (aka DRP) is a self-managed hardware-neutral data center automation platform for provisioning and managing [infrastructure as code](https://rackn.com/2020/03/24/infrastructure-as-code-repost-devops-com/)(IaC). It was designed with a cloud-native architecture focus and integrates deeply with API driven configuration tools like Ansible and Terraform. It fully replaces bare metal provisioners like [Cobbler](https://rackn.com/products/enterprise/cobbler/), [Foreman](https://rackn.com/products/enterprise/foreman/) or [MaaS](https://rackn.com/products/enterprise/maas/).
 

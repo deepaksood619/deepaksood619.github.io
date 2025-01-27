@@ -8,15 +8,15 @@ Vocabulary filtering is available for streaming transcription at no additional c
 
 ## Amazon Transcribe Call Analytics
 
-Amazon Transcribe Call Analytics is a tool that can transcribe call audio, analyze sentiment, and perform quality assurance on customer service and sales calls. It uses machine learning and speech-to-text models to help improve customer experience and agent productivity. 
+Amazon Transcribe Call Analytics is a tool that can transcribe call audio, analyze sentiment, and perform quality assurance on customer service and sales calls. It uses machine learning and speech-to-text models to help improve customer experience and agent productivity.
 
 ### Features
 
-- **Call transcription**: Transcribes audio into text, including multi-speaker audio 
-- **Sentiment analysis**: Analyzes the sentiment of the customer or agent 
-- **Call categorization**: Classifies calls based on criteria like sentiment, phrases, or interruptions 
-- **Call summarization**: Summarizes a call to capture key information 
-- **Sensitive information redaction**: Detects and removes sensitive information like names, addresses, and credit card information 
+- **Call transcription**: Transcribes audio into text, including multi-speaker audio
+- **Sentiment analysis**: Analyzes the sentiment of the customer or agent
+- **Call categorization**: Classifies calls based on criteria like sentiment, phrases, or interruptions
+- **Call summarization**: Summarizes a call to capture key information
+- **Sensitive information redaction**: Detects and removes sensitive information like names, addresses, and credit card information
 
 ### Quality assurance
 
@@ -25,10 +25,10 @@ Amazon Transcribe Call Analytics is a tool that can transcribe call audio, anal
 
 ### How to use
 
-- You can use the AWS Management Console, AWS Command Line Interface (AWS CLI), or AWS SDK 
-- You can create a Lambda function and IAM policy 
-- You can create an Amazon S3 bucket to store the audio file 
-- You can use the Transcribe API to generate a transcript 
+- You can use the AWS Management Console, AWS Command Line Interface (AWS CLI), or AWS SDK
+- You can create a Lambda function and IAM policy
+- You can create an Amazon S3 bucket to store the audio file
+- You can use the Transcribe API to generate a transcript
 - You can use the Amazon Comprehend API to analyze the transcription text
 
 [Amazon Transcribe Call Analytics](https://aws.amazon.com/transcribe/call-analytics/)
@@ -114,7 +114,7 @@ Here's an [output example](https://docs.aws.amazon.com/transcribe/latest/dg/tca
 
 ## Toxic Speech Detection
 
-Toxic speech detection is ==the use of artificial intelligence (AI) to identify and flag harmful language in online communications==. It helps to keep online spaces safe and inclusive by flagging toxic content like hate speech, harassment, and threats. 
+Toxic speech detection is ==the use of artificial intelligence (AI) to identify and flag harmful language in online communications==. It helps to keep online spaces safe and inclusive by flagging toxic content like hate speech, harassment, and threats.
 
 ### How it works
 

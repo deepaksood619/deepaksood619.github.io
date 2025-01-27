@@ -70,6 +70,32 @@ The main Private Equity firms operating in India
 - [Everstone Capital](https://www.everstonecapital.com/)
 - [https://www.linkedin.com/in/rajeshgsf/](https://www.linkedin.com/in/rajeshgsf/)
 
+Best Startup Accelerators 🚀
+
+1. PearX ($250k-$2m)
+2. Accel Atoms ($500k)
+3. Antler ($200k for 8%)
+4. Soma Capital ($100k)
+5. Sequoia Arc (Variable)
+6. a16z Speedrun ($750k)
+7. LAUNCH ($125k for 7%)
+8. OpenAI Converge ($1m)
+9. Techstars ($20k for 6%)
+10. Alchemist ($25k for 5%)
+11. NEO ($600k Uncapped)
+12. AngelPad ($120k for 7%)
+13. The Mint ($500k for 10%)
+14. AI2 Incubator ($50-$150k)
+15. HF0 ($125k for 7% + $375k)
+16. AI Grant ($250k Uncapped)
+17. Betaworks AI Camp ($500k)
+18. 500 Startups ($112.5k for 6%)
+19. Entrepreneur First ($125k for 8%)
+20. Y Combinator ($125k for 7% + $375k)
+21. Conviction Embed ($150k Uncapped)
+22. Founders Fellowship ($150k for 5-10%)
+23. SPC Fellowship ($400k for 7% + $600k)
+
 ![image](../media/Investment-Banking-image1.jpg)
 
 ## Most popular types of private equity funding
