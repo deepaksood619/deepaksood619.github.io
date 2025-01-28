@@ -75,7 +75,7 @@ The compression reduces the physical storage size, thus lowering the overall cos
 
 ## Implementation Steps
 
-### Non-programmatic Approach:
+### Non-programmatic Approach
 
 Step1: Apply Physical Billing model at a Dataset level
 
@@ -89,7 +89,7 @@ Click on Advanced Options and select the storage and time travel window
 
 ![image](../../../media/Screenshot%202025-01-27%20at%209.14.05%20PM.jpg)
 
-### Identifying tables with the type of storage across Organization Steps:
+### Identifying tables with the type of storage across Organization Steps
 
 ```sql
 WITH storage_data AS (
@@ -176,7 +176,7 @@ ORDER BY
  project_id, table_catalog, table_schema, table_name;
 ```
 
-### Programmatically change all the dataset whose cost is reduced due to compressed storage:
+### Programmatically change all the dataset whose cost is reduced due to compressed storage
 
 ```python
 from google.cloud import bigquery
@@ -215,10 +215,10 @@ def change_storage_type(project_id, dataset_id, billing_model):
 https://bigquery.googleapis.com/bigquery/v2/projects/{project_id}/datasets/{dataset_id} \
          -d '{{"datasetReference": {{"projectId": "{project_id}", "datasetId": "{dataset_id}"}}, "storageBillingModel": "{billing_model}"}}'
     """
-    
+
     # Execute the curl command
     result = subprocess.run(curl_command, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
-    
+
     if result.returncode == 0:
         return True, result.stdout
     else:
@@ -233,12 +233,12 @@ for row in results:
     dataset_id = row['dataset_id']
     logical_bytes = row['total_logical_bytes']
     physical_bytes = row['total_physical_bytes']
-    
+
     print(f"Changing storage type for {project_id}.{dataset_id}")
-    
+
     # Change the storage type to physical storage (or the desired billing model)
     success, message = change_storage_type(project_id, dataset_id, "PHYSICAL_STORAGE")
-    
+
     # Store the result
     data.append({
         'project_id': project_id,
@@ -265,14 +265,12 @@ tools.display_dataframe_to_user(name="Storage Type Update Results", dataframe=df
 
 ![image](../../../media/Screenshot%202025-01-27%20at%209.12.10%20PM.jpg)
 
-
 Auto Deleting Tables that are not frequently used in a project with table Prefix ’_bqc_’: This script is designed to automatically delete tables in a Google BigQuery dataset that are prefixed with "bqc" and have not been modified for a specified number of hours.
 
 Why?
 
 - This script would be useful in environments where there are many temporary or ephemeral tables that are not needed after a certain period.
 -  It helps in managing and cleaning up the dataset by removing old or unused tables, potentially reducing costs and improving manageability.
-
 
 ```python
 from google.cloud import bigquery
@@ -282,7 +280,7 @@ client = bigquery.Client()
 # Define your dataset and filter criteria
 dataset_id = 'erazuthmohandasrakesh-emr.Banking'
 prefix = '_bqc_'
-hours_threshold = 8760 <--- change this to 
+hours_threshold = 8760 <--- change this to
 # Construct the SQL query to list tables matching the criteria
 query = f"""
 SELECT
@@ -327,4 +325,3 @@ for row in query_job:
 ```
 
 ![image](../../../media/Screenshot%202025-01-27%20at%209.10.02%20PM.jpg)
-

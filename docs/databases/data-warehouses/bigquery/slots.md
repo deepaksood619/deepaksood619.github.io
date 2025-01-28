@@ -12,8 +12,8 @@ BigQuery offers a slot-based pricing model where you can reserve slots (compute 
 
 #### 1. Determine Slot Requirements
 
-- Analyze your current query workload to understand the number of slots required to process queries efficiently. Start with an estimate based on historical usage or query patterns. 
-- Based on the previous pattern of usage, we have observed that the slots that you are on average using is around 100 slots and a max of 300 slots autoscaling 
+- Analyze your current query workload to understand the number of slots required to process queries efficiently. Start with an estimate based on historical usage or query patterns.
+- Based on the previous pattern of usage, we have observed that the slots that you are on average using is around 100 slots and a max of 300 slots autoscaling
 
 ![image](../../../media/Screenshot%202025-01-27%20at%209.27.34%20PM.jpg)
 
@@ -27,7 +27,7 @@ Note: BigQuery allows you to reserve slots in increments of 100.
 
 ##### Implementation Method
 
-- Purchase a reservation for 100 slots. This will cover your baseline needs 24/7 and 300 slots with 25% utilization a day (6 hours of usage of all 300 slots) provide a significant cost reduction compared to on-demand pricing. 
+- Purchase a reservation for 100 slots. This will cover your baseline needs 24/7 and 300 slots with 25% utilization a day (6 hours of usage of all 300 slots) provide a significant cost reduction compared to on-demand pricing.
 - Enable autoscaling to automatically increase slot allocation up to 300 during peak usage times. This flexibility ensures your queries run smoothly without overspending on unnecessary capacity
 
 ![image](../../../media/Screenshot%202025-01-27%20at%209.26.58%20PM.jpg)
@@ -44,17 +44,17 @@ Select the maximum reservation and baseline slots. Additionally, you can view th
 
 ##### Estimated Cost Breakdown
 
-- Baseline Cost: Cost for 100 slots running continuously for the entire month. 
+- Baseline Cost: Cost for 100 slots running continuously for the entire month.
 - Autoscaling Costs (based on usage percentages):
-- 25% Usage: Cost for using up to 300 slots for 25% of the day. 
-- 50% Usage: Cost for using up to 300 slots for 50% of the day. 
+- 25% Usage: Cost for using up to 300 slots for 25% of the day.
+- 50% Usage: Cost for using up to 300 slots for 50% of the day.
 - 100% Usage: Cost for using up to 300 slots for the entire day.
 
 ##### Sample Calculations
 
-- Baseline Cost: Fixed monthly cost for 100 slots. 
-- Autoscaling 25% Usage Cost: Cost for 300 slots running for 6 hours per day. 
-- Autoscaling 50% Usage Cost: Cost for 300 slots running for 12 hours per day. 
+- Baseline Cost: Fixed monthly cost for 100 slots.
+- Autoscaling 25% Usage Cost: Cost for 300 slots running for 6 hours per day.
+- Autoscaling 50% Usage Cost: Cost for 300 slots running for 12 hours per day.
 - Autoscaling 100% Usage Cost: Cost for 300 slots running for 24 hours per day.
 
 By comparing these estimates, you can better understand the cost implications of different levels of autoscaling usage.
@@ -67,7 +67,7 @@ By comparing these estimates, you can better understand the cost implications of
 
 ## Cost Impact
 
-- Predictable Costs: Slot reservations provide predictable costs compared to on-demand pricing, where costs can fluctuate based on usage. 
+- Predictable Costs: Slot reservations provide predictable costs compared to on-demand pricing, where costs can fluctuate based on usage.
 - Efficient Resource Allocation: Autoscaling ensures efficient use of compute resources, scaling up when needed and scaling down during idle times, which helps in cost optimization.
 
 ## Summary

@@ -1113,4 +1113,6 @@ To each their own - idiom - people have the right to their own preferences and o
 
 - Similar phrases “Different strokes for different folks, “Whatever floats your boat, and “One man's fish is another man's poison.
 
+All happy families are alike; each unhappy family is unhappy in its own way.
+
 ## End

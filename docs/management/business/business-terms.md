@@ -31,6 +31,14 @@ Gross Transaction Value (GTV) is a calculation of the revenue in relation to com
 
 [Gross Revenue vs. Net Revenue Reporting: What's the Difference?](https://www.investopedia.com/ask/answers/102714/what-are-difference-between-gross-revenue-reporting-and-net-revenue-reporting.asp)
 
+### E-commerce
+
+[What is a Warehouse Management System(WMS)? Part 4 \| Medium](https://yanguei.medium.com/what-is-a-warehouse-management-system-wms-part-4-33ccb837364c)
+
+[Warehouse Putaway Process: Types, Ways To Optimize & Benefits](https://www.hopstack.io/blog/everything-you-need-to-know-about-optimizing-the-warehouse-putaway-process)
+
+- Pigeonhole putaway
+
 ## Others
 
 [Understanding FSN (Fast, Slow, Non-Moving) Inventory Analysis](https://www.deskera.com/blog/fsn-inventory-analysis/)

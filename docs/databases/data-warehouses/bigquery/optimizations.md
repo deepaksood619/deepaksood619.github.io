@@ -15,13 +15,3 @@ When you set the **Job Priority** to **Batch** and check the **Override** 
     - Batch jobs will **wait for idle slots** instead of competing for immediate slot allocation, meaning lower priority.
     - This is ideal for workloads that can tolerate delays, such as **ad-hoc queries** or **low-priority reporting tasks**.
 3. **Scope**: This setting applies to queries you run directly from your account. Other users will not be affected unless they also enable this override.
-
-## Query Optimizations
-
-```sql
--- Unoptimized
-WHERE order_date >= DATE_TRUNC(CURRENT_DATE('Asia/Kolkata'), MONTH) - INTERVAL 1 MONTH
-
--- Optimized
-WHERE order_date >= DATE_TRUNC(DATE_SUB(CURRENT_DATE('Asia/Kolkata'), INTERVAL 1 MONTH), MONTH)  AND order_date <= CURRENT_DATE('Asia/Kolkata')
-```

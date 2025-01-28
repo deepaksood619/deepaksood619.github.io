@@ -47,6 +47,7 @@
     - [Llama 3.1 launched and it is gooooood! - by Bugra Akyildiz](https://mlops.substack.com/p/llama-31-launched-and-it-is-gooooood)
 - [SQLCoder-2–7b: How to Reliably Query Data in Natural Language, on Consumer Hardware | by Sjoerd Tiemensma | Use AI | Medium](https://medium.com/use-ai/sqlcoder-2-7b-how-to-reliably-query-data-in-natural-language-on-consumer-hardware-cb352a3cf3ab)
 - [DeepSeek](https://www.deepseek.com/)
+	- [Run DeepSeek-R1 on Your Laptop with Ollama - DEV Community](https://dev.to/shayy/run-deepseek-locally-on-your-laptop-37hl)
 
 | Model              | Parameters | Size  |
 | ------------------ | ---------- | ----- |

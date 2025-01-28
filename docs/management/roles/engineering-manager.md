@@ -1,5 +1,7 @@
 # Engineering Manager / Tech Lead
 
+CTO - You don't have to do anything, but you are responsible for everything
+
 - The tech lead is the **owner of the technological vision** for a project, and the **technical leader** of the project team.
 - A tech lead is a software engineer, **responsible** for **leading** a development team, and responsible for the quality of its **technical deliverables**
 - At the end of the day, it's about **making good software with a team**

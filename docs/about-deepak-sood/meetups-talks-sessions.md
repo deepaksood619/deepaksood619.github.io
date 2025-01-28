@@ -1,5 +1,17 @@
 # Meetups / Talks / Sessions
 
+### AI use cases for Dummies
+
+- Use Cases
+	- GenAI for coding & code reviews
+	- For Research - NotebookLM
+	- TextToSQL - GenerativeBI
+	- Content generation - emails, flyers, engagement
+- Prompt Engineering
+- LLM
+- RAG
+- Fine Tuning
+
 ### Navigating Ethical Dilemmas in AI and ML Research and Education in Generative AI (24 January 2024)
 
 - AIML Club at Manav Rachna International Institute of Research & Studies (MRIIRS)
@@ -12,6 +24,8 @@ Presentation - [Ethics in GenAI](https://docs.google.com/presentation/d/1R-o8VoK
 [MRAC on LinkedIn: #ai #machinelearning #ethicsinai #generativeai #manavrachna #aimlclub…](https://www.linkedin.com/posts/mrac-mri_ai-machinelearning-ethicsinai-activity-7288152581913165826-Ax8j?utm_source=share&utm_medium=member_desktop)
 
 [Deepak Sood on LinkedIn: #ethicalai #generativeai #aiforgood #machinelearning #aimlclub #airesearch…](https://www.linkedin.com/posts/deepaksood619_ai-machinelearning-ethicsinai-activity-7288180380531073024-xwOY?utm_source=share&utm_medium=member_desktop)
+
+[Deepak Sood on LinkedIn: #ethicalai #generativeai #aiforgood #innovationwithintegrity #futureofai…](https://www.linkedin.com/posts/deepaksood619_ethicalai-generativeai-aiforgood-activity-7289683456475758593-yKl6?utm_source=share&utm_medium=member_desktop)
 
 ### Kong in Action: Simplifying API Management for Modern Applications - CNCG (18 January 2024)
 

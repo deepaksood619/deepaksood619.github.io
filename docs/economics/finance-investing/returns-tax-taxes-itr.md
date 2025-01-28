@@ -583,6 +583,8 @@ Under the Liberalised Remittance Scheme (LRS), all resident individuals are allo
 
 - [Sending money abroad? Here's all you need to know about the RBI's Liberalised Remittance Scheme \| Mint](https://www.livemint.com/money/personal-finance/sending-money-abroad-rbi-liberalised-remittance-scheme-foreign-investments-foreign-vacations-overseas-travel-11728384618529.html)
 - [GIFT City isn’t just for NRIs and foreigner investors—it has something for everyone \| Mint](https://www.livemint.com/money/personal-finance/gift-city-financial-services-investment-products-jobs-nri-foreign-investors-ifsca-fema-financial-hub-11728281266323.html)
+- [What is LRS (Liberalised Remittance Scheme)? \| Meaning, Full Form, Everything You Need to Know](https://www.indmoney.com/blog/us-stocks/liberalised-remittance-scheme)
+- [TCS on US Stocks: Rates, Deductions & Refund Guide for Indian US stocks Investors](https://www.indmoney.com/us-stocks/tcs-on-us-stocks)
 
 ### What is the current TCS (Tax Collected at Source) rate for LRS?
 

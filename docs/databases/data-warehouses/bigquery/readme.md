@@ -3,10 +3,12 @@
 - [Architecture](databases/data-warehouses/bigquery/architecture.md)
 - [Queries](databases/data-warehouses/bigquery/queries.md)
 - [Optimizations](databases/data-warehouses/bigquery/optimizations.md)
+- [query-optimizations](databases/data-warehouses/bigquery/query-optimizations.md)
+- [storage-optimizations](databases/data-warehouses/bigquery/storage-optimizations.md)
 - [Documentation](databases/data-warehouses/bigquery/documentation.md)
 - [modeling](databases/data-warehouses/bigquery/modeling.md)
-- [storage-optimizations](databases/data-warehouses/bigquery/storage-optimizations.md)
 - [slots](databases/data-warehouses/bigquery/slots.md)
+- [interview-questions](databases/data-warehouses/bigquery/interview-questions.md)
 
 BigQuery is a serverless data analytics platform. You don't need to provision individual instances or virtual machines to use BigQuery. Instead, BigQuery automatically allocates computing resources as you need them. You can also reserve compute capacity ahead of time in the form of _slots_, which represent virtual CPUs
 

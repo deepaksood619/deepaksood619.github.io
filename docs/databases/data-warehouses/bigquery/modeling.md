@@ -12,9 +12,9 @@ There are three types of table partitioning in BigQuery:
 
 - [Tables partitioned by ingestion time:](https://cloud.google.com/bigquery/docs/creating-partitioned-tables) Tables are partitioned based on the data’s ingestion time.
 - [Tables partitioned by column](https://cloud.google.com/bigquery/docs/partitioned-tables#partitioned_tables): Tables are partitioned based on a TIMESTAMP or DATE column.
-- [Tables partitioned by integer range](https://cloud.google.com/bigquery/docs/creating-integer-range-partitions): Tables are partitioned based on an integer column. 
+- [Tables partitioned by integer range](https://cloud.google.com/bigquery/docs/creating-integer-range-partitions): Tables are partitioned based on an integer column.
 
-A column-based time-partitioned table obviates the need to maintain partition awareness independent from the existing data filtering on the bound column. Data written to a column-based time-partitioned table is automatically delivered to the appropriate partition based on the value of the data. Similarly, queries that express filters on the partitioning column can reduce the overall data scanned, which can yield improved performance and reduced query cost for on-demand queries. 
+A column-based time-partitioned table obviates the need to maintain partition awareness independent from the existing data filtering on the bound column. Data written to a column-based time-partitioned table is automatically delivered to the appropriate partition based on the value of the data. Similarly, queries that express filters on the partitioning column can reduce the overall data scanned, which can yield improved performance and reduced query cost for on-demand queries.
 
 BigQuery column-based partitioning is similar to Redshift’s column-based partitioning, with a slightly different motivation. Redshift uses column-based key distribution to try to keep related data stored together within the same compute node, ultimately minimizing data shuffling that occurs during joins and aggregations. BigQuery separates storage from compute, so it leverages column-based partitioning to minimize the amount of data that [slots](https://cloud.google.com/bigquery/docs/slots) read from disk.
 
@@ -24,7 +24,7 @@ For more information, see [Introduction to partitioned tables](https://cloud.goo
 
 #### Clustering and sort keys
 
-Redshift supports specifying table columns as either [compound](https://docs.aws.amazon.com/redshift/latest/dg/t_Sorting_data.html#t_Sorting_data-compound)  or [interleaved](https://docs.aws.amazon.com/redshift/latest/dg/t_Sorting_data.html#t_Sorting_data-interleaved) sort keys. In BigQuery, you can specify compound sort keys by [clustering](https://cloud.google.com/bigquery/docs/clustered-tables#overview) your table. BigQuery clustered tables improve query performance because the table data is automatically sorted based on the contents of up to four columns specified in the table’s schema. These columns are used to colocate related data. The order of the clustering columns you specify is important because it determines the sort order of the data. 
+Redshift supports specifying table columns as either [compound](https://docs.aws.amazon.com/redshift/latest/dg/t_Sorting_data.html#t_Sorting_data-compound)  or [interleaved](https://docs.aws.amazon.com/redshift/latest/dg/t_Sorting_data.html#t_Sorting_data-interleaved) sort keys. In BigQuery, you can specify compound sort keys by [clustering](https://cloud.google.com/bigquery/docs/clustered-tables#overview) your table. BigQuery clustered tables improve query performance because the table data is automatically sorted based on the contents of up to four columns specified in the table’s schema. These columns are used to colocate related data. The order of the clustering columns you specify is important because it determines the sort order of the data.
 
 Clustering can improve the performance of certain types of queries, such as queries that use filter clauses and queries that aggregate data. When data is written to a clustered table by a query job or a load job, BigQuery automatically sorts the data using the values in the clustering columns. These values are used to organize the data into multiple blocks in BigQuery storage. When you submit a query containing a clause that filters data based on the clustering columns, BigQuery uses the sorted blocks to eliminate scans of unnecessary data.
 
@@ -35,7 +35,7 @@ Use clustering in the following circumstances:
 - Compound sort keys are configured in your Redshift tables.
 - Filtering or aggregation is configured against particular columns in your queries.
 
-When you use clustering and partitioning together, your data can be partitioned by a date, timestamp, or integer column and then clustered on a different set of columns (up to four total clustered columns). In this case, data in each partition is clustered based on the values of the clustering columns. 
+When you use clustering and partitioning together, your data can be partitioned by a date, timestamp, or integer column and then clustered on a different set of columns (up to four total clustered columns). In this case, data in each partition is clustered based on the values of the clustering columns.
 
 When you specify sort keys in tables in Redshift, depending on the load on the system, Redshift automatically initiates the sort using your own cluster’s compute capacity. You may even need to manually run the [VACUUM](https://docs.aws.amazon.com/redshift/latest/dg/r_VACUUM_command.html) command if you want to fully sort your table data as soon as possible, for example, after a large data load. BigQuery [automatically handles](https://cloud.google.com/bigquery/docs/clustered-tables#automatic_re-clustering) this sorting for you and does not use your allocated BigQuery slots therefore not affecting the performance of any of your queries.
 
@@ -61,7 +61,7 @@ You can create your BigQuery datasets in both [regional](https://cloud.google.co
 
 ### Data type mapping in BigQuery
 
-Redshift data types differ from BigQuery data types. For more details on BigQuery data types, refer to the official [documentation](https://cloud.google.com/bigquery/docs/reference/standard-sql/data-types).  
+Redshift data types differ from BigQuery data types. For more details on BigQuery data types, refer to the official [documentation](https://cloud.google.com/bigquery/docs/reference/standard-sql/data-types).
 
 BigQuery also supports the following data types, which do not have a direct Redshift analog.
 
