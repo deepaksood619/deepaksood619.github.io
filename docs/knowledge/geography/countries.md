@@ -21,6 +21,7 @@ https://docs.google.com/spreadsheets/d/1zl7adSoCYuWpuBnRPbkkhwT2RZ5hk3lUO4ud0NE7
 - [Why is China Building a New $8 Trillion Silk Road? | Epic Economics - YouTube](https://www.youtube.com/watch?v=KP61ScucMog)
 - [How China Ruined Their Own Economy | Epic Economics - YouTube](https://www.youtube.com/watch?v=iW4wfXdtGZ4)
 - [China’s BIGGEST MISTAKE | Real Estate Market Crisis | Impact on Economy | Finshots TV - YouTube](https://www.youtube.com/watch?v=rD-cBwlYTVc)
+- [1938 Yellow River flood - Wikipedia](https://en.wikipedia.org/wiki/1938_Yellow_River_flood)
 
 ### Taiwan
 

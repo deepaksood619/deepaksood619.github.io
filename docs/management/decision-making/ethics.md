@@ -63,3 +63,7 @@ Double Exponential Progress - [The A.I. Dilemma - March 9, 2023 - YouTube](https
 [Should Doctors Help People End Their Lives? - YouTube](https://www.youtube.com/watch?v=l-IO6_cU5jM&ab_channel=MedlifeCrisis)
 
 [Euthanasia in India - Wikipedia](https://en.wikipedia.org/wiki/Euthanasia_in_India)
+
+## Others
+
+- [Scorched earth - Wikipedia](https://en.wikipedia.org/wiki/Scorched_earth)

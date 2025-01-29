@@ -71,6 +71,7 @@ Due to compression, storing data physically is more cost-effective:
 
 - For active storage, you save $2.60 per month.
 - For long-term storage, you save $1.31 per month.
+
 The compression reduces the physical storage size, thus lowering the overall cost despite the higher per-GiB rate for physical storage.
 
 ## Implementation Steps
@@ -107,7 +108,8 @@ WITH storage_data AS (
    active_physical_bytes,
    long_term_physical_bytes
  FROM
-   `region-us`.INFORMATION_SCHEMA.TABLE_STORAGE_BY_ORGANIZATION
+   `region-asia-south1`.INFORMATION_SCHEMA.TABLE_STORAGE
+-- `region-asia-south1`.INFORMATION_SCHEMA.TABLE_STORAGE_BY_ORGANIZATION
 ),
 compression_ratios AS (
  SELECT
@@ -191,10 +193,11 @@ query = """
 SELECT
   project_id,
   dataset_id,
-  SUM(total_logical_bytes) AS total_logical_bytes,
-  SUM(total_physical_bytes) AS total_physical_bytes
+  SUM(total_logical_bytes) AS total_logical_bytes_sum,
+  SUM(total_physical_bytes) AS total_physical_bytes_sum
 FROM
-  `region-us`.INFORMATION_SCHEMA.TABLE_STORAGE_BY_ORGANIZATION
+  `region-asia-south1`.INFORMATION_SCHEMA.TABLE_STORAGE
+-- `region-asia-south1`.INFORMATION_SCHEMA.TABLE_STORAGE_BY_ORGANIZATION
 GROUP BY
   project_id, dataset_id
 HAVING

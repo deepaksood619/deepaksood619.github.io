@@ -29,51 +29,80 @@ Overall, this query enhances transparency and control over table dependencies wi
 
 ```sql
 WITH QueryTableInfo AS (
-SELECT
-project_id,
-job_id,
-start_time,
-end_time,
-query,
-COUNT(*) TOTAL_QUERIES,
-SUM(total_slot_ms/TIMESTAMP_DIFF(end_time, creation_time, MILLISECOND)) AVG_SLOT_USAGE,
-SUM(TIMESTAMP_DIFF(end_time, creation_time, SECOND)) TOTAL_DURATION_IN_SECONDS,
-AVG(TIMESTAMP_DIFF(end_time, creation_time, SECOND)) AVG_DURATION_IN_SECONDS,
-MAX(TIMESTAMP_DIFF(end_time, creation_time, SECOND)) Max_DURATION_IN_SECONDS,
-SUM(total_bytes_processed*10e-12) TOTAL_PROCESSED_TB,
-EXTRACT(DATE FROM creation_time) AS EXECUTION_DATE,
-EXTRACT(HOUR FROM creation_time) AS EXECUTION_TIME,
-user_email AS USER,
--- Extract dataset and table names separately using regular expression
-REGEXP_EXTRACT_ALL(query, r'`([^`]+)`') AS TABLE_INFO
-FROM
-`rakeshmohandas_XXXX.region-us.INFORMATION_SCHEMA.JOBS_BY_PROJECT`
-WHERE
-state='DONE'
-AND statement_type='SELECT'
-AND creation_time BETWEEN TIMESTAMP_SUB(CURRENT_TIMESTAMP(), INTERVAL 1 DAY)
-AND CURRENT_TIMESTAMP()
-GROUP BY
-EXECUTION_DATE,
-EXECUTION_TIME,
-USER,
-project_id,
-job_id,
-start_time,
-end_time,
-query
+  SELECT
+    project_id,
+    job_id,
+    start_time,
+    end_time,
+    query,
+    COUNT(*) TOTAL_QUERIES,
+    SUM(
+      total_slot_ms / TIMESTAMP_DIFF(
+        end_time, creation_time, MILLISECOND
+      )
+    ) AVG_SLOT_USAGE,
+    SUM(
+      TIMESTAMP_DIFF(end_time, creation_time, SECOND)
+    ) TOTAL_DURATION_IN_SECONDS,
+    AVG(
+      TIMESTAMP_DIFF(end_time, creation_time, SECOND)
+    ) AVG_DURATION_IN_SECONDS,
+    MAX(
+      TIMESTAMP_DIFF(end_time, creation_time, SECOND)
+    ) Max_DURATION_IN_SECONDS,
+    SUM(total_bytes_processed * 10e - 12) TOTAL_PROCESSED_TB,
+    EXTRACT(
+      DATE
+      FROM
+        creation_time
+    ) AS EXECUTION_DATE,
+    EXTRACT(
+      HOUR
+      FROM
+        creation_time
+    ) AS EXECUTION_TIME,
+    user_email AS USER,
+    -- Extract dataset and table names separately using regular expression
+    REGEXP_EXTRACT_ALL(query, r '`([^`]+)`') AS TABLE_INFO
+  FROM
+    `dealshare-d82f7.region-asia-south1.INFORMATION_SCHEMA.JOBS_BY_PROJECT`
+  WHERE
+    state = 'DONE'
+    AND statement_type = 'SELECT'
+    AND creation_time BETWEEN TIMESTAMP_SUB(
+      CURRENT_TIMESTAMP(),
+      INTERVAL 1 DAY
+    )
+    AND CURRENT_TIMESTAMP()
+  GROUP BY
+    EXECUTION_DATE,
+    EXECUTION_TIME,
+    USER,
+    project_id,
+    job_id,
+    start_time,
+    end_time,
+    query
 )
 SELECT
-*,
-ARRAY<STRUCT<dataset_name STRING, table_name STRING>>[
-STRUCT(SPLIT(TABLE_INFO[SAFE_OFFSET(0)], '.')[SAFE_OFFSET(0)] AS dataset_name, SPLIT(TABLE_INFO[SAFE_OFFSET(0)], '.')[SAFE_OFFSET(1)] AS table_name)
-] AS USED_TABLES_STR
+  *,
+  ARRAY < STRUCT < dataset_name STRING,
+  table_name STRING >> [ STRUCT(
+    SPLIT(
+      TABLE_INFO[SAFE_OFFSET(0) ],
+      '.'
+    ) [SAFE_OFFSET(0) ] AS dataset_name,
+    SPLIT(
+      TABLE_INFO[SAFE_OFFSET(0) ],
+      '.'
+    ) [SAFE_OFFSET(1) ] AS table_name
+  ) ] AS USED_TABLES_STR
 FROM
-QueryTableInfo
+  QueryTableInfo
 ORDER BY
-EXECUTION_DATE,
-EXECUTION_TIME,
-AVG_SLOT_USAGE;
+  EXECUTION_DATE,
+  EXECUTION_TIME,
+  AVG_SLOT_USAGE;
 ```
 
 ![image](../../../media/Screenshot%202025-01-27%20at%209.19.29%20PM.jpg)
@@ -181,6 +210,35 @@ HAVING
     num_flights > 100
 ORDER BY
     departure_delay ASC
+
+-- get all datasets
+SELECT
+  schema_name AS dataset_id
+FROM
+  `project_id.region-asia-south1.INFORMATION_SCHEMA.SCHEMATA`;
+
+-- size of each dataset
+SELECT SUM(size_bytes) AS bytes FROM dataset.__TABLES__;
+
+-- size of tables desc for a dataset
+SELECT
+  table_id,
+  size_bytes / (1024 * 1024 * 1024) AS table_size_gb
+FROM
+  `dataset_id.__TABLES__`
+ORDER BY
+  table_size_gb DESC;
+
+
+-- get count of tables
+SELECT
+  table_schema,
+  COUNT(*) AS number_of_tables
+FROM
+  `dealshare-d82f7.region-asia-south1.INFORMATION_SCHEMA.TABLES`
+GROUP BY
+  table_schema
+order by number_of_tables desc;
 ```
 
 ## Commands

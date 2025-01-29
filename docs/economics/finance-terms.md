@@ -156,6 +156,7 @@ Dollar-cost averaging (DCA) is an investment strategy in which an investor divid
 - Non-oil, non-gold imports / exports (NONG imports / exports)
 - ACORD Data Standards -  [ACORD - Wikipedia](https://en.wikipedia.org/wiki/ACORD)
 - Disposition - the natural qualities of a person’s character, a usual way of behaving
+- subordination agreement - A subordination agreement is a legal document that establishes the priority of debts owed to a borrower. It's also known as a priority agreement.
 
 ## Questions
 

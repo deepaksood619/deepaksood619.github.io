@@ -17,3 +17,9 @@
 [All Releases](https://www.tableau.com/products/all-features)
 
 [Tableau Server Release Notes - Tableau](https://help.tableau.com/current/server/en-us/whatsnew_server.htm)
+
+### Tableau Pulse
+
+Scale data-driven decision making with AI-powered insights.
+
+[Tableau Pulse](https://www.tableau.com/products/tableau-pulse)

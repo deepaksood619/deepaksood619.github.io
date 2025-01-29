@@ -107,3 +107,7 @@ Example query:
 ```sql
 CREATE MODEL my_model OPTIONS(model_type='linear_reg') AS SELECT feature1, feature2, target FROM my_dataset.my_table;
 ```
+
+## Links
+
+- [BigQuery SQL Interview Questions & Answers \| by Biswanath Giri \| Medium](https://bgiri-gcloud.medium.com/bigquery-sql-interview-questions-answers-5b1b7d57fbae)
