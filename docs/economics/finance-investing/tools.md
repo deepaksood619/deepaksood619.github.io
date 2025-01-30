@@ -29,9 +29,27 @@ https://www.tikr.com
 - Vested
 - IndMoney
 - [Why Interactive Brokers India \| Interactive Brokers India Pvt. Ltd.](https://www.interactivebrokers.co.in/en/whyib/overview-why-ibkr-india.php)
+	- [Commission Free ETFs \| Interactive Brokers India Pvt. Ltd.](https://www.interactivebrokers.co.in/en/trading/commission-free-etfs-mkt.php)
+	- [Mutual Funds Outside the US \| Interactive Brokers India Pvt. Ltd.](https://www.interactivebrokers.co.in/en/pricing/commissions-mutual-funds-non-us.php?re=europe)
+	- [Commissions Mutual Funds \| Interactive Brokers India Pvt. Ltd.](https://www.interactivebrokers.co.in/en/pricing/commissions-mutual-funds.php)
 - [DriveWealth - Empowering investing for all](https://www.drivewealth.com/)
 - NSE IFSC
 - ETF - Schwab
+
+#### Things to keep in mind
+
+- TCS of 20% on amount > 7 lakh per year
+
+#### Brokers
+
+- Zerodha: Indirectly via Smallcase or partners.
+- Upstox & Groww: Partnered with Vested Finance.
+- ICICI Direct & Kotak Securities: Through global investment accounts.
+- Interactive Brokers: Low fees, direct U.S. market access.
+	- [Interactive brokers pricing for Indians? : r/IndianStreetBets](https://www.reddit.com/r/IndianStreetBets/comments/1654qk2/interactive_brokers_pricing_for_indians/)
+	- [Anybody using interactive brokers for indian exchanges? : r/IndianStreetBets](https://www.reddit.com/r/IndianStreetBets/comments/1afn0a6/anybody_using_interactive_brokers_for_indian/)
+- Vested Finance: Designed for Indian investors.
+- TD Ameritrade & Charles Schwab: Trusted U.S. brokers with international accounts.
 
 ![image](../../media/Screenshot%202025-01-28%20at%205.52.56%20PM.jpg)
 
@@ -48,3 +66,5 @@ https://www.tikr.com
 - [BEST time to INVEST in US Stock but how Should we invest in foreign stocks?](https://youtu.be/1ZXvF8eXkoc)
 - [Should You Use The NSE IFSC’s New Route To Invest In U.S. Stocks? | The ...](https://youtu.be/6x2caB1gkAY)
 - [3 Direct Ways To Invest In U.S. Stocks From India](https://youtu.be/5Dap5e1lXp4)
+- [What are some good online brokers for investing in US stocks from India? - Quora](https://www.quora.com/What-are-some-good-online-brokers-for-investing-in-US-stocks-from-India)
+- [Investing in the US, INDMoney vs IBKR : r/personalfinanceindia](https://www.reddit.com/r/personalfinanceindia/comments/1dsy2b4/investing_in_the_us_indmoney_vs_ibkr/)

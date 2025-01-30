@@ -76,14 +76,14 @@ Hosting Llama 3 Billion parameters or similar other multimodal  and used the exp
 
 #### AWS
 
-|Item|Cost/Unit|Total Cost|
-|---|---|---|
-|GPU Compute (8 hrs/day, p3.2xlarge)|$3.06/hour|$734.40|
-|Idle Compute (16 hrs/day, m5.xlarge)|$0.192/hour|$92.16|
-|Storage (150GB)|$0.10/GB/month|$15|
-|Bandwidth (2TB)|$92/TB|$184|
-|Misc. (API, Monitoring)|Fixed|$80|
-|**Total**|-|**$1,105.56**|
+| Item                                 | Cost/Unit      | Total Cost    |
+| ------------------------------------ | -------------- | ------------- |
+| GPU Compute (8 hrs/day, p3.2xlarge)  | $3.06/hour     | $734.40       |
+| Idle Compute (16 hrs/day, m5.xlarge) | $0.192/hour    | $92.16        |
+| Storage (150GB)                      | $0.10/GB/month | $15           |
+| Bandwidth (2TB)                      | $92/TB         | $184          |
+| Misc. (API, Monitoring)              | Fixed          | $80           |
+| **Total**                            | -              | **$1,105.56** |
 
 #### GCP
 
@@ -120,6 +120,30 @@ Hosting Llama 3 Billion parameters or similar other multimodal  and used the exp
 - **Azure** is the cheapest option overall.
 - GCP offers slightly lower GPU pricing than AWS but higher idle instance costs.
 - AWS is the most expensive primarily due to GPU and bandwidth pricing.
+
+## Cost Breakdown for AWS
+
+### 8B Parameter Model (1x A10G GPU)
+
+| **Item**                                   | **Cost/Unit**  | **Total Cost** |
+| ------------------------------------------ | -------------- | -------------- |
+| GPU Compute (8 hrs/day, g5.2xlarge - A10G) | $1.01/hour     | $242.40        |
+| Idle Compute (16 hrs/day, m5.xlarge)       | $0.192/hour    | $92.16         |
+| Storage (200GB, EBS)                       | $0.10/GB/month | $20            |
+| Bandwidth (3TB)                            | $92/TB         | $276           |
+| Misc. (API, Monitoring, CloudOps, Logging) | Fixed          | $80            |
+| Total                                      | -              | **$710.56**    |
+
+### 70B Parameter Model (4x A100 80GB GPUs)
+
+| **Item**                                             | **Cost/Unit**  | **Total Cost** |
+| ---------------------------------------------------- | -------------- | -------------- |
+| GPU Compute (8 hrs/day, p4d.24xlarge - 4x A100 80GB) | $32.77/hour    | $7,864.80      |
+| Idle Compute (16 hrs/day, m5.2xlarge)                | $0.384/hour    | $184.32        |
+| Storage (500GB, EBS SSD)                             | $0.10/GB/month | $50            |
+| Bandwidth (7TB)                                      | $92/TB         | $644           |
+| Misc. (API, Monitoring, CloudOps, Logging)           | Fixed          | $150           |
+| Total                                                | -              | **$8,893.12**  |
 
 ## Optimization Techniques
 

@@ -82,3 +82,5 @@ tsm configuration set -k vizqlserver.log.level -v info
 [Get Started - Tableau](https://help.tableau.com/current/pro/desktop/en-us/gettingstarted_overview.htm)
 
 [Tableau Dashboard Tutorial - Step by step, from start to finish - Part 1 | sqlbelle - YouTube](https://www.youtube.com/watch?v=cGa7QDeueTA)
+
+Payment Parter - [Digital Transformation Services & Solution \| Enterprise IT Solution](https://www.uneecops.com/)

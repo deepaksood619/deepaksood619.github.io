@@ -8,6 +8,14 @@
 
 [Acquisio: AI-Powered PPC Management Tools & Programmatic Buying](https://www.acquisio.com/) - AI to Supercharge and Simplify Campaign Management
 
+## MarTech (Marketing Technology)
+
+Martech (a.k.a., marketing technology, including marketing software and marketing platforms) is technology employed in the service of marketing. Martech is used to create, execute, manage, orchestrate and measure the performance of online and offline content, campaigns and experiences.
+
+It is difficult to imagine marketing that is not technology-powered. So, with no discernible separation between campaigns and the tools used to execute them, concluding that “martech is marketing” isn’t a stretch.
+
+[What is martech and marketing technology?](https://martech.org/what-is-martech/)
+
 ## Consumer Immersion Exercise
 
 ## ORM - Online Reputation Management

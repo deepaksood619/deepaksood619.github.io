@@ -26,6 +26,7 @@
 - [Databricks SQL](languages/sql/databricks-sql.md)
 - [Databricks SQL Functions](languages/sql/databricks-sql-functions.md)
 - [SQL Examples](languages/sql/sql-examples-queries.md)
+- [SQL Roadmap / Learning](languages/sql/roadmap-learning.md)
 - [Others](languages/sql/others.md)
 
 ## Others

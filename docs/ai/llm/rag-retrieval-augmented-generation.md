@@ -28,6 +28,8 @@ RAG is an AI framework for retrieving facts from an external knowledge base to g
 
 ## Advanced
 
+![rag-architecture](../../media/Pasted%20image%2020250129203918.jpg)
+
 ![RAG from Scratch](../../media/Pasted%20image%2020240802004652.jpg)
 
 ### Advanced RAG Techniques
@@ -93,3 +95,7 @@ Contextual Retrieval enhances each chunk by adding specific, explanatory context
 - [Mastering RAG Systems for LLMs](https://go.kolena.com/mastering-rag-systems-for-llms)
 - [Build a real-time RAG chatbot using Google Drive and Sharepoint](https://blog.streamlit.io/build-a-real-time-rag-chatbot-google-drive-sharepoint/)
 - [Building a Knowledge base for custom LLMs using Langchain, Chroma, and GPT4All \| by Anindyadeep \| Medium](https://cismography.medium.com/building-a-knowledge-base-for-custom-llms-using-langchain-chroma-and-gpt4all-950906ae496d)
+- [Introduction to Retrieval Augmented Generation (RAG) \| Weaviate](https://weaviate.io/blog/introduction-to-rag)
+- [Advanced RAG Techniques \| Weaviate](https://weaviate.io/blog/advanced-rag)
+- [Multimodal Retrieval Augmented Generation(RAG) \| Weaviate](https://weaviate.io/blog/multimodal-rag)
+- [What is Agentic RAG \| Weaviate](https://weaviate.io/blog/what-is-agentic-rag)

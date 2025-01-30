@@ -49,6 +49,8 @@
 - [DeepSeek](https://www.deepseek.com/)
 	- [Run DeepSeek-R1 on Your Laptop with Ollama - DEV Community](https://dev.to/shayy/run-deepseek-locally-on-your-laptop-37hl)
 	- [The Illustrated DeepSeek-R1 - by Jay Alammar](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)
+	- [AWS \| Community \| Deploy DeepSeek R1 on AWS Bedrock](https://community.aws/content/2sIJqPaPMtmNxlRIQT5CzpTtziA/deploy-deepseek-r1-on-aws-bedrock)
+	- [Deploying DeepSeek R1 Model on Amazon Bedrock: A Comprehensive Guide - DEV Community](https://dev.to/aws-builders/deploying-deepseek-r1-model-on-amazon-bedrock-a-comprehensive-guide-39o0)
 
 | Model              | Parameters | Size  |
 | ------------------ | ---------- | ----- |

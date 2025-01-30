@@ -58,6 +58,18 @@ Presentation - [Kong in Action](https://docs.google.com/presentation/d/1nVVmLVwA
 
 ### Podcast - Stream Processing using Kafka and Flink (20 December 2024)
 
+**Release date - 30 January 2024**
+
+Learn how to build a robust data streaming platform using Apache Kafka and Apache Flink!
+
+In this session, we’ll explore:
+🔹 Stream Processing – Handling real-time data efficiently
+🔹 Stream Governance – Ensuring data consistency and reliability
+🔹 Kafka & Flink Integration – Unlocking the power of scalable, fault-tolerant streaming
+
+Perfect for developers, architects, and data engineers looking to master real-time data workflows!
+
+- Spotify Code & Deploy - [How to Build a Data Streaming Platform - Introduction to Stream Processing, Stream Governance with Kafka and Flink. - Code and Deploy by BuildPiper \| Podcast on Spotify](https://open.spotify.com/episode/4aA64Ghofsv3RDa9f5ITw5?si=VovVIE0YTw2xpq-GQz8uJw&nd=1&dlsi=7ac06a271023469b)
 - Transcript - [Podcast - Stream Processing using Kafka and Flink](about-deepak-sood/projects/43-podcast-stream-processing-using-kafka-and-flink.md)
 - Raw Recording - [Raw Recording - Podcast - Stream Processing using Kafka and Flink](https://drive.google.com/file/d/1FLiWYSlUP3oHc954fuVVYxAmQKv35pZz/view?usp=drive_link)
 

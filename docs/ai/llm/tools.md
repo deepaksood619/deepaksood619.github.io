@@ -22,6 +22,7 @@
 - [WebChatGPT: ChatGPT with internet access | Chrome Web Store - Extensions](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn/related)
 - [NotebookLM | Note Taking & Research Assistant Powered by AI](https://notebooklm.google/)
 	- [How to Create YouTube Video Study Guides with NotebookLM - KDnuggets](https://www.kdnuggets.com/how-to-create-youtube-video-study-guides-with-notebooklm)
+	- [Google Gemini Deep Research + NotebookLM - Ultimate AI Combo - YouTube](https://www.youtube.com/watch?v=bZNVn2k2MV4)
 
 ## AI Generators
 

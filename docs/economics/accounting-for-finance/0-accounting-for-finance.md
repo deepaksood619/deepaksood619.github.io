@@ -181,3 +181,64 @@ All Accounts
 - Formula: (Net Profit from Investment / Cost of Investment) x 100.
 - Payback Period: Length of time required to recover the initial investment.
 - Formula: Cost of Investment / Annual Cash Flows.
+
+### Revenue vs Margin
+
+- Buying Price - 50000
+- Selling Price - 75000
+
+#### 1. Calculation 1
+
+(75000-5000)/50000 = 50%
+
+- Here, the denominator is **50000**.
+- This formula calculates the **markup on cost (markup percentage)**.
+- It answers: "**How much profit is being made as a percentage of the cost?**"
+- **Name**: **Markup Percentage**
+
+#### 2. Calculation 2
+
+(75000-5000)/75000 = 33%
+
+- Here, the denominator is **75000**.
+- This formula calculates the **profit margin** or **gross margin percentage**.
+- It answers: "**What portion of the revenue is profit?**"
+- **Name**: **Profit Margin Percentage**
+
+#### Key Difference
+
+- **Markup Percentage** is based on **cost** (how much you add on top of cost).
+- **Profit Margin Percentage** is based on **revenue** (how much of the revenue is profit).
+- **Markup is always higher than profit margin** for the same numbers.
+
+### Why businesses uses profit margin rather than markup for comparing companies?
+
+Businesses and investors use **profit margin** rather than **markup** when comparing companies because **profit margin is a standardized measure of profitability**, whereas markup varies based on cost structures. Here’s why:
+
+#### 1. Profit Margin is Relative to Revenue (Apples-to-Apples Comparison)
+
+- **Profit Margin = Profit / Revenue** → It tells how much of the revenue is actual profit.
+- Since revenue is a standard metric across industries, companies of different sizes and business models can be compared fairly.
+- Example: A company with a **20% profit margin** means it retains **₹20 profit for every ₹100 in revenue**, regardless of cost structures.
+
+#### 2. Markup is Based on Cost (Not Always Comparable)
+
+- **Markup = Profit / Cost** → It tells how much extra is added over cost.
+- Cost structures vary significantly across industries, making markup a poor comparison tool.
+- Example: A software company may have low costs but high markup, whereas a manufacturing company may have higher costs and a lower markup.
+
+#### 3. Investors & Analysts Use Profit Margins for Decision-Making
+
+- **Gross Profit Margin, Operating Margin, and Net Profit Margin** are key financial indicators in earnings reports.
+- Investors compare profit margins to assess efficiency, profitability, and risk.
+- Example: If Company A has a **40% gross margin** and Company B has **25%**, Company A is likely more efficient at turning revenue into profit.
+
+#### 4. Profit Margins Reflect Business Health & Strategy
+
+- Companies with similar markups can have different profit margins due to operational costs, overhead, and pricing strategies.
+- Profit margin accounts for **all costs and revenue**, giving a clearer picture of financial health.
+
+#### Summary
+
+- **Profit margin** is used for **comparing businesses across industries** because it’s based on revenue and reflects overall profitability.
+- **Markup** is useful for **internal pricing strategies** but not for comparing companies with different cost structures.

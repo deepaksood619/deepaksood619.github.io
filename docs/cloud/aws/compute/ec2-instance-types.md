@@ -217,9 +217,47 @@ https://github.com/bottlerocket-os/bottlerocket
 
 EC2 Image Builder
 
-## GPU
+## GPU / Accelerated Computing
+
+Accelerated computing instances use hardware accelerators, or co-processors, to perform functions, such as floating point number calculations, graphics processing, or data pattern matching, more efficiently than is possible in software running on CPUs.
 
 https://aws.amazon.com/ec2/instance-types/g4
+
+[Amazon EC2 P4 Instances](https://aws.amazon.com/ec2/instance-types/p4/)
+
+- High performance for ML training and HPC applications in the cloud
+
+### [Amazon EC2 P5 Instances](https://aws.amazon.com/ec2/instance-types/p5/)
+
+Highest performance GPU-based instances for deep learning and HPC applications
+
+[Amazon EC2 P5 instances](https://aws.amazon.com/ec2/instance-types/p5/) are the latest generation of GPU-based instances and provide the highest performance in Amazon EC2 for deep learning and high performance computing (HPC).
+
+#### Features
+
+- Intel Sapphire Rapids CPU and PCIe Gen5 between the CPU and GPU in P5en instances; 3rd Gen AMD EPYC processors (AMD EPYC 7R13) and PCIe Gen4 between the CPU and GPU in P5 and P5e instances.
+- Up to 8 NVIDIA H100 (in P5) or H200 (in P5e and P5en) Tensor Core GPUs
+- Up to 3,200 Gbps network bandwidth with support for Elastic Fabric Adapter (EFA) and NVIDIA GPUDirect RDMA (remote direct memory access)
+- 900 GB/s peer-to-peer GPU communication with NVIDIA NVSwitch
+
+| Instance          | GPUs   | vCPUs | Instance Memory (TiB) | GPU  <br>Memory | Network Bandwidth | GPU Direct RDMA | GPU Peer to Peer  | Instance Storage (TB) | EBS Bandwidth (Gbps) |
+| ----------------- | ------ | ----- | --------------------- | --------------- | ----------------- | --------------- | ----------------- | --------------------- | -------------------- |
+| **p5.48xlarge**   | 8 H100 | 192   | 2                     | 640 GB HBM3     | 3200 Gbps EFAv2   | Yes             | 900 GB/s NVSwitch | 8 x 3.84 NVMe SSD     | 80                   |
+| **p5e.48xlarge**  | 8 H200 | 192   | 2                     | 1128 GB HBM3    | 3200 Gbps EFAv2   | Yes             | 900 GB/s NVSwitch | 8x 3.84 NVMe SSD      | 80                   |
+| **p5en.48xlarge** | 8 H200 | 192   | 2                     | 1128 GB HBM3    | 3200 Gbps EFAv3   | Yes             | 900 GB/s NVSwitch | 8x 3.84 NVMe SSD      | 100                  |
+
+[Amazon EC2 Instance types](https://aws.amazon.com/ec2/instance-types/)
+
+[Graphics Cards by GeForce \| NVIDIA](https://www.nvidia.com/en-in/geforce/graphics-cards/)
+
+- GeForce RTX 50 Series
+	- RTX 5090
+	- RTX 5080
+	- RTX 5070 Ti
+	- RTX 5070
+- GeForce RTX 40 Series
+	- RTX 4080
+	- RTX 4070
 
 ## Spot Instances
 
