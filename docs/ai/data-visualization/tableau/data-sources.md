@@ -86,3 +86,5 @@ Tableau packaged data source files have the .tdsx file extension. A packaged dat
 [Refresh Data Sources - Tableau](https://help.tableau.com/current/pro/desktop/en-us/refreshing_data.htm)
 
 [Extract Your Data - Tableau](https://help.tableau.com/current/pro/desktop/en-us/extracting_data.htm)
+
+[Schedule Refreshes on Tableau Cloud - Tableau](https://help.tableau.com/current/online/en-us/schedule_add.htm#timeout)

@@ -12,7 +12,7 @@ This is the main process that manages everything in Postgres. It creates a liste
 
 ### Backend Process
 
-The postmaster process creates a new “backend” process for every connection it accepts. The connection is then handed over to the new backend process to perform the reading of the TCP stream, request parsing, SQL query parsing (yes those are different), planning, execution and returning the results. The process uses its local virtual memory for sorting and parsing logic, this memory is controlled by the work_mem parameter.
+The postmaster process creates a new "backend" process for every connection it accepts. The connection is then handed over to the new backend process to perform the reading of the TCP stream, request parsing, SQL query parsing (yes those are different), planning, execution and returning the results. The process uses its local virtual memory for sorting and parsing logic, this memory is controlled by the work_mem parameter.
 
 ### Background Workers
 

@@ -17,6 +17,6 @@ As demonstrated by a 500 TB TPC-H benchmark, the query performance of MySQL Heat
 
 [MySQL HeatWave Database Service | Oracle](https://www.oracle.com/mysql/#mysql-heatwave-oci-pricing)
 
-[Is MySQL HeatWave Oracle’s “Killer App” ?](https://www.forbes.com/sites/moorinsights/2023/03/29/is-mysql-heatwave-oracles-killer-app-/?sh=6c47c9916062)
+[Is MySQL HeatWave Oracle’s "Killer App" ?](https://www.forbes.com/sites/moorinsights/2023/03/29/is-mysql-heatwave-oracles-killer-app-/?sh=6c47c9916062)
 
 [Oracle’s MySQL HeatWave gets Vector Store, generative AI features | InfoWorld](https://www.infoworld.com/article/3706879/oracle-s-mysql-heatwave-gets-vector-store-generative-ai-features.html)

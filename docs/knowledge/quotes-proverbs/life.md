@@ -1077,7 +1077,7 @@ He gave me abuses; I didn't take them. So the abuses remained with him. -- Gauta
 
 The ultimate test of a moral society is the kind of world that it leaves to its children -- Dietrich Bonhoeffer
 
-“If you defer investing your time and energy until you see that you need to, chances are it will already be too late.” - Clayton Christensen
+"If you defer investing your time and energy until you see that you need to, chances are it will already be too late." - Clayton Christensen
 
 A tool is as powerful as a person wielding it.
 The tool is only as effective as the skilfulness of the hands that wield it.
@@ -1085,9 +1085,9 @@ A tool is only as good as the person using it.
 
 90 90 rule - when you think you are done with 90% of tasks, you are left with 90% of tasks
 
-दूध का जला छाछ भी फूंक कर पीता हैं। का अर्थ है “ एक बार धोखा खाने पर अत्यधिक सावधान होना।”
+दूध का जला छाछ भी फूंक कर पीता हैं। का अर्थ है " एक बार धोखा खाने पर अत्यधिक सावधान होना।"
 
-“The illiterate of the twenty-first century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.” — Alvin Toffler
+"The illiterate of the twenty-first century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn." — Alvin Toffler
 
 Show me the incentives, I will show you the outcome — Charlie Munger
 
@@ -1111,7 +1111,7 @@ Archbishop Desmond Tutu said, "There comes a point where we need to stop just pu
 
 To each their own - idiom - people have the right to their own preferences and opinions
 
-- Similar phrases “Different strokes for different folks, “Whatever floats your boat, and “One man's fish is another man's poison.
+- Similar phrases "Different strokes for different folks, "Whatever floats your boat, and "One man's fish is another man's poison.
 
 All happy families are alike; each unhappy family is unhappy in its own way.
 

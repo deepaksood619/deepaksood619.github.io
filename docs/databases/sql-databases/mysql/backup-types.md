@@ -11,7 +11,7 @@ Logical backups save information represented as logical database structure ([`CR
 - The backup consists of exact copies of database directories and files. Typically this is a copy of all or part of the MySQL data directory.
 - Physical backup methods are faster than logical because they involve only file copying without conversion.
 - Output is more compact than for logical backup.
-- Because backup speed and compactness are important for busy, important databases, the MySQL Enterprise Backup product performs physical backups. For an overview of the MySQL Enterprise Backup product, see [Section 32.1, “MySQL Enterprise Backup Overview”](https://dev.mysql.com/doc/refman/8.0/en/mysql-enterprise-backup.html "32.1 MySQL Enterprise Backup Overview").
+- Because backup speed and compactness are important for busy, important databases, the MySQL Enterprise Backup product performs physical backups. For an overview of the MySQL Enterprise Backup product, see [Section 32.1, "MySQL Enterprise Backup Overview"](https://dev.mysql.com/doc/refman/8.0/en/mysql-enterprise-backup.html "32.1 MySQL Enterprise Backup Overview").
 - Backup and restore granularity ranges from the level of the entire data directory down to the level of individual files. This may or may not provide for table-level granularity, depending on storage engine. For example, `InnoDB` tables can each be in a separate file, or share file storage with other `InnoDB` tables; each `MyISAM` table corresponds uniquely to a set of files.
 - In addition to databases, the backup can include any related files such as log or configuration files.
 - Data from `MEMORY` tables is tricky to back up this way because their contents are not stored on disk. (The MySQL Enterprise Backup product has a feature where you can retrieve data from `MEMORY` tables during a backup.)
@@ -38,7 +38,7 @@ Logical backups save information represented as logical database structure ([`CR
 
 ## Online Versus Offline Backups
 
-Online backups take place while the MySQL server is running so that the database information can be obtained from the server. Offline backups take place while the server is stopped. This distinction can also be described as “hot” versus “cold” backups; a “warm” backup is one where the server remains running but locked against modifying data while you access database files externally.
+Online backups take place while the MySQL server is running so that the database information can be obtained from the server. Offline backups take place while the server is stopped. This distinction can also be described as "hot" versus "cold" backups; a "warm" backup is one where the server remains running but locked against modifying data while you access database files externally.
 
 ### Online backup methods have these characteristics
 
@@ -62,7 +62,7 @@ A local backup is performed on the same host where the MySQL server runs, wherea
 
 ## Snapshot Backups
 
-Some file system implementations enable “snapshots” to be taken. These provide logical copies of the file system at a given point in time, without requiring a physical copy of the entire file system. (For example, the implementation may use copy-on-write techniques so that only parts of the file system modified after the snapshot time need be copied.) MySQL itself does not provide the capability for taking file system snapshots. It is available through third-party solutions such as Veritas, LVM, or ZFS.
+Some file system implementations enable "snapshots" to be taken. These provide logical copies of the file system at a given point in time, without requiring a physical copy of the entire file system. (For example, the implementation may use copy-on-write techniques so that only parts of the file system modified after the snapshot time need be copied.) MySQL itself does not provide the capability for taking file system snapshots. It is available through third-party solutions such as Veritas, LVM, or ZFS.
 
 ## Full Versus Incremental Backups
 
@@ -78,7 +78,7 @@ Incremental recovery is recovery of changes made during a given time span. This 
 
 ## Table Maintenance
 
-Data integrity can be compromised if tables become corrupt. For [`InnoDB`](https://dev.mysql.com/doc/refman/8.0/en/innodb-storage-engine.html "Chapter 17 The InnoDB Storage Engine") tables, this is not a typical issue. For programs to check [`MyISAM`](https://dev.mysql.com/doc/refman/8.0/en/myisam-storage-engine.html "18.2 The MyISAM Storage Engine") tables and repair them if problems are found, see [Section 9.6, “MyISAM Table Maintenance and Crash Recovery”](https://dev.mysql.com/doc/refman/8.0/en/myisam-table-maintenance.html "9.6 MyISAM Table Maintenance and Crash Recovery").
+Data integrity can be compromised if tables become corrupt. For [`InnoDB`](https://dev.mysql.com/doc/refman/8.0/en/innodb-storage-engine.html "Chapter 17 The InnoDB Storage Engine") tables, this is not a typical issue. For programs to check [`MyISAM`](https://dev.mysql.com/doc/refman/8.0/en/myisam-storage-engine.html "18.2 The MyISAM Storage Engine") tables and repair them if problems are found, see [Section 9.6, "MyISAM Table Maintenance and Crash Recovery"](https://dev.mysql.com/doc/refman/8.0/en/myisam-table-maintenance.html "9.6 MyISAM Table Maintenance and Crash Recovery").
 
 ## Backup Scheduling, Compression, and Encryption
 

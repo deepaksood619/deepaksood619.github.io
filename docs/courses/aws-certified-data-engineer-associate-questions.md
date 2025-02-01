@@ -566,7 +566,7 @@ A finance company is storing paid invoices in an Amazon S3 bucket. After the inv
     "Statement": [
         {
             "Sid": "ExampleStmt",
-            "Action": ["s3:*”],
+            "Action": ["s3:*"],
             "Effect": "Allow",
             "Resource": ["*"]
         }

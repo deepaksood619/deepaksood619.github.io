@@ -91,9 +91,9 @@ ClickHouse, Druid and Pinot have fundamentally similar architecture, and their o
 
 Among those three systems, ClickHouse stands a little apart from Druid and Pinot, while the latter two are almost identical, they are pretty much two independently developed implementations of exactly the same system.
 
-ClickHouse more resembles “traditional” databases like PostgreSQL. A single-node installation of ClickHouse is possible. On small scale (less than 1 TB of memory, less than 100 CPU cores) ClickHouse is much more interesting than Druid or Pinot, if you still want to compare with them, because ClickHouse is simpler and has less moving parts and services. I would say that it competes with InfluxDB or Prometheus on this scale, rather than with Druid or Pinot.
+ClickHouse more resembles "traditional" databases like PostgreSQL. A single-node installation of ClickHouse is possible. On small scale (less than 1 TB of memory, less than 100 CPU cores) ClickHouse is much more interesting than Druid or Pinot, if you still want to compare with them, because ClickHouse is simpler and has less moving parts and services. I would say that it competes with InfluxDB or Prometheus on this scale, rather than with Druid or Pinot.
 
-Druid and Pinot more resemble other Big Data systems in the Hadoop ecosystem. They retain “self-driving” properties even on very large scale (more than 500 nodes), while ClickHouse requires a lot of attention of professional SREs. Also, Druid and Pinot are in the better position to optimize for infrastructure costs of large clusters, and better suited for the cloud environments, than ClickHouse.
+Druid and Pinot more resemble other Big Data systems in the Hadoop ecosystem. They retain "self-driving" properties even on very large scale (more than 500 nodes), while ClickHouse requires a lot of attention of professional SREs. Also, Druid and Pinot are in the better position to optimize for infrastructure costs of large clusters, and better suited for the cloud environments, than ClickHouse.
 
 The only sustainable difference between Druid and Pinot is that Pinot depends on Helix framework and going to continue to depend on ZooKeeper, while Druid could move away from the dependency on ZooKeeper. On the other hand, Druid installations are going to continue to depend on the presence of some SQL database.
 

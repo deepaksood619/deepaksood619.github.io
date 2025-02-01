@@ -2,7 +2,7 @@
 
 Security information and event management, SIEM for short, is a solution that helps organizations detect, analyze, and respond to security threats before they harm business operations.
 
-SIEM, pronounced “sim,” combines both security information management (SIM) and security event management (SEM) into one security management system. SIEM technology collects event log data from a range of sources, identifies activity that deviates from the norm with real-time analysis, and takes appropriate action.
+SIEM, pronounced "sim," combines both security information management (SIM) and security event management (SEM) into one security management system. SIEM technology collects event log data from a range of sources, identifies activity that deviates from the norm with real-time analysis, and takes appropriate action.
 
 In short, SIEM gives organizations visibility into activity within their network so they can respond swiftly to potential [cyberattacks](https://www.microsoft.com/en-in/security/business/security-101/what-is-a-cyberattack) and meet compliance requirements.
 

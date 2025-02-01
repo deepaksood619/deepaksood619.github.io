@@ -157,7 +157,7 @@ Trillion dollar coach - Bill Campbell
 
 [How Schools Can Nurture Every Student's Genius | Trish Millines Dziko | TED](https://www.youtube.com/watch?v=SUDMIA23_5s)
 
-“He who has a why to live for can bear almost any how.” -- Friedrich Nietzsche
+"He who has a why to live for can bear almost any how." -- Friedrich Nietzsche
 
 Teachers need to internalise this. Your job is to spark curiosity in your students.
 

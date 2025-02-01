@@ -46,7 +46,7 @@ In the context of vector embeddings, yes, embeddings and vectors are the same th
 4. Data preprocessing (preparing data to be fed into a machine learning model)
 5. One-shot/zero-shot learning (i.e. machine learning models that learn from almost no training data)
 6. Fraud detection/outlier detection
-7. Typo detection and all manners of “fuzzy matching”
+7. Typo detection and all manners of "fuzzy matching"
 8. Detecting when ML models go stale (drift)
 
 [What are vector embeddings? | A Comprehensive Vector Embeddings Guide | Elastic](https://www.elastic.co/what-is/vector-embedding)

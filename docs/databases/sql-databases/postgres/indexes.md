@@ -31,7 +31,7 @@ A B-tree index can be used for column comparisons in expressions that use the =,
 
 A Block Range INdex (BRIN) can be used when your table is naturally already sorted by a column, and you need to sort by that column. For example, for a log table that was written sequentially, setting a BRIN index on the timestamp column lets the server know that the data is already sorted.
 
-BRIN works in terms of _block ranges_ (or “page ranges”). A block range is a group of pages that are physically adjacent in the table; for each block range, some summary info is stored by the index. For example, a table storing a store's sale orders might have a date column on which each order was placed, and most of the time the entries for earlier orders will appear earlier in the table as well; a table storing a ZIP code column might have all codes for a city grouped together naturally.
+BRIN works in terms of _block ranges_ (or "page ranges"). A block range is a group of pages that are physically adjacent in the table; for each block range, some summary info is stored by the index. For example, a table storing a store's sale orders might have a date column on which each order was placed, and most of the time the entries for earlier orders will appear earlier in the table as well; a table storing a ZIP code column might have all codes for a city grouped together naturally.
 
 [PostgreSQL: Documentation: 16: 71.1. Introduction](https://www.postgresql.org/docs/current/brin-intro.html)
 

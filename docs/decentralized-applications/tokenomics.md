@@ -18,7 +18,7 @@ Despite the professed egalitarianism of cryptocurrency, new token distributions 
 
 Check token distributions of popular coins and you may be shocked to learn that huge swathes of so-called decentralized networks are reserved for early investors or founders, leaving the general public as second-class investors.
 
-The promise of a “fair launch” remedies these inequalities. The concept refers to projects that provide everyone with an equal chance of acquiring tokens, no matter their status, meaning that no party is privileged to an investment above any other.
+The promise of a "fair launch" remedies these inequalities. The concept refers to projects that provide everyone with an equal chance of acquiring tokens, no matter their status, meaning that no party is privileged to an investment above any other.
 
 Fair launches gained popularity among those who think the market is rigged against them, jaded by whitelists, venture capital allocations and pre-mines that skew favor to the few in the know over the general population.
 

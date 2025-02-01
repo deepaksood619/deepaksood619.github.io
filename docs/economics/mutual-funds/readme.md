@@ -21,7 +21,7 @@ Recommended portfolio for aggressive investors:
 
 ## AMC Working
 
-The other is due to the “safety of the capital”. Or, in other words, the fear that someone will take our money and run away or the AMC itself would fail (like a bank).
+The other is due to the "safety of the capital". Or, in other words, the fear that someone will take our money and run away or the AMC itself would fail (like a bank).
 
 A mutual fund in India is set up like a trust. A trust is an arrangement involving three parties (unlike a bank): the unitholder (or investor), the mutual fund company (AMC) and the mutual fund trustee.
 

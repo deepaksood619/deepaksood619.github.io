@@ -6,6 +6,7 @@
 - [Concepts](ai/data-visualization/tableau/concepts.md)
 - [Augmented Analytics](ai/data-visualization/tableau/augmented-analytics.md)
 - [Dashboarding](ai/data-visualization/tableau/dashboarding.md)
+- [Administration](ai/data-visualization/tableau/administration.md)
 - [Questions](ai/data-visualization/tableau/interview-questions.md)
 - [Others](ai/data-visualization/tableau/others.md)
 

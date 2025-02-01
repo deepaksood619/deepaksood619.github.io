@@ -63,7 +63,7 @@ https://docs.google.com/spreadsheets/d/1zl7adSoCYuWpuBnRPbkkhwT2RZ5hk3lUO4ud0NE7
 
 [Why Is Indonesia One Of The Fastest Growing Economies In The World? | Economics Explained - YouTube](https://www.youtube.com/watch?v=E_M1pX1EeHo)
 
-[Saudi Arabia’s Catastrophic “Everything” Problem - YouTube](https://www.youtube.com/watch?v=txmzVsBniZQ)
+[Saudi Arabia’s Catastrophic "Everything" Problem - YouTube](https://www.youtube.com/watch?v=txmzVsBniZQ)
 
 [There Will Never Be Another Singapore | Economics Explained - YouTube](https://www.youtube.com/watch?v=KB1vxqD0uPE)
 

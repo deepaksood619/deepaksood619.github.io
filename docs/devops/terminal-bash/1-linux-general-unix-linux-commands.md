@@ -836,7 +836,7 @@ To check more than one directory and see the total, use du -sch:
 
 ### lsblk
 
-The `lsblk` command, short for “list block devices,” is a powerful tool that provides detailed information about block devices such as hard drives, solid-state drives, and other storage-related devices.
+The `lsblk` command, short for "list block devices," is a powerful tool that provides detailed information about block devices such as hard drives, solid-state drives, and other storage-related devices.
 
 ```bash
 lsblk -a # To display empty block devices as well.

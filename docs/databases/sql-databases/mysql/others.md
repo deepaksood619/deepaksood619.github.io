@@ -130,3 +130,5 @@ https://dev.mysql.com/doc/refman/5.7/en/glossary.html
 https://github.com/shlomi-noach/awesome-mysql
 
 [GitHub - MyCATApache/Mycat2: MySQL Proxy using Java NIO based on Sharding SQL,Calcite ,simple and fast](https://github.com/MyCATApache/Mycat2)
+
+[Schema migrations — MySQL for Developers — PlanetScale](https://planetscale.com/learn/courses/mysql-for-developers/schema/schema-migrations)

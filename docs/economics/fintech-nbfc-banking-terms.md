@@ -224,6 +224,7 @@ A loan tape is a snapshot of a fintech's customer base and outstanding balances,
 52. Piramal Finance, one of India's largest non-banking lenders
 53. Affirm (US - fintech)
 54. moneyHop
+55. https://www.refyne.co.in/
 
 https://tracxn.com/d/soonicorn-awards/top-startups-in-india-fintech-2021
 

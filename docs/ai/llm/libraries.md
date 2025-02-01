@@ -13,7 +13,7 @@
 7. [WhisperX](https://github.com/m-bain/whisperX) - speech recognition with word-level timestamps & diarization
 8. [AutoGen](https://github.com/microsoft/autogen) - LLM conversational collaborative suite
 9. [Guardrails](https://github.com/guardrails-ai/guardrails) - babysit LLMs so they behave as intended
-10. [Temporian](https://github.com/google/temporian) - the “Pandas” built for preprocessing temporal data
+10. [Temporian](https://github.com/google/temporian) - the "Pandas" built for preprocessing temporal data
 
 ### Runner-ups
 
@@ -40,7 +40,7 @@
 
 ### Code Tools
 
-- [**Chainlit**](https://github.com/Chainlit/chainlit) - “the Streamlit for ChatGPT”, create ChatGPT-like UIs on top of any Python code in minutes!
+- [**Chainlit**](https://github.com/Chainlit/chainlit) - "the Streamlit for ChatGPT", create ChatGPT-like UIs on top of any Python code in minutes!
 - [**pydistcheck**](https://github.com/jameslamb/pydistcheck) - Linter that finds portability issues in Python package distributions (wheels and sdists).
 - [**pyxet**](https://github.com/xetdata/pyxet) - lightweight interface for the XetHub platform, a blob-store with a filesystem like interface and git capabilities.
 
@@ -122,7 +122,7 @@
 - [**LLM App**](https://github.com/pathwaycom/llm-app) - build innovative AI applications by providing real-time human-like responses to user queries based on the most up-to-date knowledge available in your data sources.
 - [**maccarone**](https://github.com/bsilverthorn/maccarone) - AI-managed code blocks in Python, lets you delegate sections of your Python program to AI ownership.
 - [**magentic**](https://github.com/jackmpcollins/magentic) - prompt LLMs as simple Python functions using decorators.
-- [**Semantic Kernel**](https://github.com/microsoft/semantic-kernel) - integrate cutting-edge LLM technology quickly and easily into your apps. Microsoft’s “version” of [LangChain](https://github.com/hwchase17/langchain).
+- [**Semantic Kernel**](https://github.com/microsoft/semantic-kernel) - integrate cutting-edge LLM technology quickly and easily into your apps. Microsoft’s "version" of [LangChain](https://github.com/hwchase17/langchain).
 - [ControlFlow](https://controlflow.ai/welcome)
 	- ControlFlow is a Python framework for building agentic AI workflows.
 

@@ -28,7 +28,7 @@ brew install duckdb
 - [My First Billion (of Rows) in DuckDB | by João Pedro | Towards Data Science](https://towardsdatascience.com/my-first-billion-of-rows-in-duckdb-11873e5edbb5)
 - [How fast is DuckDB really? | Blog | Fivetran](https://www.fivetran.com/blog/how-fast-is-duckdb-really)
 - [Benchmarking Ourselves over Time at DuckDB – DuckDB](https://duckdb.org/2024/06/26/benchmarks-over-time.html)
-- “One Size Fits All”: An Idea Whose Time Has Come and Gone - [stonebraker-centintemel-one-size-fits-all-icde-2015.pdf](https://blobs.duckdb.org/papers/stonebraker-centintemel-one-size-fits-all-icde-2015.pdf)
+- "One Size Fits All": An Idea Whose Time Has Come and Gone - [stonebraker-centintemel-one-size-fits-all-icde-2015.pdf](https://blobs.duckdb.org/papers/stonebraker-centintemel-one-size-fits-all-icde-2015.pdf)
 - [GitHub - duckdb/duckdb: DuckDB is an analytical in-process SQL database management system](https://github.com/duckdb/duckdb)
 - [DuckDB – An in-process SQL OLAP database management system](https://duckdb.org/)
 - [GitHub - duckdb-in-action/examples](https://github.com/duckdb-in-action/examples)

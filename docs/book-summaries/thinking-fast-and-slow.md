@@ -49,11 +49,11 @@ If we are lazy and lazy to use System 2, our mind will limit its intelligent pow
 
 ### 3: Autopilot: why we don't always consciously control our thoughts and actions
 
-What comes to mind when you see the letters “SO_P” ? Maybe nothing. But what if you see the word “EAT” first? Now, when you look at the word “SO_P” again, you should be able to complete it as “SOUP.” This process is also known as  _priming_ .
+What comes to mind when you see the letters "SO_P" ? Maybe nothing. But what if you see the word "EAT" first? Now, when you look at the word "SO_P" again, you should be able to complete it as "SOUP." This process is also known as  _priming_ .
 
-We are baited when we come across a word, concept, or event that reminds us of related words and concepts. If you looked at the word “SHOWER” instead of the word “EAT” above, you would probably picture the word “SOAP”.
+We are baited when we come across a word, concept, or event that reminds us of related words and concepts. If you looked at the word "SHOWER" instead of the word "EAT" above, you would probably picture the word "SOAP".
 
-This dropping phenomenon affects not only the way we think but also the way we act. Just as your mind is affected when it hears certain words and concepts, so can your body. A prime example of this phenomenon can be found in a study in which participants were baited by words associated with old age, such as “Florida” and “wrinkles”, whose responses slowed down. than usual.
+This dropping phenomenon affects not only the way we think but also the way we act. Just as your mind is affected when it hears certain words and concepts, so can your body. A prime example of this phenomenon can be found in a study in which participants were baited by words associated with old age, such as "Florida" and "wrinkles", whose responses slowed down. than usual.
 
 Surprisingly, we are completely unaware that our thoughts and actions are affected by the release of bait.
 
@@ -89,7 +89,7 @@ For the most part, these processes are very useful, but the problem is that our 
 
 _Alternative heuristics_  occurs when we answer an easier question than the one actually asked.  
 
-For example, try this question: “A woman is running for sheriff. How successful will she be in that ministry?” We automatically replace the question we should have answered with an easier one, like, “Does she look like someone who would make a good sheriff?” This experimentation means that instead of researching a candidate's profile and policies, we are simply asking ourselves the much easier question of whether this woman fits our mental image of a candidate. good sheriff or not.
+For example, try this question: "A woman is running for sheriff. How successful will she be in that ministry?" We automatically replace the question we should have answered with an easier one, like, "Does she look like someone who would make a good sheriff?" This experimentation means that instead of researching a candidate's profile and policies, we are simply asking ourselves the much easier question of whether this woman fits our mental image of a candidate. good sheriff or not.
 
 Unfortunately, if she doesn't fit that mental image, we'll throw her out – even though she has years of crime fighting experience, which makes her a good candidate.
 
@@ -115,9 +115,9 @@ For example, if a football striker who scores 5 goals a month on average, scores
 
 Our minds don't record experiences in a straight line. We have two machines that record different situations.
 
-The first is  _the experiential self_ , recording how you feel in the present. It asks, “How am I feeling right now?”
+The first is  _the experiential self_ , recording how you feel in the present. It asks, "How am I feeling right now?"
 
-Second, is  _the flashback_ being , which records the entire event that happened. It asks, “How do I feel in general?”
+Second, is  _the flashback_ being , which records the entire event that happened. It asks, "How do I feel in general?"
 
 _The experiencing_  self is a more accurate description of what happened, because how we feel at that moment is the most accurate. But  _the flashback ontology_  is not as accurate because it records only some of the salient memories after the event is over.
 
@@ -151,11 +151,11 @@ You might think that once we could determine the probability of a risk, everyone
 
 For example, people will find a rare event more likely to happen than it is expressed in terms of relative frequency rather than statistical probability.
 
-In an example also known as the Mr. Experiment. Jones, two groups of psychiatrists were consulted about whether it was safe to release Mr. Jones from a psychiatric hospital at this time. One group was told that patients like Mr Jones had a “10% chance of assaulting others,” and a second group was told that “out of 100 patients like Mr Jones, 10 are likely to commit violence.” As a result, group 2 had twice as many people refusing to release people as group 1.
+In an example also known as the Mr. Experiment. Jones, two groups of psychiatrists were consulted about whether it was safe to release Mr. Jones from a psychiatric hospital at this time. One group was told that patients like Mr Jones had a "10% chance of assaulting others," and a second group was told that "out of 100 patients like Mr Jones, 10 are likely to commit violence." As a result, group 2 had twice as many people refusing to release people as group 1.
 
 Our focus is also distracted from statistically relevant information, known as  _denominator neglect_ . This happens when we ignore obvious statistics in favor of vivid mental images that can influence our decisions.
 
-For example the following two sentences: “This drug will protect children from disease X but has 0.001% permanent disfigurement” with “1 in 100,000 children taking this medicine will be permanently disfigured.” Even though the meaning of the two sentences is the same, the latter conjures up the image of a deformed baby and has a greater impact, and that is why it makes us hesitate to take this drug.
+For example the following two sentences: "This drug will protect children from disease X but has 0.001% permanent disfigurement" with "1 in 100,000 children taking this medicine will be permanently disfigured." Even though the meaning of the two sentences is the same, the latter conjures up the image of a deformed baby and has a greater impact, and that is why it makes us hesitate to take this drug.
 
 ### 10: Not Robots: Why Humans Don't Make Decisions Based on Reasoning
 

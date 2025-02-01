@@ -32,7 +32,7 @@ The chaos is tamed! We’ve found our story and the heroic role we’re going to
 
 The anthropologist Professor Robert Paul writes that our pursuit of symbolic status ‘has to do with the fact that human social life inherently depends on there being a public arena in which symbols can be made available to perception and shared by many people’.
 
-People who have connected ‘share in the perception of these symbols, and incorporate them into their own thinking, feeling, and identity’, which ‘means that they experience their associates as “kin’
+People who have connected ‘share in the perception of these symbols, and incorporate them into their own thinking, feeling, and identity’, which ‘means that they experience their associates as "kin’
 
 It’s in this way that we exist as a tribe, a culture, a people. We come into being as a collective when we connect with like-minded others whose brains process reality in similar ways; who dream the same dream of life. We recognise the same symbols; play the same game. As we do, we become the source of each other’s status, the people of the yam. We see the yam, we know what it means, we experience a profound sense of connection with those who perceive this reality as we do.
 

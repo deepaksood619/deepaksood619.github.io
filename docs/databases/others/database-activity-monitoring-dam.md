@@ -54,7 +54,7 @@ It allows you to observe the health of your database systems, explore new patter
 
 [https://www.webyog.com/product/monyog](https://www.webyog.com/product/monyog)
 
-MONyog MySQL Monitor and Advisor is a “MySQL DBA in a box” that helps MySQL DBAs manage more MySQL servers, tune their current MySQL servers and find and fix problems with their MySQL database applications before they can become serious problems or costly outages.
+MONyog MySQL Monitor and Advisor is a "MySQL DBA in a box" that helps MySQL DBAs manage more MySQL servers, tune their current MySQL servers and find and fix problems with their MySQL database applications before they can become serious problems or costly outages.
 
 MONyog proactively monitors enterprise database environments and provides expert advice on how even those new to MySQL can tighten security, optimize performance and reduce downtime of their MySQL powered systems.
 

@@ -462,7 +462,7 @@
 
 #### Memory Spillage
 
-Performance degrades drastically when a warehouse runs out of memory while executing a query because memory bytes must “spill” onto local disk storage. If the query requires even more memory, it spills onto remote cloud-provider storage, which results in even worse performance.
+Performance degrades drastically when a warehouse runs out of memory while executing a query because memory bytes must "spill" onto local disk storage. If the query requires even more memory, it spills onto remote cloud-provider storage, which results in even worse performance.
 
 ##### Options for Resolving Memory Spillage
 

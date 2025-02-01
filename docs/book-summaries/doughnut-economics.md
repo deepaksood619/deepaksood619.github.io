@@ -81,6 +81,6 @@ This is a big takeaway for me when presenting complex information. You need to a
 
 ![doughnut-economics](../media/Pasted%20image%2020240722181140.jpg)
 
-[Summary of Kate Raworth's book, “Doughnut Economics"](https://www.linkedin.com/pulse/summary-kate-raworths-book-doughnut-economics-salvatoriello-mba/)
+[Summary of Kate Raworth's book, "Doughnut Economics"](https://www.linkedin.com/pulse/summary-kate-raworths-book-doughnut-economics-salvatoriello-mba/)
 
 [Doughnut Economics Summary - Four Minute Books](https://fourminutebooks.com/doughnut-economics-summary/)

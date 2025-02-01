@@ -146,8 +146,9 @@ https://www.google.com/inputtools
 
 - Nimbus Screenshot & Screen Video
 - [Screen Recorder](https://chromewebstore.google.com/detail/screen-recorder/hniebljpgcogalllopnjokppmgbhaden)
-- [GitHub - alyssaxuu/screenity: The free and privacy-friendly screen recorder with no limits 🎥](https://github.com/alyssaxuu/screenity)
-- Loom
+- Best alternative to loom - [GitHub - alyssaxuu/screenity: The free and privacy-friendly screen recorder with no limits 🎥](https://github.com/alyssaxuu/screenity)
+- Loom (cannot download with free version)
+	- [Loom Video Downloader](https://getof.net/en/loom-video-downloader/)
 - CloudApp
 - Cantamsia
 

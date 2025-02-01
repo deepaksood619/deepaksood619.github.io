@@ -20,7 +20,7 @@ The basic unit of a CNN framework is a neuron. The concept of neurons is based o
 
 ## CNN Layers
 
-A CNN system may have somewhere between 3 to 150 or even more layers: The “deep” of Deep neural networks refers to the number of layers. One layer’s output acts as another layer’s input. Deep multi-layer neural networks include [Resnet50 (50 layers) or ResNet101 (101 layers)](https://viso.ai/deep-learning/resnet-residual-neural-network/).
+A CNN system may have somewhere between 3 to 150 or even more layers: The "deep" of Deep neural networks refers to the number of layers. One layer’s output acts as another layer’s input. Deep multi-layer neural networks include [Resnet50 (50 layers) or ResNet101 (101 layers)](https://viso.ai/deep-learning/resnet-residual-neural-network/).
 
 ![Concept of a Convolutional Neural Network (CNN)](../../media/Pasted%20image%2020240917123109.jpg)
 

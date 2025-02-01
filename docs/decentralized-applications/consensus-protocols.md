@@ -22,7 +22,7 @@ Staking helps contribute to blockchain security by using your tokens to vouch fo
 
 **Delegated Proof Of Stake (DPoS)** is a consensus algorithm which is an advancement of the fundamental concepts of [Proof Of Stake](https://www.geeksforgeeks.org/proof-of-stake-pos-in-blockchain/). Delegated Proof of Stake (DPoS) consensus algorithm was developed by Daniel Larimer, founder of BitShares, Steemit and EOS in 2014.
 
-In Proof of Stake consensus system, each person who stakes a token can participate to the **“mintage”** process which means that they get a chance to select layer two nodes which further validates block and be rewarded for adding blocks to [blockchain](https://www.geeksforgeeks.org/blockchain-technology-introduction/). DPos system is maintained by an election system for choosing nodes which verify blocks. These nodes are called **“witnesses”** or **“block producers”**.
+In Proof of Stake consensus system, each person who stakes a token can participate to the **"mintage"** process which means that they get a chance to select layer two nodes which further validates block and be rewarded for adding blocks to [blockchain](https://www.geeksforgeeks.org/blockchain-technology-introduction/). DPos system is maintained by an election system for choosing nodes which verify blocks. These nodes are called **"witnesses"** or **"block producers"**.
 
 ### Advantages
 

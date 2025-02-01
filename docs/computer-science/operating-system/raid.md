@@ -124,7 +124,7 @@ https://www.storagetutorials.com/understanding-concept-striping-mirroring-parity
 
 ### Just a Bunch Of Disks
 
-JBOD (stands for “Just a Bunch Of Disks”) is referred as the collection of hard disks with one single storage enclosure that are not configured to acts as [Redundant Array of Independent Disks (RAID array)](https://www.geeksforgeeks.org/raid-redundant-arrays-of-independent-disks/). The multiple disks in array are connected to a single server that provides higher storage capacity.
+JBOD (stands for "Just a Bunch Of Disks") is referred as the collection of hard disks with one single storage enclosure that are not configured to acts as [Redundant Array of Independent Disks (RAID array)](https://www.geeksforgeeks.org/raid-redundant-arrays-of-independent-disks/). The multiple disks in array are connected to a single server that provides higher storage capacity.
 
 JBODs make the disk appear to be single one by combining all the disks. Like in RAID system the data is stored redundantly in multiple disks which appear as single disk in operating system.
 

@@ -12,7 +12,7 @@ When building machine learning systems, practitioners are mainly keen on trackin
 
 ### Challenges in machine learning systems
 
-It is not as simple as saying, “we have two additional dimensions” to consider when building a machine learning system. Code and configuration introduce more complexity and sensitivity into a machine learning system due to the following challenges:
+It is not as simple as saying, "we have two additional dimensions" to consider when building a machine learning system. Code and configuration introduce more complexity and sensitivity into a machine learning system due to the following challenges:
 
 #### Entanglements
 
@@ -28,7 +28,7 @@ These factors combine to make monitoring machine learning systems extremely diff
 
 Often, having multiple stakeholders on a project may be extremely beneficial. Each stakeholder can provide insight into requirements and constraints based on their expertise, enabling the team to reduce and uncover risks on the project.
 
-However, each stakeholder may have a completely different understanding of the meaning of “monitoring” based on business areas and responsibilities. An example distinction could be made between data scientists and engineers.
+However, each stakeholder may have a completely different understanding of the meaning of "monitoring" based on business areas and responsibilities. An example distinction could be made between data scientists and engineers.
 
 ### A data scientist’s perspective
 

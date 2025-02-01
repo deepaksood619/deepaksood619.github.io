@@ -114,7 +114,7 @@ Passion comes after you put in the hard work to become excellent at something va
 
 BAD DAYS don't undo THE PROGRESS YOU'VE MADE. Remember, PROGRESS ISN'T JUST ABOUT THE HIGHS, IT'S ALSO ABOUT HOW YOU NAVIGATE through the lows.
 
-“Successful people aren’t doing what they love because they’re rich. They’re rich because they’ve learned to do what they love, and only what they love. Too many entrepreneurs get this backward." - Dan Martell
+"Successful people aren’t doing what they love because they’re rich. They’re rich because they’ve learned to do what they love, and only what they love. Too many entrepreneurs get this backward." - Dan Martell
 
 ## Others
 

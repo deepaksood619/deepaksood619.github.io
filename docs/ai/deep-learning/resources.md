@@ -7,7 +7,7 @@
 - https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction
 - https://www.freecodecamp.org/news/deep-learning-crash-course-learn-the-key-concepts-and-terms
 - https://deepai.org
-- [A “weird” introduction to Deep Learning | by Favio Vázquez | Towards Data Science](https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0)
+- [A "weird" introduction to Deep Learning | by Favio Vázquez | Towards Data Science](https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0)
 - https://towardsdatascience.com/top-3-free-deep-learning-courses-in-2020-f2cd1c1b0f48
 - [Deep Learning Tutorial: Perceptrons to Machine Learning Algorithms | Toptal®](https://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
 - [Deep Learning Fundamentals Handbook - What You Need to Know to Start Your Career in AI](https://www.freecodecamp.org/news/deep-learning-fundamentals-handbook-start-a-career-in-ai/)

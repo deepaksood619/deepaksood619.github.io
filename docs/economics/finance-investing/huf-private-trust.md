@@ -2,7 +2,7 @@
 
 ## HUF
 
-**HUF stands for** Hindu Undivided family & governed by Hindu law board. The expression “Hindu Undivided Family” has not defined under the Income Tax Act or in any other statute. HUF could be formed by a married couple or by members of a joint family. To form a HUF minimum two members are required & at least one among whom should be a male member of the family. Senior most male member of the family would become ‘Karta’.
+**HUF stands for** Hindu Undivided family & governed by Hindu law board. The expression "Hindu Undivided Family" has not defined under the Income Tax Act or in any other statute. HUF could be formed by a married couple or by members of a joint family. To form a HUF minimum two members are required & at least one among whom should be a male member of the family. Senior most male member of the family would become ‘Karta’.
 
 ### Key Benefits of HUF
 

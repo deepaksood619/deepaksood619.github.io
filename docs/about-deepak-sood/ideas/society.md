@@ -8,7 +8,7 @@
 
 https://www.scientificamerican.com/article/a-630-billion-word-internet-analysis-shows-people-is-interpreted-as-men
 
-The son is rushed to the ER. The attending surgeon looks at the boy and says, 'I can't operate on this boy. He's my son! ' How can this be?”
+The son is rushed to the ER. The attending surgeon looks at the boy and says, 'I can't operate on this boy. He's my son! ' How can this be?"
 
 Fifty years after the riddle first received public attention, one likely answer proves elusive: the surgeon is the boy's mother.
 

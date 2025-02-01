@@ -63,7 +63,7 @@ GPT generative models are trained with a large portion of the internet, so their
 
 ChatGPT and other LLMs rely on input text being broken into pieces. Each piece is about a word-sized sequence of characters or smaller. We call those sub-word tokens. That process is called _tokenization_ and is done using a _tokenizer_.
 
-**Tokens** can be words or just chunks of characters. For example, the word “hamburger” gets broken up into the tokens “ham”, “bur” and “ger”, while a short and common word like “pear” is a single token. Many tokens start with whitespace, for example, “ hello” and “ bye”.
+**Tokens** can be words or just chunks of characters. For example, the word "hamburger" gets broken up into the tokens "ham", "bur" and "ger", while a short and common word like "pear" is a single token. Many tokens start with whitespace, for example, " hello" and " bye".
 
 The models understand the statistical relationships between these tokens and excel at producing the next token in a sequence of tokens.
 
@@ -205,9 +205,9 @@ With **transfer learning**, given that the pre-trained models can generate basic
 
 ## What's the difference between _Global_ and _Local Attention_ in LLMs?
 
-Consider the example sentence “_Where is Wally_” which should be translated to its Italian counterpart “_Dove è Wally_”. In the transformer architecture, the **_encoder_** processes the input word by word, producing three different **_hidden states_**.
+Consider the example sentence "_Where is Wally_" which should be translated to its Italian counterpart "_Dove è Wally_". In the transformer architecture, the **_encoder_** processes the input word by word, producing three different **_hidden states_**.
 
-Then, the **attention layer** produces a single fixed-size **_context vector_** from all the encoder hidden states (often with a weighted sum) and it represents the “_attention_” that must be given to that context when processing such input word. Here is when **_global_** and **_local_** attention comes into play.
+Then, the **attention layer** produces a single fixed-size **_context vector_** from all the encoder hidden states (often with a weighted sum) and it represents the "_attention_" that must be given to that context when processing such input word. Here is when **_global_** and **_local_** attention comes into play.
 
 **Global attention** considers _all the hidden_ states in creating the **_context vector_**. When is applied, a lot of computation occurs. This is because all the hidden states must be taken into consideration, concatenated into a matrix, and processed by a **NN** to compute their weights.
 
@@ -325,7 +325,7 @@ It is always a number between 0 and 1. A temperature of 0 means the responses wi
 
 Under the hood, large language models try to predict the next best word given a prompt. One word at a time. They assign a probability to each word in their vocabulary, and then picks a word among those.
 
-A temperature of 0 means roughly that the model will always select the highest probability word. A higher temperature means that the model might select a word with slightly lower probability, leading to more variation, randomness and creativity. A very high temperature therefore increases the risk of “hallucination”, meaning that the AI starts selecting words that will make no sense or be offtopic.
+A temperature of 0 means roughly that the model will always select the highest probability word. A higher temperature means that the model might select a word with slightly lower probability, leading to more variation, randomness and creativity. A very high temperature therefore increases the risk of "hallucination", meaning that the AI starts selecting words that will make no sense or be offtopic.
 
 Since all characters count, the ratio of words to tokens is language dependent.
 

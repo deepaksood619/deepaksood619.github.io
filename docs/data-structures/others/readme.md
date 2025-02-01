@@ -8,8 +8,8 @@
 ### Eight Key Data Structures That Power Modern Databases
 
 - **Skiplist:** a common in-memory index type. Used in Redis
-- **Hash index:** a very common implementation of the “Map” data structure (or “Collection”)
-- **SSTable:** immutable on-disk “Map” implementation
+- **Hash index:** a very common implementation of the "Map" data structure (or "Collection")
+- **SSTable:** immutable on-disk "Map" implementation
 - **LSM tree:** Skiplist + SSTable. High write throughput
 - **B-tree:** disk-based solution. Consistent read/write performance
 - **Inverted index:** used for document indexing. Used in Lucene

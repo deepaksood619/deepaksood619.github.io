@@ -96,7 +96,7 @@ Container here refers to any Web Application, mobile application, serverless fun
 
 Next we can zoom in and decompose each container further to identify the major structural building blocks and their interactions.
 
-The Component diagram shows how a container is made up of a number of “components”, what each of those components are, their responsibilities, and the technology/implementation details.
+The Component diagram shows how a container is made up of a number of "components", what each of those components are, their responsibilities, and the technology/implementation details.
 
 ![image](https://miro.medium.com/v2/resize:fit:1400/0*bFxAyIzdsGVRuMsd.png)
 

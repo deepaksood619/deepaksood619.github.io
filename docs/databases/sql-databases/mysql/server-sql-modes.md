@@ -28,7 +28,7 @@ When replicating partitioned tables, differing SQL modes on the source and repli
 
 - [`TRADITIONAL`](https://dev.mysql.com/doc/refman/8.4/en/sql-mode.html#sqlmode_traditional)
 
-    Make MySQL behave like a “traditional” SQL database system. A simple description of this mode is “give an error instead of a warning” when inserting an incorrect value into a column. It is one of the special [combination modes](https://dev.mysql.com/doc/refman/8.4/en/sql-mode.html#sql-mode-combo "Combination SQL Modes") listed at the end of this section.
+    Make MySQL behave like a "traditional" SQL database system. A simple description of this mode is "give an error instead of a warning" when inserting an incorrect value into a column. It is one of the special [combination modes](https://dev.mysql.com/doc/refman/8.4/en/sql-mode.html#sql-mode-combo "Combination SQL Modes") listed at the end of this section.
 
 - [`ALLOW_INVALID_DATES`](https://dev.mysql.com/doc/refman/8.4/en/sql-mode.html#sqlmode_allow_invalid_dates)
 - [`ANSI_QUOTES`](https://dev.mysql.com/doc/refman/8.4/en/sql-mode.html#sqlmode_ansi_quotes)

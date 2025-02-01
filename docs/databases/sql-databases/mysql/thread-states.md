@@ -42,7 +42,7 @@ The following list describes thread `State` values that are associated with ge
 
     The thread is processing an [`ALTER TABLE`](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html "15.1.9 ALTER TABLE Statement") statement. This state occurs after the table with the new structure has been created but before rows are copied into it.
 
-    For a thread in this state, the Performance Schema can be used to obtain about the progress of the copy operation. See [Section 29.12.5, “Performance Schema Stage Event Tables”](https://dev.mysql.com/doc/refman/8.0/en/performance-schema-stage-tables.html "29.12.5 Performance Schema Stage Event Tables").
+    For a thread in this state, the Performance Schema can be used to obtain about the progress of the copy operation. See [Section 29.12.5, "Performance Schema Stage Event Tables"](https://dev.mysql.com/doc/refman/8.0/en/performance-schema-stage-tables.html "29.12.5 Performance Schema Stage Event Tables").
 
 - `Copying to group table`
 
@@ -54,7 +54,7 @@ The following list describes thread `State` values that are associated with ge
 
 - `Copying to tmp table on disk`
 
-    The server is copying to a temporary table on disk. The temporary result set has become too large (see [Section 10.4.4, “Internal Temporary Table Use in MySQL”](https://dev.mysql.com/doc/refman/8.0/en/internal-temporary-tables.html "10.4.4 Internal Temporary Table Use in MySQL")). Consequently, the thread is changing the temporary table from in-memory to disk-based format to save memory.
+    The server is copying to a temporary table on disk. The temporary result set has become too large (see [Section 10.4.4, "Internal Temporary Table Use in MySQL"](https://dev.mysql.com/doc/refman/8.0/en/internal-temporary-tables.html "10.4.4 Internal Temporary Table Use in MySQL")). Consequently, the thread is changing the temporary table from in-memory to disk-based format to save memory.
 
 - `Creating index`
 

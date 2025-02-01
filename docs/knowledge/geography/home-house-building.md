@@ -13,7 +13,11 @@ https://www.youtube.com/watch?v=dy81ldYQdgY
 - Coohome
 - Sweet home
 
+## Architectures
+
 ![image](../../media/Personality-Life-Lessons-Buying-Guide-Travelling-Shopping-image1.jpg)
+
+[Blg Kano \| Facebook](https://www.facebook.com/share/1DJPNFky8X/)
 
 ![building cost](../../media/Screenshot%202025-01-16%20at%2012.41.08%20AM.jpg)
 

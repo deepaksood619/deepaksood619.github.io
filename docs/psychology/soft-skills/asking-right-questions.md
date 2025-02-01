@@ -42,7 +42,7 @@ Ask follow-up questions in order to get deeper information and clarify that ever
 
 ## Questioning Techniques That Build a Deeper Understanding
 
-## The 5 Whys
+### The 5 Whys
 
 This method helps you get a deeper understanding of the root causes and underlying beliefs and motivations of people. It's at the heart of a proper design thinking process. Sakichi Toyoda, one of the fathers of the Japanese industrial revolution, developed the technique in the 1930s. Here's how to apply it:
 
@@ -54,7 +54,9 @@ This method helps you get a deeper understanding of the root causes and underlyi
 
 By question five, [product designers](https://www.toptal.com/designers/product-design) most likely got closer to the root of the problem and shed light on new approaches to consider that weren't necessarily the original, "assumed" problem.
 
-## Who, What, Where, When, Why, and How
+[Five whys - Wikipedia](https://en.wikipedia.org/wiki/Five_whys)
+
+### Who, What, Where, When, Why, and How
 
 This is another framework that can be used in order to analyze and get a deeper understanding of the situation and context. Whenever you face a problem, asking these questions will help you get a clear view of the current situation, map critical pain points, and come up with possible ways of taking concrete action that will solve the problem:
 
@@ -64,6 +66,8 @@ This is another framework that can be used in order to analyze and get a deeper 
 - **When** does this occur? Past, present, future, situational context (when I'm in a rush), frequency...
 - **Why** does this happen? Causes, constraints, needs, motivations...
 - **How** is the situation created? Processes, metrics, results...
+
+[Five Ws - Wikipedia](https://en.wikipedia.org/wiki/Five_Ws)
 
 ## Questioning Techniques That Can Trigger the Imagination
 

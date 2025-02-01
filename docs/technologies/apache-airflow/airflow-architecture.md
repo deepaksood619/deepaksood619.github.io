@@ -56,9 +56,9 @@ Step 6. Repeat Steps 1-5
 
     How often (in seconds) should the scheduler check for orphaned tasks or dead SchedulerJobs.
 
-    This setting controls how a dead scheduler will be noticed and the tasks it was “supervising” get picked up by another scheduler. The tasks will stay running, so there is no harm in not detecting this for a while.
+    This setting controls how a dead scheduler will be noticed and the tasks it was "supervising" get picked up by another scheduler. The tasks will stay running, so there is no harm in not detecting this for a while.
 
-    When a SchedulerJob is detected as “dead” (as determined by [scheduler_health_check_threshold](https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html#config-scheduler-scheduler-health-check-threshold)) any running or queued tasks that were launched by the dead process will be “adopted” and monitored by this scheduler instead.
+    When a SchedulerJob is detected as "dead" (as determined by [scheduler_health_check_threshold](https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html#config-scheduler-scheduler-health-check-threshold)) any running or queued tasks that were launched by the dead process will be "adopted" and monitored by this scheduler instead.
 
 - [dag_dir_list_interval](https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html#config-scheduler-dag-dir-list-interval) How often (in seconds) to scan the DAGs directory for new files.
 
@@ -74,7 +74,7 @@ Step 6. Repeat Steps 1-5
 
 - [scheduler_idle_sleep_time](https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html#config-scheduler-scheduler-idle-sleep-time) Controls how long the scheduler will sleep between loops, but if there was nothing to do in the loop. i.e. if it scheduled something then it will start the next loop iteration straight away. This parameter is badly named (historical reasons) and it will be renamed in the future with deprecation of the current name.
 
-- [schedule_after_task_execution](https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html#config-scheduler-schedule-after-task-execution) Should the Task supervisor process perform a “mini scheduler” to attempt to schedule more tasks of the same DAG. Leaving this on will mean tasks in the same DAG execute quicker, but might starve out other DAGs in some circumstances.
+- [schedule_after_task_execution](https://airflow.apache.org/docs/apache-airflow/stable/configurations-ref.html#config-scheduler-schedule-after-task-execution) Should the Task supervisor process perform a "mini scheduler" to attempt to schedule more tasks of the same DAG. Leaving this on will mean tasks in the same DAG execute quicker, but might starve out other DAGs in some circumstances.
 
 https://medium.com/@dustinstansbury/how-quizlet-uses-apache-airflow-in-practice-a903cbb5626d
 

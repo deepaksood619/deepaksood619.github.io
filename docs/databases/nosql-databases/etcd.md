@@ -34,7 +34,7 @@ Split brain scenarios occur when a group of nodes in a distributed system loses 
 
 etcd is designed to avoid split-brain scenarios, as it relies on a leader election mechanism to ensure that only one node is active and in control of the cluster at any given time.
 
-The official documentation says, there is no “split-brain” in etcd. Here is why.
+The official documentation says, there is no "split-brain" in etcd. Here is why.
 
 - A network partition divides the etcd cluster into two parts; one with a member majority and the other with a member minority.
 - The majority side becomes the available cluster and the minority side is unavailable

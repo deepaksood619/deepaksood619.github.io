@@ -8,7 +8,7 @@ Use Multi-AZ deployments for High Availability/Failover and Read Replicas for re
 
 In Amazon RDS, [Multi-AZ](https://aws.amazon.com/rds/features/multi-az/) and read replicas are two different types of instances. The standby instance created for Multi-AZ deployment is not accessible and is only used for high availability. On the other hand, in [Amazon Aurora](https://aws.amazon.com/rds/aurora/), the Multi-AZ standby is just another read replica that is accessible. So for [high availability of an Aurora cluster](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Concepts.AuroraHighAvailability.html), one read replica is required even if it’s unused.
 
-**Confusion -** Well, Multi-AZ and Read Replica both have another database instance sitting in a separate AZ and in some sense, the Read Replicas seem to be “multi-AZ” because of that. This may be confusing to some, as it appears that both designs functions the same way. Well, actually that is not the case.
+**Confusion -** Well, Multi-AZ and Read Replica both have another database instance sitting in a separate AZ and in some sense, the Read Replicas seem to be "multi-AZ" because of that. This may be confusing to some, as it appears that both designs functions the same way. Well, actually that is not the case.
 
 [AWS — Difference between Multi-AZ and Read Replicas in Amazon RDS | by Ashish Patel | Awesome Cloud | Medium](https://medium.com/awesome-cloud/aws-difference-between-multi-az-and-read-replicas-in-amazon-rds-60fe848ef53a)
 

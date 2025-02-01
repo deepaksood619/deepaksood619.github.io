@@ -22,7 +22,7 @@ The consumer is the receiver of the message in Kafka
 - If the consumer stops sending heartbeats for long enough, its session will time out and the group coordinator will consider it dead and trigger a rebalance. If a consumer crashed and stopped processing messages, it will take the group coordinator a few seconds without heartbeats to decide it is dead and trigger the rebalance. During those seconds, no messages will be processed from the partitions owned by the dead consumer. When closing a consumer cleanly, the consumer will notify the group coordinator that it is leaving, and the group coordinator will trigger a rebalance immediately, reducing the gap in processing.
 - Please ensure that your Kafka consumer configuration has adequate session timeout and heartbeat interval settings. The session timeout should be long enough to accommodate the longest time it might take to process a message, and the heartbeat interval should be frequent enough to let the coordinator know the consumer is still alive.
 
-[Resolving the “The coordinator is not aware of this member” Error in Kafka Consumers | by Joao Furtado | Mercafacil | Medium](https://medium.com/mercafacil/resolving-the-the-coordinator-is-not-aware-of-this-member-error-in-kafka-consumers-c1694d46b7a5)
+[Resolving the "The coordinator is not aware of this member" Error in Kafka Consumers | by Joao Furtado | Mercafacil | Medium](https://medium.com/mercafacil/resolving-the-the-coordinator-is-not-aware-of-this-member-error-in-kafka-consumers-c1694d46b7a5)
 
 ### How Does the Process of Assigning Partitions to Brokers Work?
 

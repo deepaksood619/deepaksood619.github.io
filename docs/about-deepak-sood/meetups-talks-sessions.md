@@ -1,5 +1,47 @@
 # Meetups / Talks / Sessions
 
+### Fuel Your Weekend with AI - Call for Speakers - ML Weekend (15 Feb 2024)
+
+TFUG Ghaziabad and PyDelhi invites tech enthusiasts, innovators, and experts to share their insights at ML Weekend.  Be part of this transformative event, showcasing groundbreaking ideas and advancements in Machine Learning and its impact on industries.
+
+If you have a compelling story, innovation, or expertise in ML, submit your talk proposal now and inspire the next wave of innovation.
+
+Tentative Dates are 15,16 Feb
+
+Let’s shape the future, together!
+
+#### Topics
+
+- **AutoML: Making ML Accessible for Everyone**
+	- What is AutoML and how it simplifies ML
+	- Use cases and success stories
+	- Hands-on demo using Vertex AI AutoML
+- **MLOps on Google Cloud: CI/CD for Machine Learning**
+	- MLOps best practices with Vertex AI
+	- Model monitoring, versioning, and CI/CD pipelines
+	- Case study on real-world deployments
+- **GenAI at Scale: Building Large Language Models with Google AI**
+	- Google’s Generative AI offerings (Gemini, Vertex AI, etc.)
+	- Fine-tuning vs. Prompt Engineering for LLMs
+	- Scaling GenAI applications on Google Cloud
+
+#### Industry-Specific Topics
+
+1. **"ML for Fintech: Fraud Detection and Risk Analysis with Vertex AI"**
+    - Real-time fraud detection using ML models
+    - Risk assessment using predictive analytics
+    - Implementing these solutions on Google Cloud
+2. **"AI for Healthcare: Deploying Medical ML Models on Google Cloud"**
+    - Medical imaging and diagnosis with ML
+    - Regulatory compliance and cloud security
+    - Case studies on Google AI in healthcare
+3. **"Retail AI: Personalization and Demand Forecasting with Google AI"**
+    - Leveraging AI for hyper-personalized shopping experiences
+    - Demand forecasting using Time Series models
+    - Running ML pipelines on Vertex AI
+
+https://www.commudle.com/fill-form/3152
+
 ### AI use cases for Dummies
 
 - Use Cases

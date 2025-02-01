@@ -33,9 +33,9 @@ While mutual funds are categorized by the type of stocks they invest in (like la
 
 This means fund managers can bet on both winners and losers.
 
-For example, if they believe pharma stocks will rise, they will “go long” by buying them.
+For example, if they believe pharma stocks will rise, they will "go long" by buying them.
 
-On the other hand, if they think railway stocks will drop, they will “short” them—essentially betting on their decline.
+On the other hand, if they think railway stocks will drop, they will "short" them—essentially betting on their decline.
 
 This way, the fund can potentially earn returns whether the market is climbing or falling.
 

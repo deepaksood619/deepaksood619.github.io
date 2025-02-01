@@ -84,7 +84,7 @@ In order to build a **site optimized for organic search engine rankings,** it is
 
 ## Latent Semantic Indexing (LSI)
 
-LSI (latent semantic indexing) keywords are words or phrases that are conceptually related to a target keyword. So if you wanted your page to rank for “credit cards,” then LSI keywords would be “money,” “credit score,” and “interest rate.”
+LSI (latent semantic indexing) keywords are words or phrases that are conceptually related to a target keyword. So if you wanted your page to rank for "credit cards," then LSI keywords would be "money," "credit score," and "interest rate."
 
 Latent semantic analysis (LSA) is a mathematical method for finding conceptually related words in textual data. In other words, it’s how you find LSI keywords.
 

@@ -8,7 +8,7 @@ Kafka Security has three components:
 
 ### Encryption of data in-flight using SSL / TLS
 
-This allows your data to be encrypted between your producers and Kafka and your consumers and Kafka. This is a very common pattern everyone has used when going on the web. That’s the “S” of HTTPS (that beautiful green lock you see everywhere on the web).
+This allows your data to be encrypted between your producers and Kafka and your consumers and Kafka. This is a very common pattern everyone has used when going on the web. That’s the "S" of HTTPS (that beautiful green lock you see everywhere on the web).
 
 ### Authentication using SSL or SASL
 

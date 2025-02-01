@@ -28,13 +28,13 @@ Availability = MTBF + MTTR
 
 For high-availability systems, the goal is to maximize MTBF (less frequent failures) and minimize MTTR (fast recovery from failures). These metrics help teams make informed decisions to improve system reliability and availability.
 
-As shown in the diagram below, calculated availability is often discussed in terms of “nines”. Achieving “3 nines” availability allows only 1.44 minutes of downtime per day - challenging for manual troubleshooting. “4 nines” allows only 8.6 seconds of downtime daily, requiring automatic monitoring, alerts, and troubleshooting. This adds requirements like automatic failure detection and rollback planning in system designs.
+As shown in the diagram below, calculated availability is often discussed in terms of "nines". Achieving "3 nines" availability allows only 1.44 minutes of downtime per day - challenging for manual troubleshooting. "4 nines" allows only 8.6 seconds of downtime daily, requiring automatic monitoring, alerts, and troubleshooting. This adds requirements like automatic failure detection and rollback planning in system designs.
 
 ![image](https://ci3.googleusercontent.com/meips/ADKq_NakHbrmtUvvMKeXuADDa2P7T8x_FcqW5z4GKSixy7nAf7Q8PoCWqODzXw8YDAMBMkuqYZWBzbhKNCAC2RDHbEIVl71pSIp6DXKHWeu2fpXR89qjdLQerWT9IbjVg5nUoWi478Of_Wk8JB7co6bGnKuSRObDhtke2YNDjX1G6hVxyW09N9msn4wBC3uuY1tK-1P7iWzxlQXDP8oI1lLgPwjKPMYfX2PzedThJVkJ-pDZRlvqpumopRJw-ogzjQml0Lzj-Ys9Wd_Ij_Sl6Rz-t04wTHScfL-Qf7SPcwZMWQhivdAxmCqNpQ4LXA=s0-d-e1-ft#https://substackcdn.com/image/fetch/w_1424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63d5256e-b7c0-4b70-b966-d882e6b776d3_1600x959.png)
 
 ## Typical Architectures
 
-To achieve “4 nines” availability and beyond, we must consider:
+To achieve "4 nines" availability and beyond, we must consider:
 
 1. System designs - designing for failure using:
     1. Redundancy

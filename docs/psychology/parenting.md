@@ -1,6 +1,6 @@
 # Parenting / children
 
-- Use adjectives - Teddy’s fur is soft,” “The radio is quiet,” “The tree outside is big
+- Use adjectives - Teddy’s fur is soft," "The radio is quiet," "The tree outside is big
 - Open cup drinking
 - **Homeschooling / Home School / Homeschool**
     - Khan academy
@@ -93,11 +93,11 @@ Attachment theory
 
 ## Aggression - When a Child Hurts Other Children
 
-- **Establish a firm rule:** “Don’t hit. Hitting hurts, and we do not hurt people.”
+- **Establish a firm rule:** "Don’t hit. Hitting hurts, and we do not hurt people."
 - **For aggressive behavior, give your child a brief time-out in a boring place.** Assign one minute of time-out for every year of the child’s age, to a maximum of five minutes. Time-out helps a child learn to cool down rather than blow up when he is angry. If it looks as if your child might hurt someone, intervene immediately. Stop the behavior at the early threatening or shoving stage. Do not wait until the victim screams or is hurt. If a time-out does not seem to be effective, take away your child’s favorite toy or TV time for the rest of the day.
-- **Give special attention to the victim.** After putting your child in time-out, pick up the child who has been injured and give him extra sympathy and attention. It is especially helpful if you can rescue the victim before he is hurt. From the “perpetrator’s” viewpoint, the attention he wanted is now being given to the other child, and that should give him some “food for thought.” If fighting among your child and certain playmates or siblings is a pattern, make sure the “victim” isn’t setting up the “perpetrator” in order to gain attention.
+- **Give special attention to the victim.** After putting your child in time-out, pick up the child who has been injured and give him extra sympathy and attention. It is especially helpful if you can rescue the victim before he is hurt. From the "perpetrator’s" viewpoint, the attention he wanted is now being given to the other child, and that should give him some "food for thought." If fighting among your child and certain playmates or siblings is a pattern, make sure the "victim" isn’t setting up the "perpetrator" in order to gain attention.
 - **Suggest acceptable ways to express anger.** Encourage her to come to you when she’s angry and talk about it until she feels better. A second option is to teach your child to stop and count to ten before doing anything about her anger. A third option is to help her learn to walk away from a bad situation. Giving a time-out is one way of helping her walk away from anger.
-- **Verbalize your child’s feelings for him.** If he can’t talk about his anger, put it into words for him: “I know that you feel angry.” It is unrealistic to expect your child not to feel anger. You may need to make an understanding statement such as, “You wish you could punch your brother, but we cannot hurt other people.”
+- **Verbalize your child’s feelings for him.** If he can’t talk about his anger, put it into words for him: "I know that you feel angry." It is unrealistic to expect your child not to feel anger. You may need to make an understanding statement such as, "You wish you could punch your brother, but we cannot hurt other people."
 - **Teach your child acceptable ways to get what she wants.** Teach her how to ask or negotiate for what she wants rather than talking about it. Teach her how to take turns and how to trade one of her toys for the use of another child’s toy.
 - **Never hit your child for hitting someone else.** Hitting your child only teaches him that it is fine to hit if you are bigger. If your child tends to be aggressive, it is critical to eliminate all physical punishment, such as spanking. You can use many other consequences to help teach your child right from wrong
 - **Praise your child for friendly behavior**

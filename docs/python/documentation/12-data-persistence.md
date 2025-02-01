@@ -68,4 +68,4 @@ This method commits the current transaction. If you don't call this method, anyt
 
 https://docs.python.org/3/library/sqlite3.html
 
-[SQLite and its weird new fork “libSQL” - YouTube](https://www.youtube.com/watch?v=PGpL5hYpY1o)
+[SQLite and its weird new fork "libSQL" - YouTube](https://www.youtube.com/watch?v=PGpL5hYpY1o)

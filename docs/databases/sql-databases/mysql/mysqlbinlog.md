@@ -1,6 +1,6 @@
 # mysqlbinlog
 
-The server's binary log consists of files containing “events” that describe modifications to database contents. The server writes these files in binary format. To display their contents in text format, use the [**mysqlbinlog**](https://dev.mysql.com/doc/refman/8.4/en/mysqlbinlog.html "6.6.9 mysqlbinlog — Utility for Processing Binary Log Files") utility. You can also use [**mysqlbinlog**](https://dev.mysql.com/doc/refman/8.4/en/mysqlbinlog.html "6.6.9 mysqlbinlog — Utility for Processing Binary Log Files") to display the contents of relay log files written by a replica server in a replication setup because relay logs have the same format as binary logs.
+The server's binary log consists of files containing "events" that describe modifications to database contents. The server writes these files in binary format. To display their contents in text format, use the [**mysqlbinlog**](https://dev.mysql.com/doc/refman/8.4/en/mysqlbinlog.html "6.6.9 mysqlbinlog — Utility for Processing Binary Log Files") utility. You can also use [**mysqlbinlog**](https://dev.mysql.com/doc/refman/8.4/en/mysqlbinlog.html "6.6.9 mysqlbinlog — Utility for Processing Binary Log Files") to display the contents of relay log files written by a replica server in a replication setup because relay logs have the same format as binary logs.
 
 [6.6.9 mysqlbinlog — Utility for Processing Binary Log Files](https://dev.mysql.com/doc/refman/8.4/en/mysqlbinlog.html)
 

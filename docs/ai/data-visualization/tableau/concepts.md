@@ -34,7 +34,7 @@ Analysis > Create Calculated Field
 
 A parameter is a workbook variable such as a number, date, or string that can replace a constant value in a calculation, filter, or reference line.
 
-For example, you may create a calculated field that returns True if Sales is greater than $500,000 and otherwise returns False. You can replace the constant value of “500000” in the formula with a parameter. Then, using the parameter control, you can dynamically change the threshold in your calculation.
+For example, you may create a calculated field that returns True if Sales is greater than $500,000 and otherwise returns False. You can replace the constant value of "500000" in the formula with a parameter. Then, using the parameter control, you can dynamically change the threshold in your calculation.
 
 You can even create a _dynamic_ parameter that’s set to automatically refresh its current value (to the result of a single-value, view-independent calculation), list of values (based on a data source column), or range of values. This will happen each time the workbook is opened and Tableau connects to the data source referenced by the parameter, or whenever you select Refresh from the data source’s context menu..
 

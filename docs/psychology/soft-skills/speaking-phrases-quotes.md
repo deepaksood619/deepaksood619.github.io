@@ -12,7 +12,7 @@ You should know that when a message you convey to another person is not understo
 
 Whoever you meet, speak to them like it is the last time you may have that opportunity. It will transform your life -- Sadhguru
 
-Turning action words into identity words (verbs into nouns) is effective because we all strive to uphold positive self-images and avoid labels that make us look bad. One study found that when election campaigns talked about “being a voter,” instead of simply asking people to vote, they increased voter turnout by 15%. Another study found that students who heard, “Don’t be a cheater” cheated half as much as students who received the words, "Don't cheat."
+Turning action words into identity words (verbs into nouns) is effective because we all strive to uphold positive self-images and avoid labels that make us look bad. One study found that when election campaigns talked about "being a voter," instead of simply asking people to vote, they increased voter turnout by 15%. Another study found that students who heard, "Don’t be a cheater" cheated half as much as students who received the words, "Don't cheat."
 
 ## Phrases
 

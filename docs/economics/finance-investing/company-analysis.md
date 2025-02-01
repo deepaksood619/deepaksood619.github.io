@@ -4,7 +4,7 @@
 
 ## Zaggle
 
-Zaggle is a fintech company providing innovative solutions for the day-to-day financial needs of a corporate. We offer digitized solutions for expense management, employee tax benefits, rewards & recognition, employee and channel partner engagement, etc empowering organizations to spend smarter resulting in a happy and satisfied workforce delivering higher productivity and results. We have a plethora of offerings in the form of prepaid cards, digital wallets, and proprietary tech platforms to suit our client requirements. Zaggle has hit some major milestones in its growth journey with a tag of “BEST PREPAID CARD SOLUTION PROVIDER” in India awarded by IAMAI. We have a pan India presence with current operations across 10+ cities.
+Zaggle is a fintech company providing innovative solutions for the day-to-day financial needs of a corporate. We offer digitized solutions for expense management, employee tax benefits, rewards & recognition, employee and channel partner engagement, etc empowering organizations to spend smarter resulting in a happy and satisfied workforce delivering higher productivity and results. We have a plethora of offerings in the form of prepaid cards, digital wallets, and proprietary tech platforms to suit our client requirements. Zaggle has hit some major milestones in its growth journey with a tag of "BEST PREPAID CARD SOLUTION PROVIDER" in India awarded by IAMAI. We have a pan India presence with current operations across 10+ cities.
 
 [Zaggle All The Way - a 10X in 10Y Opportunity 🎁](https://shankarnath.substack.com/p/zaggleprepaid)
 

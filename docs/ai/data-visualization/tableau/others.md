@@ -9,6 +9,10 @@
 
 [Best Practices for Published Data Sources - Tableau](https://help.tableau.com/current/pro/desktop/en-us/publish_datasources_about.htm)
 
+## Alerting
+
+[Send Data-Driven Alerts from Tableau Cloud or Tableau Server - Tableau](https://help.tableau.com/current/pro/desktop/en-us/data_alerts.htm)
+
 ## Updates
 
 - tableau Desktop 2022.3.app

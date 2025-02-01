@@ -132,7 +132,7 @@ The fund will predominantly invest in debt instruments and endeavour to maintain
 
 It is a credible and tax-efficient* alternative to certain fixed income instruments (like bank fixed deposits), offering the scope to earn income along with the prospect of growth in Net Asset Value (NAV) when held for a reasonably long period.
 
-According to the CEO, this fund may be “ideal” for those desiring debt allocation with indexation benefits and those who avoid actively trading in debt securities.
+According to the CEO, this fund may be "ideal" for those desiring debt allocation with indexation benefits and those who avoid actively trading in debt securities.
 
 Taxation - LTCG - If holding is more than 36 months) - Debt Fund (20% with Indexation benefit)
 

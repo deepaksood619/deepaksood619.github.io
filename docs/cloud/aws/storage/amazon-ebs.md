@@ -74,7 +74,7 @@ https://aws.amazon.com/about-aws/whats-new/2020/12/multi-attach-support-now-avai
 
 [Changing RDS storage from gp2 to gp3 | AWS re:Post](https://repost.aws/questions/QUDPKCzJclQbCwOt47lf7lFQ/changing-rds-storage-from-gp2-to-gp3)
 
-- There is no downtime associated but always plan to make modifications at the time when clusters is expected to be least busy. There wouldn't be downtime, you may see “Storage Optimization” status.
+- There is no downtime associated but always plan to make modifications at the time when clusters is expected to be least busy. There wouldn't be downtime, you may see "Storage Optimization" status.
 
 [gp2 to gp3 migration for Amazon RDS | by Rajesh Kantamani | Medium](https://rajeshnoql.medium.com/gp2-to-gp3-migration-for-amazon-rds-cd3af879c4d7)
 

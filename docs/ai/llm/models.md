@@ -22,7 +22,7 @@
 - ChatGPT / OpenAI
     - [GPT-4o - by Bugra Akyildiz - MLOps Newsletter](https://mlops.substack.com/p/gpt-4o?)
     - OpenAI o1 - [OpenAI o1 Hub | OpenAI](https://openai.com/o1/)
-    - [OpenAI’s new “deep-thinking” o1 model crushes coding benchmarks - YouTube](https://www.youtube.com/watch?v=6xlPJiNpCVw)
+    - [OpenAI’s new "deep-thinking" o1 model crushes coding benchmarks - YouTube](https://www.youtube.com/watch?v=6xlPJiNpCVw)
     - [12 Days of OpenAI | OpenAI](https://openai.com/12-days/)
 - Vicuna
 - Bloom

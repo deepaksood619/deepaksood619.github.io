@@ -33,11 +33,11 @@ Gross Transaction Value (GTV) is a calculation of the revenue in relation to com
 
 ### E-commerce
 
-[What is a Warehouse Management System(WMS)? Part 4 \| Medium](https://yanguei.medium.com/what-is-a-warehouse-management-system-wms-part-4-33ccb837364c)
-
-[Warehouse Putaway Process: Types, Ways To Optimize & Benefits](https://www.hopstack.io/blog/everything-you-need-to-know-about-optimizing-the-warehouse-putaway-process)
-
-- Pigeonhole putaway
+- WMS
+	- [What is a Warehouse Management System(WMS)? Part 4 \| Medium](https://yanguei.medium.com/what-is-a-warehouse-management-system-wms-part-4-33ccb837364c)
+	- [Warehouse Putaway Process: Types, Ways To Optimize & Benefits](https://www.hopstack.io/blog/everything-you-need-to-know-about-optimizing-the-warehouse-putaway-process)
+	- Pigeonhole putaway
+- POS Machines - [POS Solutions for Small, Medium & Large Businesses](https://queuebuster.co/)
 
 ## Others
 
