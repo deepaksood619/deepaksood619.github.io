@@ -240,7 +240,7 @@ Highest performance GPU-based instances for deep learning and HPC applications
 - Up to 3,200 Gbps network bandwidth with support for Elastic Fabric Adapter (EFA) and NVIDIA GPUDirect RDMA (remote direct memory access)
 - 900 GB/s peer-to-peer GPU communication with NVIDIA NVSwitch
 
-| Instance          | GPUs   | vCPUs | Instance Memory (TiB) | GPU  <br>Memory | Network Bandwidth | GPU Direct RDMA | GPU Peer to Peer  | Instance Storage (TB) | EBS Bandwidth (Gbps) |
+| Instance          | GPUs   | vCPUs | Instance Memory (TiB) | GPU Memory | Network Bandwidth | GPU Direct RDMA | GPU Peer to Peer  | Instance Storage (TB) | EBS Bandwidth (Gbps) |
 | ----------------- | ------ | ----- | --------------------- | --------------- | ----------------- | --------------- | ----------------- | --------------------- | -------------------- |
 | **p5.48xlarge**   | 8 H100 | 192   | 2                     | 640 GB HBM3     | 3200 Gbps EFAv2   | Yes             | 900 GB/s NVSwitch | 8 x 3.84 NVMe SSD     | 80                   |
 | **p5e.48xlarge**  | 8 H200 | 192   | 2                     | 1128 GB HBM3    | 3200 Gbps EFAv2   | Yes             | 900 GB/s NVSwitch | 8x 3.84 NVMe SSD      | 80                   |

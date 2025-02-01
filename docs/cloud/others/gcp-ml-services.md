@@ -31,6 +31,13 @@
 - Gemini AI consists of pre-built language models.
 - Vertex AI offers a comprehensive set of tools for the entire ML lifecycle, including data preparation, model training, evaluation, deployment, and monitoring.
 
+## Vertex AI Studio
+
+[Introduction to Vertex AI Studio - YouTube](https://www.youtube.com/watch?v=KWarqNq195M&ab_channel=GoogleCloud)
+
+[How to tune LLMs in Generative AI Studio - YouTube](https://www.youtube.com/watch?v=4A4W03qUTsw&t=1s&ab_channel=GoogleCloudTech)
+
+
 ## Links
 
 - [Use Google BigQuery & Gemini AI For Data Analytics - YouTube](https://www.youtube.com/watch?v=qrT4g0hZHns)

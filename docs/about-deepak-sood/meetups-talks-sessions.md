@@ -12,6 +12,10 @@ Let’s shape the future, together!
 
 #### Topics
 
+- **GenAI at Scale: Building Large Language Models with Google AI**
+	- Google’s Generative AI offerings (Gemini, Vertex AI, etc.)
+	- Fine-tuning vs. Prompt Engineering for LLMs
+	- Scaling GenAI applications on Google Cloud
 - **AutoML: Making ML Accessible for Everyone**
 	- What is AutoML and how it simplifies ML
 	- Use cases and success stories
@@ -20,10 +24,6 @@ Let’s shape the future, together!
 	- MLOps best practices with Vertex AI
 	- Model monitoring, versioning, and CI/CD pipelines
 	- Case study on real-world deployments
-- **GenAI at Scale: Building Large Language Models with Google AI**
-	- Google’s Generative AI offerings (Gemini, Vertex AI, etc.)
-	- Fine-tuning vs. Prompt Engineering for LLMs
-	- Scaling GenAI applications on Google Cloud
 
 #### Industry-Specific Topics
 

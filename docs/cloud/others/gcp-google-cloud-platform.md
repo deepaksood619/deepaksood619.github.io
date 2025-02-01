@@ -275,7 +275,6 @@ API management apps built on Google Cloud
 
 ## Cloud AI
 
-- Cloud AutoML
 - Cloud TPU
 - Cloud Machine Learning Engine
 - Cloud Job Discovery
@@ -286,6 +285,10 @@ API management apps built on Google Cloud
 - Cloud Translation API
 - Cloud Vision API
 - Cloud Video Intelligence
+
+### Cloud AutoML
+
+Train high-quality custom machine learning models with minimal effort and machine learning expertise.
 
 ## Data Transfer
 
