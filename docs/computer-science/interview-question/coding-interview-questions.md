@@ -210,21 +210,15 @@ This solution results in a complexity of O(log k).
 - DAG
 - LP Solver
 - Subset sum
-
 - N-Queen Problem
 - Word Ladder Problem
 - Knight's Tour Problem
-
 - Find all subsets of a given set (recursion + dp)
 - Find a sum in a subset
 - Python | Get all substrings of given string
-
 - https://www.geeksforgeeks.org/python-get-all-substrings-of-given-string
-
 - Egg drop - https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11
-
 - Find number of duplets in a positive integer array without using space in O(n) time complexity (save the information in the same array using index)
-
 - Djkstra's algo
 - Sudoku solver
 - Chess solver
@@ -238,9 +232,7 @@ This solution results in a complexity of O(log k).
 - Implementing queue using two stack
 - Implementing stack using two queue
 - Find the subsequence with largest sum of elements in an array
-
-- https://stackoverflow.com/questions/3733251/find-the-subsequence-with-largest-sum-of-elements-in-an-array
-
+	- https://stackoverflow.com/questions/3733251/find-the-subsequence-with-largest-sum-of-elements-in-an-array
 - Maximum product subarray
 - Balanced parenthesis problem
 

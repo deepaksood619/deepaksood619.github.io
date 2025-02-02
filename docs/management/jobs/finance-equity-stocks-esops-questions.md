@@ -31,13 +31,13 @@ https://www.trica.co/equity/blog/evaluating-esops-questions-that-cxos-should-ask
 
 https://superops.ai/startup/esops-101-blog
 
-1. What percent of the company do these shares represent?
+### 1. What percent of the company do these shares represent?
 
 Your percentage of ownership means more than your number of shares
 
 Percentage of the company that the ESOP pool represents
 
-2. What is the my **preference stack**? (What is the total preference) (Classes of preferred shares) (multiples 1.5x?)
+### 2. What is the my **preference stack**? (What is the total preference) (Classes of preferred shares) (multiples 1.5x?)
 
 - **dilution**
 - What was our most recent valuation?
@@ -50,21 +50,21 @@ Percentage of the company that the ESOP pool represents
 - If there had been a 1x liquidation preference in place, the investor would be guaranteed to get $3 million back.
 - The more money a startup raises, the harder it gets to fetch a high enough acquisition price.
 
-3. Preemptive rights - What are preemptive rights and who has them? - Preemptive rights allow common shareholders to maintain their proportional ownership in a company by buying more shares in the event that the company issues another offering. These are sometimes issued to holders of common stocks. Holders of preferred shares typically also have other protections against dilution.
+### 3. Preemptive rights
 
-4. While the first company offers you 1000 options out of 1,00,000, the second offers 500 out of 10,000. You have more skin in the game in the second company but you have to ask the founder why the ESOP pool is so small? Is he or she averse to sharing equity with early team members? When will the ESOP pool be expanded? These questions will help you better understand the founder's vision.
+What are preemptive rights and who has them? - Preemptive rights allow common shareholders to maintain their proportional ownership in a company by buying more shares in the event that the company issues another offering. These are sometimes issued to holders of common stocks. Holders of preferred shares typically also have other protections against dilution.
 
-5. Total money we have raised, and how much it's liquidated the shares?
+### 4. Annexure 1 > point 3
 
-6. Annexure 1 > point 3 > "provided the Participant is in the employment of the Company at such time", what if the employee is no longer employed after some vesting? How will it be handled?
-    - What if you decide to leave the company before all your options have vested? Is there a policy for accelerated vesting in the time of a merger? Can you exercise your ESOPs early? Is there a possibility of a potential buyback in the upcoming years?
-    - **Let's say I own shares at the company I am working for. I decide to leave. What happens to my shares?**
+"provided the Participant is in the employment of the Company at such time", what if the employee is no longer employed after some vesting? How will it be handled?
+- What if you decide to leave the company before all your options have vested? Is there a policy for accelerated vesting in the time of a merger? Can you exercise your ESOPs early? Is there a possibility of a potential buyback in the upcoming years?
+- **Let's say I own shares at the company I am working for. I decide to leave. What happens to my shares?**
 
 Generally, you have 90 days to buy the vested shares. Once you buy them, your shares will remain with you until the company goes IPO, secures a round of funding, or gets acquired. If you don't do so, all your vested share units will lapse. There will be nothing you can do about it.
 
 There's a catch here as well. Just like your favorite jar of peanut butter, your stock units have a shelf life which is usually 10 years from the date of purchase. If you buy the shares but the company doesn't go public, secures the next round of funding, or gets acquired, your purchase options will expire. But most companies that are doing well get approval from the board to push the expiry by another year.
 
-7. Red Flags
+### 5. Red Flags
 
 **A Small ESOP Pool At An Early Stage Startup**
 
@@ -74,21 +74,25 @@ Founders, with a wealth-sharing motive, will always create larger ESOP pools at 
 
 Ensure that a formal grant letter will be issued when you join. If ESOPs are just promised verbally, there might be a possibility that your grants will be delayed or you will face complications while completing the ESOP lifecycle
 
-8. How is Equity Linked Upside different from Stock Options?
-9. What will be the Mode of payment of the Equity Linked Upside?
-10. How will taxes be calculated and when?
-11. In what cases will the unvested grant be accelerated?
-12. What's the minimum price you would exit for?
+### Others
+
+1. While the first company offers you 1000 options out of 1,00,000, the second offers 500 out of 10,000. You have more skin in the game in the second company but you have to ask the founder why the ESOP pool is so small? Is he or she averse to sharing equity with early team members? When will the ESOP pool be expanded? These questions will help you better understand the founder's vision.
+2. Total money we have raised, and how much it's liquidated the shares?
+3. How is Equity Linked Upside different from Stock Options?
+4. What will be the Mode of payment of the Equity Linked Upside?
+5. How will taxes be calculated and when?
+6. In what cases will the unvested grant be accelerated?
+7. What's the minimum price you would exit for?
 
 Gives reference point for valuing your potential payout
 
 **best estimate of the Company's valuation upon an exit?**
 
-1. **Secondaries**
+### 8. Secondaries
 
 At the time of a funding round, the investors will buy a small portion of the vested common shares from founders and early employees. This is done to give them a partial exit and keep them motivated to scale the organization. The recent stories of secondaries in Razorpay, Zerodha, Paytm, and Ola are encouraging signs for employees.
 
-### ESOPs
+## ESOPs
 
 Wealth creation through ESOPs is a major reason why people join startups. But most people struggle to correctly evaluate job offers that also includes ESOPs
 
@@ -99,7 +103,7 @@ For an employee to make meaningful money through ESOPs, 2 things must happen:
 - Growth in company value
 - Employee friendly ESOP policies that ensures employees make money when company grows
 
-#### a) Growth in Company Value
+### a) Growth in Company Value
 
 This is where employees need to think like investors
 
@@ -117,13 +121,13 @@ The second thing to judge is the business model and the likelihood of the busine
 
 Access to data is a challenge, but basic secondary research and asking the right questions and metrics in the interviews should help here
 
-#### b) ESOP Policies
+### b) ESOP Policies
 
 The startup ecosystem is full of stories where employees didn’t make money despite the company growing and having multiple liquidity events.
 
 Here are the things that should matter most while evaluating policies:
 
-##### 1. Vesting Schedule
+#### 1. Vesting Schedule
 
 The standard is 25% vesting after every year. Any schedule which has higher vesting towards the later years is a red flag
 
@@ -131,23 +135,23 @@ Vesting should never be performance linked
 
 If performance is bad, it is management’s responsibility to fire
 
-##### 2. Vesting on Leaving/Startups Exit
+#### 2. Vesting on Leaving/Startups Exit
 
 If you exit, you should retain all options that has vested
 
 If a startup gets acquired before all your options vest, there should be accelerated vesting
 
-##### 3. ESOP Communication
+#### 3. ESOP Communication
 
 There should always be written communication( preferably through ESOP portal)
 
 Verbal communication for ESOPs is a huge red flag
 
-##### 4. Strike Price
+#### 4. Strike Price
 
 Strike Price should be as low as possible( Re 1 ideally). This maximizes the value creation for the employee
 
-##### 5. Holding/Exercise Period
+#### 5. Holding/Exercise Period
 
 Converting options to shares is a major tax liability exercise. With limited exercise period, it becomes impossible for employees to exercise as it means paying up to 40% real taxes on notional capital gains in an asset class that is not liquid
 

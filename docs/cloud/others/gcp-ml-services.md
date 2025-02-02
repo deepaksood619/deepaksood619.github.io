@@ -14,6 +14,8 @@
 
 [Get started with generic search  |  Vertex AI Agent Builder  |  Google Cloud](https://cloud.google.com/generative-ai-app-builder/docs/try-enterprise-search)
 
+[Introduction to tuning  \|  Generative AI on Vertex AI  \|  Google Cloud](https://cloud.google.com/vertex-ai/generative-ai/docs/models/tune-models)
+
 ## Difference between Gemini and Vertex AI
 
 ### Purpose
@@ -37,6 +39,15 @@
 
 [How to tune LLMs in Generative AI Studio - YouTube](https://www.youtube.com/watch?v=4A4W03qUTsw&t=1s&ab_channel=GoogleCloudTech)
 
+[Prototyping language apps with Generative AI Studio - YouTube](https://www.youtube.com/watch?v=9_zwIyutN7o&ab_channel=GoogleCloudTech)
+
+## Vertex AI Agent Builder
+
+Create AI agents and applications using natural language or a code-first approach. Easily ground your agents or apps in enterprise data with a range of options. Vertex AI Agent Builder gathers all the surfaces and tools that developers need to build their AI agents and applications.
+
+[Vertex AI Agent Builder \| Google Cloud](https://cloud.google.com/products/agent-builder?hl=en)
+
+[Prebuilt agents  \|  Dialogflow CX  \|  Google Cloud](https://cloud.google.com/dialogflow/cx/docs/concept/agents-prebuilt#small-talk)
 
 ## Links
 

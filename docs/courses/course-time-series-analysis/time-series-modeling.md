@@ -466,3 +466,5 @@ Business case - A look into the Automobile Industry
 ## Links
 
 [ETC3550/ETC5550 Applied forecasting - ETC3550/5550 Applied forecasting](https://af.numbat.space/)
+
+[How to build forecasting models with Vertex AI - YouTube](https://www.youtube.com/watch?v=5-qjRpjdE5s&ab_channel=GoogleCloudTech)

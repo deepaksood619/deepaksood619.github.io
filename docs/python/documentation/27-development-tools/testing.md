@@ -225,24 +225,26 @@ assert(n>=k)
 assert(n%k==0)
 
 assert sum([1, 2, 3]) == 6, "Should be 6"
+
+assert sum([6087,5523,4910,3465,5646,8351]) == 33982
 ```
 
-| | |
-|--------------------------------|----------------------------|
-| `assertEqual(a,b)` | `a==b` |
-| `assertNotEqual(a,b)` | `a!=b` |
-| `assertTrue(x)` | `bool(x) isTrue` |
-| `assertFalse(x)` | `bool(x) isFalse` |
-| `assertIs(a,b)` | `aisb` |
-| `assertIsNot(a,b)` | `aisnotb` |
-| `assertIsNone(x)` | `xisNone` |
-| `assertIsNotNone(x)` | `xisnotNone` |
-| `assertIn(a,b)` | `ainb` |
-| `assertNotIn(a,b)` | `anotinb` |
-| `assertIsInstance(a,b)` | `isinstance(a,b`) |
-| `assertNotIsInstance(a,b)` | `notisinstance(a,b`) |
-| `assertRaises(ValueError, args)` | |
-| `assertAlmostEqual(1.0, 1.0)` | `Checks to 7 decimal places` |
+|                                  |                              |
+| -------------------------------- | ---------------------------- |
+| `assertEqual(a,b)`               | `a==b`                       |
+| `assertNotEqual(a,b)`            | `a!=b`                       |
+| `assertTrue(x)`                  | `bool(x) isTrue`             |
+| `assertFalse(x)`                 | `bool(x) isFalse`            |
+| `assertIs(a,b)`                  | `aisb`                       |
+| `assertIsNot(a,b)`               | `aisnotb`                    |
+| `assertIsNone(x)`                | `xisNone`                    |
+| `assertIsNotNone(x)`             | `xisnotNone`                 |
+| `assertIn(a,b)`                  | `ainb`                       |
+| `assertNotIn(a,b)`               | `anotinb`                    |
+| `assertIsInstance(a,b)`          | `isinstance(a,b`)            |
+| `assertNotIsInstance(a,b)`       | `notisinstance(a,b`)         |
+| `assertRaises(ValueError, args)` |                              |
+| `assertAlmostEqual(1.0, 1.0)`    | `Checks to 7 decimal places` |
 
 ![image](../../../media/27.-Development-Tools_Testing-image1.jpg)
 

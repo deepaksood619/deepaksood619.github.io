@@ -438,6 +438,23 @@ Also, the dividend income earned on foreign investments is taxed at the pre-defi
 
 [Income Tax Return Filing: Invested in foreign assets and stocks? Follow these steps to declare holding in ITR | Zee Business](https://www.zeebiz.com/personal-finance/income-tax/news-income-tax-return-filings-how-to-file-foreign-assets-and-stocks-in-itr-filing-foreign-stock-investment-tax-declaration-capital-gains-tax-stst-242083)
 
+[Understanding taxation on US stocks in India: A guide for investors](https://www.winvesta.in/blog/understanding-taxation-on-us-stocks-in-india-a-guide-for-investors)
+
+#### Recent changes in tax regulations
+
+Budget 2024 brought significant changes to benefit investors like you:
+
+- Reduced [long-term capital gains tax](https://www.winvesta.in/blog/tax-implications-for-indian-residents-investing-in-us-stock-market) from 20% to 12.5% for holdings over 24 months
+- Removed indexation benefits while maintaining parity with Indian equity taxation
+- Added a 20% Tax Collected at Source (TCS) for annual remittances above Rs. 7 lakh (Changed to 10 lakh in budget 2025)
+
+| Type of Income                | **Tax in the US** | **Tax in India** | **Holding Period** | **Tax Rate in India**                             |
+| ----------------------------- | ----------------- | ---------------- | ------------------ | ------------------------------------------------- |
+| **Short-term capital gains*** | N/A               | Yes              | **`<24` months**     | Taxed at applicable income slab rate              |
+| **Long-Term capital gains***  | N/A               | Yes              | **`>24` months**     | Taxed at 12.5% plus applicable surcharge and cess |
+
+[Tax on US Stocks for Indian Investors: A Complete Guide](https://www.indmoney.com/us-stocks/tax-on-us-stocks-in-india)
+
 #### Dividend for msft stocks
 
 Basically the only issue will come with dividends (this is missed in 26AS and needs to be declared to avoid discrepancy), and while declaring we give a tax for ~31.2% in the portal afaik. However the US laws state that 25% to be deducted for indians earning dividends in US firms. So form 67 needs to be filled in for taking back the extra 25% we paid for the dividends.

@@ -290,6 +290,10 @@ API management apps built on Google Cloud
 
 Train high-quality custom machine learning models with minimal effort and machine learning expertise.
 
+[End-to-end AutoML for model prep - YouTube](https://www.youtube.com/watch?v=jJS3K5-PhGU&ab_channel=GoogleCloud)
+
+[How to build forecasting models with Vertex AI - YouTube](https://www.youtube.com/watch?v=5-qjRpjdE5s&ab_channel=GoogleCloudTech)
+
 ## Data Transfer
 
 - Google Transfer Appliance

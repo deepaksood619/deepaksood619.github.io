@@ -90,6 +90,32 @@ The six main KRAs of Tech Leadership
 4. Malleability
 5. Non-ambiguous Communicator
 
+## Story
+
+At Microsoft, a junior engineer spent 3 days solving a simple caching issue. Her manager knew he could do it in 10 minutes. But he didn't.
+
+Do the math.
+
+Most leaders would have jumped in. Solved it fast. Moved on.
+
+But fast solutions come at a hidden cost: Growth debt.
+
+Every time you step in, you rob your team of the lessons they need to grow.
+
+Over time, that debt compounds.
+
+Engineers stop thinking for themselves.
+The team relies on you to ship.
+Growth slows to a crawl.
+
+The best engineering leaders don’t write the best code.
+
+They code the best culture.
+
+Next time your fingers itch to jump in, ask yourself:
+
+Are you fixing the problem or adding to your **team’s debt?**
+
 ## Links
 
 [https://mfi.engineering/money-forward-i-engineering-2021-43e473dca440](https://mfi.engineering/money-forward-i-engineering-2021-43e473dca440)

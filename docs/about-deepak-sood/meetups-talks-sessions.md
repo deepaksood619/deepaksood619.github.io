@@ -10,6 +10,18 @@ Tentative Dates are 15,16 Feb
 
 Let’s shape the future, together!
 
+#### Automating the Future: Build Powerful AI Agents with Vertex AI
+
+- AI is evolving beyond chatbots into **autonomous AI agents** that can reason, plan, and take action.
+- **Google Vertex AI Studio** provides a seamless way to build, test, and deploy AI agents with **minimal coding**.
+- This session will explore **how to create AI agents** using **Vertex AI Agent Builder**, integrating APIs, tools, and external data sources.
+- **Hands-on Demo**: Step-by-step **live implementation** of an AI agent for a real-world use case.
+- **Key Takeaways:**
+    - Understand **Agentic AI** and how it differs from traditional AI.
+    - Learn how to build **task-oriented, API-connected AI agents** using **Vertex AI Studio**.
+    - Explore real-world **use cases** (customer support, automation, personal assistants).
+    - Discover how to **deploy and integrate** AI agents into apps and workflows.
+
 #### Topics
 
 - **GenAI at Scale: Building Large Language Models with Google AI**
@@ -41,6 +53,10 @@ Let’s shape the future, together!
     - Running ML pipelines on Vertex AI
 
 https://www.commudle.com/fill-form/3152
+
+[Commudle - Connect & Learn With Software Developers](https://www.commudle.com/communities/tensorflow-user-group-ghaziabad)
+
+[ChatGPT - ML Weekend Presentation Ideas](https://chatgpt.com/share/679f334e-ed74-8005-9e10-5893e55b715b)
 
 ### AI use cases for Dummies
 
