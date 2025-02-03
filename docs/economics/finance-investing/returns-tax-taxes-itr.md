@@ -169,6 +169,10 @@ If people have to invest or spend more, they need to earn at least ₹2.5lks/yr?
 
 [Certain Pensions | Zee Business](https://www.zeebiz.com/personal-finance/photo-gallery-income-tax-season-non-taxable-5-types-income-exempt-from-taxation-agriculture-gifts-gratuity-scholarships-pension-300544/certain-pensions-300549)
 
+### New Tax Regime vs Old Tax Regime
+
+![Old vs New Tax Regime](../../media/Pasted%20image%2020250202154540.png)
+
 ## Freelancing / Freelancer / Consulting
 
 - 194J

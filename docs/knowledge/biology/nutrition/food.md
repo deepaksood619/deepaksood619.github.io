@@ -8,6 +8,8 @@ Zero Oil Cooking
 
 [The truth about caffeine: how coffee really affects our bodies | Coffee | The Guardian](https://www.theguardian.com/food/2023/feb/15/the-truth-about-caffeine-how-coffee-really-affects-our-bodies)
 
+**Important controls - Salt, Sugar, Oil**
+
 ## Tips
 
 - Front-loading your eating and eating only while the sun's up are great ways to be healthier
@@ -32,20 +34,14 @@ Recommended Calorie intake - 2800
 
 1. Almonds (Brain)
 2. Eggs (Brain)
-
       - Egg Yolk - Vitamin D
-
-     https://blog.bigbasket.com/2021/06/26/eggs-the-best-superfoods-for-everyone
-
+     - https://blog.bigbasket.com/2021/06/26/eggs-the-best-superfoods-for-everyone
 3. Bananas (Brain)
 4. Walnuts / pistachios / Almonds (Brain)
 5. Broccoli (Brain, boosts cancer-fighting defence system)
 6. Fish/seafood
-
    - Fatty Fish (men who ate fish at least once a month were 43% less likely to have ischemic strokes compared with men who never ate fish like tuna)
-
    - Salmon (Brain)
-
 7. Nimbu pani
 8. Curd
 9. Milk (low-fat or fat-free milk / skim-milk) / ButterMilk / Tea / Coffee
@@ -78,15 +74,17 @@ Recommended Calorie intake - 2800
 ## Bad foods
 
 1. Eggplant (inhibit absorption of calcium)
-2. Red meet (beef/pork)
+2. Red meet (beef/pork) - Stop all non veg
 3. Ice cream, whole milk and cheese (The healthiest milk and milk products are low-fat versions, such as skim milk, milk with 1% fat, and reduced-fat cheeses)
 4. Pastries (cookies, pie, crois- sants, tarts, cake, and Danish)
 5. Doughnuts
-6. Sugar
-7. Salt
+6. **Sugar**
+7. **Salt** - Sodium chloride can be replaced by potassium chloride (Tata Salt Superlite - 30% less sodium)
 8. Muffins, croissants, crackers, bagels, and other baked goods made with white flour
-9. Butter
-10. Palm oil
+9. **Butter**
+10. **Palm oil**
+11. Soft drinks  - Juices
+12. Alcohol / Tobacco, etc
 
 ## Supplements
 
@@ -96,7 +94,6 @@ Recommended Calorie intake - 2800
 4. Folic acid - Vitamin B9
     - Important for making red blood cells and thymine and cytosine (2 of the 4 bases that make up DNA)
     - Pregnant women need it the most
-
 5. Melatonin
 6. St John's Wort (flower)
 
@@ -171,21 +168,21 @@ Mushroom - White Truffle [Tuber magnatum - Wikipedia](https://en.wikipedia.org/w
 
 ## Eight principles of low-glycemic eating
 
-1. Eat a lot of non-starchy vegetables, beans, and fruits such as apples, pears, peaches, and berries. Even tropi- cal fruits like bananas, mangoes, and papayas tend to have a lower glycemic index than typical desserts
+7. Eat a lot of non-starchy vegetables, beans, and fruits such as apples, pears, peaches, and berries. Even tropi- cal fruits like bananas, mangoes, and papayas tend to have a lower glycemic index than typical desserts
 
-2. Eat grains in the least-processed state possible: "unbroken," such as whole-kernel bread, brown rice, and whole barley, millet, and wheat berries; or tra- ditionally processed, such as stone-ground bread, steel-cut oats, and natural granola or muesli breakfast cereals
+8. Eat grains in the least-processed state possible: "unbroken," such as whole-kernel bread, brown rice, and whole barley, millet, and wheat berries; or tra- ditionally processed, such as stone-ground bread, steel-cut oats, and natural granola or muesli breakfast cereals
 
-3. Limit white potatoes and refined grain products such as white breads and white pasta to small side dishes.
+9. Limit white potatoes and refined grain products such as white breads and white pasta to small side dishes.
 
-4. Limit concentrated sweets - including high-calorie foods with a low glycemic index, such as ice cream - to occasional treats. Reduce fruit juice to no more than one cup a day. Completely eliminate sugar-sweetened drinks
+10. Limit concentrated sweets - including high-calorie foods with a low glycemic index, such as ice cream - to occasional treats. Reduce fruit juice to no more than one cup a day. Completely eliminate sugar-sweetened drinks
 
-5. Eat a healthful type of protein, such as beans, fish, or skinless chicken, at most meals
+11. Eat a healthful type of protein, such as beans, fish, or skinless chicken, at most meals
 
-6. Choose healthful fats, such as olive oil, nuts (almonds, walnuts, pecans), and avocados. Limit saturated fats from dairy and other animal products. Completely eliminate partially hydrogenated fats (trans fats), which are in fast food and many packaged foods
+12. Choose healthful fats, such as olive oil, nuts (almonds, walnuts, pecans), and avocados. Limit saturated fats from dairy and other animal products. Completely eliminate partially hydrogenated fats (trans fats), which are in fast food and many packaged foods
 
-7. Have three meals and one or two snacks each day, and don't skip breakfast
+13. Have three meals and one or two snacks each day, and don't skip breakfast
 
-8. Eat slowly and stop when full
+14. Eat slowly and stop when full
 
 http://hrccatalog.hrrh.on.ca/InmagicGenie/DocumentFolder/healthy%20eating.pdf
 
@@ -226,15 +223,15 @@ They decide how our skin looks. How strong our bones are. How we fight infection
 
 Vitamins are...
 
-1. A group of compounds
+15. A group of compounds
 
     There are 13 vitamins in all: A, C, D, E, K, and the B-complex of 8 vitamins
 
-2. Micronutrients
+16. Micronutrients
 
     We need them in tiny quantities (milli or micrograms). Unlike carbs/proteins, which are macronutrients.
 
-3. Essential nutrients
+17. Essential nutrients
 
     They’re not produced directly by our bodies but supplied from our food (with a few exceptions.)
 
@@ -377,6 +374,27 @@ It can become toxic and inedible quickly; when stored for more than 20 minutes, 
 [15 Excellent Health Benefits Of Sugarcane Juice - PharmEasy Blog](https://pharmeasy.in/blog/15-excellent-health-benefits-of-sugarcane-juice/)
 
 [Is Sugarcane Juice Good or Bad for Diabetes?](https://www.healthline.com/nutrition/sugarcane-juice-diabetes)
+
+## Salt
+
+- **Salt** - Sodium chloride can be replaced by potassium chloride (Tata Salt Superlite - 30% less sodium)
+	- Not for Kidney patient, check with doctor before switching
+- Globally, each year 1.9 million deaths are attributable to high sodium intake.
+- WHO recommends limiting sodium intake to below 2 g/day to reduce blood pressure and risk of cardiovascular diseases (CVDs)
+	- GBD - Global Burden of Disease
+- [Launch of the WHO guideline on the use of lower-sodium salt substitutes](https://www.who.int/news-room/events/detail/2025/01/27/default-calendar/launch-of-the-who-guideline-on-the-use-of-lower-sodium-salt-substitutes)
+- [WHO Guidelines: Replace regular table salt with lower-sodium salt substitutes that contain potassium - The Hindu](https://www.thehindu.com/sci-tech/health/replace-regular-table-salt-with-lower-sodium-salt-substitutes-that-contain-potassium-who/article69151664.ece)
+- [What WHO’s recommendation for low sodium salt alternatives means for India  - The Hindu](https://www.thehindu.com/sci-tech/health/sodium/article69158576.ece)
+- [Pass on the Salt: Should We Ask for Potassium Chloride at the Dinner Table Instead? \| Office for Science and Society - McGill University](https://www.mcgill.ca/oss/article/health-and-nutrition-contributors/pass-salt-should-we-ask-potassium-chloride-dinner-table-instead)
+- [Salt Alternative: Potassium Chloride](https://www.healthline.com/health-news/what-is-potassium-chloride-and-why-you-may-want-to-replace-salt-with-it)
+- [Dietary Impact of Adding Potassium Chloride to Foods as a Sodium Reduction Technique - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4848703/)
+- [What Happens If You Switch From Sodium Chloride (Salt) to Potassium Chloride? \| The Cooking Doc® - YouTube](https://www.youtube.com/watch?v=V4VS6GoK-eo)
+- [Potassium Chloride Salt Substitute Side Effects - YouTube](https://www.youtube.com/watch?v=KE8OG2yHZzI)
+- [The Sodium-Potassium Ratio is More Important Than a Low Sodium Diet - YouTube](https://www.youtube.com/watch?v=z4MFnrMpzBA)
+- [The Best Salt According to Science (NOT what you think!) - YouTube](https://www.youtube.com/watch?v=b_Fu-dwHA0M)
+- [There is a Salt without Sodium! - YouTube](https://www.youtube.com/watch?v=LVfcmIxTZO4)
+- [Healthy Salt? Can it be? - YouTube](https://www.youtube.com/watch?v=EysSyhgtTYc)
+- [The Benefits of Potassium Chloride - What is Potassium Chloride? - YouTube](https://www.youtube.com/watch?v=RJ1bvFOz5V4)
 
 ## Farming
 

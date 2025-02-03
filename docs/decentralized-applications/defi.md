@@ -119,3 +119,4 @@ A perpetual contract is a derivative similar to a futures contract but without a
 - [DeFi - Past, Present and Future - YouTube](https://www.youtube.com/watch?v=PT72hAbm2Eo)
 - [How to Make Money with Crypto - DeFi For Beginners - YouTube](https://www.youtube.com/watch?v=o9ObYRjpIhs)
 - [Why Decentralized Social Media Is IMPORTANT For Our Privacy - YouTube](https://www.youtube.com/watch?v=ovnE5gQ3fQQ)
+- [Tokenized Apollo fund launched on 6 public blockchains - Ledger Insights - blockchain for enterprise](https://www.ledgerinsights.com/tokenized-apollo-fund-launched-on-6-public-blockchains/)

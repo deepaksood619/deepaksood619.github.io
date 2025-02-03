@@ -152,7 +152,7 @@
 - Why nations fail
 - Why We Sleep - Matthew Walker
 - Wired to Win: Rewire Your Brain to Achieve Enormous Success
-- The wealth of nations
+- The wealth of nations - Adam Smith
 - The 6 Types of Working Genius: A Better Way to Understand Your Gifts, Your Frustrations, and Your Team bookl
 - How To Raise Successful People: Simple Lessons for Radical Results
 - By the People: Rebuilding Liberty Without Permission

@@ -4,6 +4,7 @@
 
 [The 2 planetary disasters you owe your life to | Sean B. Carroll](https://youtu.be/YC2qoeWYr4w)
 
+- LUCA - last universal common ancestor
 - We divided from fungi 650 million years ago
 - About 221 million and 210 million years ago
 - 66 million years ago asteroid impact Yucatán Peninsula - Chicxulub crater

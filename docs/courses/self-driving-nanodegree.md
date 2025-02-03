@@ -16,22 +16,22 @@ Next, you'll learn Sensor Fusion, or how to use an array of sensor data to perce
 
 ## Lectures
 
-- **Computer Vision Fundamentals**
-- **Camera Calibration**
-- **Gradients and Color Spaces**
-- **Advanced Computer Vision**
-- **Neural Networks**
-- **TensorFlow**
-- **Deep Neural Networks**
-- **Convolutional Neural Networks**
-- **LeNet for Traffic Signs**
-- **Keras**
-- **Transfer Learning**
-- **Sensors**
-- **Kalman Filters**
-- **C++ Checkpoint**
-- **Geometry and Trigonometry Refresher**
-- **Extended Kalman Filters**
+- Computer Vision Fundamentals
+- Camera Calibration
+- Gradients and Color Spaces
+- Advanced Computer Vision
+- Neural Networks
+- TensorFlow
+- Deep Neural Networks
+- Convolutional Neural Networks
+- LeNet for Traffic Signs
+- Keras
+- Transfer Learning
+- Sensors
+- Kalman Filters
+- C++ Checkpoint
+- Geometry and Trigonometry Refresher
+- Extended Kalman Filters
 
 ## Part - 2
 
