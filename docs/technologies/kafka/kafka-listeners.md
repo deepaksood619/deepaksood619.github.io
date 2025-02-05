@@ -55,17 +55,17 @@ kafkacat is a useful tool for exploring this. Using `-L` you can see the metadat
 - Connecting on port 9092 (which we map as LISTENER_FRED), the broker's address is given back as localhost
 
 ```bash
-$ kafkacat -b kafka0:9092 -L
-Metadata for all topics (from broker -1: kafka0:9092/bootstrap):
-1 brokers:
-broker 0 at localhost:9092
+kafkacat -b kafka0:9092 -L
+# Metadata for all topics (from broker -1: kafka0:9092/bootstrap):
+# 1 brokers:
+# broker 0 at localhost:9092
 
-- Connecting on port 29092 (which we map as LISTENER_BOB), the brokers address is given back as kafka0:
+# Connecting on port 29092 (which we map as LISTENER_BOB), the brokers address is given back as kafka0:
 
-$ kafkacat -b kafka0:29092 -L
-Metadata for all topics (from broker 0: kafka0:29092/0):
-1 brokers:
-broker 0 at kafka0:29092
+kafkacat -b kafka0:29092 -L
+# Metadata for all topics (from broker 0: kafka0:29092/0):
+# 1 brokers:
+# broker 0 at kafka0:29092
 ```
 
 You can also use tcpdump to examine the traffic from a client connecting to the broker, and spot the hostname that's returned from the broker.

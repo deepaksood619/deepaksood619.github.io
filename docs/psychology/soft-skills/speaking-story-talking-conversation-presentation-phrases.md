@@ -130,6 +130,7 @@ https://getpocket.com/explore/item/6-things-great-speakers-always-do-a-tedx-orga
 - Do you want some more cake, rather than any more cake
 - Something vs anything
 - Anything is mostly followed with No, something is followed by I can have some by other party
+- Do you need something rather than do you need anything
 
 ## Stories / Story / Storytelling
 

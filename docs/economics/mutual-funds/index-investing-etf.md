@@ -173,6 +173,71 @@ An ETF is called an exchange-traded fund since it's traded on an exchange just l
 - HDFC Gold ETF
 - UTI Gold ETF
 
+## International ETFs
+
+[Free ETF Screener - Search and Analyze ETFs - Stock Analysis](https://stockanalysis.com/etf/screener/)
+
+### Technology
+
+- QQQ - Invesco QQQ Trust, Series 1
+	- Expense Ratio - 0.20%
+	- Assets - $326.68B
+	- The Invesco QQQ Trust Series I (QQQ) is an exchange-traded fund that is based on the NASDAQ 100 index, a modified-market-cap-weighted index of 100 NASDAQ-listed stocks. QQQ was launched on Mar 10, 1999 and is issued by Invesco.
+	- [QQQ ETF Stock Price, Quote & Overview - Stock Analysis](https://stockanalysis.com/etf/qqq/)
+	- [QQQ vs. VGT — ETF Comparison - Stock Analysis](https://stockanalysis.com/etf/compare/qqq-vs-vgt/)
+- VGT - Vanguard Information Technology ETF
+	- Assets - $85.55B
+	- **Expense Ratio - 0.10%**
+	- The Vanguard Information Technology ETF (VGT) is an exchange-traded fund that mostly invests in information technology equity. The fund tracks a market cap-weighted index of companies in the US information technology sector. VGT was launched on Jan 26, 2004 and is issued by Vanguard.
+	- [VGT ETF Stock Price, Quote & Overview - Stock Analysis](https://stockanalysis.com/etf/vgt/)
+	- [QQQ vs. VGT — ETF Comparison - Stock Analysis](https://stockanalysis.com/etf/compare/qqq-vs-vgt/)
+- Technology Select Sector SPDR Fund (XLK)
+	- Assets - $72.81B
+	- Expense Ratio - 0.09%
+	- Holdings - 72
+	- The Technology Select Sector SPDR Fund (XLK) is an exchange-traded fund that is based on the Technology Select Sector index. The fund tracks an index of S&P 500 technology stocks. XLK was launched on Dec 16, 1998 and is issued by State Street.
+	- [XLK ETF Stock Price, Quote & Overview - Stock Analysis](https://stockanalysis.com/etf/xlk/)
+- iShares Bitcoin Trust ETF (IBIT)
+	- Assets - $59.39B
+	- Expense Ratio - 0.25%
+	- The iShares Bitcoin Trust ETF (IBIT) is an exchange-traded fund that mostly invests in long btc, short usd currency. The fund is a passively managed fund that seeks to track the spot price of Bitcoin. IBIT was launched on Jan 5, 2024 and is issued by BlackRock.
+	- [IBIT ETF Stock Price, Quote & Overview - Stock Analysis](https://stockanalysis.com/etf/ibit/)
+	- [How can Indians invest in Bitcoin ETFs in the US? BitBNS' Gaurav Dahake answers](https://economictimes.indiatimes.com/markets/expert-view/how-can-indians-invest-in-bitcoin-etfs-in-the-us-bitbns-gaurav-dahake-answers/articleshow/106944940.cms?from=mdr)
+	- [Indian investors can profit from Bitcoin ETFs. Here’s how - appreciate](https://appreciatewealth.com/blog/indian-investors-can-profit-from-bitcoin-etfs-heres-how#:~:text=Tax%20implications%20of%20investing%20in,to%20Bitcoin%20ETFs%20as%20well.)
+
+### Others
+
+- SPDR S&P 500 ETF Trust (SPY)
+	- Assets - $624.34B
+	- Expense Ratio - 0.09%
+	- The SPDR S&P 500 ETF Trust (SPY) is an exchange-traded fund that is based on the S&P 500 index. The fund tracks a market cap-weighted index of US large- and mid-cap stocks selected by the S&P Committee. SPY was launched on Jan 22, 1993 and is issued by State Street.
+	- [QQQ vs. SPY — ETF Comparison - Stock Analysis](https://stockanalysis.com/etf/compare/qqq-vs-spy/)
+- Vanguard Growth ETF (VUG)
+	- Assets - $159.91B
+	- Expense Ratio - 0.04%
+	- The Vanguard Growth ETF (VUG) is an exchange-traded fund that is based on the CRSP US Large Growth index. The fund tracks an index of large-cap stocks in the US. Holdings are selected and weighed based on growth factors. VUG was launched on Jan 26, 2004 and is issued by Vanguard.
+	- [VUG ETF Stock Price, Quote & Overview - Stock Analysis](https://stockanalysis.com/etf/vug/)
+	- [VUG vs. QQQ ETF comparison analysis \| ETF Central](https://www.etfcentral.com/compare-etfs/VUG-vs-QQQ)
+- Vanguard FTSE Developed Markets ETF (VEA)
+	- Assets - $139.70B
+	- Expense Ratio - 0.06%
+	- The Vanguard FTSE Developed Markets ETF (VEA) is an exchange-traded fund that mostly invests in total market equity. The fund is passively managed to provide exposure to the developed markets ex-US equity space. It holds stocks of any market capitalization. VEA was launched on Jul 20, 2007 and is issued by Vanguard.
+	- [VEA ETF Stock Price, Quote & Overview - Stock Analysis](https://stockanalysis.com/etf/vea/)
+- **Vanguard Global Stock Index Fund (VT Index)**
+- MSCI World Index
+- MSCI All Country World Index
+- S&P Global Index
+- Dow Jones Industrial Average
+- FTSE 100 Index (London)
+- DAX 30 (Germany)
+- NIKKEI 225 (Japan)
+
+https://www.youtube.com/watch?v=qRT917PvEns
+
+### nasdaq composite vs nasdaq 100
+
+The composition of the NASDAQ Composite is heavily weighted towards companies in the information technology sector. The Nasdaq-100, which includes 100 of the largest non-financial companies in the Nasdaq Composite, accounts for about 80% of the index weighting of the Nasdaq Composite.
+
 ## Links
 
 - [Index Investing Options In India:](https://www.youtube.com/watch?v=IIV1Xt_rB3Y)

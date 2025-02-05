@@ -5,8 +5,6 @@
 - [Portfolios](economics/finance-investing/portfolios.md)
 - [Personal Finance](economics/finance-investing/personal-finance.md)
 - [Checklist](economics/finance-investing/checklist-tips.md)
-- [Returns / Tax / Taxes / ITR](economics/finance-investing/returns-tax-taxes-itr.md)
-- [HUF / Private Trust](economics/finance-investing/huf-private-trust.md)
 - [Stocks / Equity](economics/finance-investing/stocks-equity.md)
 - [Portfolio Management Services (PMS)](economics/finance-investing/portfolio-management-services-pms.md)
 - [Company Analysis](economics/finance-investing/company-analysis.md)

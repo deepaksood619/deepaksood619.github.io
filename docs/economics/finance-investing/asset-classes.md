@@ -212,27 +212,6 @@ NPS Vatsalya
 - Taxation is not announced yet
 - [What you need to know before considering NPS Vatsalya](https://freefincal.com/what-you-need-to-know-before-considering-nps-vatsalya/)
 
-## International
-
-- MSCI World Index
-- MSCI All Country World Index
-- S&P Global Index
-- S&P 500 Index Fund (USA)
-
-- **Vanguard Global Stock Index Fund (VT Index)**
-
-- Dow Jones Industrial Average
-- FTSE 100 Index (London)
-- Nasdaq Composite (QQQ ETF)
-- DAX 30 (Germany)
-- NIKKEI 225 (Japan)
-
-https://www.youtube.com/watch?v=qRT917PvEns
-
-### nasdaq composite vs nasdaq 100
-
-The composition of the NASDAQ Composite is heavily weighted towards companies in the information technology sector. The Nasdaq-100, which includes 100 of the largest non-financial companies in the Nasdaq Composite, accounts for about 80% of the index weighting of the Nasdaq Composite.
-
 ## Indian
 
 - Nifty 50 (NSE)

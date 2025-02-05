@@ -52,6 +52,7 @@
 **Nifty 50:** The Nifty 50 comprises the 50 largest and most liquid companies listed on the National Stock Exchange of India. The stocks in the Nifty 50 are big players, typically large-cap stocks with a massive market value.
 
 **Nifty Next 50:** On the other hand, the Nifty Next 50 includes mid-cap companies that rank from 51 to 100 in terms of full market cap. So naturally, the average market cap of these companies is smaller than that of Nifty 50 constituents. The total market cap of the Nifty Next 50 is around 15-18% of the full NSE 500 market cap.
+
 - **Junior BeES**, officially known as Nippon India ETF Nifty Next 50 Junior BeES, is an exchange-traded fund (ETF) that tracks the Nifty Next 50 Index. This index comprises the 50 companies ranked immediately after the Nifty 50 in terms of market capitalization. Therefore, Junior BeES primarily invests in large-cap companies that are potential candidates to enter the Nifty 50. It does not focus on mid-cap stocks.
 
 **Nifty 100:** Finally, the Nifty 100 is an index that combines the Nifty 50 and Next 50, covering the 100 most valuable listed companies. As you can expect, the market cap is between Nifty 50 and Next 50. So it covers around 75-80% of the total market cap of the 500 stocks trading on the NSE.

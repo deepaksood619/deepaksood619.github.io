@@ -8,6 +8,16 @@ This load balancer operates at Layer 7 of the OSI model. It can be used to load-
 
 [IP address types for your Application Load Balancer - Elastic Load Balancing](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-ip-address-type.html)
 
+### Path based routing
+
+I believe that you are getting this error because the services in question do not expect to receive paths prefixed with `/expressapp` and `/expressapp2`. When the ALB forwards traffic to your service, the path remains intact.
+
+Stripping off the prefix cannot be handled by ALB. If you don't have access to the source code of the apps, you will need to use some kind of reverse-proxy like nginx to rewrite the urls before sending them onto the app.
+
+[amazon web services - AWS Application Load Balancer (ALB) path based routing not functioning as expected - Stack Overflow](https://stackoverflow.com/questions/45216486/aws-application-load-balancer-alb-path-based-routing-not-functioning-as-expect)
+
+[ChatGPT - Stripping Path Prefix](https://chatgpt.com/share/67a11208-da34-8005-8004-7c625373e55b)
+
 ## Network Load Balancer (NLB)
 
 Used for extreme performance, this load balancer operates at Layer 4 of the OSI model. It can, therefore, load-balance any kind of TCP traffic and can handle large amounts of requests with low latency.

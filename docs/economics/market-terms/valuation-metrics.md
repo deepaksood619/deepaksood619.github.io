@@ -77,6 +77,8 @@ https://www.investopedia.com/terms/p/price-earningsratio.asp
 
 [Why the PE of One is Mohnish Pabrai’s Best Investing Strategy? PE Ratio Valuation with Example](https://www.youtube.com/watch?v=YzyM8AK9xj8)
 
+[United States Stock Market: current P/E Ratio](https://worldperatio.com/area/united-states/)
+
 ## PEG Ratio
 
 The price/earnings to growth ratio (PEG ratio) isa stock's price-to-earnings (P/E) ratio divided by the growth rate of its earnings for a specified time period.

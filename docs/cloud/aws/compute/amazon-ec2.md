@@ -41,7 +41,7 @@ if [ -n "$NEW_COMMITS" ]; then
   sudo docker compose -f docker-compose.prod.yaml up -d --no-deps --build web worker metabase
 else
   # If there are no changes, do nothing
-  echo "No changes in Git repository.
+  echo "$(date '+%Y-%m-%d %H:%M:%S') - No changes in Git repository."
 ```
 
 ## Amazon EC2 Auto Scaling Group (ASG)

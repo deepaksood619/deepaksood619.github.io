@@ -97,6 +97,11 @@ The whole world is moving towards electric, but India is pushing more towards Hy
 - [Are future humans really our problem? - YouTube](https://www.youtube.com/watch?v=FQss1IH3MFA)
 - [Engineering Breakthroughs That Will FEED The World - YouTube](https://www.youtube.com/watch?v=tQZM38N9ICo)
 
+### Jobs
+
+- Genius - single lone person doing core research
+- Manager - running multiple ai agents workforce
+
 ## Links
 
 [Ask HN: What are the big/important problems to work on? | Hacker News](https://news.ycombinator.com/item?id=37033312)

@@ -33,6 +33,7 @@ https://github.com/theonedev/onedev
 - [Retry Step - GitHub Marketplace](https://github.com/marketplace/actions/retry-step)
 - [retry action - GitHub Marketplace](https://github.com/marketplace/actions/retry-action)
 - [Lighthouse CI Action · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/lighthouse-ci-action)
+- [GitHub - anishathalye/proof-html: A GitHub Action to validate HTML, check links, and more ✅](https://github.com/anishathalye/proof-html)
 
 **Run github actions locally**
 

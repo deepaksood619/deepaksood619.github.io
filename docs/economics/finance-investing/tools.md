@@ -42,7 +42,7 @@ https://www.tikr.com
 
 ![image](../../media/Screenshot%202025-01-28%20at%205.55.05%20PM.jpg)
 
-### Interactive Brokers
+### Interactive Brokers (IBKR)
 
 - [Why Interactive Brokers India \| Interactive Brokers India Pvt. Ltd.](https://www.interactivebrokers.co.in/en/whyib/overview-why-ibkr-india.php)
 - [Commission Free ETFs \| Interactive Brokers India Pvt. Ltd.](https://www.interactivebrokers.co.in/en/trading/commission-free-etfs-mkt.php)
@@ -52,6 +52,7 @@ https://www.tikr.com
 - [Can an Indian resident open an account on Interactive Brokers for trading globally? - Quora](https://www.quora.com/Can-an-Indian-resident-open-an-account-on-Interactive-Brokers-for-trading-globally)
 - [Interactive brokers pricing for Indians? : r/IndianStreetBets](https://www.reddit.com/r/IndianStreetBets/comments/1654qk2/interactive_brokers_pricing_for_indians/)
 - [Anybody using interactive brokers for indian exchanges? : r/IndianStreetBets](https://www.reddit.com/r/IndianStreetBets/comments/1afn0a6/anybody_using_interactive_brokers_for_indian/)
+- [IBKR Trading Platforms \| Interactive Brokers LLC](https://www.interactivebrokers.com/en/trading/trading-platforms.php)
 
 #### Commissions
 

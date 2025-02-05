@@ -57,6 +57,7 @@ What are preemptive rights and who has them? - Preemptive rights allow common sh
 ### 4. Annexure 1 > point 3
 
 "provided the Participant is in the employment of the Company at such time", what if the employee is no longer employed after some vesting? How will it be handled?
+
 - What if you decide to leave the company before all your options have vested? Is there a policy for accelerated vesting in the time of a merger? Can you exercise your ESOPs early? Is there a possibility of a potential buyback in the upcoming years?
 - **Let's say I own shares at the company I am working for. I decide to leave. What happens to my shares?**
 

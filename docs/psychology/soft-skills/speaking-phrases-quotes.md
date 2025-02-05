@@ -17,6 +17,8 @@ Turning action words into identity words (verbs into nouns) is effective because
 ## Phrases
 
 - **I am going to pause here for questions**
+- Excited to meet and greet
+- I give back the time to you
 - Just dropped in to have a cup of coffee friend
 - **You're probably right**
 - Whenever someone disagrees with you on a small matter, you can shrug, say 'you're probably right' and move on.

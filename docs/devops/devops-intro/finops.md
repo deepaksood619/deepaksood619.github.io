@@ -106,3 +106,4 @@ The FinOps Framework includes capabilities that cover everything from cost analy
 - [What Is FinOps? What You Need To Know In Under 10 Minutes](https://www.cloudzero.com/blog/finops/)
 - [FinOps Metrics & KPIs - YouTube](https://www.youtube.com/playlist?list=PLUSCToibAswl-IAcWZiN6pLhM5e_I35Z9)
 - [Cloud FinOps & Kubernetes Optimisation at Scale • Matt Callanan • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=_F12WgQuTI8&ab_channel=GOTOConferences)
+- [CloudsAnalytics](https://finops.cloudsanalytics.ai/)

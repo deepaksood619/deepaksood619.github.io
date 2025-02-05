@@ -222,3 +222,4 @@ Airline can be transporter of fuels if passenger occupancy is lower, i.e. based 
 - Beekeeping
 - [The ₹150 Cr Indian diaper company 👶🏼](https://shorts.growthx.club/p/the-150-cr-indian-diaper-company)
 - Healthy cake
+- Idea - metro happiness camera, if smile less then give a lesser score, etc. Everything on device. Internet not required

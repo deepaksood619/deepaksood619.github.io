@@ -56,6 +56,8 @@ Rich results are experiences on Google surfaces, such as Search, that go beyond 
 
 [Rich Results Test - Google Search Console](https://search.google.com/test/rich-results)
 
+[Schema Markup validator](https://validator.schema.org/)
+
 ## Siphoning
 
 In the context of SEO (Search Engine Optimization), Siphoning refers to the act of stealing another website's traffic. Methods for stealing that traffic can include wholesale copying of webpages (that have been slightly altered to redirect visitors elsewhere), using keywords and keyword phrases that "belong" to the targetted website, cybersquatting, etc.

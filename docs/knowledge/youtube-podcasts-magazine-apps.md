@@ -495,6 +495,7 @@ Indian History - https://www.anirudhkanisetti.com/podcasts
 - https://zoro.to
 - [YouTube Vanced APK Download (\*UPDATED\*) v18.46.48 Latest Version - VancedYouTube](https://vancedyoutube.org/)
 - Pikashow
+- PPCine
 - pdf drive
 - Youtube Downloader
     - [Youtube Multi Downloader Online Free](https://youtubemultidownloader.net/playlists.html)

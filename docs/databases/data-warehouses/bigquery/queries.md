@@ -239,6 +239,9 @@ FROM
 GROUP BY
   table_schema
 order by number_of_tables desc;
+
+-- delete data
+TRUNCATE TABLE `dataset-name.database_name.table_name`;
 ```
 
 ## Commands
