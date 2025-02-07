@@ -328,6 +328,14 @@ stop loss order
 
 ### SL Market
 
+### Advanced
+
+#### What is the disclosed quantity feature and how to use it?
+
+Disclosed quantity feature while placing equity orders allows only a part of the total order quantity to be disclosed to the market as shown in the market depth. Once a part of the order is executed, the next part is disclosed to the market. This feature can be used while placing large orders to reduce impact cost and to get a better execution by disclosing only a portion of the large order in the best bids and offers in the market depth.
+
+[What is the disclosed quantity feature and how to use it?](https://support.zerodha.com/category/trading-and-markets/kite-web-and-mobile/others/articles/what-is-disclosed-quantity-feature-and-how-to-use-it)
+
 ## Position
 
 - Intraday - Don't send to demat account

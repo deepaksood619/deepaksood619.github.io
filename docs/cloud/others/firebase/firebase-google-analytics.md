@@ -218,6 +218,8 @@ https://www.freecodecamp.org/news/how-to-use-google-tag-manager-to-maintain-goog
 
 [GitHub - PostHog/posthog: 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.](https://github.com/PostHog/posthog)
 
+[Sunsetting Kubernetes support for PostHog - PostHog](https://posthog.com/blog/sunsetting-helm-support-posthog)
+
 ### MixPanel
 
 Mixpanel helps you learn how people use your app with mobile & web analytics. Instead of tracking page views, you can measure and see how people are actually using your app by tracking actions.

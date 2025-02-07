@@ -143,5 +143,6 @@ https://risk.learnapp.co/quiz
 [Introducing Margin Trading Facility (MTF) on Kite – Z-Connect by Zerodha](https://zerodha.com/z-connect/featured/introducing-margin-trade-funding-mtf-on-kite)
 
 - [Understanding Margin Trading Facility (MTF) at Zerodha: A Complete Guide - YouTube](https://www.youtube.com/watch?v=AYDD5b14IUY)
+- You can sell shares on Zerodha and then immediately buy the same amount using margin (through the Margin Trading Facility - MTF) before the shares from your initial sale are delivered to your demat account, essentially allowing you to "re-buy" with borrowed funds while the proceeds of your initial sale are still pending; this is often referred to as a "BTST" (Buy Today, Sell Tomorrow) trade.
 
 LAMF - [The Ultimate Guide to Loans Against Mutual Funds 🦁 Best, Quickest & Cheapest Loan - YouTube](https://www.youtube.com/watch?v=yPXAhAdf1-E)

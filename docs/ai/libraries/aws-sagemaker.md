@@ -142,70 +142,52 @@ Preprocess datasets, run inference when you don't need a persistent endpoint, an
 
 ## Instances
 
-t - tiny
-
-m - memory optimized
-
-c - compute optimized
-
-p - gpu
+- t - tiny
+- m - memory optimized
+- c - compute optimized
+- p - gpu
 
 ## Best practices
 
 1. Pick the right size - 5GB default
-
 2. Think: store on EBS /home/ec2-user/SageMaker
-
 3. Add or create git repository
-
 4. Configure security settings
     - Encryption
     - Root volume access
     - Internet access
     - VPC Connection
-
 5. Use a lifecycle config
     - Create, start notebook
     - Install packages, copy data
     - Run in background with '&'
-
 6. Attach a portion of a GPU for local inference
     - Size, version, bandwidth
 
 ## Sagemaker SDK and examples
 
-https://pypi.org/project/sagemaker
-
-[**https://sagemaker.readthedocs.io/en/stable/**](https://sagemaker.readthedocs.io/en/stable/)
-
-https://github.com/aws/sagemaker-python-sdk
-
-https://github.com/aws/amazon-sagemaker-examples
-
-https://github.com/aruncs2005/fraud-detection-workshop.git
+- https://pypi.org/project/sagemaker
+- [**https://sagemaker.readthedocs.io/en/stable/**](https://sagemaker.readthedocs.io/en/stable/)
+- https://github.com/aws/sagemaker-python-sdk
+- https://github.com/aws/amazon-sagemaker-examples
+- https://github.com/aruncs2005/fraud-detection-workshop.git
 
 ## Sagemaker Lifecycle configurations (Auto shutdown)
 
-https://aws.amazon.com/blogs/machine-learning/save-costs-by-automatically-shutting-down-idle-resources-within-amazon-sagemaker-studio
-
-[**https://github.com/aws-samples/sagemaker-studio-auto-shutdown-extension**](https://github.com/aws-samples/sagemaker-studio-auto-shutdown-extension)
-
-https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples
-
-https://github.com/aws-samples/sagemaker-studio-auto-shutdown-extension/tree/main/auto-installer
+- https://aws.amazon.com/blogs/machine-learning/save-costs-by-automatically-shutting-down-idle-resources-within-amazon-sagemaker-studio
+- [**https://github.com/aws-samples/sagemaker-studio-auto-shutdown-extension**](https://github.com/aws-samples/sagemaker-studio-auto-shutdown-extension)
+- https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples
+- https://github.com/aws-samples/sagemaker-studio-auto-shutdown-extension/tree/main/auto-installer
 
 ## Managed Spot Training
 
-https://towardsdatascience.com/a-quick-guide-to-using-spot-instances-with-amazon-sagemaker-b9cfb3a44a68
-
-https://aws.amazon.com/blogs/aws/managed-spot-training-save-up-to-90-on-your-amazon-sagemaker-training-jobs
+- https://towardsdatascience.com/a-quick-guide-to-using-spot-instances-with-amazon-sagemaker-b9cfb3a44a68
+- https://aws.amazon.com/blogs/aws/managed-spot-training-save-up-to-90-on-your-amazon-sagemaker-training-jobs
 
 ## Others
 
 ![image](../../media/AWS-Sagemaker-image7.jpg)
 
-https://aws.amazon.com/blogs/machine-learning/understanding-amazon-sagemaker-notebook-instance-networking-configurations-and-advanced-routing-options
-
-[AWS Innovate | Intro to Deep Learning: Building an Image Classifier on Amazon SageMaker - YouTube](https://www.youtube.com/watch?v=KCzgR7eQ3PY&ab_channel=AmazonWebServices)
-
-[Introducing the next generation of Amazon SageMaker: The center for all your data, analytics, and AI | AWS News Blog](https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-sagemaker-the-center-for-all-your-data-analytics-and-ai/)
+- https://aws.amazon.com/blogs/machine-learning/understanding-amazon-sagemaker-notebook-instance-networking-configurations-and-advanced-routing-options
+- [AWS Innovate | Intro to Deep Learning: Building an Image Classifier on Amazon SageMaker - YouTube](https://www.youtube.com/watch?v=KCzgR7eQ3PY&ab_channel=AmazonWebServices)
+- [Introducing the next generation of Amazon SageMaker: The center for all your data, analytics, and AI | AWS News Blog](https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-sagemaker-the-center-for-all-your-data-analytics-and-ai/)

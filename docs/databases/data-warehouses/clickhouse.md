@@ -207,3 +207,4 @@ ORDER BY passenger_count;
 - [Didi Migrates from Elasticsearch to ClickHouse for a new Generation Log Storage System](https://clickhouse.com/blog/didi-migrates-from-elasticsearch-to-clickHouse-for-a-new-generation-log-storage-system)
 - [Building a Robust Data Pipeline with Kafka and ClickHouse | The Write Ahead Log](https://platformatory.io/blog/Building-a-Robust-Data-Pipeline-with-Kafka-and-ClickHouse/)
 - [First ClickHouse research paper: How do you make a modern data analytics database lightning-fast?](https://clickhouse.com/blog/first-clickhouse-research-paper-vldb-lightning-fast-analytics-for-everyone)
+- [Effortlessly Deploying ClickHouse on Kubernetes: A Comprehensive Guide \| by Utkarsh Umang \| Medium](https://medium.com/@luciferutkarsh/effortlessly-deploying-clickhouse-on-kubernetes-a-comprehensive-guide-b54dbd6cdf22)

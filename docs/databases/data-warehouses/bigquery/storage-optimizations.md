@@ -2,6 +2,23 @@
 
 Recommendation: Move from Logical to Physical Storage
 
+## Physical vs Logical Storage
+
+In BigQuery, =="logical storage" refers to the uncompressed size of your data, including any data retained for time travel and fail-safe storage, while "physical storage" represents the actual compressed size of the data stored on disk==, meaning it's the amount of space the data physically occupies on Google's servers; essentially, logical storage is the "apparent" size of your data, while physical storage is the "real" size after compression, with logical storage usually being cheaper per gigabyte than physical storage.
+
+### Key differences
+
+- **Size Calculation:** Logical storage is the uncompressed data size, whereas physical storage reflects the compressed size after data optimization.
+- **Billing:** By default, BigQuery charges based on logical storage, which means you are not billed for the compression savings. However, you can choose to switch to physical storage billing if you want to pay based on the actual disk space used.
+- **Time Travel and Fail-Safe Storage:** When using logical storage, time travel and fail-safe storage are included in the price, but when using physical storage, these features are billed separately at the "active storage" rate.
+
+### When to use which
+
+- **Logical Storage (default):** Use this if you want the simplest billing model and are not overly concerned about optimizing for storage costs, especially if you utilize features like time travel frequently.
+- **Physical Storage:** If you have very large datasets with high compression potential and want to minimize storage costs, consider switching to physical storage billing.
+
+## Charges
+
 BigQuery charges based on active logical storage, which is often higher compared to physical storage due to the compression factor. Here’s how you can optimize this:
 
 - **Understand Compression Benefits:** BigQuery's physical storage cost is based on compressed storage. Depending on the compression ratio of your data, you can potentially reduce storage costs significantly. For example, if your data compresses well (as per Bigquery Tables scan), you may only pay a fraction of the logical storage cost.
@@ -32,7 +49,7 @@ Snapshot Data(us-multi region dataset)
 
 ### Cost Comparison
 
-Without Compression (Logical Storage)
+#### Without Compression (Logical Storage)
 
 Active logical storage cost:
 
@@ -42,7 +59,7 @@ Long-term logical storage cost:
 
 - 287.77 GiB * $0.01/GiB = $2.88 per month
 
-With Compression (Physical Storage)
+#### With Compression (Physical Storage)
 
 Active physical storage cost:
 
@@ -53,13 +70,13 @@ Long-term physical storage cost:
 - 78.74 GiB * $0.02/GiB = $1.57 per month
 Savings Analysis
 
-Logical vs. Physical Storage (Active)
+#### Logical vs. Physical Storage (Active)
 
 - Logical: $5.75 per month
 - Physical: $3.15 per month
 - Savings: $5.75 - $3.15 = $2.60 per month
 
-Logical vs. Physical Storage (Long-term)
+#### Logical vs. Physical Storage (Long-term)
 
 - Logical: $2.88 per month
 - Physical: $1.57 per month

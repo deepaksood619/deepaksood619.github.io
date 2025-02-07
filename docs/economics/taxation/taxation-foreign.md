@@ -66,6 +66,25 @@ An NRE account is **a bank account opened in India in the name of an NRI, to par
 
 Interest earned on an NRE account and FCNR account is tax-free. Interest on NRO accounts is taxable in the hands of an NRI.
 
+- NRE - Non-Resident External
+- NRO - Non-Resident Ordinary
+- Both accounts are rupee-denominated bank accounts for non-resident Indians (NRIs).
+
+**Purpose**
+
+- NRE account: For depositing foreign earnings in India
+- NRO account: For managing income earned in India, such as rent, dividends, or pensions
+
+**Taxation**
+
+- NRE account: Interest earned is tax-free in India
+- NRO account: Interest earned is subject to Indian taxes
+
+**Repatriation**
+
+- NRE account: Funds can be freely repatriated to the NRI's country of residence
+- NRO account: Funds can be repatriated up to $1 million per financial year after taxes are paid
+
 [How to file ITR as an OCI on Indian income? | Mint](https://www.livemint.com/money/personal-finance/how-to-file-itr-as-an-oci-on-indian-income-11674492598587.html)
 
 Overseas Citizen of India (OCI) card - [How to Register for OCI card - Check the Fees & Status](https://www.bankbazaar.com/passport/how-to-register-oci-card.html)
@@ -86,7 +105,28 @@ It is 5% of the remittance amount above INR 7 Lakhs. From October 1, 2023 onward
 
 ## Remittances
 
-### Foreign Outward Remittance (Wire Transfer) - RemitNow
+Best TT Rates with Indian Bank both inward and outward - Indian Overseas Bank (IOC) (Public Sector Bank)
+
+### Introduction
+
+- Foreign Inward Remittance Certificate (FIRC)
+	- [What’s a Foreign Inward Remittance Certificate (FIRC) and how can I request one? \| Wise Help Centre](https://wise.com/help/articles/2655509/whats-a-foreign-inward-remittance-certificate-firc-and-how-can-i-request-one)
+	- [Foreign Inward Remittance Certificate (FIRC): Meaning, Full Form, How To Download](https://cleartax.in/s/foreign-inward-remittance-certificate)
+- Foreign Inward Remittance Advice (FIRA)
+- TT buying rate is the rate at which a bank buys a foreign currency for a telegraphic transfer (TT). The rate varies depending on the bank and the currency being bought.
+- TT selling rate is the rate at which the bank sells foreign currency to a customer (outward remittance)
+- Spread between rates: Banks always have a slight difference between their TT buying and selling rates, which is their profit margin on the transaction.
+
+### Indian Overseas Bank (IOC)
+
+[IOB International Remittance: Fees, charges and transfer time - Wise](https://wise.com/in/blog/iob-international-remittance)
+
+### SBI
+
+- Rs. 50/- is levied by SBI in India for handling inward remittances.
+- No SWIFT code of SBI Dantewada Branch (Have to use a parent branch)
+
+### Foreign Outward Remittance (Wire Transfer) - RemitNow (HDFC)
 
 - Add beneficiary
 - HDFC Bank RemitNow - [Send Money across the world with HDFC Bank RemitNow - YouTube](https://www.youtube.com/watch?v=fxHEKJPCztQ)
@@ -106,3 +146,26 @@ It is 5% of the remittance amount above INR 7 Lakhs. From October 1, 2023 onward
 - [Foreign Remittance Tax: Is There Any Tax on Foreign Remittance?](https://cleartax.in/s/tax-on-foreign-remittance)
 	- Adjust your total TCS amount depending on your tax liability
 	- There is no interest applicable on the blocked TCS amount.
+
+### Wise
+
+- [International Money transfer comparison \| Compare best exchange rates - Wise](https://wise.com/in/compare/)
+
+### Others
+
+- WesternUnion
+- BookMyForex
+	- [Best International Money Transfer Apps in India](https://www.bookmyforex.com/blog/best-international-money-transfer-apps-india/)
+- [Skydo \| Receive International Business Payments at Low Cost](https://www.skydo.com/)
+	- [Receiving Money From Abroad in India](https://www.skydo.com/blog/how-do-you-receive-a-foreign-remittance-in-a-savings-account)
+- [Infinity \| Business banking for cross-border SMBs & Startups](https://www.infinityapp.in/)
+- [Ping Pong - Payment Processing Service Provider in India](https://in.pingpongx.com/in/index)
+
+### Links
+
+- [Which banks offer best foreign exchange rates and customer service? : r/IndiaInvestments](https://www.reddit.com/r/IndiaInvestments/comments/1715x57/which_banks_offer_best_foreign_exchange_rates_and/)
+- [Comparing Bank Charges for Foreign Outward Remittance](https://www.karboncard.com/blog/bank-charges-for-foreign-outward-remittance)
+- [Bank TT Buy rates 19 Dec 24 - GSheet](https://docs.google.com/spreadsheets/d/1400_eRiNIVm9Bmv5MQClFY2VRN_Pgz0k_j2bZWq-clQ/edit?usp=sharing)
+- [Which bank gives best rates for foreign outward remittance? Which is the best bank for the same? - Quora](https://www.quora.com/Which-bank-gives-best-rates-for-foreign-outward-remittance-Which-is-the-best-bank-for-the-same)
+- [Which is the best platform to be used for outward remittance in India? - Quora](https://www.quora.com/Which-is-the-best-platform-to-be-used-for-outward-remittance-in-India)
+- [What are some alternatives to Paypal? For India to foreign(outward remittance) : r/IndiaInvestments](https://www.reddit.com/r/IndiaInvestments/comments/rb69n0/what_are_some_alternatives_to_paypal_for_india_to/)

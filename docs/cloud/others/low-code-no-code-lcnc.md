@@ -49,6 +49,8 @@
 - [Dora AI - Generating powerful websites, one prompt at a time](https://www.dora.run/ai)
 - [Framer - Start your dream site with AI. Zero code, maximum speed.](https://www.framer.com/)
 	- [Athos2 Template](https://athos2.framer.website/)
+	- [Framer Tutorial: Components with Interactions, Variants and Variables - YouTube](https://www.youtube.com/watch?v=2jJkUuWhv70&ab_channel=Framer)
+	- [Berkeley Square Finance Group (BSFG)](https://bsfg.finance/)
 
 ### Others
 

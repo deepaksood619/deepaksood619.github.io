@@ -73,6 +73,16 @@ JWT Authentication - https://www.youtube.com/watch?v=mbsmsi7l3r4
 
 FingerprintJS is a browser fingerprinting library that queries browser attributes and computes a hashed visitor identifier from them. Unlike cookies and local storage, a fingerprint stays the same in incognito/private mode and even when browser data is purged.
 
+### Limitations
+
+#### Accuracy
+
+Since FingerprintJS processes and generates the fingerprints from within the browser itself, the accuracy is limited (40% - 60%). For example, when 2 different users send requests using identical (i.e. same version, same vendor, same platform), browsers, FingerprintJS will not be able to tell these two browsers apart, primarily because the attributes from these browsers will be identical.
+
+#### Security
+
+Because of how the fingerprints are processed and generated from within the browser itself, they are vulnerable to spoofing and reverse engineering.
+
 https://github.com/fingerprintjs/fingerprintjs
 
 ## Request - https://github.com/request/request

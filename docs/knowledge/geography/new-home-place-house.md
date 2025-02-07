@@ -479,6 +479,7 @@ Brokers
 - 092894 84015- aman - green beauty farms
 - 099731 36791 - sector 156
 - +917052225080 - property square yard noida
+- Noida resale, land brokers - +916397655281, +919818377721
 
 [ATS Pristine - Google Maps](https://www.google.com/maps/place/ATS+Pristine,+Pushta+Rd,+Sector+150,+Noida,+Uttar+Pradesh+201310/data=!4m2!3m1!1s0x390cc1933f72bb5f:0x35523950c45896a7?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBjI1LjIuNBgAIJ6dCipsLDk0MjQyNTE3LDk0MjIzMjk5LDk0MjE2NDEzLDk0MjEyNDk2LDk0MjA3Mzk0LDk0MjA3NTA2LDk0MjA4NTA2LDk0MjE3NTIzLDk0MjE4NjUzLDk0MjI5ODM5LDQ3MDg0MzkzLDk0MjEzMjAwQgJJTg%3D%3D)
 
