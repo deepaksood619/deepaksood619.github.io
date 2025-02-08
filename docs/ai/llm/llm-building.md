@@ -163,6 +163,8 @@ Ludwig enables you to apply state-of-the-art tabular, natural language processin
 
 An LLM Agent is a software entity capable of reasoning and autonomously executing tasks.
 
+[GitHub - viktoriasemaan/multi-agent: Examples of AI Multi-Agent Solutions](https://github.com/viktoriasemaan/multi-agent)
+
 ## Resources
 
 [Development with Large Language Models Tutorial - OpenAI, Langchain, Agents, Chroma - YouTube](https://www.youtube.com/watch?v=xZDB1naRUlk&t=1032s)

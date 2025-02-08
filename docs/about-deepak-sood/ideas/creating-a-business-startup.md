@@ -13,6 +13,8 @@ You will have either of the 4 problems while building a startup
 
 15 day tech startup launch plan:
 
+[Firstbase \| Incorporation, compliance, bookkeeping, and taxes – all in one place.](https://www.firstbase.io/)
+
 - Domain on [GoDaddy](https://www.linkedin.com/company/godaddy/)- 5 minutes
 - Logo ideas on [Dribbble](https://www.linkedin.com/company/dribbble/)- 5 minutes
 - Brand assets on [Figma](https://www.linkedin.com/company/figma/)- 40 minutes

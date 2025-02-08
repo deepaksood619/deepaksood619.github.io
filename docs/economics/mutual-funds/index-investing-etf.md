@@ -230,6 +230,7 @@ An ETF is called an exchange-traded fund since it's traded on an exchange just l
 - Dow Jones Industrial Average
 - FTSE 100 Index (London)
 - DAX 30 (Germany)
+	- includes 40 major German blue-chip companies
 - NIKKEI 225 (Japan)
 
 https://www.youtube.com/watch?v=qRT917PvEns

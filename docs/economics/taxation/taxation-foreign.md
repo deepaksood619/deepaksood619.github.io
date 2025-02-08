@@ -105,7 +105,8 @@ It is 5% of the remittance amount above INR 7 Lakhs. From October 1, 2023 onward
 
 ## Remittances
 
-Best TT Rates with Indian Bank both inward and outward - Indian Overseas Bank (IOC) (Public Sector Bank)
+- Best TT Rates with Indian Bank both inward and outward - Indian Overseas Bank (IOC) (Public Sector Bank)
+- Skydo is best for receiving money of $2000 ($19) and $10000 ($29)
 
 ### Introduction
 
@@ -121,10 +122,17 @@ Best TT Rates with Indian Bank both inward and outward - Indian Overseas Bank (I
 
 [IOB International Remittance: Fees, charges and transfer time - Wise](https://wise.com/in/blog/iob-international-remittance)
 
+- Inward Remittances - For individuals/non trade - Rs. 150
+- Outward Remittance - On all outward remittance not being proceeds of import bills - 0.075%, Min Rs.150/-, Max Rs.4000/- + applicable Swift charges (500)
+
 ### SBI
 
 - Rs. 50/- is levied by SBI in India for handling inward remittances.
 - No SWIFT code of SBI Dantewada Branch (Have to use a parent branch)
+- [Internet banking based Forex Outward Remittance Scheme FAQs](https://www.onlinesbi.sbi/sbijava/retail_pymtstran_forexoutwards_certificate.html)
+	- Retail forex outward remittance upto a value equivalent of USD 5000 per transaction,**max 4 transactions per month i.e.** USD 2,40,000/- per calendar year, offered to our retail customers. No minimum amount of remittance is stipulated.
+	- Restriction on initial remittance to overseas beneficiary within 4 days of beneficiary activation is Rs.1,00,000/-.
+	- USD 10 equivalent in INR applicable at Bank's T.T. Selling Card Rate for the day (rounded to the nearest Rupee) plus applicable Statutory Service Tax, to be recovered up-front at the time of submission of application form, covering all inclusive cost upto the Bank of the Beneficiary only. All subsequent Beneficiary Bank charges are to the account of the beneficiary.
 
 ### Foreign Outward Remittance (Wire Transfer) - RemitNow (HDFC)
 
@@ -147,7 +155,7 @@ Best TT Rates with Indian Bank both inward and outward - Indian Overseas Bank (I
 	- Adjust your total TCS amount depending on your tax liability
 	- There is no interest applicable on the blocked TCS amount.
 
-### Wise
+### Wise / TransferWise
 
 - [International Money transfer comparison \| Compare best exchange rates - Wise](https://wise.com/in/compare/)
 
@@ -156,10 +164,18 @@ Best TT Rates with Indian Bank both inward and outward - Indian Overseas Bank (I
 - WesternUnion
 - BookMyForex
 	- [Best International Money Transfer Apps in India](https://www.bookmyforex.com/blog/best-international-money-transfer-apps-india/)
-- [Skydo \| Receive International Business Payments at Low Cost](https://www.skydo.com/)
+- [Skydo \| Receive International Business Payments at Low Cost](https://www.skydo.com/) (Only receive money)
 	- [Receiving Money From Abroad in India](https://www.skydo.com/blog/how-do-you-receive-a-foreign-remittance-in-a-savings-account)
+	- Skydo applies a flat fee structure as follows: a $19 fee plus GST for transactions up to $2,000, and a $29 fee plus GST for transactions between $2,000 and $10,000. For transactions exceeding $10,000, the fee is 0.3% plus GST.
+	- [Skydo secures RBI licence to offer cross-border payments](https://economictimes.indiatimes.com/tech/startups/skydo-secures-rbi-licence-to-offer-cross-border-payments/articleshow/117413507.cms?from=mdr)
 - [Infinity \| Business banking for cross-border SMBs & Startups](https://www.infinityapp.in/)
 - [Ping Pong - Payment Processing Service Provider in India](https://in.pingpongx.com/in/index)
+- Paypal
+- [Paysend](https://paysend.com/) (India/INR not supported)
+- [Revolut \| All-in-one finance app for your money \| Revolut United Kingdom](https://www.revolut.com/) (India/INR not supported)
+- Salt.pe
+- [USD to INR Exchange Rates - Convert USD to INR \| Remitly](https://www.remitly.com/us/en/india/pricing) (US to India)
+- [Online Payment Processing Platform for Digital Businesses \| Payoneer](https://www.payoneer.com/en-in/)
 
 ### Links
 
@@ -169,3 +185,4 @@ Best TT Rates with Indian Bank both inward and outward - Indian Overseas Bank (I
 - [Which bank gives best rates for foreign outward remittance? Which is the best bank for the same? - Quora](https://www.quora.com/Which-bank-gives-best-rates-for-foreign-outward-remittance-Which-is-the-best-bank-for-the-same)
 - [Which is the best platform to be used for outward remittance in India? - Quora](https://www.quora.com/Which-is-the-best-platform-to-be-used-for-outward-remittance-in-India)
 - [What are some alternatives to Paypal? For India to foreign(outward remittance) : r/IndiaInvestments](https://www.reddit.com/r/IndiaInvestments/comments/rb69n0/what_are_some_alternatives_to_paypal_for_india_to/)
+- [A question to people using Foreign Inward Remittance : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/x9n0j7/a_question_to_people_using_foreign_inward/)
