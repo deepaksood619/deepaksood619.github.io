@@ -8997,7 +8997,7 @@
 8987. [What Does The Vagus Nerve ACTUALLY Do?](https://youtu.be/wfqhKKITC1w)
 8988. [How to Become: A Paleontologist](https://youtu.be/GQ-KxNtmFlY)
 8989. [Blue Origin Get To Orbit On First Try With Their Massive New Glenn Rocket](https://youtu.be/n4WtUP8ikAY)
-8990. [Why a therapist recommends reality TV | Dr. Kimberly Applewhite Teitter ...](https://youtu.be[y-r4plN_5uI)
+8990. [Why a therapist recommends reality TV | Dr. Kimberly Applewhite Teitter ...](https://www.youtube.com/watch?v=y-r4plN_5uI)
 8991. [Why Is Hindenburg Research Shutting Down? | Is Gautam Adani Smiling Now?...](https://youtu.be/nfxR9aybeNA)
 8992. [Political Cosmopolitanism](https://youtu.be/z_qBal5qwAY)
 8993. [Finding it will change your life](https://youtu.be/CLGPSuwrtuA)

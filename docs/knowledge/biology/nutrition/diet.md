@@ -36,3 +36,8 @@ https://www.bbc.com/future/article/20170601-the-secret-to-a-long-and-healthy-lif
 People are overweight because they eat too much. It is also really hard to stop. -- Scott Young
 
 - Your brain has specific neural circuitry designed to avoid starvation and, by extension, any rapid weight-loss. When you lose a lot of body fat, your hunger levels increase to encourage you to bring it back up.
+
+## Links
+
+- How Not to Die, Book by Gene Stone and Michael Greger
+	- [How Not to Die by Dr. Michael Greger: A Critical Review](https://www.healthline.com/nutrition/how-not-to-die-review)

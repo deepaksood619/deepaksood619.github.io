@@ -69,3 +69,8 @@ Being rich is having money, being wealthy is having time -- Margaret Bonnano
 In the short term price follows emotions. In the long term price follows value
 
 A rich person has a lot of money. A wealthy person has money, time and health.
+
+- Who you marry is a financial decision.
+- Where you study is a financial decision.
+- What you do for fun is a financial decision.
+- Most times, financial decisions have nothing to do with money.
