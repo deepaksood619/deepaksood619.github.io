@@ -42,7 +42,7 @@ https://lotusarise.com/koppen-climate-classification-system-upsc
 2. Stratosphere
 3. Mesosphere
 4. Thermosphere
-1. Ionosphere (lies within the thermosphere)
+    1. Ionosphere (lies within the thermosphere)
 5. Exosphere
 
 ![layers-of-atmosphere](../../media/Pasted%20image%2020230805120712.jpg)

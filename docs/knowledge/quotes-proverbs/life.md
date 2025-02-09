@@ -68,11 +68,17 @@ A small act is worth a million thoughts
 
 Doing it right is hard. Doing it over is harder
 
+Diwali mein bhi Ali Hai and Ramzan mein bhi RAM hai
+
+DDLJ - deny distract lie justify
+
 Put a smile on your face for the whole human race.
 
 I've seen men die at the age of 25, yet buried at the age of 75. -- Benjamin Franklin
 
 Easy choices, hard life. Hard choices, easy life -- Jerzy Gregorek
+
+Die with Zero: Getting All You Can from Your Money and Your Life Book by Bill Perkins - that emphasises on balancing financial independence with enjoying life’s experiences in the present, not just saving for the future.
 
 Society is just 3 missed meals away from total collapse
 

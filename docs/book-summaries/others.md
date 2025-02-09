@@ -29,6 +29,8 @@
 - [Bruce Lee Wisdom: BE WATER, MY FRIEND by Shannon Lee | Core Message - YouTube](https://www.youtube.com/watch?v=dkpQGQcbOc0)
 - [GRIT by Angela Duckworth | Core Message (Revised & Expanded) - YouTube](https://www.youtube.com/watch?v=XZOX6XrgfD4)
 - [100 THINGS SUCCESSFUL PEOPLE DO by Nigel Cumberland Audiobook | Book Summary in English - YouTube](https://www.youtube.com/watch?v=F2Qxkw9DgEs)
+- [THE COURAGE TO BE DISLIKED by F. Koga and I. Kishimi | Core Message](https://youtu.be/xFxn40zvl-E)
+- [Daily Consistency = Massive Results: THE COMPOUND EFFECT by Darren Hardy \| Core Message - YouTube](https://www.youtube.com/watch?v=qDxDCtZ9UkE)
 
 ### [Learn to lead: THE 21 IRREFUTABLE LAWS OF LEADERSHIP by John Maxwell | Core Message - YouTube](https://www.youtube.com/watch?v=QQhdiktL99w)
 

@@ -156,6 +156,8 @@
 - The 6 Types of Working Genius: A Better Way to Understand Your Gifts, Your Frustrations, and Your Team bookl
 - How To Raise Successful People: Simple Lessons for Radical Results
 - By the People: Rebuilding Liberty Without Permission
+- 52 Random Weekend Projects: For Budding Inventors and Backyard Builders https://g.co/kgs/KYFGvmc
+- Die with Zero: Getting All You Can from Your Money and Your Life Book by Bill Perkins - that emphasises on balancing financial independence with enjoying life’s experiences in the present, not just saving for the future.
 
 https://www.irisreading.com/warren-buffetts-10-favorite-books
 

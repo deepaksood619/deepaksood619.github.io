@@ -304,3 +304,4 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [Parenting Mistakes, Raising A Child, Ideal Routine & Psychology | Swati | Josh Talks Aasha - YouTube](https://www.youtube.com/watch?v=dakf6KN93Qs)
 - [Three-Day Potty Training: How It Works and Tips for Success](https://www.whattoexpect.com/toddler/potty-training/3-day-potty-training)
 - [The Best Crafts for Toddlers](https://www.whattoexpect.com/toddler/playtime-tips/crafts-for-toddlers/)
+- [New Parents - You’ll Wish You Knew This Sooner...](https://youtu.be/wlOENvg92Mc)

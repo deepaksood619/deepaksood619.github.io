@@ -319,6 +319,18 @@ The lipstick index is an economic theory that suggests that people buy small lux
 
 The Men's Underwear Index (MUI) is an economic indicator that suggests that an increase in men's underwear sales indicates a healthy economy. The MUI is based on the idea that people are more likely to buy non-essential items like underwear when they feel optimistic about their financial situation. Former US Federal Reserve chairman Alan Greenspan is credited with coining the MUI.
 
+## 7 Signs You’re Moving From Middle Class To Rich, According To Psychology
+
+1. The Time-Money Paradigm Shift
+2. From Income Focus to Asset Building
+3. Your Social Circle Naturally Elevates
+4. Strategic Risk-Taking Becomes Normal
+5. Quality-Focused Spending Patterns Emerge
+6. Continuous Learning Becomes Non-Negotiable
+7. Work Transforms From Necessity to Choice
+
+[7 Signs You're Moving From Middle Class To Rich, According To Psychology - New Trader U](https://www.newtraderu.com/2025/01/04/7-signs-youre-moving-from-middle-class-to-rich-according-to-psychology/)
+
 ## Links
 
 - [Marginal Utility / Analysis](marginal-utility-analysis)
