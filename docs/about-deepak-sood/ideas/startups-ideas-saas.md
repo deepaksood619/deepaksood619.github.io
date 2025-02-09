@@ -74,6 +74,7 @@ https://pivotal.substack.com/p/economics-of-data-biz
 
 - Geospatial data startup
 - Microfinance
+	- [Economists dropped $10M in rural Africa. It changed economic science forever. - YouTube](https://youtu.be/BD9kEHvXlGQ)
 - **Free Open Source Ticketing + Chat system (hosted)**
 - **Free Open Source JIRA/Asana (hosted)**
 - Living as a service (Apartment swapping networks)
@@ -311,3 +312,4 @@ Lawyer / law - central knowledge base and marketplace
 - [Top 100 Startup Ideas from Top 100 Entrepreneurs/VCs/Hackers! - YouTube](https://www.youtube.com/watch?v=XiXLti_Y_is&ab_channel=Breakdown)
 - [9 startups that stood out on YC Demo Day 2 | TechCrunch](https://techcrunch.com/2024/09/26/9-startups-that-stood-out-on-yc-demo-day-2/)
 - [Texts](https://texts.com/)
+- [YouTube](https://youtu.be/TANaRNMbYgk)

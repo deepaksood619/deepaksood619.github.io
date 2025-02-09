@@ -189,6 +189,12 @@ Here are some things to know about warrants:
 	- $60/hr full-time in Singapore
 	- $75/hr as an Independent Consultant for a US startup from my home
 	- $150/hr representing my own company for enterprises from my small indian town
+- Salaries & Roles for Editors
+	- Interns: ₹3 LPA
+	- Junior Editors: ₹6 LPA
+	- Senior Editors: ₹9 LPA
+	- Lead Editors: ₹12–14 LPA
+	- JD - https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA/community?lb=Ugkxj-03aC7J7h-C-YGPewEzCeNj1xWnlrlV
 
 ### In-Hand Salaries
 

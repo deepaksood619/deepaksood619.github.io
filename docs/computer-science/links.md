@@ -1468,6 +1468,7 @@
 1464. [The Current State of SEO, Revamped Search Console Emails, and more! (Jan...](https://youtu.be/tVSasQC6G_k)
 1465. [Google's Latest Update Destroyed This Gamer's $1M Business](https://youtu.be/eXQo1i0z190)
 1466. [API and SDK Explained in 5 Minutes](https://youtu.be/GhX8sNyFo5w)
+1467. [The Most Important Programming Invention In 20 Years • Dave Farley • GOTO 2025 - YouTube](https://youtu.be/6Il6jLf49BM)
 
 ## Bytebytego
 
@@ -1492,5 +1493,12 @@
 - [How Do Search Engines Work?](http://youtube.com/post/Ugkxv1Gf8JJ_igJTVC15cBoFSwN81mFcBVA3)
 - [How do AirTags work?](http://youtube.com/post/Ugkx9VV-A8-DsyFebl-TxGqKzDICxvZAMCiu)
 - [What is OSI Model](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxmobHk4yoFerC9q2dM0b5QqPqzvwtdcDZ)
+- [What is cloud native?](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxelKITUy7QjCAj_B1RJzubWeQ_YTV42a6)
+- [How many API architecture styles do you know?](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxfbLRDO3PPLuG3Apq87tjRWYI29a0xnL9)
+- [What does API gateway do?](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=Ugkx8-12jjRk-ryOcCW2wfdPu6t6sPun-ZNX)
+- [The 9 Algorithms That Dominate Our World.](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=Ugkx3z_swWEaaMlcQz_FG_Gg7FZazfCuhVwh)
+- [Stack Overflow Architecture](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxLY33sbO0nYTJCjTpVDyDK_7pagsHrbiO)
+- [8 Most-Used Distributed System Design Patterns](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxDKNekGZKUoxXvuRx-pp6wgKdj4V8u3H5)
+- [Why is Redis so 𝐟𝐚𝐬𝐭?](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxUVECetwqMJteCNwsYRTirTWXR5Qes8KB)
 
 ## End

@@ -102,3 +102,4 @@ https://netflixtechblog.com/netflixs-viewing-data-how-we-know-where-you-are-in-h
 - [Capturing A Billion Emo(j)i-ons](https://highscalability.com/capturing-a-billion-emo-j-i-ons/)
 - [How Uber Uses Integrated Redis Cache to Serve 40M Reads/Second?](https://blog.bytebytego.com/p/how-uber-uses-integrated-redis-cache)
 - [System Design of a Delivery System like Zomato with @KeertiPurswani - YouTube](https://www.youtube.com/watch?v=nHh3DnjnPig&ab_channel=GauravSen)
+- [Google Borg: Billions of Distributed Linux Containers - YouTube](https://youtu.be/l35hqwTY5W0)

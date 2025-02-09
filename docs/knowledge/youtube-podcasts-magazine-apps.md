@@ -22,6 +22,11 @@
 - [The Action Lab - YouTube](https://www.youtube.com/@theactionlab)
 - [Freethink - YouTube](https://www.youtube.com/@freethink)
 - [Newsthink - YouTube](https://www.youtube.com/@newsthink)
+- [Cool Worlds - YouTube](https://youtube.com/@coolworldslab)
+- [Made Vision - YouTube](https://youtube.com/@madevision-tv)
+- [TKOR - YouTube](https://youtube.com/@thekingofrandom)
+- [Brick Technology - YouTube](https://youtube.com/@bricktechnology)
+- [Mission Unstoppable - YouTube](https://youtube.com/@cbsunstoppable)
 
 ### Inventions and Building Stuff / Engineering
 

@@ -113,3 +113,4 @@ Furthermore, AWS encourages the use of DynamoDB as a materialized view for relat
 - https://aws.amazon.com/about-aws/whats-new/2021/05/learn-how-to-develop-applications-with-amazon-dynamodb
 - [A Deep Dive into Amazon DynamoDB Architecture](https://blog.bytebytego.com/p/a-deep-dive-into-amazon-dynamodb)
 - [Thank You | DynamoDB Cost Optimization Masterclass](https://lp.scylladb.com/dynamodb-cost-optimization-masterclass-ondemand-thanks)
+- [Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service - YouTube](https://youtu.be/cU01EnyBwQI)

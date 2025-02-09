@@ -146,3 +146,5 @@ https://blog.trello.com/sophrology-for-better-work-life-harmony
 [How to Keep Your Brain Young and Healthy | Louisa Nicola - YouTube](https://www.youtube.com/watch?v=tZQcd2K9HwQ)
 
 [Mind–body dualism - Wikipedia](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism)
+
+[Why Some People Don’t ‘See’ Mental Imagery: Aphantasia - YouTube](https://youtu.be/3I4KxfXrCPw)

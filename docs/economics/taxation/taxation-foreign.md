@@ -168,6 +168,7 @@ It is 5% of the remittance amount above INR 7 Lakhs. From October 1, 2023 onward
 	- [Receiving Money From Abroad in India](https://www.skydo.com/blog/how-do-you-receive-a-foreign-remittance-in-a-savings-account)
 	- Skydo applies a flat fee structure as follows: a $19 fee plus GST for transactions up to $2,000, and a $29 fee plus GST for transactions between $2,000 and $10,000. For transactions exceeding $10,000, the fee is 0.3% plus GST.
 	- [Skydo secures RBI licence to offer cross-border payments](https://economictimes.indiatimes.com/tech/startups/skydo-secures-rbi-licence-to-offer-cross-border-payments/articleshow/117413507.cms?from=mdr)
+	- [Simplifying global money transfer \| Srivatsan Sridhar @ Skydo - YouTube](https://youtu.be/qqjyLMXf29k)
 - [Infinity \| Business banking for cross-border SMBs & Startups](https://www.infinityapp.in/)
 - [Ping Pong - Payment Processing Service Provider in India](https://in.pingpongx.com/in/index)
 - Paypal

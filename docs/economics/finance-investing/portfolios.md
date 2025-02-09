@@ -206,6 +206,10 @@ https://freefincal.com/re-assemble-step-3-buy-term-life-insurance
 
 https://joinditto.in
 
+![Vijay Kedia's Winning Portfolio](../../media/Screenshot%202025-02-08%20at%209.40.02%20PM.jpg)
+
+[Vijay Kedia’s Rs 35,000 to Rs 1,800 Crore Journey: Secrets Behind 16,000x Returns ! - YouTube](https://youtu.be/sBrVejRrZBk)
+
 ## Portfolios
 
 - [An insight on Motilal Oswal Hedged Equity Multi-factor Strategy - AIF - YouTube](https://www.youtube.com/watch?v=rOmibLlyH8Y)

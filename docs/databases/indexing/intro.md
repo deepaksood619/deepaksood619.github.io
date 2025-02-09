@@ -183,3 +183,11 @@ Index selectivity is the ratio of the number of distinct indexed values (the ​
 **Why low cardinality indexes negatively impact performance**
 
 https://www.ibm.com/developerworks/data/library/techarticle/dm-1309cardinal
+
+## What is an Expression Index?
+
+An Expression Index is a type of index that precomputes and stores the results of an expression or transformation applied to one or more columns in a table.
+
+Instead of recalculating the expression each time a query is run, the database uses the precomputed results, which speeds up query processing.
+
+This is particularly useful when queries involve expressions such as from_unixtime(ts, 'yyyy-MM-dd'), where the database has to perform a conversion on each row's timestamp to filter by a specific date. By creating an expression index, the system avoids recalculating the transformation every time the query is executed.

@@ -66,6 +66,8 @@ In the presence of a network partition, you must choose betwen consistency and a
 
 ![image](../../media/CAP-Theorem-image1.jpg)
 
+![CAP Theorem](../../media/Screenshot%202025-02-08%20at%209.30.32%20PM.jpg)
+
 ## Eventual Consistency
 
 - If all writes stop (to a key), then all its values (replicas) will converge eventually.

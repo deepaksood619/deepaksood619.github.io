@@ -96,6 +96,11 @@ The whole world is moving towards electric, but India is pushing more towards Hy
 - [The Dead Internet Theory - YouTube](https://www.youtube.com/watch?v=9WB5grLMXkU)
 - [Are future humans really our problem? - YouTube](https://www.youtube.com/watch?v=FQss1IH3MFA)
 - [Engineering Breakthroughs That Will FEED The World - YouTube](https://www.youtube.com/watch?v=tQZM38N9ICo)
+- [Deepseek Destroys American AI \| How China Is Winning The Tech War \| Where Is India? \| Akash Banerjee - YouTube](https://youtu.be/naJO1zxB6_Q)
+	- There will be a china us war, since China is far ahead of us, it is also preparing for removing all dependencies like oil etc so it can be resilient during war
+	- Gold and crypto price will increase a lot, increase allocation to both in your portfolio
+	- Reduce USD Exposure
+- [2024's Biggest Breakthroughs in Physics - YouTube](https://youtu.be/UhG56kltfP4)
 
 ### Jobs
 

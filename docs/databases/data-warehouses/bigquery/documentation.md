@@ -584,6 +584,7 @@ Netezza is ==a data warehouse system that offers analytics, AI, and machine lea
 - [Use Tableau](https://cloud.google.com/bigquery/docs/analyze-data-tableau)
 - [Use Looker](https://cloud.google.com/bigquery/docs/looker)
 - [Use Looker Studio](https://cloud.google.com/bigquery/docs/visualize-looker-studio)
+	- [Monitoring organic Google Search traffic in Looker Studio - YouTube](https://youtu.be/3ezmohvavzI)
 - [Use third-party tools](https://cloud.google.com/bigquery/docs/third-party-integration)
 
 ### Google Cloud Ready - BigQuery

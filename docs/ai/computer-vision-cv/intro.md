@@ -80,6 +80,12 @@ PSNR is commonly used to quantify reconstruction quality for images and video su
 
 https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio
 
+## Future
+
+- Agentic Object Detection
+- [Agentic Object Detection - LandingAI](https://landing.ai/agentic-object-detection)
+- https://www.linkedin.com/posts/andrewyng_introducing-agentic-object-detection-given-activity-7293302466249441280-GxAl
+
 ## References
 
 - [Self Driving Nanodegree](courses/self-driving-nanodegree.md)

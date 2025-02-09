@@ -74,6 +74,8 @@ If people have to invest or spend more, they need to earn at least ₹2.5lks/yr?
 
 ![Old vs New Tax Regime](../../media/Pasted%20image%2020250202154540.png)
 
+[The Old Tax Regime is almost dead](http://youtube.com/post/UgkxClgrQ0G3MrDevP87p1LjDb4ik-DOre9x)
+
 ## Freelancing / Freelancer / Consulting
 
 - 194J

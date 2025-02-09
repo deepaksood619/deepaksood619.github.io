@@ -17,6 +17,8 @@ https://www.youtube.com/watch?v=dy81ldYQdgY
 
 ![image](../../media/Personality-Life-Lessons-Buying-Guide-Travelling-Shopping-image1.jpg)
 
+![building](../../media/Screenshot%202025-02-08%20at%209.39.14%20PM.jpg)
+
 [Blg Kano \| Facebook](https://www.facebook.com/share/1DJPNFky8X/)
 
 ![building cost](../../media/Screenshot%202025-01-16%20at%2012.41.08%20AM.jpg)

@@ -287,3 +287,4 @@ https://www.scotthyoung.com/blog/2020/10/26/foundation-practices
     - Avoid Overthinking
     - Conquer Procrastination
 - [Live Online Habit-building Programs | HabitStrong](https://www.habitstrong.com/)
+- [Top 5 Habit-Building Methods From 25+ Books on Habits - YouTube](https://youtu.be/gFSWD9r8dTE)

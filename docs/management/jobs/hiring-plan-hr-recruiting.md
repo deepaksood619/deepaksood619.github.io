@@ -67,6 +67,30 @@
 - freshteam from freshworks
 - http://www.careerist.in/contact-us.html
 
+## 16 Signs of a Highly Intelligent Employee
+
+1. They cheat on their job with a side hustle - Diversified income creates freedom and reduces dependence.
+2. They treat everybody equally (including the cleaner) - Respect builds trust and earns loyalty from everyone.
+3. They rebel against micromanagement & dictator leaders - Independence drives creativity and better decision-making.
+4. They know when to say no to a meeting - Protecting time ensures focus on meaningful work.
+5. They help others advance in their career - Success multiplies when you lift others up.
+6. They don't respond to most emails - Prioritizing communication prevents wasting time on distractions.
+7. They stay away from gossip and corporate politics - Drama-free zones allow for clarity and productivity.
+8. They create passive income so if they get fired, it matters less - Financial independence gives you leverage and peace of mind.
+9. They try entrepreneurship at least onc - Building something of your own expands skills and resilience.
+10. They’re fine being the dumbest person in the room - Surrounding yourself with experts accelerates learning and growth.
+11. They ruthlessly protect their time - Time is your most valuable asset - guard it wisely.
+12. They focus on outcomes, not KPIs - Results matter more than arbitrary metrics.
+13. They’re wildly open to new ideas - Flexibility sparks innovation and uncovers hidden opportunities.
+14. They create stuff people want - Solving real problems creates lasting impact and value.
+15. They learn without being told - Curiosity fuels self-driven growth and continuous improvement.
+16. They’re humble - Staying grounded keeps you relatable and adaptable.
+
+Greatness isn’t about playing it safe.
+
+It’s about bold, intentional actions
+that challenge the status quo.
+
 ## Others
 
 Background verification tool - [verifydirectintl.com/index.aspx](https://verifydirectintl.com/)

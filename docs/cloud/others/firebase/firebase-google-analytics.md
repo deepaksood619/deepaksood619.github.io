@@ -227,3 +227,11 @@ Mixpanel helps you learn how people use your app with mobile & web analytics. In
 ## Links
 
 - [How to Build Search Terms Report in Google Analytics 4 (GA4) - YouTube](https://www.youtube.com/watch?v=6kCrLKTQzn4)
+- [Enhanced Measurement in Google Analytics 4 - YouTube](https://youtu.be/jRGhWRwlYzk)
+	- **Outbound links for subdomain**
+- [Google Analytics 4 Tutorial for Beginners (2024) \|\| 1-hour GA4 course - YouTube](https://youtu.be/u_ECkoHVlZ8)
+- [Google Tag Manager vs Google Analytics. What’s the difference? - YouTube](https://youtu.be/dxmd2Uy_fIM)
+- [10 things you should configure in any new Google Analytics 4 property - YouTube](https://youtu.be/BaqE6WigOWU)
+- [Advanced Click Tracking with Google Tag Manager (2 examples) - YouTube](https://youtu.be/fjlepTzZ15c)
+- [Data Layer Explained With Practical Examples in Google Tag Manager - YouTube](https://youtu.be/F4ywLz2_u4g)
+- [Click Element Variable in Google Tag Manager (how to use it correctly) - YouTube](https://youtu.be/CKQvEghiHr4)

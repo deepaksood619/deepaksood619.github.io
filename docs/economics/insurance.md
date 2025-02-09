@@ -14,10 +14,29 @@ How much cover is needed
 
 ![How to select a term insurance plan](../media/Pasted%20image%2020240913155100.jpg)
 
+### Life Insurance vs Term Insurance
+
+| Difference                  | Term Insurance                       | Life Insurance                                                                                                                                               |
+| --------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Coverage**                | Only premature death                 | Both premature death and survival until the policy tenure                                                                                                    |
+| **Premiums**                | Low and Affordable                   | Higher Rates                                                                                                                                                 |
+| **Maturity benefit**        | Usually not payable                  | Mostly Payable                                                                                                                                               |
+| **Death benefit**           | Payable                              | Payable                                                                                                                                                      |
+| **Term**                    | 10 to 35 years                       | 5 to 30 years                                                                                                                                                |
+| **Paid-up/Surrender value** | No, paid-up value or surrender value | If premiums are discontinued after a specified number of years, the plan acquires a paid-up value, and if surrendered after that, a surrender value is paid. |
+| **Flexibility**             | Not Flexible                         | Very Flexible                                                                                                                                                |
+
+[Difference Between Term Insurance and Life Insurance](https://groww.in/blog/difference-between-term-insurance-and-life-insurance)
+
 ### Links
 
 - [Reality of Money Back Plans, Guaranteed Income, Endowment | Insurance + Investment? | LLA - YouTube](https://www.youtube.com/watch?v=GqYfI1h4_Yg)
 - [Term Insurance : Ultimate Guide | Watch this to Avoid Scams | LLA - YouTube](https://www.youtube.com/watch?v=FFWtUThoPqw)
+- [Life Insurance 101 with Money Minded Mandeep ‪@LabourLawAdvisor‬ - YouTube](https://youtu.be/Oelck8k9AC8)
+- [Best Life Insurance Plan 2025 \| Term Plan Guide for 2025 \| Pranjal Kamra - YouTube](https://youtu.be/Cm6VKuRfWVI)
+	- Axis Max Life
+	- Reliance Nippon Life
+- [Term Insurance: How to get 2x sum assured at 1/3rd price? \| Masterclass 2025 - YouTube](https://youtu.be/liuKy5IVcHU)
 
 ### ULIPs (Unit Linked Insurance Products)
 

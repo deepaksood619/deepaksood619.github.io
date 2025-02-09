@@ -63,3 +63,5 @@ Since these cases are very common use cases, the problem was easily solved by ch
 ## Further Readings
 
 1. Quick Select - A quicksort variant which finds the kth smallest item in linear time
+
+[Quicksort Algorithm in Five Lines of Code! - Computerphile - YouTube](https://youtu.be/OKc2hAmMOY4)

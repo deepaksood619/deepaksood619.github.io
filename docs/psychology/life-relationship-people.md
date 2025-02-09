@@ -14,6 +14,8 @@ Like should be treated alike
 
 If you trust me then you shouldn't ask for my account statement and if you don't trust me then you should trust my given account statement - Pandit Jawaharlal Nehru to his father
 
+![time spent with family over age](../media/Screenshot%202025-02-09%20at%204.20.44%20PM.jpg)
+
 #### Ernest Hemingway
 
 - Before you talk, listen.

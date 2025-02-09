@@ -157,3 +157,5 @@ https://www.moneycontrol.com/india-investors-portfolio
 - [Smart Money is Buying these Stocks! 🏋️‍♀️ - YouTube](https://www.youtube.com/watch?v=rP2QvQI59lE)
 - [I do 0 SIPs now. Here is why (5 better strategies...) | Akshat Shrivastava - YouTube](https://www.youtube.com/watch?v=UYAYMhtBWbE)
 - [SOIC Special (Live)- Spotting Mega Themes - YouTube](https://www.youtube.com/watch?v=aRfkFcOhl7g)
+- [The Fallen Multibaggers 🔻 - YouTube](https://youtu.be/ImdsvCqy6d0)
+- [Spot Bad Stock in 3 Easy Steps - YouTube](https://youtu.be/9k00YdNjrNs)

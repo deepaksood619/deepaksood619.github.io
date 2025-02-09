@@ -46,11 +46,6 @@
     - [Llama 3 cost more than $720 million to train : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1cyxdgc/llama_3_cost_more_than_720_million_to_train/)
     - [Llama 3.1 launched and it is gooooood! - by Bugra Akyildiz](https://mlops.substack.com/p/llama-31-launched-and-it-is-gooooood)
 - [SQLCoder-2–7b: How to Reliably Query Data in Natural Language, on Consumer Hardware | by Sjoerd Tiemensma | Use AI | Medium](https://medium.com/use-ai/sqlcoder-2-7b-how-to-reliably-query-data-in-natural-language-on-consumer-hardware-cb352a3cf3ab)
-- [DeepSeek](https://www.deepseek.com/)
-	- [Run DeepSeek-R1 on Your Laptop with Ollama - DEV Community](https://dev.to/shayy/run-deepseek-locally-on-your-laptop-37hl)
-	- [The Illustrated DeepSeek-R1 - by Jay Alammar](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)
-	- [AWS \| Community \| Deploy DeepSeek R1 on AWS Bedrock](https://community.aws/content/2sIJqPaPMtmNxlRIQT5CzpTtziA/deploy-deepseek-r1-on-aws-bedrock)
-	- [Deploying DeepSeek R1 Model on Amazon Bedrock: A Comprehensive Guide - DEV Community](https://dev.to/aws-builders/deploying-deepseek-r1-model-on-amazon-bedrock-a-comprehensive-guide-39o0)
 
 | Model              | Parameters | Size  |
 | ------------------ | ---------- | ----- |
@@ -75,6 +70,15 @@ Note: You should have at least 8 GB of RAM available to run the 7B models, 16 GB
     - aligned by an alignment team
     - Remove refusals
 - [Introduction | Mistral AI Large Language Models](https://docs.mistral.ai/)
+
+#### [DeepSeek](https://www.deepseek.com/)
+
+![DeepSeek 1 pager](../../media/Screenshot%202025-02-09%20at%2012.59.23%20AM.jpg)
+
+- [Run DeepSeek-R1 on Your Laptop with Ollama - DEV Community](https://dev.to/shayy/run-deepseek-locally-on-your-laptop-37hl)
+- [The Illustrated DeepSeek-R1 - by Jay Alammar](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)
+- [AWS \| Community \| Deploy DeepSeek R1 on AWS Bedrock](https://community.aws/content/2sIJqPaPMtmNxlRIQT5CzpTtziA/deploy-deepseek-r1-on-aws-bedrock)
+- [Deploying DeepSeek R1 Model on Amazon Bedrock: A Comprehensive Guide - DEV Community](https://dev.to/aws-builders/deploying-deepseek-r1-model-on-amazon-bedrock-a-comprehensive-guide-39o0)
 
 #### Dolphin-2.5x-mixtral
 

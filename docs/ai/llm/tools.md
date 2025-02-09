@@ -115,7 +115,7 @@
 - [Home - teachafy](https://assistant.teachafy.com/)
 	- [Teachafy Labs](https://teachafy.com/)
 
-## AI Agents
+## AI Agents / LLM Agents
 
 - [agent.ai \| The Professional Network for AI Agents](https://agent.ai/agents)
 - [AI Agents Directory - Find and Compare AI Assistants \| AI Agents List](https://aiagentslist.com/)

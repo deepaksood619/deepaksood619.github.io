@@ -61,6 +61,7 @@ Contextual Retrieval enhances each chunk by adding specific, explanatory context
 - [GraphRAG: New tool for complex data discovery now on GitHub - Microsoft Research](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/)
 - [Neo4j | 🦜️🔗 LangChain](https://python.langchain.com/docs/integrations/graphs/neo4j_cypher/)
 	- langchain cypher qa chain
+- [YouTube](https://youtu.be/Z_4rohX4Ki8)
 
 ![Graph RAG](../../media/Screenshot%202024-12-27%20at%2011.34.53%20AM.jpg)
 
@@ -99,3 +100,4 @@ Contextual Retrieval enhances each chunk by adding specific, explanatory context
 - [Advanced RAG Techniques \| Weaviate](https://weaviate.io/blog/advanced-rag)
 - [Multimodal Retrieval Augmented Generation(RAG) \| Weaviate](https://weaviate.io/blog/multimodal-rag)
 - [What is Agentic RAG \| Weaviate](https://weaviate.io/blog/what-is-agentic-rag)
+- [RAG with BigQuery - YouTube](https://youtu.be/2kUNLAnXuUE)

@@ -9,3 +9,5 @@
 - [2.9 Series](series)
 - [Others](mathematics/algebra/others.md)
 - [Cheatsheet](cheatsheet)
+
+[This open problem taught me what topology is - YouTube](https://youtu.be/IQqtsm-bBRU)

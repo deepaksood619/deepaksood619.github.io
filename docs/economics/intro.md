@@ -8,6 +8,8 @@ WEF - You will own nothing and be happy about it
 
 Any changes made to the economy changes atleast 3 more things
 
+Yes, the planet got destroyed, but for a beautiful moment in time we created a lot of value for shareholders.
+
 ## How the economic machine works
 
 ![image](../media/eco-Intro-image1.jpg)

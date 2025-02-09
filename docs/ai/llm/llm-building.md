@@ -133,6 +133,8 @@ docker exec -it ollama ollama run mistral
 
 [Run DeepSeek-R1 on Your Laptop with Ollama - DEV Community](https://dev.to/shayy/run-deepseek-locally-on-your-laptop-37hl)
 
+[Jan: Open source ChatGPT-alternative that runs 100% offline - Jan](https://jan.ai/)
+
 ### oobabooga
 
 A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
@@ -159,11 +161,15 @@ Ludwig enables you to apply state-of-the-art tabular, natural language processin
 - [Accelerating Systems with Real-time AI Solutions - Groq](https://wow.groq.com/)
 - [CrewAI](https://www.crewai.com/)
 
-## LLM Agent
+## LLM Agents / LLM Agent
 
 An LLM Agent is a software entity capable of reasoning and autonomously executing tasks.
 
 [GitHub - viktoriasemaan/multi-agent: Examples of AI Multi-Agent Solutions](https://github.com/viktoriasemaan/multi-agent)
+
+[Building LLM Agents with Tool Use - YouTube](https://youtu.be/5drn2DO7gNY)
+
+[AI Agents Are Changing AWS Cost Prediction - YouTube](https://youtu.be/_cjuQlc62uc)
 
 ## Resources
 
@@ -188,3 +194,6 @@ An LLM Agent is a software entity capable of reasoning and autonomously executin
 - [Building LLMs from the Ground Up: A 3-hour Coding Workshop - YouTube](https://www.youtube.com/watch?v=quh7z1q7-uc&ab_channel=SebastianRaschka)
 - [How AWS engineers infrastructure to power generative AI](https://www.aboutamazon.com/news/aws/aws-infrastructure-generative-ai)
 - [Advanced RAG Pipelines with LlamaIndex & Amazon Bedrock - YouTube](https://www.youtube.com/watch?v=crRyVZldwtg&ab_channel=AWSDevelopers)
+- [Deep Dive into LLMs like ChatGPT - YouTube](https://youtu.be/7xTGNNLPyMI)
+- [How Do AI Agents Actually Work? - YouTube](https://youtu.be/ASqYh4g4dgA)
+- [What makes LLM tokenizers different from each other? GPT4 vs. FlanT5 Vs. Starcoder Vs. BERT and more - YouTube](https://youtu.be/rT6wVLEDC_w)

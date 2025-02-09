@@ -117,6 +117,7 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 
 ### New Home
 
+- Buy home where new metro stations are coming up
 - Study Room / Office Room / GYM (2 desks for WFH - no bed or people or clutter in study room)
 - Buy home in parents name, so can pay house rent and deduct HRA) / Housing / Condominiums
 - Near beach & independent house with open areas and no humidity and no huge temperature variance (in a different country, with low income tax and high HDI, happiness index, low crime, low inequality, good education, no racism)

@@ -47,6 +47,10 @@
 
 [BrahMos Supersonic Cruise Missile [Explained] | Science and Technology for UPSC Prelims & Mains 2022 - YouTube](https://www.youtube.com/watch?v=1gwRy8t2wCA)
 
+## Delhi Metro
+
+![Delhi Metro New Phase](../../media/Screenshot%202025-02-08%20at%209.41.37%20PM.jpg)
+
 ## Others
 
 [India has a Big Stray Dogs Problem | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=tMsf6i7yID8)

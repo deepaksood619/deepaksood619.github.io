@@ -50,7 +50,7 @@ No matter what AI framework you pick, I always recommend using a robust data pla
 - [Neo4j LLM Knowledge Graph Builder - Extract Nodes and Relationships from Unstructured Text](https://neo4j.com/labs/genai-ecosystem/llm-graph-builder/)
 - [GraphRAG Python Package: Accelerating GenAI With Knowledge Graphs](https://neo4j.com/blog/graphrag-python-package/)
 - [User Guide: RAG — neo4j-graphrag-python documentation](https://neo4j.com/docs/neo4j-graphrag-python/current/user_guide_rag.html#retriever-configuration)
-- [Site Unreachable](https://neo4j.com/labs/genai-ecosystem/genai-stack/)
+- [GenAI Stack](https://neo4j.com/labs/genai-ecosystem/genai-stack/)
 
 ##### Courses
 

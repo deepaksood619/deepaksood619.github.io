@@ -4,6 +4,7 @@
 - [Machine Learning Course for Beginners](https://www.youtube.com/watch?v=NWONeJKn6kc)
 - https://github.com/josephmisiti/awesome-machine-learning
 - https://www.freecodecamp.org/news/best-machine-learning-courses
+- [AI Engineer Roadmap – How to Learn AI in 2025 - YouTube](https://youtu.be/nYXVvK-Wmn0)
 
 ## LLM
 

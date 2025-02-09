@@ -34,3 +34,4 @@ brew install duckdb
 - [GitHub - duckdb-in-action/examples](https://github.com/duckdb-in-action/examples)
 - [Introduction to DuckDB: A Guide for Data Analysis | DataCamp](https://www.datacamp.com/blog/an-introduction-to-duckdb-what-is-it-and-why-should-you-use-it)
 - [Handling Billions of Rows with SQL in Minutes Using DuckDB | Towards Data Science](https://towardsdatascience.com/handling-billions-of-records-in-minutes-with-sql-%EF%B8%8F-484d2d6027bc)
+- [QuackETL\| DuckDB-Powered Lightweight ETL: An Extensible Framework for Seamless Data Integration - YouTube](https://youtu.be/fo7-rRRVHf8)
