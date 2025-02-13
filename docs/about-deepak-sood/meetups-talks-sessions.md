@@ -58,6 +58,10 @@ https://www.commudle.com/fill-form/3152
 
 [ChatGPT - ML Weekend Presentation Ideas](https://chatgpt.com/share/679f334e-ed74-8005-9e10-5893e55b715b)
 
+[Deepak Sood on LinkedIn: #ai #machinelearning #vertexai #automation #tfugghaziabad #pydelhi…](https://www.linkedin.com/posts/deepaksood619_newevent-newpost-speaker-activity-7295867621755756544-WJT6?utm_source=share&utm_medium=member_desktop)
+
+![ML Saturday](../media/Pasted%20image%2020250213234404.png)
+
 ### AI use cases for Dummies
 
 - Use Cases

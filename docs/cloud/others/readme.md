@@ -25,6 +25,7 @@
 	- [CDN Comparision](cloud/others/cdn-comparision.md)
 	- [Cloudflare](cloud/others/cloudflare.md)
 	- [Amazon Cloudfront](cloud/aws/networking-content-delivery/amazon-cloudfront.md)
+	- [Akamai](cloud/others/akamai.md)
 - [Imagekit](cloud/others/imagekit.md)
 - [Ticketing / TMS](ticketing-tms)
 - [Loan Management System (LMS)](cloud/others/loan-management-system-lms.md)

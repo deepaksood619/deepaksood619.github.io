@@ -196,6 +196,7 @@ https://www.freecodecamp.org/news/how-to-use-google-tag-manager-to-maintain-goog
 	- Variables
 - **[Data Layer in Google Tag Manager || GTM Data Layer Tutorial with examples - YouTube](https://www.youtube.com/watch?v=hyZQLQITeV4)**
 - [Easily Track Button Clicks in Google Analytics 4 - YouTube](https://www.youtube.com/watch?v=kl-th7gl0HQ)
+- [How To Track Page Load Time In GA4 (Google Analytics 4)](https://www.lovesdata.com/blog/page-load-google-analytics)
 
 ## Others
 

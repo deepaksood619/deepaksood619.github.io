@@ -108,5 +108,6 @@ By utilizing Anycast routing, CDNs can ensure optimal performance and user exper
 - [CDN Comparision](cloud/others/cdn-comparision.md)
 - [Amazon Cloudfront](cloud/aws/networking-content-delivery/amazon-cloudfront.md)
 - [Cloudflare](cloud/others/cloudflare.md)
+- [Akamai](cloud/others/akamai.md)
 - [Guide to AWS Lambda@Edge A/B Testing](https://www.toptal.com/aws/ab-testing-with-aws-lambda-at-edge)
 - [CDN vs Caching: How They Both Are Different In Work? | by Mark Smith | Medium](https://zrix.medium.com/cdn-vs-caching-how-they-both-are-different-in-work-efd8db89e139)
