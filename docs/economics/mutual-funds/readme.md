@@ -35,7 +35,7 @@ Therefore, a mutual fund cannot fail like a bank. It can, however, get into trou
 
 ### What is the purpose of a show cause notice?
 
-A show cause notice **signals an intention by an employer to take disciplinary action if suitable reasons are not provided for the behaviour by the employee**. A show cause notice may be given after a workplace investigation, disclosure by a third party or an admission by the employee themselves.
+A show cause notice **signals an intention by an employer to take disciplinary action if suitable reasons are not provided for the behaviour by the employee**. A show cause notice may be given after a workplace investigation, disclosure by a third party or an admission by the employee themselves.
 
 ### AMCs
 

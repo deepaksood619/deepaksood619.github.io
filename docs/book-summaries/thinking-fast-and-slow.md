@@ -49,7 +49,7 @@ If we are lazy and lazy to use System 2, our mind will limit its intelligent pow
 
 ### 3: Autopilot: why we don't always consciously control our thoughts and actions
 
-What comes to mind when you see the letters "SO_P" ? Maybe nothing. But what if you see the word "EAT" first? Now, when you look at the word "SO_P" again, you should be able to complete it as "SOUP." This process is also known as  _priming_ .
+What comes to mind when you see the letters "SO_P" ? Maybe nothing. But what if you see the word "EAT" first? Now, when you look at the word "SO_P" again, you should be able to complete it as "SOUP." This process is also known as  _priming_ .
 
 We are baited when we come across a word, concept, or event that reminds us of related words and concepts. If you looked at the word "SHOWER" instead of the word "EAT" above, you would probably picture the word "SOAP".
 
@@ -69,11 +69,11 @@ Imagine you meet someone named Ben at a party and find him very approachable. Th
 
 In other words, you like one part of Ben's personality, and so you think you like everything else about him. We often love or hate a person even though we know very little about them.
 
-The mind's tendency to simplify things without enough information often leads to judgmental errors. This phenomenon is called exaggerated emotional consistency, also known as _the halo effect_ : a positive feeling about Ben's closeness causes you to place an aura on Ben, including when you don't understand what he is.
+The mind's tendency to simplify things without enough information often leads to judgmental errors. This phenomenon is called exaggerated emotional consistency, also known as _the halo effect_ : a positive feeling about Ben's closeness causes you to place an aura on Ben, including when you don't understand what he is.
 
 But this is not the only way our minds take shortcuts when making judgments.
 
-People also  _have confirmation bias_ , the tendency to agree with information that supports their previous beliefs, as well as to accept whatever fits it.
+People also  _have confirmation bias_ , the tendency to agree with information that supports their previous beliefs, as well as to accept whatever fits it.
 
 We can observe this phenomenon when we ask, "Is James friendly?". Studies show that, when faced with this kind of question with no other information, it's easy to see James as a friendly person - because the mind automatically agrees with the suggested idea.
 
@@ -83,17 +83,17 @@ Like dropping bait, these cognitive phenomena can occur completely unconsciously
 
 ### 5: Reflection: How quickly the mind uses shortcuts to make decisions
 
-We often find ourselves in situations where we have to make quick judgments. To do this, our minds have developed little shortcuts to help us instantly make sense of our surroundings. These are called  _heuristics_ .
+We often find ourselves in situations where we have to make quick judgments. To do this, our minds have developed little shortcuts to help us instantly make sense of our surroundings. These are called  _heuristics_ .
 
-For the most part, these processes are very useful, but the problem is that our minds often overuse them. Applying these rules in inappropriate situations can lead to mistakes. To better understand what heuristics are and the errors that follow, we can consider two types:  _the substitution heuristic_  and  _the availability heuristic_ .
+For the most part, these processes are very useful, but the problem is that our minds often overuse them. Applying these rules in inappropriate situations can lead to mistakes. To better understand what heuristics are and the errors that follow, we can consider two types:  _the substitution heuristic_  and  _the availability heuristic_ .
 
-_Alternative heuristics_  occurs when we answer an easier question than the one actually asked.  
+_Alternative heuristics_  occurs when we answer an easier question than the one actually asked.  
 
 For example, try this question: "A woman is running for sheriff. How successful will she be in that ministry?" We automatically replace the question we should have answered with an easier one, like, "Does she look like someone who would make a good sheriff?" This experimentation means that instead of researching a candidate's profile and policies, we are simply asking ourselves the much easier question of whether this woman fits our mental image of a candidate. good sheriff or not.
 
 Unfortunately, if she doesn't fit that mental image, we'll throw her out – even though she has years of crime fighting experience, which makes her a good candidate.
 
-Next comes the  _built-in heuristics_ , which is when you think something is more likely to happen just because you hear about it more often, or find it easier to remember. For example, strokes cause more deaths than traffic accidents, but one study found that 80% of respondents thought more people died from traffic accidents.
+Next comes the  _built-in heuristics_ , which is when you think something is more likely to happen just because you hear about it more often, or find it easier to remember. For example, strokes cause more deaths than traffic accidents, but one study found that 80% of respondents thought more people died from traffic accidents.
 
 That's because we hear more about these deaths in the media, and because they leave a deeper impression; We remember deaths from a horrible accident more easily than from a stroke, and so we are more likely to react inappropriately to these dangers.
 
@@ -101,13 +101,13 @@ That's because we hear more about these deaths in the media, and because they le
 
 How can you predict this will happen or not?
 
-One effective way is to remember  _the base rate_ . It refers to the base rate in the statistic, on which the other statistics depend. For example, imagine a large taxi company has 20% yellow cars and 80% red cars. That is, the base rate for yellow taxis is 20% and for red cars is 80%. If you call a car and want to guess its color, remember the base scale and you will make a relatively accurate prediction.
+One effective way is to remember  _the base rate_ . It refers to the base rate in the statistic, on which the other statistics depend. For example, imagine a large taxi company has 20% yellow cars and 80% red cars. That is, the base rate for yellow taxis is 20% and for red cars is 80%. If you call a car and want to guess its color, remember the base scale and you will make a relatively accurate prediction.
 
 So one should always keep the base rate in mind when predicting an event, but unfortunately this is not usually the case. In fact, forgetting about the base rate is extremely common.
 
 One of the reasons we forget about our base rate is that we focus on what we expect rather than what is most likely to happen. For example, imagine the taxis above: If you see five red cars passing by, you may begin to feel the high probability that the next one will be red. But no matter how many cars of any color pass, the probability that the next car is red is still about 80% – and if we remember the base rate, we will realize this. But instead, we often focus on what we expect to see, a yellow car, and so it's easy to make mistakes.
 
-Neglecting the base rate is a common error related to human problems when dealing with data. We often forget that everything will  _regress to the average_ . It means admitting that all situations have a mean, and that fluctuations from the mean will eventually return to equilibrium.
+Neglecting the base rate is a common error related to human problems when dealing with data. We often forget that everything will  _regress to the average_ . It means admitting that all situations have a mean, and that fluctuations from the mean will eventually return to equilibrium.
 
 For example, if a football striker who scores 5 goals a month on average, scores 10 goals in September, her coach will be delighted, but if the rest of the year she only scores 5 goals 1 month, the coach would criticize her for not keeping her form. However, she does not deserve to be criticized because she is just regressing to the mean!
 
@@ -115,23 +115,23 @@ For example, if a football striker who scores 5 goals a month on average, scores
 
 Our minds don't record experiences in a straight line. We have two machines that record different situations.
 
-The first is  _the experiential self_ , recording how you feel in the present. It asks, "How am I feeling right now?"
+The first is  _the experiential self_ , recording how you feel in the present. It asks, "How am I feeling right now?"
 
-Second, is  _the flashback_ being , which records the entire event that happened. It asks, "How do I feel in general?"
+Second, is  _the flashback_ being , which records the entire event that happened. It asks, "How do I feel in general?"
 
-_The experiencing_  self is a more accurate description of what happened, because how we feel at that moment is the most accurate. But  _the flashback ontology_  is not as accurate because it records only some of the salient memories after the event is over.
+_The experiencing_  self is a more accurate description of what happened, because how we feel at that moment is the most accurate. But  _the flashback ontology_  is not as accurate because it records only some of the salient memories after the event is over.
 
-There are two reasons why memory dominates experience. The first cause is called  _duration neglect_ , where we forget the whole course of an event to remember a small part of it. That's because  _of the peak-end rule_ , where we often overemphasize what happens at the end of an event.
+There are two reasons why memory dominates experience. The first cause is called  _duration neglect_ , where we forget the whole course of an event to remember a small part of it. That's because  _of the peak-end rule_ , where we often overemphasize what happens at the end of an event.
 
 For visualization, consider an experiment that recorded people's memories of a painful colonoscopy. Before the endoscopy, people were divided into two groups: one group had a very long colonoscopy, while the other group had a faster endoscopy, but the pain gradually increased at the end.
 
-You would think the most uncomfortable patients were those who had a longer colonoscopy, because they had to endure the pain longer. That's exactly how they felt at the time. During an endoscopy, when asked about pain, the experience self will give the correct answer: whoever has to have the colonoscopy longer will feel worse. However, in the end, when the flashback self took over, those who had a quick colonoscopy with a more painful ending felt the worst. This survey provides a clear example of  _the effects of ignoring time_  and  _the law of peaks and troughs_ , and our inaccurate memories.
+You would think the most uncomfortable patients were those who had a longer colonoscopy, because they had to endure the pain longer. That's exactly how they felt at the time. During an endoscopy, when asked about pain, the experience self will give the correct answer: whoever has to have the colonoscopy longer will feel worse. However, in the end, when the flashback self took over, those who had a quick colonoscopy with a more painful ending felt the worst. This survey provides a clear example of  _the effects of ignoring time_  and  _the law of peaks and troughs_ , and our inaccurate memories.
 
 ### 8: Willpower: how regulating the focus of the mind can have a dramatic effect on our thoughts and behavior
 
-Our minds use different levels of energy depending on the type of work. When there is no need to call for attention and little energy, we are in a state  _of cognitive ease_ .
+Our minds use different levels of energy depending on the type of work. When there is no need to call for attention and little energy, we are in a state  _of cognitive ease_ .
 
-However, when attention is needed, the mind uses more energy and enters a  _cognitive strain._
+However, when attention is needed, the mind uses more energy and enters a  _cognitive strain._
 
 These changes in the brain's energy levels have a dramatic effect on the way we act. When the mind is at ease, the emotional System 1 dominates the mind, and the logical and energy-intensive System 2 weakens. This means we'll be more intuitive, creative, and happy to make decisions, but we're also more likely to make mistakes.
 
@@ -153,7 +153,7 @@ For example, people will find a rare event more likely to happen than it is expr
 
 In an example also known as the Mr. Experiment. Jones, two groups of psychiatrists were consulted about whether it was safe to release Mr. Jones from a psychiatric hospital at this time. One group was told that patients like Mr Jones had a "10% chance of assaulting others," and a second group was told that "out of 100 patients like Mr Jones, 10 are likely to commit violence." As a result, group 2 had twice as many people refusing to release people as group 1.
 
-Our focus is also distracted from statistically relevant information, known as  _denominator neglect_ . This happens when we ignore obvious statistics in favor of vivid mental images that can influence our decisions.
+Our focus is also distracted from statistically relevant information, known as  _denominator neglect_ . This happens when we ignore obvious statistics in favor of vivid mental images that can influence our decisions.
 
 For example the following two sentences: "This drug will protect children from disease X but has 0.001% permanent disfigurement" with "1 in 100,000 children taking this medicine will be permanently disfigured." Even though the meaning of the two sentences is the same, the latter conjures up the image of a deformed baby and has a greater impact, and that is why it makes us hesitate to take this drug.
 
@@ -173,7 +173,7 @@ So imagine two people, John and Jenny, both have a combined net worth of $5 mill
 
 But what if we complicate matters a little more? Let's say the $5 million fortune is the result of a day of gambling, and the two have different starting points: John initially has only $1 million and ends up getting 5 times as much, whereas Jenny starts with 9 million dollars and the loss is only 5 million dollars.
 
-Do you still think John and Jenny are equally happy with $5 million? Obviously, we judge things  _by more than mere utility_ .
+Do you still think John and Jenny are equally happy with $5 million? Obviously, we judge things  _by more than mere utility_ .
 
 As we will see in the next section, because people do not view utility as rationally as utility theory asserts, we can make strange and irrational decisions.
 
@@ -181,7 +181,7 @@ As we will see in the next section, because people do not view utility as ration
 
 If utility theory is false, which theory is correct?
 
-Another alternative is  _prospect theory_ , developed by the author himself
+Another alternative is  _prospect theory_ , developed by the author himself
 
 Kahneman's prospect theory challenges utility theory by showing that when we make choices, we don't always act in the most rational way.
 
@@ -191,13 +191,13 @@ If we were to decide only rationally, you would make the same choice in both cas
 
 Prospect theory helps to explain why there is a difference. It highlights at least two reasons why we don't act rationally. Both refer to our fear of loss – in fact, we are more afraid of losing than of receiving a profit.
 
-The first reason is that we value things based on  _reference points_ . Starting at $1000 or $2000 in either scenario changes our ability to gamble, because the starting point affects how we value our positions. The reference point in case 1 is $1000 and $2000 in case 2, meaning if there is $1500 left, it is a profit on TH1 but a loss in TH2. Even with obvious illogical reasoning (because you have $1500 anyway), we understand value through the starting point as well as the objective value at that point.
+The first reason is that we value things based on  _reference points_ . Starting at $1000 or $2000 in either scenario changes our ability to gamble, because the starting point affects how we value our positions. The reference point in case 1 is $1000 and $2000 in case 2, meaning if there is $1500 left, it is a profit on TH1 but a loss in TH2. Even with obvious illogical reasoning (because you have $1500 anyway), we understand value through the starting point as well as the objective value at that point.
 
-Second, we are influenced by  _the diminishing sensitivity principle_ : our perceived value may differ from what it is. For example, losing money from $1000 to $900 doesn't feel as bad as losing money from $200 to $100, regardless of the amount lost. Similarly in our example, the value of the perceived loss when losing money from $1500 to $1000 will be greater than the loss from $2000 to $1500.
+Second, we are influenced by  _the diminishing sensitivity principle_ : our perceived value may differ from what it is. For example, losing money from $1000 to $900 doesn't feel as bad as losing money from $200 to $100, regardless of the amount lost. Similarly in our example, the value of the perceived loss when losing money from $1500 to $1000 will be greater than the loss from $2000 to $1500.
 
 ### 12: False images: why psychology builds a complete picture to explain the world, but they often lead to overconfidence and falsehoods
 
-To understand situations, our minds use  _cognitive coherence_ ; We construct complete mental images to explain ideas and concepts. For example, we have a lot of images in the brain about the weather. If we have a picture of summer weather, maybe a picture of a bright, hot sun makes us sweat profusely.
+To understand situations, our minds use  _cognitive coherence_ ; We construct complete mental images to explain ideas and concepts. For example, we have a lot of images in the brain about the weather. If we have a picture of summer weather, maybe a picture of a bright, hot sun makes us sweat profusely.
 
 In addition to helping us understand things, we also rely on these images to make decisions.
 
@@ -207,9 +207,9 @@ The problem is that we trust these images too much. Even if the statistics and a
 
 We are overconfident in false mental images. But there are ways to overcome this problem and make better predictions.
 
-One way to avoid errors is to make use of  _reference class forecasting._ Instead of making judgments based on general mental images, use historical data for more accurate predictions. For example, think about times when you've been out in the summer and it's cold. What did you wear then?
+One way to avoid errors is to make use of  _reference class forecasting._ Instead of making judgments based on general mental images, use historical data for more accurate predictions. For example, think about times when you've been out in the summer and it's cold. What did you wear then?
 
-In addition, you can create a  long-term _risk policy_  , to plan for specific measures in case of both standard and false forecasts. Through preparation and defense, you can rely on evidence instead of mental images and make more accurate forecasts. In the case of our weather, this means bringing a sweater just to be sure.
+In addition, you can create a  long-term _risk policy_  , to plan for specific measures in case of both standard and false forecasts. Through preparation and defense, you can rely on evidence instead of mental images and make more accurate forecasts. In the case of our weather, this means bringing a sweater just to be sure.
 
 ### 13: Key message
 

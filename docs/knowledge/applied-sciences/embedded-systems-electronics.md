@@ -133,17 +133,17 @@ https://www.toptal.com/embedded/interview-questions
 
 ## IGBT
 
-IGBT stands for **insulated-gate bipolar transistor**. It is a three-terminal power semiconductor device that acts as an electronic switch. IGBTs are suitable for high-voltage, high-current applications.
+IGBT stands for **insulated-gate bipolar transistor**. It is a three-terminal power semiconductor device that acts as an electronic switch. IGBTs are suitable for high-voltage, high-current applications.
 
-IGBTs are a hybrid of MOSFETs and bipolar transistors. They combine a control input with a MOS structure and a bipolar power transistor that acts as an output switch. IGBTs are of two types, N-channel and P-channel.
+IGBTs are a hybrid of MOSFETs and bipolar transistors. They combine a control input with a MOS structure and a bipolar power transistor that acts as an output switch. IGBTs are of two types, N-channel and P-channel.
 
-IGBTs were developed to combine high efficiency with fast switching. They are ubiquitously used in power electronic circuits for the control of power and energy. They enabled transition from analog power control using previous thyristor switches to digital power control with pulse width modulation.
+IGBTs were developed to combine high efficiency with fast switching. They are ubiquitously used in power electronic circuits for the control of power and energy. They enabled transition from analog power control using previous thyristor switches to digital power control with pulse width modulation.
 
 ## MOSFET
 
-A metal-oxide-semiconductor field-effect transistor (MOSFET) is ==a voltage-controlled device that uses an electric field to control the current flowing in it==. MOSFETs are the most common type of field-effect transistor (FET).
+A metal-oxide-semiconductor field-effect transistor (MOSFET) is ==a voltage-controlled device that uses an electric field to control the current flowing in it==. MOSFETs are the most common type of field-effect transistor (FET).
 
-MOSFETs have three terminals: source, gate, and drain. The voltage of the insulated gate determines the conductivity of the device. MOSFETs are used as electrical switches and amplifiers. They can be used in both digital and analog circuits.
+MOSFETs have three terminals: source, gate, and drain. The voltage of the insulated gate determines the conductivity of the device. MOSFETs are used as electrical switches and amplifiers. They can be used in both digital and analog circuits.
 
 MOSFETs have several advantages, including:
 

@@ -4,7 +4,7 @@
 - what is mongodump and if we take backup through mongodump so it will take backup of all the databases or particular databases
 - how do you create replicaset performance matrix in mongodb
 - how to check replicaset is sync or not
-- user roles how do you set roles our database is not connected with outside network security authorisation configuration file
+- user roles how do you set roles our database is not connected with outside network security authorisation configuration file
 - difference between sharding and replicaset
 - how to configure replica set
 - capped collections

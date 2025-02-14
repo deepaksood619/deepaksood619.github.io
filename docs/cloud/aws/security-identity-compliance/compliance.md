@@ -11,23 +11,23 @@ The Payment Card Industry Data Security Standard (PCI-DSS) is a set of requireme
 
 ## SOC Compliance (Service Organization Control)
 
-SOC compliance is a certification that shows a service organization has completed a third-party audit and has certain controls in place. The most common types of SOC compliance are SOC 1, SOC 2, and SOC 3. There are also SOC for Cybersecurity and SOC for Supply Chain certifications.
+SOC compliance is a certification that shows a service organization has completed a third-party audit and has certain controls in place. The most common types of SOC compliance are SOC 1, SOC 2, and SOC 3. There are also SOC for Cybersecurity and SOC for Supply Chain certifications.
 
-SOC 2 compliance is a voluntary certification that shows an organization's commitment to information security. It covers five pillars, called Trust Services Criteria (TSC): Security, Availability, Processing integrity, Confidentiality, Privacy.
+SOC 2 compliance is a voluntary certification that shows an organization's commitment to information security. It covers five pillars, called Trust Services Criteria (TSC): Security, Availability, Processing integrity, Confidentiality, Privacy.
 
-SOC 2 compliance may help organizations avoid data breaches and the financial and reputational damage that can result. It can also increase an organization's brand reputation and give it a competitive advantage.
+SOC 2 compliance may help organizations avoid data breaches and the financial and reputational damage that can result. It can also increase an organization's brand reputation and give it a competitive advantage.
 
-SOC 2, aka **Service Organization Control Type 2**, is a cybersecurity compliance framework developed by the American Institute of Certified Public Accountants (AICPA). The primary purpose of SOC 2 is to ensure that third-party service providers store and process client data in a secure manner.
+SOC 2, aka **Service Organization Control Type 2**, is a cybersecurity compliance framework developed by the American Institute of Certified Public Accountants (AICPA). The primary purpose of SOC 2 is to ensure that third-party service providers store and process client data in a secure manner.
 
 [SOC Compliance - Amazon Web Services (AWS)](https://aws.amazon.com/compliance/soc-faqs/)
 
 ### SOC 2 Type 1 vs Type 2
 
-There are two main types of SOC 2 compliance: _Type 1_ and _Type 2_.
+There are two main types of SOC 2 compliance: _Type 1_ and _Type 2_.
 
-Type 1 attests an organization’s use of compliant systems and processes at a _specific point in time._ Conversely, Type 2 is an attestation of compliance over a period (usually 12 months).
+Type 1 attests an organization’s use of compliant systems and processes at a _specific point in time._ Conversely, Type 2 is an attestation of compliance over a period (usually 12 months).
 
-A Type 1 report describes the controls in use by an organization, and confirms that the controls are properly designed and enforced. A Type 2 report includes everything that’s part of a Type 1 report, along with the attestation that the controls are _operationally effective_.
+A Type 1 report describes the controls in use by an organization, and confirms that the controls are properly designed and enforced. A Type 2 report includes everything that’s part of a Type 1 report, along with the attestation that the controls are _operationally effective_.
 
 ### SOC 1 vs SOC 2 vs SOC 3
 
@@ -166,5 +166,5 @@ The role of compliance officers is crucial for any company to ensure that the bu
 - [GitHub - rkm-ravi94/awesome-it-compliance: This repo contains some details about the IT compliances available.](https://github.com/rkm-ravi94/awesome-it-compliance)
 - CISA Certification - Certified Information Systems Auditor
 - CISO - Chief Information Security Officer
-- CMMI Level 3 - An appraisal at maturity level 3 **indicates an organization is performing at a "defined" level**. At this level, processes are well characterized and understood and are described in standards, procedures, tools, and methods.
-	- Capability Maturity Model Integration (CMMI) helps organizations streamline process improvement and encourage behaviors that decrease risks in software, product, and service development
+- CMMI Level 3 - An appraisal at maturity level 3 **indicates an organization is performing at a "defined" level**. At this level, processes are well characterized and understood and are described in standards, procedures, tools, and methods.
+	- Capability Maturity Model Integration (CMMI) helps organizations streamline process improvement and encourage behaviors that decrease risks in software, product, and service development

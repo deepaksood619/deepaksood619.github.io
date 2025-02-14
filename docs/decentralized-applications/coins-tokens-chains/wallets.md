@@ -53,11 +53,11 @@ Your wallet doesn't have an address; an account within it does. Instead, a MetaM
 
 You can derive more than one account from a Secret Recovery Phrase (seed phrase).
 
-A wallet is a client (a piece of software) with which you manage your accounts.
+A wallet is a client (a piece of software) with which you manage your accounts.
 
 An account is a public-private key pair derived from your Secret Recovery Phrase (SRP).
 
-Your accounts in MetaMask are each represented by a public address (the 'public' side of your key pair), which you may have seen referred to incorrectly as a 'wallet address'. There is no such thing: there is only an account address.
+Your accounts in MetaMask are each represented by a public address (the 'public' side of your key pair), which you may have seen referred to incorrectly as a 'wallet address'. There is no such thing: there is only an account address.
 
 [What's the difference between a wallet and an account? - MetaMask](https://support.metamask.io/hc/en-us/articles/13466457757211-What-s-the-difference-between-a-wallet-and-an-account-)
 

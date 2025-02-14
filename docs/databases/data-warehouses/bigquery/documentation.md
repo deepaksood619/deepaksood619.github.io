@@ -1,6 +1,6 @@
 # Documentation
 
-[Enable the BigQuery sandbox  \|  Google Cloud](https://cloud.google.com/bigquery/docs/sandbox)
+[Enable the BigQuery sandbox  \|  Google Cloud](https://cloud.google.com/bigquery/docs/sandbox)
 
 - [Product overview](https://cloud.google.com/bigquery/docs/introduction)
 
@@ -71,15 +71,15 @@
 
 ### IBM Netezza
 
-Netezza is ==a data warehouse system that offers analytics, AI, and machine learning (ML) capabilities==. It's a subsidiary of IBM, and is available on IBM Cloud, AWS, and Microsoft Azure.
+Netezza is ==a data warehouse system that offers analytics, AI, and machine learning (ML) capabilities==. It's a subsidiary of IBM, and is available on IBM Cloud, AWS, and Microsoft Azure.
 
 #### Features
 
-- **Scalability**: Scales up and down based on usage
-- **Open formats**: Supports open formats like Parquet and Iceberg for secure data sharing
-- **In-database analytics**: Allows users to run complex queries and build models directly in the database
-- **Geospatial capabilities**: Built-in geospatial capabilities for analyzing data
-- **Solid-state disks**: Data is stored on solid-state disks (SSDs) that are self-encrypting drives (SEDs)
+- **Scalability**: Scales up and down based on usage
+- **Open formats**: Supports open formats like Parquet and Iceberg for secure data sharing
+- **In-database analytics**: Allows users to run complex queries and build models directly in the database
+- **Geospatial capabilities**: Built-in geospatial capabilities for analyzing data
+- **Solid-state disks**: Data is stored on solid-state disks (SSDs) that are self-encrypting drives (SEDs)
 
 - [Migrate from IBM Netezza](https://cloud.google.com/bigquery/docs/migration/netezza)
 - [SQL translation reference](https://cloud.google.com/bigquery/docs/migration/netezza-sql)

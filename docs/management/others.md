@@ -47,21 +47,21 @@ This strategy is sometimes called the "**kill the company**" exercise in organiz
 
 ## Gartner Magic Quadrant
 
-**Magic Quadrant** (MQ) is a series of [market research](https://en.wikipedia.org/wiki/Market_research "Market research") reports published by [IT consulting firm](https://en.wikipedia.org/wiki/Information_technology_consulting "Information technology consulting") [Gartner](https://en.wikipedia.org/wiki/Gartner "Gartner") that rely on proprietary [qualitative](https://en.wikipedia.org/wiki/Qualitative_research "Qualitative research") [data analysis](https://en.wikipedia.org/wiki/Data_analysis "Data analysis") methods to demonstrate market trends, such as direction, maturity and participants. Their analyses are conducted for several specific technology industries and are updated every 1–2 years: once an updated report has been published, its predecessor is "retired".
+**Magic Quadrant** (MQ) is a series of [market research](https://en.wikipedia.org/wiki/Market_research "Market research") reports published by [IT consulting firm](https://en.wikipedia.org/wiki/Information_technology_consulting "Information technology consulting") [Gartner](https://en.wikipedia.org/wiki/Gartner "Gartner") that rely on proprietary [qualitative](https://en.wikipedia.org/wiki/Qualitative_research "Qualitative research") [data analysis](https://en.wikipedia.org/wiki/Data_analysis "Data analysis") methods to demonstrate market trends, such as direction, maturity and participants. Their analyses are conducted for several specific technology industries and are updated every 1–2 years: once an updated report has been published, its predecessor is "retired".
 
 ### Rating
 
-Gartner rates vendors upon two criteria: completeness of [vision](https://en.wikipedia.org/wiki/Vision_statement "Vision statement") and ability to execute
+Gartner rates vendors upon two criteria: completeness of [vision](https://en.wikipedia.org/wiki/Vision_statement "Vision statement") and ability to execute
 
-**Completeness of vision** – Reflects the vendor's innovation, and whether the vendor drives or follows the market.
+**Completeness of vision** – Reflects the vendor's innovation, and whether the vendor drives or follows the market.
 
-**Ability to execute** – Summarizes factors such as the vendor's financial viability, market responsiveness, product development, sales channels and customer base.
+**Ability to execute** – Summarizes factors such as the vendor's financial viability, market responsiveness, product development, sales channels and customer base.
 
 The two component scores lead to a vendor position in one of four quadrants:
 
 #### Leaders
 
-Vendors in the "Leaders" quadrant have the highest composite scores for their *completeness of vision* and *ability to execute*. A vendor in the Leaders quadrant has the market share, credibility, and marketing & sales capabilities needed to drive the acceptance of new technologies. These vendors demonstrate a clear understanding of market needs, they are innovators and thought leaders, and they have well-articulated plans that customers and prospects can use when designing their infrastructures and strategies. In addition, they have a presence in the five major geographical regions, consistent financial performance, and broad platform support.
+Vendors in the "Leaders" quadrant have the highest composite scores for their *completeness of vision* and *ability to execute*. A vendor in the Leaders quadrant has the market share, credibility, and marketing & sales capabilities needed to drive the acceptance of new technologies. These vendors demonstrate a clear understanding of market needs, they are innovators and thought leaders, and they have well-articulated plans that customers and prospects can use when designing their infrastructures and strategies. In addition, they have a presence in the five major geographical regions, consistent financial performance, and broad platform support.
 
 #### Challengers
 

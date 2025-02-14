@@ -34,9 +34,9 @@ A good INP score is 200 milliseconds or less, according to Google.
 
 [What Is Interaction to Next Paint? INP vs. FID Explained](https://www.semrush.com/blog/google-inp/)
 
-[Introducing INP to Core Web Vitals  |  Google Search Central Blog  |  Google for Developers](https://developers.google.com/search/blog/2023/05/introducing-inp)
+[Introducing INP to Core Web Vitals  |  Google Search Central Blog  |  Google for Developers](https://developers.google.com/search/blog/2023/05/introducing-inp)
 
-- **Update on March 12, 2024**: [Interaction to Next Paint (INP) has replaced FID](https://web.dev/blog/inp-cwv-launch) as a part of Core Web Vitals.
+- **Update on March 12, 2024**: [Interaction to Next Paint (INP) has replaced FID](https://web.dev/blog/inp-cwv-launch) as a part of Core Web Vitals.
 
 ## Cumulative Layout Shift (CLS)
 

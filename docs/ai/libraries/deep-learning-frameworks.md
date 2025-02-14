@@ -4,13 +4,13 @@
 
 PyTorch ( Tensors and Dynamic neural networks in Python with strong GPU acceleration)
 
-**PyTorch** is TensorFlow’s direct competitor developed by Facebook, and is widely used in research projects. It allows almost unlimited customization and is well adapted to running tensor operations on GPUs (actually, so is TensorFlow).
+**PyTorch** is TensorFlow’s direct competitor developed by Facebook, and is widely used in research projects. It allows almost unlimited customization and is well adapted to running tensor operations on GPUs (actually, so is TensorFlow).
 
 ## [Keras](ai/libraries/keras.md)
 
 - High-level neural networks API. Makes coding, training, and deploying neural networks incredibly easy with its scikit-learn style API.
 
-**Keras** is built on top of TensorFlow, which makes it a wrapper for deep learning purposes. It is incredibly user-friendly and easy to pick up. A solid asset is its neural network block modularity and the fact that it is written in Python, which makes it easy to debug.
+**Keras** is built on top of TensorFlow, which makes it a wrapper for deep learning purposes. It is incredibly user-friendly and easy to pick up. A solid asset is its neural network block modularity and the fact that it is written in Python, which makes it easy to debug.
 
 Keras is a high-level neural networks API, written in Python and capable of running on top of [TensorFlow](https://github.com/tensorflow/tensorflow), [CNTK](https://github.com/Microsoft/cntk), or [Theano](https://github.com/Theano/Theano). It was developed with a focus on enabling fast experimentation.Being able to go from idea to result with the least possible delay is key to doing good research.
 
@@ -26,7 +26,7 @@ https://keras.io
 
 Open source machine learning library. Often used for neural networks, deep learning, and as a computational backend for Keras.
 
-**TensorFlow** (TF) is an end-to-end machine learning framework from Google that allows you to perform an extremely wide range of downstream tasks. With [TF2.0](https://blog.tensorflow.org/2019/09/tensorflow-20-is-now-available.html) and newer versions, more efficiency and convenience was brought to the game.
+**TensorFlow** (TF) is an end-to-end machine learning framework from Google that allows you to perform an extremely wide range of downstream tasks. With [TF2.0](https://blog.tensorflow.org/2019/09/tensorflow-20-is-now-available.html) and newer versions, more efficiency and convenience was brought to the game.
 
 ## Differences
 

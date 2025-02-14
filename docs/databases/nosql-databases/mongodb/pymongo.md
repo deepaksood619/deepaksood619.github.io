@@ -16,7 +16,7 @@ https://pypi.org/project/mongoengine
 
 ## motor
 
-Motor is a full-featured, non-blocking [MongoDB](http://mongodb.org/) driver for Python [asyncio](https://docs.python.org/3/library/asyncio.html) and [Tornado](http://tornadoweb.org/) applications. Motor presents a coroutine-based API for non-blocking access to MongoDB.
+Motor is a full-featured, non-blocking [MongoDB](http://mongodb.org/) driver for Python [asyncio](https://docs.python.org/3/library/asyncio.html) and [Tornado](http://tornadoweb.org/) applications. Motor presents a coroutine-based API for non-blocking access to MongoDB.
 
 [GitHub - mongodb/motor: Motor - the async Python driver for MongoDB and Tornado or asyncio](https://github.com/mongodb/motor)
 

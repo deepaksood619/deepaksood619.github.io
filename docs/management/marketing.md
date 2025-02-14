@@ -332,13 +332,13 @@ Social media listening tools allow you to build a solid understanding of exactly
 
 ### What’s the difference between social listening and social monitoring?
 
-While **social media listening is a proactive** way to track, analyze, and respond to online conversations, **social media monitoring is more reactive**.
+While **social media listening is a proactive** way to track, analyze, and respond to online conversations, **social media monitoring is more reactive**.
 
-**Social monitoring** looks at specific brand mentions and sends alerts whenever your brand is mentioned online. It is sometimes referred to as **brand monitoring**. It can be useful for **quickly responding to any negative sentiment or complaints**, but it doesn’t give you a big-picture view of what people are saying about your brand or industry.
+**Social monitoring** looks at specific brand mentions and sends alerts whenever your brand is mentioned online. It is sometimes referred to as **brand monitoring**. It can be useful for **quickly responding to any negative sentiment or complaints**, but it doesn’t give you a big-picture view of what people are saying about your brand or industry.
 
-**Social listening,** on the other hand, gives you **a complete overview of all online conversations related to your brand, products, industry, and competitors.** This holistic approach provides valuable insights that can help you make strategic decisions about your marketing and social media strategy.
+**Social listening,** on the other hand, gives you **a complete overview of all online conversations related to your brand, products, industry, and competitors.** This holistic approach provides valuable insights that can help you make strategic decisions about your marketing and social media strategy.
 
-In short, if you want to stay on top of the latest trends and **see what people are saying about your brand over time**, you need a social listening strategy.
+In short, if you want to stay on top of the latest trends and **see what people are saying about your brand over time**, you need a social listening strategy.
 
 [What is Social Listening, Why it Matters + 14 Tools to Help](https://blog.hootsuite.com/social-listening-business/)
 
@@ -409,7 +409,7 @@ Interstitial ads are full-screen ads that cover the interface of their host app.
 
 https://developers.google.com/admob/android/interstitial
 
-An **interstitial page** is ==a web page that appears before or after a desired content page, often for advertising or regulatory reasons==. Interstitial pages can be interactive pop-ups or full-page ads that float on a webpage or fill a mobile device's screen. They can appear when a user navigates to a page, unhides a tab or window, or clicks the browser's navigation bar.
+An **interstitial page** is ==a web page that appears before or after a desired content page, often for advertising or regulatory reasons==. Interstitial pages can be interactive pop-ups or full-page ads that float on a webpage or fill a mobile device's screen. They can appear when a user navigates to a page, unhides a tab or window, or clicks the browser's navigation bar.
 
 [20 Years Of Marketing - 7 Most Important Lessons Learned](https://www.youtube.com/watch?v=VS4ECrG_0uM)
 

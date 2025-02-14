@@ -38,7 +38,7 @@ Examples
 
 ### Fractionally Algorithmic Stablecoin
 
-Fractional stablecoin is **a type of cryptocurrency that is collaterally backed and algorithmically stabilized**. Fractional stablecoin protocols may vary in their options for collateral backing, with some using liquidity or partially allowing redemptions.
+Fractional stablecoin is **a type of cryptocurrency that is collaterally backed and algorithmically stabilized**. Fractional stablecoin protocols may vary in their options for collateral backing, with some using liquidity or partially allowing redemptions.
 
 [3 Stablecoin Algorithms Explained (Rebase, Empty Set Dollar, Basis Cash, Iron Finance) - YouTube](https://www.youtube.com/watch?v=S7-rfvpEpJs)
 

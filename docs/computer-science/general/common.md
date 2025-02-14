@@ -50,7 +50,7 @@ A mebibyte is a unit of data storage that equals 2 to the 20th power, or 1,048,5
 
 While a [megabyte](https://techterms.com/definition/megabyte) can be estimated as 10^6 or 1,000,000 bytes, a mebibyte is exactly 1,048,576 bytes. This is to avoid the ambiguity associated with the size of megabytes. A mebibyte is 1,024 [kibibytes](https://techterms.com/definition/kibibyte) and precedes the [gibibyte](https://techterms.com/definition/gibibyte) unit of measurement.
 
-GB vs GiB: So What is the Difference? At its most basic level, one GB is defined as 1000³ (1,000,000,000) bytes and one GiB as 1024³ (1,073,741,824) bytes. That means **one GB equals 0.93 GiB**.
+GB vs GiB: So What is the Difference? At its most basic level, one GB is defined as 1000³ (1,000,000,000) bytes and one GiB as 1024³ (1,073,741,824) bytes. That means **one GB equals 0.93 GiB**.
 
 ## YK38 Problem
 
@@ -151,15 +151,15 @@ Software also getting slower with improved processors because developers are wri
 
 ## Haitz's law
 
-**Haitz's law** is an observation and forecast about the steady improvement, over many years, of [light-emitting diodes](https://en.wikipedia.org/wiki/Light-emitting_diode "Light-emitting diode") (LEDs).
+**Haitz's law** is an observation and forecast about the steady improvement, over many years, of [light-emitting diodes](https://en.wikipedia.org/wiki/Light-emitting_diode "Light-emitting diode") (LEDs).
 
-It claims that every decade, the cost per [lumen](https://en.wikipedia.org/wiki/Lumen_(unit) "Lumen (unit)") (unit of useful light emitted) falls by a factor of 10, and the amount of light generated per LED package increases by a factor of 20, for a given wavelength (color) of light. It is considered the LED counterpart to [Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law "Moore's law"), which states that the number of transistors in a given integrated circuit doubles every 18 to 24 months. Both laws rely on the [process optimization](https://en.wikipedia.org/wiki/Process_optimization "Process optimization") of the production of [semiconductor devices](https://en.wikipedia.org/wiki/Semiconductor_device "Semiconductor device").
+It claims that every decade, the cost per [lumen](https://en.wikipedia.org/wiki/Lumen_(unit) "Lumen (unit)") (unit of useful light emitted) falls by a factor of 10, and the amount of light generated per LED package increases by a factor of 20, for a given wavelength (color) of light. It is considered the LED counterpart to [Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law "Moore's law"), which states that the number of transistors in a given integrated circuit doubles every 18 to 24 months. Both laws rely on the [process optimization](https://en.wikipedia.org/wiki/Process_optimization "Process optimization") of the production of [semiconductor devices](https://en.wikipedia.org/wiki/Semiconductor_device "Semiconductor device").
 
 [Haitz's law - Wikipedia](https://en.wikipedia.org/wiki/Haitz%27s_law)
 
 ## Dennard scaling
 
-In [semiconductor electronics](https://en.wikipedia.org/wiki/Semiconductor_electronics "Semiconductor electronics"), **Dennard scaling**, also known as **MOSFET scaling**, is a [scaling law](https://en.wikipedia.org/wiki/Scaling_law "Scaling law") which states roughly that, as [transistors](https://en.wikipedia.org/wiki/Transistor "Transistor") get smaller, their [power density](https://en.wikipedia.org/wiki/Power_density "Power density") stays constant, so that the power use stays in proportion with area; both [voltage](https://en.wikipedia.org/wiki/Voltage "Voltage") and [current](https://en.wikipedia.org/wiki/Electric_current "Electric current") scale (downward) with length. The law, originally formulated for [MOSFETs](https://en.wikipedia.org/wiki/MOSFET "MOSFET"), is based on a 1974 paper co-authored by [Robert H. Dennard](https://en.wikipedia.org/wiki/Robert_H._Dennard "Robert H. Dennard"), after whom it is named.
+In [semiconductor electronics](https://en.wikipedia.org/wiki/Semiconductor_electronics "Semiconductor electronics"), **Dennard scaling**, also known as **MOSFET scaling**, is a [scaling law](https://en.wikipedia.org/wiki/Scaling_law "Scaling law") which states roughly that, as [transistors](https://en.wikipedia.org/wiki/Transistor "Transistor") get smaller, their [power density](https://en.wikipedia.org/wiki/Power_density "Power density") stays constant, so that the power use stays in proportion with area; both [voltage](https://en.wikipedia.org/wiki/Voltage "Voltage") and [current](https://en.wikipedia.org/wiki/Electric_current "Electric current") scale (downward) with length. The law, originally formulated for [MOSFETs](https://en.wikipedia.org/wiki/MOSFET "MOSFET"), is based on a 1974 paper co-authored by [Robert H. Dennard](https://en.wikipedia.org/wiki/Robert_H._Dennard "Robert H. Dennard"), after whom it is named.
 
 [Dennard scaling - Wikipedia](https://en.wikipedia.org/wiki/Dennard_scaling)
 

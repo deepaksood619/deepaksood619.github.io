@@ -1,8 +1,8 @@
 # Application Management
 
-Application management provides a wide variety of application services, processes and methodologies for maintaining, enhancing and managing custom applications, packaged software applications or network-delivered applications.
+Application management provides a wide variety of application services, processes and methodologies for maintaining, enhancing and managing custom applications, packaged software applications or network-delivered applications.
 
-**Application Management** (AM) is the lifecycle process for software applications, covering how an application operates, its maintenance, version control, and upgrades from cradle to grave. Application management services are an enterprise-wide endeavor providing governance designed to ensure applications run at peak performance and as efficiently as possible, from the end-user experience to integration with enterprise back office functions such as database, ERP, and SaaS cloud functions such as CRM.
+**Application Management** (AM) is the lifecycle process for software applications, covering how an application operates, its maintenance, version control, and upgrades from cradle to grave. Application management services are an enterprise-wide endeavor providing governance designed to ensure applications run at peak performance and as efficiently as possible, from the end-user experience to integration with enterprise back office functions such as database, ERP, and SaaS cloud functions such as CRM.
 
 ## Intro
 
@@ -46,7 +46,7 @@ It doesn't matter whether you are a small or large business to use application m
 
 Application Management is an important factor for organizations to innovate. It can bring business process solutions to market more efficiently, quickly and with a lower total cost. However, effectively managed applications are more reliable and less error-prone, which can lead to loss of functionality. Application Management provides many benefits for organizations.
 
-Since not every organization has the capability of staffing full time AM positions, or is already dealing with IT backlog, many organizations rely on application management services (AMS) to augment their AM capabilities. AMS organizations enable the outsourcing of application maintenance and monitoring, and AMS firms then shoulder the responsibility of patch management, bug fixes, and enhancements, freeing up valuable IT, line of business (LOB), and DevSecOps resources. Even large enterprises utilize AMS services to help reduce backlogs, as evidenced by a Gartner report showing that IT backlogs were hindering application adoption.
+Since not every organization has the capability of staffing full time AM positions, or is already dealing with IT backlog, many organizations rely on application management services (AMS) to augment their AM capabilities. AMS organizations enable the outsourcing of application maintenance and monitoring, and AMS firms then shoulder the responsibility of patch management, bug fixes, and enhancements, freeing up valuable IT, line of business (LOB), and DevSecOps resources. Even large enterprises utilize AMS services to help reduce backlogs, as evidenced by a Gartner report showing that IT backlogs were hindering application adoption.
 
 ### Supports innovation
 
@@ -78,7 +78,7 @@ Some AM processes include Application Lifecycle Management (ALM) and Application
 
 Application lifecycle management (ALM) describes the ecosystem that manages an application from cradle to grave. ALM is composed of stakeholders, ALM tools, and a management process that spans each phase of an application’s existence.
 
-As enterprises evolve from traditional waterfall to agile and DevOps to cloud-native applications, ALM tools and processes evolve in sync, so that there may be multiple ALM processes in a given organization depending on where they are in their transition from traditional to [modern applications](https://www.vmware.com/in/topics/glossary/content/application-modernization.html).
+As enterprises evolve from traditional waterfall to agile and DevOps to cloud-native applications, ALM tools and processes evolve in sync, so that there may be multiple ALM processes in a given organization depending on where they are in their transition from traditional to [modern applications](https://www.vmware.com/in/topics/glossary/content/application-modernization.html).
 
 One goal of ALM is to combine these multiple development practices into a comprehensive management methodology that encompasses legacy, agile, and cloud-native development.
 
@@ -150,7 +150,7 @@ Skills that are most often associated with application managers include:
 - Database management
 - Communicating technical concepts to non-IT audiences
 
-Additionally, experience in developing training programs is a big plus, as are advanced data analytics skills such as Big Data and Machine Learning. Those interested in pursuing a career in application management should also research industry associations such as the [Application Developers Alliance](http://www.appdevelopersalliance.org/).
+Additionally, experience in developing training programs is a big plus, as are advanced data analytics skills such as Big Data and Machine Learning. Those interested in pursuing a career in application management should also research industry associations such as the [Application Developers Alliance](http://www.appdevelopersalliance.org/).
 
 ## Links
 

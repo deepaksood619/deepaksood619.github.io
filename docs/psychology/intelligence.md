@@ -6,7 +6,7 @@ Each type is said to represent different ways of how a person best processes inf
 
 Intelligence is real, important, largely heritable, and not particularly changeable -- Scott Young
 
-- It shows strong heritability, with the [g-factor](https://en.wikipedia.org/wiki/G_factor_(psychometrics)) maybe being as much as 85% heritable.
+- It shows strong heritability, with the [g-factor](https://en.wikipedia.org/wiki/G_factor_(psychometrics)) maybe being as much as 85% heritable.
 
 ## 8 Types of Intelligence
 
@@ -89,7 +89,7 @@ Avoid using sentences that begin with "you" and followed by accusation or judgme
 - Bounce back from adversity
 - Express intimate emotions
 
-"the more EQ the better" is not true. Reality: EQ is like sunshine - **you want a good amount of it but too much will give you skin cancer.**
+"the more EQ the better" is not true. Reality: EQ is like sunshine - **you want a good amount of it but too much will give you skin cancer.**
 
 https://deepstash.com/article/2273/how-to-increase-your-emotional-intelligence--6-essentials
 

@@ -6,9 +6,9 @@ How much cover is needed
 
 - Current Expenses - ₹1 lakh / Month
 - Inflation - 5%
-- Till 60 years - ₹4.1 Crore - At 2054 - ₹4.54 L / Month
-- Till 70 years - ₹7.7 Crore - At 2064 - ₹7.39 L / Month
-- Till 80 years - ₹10.9 Crore - At 2074 - ₹12.04 L / Month
+- Till 60 years - ₹4.1 Crore - At 2054 - ₹4.54 L / Month
+- Till 70 years - ₹7.7 Crore - At 2064 - ₹7.39 L / Month
+- Till 80 years - ₹10.9 Crore - At 2074 - ₹12.04 L / Month
 
 [Term Insurance Plan Calculator 2024 | Ditto](https://joinditto.in/term-insurance/cover-calculator/)
 
@@ -56,7 +56,7 @@ How much cover is needed
 
 ### Endowment Fund
 
-An endowment fund is a collection of investments that generates revenue to support charitable activities. The initial capital for an endowment fund comes from donations, which are often tax-deductible. The goal of an endowment fund is to provide a sustainable source of income for charitable activities, while also ensuring long-term financial stability.
+An endowment fund is a collection of investments that generates revenue to support charitable activities. The initial capital for an endowment fund comes from donations, which are often tax-deductible. The goal of an endowment fund is to provide a sustainable source of income for charitable activities, while also ensuring long-term financial stability.
 
 ## Links
 

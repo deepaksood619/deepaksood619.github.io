@@ -83,7 +83,7 @@ Security Content Automation Protocol ([SCAP](https://www.open-scap.org/#)) is U.
 
 ## Trivy
 
-Trivy is a comprehensive and versatile security scanner. Trivy has _scanners_ that look for security issues, and _targets_ where it can find those issues.
+Trivy is a comprehensive and versatile security scanner. Trivy has _scanners_ that look for security issues, and _targets_ where it can find those issues.
 
 Targets (what Trivy can scan):
 
@@ -114,7 +114,7 @@ Detect compliance and security violations across Infrastructure as Code (IaC) to
 
 Policy as Code for Secure Cloud Infrastructure
 
-As you embrace Infrastructure as Code (IaC) such as [Terraform](https://www.terraform.io/), [Kubernetes](https://kubernetes.io/), [Argo CD](https://argo-cd.readthedocs.io/en/stable/), [Atlantis](https://www.runatlantis.io/) and AWS CloudFormation, it is important to ensure that security best practices and compliance requirements are observed. Terrascan provides 500+ out-of-the-box policies so that you can scan IaC against common policy standards such as the CIS Benchmark. It leverages the [Open Policy Agent](https://www.openpolicyagent.org/) (OPA) engine so that you can easily create custom policies using the Rego query language.
+As you embrace Infrastructure as Code (IaC) such as [Terraform](https://www.terraform.io/), [Kubernetes](https://kubernetes.io/), [Argo CD](https://argo-cd.readthedocs.io/en/stable/), [Atlantis](https://www.runatlantis.io/) and AWS CloudFormation, it is important to ensure that security best practices and compliance requirements are observed. Terrascan provides 500+ out-of-the-box policies so that you can scan IaC against common policy standards such as the CIS Benchmark. It leverages the [Open Policy Agent](https://www.openpolicyagent.org/) (OPA) engine so that you can easily create custom policies using the Rego query language.
 
 [runterrascan.io](https://runterrascan.io/)
 
@@ -126,7 +126,7 @@ As you embrace Infrastructure as Code (IaC) such as [Terraform](https://www.ter
 
 ## Gitleaks
 
-Gitleaks is a SAST tool for **detecting** and **preventing** hardcoded secrets like passwords, api keys, and tokens in git repos. Gitleaks is an **easy-to-use, all-in-one solution** for detecting secrets, past or present, in your code.
+Gitleaks is a SAST tool for **detecting** and **preventing** hardcoded secrets like passwords, api keys, and tokens in git repos. Gitleaks is an **easy-to-use, all-in-one solution** for detecting secrets, past or present, in your code.
 
 [Gitleaks](https://gitleaks.io/)
 

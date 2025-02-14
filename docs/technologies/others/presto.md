@@ -59,7 +59,7 @@ https://aws.amazon.com/big-data/what-is-presto
 
 Distributed SQL query engine for big data, formerly known as PrestoSQL.
 
-Trino is a distributed query engine that processes data in parallel across multiple servers. There are two types of Trino servers, [coordinators](https://trino.io/docs/current/overview/concepts.html#trino-concept-coordinator) and [workers](https://trino.io/docs/current/overview/concepts.html#trino-concept-worker).
+Trino is a distributed query engine that processes data in parallel across multiple servers. There are two types of Trino servers, [coordinators](https://trino.io/docs/current/overview/concepts.html#trino-concept-coordinator) and [workers](https://trino.io/docs/current/overview/concepts.html#trino-concept-worker).
 
 [GitHub - trinodb/trino: Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)](https://github.com/trinodb/trino)
 
@@ -67,8 +67,8 @@ Trino is a distributed query engine that processes data in parallel across multi
 
 ### Difference between Trino and Presto
 
-Trino is the superior query engine. Since the two projects were forked, Trino’s development has been going at roughly thrice the pace of Presto’s, and it shows. It runs faster and serves a much wider variety of use cases. If your existing tech stack heavily relies on Spark and [Hive](https://www.starburst.io/learn/data-fundamentals/hive/) for all things data, it may make sense to use Presto. For all other situations, Trino is the better, more versatile, more powerful option.
+Trino is the superior query engine. Since the two projects were forked, Trino’s development has been going at roughly thrice the pace of Presto’s, and it shows. It runs faster and serves a much wider variety of use cases. If your existing tech stack heavily relies on Spark and [Hive](https://www.starburst.io/learn/data-fundamentals/hive/) for all things data, it may make sense to use Presto. For all other situations, Trino is the better, more versatile, more powerful option.
 
-A few sprinkles on top: if you are using Hive, Trino has a [built-in procedure to migrate your Hive tables to Apache Iceberg](https://trino.io/docs/current/connector/iceberg.html#migrate-table), allowing you to easily modernize your data stack and reap the performance and cost benefits. Some users who’ve already gone through with migrating have [seen certain queries execute 95% faster](https://trino.io/blog/2022/12/09/trino-summit-2022-shopify-recap.html).
+A few sprinkles on top: if you are using Hive, Trino has a [built-in procedure to migrate your Hive tables to Apache Iceberg](https://trino.io/docs/current/connector/iceberg.html#migrate-table), allowing you to easily modernize your data stack and reap the performance and cost benefits. Some users who’ve already gone through with migrating have [seen certain queries execute 95% faster](https://trino.io/blog/2022/12/09/trino-summit-2022-shopify-recap.html).
 
 [What’s the Difference Between Trino and PrestoDB? - Pandio](https://pandio.com/difference-between-trino-and-prestodb/)

@@ -2,30 +2,30 @@
 
 ## HUF
 
-**HUF stands for** Hindu Undivided family & governed by Hindu law board. The expression "Hindu Undivided Family" has not defined under the Income Tax Act or in any other statute. HUF could be formed by a married couple or by members of a joint family. To form a HUF minimum two members are required & at least one among whom should be a male member of the family. Senior most male member of the family would become ‘Karta’.
+**HUF stands for** Hindu Undivided family & governed by Hindu law board. The expression "Hindu Undivided Family" has not defined under the Income Tax Act or in any other statute. HUF could be formed by a married couple or by members of a joint family. To form a HUF minimum two members are required & at least one among whom should be a male member of the family. Senior most male member of the family would become ‘Karta’.
 
 ### Key Benefits of HUF
 
 - Every member of the family can deposit their income in the common corpus.
 - Single person’s authority while participation from the entire family.
-- Gifts collected up to a worth of Rs 50,000 will be tax free. A father who owns a HUF account can gift a property or money of higher worth to a son who owns a smaller HUF account, but he should specify that the gift is for the son’s HUF and not to him as an individual. Under section 64(2) and 56(2) tax benefits can be enjoyed in such instance.
+- Gifts collected up to a worth of Rs 50,000 will be tax free. A father who owns a HUF account can gift a property or money of higher worth to a son who owns a smaller HUF account, but he should specify that the gift is for the son’s HUF and not to him as an individual. Under section 64(2) and 56(2) tax benefits can be enjoyed in such instance.
 - Corpus can be used for investment in tax-free money instruments.
 - Corpus can be divided only on agreement of every coparcener of the family.
-- The Income Tax Act recognizes the HUF as an independent assessable or taxable entity. Hence, HUFs enjoy all deductions and exemptions under the IT Act independent of the income and tax liabilities of its members. A separate [Income Tax Return](https://www.taxrodo.com/services-at-a-glance/income-tax/income-tax-return-filing/) is filed under Income Tax Act.
-- Tax Saving- For example- an ancestral property that yields rental income. Under normal circumstances, the rent will be attached to a person’s income and will be taxed according to that individual’s tax slab. However, if it is transferred to an HUF, the income will be that of the HUF’s and will be taxed separately.
+- The Income Tax Act recognizes the HUF as an independent assessable or taxable entity. Hence, HUFs enjoy all deductions and exemptions under the IT Act independent of the income and tax liabilities of its members. A separate [Income Tax Return](https://www.taxrodo.com/services-at-a-glance/income-tax/income-tax-return-filing/) is filed under Income Tax Act.
+- Tax Saving- For example- an ancestral property that yields rental income. Under normal circumstances, the rent will be attached to a person’s income and will be taxed according to that individual’s tax slab. However, if it is transferred to an HUF, the income will be that of the HUF’s and will be taxed separately.
 - Owning a house
-    - Under current income tax laws, if you own more than one self-occupied property, only one of them can be claimed as a self-occupied property. The rest are ‘_deemed to be let out_’ and you have to pay tax on notional rent. However, an HUF can own a residential house without having to pay tax. In addition, it can also avail of a [Home Loan](https://www.hdfcbank.com/personal/products/loans/home-loan) to purchase a residential property and get tax benefits up to Rs 1.5 lakh under Section 80C of the Income Tax Act for loan repayment and up to Rs 2 lakh for interest thereon.
+    - Under current income tax laws, if you own more than one self-occupied property, only one of them can be claimed as a self-occupied property. The rest are ‘_deemed to be let out_’ and you have to pay tax on notional rent. However, an HUF can own a residential house without having to pay tax. In addition, it can also avail of a [Home Loan](https://www.hdfcbank.com/personal/products/loans/home-loan) to purchase a residential property and get tax benefits up to Rs 1.5 lakh under Section 80C of the Income Tax Act for loan repayment and up to Rs 2 lakh for interest thereon.
 
 ### Key Points
 
 - It is possible to have a separate HUF with father as the Karta and another HUF with his son or sons as Karta or even with daughters in view of the amendment made in the Hindu Succession Act.
 - [I am part of my father’s HUF. Can I have one more HUF? | Mint](https://www.livemint.com/money/personal-finance/i-am-part-of-my-father-s-huf-can-i-have-one-more-huf-11628219040700.html)
 - [Can a person be Karta in 3 HUF i.e. Grandfather Huf, Father Huf and his own Huf? - Quora](https://www.quora.com/Can-a-person-be-Karta-in-3-HUF-i-e-Grandfather-Huf-Father-Huf-and-his-own-Huf)
-- The Karta is the absolute manager of family property and this right cannot be challenged in the court of law. **Coparceners can only seek partition, in case of a disagreement**. Members, on the other hand, cannot seek partition but are entitled to get their due share, as and when the partition takes place.
+- The Karta is the absolute manager of family property and this right cannot be challenged in the court of law. **Coparceners can only seek partition, in case of a disagreement**. Members, on the other hand, cannot seek partition but are entitled to get their due share, as and when the partition takes place.
 - [Can my mother be the karta of the HUF? | Mint](https://www.livemint.com/money/ask-mint-money/can-my-mother-be-the-karta-of-the-huf-11642929065072.html)
 - [On death of father, HUF can continue; oldest son will be karta | Mint](https://www.livemint.com/Money/ru3H4r23AUiuVCfAozumHM/On-death-of-father-HUF-can-continue-oldest-son-will-be-kar.html)
 - [HUF rules: Can a wife become Karta after death of her Karta husband? | Mint](https://www.livemint.com/money/personal-finance/huf-rules-can-a-wife-become-karta-after-death-of-her-karta-husband-11682235517817.html)
-- Any woman who enters the Hindu Undivided Family by way of marriage is _only considered a member and not a coparcener_. And only coparcener can become karta
+- Any woman who enters the Hindu Undivided Family by way of marriage is _only considered a member and not a coparcener_. And only coparcener can become karta
 - [HUF - Dissolution & Succession - KL Aggarwal Associates](https://www.klaggarwal.com/others/huf-dissolution)
 
 ### Taxation
@@ -46,7 +46,7 @@ Let's understand with an example
 
 ### Creation
 
- A HUF is created through executing a deed, getting HUF PAN and opening a bank A/c in the name of HUF.
+ A HUF is created through executing a deed, getting HUF PAN and opening a bank A/c in the name of HUF.
 
 ### Drawings / Expenses of HUF
 

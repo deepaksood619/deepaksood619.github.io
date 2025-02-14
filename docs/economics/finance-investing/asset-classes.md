@@ -149,8 +149,8 @@ https://www.edx.org/course/finance-everyone-smart-tools-decision-michiganx-fin10
 
 ## Gold / Diamond
 
-- Import duty on gold in India was 15% now it's 6%
-- There is also no customs tax on gold jewelry and ornaments that weigh less than 20 grams and are valued at less than INR 50,000. For ornaments weighing between 20 grams and 100 grams, a flat 10% customs charge is applied to the entire declared value. In addition to basic customs duty, IGST and other taxes may also apply.
+- Import duty on gold in India was 15% now it's 6%
+- There is also no customs tax on gold jewelry and ornaments that weigh less than 20 grams and are valued at less than INR 50,000. For ornaments weighing between 20 grams and 100 grams, a flat 10% customs charge is applied to the entire declared value. In addition to basic customs duty, IGST and other taxes may also apply.
 - Dubai does not impose a tax on gold
 - GST - 3% on total value of jewellery
 - [Gold jewellery cost calculation: How jewellers calculate price of gold jewellery](https://economictimes.indiatimes.com/wealth/spend/gold-jewellery-cost-calculation-how-jewellers-calculate-price-of-gold-jewellery/articleshow/109873223.cms?from=mdr)

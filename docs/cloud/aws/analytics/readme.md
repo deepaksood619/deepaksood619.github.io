@@ -22,7 +22,7 @@ You can use Amazon Athena to query data that you process using Amazon EMR. Amazo
 
 ### Amazon EMR WAL
 
-Apache HBase Write Ahead Log allows recording all changes to data to file-based storage. With Amazon EMR on EC2, you can write your Apache HBase write-ahead logs to the Amazon EMR WAL, a durable managed storage layer that outlives your cluster. In the event that your cluster, or in the rare cases that the Availability Zone becomes unhealthy or unavailable, you can create a new cluster, point it to the same Amazon S3 root directory and Amazon EMR WAL workspace, and automatically recover the data in WAL within a few minutes.
+Apache HBase Write Ahead Log allows recording all changes to data to file-based storage. With Amazon EMR on EC2, you can write your Apache HBase write-ahead logs to the Amazon EMR WAL, a durable managed storage layer that outlives your cluster. In the event that your cluster, or in the rare cases that the Availability Zone becomes unhealthy or unavailable, you can create a new cluster, point it to the same Amazon S3 root directory and Amazon EMR WAL workspace, and automatically recover the data in WAL within a few minutes.
 
 [Write-ahead logs (WAL) for Amazon EMR - Amazon EMR](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-hbase-wal.html)
 

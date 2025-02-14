@@ -14,7 +14,7 @@ Common to all binary-to-text encoding schemes, Base64 is designed to carry data 
 
 The difference between Base64 and hex is really just how bytes are represented. Hex is another way of saying "Base16". **Hex will take two characters for each byte - Base64 takes 4 characters for every 3 bytes, so it's more efficient than hex.** Assuming you're using UTF-8 to encode the XML document, a 100K file will take 200K to encode in hex, or 133K in Base64.
 
-base64 is a costly instrument. It makes data about **33% larger** in terms of memory usage. So base64 is one of these little things that make software **slow**. That's why you should use it only when it's absolutely necessary.
+base64 is a costly instrument. It makes data about **33% larger** in terms of memory usage. So base64 is one of these little things that make software **slow**. That's why you should use it only when it's absolutely necessary.
 
 [Base64 - Wikipedia](https://en.wikipedia.org/wiki/Base64)
 

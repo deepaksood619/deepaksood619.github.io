@@ -145,14 +145,14 @@ Mis (Monthly Income Scheme) - Limit 9 lakh
 
 [Premature FD Withdrawal: Avoid Interest Loss - Bajaj Finance](https://www.bajajfinserv.in/investments/avoid-interest-loss-on-premature-fd)
 
-The rate of interest offered on tends to be higher for longer tenures. An FD with a longer tenure is set to fetch you better returns than a shorter-term FD this is because of the power of compounding. As you can see, a 4-year FD can yield returns up to 8.05% p.a., whereas a 1-year FD would offer 7.40% p.a. which is lower than the former. Also, if you wish to prematurely withdraw your FD, you will be **charged interest as per the rate on the day of opening your account for the actual period your account was open.**
+The rate of interest offered on tends to be higher for longer tenures. An FD with a longer tenure is set to fetch you better returns than a shorter-term FD this is because of the power of compounding. As you can see, a 4-year FD can yield returns up to 8.05% p.a., whereas a 1-year FD would offer 7.40% p.a. which is lower than the former. Also, if you wish to prematurely withdraw your FD, you will be **charged interest as per the rate on the day of opening your account for the actual period your account was open.**
 
 [Premature Withdrawal of Fixed Deposit (FD) Online - Bajaj Finance](https://www.bajajfinserv.in/service-guides/withdraw-your-fd-prematurely-in-my-account)
 
 - If there’s any unforeseen expense, you can withdraw the funds that you’ve parked in a fixed deposit before its maturity date. This is called the premature withdrawal of a fixed deposit. However, you can raise a request for premature withdrawal after three months from the date of acceptance of the deposit.
 - If you withdraw your FD after three months but before six months from the date of deposit, you’ll only get the principal amount. You won’t get any interest amount in such a case.
-- However, if you choose to prematurely liquidate FD after six months, the interest payable is 2% (per annum) lower than the interest rate applicable to a public deposit for the period for which it has run.
-- If no rate has been specified for that period, the interest rate payable is 3% (per annum) lower than the minimum interest rate at which public deposits are accepted by the NBFC.
+- However, if you choose to prematurely liquidate FD after six months, the interest payable is 2% (per annum) lower than the interest rate applicable to a public deposit for the period for which it has run.
+- If no rate has been specified for that period, the interest rate payable is 3% (per annum) lower than the minimum interest rate at which public deposits are accepted by the NBFC.
 
 [Premature Withdrawal of Fixed Deposit (FD) Online - Bajaj Finance](https://www.bajajfinserv.in/service-guides/withdraw-your-fd-prematurely-in-my-account)
 

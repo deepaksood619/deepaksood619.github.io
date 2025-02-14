@@ -67,7 +67,7 @@ Not Constructive:"You were mean to me yesterday. I feel like you don't respect m
 
 Greetings from Company!
 
-Kindly consider this email as a gentle reminder to please suggest how we can take the discussion forward.
+Kindly consider this email as a gentle reminder to please suggest how we can take the discussion forward.
 
 ## Links
 

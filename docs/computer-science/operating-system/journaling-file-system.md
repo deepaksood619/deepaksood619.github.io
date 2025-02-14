@@ -104,20 +104,20 @@ The **ext4 journaling file system** or **fourth extended filesystem** is a [jour
 
 ## Partition Tables
 
-- `aix` provides support for the volumes used in IBM’s AIX (which introduced what we now know as LVM);
-- `amiga` provides support for the Amiga’s RDB partitioning scheme;
-- `bsd` provides support for BSD disk labels;
-- `dvh` provides support for SGI disk volume headers;
-- `gpt` provides support for GUID partition tables;
-- `mac` provides support for old (pre-GPT) Apple partition tables;
-- `msdos` provides support for DOS-style MBR partition tables;
-- `pc98` provides support for [PC-98](http://people.freebsd.org/~kato/pc98.html) partition tables;
-- `sun` provides support for Sun’s partitioning scheme;
-- `loop` provides support for raw disk access (loopback-style) — I’m not sure about the uses for this one.
+- `aix` provides support for the volumes used in IBM’s AIX (which introduced what we now know as LVM);
+- `amiga` provides support for the Amiga’s RDB partitioning scheme;
+- `bsd` provides support for BSD disk labels;
+- `dvh` provides support for SGI disk volume headers;
+- `gpt` provides support for GUID partition tables;
+- `mac` provides support for old (pre-GPT) Apple partition tables;
+- `msdos` provides support for DOS-style MBR partition tables;
+- `pc98` provides support for [PC-98](http://people.freebsd.org/~kato/pc98.html) partition tables;
+- `sun` provides support for Sun’s partitioning scheme;
+- `loop` provides support for raw disk access (loopback-style) — I’m not sure about the uses for this one.
 
-The default in gparted appears to be `msdos` which I guess is an 'MBR' partition table. However `gpt` is more recent, but has less Windows support. I've used Linux for a long time, but I've never really looked into partitioning.
+The default in gparted appears to be `msdos` which I guess is an 'MBR' partition table. However `gpt` is more recent, but has less Windows support. I've used Linux for a long time, but I've never really looked into partitioning.
 
-For a new disk, **I recommend `gpt`**: it allows more partitions, it can be booted even in pre-UEFI systems (using `grub`), and supports disks larger than 2 TiB (up to 8 ZiB for 512-byte sector disks). Actually, if you don’t need to boot from the disk, I’d recommend not using a partitioning scheme at all and simply adding the whole disk to `mdadm`, LVM, or a zpool, depending on whether you use LVM (on top of `mdadm` or not) or ZFS.
+For a new disk, **I recommend `gpt`**: it allows more partitions, it can be booted even in pre-UEFI systems (using `grub`), and supports disks larger than 2 TiB (up to 8 ZiB for 512-byte sector disks). Actually, if you don’t need to boot from the disk, I’d recommend not using a partitioning scheme at all and simply adding the whole disk to `mdadm`, LVM, or a zpool, depending on whether you use LVM (on top of `mdadm` or not) or ZFS.
 
 [What are the differences between the various partition tables? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/289389/what-are-the-differences-between-the-various-partition-tables)
 

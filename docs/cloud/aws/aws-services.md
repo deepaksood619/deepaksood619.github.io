@@ -95,7 +95,7 @@ Scale Multiple Resources to Meet Demand
 5. AWS Systems Manager - Gain Operational Insights and Take Action
 6. AWS Trusted Advisor - Optimize costs, improve performance, and address security gaps
     1. [How do I start using Trusted Advisor? - YouTube](https://www.youtube.com/watch?v=i0IkKN9NoPk)
-    2. Minimum spend of $29.00 or 3% of monthly AWS charges, whichever is higher
+    2. Minimum spend of $29.00 or 3% of monthly AWS charges, whichever is higher
 7. AWS Personal Health Dashboard - Personalized View of AWS Service Health
 
 ## Media Services
@@ -164,7 +164,7 @@ Highly accurate intelligent search service powered by machine learning
 
 [Amplify Documentation - AWS Amplify Documentation](https://docs.amplify.aws)
 
-To serve traffic, Amplify Hosting points to a CloudFront URL via a CNAME record. In the process of connecting an app to a custom domain, the Amplify console displays the CloudFront URL for the app. However, you cannot access your application directly using this CloudFront URL. It returns a 404 error. Your application resolves only using the Amplify app URL (for example, `https://main.d5udybEXAMPLE.amplifyapp.com`, or your custom domain (for example `www.example.com`).
+To serve traffic, Amplify Hosting points to a CloudFront URL via a CNAME record. In the process of connecting an app to a custom domain, the Amplify console displays the CloudFront URL for the app. However, you cannot access your application directly using this CloudFront URL. It returns a 404 error. Your application resolves only using the Amplify app URL (for example, `https://main.d5udybEXAMPLE.amplifyapp.com`, or your custom domain (for example `www.example.com`).
 
 [Troubleshooting custom domains - AWS Amplify Hosting](https://docs.aws.amazon.com/amplify/latest/userguide/custom-domain-troubleshoot-guide.html)
 
@@ -225,10 +225,10 @@ EventBridge Scheduler delivers your tasks reliably, with built-in mechanisms tha
 
 EventBridge Scheduler offers the following key features that you can use to configure targets and scale your schedules.
 
-- **Templated targets** - EventBridge Scheduler supports templated targets to perform common API operations using Amazon SQS, Amazon SNS, Lambda, and EventBridge. With predefined targets, you can configure your schedules quickly using the EventBridge Scheduler console, the EventBridge Scheduler SDK, or the AWS CLI.
-- **Universal targets** - EventBridge Scheduler provides a universal target parameter (UTP) that you can use to create customized triggers that target more than 270 AWS services and over 6,000 API operations on a schedule. With UTP, you can configure your customized triggers using the EventBridge Scheduler console, the EventBridge Scheduler SDK, or the AWS CLI.
-- **Flexible time windows** - EventBridge Scheduler supports flexible time windows, allowing you to disperse your schedules and improve the reliability of your triggers for use cases that do not require precise scheduled invocation of targets.
-- **Retries** - EventBridge Scheduler provides at-least-once event delivery to targets, meaning that at least one delivery succeeds with a response from the target. EventBridge Scheduler allows you to set the number of retries for your schedule for a failed task. EventBridge Scheduler retries failed tasks with delayed attempts to improve the reliability of your schedule and ensure targets are available.
+- **Templated targets** - EventBridge Scheduler supports templated targets to perform common API operations using Amazon SQS, Amazon SNS, Lambda, and EventBridge. With predefined targets, you can configure your schedules quickly using the EventBridge Scheduler console, the EventBridge Scheduler SDK, or the AWS CLI.
+- **Universal targets** - EventBridge Scheduler provides a universal target parameter (UTP) that you can use to create customized triggers that target more than 270 AWS services and over 6,000 API operations on a schedule. With UTP, you can configure your customized triggers using the EventBridge Scheduler console, the EventBridge Scheduler SDK, or the AWS CLI.
+- **Flexible time windows** - EventBridge Scheduler supports flexible time windows, allowing you to disperse your schedules and improve the reliability of your triggers for use cases that do not require precise scheduled invocation of targets.
+- **Retries** - EventBridge Scheduler provides at-least-once event delivery to targets, meaning that at least one delivery succeeds with a response from the target. EventBridge Scheduler allows you to set the number of retries for your schedule for a failed task. EventBridge Scheduler retries failed tasks with delayed attempts to improve the reliability of your schedule and ensure targets are available.
 
 [Introducing Amazon EventBridge Scheduler | AWS Compute Blog](https://aws.amazon.com/blogs/compute/introducing-amazon-eventbridge-scheduler/)
 

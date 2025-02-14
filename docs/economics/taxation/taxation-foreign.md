@@ -26,7 +26,7 @@ Also, the dividend income earned on foreign investments is taxed at the pre-defi
 
 Budget 2024 brought significant changes to benefit investors like you:
 
-- Reduced [long-term capital gains tax](https://www.winvesta.in/blog/tax-implications-for-indian-residents-investing-in-us-stock-market) from 20% to 12.5% for holdings over 24 months
+- Reduced [long-term capital gains tax](https://www.winvesta.in/blog/tax-implications-for-indian-residents-investing-in-us-stock-market) from 20% to 12.5% for holdings over 24 months
 - Removed indexation benefits while maintaining parity with Indian equity taxation
 - Added a 20% Tax Collected at Source (TCS) for annual remittances above Rs. 7 lakh (Changed to 10 lakh in budget 2025)
 
@@ -130,7 +130,7 @@ It is 5% of the remittance amount above INR 7 Lakhs. From October 1, 2023 onward
 - Rs. 50/- is levied by SBI in India for handling inward remittances.
 - No SWIFT code of SBI Dantewada Branch (Have to use a parent branch)
 - [Internet banking based Forex Outward Remittance Scheme FAQs](https://www.onlinesbi.sbi/sbijava/retail_pymtstran_forexoutwards_certificate.html)
-	- Retail forex outward remittance upto a value equivalent of USD 5000 per transaction,**max 4 transactions per month i.e.** USD 2,40,000/- per calendar year, offered to our retail customers. No minimum amount of remittance is stipulated.
+	- Retail forex outward remittance upto a value equivalent of USD 5000 per transaction,**max 4 transactions per month i.e.** USD 2,40,000/- per calendar year, offered to our retail customers. No minimum amount of remittance is stipulated.
 	- Restriction on initial remittance to overseas beneficiary within 4 days of beneficiary activation is Rs.1,00,000/-.
 	- USD 10 equivalent in INR applicable at Bank's T.T. Selling Card Rate for the day (rounded to the nearest Rupee) plus applicable Statutory Service Tax, to be recovered up-front at the time of submission of application form, covering all inclusive cost upto the Bank of the Beneficiary only. All subsequent Beneficiary Bank charges are to the account of the beneficiary.
 

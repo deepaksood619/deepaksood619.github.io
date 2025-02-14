@@ -48,7 +48,7 @@ It's the investment with the highest return.
 
 It's easier to destroy a relationship than build one.
 
-_patri mile na mile, sleep schedule zaroor milna chahiye_ (your sleep schedule being compatible is more important than your astrological charts being compatible!)
+_patri mile na mile, sleep schedule zaroor milna chahiye_ (your sleep schedule being compatible is more important than your astrological charts being compatible!)
 
 The secret to feeling great about yourself is not to be found in searching for people who are less than you and then show yourself superior to them, but in searching for people who are more than you and then show yourself worthy of their company.
 

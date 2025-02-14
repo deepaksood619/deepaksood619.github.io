@@ -40,7 +40,7 @@ mysql db_name < backup-file.sql
 mysql -e "source /path-to-backup/backup-file.sql" db_name
 ```
 
-#### mysqldump is also very useful for populating databases by copying data from one MySQL server to another
+#### mysqldump is also very useful for populating databases by copying data from one MySQL server to another
 
 ```terminal
 mysqldump --opt db_name | mysql --host=remote_host -C db_name
@@ -52,13 +52,13 @@ mysqldump --opt db_name | mysql --host=remote_host -C db_name
 mysqldump --databases db_name1 [db_name2 ...] > my_databases.sql
 ```
 
-#### To dump all databases, use the [`--all-databases`](https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html#option_mysqldump_all-databases) option
+#### To dump all databases, use the [`--all-databases`](https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html#option_mysqldump_all-databases) option
 
 ```terminal
 mysqldump --all-databases > all_databases.sql
 ```
 
-#### For `InnoDB` tables, mysqldump provides a way of making an online backup
+#### For `InnoDB` tables, mysqldump provides a way of making an online backup
 
 ```terminal
 mysqldump --all-databases --master-data --single-transaction > all_databases.sql
@@ -221,11 +221,11 @@ mysql -u $DB_USER -p $DB_PASSWORD -h $DB_HOST -e "SET GLOBAL max_execution_time 
 
 ### Restrictions
 
-- mysqldump does not dump the `performance_schema` or `sys` schema by default. To dump any of these, name them explicitly on the command line. You can also name them with the [`--databases`](https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html#option_mysqldump_databases) option. For `performance_schema`, also use the [`--skip-lock-tables`](https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html#option_mysqldump_lock-tables) option.
-- mysqldump does not dump the `INFORMATION_SCHEMA` schema.
-- mysqldump does not dump `InnoDB` [`CREATE TABLESPACE`](https://dev.mysql.com/doc/refman/8.0/en/create-tablespace.html "15.1.21 CREATE TABLESPACE Statement") statements.
-- mysqldump does not dump the NDB Cluster [`ndbinfo`](https://dev.mysql.com/doc/refman/8.0/en/mysql-cluster-ndbinfo.html "25.6.16 ndbinfo: The NDB Cluster Information Database") information database.
-- mysqldump includes statements to recreate the `general_log` and `slow_query_log` tables for dumps of the `mysql` database. Log table contents are not dumped.
+- mysqldump does not dump the `performance_schema` or `sys` schema by default. To dump any of these, name them explicitly on the command line. You can also name them with the [`--databases`](https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html#option_mysqldump_databases) option. For `performance_schema`, also use the [`--skip-lock-tables`](https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html#option_mysqldump_lock-tables) option.
+- mysqldump does not dump the `INFORMATION_SCHEMA` schema.
+- mysqldump does not dump `InnoDB` [`CREATE TABLESPACE`](https://dev.mysql.com/doc/refman/8.0/en/create-tablespace.html "15.1.21 CREATE TABLESPACE Statement") statements.
+- mysqldump does not dump the NDB Cluster [`ndbinfo`](https://dev.mysql.com/doc/refman/8.0/en/mysql-cluster-ndbinfo.html "25.6.16 ndbinfo: The NDB Cluster Information Database") information database.
+- mysqldump includes statements to recreate the `general_log` and `slow_query_log` tables for dumps of the `mysql` database. Log table contents are not dumped.
 
 ## Other tools
 

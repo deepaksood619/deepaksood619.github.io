@@ -30,7 +30,7 @@ Shadow ban - less impressions
 
 ### Plurality systems
 
-[Plurality voting](https://en.wikipedia.org/wiki/Plurality_voting_method "Plurality voting method") is a system in which the candidate(s) with the highest number of votes wins, with no requirement to get a majority of votes. In cases where there is a single position to be filled, it is known as [first-past-the-post](https://en.wikipedia.org/wiki/First-past-the-post_voting "First-past-the-post voting"); this is the second most common electoral system for national legislatures, with 58 countries using it for this purpose, the vast majority of which are current or former British or American colonies or territories. It is also the second most common system used for presidential elections, being used in 19 countries.
+[Plurality voting](https://en.wikipedia.org/wiki/Plurality_voting_method "Plurality voting method") is a system in which the candidate(s) with the highest number of votes wins, with no requirement to get a majority of votes. In cases where there is a single position to be filled, it is known as [first-past-the-post](https://en.wikipedia.org/wiki/First-past-the-post_voting "First-past-the-post voting"); this is the second most common electoral system for national legislatures, with 58 countries using it for this purpose, the vast majority of which are current or former British or American colonies or territories. It is also the second most common system used for presidential elections, being used in 19 countries.
 
 ### Majority systems
 

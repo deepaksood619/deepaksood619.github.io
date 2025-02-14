@@ -253,29 +253,29 @@ Just add a module of UPSC in khan academy. It has everything.
 [Which country's primary education model is the best? - Quora](https://www.quora.com/Which-countrys-primary-education-model-is-the-best)
 
 1. Finland:
-    - Approach: Emphasizes equal opportunities, minimal standardized testing, and a focus on student well-being.
-    - Curriculum: Broad and flexible, allowing teachers to tailor lessons to students' needs.
-    - Teacher Training: Highly qualified teachers with master’s degrees and significant professional autonomy.
+    - Approach: Emphasizes equal opportunities, minimal standardized testing, and a focus on student well-being.
+    - Curriculum: Broad and flexible, allowing teachers to tailor lessons to students' needs.
+    - Teacher Training: Highly qualified teachers with master’s degrees and significant professional autonomy.
 2. Singapore:
-    - Approach: Strong emphasis on mathematics and science, with a rigorous curriculum and high expectations.
-    - Assessment: Regular assessments to track progress, but also a focus on creative thinking and problem-solving skills.
-    - Teacher Support: Continuous professional development for teachers.
+    - Approach: Strong emphasis on mathematics and science, with a rigorous curriculum and high expectations.
+    - Assessment: Regular assessments to track progress, but also a focus on creative thinking and problem-solving skills.
+    - Teacher Support: Continuous professional development for teachers.
 3. Japan:
-    - Approach: Focus on discipline, respect, and community involvement in education.
-    - Curriculum: Emphasizes moral education alongside academics, fostering a well-rounded character.
-    - Classroom Environment: Collaborative learning and group work are common.
+    - Approach: Focus on discipline, respect, and community involvement in education.
+    - Curriculum: Emphasizes moral education alongside academics, fostering a well-rounded character.
+    - Classroom Environment: Collaborative learning and group work are common.
 4. Canada:
-    - Approach: Inclusive and diverse education system that values multiculturalism.
-    - Curriculum: Student-centered learning with a focus on critical thinking and creativity.
-    - Teacher Support: Teachers receive substantial support and professional development.
+    - Approach: Inclusive and diverse education system that values multiculturalism.
+    - Curriculum: Student-centered learning with a focus on critical thinking and creativity.
+    - Teacher Support: Teachers receive substantial support and professional development.
 5. Germany:
-    - Approach: Strong vocational education programs integrated with academic ones, preparing students for various career paths.
-    - Curriculum: Emphasizes practical skills alongside theoretical knowledge.
-    - Tracking System: Early tracking into different educational paths based on student performance.
+    - Approach: Strong vocational education programs integrated with academic ones, preparing students for various career paths.
+    - Curriculum: Emphasizes practical skills alongside theoretical knowledge.
+    - Tracking System: Early tracking into different educational paths based on student performance.
 6. Netherlands:
-    - Approach: Focus on child-centered education and learning through play, especially in early years.
-    - Curriculum: Offers a balance between academic subjects and social-emotional learning.
-    - Inclusivity: Strong focus on inclusive education for all students.
+    - Approach: Focus on child-centered education and learning through play, especially in early years.
+    - Curriculum: Offers a balance between academic subjects and social-emotional learning.
+    - Inclusivity: Strong focus on inclusive education for all students.
 
 ### Key Factors for Success
 

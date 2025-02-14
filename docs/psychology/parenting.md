@@ -120,11 +120,11 @@ Despite the term "the terrible twos," temper tantrums can start as early as 12 m
 
 While sometimes tantrums are inevitable, a few smart strategies can help head them off:
 
-- **Work with your child's personality.** For many kids, keeping a schedule of regular mealtimes, [nap times](https://www.whattoexpect.com/toddler-naps.aspx) and bedtimes offers a sense of what they can expect at various points in their day — which makes them feel more secure, in control and comforted. However, other kids thrive on spontaneity — so if your child seems to get stressed out by schedules, ease up a bit.
-- **Ward off the "fearsome four."** Hunger, fatigue, boredom and overstimulation, that is. That means avoid overscheduling or planning a big excursion (like grocery shopping) before nap time. And make sure to leave the house when your toddler's tummy is full — and with healthy snacks and a favorite small toy or book in tow.
-- **Cut down on the need to say "no."** This includes [childproofing your home](https://www.whattoexpect.com/nursery-decorating/childproofing-basics.aspx) (so you don't have to constantly cry, "No, don't touch that!") and setting clear limits.
-- **Provide choice whenever possible (but not too many).** Being able to make simple decisions ("Do you want to eat cereal or yogurt this morning?") helps a toddler feel more in control.
-- **Don't say "maybe."** In toddler translation, "maybe" equals "yes." Instead, say "yes" or "no," or negotiate a compromise.
+- **Work with your child's personality.** For many kids, keeping a schedule of regular mealtimes, [nap times](https://www.whattoexpect.com/toddler-naps.aspx) and bedtimes offers a sense of what they can expect at various points in their day — which makes them feel more secure, in control and comforted. However, other kids thrive on spontaneity — so if your child seems to get stressed out by schedules, ease up a bit.
+- **Ward off the "fearsome four."** Hunger, fatigue, boredom and overstimulation, that is. That means avoid overscheduling or planning a big excursion (like grocery shopping) before nap time. And make sure to leave the house when your toddler's tummy is full — and with healthy snacks and a favorite small toy or book in tow.
+- **Cut down on the need to say "no."** This includes [childproofing your home](https://www.whattoexpect.com/nursery-decorating/childproofing-basics.aspx) (so you don't have to constantly cry, "No, don't touch that!") and setting clear limits.
+- **Provide choice whenever possible (but not too many).** Being able to make simple decisions ("Do you want to eat cereal or yogurt this morning?") helps a toddler feel more in control.
+- **Don't say "maybe."** In toddler translation, "maybe" equals "yes." Instead, say "yes" or "no," or negotiate a compromise.
 
 #### 9 ways to cope with a toddler temper tantrum
 

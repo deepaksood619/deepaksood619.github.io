@@ -29,7 +29,7 @@ Educate, agitate, organize -- Dr. B.r. Ambedkar
 #### Indian Democracy
 
 - [After Modi's great victory in the 2019 election, what is your message for Modi followers? - Quora](https://www.quora.com/After-Modis-great-victory-in-the-2019-election-what-is-your-message-for-Modi-followers)
-- [Is India becoming a DICTATORSHIP? | Chandigarh Elections | Farmers Protest | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=Y9253_M38Xk&ab_channel=DhruvRathee)
+- [Is India becoming a DICTATORSHIP? | Chandigarh Elections | Farmers Protest | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=Y9253_M38Xk&ab_channel=DhruvRathee)
 - [Is Modi a dictator? | Dhruv Rathee vs The World - YouTube](https://www.youtube.com/watch?v=DnzM1cnRZPc&ab_channel=meghnerd)
 - [किसको चाहिए डिक्टेटर? कद्दू समझ रखा है? | Who wants Dictatorship in India?? - YouTube](https://www.youtube.com/watch?v=U68aORo533I&ab_channel=RavishKumarOfficial)
 
@@ -124,9 +124,9 @@ a state, society, or group governed by old people
 
 ### Plutocracy
 
-government by the wealthy
+government by the wealthy
 
-an elite or ruling class whose power derives from their wealth
+an elite or ruling class whose power derives from their wealth
 
 ### Paedocracy
 

@@ -62,9 +62,9 @@ Moong does not need soaking prior to being cooked as it is a "soft" daal.
 ### Green vs Yellow Moong daal
 
 - Nutrition - Green moong dal is more nutritious than yellow moong dal because the skin of the green moong dal contains nutrients.
-- Preparation - Green moong dal needs to be soaked for at least five hours before cooking. Yellow moong dal can be eaten raw or soaked.
-- Uses - Green moong dal is used to make sprouts, dal khichdi, dosa, dhoklas, and curries. Yellow moong dal can be used to make dal khichdi, pakodas, curries, chilas, and toast.
-- Versatility - Yellow moong dal has a milder flavor and is more versatile than green moong dal. It can be used in a wider range of dishes, including sweet dishes and desserts.
+- Preparation - Green moong dal needs to be soaked for at least five hours before cooking. Yellow moong dal can be eaten raw or soaked.
+- Uses - Green moong dal is used to make sprouts, dal khichdi, dosa, dhoklas, and curries. Yellow moong dal can be used to make dal khichdi, pakodas, curries, chilas, and toast.
+- Versatility - Yellow moong dal has a milder flavor and is more versatile than green moong dal. It can be used in a wider range of dishes, including sweet dishes and desserts.
 
 ## Toor/Tuvar or Arhar daal or pigeon peas
 
@@ -130,7 +130,7 @@ Rajma must be soaked for several hours before cooking to soften it. As with all 
 
 ### Toxicity
 
-Red kidney beans contain relatively high amounts of [phytohemagglutinin](https://en.m.wikipedia.org/wiki/Phytohemagglutinin "Phytohemagglutinin"), and thus are more toxic than most other bean varieties if not pre-soaked and subsequently heated to the boiling point for at least 10 minutes. The US [Food and Drug Administration](https://en.m.wikipedia.org/wiki/Food_and_Drug_Administration "Food and Drug Administration") recommends boiling for 30 minutes to ensure they reach a sufficient temperature long enough to completely destroy the toxin. Cooking at the lower temperature of 80 °C (176 °F), such as in a [slow cooker](https://en.m.wikipedia.org/wiki/Slow_cooker "Slow cooker"), is insufficient to denature the toxin and has been reported to cause food poisoning.
+Red kidney beans contain relatively high amounts of [phytohemagglutinin](https://en.m.wikipedia.org/wiki/Phytohemagglutinin "Phytohemagglutinin"), and thus are more toxic than most other bean varieties if not pre-soaked and subsequently heated to the boiling point for at least 10 minutes. The US [Food and Drug Administration](https://en.m.wikipedia.org/wiki/Food_and_Drug_Administration "Food and Drug Administration") recommends boiling for 30 minutes to ensure they reach a sufficient temperature long enough to completely destroy the toxin. Cooking at the lower temperature of 80 °C (176 °F), such as in a [slow cooker](https://en.m.wikipedia.org/wiki/Slow_cooker "Slow cooker"), is insufficient to denature the toxin and has been reported to cause food poisoning.
 
 [Kidney bean - Wikipedia](https://en.m.wikipedia.org/wiki/Kidney_bean#Toxicity)
 

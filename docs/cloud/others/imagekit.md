@@ -31,8 +31,8 @@
 
 For optimizing the upload process of a huge size of images with a lot of images, what is the way to go, where uploads are distributed throughout the world?
 
-1. We should upload to S3 using S3 presigned URLs and serve those images via imagekit, by connecting to S3 bucket using external storage?
-2. Upload to imagekit directly using it's react library and authenticationEndpoint and don't use S3?
+1. We should upload to S3 using S3 presigned URLs and serve those images via imagekit, by connecting to S3 bucket using external storage?
+2. Upload to imagekit directly using it's react library and authenticationEndpoint and don't use S3?
 
 Currently we are sending images to backend, and backend uploads to imagekit, which is not a good scalable method, so we will migrate to one of the above methods.
 
@@ -58,7 +58,7 @@ Granular User Role Management and Sharing of assets within or outside your Organ
 
 Delivery and real-time transformation of your Stored assets through a CDN
 
-Read more on the different features provided by ImageKit DAM [here](https://docs.imagekit.io/media-library/overview).
+Read more on the different features provided by ImageKit DAM [here](https://docs.imagekit.io/media-library/overview).
 
 Also, as the assets are stored in the same region as the Image Processing region while delivering assets directly from the DAM, you would see performance benefits as compared to using an AWS s3 as both the Storage and the Processing region will be in the same region and infrastructure used by ImageKit.
 
@@ -103,13 +103,13 @@ Now, if image 2.jpg is updated, you can use the last updated timestamp from your
 
 #### 2. Using a custom cache-control time with ImageKit
 
-This option allows caching based on the cache control headers being passed from your [origin](https://app.intercom.com/integration/configure-origin) attached to ImageKit.io. For example, if your origin [https://storage.googleapis.com/](https://storage.googleapis.com/) sends a cache-control header to cache a file for 1 hour (which it does on your website), ImageKit.io applies the cache-control header across all its internal caches, generated transformations, and CDN.This ensures that the cache control set by you is obeyed at all times.
+This option allows caching based on the cache control headers being passed from your [origin](https://app.intercom.com/integration/configure-origin) attached to ImageKit.io. For example, if your origin [https://storage.googleapis.com/](https://storage.googleapis.com/) sends a cache-control header to cache a file for 1 hour (which it does on your website), ImageKit.io applies the cache-control header across all its internal caches, generated transformations, and CDN.This ensures that the cache control set by you is obeyed at all times.
 
 Please note: We will have to enable this option for you at our end. And this can only be enabled on a paid plan.
 
 I would personally recommend that if cache clear can be resolved with option 1, then please prefer that. It maximises the benefit of caching on the CDN while purging it for only images that actually get updated, instead of a periodic cache clear for all images.
 ​
-In case there is a specific URL that you would like to purge cache for, as an exception, you can always do so from the dashboard here: [https://imagekit.io/dashboard/purge-cache](https://imagekit.io/dashboard/purge-cache). More details on how to use this method of cache purge here: [https://docs.imagekit.io/features/cache-purging](https://docs.imagekit.io/features/cache-purging)
+In case there is a specific URL that you would like to purge cache for, as an exception, you can always do so from the dashboard here: [https://imagekit.io/dashboard/purge-cache](https://imagekit.io/dashboard/purge-cache). More details on how to use this method of cache purge here: [https://docs.imagekit.io/features/cache-purging](https://docs.imagekit.io/features/cache-purging)
 
 ---
 
@@ -124,8 +124,8 @@ If you save the image as a new file, we added a random string to the image's nam
 
 If you replace the old URL with the new URL on the front end, it would have an effect of skipping the cached response of the older version.
 
-For example: If this is the older image: [https://ik.imagekit.io/uf5ueu4sr6/sakura%20tree%20in%20bloom.jpg?updatedAt=1704462165134](https://ik.imagekit.io/uf5ueu4sr6/sakura%20tree%20in%20bloom.jpg?updatedAt=1704462165134)
-I make edits and create this newer version: [https://ik.imagekit.io/uf5ueu4sr6/sakura%20tree%20in%20bloom.jpg?updatedAt=1704462541504](https://ik.imagekit.io/uf5ueu4sr6/sakura%20tree%20in%20bloom.jpg?updatedAt=1704462541504)
+For example: If this is the older image: [https://ik.imagekit.io/uf5ueu4sr6/sakura%20tree%20in%20bloom.jpg?updatedAt=1704462165134](https://ik.imagekit.io/uf5ueu4sr6/sakura%20tree%20in%20bloom.jpg?updatedAt=1704462165134)
+I make edits and create this newer version: [https://ik.imagekit.io/uf5ueu4sr6/sakura%20tree%20in%20bloom.jpg?updatedAt=1704462541504](https://ik.imagekit.io/uf5ueu4sr6/sakura%20tree%20in%20bloom.jpg?updatedAt=1704462541504)
 If you update the time stamp on your URL to the one on newer version, you skip the cached response, without having to purge the cache.
 
 [Purge cache - ImageKit.io Docs](https://docs.imagekit.io/api-reference/media-api/purge-cache)

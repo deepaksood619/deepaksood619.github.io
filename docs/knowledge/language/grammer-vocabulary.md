@@ -186,10 +186,10 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - Iconoclastic - criticizing or attacking cherished beliefs or institutions.
 - Plenitude - abundance
 - Gordian knot - an extremely difficult or involved problem
-- polemicist - a person who engages in controversial debate
-- Anachronism - a thing belonging or appropriate to a period other than that in which it exists, especially a thing that is conspicuously old-fashioned.
-- compendium - a collection of concise but detailed information about a particular subject, especially in a book or other publication.
-- A magnum opus is a noun that means a great work, especially the greatest achievement of an artist or writer.
+- polemicist - a person who engages in controversial debate
+- Anachronism - a thing belonging or appropriate to a period other than that in which it exists, especially a thing that is conspicuously old-fashioned.
+- compendium - a collection of concise but detailed information about a particular subject, especially in a book or other publication.
+- A magnum opus is a noun that means a great work, especially the greatest achievement of an artist or writer.
 - avunculate - any social institution where a special relationship exists between an uncle and his sisters' children.
 - enigma - something that is mysterious and seems impossible to understand completely
 - Venture - a project or activity which is new, exciting, and difficult because it involves the risk of failure
@@ -203,17 +203,17 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - Incumbents - a person who is currently in an official position
 - Probity - Probity means complete honesty or the quality of being honest and behaving correctly. It's a formal word that implies tried and proven honesty or integrity. For example, you might describe someone as a person of probity. The word probity comes from the Latin word probus, which means "honest"
 - Putting legs on a snake - doing unnecessary work that can ruin the result
-- Skimpily - is an adverb that means lacking in supply or execution, or scanty. It can also mean made of too little material, or excessively thrifty. For example, you might describe someone as "**skimpily dressed**" if their clothing shows a lot of their body.
+- Skimpily - is an adverb that means lacking in supply or execution, or scanty. It can also mean made of too little material, or excessively thrifty. For example, you might describe someone as "**skimpily dressed**" if their clothing shows a lot of their body.
 - adjudicate - to act as an official judge in a competition or to decide who is right when two people or groups disagree about something
 
 ### Shill / Shilling
 
 **noun**
 
-- an accomplice of a confidence trickster or swindler who poses as a genuine customer to entice or encourage others
-    - I used to be a shill in a Reno gambling club | the agency is a shill for the nuclear power industry figurative
-- a person who pretends to give an impartial endorsement of something in which they themselves have an interest
-    - a megamillionaire who makes more money as a shill for corporate products than he does for playing basketball
+- an accomplice of a confidence trickster or swindler who poses as a genuine customer to entice or encourage others
+    - I used to be a shill in a Reno gambling club | the agency is a shill for the nuclear power industry figurative
+- a person who pretends to give an impartial endorsement of something in which they themselves have an interest
+    - a megamillionaire who makes more money as a shill for corporate products than he does for playing basketball
 
 **verb**
 

@@ -6,7 +6,7 @@
 
 The stock market can play a pivotal role in ensuring your financial security. In this module, you will learn how to get started in the stock market, its fundamentals, how it functions, and the various intermediaries that appertain it.
 
-[View module](https://zerodha.com/varsity/module/introduction-to-stock-markets/) [Watch videos](https://zerodha.com/varsity/module/introduction-to-stock-markets-video-series/)
+[View module](https://zerodha.com/varsity/module/introduction-to-stock-markets/) [Watch videos](https://zerodha.com/varsity/module/introduction-to-stock-markets-video-series/)
 
 ### 2 - [Technical Analysis](https://zerodha.com/varsity/module/technical-analysis/)
 
@@ -14,7 +14,7 @@ The stock market can play a pivotal role in ensuring your financial security. In
 
 Technical Analysis (TA) helps in developing a point of view. In this module, we will discover the complex attributes, various patterns, indicators, and theories of TA that will help you as a trader to find upright trading opportunities in the market.
 
-[View module](https://zerodha.com/varsity/module/technical-analysis/) [Watch videos](https://zerodha.com/varsity/module/technical-analysis-video-series/)
+[View module](https://zerodha.com/varsity/module/technical-analysis/) [Watch videos](https://zerodha.com/varsity/module/technical-analysis-video-series/)
 
 ### 3 - [Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
 
@@ -26,7 +26,7 @@ Fundamental Analysis is the art of evaluating the intrinsic value of a stock to 
 
 [Fundamental Analysis of Wonderla Holidays Limited - by RCG](https://www.budgetiger.in/p/case-study-wonderla-holidays-limited)
 
-[View module](https://zerodha.com/varsity/module/fundamental-analysis/) [Watch videos](https://zerodha.com/varsity/module/fundamental-analysis-2/)
+[View module](https://zerodha.com/varsity/module/fundamental-analysis/) [Watch videos](https://zerodha.com/varsity/module/fundamental-analysis-2/)
 
 ### 4 - [Futures Trading](https://zerodha.com/varsity/module/futures-trading/)
 
@@ -34,7 +34,7 @@ Fundamental Analysis is the art of evaluating the intrinsic value of a stock to 
 
 Futures Trading is a segment of the derivatives market. This module covers the various intricacies involved in undergoing a futures trade, including margins, leverages, pricing, etc. It also discusses the use of derivatives for hedging purposes.
 
-[View module](https://zerodha.com/varsity/module/futures-trading/) [Watch videos](https://zerodha.com/varsity/module/futures-trading-futures-trading/)
+[View module](https://zerodha.com/varsity/module/futures-trading/) [Watch videos](https://zerodha.com/varsity/module/futures-trading-futures-trading/)
 
 ### 5 - [Options Theory for Professional Trading](https://zerodha.com/varsity/module/option-theory/)
 
@@ -42,7 +42,7 @@ Futures Trading is a segment of the derivatives market. This module covers the v
 
 Options Trading is a segment of the derivatives segment. Options contracts grant the buyer the right to buy/sell the underlying without a compulsory obligation. This module discusses options contracts, pricing, and their profit and loss payoffs.
 
-[View module](https://zerodha.com/varsity/module/option-theory/) [Watch videos](https://zerodha.com/varsity/module/options-trading/)
+[View module](https://zerodha.com/varsity/module/option-theory/) [Watch videos](https://zerodha.com/varsity/module/options-trading/)
 
 ### 6 - [Option Strategies](https://zerodha.com/varsity/module/option-strategies/)
 
@@ -143,6 +143,6 @@ https://risk.learnapp.co/quiz
 [Introducing Margin Trading Facility (MTF) on Kite – Z-Connect by Zerodha](https://zerodha.com/z-connect/featured/introducing-margin-trade-funding-mtf-on-kite)
 
 - [Understanding Margin Trading Facility (MTF) at Zerodha: A Complete Guide - YouTube](https://www.youtube.com/watch?v=AYDD5b14IUY)
-- You can sell shares on Zerodha and then immediately buy the same amount using margin (through the Margin Trading Facility - MTF) before the shares from your initial sale are delivered to your demat account, essentially allowing you to "re-buy" with borrowed funds while the proceeds of your initial sale are still pending; this is often referred to as a "BTST" (Buy Today, Sell Tomorrow) trade.
+- You can sell shares on Zerodha and then immediately buy the same amount using margin (through the Margin Trading Facility - MTF) before the shares from your initial sale are delivered to your demat account, essentially allowing you to "re-buy" with borrowed funds while the proceeds of your initial sale are still pending; this is often referred to as a "BTST" (Buy Today, Sell Tomorrow) trade.
 
 LAMF - [The Ultimate Guide to Loans Against Mutual Funds 🦁 Best, Quickest & Cheapest Loan - YouTube](https://www.youtube.com/watch?v=yPXAhAdf1-E)

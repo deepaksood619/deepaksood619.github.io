@@ -96,7 +96,7 @@ What is your sample size?
 
 Is the form of argument that attempts to establish a claim by showing that the opposite scenario would lead to absurdity or contradiction.
 
-A form of the reductio ad absurdum [argument](https://www.britannica.com/topic/argument-logic), known as [indirect proof](https://www.britannica.com/topic/indirect-proof) or reductio ad impossibile, is one that proves a proposition by showing that its denial conjoined with other propositions previously proved or accepted leads to a contradiction. In common speech the term reductio ad absurdum refers to anything pushed to **absurd extremes**.
+A form of the reductio ad absurdum [argument](https://www.britannica.com/topic/argument-logic), known as [indirect proof](https://www.britannica.com/topic/indirect-proof) or reductio ad impossibile, is one that proves a proposition by showing that its denial conjoined with other propositions previously proved or accepted leads to a contradiction. In common speech the term reductio ad absurdum refers to anything pushed to **absurd extremes**.
 
 [Reductio ad absurdum - Wikipedia](https://en.wikipedia.org/wiki/Reductio_ad_absurdum)
 

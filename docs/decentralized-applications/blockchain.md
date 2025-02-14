@@ -79,7 +79,7 @@ https://blog.chain.link/what-is-the-blockchain-oracle-problem
 
 ### Double Spending
 
-- [Double spending](https://www.geeksforgeeks.org/solutions-to-prevent-double-spending-of-bitcoins/) means the expenditure of the same digital currency twice or more to avail the multiple services. It is a technical flaw that allows users to duplicate money.
+- [Double spending](https://www.geeksforgeeks.org/solutions-to-prevent-double-spending-of-bitcoins/) means the expenditure of the same digital currency twice or more to avail the multiple services. It is a technical flaw that allows users to duplicate money.
 - Since digital currencies are nothing but files, a malicious user can create multiple copies of the same currency file and can use it in multiple places.
 - This issue can also occur if there is an alteration in the network or copies of the currency are only used and not the original one.
 - There are also double spends that allow hackers to reverse transactions so that transaction happens two times.
@@ -88,9 +88,9 @@ https://blog.chain.link/what-is-the-blockchain-oracle-problem
 
 #### Types Of Double Spending Attacks
 
-- **Finney Attack:** Finney Attack is a type of Double spending Attack. In this, a merchant accepts an unauthorized transaction. The original block is eclipsed by the hacker using an eclipse attack. The transaction is performed on an unauthorized one. After that, the real block shows up and again the transaction is done automatically for the real block. Thus the merchant loses money two times.
-- **Race attack:** is an attack in which there is a ‘race’ between two transactions. The attacker sends the same money using different machines to two different merchants. The merchants send their goods but transactions get invalid.
-- **51% Attack:** This type of attack is prevalent in small blockchains. Hackers usually take over 51% of the mining power of blockchain and therefore can do anything of their own will.
+- **Finney Attack:** Finney Attack is a type of Double spending Attack. In this, a merchant accepts an unauthorized transaction. The original block is eclipsed by the hacker using an eclipse attack. The transaction is performed on an unauthorized one. After that, the real block shows up and again the transaction is done automatically for the real block. Thus the merchant loses money two times.
+- **Race attack:** is an attack in which there is a ‘race’ between two transactions. The attacker sends the same money using different machines to two different merchants. The merchants send their goods but transactions get invalid.
+- **51% Attack:** This type of attack is prevalent in small blockchains. Hackers usually take over 51% of the mining power of blockchain and therefore can do anything of their own will.
 
 [What is Double Spending in Blockchain? - GeeksforGeeks](https://www.geeksforgeeks.org/what-is-double-spending-in-blockchain/)
 
@@ -144,9 +144,9 @@ Ethereum uses an account-based approach with account balances, so there are no U
 
 #### Example
 
-Alice has 0.45 BTC in her [wallet](https://academy.binance.com/en/articles/crypto-wallet-types-explained). This isn’t a fraction of a coin as we might conceptualize it. It’s rather a collection of UTXOs. Specifically, two UTXOs worth 0.4 BTC, and 0.05 BTC - outputs from past transactions. Now let's imagine that Alice needs to make a payment to Bob of 0.3 BTC.
+Alice has 0.45 BTC in her [wallet](https://academy.binance.com/en/articles/crypto-wallet-types-explained). This isn’t a fraction of a coin as we might conceptualize it. It’s rather a collection of UTXOs. Specifically, two UTXOs worth 0.4 BTC, and 0.05 BTC - outputs from past transactions. Now let's imagine that Alice needs to make a payment to Bob of 0.3 BTC.
 
-Her only option here is to break up the 0.4 BTC unit and to send 0.3 BTC to Bob, and 0.1 BTC back to herself. She would normally reclaim less than 0.1 BTC due to mining fees, but let's simplify and leave the [miner](https://academy.binance.com/en/articles/what-is-cryptocurrency-mining) out.
+Her only option here is to break up the 0.4 BTC unit and to send 0.3 BTC to Bob, and 0.1 BTC back to herself. She would normally reclaim less than 0.1 BTC due to mining fees, but let's simplify and leave the [miner](https://academy.binance.com/en/articles/what-is-cryptocurrency-mining) out.
 
 Alice creates a transaction that essentially says to the network: take my 0.4 BTC UTXO as an input, break it up, send 0.3 BTC of it to Bob’s address and return the 0.1 BTC to my address. The 0.4 BTC is now a spent output, and can’t be reused. Meanwhile, two new UTXOs have been created (0.3 BTC and 0.1 BTC).
 

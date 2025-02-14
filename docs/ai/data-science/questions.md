@@ -154,24 +154,24 @@ WHERE  sal = (SELECT Max(sal)
                             FROM   emp));
 
 -- using window function
-SELECT *
-FROM   a
-WHERE  rnum = 2
-       (
-                SELECT   row_number() OVER(ORDER BY sal DESC)rnum ,
-                         NAME,
-                         sal
-                FROM     emp )a
+SELECT *
+FROM   a
+WHERE  rnum = 2
+       (
+                SELECT   row_number() OVER(ORDER BY sal DESC)rnum ,
+                         NAME,
+                         sal
+                FROM     emp )a
 
 -- using window function with CTE
-WITH cte
+WITH cte
 (
-         SELECT   row_number() OVER(ORDER BY sal DESC)rnum ,
-                  NAME,
-                  sal
-         FROM     emp )SELECT *
-FROM   cte
-WHERE  rnum = 2
+         SELECT   row_number() OVER(ORDER BY sal DESC)rnum ,
+                  NAME,
+                  sal
+         FROM     emp )SELECT *
+FROM   cte
+WHERE  rnum = 2
 
 select * from
   ( select sal

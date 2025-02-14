@@ -384,7 +384,7 @@ It can become toxic and inedible quickly; when stored for more than 20 minutes, 
 	- GBD - Global Burden of Disease
 - [Launch of the WHO guideline on the use of lower-sodium salt substitutes](https://www.who.int/news-room/events/detail/2025/01/27/default-calendar/launch-of-the-who-guideline-on-the-use-of-lower-sodium-salt-substitutes)
 - [WHO Guidelines: Replace regular table salt with lower-sodium salt substitutes that contain potassium - The Hindu](https://www.thehindu.com/sci-tech/health/replace-regular-table-salt-with-lower-sodium-salt-substitutes-that-contain-potassium-who/article69151664.ece)
-- [What WHO’s recommendation for low sodium salt alternatives means for India  - The Hindu](https://www.thehindu.com/sci-tech/health/sodium/article69158576.ece)
+- [What WHO’s recommendation for low sodium salt alternatives means for India  - The Hindu](https://www.thehindu.com/sci-tech/health/sodium/article69158576.ece)
 - [Pass on the Salt: Should We Ask for Potassium Chloride at the Dinner Table Instead? \| Office for Science and Society - McGill University](https://www.mcgill.ca/oss/article/health-and-nutrition-contributors/pass-salt-should-we-ask-potassium-chloride-dinner-table-instead)
 - [Salt Alternative: Potassium Chloride](https://www.healthline.com/health-news/what-is-potassium-chloride-and-why-you-may-want-to-replace-salt-with-it)
 - [Dietary Impact of Adding Potassium Chloride to Foods as a Sodium Reduction Technique - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4848703/)

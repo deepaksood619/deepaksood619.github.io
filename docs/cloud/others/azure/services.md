@@ -71,7 +71,7 @@ Gather, store, process, analyse and visualise data of any variety, volume or vel
 
 Limitless analytics service with unmatched time to insight (formerly SQL Data Warehouse)
 
-Azure Synapse Analytics is an analytics service that helps in data integration, data warehousing, and big data analytics. [Azure Synapse](https://k21academy.com/microsoft-azure/data-engineer/azure-synapse-analytics/) gives a unified experience to ingest, explore, prepare, manage, and serve data for immediate **BI** (Business Intelligence) and machine learning needs. It gives the freedom to query data using either serverless or dedicated resources.
+Azure Synapse Analytics is an analytics service that helps in data integration, data warehousing, and big data analytics. [Azure Synapse](https://k21academy.com/microsoft-azure/data-engineer/azure-synapse-analytics/) gives a unified experience to ingest, explore, prepare, manage, and serve data for immediate **BI** (Business Intelligence) and machine learning needs. It gives the freedom to query data using either serverless or dedicated resources.
 
 ![Azure Synapse Analytics](../../../media/Pasted%20image%2020240301184327.jpg)
 
@@ -82,7 +82,7 @@ Azure Synapse Analytics is an analytics service that helps in data integration, 
 - [Data Lake Exploration](https://k21academy.com/microsoft-azure/data-engineer/azure-data-lake/)
 - Serverless and Dedicated Options
 - Code-Free Hybrid Data Integration
-- Integrated **AI** (Artificial Intelligence) and **BI** (Business Intelligence)
+- Integrated **AI** (Artificial Intelligence) and **BI** (Business Intelligence)
 - End-to-End Management and Monitoring
 
 [Azure Synapse SQL: Exploring Pool Options](https://k21academy.com/microsoft-azure/data-engineer/azure-sql-vs-dedicated-sql-vs-serverless-sql-vs-apache-spark/)
@@ -100,11 +100,11 @@ Azure Synapse and Azure Data Factory are both Microsoft cloud-based services for
 
 #### Azure Synapse
 
-An analytics service that's well-suited for large-scale, complex data processing, and big data analytics. It's a platform for managing, preparing, and serving data for machine learning and business intelligence (BI) purposes. Azure Synapse supports unstructured data and allows users to perform analysis with various programming languages, including Python and Spark.
+An analytics service that's well-suited for large-scale, complex data processing, and big data analytics. It's a platform for managing, preparing, and serving data for machine learning and business intelligence (BI) purposes. Azure Synapse supports unstructured data and allows users to perform analysis with various programming languages, including Python and Spark.
 
 #### Azure Data Factory
 
-A hybrid data integration service that's better for simpler ETL workflows, smaller datasets, and infrequent processing needs. It offers features like real-time integration and parallel processing, and it can integrate different data sources without code. Azure Data Factory is more cost-effective and easier to manage than Azure Synapse.
+A hybrid data integration service that's better for simpler ETL workflows, smaller datasets, and infrequent processing needs. It offers features like real-time integration and parallel processing, and it can integrate different data sources without code. Azure Data Factory is more cost-effective and easier to manage than Azure Synapse.
 
 Here are some other things to consider when choosing between Azure Synapse and Azure Data Factory:
 
@@ -189,7 +189,7 @@ Build, manage and continuously deliver cloud applications - using any platform o
 99. [Visual Studio Code](https://azure.microsoft.com/en-in/products/visual-studio-code/) - A powerful, lightweight code editor for cloud development
 100. [SDKs](https://azure.microsoft.com/en-in/downloads/) - Get the SDKs and command-line tools you need
 101. [Azure DevOps](https://azure.microsoft.com/en-in/services/devops/) - Services for teams to share code, track work and ship software
-    1. Previously called as  Team Foundation Server (TFS)
+    1. Previously called as  Team Foundation Server (TFS)
 102. [Azure Pipelines](https://azure.microsoft.com/en-in/services/devops/pipelines/) - Continuously build, test and deploy to any platform and cloud
 103. [Azure Lab Services](https://azure.microsoft.com/en-in/services/lab-services/) - Set up labs for classrooms, trials, development and testing and other scenarios
 104. [Azure DevTest Labs](https://azure.microsoft.com/en-in/services/devtest-lab/) - Quickly create environments using reusable templates and artifacts

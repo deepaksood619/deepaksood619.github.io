@@ -196,7 +196,7 @@ Passkeys are safer:
 
 [Passkeys: What they are and how to use them](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/)
 
-[Passwordless login with passkeys  |  Authentication  |  Google for Developers](https://developers.google.com/identity/passkeys)
+[Passwordless login with passkeys  |  Authentication  |  Google for Developers](https://developers.google.com/identity/passkeys)
 
 ## Summary
 

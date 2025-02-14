@@ -29,11 +29,11 @@ The test suites we discussed earlier are applicable to testing individual servic
 
 #### Integration testing
 
-Focuses on the interaction between software components. It ensures that components can communicate and exchange data. Integration testing is used to test a single process from third-party software.
+Focuses on the interaction between software components. It ensures that components can communicate and exchange data. Integration testing is used to test a single process from third-party software.
 
 #### End-to-end testing
 
-Tests the entire software system, from the user interface to the database. It simulates user behavior and usage patterns. End-to-end testing can be used for a single process or for multiple applications.
+Tests the entire software system, from the user interface to the database. It simulates user behavior and usage patterns. End-to-end testing can be used for a single process or for multiple applications.
 
 ## Fault Injection
 
@@ -87,11 +87,11 @@ DAST operates by attacking the running code and seeking to exploit potential vul
 
 ### What are SAST and DAST?
 
-SAST and DAST are application security testing methodologies used to find security vulnerabilities that can make an application susceptible to attack. Static application security testing (SAST) is a white box method of testing. It examines the code to find software flaws and weaknesses such as SQL injection and others listed in the [OWASP Top 10](https://www.synopsys.com/glossary/what-is-owasp-top-10.html). Dynamic application security testing (DAST) is a black box testing method that examines an application as it’s running to find vulnerabilities that an attacker could exploit.
+SAST and DAST are application security testing methodologies used to find security vulnerabilities that can make an application susceptible to attack. Static application security testing (SAST) is a white box method of testing. It examines the code to find software flaws and weaknesses such as SQL injection and others listed in the [OWASP Top 10](https://www.synopsys.com/glossary/what-is-owasp-top-10.html). Dynamic application security testing (DAST) is a black box testing method that examines an application as it’s running to find vulnerabilities that an attacker could exploit.
 
 |S.NO.|Static Application Security Testing|Dynamic Application Security Testing|
 |---|---|---|
-|1.|SAST is a type of [White Box security testing.](https://www.geeksforgeeks.org/software-engineering-white-box-testing/)|DAST is type of [Black Box security testing](https://www.geeksforgeeks.org/software-engineering-black-box-testing/).|
+|1.|SAST is a type of [White Box security testing.](https://www.geeksforgeeks.org/software-engineering-white-box-testing/)|DAST is type of [Black Box security testing](https://www.geeksforgeeks.org/software-engineering-black-box-testing/).|
 |2.|In SAST, application is tested from inside out.|In DAST, application is tested from outside in.|
 |3.|This type testing is a developers approach of testing.|This type testing is a hackers approach of testing.|
 |4.|No deployed application is required for Static Application Security Testing.|A running application is required for Dynamic Application Security Testing.|

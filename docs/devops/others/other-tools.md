@@ -244,7 +244,7 @@ https://opendev.org
 
 The Registry is a stateless, highly scalable server side application that stores and lets you distribute container images and other content.
 
-Registry, the open source implementation for storing and distributing container images and other content, has been donated to the CNCF. Registry now goes under the name of Distribution, and the documentation has moved to [distribution/distribution](https://distribution.github.io/distribution/).
+Registry, the open source implementation for storing and distributing container images and other content, has been donated to the CNCF. Registry now goes under the name of Distribution, and the documentation has moved to [distribution/distribution](https://distribution.github.io/distribution/).
 
 ### Why use it
 

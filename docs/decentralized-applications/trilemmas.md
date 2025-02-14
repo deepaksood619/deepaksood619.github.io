@@ -17,7 +17,7 @@ https://www.freecodecamp.org/news/create-cryptocurrency-using-python
 Interop protocols can only have two of the following three properties:
 
 - **Trustlessness**: having equivalent security to the underlying domains.
-- **Extensibility:** able to be supported on any domain.
-- **Generalizeability:** capable of handling arbitrary cross-domain data.
+- **Extensibility:** able to be supported on any domain.
+- **Generalizeability:** capable of handling arbitrary cross-domain data.
 
 ![interoperability-trilemma](../media/Screenshot%202023-08-24%20at%2011.52.42%20AM.jpg)

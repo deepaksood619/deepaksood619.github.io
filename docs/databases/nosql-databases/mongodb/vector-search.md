@@ -49,3 +49,6 @@ Atlas Vector Search Supports embeddings from any provider that is under the 2048
 Yes, Atlas Vector Search can query any kind of data that can be turned into an embedding. One of the benefits of the document model is that you can store your embeddings right alongside your rich data in your documents.
 
 [MongoDB Atlas Vector Search | MongoDB](https://www.mongodb.com/products/platform/atlas-vector-search)
+
+[google-research/scann at master · google-research/google-research · GitHub](https://github.com/google-research/google-research/tree/master/scann)
+- ScaNN (Scalable Nearest Neighbors) is a method for efficient vector similarity search at scale.

@@ -12,15 +12,15 @@ Git is the single source of truth for the desired state of a system
 
 ### IaC
 
-GitOps uses a [Git repository](https://about.gitlab.com/blog/2020/11/12/migrating-your-version-control-to-git/) as the single source of truth for infrastructure definitions. Git is an open source version control system that tracks code management changes, and a Git repository is a .git folder in a project that tracks all changes made to files in a project over time. [Infrastructure as code (IaC)](https://about.gitlab.com/topics/gitops/infrastructure-as-code/) is the practice of keeping all infrastructure configuration stored as code. The actual desired state may or may not be not stored as code (e.g., number of replicas or pods).
+GitOps uses a [Git repository](https://about.gitlab.com/blog/2020/11/12/migrating-your-version-control-to-git/) as the single source of truth for infrastructure definitions. Git is an open source version control system that tracks code management changes, and a Git repository is a .git folder in a project that tracks all changes made to files in a project over time. [Infrastructure as code (IaC)](https://about.gitlab.com/topics/gitops/infrastructure-as-code/) is the practice of keeping all infrastructure configuration stored as code. The actual desired state may or may not be not stored as code (e.g., number of replicas or pods).
 
 ### MRs
 
-GitOps uses merge requests (MRs) or pull requests (PRs) as the [change mechanism](https://about.gitlab.com/blog/2020/10/13/merge-request-reviewers/) for all infrastructure updates. The MR or PR is where teams can collaborate via reviews and comments and where formal approvals take place. A merge commits to your main (or trunk) branch and serves as an audit log or audit trail.
+GitOps uses merge requests (MRs) or pull requests (PRs) as the [change mechanism](https://about.gitlab.com/blog/2020/10/13/merge-request-reviewers/) for all infrastructure updates. The MR or PR is where teams can collaborate via reviews and comments and where formal approvals take place. A merge commits to your main (or trunk) branch and serves as an audit log or audit trail.
 
 ### CI/CD
 
-GitOps automates infrastructure updates using a Git workflow with [continuous integration and continuous delivery (CI/CD)](https://about.gitlab.com/topics/ci-cd/). When new code is merged, the CI/CD pipeline enacts the change in the environment. Any configuration drift, such as manual changes or errors, is overwritten by GitOps automation so the environment converges on the desired state defined in Git. GitLab uses CI/CD [pipelines](https://about.gitlab.com/blog/2020/12/02/pre-filled-variables-feature/) to manage and implement GitOps automation, but other forms of automation, such as definitions operators, can be used as well.
+GitOps automates infrastructure updates using a Git workflow with [continuous integration and continuous delivery (CI/CD)](https://about.gitlab.com/topics/ci-cd/). When new code is merged, the CI/CD pipeline enacts the change in the environment. Any configuration drift, such as manual changes or errors, is overwritten by GitOps automation so the environment converges on the desired state defined in Git. GitLab uses CI/CD [pipelines](https://about.gitlab.com/blog/2020/12/02/pre-filled-variables-feature/) to manage and implement GitOps automation, but other forms of automation, such as definitions operators, can be used as well.
 
 ## What is the difference between GitOps and DevOps?
 

@@ -2,9 +2,9 @@
 
 FinOps (or cloud FinOps) is an evolving cloud financial management discipline and cultural practice that aims to maximize business value in hybrid and multicloud environments.
 
-FinOps is a portmanteau of finance and [DevOps](https://www.ibm.com/topics/devops), emphasizing that IT, finance and business teams must collaborate to bring financial accountability to the cloud and make informed, data-driven decisions when managing tradeoffs between speed, cost and performance.1
+FinOps is a portmanteau of finance and [DevOps](https://www.ibm.com/topics/devops), emphasizing that IT, finance and business teams must collaborate to bring financial accountability to the cloud and make informed, data-driven decisions when managing tradeoffs between speed, cost and performance.1
 
-There’s a misconception that FinOps means becoming cheap with cloud spend. Actually, FinOps is about **removing blockers, empowering engineering teams to deliver better features, apps and migrations faster, and enabling a cross-functional conversation about where to invest and when**. Sometimes a business will decide to tighten the belt. Sometimes it’ll decide to invest more. But with FinOps, teams know why they’re making those spending decisions.2
+There’s a misconception that FinOps means becoming cheap with cloud spend. Actually, FinOps is about **removing blockers, empowering engineering teams to deliver better features, apps and migrations faster, and enabling a cross-functional conversation about where to invest and when**. Sometimes a business will decide to tighten the belt. Sometimes it’ll decide to invest more. But with FinOps, teams know why they’re making those spending decisions.2
 
 An operational framework and cultural shift that brings technology, finance, and business together to drive financial accountability and accelerate business value realization through cloud transformation.
 
@@ -97,7 +97,7 @@ The FinOps Framework includes capabilities that cover everything from cost analy
 
 ## Links
 
-- [What is Cloud FinOps?  |  Google Cloud](https://cloud.google.com/learn/what-is-finops)
+- [What is Cloud FinOps?  |  Google Cloud](https://cloud.google.com/learn/what-is-finops)
 - [FinOps Insights](https://www.finops.org/insights/)
 - [FinOps Domains](https://www.finops.org/framework/domains/)
 - [What Is Cloud Financial Operations (FinOps)? - Intel](https://www.intel.com/content/www/us/en/cloud-computing/finops.html)

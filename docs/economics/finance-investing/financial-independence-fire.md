@@ -61,7 +61,7 @@ https://networthify.com/calculator/earlyretirement
 - Expense factor (Your post retirement expenses as a percent of your current expenses) - 100%
 - Inflation rate - 6%
 - You need to make a **monthly investment** of 1,85,122.36 to accumulate a **corpus** of 13,29,65,839.82
-- For age - 30, retirement age - 40, life expectancy - 100, You need to make a **monthly investment** of 5,72,678.39 to accumulate a **corpus** of 11,44,57,711.73
+- For age - 30, retirement age - 40, life expectancy - 100, You need to make a **monthly investment** of 5,72,678.39 to accumulate a **corpus** of 11,44,57,711.73
 
 [Retirement Planner Calculator India | Retirement Planning Calculator Online](https://www.moneycontrol.com/personal-finance/tools/retirement-planning-calculator.html)
 

@@ -42,12 +42,12 @@ https://wiki.nikiv.dev/
 
 [Swizzling | Docusaurus](https://docusaurus.io/docs/swizzling)
 
-**swizzling** - allows **deeper site customizations**
+**swizzling** - allows **deeper site customizations**
 
-swizzling permits to **swap a theme component with your own implementation**, and it comes in 2 patterns
+swizzling permits to **swap a theme component with your own implementation**, and it comes in 2 patterns
 
-- [**Ejecting**](https://docusaurus.io/docs/swizzling#ejecting): creates a **copy** of the original theme component, which you can fully **customize**
-- [**Wrapping**](https://docusaurus.io/docs/swizzling#wrapping): creates a **wrapper** around the original theme component, which you can **enhance**
+- [**Ejecting**](https://docusaurus.io/docs/swizzling#ejecting): creates a **copy** of the original theme component, which you can fully **customize**
+- [**Wrapping**](https://docusaurus.io/docs/swizzling#wrapping): creates a **wrapper** around the original theme component, which you can **enhance**
 
 ### Plugins
 

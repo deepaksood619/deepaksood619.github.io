@@ -111,9 +111,9 @@ ProxySQL is a high performance, high availability, protocol aware proxy for MySQ
 
 Its development is driven by the lack of open source proxies that provide high performance.
 
-[ProxySQL](https://www.proxysql.com/) is a high-performance SQL proxy. ProxySQL runs as a daemon watched by a monitoring process. The process monitors the daemon and restarts it in case of a crash to minimize downtime.
+[ProxySQL](https://www.proxysql.com/) is a high-performance SQL proxy. ProxySQL runs as a daemon watched by a monitoring process. The process monitors the daemon and restarts it in case of a crash to minimize downtime.
 
-The daemon accepts incoming traffic from *MySQL* clients and forwards it to backend *MySQL* servers.
+The daemon accepts incoming traffic from *MySQL* clients and forwards it to backend *MySQL* servers.
 
 The proxy is designed to run continuously without needing to be restarted. Most configuration can be done at runtime using queries similar to SQL statements. These include runtime parameters, server grouping, and traffic-related settings.
 

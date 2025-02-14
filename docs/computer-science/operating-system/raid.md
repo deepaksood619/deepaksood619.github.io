@@ -124,7 +124,7 @@ https://www.storagetutorials.com/understanding-concept-striping-mirroring-parity
 
 ### Just a Bunch Of Disks
 
-JBOD (stands for "Just a Bunch Of Disks") is referred as the collection of hard disks with one single storage enclosure that are not configured to acts as [Redundant Array of Independent Disks (RAID array)](https://www.geeksforgeeks.org/raid-redundant-arrays-of-independent-disks/). The multiple disks in array are connected to a single server that provides higher storage capacity.
+JBOD (stands for "Just a Bunch Of Disks") is referred as the collection of hard disks with one single storage enclosure that are not configured to acts as [Redundant Array of Independent Disks (RAID array)](https://www.geeksforgeeks.org/raid-redundant-arrays-of-independent-disks/). The multiple disks in array are connected to a single server that provides higher storage capacity.
 
 JBODs make the disk appear to be single one by combining all the disks. Like in RAID system the data is stored redundantly in multiple disks which appear as single disk in operating system.
 
@@ -153,7 +153,7 @@ JBOD and RAID are the two major data storage configurations. Some differences & 
 
 ### Difference
 
-1. RAID are comparatively expensive than JBOD as RAID uses components like [SATA disks](https://www.geeksforgeeks.org/sata-full-form/) and controllers which are highly priced.
+1. RAID are comparatively expensive than JBOD as RAID uses components like [SATA disks](https://www.geeksforgeeks.org/sata-full-form/) and controllers which are highly priced.
 2. JBOD allows room for combination of drives of mixed sizes while RAID configurations allow only similar sized disks to be used in array.
 3. Mostly JBOD are preferred over RAID as they are easily to scale which is done by just adding another drive.
 4. RAID has certain features like supporting hard disk failure, enhancing performance, which are missing in JBOD.

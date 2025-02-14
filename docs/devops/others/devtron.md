@@ -22,7 +22,7 @@ Devtron is designed to be modular, and its functionality can be easily extended 
 
 ##### CI/CD Integration
 
-[Devtron CI/CD with GitOps](https://github.com/devtron-labs/devtron#install-devtron-with-cicd-integration) integration is used to automate the builds and deployments and enables the software development teams to focus on meeting the business requirements, code quality, and security.
+[Devtron CI/CD with GitOps](https://github.com/devtron-labs/devtron#install-devtron-with-cicd-integration) integration is used to automate the builds and deployments and enables the software development teams to focus on meeting the business requirements, code quality, and security.
 
 - Devtron leverages Kubernetes auto-scaling and centralized caching to give you unlimited cost-efficient CI workers.
 - Supports pre-CI and post-CI integrations for code quality monitoring.

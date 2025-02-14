@@ -145,9 +145,9 @@ A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL
 
 ### Ludwig
 
-Ludwig is an open-source, [declarative machine learning framework](https://ludwig.ai/latest/user_guide/what_is_ludwig/#why-declarative-machine-learning-systems) that makes it easy to define deep learning pipelines with a simple and flexible data-driven configuration system. Ludwig is suitable for a wide variety of AI tasks, and is hosted by the [Linux Foundation AI & Data](https://lfaidata.foundation/).
+Ludwig is an open-source, [declarative machine learning framework](https://ludwig.ai/latest/user_guide/what_is_ludwig/#why-declarative-machine-learning-systems) that makes it easy to define deep learning pipelines with a simple and flexible data-driven configuration system. Ludwig is suitable for a wide variety of AI tasks, and is hosted by the [Linux Foundation AI & Data](https://lfaidata.foundation/).
 
-Ludwig enables you to apply state-of-the-art tabular, natural language processing, and computer vision models to your existing data and put them into production with just a [few short commands](https://ludwig.ai/latest/user_guide/command_line_interface).
+Ludwig enables you to apply state-of-the-art tabular, natural language processing, and computer vision models to your existing data and put them into production with just a [few short commands](https://ludwig.ai/latest/user_guide/command_line_interface).
 
 [GitHub - ludwig-ai/ludwig: Low-code framework for building custom LLMs, neural networks, and other AI models](https://github.com/ludwig-ai/ludwig)
 
@@ -160,16 +160,6 @@ Ludwig enables you to apply state-of-the-art tabular, natural language processin
 - [DataRobot AI Platform | Deliver Value from AI](https://www.datarobot.com/)
 - [Accelerating Systems with Real-time AI Solutions - Groq](https://wow.groq.com/)
 - [CrewAI](https://www.crewai.com/)
-
-## LLM Agents / LLM Agent
-
-An LLM Agent is a software entity capable of reasoning and autonomously executing tasks.
-
-[GitHub - viktoriasemaan/multi-agent: Examples of AI Multi-Agent Solutions](https://github.com/viktoriasemaan/multi-agent)
-
-[Building LLM Agents with Tool Use - YouTube](https://youtu.be/5drn2DO7gNY)
-
-[AI Agents Are Changing AWS Cost Prediction - YouTube](https://youtu.be/_cjuQlc62uc)
 
 ## Resources
 

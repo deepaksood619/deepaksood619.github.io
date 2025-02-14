@@ -32,7 +32,7 @@ https://github.com/metabase/metabase
 
 ### Parameters for signed embeds
 
-Parameters are pieces of information that are passed between Metabase and your website via the [embedding URL](https://www.metabase.com/docs/latest/embedding/signed-embedding#adding-the-embedding-url-to-your-website). You can use parameters to specify how Metabase items should look and behave inside the iframe on your website.
+Parameters are pieces of information that are passed between Metabase and your website via the [embedding URL](https://www.metabase.com/docs/latest/embedding/signed-embedding#adding-the-embedding-url-to-your-website). You can use parameters to specify how Metabase items should look and behave inside the iframe on your website.
 
 #### Types of parameters
 
@@ -43,7 +43,7 @@ Parameters can be signed or unsigned.
 - [Editable parameters](https://www.metabase.com/docs/latest/embedding/signed-embedding-parameters#adding-a-filter-widget-to-a-signed-embed)
 - [Locked parameters](https://www.metabase.com/docs/latest/embedding/signed-embedding-parameters#restricting-data-in-a-signed-embed)
 
-**Unsigned parameters**, such as appearance settings, should be added directly to your iframe’s `src` attribute.
+**Unsigned parameters**, such as appearance settings, should be added directly to your iframe’s `src` attribute.
 
 - [Default values for editable parameters](https://www.metabase.com/docs/latest/embedding/signed-embedding-parameters#populating-an-embedded-filter-widget-with-a-default-value)
 - [Visibility settings for editable parameters](https://www.metabase.com/docs/latest/embedding/signed-embedding-parameters#hiding-filter-widgets-from-a-signed-embed)

@@ -2,16 +2,16 @@
 
 Program management is the management of multiple related projects at the same time. A program is a set of interconnected projects overseen by a program manager whose main goal is to ensure that all work ties back into company-wide goals and objectives.
 
-Program managers also help to drive organizational change by helping with [agile](https://www.atlassian.com/agile) transformations, including helping to implement [DevOps](https://www.atlassian.com/devops/what-is-devops) practices and principles. Program managers may align program management practices and processes with agile values such as collaboration, team autonomy and empowerment, delivering value to customers, and adapting to change in the moment. A program manager can bring agile and DevOps to life for teams across large programs or individual projects by tailoring programs to the specific requirements and opportunities of the business.
+Program managers also help to drive organizational change by helping with [agile](https://www.atlassian.com/agile) transformations, including helping to implement [DevOps](https://www.atlassian.com/devops/what-is-devops) practices and principles. Program managers may align program management practices and processes with agile values such as collaboration, team autonomy and empowerment, delivering value to customers, and adapting to change in the moment. A program manager can bring agile and DevOps to life for teams across large programs or individual projects by tailoring programs to the specific requirements and opportunities of the business.
 
 ### A successful program manager will also
 
 - Gain executive buy-in for the program
 - Manage expectations above and below them
 - Bring cohesive decision-making to the program
-- Build a [resource management plan](https://asana.com/resources/resource-management-plan) across the program
-- Mitigate risks and act on opportunities by creating a [risk register](https://asana.com/resources/risk-register).
-- Manage resources throughout the program, including [cost management](https://asana.com/resources/cost-management-steps) and [resource allocation](https://asana.com/resources/resource-allocation).
+- Build a [resource management plan](https://asana.com/resources/resource-management-plan) across the program
+- Mitigate risks and act on opportunities by creating a [risk register](https://asana.com/resources/risk-register).
+- Manage resources throughout the program, including [cost management](https://asana.com/resources/cost-management-steps) and [resource allocation](https://asana.com/resources/resource-allocation).
 
 ### What is Effective Program Management?
 
@@ -19,9 +19,9 @@ For program managers to be successful, they need a host of skills they can tap i
 
 There are three distinct types of communication: status reporting, direction setting, and problem-solving:
 
-- **Status reporting** requires considerable written, verbal, and organizational communication capabilities. They must deliver comprehensive yet efficient status updates to a broad audience in multiple formats with the appropriate level of detail for each individual.
-- **Direction setting** is required to inform and shape the scope and schedule of individual projects (and project managers) that roll up under their programs. Objectives and deadlines must be clear, and program managers must be willing to ask hard, probing questions to determine how projects are truly progressing.
-- **Problem-solving** comes into play continually for program managers. When obstacles, challenges, and resistance arise (which happens quite often over the life of a program), they must be willing to dive into the details and create action plans to ensure the program isn’t put in jeopardy.
+- **Status reporting** requires considerable written, verbal, and organizational communication capabilities. They must deliver comprehensive yet efficient status updates to a broad audience in multiple formats with the appropriate level of detail for each individual.
+- **Direction setting** is required to inform and shape the scope and schedule of individual projects (and project managers) that roll up under their programs. Objectives and deadlines must be clear, and program managers must be willing to ask hard, probing questions to determine how projects are truly progressing.
+- **Problem-solving** comes into play continually for program managers. When obstacles, challenges, and resistance arise (which happens quite often over the life of a program), they must be willing to dive into the details and create action plans to ensure the program isn’t put in jeopardy.
 
 ## Program management vs. project management
 

@@ -46,11 +46,11 @@ PostgreSQL supports block-based (physical) replication as well as the row-based 
 
 In contrast, **logical replication allows you to choose a subset of the data to replicate**. Additionally, when using logical replication, there is no requirement for the secondary nodes to be read-only. You can configure logical replication to get data for some tables and at the same time, the application can directly write to the same or different tables in the database.
 
-The publisher- and subscriber-based [logical replication feature](https://www.postgresql.org/docs/current/logical-replication.html) was introduced into core PostgreSQL starting with version 10, but prior to that, PostgreSQL started supporting the [logical decoding feature](https://www.postgresql.org/docs/current/logicaldecoding-explanation.html) from version 9.4. Much of the logical replication capability in core PostgreSQL was based on the work done for the open-source PostgreSQL logical replication extension called [pglogical](https://github.com/2ndQuadrant/pglogical).
+The publisher- and subscriber-based [logical replication feature](https://www.postgresql.org/docs/current/logical-replication.html) was introduced into core PostgreSQL starting with version 10, but prior to that, PostgreSQL started supporting the [logical decoding feature](https://www.postgresql.org/docs/current/logicaldecoding-explanation.html) from version 9.4. Much of the logical replication capability in core PostgreSQL was based on the work done for the open-source PostgreSQL logical replication extension called [pglogical](https://github.com/2ndQuadrant/pglogical).
 
 [PostgreSQL bi-directional replication using pglogical | AWS Database Blog](https://aws.amazon.com/blogs/database/postgresql-bi-directional-replication-using-pglogical/)
 
-**PostgreSQL’s bidirectional replication** (Postgres-BDR or BDR) is PostgreSQL’s first open-source multi-master replication system to achieve full production status. BDR was developed by 2ndQuadrant, specially designed for **distribution** in different geographical clusters, using efficient asynchronous logical replication, and **supporting** any node with more than 2 to 48 nodes in the distributed database.
+**PostgreSQL’s bidirectional replication** (Postgres-BDR or BDR) is PostgreSQL’s first open-source multi-master replication system to achieve full production status. BDR was developed by 2ndQuadrant, specially designed for **distribution** in different geographical clusters, using efficient asynchronous logical replication, and **supporting** any node with more than 2 to 48 nodes in the distributed database.
 
 [EDB Docs - EDB Postgres Distributed (PGD) v4 - BDR (Bi-Directional Replication)](https://www.enterprisedb.com/docs/pgd/4/bdr/)
 
@@ -64,7 +64,7 @@ Multi-Source Replication enables a replication slave to receive transactions fro
 
 ![image](https://severalnines.com/wp-content/uploads/2022/05/07-mysql-rep-wp.jpeg)
 
-MySQL and MariaDB have different implementations of multi-source replication, where MariaDB must have GTID with gtid-domain-id configured to distinguish the originating transactions while MySQL uses a separate replication channel for each master the slave replicates from. In MySQL, masters in a multi-source replication topology can be configured to use either global transaction identifier (GTID) based replication, or binary log position-based replication.
+MySQL and MariaDB have different implementations of multi-source replication, where MariaDB must have GTID with gtid-domain-id configured to distinguish the originating transactions while MySQL uses a separate replication channel for each master the slave replicates from. In MySQL, masters in a multi-source replication topology can be configured to use either global transaction identifier (GTID) based replication, or binary log position-based replication.
 
 [MySQL replication for high availability | Severalnines](https://severalnines.com/resources/whitepapers/mysql-replication-high-availability/)
 
@@ -80,7 +80,7 @@ MySQL and MariaDB have different implementations of multi-source replication, wh
 
 [Speeding up Postgres Data Dumps](https://www.iseatz.com/blog/speeding-up-postgres-data-dumps)
 
-[PostgreSQL: Documentation: 17: 25.3. **Continuous Archiving and Point-in-Time Recovery (PITR)**](https://www.postgresql.org/docs/current/continuous-archiving.html)
+[PostgreSQL: Documentation: 17: 25.3. **Continuous Archiving and Point-in-Time Recovery (PITR)**](https://www.postgresql.org/docs/current/continuous-archiving.html)
 
 ## Links
 

@@ -37,7 +37,7 @@ Druid does share some characteristics with timeseries databases, but also combin
 
 ### Does Druid separate storage and compute?[​](https://druid.apache.org/faq/#does-druid-separate-storage-and-compute "Direct link to Does Druid separate storage and compute?")
 
-Druid creates an indexed copy of raw data that is highly optimized for analytic queries. Druid runs queries over this indexed data, called a ['segment'](https://druid.apache.org/docs/latest/design/segments) in Druid, and does not pull raw data from an external storage system as needed by queries.
+Druid creates an indexed copy of raw data that is highly optimized for analytic queries. Druid runs queries over this indexed data, called a ['segment'](https://druid.apache.org/docs/latest/design/segments) in Druid, and does not pull raw data from an external storage system as needed by queries.
 
 ### Where does Druid fit in my big data stack?[​](https://druid.apache.org/faq/#where-does-druid-fit-in-my-big-data-stack "Direct link to Where does Druid fit in my big data stack?")
 

@@ -50,7 +50,7 @@ To mitigate volatility loss, LPs can choose to provide liquidity to pools contai
 
 ## Liquidity
 
-Liquidity is a measure of resource sufficiency as it concerns a cryptocurrency market or a custodial institution. For tradable assets, it translates to investors’ freedom to make trades in any direction without significant [slippage](https://www.coingecko.com/learn/slippage-crypto). For custodial institutions, it is the ability to satisfy withdrawal requests without significant delays or friction. A sufficiently liquid market or institution should be able to sustain this in harsh market conditions.
+Liquidity is a measure of resource sufficiency as it concerns a cryptocurrency market or a custodial institution. For tradable assets, it translates to investors’ freedom to make trades in any direction without significant [slippage](https://www.coingecko.com/learn/slippage-crypto). For custodial institutions, it is the ability to satisfy withdrawal requests without significant delays or friction. A sufficiently liquid market or institution should be able to sustain this in harsh market conditions.
 
 [What is Liquidity in Crypto? | CoinGecko](https://www.coingecko.com/learn/liquidity-crypto)
 
@@ -62,7 +62,7 @@ LP tokens are used to track individual contributions to the overall liquidity po
 
 At the most basic level, LP tokens work on the following formula:
 
-`Total Value of Liquidity Pool / Circulating Supply of LP Tokens =  Value of 1 LP Token`
+`Total Value of Liquidity Pool / Circulating Supply of LP Tokens =  Value of 1 LP Token`
 
 The relationship between LP tokens and the proportional share of a liquidity pool is used most commonly in at least two cases:
 

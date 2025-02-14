@@ -1,6 +1,6 @@
 # Thread States
 
-The following list describes thread `State` values that are associated with general query processing and not more specialized activities such as replication. Many of these are useful only for finding bugs in the server.
+The following list describes thread `State` values that are associated with general query processing and not more specialized activities such as replication. Many of these are useful only for finding bugs in the server.
 
 - `After create`
 
@@ -8,11 +8,11 @@ The following list describes thread `State` values that are associated with ge
 
 - `altering table`
 
-    The server is in the process of executing an in-place [`ALTER TABLE`](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html "15.1.9 ALTER TABLE Statement").
+    The server is in the process of executing an in-place [`ALTER TABLE`](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html "15.1.9 ALTER TABLE Statement").
 
 - `Analyzing`
 
-    The thread is calculating a `MyISAM` table key distributions (for example, for [`ANALYZE TABLE`](https://dev.mysql.com/doc/refman/8.0/en/analyze-table.html "15.7.3.1 ANALYZE TABLE Statement")).
+    The thread is calculating a `MyISAM` table key distributions (for example, for [`ANALYZE TABLE`](https://dev.mysql.com/doc/refman/8.0/en/analyze-table.html "15.7.3.1 ANALYZE TABLE Statement")).
 
 - `checking permissions`
 
@@ -32,21 +32,21 @@ The following list describes thread `State` values that are associated with ge
 
 - `committing alter table to storage engine`
 
-    The server has finished an in-place [`ALTER TABLE`](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html "15.1.9 ALTER TABLE Statement") and is committing the result.
+    The server has finished an in-place [`ALTER TABLE`](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html "15.1.9 ALTER TABLE Statement") and is committing the result.
 
 - `converting HEAP to ondisk`
 
-    The thread is converting an internal temporary table from a `MEMORY` table to an on-disk table.
+    The thread is converting an internal temporary table from a `MEMORY` table to an on-disk table.
 
 - `copy to tmp table`
 
-    The thread is processing an [`ALTER TABLE`](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html "15.1.9 ALTER TABLE Statement") statement. This state occurs after the table with the new structure has been created but before rows are copied into it.
+    The thread is processing an [`ALTER TABLE`](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html "15.1.9 ALTER TABLE Statement") statement. This state occurs after the table with the new structure has been created but before rows are copied into it.
 
-    For a thread in this state, the Performance Schema can be used to obtain about the progress of the copy operation. See [Section 29.12.5, "Performance Schema Stage Event Tables"](https://dev.mysql.com/doc/refman/8.0/en/performance-schema-stage-tables.html "29.12.5 Performance Schema Stage Event Tables").
+    For a thread in this state, the Performance Schema can be used to obtain about the progress of the copy operation. See [Section 29.12.5, "Performance Schema Stage Event Tables"](https://dev.mysql.com/doc/refman/8.0/en/performance-schema-stage-tables.html "29.12.5 Performance Schema Stage Event Tables").
 
 - `Copying to group table`
 
-    If a statement has different `ORDER BY` and `GROUP BY` criteria, the rows are sorted by group and copied to a temporary table.
+    If a statement has different `ORDER BY` and `GROUP BY` criteria, the rows are sorted by group and copied to a temporary table.
 
 - `Copying to tmp table`
 
@@ -54,15 +54,15 @@ The following list describes thread `State` values that are associated with ge
 
 - `Copying to tmp table on disk`
 
-    The server is copying to a temporary table on disk. The temporary result set has become too large (see [Section 10.4.4, "Internal Temporary Table Use in MySQL"](https://dev.mysql.com/doc/refman/8.0/en/internal-temporary-tables.html "10.4.4 Internal Temporary Table Use in MySQL")). Consequently, the thread is changing the temporary table from in-memory to disk-based format to save memory.
+    The server is copying to a temporary table on disk. The temporary result set has become too large (see [Section 10.4.4, "Internal Temporary Table Use in MySQL"](https://dev.mysql.com/doc/refman/8.0/en/internal-temporary-tables.html "10.4.4 Internal Temporary Table Use in MySQL")). Consequently, the thread is changing the temporary table from in-memory to disk-based format to save memory.
 
 - `Creating index`
 
-    The thread is processing `ALTER TABLE ... ENABLE KEYS` for a `MyISAM` table.
+    The thread is processing `ALTER TABLE ... ENABLE KEYS` for a `MyISAM` table.
 
 - `Creating sort index`
 
-    The thread is processing a [`SELECT`](https://dev.mysql.com/doc/refman/8.0/en/select.html "15.2.13 SELECT Statement") that is resolved using an internal temporary table.
+    The thread is processing a [`SELECT`](https://dev.mysql.com/doc/refman/8.0/en/select.html "15.2.13 SELECT Statement") that is resolved using an internal temporary table.
 
 - `creating table`
 
@@ -70,7 +70,7 @@ The following list describes thread `State` values that are associated with ge
 
 - `Creating tmp table`
 
-    The thread is creating a temporary table in memory or on disk. If the table is created in memory but later is converted to an on-disk table, the state during that operation is `Copying to tmp table on disk`.
+    The thread is creating a temporary table in memory or on disk. If the table is created in memory but later is converted to an on-disk table, the state during that operation is `Copying to tmp table on disk`.
 
 - `deleting from main table`
 
@@ -82,13 +82,13 @@ The following list describes thread `State` values that are associated with ge
 
 - `discard_or_import_tablespace`
 
-    The thread is processing an `ALTER TABLE ... DISCARD TABLESPACE` or `ALTER TABLE ... IMPORT TABLESPACE` statement.
+    The thread is processing an `ALTER TABLE ... DISCARD TABLESPACE` or `ALTER TABLE ... IMPORT TABLESPACE` statement.
 
 - `end`
 
-    This occurs at the end but before the cleanup of [`ALTER TABLE`](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html "15.1.9 ALTER TABLE Statement"), [`CREATE VIEW`](https://dev.mysql.com/doc/refman/8.0/en/create-view.html "15.1.23 CREATE VIEW Statement"), [`DELETE`](https://dev.mysql.com/doc/refman/8.0/en/delete.html "15.2.2 DELETE Statement"), [`INSERT`](https://dev.mysql.com/doc/refman/8.0/en/insert.html "15.2.7 INSERT Statement"), [`SELECT`](https://dev.mysql.com/doc/refman/8.0/en/select.html "15.2.13 SELECT Statement"), or [`UPDATE`](https://dev.mysql.com/doc/refman/8.0/en/update.html "15.2.17 UPDATE Statement") statements.
+    This occurs at the end but before the cleanup of [`ALTER TABLE`](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html "15.1.9 ALTER TABLE Statement"), [`CREATE VIEW`](https://dev.mysql.com/doc/refman/8.0/en/create-view.html "15.1.23 CREATE VIEW Statement"), [`DELETE`](https://dev.mysql.com/doc/refman/8.0/en/delete.html "15.2.2 DELETE Statement"), [`INSERT`](https://dev.mysql.com/doc/refman/8.0/en/insert.html "15.2.7 INSERT Statement"), [`SELECT`](https://dev.mysql.com/doc/refman/8.0/en/select.html "15.2.13 SELECT Statement"), or [`UPDATE`](https://dev.mysql.com/doc/refman/8.0/en/update.html "15.2.17 UPDATE Statement") statements.
 
-    For the `end` state, the following operations could be happening:
+    For the `end` state, the following operations could be happening:
 
     - Writing an event to the binary log
 
@@ -100,11 +100,11 @@ The following list describes thread `State` values that are associated with ge
 
 - `Execution of init_command`
 
-    The thread is executing statements in the value of the `init_command` system variable.
+    The thread is executing statements in the value of the `init_command` system variable.
 
 - `freeing items`
 
-    The thread has executed a command. This state is usually followed by `cleaning up`.
+    The thread has executed a command. This state is usually followed by `cleaning up`.
 
 - `FULLTEXT initialization`
 
@@ -112,11 +112,11 @@ The following list describes thread `State` values that are associated with ge
 
 - `init`
 
-    This occurs before the initialization of [`ALTER TABLE`](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html "15.1.9 ALTER TABLE Statement"), [`DELETE`](https://dev.mysql.com/doc/refman/8.0/en/delete.html "15.2.2 DELETE Statement"), [`INSERT`](https://dev.mysql.com/doc/refman/8.0/en/insert.html "15.2.7 INSERT Statement"), [`SELECT`](https://dev.mysql.com/doc/refman/8.0/en/select.html "15.2.13 SELECT Statement"), or [`UPDATE`](https://dev.mysql.com/doc/refman/8.0/en/update.html "15.2.17 UPDATE Statement") statements. Actions taken by the server in this state include flushing the binary log and the `InnoDB` log.
+    This occurs before the initialization of [`ALTER TABLE`](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html "15.1.9 ALTER TABLE Statement"), [`DELETE`](https://dev.mysql.com/doc/refman/8.0/en/delete.html "15.2.2 DELETE Statement"), [`INSERT`](https://dev.mysql.com/doc/refman/8.0/en/insert.html "15.2.7 INSERT Statement"), [`SELECT`](https://dev.mysql.com/doc/refman/8.0/en/select.html "15.2.13 SELECT Statement"), or [`UPDATE`](https://dev.mysql.com/doc/refman/8.0/en/update.html "15.2.17 UPDATE Statement") statements. Actions taken by the server in this state include flushing the binary log and the `InnoDB` log.
 
 - `Killed`
 
-    Someone has sent a [`KILL`](https://dev.mysql.com/doc/refman/8.0/en/kill.html "15.7.8.4 KILL Statement") statement to the thread and it should abort next time it checks the kill flag. The flag is checked in each major loop in MySQL, but in some cases it might still take a short time for the thread to die. If the thread is locked by some other thread, the kill takes effect as soon as the other thread releases its lock.
+    Someone has sent a [`KILL`](https://dev.mysql.com/doc/refman/8.0/en/kill.html "15.7.8.4 KILL Statement") statement to the thread and it should abort next time it checks the kill flag. The flag is checked in each major loop in MySQL, but in some cases it might still take a short time for the thread to die. If the thread is locked by some other thread, the kill takes effect as soon as the other thread releases its lock.
 
 - `Locking system tables`
 
@@ -140,9 +140,9 @@ The following list describes thread `State` values that are associated with ge
 
 - `Opening tables`
 
-    The thread is trying to open a table. This is should be very fast procedure, unless something prevents opening. For example, an [`ALTER TABLE`](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html "15.1.9 ALTER TABLE Statement") or a [`LOCK TABLE`](https://dev.mysql.com/doc/refman/8.0/en/lock-tables.html "15.3.6 LOCK TABLES and UNLOCK TABLES Statements") statement can prevent opening a table until the statement is finished. It is also worth checking that your [`table_open_cache`](https://dev.mysql.com/doc/refman/8.0/en/server-system-variables.html#sysvar_table_open_cache) value is large enough.
+    The thread is trying to open a table. This is should be very fast procedure, unless something prevents opening. For example, an [`ALTER TABLE`](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html "15.1.9 ALTER TABLE Statement") or a [`LOCK TABLE`](https://dev.mysql.com/doc/refman/8.0/en/lock-tables.html "15.3.6 LOCK TABLES and UNLOCK TABLES Statements") statement can prevent opening a table until the statement is finished. It is also worth checking that your [`table_open_cache`](https://dev.mysql.com/doc/refman/8.0/en/server-system-variables.html#sysvar_table_open_cache) value is large enough.
 
-    For system tables, the `Opening system tables` state is used instead.
+    For system tables, the `Opening system tables` state is used instead.
 
 - `optimizing`
 
@@ -154,7 +154,7 @@ The following list describes thread `State` values that are associated with ge
 
 - `preparing for alter table`
 
-    The server is preparing to execute an in-place [`ALTER TABLE`](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html "15.1.9 ALTER TABLE Statement").
+    The server is preparing to execute an in-place [`ALTER TABLE`](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html "15.1.9 ALTER TABLE Statement").
 
 - `Purging old relay logs`
 
@@ -162,7 +162,7 @@ The following list describes thread `State` values that are associated with ge
 
 - `query end`
 
-    This state occurs after processing a query but before the `freeing items` state.
+    This state occurs after processing a query but before the `freeing items` state.
 
 - `Receiving from client`
 
@@ -170,11 +170,11 @@ The following list describes thread `State` values that are associated with ge
 
 - `Removing duplicates`
 
-    The query was using [`SELECT DISTINCT`](https://dev.mysql.com/doc/refman/8.0/en/select.html "15.2.13 SELECT Statement") in such a way that MySQL could not optimize away the distinct operation at an early stage. Because of this, MySQL requires an extra stage to remove all duplicated rows before sending the result to the client.
+    The query was using [`SELECT DISTINCT`](https://dev.mysql.com/doc/refman/8.0/en/select.html "15.2.13 SELECT Statement") in such a way that MySQL could not optimize away the distinct operation at an early stage. Because of this, MySQL requires an extra stage to remove all duplicated rows before sending the result to the client.
 
 - `removing tmp table`
 
-    The thread is removing an internal temporary table after processing a [`SELECT`](https://dev.mysql.com/doc/refman/8.0/en/select.html "15.2.13 SELECT Statement") statement. This state is not used if no temporary table was created.
+    The thread is removing an internal temporary table after processing a [`SELECT`](https://dev.mysql.com/doc/refman/8.0/en/select.html "15.2.13 SELECT Statement") statement. This state is not used if no temporary table was created.
 
 - `rename`
 
@@ -182,7 +182,7 @@ The following list describes thread `State` values that are associated with ge
 
 - `rename result table`
 
-    The thread is processing an [`ALTER TABLE`](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html "15.1.9 ALTER TABLE Statement") statement, has created the new table, and is renaming it to replace the original table.
+    The thread is processing an [`ALTER TABLE`](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html "15.1.9 ALTER TABLE Statement") statement, has created the new table, and is renaming it to replace the original table.
 
 - `Reopen tables`
 
@@ -194,11 +194,11 @@ The following list describes thread `State` values that are associated with ge
 
 - `Repair done`
 
-    The thread has completed a multithreaded repair for a `MyISAM` table.
+    The thread has completed a multithreaded repair for a `MyISAM` table.
 
 - `Repair with keycache`
 
-    The repair code is using creating keys one by one through the key cache. This is much slower than `Repair by sorting`.
+    The repair code is using creating keys one by one through the key cache. This is much slower than `Repair by sorting`.
 
 - `Rolling back`
 
@@ -206,15 +206,15 @@ The following list describes thread `State` values that are associated with ge
 
 - `Saving state`
 
-    For `MyISAM` table operations such as repair or analysis, the thread is saving the new table state to the `.MYI` file header. State includes information such as number of rows, the `AUTO_INCREMENT` counter, and key distributions.
+    For `MyISAM` table operations such as repair or analysis, the thread is saving the new table state to the `.MYI` file header. State includes information such as number of rows, the `AUTO_INCREMENT` counter, and key distributions.
 
 - `Searching rows for update`
 
-    The thread is doing a first phase to find all matching rows before updating them. This has to be done if the [`UPDATE`](https://dev.mysql.com/doc/refman/8.0/en/update.html "15.2.17 UPDATE Statement") is changing the index that is used to find the involved rows.
+    The thread is doing a first phase to find all matching rows before updating them. This has to be done if the [`UPDATE`](https://dev.mysql.com/doc/refman/8.0/en/update.html "15.2.17 UPDATE Statement") is changing the index that is used to find the involved rows.
 
 - `Sending data`
 
-    _Prior to MySQL 8.0.17_: The thread is reading and processing rows for a [`SELECT`](https://dev.mysql.com/doc/refman/8.0/en/select.html "15.2.13 SELECT Statement") statement, and sending data to the client. Because operations occurring during this state tend to perform large amounts of disk access (reads), it is often the longest-running state over the lifetime of a given query. _MySQL 8.0.17 and later_: This state is no longer indicated separately, but rather is included in the `Executing` state.
+    _Prior to MySQL 8.0.17_: The thread is reading and processing rows for a [`SELECT`](https://dev.mysql.com/doc/refman/8.0/en/select.html "15.2.13 SELECT Statement") statement, and sending data to the client. Because operations occurring during this state tend to perform large amounts of disk access (reads), it is often the longest-running state over the lifetime of a given query. _MySQL 8.0.17 and later_: This state is no longer indicated separately, but rather is included in the `Executing` state.
 
 - `Sending to client`
 
@@ -222,23 +222,23 @@ The following list describes thread `State` values that are associated with ge
 
 - `setup`
 
-    The thread is beginning an [`ALTER TABLE`](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html "15.1.9 ALTER TABLEauro Statement") operation.
+    The thread is beginning an [`ALTER TABLE`](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html "15.1.9 ALTER TABLEauro Statement") operation.
 
 - `Sorting for group`
 
-    The thread is doing a sort to satisfy a `GROUP BY`.
+    The thread is doing a sort to satisfy a `GROUP BY`.
 
 - `Sorting for order`
 
-    The thread is doing a sort to satisfy an `ORDER BY`.
+    The thread is doing a sort to satisfy an `ORDER BY`.
 
 - `Sorting index`
 
-    The thread is sorting index pages for more efficient access during a `MyISAM` table optimization operation.
+    The thread is sorting index pages for more efficient access during a `MyISAM` table optimization operation.
 
 - `Sorting result`
 
-    For a [`SELECT`](https://dev.mysql.com/doc/refman/8.0/en/select.html "15.2.13 SELECT Statement") statement, this is similar to `Creating sort index`, but for nontemporary tables.
+    For a [`SELECT`](https://dev.mysql.com/doc/refman/8.0/en/select.html "15.2.13 SELECT Statement") statement, this is similar to `Creating sort index`, but for nontemporary tables.
 
 - `starting`
 
@@ -250,11 +250,11 @@ The following list describes thread `State` values that are associated with ge
 
 - `System lock`
 
-    The thread has called `mysql_lock_tables()` and the thread state has not been updated since. This is a very general state that can occur for many reasons.
+    The thread has called `mysql_lock_tables()` and the thread state has not been updated since. This is a very general state that can occur for many reasons.
 
-    For example, the thread is going to request or is waiting for an internal or external system lock for the table. This can occur when [`InnoDB`](https://dev.mysql.com/doc/refman/8.0/en/innodb-storage-engine.html "Chapter 17 The InnoDB Storage Engine") waits for a table-level lock during execution of [`LOCK TABLES`](https://dev.mysql.com/doc/refman/8.0/en/lock-tables.html "15.3.6 LOCK TABLES and UNLOCK TABLES Statements"). If this state is being caused by requests for external locks and you are not using multiple [**mysqld**](https://dev.mysql.com/doc/refman/8.0/en/mysqld.html "6.3.1 mysqld — The MySQL Server") servers that are accessing the same [`MyISAM`](https://dev.mysql.com/doc/refman/8.0/en/myisam-storage-engine.html "18.2 The MyISAM Storage Engine") tables, you can disable external system locks with the [`--skip-external-locking`](https://dev.mysql.com/doc/refman/8.0/en/server-options.html#option_mysqld_external-locking) option. However, external locking is disabled by default, so it is likely that this option has no effect. For [`SHOW PROFILE`](https://dev.mysql.com/doc/refman/8.0/en/show-profile.html "15.7.7.30 SHOW PROFILE Statement"), this state means the thread is requesting the lock (not waiting for it).
+    For example, the thread is going to request or is waiting for an internal or external system lock for the table. This can occur when [`InnoDB`](https://dev.mysql.com/doc/refman/8.0/en/innodb-storage-engine.html "Chapter 17 The InnoDB Storage Engine") waits for a table-level lock during execution of [`LOCK TABLES`](https://dev.mysql.com/doc/refman/8.0/en/lock-tables.html "15.3.6 LOCK TABLES and UNLOCK TABLES Statements"). If this state is being caused by requests for external locks and you are not using multiple [**mysqld**](https://dev.mysql.com/doc/refman/8.0/en/mysqld.html "6.3.1 mysqld — The MySQL Server") servers that are accessing the same [`MyISAM`](https://dev.mysql.com/doc/refman/8.0/en/myisam-storage-engine.html "18.2 The MyISAM Storage Engine") tables, you can disable external system locks with the [`--skip-external-locking`](https://dev.mysql.com/doc/refman/8.0/en/server-options.html#option_mysqld_external-locking) option. However, external locking is disabled by default, so it is likely that this option has no effect. For [`SHOW PROFILE`](https://dev.mysql.com/doc/refman/8.0/en/show-profile.html "15.7.7.30 SHOW PROFILE Statement"), this state means the thread is requesting the lock (not waiting for it).
 
-    For system tables, the `Locking system tables` state is used instead.
+    For system tables, the `Locking system tables` state is used instead.
 
 - `update`
 
@@ -274,15 +274,15 @@ The following list describes thread `State` values that are associated with ge
 
 - `User lock`
 
-    The thread is going to request or is waiting for an advisory lock requested with a [`GET_LOCK()`](https://dev.mysql.com/doc/refman/8.0/en/locking-functions.html#function_get-lock) call. For [`SHOW PROFILE`](https://dev.mysql.com/doc/refman/8.0/en/show-profile.html "15.7.7.30 SHOW PROFILE Statement"), this state means the thread is requesting the lock (not waiting for it).
+    The thread is going to request or is waiting for an advisory lock requested with a [`GET_LOCK()`](https://dev.mysql.com/doc/refman/8.0/en/locking-functions.html#function_get-lock) call. For [`SHOW PROFILE`](https://dev.mysql.com/doc/refman/8.0/en/show-profile.html "15.7.7.30 SHOW PROFILE Statement"), this state means the thread is requesting the lock (not waiting for it).
 
 - `User sleep`
 
-    The thread has invoked a [`SLEEP()`](https://dev.mysql.com/doc/refman/8.0/en/miscellaneous-functions.html#function_sleep) call.
+    The thread has invoked a [`SLEEP()`](https://dev.mysql.com/doc/refman/8.0/en/miscellaneous-functions.html#function_sleep) call.
 
 - `Waiting for commit lock`
 
-    [`FLUSH TABLES WITH READ LOCK`](https://dev.mysql.com/doc/refman/8.0/en/flush.html#flush-tables-with-read-lock) is waiting for a commit lock.
+    [`FLUSH TABLES WITH READ LOCK`](https://dev.mysql.com/doc/refman/8.0/en/flush.html#flush-tables-with-read-lock) is waiting for a commit lock.
 
 - `waiting for handler commit`
 
@@ -292,19 +292,19 @@ The following list describes thread `State` values that are associated with ge
 
     The thread got a notification that the underlying structure for a table has changed and it needs to reopen the table to get the new structure. However, to reopen the table, it must wait until all other threads have closed the table in question.
 
-    This notification takes place if another thread has used [`FLUSH TABLES`](https://dev.mysql.com/doc/refman/8.0/en/flush.html#flush-tables) or one of the following statements on the table in question: ``FLUSH TABLES _`tbl_name`_``, [`ALTER TABLE`](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html "15.1.9 ALTER TABLE Statement"), [`RENAME TABLE`](https://dev.mysql.com/doc/refman/8.0/en/rename-table.html "15.1.36 RENAME TABLE Statement"), [`REPAIR TABLE`](https://dev.mysql.com/doc/refman/8.0/en/repair-table.html "15.7.3.5 REPAIR TABLE Statement"), [`ANALYZE TABLE`](https://dev.mysql.com/doc/refman/8.0/en/analyze-table.html "15.7.3.1 ANALYZE TABLE Statement"), or [`OPTIMIZE TABLE`](https://dev.mysql.com/doc/refman/8.0/en/optimize-table.html "15.7.3.4 OPTIMIZE TABLE Statement").
+    This notification takes place if another thread has used [`FLUSH TABLES`](https://dev.mysql.com/doc/refman/8.0/en/flush.html#flush-tables) or one of the following statements on the table in question: ``FLUSH TABLES _`tbl_name`_``, [`ALTER TABLE`](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html "15.1.9 ALTER TABLE Statement"), [`RENAME TABLE`](https://dev.mysql.com/doc/refman/8.0/en/rename-table.html "15.1.36 RENAME TABLE Statement"), [`REPAIR TABLE`](https://dev.mysql.com/doc/refman/8.0/en/repair-table.html "15.7.3.5 REPAIR TABLE Statement"), [`ANALYZE TABLE`](https://dev.mysql.com/doc/refman/8.0/en/analyze-table.html "15.7.3.1 ANALYZE TABLE Statement"), or [`OPTIMIZE TABLE`](https://dev.mysql.com/doc/refman/8.0/en/optimize-table.html "15.7.3.4 OPTIMIZE TABLE Statement").
 
 - `Waiting for table flush`
 
-    The thread is executing [`FLUSH TABLES`](https://dev.mysql.com/doc/refman/8.0/en/flush.html#flush-tables) and is waiting for all threads to close their tables, or the thread got a notification that the underlying structure for a table has changed and it needs to reopen the table to get the new structure. However, to reopen the table, it must wait until all other threads have closed the table in question.
+    The thread is executing [`FLUSH TABLES`](https://dev.mysql.com/doc/refman/8.0/en/flush.html#flush-tables) and is waiting for all threads to close their tables, or the thread got a notification that the underlying structure for a table has changed and it needs to reopen the table to get the new structure. However, to reopen the table, it must wait until all other threads have closed the table in question.
 
-    This notification takes place if another thread has used [`FLUSH TABLES`](https://dev.mysql.com/doc/refman/8.0/en/flush.html#flush-tables) or one of the following statements on the table in question: ``FLUSH TABLES _`tbl_name`_``, [`ALTER TABLE`](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html "15.1.9 ALTER TABLE Statement"), [`RENAME TABLE`](https://dev.mysql.com/doc/refman/8.0/en/rename-table.html "15.1.36 RENAME TABLE Statement"), [`REPAIR TABLE`](https://dev.mysql.com/doc/refman/8.0/en/repair-table.html "15.7.3.5 REPAIR TABLE Statement"), [`ANALYZE TABLE`](https://dev.mysql.com/doc/refman/8.0/en/analyze-table.html "15.7.3.1 ANALYZE TABLE Statement"), or [`OPTIMIZE TABLE`](https://dev.mysql.com/doc/refman/8.0/en/optimize-table.html "15.7.3.4 OPTIMIZE TABLE Statement").
+    This notification takes place if another thread has used [`FLUSH TABLES`](https://dev.mysql.com/doc/refman/8.0/en/flush.html#flush-tables) or one of the following statements on the table in question: ``FLUSH TABLES _`tbl_name`_``, [`ALTER TABLE`](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html "15.1.9 ALTER TABLE Statement"), [`RENAME TABLE`](https://dev.mysql.com/doc/refman/8.0/en/rename-table.html "15.1.36 RENAME TABLE Statement"), [`REPAIR TABLE`](https://dev.mysql.com/doc/refman/8.0/en/repair-table.html "15.7.3.5 REPAIR TABLE Statement"), [`ANALYZE TABLE`](https://dev.mysql.com/doc/refman/8.0/en/analyze-table.html "15.7.3.1 ANALYZE TABLE Statement"), or [`OPTIMIZE TABLE`](https://dev.mysql.com/doc/refman/8.0/en/optimize-table.html "15.7.3.4 OPTIMIZE TABLE Statement").
 
-- ``Waiting for _`lock_type`_ lock``
+- ``Waiting for _`lock_type`_ lock``
 
-    The server is waiting to acquire a `THR_LOCK` lock or a lock from the metadata locking subsystem, where _`lock_type`_ indicates the type of lock.
+    The server is waiting to acquire a `THR_LOCK` lock or a lock from the metadata locking subsystem, where _`lock_type`_ indicates the type of lock.
 
-    This state indicates a wait for a `THR_LOCK`:
+    This state indicates a wait for a `THR_LOCK`:
 
     - `Waiting for table level lock`
 

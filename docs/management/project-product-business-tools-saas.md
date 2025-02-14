@@ -38,15 +38,15 @@
     4. [Otter.ai - AI Meeting Note Taker & Real-time AI Transcription](https://otter.ai/)
     5. [MeetGeek | AI Notes Taker and Meeting Assistant](https://meetgeek.ai/)
     6. [The 9 best AI meeting assistants in 2024 | Zapier](https://zapier.com/blog/best-ai-meeting-assistant/)
-	    1. [Fireflies](https://zapier.com/blog/best-ai-meeting-assistant/#fireflies) for collaboration and topic tracking
-	    2. [Avoma](https://zapier.com/blog/best-ai-meeting-assistant/#avoma) for conversation analytics
-	    3. [tl;dv](https://zapier.com/blog/best-ai-meeting-assistant/#tldv) for AI-powered meeting search
-	    4. [Equal Time](https://zapier.com/blog/best-ai-meeting-assistant/#equal-time) for inclusive meetings
-	    5. [Rewatch](https://zapier.com/blog/best-ai-meeting-assistant/#rewatch) for creating a video wiki
-	    6. [Otter](https://zapier.com/blog/best-ai-meeting-assistant/#otter) for asking questions about your meetings
-	    7. [Nyota](https://zapier.com/blog/best-ai-meeting-assistant/#nyota) for AI feature variety
-	    8. [Fellow](https://zapier.com/blog/best-ai-meeting-assistant/#fellow) for native integrations
-	    9. [Fathom](https://zapier.com/blog/best-ai-meeting-assistant/#fathom) for a free option
+	    1. [Fireflies](https://zapier.com/blog/best-ai-meeting-assistant/#fireflies) for collaboration and topic tracking
+	    2. [Avoma](https://zapier.com/blog/best-ai-meeting-assistant/#avoma) for conversation analytics
+	    3. [tl;dv](https://zapier.com/blog/best-ai-meeting-assistant/#tldv) for AI-powered meeting search
+	    4. [Equal Time](https://zapier.com/blog/best-ai-meeting-assistant/#equal-time) for inclusive meetings
+	    5. [Rewatch](https://zapier.com/blog/best-ai-meeting-assistant/#rewatch) for creating a video wiki
+	    6. [Otter](https://zapier.com/blog/best-ai-meeting-assistant/#otter) for asking questions about your meetings
+	    7. [Nyota](https://zapier.com/blog/best-ai-meeting-assistant/#nyota) for AI feature variety
+	    8. [Fellow](https://zapier.com/blog/best-ai-meeting-assistant/#fellow) for native integrations
+	    9. [Fathom](https://zapier.com/blog/best-ai-meeting-assistant/#fathom) for a free option
 18. Calendly
     1. Appointment scheduling with Google Calendar
 19. https://topmate.io

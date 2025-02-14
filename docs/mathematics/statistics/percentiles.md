@@ -39,7 +39,7 @@ In summary, a percentile is a specific value that divides a dataset, while a per
 
 ## Percentage vs Percentile
 
-The key difference between percentage and percentile is the percentage is a mathematical value presented out of 100 and percentile is the per cent of values below a specific value. The percentage is a means of [comparing quantities](https://byjus.com/maths/percentage-comparing-quantities/). A percentile is used to display position or rank.
+The key difference between percentage and percentile is the percentage is a mathematical value presented out of 100 and percentile is the per cent of values below a specific value. The percentage is a means of [comparing quantities](https://byjus.com/maths/percentage-comparing-quantities/). A percentile is used to display position or rank.
 
 | **Percentage** | **Percentile** |
 |---|---|

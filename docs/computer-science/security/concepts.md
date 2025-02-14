@@ -12,15 +12,15 @@ Alice, Bob and Trudy (Adversary)
 
 ## Authenticity vs Non-repudiation
 
-Authenticity and non-repudiation are two of the five pillars of information assurance (IA) that are closely related but distinct security concepts
+Authenticity and non-repudiation are two of the five pillars of information assurance (IA) that are closely related but distinct security concepts
 
 ### Authenticity
 
-Verifies the legitimacy of a sender or source of a message. Techniques used to establish authenticity include authentication, digital certificates, and biometric identification.
+Verifies the legitimacy of a sender or source of a message. Techniques used to establish authenticity include authentication, digital certificates, and biometric identification.
 
 ### Non-repudiation
 
-Confirms the validity and legitimacy of a message, and binds an entity to a transaction so that it cannot later be repudiated. Non-repudiation is important to ensure that a party cannot deny having sent or received a message or transaction, and protects against message tampering and replay attacks.
+Confirms the validity and legitimacy of a message, and binds an entity to a transaction so that it cannot later be repudiated. Non-repudiation is important to ensure that a party cannot deny having sent or received a message or transaction, and protects against message tampering and replay attacks.
 
 [authentication - What is the difference between authenticity and non-repudiation? - Information Security Stack Exchange](https://security.stackexchange.com/questions/6730/what-is-the-difference-between-authenticity-and-non-repudiation)
 
@@ -160,7 +160,7 @@ https://howhttps.works/certificate-authorities
 
 [GitHub - letsencrypt/boulder: An ACME-based certificate authority, written in Go.](https://github.com/letsencrypt/boulder)
 
-- This is an implementation of an ACME-based CA. The [ACME protocol](https://github.com/ietf-wg-acme/acme/) allows the CA to automatically verify that an applicant for a certificate actually controls an identifier, and allows domain holders to issue and revoke certificates for their domains. Boulder is the software that runs [Let's Encrypt](https://letsencrypt.org/).
+- This is an implementation of an ACME-based CA. The [ACME protocol](https://github.com/ietf-wg-acme/acme/) allows the CA to automatically verify that an applicant for a certificate actually controls an identifier, and allows domain holders to issue and revoke certificates for their domains. Boulder is the software that runs [Let's Encrypt](https://letsencrypt.org/).
 
 ## CSR (Certificate Signing Request)
 
@@ -247,6 +247,6 @@ https://www.youtube.com/watch?v=5cQNwifDq1U
 
 ## pwned
 
-The word "pwned" has origins in video game culture and is a [leetspeak](https://en.wikipedia.org/wiki/Leetspeak) derivation of the word "owned", due to the proximity of the "o" and "p" keys. It's typically used to imply that someone has been controlled or compromised, for example "I was pwned in the Adobe data breach".
+The word "pwned" has origins in video game culture and is a [leetspeak](https://en.wikipedia.org/wiki/Leetspeak) derivation of the word "owned", due to the proximity of the "o" and "p" keys. It's typically used to imply that someone has been controlled or compromised, for example "I was pwned in the Adobe data breach".
 
 [Have I Been Pwned: FAQs](https://haveibeenpwned.com/FAQs)

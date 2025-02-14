@@ -15,7 +15,7 @@
 
 ## Courses
 
-- [5 Free Courses to Master Deep Learning in 2024 - MachineLearningMastery.com](https://machinelearningmastery.com/5-free-courses-to-master-deep-learning-in-2024/)
+- [5 Free Courses to Master Deep Learning in 2024 - MachineLearningMastery.com](https://machinelearningmastery.com/5-free-courses-to-master-deep-learning-in-2024/)
 - Paid - https://www.coursera.org/specializations/deep-learning
 - Paid - [Deep Learning Online Training Course | Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 - PAID - Coursera - https://www.deeplearning.ai

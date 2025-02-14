@@ -13,8 +13,8 @@
 
 ## AWS Cost Explorer
 
-- **APS3:** Asia Pacific (Mumbai)
-- **APS5:** Asia Pacific (Hyderabad)
+- **APS3:** Asia Pacific (Mumbai)
+- **APS5:** Asia Pacific (Hyderabad)
 - GDA - Glacier Deep Archive
 - CUR - Cost and Usage Report - https://medium.com/@ayushsharma.in/taming-aws-costs-with-cost-and-usage-reports-aws-athena-d2536b35b234
 
@@ -22,13 +22,13 @@
 
 #### Unblended costs
 
-The vast majority of AWS customers use the unblended cost dataset to understand their usage. This is the cost dataset presented to you on the Bills page. It’s the default option for analyzing costs using [AWS Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/) or setting custom budgets using [AWS Budgets](https://aws.amazon.com/aws-cost-management/aws-budgets/).
+The vast majority of AWS customers use the unblended cost dataset to understand their usage. This is the cost dataset presented to you on the Bills page. It’s the default option for analyzing costs using [AWS Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/) or setting custom budgets using [AWS Budgets](https://aws.amazon.com/aws-cost-management/aws-budgets/).
 
 Unblended costs represent your usage costs on the day they are charged to you. In finance terms, they represent your costs on a cash basis of accounting. For most of you, this is the only cost dataset that you will ever need.
 
 #### Amortized costs
 
-Viewing your amortized costs is useful in cases in which it doesn’t make sense to view your costs on the day that they were charged. Or, as many of finance owners say, it’s useful to view costs on an accrual basis rather than a cash basis. This cost dataset is especially useful for those of you who have purchased [AWS Reservations](https://aws.amazon.com/aws-cost-management/reserved-instance-reporting/) such as Amazon EC2 Reserved Instances.
+Viewing your amortized costs is useful in cases in which it doesn’t make sense to view your costs on the day that they were charged. Or, as many of finance owners say, it’s useful to view costs on an accrual basis rather than a cash basis. This cost dataset is especially useful for those of you who have purchased [AWS Reservations](https://aws.amazon.com/aws-cost-management/reserved-instance-reporting/) such as Amazon EC2 Reserved Instances.
 
 Savings Plans and Reservations often have upfront or recurring monthly fees associated with them. As you can see in the first chart, these recurring fees are charged on the first day of the month. That can lead to a spike on one day, if you are using unblended costs as your cost dataset. When you toggle over to amortized costs, these recurring costs (as well as any upfront costs) are distributed evenly across the month.
 
@@ -102,11 +102,11 @@ Compute Optimizer generates recommendations for the following resources:
 ## Savings Plan
 
 - Savings plan is not application for spot instances
-- Commit to a minimum amount of spending per hour for one or three years to receive a discount on On-Demand Instances. Savings Plans can offer up to 72% off the regular price. However, they can't be canceled during the term and can waste money if not fully utilized.
+- Commit to a minimum amount of spending per hour for one or three years to receive a discount on On-Demand Instances. Savings Plans can offer up to 72% off the regular price. However, they can't be canceled during the term and can waste money if not fully utilized.
 
 ### Spot Instances
 
-Provide access to leftover capacity at a discount of up to 90% off the On-Demand price. However, they aren't guaranteed to be available and are not ideal for mission-critical workloads because AWS can reclaim them with just two minutes notice.
+Provide access to leftover capacity at a discount of up to 90% off the On-Demand price. However, they aren't guaranteed to be available and are not ideal for mission-critical workloads because AWS can reclaim them with just two minutes notice.
 
 ![savings and spot usage](../../media/Screenshot%202024-08-30%20at%2011.31.01%20PM.jpg)
 
@@ -120,11 +120,11 @@ Provide access to leftover capacity at a discount of up to 90% off the On-Demand
 
 Spot instances do not use AWS Savings Plans
 
-- Price: Spot instances are already up to 90% discounted, so other discounts like Savings Plans won't apply.
-- Commitment: Savings Plans require a commitment and can't be canceled during the term.
-- Usage: Savings Plans don't apply to spot usage or usage covered by Reserved Instances (RIs).
+- Price: Spot instances are already up to 90% discounted, so other discounts like Savings Plans won't apply.
+- Commitment: Savings Plans require a commitment and can't be canceled during the term.
+- Usage: Savings Plans don't apply to spot usage or usage covered by Reserved Instances (RIs).
 
-Spot instances can be a good option for applications that are fault-tolerant, stateless, or flexible, such as web servers, big data, and containerized workloads. However, because AWS can reclaim Spot instances with just a two minute warning, they might not be ideal for mission-critical or production workloads.
+Spot instances can be a good option for applications that are fault-tolerant, stateless, or flexible, such as web servers, big data, and containerized workloads. However, because AWS can reclaim Spot instances with just a two minute warning, they might not be ideal for mission-critical or production workloads.
 
 ## Savings plan Utilization Report and Coverage Report
 
@@ -141,7 +141,7 @@ Ideally, both should be 100%, but I would say that it's more important to keep t
 
 ## Reserved Instances
 
-With Aurora MySQL they have [size flexibility](https://aws.amazon.com/about-aws/whats-new/2017/10/amazon-rds-reserved-instances-offer-instance-size-flexibility/) -- so they can purchase a T3.Large, and run 4 T3.Smalls to get the discount (or whatever the size factor is). However, they must commit to the T3 family. They will not be able to get the discount by running a T2 RDS instance. That T2 will be billed on-demand rates.
+With Aurora MySQL they have [size flexibility](https://aws.amazon.com/about-aws/whats-new/2017/10/amazon-rds-reserved-instances-offer-instance-size-flexibility/) -- so they can purchase a T3.Large, and run 4 T3.Smalls to get the discount (or whatever the size factor is). However, they must commit to the T3 family. They will not be able to get the discount by running a T2 RDS instance. That T2 will be billed on-demand rates.
 
 Also RDS RI purchased in one account can be used in another account if RI sharing is enabled (consolidated billing).
 

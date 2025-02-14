@@ -2,34 +2,34 @@
 
 ## Sharding
 
-[Sharding](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-sharding) is a method for distributing data across multiple machines.
+[Sharding](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-sharding) is a method for distributing data across multiple machines.
 
 ### Sharded Cluster
 
-A MongoDB sharded cluster consists of the following components:
+A MongoDB sharded cluster consists of the following components:
 
-- [shard](https://www.mongodb.com/docs/manual/core/sharded-cluster-shards/#std-label-shards-concepts): Each shard contains a subset of the sharded data. Each shard can be deployed as a [replica set.](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-replica-set)
-- [mongos](https://www.mongodb.com/docs/manual/core/sharded-cluster-query-router/): The `mongos` acts as a query router, providing an interface between client applications and the sharded cluster. Starting in MongoDB 4.4, `mongos` can support [hedged reads](https://www.mongodb.com/docs/manual/core/sharded-cluster-query-router/#std-label-mongos-hedged-reads) to minimize latencies.
+- [shard](https://www.mongodb.com/docs/manual/core/sharded-cluster-shards/#std-label-shards-concepts): Each shard contains a subset of the sharded data. Each shard can be deployed as a [replica set.](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-replica-set)
+- [mongos](https://www.mongodb.com/docs/manual/core/sharded-cluster-query-router/): The `mongos` acts as a query router, providing an interface between client applications and the sharded cluster. Starting in MongoDB 4.4, `mongos` can support [hedged reads](https://www.mongodb.com/docs/manual/core/sharded-cluster-query-router/#std-label-mongos-hedged-reads) to minimize latencies.
 - [config servers](https://www.mongodb.com/docs/manual/core/sharded-cluster-config-servers/#std-label-sharding-config-server): Config servers store metadata and configuration settings for the cluster.
 
 ![shared cluster](../../../media/Pasted%20image%2020240112181858.jpg)
 
 #### Hedged Reads
 
-Starting in version 4.4, [`mongos`](https://www.mongodb.com/docs/manual/reference/program/mongos/#mongodb-binary-bin.mongos) instances can hedge reads that use `non-primary` [read preferences](https://www.mongodb.com/docs/manual/core/read-preference/). With hedged reads, the [`mongos`](https://www.mongodb.com/docs/manual/reference/program/mongos/#mongodb-binary-bin.mongos) instances route read operations to two replica set members per each queried shard and return results from the first respondent per shard. The additional read sent to hedge the read operation uses the `maxTimeMS` value of [`maxTimeMSForHedgedReads`.](https://www.mongodb.com/docs/manual/reference/parameters/#mongodb-parameter-param.maxTimeMSForHedgedReads)
+Starting in version 4.4, [`mongos`](https://www.mongodb.com/docs/manual/reference/program/mongos/#mongodb-binary-bin.mongos) instances can hedge reads that use `non-primary` [read preferences](https://www.mongodb.com/docs/manual/core/read-preference/). With hedged reads, the [`mongos`](https://www.mongodb.com/docs/manual/reference/program/mongos/#mongodb-binary-bin.mongos) instances route read operations to two replica set members per each queried shard and return results from the first respondent per shard. The additional read sent to hedge the read operation uses the `maxTimeMS` value of [`maxTimeMSForHedgedReads`.](https://www.mongodb.com/docs/manual/reference/parameters/#mongodb-parameter-param.maxTimeMSForHedgedReads)
 
 #### Shard Key / Chunks / Balancer
 
-- MongoDB shards data at the [collection](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-collection) level, distributing the collection data across the shards in the cluster.
-- MongoDB uses the [shard key](https://www.mongodb.com/docs/manual/core/sharding-shard-key/#std-label-sharding-shard-key) to distribute the collection's documents across shards. The shard key consists of a field or multiple fields in the documents.
-- MongoDB partitions sharded data into [chunks](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-chunk). Each chunk has an inclusive lower and exclusive upper range based on the [shard key.](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-shard-key)
-- In an attempt to achieve an even distribution of data across all shards in the cluster, a [balancer](https://www.mongodb.com/docs/manual/core/sharding-balancer-administration/#std-label-sharding-balancing) runs in the background to migrate [ranges](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-range) across the [shards.](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-shard)
-- You must connect to a [mongos](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-mongos) router to interact with any collection in the [sharded cluster](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-sharded-cluster). This includes sharded _and_ unsharded collections. Clients should _never_ connect to a single shard in order to perform read or write operations.
+- MongoDB shards data at the [collection](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-collection) level, distributing the collection data across the shards in the cluster.
+- MongoDB uses the [shard key](https://www.mongodb.com/docs/manual/core/sharding-shard-key/#std-label-sharding-shard-key) to distribute the collection's documents across shards. The shard key consists of a field or multiple fields in the documents.
+- MongoDB partitions sharded data into [chunks](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-chunk). Each chunk has an inclusive lower and exclusive upper range based on the [shard key.](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-shard-key)
+- In an attempt to achieve an even distribution of data across all shards in the cluster, a [balancer](https://www.mongodb.com/docs/manual/core/sharding-balancer-administration/#std-label-sharding-balancing) runs in the background to migrate [ranges](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-range) across the [shards.](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-shard)
+- You must connect to a [mongos](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-mongos) router to interact with any collection in the [sharded cluster](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-sharded-cluster). This includes sharded _and_ unsharded collections. Clients should _never_ connect to a single shard in order to perform read or write operations.
 
 #### Sharding Strategy
 
-- Hashed Sharding involves computing a hash of the shard key field's value. Each [chunk](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-chunk) is then assigned a range based on the hashed shard key values.
-- Ranged sharding involves dividing data into ranges based on the shard key values. Each [chunk](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-chunk) is then assigned a range based on the shard key values.
+- Hashed Sharding involves computing a hash of the shard key field's value. Each [chunk](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-chunk) is then assigned a range based on the hashed shard key values.
+- Ranged sharding involves dividing data into ranges based on the shard key values. Each [chunk](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-chunk) is then assigned a range based on the shard key values.
 
 [Sharding - MongoDB Manual](https://www.mongodb.com/docs/manual/sharding/)
 

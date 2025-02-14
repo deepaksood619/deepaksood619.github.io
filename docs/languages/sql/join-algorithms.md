@@ -24,7 +24,7 @@ An interesting order in a sort-merge join occurs when the inputs to the join are
 - Another merge join
 - Some other plan operator that produces output sorted on an appropriate key
 
-A sort-merge join is a common join algorithm in database systems that uses sorting. It's particularly efficient for large datasets that can't fit in memory. The algorithm works by:
+A sort-merge join is a common join algorithm in database systems that uses sorting. It's particularly efficient for large datasets that can't fit in memory. The algorithm works by:
 
 1. Sorting both relations on the join attribute
 2. Merging the sorted relations by scanning them sequentially
@@ -33,7 +33,7 @@ A sort-merge join is a common join algorithm in database systems that uses sorti
 5. Sorting them independently
 6. Merging them in a distributed manner
 
-An operator has a flexible order requirement if it has more than one interesting sort order. For example, the merge-join operator has a flexible order requirement because every permutation of the join attributes is an interesting sort order.
+An operator has a flexible order requirement if it has more than one interesting sort order. For example, the merge-join operator has a flexible order requirement because every permutation of the join attributes is an interesting sort order.
 
 ### [hash join](https://en.wikipedia.org/wiki/Hash_join)
 

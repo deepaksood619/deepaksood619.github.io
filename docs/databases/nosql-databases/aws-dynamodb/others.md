@@ -18,7 +18,7 @@ https://aws.amazon.com/blogs/aws/amazon-dynamodb-accelerator-dax-in-memory-cachi
 
 ### Export to S3
 
-DynamoDB export to S3 is a fully managed solution for exporting your DynamoDB data to an Amazon S3 bucket at scale. Using DynamoDB export to S3, you can export data from an Amazon DynamoDB table from any time within your [point-in-time recovery (PITR)](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/PointInTimeRecovery.html) window to an Amazon S3 bucket. You need to enable PITR on your table to use the export functionality. This feature enables you to perform analytics and complex queries on your data using other AWS services such as Athena, AWS Glue, Amazon SageMaker, Amazon EMR, and AWS Lake Formation.
+DynamoDB export to S3 is a fully managed solution for exporting your DynamoDB data to an Amazon S3 bucket at scale. Using DynamoDB export to S3, you can export data from an Amazon DynamoDB table from any time within your [point-in-time recovery (PITR)](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/PointInTimeRecovery.html) window to an Amazon S3 bucket. You need to enable PITR on your table to use the export functionality. This feature enables you to perform analytics and complex queries on your data using other AWS services such as Athena, AWS Glue, Amazon SageMaker, Amazon EMR, and AWS Lake Formation.
 
 [DynamoDB data export to Amazon S3: how it works - Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/S3DataExport.HowItWorks.html)
 
@@ -38,7 +38,7 @@ DynamoDB export to S3 is a fully managed solution for exporting your DynamoDB da
 
 ### Pricing
 
-There are two pricing options available for Amazon DynamoDB: [on-demand capacity mode](https://aws.amazon.com/dynamodb/pricing/on-demand/) and [provisioned capacity mode](https://aws.amazon.com/dynamodb/pricing/provisioned/).
+There are two pricing options available for Amazon DynamoDB: [on-demand capacity mode](https://aws.amazon.com/dynamodb/pricing/on-demand/) and [provisioned capacity mode](https://aws.amazon.com/dynamodb/pricing/provisioned/).
 
 [DynamoDB Pricing Provisioned vs On-Demand | AWS re:Post](https://repost.aws/questions/QUMXAJq5zxQY20qZ-VPpO5qg/dynamodb-pricing-provisioned-vs-on-demand)
 

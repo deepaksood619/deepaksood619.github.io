@@ -1,16 +1,16 @@
 # mysqlbinlog
 
-The server's binary log consists of files containing "events" that describe modifications to database contents. The server writes these files in binary format. To display their contents in text format, use the [**mysqlbinlog**](https://dev.mysql.com/doc/refman/8.4/en/mysqlbinlog.html "6.6.9 mysqlbinlog — Utility for Processing Binary Log Files") utility. You can also use [**mysqlbinlog**](https://dev.mysql.com/doc/refman/8.4/en/mysqlbinlog.html "6.6.9 mysqlbinlog — Utility for Processing Binary Log Files") to display the contents of relay log files written by a replica server in a replication setup because relay logs have the same format as binary logs.
+The server's binary log consists of files containing "events" that describe modifications to database contents. The server writes these files in binary format. To display their contents in text format, use the [**mysqlbinlog**](https://dev.mysql.com/doc/refman/8.4/en/mysqlbinlog.html "6.6.9 mysqlbinlog — Utility for Processing Binary Log Files") utility. You can also use [**mysqlbinlog**](https://dev.mysql.com/doc/refman/8.4/en/mysqlbinlog.html "6.6.9 mysqlbinlog — Utility for Processing Binary Log Files") to display the contents of relay log files written by a replica server in a replication setup because relay logs have the same format as binary logs.
 
 [6.6.9 mysqlbinlog — Utility for Processing Binary Log Files](https://dev.mysql.com/doc/refman/8.4/en/mysqlbinlog.html)
 
-### 7.4.4.2 Setting The Binary Log Format
+### 7.4.4.2 Setting The Binary Log Format
 
-You can select the binary logging format explicitly by starting the MySQL server with [``--binlog-format=_`type`_``](https://dev.mysql.com/doc/refman/8.4/en/replication-options-binary-log.html#sysvar_binlog_format). The supported values for _`type`_ are:
+You can select the binary logging format explicitly by starting the MySQL server with [``--binlog-format=_`type`_``](https://dev.mysql.com/doc/refman/8.4/en/replication-options-binary-log.html#sysvar_binlog_format). The supported values for _`type`_ are:
 
-- `STATEMENT` causes logging to be statement based.
-- `ROW` causes logging to be row based. This is the default.
-- `MIXED` causes logging to use mixed format.
+- `STATEMENT` causes logging to be statement based.
+- `ROW` causes logging to be row based. This is the default.
+- `MIXED` causes logging to use mixed format.
 
 [7.4.4.2 Setting The Binary Log Format](https://dev.mysql.com/doc/refman/8.4/en/binary-log-setting.html)
 
@@ -56,9 +56,9 @@ With statement-based binary logging, the source server writes the executed queri
 
 ## binlog_row_image
 
-This variable, in row-based replication, determines if row images are written to the blog as **full** (log all columns), **minimal** (Log only changed columns and columns used to identify rows), or **noblob** (log all columns except BLOB or TEXT columns).
+This variable, in row-based replication, determines if row images are written to the blog as **full** (log all columns), **minimal** (Log only changed columns and columns used to identify rows), or **noblob** (log all columns except BLOB or TEXT columns).
 
-Setting **binlog_row_image** to MINIMAL reduces the amount of data pushed into the binary log. However, this setting also skips essential data used to recover your database from data corruption, or human mistakes.
+Setting **binlog_row_image** to MINIMAL reduces the amount of data pushed into the binary log. However, this setting also skips essential data used to recover your database from data corruption, or human mistakes.
 
 This can impact performance and storage size.
 

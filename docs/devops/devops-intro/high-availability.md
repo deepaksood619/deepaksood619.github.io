@@ -39,7 +39,7 @@ To achieve "4 nines" availability and beyond, we must consider:
 1. System designs - designing for failure using:
     1. Redundancy
     2. Tradeoffs
-2.  System operations and maintenance - key principles are:
+2.  System operations and maintenance - key principles are:
     1. Change management
     2. Capacity management
     3. Automated detection and troubleshooting

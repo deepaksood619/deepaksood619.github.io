@@ -10,7 +10,7 @@ This load balancer operates at Layer 7 of the OSI model. It can be used to load-
 
 ### Path based routing
 
-I believe that you are getting this error because the services in question do not expect to receive paths prefixed with `/expressapp` and `/expressapp2`. When the ALB forwards traffic to your service, the path remains intact.
+I believe that you are getting this error because the services in question do not expect to receive paths prefixed with `/expressapp` and `/expressapp2`. When the ALB forwards traffic to your service, the path remains intact.
 
 Stripping off the prefix cannot be handled by ALB. If you don't have access to the source code of the apps, you will need to use some kind of reverse-proxy like nginx to rewrite the urls before sending them onto the app.
 

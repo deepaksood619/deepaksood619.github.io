@@ -468,7 +468,7 @@ Performance degrades drastically when a warehouse runs out of memory while execu
 
 When memory spillage is the issue, you can convert your existing warehouse to a Snowpark-optimized warehouse, which provides 16x more memory per node and 10x the local cache compared to a standard warehouse. Though a larger warehouse also has more memory available, a query might not require its expanded compute resources.
 
-If you want to try resolving the spillage of a query without adjusting the warehouse that runs it, use the [Query Profile](https://docs.snowflake.com/en/user-guide/ui-snowsight-activity.html#label-snowsight-query-profile) to identify which operation nodes are causing the spillage.
+If you want to try resolving the spillage of a query without adjusting the warehouse that runs it, use the [Query Profile](https://docs.snowflake.com/en/user-guide/ui-snowsight-activity.html#label-snowsight-query-profile) to identify which operation nodes are causing the spillage.
 
 [Performance impact from local and remote disk spilling](https://community.snowflake.com/s/article/Performance-impact-from-local-and-remote-disk-spilling)
 

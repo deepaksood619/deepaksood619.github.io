@@ -14,7 +14,7 @@
 
 ### Education
 
-- India’s total literacy rate is 77.70%
+- India’s total literacy rate is 77.70%
 - Kerala - 96.2%
     - Female literacy - 95.2%
     - Male literacy - 97.4%.
@@ -25,14 +25,14 @@
 
 ### Religion Distribution
 
-- Hinduism: 79.8%
-- Islam: 14.2%
-- Christianity: 2.3%
-- Sikhism: 1.7%
-- Buddhism: 0.7%
-- Adivasi: 0.5%
-- Jainism: 0.4%
-- No religion: 0.25%
+- Hinduism: 79.8%
+- Islam: 14.2%
+- Christianity: 2.3%
+- Sikhism: 1.7%
+- Buddhism: 0.7%
+- Adivasi: 0.5%
+- Jainism: 0.4%
+- No religion: 0.25%
 
 ### Food Distribution
 
@@ -53,4 +53,4 @@
 
 ## Others
 
-[India has a Big Stray Dogs Problem | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=tMsf6i7yID8)
+[India has a Big Stray Dogs Problem | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=tMsf6i7yID8)

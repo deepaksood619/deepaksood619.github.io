@@ -36,7 +36,7 @@ https://www.pmfias.com/carbon-nitrogen-phosphorus-sulphur-cycle
 
 - [The smog cloud affecting south Asia is now so big it can be seen from space.](http://youtube.com/post/Ugkx8EBGDYt_0gxEtEeKv2WO4Of7X4P4JZQJ)
 - [How This Couple Defeated Toxic Air Pollution To Breathe 'Mountain Air' While Staying In Delhi - YouTube](https://www.youtube.com/watch?v=3l8G2ZViF9A&ab_channel=Mint)
-- [Delhi's Air Quality Readings Top 1,700 as Residents Choke  | Vantage With Palki Sharma - YouTube](https://www.youtube.com/watch?v=C_cHsNWjBKE)
+- [Delhi's Air Quality Readings Top 1,700 as Residents Choke  | Vantage With Palki Sharma - YouTube](https://www.youtube.com/watch?v=C_cHsNWjBKE)
 - [आज भी AQI 500 है, कहां भाग कर जाएं लोग, दूसरे शहर भी बेहाल - YouTube](https://www.youtube.com/watch?v=PdQ2M5DCPts)
 - [क्या होगा इस हवा का? | Air Pollution in North India - YouTube](https://www.youtube.com/watch?v=tDAavaJN47E)
 

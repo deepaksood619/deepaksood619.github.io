@@ -47,7 +47,7 @@ Byzantine fault tolerance (BFT) is the property of a system that is able to resi
 
 There is more than one possible solution to the Byzantine Generals’ Problem and, therefore, multiple ways of building a BFT system. Likewise, there are different approaches for a blockchain to achieve Byzantine fault tolerance and this leads us to the so-called consensus algorithms.
 
-Note that the PoW algorithm is not 100% tolerant to the Byzantine faults, but due to the [cost-intensive mining process](https://academy.binance.com/en/articles/what-is-cryptocurrency-mining) and the underlying cryptographic techniques, PoW has proven to be one of the most secure and reliable implementations for blockchain networks. In that sense, the Proof of Work consensus algorithm, designed by [Satoshi Nakamoto](https://academy.binance.com/en/glossary/satoshi-nakamoto), is considered by many as one of the most genius solutions to the Byzantine faults.
+Note that the PoW algorithm is not 100% tolerant to the Byzantine faults, but due to the [cost-intensive mining process](https://academy.binance.com/en/articles/what-is-cryptocurrency-mining) and the underlying cryptographic techniques, PoW has proven to be one of the most secure and reliable implementations for blockchain networks. In that sense, the Proof of Work consensus algorithm, designed by [Satoshi Nakamoto](https://academy.binance.com/en/glossary/satoshi-nakamoto), is considered by many as one of the most genius solutions to the Byzantine faults.
 
 [Byzantine Fault Tolerance Explained | Binance Academy](https://academy.binance.com/en/articles/byzantine-fault-tolerance-explained)
 
@@ -57,9 +57,9 @@ Practical Byzantine Fault Tolerance is a consensus algorithm introduced in the l
 
 #### Advantages of pBFT
 
-- **Energy efficiency** : pBFT can achieve distributed consensus without carrying out complex mathematical computations(like in PoW). Zilliqa employs pBFT in combination with PoW-like complex computations round for every 100th block.
-- **Transaction finality** : The transactions do not require multiple confirmations(like in case of PoW mechanism in Bitcoin where every node individually verifies all the transactions before adding the new block to the blockchain; confirmations can take between 10-60 minutes depending upon how many entities confirm the new block) after they have been finalized and agreed upon.
-- **Low reward variance** : Every node in the network takes part in responding to the request by the client and hence every node can be incentivized leading to low variance in rewarding the nodes that help in decision making.
+- **Energy efficiency** : pBFT can achieve distributed consensus without carrying out complex mathematical computations(like in PoW). Zilliqa employs pBFT in combination with PoW-like complex computations round for every 100th block.
+- **Transaction finality** : The transactions do not require multiple confirmations(like in case of PoW mechanism in Bitcoin where every node individually verifies all the transactions before adding the new block to the blockchain; confirmations can take between 10-60 minutes depending upon how many entities confirm the new block) after they have been finalized and agreed upon.
+- **Low reward variance** : Every node in the network takes part in responding to the request by the client and hence every node can be incentivized leading to low variance in rewarding the nodes that help in decision making.
 
 #### How pBFT works?
 
@@ -74,18 +74,18 @@ pBFT consensus rounds are broken into 4 phases(refer with the image below):
 - The nodes (primary and secondaries) perform the service requested and then send back a reply to the client.
 - The request is served successfully when the client receives ‘m+1’ replies from different nodes in the network with the same result, where m is the maximum number of faulty nodes allowed.
 
-The primary(leader) node is changed during every view(pBFT consensus rounds) and can be substituted by a **view change protocol** if a predefined quantity of time has passed without the leading node broadcasting a request to the backups(secondary). If needed, a majority of the honest nodes can vote on the legitimacy of the current leading node and replace it with the next leading node in line.
+The primary(leader) node is changed during every view(pBFT consensus rounds) and can be substituted by a **view change protocol** if a predefined quantity of time has passed without the leading node broadcasting a request to the backups(secondary). If needed, a majority of the honest nodes can vote on the legitimacy of the current leading node and replace it with the next leading node in line.
 
 #### Limitations of pBFT
 
 The pBFT consensus model works efficiently only when the number of nodes in the distributed network is small due to the high communication overhead that increases exponentially with every extra node in the network.
 
-- **Sybil attacks** : The pBFT mechanisms are susceptible to [Sybil attacks](https://write.geeksforgeeks.org/sybil-attack/), where one entity(party) controls many identities. As the number of nodes in the network increase, sybil attacks become increasingly difficult to carry out. But as pBFT mechanisms have scalability issues too, the pBFT mechanism is used in combination with other mechanism(s).
-- **Scaling** : pBFT does not scale well because of its communication (with all the other nodes at every step) overhead. As the number of nodes in the network increase (increases as O(n^k), where n is the messages and k is the number of nodes), so does the time taken to respond to the request.
+- **Sybil attacks** : The pBFT mechanisms are susceptible to [Sybil attacks](https://write.geeksforgeeks.org/sybil-attack/), where one entity(party) controls many identities. As the number of nodes in the network increase, sybil attacks become increasingly difficult to carry out. But as pBFT mechanisms have scalability issues too, the pBFT mechanism is used in combination with other mechanism(s).
+- **Scaling** : pBFT does not scale well because of its communication (with all the other nodes at every step) overhead. As the number of nodes in the network increase (increases as O(n^k), where n is the messages and k is the number of nodes), so does the time taken to respond to the request.
 
 #### Platforms using pBFT variants
 
-- Zilliqa - pBFT in combination with [PoW](https://write.geeksforgeeks.org/proof-of-workpow-consensus/) consensus
+- Zilliqa - pBFT in combination with [PoW](https://write.geeksforgeeks.org/proof-of-workpow-consensus/) consensus
 - Hyperledger Fabric - permissioned version of pBFT
 - Tendermint - pBFT + DPoS(Delegated Proof-of-Stake)
 

@@ -118,7 +118,7 @@ LUT - Letter of Undertaking
 12. Sweeper, peon or driver’s salary
 13. Depreciation is allowed on vehicle and office equipment
 
-Consultant’s whose income exceeds Rs.10 lakh must get their expenses audited by a chartered accountant. Consultant trades off less tax for more paperwork. **The highest tax charged for a consultant is 11.33%** which includes the educational cess whereas an employee can get charged 33.99% as the highest tax.
+Consultant’s whose income exceeds Rs.10 lakh must get their expenses audited by a chartered accountant. Consultant trades off less tax for more paperwork. **The highest tax charged for a consultant is 11.33%** which includes the educational cess whereas an employee can get charged 33.99% as the highest tax.
 
 ### Deductions
 

@@ -2,7 +2,7 @@
 
 ## Informatica PowerCenter / IICS
 
-Informatica PowerCenter is a tool for extracting, transforming, and loading data from sources. It's used to create data warehouses for industries. Informatica PowerCenter can connect to:
+Informatica PowerCenter is a tool for extracting, transforming, and loading data from sources. It's used to create data warehouses for industries. Informatica PowerCenter can connect to:
 
 - Enterprise database systems
 - Mainframe systems
@@ -11,7 +11,7 @@ Informatica PowerCenter is a tool for extracting, transforming, and loading data
 - Analytics tools like Tableau
 - Cloud-based systems like Microsoft Azure and AWS
 
-Informatica Intelligent Cloud Services (IICS) is a cloud-based platform for integrating and synchronizing data and applications. IICS offers similar functionality to PowerCenter, but it can be accessed via the internet. IICS allows users to run ETL (Extract, Transform and Load) codes in the cloud.
+Informatica Intelligent Cloud Services (IICS) is a cloud-based platform for integrating and synchronizing data and applications. IICS offers similar functionality to PowerCenter, but it can be accessed via the internet. IICS allows users to run ETL (Extract, Transform and Load) codes in the cloud.
 
 Some transformations in IICS include:
 
@@ -42,13 +42,13 @@ Some transformations in IICS include:
 
 [DVC](https://dvc.org/) stands for "data version control". This project invites data scientists and engineers to a Git-inspired world, where all workflow versions are tracked, along with all the data artifacts and models, as well as associated metrics.
 
-**Data Version Control** or **DVC** is a command line tool and [VS Code Extension](https://github.com/iterative/dvc#vs-code-extension) to help you develop reproducible machine learning projects:
+**Data Version Control** or **DVC** is a command line tool and [VS Code Extension](https://github.com/iterative/dvc#vs-code-extension) to help you develop reproducible machine learning projects:
 
-1. **Version** your data and models. Store them in your cloud storage but keep their version info in your Git repo.
-2. **Iterate** fast with lightweight pipelines. When you make changes, only run the steps impacted by those changes.
-3. **Track** experiments in your local Git repo (no servers needed).
-4. **Compare** any data, code, parameters, model, or performance plots.
-5. **Share** experiments and automatically reproduce anyone's experiment.
+1. **Version** your data and models. Store them in your cloud storage but keep their version info in your Git repo.
+2. **Iterate** fast with lightweight pipelines. When you make changes, only run the steps impacted by those changes.
+3. **Track** experiments in your local Git repo (no servers needed).
+4. **Compare** any data, code, parameters, model, or performance plots.
+5. **Share** experiments and automatically reproduce anyone's experiment.
 
 [Data Version Control · DVC](https://dvc.org)
 
@@ -81,7 +81,7 @@ dbt is a SQL-first transformation workflow that lets teams quickly and collabora
 
 The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 
-Ultimate vision is to help you move data from any source to any destination. Airbyte already provides the largest [catalog](https://docs.airbyte.com/integrations/) of 300+ connectors for APIs, databases, data warehouses, and data lakes.
+Ultimate vision is to help you move data from any source to any destination. Airbyte already provides the largest [catalog](https://docs.airbyte.com/integrations/) of 300+ connectors for APIs, databases, data warehouses, and data lakes.
 
 [GitHub - airbytehq/airbyte: The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.](https://github.com/airbytehq/airbyte)
 
@@ -91,7 +91,7 @@ Ultimate vision is to help you move data from any source to any destination. Air
 
 ### CDC
 
-To support CDC, Airbyte uses [Debezium](https://debezium.io/) internally.
+To support CDC, Airbyte uses [Debezium](https://debezium.io/) internally.
 
 [Airbyte's incremental Change Data Capture (CDC) replication](https://airbyte.com/tutorials/incremental-change-data-capture-cdc-replication)
 
@@ -111,7 +111,7 @@ To support CDC, Airbyte uses [Debezium](https://debezium.io/) internally.
 
 | Full refresh replication | Incremental sync replication |
 | ---- | ---- |
-| The **entire data set** will be retrieved from the source and sent to the destination on each sync run. | Only records that have been **inserted or updated** in the source system since the previous sync run are sent to the destination. |
+| The **entire data set** will be retrieved from the source and sent to the destination on each sync run. | Only records that have been **inserted or updated** in the source system since the previous sync run are sent to the destination. |
 
 [An overview of Airbyte’s replication modes | Airbyte](https://airbyte.com/blog/understanding-data-replication-modes)
 

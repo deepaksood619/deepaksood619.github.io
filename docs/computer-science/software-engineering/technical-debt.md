@@ -42,7 +42,7 @@ https://zerodha.tech/blog/being-future-ready-with-common-sense
 
 ## Companies Killed by Technical Debt / Tech Debt
 
-- Microsoft - XP to Vista
+- Microsoft - XP to Vista
 - Friendster - Successor of myspace
 - **Netscape**: Once a dominant web browser company, Netscape struggled with outdated code and architectural decisions that hampered its ability to innovate quickly. This allowed competitors like Microsoft to overtake them.
 - **Myspace**: An early leader in social networking, Myspace suffered from poor architectural decisions and slow development cycles, which made it difficult to scale and adapt to user needs. This allowed Facebook to surpass it rapidly.

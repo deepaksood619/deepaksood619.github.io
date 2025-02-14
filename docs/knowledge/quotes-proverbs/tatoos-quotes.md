@@ -60,7 +60,7 @@ Jus sanguine
 
 Kaizen - https://www.investopedia.com/terms/k/kaizen.asp
 
-Feng Shui - wind-water - is an [ancient Chinese](https://en.wikipedia.org/wiki/Ancient_China "Ancient China") traditional practice which claims to use energy forces to harmonize individuals with their surrounding environment. - [Feng shui - Wikipedia](https://en.wikipedia.org/wiki/Feng_shui)
+Feng Shui - wind-water - is an [ancient Chinese](https://en.wikipedia.org/wiki/Ancient_China "Ancient China") traditional practice which claims to use energy forces to harmonize individuals with their surrounding environment. - [Feng shui - Wikipedia](https://en.wikipedia.org/wiki/Feng_shui)
 
 Of the people, by the people, for the people
 
@@ -82,4 +82,4 @@ Bellum omnium contra omnes (the war of all against all)
 
 Monkey see, monkey do
 
-_**Homo faber**_ ([Latin](https://en.wikipedia.org/wiki/Latin_language "Latin language") for '[Man](https://en.wikipedia.org/wiki/Human_being "Human being") the Maker') is the concept that human beings are able to control their fate and their environment as a result of the use of tools.
+_**Homo faber**_ ([Latin](https://en.wikipedia.org/wiki/Latin_language "Latin language") for '[Man](https://en.wikipedia.org/wiki/Human_being "Human being") the Maker') is the concept that human beings are able to control their fate and their environment as a result of the use of tools.

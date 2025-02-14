@@ -126,7 +126,7 @@ https://docs.photoprism.app/getting-started
 
 ## Mulesoft
 
-MuleSoft is a platform that gives IT the tools to automate everything. This includes integrating data and systems, automating workflows and processes, and creating incredible digital experiences — all on a single, easy-to-use platform. With our unique approach, IT creates the digital building blocks that teams can use as they need, all with the right security, governance, and compliance measures built in.
+MuleSoft is a platform that gives IT the tools to automate everything. This includes integrating data and systems, automating workflows and processes, and creating incredible digital experiences — all on a single, easy-to-use platform. With our unique approach, IT creates the digital building blocks that teams can use as they need, all with the right security, governance, and compliance measures built in.
 
 ### Products
 
@@ -150,19 +150,19 @@ MuleSoft is a platform that gives IT the tools to automate everything. This incl
 
 ## Software AG
 
-- [ADABAS](https://en.wikipedia.org/wiki/ADABAS "ADABAS") – a high performance transactional [database management system](https://en.wikipedia.org/wiki/Database_management_system "Database management system")
+- [ADABAS](https://en.wikipedia.org/wiki/ADABAS "ADABAS") – a high performance transactional [database management system](https://en.wikipedia.org/wiki/Database_management_system "Database management system")
 - Alfabet – IT Planning, Portfolio Management, and Enterprise Architecture Software
-- [Apama](https://en.wikipedia.org/wiki/Apama_(software) "Apama (software)") – Platform for streaming analytics and intelligent automated action on fast-moving big data. Combines event processing, messaging, in-memory data management and visualization.
-- [ARIS](https://en.wikipedia.org/wiki/Architecture_of_Integrated_Information_Systems "Architecture of Integrated Information Systems") – acquired business process analysis platform. A free version is available as [ARIS Express](https://en.wikipedia.org/wiki/ARIS_Express "ARIS Express").
-- Centrasite – a flagship [SOA governance](https://en.wikipedia.org/wiki/SOA_governance "SOA governance") application which provides [UDDI](https://en.wikipedia.org/wiki/UDDI "UDDI") as well as governance
+- [Apama](https://en.wikipedia.org/wiki/Apama_(software) "Apama (software)") – Platform for streaming analytics and intelligent automated action on fast-moving big data. Combines event processing, messaging, in-memory data management and visualization.
+- [ARIS](https://en.wikipedia.org/wiki/Architecture_of_Integrated_Information_Systems "Architecture of Integrated Information Systems") – acquired business process analysis platform. A free version is available as [ARIS Express](https://en.wikipedia.org/wiki/ARIS_Express "ARIS Express").
+- Centrasite – a flagship [SOA governance](https://en.wikipedia.org/wiki/SOA_governance "SOA governance") application which provides [UDDI](https://en.wikipedia.org/wiki/UDDI "UDDI") as well as governance
 - CONNX - Data Access, Data Movement (ETL), Streaming Analytics
 - Cumulocity – an Internet of Things (IoT) platform that provides services for connectivity for networked digital devices and sensors
-- Natural – an [English-like](https://en.wikipedia.org/wiki/Natural-language_programming "Natural-language programming") [fourth-generation programming language](https://en.wikipedia.org/wiki/Fourth-generation_programming_language "Fourth-generation programming language") for application development
-- NaturalONE - [Eclipse](https://en.wikipedia.org/wiki/Eclipse_(software) "Eclipse (software)")-based integrated development environment natural applications
+- Natural – an [English-like](https://en.wikipedia.org/wiki/Natural-language_programming "Natural-language programming") [fourth-generation programming language](https://en.wikipedia.org/wiki/Fourth-generation_programming_language "Fourth-generation programming language") for application development
+- NaturalONE - [Eclipse](https://en.wikipedia.org/wiki/Eclipse_(software) "Eclipse (software)")-based integrated development environment natural applications
 - Presto – Self-service, real-time data visualization and exploration tool combines data from different applications to create mashups, which can be displayed on any device.
-- Tamino Information Server – Information server based on [XML](https://en.wikipedia.org/wiki/XML "XML") for the storage, management and transfer of structured and [unstructured data](https://en.wikipedia.org/wiki/Unstructured_data "Unstructured data"),[[47]](https://en.wikipedia.org/wiki/Software_AG#cite_note-47) now called _webMethods Tamino_
-- [Terracotta, Inc.](https://en.wikipedia.org/wiki/Terracotta,_Inc. "Terracotta, Inc.") – Company behind opensource Ehcache. Big memory, Quartz scheduler are their primary products. My-Channel's Nirvana messaging is now offered as Terracotta Universal Messaging.
-- [webMethods](https://en.wikipedia.org/wiki/WebMethods "WebMethods") – an ESB, API Management, BPMS, SOA enablement, [MDM](https://en.wikipedia.org/wiki/Master_data_management "Master data management") and [B2B](https://en.wikipedia.org/wiki/Business-to-business "Business-to-business") integration
+- Tamino Information Server – Information server based on [XML](https://en.wikipedia.org/wiki/XML "XML") for the storage, management and transfer of structured and [unstructured data](https://en.wikipedia.org/wiki/Unstructured_data "Unstructured data"),[[47]](https://en.wikipedia.org/wiki/Software_AG#cite_note-47) now called _webMethods Tamino_
+- [Terracotta, Inc.](https://en.wikipedia.org/wiki/Terracotta,_Inc. "Terracotta, Inc.") – Company behind opensource Ehcache. Big memory, Quartz scheduler are their primary products. My-Channel's Nirvana messaging is now offered as Terracotta Universal Messaging.
+- [webMethods](https://en.wikipedia.org/wiki/WebMethods "WebMethods") – an ESB, API Management, BPMS, SOA enablement, [MDM](https://en.wikipedia.org/wiki/Master_data_management "Master data management") and [B2B](https://en.wikipedia.org/wiki/Business-to-business "Business-to-business") integration
     - [1# Introduction About Webmethods - YouTube](https://www.youtube.com/watch?v=wZCbwuT06MA)
     - WM Deployer - [webMethods Deployer Documentation 10.3](https://documentation.softwareag.com/webmethods/deployer/wdy10-3/10-3_Deployer_webhelp/index.html)
     - [webMethods.io Integration Developer Basics - YouTube](https://www.youtube.com/playlist?list=PL3HwmrSYjxiPlg7lz3TBuNuSrj76xFbLS)

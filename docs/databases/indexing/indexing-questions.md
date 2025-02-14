@@ -54,13 +54,13 @@ Your answer:
 
 **Good fit**: No need to change anything
 
-The statement can run as an [indexed top-N query](https://use-the-index-luke.com/sql/partial-results/top-n-queries). It performs just a [B-tree traversal (_log(n)_)](https://use-the-index-luke.com/sql/anatomy/the-tree) and a single table access.
+The statement can run as an [indexed top-N query](https://use-the-index-luke.com/sql/partial-results/top-n-queries). It performs just a [B-tree traversal (_log(n)_)](https://use-the-index-luke.com/sql/anatomy/the-tree) and a single table access.
 
-The trick is that the index supports the `where` clause as well as the `order by` clause. The database uses the index to find the last entry that matches the `where` clause and takes it as result. Even though there is an `order by` clause, there is no need to sort any rows.
+The trick is that the index supports the `where` clause as well as the `order by` clause. The database uses the index to find the last entry that matches the `where` clause and takes it as result. Even though there is an `order by` clause, there is no need to sort any rows.
 
 ## Question 3
 
-Is the following index a good fit for **both queries**?
+Is the following index a good fit for **both queries**?
 
 ```sql
 CREATE INDEX tbl_idx ON tbl (a, b)
@@ -121,7 +121,7 @@ Your answer:
 
 **Good fit**: No need to change anything
 
-Although `like` expressions starting with a wild card character (`%` or `_`) cannot use this index efficiently, a pattern that has the wild card character at the very end can! Even if the wild card character is in the middle, the index is still useful.
+Although `like` expressions starting with a wild card character (`%` or `_`) cannot use this index efficiently, a pattern that has the wild card character at the very end can! Even if the wild card character is in the middle, the index is still useful.
 
 ## Question 5
 
@@ -140,7 +140,7 @@ SELECT date_column, count(*)
 
 Let’s say this query returns at least a few rows and that there is no other index on this table.
 
-To implement a new functional requirement, another condition (`b = 1`) is added to the `where` clause:
+To implement a new functional requirement, another condition (`b = 1`) is added to the `where` clause:
 
 ```sql
 SELECT date_column, count(*)
@@ -163,6 +163,6 @@ How will the change affect performance:
 
 Wrong! The query will be slower.
 
-The index happened to have all required data (columns) for the original query. It can run as so-called [index-only scan](https://use-the-index-luke.com/sql/clustering/index-only-scan-covering-index), which doesn’t need to access the actual table at all.
+The index happened to have all required data (columns) for the original query. It can run as so-called [index-only scan](https://use-the-index-luke.com/sql/clustering/index-only-scan-covering-index), which doesn’t need to access the actual table at all.
 
-Accessing any column that is not part of the index prevents this optimization so that the database must look into the actual table for each row that qualifies the original `where` clause to see if it also satisfies the new filter. Even if the new filter removes _all_ rows, it does so after incurring additional work. Although the grouping has fewer rows to aggregate, this cannot compensate for the additional table look-ups.
+Accessing any column that is not part of the index prevents this optimization so that the database must look into the actual table for each row that qualifies the original `where` clause to see if it also satisfies the new filter. Even if the new filter removes _all_ rows, it does so after incurring additional work. Although the grouping has fewer rows to aggregate, this cannot compensate for the additional table look-ups.

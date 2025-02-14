@@ -45,7 +45,7 @@ https://thetruesize.com
 
 ![true-size-of-countries-landmass](../../media/Pasted%20image%2020230710130538.jpg)
 
-So the Mercator projection clearly distorts our perception of the world. But it’s not the only way it’s distorted. We center our map around the equator and the [reference meridian](https://en.wikipedia.org/wiki/IERS_Reference_Meridian), which goes [through London](https://en.wikipedia.org/wiki/Prime_meridian_(Greenwich)).
+So the Mercator projection clearly distorts our perception of the world. But it’s not the only way it’s distorted. We center our map around the equator and the [reference meridian](https://en.wikipedia.org/wiki/IERS_Reference_Meridian), which goes [through London](https://en.wikipedia.org/wiki/Prime_meridian_(Greenwich)).
 
 What happens if you center it on Argentina instead?
 
@@ -53,6 +53,6 @@ What happens if you center it on Argentina instead?
 
 _This shows how far away from everything Chile is, at the bottom left of South America. Poor lonely Chile. Your Australian editor Shoni would also want to claim lonely status for New Zealand._
 
-Conversely, if you center the map around Alaska, you can see why it has the [3rd biggest airport](https://www.internationalairportreview.com/article/107921/top-10-busiest-airports-world-cargo/) in the world in terms of cargo: it’s the most central point to all the big markets in the northern hemisphere.
+Conversely, if you center the map around Alaska, you can see why it has the [3rd biggest airport](https://www.internationalairportreview.com/article/107921/top-10-busiest-airports-world-cargo/) in the world in terms of cargo: it’s the most central point to all the big markets in the northern hemisphere.
 
 ![alaska-center-hub](../../media/Pasted%20image%2020230710130750.jpg)

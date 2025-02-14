@@ -8,7 +8,7 @@ Amazon Aurora maintains two types of backup: automated (continuous) backups and 
 
 The automated (continuous) backup for a cluster incrementally stores all database changes within a specified retention period to be able to restore to any point in time within that retention period. Retention periods can range from 1–35 days. Automated backups are incremental and charged based on the amount of storage that’s required to restore to any time within the retention period.
 
-Aurora also provides a free amount of backup usage. This free amount of usage is equal to the latest cluster volume size (as represented by the `VolumeBytesUsed` Amazon CloudWatch metric). This amount is subtracted from the calculated automated backup usage. There is also no charge for an automated backup whose retention period is just 1 day.
+Aurora also provides a free amount of backup usage. This free amount of usage is equal to the latest cluster volume size (as represented by the `VolumeBytesUsed` Amazon CloudWatch metric). This amount is subtracted from the calculated automated backup usage. There is also no charge for an automated backup whose retention period is just 1 day.
 
 For example, your automated backup has a retention period of 7 days, and you want to restore your cluster to its state from four days ago. Aurora uses the incremental data stored in the automated backup to re-create the state of the cluster at that exact time four days ago.
 
@@ -22,7 +22,7 @@ The total billed usage for the automated backup never exceeds the cumulative clu
 
 ## Snapshot storage
 
-DB cluster snapshots are always full backups whose size is that of the cluster volume at the time the snapshot is taken. Snapshots, either taken manually by the user or automatically by an [AWS Backups](https://docs.aws.amazon.com/aws-backup/latest/devguide/about-backup-plans.html) plan, are treated as manual snapshots. Aurora provides unlimited free storage for all snapshots that lie within the automated backup retention period. After a manual snapshot is outside the retention period, it's billed per GB-month. Any automated system snapshot is never charged unless copied and retained past the retention period.
+DB cluster snapshots are always full backups whose size is that of the cluster volume at the time the snapshot is taken. Snapshots, either taken manually by the user or automatically by an [AWS Backups](https://docs.aws.amazon.com/aws-backup/latest/devguide/about-backup-plans.html) plan, are treated as manual snapshots. Aurora provides unlimited free storage for all snapshots that lie within the automated backup retention period. After a manual snapshot is outside the retention period, it's billed per GB-month. Any automated system snapshot is never charged unless copied and retained past the retention period.
 
 Manual snapshots are not deleted. You can have up to 100 manual snapshots per Region.
 
@@ -59,8 +59,8 @@ Represents the metrics for all billed backup usage, in bytes, for the given clus
 
 `BackupRetentionPeriodStorageUsed + SnapshotStorageUsed - free tier`
 
-- This metric emits one daily data point for the `BackupRetentionPeriodStorageUsed` value _minus_ the free tier of backup usage that Aurora provides. This free tier is equal to the latest recorded size of the DB cluster volume. This data point represents the actual billed usage for the automated backup.
-- This metric emits individual daily data points for all of the `SnapshotStorageUsed` values.
+- This metric emits one daily data point for the `BackupRetentionPeriodStorageUsed` value _minus_ the free tier of backup usage that Aurora provides. This free tier is equal to the latest recorded size of the DB cluster volume. This data point represents the actual billed usage for the automated backup.
+- This metric emits individual daily data points for all of the `SnapshotStorageUsed` values.
 - To retrieve your total daily billed backup usage, take the sum of this metric over a period of 1 day. This sums all of the billed snapshot usage with the billed automated backup usage, to give your total billed backup usage.
 
 ## Calculating backup storage usage
@@ -142,7 +142,7 @@ This means that the backup storage usage is charged as the weighted average of t
 
 ### How does the backtrack setting for my DB cluster affect backup storage usage?
 
-The backtrack setting for an Aurora DB cluster doesn't affect the volume of backup data for that cluster. Amazon bills the storage for backtracking data separately. For pricing information about Aurora backtracking, see the [Amazon Aurora pricing](https://aws.amazon.com/rds/aurora/pricing) page.
+The backtrack setting for an Aurora DB cluster doesn't affect the volume of backup data for that cluster. Amazon bills the storage for backtracking data separately. For pricing information about Aurora backtracking, see the [Amazon Aurora pricing](https://aws.amazon.com/rds/aurora/pricing) page.
 
 ### How do storage costs apply to shared snapshots?
 
@@ -152,23 +152,23 @@ To keep access to a shared snapshot owned by someone else, you can copy that sna
 
 ### Is there downtime for enabling Amazon RDS automated backups?
 
-When you [enable Amazon RDS automated backups](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_WorkingWithAutomatedBackups.html#USER_WorkingWithAutomatedBackups.Enabling), an outage can occur when you update the backup retention period from "0" to a nonzero value. An outage can also occur when you update from a nonzero value to "0". The outage will be equivalent to the duration of a reboot and any engine recovery tasks performed during the engine startup.
+When you [enable Amazon RDS automated backups](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_WorkingWithAutomatedBackups.html#USER_WorkingWithAutomatedBackups.Enabling), an outage can occur when you update the backup retention period from "0" to a nonzero value. An outage can also occur when you update from a nonzero value to "0". The outage will be equivalent to the duration of a reboot and any engine recovery tasks performed during the engine startup.
 
-**Note:** If you disable automated backups in Amazon RDS, all of your previous automated backup jobs will also be deleted.
+**Note:** If you disable automated backups in Amazon RDS, all of your previous automated backup jobs will also be deleted.
 
 ### What is the difference between automated backups and DB Snapshots?
 
-Amazon RDS provides two different methods for backing up and restoring your DB instance(s) [automated backups](https://aws.amazon.com/rds/features/backup/) and [database snapshots](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_CreateSnapshot.html) (DB Snapshots).
+Amazon RDS provides two different methods for backing up and restoring your DB instance(s) [automated backups](https://aws.amazon.com/rds/features/backup/) and [database snapshots](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_CreateSnapshot.html) (DB Snapshots).
 
-The automated backup feature of Amazon RDS enables [point-in-time recovery](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_PIT.html) of your DB instance. When automated backups are turned on for your DB Instance, Amazon RDS automatically performs a full daily snapshot of your data (during your preferred backup window) and captures transaction logs (as updates to your DB Instance are made). When you initiate a point-in-time recovery, transaction logs are applied to the most appropriate daily backup in order to restore your DB instance to the specific time you requested.
+The automated backup feature of Amazon RDS enables [point-in-time recovery](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_PIT.html) of your DB instance. When automated backups are turned on for your DB Instance, Amazon RDS automatically performs a full daily snapshot of your data (during your preferred backup window) and captures transaction logs (as updates to your DB Instance are made). When you initiate a point-in-time recovery, transaction logs are applied to the most appropriate daily backup in order to restore your DB instance to the specific time you requested.
 
-Amazon RDS retains backups of a DB Instance for a limited, user-specified period of time called the retention period, which by default is 7 days but can be set to up to 35 days. You can initiate a point-in-time restore and specify any second during your retention period, up to the Latest Restorable Time. You can use the [DescribeDBInstances](https://docs.aws.amazon.com/AmazonRDS/latest/APIReference/API_DescribeDBInstances.html) API to return the latest restorable time for you DB instance, which is typically within the last five minutes.
+Amazon RDS retains backups of a DB Instance for a limited, user-specified period of time called the retention period, which by default is 7 days but can be set to up to 35 days. You can initiate a point-in-time restore and specify any second during your retention period, up to the Latest Restorable Time. You can use the [DescribeDBInstances](https://docs.aws.amazon.com/AmazonRDS/latest/APIReference/API_DescribeDBInstances.html) API to return the latest restorable time for you DB instance, which is typically within the last five minutes.
 
 Alternatively, you can find the Latest Restorable Time for a DB instance by selecting it in the AWS Management Console and looking in the "Description" tab in the lower panel of the Console.
 
 DB Snapshots are user-initiated and enable you to back up your DB instance in a known state as frequently as you wish, and then restore to that specific state at any time. DB Snapshots can be created with the AWS Management Console, CreateDBSnapshot API, or create-db-snapshot command and are kept until you explicitly delete them.
 
-The snapshots which Amazon RDS performs for enabling automated backups are available to you for copying (using the AWS console or the [copy-db-snapshot command](http://docs.aws.amazon.com/cli/latest/reference/rds/copy-db-snapshot.html)) or for the snapshot restore functionality. You can identify them using the "automated" Snapshot Type. In addition, you can identify the time at which the snapshot has been taken by viewing the "Snapshot Created Time" field.
+The snapshots which Amazon RDS performs for enabling automated backups are available to you for copying (using the AWS console or the [copy-db-snapshot command](http://docs.aws.amazon.com/cli/latest/reference/rds/copy-db-snapshot.html)) or for the snapshot restore functionality. You can identify them using the "automated" Snapshot Type. In addition, you can identify the time at which the snapshot has been taken by viewing the "Snapshot Created Time" field.
 
 Alternatively, the identifier of the "automated" snapshots also contains the time (in UTC) at which the snapshot has been taken.
 
@@ -176,7 +176,7 @@ Please note: When you perform a restore operation to a point in time or from a D
 
 ### Where are my automated backups and DB snapshots stored and how do I manage their retention?
 
-Amazon RDS DB snapshots and automated backups are stored in [S3](https://aws.amazon.com/s3/).
+Amazon RDS DB snapshots and automated backups are stored in [S3](https://aws.amazon.com/s3/).
 
 [Amazon RDS FAQs](https://aws.amazon.com/rds/faqs/#23)
 
@@ -241,7 +241,7 @@ Amazon RDS supports importing MySQL databases by using backup files. You can cre
 
 # Backup / Restore Tools
 
-To restore your database, you can use the [pg_dump utility](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/PostgreSQL.Procedural.Importing.html#PostgreSQL.Procedural.Importing.EC2) for PostgreSQL or for PostgreSQL versions 10.10 and later, and 11.5. Or, you can use [Transportable Databases](https://aws.amazon.com/blogs/database/migrating-databases-using-rds-postgresql-transportable-databases/), which moves data much faster than the pg_dump/pg_restore method. The [mysqldump](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.Procedural.Importing.SmallExisting.html) utility is available for importing data into MySQL/MariaDB engines, or you can use the [external replication](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.Procedural.Importing.NonRDSRepl.html) method for reduced downtime. Similarly, you can use [Data Pump](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Oracle.Procedural.Importing.DataPump.html) for Oracle and [native full backup](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/SQLServer.Procedural.Importing.html#SQLServer.Procedural.Importing.Native.Using) (.bak files) for SQL Server.
+To restore your database, you can use the [pg_dump utility](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/PostgreSQL.Procedural.Importing.html#PostgreSQL.Procedural.Importing.EC2) for PostgreSQL or for PostgreSQL versions 10.10 and later, and 11.5. Or, you can use [Transportable Databases](https://aws.amazon.com/blogs/database/migrating-databases-using-rds-postgresql-transportable-databases/), which moves data much faster than the pg_dump/pg_restore method. The [mysqldump](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.Procedural.Importing.SmallExisting.html) utility is available for importing data into MySQL/MariaDB engines, or you can use the [external replication](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.Procedural.Importing.NonRDSRepl.html) method for reduced downtime. Similarly, you can use [Data Pump](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Oracle.Procedural.Importing.DataPump.html) for Oracle and [native full backup](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/SQLServer.Procedural.Importing.html#SQLServer.Procedural.Importing.Native.Using) (.bak files) for SQL Server.
 
 [Restoring a backup into a MySQL DB instance - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.Procedural.Importing.html)
 

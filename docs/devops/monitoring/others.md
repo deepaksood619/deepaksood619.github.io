@@ -158,7 +158,7 @@ sentry run cron
 - https://docs.sentry.io/platforms/javascript/guides/react
 - https://docs.sentry.io/platforms/android
 
-Others - [RunWhen Home](https://www.runwhen.com/) - Help every engineer troubleshoot any part of your tech stack
+Others - [RunWhen Home](https://www.runwhen.com/) - Help every engineer troubleshoot any part of your tech stack
 
 - We combine a community writing troubleshooting scripts for apps, platform and infrastructure in the Kubernetes ecosystem with Digital Assistants to help any engineer find which to run, and when.
 

@@ -34,7 +34,7 @@ MLOps is an engineering discipline that aims to unify ML systems development (de
 - Deploy ML models
 - Iterate - Monitor, optimize and maintain the performance of the model
 
-###  Deploying models to the production system
+###  Deploying models to the production system
 
 There are mainly two ways of deploying an ML model:
 
@@ -69,7 +69,7 @@ https://github.com/kubeflow/kubeflow
 
 ### TensorFlow Serving
 
-TensorFlow Serving is a flexible, high-performance serving system for machine learning models, designed for production environments. It deals with the _inference_ aspect of machine learning, taking models after _training_ and managing their lifetimes, providing clients with versioned access via a high-performance, reference-counted lookup table. TensorFlow Serving provides out-of-the-box integration with TensorFlow models, but can be easily extended to serve other types of models and data.
+TensorFlow Serving is a flexible, high-performance serving system for machine learning models, designed for production environments. It deals with the _inference_ aspect of machine learning, taking models after _training_ and managing their lifetimes, providing clients with versioned access via a high-performance, reference-counted lookup table. TensorFlow Serving provides out-of-the-box integration with TensorFlow models, but can be easily extended to serve other types of models and data.
 
 To note a few features:
 
@@ -79,21 +79,21 @@ To note a few features:
 - Supports canarying new versions and A/B testing experimental models
 - Adds minimal latency to inference time due to efficient, low-overhead implementation
 - Features a scheduler that groups individual inference requests into batches for joint execution on GPU, with configurable latency controls
-- Supports many _servables_: Tensorflow models, embeddings, vocabularies, feature transformations and even non-Tensorflow-based machine learning models
+- Supports many _servables_: Tensorflow models, embeddings, vocabularies, feature transformations and even non-Tensorflow-based machine learning models
 
 [GitHub - tensorflow/serving: A flexible, high-performance serving system for machine learning models](https://github.com/tensorflow/serving)
 
-[Serving Models  |  TFX  |  TensorFlow](https://www.tensorflow.org/tfx/guide/serving)
+[Serving Models  |  TFX  |  TensorFlow](https://www.tensorflow.org/tfx/guide/serving)
 
 ### ONNX (Open Neural Network Exchange)
 
 ![ONNX](../../media/Pasted%20image%2020240719194528.jpg)
 
-[ONNX](http://onnx.ai/) (Open Neural Network Exchange), an open-source format for representing deep learning models, was developed by Microsoft and is now managed by the Linux Foundation. It addresses the challenge of model packaging by providing a standardized format that enables easy transfer of machine learning models between different deep learning frameworks.
+[ONNX](http://onnx.ai/) (Open Neural Network Exchange), an open-source format for representing deep learning models, was developed by Microsoft and is now managed by the Linux Foundation. It addresses the challenge of model packaging by providing a standardized format that enables easy transfer of machine learning models between different deep learning frameworks.
 
-Since various deep learning frameworks use different formats to represent their models, using models trained in one framework with another can be challenging. ONNX resolves this issue by providing a standard format that multiple deep learning frameworks, including [TensorFlow](https://www.tensorflow.org/?gclid=Cj0KCQjwla-hBhD7ARIsAM9tQKsGQbp8c_KMjEsQHOz2bn1gt6gk1Sg8YSfdB5P9EdFDK1WqsnQnSbsaAkKyEALw_wcB), [PyTorch](https://pytorch.org/), and [Caffe2](https://caffe2.ai/) can use.
+Since various deep learning frameworks use different formats to represent their models, using models trained in one framework with another can be challenging. ONNX resolves this issue by providing a standard format that multiple deep learning frameworks, including [TensorFlow](https://www.tensorflow.org/?gclid=Cj0KCQjwla-hBhD7ARIsAM9tQKsGQbp8c_KMjEsQHOz2bn1gt6gk1Sg8YSfdB5P9EdFDK1WqsnQnSbsaAkKyEALw_wcB), [PyTorch](https://pytorch.org/), and [Caffe2](https://caffe2.ai/) can use.
 
-With ONNX, models can be trained in one framework and then easily exported to other frameworks for inference, making it convenient for developers to experiment with different deep learning frameworks and tools without having to rewrite their models every time they switch frameworks.  It can execute models on various hardware platforms, including CPUs, GPUs, and FPGAs, making deploying models on various devices easy.
+With ONNX, models can be trained in one framework and then easily exported to other frameworks for inference, making it convenient for developers to experiment with different deep learning frameworks and tools without having to rewrite their models every time they switch frameworks.  It can execute models on various hardware platforms, including CPUs, GPUs, and FPGAs, making deploying models on various devices easy.
 
 ### Seldon Core
 
@@ -167,6 +167,6 @@ https://www.seldon.io
 - [AWS re:Invent 2023 - Introduction to MLOps engineering on AWS (TNC215) - YouTube](https://www.youtube.com/watch?v=2kzJPhgDkDE)
 - [AWS re:Invent 2023 - Zero to machine learning: Jump-start your data-driven journey (SMB204) - YouTube](https://www.youtube.com/watch?v=-CSrOKo8Qgs)
 - [Step-by-Step Guide to Deploying ML Models with Docker](https://www.kdnuggets.com/step-by-step-guide-to-deploying-ml-models-with-docker)
-- [End-to-End Machine Learning Project – AI, MLOps - YouTube](https://www.youtube.com/watch?v=o6vbe5G7xNo)
+- [End-to-End Machine Learning Project – AI, MLOps - YouTube](https://www.youtube.com/watch?v=o6vbe5G7xNo)
 	- ZenML
 	- MLflow

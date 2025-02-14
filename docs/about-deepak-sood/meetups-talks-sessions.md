@@ -1,16 +1,10 @@
 # Meetups / Talks / Sessions
 
-### Fuel Your Weekend with AI - Call for Speakers - ML Weekend (15 Feb 2024)
+## Fuel Your Weekend with AI - ML Weekend (15 Feb 2024)
 
 TFUG Ghaziabad and PyDelhi invites tech enthusiasts, innovators, and experts to share their insights at ML Weekend.  Be part of this transformative event, showcasing groundbreaking ideas and advancements in Machine Learning and its impact on industries.
 
-If you have a compelling story, innovation, or expertise in ML, submit your talk proposal now and inspire the next wave of innovation.
-
-Tentative Dates are 15,16 Feb
-
-Let’s shape the future, together!
-
-#### Automating the Future: Build Powerful AI Agents with Vertex AI
+### Automating the Future: Build Powerful AI Agents with Vertex AI
 
 - AI is evolving beyond chatbots into **autonomous AI agents** that can reason, plan, and take action.
 - **Google Vertex AI Studio** provides a seamless way to build, test, and deploy AI agents with **minimal coding**.
@@ -22,7 +16,7 @@ Let’s shape the future, together!
     - Explore real-world **use cases** (customer support, automation, personal assistants).
     - Discover how to **deploy and integrate** AI agents into apps and workflows.
 
-#### Topics
+### Other Topics
 
 - **GenAI at Scale: Building Large Language Models with Google AI**
 	- Google’s Generative AI offerings (Gemini, Vertex AI, etc.)
@@ -37,7 +31,7 @@ Let’s shape the future, together!
 	- Model monitoring, versioning, and CI/CD pipelines
 	- Case study on real-world deployments
 
-#### Industry-Specific Topics
+### Industry-Specific Topics
 
 1. **"ML for Fintech: Fraud Detection and Risk Analysis with Vertex AI"**
     - Real-time fraud detection using ML models
@@ -62,7 +56,7 @@ https://www.commudle.com/fill-form/3152
 
 ![ML Saturday](../media/Pasted%20image%2020250213234404.png)
 
-### AI use cases for Dummies
+## AI use cases for Dummies (Internal Session - 2 Feb 2025)
 
 - Use Cases
 	- GenAI for coding & code reviews
@@ -74,7 +68,7 @@ https://www.commudle.com/fill-form/3152
 - RAG
 - Fine Tuning
 
-### Navigating Ethical Dilemmas in AI and ML Research and Education in Generative AI (24 January 2024)
+## Navigating Ethical Dilemmas in AI and ML Research and Education in Generative AI (24 January 2024)
 
 - AIML Club at Manav Rachna International Institute of Research & Studies (MRIIRS)
 - Second and third year students
@@ -89,7 +83,7 @@ Presentation - [Ethics in GenAI](https://docs.google.com/presentation/d/1R-o8VoK
 
 [Deepak Sood on LinkedIn: #ethicalai #generativeai #aiforgood #innovationwithintegrity #futureofai…](https://www.linkedin.com/posts/deepaksood619_ethicalai-generativeai-aiforgood-activity-7289683456475758593-yKl6?utm_source=share&utm_medium=member_desktop)
 
-### Kong in Action: Simplifying API Management for Modern Applications - CNCG (18 January 2024)
+## Kong in Action: Simplifying API Management for Modern Applications - CNCG (18 January 2024)
 
 In today’s rapidly evolving digital landscape, efficient API management is the cornerstone of seamless application performance, scalability, and security. Join us for an insightful session on **"Kong in Action: Simplifying API Management for Modern Applications"**, where we unravel the power of Kong as a leading API gateway and management solution.
 
@@ -118,7 +112,7 @@ Presentation - [Kong in Action](https://docs.google.com/presentation/d/1nVVmLVwA
 
 [CNCG New Delhi on LinkedIn: 𝗪𝗲 𝗖𝗮𝗺𝗲, 𝗪𝗲 𝗞𝗼𝗻𝗴-𝘃𝗲𝗿𝘁𝗲𝗱 𝘁𝗵𝗲 𝗰𝗿𝗼𝘄𝗱 At CNCG New…](https://www.linkedin.com/posts/cncgnd_%F0%9D%97%AA%F0%9D%97%B2-%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%B2-%F0%9D%97%AA%F0%9D%97%B2-%F0%9D%97%9E%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%B1-ugcPost-7287826100376809472-HIZC?utm_source=share&utm_medium=member_desktop)
 
-### Podcast - Stream Processing using Kafka and Flink (20 December 2024)
+## Podcast - Stream Processing using Kafka and Flink (20 December 2024)
 
 **Release date - 30 January 2024**
 
@@ -136,7 +130,7 @@ Perfect for developers, architects, and data engineers looking to master real-ti
 - Raw Recording - [Raw Recording - Podcast - Stream Processing using Kafka and Flink](https://drive.google.com/file/d/1FLiWYSlUP3oHc954fuVVYxAmQKv35pZz/view?usp=drive_link)
 - [Buildpiper - By Opstree on LinkedIn: #codeanddeploy #buildwithbuildpiper #kafka #flink #datastreaming #podcast…](https://www.linkedin.com/feed/update/urn:li:activity:7295336849651224576/)
 
-### Kong in Action: Simplifying API Management for Modern Applications - Kong (14 December 2024)
+## Kong in Action: Simplifying API Management for Modern Applications - Kong (14 December 2024)
 
 Introduction to Kong as an API gateway, key features, and benefits.
 
@@ -157,7 +151,7 @@ Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of expe
 - [Kong](devops/others/kong.md)
 - [Meetup - Mastering APIOps:From spec to portal with kong's Tools & Best Practices, Sat, Dec 7, 2024, 10:30 AM | Meetup](https://www.meetup.com/kong-bengaluru/events/302975712/)
 
-### Neo4j Enablement Session at Opstree (12 December 2024)
+## Neo4j Enablement Session at Opstree (12 December 2024)
 
 - What is a Graph database?
 - The Neo4j differences
@@ -170,7 +164,7 @@ Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of expe
 
 [Deepak Sood on LinkedIn: #neo4j #graphdatabases #partnerenablement #opstree #datainnovation…](https://www.linkedin.com/feed/update/urn:li:ugcPost:7273262742159990784/)
 
-### Interview Study Schedule - Unsaid Talks - Manav Rachna International Institute of Research & Studies (07 December 2024)
+## Interview Study Schedule - Unsaid Talks - Manav Rachna International Institute of Research & Studies (07 December 2024)
 
 - Presentation - [Feedback, Doubts (DS/SQL) & Interview Study Schedule Discussion](https://docs.google.com/presentation/d/1hJvmlCAyP2TFq127pgWvqO1beXhqylB7I2hxzgHB180/edit?usp=sharing)
 - Dr. Tapas Kumar - Associate Dean FET & Professor
@@ -180,7 +174,7 @@ Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of expe
 
 ![about the mentor](../media/Screenshot%202024-12-06%20at%203.04.44%20PM.jpg)
 
-### Data Structures for Interview - UnsaidTalks (30 November 2024)
+## Data Structures for Interview - UnsaidTalks (30 November 2024)
 
 - Presentation - [Data Structures for Interviews!](https://docs.google.com/presentation/d/1ISahc8FaxUfgjHESCnYCkH3Td0MZvHKupJGx6O7p90w/edit?usp=sharing)
 - Codes Notebook - Jupyter - Google Colab - [Session 13: Data Structures for Interviews!.ipynb - Colab](https://colab.research.google.com/drive/1Skn6Y3hHue0b9p9etHynRZ7x-iBY1xpP?usp=sharing)
@@ -189,7 +183,7 @@ Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of expe
 
 ![Data Structures for Interview - UnsaidTalks](../media/WhatsApp%20Image%202024-11-30%20at%2009.18.59.jpg)
 
-### Meetup Talk - Real-Time Data Warehousing Solution with AWS and Confluent Cloud - OpsTree Solutions (23 November 2024)
+## Meetup Talk - Real-Time Data Warehousing Solution with AWS and Confluent Cloud - OpsTree Solutions (23 November 2024)
 
 - Presentation - [Real-Time Data Warehousing Solution with AWS and Confluent Cloud ​](https://docs.google.com/presentation/d/118S2du_m7mJ2WFsbwtmFuLz6NApfblv-FmbBE3XQ6PU/edit?usp=sharing)
 - Recording - https://www.youtube.com/live/7NqLTGKFK0c
@@ -261,11 +255,11 @@ Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of expe
 
 [Buildpiper - By Opstree on LinkedIn: #buildwithbuildpiper](https://www.linkedin.com/posts/buildpiper_buildwithbuildpiper-activity-7268216427860373504-cza3?utm_source=share&utm_medium=member_desktop)
 
-### Podcast - Streamlining Cloud Migration Through Data Engineering
+## Podcast - Streamlining Cloud Migration Through Data Engineering
 
 [Podcast - Streamlining Cloud Migration Through Data Engineering](about-deepak-sood/projects/46-podcast-streamlining-cloud-migration-through-data-engineering.md)
 
-### NIT Delhi - GenAI for Freshers (18 September 2024)
+## NIT Delhi - GenAI for Freshers (18 September 2024)
 
 Slides - [Unleash your inner innovator: GenAI for freshers](https://docs.google.com/presentation/d/11YL2HG7wLR2eLiG9Np4NuXJ8LpPoMrtQztb9hpRRkq8/edit?usp=drive_link)
 
@@ -277,7 +271,7 @@ Proportion of students - 1st year + 2nd year (70%), 3rd + 4th year (30%)
 
 [Deepak Sood on LinkedIn: #genai #techforfreshers #aiinnovation #careermoves #nitdelhi](https://www.linkedin.com/posts/deepaksood619_genai-aiinnovation-nitdelhi-activity-7241120393694994433-jsdz?utm_source=share&utm_medium=member_desktop)
 
-### OpsTree Tech Talk (12 September 2024 & 19 September 2024)
+## OpsTree Tech Talk (12 September 2024 & 19 September 2024)
 
 Slides - [From Zero to Hero: Mastering GenAI in a Flash](https://docs.google.com/presentation/d/1lPKz7SGSEKQ0z_2TqQGcNULBLrRgjRQ-R7rDTSHYb8w/edit?usp=sharing)
 
@@ -295,7 +289,7 @@ Get ready to go from **zero to GenAI hero**!
 
 ![mastering-genai-in-a-flash](../media/mastering-genai-in-a-flash.jpg)
 
-### Mentorship - Unsaid Talks (22 August 2024)
+## Mentorship - Unsaid Talks (22 August 2024)
 
 [UnsaidTalks on LinkedIn: #unsaidtalks #mentorshipprogram #techcareers #careerguidance…](https://www.linkedin.com/posts/unsaidtalks_unsaidtalks-mentorshipprogram-techcareers-activity-7232001433175216129-Eff-?utm_source=share&utm_medium=member_desktop)
 
@@ -303,7 +297,7 @@ Get ready to go from **zero to GenAI hero**!
 
 [High-Level Overview of CS Domains](https://docs.google.com/spreadsheets/d/1Ojy0rC60r5FrBOpmwkwXdL_F8lKUieDpWu_SGWE-rx8/edit?usp=sharing)
 
-### GenAI Hands-on Workshop 'From Zero to Hero: Mastering GenAI in a Flash' - SRM-IST (2 September 2024)
+## GenAI Hands-on Workshop 'From Zero to Hero: Mastering GenAI in a Flash' - SRM-IST (2 September 2024)
 
 Slides - [From Zero to Hero: Mastering GenAI in a Flash](https://docs.google.com/presentation/d/1go_DXxBZlhyr1Ap8QIQhXseCFTgKYJ4Obk8dHaJ8ZIk/edit?usp=sharing)
 
@@ -319,7 +313,7 @@ Slides - [From Zero to Hero: Mastering GenAI in a Flash](https://docs.google.com
 
 [Deepak Sood on LinkedIn: Looking forward to presenting the GenAI Hands-on Workshop 'From Zero to…](https://www.linkedin.com/posts/deepaksood619_genai-aiworkshop-hackathon-activity-7235575066032226304-Uz8q?utm_source=share&utm_medium=member_desktop)
 
-### Unsaid Talks - Coding Ninjas, Chitkara University (24 August 2024)
+## Unsaid Talks - Coding Ninjas, Chitkara University (24 August 2024)
 
 Slides - [GenAI for Freshers](https://docs.google.com/presentation/d/1UdfCWT-YHMX0hhTO3DuwqdBLMvGT3a3KLyT9ldIkOpQ/edit?usp=sharing)
 
@@ -353,7 +347,7 @@ Post - [Deepak Sood on LinkedIn: #genai #rag #artificialintelligence #datascienc
 
 ![Unleash your inner innovator: GenAI for Freshers](../media/Pasted%20image%2020240817010531.jpg)
 
-### Unsaid Talks - CodeLocked, BMSCE University (27 August 2024)
+## Unsaid Talks - CodeLocked, BMSCE University (27 August 2024)
 
 Slides - [GenAI for Freshers](https://docs.google.com/presentation/d/1UdfCWT-YHMX0hhTO3DuwqdBLMvGT3a3KLyT9ldIkOpQ/edit?usp=sharing)
 
@@ -369,7 +363,7 @@ Date - Tue, 27 Aug, 2024
 
 ![Unleash your inner innovator: GenAI for Freshers](../media/Pasted%20image%2020240817010450.jpg)
 
-### Expert Talk and Hands-on at Manav Rachna - Department of Computer Science and Engineering (14 August 2024)
+## Expert Talk and Hands-on at Manav Rachna - Department of Computer Science and Engineering (14 August 2024)
 
 Location - Manav Rachna International Institute Of Research And Studies, Research institution in Faridabad, Haryana
 
@@ -379,7 +373,7 @@ Post - [Deepak Sood on LinkedIn: #genai #rag #artificialintelligence #datascienc
 
 ![Expert Speak - Empowering Gen AI with RAG](../media/WhatsApp%20Image%202024-08-10%20at%2016.09.32.jpg)
 
-### Talk at Meetup Zero - GenAI Edition (3 August 2024)
+## Talk at Meetup Zero - GenAI Edition (3 August 2024)
 
 Presentation - [Empowering GenAI with RAG](https://docs.google.com/presentation/d/1s8lM_3jm6eF_SbWRSzGjREO3QN7RZcgeUM_zA6TH-J8/edit?usp=drive_link)
 
@@ -400,13 +394,13 @@ Topic: Empowering GenAI with RAG (Retrieval-Augmented Generation)
 
 [OpsTree Solutions on LinkedIn: #tfug #tfugghaziabad #tensorflow #genai #newevent #event #developers #gde…](https://www.linkedin.com/posts/opstree-solutions_tfug-tfugghaziabad-tensorflow-activity-7223967005920354304-vmVu?utm_source=share&utm_medium=member_desktop)
 
-### AWS Presentation with Stashfin (16 July 2020)
+## AWS Presentation with Stashfin (16 July 2020)
 
 https://yourstory.com/session/how-to-empower-a-platform-with-a-data-pipeline-at-
 
 https://www.slideshare.net/deepaksood566/how-to-empower-a-platform-with-a-data-pipeline-at-a-scale
 
-### Webinar on Career Guidance at SSTC (27 June 2020)
+## Webinar on Career Guidance at SSTC (27 June 2020)
 
 https://www.slideshare.net/deepaksood566/computer-science-career-guidance
 

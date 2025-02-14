@@ -101,7 +101,7 @@ Ubuntu Server 16.04 LTS (HVM), SSD Volume Type- ami-0c28d7c6dd94fb3a7 (64-bit x8
 
 ### Flex Instances
 
-[C7i-flex](https://aws.amazon.com/ec2/instance-types/c7i/) offers five of the most common sizes from **large** to **8xlarge**, delivering 19 percent better price performance than [Amazon EC2 C6i](https://aws.amazon.com/ec2/instance-types/c6i/) instances.
+[C7i-flex](https://aws.amazon.com/ec2/instance-types/c7i/) offers five of the most common sizes from **large** to **8xlarge**, delivering 19 percent better price performance than [Amazon EC2 C6i](https://aws.amazon.com/ec2/instance-types/c6i/) instances.
 
 [New compute-optimized (C7i-flex) Amazon EC2 Flex instances | AWS News Blog](https://aws.amazon.com/blogs/aws/new-compute-optimized-c7i-flex-amazon-ec2-flex-instances/)
 
@@ -113,7 +113,7 @@ Ubuntu Server 16.04 LTS (HVM), SSD Volume Type- ami-0c28d7c6dd94fb3a7 (64-bit x8
 - [Kernel Live Patching for Amazon Linux 2 is now generally available](https://aws.amazon.com/about-aws/whats-new/2020/06/announcing-general-availability-kernel-live-patching-amazon-linux-2/)
 - The M5a is ~10% cheaper.
 - vCPUs and Memory are equal.
-- The Intel CPU is 20% faster, using [Intel Turbo Boost](https://en.wikipedia.org/wiki/Intel_Turbo_Boost) (hence the "**up to** 3.1 Ghz")
+- The Intel CPU is 20% faster, using [Intel Turbo Boost](https://en.wikipedia.org/wiki/Intel_Turbo_Boost) (hence the "**up to** 3.1 Ghz")
 - The Intel instance has 20% more network bandwidth and 40% more EBS bandwidth.
 
 https://aws.amazon.com/ec2/pricing/on-demand
@@ -155,13 +155,13 @@ https://aws.amazon.com/ec2/pricing/reserved-instances/pricing
 
 Intel, AMD, and Graviton each come with tradeoffs:
 
-- **CPU Architecture:** Intel and AMD have x86-based architecture, while Graviton has 64-bit Arm Neoverse cores. The architecture affects software compatibility and performance. Arm-based architecture, in particular, has potential compatibility issues with certain software that may not be supported or may require refactoring. A common reason in the past not to use Graviton was vendor lock-in, as Arm is not as widely supported, which is still true, however, [Azure](https://azure.microsoft.com/en-us/blog/azure-virtual-machines-with-ampere-altra-arm-based-processors-generally-available/) and [Google](https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu) (as of this month) both now have Arm processors available.
+- **CPU Architecture:** Intel and AMD have x86-based architecture, while Graviton has 64-bit Arm Neoverse cores. The architecture affects software compatibility and performance. Arm-based architecture, in particular, has potential compatibility issues with certain software that may not be supported or may require refactoring. A common reason in the past not to use Graviton was vendor lock-in, as Arm is not as widely supported, which is still true, however, [Azure](https://azure.microsoft.com/en-us/blog/azure-virtual-machines-with-ampere-altra-arm-based-processors-generally-available/) and [Google](https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu) (as of this month) both now have Arm processors available.
 
-- **Threading:** Intel and AMD support [simultaneous multithreading](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-optimize-cpu.html), enabling "multiple threads to run concurrently on a single CPU core." Graviton, on the other hand, does not, and [every vCPU is a physical core](https://docs.aws.amazon.com/whitepapers/latest/aws-graviton2-for-isv/optimizing-for-performance.html). Some workloads, like data analytics, are more efficient on a multithreaded workload, whereas others, such as gaming, perform better on single-threaded workloads. Note—you can [disable multithreading](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-specify-cpu-options.html) by setting one thread per code.
+- **Threading:** Intel and AMD support [simultaneous multithreading](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-optimize-cpu.html), enabling "multiple threads to run concurrently on a single CPU core." Graviton, on the other hand, does not, and [every vCPU is a physical core](https://docs.aws.amazon.com/whitepapers/latest/aws-graviton2-for-isv/optimizing-for-performance.html). Some workloads, like data analytics, are more efficient on a multithreaded workload, whereas others, such as gaming, perform better on single-threaded workloads. Note—you can [disable multithreading](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-specify-cpu-options.html) by setting one thread per code.
 
-- **Price Performance:** Graviton is advertised by AWS to have [better price performance](https://aws.amazon.com/ec2/graviton/), in some cases up to 40%, than comparable Intel and AMD instances. Independent benchmarks comparing similar instances, such as [this one by Scylla](https://www.scylladb.com/2021/09/16/aws-graviton2-arm-brings-better-price-performance-than-intel/), also find Graviton to be more price-performant. This is due in part to Arm-based processors having lower power consumption and more competitive margins since Graviton is owned by Amazon. Graviton is an excellent choice for those who are prioritizing cost.
+- **Price Performance:** Graviton is advertised by AWS to have [better price performance](https://aws.amazon.com/ec2/graviton/), in some cases up to 40%, than comparable Intel and AMD instances. Independent benchmarks comparing similar instances, such as [this one by Scylla](https://www.scylladb.com/2021/09/16/aws-graviton2-arm-brings-better-price-performance-than-intel/), also find Graviton to be more price-performant. This is due in part to Arm-based processors having lower power consumption and more competitive margins since Graviton is owned by Amazon. Graviton is an excellent choice for those who are prioritizing cost.
 
-- **Performance:** Benchmarks show various results since performance is so specific to use cases. As such, if you’re choosing between instances, consider running your workload on different instances to compare.
+- **Performance:** Benchmarks show various results since performance is so specific to use cases. As such, if you’re choosing between instances, consider running your workload on different instances to compare.
 
 [Intel vs AMD vs Graviton: Amazon EC2 Processor Differences and Distribution](https://www.vantage.sh/blog/aws-ec2-processors-intel-vs-amd-vs-graviton-adoption)
 
@@ -175,11 +175,11 @@ Intel, AMD, and Graviton each come with tradeoffs:
 
 ### EC2 Instance metadata and user data
 
-_Instance metadata_ is data about your instance that you can use to configure or manage the running instance. Instance metadata is divided into [categories](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instancedata-data-categories.html), for example, host name, events, and security groups.
+_Instance metadata_ is data about your instance that you can use to configure or manage the running instance. Instance metadata is divided into [categories](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instancedata-data-categories.html), for example, host name, events, and security groups.
 
 EC2 instance metadata is a service accessible from within EC2 instances, which allows querying or managing data about a given running instance.
 
-It is possible to retrieve an instance’s IAM access key by accessing the `iam/security-credentials/role-name` metadata category. This returns a temporary set of credentials that the EC2 instance automatically uses for communicating with AWS services.
+It is possible to retrieve an instance’s IAM access key by accessing the `iam/security-credentials/role-name` metadata category. This returns a temporary set of credentials that the EC2 instance automatically uses for communicating with AWS services.
 
 [Instance metadata and user data - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html)
 
@@ -189,9 +189,9 @@ It is possible to retrieve an instance’s IAM access key by accessing the `iam
 
 [Systems Manager Automation runbook reference - AWS Systems Manager Automation runbook reference](https://docs.aws.amazon.com/systems-manager-automation-runbooks/latest/userguide/automation-runbook-reference.html)
 
-[AWS Systems Manager Fleet Manager - AWS Systems Manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/fleet.html)
+[AWS Systems Manager Fleet Manager - AWS Systems Manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/fleet.html)
 
-[AWS Systems Manager Inventory - AWS Systems Manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-inventory.html)
+[AWS Systems Manager Inventory - AWS Systems Manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-inventory.html)
 
 ### Instance Scheduler
 
@@ -231,11 +231,11 @@ https://aws.amazon.com/ec2/instance-types/g4
 
 Highest performance GPU-based instances for deep learning and HPC applications
 
-[Amazon EC2 P5 instances](https://aws.amazon.com/ec2/instance-types/p5/) are the latest generation of GPU-based instances and provide the highest performance in Amazon EC2 for deep learning and high performance computing (HPC).
+[Amazon EC2 P5 instances](https://aws.amazon.com/ec2/instance-types/p5/) are the latest generation of GPU-based instances and provide the highest performance in Amazon EC2 for deep learning and high performance computing (HPC).
 
 #### Features
 
-- Intel Sapphire Rapids CPU and PCIe Gen5 between the CPU and GPU in P5en instances; 3rd Gen AMD EPYC processors (AMD EPYC 7R13) and PCIe Gen4 between the CPU and GPU in P5 and P5e instances.
+- Intel Sapphire Rapids CPU and PCIe Gen5 between the CPU and GPU in P5en instances; 3rd Gen AMD EPYC processors (AMD EPYC 7R13) and PCIe Gen4 between the CPU and GPU in P5 and P5e instances.
 - Up to 8 NVIDIA H100 (in P5) or H200 (in P5e and P5en) Tensor Core GPUs
 - Up to 3,200 Gbps network bandwidth with support for Elastic Fabric Adapter (EFA) and NVIDIA GPUDirect RDMA (remote direct memory access)
 - 900 GB/s peer-to-peer GPU communication with NVIDIA NVSwitch

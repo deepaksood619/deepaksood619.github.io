@@ -48,7 +48,7 @@ Instead of nodes sending heartbeats actively, a central monitor might periodical
 
 ### Heartbeat with Health Check
 
-This includes diagnostic information about the node's health in the heartbeat signal. This information can include CPU usage, memory usage, or application-specific metrics. It Provides more detailed information about the node, allowing for more nuanced decision-making. However, it Increases complexity and potential for larger network overhead.
+This includes diagnostic information about the node's health in the heartbeat signal. This information can include CPU usage, memory usage, or application-specific metrics. It Provides more detailed information about the node, allowing for more nuanced decision-making. However, it Increases complexity and potential for larger network overhead.
 
 ### Heartbeat with Timestamps
 
@@ -56,7 +56,7 @@ Heartbeats that include timestamps can help the receiving node or service determ
 
 ### Heartbeat with Acknowledgement
 
-The receiver of the heartbeat message must send back an acknowledgment in this model. This ensures that not only is the sender alive, but the network path between the sender and receiver is also functional.
+The receiver of the heartbeat message must send back an acknowledgment in this model. This ensures that not only is the sender alive, but the network path between the sender and receiver is also functional.
 
 ### Heartbeat with Quorum
 

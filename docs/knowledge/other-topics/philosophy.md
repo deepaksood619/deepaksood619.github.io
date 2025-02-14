@@ -94,9 +94,9 @@ A method of determining the morality of a certain issue (e.g., slavery) based up
 
 ### [Supervenience](https://en.wikipedia.org/wiki/Supervenience)
 
-Supervenience is **a philosophical concept that describes how certain facts, events, or properties depend on others in a noncausal way**. It's a way to describe how certain phenomena seem to emerge from, or are determined by, others.
+Supervenience is **a philosophical concept that describes how certain facts, events, or properties depend on others in a noncausal way**. It's a way to describe how certain phenomena seem to emerge from, or are determined by, others.
 
-Supervenience is a relation between sets of properties or sets of facts. For example, X is said to supervene on Y if and only if some difference in Y is necessary for any difference in X to be possible.
+Supervenience is a relation between sets of properties or sets of facts. For example, X is said to supervene on Y if and only if some difference in Y is necessary for any difference in X to be possible.
 
 Here are some examples of supervenience:
 
@@ -107,4 +107,4 @@ Here are some examples of supervenience:
 
 ## [Categorical imperative](https://en.wikipedia.org/wiki/Categorical_imperative)
 
-The **categorical imperative** ([German](https://en.wikipedia.org/wiki/German_language "German language"): _kategorischer Imperativ_) is the central [philosophical](https://en.wikipedia.org/wiki/Philosophy "Philosophy") concept in the [deontological](https://en.wikipedia.org/wiki/Deontological "Deontological") [moral philosophy](https://en.wikipedia.org/wiki/Kantian_ethics "Kantian ethics") of [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant "Immanuel Kant"). Introduced in Kant's 1785 _[Groundwork of the Metaphysics of Morals](https://en.wikipedia.org/wiki/Groundwork_of_the_Metaphysics_of_Morals "Groundwork of the Metaphysics of Morals")_, it is a way of evaluating [motivations](https://en.wikipedia.org/wiki/Motivation "Motivation") for action. It is best known in its original formulation: "Act only according to that [maxim](https://en.wikipedia.org/wiki/Maxim_(philosophy) "Maxim (philosophy)") whereby you can at the same time will that it should become a universal law."
+The **categorical imperative** ([German](https://en.wikipedia.org/wiki/German_language "German language"): _kategorischer Imperativ_) is the central [philosophical](https://en.wikipedia.org/wiki/Philosophy "Philosophy") concept in the [deontological](https://en.wikipedia.org/wiki/Deontological "Deontological") [moral philosophy](https://en.wikipedia.org/wiki/Kantian_ethics "Kantian ethics") of [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant "Immanuel Kant"). Introduced in Kant's 1785 _[Groundwork of the Metaphysics of Morals](https://en.wikipedia.org/wiki/Groundwork_of_the_Metaphysics_of_Morals "Groundwork of the Metaphysics of Morals")_, it is a way of evaluating [motivations](https://en.wikipedia.org/wiki/Motivation "Motivation") for action. It is best known in its original formulation: "Act only according to that [maxim](https://en.wikipedia.org/wiki/Maxim_(philosophy) "Maxim (philosophy)") whereby you can at the same time will that it should become a universal law."

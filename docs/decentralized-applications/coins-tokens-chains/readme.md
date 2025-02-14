@@ -79,7 +79,7 @@
 
 #### Wrapped Token
 
-A wrapped token is a tokenized version of another cryptocurrency which is pegged to the value of the identical asset it represents on a different network and can be redeemed for the unwrapped version of the token at any point in time.
+A wrapped token is a tokenized version of another cryptocurrency which is pegged to the value of the identical asset it represents on a different network and can be redeemed for the unwrapped version of the token at any point in time.
 
 ### Others
 
@@ -232,9 +232,9 @@ MANTRA is a Security first RWA Layer 1 Blockchain, capable of adherence and enfo
 - **Smart Contracts**: Aptos uses the Move programming language for smart contracts, which is designed for security and flexibility, but it may not be as familiar or supported in enterprise environments as the languages used by Hyperledger Fabric.
 - **Adoption**: As a newer platform, Aptos is still growing its ecosystem and is more experimental compared to the established enterprise focus of Hyperledger Fabric.
 
-For setting up a **private blockchain**, **Hyperledger Fabric** is more suitable due to its enterprise-focused design, extensive privacy features, and customizable architecture that aligns well with the needs of private, permissioned networks. Aptos, on the other hand, is better suited for high-performance public or hybrid blockchains.
+For setting up a **private blockchain**, **Hyperledger Fabric** is more suitable due to its enterprise-focused design, extensive privacy features, and customizable architecture that aligns well with the needs of private, permissioned networks. Aptos, on the other hand, is better suited for high-performance public or hybrid blockchains.
 
-Moreover, Hyperledger Fabric is also available at AWS as Amazon Managed Blockchain (AMB). [https://docs.aws.amazon.com/managed-blockchain/latest/hyperledger-fabric-dev/what-is-managed-blockchain.html](https://docs.aws.amazon.com/managed-blockchain/latest/hyperledger-fabric-dev/what-is-managed-blockchain.html)
+Moreover, Hyperledger Fabric is also available at AWS as Amazon Managed Blockchain (AMB). [https://docs.aws.amazon.com/managed-blockchain/latest/hyperledger-fabric-dev/what-is-managed-blockchain.html](https://docs.aws.amazon.com/managed-blockchain/latest/hyperledger-fabric-dev/what-is-managed-blockchain.html)
 
 ## Chain Sizes
 
