@@ -196,7 +196,7 @@ https://en.wikipedia.org/wiki/Urine_therapy
     - Zentel Chewable Tablet is an antiparasitic medicine, used for the treatment of parasitic worm infections. It works by killing the worms that cause infections and stops the infection from spreading.
     - Symptoms - Teeth Grinding / Itching at anus
 - Cetirizine (Antihistamine that relieves allergy symptoms)
-	- Cetirizine is **a relatively safe and effective medication for treating allergic rhinitis, urticaria, and allergic conjunctivitis**.
+	- Cetirizine is **a relatively safe and effective medication for treating allergic rhinitis, urticaria, and allergic conjunctivitis**.
 	- [Cetirizine: View Uses, Side Effects and Medicines | 1mg](https://www.1mg.com/generics/cetirizine-209553)
 - D3 - CADILA Calcigen D3 (Vitamin D3 - Cholecalciferol) 60000 IU - Pack of 5 * 4 Capsules, Once A Week (4)
    	- [Carbamide Forte Vitamin D3 60000 IU - Chewable Cholecalciferol Supplement | High Potency Vitamin D Supplement, D3 Vitamin Supplement for Women & Men | Orange Flavour - 40 Tablets. : Amazon.in: Health & Personal Care](https://www.amazon.in/Carbamide-Forte-Vitamin-Tablets-VITAMIN/dp/B09H6XXP13/) - 349 - 40 tablets

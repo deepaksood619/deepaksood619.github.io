@@ -172,7 +172,7 @@ Kanban is a method for managing the creation of products with an emphasis on con
 
 #### Swimlanes
 
-Kanban Tool’s swimlanes are a fantastic way to manage several similar projects on one board, bringing an overview of them all to one place, while still leaving you the ability to concentrate on just one at a time, through [collapsing](https://kanbantool.com/support/kanban-board#how-to-collapse-a-column-or-a-swimlane-on-my-kanbanboard) the others.
+Kanban Tool’s swimlanes are a fantastic way to manage several similar projects on one board, bringing an overview of them all to one place, while still leaving you the ability to concentrate on just one at a time, through [collapsing](https://kanbantool.com/support/kanban-board#how-to-collapse-a-column-or-a-swimlane-on-my-kanbanboard) the others.
 
 [What are swimlanes and how to use them? | Kanban Tool Support](https://kanbantool.com/support/kanban-board/what-are-swimlanes)
 

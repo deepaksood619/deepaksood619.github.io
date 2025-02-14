@@ -101,7 +101,7 @@ https://www.toptal.com/test-automation-engineer/automated-testing-best-practices
 
 ## Interview Questions
 
-- In test automation, we use both _assert_ and _verify_ commands. What is the difference between them and when are they used?
+- In test automation, we use both _assert_ and _verify_ commands. What is the difference between them and when are they used?
 - What is the difference between verification and validation?
 
 ### Selenium

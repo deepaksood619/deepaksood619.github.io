@@ -69,7 +69,7 @@ Databricks supports standard SQL constraint management clauses. Constraints fall
 
 When a constraint is violated, the transaction fails with an error. Two types of constraints are supported:
 
-- `NOT NULL`: indicates that values in specific columns cannot be null.
+- `NOT NULL`: indicates that values in specific columns cannot be null.
 - `CHECK`: indicates that a specified boolean expression must be true for each input row.
 
 [Constraints on Databricks | Databricks on AWS](https://docs.databricks.com/tables/constraints.html#declare-primary-key-and-foreign-key-relationships)

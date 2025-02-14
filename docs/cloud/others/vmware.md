@@ -2,7 +2,7 @@
 
 ## VMware ESXi
 
-VMware ESXi is the bare-metal hypervisor in the VMware vSphere virtualization platform. As a bare-metal hypervisor for creating and running [virtual machines (VMs)](https://www.parallels.com/blogs/ras/virtual-machine/), VMware ESXi runs on top and [accesses the hardware directly](https://en.wikipedia.org/wiki/VMware_ESXi) without the need to install an operating system. This direct access to hardware allows it to perform better, run faster and be more scalable than other types of hypervisors. This makes VMware ESXi ideal for use in a large-scale [virtual desktop infrastructure (VDI)](https://www.parallels.com/products/ras/remote-application-server/), in conjunction with the other components in the VMware vSphere platform.
+VMware ESXi is the bare-metal hypervisor in the VMware vSphere virtualization platform. As a bare-metal hypervisor for creating and running [virtual machines (VMs)](https://www.parallels.com/blogs/ras/virtual-machine/), VMware ESXi runs on top and [accesses the hardware directly](https://en.wikipedia.org/wiki/VMware_ESXi) without the need to install an operating system. This direct access to hardware allows it to perform better, run faster and be more scalable than other types of hypervisors. This makes VMware ESXi ideal for use in a large-scale [virtual desktop infrastructure (VDI)](https://www.parallels.com/products/ras/remote-application-server/), in conjunction with the other components in the VMware vSphere platform.
 
 ### What VMware ESXi Server Means
 
@@ -40,12 +40,12 @@ Microsoft Hyper-V is another type-1 hypervisor in the mold of an ESXi Server. Hy
 
 ESXi and Hyper-V have their own set of pros and cons. Some features common to the two systems are:
 
-- **Storage deployment:** Hyper-V’s Resilient File System (ReFS) is like VMware’s VMFS. However, in terms of clustering, VMFS is simpler than the Hyper-V equivalent.
-- **Snapshot technology:** This refers to the use of point-in-time copies of VMs and their data, with the end goal of preventing data loss. Hyper-V allows running snapshots in production and exporting persistent checkpoints to other locations, features not available in the VMware suite. Hyper-V also allows 64 snapshots per VM (Virtual Machine), in contrast to the 32 VMware allows.
-- **Memory management:** VMware uses several complex techniques, but Hyper-V uses just one.
-- **Operating system support:** VMware supports Windows, macOS, Linux and Unix, but Hyper-V support is limited to Windows, Linux and FreeBSD.
-- **Security:** VMware supports data encryption at rest and in motion, but Hyper-V security is managed via Active Directory.
-- **Pricing:** VMware used to charge per processor, but it has shifted to the Microsoft model of charging based on the number of cores on the host machine.
+- **Storage deployment:** Hyper-V’s Resilient File System (ReFS) is like VMware’s VMFS. However, in terms of clustering, VMFS is simpler than the Hyper-V equivalent.
+- **Snapshot technology:** This refers to the use of point-in-time copies of VMs and their data, with the end goal of preventing data loss. Hyper-V allows running snapshots in production and exporting persistent checkpoints to other locations, features not available in the VMware suite. Hyper-V also allows 64 snapshots per VM (Virtual Machine), in contrast to the 32 VMware allows.
+- **Memory management:** VMware uses several complex techniques, but Hyper-V uses just one.
+- **Operating system support:** VMware supports Windows, macOS, Linux and Unix, but Hyper-V support is limited to Windows, Linux and FreeBSD.
+- **Security:** VMware supports data encryption at rest and in motion, but Hyper-V security is managed via Active Directory.
+- **Pricing:** VMware used to charge per processor, but it has shifted to the Microsoft model of charging based on the number of cores on the host machine.
 
 ### Architecture
 
@@ -81,7 +81,7 @@ The CIM system provides an interface for remote applications so that they can ac
 
 ## KVM Hypervisor (Kernel-based Virtual Machine)
 
-Kernel-based Virtual Machine (KVM) is an [open source](https://www.redhat.com/en/topics/open-source/what-is-open-source) [virtualization](https://www.redhat.com/en/topics/virtualization/what-is-virtualization) technology built into Linux®. Specifically, KVM lets you turn Linux into a [hypervisor](https://www.redhat.com/en/topics/virtualization/what-is-a-hypervisor) that allows a host machine to run multiple, isolated virtual environments called guests or virtual machines (VMs).
+Kernel-based Virtual Machine (KVM) is an [open source](https://www.redhat.com/en/topics/open-source/what-is-open-source) [virtualization](https://www.redhat.com/en/topics/virtualization/what-is-virtualization) technology built into Linux®. Specifically, KVM lets you turn Linux into a [hypervisor](https://www.redhat.com/en/topics/virtualization/what-is-a-hypervisor) that allows a host machine to run multiple, isolated virtual environments called guests or virtual machines (VMs).
 
 _KVM is part of Linux_. If you’ve got Linux 2.6.20 or newer, you’ve got KVM. KVM was first announced in 2006 and merged into the mainline Linux kernel version a year later. Because KVM is part of existing Linux code, it immediately benefits from every new Linux feature, fix, and advancement without additional engineering.
 

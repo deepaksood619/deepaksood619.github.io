@@ -100,7 +100,7 @@ __ is an asset that the borrower owns and uses as a guarantee to a lender, until
 
 #### Question 9
 
-With which of the following functions of a bank would you associate the term ‘collateral’?
+With which of the following functions of a bank would you associate the term ‘collateral’?
 
 1. Accepting deposits
 2. Portfolio management
@@ -165,11 +165,11 @@ What is the relationship between demand and price?
 
 Which of the following issues are addressed by the Information Technology Act. 2000?
 
-(A) Legal recognition of electronic documents
-(B) Redressal of grievances
-(C) Offenses and contraventions
+(A) Legal recognition of electronic documents
+(B) Redressal of grievances
+(C) Offenses and contraventions
 (D) Disputes settlements
-(E) Justice dispensation system for cyber crimes
+(E) Justice dispensation system for cyber crimes
 
 Choose the correct answer from the options given below:
 

@@ -37,9 +37,9 @@ https://www.facebook.com/IIITDelhi/posts/2279503818733302 (Project was awarded 1
 
 #### Someone you have reported to
 
-1. Parikshit Chitalkar - CTO - Stashfin - [pc@stashfin.com](mailto:pc@stashfin.com)
+1. Parikshit Chitalkar - CTO - Stashfin - [pc@stashfin.com](mailto:pc@stashfin.com)
 	1. My Manager at Stashfin - Sep 2020 - Feb 2023
-2. Jawahar Sukumar - Product and Data Analytics Head - ODF, Ex - Stashfin, PayU  - [jawahar@opendatafabric.com](mailto:jawahar@opendatafabric.com)
+2. Jawahar Sukumar - Product and Data Analytics Head - ODF, Ex - Stashfin, PayU  - [jawahar@opendatafabric.com](mailto:jawahar@opendatafabric.com)
 	1. My Manager at Stashfin when I was Senior Data Engineer - Feb 2020 - Aug 2020
 	2. Have worked with him later on after that, on a few more projects
 
@@ -47,7 +47,7 @@ https://www.facebook.com/IIITDelhi/posts/2279503818733302 (Project was awarded 1
 
 1. Vishal Goyal - Senior Software Developer - Paypay Japan, Ex - Stashfin - Sep 2020 - Feb 2023
 	1. Was working directly with him closely in all projects at Stashfin
-2. Jawahar Sukumar - Product and Data Analytics Head - ODF, Ex - PayU - [jawahar@opendatafabric.com](mailto:jawahar@opendatafabric.com)
+2. Jawahar Sukumar - Product and Data Analytics Head - ODF, Ex - PayU - [jawahar@opendatafabric.com](mailto:jawahar@opendatafabric.com)
 	1. My Manager at Stashfin when I was Senior Data Engineer - Feb 2020 - Aug 2020
 	2. Have worked with him later on after that, on a few more projects
 
@@ -55,7 +55,7 @@ https://www.facebook.com/IIITDelhi/posts/2279503818733302 (Project was awarded 1
 
 1. Nishant Verma - Cred, Ex - Stashfin
 	1. Hired and managed directly in Stashfin
-2. Ayush Yadav - Nykaa, Ex - Stashfin
+2. Ayush Yadav - Nykaa, Ex - Stashfin
 	1. Hired and managed directly in Stashfin
 
 ## Blogs Published

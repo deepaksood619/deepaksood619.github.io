@@ -40,7 +40,7 @@ General purpose buckets are the original S3 bucket type and are recommended for 
 
 ### Directory buckets
 
-Directory buckets use the S3 Express One Zone storage class, which is recommended if your application is performance sensitive and benefits from single-digit millisecond `PUT` and `GET` latencies.
+Directory buckets use the S3 Express One Zone storage class, which is recommended if your application is performance sensitive and benefits from single-digit millisecond `PUT` and `GET` latencies.
 
 Directory buckets are used for workloads or performance-critical applications that require consistent single-digit millisecond latency. Directory buckets organize data hierarchically into directories as opposed to the flat storage structure of general purpose buckets. There aren't prefix limits for directory buckets, and individual directories can scale horizontally.
 
@@ -50,7 +50,7 @@ Directory buckets store objects in the S3 Express One Zone storage class, which 
 
 You can create up to 10 directory buckets in each of your AWS accounts, with no limit on the number of objects that you can store in a bucket. Your bucket quota is applied to each Region in your AWS account.
 
-**S3 Express One Zone** - High-performance storage for your most frequently accessed data - $0.16 per GB
+**S3 Express One Zone** - High-performance storage for your most frequently accessed data - $0.16 per GB
 
 [Directory buckets - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/directory-buckets-overview.html)
 
@@ -68,7 +68,7 @@ Amazon S3 is a highly secure storage service. S3 is the only cloud storage platf
 
 ## AWS Consistency model
 
-Amazon S3 delivers [strong read-after-write consistency](https://aws.amazon.com/blogs/aws/amazon-s3-update-strong-read-after-write-consistency/) automatically for all applications, without changes to performance or availability, without sacrificing regional isolation for applications, and at no additional cost. With strong consistency, S3 simplifies the migration of on-premises analytics workloads by removing the need to make changes to applications, and reduces costs by removing the need for extra infrastructure to provide strong consistency.
+Amazon S3 delivers [strong read-after-write consistency](https://aws.amazon.com/blogs/aws/amazon-s3-update-strong-read-after-write-consistency/) automatically for all applications, without changes to performance or availability, without sacrificing regional isolation for applications, and at no additional cost. With strong consistency, S3 simplifies the migration of on-premises analytics workloads by removing the need to make changes to applications, and reduces costs by removing the need for extra infrastructure to provide strong consistency.
 
 After a successful write of a new object, or an overwrite or delete of an existing object, any subsequent read request immediately receives the latest version of the object. S3 also provides strong consistency for list operations, so after a write, you can immediately perform a listing of the objects in a bucket with any changes reflected.
 
@@ -204,9 +204,9 @@ https://aws.amazon.com/s3/storage-analytics-insights
 
 ### Amazon S3 analytics – Storage Class Analysis
 
-S3 Analytics Storage Class Analysis - $0.10 per million objects monitored per month
+S3 Analytics Storage Class Analysis - $0.10 per million objects monitored per month
 
-By using Amazon S3 analytics _Storage Class Analysis_ you can analyze storage access patterns to help you decide when to transition the right data to the right storage class. This new Amazon S3 analytics feature observes data access patterns to help you determine when to transition less frequently accessed STANDARD storage to the STANDARD_IA (IA, for infrequent access) storage class.
+By using Amazon S3 analytics _Storage Class Analysis_ you can analyze storage access patterns to help you decide when to transition the right data to the right storage class. This new Amazon S3 analytics feature observes data access patterns to help you determine when to transition less frequently accessed STANDARD storage to the STANDARD_IA (IA, for infrequent access) storage class.
 
 [Amazon S3 analytics – Storage Class Analysis - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/analytics-storage-class.html)
 

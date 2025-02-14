@@ -26,7 +26,7 @@ A suite of 23 challenging BIG-Bench tasks which we call BIG-Bench Hard (BBH). Th
 
 ### BIG-Bench
 
-The Beyond the Imitation Game Benchmark (BIG-bench) is a _collaborative_ benchmark intended to probe large language models and extrapolate their future capabilities.
+The Beyond the Imitation Game Benchmark (BIG-bench) is a _collaborative_ benchmark intended to probe large language models and extrapolate their future capabilities.
 
 [GitHub - google/BIG-bench: Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models](https://github.com/google/BIG-bench)
 
@@ -50,15 +50,15 @@ https://github.com/brianfrankcooper/YCSB/wiki/Core-Workloads
 
 ## TPC (Transaction Processing Performance Council)
 
-TPC stands for Transaction Processing Performance Council. It is a non-profit organization that was founded in 1988. The TPC's goal is to define benchmarks for transaction processing and databases. They also distribute objective and verifiable performance data to the industry.
+TPC stands for Transaction Processing Performance Council. It is a non-profit organization that was founded in 1988. The TPC's goal is to define benchmarks for transaction processing and databases. They also distribute objective and verifiable performance data to the industry.
 
 Here are some TPC benchmarks:
 
-- TPC-C: Compares the performance of online transaction processing
-- TPC-E: Measures the performance of online transaction processing systems
-- TPC-H: A benchmark for transaction processing and databases specific to decision support
+- TPC-C: Compares the performance of online transaction processing
+- TPC-E: Measures the performance of online transaction processing systems
+- TPC-H: A benchmark for transaction processing and databases specific to decision support
 
-Other TPC benchmarks include: TPC-DS, TPCI.
+Other TPC benchmarks include: TPC-DS, TPCI.
 
 TPC-DS has more difficult SQL like SQL queries with different types of JOINS compared to TPC-H.
 

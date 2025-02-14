@@ -166,7 +166,7 @@ These paradoxes have in common a contradiction arising from either [self-referen
 
 - [**Achilles and the tortoise**](https://en.wikipedia.org/wiki/Zeno%27s_paradoxes#Achilles_and_the_tortoise "Zeno's paradoxes"): If the tortoise is ahead of Achilles, by the time Achilles reaches the tortoise's current position, the tortoise will have moved a bit further ahead, which goes on indefinitely.
 - [**Archer's paradox**](https://en.wikipedia.org/wiki/Archer%27s_paradox "Archer's paradox"): An archer must, in order to hit his target, not aim directly at it, but slightly to the side. Not to be confused with the arrow paradox.
-- [**Arrow paradox**](https://en.wikipedia.org/wiki/Zeno%27s_paradoxes#Arrow_paradox "Zeno's paradoxes") : If we divide time into discrete 0-duration slices, no motion is happening in each of them, so taking them all as a whole, motion is impossible.
+- [**Arrow paradox**](https://en.wikipedia.org/wiki/Zeno%27s_paradoxes#Arrow_paradox "Zeno's paradoxes") : If we divide time into discrete 0-duration slices, no motion is happening in each of them, so taking them all as a whole, motion is impossible.
 - [**Aristotle's wheel paradox**](https://en.wikipedia.org/wiki/Aristotle%27s_wheel_paradox "Aristotle's wheel paradox"): Rolling joined concentric wheels seem to trace the same distance with their circumferences, even though the circumferences are different.
 - [**Carroll's paradox**](https://en.wikipedia.org/wiki/Carroll%27s_paradox "Carroll's paradox"): The angular momentum of a stick should be zero, but is not.
 - [**D'Alembert's paradox**](https://en.wikipedia.org/wiki/D%27Alembert%27s_paradox "D'Alembert's paradox"): Flow of an [inviscid](https://en.wikipedia.org/wiki/Viscosity "Viscosity") fluid produces no net force on a solid body.
@@ -300,7 +300,7 @@ These paradoxes have in common a contradiction arising from either [self-referen
 - [**Problem of evil**](https://en.wikipedia.org/wiki/Problem_of_evil "Problem of evil"): ([Epicurean](https://en.wikipedia.org/wiki/Epicureanism "Epicureanism") paradox) The existence of evil seems to be incompatible with the existence of an omnipotent, omniscient, and morally perfect God.
 - [**Rule-following paradox**](https://en.wikipedia.org/wiki/Rule-following_paradox "Rule-following paradox"): Even though rules are intended to determine actions, "no course of action could be determined by a rule, because any course of action can be made out to accord with the rule".
 - [**When a white horse is not a horse**](https://en.wikipedia.org/wiki/When_a_white_horse_is_not_a_horse "When a white horse is not a horse"): White horses are not horses because _white_ and _horse_ refer to different things.
-- [**Zeno's paradoxes**](https://en.wikipedia.org/wiki/Zeno%27s_paradoxes "Zeno's paradoxes"): "You will never reach point B from point A as you must always get half-way there, and half of the half, and half of that half, and so on ..." (This is also a paradox of the infinite)
+- [**Zeno's paradoxes**](https://en.wikipedia.org/wiki/Zeno%27s_paradoxes "Zeno's paradoxes"): "You will never reach point B from point A as you must always get half-way there, and half of the half, and half of that half, and so on ..." (This is also a paradox of the infinite)
 
 ## Mysticism
 

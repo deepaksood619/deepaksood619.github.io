@@ -10,13 +10,13 @@ In the line:
 
 `JOIN Country ON Customer.countryCode = Country.countryCode`
 
-The `Customer.countryCode = Country.countryCode` part is called a Predicate.
+The `Customer.countryCode = Country.countryCode` part is called a Predicate.
 
 And in the line:
 
 `WHERE Country.nickName IN ('USA', 'UK', 'Japan')`
 
-The `Country.nickName IN ('USA', 'UK', 'Japan')` part is also called a Predicate.
+The `Country.nickName IN ('USA', 'UK', 'Japan')` part is also called a Predicate.
 
 A predicate is simply the formal name for when an expression is used to evaluate a TRUE or FALSE condition (or sometimes UNKNOWN if a TRUE/FALSE value can't be determined)
 

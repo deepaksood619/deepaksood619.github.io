@@ -19,7 +19,7 @@ Standard topics can be used in many scenarios, as long as your application can p
 
 **Maximum throughput**: Standard topics support a nearly unlimited number of messages per second.
 
-**Best-effort ordering**: Occasionally, messages might be delivered in an order different from which they were published.
+**Best-effort ordering**: Occasionally, messages might be delivered in an order different from which they were published.
 
 ![image](https://d1.awsstatic.com/product-marketing/SNS/Img.29963b2823bc048492c7af2757535d500aa2c159.png)
 
@@ -33,9 +33,9 @@ Standard topics can be used in many scenarios, as long as your application can p
 
 FIFO topics are designed to enhance messaging between applications when the order of operations and events is critical, or where duplicates can't be tolerated, for example: fanning out messages to bank transaction logging, stock monitoring, flight tracking, inventory management, and price update applications.
 
-**High throughput**: FIFO topics support up to 300 messages per second or 10 MB per second per FIFO topic (whichever comes first).
+**High throughput**: FIFO topics support up to 300 messages per second or 10 MB per second per FIFO topic (whichever comes first).
 
-**Strict ordering**: The order in which messages are published and delivered is strictly preserved (i.e. first-in-first-out).
+**Strict ordering**: The order in which messages are published and delivered is strictly preserved (i.e. first-in-first-out).
 
 ![image](https://d1.awsstatic.com/product-marketing/SNS/Img2.8f1c8d366f58845ce03bb2983c16349102cf1524.png)
 

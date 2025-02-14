@@ -1,6 +1,6 @@
 # GST
 
-Businesses must register for GST and pay taxes on their taxable items and services if their annual revenue exceeds **Rs.** **40 lakhs for goods and Rs.** **20 lakhs for services**.
+Businesses must register for GST and pay taxes on their taxable items and services if their annual revenue exceeds **Rs.** **40 lakhs for goods and Rs.** **20 lakhs for services**.
 
 [GST Registration | Online GST Registration Process](https://cleartax.in/s/gst-registration)
 
@@ -38,19 +38,19 @@ Mr. India will be liable to pay income tax on this INR 1 crore at [slab rates](h
 
 ### Foreign Income
 
-For example, **if you receive Rs 1,00,000 as foreign remittance into your Indian bank account, you are liable to pay 18%**, i.e., Rs 18,000 as GST to the Indian government. If you receive foreign remittances not in INR but in a foreign currency, you are not liable to pay GST on the amount you received.
+For example, **if you receive Rs 1,00,000 as foreign remittance into your Indian bank account, you are liable to pay 18%**, i.e., Rs 18,000 as GST to the Indian government. If you receive foreign remittances not in INR but in a foreign currency, you are not liable to pay GST on the amount you received.
 
 ## Harmonized System of Nomenclature (HSN)
 
-The Harmonized System of Nomenclature (HSN) is ==a globally accepted system for classifying goods and services==. It's used by more than 200 countries for customs tariffs and international trade.
+The Harmonized System of Nomenclature (HSN) is ==a globally accepted system for classifying goods and services==. It's used by more than 200 countries for customs tariffs and international trade.
 
 ### What is the HSN code used for?
 
-- **Customs tariffs**: HSN codes are used to calculate customs tariffs.
-- **GST**: HSN codes are used to classify goods and services for GST purposes.
-- **Taxation**: HSN codes are used to determine tax rates.
-- **Trade documentation**: HSN codes are used in trade documentation.
-- **Inventory management**: HSN codes are used in inventory management.
+- **Customs tariffs**: HSN codes are used to calculate customs tariffs.
+- **GST**: HSN codes are used to classify goods and services for GST purposes.
+- **Taxation**: HSN codes are used to determine tax rates.
+- **Trade documentation**: HSN codes are used in trade documentation.
+- **Inventory management**: HSN codes are used in inventory management.
 
 ### How does the HSN code work?
 

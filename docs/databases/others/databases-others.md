@@ -316,10 +316,10 @@ https://dbdb.io/db/datomic
 
 FoundationDB is a distributed database designed to handle large volumes of structured data across clusters of commodity servers. It organizes data as an ordered key-value store and employs ACID transactions for all operations. It is especially well-suited for read/write workloads but also has excellent performance for write-intensive workloads. Users interact with the database using API language binding.
 
-- **Multi-model data store.** FoundationDB is multi-model, meaning you can store many types data in a single database. All data is safely stored, distributed, and replicated in the Key-Value Store component.
-- **Easily scalable and fault tolerant.** FoundationDB is easy to install, grow, and manage. It has a distributed architecture that gracefully scales out, and handles faults while acting like a single ACID database.
-- **Industry-leading performance.** FoundationDB provides amazing performance on commodity hardware, allowing you to support very heavy loads at low cost.
-- **Ready for production.** FoundationDB has been running in production for years and been hardened with lessons learned. Backing FoundationDB up is an unmatched testing system based on a deterministic simulation engine.
+- **Multi-model data store.** FoundationDB is multi-model, meaning you can store many types data in a single database. All data is safely stored, distributed, and replicated in the Key-Value Store component.
+- **Easily scalable and fault tolerant.** FoundationDB is easy to install, grow, and manage. It has a distributed architecture that gracefully scales out, and handles faults while acting like a single ACID database.
+- **Industry-leading performance.** FoundationDB provides amazing performance on commodity hardware, allowing you to support very heavy loads at low cost.
+- **Ready for production.** FoundationDB has been running in production for years and been hardened with lessons learned. Backing FoundationDB up is an unmatched testing system based on a deterministic simulation engine.
 - **Open source.**
 
 [GitHub - apple/foundationdb: FoundationDB - the open source, distributed, transactional key-value store](https://github.com/apple/foundationdb)

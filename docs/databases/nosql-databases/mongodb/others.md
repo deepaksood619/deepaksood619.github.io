@@ -6,15 +6,15 @@ The oplog (operation log) is a capped collection that records all write operatio
 
 ## Mongo Change Streams
 
-Change streams allow applications to access real-time data changes without the complexity and risk of tailing the [oplog](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-oplog). Applications can use change streams to subscribe to all data changes on a single collection, a database, or an entire deployment, and immediately react to them. Because change streams use the aggregation framework, applications can also filter for specific changes or transform the notifications at will.
+Change streams allow applications to access real-time data changes without the complexity and risk of tailing the [oplog](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-oplog). Applications can use change streams to subscribe to all data changes on a single collection, a database, or an entire deployment, and immediately react to them. Because change streams use the aggregation framework, applications can also filter for specific changes or transform the notifications at will.
 
-Starting in MongoDB 5.1, change streams are optimized, providing more efficient resource utilization and faster execution of some aggregation pipeline stages.
+Starting in MongoDB 5.1, change streams are optimized, providing more efficient resource utilization and faster execution of some aggregation pipeline stages.
 
 [Change Streams - MongoDB Manual](https://www.mongodb.com/docs/manual/changeStreams/)
 
 ## Tailable Cursors
 
-By default, MongoDB will automatically close a cursor when the client has exhausted all results in the cursor. However, for [capped collections](https://www.mongodb.com/docs/manual/core/capped-collections/) you may use a _Tailable Cursor_ that remains open after the client exhausts the results in the initial cursor. Tailable cursors are conceptually equivalent to the `tail` Unix command with the `-f` option (i.e. with "follow" mode). After clients insert new additional documents into a capped collection, the tailable cursor will continue to retrieve documents.
+By default, MongoDB will automatically close a cursor when the client has exhausted all results in the cursor. However, for [capped collections](https://www.mongodb.com/docs/manual/core/capped-collections/) you may use a _Tailable Cursor_ that remains open after the client exhausts the results in the initial cursor. Tailable cursors are conceptually equivalent to the `tail` Unix command with the `-f` option (i.e. with "follow" mode). After clients insert new additional documents into a capped collection, the tailable cursor will continue to retrieve documents.
 
 [Tailable Cursors - MongoDB Manual](https://www.mongodb.com/docs/manual/core/tailable-cursors/)
 
@@ -90,4 +90,4 @@ https://github.com/mongo-express/mongo-express
 
 ## Others
 
-- [mongomirror - MongoDB Atlas](https://www.mongodb.com/docs/atlas/reference/mongomirror/) - `mongomirror` is a tool for manually migrating data from an existing MongoDB replica set to a MongoDB Atlas replica set.
+- [mongomirror - MongoDB Atlas](https://www.mongodb.com/docs/atlas/reference/mongomirror/) - `mongomirror` is a tool for manually migrating data from an existing MongoDB replica set to a MongoDB Atlas replica set.

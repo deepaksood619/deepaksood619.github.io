@@ -5,6 +5,7 @@
 - [Limitations / Problems](ai/llm/limitations-problems.md)
 - [LLM Building](ai/llm/llm-building.md)
 	- [Langchain](ai/llm/langchain.md)
+- [LLM Agents](ai/llm/llm-agents.md)
 - [LLM Tuning](ai/llm/llm-tuning.md)
 - [Pricing / Costs](ai/llm/pricing-costs.md)
 - [Design Patterns](ai/llm/design-patterns.md)

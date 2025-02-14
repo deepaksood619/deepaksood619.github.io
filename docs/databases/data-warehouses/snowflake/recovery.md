@@ -21,7 +21,7 @@ Using Time Travel, you can perform the following actions within a defined period
 
 To support Time Travel, the following SQL extensions have been implemented:
 
-- [AT | BEFORE](https://docs.snowflake.com/en/sql-reference/constructs/at-before) clause which can be specified in SELECT statements and CREATE … CLONE commands (immediately after the object name). The clause uses one of the following parameters to pinpoint the exact historical data you wish to access:
+- [AT | BEFORE](https://docs.snowflake.com/en/sql-reference/constructs/at-before) clause which can be specified in SELECT statements and CREATE … CLONE commands (immediately after the object name). The clause uses one of the following parameters to pinpoint the exact historical data you wish to access:
     - TIMESTAMP
     - OFFSET (time difference in seconds from the present time)
     - STATEMENT (identifier for statement, e.g. query ID)
@@ -55,7 +55,7 @@ In this example, data can be recovered up to 7 days prior to a failure.
 
 Fail-safe is a data recovery service that is provided on a best effort basis and is intended only for use when all other recovery options have been attempted.
 
-Fail-safe is not provided as a means for accessing historical data after the Time Travel retention period has ended. It is for use only by Snowflake to recover data that may have been lost or damaged due to extreme operational failures.
+Fail-safe is not provided as a means for accessing historical data after the Time Travel retention period has ended. It is for use only by Snowflake to recover data that may have been lost or damaged due to extreme operational failures.
 
 Data recovery through Fail-safe may take from several hours to several days to complete.
 

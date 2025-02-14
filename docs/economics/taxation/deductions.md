@@ -47,11 +47,11 @@
 
 By keeping the lease duration to 11 months, landlords can ensure that the regulations of the Rent Control Act do not apply to their agreement. This allows for greater flexibility in dictating the terms of the lease, including the rent and the tenure of the lease.
 
-Most rental agreements in India are 11 months long because it allows landlords to avoid the Rent Control Act's regulations, which can restrict the terms of the lease. This gives landlords more flexibility to specify the lease's terms, including the rent and the length of the lease. The agreements are typically renewed every 11 months, which gives both parties the opportunity to revise the terms as per their convenience.
+Most rental agreements in India are 11 months long because it allows landlords to avoid the Rent Control Act's regulations, which can restrict the terms of the lease. This gives landlords more flexibility to specify the lease's terms, including the rent and the length of the lease. The agreements are typically renewed every 11 months, which gives both parties the opportunity to revise the terms as per their convenience.
 
-An 11-month lease agreement also allows the landlord to set the rent based on the current market scenario. The parties involved don't need to pay any stamp duty and registration charges for an 11-month rent agreement. They can also easily renew such agreements using stamp duty paper of Rs. 100 when deciding to extend the rental contract.
+An 11-month lease agreement also allows the landlord to set the rent based on the current market scenario. The parties involved don't need to pay any stamp duty and registration charges for an 11-month rent agreement. They can also easily renew such agreements using stamp duty paper of Rs. 100 when deciding to extend the rental contract.
 
-However, the agreement doesn't have to be for 11 months. Renewable/extendable agreements of three to five years can also be made as per the assent of the parties.
+However, the agreement doesn't have to be for 11 months. Renewable/extendable agreements of three to five years can also be made as per the assent of the parties.
 
 Alternatively, the landlord and the tenant may mutually agree to not get the agreement registered, which can help them avoid paying the stamp duty and registration fee.
 

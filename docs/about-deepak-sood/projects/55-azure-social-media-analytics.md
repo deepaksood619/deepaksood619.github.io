@@ -2,18 +2,18 @@
 
 Social Media is changing the ways we consume the internet. Users from almost every background have a social media presence and dedicate a significant amount of time to using social media.
 
-So, it becomes equally important for businesses including enterprises to monitor social media metrics. This not only helps in staying informed about trends but also helps in gathering customer feedback and building a brand reputation.
+So, it becomes equally important for businesses including enterprises to monitor social media metrics. This not only helps in staying informed about trends but also helps in gathering customer feedback and building a brand reputation.
 
-To achieve this, building a comprehensive social media monitoring platform is crucial. This blog post will explore how Azure Synapse can be leveraged to create such a platform, from data gathering to insights visualization.
+To achieve this, building a comprehensive social media monitoring platform is crucial. This blog post will explore how Azure Synapse can be leveraged to create such a platform, from data gathering to insights visualization.
 
 ## Architecture Diagram
 
 ![Architecture Diagram](../../media/Pasted%20image%2020240712013958.jpg)
 
-- **Data Ingestion:** The solution facilitates the ingestion of social media data from diverse sources such as Twitter, news feeds, and other APIs, ensuring a continuous flow of relevant data for analysis.
-- **Data Processing:** Once ingested, the data undergoes a series of processing steps facilitated by Azure services such as Azure Storage, Azure Synapse Analytics, Language Service, Translator Service, and Azure Maps. These services work in tandem to cleanse, transform, and enrich the data, ensuring its quality and enhancing its value through language detection, translation, and geographical enrichment.
-- **Analytics and Insights:** With the processed data at hand, the Solution Accelerator leverages the analytics capabilities of Azure Synapse Analytics to derive actionable insights. Through advanced analytics techniques, sentiment analysis, and trend detection, organizations can unlock valuable insights into user behavior, sentiment trends, and emerging topics.
-- **Visualization:** The insights derived from the analytics pipeline are brought to life through intuitive visualizations powered by Power BI. Interactive dashboards, charts, and reports enable stakeholders to explore and understand the data effortlessly, facilitating informed decision-making and strategic planning
+- **Data Ingestion:** The solution facilitates the ingestion of social media data from diverse sources such as Twitter, news feeds, and other APIs, ensuring a continuous flow of relevant data for analysis.
+- **Data Processing:** Once ingested, the data undergoes a series of processing steps facilitated by Azure services such as Azure Storage, Azure Synapse Analytics, Language Service, Translator Service, and Azure Maps. These services work in tandem to cleanse, transform, and enrich the data, ensuring its quality and enhancing its value through language detection, translation, and geographical enrichment.
+- **Analytics and Insights:** With the processed data at hand, the Solution Accelerator leverages the analytics capabilities of Azure Synapse Analytics to derive actionable insights. Through advanced analytics techniques, sentiment analysis, and trend detection, organizations can unlock valuable insights into user behavior, sentiment trends, and emerging topics.
+- **Visualization:** The insights derived from the analytics pipeline are brought to life through intuitive visualizations powered by Power BI. Interactive dashboards, charts, and reports enable stakeholders to explore and understand the data effortlessly, facilitating informed decision-making and strategic planning
 
 ## Tools used
 

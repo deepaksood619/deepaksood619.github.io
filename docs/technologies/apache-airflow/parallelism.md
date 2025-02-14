@@ -4,10 +4,10 @@ Here's an expanded list of configuration options that are available since Airflo
 
 ---
 
-Options that can be specified **on a per-DAG basis**:
+Options that can be specified **on a per-DAG basis**:
 
-- `concurrency`: the number of task instances allowed to run concurrently across all active runs of the DAG this is set on. Defaults to `core.dag_concurrency` if not set
-- `max_active_runs`: maximum number of active runs for this DAG. The scheduler will not create new active DAG runs once this limit is hit. Defaults to `core.max_active_runs_per_dag` if not set
+- `concurrency`: the number of task instances allowed to run concurrently across all active runs of the DAG this is set on. Defaults to `core.dag_concurrency` if not set
+- `max_active_runs`: maximum number of active runs for this DAG. The scheduler will not create new active DAG runs once this limit is hit. Defaults to `core.max_active_runs_per_dag` if not set
 
 Examples:
 
@@ -21,9 +21,9 @@ dag = DAG('example2', concurrency=10, max_active_runs=2)
 
 ---
 
-Options that can be specified **on a per-operator basis**:
+Options that can be specified **on a per-operator basis**:
 
-- `pool`: the pool to execute the task in. [Pools](https://airflow.apache.org/concepts.html#pools) can be used to limit parallelism for _only a subset_ of tasks
+- `pool`: the pool to execute the task in. [Pools](https://airflow.apache.org/concepts.html#pools) can be used to limit parallelism for _only a subset_ of tasks
 - `max_active_tis_per_dag`: controls the number of concurrent running task instances across dag_runs per task.
 
 Example:
@@ -34,19 +34,19 @@ t1 = BaseOperator(pool='my_custom_pool', max_active_tis_per_dag=12)
 
 ---
 
-Options that are specified **across an entire Airflow setup**:
+Options that are specified **across an entire Airflow setup**:
 
 - `core.parallelism`: maximum number of tasks running across an entire Airflow installation
-- `core.dag_concurrency`: max number of tasks that can be running per DAG (across multiple _DAG runs_)
+- `core.dag_concurrency`: max number of tasks that can be running per DAG (across multiple _DAG runs_)
 - `core.non_pooled_task_slot_count`: number of task slots allocated to tasks not running in a pool
-- `core.max_active_runs_per_dag`: maximum number of active DAG _runs_, per DAG
+- `core.max_active_runs_per_dag`: maximum number of active DAG _runs_, per DAG
 - `scheduler.max_threads`: how many threads the scheduler process should use to use to schedule DAGs
-- `celery.worker_concurrency`: max number of task instances that a worker will process at a time _if using CeleryExecutor_
+- `celery.worker_concurrency`: max number of task instances that a worker will process at a time _if using CeleryExecutor_
 - `celery.sync_parallelism`: number of processes CeleryExecutor should use to sync task state
 
 [python - How to control the parallelism or concurrency of an Airflow installation? - Stack Overflow](https://stackoverflow.com/questions/56370720/how-to-control-the-parallelism-or-concurrency-of-an-airflow-installation)
 
-From airflow version 2.2, `task_concurrency` parameter is deprecated by `max_active_tis_per_dag`.
+From airflow version 2.2, `task_concurrency` parameter is deprecated by `max_active_tis_per_dag`.
 
 ## Per queue tasks concurrency airflow
 
@@ -204,13 +204,13 @@ Both Airflow Pools and Celery Queues are powerful tools for managing task execut
 | max_active_runs_per_dag | `AIRFLOW__CORE__MAX_ACTIVE_RUNS_PER_DAG` | 16            |
 | max_threads             | `AIRFLOW__SCHEDULER__MAX_THREADS`        | 2             |
 
-**parallelism** is the max number of task instances that can run concurrently on airflow. This means that across all running DAGs, no more than 32 tasks will run at one time.
+**parallelism** is the max number of task instances that can run concurrently on airflow. This means that across all running DAGs, no more than 32 tasks will run at one time.
 
-**dag_concurrency** is the number of task instances allowed to run concurrently within a _specific dag_. In other words, you could have 2 DAGs running 16 tasks each in parallel, but a single DAG with 50 tasks would also only run 16 tasks - not 32
+**dag_concurrency** is the number of task instances allowed to run concurrently within a _specific dag_. In other words, you could have 2 DAGs running 16 tasks each in parallel, but a single DAG with 50 tasks would also only run 16 tasks - not 32
 
-**worker_concurrency** is related, but it determines how many tasks a single celery worker can process. So, if you have 4 workers running at a worker concurrency of 16, you could process up to 16x4=64 tasks at once. Configured with the defaults above, however, only 32 would actually run in parallel. (and only 16 if all tasks are in the same DAG)
+**worker_concurrency** is related, but it determines how many tasks a single celery worker can process. So, if you have 4 workers running at a worker concurrency of 16, you could process up to 16x4=64 tasks at once. Configured with the defaults above, however, only 32 would actually run in parallel. (and only 16 if all tasks are in the same DAG)
 
-**max_active_runs_per_dag** The maximum number of active DAG runs per DAG. So if you start a DAG with `catchup=True`, it will start to schedule lot’s of DAG runs concurrently up to this limit.
+**max_active_runs_per_dag** The maximum number of active DAG runs per DAG. So if you start a DAG with `catchup=True`, it will start to schedule lot’s of DAG runs concurrently up to this limit.
 
 ## Links
 

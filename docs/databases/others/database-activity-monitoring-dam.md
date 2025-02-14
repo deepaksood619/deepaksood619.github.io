@@ -1,8 +1,8 @@
 # Database Activity/Active Monitoring (DAM)
 
-**Database activity monitoring (DAM)** refers to a suite of tools that can be used to support the ability to identify and report on fraudulent, illegal or other undesirable behavior, with minimal impact on user operations and productivity. The tools, which have evolved from basic analysis of user activity in and around relational database management systems (RDBMSs) to encompass a more comprehensive set of capabilities, such as discovery and classification, vulnerability management, application-level analysis, intrusion prevention, support for unstructured data security, identity and access management integration, and risk management support.
+**Database activity monitoring (DAM)** refers to a suite of tools that can be used to support the ability to identify and report on fraudulent, illegal or other undesirable behavior, with minimal impact on user operations and productivity. The tools, which have evolved from basic analysis of user activity in and around relational database management systems (RDBMSs) to encompass a more comprehensive set of capabilities, such as discovery and classification, vulnerability management, application-level analysis, intrusion prevention, support for unstructured data security, identity and access management integration, and risk management support.
 
-DAM stands for Database Activity Monitoring, referring to any solution that is used to actively monitor and analyze database activity. Database Activity Monitoring tools and technology are multipurpose, typically being used by organizations both to fulfill specific compliance criteria, as well as protect their most sensitive data from external hackers and malicious insiders.
+DAM stands for Database Activity Monitoring, referring to any solution that is used to actively monitor and analyze database activity. Database Activity Monitoring tools and technology are multipurpose, typically being used by organizations both to fulfill specific compliance criteria, as well as protect their most sensitive data from external hackers and malicious insiders.
 
 [What is Database Activity Monitoring? DAM Explained - Cyral](https://cyral.com/glossary/database-activity-monitoring/)
 
@@ -40,9 +40,9 @@ Percona Monitoring and Management (PMM) is an open-source database monitoring, m
 
 It allows you to observe the health of your database systems, explore new patterns in their behavior, troubleshoot them and perform database management operations no matter where they are located on-prem or in the cloud.
 
-- PMM **collects** thousands of out-of-the-box performance **metrics** from databases and their hosts.
-- The PMM [web UI](https://docs.percona.com/percona-monitoring-and-management/get-started/interface.html) **visualizes data** in [dashboards](https://docs.percona.com/percona-monitoring-and-management/details/dashboards/).
-- Additional features include [advisors for database health assessments](https://docs.percona.com/percona-monitoring-and-management/details/develop-checks/index.html).
+- PMM **collects** thousands of out-of-the-box performance **metrics** from databases and their hosts.
+- The PMM [web UI](https://docs.percona.com/percona-monitoring-and-management/get-started/interface.html) **visualizes data** in [dashboards](https://docs.percona.com/percona-monitoring-and-management/details/dashboards/).
+- Additional features include [advisors for database health assessments](https://docs.percona.com/percona-monitoring-and-management/details/develop-checks/index.html).
 
 [Monitoring Databases: A Product Comparison](https://www.percona.com/blog/monitoring-databases-a-product-comparison/)
 
@@ -68,7 +68,7 @@ Of course, the client where the MONyog output is viewed can be any browser suppo
 
 #### Advantages
 
-- Setup and startup within two minutes
+- Setup and startup within two minutes
 - Agentless
 - Good query tools
 - Manages configuration

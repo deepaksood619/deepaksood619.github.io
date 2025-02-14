@@ -2,14 +2,14 @@
 
 MyDumper is a MySQL Logical Backup Tool. It has 2 tools:
 
-- `mydumper` which is responsible to export a consistent backup of MySQL databases
-- `myloader` reads the backup from mydumper, connects to the destination database and imports the backup.
+- `mydumper` which is responsible to export a consistent backup of MySQL databases
+- `myloader` reads the backup from mydumper, connects to the destination database and imports the backup.
 
 Both tools use multithreading capabilities.
 
 MyDumper is Open Source and maintained by the community, it is not a Percona, MariaDB or MySQL product.
 
-`mydumper` is a tool used for backing up MySQL database servers much faster than the mysqldump tool distributed with MySQL. It also has the capability to retrieve the binary logs from the remote server at the same time as the dump itself.
+`mydumper` is a tool used for backing up MySQL database servers much faster than the mysqldump tool distributed with MySQL. It also has the capability to retrieve the binary logs from the remote server at the same time as the dump itself.
 
 ## Why do we need MyDumper?
 
@@ -29,12 +29,12 @@ MyDumper is Open Source and maintained by the community, it is not a Percona, Ma
 ## Limitations
 
 - You might choose a different tool if your data transformation processes require intermediate dump files in flat format instead of SQL format.
-- myloader doesn't import database user accounts automatically. If you are restoring the backup to Amazon RDS or Aurora, recreate the users with the required permissions. For more information, see [Master user account privileges](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.MasterAccounts.html) in the Amazon RDS documentation. If you are restoring the backup to an Amazon EC2 database instance, you can manually export the source database user accounts and import them into the EC2 instance.
+- myloader doesn't import database user accounts automatically. If you are restoring the backup to Amazon RDS or Aurora, recreate the users with the required permissions. For more information, see [Master user account privileges](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.MasterAccounts.html) in the Amazon RDS documentation. If you are restoring the backup to an Amazon EC2 database instance, you can manually export the source database user accounts and import them into the EC2 instance.
 
 ## Best practices
 
-- Configure mydumper to divide each table into segments, such as 10,000 rows in each segment, and write each segment in a separate file. This makes it possible to import the data in parallel later.
-- If you are using the InnoDB engine, use the `--trx-consistency-only` option to minimize locking.
+- Configure mydumper to divide each table into segments, such as 10,000 rows in each segment, and write each segment in a separate file. This makes it possible to import the data in parallel later.
+- If you are using the InnoDB engine, use the `--trx-consistency-only` option to minimize locking.
 - Using mydumper to export the database can become read-intensive, and the process can impact overall performance of the production database. If you have a replica database instance, run the export process from the replica. Before you run the export from the replica, stop the replication SQL thread. This helps the export process run more quickly.
 - Don't export the database during peak business hours. Avoiding peak hours can stabilize the performance of your primary production database during the database export.
 
@@ -61,7 +61,7 @@ You can decide not to use this tool if any of the following conditions are true:
 - You can’t use third-party software because of operating system limitations.
 - Your data transformation processes require intermediate dump files in a flat-file format and not an SQL format.
 
-For details and step-by-step instructions, see the [mydumper project](https://github.com/maxbube/mydumper).
+For details and step-by-step instructions, see the [mydumper project](https://github.com/maxbube/mydumper).
 
 Follow these three steps to perform full data load using mydumper.
 

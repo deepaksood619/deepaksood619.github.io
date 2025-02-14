@@ -45,7 +45,7 @@
 
 - [Develop advanced generative AI chatbots by using RAG and ReAct prompting](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/develop-advanced-generative-ai-chatbots-by-using-rag-and-react-prompting.html?did=pg_card&trk=pg_card)
 - [Back to Basics: Understanding Retrieval Augmented Generation (RAG)](https://www.youtube.com/watch?v=_sq3ixXMQTc)
-- [Powering Multiple Contact Centers with GenAI Using Amazon Bedrock](https://docs.aws.amazon.com/pdfs/architecture-diagrams/latest/powering-multiple-contact-centers-with-gen-ai-using-amazon-bedrock/powering-multiple-contact-centers-with-gen-ai-using-amazon-bedrock.pdf#powering-multiple-contact-centers-with-gen-ai-using-amazon-bedrock)
+- [Powering Multiple Contact Centers with GenAI Using Amazon Bedrock](https://docs.aws.amazon.com/pdfs/architecture-diagrams/latest/powering-multiple-contact-centers-with-gen-ai-using-amazon-bedrock/powering-multiple-contact-centers-with-gen-ai-using-amazon-bedrock.pdf#powering-multiple-contact-centers-with-gen-ai-using-amazon-bedrock)
 - https://www.promptingguide.ai
 
 ### Hands-on

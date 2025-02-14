@@ -15,7 +15,7 @@ An embedding of a vector is another vector in a smaller dimensional space
 
 https://www.toptal.com/machine-learning/embeddings-in-machine-learning
 
-[Embeddings  |  Machine Learning  |  Google for Developers](https://developers.google.com/machine-learning/crash-course/embeddings/video-lecture)
+[Embeddings  |  Machine Learning  |  Google for Developers](https://developers.google.com/machine-learning/crash-course/embeddings/video-lecture)
 
 ## Summary of Embeddings
 

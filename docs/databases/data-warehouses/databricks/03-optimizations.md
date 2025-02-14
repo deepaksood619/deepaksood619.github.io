@@ -143,20 +143,20 @@ ANALYZE TABLE MY_BIG_DIM COMPUTE STATISTICS FOR ALL COLUMNS
 
 ## Compute
 
-Databricks supports various [cluster types](https://docs.databricks.com/clusters/index.html):
+Databricks supports various [cluster types](https://docs.databricks.com/clusters/index.html):
 
 - All-purpose clusters
 - Job clusters
 - SQL Warehouses (Classic and Serverless)
 
-All-purpose clusters are dedicated for **interactive** usage, e.g.:
+All-purpose clusters are dedicated for **interactive** usage, e.g.:
 
 - exploration of the datasets using Notebooks
 - development of new ETL pipelines
 - interactive ML model development
 - Multiple users might use the same cluster at the same time
 
-It's **not recommended to use all-purpose clusters** for any kind of **automated workflow deploy and launch**. For such cases, use job clusters - by this you'll ensure proper resource isolation and independence of any other activities of other users on the all-purpose clusters.
+It's **not recommended to use all-purpose clusters** for any kind of **automated workflow deploy and launch**. For such cases, use job clusters - by this you'll ensure proper resource isolation and independence of any other activities of other users on the all-purpose clusters.
 
 ## Others
 

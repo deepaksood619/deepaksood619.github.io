@@ -8,7 +8,7 @@
 - Move tables between MySQL servers on-line
 - Create new MySQL replication replicas easily
 - Backup MySQL without adding load to the server
-- Backup locks are a lightweight alternative to FLUSH TABLES WITH READ LOCK available in Percona Server 5.6+. Percona XtraBackup uses them automatically to copy non-InnoDB data to avoid blocking DML queries that modify InnoDB tables.
+- Backup locks are a lightweight alternative to FLUSH TABLES WITH READ LOCK available in Percona Server 5.6+. Percona XtraBackup uses them automatically to copy non-InnoDB data to avoid blocking DML queries that modify InnoDB tables.
 - Percona XtraBackup performs throttling based on the number of IO operations per second.
 - Percona XtraBackup skips secondary index pages and recreates them when a compact backup is prepared.
 - Percona XtraBackup can export individual tables even from a full backup, regardless of the InnoDB version.
@@ -28,9 +28,9 @@ You can decide not to use this tool if any of the following conditions are true:
 - You can’t use third-party software because of operating system limitations.
 - You migrate into existing Aurora DB clusters.
 - You migrate multiple source MySQL servers into a single Aurora DB cluster.
-- For more information, see [Limitations and recommendations for importing backup files from Amazon S3 to Amazon RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.Procedural.Importing.html#MySQL.Procedural.Importing.Limitations).
+- For more information, see [Limitations and recommendations for importing backup files from Amazon S3 to Amazon RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.Procedural.Importing.html#MySQL.Procedural.Importing.Limitations).
 
-For details and step-by-step instructions, see [Migrating data from MySQL by using an Amazon S3 Bucket](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Migrating.ExtMySQL.html#AuroraMySQL.Migrating.ExtMySQL.S3) in the _Amazon RDS User Guide_.
+For details and step-by-step instructions, see [Migrating data from MySQL by using an Amazon S3 Bucket](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Migrating.ExtMySQL.html#AuroraMySQL.Migrating.ExtMySQL.S3) in the _Amazon RDS User Guide_.
 
 Follow these three steps to perform full data load using Percona XtraBackup.
 
@@ -46,7 +46,7 @@ xtrabackup --user=<myuser> --backup --parallel=4 \
 aws s3 cp - s3://<bucket_name>/<backup_file>.xbstream
 ```
 
-Use the Amazon RDS console to restore the backup files from the Amazon S3 bucket and create a new Amazon Aurora MySQL DB cluster. For more information, see [Restoring an Aurora MySQL DB cluster from an Amazon S3 bucket](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Migrating.ExtMySQL.html#AuroraMySQL.Migrating.ExtMySQL.S3.Restore).
+Use the Amazon RDS console to restore the backup files from the Amazon S3 bucket and create a new Amazon Aurora MySQL DB cluster. For more information, see [Restoring an Aurora MySQL DB cluster from an Amazon S3 bucket](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Migrating.ExtMySQL.html#AuroraMySQL.Migrating.ExtMySQL.S3.Restore).
 
 For example, the following command prints the binary log (binlog) information after you finish the creation of a compressed backup.
 

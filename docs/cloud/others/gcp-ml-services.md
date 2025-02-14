@@ -12,9 +12,9 @@
 
 [Vertex AI with Gemini 1.5 Pro and Gemini 1.5 Flash | Google Cloud](https://cloud.google.com/vertex-ai)
 
-[Get started with generic search  |  Vertex AI Agent Builder  |  Google Cloud](https://cloud.google.com/generative-ai-app-builder/docs/try-enterprise-search)
+[Get started with generic search  |  Vertex AI Agent Builder  |  Google Cloud](https://cloud.google.com/generative-ai-app-builder/docs/try-enterprise-search)
 
-[Introduction to tuning  \|  Generative AI on Vertex AI  \|  Google Cloud](https://cloud.google.com/vertex-ai/generative-ai/docs/models/tune-models)
+[Introduction to tuning  \|  Generative AI on Vertex AI  \|  Google Cloud](https://cloud.google.com/vertex-ai/generative-ai/docs/models/tune-models)
 
 ## Difference between Gemini and Vertex AI
 
@@ -47,7 +47,7 @@ Create AI agents and applications using natural language or a code-first approac
 
 [Vertex AI Agent Builder \| Google Cloud](https://cloud.google.com/products/agent-builder?hl=en)
 
-[Prebuilt agents  \|  Dialogflow CX  \|  Google Cloud](https://cloud.google.com/dialogflow/cx/docs/concept/agents-prebuilt#small-talk)
+[Prebuilt agents  \|  Dialogflow CX  \|  Google Cloud](https://cloud.google.com/dialogflow/cx/docs/concept/agents-prebuilt#small-talk)
 
 ## Links
 

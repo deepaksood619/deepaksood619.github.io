@@ -20,9 +20,9 @@ MirrorMaker, is simple a Kafka consumer and producer, linked together with a que
 
 To successfully understand how MirrorMaker 2 works, one needs to keep in mind that MirrorMaker 2 is built on top of Kafka Connect. Kafka Connect is a framework within Apache Kafka that eases the integration of Kafka with other systems. Indeed, it allows developers to stream data to Kafka from various external sources and vice versa (i.e., from Kafka to external systems). Kafka Connect operates in a scalable and fault-tolerant manner using connector plugins. MirrorMaker 2 relies on three key Kafka Connectors to perform data and offset replications. These special connectors are as follows:
 
-- **Source Connector** is responsible for replicating the data between Kafka clusters.
-- **Checkpoint Connector** is responsible for consumer groups offsets translation.
-- **Heartbeat Connector** enables the monitoring of the health of a MirrorMaker 2 instance.
+- **Source Connector** is responsible for replicating the data between Kafka clusters.
+- **Checkpoint Connector** is responsible for consumer groups offsets translation.
+- **Heartbeat Connector** enables the monitoring of the health of a MirrorMaker 2 instance.
 
 [Demystifying Kafka MirrorMaker 2: Use cases and architecture | Red Hat Developer](https://developers.redhat.com/articles/2023/11/13/demystifying-kafka-mirrormaker-2-use-cases-and-architecture#architecture_design_scenarios)
 
@@ -62,9 +62,9 @@ Using the checkpoint topic, a consumer, on failover, can directly determine (usi
 
 #### Offset Translation
 
-The offset translation is great feature to serve the foundation of migrating or failing over downstream consumers (including Kafka stream applications) from the primary to the backup cluster, as the consumers will use the translated offsets to resume the consumption from where they left off at the primary cluster, without losing messages or consuming many duplicate messages. This expectation essentially contributes to a smooth and transparent one-time migration of consumers from one to another cluster, or the failover of consumers from primary to backup cluster.
+The offset translation is great feature to serve the foundation of migrating or failing over downstream consumers (including Kafka stream applications) from the primary to the backup cluster, as the consumers will use the translated offsets to resume the consumption from where they left off at the primary cluster, without losing messages or consuming many duplicate messages. This expectation essentially contributes to a smooth and transparent one-time migration of consumers from one to another cluster, or the failover of consumers from primary to backup cluster.
 
-To achieve the above transition, there are two important steps: (1) consumer offsets can be translated into the ones that make sense in another cluster, which is already done by the current MM 2.0. (2) periodically synchronize the translated offsets to the  `___consumer_offsets_` topic, so that when the consumers switch over to the other cluster, they can start off from the last known and translated offsets.
+To achieve the above transition, there are two important steps: (1) consumer offsets can be translated into the ones that make sense in another cluster, which is already done by the current MM 2.0. (2) periodically synchronize the translated offsets to the  `___consumer_offsets_` topic, so that when the consumers switch over to the other cluster, they can start off from the last known and translated offsets.
 
 [KIP-545: support automated consumer offset sync across clusters in MM 2.0 - Apache Kafka - Apache Software Foundation](https://cwiki.apache.org/confluence/display/KAFKA/KIP-545%3A+support+automated+consumer+offset+sync+across+clusters+in+MM+2.0)
 
@@ -117,6 +117,6 @@ Cluster Linking allows you to directly connect clusters and perfectly mirror top
 
 Auto-scaling Kafka is complicated. It usually cannot be done just based on some CPU utilization etc.
 
-- If you want to scale consumers, you need to understand their consumer group membership and which topics are they consuming. Because the maximum number of replicas is for example limited with number of partitions from which they are consuming. You need to use tools such as for example [KEDA](https://keda.sh/) to autoscale them which have some additional logic to take these things into account.
-- If you want to auto-scale components such as Connect, Connectors, Bridge etc., Strimzi gives you the `scale` subresources to plug it into Kubernetes HPA and tools like KEDA. These are basically consumers and producers in a special packaging. So the same rules as described above apply for them.
+- If you want to scale consumers, you need to understand their consumer group membership and which topics are they consuming. Because the maximum number of replicas is for example limited with number of partitions from which they are consuming. You need to use tools such as for example [KEDA](https://keda.sh/) to autoscale them which have some additional logic to take these things into account.
+- If you want to auto-scale components such as Connect, Connectors, Bridge etc., Strimzi gives you the `scale` subresources to plug it into Kubernetes HPA and tools like KEDA. These are basically consumers and producers in a special packaging. So the same rules as described above apply for them.
 - For Kafka brokers, auto-scaling is complicated because of their architecture. Adding or removing brokers is simple. But directing some load to them is complicated because they are in a way form of data storage. And moving the whole partitions between brokers is expensive. The partitions often contain huge amounts of data which need to be shifted from one broker to another - that will take time, it will have a performance penalty on the other traffic and possibly cost even real money for the data transfers. Plus it still might not work because if your bottleneck is for example a topic with 5 partitions, it might not matter whether you have 5 or 10 brokers. So from my experience, only rarely autoscaling of Kafka brokers makes sense.

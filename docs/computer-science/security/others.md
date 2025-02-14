@@ -44,30 +44,30 @@ Stegosploit creates a new way to encode "drive-by" browser exploits and deliver 
 
 ### Domain-based Message Authentication, Reporting and Conformance (DMARC)
 
-DMARC, or Domain-based Message Authentication, Reporting, and Conformance, is ==an email security protocol that helps protect email senders and recipients from fraud==. DMARC builds on the Domain Name System (DNS), DomainKeys Identified Mail (DKIM), and Sender Policy Framework (SPF) protocols to verify email senders.
+DMARC, or Domain-based Message Authentication, Reporting, and Conformance, is ==an email security protocol that helps protect email senders and recipients from fraud==. DMARC builds on the Domain Name System (DNS), DomainKeys Identified Mail (DKIM), and Sender Policy Framework (SPF) protocols to verify email senders.
 
 Here are some benefits of DMARC:
 
-- Protects against impersonation fraud: DMARC helps prevent phishing scams and other types of spoofing attacks.
-- Improves visibility: Administrators can monitor emails sent from a domain to ensure they are properly authenticated.
-- Troubleshoots delivery issues: DMARC allows domain owners to specify how to handle emails that fail authentication.
+- Protects against impersonation fraud: DMARC helps prevent phishing scams and other types of spoofing attacks.
+- Improves visibility: Administrators can monitor emails sent from a domain to ensure they are properly authenticated.
+- Troubleshoots delivery issues: DMARC allows domain owners to specify how to handle emails that fail authentication.
 
 ### DKIM
 
-DomainKeys Identified Mail (DKIM) is ==an email authentication method that helps prevent spoofed senders and spam==. It works by adding a digital signature to an email, which is then verified using a public key in the domain's DNS records. DKIM is one of the most common ways to authenticate an email sender, along with SPF and DMARC.
+DomainKeys Identified Mail (DKIM) is ==an email authentication method that helps prevent spoofed senders and spam==. It works by adding a digital signature to an email, which is then verified using a public key in the domain's DNS records. DKIM is one of the most common ways to authenticate an email sender, along with SPF and DMARC.
 
 Here's how DKIM works:
 
-- Signing: The sender identifies the fields they want to include in the DKIM signature, such as the subject, body, and "from" address.
-- Encryption: The email is encrypted using public and private keys.
-- Verification: The public key in the domain's DNS records is used to decrypt the signature and verify that the email's content hasn't been changed.
+- Signing: The sender identifies the fields they want to include in the DKIM signature, such as the subject, body, and "from" address.
+- Encryption: The email is encrypted using public and private keys.
+- Verification: The public key in the domain's DNS records is used to decrypt the signature and verify that the email's content hasn't been changed.
 
 DKIM signatures are usually not visible to the end user.
 
 Here are some things to keep in mind about DKIM:
 
 - Key management - DKIM key management is important for security, and longer keys are more secure.
-- DNS - DKIM keys are long strings of random-looking data that can be easily mistyped in DNS. Even a simple copy and paste error can cause legitimate emails to fail DKIM.
+- DNS - DKIM keys are long strings of random-looking data that can be easily mistyped in DNS. Even a simple copy and paste error can cause legitimate emails to fail DKIM.
 - Integration - DKIM can be used with DMARC and SPF to protect domains from malicious emails.
 
 ### SPF Record
@@ -106,19 +106,19 @@ This record specifies that two servers are authorized to send emails from the do
 
 - Sender Policy Framework (SPF)
 
-    Lists the IP addresses of servers that can send emails from a domain. SPF uses DNS to publish this information.
+    Lists the IP addresses of servers that can send emails from a domain. SPF uses DNS to publish this information.
 
 - DomainKeys Identified Mail (DKIM)
 
-    Uses cryptography to verify that an email came from the domain by adding a digital signature to the email. DKIM uses DNS to advertise the public keys that can be used to authenticate emails.
+    Uses cryptography to verify that an email came from the domain by adding a digital signature to the email. DKIM uses DNS to advertise the public keys that can be used to authenticate emails.
 
 - Domain-based Message Authentication Reporting and Conformance (DMARC)
 
-    Tells mail servers what to do if SPF or DKIM fail. DMARC uses DNS to advertise the policies that should be applied to emails that fail SPF or DKIM.
+    Tells mail servers what to do if SPF or DKIM fail. DMARC uses DNS to advertise the policies that should be applied to emails that fail SPF or DKIM.
 
-DMARC policies can include quarantining emails that fail SPF or DKIM. An email can pass DMARC if it passes either SPF or DKIM and aligns with the domain specified in the "From" header.
+DMARC policies can include quarantining emails that fail SPF or DKIM. An email can pass DMARC if it passes either SPF or DKIM and aligns with the domain specified in the "From" header.
 
-You can add SPF, DKIM, and DMARC records to your DNS settings, but you'll usually need to create and add them yourself. You can ask your web hosting service for help, or use a third-party tool or service.
+You can add SPF, DKIM, and DMARC records to your DNS settings, but you'll usually need to create and add them yourself. You can ask your web hosting service for help, or use a third-party tool or service.
 
 ## Capture the Flag (CTF)
 

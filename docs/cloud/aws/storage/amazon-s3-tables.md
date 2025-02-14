@@ -1,6 +1,6 @@
 # Amazon S3 Tables
 
-[Amazon S3 Tables](https://aws.amazon.com/s3/features/tables/) give you storage that is optimized for tabular data such as daily purchase transactions, streaming sensor data, and ad impressions in Apache Iceberg format, for easy queries using popular query engines like [Amazon Athena](https://aws.amazon.com/athena), [Amazon EMR](https://aws.amazon.com/emr), and [Apache Spark](https://spark.apache.org/). When compared to self-managed table storage, you can expect up to 3x faster query performance and up to 10x more transactions per second, along with the operational efficiency that is part-and-parcel when you use a fully managed service.
+[Amazon S3 Tables](https://aws.amazon.com/s3/features/tables/) give you storage that is optimized for tabular data such as daily purchase transactions, streaming sensor data, and ad impressions in Apache Iceberg format, for easy queries using popular query engines like [Amazon Athena](https://aws.amazon.com/athena), [Amazon EMR](https://aws.amazon.com/emr), and [Apache Spark](https://spark.apache.org/). When compared to self-managed table storage, you can expect up to 3x faster query performance and up to 10x more transactions per second, along with the operational efficiency that is part-and-parcel when you use a fully managed service.
 
 Iceberg has become the most popular way to manage Parquet files, with thousands of AWS customers using Iceberg to query across often billions of files containing petabytes or even exabytes of data.
 

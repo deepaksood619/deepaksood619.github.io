@@ -14,7 +14,7 @@ Fifty years after the riddle first received public attention, one likely answer 
 
 ### Gender and sex
 
-"Sex" refers to the physical differences between people who are male, female, or [intersex](https://www.plannedparenthood.org/learn/gender-identity/sex-gender-identity/whats-intersex). A person typically has their sex assigned at birth based on physiological characteristics, including their genitalia and chromosome composition. This assigned sex is called a person’s "natal sex."
+"Sex" refers to the physical differences between people who are male, female, or [intersex](https://www.plannedparenthood.org/learn/gender-identity/sex-gender-identity/whats-intersex). A person typically has their sex assigned at birth based on physiological characteristics, including their genitalia and chromosome composition. This assigned sex is called a person’s "natal sex."
 
 Gender, on the other hand, involves how a person identifies. Unlike natal sex, gender is not made up of binary forms. Instead, gender is a broad spectrum. A person may identify at any point within this spectrum or outside of it entirely.
 

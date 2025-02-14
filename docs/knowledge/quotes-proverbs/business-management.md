@@ -192,7 +192,7 @@ Hiring is hard enough, don't make it harder
 
 Supreme court is supreme, but not infallible.
 
-We are not final because we are infallible, but we are infallible only because we are final.
+We are not final because we are infallible, but we are infallible only because we are final.
 
 "When failure is expensive, plan carefully.
 

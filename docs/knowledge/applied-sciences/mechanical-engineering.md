@@ -210,7 +210,7 @@ Isotropic refers to the properties of a material which is independent of the dir
 
 ### CNC
 
-CNC is **Computerised Numerical Control**. CNC is a control system that controls devices running on electronic digital computers.
+CNC is **Computerised Numerical Control**. CNC is a control system that controls devices running on electronic digital computers.
 
 [CNC Full Form - Computerized Numerical Control](https://byjus.com/full-form/cnc-full-form/)
 

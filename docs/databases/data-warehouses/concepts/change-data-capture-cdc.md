@@ -21,13 +21,13 @@ CDC solutions occur most often in [data-warehouse](https://en.wikipedia.org/wiki
 
 ### Table metadata
 
-This method keeps track of metadata across every row in a table, including when the row was created and updated. Using this method requires additional columns in the original table (such as _created_at_ and _updated_at_) or a separate table to track these different metadata elements.
+This method keeps track of metadata across every row in a table, including when the row was created and updated. Using this method requires additional columns in the original table (such as _created_at_ and _updated_at_) or a separate table to track these different metadata elements.
 
 Tracking metadata is commonly used in incremental batch processing to identify new and updated rows.
 
-There are many ways to identify new and updated rows in the source table. The most common way is to look at the _updated_at_ column in the destination table before replication to know the latest update and then identify the rows with a later _updated_at_ in the source table. The result is the new and updated rows that should be merged at the destination.
+There are many ways to identify new and updated rows in the source table. The most common way is to look at the _updated_at_ column in the destination table before replication to know the latest update and then identify the rows with a later _updated_at_ in the source table. The result is the new and updated rows that should be merged at the destination.
 
-A detailed implementation in Python for PostgreSQL CDC can be found [here](https://blog.devgenius.io/python-etl-pipeline-incremental-data-load-source-change-detection-28a7ceaa9840).
+A detailed implementation in Python for PostgreSQL CDC can be found [here](https://blog.devgenius.io/python-etl-pipeline-incremental-data-load-source-change-detection-28a7ceaa9840).
 
 ![CDC table metadata technique](../../../media/Pasted%20image%2020240123235509.jpg)
 
@@ -38,7 +38,7 @@ A detailed implementation in Python for PostgreSQL CDC can be found [here](http
 
 ### Table differences
 
-This method identifies the difference between the source and the destination tables to detect new, updated, and even deleted rows. The difference can be calculated using a SQL query or specific utilities provided by the database (for example, SQL Server provides a [tablediff utility](https://docs.microsoft.com/en-us/sql/tools/tablediff-utility?view=sql-server-ver15)).
+This method identifies the difference between the source and the destination tables to detect new, updated, and even deleted rows. The difference can be calculated using a SQL query or specific utilities provided by the database (for example, SQL Server provides a [tablediff utility](https://docs.microsoft.com/en-us/sql/tools/tablediff-utility?view=sql-server-ver15)).
 
 ![CDC table differences technique](../../../media/Pasted%20image%2020240123235453.jpg)
 
@@ -48,9 +48,9 @@ This method identifies the difference between the source and the destination tab
 
 ### Database triggers (Trigger-based CDC)
 
-This method requires the creation of database triggers with logic to manage the metadata within the same table or in a separate book-keeping table, often called a _shadow table_.
+This method requires the creation of database triggers with logic to manage the metadata within the same table or in a separate book-keeping table, often called a _shadow table_.
 
-Most databases allow the creation of triggers; you can see how to [create a trigger for PostgreSQL](https://www.postgresql.org/docs/current/sql-createtrigger.html).
+Most databases allow the creation of triggers; you can see how to [create a trigger for PostgreSQL](https://www.postgresql.org/docs/current/sql-createtrigger.html).
 
 ![Trigger-based CDC technique](../../../media/Pasted%20image%2020240123235440.jpg)
 
@@ -63,7 +63,7 @@ Most databases allow the creation of triggers; you can see how to [create a tri
 
 ### Database transaction log (Log-based CDC)
 
-Log-based CDC uses the transaction logs that some databases - such as Postgres, MySQL, SQL Server,  and Oracle - implement natively as part of their core functionality.
+Log-based CDC uses the transaction logs that some databases - such as Postgres, MySQL, SQL Server,  and Oracle - implement natively as part of their core functionality.
 
 Log-based and trigger-based CDC are very similar - both keep a log of changes every time a database operation happens - so the shadow table and the transaction log contain the same information. The difference between log-based and trigger-based CDC is that the first one uses a core functionality of the database (transaction log); meanwhile, the triggers are created and defined by the user.
 
@@ -88,9 +88,9 @@ https://en.wikipedia.org/wiki/Change_data_capture
 
 ### Maxwell
 
-This is **Maxwell's daemon**, a [change data capture](https://www.confluent.io/blog/how-change-data-capture-works-patterns-solutions-implementation/) application that reads MySQL binlogs and writes data changes as JSON to Kafka, Kinesis, and other streaming platforms.
+This is **Maxwell's daemon**, a [change data capture](https://www.confluent.io/blog/how-change-data-capture-works-patterns-solutions-implementation/) application that reads MySQL binlogs and writes data changes as JSON to Kafka, Kinesis, and other streaming platforms.
 
-[Maxwell](https://maxwells-daemon.io/) is a CDC (Changelog Data Capture) tool that can stream changes in real-time from MySQL into Kafka, Kinesis and other streaming connectors. Maxwell provides a unified format schema for changelog and supports to serialize messages using JSON.
+[Maxwell](https://maxwells-daemon.io/) is a CDC (Changelog Data Capture) tool that can stream changes in real-time from MySQL into Kafka, Kinesis and other streaming connectors. Maxwell provides a unified format schema for changelog and supports to serialize messages using JSON.
 
 #### What's it for?
 

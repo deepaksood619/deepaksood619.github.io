@@ -113,8 +113,8 @@ Flex that can be reprinted again and again. Or no need to print, just put up a f
 ### Better and Cheap Pervious Concrete
 
 - Pervious concrete, also known as **porous concrete**, water permeable concrete, or thirsty concrete, is a type of concrete that has a high void content that allows water or air to pass through.
-- Pervious concrete allows the passage of air and water, which can help preserve trees. It can also reduce stormwater runoff, which is a leading source of pollutants entering waterways.
-- Researchers have found that **pervious concrete has less tensile and flexural strength than conventional concrete**. That's why it is generally not used for concrete pavements for high traffic and heavy wheel loads.
+- Pervious concrete allows the passage of air and water, which can help preserve trees. It can also reduce stormwater runoff, which is a leading source of pollutants entering waterways.
+- Researchers have found that **pervious concrete has less tensile and flexural strength than conventional concrete**. That's why it is generally not used for concrete pavements for high traffic and heavy wheel loads.
 - Clogging
 
 ## Traffic Management
@@ -174,7 +174,7 @@ Get personal photographers by app
 
 ### Restaurants
 
-Restaurants have the highest mortality rate of any industry in the world. 60% restaurants shut in Year 1. 90%  shut in less than 5 years. 9 out of 10!
+Restaurants have the highest mortality rate of any industry in the world. 60% restaurants shut in Year 1. 90%  shut in less than 5 years. 9 out of 10!
 
 When you think of going out, your brain goes ‘aaj kuch naya khate hain’. Let’s try something new today.
 

@@ -4,7 +4,7 @@ Unified NLQ (Natural Language Query)
 
 ## Tools
 
-- [**Dataherald**](https://github.com/Dataherald/dataherald) - natural language-to-SQL engine built for enterprise-level question answering over structured data. [HN launch post](https://news.ycombinator.com/item?id=37240363).
+- [**Dataherald**](https://github.com/Dataherald/dataherald) - natural language-to-SQL engine built for enterprise-level question answering over structured data. [HN launch post](https://news.ycombinator.com/item?id=37240363).
 - [SQLCoder-2–7b: How to Reliably Query Data in Natural Language, on Consumer Hardware | by Sjoerd Tiemensma | Use AI | Medium](https://medium.com/use-ai/sqlcoder-2-7b-how-to-reliably-query-data-in-natural-language-on-consumer-hardware-cb352a3cf3ab)
 - [GitHub - RamiKrispin/lang2sql: A tutorial for setting an SQL code generator with the OpenAI API](https://github.com/RamiKrispin/lang2sql)
 - [Waii - World's most powerful SQL API built with generative AI](https://www.waii.ai/)

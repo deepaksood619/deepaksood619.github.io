@@ -30,7 +30,7 @@ privileges are definitions of specific access permissions to specific objects. I
 
 ### [**role**](https://docs.snowflake.net/manuals/user-guide/security-access-control-overview.html#roles)
 
-a role is the unit of Snowflake security to which privileges can be granted to or revoked from. Roles _are not_ users but are _assigned_ to users to authorize user activity.
+a role is the unit of Snowflake security to which privileges can be granted to or revoked from. Roles _are not_ users but are _assigned_ to users to authorize user activity.
 
 ### [**schema**](https://docs.snowflake.net/manuals/sql-reference/ddl-database.html#schema-management)
 
@@ -38,7 +38,7 @@ a schema is the second layer of storage organization in Snowflake below a databa
 
 ### [**sequence**](https://docs.snowflake.net/manuals/user-guide/querying-sequences.html)
 
-a sequence is a generator object that creates unique values in SQL statements that cover many rows. This is an advanced SQL concept. [Check out this article that gives an overview of the concept](https://www.geeksforgeeks.org/sql-sequences/).
+a sequence is a generator object that creates unique values in SQL statements that cover many rows. This is an advanced SQL concept. [Check out this article that gives an overview of the concept](https://www.geeksforgeeks.org/sql-sequences/).
 
 ### [**Snowpipe**](https://docs.snowflake.net/manuals/user-guide/data-load-snowpipe-intro.html)
 
@@ -54,7 +54,7 @@ this is a file location used for data ingestion. Stages can either be internal (
 
 ### [**stored procedures**](https://docs.snowflake.net/manuals/sql-reference/stored-procedures-overview.html)
 
-stored procedures are reusable functions defined with a mix of JavaScript and SQL for advanced functionality. These are useful for implementing logic with advanced [control flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow) requirements that are unsupported by SQL (error handling, for-loops, conditional branching).
+stored procedures are reusable functions defined with a mix of JavaScript and SQL for advanced functionality. These are useful for implementing logic with advanced [control flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow) requirements that are unsupported by SQL (error handling, for-loops, conditional branching).
 
 ### [**streams**](https://docs.snowflake.net/manuals/user-guide/streams.html)
 
@@ -78,7 +78,7 @@ This feature enables users to query data at different points within a range of t
 
 ### [**transaction**](https://docs.snowflake.net/manuals/sql-reference/transactions.html)
 
-A transaction is a collection of SQL statements that must either be entirely executed successfully or entirely unexecuted (no partial execution). These transactions are fully [ACID compliant](https://en.wikipedia.org/wiki/ACID).
+A transaction is a collection of SQL statements that must either be entirely executed successfully or entirely unexecuted (no partial execution). These transactions are fully [ACID compliant](https://en.wikipedia.org/wiki/ACID).
 
 ### [**transient table**](https://docs.snowflake.net/manuals/user-guide/tables-temp-transient.html#transient-tables)
 

@@ -58,7 +58,7 @@ The fix forward method works best when changes are broken into small chunks that
 - Data migration tool (DM) by TiDB is an open-source tool
 - Refinery
 - Ladder
-- [Atlas | Open-source database schema management tool](https://atlasgo.io/) - manage your database schema as code
+- [Atlas | Open-source database schema management tool](https://atlasgo.io/) - manage your database schema as code
 
 [10 Best Open Source Database Migration Tools](https://wisdomplexus.com/blogs/open-source-database-migration-tools/)
 

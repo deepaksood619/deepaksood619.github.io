@@ -60,10 +60,10 @@ The Kafka data model consists of messages and topics
 ## Some Major Points to Remember in Topics, Partitions, and Offsets
 
 - **Offsets only have a meaning for a specific partition**. That means offset number 3 in Partition 0 does not represent the same data or the same message as offset number 3 in partition 1.
-- **Order is going to be guaranteed** only from within a partition.
-- But across partitions, we have no ordering guarantee. So this is a very important certainty of Kafka is that you’re going to have **ordered at the partition level only**.
-- **Data in Kafka by default is kept only for a limited amount of time** and the default is one week. That means that after one week the data is going to be erased from a partition and this allows Kafka to keep on renewing its disk and to make sure it does not run out of disk space.
-- Kafka is **immutable**. That means once the data is written into a partition, it cannot be changed. So if you write the message number 3 in partition 0 you cannot overwrite. So as such, you want to be careful about the kind of data you send to a Kafka topic and your recovery mechanism instead of in case you send bad data.
+- **Order is going to be guaranteed** only from within a partition.
+- But across partitions, we have no ordering guarantee. So this is a very important certainty of Kafka is that you’re going to have **ordered at the partition level only**.
+- **Data in Kafka by default is kept only for a limited amount of time** and the default is one week. That means that after one week the data is going to be erased from a partition and this allows Kafka to keep on renewing its disk and to make sure it does not run out of disk space.
+- Kafka is **immutable**. That means once the data is written into a partition, it cannot be changed. So if you write the message number 3 in partition 0 you cannot overwrite. So as such, you want to be careful about the kind of data you send to a Kafka topic and your recovery mechanism instead of in case you send bad data.
 - Also if you don’t provide a key to your message, then when you send a message to a Kafka topic the data is going to be assigned to a random partition.
 - Finally, a topic can have as many partitions as you want but it is not common to have topics with say 10, 20, 30, or 1000 partitions unless you have a truly high throughput topic.
 

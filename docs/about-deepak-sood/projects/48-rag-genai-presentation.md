@@ -13,7 +13,7 @@ Presentation
 
 ## Speaker
 
-Share knowledge, expertise, and experiences using TensorFlow or any open-source tech. This includes topics such as TensorFlow applications, research, case studies, best practices, and new developments. The theme is Gen AI, and the audience will be mostly working professionals and 4th-year interns. **The event is scheduled for 3rd August and will be held at Opstree Solutions, Sector 16 Noida**. Potential speakers are required to provide a brief biography, a summary of their proposed presentation, and any relevant experience or credentials. Speakers are encouraged to make their sessions interactive. For purely technical sessions, the use of humor and interactive elements like questions is encouraged.
+Share knowledge, expertise, and experiences using TensorFlow or any open-source tech. This includes topics such as TensorFlow applications, research, case studies, best practices, and new developments. The theme is Gen AI, and the audience will be mostly working professionals and 4th-year interns. **The event is scheduled for 3rd August and will be held at Opstree Solutions, Sector 16 Noida**. Potential speakers are required to provide a brief biography, a summary of their proposed presentation, and any relevant experience or credentials. Speakers are encouraged to make their sessions interactive. For purely technical sessions, the use of humor and interactive elements like questions is encouraged.
 
 ## Objective
 

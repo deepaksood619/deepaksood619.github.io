@@ -25,11 +25,11 @@ ex - n2d-custom-8-12288
 | `n2d-standard-2` | 2      | 8           | 10                               | N/A                             |
 | `n2d-standard-4` | 4      | 16          | 10                               | N/A                             |
 
-[General-purpose machine family for Compute Engine  |  Compute Engine Documentation  |  Google Cloud](https://cloud.google.com/compute/docs/general-purpose-machines)
+[General-purpose machine family for Compute Engine  |  Compute Engine Documentation  |  Google Cloud](https://cloud.google.com/compute/docs/general-purpose-machines)
 
-[Create a VM with a custom machine type  |  Compute Engine Documentation  |  Google Cloud](https://cloud.google.com/compute/docs/instances/creating-instance-with-custom-machine-type)
+[Create a VM with a custom machine type  |  Compute Engine Documentation  |  Google Cloud](https://cloud.google.com/compute/docs/instances/creating-instance-with-custom-machine-type)
 
-[Machine families resource and comparison guide  |  Compute Engine Documentation  |  Google Cloud](https://cloud.google.com/compute/docs/machine-resource)
+[Machine families resource and comparison guide  |  Compute Engine Documentation  |  Google Cloud](https://cloud.google.com/compute/docs/machine-resource)
 
 ### App Engine
 
@@ -56,9 +56,9 @@ https://cloud.google.com/scheduler/docs/quickstart
 
 [Cloud Run | Google Cloud](https://cloud.google.com/run)
 
-[Set minimum instances (services)  |  Cloud Run Documentation  |  Google Cloud](https://cloud.google.com/run/docs/configuring/min-instances)
+[Set minimum instances (services)  |  Cloud Run Documentation  |  Google Cloud](https://cloud.google.com/run/docs/configuring/min-instances)
 
-[CPU allocation (services)  |  Cloud Run Documentation  |  Google Cloud](https://cloud.google.com/run/docs/configuring/cpu-allocation)
+[CPU allocation (services)  |  Cloud Run Documentation  |  Google Cloud](https://cloud.google.com/run/docs/configuring/cpu-allocation)
 
 ## Big Data
 
@@ -247,7 +247,7 @@ API management apps built on Google Cloud
 ## Management Tools
 
 - Stackdriver Overview
-    - [Ops Agent overview  |  Google Cloud Observability](https://cloud.google.com/stackdriver/docs/solutions/agents/ops-agent)
+    - [Ops Agent overview  |  Google Cloud Observability](https://cloud.google.com/stackdriver/docs/solutions/agents/ops-agent)
 - Cloud Monitoring
     - [Cloud Monitoring | Google Cloud](https://cloud.google.com/monitoring)
 - Logging

@@ -1,14 +1,14 @@
 # Interview Questions
 
-## 1. Using `sync.Mutex` in Go
+## 1. Using `sync.Mutex` in Go
 
 **Question**
 
-How would you use a `sync.Mutex` in Go to handle concurrent access to a shared resource? Can you provide a simple example?
+How would you use a `sync.Mutex` in Go to handle concurrent access to a shared resource? Can you provide a simple example?
 
 **Answer**
 
-A `sync.Mutex` is used to ensure only one Goroutine accesses a shared resource at a time.
+A `sync.Mutex` is used to ensure only one Goroutine accesses a shared resource at a time.
 
 ```go
 package main
@@ -43,7 +43,7 @@ func main() {
 }
 ```
 
-In this example, `mutex.Lock()` and `mutex.Unlock()` protect the `counter` from concurrent access.
+In this example, `mutex.Lock()` and `mutex.Unlock()` protect the `counter` from concurrent access.
 
 ## 2. Issues with Locks and Mitigation
 
@@ -59,7 +59,7 @@ What is a potential issue with using locks in a highly concurrent system, and ho
     - **Performance Bottlenecks**: Locks serialize execution, reducing concurrency.
 - **Mitigation**:
 
-    - Use `sync.RWMutex` to allow multiple reads simultaneously but restrict writes.
+    - Use `sync.RWMutex` to allow multiple reads simultaneously but restrict writes.
     - Minimize the duration of critical sections to reduce contention.
     - Use atomic operations (`sync/atomic`) for lightweight synchronization when possible.
 
@@ -71,7 +71,7 @@ How do you map incoming JSON data from a REST API request to a Go struct, and ho
 
 **Answer**
 
-You can map JSON data using the `encoding/json` package and handle errors appropriately.
+You can map JSON data using the `encoding/json` package and handle errors appropriately.
 
 ```go
 package main
@@ -107,7 +107,7 @@ func main() {
 }
 ```
 
-For validation, use libraries like `go-playground/validator` in real-world applications.
+For validation, use libraries like `go-playground/validator` in real-world applications.
 
 ## 4. Error Handling in Go
 
@@ -117,7 +117,7 @@ How do you handle and log errors in a Go codebase to ensure they are both user-f
 
 **Answer**
 
-Errors can be handled and logged using the Go `error` interface and logging libraries.
+Errors can be handled and logged using the Go `error` interface and logging libraries.
 
 ```go
 package main
@@ -146,8 +146,8 @@ func main() {
 
 For structured logging:
 
-- Use libraries like `logrus` or `zap`.
-- Wrap errors with context using `fmt.Errorf`:
+- Use libraries like `logrus` or `zap`.
+- Wrap errors with context using `fmt.Errorf`:
 
 ```go
 return 0, fmt.Errorf("divide function failed: %w", err)
@@ -161,7 +161,7 @@ Can you explain what Goroutines are and how they differ from threads? Provide an
 
 **Answer**
 
-- **Goroutines**: Lightweight, managed threads in Go, created using the `go` keyword.
+- **Goroutines**: Lightweight, managed threads in Go, created using the `go` keyword.
 - **Differences from Threads**:
     - Goroutines are lightweight and managed by the Go runtime, not the OS.
     - Goroutines share memory space, whereas threads may not.

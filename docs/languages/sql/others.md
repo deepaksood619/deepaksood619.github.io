@@ -49,7 +49,7 @@ https://towardsdatascience.com/table-design-best-practices-for-etl-200accee9cc9
 
 ## System Tables
 
-In SQL Server these are often referred to as system tables and views. They can be found in the master database, which holds [data about the database](https://www.helenanderson.co.nz/search-sys-tables/). And in the system views within each database for specific information about each database.
+In SQL Server these are often referred to as system tables and views. They can be found in the master database, which holds [data about the database](https://www.helenanderson.co.nz/search-sys-tables/). And in the system views within each database for specific information about each database.
 
 In PostgreSQL, a similar collection of tables can be found in the information_schema and PostgreSQL catalog.
 

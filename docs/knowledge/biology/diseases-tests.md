@@ -258,7 +258,7 @@ Symptoms of a cold usually peak within 2 to 3 days and can include:
 
 When viruses that cause colds first infect the nose and sinuses, the nose makes clear mucus. This helps wash the viruses from the nose and sinuses. After 2 or 3 days, mucus may change to a white, yellow, or green color. This is normal and does not mean you need an antibiotic.
 
-Some symptoms, especially runny or stuffy nose and cough, can last for up to 10 to 14 days. Those symptoms should improve over time.
+Some symptoms, especially runny or stuffy nose and cough, can last for up to 10 to 14 days. Those symptoms should improve over time.
 
 ### When to Seek Medical Care
 
@@ -269,7 +269,7 @@ Some symptoms, especially runny or stuffy nose and cough, can last for up to 10 
 - Symptoms, such as fever or cough, that improve but then return or worsen
 - Worsening of chronic medical conditions
 
-Colds can have similar symptoms to [flu](https://www.cdc.gov/flu/about/keyfacts.htm). It can be difficult (or even impossible) to tell the difference between them based on symptoms alone.
+Colds can have similar symptoms to [flu](https://www.cdc.gov/flu/about/keyfacts.htm). It can be difficult (or even impossible) to tell the difference between them based on symptoms alone.
 
 ### How to Feel Better
 
@@ -288,7 +288,7 @@ Below are some ways you can feel better while your body fights off a cold:
 
 ### Flu vs Common Cold
 
-Influenza (flu) and the common cold are both contagious respiratory illnesses, but they are caused by different viruses. Flu is caused by influenza viruses only, whereas the common cold can be caused by a number of different viruses, including rhinoviruses, parainfluenza, and [seasonal coronaviruses](https://www.cdc.gov/coronavirus/general-information.html). Seasonal coronaviruses should not be confused with SARS-CoV-2, the virus that causes [COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/index.html). Because flu and the common cold have similar symptoms, it can be difficult to tell the difference between them based on symptoms alone. In general, flu is worse than the common cold, and symptoms are typically more intense and begin more abruptly. Colds are usually milder than flu. People with colds are more likely to have a runny or stuffy nose than people who have flu. Colds generally do not result in serious health problems, such as pneumonia, bacterial infections, or hospitalizations. Flu can have serious [associated complications](https://www.cdc.gov/flu/symptoms/symptoms.htm).
+Influenza (flu) and the common cold are both contagious respiratory illnesses, but they are caused by different viruses. Flu is caused by influenza viruses only, whereas the common cold can be caused by a number of different viruses, including rhinoviruses, parainfluenza, and [seasonal coronaviruses](https://www.cdc.gov/coronavirus/general-information.html). Seasonal coronaviruses should not be confused with SARS-CoV-2, the virus that causes [COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/index.html). Because flu and the common cold have similar symptoms, it can be difficult to tell the difference between them based on symptoms alone. In general, flu is worse than the common cold, and symptoms are typically more intense and begin more abruptly. Colds are usually milder than flu. People with colds are more likely to have a runny or stuffy nose than people who have flu. Colds generally do not result in serious health problems, such as pneumonia, bacterial infections, or hospitalizations. Flu can have serious [associated complications](https://www.cdc.gov/flu/symptoms/symptoms.htm).
 
 [Cold Versus Flu | CDC](https://www.cdc.gov/flu/symptoms/coldflu.htm)
 
@@ -318,7 +318,7 @@ Aphasia is an inability to comprehend or formulate language because of damage to
 
 [Mumps: Causes, Symptoms & Treatments](https://my.clevelandclinic.org/health/diseases/15007-mumps)
 
-Vaccine - The mumps vaccine is part of the **MMR vaccine** series, which also protects against measles and rubella. The CDC recommends that children receive two doses of the MMR vaccine, the first between 12 and 15 months of age and the second between 4 and 6 years of age, with at least four weeks between the doses. The vaccine is 96% effective against measles, 86% effective against mumps, and 89% effective against rubella.
+Vaccine - The mumps vaccine is part of the **MMR vaccine** series, which also protects against measles and rubella. The CDC recommends that children receive two doses of the MMR vaccine, the first between 12 and 15 months of age and the second between 4 and 6 years of age, with at least four weeks between the doses. The vaccine is 96% effective against measles, 86% effective against mumps, and 89% effective against rubella.
 
 ## JellyFish Sting
 

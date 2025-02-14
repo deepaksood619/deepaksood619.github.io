@@ -100,7 +100,7 @@ Many distributed systems have a requirement to generate time sorted, unique ids 
 
 The basic idea behind flake ids is simple: instead of incrementing a counter each time you need an ID, use some of the top bits in an id to represent time, and then some others to represent a "node id", such that id generation across nodes is unique. The wonderful thing about the node id is that you can just coordinate once- very often just by writing to config files inside your orchestration tool (chef/puppet/ansible/etc).
 
-The format was created by [Twitter](https://en.wikipedia.org/wiki/Twitter "Twitter") and is used for the IDs of tweets. The format has been adopted by other companies, including [Discord](https://en.wikipedia.org/wiki/Discord_(software) "Discord (software)") and [Instagram](https://en.wikipedia.org/wiki/Instagram "Instagram"). The [Mastodon](https://en.wikipedia.org/wiki/Mastodon_(software) "Mastodon (software)") social network uses a modified version.
+The format was created by [Twitter](https://en.wikipedia.org/wiki/Twitter "Twitter") and is used for the IDs of tweets. The format has been adopted by other companies, including [Discord](https://en.wikipedia.org/wiki/Discord_(software) "Discord (software)") and [Instagram](https://en.wikipedia.org/wiki/Instagram "Instagram"). The [Mastodon](https://en.wikipedia.org/wiki/Mastodon_(software) "Mastodon (software)") social network uses a modified version.
 
 Snowflake ID is a 64-bit unique identifier that consists of three parts: **timestamp, worker ID, and sequence number.** The timestamp is a 41-bit integer that represents the number of milliseconds since a certain epoch time.
 

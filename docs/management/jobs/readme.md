@@ -24,10 +24,10 @@ In early career, taking bets vs random job hopping is critical
 
 ### Vendors
 
-1. [HuntingCube Recruitment Solutions](https://www.linkedin.com/company/huntingcube/)
-2. [Careernet](https://www.linkedin.com/company/wearecareernet/)
-3. [Weekday (YC W21)](https://www.linkedin.com/company/weekdayworks/)
-4. [Zyoin Group](https://www.linkedin.com/company/zyoin/)
+1. [HuntingCube Recruitment Solutions](https://www.linkedin.com/company/huntingcube/)
+2. [Careernet](https://www.linkedin.com/company/wearecareernet/)
+3. [Weekday (YC W21)](https://www.linkedin.com/company/weekdayworks/)
+4. [Zyoin Group](https://www.linkedin.com/company/zyoin/)
 
 ## Platform
 

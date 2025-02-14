@@ -51,4 +51,4 @@ workspace     Workspace management
 
 #### Terraform refresh
 
-The `terraform refresh` command reads the current settings from all managed remote objects and updates the Terraform state to match.
+The `terraform refresh` command reads the current settings from all managed remote objects and updates the Terraform state to match.

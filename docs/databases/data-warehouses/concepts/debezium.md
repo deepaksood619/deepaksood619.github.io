@@ -4,7 +4,7 @@ Debezium is an open source distributed platform for change data capture. Start i
 
 ### [Message Filtering | Debezium Documentation](https://debezium.io/documentation/reference/stable/transformations/filtering.html)
 
-By default, Debezium delivers every data change event that it receives to the Kafka broker. However, in many cases, you might be interested in only a subset of the events emitted by the producer. To enable you to process only the records that are relevant to you, Debezium provides the _filter_ [single message transform](https://cwiki.apache.org/confluence/display/KAFKA/KIP-66%3A+Single+Message+Transforms+for+Kafka+Connect) (SMT).
+By default, Debezium delivers every data change event that it receives to the Kafka broker. However, in many cases, you might be interested in only a subset of the events emitted by the producer. To enable you to process only the records that are relevant to you, Debezium provides the _filter_ [single message transform](https://cwiki.apache.org/confluence/display/KAFKA/KIP-66%3A+Single+Message+Transforms+for+Kafka+Connect) (SMT).
 
 ### Debezium UI
 
@@ -26,18 +26,18 @@ docker run -it --rm --name debezium-ui -p 8080:8080 -e KAFKA_CONNECT_URIS=http:/
 - [Oracle](https://debezium.io/documentation/reference/stable/connectors/oracle.html)
 - [Db2](https://debezium.io/documentation/reference/stable/connectors/db2.html)
 - [Cassandra](https://debezium.io/documentation/reference/stable/connectors/cassandra.html)
-- [Vitess](https://debezium.io/documentation/reference/stable/connectors/vitess.html) (Incubating)
-- [Spanner](https://debezium.io/documentation/reference/stable/connectors/spanner.html) (Incubating)
-- [JDBC](https://debezium.io/documentation/reference/stable/connectors/jdbc.html) (Incubating)
-- [Informix](https://debezium.io/documentation/reference/stable/connectors/informix.html) (Incubating)
+- [Vitess](https://debezium.io/documentation/reference/stable/connectors/vitess.html) (Incubating)
+- [Spanner](https://debezium.io/documentation/reference/stable/connectors/spanner.html) (Incubating)
+- [JDBC](https://debezium.io/documentation/reference/stable/connectors/jdbc.html) (Incubating)
+- [Informix](https://debezium.io/documentation/reference/stable/connectors/informix.html) (Incubating)
 
 ### [MySQL](https://debezium.io/documentation/reference/stable/connectors/mysql.html)
 
 MySQL has a binary log (binlog) that records all operations in the order in which they are committed to the database. This includes changes to table schemas as well as changes to the data in tables. MySQL uses the binlog for replication and recovery.
 
-The Debezium MySQL connector reads the binlog, produces change events for row-level `INSERT`, `UPDATE`, and `DELETE` operations, and emits the change events to Kafka topics. Client applications read those Kafka topics.
+The Debezium MySQL connector reads the binlog, produces change events for row-level `INSERT`, `UPDATE`, and `DELETE` operations, and emits the change events to Kafka topics. Client applications read those Kafka topics.
 
-As MySQL is typically set up to purge binlogs after a specified period of time, the MySQL connector performs an initial _consistent snapshot_ of each of your databases. The MySQL connector reads the binlog from the point at which the snapshot was made.
+As MySQL is typically set up to purge binlogs after a specified period of time, the MySQL connector performs an initial _consistent snapshot_ of each of your databases. The MySQL connector reads the binlog from the point at which the snapshot was made.
 
 ## Links
 
@@ -47,7 +47,7 @@ As MySQL is typically set up to purge binlogs after a specified period of time, 
 - [Deploying Debezium on Kubernetes | Debezium Documentation](https://debezium.io/documentation/reference/stable/operations/kubernetes.html)
 - [Tutorial | Debezium Documentation](https://debezium.io/documentation/reference/stable/tutorial.html)
 - [Incremental Snapshots in Debezium](https://debezium.io/blog/2021/10/07/incremental-snapshots/)
-- [A Quick Start Guide to Change Data Capture with Debezium | Hashmap, an NTT DATA Company](https://medium.com/hashmapinc/a-quick-start-guide-to-change-data-capture-with-debezium-aa1a2d0a9296)
+- [A Quick Start Guide to Change Data Capture with Debezium | Hashmap, an NTT DATA Company](https://medium.com/hashmapinc/a-quick-start-guide-to-change-data-capture-with-debezium-aa1a2d0a9296)
 - [Streaming Data Changes from Your Database to Elasticsearch](https://debezium.io/blog/2018/01/17/streaming-to-elasticsearch/)
 - [Release Notes for Debezium 2.0](https://debezium.io/releases/2.0/release-notes)
 - [GitHub - bykvaadm/debezium-helm-chart](https://github.com/bykvaadm/debezium-helm-chart)

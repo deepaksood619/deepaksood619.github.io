@@ -30,7 +30,7 @@ ClickHouse is developed by a Russian company called Yandex. It is designed for m
 
 #### Compression
 
-[Dictionary Encoding](https://dbdb.io/browse?compression=dictionary-encoding) [Delta Encoding](https://dbdb.io/browse?compression=delta-encoding) [Naïve (Page-Level)](https://dbdb.io/browse?compression=naive-page-level)
+[Dictionary Encoding](https://dbdb.io/browse?compression=dictionary-encoding) [Delta Encoding](https://dbdb.io/browse?compression=delta-encoding) [Naïve (Page-Level)](https://dbdb.io/browse?compression=naive-page-level)
 
 In addition to general-purpose encoding with LZ4 (default) or Zstd, ClickHouse supports dictionary encoding via LowCardinality data type, as well as delta, double-delta and Gorilla encodings via column codecs.
 
@@ -72,7 +72,7 @@ ClickHouse replicates its data on multiple nodes and monitors data synchronicity
 
 #### Parallel Execution
 
-[Intra-Operator (Horizontal)](https://dbdb.io/browse?parallel-execution=intra-operator) [Inter-Operator (Vertical)](https://dbdb.io/browse?parallel-execution=inter-operator)
+[Intra-Operator (Horizontal)](https://dbdb.io/browse?parallel-execution=intra-operator) [Inter-Operator (Vertical)](https://dbdb.io/browse?parallel-execution=inter-operator)
 
 ClickHouse utilizes half cores for single-node queries and one replica of each shard for distributed queries by default. It could be tuned to utilize only one core, all cores of the whole cluster or anything in between.
 
@@ -88,15 +88,15 @@ ClickHouse supports runtime code generation. The code is generated for every kin
 
 #### Query Interface
 
-[Custom API](https://dbdb.io/browse?query-interface=custom-api) [SQL](https://dbdb.io/browse?query-interface=sql) [HTTP / REST](https://dbdb.io/browse?query-interface=http-rest) [Command-line / Shell](https://dbdb.io/browse?query-interface=command-line-shell)
+[Custom API](https://dbdb.io/browse?query-interface=custom-api) [SQL](https://dbdb.io/browse?query-interface=sql) [HTTP / REST](https://dbdb.io/browse?query-interface=http-rest) [Command-line / Shell](https://dbdb.io/browse?query-interface=command-line-shell)
 
 ClickHouses provides two types of parsers: a full SQL parser and a data format parser. It uses SQL parser for all types of queries and the data format parser only for INSERT queries. Beyond the query language, it provides multiple user interfaces, including HTTP interface, JDBC driver, TCP interface, command-line client, etc.
 
 #### Storage Architecture
 
-[Disk-oriented](https://dbdb.io/browse?storage-architecture=disk-oriented) [In-Memory](https://dbdb.io/browse?storage-architecture=in-memory) [Hybrid](https://dbdb.io/browse?storage-architecture=hybrid)
+[Disk-oriented](https://dbdb.io/browse?storage-architecture=disk-oriented) [In-Memory](https://dbdb.io/browse?storage-architecture=in-memory) [Hybrid](https://dbdb.io/browse?storage-architecture=hybrid)
 
-ClickHouse has multiple types of table engines. The type of the table engine determines where the data is stored, concurrent level, whether indexes are supported and some other properties. Key table engine family for production use is a [MergeTree](https://clickhouse.tech/docs/en/engines/table_engines/mergetree_family/mergetree/) that allows for resilient storage of large volumes of data and supports replication. There's also a [Log family](https://clickhouse.tech/docs/en/engines/table_engines/log_family/log_family/) for lightweight storage of temporary data and [Distributed engine](https://clickhouse.tech/docs/en/engines/table_engines/special/distributed/) for querying a cluster.
+ClickHouse has multiple types of table engines. The type of the table engine determines where the data is stored, concurrent level, whether indexes are supported and some other properties. Key table engine family for production use is a [MergeTree](https://clickhouse.tech/docs/en/engines/table_engines/mergetree_family/mergetree/) that allows for resilient storage of large volumes of data and supports replication. There's also a [Log family](https://clickhouse.tech/docs/en/engines/table_engines/log_family/log_family/) for lightweight storage of temporary data and [Distributed engine](https://clickhouse.tech/docs/en/engines/table_engines/special/distributed/) for querying a cluster.
 
 #### Storage Model
 
@@ -106,7 +106,7 @@ ClickHouse is a column-oriented DBMS and it stores data by columns.
 
 #### Storage Organization
 
-[Indexed Sequential Access Method (ISAM)](https://dbdb.io/browse?storage-organization=indexed-sequential-access-method-isam) [Sorted Files](https://dbdb.io/browse?storage-organization=sorted-files)
+[Indexed Sequential Access Method (ISAM)](https://dbdb.io/browse?storage-organization=indexed-sequential-access-method-isam) [Sorted Files](https://dbdb.io/browse?storage-organization=sorted-files)
 
 #### Stored Procedures
 
@@ -122,7 +122,7 @@ ClickHouse system in a distributed setup is a cluster of shards. It uses asynchr
 
 #### Views
 
-[Virtual Views](https://dbdb.io/browse?views=virtual-views) [Materialized Views](https://dbdb.io/browse?views=materialized-views)
+[Virtual Views](https://dbdb.io/browse?views=virtual-views) [Materialized Views](https://dbdb.io/browse?views=materialized-views)
 
 ClickHouse supports both virtual views and materialized views. The materialized views store data transformed by corresponding SELECT query. The SELECT query can contain DISTINCT, GROUP BY, ORDER BY, LIMIT, etc.
 

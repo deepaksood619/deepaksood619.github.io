@@ -239,11 +239,11 @@ https://vlang.io
 
 ## .net
 
-.NET is a free, open-source, managed computer software framework for Windows, Linux, and macOS operating systems. ASP.NET is a server-side web-application framework designed for web development to produce dynamic web pages. .NET Core is a new version of .NET Framework.
+.NET is a free, open-source, managed computer software framework for Windows, Linux, and macOS operating systems. ASP.NET is a server-side web-application framework designed for web development to produce dynamic web pages. .NET Core is a new version of .NET Framework.
 
-.NET Framework is a software development framework for building and running applications on Windows. It's the original implementation of the .NET platform, which is a collection of technologies for building apps for many operating systems. .NET Framework is a managed execution environment that allows developers to create applications in one programming language that can work with code written in other languages.
+.NET Framework is a software development framework for building and running applications on Windows. It's the original implementation of the .NET platform, which is a collection of technologies for building apps for many operating systems. .NET Framework is a managed execution environment that allows developers to create applications in one programming language that can work with code written in other languages.
 
-.NET Core is the latest version of .NET Framework. It's a free, open-source, cross-platform platform for developing cloud-based applications. .NET Core is faster than .NET Framework because it has a recompilation feature that automatically optimizes compiled code without making any changes.
+.NET Core is the latest version of .NET Framework. It's a free, open-source, cross-platform platform for developing cloud-based applications. .NET Core is faster than .NET Framework because it has a recompilation feature that automatically optimizes compiled code without making any changes.
 
 [ASP.NET Core Tutorial – Beginner to Advanced Projects - YouTube](https://www.youtube.com/watch?v=6SAFgcMie4U&ab_channel=freeCodeCamp.org)
 

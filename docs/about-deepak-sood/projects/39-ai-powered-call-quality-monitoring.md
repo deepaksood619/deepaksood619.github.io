@@ -123,15 +123,15 @@ Companies often record customer service calls for quality assurance, which invol
 
 ### Benefits
 
-- **Agent training:** Transcripts can be used to identify areas where agents need improvement in communication skills or product knowledge.
-- **Customer experience evaluation:** Analyzing transcripts allows companies to assess customer satisfaction and identify potential issues.
-- **Compliance checks:** In industries with strict regulations, call transcripts can be used to verify compliance with legal requirements.
+- **Agent training:** Transcripts can be used to identify areas where agents need improvement in communication skills or product knowledge.
+- **Customer experience evaluation:** Analyzing transcripts allows companies to assess customer satisfaction and identify potential issues.
+- **Compliance checks:** In industries with strict regulations, call transcripts can be used to verify compliance with legal requirements.
 
 ### Quality assurance process
 
-- **Sampling:** A representative sample of calls is selected for transcription.
-- **Transcription:** The audio is converted into written text, ensuring accuracy and capturing key details like pauses and tone of voice.
-- **Review and evaluation:** Quality assurance specialists review the transcripts against established criteria, assessing aspects like agent greetings, problem-solving techniques, and overall professionalism.
+- **Sampling:** A representative sample of calls is selected for transcription.
+- **Transcription:** The audio is converted into written text, ensuring accuracy and capturing key details like pauses and tone of voice.
+- **Review and evaluation:** Quality assurance specialists review the transcripts against established criteria, assessing aspects like agent greetings, problem-solving techniques, and overall professionalism.
 
 ## Tools
 

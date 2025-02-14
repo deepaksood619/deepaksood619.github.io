@@ -4,12 +4,12 @@ Recommendation: Move from Logical to Physical Storage
 
 ## Physical vs Logical Storage
 
-In BigQuery, =="logical storage" refers to the uncompressed size of your data, including any data retained for time travel and fail-safe storage, while "physical storage" represents the actual compressed size of the data stored on disk==, meaning it's the amount of space the data physically occupies on Google's servers; essentially, logical storage is the "apparent" size of your data, while physical storage is the "real" size after compression, with logical storage usually being cheaper per gigabyte than physical storage.
+In BigQuery, =="logical storage" refers to the uncompressed size of your data, including any data retained for time travel and fail-safe storage, while "physical storage" represents the actual compressed size of the data stored on disk==, meaning it's the amount of space the data physically occupies on Google's servers; essentially, logical storage is the "apparent" size of your data, while physical storage is the "real" size after compression, with logical storage usually being cheaper per gigabyte than physical storage.
 
 ### Key differences
 
 - **Size Calculation:** Logical storage is the uncompressed data size, whereas physical storage reflects the compressed size after data optimization.
-- **Billing:** By default, BigQuery charges based on logical storage, which means you are not billed for the compression savings. However, you can choose to switch to physical storage billing if you want to pay based on the actual disk space used.
+- **Billing:** By default, BigQuery charges based on logical storage, which means you are not billed for the compression savings. However, you can choose to switch to physical storage billing if you want to pay based on the actual disk space used.
 - **Time Travel and Fail-Safe Storage:** When using logical storage, time travel and fail-safe storage are included in the price, but when using physical storage, these features are billed separately at the "active storage" rate.
 
 ### When to use which
@@ -290,7 +290,7 @@ Auto Deleting Tables that are not frequently used in a project with table Prefix
 Why?
 
 - This script would be useful in environments where there are many temporary or ephemeral tables that are not needed after a certain period.
--  It helps in managing and cleaning up the dataset by removing old or unused tables, potentially reducing costs and improving manageability.
+-  It helps in managing and cleaning up the dataset by removing old or unused tables, potentially reducing costs and improving manageability.
 
 ```python
 from google.cloud import bigquery
@@ -340,8 +340,8 @@ WHERE
 # Execute the query and drop the matching tables
 query_job = client.query(query)
 for row in query_job:
-    table_id = row['table_id']
-    client.query(f"DROP TABLE IF EXISTS `{dataset_id}.{table_id}`").result()
+    table_id = row['table_id']
+    client.query(f"DROP TABLE IF EXISTS `{dataset_id}.{table_id}`").result()
 ```
 
 ![image](../../../media/Screenshot%202025-01-27%20at%209.10.02%20PM.jpg)

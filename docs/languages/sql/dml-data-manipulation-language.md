@@ -202,9 +202,9 @@ https://www.sitepoint.com/using-explain-to-write-better-mysql-queries
 
 ### Explain Analyze
 
-In MySQL 8.0.18, `EXPLAIN ANALYZE` was introduced, a new concept built on top of the regular `EXPLAIN` query plan inspection tool. In addition to the query plan and estimated costs, which a normal `EXPLAIN` will print, `EXPLAIN ANALYZE` also prints the _actual_ costs of individual iterators in the execution plan.
+In MySQL 8.0.18, `EXPLAIN ANALYZE` was introduced, a new concept built on top of the regular `EXPLAIN` query plan inspection tool. In addition to the query plan and estimated costs, which a normal `EXPLAIN` will print, `EXPLAIN ANALYZE` also prints the _actual_ costs of individual iterators in the execution plan.
 
-**Warning** - `EXPLAIN ANALYZE` actually runs the query, so if you don’t want to run the query against your live database, do not use `EXPLAIN ANALYZE`.
+**Warning** - `EXPLAIN ANALYZE` actually runs the query, so if you don’t want to run the query against your live database, do not use `EXPLAIN ANALYZE`.
 
 [How to read MySQL EXPLAINs](https://planetscale.com/blog/how-read-mysql-explains)
 

@@ -173,14 +173,14 @@ https://github.com/grafana/grafana
 
 ## LGTM Stack
 
-The LGTM stack is ==a set of open-source tools that help monitor, visualize, and troubleshoot applications and infrastructure==. It's developed by Grafana Labs and stands for Loki, Grafana, Tempo, and Mimir.
+The LGTM stack is ==a set of open-source tools that help monitor, visualize, and troubleshoot applications and infrastructure==. It's developed by Grafana Labs and stands for Loki, Grafana, Tempo, and Mimir.
 
 ### Components
 
-- **Loki**: A log aggregation system that stores and queries logs from multiple sources
-- **Grafana**: An open-source platform for monitoring and observability that allows users to query, visualize, and alert on metrics, logs, and traces
-- **Tempo**: A distributed tracing backend that stores and queries traces
-- **Mimir**: A tool for long-term metric storage and advanced analytics
+- **Loki**: A log aggregation system that stores and queries logs from multiple sources
+- **Grafana**: An open-source platform for monitoring and observability that allows users to query, visualize, and alert on metrics, logs, and traces
+- **Tempo**: A distributed tracing backend that stores and queries traces
+- **Mimir**: A tool for long-term metric storage and advanced analytics
 
 ### Benefits
 

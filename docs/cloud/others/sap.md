@@ -31,7 +31,7 @@ What is SAP, can be described as an enterprise resource planning software. SAP i
 
 ## SAP FICO (SAP Finance and SAP Controlling)
 
-**SAP FICO** is a module of SAP ERP which is used for financial reporting both externally and internally. The objective is to record all financial transactions that are posted by an entity and produce financial statements that are accurate at the end of the trading period. The SAP FICO full form is FI (Financial Accounting) and CO (Controlling).
+**SAP FICO** is a module of SAP ERP which is used for financial reporting both externally and internally. The objective is to record all financial transactions that are posted by an entity and produce financial statements that are accurate at the end of the trading period. The SAP FICO full form is FI (Financial Accounting) and CO (Controlling).
 
 This SAP FICO basics tutorial is going to explain SAP FICO overview and the major functionalities of the SAP FICO module.
 

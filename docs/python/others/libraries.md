@@ -204,7 +204,7 @@ https://palletsprojects.com/p/jinja
 
 ## Tenacity
 
-Tenacity is an Apache 2.0 licensed general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything. It originates from [a fork of retrying](https://github.com/rholder/retrying/issues/65) which is sadly no longer [maintained](https://julien.danjou.info/python-tenacity/). Tenacity isn’t api compatible with retrying but adds significant new functionality and fixes a number of longstanding bugs.
+Tenacity is an Apache 2.0 licensed general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything. It originates from [a fork of retrying](https://github.com/rholder/retrying/issues/65) which is sadly no longer [maintained](https://julien.danjou.info/python-tenacity/). Tenacity isn’t api compatible with retrying but adds significant new functionality and fixes a number of longstanding bugs.
 
 - [Tenacity — Tenacity documentation](https://tenacity.readthedocs.io/en/latest/)
 - [GitHub - jd/tenacity: Retrying library for Python](https://github.com/jd/tenacity)
@@ -213,8 +213,8 @@ Tenacity is an Apache 2.0 licensed general-purpose retrying library, written in 
 
 ## Serializers
 
-- [ujson](https://github.com/ultrajson/ultrajson) (UltraJSON) is an ultra fast JSON encoder and decoder written in pure C with bindings for Python 3.7+.
-- [orjson](https://github.com/ijl/orjson) is a fast, correct JSON library for Python. It is the fastest python library for json encoding & decoding. It serializes dataclass, datetime, numpy, and UUID instances natively.
+- [ujson](https://github.com/ultrajson/ultrajson) (UltraJSON) is an ultra fast JSON encoder and decoder written in pure C with bindings for Python 3.7+.
+- [orjson](https://github.com/ijl/orjson) is a fast, correct JSON library for Python. It is the fastest python library for json encoding & decoding. It serializes dataclass, datetime, numpy, and UUID instances natively.
 
 ### Benchmarking
 
@@ -224,12 +224,12 @@ Tenacity is an Apache 2.0 licensed general-purpose retrying library, written in 
 # orjson 2.3136467933654785
 ```
 
-- [ujson](https://github.com/ultrajson/ultrajson) is 3 times faster than the standard json library
-- [orjson](https://github.com/ijl/orjson) is over 6 times faster than the standard json library
+- [ujson](https://github.com/ultrajson/ultrajson) is 3 times faster than the standard json library
+- [orjson](https://github.com/ijl/orjson) is over 6 times faster than the standard json library
 
 #### Conclusion
 
-For most cases, you would want to go with python’s standard json library which removes dependencies on other libraries. On other hand you could try out [ujson](https://github.com/ultrajson/ultrajson) which is simple replacement for python’s json library. If you want more speed and also want dataclass, datetime, numpy, and UUID instances and you are ready to deal with more complex code, then you can try your hands on [orjson](https://github.com/ijl/orjson)
+For most cases, you would want to go with python’s standard json library which removes dependencies on other libraries. On other hand you could try out [ujson](https://github.com/ultrajson/ultrajson) which is simple replacement for python’s json library. If you want more speed and also want dataclass, datetime, numpy, and UUID instances and you are ready to deal with more complex code, then you can try your hands on [orjson](https://github.com/ijl/orjson)
 
 [Benchmarking Python JSON serializers - json vs ujson vs orjson - Dollar Dhingra’s Blog](https://dollardhingra.com/blog/python-json-benchmarking/)
 

@@ -132,65 +132,65 @@ https://www.freecodecamp.org/news/glassmorphism-design-effect-with-html-css
 
 ### Creative Design Tools
 
-1. **Adobe Photoshop** - Industry-standard for photo editing, graphic design, and digital art.
+1. **Adobe Photoshop** - Industry-standard for photo editing, graphic design, and digital art.
 	1. Photopea - free photoshop alternative
-2. **Adobe Illustrator** - Vector-based design software for creating logos, icons, and illustrations.
-3. **Adobe InDesign** - Layout design tool for creating print and digital publications like magazines and eBooks.
-4. **Adobe XD** - UX/UI design tool for prototyping and designing user experiences for apps and websites.
-5. **Adobe Fresco** - Digital painting and drawing app with realistic brushes for artists.
+2. **Adobe Illustrator** - Vector-based design software for creating logos, icons, and illustrations.
+3. **Adobe InDesign** - Layout design tool for creating print and digital publications like magazines and eBooks.
+4. **Adobe XD** - UX/UI design tool for prototyping and designing user experiences for apps and websites.
+5. **Adobe Fresco** - Digital painting and drawing app with realistic brushes for artists.
 
 ### Video & Animation Tools
 
-6. **Adobe Premiere Pro** - Professional video editing software for films, TV, and web content.
-7. **Adobe After Effects** - Motion graphics and visual effects software for animation and compositing.
-8. **Adobe Animate** - Tool for creating interactive animations for games, apps, and web content.
-9. **Adobe Character Animator** - Brings 2D characters to life in real-time using your facial expressions.
+6. **Adobe Premiere Pro** - Professional video editing software for films, TV, and web content.
+7. **Adobe After Effects** - Motion graphics and visual effects software for animation and compositing.
+8. **Adobe Animate** - Tool for creating interactive animations for games, apps, and web content.
+9. **Adobe Character Animator** - Brings 2D characters to life in real-time using your facial expressions.
 
 ### Audio Tools
 
-10. **Adobe Audition** - Professional audio editing software for sound mixing, podcasts, and audio restoration.
+10. **Adobe Audition** - Professional audio editing software for sound mixing, podcasts, and audio restoration.
 
 ### Photography Tools
 
-11. **Adobe Lightroom** - Photo editing and organizing tool for photographers, with powerful presets and cloud integration.
+11. **Adobe Lightroom** - Photo editing and organizing tool for photographers, with powerful presets and cloud integration.
 
 ### Web Tools
 
-12. **Adobe Dreamweaver** - Web design and development tool for creating responsive websites.
-13. **Adobe Muse (Discontinued)** - Web design tool focused on designers without coding skills (no longer supported).
+12. **Adobe Dreamweaver** - Web design and development tool for creating responsive websites.
+13. **Adobe Muse (Discontinued)** - Web design tool focused on designers without coding skills (no longer supported).
 
 ### PDF and Document Management
 
-14. **Adobe Acrobat DC** - PDF creation, editing, signing, and sharing software.
-15. **Adobe Scan** - Mobile app for scanning documents and converting them into PDFs.
+14. **Adobe Acrobat DC** - PDF creation, editing, signing, and sharing software.
+15. **Adobe Scan** - Mobile app for scanning documents and converting them into PDFs.
 
 ### 3D and AR Tools
 
-16. **Adobe Dimension (Now Adobe Substance 3D)** - For creating 3D models and scenes with photorealistic effects.
-17. **Adobe Aero** - Augmented reality (AR) tool for creating immersive AR experiences.
+16. **Adobe Dimension (Now Adobe Substance 3D)** - For creating 3D models and scenes with photorealistic effects.
+17. **Adobe Aero** - Augmented reality (AR) tool for creating immersive AR experiences.
 
 ### Marketing & Collaboration
 
-18. **Adobe Spark (Now Adobe Express)** - Quick and simple graphic design tool for social media posts, flyers, and web pages.
-19. **Adobe Creative Cloud Express** - Simplified design platform for creating content across various media.
-20. **Adobe Experience Manager (AEM)** - Enterprise-level content management system for websites and marketing campaigns.
-21. **Adobe Campaign** - Tool for managing personalized cross-channel marketing campaigns.
-22. **Adobe Stock** - Library of stock photos, videos, and assets integrated with Creative Cloud tools.
-23. **Adobe Workfront** - Project management tool for marketing and creative teams.
+18. **Adobe Spark (Now Adobe Express)** - Quick and simple graphic design tool for social media posts, flyers, and web pages.
+19. **Adobe Creative Cloud Express** - Simplified design platform for creating content across various media.
+20. **Adobe Experience Manager (AEM)** - Enterprise-level content management system for websites and marketing campaigns.
+21. **Adobe Campaign** - Tool for managing personalized cross-channel marketing campaigns.
+22. **Adobe Stock** - Library of stock photos, videos, and assets integrated with Creative Cloud tools.
+23. **Adobe Workfront** - Project management tool for marketing and creative teams.
 
 ### Others
 
-24. **Adobe Substance 3D Collection** - Tools for 3D texturing, modeling, and rendering (includes Painter, Designer, and Stager).
-25. **Adobe Bridge** - Asset management tool for organizing and previewing creative assets.
-26. **Adobe Fonts** - Vast library of fonts available for Creative Cloud users.
-27. **Adobe Captivate** - eLearning authoring tool for creating training modules and interactive content.
+24. **Adobe Substance 3D Collection** - Tools for 3D texturing, modeling, and rendering (includes Painter, Designer, and Stager).
+25. **Adobe Bridge** - Asset management tool for organizing and previewing creative assets.
+26. **Adobe Fonts** - Vast library of fonts available for Creative Cloud users.
+27. **Adobe Captivate** - eLearning authoring tool for creating training modules and interactive content.
 
 ### Alternatives
 
 - [Clipping Fly - Professional Clipping Path & Photo Editing Service](https://clippingfly.com/)
-- **Affinity Designer:** A good alternative with decent compatibility.
-- **CorelDRAW:** Another popular vector editor that can handle AI files.
-- **Figma and Sketch:** Primarily design tools, but they offer some AI compatibility.
+- **Affinity Designer:** A good alternative with decent compatibility.
+- **CorelDRAW:** Another popular vector editor that can handle AI files.
+- **Figma and Sketch:** Primarily design tools, but they offer some AI compatibility.
 
 ## Accessibility
 

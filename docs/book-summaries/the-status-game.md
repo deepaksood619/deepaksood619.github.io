@@ -10,7 +10,7 @@ On human life and how to play it
 - Collective games
 - Individual games
 
-The Status Game is another great read from Will Storr, you could say this is the sequel to this book [Selfie](https://wisewords.blog/book-summaries/selfie-book-summary-will-storr/). As you can guess from the title, this book explores the role status plays in human life. I was particularly shocked when he analysed the creation of Nazi Germany as a Status Game which goes to show the power some of these games can have. It’s also interesting to consider the role humiliation plays in human violence because of it’s link to status.
+The Status Game is another great read from Will Storr, you could say this is the sequel to this book [Selfie](https://wisewords.blog/book-summaries/selfie-book-summary-will-storr/). As you can guess from the title, this book explores the role status plays in human life. I was particularly shocked when he analysed the creation of Nazi Germany as a Status Game which goes to show the power some of these games can have. It’s also interesting to consider the role humiliation plays in human violence because of it’s link to status.
 
 ### Perception as a reward space
 
@@ -82,7 +82,7 @@ We didn’t like the rules of the world, so we created our own. It was a utopia.
 
 ## The Nazi Status Game
 
-For most Germans, the Nazi game became the only one that could offer significant status.  As the goldrush grows, the game attracts new players, drawn to its increasingly splendid rewards; as it becomes more powerful, more and greater status is made available; it becomes larger and more powerful still.
+For most Germans, the Nazi game became the only one that could offer significant status.  As the goldrush grows, the game attracts new players, drawn to its increasingly splendid rewards; as it becomes more powerful, more and greater status is made available; it becomes larger and more powerful still.
 
 There’s a critical warning in all this: tyrants often start by telling you what you already believe. When they arrive, they weave an irresistible self-serving dream, promising that you deserve more status, just as you’d always suspected, and pointing accusingly at those you’d already figured to be your enemies, big business, Communists, Jews. They make accusation and gossip; you become angry, enthusiastic and morally outraged. You begin to play. Once they’ve got you, they tighten up.
 

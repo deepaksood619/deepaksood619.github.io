@@ -162,12 +162,12 @@ This enables employees to wait for liquidity events without incurring upfront ta
 
 ## Warrant
 
-A warrant in finance is a contract that gives the holder the right to buy or sell a company's stock at a specific price within a set time frame. Warrants are used in both debt and equity financing, and can be a high-return investment tool.
+A warrant in finance is a contract that gives the holder the right to buy or sell a company's stock at a specific price within a set time frame. Warrants are used in both debt and equity financing, and can be a high-return investment tool.
 
 Here are some things to know about warrants:
 
-- **Holder's rights -** Warrants give the holder the right to buy or sell shares, but they are not obligated to do so. If the holder chooses not to exercise the warrant, it will automatically lapse.
-- **Expiration date -** Warrants have an expiration date after which they are no longer valid. Warrants typically have long expiration dates, sometimes lasting five, ten, or more years.
+- **Holder's rights -** Warrants give the holder the right to buy or sell shares, but they are not obligated to do so. If the holder chooses not to exercise the warrant, it will automatically lapse.
+- **Expiration date -** Warrants have an expiration date after which they are no longer valid. Warrants typically have long expiration dates, sometimes lasting five, ten, or more years.
 - **Strike price -** Warrants have a strike price, which is the price per share at which the holder can buy or sell the stock.
 - **Issuance -** Companies often issue warrants as part of share offerings to attract investors.
 - **Dilutive effect -** When warrants are exercised, the company issues new shares, which can dilute the ownership concentration of existing shareholders.

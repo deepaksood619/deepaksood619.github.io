@@ -135,7 +135,7 @@ There are other standards such as:
 
 For these unique standards, they can only be recovered on wallets that support that standard. If your wallet does not "understand" how your seed phrase created, it will not understand how to recover it either.
 
-Using an extended public key, you can generate billions of fresh receiving addresses ( 4,294,967,296 to be exact). This maintains your privacy, security and sanity (as there's only ever going to be one private key that can access the funds connected to those addresses.)
+Using an extended public key, you can generate billions of fresh receiving addresses ( 4,294,967,296 to be exact). This maintains your privacy, security and sanity (as there's only ever going to be one private key that can access the funds connected to those addresses.)
 
 ## Extended Keys
 

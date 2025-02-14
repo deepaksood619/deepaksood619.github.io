@@ -18,7 +18,7 @@ Snowflake supports MVCC. As Snowflake's underlying data storage is done by Amazo
 
 #### Data Model
 
-[Relational](https://dbdb.io/browse?data-model=relational) [Document / XML](https://dbdb.io/browse?data-model=document-xml)
+[Relational](https://dbdb.io/browse?data-model=relational) [Document / XML](https://dbdb.io/browse?data-model=document-xml)
 
 Snowflake is relational as it supports ANSI SQL and ACID transactions. It offers built-in functions and SQL extensions for traversing, flattening, and nesting of semi-structured data, with support for popular formats such as JSON and Avro. When storing semi-structured data, Snowflake can perform automatic type inference to find the most common types and store them using the same compressed columnar format as native relational data. Thus it can accelerate query execution on them.
 

@@ -16,7 +16,7 @@ https://blog.hubspot.com/marketing/search-engine-marketing
 
 https://www.wordstream.com/serp
 
-[Review Snippet (Review, AggregateRating) Structured Data | Google Search Central  |  Documentation  |  Google for Developers](https://developers.google.com/search/docs/appearance/structured-data/review-snippet)
+[Review Snippet (Review, AggregateRating) Structured Data | Google Search Central  |  Documentation  |  Google for Developers](https://developers.google.com/search/docs/appearance/structured-data/review-snippet)
 
 ```html
 <script
@@ -50,7 +50,7 @@ https://www.wordstream.com/serp
 
 Rich results are experiences on Google surfaces, such as Search, that go beyond the standard blue link. Rich results can include carousels, images or other non-textual elements.
 
-[Mark Up FAQs with Structured Data | Google Search Central  |  Documentation  |  Google for Developers](https://developers.google.com/search/docs/appearance/structured-data/faqpage)
+[Mark Up FAQs with Structured Data | Google Search Central  |  Documentation  |  Google for Developers](https://developers.google.com/search/docs/appearance/structured-data/faqpage)
 
 - A Frequently Asked Question (FAQ) page contains a list of questions and answers pertaining to a particular topic. Properly marked up FAQ pages may be eligible to have a rich result on Search and an Action on the Google Assistant, which can help your site reach the right users.
 
@@ -146,7 +146,7 @@ AMP is a web component framework that you can use to easily create user-first we
 
 ### Links
 
-- [AMP on Google  |  Google for Developers](https://developers.google.com/amp)
+- [AMP on Google  |  Google for Developers](https://developers.google.com/amp)
 - [Accelerated Mobile Pages – Index](https://wilsonmar.github.io/accelerated-mobile-pages/)
 - [AMP Websites Examples - amp.dev](https://amp.dev/documentation/examples/)
 - [Intro to AMP (Accelerated Mobile Pages) - YouTube](https://www.youtube.com/watch?v=lBTCB7yLs8Y)

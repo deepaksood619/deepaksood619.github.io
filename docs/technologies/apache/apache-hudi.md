@@ -173,5 +173,5 @@ In summary:
 - [Apache Hudi: A Deep Dive with Python Code Examples](https://blog.harshdaiya.com/apache-hudi-a-deep-dive-with-python-code-examples)
 - [Apache Hudi vs. Delta Lake: Choosing the Right Tool for Your Data Lake on AWS | by Siladitya Ghosh | Medium](https://medium.com/@siladityaghosh/apache-hudi-vs-delta-lake-choosing-the-right-tool-for-your-data-lake-on-aws-8b97c66a5a12)
 - [Exploring Time Travel Queries in Apache Hudi - DEVOPS DONE RIGHT..](https://opstree.com/blog/2024/10/22/time-travel-queries-in-apache-hudi/)
-- [Understanding COW and MOR in Apache Hudi: Choosing the Right Storage Strategy  - DEVOPS DONE RIGHT..](https://opstree.com/blog/2024/11/12/understanding-cow-and-mor-in-apache-hudi-choosing-the-right-storage-strategy/)
+- [Understanding COW and MOR in Apache Hudi: Choosing the Right Storage Strategy  - DEVOPS DONE RIGHT..](https://opstree.com/blog/2024/11/12/understanding-cow-and-mor-in-apache-hudi-choosing-the-right-storage-strategy/)
 - [Apache Hudi vs Delta Lake vs Apache Iceberg - Data Lakehouse Feature Comparison](https://www.onehouse.ai/blog/apache-hudi-vs-delta-lake-vs-apache-iceberg-lakehouse-feature-comparison)

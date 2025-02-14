@@ -115,14 +115,6 @@
 - [Home - teachafy](https://assistant.teachafy.com/)
 	- [Teachafy Labs](https://teachafy.com/)
 
-## AI Agents / LLM Agents
-
-- [agent.ai \| The Professional Network for AI Agents](https://agent.ai/agents)
-- [AI Agents Directory - Find and Compare AI Assistants \| AI Agents List](https://aiagentslist.com/)
-- [AI Agents Marketplace \| AI Agents Directory - Discover Best AI Agents](https://aiagentsdirectory.com/)
-
-![AI Agents Landscape](../../media/Pasted%20image%2020250114143214.jpg)
-
 ## Purpose-built accelerators for generative AI
 
 - AWS Inferentia - Lowest cost per inference in the cloud for running deep learning (DL) models
@@ -136,6 +128,7 @@
 ## Links
 
 - [code-generators](ai/llm/code-generators.md)
+- [llm-agents](ai/llm/llm-agents.md)
 - [Libraries](ai/llm/libraries.md)
 
 ![ai-tools](../../media/image.jpg)

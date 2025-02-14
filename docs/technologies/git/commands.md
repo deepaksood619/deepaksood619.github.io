@@ -427,7 +427,7 @@ https://passingcuriosity.com/2017/truncating-git-history
 
 ### Rewrite history of entire branch (git-filter-branch) (Old - Deprecated)
 
-IMP - _git filter-branch_ has a plethora of pitfalls that can produce non-obvious manglings of the intended history rewrite (and can leave you with little time to investigate such problems since it has such abysmal performance). These safety and performance issues cannot be backward compatibly fixed and as such, its use is not recommended. Please use an alternative history filtering tool such as [git filter-repo](https://github.com/newren/git-filter-repo/).
+IMP - _git filter-branch_ has a plethora of pitfalls that can produce non-obvious manglings of the intended history rewrite (and can leave you with little time to investigate such problems since it has such abysmal performance). These safety and performance issues cannot be backward compatibly fixed and as such, its use is not recommended. Please use an alternative history filtering tool such as [git filter-repo](https://github.com/newren/git-filter-repo/).
 
 One common use case for this is removing sensitive data (e.g. login credentials for production systems) that were committed to a public repository.
 

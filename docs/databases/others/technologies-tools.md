@@ -18,7 +18,7 @@ https://dev.to/realtrevorfaux/8-new-sql-tools-that-will-change-how-you-work-in-2
 	- select * from sys.x$statements_with_full_table_scans;
 	- select * from sys.`x$statements_with_runtimes_in_95th_percentile`;
 	- [Preventing SQL statements from getting truncated by MySQL's Workbench in \`Performance Reports\` section - Stack Overflow](https://stackoverflow.com/questions/28778857/preventing-sql-statements-from-getting-truncated-by-mysqls-workbench-in-perfor)
-	- Set `Edit>Preferences>SQL Execution` and set `Max. Field Value Length to Display` = 1024
+	- Set `Edit>Preferences>SQL Execution` and set `Max. Field Value Length to Display` = 1024
 	- show variables like '%performance_schema_max_digest_length%';
 	-
 

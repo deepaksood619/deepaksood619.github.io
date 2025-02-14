@@ -28,9 +28,9 @@ YouTube - [The Firebase developer's guide to Google Analytics](https://www.youtu
 
 **Analytics different meanings**
 
-- An **event** measures a specific behavioural interaction on your website or app.
-- A **key event** is an event that you mark as important to your business. Key events appear in Analytics reports but aren’t directly eligible for reporting or bidding in Google Ads.
-- A **conversion** created from an Analytics key event is eligible for reporting and bidding in Google Ads and also appears in Analytics advertising reports.
+- An **event** measures a specific behavioural interaction on your website or app.
+- A **key event** is an event that you mark as important to your business. Key events appear in Analytics reports but aren’t directly eligible for reporting or bidding in Google Ads.
+- A **conversion** created from an Analytics key event is eligible for reporting and bidding in Google Ads and also appears in Analytics advertising reports.
 
 ## Firebase Analytics
 
@@ -186,7 +186,7 @@ https://www.freecodecamp.org/news/how-to-use-google-tag-manager-to-maintain-goog
 - [GTM Guide: dataLayer.push with examples - Analytics Mania](https://www.analyticsmania.com/post/datalayer-push/)
 - [End-to-end guide on data layer in Google Tag Manager by Stape](https://stape.io/blog/end-to-end-guide-on-data-layer-in-google-tag-manager)
 - [Google Tag Manager Data Layer Explained (2024) - Analytics Mania](https://www.analyticsmania.com/post/what-is-data-layer-in-google-tag-manager/)
-- [The data layer  |  Tag Manager  |  Google for Developers](https://developers.google.com/tag-platform/tag-manager/datalayer)
+- [The data layer  |  Tag Manager  |  Google for Developers](https://developers.google.com/tag-platform/tag-manager/datalayer)
 
 ### References
 

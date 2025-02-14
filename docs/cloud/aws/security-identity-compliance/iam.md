@@ -237,9 +237,9 @@ https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers.html
 - PIM - Privileged Identity Management
 - PAM - Privileged Access Management
 
-Almost every organization uses [identity and access management (IAM)](https://www.strongdm.com/iam) strategies or tools as part of its security practices. IAM is the overarching term to describe how companies manage user identities, authenticate users, and control access to company resources. Privileged identity management (PIM) and privileged access management (PAM) are [subsets of IAM](https://www.strongdm.com/blog/iam-vs-pam-difference).
+Almost every organization uses [identity and access management (IAM)](https://www.strongdm.com/iam) strategies or tools as part of its security practices. IAM is the overarching term to describe how companies manage user identities, authenticate users, and control access to company resources. Privileged identity management (PIM) and privileged access management (PAM) are [subsets of IAM](https://www.strongdm.com/blog/iam-vs-pam-difference).
 
-PIM and PAM address how companies manage who can access a company’s most critical resources, like servers, databases, applications, and Kubernetes clusters. They operate under the [principle of least privilege](https://www.strongdm.com/blog/principle-of-least-privilege) to limit who and how many users can access secure systems and the sensitive data stored within.
+PIM and PAM address how companies manage who can access a company’s most critical resources, like servers, databases, applications, and Kubernetes clusters. They operate under the [principle of least privilege](https://www.strongdm.com/blog/principle-of-least-privilege) to limit who and how many users can access secure systems and the sensitive data stored within.
 
 ### PIM
 
@@ -268,7 +268,7 @@ With AWS Organizations, you can consolidate multiple AWS accounts into an organi
 
 Set up and govern a secure, multi-account AWS environment
 
-Use AWS Control Tower to set up and operate your multi-account AWS environment with prescriptive controls designed to accelerate your cloud journey.  AWS Control Tower orchestrates multiple AWS services on your behalf while maintaining the security and compliance needs of your new or existing organization.
+Use AWS Control Tower to set up and operate your multi-account AWS environment with prescriptive controls designed to accelerate your cloud journey.  AWS Control Tower orchestrates multiple AWS services on your behalf while maintaining the security and compliance needs of your new or existing organization.
 
 [AWS Control Tower](https://aws.amazon.com/controltower/)
 

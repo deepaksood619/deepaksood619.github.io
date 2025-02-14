@@ -26,11 +26,11 @@ Uber's real-time data system has some critical requirements to ensure it operate
 
 These requirements handle everything from ride pricing to food delivery, ensuring users get the best possible experience.
 
-- **Consistency:** It is crucial for Uber's mission-critical services. The data needs to be consistent across all regions, with no room for loss or duplication. This is especially important for services that rely on accurate data, like financial dashboards.
-- **Availability:** Uber’s system needs to be up and running almost all the time, with a 99.99% uptime guarantee. Services like dynamic pricing, which adjust ride prices in real time based on supply and demand, simply can't afford downtime.
-- **Data Freshness:** Events, like ride requests or order placements, need to be processed within seconds so the system can make real-time decisions, whether it's matching riders with drivers or alerting restaurants of new orders. Some tools, such as the UberEats Restaurant Manager, depend on query latency being super low—ideally, under a second. This allows restaurants to get instant insights into things like orders, sales, and performance metrics.
-- **Scalability:** As Uber grows, its scalability becomes even more important. The data system must be able to expand as more data is generated and new use cases arise, ensuring smooth performance no matter how much demand increases.
-- **Cost Efficiency:** Finally, cost efficiency plays a big role. Since Uber operates on low margins, the company focuses on managing resources efficiently, including memory and storage. This helps keep operational costs down while maintaining top performance.
+- **Consistency:** It is crucial for Uber's mission-critical services. The data needs to be consistent across all regions, with no room for loss or duplication. This is especially important for services that rely on accurate data, like financial dashboards.
+- **Availability:** Uber’s system needs to be up and running almost all the time, with a 99.99% uptime guarantee. Services like dynamic pricing, which adjust ride prices in real time based on supply and demand, simply can't afford downtime.
+- **Data Freshness:** Events, like ride requests or order placements, need to be processed within seconds so the system can make real-time decisions, whether it's matching riders with drivers or alerting restaurants of new orders. Some tools, such as the UberEats Restaurant Manager, depend on query latency being super low—ideally, under a second. This allows restaurants to get instant insights into things like orders, sales, and performance metrics.
+- **Scalability:** As Uber grows, its scalability becomes even more important. The data system must be able to expand as more data is generated and new use cases arise, ensuring smooth performance no matter how much demand increases.
+- **Cost Efficiency:** Finally, cost efficiency plays a big role. Since Uber operates on low margins, the company focuses on managing resources efficiently, including memory and storage. This helps keep operational costs down while maintaining top performance.
 
 In short, Uber's real-time data infrastructure is designed to be consistent, available, fast, scalable, and cost-effective, ensuring the company's services run smoothly at all times.
 
@@ -54,10 +54,10 @@ It handles trillions of messages and petabytes of data daily, helping to transpo
 
 At Uber, Kafka was heavily customized to meet its large-scale needs. Some of the key features are as follows:
 
-- **Cluster Federation:** Uber created a federated Kafka cluster setup to improve scalability and reliability. With federation, data is distributed across smaller clusters (each with about 150 nodes), making it easier to manage and scale.
-- **Dead Letter Queues (DLQ):** When messages fail (due to corruption or unexpected behavior), Uber's Kafka pushes them to a DLQ so they don’t block live traffic. This keeps data moving smoothly.
-- **Consumer Proxy:** Kafka's client libraries were complex, and with so many programming languages in use at Uber, it became difficult to manage. Uber built a proxy layer to simplify client interactions. This layer consumes Kafka messages and forwards them to a user’s service, streamlining error handling and reducing client complexity.
-- **Cross-cluster Replication:** For fault tolerance and redundancy, Uber developed uReplicator, which replicates Kafka messages across data centers. This ensures that data is available globally, even in case of failures.
+- **Cluster Federation:** Uber created a federated Kafka cluster setup to improve scalability and reliability. With federation, data is distributed across smaller clusters (each with about 150 nodes), making it easier to manage and scale.
+- **Dead Letter Queues (DLQ):** When messages fail (due to corruption or unexpected behavior), Uber's Kafka pushes them to a DLQ so they don’t block live traffic. This keeps data moving smoothly.
+- **Consumer Proxy:** Kafka's client libraries were complex, and with so many programming languages in use at Uber, it became difficult to manage. Uber built a proxy layer to simplify client interactions. This layer consumes Kafka messages and forwards them to a user’s service, streamlining error handling and reducing client complexity.
+- **Cross-cluster Replication:** For fault tolerance and redundancy, Uber developed uReplicator, which replicates Kafka messages across data centers. This ensures that data is available globally, even in case of failures.
 
 ### Apache Flink for Stream Processing
 
@@ -67,9 +67,9 @@ Flink can handle complex workloads, scale efficiently, and manage backlogs of mi
 
 Here’s how Uber improved Flink for their environment:
 
-- **FlinkSQL:** Uber built a SQL layer on top of Flink, known as FlinkSQL, to make stream processing more accessible to users. It translates SQL queries into Flink jobs, allowing engineers and non-engineers alike to build real-time applications without the need to know the underlying code.
-- **Resource Estimation and Auto-scaling:** Flink jobs can vary in resource requirements. Uber built tools to estimate how much CPU and memory a job needs based on its type and adjust resources automatically as workloads change throughout the day.
-- **Failure Recovery:** Flink jobs are continuously monitored, and if a job fails, an automated system restarts it or scales it up as needed.
+- **FlinkSQL:** Uber built a SQL layer on top of Flink, known as FlinkSQL, to make stream processing more accessible to users. It translates SQL queries into Flink jobs, allowing engineers and non-engineers alike to build real-time applications without the need to know the underlying code.
+- **Resource Estimation and Auto-scaling:** Flink jobs can vary in resource requirements. Uber built tools to estimate how much CPU and memory a job needs based on its type and adjust resources automatically as workloads change throughout the day.
+- **Failure Recovery:** Flink jobs are continuously monitored, and if a job fails, an automated system restarts it or scales it up as needed.
 
 By implementing these changes, Uber has made Flink more reliable and easier to use at scale, allowing thousands of real-time data processing jobs to run efficiently.
 
@@ -85,9 +85,9 @@ Pinot allows real-time analytics on terabytes of data, making it ideal for Uber�
 
 Uber enhanced Pinot in several ways:
 
-- **Upsert Support:** Uber added the ability to handle upserts (updates + inserts), which is crucial for scenarios where data changes frequently, like correcting a ride fare or updating a delivery status. This feature ensures the latest data is always available for analysis.
-- **Full SQL Support with Presto:** Although Pinot is great for real-time queries, it lacks certain advanced SQL features like joins. Uber integrated Pinot with Presto, a distributed SQL query engine, to bridge the gap. This combination allows users to run complex queries on Pinot’s real-time data with low latency.
-- **Peer-to-peer Segment Recovery:** Originally, Pinot relied on external storage systems (like HDFS or S3) for backing up data segments, which created bottlenecks. Uber developed a peer-to-peer segment recovery system, allowing data replicas to serve as backups for each other. This improved both speed and reliability.
+- **Upsert Support:** Uber added the ability to handle upserts (updates + inserts), which is crucial for scenarios where data changes frequently, like correcting a ride fare or updating a delivery status. This feature ensures the latest data is always available for analysis.
+- **Full SQL Support with Presto:** Although Pinot is great for real-time queries, it lacks certain advanced SQL features like joins. Uber integrated Pinot with Presto, a distributed SQL query engine, to bridge the gap. This combination allows users to run complex queries on Pinot’s real-time data with low latency.
+- **Peer-to-peer Segment Recovery:** Originally, Pinot relied on external storage systems (like HDFS or S3) for backing up data segments, which created bottlenecks. Uber developed a peer-to-peer segment recovery system, allowing data replicas to serve as backups for each other. This improved both speed and reliability.
 
 ### HDFS for Long-Term Storage
 
@@ -95,8 +95,8 @@ Uber uses HDFS (Hadoop Distributed File System) as the foundation for its long-t
 
 The data stored in HDFS is used for:
 
-- **Backfilling:** When systems need to reprocess historical data (for example, if a bug is fixed), HDFS provides the source for this backfill. The stored data is also used to train new machine-learning models or test new data pipelines.
-- **Checkpointing:** For services like Flink and Pinot, HDFS is used to store checkpoints—snapshots of the system’s state at a particular point in time. This allows systems to recover quickly in case of failure.
+- **Backfilling:** When systems need to reprocess historical data (for example, if a bug is fixed), HDFS provides the source for this backfill. The stored data is also used to train new machine-learning models or test new data pipelines.
+- **Checkpointing:** For services like Flink and Pinot, HDFS is used to store checkpoints—snapshots of the system’s state at a particular point in time. This allows systems to recover quickly in case of failure.
 
 ### Presto for Interactive Queries
 
@@ -106,8 +106,8 @@ It’s designed to provide fast, distributed SQL queries across multiple data so
 
 At Uber, Presto plays a critical role in:
 
-- **Real-time Data Exploration:** Presto allows engineers and data scientists to query real-time data in Pinot and other systems, providing insights on the fly. For example, an Uber Eats operations team might query real-time order data to monitor restaurant performance or customer trends.
-- **Optimization with Pinot:** Uber has customized Presto to push as much query processing as possible to Pinot, reducing query latency and improving efficiency.
+- **Real-time Data Exploration:** Presto allows engineers and data scientists to query real-time data in Pinot and other systems, providing insights on the fly. For example, an Uber Eats operations team might query real-time order data to monitor restaurant performance or customer trends.
+- **Optimization with Pinot:** Uber has customized Presto to push as much query processing as possible to Pinot, reducing query latency and improving efficiency.
 
 ## Use Cases
 

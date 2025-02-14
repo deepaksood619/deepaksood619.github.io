@@ -11,11 +11,11 @@
 
 ### Types
 
-- **Generic or raw language models** predict the next word based on the language in the training data. These language models perform information retrieval tasks.
+- **Generic or raw language models** predict the next word based on the language in the training data. These language models perform information retrieval tasks.
 	- The cat sat on ___ (answer - the)
-- **Instruction-tuned language models** are trained to predict responses to the instructions given in the input. This allows them to perform sentiment analysis, or to generate text or code.
+- **Instruction-tuned language models** are trained to predict responses to the instructions given in the input. This allows them to perform sentiment analysis, or to generate text or code.
 	- Generate a poem in the style of x
-- **Dialog-tuned language models** are trained to have a dialog by predicting the next response. Think of chatbots or conversational AI.
+- **Dialog-tuned language models** are trained to have a dialog by predicting the next response. Think of chatbots or conversational AI.
 
 ## Models
 
@@ -137,9 +137,9 @@ So... what's the deal with TTMs?
 
 [How to choose a Sentence Transformer from Hugging Face | Weaviate - Vector Database](https://weaviate.io/blog/how-to-choose-a-sentence-transformer-from-hugging-face)
 
-- Blue - the **dataset** it was trained on
-- Green - the **language** of the dataset
-- White or Purple - **additional details** about the model
+- Blue - the **dataset** it was trained on
+- Green - the **language** of the dataset
+- White or Purple - **additional details** about the model
 
 #### Transformer Models
 
@@ -164,12 +164,12 @@ So... what's the deal with TTMs?
 
 ### Tools
 
-- [**DeepEval**](https://github.com/confident-ai/deepeval) - a simple-to-use, open-source evaluation framework for LLM applications.
-- [**Fiddler Auditor**](https://github.com/fiddler-labs/fiddler-auditor) - a tool to evaluate the robustness of language models.
-- [**ragas**](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines.
+- [**DeepEval**](https://github.com/confident-ai/deepeval) - a simple-to-use, open-source evaluation framework for LLM applications.
+- [**Fiddler Auditor**](https://github.com/fiddler-labs/fiddler-auditor) - a tool to evaluate the robustness of language models.
+- [**ragas**](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines.
 	- Objective metrics, intelligent test generation, and data-driven insights for LLM apps
 	- [Evaluating RAG Applications with RAGAs | by Leonie Monigatti | Towards Data Science](https://towardsdatascience.com/evaluating-rag-applications-with-ragas-81d67b0ee31a)
-- [**tvalmetrics**](https://github.com/TonicAI/tvalmetrics) - Metrics to evaluate the quality of responses of your Retrieval Augmented Generation (RAG) applications.
+- [**tvalmetrics**](https://github.com/TonicAI/tvalmetrics) - Metrics to evaluate the quality of responses of your Retrieval Augmented Generation (RAG) applications.
 - [GitHub - openai/evals: Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.](https://github.com/openai/evals)
 
 ## SAAS Models

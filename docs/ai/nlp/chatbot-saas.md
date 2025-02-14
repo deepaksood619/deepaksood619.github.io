@@ -3,7 +3,7 @@
 ## Chats: Human and Bots
 
 - Rasa
-- Yellow - [https://docs.yellow.ai/docs/platform_concepts/studio/build/journeys/](https://docs.yellow.ai/docs/platform_concepts/studio/build/journeys/)
+- Yellow - [https://docs.yellow.ai/docs/platform_concepts/studio/build/journeys/](https://docs.yellow.ai/docs/platform_concepts/studio/build/journeys/)
 - Haptik
 - botpress
 - Intercom
@@ -16,7 +16,7 @@
 - [https://www.senseforth.ai/](https://www.senseforth.ai/)
 - [https://www.gupshup.io/](https://www.gupshup.io/)
 - verloop.ai
-- Freshchat - [https://www.freshworks.com/live-chat-software/chatbots/](https://www.freshworks.com/live-chat-software/chatbots/)
+- Freshchat - [https://www.freshworks.com/live-chat-software/chatbots/](https://www.freshworks.com/live-chat-software/chatbots/)
 - Zendesk chatbot
 - kommunicate
 - Mtalkz
@@ -137,14 +137,14 @@ IVS - Interactive
 - Users / Customers - ex zomato,swiggy, etc
 - Live Demo bots / examples?
 - Scale - ?
-- Testing - ? (Bulk input testing via API/uploads)
+- Testing - ? (Bulk input testing via API/uploads)
 - Project managers / Customer support / customer success team / account manager ?
 - Rule based chatbot / workflow based chatbot (Quick reply)
     - Ex - Blinkit/Zomato, Paytm
 - Analytics
     - API analytics
     - Agent analytics
-    - Data export - API webhook in our system
+    - Data export - API webhook in our system
 - Chat builder (Flow)
     - Conversation builder
     - Bot authoring

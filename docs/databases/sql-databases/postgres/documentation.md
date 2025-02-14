@@ -136,9 +136,9 @@ https://www.postgresql.org/docs/current/explicit-locking.html
 
 ### [38. Triggers](https://www.postgresql.org/docs/12/triggers.html)
 
-A trigger is a specification that the database should automatically execute a particular function whenever a certain type of operation is performed. Triggers can be defined to execute either before or after any INSERT, UPDATE, or DELETE operation, either once per modified row, or once per SQL statement. If a trigger event occurs, the trigger's function is called at the appropriate time to handle the event.
+A trigger is a specification that the database should automatically execute a particular function whenever a certain type of operation is performed. Triggers can be defined to execute either before or after any INSERT, UPDATE, or DELETE operation, either once per modified row, or once per SQL statement. If a trigger event occurs, the trigger's function is called at the appropriate time to handle the event.
 
-PostgreSQL offers both _per-row_ triggers and _per-statement_ triggers. With a per-row trigger, the trigger function is invoked once for each row that is affected by the statement that fired the trigger. In contrast, a per-statement trigger is invoked only once when an appropriate statement is executed, regardless of the number of rows affected by that statement. In particular, a statement that affects zero rows will still result in the execution of any applicable per-statement triggers. These two types of triggers are sometimes called _row-level_ triggers and _statement-level_ triggers, respectively.
+PostgreSQL offers both _per-row_ triggers and _per-statement_ triggers. With a per-row trigger, the trigger function is invoked once for each row that is affected by the statement that fired the trigger. In contrast, a per-statement trigger is invoked only once when an appropriate statement is executed, regardless of the number of rows affected by that statement. In particular, a statement that affects zero rows will still result in the execution of any applicable per-statement triggers. These two types of triggers are sometimes called _row-level_ triggers and _statement-level_ triggers, respectively.
 
 [39. Event Triggers](https://www.postgresql.org/docs/12/event-triggers.html)
 

@@ -114,7 +114,7 @@ JSON-LD is a lightweight Linked Data format. It is easy for humans to read and w
 
 [JSON-LD - JSON for Linking Data](https://json-ld.org/)
 
-Usage in structured data markup in Google Search - [Intro to How Structured Data Markup Works | Google Search Central  |  Documentation  |  Google for Developers](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data)
+Usage in structured data markup in Google Search - [Intro to How Structured Data Markup Works | Google Search Central  |  Documentation  |  Google for Developers](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data)
 
 ## References
 

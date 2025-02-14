@@ -82,6 +82,6 @@ While invalidation is a powerful tool, it should be used judiciously since it ca
 
 - [Best Practices for Versioning and Cache Invalidation in CloudFront | Reintech media](https://reintech.io/blog/best-practices-versioning-cache-invalidation-cloudfront)
 - [Use file versioning to update or remove content with a CloudFront distribution - Amazon CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/UpdatingExistingObjects.html)
-- [Content delivery best practices  |  Cloud CDN  |  Google Cloud](https://cloud.google.com/cdn/docs/best-practices)
+- [Content delivery best practices  |  Cloud CDN  |  Google Cloud](https://cloud.google.com/cdn/docs/best-practices)
 - [How does versioning work on Amazon Cloudfront? - Stack Overflow](https://stackoverflow.com/questions/57643059/how-does-versioning-work-on-amazon-cloudfront)
 - [Object Versioning Instead of cache invalidation - Acowebs](https://acowebs.com/guideline/plugin-docs-faqs/wordpress-offload-media/object-versioning-instead-of-cache-invalidation/)

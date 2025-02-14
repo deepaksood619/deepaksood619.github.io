@@ -8,9 +8,9 @@ Used to store data files internally within Snowflake. Each user and table in Sno
 
 Internal stages can be further categorized as follows:
 
-- **User stages:** Each of these stages pertains to a specific user, so they'll be assigned to every user by default for storing files.
-- **Table stages:** Each of these stages pertains to a specific database table, so they'll be assigned to every table by default.
-- **Internal named stages:** Compared to the user or table stages, these stages offer a greater degree of flexibility. As these are some of the Snowflake objects, all operations that can be performed on objects can also be performed on internally named stages. These stages must be created manually and we can specify file formats when creating these stages.
+- **User stages:** Each of these stages pertains to a specific user, so they'll be assigned to every user by default for storing files.
+- **Table stages:** Each of these stages pertains to a specific database table, so they'll be assigned to every table by default.
+- **Internal named stages:** Compared to the user or table stages, these stages offer a greater degree of flexibility. As these are some of the Snowflake objects, all operations that can be performed on objects can also be performed on internally named stages. These stages must be created manually and we can specify file formats when creating these stages.
 
 ### External stages
 

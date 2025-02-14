@@ -1,6 +1,6 @@
 # Crosstab
 
-A _crosstab_ is a table showing the relationship between two or more variables. Where the table only shows the relationship between two categorical variables, a crosstab is also known as a _contingency table_.
+A _crosstab_ is a table showing the relationship between two or more variables. Where the table only shows the relationship between two categorical variables, a crosstab is also known as a _contingency table_.
 
 For a precise reference, a cross-tabulation is a two- (or more) dimensional table that records the number (frequency) of respondents that have the specific characteristics described in the cells of the table. Cross-tabulation tables provide a wealth of information about the relationship between the variables.
 
@@ -12,7 +12,7 @@ It is common for crosstabs to contain more than two variables. For example, the 
 
 ## Key decisions when creating a crosstab
 
-In addition to selecting which variables to include in a crosstab, it is also necessary to work out which statistics to show. In this example, _column %_ and the sample size for each column is shown.
+In addition to selecting which variables to include in a crosstab, it is also necessary to work out which statistics to show. In this example, _column %_ and the sample size for each column is shown.
 
 A second key decision is how to show statistical significance. The example above uses lettering, which indicates whether a column is significant to another specific column. Alternatively, tests can be used which show whether a cell is different from its complement.
 
@@ -24,7 +24,7 @@ For example, a categorical variable could be customer reviews by region. You div
 
 ## Terminology
 
-In commercial research, the rows of a crosstab are historically referred to as _stubs_ and the columns as _banners._
+In commercial research, the rows of a crosstab are historically referred to as _stubs_ and the columns as _banners._
 
 ## What are the benefits of cross-tabulation?
 
@@ -32,9 +32,9 @@ As a statistical analysis method that allows categorical evaluation across a dat
 
 With the examples above, you should now have a good idea of how to cross-tabulation can be used in certain contexts to glean insights. But there are several other benefits to cross-tabulation:
 
-- **Error reduction:** analysing data sets can be confusing, let alone accurately pulling insights from them. Using cross-tabulation, you can make your data sets more manageable at scale (as they simplify them and divide them into representative subgroups).
-- **More insights:** cross-tabulation looks at the relationships between one or more categorical variables to uncover more granular insights. These insights might go unnoticed with standard approaches (or require more work to reveal).
-- **Actionable information:** as cross-tabulation simplifies data sets and allows you to quickly compare the relationships between them, you can uncover insights faster and apply new strategies as necessary.
+- **Error reduction:** analysing data sets can be confusing, let alone accurately pulling insights from them. Using cross-tabulation, you can make your data sets more manageable at scale (as they simplify them and divide them into representative subgroups).
+- **More insights:** cross-tabulation looks at the relationships between one or more categorical variables to uncover more granular insights. These insights might go unnoticed with standard approaches (or require more work to reveal).
+- **Actionable information:** as cross-tabulation simplifies data sets and allows you to quickly compare the relationships between them, you can uncover insights faster and apply new strategies as necessary.
 
 These are the main benefits of cross-tabulation, but as a statistical analysis method, it can be applied to a wide range of research areas and disciplines to help you get more from your data.
 

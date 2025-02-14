@@ -7,7 +7,7 @@ SnowSQL is the command line client for connecting to Snowflake to execute SQL qu
 ```bash
 snowsql -a <account_identifier> -u <user_name>
 
-# Execute PUT in SnowSQL to upload local data files to the table stage provided for the `emp_basic` table you created.
+# Execute PUT in SnowSQL to upload local data files to the table stage provided for the `emp_basic` table you created.
 
 PUT file://<file-path>[/\]employees0*.csv @sf_tuts.public.%emp_basic;
 

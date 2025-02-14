@@ -20,7 +20,7 @@
 
 ### Big Things
 
-- Migrate all APIs - Type Hint
+- Migrate all APIs - Type Hint
 - LMS main search and page migrate using Django Admin
 - Migrate everything to Python (Django + Flask)
     - Cron jobs + APIs (Every `<10 mins` cron must be removed)
@@ -36,7 +36,7 @@
     - Increase Isolation level
     - Single database for applications, no reader/writer config (till we really hit that scale), upgrade db, postgres
     - Remove DMS and Redshift (on-line aggregations)
-- Product overhaul - end to end with highly deterministic flow and real time monitoring at every single step
+- Product overhaul - end to end with highly deterministic flow and real time monitoring at every single step
     1. Fraud at each step without performance implications
     2. Full customer logging and path traversal along with historical data
     3. Product flow - Figma

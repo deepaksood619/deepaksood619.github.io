@@ -6,9 +6,9 @@ An open platform for building developer portals
 
 Powered by a centralized software catalog, Backstage restores order to your infrastructure and enables your product teams to ship high-quality code quickly — without compromising autonomy.
 
-- [Backstage Software Catalog](https://backstage.io/docs/features/software-catalog/) for managing all your software (microservices, libraries, data pipelines, websites, ML models, etc.)
-- [Backstage Software Templates](https://backstage.io/docs/features/software-templates/) for quickly spinning up new projects and standardizing your tooling with your organization’s best practices
-- [Backstage TechDocs](https://backstage.io/docs/features/techdocs/) for making it easy to create, maintain, find, and use technical documentation, using a "docs like code" approach
+- [Backstage Software Catalog](https://backstage.io/docs/features/software-catalog/) for managing all your software (microservices, libraries, data pipelines, websites, ML models, etc.)
+- [Backstage Software Templates](https://backstage.io/docs/features/software-templates/) for quickly spinning up new projects and standardizing your tooling with your organization’s best practices
+- [Backstage TechDocs](https://backstage.io/docs/features/techdocs/) for making it easy to create, maintain, find, and use technical documentation, using a "docs like code" approach
 - [Backstage Software Catalog and Developer Platform](https://backstage.io/plugins/)
 
 ### Others

@@ -253,7 +253,7 @@ CREATE TABLE raw_log_2011_4 (
 ALTER TABLE tbl_name REMOVE PARTITIONING;
 ```
 
-`PARTITION BY RANGE(TO_DAYS(date))` and have daily partitions. Every night `DROP PARTITION` for the week-old partition and `REORGANIZE` the normally empty "future" partition into tomorrow and a new "future".
+`PARTITION BY RANGE(TO_DAYS(date))` and have daily partitions. Every night `DROP PARTITION` for the week-old partition and `REORGANIZE` the normally empty "future" partition into tomorrow and a new "future".
 
 That makes the delete essentially free and instantaneous. And keeps the disk space down to not much more than a week's worth of data.
 

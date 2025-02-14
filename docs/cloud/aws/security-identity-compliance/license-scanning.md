@@ -81,7 +81,7 @@ FOSSology is an open-source license compliance software system. It can analyze s
 
 ## Tool Recommendation
 
-**FOSSA** has several features that give it an edge over other license scanning tools. Here are few key points that highlight its advantages:
+**FOSSA** has several features that give it an edge over other license scanning tools. Here are few key points that highlight its advantages:
 
 ### Comprehensive Multi-Language Support
 

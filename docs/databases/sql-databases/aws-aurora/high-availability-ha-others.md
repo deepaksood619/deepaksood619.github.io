@@ -26,11 +26,11 @@ With its distributed, shared-nothing architecture, MySQL NDB Cluster has been ca
 
 Protecting against outages:
 
-- **Synchronous Replication** - Data within each data node is synchronously replicated to another data node.
-- **Automatic Failover** - MySQL NDB Cluster's heartbeating mechanism instantly detects any failures and automatically fails over, typically within one second, to other nodes in the cluster, without interrupting service to clients.
-- **Self Healing** - Failed nodes are able to self-heal by automatically restarting and resynchronizing with other nodes before re-joining the cluster, with complete application transparency
-- **Shared Nothing Architecture, No Single Point of Failure** - each node has its own disk and memory, so the risk of a failure caused by shared components such as storage, is eliminated.
-- **Geographical Replication** - Geographic replication enables nodes to be mirrored to remote data centers for disaster recovery.
+- **Synchronous Replication** - Data within each data node is synchronously replicated to another data node.
+- **Automatic Failover** - MySQL NDB Cluster's heartbeating mechanism instantly detects any failures and automatically fails over, typically within one second, to other nodes in the cluster, without interrupting service to clients.
+- **Self Healing** - Failed nodes are able to self-heal by automatically restarting and resynchronizing with other nodes before re-joining the cluster, with complete application transparency
+- **Shared Nothing Architecture, No Single Point of Failure** - each node has its own disk and memory, so the risk of a failure caused by shared components such as storage, is eliminated.
+- **Geographical Replication** - Geographic replication enables nodes to be mirrored to remote data centers for disaster recovery.
 
 MySQL NDB Cluster also protects against the estimated 30% of downtime resulting from scheduled maintenance activities by allowing on-line operations, including:
 
@@ -78,7 +78,7 @@ https://www.planetscale.com/blog/videos-intro-to-vitess-its-powerful-capabilitie
 
 - [What is MySQL High Availability? How to Choose a Solution](https://www.percona.com/blog/choosing-mysql-high-availability-solutions/)
 - [What is MySQL High Availability? | Pure Storage](https://www.purestorage.com/au/knowledge/what-is-mysql-high-availability.html)
-- [Architectures for high availability of MySQL clusters on Compute Engine  |  Cloud Architecture Center  |  Google Cloud](https://cloud.google.com/architecture/architectures-high-availability-mysql-clusters-compute-engine)
+- [Architectures for high availability of MySQL clusters on Compute Engine  |  Cloud Architecture Center  |  Google Cloud](https://cloud.google.com/architecture/architectures-high-availability-mysql-clusters-compute-engine)
 - [How To Setup MySQL Master Master Replication](https://www.redswitches.com/blog/mysql-master-master-replication/)
 - [MySQL Master Master Replication: 4 Easy Steps | Hevo](https://hevodata.com/learn/mysql-master-master-replication/)
 - [Galera Cluster for MySQL | The world's most advanced open-source database cluster.](https://galeracluster.com/)

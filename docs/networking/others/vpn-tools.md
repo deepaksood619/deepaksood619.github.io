@@ -99,7 +99,7 @@ DevOps teams use Teleport to access SSH and Windows servers, Kubernetes, databas
 
 ### Alternative - StrongDM
 
-[StrongDM](https://strongdm.com/) is a Dynamic Access Management ([DAM](https://www.strongdm.com/dynamic-access-management-dam)) platform that extends Privileged Access Management ([PAM](https://www.strongdm.com/privileged-access-management)) to work across any environment on-premises and in the cloud. It is designed to make access [least-privilege](https://www.strongdm.com/blog/principle-of-least-privilege) by default with role-based, attribute-based, and just-in-time access controls. Companies like Humana, SentinelOne, and more have adopted StrongDM to secure access management to all their critical infrastructure.
+[StrongDM](https://strongdm.com/) is a Dynamic Access Management ([DAM](https://www.strongdm.com/dynamic-access-management-dam)) platform that extends Privileged Access Management ([PAM](https://www.strongdm.com/privileged-access-management)) to work across any environment on-premises and in the cloud. It is designed to make access [least-privilege](https://www.strongdm.com/blog/principle-of-least-privilege) by default with role-based, attribute-based, and just-in-time access controls. Companies like Humana, SentinelOne, and more have adopted StrongDM to secure access management to all their critical infrastructure.
 
 [Competitors & Alternatives to Teleport 2024 | StrongDM](https://www.strongdm.com/blog/alternatives-to-gravitational-teleport)
 

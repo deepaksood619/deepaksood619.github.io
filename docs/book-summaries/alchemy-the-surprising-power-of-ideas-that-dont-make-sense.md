@@ -84,17 +84,17 @@ _"Maybe it’s true, but all our models that justify transport investment assume
 
 **_So this is what’s happened to the world: optimization trumps human preference. The people who want to win the argument are effectively prepared to ignore human truths to preserve the integrity of the artificial model._**
 
-_The Unaccountability Machine by Dan Davies is a fantastic book, which argues that people create these models because if you can reduce decision-making to an algorithm, or a formula, or a process, or a procedure, you avoid the risk of blame. Computer says no, effectively._
+_The Unaccountability Machine by Dan Davies is a fantastic book, which argues that people create these models because if you can reduce decision-making to an algorithm, or a formula, or a process, or a procedure, you avoid the risk of blame. Computer says no, effectively._
 
 _Instinctively, people love to codify things, and make them numerical, and turn them into optimization problems with a single right answer. Because the second you acknowledge ambiguity, you now have to exercise choice. If you can pretend there’s no ambiguity, then you haven’t made a decision, you can’t be blamed, you can’t be held responsible. And what’s the first thing you remove if you want to remove ambiguity from a model? You remove human psychology, because human psychology, particularly around time, is massively ambiguous."_
 
 The whole talk is full of blinding insights about human behaviour, contrary to popular perception.
 
-In conclusion, he says: _"I think there are things in life that you want to telescope and compress and accelerate and streamline and make more efficient. And there are things where the value is precisely in the inefficiency, in the time spent, in the pain endured, in the effort you have to invest. And I don’t think we’re going to differentiate between those things. .._
+In conclusion, he says: _"I think there are things in life that you want to telescope and compress and accelerate and streamline and make more efficient. And there are things where the value is precisely in the inefficiency, in the time spent, in the pain endured, in the effort you have to invest. And I don’t think we’re going to differentiate between those things. .._
 
 _The general assumption driven by these optimization models is always that faster is better. I think there are things we need to deliberately and consciously slow down for our own sanity and for our own productivity. If we don’t ask that question about what those things are, I think we’ll get things terribly, terribly wrong."_
 
-[Rory Sutherland – Are We Now Too Impatient to Be Intelligent? | Nudgestock 2024 - YouTube](https://www.youtube.com/watch?v=Bc9jFbxrkMk&ab_channel=Nudgestock)
+[Rory Sutherland – Are We Now Too Impatient to Be Intelligent? | Nudgestock 2024 - YouTube](https://www.youtube.com/watch?v=Bc9jFbxrkMk&ab_channel=Nudgestock)
 
 ## Links
 

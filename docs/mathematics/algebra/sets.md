@@ -28,10 +28,10 @@ https://en.wikipedia.org/wiki/Bijection,_injection_and_surjection
 
 ## Cartesian product
 
-In mathematics, the Cartesian product of two sets is the set of all possible ordered pairs. The first element of each pair comes from the first set, and the second element comes from the second set. The Cartesian product is denoted by A×B.
+In mathematics, the Cartesian product of two sets is the set of all possible ordered pairs. The first element of each pair comes from the first set, and the second element comes from the second set. The Cartesian product is denoted by A×B.
 
 For example, if A = {1, 2} and B = {3, 4, 5}, then the Cartesian product of A and B is {(1, 3), (1, 4), (1, 5), (2, 3), (2, 4), (2, 5)}.
 
-The Cartesian Product of sets A and B is defined as **the set of all ordered pairs (x, y) such that x belongs to A and y belongs to B**.
+The Cartesian Product of sets A and B is defined as **the set of all ordered pairs (x, y) such that x belongs to A and y belongs to B**.
 
 [Cartesian product - Wikipedia](https://en.wikipedia.org/wiki/Cartesian_product)

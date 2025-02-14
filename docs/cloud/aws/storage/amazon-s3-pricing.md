@@ -2,7 +2,7 @@
 
 - S3 Standard (Frequently accessed data) - $0.023 per GB
 - S3 Intelligent-Tiering - $0.023per GB
-- Amazon S3 Express One Zone - $0.16 per GB
+- Amazon S3 Express One Zone - $0.16 per GB
 - S3 Standard-IA (Infrequent Access) (Long-lived, infrequently accessed data) - $0.0125per GB (54% cheaper than standard)
 - S3 One Zone-IA (Long-lived, infrequent, but rapid access) - $0.01 per GB (56% cheaper than standard)
 - S3 Glacier - $0.004per GB (312% cheap)
@@ -26,35 +26,35 @@ S3 Intelligent-Tiering is the ideal storage class for data with unknown, changin
 
 | Storage Class                                                                                                                               | Storage pricing           |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| **S3 Standard** - General purpose storage for any type of data, typically used for frequently accessed data                                 |                           |
-| First 50 TB / Month                                                                                                                         | $0.025 per GB             |
-| Next 450 TB / Month                                                                                                                         | $0.024 per GB             |
-| Over 500 TB / Month                                                                                                                         | $0.023 per GB             |
-| **S3 Intelligent - Tiering** * - Automatic cost savings for data with unknown or changing access patterns                                   |                           |
-| Monitoring and Automation, All Storage / Month (Objects > 128 KB)                                                                           | $0.0025 per 1,000 objects |
-| Frequent Access Tier, First 50 TB / Month                                                                                                   | $0.025 per GB             |
-| Frequent Access Tier, Next 450 TB / Month                                                                                                   | $0.024 per GB             |
-| Frequent Access Tier, Over 500 TB / Month                                                                                                   | $0.023 per GB             |
-| Infrequent Access Tier, All Storage / Month                                                                                                 | $0.0138 per GB            |
-| Archive Instant Access Tier, All Storage / Month                                                                                            | $0.005 per GB             |
-| **S3 Intelligent - Tiering** * - Optional asynchronous Archive Access tiers                                                                 |                           |
-| Archive Access Tier, All Storage / Month                                                                                                    | $0.0045 per GB            |
-| Deep Archive Access Tier, All Storage / Month                                                                                               | $0.002 per GB             |
-| **S3 Standard - Infrequent Access** ** - For long lived but infrequently accessed data that needs millisecond access                        | $0.0138 per GB            |
-| **S3 Express One Zone** - High-performance storage for your most frequently accessed data                                                   | N/A per GB                |
-| **S3 Glacier Instant Retrieval** *** - For long-lived archive data accessed once a quarter with instant retrieval in milliseconds           | $0.005 per GB             |
-| **S3 Glacier Flexible Retrieval** *** - For long-term backups and archives with retrieval option from 1 minute to 12 hours                  | $0.0045 per GB            |
-| **S3 Glacier Deep Archive** *** - For long-term data archiving that is accessed once or twice in a year and can be restored within 12 hours | $0.002 per GB             |
-| **S3 One Zone - Infrequent Access** ** - For re-creatable infrequently accessed data that needs millisecond access                          | $0.011 per GB             |
+| **S3 Standard** - General purpose storage for any type of data, typically used for frequently accessed data                                 |                           |
+| First 50 TB / Month                                                                                                                         | $0.025 per GB             |
+| Next 450 TB / Month                                                                                                                         | $0.024 per GB             |
+| Over 500 TB / Month                                                                                                                         | $0.023 per GB             |
+| **S3 Intelligent - Tiering** * - Automatic cost savings for data with unknown or changing access patterns                                   |                           |
+| Monitoring and Automation, All Storage / Month (Objects > 128 KB)                                                                           | $0.0025 per 1,000 objects |
+| Frequent Access Tier, First 50 TB / Month                                                                                                   | $0.025 per GB             |
+| Frequent Access Tier, Next 450 TB / Month                                                                                                   | $0.024 per GB             |
+| Frequent Access Tier, Over 500 TB / Month                                                                                                   | $0.023 per GB             |
+| Infrequent Access Tier, All Storage / Month                                                                                                 | $0.0138 per GB            |
+| Archive Instant Access Tier, All Storage / Month                                                                                            | $0.005 per GB             |
+| **S3 Intelligent - Tiering** * - Optional asynchronous Archive Access tiers                                                                 |                           |
+| Archive Access Tier, All Storage / Month                                                                                                    | $0.0045 per GB            |
+| Deep Archive Access Tier, All Storage / Month                                                                                               | $0.002 per GB             |
+| **S3 Standard - Infrequent Access** ** - For long lived but infrequently accessed data that needs millisecond access                        | $0.0138 per GB            |
+| **S3 Express One Zone** - High-performance storage for your most frequently accessed data                                                   | N/A per GB                |
+| **S3 Glacier Instant Retrieval** *** - For long-lived archive data accessed once a quarter with instant retrieval in milliseconds           | $0.005 per GB             |
+| **S3 Glacier Flexible Retrieval** *** - For long-term backups and archives with retrieval option from 1 minute to 12 hours                  | $0.0045 per GB            |
+| **S3 Glacier Deep Archive** *** - For long-term data archiving that is accessed once or twice in a year and can be restored within 12 hours | $0.002 per GB             |
+| **S3 One Zone - Infrequent Access** ** - For re-creatable infrequently accessed data that needs millisecond access                          | $0.011 per GB             |
 
 #### Summary
 
 | Storage Class                   | Costs          | 500 GB | 2 TB  | % Cheaper from standard |
 | ------------------------------- | -------------- | ------ | ----- | ----------------------- |
-| S3 Standard                     | $0.025 per GB  | $12.5  | $50   | 100%                    |
-| S3 Standard - Infrequent Access | $0.0138 per GB | $6.9   | $27.6 | 44.8%                   |
-| S3 Glacier Flexible Retrieval   | $0.0045 per GB | $2.25  | $9    | 82%                     |
-| S3 Glacier Deep Archive         | $0.002 per GB  | $1     | $4    | 92%                     |
+| S3 Standard                     | $0.025 per GB  | $12.5  | $50   | 100%                    |
+| S3 Standard - Infrequent Access | $0.0138 per GB | $6.9   | $27.6 | 44.8%                   |
+| S3 Glacier Flexible Retrieval   | $0.0045 per GB | $2.25  | $9    | 82%                     |
+| S3 Glacier Deep Archive         | $0.002 per GB  | $1     | $4    | 92%                     |
 *All costs are monthly costs*
 
 ### Storage

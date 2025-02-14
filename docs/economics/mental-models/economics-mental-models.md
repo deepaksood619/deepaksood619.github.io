@@ -281,7 +281,7 @@ It’s the value (or price) that’s destroyed when the gift changes hands. Or p
 
 ## Baumol Effect
 
-In economics, the **Baumol effect**, also known as **Baumol's cost disease**, is the rise of wages in jobs that have experienced little or no increase in labor productivity, in response to rising salaries in other jobs that have experienced higher productivity growth.
+In economics, the **Baumol effect**, also known as **Baumol's cost disease**, is the rise of wages in jobs that have experienced little or no increase in labor productivity, in response to rising salaries in other jobs that have experienced higher productivity growth.
 
 The rise of wages in jobs without productivity gains derives from the requirement to compete for workers with jobs that have experienced productivity gains and so can naturally pay higher salaries, just as classical economics predicts. For instance, if the retail sector pays its managers low wages, they may decide to quit and get jobs in the automobile sector, where wages are higher because of higher labor productivity. Thus, retail managers' salaries increase not due to labor productivity increases in the retail sector, but due to productivity and corresponding wage increases in other industries.
 
@@ -303,7 +303,7 @@ The concept refers to the attempts to gain economic benefits without producing n
 
 ## Jevons paradox
 
-In economics, the **Jevons paradox** (sometimes **Jevons effect**) occurs when [technological progress](https://en.wikipedia.org/wiki/Technological_change "Technological change") or government policy increases the [efficiency](https://en.wikipedia.org/wiki/Efficiency "Efficiency") with which a [resource](https://en.wikipedia.org/wiki/Resource_(economics) "Resource (economics)") is used (reducing the amount necessary for any one use), but the falling cost of use [induces increases in demand](https://en.wikipedia.org/wiki/Induced_demand) enough that resource use is increased, rather than reduced. Governments typically assume that efficiency gains will lower [resource consumption](https://en.wikipedia.org/wiki/Resource_consumption "Resource consumption"), ignoring the possibility of the paradox arising.
+In economics, the **Jevons paradox** (sometimes **Jevons effect**) occurs when [technological progress](https://en.wikipedia.org/wiki/Technological_change "Technological change") or government policy increases the [efficiency](https://en.wikipedia.org/wiki/Efficiency "Efficiency") with which a [resource](https://en.wikipedia.org/wiki/Resource_(economics) "Resource (economics)") is used (reducing the amount necessary for any one use), but the falling cost of use [induces increases in demand](https://en.wikipedia.org/wiki/Induced_demand) enough that resource use is increased, rather than reduced. Governments typically assume that efficiency gains will lower [resource consumption](https://en.wikipedia.org/wiki/Resource_consumption "Resource consumption"), ignoring the possibility of the paradox arising.
 
 [Jevons paradox - Wikipedia](https://en.wikipedia.org/wiki/Jevons_paradox)
 

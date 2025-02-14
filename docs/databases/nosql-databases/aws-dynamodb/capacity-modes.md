@@ -89,7 +89,7 @@ A good starting point is to ask why not set target utilization to 100%? This sou
 
 > DynamoDB auto scaling modifies provisioned throughput settings only when the actual workload stays elevated (or depressed) for a sustained period of several minutes
 
-So, imagine your target utilization is 100% and you have increased demand on your table for 15 minutes. For the first 5 minutes you might be saved by [burst capacity](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-partition-key-design.html#bp-partition-key-throughput-bursting), in the second lot of 5 minutes you are likely to see database read/write failures as your throughput is exceeded, and then after around 10 minutes Autoscaling should kick in and increase your throughput.
+So, imagine your target utilization is 100% and you have increased demand on your table for 15 minutes. For the first 5 minutes you might be saved by [burst capacity](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-partition-key-design.html#bp-partition-key-throughput-bursting), in the second lot of 5 minutes you are likely to see database read/write failures as your throughput is exceeded, and then after around 10 minutes Autoscaling should kick in and increase your throughput.
 
 This is the problem you are trying to avoid by setting target utilization (i.e. an increase in demand causing throttling). You need to consider two things
 
@@ -99,7 +99,7 @@ This is the problem you are trying to avoid by setting target utilization (i.e. 
 
 Lets say you look over one week of data, and find that in a 15 minute period, the largest increase in throughput you see is 20%. That gives you a target utilization of 80% (because then your increased demand is absorbed by autoscaling)*. However lets say you are cautious and you really aren't OK with database throttling, so to be on the safe side, you might go with 70%.
 
-Hope that helps make some decisions. In summary, **your target utilization should be a function of how quickly your throughput capacity changes, and how averse you are to throttling.**
+Hope that helps make some decisions. In summary, **your target utilization should be a function of how quickly your throughput capacity changes, and how averse you are to throttling.**
 
 EDIT:*The maths isn't perfect here, but you get the idea I think. And its probably a close enough approximation.
 

@@ -231,11 +231,11 @@ You should design your life in accordance with how time influences your decision
 
 There are five types of time:
 
-1. **Micro Time** (sub-second)
-2. **Engagement Time** (Seconds)
-3. **Business Time** (Minutes to Hours)
-4. **Strategy Time** (Days to Weeks)
-5. **Big-Thinking Time** (Months to Years)
+1. **Micro Time** (sub-second)
+2. **Engagement Time** (Seconds)
+3. **Business Time** (Minutes to Hours)
+4. **Strategy Time** (Days to Weeks)
+5. **Big-Thinking Time** (Months to Years)
 
 [Seconds to Strategy: How Your Relationship with Time Shapes Your Career](https://auren.substack.com/p/seconds-to-strategy-how-your-relationship)
 

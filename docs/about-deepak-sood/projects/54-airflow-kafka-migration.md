@@ -90,7 +90,7 @@ To ensure zero downtime during the migration of a Confluent Cloud Kafka cluster 
 
 To ensure a smooth migration from Astronomer to Airflow on K8s, here are the steps:
 
-- **Airflow Deployment on K8s:** We can use the official helm chart to deploy Airflow in k8s. Once the deployment is done, we can create the necessary modules - Postgres/MySQL, Redis, Airflow Scheduler, Airflow Web, Airflow worker. Based on the current pool and node sizes, nodes will be added. We’ll set up auto-scaling according to DAG loads. Move dags to new Airflow in batches.
+- **Airflow Deployment on K8s:** We can use the official helm chart to deploy Airflow in k8s. Once the deployment is done, we can create the necessary modules - Postgres/MySQL, Redis, Airflow Scheduler, Airflow Web, Airflow worker. Based on the current pool and node sizes, nodes will be added. We’ll set up auto-scaling according to DAG loads. Move dags to new Airflow in batches.
 - **Decommission Astronomer:** Once everything is set up and running, we can decommission Astronomer.
 
 ## Links

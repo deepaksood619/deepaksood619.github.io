@@ -105,7 +105,7 @@ Durable Execution is a development abstraction that preserves complete applicati
 
 Temporal is an open source implementation of Durable Execution created by the originators of the abstraction.
 
-The [Temporal Platform](https://docs.temporal.io/temporal) provides developers a suite of effective tools for building reliable applications at scale.
+The [Temporal Platform](https://docs.temporal.io/temporal) provides developers a suite of effective tools for building reliable applications at scale.
 
 The concepts, components, and features of the platform are described in detail across the concept guides.
 

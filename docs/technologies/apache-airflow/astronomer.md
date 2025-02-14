@@ -10,7 +10,7 @@
 
 ### Deployment
 
-An Astro Deployment is an Airflow environment that is powered by [Astro Runtime](https://docs.astronomer.io/astro/runtime-image-architecture). It runs all core Airflow components, including the Airflow webserver, scheduler, and workers, plus additional tooling for reliability and observability.
+An Astro Deployment is an Airflow environment that is powered by [Astro Runtime](https://docs.astronomer.io/astro/runtime-image-architecture). It runs all core Airflow components, including the Airflow webserver, scheduler, and workers, plus additional tooling for reliability and observability.
 
 [Create a Deployment | Astronomer Documentation](https://docs.astronomer.io/astro/create-deployment)
 

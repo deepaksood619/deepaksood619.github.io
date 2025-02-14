@@ -8,20 +8,20 @@ Vocabulary filtering is available for streaming transcription at no additional c
 
 ## Amazon Transcribe Call Analytics
 
-Amazon Transcribe Call Analytics is a tool that can transcribe call audio, analyze sentiment, and perform quality assurance on customer service and sales calls. It uses machine learning and speech-to-text models to help improve customer experience and agent productivity.
+Amazon Transcribe Call Analytics is a tool that can transcribe call audio, analyze sentiment, and perform quality assurance on customer service and sales calls. It uses machine learning and speech-to-text models to help improve customer experience and agent productivity.
 
 ### Features
 
-- **Call transcription**: Transcribes audio into text, including multi-speaker audio
-- **Sentiment analysis**: Analyzes the sentiment of the customer or agent
-- **Call categorization**: Classifies calls based on criteria like sentiment, phrases, or interruptions
-- **Call summarization**: Summarizes a call to capture key information
-- **Sensitive information redaction**: Detects and removes sensitive information like names, addresses, and credit card information
+- **Call transcription**: Transcribes audio into text, including multi-speaker audio
+- **Sentiment analysis**: Analyzes the sentiment of the customer or agent
+- **Call categorization**: Classifies calls based on criteria like sentiment, phrases, or interruptions
+- **Call summarization**: Summarizes a call to capture key information
+- **Sensitive information redaction**: Detects and removes sensitive information like names, addresses, and credit card information
 
 ### Quality assurance
 
-- **Quality training programs**: Uses insights from call analytics to create targeted training programs
-- **Adherence to standards**: Helps ensure that agents adhere to standards
+- **Quality training programs**: Uses insights from call analytics to create targeted training programs
+- **Adherence to standards**: Helps ensure that agents adhere to standards
 
 ### How to use
 
@@ -54,7 +54,7 @@ The call characteristics feature measures the quality of agent-customer interact
 - **Talk time**: Measures the amount of time (in milliseconds) each participant spoke during the call. Use this metric to help identify if one participant is dominating the call or if the dialogue is balanced.
 - **Issues, Outcomes, and Action Items**: Identifies issues, outcomes and action items from the call transcript.
 
-Here's an [output example](https://docs.aws.amazon.com/transcribe/latest/dg/tca-output-batch.html#tca-output-characteristics-batch).
+Here's an [output example](https://docs.aws.amazon.com/transcribe/latest/dg/tca-output-batch.html#tca-output-characteristics-batch).
 
 ### Generative call summarization
 
@@ -68,7 +68,7 @@ Using generative call summarization, you can:
 - Improve agent efficiency as they can spend more time talking to callers waiting in queue rather than engaging in after-call work.
 - Speed up supervisor reviews as call summaries are much quicker to review than entire transcripts.
 
-To use generative call summarization with a post-call analytics job, see [Enabling generative call summarization](https://docs.aws.amazon.com/transcribe/latest/dg/tca-enable-summarization.html). For example output, see [Generative call summarization output example](https://docs.aws.amazon.com/transcribe/latest/dg/tca-output-batch.html#tca-output-summarization-batch). Generative call summarization is priced separately (please refer to [pricing page](https://aws.amazon.com/transcribe/pricing)).
+To use generative call summarization with a post-call analytics job, see [Enabling generative call summarization](https://docs.aws.amazon.com/transcribe/latest/dg/tca-enable-summarization.html). For example output, see [Generative call summarization output example](https://docs.aws.amazon.com/transcribe/latest/dg/tca-output-batch.html#tca-output-summarization-batch). Generative call summarization is priced separately (please refer to [pricing page](https://aws.amazon.com/transcribe/pricing)).
 
 ### Custom categorization
 
@@ -81,31 +81,31 @@ The criteria you can add to a category include:
 - **Non-talk time**: Periods of time when neither the customer nor the agent is talking.
 - **Interruptions**: When the customer or the agent is interrupting the other person.
 - **Customer or agent sentiment**: How the customer or the agent is feeling during a specified time period. If at least 50 percent of the conversation turns (the back-and-forth between two speakers) in a specified time period match the specified sentiment, Amazon Transcribe considers the sentiment a match.
-- **Keywords or phrases**: Matches part of the transcription based on an exact phrase. For example, if you set a filter for the phrase "I want to speak to the manager", Amazon Transcribe filters for that _exact_ phrase.
+- **Keywords or phrases**: Matches part of the transcription based on an exact phrase. For example, if you set a filter for the phrase "I want to speak to the manager", Amazon Transcribe filters for that _exact_ phrase.
 
 You can also flag the inverse of the previous criteria (talk time, lack of interruptions, a sentiment not being present, and the lack of a specific phrase).
 
-Here's an [output example](https://docs.aws.amazon.com/transcribe/latest/dg/tca-output-batch.html#tca-output-categorization-batch).
+Here's an [output example](https://docs.aws.amazon.com/transcribe/latest/dg/tca-output-batch.html#tca-output-categorization-batch).
 
-For more information on categories or to learn how to create a new category, see [Creating categories for post-call transcriptions](https://docs.aws.amazon.com/transcribe/latest/dg/tca-categories-batch.html).
+For more information on categories or to learn how to create a new category, see [Creating categories for post-call transcriptions](https://docs.aws.amazon.com/transcribe/latest/dg/tca-categories-batch.html).
 
 ### Sensitive data redaction
 
 Text transcript and your audio file
 
-Sensitive data redaction replaces personally identifiable information (PII) in the text transcript and the audio file. A redacted transcript replaces the original text with `[PII]`; a redacted audio file replaces spoken personal information with silence. This parameter is useful for protecting customer information.
+Sensitive data redaction replaces personally identifiable information (PII) in the text transcript and the audio file. A redacted transcript replaces the original text with `[PII]`; a redacted audio file replaces spoken personal information with silence. This parameter is useful for protecting customer information.
 
-Here is an [output example](https://docs.aws.amazon.com/transcribe/latest/dg/tca-output-batch.html#tca-output-pii-redact-batch).
+Here is an [output example](https://docs.aws.amazon.com/transcribe/latest/dg/tca-output-batch.html#tca-output-pii-redact-batch).
 
 ### Sentiment analysis
 
-Sentiment analysis estimates how the customer and agent are feeling throughout the call. This metric is represented as both a quantitative value (with a range from `5` to `-5`) and a qualitative value (`positive`, `neutral`, `mixed`, or `negative`). Quantitative values are provided per quarter and per call; qualitative values are provided per turn.
+Sentiment analysis estimates how the customer and agent are feeling throughout the call. This metric is represented as both a quantitative value (with a range from `5` to `-5`) and a qualitative value (`positive`, `neutral`, `mixed`, or `negative`). Quantitative values are provided per quarter and per call; qualitative values are provided per turn.
 
 This metric can help identify if your agent is able to delight an upset customer by the time the call ends.
 
 Sentiment analysis works out-of-the-box and thus doesn't support customization, such as model training or custom categories.
 
-Here's an [output example](https://docs.aws.amazon.com/transcribe/latest/dg/tca-output-batch.html#tca-output-sentiment-batch).
+Here's an [output example](https://docs.aws.amazon.com/transcribe/latest/dg/tca-output-batch.html#tca-output-sentiment-batch).
 
 ### Links
 
@@ -114,14 +114,14 @@ Here's an [output example](https://docs.aws.amazon.com/transcribe/latest/dg/tca
 
 ## Toxic Speech Detection
 
-Toxic speech detection is ==the use of artificial intelligence (AI) to identify and flag harmful language in online communications==. It helps to keep online spaces safe and inclusive by flagging toxic content like hate speech, harassment, and threats.
+Toxic speech detection is ==the use of artificial intelligence (AI) to identify and flag harmful language in online communications==. It helps to keep online spaces safe and inclusive by flagging toxic content like hate speech, harassment, and threats.
 
 ### How it works
 
 - **Classification** - Toxic speech detection is a classification task that identifies whether a comment is toxic, or what type of toxic comment it is.
 - **Machine learning** - Machine learning models like logistic regression, support vector machines (SVM), and random forests are used to detect toxic speech.
 - **Deep learning** - Deep learning models like convolutional neural networks (CNN), multi-layer perceptrons (MLP), and long short-term memory (LSTM) are used to detect toxic speech.
-- **Audio and text** - Some models use both audio and text-based cues to detect toxic speech. For example, Amazon Transcribe Toxicity Detection uses speech cues like pitch and tone in addition to text.
+- **Audio and text** - Some models use both audio and text-based cues to detect toxic speech. For example, Amazon Transcribe Toxicity Detection uses speech cues like pitch and tone in addition to text.
 
 ### Benefits
 

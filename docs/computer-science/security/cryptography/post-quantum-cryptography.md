@@ -1,8 +1,8 @@
 # Post Quantum Cryptography
 
-Post-quantum cryptography (PQC) is the development of cryptographic algorithms that are resistant to attacks from quantum computers. It's also known as quantum-proof, quantum-safe, or quantum-resistant.
+Post-quantum cryptography (PQC) is the development of cryptographic algorithms that are resistant to attacks from quantum computers. It's also known as quantum-proof, quantum-safe, or quantum-resistant.
 
-PQC algorithms are usually public-key algorithms. They rely on mathematical problems that are thought to be difficult for quantum computers to solve.
+PQC algorithms are usually public-key algorithms. They rely on mathematical problems that are thought to be difficult for quantum computers to solve.
 
 Some classes of PQC systems include:
 
@@ -27,13 +27,13 @@ Some classes of PQC systems include:
 
 ### Dilithium
 
-Dilithium is a digital signature scheme that is strongly secure under chosen message attacks based on the hardness of lattice problems over module lattices. The security notion means that an adversary having access to a signing oracle cannot produce a signature of a message whose signature he hasn't yet seen, nor produce a different signature of a message that he already saw signed. Dilithium is one of the candidate algorithms submitted to the [NIST post-quantum cryptography project](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography).
+Dilithium is a digital signature scheme that is strongly secure under chosen message attacks based on the hardness of lattice problems over module lattices. The security notion means that an adversary having access to a signing oracle cannot produce a signature of a message whose signature he hasn't yet seen, nor produce a different signature of a message that he already saw signed. Dilithium is one of the candidate algorithms submitted to the [NIST post-quantum cryptography project](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography).
 
 [Dilithium](https://pq-crystals.org/dilithium/)
 
 ## Quantum key distribution
 
-**Quantum key distribution** (**QKD**) is a [secure communication](https://en.wikipedia.org/wiki/Secure_communication "Secure communication") method that implements a [cryptographic protocol](https://en.wikipedia.org/wiki/Cryptographic_protocol "Cryptographic protocol") involving components of [quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics "Quantum mechanics"). It enables two parties to produce a shared [random](https://en.wikipedia.org/wiki/Randomness "Randomness") secret [key](https://en.wikipedia.org/wiki/Key_(cryptography) "Key (cryptography)") known only to them, which then can be used to encrypt and decrypt [messages](https://en.wikipedia.org/wiki/Messages "Messages"). The process of quantum key distribution is not to be confused with [quantum cryptography](https://en.wikipedia.org/wiki/Quantum_cryptography "Quantum cryptography"), as it is the best-known example of a quantum-cryptographic task.
+**Quantum key distribution** (**QKD**) is a [secure communication](https://en.wikipedia.org/wiki/Secure_communication "Secure communication") method that implements a [cryptographic protocol](https://en.wikipedia.org/wiki/Cryptographic_protocol "Cryptographic protocol") involving components of [quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics "Quantum mechanics"). It enables two parties to produce a shared [random](https://en.wikipedia.org/wiki/Randomness "Randomness") secret [key](https://en.wikipedia.org/wiki/Key_(cryptography) "Key (cryptography)") known only to them, which then can be used to encrypt and decrypt [messages](https://en.wikipedia.org/wiki/Messages "Messages"). The process of quantum key distribution is not to be confused with [quantum cryptography](https://en.wikipedia.org/wiki/Quantum_cryptography "Quantum cryptography"), as it is the best-known example of a quantum-cryptographic task.
 
 [Quantum key distribution - Wikipedia](https://en.wikipedia.org/wiki/Quantum_key_distribution)
 

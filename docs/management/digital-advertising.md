@@ -35,14 +35,14 @@ AdSense is for you if you need:
 
 - A place to monetize your website—blogs, forums, and online services perform exceptionally well on AdSense
 - A fast way to implement ad delivery
-- Google to optimize your ad inventory for you and maximize your revenue through [Auto Ads](https://support.google.com/adsense/answer/9261805)
+- Google to optimize your ad inventory for you and maximize your revenue through [Auto Ads](https://support.google.com/adsense/answer/9261805)
 - Accessible performance reports
 
 Auto ads use Google's smart technology to:
 
 - Understand your page structure
 - Detect any existing Google ads on your page. (Note that we're not able to detect ads from other ad networks.)
-- Automatically place new ads based on different elements such as your page layout, the amount of content on your page, and your existing Google ads. Occasionally, Auto ads might place two ads next to each other (regardless of the ads' network origin).
+- Automatically place new ads based on different elements such as your page layout, the amount of content on your page, and your existing Google ads. Occasionally, Auto ads might place two ads next to each other (regardless of the ads' network origin).
 
 Ex for adsense - https://deepaksood619.github.io/ads.txt
 
@@ -50,24 +50,24 @@ Ex for adsense - https://deepaksood619.github.io/ads.txt
 
 ### AdMob
 
-AdMob is a mobile ad network and monetization platform for mobile developers who want to earn money from ads, gain actionable insights, and grow their app business. As a network, AdMob allows you to monetize your mobile apps by helping you serve ads globally. As a monetization platform, for developers who work with multiple ad networks, AdMob helps you maximize ad revenue across all your third-party network partners.
+AdMob is a mobile ad network and monetization platform for mobile developers who want to earn money from ads, gain actionable insights, and grow their app business. As a network, AdMob allows you to monetize your mobile apps by helping you serve ads globally. As a monetization platform, for developers who work with multiple ad networks, AdMob helps you maximize ad revenue across all your third-party network partners.
 
 AdMob is for you if you need:
 
-- Access to high-performing mobile app ad formats with strong controls for brand safety
-- A solution to help you maximize ad revenue across Google and third-party networks with [waterfall mediation](https://support.google.com/admob/answer/3063564) and [bidding](https://support.google.com/admob/answer/9234488)
+- Access to high-performing mobile app ad formats with strong controls for brand safety
+- A solution to help you maximize ad revenue across Google and third-party networks with [waterfall mediation](https://support.google.com/admob/answer/3063564) and [bidding](https://support.google.com/admob/answer/9234488)
 - A holistic view of ads performance and user engagement with Google Analytics for Firebase
 - Automated tools to streamline your day-to-day tasks with features such as Ad Network Optimization
-- A solution to balance in-app purchase and ads-based revenue streams based on user behavior with [smart segmentation](https://support.google.com/admob/answer/9226552)
+- A solution to balance in-app purchase and ads-based revenue streams based on user behavior with [smart segmentation](https://support.google.com/admob/answer/9226552)
 
 ### Ad Manager
 
 Google Ad Manager is an ad management platform for large publishers who have significant direct sales. Ad Manager provides granular controls and supports multiple ad exchanges and networks, including AdSense, Ad Exchange, third-party networks, and third-party exchanges.
 
-Ad Manager is for you if you need:
+Ad Manager is for you if you need:
 
-- A central place to monetize all of your inventory types (websites, mobile apps, videos, or games)
-- To manage a significant amount of ad revenue that comes through [direct deals](https://support.google.com/admanager/answer/9248464) from buyers
+- A central place to monetize all of your inventory types (websites, mobile apps, videos, or games)
+- To manage a significant amount of ad revenue that comes through [direct deals](https://support.google.com/admanager/answer/9248464) from buyers
 - To use third-party networks to compete for ad inventory
 - More complex reports to gain granular insights
 

@@ -18,7 +18,7 @@ https://www.16personalities.com/free-personality-test
 
 ## Four temperaments
 
-The **four temperament theory** is a proto-psychological theory which suggests that there are four fundamental personality types: **sanguine**, **choleric**, **[melancholic](https://en.wikipedia.org/wiki/Melancholic "Melancholic")**, and **phlegmatic**.
+The **four temperament theory** is a proto-psychological theory which suggests that there are four fundamental personality types: **sanguine**, **choleric**, **[melancholic](https://en.wikipedia.org/wiki/Melancholic "Melancholic")**, and **phlegmatic**.
 
 [Four temperaments - Wikipedia](https://en.wikipedia.org/wiki/Four_temperaments)
 

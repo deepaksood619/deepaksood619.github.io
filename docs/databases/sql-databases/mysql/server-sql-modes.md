@@ -1,6 +1,6 @@
 # Server SQL Modes
 
-The MySQL server can operate in different SQL modes, and can apply these modes differently for different clients, depending on the value of the [`sql_mode`](https://dev.mysql.com/doc/refman/8.4/en/server-system-variables.html#sysvar_sql_mode) system variable. DBAs can set the global SQL mode to match site server operating requirements, and each application can set its session SQL mode to its own requirements.
+The MySQL server can operate in different SQL modes, and can apply these modes differently for different clients, depending on the value of the [`sql_mode`](https://dev.mysql.com/doc/refman/8.4/en/server-system-variables.html#sysvar_sql_mode) system variable. DBAs can set the global SQL mode to match site server operating requirements, and each application can set its session SQL mode to its own requirements.
 
 ```sql
 SET GLOBAL sql_mode = 'modes';
@@ -20,7 +20,7 @@ When replicating partitioned tables, differing SQL modes on the source and repli
 
 - [`ANSI`](https://dev.mysql.com/doc/refman/8.4/en/sql-mode.html#sqlmode_ansi)
 
-    This mode changes syntax and behavior to conform more closely to standard SQL. It is one of the special [combination modes](https://dev.mysql.com/doc/refman/8.4/en/sql-mode.html#sql-mode-combo "Combination SQL Modes") listed at the end of this section.
+    This mode changes syntax and behavior to conform more closely to standard SQL. It is one of the special [combination modes](https://dev.mysql.com/doc/refman/8.4/en/sql-mode.html#sql-mode-combo "Combination SQL Modes") listed at the end of this section.
 
 - [`STRICT_TRANS_TABLES`](https://dev.mysql.com/doc/refman/8.4/en/sql-mode.html#sqlmode_strict_trans_tables)
 
@@ -28,7 +28,7 @@ When replicating partitioned tables, differing SQL modes on the source and repli
 
 - [`TRADITIONAL`](https://dev.mysql.com/doc/refman/8.4/en/sql-mode.html#sqlmode_traditional)
 
-    Make MySQL behave like a "traditional" SQL database system. A simple description of this mode is "give an error instead of a warning" when inserting an incorrect value into a column. It is one of the special [combination modes](https://dev.mysql.com/doc/refman/8.4/en/sql-mode.html#sql-mode-combo "Combination SQL Modes") listed at the end of this section.
+    Make MySQL behave like a "traditional" SQL database system. A simple description of this mode is "give an error instead of a warning" when inserting an incorrect value into a column. It is one of the special [combination modes](https://dev.mysql.com/doc/refman/8.4/en/sql-mode.html#sql-mode-combo "Combination SQL Modes") listed at the end of this section.
 
 - [`ALLOW_INVALID_DATES`](https://dev.mysql.com/doc/refman/8.4/en/sql-mode.html#sqlmode_allow_invalid_dates)
 - [`ANSI_QUOTES`](https://dev.mysql.com/doc/refman/8.4/en/sql-mode.html#sqlmode_ansi_quotes)

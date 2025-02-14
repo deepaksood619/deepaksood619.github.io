@@ -98,7 +98,7 @@ https://konghq.com/blog/the-difference-between-api-gateways-and-service-mesh
 
 ### [API Platform | Tailcall](https://tailcall.run/)
 
-A cloud native solution to streamline API management across **edge**, **middle**, and **service**
+A cloud native solution to streamline API management across **edge**, **middle**, and **service**
 
 [Problem Statement | Tailcall](https://tailcall.run/docs/)
 

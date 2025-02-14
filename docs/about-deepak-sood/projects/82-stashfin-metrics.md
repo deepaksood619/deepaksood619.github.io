@@ -9,7 +9,7 @@
 - Number of commits and MRs
 - Test cases
     - CodeCoverage
-- SonarQube - Smells and Errors / CodeClimate
+- SonarQube - Smells and Errors / CodeClimate
     - Number of bugs in module
 - Sentry alerts
 - ECR Images
@@ -31,7 +31,7 @@
 - Pod usage
 - DB Audit logs
 - CloudFlare metrics
-- Loki -  logs - search for error
+- Loki -  logs - search for error
 
 ### Databases
 

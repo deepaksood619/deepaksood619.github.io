@@ -130,8 +130,8 @@ delete from task_instance where execution_date::date < '2021-01-13 21:00:00+0';
 ### Administration
 
 ```sql
--- Postgres 14 adds the predefined, non-login roles [**`pg_read_all_data`** / **`pg_write_all_data`**](https://www.postgresql.org/docs/current/predefined-roles.html).
--- They have `SELECT` / `INSERT`, `UPDATE`, `DELETE` privileges for _all_ tables, views, and sequences. Plus `USAGE` on schemas. We can `GRANT` membership in these roles:
+-- Postgres 14 adds the predefined, non-login roles [**`pg_read_all_data`** / **`pg_write_all_data`**](https://www.postgresql.org/docs/current/predefined-roles.html).
+-- They have `SELECT` / `INSERT`, `UPDATE`, `DELETE` privileges for _all_ tables, views, and sequences. Plus `USAGE` on schemas. We can `GRANT` membership in these roles:
 
 GRANT pg_read_all_data TO my_user;
 GRANT pg_write_all_data TO my_user;

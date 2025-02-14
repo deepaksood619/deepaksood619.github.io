@@ -1,8 +1,8 @@
 # Vector Embeddings
 
-**Vector embeddings are a way to convert words and sentences and other data into numbers that capture their meaning and relationships.** They represent different data types as points in a multidimensional space, where similar data points are clustered closer together. These numerical representations help machines understand and process this data more effectively.
+**Vector embeddings are a way to convert words and sentences and other data into numbers that capture their meaning and relationships.** They represent different data types as points in a multidimensional space, where similar data points are clustered closer together. These numerical representations help machines understand and process this data more effectively.
 
-[Word](https://www.elastic.co/what-is/word-embedding) and sentence embeddings are two of the most common subtypes of vector embeddings, but there are others. Some vector embeddings can represent entire documents, as well as image vectors designed to match up visual content, user profile vectors to determine a user’s preferences, product vectors that help identify similar products and many others. Vector embeddings help [machine learning](https://www.elastic.co/what-is/machine-learning) algorithms find patterns in data and perform tasks such as [sentiment analysis](https://www.elastic.co/what-is/sentiment-analysis), language translation, recommendation systems, and many more.
+[Word](https://www.elastic.co/what-is/word-embedding) and sentence embeddings are two of the most common subtypes of vector embeddings, but there are others. Some vector embeddings can represent entire documents, as well as image vectors designed to match up visual content, user profile vectors to determine a user’s preferences, product vectors that help identify similar products and many others. Vector embeddings help [machine learning](https://www.elastic.co/what-is/machine-learning) algorithms find patterns in data and perform tasks such as [sentiment analysis](https://www.elastic.co/what-is/sentiment-analysis), language translation, recommendation systems, and many more.
 
 ![vector-embeddings](../../media/Pasted%20image%2020231216192551.jpg)
 
@@ -26,7 +26,7 @@ Represent images as vectors by capturing different visual features. Techniques l
 
 #### User embeddings
 
-Represent users in a system or platform as vectors. They capture user preferences, [behaviors](https://www.elastic.co/what-is/user-behavior-analytics), and characteristics. User embeddings can be used in everything from recommendation systems to personalized marketing as well as user segmentation.
+Represent users in a system or platform as vectors. They capture user preferences, [behaviors](https://www.elastic.co/what-is/user-behavior-analytics), and characteristics. User embeddings can be used in everything from recommendation systems to personalized marketing as well as user segmentation.
 
 #### Product embeddings
 

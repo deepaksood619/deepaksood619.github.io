@@ -46,7 +46,7 @@ This technique is useful for dimension tables, which are frequently used tables 
 
 ## Shuffling
 
-**Apache Spark processes queries by distributing data over multiple nodes and calculating the values separately on every node.** However, occasionally, **the nodes need to exchange the data**. After all, that’s the purpose of Spark - processing data that doesn’t fit on a single machine.
+**Apache Spark processes queries by distributing data over multiple nodes and calculating the values separately on every node.** However, occasionally, **the nodes need to exchange the data**. After all, that’s the purpose of Spark - processing data that doesn’t fit on a single machine.
 
 **Shuffling is the process of exchanging data between partitions**. As a result, data rows can move between worker nodes when their source partition and the target partition reside on a different machine.
 

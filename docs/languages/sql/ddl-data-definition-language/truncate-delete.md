@@ -12,7 +12,7 @@
 
 ### Truncate
 
-**TRUNCATE** is a DDL command which removes the contents of the table while leaving the structure in place. Removes all rows from the given table.
+**TRUNCATE** is a DDL command which removes the contents of the table while leaving the structure in place. Removes all rows from the given table.
 
 Example:
 
@@ -28,15 +28,15 @@ SELECT * FROM tranTest
 
 Performance - 283,897,938 rows truncate - 56.239 sec
 
-[`TRUNCATE TABLE`](https://dev.mysql.com/doc/refman/8.0/en/truncate-table.html "15.1.37 TRUNCATE TABLE Statement") empties a table completely. It requires the [`DROP`](https://dev.mysql.com/doc/refman/8.0/en/privileges-provided.html#priv_drop) privilege. Logically, [`TRUNCATE TABLE`](https://dev.mysql.com/doc/refman/8.0/en/truncate-table.html "15.1.37 TRUNCATE TABLE Statement") is similar to a [`DELETE`](https://dev.mysql.com/doc/refman/8.0/en/delete.html "15.2.2 DELETE Statement") statement that deletes all rows, or a sequence of [`DROP TABLE`](https://dev.mysql.com/doc/refman/8.0/en/drop-table.html "15.1.32 DROP TABLE Statement") and [`CREATE TABLE`](https://dev.mysql.com/doc/refman/8.0/en/create-table.html "15.1.20 CREATE TABLE Statement") statements.
+[`TRUNCATE TABLE`](https://dev.mysql.com/doc/refman/8.0/en/truncate-table.html "15.1.37 TRUNCATE TABLE Statement") empties a table completely. It requires the [`DROP`](https://dev.mysql.com/doc/refman/8.0/en/privileges-provided.html#priv_drop) privilege. Logically, [`TRUNCATE TABLE`](https://dev.mysql.com/doc/refman/8.0/en/truncate-table.html "15.1.37 TRUNCATE TABLE Statement") is similar to a [`DELETE`](https://dev.mysql.com/doc/refman/8.0/en/delete.html "15.2.2 DELETE Statement") statement that deletes all rows, or a sequence of [`DROP TABLE`](https://dev.mysql.com/doc/refman/8.0/en/drop-table.html "15.1.32 DROP TABLE Statement") and [`CREATE TABLE`](https://dev.mysql.com/doc/refman/8.0/en/create-table.html "15.1.20 CREATE TABLE Statement") statements.
 
-To achieve high performance, [`TRUNCATE TABLE`](https://dev.mysql.com/doc/refman/8.0/en/truncate-table.html "15.1.37 TRUNCATE TABLE Statement") bypasses the DML method of deleting data. Thus, it does not cause `ON DELETE` triggers to fire, it cannot be performed for `InnoDB` tables with parent-child foreign key relationships, and it cannot be rolled back like a DML operation. However, `TRUNCATE TABLE` operations on tables that use an atomic DDL-supported storage engine are either fully committed or rolled back if the server halts during their operation.
+To achieve high performance, [`TRUNCATE TABLE`](https://dev.mysql.com/doc/refman/8.0/en/truncate-table.html "15.1.37 TRUNCATE TABLE Statement") bypasses the DML method of deleting data. Thus, it does not cause `ON DELETE` triggers to fire, it cannot be performed for `InnoDB` tables with parent-child foreign key relationships, and it cannot be rolled back like a DML operation. However, `TRUNCATE TABLE` operations on tables that use an atomic DDL-supported storage engine are either fully committed or rolled back if the server halts during their operation.
 
 [15.1.37 TRUNCATE TABLE Statement](https://dev.mysql.com/doc/refman/8.0/en/truncate-table.html)
 
 ### Delete
 
-**DELETE** is a DML command which removes rows given a WHERE clause
+**DELETE** is a DML command which removes rows given a WHERE clause
 
 Example:
 
@@ -234,23 +234,23 @@ A big delete needs to
 - Locate the rows to delete
 - Lock the rows -- to keep others from making a mess
 - Save a copy of each row that is being deleted (in case of crash/rollback)
-- Update indexes (some of this is delayed until after the `DELETE` completes)
-- Clean up the deleted rows (at `COMMIT` time)
+- Update indexes (some of this is delayed until after the `DELETE` completes)
+- Clean up the deleted rows (at `COMMIT` time)
 
 Performance issues:
 
 - MySQL does most of this in a single CPU -- so, more cores won't help
 - CPU speed is not the gating factor -- anyway, today's CPUs are only slightly faster than decade-old cpus.
 - Disk speed matters -- but most machines use SSDs today
-- Cloud services "provision" IOPs. This _can_ matter. (But let's try to diminish the number of IOPs _needed_.)
+- Cloud services "provision" IOPs. This _can_ matter. (But let's try to diminish the number of IOPs _needed_.)
 - Disk size does not matter -- well, it does matter if you fill up disk with the old copies of the rows.
 
 That is, a more powerful server won't help much.
 
-What _can_ help is to answer these questions:
+What _can_ help is to answer these questions:
 
 - If most of the rows are to be deleted, there is a much faster way
-- If the rows being deleted are "old" rows, plan ahead with `PARTITIONing`. (This is viable _only_ if you can replace `DELETE` with `DROP PARTITION`.)
+- If the rows being deleted are "old" rows, plan ahead with `PARTITIONing`. (This is viable _only_ if you can replace `DELETE` with `DROP PARTITION`.)
 - If the above fail, are you deleting in batches? (A batch of about 1000 rows is nearly optimal. It will be several times as fast as one-at-a-time. And going above 1000 won't buy much, if any, performance.)
 
 [mysql - Can a powerful machine improve performance of DELETE? - Stack Overflow](https://stackoverflow.com/questions/65119586/can-a-powerful-machine-improve-performance-of-delete)
