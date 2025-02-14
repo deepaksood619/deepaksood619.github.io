@@ -134,6 +134,7 @@ Perfect for developers, architects, and data engineers looking to master real-ti
 - Spotify Code & Deploy - [How to Build a Data Streaming Platform - Introduction to Stream Processing, Stream Governance with Kafka and Flink. - Code and Deploy by BuildPiper \| Podcast on Spotify](https://open.spotify.com/episode/4aA64Ghofsv3RDa9f5ITw5?si=VovVIE0YTw2xpq-GQz8uJw&nd=1&dlsi=7ac06a271023469b)
 - Transcript - [Podcast - Stream Processing using Kafka and Flink](about-deepak-sood/projects/43-podcast-stream-processing-using-kafka-and-flink.md)
 - Raw Recording - [Raw Recording - Podcast - Stream Processing using Kafka and Flink](https://drive.google.com/file/d/1FLiWYSlUP3oHc954fuVVYxAmQKv35pZz/view?usp=drive_link)
+- [Buildpiper - By Opstree on LinkedIn: #codeanddeploy #buildwithbuildpiper #kafka #flink #datastreaming #podcast…](https://www.linkedin.com/feed/update/urn:li:activity:7295336849651224576/)
 
 ### Kong in Action: Simplifying API Management for Modern Applications - Kong (14 December 2024)
 
