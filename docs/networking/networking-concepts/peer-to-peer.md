@@ -42,7 +42,7 @@ Here is a general overview of how a P2P network operates.
 
 ### Node Initialization
 
-When a new node in a P2P network boots up, it doesn’t know anything about the network, because there is no central server. Usually, developers provide a list of trusted nodes written directly into the code of the P2P client application that can be used for initial peer discovery. These trusted nodes could be centralized servers or peers depending upon the P2P application.  
+When a new node in a P2P network boots up, it doesn’t know anything about the network, because there is no central server. Usually, developers provide a list of trusted nodes written directly into the code of the P2P client application that can be used for initial peer discovery. These trusted nodes could be centralized servers or peers depending upon the P2P application.
 
 A node is usually identified by the following node triple: IP address, Port number, and node ID. The node ID should be unique with no collisions between peers. There are several methods to achieve this:
 

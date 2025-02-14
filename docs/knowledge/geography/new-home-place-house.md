@@ -123,7 +123,7 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 - Near beach & independent house with open areas and no humidity and no huge temperature variance (in a different country, with low income tax and high HDI, happiness index, low crime, low inequality, good education, no racism)
 - https://www.thehindu.com/real-estate/the-occupancy-certificate-why-it-is-now-more-important-than-ever/article19294876.ece
 - Natural Disaster area - earthquake, tsunami, hurricane, flood, drought, etc
-    -  Global Seismic Hazard Map
+    - Global Seismic Hazard Map
 - **Don't buy a house more than 50 lakhs in India (1 crore house in america gives you a condo)**
     - In $300,000 (2.5 crore) you can get a 5 bedroom condo
 - Buy home from bank auctions - [auction property: Is it safe to buy auction property? Six things a buyer need to keep in mind - The Economic Times](https://economictimes.indiatimes.com/wealth/real-estate/is-it-safe-to-buy-auction-property-six-things-a-buyer-need-to-keep-in-mind/articleshow/103044435.cms)

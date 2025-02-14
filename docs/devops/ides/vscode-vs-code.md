@@ -15,8 +15,10 @@
 - https://vscode.dev
 - https://github.com/conwnet/github1s
 - Gitpod - https://www.freecodecamp.org/news/exampro-cloud-developer-environment-certification-gitpod-course
-
-codeanywhere
+- [Project IDX](https://idx.dev/) - Google
+	- [Project IDX  \|  Google for Developers](https://developers.google.com/idx)
+	- Project IDX is an AI-assisted workspace for full-stack, multiplatform app development in the cloud. With support for a broad range of frameworks, languages, and services, alongside integrations with your favorite Google products, IDX streamlines your development workflow so you can build and ship apps across platforms with speed, ease, and quality.
+- codeanywhere
 
 ## Extensions
 

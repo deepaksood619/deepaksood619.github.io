@@ -34,7 +34,7 @@ MLOps is an engineering discipline that aims to unify ML systems development (de
 - Deploy ML models
 - Iterate - Monitor, optimize and maintain the performance of the model
 
-###  Deploying models to the production system
+### Deploying models to the production system
 
 There are mainly two ways of deploying an ML model:
 

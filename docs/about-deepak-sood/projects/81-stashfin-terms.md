@@ -48,7 +48,7 @@ This fee is what we call Switching Fee in the payment ecosystem. This fee can 
 
 ### Interchange Fee
 
-An interchange fee is an amount that the issuing institutions collect from the acquiring bank. Usually, this fee is a percentage of the total transaction plus a fixed amount. And while the issuing institutions collect, assess and set this fee, they are paid to the issuing bank, who issue a particular card.  
+An interchange fee is an amount that the issuing institutions collect from the acquiring bank. Usually, this fee is a percentage of the total transaction plus a fixed amount. And while the issuing institutions collect, assess and set this fee, they are paid to the issuing bank, who issue a particular card.
 
 Please note that the average interchange rate for a credit card is around 1.81% and for debit cards, it’s 0.3%.
 
