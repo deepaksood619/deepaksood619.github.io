@@ -19,8 +19,8 @@
 <meta name="theme-color" content="rgb(53, 120, 229)">
 
 <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.de817004.css">
-<script src="/assets/js/runtime~main.afb2852f.js" defer="defer"></script>
-<script src="/assets/js/main.c6fadc63.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.60e0cf92.js" defer="defer"></script>
+<script src="/assets/js/main.dee1737a.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -36,18 +36,18 @@
 <p>How are IOPS calculated? Buckle up.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="sneaky-thing-1-calculating-iops">Sneaky Thing #1: Calculating IOPS<a href="#sneaky-thing-1-calculating-iops" class="hash-link" aria-label="Direct link to Sneaky Thing #1: Calculating IOPS" title="Direct link to Sneaky Thing #1: Calculating IOPS">​</a></h3>
 <blockquote>
-<p>TL;DR: If an I/O operation is &gt; <code>256 KiB</code>, the operation is split into multiple operations.</p>
+<p>TL;DR: If an I/O operation is &gt; <code>256 KiB</code>, the operation is split into multiple operations.</p>
 </blockquote>
-<p>In AWS, each operation is capped at <code>256 KiB</code> of data. Operations over <code>256 KiB</code> are split into multiple operations.</p>
-<p>This means that if you perform an operation of <code>1024 KiB</code>, that&#x27;s 4 IOPS (<code>1024/256 = 4</code>).</p>
+<p>In AWS, each operation is capped at <code>256 KiB</code> of data. Operations over <code>256 KiB</code> are split into multiple operations.</p>
+<p>This means that if you perform an operation of <code>1024 KiB</code>, that&#x27;s 4 IOPS (<code>1024/256 = 4</code>).</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="iops-limits">IOPS Limits<a href="#iops-limits" class="hash-link" aria-label="Direct link to IOPS Limits" title="Direct link to IOPS Limits">​</a></h3>
 <blockquote>
-<p>TL;DR: You can hit your IOPS limits more quickly if each operation is large (&gt; than <code>256 KiB</code>).</p>
+<p>TL;DR: You can hit your IOPS limits more quickly if each operation is large (&gt; than <code>256 KiB</code>).</p>
 </blockquote>
 <p>I won&#x27;t call this one sneaky, as IOPS limits are what every article on the internet talks about (and what AWS documentation seems to concentrate on).</p>
 <p>Your workloads may do a lot of operations, or they may do large operations.</p>
 <p>If a workload is doing many operations, it may hit a volume&#x27;s cap of IOPS.</p>
-<p>Additionally, <em>larger</em> operations may increase the IOPS count, making you reach IOPS limits more quickly.</p>
+<p>Additionally, <em>larger</em> operations may increase the IOPS count, making you reach IOPS limits more quickly.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="sneaky-thing-2-throughput-limits">Sneaky Thing #2: Throughput Limits<a href="#sneaky-thing-2-throughput-limits" class="hash-link" aria-label="Direct link to Sneaky Thing #2: Throughput Limits" title="Direct link to Sneaky Thing #2: Throughput Limits">​</a></h3>
 <blockquote>
 <p>TL;DR: You can easily hit throughput limits before IOPS limits.</p>
@@ -55,21 +55,21 @@
 <p>This is where IOPS get a bit more interesting.</p>
 <p><strong>It&#x27;s possible, perhaps even likely, to hit a volume&#x27;s throughput limits before hitting IOPS limits</strong>.</p>
 <p>In other words, you may not reach the IOPS your disk is capable of providing because you&#x27;re reading/writing too much data at once.</p>
-<p><strong>Here&#x27;s an example:</strong> If your operations are <code>256 KiB</code> in size, and the volume&#x27;s max throughput is <code>250 MiB/s</code>, then the volume can only reach 1000 IOPS.</p>
-<p>This is because <code>1000 * 256 KiB = 250 MiB</code>. In other words, 1000 IOPS of <code>256 KiB</code> sized read/write operations is hitting the throughput limit of <code>250 MiB/s</code>.</p>
+<p><strong>Here&#x27;s an example:</strong> If your operations are <code>256 KiB</code> in size, and the volume&#x27;s max throughput is <code>250 MiB/s</code>, then the volume can only reach 1000 IOPS.</p>
+<p>This is because <code>1000 * 256 KiB = 250 MiB</code>. In other words, 1000 IOPS of <code>256 KiB</code> sized read/write operations is hitting the throughput limit of <code>250 MiB/s</code>.</p>
 <blockquote>
 <p>Where did I get those numbers for this example? Somewhat arbitrarily:</p>
-<p><code>256 KiB</code> is the cap before an operation is split into multiple IOPS.</p>
-<p><code>250 MiB/s</code> is a gp2&#x27;s volume max throughput</p>
+<p><code>256 KiB</code> is the cap before an operation is split into multiple IOPS.</p>
+<p><code>250 MiB/s</code> is a gp2&#x27;s volume max throughput</p>
 </blockquote>
 <p>The actual throughput limit varies by disk type (gp2 vs gp3) and their throughput settings. Max throughput it hit 334 GB storage on gp2.</p>
 <ul>
-<li>GP2 throughput is <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html#GP2Throughput" target="_blank" rel="noopener noreferrer">calculated by this math</a>.<!-- -->
+<li>GP2 throughput is <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html#GP2Throughput" target="_blank" rel="noopener noreferrer">calculated by this math</a>.<!-- -->
 <ul>
 <li>You increase your gp2 throughput by provisioning more storage</li>
 </ul>
 </li>
-<li>GP3 throughput is set explicity (you pay extra if you configure anything over <code>125 MB/s</code>)<!-- -->
+<li>GP3 throughput is set explicity (you pay extra if you configure anything over <code>125 MB/s</code>)<!-- -->
 <ul>
 <li>You can explicitly increase a gp3 volume&#x27;s throughput</li>
 </ul>
@@ -79,16 +79,16 @@
 <p>For added fun, EC2 instances have their own throughput limitations that you may hit as well. It seems like this is less likely on newer instance types, but keep an eye on your instance network I/O charts.</p>
 </blockquote>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="sneaky-thing-3-volume-queue">Sneaky Thing #3: Volume Queue<a href="#sneaky-thing-3-volume-queue" class="hash-link" aria-label="Direct link to Sneaky Thing #3: Volume Queue" title="Direct link to Sneaky Thing #3: Volume Queue">​</a></h3>
-<p>It&#x27;s possible to have <em>pending</em> I/O operations on a device (&quot;device&quot;, meaning a disk drive).</p>
+<p>It&#x27;s possible to have <em>pending</em> I/O operations on a device (&quot;device&quot;, meaning a disk drive).</p>
 <p>Higher values are bad - it means the volume isn&#x27;t keeping up with the IOPS being requested.</p>
-<p>There&#x27;s a CloudWatch metric named <code>VolumeQueueLength</code> (or just Queue Length in the web UI) that describes this. <strong>More details on that below.</strong></p>
+<p>There&#x27;s a CloudWatch metric named <code>VolumeQueueLength</code> (or just Queue Length in the web UI) that describes this. <strong>More details on that below.</strong></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="gp2-vs-gp3-ebs">GP2 vs GP3 EBS<a href="#gp2-vs-gp3-ebs" class="hash-link" aria-label="Direct link to GP2 vs GP3 EBS" title="Direct link to GP2 vs GP3 EBS">​</a></h2>
 <p>Let&#x27;s take a quick break on &quot;sneaky&quot; things to talk about the most common volume types - gp2 or gp3.</p>
 <p>GP3 exists (and you should use them), but gp2 volume types are still the default when creating an EC2 instance, and are all you can get for RDS databases.</p>
 <p>Here&#x27;s what to know about them.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="gp2-volumes">GP2 Volumes<a href="#gp2-volumes" class="hash-link" aria-label="Direct link to GP2 Volumes" title="Direct link to GP2 Volumes">​</a></h3>
-<p><strong>GP2</strong> volumes scale IOPS with the size of the drive. <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html#EBSVolumeTypes_gp2" target="_blank" rel="noopener noreferrer">You get 3 IOPS for every GB of storage</a>. You get a minimum of 100 IOPS for disks below 33.33333 GB.</p>
-<p>Your throughput scales up with storage aslso. As noted <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html#GP2Throughput" target="_blank" rel="noopener noreferrer">calculating gp2 throughput</a> is annoying. GP2 throughput caps out at <code>250 MiB/s</code>.</p>
+<p><strong>GP2</strong> volumes scale IOPS with the size of the drive. <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html#EBSVolumeTypes_gp2" target="_blank" rel="noopener noreferrer">You get 3 IOPS for every GB of storage</a>. You get a minimum of 100 IOPS for disks below 33.33333 GB.</p>
+<p>Your throughput scales up with storage aslso. As noted <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html#GP2Throughput" target="_blank" rel="noopener noreferrer">calculating gp2 throughput</a> is annoying. GP2 throughput caps out at <code>250 MiB/s</code>.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="sneaky-thing-4-gp2--burstable-iops">Sneaky Thing #4: GP2 &amp; Burstable IOPS<a href="#sneaky-thing-4-gp2--burstable-iops" class="hash-link" aria-label="Direct link to Sneaky Thing #4: GP2 &amp; Burstable IOPS" title="Direct link to Sneaky Thing #4: GP2 &amp; Burstable IOPS">​</a></h3>
 <p>GP2 volumes of less than 1000 GB can burst up to 3000 IOPS. These use a credit system. Once you run out of burst credits the volume is reduced to its baseline amount of IOPS.</p>
 <p>Burst credits increase over time while the IOPS count is under the volume&#x27;s baseline IOPS.</p>
@@ -96,7 +96,7 @@
 <p><strong>The only aspect of gp2 volumes you directly control is the amount of storage (in Gigabytes) in a volume.</strong></p>
 <p>For the longest time, AWS was happy to allow you to work through IOPS and throughput limitations by buying more storage than you needed.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="gp3-volumes">GP3 Volumes<a href="#gp3-volumes" class="hash-link" aria-label="Direct link to GP3 Volumes" title="Direct link to GP3 Volumes">​</a></h3>
-<p><strong>GP3</strong> volumes are the newer type. They&#x27;re cheaper (at their baseline) than GP2, and provide <em>consistent</em> performance. No bursting.</p>
+<p><strong>GP3</strong> volumes are the newer type. They&#x27;re cheaper (at their baseline) than GP2, and provide <em>consistent</em> performance. No bursting.</p>
 <p><strong>GP3 should be your go-to volume type.</strong></p>
 <p>These volumes start at 3000 IOPS and 125 MB/s throughput (extremely reasonable vs gp2, where you probably have something like 100 IOPS and less throughput).</p>
 <p>You can size IOPS and throughput independently (<a href="https://aws.amazon.com/ebs/general-purpose/" target="_blank" rel="noopener noreferrer">for a fee</a>).</p>
@@ -104,7 +104,7 @@
 <p>Migrating from gp2 to gp3 is very easy - essentially just a API call or a few clicks in the console. However there may be a speed penality while AWS &quot;optimizes&quot; the EBS drive after changing to gp3.</p>
 </blockquote>
 <p>Being able to size gp3 drives in this way gives you the ability to be cost effective in sizing your volumes. For example, you create create a 30 GB volume but bump up the throughput much higher.</p>
-<p>Using gp3 can be more <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html" target="_blank" rel="noopener noreferrer">price-efficient than purchasing provisioned IOPS drives such as io2</a>.</p>
+<p>Using gp3 can be more <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html" target="_blank" rel="noopener noreferrer">price-efficient than purchasing provisioned IOPS drives such as io2</a>.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="is-my-ebs-volume-a-bottleneck">Is my EBS Volume a Bottleneck?<a href="#is-my-ebs-volume-a-bottleneck" class="hash-link" aria-label="Direct link to Is my EBS Volume a Bottleneck?" title="Direct link to Is my EBS Volume a Bottleneck?">​</a></h2>
 <p>OK, so how do you know if your EBS volumes are a bottleneck?</p>
 <p>You need to watch certain metrics in CloudWatch. Here are the important ones.</p>
@@ -114,13 +114,13 @@
 <p>This metric is a percentage, applying to gp2 volumes (and a few others that have bursting).</p>
 <p>GP2 volumes can burst up to 3000 IOPS.</p>
 <p>As a volume bursts beyond its base IOPS, the burst balance decreases. Reaching 0% of its burst balance means the volume will be capped at it&#x27;s baseline IOPS - as low as 100.</p>
-<p>GP3 volumes don&#x27;t have any bursting, so those will not have a <code>BurstBalance</code> metric.</p>
+<p>GP3 volumes don&#x27;t have any bursting, so those will not have a <code>BurstBalance</code> metric.</p>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="volumequeuelength"><code>VolumeQueueLength</code><a href="#volumequeuelength" class="hash-link" aria-label="Direct link to volumequeuelength" title="Direct link to volumequeuelength">​</a></h4>
 <p>This measures the number of operations &quot;pending&quot; - waiting to be processed by the EBS volume. A higher (or growing) number is bad.</p>
 <p>If your queue length is high, it means your workload is doing more operations than the volume can handle. This is indicitive of some combination of too many operations and/or too much data throughput.</p>
-<p><strong>What is a high queue length?</strong> AWS doesn&#x27;t have a great answer - basically saying <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-io-characteristics.html#ebs-io-volume-queue" target="_blank" rel="noopener noreferrer">&quot;it depends!&quot;</a>.</p>
+<p><strong>What is a high queue length?</strong> AWS doesn&#x27;t have a great answer - basically saying <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-io-characteristics.html#ebs-io-volume-queue" target="_blank" rel="noopener noreferrer">&quot;it depends!&quot;</a>.</p>
 <p>I happen to manage some overly-provisioned volumes, and can look at mine to serve as a baseline for what you see (your mileage may vary).</p>
-<p>What I see is that lighter workloads are well below a value of 1, something like <code>0.00008</code>.</p>
+<p>What I see is that lighter workloads are well below a value of 1, something like <code>0.00008</code>.</p>
 <p>For heavy workloads, this number is usually below 2 with occasional spikes, all below a value of 10.</p>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="volumereadwritebytesops"><code>Volume[Read/Write][Bytes/Ops]</code><a href="#volumereadwritebytesops" class="hash-link" aria-label="Direct link to volumereadwritebytesops" title="Direct link to volumereadwritebytesops">​</a></h4>
 <p>This set of metrics tells you how many bytes are being read/written, and how many operations are happening.</p>
@@ -145,7 +145,7 @@
 </ol>
 <p>Despite me going crazy not being able to find out what these metrics are really measuring, the last link has a useful explanation of these metrics and how to use them:</p>
 <blockquote>
-<p>You can use the <code>EBSIOBalance%</code> and <code>EBSByteBalance%</code> metrics to help you determine whether your instances are sized correctly. [...] These metrics are expressed as a percentage. <strong>Instances with a consistently low balance percentage are candidates to size up. Instances where the balance percentage never drops below 100% are candidates for downsizing.</strong></p>
+<p>You can use the <code>EBSIOBalance%</code> and <code>EBSByteBalance%</code> metrics to help you determine whether your instances are sized correctly. [...] These metrics are expressed as a percentage. <strong>Instances with a consistently low balance percentage are candidates to size up. Instances where the balance percentage never drops below 100% are candidates for downsizing.</strong></p>
 </blockquote>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="rds-instance-storage--metrics">RDS Instance Storage &amp; Metrics<a href="#rds-instance-storage--metrics" class="hash-link" aria-label="Direct link to RDS Instance Storage &amp; Metrics" title="Direct link to RDS Instance Storage &amp; Metrics">​</a></h2>
 <p>RDS-related CloudWatch metrics don&#x27;t separate the EBS volumes from the database instance itself.</p>
@@ -161,19 +161,19 @@
 <blockquote>
 <p>You can also use io2 volumes - these are a &quot;provisioned IOPS&quot; type of volume, where you pay for a certain number of IOPS. This is typically more expensive than just adding more gp2 storage, but do the math yourself to see for your case.</p>
 </blockquote>
-<p>One <em>extremely</em> popular &quot;trick&quot; (if lighting money on fire is a trick) is to scale an RDS&#x27;s gp2 volume up to 5,334 GB.</p>
+<p>One <em>extremely</em> popular &quot;trick&quot; (if lighting money on fire is a trick) is to scale an RDS&#x27;s gp2 volume up to 5,334 GB.</p>
 <p>This not only removes any bursting (remember, bursting goes away at 1,000 GB of gp2 storage), but also reaches the max gp2 IOPS of 16,000. Max throughput it hit 334 GB storage on gp2.</p>
-<p>You can see a table of storage size vs IOPS and burst duration (how long a sustained burst will last) in the <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html#EBSVolumeTypes_gp2" target="_blank" rel="noopener noreferrer">table here</a>, just below the graph.</p>
-<p><strong>Scaling RDS storage is one-way.</strong> Once you scale-up, you can&#x27;t scale down (without creating a new RDS instance and migrating data over).</p>
+<p>You can see a table of storage size vs IOPS and burst duration (how long a sustained burst will last) in the <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html#EBSVolumeTypes_gp2" target="_blank" rel="noopener noreferrer">table here</a>, just below the graph.</p>
+<p><strong>Scaling RDS storage is one-way.</strong> Once you scale-up, you can&#x27;t scale down (without creating a new RDS instance and migrating data over).</p>
 <p>If you&#x27;re looking to remove EBS bottlenecks in your RDS instance, you may find that giving your database 1000 GB is sufficient as a starting point.</p>
-<p>At a price of <code>$0.115</code> per GB (us-east-1 and us-east-2), getting 1,000 GB of storage is a monthly cost of <code>$115.00</code> for single-az and <code>$230.00</code> for multi-az.</p>
-<p>At a price of <code>$0.115</code> per GB (us-east-1 and us-east-2), getting 5,334 GB of storage is a monthly cost of <code>$613.41</code> for single-az and <code>$1226.82</code> for multi-az.</p>
+<p>At a price of <code>$0.115</code> per GB (us-east-1 and us-east-2), getting 1,000 GB of storage is a monthly cost of <code>$115.00</code> for single-az and <code>$230.00</code> for multi-az.</p>
+<p>At a price of <code>$0.115</code> per GB (us-east-1 and us-east-2), getting 5,334 GB of storage is a monthly cost of <code>$613.41</code> for single-az and <code>$1226.82</code> for multi-az.</p>
 <blockquote>
 <p>Don&#x27;t feel bad if that price point seems shockingly high. I was surprised to find that many companies wouldn&#x27;t bat an eye at this added expense and had to recalibrate my ideas of how much money is thrown at AWS.</p>
 </blockquote>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="aurora-ebs-performance">Aurora EBS Performance<a href="#aurora-ebs-performance" class="hash-link" aria-label="Direct link to Aurora EBS Performance" title="Direct link to Aurora EBS Performance">​</a></h3>
 <p>Aurora is a special case. When creating an Aurora database, you&#x27;ll notice that you don&#x27;t really get any data volume configuration.</p>
-<p>What kind of performance can you expect? The only clue I found was <a href="https://aws.amazon.com/blogs/database/best-storage-practices-for-running-production-workloads-on-hosted-databases-with-amazon-rds-or-amazon-ec2/" target="_blank" rel="noopener noreferrer">at the very end of this blog article</a>.</p>
+<p>What kind of performance can you expect? The only clue I found was <a href="https://aws.amazon.com/blogs/database/best-storage-practices-for-running-production-workloads-on-hosted-databases-with-amazon-rds-or-amazon-ec2/" target="_blank" rel="noopener noreferrer">at the very end of this blog article</a>.</p>
 <p>It seems to suggest that your limitation is in the available throughput given to the underlying instance size, rather than any EBS volume limitation:</p>
 <blockquote>
 <p>If your workload requires higher IOPS performance and higher throughput, you may plan to migrate to Aurora, which is a high-performance, highly available and cost-effective solution suitable for high throughput workloads...</p>
@@ -181,8 +181,8 @@
 </blockquote>
 <p>(I&#x27;m pretty sure that&#x27;s meant to be read as &quot;there is technically no limit in IOPS&quot;, rather than a directive for us, Aurora users, to make sure there are no IOPS limits via available configuration options).</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="sneaky-thing-6-using-snapshots">Sneaky Thing #6: Using Snapshots<a href="#sneaky-thing-6-using-snapshots" class="hash-link" aria-label="Direct link to Sneaky Thing #6: Using Snapshots" title="Direct link to Sneaky Thing #6: Using Snapshots">​</a></h2>
-<p>One thing to note is that when creating EBS drives from a snapshot, <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSPerformance.html#initialize" target="_blank" rel="noopener noreferrer">you don&#x27;t get that drives maximum performance right away</a>.</p>
-<p>There are steps you can do to get around this, if needed. AWS calls the process &quot;initialization&quot;. You can read about it in the link above, or use the <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-fast-snapshot-restore.html" target="_blank" rel="noopener noreferrer">Fast Restore</a> feature - be sure to read about its limits.</p>
-<p><strong>More interesting (and slightly hidden) is that this also applies to RDS databases that were restored from a snapshot.</strong></p></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="row margin-top--sm theme-doc-footer-edit-meta-row"><div class="col"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/cloud/aws/storage/iops.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_JAkA"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2024-04-29T17:32:15.000Z" itemprop="dateModified">Apr 29, 2024</time></b> by <b>Deepak</b></span></div></div></footer></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/cloud/aws/storage/amazon-s3"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Amazon S3</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/cloud/others/"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Other Clouds</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#sneaky-thing-1-calculating-iops" class="table-of-contents__link toc-highlight">Sneaky Thing #1: Calculating IOPS</a></li><li><a href="#iops-limits" class="table-of-contents__link toc-highlight">IOPS Limits</a></li><li><a href="#sneaky-thing-2-throughput-limits" class="table-of-contents__link toc-highlight">Sneaky Thing #2: Throughput Limits</a></li><li><a href="#sneaky-thing-3-volume-queue" class="table-of-contents__link toc-highlight">Sneaky Thing #3: Volume Queue</a></li><li><a href="#gp2-vs-gp3-ebs" class="table-of-contents__link toc-highlight">GP2 vs GP3 EBS</a><ul><li><a href="#gp2-volumes" class="table-of-contents__link toc-highlight">GP2 Volumes</a></li><li><a href="#sneaky-thing-4-gp2--burstable-iops" class="table-of-contents__link toc-highlight">Sneaky Thing #4: GP2 &amp; Burstable IOPS</a></li><li><a href="#gp3-volumes" class="table-of-contents__link toc-highlight">GP3 Volumes</a></li></ul></li><li><a href="#is-my-ebs-volume-a-bottleneck" class="table-of-contents__link toc-highlight">Is my EBS Volume a Bottleneck?</a><ul><li><a href="#volume-metrics" class="table-of-contents__link toc-highlight">Volume Metrics</a></li><li><a href="#instance-metrics" class="table-of-contents__link toc-highlight">Instance Metrics</a></li></ul></li><li><a href="#rds-instance-storage--metrics" class="table-of-contents__link toc-highlight">RDS Instance Storage &amp; Metrics</a><ul><li><a href="#sneaky-thing-5-rds-instance-storage" class="table-of-contents__link toc-highlight">Sneaky Thing #5: RDS Instance Storage</a></li><li><a href="#aurora-ebs-performance" class="table-of-contents__link toc-highlight">Aurora EBS Performance</a></li></ul></li><li><a href="#sneaky-thing-6-using-snapshots" class="table-of-contents__link toc-highlight">Sneaky Thing #6: Using Snapshots</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2025 Deep Notes, Built with ❤️</div></div></div></footer></div>
+<p>One thing to note is that when creating EBS drives from a snapshot, <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSPerformance.html#initialize" target="_blank" rel="noopener noreferrer">you don&#x27;t get that drives maximum performance right away</a>.</p>
+<p>There are steps you can do to get around this, if needed. AWS calls the process &quot;initialization&quot;. You can read about it in the link above, or use the <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-fast-snapshot-restore.html" target="_blank" rel="noopener noreferrer">Fast Restore</a> feature - be sure to read about its limits.</p>
+<p><strong>More interesting (and slightly hidden) is that this also applies to RDS databases that were restored from a snapshot.</strong></p></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="row margin-top--sm theme-doc-footer-edit-meta-row"><div class="col"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/cloud/aws/storage/iops.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_JAkA"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2025-02-14T22:40:25.000Z" itemprop="dateModified">Feb 14, 2025</time></b> by <b>Deepak</b></span></div></div></footer></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/cloud/aws/storage/amazon-s3"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Amazon S3</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/cloud/others/"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Other Clouds</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#sneaky-thing-1-calculating-iops" class="table-of-contents__link toc-highlight">Sneaky Thing #1: Calculating IOPS</a></li><li><a href="#iops-limits" class="table-of-contents__link toc-highlight">IOPS Limits</a></li><li><a href="#sneaky-thing-2-throughput-limits" class="table-of-contents__link toc-highlight">Sneaky Thing #2: Throughput Limits</a></li><li><a href="#sneaky-thing-3-volume-queue" class="table-of-contents__link toc-highlight">Sneaky Thing #3: Volume Queue</a></li><li><a href="#gp2-vs-gp3-ebs" class="table-of-contents__link toc-highlight">GP2 vs GP3 EBS</a><ul><li><a href="#gp2-volumes" class="table-of-contents__link toc-highlight">GP2 Volumes</a></li><li><a href="#sneaky-thing-4-gp2--burstable-iops" class="table-of-contents__link toc-highlight">Sneaky Thing #4: GP2 &amp; Burstable IOPS</a></li><li><a href="#gp3-volumes" class="table-of-contents__link toc-highlight">GP3 Volumes</a></li></ul></li><li><a href="#is-my-ebs-volume-a-bottleneck" class="table-of-contents__link toc-highlight">Is my EBS Volume a Bottleneck?</a><ul><li><a href="#volume-metrics" class="table-of-contents__link toc-highlight">Volume Metrics</a></li><li><a href="#instance-metrics" class="table-of-contents__link toc-highlight">Instance Metrics</a></li></ul></li><li><a href="#rds-instance-storage--metrics" class="table-of-contents__link toc-highlight">RDS Instance Storage &amp; Metrics</a><ul><li><a href="#sneaky-thing-5-rds-instance-storage" class="table-of-contents__link toc-highlight">Sneaky Thing #5: RDS Instance Storage</a></li><li><a href="#aurora-ebs-performance" class="table-of-contents__link toc-highlight">Aurora EBS Performance</a></li></ul></li><li><a href="#sneaky-thing-6-using-snapshots" class="table-of-contents__link toc-highlight">Sneaky Thing #6: Using Snapshots</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2025 Deep Notes, Built with ❤️</div></div></div></footer></div>
 </body>
 </html>
