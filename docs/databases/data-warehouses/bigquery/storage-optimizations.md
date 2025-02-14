@@ -290,7 +290,7 @@ Auto Deleting Tables that are not frequently used in a project with table Prefix
 Why?
 
 - This script would be useful in environments where there are many temporary or ephemeral tables that are not needed after a certain period.
--  It helps in managing and cleaning up the dataset by removing old or unused tables, potentially reducing costs and improving manageability.
+- It helps in managing and cleaning up the dataset by removing old or unused tables, potentially reducing costs and improving manageability.
 
 ```python
 from google.cloud import bigquery

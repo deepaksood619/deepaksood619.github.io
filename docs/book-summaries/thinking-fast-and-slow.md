@@ -87,7 +87,7 @@ We often find ourselves in situations where we have to make quick judgments. To 
 
 For the most part, these processes are very useful, but the problem is that our minds often overuse them. Applying these rules in inappropriate situations can lead to mistakes. To better understand what heuristics are and the errors that follow, we can consider two types:  _the substitution heuristic_  and  _the availability heuristic_ .
 
-_Alternative heuristics_  occurs when we answer an easier question than the one actually asked.  
+_Alternative heuristics_  occurs when we answer an easier question than the one actually asked.
 
 For example, try this question: "A woman is running for sheriff. How successful will she be in that ministry?" We automatically replace the question we should have answered with an easier one, like, "Does she look like someone who would make a good sheriff?" This experimentation means that instead of researching a candidate's profile and policies, we are simply asking ourselves the much easier question of whether this woman fits our mental image of a candidate. good sheriff or not.
 

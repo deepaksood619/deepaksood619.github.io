@@ -46,7 +46,7 @@ TFUG Ghaziabad and PyDelhi invites tech enthusiasts, innovators, and experts to 
     - Demand forecasting using Time Series models
     - Running ML pipelines on Vertex AI
 
-https://www.commudle.com/fill-form/3152
+[ML Saturday – A Celebration of AI & Community!](https://www.commudle.com/communities/tensorflow-user-group-ghaziabad/events/ml-sunday-fuel-your-weekend-with-ai)
 
 [Commudle - Connect & Learn With Software Developers](https://www.commudle.com/communities/tensorflow-user-group-ghaziabad)
 
