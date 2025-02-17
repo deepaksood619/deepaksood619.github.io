@@ -9,6 +9,10 @@ Unified NLQ (Natural Language Query)
 - [GitHub - RamiKrispin/lang2sql: A tutorial for setting an SQL code generator with the OpenAI API](https://github.com/RamiKrispin/lang2sql)
 - [Waii - World's most powerful SQL API built with generative AI](https://www.waii.ai/)
 - SAAS - [Text to SQL & AI Query Generator \| Text2SQL.ai](https://www.text2sql.ai/)
+- QueryGPT
+	- [QueryGPT - Natural Language to SQL using Generative AI \| Uber Blog](https://www.uber.com/en-IN/blog/query-gpt/)
+	- [Uber’s AI SQL Generator for Data Insights — QueryGPT \| by codevil \| Feb, 2025 \| Medium](https://medium.com/@bilosantonela1996/ubers-ai-sql-generator-for-data-insights-querygpt-090a82bd42a7)
+	- [QueryGPT](https://querygpt.xyz/)
 
 ## Code
 
