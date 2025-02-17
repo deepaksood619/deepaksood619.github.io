@@ -160,6 +160,12 @@ For the attached RFP Create a proposal from vendor opstree to client mentioned i
 
 Now create a detailed plan for section 3.1 ABC
 
+### Short pointers documents
+
+For the above architecture details, create a final refined version of document. This document should only have pointers and short sentences. It shouldn't be verbose and should be divided into headers and it's pointers
+
+Also share the architecture diagram for the same in mermaid format
+
 ## Creating Followup Questions
 
 What are the questions that needs to be asked to understand the requirements fully. Keep all questions one liner and not make it verbose

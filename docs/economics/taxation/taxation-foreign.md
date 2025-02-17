@@ -48,15 +48,15 @@ Basically the only issue will come with dividends (this is missed in 26AS and ne
 - P1006 - Business and management consultancy and public relations services taxation
 - **P0802** - Software consultancy implementation other than those covered in SOFTEX form
 
-[Foreign Inward Remittance Certificate for India (FIRC) - Upwork Customer Service & Support | Upwork Help](https://support.upwork.com/hc/en-us/articles/11494386652179-Foreign-Inward-Remittance-Certificate-for-India-FIRC-)
+### Links
 
-[Foreign Remittances | Fees for Technical Services | TDS Requirement](https://taxguru.in/income-tax/foreign-remittances-fees-technical-services-tds-requirement.html)
-
-[DTAAs with special reference to DTAA between India and Singapore](https://taxguru.in/income-tax/dtaas-special-reference-dtaa-india-singapore.html)
-
-[Singapore & India Double Tax Agreement DTA | GuideMeSingapore - by Hawksford](https://www.guidemesingapore.com/business-guides/taxation-and-accounting/double-tax-treaties/singapore-india-double-tax-treaty-guide)
-
-[What Are Telegraphic Transfer (TT) Buying/Selling Rates? - Wise](https://wise.com/au/blog/telegraphic-transfer-buying-rates)
+- [Foreign Inward Remittance Certificate for India (FIRC) - Upwork Customer Service & Support | Upwork Help](https://support.upwork.com/hc/en-us/articles/11494386652179-Foreign-Inward-Remittance-Certificate-for-India-FIRC-)
+- [Foreign Remittances | Fees for Technical Services | TDS Requirement](https://taxguru.in/income-tax/foreign-remittances-fees-technical-services-tds-requirement.html)
+- [DTAAs with special reference to DTAA between India and Singapore](https://taxguru.in/income-tax/dtaas-special-reference-dtaa-india-singapore.html)
+- [Singapore & India Double Tax Agreement DTA | GuideMeSingapore - by Hawksford](https://www.guidemesingapore.com/business-guides/taxation-and-accounting/double-tax-treaties/singapore-india-double-tax-treaty-guide)
+- [What Are Telegraphic Transfer (TT) Buying/Selling Rates? - Wise](https://wise.com/au/blog/telegraphic-transfer-buying-rates)
+- [Best Foreign Inward Remit Rates : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/1c1z6lb/best_foreign_inward_remit_rates/)
+- [Which PSU bank is good for inward remittance/forex services? : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/tckaa4/which_psu_bank_is_good_for_inward_remittanceforex/)
 
 ## NRI Taxes
 
@@ -124,6 +124,7 @@ It is 5% of the remittance amount above INR 7 Lakhs. From October 1, 2023 onward
 
 - Inward Remittances - For individuals/non trade - Rs. 150
 - Outward Remittance - On all outward remittance not being proceeds of import bills - 0.075%, Min Rs.150/-, Max Rs.4000/- + applicable Swift charges (500)
+- [How is Indian Overseas Bank in terms of service? : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/wv10k5/how_is_indian_overseas_bank_in_terms_of_service/)
 
 ### SBI
 
@@ -187,3 +188,5 @@ It is 5% of the remittance amount above INR 7 Lakhs. From October 1, 2023 onward
 - [Which is the best platform to be used for outward remittance in India? - Quora](https://www.quora.com/Which-is-the-best-platform-to-be-used-for-outward-remittance-in-India)
 - [What are some alternatives to Paypal? For India to foreign(outward remittance) : r/IndiaInvestments](https://www.reddit.com/r/IndiaInvestments/comments/rb69n0/what_are_some_alternatives_to_paypal_for_india_to/)
 - [A question to people using Foreign Inward Remittance : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/x9n0j7/a_question_to_people_using_foreign_inward/)
+- [Which bank is best for outward remittance in India : r/personalfinanceindia](https://www.reddit.com/r/personalfinanceindia/comments/1hsl3s7/which_bank_is_best_for_outward_remittance_in_india/)
+- [Cost effective outward remittance : r/nri](https://www.reddit.com/r/nri/comments/19auaen/cost_effective_outward_remittance/)

@@ -1,4 +1,4 @@
-# # LLM Agents
+# LLM Agents
 
 An LLM Agent is a software entity capable of reasoning and autonomously executing tasks.
 
@@ -32,6 +32,7 @@ To initialize a minimal agent, you need at least these two arguments:
 - [Build AI Agents using HuggingFace's SmolAgents \| Agentic AI - YouTube](https://www.youtube.com/watch?v=VSm5-CX4QaM)
 - [Hugging Face's Smolagents: A Guide With Examples](https://www.datacamp.com/tutorial/smolagents)
 - [SmolAgents: A Smol Library to Build Agents - YouTube](https://www.youtube.com/watch?v=icRKf_Mvmt8)
+- [smolagent-tutorial.ipynb](https://colab.research.google.com/drive/1A03Qt_B0k8U-NPjcvkyJVX_Ch-9955ul?usp=sharing)
 
 ## CrewAI
 
@@ -71,4 +72,3 @@ The power of AI collaboration has too much to offer. CrewAI is a standalone fram
 - [Get started  \|  Genkit  \|  Firebase](https://firebase.google.com/docs/genkit/get-started)
 - [oscar - Git at Google](https://go.googlesource.com/oscar/)
 - [LLM Agents - Explained! - YouTube](https://www.youtube.com/watch?v=5CLNoPiMbUc)
-- [smolagent-tutorial.ipynb](https://colab.research.google.com/drive/1A03Qt_B0k8U-NPjcvkyJVX_Ch-9955ul)

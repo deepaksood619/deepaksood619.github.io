@@ -4,6 +4,8 @@
 
 TFUG Ghaziabad and PyDelhi invites tech enthusiasts, innovators, and experts to share their insights at ML Weekend.  Be part of this transformative event, showcasing groundbreaking ideas and advancements in Machine Learning and its impact on industries.
 
+Presentation - [Automating the Future: Build Powerful AI Agents - Google Slides](https://docs.google.com/presentation/d/1nRNP7h89k-8FTCP2kMSMbAa0zIJ6r0COm7voa1JT6Sc/edit?usp=sharing)
+
 ### Automating the Future: Build Powerful AI Agents with Vertex AI
 
 - AI is evolving beyond chatbots into **autonomous AI agents** that can reason, plan, and take action.
@@ -53,6 +55,8 @@ TFUG Ghaziabad and PyDelhi invites tech enthusiasts, innovators, and experts to 
 [ChatGPT - ML Weekend Presentation Ideas](https://chatgpt.com/share/679f334e-ed74-8005-9e10-5893e55b715b)
 
 [Deepak Sood on LinkedIn: #ai #machinelearning #vertexai #automation #tfugghaziabad #pydelhi…](https://www.linkedin.com/posts/deepaksood619_newevent-newpost-speaker-activity-7295867621755756544-WJT6?utm_source=share&utm_medium=member_desktop)
+
+[PyDelhi on LinkedIn: 🤖 Automating the Future with AI Agents AI is evolving beyond chatbots!…](https://www.linkedin.com/posts/pydelhi-community_automating-the-future-with-ai-agents-activity-7296140007050739712-QYLb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 
 ![ML Saturday](../media/Pasted%20image%2020250213234404.png)
 
@@ -116,6 +120,10 @@ Presentation - [Kong in Action](https://docs.google.com/presentation/d/1nVVmLVwA
 
 **Release date - 30 January 2024**
 
+Spotify Code & Deploy - [How to Build a Data Streaming Platform - Introduction to Stream Processing, Stream Governance with Kafka and Flink. - Code and Deploy by BuildPiper \| Podcast on Spotify](https://open.spotify.com/episode/4aA64Ghofsv3RDa9f5ITw5)
+
+![Stream Processing using Kafka and Flink](../media/Pasted%20image%2020250215234050.png)
+
 Learn how to build a robust data streaming platform using Apache Kafka and Apache Flink!
 
 In this session, we’ll explore:
@@ -125,10 +133,10 @@ In this session, we’ll explore:
 
 Perfect for developers, architects, and data engineers looking to master real-time data workflows!
 
-- Spotify Code & Deploy - [How to Build a Data Streaming Platform - Introduction to Stream Processing, Stream Governance with Kafka and Flink. - Code and Deploy by BuildPiper \| Podcast on Spotify](https://open.spotify.com/episode/4aA64Ghofsv3RDa9f5ITw5?si=VovVIE0YTw2xpq-GQz8uJw&nd=1&dlsi=7ac06a271023469b)
 - Transcript - [Podcast - Stream Processing using Kafka and Flink](about-deepak-sood/projects/43-podcast-stream-processing-using-kafka-and-flink.md)
 - Raw Recording - [Raw Recording - Podcast - Stream Processing using Kafka and Flink](https://drive.google.com/file/d/1FLiWYSlUP3oHc954fuVVYxAmQKv35pZz/view?usp=drive_link)
 - [Buildpiper - By Opstree on LinkedIn: #codeanddeploy #buildwithbuildpiper #kafka #flink #datastreaming #podcast…](https://www.linkedin.com/feed/update/urn:li:activity:7295336849651224576/)
+- [Deepak Sood on LinkedIn: #codeanddeploy #buildwithbuildpiper #kafka #flink #datastreaming #podcast…](https://www.linkedin.com/posts/deepaksood619_codeanddeploy-buildwithbuildpiper-kafka-activity-7296591681624121344-m_Zc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 
 ## Kong in Action: Simplifying API Management for Modern Applications - Kong (14 December 2024)
 

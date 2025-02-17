@@ -4,6 +4,8 @@
 
 Spend money while feeling good
 
+Giving while living
+
 - Charities with your time too.
 - Family friendly
 
@@ -57,3 +59,5 @@ https://en.wikipedia.org/wiki/Effective_altruism
 [How to live a good life](../../book-summaries/how-to-live-a-good-life.md)
 
 [Are future humans really our problem? - YouTube](https://www.youtube.com/watch?v=FQss1IH3MFA)
+
+[How can wealthy Indians give back? - Dezerv](https://www.dezerv.in/blog/how-can-wealthy-indians-give-back/)
