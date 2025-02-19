@@ -59,24 +59,25 @@ Always tell stories, most visual stories are the best, and simple
 
 - [online recording studio](https://riverside.fm/)
 - Zoom it
-- https://github.com/hakimel/reveal.js
 - [Speech calculator: how long does your speech take? – Debatrix International](https://debatrix.com/en/speech-calculator/)
 
 ## Presentation Tools
 
 - [The HTML presentation framework | reveal.js](https://revealjs.com/)
     - [GitHub - hakimel/reveal.js: The HTML Presentation Framework](https://github.com/hakimel/reveal.js)
-- [Slides for Developers](https://slides.com/news/developers)
+    - [Slides for Developers](https://slides.com/news/developers)
+    - [Demo \| reveal.js](https://revealjs.com/demo/)
+    - [Installation \| reveal.js](https://revealjs.com/installation/)
 - [Slidev](https://sli.dev)
 - [Canva: Visual Suite for Everyone](https://www.canva.com)
-   	- https://www.canva.com/p/templates/EAGERSskdZA-black-and-yellow-simple-webinar-event-instagram-post/
-   	- https://www.canva.com/p/templates/EAF35LmyzcQ-purple-modern-webinar-business-marketing-instagram-post/
+	- https://www.canva.com/p/templates/EAGERSskdZA-black-and-yellow-simple-webinar-event-instagram-post/
+	- https://www.canva.com/p/templates/EAF35LmyzcQ-purple-modern-webinar-business-marketing-instagram-post/
 - Pools, Q&A
     - [Slido - Audience Interaction Made Easy](https://www.slido.com)
     - [Interactive presentation software - Mentimeter](https://www.mentimeter.com)
     - [AhaSlides - The Joy of Engagement](https://ahaslides.com/)
     - [Claper - The ultimate tool to interact with your audience](https://claper.co/)
-              - [GitHub - ClaperCo/Claper: The ultimate tool to interact with your audience](https://github.com/ClaperCo/Claper)
+        - [GitHub - ClaperCo/Claper: The ultimate tool to interact with your audience](https://github.com/ClaperCo/Claper)
 
 ### Presentation Templates
 

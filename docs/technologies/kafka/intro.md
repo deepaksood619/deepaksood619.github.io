@@ -176,6 +176,13 @@ https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates
 - https://engineering.linkedin.com/kafka/benchmarking-apache-kafka-2-million-writes-second-three-cheap-machines
 - https://www.datadoghq.com/blog/kafka-at-datadog
 
+## Kafka Presentations
+
+- [Kafka Fundamentals](https://deepaksood619.github.io/slides-kafka-fundamentals/)
+- [Introduction to Apache Kafka \| PPT](https://www.slideshare.net/slideshow/introduction-to-apache-kafka-239053578/239053578)
+- [Fundamentals for Apache Kafka](https://www.anuragkapur.com/assets/blog/engineering/apache-kafka/slidesapachekafkaarchitecturefundamentalsexplained1579807020653.pdf)
+	- [Apache Kafka Architecture & Fundamentals Explained \| PPT](https://www.slideshare.net/slideshow/apache-kafka-architecture-fundamentals-explained/184949786)
+
 ## References
 
 - **[Kafkademy | Conduktor](https://www.conduktor.io/kafka/)**

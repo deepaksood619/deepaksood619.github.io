@@ -1,4 +1,4 @@
-# Taxation - Foriegn
+# Taxation - Foreign
 
 ## Foreign Stocks
 
@@ -35,7 +35,11 @@ Budget 2024 brought significant changes to benefit investors like you:
 | **Short-term capital gains*** | N/A               | Yes              | **`<24` months**     | Taxed at applicable income slab rate              |
 | **Long-Term capital gains***  | N/A               | Yes              | **`>24` months**     | Taxed at 12.5% plus applicable surcharge and cess |
 
-[Tax on US Stocks for Indian Investors: A Complete Guide](https://www.indmoney.com/us-stocks/tax-on-us-stocks-in-india)
+- [Tax on US Stocks for Indian Investors: A Complete Guide](https://www.indmoney.com/us-stocks/tax-on-us-stocks-in-india)
+- [How to claim TCS refund on foreign remittance for education? : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/1bjv04l/how_to_claim_tcs_refund_on_foreign_remittance_for/)
+- [How to claim TCS refund when traveling abroad and filing a return \| Personal Finance - Business Standard](https://www.business-standard.com/finance/personal-finance/how-to-claim-tcs-refund-when-traveling-abroad-and-filing-a-return-as-huf-123101900278_1.html)
+- [TCS on Foreign Travel Expense Remittance \[With Budget 2025 Updates\] - Wise](https://wise.com/in/blog/tcs-foreign-remittance-travel)
+- [TCS Refund on Foreign Remittance: Get Your Money Back](https://goniyo.com/blog/tcs-refund-on-foreign-remittance-how-to-get-your-money-back/)
 
 #### Dividend for msft stocks
 
@@ -43,13 +47,18 @@ Basically the only issue will come with dividends (this is missed in 26AS and ne
 
 ## Inward remittances
 
-**Purpose Code**
+### Inward Remittance Purpose Code
 
 - P1006 - Business and management consultancy and public relations services taxation
 - **P0802** - Software consultancy implementation other than those covered in SOFTEX form
 
+### Outward Remittance Purpose Code
+
+- NEW PURPOSE CODES FOR REPORTING FOREX TRANSACTIONS PAYMENT PURPOSES - 00 Capital Account - **S0001** - Indian investment abroad -in equity capital (shares)
+
 ### Links
 
+- [rbi.org.in/upload/notification/pdfs/52220.pdf](https://www.rbi.org.in/upload/notification/pdfs/52220.pdf)
 - [Foreign Inward Remittance Certificate for India (FIRC) - Upwork Customer Service & Support | Upwork Help](https://support.upwork.com/hc/en-us/articles/11494386652179-Foreign-Inward-Remittance-Certificate-for-India-FIRC-)
 - [Foreign Remittances | Fees for Technical Services | TDS Requirement](https://taxguru.in/income-tax/foreign-remittances-fees-technical-services-tds-requirement.html)
 - [DTAAs with special reference to DTAA between India and Singapore](https://taxguru.in/income-tax/dtaas-special-reference-dtaa-india-singapore.html)

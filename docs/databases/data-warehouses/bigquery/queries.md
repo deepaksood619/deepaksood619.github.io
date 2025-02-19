@@ -1,5 +1,10 @@
 # Queries
 
+```sql
+SELECT * REPLACE
+SELECT * EXCEPT
+```
+
 ### SQL comparison
 
 BigQuery [standard SQL](https://cloud.google.com/bigquery/docs/reference/standard-sql/) supports compliance with the SQL 2011 standard and has extensions that support querying nested and repeated data. Redshift SQL is based on PostgreSQL but has several differences which are detailed in the [Redshift documentation](https://docs.aws.amazon.com/redshift/latest/dg/c_redshift-and-postgres-sql.html). For a detailed comparison between Redshift and BigQuery SQL syntax and functions, see the [Redshift to BigQuery SQL translation reference](https://cloud.google.com/solutions/migration/dw2bq/redshift/redshift-bq-sql-translation-reference).

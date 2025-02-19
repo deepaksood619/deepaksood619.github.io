@@ -58,6 +58,8 @@ Presentation - [Automating the Future: Build Powerful AI Agents - Google Slides]
 
 [PyDelhi on LinkedIn: 🤖 Automating the Future with AI Agents AI is evolving beyond chatbots!…](https://www.linkedin.com/posts/pydelhi-community_automating-the-future-with-ai-agents-activity-7296140007050739712-QYLb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 
+[Deepak Sood on LinkedIn: #ai #machinelearning #vertexai #automation #techcommunity #tfugghaziabad…](https://www.linkedin.com/posts/deepaksood619_ai-machinelearning-vertexai-activity-7297187347920474113-SOr4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
+
 ![ML Saturday](../media/Pasted%20image%2020250213234404.png)
 
 ## AI use cases for Dummies (Internal Session - 2 Feb 2025)

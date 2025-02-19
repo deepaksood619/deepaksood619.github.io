@@ -113,7 +113,7 @@ This AI-powered call quality monitoring system provides a robust, scalable, and 
 
 ## Call Transcribing
 
-=="Call transcribing" refers to the process of converting a recorded phone conversation into written text, while "quality assurance" in this context means the practice of reviewing those transcribed calls to ensure accuracy and adherence to quality standards==, often used to evaluate customer service interactions and agent performance within a company.
+"Call transcribing" refers to the process of converting a recorded phone conversation into written text, while "quality assurance" in this context means the practice of reviewing those transcribed calls to ensure accuracy and adherence to quality standards, often used to evaluate customer service interactions and agent performance within a company.
 
 Key points about call transcribing and quality assurance:
 

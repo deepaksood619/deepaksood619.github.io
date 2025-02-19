@@ -50,13 +50,17 @@ Redash was built to allow fast and easy access to billions of records, that we p
 ### Redash consists of two parts
 
 1. **Query Editor:** think of [JS Fiddle](https://jsfiddle.net/) for SQL queries. It's your way to share data in the organization in an open way, by sharing both the dataset and the query that generated it. This way everyone can peer review not only the resulting dataset but also the process that generated it. Also it's possible to fork it and generate new datasets and reach new insights.
-2. **Visualizations and Dashboards:** once you have a dataset, you can create different visualizations out of it, and then combine several visualizations into a single dashboard. Currently Redash supports charts, pivot table, cohorts and [more](https://redash.io/help/user-guide/visualizations/visualization-types).
+2. **Visualizations and Dashboards:** once you have a dataset, you can create different visualizations out of it, and then combine several visualizations into a single dashboard. Currently Redash supports charts, pivot table, cohorts and [more](https://redash.io/help/user-guide/visualizations/visualization-types)
 
 https://github.com/getredash/redash
 
 [https://redash.io](https://redash.io/)
 
 https://hub.helm.sh/charts/redash/redash
+
+[redash, Re-imagine the Dash-board \| by Ajith Shetty \| Medium](https://ajithshetty28.medium.com/redash-re-imagine-the-dash-board-17d80b277f91)
+
+[How to schedule a query](https://redash.io/help/user-guide/querying/scheduling-a-query/)
 
 ## Rive
 
