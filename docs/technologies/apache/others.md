@@ -54,6 +54,8 @@ Superset is fast, lightweight, intuitive, and loaded with options that make it e
 
 [Introduction | Superset](https://superset.apache.org/docs/intro/)
 
+[Can Superset or Redash replace Tableau? \| by Balachandar Paulraj \| Medium](https://balachandar-paulraj.medium.com/can-superset-or-redash-replace-tableau-c333e017bc87)
+
 ## Apache Beam
 
 An advanced unified programming model

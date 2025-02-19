@@ -135,6 +135,8 @@ So... what's the deal with TTMs?
 
 #### About
 
+[Spaces - Hugging Face](https://huggingface.co/spaces)
+
 [How to choose a Sentence Transformer from Hugging Face | Weaviate - Vector Database](https://weaviate.io/blog/how-to-choose-a-sentence-transformer-from-hugging-face)
 
 - Blue - the **dataset** it was trained on

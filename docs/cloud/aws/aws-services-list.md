@@ -373,6 +373,7 @@ Total with Duplicates - 331 services
 4. **Amazon Inspector** - Automated and continual vulnerability management for Amazon EC2 and Amazon ECR
 5. **Amazon Macie** - Discover and protect your sensitive data at scale
 6. **Amazon Security Lake** - Automatically centralize your security data with a few clicks
+	1. [Security Data Management - Amazon Security Lake - AWS](https://aws.amazon.com/security-lake/)
 7. **Amazon Verified Permissions** - Fine-grained permissions and authorization for your applications
 8. **AWS Artifact** - On-demand access to AWS’ compliance reports
 9. **AWS Audit Manager** - Continuously audit your AWS usage to simplify how you assess risk and compliance
@@ -393,45 +394,45 @@ Total with Duplicates - 331 services
 
 ## 22. Storage (19)
 
-1. **Amazon EBS Snapshots Archive** - Archive EBS Snapshots and save up to 75% in snapshot storage costs
-2. **Amazon EFS Archive** - A new storage class where customers can save up to 50% on storage costs – compared to Amazon EFS Infrequent Access
-3. **Amazon Elastic Block Store (EBS)** - EC2 block storage volumes
-4. **Amazon Elastic File System (EFS)** - Fully managed file system for EC2
-5. **Amazon FSx** - Launch, run, and scale feature-rich and highly-performant file systems with just a few clicks
-6. **Amazon FSx for Lustre** - High-performance file system integrated with S3
-7. **Amazon FSx for NetApp ONTAP scale-out file systems** - Delivers up to 9x higher storage performance than before to power more compute-intensive workloads
-8. **Amazon FSx for OpenZFS** - Fully managed storage built on the popular OpenZFS file system
-9. **Amazon FSx for Windows File Server** - Fully managed Windows native file system
-10. **Amazon S3 Express One Zone** - Fastest cloud object storage for performance-critical applications that demand consistent single-digit millisecond latency
-11. **Amazon S3 Glacier** - Low-cost archive storage in the cloud
-12. **Amazon S3 Glacier Instant Retrieval** - Lowest cost storage with milliseconds retrieval for rarely accessed data
-13. **Amazon Simple Storage Service (S3)** - Object storage built to retrieve any amount of data from anywhere
-14. **AWS Backup** - Centralized backup across AWS services
-15. **AWS Backup support for Amazon S3 (Preview)** - Centrally manage backup and restore of app data stored in S3
-16. **AWS Backup support for VMware workloads** - Centrally protect hybrid VMware environments
-17. **AWS Snow Family** - Physical edge computing and storage devices for rugged or disconnected environments
-18. **AWS Storage Gateway** - Hybrid storage integration
-19. **AWS Elastic Disaster Recovery (DRS)** - Scalable, cost-effective application recovery to AWS
+24. **Amazon EBS Snapshots Archive** - Archive EBS Snapshots and save up to 75% in snapshot storage costs
+25. **Amazon EFS Archive** - A new storage class where customers can save up to 50% on storage costs – compared to Amazon EFS Infrequent Access
+26. **Amazon Elastic Block Store (EBS)** - EC2 block storage volumes
+27. **Amazon Elastic File System (EFS)** - Fully managed file system for EC2
+28. **Amazon FSx** - Launch, run, and scale feature-rich and highly-performant file systems with just a few clicks
+29. **Amazon FSx for Lustre** - High-performance file system integrated with S3
+30. **Amazon FSx for NetApp ONTAP scale-out file systems** - Delivers up to 9x higher storage performance than before to power more compute-intensive workloads
+31. **Amazon FSx for OpenZFS** - Fully managed storage built on the popular OpenZFS file system
+32. **Amazon FSx for Windows File Server** - Fully managed Windows native file system
+33. **Amazon S3 Express One Zone** - Fastest cloud object storage for performance-critical applications that demand consistent single-digit millisecond latency
+34. **Amazon S3 Glacier** - Low-cost archive storage in the cloud
+35. **Amazon S3 Glacier Instant Retrieval** - Lowest cost storage with milliseconds retrieval for rarely accessed data
+36. **Amazon Simple Storage Service (S3)** - Object storage built to retrieve any amount of data from anywhere
+37. **AWS Backup** - Centralized backup across AWS services
+38. **AWS Backup support for Amazon S3 (Preview)** - Centrally manage backup and restore of app data stored in S3
+39. **AWS Backup support for VMware workloads** - Centrally protect hybrid VMware environments
+40. **AWS Snow Family** - Physical edge computing and storage devices for rugged or disconnected environments
+41. **AWS Storage Gateway** - Hybrid storage integration
+42. **AWS Elastic Disaster Recovery (DRS)** - Scalable, cost-effective application recovery to AWS
 
 ## Others
 
-1. [AWS Incident Detection and Response](https://aws.amazon.com/premiumsupport/aws-incident-detection-response/) - Available in enterprise support plan
-2. [AWS Managed Services](https://aws.amazon.com/managed-services/) - Operational excellence in the cloud
-3. [AWS re:Post Private](https://aws.amazon.com/repost-private/)
-4. [AWS Countdown](https://aws.amazon.com/premiumsupport/aws-countdown/)
-5. [AWS SimuLearn](https://aws.amazon.com/training/digital/aws-simulearn/)
-6. [Serverless Compute at the Heart of Your EDA • Julian Wood • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=wYvQv_MTMNs&ab_channel=GOTOConferences)
+43. [AWS Incident Detection and Response](https://aws.amazon.com/premiumsupport/aws-incident-detection-response/) - Available in enterprise support plan
+44. [AWS Managed Services](https://aws.amazon.com/managed-services/) - Operational excellence in the cloud
+45. [AWS re:Post Private](https://aws.amazon.com/repost-private/)
+46. [AWS Countdown](https://aws.amazon.com/premiumsupport/aws-countdown/)
+47. [AWS SimuLearn](https://aws.amazon.com/training/digital/aws-simulearn/)
+48. [Serverless Compute at the Heart of Your EDA • Julian Wood • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=wYvQv_MTMNs&ab_channel=GOTOConferences)
 
 ## Deprecated
 
-1. CodeCommit
-2. Cloud9
-3. S3 Select
-4. CloudSearch
-5. SimpleDB
-6. Forecast
-7. AWS Mobile Hub
-8. Amazon CloudSearch
-9. AWS CodeStar
-10. Amazon Quantum Ledger Database (QLDB)
-11. Data Pipeline
+49. CodeCommit
+50. Cloud9
+51. S3 Select
+52. CloudSearch
+53. SimpleDB
+54. Forecast
+55. AWS Mobile Hub
+56. Amazon CloudSearch
+57. AWS CodeStar
+58. Amazon Quantum Ledger Database (QLDB)
+59. Data Pipeline

@@ -282,6 +282,149 @@ https://365datascience.teachable.com/courses/enrolled/233558
 
 Extension - Page Sizer
 
+## AppScripts
+
+### runBigQuery
+
+```js
+// @ts-nocheck
+function runBigQueryQuery() {
+  const projectId = 'project-id'; // Replace with your GCP Project ID
+  const sheetName = 'abc'; // Name of the sheet where results will be written
+  const query = `
+    SELECT
+      a.id
+    FROM dataset.table_name a
+    WHERE a.id = "ABCD";
+  `;
+
+  // Construct the BigQuery query request
+  const request = {
+    query: query,
+    useLegacySql: false,
+  };
+
+  // Run the query using BigQuery service
+  const queryResults = BigQuery.Jobs.query(request, projectId);
+
+  // Check if the query returned any results
+  if (!queryResults || !queryResults.schema || !queryResults.rows) {
+    Logger.log('No results found or query failed.');
+    return;
+  }
+
+  // Get the active spreadsheet and the target sheet
+  const spreadsheet = SpreadsheetApp.getActiveSpreadsheet();
+  let sheet = spreadsheet.getSheetByName(sheetName);
+  if (!sheet) {
+    sheet = spreadsheet.insertSheet(sheetName);
+  }
+
+  // Clear the sheet before writing new data
+  sheet.clear();
+
+  // Write the query results to the sheet
+  const headers = queryResults.schema.fields.map(field => field.name);
+  sheet.appendRow(headers);
+
+  queryResults.rows.forEach(row => {
+    const values = row.f.map(field => field.v);
+    sheet.appendRow(values);
+  });
+
+  Logger.log(`Query results written to the sheet: ${sheetName}`);
+}
+```
+
+### copyRowWithNowBeforeLatest
+
+```js
+function copyRowWithNowBeforeLatest() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName("Total");
+  var snapshotSheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName("Daily Snapshots");
+
+  // Get the current date (without time)
+  var currentDate = new Date();
+  currentDate.setHours(0, 0, 0, 0);  // Set time to midnight for date comparison
+
+  // Get all the data from the first column
+  var data = sheet.getRange(1, 1, sheet.getLastRow(), 1).getValues();
+
+  var rowToCopy = -1;
+  var rowOfLatest = -1;
+
+  // Iterate through the first column to find the row where the NOW() value matches and the row with "Latest"
+  for (var i = 0; i < data.length; i++) {
+    var cellValue = data[i][0];
+
+    // Find the "Latest" row
+    if (cellValue === "Latest") {
+      rowOfLatest = i; // Row where "Latest" is found
+    }
+
+    // Check if the cell contains a date-time value
+    if (cellValue instanceof Date) {
+      // Strip the time part from the date to compare only the date
+      var cellDate = new Date(cellValue);
+      cellDate.setHours(0, 0, 0, 0);  // Set time to midnight for date comparison
+
+      // Compare only the date part
+      if (cellDate.getTime() === currentDate.getTime()) {
+        rowToCopy = i + 1; // Store the row number (add 1 because array is 0-indexed, sheet is 1-indexed)
+      }
+    }
+  }
+
+  // If we didn't find a matching row for NOW(), log an error and return
+  if (rowToCopy == -1) {
+    Logger.log("No row found with a matching NOW() value.");
+    return;
+  }
+
+  // If "Latest" is not found, log an error and return
+  if (rowOfLatest == -1) {
+    Logger.log("'Latest' not found in the first column.");
+    return;
+  }
+
+  // Get the data from the matching row
+  var rowData = sheet.getRange(rowToCopy, 1, 1, sheet.getLastColumn()).getValues();
+  // var rowFormat = sheet.getRange(rowToCopy, 1, 1, sheet.getLastColumn()).getBackgrounds();
+  var rowNumberFormats = sheet.getRange(rowToCopy, 1, 1, sheet.getLastColumn()).getNumberFormats();
+
+  // Get the last row in the "Daily Snapshots" sheet
+  // Get all the data from the first column
+  var data2 = snapshotSheet.getRange(1, 1, snapshotSheet.getLastRow(), 1).getValues();
+
+  // Iterate through the first column to find the row where the value matches "Max"
+  for (var i = 0; i < data2.length; i++) {
+    var cellValue = data2[i][0];
+
+    // Find the "Latest" row
+    if (cellValue === "Max") {
+      lastEmptyRow = i-1; // Row where "Max" is found
+    }
+  }
+
+  // Insert a new row before the "Latest" row so to keep the formatting
+  snapshotSheet.insertRowBefore(lastEmptyRow);
+
+  // Paste the copied data into the new row in "Daily Snapshots"
+  snapshotSheet.getRange(lastEmptyRow, 1, 1, rowData[0].length).setValues(rowData);
+
+  // Paste the copied data into the new row
+  // sheet.getRange(rowOfLatest, 1, 1, rowData[0].length).setValues(rowData);
+
+  // Copy the background formatting
+  // sheet.getRange(rowOfLatest, 1, 1, rowFormat[0].length).setBackgrounds(rowFormat);
+  snapshotSheet.getRange(lastEmptyRow, 1, 1, rowNumberFormats[0].length).setNumberFormats(rowNumberFormats);
+  // snapshotSheet.getRange(lastEmptyRow, 1, 1, rowFormat[0].length).setBackgrounds(rowFormat);
+
+  Logger.log("Row copied from row number: " + rowToCopy + " and inserted at row: " + rowOfLatest);
+}
+
+```
+
 ## Links
 
 - [Learn Google Sheets – Full Course for Beginners - YouTube](https://www.youtube.com/watch?v=cWGQncQxaHI)
