@@ -16,8 +16,12 @@
 - [Kafka Commands](kafka-commands)
 - [kafka-python](kafka-python)
 - [confluent-kafka](confluent-kafka)
+- [Azure Event Hubs](technologies/kafka/azure-event-hubs.md)
 - [kafkacat](kafkacat)
 - [Migration / Mirroring](technologies/kafka/migration-mirroring-replication.md)
 - [Security](technologies/kafka/security.md)
 - [Others](technologies/kafka/others.md)
 - [Strmizi](strimzi)
+- [WarpStream](technologies/kafka/warpstream.md)
+
+[Slides - Kafka Fundamentals](https://deepaksood619.github.io/slides-kafka-fundamentals/)

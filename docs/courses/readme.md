@@ -27,6 +27,7 @@
 6. [Time Series Analysis in Python](courses/course-time-series-analysis/syllabus.md)
 7. [Customer Analytics in Python](courses/customer-analytics-in-python/syllabus.md)
 	1. [Marketing mix modeling (MMM)](courses/customer-analytics-in-python/marketing-mix-modeling-MMM.md)
+	2. [RFM Analysis](courses/customer-analytics-in-python/rfm-analysis.md)
 8. [Mathematics](courses/365-ds-mathematics.md)
 
 ## Others
@@ -61,6 +62,7 @@
 28. [AWS Certified Data Engineer - Associate (Feb 2024)](courses/aws-certified-data-engineer-associate.md)
     1. [AWS Certified Data Engineer - Associate Questions](courses/aws-certified-data-engineer-associate-questions.md)
 29. [Udemy - Becoming a Production MySQL DBA](courses/udemy-becoming-a-production-mysql-dba.md) (June 2024)
+30. [Attention in Transformers](courses/attention-in-transformers.md)
 
 ## Certifications
 

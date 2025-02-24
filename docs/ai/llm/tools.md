@@ -81,8 +81,9 @@
 - [v0 by Vercel](https://v0.dev/)
 - [Pika](https://pika.art/)
 - [AI Detector - Trusted AI Checker for ChatGPT, GPT4 & Bard](https://www.zerogpt.com/)
-- [Langfuse](https://langfuse.com/)
+- **[Langfuse](https://langfuse.com/)**
     - [Open source LLM observability, analytics, prompt management, evaluations, tests, monitoring, logging, tracing, LLMOps. Langfuse: the LLM engineering platform. Debug, analyze and iterate together](https://github.com/langfuse/langfuse)
+    - [10 min Walkthrough of Langfuse – Open Source LLM Observability, Evaluation, and Prompt Management - YouTube](https://www.youtube.com/watch?v=2E8iTvGo9Hs)
 - [DaLMatian](https://www.dalmatian.ai/)
 - [DataGPT - Conversational AI Data Analyst](https://datagpt.com/)
 - [tl;dv.io | AI Meeting Notetaker for Zoom, Google Meet & MS Teams](https://tldv.io/)
