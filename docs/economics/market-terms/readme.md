@@ -1,5 +1,6 @@
 # Market Terms
 
+- [Order Types](economics/market-terms/order-types.md)
 - [IPO](economics/market-terms/ipo.md)
 - [Technical Analysis](economics/market-terms/technical-analysis.md)
 - [Technical Indicators](economics/market-terms/technical-indicators.md)
@@ -115,7 +116,7 @@ Get in and out quickly and use the money to party
 
 The National Association of Software & Services company (NASSCOM)
 
-## Absolute Return -[Ending Period Value / Starting Period Value -- 1]*100
+Absolute Return - `[Ending Period Value / Starting Period Value -- 1]*100`
 
 ## Trader
 
@@ -298,52 +299,6 @@ Select NRML or MIS if you want to trade intraday. MIS is a margin product;
 
 Buy Today, Sell Tomorrow" (BTST) or "Acquire Today, Sell Tomorrow" (ATST)
 
-## Complexity
-
-Simple Order
-
-AMO - After Market Orders (after 3:30)
-
-## CO - Cover Order
-
-Stop loss is must (good for intraday traders, long term investors not so much)
-
-OCO - One Cancels Other (Bracket Order)
-
-Both target price and stop loss price
-
-## Order Type
-
-### Market Order - No bargain, buy at market face value
-
-when you intend to buy at market available prices instead of a very specific price that you have in mind
-
-### Limit - Add your bid for the stock
-
-when you are very particular about the price you want to pay for a stock.
-
-### SL Limit
-
-stop loss order
-
-### SL Market
-
-### Advanced
-
-#### What is the disclosed quantity feature and how to use it?
-
-Disclosed quantity feature while placing equity orders allows only a part of the total order quantity to be disclosed to the market as shown in the market depth. Once a part of the order is executed, the next part is disclosed to the market. This feature can be used while placing large orders to reduce impact cost and to get a better execution by disclosing only a portion of the large order in the best bids and offers in the market depth.
-
-[What is the disclosed quantity feature and how to use it?](https://support.zerodha.com/category/trading-and-markets/kite-web-and-mobile/others/articles/what-is-disclosed-quantity-feature-and-how-to-use-it)
-
-## Position
-
-- Intraday - Don't send to demat account
-- Delivery - Send to demat account
-- TIF (Time in Force)
-- Day - Till the end of day if Limit get's triggered
-- IOC - Now or never at Limit order
-
 ## OHLC - Open (O), high (H), low (L), and close (C)
 
 OHLC stands for open, high, low and close. We will understand more about this in the technical analysis module. For now, open is the price at which the stock opens for the day, high is the highest price at which the stock trade during the day, low is the lowest price at which the stock trades during the day and the close is the closing price of the stock. For example, the OHLC of ACC on 17th June 2014 was 1486, 1511, 1467 and 1499.
@@ -372,28 +327,6 @@ Prices of global depositary receipt are based on the values of related shares, b
 Several international banks issue GDRs, such as [JPMorgan Chase](https://en.wikipedia.org/wiki/JPMorgan_Chase), [Citigroup](https://en.wikipedia.org/wiki/Citigroup), [Deutsche Bank](https://en.wikipedia.org/wiki/Deutsche_Bank), [The Bank of New York Mellon](https://en.wikipedia.org/wiki/The_Bank_of_New_York_Mellon). GDRs are often listed in the [Frankfurt Stock Exchange](https://en.wikipedia.org/wiki/Frankfurt_Stock_Exchange), [Luxembourg Stock Exchange](https://en.wikipedia.org/wiki/Luxembourg_Stock_Exchange), and the [London Stock Exchange](https://en.wikipedia.org/wiki/London_Stock_Exchange), where they are traded on the International Order Book (IOB).
 
 https://en.wikipedia.org/wiki/Global_depository_receipt
-
-## Orders
-
-- **Product types**
-    - CNC (Cash n Carry)
-    - MIS (Margin Intraday Squareoff)
-    - NRML (Normal F&O trades)
-- **Order types**
-    - Limit (LMT) order
-    - Market (MKT) order
-    - Stoploss or trigger orders (SL and SL-M)
-    - Good till triggered (GTT)
-        - Single trigger
-        - OCO (One Cancels the Other) trigger
-    - Basket orders
-- **Advanced order types**
-    - Regular orders with time validity
-    - Cover orders
-    - Cover order with limit entry
-    - AMO (After market orders)
-
-https://kite.trade/docs/kite/orders
 
 ## Demat Account
 

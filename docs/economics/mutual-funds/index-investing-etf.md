@@ -185,7 +185,7 @@ An ETF is called an exchange-traded fund since it's traded on an exchange just l
 	- The Invesco QQQ Trust Series I (QQQ) is an exchange-traded fund that is based on the NASDAQ 100 index, a modified-market-cap-weighted index of 100 NASDAQ-listed stocks. QQQ was launched on Mar 10, 1999 and is issued by Invesco.
 	- [QQQ ETF Stock Price, Quote & Overview - Stock Analysis](https://stockanalysis.com/etf/qqq/)
 	- [QQQ vs. VGT — ETF Comparison - Stock Analysis](https://stockanalysis.com/etf/compare/qqq-vs-vgt/)
-- VGT - Vanguard Information Technology ETF
+- VGT - Vanguard Information Technology ETF (AGT ARCA)
 	- Assets - $85.55B
 	- **Expense Ratio - 0.10%**
 	- The Vanguard Information Technology ETF (VGT) is an exchange-traded fund that mostly invests in information technology equity. The fund tracks a market cap-weighted index of companies in the US information technology sector. VGT was launched on Jan 26, 2004 and is issued by Vanguard.
@@ -232,6 +232,7 @@ An ETF is called an exchange-traded fund since it's traded on an exchange just l
 - DAX 30 (Germany)
 	- includes 40 major German blue-chip companies
 - NIKKEI 225 (Japan)
+- MEXI is Mexiso, LSE i London, ARCA is NYSE
 
 https://www.youtube.com/watch?v=qRT917PvEns
 

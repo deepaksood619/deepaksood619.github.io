@@ -93,6 +93,8 @@ Open two instance of same application - **open -n MQTT.fx.app**
 
 - ~~Open MTP~~
 - ~~Android file transfer (doesn't work)~~
+    - MacDroid - mac app for transfering mobile to macbook for free (not wise verse)
+        - Use USB Debugging
     - `brew install grishka/grishka/neardrop`
     - [**ShareDrop**](https://www.sharedrop.io/)
     - **Localsend**

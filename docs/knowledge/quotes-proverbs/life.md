@@ -108,6 +108,8 @@ A man who carries a cat by the tail learns something he can learn no other way -
 
 Cut yourself off when you need to (if you give yourself shorter timelines, you'll get more done) - often 80% is sufficient
 
+What people commonly call fate is mostly their own stupidity.
+
 **The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge -- Stephen Hawking**
 
 **Whether you think you can or think you can't, you're right -- Henry Ford**

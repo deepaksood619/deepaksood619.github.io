@@ -245,7 +245,7 @@ GROUP BY
   table_schema
 order by number_of_tables desc;
 
--- delete data
+-- delete data from specific table
 TRUNCATE TABLE `dataset-name.database_name.table_name`;
 ```
 

@@ -1,5 +1,13 @@
 # Meetups / Talks / Sessions
 
+## Kafka Fundamentals - Max HealthCare (19 Feb 2024)
+
+[Kafka Fundamentals](https://deepaksood619.github.io/slides-kafka-fundamentals/)
+
+![Kafka Fundamentals](../media/Screenshot%202025-02-20%20at%206.04.18%20PM.jpg)
+
+[OpsTree Solutions on LinkedIn: #opstree #devops #kafka #datastreaming #techworkshop #knowledgesharing…](https://www.linkedin.com/posts/opstree-solutions_opstree-devops-kafka-ugcPost-7298275219016753152-f3ku/)
+
 ## Fuel Your Weekend with AI - ML Weekend (15 Feb 2024)
 
 TFUG Ghaziabad and PyDelhi invites tech enthusiasts, innovators, and experts to share their insights at ML Weekend.  Be part of this transformative event, showcasing groundbreaking ideas and advancements in Machine Learning and its impact on industries.
