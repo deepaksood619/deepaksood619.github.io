@@ -22,6 +22,8 @@ Vector databases are designed to handle critical query and algorithmic styles se
     - [Chroma Vector Database: Retrieval for LLMs (Hammad Bashir + Liquan Pei)](https://youtu.be/E4ot5d79jdA?si=6apWFfCdKbi7_yFK)
 - [GitHub - milvus-io/milvus: A cloud-native vector database, storage for next generation AI applications](https://github.com/milvus-io/milvus)
     - [Vector database - Milvus](https://milvus.io/)
+- [Qdrant - Vector Database - Qdrant](https://qdrant.tech/)
+	- [GitHub - qdrant/qdrant: Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/](https://github.com/qdrant/qdrant)
 
 ### Links
 

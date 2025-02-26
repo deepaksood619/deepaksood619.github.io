@@ -33,49 +33,6 @@ Tax Consulation - https://www.charteredclub.com/tax-consultation-with-ca-karan-b
 
 F&O - 2.5 lakh profit exemption per financial year
 
-## Income Tax
-
-| Income Tax Slabs        | Tax Rate for Individual & HUF Below the Age Of 60 Years |
-|------------------------|------------------------------------------------|
-| Up to ₹2,50,000*       | Nil                                                     |
-| ₹2,50,001 to ₹5,00,000  | 5% of total income exceeding ₹2,50,000                  |
-| ₹5,00,001 to ₹10,00,000 | ₹12,500 + 20% of total income exceeding ₹5,00,000       |
-| Above ₹10,00,000        | ₹1,12,500 + 30% of total income exceeding ₹10,00,000    |
-
-An additional 4% Health & education cess will be applicable on the tax amount calculated as above.
-
-Surcharge: 10% of income tax, where total income exceeds Rs.50 lakh up to Rs.1 crore.
-
-Surcharge: 15% of income tax, where the total income exceeds Rs.1 crore.
-
-So ~3cr or 2% of Indians out of 140cr invest.
-
-ITR filings for FY 20/21 by income.
-
-~4.8cr ₹5lks
-
-~90lks ₹5 to ₹10lks
-
-~43lks ₹10lks
-
-If people have to invest or spend more, they need to earn at least ₹2.5lks/yr?
-
-### Incomes exempt from paying tax
-
-1. Income from Agriculture (Agriculture Income)
-2. Gifts Received from Relatives
-3. Income from Gratuity
-4. Scholarships
-5. Certain Pensions - Pensions received by recipients of gallantry awards like the Mahavir Chakra, Param Vir Chakra, and Vir Chakra are tax-free. Additionally, the pension received by family members of Indian Armed Forces personnel is also exempt from tax.
-
-[Certain Pensions | Zee Business](https://www.zeebiz.com/personal-finance/photo-gallery-income-tax-season-non-taxable-5-types-income-exempt-from-taxation-agriculture-gifts-gratuity-scholarships-pension-300544/certain-pensions-300549)
-
-### New Tax Regime vs Old Tax Regime
-
-![Old vs New Tax Regime](../../media/Pasted%20image%2020250202154540.png)
-
-[The Old Tax Regime is almost dead](http://youtube.com/post/UgkxClgrQ0G3MrDevP87p1LjDb4ik-DOre9x)
-
 ## Freelancing / Freelancer / Consulting
 
 - 194J

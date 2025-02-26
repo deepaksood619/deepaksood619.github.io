@@ -72,3 +72,4 @@ The power of AI collaboration has too much to offer. CrewAI is a standalone fram
 - [Get started  \|  Genkit  \|  Firebase](https://firebase.google.com/docs/genkit/get-started)
 - [oscar - Git at Google](https://go.googlesource.com/oscar/)
 - [LLM Agents - Explained! - YouTube](https://www.youtube.com/watch?v=5CLNoPiMbUc)
+- [Agents 101: How to build your first AI Agent in 30 minutes!⚡️ - DEV Community](https://dev.to/copilotkit/agents-101-how-to-build-your-first-ai-agent-in-30-minutes-1042)

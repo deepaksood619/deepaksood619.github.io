@@ -15,7 +15,7 @@
     - [Compliance MCQs](cloud/aws/security-identity-compliance/compliance-mcqs.md)
     - [License Scanning](cloud/aws/security-identity-compliance/license-scanning.md)
     - [Security Guidelines](cloud/aws/security-identity-compliance/security-guidelines.md)
-- [Analytics](analytics/readme.md)
+- [Analytics](cloud/aws/analytics/readme.md)
     - [Amazon Athena](analytics/amazon-athena)
 - [Developer Tools](developer-tools/intro)
     - [Code Build](developer-tools/code-build)

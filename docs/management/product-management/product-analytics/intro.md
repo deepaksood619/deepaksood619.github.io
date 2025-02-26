@@ -69,20 +69,18 @@ Develop the **best** product or service and offer it at the **right price** thro
 
 ## 4 Ps of Marketing
 
-- **Product**
-    - Product features; Branding; Packaging
-- **Price**
-    - Product cost; Long term price changes
-- **Promotion**
-    - Price reduction, display and feature
-- **Place**
-    - Distribution: intensive, selective, exclusive
+- **Product** - Product features; Branding; Packaging
+- **Price** - Product cost; Long term price changes
+- **Promotion** - Price reduction, display and feature
+- **Place** - Distribution: intensive, selective, exclusive
 
 ## Physical and Online Retailers
 
 ![image](../../media/Customer-Analytics-in-Python_Intro-image1.jpg)
 
-## Price elasticity is: the percentage change in an economic outcome of interest with respect to one percent change in a respective price
+## Price elasticity 
+
+Price elasticity is: the percentage change in an economic outcome of interest with respect to one percent change in a respective price
 
 It is expected that: units sold from a brand would increase if the unit price of the brand decreases and would increase if the unit price of a competitor brand increases
 
@@ -255,4 +253,4 @@ The purchase probability of a client at $2.56 is 0.7, while their price elastici
 - **predict()**
 - **argmax -** Arguments of the maxima
 
-[Customer Analytics in Python](courses/customer-analytics-in-python/syllabus.md)
+[Customer Analytics in Python](management/product-management/product-analytics/customer-analytics-in-python.md)
