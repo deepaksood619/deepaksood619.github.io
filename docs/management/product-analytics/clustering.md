@@ -18,7 +18,7 @@
     - Manhattan distance
     - Maximum distance
 
-![image](../../../media/Customer-Analytics-in-Python_Intro-image3.jpg)
+![image](../../media/Customer-Analytics-in-Python_Intro-image3.jpg)
 
 - Segmentation between clusters
     - Ward method (|A-B|^2)/n~scale~
@@ -73,12 +73,12 @@ Problems
 
 ## Within Cluster Sum of Squares (WCSS) is used to determine best clustering solution
 
-![image](../../../media/Customer-Analytics-in-Python_Intro-image4.jpg)
+![image](../../media/Customer-Analytics-in-Python_Intro-image4.jpg)
 
 Choosing number of clusters - Elbow method
 
-![image](../../../media/Customer-Analytics-in-Python_Intro-image5.jpg)
+![image](../../media/Customer-Analytics-in-Python_Intro-image5.jpg)
 
-![image](../../../media/Customer-Analytics-in-Python_Intro-image6.jpg)
+![image](../../media/Customer-Analytics-in-Python_Intro-image6.jpg)
 
-![image](../../../media/Customer-Analytics-in-Python_Intro-image7.jpg)
+![image](../../media/Customer-Analytics-in-Python_Intro-image7.jpg)

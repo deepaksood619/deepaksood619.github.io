@@ -6,3 +6,5 @@
 - [RFM Analysis](management/product-analytics/rfm-analysis.md)
 - [Clustering](management/product-analytics/clustering.md)
 - [Purchase Analytics](management/product-analytics/purchase-analytics.md)
+- [Tools](management/product-analytics/tools.md)
+- [Firebase / Google Analytics](cloud/others/firebase/firebase-google-analytics.md)
