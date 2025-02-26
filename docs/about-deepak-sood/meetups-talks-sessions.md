@@ -1,5 +1,13 @@
 # Meetups / Talks / Sessions
 
+## Head Mentor for HackHound 3.0 - (28 Feb 2024)
+
+![Head Mentor for HackHound 3.0](../media/Screenshot%202025-02-27%20at%2012.22.55%20AM.jpg)
+
+[Deepak Sood on LinkedIn: #hackhound #techmentor #ai #devops #dataengineering #innovation…](https://www.linkedin.com/posts/deepaksood619_hackhound-techmentor-innovation-activity-7300587865443377152-NsFa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
+
+[HackHound on LinkedIn: #hackhound3 #hackathon #innovationinaction](https://www.linkedin.com/posts/hackhound_hackhound3-hackathon-innovationinaction-activity-7300473629589352448-c57n?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
+
 ## Kafka Fundamentals - Max HealthCare (19 Feb 2024)
 
 [Kafka Fundamentals](https://deepaksood619.github.io/slides-kafka-fundamentals/)

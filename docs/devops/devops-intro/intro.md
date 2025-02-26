@@ -49,6 +49,37 @@ Monitoring means knowing what's going on inside your system, how much traffic it
 
 **Remediation is a more thorough and long-term solution than repair**. Repair is for minor damage that doesn't have an underlying cause. Remediation is for major or recurring damage caused by an underlying issue.
 
+## Learning / Roadmap
+
+1. devops-exercises (67.9k⭐)
+	- Extensive practice with Linux, AWS, Docker, K8s
+	- 2600+ hands-on exercises & scenarios
+	- [GitHub - bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions](https://github.com/bregman-arie/devops-exercises)
+
+2. DevOps Interview Guide 
+	- Cloud & DevOps specific scenarios
+	- Certification preparation resources
+	- [GitHub - ramanagali/Interview\_Guide: Interview, Certification preparation guide for Cloud DevOps professionals](https://github.com/ramanagali/Interview_Guide)
+
+3. DevOps Projects by NotHarshhaa
+	- Real-world project implementations
+	- Step-by-step deployment guides
+	- [GitHub - NotHarshhaa/DevOps-Projects: 𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 \[𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅\]](https://github.com/NotHarshhaa/DevOps-Projects)
+
+4. DevOps Interview Questions
+	- Comprehensive question bank
+	- Latest industry practices covered
+	- [GitHub - rohitg00/devops-interview-questions: Creating this repository as a central hub for all DevOps interview questions to help you land your next job.](https://github.com/rohitg00/devops-interview-questions)
+
+5. Cloud-DevOps Learning Resources
+	- Free courses & tutorials
+	- Community contributed resources
+	- [GitHub - ahmedtariq01/Cloud-DevOps-Learning-Resources: This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources)
+
+[DevOps Roadmap: Learn to become a DevOps Engineer or SRE](https://roadmap.sh/devops)
+
+[GitHub - milanm/DevOps-Roadmap: DevOps Roadmap for 2025. with learning resources](https://github.com/milanm/DevOps-Roadmap)
+
 ## References
 
 - https://www.toptal.com/devops/bridging-gaps-devops-communication
