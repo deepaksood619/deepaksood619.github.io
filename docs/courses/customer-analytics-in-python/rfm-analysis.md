@@ -14,7 +14,7 @@ An RFM model is a customer segmentation technique that uses recency, frequency,
 4. Segment customers into groups based on their RFM scores
 5. Use the segments to create marketing strategies
 
-### Benefits of RFM 
+### Benefits of RFM
 
 - Identify high-value customers
 - Create better offers and experiences to keep customers engaged

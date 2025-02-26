@@ -7,6 +7,8 @@
 - [Chart](chart)
 - [Food](food)
 - [Pulses / Daal / Lentils](pulses-daal-lentils)
+- [Grains](knowledge/biology/nutrition/grains.md)
+- [Oils](knowledge/biology/nutrition/oils.md)
 - [Honey](knowledge/biology/nutrition/honey.md)
 - [Ecology](ecology)
 - [Recipe](recipe)
@@ -16,8 +18,7 @@
 ### Biggest Factors for bad health and death
 
 - Ultra processed food
-- Tobacco
-- Alcohol
+- Tobacco / Alcohol
 - Lack of exercise
 
 ## Links

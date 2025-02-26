@@ -29,7 +29,7 @@ Disclosed quantity feature while placing equity orders allows only a part of the
 - TIF (Time in Force)
 - Day - Till the end of day if Limit get's triggered
 - IOC - Now or never at Limit order
-- AON - All-or-None order - An all-or-none (AON) order is a stock trade order that must be executed in full or not at all. AON orders are considered restricted. 
+- AON - All-or-None order - An all-or-none (AON) order is a stock trade order that must be executed in full or not at all. AON orders are considered restricted.
 
 ## Orders
 
@@ -48,6 +48,7 @@ Disclosed quantity feature while placing equity orders allows only a part of the
 	- Single trigger
 	- OCO (One Cancels the Other) trigger
 - Basket orders
+
 ### Advanced order types
 
 - Regular orders with time validity

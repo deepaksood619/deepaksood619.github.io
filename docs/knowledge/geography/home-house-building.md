@@ -36,6 +36,8 @@ https://www.youtube.com/watch?v=dy81ldYQdgY
 - [VITAAN : Luxury in the lap of nature… #allaboutarchitecture - YouTube](https://www.youtube.com/watch?v=Sw5tO6QQACI&ab_channel=ALLABOUTARCHITECTURE)
 - [Luxury Penthouse For Sale 5000Sqft Tripple Story On #Airport Road Mohali Lowest Price in #Mohali - YouTube](https://www.youtube.com/watch?v=vhCNDOULPwE&ab_channel=LiveSiteVisit)
 - $200,000 - 1.7 cr whole villa in bali
+- [DLF Camellias ₹100 Cr Luxury Masterpiece with GRANDEUR Features and Investment Potential! - YouTube](https://www.youtube.com/watch?v=910iUxbT8iI)
+- [Inside Virat Kohli’s Spacious Nature Inspired Holiday Home \| AD India - YouTube](https://www.youtube.com/watch?v=wpf5ga_nu3A)
 
 ## Passive House
 

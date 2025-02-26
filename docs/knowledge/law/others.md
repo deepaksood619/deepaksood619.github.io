@@ -24,9 +24,9 @@ Under the [Indian](https://en.wikipedia.org/wiki/India) legal system, jurisdicti
 - **The [writ of quo warranto](https://en.wikipedia.org/wiki/Writ_of_quo_warranto)(by what authority; under what warrant)** is issued against a person who claims or usurps a public office. Through this writ, the court inquires 'by what authority' the person supports his or her claim.
 - **The [writ of prohibition](https://en.wikipedia.org/wiki/Writ_of_prohibition)(forbid)** is issued by a higher court to a lower court prohibiting it from taking up a case because it falls outside the jurisdiction of the lower court. Thus, the higher court transfers the case to itself.
 
-MSA- Master Service Agreement
+**MSA- Master Service Agreement -** MSA is a contract that outlines the terms of a business relationship between two parties. It's a legal document that covers the rights and responsibilities of both parties.
 
-SOW- Statement of Work.
+SOW - Statement of Work
 
 ## Doctrine
 

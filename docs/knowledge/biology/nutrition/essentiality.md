@@ -64,8 +64,8 @@ By definition, [phytochemicals](https://en.wikipedia.org/wiki/Phytochemical) inc
 
 ## Proteins
 
-- **Whey protein:**Whey protein is a milk protein that is quickly absorbed by the body, making it useful before or after your workout. It also contains bioactive proteins that may offer other [health benefits](https://www.healthline.com/nutrition/10-health-benefits-of-whey-protein).
-- **Casein protein:**Casein is the other milk protein that digests much slower than whey, making it ideal during periods of fasting like sleep. What's more, some brands of casein protein offer up to 60% of your RDA for calcium per scoop.
-- **Egg protein:**Egg protein powders are made with pure egg white protein. They digest at a medium rate and are one of the most expensive protein supplements on the market.
-- **Soy protein:**Soy protein is one of the few plant proteins that contains all of the essential amino acids, making it a complete protein source for vegetarians.
-- **Rice and pea protein:**Rice and pea proteins do not contain all of the essential amino acids, but combining them makes them a complete protein. They are low-allergenic, making them appealing to those with egg, dairy or soy allergies.
+- **Whey protein:** Whey protein is a milk protein that is quickly absorbed by the body, making it useful before or after your workout. It also contains bioactive proteins that may offer other [health benefits](https://www.healthline.com/nutrition/10-health-benefits-of-whey-protein).
+- **Casein protein:** Casein is the other milk protein that digests much slower than whey, making it ideal during periods of fasting like sleep. What's more, some brands of casein protein offer up to 60% of your RDA for calcium per scoop.
+- **Egg protein:** Egg protein powders are made with pure egg white protein. They digest at a medium rate and are one of the most expensive protein supplements on the market.
+- **Soy protein:** Soy protein is one of the few plant proteins that contains all of the essential amino acids, making it a complete protein source for vegetarians.
+- **Rice and pea protein:** Rice and pea proteins do not contain all of the essential amino acids, but combining them makes them a complete protein. They are low-allergenic, making them appealing to those with egg, dairy or soy allergies.

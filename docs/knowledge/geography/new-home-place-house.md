@@ -218,6 +218,7 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
     - Rentomojo
 - Solar - [Solar System for Home with 23% ROE - with Excel Calculation | Solar subsidy and utility | - YouTube](https://www.youtube.com/watch?v=EB2CZJz1dIY)
 - Daily dump composter
+	- [What do Food Recyclers actually do, and why do they matter?](https://www.mill.com/blog/what-do-food-recyclers-actually-do-and-why-do-they-matter)
 - Not near airport, or noisy place
 
 ### Thoughts

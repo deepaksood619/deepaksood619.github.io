@@ -91,11 +91,14 @@ These 2 essential fatty acids are the starting point for other important omega-a
     - Water
     - Fiber
 
-## Dietary fiber or roughage is the portion of plant-derived food that cannot be completely broken down by [digestive enzymes](https://en.wikipedia.org/wiki/Digestive_enzyme).It has two main components
+## Dietary fiber
 
-- Soluble fiber -- which dissolves in water -- is readily fermented in the [colon](https://en.wikipedia.org/wiki/Colon_(anatomy)) into gases and physiologically active [by-products](https://en.wikipedia.org/wiki/By-product), such as [short-chain fatty acids](https://en.wikipedia.org/wiki/Short-chain_fatty_acid) produced in the [colon](https://en.wikipedia.org/wiki/Colon_(anatomy)) by [gut bacteria](https://en.wikipedia.org/wiki/Gut_flora); it is [viscous](https://en.wikipedia.org/wiki/Viscous), may be called [prebiotic](https://en.wikipedia.org/wiki/Prebiotic_(nutrition)) fiber, and delays [gastric emptying](https://en.wikipedia.org/wiki/Stomach#Function) which, in humans, can result in an extended feeling of fullness.
-- Insoluble fiber -- which does not dissolve in water -- is inert to digestive enzymes in the upper [gastrointestinal tract](https://en.wikipedia.org/wiki/Gastrointestinal_tract) and provides bulking.Some forms of insoluble fiber, such as [resistant starches](https://en.wikipedia.org/wiki/Resistant_starch), can be fermented in the colon.Bulking fibers absorb water as they move through the [digestive system](https://en.wikipedia.org/wiki/Digestive_system), easing [defecation](https://en.wikipedia.org/wiki/Defecation).
+Dietary Fiber or roughage is the portion of plant-derived food that cannot be completely broken down by [digestive enzymes](https://en.wikipedia.org/wiki/Digestive_enzyme).
 
+It has two main components -
+
+- **Soluble fiber -** which dissolves in water -- is readily fermented in the [colon](https://en.wikipedia.org/wiki/Colon_(anatomy)) into gases and physiologically active [by-products](https://en.wikipedia.org/wiki/By-product), such as [short-chain fatty acids](https://en.wikipedia.org/wiki/Short-chain_fatty_acid) produced in the [colon](https://en.wikipedia.org/wiki/Colon_(anatomy)) by [gut bacteria](https://en.wikipedia.org/wiki/Gut_flora); it is [viscous](https://en.wikipedia.org/wiki/Viscous), may be called [prebiotic](https://en.wikipedia.org/wiki/Prebiotic_(nutrition)) fiber, and delays [gastric emptying](https://en.wikipedia.org/wiki/Stomach#Function) which, in humans, can result in an extended feeling of fullness.
+- **Insoluble fiber -** which does not dissolve in water -- is inert to digestive enzymes in the upper [gastrointestinal tract](https://en.wikipedia.org/wiki/Gastrointestinal_tract) and provides bulking.Some forms of insoluble fiber, such as [resistant starches](https://en.wikipedia.org/wiki/Resistant_starch), can be fermented in the colon.Bulking fibers absorb water as they move through the [digestive system](https://en.wikipedia.org/wiki/Digestive_system), easing [defecation](https://en.wikipedia.org/wiki/Defecation).
 - Antioxidants
 
 ## Micronutrients

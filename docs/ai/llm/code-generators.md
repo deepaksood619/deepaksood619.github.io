@@ -83,3 +83,4 @@ You can also ask me questions about your editor selection by starting an inline 
 - [Aider LLM Leaderboards | aider](https://aider.chat/docs/leaderboards/)
 - [BigCodeBench: The Next Generation of HumanEval](https://huggingface.co/blog/leaderboard-bigcodebench)
 - [BigCodeBench Leaderboard](https://bigcode-bench.github.io/)
+- [GitHub Copilot: The agent awakens - The GitHub Blog](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)

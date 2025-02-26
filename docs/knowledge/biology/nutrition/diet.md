@@ -37,6 +37,8 @@ People are overweight because they eat too much. It is also really hard to stop.
 
 - Your brain has specific neural circuitry designed to avoid starvation and, by extension, any rapid weight-loss. When you lose a lot of body fat, your hunger levels increase to encourage you to bring it back up.
 
+![Don't Die Food Guide](../../../media/Screenshot%202025-02-25%20at%2011.17.08%20AM.jpg)
+
 ## Links
 
 - How Not to Die, Book by Gene Stone and Michael Greger
