@@ -76,7 +76,7 @@ Develop the **best** product or service and offer it at the **right price** thro
 
 ## Physical and Online Retailers
 
-![image](../../../media/Customer-Analytics-in-Python_Intro-image1.jpg)
+![image](../../media/Customer-Analytics-in-Python_Intro-image1.jpg)
 
 ## Price elasticity 
 
@@ -84,7 +84,7 @@ Price elasticity is: the percentage change in an economic outcome of interest wi
 
 It is expected that: units sold from a brand would increase if the unit price of the brand decreases and would increase if the unit price of a competitor brand increases
 
-![image](../../../media/Customer-Analytics-in-Python_Intro-image2.jpg)
+![image](../../media/Customer-Analytics-in-Python_Intro-image2.jpg)
 
 - Price elasticity of purchase probability
 - Price elasticity of brand choice probability

@@ -4,11 +4,11 @@
 
 % change in purchase probability in response to a 1% change in price
 
-![image](../../../media/Customer-Analytics-in-Python_Intro-image8.jpg)
+![image](../../media/Customer-Analytics-in-Python_Intro-image8.jpg)
 
-![image](../../../media/Customer-Analytics-in-Python_Intro-image9.jpg)
+![image](../../media/Customer-Analytics-in-Python_Intro-image9.jpg)
 
-![image](../../../media/Customer-Analytics-in-Python_Intro-image10.jpg)
+![image](../../media/Customer-Analytics-in-Python_Intro-image10.jpg)
 
 We have a product, which costs $2.40-. We have obtained the price elasticity of purchase probability to be -0.79. The customer at this price point is: inelastic
 
@@ -24,11 +24,11 @@ The purchase probability of a client at $2.56 is 0.7, while their price elastici
 
 ## Multinomial Logistic Regression - For a multiclass scenario
 
-![image](../../../media/Customer-Analytics-in-Python_Intro-image11.jpg)
+![image](../../media/Customer-Analytics-in-Python_Intro-image11.jpg)
 
-![image](../../../media/Customer-Analytics-in-Python_Intro-image12.jpg)
+![image](../../media/Customer-Analytics-in-Python_Intro-image12.jpg)
 
-![image](../../../media/Customer-Analytics-in-Python_Intro-image13.jpg)
+![image](../../media/Customer-Analytics-in-Python_Intro-image13.jpg)
 
 ## Deep Learning
 
