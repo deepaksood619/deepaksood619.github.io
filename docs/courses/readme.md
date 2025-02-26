@@ -25,9 +25,7 @@
 4. [Advanced Statistical Methods in Python](courses/365-ds-advanced-stastistical-methods-in-python.md)
 5. [Credit Risk Modeling in Python](courses/course-credit-risk-modeling/syllabus.md)
 6. [Time Series Analysis in Python](courses/course-time-series-analysis/syllabus.md)
-7. [Customer Analytics in Python](courses/customer-analytics-in-python/syllabus.md)
-	1. [Marketing mix modeling (MMM)](courses/customer-analytics-in-python/marketing-mix-modeling-MMM.md)
-	2. [RFM Analysis](courses/customer-analytics-in-python/rfm-analysis.md)
+7. [Customer Analytics in Python](management/product-analytics/customer-analytics-in-python.md)
 8. [Mathematics](courses/365-ds-mathematics.md)
 
 ## Others

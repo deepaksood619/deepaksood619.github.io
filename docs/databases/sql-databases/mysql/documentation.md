@@ -837,7 +837,7 @@ SQLServer collation refers to a set of character and character encoding rules, a
 
 10.8 Collation Issues
 
-10.8.1 Using COLLATE in SQL Statements
+10.8.1 Using COLLATE in SQL Statements - Collation is a set of rules that tell database engine how to compare and sort the character data in SQL Server.
 
 10.8.2 COLLATE Clause Precedence
 

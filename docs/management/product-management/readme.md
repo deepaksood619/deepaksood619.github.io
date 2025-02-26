@@ -11,3 +11,4 @@
 - [Behavioral Design / Economics](behavioral-design-economics)
 - [Product - Terms](management/product-management/product-terms-saas.md)
 - [Retail / Offline / Sales](management/product-management/retail-offline-sales.md)
+- [Product Analytics](management/product-analytics/readme.md)

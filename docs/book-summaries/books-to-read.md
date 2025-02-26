@@ -27,10 +27,6 @@
 - Misbehaving
 - Nudge
 
-## Financial
-
-- The Acquirer's Multiple
-
 ## Book List
 
 - 177 mental toughness secret of the world class
@@ -212,6 +208,8 @@ Book recommendation by Barack Obama
 - Freakonomics by Steven D. Levitt and Shephen J. Dubner
 - Courage to Act Ben Bernanke
 - The Underconver Economist by Tim Harford
+- The Acquirer's Multiple
+- Money, Myths And Mantras: The Ultimate Investment Guide | Wealth Creation & Financial Wisdom | Debunking Myths, Breaking Rules & Building Smart Strategies by Devina Mehra
 
 ## Bhagavad Gita
 

@@ -83,3 +83,5 @@ Bellum omnium contra omnes (the war of all against all)
 Monkey see, monkey do
 
 _**Homo faber**_ ([Latin](https://en.wikipedia.org/wiki/Latin_language "Latin language") for '[Man](https://en.wikipedia.org/wiki/Human_being "Human being") the Maker') is the concept that human beings are able to control their fate and their environment as a result of the use of tools.
+
+[Sine qua non - Wikipedia](https://en.wikipedia.org/wiki/Sine_qua_non)

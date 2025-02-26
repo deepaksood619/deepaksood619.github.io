@@ -9,5 +9,6 @@
 - [AWS Redshift](aws-redshift/readme.md)
 - [MySQL](mysql/readme.md)
 - [Postgres](postgres/readme.md)
+- [Oracle Database](databases/sql-databases/oracle-database.md)
 - [memsql](memsql/readme.md)
     - [Intro](memsql/intro)

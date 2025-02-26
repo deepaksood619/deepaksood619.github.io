@@ -6,7 +6,7 @@
 - [Non Linear Regression](non-linear-regression)
 - [Linear Discrimant Analysis (LDA)](linear-discriminant-analysis-lda)
 - [Classification](classification)
-- [Clustering](clustering)
+- [Clustering](ai/ml-algorithms/clustering.md)
 - [Decision Tree](decision-tree)
 - [ID3, C4.4 and CHAID](id3-c45-and-chaid)
 - [Bayes Classification](bayes-classification)

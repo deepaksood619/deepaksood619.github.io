@@ -17,33 +17,19 @@ All data stored in a relational database is of a certain data type. Some of the 
 
 ## SQL Databases
 
-1. Oracle Database
-2. MySQL
-3. Microsoft SQL Server
-4. IBM DB2
-5. Postgres
+1. [Oracle Database](databases/sql-databases/oracle-database.md)
+2. [MySQL](databases/sql-databases/mysql/readme.md)
+3. [Postgres](databases/sql-databases/postgres/readme.md)
+4. Microsoft SQL Server
+5. IBM DB2
 
-### MySQL
-
-- MySQL is the most popular open source SQL database. It is typically used for web application development, and often accessed using PHP.
-- The main advantages of MySQL are that it is easy to use, inexpensive, reliable (has been around since 1995) and has a large community of developers who can help answer questions.
-- Some of the disadvantages are that it has been known to suffer from poor performance when scaling, open source development has lagged since Oracle has taken control of MySQL, and it does not include some advanced features that developers may be used to.
-
-### Oracle DB
-
-- Oracle corporation owns Oracle DB, and the code is not open source.
-- Oracle DB is for large applications, particularly in the banking industry. Most of the world's top banks run Oracle applications because Oracle offers a powerful combination of technology and comprehensive, pre-integrated business applications, including essential functionality built specifically for banks.
-- The main disadvantage of using Oracle is that it is not free to use like its open source competitors and can be quite expensive.
-
-[Bi-Directional Replication](https://docs.oracle.com/en/middleware/goldengate/core/21.3/coredoc/administer-configuring-bi-directional-replication.html)
-
-### SQL Server / MS SQL / Microsoft SQL Server
+## SQL Server / MS SQL / Microsoft SQL Server
 
 - Microsoft owns SQL Server. Like Oracle DB, the code is also close sourced.
 - Large enterprise applications mostly use SQL Server. The key difference between Oracle and SQL Server is that SQL Server only supports the Windows Operating System.
 - Microsoft offers a free entry-level version called Express but can become very expensive as you scale your application.
 
-## SQL Server Integration Service (SSIS)
+### SQL Server Integration Service (SSIS)
 
 SQL Server Integration Services(SSIS) is a component of the [Microsoft SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server) database software that can be used to perform a broad range of [data migration](https://en.wikipedia.org/wiki/Data_migration) tasks.
 
@@ -53,7 +39,7 @@ First released with Microsoft SQL Server 2005, SSIS replaced [Data Transformatio
 
 https://en.wikipedia.org/wiki/SQL_Server_Integration_Services
 
-## SQL Server Reporting Service (SSRS)
+### SQL Server Reporting Service (SSRS)
 
 SQL Server Reporting Services (SSRS) provides a set of on-premises tools and services that create, deploy, and manage mobile and paginated reports.
 

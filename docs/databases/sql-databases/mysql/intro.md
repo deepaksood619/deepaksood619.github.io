@@ -8,6 +8,10 @@ Master slave architecture, so scales up pretty well
 
 MySQL is an open-source relational database management system. It is considered a "fast, stable, and true multi-user, multi-threaded sql server." MySQL is used in many web applications and websites, and there are several commercial databases that are compatible with it. Users interact with the database through the Structured Query Language (SQL). The default version of MySQL uses InnoDB as a storage engine. However, the MySQL storage engine architecture is pluggable, allowing for a specialized storage engine to be used. MySQL has been actively updated and supported since 1995, with new versions being released every 1-3 years. Several MySQL forks exist, most notably MariaDB, which is led by the original MySQL developers. Oracle, which acquired MySQL in 2010, offers several paid editions of the DBMS that offer additional features.
 
+- MySQL is the most popular open source SQL database. It is typically used for web application development, and often accessed using PHP.
+- The main advantages of MySQL are that it is easy to use, inexpensive, reliable (has been around since 1995) and has a large community of developers who can help answer questions.
+- Some of the disadvantages are that it has been known to suffer from poor performance when scaling, open source development has lagged since Oracle has taken control of MySQL, and it does not include some advanced features that developers may be used to.
+
 ## History
 
 MySQL was first released on May 23, 1995. It was created by MySQL AB, and first developed by two of MySQL AB's founders, David Axmark and Monty Widenius. Sun Microsystems acquired MySQL AB in 2008, and thus Oracle acquired MySQL through their 2010 acquisition of Sun. In response to the Oracle purchase, Michael Widenius forked MySQL, creating MariaDB.

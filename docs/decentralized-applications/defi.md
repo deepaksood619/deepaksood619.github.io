@@ -31,13 +31,14 @@
 
 ## Applications
 
-1. Decentralized exchanges (DEXs): DEXs allow users to trade cryptocurrencies in a decentralized manner without relying on a centralized exchange. Examples of popular DEXs include Uniswap, Sushiswap, and Balancer.
-2. Lending protocols: DeFi lending protocols allow users to lend and borrow cryptocurrencies without intermediaries. Examples of popular lending protocols include Aave, Compound, and MakerDAO.
-3. Stablecoins: Stablecoins are cryptocurrencies that are pegged to the value of a stable asset, such as the US dollar. They are designed to minimize volatility and provide a stable store of value. Examples of popular stablecoins include USDC, DAI, and Tether.
-4. Automated market makers (AMMs): AMMs are algorithms that determine the price of a cryptocurrency based on its supply and demand. They are used in liquidity pools to facilitate decentralized trading.
+1. **Decentralized exchanges (DEXs):** DEXs allow users to trade cryptocurrencies in a decentralized manner without relying on a centralized exchange. Examples of popular DEXs include Uniswap, Sushiswap, and Balancer.
+2. **Lending protocols:** DeFi lending protocols allow users to lend and borrow cryptocurrencies without intermediaries. Examples of popular lending protocols include Aave, Compound, and MakerDAO.
+3. **Stablecoins:** Stablecoins are cryptocurrencies that are pegged to the value of a stable asset, such as the US dollar. They are designed to minimize volatility and provide a stable store of value. Examples of popular stablecoins include USDC, DAI, and Tether.
+	1. [What's Your Stablecoin Strategy?](https://www.fintechbrainfood.com/p/what-s-your-stablecoin-strategy)
+4. **Automated market makers (AMMs):** AMMs are algorithms that determine the price of a cryptocurrency based on its supply and demand. They are used in liquidity pools to facilitate decentralized trading.
 5. [Yield Farming](decentralized-applications/liquidity-mining.md#yield%20farming)
-6. Decentralized finance infrastructure: DeFi infrastructure projects, such as Chainlink and The Graph, provide the building blocks that power many DeFi applications, such as oracles that bring external data to DeFi protocols.
-7. Insurance protocols: DeFi insurance protocols allow users to insure against the risk of smart contract failure or other risks. Examples of DeFi insurance protocols include Nexus Mutual and Cover Protocol.
+6. **Decentralized finance infrastructure:** DeFi infrastructure projects, such as Chainlink and The Graph, provide the building blocks that power many DeFi applications, such as oracles that bring external data to DeFi protocols.
+7. **Insurance protocols:** DeFi insurance protocols allow users to insure against the risk of smart contract failure or other risks. Examples of DeFi insurance protocols include Nexus Mutual and Cover Protocol.
 8. [Liquidity Mining](decentralized-applications/liquidity-mining.md)
 
 ### Oracles
