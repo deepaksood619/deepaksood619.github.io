@@ -111,6 +111,7 @@ This is **Maxwell's daemon**, a [change data capture](https://www.confluent.io/b
 - airbyte
 - debezium
 - attunity (now Qlik replicate)
+	- [CDC Streaming: Modern Analytics & Data Replication \| Qlik](https://www.qlik.com/us/products/qlik-data-streaming-cdc)
 - fivetran
 - Talend
 - Matillion

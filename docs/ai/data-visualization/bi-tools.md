@@ -25,6 +25,7 @@ Overall, both Power BI and Google data studio are similar when it comes to data 
 
 - [Qlik Data Integration, Data Quality, and Analytics Solutions](https://www.qlik.com/us)
 - [Qlik Sense | Modern Analytics](https://www.qlik.com/us/products/qlik-sense)
+- [CDC Streaming: Modern Analytics & Data Replication \| Qlik](https://www.qlik.com/us/products/qlik-data-streaming-cdc)
 
 ## Others
 

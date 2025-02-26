@@ -167,6 +167,7 @@ It is 5% of the remittance amount above INR 7 Lakhs. From October 1, 2023 onward
 
 ### Wise / TransferWise
 
+- Wise don't support foreign equity investment transfer from India
 - [International Money transfer comparison \| Compare best exchange rates - Wise](https://wise.com/in/compare/)
 
 ### Others

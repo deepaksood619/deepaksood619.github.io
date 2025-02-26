@@ -85,6 +85,22 @@ The whole world is moving towards electric, but India is pushing more towards Hy
 
 [Here are Vinod Khosla's 10 predictions for the coming decades](https://www.cnbctv18.com/technology/here-are-vinod-khosla-10-predictions-for-the-coming-decades-18240961.htm)
 
+### Mobility
+
+#### Self Driving Car
+
+Self driving car is the future of transportation and I want to contribute to one of the biggest problem that humanity is facing by solving deaths by vehicles by removing all the deaths caused by human errors. Also Earth cannot support 11 billion privately owned cars, so ride sharing is going to solve that problem. Better communication between vehicles, intelligent routing, better vision and better understanding of roads are huge problems that must be solved in coming decade and I want to contribute to that.
+
+#### Flying Cars
+
+But flying cars with autonomous flight capacity can democratise that too, so people don't have to live in a dense area. Since right now can reach 10km in 10 mins, but with flying cars they can reach maybe 50km in 10 mins.
+
+And ofcourse we can move from a 1D plane of travel to multi layer travel in air. All infrastructure can be reclaimed back from ground to plant more trees. Atleast between cities.
+
+Future -
+Flying taxi
+Autonomous vehicle
+
 ## Future
 
 - [news-problems](knowledge/other-topics/news-problems.md)
@@ -101,6 +117,8 @@ The whole world is moving towards electric, but India is pushing more towards Hy
 	- Gold and crypto price will increase a lot, increase allocation to both in your portfolio
 	- Reduce USD Exposure
 - [2024's Biggest Breakthroughs in Physics - YouTube](https://youtu.be/UhG56kltfP4)
+- [The 200 Best Inventions of 2024 \| TIME](https://time.com/collection/best-inventions-2024/)
+- [Timeline of historic inventions - Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions)
 
 ### Jobs
 
@@ -131,14 +149,6 @@ Is there a solar panel mafia in India, which itself can import cheap solar panel
 Solar panels democratise energy, instead of a centralised source and dependency.
 
 But for a highly dense area, solar panels at individual level doesn't make sense.
-
-But flying cars with autonomous flight capacity can democratise that too, so people don't have to live in a dense area. Since right now can reach 10km in 10 mins, but with flying cars they can reach maybe 50km in 10 mins.
-
-And ofcourse we can move from a 1D plane of travel to multi layer travel in air. All infrastructure can be reclaimed back from ground to plant more trees. Atleast between cities.
-
-Future -
-Flying taxi
-Autonomous vehicle
 
 A very much problem with voice dictation is that, it beaches privacy, since others can hear what you are saying, but typing solves it, but typing is slow, so next evaluation is direct brain to text. What I am thinking can directly go to mobile or other devices i.e brain computer interface. Even a step further from one brain to others brain. That will be a leap in human communication.
 
