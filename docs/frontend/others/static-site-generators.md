@@ -102,7 +102,7 @@ Transform your plain text into static websites and blogs
 - [Home | VuePress](https://vuepress.vuejs.org/)
 - Paid - [ReadMe](https://readme.com/)
 
-### Comparision
+### Comparison
 
 - [astro vs docusaurus vs strapi vs vuepress | npm trends](https://npmtrends.com/astro-vs-docusaurus-vs-strapi-vs-vuepress)
 - [We rebuilt our docs from scratch. It was worth it.](https://www.tinybird.co/blog-posts/new-docs)

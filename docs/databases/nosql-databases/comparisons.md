@@ -1,4 +1,4 @@
-# Comparisions
+# Comparisons
 
 ## Postgres vs MySQL / MySQL vs Postgres
 

@@ -2,7 +2,7 @@
 
 ## Balance Sheet: A Life Cycle Perspective
 
-![image](../../media/Accounting-for-Finance_3A-Balance-Sheet-Comparisions-image1.jpg)
+![image](../../media/Accounting-for-Finance_3A-Balance-Sheet-Comparisons-image1.jpg)
 
 ## Sector and Industry Differences
 

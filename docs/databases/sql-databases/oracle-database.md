@@ -43,7 +43,7 @@ For full physical replication (including schema, data, and all objects), Oracle 
 
 #### Oracle GoldenGate vs Oracle Data Guard
 
-While both Oracle GoldenGate and Data Guard are used for database replication, the key difference is that GoldenGate is a more flexible, heterogeneous replication solution, allowing data replication across different database platforms, while Data Guard is primarily designed for Oracle-specific disaster recovery with a focus on high availability and data protection within an Oracle environment; meaning GoldenGate is better for complex data transformations and cross-platform replication, while Data Guard excels at fast failover and switchover in a disaster scenario. 
+While both Oracle GoldenGate and Data Guard are used for database replication, the key difference is that GoldenGate is a more flexible, heterogeneous replication solution, allowing data replication across different database platforms, while Data Guard is primarily designed for Oracle-specific disaster recovery with a focus on high availability and data protection within an Oracle environment; meaning GoldenGate is better for complex data transformations and cross-platform replication, while Data Guard excels at fast failover and switchover in a disaster scenario.
 
 ##### Key points to differentiate
 
@@ -54,7 +54,7 @@ While both Oracle GoldenGate and Data Guard are used for database replication, t
 
 ##### Primary Use Cases
 
-- **GoldenGate:** Data integration, data migration, real-time data replication across different platforms, data cleansing and filtering during replication. 
+- **GoldenGate:** Data integration, data migration, real-time data replication across different platforms, data cleansing and filtering during replication.
 - **Data Guard:** Disaster recovery, high availability, ensuring minimal data loss during switchover or failover operations.
 
 #### Attunity Replicate (now part of Qlik)

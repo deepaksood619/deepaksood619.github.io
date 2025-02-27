@@ -30,8 +30,8 @@ AppsFlyer and CleverTap are both mobile marketing platforms that help businesses
 | **Features**  | Measurement, analytics, engagement, and fraud protection | Personalization and optimization of consumer touch points |
 | **Use cases** | Predictable app growth                                   | Improved user engagement, retention, and lifetime value   |
 
-You can integrate AppsFlyer and CleverTap to track install events, custom events, and in-app events. 
+You can integrate AppsFlyer and CleverTap to track install events, custom events, and in-app events.
 
-AppsFlyer features In-app purchase and subscription revenue SDK connector, Free text-to-image AI search capabilities, Raw data export and Pull API, and Multi-touch attribution. 
+AppsFlyer features In-app purchase and subscription revenue SDK connector, Free text-to-image AI search capabilities, Raw data export and Pull API, and Multi-touch attribution.
 
 CleverTap features Custom event tracking and Marketing automation using emails, SMS, and push notifications

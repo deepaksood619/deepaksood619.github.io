@@ -2,7 +2,7 @@
 
 ## Income Statement: A Life Cycle Perspective
 
-![image](../../media/Accounting-for-Finance_2A-Income-Statement-Comparisions-image1.jpg)
+![image](../../media/Accounting-for-Finance_2A-Income-Statement-Comparisons-image1.jpg)
 
 ## Sector and Industry Differences
 
@@ -17,8 +17,8 @@ The accounting standards that govern how companies measure revenues and earnings
 - While revenues come in different forms for different companies and operating expenses take varied forms, the end game with gross profit, operating and net income remains the same, i.e., to measure profits are different levels
 - In theory, you should be therefore able to compare these numbers across companies, but in practice, accounting inconsistencies in how the expenses get measured and categorized can create problems
 
-![image](../../media/Accounting-for-Finance_2A-Income-Statement-Comparisions-image2.jpg)
+![image](../../media/Accounting-for-Finance_2A-Income-Statement-Comparisons-image2.jpg)
 
-![image](../../media/Accounting-for-Finance_2A-Income-Statement-Comparisions-image3.jpg)
+![image](../../media/Accounting-for-Finance_2A-Income-Statement-Comparisons-image3.jpg)
 
-![image](../../media/Accounting-for-Finance_2A-Income-Statement-Comparisions-image4.jpg)
+![image](../../media/Accounting-for-Finance_2A-Income-Statement-Comparisons-image4.jpg)

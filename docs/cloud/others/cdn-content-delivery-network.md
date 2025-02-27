@@ -105,7 +105,7 @@ By utilizing Anycast routing, CDNs can ensure optimal performance and user exper
 
 ## Links
 
-- [CDN Comparision](cloud/others/cdn-comparision.md)
+- [CDN Comparison](cloud/others/cdn-comparison.md)
 - [Amazon Cloudfront](cloud/aws/networking-content-delivery/amazon-cloudfront.md)
 - [Cloudflare](cloud/others/cloudflare.md)
 - [Akamai](cloud/others/akamai.md)

@@ -1,6 +1,6 @@
-# Comparisions
+# Comparisons
 
-[Druid FAQs / Comparisions](databases/nosql-databases/druid/faqs.md)
+[Druid FAQs / Comparisons](databases/nosql-databases/druid/faqs.md)
 
 [ClickBench - a Benchmark For Analytical DBMS](https://benchmark.clickhouse.com/)
 

@@ -78,7 +78,7 @@ Develop the **best** product or service and offer it at the **right price** thro
 
 ![image](../../media/Customer-Analytics-in-Python_Intro-image1.jpg)
 
-## Price elasticity 
+## Price elasticity
 
 Price elasticity is: the percentage change in an economic outcome of interest with respect to one percent change in a respective price
 

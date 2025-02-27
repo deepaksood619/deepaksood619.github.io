@@ -13,4 +13,4 @@
 	- [Druid](databases/nosql-databases/druid/readme.md)
 	- [MemSQL](databases/sql-databases/memsql/readme.md)
 	- [Presto](technologies/others/presto.md)
-- [Comparisions](databases/data-warehouses/comparisions.md)
+- [Comparisons](databases/data-warehouses/comparisons.md)

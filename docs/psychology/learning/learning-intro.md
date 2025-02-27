@@ -80,39 +80,6 @@ https://360learning.com/blog/learning-theories
 - Imposter Syndrome - "High-achieving individuals marked by an inability to internalize their accomplishments and a persistent fear of being exposed as a 'fraud'."
 - [Spacing Effect](https://en.wikipedia.org/wiki/Spacing_effect) - "The phenomenon whereby learning is greater when studying is spread out over time, as opposed to studying the same amount of time in a single session."
 
-## Memory Types
-
-### Retrospective Memory - Remembering the past
-
-- By Content
-    - Implicit Memory / skill memory
-
-The ability to do a task (brushing teeth)
-
-- **Declarative / Explicit**
-- Semantic - Memory of facts and meaning
-- Episodic - Memory from events
-
-   Experiences you've had
-
-- By Duration
-- **Working Memory -** What you can "keep in mind" at the same time, to think, reason and solve problems.
-
-Can be divided into 4 components
-
-1. **Phonological loop -** stores sounds including words, digits, sentences
-2. **Visuospatial sketchpad -** stores images of objects
-3. **Central executive -** directs attention and manipulates information
-4. **Episodic buffer**
-
-- Long-term Memory -- Anything you remember longer than a moment--what you ate for breakfast, exam questions or your friend's birthday.
-
-### Prospective Memory - Reminding yourself to do something in the future
-
-Remember to describe doing the task as vividly as possible, like passing through a library.
-
-## Encoding: Putting Memories into Brain
-
 ## Questions to ask while studying
 
 - How does this concept related to the other?
@@ -159,16 +126,6 @@ Like you can read everything about cycling, but you cannot cycle until you pract
     - why-questions
     - how-questions
 - Make use of minimal context for flashcards, or if possible, try differ- ent ways of asking yourself questions to maximize your flexibility.
-
-## Retaining/Storage: Keeping Memories in the Brain
-
-Forgetting can be caused by two different processes. The first is a **failure of storage** -the information might be forgotten because our brain loses it over time. The second is a **failure of retrieval** -the information might be "in" there, but we can't access it.
-
-## Trace Decay
-
-- Memories follow an exponential decay curve, it fades fast just after studying something and began to slow down after 2 days
-- Spend about 1/10 of your study time revising old material
-- Insert brief periods of revision of old material into the study of new material
 
 ## Consolidation and Sleep
 
@@ -249,9 +206,7 @@ Use it or lose it
 
 Neurons that fall out of sync lose their link
 
-## Learning How to Learn
-
-## Key Points
+## Learning How to Learn - Key Points
 
 - **Focused and Diffused Brain**
 - **Pomodoro Technique**
@@ -279,14 +234,6 @@ Sometimes the first solution found prevents you from seeing a wider range of pos
 - Brain is highly flexible and always growing
 - We can tap in the power of unconsious mind and sleep to help us to learn something new.
 - There are a million billion synapses in our brain
-
-## Introduction to memory
-
-Two major memory system
-
-- Long term memory (like a storage warehouse)
-- Working memory (centered our of prefrontal cortex but have links to other parts of the brain to retrieve from Long term memory)
-    - Can only hold 4 chunks of information
 
 ## Spaced repetition
 
@@ -344,45 +291,6 @@ This is the ideal type of curiosity according to Leslie, and the one we should a
 Dr. Litman further splintered epistemic curiosity into two additional types:[Intellectual Interest curiosity (type I) and Informational Deprivation curiosity (type D)](http://drjlitman.net/wp-content/uploads/2013/11/Litman-2007-invited-chapter.pdf). The former refers to curiosity that drives one 'to learn something that may be entertaining or amusing,' while the latter 'is activated in situations when individuals feel they are lacking information that is considered essential to improving their understanding.'
 
 https://360learning.com/blog/need-for-cognition
-
-## Learning Styles (VARK) - It doesn't work
-
-## It depends on what are you learning
-
-- Visual
-- Auditory
-- Reading/Writing
-- Kinesthetic
-
-## Andragogy (Adult Learning Theory)
-
-Adults don't learn the same way children do (pedagogy)
-
-Adult Learning Theory is a set of guiding principles that explain how adults learn, in contrast to how children learn.
-
-## 6 principles of Knowles' Adult Learning Theory
-
-Knowles organized his theory around six assumptions that distinguished the novel andragogy from pedagogy:
-
-- The need to know:Adults must understand the utility of the material they're learning. Children are told to learn for the sake of it, and only what the teacher deems necessary. This means it's often the trainer's role to guide an adult learner to seeing that a skill gap, or a 'need to know,' exists.
-
-- Learner's self-concept:Adult learners do not like feeling imposed upon by a trainer, or that they aren't in control of their own learning. In classrooms, however, teachers are undoubtedly the ones in charge.
-
-- The role of the learner's experiences:Adults bring more experiences to a learning environment than do children. This means that a group of adults will contain more varied backgrounds, and so teaching should be more individualized. It also means that they can more actively participate as sources of knowledge.
-
-- Readiness to learn:Children are 'ready to learn' when teachers tell them they have learned enough to move to the next grade. For adults, learning should coincide with a developmental stage in their personal or work lives.
-
-- Orientation to learning:Adults approach learning as a way to solve a problem in real-world contexts, and are more receptive to learning when material is applied to real-life situations. Children, on the other hand, are expected to learn material for the sake of it.
-
-- Motivation:Adults are more motivated by internal factors, like a desire for higher self-esteem, than external ones, like a pay raise. Children are motivated primarily by external factors, like achieving a good grade or avoiding a parental reprimand.
-
-Adult Learning Theory in practice
-
-- Use a bottom-up approach to training needs analysis
-- Decentralize course creation
-- Embrace self-directed learning
-
-https://360learning.com/blog/adult-learning-theory
 
 ## Forgetting Curve
 

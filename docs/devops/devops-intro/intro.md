@@ -56,7 +56,7 @@ Monitoring means knowing what's going on inside your system, how much traffic it
 	- 2600+ hands-on exercises & scenarios
 	- [GitHub - bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions](https://github.com/bregman-arie/devops-exercises)
 
-2. DevOps Interview Guide 
+2. DevOps Interview Guide
 	- Cloud & DevOps specific scenarios
 	- Certification preparation resources
 	- [GitHub - ramanagali/Interview\_Guide: Interview, Certification preparation guide for Cloud DevOps professionals](https://github.com/ramanagali/Interview_Guide)

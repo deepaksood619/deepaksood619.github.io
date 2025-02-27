@@ -420,6 +420,10 @@ Topic: Empowering GenAI with RAG (Retrieval-Augmented Generation)
 
 [OpsTree Solutions on LinkedIn: #tfug #tfugghaziabad #tensorflow #genai #newevent #event #developers #gde…](https://www.linkedin.com/posts/opstree-solutions_tfug-tfugghaziabad-tensorflow-activity-7223967005920354304-vmVu?utm_source=share&utm_medium=member_desktop)
 
+## India DevOps Roadshop (Opstree)
+
+[India DevOps Show – Decode with Quantic : The DevOps Algorithm](https://indiadevopsshow.com/)
+
 ## AWS Presentation with Stashfin (16 July 2020)
 
 https://yourstory.com/session/how-to-empower-a-platform-with-a-data-pipeline-at-
