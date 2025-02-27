@@ -21,7 +21,7 @@
 ## Data / File Formats
 
 - [File Formats](networking/others/file-formats.md)
-- [File Format Comparisions](networking/others/file-formats-comparisons.md)
+- [File Format Comparisons](networking/others/file-formats-comparisons.md)
 - [Data Formats](networking/others/data-formats.md)
 - [Apache Avro](networking/others/apache-avro.md)
 - [Apache Parquet](networking/others/apache-parquet.md)

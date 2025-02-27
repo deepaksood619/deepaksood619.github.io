@@ -22,6 +22,14 @@ Astrocytes maintain the ion balance.
 
 Astrocytes have a key role in learning.
 
+## Introduction to memory
+
+Two major memory system
+
+- Long term memory (like a storage warehouse)
+- Working memory (centered our of prefrontal cortex but have links to other parts of the brain to retrieve from Long term memory)
+    - Can only hold 4 chunks of information
+
 ## Meaningful Groups
 
 1. Have first letters of a list of items and map them together to create a meaningful group representing some simple object.
@@ -100,6 +108,49 @@ Working memory is essentially your mental bandwidth.If you have a good working m
 - If your teacher is math-anxious, ignore them and find a better teacher online (e.g. the Khan academy)
 - Use ***cognitive reappraisal*** and subvocalization to transform anxiety into excitement ("I'm excited")
 - Use expressive writing to offload your worries from memory onto paper
+
+## Memory Types
+
+### Retrospective Memory - Remembering the past
+
+- By Content
+    - Implicit Memory / skill memory
+
+The ability to do a task (brushing teeth)
+
+- **Declarative / Explicit**
+- Semantic - Memory of facts and meaning
+- Episodic - Memory from events
+
+   Experiences you've had
+
+- By Duration
+- **Working Memory -** What you can "keep in mind" at the same time, to think, reason and solve problems.
+
+Can be divided into 4 components
+
+1. **Phonological loop -** stores sounds including words, digits, sentences
+2. **Visuospatial sketchpad -** stores images of objects
+3. **Central executive -** directs attention and manipulates information
+4. **Episodic buffer**
+
+- Long-term Memory -- Anything you remember longer than a moment--what you ate for breakfast, exam questions or your friend's birthday.
+
+### Prospective Memory - Reminding yourself to do something in the future
+
+Remember to describe doing the task as vividly as possible, like passing through a library.
+
+Encoding: Putting Memories into Brain
+
+## Retaining/Storage: Keeping Memories in the Brain
+
+Forgetting can be caused by two different processes. The first is a **failure of storage** -the information might be forgotten because our brain loses it over time. The second is a **failure of retrieval** -the information might be "in" there, but we can't access it.
+
+## Trace Decay
+
+- Memories follow an exponential decay curve, it fades fast just after studying something and began to slow down after 2 days
+- Spend about 1/10 of your study time revising old material
+- Insert brief periods of revision of old material into the study of new material
 
 ## References
 

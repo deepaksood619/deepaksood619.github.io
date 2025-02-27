@@ -2,7 +2,7 @@
 
 - [Intro](databases/concepts/intro.md)
 - [Types of Databases](types-of-databases)
-- [Comparisions](databases/concepts/comparisions.md)
+- [Comparisons](databases/concepts/comparisons.md)
 - [Amazon Databases](databases/concepts/amazon-databases.md)
 - [History](history)
 - [Concepts](core-concepts.md)

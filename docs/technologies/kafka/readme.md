@@ -17,6 +17,7 @@
 - [kafka-python](kafka-python)
 - [confluent-kafka](confluent-kafka)
 - [Azure Event Hubs](technologies/kafka/azure-event-hubs.md)
+- [Comparison](technologies/kafka/comparison.md)
 - [kafkacat](kafkacat)
 - [Migration / Mirroring](technologies/kafka/migration-mirroring-replication.md)
 - [Security](technologies/kafka/security.md)

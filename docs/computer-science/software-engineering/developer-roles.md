@@ -70,7 +70,7 @@ Developer - A developer executes. Their talents often focused to a single area. 
 
 Engineer - An engineer designs and plans. Always aware of the "big picture". With talents in many areas. An engineer can assume the developer role. But an engineer's core focus lies with architecture.
 
-### Engineers Salary Comparision
+### Engineers Salary Comparison
 
 There is a simple reason some engineers are worth +$1,000,000 per year:
 

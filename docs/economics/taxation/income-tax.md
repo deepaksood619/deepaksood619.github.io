@@ -41,7 +41,7 @@ If people have to invest or spend more, they need to earn at least ₹2.5lks/yr?
 
 [The Old Tax Regime is almost dead](http://youtube.com/post/UgkxClgrQ0G3MrDevP87p1LjDb4ik-DOre9x)
 
-## Taxation Comparision
+## Taxation Comparison
 
 - USA: 37% → ₹6.3 CR
 - China: 45% → ₹5.5 CR
@@ -60,7 +60,7 @@ If people have to invest or spend more, they need to earn at least ₹2.5lks/yr?
 - Mexico: 35% → ₹6.5 CR
 - Indonesia: 35% → ₹6.5 CR
 - Netherlands: 49.5% → ₹5.05 CR
-- Saudi Arabia: 0% → ₹10 CR 
+- Saudi Arabia: 0% → ₹10 CR
 - Turkey: 40% → ₹6 CR
 - Switzerland: 40% → ₹6 CR
 - Taiwan: 40% → ₹6 CR
@@ -71,7 +71,7 @@ If people have to invest or spend more, they need to earn at least ₹2.5lks/yr?
 - Argentina: 35% → ₹6.5 CR
 - Austria: 55% → ₹4.5 CR
 - Norway: 39.6% → ₹6.04 CR
-- UAE: 0% → ₹10 CR 
+- UAE: 0% → ₹10 CR
 - Israel: 50% → ₹5 CR
 - South Africa: 45% → ₹5.5 CR
 - Malaysia: 30% → ₹7 CR

@@ -22,7 +22,7 @@
 - [Alibaba Cloud](cloud/others/alibaba-cloud.md)
 - [Content Delivery Network (CDN)](cloud/others/cdn-content-delivery-network.md)
 	- [CDN Cache Invalidation](cloud/others/cdn-cache-invalidation.md)
-	- [CDN Comparision](cloud/others/cdn-comparision.md)
+	- [CDN Comparison](cloud/others/cdn-comparison.md)
 	- [Cloudflare](cloud/others/cloudflare.md)
 	- [Amazon Cloudfront](cloud/aws/networking-content-delivery/amazon-cloudfront.md)
 	- [Akamai](cloud/others/akamai.md)
@@ -34,7 +34,7 @@
 - [Low-Code / No-Code Platforms / LCNC](cloud/others/low-code-no-code-lcnc.md)
 - [Others - SAAS](others-saas)
 
-![cloud-comparision](../../media/Pasted%20image%2020231216002914.jpg)
+![cloud-comparison](../../media/Pasted%20image%2020231216002914.jpg)
 
 - AWS
 - Azure

@@ -122,6 +122,16 @@ Next big revolution is from text based gpt to voice, and then from voice based g
 
 Audio visual communication.
 
+### ChatGPT Feedback
+
+- Same questions asked multiple times
+- Skipped answer that I gave answered old
+- Phone got hot
+- Revision not effective
+- Cannot remember what I answered and not answered
+- 10 mins of free advanced voice model
+- Learning is not that effective with only voice models, for deep learning, reading text generally offers better comprehension and retention of information compared to listening or watching. (Is it because I have learned as a kid this way or it's inherent for humans)
+
 ### Links
 
 [A social ‘study buddy’ gets a conversational lift from Meta Llama](https://ai.meta.com/blog/foondamate-study-aid-education-llama/)

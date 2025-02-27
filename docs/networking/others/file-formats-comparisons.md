@@ -4,7 +4,7 @@
 
 What should you choose then? Avro, especially at the beginning, seems much easier to use. The cost of this is that you will need to provide both reader and writer schema to deserialize anything.
 
-![image](../../media/Comparisions-image1.jpg)
+![image](../../media/Comparisons-image1.jpg)
 
 Sometimes this might be quite problematic. That's why tools like [Schema Registry](https://www.confluent.io/confluent-schema-registry/) were developed.
 
@@ -18,75 +18,75 @@ https://blog.softwaremill.com/the-best-serialization-strategy-for-event-sourcing
 
 [(Big) Data Serialization with Avro and Protobuf](https://www.slideshare.net/gschmutz/big-data-serialization-with-avro-and-protobuf)
 
-![image](../../media/Comparisions-image2.jpg)
+![image](../../media/Comparisons-image2.jpg)
 
-![image](../../media/Comparisions-image3.jpg)
+![image](../../media/Comparisons-image3.jpg)
 
-![image](../../media/Comparisions-image4.jpg)
+![image](../../media/Comparisons-image4.jpg)
 
-![image](../../media/Comparisions-image5.jpg)
+![image](../../media/Comparisons-image5.jpg)
 
-![image](../../media/Comparisions-image6.jpg)
+![image](../../media/Comparisons-image6.jpg)
 
-![image](../../media/Comparisions-image7.jpg)
+![image](../../media/Comparisons-image7.jpg)
 
-![image](../../media/Comparisions-image8.jpg)
+![image](../../media/Comparisons-image8.jpg)
 
-![image](../../media/Comparisions-image9.jpg)
+![image](../../media/Comparisons-image9.jpg)
 
-![image](../../media/Comparisions-image10.jpg)
+![image](../../media/Comparisons-image10.jpg)
 
-![image](../../media/Comparisions-image11.jpg)
+![image](../../media/Comparisons-image11.jpg)
 
-![image](../../media/Comparisions-image12.jpg)
+![image](../../media/Comparisons-image12.jpg)
 
-![image](../../media/Comparisions-image13.jpg)
+![image](../../media/Comparisons-image13.jpg)
 
-![image](../../media/Comparisions-image14.jpg)
+![image](../../media/Comparisons-image14.jpg)
 
-![image](../../media/Comparisions-image15.jpg)
+![image](../../media/Comparisons-image15.jpg)
 
-![image](../../media/Comparisions-image16.jpg)
+![image](../../media/Comparisons-image16.jpg)
 
-![image](../../media/Comparisions-image17.jpg)
+![image](../../media/Comparisons-image17.jpg)
 
-![image](../../media/Comparisions-image18.jpg)
+![image](../../media/Comparisons-image18.jpg)
 
-![image](../../media/Comparisions-image19.jpg)
+![image](../../media/Comparisons-image19.jpg)
 
-![image](../../media/Comparisions-image20.jpg)
+![image](../../media/Comparisons-image20.jpg)
 
-![image](../../media/Comparisions-image21.jpg)
+![image](../../media/Comparisons-image21.jpg)
 
-![image](../../media/Comparisions-image22.jpg)
+![image](../../media/Comparisons-image22.jpg)
 
-![image](../../media/Comparisions-image23.jpg)
+![image](../../media/Comparisons-image23.jpg)
 
-![image](../../media/Comparisions-image24.jpg)
+![image](../../media/Comparisons-image24.jpg)
 
-![image](../../media/Comparisions-image25.jpg)
+![image](../../media/Comparisons-image25.jpg)
 
-![image](../../media/Comparisions-image26.jpg)
+![image](../../media/Comparisons-image26.jpg)
 
 ## Big Data and Fast Data
 
-![image](../../media/Comparisions-image27.jpg)
+![image](../../media/Comparisons-image27.jpg)
 
-![image](../../media/Comparisions-image28.jpg)
+![image](../../media/Comparisons-image28.jpg)
 
-![image](../../media/Comparisions-image29.jpg)
+![image](../../media/Comparisons-image29.jpg)
 
-![image](../../media/Comparisions-image30.jpg)
+![image](../../media/Comparisons-image30.jpg)
 
-![image](../../media/Comparisions-image31.jpg)
+![image](../../media/Comparisons-image31.jpg)
 
-![image](../../media/Comparisions-image32.jpg)
+![image](../../media/Comparisons-image32.jpg)
 
 ## Summary
 
-![image](../../media/Comparisions-image33.jpg)
+![image](../../media/Comparisons-image33.jpg)
 
-![image](../../media/Comparisions-image34.jpg)
+![image](../../media/Comparisons-image34.jpg)
 
 ## Performance benchmarks
 
@@ -113,11 +113,11 @@ I cannot overstate the benefit of a 100x improvement in record throughput. It pr
 
 When simply counting rows, Parquet blows Avro away, thanks to the metadata parquet stores in the header of row groups.
 
-![image](../../media/Comparisions-image35.jpg)
+![image](../../media/Comparisons-image35.jpg)
 
 When running a group-by query, parquet is still almost 2x faster (although I'm unsure of the exact query used here).
 
-![image](../../media/Comparisions-image36.jpg)
+![image](../../media/Comparisons-image36.jpg)
 
 The same case study also finds improvements in storage space, and even in full-table scans, likely due to Spark having to scan a smaller datasize.
 

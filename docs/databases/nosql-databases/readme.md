@@ -13,7 +13,7 @@
 - [YugabyteDB](databases/nosql-databases/yugabytedb.md)
 - [tidb](databases/nosql-databases/tidb.md)
 - [Vector Databases](databases/nosql-databases/vector-databases.md)
-- [Comparisions](databases/nosql-databases/comparisions.md)
+- [Comparisons](databases/nosql-databases/comparisons.md)
 
 ## Top 9 NoSQL DB Use Cases
 

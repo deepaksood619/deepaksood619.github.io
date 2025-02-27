@@ -21,7 +21,7 @@
 - General Purpose - db.t4g, db.m7g, m6g, m6i, m5
 - Memory Optimized - db.r7g
 
-[AWS Pricing Calculator - Comparision](https://calculator.aws/#/estimate?id=bfde117555e574ecfae0f16ea74a5ae4e6ef2723)
+[AWS Pricing Calculator - Comparison](https://calculator.aws/#/estimate?id=bfde117555e574ecfae0f16ea74a5ae4e6ef2723)
 
 - **Aurora MySQL**
     - db.r6g.xlarge - 751.04 USD

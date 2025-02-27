@@ -1,4 +1,4 @@
-# CDN Comparision
+# CDN Comparison
 
 - [Cloudflare](cloud/others/cloudflare.md) - [cloudflare.com/network/](https://www.cloudflare.com/network/)
 - [Amazon Cloudfront](cloud/aws/networking-content-delivery/amazon-cloudfront.md) - [Amazon Cloudfront Locations](https://aws.amazon.com/cloudfront/features/)

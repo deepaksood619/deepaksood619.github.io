@@ -31,6 +31,16 @@ Prompt: "I want to learn about `{insert topic}`. Identify and share the most imp
 
 I'm currently learning about snowflake. Ask me a series of 50 questions, one at a time, that will test my knowledge. Wait for my response before proceeding to the next question, ask the next question after your explanation of the answers. Identify knowledge gaps in my answers and give me better answers to fill those gaps. When finish show me the quantity of correct answers and the quantity of failed answers
 
+You are my personal tutor in `{subject}`. We are going to have an interactive voice-based learning session where you will ask me a question, wait for my answer, analyze my response, and then provide constructive feedback. If my answer is incorrect or incomplete, explain where I went wrong and provide the correct answer before moving on to the next question. Keep the conversation engaging, adaptive, and based on my learning pace. Ensure the questions gradually increase in difficulty based on my performance. Let’s begin!
+
+- Take a pause before answering, since I speak slow
+- Quiz me about advanced biology concepts
+
+Assume role of a nutrition and training scientist. Use EBM SORT ( `12<50%` ) to provide one word or one line answers to questions. (`<10 words`).
+
+- EBM - Evidence Based Method
+- SORT is a method for rating the strength of evidence in medical literature. It's part of Evidence-Based Medicine (EBM), which is a way of making patient care decisions using the best available evidence.
+
 ### Create Test
 
 Create 30 MCQ (with 4 options each and 1 correct answer) for a finance intern for a 40 min test. The finance intern should have below skills
@@ -50,6 +60,8 @@ Make sure to
 Create 15 mcq questions (with 4 options each and 1 correct answer) around below topics
 
 ### Create architecture diagram
+
+**Provide result into mermaid format**
 
 I need to generate a sequence diagram.
 
