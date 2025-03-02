@@ -6,6 +6,7 @@
 2. Partnership
 3. Private Limited Company
 4. Public Limited Company
+5. [HUF / Private Trust](economics/taxation/huf-private-trust.md)
 
 | **Particulars** | **Proprietorship** | **Private Limited Company** |
 |---|---|---|

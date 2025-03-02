@@ -32,7 +32,6 @@
 
 ![Comparison Overview](../../media/Screenshot%202025-02-27%20at%206.55.15%20PM.jpg)
 
-
 ### ASP.NET Client Library Support
 
 ![ASP.NET Client Library Support](../../media/Screenshot%202025-02-27%20at%206.55.54%20PM.jpg)

@@ -14,6 +14,43 @@ How much cover is needed
 
 ![How to select a term insurance plan](../media/Pasted%20image%2020240913155100.jpg)
 
+## Term life insurance
+
+- Annual Salary * 10
+- Only one exclusion
+    - Suicide in 1 year or 2 years
+    - honour death by accident
+    - exclude death due to natural calamity or death due to war
+- Simple term insurance which will give 100% money to nominee
+- No other features/riders
+- Till age 50/60
+- Build wealth more than the insurance
+- Don't buy single pay policy
+
+https://freefincal.com/re-assemble-step-3-buy-term-life-insurance
+
+- https://freefincal.com/what-you-need-to-know-before-buying-term-insurance
+- PNB met Life
+    - Sum insured without tax detection
+    - HLV (Human Life Value) - 9 crore
+    - 35 years (till 60 years)
+        - 5 crore - 46020
+            - 39000
+        - 3 crore - 27612 (incl tax)
+            - 23400
+        - 1 crore - 10974
+            - 9300
+    - 10 years
+        - 1 cr - 7906
+        - 3 cr - 19470
+    - One time pay option
+- What will happen if I don't pay premium after certain age
+
+1. Term plan - ICICI Prudential iProtect Smart: Rs 50 lakh
+2. Health Insurance - ICICI Lombard Family Floater: Rs 3 lakh
+
+https://joinditto.in
+
 ### Life Insurance vs Term Insurance
 
 | Difference                  | Term Insurance                       | Life Insurance                                                                                                                                               |

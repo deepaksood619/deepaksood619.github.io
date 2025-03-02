@@ -18,6 +18,7 @@
 - [Courses](courses/readme.md)
 - [Others / Resources / Interview / Learning](ai/others-resources-interview-learning-courses.md)
 - [Hackathons](ai/hackathons.md)
+	- [Hackathon Hackhound](ai/hackathon-hackhound.md)
 - [Solutions](ai/solutions.md)
     - [Content Moderation](ai/content-moderation.md)
     - [Social Media Analytics Solution](ai/social-media-analytics-solution.md)

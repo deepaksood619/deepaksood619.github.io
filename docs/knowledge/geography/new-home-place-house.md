@@ -299,17 +299,30 @@ Close or tieup with other schools
 
 - **> 3000 sq ft**
 - **Running balcony**
-- carpet area / floor space / usable floor space
-    - [Watch this before buying a FLAT | How to find fair market value of property - YouTube](https://www.youtube.com/watch?v=qCMFlfBTWks&ab_channel=LabourLawAdvisor)
-    - Carpet area / rera carpet area
-    - Built up area (10-15% more than carpet area)
-    - Super built up area - 20-50% more than built up area
 - [Why are Top Floor Apartments More Expensive? | Boom | Boom](https://www.boompay.app/post/why-top-floor-units-more-expensive)
 - Asian paints smart care damp proof
 
 [Should you buy home? | Property investment in India - Future expectations | NIRANJAN HIRANANDANI | - YouTube](https://www.youtube.com/watch?v=FnrbjPvLTXg)
 
 [आपके सपनो का बंगलो | 4 BHK Ultra Luxurious Bungalow For Sale,Ahmedabad | 850 Sqyrd Villa #bungalow - YouTube](https://www.youtube.com/watch?v=6glqoNzMN3Y)
+
+### Carpet Area, Built-up Area and Super Built-up Area
+
+- carpet area / floor space / usable floor space
+- [Watch this before buying a FLAT | How to find fair market value of property - YouTube](https://www.youtube.com/watch?v=qCMFlfBTWks&ab_channel=LabourLawAdvisor)
+- Carpet area / rera carpet area
+- Built up area (10-15% more than carpet area)
+- Super built up area - 20-50% more than built up area
+
+#### Key Considerations
+
+- **Focus on carpet area**: Prioritize the carpet area as it represents the actual usable space within the property.
+- **Comparison based on carpet area**: When comparing properties, rely on carpet area measurements to get a clear understanding of the usable space.
+- **Understanding built-up and super built-up areas**: Be cautious of these areas listed by builders, as they include additional non-usable spaces.
+- **Ratio inquiry**: Ask for the ratio of carpet area to built-up and super built-up areas to better understand the space distribution.
+- **Cost consideration**: Assess the cost per square foot of carpet area to make a more informed purchasing decision.
+
+[Difference between carpet area, built-up area, super built-up area](https://housing.com/news/real-estate-basics-part-1-carpet-area-built-up-area-super-built-up-area/)
 
 ## Buying vs Renting Home
 

@@ -1,8 +1,47 @@
 # Meetups / Talks / Sessions
 
-## Head Mentor for HackHound 3.0 - (28 Feb 2024)
+## Build apps for Google Chat with Gemini - Build with AI: Ghaziabad Edition - NITRA Technical Campus, Ghaziabad
+
+Google Chat apps with Gemini do the following:
+
+- Bring your services and resources into Google Chat, which lets users get information and take action without leaving the conversation.
+- Integrate with the generative AI model Gemini, so they can create or search data like text or images at specific times to streamline your workflows.
+
+### Why integrate Google Chat apps with Gemini?
+
+The typical use cases of Generative AI models like Gemini fall in the following categories:
+
+- **Content creation and enhancement**. Generate marketing copy, craft social media posts, create realistic images, compose music, or aid in the creation of video content.
+- **Data search**. Extract key insights from an unstructured knowledge base, summarize lengthy texts, classify contents, or translate languages with enhanced accuracy and speed.
+- **Conversation**. Engage in natural, informative, and creative conversations.
+
+### What you build
+
+In this codelab, you build three Google Chat apps with Gemini to cover the three use cases introduced in the previous section.
+
+1. Issue management app (content creation and enhancement)
+2. Knowledge app (data search)
+3. Feedback app (conversation)
+
+### What you learn
+
+- How to integrate Google Chat apps with Gemini through Vertex AI.
+- How to integrate Google Chat apps with Dialogflow CX agents.
+- How to use the latest features of Google Chat: app home, Google Chat Events, and accessory widgets.
+
+[Build apps for Google Chat with Gemini  \|  Google Codelabs](https://codelabs.developers.google.com/codelabs/chat-apps-gemini?hl=en#0)
+
+[Build with AI: Ghaziabad Edition](https://www.commudle.com/communities/tensorflow-user-group-ghaziabad/events/women-in-ai-5d052ccf-e60e-4347-9c7c-0ba67cb1d47f)
+
+[Google Codelabs](https://codelabs.developers.google.com/?category=aiandmachinelearning)
+
+## Head Mentor for HackHound 3.0 (28 Feb 2024)
 
 ![Head Mentor for HackHound 3.0](../media/Screenshot%202025-02-27%20at%2012.22.55%20AM.jpg)
+
+[Hackathon Hackhound](ai/hackathon-hackhound.md)
+
+[Deepak Sood on LinkedIn: #hackhound #hackathon #techinnovation #ai #devops #dataengineering…](https://www.linkedin.com/posts/deepaksood619_hackhound-hackathon-techinnovation-activity-7301904510199742464-LMjz)
 
 [Deepak Sood on LinkedIn: #hackhound #techmentor #ai #devops #dataengineering #innovation…](https://www.linkedin.com/posts/deepaksood619_hackhound-techmentor-innovation-activity-7300587865443377152-NsFa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 

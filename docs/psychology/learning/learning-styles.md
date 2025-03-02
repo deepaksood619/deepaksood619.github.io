@@ -11,36 +11,36 @@ It depends on what are you learning
 
 ### Reading vs Listening vs Watching for learning
 
-When it comes to learning, **reading generally offers better comprehension and retention of information compared to listening or watching**, as it allows for active processing and re-reading when needed, while listening can be more convenient for certain situations and watching can be beneficial when visual elements are crucial to understanding the topic, but can sometimes be less focused due to distractions; ultimately, the best method depends on your individual learning style and the complexity of the material you're trying to learn. 
+When it comes to learning, **reading generally offers better comprehension and retention of information compared to listening or watching**, as it allows for active processing and re-reading when needed, while listening can be more convenient for certain situations and watching can be beneficial when visual elements are crucial to understanding the topic, but can sometimes be less focused due to distractions; ultimately, the best method depends on your individual learning style and the complexity of the material you're trying to learn.
 
 Key points to consider:
 
-### Reading:
+### Reading
 
-- **Pros:** Deep processing, ability to re-read, good for complex concepts, better information retention. 
-- **Cons:** Can be slower, requires more focus, might not be suitable for topics requiring visual aids. 
+- **Pros:** Deep processing, ability to re-read, good for complex concepts, better information retention.
+- **Cons:** Can be slower, requires more focus, might not be suitable for topics requiring visual aids.
 
 ### Listening
 
-- **Pros:** Convenient for multitasking, good for absorbing information on the go, can be engaging with a good narrator. 
-- **Cons:** May not be as effective for complex information, can be harder to retain details. 
+- **Pros:** Convenient for multitasking, good for absorbing information on the go, can be engaging with a good narrator.
+- **Cons:** May not be as effective for complex information, can be harder to retain details.
 
 ### Watching
 
-- **Pros:** Excellent for visual learning, can incorporate demonstrations and real-life examples, more engaging for some learners. 
-- **Cons:** May be distracting with unnecessary visuals, can be less effective for deep learning if not focused. 
+- **Pros:** Excellent for visual learning, can incorporate demonstrations and real-life examples, more engaging for some learners.
+- **Cons:** May be distracting with unnecessary visuals, can be less effective for deep learning if not focused.
 
 ### Factors to consider when choosing a learning method
 
-- **Learning style:** Identify whether you are primarily a visual, auditory, or kinesthetic learner. 
-- **Complexity of the material:** For complex topics, reading may be more effective while simpler concepts can be easily grasped through listening or watching. 
+- **Learning style:** Identify whether you are primarily a visual, auditory, or kinesthetic learner.
+- **Complexity of the material:** For complex topics, reading may be more effective while simpler concepts can be easily grasped through listening or watching.
 - **Time constraints:** Listening might be better for quick learning on the go, while reading allows for more thorough understanding if you have time to dedicate.
 
 [**Reading vs. Listening – Which is More Efficient for Studying** \| GoTranscript](https://gotranscript.com/blog/reading_vs._listening_which_is_more_efficient_for_studying)
 
 [Learning by Reading vs Watching/Listening: Which One is Better?](https://www.linkedin.com/pulse/learning-reading-vs-watchinglistening-which-one-better-ana-regina-lhjxc/)
 
-## What Are the Differences Between Reading and Listening? 
+## What Are the Differences Between Reading and Listening?
 
 The first distinction between reading and listening is that reading involves cognitive processes that occur on the left side of the brain. Listening, on the other hand, activates both hemispheres. This happens because, when listening to an audiobook, you need to process speech and its meaning simultaneously.
 

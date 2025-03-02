@@ -1,5 +1,15 @@
 # Home Exercise Routine
 
+## Fast Routine
+
+- Treadmill - 12 Km/h - 1.2 KM - 6 Mins
+- Weight Trainings
+	- Dumbell Bench Press
+	- Biceps Curl
+	- Overhead press (Shoulders)
+
+## Routines
+
 Youtube - Athlean X
 
 ![image](../../../media/Exercise-Stretching_Home-Exercise-Routine-image1.jpg)
