@@ -7,7 +7,7 @@
 - https://www.dezerv.in
 - https://www.soicresearch.in/home?subscription-offerings
 
-# Discretionary PMS vs Non-discretionary PMS vs Advisory PMS?
+## Discretionary PMS vs Non-discretionary PMS vs Advisory PMS?
 
 Discretionary portfolio manager will have the complete control on decision making and execution, client will not have any say in these investment decisions and execution. Non Discretionary means that decision will be made by the fund manager in accordance with the client but all execution will happen post receiving confirmation of the client. Advisory PMS means that the fund manager will only provide advisory and the client can decide whether to execute or not.
 

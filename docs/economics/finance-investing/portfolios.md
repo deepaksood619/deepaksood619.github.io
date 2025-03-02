@@ -27,6 +27,7 @@
     - IPOs
     - ESG (To borrow Winston Churchill's words, ESG is "a riddle, wrapped in a mystery, inside an enigma.")
     - Day trader
+- Crypto
 
 ![image](../../media/TODO-Financial-Finance-Investing_Portfolios-image1.jpg)
 
@@ -78,18 +79,18 @@ How to choose a financial product?
 
 ![image](../../media/TODO-Financial-Finance-Investing_Portfolios-image2.jpg)
 
-| **Why am I investing** | **Child's future** |
-|:---:|:---:|
-| When do I need the money? (years) | 15 |
-| What is the current cost if I need the money now? | 5,00,000 |
-| By what rate will this cost increase each year? | 12% |
-| What would be this cost after 25 years? | 27,36,783 |
-| What return can I expect from equity after tax? | 9% |
-| How much equity should I initially have in my portfolio? | 50% |
-| What return can I expect from fixed income (after tax)? | 6% PPF / Gilt MF? |
-| What return can I initially expect from the full portfolio? | 7.5% |
-| For the above annualised portfolio return how much should I invest each year? | 1,14,862 |
-| Where should I invest in equity? |
+|                            **Why am I investing**                             | **Child's future** |
+| :---------------------------------------------------------------------------: | :----------------: |
+|                       When do I need the money? (years)                       |         15         |
+|               What is the current cost if I need the money now?               |      5,00,000      |
+|                By what rate will this cost increase each year?                |        12%         |
+|                    What would be this cost after 25 years?                    |     27,36,783      |
+|                What return can I expect from equity after tax?                |         9%         |
+|           How much equity should I initially have in my portfolio?            |        50%         |
+|            What return can I expect from fixed income (after tax)?            | 6% PPF / Gilt MF?  |
+|          What return can I initially expect from the full portfolio?          |        7.5%        |
+| For the above annualised portfolio return how much should I invest each year? |      1,14,862      |
+|                       Where should I invest in equity?                        |                    |
 
 ![image](../../media/TODO-Financial-Finance-Investing_Portfolios-image3.jpg)
 
@@ -167,44 +168,6 @@ Always have 60-70% large cap regardless of age
 Let us say, a market participant has a corpus of Rs.500,000/-. This corpus can be split into two unequal portions, for example the split can be 60 -- 40. The 60% of capital which is Rs.300,000/- can be invested for a long term period in fundamentally strong companies. This 60% of the investment makes up the core of the portfolio. One can expect the core portfolio to grow at a rate of at least 12% to 15% CAGR year on year basis.
 
 The balance 40% of the amount, which is Rs.200,000/- can be utilized for active short term trading using Technical Analysis technique on equity, futures, and options. The Satellite portfolio can be expected to yield at least 10% to 12% absolute return on a yearly basis.
-
-## Term life insurance
-
-- Annual Salary * 10
-- Only one exclusion
-    - Suicide in 1 year or 2 years
-    - honour death by accident
-    - exclude death due to natural calamity or death due to war
-- Simple term insurance which will give 100% money to nominee
-- No other features/riders
-- Till age 50/60
-- Build wealth more than the insurance
-- Don't buy single pay policy
-
-https://freefincal.com/re-assemble-step-3-buy-term-life-insurance
-
-- https://freefincal.com/what-you-need-to-know-before-buying-term-insurance
-- PNB met Life
-    - Sum insured without tax detection
-    - HLV (Human Life Value) - 9 crore
-    - 35 years (till 60 years)
-        - 5 crore - 46020
-            - 39000
-        - 3 crore - 27612 (incl tax)
-            - 23400
-        - 1 crore - 10974
-            - 9300
-    - 10 years
-        - 1 cr - 7906
-        - 3 cr - 19470
-    - One time pay option
-- What will happen if I don't pay premium after certain age
-
-1. Term plan - ICICI Prudential iProtect Smart: Rs 50 lakh
-
-2. Health Insurance - ICICI Lombard Family Floater: Rs 3 lakh
-
-https://joinditto.in
 
 ![Vijay Kedia's Winning Portfolio](../../media/Screenshot%202025-02-08%20at%209.40.02%20PM.jpg)
 

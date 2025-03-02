@@ -23,19 +23,13 @@ https://www.joinhoney.com
 - Wintwealth (Wint Wealth)
 - https://altifi.ai
 
-Sequence of Returns - [what sequence of returns risk](https://www.youtube.com/watch?v=GruEpZFBvQg&ab_channel=freefincal-PrudentDIYInvesting) - [Why Understanding Sequence Risk is Crucial for Investing Success!](https://freefincal.com/sequence-returns-risk/)
-
-[Why does the sequence of returns risk matter when there are periodic withdrawals I Ft Ravi Saraogi - YouTube](https://www.youtube.com/watch?v=nEbSOyKzpMc&ab_channel=ZerodhaVarsity)
-
-[Do not make these 15 investing mistakes!!](https://www.youtube.com/watch?v=BDDrd98WYL8)
-
-[Does Buy-And-Hold Investing Still Work? | ET Money](https://youtu.be/0Fe_qjdgJSM)
-
-[How To Find Multi-baggers (100x) In The Stock Market? | ET Money](https://www.youtube.com/watch?v=YwwhtZuJkyU)
-
-[Be careful with these Mutual Fund Categories | Thematic | Sector Funds | Multi-Cap | ET Money](https://youtu.be/1zgSvdQXw0I)
-
-[Intangible Assets: The Invisible Superhero Of Investing | ET Money](https://youtu.be/XG4esIF_eGE)
+- Sequence of Returns - [what sequence of returns risk](https://www.youtube.com/watch?v=GruEpZFBvQg&ab_channel=freefincal-PrudentDIYInvesting) - [Why Understanding Sequence Risk is Crucial for Investing Success!](https://freefincal.com/sequence-returns-risk/)
+- [Why does the sequence of returns risk matter when there are periodic withdrawals I Ft Ravi Saraogi - YouTube](https://www.youtube.com/watch?v=nEbSOyKzpMc&ab_channel=ZerodhaVarsity)
+- [Do not make these 15 investing mistakes!!](https://www.youtube.com/watch?v=BDDrd98WYL8)
+- [Does Buy-And-Hold Investing Still Work? | ET Money](https://youtu.be/0Fe_qjdgJSM)
+- [How To Find Multi-baggers (100x) In The Stock Market? | ET Money](https://www.youtube.com/watch?v=YwwhtZuJkyU)
+- [Be careful with these Mutual Fund Categories | Thematic | Sector Funds | Multi-Cap | ET Money](https://youtu.be/1zgSvdQXw0I)
+- [Intangible Assets: The Invisible Superhero Of Investing | ET Money](https://youtu.be/XG4esIF_eGE)
 
 ## Alternative Investments
 
