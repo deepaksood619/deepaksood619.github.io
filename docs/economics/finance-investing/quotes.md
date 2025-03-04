@@ -2,6 +2,8 @@
 
 Diversification using portfolio allocation and goal based investing are the only things that works in personal finance investing
 
+Temperament - A person’s character, especially as it affects the way he/she behaves and feels
+
 Money begets Money
 
 Two types of investors - The one who knows that they don't know, others who don't know that they don't know.

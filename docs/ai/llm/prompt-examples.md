@@ -5,7 +5,7 @@
 - [https://snackprompt.com](https://snackprompt.com/)
 - [GitHub - f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
 
-### LinkedIn post prompt
+## LinkedIn post prompt
 
 Write a LinkedIn post about your recent accomplishment in # Your Industry, detailing how you achieved it, and sharing the impact it had on your # career or organization.
 
@@ -19,11 +19,13 @@ format bold to unicode bolds, since bold ascii doesn't work in linkedin
 
 [LinkedIn Text Formatter • Grow Your Personal Brand On LinkedIn](https://taplio.com/linkedin-post-formatter)
 
-### ChatGPT prompt to write error free
+## ChatGPT prompt to write error free
 
 `{paste your writing}`
 
 Prompt: "Proofread my writing above. Fix grammar and spelling mistakes. And make suggestions that will improve the clarity of my writing"
+
+## Learning Prompts
 
 ### Learn-fast prompt using the 80/20 principle to knowledge
 
@@ -33,15 +35,23 @@ Prompt: "I want to learn about `{insert topic}`. Identify and share the most imp
 
 I'm currently learning about snowflake. Ask me a series of 50 questions, one at a time, that will test my knowledge. Wait for my response before proceeding to the next question, ask the next question after your explanation of the answers. Identify knowledge gaps in my answers and give me better answers to fill those gaps. When finish show me the quantity of correct answers and the quantity of failed answers
 
-You are my personal tutor in `{subject}`. We are going to have an interactive voice-based learning session where you will ask me a question, wait for my answer, analyze my response, and then provide constructive feedback. If my answer is incorrect or incomplete, explain where I went wrong and provide the correct answer before moving on to the next question. Keep the conversation engaging, adaptive, and based on my learning pace. Ensure the questions gradually increase in difficulty based on my performance. Let’s begin!
-
-- Take a pause before answering, since I speak slow
-- Quiz me about advanced biology concepts
-
 Assume role of a nutrition and training scientist. Use EBM SORT ( `12<50%` ) to provide one word or one line answers to questions. (`<10 words`).
 
 - EBM - Evidence Based Method
 - SORT is a method for rating the strength of evidence in medical literature. It's part of Evidence-Based Medicine (EBM), which is a way of making patient care decisions using the best available evidence.
+
+### Interactive Voice Tests
+
+Start playing trivia speaking games with gemini.
+
+Let's play a game, you will ask me a question I will answer, you will give me a number based on the quality of answer, and give the right answers and then ask next question
+
+---
+
+You are my personal tutor in `{subject}`. We are going to have an interactive voice-based learning session where you will ask me a question, wait for my answer, analyze my response, and then provide constructive feedback. If my answer is incorrect or incomplete, explain where I went wrong and provide the correct answer before moving on to the next question. Keep the conversation engaging, adaptive, and based on my learning pace. Ensure the questions gradually increase in difficulty based on my performance. Let’s begin!
+
+- Take a pause before answering, since I speak slow
+- Quiz me about advanced biology concepts
 
 ### Create Test
 
@@ -61,7 +71,7 @@ Make sure to
 
 Create 15 mcq questions (with 4 options each and 1 correct answer) around below topics
 
-### Create architecture diagram
+## Create architecture diagram
 
 **Provide result into mermaid format**
 
@@ -82,13 +92,13 @@ Here is my flow:
 
 [How to generate architecture diagrams with ChatGPT](https://bool.dev/blog/detail/create-architecture-diagrams-with-chatgpt)
 
-### Create Presentation
+## Create Presentation
 
 [Prepare Your Presentation like a MBB Consultant | Snack Prompt](https://snackprompt.com/prompt/prepare-your-presentation-like-a-mbb-consultant)
 
 [The Perfect PowerPoint presentation | Snack Prompt](https://snackprompt.com/prompt/the-perfect-powerpoint-presentation)
 
-#### Prompt 1
+### Prompt 1
 
 Create a presentation for presenting to top management of the company on title "Data Engineering". I as an owner to data engineering vertical working in service based company, have to tell the management about how we can create a Data Engineering vertical.
 
@@ -96,11 +106,11 @@ Start with importance of data and about the data industry. 1 one slide on what a
 
 Presentation should be 30 mins long with 10-15 slides. I am aiming for a script that is persuasive, highlighting the different areas that can be tapped in Data Engineering, and how can we sell these as a service to other companies, and solve other company problems.
 
-#### Prompt 2
+### Prompt 2
 
 ChatGPT, could you aid me in crafting a compelling proposal presentation script for a project centered around integrating AI customer service solutions for Client's Name? I am aiming for a script that is persuasive, highlighting the advantages of our proposed solutions distinctively.
 
-#### Ultimate Presentation Prompt
+### Ultimate Presentation Prompt
 
 Create a presentation using below details
 
@@ -132,7 +142,7 @@ Only create the slides till agenda, then we will start creating slides step by s
 
 https://chatgpt.com/share/674780e9-c504-8005-a023-b7aa945329d4
 
-### Prompting Guide
+## Prompting Guide
 
 1. **Tone:** Specify the desired tone (e.g., formal, casual, informative, persuasive).
 2. **Format:** Define the format or structure (e.g., essay, bullet points, outline, dialogue).

@@ -127,7 +127,7 @@ The following CMSs have high popularity among Gatsby users and support key funct
 | [Builder.io](https://www.builder.io/) | [guide](https://www.gatsbyjs.com/docs/sourcing-from-builder-io/) | [docs](https://www.gatsbyjs.com/plugins/@builder.io/gatsby/) | |
 |[Flotiq](https://flotiq.com/) | [guide](https://www.gatsbyjs.com/docs/sourcing-from-flotiq/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-flotiq) | |
 
-https://github.com/outline/outline
+[GitHub - outline/outline: The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.](https://github.com/outline/outline)
 
 [Decap CMS | Open-Source Content Management System](https://decapcms.org/)
 

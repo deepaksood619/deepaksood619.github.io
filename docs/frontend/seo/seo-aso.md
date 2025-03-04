@@ -58,6 +58,8 @@ Rich results are experiences on Google surfaces, such as Search, that go beyond 
 
 [Schema Markup validator](https://validator.schema.org/)
 
+[Dataset Structured Data \| Google Search Central  \|  Documentation  \|  Google for Developers](https://developers.google.com/search/docs/appearance/structured-data/dataset)
+
 ## Siphoning
 
 In the context of SEO (Search Engine Optimization), Siphoning refers to the act of stealing another website's traffic. Methods for stealing that traffic can include wholesale copying of webpages (that have been slightly altered to redirect visitors elsewhere), using keywords and keyword phrases that "belong" to the targetted website, cybersquatting, etc.

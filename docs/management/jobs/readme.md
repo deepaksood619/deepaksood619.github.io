@@ -8,6 +8,10 @@
 - [Resume Keywords Pointers](management/jobs/resume-keywords-pointers.md)
 - [Hiring Plan / HR / Recruiting](management/jobs/hiring-plan-hr-recruiting.md)
 
+### Future
+
+- Learn the fastest
+
 ### Shotgun approach
 
 Where you apply to a lot of jobs

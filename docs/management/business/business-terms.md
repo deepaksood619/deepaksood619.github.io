@@ -46,3 +46,5 @@ Gross Transaction Value (GTV) is a calculation of the revenue in relation to com
 Window dressing - an adroit but superficial or misleading presentation of something, designed to create a favourable impression.
 
 - "the government's effort has amounted to little more than window dressing"
+
+Week Definition - Monday to Sunday (since Sat & Sun (weekends) should be grouped together, to see weekend behavior)

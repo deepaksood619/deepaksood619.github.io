@@ -63,6 +63,7 @@ The broker sends one return code for each topic/QoS-pair that it receives in the
 | 1           | Success - Maximum QoS 1 |
 | 2           | Success - Maximum QoS 2 |
 | 128         | Failure                 |
+
 ![image](../../media/Publish-Subscribe-&-Unsubscribe-image5.gif)
 
 After a client successfully sends the SUBSCRIBE message and receives the SUBACK message, it gets every published message that matches a topic in the subscriptions that the SUBSCRIBE message contained.

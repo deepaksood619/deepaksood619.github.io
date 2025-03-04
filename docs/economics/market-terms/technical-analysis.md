@@ -369,7 +369,7 @@ Average Directional Index (ADX) About: The Average Directional Index (ADX), Minu
 
 ## Interesting features on TradingView
 
-If you don't know already, then TradingView is now available on Kite. Here is the TradingQ&A post announcing the beta launch. Given this, I thought I could share a few of my favourite
+If you don't know already, then TradingView is now available on Kite. Here is the Trading Q&A post announcing the beta launch. Given this, I thought I could share a few of my favourite
 
 ![image](../../media/Market-Terms_Technical-Analysis-image6.jpg)
 

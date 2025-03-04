@@ -19,6 +19,7 @@
 	- [Ignite Edition Challenge: Microsoft Learn Challenge | Microsoft Learn](https://learn.microsoft.com/en-us/training/topics/event-challenges)
 - [Hands-On Large Language Models](https://www.llm-book.com/)
 - [Jay Alammar – Visualizing machine learning one concept at a time.](https://jalammar.github.io/)
+- [GitHub - microsoft/ai-agents-for-beginners: 10 Lessons to Get Started Building AI Agents](https://github.com/microsoft/ai-agents-for-beginners)
 
 ## AI (Artificial Intelligence) + ML (Machine Learning)
 
