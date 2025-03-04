@@ -9,6 +9,7 @@
 - [Futures / Options / Trading](economics/market-terms/futures-options-trading.md)
 - [Swing Trading](economics/market-terms/swing-trading.md)
 - [Wyckoff Method](economics/market-terms/wyckoff-method.md)
+- [Trading Systems](economics/market-terms/trading-systems.md)
 - [Others](economics/market-terms/others.md)
 
 ## Market timings

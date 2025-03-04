@@ -55,6 +55,8 @@ https://in.pinterest.com/pin/thin-body-workout--801077852487590084
 
 ## Youtube / Links
 
+Neti - Baking soda, 1 tea spoon of salt, 1/2 litre boiled water
+
 [20 MIN FULL BODY WORKOUT // No Equipment | Pamela Reif - YouTube](https://www.youtube.com/watch?v=UBMk30rjy0o&ab_channel=PamelaReif)
 
 [20 Minute Heart-Pumping Cardio Workout - No Equipment With Warm-Up & Cool-Down | SELF](http://youtube.com/watch?v=vncKnAPhgtg&ab_channel=SELF)

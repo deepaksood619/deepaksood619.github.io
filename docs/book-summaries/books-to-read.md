@@ -205,6 +205,12 @@ Book recommendation by Barack Obama
 
 ## Economics
 
+- Capital in the Twenty-First Century - 2014
+	- [Capital in the Twenty-First Century - Wikipedia](https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century)
+	- [The short guide to Capital in the 21st Century \| Vox](https://www.vox.com/2014/4/8/5592198/the-short-guide-to-capital-in-the-21st-century)
+	- [Book Review: Capital in the Twenty-First Century by Thomas Piketty \| LSE Review of Books](https://blogs.lse.ac.uk/lsereviewofbooks/2014/06/10/book-review-capital-in-the-twenty-first-century-by-thomas-piketty/)
+	- [Piketty’s “Capital,” in a Lot Less than 696 Pages](https://hbr.org/2014/04/pikettys-capital-in-a-lot-less-than-696-pages)
+	- [Thomas Piketty: New thoughts on capital in the twenty-first century - YouTube](https://www.youtube.com/watch?v=JKsHhXwqDqM&ab_channel=TED)
 - Freakonomics by Steven D. Levitt and Shephen J. Dubner
 - Courage to Act Ben Bernanke
 - The Underconver Economist by Tim Harford

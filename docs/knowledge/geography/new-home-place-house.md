@@ -324,7 +324,7 @@ Close or tieup with other schools
 
 [Difference between carpet area, built-up area, super built-up area](https://housing.com/news/real-estate-basics-part-1-carpet-area-built-up-area-super-built-up-area/)
 
-## Buying vs Renting Home
+## Buying vs Renting Home / Buy vs Rent
 
 Unrecoverable cost of owning vs buying
 
@@ -346,6 +346,8 @@ Take the value of the home that you are considering multiply by 5% and divide by
 - [5 IMPORTANT Life Decisions you SHOULD take on an Excel Sheet | Ankur Warikoo Hindi](https://youtu.be/EE8iTK9_xa8)
 - [Is BUYING a BETTER OPTION in 2023? | Buying vs Renting a house: 2023 edition | Ankur Warikoo Hindi - YouTube](https://www.youtube.com/watch?v=YT1ZYWr-tAU&ab_channel=warikoo)
 - [Home rent or buy? | Should you buy a house in 2024? - The final answer | - YouTube](https://www.youtube.com/watch?v=pjpfeTvVMA4&ab_channel=InvestAajForKal)
+- [Rent vs Buy a House: The 4-2-0 Rule - YouTube](https://www.youtube.com/watch?v=HRVED93mXoY&ab_channel=Zero1byZerodha)
+	- [Zero1 - Rent vs EMI Debate - Google Sheets](https://docs.google.com/spreadsheets/d/1stvkV2mcw61zC3q8U1ghmwxZL6_J0CD8y3psANujn38/edit?usp=sharing)
 
 ## Documents / Property Investing
 

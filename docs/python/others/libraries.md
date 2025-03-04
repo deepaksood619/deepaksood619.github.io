@@ -218,7 +218,7 @@ Tenacity is an Apache 2.0 licensed general-purpose retrying library, written in 
 
 ### Benchmarking
 
-```
+```python
 # Python 12.502133846282959
 # ujson 4.428200960159302
 # orjson 2.3136467933654785

@@ -7,6 +7,8 @@ Google Chat apps with Gemini do the following:
 - Bring your services and resources into Google Chat, which lets users get information and take action without leaving the conversation.
 - Integrate with the generative AI model Gemini, so they can create or search data like text or images at specific times to streamline your workflows.
 
+![Build Apps for Google Chat with Gemini](../media/WhatsApp%20Image%202025-03-01%20at%2023.22.59.jpeg)
+
 ### Why integrate Google Chat apps with Gemini?
 
 The typical use cases of Generative AI models like Gemini fall in the following categories:

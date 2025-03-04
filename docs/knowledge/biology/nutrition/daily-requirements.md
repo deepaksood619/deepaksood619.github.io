@@ -166,6 +166,14 @@ It has two main components -
 
 ![image](../../../media/Nutrition_Daily-Requirements-image1.jpg)
 
+## Protein
+
+Health Guidelines for Indians by Indian Council of Medical Research
+
+As per ICMR an adult should consume 0.8g-1g of protein as per his body weight. For someone who is an active person, protein requirement is 1g-1.2g of their body weight. Proteins provide amino acids which are vital for almost every function of the body. Include protein rich foods such as chicken, fish, eggs, paneer, lentils, beans, nuts and seeds to fulfill your daily protein requirements.
+
+Combining cereals with pulses in the ratio of 3:1 will improve the protein quality of your meal as per ICMR.
+
 ## References
 
 https://en.wikipedia.org/wiki/List_of_macronutrients

@@ -57,6 +57,8 @@ https://cleartax.in/s/reit-funds
 
 [What’s the Difference Between REIT and InVit? - The 1% News](https://news.onepercentclub.io/invest/whats-the-difference-between-reit-and-invit/5719/)
 
+![Indian REITs Returns](../../media/Screenshot%202025-03-02%20at%2010.45.30%20PM.jpg)
+
 ### HIGH YIELDING FIXED INCOME INVESTMENTS
 
 For the last two years, fixed deposit investors have been a grieving lot with FD returns struggling to match the inflation rate. But now, we are seeing a boom in start-ups offering bonds, structured debt and other high yielding fixed income instruments to retail investors as they look to make a dent in the 1.5 trillion dollar fixed deposit market. One of these weapons of FD destruction are high yielding debt instruments which in addition to offering higher interest rates also allows investors to put in amounts as low as 10,000 rupees. Platforms like Wint Wealth, BondsKart, AltiFi etc. offer products like government bonds, AAA rated papers from lending institutions, high yielding BBB rated corporate bonds, private bond placements and also structured debt.
@@ -284,3 +286,4 @@ https://www.youtube.com/c/SUBRAMONEYPVSUBRAMANYAM/videos
 - Penny Stocks
 - Initial Public Offering
 - Cryptocurrency
+	- [Tax on cryptos: How Budget 2025 has changed Virtual Digital Asset taxation; check details - Tax on cryptos: How Budget 2025 has changed Virtual Digital Asset taxation; check details BusinessToday](https://www.businesstoday.in/personal-finance/tax/story/tax-on-cryptos-how-budget-2025-has-changed-virtual-digital-asset-taxation-check-details-463210-2025-02-03)
