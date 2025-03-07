@@ -111,6 +111,8 @@ GPD can be measured in several different ways.  The most common methods include:
 
 ![image](../media/richest-countries-by-gdp.jpg)
 
+![The world's top economies and 10 years of growth](../media/Screenshot%202025-03-06%20at%205.20.59%20PM.jpg)
+
 ## Links
 
 [Gross domestic product - Wikipedia](https://en.wikipedia.org/wiki/Gross_domestic_product)

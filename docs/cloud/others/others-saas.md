@@ -200,3 +200,6 @@ MuleSoft is a platform that gives IT the tools to automate everything. This incl
 - Intuit - QuickBooks
 	- [Use workflows to automate your business processes](https://quickbooks.intuit.com/learn-support/en-us/help-article/feature-preferences/use-workflows-quickbooks-online-advanced-send/L6uaB8H5G_US_en_US)
 - [Paying for software is stupid… 10 free and open-source SaaS replacements - YouTube](https://www.youtube.com/watch?v=e5dhaQm_J6U)
+- [GitHub - 738/awesome-url-shortener: 🔗 A curated list of awesome url shortener](https://github.com/738/awesome-url-shortener)
+	- [Bitly Connections Platform \| Short URLs, QR Codes, and More](https://bitly.com/)
+	- [Dub.co - Link Management for Modern Marketing Teams](https://dub.co/)

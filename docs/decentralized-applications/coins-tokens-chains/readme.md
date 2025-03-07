@@ -194,6 +194,12 @@ Cosmos is a decentralized network of independent parallel blockchains, each powe
 - [Aptos Review: APT Any Potential?! This You NEED To Know!! - YouTube](https://www.youtube.com/watch?v=t6DSYcpJDuk&ab_channel=CoinBureau)
 	- Libra -> Diem -> Aptos + Sui
 
+### Celo
+
+[Celo as a Cultural Extension of Ethereum](https://app.t2.world/article/cm1eqxyh8151217321mcesuw528v)
+
+[Celo: Building a Regenerative Economy](https://www.notboring.co/p/celo-building-a-regenerative-economy)
+
 ### Mantra
 
 MANTRA is a Security first RWA Layer 1 Blockchain, capable of adherence and enforcement of real world regulatory requirements. Built for Institutions and Developers, MANTRA offers a Permissionless Blockchain for Permissioned applications.

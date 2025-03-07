@@ -14,6 +14,7 @@
 - https://deepaksood619.github.io
     - http://bit.ly/deepaksite
     - https://bit.ly/deepnotes
+    - https://dub.sh/deepnotes
 - https://resume.github.io/?deepaksood619
 - [Experienced Software and Product Development Professional](https://deepaksood.framer.ai/)
 - https://projectshowcase.me/deepaksood

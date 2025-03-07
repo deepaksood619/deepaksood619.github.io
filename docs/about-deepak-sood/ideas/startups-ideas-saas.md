@@ -148,7 +148,9 @@ That idea came from Charles Eisenstein's Sacred Economics: if you back money wit
 
 Celo is based on a belief that programmable money will unlock new economic models, and that changing the features of money (which is possible because money's just a technology) can lead to a more beautiful world. And it's a bet that mission-aligned builders will care as much about a Layer 1's community as they do its tech specs. When everything is open, liquidity has no loyalty, and each blockchain's technology continues to improve, standing for something, and building a community around it, might be a key competitive advantage in a multi-chain world
 
-https://www.notboring.co/p/celo-building-a-regenerative-economy
+[Fetching Title#bokf](https://www.notboring.co/p/celo-building-a-regenerative-economy)
+
+[Celo as a Cultural Extension of Ethereum \| t2.world](https://app.t2.world/article/cm1eqxyh8151217321mcesuw528v)
 
 [Will RBI make money dance to its tunes?](https://finshots.in/archive/will-rbi-make-money-dance-to-its-tunes/)
 

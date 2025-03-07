@@ -20,6 +20,14 @@ Hibernate DAO - Data Access Objects
 
 [Background Jobs in Spring with JobRunr | Baeldung](https://www.baeldung.com/java-jobrunr-spring)
 
+## Others
+
+### Dropwizard
+
+Dropwizard is a Java framework for building RESTful web services. It's an open-source project that combines popular Java libraries into a lightweight package.
+
+[Home — Dropwizard](https://www.dropwizard.io/en/stable/)
+
 ## References
 
 spring jpa tutorial

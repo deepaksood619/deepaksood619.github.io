@@ -9,6 +9,10 @@
 
 ![image](../../media/Market-Terms_Valuation-Metrics-image1.jpg)
 
+## Macroeconomic Indicators
+
+- m-cap-to-GDP ratio - [Sensex, Nifty: Red flag! This Warren Buffett's indicator suggests stock market still is expensive](https://www.businesstoday.in/markets/stocks/story/sensex-nifty-red-flag-this-warren-buffetts-indicator-suggests-stock-market-still-is-expensive-466589-2025-03-04)
+
 ## Multiple ratios can be combined to choose companies
 
 - PB Ratio < 2, and PE Ratio < 15
@@ -20,7 +24,7 @@ Earnings before interest, tax, depreciation and amortization (EBITDA) is a measu
 
 https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization
 
-## Price to Book Ratio (P/B Ratio)
+## Price to Book Ratio (P/B Ratio / PB Ratio)
 
 Total amount of money a company can generate if it were to be liquidated
 
@@ -32,12 +36,14 @@ P/B Ratio = Current price per share / Book value per share
 
 Good for low turnover portfolio
 
-Cons
+**Cons**
 
 - Doesn't take intangible assets into account
 - Keeps assets at acquisition value & not at market value
 - Doesn't factor in profits, sales & growth
 - Penalizes good capital allocation decision at times
+
+[Price-to-Book (P/B) Ratio: Meaning, Formula, and Example](https://www.investopedia.com/terms/p/price-to-bookratio.asp)
 
 ## Price to Earnings Ratio (P/E Ratio / PE Ratio)
 
@@ -81,7 +87,7 @@ https://www.investopedia.com/terms/p/price-earningsratio.asp
 
 ## PEG Ratio
 
-The price/earnings to growth ratio (PEG ratio) isa stock's price-to-earnings (P/E) ratio divided by the growth rate of its earnings for a specified time period.
+The price/earnings to growth ratio (PEG ratio) is a stock's price-to-earnings (P/E) ratio divided by the growth rate of its earnings for a specified time period.
 
 - The PEG ratio enhances the P/E ratio by adding in expected earnings growth into the calculation.
 - The PEG ratio is considered to be an indicator of a stock's true value, and similar to the P/E ratio, a lower PEG may indicate that a stock is undervalued.

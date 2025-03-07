@@ -173,6 +173,12 @@ https://en.wikipedia.org/wiki/Parliamentary_system
 
 [Every Liberalism Term Explained in 5 Minutes - YouTube](https://www.youtube.com/watch?v=NAq-Qlm-qhA&ab_channel=TheWhiteboardExplainer)
 
+## Anarchism
+
+Anarchism is a political philosophy and movement that seeks to abolish all institutions that perpetuate authority, coercion, or hierarchy, primarily targeting the state and capitalism. Anarchism advocates for the replacement of the state with stateless societies and voluntary free associations. A historically left-wing movement, anarchism is usually described as the libertarian wing of the socialist movement (libertarian socialism).
+
+[Anarchism - Wikipedia](https://en.wikipedia.org/wiki/Anarchism)
+
 ## The Political Spectrums - Left wing vs right wing, centrism (Crap)
 
 ### Left (Liberal)

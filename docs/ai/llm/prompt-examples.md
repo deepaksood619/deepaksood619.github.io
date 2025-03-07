@@ -19,6 +19,8 @@ format bold to unicode bolds, since bold ascii doesn't work in linkedin
 
 [LinkedIn Text Formatter • Grow Your Personal Brand On LinkedIn](https://taplio.com/linkedin-post-formatter)
 
+Repost with prompts
+
 ## ChatGPT prompt to write error free
 
 `{paste your writing}`

@@ -43,6 +43,7 @@
 - captions (Android App)
 - [MeetGeek | Record, Transcribe & Share Meeting Notes](https://meetgeek.ai/)
 - [SIMA generalist AI agent for 3D virtual environments - Google DeepMind](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/)
+- [Fest](https://usefest.com/)
 
 ## [Midjourney](https://www.midjourney.com/)
 

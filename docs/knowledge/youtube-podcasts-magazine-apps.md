@@ -422,6 +422,7 @@ Indian History - https://www.anirudhkanisetti.com/podcasts
 ## Newsletter
 
 - Finshots
+- [Wait But Why](https://waitbutwhy.com/)
 - Not Boring by Packy McCormick - https://www.notboring.co
 - economic times
 - [Budget Tiger | RCG | Substack](https://www.budgetiger.in/)

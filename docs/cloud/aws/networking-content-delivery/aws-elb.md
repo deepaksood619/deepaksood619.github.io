@@ -18,6 +18,10 @@ Stripping off the prefix cannot be handled by ALB. If you don't have access to t
 
 [ChatGPT - Stripping Path Prefix](https://chatgpt.com/share/67a11208-da34-8005-8004-7c625373e55b)
 
+### Domain based routing / Host based routing
+
+[New – Host-Based Routing Support for AWS Application Load Balancers \| AWS News Blog](https://aws.amazon.com/blogs/aws/new-host-based-routing-support-for-aws-application-load-balancers/)
+
 ## Network Load Balancer (NLB)
 
 Used for extreme performance, this load balancer operates at Layer 4 of the OSI model. It can, therefore, load-balance any kind of TCP traffic and can handle large amounts of requests with low latency.
