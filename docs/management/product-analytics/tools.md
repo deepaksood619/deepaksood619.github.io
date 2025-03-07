@@ -20,6 +20,15 @@ Transform insights into growth. Increase app installs and hit your LTV goals wit
 	- The SKAdNetwork (SKAN) dashboard displays campaign metrics reported via iOS SKAN postbacks and additional data points during initial user measurement windows. Modeled metrics which consider null conversions are also available. Data displays using the install or postback arrival date.
 	- [What is SKAdNetwork (SKAN)? Understand the basics](https://www.appsflyer.com/glossary/skadnetwork/)
 
+### Docs
+
+- [Managing AppsFlyer tokens – Help Center](https://support.appsflyer.com/hc/en-us/articles/360004562377-Managing-AppsFlyer-tokens?utm_campaign=apiaccess&utm_medium=ui&utm_source=hq1)
+	- Use the API token to authorize API calls, such as Pull, Cohort, ROI, and others.
+	- Use the S2S token to start sending event data using S2S calls.
+	- Use OneLink API token to generate personalized links for optimal user engagement in large-scale campaigns
+- [Server-to-server events API for mobile (S2S-mobile) – Help Center](https://support.appsflyer.com/hc/en-us/articles/207034486-Server-to-server-events-API-for-mobile-S2S-mobile)
+- [Installs](https://dev.appsflyer.com/hc/reference/get_app-id-installs-report-v5)
+
 ## AppsFlyer vs CleverTap
 
 AppsFlyer and CleverTap are both mobile marketing platforms that help businesses grow their apps. AppsFlyer is an analytics and attribution platform, while CleverTap is a retention platform.

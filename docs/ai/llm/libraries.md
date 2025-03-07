@@ -157,6 +157,8 @@
 
 - [**Aviary**](https://github.com/ray-project/aviary) - an LLM serving solution that makes it easy to deploy and manage a variety of open source LLMs. By the authors of [Ray](https://github.com/ray-project/ray).
 - [**GPT4All**](https://github.com/nomic-ai/gpt4all) - an ecosystem to run powerful and customized large language models that work locally on consumer grade CPUs and any GPU (ex pygpt4all/pyllamacpp) with python bindings.
+	- [GitHub - nomic-ai/nomic: Interact, analyze and structure massive text, image, embedding, audio and video datasets](https://github.com/nomic-ai/nomic)
+	- [Nomic AI](https://www.nomic.ai/)
 - [**LLM Engine**](https://github.com/scaleapi/llm-engine) - engine for fine-tuning and serving large language models. By [Scale AI](https://scale.com/).
 - [**LLM Gateway**](https://github.com/wealthsimple/llm-gateway) - gateway for secure & reliable communications with OpenAI and other LLM providers.
 - [**punica**](https://github.com/punica-ai/punica) - Serving multiple LoRA finetuned LLM as one.

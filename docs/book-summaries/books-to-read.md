@@ -139,7 +139,7 @@
 - These Truths - Jill Lepore
 - The three body problem
 - Upheaval: Turning Points for Nations in Crisis - Jared Diamond
-- Wait but why?
+- Wait but why? ([Wait But Why](https://waitbutwhy.com/))
 - War is peace by George Orwell
 - Way of the Peaceful Warrior: A Book That Changes Lives - Dan Millman
 - What Extraordinary People Think: How to Cut The Busy B.S. and Life Your Kickass Life

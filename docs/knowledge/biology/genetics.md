@@ -32,6 +32,10 @@ Historically, some phenomena not necessarily heritable have also been described 
 
 https://en.wikipedia.org/wiki/Epigenetics
 
+## Others
+
+- [Hermaphrodite - Wikipedia](https://en.wikipedia.org/wiki/Hermaphrodite) - A hermaphrodite is a sexually reproducing organism that produces both male and female gametes. Animal species in which individuals are either male or female are gonochoric, which is the opposite of hermaphroditic.
+
 ## Links
 
 [Learn Genetic Engineering - Part 1: How does it work?](https://www.youtube.com/watch?v=E_TAHxPBqKY)

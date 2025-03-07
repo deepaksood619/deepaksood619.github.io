@@ -95,6 +95,7 @@
 - https://www.univ.ai
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 - Paid - [Complete Machine Learning & Data Science Program](https://www.geeksforgeeks.org/courses/data-science-live)
+- Roadmap - [Sreedath Panat on LinkedIn: An 8-month roadmap to ML (Sorry there are no shortcuts) Stepping into ML… \| 19 comments](https://www.linkedin.com/posts/sreedath-panat_an-8-month-roadmap-to-ml-sorry-there-are-activity-7302894738666364928-ZvTe)
 
 ## Courses - Data
 

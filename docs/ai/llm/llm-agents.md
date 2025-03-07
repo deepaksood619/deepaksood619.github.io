@@ -1,5 +1,7 @@
 # LLM Agents
 
+Presentation - [Automating the Future: Build Powerful AI Agents - Google Slides](https://docs.google.com/presentation/d/1nRNP7h89k-8FTCP2kMSMbAa0zIJ6r0COm7voa1JT6Sc/edit?usp=sharing)
+
 An LLM Agent is a software entity capable of reasoning and autonomously executing tasks.
 
 [GitHub - viktoriasemaan/multi-agent: Examples of AI Multi-Agent Solutions](https://github.com/viktoriasemaan/multi-agent)

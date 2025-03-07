@@ -1,6 +1,60 @@
 # Meetups / Talks / Sessions
 
-## Build apps for Google Chat with Gemini - Build with AI: Ghaziabad Edition - NITRA Technical Campus, Ghaziabad
+## ClickHouse Meetup (22 March 2025)
+
+Implementing Vector Search in ClickHouse for Scalable AI Solutions
+
+Delve into ClickHouse's support for vector search, enabling efficient handling of high-dimensional data for AI applications. Understand how to implement vector similarity searches using ClickHouse's SQL functions and explore use cases such as semantic search and recommendation systems.
+
+[ClickHouse Delhi/Gurgaon Meetup - March 2025, Sat, Mar 22, 2025, 10:30 AM \| Meetup](https://www.meetup.com/clickhouse-delhi-user-group/events/306253492/)
+
+[Machine learning and GenAI with ClickHouse \| ClickHouse for ML and data science](https://clickhouse.com/use-cases/machine-learning-and-data-science)
+
+[Announcing GenAI powered query suggestions in ClickHouse Cloud](https://clickhouse.com/blog/announcing-genai-powered-query-suggestions-clickhouse-cloud)
+
+[How Poolside is using ClickHouse to build next-gen AI for software development](https://clickhouse.com/blog/poolside-using-clickhouse-to-build-next-gen-ai-for-software-development)
+
+## Fareportal - Unlocking AI Meetup (8 March 2025)
+
+Presentation - [Fareportal - Automating the Future: Build Powerful AI Agents - Google Slides](https://docs.google.com/presentation/d/1yC45PpMcHqgvlVmCutI2LUF_jmuZM9fH0A1NIa665Q8/edit?usp=sharing)
+
+- How AI agents reason, plan, and execute autonomously
+- Key frameworks & orchestration techniques
+- Real-world use cases you can implement right away
+
+### Session Line-up
+
+**Automating the Future: Build Powerful AI Agents**
+
+- Presenters: Ramneek Kaur (Sr. Data Engineer) and Deepak Sood (Senior AI, Data and DevOps Architect) from OpsTree
+
+**Harnessing GenAI with Ollama & Open-WebUI for DevOps Automation**
+
+- Presenters: Sajid Ansari (Lead DevOps) & Gaurav Bansal (VP IT – Developer Services) from Fareportal
+
+**Quality Engineering 2.0: GenAI's Leap into the Future**
+
+- Presenters: Manisha Dixit (Automation - Test Manager) and Manoj Jain (Senior Director - R&D) from Axtria
+
+**AI-Powered Call Analytics at Fareportal**
+
+- Presenters: Pranjal Kalbag (ML Engineer) & Vipin Siriah (Manager, Data Science) from Fareportal
+
+[Deepak Sood on LinkedIn: #genai #aiagents #aiinnovation #beyondchatbots #unlockingai #techmeetup…](https://www.linkedin.com/posts/deepaksood619_genai-aiagents-aiforbusiness-activity-7303111555112386560-GzIs/)
+
+## Build apps for Google Chat with Gemini (7 March 2025)
+
+- Build with AI: Ghaziabad Edition - NITRA Technical Campus, Ghaziabad
+
+Presentation - [NITRA - Zero to Hero: Mastering GenAI in a Flash - Google Slides](https://docs.google.com/presentation/d/1rmT_p4wagioys1iNRlEuCYdIRZO89CZEYwoODmi-iWs/edit?usp=sharing)
+
+Build a Patent Search App with AlloyDB, Vector Search & Vertex AI!
+
+1. Create an AlloyDB instance and load Patents Public Dataset data
+2. Enable pgvector and generative AI model extensions in AlloyDB
+3. Generate embeddings from the insights
+4. Perform real time Cosine similarity search for user search text
+5. Deploy the solution in serverless Cloud Functions
 
 Google Chat apps with Gemini do the following:
 
@@ -31,11 +85,15 @@ In this codelab, you build three Google Chat apps with Gemini to cover the three
 - How to integrate Google Chat apps with Dialogflow CX agents.
 - How to use the latest features of Google Chat: app home, Google Chat Events, and accessory widgets.
 
+[Deepak Sood on LinkedIn: #buildwithai #tensorflowug #ai #googlegemini #ghaziabad #techevent](https://www.linkedin.com/posts/deepaksood619_buildwithai-tensorflowug-ai-activity-7303412204479881217-vSYQ)
+
 [Build apps for Google Chat with Gemini  \|  Google Codelabs](https://codelabs.developers.google.com/codelabs/chat-apps-gemini?hl=en#0)
 
 [Build with AI: Ghaziabad Edition](https://www.commudle.com/communities/tensorflow-user-group-ghaziabad/events/women-in-ai-5d052ccf-e60e-4347-9c7c-0ba67cb1d47f)
 
 [Google Codelabs](https://codelabs.developers.google.com/?category=aiandmachinelearning)
+
+[Catalog \| Google Cloud Skills Boost](https://www.cloudskillsboost.google/catalog?keywords=&locale=&skill-badge%5B%5D=any&format%5B%5D=labs&language%5B%5D=en)
 
 ## Head Mentor for HackHound 3.0 (28 Feb 2024)
 
@@ -51,7 +109,7 @@ In this codelab, you build three Google Chat apps with Gemini to cover the three
 
 ## Kafka Fundamentals - Max HealthCare (19 Feb 2024)
 
-[Kafka Fundamentals](https://deepaksood619.github.io/slides-kafka-fundamentals/)
+Presentation - [Kafka Fundamentals](https://deepaksood619.github.io/slides-kafka-fundamentals/)
 
 ![Kafka Fundamentals](../media/Screenshot%202025-02-20%20at%206.04.18%20PM.jpg)
 
@@ -64,6 +122,8 @@ TFUG Ghaziabad and PyDelhi invites tech enthusiasts, innovators, and experts to 
 Presentation - [Automating the Future: Build Powerful AI Agents - Google Slides](https://docs.google.com/presentation/d/1nRNP7h89k-8FTCP2kMSMbAa0zIJ6r0COm7voa1JT6Sc/edit?usp=sharing)
 
 ### Automating the Future: Build Powerful AI Agents with Vertex AI
+
+Automating the Future: Building Powerful AI Agents
 
 - AI is evolving beyond chatbots into **autonomous AI agents** that can reason, plan, and take action.
 - **Google Vertex AI Studio** provides a seamless way to build, test, and deploy AI agents with **minimal coding**.
@@ -474,6 +534,12 @@ https://www.slideshare.net/deepaksood566/how-to-empower-a-platform-with-a-data-p
 ## Webinar on Career Guidance at SSTC (27 June 2020)
 
 https://www.slideshare.net/deepaksood566/computer-science-career-guidance
+
+## Others
+
+- [TechSangam - **Tech4Hack**](https://www.commudle.com/communities/tech4hack/events/techsangam)
+- [Nights Season 1!](https://www.commudle.com/communities/builders-space/events/the-nights-s1)
+- [Udaan 2K25](https://www.commudle.com/communities/gurugram-kotlin-user-group/events/udaan-2025)
 
 ## Finding Meetups
 

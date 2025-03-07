@@ -491,3 +491,9 @@ People's expectations rise faster than living standards, so a society that becom
 ## Three Men Make a Tiger (Chinese proverb)
 
 If one person tells you there's a tiger roaming around your neighborhood, you can assume they're lying. If two people tell you, you begin to wonder. If three say it's true, you're convinced there's a tiger in your neighborhood and you run for your life. The proverb first came about hundreds of years ago, but is probably more relevant than ever in the social media age. People will believe anything if enough people tell them it's true.
+
+## Thucydides Trap
+
+The Thucydides Trap, or Thucydides' Trap, is a term popularized by American political scientist Graham T. Allison to describe an apparent tendency towards war when an emerging power threatens to displace an existing great power as a regional or international hegemon. The term exploded in popularity in 2015 and primarily applies to analysis of China–United States relations.
+
+[Thucydides Trap - Wikipedia](https://en.wikipedia.org/wiki/Thucydides_Trap)

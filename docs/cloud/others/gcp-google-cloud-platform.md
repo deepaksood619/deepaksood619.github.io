@@ -125,6 +125,12 @@ Cloud Storage allows world-wide storage and retrieval of any amount of data at a
 
 ### Cloud SQL
 
+### AlloyDB
+
+AlloyDB is a database service that's fully managed and compatible with PostgreSQL. It's designed to handle demanding workloads, like analytical and transactional processing. AlloyDB is built on a cloud-based architecture and a Google-built database engine.
+
+[AlloyDB for PostgreSQL \| Google Cloud](https://cloud.google.com/products/alloydb?hl=en)
+
 ### Cloud Bigtable
 
 ### Cloud Spanner

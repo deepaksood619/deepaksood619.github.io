@@ -106,6 +106,8 @@
     - [LLM agent operating system (AIOS) and the future of LLM-powered agents | by Simeon Emanuilov | Apr, 2024 | Medium](https://medium.com/@simeon.emanuilov/llm-agent-operating-system-aios-and-the-future-of-llm-powered-agents-3d08b4e91c34)
 - [AirLLM Unleashed. Efficiently Running 70B LLM Inference… | by Haribaskar Dhanabalan | Medium](https://medium.com/@haribaskar.dhanabalan/airllm-unleashed-2e32dae74c3d)
 - [GitHub - microsoft/TinyTroupe: LLM-powered multiagent persona simulation for imagination enhancement and business insights.](https://github.com/microsoft/TinyTroupe)
+- [GitHub - browserbase/stagehand: An AI web browsing framework focused on simplicity and extensibility.](https://github.com/browserbase/stagehand)
+- [GitHub - microsoft/semantic-kernel: Integrate cutting-edge LLM technology quickly and easily into your apps](https://github.com/microsoft/semantic-kernel)
 
 ### Ollama / LM Studio
 

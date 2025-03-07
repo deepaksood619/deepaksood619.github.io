@@ -326,6 +326,8 @@ Close or tieup with other schools
 
 ## Buying vs Renting Home / Buy vs Rent
 
+People spend more on their own home, so cost of living increases
+
 Unrecoverable cost of owning vs buying
 
 Property Taxes, Maintenance costs, cost of capital
