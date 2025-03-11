@@ -21,7 +21,7 @@ Graphite consists of three software components:
     - **Graphite's user interface & API for rendering graphs and dashboards**
     - **A [Django](http://www.djangoproject.com/) webapp that renders graphs on-demand using [Cairo](http://www.cairographics.org/)**
 
-Metrics get fed into the stack via theCarbonservice, which writes the data out toWhisperdatabases for long-term storage. Users interact with theGraphite webUI or API, which in turn queries Carbon and Whisper for the data needed to construct the requested graphs.
+Metrics get fed into the stack via the Carbon service, which writes the data out to Whisper databases for long-term storage. Users interact with theGraphite webUI or API, which in turn queries Carbon and Whisper for the data needed to construct the requested graphs.
 
 Graphite's web platform offers a variety of output styles and formats, including raw images, CSV, XML, and JSON, allowing anyone to easily embed custom graphs in other web pages or dashboards.
 

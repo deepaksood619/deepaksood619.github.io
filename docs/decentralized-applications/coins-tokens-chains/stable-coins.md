@@ -45,3 +45,8 @@ Fractional stablecoin is **a type of cryptocurrency that is collaterally backed 
 [3 Algorithmic Stablecoins Explained - WhiteboardCrypto](https://whiteboardcrypto.com/algorithmic-stablecoins-explained/)
 
 [3 MAIN Types of Stablecoins Explained - YouTube](https://www.youtube.com/watch?v=8XX421H5NtU)
+
+## Links
+
+- [Artemis Stablecoins Market Map 2025](https://www.stablecoinsmap.com/)
+- [Artemis Dashboard - Stablecoin](https://app.artemisanalytics.com/stablecoins)

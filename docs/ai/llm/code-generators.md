@@ -72,10 +72,12 @@ You can also ask me questions about your editor selection by starting an inline 
 
 - Tabnine
 - [Amazon Q Developer](https://aws.amazon.com/q/developer/)
+	- [What is CodeWhisperer? - CodeWhisperer](https://docs.aws.amazon.com/codewhisperer/latest/userguide/what-is-cwspr.html)
 - [AI Code Reviews | CodeRabbit | Try for Free](https://coderabbit.ai/)
 - [AI Code Generation | Google Cloud](https://cloud.google.com/use-cases/ai-code-generation?hl=en)
 - [Galileo AI · Copilot for interface design](https://www.usegalileo.ai/)
 - [Cursor - The AI-first Code Editor](https://www.cursor.com/)
+- [Title Unavailable \| Site Unreachable](https://codeium.com/)
 
 ## Links
 

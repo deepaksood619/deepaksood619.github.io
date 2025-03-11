@@ -108,6 +108,13 @@ Haystack is the open source Python framework by deepset for building custom apps
 
 [What is Haystack? | Haystack](https://haystack.deepset.ai/overview/intro)
 
+## Models
+
+- BERT: Bidirectional Encoder Representations from Transformers
+- RoBERTa: A Robustly Optimized BERT Pretraining Approach
+	- [Introducing RoBERTa Base Model: A Comprehensive Overview \| by Novita AI \| Medium](https://medium.com/@marketing_novita.ai/introducing-roberta-base-model-a-comprehensive-overview-330338afa082)
+	- [RoBERTa](https://huggingface.co/docs/transformers/en/model_doc/roberta)
+
 ## References
 
 The Association for Computational Linguistics is the international organization that represents the field of NLP. The ACL website (http://www.aclweb.org) hosts many useful resources, including: information about international and regional conferences and workshops; the *ACL Wiki* with links to hundreds of useful resources; and the *ACL Anthology*, which contains most of the NLP research literature from the past 50+ years, fully indexed and freely downloadable.

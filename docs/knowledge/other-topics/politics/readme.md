@@ -77,6 +77,8 @@ a political leader who seeks support by appealing to the desires and prejudices 
 
 ### Subversion
 
+The act of overthrowing - the state of being overthrown. especially : an attempt to overthrow or undermine a government or political system by persons working secretly within the country involved.
+
 [Sahebs | History of Subversion of India | Full Film - YouTube](https://www.youtube.com/watch?v=N3E534MpkHU)
 
 [Understanding the Political Scenario of INDIA,CANADA,JAPAN,CHINA,USA, FRANCE etc - YouTube](https://www.youtube.com/watch?v=Y9TviIuXPSE)

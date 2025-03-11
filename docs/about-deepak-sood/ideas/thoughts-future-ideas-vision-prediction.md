@@ -144,13 +144,10 @@ Autonomous vehicle
 
 ### Other Thoughts
 
-Is there a solar panel mafia in India, which itself can import cheap solar panels, but don't let smaller household import solar panel, so they can be energy independent. Since they want to rule other human beings, and keep them dependent on a corporation, so they have their source of revenue.
-
-Solar panels democratise energy, instead of a centralised source and dependency.
-
-But for a highly dense area, solar panels at individual level doesn't make sense.
-
-A very much problem with voice dictation is that, it beaches privacy, since others can hear what you are saying, but typing solves it, but typing is slow, so next evaluation is direct brain to text. What I am thinking can directly go to mobile or other devices i.e brain computer interface. Even a step further from one brain to others brain. That will be a leap in human communication.
-
-Speed of thought is faster than speed of speaking which is faster than speed of writing.
-Anyways writing is another set of thing that a child has to run, which he/she can skip all together. Atleast writing and typing can be skipped, and reading can stay for a bit long.
+- Is there a solar panel mafia in India, which itself can import cheap solar panels, but don't let smaller household import solar panel, so they can be energy independent. Since they want to rule other human beings, and keep them dependent on a corporation, so they have their source of revenue.
+	- Solar panels democratise energy, instead of a centralised source and dependency.
+	- But for a highly dense area, solar panels at individual level doesn't make sense.
+- A very much problem with voice dictation is that, it beaches privacy, since others can hear what you are saying, but typing solves it, but typing is slow, so next evaluation is direct brain to text. What I am thinking can directly go to mobile or other devices i.e brain computer interface. Even a step further from one brain to others brain. That will be a leap in human communication.
+	- Speed of thought is faster than speed of speaking which is faster than speed of writing.
+	- Anyways writing is another set of thing that a child has to run, which he/she can skip all together. Atleast writing and typing can be skipped, and reading can stay for a bit long.
+- Most successful species is plants and organisms that humans are fully dependent on for living,since humans will make sure that they survive so humans can survive

@@ -4,6 +4,8 @@ https://www.learn-sudoku.com/basic-techniques.html
 
 https://www.learn-sudoku.com/advanced-techniques.html
 
+[Sudoku Slam - free web sudoku online, smart hints, undo, save puzzles, more](https://www.sudokuslam.com/)
+
 ## Basic Techniques
 
 1. Open Singles

@@ -113,6 +113,7 @@
 - [Seyhan Lee](https://seyhanlee.com/)
 - [Home - teachafy](https://assistant.teachafy.com/)
 	- [Teachafy Labs](https://teachafy.com/)
+- [GitHub - k8sgpt-ai/k8sgpt: Giving Kubernetes Superpowers to everyone](https://github.com/k8sgpt-ai/k8sgpt)
 
 ## Purpose-built accelerators for generative AI
 
@@ -123,6 +124,15 @@
 - Amazon EC2 P4d/P4de instances - Powered by NVIDIA A100 Tensor Core GPUs
 - Amazon EC2 G5 instances - Powered by NVIDIA A10G Tensor Core GPUs
 - [Fireworks - Fastest Inference for Generative AI](https://fireworks.ai/)
+
+## FinGPT
+
+- [\[2306.06031\] FinGPT: Open-Source Financial Large Language Models](https://arxiv.org/abs/2306.06031)
+- [\[2303.17564\] BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)
+- [AI4Finance Foundation · GitHub](https://github.com/AI4Finance-Foundation)
+	- [AI4Finance-Foundation.org - FinGPT, FinRobot, FinRL, AI Agent, FinLLMs, Open-Source Libraries](https://ai4finance.org/)
+	- [GitHub - AI4Finance-Foundation/FinGPT: FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.](https://github.com/AI4Finance-Foundation/FinGPT)
+	- [GitHub - AI4Finance-Foundation/FinRobot: FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀](https://github.com/AI4Finance-Foundation/FinRobot)
 
 ## Links
 

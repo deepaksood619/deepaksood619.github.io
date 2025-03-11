@@ -85,6 +85,8 @@ In this codelab, you build three Google Chat apps with Gemini to cover the three
 - How to integrate Google Chat apps with Dialogflow CX agents.
 - How to use the latest features of Google Chat: app home, Google Chat Events, and accessory widgets.
 
+[#buildwithai #tfug #nitra #googlegemini #ai #gcp #techevent \| Deepak Sood](https://www.linkedin.com/posts/deepaksood619_buildwithai-tfug-nitra-activity-7304271897502855168-EG6A)
+
 [Deepak Sood on LinkedIn: #buildwithai #tensorflowug #ai #googlegemini #ghaziabad #techevent](https://www.linkedin.com/posts/deepaksood619_buildwithai-tensorflowug-ai-activity-7303412204479881217-vSYQ)
 
 [Build apps for Google Chat with Gemini  \|  Google Codelabs](https://codelabs.developers.google.com/codelabs/chat-apps-gemini?hl=en#0)

@@ -188,3 +188,7 @@ Stack - .NET framework, SQL Database
 ### Image Processing Contest (2014)
 
 Indian Institue of Science image processing contest, in which we have to use Machine learning classification problem, to Classify objects such as building, cars, shoes and people in to their own category with a learning set of 2000+ photos and a actual set of 500 photos - 2014.
+
+## Links
+
+- [ChatGPT - Data Engineering Resume Guide](https://chatgpt.com/share/67d00953-c8d4-8005-9a64-a424d6c30671)

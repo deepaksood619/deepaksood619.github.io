@@ -193,7 +193,8 @@ Problems
 - Housing for all
 - Share a home
 
-## NGOs
+## NGOs / NGO
 
 - [Wadhwani Foundation: Creating Jobs. Changing Lives.](https://wadhwanifoundation.org/)
 - [AI for Social Impact - Wadhwani AI](https://www.wadhwaniai.org/)
+- Ek umang, Noida

@@ -32,25 +32,27 @@ If you trust me then you shouldn't ask for my account statement and if you don't
 
 ## Relationship Quotes (Marriage)
 
-Marrying well makes everything easier.
+Marrying well makes everything easier
+
+Trevor Noah: The way my mother always explained it, the traditional man wants a woman to be subservient, but he never falls in love with subservient women. He's attracted to independent women. "He's like an exotic bird collector," she said. "He only wants a woman who is free because his dream is to put her in a cage."
 
 It's okay to dislike someone, or even dislike someone for no reason. But it's not okay to disrespect, degrade, and humiliate that person
 
-Find a partner who is ready to build with you.
+Find a partner who is ready to build with you
 
-It is not about finding perfection in another person, it is about realizing when you come across an undeniable connection that nourishes your being and matches the type of support you are looking for. Getting lost in the idea of perfection is a hindrance. Being with someone who is committed to going through the ups and downs of life together is truly priceless.
+It is not about finding perfection in another person, it is about realizing when you come across an undeniable connection that nourishes your being and matches the type of support you are looking for. Getting lost in the idea of perfection is a hindrance. Being with someone who is committed to going through the ups and downs of life together is truly priceless
 
-When two people embrace their imperfections and commit to growing into better versions of themselves, it will naturally enhance the happiness they share in the relationship.
+When two people embrace their imperfections and commit to growing into better versions of themselves, it will naturally enhance the happiness they share in the relationship
 
-Double down on your best relationship.
+Double down on your best relationship
 
-It's the investment with the highest return.
+It's the investment with the highest return
 
-It's easier to destroy a relationship than build one.
+It's easier to destroy a relationship than build one
 
 _patri mile na mile, sleep schedule zaroor milna chahiye_ (your sleep schedule being compatible is more important than your astrological charts being compatible!)
 
-The secret to feeling great about yourself is not to be found in searching for people who are less than you and then show yourself superior to them, but in searching for people who are more than you and then show yourself worthy of their company.
+The secret to feeling great about yourself is not to be found in searching for people who are less than you and then show yourself superior to them, but in searching for people who are more than you and then show yourself worthy of their company
 
 I would recognize you in total darkness, were you mute and I deaf. I would recognize you in another lifetime entirely, in different bodies, different times. And I would love you in all of this, until the very last star in the sky burnt out into oblivion."
 
