@@ -61,3 +61,7 @@ No matter what AI framework you pick, I always recommend using a robust data pla
 
 - [LangSmith](https://www.langchain.com/langsmith)
 - [What is LangSmith and why should I care as a developer? | by Logan Kilpatrick | Around the Prompt | Medium](https://medium.com/around-the-prompt/what-is-langsmith-and-why-should-i-care-as-a-developer-e5921deb54b5)
+
+## Links
+
+- [Why Developers are Quitting LangChain](https://analyticsindiamag.com/ai-features/why-developers-are-quitting-langchain/)

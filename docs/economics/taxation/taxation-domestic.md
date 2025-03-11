@@ -4,28 +4,24 @@
 
 To prevent gains from building up, experts suggest harvesting. This means booking a portion of your profits and reinvesting the proceeds. So you sell a part of your equity holdings to book long term capital gains, and then buy back the same shares or mutual fund units.
 
-Harvest losses too when you still can
+- Harvest losses too when you still can
+- No point on selling and buying same stock, since STT and other taxes are extra
+- Tax loss harvesting, is good if you are moving loss to offset some other stock profit
 
 This exercise can be replicated even when you are investing via SIPs in mutual funds. If you started the SIP about a year ago, start redeeming units after they complete a year and reinvest the proceeds in the same or different fund. This will reset the buying price and ensure your capital gains do not overshoot the Rs 1 lakh tax free threshold.
 
-if you are not able to set off your entire capital loss in the same year, you can carry forward these losses for up to 8 assessment years.
+if you are not able to set off your entire capital loss in the same year, you can carry forward these losses for up to **8 assessment years**.
 
-https://economictimes.indiatimes.com/wealth/tax/heres-a-trick-to-lower-your-tax-on-capital-gains-from-equity/articleshow/73095582.cms
-
-[7 Questions to Ask Before Selling Equity Mutual Funds or Stocks | ETMONEY](https://www.youtube.com/watch?v=KJ4kinqOW6c)
-
-[What is Tax Harvesting | What is Tax Loss Harvesting | Tax Harvesting in Mutual Funds](https://www.youtube.com/watch?v=t_y0kNP-apY)
-[How to Save Capital Gain Tax? Use Tax Loss Harvesting to Save Tax in Stock Market - YouTube](https://www.youtube.com/watch?v=E_CKrnF4CtY)
-
-[How I Saved ₹2 Lakhs in Taxes with Tax Loss Harvesting? A Must-Know for all Investors - YouTube](https://www.youtube.com/watch?v=E_CKrnF4CtY)
-
-[Tax on Equity Mutual Funds in India | Income Taxation on Capital Gains & Dividends](https://www.youtube.com/watch?v=G-DFuEi7NcA)
-
-https://cleartax.in/s/marginal-relief-surcharge
-
-10% surcharge for people earning more than 50 lakh (get marginal relief surcharge)
-
-[Tax Harvesting vs Portfolio Rebalancing: What is the difference?](https://freefincal.com/tax-harvesting-vs-portfolio-rebalancing-what-is-the-difference/)
+- https://economictimes.indiatimes.com/wealth/tax/heres-a-trick-to-lower-your-tax-on-capital-gains-from-equity/articleshow/73095582.cms
+- [7 Questions to Ask Before Selling Equity Mutual Funds or Stocks | ETMONEY](https://www.youtube.com/watch?v=KJ4kinqOW6c)
+- [What is Tax Harvesting | What is Tax Loss Harvesting | Tax Harvesting in Mutual Funds](https://www.youtube.com/watch?v=t_y0kNP-apY)
+- [How to Save Capital Gain Tax? Use Tax Loss Harvesting to Save Tax in Stock Market - YouTube](https://www.youtube.com/watch?v=E_CKrnF4CtY)
+- [How I Saved ₹2 Lakhs in Taxes with Tax Loss Harvesting? A Must-Know for all Investors - YouTube](https://www.youtube.com/watch?v=E_CKrnF4CtY)
+- [Tax on Equity Mutual Funds in India | Income Taxation on Capital Gains & Dividends](https://www.youtube.com/watch?v=G-DFuEi7NcA)
+- https://cleartax.in/s/marginal-relief-surcharge
+- 10% surcharge for people earning more than 50 lakh (get marginal relief surcharge)
+- [Tax Harvesting vs Portfolio Rebalancing: What is the difference?](https://freefincal.com/tax-harvesting-vs-portfolio-rebalancing-what-is-the-difference/)
+- [Tax harvesting to rescue equity investors: How loss from equities could help you save more tax - The Economic Times](https://economictimes.indiatimes.com/wealth/tax/tax-harvesting-to-rescue-equity-investors-how-loss-from-equities-could-help-you-save-more-tax/articleshow/118752474.cms?utm_source=newsletter&utm_medium=email&utm_campaign=Wealthspecial&utm_content=Story&ncode=0fd6b856137c1f4ed9f102414681177f830719c8b797ed021075a4b1198d7542ef4260ebddbcb559d3a55d98cfb6b56b1319fa135402732b45e4db59d6b5480d4210ca188ee99ff304a5c7f23c309445&nl_id=5f5a31db80f79664e95679cb)
 
 ## Taxability
 

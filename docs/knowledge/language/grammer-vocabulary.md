@@ -205,6 +205,7 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - Putting legs on a snake - doing unnecessary work that can ruin the result
 - Skimpily - is an adverb that means lacking in supply or execution, or scanty. It can also mean made of too little material, or excessively thrifty. For example, you might describe someone as "**skimpily dressed**" if their clothing shows a lot of their body.
 - adjudicate - to act as an official judge in a competition or to decide who is right when two people or groups disagree about something
+- Scroll stopper - A scroll stopper is a visual element that draws viewers' attention to a specific part of a social media feed. Scroll stoppers can be used in videos and images to help grab the attention of viewers
 
 ### Shill / Shilling
 

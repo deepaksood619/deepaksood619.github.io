@@ -210,6 +210,10 @@ docker system df #check volume status (docker sizes)**
 
 docker container prune
 docker image prune -a
+
+#Section Docker
+alias docker-clean='docker rm $(docker ps -a -f status=exited -q); docker volume rm $(docker volume ls -f dangling=true -q); docker images -qf dangling=true | xargs docker rmi'
+alias docker-remove-all-images='docker rmi $(docker images -a -q)'
 ```
 
 https://github.com/onfido/k8s-cleanup

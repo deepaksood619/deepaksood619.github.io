@@ -133,6 +133,20 @@ Companies often record customer service calls for quality assurance, which invol
 - **Transcription:** The audio is converted into written text, ensuring accuracy and capturing key details like pauses and tone of voice.
 - **Review and evaluation:** Quality assurance specialists review the transcripts against established criteria, assessing aspects like agent greetings, problem-solving techniques, and overall professionalism.
 
+### Real-Time Factor (RTF)
+
+The **real-time factor (RTF)** is the ratio of the processing (or transcription) time to the actual duration of the audio. In other words, it measures how fast a system processes audio relative to real time. An RTF less than 1 means the system is faster than real time.
+
+**Example:**
+
+Suppose an AI tool transcribes a 1‑minute (60‑second) call in 1 second. Here, the RTF is:
+
+  RTF = Processing Time / Audio Duration = 1 sec / 60 sec = 1/60
+
+This indicates that the system is 60 times faster than real time. If you have a call lasting x minutes and the system transcribes it in x seconds, the RTF remains 1/60, meaning it delivers the transcript at 60× real-time speed.
+
+This fast turnaround is particularly valuable in call quality monitoring, where near real‑time feedback can help promptly address issues or monitor performance.
+
 ## Tools
 
 - [Amazon Transcribe](cloud/aws/amazon-transcribe.md)
@@ -145,3 +159,10 @@ Companies often record customer service calls for quality assurance, which invol
 - [Call Quality Monitoring Software with 100% AI \| Chatterscore](https://trellissoft.ai/products/chatterscore/)
 - [AI-Powered Quality Management and Performance Monitoring in Call Centers 1](https://callcenterstudio.com/blog/ai-powered-quality-management-and-performance-monitoring-in-call-centers/)
 - [10 Best Call Monitoring Software in 2024 - Enthu AI](https://enthu.ai/blog/call-center-quality-monitoring-software/)
+- [GitHub - jiaaro/pydub: Manipulate audio with a simple and easy high level interface](https://github.com/jiaaro/pydub)
+
+### Speech to text Model - Whisper
+
+- [openai/whisper-large-v3 · Hugging Face](https://huggingface.co/openai/whisper-large-v3)
+- Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.
+- [GitHub - openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper)

@@ -36,3 +36,5 @@
 - [129Knots](https://129knots.com/)
 - [Mesta \| Enterprise-Grade Cross-Border Payment Network](https://www.mesta.xyz/)
 - [Fern](https://fernhq.com/)
+- [endl - Regulatory Compliant Global Fiat Rails For Stablecoin Payments](https://endl.io/)
+- [Alpyne Labs \| Onboard Web3 Seamlessly](https://alpyne.tech/)

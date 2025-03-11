@@ -171,3 +171,7 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 
 - [Software Freedom Conservancy](https://sfconservancy.org/)
 - [Give Up GitHub - Software Freedom Conservancy](https://sfconservancy.org/GiveUpGitHub/)
+
+## Others
+
+- [Developer Learning, Trainings, Courses, and Resources - AWS](https://aws.amazon.com/developer/learning/)

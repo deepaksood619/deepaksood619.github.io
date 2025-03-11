@@ -57,9 +57,21 @@ The debt-to-income (DTI) ratio is a personal finance measure that compares an in
 
 https://www.investopedia.com/terms/d/dti.asp
 
+## Trailing Returns
+
+Trailing returns measure the performance of an investment over a fixed period of time
+
+|                       | Trailing returns                                  | Rolling returns                                |
+| --------------------- | ------------------------------------------------- | ---------------------------------------------- |
+| **Time period**       | A single fixed period                             | Multiple overlapping periods                   |
+| **Calculation**       | Calculated once                                   | Calculated for each interval                   |
+| **Bias**              | Can be biased by the start and end date           | Reduces bias from a specific start or end date |
+| **Market conditions** | Reflects market conditions from start to end date | Accounts for multiple market conditions        |
+| **Data**              | Requires less data                                | Requires more data                             |
+
 ## Rolling Returns
 
-Rolling returns, also known as "rollingperiodreturns" or "rollingtime periods," are annualized averagereturnsfor a period, ending with the listed year.Rolling returnsare useful for examining the behavior ofreturnsfor holding periods, similar to those actually experienced by investors.
+Rolling returns, also known as "rolling period returns" or "rolling time periods," are annualized average returns for a period, ending with the listed year. Rolling returns are useful for examining the behavior of returns for holding periods, similar to those actually experienced by investors.
 
 Looking at a portfolio or fund's rolling returns will give performance results that are smoothed over several periods throughout its history. Such information often paints a more accurate picture for an investor than a single snapshot of one period.
 

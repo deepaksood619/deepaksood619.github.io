@@ -153,6 +153,11 @@ https://www.edx.org/course/finance-everyone-smart-tools-decision-michiganx-fin10
 - [Jewelbox's $100M consumer opportunity 💍](https://shorts.growthx.club/p/jewelboxs-100m-consumer-opportunity)
 - [Planning to exchange old jewellery for new? Know the income tax rules | Mint](https://www.livemint.com/money/personal-finance/selling-old-jewellery-to-buy-new-one-know-the-income-tax-rules-which-apply-gold-silver-jewels/amp-11730291704859.html)
 
+### Dubai Gold
+
+- [gold purchasing in Dubai - Ranya Rao gold smuggling case: How much can you save if you buy gold from Dubai? Check import duty, permitted quantity - Ranya Rao gold smuggling case: How much can you save if you buy gold from Dubai? Check import duty, permitted quantity BusinessToday](https://www.businesstoday.in/personal-finance/news/story/ranya-rao-gold-smuggling-case-how-much-can-you-save-if-you-buy-gold-from-dubai-check-import-duty-permitted-quantity-467143-2025-03-07)
+- [Dubai Gold Price vs. India: How Much Can You Save After Import Duty?](https://www.angelone.in/news/dubai-gold-price-vs-india-how-much-can-you-save-after-import-duty)
+
 ### American diamonds / cubic zirconia / faux bijoux
 
 Cubic zirconia is a man-made, lab-created gemstone that resembles a diamond. It is made of zirconium dioxide and is optically flawless. This means that it looks very similar to a natural diamond, but it is much more affordable. The stones are created in a laboratory, which makes them much less expensive than natural diamonds.

@@ -37,7 +37,8 @@
     3. [tl;dv.io | AI Notetaker for Zoom, MS Teams & Google Meet](https://tldv.io/)
     4. [Otter.ai - AI Meeting Note Taker & Real-time AI Transcription](https://otter.ai/)
     5. [MeetGeek | AI Notes Taker and Meeting Assistant](https://meetgeek.ai/)
-    6. [The 9 best AI meeting assistants in 2024 | Zapier](https://zapier.com/blog/best-ai-meeting-assistant/)
+    6. [sembly.ai](https://www.sembly.ai/)
+    7. [The 9 best AI meeting assistants in 2024 | Zapier](https://zapier.com/blog/best-ai-meeting-assistant/)
 	    1. [Fireflies](https://zapier.com/blog/best-ai-meeting-assistant/#fireflies) for collaboration and topic tracking
 	    2. [Avoma](https://zapier.com/blog/best-ai-meeting-assistant/#avoma) for conversation analytics
 	    3. [tl;dv](https://zapier.com/blog/best-ai-meeting-assistant/#tldv) for AI-powered meeting search
