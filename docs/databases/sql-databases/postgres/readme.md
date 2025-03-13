@@ -168,3 +168,4 @@ Youtube - [Breaking PostgreSQL at Scale - Christophe Pettus](https://www.youtube
 - [Index Fill Factor | The Backend Engineering Show - YouTube](https://www.youtube.com/watch?v=qXDhMJCuDEc)
 - [Explaining The Postgres Meme](https://www.avestura.dev/blog/explaining-the-postgres-meme)
 - [Postgres just got even faster - YouTube](https://www.youtube.com/watch?v=1KzcJXNSzgE&ab_channel=HusseinNasser)
+- [I replaced my entire tech stack with Postgres... - YouTube](https://youtu.be/3JW732GrMdg)

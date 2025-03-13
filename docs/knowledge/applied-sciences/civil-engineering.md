@@ -34,6 +34,12 @@ Habitat - 67 - [How a 23-Year-Old Solved Urban Sprawl - YouTube](https://www.you
 
 [Doge's Palace - Wikipedia](https://en.wikipedia.org/wiki/Doge%27s_Palace)
 
+## Materials
+
+### Sand Composition
+
+![Sand Composition](../../media/Screenshot%202025-03-13%20at%2011.26.39%20PM.jpg)
+
 ## Links
 
 - [Does Rebar Rust? - YouTube](https://www.youtube.com/watch?v=PLF18H9JGHs)

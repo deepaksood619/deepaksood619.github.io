@@ -56,3 +56,8 @@ Pricing is same as AWS S3 Standard storage
 - https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/courses/machine_learning/deepdive/02_generalization/repeatable_splitting.ipynb
 - https://github.com/GoogleCloudPlatform/training-data-analyst
 - [php - Speed of inserting to BigQuery - should this be batched in background? - Stack Overflow](https://stackoverflow.com/questions/69463609/speed-of-inserting-to-bigquery-should-this-be-batched-in-background)
+- [BigQuery SQL - YouTube](http://www.youtube.com/playlist?list=PLXovS_5EZGh6kfcuCxyBG5loBXlJ7cpDE)
+- [Advanced BigQuery Concepts - YouTube](http://www.youtube.com/playlist?list=PLm9k-aIS6DMKyqhUHjF8ESdUM0xCOWKiw)
+- [Strategies for optimizing your BigQuery queries - YouTube](https://youtu.be/iz6lxi9BczA)
+- [How does BigQuery store data? - YouTube](https://youtu.be/0Hd23GnZ1bE)
+- [BigQuery Spotlight - YouTube](http://www.youtube.com/playlist?list=PLIivdWyY5sqLAbIdmcMwsxWg-w8Px34MS)

@@ -39,6 +39,8 @@ IAEA - International Atomic Energy Agency
 
 [Driving On Compressed Air: The Little-Known Compressed Air Revolution - YouTube](https://www.youtube.com/watch?v=fFoYPj3Ntzc)
 
+[Why Boats and Planes Are Also Going Electric - YouTube](https://youtu.be/zeYySXlo8js)
+
 ## Solar
 
 [Rooftop Solar is RISKY!? PM-SGY Subsidy rules | 11 Mistakes to AVOID ❌️ - YouTube](https://www.youtube.com/watch?v=J1GBqATZBRA)

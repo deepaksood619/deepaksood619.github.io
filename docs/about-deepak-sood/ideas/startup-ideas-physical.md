@@ -180,6 +180,8 @@ When you think of going out, your brain goes ‘aaj kuch naya khate hain’. Let
 
 [Why Restaurants Fail - by Shashank Mehta](https://midlifeentrepreneur.substack.com/p/why-restaurants-fail)
 
+[How to make 3 cr/ year with Cloud Kitchen Business? Biryani By Kilo \| Indian Business Podcast - YouTube](https://youtu.be/Isir0oGEpxM)
+
 ## New gen smart home
 
 - No switches

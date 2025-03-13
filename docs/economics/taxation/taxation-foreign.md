@@ -1,5 +1,7 @@
 # Taxation - Foreign
 
+[Foreign Exchange Explained.](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxJV-DziYCl4tF4vRedUdxTx3zszD8H1en)
+
 ## Foreign Stocks
 
 ### ITR Form to disclose foreign investments

@@ -24,3 +24,5 @@ The 7 rules for richer, happier days
 - Activities that boost our status can lead to happier lives
     - 3 things lead to flourish in life - control, capabilities and social participation. Can be increase by attaining more education, money and power
 - **Actionable advice -** Go offline this weekend and get wild
+
+[Your DnD Party is Too Big - YouTube](https://youtu.be/0pc9Uf3vFDU)

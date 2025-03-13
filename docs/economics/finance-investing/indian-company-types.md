@@ -4,6 +4,7 @@
 
 1. Proprietorship
 2. Partnership
+	1. [Best for new business? A to Z of Partnership Firm \| Business Basics Ep. 3 - YouTube](https://youtu.be/SOXKc3LW3QQ)
 3. Private Limited Company
 4. Public Limited Company
 5. [HUF / Private Trust](economics/taxation/huf-private-trust.md)

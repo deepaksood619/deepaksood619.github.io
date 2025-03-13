@@ -22,44 +22,28 @@ Any product listing, buying, delivery
 
 **Zero Profit Kitchen**
 
-Of the people, by the people, for the people.
+- Of the people, by the people, for the people.
+- No middleman, flattened hierarchy,
 
-No middleman, flattened hierarchy,
+Restaurants
 
-Restaurants -
-
-Give money for the ingredients and chef directly
-
-The more people order, less is the price
-
-No middleman, no owner, self-service
-
-Chef directly to customers
-
-Dynamic pricing
-
-Automate everything, payment by customers directly, no cashier
-
-Overtime the cost of equipment are recovered and breaking point is reached.
-
-Next profit will help to open new restaurants and then the profit per item decreases exponentially as number of restaurants grow
-
-Food rating for chef's so chef's are paid according to that.
-
-Freelancing chef's. (Chef automatic leave policy)
-
-Paid more in rush hours and holidays like Diwali and all
-
-Manager is there and paid directly by customers
-
-Paid according to quality of food
-
-Dynamic pricing for time before ordered.
-
-HomeCook / ShareMeal / NearbyCook
-
-- Find nearby home cooked meals
-- Find home cooked meals nearby
+- Give money for the ingredients and chef directly
+- The more people order, less is the price
+- No middleman, no owner, self-service
+- Chef directly to customers
+- Dynamic pricing
+- Automate everything, payment by customers directly, no cashier
+- Overtime the cost of equipment are recovered and breaking point is reached.
+- Next profit will help to open new restaurants and then the profit per item decreases exponentially as number of restaurants grow
+- Food rating for chef's so chef's are paid according to that.
+- Freelancing chef's. (Chef automatic leave policy)
+- Paid more in rush hours and holidays like Diwali and all
+- Manager is there and paid directly by customers
+- Paid according to quality of food
+- Dynamic pricing for time before ordered.
+- HomeCook / ShareMeal / NearbyCook
+	- Find nearby home cooked meals
+	- Find home cooked meals nearby
 
 2 separate apps (HomeCook For vendors and HomeCook for customers)
 

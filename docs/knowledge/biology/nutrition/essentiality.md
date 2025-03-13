@@ -12,6 +12,8 @@ An essential amino acid is an [amino acid](https://en.wikipedia.org/wiki/Amino_a
 
 Essential fatty acids (EFAs) are [fatty acids](https://en.wikipedia.org/wiki/Fatty_acid) that humans and other animals must ingest because the body requires them for good health but cannot [synthesize](https://en.wikipedia.org/wiki/Biosynthesis) them.Only two fatty acids are known to be essential for humans:[alpha-linolenic acid](https://en.wikipedia.org/wiki/Alpha-linolenic_acid)(an [omega-3 fatty acid](https://en.wikipedia.org/wiki/Omega-3_fatty_acid)) and [linoleic acid](https://en.wikipedia.org/wiki/Linoleic_acid)(an [omega-6 fatty acid](https://en.wikipedia.org/wiki/Omega-6_fatty_acid)).
 
+[Most Important Science & Technology Topics for UPSC Preparation \| Conquer Prelims 2025 \| Hima Bindu - YouTube](https://www.youtube.com/watch?v=WBHre_7SF1Y&ab_channel=UnacademyIAS%3AEnglish)
+
 ## Vitamins
 
 Vitamins are organic molecules essential for an organism that are not classified as [amino acids](https://en.wikipedia.org/wiki/Amino_acid) or [fatty acids](https://en.wikipedia.org/wiki/Fatty_acid). They commonly function as [enzymatic cofactors](https://en.wikipedia.org/wiki/Enzymatic_cofactor), metabolic regulators or [antioxidants](https://en.wikipedia.org/wiki/Antioxidant). Humans require **thirteen vitamins** in their diet.

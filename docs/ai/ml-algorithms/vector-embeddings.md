@@ -71,3 +71,4 @@ In the context of vector embeddings, yes, embeddings and vectors are the same th
 - [**Vector Embeddings Tutorial - Code Your Own AI Assistant with GPT-4 API + LangChain + NLP - YouTube**](https://www.youtube.com/watch?v=yfHHvmaMkcA&ab_channel=freeCodeCamp.org)
 - [$0 Embeddings (OpenAI vs. free & open source) - YouTube](https://www.youtube.com/watch?v=QdDoFfkVkcw&ab_channel=RabbitHoleSyndrome)
 - [The ABCs of AI Transformers, Tokens, and Embeddings: A LEGO Story - Code with Dan Blog](https://blog.codewithdan.com/the-abcs-of-ai-transformers-tokens-and-embeddings-a-lego-story/#:~:text=The%20embeddings%20serve%20as%20the,an%20encoder%20and%20a%20decoder.)
+- [BAAI/bge-large-en · Hugging Face](https://huggingface.co/BAAI/bge-large-en)

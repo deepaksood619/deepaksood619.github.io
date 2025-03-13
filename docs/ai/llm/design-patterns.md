@@ -65,6 +65,14 @@ The Model Context Protocol (MCP) is an open protocol that enables seamless integ
 - [Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic - YouTube](https://www.youtube.com/watch?v=kQmXtrmQ5Zg&ab_channel=AIEngineer)
 - [What is Model Context Protocol (MCP)? How it simplifies AI integrations compared to APIs \| AI Agents That Work](https://norahsakal.com/blog/mcp-vs-api-model-context-protocol-explained/)
 
+## Context Window / Tokens
+
+- [GitHub - NVIDIA/RULER: This repo contains the source code for RULER: What’s the Real Context Size of Your Long-Context Language Models?](https://github.com/NVIDIA/RULER)
+	- RULER - Real Context Size of Your Long-Context Language Models
+- [What is the current largest context window for an open LLM? : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1eplndh/what_is_the_current_largest_context_window_for_an/)
+- [LLMs with largest context windows](https://codingscape.com/blog/llms-with-largest-context-windows)
+- [RAG vs Large Context Window LLMs: When to use which one? — The Cloud Girl](https://www.thecloudgirl.dev/blog/rag-vs-large-context-window)
+
 ## Links
 
 - [AWS re:Invent 2023 - Generative AI: Architectures and applications in depth (BOA308) - YouTube](https://www.youtube.com/watch?v=aEA6X_IElpc)

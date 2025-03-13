@@ -777,6 +777,21 @@ Shell command for given shell statistics
 - **user**: The cumulative time spent by all the CPUs during the computation
 - **sys**: The cumulative time spent by all the CPUs during system-related tasks such as memory allocation.
 
+### Watch
+
+```bash
+brew install watch
+
+watch -n 10 curl -s https://api.abc.com/
+
+# alternatively
+while true; do
+    curl -s https://api.abc.com/
+    echo ""  # Adds a newline for readability
+    sleep 10
+done
+```
+
 ### Compression
 
 ```bash
@@ -788,10 +803,13 @@ tar -c <directory> -xvf all.tar.gz
 tar -xvf all.tar.xz (unzip xz files)
 gzip -d <file>.gz   #unzip gz file
 
-!tar --exclude='*.csv' --exclude='__pycache__' --exclude='.ipynb_checkpoints' --exclude='*.json' --exclude='*.xml' --exclude='*.pdf' --exclude='*.pkl' -zcvf backup.tar.gz *
-!find . -name "*.ipynb" -o -name "*.py" | tar -zcvf backup.tar.gz -T -
+tar --exclude='*.csv' --exclude='__pycache__' --exclude='.ipynb_checkpoints' --exclude='*.json' --exclude='*.xml' --exclude='*.pdf' --exclude='*.pkl' -zcvf backup.tar.gz *
 
-!find . -name "*.ipynb" -o -name "*.py" | tar -zcvf backup-ipynb-$(date +%Y-%m-%d).tar.gz -T -
+find . -name "*.ipynb" -o -name "*.py" | tar -zcvf backup.tar.gz -T -
+
+# working with date-time folder
+find . -name "*.ipynb" -o -name "*.py" | tar -zcvf backup-ipynb-$(date +%Y-%m-%d).tar.gz -T -
+
 tar -zcvf backup-ipynb-$(date +%Y-%m-%d).tar.gz folder_to_zip
 
 tar -zcf backup-ipynb-$(date +%Y-%m-%d).tar.gz folder_to_zip   # no output - without v

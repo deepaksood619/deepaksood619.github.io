@@ -190,3 +190,5 @@ https://docs.aws.amazon.com/eks/latest/userguide/cni-metrics-helper.html
 - KubeCost / OpenCost
 - [Streamline Kubernetes cluster management with new Amazon EKS Auto Mode | AWS News Blog](https://aws.amazon.com/blogs/aws/streamline-kubernetes-cluster-management-with-new-amazon-eks-auto-mode/)
 - [Use your on-premises infrastructure in Amazon EKS clusters with Amazon EKS Hybrid Nodes | AWS News Blog](https://aws.amazon.com/blogs/aws/use-your-on-premises-infrastructure-in-amazon-eks-clusters-with-amazon-eks-hybrid-nodes/)
+- [Amazon EKS Hybrid Nodes Explained \| Amazon Web Services - YouTube](https://youtu.be/xHbGTmaRYK4)
+- [Amazon EKS Auto Mode Explained \| Amazon Web Services - YouTube](https://youtu.be/XeRgIo9XM5w)

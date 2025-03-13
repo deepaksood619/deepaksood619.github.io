@@ -27,6 +27,7 @@
 - [TKOR - YouTube](https://youtube.com/@thekingofrandom)
 - [Brick Technology - YouTube](https://youtube.com/@bricktechnology)
 - [Mission Unstoppable - YouTube](https://youtube.com/@cbsunstoppable)
+- [PBS Space Time - YouTube](https://youtube.com/@pbsspacetime)
 
 ### Inventions and Building Stuff / Engineering
 
@@ -331,6 +332,7 @@
     - https://www.discoveryplus.in/show/the-birth-of-empire-the-east-india-company
     - https://www.discoveryplus.in/genre/science
     - https://www.discoveryplus.in/show/history-of-the-world
+- [The Plate India - YouTube](https://youtube.com/@theplateindia)
 
 ## Magazine
 

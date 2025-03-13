@@ -107,6 +107,7 @@ Highly personalized education for each person
 ### Thoughts
 
 - Reading and writing is not required
+	- [Will AI Make Us the Last Generation to Read and Write? \| Victor Riparbelli \| TED - YouTube](https://youtu.be/6wCml0g2mRE)
 - And rote learning is not required
 - AI will be question and answer with voice, and all facts will be accessible all the time
 
@@ -131,6 +132,34 @@ Audio visual communication.
 - Cannot remember what I answered and not answered
 - 10 mins of free advanced voice model
 - Learning is not that effective with only voice models, for deep learning, reading text generally offers better comprehension and retention of information compared to listening or watching. (Is it because I have learned as a kid this way or it's inherent for humans)
+
+### Tech
+
+- This can be solved with larger context window
+- For a new technology
+	- Can have a pre-populated database of questions and answers
+		- For each question we need to add difficulty score, so we don't ask easy question to person at higher elo rating
+		- [Generating Quizzes with RAG and LLMs on Databricks](https://www.rearc.io/blog/quizzes-with-rag-and-llms-on-databricks)
+	- For each question to user, keep a flag on which is asked or not
+	- For asking a new question, fetch random question from database, and modify according to the user current progress
+	- For repetition keep in mind the current number of questions asked, etc
+- Onboarding
+	- Onboarding questions to check the current level of person
+- Leaderboard
+
+TODO
+
+- Scoring Engine - ELO Rating - Research
+- smolagents, crewai - Research
+- ~~Question generator =>~~ Questions + Answers Database => Dataset
+- Database => Question askers + Scoring Engine
+- User Level Understanding => ELO Rating per subject
+- **Khanamigo**
+
+**Product**
+
+- Teach
+- Assessment
 
 ### Links
 
