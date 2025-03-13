@@ -20,6 +20,7 @@
 - [Hands-On Large Language Models](https://www.llm-book.com/)
 - [Jay Alammar – Visualizing machine learning one concept at a time.](https://jalammar.github.io/)
 - [GitHub - microsoft/ai-agents-for-beginners: 10 Lessons to Get Started Building AI Agents](https://github.com/microsoft/ai-agents-for-beginners)
+- [The Generative AI Learning Roadmap](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxYe_AFXQm1B_7bLZ6iVzwr02YTsRbQHx6)
 
 ## AI (Artificial Intelligence) + ML (Machine Learning)
 

@@ -2,7 +2,7 @@
 
 Presentation - [Ethics in GenAI](https://docs.google.com/presentation/d/1R-o8VoK926GisNSoHL6c2t52cOYUWyLjRyqtpC7-ecw/edit?usp=sharing)
 
-Navigating ethical dilemmas in AI and ML research and education within the field of generative AI ==requires a focused approach on issues like data privacy, bias mitigation, transparency, accountability, and addressing potential misuse==, ensuring that these technologies are developed and used responsibly, especially in educational settings where student learning is impacted.
+Navigating ethical dilemmas in AI and ML research and education within the field of generative AI requires a focused approach on issues like data privacy, bias mitigation, transparency, accountability, and addressing potential misuse, ensuring that these technologies are developed and used responsibly, especially in educational settings where student learning is impacted.
 
 Key Ethical Dilemmas in Generative AI Research and Education:
 
@@ -29,3 +29,7 @@ Key Ethical Dilemmas in Generative AI Research and Education:
 - **Teacher Training:** Provide teachers with training on how to effectively integrate generative AI into their teaching practices, addressing potential ethical concerns.
 
 By actively addressing these ethical dilemmas, researchers and educators can harness the power of generative AI while mitigating potential harms and promoting responsible development and use in the field of AI and machine learning.
+
+## Links
+
+- [Algorithms are breaking how we think - YouTube](https://youtu.be/QEJpZjg8GuA)

@@ -42,6 +42,8 @@ https://aws.amazon.com/redshift/pricing
 | ra3.4xlarge                            | 12         | 96 GiB     |                                  | 64TB RMS            | 2.00 GB/s   | $3.706per Hour                             |
 | ra3.16xlarge                           | 48         | 384 GiB    |                                  | 64TB RMS            | 8.00 GB/s   | $14.827per Hour                            |
 
+**Redshift Managed Storage (RMS)** uses large, high-performance solid-state drives (SSDs) in each RA3 node for fast local storage and Amazon Simple Storage Service (Amazon S3) for longer-term durable storage. If the data in a node grows beyond the size of the large local SSDs, RMS automatically offloads that data to Amazon S3. You pay the same low rate for RMS regardless of whether the data resides in high-performance SSDs or in Amazon S3. For workloads requiring ever-growing storage, managed storage lets you automatically scale your data warehouse storage capacity without adding and paying for additional nodes.
+
 ## Migrate from DC2 to DS2
 
 - **50% cheaper**

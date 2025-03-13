@@ -30,6 +30,8 @@ Zero Oil Cooking
 
 Recommended Calorie intake - 2800
 
+[ChatGPT - Small vs Large Portions](https://chatgpt.com/share/67b90f46-d394-8005-a1aa-5928a922ffb8)
+
 ## Good foods
 
 1. Almonds (Brain)
@@ -405,6 +407,8 @@ It can become toxic and inedible quickly; when stored for more than 20 minutes, 
 [मक्खन फल ने बनाया 26 साल का लड़का करोड़पति // एवोकाडो खेती Israel butter fruit nursery India Avocado - YouTube](https://www.youtube.com/watch?v=vqTOZEQq5zM)
 
 [Permaculture | Andrew Millison - YouTube](https://www.youtube.com/@amillison/playlists)
+
+[These Farmers Are Earning ₹250+ Crore Every Year \| Story From a Rajasthan Village - YouTube](https://youtu.be/0ClJa5ICJpY)
 
 ### Playlist
 

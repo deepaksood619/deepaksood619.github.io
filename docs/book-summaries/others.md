@@ -31,6 +31,8 @@
 - [100 THINGS SUCCESSFUL PEOPLE DO by Nigel Cumberland Audiobook | Book Summary in English - YouTube](https://www.youtube.com/watch?v=F2Qxkw9DgEs)
 - [THE COURAGE TO BE DISLIKED by F. Koga and I. Kishimi | Core Message](https://youtu.be/xFxn40zvl-E)
 - [Daily Consistency = Massive Results: THE COMPOUND EFFECT by Darren Hardy \| Core Message - YouTube](https://www.youtube.com/watch?v=qDxDCtZ9UkE)
+- [Make 5 simple changes for more energy: TOP 5 ENERGY INSIGHTS - YouTube](https://youtu.be/yon02iMbVJI)
+- [Stop Avoiding Mistakes & Start Learning from Them: BLACK BOX THINKING by Matthew Syed \| Core Message - YouTube](https://youtu.be/VFLzUJYreQo)
 
 ### [Learn to lead: THE 21 IRREFUTABLE LAWS OF LEADERSHIP by John Maxwell | Core Message - YouTube](https://www.youtube.com/watch?v=QQhdiktL99w)
 

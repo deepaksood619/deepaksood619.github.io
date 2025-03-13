@@ -39,6 +39,8 @@ if [ -n "$NEW_COMMITS" ]; then
   # If there are changes, run the docker-compose command
   git reset --hard origin/main
   sudo docker compose -f docker-compose.prod.yaml up -d --no-deps --build web worker metabase
+  # docker clean
+  sudo docker rm $(sudo docker ps -a -f status=exited -q); sudo docker volume rm $(sudo docker volume ls -f dangling=true -q); sudo docker images -qf dangling=true | xargs sudo docker rmi
 else
   # If there are no changes, do nothing
   echo "$(date '+%Y-%m-%d %H:%M:%S') - No changes in Git repository."

@@ -45,13 +45,9 @@ Trust is most important
 
 ## Links
 
-[Why India chose Egypt President El Sisi as Chief Guest for Republic Day | India Egypt Relations](https://www.youtube.com/watch?v=Cr2htefB7yk)
-
-[Why Russia's Biggest Threat is Actually China - YouTube](https://www.youtube.com/watch?v=Iibs7buNwxQ)
-
-Book - Red Roulette by Desmond Shum
-
-[Why we fight - YouTube](https://www.youtube.com/watch?v=1zBZ-aGqldA&ab_channel=CharlesHoskinson)
-
-[Ray Dalio on US Dominance, China Economy, Inflation, Future of Bridgewater - YouTube](https://www.youtube.com/watch?v=Y3LufB6DK4k)
-[Russia and China are TRAPPING America! - YouTube](https://www.youtube.com/watch?v=IU_91PJMZvg)
+- [Why India chose Egypt President El Sisi as Chief Guest for Republic Day | India Egypt Relations](https://www.youtube.com/watch?v=Cr2htefB7yk)
+- [Why Russia's Biggest Threat is Actually China - YouTube](https://www.youtube.com/watch?v=Iibs7buNwxQ)
+- Book - Red Roulette by Desmond Shum
+- [Why we fight - YouTube](https://www.youtube.com/watch?v=1zBZ-aGqldA&ab_channel=CharlesHoskinson)
+- [Ray Dalio on US Dominance, China Economy, Inflation, Future of Bridgewater - YouTube](https://www.youtube.com/watch?v=Y3LufB6DK4k)[Russia and China are TRAPPING America! - YouTube](https://www.youtube.com/watch?v=IU_91PJMZvg)
+- [\[Conquer Prelims 2025\] Most Important Static Topics \| International Relations-1 \| By Chethan N - YouTube](https://youtu.be/zo-Xft_-Nno)

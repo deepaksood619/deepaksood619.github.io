@@ -155,21 +155,17 @@ In the multicap category, the allocation decision is left to the fund manager wh
 
 ## Links
 
-[Getting started with equity mutual funds - YouTube](https://www.youtube.com/watch?v=nW5DTqJ7REY)
-
-[I'll Select These TWO Mutual Funds for my Lifetime Investing Portfolio - YouTube](https://www.youtube.com/watch?v=aYHRTPTDtNk)
-
-- Momentum - Nifty 200 Momentum 30 Index
-- Value fund - Nifty 500 Value 50 Index
-
-[List of worst equity mutual funds (Jan 2013 to Dec 2023)](https://freefincal.com/list-of-worst-equity-mutual-funds-jan-2013-to-dec-2023/)
-
-[Flexi-cap funds vs. focused equity funds: Which is better? | Value Research](https://www.valueresearchonline.com/stories/53730/do-focused-funds-give-better-returns-than-flexi-cap-funds/)
-
-[What you need to know about small cap mutual fund stress tests](https://freefincal.com/what-you-need-to-know-about-small-cap-mutual-fund-stress-tests/)
-
-[Motilal Defence Fund breaks record at Rs 1676 cr but is it worth investing? | Personal Finance - Business Standard](https://www.business-standard.com/amp/finance/personal-finance/motilal-defence-fund-breaks-record-at-rs-1676-cr-but-is-it-worth-investing-124070500104_1.html)
-
-[Best Large & Midcap Mutual Fund for 2025 - YouTube](https://www.youtube.com/watch?v=sjmK6BrFQy0&ab_channel=pranjalkamra)
-
-- Kotak equity opportunities fund
+- [Getting started with equity mutual funds - YouTube](https://www.youtube.com/watch?v=nW5DTqJ7REY)
+- [I'll Select These TWO Mutual Funds for my Lifetime Investing Portfolio - YouTube](https://www.youtube.com/watch?v=aYHRTPTDtNk)
+	- Momentum - Nifty 200 Momentum 30 Index
+	- Value fund - Nifty 500 Value 50 Index
+- [List of worst equity mutual funds (Jan 2013 to Dec 2023)](https://freefincal.com/list-of-worst-equity-mutual-funds-jan-2013-to-dec-2023/)
+- [Flexi-cap funds vs. focused equity funds: Which is better? | Value Research](https://www.valueresearchonline.com/stories/53730/do-focused-funds-give-better-returns-than-flexi-cap-funds/)
+- [What you need to know about small cap mutual fund stress tests](https://freefincal.com/what-you-need-to-know-about-small-cap-mutual-fund-stress-tests/)
+- [Motilal Defence Fund breaks record at Rs 1676 cr but is it worth investing? | Personal Finance - Business Standard](https://www.business-standard.com/amp/finance/personal-finance/motilal-defence-fund-breaks-record-at-rs-1676-cr-but-is-it-worth-investing-124070500104_1.html)
+- [Best Large & Midcap Mutual Fund for 2025 - YouTube](https://www.youtube.com/watch?v=sjmK6BrFQy0&ab_channel=pranjalkamra)
+	- Kotak equity opportunities fund
+- [Post from ET Money - YouTube](https://www.youtube.com/channel/UCxv9T8da7658T9R8LQT_3PQ/community?lb=UgkxRd9xCYI3jTwSMDcJoCi5L37N3oUIf8T7)
+	- Invesco Contra: 31.37% vs Cat Avg: 21.97%
+	- Invesco Flexi Cap: 36.51% vs 21.99%
+	- Invesco Focused: 44.95 vs 21.00%

@@ -62,3 +62,4 @@ Streaming dataflow engine for Java
 - [CDC Stream Processing with Apache Flink](https://youtu.be/K2ibvfmFh8Y?si=_K1jRSc0ez7Ntw9y)
 - [Apache Flink 1.19 - Deprecations, New Features, and Improvements](https://youtu.be/362g8odTRYk)
 - [Krones real-time production line monitoring with Amazon Managed Service for Apache Flink | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/krones-real-time-production-line-monitoring-with-amazon-managed-service-for-apache-flink/)
+- [Welcome to Amazon Managed Service for Apache Flink learning series \| Amazon Web Services - YouTube](https://youtu.be/PUmRMf8vqrE)

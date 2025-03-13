@@ -118,3 +118,5 @@ GPD can be measured in several different ways.  The most common methods include:
 [Gross domestic product - Wikipedia](https://en.wikipedia.org/wiki/Gross_domestic_product)
 
 [What is GDP? | CA Rachana Ranade](https://www.youtube.com/watch?v=d9mQ3P6DimI)
+
+[India ki GDP ko thoda aur samajhte hain \| Markets by Zerodha Hindi - YouTube](https://youtu.be/WQR6TnAyD_U)

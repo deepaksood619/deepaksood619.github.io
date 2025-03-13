@@ -3,6 +3,7 @@
 1. AWS Identity & Access Management (IAM) - Manage User Access and Encryption Keys
 2. Amazon Cloud Directory - Create Flexible Cloud-native Directories
 3. Amazon Cognito - Identity Management for your Apps
+	1. [AWS Cognito Course – Authentication and Authorization - YouTube](https://youtu.be/ajExOgOCJXY)
 4. AWS Single Sign-On - Cloud Single Sign-On (SSO) Service
 5. Amazon GuardDuty - Managed Threat Detection Service
     1. [Amazon GuardDuty](https://aws.amazon.com/guardduty/)

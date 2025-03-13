@@ -161,8 +161,10 @@ This fast turnaround is particularly valuable in call quality monitoring, where 
 - [10 Best Call Monitoring Software in 2024 - Enthu AI](https://enthu.ai/blog/call-center-quality-monitoring-software/)
 - [GitHub - jiaaro/pydub: Manipulate audio with a simple and easy high level interface](https://github.com/jiaaro/pydub)
 
-### Speech to text Model - Whisper
+### Speech to text Model - Whisper / Voice to Text
 
 - [openai/whisper-large-v3 · Hugging Face](https://huggingface.co/openai/whisper-large-v3)
 - Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.
 - [GitHub - openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper)
+- [GitHub - petewarden/spchcat: Speech recognition tool to convert audio to text transcripts, for Linux and Raspberry Pi.](https://github.com/petewarden/spchcat)
+- [The best dictation and speech-to-text software \| Zapier](https://zapier.com/blog/best-text-dictation-software/)

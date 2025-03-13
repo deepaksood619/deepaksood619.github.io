@@ -32,6 +32,7 @@ Educate, agitate, organize -- Dr. B.r. Ambedkar
 - [Is India becoming a DICTATORSHIP? | Chandigarh Elections | Farmers Protest | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=Y9253_M38Xk&ab_channel=DhruvRathee)
 - [Is Modi a dictator? | Dhruv Rathee vs The World - YouTube](https://www.youtube.com/watch?v=DnzM1cnRZPc&ab_channel=meghnerd)
 - [किसको चाहिए डिक्टेटर? कद्दू समझ रखा है? | Who wants Dictatorship in India?? - YouTube](https://www.youtube.com/watch?v=U68aORo533I&ab_channel=RavishKumarOfficial)
+- [Indian Democracy under Threat: Free & Fair Elections, Free Speech, Dissent & Sedition\| Sarmad Mehraj - YouTube](https://youtu.be/fh4XUKcnfZY)
 
 #### Links
 

@@ -49,6 +49,8 @@
 
 [How to Raise Successful Kids -- Without Over-Parenting | Julie Lythcott-Haims | TED](https://www.youtube.com/watch?v=CyElHdaqkjo) - Checklist
 
+[No fancy schools needed. Self-made man worth Rs 5,000 crore shares how to raise 'confident', 'independent' kids](https://m.economictimes.com/magazines/panache/forget-expensive-schools-thyrocare-founders-advice-to-parents-for-raising-confident-independent-kids/articleshow/117917359.cms)
+
 ### Day Care / Creche
 
 [Best Play School & Day Care Chain: Footprints](https://www.footprintseducation.in/)
@@ -305,3 +307,5 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [Three-Day Potty Training: How It Works and Tips for Success](https://www.whattoexpect.com/toddler/potty-training/3-day-potty-training)
 - [The Best Crafts for Toddlers](https://www.whattoexpect.com/toddler/playtime-tips/crafts-for-toddlers/)
 - [New Parents - You’ll Wish You Knew This Sooner...](https://youtu.be/wlOENvg92Mc)
+- [Avoid These Baby Care Mistakes - Diapers, Rashes & Best Products \| Dr Arpit Gupta \|FO324 Raj Shamani - YouTube](https://youtu.be/yP-fJMqWYCI)
+- [8 Rules of Positive Parenting \| Riri trivedi - YouTube](https://youtu.be/22T-6duM9nI)
