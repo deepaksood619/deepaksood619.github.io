@@ -60,6 +60,11 @@
 - [amazon-bedrock-samples/rag-solutions/contextual-chatbot-using-knowledgebase at main · aws-samples/amazon-bedrock-samples · GitHub](https://github.com/aws-samples/amazon-bedrock-samples/tree/main/rag-solutions/contextual-chatbot-using-knowledgebase)
 - [Create a Superpowered AI Chatbot: Integrating Tools with Amazon Bedrock Converse API - YouTube](https://www.youtube.com/watch?v=oaIAyYLuZQw)
 
+### Web Crawl
+
+- [Crawl web pages for your knowledge base - Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/webcrawl-data-source-connector.html)
+- [Implement web crawling in Amazon Bedrock Knowledge Bases \| AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/implement-web-crawling-in-knowledge-bases-for-amazon-bedrock/)
+
 ## Links
 
 - [GitHub - jossai87/bedrock-agents-streamlit: Creating Bedrock Agents with Streamlit Framework](https://github.com/jossai87/bedrock-agents-streamlit)

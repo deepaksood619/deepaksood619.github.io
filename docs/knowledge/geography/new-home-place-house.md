@@ -382,6 +382,8 @@ Take the value of the home that you are considering multiply by 5% and divide by
 
 [The REAL Cost of Buying a House in Delhi/Gurgaon? - YouTube](https://www.youtube.com/watch?v=CdZ199Fo0kE&ab_channel=WintWealth)
 
+[Transfer of property through power of attorney: Is it legal?](https://housing.com/news/transfer-of-property-through-power-of-attorney/)
+
 [Noida Property Market EXPOSED: How Builders are Trapping Investors - YouTube](https://www.youtube.com/watch?v=jeD2kg4ObXs&ab_channel=PropertyDuniya)
 
 - Builder transfer policy

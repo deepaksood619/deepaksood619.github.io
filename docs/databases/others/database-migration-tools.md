@@ -59,6 +59,8 @@ The fix forward method works best when changes are broken into small chunks that
 - Refinery
 - Ladder
 - [Atlas | Open-source database schema management tool](https://atlasgo.io/) - manage your database schema as code
+- [SchemaHero - A modern approach to database schema migrations](https://schemahero.io/)
+	- [GitHub - schemahero/schemahero: A Kubernetes operator for declarative database schema management (gitops for database schemas)](https://github.com/schemahero/schemahero)
 
 [10 Best Open Source Database Migration Tools](https://wisdomplexus.com/blogs/open-source-database-migration-tools/)
 

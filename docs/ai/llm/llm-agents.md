@@ -54,6 +54,7 @@ The power of AI collaboration has too much to offer. CrewAI is a standalone fram
 - [agent.ai \| The Professional Network for AI Agents](https://agent.ai/agents)
 - [AI Agents Directory - Find and Compare AI Assistants \| AI Agents List](https://aiagentslist.com/)
 - [AI Agents Marketplace \| AI Agents Directory - Discover Best AI Agents](https://aiagentsdirectory.com/)
+- [GitHub - MotiaDev/motia: Event-based orchestration framework for agents and intelligent automations](https://github.com/MotiaDev/motia)
 
 ![AI Agents Landscape](../../media/Pasted%20image%2020250114143214.jpg)
 
