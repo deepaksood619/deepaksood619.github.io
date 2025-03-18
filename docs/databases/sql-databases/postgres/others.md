@@ -113,13 +113,11 @@ https://github.com/yandex/odyssey
 
 ## Postgres on Kubernetes - Patroni
 
-[GitHub - zalando/patroni: A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes](https://github.com/zalando/patroni)
+- [GitHub - zalando/patroni: A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes](https://github.com/zalando/patroni)
+- [Introduction - Patroni 3.2.2 documentation](https://patroni.readthedocs.io/en/latest/)
+- [High Availability PostgreSQL Cluster using Patroni and HAProxy](https://jfrog.com/community/devops/highly-available-postgresql-cluster-using-patroni-and-haproxy/)
 
-[Introduction - Patroni 3.2.2 documentation](https://patroni.readthedocs.io/en/latest/)
-
-[High Availability PostgreSQL Cluster using Patroni and HAProxy](https://jfrog.com/community/devops/highly-available-postgresql-cluster-using-patroni-and-haproxy/)
-
-[Article Detail](https://community.pivotal.io/s/article/How-to-setup-a-3-node-Patroni-cluster-using-etcd?language=en_US)
+**Others -** [GitHub - cloudnative-pg/cloudnative-pg: CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance](https://github.com/cloudnative-pg/cloudnative-pg)
 
 ## pgbackrest
 

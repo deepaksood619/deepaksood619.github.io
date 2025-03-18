@@ -1,5 +1,11 @@
 # Meetups / Talks / Sessions
 
+## Nights Season 1 - Builder’s Space
+
+Nights Season 1 is an exciting event where people from all fields come together to work on their ideas and create amazing projects. Whether you're into tech, design, business, entertainment, or robotics, there's a theme (or house) for everyone!
+
+[Commudle - Connect & Learn With Software Developers](https://www.commudle.com/communities/builders-space/events/the-nights-s1)
+
 ## ClickHouse Meetup (22 March 2025)
 
 Implementing Vector Search in ClickHouse for Scalable AI Solutions

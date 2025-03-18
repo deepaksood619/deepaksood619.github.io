@@ -156,6 +156,14 @@ Daily meetings help the team in accomplishing their daily tasks in an efficient 
 
 Sprint review and retrospective helps the team to inspect itself and plan to make changes to improve the forth coming sprints. Sprint retrospective takes place after the sprint review, and before the next Sprint planning
 
+The purpose of the retrospective meeting is to:
+
+- Evaluate how the last sprint, iteration, or work item went, specifically around the team dynamic, processes, and tools.
+- Articulate and stack rank the items that went well, and those items that did not.
+- Create and implement a plan for improving the way the team does work.
+
+[Why run a retrospective?](https://www.atlassian.com/agile/scrum/retrospectives)
+
 ## Agile Project Management Frameworks
 
 ### Kanban

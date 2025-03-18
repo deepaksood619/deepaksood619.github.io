@@ -95,6 +95,10 @@ The FinOps Framework includes capabilities that cover everything from cost analy
 3. [Cloud cost oberservability, visibility & optimization | Amnic](https://amnic.com/)
 4. [CloudZero: The Cloud Cost Intelligence Platform](https://www.cloudzero.com/)
 
+## Tools
+
+- [OpenOps](https://www.openops.com/)
+
 ## Links
 
 - [What is Cloud FinOps?  |  Google Cloud](https://cloud.google.com/learn/what-is-finops)

@@ -100,10 +100,9 @@ DataIQ is a business intelligence platform designed to help organizations manage
 
 ## Others
 
-https://www.talend.com/
-
-[GitHub - finos/perspective: A data visualization and analytics component, especially well-suited for large and/or streaming datasets.](https://github.com/finos/perspective)
-
-[ThoughtSpot | The AI-Powered Analytics Platform](https://www.thoughtspot.com/)
-
-[Reporting and embedded business intelligence software | Jaspersoft](https://www.jaspersoft.com/)
+- https://www.talend.com/
+- [GitHub - finos/perspective: A data visualization and analytics component, especially well-suited for large and/or streaming datasets.](https://github.com/finos/perspective)
+- [ThoughtSpot | The AI-Powered Analytics Platform](https://www.thoughtspot.com/)
+- [Reporting and embedded business intelligence software | Jaspersoft](https://www.jaspersoft.com/)
+- [Domo Charts, Visualizations, and Dashboards \| Domo](https://www.domo.com/business-intelligence/visualizations-and-dashboards)
+- [GitHub - microsoft/data-formulator: 🪄 Create rich visualizations with AI](https://github.com/microsoft/data-formulator)
