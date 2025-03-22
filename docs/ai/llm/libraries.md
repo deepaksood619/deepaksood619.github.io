@@ -2,6 +2,22 @@
 
 [Top Python libraries of 2023 | Tryolabs](https://tryolabs.com/blog/top-python-libraries-2023)
 
+[GitHub - KalyanKS-NLP/llm-engineer-toolkit: A curated list of 120+ LLM libraries category wise.](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)
+
+- LLM Training – Tools for fine-tuning and pretraining LLMs efficiently.
+- LLM Application Development – Frameworks for integrating LLMs into real-world applications.
+- RAG – Libraries for RAG, enhancing knowledge retrieval.
+- LLM Inference – Solutions for running models efficiently across different hardware.
+- LLM Serving – Scalable frameworks for model deployment.
+- Data Extraction – Tools for extracting structured insights from raw text.
+- Data Generation – Resources for creating synthetic data.
+- Agents – Autonomous AI agents powered by LLMs.
+- LLM Evaluation – Tools for benchmarking and assessing model performance.
+- LLM Monitoring – Observability tools for tracking model behavior.
+- Prompts – Libraries for managing and optimizing prompt engineering.
+- Structured Outputs – Solutions for enforcing structured responses from LLMs.
+- LLM Safety and Security – Guardrails for ethical and secure AI usage.
+
 ### The 10 main picks
 
 1. [LiteLLM](https://github.com/BerriAI/litellm) - call any LLM using OpenAI format, and more
@@ -177,6 +193,11 @@
 ### MLOps, LLMOps, DevOps
 
 - [**phoenix**](https://github.com/Arize-ai/phoenix) - ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models.
+
+### LLM Evaluation / Monitoring
+
+- [GitHub - langfuse/langfuse: 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23](https://github.com/langfuse/langfuse)
+	- [Langfuse](https://langfuse.com/)
 
 ### Multimodal AI Tools
 

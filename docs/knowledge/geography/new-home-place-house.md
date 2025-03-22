@@ -384,6 +384,8 @@ Take the value of the home that you are considering multiply by 5% and divide by
 
 [Transfer of property through power of attorney: Is it legal?](https://housing.com/news/transfer-of-property-through-power-of-attorney/)
 
+[Legal-financial implications of buying joint property with parents.](https://housing.com/news/should-you-buy-joint-property-with-your-parents/)
+
 [Noida Property Market EXPOSED: How Builders are Trapping Investors - YouTube](https://www.youtube.com/watch?v=jeD2kg4ObXs&ab_channel=PropertyDuniya)
 
 - Builder transfer policy

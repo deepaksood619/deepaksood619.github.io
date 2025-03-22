@@ -98,6 +98,14 @@ DataIQ is a business intelligence platform designed to help organizations manage
 
 [DataIQ - Collaboration and intelligence for data leaders.](https://www.dataiq.global/)
 
+## [Datawrapper: Create charts, maps, and tables](https://www.datawrapper.de/)
+
+- Share with - data@datawrapper.de
+- [How to prepare your data for Datawrapper in Excel or Google Sheets - Datawrapper Academy](https://academy.datawrapper.de/article/240-how-to-prepare-your-data-for-datawrapper-in-excel-or-google-sheets)
+- [Datawrapper: Create charts, maps, and tables](https://www.datawrapper.de/)
+- [How to combine line and bar charts in Datawrapper - Datawrapper Academy](https://academy.datawrapper.de/article/266-how-to-make-bar-line-chart-combinations-in-datawrapper)
+- [Number formats you can display in Datawrapper - Datawrapper Academy](https://academy.datawrapper.de/article/207-custom-number-formats-that-you-can-display-in-datawrapper)
+
 ## Others
 
 - https://www.talend.com/
@@ -106,3 +114,7 @@ DataIQ is a business intelligence platform designed to help organizations manage
 - [Reporting and embedded business intelligence software | Jaspersoft](https://www.jaspersoft.com/)
 - [Domo Charts, Visualizations, and Dashboards \| Domo](https://www.domo.com/business-intelligence/visualizations-and-dashboards)
 - [GitHub - microsoft/data-formulator: 🪄 Create rich visualizations with AI](https://github.com/microsoft/data-formulator)
+- [InstaCharts \| Graph Data Trends Quickly](https://instacharts.io/)
+- [Online Chart & Graph Maker\| LiveGap](https://charts.livegap.com/?lan=en)
+- [Design, Automate & Share Beautiful, On-brand Reports \| Datylon](https://www.datylon.com/)
+- [Online Chart Builder - ChartBlocks](https://www.chartblocks.io/)

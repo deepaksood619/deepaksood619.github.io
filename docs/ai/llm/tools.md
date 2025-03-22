@@ -114,6 +114,7 @@
 - [Home - teachafy](https://assistant.teachafy.com/)
 	- [Teachafy Labs](https://teachafy.com/)
 - [GitHub - k8sgpt-ai/k8sgpt: Giving Kubernetes Superpowers to everyone](https://github.com/k8sgpt-ai/k8sgpt)
+- [Sensai](https://sensai.hyperverge.org/)
 
 ## Purpose-built accelerators for generative AI
 

@@ -208,6 +208,7 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - Scroll stopper - A scroll stopper is a visual element that draws viewers' attention to a specific part of a social media feed. Scroll stoppers can be used in videos and images to help grab the attention of viewers
 - Ostensibly - as appears or is stated to be true, though not necessarily so; apparently.
 - Peruse - read (something), typically in a thorough or careful way.
+- debauchery - extreme indulgence in bodily pleasures and especially sexual pleasures : behavior involving sex, drugs, alcohol, etc. that is often considered immoral. … he was glad when others joined them, men and women; and they had more drink and spent the night in wild rioting and debauchery.
 
 ### Shill / Shilling
 

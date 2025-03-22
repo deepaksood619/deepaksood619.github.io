@@ -557,6 +557,16 @@ All other formats (custom, directory, and tar) are restored using pg_restore pro
 
 Used for physical backups
 
+## Debugging
+
+[Postgres: Idle queries and pg\_locks \| HackerNoon](https://hackernoon.com/postgres-idle-queries-and-pg-locks-216b207c3e39)
+
+```sql
+SELECT * FROM pg_locks WHERE NOT GRANTED;
+
+select * from pg_stat_activity;
+```
+
 ## Adding hstore in database
 
 ```sql

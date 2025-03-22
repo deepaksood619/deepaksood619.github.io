@@ -26,6 +26,7 @@ Zero Oil Cooking
     - One carrot a day provides all the vitamin A for a day that body needs
     - Folate (Vitamin B9) during pregnency
     - Kidney - Drink a lot of water during the day; drink less water at night; empty your bladder before going to bed
+        - [ChatGPT - Kidney efficiency and water intake](https://chatgpt.com/share/67d9615e-2068-8005-85cd-6c8d534f8a5e)
     - Pancreas - Avoid overfeeding
 
 Recommended Calorie intake - 2800

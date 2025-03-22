@@ -152,6 +152,13 @@ https://www.edx.org/course/finance-everyone-smart-tools-decision-michiganx-fin10
 - [Gold jewellery cost calculation: How jewellers calculate price of gold jewellery](https://economictimes.indiatimes.com/wealth/spend/gold-jewellery-cost-calculation-how-jewellers-calculate-price-of-gold-jewellery/articleshow/109873223.cms?from=mdr)
 - [Jewelbox's $100M consumer opportunity 💍](https://shorts.growthx.club/p/jewelboxs-100m-consumer-opportunity)
 - [Planning to exchange old jewellery for new? Know the income tax rules | Mint](https://www.livemint.com/money/personal-finance/selling-old-jewellery-to-buy-new-one-know-the-income-tax-rules-which-apply-gold-silver-jewels/amp-11730291704859.html)
+- ['In 1990, 1 kg gold could buy a Maruti 800, in 2040, it would buy...': Expert on current gold rally  - 'In 1990, 1 kg gold could buy a Maruti 800, in 2040, it would buy...': Expert on current gold rally  BusinessToday](https://www.businesstoday.in/personal-finance/investment/story/in-1990-1-kg-gold-could-buy-a-maruti-800-in-2040-it-would-buy-expert-on-current-gold-rally-468728-2025-03-20#google_vignette)
+	- 1990 .....1KG gold = Maruti 800
+	- 2000......1KG gold = Esteem
+	- 2005......1KG Gold = Innova
+	- 2010......1KG Gold = Fortuner
+	- 2019.....1KG Gold = BMW X1
+	- 2040....1KG Gold = Private Jet
 
 ### Dubai Gold
 

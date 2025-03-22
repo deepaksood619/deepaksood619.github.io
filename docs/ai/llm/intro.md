@@ -86,3 +86,4 @@ The architecture is a standard [transformer network](https://en.wikipedia.org/wi
 - [Building LLMs from the Ground Up: A 3-hour Coding Workshop - YouTube](https://www.youtube.com/watch?v=quh7z1q7-uc)
 - [3Blue1Brown - Large Language Models explained briefly](https://www.3blue1brown.com/lessons/mini-llm)
 - [Generative AI Fine Tuning LLM Models Crash Course - YouTube](https://youtu.be/t-0s_2uZZU0)
+- [A Visual Guide to LLM Agents - by Maarten Grootendorst](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-llm-agents)

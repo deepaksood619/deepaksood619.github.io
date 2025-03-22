@@ -1,10 +1,14 @@
 # Meetups / Talks / Sessions
 
-## Nights Season 1 - Builder’s Space
+## Kotlin User Group Gurugram (22 March 2025)
 
-Nights Season 1 is an exciting event where people from all fields come together to work on their ideas and create amazing projects. Whether you're into tech, design, business, entertainment, or robotics, there's a theme (or house) for everyone!
+Presentation - [Automating the Future: Build Powerful AI Agents v2.0 - Google Slides](https://docs.google.com/presentation/d/16lprZX7OZhsgEzLQ96Dalx4NhdlxY0Yp30G2oyY9-1Y/edit?usp=drive_link)
 
-[Commudle - Connect & Learn With Software Developers](https://www.commudle.com/communities/builders-space/events/the-nights-s1)
+![Kotlin User Group Gurugram](../media/Screenshot%202025-03-21%20at%208.45.55%20PM.jpg)
+
+[Kotlin User Group Gurugram](https://www.commudle.com/communities/gurugram-kotlin-user-group)
+
+[#udaan2025 #artificialintelligence #aiagents #machinelearning #datascience… \| Kotlin User Group Gurugram](https://www.linkedin.com/posts/kotlin-user-group-gurugram_udaan2025-artificialintelligence-aiagents-activity-7308835914326163456-Aiat)
 
 ## ClickHouse Meetup (22 March 2025)
 
@@ -19,6 +23,18 @@ Delve into ClickHouse's support for vector search, enabling efficient handling o
 [Announcing GenAI powered query suggestions in ClickHouse Cloud](https://clickhouse.com/blog/announcing-genai-powered-query-suggestions-clickhouse-cloud)
 
 [How Poolside is using ClickHouse to build next-gen AI for software development](https://clickhouse.com/blog/poolside-using-clickhouse-to-build-next-gen-ai-for-software-development)
+
+## Nights Season 1 - Builder’s Space (19 March 2025)
+
+Presentation - [Automating the Future: Build Powerful AI Agents v2.0 - Google Slides](https://docs.google.com/presentation/d/16lprZX7OZhsgEzLQ96Dalx4NhdlxY0Yp30G2oyY9-1Y/edit?usp=drive_link)
+
+Nights Season 1 is an exciting event where people from all fields come together to work on their ideas and create amazing projects. Whether you're into tech, design, business, entertainment, or robotics, there's a theme (or house) for everyone!
+
+[The Nights S1 - Builder's Space](https://www.commudle.com/communities/builders-space/events/the-nights-s1)
+
+[#nightss1 #inspirationunlocked #communityevent \| Builder's Space](https://www.linkedin.com/posts/builder-s-space_nightss1-inspirationunlocked-communityevent-activity-7307836085890363392-hFpq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
+
+[#ai #aiagents #automation #cognitiveai #generativeai #futuretech \| Deepak Sood](https://www.linkedin.com/posts/deepaksood619_nightss1-inspirationunlocked-communityevent-activity-7307848100251910144-QGSC)
 
 ## Fareportal - Unlocking AI Meetup (8 March 2025)
 

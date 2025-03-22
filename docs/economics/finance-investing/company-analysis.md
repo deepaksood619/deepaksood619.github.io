@@ -60,6 +60,9 @@ NSE: RAYMONDLSL
 ## Others
 
 - [Ceigall India Ready to Soar Higher: 70% Upside on Strong Order Pipeline 🕊️](https://shankarnath.substack.com/p/ceigall-india)
+- [2 stocks India’s Warren Buffett has held for 10 Years… and won’t sell even in this market - Stock Insights News \| The Financial Express](https://www.financialexpress.com/market/stock-insights/2-stocks-indias-warren-buffett-has-held-for-10-years-and-wont-sell-even-in-this-market/3783454/#google_vignette)
+	- Carysil Ltd
+	- Shaily Engineering Plastics Ltd (SEPL)
 
 ## Links
 
