@@ -1,8 +1,8 @@
-# R
+# R Language
 
 ## Introduction
 
-In R, you can store data in a variable by using either `=` or `<-`.
+In R, you can store data in a variable by using either = or `<-`.
 
 ```python
 var <- 'Hello'
@@ -96,6 +96,10 @@ chocolateData %>%
 
 https://www.youtube.com/watch?v=_V8eKsto3Ug
 
+## Charts
+
+[The R Graph Gallery – Help and inspiration for R charts](https://r-graph-gallery.com/)
+
 ## Others
 
 ### Tidyverse
@@ -106,4 +110,4 @@ https://www.tidyverse.org
 
 ### Others
 
-hadleyverse
+- hadleyverse

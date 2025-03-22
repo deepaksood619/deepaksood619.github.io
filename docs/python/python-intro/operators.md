@@ -15,7 +15,7 @@ Python language supports the following types of operators.
 Identity vs Equality Operators
 
 - Identity- Identity comparison with "is" and "is not"
-- Equality- Equality comparisons with "==" and "!="
+- Equality- Equality comparisons with == and !=
 
 ## Arithmetic Operators (a = 10, b = 20)
 
@@ -32,14 +32,14 @@ Identity vs Equality Operators
 ## Comparison (Relational) Operators (a = 10, b = 20)
 
 | **Operator** | **Description**                                                                                                   | **Example**                                         |
-|-----------|-----------------------------------------|--------------------|
-| `==`           | If the values of two operands are equal, then the condition becomes true.                                         | `(a == b)` is not true.                               |
-| `!=`           | If values of two operands are not equal, then condition becomes true.                                             | `(a != b)` is true.                                   |
+| ------------ | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| ==           | If the values of two operands are equal, then the condition becomes true.                                         | `(a == b)` is not true.                             |
+| `!=`         | If values of two operands are not equal, then condition becomes true.                                             | `(a != b)` is true.                                 |
 | `<>`         | If values of two operands are not equal, then condition becomes true. (Deprecated)                                | `(a <> b)` is true. This is similar to != operator. |
-| `>`           | If the value of left operand is greater than the value of right operand, then condition becomes true.             | `(a > b)` is not true.                               |
-| `<`           | If the value of left operand is less than the value of right operand, then condition becomes true.                | `(a < b)` is true.                                   |
-| `>=`          | If the value of left operand is greater than or equal to the value of right operand, then condition becomes true. | `(a >= b)` is not true.                              |
-| `<=`          | If the value of left operand is less than or equal to the value of right operand, then condition becomes true.    | `(a <= b)` is true.                                  |
+| `>`          | If the value of left operand is greater than the value of right operand, then condition becomes true.             | `(a > b)` is not true.                              |
+| `<`          | If the value of left operand is less than the value of right operand, then condition becomes true.                | `(a < b)` is true.                                  |
+| `>=`         | If the value of left operand is greater than or equal to the value of right operand, then condition becomes true. | `(a >= b)` is not true.                             |
+| `<=`         | If the value of left operand is less than or equal to the value of right operand, then condition becomes true.    | `(a <= b)` is true.                                 |
 
 ## Assignment Operators (a=10, b = 20)
 
@@ -47,16 +47,16 @@ The use of += like statements are called as accumulator pattern,
 
 Like, sum = sum + value, This type of statements is called as accumulator pattern.
 
-| **Operator** | **Description** | **Example** |
-|---|---|---|
-| = | Assigns values from right side operands to left side operand | c = a + b assigns value of a + b into c |
-| += Add AND | It adds right operand to the left operand and assign the result to left operand | c += a is equivalent to c = c + a |
-| -= Subtract AND | It subtracts right operand from the left operand and assign the result to left operand | c -= a is equivalent to c = c - a |
-| *= Multiply AND | It multiplies right operand with the left operand and assign the result to left operand | c *= a is equivalent to c = c* a |
-| /= Divide AND | It divides left operand with the right operand and assign the result to left operand | c /= a is equivalent to c = c / ac /= a is equivalent to c = c / a |
-| %= Modulus AND | It takes modulus using two operands and assign the result to left operand | c %= a is equivalent to c = c % a |
-| **= Exponent AND | Performs exponential (power) calculation on operators and assign value to the left operand | c **= a is equivalent to c = c** a |
-| //= Floor Division | It performs floor division on operators and assign value to the left operand | c //= a is equivalent to c = c // a |
+| **Operator**       | **Description**                                                                            | **Example**                                                        |
+| ------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ |
+| =                  | Assigns values from right side operands to left side operand                               | c = a + b assigns value of a + b into c                            |
+| += Add AND         | It adds right operand to the left operand and assign the result to left operand            | c += a is equivalent to c = c + a                                  |
+| -= Subtract AND    | It subtracts right operand from the left operand and assign the result to left operand     | c -= a is equivalent to c = c - a                                  |
+| *= Multiply AND    | It multiplies right operand with the left operand and assign the result to left operand    | c *= a is equivalent to c = c* a                                   |
+| /= Divide AND      | It divides left operand with the right operand and assign the result to left operand       | c /= a is equivalent to c = c / ac /= a is equivalent to c = c / a |
+| %= Modulus AND     | It takes modulus using two operands and assign the result to left operand                  | c %= a is equivalent to c = c % a                                  |
+| **= Exponent AND   | Performs exponential (power) calculation on operators and assign value to the left operand | c **= a is equivalent to c = c** a                                 |
+| //= Floor Division | It performs floor division on operators and assign value to the left operand               | c //= a is equivalent to c = c // a                                |
 
 ## Logical Operators (a = 10 and b = 20)
 
@@ -97,21 +97,21 @@ b = 0000 1101
 
 ## Python Operators Precedence
 
-| **Sr.No.** | **Operator & Description** |
-|---|---|
-| 1 | `**` Exponentiation (raise to the power) |
-| 2 | `~ + -` Complement, unary plus and minus (method names for the last two are +@ and -@) |
-| 3 | `* / % //` Multiply, divide, modulo and floor division |
-| 4 | `+ -` Addition and subtraction |
-| 5 | `>> <<` Right and left bitwise shift |
-| 6 | `&` Bitwise 'AND' |
-| 7 | `^ \|` Bitwise exclusive `OR' and regular`OR' |
-| 8 | `>=` Comparison operators |
-| 9 | `<> == !=` Equality operators |
-| 10 | `= %= /= //= -= += *=**=` Assignment operators |
-| 11 | `is is not` Identity operators |
-| 12 | `in not in` Membership operators |
-| 13 | `not or and` Logical operators |
+| **Sr.No.** | **Operator & Description**                                                             |
+| ---------- | -------------------------------------------------------------------------------------- |
+| 1          | `**` Exponentiation (raise to the power)                                               |
+| 2          | `~ + -` Complement, unary plus and minus (method names for the last two are +@ and -@) |
+| 3          | `* / % //` Multiply, divide, modulo and floor division                                 |
+| 4          | `+ -` Addition and subtraction                                                         |
+| 5          | `>> <<` Right and left bitwise shift                                                   |
+| 6          | `&` Bitwise 'AND'                                                                      |
+| 7          | `^ \|` Bitwise exclusive `OR' and regular`OR'                                          |
+| 8          | `>=` Comparison operators                                                              |
+| 9          | `<> == !=` Equality operators                                                          |
+| 10         | = %= /= //= -= += `*=` `**=` Assignment operators                                      |
+| 11         | `is is not` Identity operators                                                         |
+| 12         | `in not in` Membership operators                                                       |
+| 13         | `not or and` Logical operators                                                         |
 
 ## Different ways to test multiple
 
@@ -129,10 +129,10 @@ if any((x, y, z)):
     print('passed')
 ```
 
-## Difference between `is` and `==`
+## Difference between `is` and ==
 
-1. An `is` expression evaluates toTrueif two variables point to the same (identical) object.
-2. An `==` expression evaluates toTrueif the objects referred to by the variables are equal (have the same contents).
+1. An `is` expression evaluates to True if two variables point to the same (identical) object.
+2. An == expression evaluates to True if the objects referred to by the variables are equal (have the same contents).
 
 ## Character Conversion
 

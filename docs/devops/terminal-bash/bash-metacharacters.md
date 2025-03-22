@@ -20,6 +20,6 @@
 | `\|\|` | Run the command on the right of the double pipe ONLY IF the command on the left failed. Example: `mkdir stuff \|\| echo "mkdir failed!"` # Print a message on failure of the mkdir command |
 | `&` | Run the process in the background, allowing you to continue your work on the command line. Example: `john /etc/passwd &;` # Try to crack the passwords - this takes a couple hours, so do it in the background. Also used in redirection when copying one stream into the same location as another stream. Example: `cat filename.txt  file2.txt 2 1` # Send Standard Error (2) to the file2.txt where Standard Output (1) is going |
 | `;` | Allows you to list multiple commands on a single line, separated by this character. Example: `date;john passwd; date` # Print the date, crack the passwords and print the date again afterwards - cheap benchmarking |
-| `=` | Assignment. Set the variable named on the left to the value presented on the right. Example: my_variable="Hello World!" # Note that there is NO SPACE between the variable name and the string. |
+| = | Assignment. Set the variable named on the left to the value presented on the right. Example: my_variable="Hello World!" # Note that there is NO SPACE between the variable name and the string. |
 
 http://www.angelfire.com/mi/genastorhotz/reality/computers/linux/bashmetachars.html

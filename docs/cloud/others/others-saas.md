@@ -62,7 +62,7 @@ A warehouse management system is software that helps companies manage and contro
 
 [Page Not Found | SAP](https://www.sap.com/india/products/scm/extended-warehouse-management/what-is-a-wms.htm)
 
-## Human Resource Management System (HRMS) / HRIS / Hiring Tools
+## Human Resource Management System (HRMS) / HRIS / Hiring Tools / CMS
 
 - OrangeHRM - https://sourceforge.net/projects/orangehrm
 - https://github.com/orangehrm/orangehrm
@@ -76,6 +76,7 @@ A warehouse management system is software that helps companies manage and contro
 - https://www.lever.co
 - [sap](cloud/others/sap.md)
 - Best - **[GitHub - frappe/hrms: Open Source HR and Payroll Software](https://github.com/frappe/hrms)**
+- [Cadana \| Payroll Infrastructure for Emerging Markets](https://cadanapay.com/)
 
 ## Education
 

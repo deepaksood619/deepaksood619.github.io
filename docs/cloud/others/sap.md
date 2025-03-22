@@ -43,15 +43,11 @@ This SAP FICO basics tutorial is going to explain SAP FICO overview and the majo
 
 ## Links
 
-[What Is SAP and What Are the Advantages of Using It? | Indeed.com India](https://in.indeed.com/career-advice/career-development/what-is-sap)
-
-[What is SAP? | SAP tutorial for beginners | Learn SAP | SAP ERP training for beginners - YouTube](https://www.youtube.com/watch?v=JjrcxsniXvc)
-
-[What is SAP? | Definition and Meaning](https://www.sap.com/india/about/what-is-sap.html)
-
-[Course SAP for beginners - YouTube](https://www.youtube.com/playlist?list=PLiFE0QmVk5NcXRHMbqEOwX7w8HDNThUgo)
-
-[SAP Complete Details | SAP FICO | SAP SD | SAP MM | SAP ABAP | SAP ARIBA ‪@ZellEducation‬ - YouTube](https://www.youtube.com/watch?v=bVmOu9bzu54)
+- [What Is SAP and What Are the Advantages of Using It? | Indeed.com India](https://in.indeed.com/career-advice/career-development/what-is-sap)
+- [What is SAP? | SAP tutorial for beginners | Learn SAP | SAP ERP training for beginners - YouTube](https://www.youtube.com/watch?v=JjrcxsniXvc)
+- [What is SAP? | Definition and Meaning](https://www.sap.com/india/about/what-is-sap.html)
+- [Course SAP for beginners - YouTube](https://www.youtube.com/playlist?list=PLiFE0QmVk5NcXRHMbqEOwX7w8HDNThUgo)
+- [SAP Complete Details | SAP FICO | SAP SD | SAP MM | SAP ABAP | SAP ARIBA ‪@ZellEducation‬ - YouTube](https://www.youtube.com/watch?v=bVmOu9bzu54)
 
 ## ERPNext
 
@@ -65,3 +61,12 @@ This SAP FICO basics tutorial is going to explain SAP FICO overview and the majo
 - [Exploring open-source with ERPNext - YouTube](https://www.youtube.com/watch?v=RjTipQpUvNQ&ab_channel=Frappe)
 - [ERPNext Product Demo by Frappe | Puneet Kumar ( Regional Director - Americas) - YouTube](https://www.youtube.com/watch?v=Sn6Bc8t22GI&ab_channel=Frappe)
 - [GitHub - frappe/lending: Open Source Lending software](https://github.com/frappe/lending)
+
+## Other CRM / Workflow Management
+
+- Zoho
+- Salesforce
+- EngageBay
+- ServiceNow
+- [SAP](cloud/others/sap.md)
+- [Streak - CRM for Gmail](https://www.streak.com/)

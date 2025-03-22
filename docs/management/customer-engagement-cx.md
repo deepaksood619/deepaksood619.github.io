@@ -380,6 +380,8 @@ https://www.toptal.com/crm/crm-api-integration-guide
 
 [What is CRM? | A guide to CRM software by Zoho CRM](https://www.youtube.com/watch?v=hnEQq7kNFWo)
 
+[SAP](cloud/others/sap.md)
+
 ## Customer Data Platform (CDP)
 
 ![image](../media/Customer-Engagement-CX-image4.jpg)

@@ -150,6 +150,16 @@ Hydra don't age
 - [How I FIXED My Terrible Sleep - 10 Habits - YouTube](https://www.youtube.com/watch?v=Wk9p3dhMYdk&ab_channel=BryanJohnson)
 - [Scientists find humans age dramatically in two bursts – at 44, then 60 | Medical research | The Guardian](https://www.theguardian.com/science/article/2024/aug/14/scientists-find-humans-age-dramatically-in-two-bursts-at-44-then-60-aging-not-slow-and-steady)
 
+### Key Metrics
+
+Dr. Casey Means has identified five key health metrics that indicate whether you’re at risk of poor cellular energy production:
+
+1. Waist size greater than 35 inches for women or 40 inches for men (larger waist size means excess visceral fat, a dangerous type of fat that surrounds vital organs like your liver, intestines, and spleen, which generates chronic inflammation).
+2. Triglycerides higher than 150 mg/dL (high triglycerides mean excess fat is trapped in your bloodstream, making you insulin resistant).
+3. Fasting glucose higher than 100 mg/dL (elevated fasting glucose is an early warning signal of looming insulin resistance).
+4. Blood pressure higher than 130/85 mmHg (high blood pressure indicates your body is chronically inflamed).
+5. HDL cholesterol lower than 50 mg/dL (low HDL cholesterol means your body struggles to clear fat and cholesterol from your bloodstream).
+
 ## Links
 
 [The more fertile you are, the sooner you may die](https://www.msn.com/en-in/lifestyle/whats-hot/the-more-fertile-you-are-the-sooner-you-may-die-study/ar-AA1lA8ML)

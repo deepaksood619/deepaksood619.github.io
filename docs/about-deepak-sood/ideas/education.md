@@ -191,6 +191,7 @@ TODO
 - [Khan Academy | Free Online Courses, Lessons & Practice](https://www.khanacademy.org/)
 - Youtube Learning (Experimental)
 - [Sakshm AI](https://sakshm.com/)
+- [**Sensai**](https://sensai.hyperverge.org/)
 
 ## Free Education with Boarding (Coaching)
 
@@ -334,6 +335,14 @@ Just add a module of UPSC in khan academy. It has everything.
 - International Baccalaureate (IB) and Cambridge curricula
 - ICSE
 - CBSE
+
+## LMS (Learning Management System)
+
+- [GitHub - frappe/lms: Easy to Use, 100% Open Source Learning Management System](https://github.com/frappe/lms)
+	- [mon school - Free and open access online coding lessons.](https://mon.school/)
+- [Monetise your expertise - Graphy](https://graphy.com/)
+- [Edmingle - Build, Manage & Scale Your Online Academy](https://edmingle.com)
+	- [10 Best LMS for Coding Training & Tech Education](https://blog.edmingle.com/lms-for-coding/)
 
 ## Links
 

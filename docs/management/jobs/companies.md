@@ -32,13 +32,6 @@
 - Lowe's Companies, Inc.
 - https://www.greyorange.com/
 
-### CRM/Workflow Management
-
-- Zoho
-- Salesforce
-- EngageBay
-- ServiceNow
-
 ### Recruitment/ Hiring platform
 
 - LinkedIn

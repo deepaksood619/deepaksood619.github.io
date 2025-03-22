@@ -176,6 +176,14 @@ Upward counterfactuals are **thoughts about how the situation could have been be
 
 [Counterfactual thinking - Wikipedia](https://en.wikipedia.org/wiki/Counterfactual_thinking)
 
+## Four stages of competence
+
+![Four Stages of Competence](../media/Screenshot%202025-03-22%20at%2010.46.50%20PM.jpg)
+
+[Four stages of competence - Wikipedia](https://en.wikipedia.org/wiki/Four_stages_of_competence)
+
+[Four stages of competence. The Four Stages of Competence was… \| by Minh Do \| Medium](https://medium.com/@anhminhdo/4-levels-of-competence-fb1bbddd945d)
+
 ## Links
 
 https://system.com

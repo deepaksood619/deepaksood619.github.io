@@ -144,6 +144,8 @@ The concepts, components, and features of the platform are described in detail a
 
 [mage-ai/mage\_integrations/mage\_integrations/destinations/bigquery/README.md at master · mage-ai/mage-ai · GitHub](https://github.com/mage-ai/mage-ai/blob/master/mage_integrations/mage_integrations/destinations/bigquery/README.md)
 
+[\[BUG\] Pipelines stuck due to high CPU usage of Mage scheduler · Issue #5345 · mage-ai/mage-ai · GitHub](https://github.com/mage-ai/mage-ai/issues/5345)
+
 ## Flyte
 
 Build & deploy data & ML pipelines, hassle-free

@@ -58,6 +58,13 @@ Dynamic pricing and price surge like in Uber/Ola
     - integrated weighing scale
 - Live TV on phones without internet
 
+## Medical / Hospital
+
+- Middle class hospital
+- High class hospital - Rs. 1000
+- Government hospital - Rs. 0
+- Where is the middle tier chain off hospitals, all are smaller nursing. - Rs. 100 - Rs.500 range?
+
 ## Mechanical
 
 ### Vertical Parking system for cars+suv

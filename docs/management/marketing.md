@@ -454,7 +454,23 @@ https://www.gigsmedia.in
 - [Pricing | Mailjet](https://www.mailjet.com/pricing/)
 - pinpoint
 - sendgrid
-- [Resend](https://resend.com/home)
+
+### [Resend](https://resend.com/home)
+
+[Introduction - Resend](https://resend.com/docs/introduction)
+
+```python
+import resend
+
+resend.api_key = "api_key"
+
+r = resend.Emails.send({
+  "from": "onboarding@resend.dev",
+  "to": "tech@tech.com",
+  "subject": "Hello World",
+  "html": "<p>Congrats on sending your <strong>first email</strong>!</p>"
+})
+```
 
 ### SMS
 

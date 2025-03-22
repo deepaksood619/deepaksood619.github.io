@@ -75,11 +75,13 @@ https://kubernetes.io/blog/2020/08/14/introducing-hierarchical-namespaces
 
 #### Equality-based requirement
 
-Equality or inequality based requirements allow filtering by label keys and values. Matching objects must satisfy all of the specified label constraints, though they may have additional labels as well. Three kinds of operators are admitted `=`,`==`,`!=`. The first two represent equality (and are simply synonyms), while the latter represents inequality.
-
-For example:
+Equality or inequality based requirements allow filtering by label keys and values. Matching objects must satisfy all of the specified label constraints, though they may have additional labels as well.
 
 ```yaml
+# Three kinds of operators are admitted =, ==, `!=`. The first two represent equality (and are simply synonyms), while the latter represents inequality.
+
+# For example:
+
 environment = production
 tier != frontend
 ```
