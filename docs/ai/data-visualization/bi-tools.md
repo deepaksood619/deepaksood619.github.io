@@ -105,6 +105,11 @@ DataIQ is a business intelligence platform designed to help organizations manage
 - [Datawrapper: Create charts, maps, and tables](https://www.datawrapper.de/)
 - [How to combine line and bar charts in Datawrapper - Datawrapper Academy](https://academy.datawrapper.de/article/266-how-to-make-bar-line-chart-combinations-in-datawrapper)
 - [Number formats you can display in Datawrapper - Datawrapper Academy](https://academy.datawrapper.de/article/207-custom-number-formats-that-you-can-display-in-datawrapper)
+- [Customizing your multiple lines chart - Datawrapper Academy](https://academy.datawrapper.de/article/385-customizing-your-small-multiple-line-chart)
+- [Customizing your line chart - Datawrapper Academy](https://academy.datawrapper.de/article/47-customizing-your-line-chart)
+- [**Easier, faster, and more flexible line chart editing \| Datawrapper Blog**](https://www.datawrapper.de/blog/improved-line-chart-editing)
+- [Newsletter \| Datawrapper Blog](https://www.datawrapper.de/blog/newsletter)
+- [Examples of Datawrapper line charts - Datawrapper Academy](https://academy.datawrapper.de/article/147-examples-of-datawrapper-line-charts)
 
 ## Others
 

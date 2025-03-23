@@ -1,14 +1,19 @@
 # Meetups / Talks / Sessions
 
-## Kotlin User Group Gurugram (22 March 2025)
+## UDAAN 2K25 - Kotlin User Group Gurugram (22 March 2025)
 
-Presentation - [Automating the Future: Build Powerful AI Agents v2.0 - Google Slides](https://docs.google.com/presentation/d/16lprZX7OZhsgEzLQ96Dalx4NhdlxY0Yp30G2oyY9-1Y/edit?usp=drive_link)
+Presentations
+
+- [From Zero to Hero: Mastering GenAI in a Flash](https://docs.google.com/presentation/d/1go_DXxBZlhyr1Ap8QIQhXseCFTgKYJ4Obk8dHaJ8ZIk/edit?usp=sharing)
+- [Automating the Future: Build Powerful AI Agents v2.0 - Google Slides](https://docs.google.com/presentation/d/16lprZX7OZhsgEzLQ96Dalx4NhdlxY0Yp30G2oyY9-1Y/edit?usp=drive_link)
 
 ![Kotlin User Group Gurugram](../media/Screenshot%202025-03-21%20at%208.45.55%20PM.jpg)
 
 [Kotlin User Group Gurugram](https://www.commudle.com/communities/gurugram-kotlin-user-group)
 
 [#udaan2025 #artificialintelligence #aiagents #machinelearning #datascience… \| Kotlin User Group Gurugram](https://www.linkedin.com/posts/kotlin-user-group-gurugram_udaan2025-artificialintelligence-aiagents-activity-7308835914326163456-Aiat)
+
+[#udaan2k25 #ai #automation #genai #artificialintelligence #aiagents… \| Deepak Sood](https://www.linkedin.com/posts/deepaksood619_udaan2k25-ai-automation-activity-7309635596958711808-jPQv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 
 ## ClickHouse Meetup (22 March 2025)
 
