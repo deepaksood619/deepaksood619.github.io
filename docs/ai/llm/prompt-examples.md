@@ -21,6 +21,13 @@ format bold to unicode bolds, since bold ascii doesn't work in linkedin
 
 Repost with prompts
 
+### Links in Post vs Comments
+
+- [What is the impact of posting with external links on LinkedIn?](https://www.oktopost.com/blog/outbound-links-on-linkedin/)
+- [Why ”link in comments” is a bad idea for LinkedIn accessibility](https://axbom.com/linkedin-accessibility-link-in-comments/)
+- [Link in post or comments?](https://www.linkedin.com/pulse/link-post-comments-john-espirian/)
+- [Why Put the Link in Comments on LinkedIn? \| Sprout Social](https://sproutsocial.com/insights/linkedin-link-in-comments/)
+
 ## ChatGPT prompt to write error free
 
 `{paste your writing}`
@@ -197,3 +204,10 @@ Also share the architecture diagram for the same in mermaid format
 ## Creating Followup Questions
 
 What are the questions that needs to be asked to understand the requirements fully. Keep all questions one liner and not make it verbose
+
+An unforgettable trip.
+Enjoyed a lot
+Thanks to Shankar, Sandeep, Yogesh and Arpit, the 4 pillars of opstree to include me in their journey.
+The office colleagues were not only collegues but family, who goes over and above to help each other.
+The commadaire is great
+The 2 days were filled with exciting games, challenges, activities and one of the most important thing fun.

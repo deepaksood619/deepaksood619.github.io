@@ -175,6 +175,7 @@ http://webbyclare.com/book-review-leading-with-questions
 - Try to make people more comfortable around you
 - You are hurting relationships at work, when you talk about ...
 - I am not as smart as you guys, so please explain me it in plain english
+- I am so sad man, you didn't reply to me. I tried reaching out to you.
 
 Team, On a serious note I would need each one of you to attend the evening call. It's just twice in a week and it's in reasonable time. Please be mindful about this. The purpose of the call was to talk and collaborate with the team (not just me).
 
@@ -198,3 +199,4 @@ Rest assured my intention was never to take this client casually. Apologies if y
 ## Links
 
 - [speaking-phrases-quotes](psychology/soft-skills/speaking-phrases-quotes.md)
+- [people-team-management](management/people-management/people-team-management.md)

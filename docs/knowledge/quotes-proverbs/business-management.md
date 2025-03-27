@@ -6,6 +6,8 @@ Vision + Values = Mission
 
 Plan your work and work your plan
 
+Your margin are my opportunity - jeff besos
+
 If the rate of change in outside world is greater than the organization, then the end is near
 
 Dress for the job you want, not the job you have

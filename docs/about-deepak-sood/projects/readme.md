@@ -31,6 +31,7 @@
 - [On-Premise MLOps Platform](about-deepak-sood/projects/40-on-premise-mlops-platform.md)
 - [Cloud Based SAAS Data Platform](about-deepak-sood/projects/41-cloud-based-saas-data-platform.md)
 - [AI Powered Call Quality Monitoring](about-deepak-sood/projects/39-ai-powered-call-quality-monitoring.md)
+- [Data Stack Evaluation & Optimization](about-deepak-sood/projects/38-data-stack-evaluation-optimization.md)
 
 #### Case Studies
 

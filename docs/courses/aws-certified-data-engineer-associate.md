@@ -40,6 +40,7 @@ Date - Feb-March 2024
 - [AWS Certified Data Engineer Associate 2024 - Hands On! | Udemy](https://www.udemy.com/course/aws-data-engineer/)
 - [Course Slides](https://dw9ne0o7jcasn.cloudfront.net/AWSDataEngineer/AWSCertifiedDataEngineerSlides.pdf)
 - [AWS Certified Data Engineer - Hands On! Course Materials - Sundog Education with Frank Kane](https://www.sundog-education.com/aws-data-engineer/)
+- [Free AWS Practice Exam Questions](https://digitalcloud.training/free-aws-practice-exam-questions/)
 
 ## Links
 

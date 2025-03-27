@@ -384,8 +384,6 @@ https://www.entrepreneur.com/article/378072
 
 ## Negative Connotation
 
-I am so sad man, you didn't reply to me. I tried reaching out to you.
-
 ### Rebuttal
 
 I have been observing interactions between you & my team.

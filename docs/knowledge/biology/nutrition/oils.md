@@ -9,7 +9,7 @@
 ## Types
 
 - Extra virgin olive oil
-- Rice bran oil
+- **Rice bran oil**
 - Sunflower oil (don't try to use)
 - Soyabean oil / Soybean Oil (bad)
 - Corn oil (bad)
@@ -21,7 +21,7 @@
 - Sesame oil
 - Coconut oil
 - Groundnut oil
-- Palm oil
+- Palm oil (bad)
 - Ghee
 - Peanut oil
 
@@ -32,7 +32,9 @@
 - Fish or algae oil
 - Flax oil
 - Palm oil
+- Soy oil
 - Walnut oil
+- High fructose corn syrup (never have this)
 
 [4 Healthy Cooking Oils (and 4 to Avoid)](https://www.healthline.com/nutrition/best-cooking-oils)
 

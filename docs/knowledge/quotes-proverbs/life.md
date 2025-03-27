@@ -8,6 +8,8 @@ In is the only way out.
 
 Life is a sine curve.
 
+Life begins where fear ends
+
 It's just an idea. It's not me.
 
 What a time to be alive.

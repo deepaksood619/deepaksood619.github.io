@@ -11,4 +11,4 @@ WarpStream is an Apache Kafka protocol **compatible data streaming platform** b
 - [How WarpStream reinvented Kafka (and soared to a $220m exit in only 13 months) - YouTube](https://www.youtube.com/watch?v=NcH4jDyJECY)
 - [What The Heck is WarpStream? \| HackerNoon](https://hackernoon.com/what-the-heck-is-warpstream)
 - [Confluent acquires WarpStream \| Confluent](https://www.confluent.io/blog/confluent-acquires-warpstream/)
-- [Fetching Title#dkq5](https://www.warpstream.com/blog/warpstream-is-dead-long-live-warpstream)
+- [WarpStream is Dead, Long Live WarpStream](https://www.warpstream.com/blog/warpstream-is-dead-long-live-warpstream)

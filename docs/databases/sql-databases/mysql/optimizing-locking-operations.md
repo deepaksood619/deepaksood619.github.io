@@ -153,6 +153,8 @@ While InnoDB primarily uses row-level locking, there can also be implicit table-
 
 [MySQL :: MySQL 8.0 Reference Manual :: 29.12.13.3 The metadata\_locks Table](https://dev.mysql.com/doc/refman/8.0/en/performance-schema-metadata-locks-table.html)
 
+[MySQL :: MySQL 8.4 Reference Manual :: 10.11.4 Metadata Locking](https://dev.mysql.com/doc/refman/8.4/en/metadata-locking.html)
+
 ## Links
 
 - [Overview of Different ALTER Algorithms and Its Locking Scenarios in MySQL - Sri Sakthivel M.D. - YouTube](https://www.youtube.com/watch?v=MqWQH-WWFBE&ab_channel=Percona)

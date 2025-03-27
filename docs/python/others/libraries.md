@@ -251,3 +251,4 @@ For most cases, you would want to go with python’s standard json library which
 ## Others
 
 - [stripe · PyPI](https://pypi.org/project/stripe/)
+- [gspread — gspread 6.1.2 documentation](https://docs.gspread.org/en/latest/)

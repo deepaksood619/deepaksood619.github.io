@@ -18,6 +18,7 @@
 - [Thread States](databases/sql-databases/mysql/thread-states.md)
 - [SQL / MySQL Tools](sql-mysql-tools)
 - [Percona Toolkit](databases/sql-databases/mysql/percona-toolkit.md)
+- [gh-ost](databases/sql-databases/mysql/gh-ost.md)
 - [Others](databases/sql-databases/mysql/others.md)
 
 ### Backup
