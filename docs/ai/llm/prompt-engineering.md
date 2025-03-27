@@ -71,6 +71,70 @@ Controls the randomness of the model's output. A higher temperature makes the ou
 
 [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
+### Summarization
+
+```xml
+{
+    "anthropic_version": "bedrock-2023-05-31",
+    "messages": [
+        {
+            "role" : "user",
+            "content" : "You will be given a conversation between a user and an AI assistant.
+             When available, in order to have more context, you will also be give summaries you previously generated.
+             Your goal is to summarize the input conversation.
+
+             When you generate summaries you ALWAYS follow the below guidelines:
+             <guidelines>
+             - Each summary MUST be formatted in XML format.
+             - Each summary must contain at least the following topics: 'user goals', 'assistant actions'.
+             - Each summary, whenever applicable, MUST cover every topic and be place between <topic name='$TOPIC_NAME'></topic>.
+             - You AlWAYS output all applicable topics within <summary></summary>
+             - If nothing about a topic is mentioned, DO NOT produce a summary for that topic.
+             - You summarize in <topic name='user goals'></topic> ONLY what is related to User, e.g., user goals.
+             - You summarize in <topic name='assistant actions'></topic> ONLY what is related to Assistant, e.g., assistant actions.
+             - NEVER start with phrases like 'Here's the summary...', provide directly the summary in the format described below.
+             </guidelines>
+
+             The XML format of each summary is as it follows:
+            <summary>
+                <topic name='$TOPIC_NAME'>
+                    ...
+                </topic>
+                ...
+            </summary>
+
+            Here is the list of summaries you previously generated.
+
+            <previous_summaries>
+            $past_conversation_summary$
+            </previous_summaries>
+
+            And here is the current conversation session between a user and an AI assistant:
+
+            <conversation>
+            $conversation$
+            </conversation>
+
+            Please summarize the input conversation following above guidelines plus below additional guidelines:
+            <additional_guidelines>
+            - ALWAYS strictly follow above XML schema and ALWAYS generate well-formatted XML.
+            - NEVER forget any detail from the input conversation.
+            - You also ALWAYS follow below special guidelines for some of the topics.
+            <special_guidelines>
+                <user_goals>
+                    - You ALWAYS report in <topic name='user goals'></topic> all details the user provided in formulating their request.
+                </user_goals>
+                <assistant_actions>
+                    - You ALWAYS report in <topic name='assistant actions'></topic> all details about action taken by the assistant, e.g., parameters used to invoke actions.
+                </assistant_actions>
+            </special_guidelines>
+            </additional_guidelines>
+            "
+        }
+    ]
+}
+```
+
 ## Assistant APIs
 
 The Assistants API allows you to build AI assistants within your own applications. An Assistant has instructions and can leverage models, tools, and knowledge to respond to user queries. The Assistants API currently supports three types of [tools](https://platform.openai.com/docs/assistants/tools): Code Interpreter, Retrieval, and Function calling.

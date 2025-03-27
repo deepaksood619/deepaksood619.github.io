@@ -57,7 +57,7 @@ pt-duplicate-key-checker -host sttash-main-db-instance-new-cluster.cluster-ro-c1
 ```bash
 pt-mysql-summary --host localhost --user root --ask-pass > mysql-summary.txt
 
-pt-mysql-summary --host sttash-main-db-instance-new-cluster.cluster-ro-c1z93jsyca9u.ap-south-1.rds.amazonaws.com --user lms-website --password Rf9zdHwB9E3GHWKq2yZM > mysql-summary.txt- [pt-online-schema-change](https://www.percona.com/doc/percona-toolkit/LATEST/pt-online-schema-change.html)
+pt-mysql-summary --host sttash-main-db-instance-new-cluster.cluster-ro-c1z93jsyca9u.ap-south-1.rds.amazonaws.com --user user --password password > mysql-summary.txt- [pt-online-schema-change](https://www.percona.com/doc/percona-toolkit/LATEST/pt-online-schema-change.html)
 
 pt-online-schema-change --host dailydb.snapshot.example.com --user user_abc --password xyzabc123 --alter='ENGINE=InnoDB' D=db_name, t=table_name --preserve-triggers --dry-run
 ```
@@ -97,3 +97,7 @@ https://www.percona.com/doc/percona-toolkit/3.0/pt-online-schema-change.html- [p
 - [pt-visual-explain](https://www.percona.com/doc/percona-toolkit/LATEST/pt-visual-explain.html)
 
 https://www.percona.com/software/database-tools/percona-toolkit
+
+## Alternative
+
+- [gh-ost](databases/sql-databases/mysql/gh-ost.md)

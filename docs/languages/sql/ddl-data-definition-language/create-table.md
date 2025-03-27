@@ -48,7 +48,7 @@ ALTER TABLE communication_exceptions MODIFY create_date DATETIME NOT NULL DEFAUL
 ALTER TABLE communication_exceptions MODIFY update_date DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP;
 ```
 
-### How MySQL Does ALTER TABLE
+## How MySQL Does ALTER TABLE
 
 1. Lock the table
 2. Make a new, empty the table like the original
@@ -57,7 +57,50 @@ ALTER TABLE communication_exceptions MODIFY update_date DATETIME NOT NULL DEFAUL
 5. Swap the old and new tables
 6. Unlock the tables & drop the original
 
-### Postgres ON UPDATE
+- [optimizing-locking-operations](databases/sql-databases/mysql/optimizing-locking-operations.md)
+
+### Alter Table
+
+Tried below queries in Amazon RDS MySQL with InnoDB with Engine version - 8.0.36
+
+```sql
+-- Locking table - waiting for metadata lock
+ALTER TABLE users ADD ⁠ enc_uid ⁠ varchar(225) DEFAULT NULL;
+
+-- Locking table - waiting for metadata lock
+ALTER TABLE users ADD COLUMN enc_uid varchar(225) DEFAULT NULL AFTER uid, ALGORITHM=INPLACE, LOCK=NONE;
+
+-- Locking table but started work
+ALTER TABLE users ADD COLUMN enc_uid VARCHAR(225) DEFAULT NULL AFTER uid, ALGORITHM=COPY;
+
+-- Locking table
+ALTER TABLE users ADD COLUMN enc_uid VARCHAR(225) DEFAULT NULL AFTER uid, ALGORITHM=INSTANT;
+
+-- With ALGORITHM=INSTANT, new column can be added only as the last column of table, but that also doesn't work
+ALTER TABLE users ADD COLUMN enc_uid VARCHAR(225) DEFAULT NULL, ALGORITHM=INSTANT;
+```
+
+### Alter table add column Algorithm Instant
+
+[MySQL :: MySQL 8.0 INSTANT ADD and DROP Column(s)](https://dev.mysql.com/blog-archive/mysql-8-0-instant-add-and-drop-columns/)
+
+- Adding a column cannot be combined in the same statement with other ALTER TABLE actions that do not support ALGORITHM=INSTANT.
+- A column can only be added as the last column of the table. Adding a column to any other position among other columns is not supported.
+- Columns cannot be added to tables that use ROW_FORMAT=COMPRESSED.
+- Columns cannot be added to tables that include a FULLTEXT index.
+- Columns cannot be added to temporary tables. Temporary tables only support ALGORITHM=COPY.
+- Columns cannot be added to tables that reside in the data dictionary tablespace.
+- Row size limits are not evaluated when adding a column. However, row size limits  are checked during DML operations that insert and update rows in the table.
+- Multiple columns may be added in the same ALTER TABLE statement.
+
+[MySQL 5.6 - table locks even when ALGORITHM=inplace is used - Stack Overflow](https://stackoverflow.com/questions/54667071/mysql-5-6-table-locks-even-when-algorithm-inplace-is-used)
+
+[amazon rds - MySQL 8.0 Alter Table Algorithm=INSTANT not working as expected (takes 40 secs) - Stack Overflow](https://stackoverflow.com/questions/63463566/mysql-8-0-alter-table-algorithm-instant-not-working-as-expected-takes-40-secs)
+
+- ALTER TABLE operations are processed using one of the following algorithms: COPY: ... INPLACE: ... INSTANT: Operations only modify metadata in the data dictionary. **An exclusive metadata lock on the table may be taken briefly during the execution phase of the operation.**
+- [MySQL :: MySQL 8.0 Reference Manual :: 15.1.9 ALTER TABLE Statement](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html)
+
+## Postgres ON UPDATE
 
 The `ON UPDATE` clause is not supported in PostgreSQL. To achieve similar functionality, you can use a `BEFORE UPDATE` trigger to automatically update the `update_date` column whenever a row is modified. Here’s how you can create the table and the trigger:
 
@@ -88,7 +131,7 @@ EXECUTE FUNCTION update_timestamp();
 
 [Automatically updating a timestamp column in PostgreSQL using Triggers | by Avinash | Medium](https://aviyadav231.medium.com/automatically-updating-a-timestamp-column-in-postgresql-using-triggers-98766e3b47a0)
 
-### Redshift
+## Redshift
 
 ```sql
 CREATE TABLE public.test (id bigint identity(1, 1),
@@ -381,3 +424,7 @@ https://www.eversql.com/mysql-datetime-vs-timestamp-column-types-which-one-i-sho
 https://stackoverflow.com/questions/409286/should-i-use-the-datetime-or-timestamp-data-type-in-mysql
 
 https://www.c-sharpcorner.com/article/difference-between-mysql-datetime-and-timestamp-datatypes
+
+## Links
+
+- [optimizing-locking-operations](databases/sql-databases/mysql/optimizing-locking-operations.md)

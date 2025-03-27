@@ -168,3 +168,4 @@ This fast turnaround is particularly valuable in call quality monitoring, where 
 - [GitHub - openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper)
 - [GitHub - petewarden/spchcat: Speech recognition tool to convert audio to text transcripts, for Linux and Raspberry Pi.](https://github.com/petewarden/spchcat)
 - [The best dictation and speech-to-text software \| Zapier](https://zapier.com/blog/best-text-dictation-software/)
+- [REGAL \| The AI Agent Platform](https://www.regal.ai/)

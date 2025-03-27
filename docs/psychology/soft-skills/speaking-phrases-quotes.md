@@ -69,6 +69,8 @@ Greetings from Company!
 
 Kindly consider this email as a gentle reminder to please suggest how we can take the discussion forward.
 
+I wanted to check if there are any updates on this. Please let me know at your earliest convenience.
+
 ## Links
 
 - [asking-right-questions](psychology/soft-skills/asking-right-questions.md)

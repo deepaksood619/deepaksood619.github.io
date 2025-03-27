@@ -569,6 +569,7 @@ https://www.slideshare.net/deepaksood566/computer-science-career-guidance
 - [TechSangam - **Tech4Hack**](https://www.commudle.com/communities/tech4hack/events/techsangam)
 - [Nights Season 1!](https://www.commudle.com/communities/builders-space/events/the-nights-s1)
 - [Udaan 2K25](https://www.commudle.com/communities/gurugram-kotlin-user-group/events/udaan-2025)
+- [GenAI Hackathon | Deepak Sood](https://www.linkedin.com/posts/deepaksood619_hackathon-teamwork-innovation-activity-7309996694044086272-E4Vf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 
 ## Finding Meetups
 

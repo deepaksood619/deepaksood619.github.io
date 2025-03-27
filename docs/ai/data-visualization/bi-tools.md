@@ -110,6 +110,7 @@ DataIQ is a business intelligence platform designed to help organizations manage
 - [**Easier, faster, and more flexible line chart editing \| Datawrapper Blog**](https://www.datawrapper.de/blog/improved-line-chart-editing)
 - [Newsletter \| Datawrapper Blog](https://www.datawrapper.de/blog/newsletter)
 - [Examples of Datawrapper line charts - Datawrapper Academy](https://academy.datawrapper.de/article/147-examples-of-datawrapper-line-charts)
+- [My empty cells get displayed as zeros in tooltips](https://academy.datawrapper.de/article/271-my-empty-cells-get-displayed-as-zeros-in-tooltips)
 
 ## Others
 

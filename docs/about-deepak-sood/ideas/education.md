@@ -16,6 +16,21 @@ Highly personalized education for each person
 
 - [100xDevs](https://100xdevs.com/)
 
+## People
+
+- [linkedin.com/in/maheshwer-peri-1723ba3b/](https://www.linkedin.com/in/maheshwer-peri-1723ba3b/)
+- former president and publisher of the Outlook group
+- I am a dreamer. I dream of an equal world. A fair world. A world where every one has equal opportunities and a fair shot at fame. A world that is rational, questioning and has heaps of scientific temper co-existing with trust and faith. I want to create an enterprise that impacts, influences and transforms careers and lives.
+- I also believe that in a country like India, the only tool of empowerment is education. Good education can make billionaires out of paupers and bad education can do the opposite. If India has to claim its demographic dividend, we need to invest in our children, our youth through education. A misguided young population can quickly turn into a nightmare. I hope that I will be that spark that keeps fighting in small bits for India to be where it deserves. Dr. Man Mohan Singh and Dr.Kalam are my heroes – from how they were best students to become great leaders.
+- My ability is limited. My reach is limited. My influence is limited too. But the power of my dreams is powerful. And so, I created a platform, Careers360.com, where 400 million sessions happen every year; 60 million students and parents visit each year. 5 million students register and use our tools and products every year.
+- I am not a magician. I am a believer – in goodness, impact and change. I will fall. I will fail. But I will get up.
+- Because I believe in my idea and the change it can bring. If you are a believer to, feel free to join forces!
+- [Maheshwer Peri on how he won the legal battle against IIPM's Arindam Chaudhuri](https://scroll.in/article/805493/maheshwer-peri-on-how-he-won-the-legal-battle-against-iipms-arindam-chaudhuri)
+- [IIPM - Best only in claims?](https://www.careers360.com/articles/iipm-best-only-in-claims)
+- [Maheshwer Peri&#8217;s long way around](https://www.livemint.com/Specials/13TE2UEtexMf1GDeEt5rCP/Maheshwer-Peris-long-way-around.html)
+	- Peri is also something of a puritan. He is vegetarian, does not drink or smoke and avoids social occasions. His abstemious nature is a subject of bemusement among his friends.
+	- I will be the one to bell the cat. I am belling the cat
+
 ## Business
 
 - JEE Preparation
@@ -192,6 +207,7 @@ TODO
 - Youtube Learning (Experimental)
 - [Sakshm AI](https://sakshm.com/)
 - [**Sensai**](https://sensai.hyperverge.org/)
+- [Cadmus](https://cadmus.io/)
 
 ## Free Education with Boarding (Coaching)
 

@@ -60,6 +60,10 @@
 - [amazon-bedrock-samples/rag-solutions/contextual-chatbot-using-knowledgebase at main · aws-samples/amazon-bedrock-samples · GitHub](https://github.com/aws-samples/amazon-bedrock-samples/tree/main/rag-solutions/contextual-chatbot-using-knowledgebase)
 - [Create a Superpowered AI Chatbot: Integrating Tools with Amazon Bedrock Converse API - YouTube](https://www.youtube.com/watch?v=oaIAyYLuZQw)
 - [Setting up AWS Bedrock for API-based text inference \| by Péter Harang \| Medium](https://medium.com/@harangpeter/setting-up-aws-bedrock-for-api-based-text-inference-dc25ab2b216b)
+- [How content chunking works for knowledge bases - Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/kb-chunking.html)
+- [Amazon Bedrock Knowledge Bases now supports advanced parsing, chunking, and query reformulation giving greater control of accuracy in RAG based applications \| AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-knowledge-bases-now-supports-advanced-parsing-chunking-and-query-reformulation-giving-greater-control-of-accuracy-in-rag-based-applications/)
+- [Crawl web pages for your knowledge base - Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/webcrawl-data-source-connector.html)
+- [Retrieve data and generate AI responses with Amazon Bedrock Knowledge Bases - Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/knowledge-base.html)
 
 ### Web Crawl
 
