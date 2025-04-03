@@ -33,6 +33,16 @@
 
 ![LLM Working](../../media/llm-working.jpg)
 
+### Decoding Strategies
+
+- Greedy Search
+- **Beam search** in Large Language Models (LLMs) is a decoding strategy that explores multiple potential output sequences simultaneously, keeping track of the most promising "beams" (or sequences) at each step, to find the most likely output.
+- [Decoding Demystified : How LLMs Generate Text - III - DEV Community](https://dev.to/mahakfaheem/decoding-demystified-how-llms-generate-text-iii-3a0d)
+- [Decoding Strategies in Large Language Models – Maxime Labonne](https://mlabonne.github.io/blog/posts/2023-06-07-Decoding_strategies.html)
+- [Decoding Strategies in Large Language Models](https://huggingface.co/blog/mlabonne/decoding-strategies)
+- [Decoding Strategies: How LLMs Choose The Next Word](https://www.assemblyai.com/blog/decoding-strategies-how-llms-choose-the-next-word)
+- [Understanding greedy search and beam search \| by Jessica López Espejel \| Medium](https://medium.com/@jessica_lopez/understanding-greedy-search-and-beam-search-98c1e3cd821d)
+
 ## How to train your ChatGPT
 
 ### Stage 1: Pretraining
@@ -195,3 +205,4 @@ Ludwig enables you to apply state-of-the-art tabular, natural language processin
 - [Deep Dive into LLMs like ChatGPT - YouTube](https://youtu.be/7xTGNNLPyMI)
 - [How Do AI Agents Actually Work? - YouTube](https://youtu.be/ASqYh4g4dgA)
 - [What makes LLM tokenizers different from each other? GPT4 vs. FlanT5 Vs. Starcoder Vs. BERT and more - YouTube](https://youtu.be/rT6wVLEDC_w)
+- [**LLM Visualization**](https://bbycroft.net/llm)

@@ -36,6 +36,7 @@ In early career, taking bets vs random job hopping is critical
 ## Platform
 
 - BrainTrust
+- ByteByteGo Hiring Board
 - [Pesto Tech: Hire Top Remote Developers Using The World’s First AI Recruiter](https://pesto.tech/)
 - Hirist
 - https://tophire.co/home?

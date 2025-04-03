@@ -28,9 +28,7 @@
 ### Digital Trainings
 
 - Planning a Generative AI Project - https://explore.skillbuilder.aws/learn/course/external/view/elearning/17256/planning-a-generative-ai-project
-- Amazon Bedrock Getting Started - https://explore.skillbuilder.aws/learn/course/external/view/elearning/17508/amazon-bedrock-getting-started
 - Foundations of Prompt Engineering - https://explore.skillbuilder.aws/learn/course/external/view/elearning/17763/foundations-of-prompt-engineering
-- Building Generative AI Applications Using Amazon Bedrock - https://explore.skillbuilder.aws/learn/course/external/view/elearning/17904/building-generative-ai-applications-using-amazon-bedrock
 - Building Language Models on AWS https://explore.skillbuilder.aws/learn/course/external/view/elearning/17556/building-language-models-on-aws
 
 ### Blogs
@@ -51,24 +49,6 @@
 ### Hands-on
 
 [Build a question-answering bot using generative AI](https://explore.skillbuilder.aws/learn/course/external/view/elearning/17392/build-a-question-answering-bot-using-generative-ai) – Self-Paced Lab ( This is part of the AWS Skill Builder subscription Access this course and more, with an AWS Skill Builder subscription. Unlock hands-on training through immersive labs, games, challenges, and enhanced exam prep resources with a 7-day free trial. )
-
-## Bedrock
-
-- [Agents for Amazon Bedrock - Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/agents.html)
-- [How Agents for Amazon Bedrock works - Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/agents-how.html)
-- [amazon-bedrock-workshop/02\_KnowledgeBases\_and\_RAG/1\_managed-rag-kb-retrieve-generate-api.ipynb at a7e62b80669378de1bae414e0b646399c7934f8e · aws-samples/amazon-bedrock-workshop · GitHub](https://github.com/aws-samples/amazon-bedrock-workshop/blob/a7e62b80669378de1bae414e0b646399c7934f8e/02_KnowledgeBases_and_RAG/1_managed-rag-kb-retrieve-generate-api.ipynb)
-- [amazon-bedrock-samples/rag-solutions/contextual-chatbot-using-knowledgebase at main · aws-samples/amazon-bedrock-samples · GitHub](https://github.com/aws-samples/amazon-bedrock-samples/tree/main/rag-solutions/contextual-chatbot-using-knowledgebase)
-- [Create a Superpowered AI Chatbot: Integrating Tools with Amazon Bedrock Converse API - YouTube](https://www.youtube.com/watch?v=oaIAyYLuZQw)
-- [Setting up AWS Bedrock for API-based text inference \| by Péter Harang \| Medium](https://medium.com/@harangpeter/setting-up-aws-bedrock-for-api-based-text-inference-dc25ab2b216b)
-- [How content chunking works for knowledge bases - Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/kb-chunking.html)
-- [Amazon Bedrock Knowledge Bases now supports advanced parsing, chunking, and query reformulation giving greater control of accuracy in RAG based applications \| AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-knowledge-bases-now-supports-advanced-parsing-chunking-and-query-reformulation-giving-greater-control-of-accuracy-in-rag-based-applications/)
-- [Crawl web pages for your knowledge base - Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/webcrawl-data-source-connector.html)
-- [Retrieve data and generate AI responses with Amazon Bedrock Knowledge Bases - Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/knowledge-base.html)
-
-### Web Crawl
-
-- [Crawl web pages for your knowledge base - Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/webcrawl-data-source-connector.html)
-- [Implement web crawling in Amazon Bedrock Knowledge Bases \| AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/implement-web-crawling-in-knowledge-bases-for-amazon-bedrock/)
 
 ## Links
 

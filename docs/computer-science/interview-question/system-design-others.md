@@ -103,3 +103,5 @@ https://netflixtechblog.com/netflixs-viewing-data-how-we-know-where-you-are-in-h
 - [How Uber Uses Integrated Redis Cache to Serve 40M Reads/Second?](https://blog.bytebytego.com/p/how-uber-uses-integrated-redis-cache)
 - [System Design of a Delivery System like Zomato with @KeertiPurswani - YouTube](https://www.youtube.com/watch?v=nHh3DnjnPig&ab_channel=GauravSen)
 - [Google Borg: Billions of Distributed Linux Containers - YouTube](https://youtu.be/l35hqwTY5W0)
+- [How Netflix Stores 140 Million Hours of Viewing Data Per Day](https://blog.bytebytego.com/p/how-netflix-stores-140-million-hours)
+- [Facebook’s Database Handling Billions of Messages](https://blog.bytebytego.com/p/facebooks-database-handling-billions)

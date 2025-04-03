@@ -12,6 +12,7 @@
 	- Access to news
 	- MS Excel
 - [Investment Frequency Calculator](https://investcalc.github.io/)
+- [Free ETF Screener - Search and Analyze ETFs](https://stockanalysis.com/etf/screener/)
 
 ### Personal Finance Tools
 
@@ -56,9 +57,29 @@
 
 - [Commissions & Fees \| Interactive Brokers India Pvt. Ltd.](https://www.interactivebrokers.co.in/en/pricing/commissions-home.php?re=amer)
 
+#### Platforms
+
+- Client Portal - Web
+- IBKR Desktop - DesktopNew
+- IBKR Mobile - Mobile
+- Trader Workstation (TWS) - Desktop (Mosaic)
+	- [TWS Mosaic Highlights \| Interactive Brokers LLC](https://www.interactivebrokers.com/en/?f=%2Fen%2Fsoftware%2Ftws_mosaic_highlights.php)
+	- Get direct access to TWS trading, order, live quoting, technical research and analysis tools all in a single window.
+	- Customize Mosaic's workspace to suit your own trading needs by snapping your favorite TWS trading tools together.
+	- Use the Portfolio window for at-a-glance account summary and position detail, the Order Entry window to formulate and transmit orders instantly, and the Order Monitor to track and modify live orders and review filled and cancelled orders.
+	- Create sophisticated attached orders directly within the Mosaic Orders panel, including bracket, stop limit, profit taker, One Cancels Other, beta, fx order and pair hedging orders.
+	- Add multiple Watchlists to view groups of contracts and create customized Market Scanners.
+	- Add gradients, lines and bars to Mosaic Market Scanners for easy-to-spot trends and patterns.
+	- View interactive, customizable charts that support studies and trendlines.
+	- View real-time streaming general news that you can filter by subject, as well as real-time streaming news for a selected underlying.
+	- Subscribe to the Interactive Brokers Information System (IBIS) to enhance Mosaic with premium newswire and analyst research subscriptions from such tier-one providers as Reuters, Dow Jones, Morningstar and Zacks.
+- IBKR GlobalTrader - Mobile
+- IBKR APIs - Desktop
+- [Mutual Fund/ETF Replicator \| Interactive Brokers LLC](https://www.interactivebrokers.com/en/trading/mutual-fund-etf-replicator.php)
+
 ### Things to keep in mind
 
-- TCS of 20% on amount > 7 lakh per year
+- TCS of 20% on amount > 7 lakh per year (New 10 lakh per year)
 
 ## Links
 

@@ -97,25 +97,17 @@ https://trac.ffmpeg.org/wiki/Concatenate
 
 ## References
 
-https://www.wowza.com/docs/tutorials
-
-http://red5.org
-
-https://www.wowza.com/docs/how-to-publish-a-video-file-as-a-live-stream
-
-https://s3-ap-southeast-1.amazonaws.com/shivamexample/Test-Deepak/demo.mp4
-
-https://aws.amazon.com/cloudfront/streaming
-
-https://aws.amazon.com/answers/media-entertainment/live-streaming
-
-https://trac.ffmpeg.org/wiki/Map
-
-https://trac.ffmpeg.org/wiki/StreamingGuide
-
-https://trac.ffmpeg.org/wiki/Capture/Webcam
-
-[**https://go.bitmovin.com/ultimate-guide-container-formats**](https://go.bitmovin.com/ultimate-guide-container-formats)
+- https://www.wowza.com/docs/tutorials
+- http://red5.org
+- https://www.wowza.com/docs/how-to-publish-a-video-file-as-a-live-stream
+- https://s3-ap-southeast-1.amazonaws.com/shivamexample/Test-Deepak/demo.mp4
+- https://aws.amazon.com/cloudfront/streaming
+- https://aws.amazon.com/answers/media-entertainment/live-streaming
+- https://trac.ffmpeg.org/wiki/Map
+- https://trac.ffmpeg.org/wiki/StreamingGuide
+- https://trac.ffmpeg.org/wiki/Capture/Webcam
+- [EP139: Design a Live Streaming System](https://blog.bytebytego.com/p/ep139-design-a-live-streaming-system)
+- [**https://go.bitmovin.com/ultimate-guide-container-formats**](https://go.bitmovin.com/ultimate-guide-container-formats)
 
 ![image](../../media/Video-Live-Streaming-image3.jpg)
 

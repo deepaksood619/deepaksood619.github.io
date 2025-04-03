@@ -146,6 +146,8 @@ The concepts, components, and features of the platform are described in detail a
 
 [\[BUG\] Pipelines stuck due to high CPU usage of Mage scheduler · Issue #5345 · mage-ai/mage-ai · GitHub](https://github.com/mage-ai/mage-ai/issues/5345)
 
+[Multi-Tenant Foundation for Data Mesh Excellence in Mage Pro - Magical workflows for data engineering – Mage AI](https://www.mage.ai/events/multi-tenant-foundation-for-data-mesh-excellence-in-mage-pro)
+
 ## Flyte
 
 Build & deploy data & ML pipelines, hassle-free
@@ -178,3 +180,5 @@ Amazon Managed Workflows for Apache Airflow (MWAA) [What Is Amazon Managed Workf
 - [Amazon Managed Workflows for Apache Airflow: Getting Started - YouTube](https://www.youtube.com/watch?v=ZET50M20hkU)
 
 ![Amazon MWAA Architecture](../../media/Pasted%20image%2020240109123958.jpg)
+
+[GitHub - astronomer/airflow-ai-sdk: An SDK for working with LLMs and AI Agents from Apache Airflow, based on Pydantic AI](https://github.com/astronomer/airflow-ai-sdk)

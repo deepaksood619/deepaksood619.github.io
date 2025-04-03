@@ -20,6 +20,14 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 
 [Personal Finance - Mutual Funds - YouTube](https://www.youtube.com/playlist?list=PLX2SHiKfualGsjgd7fKFC-JXRF6vO73hk)
 
+## Sequence Risk / Sequence of Returns
+
+- [Don't Ignore Sequence Risk in Your Investment Strategy](https://freefincal.com/dont-ignore-sequence-risk-in-your-investment-strategy/)
+- [How sequence risk can hurt your retirement?](https://youtu.be/PvCrog4gwSI)
+- [what sequence of returns risk](https://www.youtube.com/watch?v=GruEpZFBvQg&ab_channel=freefincal-PrudentDIYInvesting)
+- [Why Understanding Sequence Risk is Crucial for Investing Success!](https://freefincal.com/sequence-returns-risk/)
+- [Why does the sequence of returns risk matter when there are periodic withdrawals I Ft Ravi Saraogi - YouTube](https://www.youtube.com/watch?v=nEbSOyKzpMc&ab_channel=ZerodhaVarsity)
+
 ## Others
 
 - Folks, I’ve some big plans of my own this year that’s going to suck the money out of my wallet. So, I’ll have to ditch this trip to Goa (adulting sucks). But come and hang out with me at home before you all go, and we’ll have a blast?
@@ -43,3 +51,4 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 	- FOMO financier
 	- Gig economy syndrome
 	- Legacy builder syndrome
+- [Is 20% equity enough for retirement?](https://freefincal.com/is-20-equity-enough-for-retirement/)

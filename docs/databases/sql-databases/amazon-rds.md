@@ -134,3 +134,4 @@ After you promote the read replica, it ceases to function as a read replica and 
 - [Amazon Aurora Costs](databases/sql-databases/aws-aurora/costs.md)
 - [Optimizing costs in Amazon RDS | AWS Database Blog](https://aws.amazon.com/blogs/database/optimizing-costs-in-amazon-rds/)
 - [Resolve an Amazon RDS instance that is in an incompatible-parameters state | AWS re:Post](https://repost.aws/knowledge-center/rds-incompatible-parameters)
+- [Troubleshoot high replica lag with Amazon RDS for MySQL \| AWS re:Post](https://repost.aws/knowledge-center/rds-mysql-high-replica-lag)

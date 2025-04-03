@@ -55,34 +55,29 @@ https://www.tidio.com/blog/chatbot-framework
 
 ## Conversation design workflow
 
-https://medium.com/voice-tech-podcast/conversation-design-workflow-how-to-design-your-chatbot-in-10-basic-steps-721652b056d
+- https://medium.com/voice-tech-podcast/conversation-design-workflow-how-to-design-your-chatbot-in-10-basic-steps-721652b056d
+- https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot
+- [Building a Cool Bot with Botpress](https://www.youtube.com/playlist?list=PLlJHGGklthGmFnbXHI6--kgJO3ZyFS9mD)
+- https://github.com/howdyai/botkit
+- https://github.com/botman/botman
+- https://github.com/wit-ai
 
-https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot
+### Botpress
 
-[**https://github.com/botpress/botpress**](https://github.com/botpress/botpress)
+[GitHub - botpress/botpress: The open-source hub to build & deploy GPT/LLM Agents ⚡️](https://github.com/botpress/botpress)
 
-docker run -d --name=botpress -p 3000:3000 botpress/server
+`docker run -d --name=botpress -p 3000:3000 botpress/server`
 
-[Building a Cool Bot with Botpress](https://www.youtube.com/playlist?list=PLlJHGGklthGmFnbXHI6--kgJO3ZyFS9mD)
-
-https://github.com/howdyai/botkit
-
-https://github.com/botman/botman
-
-https://github.com/wit-ai
+Alternative - [Chatrace - Create Messenger, WhatsApp, Instagram, SMS, Viber, Telegram and web AI chatbot for sales, marketing, and customer support](https://chatrace.com/)
 
 ## SAAS
 
-- **Dialogflow**
-
-[Dialogflow](https://dialogflow.com/docs/getting-started/basics) is a conversation building tool. It takes the human language and cleverly splits it into intents and arguments.
-
-- Agents
-- Intents
-- Entities
-- Contexts
-- Fulfillment
-
+- **Dialogflow** - [Dialogflow](https://dialogflow.com/docs/getting-started/basics) is a conversation building tool. It takes the human language and cleverly splits it into intents and arguments.
+	- Agents
+	- Intents
+	- Entities
+	- Contexts
+	- Fulfillment
 - Amazon Lex
 - yellowmessenger chatbot (Ex - https://www.gripinvest.in)
 - Kuba from LiveChat
@@ -91,22 +86,15 @@ https://github.com/wit-ai
 - Sales - https://www.heyday.ai
 - https://netcorecloud.com
 - https://getcogno.ai
-
-https://tiledesk.com
-
-https://www.dashbot.io
-
-Turn your unstructured chatbot data into immediate action. Identify unhandled and mishandled intents. Improve escalation and failure rates by more than 30%.
-
-https://simplify360.com/
-
-[Conversational AI Chatbot Software for Your Digital Assets | Engati](https://www.engati.com/)
+- https://tiledesk.com
+- https://www.dashbot.io - Turn your unstructured chatbot data into immediate action. Identify unhandled and mishandled intents. Improve escalation and failure rates by more than 30%.
+- https://simplify360.com/
+- [Conversational AI Chatbot Software for Your Digital Assets | Engati](https://www.engati.com/)
 
 ## Examples
 
-https://goldenpi.com
-
-https://www.wintwealth.com (WhatsApp Strategy)
+- https://goldenpi.com
+- https://www.wintwealth.com (WhatsApp Strategy)
 
 ## Use Cases
 

@@ -77,6 +77,7 @@ https://neilpatel.com/training/growth-hacking-unlocked/raise-money
 - Probation Period (3 months to analyze the company) - What if I didn't like the culture or anything else. I want to be in company for a long haul so I will first analyze the company.
 - Working hours (flexible timings)
 - **Laptop (System)**
+- What is the current and average attrition rate of the company?
 
 ## Legal Questions
 

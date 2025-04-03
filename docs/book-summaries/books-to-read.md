@@ -143,6 +143,7 @@
 - War is peace by George Orwell
 - Way of the Peaceful Warrior: A Book That Changes Lives - Dan Millman
 - What Extraordinary People Think: How to Cut The Busy B.S. and Life Your Kickass Life
+- What Is Free Speech?: The History of a Dangerous Idea
 - When Genius Failed: The Rise and Fall of Long-Term Capital Management Paperback by Roger Lowenstein
 - Why I am an Atheist - Bhagat Singh
 - Why nations fail

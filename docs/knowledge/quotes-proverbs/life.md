@@ -10,6 +10,8 @@ Life is a sine curve.
 
 Life begins where fear ends
 
+How you do one thing is how you do everything
+
 It's just an idea. It's not me.
 
 What a time to be alive.

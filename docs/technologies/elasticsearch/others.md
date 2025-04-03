@@ -1,5 +1,7 @@
 # Others
 
+- [Amazon Opensearch](cloud/aws/analytics/amazon-opensearch.md)
+
 ## Heartbeat
 
 Heartbeat is a lightweight daemon that you install on a remote server to periodically check the status of your services and determine whether they are available. Unlike [Metricbeat](https://www.elastic.co/guide/en/beats/metricbeat/7.1/index.html), which only tells you if your servers are up or down, Heartbeat tells you whether your services are reachable.
@@ -85,12 +87,3 @@ Please note that errors and transactions will only be sent to the APM Server if 
 https://www.elastic.co/guide/en/apm/agent/python/current/flask-support.html
 
 https://toptechtips.github.io/2019-07-08-add_python_code_to_apm
-
-## OpenSearch
-
-https://github.com/opensearch-project/OpenSearch
-
-### Elasticsearch vs Amazon OpenSearch
-
-- [Amazon OpenSearch vs. Elasticsearch | Elastic](https://www.elastic.co/amazon-opensearch-service)
-- [Elasticsearch vs. OpenSearch: Performance and resource utilization analysis | Elastic Blog](https://www.elastic.co/blog/elasticsearch-opensearch-performance-gap)

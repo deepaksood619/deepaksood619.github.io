@@ -85,7 +85,9 @@ an economic and political system in which a country's trade and industry are con
 
 ### Feudalism
 
-the dominant social system in medieval Europe, in which the nobility held lands from the Crown in exchange for military service, and vassals were in turn tenants of the nobles, while the peasants (villeins or serfs) were obliged to live on their lord's land and give him homage, labour, and a share of the produce, notionally in exchange for military protection.
+The dominant social system in medieval Europe, in which the **nobility held lands from the Crown** in exchange for military service, and vassals were in turn tenants of the nobles, while the **peasants (villeins or serfs)** were obliged to live on their lord's land and give him homage, labour, and a share of the produce, notionally in exchange for military protection.
+
+[Feudalism - Wikipedia](https://en.wikipedia.org/wiki/Feudalism)
 
 ### Imperialism
 
