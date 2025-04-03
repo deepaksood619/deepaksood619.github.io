@@ -169,6 +169,7 @@ Dollar-cost averaging (DCA) is an investment strategy in which an investor divid
 - ACORD Data Standards -  [ACORD - Wikipedia](https://en.wikipedia.org/wiki/ACORD)
 - Disposition - the natural qualities of a person’s character, a usual way of behaving
 - subordination agreement - A subordination agreement is a legal document that establishes the priority of debts owed to a borrower. It's also known as a priority agreement.
+- Hypothecation - Hypothecation refers to pledging an asset as collateral for a loan without transferring ownership, allowing the borrower to retain possession and use the asset while the loan is outstanding.
 
 ## Questions
 

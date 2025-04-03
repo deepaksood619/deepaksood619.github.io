@@ -30,3 +30,7 @@ Travel is fun, so it is not mysterious that we like it. What _is_ mysterious is 
 **Socrates said that philosophy is a preparation for death. For everyone else, there’s travel.**
 
 [The Case Against Travel | The New Yorker](https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel)
+
+## Links
+
+- [The Technium: 50 Years of Travel Tips](https://kk.org/thetechnium/50-years-of-travel-tips/)

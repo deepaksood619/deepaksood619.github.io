@@ -80,6 +80,7 @@ Note: You should have at least 8 GB of RAM available to run the 7B models, 16 GB
 - [AWS \| Community \| Deploy DeepSeek R1 on AWS Bedrock](https://community.aws/content/2sIJqPaPMtmNxlRIQT5CzpTtziA/deploy-deepseek-r1-on-aws-bedrock)
 - [Deploying DeepSeek R1 Model on Amazon Bedrock: A Comprehensive Guide - DEV Community](https://dev.to/aws-builders/deploying-deepseek-r1-model-on-amazon-bedrock-a-comprehensive-guide-39o0)
 - [DeepSeek R1 Theory Tutorial – Architecture, GRPO, KL Divergence - YouTube](https://youtu.be/K34gBCjzni8)
+- [EP148: DeepSeek 1-Pager - ByteByteGo Newsletter](https://blog.bytebytego.com/p/ep148-deepseek-1-pager)
 
 #### Dolphin-2.5x-mixtral
 

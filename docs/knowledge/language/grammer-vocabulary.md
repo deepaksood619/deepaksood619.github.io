@@ -209,6 +209,7 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - Ostensibly - as appears or is stated to be true, though not necessarily so; apparently.
 - Peruse - read (something), typically in a thorough or careful way.
 - debauchery - extreme indulgence in bodily pleasures and especially sexual pleasures : behavior involving sex, drugs, alcohol, etc. that is often considered immoral. … he was glad when others joined them, men and women; and they had more drink and spent the night in wild rioting and debauchery.
+- tout - to try to persuade people that somebody/something is important or valuable by praising them/it
 
 ### Shill / Shilling
 

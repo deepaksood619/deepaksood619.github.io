@@ -214,14 +214,30 @@ An ETF is called an exchange-traded fund since it's traded on an exchange just l
 	- Expense Ratio - 0.20%
 	- Assets - $326.68B
 	- The Invesco QQQ Trust Series I (QQQ) is an exchange-traded fund that is based on the NASDAQ 100 index, a modified-market-cap-weighted index of 100 NASDAQ-listed stocks. QQQ was launched on Mar 10, 1999 and is issued by Invesco.
+	- Tracks - NASDAQ-100
 	- [QQQ ETF Stock Price, Quote & Overview - Stock Analysis](https://stockanalysis.com/etf/qqq/)
 	- [QQQ vs. VGT — ETF Comparison - Stock Analysis](https://stockanalysis.com/etf/compare/qqq-vs-vgt/)
+- **QQQM**
+	- Assets - $39.37B
+	- Expense Ratio - 0.15%
+	- Launched in 2020, QQQM is a newer alternative aimed at long-term, buy-and-hold retail investors.
+	- Designed with a lower expense ratio than QQQ, QQQM provides the same exposure to the Nasdaq-100 but with slightly lower costs.
+	- QQQM is part of Invesco’s suite of “Q” products, offering a cost-effective way to gain access to high-growth, large-cap Nasdaq companies.
+	- [QQQ vs QQQM: Choosing the Best Nasdaq-100 ETF \| etf.com](https://www.etf.com/sections/etf-basics/qqq-vs-qqqm-choosing-best-nasdaq-100-etf)
 - VGT - Vanguard Information Technology ETF (AGT ARCA)
 	- Assets - $85.55B
 	- **Expense Ratio - 0.10%**
 	- The Vanguard Information Technology ETF (VGT) is an exchange-traded fund that mostly invests in information technology equity. The fund tracks a market cap-weighted index of companies in the US information technology sector. VGT was launched on Jan 26, 2004 and is issued by Vanguard.
+	- Pure Tech - Doesn't include Amazon and Alphabet (Google)
+	- Tracks - NASDAQ-Composite
 	- [VGT ETF Stock Price, Quote & Overview - Stock Analysis](https://stockanalysis.com/etf/vgt/)
 	- [QQQ vs. VGT — ETF Comparison - Stock Analysis](https://stockanalysis.com/etf/compare/qqq-vs-vgt/)
+- Vanguard Growth ETF (VUG)
+	- Assets - $159.91B
+	- Expense Ratio - 0.04%
+	- The Vanguard Growth ETF (VUG) is an exchange-traded fund that is based on the CRSP US Large Growth index. The fund tracks an index of large-cap stocks in the US. Holdings are selected and weighed based on growth factors. VUG was launched on Jan 26, 2004 and is issued by Vanguard.
+	- [VUG ETF Stock Price, Quote & Overview - Stock Analysis](https://stockanalysis.com/etf/vug/)
+	- [VUG vs. QQQ ETF comparison analysis \| ETF Central](https://www.etfcentral.com/compare-etfs/VUG-vs-QQQ)
 - Technology Select Sector SPDR Fund (XLK)
 	- Assets - $72.81B
 	- Expense Ratio - 0.09%
@@ -235,6 +251,12 @@ An ETF is called an exchange-traded fund since it's traded on an exchange just l
 	- [IBIT ETF Stock Price, Quote & Overview - Stock Analysis](https://stockanalysis.com/etf/ibit/)
 	- [How can Indians invest in Bitcoin ETFs in the US? BitBNS' Gaurav Dahake answers](https://economictimes.indiatimes.com/markets/expert-view/how-can-indians-invest-in-bitcoin-etfs-in-the-us-bitbns-gaurav-dahake-answers/articleshow/106944940.cms?from=mdr)
 	- [Indian investors can profit from Bitcoin ETFs. Here’s how - appreciate](https://appreciatewealth.com/blog/indian-investors-can-profit-from-bitcoin-etfs-heres-how#:~:text=Tax%20implications%20of%20investing%20in,to%20Bitcoin%20ETFs%20as%20well.)
+- Schwab U.S. Large-Cap Growth ETF (SCHG)
+	- Assets - $34.87B
+	- Expense Ratio - 0.04%
+	- The Schwab U.S. Large-Cap Growth ETF (SCHG) is an exchange-traded fund that mostly invests in large cap equity. The fund tracks the Dow Jones U.S. Large-Cap Growth Total Stock Market Index, which selects growth stocks from 750 of the largest U.S SCHG was launched on Dec 11, 2009 and is issued by Charles Schwab.
+- [Which Is The Best Growth ETF? (SCHG vs VUG vs QQQM) - YouTube](https://www.youtube.com/watch?v=S82pmnU1ZgQ&ab_channel=DannySully)
+- [Which should I add for growth? Qqqm, schg, or vug? : r/ETFs](https://www.reddit.com/r/ETFs/comments/1ciqx0v/which_should_i_add_for_growth_qqqm_schg_or_vug/)
 
 ### Others
 
@@ -243,18 +265,21 @@ An ETF is called an exchange-traded fund since it's traded on an exchange just l
 	- Expense Ratio - 0.09%
 	- The SPDR S&P 500 ETF Trust (SPY) is an exchange-traded fund that is based on the S&P 500 index. The fund tracks a market cap-weighted index of US large- and mid-cap stocks selected by the S&P Committee. SPY was launched on Jan 22, 1993 and is issued by State Street.
 	- [QQQ vs. SPY — ETF Comparison - Stock Analysis](https://stockanalysis.com/etf/compare/qqq-vs-spy/)
-- Vanguard Growth ETF (VUG)
-	- Assets - $159.91B
-	- Expense Ratio - 0.04%
-	- The Vanguard Growth ETF (VUG) is an exchange-traded fund that is based on the CRSP US Large Growth index. The fund tracks an index of large-cap stocks in the US. Holdings are selected and weighed based on growth factors. VUG was launched on Jan 26, 2004 and is issued by Vanguard.
-	- [VUG ETF Stock Price, Quote & Overview - Stock Analysis](https://stockanalysis.com/etf/vug/)
-	- [VUG vs. QQQ ETF comparison analysis \| ETF Central](https://www.etfcentral.com/compare-etfs/VUG-vs-QQQ)
-- Vanguard FTSE Developed Markets ETF (VEA)
+- Vanguard S&P 500 ETF (NYSEARCA: VOO)
+	- Assets - $587.16B
+	- Expense Ratio - 0.03%
+	- The Vanguard S&P 500 ETF (VOO) is an exchange-traded fund that is based on the S&P 500 index. The fund is passively managed to hold large-cap US stocks selected by an S&P Committee. VOO was launched on Sep 7, 2010 and is issued by Vanguard.
+	- [VOO ETF Stock Price & Overview](https://stockanalysis.com/etf/voo/)
+- **Vanguard FTSE Developed Markets ETF (VEA)**
 	- Assets - $139.70B
 	- Expense Ratio - 0.06%
 	- The Vanguard FTSE Developed Markets ETF (VEA) is an exchange-traded fund that mostly invests in total market equity. The fund is passively managed to provide exposure to the developed markets ex-US equity space. It holds stocks of any market capitalization. VEA was launched on Jul 20, 2007 and is issued by Vanguard.
 	- [VEA ETF Stock Price, Quote & Overview - Stock Analysis](https://stockanalysis.com/etf/vea/)
+- **Vanguard FTSE Emerging Markets ETF (VWO)**
+	- The Vanguard FTSE Emerging Markets ETF (VWO) is an exchange-traded fund that mostly invests in total market equity. The fund is passively managed to provide exposure to the emerging markets equity space. It holds stocks of any market capitalization. VWO was launched on Mar 4, 2005 and is issued by Vanguard.
+	- [VWO ETF Stock Price & Overview](https://stockanalysis.com/etf/vwo/)
 - **Vanguard Global Stock Index Fund (VT Index)**
+- [Vanguard Total International Stock ETF (VXUS) ETF Stock Price & Overview](https://stockanalysis.com/etf/vxus/)
 - MSCI World Index
 - MSCI All Country World Index
 - S&P Global Index

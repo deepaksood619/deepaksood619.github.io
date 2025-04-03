@@ -33,6 +33,8 @@ Delve into ClickHouse's support for vector search, enabling efficient handling o
 
 Presentation - [Automating the Future: Build Powerful AI Agents v2.0 - Google Slides](https://docs.google.com/presentation/d/16lprZX7OZhsgEzLQ96Dalx4NhdlxY0Yp30G2oyY9-1Y/edit?usp=drive_link)
 
+Session Recording - [Automating the Future \| Lab#4 \| Deepak Sood \| Nights S1 - YouTube](https://www.youtube.com/watch?v=hQzZbWez5Ko&ab_channel=Builder%27sSpace)
+
 Nights Season 1 is an exciting event where people from all fields come together to work on their ideas and create amazing projects. Whether you're into tech, design, business, entertainment, or robotics, there's a theme (or house) for everyone!
 
 [The Nights S1 - Builder's Space](https://www.commudle.com/communities/builders-space/events/the-nights-s1)
@@ -124,7 +126,7 @@ In this codelab, you build three Google Chat apps with Gemini to cover the three
 
 [Catalog \| Google Cloud Skills Boost](https://www.cloudskillsboost.google/catalog?keywords=&locale=&skill-badge%5B%5D=any&format%5B%5D=labs&language%5B%5D=en)
 
-## Head Mentor for HackHound 3.0 (28 Feb 2024)
+## Head Mentor & Judge for HackHound 3.0 (28 Feb 2024)
 
 ![Head Mentor for HackHound 3.0](../media/Screenshot%202025-02-27%20at%2012.22.55%20AM.jpg)
 
@@ -570,6 +572,7 @@ https://www.slideshare.net/deepaksood566/computer-science-career-guidance
 - [Nights Season 1!](https://www.commudle.com/communities/builders-space/events/the-nights-s1)
 - [Udaan 2K25](https://www.commudle.com/communities/gurugram-kotlin-user-group/events/udaan-2025)
 - [GenAI Hackathon | Deepak Sood](https://www.linkedin.com/posts/deepaksood619_hackathon-teamwork-innovation-activity-7309996694044086272-E4Vf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
+- [OpsTree Festivista 2025](https://www.linkedin.com/posts/deepaksood619_opstree-festivista2025-workhardplayhard-activity-7311022896640888832-iBBk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 
 ## Finding Meetups
 

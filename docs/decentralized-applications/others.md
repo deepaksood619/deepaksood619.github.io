@@ -133,3 +133,7 @@ https://gun.eco
 - Decentralized Marketplace
 - Decentralized Social Network
 - Decentralized Artificial Intelligence
+
+## Others
+
+- [Bluesky: The Decentralized Social Media App with 30 Million Users](https://blog.bytebytego.com/p/bluesky-the-decentralized-social)

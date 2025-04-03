@@ -161,7 +161,7 @@ This fast turnaround is particularly valuable in call quality monitoring, where 
 - [10 Best Call Monitoring Software in 2024 - Enthu AI](https://enthu.ai/blog/call-center-quality-monitoring-software/)
 - [GitHub - jiaaro/pydub: Manipulate audio with a simple and easy high level interface](https://github.com/jiaaro/pydub)
 
-### Speech to text Model - Whisper / Voice to Text
+## Speech to text Model - Whisper / Voice to Text / Audio to Text
 
 - [openai/whisper-large-v3 · Hugging Face](https://huggingface.co/openai/whisper-large-v3)
 - Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.
@@ -169,3 +169,16 @@ This fast turnaround is particularly valuable in call quality monitoring, where 
 - [GitHub - petewarden/spchcat: Speech recognition tool to convert audio to text transcripts, for Linux and Raspberry Pi.](https://github.com/petewarden/spchcat)
 - [The best dictation and speech-to-text software \| Zapier](https://zapier.com/blog/best-text-dictation-software/)
 - [REGAL \| The AI Agent Platform](https://www.regal.ai/)
+- [LiveKit](https://livekit.io/)
+- [Demo \| GigaML](https://demo.gigaml.com/)
+
+### [GitHub - freddyaboulton/fastrtc: The python library for real-time communication](https://github.com/freddyaboulton/fastrtc)
+
+Turn any python function into a real-time audio and video stream over WebRTC or WebSockets.
+
+- 🗣️ Automatic Voice Detection and Turn Taking built-in, only worry about the logic for responding to the user.
+- 💻 Automatic UI - Use the `.ui.launch()` method to launch the webRTC-enabled built-in Gradio UI.
+- 🔌 Automatic WebRTC Support - Use the `.mount(app)` method to mount the stream on a FastAPI app and get a webRTC endpoint for your own frontend!
+- ⚡️ Websocket Support - Use the `.mount(app)` method to mount the stream on a FastAPI app and get a websocket endpoint for your own frontend!
+- 📞 Automatic Telephone Support - Use the `fastphone()` method of the stream to launch the application and get a free temporary phone number!
+- 🤖 Completely customizable backend - A `Stream` can easily be mounted on a FastAPI app so you can easily extend it to fit your production application. See the [Talk To Claude](https://huggingface.co/spaces/fastrtc/talk-to-claude) demo for an example on how to serve a custom JS frontend.

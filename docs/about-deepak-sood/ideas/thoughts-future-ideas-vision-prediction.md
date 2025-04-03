@@ -82,6 +82,7 @@ The whole world is moving towards electric, but India is pushing more towards Hy
 8. We could replace all coal plants by 2050. My bet is on fusion.
 9. Music and entertainment could be plentiful, and personalised. Content creation would be commoditized, but it is not going to change the celebrity-consumer relationship. That "phenomenon" would still exist as a different experience.
 10. Carbon emissions could be a smaller issue (though still an issue) if we get the will to find and scale better technologies for cement, steel, agriculture, transportation, power production, HVAC, etc. Most such efforts will fail but enough will succeed to solve the problem of carbon emissions in the critical areas.
+11. GenAI - Vibe Coding
 
 [Here are Vinod Khosla's 10 predictions for the coming decades](https://www.cnbctv18.com/technology/here-are-vinod-khosla-10-predictions-for-the-coming-decades-18240961.htm)
 
@@ -124,6 +125,7 @@ Autonomous vehicle
 
 - Genius - single lone person doing core research
 - Manager - running multiple ai agents workforce
+- Cognitive collaborators
 
 ## Links
 
@@ -150,4 +152,5 @@ Autonomous vehicle
 - A very much problem with voice dictation is that, it beaches privacy, since others can hear what you are saying, but typing solves it, but typing is slow, so next evaluation is direct brain to text. What I am thinking can directly go to mobile or other devices i.e brain computer interface. Even a step further from one brain to others brain. That will be a leap in human communication.
 	- Speed of thought is faster than speed of speaking which is faster than speed of writing.
 	- Anyways writing is another set of thing that a child has to run, which he/she can skip all together. Atleast writing and typing can be skipped, and reading can stay for a bit long.
+	- [The case against conversational interfaces](psychology/learning/conversational-interfaces.md)
 - Most successful species is plants and organisms that humans are fully dependent on for living,since humans will make sure that they survive so humans can survive

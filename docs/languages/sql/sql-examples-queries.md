@@ -164,7 +164,7 @@ SELECT TABLE_SCHEMA, TABLE_NAME
 FROM information_schema.statistics
 WHERE index_type LIKE 'FULLTEXT%';
 
--- defragmentation
+-- defragmentation check free space that can be done after optimize
 select table_name,
 round(data_length/1024/1024) as data_length_mb,
 round(data_free/1024/1024) as data_free_mb

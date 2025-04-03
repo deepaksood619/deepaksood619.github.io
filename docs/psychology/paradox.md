@@ -381,6 +381,7 @@ One class of paradoxes in economics are the [**paradoxes of competition**](https
 - [**Intentionally blank page**](https://en.wikipedia.org/wiki/Intentionally_blank_page "Intentionally blank page"): Many documents contain pages on which the text "This page intentionally left blank" is printed, thereby making the page not blank.
 - [**Metabasis paradox**](https://en.wikipedia.org/wiki/Metabasis_paradox "Metabasis paradox"): Conflicting definitions of what is the _best_ kind of tragedy in [Aristotle's](https://en.wikipedia.org/wiki/Aristotle "Aristotle") _Poetics_.
 - [**Observer's paradox**](https://en.wikipedia.org/wiki/Observer%27s_paradox "Observer's paradox"): The outcome of an event or experiment is influenced by the presence of the observer.
+	- The observer's paradox, also known as the **Hawthorne effect**, describes a phenomenon where the act of observing a system or phenomenon changes the system itself, leading to biased results and making accurate study difficult.
 - [**Taeuber Paradox**](https://en.wikipedia.org/wiki/Taeuber_Paradox "Taeuber Paradox"): A paradox in demography in which lessening mortality for a particular cause results in a surprisingly small increase in life expectancy and no change in overall mortality.
 
 ![Region Beta Paradox](../media/Pasted%20image%2020240705003713.jpg)

@@ -80,3 +80,4 @@ H and DS use similar datasets, and DS is basically the next-gen version of H. Wh
 ## Links
 
 - [5 Free Datasets to Kickstart Your Machine Learning Projects Today - MachineLearningMastery.com](https://machinelearningmastery.com/5-free-datasets-to-kickstart-your-machine-learning-projects-today/)
+- [GitHub - zhukovyuri/VIINA: VIINA: Violent Incident Information from News Articles on the 2022 Russian Invasion of Ukraine](https://github.com/zhukovyuri/VIINA)

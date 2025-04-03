@@ -196,6 +196,10 @@ SSG tell us how much variation can be explained by coming from one of the four p
     - M is max serial number observed
     - N is number of observations
 
+### War Economy Trilemma
+
+The "war economy trilemma" refers to the challenges a country faces when trying to simultaneously maintain a strong military, a stable economy, and a high standard of living during a period of conflict, often requiring difficult choices and trade-offs.
+
 ## When predictions fail
 
 - Logistic Curve

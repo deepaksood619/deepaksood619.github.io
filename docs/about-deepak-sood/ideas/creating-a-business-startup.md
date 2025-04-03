@@ -11,7 +11,20 @@ You will have either of the 4 problems while building a startup
 - able to distribute your product at scale
 - ensuring you are able to monetise
 
-15 day tech startup launch plan:
+### Business Questions
+
+**There are two questions that every founder, product manager, or marketer needs to answer.**
+Most people fixate on the first. Others jump straight to the second.
+But the truth is — you need the answer to both.
+So what are those questions?
+_**‘What?’ and ‘How?’**_
+
+_What_ do you offer that makes people choose you over the competition?
+_What_ makes your product the obvious choice?
+_How_ will you deliver on that promise?
+_How_ do you scale, adapt, and keep customers coming back?
+
+### 15 day tech startup launch plan
 
 [Firstbase \| Incorporation, compliance, bookkeeping, and taxes – all in one place.](https://www.firstbase.io/)
 
@@ -329,3 +342,4 @@ Discovery commerce is the equivalent of 'I'm feeling lucky' in Google searches. 
 - [How To Start A Dev Tools Company | Startup School - YouTube](https://www.youtube.com/watch?v=z1aKRhRnVNk)
 - [Make ₹50 Lakhs in 50 Days | E-Commerce/Business Masterclass - YouTube](https://www.youtube.com/watch?v=N3rZ6glHKTQ)
 - [How Do Indian Founders make 100 Crores Selling Their Companies? - YouTube](https://www.youtube.com/watch?v=zrq7kczXpXQ)
+- [Personal finance tips for entrepreneurs and small business owners](https://freefincal.com/personal-finance-tips-for-entrepreneurs-and-small-business-owners/)

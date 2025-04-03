@@ -108,3 +108,6 @@ Dragonfly is a drop-in Redis replacement, designed to meet the performance and e
 3. [GitHub - paypal/junodb: JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.](https://github.com/paypal/junodb)
 4. [Dissecting Juno DB - YouTube](https://www.youtube.com/playlist?list=PLsdq-3Z1EPT3s3nghXpr0NDpgN3ZIoK4O)
 5. Aerospike
+6. [GitHub - DiceDB/dice: A drop-in replacement of Redis with SQL-based realtime reactivity.](https://github.com/dicedb/dice)
+
+![Cheatsheet on comparigin key-value stores](../../../media/Pasted%20image%2020250327225921.png)

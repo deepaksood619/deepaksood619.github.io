@@ -87,10 +87,10 @@ Highly personalized education for each person
 - Start with fundamentals
 - Combination of video/text + quizzes/hands-on/hackathons, etc
 - 8 hour you have to clock in your laptop screen
-   	- Full tracking on what you did
-   	- What errors you made, based on that your curriculum will be improved
-   	- Pomodoro
-   	- Repetitive learning / flashcards, etc
+	- Full tracking on what you did
+	- What errors you made, based on that your curriculum will be improved
+	- Pomodoro
+	- Repetitive learning / flashcards, etc
 - Full placement support
 
 ### Personalized Tutor / mentor
@@ -162,7 +162,10 @@ Audio visual communication.
 	- Onboarding questions to check the current level of person
 - Leaderboard
 
-TODO
+TODO - 2025-03-07, 2025-04-03
+
+- Endless Game Quiz + ELO Rating
+- With modules, different elo rating for each subject
 
 - Scoring Engine - ELO Rating - Research
 - smolagents, crewai - Research
@@ -208,6 +211,7 @@ TODO
 - [Sakshm AI](https://sakshm.com/)
 - [**Sensai**](https://sensai.hyperverge.org/)
 - [Cadmus](https://cadmus.io/)
+- [Infinity Learn: Your Pathway to Success in K-12, IIT-JEE & NEET Exams](https://infinitylearn.com/)
 
 ## Free Education with Boarding (Coaching)
 

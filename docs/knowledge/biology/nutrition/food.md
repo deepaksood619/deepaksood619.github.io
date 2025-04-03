@@ -100,6 +100,14 @@ Recommended Calorie intake - 2800
 5. Melatonin
 6. St John's Wort (flower)
 
+### Nitin Kamath's Supplements
+
+1. Vitamin D
+2. Omega 3
+3. Shilajit
+4. Ashwagandha
+5. Magnesium
+
 ## Pregnant / Pregnancies food
 
 Soya ataa + wheat ataa ( 1kg to 8 kg )
