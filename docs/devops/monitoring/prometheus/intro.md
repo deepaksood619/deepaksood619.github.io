@@ -38,6 +38,7 @@ A CNCF (Cloud Native Computing Foundation) project, is a systems and service mon
 
 - http://localhost:9090/metrics # for seeing all metrics that are currently scraped
 - http://localhost:9090/graph # for visualizing graphs for the metrics
+- [Introduction to Kubernetes Monitoring \| Grafana Cloud documentation](https://grafana.com/docs/grafana-cloud/monitor-infrastructure/kubernetes-monitoring/intro-kubernetes-monitoring/)
 
 ## Metrics
 

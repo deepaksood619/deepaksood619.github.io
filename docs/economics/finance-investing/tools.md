@@ -14,6 +14,36 @@
 - [Investment Frequency Calculator](https://investcalc.github.io/)
 - [Free ETF Screener - Search and Analyze ETFs](https://stockanalysis.com/etf/screener/)
 
+### Monitoring
+
+- Indian MFs
+- International MFs
+- Indian ETFs
+- International ETFs
+- Direct Stocks
+- Multiple zerodha account
+- Sector, Instrument
+
+#### Tools
+
+- MProfit
+- Simply Wall St (Best for International ETFs & Stocks)
+- TickerTape (Best for Indian ETFs & MFs)
+	- [Track and analyse your investments \| Portfolio by Tickertape](https://www.tickertape.in/portfolio/mutualfunds)
+- Kuvera
+- INDmoney
+- TickerTape
+- [Hey r/IndiaInvestments, how do you track you finances(bank accounts, investments)? : r/IndiaInvestments](https://www.reddit.com/r/IndiaInvestments/comments/18bgshh/hey_rindiainvestments_how_do_you_track_you/)
+- [GitHub - serversideup/financial-freedom: 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.](https://github.com/serversideup/financial-freedom)
+- [Portfolio Visualizer](https://www.portfoliovisualizer.com/)
+- [markets.sh](https://markets.sh/)
+- [PortfolioPilot: Your Personal AI Financial Advisor](https://portfoliopilot.com/)
+- [Portfolio Performance](https://www.portfolio-performance.info/en/)
+- [GitHub - engineerinvestor/Portfolio-Analysis: Open-source portfolio analysis tools for DIY investors and finance enthusiasts.](https://github.com/engineerinvestor/Portfolio-Analysis?tab=readme-ov-file)
+- [GitHub - teddy8193/portfolio-analysis-tool: Virualizing efficient frontier for portfolio analysis](https://github.com/teddy8193/portfolio-analysis-tool)
+- [Google sheet for Portfolio tracking : r/IndiaInvestments](https://www.reddit.com/r/IndiaInvestments/comments/ogem2j/google_sheet_for_portfolio_tracking/)
+	- [Portfolio Tracker (Public Version) v\_2.4 - Google Sheets](https://docs.google.com/spreadsheets/d/1gQMYtsffnWwwJHtZPk73ZSc9QLv0OU2Wu1pVQVzVOAA/edit?gid=1017136944#gid=1017136944)
+
 ### Personal Finance Tools
 
 - Andromoney

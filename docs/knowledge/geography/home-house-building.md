@@ -57,6 +57,9 @@ https://www.youtube.com/watch?v=dy81ldYQdgY
 
 ## Links
 
+- [living](knowledge/geography/living.md)
+- [new-home-place-house](knowledge/geography/new-home-place-house.md)
+
 - [NEVER TOO SMALL: Self Taught Interior Designer’s Apartment, Hong Kong - 48sqm/516sqft - YouTube](https://www.youtube.com/watch?v=5pvNYrOUTtM&ab_channel=NEVERTOOSMALL)
 - [New Mexico's 'Earthships' offer unique model for living off the grid - YouTube](https://www.youtube.com/watch?v=a_ZTiocr3LU&ab_channel=PBSNewsHour)
 - [House construction cost 2025 | घर बनाने का पूरा खर्च | Material + Labour cost | Duplex house rate - YouTube](https://www.youtube.com/watch?v=0GDb28Cetqk&ab_channel=CivilSitevisit)
