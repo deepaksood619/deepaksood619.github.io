@@ -108,6 +108,14 @@ The key to doing agile right is [embracing a mindset of continuous improvement](
 - **DevOps**
 - **Agile teams**
 
+## Do's and Don't for Stories, Tasks & Bugs
+
+![Do's & Don't for Stories](../../media/1%20Learning%20Bytes.png)
+
+![Do's & Don't for Tasks](../../media/2%20Learning%20Bytes.png)
+
+![Do's & Don't for Bugs](../../media/3%20Learning%20Bytes.png)
+
 ## Agile Manifesto
 
 - Individuals and interactions over processes and tools

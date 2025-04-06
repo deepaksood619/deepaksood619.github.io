@@ -25,7 +25,7 @@ Opstree implemented a **GenAI chatbot** using **AWS Bedrock**, **Anthropic Claud
 
 ![Architecture Overview](../../media/Screenshot%202025-03-27%20at%206.59.13%20PM.jpg)
 
-### Key Components:
+### Key Components
 
 1. **AWS Bedrock**: Hosts and runs the Claude/Sonnet LLM model for generating responses.
 2. **Web Crawling Layer**: Utilizes **AWS Web Crawler** to fetch and update knowledge from university websites dynamically.
@@ -85,10 +85,10 @@ Opstree implemented a **GenAI chatbot** using **AWS Bedrock**, **Anthropic Claud
 
 ## Results & Impact
 
-- **Latency reduced from ~7s to ~1.2s** (80% improvement).  
-- **Expanded chatbot knowledge base dynamically** using **web crawling**.  
-- **Increased response accuracy by 35%** with NLP-based semantic search.  
-- **Reduced API cost by 40%** using caching & LiteLLM optimizations.  
+- **Latency reduced from ~7s to ~1.2s** (80% improvement).
+- **Expanded chatbot knowledge base dynamically** using **web crawling**.
+- **Increased response accuracy by 35%** with NLP-based semantic search.
+- **Reduced API cost by 40%** using caching & LiteLLM optimizations.
 - **Enhanced user engagement** with **context-aware, real-time responses**.
 
 ![Enhancing Search and User Engagement](../../media/Screenshot%202025-03-27%20at%207.02.00%20PM.jpg)

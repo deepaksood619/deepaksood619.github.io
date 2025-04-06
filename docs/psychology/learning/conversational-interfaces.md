@@ -10,7 +10,7 @@ We’ve gone through this cycle a couple of times now: Virtual assistants (Siri)
 
 I’m not entirely sure where this obsession with conversational interfaces comes from. Perhaps it’s a type of anemoia, a nostalgia for a future we saw in StarTrek that never became reality. Or maybe it’s simply that people look at the term _“**natural** language”_ and think _“well, if it’s **natural** then it must be the logical end state”_.
 
-I’m here to tell you that it’s not.  
+I’m here to tell you that it’s not.
 
 ## Data transfer mechanisms
 
@@ -40,7 +40,7 @@ Natural language is great for data transfer that requires high fidelity (or as a
 
 My favorite example of truly effortless communication is a memory I have of my grandparents. At the breakfast table, my grandmother never had to ask for the butter – my grandfather always seemed to pass it to her automatically, because after 50+ years of marriage he just sensed that she was about to ask for it. It was like they were communicating telepathically.
 
-*That* is the type of relationship I want to have with my computer!  
+*That* is the type of relationship I want to have with my computer!
 
 ## Human Computer Interaction
 
@@ -70,7 +70,7 @@ _“But what about speech-to-text,”_ you might say, pointing to [reports](ht
 
 We keep telling ourselves that previous voice interfaces like Alexa or Siri didn’t succeed because the underlying AI wasn’t smart enough, but that’s only half of the story. The core problem was never the quality of the output function, but the inconvenience of the input function: A natural language prompt like _“Hey Google, what’s the weather in San Francisco today?”_ just takes 10x longer than simply tapping the weather app on your homescreen.
 
-LLMs don’t solve this problem. The quality of their output is improving at an astonishing rate, but the input modality is a step backwards from what we already have. Why should I have to describe my desired action using natural language, when I could simply press a button or keyboard shortcut? Just pass me the goddamn butter.  
+LLMs don’t solve this problem. The quality of their output is improving at an astonishing rate, but the input modality is a step backwards from what we already have. Why should I have to describe my desired action using natural language, when I could simply press a button or keyboard shortcut? Just pass me the goddamn butter.
 
 ## Conversational UI as Augmentation
 
@@ -100,7 +100,7 @@ For this future to become an actual reality, AI needs to work at the OS level. I
 
 The second thing we need to figure out is how we can compress voice input to make it faster to transmit. What’s the voice equivalent of a thumbs-up or a keyboard shortcut? Can I prompt Claude faster with simple sounds and whistles? Should ChatGPT have access to my camera so it can change its answers in realtime based on my facial expressions?
 
-Even as a secondary interface, speed and convenience is all that matters.  
+Even as a secondary interface, speed and convenience is all that matters.
 
 ## Closing thoughts
 

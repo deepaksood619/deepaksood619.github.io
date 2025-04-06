@@ -441,6 +441,7 @@ A person feeding themselves a vegetarian diet would need about an acre of land a
 - [Land in India: Market price vs. fundamental value](https://www.ideasforindia.in/topics/governance/land-in-india-market-price-vs-fundamental-value.html)
 - [How To Buy Agricultural Land In Haryana | Agri Farming](https://www.agrifarming.in/how-to-buy-agricultural-land-in-haryana)
 - [How to buy an Agricultural Land in India in 2023: Know laws, legal tips, eligibility](https://www.99acres.com/articles/legal-tips-for-buying-agricultural-land-in-india.html)
+- [Buying agricultural land? Know benefits and risks](https://housing.com/news/pros-cons-buying-agricultural-land/)
 
 ### Taxation
 
