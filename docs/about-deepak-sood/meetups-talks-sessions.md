@@ -43,6 +43,8 @@ Nights Season 1 is an exciting event where people from all fields come together 
 
 [#ai #aiagents #automation #cognitiveai #generativeai #futuretech \| Deepak Sood](https://www.linkedin.com/posts/deepaksood619_nightss1-inspirationunlocked-communityevent-activity-7307848100251910144-QGSC)
 
+[#nightss1 #nightss1 #inspirationunlocked #communityevent #aiagents #genai… \| Deepak Sood](https://www.linkedin.com/posts/deepaksood619_nightss1-nightss1-inspirationunlocked-activity-7314656775662706689-CCvG)
+
 ## Fareportal - Unlocking AI Meetup (8 March 2025)
 
 Presentation - [Fareportal - Automating the Future: Build Powerful AI Agents - Google Slides](https://docs.google.com/presentation/d/1yC45PpMcHqgvlVmCutI2LUF_jmuZM9fH0A1NIa665Q8/edit?usp=sharing)

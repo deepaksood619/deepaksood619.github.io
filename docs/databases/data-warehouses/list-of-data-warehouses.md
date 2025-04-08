@@ -12,7 +12,6 @@
 10. [MemSQL](databases/sql-databases/memsql/readme.md)
 11. [Presto](technologies/others/presto.md)
 12. FireBolt
-13. [SAS Viya: The High-Performance AI & Analytics Platform \| SAS India](https://www.sas.com/en_in/software/viya.html)
 
 ## Firebolt
 

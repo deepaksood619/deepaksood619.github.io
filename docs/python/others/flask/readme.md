@@ -252,8 +252,10 @@ python app.py
 
 ## Requirements.txt
 
+```txt
 Flask==1.1.1
 gunicorn[gevent]==19.9.0
+```
 
 ## Flask
 
@@ -271,81 +273,51 @@ https://blog.theodo.com/2020/05/debug-flask-vscode
 
 ## Flask Extensions / Libraries / Plugins
 
-## Flask-admin - https://flask-admin.readthedocs.io/en/latest
+1. Flask-admin - https://flask-admin.readthedocs.io/en/latest
+2. Flask-blueprint - [Modular Applications with Blueprints — Flask Documentation (3.1.x)](https://flask.palletsprojects.com/en/1.1.x/blueprints) [Use a Flask Blueprint to Architect Your Applications – Real Python](https://realpython.com/flask-blueprint)
+3. Flask-mail - https://pythonhosted.org/Flask-Mail
+4. Flask-principal - https://pythonhosted.org/Flask-Principal
+5. Flask-sslify - https://github.com/kennethreitz-archive/flask-sslify
+6. Flask-Uploads - https://github.com/maxcountryman/flask-uploads
 
-https://www.youtube.com/watch?v=ysdShEL1HMM
+### Rest Libraries
 
-## Flask-blueprint
+1. Flask-Restful - https://github.com/flask-restful/flask-restful
+2. Flask-restplus (DEAD) - https://flask-restplus.readthedocs.io/en/stable
+	1. https://medium.com/@preslavrachev/designing-well-structured-rest-apis-with-flask-restplus-part-1-7e96f2da8850
+3. Flask-Marshmallow - https://flask-marshmallow.readthedocs.io/en/latest
+	1. [Intro to Marshmallow: A Python Object Serialization Library - YouTube](https://www.youtube.com/watch?v=Gl-5m1_eVjI)
+4. Flask-WTF - https://flask-wtf.readthedocs.io/en/stable
 
-https://flask.palletsprojects.com/en/1.1.x/blueprints
+### Security / Auth
 
-https://realpython.com/flask-blueprint
+1. Flask-security - https://pythonhosted.org/Flask-Security
+	1. Flask-Security allows you to quickly add common security mechanisms to your Flask application.
+2. Flask-login - https://flask-login.readthedocs.io/en/latest
+	2. https://github.com/maxcountryman/flask-login
+3. Flask Praetorian - https://flask-praetorian.readthedocs.io/en/latest
+	1. This extension offers a batteries-included approach to security for your API.
+	2. [Flask-Praetorian Walkthrough: A Library for API Security With JSON Web Tokens (JWT) - YouTube](https://www.youtube.com/watch?v=WubG9iKXZ2g)
+4. Flask-User - https://github.com/lingthio/Flask-User
+	1. [https://flask-oidc.readthedocs.io/en/latest/](https://flask-oidc.readthedocs.io/en/latest/)
 
-## Rest Libraries
+### Databases
 
-## Flask-Restful - https://github.com/flask-restful/flask-restful
+1. Flask-SQLAlchemy - https://github.com/pallets/flask-sqlalchemy
+	1. [https://towardsdatascience.com/use-flask-and-sqlalchemy-not-flask-sqlalchemy-5a64fafe22a4](https://towardsdatascience.com/use-flask-and-sqlalchemy-not-flask-sqlalchemy-5a64fafe22a4)
+2. geo-alchemy2 - https://geoalchemy-2.readthedocs.io/en/latest
+3. Flask-PyMongo - https://github.com/dcrosta/flask-pymongo
+4. Flask-Caching - https://flask-caching.readthedocs.io/en/latest
+	1. [Intro to Flask-Caching - YouTube](https://www.youtube.com/watch?v=iO0sL6Vyfps)
+	2. [Pretty Printed - YouTube](https://www.youtube.com/c/PrettyPrintedTutorials/playlists)
 
-## Flask-restplus (DEAD) - https://flask-restplus.readthedocs.io/en/stable
-
-https://medium.com/@preslavrachev/designing-well-structured-rest-apis-with-flask-restplus-part-1-7e96f2da8850
-
-## Flask-Marshmallow - https://flask-marshmallow.readthedocs.io/en/latest
-
-https://www.youtube.com/watch?v=Gl-5m1_eVjI
-
-## Flask-WTF - https://flask-wtf.readthedocs.io/en/stable
-
-## Security / Auth
-
-## Flask-security - https://pythonhosted.org/Flask-Security
-
-Flask-Security allows you to quickly add common security mechanisms to your Flask application.
-
-## Flask-login - https://flask-login.readthedocs.io/en/latest
-
-## Flask-Login - https://github.com/maxcountryman/flask-login
-
-## Flask Praetorian - https://flask-praetorian.readthedocs.io/en/latest
-
-This extesion offers a batteries-included approach to security for your API.
-
-https://www.youtube.com/watch?v=WubG9iKXZ2g
-
-## Flask-User - https://github.com/lingthio/Flask-User
-
-[__https://flask-oidc.readthedocs.io/en/latest/__](https://flask-oidc.readthedocs.io/en/latest/)
-
-## Databases
-
-## Flask-SQLAlchemy - https://github.com/pallets/flask-sqlalchemy
-
-[__https://towardsdatascience.com/use-flask-and-sqlalchemy-not-flask-sqlalchemy-5a64fafe22a4__](https://towardsdatascience.com/use-flask-and-sqlalchemy-not-flask-sqlalchemy-5a64fafe22a4)
-
-## geo-alchemy2 - https://geoalchemy-2.readthedocs.io/en/latest
-
-## Flask-PyMongo - https://github.com/dcrosta/flask-pymongo
-
-## Flask-mail - https://pythonhosted.org/Flask-Mail
-
-## Flask-principal - https://pythonhosted.org/Flask-Principal
-
-## Flask-sslify - https://github.com/kennethreitz-archive/flask-sslify
-
-## Flask Click
+### Flask Click
 
 Click is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary. It's the "Command Line Interface Creation Kit". It's highly configurable but comes with sensible defaults out of the box.
 
 https://click.palletsprojects.com/en/7.x
 
-## Flask-Uploads - https://github.com/maxcountryman/flask-uploads
-
-## Flask-Caching - https://flask-caching.readthedocs.io/en/latest
-
-https://www.youtube.com/watch?v=iO0sL6Vyfps
-
-https://www.youtube.com/c/PrettyPrintedTutorials/playlists
-
-## Commands
+#### Commands
 
 ```bash
 routes  Show the routes for the app
@@ -427,9 +399,7 @@ db.session.commit()
    time.sleep(5)
 ```
 
-## Flask upload to s3
-
-https://www.zabana.me/notes/flask-tutorial-upload-files-amazon-s3
+[ww25.zabana.me/notes/flask-tutorial-upload-files-amazon-s3?subid1=20250409-0326-191e-8328-5f5958fc3a2c](https://www.zabana.me/notes/flask-tutorial-upload-files-amazon-s3)
 
 ## Resources
 

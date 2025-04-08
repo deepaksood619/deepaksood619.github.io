@@ -135,6 +135,8 @@ https://dev.mysql.com/doc/refman/8.0/en/optimize-table.html
 
 [The Impacts of Fragmentation in MySQL](https://www.percona.com/blog/the-impacts-of-fragmentation-in-mysql/)
 
+In MySQL RDS 8.0.36 this doesn't lock the tables
+
 ## Optimizing data size
 
 ### Table Columns

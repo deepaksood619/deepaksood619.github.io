@@ -74,6 +74,8 @@ https://www.planetscale.com/blog/videos-intro-to-vitess-its-powerful-capabilitie
 
 [PlanetScale: The world’s most advanced database platform](https://planetscale.com/)
 
+[How YouTube Supports Billions of Users with MySQL and Vitess](https://blog.bytebytego.com/p/how-youtube-supports-billions-of)
+
 ## Others
 
 - [What is MySQL High Availability? How to Choose a Solution](https://www.percona.com/blog/choosing-mysql-high-availability-solutions/)

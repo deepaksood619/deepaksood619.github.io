@@ -120,7 +120,14 @@ https://en.wikipedia.org/wiki/Project_management
 
 ## RACI Matrix
 
-A responsibility assignment matrix (RAM), also known as RACI matrix or linear responsibility chart (LRC), describes the participation by various [roles](https://en.wikipedia.org/wiki/Role) in completing [tasks](https://en.wikipedia.org/wiki/Task_(project_management)) or [deliverables](https://en.wikipedia.org/wiki/Deliverable) for a [project](https://en.wikipedia.org/wiki/Project) or [business process](https://en.wikipedia.org/wiki/Business_process). RACI is an [acronym](https://en.wikipedia.org/wiki/Acronym) derived from the four key responsibilities most typically used: **responsible, accountable, consulted, and informed**. It is used for clarifying and defining roles and responsibilities in cross-functional or departmental projects and processes
+A responsibility assignment matrix (RAM), also known as RACI matrix or linear responsibility chart (LRC), describes the participation by various [roles](https://en.wikipedia.org/wiki/Role) in completing [tasks](https://en.wikipedia.org/wiki/Task_(project_management)) or [deliverables](https://en.wikipedia.org/wiki/Deliverable) for a [project](https://en.wikipedia.org/wiki/Project) or [business process](https://en.wikipedia.org/wiki/Business_process). RACI is an [acronym](https://en.wikipedia.org/wiki/Acronym) derived from the four key responsibilities most typically used: **responsible, accountable, consulted, and informed**. It is used for clarifying and defining roles and responsibilities in cross-functional or departmental projects and processes.
+
+| RACI role       | Description                                                         |
+| --------------- | ------------------------------------------------------------------- |
+| **Responsible** | The person or people who complete the task                          |
+| **Accountable** | The person who approves or signs off on the task                    |
+| **Consulted**   | The person or people who provide advice or subject matter expertise |
+| **Informed**    | The person or people who are kept updated on progress               |
 
 https://en.wikipedia.org/wiki/Responsibility_assignment_matrix
 

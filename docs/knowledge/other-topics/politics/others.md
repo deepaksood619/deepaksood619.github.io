@@ -18,6 +18,13 @@ Shadow ban - less impressions
 
 [Ranks and Hierarchy of Indian Armed Forces | Explained | Army-Navy-Airforce - YouTube](https://www.youtube.com/watch?v=IOwOH69KDd8)
 
+[Height of Gundagardi - YouTube](https://www.youtube.com/watch?v=J1-wBqgJAnA&feature=youtu.be)
+
+- Political incentives
+- Aggressive reinforcement
+- Top down change - great man theory
+- Bottom up change
+
 ### Media / News
 
 ["While We Watched" Documentary Spotlights Journalist Ravish Kumar's Fight for Truth in Modi's India - YouTube](https://www.youtube.com/watch?v=TZRuxFnkVm8)

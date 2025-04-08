@@ -7,6 +7,7 @@
 - [Mutual Fund Indicators](economics/mutual-funds/mutual-funds-indicators.md)
 - [Debentures / Bonds](economics/mutual-funds/debentures-bonds.md)
 - [Index Investing / ETF](economics/mutual-funds/index-investing-etf.md)
+- [International ETFs](economics/mutual-funds/international-etfs.md)
 - [Nifty Indexes](economics/mutual-funds/nifty-indexes-indices.md)
 - [Equity Mutual Funds](economics/mutual-funds/equity-mutual-funds.md)
 - [Others](economics/mutual-funds/others.md)

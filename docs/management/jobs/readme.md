@@ -86,6 +86,7 @@ In early career, taking bets vs random job hopping is critical
 - **Andela**
 - **Uplers**
 - **Toptal**
+- Netguru - [Software Development Company \| Netguru](https://www.netguru.com/)
 - [Algora](https://console.algora.io/)
 - FlexJobs
 - We Work Remotely

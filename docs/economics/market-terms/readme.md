@@ -14,7 +14,15 @@
 
 ## Market timings
 
-### Equity
+### US Market
+
+| Market Hours for NYSE & NASDAQ | ET                 | IST                |
+| ------------------------------ | ------------------ | ------------------ |
+| Pre-market trading hours       | 4:00 AM to 9:30 AM | 1:30 PM to 7:00 PM |
+| Normal trading hours           | 9:30 AM to 4:00 PM | 7:00 PM to 1:30 AM |
+| After-hours trading            | 4:00 PM to 8:00 PM | 1:30 AM to 5:30 AM |
+
+### Indian Equity
 
 - 9 am to 9.15 am -- Pre market
 - 9.15 am to 3.30 pm -- Normal trading
