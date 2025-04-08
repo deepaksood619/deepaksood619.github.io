@@ -37,6 +37,8 @@ Flexi-cap and multi-cap funds both invest across large, mid, and small-cap stock
 
 [Multi-Cap Funds Vs Flexi-Cap Funds – How Are They Different?](https://groww.in/blog/multi-cap-funds-vs-flexi-cap-funds)
 
+[Top 5 flexi cap funds with returns up to 38% in 5 years as on Mar 26, 2025 \| EconomicTimes](https://economictimes.indiatimes.com/wealth/web-stories/top-5-flexi-cap-funds-with-returns-up-to-38-in-5-years-as-on-mar-26-2025/slideshow/119902124.cms?from=mdr)
+
 ## Active Equity MFs
 
 - PPFAS LTE

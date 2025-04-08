@@ -144,6 +144,8 @@ ATC - Adaptive Traffic Control
 
 [I made maps that show time instead of space - YouTube](https://www.youtube.com/watch?v=rC2VQ-oyDG0)
 
+**New -** Idea, check traffic congested road and AI should help streamline the flow using aerial photographs
+
 ## Mobile As Laptop
 
 1. Only desktop, keyboard and mouse needed

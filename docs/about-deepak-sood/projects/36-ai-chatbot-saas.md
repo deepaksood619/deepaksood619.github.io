@@ -9,7 +9,7 @@ Key analytics: total number of contacts, total conversations, bot chat count, hu
 ### 2. AI Chatbot Setup
 
 - RAG AI Chatbot (Retrieval-Augmented Generation) based on OpenAI GPT-4o(latest)
-	- No workflow needed 
+	- No workflow needed
 - Knowledge Base Setup:
 	- Text-based instructions or Agent instrucion and Business information only (no document uploads)
 	- Table (xls, csv) file upload for many product/service list
@@ -68,7 +68,8 @@ Key analytics: total number of contacts, total conversations, bot chat count, hu
 - User roles & permissions management
 - Subscription & billing management
 - Deactivate account
+
 ## Examples
 
-- Botpress.com 
+- Botpress.com
 - Chatrace.com

@@ -29,6 +29,11 @@
 - **So what?!**
 - **Let's go**
 - **Back to work, Back to work, Back to work**
+- [Facebook](https://www.facebook.com/reel/951196616619647)
+	- I am strong, I am kind, I am powerful
+	- I am brave, I am free, I am helpful
+	- With love in my heart and smile on my face
+	- I can handle anything, anytime, anyplace
 
 https://dariusforoux.com/positive-affirmations
 

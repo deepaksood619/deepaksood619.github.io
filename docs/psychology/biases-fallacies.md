@@ -466,6 +466,7 @@ And that misconception is called the broken window fallacy.
 - Two wrongs make a right
 - Vacuous Truth
 - Fallacy Fallacy
+- Nothing can replace the present and suffering in the present in hope of a better future is a fallacy
 
 [Every Logical Fallacy Explained in 11 Minutes - YouTube](https://www.youtube.com/watch?v=pCg-SNOteQQ&ab_channel=ThePaintExplainer)
 

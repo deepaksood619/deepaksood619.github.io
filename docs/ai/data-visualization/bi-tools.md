@@ -34,13 +34,13 @@ Overall, both Power BI and Google data studio are similar when it comes to data 
 3. Geckoboard
 4. Google Data Studio
 5. Domo
-6. SSRS (Sql Server Reporting Services)
-
-    SQL Server Reporting Services(SSRS)is a server-based report generating software system from [Microsoft](https://en.wikipedia.org/wiki/Microsoft). It is part of a suite of [Microsoft SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server) services, including SSAS ([SQL Server Analysis Services](https://en.wikipedia.org/wiki/SQL_Server_Analysis_Services)) and SSIS ([SQL Server Integration Services](https://en.wikipedia.org/wiki/SQL_Server_Integration_Services)).
-
+6. SSRS (Sql Server Reporting Services) - SQL Server Reporting Services(SSRS)is a server-based report generating software system from [Microsoft](https://en.wikipedia.org/wiki/Microsoft). It is part of a suite of [Microsoft SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server) services, including SSAS ([SQL Server Analysis Services](https://en.wikipedia.org/wiki/SQL_Server_Analysis_Services)) and SSIS ([SQL Server Integration Services](https://en.wikipedia.org/wiki/SQL_Server_Integration_Services)).
 7. Sisense - https://www.sisense.com
+8. [SAS Viya: The High-Performance AI & Analytics Platform \| SAS India](https://www.sas.com/en_in/software/viya.html)
 
 ![image](../../media/Data-Visualization_BI-Tools-image1.jpg)
+
+![Magic Quadrant for Augmented Data Quality Solutions](../../media/Pasted%20image%2020250408224032.png)
 
 https://medium.com/activewizards-machine-learning-company/a-comparative-analysis-of-top-6-bi-and-data-visualization-tools-in-2018-658490665973
 

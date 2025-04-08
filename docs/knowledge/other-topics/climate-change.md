@@ -34,6 +34,7 @@ https://www.pmfias.com/carbon-nitrogen-phosphorus-sulphur-cycle
 
 ## AQI  / Air Quality / Air Pollution
 
+- [Why India's Air is So Deadly (And Getting Worse!) \| Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=Fzs5fEbT4ic)
 - [The smog cloud affecting south Asia is now so big it can be seen from space.](http://youtube.com/post/Ugkx8EBGDYt_0gxEtEeKv2WO4Of7X4P4JZQJ)
 - [How This Couple Defeated Toxic Air Pollution To Breathe 'Mountain Air' While Staying In Delhi - YouTube](https://www.youtube.com/watch?v=3l8G2ZViF9A&ab_channel=Mint)
 - [Delhi's Air Quality Readings Top 1,700 as Residents Choke  | Vantage With Palki Sharma - YouTube](https://www.youtube.com/watch?v=C_cHsNWjBKE)

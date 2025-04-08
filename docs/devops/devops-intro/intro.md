@@ -49,6 +49,14 @@ Monitoring means knowing what's going on inside your system, how much traffic it
 
 **Remediation is a more thorough and long-term solution than repair**. Repair is for minor damage that doesn't have an underlying cause. Remediation is for major or recurring damage caused by an underlying issue.
 
+## AIOps
+
+- Automatic Root Cause Analysis
+- Time Travel Troubleshooting
+- ChatOps
+
+[Robusta](https://home.robusta.dev/)
+
 ## Learning / Roadmap
 
 1. devops-exercises (67.9k⭐)
