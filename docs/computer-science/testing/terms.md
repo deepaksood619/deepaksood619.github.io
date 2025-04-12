@@ -185,6 +185,7 @@ https://www.freecodecamp.org/news/whats-fuzzing-fuzz-testing-explained
 - [Modularity Driven Testing](https://www.tutorialspoint.com/software_testing_dictionary/modularity_driven_testing.htm)
 - [Monkey Testing](https://www.tutorialspoint.com/software_testing_dictionary/monkey_testing.htm)
 - [**Mutation Testing**](https://www.tutorialspoint.com/software_testing_dictionary/mutation_testing.htm)
+	- Involves intentionally introducing faults into code to assess the effectiveness of your test suite, helping identify blind spots in your testing strategy?
 
 https://medium.com/analytics-vidhya/unit-testing-in-python-mutation-testing-7a70143180d8
 

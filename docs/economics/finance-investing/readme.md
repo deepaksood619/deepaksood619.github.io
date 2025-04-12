@@ -8,7 +8,7 @@
 - [Stocks / Equity](economics/finance-investing/stocks-equity.md)
 - [Portfolio Management Services (PMS)](economics/finance-investing/portfolio-management-services-pms.md)
 - [Company Analysis](economics/finance-investing/company-analysis.md)
-- [Industry Sectors](economics/finance-investing/industry-sectors.md)
+- [Industry Sectors](economics/sector-analysis/industry-sectors.md)
 - [Quotes](economics/finance-investing/quotes.md)
 - [Company Management](economics/finance-investing/company-management.md)
 - [Indian Company Types](economics/finance-investing/indian-company-types.md)

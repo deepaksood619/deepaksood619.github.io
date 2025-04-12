@@ -113,3 +113,7 @@ from sklearn.preprocessing import StandardScaler
 scaler = StandardScaler()
 segmentation_std = scaler.fit_transform(df_segmentation)
 ```
+
+## Terms
+
+- "**Vanity metrics**" (e.g., total registered users) can be misleading, while "actionable metrics" (e.g., user retention rate provide insights for product improvement.

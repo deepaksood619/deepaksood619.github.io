@@ -137,6 +137,64 @@ https://freefincal.com/can-i-use-these-two-index-funds-for-retirement-instead-of
 3. Bond Fund - Short-term, Medium-term, Bank/PSU
 4. Gold Fund - Gold Fund, Gold ETF
 
+## Contrarian Investment Strategies
+
+### Losers Portfolio
+
+What if you invest in companies that give the worst returns? Can you beat the markets with a Loser Portfolio? Valuation guru Aswath Damodaran says it works in the US.  Is it possible with Indian stocks? Let’s find out.
+
+We did a simple exercise to put this theory to the test. Every year, we picked the worst-hit stocks (by price decline) and invested an equal amount in each. The idea was simple: We wanted to check if big losers bounce back.
+
+First, we selected the 35 biggest losers of FY15 (Apr 1, 2014 - Mar 31, 2015). Invested Rs 10,000 in each of them on Apr 1, 2015. Total investment = Rs 3.5 lakh. A year later (by Mar 31, 2016), the returns were 21.7%. How did the BSE 500 fare? It was down 7.8%. We repeated this exercise for the next financial year. We invested Rs 10,000 each in 35 stocks that fell the most in FY16. The investment was done on Apr 1, 2016. The returns came out to be 53.7% vs BSE 500’s 24.0%. We repeated this exercise for the next 8 years. Out of 10 years, the loser portfolio did better than the BSE 500 in 8 years. Average 10-year returns of the portfolio = 31.5%. This was much higher than the average 10-year BSE 500 returns of 14.3%. To put these returns into context, here’s how the portfolio grew: The ‘Loser Portfolio’ grew to ₹45.9 lakh.
+
+If you had invested in the BSE 500, it would have grown to ₹40 lakh. We also checked this strategy for buy & hold. Basically, we kept on holding the initial 35 stocks and added new loser stocks every year.
+
+Here’s how the numbers stack up:
+
+- Total investment = ₹35 lakh
+- Final portfolio value = ₹2.4 crore.
+- BSE 500 = ₹73.3 lakh
+
+Does this strategy ONLY work for a portfolio of 35 stocks? Not really. We also used this strategy with a portfolio of 20, 15, and 10 worst-performing stocks. Surprisingly, every portfolio beat the benchmark over the 10-year horizon. Why does this work?
+
+There are possibly two factors at play.
+
+- Mean Reversion
+- Contrarian Approach
+
+In his book Investment Fables, Damodaran explains that if the price of a stock is down, it should generally rise to its long-term average.  Secondly, when investing in a loser's portfolio, you are generally acting against the crowd. In a way, you are taking a contrarian bet.
+If you plan to use this strategy, here are some smart filters that can help:
+
+- Consider a portfolio of losers
+- Filter based on market cap to avoid illiquid stocks
+- Cap loss % to avoid stocks with structural issues
+
+Let's understand them one by one.
+
+#### Portfolio Approach
+
+- Well, this strategy works best in a portfolio approach.
+- Why? Not all the flops of last year give stellar returns in following years.
+- But the few that do bounce back often rally so hard, they end up driving the entire portfolio’s returns on their own. (See 5th image)
+
+#### Filtering Market Cap
+
+- We only picked stocks with a market cap above ₹1,000 crore.
+- Why? Because below ₹1,000 cr, companies are often illiquid (hard to buy/sell) and highly volatile.
+
+#### Capping Loss
+
+- We avoided companies that fell more than 50%, as such sharp declines often signal deeper issues like poor management or structural problems.
+- One important caveat: survivorship bias.
+- Our analysis includes only those companies that are still around today.
+- But some of the biggest losers may have disappeared—delisted, merged, or gone bust.
+
+So, this is one risk you should keep in mind with this strategy.
+
+- [I Made 38% Return with LOSERS PORTFOLIO \| Contrarian Investing Strategy \| Aswath Damodaran - YouTube](https://www.youtube.com/watch?v=U6T4FqBOeEQ)
+- [8 Contrarian Investing Strategies \| 31% Return from "Portfolio of Losers" \| Contra Mutual Funds - YouTube](https://www.youtube.com/watch?v=EtuJa-TnSc4)
+- [Post from ET Money - YouTube](http://youtube.com/post/UgkxLXxgFaXKXbiNqK8BdW8VChMlG1-ZpePa?si=VP4Nwe3TRLIu38V_)
+
 ## Savings
 
 1. Equity-oriented Mutual funds (50%)

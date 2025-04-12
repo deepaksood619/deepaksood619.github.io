@@ -24,6 +24,11 @@
 - Multiple zerodha account
 - Sector, Instrument
 
+#### Metrics
+
+- [Track trading and investing returns accurately with Zerodha's new Portfolio Performance Curve - YouTube](https://www.youtube.com/watch?v=2xHXBnrLbgw)
+- XIRR
+
 #### Tools
 
 - MProfit
@@ -86,6 +91,8 @@
 #### Commissions
 
 - [Commissions & Fees \| Interactive Brokers India Pvt. Ltd.](https://www.interactivebrokers.co.in/en/pricing/commissions-home.php?re=amer)
+- Charges - 1 Dollar per trade
+- Fees are on top, same currency as the stock you bought. Run a daily activity report next day for more details.
 
 #### Platforms
 

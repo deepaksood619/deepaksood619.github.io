@@ -4,6 +4,8 @@
 
 [Architectural Digest - YouTube](https://www.youtube.com/@Archdigest)
 
+**People spend more on their own home, so cost of living increases**
+
 Housing isn’t a great investment but for most people, it’s the best investment they will ever make because it’s the only asset they will leave alone and let compound for 10, 20, 30 years.
 
 ## Questions
@@ -239,7 +241,7 @@ https://freefincal.com/real-estate-investing-practical-aspects-retail-investors-
 
 Life is currently too dynamic to plan very super long term, so live short term happy cycles
 
-Try to create a family life wherever noone is dependent on me, so I can be free and do whatever I want
+Try to create a family life wherever no one is dependent on me, so I can be free and do whatever I want
 
 Therefore you need a lot of money
 
@@ -289,11 +291,11 @@ Live long enough so someone finds a cure to aging
 For papa - find hobby
 For maa - find hobby
 
-Children can be a gateway to everyone's life
-Start with tution, speak to mother, than to father
-Give best education
-Slowly takeover the education full time
-Close or tieup with other schools
+- Children can be a gateway to everyone's life
+- Start with tution, speak to mother, than to father
+- Give best education
+- Slowly takeover the education full time
+- Close or tieup with other schools
 
 ### New Flats
 
@@ -326,19 +328,13 @@ Close or tieup with other schools
 
 ## Buying vs Renting Home / Buy vs Rent
 
-People spend more on their own home, so cost of living increases
-
-Unrecoverable cost of owning vs buying
-
-Property Taxes, Maintenance costs, cost of capital
-
-Take the value of the home that you are considering multiply by 5% and divide by 12
-
-**Never buy a home, don't buy a land too**
-
-- **Land is not that scarce, world has too much land (Africa is 9 times of India)**
-- because house depreciates in value, but land appreciates in value
-- land is a commodity, house is a consumer good
+- People spend more on their own home, so cost of living increases
+- If you have a small kid, live in rented home, so you don't care more for walls, etc
+- Unrecoverable cost of owning vs buying
+	- Property Taxes, Maintenance costs, cost of capital
+- Take the value of the home that you are considering multiply by 5% and divide by 12
+- **Never buy a home, don't buy a land too**
+	- **Land is not that scarce, world has too much land (Africa is 9 times of India)** because house depreciates in value, but land appreciates in value land is a commodity, house is a consumer good
 
 ### Links
 

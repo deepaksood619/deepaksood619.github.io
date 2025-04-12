@@ -28,7 +28,48 @@ Note that if your schema has foreign keys then Gh-ost may not operate cleanly, a
 
 A ghost table is a database table that is no longer in use but still takes up space. Ghost tables are often created during schema changes or data migrations
 
-### Links
+## Commands
+
+```bash
+wget https://github.com/github/gh-ost/releases/download/v1.1.0/gh-ost_1.1.0_amd64.deb
+
+sudo dpkg -i gh-ost_1.1.0_amd64.deb
+
+SHOW VARIABLES LIKE '%binlog_row_image%';
+# this should be full instead of minimal, In RDS no restart required for this change, it's a dynamic variable
+```
+
+```bash
+nohup gh-ost \
+--host=10.0.40.5 \
+--user=username \
+--password='password' \
+--database=db_name \
+--table=users \
+--alter="ADD COLUMN enc_uid VARCHAR(225), ADD INDEX idx_enc_uid (enc_uid)" \
+--discard-foreign-keys \
+--skip-foreign-key-checks \
+--postpone-cut-over-flag-file=./ghost-postpone.flag \
+--serve-socket-file=./ghost_migration.sock \
+--initially-drop-ghost-table \
+--replica-server-id=13 \
+--chunk-size=1000 \
+--allow-on-master \
+--execute > gh-ost.log 2>&1 &
+```
+
+```sql
+-- ghc table has progress information
+select * from _users_ghc;
+-- gho table has actual data with new column
+select * from _users_gho;
+
+-- cleanup if failure before restarting ghost command
+drop table _users_ghc;
+drop table _users_gho;
+```
+
+## Links
 
 https://github.com/github/gh-ost
 
@@ -39,3 +80,5 @@ https://www.infoworld.com/article/3241730/top-5-open-source-tools-for-mysql-admi
 [How we Altered a MySQL Table with 50 Million Rows without Downtime using gh-ost - Browntape](https://browntape.com/how-we-altered-a-mysql-table-with-50m-rows-without-downtime-with-gh-ost/)
 
 Alternatives - [GitHub - cashapp/spirit: Online Schema Change Tool for MySQL 8.0+](https://github.com/cashapp/spirit)
+
+[Alter Schema With gh-ost](https://dnisha.github.io/mynotes/Production-grade-MYSQL-DBA/Alter-Schema-With-gh-ost)

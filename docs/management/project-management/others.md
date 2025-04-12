@@ -2,10 +2,13 @@
 
 ## Tools
 
+- [GitHub - **makeplane/plane**: 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.](https://github.com/makeplane/plane)
 - JIRA
 - [Linear](https://linear.app/)
     - [Linear Method - Practices for Building](https://linear.app/method)
     - [Linear Documentation](https://linear.app/docs)
+    - 250 issue limit
+- [project-product-business-tools-saas](management/project-product-business-tools-saas.md)
 
 ## Company Pulse
 

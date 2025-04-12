@@ -36,6 +36,8 @@ What gets measured gets controlled and improved
 
 Buck stopper - Buck stops here
 
+Kickbacks
+
 All rumors are false until officially denied.
 
 Don’t look for the needle in the haystack. Just buy the haystack! -- John C. Bogle
