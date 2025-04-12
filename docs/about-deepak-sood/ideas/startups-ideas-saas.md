@@ -37,12 +37,26 @@ Microproducts - [How I Sold My App For $30,000 In 4 Days | GrowthX Insider - You
 - Subjective Paper scoring using chatgpt
     - Coding using chatgpt and not only coding for functions but full repositories. Having context of whole repository and tell which file and what line to change
 - During interviews, automatic captions can be sent to chatgpt for giving answers directly
-- AI Manager (single person can manage large number of people using Tech)
 - Ai hiring - Hiring Portal
     - Candidates agreement using ai
     - Coding test taking platform end to end, free of cost, very cost competitive
     - Something like Turing
 - One time payment ChatGPT (API sharing agreement)
+
+#### AI Manager
+
+- Single person can manage large number of people using Tech
+- AI Scrum master
+	- Run daily scrum
+	- Asks for what you have done yesterday, what you have done today, and do you have any blockers
+	- Voice to text and vice versa
+	- Asks questions and make sure employees are progressing
+	- Updates tasks
+	- Reminders for no-show
+	- Ask team to be on-time
+	- System Design, Architect
+	- Documentation
+	- Vision
 
 #### One tool where you can do everything
 
