@@ -1,21 +1,5 @@
 # Industry Sectors
 
-- Communication Services
-- Consumer Discretionary
-- Consumer Staples
-- Energy
-- Financials
-- Health Care
-- Industrials
-- Information Technology
-- Materials
-- Real Estate
-- Utilities
-
-## Industry Groups
-
-https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard
-
 ## Five Fusty Sectors
 
 - manufacturing, engineering and infrastructure

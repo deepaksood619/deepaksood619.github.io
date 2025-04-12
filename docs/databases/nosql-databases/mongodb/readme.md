@@ -1,7 +1,7 @@
 # MongoDB
 
 - [MongoDB Intro](databases/nosql-databases/mongodb/intro.md)
-- [Overview](overview)
+- [Overview](databases/nosql-databases/mongodb/overview.md)
 - [Indexes](databases/nosql-databases/mongodb/indexes.md)
 - [Data Types](databases/nosql-databases/mongodb/data-types.md)
 - [Read / Write Concern](databases/nosql-databases/mongodb/read-write-concern.md)

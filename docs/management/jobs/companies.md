@@ -109,6 +109,8 @@
 - Wells Fargo
 - Druva
 
+[wtf actually are Hedge Funds??? - YouTube](https://www.youtube.com/watch?v=ERV8TNe0Pl0)
+
 ### Travel
 
 - Airbnb

@@ -4,6 +4,8 @@
 
 Communication is the key
 
+It's a good problem to have
+
 Communication isn't the key, comprehension is. You can communicate all you want, but if they don't understand you, it won't reach them the way you need it to.
 
 Communication is like salt, a little more or less, both the dish and the project is spoiled.

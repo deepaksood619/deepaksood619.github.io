@@ -4,7 +4,7 @@
 
 ## Annual Returns
 
-## Trailng Returns
+## Trailing Returns
 
 Helps investors measure the average annual returns between 2 dates
 

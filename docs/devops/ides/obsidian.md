@@ -193,6 +193,7 @@ Extensions that helps make obsidian better
 - [GitBook - Where technical teams document](https://www.gitbook.com/)
 - https://orgmode.org
 - https://www.orgroam.com
+- AppFlowy - Open-source alternative to Notion
 
 ## Others
 

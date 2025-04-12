@@ -1,6 +1,6 @@
 # Django
 
-- [Overview](overview)
+- [Overview](python/django/overview.md)
 - [Architecture](python/django/architecture.md)
 - [Django Template Language](django-template-language)
 - [Commands](python/django/commands.md)

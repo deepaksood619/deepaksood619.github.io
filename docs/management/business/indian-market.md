@@ -13,4 +13,4 @@ https://www.avendus.com/india/d2c-brands-report
 
 ## Links
 
-[Indian Industries Sectors](economics/finance-investing/industry-sectors.md)
+[Indian Industries Sectors](economics/sector-analysis/industry-sectors.md)
