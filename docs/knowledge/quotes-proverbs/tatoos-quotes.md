@@ -76,7 +76,7 @@ Annus horribilis - that's Latin for "a horrible year."
 
 nomen est omen - true to its name - the name is a sign - [Nominative determinism - Wikipedia](https://en.wikipedia.org/wiki/Nominative_determinism)
 
-Sleep to death
+Somnus ad mortem - Sleep to death
 
 Bellum omnium contra omnes (the war of all against all)
 
@@ -84,6 +84,8 @@ Monkey see, monkey do
 
 _**Homo faber**_ ([Latin](https://en.wikipedia.org/wiki/Latin_language "Latin language") for '[Man](https://en.wikipedia.org/wiki/Human_being "Human being") the Maker') is the concept that human beings are able to control their fate and their environment as a result of the use of tools.
 
-[Sine qua non - Wikipedia](https://en.wikipedia.org/wiki/Sine_qua_non)
+[Sine qua non - Wikipedia](https://en.wikipedia.org/wiki/Sine_qua_non) - without which it could not be, it is an indispensable and essential action, condition, or ingredient.
 
 de minimis non curat lex - which means that the law does not bother with small matters.
+
+ab initio - from the beginning

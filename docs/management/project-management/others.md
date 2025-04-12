@@ -8,6 +8,9 @@
     - [Linear Method - Practices for Building](https://linear.app/method)
     - [Linear Documentation](https://linear.app/docs)
     - 250 issue limit
+- [Overview - Redmine](https://www.redmine.org/)
+	- Redmine is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database.
+	- [Redmine - Project management and Application Management ? - Redmine](https://www.redmine.org/boards/1/topics/55710)
 - [project-product-business-tools-saas](management/project-product-business-tools-saas.md)
 
 ## Company Pulse

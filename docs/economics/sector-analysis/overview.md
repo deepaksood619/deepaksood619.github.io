@@ -1,22 +1,106 @@
 # Overview
 
+## What is sector analysis?
 
+Sector analysis involves looking for factors, features, events, and metrics that impact the businesses in a given sector. A factor might positively impact one sector while a negative impact on another. The idea of sector analysis hinges on the fact that certain aspects or events are specific to sectors and do not impact the overall market.
+
+## Different Approaches for Different Sectors
+
+No two sectors are the same; therefore, no two sectors can be analyzed the same way. Banks, for instance, are analyzed using key performance indicators such as NPAs, capital adequacy ratios, and interest margins. Insurance companies are analyzed for solvency ratio, claims settlement ratio, expense ratio, persistence ratio, etc. Airlines look at revenue per seat kilometer, cost per seat kilometer, fuel costs, and occupancy rates to understand performance. These metrics depict the operational efficiency of the players in an industry and how those players stack against each other.
+
+For industries in the heavy manufacturing space – cement, steel, aluminum, and the like – production capacity, production volume, and sales volume are important comparables. Volume metrics are significant for automobiles and electronics too. Companies in FMCG, or Fast Moving Consumer Goods, focus significantly on distribution, brand awareness, packaging, etc.
+
+When an investor begins studying a sector, understanding the value chain could be a good starting point. A study of the value chain provides more insights into a particular sector’s unique dynamics. The exercise could also unearth certain industry players’ competitive advantages or disadvantages.
+
+## What is a value chain? 
+
+Simply put, a value chain begins with the sourcing of raw materials and goes up to the point of end consumption. For example, the textile industry’s value chain would include fiber production, spinning yarn, fabric production, dying and printing, garment manufacturing, packaging, distribution, and retail. Cement’s value chain starts with limestone mining, followed by clinkerization, blending, grinding, packaging, and distribution. This value chain might be extended if the cement manufacturer processes it further into ready-mix concrete (RMC) before selling it in the market.
+
+Dissecting the value chain in this manner enables an investor to identify which steps drive costs or improve or hamper productivity. A value chain typically has many steps. Here, the investor must put on a business owner’s hat to understand what steps along the value chain add value to the business and what do not. Cement companies generally own the limestone mines and all the processes up to distribution. The cement industry is predominantly vertically integrated. Let me introduce three new concepts: Vertical Integration, Backward Integration, and Forward Integration.
+
+### Vertical Integration
+
+A company is considered vertically integrated if it owns several operations across the value chain. As mentioned above, cement companies carry out all the processes, from limestone mining to cement production and distributing it to customers. Cement makers might go further and even convert it to concrete before delivering it to the customers.
+
+### Backward Vertical Integration
+
+Acquiring supply-side processes in the value chain is called backward integration. Steel companies such as Tata Steel and JSW Steel can be called backward integrated as they own iron ore mines. This helps them control inventory supply and costs.
+
+### Forward Vertical Integration
+
+Acquiring distribution side processes is called forward integration. A cosmetics company selling products through owned stores is forward-integrated. Indian Oil and Bharat Petroleum could also be considered forward integrated because they operate some fuel stations apart from franchising out most.
+
+### Lean Organizations
+
+A fourth concept, lean organizations specialize in only one or very few steps in the value chain. Many FMCG companies neither manufacture their product nor sell it to end consumers. They focus mainly only on distribution and marketing. They are very low on vertical integration.
+
+For some companies it makes sense to be vertically integrated, and for some it doesn't like FMCG. FMCG companies in India can hardly be backward integrated. Palm oil, a key ingredient in many food products, personal care, and cosmetic goods, is primarily sourced from Malaysia and Indonesia. Packaging for these products uses petroleum derivatives which have their source in oil-producing countries. It does not make business sense for an FMCG company to own supply-side processes.
+
+## Framework
+
+### Political Factors
+
+The political will of the ruling government can influence the overall business sentiment in an economy as a whole. Businesses engaged in sin goods such as liquor and tobacco and necessities such as grains and oil often carry large political overhangs.
+
+### Economic Factors
+
+The strength of an economy and the stage of economic development can present different opportunities for different sectors. High-interest rates could limit corporate growth, while low-interest rates could enable easy borrowing and faster growth. However, low-interest rates could encourage excessive retail borrowing and spur inflation. The ability of the economic authorities to balance growth and control inflation is of the essence here. Economic factors such as inflation, exchange rates, FDI, and money supply play along with interest rates to influence the business environment.
+
+### Socio-cultural Factors
+
+Festivals can stimulate seasonal buying for specific sectors. Socio-cultural shifts can create long-term trend growth for certain products while a decline in others. The gradual move from coal-fired stoves to gas stoves results from economic development and social acceptance of a new cooking method.
+
+Demographic features and changes are a major influence on demand creation. The vast size of India’s youth population, in both absolute and percentage terms, has led to the creation of various products and brands meant to attract the young crowd. A decline in the average fertility rate suggests a decline in population growth. The aging of today’s young population could boost the demand for old-age products after three-four decades.
+
+### Technological Factors
+
+The stories of Nokia and Blackberry losing market share to Apple and Samsung have been discussed every time the impact of technological change has to be depicted. Innovations in technology can create new sectors and even wipe out some. All industries related to e-commerce were built upon the Internet. The Internet was a technological breakthrough. On the other hand, typewriters and Telegram are technologies that died as better ones replaced them.
+
+### Legal Factors
+
+The duties, tariffs, quotas, and other restrictions have an impact on the import-export trade of a country. Legal factors often create entry barriers for new players to enter a particular industry. For example, the heavy licensing requirements and different state-wise laws make liquor manufacturing a capital-intensive and difficult industry to get into. Pollution control, labor laws, and regulators like SEBI, RBI, and IRDAI constitute an economy’s legal machinery.
+
+### Environmental Factors
+
+The natural environment of a country can present opportunities for some sectors while discouraging others. Mining businesses are possible only if a country has minerals under its earth.
+
+Pollution and environmental deterioration result in imposing restrictions and requirements on industries. Water and effluent treatment plants have become a regulatory mandate for various chemical and industrial goods companies. Natural calamities could purge industries while displacing civilizations. Insurance companies carry a huge risk on account of natural disasters.
+
+These factors also influence each other. Economic development could lead to social development and shifts in culture. Issues related to society and the environment could be behind the development of certain legal barriers. Some legal factors can also be politically influenced.
+
+These factors make the [PESTLE](https://pestleanalysis.com/what-is-pestle-analysis/) Analysis (**Political-Economic-Social-Technological- Legal-Environmental**), a framework commonly taught in colleges and business schools.
+
+## How companies within a sector can differ?
+
+- Size
+- Age
+- Focus - Focus can be related to products, target market, costs, or pricing.
+- Substitutes
+
+## Key Takeaways
+
+- A sector is made up of similar businesses. Sectors may be further divided into sub-sectors or industries.
+- To understand specific sectors, one needs to understand their value chain
+- Several regulated sectors like stock broking, banking, and insurance are understood with the help of key performance indicators
+- You could also study sectors with the help of frameworks such as PESTLE. _You could also build your own framework._
+- Companies within a sector could differ in size, age, focus, and substitutes. Each of these features comes with its advantages and disadvantages.
+- Valuations are critical. An attractive industry or business must also have favorable valuations to be investible.
 
 ## Summarized Classification
 
-| Sector                        | Industry                                                                                            |
-| ----------------------------- | --------------------------------------------------------------------------------------------------- |
-| Technology                    | Software, Cloud Computing, IT Enabled Services                                                      |
-| Healthcare                    | Hospitals, Diagnostics, Pharmaceuticals, Pharmacies, Preventive Healthcare,<br><br>Medical Research |
-| Financials                    | Banking, Insurance, Payments, Mutual Funds                                                          |
-| Consumer<br><br>Discretionary | Household Appliances, Consumer Electronics, Automobiles, Apparel, Recreation,<br><br>Hospitality    |
-| Industrials                   | Wires, Automation, Machinery, Logistics, Defense Goods, Logistics                                   |
-| Communication<br><br>Services | Telecommunication, Internet Service Providers, OTT, Social Media                                    |
-| Consumer Staples              | Packaged foods, FMCG, Personal Care, Dairy                                                          |
-| Energy                        | Power Generation, Power Transmission, Coal, Fuels                                                   |
-| Utilities                     | Electricity Distribution, Water Supply, Waste Water Handling, Gas Distribution                      |
-| Materials                     | Cement, Chemicals, Paints, Fertilizers, Agricultural Goods, Metals                                  |
-| Real Estate                   | Residential Real Estate, REITs                                                                      |
+| Sector                 | Industry                                                                                     |
+| ---------------------- | -------------------------------------------------------------------------------------------- |
+| Technology             | Software, Cloud Computing, IT Enabled Services                                               |
+| Healthcare             | Hospitals, Diagnostics, Pharmaceuticals, Pharmacies, Preventive Healthcare, Medical Research |
+| Financials             | Banking, Insurance, Payments, Mutual Funds                                                   |
+| Consumer Discretionary | Household Appliances, Consumer Electronics, Automobiles, Apparel, Recreation, Hospitality    |
+| Industrials            | Wires, Automation, Machinery, Logistics, Defense Goods, Logistics                            |
+| Communication Services | Telecommunication, Internet Service Providers, OTT, Social Media                             |
+| Consumer Staples       | Packaged foods, FMCG, Personal Care, Dairy                                                   |
+| Energy                 | Power Generation, Power Transmission, Coal, Fuels                                            |
+| Utilities              | Electricity Distribution, Water Supply, Waste Water Handling, Gas Distribution               |
+| Materials              | Cement, Chemicals, Paints, Fertilizers, Agricultural Goods, Metals                           |
+| Real Estate            | Residential Real Estate, REITs                                                               |
 
 ## Detailed Classification
 
@@ -194,3 +278,4 @@
 |                                                                                |                                                                                         |                                                                                                              | [Real Estate Development](https://en.wikipedia.org/wiki/Real_estate_development)               |
 |                                                                                |                                                                                         |                                                                                                              | Real Estate Services                                                                           |
 
+[Sector analysis overview – Varsity by Zerodha](https://zerodha.com/varsity/chapter/sector-analysis-overview/)
