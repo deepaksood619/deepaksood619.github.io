@@ -238,6 +238,14 @@ Critical decisions
 
 [Microservices Architecture Patterns](https://www.youtube.com/playlist?list=PLTyWtrsGknYd0JgqeARypdRy-SX1ORYhs)
 
+## Why not microservices
+
+[I told a founder to FIRE HIS CTO IMMEDIATELY. His startup had $17K ARR… \| Muhammed Umar \| 34 comments](https://www.linkedin.com/posts/umar482_i-told-a-founder-to-fire-his-cto-immediately-activity-7318264429052133376-ocFs)
+
+- Even Shopify ran on a monolith until they hit $10M+ ARR.
+- Stripe: monolith until $100M ARR.
+- Airbnb: monolith for years.
+
 ## Links
 
 https://martinfowler.com/articles/break-monolith-into-microservices.html

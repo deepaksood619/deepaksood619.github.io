@@ -101,6 +101,9 @@ The Kernel maintains context information for the process as a whole and for indi
 | IO             | Network connection, file operation | Multithreading    |
 | CPU            | Complex math problem, search       | Multiprocessing   |
 
+- **Multi - Threading -** Resource sharing , Parallel downloads , Background processing , Request handling.
+- **Multi - Processing -** CPU-intensive tasks , Batch processing , Workload distribution , Fault isolation.
+
 https://zacs.site/blog/linear-python.html
 
 ### Programs vs Threads vs Processes

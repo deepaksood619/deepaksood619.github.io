@@ -200,6 +200,13 @@
 - [DB Live - YouTube](https://www.youtube.com/@DBLive)
 - [4PM - YouTube](https://www.youtube.com/@4PMNewsNetwork)
 
+#### Economics News
+
+- Zerodha Pulse
+- Money control
+- ET Markets
+- Finshots
+
 ### Tech
 
 - Linus Tech Tips

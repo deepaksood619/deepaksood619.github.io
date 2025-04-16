@@ -106,6 +106,9 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 - Total homicides, total crime index, total accidents
 - Public transport
 - Education
+	- Best country with scientific temper
+	- [Scientific temper - Wikipedia](https://en.wikipedia.org/wiki/Scientific_temper)
+	- [List of countries by number of scientific and technical journal articles - Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_number_of_scientific_and_technical_journal_articles)
 - Climate & Environmental protection
 - Racism
 - Economics - Job Market, Home Prices

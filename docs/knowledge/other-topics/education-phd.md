@@ -10,6 +10,23 @@ IITs, IISERs, IISc and specialised institutions such as CMI, TIFR, IUCAA and ISI
 
 https://www.findaphd.com/study-abroad/asia/phd-study-in-india.aspx
 
+## IB PYP
+
+The IB Primary Years Programme (PYP) is an international educational program for students aged 3-12, focusing on developing the whole child through an inquiry-based, transdisciplinary approach. It aims to nurture lifelong learners who are caring and culturally aware.
+
+### Key aspects of the IB PYP
+
+- **Student-centered:** The PYP emphasizes students as active participants in their own learning.
+- **Inquiry-based:** Learning is driven by questions and exploration.
+- **Transdisciplinary:** The curriculum integrates different subject areas, fostering interconnected learning.
+- **Focus on the learner profile:** The PYP emphasizes the development of the IB learner profile attributes, which encompass intellectual, personal, emotional, and social growth.
+- **Global context:** The PYP promotes international-mindedness and helps students understand their place in the world.
+- **Essential elements:** The PYP focuses on developing knowledge, skills, conceptual understandings, and responsible actions.
+- **Language and communication:** The PYP emphasizes language development and multilingualism.
+- **Curriculum:** The PYP is structured around six transdisciplinary themes: Who we are, Where we are in place and time, How we express ourselves, How the world works, How we organize ourselves, and Sharing the planet.
+
+In essence, the IB PYP is a comprehensive educational program that aims to create a positive and engaging learning experience for young children, fostering their intellectual, social, and emotional development.
+
 ## Tests
 
 Research Eligibility Test (RET)

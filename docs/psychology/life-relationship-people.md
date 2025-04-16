@@ -178,7 +178,7 @@ Usually, when you're upset you tell them that moment. That gets naggy 321 times 
 
 MC is short for **Master of Ceremonies** and may often be written as **emcee**. An MC can be an important part of a birthday party, acting as a host to allow the birthday boy or girl to enjoy the party along with guests. Although the party atmosphere will provide a good time, the MC ideally remains focused on the multifaceted responsibilities the job demands.
 
-- Annoucements
+- Announcements
 - Music selection
 - Setting the tone
 - Setting the place

@@ -20,7 +20,7 @@ Multi-asset funds are also hybrid in nature but there’s one major difference. 
 
 For example, a multi-asset fund might invest in equity, debt, as well as gold.
 
-### ## Multi-Cap Funds vs Flexi-Cap (Flexicap) Funds
+### Multi-Cap Funds vs Flexi-Cap (Flexicap) Funds
 
 Flexi-cap and multi-cap funds both invest across large, mid, and small-cap stocks, but multi-cap funds have a mandate to invest a minimum of 25% in each market cap category, while flexi-cap funds have more flexibility in allocating investments across market caps.
 
@@ -38,6 +38,14 @@ Flexi-cap and multi-cap funds both invest across large, mid, and small-cap stock
 [Multi-Cap Funds Vs Flexi-Cap Funds – How Are They Different?](https://groww.in/blog/multi-cap-funds-vs-flexi-cap-funds)
 
 [Top 5 flexi cap funds with returns up to 38% in 5 years as on Mar 26, 2025 \| EconomicTimes](https://economictimes.indiatimes.com/wealth/web-stories/top-5-flexi-cap-funds-with-returns-up-to-38-in-5-years-as-on-mar-26-2025/slideshow/119902124.cms?from=mdr)
+
+- Parag Parikh Flexi Cap Fund
+- HDFC Flexi Cap Fund (new addition)
+- UTI Flexi Cap Fund
+- PGIM India Flexi Cap Fund
+- Aditya Birla Sun Life Flexi Cap Fund
+- SBI Flexi Cap Fund
+- Canara Robeco Flexi Cap Fund
 
 ## Active Equity MFs
 
@@ -169,7 +177,8 @@ In the multicap category, the allocation decision is left to the fund manager wh
 - [Motilal Defence Fund breaks record at Rs 1676 cr but is it worth investing? | Personal Finance - Business Standard](https://www.business-standard.com/amp/finance/personal-finance/motilal-defence-fund-breaks-record-at-rs-1676-cr-but-is-it-worth-investing-124070500104_1.html)
 - [Best Large & Midcap Mutual Fund for 2025 - YouTube](https://www.youtube.com/watch?v=sjmK6BrFQy0&ab_channel=pranjalkamra)
 	- Kotak equity opportunities fund
-- [Post from ET Money - YouTube](https://www.youtube.com/channel/UCxv9T8da7658T9R8LQT_3PQ/community?lb=UgkxRd9xCYI3jTwSMDcJoCi5L37N3oUIf8T7)
+- [nvesco MF - ET Money - YouTube](https://www.youtube.com/channel/UCxv9T8da7658T9R8LQT_3PQ/community?lb=UgkxRd9xCYI3jTwSMDcJoCi5L37N3oUIf8T7)
 	- Invesco Contra: 31.37% vs Cat Avg: 21.97%
 	- Invesco Flexi Cap: 36.51% vs 21.99%
 	- Invesco Focused: 44.95 vs 21.00%
+- [What mutual fund would you recommend for investors with FOMO?](https://freefincal.com/what-mutual-fund-would-you-recommend-for-investors-with-fomo/)

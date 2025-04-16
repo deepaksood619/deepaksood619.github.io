@@ -1,5 +1,7 @@
 # Industrial IoT (IIoT)
 
+In the context of process control, **PV (Process Variable)** refers to the current value of the parameter being measured and controlled, such as temperature or pressure. **SP (Set Point)** is the desired value the process variable should reach and maintain.
+
 ## Reference Architecure
 
 ![image](../../media/Industrial-IoT-(IIoT)-image1.jpg)

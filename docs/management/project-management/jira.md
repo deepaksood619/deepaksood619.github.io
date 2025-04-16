@@ -66,3 +66,7 @@ https://confluence.atlassian.com/jiracore/blog/2015/08/5-steps-to-a-killer-jira-
 - Come with a new roadmap that improves your ability to plan long-term and share your plans with stakeholders
 
 https://www.atlassian.com/software/jira/guides/getting-started/best-practices
+
+## Alternatives
+
+- [Alternatives](management/project-management/others.md)

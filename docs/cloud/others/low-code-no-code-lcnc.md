@@ -22,10 +22,10 @@
 
 ## Apps
 
-- [**Appsmith** | Open-Source Internal Tool Builder](https://www.appsmith.com/) - Dunzo (30K stars) - [GitHub - appsmithorg/appsmith: Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.](https://github.com/appsmithorg/appsmith)
-- [Budibase | Build internal tools in minutes, the easy way](https://budibase.com/) (20K stars) - [GitHub - Budibase/budibase: Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡](https://github.com/Budibase/budibase)
-- [n8n.io - a powerful workflow automation tool](https://n8n.io/) (37K stars) - [GitHub - n8n-io/n8n: Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.](https://github.com/n8n-io/n8n)
-- [Appwrite - Build like a team of hundreds](https://appwrite.io/) (42K stars) - [GitHub - appwrite/appwrite: Build like a team of hundreds\_](https://github.com/appwrite/appwrite)
+- [**Appsmith** | Open-Source Internal Tool Builder](https://www.appsmith.com/) - Dunzo (36K stars) - [GitHub - appsmithorg/appsmith: Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.](https://github.com/appsmithorg/appsmith)
+- [Budibase | Build internal tools in minutes, the easy way](https://budibase.com/) (24K stars) - [GitHub - Budibase/budibase: Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡](https://github.com/Budibase/budibase)
+- [n8n.io - a powerful workflow automation tool](https://n8n.io/) (80K stars) - [GitHub - n8n-io/n8n: Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.](https://github.com/n8n-io/n8n)
+- [Appwrite - Build like a team of hundreds](https://appwrite.io/) (48K stars) - [GitHub - appwrite/appwrite: Build like a team of hundreds\_](https://github.com/appwrite/appwrite)
 - [Albato - a single no-code platform for all automations](https://albato.com/)
 - Paid tools
     - [Retool | The fastest way to build internal software.](https://retool.com)
