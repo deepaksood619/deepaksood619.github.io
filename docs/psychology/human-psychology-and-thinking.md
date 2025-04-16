@@ -12,6 +12,8 @@ It's very difficult to let your self image go
 
 Being self critical is a must
 
+Cynical, FUD, Privacy, scepticism, distrust
+
 Conform - (of a person) behave according to socially acceptable conventions or standards.
 
 Everyone is an authority on everything these days. Take weight loss for instance. Everyone will have a tip or two to offer, much of it common sense; eat healthy, exercise daily, sleep well.
@@ -109,6 +111,19 @@ https://www.collaborativefund.com/blog/think
 Gaslight - manipulate (someone) by psychological means into doubting their own sanity.
 
 psychological manipulation of a person for one’s advantage-causing the person to question the validity of their own thoughts, reality, or sanity.
+
+## Johari Window model
+
+The Johari Window model is ==a tool that helps people understand themselves and others==. It's a visual framework that's often used in self-help groups and in corporate settings.
+
+|                  | What it is                                                                             |
+| ---------------- | -------------------------------------------------------------------------------------- |
+| **Purpose**      | Improve self-awareness and communication                                               |
+| **How it works** | Categorizes personal attributes into four quadrants                                    |
+| **Quadrants**    | Open, blind, hidden, and unknown                                                       |
+| **Goal**         | Move information from the hidden and unknown quadrants to the open and blind quadrants |
+
+![Johari Window model](../media/Screenshot%202025-04-15%20at%202.40.25%20PM.jpg)
 
 ## Others
 

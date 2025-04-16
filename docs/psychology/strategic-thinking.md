@@ -42,3 +42,12 @@ Strategic thinkers demonstrate organizational value by creating more strategic t
 5. **Flexibility:** they seek advice to compensate for their weaknesses and then twist their ideas and framework to achieve their goals. But they are flexible without breaking the rules.
 6. **Emotional Balance:** they are aware and balance their emotions so as to favor the achievement of their goals.
 7. **Patience:** they understand that most achievements are a long-term endeavor involving various milestones and a lot of effort.
+
+### Others
+
+1. Pattern Recognition
+2. Systems analysis
+3. Mental agility
+4. Structured problem-solving
+5. Visioning
+6. Political savy

@@ -17,6 +17,7 @@
 - **Software Developer Good -** https://drive.google.com/drive/folders/1zMuTUjsifK9QVvrwF56oE8EJcgw9YBhJ?usp=sharing
 - **Pradeep Parameswaran**
 - [https://arpitbhayani.me/](https://arpitbhayani.me/)
+- [linkedin.com/in/umar482/](https://www.linkedin.com/in/umar482/)
 
 ![image](../../media/Personality-Profiles-image1.jpg)
 

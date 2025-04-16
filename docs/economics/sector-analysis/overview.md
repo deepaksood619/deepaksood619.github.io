@@ -12,7 +12,7 @@ For industries in the heavy manufacturing space – cement, steel, aluminum, and
 
 When an investor begins studying a sector, understanding the value chain could be a good starting point. A study of the value chain provides more insights into a particular sector’s unique dynamics. The exercise could also unearth certain industry players’ competitive advantages or disadvantages.
 
-## What is a value chain? 
+## What is a value chain?
 
 Simply put, a value chain begins with the sourcing of raw materials and goes up to the point of end consumption. For example, the textile industry’s value chain would include fiber production, spinning yarn, fabric production, dying and printing, garment manufacturing, packaging, distribution, and retail. Cement’s value chain starts with limestone mining, followed by clinkerization, blending, grinding, packaging, and distribution. This value chain might be extended if the cement manufacturer processes it further into ready-mix concrete (RMC) before selling it in the market.
 

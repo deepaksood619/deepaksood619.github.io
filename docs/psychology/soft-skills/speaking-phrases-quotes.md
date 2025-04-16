@@ -42,6 +42,7 @@ Turning action words into identity words (verbs into nouns) is effective because
 - Replace "but" with "and" - [Change ONE WORD to Transform your Communication](https://www.youtube.com/shorts/tomgKAxMsq8)
 - Feel free to interrupt me in between to ask any questions and let me know if you want to dig deeper in any part.
 - What if you stopped trying to think your way through it and started to act your way through it?
+- Thanks for extending the helping hand.. We are evaluating our options and we will get back to you soon.
 
 ### https://blog.trello.com/how-to-give-your-manager-feedback
 

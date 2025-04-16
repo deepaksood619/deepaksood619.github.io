@@ -145,6 +145,8 @@ Taxation - LTCG - If holding is more than 36 months) - Debt Fund (20% with Index
 
 [Fixed Deposits vs. Debt Mutual Funds: Which is Better?](https://www.wintwealth.com/fixed-deposit/fd-vs-debt-mutual-funds/)
 
+[Debt Fund - Tax Structure](http://youtube.com/post/UgkxOi75odXn_Z6KO6SzMzK6FwkYF38zVdJm?si=I4DdDxYuKa4ywmnY)
+
 ## Links
 
 - Stable Money

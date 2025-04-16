@@ -206,6 +206,26 @@ deck gateway sync ./demo_deck_config.yaml
 curl https://kong-578a9e8f3ausw9mj7.kongcloud.dev/first-route -H "apikey: hello_world"
 ```
 
+## Components
+
+[Kong Konnect Demo: Revolutionize Your API Management with a Unified Cloud-Native Platform - YouTube](https://www.youtube.com/watch?v=0XEtsyq_sUQ)
+
+- Gateway Manager
+- Mesh Manager
+- API Products
+- Dev Portal
+- Analytics
+	- [Intro to Advanced Analytics \| Kong Konnect - YouTube](https://www.youtube.com/watch?v=K0kOoyXXYmk)
+- Service Hub
+
+### Kong Entities
+
+- [**Services:**](https://docs.konghq.com/gateway/latest/key-concepts/services/) A service is an entity representing an external upstream API or microservice. For example, a data transformation microservice, a billing API, and so on.
+- [**Routes:**](https://docs.konghq.com/gateway/latest/key-concepts/routes/) Routes determine how (and if) requests are sent to their services after they reach the gateway. Where a service represents the backend API, a route defines what is exposed to clients. A single service can have many routes. Once a route is matched, the gateway proxies the request to its associated service.
+- [**Consumers:**](https://docs.konghq.com/gateway/latest/kong-enterprise/consumer-groups/) Consumer objects represent users of a service, and are most often used for authentication. They provide a way to divide access to your services, and make it easy to revoke that access without disturbing a service’s function.
+- [**Load balancers:**](https://docs.konghq.com/gateway/latest/get-started/load-balancing/) Load balancing is a method of distributing API request traffic across multiple upstream services. Load balancing improves overall system responsiveness and reduces failures by preventing overloading of individual resources.
+- [**Upstream targets:**](https://docs.konghq.com/gateway/latest/key-concepts/upstreams/) Upstream refers to an API, application, or micro-service that Kong Gateway forwards requests to. In Kong Gateway, an upstream object represents a virtual hostname and can be used to health check, circuit break, and load balance incoming requests over multiple services.
+
 ## Quiz
 
 ### Question 1

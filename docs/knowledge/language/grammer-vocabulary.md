@@ -210,6 +210,7 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - Peruse - read (something), typically in a thorough or careful way.
 - debauchery - extreme indulgence in bodily pleasures and especially sexual pleasures : behavior involving sex, drugs, alcohol, etc. that is often considered immoral. … he was glad when others joined them, men and women; and they had more drink and spent the night in wild rioting and debauchery.
 - tout - to try to persuade people that somebody/something is important or valuable by praising them/it
+- Whinger - a person who complains a lot, especially about trivial matters
 
 ### Shill / Shilling
 
