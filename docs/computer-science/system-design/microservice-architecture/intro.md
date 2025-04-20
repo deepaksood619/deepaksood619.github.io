@@ -246,6 +246,8 @@ Critical decisions
 - Stripe: monolith until $100M ARR.
 - Airbnb: monolith for years.
 
+[linkedin.com/in/umar482/](https://www.linkedin.com/in/umar482/)
+
 ## Links
 
 https://martinfowler.com/articles/break-monolith-into-microservices.html

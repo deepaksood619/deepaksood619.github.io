@@ -97,6 +97,10 @@ def lambda_handler(event, context):
 
 [Unlocking Faster & Efficient Data Processing w/ Serverless • Uma Ramadoss & Adam Wagner • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=Mbt78pAfuOs&ab_channel=GOTOConferences)
 
+## Features
+
+- The maximum timeout for an AWS Lambda function is 900 seconds (15 minutes). You can configure this value in increments of 1 second, with a default of 3 seconds. This is a hard limit set by AWS and cannot be exceeded
+
 ## Cost
 
 | Metric             | EC2 Spot Instance (including EBS) | Lambda (7 requests/hr) | Lambda (8 requests/hr) |

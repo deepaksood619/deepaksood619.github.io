@@ -115,6 +115,9 @@
 	- [Teachafy Labs](https://teachafy.com/)
 - [GitHub - k8sgpt-ai/k8sgpt: Giving Kubernetes Superpowers to everyone](https://github.com/k8sgpt-ai/k8sgpt)
 - [Sensai](https://sensai.hyperverge.org/)
+- [Visily - AI-powered UI design software](https://www.visily.ai/)
+- [AI Automation Tool to Simplify Your Complex and Routine Tasks](https://omnimind.ai/)
+- [PlexeAI \| Build ML Models from Natural Language](https://www.plexe.ai/)
 
 ## Purpose-built accelerators for generative AI
 

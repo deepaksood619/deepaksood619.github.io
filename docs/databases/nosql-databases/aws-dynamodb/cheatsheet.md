@@ -75,6 +75,7 @@ DynamoDB has two types of Indexes:
 ## GSI - Global Secondary Index
 
 - Only eventual consistency reads (cannot provide strong consistency)
+	- Strongly consistent reads on Global Secondary Indexes (GSIs) in DynamoDB are not supported. All reads from GSIs are inherently eventually consistent, meaning they may not always reflect the very latest write. While eventual consistency is generally fast and maximizes read throughput, there's a possibility of seeing slightly stale data after a write.
 - Can create, modify, or delete at anytime
 - Simple and Composite
 - Can have whatever attributes as Primary Key (PK) or Secondary Key (SK)

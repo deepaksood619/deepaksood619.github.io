@@ -44,6 +44,22 @@ Supervised fine-tuning means updating a pre-trained language model using labeled
 - Parameter-efficient fine-tuning (PEFT)
 	- [LLM (Parameter Efficient) Fine Tuning - Explained! - YouTube](https://www.youtube.com/watch?v=HcVtpLAGMXo)
 
+## Performance Optimization
+
+### [GitHub - microsoft/BitNet: Official inference framework for 1-bit LLMs](https://github.com/microsoft/BitNet)
+
+bitnet.cpp is the official inference framework for 1-bit LLMs (e.g., BitNet b1.58). It offers a suite of optimized kernels, that support **fast** and **lossless** inference of 1.58-bit models on CPU (with NPU and GPU support coming next).
+
+The first release of bitnet.cpp is to support inference on CPUs. bitnet.cpp achieves speedups of **1.37x** to **5.07x** on ARM CPUs, with larger models experiencing greater performance gains. Additionally, it reduces energy consumption by **55.4%** to **70.0%**, further boosting overall efficiency. On x86 CPUs, speedups range from **2.37x** to **6.17x** with energy reductions between **71.9%** to **82.2%**. Furthermore, bitnet.cpp can run a 100B BitNet b1.58 model on a single CPU, achieving speeds comparable to human reading (5-7 tokens per second), significantly enhancing the potential for running LLMs on local devices.
+
+[BitNet - Inference framework for 1-bit LLMs : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1g6jmwl/bitnet_inference_framework_for_1bit_llms/)
+
+[Bitnet.cpp an opensource LLM platform by Microsoft \| by Kldurga \| Medium](https://medium.com/@kldurga999/bitnet-cpp-an-opensource-llm-platform-by-microsoft-8cdeccf272c2)
+
+[bitnet.cpp from Microsoft: Run LLMs locally on CPU! (hands-on) - YouTube](https://www.youtube.com/watch?v=C4OYJAs4O60)
+
+[\[2504.12285\] BitNet b1.58 2B4T Technical Report](https://arxiv.org/abs/2504.12285)
+
 ## Links
 
 - [Fine-tuning large language models (LLMs) in 2024 | SuperAnnotate](https://www.superannotate.com/blog/llm-fine-tuning)

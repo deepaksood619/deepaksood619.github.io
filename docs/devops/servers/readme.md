@@ -196,9 +196,21 @@ https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-consi
 
 Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 
-https://gin-gonic.com
+### Gin's key features are
 
-https://github.com/gin-gonic/gin
+- Zero allocation router
+- Speed
+- Middleware support
+- Crash-free
+- JSON validation
+- Route grouping
+- Error management
+- Built-in rendering
+- Extensible
+
+[Gin Web Framework \| Gin Web Framework](https://gin-gonic.com)
+
+[GitHub - gin-gonic/gin: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.](https://github.com/gin-gonic/gin)
 
 ## Links
 

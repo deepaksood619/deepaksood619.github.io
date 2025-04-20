@@ -81,6 +81,8 @@ Choosing between Snowflake and Databricks is like deciding between a swiss army 
 
 ## Others
 
+- [starrocks - comparisions](databases/data-warehouses/starrocks.md#Comparisions)
+
 ### [Compare real-time analytics databases in 2023: Rockset, Apache Druid, ClickHouse, Pinot | Rockset](https://rockset.com/blog/comparing-rockset-apache-druid-clickhouse-real-time-analytics/)
 
 Rockset beat both ClickHouse and Druid query performance on the Star Schema Benchmark. Rockset is 1.67 times faster than ClickHouse with the same hardware configuration. And 1.12 times faster than Druid, even though Druid used 12.5% more compute.

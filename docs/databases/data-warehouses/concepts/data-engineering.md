@@ -116,6 +116,8 @@
 
 ## Roadmaps
 
+![Data Engineering Roadmap](../../../media/Screenshot%202025-04-20%20at%201.03.37%20AM.jpg)
+
 - [Roadmap for Data Engineering 2023 | by Darshil Parmar | Medium](https://medium.com/@darshilp/roadmap-for-data-engineering-2023-13f62f85d866)
 - [Roadmap for Data Engineering 2024 | by Darshil Parmar | Jan, 2024 | Medium](https://medium.com/@darshilp/roadmap-for-data-engineering-2024-af7ea4ead400)
 - [Red Hot: The 2021 Machine Learning, AI and Data (MAD) Landscape - Matt Turck](https://mattturck.com/data2021/)
@@ -124,6 +126,7 @@
 - [Roadmap: Data Engineering for Software Engineers - YouTube](https://www.youtube.com/live/0e4WfIUixRw)
 - [Roadmap to Becoming a Data Engineer In 2023](https://www.linkedin.com/pulse/roadmap-becoming-data-engineer-2023-arif-alam-/)
 - [Data Engineer Roadmap for 2024](https://www.scaler.com/blog/data-engineer-roadmap/)
+- [EP159: The Data Engineering Roadmap - ByteByteGo Newsletter](https://blog.bytebytego.com/p/ep159-the-data-engineering-roadmap)
 
 ## Resources
 

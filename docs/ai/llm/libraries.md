@@ -155,6 +155,10 @@
 - [**PlotAI**](https://github.com/mljar/plotai) - use ChatGPT to create plots in Python and Matplotlib directly in your Python script or notebook.
 - [**sketch**](https://github.com/approximatelabs/sketch) - AI code-writing assistant for pandas users that understands the context of your data, greatly improving the relevance of suggestions.
 
+### LLM Agent Tools
+
+- [GitHub - browser-use/browser-use: Make websites accessible for AI agents](https://github.com/browser-use/browser-use)
+
 ### LLM Development
 
 - [**distilabel**](https://github.com/argilla-io/distilabel) - AI Feedback framework for scalable LLM alignment.

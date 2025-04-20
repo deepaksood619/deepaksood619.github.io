@@ -42,17 +42,10 @@ django-admin.py startapp quickstart
     **HyperlinkedModelSerializer**
 
 2. **Requests &Responses**
-
 3. **Class-based views**
-
-4. **Authentication & Permissions**
-
-    https://nezhar.com/blog/django-rest-framework-permissions-in-depth
-
+4. **Authentication & Permissions** - https://nezhar.com/blog/django-rest-framework-permissions-in-depth
 5. **Relationships & hyperlinked APIs**
-
 6. **Viewsets & routers**
-
 7. **Schemas & client libraries**
 
 https://www.youtube.com/playlist?list=PLLxk3TkuAYnrO32ABtQyw2hLRWt1BUrhj
