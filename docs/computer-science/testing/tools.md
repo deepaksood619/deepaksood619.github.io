@@ -82,7 +82,7 @@ Robotic Process Automation (RPA) is a software program that imitates human actio
 
 Bazel - Build and test software of any size, quickly and reliably - [Bazel](https://www.bazel.build) - 24k stars
 
-{Fast, Correct} - Choose two
+`{Fast, Correct}` - Choose two
 
 Build and test software of any size, quickly and reliably.
 
