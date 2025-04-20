@@ -143,3 +143,7 @@ https://drive.google.com/file/d/1Kk1_INbeBsGtxDgAVCBjlUDcSLd-B2_D/view?usp=drive
 - **Serverless vs. Containerized Services:** Serverless solutions reduce operational overhead but may have execution time limits; containers provide more control for long-running tasks.
 - **Hot/Cold Storage Optimization:** Improves cost efficiency but may introduce latency for accessing cold storage.
 - **Schema Evolution Complexity:** Adds design overhead but ensures flexibility for clients with diverse and changing datasets.
+
+## Links
+
+- [⚡️ Real-Time, All the Time: How We Streamed Data from Everywhere into Dashboards and APIs in Seconds \| by Swapnesh Khare \| CARS24 Data Science Blog \| Apr, 2025 \| Medium](https://medium.com/cars24-data-science-blog/%EF%B8%8F-real-time-all-the-time-how-we-streamed-data-from-everywhere-into-dashboards-and-apis-in-095711edf1b2)

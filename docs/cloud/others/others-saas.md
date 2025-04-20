@@ -204,3 +204,7 @@ MuleSoft is a platform that gives IT the tools to automate everything. This incl
 - [GitHub - 738/awesome-url-shortener: 🔗 A curated list of awesome url shortener](https://github.com/738/awesome-url-shortener)
 	- [Bitly Connections Platform \| Short URLs, QR Codes, and More](https://bitly.com/)
 	- [Dub.co - Link Management for Modern Marketing Teams](https://dub.co/)
+- Doc Send
+	- [Secure Document Sharing, eSignatures & Analytics](https://www.docsend.com/)
+	- [Docusign \| #1 in Electronic Signature and Intelligent Agreement Management](https://www.docusign.com/en-in)
+	- [ShareFile \| Secure Document Workflow & File Sharing Software](https://www.sharefile.com/)

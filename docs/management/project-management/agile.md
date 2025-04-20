@@ -246,3 +246,7 @@ The lean framework works on the concept of maximizing customer value with fewer 
 10. Sustainable pace
 11. Metaphor
 12. Coding standards
+
+## Links
+
+- [FIRE your product owner. I'm serious. You think : We need someone to… \| Muhammed Umar \| 31 comments](https://www.linkedin.com/posts/umar482_fire-your-product-owner-im-serious-you-activity-7318921343528308736-HGzp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)

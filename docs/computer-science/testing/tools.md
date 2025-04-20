@@ -78,6 +78,19 @@ https://www.uipath.com
 
 Robotic Process Automation (RPA) is a software program that imitates human actions while interacting with a computer application and accomplishing automation of repetitive, rule-based processes. UiPath is reliable, fast and one of the most popular among other existing automation tools.
 
+## Bazel
+
+Bazel - Build and test software of any size, quickly and reliably - [Bazel](https://www.bazel.build) - 24k stars
+
+{Fast, Correct} - Choose two
+
+Build and test software of any size, quickly and reliably.
+
+- **Speed up your builds and tests**: Bazel rebuilds only what is necessary. With advanced local and distributed caching, optimized dependency analysis and parallel execution, you get fast and incremental builds.
+- **One tool, multiple languages**: Build and test Java, C++, Android, iOS, Go, and a wide variety of other language platforms. Bazel runs on Windows, macOS, and Linux.
+- **Scalable**: Bazel helps you scale your organization, codebase, and continuous integration solution. It handles codebases of any size, in multiple repositories or a huge monorepo.
+- **Extensible to your needs**: Easily add support for new languages and platforms with Bazel's familiar extension language. Share and re-use language rules written by the growing Bazel community.
+
 ## Other Tools
 
 - Puppeteer - https://github.com/puppeteer/puppeteer
@@ -86,7 +99,6 @@ Robotic Process Automation (RPA) is a software program that imitates human actio
 - JTest
 - Cobertura
 - Emma
-- Bazel - Build and test software of any size, quickly and reliably - https://www.bazel.build
 - REST Assured (REST Test Tool)
 - Mockito (Mocking)
 - JUnit

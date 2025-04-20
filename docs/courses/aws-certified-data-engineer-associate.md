@@ -6,11 +6,32 @@
 
 Date - Feb-March 2024
 
+### Topics
+
 - Implement data pipelines and to monitor, troubleshoot, and optimize cost and performance issues in accordance with best practices.
 - Ingest and transform data, and orchestrate data pipelines while applying programming concepts.
 - Choose an optimal data store, design data models, catalog data schemas, and manage data lifecycles.
 - Operationalize, maintain, and monitor data pipelines. Analyze data and ensure data quality.
 - Implement appropriate authentication, authorization, data encryption, privacy, and governance. Enable logging.
+
+### Services
+
+- Streaming and transforming data with **Amazon Kinesis** and **Amazon Managed Streaming for Apache Kafka (MSK)**
+- Queuing messages with Simple Queue Service (**SQS**)
+- Orchestrating data pipelines with **Amazon AppFlow, Amazon EventBridge, AWS Step Functions, and Amazon Managed Workflows for Apache Airflow (MWAA)**
+- Transitioning from small to big data with the **AWS Database Migration Service (DMS), AWS DataSync, Snow Family, Transfer Family**, and more
+- Storing massive **data lakes** with the Simple Storage Service (**S3**) and managing data lifecycles
+- Optimizing transactional queries with **DynamoDB, DocumentDB, Keyspaces, and MemoryDB**
+- Tying your big data systems together with **AWS Lambda**
+- Making unstructured data query-able with **AWS Glue, Glue DataBrew, and Lake Formation**
+- Processing data at unlimited scale with **Elastic MapReduce**, including Apache **Spark**
+- Applying advanced machine learning algorithms at scale with **Amazon SageMaker**
+- Searching and analyzing petabyte-scale data with **Amazon Opensearch (formerly Elasticsearch) Service**
+- Querying S3 data lakes with Amazon **Athena**
+- Hosting massive-scale data warehouses with **Redshift** and **Redshift Spectrum**
+- Integrating smaller data with your big data, using the Relational Database Service (**RDS**)
+- Keeping your data secure with encryption, **KMS**, **Macie, Secrets Manager**, **IAM**, and more
+- Managing and governing your systems with **CloudFormation, CloudTrail, CloudWatch, AWS Config**, and more
 
 ### Bifurcation
 

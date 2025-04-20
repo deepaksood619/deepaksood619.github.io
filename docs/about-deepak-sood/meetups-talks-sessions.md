@@ -575,6 +575,7 @@ https://www.slideshare.net/deepaksood566/computer-science-career-guidance
 - [Udaan 2K25](https://www.commudle.com/communities/gurugram-kotlin-user-group/events/udaan-2025)
 - [GenAI Hackathon | Deepak Sood](https://www.linkedin.com/posts/deepaksood619_hackathon-teamwork-innovation-activity-7309996694044086272-E4Vf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 - [OpsTree Festivista 2025](https://www.linkedin.com/posts/deepaksood619_opstree-festivista2025-workhardplayhard-activity-7311022896640888832-iBBk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
+- [Build with AI - Gurugram Edition](https://www.linkedin.com/posts/deepaksood619_buildwithai-tfugghaziabad-google-activity-7318766782658355200-9Juk)
 
 ## Finding Meetups
 

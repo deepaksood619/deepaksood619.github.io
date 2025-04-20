@@ -1,13 +1,5 @@
 # Tools
 
-## Data Hub
-
-Data Discovery and Lineage for Big Data Ecosystem
-
-https://github.com/linkedin/WhereHows/tree/datahub
-
-https://engineering.linkedin.com/blog/2019/data-hub
-
 ## Dagster
 
 Dagster is a system for building modern data applications. Combining an elegant programming model and beautiful tools, Dagster allows infrastructure engineers, data engineers, and data scientists to seamlessly collaborate to process and produce the trusted, reliable data needed in today's world.
@@ -44,7 +36,7 @@ https://ai.google/research/pubs/pub36632
 
 ## Talend
 
-https://www.talend.com
+[Talend \| A Complete, Scalable Data Management Solution \| Talend](https://www.talend.com)
 
 [Talend Full Course - Learn Talend in 6 Hours \| Talend Tutorial For Beginners \| Edureka - YouTube](https://www.youtube.com/watch?v=bqa0kB59SUc)
 

@@ -92,15 +92,18 @@ The whole world is moving towards electric, but India is pushing more towards Hy
 
 Self driving car is the future of transportation and I want to contribute to one of the biggest problem that humanity is facing by solving deaths by vehicles by removing all the deaths caused by human errors. Also Earth cannot support 11 billion privately owned cars, so ride sharing is going to solve that problem. Better communication between vehicles, intelligent routing, better vision and better understanding of roads are huge problems that must be solved in coming decade and I want to contribute to that.
 
-#### Flying Cars
+#### Flying Cars (EVTOLs / VTOL / STOL)
 
 But flying cars with autonomous flight capacity can democratise that too, so people don't have to live in a dense area. Since right now can reach 10km in 10 mins, but with flying cars they can reach maybe 50km in 10 mins.
 
 And ofcourse we can move from a 1D plane of travel to multi layer travel in air. All infrastructure can be reclaimed back from ground to plant more trees. Atleast between cities.
 
-Future -
-Flying taxi
-Autonomous vehicle
+STOL - short take-off and landing - [Lat Aerospace](https://www.lat.com/)
+
+Future
+
+- Flying taxi
+- Autonomous vehicle
 
 ## Future
 

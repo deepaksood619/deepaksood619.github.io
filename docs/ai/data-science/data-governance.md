@@ -70,6 +70,76 @@ When we develop data products like reports or data feeds, we need to design a pr
 
 ![Data Governance](../../media/Pasted%20image%2020240213122425.jpg)
 
+## Tools
+
+### Data Hub
+
+The No. 1 open source metadata platform
+
+Data Discovery and Lineage for Big Data Ecosystem
+
+DataHub is a modern data catalog designed to streamline metadata management, data discovery, and data governance. It enables users to efficiently explore and understand their data, track data lineage, profile datasets, and establish data contracts. This extensible metadata management platform is built for developers to tame the complexity of their rapidly evolving data ecosystems and for data practitioners to leverage the total value of data within their organization.
+
+[DataHub: A generalized metadata search & discovery tool](https://www.linkedin.com/blog/engineering/archive/data-hub)
+
+[DataHub Quickstart Guide \| DataHub](https://datahubproject.io/docs/quickstart/)
+
+[docker-compose-without-neo4j-m1.quickstart.yml](https://raw.githubusercontent.com/datahub-project/datahub/master/docker/quickstart/docker-compose-without-neo4j-m1.quickstart.yml)
+
+[GitHub - datahub-project/datahub: The Metadata Platform for your Data and AI Stack](https://github.com/datahub-project/datahub) - 10.5k stars
+
+```bash
+# use python 3.11
+
+python3 -m pip install --upgrade pip wheel setuptools
+python3 -m pip install --upgrade acryl-datahub
+datahub version
+
+datahub docker quickstart
+
+# http://localhost:9002
+username: datahub
+password: datahub
+
+# ingest sample data
+datahub docker ingest-sample-data
+```
+
+```yaml
+source:
+  type: bigquery
+  config:
+    project_id: your-gcp-project-id
+    credentials:
+      # If using a service account key file
+      filename: /path/to/service_account.json
+    include_tables: true
+    include_views: true
+    include_usage_stats: true
+    usage_stats:
+      top_n_queries: 25
+sink:
+  type: datahub-rest
+  config:
+    server: http://localhost:8080
+
+# datahub ingest -c ingestion/bigquery.yml
+```
+
+### DataHub vs Apache Atlas
+
+Both Apache Atlas and DataHub are open-source data catalog platforms designed to manage metadata, but they differ in their architecture, focus, and features.
+
+- Apache Atlas, originally developed for the Hadoop ecosystem, emphasizes traditional governance with a strong integration within Hadoop.
+- DataHub, on the other hand, takes a schema-first, real-time, and stream-based approach, focusing on comprehensive metadata management and governance.
+
+### Others
+
+- [Unified governance for data and AI \| Collibra](https://www.collibra.com/)
+- Talend
+- Informatica
+- Apache Atlas
+
 ## Links
 
 - [Designing Data Governance from the Ground Up • Lauren Maffeo & Samia Rahman • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=A8dVHjRENBQ)

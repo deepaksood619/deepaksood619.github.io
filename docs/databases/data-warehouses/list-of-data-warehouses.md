@@ -10,8 +10,9 @@
 8. [Hadoop](technologies/apache-hadoop/readme.md)
 9. [Druid](databases/nosql-databases/druid/readme.md)
 10. [MemSQL](databases/sql-databases/memsql/readme.md)
-11. [Presto](technologies/others/presto.md)
+11. [Presto / Trino](technologies/others/presto.md)
 12. FireBolt
+13.
 
 ## Firebolt
 

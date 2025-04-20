@@ -328,6 +328,7 @@ https://www.freecodecamp.org/news/the-design-thinking-process-explained
 - Mural - https://www.mural.co - https://www.mural.co/templates?template-categories=all-templates
 - Adobe XD vs Sketch vs Figma vs InVision studio
 - http://illustrated.dev/resources
+- [Visily - AI-powered UI design software](https://www.visily.ai/)
 
 ## Others
 
