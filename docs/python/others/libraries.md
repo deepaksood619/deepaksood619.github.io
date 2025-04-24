@@ -108,60 +108,6 @@ python-magic is a Python interface to the libmagic file type identification libr
 
 https://pypi.org/project/python-magic
 
-## GUI
-
-Tkinter ► GUI
-
-https://docs.python.org/3/library/tki...
-
-wxPython ► GUI toolkit
-
-https://wxpython.org
-
-PyQt ► GUI toolkit
-
-https://pypi.org/project/PyQt5
-
-## Web
-
-Requests ► HTTP library/Web
-
-https://requests.readthedocs.io/en/ma...
-
-Scrapy ► webscraping
-
-https://scrapy.org
-
-BeautifulSoup ► parsing/webscraping https://www.crummy.com/software/Beaut...
-
-Zappa ► server-less application on API Gateway and Amazon Web Services Lambda
-
-https://github.com/Miserlou/Zappa
-
-## Other
-
-Poetry ► manage python packaging and dependencies
-
-https://python-poetry.org
-
-Pywin32 ► Interact with Windows
-
-https://github.com/mhammond/pywin32
-
-Kivy ► Mobile Apps
-
-https://kivy.org/#home
-
-Loguru ► python logging
-
-https://github.com/Delgan/loguru
-
-Babel - the Python Internationalization Library - https://github.com/python-babel/babel
-
-https://tryolabs.com/blog/2019/12/10/top-10-python-libraries-of-2019
-
-https://dev.to/squash/16-amazing-python-libraries-you-should-be-using-now-2020-updated-2aja
-
 ## schedule
 
 Python job scheduling for humans.
@@ -238,7 +184,7 @@ For most cases, you would want to go with python’s standard json library which
 ## Visualization
 
 - Streamlit
-   	- [Building a dashboard in Python using Streamlit](https://blog.streamlit.io/crafting-a-dashboard-app-in-python-using-streamlit/)
+	- [Building a dashboard in Python using Streamlit](https://blog.streamlit.io/crafting-a-dashboard-app-in-python-using-streamlit/)
 - [Dashboarding tools — PyViz 0.0.1 documentation](https://pyviz.org/dashboarding/)
 - [Python Interactive Dashboard Development using Streamlit and Plotly - YouTube](https://www.youtube.com/watch?v=7yAw1nPareM)
 - [How to Create a Beautiful Python Visualization Dashboard With Panel/Hvplot - YouTube](https://www.youtube.com/watch?v=uhxiXOTKzfs)
@@ -250,5 +196,21 @@ For most cases, you would want to go with python’s standard json library which
 
 ## Others
 
+### GUI
+
+- Tkinter - GUI
+- wxPython - GUI toolkit - https://wxpython.org
+- PyQt - GUI toolkit - https://pypi.org/project/PyQt5
+
+### Others
+
 - [stripe · PyPI](https://pypi.org/project/stripe/)
 - [gspread — gspread 6.1.2 documentation](https://docs.gspread.org/en/latest/)
+- Requests - HTTP library/Web
+- Poetry - manage python packaging and dependencies - https://python-poetry.org
+- Pywin32 - Interact with Windows - https://github.com/mhammond/pywin32
+- Kivy - Mobile Apps - https://kivy.org/#home
+- Loguru - python logging - https://github.com/Delgan/loguru
+- Babel - the Python Internationalization Library - https://github.com/python-babel/babel
+- https://tryolabs.com/blog/2019/12/10/top-10-python-libraries-of-2019
+- https://dev.to/squash/16-amazing-python-libraries-you-should-be-using-now-2020-updated-2aja

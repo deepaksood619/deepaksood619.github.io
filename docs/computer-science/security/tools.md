@@ -144,6 +144,7 @@ https://certbot.eff.org
 - [Cloud Security Platform | GCP | AWS | Cloudanix](https://www.cloudanix.com/)
 - [WALLIX | Cybersecurity Simplified | Access Security Solutions](https://www.wallix.com/)
 - [Active Application Security Posture Management (ASPM) - OX Security](https://www.ox.security/)
+- [Zscaler: Cybersecurity & Zero Trust Leader with AI Solutions](https://www.zscaler.com/)
 
 ## Others
 

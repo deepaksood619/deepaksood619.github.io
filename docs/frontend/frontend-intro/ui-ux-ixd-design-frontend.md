@@ -319,6 +319,7 @@ https://www.freecodecamp.org/news/the-design-thinking-process-explained
 - [Flowchart Maker and Diagramming Software | Microsoft Visio](https://www.microsoft.com/en-in/microsoft-365/visio/flowchart-software)
 - Gliffy
 - Mermaid - https://mermaid.live/
+	- [Usage \| Mermaid](https://mermaid.js.org/config/usage.html)
 - PlantUML
 - Lucid Charts (lucidchart) - 60 objects contraint
 - coggle.it

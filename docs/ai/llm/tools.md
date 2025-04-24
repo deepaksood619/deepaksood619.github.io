@@ -118,6 +118,11 @@
 - [Visily - AI-powered UI design software](https://www.visily.ai/)
 - [AI Automation Tool to Simplify Your Complex and Routine Tasks](https://omnimind.ai/)
 - [PlexeAI \| Build ML Models from Natural Language](https://www.plexe.ai/)
+- [Napkin AI - The visual AI for business storytelling](https://www.napkin.ai/)
+
+### SAAS / Products
+
+- [Second Brain Labs \| Automating Sales, Surveys, Support, and Lead Qualification for Businesses, with efficiency.](https://secondbrainlabs.com/)
 
 ## Purpose-built accelerators for generative AI
 

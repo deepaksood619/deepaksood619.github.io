@@ -34,10 +34,7 @@ https://blog.bitsrc.io/9-css-in-js-libraries-you-should-know-in-2018-25afb4025b9
 1. Material UI / MaterialUI
 2. https://github.com/ant-design/ant-design
 3. Styled Components
-4. React bootstrap - https://react-bootstrap.github.io
-
-    https://www.toptal.com/bootstrap/react-bootstrap-components
-
+4. React bootstrap - https://react-bootstrap.github.io, https://www.toptal.com/bootstrap/react-bootstrap-components
 5. ReactStrap - https://reactstrap.github.io https://github.com/reactstrap/reactstrap
 6. https://github.com/bvaughn/react-virtualized
 7. https://github.com/gabrielbull/react-desktop
@@ -49,6 +46,7 @@ https://blog.bitsrc.io/9-css-in-js-libraries-you-should-know-in-2018-25afb4025b9
 13. https://tailwindui.com
 14. https://chakra-ui.com
 15. [Mantine](https://mantine.dev/)
+16. [Build your component library - shadcn/ui](https://ui.shadcn.com/)
 
 https://technostacks.com/blog/react-component-libraries
 

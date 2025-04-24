@@ -32,6 +32,10 @@ This chapter explains the concept of assets side of a typical Balance Sheet.
 
 Key components of the cash flow statement, and their analysis. Also describes the connection between the Balance sheet, Profit and Loss statement and Cash flow.
 
+Sales is Vanity, Profit is Sanity, But Cash Flow is King.
+
+[Decode Cash Flow Statements the SOIC Way: The Only Video You’ll Ever Need - YouTube](https://www.youtube.com/watch?v=J_SmcJtWuiY)
+
 ### [9. The Financial Ratio Analysis (Part 1)](https://zerodha.com/varsity/chapter/financial-ratio-analysis/)
 
 In this three part series we discussed the analysis of financial statements through financial ratios. In this chapter we looked at the profitability ratios which indicates the profitability of the com ..

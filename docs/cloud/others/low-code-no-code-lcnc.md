@@ -52,6 +52,7 @@
 	- [Framer Tutorial: Components with Interactions, Variants and Variables - YouTube](https://www.youtube.com/watch?v=2jJkUuWhv70&ab_channel=Framer)
 	- [Berkeley Square Finance Group (BSFG)](https://bsfg.finance/)
 - [Rollout AI - AI Landing Page Builder & Website Builder \[FREE\]](https://rollout.site/)
+- [CopyCoder](https://copycoder.ai/)
 
 ### Others
 

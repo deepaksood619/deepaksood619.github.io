@@ -126,6 +126,20 @@ https://retool.com
 
 https://www.freecodecamp.org/news/build-a-crm
 
+## SMTP Server
+
+**Mailpit** is a small, fast, low memory, zero-dependency, multi-platform email testing tool & API for developers.
+
+It acts as an SMTP server, provides a modern web interface to view & test captured emails, and includes an API for automated integration testing.
+
+- [GitHub - axllent/mailpit: An email and SMTP testing tool with API for developers](https://github.com/axllent/mailpit)
+- [Mailpit - email & SMTP testing tool](https://mailpit.axllent.org/)
+
+### Others
+
+- [GitHub - mailhog/MailHog: Web and API based SMTP testing](https://github.com/mailhog/MailHog)
+- [MailCatcher](https://mailcatcher.me/)
+
 ## Others
 
 - Party town - offload js scripts to workers

@@ -7,6 +7,7 @@
 - [GitHub - ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev) - [Free for Developers](https://free-for.dev)
 - [Open Source Alternatives to Proprietary Software](https://www.opensourcealternative.to/)
 - [Business Software and Services Reviews | G2](https://www.g2.com/)
+- [Google Alerts - Monitor the Web for interesting new content](https://www.google.com/alerts)
 
 ## Alexa
 

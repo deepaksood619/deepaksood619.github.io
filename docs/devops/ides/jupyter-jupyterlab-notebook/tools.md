@@ -28,6 +28,10 @@ https://polynote.org
 
 https://towardsdatascience.com/polynote-the-new-jupyter-c7696a321b09
 
+## Good Colabs / Jupyter Notebooks
+
+- [SVB, Inverted Curve and Bond Risk.ipynb - Colab](https://colab.research.google.com/drive/15uxrAeCCL327kWH9N0X-ogKwf2zErjP5)
+
 ## References
 
 https://medium.com/netflix-techblog/notebook-innovation-591ee3221233
@@ -35,3 +39,8 @@ https://medium.com/netflix-techblog/notebook-innovation-591ee3221233
 https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29
 
 [Generative AI in Jupyter. Jupyter AI, a new open source project… | by Jason Weill | Aug, 2023 | Jupyter Blog](https://blog.jupyter.org/generative-ai-in-jupyter-3f7174824862)
+
+[Colab Tools for Google Sheets](https://medium.com/google-colab/colab-tools-for-google-sheets-078cefd9d112)
+
+- Sheets to Colab
+- Interactive Sheets

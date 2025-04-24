@@ -84,6 +84,8 @@ Create 15 mcq questions (with 4 options each and 1 correct answer) around below 
 
 ## Create architecture diagram
 
+[Napkin AI - The visual AI for business storytelling](https://www.napkin.ai/)
+
 **Provide result into mermaid format**
 
 I need to generate a sequence diagram.

@@ -145,6 +145,7 @@ https://www.funretrospectives.com
     - [TimeBot](https://zapier.com/blog/best-free-slack-apps/#timebot): Manage vacation time, sick leave, and holidays
     - AttendanceBot
     - Doodle Bot
+    - PTO - Personal Time Off / Paid Time Off
 - **Others**
     - Poly/Polly (Pulse Survey)
         - https://forms.gle/ZhbT6fPhZefMkBpMA

@@ -80,3 +80,62 @@ Specifications (specs for short) are simply YAML config files containing the obj
 https://fission.io
 
 https://github.com/fission/fission
+
+## Serverless
+
+**The Serverless Framework** – Makes it easy to use AWS Lambda and other managed cloud services to build applications that auto-scale, cost nothing when idle, and result in radically low maintenance.
+
+The Serverless Framework is a command-line tool with approachable YAML syntax to deploy both your code and cloud infrastructure needed to make tons of serverless application use-cases, like APIs, front-ends, data pipelines and scheduled tasks. It's a multi-language framework that supports Node.js, Typescript, Python, Go, Java, and more. It's also completely extensible via over 1,000 plugins which add more serverless use-cases and workflows to the Framework.
+
+Serverless Framework V4 CLI is free for developers and organizations making less than $2 million annually, but requires an account or a license key.
+
+### Features
+
+- **Build More, Manage Less:** Innovate faster by spending less time on infrastructure management.
+- **Maximum Versatility:** Tackle diverse serverless use cases, from APIs and scheduled tasks to web sockets and data pipelines.
+- **Automated Deployment:** Streamline development with code and infrastructure deployment handled together.
+- **Local Development:** Route events from AWS to your local AWS Lambda code to develop faster without having to deploy every change.
+- **Ease of Use:** Deploy complex applications without deep cloud infrastructure expertise, thanks to simple YAML configuration.
+- **Language Agnostic:** Build in your preferred language – Node.js, Python, Java, Go, C#, Ruby, Swift, Kotlin, PHP, Scala, or F#.
+- **Complete Lifecycle Management:** Develop, deploy, monitor, update, and troubleshoot serverless applications with ease.
+- **Scalable Organization:** Structure large projects and teams efficiently by breaking down large apps into Services to work on individually or together via Serverless Compose.
+- **Effortless Environments:** Seamlessly manage development, staging, and production environments.
+- **Customization Ready:** Extend and modify the Framework's functionality with a rich plugin ecosystem.
+- **Vibrant Community:** Get support and connect with a passionate community of Serverless developers.
+
+### Commands
+
+```bash
+# install
+npm i serverless -g
+
+# update
+serverless update
+
+# use
+serverless
+
+# deploy
+serverless deploy
+
+# local development
+pip install werkzeug boto3
+pip install -r requirements.txt
+serverless plugin install -n serverless-dynamodb-local
+serverless dynamodb install
+serverless dev
+```
+
+[GitHub - serverless/serverless: ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.](https://github.com/serverless/serverless)
+
+[Getting Started with Serverless Framework - YouTube](https://www.youtube.com/watch?v=KQRGM9_eqIw)
+
+[Serverless Framework V.4 GA – Overview - YouTube](https://www.youtube.com/watch?v=UQL_PPJUFOU)
+
+[Serverless was a big mistake... says Amazon - YouTube](https://www.youtube.com/watch?v=qQk94CjRvIs)
+
+[Serverless MCP - Introduction - YouTube](https://www.youtube.com/watch?v=FW6IpZv_xUU)
+
+## Others
+
+- [GitHub - zappa/Zappa: Serverless Python](https://github.com/zappa/Zappa)

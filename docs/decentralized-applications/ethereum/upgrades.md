@@ -71,6 +71,34 @@ Ethereum social consensus, _for other purposes_:
 
 [Deeper dive on cross-L2 reading for wallets and other use cases](https://vitalik.ca/general/2023/06/20/deeperdive.html)
 
+## Pectra Upgrade (May 7, 2025)
+
+[Ethereum Pectra Upgrade \| Coinbase](https://www.coinbase.com/en-in/learn/crypto-basics/ethereum-pectra-upgrade)
+
+### Key Innovations of the Pectra Upgrade
+
+- **Enhanced Scalability**: The Pectra Upgrade introduces mechanisms that increase the network’s transaction capacity. This allows Ethereum to process more transactions per second, which is crucial for supporting the growing number of decentralized applications (dApps) and users on the platform.
+- **Reduced Transaction Fees**: By optimizing data processing and storage management, gas fees are expected to decrease. This makes transactions more affordable for users and encourages broader adoption and use of Ethereum-based applications.
+- **Improved Security**: The upgrade implements advanced cryptographic techniques to further enhance the security of smart contracts and user data. This ensures a more robust and secure environment for all network participants.
+- **Introduction of Smart Accounts**: The Pectra Upgrade makes Ethereum accounts more flexible to use. Regular user accounts, which previously could only perform simple transactions, can now be temporarily converted into **Smart Accounts**. This allows users to execute multiple transactions simultaneously and even pay gas fees with different cryptocurrencies. These improvements make Ethereum easier and cheaper to use while opening new possibilities for future innovations.
+
+### Key Ethereum Improvement Proposals (EIPs) in the Pectra Upgrade
+
+- **EIP-7251: Increase of Maximum Validator Balance** This EIP raises the maximum balance for validators from 32 ETH to 2,048 ETH. This allows validators to stake larger amounts more efficiently. It also reduces the number of validators needed, which decreases network load and improves blockchain efficiency.
+- **EIP-7702: Introduction of Account Abstraction** This proposal allows externally owned accounts (EOAs) to be temporarily converted into smart contract accounts. This enables functions like transaction bundling and paying gas fees with alternative tokens. It improves user-friendliness and lays the groundwork for future developments in account management.
+- **EIP-7742: Dynamic Adjustment of Blob Capacity** This EIP enables dynamic adjustment of the maximum and target number of blobs per block. It prepares the network for future scaling measures and improves data availability for Layer 2 solutions.
+- **EIP-6110: On-Chain Processing of Validator Deposits** By moving validator deposit processing directly onto the consensus layer, this EIP reduces potential security risks and shortens the wait time for new validators. This makes it easier for new validators to join and increases the network's security.
+- **EIP-7002: Smart Contract-Controlled Staking Withdrawals** This EIP allows smart contracts to directly trigger validator withdrawals. This offers staking pools and other applications greater flexibility in managing withdrawal processes and automates certain operations. Users gain more rights and security when using third-party staking services.
+- **EIP-7691: Blob scaling** This EIP doubles the number of blobs that can be processed per block, allowing Ethereum to handle significantly more data and process it more efficiently. This enhances the network’s scalability—especially for layer-2 rollups —resulting in consistently lower transaction costs even during periods of high demand.
+
+[Is Ethereum Ready for a Major Comeback in 2025? (New Upgrades!) - YouTube](https://www.youtube.com/watch?v=tfY2N9yorBM)
+
+[Massive Ethereum Upgrade Coming Soon on this date - what you must know - YouTube](https://www.youtube.com/watch?v=KGV-_TtB-Vw)
+
+[ETH To Skyrocket In 2025? Pectra Explained - YouTube](https://www.youtube.com/watch?v=FqW7TlAY9t0)
+
+[Ethereum in 2025: Major Upgrades and DevCon Insights You Need to Know - YouTube](https://www.youtube.com/watch?v=w0lzwAOeUn4)
+
 ## Future Upgrades
 
 ![ethereum-upgrades](../../media/Pasted%20image%2020230913230740.jpg)

@@ -9,6 +9,11 @@
 
 ![image](../../media/Market-Terms_Valuation-Metrics-image1.jpg)
 
+[The invisible threat to portfolio performance \| Time correction - YouTube](https://www.youtube.com/watch?v=YqLJTfyPxcU)
+
+- Time correction
+- Price correction
+
 ## Macroeconomic Indicators
 
 - m-cap-to-GDP ratio - [Sensex, Nifty: Red flag! This Warren Buffett's indicator suggests stock market still is expensive](https://www.businesstoday.in/markets/stocks/story/sensex-nifty-red-flag-this-warren-buffetts-indicator-suggests-stock-market-still-is-expensive-466589-2025-03-04)

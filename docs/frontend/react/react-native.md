@@ -38,3 +38,7 @@ react-native run-android
 https://medium.com/corebuild-software/easily-optimise-your-react-native-components-rendering-8deb22176c8a
 
 [Migrating our Largest Mobile App to React Native (2023)](https://shopify.engineering/migrating-our-largest-mobile-app-to-react-native)
+
+[Why We Built Our Very Own Phoenix, an In-House React Native CodePush \| by Kushagra Gupta \| Apr, 2025 \| Zepto TechXPress](https://blog.zeptonow.com/why-we-built-our-very-own-in-house-react-native-codepush-platform-db0c195e4603)
+
+- [GitHub - microsoft/code-push: A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.](https://github.com/microsoft/code-push)

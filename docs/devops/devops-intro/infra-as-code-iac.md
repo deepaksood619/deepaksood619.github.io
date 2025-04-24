@@ -34,20 +34,26 @@ Security policies also contain notable differences between the various cloud pro
 
 ## Tools
 
-- Terraform
+- [Terraform](devops/terraform/readme.md)
 - CloudFormation
 - Ansible
 - [Terratest \| Automated tests for your infrastructure code.](https://terratest.gruntwork.io/)
 - [GitHub - pulumi/pulumi: Pulumi - Infrastructure as Code in any programming language 🚀](https://github.com/pulumi/pulumi)
 	- [Pulumi - Infrastructure as Code in Any Programming Language](https://www.pulumi.com/)
+	- [OpenTofu vs. Terraform \| Pulumi Docs](https://www.pulumi.com/docs/iac/concepts/vs/terraform/opentofu/)
+- [System Initiative](https://www.systeminit.com/)
+	- [System Initiative is the Future](https://www.systeminit.com/blog/system-initiative-is-the-future)
+	- [System Initiative Getting Started Tutorial - YouTube](https://www.youtube.com/watch?v=7vrIJmP49IE)
+	- [GitHub - systeminit/si: The System Initiative software](https://github.com/systeminit/si)
+- [AI-Driven DevOps Platform \| Scoutflo - Fast, Secure Infrastructure Delivery](https://scoutflo.com/)
 
 ### Digital Rebar
 
 Digital Rebar (aka DRP) is a self-managed hardware-neutral data center automation platform for provisioning and managing [infrastructure as code](https://rackn.com/2020/03/24/infrastructure-as-code-repost-devops-com/)(IaC). It was designed with a cloud-native architecture focus and integrates deeply with API driven configuration tools like Ansible and Terraform. It fully replaces bare metal provisioners like [Cobbler](https://rackn.com/products/enterprise/cobbler/), [Foreman](https://rackn.com/products/enterprise/foreman/) or [MaaS](https://rackn.com/products/enterprise/maas/).
 
-## Key Features
+#### Key Features
 
-### Platform Capabilities
+##### Platform Capabilities
 
 - API-driven infrastructure-as-code automation
 - Multi-boot workflows using composable and reusable building blocks
@@ -58,7 +64,7 @@ Digital Rebar (aka DRP) is a self-managed hardware-neutral data center automatio
 - Integrated Secure Boot, SSO and Highly Available options.
 - Supports ALL orchestration tools including Chef, Puppet, Ansible, SaltStack, Bosh, Terraform, etc
 
-### Open Ecosystem Plugins
+##### Open Ecosystem Plugins
 
 - RAID, IPMI, Redfish, and BIOS Configuration
 - Cloud-like pooling capabilities

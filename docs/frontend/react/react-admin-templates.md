@@ -5,6 +5,7 @@
 - https://marmelab.com/ra-enterprise-demo
 - https://github.com/bmihelac/ra-data-django-rest-framework
 - [**https://github.com/PanJiaChen/vue-element-admin**](https://github.com/PanJiaChen/vue-element-admin)
+- [GitHub - creativetimofficial/argon-dashboard-react: React version of Argon Dashboard](https://github.com/creativetimofficial/argon-dashboard-react)
 
 ## Admin Templates
 

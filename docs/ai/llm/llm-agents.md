@@ -55,7 +55,9 @@ The power of AI collaboration has too much to offer. CrewAI is a standalone fram
 - [AI Agents Directory - Find and Compare AI Assistants \| AI Agents List](https://aiagentslist.com/)
 - [AI Agents Marketplace \| AI Agents Directory - Discover Best AI Agents](https://aiagentsdirectory.com/)
 - [GitHub - MotiaDev/motia: Event-based orchestration framework for agents and intelligent automations](https://github.com/MotiaDev/motia)
-- [A beautiful UI for your Agents - Agno](https://docs.agno.com/agent-ui/introduction)
+- [GitHub - agno-agi/agno: Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.](https://github.com/agno-agi/agno)
+	- [A beautiful UI for your Agents - Agno](https://docs.agno.com/agent-ui/introduction)
+	- Developers use Agno to build Reasoning Agents, Multimodal Agents, Teams of Agents and Agentic Workflows. Agno also provides a beautiful UI to chat with your Agents, pre-built FastAPI routes to serve your Agents and tools to monitor and evaluate their performance.
 
 ![AI Agents Landscape](../../media/Pasted%20image%2020250114143214.jpg)
 
