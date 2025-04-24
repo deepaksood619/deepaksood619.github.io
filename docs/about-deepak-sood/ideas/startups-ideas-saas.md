@@ -68,6 +68,10 @@ LLM that can finish your sentences, can read your minds, real time conversation
 
 [Introducing the eighth cohort of Google for Startups Accelerator: India](https://blog.google/intl/en-in/introducing-the-eighth-cohort-of-google-for-startups-accelerator-india/)
 
+### One click github repo run/setup
+
+- Add any github repo and see it in working online without setup at your end
+
 ### AI Content Generation
 
 Startup Idea - Hindi book summaries - Audio - Content - make something for Indian consumer (there is a lot of opportunity in Indian Audience)

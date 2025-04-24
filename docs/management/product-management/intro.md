@@ -246,6 +246,16 @@ Product sense relies on
 
 https://www.lennysnewsletter.com/p/product-sense
 
+## ICE scoring model
+
+The ICE scoring model is **a prioritization framework in product management that evaluates projects, ideas, and features based on Impact, Confidence, and Ease**. It helps product teams determine which initiatives to focus on by assigning numerical scores to each of these factors and then multiplying them to generate an overall ICE score. The higher the ICE score, the more priority the corresponding item should have.
+
+1. **Impact** - This assesses how much a project or feature will affect a key metric or goal. For example, if the goal is to increase user engagement, a feature that dramatically increases user activity would have a high impact score.
+2. **Confidence** - This measures the certainty that the project will have the predicted impact. If there's a high degree of confidence that a feature will be well-received and achieve its goals, it would receive a high confidence score.
+3. **Ease** - This evaluates how easy or difficult it will be to implement the project or feature. A project that requires minimal effort and resources would have a high ease score.
+
+[What is the ICE Scoring Model? \| Definition and Overview](https://www.productplan.com/glossary/ice-scoring-model/)
+
 ## Others
 
 https://www.freecodecamp.org/news/why-understanding-software-requirements-matter-to-you-as-a-software-engineer

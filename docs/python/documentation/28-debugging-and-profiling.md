@@ -1,18 +1,12 @@
 # 28. Debugging and Profiling
 
-27.1. bdb - Debugger framework
-
-27.2. faulthandler - Dump the Python traceback
-
-27.3. pdb - The Python Debugger
-
-27.4. The Python Profilers
-
-27.5. timeit - Measure execution time of small code snippets
-
-27.6. trace - Trace or track Python statement execution
-
-27.7. tracemalloc - Trace memory allocations
+- 27.1. bdb - Debugger framework
+- 27.2. faulthandler - Dump the Python traceback
+- 27.3. pdb - The Python Debugger
+- 27.4. The Python Profilers
+- 27.5. timeit - Measure execution time of small code snippets
+- 27.6. trace - Trace or track Python statement execution
+- 27.7. tracemalloc - Trace memory allocations
 
 ## time
 

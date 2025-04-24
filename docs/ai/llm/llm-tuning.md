@@ -60,6 +60,10 @@ The first release of bitnet.cpp is to support inference on CPUs. bitnet.cpp achi
 
 [\[2504.12285\] BitNet b1.58 2B4T Technical Report](https://arxiv.org/abs/2504.12285)
 
+## Others
+
+- Instruct tuning / Instruction Tuning
+
 ## Links
 
 - [Fine-tuning large language models (LLMs) in 2024 | SuperAnnotate](https://www.superannotate.com/blog/llm-fine-tuning)

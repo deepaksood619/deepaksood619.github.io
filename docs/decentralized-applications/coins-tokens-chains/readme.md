@@ -105,7 +105,7 @@ A wrapped token is a tokenized version of another cryptocurrency which is pegged
 - [Binance Smart Chain And CeDeFi Explained - YouTube](https://www.youtube.com/watch?v=iJDoc0kvXLc)
 - [Zilliqa blockchain](https://www.zilliqa.com/what-is-zil)
 - [Venom Foundation - Secure by design, scalable by nature](https://venom.foundation/)
-- Avalanche
+- Avalanche (AVAX)
     - [Avalanche: Create Without Limits | dApp Platform](https://www.avax.network/)
     - [Avalanche: What’s Up With AVAX?! This Will Surprise You!! - YouTube](https://www.youtube.com/watch?v=kts3zcktuZ8)
     - [Avalanche: Could AVAX CRUSH it in 2022?! Deep Dive!! - YouTube](https://www.youtube.com/watch?v=JKiB_4TPXDM)

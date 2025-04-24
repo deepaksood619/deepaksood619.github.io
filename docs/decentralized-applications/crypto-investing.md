@@ -8,6 +8,12 @@
 - Ethereum
 - Solana
 - Polygon (MATIC) (Maybe)
+- Avalanche
+
+#### Others
+
+- Cosmos
+- Mina
 
 ### Gas Fees Comparison
 

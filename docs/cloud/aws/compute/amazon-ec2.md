@@ -2,11 +2,14 @@
 
 Virtual Servers in the Cloud
 
-installing docker in ubuntu ec2 instance
+### installing docker in ubuntu ec2 instance
+
+[Ubuntu \| Docker Docs](https://docs.docker.com/engine/install/ubuntu/)
 
 ```bash
-apt-get update
-apt-get install docker
+sudo apt-get update
+sudo apt-get upgrade -y
+sudo apt-get install docker
 sudo usermod -aG docker ubuntu
 # log out of terminal and log back in
 sudo systemctl start docker
@@ -17,9 +20,47 @@ docker run hello-world
 
 [AWS EC2 Instance Types](ec2-instance-types)
 
+### installing docker in amazon-linux ec2 instance
+
+```bash
+# 1. Update your system
+sudo yum update -y
+
+# 2. Install Docker (Amazon Linux 2 uses yum, not apt)
+sudo yum install docker -y
+
+# 3. Start the Docker service
+sudo service docker start
+
+# 4. Add the ec2-user to the docker group (so you can run Docker without sudo)
+sudo usermod -aG docker ec2-user
+
+# 5. Log out and log back in (or run the next command for current session)
+newgrp docker
+
+# 6. Test Docker installation
+docker run hello-world
+
+# install git
+sudo yum install -y git
+git --version
+
+# install docker-compose
+sudo yum install -y python3-pip
+sudo pip3 install docker-compose --ignore-installed requests
+docker-compose --version
+```
+
 ### Deploy code to EC2
 
-`*/5 * * * * /home/ubuntu/deploy.sh`
+```bash
+*/5 * * * * /home/ubuntu/deploy.sh
+
+*/5 * * * * /home/ubuntu/deploy.sh >> /var/log/deploy.log 2>&1
+
+touch /var/log/deploy.log
+sudo chmod +777 /var/log/deploy.log
+```
 
 ```bash title="deploy.sh"
 #!/bin/bash

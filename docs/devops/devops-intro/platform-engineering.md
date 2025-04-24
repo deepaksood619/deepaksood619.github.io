@@ -12,3 +12,5 @@ An internal developer platform is focused on a company’s internal development 
 - [What is platform engineering? | Microsoft Learn](https://learn.microsoft.com/en-us/platform-engineering/what-is-platform-engineering)
 - [What is platform engineering?](https://platformengineering.org/blog/what-is-platform-engineering)
 - [Platform Engineering Series - YouTube](https://www.youtube.com/playlist?list=PLGVPcLSzJXQos1O18dvKoW2XSczz2I2lH)
+- [Cortex \| Internal Developer Portal](https://www.cortex.io/)
+	- [Cortex: Cortex is the Internal Developer Portal eliminating “developer tax”… \| Y Combinator](https://www.ycombinator.com/companies/cortex)

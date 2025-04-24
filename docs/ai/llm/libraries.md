@@ -81,7 +81,13 @@
 - [**Featureform**](https://github.com/featureform/featureform) - feature store. Turn your existing data infrastructure into a feature store.
 - [**Galactic**](https://github.com/taylorai/galactic) cleaning and curation tools for massive unstructured text datasets. [Ben (48/100) on X](https://x.com/andersonbcdefg/status/1703093978982400057?t=9O2R93Ok8Mp6KqFegZVHJQ&s=09)
 - [**Great Expectations**](https://github.com/great-expectations/great_expectations) - helps data teams build a shared understanding of their data through quality testing, documentation, and profiling.
+
+### Scapping / Scrapper
+
 - [GitHub - mendableai/firecrawl: 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.](https://github.com/mendableai/firecrawl)
+- [GitHub - ScrapeGraphAI/Scrapegraph-ai: Python scraper based on AI](https://github.com/ScrapeGraphAI/Scrapegraph-ai)
+- [GitHub - scrapy/scrapy: Scrapy, a fast high-level web crawling & scraping framework for Python.](https://github.com/scrapy/scrapy)
+- [Beautiful Soup Documentation — Beautiful Soup 4.13.0 documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 ### Data Visualization
 

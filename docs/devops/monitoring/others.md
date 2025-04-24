@@ -219,6 +219,11 @@ https://docs.newrelic.com/docs/integrations/kubernetes-integration/kubernetes-ev
 
 https://docs.docker.com/config/containers/logging/syslog
 
+### syslog-ng
+
+- [GitHub - syslog-ng/syslog-ng: syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.](https://github.com/syslog-ng/syslog-ng)
+- [syslog-ng - Log Management Solutions](https://www.syslog-ng.com/)
+
 ## DataDog
 
 - [Best Practices for Tagging Your Infrastructure and Applications | Datadog](https://www.datadoghq.com/blog/tagging-best-practices/)

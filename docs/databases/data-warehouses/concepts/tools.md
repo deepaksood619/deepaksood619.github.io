@@ -32,6 +32,36 @@ Some transformations in IICS include:
 - Informatica IDMC - Intelligent Data Management Cloud
     - [What is API Management? | Informatica India](https://www.informatica.com/in/resources/articles/api-management-and-informatica-intelligent-cloud-services.html)
     - [API Lifecycle Management Tools and Solutions | Informatica India](https://www.informatica.com/in/products/cloud-integration/integration-cloud/api-management.html)
+- [Master Data Management (MDM) Solutions and Tools \| Informatica](https://www.informatica.com/products/master-data-management.html)
+
+### MDM Processing
+
+In Informatica, merging records typically refers to consolidating multiple records into a single, authoritative record, often referred to as a "**golden record.**" This process involves identifying duplicate or related records and combining their data to create a comprehensive, unified representation. Informatica's MDM (Master Data Management) solutions, such as MDM Hub and C360 SaaS, provide tools and workflows to facilitate this process, either automatically or through manual intervention.
+
+#### 1. Identifying Duplicate or Related Records
+
+- **Match and Merge:** Informatica uses match rules and algorithms to identify potential matches or duplicates based on specific fields or combinations of fields.
+- **Manual Review:** In some cases, a manual review of potential matches may be necessary to ensure accurate merging, especially when dealing with complex relationships or ambiguous data.
+- **Search and Query:** Users can use search functionalities within Informatica MDM to find and select records for merging.
+
+#### 2. Merging Process
+
+- **Automatic Merging:** In some scenarios, records can be automatically merged based on predefined rules and trust levels.
+- **Manual Merging:** Users can manually select records to merge and review the merged data to ensure accuracy.
+- **Surviving Records:** During the merge process, Informatica determines which fields from the original records will be retained in the merged record, often based on trust levels or recency.
+
+#### 3. Tools and Workflows
+
+- **Data Steward Workbench (MDM Hub):** This workbench provides tools like Merge Manager for reviewing and managing merging activities.
+- **Merge Manager:** This component allows users to view records queued for merging, review potential matches, and manually merge records.
+- **Data Director:** This component (part of C360 SaaS) provides a user interface for navigating and managing master data, including merging records.
+- **REST APIs:** Informatica provides REST APIs for programmatic merging of records, enabling integration with other systems and workflows.
+
+#### 4. Key Considerations
+
+- **Match Rules:** Properly defining match rules is crucial for accurately identifying duplicate records.
+- **Trust Levels:** Understanding and utilizing trust levels to prioritize data from different sources is essential for creating authoritative golden records.
+- **Data Governance:** Establishing clear data governance policies and processes is necessary for ensuring the accuracy and consistency of merged data.
 
 ### Links
 
@@ -55,6 +85,8 @@ Some transformations in IICS include:
 [GitHub - iterative/dvc: 🦉 ML Experiments Management with Git](https://github.com/iterative/dvc)
 
 [Tracking ML Experiments With Data Version Control](https://www.analyticsvidhya.com/blog/2021/06/mlops-tracking-ml-experiments-with-data-version-control/)
+
+[A Simple Guide to DVC: What It Is and How to Get Started - DEVOPS DONE RIGHT.](https://opstree.com/blog/2025/04/22/a-simple-guide-to-dvc-what-it-is-and-how-to-get-started/)
 
 ## DBT
 

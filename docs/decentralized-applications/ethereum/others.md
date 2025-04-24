@@ -36,3 +36,8 @@ ENS’s job is to map human-readable names like ‘alice.eth’ to machine-reada
 - **Ethereum Name Service (ENS)**: It allows you to create ".eth" domains that replace your public wallet address. With ENS, decentralized identifiers are recorded on public and immutable ledgers like Ethereum in the form of a smart contract address.
 
 [Guest Post by DeFiChain: Your identity in the Web3 era: A noob’s guide to decentralized identity | CoinMarketCap](https://coinmarketcap.com/community/articles/644bb6304bebb711c9627197/)
+
+## Ethereum Price Action
+
+- [People Are Sleeping On Ethereum? 😴 ETH Crypto Token Analysis - YouTube](https://www.youtube.com/watch?v=2UxgkGJdf6U)
+- [Ethereum Is DYING?! The Shocking Truth No One’s Talking About! - YouTube](https://www.youtube.com/watch?v=Qw6NBIgAgQQ)

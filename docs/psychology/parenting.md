@@ -164,6 +164,10 @@ While sometimes tantrums are inevitable, a few smart strategies can help head th
 
 [Can You Teach a Baby Discipline?](https://www.whattoexpect.com/baby-behavior/teaching-discipline.aspx)
 
+### Sibling
+
+[7 tips for dealing with sibling rivalry \| BabyCentre](https://www.babycentre.co.uk/7-tips-for-dealing-with-sibling-rivalry_25053878)
+
 ## Things that shouldn't be teached to children
 
 - Religion

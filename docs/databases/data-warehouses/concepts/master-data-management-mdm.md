@@ -78,4 +78,7 @@ Machine learning and AI can enhance MDM by automating data cleansing, matching, 
 
 - SAP
 - Microsoft 365 (Dynamics 365)
-- Informatica
+- Informatica MDM
+- Open Source
+	- Talend MDM (Community Edition)
+	- [ChatGPT - Open Source MDM Tools](https://chatgpt.com/share/68078cd3-6618-8008-aa41-916902d4f499)

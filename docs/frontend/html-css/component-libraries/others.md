@@ -3,17 +3,10 @@
 ## Bootstrap
 
 1. Flatter Buttons
-
 2. Media queries are better
-
-3. Flexbox support gives more flexibility
-
-Bootstrap grids are created with Flexbox instead of Floats
-
+3. Flexbox support gives more flexibility - Bootstrap grids are created with Flexbox instead of Floats
 4. Control spacing with classes
-
 5. From pixels to rems (relative units of measurements)
-
 6. New component: Cards
 
 [https://bootstrapstudio.io](https://bootstrapstudio.io/)

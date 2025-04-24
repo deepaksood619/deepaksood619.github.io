@@ -87,9 +87,8 @@ https://www.lennysnewsletter.com/p/building-community
 - https://www.instamojo.com/blog/community-building-platforms-build-your-business-organically
 - Luma - https://lu.ma
 - [Circle: The all-in-one community platform for creators and brands](https://circle.so/)
-- [Maven: Expert-led. Peer-driven. Hello, live learning.](https://maven.com/)
-
-Foster meaningful relationships with events, newsletters, and community analytics
+- [Maven: Expert-led. Peer-driven. Hello, live learning.](https://maven.com/) - Foster meaningful relationships with events, newsletters, and community analytics
+- [Gitter — Where developers come to talk.](https://gitter.im/)
 
 ## Links
 

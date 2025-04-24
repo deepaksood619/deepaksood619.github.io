@@ -110,6 +110,21 @@ docker logs smap-archiver > stdout.log 2>stderr.log
 - **docker secret** - Manage docker secrets
     - create, inspect, ls, rm
 
+### docker logs rotate
+
+```json
+cat daemon.json
+{
+  "log-driver": "json-file",
+  "log-opts": {
+    "max-size": "250m",
+    "max-file": "3"
+  }
+}
+```
+
+[How to limit or rotate Docker container logs? - General - Docker Community Forums](https://forums.docker.com/t/how-to-limit-or-rotate-docker-container-logs/112378/6)
+
 ## Images
 
 Images are just [templates for docker containers](https://docs.docker.com/engine/understanding-docker/#how-does-a-docker-image-work).

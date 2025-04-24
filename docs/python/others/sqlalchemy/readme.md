@@ -82,6 +82,10 @@ sqlacodegen mysql+pymysql://user:pass@host.com:3306/sttash_website_LIVE --table 
 
 https://github.com/ksindi/flask-sqlacodegen
 
+## Migrations
+
+[GitHub - sqlalchemy/alembic: A database migrations tool for SQLAlchemy.](https://github.com/sqlalchemy/alembic)
+
 ## Others
 
 https://docs.sqlalchemy.org/en/13/faq/sessions.html#i-m-re-loading-data-with-my-session-but-it-isn-t-seeing-changes-that-i-committed-elsewhere
