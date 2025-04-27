@@ -28,7 +28,7 @@ _How_ do you scale, adapt, and keep customers coming back?
 
 CreateMVPs.app
 
-- Cursor
+- [Cursor](https://www.cursor.com/) / [WindSurf](https://windsurf.com/editor)
 - Replit
 - Lovable
 

@@ -84,10 +84,11 @@
 
 ### Scapping / Scrapper
 
-- [GitHub - mendableai/firecrawl: 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.](https://github.com/mendableai/firecrawl)
-- [GitHub - ScrapeGraphAI/Scrapegraph-ai: Python scraper based on AI](https://github.com/ScrapeGraphAI/Scrapegraph-ai)
-- [GitHub - scrapy/scrapy: Scrapy, a fast high-level web crawling & scraping framework for Python.](https://github.com/scrapy/scrapy)
+- [GitHub - mendableai/firecrawl: 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.](https://github.com/mendableai/firecrawl) (37K Stars)
+- [GitHub - ScrapeGraphAI/Scrapegraph-ai: Python scraper based on AI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) (19.3K Stars)
+- [GitHub - scrapy/scrapy: Scrapy, a fast high-level web crawling & scraping framework for Python.](https://github.com/scrapy/scrapy) (55K Stars)
 - [Beautiful Soup Documentation — Beautiful Soup 4.13.0 documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [GitHub - unclecode/crawl4ai: 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN](https://github.com/unclecode/crawl4ai) (40.8K Stars)
 
 ### Data Visualization
 

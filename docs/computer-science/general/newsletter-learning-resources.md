@@ -26,10 +26,10 @@ https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layou
 
 ## Youtube channels worth subscribing
 
-1. GotoConf -https://www.youtube.com/user/GotoConferences
-2. InfoQ -https://www.youtube.com/user/MarakanaTechTV
-3. Coding Tech -https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ
-4. Tech Dummies -https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA
+1. GotoConf - https://www.youtube.com/user/GotoConferences
+2. InfoQ - https://www.youtube.com/user/MarakanaTechTV
+3. Coding Tech - https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ
+4. Tech Dummies - https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA
 
 ## Coding
 
@@ -98,6 +98,7 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 
 ## Github Repositories
 
+- [**Trendshift** - Explore open-source repositories and find some insights](https://trendshift.io/)
 - https://awesomeopensource.com
 - https://github.com/sindresorhus/awesome
 - https://github.com/EbookFoundation/free-programming-books

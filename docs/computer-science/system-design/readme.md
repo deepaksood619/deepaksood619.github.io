@@ -23,6 +23,8 @@
 
 ![software-architecture-styles](../../media/Pasted%20image%2020230719181140.jpg)
 
+![7 Quick Knowledge Nuggets for System Design Interviews](../../media/1745323463048.jpeg)
+
 ## Top 6 Cloud Messaging Patterns
 
 ### Asynchronous Request-Reply

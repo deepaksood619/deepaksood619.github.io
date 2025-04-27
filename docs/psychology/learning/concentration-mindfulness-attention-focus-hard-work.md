@@ -23,6 +23,7 @@ The successful warrior is the average man, with laser-like focus -- Bruce Lee
 - The natural state of the universe is chaos: entropy tends to increase in closed systems
 - Don't let entropy get at your daily routine. Avoid entropy-driven work.
 - **Without periodic attention, we "decay" to our old selves**
+- If effort isn't applied, systems in the universe tend towards increasing entropy, meaning a **greater state of disorder or randomness**. This is a fundamental principle described by the Second Law of Thermodynamics. In simpler terms, if left alone, things will **naturally move towards a state of greater chaos and less structure.**
 
 [https://jamesclear.com/entropy](https://jamesclear.com/entropy)
 

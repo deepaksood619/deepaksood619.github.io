@@ -10,6 +10,8 @@ Ikigai
 
 coup d'état
 
+Goed dank je - Thank you very much in Dutch
+
 Cogito ergo sum, I think, therefore I am. --Rene Descartes (1596 - 1650)
 
 veni, vidi, vici - I came, I saw, I conquered

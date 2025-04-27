@@ -331,6 +331,10 @@ Vaccine - The mumps vaccine is part of the **MMR vaccine** series, which also pr
 
 PCOD (Polycystic Ovarian Disease) and PCOS (Polycystic Ovary Syndrome) are both hormonal disorders that affect the ovaries. PCOD is generally less severe than PCOS
 
+## ADHD
+
+ADHD, or Attention-Deficit/Hyperactivity Disorder, is a neurodevelopmental condition characterized by symptoms of inattention, hyperactivity, and impulsivity. These symptoms can manifest in different ways and impact various aspects of a person's life.
+
 ## Links
 
 [Bacterial vs. Viral Infections: What’s the Difference?](https://www.healthline.com/health/bacterial-vs-viral-infections)

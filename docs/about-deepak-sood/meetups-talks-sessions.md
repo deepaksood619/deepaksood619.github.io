@@ -1,5 +1,17 @@
 # Meetups / Talks / Sessions
 
+## Build With AI - TFUG, Opstree Noida (3 May 2025)
+
+Automating the Future: Build Powerful AI Agents
+
+- The foundations of autonomous AI agents
+- How DevOps, AI, and Data converge to create truly adaptive systems
+- Strategies to not just build — but scale and evolve — intelligent agents in real-world environments
+
+![Build with AI - TFUG - Opstree](../media/1745660961529.jpeg)
+
+[#buildwithai #aiagents #futureofwork #aianddevops #datasolutions #opstree… \| Deepak Sood](https://www.linkedin.com/posts/deepaksood619_buildwithai-aiagents-automation-activity-7321903149244366848-liLY)
+
 ## UDAAN 2K25 - Kotlin User Group Gurugram (22 March 2025)
 
 Presentations

@@ -183,6 +183,8 @@ An ETF is called an exchange-traded fund since it's traded on an exchange just l
 
 [Best Gold ETFs in India 2025](https://groww.in/blog/best-gold-etfs-in-india)
 
+[5 oldest gold ETFs in India: How their long-term returns stack up against physical gold - Money News \| The Financial Express](https://www.financialexpress.com/money/5-oldest-gold-etfs-in-india-how-their-long-term-returns-stack-up-against-physical-gold-3813844/)
+
 ### Gold Funds
 
 [Best Gold Mutual Funds To Invest in India 2025](https://www.etmoney.com/mutual-funds/featured/best-gold-mutual-funds/25)
