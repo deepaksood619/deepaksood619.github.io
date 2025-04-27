@@ -24,6 +24,7 @@
 - [People](psychology/people.md)
 - [Emotions](psychology/emotions.md)
 - [Parenting](parenting)
+- [Schooling](psychology/schooling.md)
 - [Pesonality](psychology/personality.md)
 - [Research](research)
 - [Brain](brain)

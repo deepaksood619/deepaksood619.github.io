@@ -96,6 +96,8 @@ Mis (Monthly Income Scheme) - Limit 9 lakh
 
 [Senior Citizen Savings Scheme (SCSS) - Interest Rate 2024, Tax Benefits, Eligibility, Rules & Opening SCSS Account](https://cleartax.in/s/senior-citizen-savings-scheme)
 
+[Investment Options for Senior Citizens in India - 2025 edition](https://freefincal.com/investment-options-for-senior-citizens-in-india-2025-edition/)
+
 ### Mahila Samman Saving certificate - 7.5% 2 lakh
 
 ### Sukanya Samriddhi Yojana (SSY)
@@ -156,6 +158,15 @@ The rate of interest offered on tends to be higher for longer tenures. An FD wit
 - If no rate has been specified for that period, the interest rate payable is 3% (per annum) lower than the minimum interest rate at which public deposits are accepted by the NBFC.
 
 [Premature Withdrawal of Fixed Deposit (FD) Online - Bajaj Finance](https://www.bajajfinserv.in/service-guides/withdraw-your-fd-prematurely-in-my-account)
+
+[Going for premature withdrawal of fixed deposit? Know which type of bank FD minimises loss on interest and penalty](https://economictimes.indiatimes.com/wealth/invest/going-for-premature-withdrawal-of-fixed-deposit-know-which-type-of-bank-fd-minimises-loss-on-interest-and-penalty/articleshow/120580737.cms)
+
+|                                               | **Revised Rate** | **Revised Tenor (Months)** | **Penalty** | **Net Maturity Value** |
+| --------------------------------------------- | ---------------- | -------------------------- | ----------- | ---------------------- |
+| PW in 5 months; 1% interest loss              | 4%               | 5                          |             | ₹ 1,01,667             |
+| PW in 5 months; same rate; 1% penalty on P+I  | 7%               | 5                          | ₹ 1,029     | ₹ 1,01,888             |
+| PW in 37 months; 1% interest loss             | 5.5%             | 37                         |             | ₹ 1,18,344             |
+| PW in 37 months; same rate; 1% penalty on P+I | 7%               | 37                         | ₹ 1,239     | ₹ 1,22,620             |
 
 ## Links
 

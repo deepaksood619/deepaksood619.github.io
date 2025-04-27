@@ -45,6 +45,8 @@ Security policies also contain notable differences between the various cloud pro
 	- [System Initiative is the Future](https://www.systeminit.com/blog/system-initiative-is-the-future)
 	- [System Initiative Getting Started Tutorial - YouTube](https://www.youtube.com/watch?v=7vrIJmP49IE)
 	- [GitHub - systeminit/si: The System Initiative software](https://github.com/systeminit/si)
+	- [Getting Started \| System Initiative Docs](https://docs.systeminit.com/tutorials/getting-started)
+	- [Getting Started \| System Initiative Docs](https://docs.systeminit.com/tutorials/getting-started)
 - [AI-Driven DevOps Platform \| Scoutflo - Fast, Secure Infrastructure Delivery](https://scoutflo.com/)
 
 ### Digital Rebar

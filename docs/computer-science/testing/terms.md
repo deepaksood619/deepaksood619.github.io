@@ -310,6 +310,10 @@ If the Test fails, build is declared as unstable and it is NOT tested anymore un
 - [Test Data](https://www.tutorialspoint.com/software_testing_dictionary/test_data.htm)
 - [Test Data Management](https://www.tutorialspoint.com/software_testing_dictionary/test_data_management.htm)
 - [Test Driven Development](https://www.tutorialspoint.com/software_testing_dictionary/test_driven_development.htm)
+- TCR Test && Commit || Revert
+	- [How Practicing TCR (Test && Commit \|\| Revert) Reduces Batch Size - InfoQ](https://www.infoq.com/articles/test-commit-revert/)
+	- [TCR (test && commit \|\| revert). How to use? Alternative to TDD? \| by Tom \| Medium](https://medium.com/@tom-010/tcr-test-commit-revert-a-test-alternative-to-tdd-6e6b03c22bec)
+	- [What Is TCR? - Software Sunshine Blog](https://software-sunshine-blog.de/eng-tcr-vs-tdd)
 - [Test Driver](https://www.tutorialspoint.com/software_testing_dictionary/test_driver.htm)
 - [Test Environment](https://www.tutorialspoint.com/software_testing_dictionary/test_environment.htm)
 - [Test Execution](https://www.tutorialspoint.com/software_testing_dictionary/test_execution.htm)

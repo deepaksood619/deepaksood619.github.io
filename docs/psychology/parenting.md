@@ -33,28 +33,6 @@
 
 - should you let toddlers cry out tantrums
 
-## Schooling
-
-[Parents Commiting A Big Mistake Regarding Their Children Education - YouTube](https://www.youtube.com/watch?v=mlAR8dmMHf0)
-
-- Put children late in school
-- Homeschooling vs full day boarding - Doon public school
-- Schooling isn't just about education, it is also a form a childcare
-
-[Molly Wright: How every child can thrive by five | TED](https://www.youtube.com/watch?v=aISXCw0Pi94&ab_channel=TED)
-
-[Why School Is Bad For You](https://www.youtube.com/watch?v=M4u6oOQ77mg)
-
-[Some Parents Live Out Dreams Through Their Children. Sudha Murthy addressing parents.](https://youtu.be/wPX_iQP-4Rc)
-
-[How to Raise Successful Kids -- Without Over-Parenting | Julie Lythcott-Haims | TED](https://www.youtube.com/watch?v=CyElHdaqkjo) - Checklist
-
-[No fancy schools needed. Self-made man worth Rs 5,000 crore shares how to raise 'confident', 'independent' kids](https://m.economictimes.com/magazines/panache/forget-expensive-schools-thyrocare-founders-advice-to-parents-for-raising-confident-independent-kids/articleshow/117917359.cms)
-
-### Day Care / Creche
-
-[Best Play School & Day Care Chain: Footprints](https://www.footprintseducation.in/)
-
 ## Learning
 
 [Everything You Need to Know Before Sending Your Child to Preschool! | Footprints Childcare](https://www.footprintseducation.in/blog/everything-you-need-to-know-before-sending-your-child-to-preschool/)
@@ -245,6 +223,21 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [Milestone chart: 19 to 24 months | BabyCentre](https://www.babycentre.co.uk/a6472/milestone-chart-19-to-24-months)
 - [Milestone chart: 25 to 30 months | BabyCentre](https://www.babycentre.co.uk/a6471/milestone-chart-25-to-30-months)
 - [Milestone chart: 31 to 36 months | BabyCentre](https://www.babycentre.co.uk/a6470/milestone-chart-31-to-36-months)
+
+## Speech Delay
+
+### Solutions
+
+- Reading with kids
+- Give child time to respond
+- No screen time
+- Playing with kid
+
+### Links
+
+- [ChatGPT - Late Talker or Delay](https://chatgpt.com/share/680e061c-27a8-8005-ae21-42f38a532191)
+- [What to do when your 2 year old is talking gibberish to you — Toddler Talk](https://toddlertalk.com/blog/my-two-year-old-is-talking-jibberish)
+- [Do Parents Cause Speech Delays?](https://www.expressable.com/learning-center/speech-and-language-issues/do-parents-cause-speech-delays)
 
 ## Links
 

@@ -49,7 +49,7 @@ sudo apachectl stop
 
 ## Configs
 
-```
+```txt
 /etc/apache2/
 |-- apache2.conf
 |-- ports.conf

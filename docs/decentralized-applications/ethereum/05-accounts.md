@@ -63,7 +63,7 @@ The public key is generated from the private key using the [Elliptic Curve Digit
 
 The following example shows how to use a signing tool called [Clef](https://geth.ethereum.org/docs/tools/clef/introduction) to generate a new account. Clef is an account management and signing tool that comes bundled with the Ethereum client, [Geth](https://geth.ethereum.org/). The `clef newaccount` command creates a new key pair and saves them in an encrypted keystore.
 
-```
+```bash
 > clef newaccount --keystore <path>
 
 Please enter a password for the new account to be created:

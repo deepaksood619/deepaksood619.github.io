@@ -339,6 +339,10 @@ If you want to experiment and create many variations quickly, a high temperature
 
 [How to use OpenAI GPT-3 temperature • Gptforwork.com](https://gptforwork.com/guides/openai-gpt3-temperature)
 
+[Flex processing - OpenAI Platform](https://platform.openai.com/docs/guides/flex-processing)
+
+- Flex processing provides significantly lower costs for [Chat Completions](https://platform.openai.com/docs/api-reference/chat) or [Responses](https://platform.openai.com/docs/api-reference/responses) requests in exchange for slower response times and occasional resource unavailability. It is ideal for non-production or lower-priority tasks such as model evaluations, data enrichment, or asynchronous workloads.
+
 ## Topics
 
 - token embeddings

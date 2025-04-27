@@ -1,5 +1,7 @@
 # Tools
 
+[GitHub - Shubhamsaboo/awesome-llm-apps: Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
 ## ChatGPT / Bard
 
 - [Meet Bard](https://bard.google.com/)

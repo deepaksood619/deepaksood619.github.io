@@ -22,34 +22,20 @@ When you install Rustup you'll also get the latest stable version of the Rust bu
 
 ## Links
 
-[Tour of Rust - Let's go on an adventure!](https://tourofrust.com/)
-
-https://en.wikipedia.org/wiki/Rust_(programming_language)
-
-https://www.rust-lang.org
-
-[The Rust Programming Language - The Rust Programming Language](https://doc.rust-lang.org/book/)
-
-[Introduction - Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
-
-[Rust at speed - building a fast concurrent database - YouTube](https://www.youtube.com/watch?v=s19G6n0UjsM&ab_channel=JonGjengset)
-
-https://www.rust-lang.org/learn
-
-https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular
-
-https://www.freecodecamp.org/news/rust-in-replit
-
-[10 Videos on Rust that accelerate my learning](https://www.linkedin.com/pulse/10-videos-rust-accelerate-my-learning-chun-yin-vincent-lau/)
-
-[RustEdu Workshop 2022 - RustViz: Interactively Visualizing Ownership and Borrowing - YouTube](https://www.youtube.com/watch?v=zCF8QVkc6IY)
-
-[GitHub - rustviz/rustviz: Interactively Visualizing Ownership and Borrowing for Rust](https://github.com/rustviz/rustviz)
-
-[Rust for Rustaceans by Jon Gjengset](https://rust-for-rustaceans.com/)
-
-[Welcome to Comprehensive Rust 🦀 - Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/welcome.html)
-
-[Effective Rust](https://www.lurklurk.org/effective-rust/)
-
-[Rust is easy... (we make it hard) - YouTube](https://www.youtube.com/watch?v=06CVZKbNvgE)
+- [Tour of Rust - Let's go on an adventure!](https://tourofrust.com/)
+- https://en.wikipedia.org/wiki/Rust_(programming_language)
+- https://www.rust-lang.org
+- [The Rust Programming Language - The Rust Programming Language](https://doc.rust-lang.org/book/)
+- [Introduction - Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
+- [Rust at speed - building a fast concurrent database - YouTube](https://www.youtube.com/watch?v=s19G6n0UjsM&ab_channel=JonGjengset)
+- https://www.rust-lang.org/learn
+- https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular
+- https://www.freecodecamp.org/news/rust-in-replit
+- [10 Videos on Rust that accelerate my learning](https://www.linkedin.com/pulse/10-videos-rust-accelerate-my-learning-chun-yin-vincent-lau/)
+- [RustEdu Workshop 2022 - RustViz: Interactively Visualizing Ownership and Borrowing - YouTube](https://www.youtube.com/watch?v=zCF8QVkc6IY)
+- [GitHub - rustviz/rustviz: Interactively Visualizing Ownership and Borrowing for Rust](https://github.com/rustviz/rustviz)
+- [Rust for Rustaceans by Jon Gjengset](https://rust-for-rustaceans.com/)
+- [Welcome to Comprehensive Rust 🦀 - Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/welcome.html)
+- [Effective Rust](https://www.lurklurk.org/effective-rust/)
+- [Rust is easy... (we make it hard) - YouTube](https://www.youtube.com/watch?v=06CVZKbNvgE)
+- [GitHub - emilk/egui: egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native](https://github.com/emilk/egui)

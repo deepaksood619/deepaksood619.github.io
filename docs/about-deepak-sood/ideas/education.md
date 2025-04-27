@@ -32,6 +32,7 @@ Highly personalized education for each person
 - [Maheshwer Peri&#8217;s long way around](https://www.livemint.com/Specials/13TE2UEtexMf1GDeEt5rCP/Maheshwer-Peris-long-way-around.html)
 	- Peri is also something of a puritan. He is vegetarian, does not drink or smoke and avoids social occasions. His abstemious nature is a subject of bemusement among his friends.
 	- I will be the one to bell the cat. I am belling the cat
+- [After Exposing IIPM - Why Vivek Bindra Is Next \| Maheshwer Peri On The State of Indian Education - YouTube](https://www.youtube.com/watch?v=lk0oNuQQCuk&ab_channel=TheDeshbhakt)
 
 ## Business
 

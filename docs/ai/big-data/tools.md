@@ -52,6 +52,25 @@ https://ai.google/research/pubs/pub36632
 - [GitHub - awslabs/data-on-eks: DoEKS is a tool to build, deploy and scale Data & ML Platforms on Amazon EKS](https://github.com/awslabs/data-on-eks)
 - [Introducing Data on EKS – Modernize Data Workloads on Amazon EKS | Containers](https://aws.amazon.com/blogs/containers/introducing-data-on-eks-modernize-data-workloads-on-amazon-eks/)
 
+## Data Ingestion
+
+### DLT (Data Load Tool)
+
+**Features**
+
+- **Automatic Schema:** Data structure inspection and schema creation for the destination.
+- **Data Normalization:** Consistent and verified data before loading.
+- **Seamless Integration:** Colab, AWS Lambda, Airflow, and local environments.
+- **Scalable:** Adapts to growing data needs in production.
+- **Easy Maintenance:** Clear data pipeline structure for updates.
+- **Rapid Exploration:** Quickly explore and gain insights from new data sources.
+- **Versatile Usage:** Suitable for ad-hoc exploration to advanced loading infrastructures.
+- **Start in Seconds with CLI:** Powerful CLI for managing, deploying and inspecting local pipelines.
+- **Incremental Loading:** Load only new or changed data and avoid loading old records again.
+- **Open Source:** Free and Apache 2.0 Licensed.
+
+[GitHub - dlt-hub/dlt: data load tool (dlt) is an open source Python library that makes data loading easy 🛠️](https://github.com/dlt-hub/dlt)
+
 ## SAAS
 
 - [Atlan](https://atlan.com/) (Enterprise Data Catalogs for DataOps)
