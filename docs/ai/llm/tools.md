@@ -121,6 +121,7 @@
 - [AI Automation Tool to Simplify Your Complex and Routine Tasks](https://omnimind.ai/)
 - [PlexeAI \| Build ML Models from Natural Language](https://www.plexe.ai/)
 - [Napkin AI - The visual AI for business storytelling](https://www.napkin.ai/)
+- [Jace AI \| Email Assistant That Understands Your Voice](https://jace.ai/)
 
 ### SAAS / Products
 

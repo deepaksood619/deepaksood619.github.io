@@ -35,6 +35,7 @@ Extensions that helps make obsidian better
 - [GitHub - valentine195/obsidian-leaflet-plugin: Adds interactive maps to Obsidian using Leaflet.js](https://github.com/valentine195/obsidian-leaflet-plugin)
 - [GitHub - SkepticMystic/breadcrumbs: Visualise a custom hierarchy in your Obsidian vault. API: https://skepticmystic.github.io/breadcrumbs/](https://github.com/SkepticMystic/breadcrumbs)
 - [My Top 44 Obsidian Plugins RANKED](https://www.youtube.com/watch?v=xVQGrn9gQKI)
+- [GitHub - flyingnobita/obsidian-github-stars: Display the number of stars next to GitHub repository links in Obsidian.](https://github.com/flyingnobita/obsidian-github-stars)
 
 ## Themes
 
@@ -209,11 +210,7 @@ Extensions that helps make obsidian better
 - https://anytype.io/en
 - [Dendron](https://www.dendron.so/)
 - [Heptabase](https://heptabase.com/)
-
-https://www.slant.co/topics/4962/~knowledge-base-systems-for-personal-use
-
-## Others
-
+- https://www.slant.co/topics/4962/~knowledge-base-systems-for-personal-use
 - Use DriveSync to sync using Google Drive
 - https://dev.to/joeholmes/creating-a-diy-digital-garden-with-obsidian-and-gatsby-378e
 - https://foambubble.github.io/foam/user/recipes/recipes
