@@ -1,0 +1,10 @@
+{
+	"id": "github-stars",
+	"name": "GitHub Stars",
+	"version": "1.0.0",
+	"minAppVersion": "1.8.9",
+	"description": "Displays the number of stars for GitHub repositories mentioned in notes.",
+	"author": "Flying Nobita",
+	"authorUrl": "https://github.com/flyingnobita",
+	"isDesktopOnly": false
+}

@@ -1,0 +1,48 @@
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+
+*/
+
+/* GitHub Stars Plugin Styles */
+
+/* Style for the stars count span */
+.github-stars-count {
+	display: inline-block;
+	margin-left: 5px;
+	padding: 2px 6px;
+	border-radius: 10px;
+	font-size: 0.85em;
+	background-color: var(--background-secondary);
+	color: var(--text-normal);
+}
+
+/* Loading state */
+.github-stars-loading {
+	animation: github-stars-pulse 1.5s infinite;
+}
+
+@keyframes github-stars-pulse {
+	0% {
+		opacity: 0.6;
+	}
+	50% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 0.6;
+	}
+}
+
+/* Error state */
+.github-stars-error {
+	color: var(--text-error);
+}
+
+/* Hover effect */
+a:hover + .github-stars-count {
+	background-color: var(--background-modifier-hover);
+}

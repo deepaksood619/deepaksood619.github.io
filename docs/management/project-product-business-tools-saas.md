@@ -84,6 +84,7 @@
     1. [Miro | The Visual Workspace for Innovation](https://miro.com/)
 35. [Canva: Visual Suite for Everyone](https://www.canva.com)
 36. [FuseBase (Formerly Nimbus): Online Collaboration Tool for Business - Team Collaboration Software](https://nimbusweb.me/)
+37. [Miro \| The Innovation Workspace](https://miro.com/)
 
 The tools of a successful product manager
 
