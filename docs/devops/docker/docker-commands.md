@@ -74,7 +74,8 @@ Options:
 
 -s (for getting docker ip)
 
-- [docker logs](https://docs.docker.com/engine/reference/commandline/logs) gets logs from container. (You can use a custom log driver, but logs is only available forjson-fileandjournaldin 1.10).
+- [docker logs](https://docs.docker.com/engine/reference/commandline/logs) gets logs from container. You can use a custom log driver, but logs is only available for json-file and journald
+-
 
 Options:
 

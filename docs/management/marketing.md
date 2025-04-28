@@ -443,17 +443,17 @@ https://www.gigsmedia.in
 - Twilio SendGrid (Twilio)
 - mailgun
 - Amazon SES
+- AWS Pinpoint
 - **sendinblue** / Brevo
 - **sendpulse**
 - **Onesignal**
 - msg91
 - Yellowmessenger
-- Pinpoint
 - https://convertkit.com
 - Gmass
 - [Pricing | Mailjet](https://www.mailjet.com/pricing/)
-- pinpoint
-- sendgrid
+- SendGrid
+- Omnisend
 
 ### [Resend](https://resend.com/home)
 

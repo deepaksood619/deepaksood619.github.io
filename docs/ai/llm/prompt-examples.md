@@ -5,6 +5,10 @@
 - [https://snackprompt.com](https://snackprompt.com/)
 - [GitHub - f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
 
+## Prompt Generator Example
+
+- you are an expert level school finder, draft a **prompt** that can get a detailed list of schools with all the metrics required for comparing schools. In prompt I will insert the location, age of kid, and add all things required that can help find a school
+
 ## LinkedIn post prompt
 
 Write a LinkedIn post about your recent accomplishment in # Your Industry, detailing how you achieved it, and sharing the impact it had on your # career or organization.
