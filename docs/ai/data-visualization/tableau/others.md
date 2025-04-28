@@ -27,3 +27,15 @@
 Scale data-driven decision making with AI-powered insights.
 
 [Tableau Pulse](https://www.tableau.com/products/tableau-pulse)
+
+## Tableau Migration Tool
+
+- [About Tableau Content Migration Tool - Tableau](https://help.tableau.com/current/server/en-us/cmt-intro.htm)
+- The Content Migration Tool provides an easy way to copy or migrate content between Tableau Server sites. You can do this between sites on a single Tableau Server installation, or if you have user-based licensing, between sites on separate installations (for example, between a development instance of Tableau Server and a production installation). The Content Migration Tool user interface walks you through the steps necessary to build a "migration plan" that you can use once or as a template for multiple migrations.
+- [Migration Plan Overview - Tableau](https://help.tableau.com/current/server/en-us/cmt-depl_plan_overview.htm)
+- [Migration Limitations - Tableau](https://help.tableau.com/current/server/en-us/cmt-migration_limitations.htm)
+	- The following configurations are not migrated to the destination site when using the Content Migration Tool.
+		- [Users](https://help.tableau.com/current/server/en-us/users_add.htm)
+		- [Groups](https://help.tableau.com/current/server/en-us/users_add_group.htm)
+		- [Site settings (custom logos, view recommendations, etc.)](https://help.tableau.com/current/server/en-us/sites_add.htm)
+	- [Tableau Content Migration Tool Use Cases - Tableau](https://help.tableau.com/current/server/en-us/cmt-use-cases.htm#cmt-use-cases)

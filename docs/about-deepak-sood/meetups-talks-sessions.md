@@ -10,6 +10,8 @@ Automating the Future: Build Powerful AI Agents
 
 ![Build with AI - TFUG - Opstree](../media/1745660961529.jpeg)
 
+[Commudle - Connect & Learn With Software Developers](https://www.commudle.com/communities/tensorflow-user-group-ghaziabad/events/build-with-ai-noida-editon)
+
 [#buildwithai #aiagents #futureofwork #aianddevops #datasolutions #opstree… \| Deepak Sood](https://www.linkedin.com/posts/deepaksood619_buildwithai-aiagents-automation-activity-7321903149244366848-liLY)
 
 ## UDAAN 2K25 - Kotlin User Group Gurugram (22 March 2025)

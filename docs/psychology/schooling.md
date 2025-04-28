@@ -1,5 +1,61 @@
 # Schooling
 
+## Finding perfect school prompt
+
+Act as an expert educational consultant and school finder. I want a **highly detailed, comparison-ready list of schools** customized to my needs.
+
+Inputs will be:
+
+- **Location**: (Insert Location)
+- **Age of Child**: (Insert Age)
+- **Preferences/Filters** (optional but helpful):
+    - **Type of School**: (e.g., only International Schools, only CBSE Schools, etc.)
+    - **Curriculum Preference**: (e.g., IB, IGCSE, CBSE, ICSE, State Board)
+    - **Annual Fee Budget**: (e.g., under ₹5 lakh per year)
+    - **Boarding Requirement**: (Yes/No)
+    - **Must-have Facilities**: (e.g., swimming pool, robotics lab, special needs support)
+    - **Proximity Constraint**: (e.g., within 10 km radius)
+
+Please provide a comprehensive table of schools including (but not limited to) the following metrics for each school:
+
+1. **School Name**
+2. **Type** (Public / Private / International / Charter / Boarding)
+3. **Curriculum** (CBSE, ICSE, IB, IGCSE, State Board, Montessori, etc.)
+4. **Grades Offered**
+5. **Annual Tuition Fees** (with breakdowns if possible)
+6. **Admission Process** (key dates, entrance tests, interview, etc.)
+7. **Student-Teacher Ratio**
+8. **Campus Size and Facilities** (playgrounds, labs, libraries, sports, arts)
+9. **School Rankings** (Local/National, if available)
+10. **Affiliations and Accreditations** (like CISCE, IB, Cambridge, CBSE, etc.)
+11. **Special Programs** (STEM, arts, language immersion, gifted programs)
+12. **Extracurricular Activities** (sports, arts, clubs)
+13. **Transport Facilities**
+14. **Boarding Options** (if applicable)
+15. **Safety and Security Measures**
+16. **School Reviews and Parent Testimonials**
+17. **Location/Address**
+18. **Distance from given location**
+19. **Language of Instruction**
+20. **Technology Integration** (smart classes, AI learning, robotics, etc.)
+21. **Diversity Metrics** (student nationalities, inclusivity programs, etc.)
+22. **Notable Achievements or Alumni** (if any)
+23. **Scholarships and Financial Aid Options**
+24. **Meal Plans (Cafeteria/Meal Service Quality)**
+25. **After-School Programs / Extended Care**
+26. **Recent Inspection Reports (if available)**
+
+✅ Highlight:
+
+- **Top 3 Overall Schools** (based on academics + facilities + feedback)
+- **Top 3 Value-for-Money Schools** (best facilities within budget)
+- **Top 3 for Academics or Special Programs** (e.g., top for STEM, arts)
+
+Deliver the results in a **structured table** with **clear comparison columns**.
+If certain data points are missing for a school, mention "**Information Not Available**" instead of leaving blank.
+
+## Philosophy
+
 - [Parents Commiting A Big Mistake Regarding Their Children Education - YouTube](https://www.youtube.com/watch?v=mlAR8dmMHf0)
 	- Put children late in school
 	- Homeschooling vs full day boarding - Doon public school
@@ -16,10 +72,12 @@
 
 ## Playschool / Daycare
 
-- Footprints  
-- Kidzee Noida  
-  
+- Footprints
+- Kidzee Noida
+
 ## Noida Schools (Best schools in Noida)
+
+[ChatGPT - IB School Comparison Noida](https://chatgpt.com/share/680e821f-40e4-8005-a032-fecb0efe08e4)
 
 1. Amity Global School
 2. Apeejay
@@ -28,7 +86,7 @@
 5. Cambridge School
 6. DAV Noida
 7. Delhi Public School Sector 30 - 0120 450 9115 (Toxic as per reddit)
-8. Father Agnel 
+8. Father Agnel
 9. GIIS (Global Indian International School)
 10. Indus Valley Public School
 11. Kendriya Vidhyalaya (KV)
@@ -66,7 +124,7 @@
 
 [Which is the best school in Noida 2024? - Quora](https://www.quora.com/Which-is-the-best-school-in-Noida-2024)
 
-## Board  
+## Board
 
 - Montessori school
 - IB Board (International Baccalaureate) [the International Baccalaureate \| Pronunciation in English](https://dictionary.cambridge.org/pronunciation/english/international-baccalaureate)
@@ -85,12 +143,12 @@
 - CBSE
 - ICSE
 
-## IB Board  
+## IB Board
 
-- Step by Step school  
-- Pathways school  
-- Prometheus school  
-- Genesis global school  
+- Step by Step school
+- Pathways school
+- Prometheus school
+- Genesis global school
 - DPS Ghaziabad
 
 ## Questions / Metrics
