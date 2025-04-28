@@ -14,9 +14,9 @@ In the long run, your performance reverts to the value you provide.
 
 Great Marketing kills a bad product faster
 
-![image](media/Marketing-Sales-image1.jpg)
+![image](../../media/Marketing-Sales-image1.jpg)
 
-![image](media/Marketing-Sales-image2.jpg)
+![image](../../media/Marketing-Sales-image2.jpg)
 
 [**https://www.helloroketto.com/saas-marketing**](https://www.helloroketto.com/saas-marketing)
 
@@ -32,7 +32,7 @@ A sales funnel allows you to view the entire process of acquiring a user in a si
 
 Sales funnels allow for a numbers-based approach to improvement. Without them, efforts to improve an app's profitability would be far less focused and therefore less efficient, further reducing profit margins.
 
-![image](media/Marketing-Sales-image4.jpg)
+![image](../../media/Marketing-Sales-image4.jpg)
 
 https://www.toptal.com/app/profit-from-mobile-funnel
 
@@ -54,7 +54,7 @@ https://answerthepublic.com
 
 [Why we make bad decisions | Dan Gilbert](https://www.youtube.com/watch?v=c-4flnuxNV4)
 
-![image](media/Marketing-Sales-image5.jpg)
+![image](../../media/Marketing-Sales-image5.jpg)
 
 ## Digital Marketing
 
@@ -101,7 +101,7 @@ Account based marketing (ABM) is a business marketing strategy that concentrates
 
 ABM also takes a more holistic view of marketing, beyond just [lead generation](https://www.optimizely.com/optimization-glossary/lead-generation/). Marketing to existing customer accounts to encourage upselling and cross-selling is one of the keys to getting the most value from your largest accounts.
 
-![image](media/Marketing-Sales-image11.jpg)
+![image](../../media/Marketing-Sales-image11.jpg)
 
 https://blog.hubspot.com/marketing/account-based-marketing-guide
 
@@ -147,7 +147,7 @@ An **interstitial page** is ==a web page that appears before or after a desired 
 
 ## Instagram Followers
 
-![image](media/Marketing-Sales-image14.jpg)
+![image](../../media/Marketing-Sales-image14.jpg)
 
 ## Ad Recall
 
@@ -177,7 +177,7 @@ Typical OOH formats include billboards, on-car ads, bus-stop shelters, etc.
 - [How to get your ideas to spread | Seth Godin](https://www.youtube.com/watch?v=xBIVlM435Zg)
 - https://www.smartinsights.com/marketing-planning/marketing-models/use-bcg-matrix
 
-![image](media/Marketing-Sales-image13.jpg)
+![image](../../media/Marketing-Sales-image13.jpg)
 
 ## Links
 
