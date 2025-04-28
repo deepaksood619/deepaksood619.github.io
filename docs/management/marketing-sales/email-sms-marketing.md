@@ -11,7 +11,7 @@ I see email being used, by and large, exactly the way I envisioned. In particula
     - Email 2: 16 hours later
     - Email 3: 2 days later
 
-![image](media/Marketing-Sales-image6.jpg)
+![image](../../media/Marketing-Sales-image6.jpg)
 
 - Flash sale: This is a simpe campaign with a few emails and a discount/promotion with a time-limit which persuades your customers to buy right now AKA Impulse Buying. [This campaign works well during holidays like Christmas, Halloween, Black Friday]
     - Email 1: Day 1
@@ -19,7 +19,7 @@ I see email being used, by and large, exactly the way I envisioned. In particula
     - Email 3: Day 4
     - Email 4: Day 5
 
-![image](media/Marketing-Sales-image7.jpg)
+![image](../../media/Marketing-Sales-image7.jpg)
 
 - Customer Nurturing: This is basically a flow to show your new customers that you care about them! It's a chance to educate them more about your brand
     - Email 1: Immediately
@@ -27,11 +27,11 @@ I see email being used, by and large, exactly the way I envisioned. In particula
     - Email 3: 4 days later
     - Note: Tell the customer how to use the product in the best way possible
 
-![image](media/Marketing-Sales-image8.jpg)
+![image](../../media/Marketing-Sales-image8.jpg)
 
 - Win-Back: A meticulously crafted campaign designed to pique the interest of existing leads and customers that haven't visited or purchased in around 120 days. It's a great way to encourage them to come back
 
-![image](media/Marketing-Sales-image9.jpg)
+![image](../../media/Marketing-Sales-image9.jpg)
 
 - Emails with personalized subject lines generate 50% higher open rates
 - Sending three abandoned card emails results in 69% more orders than a single email
@@ -39,11 +39,11 @@ I see email being used, by and large, exactly the way I envisioned. In particula
 - The most popular days to send emails are Tuesdays, Wednesdays & Thursdays
 - Since these days are very popular, you may have a better chance at an open rate if you send them on Mondays and Fridays instead.
 
-![image](media/email-marketing-example.jpg)
+![image](../../media/email-marketing-example.jpg)
 
 #### Free goodies to engage with clients
 
-![image](media/free-goodies-emailer.jpg)
+![image](../../media/free-goodies-emailer.jpg)
 
 - Creating a Flow Template
 - Most Used Flows
@@ -158,7 +158,7 @@ https://blog.hubspot.com/blog/tabid/6307/bid/30684/the-ultimate-list-of-email-sp
 
 - **Identify your target audience**
 
-![image](media/Marketing-Sales-image10.jpg)
+![image](../../media/Marketing-Sales-image10.jpg)
 
 - Use Exit Intent
 
@@ -227,7 +227,6 @@ https://blog.hubspot.com/blog/tabid/6307/bid/30684/the-ultimate-list-of-email-sp
 6. What products or services can I offer with recurring billing? What product, service or experience can I offer that I can bill my customers for ongoing?
 7. What different pricing levels can I offer as a billing option?How many levels of access will I offer? What will be included with each level? What price will each level be? And what pain should they fear if they disconnect?
 
-
 ![how-to-write-a-great-sales-email](../../media/Marketing-Sales-image3.jpg)
 
 ## SMS Marketing
@@ -238,7 +237,7 @@ https://yourstory.com/2018/03/5-point-guide-sms-marketing
 
 https://www.gigsmedia.in
 
-![image](media/Marketing-Sales-image12.jpg)
+![image](../../media/Marketing-Sales-image12.jpg)
 
 ## Channels
 

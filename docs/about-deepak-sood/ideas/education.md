@@ -356,6 +356,7 @@ Just add a module of UPSC in khan academy. It has everything.
 ## Boards
 
 - International Baccalaureate (IB) and Cambridge curricula
+	- [IB \| A Better World Through Education - YouTube](https://www.youtube.com/playlist?list=PLWBNztddOp2pbBlpVRDW5sXBDtLUZpCcS)
 - ICSE
 - CBSE
 
