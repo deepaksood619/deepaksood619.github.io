@@ -190,6 +190,9 @@ It is 5% of the remittance amount above INR 7 Lakhs. From October 1, 2023 onward
 - Salt.pe
 - [USD to INR Exchange Rates - Convert USD to INR \| Remitly](https://www.remitly.com/us/en/india/pricing) (US to India)
 - [Online Payment Processing Platform for Digital Businesses \| Payoneer](https://www.payoneer.com/en-in/)
+- [Dodo Payments](https://dodopayments.com/)
+	- [Dodo Payments Product Information and Latest Updates (2025) \| Product Hunt](https://www.producthunt.com/products/dodo-payments)
+- Mercury
 
 ### Links
 

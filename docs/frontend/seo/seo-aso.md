@@ -88,19 +88,16 @@ In order to build a **site optimized for organic search engine rankings,** it is
 
 ## Latent Semantic Indexing (LSI)
 
-LSI (latent semantic indexing) keywords are words or phrases that are conceptually related to a target keyword. So if you wanted your page to rank for "credit cards," then LSI keywords would be "money," "credit score," and "interest rate."
+LSI (latent semantic indexing) keywords are words or phrases that are conceptually related to a target keyword. So if you wanted your page to rank for "credit cards," then LSI keywords would be "money," "credit score," and "interest rate".
 
 Latent semantic analysis (LSA) is a mathematical method for finding conceptually related words in textual data. In other words, it’s how you find LSI keywords.
 
 Google doesn’t use latent semantic indexing because it’s old technology. And it was developed as a method for finding results in smaller document sets—not the entire web.
 
-[What Are LSI Keywords & Why They Don‘t Matter](https://www.semrush.com/blog/lsi-keywords/)
-
-[What are LSI Keywords? And Do They Help With SEO?](https://backlinko.com/hub/seo/lsi)
-
-[What are LSI keywords? How to use them in SEO](https://surferseo.com/blog/lsi-keywords-for-seo/)
-
-[LSI Keywords: What are They and Do They Matter?](https://ahrefs.com/blog/lsi-keywords/)
+- [What Are LSI Keywords & Why They Don‘t Matter](https://www.semrush.com/blog/lsi-keywords/)
+- [What are LSI Keywords? And Do They Help With SEO?](https://backlinko.com/hub/seo/lsi)
+- [What are LSI keywords? How to use them in SEO](https://surferseo.com/blog/lsi-keywords-for-seo/)
+- [LSI Keywords: What are They and Do They Matter?](https://ahrefs.com/blog/lsi-keywords/)
 
 ## Canonical URL
 

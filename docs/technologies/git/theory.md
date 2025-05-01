@@ -155,14 +155,6 @@ One of these attributes is the eol (end of line) and is used to configure the li
 6. [Wrap the body at 72 characters](https://chris.beams.io/posts/git-commit/#wrap-72)
 7. [Use the body to explainwhatandwhyvs.how](https://chris.beams.io/posts/git-commit/#why-not-how)
 
-## References
-
-https://kolosek.com/git-merge/#fastforwardmerge
-
-https://dev.to/neshaz/git-merge-vs-git-rebase-5134
-
-https://chris.beams.io/posts/git-commit/#seven-rules
-
 ## Git Branches
 
 Branches in Git are incredibly lightweight as well. They are simply pointers to a specific commit -- nothing more. This is why many Git enthusiasts chant the mantra:
@@ -183,8 +175,8 @@ git branch -f <branch_name> <where_to_move>
 
 The first method to combine work that we will examine isgit merge. Merging in Git creates a special commit that has two unique parents. A commit with two parents essentially means "I want to include all the work from this parent over here and this one over here,andthe set of all their parents."
 
-1. **Checkout the branch where you want the commits to merge.**
-2. **Use command `git merge <branch_name>` from where you want commits to merge to the branch**
+1. Checkout the branch where you want the commits to merge.
+2. Use command `git merge <branch_name>` from where you want commits to merge to the branch
 
 ```bash
 git checkout -b bugFix
@@ -429,3 +421,12 @@ will set the foo branch to track o/master. Iffoois currently checked out you can
 https://learngitbranching.js.org
 
 https://www.freecodecamp.org/news/git-for-professionals
+
+## References
+
+- https://kolosek.com/git-merge/#fastforwardmerge
+- https://dev.to/neshaz/git-merge-vs-git-rebase-5134
+- https://chris.beams.io/posts/git-commit/#seven-rules
+- Presentations
+	- [git - the simple guide - no deep shit!](https://rogerdudler.github.io/git-guide/)
+	- [itp.uni-frankfurt.de/\~hees/transport-meeting/ss19/talk-Staudenmeier.pdf](https://itp.uni-frankfurt.de/~hees/transport-meeting/ss19/talk-Staudenmeier.pdf)

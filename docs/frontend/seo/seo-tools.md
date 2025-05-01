@@ -55,3 +55,7 @@
 - [Keywords Everywhere - Keyword Tool - Chrome Web Store](https://chromewebstore.google.com/detail/keywords-everywhere-keywo/hbapdpeemoojbophdfndmlgdhppljgmp)
 - [Validate XML Sitemap - XML Sitemaps Generator](https://www.xml-sitemaps.com/validate-xml-sitemap.html)
 - [Free Broken Link Checker - Check your website for dead links online](https://www.brokenlinkcheck.com/broken-links.php)
+
+## Content Generator
+
+- [SEOpital - The Best SEO AI Writing Tool](https://www.seopital.co/)

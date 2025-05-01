@@ -472,6 +472,8 @@ Indian History - https://www.anirudhkanisetti.com/podcasts
 
 ## Resources
 
+- [Slideshare Downloader - Download Free (PPT/PDF) Slides](https://www.slidesdownloader.com/)
+
 ### Torrents
 
 - [GitHub - iptv-org/iptv: Collection of publicly available IPTV channels from all over the world](https://github.com/iptv-org/iptv)

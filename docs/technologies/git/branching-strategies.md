@@ -11,7 +11,7 @@ Everything in dev can be merged to master (if it can't it's a good candidate to 
 - Commit to that branch locally and regularly send your work to the same-named branch on the server.
 - Open a pull request when you feel your changes are ready to be merged (or even if you aren't so sure, but would like some feedback).
 - After the new feature is revised and approved, you can merge it into master.
-- Once your changes are merged and pushed to the master, you can andshoulddeploy immediately.
+- Once your changes are merged and pushed to the master, you can and should deploy immediately.
 
 ## Git Flow and Trunk Based development
 
@@ -99,20 +99,6 @@ When developers want to publish a local commit, they push the commit to their ow
 - Consider picking a strategy that reduces the different "types" of branches available for developers to choose from.
 - Consider using [feature flagging](https://rollout.io/blog/the-future-of-feature-flags-lies-in-infrastructure-as-code/), which can also reduce some of the need people have for excessive branching.
 
-## References
-
-https://nvie.com/posts/a-successful-git-branching-model
-
-https://jeffkreeftmeijer.com/git-flow
-
-https://github.com/nvie/gitflow
-
-https://github.com/danielkummer/git-flow-cheatsheet
-
-https://danielkummer.github.io/git-flow-cheatsheet
-
-[**https://rollout.io/blog/branching-strategy/**](https://rollout.io/blog/branching-strategy/)
-
 ## Workflow: Topic Branches
 
 A topic branch is a branch that we create and use for work on a feature.
@@ -134,3 +120,12 @@ git merge iss14
 # delete the branch
 git branch -d iss14
 ```
+
+## References
+
+- https://nvie.com/posts/a-successful-git-branching-model
+- https://jeffkreeftmeijer.com/git-flow
+- https://github.com/nvie/gitflow
+- https://github.com/danielkummer/git-flow-cheatsheet
+- https://danielkummer.github.io/git-flow-cheatsheet
+- [**https://rollout.io/blog/branching-strategy/**](https://rollout.io/blog/branching-strategy/)

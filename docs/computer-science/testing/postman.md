@@ -1,6 +1,6 @@
 # Postman
 
-## Fake API REST Mocks Server Tests
+## Fake API REST Mocks Server Tests (Mock API)
 
 - https://reqres.in
 - http://example.com
@@ -20,6 +20,7 @@
     - [News API | Best API to find the latest and archive news](https://www.newsapi.ai/)
     - [World News API](https://worldnewsapi.com/)
     - [NewsData - News API to Search & Collect Worldwide News](https://newsdata.io/)
+    - [GNews: News API to Search for the Latest & Historical News](https://gnews.io/)
 
 ## Local Infra Mock
 

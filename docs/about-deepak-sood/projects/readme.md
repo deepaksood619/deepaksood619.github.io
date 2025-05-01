@@ -13,6 +13,7 @@
 - [AWS Gen AI Hackathon](about-deepak-sood/projects/58-aws-gen-ai-hackathon-rag.md)
 - [Mozark - Cloud Cost Optimization and Performance Enhancement](about-deepak-sood/projects/53-mozark-cloud-cost-optimization.md)
 - [GenAI ChatBot using Bedrock](about-deepak-sood/projects/37-genai-chatbot-using-bedrock.md)
+- [AWS Hands-on Amazon Q Workshop](about-deepak-sood/projects/35-aws-hands-on-amazon-q-workshop.md)
 
 #### Account Management / Sales
 
