@@ -22,7 +22,7 @@ Speed determines how quickly data is transferred from the sender to the receiver
 
 Let’s look at how well natural language does on the speed dimension:
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78fdde05-6a58-4947-aa71-6114136e32c4_1300x430.png)
+![image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78fdde05-6a58-4947-aa71-6114136e32c4_1300x430.png)
 
 The first thing I should note is that these data points are [very](https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate), [very](https://irisreading.com/what-is-the-average-reading-speed/) [simplified](https://virtualspeech.com/blog/average-speaking-rate-words-per-minute) [averages](https://en.wikipedia.org/wiki/Words_per_minute). The important part to take away from this table is not the accuracy of individual numbers, but the overall pattern: We are significantly faster at receiving data (reading, listening) than sending it (writing, speaking). This is why we can listen to podcasts at 2x speed, but not record them at 2x speed.
 
@@ -34,7 +34,7 @@ For example, instead of saying _“I think what you just said is a great idea�
 
 Gestures and facial expressions are effectively data compression techniques. They encode information in a more compact, but lossier, form to make it faster and more convenient to transmit.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa797a35c-008c-4783-b556-06f78cb6d391_1300x722.png)
+![image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa797a35c-008c-4783-b556-06f78cb6d391_1300x722.png)
 
 Natural language is great for data transfer that requires high fidelity (or as a data storage mechanism for async communication), but whenever possible we switch to other modes of communication that are faster and more effortless. Speed and convenience always wins.
 
@@ -58,13 +58,13 @@ Modern productivity tools take these data compression shortcuts to the next leve
 
 Touch-based interfaces are considered the third pivotal milestone in the evolution of human computer interaction, but they have always been more of an augmentation of desktop computing rather than a replacement for it. Smartphones are great for “away from keyboard” workflows, but important productivity work still happens on desktop.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a72a715-1ba0-4f51-a033-8ba736c13e89_1200x560.png)
+![image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a72a715-1ba0-4f51-a033-8ba736c13e89_1200x560.png)
 
 That’s because text is not a mobile-native input mechanism. A physical keyboard can feel like a natural extension of your mind and body, but typing on a phone is always a little awkward – and it shows in data transfer speeds: [Average typing speeds on mobile are just 36 words-per-minute](https://userinterfaces.aalto.fi/typing37k/), notably slower than the ~60 words-per-minute on desktop.
 
 We’ve been able to replace natural language with mobile-specific data compression algorithms like emojis or Snapchat selfies, but we’ve never found a mobile equivalent for keyboard shortcuts. Guess why we still don’t have a truly mobile-first productivity app after almost 20 years since the introduction of the iPhone?
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c9d8d68-79df-45ee-afd7-9d7e8b7778dc_1300x400.png)
+![image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c9d8d68-79df-45ee-afd7-9d7e8b7778dc_1300x400.png)
 
 _“But what about speech-to-text,”_ you might say, pointing to [reports](https://www.npr.org/2023/04/16/1170232936/voice-notes-messages-trend) about increasing usage of voice messaging. It’s true that speaking (150wpm) is indeed a faster data transfer mechanism than typing (60wpm), but that doesn’t automatically make it a better method to interact with computers.
 
@@ -88,7 +88,7 @@ This brings me to my core thesis: The inconvenience and inferior data transfer s
 
 The most convincing conversational UI I have seen to date was at a hackathon where a team turned [Amazon Alexa into an in-game voice assistant for StarCraft II](https://upsidelab.io/blog/design-voice-user-interface-starcraft). Rather than replacing mouse and keyboard, voice acted as an _additional_ input mechanism. It increased the bandwidth of the data transfer.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F654c29fa-ec1d-4249-ac9f-3802dc3f0549_1300x552.png)
+![image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F654c29fa-ec1d-4249-ac9f-3802dc3f0549_1300x552.png)
 
 You could see the same pattern work for any type of knowledge work, where voice commands are available _while_ you are busy doing other things. We will not replace Figma, Notion, or Excel with a chat interface. It’s not going to happen. Neither will we forever continue the status quo, where we constantly have to switch back and forth between these tools and an LLM.
 
@@ -96,7 +96,7 @@ Instead, AI should function as an always-on command meta-layer that spans across
 
 For this future to become an actual reality, AI needs to work at the OS level. It’s not meant to be an interface for a single tool, but an interface across tools. [Kevin Kwok famously wrote](https://kwokchain.com/2019/08/16/the-arc-of-collaboration/) that _“productivity and collaboration shouldn’t be two separate workflows”_. And while he was referring to human-to-human collaboration, the statement is even more true in a world of human-to-AI collaboration, where the lines between productivity and coordination are becoming increasingly more blurry.
 
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc57c949-85df-406f-a7a8-87fdc20f8ea8_1300x786.png)
+![image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc57c949-85df-406f-a7a8-87fdc20f8ea8_1300x786.png)
 
 The second thing we need to figure out is how we can compress voice input to make it faster to transmit. What’s the voice equivalent of a thumbs-up or a keyboard shortcut? Can I prompt Claude faster with simple sounds and whistles? Should ChatGPT have access to my camera so it can change its answers in realtime based on my facial expressions?
 

@@ -70,6 +70,11 @@ H and DS use similar datasets, and DS is basically the next-gen version of H. Wh
 
 [What is the difference between TPC-H and TPC-DS benchmarks? | by Albert Wong | Oct, 2023 | Medium](https://atwong.medium.com/what-is-the-difference-between-tpc-h-and-tpc-ds-benchmarks-cb92fc104c32)
 
+## Others
+
+- [TICKIT - Sample database - Amazon Redshift](https://docs.aws.amazon.com/redshift/latest/dg/c_sampledb.html)
+	- This small database consists of seven tables: two fact tables and five dimensions
+
 ## Tools
 
 - Croissant

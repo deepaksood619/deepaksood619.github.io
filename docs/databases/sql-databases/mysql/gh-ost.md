@@ -56,6 +56,24 @@ nohup gh-ost \
 --chunk-size=1000 \
 --allow-on-master \
 --execute > gh-ost.log 2>&1 &
+
+nohup gh-ost
+--host=demo.com
+--user=root
+--password='test'
+--database=db_name
+--table=users
+--alter="ADD COLUMN enc_uid VARCHAR(225), ADD INDEX idx_enc_uid (enc_uid)"
+--exact-rowcount
+--concurrent-rowcount
+--assume-rbr
+--discard-foreign-keys
+--skip-foreign-key-checks
+--postpone-cut-over-flag-file=./ghost-postpone.flag
+--serve-socket-file=./ghost_session.sock
+--chunk-size=1000
+--allow-on-master
+--execute gh-ost.log 2>&1 &
 ```
 
 ```sql

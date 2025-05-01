@@ -77,13 +77,10 @@ https://www.freecodecamp.org/news/monorepo-essentials
 
 ## Games
 
-https://github.com/git-game/git-game
-
-https://github.com/git-game/git-game-v2
-
-https://github.com/Gazler/githug
-
-https://github.com/deepaksood619/GitGames
+- https://github.com/git-game/git-game
+- https://github.com/git-game/git-game-v2
+- https://github.com/Gazler/githug
+- https://github.com/deepaksood619/GitGames
 
 ## .gitignore
 
@@ -126,6 +123,19 @@ https://www.perforce.com
 
 https://docs.gitlab.com/ee/user/markdown.html#wiki-specific-markdown
 
+# Github
+
+Organizations
+
+If you're using GitHub Free, you can add unlimited collaborators on public and private repositories.
+
+[Github Actions - Workflow automation](devops/others/other-cicd.md)
+
+[Managing user access to your organization's repositories - GitHub Docs](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories)
+
 ## Others
 
-[Why Google and Meta Put Billion Lines of Code In 1 Repository? - YouTube](https://www.youtube.com/watch?v=x3cANGNPyx0)
+- BitBucket
+- Gitlab
+- [GitHub - gitbucket/gitbucket: A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility](https://github.com/gitbucket/gitbucket)
+- [Why Google and Meta Put Billion Lines of Code In 1 Repository? - YouTube](https://www.youtube.com/watch?v=x3cANGNPyx0)
