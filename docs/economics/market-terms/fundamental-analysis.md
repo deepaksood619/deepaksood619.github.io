@@ -89,6 +89,8 @@ An understanding of the drawbacks of the DCF Analysis and also a look at the con
 
 [Many Gensols yet to come out? Vijay Kedia lists 10 red flags in companies that scream 'scam alert' - The Economic Times](https://economictimes.indiatimes.com/markets/stocks/news/many-gensols-yet-to-come-out-vijay-kedia-lists-10-red-flags-in-companies-that-scream-scam-alert/articleshow/120350897.cms?from=mdr)
 
+[Is your portfolio company cooking its books? Find out now. - YouTube](https://www.youtube.com/watch?v=ukV5yoEEW3w)
+
 ## Links
 
 [What is DuPont Analysis? | 3-point & 5-point Analysis | Fundamental Analysis (in Hindi) - YouTube](https://www.youtube.com/watch?v=OUWpTy7M9aI&ab_channel=ZerodhaVarsity)

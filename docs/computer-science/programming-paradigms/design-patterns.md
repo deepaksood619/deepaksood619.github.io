@@ -137,3 +137,5 @@ https://en.wikipedia.org/wiki/Software_design_pattern
 ![image](../../media/design-patterns-part1.jpg)
 
 ![image](../../media/design-patterns-part2.jpg)
+
+[Post from ByteByteGo - YouTube](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxUNdI_jjcx2pqpVjtzNJaCIiib3HAm8Ia)

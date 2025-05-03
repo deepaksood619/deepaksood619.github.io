@@ -88,3 +88,4 @@ The architecture is a standard [transformer network](https://en.wikipedia.org/wi
 - [Generative AI Fine Tuning LLM Models Crash Course - YouTube](https://youtu.be/t-0s_2uZZU0)
 - [A Visual Guide to LLM Agents - by Maarten Grootendorst](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-llm-agents)
 - [\[2205.11916\] Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916)
+- [BERT Demystified: Like I’m Explaining It to My Younger Self](https://youtu.be/NUf5q4cWhdQ)

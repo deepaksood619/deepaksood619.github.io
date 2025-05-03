@@ -77,3 +77,4 @@ http://timelineofearth.com
 - [Evolutionary Tree of Life | Episode 3 - Mammals (including Humans) - YouTube](https://www.youtube.com/watch?v=wZvT6bn6gcI)
 - [Evolutionary Tree of Life | Episode 4 - Plants & Fungi - YouTube](https://www.youtube.com/watch?v=ZVm1-9GllZs&ab_channel=UsefulCharts)
 - [Evolutionary Tree of Life \| Episode 5 - What's the Evidence for Evolution? - YouTube](https://youtu.be/5Oy8eF6xVak)
+- [Evolutionary Tree of Life (Full Series) - YouTube](https://www.youtube.com/watch?v=ii4510LeRXo)

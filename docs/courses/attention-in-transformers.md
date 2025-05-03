@@ -17,3 +17,5 @@ In this course, you’ll learn how the attention mechanism, a key element of tra
 - Use PyTorch to code a class that implements self-attention, masked self-attention, and multi-head attention.
 
 [Attention in Transformers: Concepts and Code in PyTorch - DeepLearning.AI](https://www.deeplearning.ai/short-courses/attention-in-transformers-concepts-and-code-in-pytorch/)
+
+[Decoder Architecture in Transformers | Step-by-Step from Scratch](https://youtu.be/DFqWPwF0OH0)
