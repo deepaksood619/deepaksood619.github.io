@@ -11,3 +11,4 @@
 - [Andrew NG](andrew-ng)
 - [Neural Networks](neural-networks)
 - [Neural Networks 3B1B](neural-networks-3b1b)
+- [Cheatsheet](ai/ml-fundamentals/cheatsheet.md)

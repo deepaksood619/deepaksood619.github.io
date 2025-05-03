@@ -6,5 +6,5 @@
 - [Table Classes](databases/nosql-databases/aws-dynamodb/table-classes.md)
 - [Capacity Modes](databases/nosql-databases/aws-dynamodb/capacity-modes.md)
 - [Documentation](databases/nosql-databases/aws-dynamodb/documentation.md)
-- [Cheatsheet](cheatsheet)
+- [Cheatsheet](databases/nosql-databases/aws-dynamodb/cheatsheet.md)
 - [Others](databases/nosql-databases/aws-dynamodb/others.md)

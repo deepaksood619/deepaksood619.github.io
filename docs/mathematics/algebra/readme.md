@@ -8,6 +8,6 @@
 - [2.7 Exponential & Logarithms](exponential-and-logarithms)
 - [2.9 Series](series)
 - [Others](mathematics/algebra/others.md)
-- [Cheatsheet](cheatsheet)
+- [Cheatsheet](mathematics/algebra/cheatsheet.md)
 
 [This open problem taught me what topology is - YouTube](https://youtu.be/IQqtsm-bBRU)

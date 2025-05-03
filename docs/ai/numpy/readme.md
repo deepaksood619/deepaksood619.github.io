@@ -5,4 +5,4 @@
 - [NumPy Reference](numpy-reference)
 - [Ndarray Object](ndarray-object)
 - [Data Types](ai/numpy/data-types.md)
-- [Cheatsheet](cheatsheet)
+- [Cheatsheet](ai/numpy/cheatsheet.md)
