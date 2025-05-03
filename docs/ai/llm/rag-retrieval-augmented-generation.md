@@ -68,6 +68,7 @@ Contextual Retrieval enhances each chunk by adding specific, explanatory context
 ## Tools
 
 - [GitHub - bitswired/website-to-knowledge-base](https://github.com/bitswired/website-to-knowledge-base)
+- [GitHub - weaviate/Verba: Retrieval Augmented Generation (RAG) chatbot powered by Weaviate](https://github.com/weaviate/Verba)
 
 ## Links
 

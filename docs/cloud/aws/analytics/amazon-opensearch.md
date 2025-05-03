@@ -40,3 +40,4 @@ https://github.com/opensearch-project/OpenSearch
 ## Links
 
 - [Working with vector search collections - Amazon OpenSearch Service](https://docs.aws.amazon.com/opensearch-service/latest/developerguide/serverless-vector-search.html)
+- [OpenSearch in 2025: Much more than an Elasticsearch fork \| InfoWorld](https://www.infoworld.com/article/3971473/opensearch-in-2025-much-more-than-an-elasticsearch-fork.html)

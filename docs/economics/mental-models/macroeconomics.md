@@ -77,7 +77,7 @@ https://www.investopedia.com/terms/c/costpushinflation.asp
 
 ![image](../../media/Mental-Models_Macroeconomics-image4.jpg)
 
-## Impossible trinity / Impossible Trilemma
+## Impossible trinity / Impossible Trilemma / Bretton Woods trilemma
 
 The **impossible trinity** (also known as **the impossible [trilemma](https://en.wikipedia.org/wiki/Trilemma "Trilemma")** or the **Unholy Trinity**) is a concept in [international economics](https://en.wikipedia.org/wiki/International_economics "International economics") which states that it is impossible to have all three of the following at the same time:
 
@@ -94,6 +94,20 @@ The **impossible trinity** (also known as **the impossible [trilemma](https://en
 [What Is a Trilemma and How Is It Used in Economics? With Example](https://www.investopedia.com/terms/t/trilemma.asp)
 
 [Impossible trinity - Wikipedia](https://en.wikipedia.org/wiki/Impossible_trinity)
+
+### Economic Integration vs National Sovereignty vs Democracy
+
+The "Bretton Woods trilemma" is a term used to describe the inherent tensions and trade-offs within the global economic system. It suggests that countries can only achieve a maximum of two out of three key goals: democracy, national sovereignty, and global economic integration. This concept, often associated with the work of Dani Rodrik, highlights the difficulty of balancing the needs of individual nations with the demands of a globalized world.
+
+Here's a more detailed explanation:
+
+- **Global Economic Integration:** This refers to the increasing interconnectedness of national economies through trade, investment, and capital flows.
+- **National Sovereignty:** This refers to a nation's right to govern itself and make its own decisions without external interference, particularly in matters of economic policy.
+- **Democracy:** This refers to a political system where power is held by the people and exercised through elected representatives.
+
+The trilemma suggests that achieving all three of these goals simultaneously is essentially impossible. For example, embracing greater global economic integration might necessitate sacrificing national sovereignty or democratic control over certain economic policies, and vice versa.
+
+[The ‘political trilemma’ and the crisis in the West - The Hindu](https://www.thehindu.com/opinion/lead/the-political-trilemma-and-the-crisis-in-the-west/article69498369.ece)
 
 ## Demographic Crisis
 

@@ -40,6 +40,18 @@ Tactic 2: Instruct the model to work out its own solution before rushing to a co
 
 _Chain-of-thought_ (CoT) prompting is a technique that allows [large language models](https://en.wikipedia.org/wiki/Large_language_models "Large language models") (LLMs) to solve a problem as a series of intermediate steps before giving a final answer. Chain-of-thought prompting improves reasoning ability by inducing the model to answer a multi-step problem with steps of reasoning that mimic a [train of thought](https://en.wikipedia.org/wiki/Train_of_thought "Train of thought"). It allows large language models to overcome difficulties with some reasoning tasks that require [logical thinking](https://en.wikipedia.org/wiki/Logical_reasoning "Logical reasoning") and multiple steps to solve, such as [arithmetic](https://en.wikipedia.org/wiki/Arithmetic "Arithmetic") or [commonsense reasoning](https://en.wikipedia.org/wiki/Commonsense_reasoning "Commonsense reasoning") questions.
 
+### Least to most prompting
+
+Least-to-most prompting is a prompt engineering technique where complex problems are broken down into smaller, simpler subproblems, and then solved sequentially. This approach is particularly effective in tasks involving symbolic manipulation, compositional generalization, and mathematical reasoning, often exceeding the performance of Chain-of-Thought prompting on more difficult problems.
+
+Here's a breakdown of how it works:
+
+1. **Problem Decomposition:** The initial prompt guides the Large Language Model (LLM) to decompose a complex problem into a series of simpler subproblems.
+2. **Sequential Solving:** The LLM then solves each subproblem sequentially, utilizing the solutions to previous subproblems to guide the next step.
+3. **Enhanced Reasoning:** By breaking down complex tasks into simpler components, least-to-most prompting allows LLMs to leverage their reasoning capabilities more effectively, leading to improved performance, especially on challenging problems.
+
+[Fetching Title#touv](https://learnprompting.org/docs/intermediate/least_to_most)
+
 ### Other techniques
 
 - Generated knowledge prompting

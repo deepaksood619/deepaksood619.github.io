@@ -4,6 +4,8 @@
 
 Automating the Future: Build Powerful AI Agents
 
+Slides - [Automating the Future:  Build Powerful AI Agents](https://bit.ly/3EzPjSk)
+
 - The foundations of autonomous AI agents
 - How DevOps, AI, and Data converge to create truly adaptive systems
 - Strategies to not just build — but scale and evolve — intelligent agents in real-world environments
@@ -13,6 +15,10 @@ Automating the Future: Build Powerful AI Agents
 [Commudle - Connect & Learn With Software Developers](https://www.commudle.com/communities/tensorflow-user-group-ghaziabad/events/build-with-ai-noida-editon)
 
 [#buildwithai #aiagents #futureofwork #aianddevops #datasolutions #opstree… \| Deepak Sood](https://www.linkedin.com/posts/deepaksood619_buildwithai-aiagents-automation-activity-7321903149244366848-liLY)
+
+[#buildwithai #opstreesolutions #tfugghaziabad #aicommunity… \| OpsTree Solutions](https://www.linkedin.com/posts/opstree-solutions_buildwithai-opstreesolutions-tfugghaziabad-activity-7323590959227666432-Te5h)
+
+[#buildwithai #2daystogo #aievent #tfugghaziabad #genai #developercommunity… \| TensorFlow User Group Ghaziabad (TFUG Ghaziabad)](https://www.linkedin.com/posts/tensorflow-user-group-ghaziabad_buildwithai-2daystogo-aievent-activity-7323713888686931970-8CIS)
 
 ## UDAAN 2K25 - Kotlin User Group Gurugram (22 March 2025)
 

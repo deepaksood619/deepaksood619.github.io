@@ -13,3 +13,7 @@
 2. Dense graph
 
 ![image](../../media/ds-Intro-image2.jpg)
+
+## Links
+
+- [The evolution of graph learning](https://research.google/blog/the-evolution-of-graph-learning/)

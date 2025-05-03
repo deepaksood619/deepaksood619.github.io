@@ -19,6 +19,7 @@ You will be leveraging Q Developer to help you complete these tasks more efficie
 ## Amazon Q Prompts
 
 ### Lambda
+
 - What Lambda functions are deployed in my account?
 - What is the execution timeout for the file-download-data-processing-function Lambda function?
 - Please generate the AWS CLI command to set the execution timeout to 30 seconds for the file-download-data-processing-function Lambda function
@@ -34,9 +35,9 @@ You will be leveraging Q Developer to help you complete these tasks more efficie
 	1. Load Data from S3
 	2. Accessing Generative SQL in Redshift
 	3. Authoring Queries with Generative SQL
-* What are the top 3 regions by units_sold?
-* Create a table called revenue_by_item that finds the average total_profit for each item_type in sales.
-* What is the top country by total_revenue?
+- What are the top 3 regions by units_sold?
+- Create a table called revenue_by_item that finds the average total_profit for each item_type in sales.
+- What is the top country by total_revenue?
 
 ### Deploy Web Application
 

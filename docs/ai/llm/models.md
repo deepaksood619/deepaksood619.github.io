@@ -24,6 +24,8 @@
     - OpenAI o1 - [OpenAI o1 Hub | OpenAI](https://openai.com/o1/)
     - [OpenAI’s new "deep-thinking" o1 model crushes coding benchmarks - YouTube](https://www.youtube.com/watch?v=6xlPJiNpCVw)
     - [12 Days of OpenAI | OpenAI](https://openai.com/12-days/)
+    - [Model Spec (2025/04/11)](https://model-spec.openai.com/2025-04-11.html)
+        - [Sycophancy in GPT-4o: What happened and what we’re doing about it \| OpenAI](https://openai.com/index/sycophancy-in-gpt-4o/)
 - Vicuna
 - Bloom
 - [PartyRock](https://partyrock.aws/)

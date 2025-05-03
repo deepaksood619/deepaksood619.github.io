@@ -321,3 +321,7 @@ quotes = Tree()quotes ['Hamlet'][1][3][3] = 'This above all: to thine own self b
 quotes
 {'Hamlet': {1: {3: {3: 'This above all: to thine own self be true.'}}}}
 ```
+
+## Links
+
+- [14 Advanced Python Features \| Edward Li's Blog](https://blog.edward-li.com/tech/advanced-python-features/)

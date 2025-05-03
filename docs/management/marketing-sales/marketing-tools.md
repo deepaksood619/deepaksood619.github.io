@@ -2,11 +2,10 @@
 
 ## AI Tools
 
-[Postwise | Write, Schedule & Grow with Twitter AI](https://postwise.ai/)
-
-[Artificial Intelligence Marketing - Albert](https://albert.ai/) - AI Marketing Tool
-
-[Acquisio: AI-Powered PPC Management Tools & Programmatic Buying](https://www.acquisio.com/) - AI to Supercharge and Simplify Campaign Management
+- [Postwise | Write, Schedule & Grow with Twitter AI](https://postwise.ai/)
+- [Artificial Intelligence Marketing - Albert](https://albert.ai/) - AI Marketing Tool
+- [Acquisio: AI-Powered PPC Management Tools & Programmatic Buying](https://www.acquisio.com/) - AI to Supercharge and Simplify Campaign Management
+- [The AI Admaker \| Icon](https://icon.com/)
 
 ## MarTech (Marketing Technology)
 
@@ -79,3 +78,5 @@ In short, if you want to stay on top of the latest trends and **see what people 
     - Words Lead - Voice Over and Dubbing services
 - SAAS
     - Josh Digital
+- [GitHub - mautic/mautic: Mautic: Open Source Marketing Automation Software.](https://github.com/mautic/mautic)
+	- [Open Source Marketing Automation - Mautic](https://mautic.org/)

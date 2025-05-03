@@ -210,6 +210,7 @@
 - [GitHub - langfuse/langfuse: 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23](https://github.com/langfuse/langfuse)
 	- [Langfuse](https://langfuse.com/)
 - [Adaline - Iterate, evaluate, deploy, and monitor prompts](https://www.adaline.ai/)
+- [LangSmith](https://www.langchain.com/langsmith)
 
 ### Multimodal AI Tools
 

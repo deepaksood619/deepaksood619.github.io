@@ -53,3 +53,4 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 	- Legacy builder syndrome
 - [Is 20% equity enough for retirement?](https://freefincal.com/is-20-equity-enough-for-retirement/)
 - [How Sahil aims to achieve a 30-40X corpus in the next 10 years](https://freefincal.com/how-sahil-aims-to-achieve-a-30-40x-corpus-in-the-next-10-years/)
+- [How to Become a SEBI Registered Investment Adviser in India](https://freefincal.com/how-to-become-a-sebi-registered-investment-adviser-in-india/)

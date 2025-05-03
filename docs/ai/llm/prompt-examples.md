@@ -218,6 +218,11 @@ The office colleagues were not only collegues but family, who goes over and abov
 The commadaire is great
 The 2 days were filled with exciting games, challenges, activities and one of the most important thing fun.
 
+---
+
+- Let's think step by step
+- Do you know a related problem
+
 ## ChatGPT Custom Instructions
 
 ### What traits should ChatGPT have?
