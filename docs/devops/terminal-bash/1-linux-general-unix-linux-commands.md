@@ -717,7 +717,15 @@ gzip -d file.dec.gz
 cat file.dec
 ```
 
-### ts
+### Convert p12 to individual certificates
+
+```bash
+openssl pkcs12 -in certificate.p12 -out certificate.pem -nodes
+openssl pkcs12 -in certificate.p12 -out private.key -nodes -nocerts
+openssl pkcs12 -in certificate.p12 -out certificate.crt -nodes -nokeys
+```
+
+## ts
 
 openssl-ts, ts - Time Stamping Authority tool (client/server)
 
@@ -725,7 +733,7 @@ The ts command is a basic Time Stamping Authority (TSA) client and server applic
 
 A convenient tool is the **ts (timestamp)** tool which is available on many systems. If the trace output is piped to this command each line is prefixed with a timestamp.
 
-### ps
+## ps
 
 report a snapshot of the current processes.
 
@@ -759,13 +767,13 @@ Output the shell that is running
 
 https://linuxize.com/post/ps-command-in-linux
 
-### tree
+## tree
 
 list contents of directories in a tree-like format
 
 `tree -L 2`
 
-### /usr/bin/time
+## /usr/bin/time
 
 run programs and summarize system resource usage
 
@@ -777,7 +785,7 @@ Shell command for given shell statistics
 - **user**: The cumulative time spent by all the CPUs during the computation
 - **sys**: The cumulative time spent by all the CPUs during system-related tasks such as memory allocation.
 
-### Watch
+## Watch
 
 ```bash
 brew install watch
@@ -792,7 +800,7 @@ while true; do
 done
 ```
 
-### Compression
+## Compression
 
 ```bash
 tar -czvf all.tar.gz error.log.* (gzip all files together in a directory)
@@ -818,13 +826,13 @@ brew install rar
   unrar x.rar
 ```
 
-### df - report file system disk space usage
+## df - report file system disk space usage
 
 There might come a situation while using Linux when you want to know the amount of space consumed by a particular file system on your LINUX system or how much space is available on a particular file system.
 
 `df -h, --human-readable`
 
-### du (disk usage) - estimate file space usage
+## du (disk usage) - estimate file space usage
 
 The du command can be used to track the files and directories which are consuming excessive amount of space on hard disk drive.
 
@@ -852,7 +860,7 @@ To check more than one directory and see the total, use du -sch:
         produce a grand total
 ```
 
-### lsblk
+## lsblk
 
 The `lsblk` command, short for "list block devices," is a powerful tool that provides detailed information about block devices such as hard drives, solid-state drives, and other storage-related devices.
 

@@ -100,6 +100,10 @@ def lambda_handler(event, context):
 ## Features
 
 - The maximum timeout for an AWS Lambda function is 900 seconds (15 minutes). You can configure this value in increments of 1 second, with a default of 3 seconds. This is a hard limit set by AWS and cannot be exceeded
+- AWS Lambda functions can be configured with memory ranging from 128 MB to 10,240 MB (10 GB). The default memory setting is 128 MB, but you can increase it in 1-MB increments up to the maximum. Lambda allocates CPU power proportionally to the amount of memory configured, so a 256 MB function will have twice the processing power of a 128 MB function.
+	- [Lambda function memory increase. \| AWS re:Post](https://repost.aws/questions/QUvGzdNjQZQ9S3YDwvWVWpFw/lambda-function-memory-increase)
+	- [Configure Lambda function memory - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/configuration-memory.html)
+	- [Lambda quotas - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-limits.html)
 
 ## Cost
 

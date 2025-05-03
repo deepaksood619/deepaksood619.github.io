@@ -58,9 +58,6 @@ Modern productivity tools take these data compression shortcuts to the next leve
 
 Touch-based interfaces are considered the third pivotal milestone in the evolution of human computer interaction, but they have always been more of an augmentation of desktop computing rather than a replacement for it. Smartphones are great for “away from keyboard” workflows, but important productivity work still happens on desktop.
 
-
-
-
 ![image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a72a715-1ba0-4f51-a033-8ba736c13e89_1200x560.png)
 
 That’s because text is not a mobile-native input mechanism. A physical keyboard can feel like a natural extension of your mind and body, but typing on a phone is always a little awkward – and it shows in data transfer speeds: [Average typing speeds on mobile are just 36 words-per-minute](https://userinterfaces.aalto.fi/typing37k/), notably slower than the ~60 words-per-minute on desktop.

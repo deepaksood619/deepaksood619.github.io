@@ -241,7 +241,13 @@ https://www.gigsmedia.in
 
 ## Channels
 
-### Sending Mails / SMS / Notifications
+### Email Clients
+
+- thunderbird
+- [Proton Mail: Get a free email account with privacy and encryption \| Proton](https://proton.me/mail)
+- Gmail
+
+### Sending Emails / SMS / Notifications
 
 - MailChimp
 - Twilio SendGrid (Twilio)

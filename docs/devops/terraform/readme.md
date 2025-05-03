@@ -105,6 +105,7 @@ The key features of OpenTofu are:
 
 - [OpenTofu](https://opentofu.org/)
 - [GitHub - opentofu/opentofu: OpenTofu lets you declaratively manage your cloud infrastructure.](https://github.com/opentofu/opentofu)
+- [OpenTofu Joins CNCF: New Home for Open Source IaC Project - The New Stack](https://thenewstack.io/opentofu-joins-cncf-new-home-for-open-source-iac-project/)
 
 ## Terraform vs CloudFormation
 

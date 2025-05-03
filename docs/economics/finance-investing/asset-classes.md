@@ -297,3 +297,5 @@ https://www.youtube.com/c/SUBRAMONEYPVSUBRAMANYAM/videos
 - Initial Public Offering
 - Cryptocurrency
 	- [Tax on cryptos: How Budget 2025 has changed Virtual Digital Asset taxation; check details - Tax on cryptos: How Budget 2025 has changed Virtual Digital Asset taxation; check details BusinessToday](https://www.businesstoday.in/personal-finance/tax/story/tax-on-cryptos-how-budget-2025-has-changed-virtual-digital-asset-taxation-check-details-463210-2025-02-03)
+
+[Steps to minimize risk in your investment portfolio](https://freefincal.com/steps-to-minimize-risk-in-your-investment-portfolio/)

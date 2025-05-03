@@ -24,6 +24,10 @@ The Top Three Highest Ranking Crypto Websites on Alexa
 - Coinmarketcap.com (Global Rank 108, US Rank 131)
 - Vauld (FDs)
 - [Cryptocurrency Exchange - Crypto & Altcoin Swap Platform with Lowest Fees](https://changelly.com/)
+- Rango Exchange
+	- [Rango Exchange \| Swap Anything Anywhere](https://rango.exchange/)
+	- [Rango Exchange Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=PG3lKaQL-ZE)
+	- [Rango Exchange - Best Multi-Chain Swaps? - YouTube](https://www.youtube.com/watch?v=S1lF5pqJfgw)
 
 ## Centralized Exchanges (CEX)
 
