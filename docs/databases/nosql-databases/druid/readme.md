@@ -5,6 +5,6 @@
 - [Documentation](databases/nosql-databases/druid/documentation.md)
 - [Paper](paper)
 - [Commands](databases/nosql-databases/druid/commands.md)
-- [Cheatsheet](cheatsheet)
+- [Cheatsheet](databases/nosql-databases/druid/cheatsheet.md)
 - [FAQs](databases/nosql-databases/druid/faqs.md)
 - [Others](databases/nosql-databases/druid/others.md)

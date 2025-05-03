@@ -74,6 +74,21 @@ An understanding of the drawbacks of the DCF Analysis and also a look at the con
 
 [Global Economy Charts and Trends — TradingView](https://www.tradingview.com/markets/world-economy/charts-global-trends/)
 
+## 10 red flags in companies that scream 'scam alert'
+
+1. Talk big and overpromise
+2. Maintain constant media presence — through news coverage, hyperactive social media posts, and endless interviews
+3. Magnify even the smallest developments
+4. Raise funds frequently without clarity on deployment.
+5. Diversify into unrelated businesses just to ride trending narratives
+6. Overuse flashy buzzwords to sound innovative without real substance.
+7. Flaunt lavish promoter lifestyles that don’t match company performance
+8. Have high levels of promoter pledging
+9. Face frequent exits of key personnel (CFOs, auditors, CXOs)
+10. Engage in excessive related-party transactions
+
+[Many Gensols yet to come out? Vijay Kedia lists 10 red flags in companies that scream 'scam alert' - The Economic Times](https://economictimes.indiatimes.com/markets/stocks/news/many-gensols-yet-to-come-out-vijay-kedia-lists-10-red-flags-in-companies-that-scream-scam-alert/articleshow/120350897.cms?from=mdr)
+
 ## Links
 
 [What is DuPont Analysis? | 3-point & 5-point Analysis | Fundamental Analysis (in Hindi) - YouTube](https://www.youtube.com/watch?v=OUWpTy7M9aI&ab_channel=ZerodhaVarsity)

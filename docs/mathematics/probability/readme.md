@@ -8,6 +8,6 @@
 - [Central Limit Theorem](central-limit-theorem)
 - [Monte Carlo Simulation](monte-carlo-simulation)
 - [Others](mathematics/probability/others.md)
-- [Cheatsheet](cheatsheet)
+- [Cheatsheet](mathematics/probability/cheatsheet.md)
 - [365 DS - Probability](365-ds-probability)
 - [Course - Intro to Probability](intro-to-probability/readme.md)

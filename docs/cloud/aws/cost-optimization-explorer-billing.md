@@ -4,6 +4,11 @@
 
 [Cloud Financial Management with AWS](https://aws.amazon.com/aws-cost-management/)
 
+Billing access - [How to allow an IAM user to access Billing Dashboard in AWS? \| by Rohit Vyas \| Medium](https://medium.com/@mytrytest/how-to-allow-an-iam-user-to-access-billing-dashboard-in-aws-f3b5490b7def)
+
+- On account settings page, scroll down and you will get “IAM User and Role Access to Billing Information” with “edit” link button.
+- Mark this “Activate IAM Access” checkbox
+
 ### Region Costs
 
 - Oregon - 333.98

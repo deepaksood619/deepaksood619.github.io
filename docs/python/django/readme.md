@@ -13,7 +13,7 @@
 - [Advanced](advanced)
 - [Libraries](python/django/libraries.md)
 - [Others](python/django/others.md)
-- [Cheatsheet](cheatsheet)
+- [Cheatsheet](python/django/cheatsheet.md)
 - [Logging](logging)
 - [Optimizations](python/django/optimizations.md)
 - [Docs - Topic Guides](docs-topic-guides)
