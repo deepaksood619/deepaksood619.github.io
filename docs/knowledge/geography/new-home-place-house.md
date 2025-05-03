@@ -420,6 +420,7 @@ Air pollution in Delhi reduces life expectancy by 10 years
 2. Canada, which has a vast land area and diverse geography that may provide some resilience to climate change impacts. Canada has a relatively small population and abundant freshwater resources, which may be crucial as water scarcity becomes a more significant problem in other parts of the world. Additionally, Canada has taken steps to reduce greenhouse gas emissions and invest in renewable energy sources, which may help to mitigate the impacts of climate change.
 3. ~~Australia, New Zealand,~~ and certain countries in Europe such as Germany or Denmark
 4. Dubai - [Moving to Dubai for Tax Free Crypto? Read Our Guide!](https://www.coinbureau.com/analysis/dubai-crypto-tax/)
+	1. [India vs Dubai: Where to live? (Jobs, Cost of Living, Opportunities...) ...](https://youtu.be/TlNR8JRUgHk)
 5. Newzealand Japan Pacific ring of fire earthquake prone areas
 
 [The Best Citizenship in a New World Order - YouTube](https://www.youtube.com/watch?v=CAiW7HOwiaQ)

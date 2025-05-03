@@ -238,6 +238,12 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [ChatGPT - Late Talker or Delay](https://chatgpt.com/share/680e061c-27a8-8005-ae21-42f38a532191)
 - [What to do when your 2 year old is talking gibberish to you — Toddler Talk](https://toddlertalk.com/blog/my-two-year-old-is-talking-jibberish)
 - [Do Parents Cause Speech Delays?](https://www.expressable.com/learning-center/speech-and-language-issues/do-parents-cause-speech-delays)
+- [3 Effective Speech Therapy Techniques To Improve Speech Clarity In Child...](https://youtu.be/nkeBaz7_2C0)
+- [6 COMMON MISTAKES PARENTS MAKE WHEN CHILD IS DIAGNOSED WITH SPEECH LANGU...](https://youtu.be/Jc2KGjxcoJA)
+- [5 Signs of SPEECH DELAY in Children - SPECIAL TIPS TO PARENTS / How to k...](https://youtu.be/5jaf3O-69Vg)
+- [When does a child starts talking?/Speech development/Speech Language Mil...](https://youtu.be/sxgOJSyLylA)
+- [My Toddler Understands But Isn’t Talking [Learn How To Help From A Speec...](https://youtu.be/Dk_Fq_NAf08)
+- [This Gets Kids to Listen Every Time (Without Yelling)](https://youtu.be/SQ-NN_1Jotw)
 
 ## Links
 
@@ -306,3 +312,4 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [New Parents - You’ll Wish You Knew This Sooner...](https://youtu.be/wlOENvg92Mc)
 - [Avoid These Baby Care Mistakes - Diapers, Rashes & Best Products \| Dr Arpit Gupta \|FO324 Raj Shamani - YouTube](https://youtu.be/yP-fJMqWYCI)
 - [8 Rules of Positive Parenting \| Riri trivedi - YouTube](https://youtu.be/22T-6duM9nI)
+- [This Is Why Your Baby Hates Tummy Time (And How To Fix It) - YouTube](https://www.youtube.com/watch?v=L4j34KDdx0Y)

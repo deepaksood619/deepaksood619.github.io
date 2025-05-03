@@ -70,3 +70,4 @@ NSE: RAYMONDLSL
 - [How To Pick Stocks Like Peter Lynch in India| Book Review 📖🔖 - YouTube](https://www.youtube.com/watch?v=2PGLUK6l7dg)
 - [Hidden Beneficiary of Huge Capex Boom! ⚡ - YouTube](https://www.youtube.com/watch?v=4hdllKJgpV4)
 - [How Shankar Nath's newsletter recommendation is performing](https://www.youtube.com/channel/UCtnItzU7q_bA1eoEBjqcVrw/community?lb=UgkxY3UezZfBrvwxWXyxHsKwXNSXsWZB4C3n)
+- [15 fundamentally strong stocks at a discount](https://youtu.be/p389Qdg_Tco)

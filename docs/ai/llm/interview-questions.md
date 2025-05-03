@@ -357,6 +357,7 @@ If you want to experiment and create many variations quickly, a high temperature
 - KV Cache
 - infini-attention (long context windows)
 - mixture of experts (MoE)
+	- [Mixture of Memory Experts (MoME) | Data Brew | Episode 36](https://youtu.be/pctR3sdCJgQ)
 - grouped query attention
 - basic understanding of llama-2 architecture and techniques which is actually a recap of all the previous subjects
 

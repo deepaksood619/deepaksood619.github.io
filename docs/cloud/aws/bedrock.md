@@ -10,6 +10,7 @@
 - [Amazon Bedrock Knowledge Bases now supports advanced parsing, chunking, and query reformulation giving greater control of accuracy in RAG based applications \| AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-knowledge-bases-now-supports-advanced-parsing-chunking-and-query-reformulation-giving-greater-control-of-accuracy-in-rag-based-applications/)
 - [Crawl web pages for your knowledge base - Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/webcrawl-data-source-connector.html)
 - [Retrieve data and generate AI responses with Amazon Bedrock Knowledge Bases - Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/knowledge-base.html)
+- [Build a RAG based Generative AI Chatbot in 20 mins using Amazon Bedrock ...](https://youtu.be/hnyDDfo8e9Q)
 
 ## Web Crawl
 

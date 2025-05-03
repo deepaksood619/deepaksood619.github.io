@@ -118,10 +118,8 @@ Are you fixing the problem or adding to your **team’s debt?**
 
 ## Links
 
-[https://mfi.engineering/money-forward-i-engineering-2021-43e473dca440](https://mfi.engineering/money-forward-i-engineering-2021-43e473dca440)
-
-[https://mfi.engineering/money-forward-i-engineering-2022-9f5c8549798c](https://mfi.engineering/money-forward-i-engineering-2022-9f5c8549798c)
-
-[CTO Checklist. Being an engineering leader comes in… | by Tom Neal | Medium](https://medium.com/@tom-neal/cto-checklist-1a2ef3d6502)
-
-[Small Steps Are the Fastest Way Forward: Life Beyond Agile & Scrum • Sander Hoogendoorn • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=OzCE4m9ERvU)
+- [https://mfi.engineering/money-forward-i-engineering-2021-43e473dca440](https://mfi.engineering/money-forward-i-engineering-2021-43e473dca440)
+- [https://mfi.engineering/money-forward-i-engineering-2022-9f5c8549798c](https://mfi.engineering/money-forward-i-engineering-2022-9f5c8549798c)
+- [CTO Checklist. Being an engineering leader comes in… | by Tom Neal | Medium](https://medium.com/@tom-neal/cto-checklist-1a2ef3d6502)
+- [Small Steps Are the Fastest Way Forward: Life Beyond Agile & Scrum • Sander Hoogendoorn • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=OzCE4m9ERvU)
+- [Why Are Managers Bad At Their Jobs? (The Peter Principle)](https://youtu.be/m7-UdDg5uIw)

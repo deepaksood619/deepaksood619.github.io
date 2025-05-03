@@ -374,3 +374,6 @@ Just add a module of UPSC in khan academy. It has everything.
 - [The flawed history of testing — and how we move beyond it - YouTube](https://www.youtube.com/watch?v=sdZLz2t7U4Q)
 - Liberated Podcast - [LiberatED with Kerry McDonald - YouTube](https://www.youtube.com/@liberatedpodcast)
 - [1 million students have ditched traditional classrooms. Here’s where they’re going instead - YouTube](https://www.youtube.com/watch?v=aMCwW6aTwpw)
+- [The 7 Pillars of Unlocking Potential \| Anirudh Krishna \| TED - YouTube](https://www.youtube.com/watch?v=OTIx-2udf6Y)
+- [This school only teaches for 2 hours a day—here’s why it works](https://youtu.be/Q0UaFZYntwc)
+- [What Makes Toppers Different, JEE vs NEET & Future of EdTech - Ujjwal Si...](https://youtu.be/4xg2FOscsVE)

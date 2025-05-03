@@ -71,6 +71,8 @@ https://ai.google/research/pubs/pub36632
 
 [GitHub - dlt-hub/dlt: data load tool (dlt) is an open source Python library that makes data loading easy 🛠️](https://github.com/dlt-hub/dlt)
 
+[Data Engineering with Python and AI/LLMs – Data Loading Tutorial - YouTube](https://www.youtube.com/watch?v=T23Bs75F7ZQ)
+
 ## SAAS
 
 - [Atlan](https://atlan.com/) (Enterprise Data Catalogs for DataOps)
