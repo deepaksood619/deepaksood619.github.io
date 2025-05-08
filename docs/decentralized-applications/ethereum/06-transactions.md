@@ -130,7 +130,7 @@ As mentioned, transactions cost gas to execute. Simple transfer transactions req
 
 So for Bob to send Alice 1 ETH at a `baseFeePerGas` of 190 gwei and `maxPriorityFeePerGas` of 10 gwei, Bob will need to pay the following fee:
 
-```
+```bash
 (190 + 10) * 21000 = 4,200,000 gwei
 --or--
 0.0042 ETH

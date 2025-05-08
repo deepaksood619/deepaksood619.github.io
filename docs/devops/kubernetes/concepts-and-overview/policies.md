@@ -26,7 +26,7 @@ https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/quota-memor
 
 https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/memory-default-namespace
 
-```
+```yaml
 ## apiVersion: v1
 ## kind: LimitRange
 ## metadata
@@ -126,7 +126,7 @@ Here is a summary of the RBAC process:
 
 They can be configured as kube-apiserver startup options:
 
-```
+```yaml
 --authorization-mode=ABAC
 --authorization-mode=RBAC
 --authorization-mode=Webhook
