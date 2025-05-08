@@ -202,7 +202,7 @@ These entities issue tax free bonds to raise funds for their respective project
 
 #### How do tax-free bonds work?
 
-Investing in tax-free bonds just requires a [Demat account](/what-is-demat-account), and investors can buy or sell these bonds on the stock exchange. They can also use [online trading](/what-is-online-trading) platforms like the one from Bajaj Financial Securities Limited (BFSL). The interest earned on these bonds is tax-exempt and is directly credited to the investor's bank account.
+Investing in tax-free bonds just requires a Demat account, and investors can buy or sell these bonds on the stock exchange. They can also use online trading platforms like the one from Bajaj Financial Securities Limited (BFSL). The interest earned on these bonds is tax-exempt and is directly credited to the investor's bank account.
 
 These bonds listed on the stock exchanges offer flexibility in terms of liquidity. Due to their tax-exempt status, tax free bonds usually face high demand and low supply, especially during the tax-saving season.
 
@@ -210,9 +210,9 @@ These bonds listed on the stock exchanges offer flexibility in terms of liquidit
 
 1. **Investment goals:** Before investing in tax-free bonds, determine your investment goals, such as earning tax-exempt income, preserving capital, or liquidity.
 2. **Investment horizon:** Consider the duration of the investment and match it with your financial goals.
-3. **Research:** Thoroughly research the available tax-free bonds, including [government bonds](/what-are-government-securities-and-bonds) and municipal bonds. Compare interest rates, credit ratings, and other relevant factors to suit your investment goals.
+3. **Research:** Thoroughly research the available tax-free bonds, including government bonds and municipal bonds. Compare interest rates, credit ratings, and other relevant factors to suit your investment goals.
 4. **Brokerage:** Choose a reputable stockbroker, such as a traditional broker or an online broker, who specialises in tax-free bond investments.
-5. **Open a Demat and trading account:** [Open a Demat and trading account](/demat-account) with the chosen broker. The process may require filling out an application and providing personal information.
+5. **Open a Demat and trading account:** Open a Demat and trading account with the chosen broker. The process may require filling out an application and providing personal information.
 6. **Purchase the bonds:** Once you have selected a tax-free bond, decide on the number of bonds you want to purchase and complete the transaction through your broker.
 7. **Risk management:** Remember that tax-free bonds are subject to credit risk, market risk, and interest rate risk. Be aware of these risks and consult with a financial advisor on ways to minimise them.
 
