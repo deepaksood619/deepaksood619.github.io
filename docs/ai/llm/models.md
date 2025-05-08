@@ -73,6 +73,7 @@ Note: You should have at least 8 GB of RAM available to run the 7B models, 16 GB
     - aligned by an alignment team
     - Remove refusals
 - [Introduction | Mistral AI Large Language Models](https://docs.mistral.ai/)
+- [Introducing Nova-2: The Fastest, Most Accurate Speech-to-Text API | Deepgram](https://deepgram.com/learn/nova-2-speech-to-text-api)
 
 #### [DeepSeek](https://www.deepseek.com/)
 
@@ -124,13 +125,13 @@ So... what's the deal with TTMs?
 - [Paper page - Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series](https://huggingface.co/papers/2401.03955)
 - [Granite Time Series Models - a ibm-granite Collection](https://huggingface.co/collections/ibm-granite/granite-time-series-models-663a90c6a2da73482bce3dc6)
 
-#### Others
+### Small Language Models (SLMs)
 
-[Introducing Nova-2: The Fastest, Most Accurate Speech-to-Text API | Deepgram](https://deepgram.com/learn/nova-2-speech-to-text-api)
+[Phi-2: The surprising power of small language models - Microsoft Research](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
 
-### HuggingFace
+## HuggingFace
 
-#### About
+### About
 
 [Spaces - Hugging Face](https://huggingface.co/spaces)
 
@@ -140,7 +141,7 @@ So... what's the deal with TTMs?
 - Green - the **language** of the dataset
 - White or Purple - **additional details** about the model
 
-#### Transformer Models
+### Transformer Models
 
 - [GitHub - huggingface/transformers: 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.](https://github.com/huggingface/transformers)
 - [Hugging Face - The AI community building the future.](https://huggingface.co/)

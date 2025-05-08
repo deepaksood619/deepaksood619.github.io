@@ -1,5 +1,7 @@
 # Microsoft Excel / Google Sheets
 
+[Do Something .new \| A Domain Exclusively for Shortcuts](https://whats.new/)
+
 ## Features
 
 - Timeline View - https://support.google.com/docs/answer/12935277 https://www.youtube.com/watch?v=Vl0H-qTclOg&feature=youtu.be&ab_channel=freeCodeCamp.org

@@ -24,10 +24,11 @@ Django maintains a list of "authentication backend" that is checks for authentic
 
 - [GitHub - jazzband/django-rest-knox: Authentication Module for django rest auth](https://github.com/James1345/django-rest-knox)
 - [django-allauth](https://docs.allauth.org/en/latest/)
-	- [SAML - django-allauth](https://docs.allauth.org/en/latest/socialaccount/providers/saml.html)
+- [SAML - django-allauth](https://docs.allauth.org/en/latest/socialaccount/providers/saml.html)
 	- [python - Enable oauth login with django-allauth but a custom provider - Stack Overflow](https://stackoverflow.com/questions/37690418/enable-oauth-login-with-django-allauth-but-a-custom-provider)
 	- [Setting up a Django OAuth2 server & client | Raphaël Yancey](https://raphaelyancey.fr/en/2018/05/28/setting-up-django-oauth2-server-client.html)
 	- [Google - django-allauth](https://docs.allauth.org/en/latest/socialaccount/providers/google.html)
-	- [GitHub - jazzband/django-oauth-toolkit: OAuth2 goodies for the Djangonauts!](https://github.com/jazzband/django-oauth-toolkit)
+- [GitHub - jazzband/django-oauth-toolkit: OAuth2 goodies for the Djangonauts!](https://github.com/jazzband/django-oauth-toolkit)
+- [GitHub - casbin/pycasbin: An authorization library that supports access control models like ACL, RBAC, ABAC in Python](https://github.com/casbin/pycasbin)
 - django-rest-framework-jwt
 - [Django REST Framework Authentication | TestDriven.io](https://testdriven.io/blog/django-rest-auth/)

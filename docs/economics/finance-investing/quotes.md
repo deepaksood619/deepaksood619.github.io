@@ -2,6 +2,11 @@
 
 Diversification using portfolio allocation and goal based investing are the only things that works in personal finance investing
 
+- Rule 1 - don't lose money (never get married to your investments)
+- Rule 2 - portfolio allocation is the only important thing that matters and rebalancing
+- Rule 3 - diversification
+- Goal based investing
+
 Temperament - A person’s character, especially as it affects the way he/she behaves and feels
 
 Money begets Money

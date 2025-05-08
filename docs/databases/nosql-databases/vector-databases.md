@@ -25,7 +25,11 @@ Vector databases are designed to handle critical query and algorithmic styles se
 - [Qdrant - Vector Database - Qdrant](https://qdrant.tech/)
 	- [GitHub - qdrant/qdrant: Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/](https://github.com/qdrant/qdrant)
 
-### Links
+## Working
+
+![How Vector Databases Work](../../media/Screenshot%202025-05-08%20at%201.59.29%20PM.jpg)
+
+## Links
 
 - [The 5 Best Vector Databases | A List With Examples | DataCamp](https://www.datacamp.com/blog/the-top-5-vector-databases)
 - [Key considerations when choosing a database for your generative AI applications | AWS Database Blog](https://aws.amazon.com/blogs/database/key-considerations-when-choosing-a-database-for-your-generative-ai-applications/)

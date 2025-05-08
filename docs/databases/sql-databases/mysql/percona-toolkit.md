@@ -53,6 +53,7 @@ pt-duplicate-key-checker -host sttash-main-db-instance-new-cluster.cluster-ro-c1
 - [pt-mongodb-query-digest](https://www.percona.com/doc/percona-toolkit/LATEST/pt-mongodb-query-digest.html)
 - [pt-mongodb-summary](https://www.percona.com/doc/percona-toolkit/LATEST/pt-mongodb-summary.html)
 - [pt-mysql-summary](https://www.percona.com/doc/percona-toolkit/LATEST/pt-mysql-summary.html)
+- [pt-online-schema-change — Percona Toolkit Documentation](https://docs.percona.com/percona-toolkit/pt-online-schema-change.html) (pt-osc)
 
 ```bash
 pt-mysql-summary --host localhost --user root --ask-pass > mysql-summary.txt

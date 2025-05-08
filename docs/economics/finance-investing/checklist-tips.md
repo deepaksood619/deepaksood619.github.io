@@ -286,9 +286,7 @@ You must own **equity -** a piece of business - to gain your financial freedom
 [Charlie Munger: The 5 Investing Tricks That Made Him a Billionaire](https://youtu.be/w4d0e3Jpu9s)
 
 - Invert!
-
-Example - is the stock good invert to why is this stock not good
-
+	- Example - is the stock good invert to why is this stock not good
 - Know What You Don't Know
 - Rational Thinking
 - Keep It Simple!
@@ -369,6 +367,11 @@ A situation when the UPSIDE potential of an asset is much greater than the poten
 Consumption smoothing refers to **a process of achieving a balance between spending for today's needs and saving for the future**. The aim is to balance out spending and saving during the different phases of life. It is a major financial planning challenge for anyone to achieve this balance.
 
 [Consumption Smoothing Definition, Affect on Living Standards](https://www.investopedia.com/terms/c/consumption-smoothing.asp)
+
+## Tips
+
+- Buy long term fixed deposits during a high interest rate environment
+- Don't buy too much stock in a bull run atleast the mid/small/micro cap
 
 ## Links
 

@@ -65,6 +65,12 @@ Contextual Retrieval enhances each chunk by adding specific, explanatory context
 
 ![Graph RAG](../../media/Screenshot%202024-12-27%20at%2011.34.53%20AM.jpg)
 
+## Cache-Augmented Generation (CAG)
+
+[RAG vs. CAG: Solving Knowledge Gaps in AI Models - YouTube](https://www.youtube.com/watch?v=HdafI0t3sEY)
+
+[GitHub - hhhuang/CAG: Cache-Augmented Generation: A Simple, Efficient Alternative to RAG](https://github.com/hhhuang/CAG)
+
 ## Tools
 
 - [GitHub - bitswired/website-to-knowledge-base](https://github.com/bitswired/website-to-knowledge-base)
