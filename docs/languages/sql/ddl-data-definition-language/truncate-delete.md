@@ -16,7 +16,7 @@
 
 Example:
 
-```
+```sql
 truncate table marketing.emailcampaign
 
 BEGIN TRAN
@@ -40,7 +40,7 @@ To achieve high performance, [`TRUNCATE TABLE`](https://dev.mysql.com/doc/refman
 
 Example:
 
-```
+```sql
 delete from
   marketing.emailcampaign
 where

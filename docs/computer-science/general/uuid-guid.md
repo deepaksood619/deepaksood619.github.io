@@ -108,7 +108,7 @@ The worker ID is a 10-bit integer that identifies the worker generating the ID, 
 
 The structure of a Snowflake ID can be represented in a binary format as follows:
 
-```
+```bash
 0                                       41     51         64
 +---------------------------------------+------+-----------+
 | timestamp (milliseconds since epoch)  |worker| sequence  |

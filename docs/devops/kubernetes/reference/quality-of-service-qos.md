@@ -16,7 +16,7 @@ When Kubernetes creates a Pod it assigns one of these QoS classes to the Pod:
 - Every Container in the Pod must have a memory limit and a memory request, and they must be the same.
 - Every Container in the Pod must have a CPU limit and a CPU request, and they must be the same.
 
-```
+```yaml
 resources:
     limits:
         memory: "200Mi"
@@ -40,7 +40,7 @@ For a Pod to be given a QoS class of `Guaranteed`:
 - The Pod does not meet the criteria for QoS class Guaranteed.
 - At least one Container in the Pod has a memory or CPU request
 
-```
+```yaml
 resources:
     limits:
         memory: "200Mi"
