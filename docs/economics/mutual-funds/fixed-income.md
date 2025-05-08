@@ -168,6 +168,58 @@ The rate of interest offered on tends to be higher for longer tenures. An FD wit
 | PW in 37 months; 1% interest loss             | 5.5%             | 37                         |             | ₹ 1,18,344             |
 | PW in 37 months; same rate; 1% penalty on P+I | 7%               | 37                         | ₹ 1,239     | ₹ 1,22,620             |
 
+## Tax-Free Bonds (Tax Free Bonds)
+
+Tax-free bonds are fixed-income instruments, and as per section 10(15) of the Income Tax Act of 1961, any earnings from this bond are exempted from tax. These bonds usually have a maturity period of 10-20 years and provide a low-interest rate on those bonds.
+
+Tax-free bonds are a type of fixed income investment where the interest paid to the bondholders is exempt from income tax. These bonds are issued by government entities like government companies, municipal corporations, public sector undertakings, and other infrastructure companies.
+
+These bonds have been introduced in India to finance government and infrastructure projects, while also providing an investment option to individuals with a tax-saving benefit. Many states in India issue tax-free bonds for raising capital for infrastructure development.
+
+#### Who issues tax-free bonds?
+
+Tax-free bonds are issued by entities that are backed, set up, or incorporated by the government to fund projects aimed at national development. These projects often involve infrastructure, housing, and urban development. In India, for example, the Power Finance Corporation Limited issues tax-free bonds to support the development of the power sector. Other common issuers include:
+
+1. National Highway Authority of India (NHAI)
+2. Power Finance Corporation Limited (PFC)
+3. Indian Infrastructure Finance Company Limited (IIFCL)
+4. Housing and Urban Development Corporation Limited (HUDCO)
+5. Indian Renewable Energy Development Agency Limited (IREDA)
+6. Rural Electrification Corporation Limited (REC)
+7. National Housing Bank (NHB)
+8. NHPC Limited (formerly National Hydroelectric Power Corporation Ltd.)
+9. NTPC Limited (formerly National Thermal Power Corporation)
+
+These entities issue tax free bonds to raise funds for their respective projects, contributing to the nation's growth and development.
+
+#### What are the common types of tax-free bonds?
+
+1. Infrastructure bonds
+2. Housing bonds
+3. Power bonds
+4. Railway bonds
+5. Public sector unit bonds
+
+#### How do tax-free bonds work?
+
+Investing in tax-free bonds just requires a [Demat account](/what-is-demat-account), and investors can buy or sell these bonds on the stock exchange. They can also use [online trading](/what-is-online-trading) platforms like the one from Bajaj Financial Securities Limited (BFSL). The interest earned on these bonds is tax-exempt and is directly credited to the investor's bank account.
+
+These bonds listed on the stock exchanges offer flexibility in terms of liquidity. Due to their tax-exempt status, tax free bonds usually face high demand and low supply, especially during the tax-saving season.
+
+#### Factors To checklist before investing in tax-free bonds
+
+1. **Investment goals:** Before investing in tax-free bonds, determine your investment goals, such as earning tax-exempt income, preserving capital, or liquidity.
+2. **Investment horizon:** Consider the duration of the investment and match it with your financial goals.
+3. **Research:** Thoroughly research the available tax-free bonds, including [government bonds](/what-are-government-securities-and-bonds) and municipal bonds. Compare interest rates, credit ratings, and other relevant factors to suit your investment goals.
+4. **Brokerage:** Choose a reputable stockbroker, such as a traditional broker or an online broker, who specialises in tax-free bond investments.
+5. **Open a Demat and trading account:** [Open a Demat and trading account](/demat-account) with the chosen broker. The process may require filling out an application and providing personal information.
+6. **Purchase the bonds:** Once you have selected a tax-free bond, decide on the number of bonds you want to purchase and complete the transaction through your broker.
+7. **Risk management:** Remember that tax-free bonds are subject to credit risk, market risk, and interest rate risk. Be aware of these risks and consult with a financial advisor on ways to minimise them.
+
+[What are Tax-Free Bonds: Features, Benefits & How to Invest](https://www.bajajfinserv.in/what-are-tax-free-bonds)
+
+[List of Tax-Free Bonds in India 2025](https://www.wintwealth.com/bonds/tax-free-bonds/)
+
 ## Links
 
 - [5 High Profit, Tax Free Government Investing Options! | Ankur Warikoo Hindi - YouTube](https://www.youtube.com/watch?v=3Fxuq0jeUkk)

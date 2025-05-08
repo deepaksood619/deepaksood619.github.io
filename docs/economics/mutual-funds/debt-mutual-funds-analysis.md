@@ -13,6 +13,8 @@
     - At premium (lower yields)
     - Time value of money (Since the interest will get reinvested, interest at 1st year will be invested for 9 years, whereas interest received at 9th year, will be invested only for 1 year)
 
+### Yield to maturity (YTM)
+
 Yield to maturity (YTM) is the total return anticipated on a bond if the bond is held until it matures. Yield to maturity is considered a long-term [bond yield](https://www.investopedia.com/terms/b/bond-yield.asp) but is expressed as an annual rate. In other words, it is the [internal rate of return](https://www.investopedia.com/terms/i/irr.asp)(IRR) of an investment in a bond if the investor holds the bond until maturity, with all payments made as scheduled and reinvested at the same rate.
 
 - Yield to maturity (YTM) is the total rate of return that will have been earned by a bond when it makes all interest payments and repays the original principal.

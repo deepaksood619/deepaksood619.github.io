@@ -223,6 +223,12 @@ The 2 days were filled with exciting games, challenges, activities and one of th
 - Let's think step by step
 - Do you know a related problem
 
+## Research
+
+Please use this prompt on Gemini Advanced when researching : Comprehensively structure the material in a chronological, structured, detailed manner without missing any details. Rate the material out of 10 and recommend suggestions such that you can rate it 11/10. Recommend any other tools you feel are relevant in accordance and do not be repetitive.
+
+**Comparison prompt** - Comprehensively compare ____________ across all aspects on a table. Rate each and every feature out of 10 on the table and also give their average ratings out of 10. Do not make biases based on public opinion.
+
 ## ChatGPT Custom Instructions
 
 ### What traits should ChatGPT have?

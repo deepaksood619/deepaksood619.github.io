@@ -55,6 +55,7 @@
 	- [Berkeley Square Finance Group (BSFG)](https://bsfg.finance/)
 - [Rollout AI - AI Landing Page Builder & Website Builder \[FREE\]](https://rollout.site/)
 - [CopyCoder](https://copycoder.ai/)
+- [Lovable](https://lovable.dev/)
 
 ### Others
 

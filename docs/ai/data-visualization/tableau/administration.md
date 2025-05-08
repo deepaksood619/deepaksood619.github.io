@@ -91,6 +91,51 @@ The Admin Insights Starter workbook provides site administrators with enhanced v
 
 [Tableau Community Forums](https://community.tableau.com/s/question/0D54T00000C6S5nSAF/this-workbook-contains-a-data-source-that-is-dependent-on-a-different-tableau-server-multiple-tableau-server-connections-are-not-s)
 
+## Tableau Licenses
+
+### Creator vs Explorer vs Viewer
+
+- Creator licenses provide full access to all Tableau features, including Tableau Desktop and Prep Builder.
+- Explorer licenses allow users to author workbooks and interact with them, but not create new data sources or edit existing ones from scratch
+- Viewer licenses offer the most limited access, allowing users to view, interact with, and subscribe to existing dashboards and alerts
+
+#### Tableau Creator
+
+- **Full Access:** Creator licenses unlock all Tableau features, including Tableau Desktop and Prep Builder, allowing users to perform comprehensive data analysis, creation, and sharing.
+- **Data Source Creation:** Creators can create and manage their own data sources, perform data preparation, and build visualizations from scratch.
+- **Workbook Authoring:** Creators can author and publish workbooks on Tableau Server, edit embedded data sources, and create new data connections.
+
+#### Tableau Explorer
+
+- **Web Authoring:** Explorers can access web-based authoring capabilities, allowing them to interact with and modify existing workbooks, but not create new ones from scratch or edit embedded data sources.
+- **Interactivity:** Explorers can filter, sort, and interact with visualizations, but cannot create new visualizations from scratch or modify the data source.
+- **Collaboration:** Explorers can collaborate with other users, share their work, and receive data-driven alerts.
+
+#### Tableau Viewer
+
+- **Viewing and Interacting:** Viewers can access and interact with existing dashboards, but they cannot create, edit, or publish new content.
+- **Limited Interaction:** Viewers can change filters, drill down into data, and interact with pre-built visualizations, but cannot modify the underlying data or author new visualizations.
+- **Subscriptions and Alerts:** Viewers can create subscriptions for themselves and receive data-driven alerts, ensuring they stay informed about changes in their dashboards.
+
+[What is Tableau? What Is Explorer, Creator And Viewer In Tableau?](https://www.uneecops.com/blog/what-is-tableau-what-is-explorer-creator-and-viewer-in-tableau/)
+
+### Pricing
+
+| **Product**                | **Qty** | **Unit Price (Yearly INR)** | **Discount %** | **Discount Unit Price (Yearly INR)** | **Annual License cost (INR)** |
+| -------------------------- | ------- | --------------------------- | -------------- | ------------------------------------ | ----------------------------- |
+| Tableau - Creator (Cloud)  | 7       | ₹74,250                     | 30.00%         | ₹51,975                              | ₹363,825                      |
+| Tableau - Explorer (Cloud) | 5       | ₹41,580                     | 30.00%         | ₹29,106                              | ₹145,530                      |
+| Tableau - Viewer (Cloud)   | 63      | ₹14,856                     | 30.00%         | ₹10,399                              | ₹655,150                      |
+| **Total**                  |         |                             |                | **₹91,480**                          | **₹1,164,505**                |
+
+Costs are exclusive of GST
+
+- 30% discount on Tableau License for 1 year commitment
+- 37% discount on Tableau License for 3 year commitment
+- Price lock-in for 3 years irrespective Salesforce price increase. Billing will be done annually
+- Access to Tableau customer portal.
+- Self-serve tool for raise Tableau support tickets
+
 ## Links
 
 - [Tableau Cloud Site Capacity - Tableau](https://help.tableau.com/current/online/en-us/to_site_capacity.htm)
