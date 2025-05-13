@@ -448,7 +448,7 @@ A person feeding themselves a vegetarian diet would need about an acre of land a
 - [All About your Property Tax and How to Pay it Online](https://www.bankbazaar.com/home-loan/resources/land-tax.html)
 - [What are the Land Ownership Laws in India?](https://www.ezylegal.in/blogs/land-ownership-laws-in-india)
 - [Property Tax in India - Defination, Types, & Calculation Formula](https://www.bankbazaar.com/tax/property-tax.html)
-- [Rich using farmhouses to save crores in taxes, legally: CA explains how \| Personal Finance - Business Standard](www.business-standard.com/amp/finance/personal-finance/rich-using-farmhouses-to-save-crores-in-taxes-legally-ca-explains-how-125050700563_1.html)
+- [Rich using farmhouses to save crores in taxes, legally: CA explains how \| Personal Finance - Business Standard](https://www.business-standard.com/amp/finance/personal-finance/rich-using-farmhouses-to-save-crores-in-taxes-legally-ca-explains-how-125050700563_1.html)
 
 ## Loan
 
