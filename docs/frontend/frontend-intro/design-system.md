@@ -60,6 +60,7 @@ Storybook is an open source tool for developing UI components in isolation for R
 - https://patternlab.io - Pattern Lab is a frontend workshop environment that helps you build, view, test, and showcase your design system's UI components.
 - https://penpot.app - Penpot is the first Open Source design and prototyping platform meant for cross-domain teams. Non dependent on operating systems, Penpot is web based and works with open web standards (SVG). For all and empowered by the community.
 - https://www.invisionapp.com
+- [Fractal](https://fractal.build/)
 
 ## Color Palette picker
 

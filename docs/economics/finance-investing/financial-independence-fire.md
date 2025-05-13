@@ -85,6 +85,8 @@ Monthly Savings Required To Accumulate The Fund Is - **₹7,25,218**
 
 - For 2024 1 lakh monthly expenses you would need 17 crore retirement corpus
 
+[How to deploy money in a retirement bucket strategy](https://freefincal.com/how-to-deploy-money-in-a-retirement-bucket-strategy/)
+
 ## Lifestyle upgrades
 
 - 2 objectives that contradict each other, one objective is to achieve financial independence, other objective is to have lifestyle upgrade

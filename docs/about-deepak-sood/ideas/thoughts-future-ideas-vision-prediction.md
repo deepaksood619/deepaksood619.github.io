@@ -132,6 +132,8 @@ Future
 
 ## Links
 
+[NEXT100 by Antler - 2025](https://www.theoryofnext.com/)
+
 [Ask HN: What are the big/important problems to work on? | Hacker News](https://news.ycombinator.com/item?id=37033312)
 
 [Why AI Will Spark Exponential Economic Growth | Cathie Wood | TED - YouTube](https://www.youtube.com/watch?v=rQEh7d-qa38&ab_channel=TED)

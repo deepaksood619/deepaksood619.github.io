@@ -9,6 +9,15 @@ Ethical Principles around Data
 3. Beneficence - People using your data should do it for your benefit
 4. Non-maleficence - Do no harm
 
+## Data Lineage
+
+### Cross Reference Tables
+
+Cross-reference tables, sometimes referred to as XREF tables, are used for tracking the lineage of data, which systems and which records from those systems contributed to consolidated records, and also for tracking versions of data.
+
+- [Cross-Reference (XREF) Tables](https://docs.informatica.com/master-data-management/multidomain-mdm/10-3/overview-guide/key-concepts/content-metadata/cross-reference--xref--tables.html)
+- [Mapping Data with Cross-References](https://docs.oracle.com/middleware/1221/osb/develop/GUID-F1DED2BC-B513-4637-9FAF-63F07FAB52A5.htm#OSBDV88275)
+
 ## ODPi
 
 ODPi creates open source standards to help you use and understand data across all platforms.
@@ -139,6 +148,7 @@ Both Apache Atlas and DataHub are open-source data catalog platforms designed to
 - Talend
 - Informatica
 - Apache Atlas
+- [The Data Catalog Platform \| data.world](https://data.world/)
 
 ## Links
 

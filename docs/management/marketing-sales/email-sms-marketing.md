@@ -246,6 +246,8 @@ https://www.gigsmedia.in
 - thunderbird
 - [Proton Mail: Get a free email account with privacy and encryption \| Proton](https://proton.me/mail)
 - Gmail
+- Outlook - Microsoft 365
+- Zoho One - [Zoho One - Plan Details \| Zoho](https://www.zoho.com/one/plan-details.html)
 
 ### Sending Emails / SMS / Notifications
 

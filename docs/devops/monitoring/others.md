@@ -233,6 +233,26 @@ https://docs.docker.com/config/containers/logging/syslog
 - [Airflow](https://docs.datadoghq.com/integrations/airflow/)
 - [Monitoring in the Kubernetes Era | Datadog](https://www.datadoghq.com/blog/monitoring-kubernetes-era/)
 
+## Opentelemetry
+
+- [OpenTelemetry](https://opentelemetry.io/)
+- [OpenTelemetry - CNCF · GitHub](https://github.com/open-telemetry)
+- Demo Docs - Hackathon
+	- [OpenTelemetry Demo Docs \| OpenTelemetry](https://opentelemetry.io/docs/demo/)
+	- [Demo Architecture \| OpenTelemetry](https://opentelemetry.io/docs/demo/architecture/)
+	- [GitHub - open-telemetry/opentelemetry-demo: This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.](https://github.com/open-telemetry/opentelemetry-demo)
+
+## signoz
+
+[GitHub - SigNoz/signoz: SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (APM) & Observability tool](https://github.com/SigNoz/signoz)
+
+- Metrics
+- Traces
+- Logs
+- Dashboards
+- Errors
+- Alerts
+
 ## Others
 
 - https://victoriametrics.com/products/open-source

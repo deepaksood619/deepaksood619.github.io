@@ -1,4 +1,4 @@
-# ChatGPT / LLM
+# LLM
 
 - [Intro](ai/llm/intro.md)
 - [Models](ai/llm/models.md)

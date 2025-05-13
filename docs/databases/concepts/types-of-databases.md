@@ -20,6 +20,8 @@ Rows/Records - Tables can also have many rows of data. These rows are often call
 - MariaDB
 - SQLite
 
+[Top 20 Emerging Databases to Use in 2025 and Beyond](https://www.ishir.com/blog/42058/top-15-emerging-databases-to-use-in-2022-and-beyond.htm)
+
 ## NoSQL Databases (Scales better, Higher availability)
 
 - While the traditional SQL can be effectively used to handle large amount of structured data, we need NoSQL (Not Only SQL) to handle unstructured data

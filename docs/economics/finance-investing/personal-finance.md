@@ -28,6 +28,10 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 - [Why Understanding Sequence Risk is Crucial for Investing Success!](https://freefincal.com/sequence-returns-risk/)
 - [Why does the sequence of returns risk matter when there are periodic withdrawals I Ft Ravi Saraogi - YouTube](https://www.youtube.com/watch?v=nEbSOyKzpMc&ab_channel=ZerodhaVarsity)
 
+### Investment Risk
+
+- [SEBI RIA Akshay Nayak answers FAQ on investment risk](https://freefincal.com/sebi-ria-akshay-nayak-answers-faq-on-investment-risk/)
+
 ## Others
 
 - Folks, I’ve some big plans of my own this year that’s going to suck the money out of my wallet. So, I’ll have to ditch this trip to Goa (adulting sucks). But come and hang out with me at home before you all go, and we’ll have a blast?

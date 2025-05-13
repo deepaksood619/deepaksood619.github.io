@@ -27,3 +27,5 @@ https://docs.yugabyte.com/latest/comparisons
 https://docs.yugabyte.com/latest/architecture/design-goals
 
 [YugabyteDB supports read committed isolation - YouTube](https://www.youtube.com/watch?v=4ZiFKWOPvoc&ab_channel=HusseinNasser)
+
+[Josip Pojatina](https://www.josip-pojatina.com/en/yugabytedb-distributed-sql-database-for-a-new-age/)

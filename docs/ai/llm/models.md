@@ -74,6 +74,9 @@ Note: You should have at least 8 GB of RAM available to run the 7B models, 16 GB
     - Remove refusals
 - [Introduction | Mistral AI Large Language Models](https://docs.mistral.ai/)
 - [Introducing Nova-2: The Fastest, Most Accurate Speech-to-Text API | Deepgram](https://deepgram.com/learn/nova-2-speech-to-text-api)
+- [GitHub - QwenLM/Qwen3: Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.](https://github.com/QwenLM/Qwen3)
+	- [GitHub - QwenLM/Qwen: The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.](https://github.com/QwenLM/Qwen)
+	- [Qwen (Qwen)](https://huggingface.co/Qwen)
 
 #### [DeepSeek](https://www.deepseek.com/)
 

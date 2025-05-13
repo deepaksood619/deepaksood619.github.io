@@ -133,6 +133,9 @@ helm show values prometheus-community/kube-prometheus-stack
 
 helm install -f values.yaml straw prometheus-community/kube-prometheus-stack -n promstack
 
+# otherwise
+helm install straw prometheus-community/kube-prometheus-stack -n promstack
+
 kubectl --namespace promstack get pods -l "release=straw"
 
 helm upgrade -f values.yaml straw prometheus-community/kube-prometheus-stack -n promstack
