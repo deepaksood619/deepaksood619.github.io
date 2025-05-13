@@ -81,6 +81,10 @@ If certain data points are missing for a school, mention "**Information Not Avai
 
 [Noida Schools Comparision - Google Sheets](https://docs.google.com/spreadsheets/d/14kqX8Ach3_Pzk6V8eoFo9CkLLtZ03cwEktSv2ZH7VDA/edit?usp=sharing)
 
+[Cfore Rankings \| India’s most credible school ranking.](https://cforerankings.com/)
+
+[Best Schools in Noida 2025 - Govt, Private, Fees and Admission Process](https://school.careers360.com/schools/schools-in-noida)
+
 1. Amity Global School
 2. Apeejay
 3. Army Public School

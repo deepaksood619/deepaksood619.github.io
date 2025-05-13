@@ -75,6 +75,8 @@ Ethereum social consensus, _for other purposes_:
 
 [Ethereum Pectra Upgrade \| Coinbase](https://www.coinbase.com/en-in/learn/crypto-basics/ethereum-pectra-upgrade)
 
+[Ethereum Pectra Upgrade: Everything you need to know](https://consensys.io/ethereum-pectra-upgrade)
+
 ### Key Innovations of the Pectra Upgrade
 
 - **Enhanced Scalability**: The Pectra Upgrade introduces mechanisms that increase the network’s transaction capacity. This allows Ethereum to process more transactions per second, which is crucial for supporting the growing number of decentralized applications (dApps) and users on the platform.

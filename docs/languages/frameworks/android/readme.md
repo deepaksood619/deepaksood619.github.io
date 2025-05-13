@@ -6,6 +6,7 @@
 - [tools](languages/frameworks/android/tools.md)
 - [testing](languages/frameworks/android/testing.md)
 - [questions](languages/frameworks/android/questions.md)
+- [Others](languages/frameworks/android/others.md)
 
 ## Nocode
 

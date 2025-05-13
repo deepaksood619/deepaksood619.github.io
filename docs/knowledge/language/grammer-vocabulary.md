@@ -214,6 +214,8 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - vehemently - in a forceful, passionate, or intense manner; with great feeling
 - **Indentured labor** is a form of contract labor where individuals agree to work for a specified period or until a debt is repaid, often without immediate wages. It was a system used in British colonies, particularly after the abolition of slavery, to meet labor demands, especially in plantation economies. Indentured laborers were recruited from various regions, including India, and were sent to work in colonies like the Caribbean and Fiji.
 - sycophantic - behaving or done in an obsequious (obedient or attentive to an excessive or servile degree.) way in order to gain advantage.
+- impropriety - behaviour or actions that are morally wrong or not appropriate
+- Mollycoddle - to overprotect or treat someone with excessive care, often to the point of spoiling them
 
 ### Shill / Shilling
 

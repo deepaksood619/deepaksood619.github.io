@@ -1,5 +1,15 @@
 # Meetups / Talks / Sessions
 
+## SRE - Gameday - Hackathon - Opstree, Noida (10 May 2025)
+
+The SRE Gameday is an interactive, hands-on event designed to simulate real-world production incidents, challenging teams to diagnose and resolve issues using observability tools and Kubernetes access. Participants will respond to system alerts and user complaints delivered via dedicated Slack channels, identifying root causes for issues such as high error rates and slow response times. With around 8–10 genuine problems hidden among numerous alerts, teams must work strategically, analyze symptoms, distinguish duplicates, and submit comprehensive root cause analyses. This gameday fosters collaboration, real-time problem-solving, and strengthens site reliability engineering practices in a high-pressure, realistic environment.
+
+![Application Architecture](../media/Screenshot%202025-05-11%20at%2010.39.27%20PM.jpg)
+
+[OpenTelemetry Demo Docs \| OpenTelemetry](https://opentelemetry.io/docs/demo/)
+
+[Demo Architecture \| OpenTelemetry](https://opentelemetry.io/docs/demo/architecture/)
+
 ## Build With AI - TFUG, Opstree Noida (3 May 2025)
 
 Automating the Future: Build Powerful AI Agents
@@ -19,6 +29,8 @@ Slides - [Automating the Future:  Build Powerful AI Agents](https://bit.ly/3EzPj
 [#buildwithai #opstreesolutions #tfugghaziabad #aicommunity… \| OpsTree Solutions](https://www.linkedin.com/posts/opstree-solutions_buildwithai-opstreesolutions-tfugghaziabad-activity-7323590959227666432-Te5h)
 
 [#buildwithai #2daystogo #aievent #tfugghaziabad #genai #developercommunity… \| TensorFlow User Group Ghaziabad (TFUG Ghaziabad)](https://www.linkedin.com/posts/tensorflow-user-group-ghaziabad_buildwithai-2daystogo-aievent-activity-7323713888686931970-8CIS)
+
+[#buildwithai #aiagents #tensorflow #tfugghaziabad #genai #devops… \| Deepak Sood](https://www.linkedin.com/posts/deepaksood619_buildwithai-aiagents-tensorflow-activity-7327376985511383040-yO3p)
 
 ## UDAAN 2K25 - Kotlin User Group Gurugram (22 March 2025)
 

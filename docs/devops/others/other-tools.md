@@ -112,16 +112,6 @@ https://caddyserver.com
 
 https://github.com/mholt/caddy
 
-## Chaos Monkey
-
-Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
-
-Chaos Monkey randomly terminates virtual machine instances and containers that run inside of your production environment. Exposing engineers to failures more frequently incentivizes them to build resilient services.
-
-Chaos Monkey is an example of a tool that follows the [Principles of Chaos Engineering](http://principlesofchaos.org/).
-
-https://github.com/Netflix/chaosmonkey
-
 ## Salt Stack
 
 Software to automate the management and configuration of any infrastructure or application at scale.

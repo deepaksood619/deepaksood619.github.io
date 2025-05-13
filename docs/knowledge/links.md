@@ -11160,5 +11160,6 @@
 11146. [Revenge of the BRICS](https://youtu.be/HrgQxpxh1m8)
 11147. [How Science Solved The Mysteries of The Dead Sea Scrolls (and 3 Other An...](https://youtu.be/FgLf3L0TF9I)
 11148. [The art and science of uncertainty - with David Spiegelhalter](https://youtu.be/T86Xl1IhlgI)
+11149. [The Legendary Rise Of TCL (There's No Catching Up) - YouTube](https://www.youtube.com/watch?v=IOZKsjrFTlA&ab_channel=LogicallyAnswered)
 
 ## End

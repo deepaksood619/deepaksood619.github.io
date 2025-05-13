@@ -100,14 +100,16 @@ https://gun.eco
 
 [GUN Decentralized Graph DB in 100 Seconds](https://www.youtube.com/watch?v=oTQXzhm8w_8)
 
-### Decentralized Social Network
+### Decentralized Social Network (Social Media Platforms)
 
 - [GitHub - mastodon/mastodon: Your self-hosted, globally interconnected microblogging community](https://github.com/mastodon/mastodon)
-- [Mastodon - Decentralized social media](https://joinmastodon.org/)
-- [Mastodon (social network) - Wikipedia](https://en.wikipedia.org/wiki/Mastodon_(social_network))
-- [What is Mastodon? - YouTube](https://www.youtube.com/watch?v=IPSbNdBmWKE&ab_channel=Mastodon)
-- [Why I'm not telling you to host your own Mastodon - YouTube](https://www.youtube.com/watch?v=mqocW7DUFpg)
-- [Mastodon Is More Than A Twitter Replacement - YouTube](https://www.youtube.com/watch?v=0H-P7LhFy2A)
+	- [Mastodon - Decentralized social media](https://joinmastodon.org/)
+	- [Mastodon (social network) - Wikipedia](https://en.wikipedia.org/wiki/Mastodon_(social_network))
+	- [What is Mastodon? - YouTube](https://www.youtube.com/watch?v=IPSbNdBmWKE&ab_channel=Mastodon)
+	- [Why I'm not telling you to host your own Mastodon - YouTube](https://www.youtube.com/watch?v=mqocW7DUFpg)
+	- [Mastodon Is More Than A Twitter Replacement - YouTube](https://www.youtube.com/watch?v=0H-P7LhFy2A)
+- [List of 64 Web3 Social Media Dapps (2025)](https://www.alchemy.com/dapps/best/web3-social-media-dapps)
+- [Top 5 Web3 Social Media Platforms and Networks in 2025](https://ninjapromo.io/best-web3-social-media-platforms)
 
 ## Decentralized Chat (Whisper)
 
@@ -133,6 +135,10 @@ https://gun.eco
 - Decentralized Marketplace
 - Decentralized Social Network
 - Decentralized Artificial Intelligence
+
+## Decentralized Internet / Decentralized Web
+
+- [What Is The Best Attempt At A Truly Decentralized Internet? : r/Rad\_Decentralization](https://www.reddit.com/r/Rad_Decentralization/comments/mwg376/what_is_the_best_attempt_at_a_truly_decentralized/)
 
 ## Others
 

@@ -215,6 +215,15 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [Bluey - Official Channel - YouTube](https://www.youtube.com/@BlueyOfficialChannel)
 - [Cocomelon - Nursery Rhymes - YouTube](https://www.youtube.com/channel/UCbCmjCuTUZos6Inko4u57UQ)
 	- [CoComelon Classroom - Learning for Kids - YouTube](https://www.youtube.com/@CoComelonClassroom)
+- Ben and holly
+
+## Apps
+
+- [What are the best mobile apps for 2 or 3-year-old kids? - Quora](https://www.quora.com/What-are-the-best-mobile-apps-for-2-or-3-year-old-kids)
+- [17 Best Apps for Toddlers (Ages 1-3)](https://www.goodhousekeeping.com/life/parenting/g32096855/best-toddler-apps/)
+- Kids game
+- Coloring
+- Piano
 
 ## Milestones
 
@@ -244,6 +253,7 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [When does a child starts talking?/Speech development/Speech Language Mil...](https://youtu.be/sxgOJSyLylA)
 - [My Toddler Understands But Isn’t Talking [Learn How To Help From A Speec...](https://youtu.be/Dk_Fq_NAf08)
 - [This Gets Kids to Listen Every Time (Without Yelling)](https://youtu.be/SQ-NN_1Jotw)
+- [My child is 5 years old and still cannot talk properly. Is it normal? - Quora](https://www.quora.com/My-child-is-5-years-old-and-still-cannot-talk-properly-Is-it-normal)
 
 ## Links
 

@@ -350,13 +350,15 @@ https://github.com/rancher/k3s
 
 https://containerjournal.com/2019/08/01/powering-edge-with-kubernetes-a-primer
 
-## Lens
+## Lens (Kubelens)
 
 Lens is the only IDE you'll ever need to take control of your Kubernetes clusters. It is a standalone application for MacOS, Windows and Linux operating systems. It is open source and free.
 
-https://k8slens.dev
+[Lens \| The Kubernetes IDE](https://k8slens.dev)
 
-https://github.com/lensapp/lens
+[GitHub - lensapp/lens: Lens - The way the world runs Kubernetes](https://github.com/lensapp/lens)
+
+Others - [GitHub - MuhammedKalkan/OpenLens: OpenLens Binary Build Repository](https://github.com/MuhammedKalkan/OpenLens)
 
 ## Kind
 

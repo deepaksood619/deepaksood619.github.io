@@ -115,6 +115,12 @@
 - [**Modular Diffusion**](https://github.com/cabralpinto/modular-diffusion) - Python library for designing and training your own Diffusion Models with PyTorch.
 - [**SapientML**](https://github.com/sapientml/sapientml) - Generative AutoML for Tabular Data.
 
+### RAG
+
+- [GitHub - infiniflow/ragflow: RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.](https://github.com/infiniflow/ragflow)
+- [GitHub - langchain-ai/langgraph: Build resilient language agents as graphs.](https://github.com/langchain-ai/langgraph)
+- [GitHub - run-llama/llama\_index: LlamaIndex is the leading framework for building LLM-powered agents over your data.](https://github.com/run-llama/llama_index)
+
 ### LLM Accuracy Enhancements
 
 - [**AutoChain**](https://github.com/Forethought-Technologies/AutoChain) - AutoChain: Build lightweight, extensible, and testable LLM Agents
@@ -127,9 +133,19 @@
 - [**nanoGPT**](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [**Promptify**](https://github.com/promptslab/Promptify) - common prompts that work well to leverage LLMs for a variety of scenarios.
 - [**SymbolicAI**](https://github.com/Xpitfire/symbolicai) - Compositional Differentiable Programming Library.
-- [**zep**](https://github.com/getzep/zep) - a long-term memory store for LLM / Chatbot applications. Easily add relevant documents, chat history memory & rich user data to your LLM app's prompts.
 - [GitHub - ComposioHQ/composio: Composio equips agents with well-crafted tools empowering them to tackle complex tasks](https://github.com/ComposioHQ/composio/)
     - [Overview - Composio](https://docs.composio.dev/introduction/intro/overview)
+
+### Memory
+
+- [**zep**](https://github.com/getzep/zep) - a long-term memory store for LLM / Chatbot applications. Easily add relevant documents, chat history memory & rich user data to your LLM app's prompts.
+	- [GitHub - getzep/graphiti: Build Real-Time Knowledge Graphs for AI Agents](https://github.com/getzep/graphiti)
+	- [Zep - AI Agent Memory](https://www.getzep.com/)
+- [GitHub - mem0ai/mem0: Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research](https://github.com/mem0ai/mem0)
+	- **+26% Accuracy** over OpenAI Memory on the LOCOMO benchmark
+	- **91% Faster Responses** than full-context, ensuring low-latency at scale
+	- **90% Lower Token Usage** than full-context, cutting costs without compromise
+	- [Mem0 - The Memory layer for your AI apps](https://mem0.ai/)
 
 ### LLM App Building
 
@@ -165,6 +181,7 @@
 ### LLM Agent Tools
 
 - [GitHub - browser-use/browser-use: Make websites accessible for AI agents](https://github.com/browser-use/browser-use)
+- [GitHub - AgentDock/AgentDock: Build Anything with AI Agents](https://github.com/AgentDock/AgentDock)
 
 ### LLM Development
 

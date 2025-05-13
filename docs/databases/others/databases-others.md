@@ -120,9 +120,11 @@ https://fabxc.org/tsdb
 
 CockroachDB is a cloud-native SQL database for building global, scalable cloud services that survive disasters.
 
-CockroachDB is a distributed SQL database built on a transactional and strongly-consistent key-value store. Itscales horizontally;survivesdisk, machine, rack, and even datacenter failures with minimal latency disruption and no manual intervention; supportsstrongly-consistentACID transactions; and provides a familiarSQLAPI for structuring, manipulating, and querying data.
+CockroachDB is a distributed SQL database built on a transactional and strongly-consistent key-value store. It scales horizontally; survives disk, machine, rack, and even datacenter failures with minimal latency disruption and no manual intervention; supports strongly-consistent ACID transactions; and provides a familiar SQL API for structuring, manipulating, and querying data.
 
 https://github.com/cockroachdb/cockroach
+
+[Is anyone here using Django with CockroachDB? : r/django](https://www.reddit.com/r/django/comments/z8csub/is_anyone_here_using_django_with_cockroachdb/)
 
 ## AresDB
 
