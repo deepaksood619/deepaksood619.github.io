@@ -179,10 +179,11 @@ MuleSoft is a platform that gives IT the tools to automate everything. This incl
 
 [Enterprise Service Bus Platform (ESB) | WebMethods | Software AG](https://www.softwareag.com/en_corporate/resources/application-integration/article/enterprise-service-bus.html)
 
-## Payments
+## Payments / Payment Gateways
 
 - [Shopflo · A checkout that converts](https://shopflo.com/)
 - Stripe
+	- [GitHub - dj-stripe/dj-stripe: dj-stripe automatically syncs your Stripe Data to your local database as pre-implemented Django Models allowing you to use the Django ORM, in your code, to work with the data making it easier and faster.](https://github.com/dj-stripe/dj-stripe)
 - [Social media makes you famous. Nas.io helps you pay rent.](https://nas.io/india)
 - Razorpay
 - Lotuspay

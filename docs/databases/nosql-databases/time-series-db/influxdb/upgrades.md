@@ -15,3 +15,7 @@
 - Unlimited cardinality
 - Open and interoperable with data ecosystems
 - Superior data compression
+
+[The Plan for InfluxDB 3.0 Open Source \| InfluxData](https://www.influxdata.com/blog/the-plan-for-influxdb-3-0-open-source/)
+
+[How Does InfluxDB 3 Query Data in Real-Time? \| InfluxData](https://www.influxdata.com/blog/real-time-data-query-influxdb3/)

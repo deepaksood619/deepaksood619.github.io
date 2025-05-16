@@ -84,3 +84,7 @@ Continuous Queries (CQ) are InfluxQL queries that run automatically and periodic
 CQs were designed to aggregate the data you want to keep in a new measurement (referred to as downsampling). Your time series data comes in thousands or millions of points; you don't want to store them all forever unless absolutely necessary because the disk requirements quickly get out of hand. CQs offer a way for you to keep the summaries of your data without keeping all of the individual points.With CQs, you can have the full resolution data expire with a retention policy (or you can drop it manually) and you keep only what you need.
 
 https://docs.influxdata.com/influxdb/v1.7/query_language/continuous_queries
+
+## SQL in InfluxDB
+
+[Using SQL with InfluxDB \| InfluxData](https://www.influxdata.com/blog/using-sql-influxdb/)

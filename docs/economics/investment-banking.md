@@ -69,6 +69,7 @@ The main Private Equity firms operating in India
 - [Ascent Capital](https://docs.google.com/document/d/1IYRDuAZrmcHPn0P0oJmiasNG6fgWSRbCeIakMGX7ZT0/edit#heading=h.txeagdimnuwj)
 - [Everstone Capital](https://www.everstonecapital.com/)
 - [https://www.linkedin.com/in/rajeshgsf/](https://www.linkedin.com/in/rajeshgsf/)
+- [South Park Commons](https://www.southparkcommons.com/)
 
 Best Startup Accelerators 🚀
 

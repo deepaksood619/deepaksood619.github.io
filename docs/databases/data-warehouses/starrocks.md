@@ -25,13 +25,13 @@ You're comparing four modern, high-performance analytics databases: **StarRocks*
 
 ### ⚙️ Architecture & Design
 
-|Feature|**StarRocks**|**Trino (Presto)**|**ClickHouse**|**DuckDB**|
-|---|---|---|---|---|
-|Engine Type|MPP OLAP DB (vectorized)|Distributed SQL Query Engine|MPP OLAP DB (vectorized)|Embedded analytical DB (in-process)|
-|Storage|Columnar|No native storage, query engine only|Columnar|Columnar|
-|Execution Model|Pipeline & vectorized|Pipeline, distributed|Pipeline & vectorized|In-process, single-node|
-|Scalability|High (Distributed MPP)|Very high (connect to many sources)|High (horizontal sharding/replication)|Low (mostly single-node, in-memory)|
-|Language|SQL-92 + extensions|ANSI SQL|SQL-92 + extensions|SQL-92 + extensions|
+| Feature         | **StarRocks**            | **Trino (Presto)**                   | **ClickHouse**                         | **DuckDB**                          |
+| --------------- | ------------------------ | ------------------------------------ | -------------------------------------- | ----------------------------------- |
+| Engine Type     | MPP OLAP DB (vectorized) | Distributed SQL Query Engine         | MPP OLAP DB (vectorized)               | Embedded analytical DB (in-process) |
+| Storage         | Columnar                 | No native storage, query engine only | Columnar                               | Columnar                            |
+| Execution Model | Pipeline & vectorized    | Pipeline, distributed                | Pipeline & vectorized                  | In-process, single-node             |
+| Scalability     | High (Distributed MPP)   | Very high (connect to many sources)  | High (horizontal sharding/replication) | Low (mostly single-node, in-memory) |
+| Language        | SQL-92 + extensions      | ANSI SQL                             | SQL-92 + extensions                    | SQL-92 + extensions                 |
 
 ### 🚀 Performance
 
@@ -61,12 +61,12 @@ You're comparing four modern, high-performance analytics databases: **StarRocks*
 
 ### ✅ Best Use Cases
 
-|Use Case|Best Fit|
-|---|---|
-|High concurrency + sub-second queries|**StarRocks**|
-|Federated querying (Data mesh/lake)|**Trino**|
-|Ultra-fast OLAP + large volumes|**ClickHouse**|
-|Embedded analytics, local compute|**DuckDB**|
+| Use Case                              | Best Fit       |
+| ------------------------------------- | -------------- |
+| High concurrency + sub-second queries | **StarRocks**  |
+| Federated querying (Data mesh/lake)   | **Trino**      |
+| Ultra-fast OLAP + large volumes       | **ClickHouse** |
+| Embedded analytics, local compute     | **DuckDB**     |
 
 ### 📝 Summary
 

@@ -45,6 +45,7 @@ This manager should be attached to a base model class in a model-inheritance tre
 - Profiler - [Diagnose slow Python code. (Feat. async/await) - YouTube](https://www.youtube.com/watch?v=m_a0fN48Alw)
 - [GitHub - jjnanthakumar/django-flames: This is simple site created in Django framework.. If any issues ping me.](https://github.com/jjnanthakumar/django-flames)
 - [GitHub - blopker/djdt-flamegraph: Flamegraphs for Django Debug Toolbar](https://github.com/blopker/djdt-flamegraph)
+- [GitHub - brendangregg/FlameGraph: Stack trace visualizer](https://github.com/brendangregg/FlameGraph)
 
 ## py-spy
 

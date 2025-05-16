@@ -50,7 +50,7 @@ Here's a breakdown of how it works:
 2. **Sequential Solving:** The LLM then solves each subproblem sequentially, utilizing the solutions to previous subproblems to guide the next step.
 3. **Enhanced Reasoning:** By breaking down complex tasks into simpler components, least-to-most prompting allows LLMs to leverage their reasoning capabilities more effectively, leading to improved performance, especially on challenging problems.
 
-[Fetching Title#touv](https://learnprompting.org/docs/intermediate/least_to_most)
+[Least-to-Most Prompting](https://learnprompting.org/docs/intermediate/least_to_most)
 
 ### Other techniques
 

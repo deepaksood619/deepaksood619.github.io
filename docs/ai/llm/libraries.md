@@ -120,6 +120,8 @@
 - [GitHub - infiniflow/ragflow: RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.](https://github.com/infiniflow/ragflow)
 - [GitHub - langchain-ai/langgraph: Build resilient language agents as graphs.](https://github.com/langchain-ai/langgraph)
 - [GitHub - run-llama/llama\_index: LlamaIndex is the leading framework for building LLM-powered agents over your data.](https://github.com/run-llama/llama_index)
+- [GitHub - getzep/graphiti: Build Real-Time Knowledge Graphs for AI Agents](https://github.com/getzep/graphiti)
+	- [Graphiti: Temporal Knowledge Graphs for Agentic Apps](https://blog.getzep.com/graphiti-knowledge-graphs-for-agents/)
 
 ### LLM Accuracy Enhancements
 
@@ -139,7 +141,6 @@
 ### Memory
 
 - [**zep**](https://github.com/getzep/zep) - a long-term memory store for LLM / Chatbot applications. Easily add relevant documents, chat history memory & rich user data to your LLM app's prompts.
-	- [GitHub - getzep/graphiti: Build Real-Time Knowledge Graphs for AI Agents](https://github.com/getzep/graphiti)
 	- [Zep - AI Agent Memory](https://www.getzep.com/)
 - [GitHub - mem0ai/mem0: Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research](https://github.com/mem0ai/mem0)
 	- **+26% Accuracy** over OpenAI Memory on the LOCOMO benchmark
