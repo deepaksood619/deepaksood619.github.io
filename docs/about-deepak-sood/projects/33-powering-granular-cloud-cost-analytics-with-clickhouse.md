@@ -38,7 +38,7 @@ To overcome the limitations of InfluxDB, we re-engineered Unit Econ Pro’s core
   - Fetch cloud cost exports periodically
   - Normalize and transform records
   - Insert into ClickHouse using batch inserts for performance
-- Achieved ingestion of **10M+ cost records per day**, with <10s latency
+- Achieved ingestion of **10M+ cost records per day**, with `<10s` latency
 
 ## Step 3: Real-time Dashboards & Query Engine
 
@@ -60,9 +60,9 @@ To overcome the limitations of InfluxDB, we re-engineered Unit Econ Pro’s core
 
 | **Metric** | **Before (InfluxDB)** | **After (ClickHouse)** |
 | --- | --- | --- |
-| Daily ingestion volume | ~2M records | **↑ 10M+ records** |
-| Dashboard response time | ~8-15s | **↓ <1s** |
-| Storage cost per 100M rows | High | **↓ ~70%** (compression) |
+| Daily ingestion volume | ~2M records | **10M+ records** |
+| Dashboard response time | ~8-15s | **`<1s`** |
+| Storage cost per 100M rows | High | **~70%** (compression) |
 | Join support across dimensions | Limited | Rich & flexible |
 | Anomaly detection & cost recommendations | Not feasible | Fully supported |
 

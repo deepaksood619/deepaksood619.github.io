@@ -15,6 +15,7 @@
 ## Replication
 
 [Introduction to the Mysteries of ClickHouse Replication \| ClickHouse Webinar - YouTube](https://www.youtube.com/watch?v=4DlQ6sVKQaA&t=878s&ab_channel=Altinity)
+
 - Zookeeper for sharing metadata
 - Zookeeper port - 2181
 - Clickhouse native TCP/IP - 9000

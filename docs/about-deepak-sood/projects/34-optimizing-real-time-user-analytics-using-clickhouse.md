@@ -1,6 +1,6 @@
 # Case Study: Optimizing Real-time User Analytics for a Large EdTech Platform Using ClickHouse
 
-- **Client:** A leading EdTech platform with millions of active college students across India.  
+- **Client:** A leading EdTech platform with millions of active college students across India.
 - **Technology Stack:** ClickHouse, Kafka, Python (ETL), Grafana, Kubernetes
 
 ## The Challenge
@@ -53,10 +53,10 @@ We designed and implemented a modern **ClickHouse-based analytics pipeline** to 
 
 | **Metric** | **Before ClickHouse** | **After Opstree's Solution** |
 | --- | --- | --- |
-| Ad CTR | ~1.1% | **↑ 2.8%** |
-| Dashboard load time | ~40s | **↓ 2s** |
-| Query time on 1B+ records | ~30s | **↓ <1s** |
-| Infrastructure cost (OLAP) | High | **↓ ~35%** with ClickHouse compression |
+| Ad CTR | ~1.1% | **`2.8%`** |
+| Dashboard load time | ~40s | **`2s`** |
+| Query time on 1B+ records | ~30s | **`<1s`** |
+| Infrastructure cost (OLAP) | High | **`~35%`** with ClickHouse compression |
 | Ad personalization capability | None | **Live & contextual** |
 
 ## Why ClickHouse?
