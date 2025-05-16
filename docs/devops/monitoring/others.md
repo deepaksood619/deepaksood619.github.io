@@ -261,3 +261,6 @@ https://docs.docker.com/config/containers/logging/syslog
 - [No-code Enterprise Data Quality Monitoring Tool: Lightup](https://lightup.ai/)
 - [Kloudfuse](https://www.kloudfuse.com/)
     - AI-ENABLED UNIFIED OBSERVABILITY, Designed for 10X More Data At 1/10th of the Cost
+- [GitHub - vectordotdev/vector: A high-performance observability data pipeline.](https://github.com/vectordotdev/vector) (19.5K stars)
+	- Vector is a high-performance, end-to-end (agent & aggregator) observability data pipeline that puts you in control of your observability data. [Collect](https://vector.dev/docs/reference/configuration/sources/), [transform](https://vector.dev/docs/reference/configuration/transforms/), and [route](https://vector.dev/docs/reference/configuration/sinks/) all your logs and metrics to any vendors you want today and any other vendors you may want tomorrow. Vector enables dramatic cost reduction, novel data enrichment, and data security where you need it, not where it is most convenient for your vendors. Additionally, it is open source and up to 10x faster than every alternative in the space.
+	- [Vector \| A lightweight, ultra-fast tool for building observability pipelines](https://vector.dev/)

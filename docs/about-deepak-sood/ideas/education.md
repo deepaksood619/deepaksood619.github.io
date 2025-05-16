@@ -218,6 +218,11 @@ TODO - 2025-03-07, 2025-04-03
 - [Learn with OLL \| Live Online Activities for Skill Development \| Online Live Learning](https://www.oll.co/)
 - [Synthesis Tutor](https://www.synthesis.com/tutor)
 
+### New Age School
+
+- MasterUnion
+- [Hive School](https://hiveschool.co/curriculum#scholarship-avenues-fornav)
+
 ## Free Education with Boarding (Coaching)
 
 - Job Guarantee and skill focused

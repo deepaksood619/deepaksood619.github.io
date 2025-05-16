@@ -1,5 +1,14 @@
 # ClickHouse
 
+- [Internals](databases/data-warehouses/clickhouse/internals.md)
+- [architecture](databases/data-warehouses/clickhouse/architecture.md)
+- [Table Engines](databases/data-warehouses/clickhouse/table-engines.md)
+	- [mergetree-engine-family](databases/data-warehouses/clickhouse/mergetree-engine-family.md)
+	- [memory-engine](databases/data-warehouses/clickhouse/memory-engine.md)
+	- [data-storage](databases/data-warehouses/clickhouse/data-storage.md)
+- [virtual-columns](databases/data-warehouses/clickhouse/virtual-columns.md)
+- [Queries](databases/data-warehouses/clickhouse/queries.md)
+
 ClickHouse is an open source column-oriented database management system capable of realtime generation of analytical data reports using SQL queries.
 
 ### Key Features
@@ -23,6 +32,8 @@ ClickHouse is an open source column-oriented database management system capable 
 - Features for web analytics
 - State-of-the-art algorithms
 - Detailed documentation - Clean documented code
+- Scales to many petabytes
+- Is open source (Apache 2.0)
 
 #### History
 
@@ -96,7 +107,7 @@ ClickHouses provides two types of parsers: a full SQL parser and a data format p
 
 [Disk-oriented](https://dbdb.io/browse?storage-architecture=disk-oriented) [In-Memory](https://dbdb.io/browse?storage-architecture=in-memory) [Hybrid](https://dbdb.io/browse?storage-architecture=hybrid)
 
-ClickHouse has multiple types of table engines. The type of the table engine determines where the data is stored, concurrent level, whether indexes are supported and some other properties. Key table engine family for production use is a [MergeTree](https://clickhouse.tech/docs/en/engines/table_engines/mergetree_family/mergetree/) that allows for resilient storage of large volumes of data and supports replication. There's also a [Log family](https://clickhouse.tech/docs/en/engines/table_engines/log_family/log_family/) for lightweight storage of temporary data and [Distributed engine](https://clickhouse.tech/docs/en/engines/table_engines/special/distributed/) for querying a cluster.
+ClickHouse has multiple types of table engines. The type of the table engine determines where the data is stored, concurrent level, whether indexes are supported and some other properties. Key table engine family for production use is a [MergeTree](https://clickhouse.tech/docs/en/engines/table_engines/mergetree_family/mergetree/) that allows for resilient storage of large volumes of data and supports replication. There's also a [Log family](https://clickhouse.com/docs/engines/table-engines/log-family) for lightweight storage of temporary data and [Distributed engine](https://clickhouse.com/docs/engines/table-engines/special/distributed) for querying a cluster.
 
 #### Storage Model
 
@@ -126,69 +137,19 @@ ClickHouse system in a distributed setup is a cluster of shards. It uses asynchr
 
 ClickHouse supports both virtual views and materialized views. The materialized views store data transformed by corresponding SELECT query. The SELECT query can contain DISTINCT, GROUP BY, ORDER BY, LIMIT, etc.
 
-## Internals
+## Pricing
 
-[Modern SQL in 2023 - ClickHouse - YouTube](https://www.youtube.com/watch?v=zhrOYQpgvkk)
+- ClickHouse Cloud - starts at $50/month.
+- [ClickHouse Pricing](https://clickhouse.com/pricing)
 
-["Building for Fast" by Alexey Milovidov, Amsterdam, June 2022 - YouTube](https://www.youtube.com/watch?v=CAS2otEoerM&ab_channel=ClickHouse)
+## Advanced Clickhouse
 
-[Why is ClickHouse so fast? | ClickHouse Docs](https://clickhouse.com/docs/en/concepts/why-clickhouse-is-so-fast)
+- [How We Handle Billion-Row ClickHouse Inserts With UUID Range Bucketing \| CloudQuery Blog](https://www.cloudquery.io/blog/how-we-handle-billion-row-clickhouse-inserts-with-uuid-range-bucketing)
+- [Six Months with ClickHouse at CloudQuery (The Good, The Bad, and the Unexpected) \| CloudQuery Blog](https://www.cloudquery.io/blog/six-months-with-clickhouse-at-cloudquery)
 
-## Commands
+## Scale
 
-```bash
-docker pull clickhouse/clickhouse-server
-
-docker run -d -p 8123:8123 -p 9000:9000 --network=test-net --name some-clickhouse-server --ulimit nofile=262144:262144 clickhouse/clickhouse-server
-
-docker run -d --name some-clickhouse-server -p 8123:8123 -p 9000:9000 --network=test-net -e CLICKHOUSE_DB=my_database -e CLICKHOUSE_USER=username -e CLICKHOUSE_DEFAULT_ACCESS_MANAGEMENT=1 -e CLICKHOUSE_PASSWORD=password --ulimit nofile=262144:262144 clickhouse/clickhouse-server
-
-# https://hub.docker.com/r/clickhouse/clickhouse-server/
-
-echo 'SELECT version()' | curl 'http://localhost:8123/' --data-binary @-
-```
-
-[Visual Interfaces from Third-party Developers | ClickHouse Docs](https://clickhouse.com/docs/en/interfaces/third-party/gui)
-
-[GitHub - ClickHouse/metabase-clickhouse-driver: ClickHouse database driver for the Metabase business intelligence front-end](https://github.com/ClickHouse/metabase-clickhouse-driver)
-
-```sql
--- https://clickhouse.com/docs/en/getting-started/quick-start
-
-clickhouse client
-
-CREATE TABLE my_first_table
-(
-    user_id UInt32,
-    message String,
-    timestamp DateTime,
-    metric Float32
-)
-ENGINE = MergeTree
-PRIMARY KEY (user_id, timestamp)
-
-INSERT INTO my_first_table (user_id, message, timestamp, metric) VALUES
-    (101, 'Hello, ClickHouse!',                                 now(),       -1.0    ),
-    (102, 'Insert a lot of rows per batch',                     yesterday(), 1.41421 ),
-    (102, 'Sort your data based on your commonly-used queries', today(),     2.718   ),
-    (101, 'Granules are the smallest chunks of data read',      now() + 5,   3.14159 )
-
- SELECT *
- FROM my_first_table
- ORDER BY timestamp
-
-SELECT
-   passenger_count,
-   avg(toFloat32(total_amount))
-FROM s3(
-    'https://datasets-documentation.s3.eu-west-3.amazonaws.com/nyc-taxi/trips_0.gz',
-    'TabSeparatedWithNames'
-)
-GROUP BY passenger_count
-ORDER BY passenger_count;
-```
-
-[New York Taxi Data | ClickHouse Docs](https://clickhouse.com/docs/en/getting-started/example-datasets/nyc-taxi)
+- [How we Built a 19 PiB Logging Platform with ClickHouse and Saved Millions](https://clickhouse.com/blog/building-a-logging-platform-with-clickhouse-and-saving-millions-over-datadog)
 
 ## Links
 
@@ -208,3 +169,4 @@ ORDER BY passenger_count;
 - [Building a Robust Data Pipeline with Kafka and ClickHouse | The Write Ahead Log](https://platformatory.io/blog/Building-a-Robust-Data-Pipeline-with-Kafka-and-ClickHouse/)
 - [First ClickHouse research paper: How do you make a modern data analytics database lightning-fast?](https://clickhouse.com/blog/first-clickhouse-research-paper-vldb-lightning-fast-analytics-for-everyone)
 - [Effortlessly Deploying ClickHouse on Kubernetes: A Comprehensive Guide \| by Utkarsh Umang \| Medium](https://medium.com/@luciferutkarsh/effortlessly-deploying-clickhouse-on-kubernetes-a-comprehensive-guide-b54dbd6cdf22)
+- [Medium](https://medium.com/the-ab-tasty-tech-blog/bootstrapping-with-clickhouse-c1750a9ec6d2)

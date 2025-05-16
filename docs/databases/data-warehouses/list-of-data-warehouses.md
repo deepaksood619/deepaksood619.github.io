@@ -2,7 +2,7 @@
 
 1. [Snowflake](databases/data-warehouses/snowflake/readme.md)
 2. [Databricks](databases/data-warehouses/databricks/readme.md)
-3. [Clickhouse](databases/data-warehouses/clickhouse.md)
+3. [Clickhouse](databases/data-warehouses/clickhouse/readme.md)
 4. [Amazon Redshift](databases/sql-databases/aws-redshift/readme.md)
 5. [Amazon Athena](cloud/aws/analytics/amazon-athena.md)
 6. [GCP BigQuery](databases/data-warehouses/bigquery/readme.md)

@@ -46,6 +46,8 @@
 - [GenAI Case Study - Careers360](about-deepak-sood/projects/47-genai-case-study-careers360.md)
 - [Traditional AI Case Studies](about-deepak-sood/projects/45-traditional-ai-case-studies.md)
 - [Agri Tech Digital Transformation Case Study](about-deepak-sood/projects/44-agri-tech-digital-transformation-case-study.md)
+- [Optimizing Real-time User Analytics Using ClickHouse](about-deepak-sood/projects/34-optimizing-real-time-user-analytics-using-clickhouse.md)
+- [Powering Granular Cloud Cost Analytics with ClickHouse](about-deepak-sood/projects/33-powering-granular-cloud-cost-analytics-with-clickhouse.md)
 
 ### Bake.io
 

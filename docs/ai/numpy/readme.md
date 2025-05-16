@@ -1,7 +1,7 @@
 # Numpy
 
 - [Intro](ai/numpy/intro.md)
-- [Internals](internals)
+- [Internals](ai/numpy/internals.md)
 - [NumPy Reference](numpy-reference)
 - [Ndarray Object](ndarray-object)
 - [Data Types](ai/numpy/data-types.md)

@@ -6,6 +6,7 @@
 - Byju The Hindu news analysis
     - [Unacademy IAS: English - YouTube](https://www.youtube.com/@unacademyiasenglish)
 - Coin bureau
+- Top news of the day
 - Invest aaj for kal
 - Finshots
 - [youtube-podcasts-magazine-apps](knowledge/youtube-podcasts-magazine-apps.md)
