@@ -73,3 +73,7 @@ By comparing these estimates, you can better understand the cost implications of
 ## Summary
 
 Implementing slot-based pricing with autoscaling in BigQuery can help reduce analysis costs significantly while ensuring that you have the necessary compute resources to handle your workload efficiently. By optimizing your slot reservations based on actual usage patterns and workload characteristics, you can achieve cost predictability and operational efficiency in your BigQuery data analysis tasks.
+
+## Links
+
+[Purchase and manage slot commitments  \|  BigQuery  \|  Google Cloud](https://cloud.google.com/bigquery/docs/reservations-commitments)

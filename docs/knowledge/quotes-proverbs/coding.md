@@ -62,6 +62,8 @@ Measuring programming progress by lines of code is like measuring aircraft build
 
 **Rating in google play store - This app is very well architected (to all developers)**
 
+"In **research**, if you know what you are doing, you should not be doing it. In **engineering**, if you do not know what you are doing, you should not be doing it." — Richard Hamming
+
 Computers are incredibly fast, accurate, and stupid. Humans are incredibly slow, inaccurate, and brilliant. Together they are powerful beyond imagination.
 
 Knowing when not to code is possibly the most important skill a programmer can learn.--[The Art Of Readable Code](https://www.amazon.com/Art-Readable-Code-Practical-Techniques/dp/0596802293)

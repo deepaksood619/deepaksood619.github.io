@@ -13,3 +13,8 @@ Azure SQL Database provides the three deployment options:
 ### SQL Database Server vs SQL Database
 
 Database Server act as a central administrative point for **multiple single** or **pooled databases**, logins, firewall rules, auditing rules, threat detection policies, and failover groups.
+
+## Links
+
+- [Azure SQL Database Tutorial \| Relational databases in Azure - YouTube](https://www.youtube.com/watch?v=BgvEOkcR0Wk)
+- [How to use Azure SQL Databases \| Azure Fundamentals - YouTube](https://www.youtube.com/watch?v=9ur0OpMADuM)

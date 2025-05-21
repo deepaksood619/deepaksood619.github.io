@@ -42,6 +42,10 @@ The architecture is a standard [transformer network](https://en.wikipedia.org/wi
 
 - ["The Past, Present, and Future of GenAI" - Yariv Adan, Google - KEYNOTE at PMF23 - YouTube](https://www.youtube.com/watch?v=-JYbMh4xEos)
 - [Generative AI: Past, Present, and Future – A Practitioner's Perspective | PPT](https://www.slideshare.net/slideshow/genaipdf/260536464)
+- [The AI Revolution Is Underhyped \| Eric Schmidt \| TED - YouTube](https://www.youtube.com/watch?v=id4YRO7G0wE)
+- [How People Are Really Using Gen AI in 2025](https://hbr.org/2025/04/how-people-are-really-using-gen-ai-in-2025)
+
+![Major Gen AI Use Case 2025](../../media/Screenshot%202025-05-18%20at%201.08.37%20PM.jpg)
 
 ## Datasets
 
@@ -90,3 +94,4 @@ The architecture is a standard [transformer network](https://en.wikipedia.org/wi
 - [\[2205.11916\] Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916)
 - [BERT Demystified: Like I’m Explaining It to My Younger Self](https://youtu.be/NUf5q4cWhdQ)
 - [GitHub - HandsOnLLM/Hands-On-Large-Language-Models: Official code repo for the O'Reilly Book - "Hands-On Large Language Models"](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+- [I got fooled by AI-for-science hype—here's what it taught me](https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres)

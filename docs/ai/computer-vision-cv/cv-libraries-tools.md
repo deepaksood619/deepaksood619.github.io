@@ -208,3 +208,7 @@ Spatial-level transforms will simultaneously change both an input image as well 
 [GitHub - albumentations-team/albumentations: Fast and flexible image augmentation library. Paper about the library: https://www.mdpi.com/2078-2489/11/2/125](https://github.com/albumentations-team/albumentations)
 
 [Albumentations: fast and flexible image augmentations](https://albumentations.ai/)
+
+## Others
+
+- [GitHub - google-ai-edge/mediapipe: Cross-platform, customizable ML solutions for live and streaming media.](https://github.com/google-ai-edge/mediapipe)

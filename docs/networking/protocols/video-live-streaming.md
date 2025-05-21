@@ -95,6 +95,8 @@ https://trac.ffmpeg.org/wiki/Concatenate
 
 [Bringing HDR video to Reels - Engineering at Meta](https://engineering.fb.com/2023/07/17/video-engineering/hdr-video-reels-meta/)
 
+[GitHub - google-ai-edge/mediapipe: Cross-platform, customizable ML solutions for live and streaming media.](https://github.com/google-ai-edge/mediapipe)
+
 ## References
 
 - https://www.wowza.com/docs/tutorials

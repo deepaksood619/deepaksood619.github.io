@@ -36,6 +36,6 @@
 - [Tools](devops/kubernetes/tools.md)
     - [Serverless Tools](devops/kubernetes/tools-serverless.md)
     - [Scaling Tools](devops/kubernetes/tools-scaling.md)
-              - [Keda](devops/kubernetes/keda.md)
+    - [Keda](devops/kubernetes/keda.md)
 - [Troubleshooting](troubleshooting)
 - [Others](devops/kubernetes/others.md)

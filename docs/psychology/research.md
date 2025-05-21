@@ -35,3 +35,7 @@ Both the cross-sectional and the longitudinal studies are observational studies.
 A longitudinal study, like a cross-sectional one, is observational. So, once again, researchers do not interfere with their subjects. However, in a longitudinal study, researchers conduct several observations of the same subjects over a period of time, sometimes lasting many years.
 
 The benefit of a longitudinal study is that researchers are able to detect developments or changes in the characteristics of the target population at both the group and the individual level. The key here is that longitudinal studies extend beyond a single moment in time. As a result, they can establish sequences of events.
+
+## Others
+
+- [The Case for Talent Density in -1 to 0](https://blog.southparkcommons.com/case-for-talent-density-minus-one/)

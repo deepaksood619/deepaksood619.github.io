@@ -47,6 +47,20 @@ Budget 2024 brought significant changes to benefit investors like you:
 
 Basically the only issue will come with dividends (this is missed in 26AS and needs to be declared to avoid discrepancy), and while declaring we give a tax for ~31.2% in the portal afaik. However the US laws state that 25% to be deducted for indians earning dividends in US firms. So form 67 needs to be filled in for taking back the extra 25% we paid for the dividends.
 
+### US Estate Tax
+
+Tax on the transfer of assets after someone dies
+
+The threshold above which the 40% tax is triggered depends on the residency status: US citizens and green card holders: The threshold is $13.99 million in 2025. Non-resident Aliens (NRAs) including H1B: The threshold is $60,000 in 2025.
+
+[U.S Estate Tax applies to Indians too \| Can eat 40% of your savings \| Tips to avoid it - YouTube](https://www.youtube.com/watch?v=ZJswiL33lDo)
+
+- Why Ireland & Luxembourg-Domiciled ETFs Are Better
+- Replacing VOO, QQQ & VT with CSPX, SXRV & VWRA
+	- ETFs domicile outside US, but traded in US Market
+	- Available in IBKR
+- Are There Any Downsides to Irish ETFs?
+
 ## Inward remittances
 
 ### Inward Remittance Purpose Code

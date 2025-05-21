@@ -44,6 +44,10 @@ Don't say bad to people whom you don't give money, only if they are dependent on
 
 Otherwise show disappointment
 
+Use display of wealth to make his credibility is a dangerous person
+
+People don't remember what you say, but they remember how you made them feel
+
 ## Blinkist - An Autobiography by M.K. Gandhi (24 Apr 2019)
 
 The story of my experiments with truth

@@ -120,8 +120,24 @@
 - [GitHub - infiniflow/ragflow: RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.](https://github.com/infiniflow/ragflow)
 - [GitHub - langchain-ai/langgraph: Build resilient language agents as graphs.](https://github.com/langchain-ai/langgraph)
 - [GitHub - run-llama/llama\_index: LlamaIndex is the leading framework for building LLM-powered agents over your data.](https://github.com/run-llama/llama_index)
-- [GitHub - getzep/graphiti: Build Real-Time Knowledge Graphs for AI Agents](https://github.com/getzep/graphiti)
-	- [Graphiti: Temporal Knowledge Graphs for Agentic Apps](https://blog.getzep.com/graphiti-knowledge-graphs-for-agents/)
+
+#### Graphiti
+
+Graphiti is a framework for building and querying temporally-aware knowledge graphs, specifically tailored for AI agents operating in dynamic environments. Unlike traditional retrieval-augmented generation (RAG) methods, Graphiti continuously integrates user interactions, structured and unstructured enterprise data, and external information into a coherent, queryable graph. The framework supports incremental data updates, efficient retrieval, and precise historical queries without requiring complete graph recomputation, making it suitable for developing interactive, context-aware AI applications.
+
+##### Why Graphiti?
+
+Traditional RAG approaches often rely on batch processing and static data summarization, making them inefficient for frequently changing data. Graphiti addresses these challenges by providing:
+
+- **Real-Time Incremental Updates:** Immediate integration of new data episodes without batch recomputation.
+- **Bi-Temporal Data Model:** Explicit tracking of event occurrence and ingestion times, allowing accurate point-in-time queries.
+- **Efficient Hybrid Retrieval:** Combines semantic embeddings, keyword (BM25), and graph traversal to achieve low-latency queries without reliance on LLM summarization.
+- **Custom Entity Definitions:** Flexible ontology creation and support for developer-defined entities through straightforward Pydantic models.
+- **Scalability:** Efficiently manages large datasets with parallel processing, suitable for enterprise environments.
+
+[GitHub - getzep/graphiti: Build Real-Time Knowledge Graphs for AI Agents](https://github.com/getzep/graphiti)
+
+[Graphiti: Temporal Knowledge Graphs for Agentic Apps](https://blog.getzep.com/graphiti-knowledge-graphs-for-agents/)
 
 ### LLM Accuracy Enhancements
 
@@ -147,6 +163,8 @@
 	- **91% Faster Responses** than full-context, ensuring low-latency at scale
 	- **90% Lower Token Usage** than full-context, cutting costs without compromise
 	- [Mem0 - The Memory layer for your AI apps](https://mem0.ai/)
+- [GitHub - topoteretes/cognee: Memory for AI Agents in 5 lines of code](https://github.com/topoteretes/cognee)
+	- [Cognee Documentation - Introduction](https://docs.cognee.ai/)
 
 ### LLM App Building
 
@@ -290,3 +308,5 @@
 ### Others
 
 - [Tools](ai/llm/tools.md)
+- [GitHub - get-convex/convex-backend: The open-source reactive database for app developers](https://github.com/get-convex/convex-backend)
+	- [Convex \| The reactive database for app developers](https://www.convex.dev/)

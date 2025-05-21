@@ -47,6 +47,8 @@ Flexi-cap and multi-cap funds both invest across large, mid, and small-cap stock
 - SBI Flexi Cap Fund
 - Canara Robeco Flexi Cap Fund
 
+[Parag Parekh Flexi Cap Fund vs HDFC Flexi Cap Fund: Which Fund Delivered Higher Returns?](https://www.angelone.in/news/parag-parekh-flexi-cap-fund-vs-hdfc-flexi-cap-fund-which-fund-delivered-highest-returns)
+
 ## Active Equity MFs
 
 - PPFAS LTE

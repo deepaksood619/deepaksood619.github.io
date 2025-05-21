@@ -87,6 +87,10 @@ Monthly Savings Required To Accumulate The Fund Is - **₹7,25,218**
 
 [How to deploy money in a retirement bucket strategy](https://freefincal.com/how-to-deploy-money-in-a-retirement-bucket-strategy/)
 
+[How to review your retirement portfolio?](https://freefincal.com/how-to-review-your-retirement-portfolio/)
+
+[How can we be sure of the assumptions used in retirement planning?](https://freefincal.com/how-can-we-be-sure-of-the-assumptions-used-in-retirement-planning/)
+
 ## Lifestyle upgrades
 
 - 2 objectives that contradict each other, one objective is to achieve financial independence, other objective is to have lifestyle upgrade

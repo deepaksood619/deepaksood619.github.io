@@ -49,6 +49,12 @@ Problem with Capitalism - It creates a problem, and rather than fixing the probl
 
 [Is capitalism actually broken?](https://www.youtube.com/watch?v=wcR815SfWOU)
 
+[Capitalism Doesn't Need Consumers | Economics Explained - YouTube](https://www.youtube.com/watch?v=XySs_KgzyDc&ab_channel=EconomicsExplained)
+
+### Crony capitalism
+
+Crony capitalism describes an economic system where businesses gain an unfair advantage through close relationships with political officials, often at the expense of fair competition and open markets. This favoritism can manifest as special tax breaks, government grants, or preferential treatment in contracts, ultimately benefiting specific businesses over others.
+
 ## Links
 
 [The Most Important Economic Schools of Thought | Economics Explained - YouTube](https://www.youtube.com/watch?v=o6UXRZ2XwgU&ab_channel=EconomicsExplained)

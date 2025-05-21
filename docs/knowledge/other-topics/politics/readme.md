@@ -8,6 +8,8 @@ Free speech is a privilege that must only be given to only set of filtered peopl
 
 Too big to fail and too big to jail
 
+Anti establishment
+
 ## Quotes
 
 If you want the truth to stand clear before you, never be for or against. The struggle between **for** and **against** is the mind's worst disease -- Sent-ts'an, c. 700 C.E.
@@ -68,6 +70,8 @@ https://en.wikipedia.org/wiki/Prime_Minister_of_India
 a political leader who seeks support by appealing to the desires and prejudices of ordinary people rather than by using rational argument.
 
 ## War
+
+All wars are avoidable, some are inevitable
 
 ### Just War Criteria
 
