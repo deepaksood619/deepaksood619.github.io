@@ -18,6 +18,7 @@
 - [Marketing / Sales](management/marketing-sales/readme.md)
 - [Customer Engagement / CX](customer-engagement-cx)
 - [Community Building](community-building)
+	- [Community / Meetups Organize Checklist](management/community-meetups-organize-checklist.md)
 - [Six Sigma](management/six-sigma.md)
 - [Books / Blinkist - Management](books-blinkist-management)
 - [Others](management/others.md)

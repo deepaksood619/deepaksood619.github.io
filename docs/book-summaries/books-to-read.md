@@ -156,6 +156,7 @@
 - By the People: Rebuilding Liberty Without Permission
 - 52 Random Weekend Projects: For Budding Inventors and Backyard Builders https://g.co/kgs/KYFGvmc
 - Die with Zero: Getting All You Can from Your Money and Your Life Book by Bill Perkins - that emphasises on balancing financial independence with enjoying life’s experiences in the present, not just saving for the future.
+	- [You’ve hit Rs 10 crore and opted for FIRE — now what? Why many Indians are struggling to spend their wealth - BusinessToday](https://www.businesstoday.in/amp/personal-finance/retirement-planning/story/youve-hit-rs-10-crore-and-opted-for-fire-now-what-why-many-indians-are-struggling-to-spend-their-wealth-476409-2025-05-15)
 
 https://www.irisreading.com/warren-buffetts-10-favorite-books
 

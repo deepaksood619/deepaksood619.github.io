@@ -121,3 +121,7 @@ In this system, the tax is levied on the per unit price of the built-up area of 
 ## Inheritance Tax
 
 [Let's talk about inheritance tax](https://finshots.in/archive/lets-talk-about-inheritance-tax/)
+
+## Others
+
+- [Cash Deposit Limit in Saving Account as Per Income Tax Act 2025 Updated TAXCONCEPT](https://taxconcept.net/income-tax/cash-deposit-limit-in-saving-account-as-per-income-tax-act-2025-updated/)

@@ -126,6 +126,8 @@ https://www.google.com/inputtools
 
 [Chrome keyboard shortcuts - Computer - Google Chrome Help](https://support.google.com/chrome/answer/157179)
 
+[Logging in Outlook Account on Chrome Profile - Google Chrome Community](https://support.google.com/chrome/thread/153714697/logging-in-outlook-account-on-chrome-profile?hl=en)
+
 #### Extensions
 
 - darkreader

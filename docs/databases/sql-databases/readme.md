@@ -10,5 +10,6 @@
 - [MySQL](mysql/readme.md)
 - [Postgres](postgres/readme.md)
 - [Oracle Database](databases/sql-databases/oracle-database.md)
+- [MSSQL Server](databases/sql-databases/mssql-server.md)
 - [memsql](memsql/readme.md)
     - [Intro](memsql/intro)

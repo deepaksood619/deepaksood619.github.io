@@ -4,6 +4,14 @@
 
 ## Technology
 
+| Index                | US Domiciled ETFs | Ireland Domiciled |
+| -------------------- | ----------------- | ----------------- |
+| S&P 500              | VOO               | CSPX              |
+| Nasdaq-100           | QQQ               | CSNDX             |
+| FTSE All World Index | VT                | VWRA              |
+
+- Domiciled outside US - Replacing VOO, QQQ & VT with CSPX, SXRV & VWRA
+	- VWRA - Vanguard FTSE All-World UCITS ETF USD Acc
 - QQQ - Invesco QQQ Trust, Series 1
 	- Expense Ratio - 0.20%
 	- Assets - $326.68B

@@ -1,7 +1,7 @@
 # Powering Granular Cloud Cost Analytics with ClickHouse
 
-- **Product:** Unit Econ Pro – Opstree’s internal FinOps observability and optimization platform  
-- **Goal:** Real-time, high-scale storage and querying of time-series **cloud cost metrics**  
+- **Product:** Unit Econ Pro – Opstree’s internal FinOps observability and optimization platform
+- **Goal:** Real-time, high-scale storage and querying of time-series **cloud cost metrics**
 - **Technology Stack:** ClickHouse, Python (ETL), Prometheus Exporters, Kubernetes, Grafana
 
 ## The Challenge

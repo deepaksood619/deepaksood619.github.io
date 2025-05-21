@@ -1,5 +1,20 @@
 # Projects
 
+## Domain Knowledge
+
+- Fintech
+	- Lending / Collections
+	- Insurance
+	- Venture Capital
+	- UPI
+- EdTech
+- Publishing House
+- E-Commerce
+- Social Media
+- AdTech
+- Service Based Company
+- Deep Tech
+
 ## Office Projects
 
 ### OpsTree (Dec'23 - Present)

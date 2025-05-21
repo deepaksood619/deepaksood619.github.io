@@ -4,7 +4,7 @@ Recommendation: Move from Logical to Physical Storage
 
 ## Physical vs Logical Storage
 
-In BigQuery, =="logical storage" refers to the uncompressed size of your data, including any data retained for time travel and fail-safe storage, while "physical storage" represents the actual compressed size of the data stored on disk==, meaning it's the amount of space the data physically occupies on Google's servers; essentially, logical storage is the "apparent" size of your data, while physical storage is the "real" size after compression, with logical storage usually being cheaper per gigabyte than physical storage.
+In BigQuery, **"logical storage" refers to the uncompressed size of your data, including any data retained for time travel and fail-safe storage, while "physical storage" represents the actual compressed size of the data stored on disk**, meaning it's the amount of space the data physically occupies on Google's servers; essentially, logical storage is the "apparent" size of your data, while physical storage is the "real" size after compression, with logical storage usually being cheaper per gigabyte than physical storage.
 
 ### Key differences
 

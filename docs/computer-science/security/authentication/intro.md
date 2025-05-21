@@ -1,5 +1,13 @@
 # Authentication
 
+## Factors
+
+There are three authentication factors:
+
+- **Knowledge Factor –** what the user knows, e.g., a password
+- **Possession Factor –** what the user has, e.g., a mobile phone, a security key
+- **Inherence Factor –** who the user is, biometrics, e.g., a fingerprint
+
 ## Methods of Authentication
 
 ### Single Factor authentication
@@ -8,7 +16,7 @@ This is often used as the authentication process for lower risk systems. You onl
 
 In addition to this, a recent [article](https://dataprot.net/statistics/password-statistics/) by DataProt showed that 78% of Gen-Z people utilize the same password for multiple services. This means that if an attacker gained access to one user account, they have a high probability of gaining access to others by simply using the same password.
 
-### 2-Factor Authentication
+### 2-Factor Authentication (2FA) / 2-Step Verification (2SV)
 
 This method is more secure, as it comprises two factors of authentication -- typically something you know, for example username and password , plus something you have / own, for example a phone SMS or a security token.
 
@@ -18,6 +26,8 @@ As you can imagine, this is a lot more secure than simply entering a password, o
 2-factor authentication has become very common amongst online services in recent years, and with many large companies it is the default authentication method. Many require that you setup 2-factor auth in order to even utilize the service.
 
 [2FA - 2-Factor Authentication](two-2fa)
+
+[What's the Difference Between 2FA and 2SV? - Rublon](https://rublon.com/blog/2fa-2sv-difference/)
 
 ### Multi-Factor Authentication
 

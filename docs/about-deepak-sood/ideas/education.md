@@ -212,6 +212,7 @@ TODO - 2025-03-07, 2025-04-03
 - [Khan Academy | Free Online Courses, Lessons & Practice](https://www.khanacademy.org/)
 - Youtube Learning (Experimental)
 - [Sakshm AI](https://sakshm.com/)
+	- [Disha AI](https://getdisha.ai/)
 - [**Sensai**](https://sensai.hyperverge.org/)
 - [Cadmus](https://cadmus.io/)
 - [Infinity Learn: Your Pathway to Success in K-12, IIT-JEE & NEET Exams](https://infinitylearn.com/)
@@ -222,6 +223,11 @@ TODO - 2025-03-07, 2025-04-03
 
 - MasterUnion
 - [Hive School](https://hiveschool.co/curriculum#scholarship-avenues-fornav)
+
+### Others
+
+- [My Job Grow - Your Gateway to Career Success and Growth](https://www.myjobgrow.com/)
+- [Outskill: AI Upskilling for Modern Careers](https://www.outskill.com/)
 
 ## Free Education with Boarding (Coaching)
 

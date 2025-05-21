@@ -174,3 +174,4 @@ https://www.seldon.io
 - [End-to-End Machine Learning Project – AI, MLOps - YouTube](https://www.youtube.com/watch?v=o6vbe5G7xNo)
 	- ZenML
 	- MLflow
+	- KubeFlow
