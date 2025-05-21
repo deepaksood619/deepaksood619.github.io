@@ -1,6 +1,5 @@
 # Pricing
 
-
 - Queries (on-demand) - $6.25 per TiB - The first 1 TiB per month is free.
 - [Pricing  |  BigQuery: Cloud Data Warehouse  |  Google Cloud](https://cloud.google.com/bigquery/pricing)
 - [Quotas and limits  \|  BigQuery  \|  Google Cloud](https://cloud.google.com/bigquery/quotas)
@@ -21,15 +20,19 @@ BigQuery slot capacity:
 
 Region - Mumbai (asia-south1)
 
-| Edition             | Commitment model  | Hourly cost         | Details                                                  |
-| ------------------- | ----------------- | ------------------- | -------------------------------------------------------- |
-| **Standard**        | Pay as you go | $0.046 / slot hour  | No commitment. Billed per second with a 1 minute minimum |
-| **Enterprise**      | Pay as you go | $0.069 / slot hour  | Billed per second with a 1 minute minimum                |
-|                     | 1 yr commit       | $0.0552 / slot hour | Billed for 1 year                                        |
-|                     | 3 yr commit       | $0.0414 / slot hour | Billed for 3 years                                       |
-| **Enterprise Plus** | Pay as you go     | $0.115 / slot hour  | Billed per second with a 1 minute minimum                |
-|                     | 1 yr commit       | $0.092 / slot hour  | Billed for 1 year                                        |
-|                     | 3 yr commit       | $0.069 / slot hour  | Billed for 3 years                                       |
+| Edition             | Commitment model | Hourly cost             | Monthly costs (50 slots)  | Details                                                  |
+| ------------------- | ---------------- | ----------------------- | ------------------------- | -------------------------------------------------------- |
+| **Standard**        | Pay as you go    | $0.046 / slot hour      | $1656 = Rs. 1,41,865.46   | No commitment. Billed per second with a 1 minute minimum |
+| **Enterprise**      | Pay as you go    | $0.069 / slot hour      | $2484 = Rs. 2,12,798.19   | Billed per second with a 1 minute minimum                |
+|                     | 1 yr commit      | $0.0552 / slot hour     | $1,987 = Rs. 1,70,243     | Billed for 1 year                                        |
+|                     | **3 yr commit**  | **$0.0414 / slot hour** | **$1,490 = Rs. 1,27,683** | **Billed for 3 years**                                   |
+| **Enterprise Plus** | Pay as you go    | $0.115 / slot hour      | $4,140 = Rs. 3,54,674     | Billed per second with a 1 minute minimum                |
+|                     | 1 yr commit      | $0.092 / slot hour      | $3,312 = Rs. 2,83,739     | Billed for 1 year                                        |
+|                     | 3 yr commit      | $0.069 / slot hour      | $2,484 = Rs. 2,12,804     | Billed for 3 years                                       |
+
+### Standard vs Enterprise
+
+Standard is suitable for ad-hoc and development workloads, while Enterprise adds security, governance, and machine learning features. Enterprise Plus provides the highest level of availability, recovery, and compliance capabilities, ideal for mission-critical applications.
 
 ### Slot Commitments
 
