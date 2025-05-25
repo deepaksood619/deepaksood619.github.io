@@ -1,5 +1,13 @@
 # Meetups / Talks / Sessions
 
+## Mentor at UnsaidTalks - Hands-on AI Summer Program
+
+![Hands-on AI Summer Program](../media/1748019679958.jpeg)
+
+![Hands-on AI Summer Program - Mentor](../media/1748019681096.jpeg)
+
+[#ai #summerinternship #unsaidtalks \| Raghav Chopra](https://www.linkedin.com/feed/update/urn:li:activity:7331725948083494912/)
+
 ## SRE - Gameday - Hackathon - Opstree, Noida (10 May 2025)
 
 The SRE Gameday is an interactive, hands-on event designed to simulate real-world production incidents, challenging teams to diagnose and resolve issues using observability tools and Kubernetes access. Participants will respond to system alerts and user complaints delivered via dedicated Slack channels, identifying root causes for issues such as high error rates and slow response times. With around 8–10 genuine problems hidden among numerous alerts, teams must work strategically, analyze symptoms, distinguish duplicates, and submit comprehensive root cause analyses. This gameday fosters collaboration, real-time problem-solving, and strengthens site reliability engineering practices in a high-pressure, realistic environment.

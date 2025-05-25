@@ -23,15 +23,15 @@ The different components present in a Tableau server are:
 - VizQL Server
 - Data Server
 
-### A) Application Server
+### Application Server
 
 The application server is used to provide the authentications and authorizations. It handles the administration and permission for web and mobile interfaces. It assures security by recording each session id on Tableau Server. The administrator can configure the default timeout of the session in the server.
 
-### B) VizQL Server
+### VizQL Server
 
 VizQL server is used to convert the queries from the data source into visualizations. Once the client request is forwarded to VizQL process, it sends the query directly to data source and retrieves information in the form of images. This image or visualization is presented to the user. Tableau server creates a cache of visualization to reduce the load time. The cache can be shared across many users who have the permission to view the visualization.
 
-### C) Data Server
+### Data Server
 
 Data server is used to manage and store the data from external data sources. It is a central data management system. It provides metadata management, data security, data storage, data connection and driver requirements. It stores the relevant details of data set such as metadata, calculated fields, sets, groups, and parameters. The data source could extract data as well make live connections to external data sources.
 
@@ -71,8 +71,6 @@ Tableau Prep Builder provides a modern approach to data preparation, making it e
 
 ## Links
 
-[Tableau Architecture & Server Components](https://www.guru99.com/tableau-architecture.html)
-
-[Tableau Platform Architecture - Tableau](https://help.tableau.com/current/blueprint/en-us/bp_server_architecture.htm)
-
-[Part 2 - Understanding the Tableau Server Deployment Reference Architecture - Tableau](https://help.tableau.com/current/guides/enterprise-deployment/en-us/edg_part2.htm)
+- [Tableau Architecture & Server Components](https://www.guru99.com/tableau-architecture.html)
+- [Tableau Platform Architecture - Tableau](https://help.tableau.com/current/blueprint/en-us/bp_server_architecture.htm)
+- [Part 2 - Understanding the Tableau Server Deployment Reference Architecture - Tableau](https://help.tableau.com/current/guides/enterprise-deployment/en-us/edg_part2.htm)

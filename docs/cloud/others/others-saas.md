@@ -120,6 +120,49 @@ A warehouse management system is software that helps companies manage and contro
 - [Google Workspace Essentials | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/779)
 - [Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/23)
 
+Automatically add new Google Workspace users to a specific group. This ensures that every new user created in your organization is automatically included in the group.
+
+1. **Sign in to your Google Admin console:** This requires administrator privileges.
+2. **Navigate to the Group you want to manage:** Go to Menu > Directory > Groups and select the group.
+3. **Add members:** Click on "Add members" within the group settings.
+4. **Select Advanced:** Click on the "Advanced" option.
+5. **Add all users:** Check the box that says "Add all current and future users of our organization to the group with all email settings".
+6. **Confirm:** Click "Add to Group".
+
+### Plus Addressing
+
+Gmail's "plus addressing" feature **lets you create multiple email address variations within your main account without needing new accounts or aliases**. You can simply append a "+" and any characters to your username before the "@gmail.com" address, and Gmail will deliver all emails to your inbox. This is useful for organizing, tracking, and filtering emails.
+
+Here's how it works:
+
+- **Basic Format:** If your email is `username@gmail.com`, you can use variations like `username+friends@gmail.com` or `username+work@gmail.com`.
+- **No Separate Accounts:** All these variations will still deliver to your main inbox.
+- **Organizing and Filtering:** You can then use Gmail's filters to automatically sort or label emails based on these plus addresses.
+- **Tracking Sources:** This also helps you track which websites or services you're receiving emails from, as you can easily identify the source by the plus address.
+- **Privacy and Security:** Plus addressing can also help protect your privacy by creating disposable addresses for specific purposes.
+
+#### Examples
+
+- `john.doe+netflix@gmail.com` for signing up for a Netflix account.
+- `jane.doe+subscriptions@gmail.com` for tracking recurring subscriptions.
+- `user+newsletter@gmail.com` for signing up for a newsletter.
+
+[What is the Gmail + trick and how to use Gmail plus addressing - Streak](https://www.streak.com/post/gmail-plus-addressing-trick)
+
+### Gmail Dot Trick
+
+Dots don't matter in Gmail addresses
+
+If someone accidentally adds dots to your address when emailing you, you'll still get that email. For example, if your email is johnsmith@gmail.com, you own all dotted versions of your address:
+
+- john.smith@gmail.com
+- jo.hn.sm.ith@gmail.com
+- j.o.h.n.s.m.i.t.h@gmail.com
+
+**Note:** If you use Gmail through work, school, or other organization (like yourdomain.com or yourschool.edu), dots do change your address. To change the dots in your username, contact your [admin](https://support.google.com/a/answer/6208960).
+
+[Dots don't matter in Gmail addresses - Gmail Help](https://support.google.com/mail/answer/7436150?hl=en)
+
 ## Google Photos Alternative
 
 https://github.com/photoprism/photoprism
