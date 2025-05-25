@@ -80,3 +80,4 @@ tsm configuration set -k vizqlserver.log.level -v info
 - Payment Parter - [Digital Transformation Services & Solution \| Enterprise IT Solution](https://www.uneecops.com/)
 - Future
 	- [Tableau is falling behind and it's time to move on : r/tableau](https://www.reddit.com/r/tableau/comments/1c0t95s/tableau_is_falling_behind_and_its_time_to_move_on/)
+	- [The Future of Tableau-Centric Roles: What’s Next for Data Professionals in the Next Five Years (per Deep Research)? \| by Adam Mico \| Bootcamp \| Medium](https://medium.com/design-bootcamp/the-future-of-tableau-centric-roles-whats-next-for-data-professionals-in-the-next-five-years-per-e48295af2eaf)

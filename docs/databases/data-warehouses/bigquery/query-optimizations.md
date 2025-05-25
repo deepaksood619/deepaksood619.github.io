@@ -188,6 +188,36 @@ SELECT customer_id, SUM(total_amount) AS total_spent FROM orders GROUP BY custom
 
 Use materialized views for frequently run, repetitive queries. These precompute and store results, reducing query time.
 
+- In BigQuery, materialized views are precomputed views that periodically cache the results of a query for increased performance and efficiency.
+- ﻿﻿Use Cases:
+	- ﻿﻿**Pre-aggregate data -** Aggregation of streaming data.
+	- ﻿﻿**Pre-filter data -** Run queries that only read a particular subset of the table.
+	- ﻿﻿**Pre-join data -** Query joins, especially between large and small tables.
+	- ﻿﻿**Recluster data -** Run queries that would benefit from a clustering scheme that differs from the base tables.
+
+#### Comparison to other BigQuery techniques
+
+The following table summarizes the similarities and differences between BigQuery caching, scheduled queries, logical views, and materialized views.
+
+|Component|Caching|Scheduled queries|Logical views|Materialized views|
+|---|---|---|---|---|
+|Optimize compute|Yes|No|No|Yes|
+|Query support|All|All|All|[Limited](https://cloud.google.com/bigquery/docs/materialized-views-create#supported-mvs)1|
+|Partitioning and clustering|No|Yes|N/A|Yes|
+|Incremental refresh|No|No|No|Yes|
+|Additional storage|No|Yes|No|Yes|
+|Query rewrite|No|No|No|Yes|
+|Maintenance costs|No|Yes|N/A|Yes|
+|Data staleness|Never|Yes|Never|Optional 2|
+
+[Introduction to materialized views  \|  BigQuery  \|  Google Cloud](https://cloud.google.com/bigquery/docs/materialized-views-intro)
+
+#### Links
+
+- [4. Introduction to the Standard & Materialized Views in Google BigQuery - YouTube](https://www.youtube.com/watch?v=vlw9nlkdS0w&ab_channel=DataTech)
+- [Hidden Gems of BigQuery News — Materialized views changes(April 2024) \| by Artem Nikulchenko \| Google Cloud - Community \| Medium](https://medium.com/google-cloud/hidden-gems-of-bigquery-news-materialized-views-april-2024-26b646ca416b)
+- [The Power of Materialized Views in BigQuery \| by Dolly Aswin Harahap \| Google Cloud - Community \| Medium](https://medium.com/google-cloud/the-power-of-materialized-views-in-bigquery-7d0ac917cc8c)
+
 ### 14. Avoid Cross Joins
 
 Cross joins process the Cartesian product of two tables, scanning massive amounts of data. Avoid unless absolutely necessary.

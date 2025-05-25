@@ -134,6 +134,24 @@ https://www.toptal.com/database/sql-indexes-explained-pt-1
 
 ### Difference
 
+| Feature                         | Clustered Index                                                        | Non-Clustered Index                                                                                  |
+| ------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Speed**                       | Faster for range-based queries and sorting.                            | Slower for range-based queries but faster for specific lookups.                                      |
+| **Memory Usage**                | Requires less memory for operations.                                   | Requires more memory due to additional index structure.                                              |
+| **Data Storage**                | The clustered index stores data in the table itself.                   | The non-clustered index stores data separately from the table.                                       |
+| **Number of Indexes per Table** | A table can have only one clustered index.                             | A table can have multiple non-clustered indexes.                                                     |
+| **Disk Storage**                | The clustered index can store data on the disk.                        | The non-clustered index stores the index structure (B-tree) on disk with pointers to the data pages. |
+| **Pointer Storage**             | Stores pointers to the data blocks, not the data itself.               | Stores both the indexed value and a pointer to the actual row in a separate data page.               |
+| **Leaf Nodes**                  | Leaf nodes contain the actual data itself.                             | Leaf nodes contain indexed columns and pointers to data.                                             |
+| **Data Order**                  | Defines the physical order of the rows in the table.                   | Defines the logical order of data in the index, not the table.                                       |
+| **Index Structure**             | The data is physically reordered to match the index.                   | The logical order does not match the physical order of rows.                                         |
+| **Primary Key**                 | Primary keys are by default clustered indexes.                         | Composite keys used with unique constraints are non-clustered.                                       |
+| **Size**                        | Typically larger, especially for large primary clustered indexes.      | Smaller than clustered indexes, especially when composite.                                           |
+| **Use Case**                    | Ideal for range queries and sorting.                                   | Suitable for optimizing lookups and queries on non-primary columns.                                  |
+| **Impact on Table**             | A clustered index directly impacts the table's physical storage order. | A non-clustered index does not affect the physical storage order of the table.                       |
+
+[Difference Between Clustered and Non-Clustered Index \| GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-clustered-and-non-clustered-index/)
+
 With a clustered index the rows are stored physically on the disk in the same order as the index. Therefore, there can be only one clustered index.
 
 With a non clustered index there is a second list that has pointers to the physical rows. You can have many non clustered indices, although each new index will increase the time it takes to write new records.
@@ -190,4 +208,4 @@ An Expression Index is a type of index that precomputes and stores the results o
 
 Instead of recalculating the expression each time a query is run, the database uses the precomputed results, which speeds up query processing.
 
-This is particularly useful when queries involve expressions such as from_unixtime(ts, 'yyyy-MM-dd'), where the database has to perform a conversion on each row's timestamp to filter by a specific date. By creating an expression index, the system avoids recalculating the transformation every time the query is executed.
+This is particularly useful when queries involve expressions such as `from_unixtime(ts, 'yyyy-MM-dd')`, where the database has to perform a conversion on each row's timestamp to filter by a specific date. By creating an expression index, the system avoids recalculating the transformation every time the query is executed.
