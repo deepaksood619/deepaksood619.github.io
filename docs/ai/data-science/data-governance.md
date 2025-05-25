@@ -149,6 +149,7 @@ Both Apache Atlas and DataHub are open-source data catalog platforms designed to
 - Informatica
 - Apache Atlas
 - [The Data Catalog Platform \| data.world](https://data.world/)
+- GCP DataPlex
 
 ## Links
 

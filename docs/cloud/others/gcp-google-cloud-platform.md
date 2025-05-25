@@ -381,3 +381,5 @@ https://medium.com/google-cloud/13-most-common-google-cloud-reference-architectu
 ![image](../../media/Cloud-Others-Google-Cloud-Platform-Managed-Services-image4.jpg)
 
 ![image](../../media/Cloud-Others-Google-Cloud-Platform-Managed-Services-image5.jpg)
+
+[GitHub - GoogleCloudPlatform/data-analytics-golden-demo: An end to end demo of Google's Cloud data and analytic stack.](https://github.com/GoogleCloudPlatform/data-analytics-golden-demo)

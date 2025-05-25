@@ -38,3 +38,4 @@ from langchain import OpenAI, SQLDatabase, SQLDatabaseChain
 - [End To End Text To SQL LLM App Along With Querying SQL Database Using Google Gemini Pro - YouTube](https://www.youtube.com/watch?v=wFdFLWc-W4k)
 - [Pinterest's Text to SQL system through LLMs!](https://mlops.substack.com/p/pinterests-text-to-sql-system-through)
 - [**Amazon Q generative SQL in Amazon Redshift** Query Editor Public Preview Demo | Amazon Web Services - YouTube](https://www.youtube.com/watch?v=4N9IplToB-w)
+- [The Future of Tableau-Centric Roles: What’s Next for Data Professionals in the Next Five Years (per Deep Research)? \| by Adam Mico \| Bootcamp \| Medium](https://medium.com/design-bootcamp/the-future-of-tableau-centric-roles-whats-next-for-data-professionals-in-the-next-five-years-per-e48295af2eaf)
