@@ -10,7 +10,7 @@
 - [Content Types](content-types)
 - [Authentication / Authorization](python/django/authentication-authorization.md)
 - [Admin site](admin-site)
-- [Advanced](advanced)
+- [Advanced](python/django/advanced.md)
 - [Libraries](python/django/libraries.md)
 - [Others](python/django/others.md)
 - [Cheatsheet](python/django/cheatsheet.md)

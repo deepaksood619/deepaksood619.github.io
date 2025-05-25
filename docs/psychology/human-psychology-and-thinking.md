@@ -125,6 +125,20 @@ The Johari Window model is ==a tool that helps people understand themselves and
 
 ![Johari Window model](../media/Screenshot%202025-04-15%20at%202.40.25%20PM.jpg)
 
+## Collectibles
+
+All collectible culture fits into 3 buckets:
+
+- Cultural Icons (Mona Lisa, Banksy)
+- Luxury Signals (Rolex, PFPs)
+- Cultural Memory (first-edition comics, trading cards, vinyl)
+
+Meaning
+
+- The first is about status through reverence.
+- The second is status through scarcity.
+- The third is meaning through memory.
+
 ## Others
 
 - [Why We Always Feel Bad and Guilty - YouTube](https://www.youtube.com/watch?v=71WImmxUPRo)

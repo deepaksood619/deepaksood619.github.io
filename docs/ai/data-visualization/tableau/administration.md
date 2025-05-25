@@ -7,7 +7,7 @@
 | **Storage**           | Site                                                     | 1 TB, 5 TB with an Advanced Management license. For more information, see [Advanced Management capacity](https://help.tableau.com/current/online/en-us/to_site_capacity.htm#advanced). |
 |                       | Individual workbook, published data source, or flow size | 15 GB, 25 GB with an Advanced Management license. See [Advanced Management capacity](https://help.tableau.com/current/online/en-us/to_site_capacity.htm#advanced).                     |
 | **Extract refreshes** | Daily refreshes                                          | Up to 8 backgrounder hours per Creator license                                                                                                                                         |
-|                       | Concurrent refreshes                                     | Up to 10 jobs*, Up to 25 jobs* with an Advanced Management license. See [Advanced Management capacity](https://help.tableau.com/current/online/en-us/to_site_capacity.htm#advanced).   |
+|                       | Concurrent refreshes                                     | Up to 10 jobs, Up to 25 jobs with an Advanced Management license. See [Advanced Management capacity](https://help.tableau.com/current/online/en-us/to_site_capacity.htm#advanced).     |
 |                       | Individual refresh runtime                               | 2 hours                                                                                                                                                                                |
 | **Metrics**           | Daily refreshes                                          | Up to 8 backgrounder hours per Creator license                                                                                                                                         |
 |                       | Concurrent refreshes                                     | Up to 10 jobs                                                                                                                                                                          |
@@ -40,7 +40,7 @@ For example:
 |10 Creator licenses|8 hours|Up to **80 hours/day**|
 |50 Creator licenses|8 hours|Up to **400 hours/day**|
 
-Daily jobs capacity resets each day at 24:00:00 UTC (coordinated universal time).
+Daily jobs capacity resets each day at 24:00:00 UTC (coordinated universal time). (IST - 5:30)
 
 ### About extract refreshes
 
@@ -51,6 +51,7 @@ Refresh jobs that count toward daily jobs capacity include full and incremental 
 - As long as your site has time remaining in its daily refresh capacity, a refresh job will start.
 - Site admins receive email notifications when a site reaches 70%, 90%, and 100% of its daily refresh capacity.
 - If a site exhausts its daily refresh capacity, any future extract refreshes are canceled and email notifications are sent to content owners alerting them of the refresh cancellation.
+- Minimum extract refresh can be scheduled for 1 hour, so if you want 30 min refreshes, we can schedule 2 refresh of 1 hour, with 30 min gap
 
 #### Tips for optimizing extract refreshes capacity
 
@@ -62,6 +63,8 @@ If you're managing an extract-heavy environment, Tableau recommends following so
 	- **Note:** Changing from a full to an incremental refresh can be done from Tableau Cloud only if the extract was configured for incremental refresh in Tableau Desktop before the extract was published. For more information about incremental refreshes, see [Configure an incremental extract refresh(Link opens in a new window)](https://help.tableau.com/current/pro/desktop/en-us/extracting_refresh.htm#incremental) in the Tableau User Help.
 - **Use live connections instead of extract connections**. For views, dashboards, and workbooks whose data needs to be updated frequently, consider setting up the data source to use a live connection instead of an extract connection.
 - **Optimize the data in the extract**. Improving the performance of an extract can also help reduce the amount of time an extract takes to refresh. There are a number of changes you can make to the extract's data to help its overall performance, such as removing unused fields, using filters to remove unused rows, changing date ranges, etc.
+- You may use Tableau Bridge. Extracts processed using Tableau Bridge does not count towards the eight hour per creator limit.
+	- [I getting error " Suspended: Extract refresh capacity at 100%"](https://community.tableau.com/s/question/0D5cw00000GztCwCAJ/i-getting-error-suspended-extract-refresh-capacity-at-100)
 
 ## Admin Views
 
@@ -121,12 +124,12 @@ The Admin Insights Starter workbook provides site administrators with enhanced v
 
 ### Pricing
 
-| **Product**                | **Qty** | **Unit Price (Yearly INR)** | **Discount %** | **Discount Unit Price (Yearly INR)** | **Annual License cost (INR)** |
-| -------------------------- | ------- | --------------------------- | -------------- | ------------------------------------ | ----------------------------- |
-| Tableau - Creator (Cloud)  | 7       | ₹74,250                     | 30.00%         | ₹51,975                              | ₹363,825                      |
-| Tableau - Explorer (Cloud) | 5       | ₹41,580                     | 30.00%         | ₹29,106                              | ₹145,530                      |
-| Tableau - Viewer (Cloud)   | 63      | ₹14,856                     | 30.00%         | ₹10,399                              | ₹655,150                      |
-| **Total**                  |         |                             |                | **₹91,480**                          | **₹1,164,505**                |
+| Product                    | Qty | Unit Price (Yearly INR) | Discount % | Discount Unit Price (Yearly INR) | Annual License cost (INR) |
+| -------------------------- | --- | ----------------------- | ---------- | -------------------------------- | ------------------------- |
+| Tableau - Creator (Cloud)  | 7   | ₹74,250                 | 30.00%     | ₹51,975                          | ₹363,825                  |
+| Tableau - Explorer (Cloud) | 5   | ₹41,580                 | 30.00%     | ₹29,106                          | ₹145,530                  |
+| Tableau - Viewer (Cloud)   | 63  | ₹14,856                 | 30.00%     | ₹10,399                          | ₹655,150                  |
+| **Total**                  |     |                         |            | **₹91,480**                      | **₹1,164,505**            |
 
 Costs are exclusive of GST
 

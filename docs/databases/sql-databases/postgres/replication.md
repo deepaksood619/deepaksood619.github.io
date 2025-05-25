@@ -82,6 +82,35 @@ MySQL and MariaDB have different implementations of multi-source replication, wh
 
 [PostgreSQL: Documentation: 17: 25.3. **Continuous Archiving and Point-in-Time Recovery (PITR)**](https://www.postgresql.org/docs/current/continuous-archiving.html)
 
+## Replication Slot
+
+A PostgreSQL replication slot is a vital feature ensuring the master server retains necessary Write-Ahead Log (WAL) files, even when replicas are temporarily disconnected. In streaming replication scenarios with hot or archiving standbys, replication slots preserve WAL files, allowing the master to track standby lag. When a standby reconnects, preserved WAL files are decoded and applied.
+
+PostgreSQL Replication slots are of two types:
+
+- Physical PostgreSQL Replication Slots
+- Logical PostgreSQL Replication Slots
+
+### 1. Physical PostgreSQL Replication Slots
+
+The changes that take place on the main server via streaming replication are recorded in the WAL segments. These WAL files are sent to the standby server and then replayed.
+
+So, a physical replication slot can be created on the primary server, and the location to which the transactions are sent is stored on the standby. Now, if the standby loses connection, the primary server will keep those WAL files.
+
+### 2. Logical PostgreSQL Replication Slots
+
+Logical replication was introduced in [PostgreSQL](https://docs.hevodata.com/sources/databases/postgresql/) 10. Logical replication brings over only the SQL-like changes. It does not work without replication slots. Logical replication data has to be decoded using a [plugin](https://wiki.postgresql.org/wiki/Logical_Decoding_Plugins).
+
+```sql
+-- Monitor Postgres Replication Slots
+select * from pg_replication_slots;
+
+-- Drop Replication Slot
+select pg_drop_replication_slot(‘ocean’);
+```
+
+[Working with PostgreSQL Replication Slots: Simplified Guide](https://hevodata.com/learn/postgresql-replication-slots/)
+
 ## Links
 
 - [26. High Availability, Load Balancing, and Replication](https://www.postgresql.org/docs/12/high-availability.html)

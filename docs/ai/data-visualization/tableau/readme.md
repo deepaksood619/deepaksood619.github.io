@@ -62,26 +62,21 @@ tsm configuration set -k vizqlserver.log.level -v info
 
 ## REST APIs
 
-[REST API and Resource Versions - Tableau](https://help.tableau.com/current/api/rest_api/en-us/REST/rest_api_concepts_versions.htm)
-
-[Triggering extract refreshes for Tableau Server workbooks and data sources using the REST API | by Elliott Stam | Devyx | Medium](https://medium.com/snake-charmer-python-and-analytics/triggering-extract-refreshes-for-tableau-server-workbooks-and-data-sources-using-the-rest-api-d4a8b8c001bf)
+- [REST API and Resource Versions - Tableau](https://help.tableau.com/current/api/rest_api/en-us/REST/rest_api_concepts_versions.htm)
+- [Triggering extract refreshes for Tableau Server workbooks and data sources using the REST API | by Elliott Stam | Devyx | Medium](https://medium.com/snake-charmer-python-and-analytics/triggering-extract-refreshes-for-tableau-server-workbooks-and-data-sources-using-the-rest-api-d4a8b8c001bf)
 
 ## Learning
 
-[Data Viz Heroes](https://twitter.com/i/lists/231325896)
-
-[Data + Science](https://www.dataplusscience.com/TableauReferenceGuide/)
+- [Data Viz Heroes](https://twitter.com/i/lists/231325896)
+- [Data + Science](https://www.dataplusscience.com/TableauReferenceGuide/)
 
 ## Resources
 
-[tsm Command Line Reference - Tableau](https://help.tableau.com/current/server/en-us/tsm.htm)
-
-[Developer Path | Extending Functionality | Tableau](https://www.tableau.com/learn/learning-paths/developer)
-
-[GitHub - utkarsh-yadav1231/Tableau-Projects: Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic Analytics Projects.](https://github.com/utkarsh-yadav1231/Tableau-Projects)
-
-[Get Started - Tableau](https://help.tableau.com/current/pro/desktop/en-us/gettingstarted_overview.htm)
-
-[Tableau Dashboard Tutorial - Step by step, from start to finish - Part 1 | sqlbelle - YouTube](https://www.youtube.com/watch?v=cGa7QDeueTA)
-
-Payment Parter - [Digital Transformation Services & Solution \| Enterprise IT Solution](https://www.uneecops.com/)
+- [tsm Command Line Reference - Tableau](https://help.tableau.com/current/server/en-us/tsm.htm)
+- [Developer Path | Extending Functionality | Tableau](https://www.tableau.com/learn/learning-paths/developer)
+- [GitHub - utkarsh-yadav1231/Tableau-Projects: Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic Analytics Projects.](https://github.com/utkarsh-yadav1231/Tableau-Projects)
+- [Get Started - Tableau](https://help.tableau.com/current/pro/desktop/en-us/gettingstarted_overview.htm)
+- [Tableau Dashboard Tutorial - Step by step, from start to finish - Part 1 | sqlbelle - YouTube](https://www.youtube.com/watch?v=cGa7QDeueTA)
+- Payment Parter - [Digital Transformation Services & Solution \| Enterprise IT Solution](https://www.uneecops.com/)
+- Future
+	- [Tableau is falling behind and it's time to move on : r/tableau](https://www.reddit.com/r/tableau/comments/1c0t95s/tableau_is_falling_behind_and_its_time_to_move_on/)
