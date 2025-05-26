@@ -216,9 +216,17 @@ These bonds listed on the stock exchanges offer flexibility in terms of liquidit
 6. **Purchase the bonds:** Once you have selected a tax-free bond, decide on the number of bonds you want to purchase and complete the transaction through your broker.
 7. **Risk management:** Remember that tax-free bonds are subject to credit risk, market risk, and interest rate risk. Be aware of these risks and consult with a financial advisor on ways to minimise them.
 
-[What are Tax-Free Bonds: Features, Benefits & How to Invest](https://www.bajajfinserv.in/what-are-tax-free-bonds)
+#### Links
 
-[List of Tax-Free Bonds in India 2025](https://www.wintwealth.com/bonds/tax-free-bonds/)
+- [What are Tax-Free Bonds: Features, Benefits & How to Invest](https://www.bajajfinserv.in/what-are-tax-free-bonds)
+- [List of Tax-Free Bonds in India 2025](https://www.wintwealth.com/bonds/tax-free-bonds/)
+- [Tax Benefit I Tax-Free Bonds I Features I Examples I Interest Rate - YouTube](https://youtu.be/ZpTG6sjI8Ac)
+- [Tax Saving Bonds vs Tax-Free Bonds - YouTube](https://youtu.be/CZHvbwfuQHM)
+- [Tax Free Bonds With High Returns I Bonds I Tax Free Bonds Investment I Top 5 Tax Free Bonds 2024 - YouTube](https://youtu.be/d6pD3tSPSDA)
+- [RBI Bonds vs Tax-free bonds vs Liquid Funds vs Arbitrage Funds! - YouTube](https://youtu.be/9-8mCJ2wzbM)
+- [High Profit & Tax Free Bonds In India in 2024 \| Tax Free Bonds Investment \| How to Invest in Bonds? - YouTube](https://youtu.be/zr_n_4w6jQU)
+- [Do retail investors invest in tax free bonds in India? - Quora](https://www.quora.com/Do-retail-investors-invest-in-tax-free-bonds-in-India)
+- [Are tax-free bonds still available for investment in 2025? - Quora](https://www.quora.com/Are-tax-free-bonds-still-available-for-investment-in-2025)
 
 ## Links
 

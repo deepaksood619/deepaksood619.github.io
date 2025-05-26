@@ -518,6 +518,8 @@ ATS sector 22 D, yamuna expressway
 
 +919973136791 farm house lake view - Residential plot - [Rise Resorts Residency Villa - Google Maps](https://www.google.com/maps/place/Rise+Resorts+Residency+Villa/@28.5800944,77.4317573,17z/data=!3m1!4b1!4m6!3m5!1s0x390cef0301f8bfb7:0xabc2d83d549b4e46!8m2!3d28.5800944!4d77.4317573!16s%2Fg%2F11k547hlpn?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D)
 
+Lotus Panache
+
 ### 2025-01-17 - Rent
 
 +919990086104 sector 26, 3rd floor, 45000, 3 bhk, 2 bathroom

@@ -1,7 +1,5 @@
 # Azure SQL Databases
 
-[Azure SQL Database Tutorial \| Relational databases in Azure - YouTube](https://www.youtube.com/watch?v=BgvEOkcR0Wk&ab_channel=AdamMarczak-AzureforEveryone)
-
 ## Deployment models
 
 Azure SQL Database provides the three deployment options:
@@ -13,6 +11,16 @@ Azure SQL Database provides the three deployment options:
 ## SQL Database Server vs SQL Database
 
 Database Server act as a central administrative point for **multiple single** or **pooled databases**, logins, firewall rules, auditing rules, threat detection policies, and failover groups.
+
+## Pricing
+
+ Azure SQL Database offers two purchasing models
+
+- Database transaction unit (DU)-based purchasing model
+- Virtual core (vCore)-based purchasing model (recommended)
+- Serverless model (vCore)-based
+
+![Azure SQL Database Pricing Model](../../../media/Screenshot%202025-05-25%20at%201.13.17%20PM.jpg)
 
 ## Backups
 
@@ -30,5 +38,5 @@ The exact frequency of transaction log backups is based on the compute size and 
 
 ## Links
 
-- [Azure SQL Database Tutorial \| Relational databases in Azure - YouTube](https://www.youtube.com/watch?v=BgvEOkcR0Wk)
-- [How to use Azure SQL Databases \| Azure Fundamentals - YouTube](https://www.youtube.com/watch?v=9ur0OpMADuM)
+- [Azure SQL Database Tutorial \| Relational databases in Azure - YouTube](https://www.youtube.com/watch?v=BgvEOkcR0Wk&ab_channel=AdamMarczak-AzureforEveryone)
+- [How to use Azure SQL Databases \| Azure Fundamentals - YouTube](https://www.youtube.com/watch?v=9ur0OpMADuM&ab_channel=AlexTheAnalyst)

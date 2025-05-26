@@ -225,6 +225,7 @@ A loan tape is a snapshot of a fintech's customer base and outstanding balances,
 53. Affirm (US - fintech)
 54. moneyHop
 55. https://www.refyne.co.in/
+56. [The Accelerant Risk Exchange](https://accelerant.ai/)
 
 https://tracxn.com/d/soonicorn-awards/top-startups-in-india-fintech-2021
 
