@@ -93,6 +93,7 @@ Azure Synapse Analytics is an analytics service that helps in data integration, 
 
 - Azure Data Factory is Azure's cloud ETL service for scale-out serverless data integration and data transformation. It offers a code-free UI for intuitive authoring and single-pane-of-glass monitoring and management. You can also lift and shift existing SSIS packages to Azure and run them with full compatibility in ADF. SSIS Integration Runtime offers a fully managed service, so you don't have to worry about infrastructure management.
 - [Beginner's Guide to Azure Data Factory (Series) | Page 1 of 6 | Cathrine Wilhelmsen](https://www.cathrinewilhelmsen.net/series/beginners-guide-azure-data-factory/)
+- [Getting Started in Azure Data Factory \| Azure Fundamentals - YouTube](https://www.youtube.com/watch?v=sge9qTf8GdY&ab_channel=AlexTheAnalyst)
 
 ### Difference between Azure Data Factory and Azure Synapse Analytics
 

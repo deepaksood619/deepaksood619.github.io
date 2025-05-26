@@ -339,6 +339,10 @@ Discovery commerce is the equivalent of 'I'm feeling lucky' in Google searches. 
 - [Co-Founder Equity Mistakes to Avoid | Startup School - YouTube](https://www.youtube.com/watch?v=DISocTmEwiI)
 - [How To Find A Co-Founder | Startup School - YouTube](https://www.youtube.com/watch?v=Fk9BCr5pLTU)
 
+## Tools
+
+- [Firstbase \| Incorporation, compliance, bookkeeping, and taxes – all in one place.](https://www.firstbase.io/)
+
 ## Links
 
 - [How I Turned $300 Into $5.1 Billion - YouTube](https://www.youtube.com/watch?v=XWwMr1jYIDE)
