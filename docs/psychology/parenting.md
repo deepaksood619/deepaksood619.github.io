@@ -245,6 +245,15 @@ Why kicking out children after 18 years is important, let's say you are very wea
 ### Links
 
 - [ChatGPT - Late Talker or Delay](https://chatgpt.com/share/680e061c-27a8-8005-ae21-42f38a532191)
+	- Animal Sounds Game
+	- Bathtime Talk
+	- Mealtime Chatter
+	- Name Things Around the House
+	- Silly Singing
+	- Pause and Wait
+	- "What's in the Box?" Surprise Game
+	- Excitement + mystery = better attention and new words.
+	- Be patient: even quiet kids are absorbing everything and will often surprise you with a "language explosion" when ready.
 - [What to do when your 2 year old is talking gibberish to you — Toddler Talk](https://toddlertalk.com/blog/my-two-year-old-is-talking-jibberish)
 - [Do Parents Cause Speech Delays?](https://www.expressable.com/learning-center/speech-and-language-issues/do-parents-cause-speech-delays)
 - [3 Effective Speech Therapy Techniques To Improve Speech Clarity In Child...](https://youtu.be/nkeBaz7_2C0)

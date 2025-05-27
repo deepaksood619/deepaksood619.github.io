@@ -129,6 +129,7 @@
 
 - [Second Brain Labs \| Automating Sales, Surveys, Support, and Lead Qualification for Businesses, with efficiency.](https://secondbrainlabs.com/)
 - [Docket \| AI Agents for Web Testing](https://www.docketqa.com/)
+- [xpander.ai \| Build Better AI Agents](https://xpander.ai/)
 
 ## Purpose-built accelerators for generative AI
 
