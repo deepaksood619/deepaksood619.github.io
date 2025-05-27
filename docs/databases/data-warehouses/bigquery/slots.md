@@ -67,6 +67,10 @@ By comparing these estimates, you can better understand the cost implications of
 
 - Regularly monitor your query performance and adjust the number of reserved slots and autoscaling settings based on actual usage patterns. This ensures that you are optimizing costs while maintaining performance.
 
+## Slot Autoscaling
+
+[Introduction to slots autoscaling  \|  BigQuery  \|  Google Cloud](https://cloud.google.com/bigquery/docs/slots-autoscaling-intro)
+
 ## Cost Impact
 
 1. [**Commitments**](https://cloud.google.com/bigquery/docs/reservations-concepts#commitments), which let you purchase slot capacity.

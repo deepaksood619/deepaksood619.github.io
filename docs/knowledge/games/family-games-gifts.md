@@ -1,5 +1,6 @@
 # Family Games / Gifts
 
+- Origami and race - [ORIGAMI JUMPING FROG (Traditional model) - YouTube](https://www.youtube.com/watch?v=Vlb2udqPx-M&ab_channel=OrigamiwithJoNakashima)
 - Family Weekly game night
 - Card Games
 	- Uno
@@ -64,3 +65,7 @@ As each guest got $1 back, each guest only paid $9, bringing the total paid to $
 https://establishedtitles.com/products/lordship-title-pack-new
 
 - Photoframe with photo
+
+## Links
+
+- [couple-activities](knowledge/games/couple-activities.md)

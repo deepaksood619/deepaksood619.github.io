@@ -521,6 +521,7 @@ Indian History - https://www.anirudhkanisetti.com/podcasts
     - [GitHub - ytdl-org/youtube-dl: Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl)
     - `youtube-dl --cookies cookies.txt https://www.udemy.com/aws-certified-developer-associate-dva-c01/ --verbose`
     - `youtube-dl -u user@domain.com -p P@ssw0rd https://www.udemy.com/the-ultimate-google-adwords-training-course/learn/lecture/12313178#content`
+    - [GitHub - yt-dlp/yt-dlp: A feature-rich command-line audio/video downloader](https://github.com/yt-dlp/yt-dlp)
 - [Watch Movies Streaming Online Free | TV Show Online HD](https://theflixer.tv/)
 - Index of x
 - [Index of /Movies](http://mha.cs.umn.edu/Movies/)

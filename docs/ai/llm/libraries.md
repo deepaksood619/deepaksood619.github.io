@@ -30,6 +30,8 @@
 8. [AutoGen](https://github.com/microsoft/autogen) - LLM conversational collaborative suite
 9. [Guardrails](https://github.com/guardrails-ai/guardrails) - babysit LLMs so they behave as intended
 10. [Temporian](https://github.com/google/temporian) - the "Pandas" built for preprocessing temporal data
+11. [GitHub - langgenius/dify: Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.](https://github.com/langgenius/dify)
+	1. [Dify: Production-Ready AI Agent Builder](https://dify.ai/)
 
 ### Runner-ups
 

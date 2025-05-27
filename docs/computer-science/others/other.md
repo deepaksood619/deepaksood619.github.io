@@ -55,6 +55,9 @@ GIS can refer to a number of different technologies, processes, techniques and m
 
 GIS can relate unrelated information by using location as the key index variable. Locations or extents in the Earth [space--time](https://en.wikipedia.org/wiki/Space%E2%80%93time) may be recorded as dates/times of occurrence, and x, y, and z [coordinates](https://en.wikipedia.org/wiki/Coordinate) representing, [longitude](https://en.wikipedia.org/wiki/Longitude), [latitude](https://en.wikipedia.org/wiki/Latitude), and [elevation](https://en.wikipedia.org/wiki/Elevation_(geography)), respectively. All Earth-based spatial--temporal location and extent references should be relatable to one another and ultimately to a "real" physical location or extent. This key characteristic of GIS has begun to open new avenues of scientific inquiry.
 
+- The latitude and longitude coordinate with **five decimal digits** provides an accuracy of about **1.11 meters at the equator.**
+- The latitude and longitude coordinate with **four decimal digits** provides an accuracy of about **11.1 meters at the equator.**
+
 https://en.wikipedia.org/wiki/Geographic_information_system
 
 ## Supercomputer Architecture
