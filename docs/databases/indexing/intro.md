@@ -83,10 +83,6 @@ In this, the indices are based on a sorted ordering of the values. These are gen
 
 Indices are based on the values being distributed uniformly across a range of buckets. The buckets to which a value is assigned is determined by a function called a hash function.
 
-## Heaped storage
-
-Heaped storage is a term for tables that live on the database with no clustered index. The data is stored in no particular order and new data simply gets added as it comes in.
-
 ## Methods of indexing
 
 ### Clustered Indexing

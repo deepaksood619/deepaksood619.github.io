@@ -134,12 +134,13 @@ It is a credible and tax-efficient* alternative to certain fixed income instrume
 
 According to the CEO, this fund may be "ideal" for those desiring debt allocation with indexation benefits and those who avoid actively trading in debt securities.
 
-Taxation - LTCG - If holding is more than 36 months) - Debt Fund (20% with Indexation benefit)
+Taxation - 12.5% since it's equity is maintained at a minimum of 35%
 
 - [Webinar to discuss the NFO of Parag Parikh Dynamic Asset Allocation Fund - YouTube](https://www.youtube.com/watch?v=iCVFUX9QUoc&ab_channel=PPFASMutualFund)
 - [How does Parag Parikh Dynamic Asset Allocation Fund (PPDAAF) provide indexation benefit? CEO explains - The 1% News](https://news.onepercentclub.io/invest/how-does-parag-parikh-dynamic-asset-allocation-fund-ppdaaf-provide-indexation-benefit-ceo-explains/1064/)
 - [Parag Parikh Dynamic Asset Allocation Fund: Who should invest?](https://freefincal.com/parag-parikh-dynamic-asset-allocation-fund-who-should-invest/)
 - [Parag Parikh Dynamic Asset Allocation Fund vs Parag Parikh Conservative Hybrid Fund](https://freefincal.com/parag-parikh-dynamic-asset-allocation-fund-vs-parag-parikh-conservative-hybrid-fund/)
+- [Parag Parikh Dynamic Asset Allocation Fund \| EXPLAINED by Neil Parag Parikh - YouTube](https://www.youtube.com/watch?v=G1fJWTO6Dbw&ab_channel=PPFASMutualFund)
 
 ## Debt Funds vs FD
 
@@ -149,7 +150,7 @@ Taxation - LTCG - If holding is more than 36 months) - Debt Fund (20% with Index
 
 ## Links
 
-- Stable Money
+- Stable Money (Stablemoney)
 - https://www.thefixedincome.com
 - https://www.bharatbond.in
 - https://zerodha.com/varsity/chapter/the-debt-funds-part-1

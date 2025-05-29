@@ -171,6 +171,11 @@ Intel, AMD, and Graviton each come with tradeoffs:
 
 [AMD vs. Intel: Unveiling the Best EC2 Instance Choice](https://cloudfix.com/blog/boost-aws-performance-and-cost-efficiency-with-amd-instances/)
 
+### Graviton
+
+- [GitHub - aws/aws-graviton-getting-started: Helping developers to use AWS Graviton2, Graviton3, and Graviton4 processors which power the 6th, 7th, and 8th generation of Amazon EC2 instances (C6g\[d\], M6g\[d\], R6g\[d\], T4g, X2gd, C6gn, I4g, Im4gn, Is4gen, G5g, C7g\[d\]\[n\], M7g\[d\], R7g\[d\], R8g).](https://github.com/aws/aws-graviton-getting-started)
+- [aws-graviton-getting-started/transition-guide.md at main · aws/aws-graviton-getting-started · GitHub](https://github.com/aws/aws-graviton-getting-started/blob/main/transition-guide.md)
+
 ## EC2
 
 ### EC2 Instance metadata and user data

@@ -410,22 +410,18 @@ It can become toxic and inedible quickly; when stored for more than 20 minutes, 
 ## Farming
 
 - Sustenance farming
-
-[Soya Chunks : How it's Made ? Good or Bad ?? || Explained by Farming Engineer - YouTube](https://www.youtube.com/watch?v=Jkq36eV0Fsc)
-
-[मक्खन फल ने बनाया 26 साल का लड़का करोड़पति // एवोकाडो खेती Israel butter fruit nursery India Avocado - YouTube](https://www.youtube.com/watch?v=vqTOZEQq5zM)
-
-[Permaculture | Andrew Millison - YouTube](https://www.youtube.com/@amillison/playlists)
-
-[These Farmers Are Earning ₹250+ Crore Every Year \| Story From a Rajasthan Village - YouTube](https://youtu.be/0ClJa5ICJpY)
+- [Soya Chunks : How it's Made ? Good or Bad ?? || Explained by Farming Engineer - YouTube](https://www.youtube.com/watch?v=Jkq36eV0Fsc)
+- [मक्खन फल ने बनाया 26 साल का लड़का करोड़पति // एवोकाडो खेती Israel butter fruit nursery India Avocado - YouTube](https://www.youtube.com/watch?v=vqTOZEQq5zM)
+- [Permaculture | Andrew Millison - YouTube](https://www.youtube.com/@amillison/playlists)
+- [These Farmers Are Earning ₹250+ Crore Every Year \| Story From a Rajasthan Village - YouTube](https://youtu.be/0ClJa5ICJpY)
+- [Auto sinchai system \| Timer valve \| सिंचाई का आसान तरीका #irrigation #irrigationsystem #dehaat - YouTube](https://www.youtube.com/watch?v=mxMCVWe2bDA&ab_channel=DeHaat)
 
 ### Playlist
 
-[Organic Acre - YouTube](https://www.youtube.com/@OrganicAcre)
-
-[Farming Engineer - YouTube](https://www.youtube.com/@FarmingEngineer)
-
-[Honest food review - YouTube](https://www.youtube.com/playlist?list=PLWXBW2QXy3ul0W0ODOo3NdHU6w7COn8GP)
+- [Organic Acre - YouTube](https://www.youtube.com/@OrganicAcre)
+- [Farming Engineer - YouTube](https://www.youtube.com/@FarmingEngineer)
+- [Honest food review - YouTube](https://www.youtube.com/playlist?list=PLWXBW2QXy3ul0W0ODOo3NdHU6w7COn8GP)
+- [DeHaat - YouTube](https://www.youtube.com/@DeHaat)
 
 ## Links
 

@@ -87,11 +87,11 @@ As SQLAlchemy is a facade that enables Python developers to create applications 
 
 For example, let's say that we want to fetch the first ten rows of a table calledpeople. If our data was being held by a Microsoft SQL Server database engine, SQLAlchemy would need to issue the following query:
 
-SELECT TOP 10 * FROM people;
+`SELECT TOP 10 * FROM people;`
 
 But, if our data was persisted on MySQL instance, then SQLAlchemy would need to issue:
 
-SELECT * FROM people LIMIT 10;
+`SELECT * FROM people LIMIT 10;`
 
 Therefore, to know precisely what query to issue, SQLAlchemy needs to be aware of the type of the database that it is dealing with. This is exactly whatDialectsdo. They make SQLAlchemy aware of the dialect it needs to talk.
 

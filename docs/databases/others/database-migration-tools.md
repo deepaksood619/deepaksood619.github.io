@@ -62,6 +62,8 @@ The fix forward method works best when changes are broken into small chunks that
 - [Atlas | Open-source database schema management tool](https://atlasgo.io/) - manage your database schema as code
 - [SchemaHero - A modern approach to database schema migrations](https://schemahero.io/)
 	- [GitHub - schemahero/schemahero: A Kubernetes operator for declarative database schema management (gitops for database schemas)](https://github.com/schemahero/schemahero)
+- [GitHub - sqlpipe/sqlpipe: SQLpipe makes it easy to move the result of one query from one database to another.](https://github.com/sqlpipe/sqlpipe)
+	- [SQLpipe \| Data engineering tools and services](https://www.sqlpipe.com/)
 
 [10 Best Open Source Database Migration Tools](https://wisdomplexus.com/blogs/open-source-database-migration-tools/)
 
