@@ -22,24 +22,17 @@ Databricks SQL (DB SQL) is a serverless data warehouse on the Databricks Lakehou
 
 ANSI standard SQL dialect by default
 
-[Evolution of the SQL language at Databricks: ANSI standard by default and easier migrations from data warehouses - The Databricks Blog](https://www.databricks.com/blog/2021/11/16/evolution-of-the-sql-language-at-databricks-ansi-standard-by-default-and-easier-migrations-from-data-warehouses.html)
-
-[SQL language reference | Databricks on AWS](https://docs.databricks.com/sql/language-manual/index.html)
+- [Evolution of the SQL language at Databricks: ANSI standard by default and easier migrations from data warehouses - The Databricks Blog](https://www.databricks.com/blog/2021/11/16/evolution-of-the-sql-language-at-databricks-ansi-standard-by-default-and-easier-migrations-from-data-warehouses.html)
+- [SQL language reference | Databricks on AWS](https://docs.databricks.com/sql/language-manual/index.html)
 
 ## Links
 
-[Ideas Portal | Databricks on AWS](https://docs.databricks.com/resources/ideas.html)
-
-[Get a Git access token & connect a remote repo to Databricks | Databricks on AWS](https://docs.databricks.com/repos/get-access-tokens-from-git-provider.html)
-
-[The Delta Lake Series, Ebooks](https://www.databricks.com/explore/de-data-warehousing/the-delta-lake-series)
-
-[Google BigQuery | Databricks on AWS](https://docs.databricks.com/external-data/bigquery.html)
-
-[The Best Data Engineering Platform Is a Lakehouse | Databricks](https://www.databricks.com/resources/webinar/best-data-engineering-platform-lakehouse)
-
-[Customer Story: Coins.ph | Databricks](https://www.databricks.com/customers/coins-ph)
-
-[Real Time Analytics | Databricks](https://www.databricks.com/glossary/real-time-analytics)
-
-[Databricks Data Streaming Platform | Databricks](https://www.databricks.com/product/data-streaming)
+- [Ideas Portal | Databricks on AWS](https://docs.databricks.com/resources/ideas.html)
+- [Get a Git access token & connect a remote repo to Databricks | Databricks on AWS](https://docs.databricks.com/repos/get-access-tokens-from-git-provider.html)
+- [The Delta Lake Series, Ebooks](https://www.databricks.com/explore/de-data-warehousing/the-delta-lake-series)
+- [Google BigQuery | Databricks on AWS](https://docs.databricks.com/external-data/bigquery.html)
+- [The Best Data Engineering Platform Is a Lakehouse | Databricks](https://www.databricks.com/resources/webinar/best-data-engineering-platform-lakehouse)
+- [Customer Story: Coins.ph | Databricks](https://www.databricks.com/customers/coins-ph)
+- [Real Time Analytics | Databricks](https://www.databricks.com/glossary/real-time-analytics)
+- [Databricks Data Streaming Platform | Databricks](https://www.databricks.com/product/data-streaming)
+- [Connect Power BI to Databricks \| Databricks Documentation](https://docs.databricks.com/aws/en/partners/bi/power-bi)

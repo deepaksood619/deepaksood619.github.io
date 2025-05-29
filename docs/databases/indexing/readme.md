@@ -5,6 +5,7 @@
 - [Database Index](database-index)
 - [Inverted Index](inverted-index)
 - [MySQL Indexing](mysql-indexing)
+- [Heaped Storage](databases/indexing/heaped-storage.md)
 
 ## Others
 

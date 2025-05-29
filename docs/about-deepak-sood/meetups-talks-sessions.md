@@ -18,6 +18,8 @@ The SRE Gameday is an interactive, hands-on event designed to simulate real-worl
 
 [Demo Architecture \| OpenTelemetry](https://opentelemetry.io/docs/demo/architecture/)
 
+[#sre #observability #incidentresponse #opentelemetry #devops… \| Deepak Sood](https://www.linkedin.com/posts/deepaksood619_sre-observability-incidentresponse-activity-7333534956566007809-jNOF)
+
 ## Build With AI - TFUG, Opstree Noida (3 May 2025)
 
 Automating the Future: Build Powerful AI Agents

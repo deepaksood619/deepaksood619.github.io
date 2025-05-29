@@ -36,6 +36,24 @@ The exact frequency of transaction log backups is based on the compute size and 
 
 [Automatic, geo-redundant backups - Azure SQL Database \| Microsoft Learn](https://learn.microsoft.com/en-us/azure/azure-sql/database/automated-backups-overview)
 
+## Connecting
+
+Azure SQL Database
+
+https://azure.microsoft.com/en-in/products/azure-sql/database/
+
+https://azure.microsoft.com/en-us/products/data-studio
+
+[What's Happening to Azure Data Studio? - Azure Data Studio \| Microsoft Learn](https://learn.microsoft.com/en-gb/azure-data-studio/whats-happening-azure-data-studio)
+
+- Azure Data Studio officially retires on February 28, 2026
+- [MSSQL Extension - VSCode](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
+- [Download SQL Server Management Studio (SSMS) \| Microsoft Learn](https://learn.microsoft.com/en-us/ssms/download-sql-server-management-studio-ssms)
+- [.NET Interactive with SQL!\| .NET Notebooks in Visual Studio Code - .NET Blog](https://devblogs.microsoft.com/dotnet/net-interactive-with-sql-net-notebooks-in-visual-studio-code/?hide_banner=true)
+- [Polyglot Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode)
+	- [interactive/docs/working-with-data.md at main · dotnet/interactive · GitHub](https://github.com/dotnet/interactive/blob/main/docs/working-with-data.md)
+	- `#r "nuget: Microsoft.DotNet.Interactive.SqlServer, *-*"`
+
 ## Links
 
 - [Azure SQL Database Tutorial \| Relational databases in Azure - YouTube](https://www.youtube.com/watch?v=BgvEOkcR0Wk&ab_channel=AdamMarczak-AzureforEveryone)
