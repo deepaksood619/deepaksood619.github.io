@@ -253,6 +253,8 @@ https://docs.docker.com/config/containers/logging/syslog
 - Errors
 - Alerts
 
+OpenTelementry APM Python - [Python OpenTelemetry Instrumentation \| SigNoz](https://signoz.io/docs/instrumentation/opentelemetry-python/)
+
 ## Others
 
 - https://victoriametrics.com/products/open-source

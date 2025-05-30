@@ -10,6 +10,8 @@ Microcredentials
 
 Highly personalized education for each person
 
+Non Regrettable Minute
+
 1. Tab + earphone for everyone
 2. Everyone will be quizzed and taught about something+ practical hands on learning
 3. Create an app, that will tell kids to do everything, along with sending items for art and craft, it should be multi modal live 24x7, digital tutor
@@ -204,6 +206,7 @@ TODO - 2025-03-07, 2025-04-03
 
 ## Competitors
 
+- **[app.youlearn.ai](https://app.youlearn.ai/)**
 - [linkedin.com/in/qudduspat/](https://www.linkedin.com/in/qudduspat/)- qp@asi.tech
 - [How a High Schooler in Dubai Built ASI, One of the Most Promising AI Edtech Startups](https://www.businessinsider.com/edtech-asi-ai-dubai-chatbot-tutoring-assistant-2023-9?IR=T)
 - [ASI | Home](https://www.asi.tech/)

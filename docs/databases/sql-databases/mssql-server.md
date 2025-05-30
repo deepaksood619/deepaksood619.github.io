@@ -73,6 +73,7 @@ SQL Server Reporting Services (SSRS) provides a set of on-premises tools and ser
 ## Monitoring
 
 - [Download SQL Server Management Studio (SSMS) \| Microsoft Learn](https://learn.microsoft.com/en-us/ssms/download-sql-server-management-studio-ssms)
+	- [SSMS Tutorial (SQL Server Management Studio) - Feature Demonstration - YouTube](https://www.youtube.com/watch?v=2VQMI4ZvtA4)
 
 ## Links
 

@@ -8,7 +8,7 @@ Back/forward cache (or bfcache) is a browser optimization that enables instant b
 
 [Back/Forward Cache: What It Is and How to Use It to Serve Content Immediately](https://nitropack.io/blog/post/back-forward-cache)
 
-## Image Compression / Compress Image / Image Tools
+## Image Compression / Compress Image / Image Tools / Image enhance
 
 - https://imgix.com
 - [**https://squoosh.app/**](https://squoosh.app/)

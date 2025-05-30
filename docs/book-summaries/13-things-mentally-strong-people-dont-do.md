@@ -39,6 +39,14 @@ By Amy Morin
 - Pay close attention to your feelings
 - Examine your thoughts
 
+### My Favorite Insight
+
+When you feel like your life is out of control, take out a piece of paper and draw a horizontal line through the middle. In the top section, write “What I can't control.” In the bottom section, write “What I can control.” Then fill the sections with specific items. When populating your sheet, remember that you can't control what's happened, you can't fully control your thoughts and emotions, you can't completely control other people, and you can't entirely control the future.
+
+But you can choose what you **focus on, what things mean, and how you behave**.
+
+After you’ve listed the things you can and can’t control, rip off the top section, things you can’t control, and then continue tearing that top section into tiny little pieces. Better yet, go outside and light your piece of paper on fire and watch your fears burn away.
+
 [The Discipline Expert: 2,000 Years Of Research PROVES Successful People Do One Thing! - Ryan Holiday - YouTube](https://www.youtube.com/watch?v=PafvhTSC4yE)
 
 [13 THINGS MENTALLY STRONG PEOPLE DON'T DO by Amy Morin | Core Message - YouTube](https://www.youtube.com/watch?v=_SzvtJMrXx0)

@@ -139,6 +139,30 @@ Meaning
 - The second is status through scarcity.
 - The third is meaning through memory.
 
+## Non Regrettable Minute
+
+In the context of learning, a "non-regrettable minute" refers to a moment where a learner makes a decision or chooses an action that, despite the uncertainty of the environment, leads to a beneficial outcome in terms of learning progress or knowledge gain. This concept is central to "no-regret learning," a field that focuses on online learning strategies where the learner can adapt their choices over time to minimize the cumulative loss, even when facing unpredictable or noisy feedback.
+
+### Online Learning and the No-Regret Framework
+
+- **Online Learning:** In online learning, learners interact with an environment and receive feedback (or lack thereof) for each decision. They must learn to adapt their strategies based on this feedback while making decisions that are immediately beneficial.
+- **No-Regret Learning:** This framework aims to find strategies that, even if the environment is uncertain or noisy, ensure that the cumulative loss is minimized compared to any other strategy that could have been chosen.
+- **Non-Regrettable Minute:** A "non-regrettable minute" in this context refers to a specific instance where a learner makes a decision that, in retrospect, proves to be a good one and contributes to their overall learning progress.
+
+### Examples in Different Contexts
+
+- **Route Optimization:** Imagine choosing a route to work each morning. Some days, the chosen route might be faster, and some days it might be slower due to traffic. A "non-regrettable minute" in this context could be choosing a route that consistently provides good travel time, even if the environment is unpredictable.
+- **Online Game Playing:** In an online game, a player might choose different actions based on limited information. A "non-regrettable minute" would be an action that, even with imperfect knowledge, leads to a positive outcome for the player, such as gaining resources or progressing towards a goal.
+- **Machine Learning:** In machine learning, a model might make predictions based on incomplete data. A "non-regrettable minute" could be a prediction that, despite the uncertainty, results in the model making a correct classification or achieving a desired outcome.
+
+### Key Characteristics of Non-Regrettable Minutes
+
+- **Adaptive Strategies:** Learners use strategies that adapt to the environment and past experiences.
+- **Minimizing Cumulative Loss:** The overall goal is to minimize the total negative impact of all decisions over time.
+- **Robustness:** The strategies should be robust to uncertainty and variations in the environment.
+
+In essence, a "non-regrettable minute" is a moment where the learner makes a smart decision that contributes to their learning, even if the environment is uncertain or the consequences are not immediately apparent.
+
 ## Others
 
 - [Why We Always Feel Bad and Guilty - YouTube](https://www.youtube.com/watch?v=71WImmxUPRo)
