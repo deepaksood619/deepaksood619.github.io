@@ -55,6 +55,9 @@
 
 ## Other AI / LLM Tools / Products
 
+- **[Napkin AI - The visual AI for business storytelling](https://www.napkin.ai/)**
+- [Julius AI \| Your AI Data Analyst](https://julius.ai/)
+- [GitHub - mahseema/awesome-ai-tools: A curated list of Artificial Intelligence Top Tools](https://github.com/mahseema/awesome-ai-tools)
 - Merlin Chrome Extension
 - [ElevenLabs - Prime AI Text to Speech | Voice Cloning](https://beta.elevenlabs.io/)
 - [Create Video](https://studio.d-id.com/editor)
@@ -120,7 +123,6 @@
 - [Visily - AI-powered UI design software](https://www.visily.ai/)
 - [AI Automation Tool to Simplify Your Complex and Routine Tasks](https://omnimind.ai/)
 - [PlexeAI \| Build ML Models from Natural Language](https://www.plexe.ai/)
-- [Napkin AI - The visual AI for business storytelling](https://www.napkin.ai/)
 - [Jace AI \| Email Assistant That Understands Your Voice](https://jace.ai/)
 - [Dash AI Chat](https://www.usedash.ai/)
 	- [CTRL: Automated Outreach - YouTube](https://www.youtube.com/watch?v=g86A77PfSD0)

@@ -23,3 +23,7 @@ https://docs.microsoft.com/en-us/azure/aks/virtual-kubelet#installation
 ## Node Pools
 
 https://docs.microsoft.com/en-us/azure/aks/use-multiple-node-pools
+
+## Others
+
+- [Lock your Azure resources to protect your infrastructure - Azure Resource Manager \| Microsoft Learn](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources?tabs=json)

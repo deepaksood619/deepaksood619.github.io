@@ -92,6 +92,18 @@ Amazon QuickSight is built with "SPICE" -- a Super-fast, Parallel, In-memory Cal
 - Add synonyms to fields
 - Review field configurations
 
+### Pricing
+
+- Per User Pricing
+	- Author - $24 - Per user/month
+		- $18 per user per month with annual commitment.
+	- Author Pro - $50 - Per user/month
+	- Reader - $3 - Per user/month
+	- Reader Pro - $20 - Per user/month
+- Capacity Pricing
+	- Reader Capacity - From $250 - For 500 sessions/month
+- Choose between per user pricing and Capacity pricing
+
 ## DataIQ
 
 DataIQ is a business intelligence platform designed to help organizations manage, analyze, and derive insights from their data. It typically combines data governance, analytics, and data science capabilities to enable companies to become more data-driven. DataIQ allows users to access and analyze large datasets, create predictive models, and generate actionable insights, often with a focus on improving business outcomes. It can integrate with various data sources and tools to provide a unified view of data across an organization. The platform is used by data professionals, including data scientists, analysts, and business users, to streamline data operations and decision-making processes.

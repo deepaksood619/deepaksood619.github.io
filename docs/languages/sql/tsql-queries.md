@@ -3,11 +3,11 @@
 ## Find size of tables
 
 ```sql
-SELECT 
+SELECT
     s.name AS SchemaName,
     t.name AS TableName,
     p.rows AS RowCounts,
-    CASE 
+    CASE
         WHEN MIN(i.index_id) = 0 THEN 'Heap'
         ELSE 'Clustered Index'
     END AS TableType,
@@ -16,19 +16,19 @@ SELECT
     CAST(SUM(a.data_pages) * 8 / 1024.0 AS DECIMAL(18,2)) AS DataSpaceMB,
     CAST((SUM(a.used_pages) - SUM(a.data_pages)) * 8 / 1024.0 AS DECIMAL(18,2)) AS IndexSpaceMB,
     CAST((SUM(a.total_pages) - SUM(a.used_pages)) * 8 / 1024.0 AS DECIMAL(18,2)) AS UnusedSpaceMB
-FROM 
+FROM
     sys.tables t
-INNER JOIN 
+INNER JOIN
     sys.indexes i ON t.object_id = i.object_id
-INNER JOIN 
+INNER JOIN
     sys.partitions p ON i.object_id = p.object_id AND i.index_id = p.index_id
-INNER JOIN 
+INNER JOIN
     sys.allocation_units a ON p.partition_id = a.container_id
-INNER JOIN 
+INNER JOIN
     sys.schemas s ON t.schema_id = s.schema_id
-GROUP BY 
+GROUP BY
     s.name, t.name, p.rows
-ORDER BY 
+ORDER BY
     TotalSpaceMB DESC;
 ```
 
@@ -62,14 +62,14 @@ SELECT
     r.row_count,
     r.sql_handle,
     t.text AS running_sql_text
-FROM 
+FROM
     sys.dm_exec_sessions s
-LEFT JOIN 
+LEFT JOIN
     sys.dm_exec_requests r ON s.session_id = r.session_id
-OUTER APPLY 
+OUTER APPLY
     sys.dm_exec_sql_text(r.sql_handle) t
-WHERE 
+WHERE
     s.is_user_process = 1
-ORDER BY 
+ORDER BY
     r.total_elapsed_time DESC;
 ```

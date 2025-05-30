@@ -153,6 +153,7 @@ Taxation - 12.5% since it's equity is maintained at a minimum of 35%
 - Stable Money (Stablemoney)
 - https://www.thefixedincome.com
 - https://www.bharatbond.in
+- grip invest
 - https://zerodha.com/varsity/chapter/the-debt-funds-part-1
 - https://zerodha.com/varsity/chapter/government-securities
 - [Getting started with debt mutual funds - YouTube](https://www.youtube.com/watch?v=7jLip-C8SQs)

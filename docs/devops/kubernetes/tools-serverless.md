@@ -132,6 +132,10 @@ serverless dev
 
 [Serverless Framework V.4 GA – Overview - YouTube](https://www.youtube.com/watch?v=UQL_PPJUFOU)
 
+- [Serverless Framework V4: A New Model](https://www.serverless.com/blog/serverless-framework-v4-a-new-model)
+- The forthcoming release of Serverless Framework V.4 will introduce a new pricing model for Organizations generating more than $2M in Annual Revenue.
+- [Serverless Framework - Upgrading to v4](https://www.serverless.com/framework/docs/guides/upgrading-v4)
+
 [Serverless was a big mistake... says Amazon - YouTube](https://www.youtube.com/watch?v=qQk94CjRvIs)
 
 [Serverless MCP - Introduction - YouTube](https://www.youtube.com/watch?v=FW6IpZv_xUU)

@@ -215,3 +215,4 @@ For most cases, you would want to go with python’s standard json library which
 - Babel - the Python Internationalization Library - https://github.com/python-babel/babel
 - https://tryolabs.com/blog/2019/12/10/top-10-python-libraries-of-2019
 - https://dev.to/squash/16-amazing-python-libraries-you-should-be-using-now-2020-updated-2aja
+- [GitHub - pyauth/pyotp: Python One-Time Password Library](https://github.com/pyauth/pyotp)

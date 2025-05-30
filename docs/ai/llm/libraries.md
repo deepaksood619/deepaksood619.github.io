@@ -312,3 +312,4 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [Tools](ai/llm/tools.md)
 - [GitHub - get-convex/convex-backend: The open-source reactive database for app developers](https://github.com/get-convex/convex-backend)
 	- [Convex \| The reactive database for app developers](https://www.convex.dev/)
+- [GitHub - microsoft/NLWeb: Natural Language Web](https://github.com/microsoft/NLWeb)
