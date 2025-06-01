@@ -320,6 +320,7 @@ https://www.freecodecamp.org/news/the-design-thinking-process-explained
 - Gliffy
 - Mermaid - https://mermaid.live/
 	- [Usage \| Mermaid](https://mermaid.js.org/config/usage.html)
+	- [**Mermaid Chart** - Create complex, visual diagrams with text. A smarter way of creating diagrams.](https://www.mermaidchart.com/)
 - PlantUML
 - Lucid Charts (lucidchart) - 60 objects contraint
 - coggle.it
