@@ -12,6 +12,8 @@ Anti establishment
 
 Can wrongs of the past be corrected by actions of the future
 
+STRONG TAKE WHAT THEY CAN & WEAK SUFFER WHAT THEY MUST!
+
 ## Quotes
 
 If you want the truth to stand clear before you, never be for or against. The struggle between **for** and **against** is the mind's worst disease -- Sent-ts'an, c. 700 C.E.

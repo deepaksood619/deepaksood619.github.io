@@ -25,6 +25,7 @@
 - [Emotions](psychology/emotions.md)
 - [Parenting](parenting)
 - [Schooling](psychology/schooling.md)
+- [Homeschooling](psychology/homeschooling.md)
 - [Pesonality](psychology/personality.md)
 - [Research](research)
 - [Brain](brain)

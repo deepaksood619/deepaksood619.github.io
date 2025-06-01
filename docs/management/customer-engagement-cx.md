@@ -423,3 +423,5 @@ https://segment.com/blog/CRM-vs-CDP
 [Canny: Customer Feedback Management Tool](https://canny.io/) - _Canny_ helps you collect and organize feature requests to better understand customer needs and prioritize your roadmap.
 
 [GitHub - dittofeed/dittofeed: Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨](https://github.com/dittofeed/dittofeed)
+
+- [Dittofeed \| Open-source Customer Engagement for Automated Messaging](https://www.dittofeed.com/)

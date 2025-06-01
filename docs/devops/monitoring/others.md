@@ -255,6 +255,14 @@ https://docs.docker.com/config/containers/logging/syslog
 
 OpenTelementry APM Python - [Python OpenTelemetry Instrumentation \| SigNoz](https://signoz.io/docs/instrumentation/opentelemetry-python/)
 
+### Storage (Clickhouse)
+
+SigNoz stores both metrics and logs, along with traces, under a single pane of glass. It's designed to be a comprehensive observability platform, consolidating these three crucial telemetry data types for easy analysis and monitoring.
+
+- **Logs:** SigNoz uses **Clickhouse**, a high-performance columnar database, to store and manage logs at scale. This allows for efficient querying, filtering, and analysis of log data.
+- **Metrics:** SigNoz also supports metrics data, allowing users to track key performance indicators (KPIs) and system health.
+- **Traces** - SigNoz integrates distributed tracing, enabling users to understand the flow of requests across different services and pinpoint performance bottlenecks.
+
 ## Others
 
 - https://victoriametrics.com/products/open-source

@@ -167,6 +167,7 @@ Traditional RAG approaches often rely on batch processing and static data summar
 	- [Mem0 - The Memory layer for your AI apps](https://mem0.ai/)
 - [GitHub - topoteretes/cognee: Memory for AI Agents in 5 lines of code](https://github.com/topoteretes/cognee)
 	- [Cognee Documentation - Introduction](https://docs.cognee.ai/)
+- [Graphlit: Knowledge API Platform](https://www.graphlit.com/)
 
 ### LLM App Building
 

@@ -243,11 +243,13 @@ https://www.gigsmedia.in
 
 ### Email Clients
 
-- thunderbird
+- Thunderbird
 - [Proton Mail: Get a free email account with privacy and encryption \| Proton](https://proton.me/mail)
 - Gmail
 - Outlook - Microsoft 365
 - Zoho One - [Zoho One - Plan Details \| Zoho](https://www.zoho.com/one/plan-details.html)
+- [Private Email: Your All-in-One Business Email Hosting Solution](https://privateemail.com/)
+- [Home \| Open-Xchange](https://www.open-xchange.com/)
 
 ### Sending Emails / SMS / Notifications
 
