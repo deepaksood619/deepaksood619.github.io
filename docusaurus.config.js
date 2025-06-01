@@ -38,6 +38,11 @@ const config = {
     locales: ['en'],
   },
 
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
+
   // themes: [
   //   [
   //     require.resolve("@easyops-cn/docusaurus-search-local"),

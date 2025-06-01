@@ -6,6 +6,11 @@ The Model Context Protocol (MCP) is an open protocol that enables seamless integ
 
 MCP is an open protocol that standardizes how applications provide context to LLMs. Think of MCP like a USB-C port for AI applications. Just as USB-C provides a standardized way to connect your devices to various peripherals and accessories, MCP provides a standardized way to connect AI models to different data sources and tools.
 
+**Transport pipes**
+
+- **stdio:** server and client at one end, basically the same local machine
+- **SSE:** server to client streaming with HTTP POST requests for client to server communication basically when client and host server are different (for prod env)
+
 ## Why MCP?
 
 MCP helps you build agents and complex workflows on top of LLMs. LLMs frequently need to integrate with data and tools, and MCP provides:
@@ -150,6 +155,8 @@ Knowledge Graph Memory Server - [servers/src/memory at main · modelcontextproto
 	- [MCP servers \| Glama](https://glama.ai/mcp/servers)
 - [Top 5 MCP Servers to Automate Daily Tasks and Workflows with Prompts \| by Pedro Aquino \| Medium](https://medium.com/@pedro.aquino.se/top-5-mcp-servers-to-automate-daily-tasks-and-workflows-with-prompts-039fe50570fd)
 - [GitHub - wong2/awesome-mcp-servers: A curated list of Model Context Protocol (MCP) servers](https://github.com/wong2/awesome-mcp-servers)
+- Tools - [Inspector - Model Context Protocol](https://modelcontextprotocol.io/docs/tools/inspector)
+	- The [MCP Inspector](https://github.com/modelcontextprotocol/inspector) is an interactive developer tool for testing and debugging MCP servers. While the [Debugging Guide](https://modelcontextprotocol.io/docs/tools/debugging) covers the Inspector as part of the overall debugging toolkit, this document provides a detailed exploration of the Inspector’s features and capabilities.
 
 ## Links
 
@@ -162,4 +169,5 @@ Knowledge Graph Memory Server - [servers/src/memory at main · modelcontextproto
 - [What is MCP? No, Really! - YouTube](https://www.youtube.com/watch?v=5zL__Rmk4fs)
 - [Get Started With The Model Context Protocol // 2-Minute Tutorial - YouTube](https://www.youtube.com/watch?v=MC2BwMGFRx4)
 - [ChatGPT Supports MCP Server Finally! - YouTube](https://www.youtube.com/watch?v=-P1qZo0plEg)
+- [MCP Made SIMPLE: Your FIRST Hello World MCP Server. Works for CURSOR & WINDSURF. - YouTube](https://www.youtube.com/watch?v=rcjdfhhb6ZU&ab_channel=AIOrientedDev)
 - How LLM decides which mcp tool to use
