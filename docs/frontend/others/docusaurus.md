@@ -55,6 +55,7 @@ swizzling permits to **swap a theme component with your own implementation**, an
 - [📦 plugin-ideal-image | Docusaurus](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-ideal-image)
 - [📦 plugin-google-gtag | Docusaurus](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-gtag)
 - [📦 plugin-content-docs | Docusaurus](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs)
+- [Docusaurus mermaid diagrams](https://docusaurus.io/docs/next/markdown-features/diagrams)
 - [Serving Optimized Docusaurus Images with Rehype, Markdown and Cloudinary - DevJams Episode #21 - YouTube](https://www.youtube.com/watch?v=9oBWMDK0Av4)
 - [Docusaurus](https://docusaurus.io/docs/api/themes/@docusaurus/theme-live-codeblock)
 - [GitHub - Arsero/docusaurus-graph: The Docusaurus GraphView Plugin is an open source plugin designed to generate a graph view from your Docusaurus documentation files.](https://github.com/Arsero/docusaurus-graph)
