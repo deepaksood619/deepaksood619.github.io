@@ -256,3 +256,4 @@ As Uber continues to scale, these technologies and strategies provide the founda
 - [Kafka Introduction](https://kafka.apache.org/documentation/#gettingStarted)
 - [Pinot Architecture](https://docs.pinot.apache.org/basics/concepts/architecture)
 - [What is Presto?](https://prestodb.io/docs/current/overview/concepts.html)
+- [How Zepto’s Data Team Built for 10-Minute Delivery](https://analyticsindiamag.com/ai-features/how-zeptos-data-team-built-for-10-minute-delivery/)
