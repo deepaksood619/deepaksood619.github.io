@@ -86,6 +86,10 @@ Make sure to
 
 Create 15 mcq questions (with 4 options each and 1 correct answer) around below topics
 
+### Speaking skills judge and feedback
+
+Hi ChatGPT, I'm speaking this prompt aloud, and I know it might not sound perfect—but please don’t judge me based on how I say it. I'm here to improve my impromptu speaking and extempore skills. I'd like you to ask me a series of thoughtful questions or give me topics that can help you analyze how I think and respond on the spot. After that, I'd really appreciate feedback on where I can improve—whether it's my structure, clarity, confidence, or vocabulary—so I can gradually get better at speaking off the cuff. Let's begin whenever you're ready!
+
 ## Create architecture diagram
 
 [Napkin AI - The visual AI for business storytelling](https://www.napkin.ai/)

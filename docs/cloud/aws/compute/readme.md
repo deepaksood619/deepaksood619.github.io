@@ -26,6 +26,23 @@ https://aws.amazon.com/lightsail/resources
 
 Run Batch Jobs at Any Scale
 
+Available with VM / Spot / ECS / EKS / Fargate
+
+AWS batch lets you run hundreds of thousands of batch and machine learning jobs without installing software or servers. AWS batch is a set of batch management capabilities that enables Engineers to easily run batch Computing jobs at any scale.
+
+1. With AWS batch you package the code specify dependencies then submit your batch job using AWS Management console CLI or sdks number
+2. the service dynamically Provisions the optimal quantity and type of compute resources based on the volume and resource requirements of the batch jobs submitted number
+3. AWS batch plans schedules and executes your batch Computing workloads using Amazon ECS eks and AWS fargate with an option to utilize spot instances
+4. AWS batch is optimized for batch Computing and applications that scale through the execution of multiple jobs in parallel examples include deep learning Financial Risk models and image processing
+5. AWS batch supports any job that can be executed as a Docker container jobs specify their memory requirements and the number of virtual CPUs
+6. AWS batch also provides the ability to submit jobs that are part of a pipeline this enables you to express any interdependencies that might exist between jobs
+7. There is no additional charge for AWS batch you only pay for AWS resources you create to store and run your applications in summary
+
+[AWS Batch: 7 Things You HAVE To Know 🎯 - YouTube](https://www.youtube.com/watch?v=5SKNL9eBj3g&ab_channel=GokceDB)
+
+- [What is AWS Batch and Lightsail service - YouTube](https://www.youtube.com/watch?v=NgyNgStkGW0&ab_channel=HiteshChoudhary)
+- [AWS Batch and Hands-On Tutorial on AWS Batch service - YouTube](https://www.youtube.com/watch?v=Ym9HWYFwFS8)
+
 ## AWS Elastic Beanstalk
 
 Run and Manage Web Apps

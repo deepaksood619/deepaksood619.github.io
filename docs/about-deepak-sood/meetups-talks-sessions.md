@@ -618,9 +618,12 @@ https://www.slideshare.net/deepaksood566/computer-science-career-guidance
 - [GenAI Hackathon | Deepak Sood](https://www.linkedin.com/posts/deepaksood619_hackathon-teamwork-innovation-activity-7309996694044086272-E4Vf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 - [OpsTree Festivista 2025](https://www.linkedin.com/posts/deepaksood619_opstree-festivista2025-workhardplayhard-activity-7311022896640888832-iBBk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 - [Build with AI - Gurugram Edition](https://www.linkedin.com/posts/deepaksood619_buildwithai-tfugghaziabad-google-activity-7318766782658355200-9Juk)
+- [Opstree - Data Engineering + AI Session](https://www.linkedin.com/posts/ashishrao-opstree_opstree-dataengineering-aitools-ugcPost-7334542303933435905-71xk)
+- [#genai #claudeai #mcp #sequentialthinking #knowledgegraph #aireflection… \| Deepak Sood](https://www.linkedin.com/posts/deepaksood619_genai-claudeai-mcp-activity-7334543721771782144-DKO4)
 
 ## Finding Meetups
 
 - [Commudle - Connect & Learn With Software Developers](https://www.commudle.com/)
 - [meetup.com](https://www.meetup.com/)
+- [Eventbrite - Discover the Best Local Events & Things to Do](https://www.eventbrite.com/)
 - [10 Alternatives to meetup 2024. In the realm of event organisation and… | by Sean Preusse | Medium](https://medium.com/@sppreus/10-alternatives-to-meetup-2024-07150b877bb0)

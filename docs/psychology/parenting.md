@@ -2,10 +2,6 @@
 
 - Use adjectives - Teddy’s fur is soft," "The radio is quiet," "The tree outside is big
 - Open cup drinking
-- **Homeschooling / Home School / Homeschool**
-    - Khan academy
-    - https://primer.com
-    - day wise curriculum for kids for 0 - 18 years
 - **Thoughts**
     - I want to raise my children in UK or US (good child care programs, that develops childs brain) or parents live with me
     - 1st 3 years of the child's brain development is most important
