@@ -125,15 +125,20 @@ DataIQ is a business intelligence platform designed to help organizations manage
 - [My empty cells get displayed as zeros in tooltips](https://academy.datawrapper.de/article/271-my-empty-cells-get-displayed-as-zeros-in-tooltips)
 - [Datawrapper River](https://app.datawrapper.de/river)
 
+## Comparision
+
+- [Choosing an Analytics Tool. Metabase Vs Superset Vs Redash \| by Stefan Mihaylov \| VorTECHsa \| Medium](https://medium.com/vortechsa/choosing-an-analytics-tool-metabase-vs-superset-vs-redash-afd88e028ba9)
+
 ## Others
 
+- **[GitHub - microsoft/data-formulator: 🪄 Create rich visualizations with AI](https://github.com/microsoft/data-formulator)**
 - https://www.talend.com/
 - [GitHub - finos/perspective: A data visualization and analytics component, especially well-suited for large and/or streaming datasets.](https://github.com/finos/perspective)
 - [ThoughtSpot | The AI-Powered Analytics Platform](https://www.thoughtspot.com/)
 - [Reporting and embedded business intelligence software | Jaspersoft](https://www.jaspersoft.com/)
 - [Domo Charts, Visualizations, and Dashboards \| Domo](https://www.domo.com/business-intelligence/visualizations-and-dashboards)
-- [GitHub - microsoft/data-formulator: 🪄 Create rich visualizations with AI](https://github.com/microsoft/data-formulator)
 - [InstaCharts \| Graph Data Trends Quickly](https://instacharts.io/)
 - [Online Chart & Graph Maker\| LiveGap](https://charts.livegap.com/?lan=en)
 - [Design, Automate & Share Beautiful, On-brand Reports \| Datylon](https://www.datylon.com/)
 - [Online Chart Builder - ChartBlocks](https://www.chartblocks.io/)
+- [Welcome \| Superset](https://superset.apache.org/)

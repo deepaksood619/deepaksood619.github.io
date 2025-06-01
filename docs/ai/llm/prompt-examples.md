@@ -96,6 +96,8 @@ Hi ChatGPT, I'm speaking this prompt aloud, and I know it might not sound perfec
 
 **Provide result into mermaid format**
 
+- [Mermaid Chart - Create complex, visual diagrams with text. A smarter way of creating diagrams.](https://www.mermaidchart.com/)
+
 I need to generate a sequence diagram.
 
 Here is my flow:
