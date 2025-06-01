@@ -76,7 +76,7 @@ npx docusaurus-mdx-checker
 To upgrade a minor version in Docusaurus v3, simply open your `package.json` file, locate the `"@docusaurus/core"` dependency, and change the minor version number to the desired one, then run `npm install` or `yarn install` to install the updated version and its dependencies; ensure all "@docusaurus" packages are updated to the same minor version for consistency.
 
 ```bash
-npm i @docusaurus/core@latest @docusaurus/plugin-google-gtag@latest @docusaurus/plugin-ideal-image@latest @docusaurus/plugin-pwa@latest @docusaurus/preset-classic@latest @docusaurus/module-type-aliases@latest @docusaurus/types@latest
+npm i @docusaurus/core@latest @docusaurus/plugin-google-gtag@latest @docusaurus/plugin-ideal-image@latest @docusaurus/plugin-pwa@latest @docusaurus/preset-classic@latest @docusaurus/theme-mermaid@lastest @docusaurus/module-type-aliases@latest @docusaurus/types@latest
 ```
 
 ## Search
