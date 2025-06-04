@@ -31,10 +31,13 @@ Interactive - [FirstMark | 2024 MAD (ML/AI/Data) Landscape](https://mad.firstmar
 
 [Full Steam Ahead: The 2024 MAD (Machine Learning, AI & Data) Landscape – Matt Turck](https://mattturck.com/mad2024/)
 
-## AGI (Artificial General Intelligence) / Sentient
+## AGI (Artificial General Intelligence) / Sentient / Intelligence Explosion / Technological singularity / Superintelligence
 
 AGI will be intellectually, morally, ethically and creatively superior to humans in every conceivable way
 
+An "intelligence explosion" refers to a hypothetical scenario where a self-improving AI system could rapidly and exponentially increase its intelligence, surpassing human intelligence. This concept, also known as the "singularity," suggests that the initial superintelligent machine could design even better machines, leading to a cascade of intelligence growth.
+
+- [**Technological singularity** - Wikipedia](https://en.wikipedia.org/wiki/Technological_singularity)
 - [Ben Goertzel: Singularity, Sparks of AGI in GPT - YouTube](https://www.youtube.com/watch?v=27zHyw_oHSI)
 - [Ben Goertzel - Open Ended vs Closed Minded Conceptions of Superintelligence - YouTube](https://www.youtube.com/watch?v=4mEsJ3z6T_E)
 - [Christopher Hitchens on Fear and A.I. - YouTube](https://www.youtube.com/watch?v=VmKqBlbxfUo)

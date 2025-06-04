@@ -25,6 +25,7 @@
 - [NotebookLM | Note Taking & Research Assistant Powered by AI](https://notebooklm.google/)
 	- [How to Create YouTube Video Study Guides with NotebookLM - KDnuggets](https://www.kdnuggets.com/how-to-create-youtube-video-study-guides-with-notebooklm)
 	- [Google Gemini Deep Research + NotebookLM - Ultimate AI Combo - YouTube](https://www.youtube.com/watch?v=bZNVn2k2MV4)
+	- [Until NotebookLM, I never believed AI could be this game-changing for productivity](https://www.xda-developers.com/notebooklm-changed-view-of-ai/)
 
 ## AI Generators
 

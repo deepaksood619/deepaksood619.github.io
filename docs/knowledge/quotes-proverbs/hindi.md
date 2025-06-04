@@ -9,3 +9,5 @@
 **Vinash Kale Viprit Buddhi** - As (one's) doom approaches, (the person's) intellect works against (his/her) best interest.
 
 [कबीर के 10 बेहतरीन दोहे :देते हैं जिंदगी का असली ज्ञान - Kabir Ke Shikshaprad Dohe Kabir Ke Prerak Dohe Arth Sahit 10 Shikshaprad Dohe Inspirational Dohe In Hindi With Meaning Kabir Das Ji Ke Dohe With Meaning - Amar Ujala Kavya](https://www.amarujala.com/kavya/kavya-charcha/kabir-ke-shikshaprad-dohe-kabir-ke-prerak-dohe-arth-sahit-10-shikshaprad-dohe-inspirational-dohe-in-hindi-with-meaning-kabir-das-ji-ke-dohe-with-meaning?page=9)
+
+[mvcollegebuxar.org/main/wp-content/uploads/2020/04/muhavare.pdf](https://mvcollegebuxar.org/main/wp-content/uploads/2020/04/muhavare.pdf)

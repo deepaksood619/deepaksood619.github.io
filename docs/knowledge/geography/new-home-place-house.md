@@ -350,6 +350,7 @@ For maa - find hobby
 - [Rent vs Buy a House: The 4-2-0 Rule - YouTube](https://www.youtube.com/watch?v=HRVED93mXoY&ab_channel=Zero1byZerodha)
 	- [Zero1 - Rent vs EMI Debate - Google Sheets](https://docs.google.com/spreadsheets/d/1stvkV2mcw61zC3q8U1ghmwxZL6_J0CD8y3psANujn38/edit?usp=sharing)
 - [Is it better for a young family to rent than to buy a home?](https://freefincal.com/is-it-better-for-a-young-family-to-rent-than-to-buy-a-home/)
+- [Why Owning Property is Safer than Renting in Old Age: A Real-Life Story](https://freefincal.com/why-owning-property-is-safer-than-renting-in-old-age-a-real-life-story/)
 
 ## Documents / Property Investing
 

@@ -269,3 +269,4 @@ Deploy:
 ## Others
 
 - [Vibinex • Open-source pull request personalization for GitHub, GitLab & Bitbucket](https://vibinex.com/)
+- [Continuous Deployment & Delivery Software for DevOps teams \| Octopus Deploy - Octopus Deploy](https://octopus.com/)

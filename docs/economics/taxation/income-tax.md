@@ -93,3 +93,8 @@ If people have to invest or spend more, they need to earn at least ₹2.5lks/yr?
 - Peru: 30% → ₹7 CR
 
 [Rs 10 crore salary: How much you take home in US vs India vs UAE vs Finland? Here's a comparison](https://www.businesstoday.in/personal-finance/tax/story/rs-10-crore-salary-how-much-you-take-home-in-us-vs-india-vs-uae-vs-finland-heres-a-comparison-465557-2025-02-22)
+
+## Links
+
+- [Got an income tax notice? Here are common types of tax notices and what to do to avoid penalties - The Economic Times](https://economictimes.indiatimes.com/wealth/tax/got-an-income-tax-notice-here-are-common-types-of-tax-notices-and-what-to-do-to-avoid-penalties/got-an-income-tax-notice-here-are-common-types-of-tax-notices-and-what-to-do-to-avoid-penalties/articleshow/121538355.cms)
+- [Filing ITR for FY2024-25? Mistakes in HRA claims, capital gains tax calculation are among 7 errors to avoid - The Economic Times](https://economictimes.indiatimes.com/wealth/tax/filing-itr-for-fy2024-25-mistakes-in-hra-claims-capital-gains-tax-calculation-are-among-7-errors-to-avoid/filing-itr-for-fy2024-25-mistakes-in-hra-claims-capital-gains-tax-calculation-are-among-7-errors-to-avoid/articleshow/121531335.cms)

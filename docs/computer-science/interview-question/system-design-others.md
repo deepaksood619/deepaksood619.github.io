@@ -90,6 +90,7 @@ https://netflixtechblog.com/netflixs-viewing-data-how-we-know-where-you-are-in-h
 
 ## Others
 
+- [Evidently AI - ML and LLM system design: 500 case studies](https://www.evidentlyai.com/ml-system-design)
 - HTTP + json is not good (because contract is not upheld from developers while sending apis)
 - [Overview of Discord's data platform that daily processes petabytes of data and trillion points - YouTube](https://www.youtube.com/watch?v=yGpEzO32lU4)
 - [10 Tips for Building Resilient Payment Systems (2023)](https://shopify.engineering/building-resilient-payment-systems)

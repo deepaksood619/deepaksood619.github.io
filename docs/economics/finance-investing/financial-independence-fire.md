@@ -138,3 +138,4 @@ https://economictimes.indiatimes.com/wealth/save/set-limits-when-it-comes-to-hel
 - [How to build lifelong passive income](https://freefincal.com/how-to-build-lifelong-passive-income/)
 - [Can I get Rs. one lakh monthly income with Rs. 3 Crores retirement corpus?](https://freefincal.com/can-i-get-rs-one-lakh-monthly-income-with-rs-3-crores-retirement-corpus/)
 - [What is the ideal corpus for retirement in India?](https://freefincal.com/what-is-the-ideal-corpus-for-retirement-in-india/)
+- [How to Safeguard Your Early Retirement Plan from Costly Mistakes](https://freefincal.com/how-to-safeguard-your-early-retirement-plan-from-costly-mistakes/)

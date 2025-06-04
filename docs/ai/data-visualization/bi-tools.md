@@ -103,6 +103,9 @@ Amazon QuickSight is built with "SPICE" -- a Super-fast, Parallel, In-memory Cal
 - Capacity Pricing
 	- Reader Capacity - From $250 - For 500 sessions/month
 - Choose between per user pricing and Capacity pricing
+- Quicksight account started may with 3 users, then on May 8th, 2 new users were created, which means there were 5 users in total
+- Users are charged monthly whether or not you delete the users in the same month, it will still charge for the user until the last day of the month. Meaning, when a user is deleted from the account, billing continues until the last day of the month. For example, a user added on the 1st is deleted on the same day, they are still billed the full $24 since its a monthly user charge
+- 5 users x $24 per user = $120 - so the total $120/31days = $3.87 per day
 
 ## DataIQ
 

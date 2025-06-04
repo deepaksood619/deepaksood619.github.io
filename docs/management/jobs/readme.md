@@ -11,6 +11,7 @@
 ### Future
 
 - Learn the fastest
+- ["Learn to Code" Backfires Spectacularly as Comp-Sci Majors Suddenly Have Sky-High Unemployment](https://futurism.com/computer-science-majors-high-unemployment-rate)
 
 ### Shotgun approach
 

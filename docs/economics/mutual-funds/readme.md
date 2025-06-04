@@ -66,24 +66,17 @@ These transactions typically have short tenors, ranging from overnight to a few 
 
 ## Links
 
-[Avoid these Mutual Fund Categories | ET Money](https://www.youtube.com/watch?v=4IuT2GOFiCI)
-
-- Sectoral and Thematic Funds
-- Small Cap Funds
-- Multi Cap Funds
-- Credit Risk Funds
-- Long Term Gilt Funds and Long Duration Funds
-
-[Solution-Oriented Funds: Should You Use for Investing for Children's Education & Your Retirement? - YouTube](https://www.youtube.com/watch?v=pTPtxE_BkAc)
-
-[Make More from Your SIPs: The Right SIP Frequency, Best SIP Date, and SIP Timing | ET Money - YouTube](https://www.youtube.com/watch?v=OCl-z-IXXEE)
-
-[How do Mutual Funds work? - YouTube](https://www.youtube.com/watch?v=OuYvU5m2rhQ)
-
-[Building a mutual fund portfolio - YouTube](https://www.youtube.com/watch?v=6Zrl3ZeqqsE)
-
-[5 Mutual Funds you must have in your portfolio | Mutual Fund investment - YouTube](https://www.youtube.com/watch?v=QiFo-Bw2dyI)
-
-[Handpicked List of Mutual Funds Oct-Dec 2023 (PlumbLine)](https://freefincal.com/handpicked-list-of-mutual-funds-oct-dec-2023-plumbline/)
-
-[Can I hold Rs. One Crore in a single mutual fund?](https://freefincal.com/can-i-hold-rs-one-crore-in-a-single-mutual-fund/)
+- [Avoid these Mutual Fund Categories | ET Money](https://www.youtube.com/watch?v=4IuT2GOFiCI)
+	- Sectoral and Thematic Funds
+	- Small Cap Funds
+	- Multi Cap Funds
+	- Credit Risk Funds
+	- Long Term Gilt Funds and Long Duration Funds
+- [Solution-Oriented Funds: Should You Use for Investing for Children's Education & Your Retirement? - YouTube](https://www.youtube.com/watch?v=pTPtxE_BkAc)
+- [Make More from Your SIPs: The Right SIP Frequency, Best SIP Date, and SIP Timing | ET Money - YouTube](https://www.youtube.com/watch?v=OCl-z-IXXEE)
+- [How do Mutual Funds work? - YouTube](https://www.youtube.com/watch?v=OuYvU5m2rhQ)
+- [Building a mutual fund portfolio - YouTube](https://www.youtube.com/watch?v=6Zrl3ZeqqsE)
+- [5 Mutual Funds you must have in your portfolio | Mutual Fund investment - YouTube](https://www.youtube.com/watch?v=QiFo-Bw2dyI)
+- [Handpicked List of Mutual Funds Oct-Dec 2023 (PlumbLine)](https://freefincal.com/handpicked-list-of-mutual-funds-oct-dec-2023-plumbline/)
+- [Can I hold Rs. One Crore in a single mutual fund?](https://freefincal.com/can-i-hold-rs-one-crore-in-a-single-mutual-fund/)
+- [What will be maximum loss in a mutual fund investment?](https://freefincal.com/what-will-be-maximum-loss-in-a-mutual-fund-investment/)

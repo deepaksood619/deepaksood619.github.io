@@ -60,3 +60,5 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 - [How to Become a SEBI Registered Investment Adviser in India](https://freefincal.com/how-to-become-a-sebi-registered-investment-adviser-in-india/)
 - [Why Looking Poor is Important](https://youtu.be/XjqUyKFMQCY)
 - [India’s #1 Business Coach Exposes Get-Rich-Quick Lies & Real Success | F...](https://youtu.be/6gU7j1Mehgo)
+- [Why are you recommending small equity exposure even to early retirees?](https://freefincal.com/why-are-you-recommending-small-equity-exposure-even-to-early-retirees/)
+- [Why should I diversify my investment portfolio?](https://freefincal.com/why-should-i-diversify-my-investment-portfolio/)

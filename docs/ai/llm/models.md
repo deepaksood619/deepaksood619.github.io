@@ -77,8 +77,11 @@ Note: You should have at least 8 GB of RAM available to run the 7B models, 16 GB
 - [GitHub - QwenLM/Qwen3: Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.](https://github.com/QwenLM/Qwen3)
 	- [GitHub - QwenLM/Qwen: The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.](https://github.com/QwenLM/Qwen)
 	- [Qwen (Qwen)](https://huggingface.co/Qwen)
+	- Alibaba
 
 #### [DeepSeek](https://www.deepseek.com/)
+
+[unsloth/DeepSeek-R1-0528-Qwen3-8B-GGUF · Hugging Face](https://huggingface.co/unsloth/DeepSeek-R1-0528-Qwen3-8B-GGUF)
 
 ![DeepSeek 1 pager](../../media/Screenshot%202025-02-09%20at%2012.59.23%20AM.jpg)
 

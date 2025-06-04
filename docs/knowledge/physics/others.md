@@ -20,6 +20,10 @@ https://publish.obsidian.md/myquantumwell/Welcome+to+The+Quantum+Well
 
 [A future with quantum biology - with Alexandra Olaya-Castro](https://www.youtube.com/watch?v=rYYHQYx_QvY)
 
+## Space
+
+- [Boötes Void - Wikipedia](https://en.wikipedia.org/wiki/Bo%C3%B6tes_Void)
+
 ## Links
 
 [How To Go Faster Than Light Speed - YouTube](https://www.youtube.com/watch?v=akBpQ-A7mCQ&ab_channel=BeSmart)

@@ -365,6 +365,8 @@ The carry trade is one of the most popular trading strategies in the forex marke
 
 [Is it possible to take a loan from Japan (since they have very low interest rate) and invest in fixed deposit in india? - Quora](https://www.quora.com/Is-it-possible-to-take-a-loan-from-Japan-since-they-have-very-low-interest-rate-and-invest-in-fixed-deposit-in-india)
 
+[The rupee is stronger than most people think!](https://freefincal.com/the-rupee-is-stronger-than-most-people-think/)
+
 ## Others
 
 |                                         |                                                                                                                                                                                                                                                                                                                                                          |

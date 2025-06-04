@@ -328,3 +328,12 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [Avoid These Baby Care Mistakes - Diapers, Rashes & Best Products \| Dr Arpit Gupta \|FO324 Raj Shamani - YouTube](https://youtu.be/yP-fJMqWYCI)
 - [8 Rules of Positive Parenting \| Riri trivedi - YouTube](https://youtu.be/22T-6duM9nI)
 - [This Is Why Your Baby Hates Tummy Time (And How To Fix It) - YouTube](https://www.youtube.com/watch?v=L4j34KDdx0Y)
+- [Parents should teach kids this No. 1 skill 'early,' says psychology expert](https://www.cnbc.com/2025/05/30/psychology-expert-the-no-1-skill-parents-should-teach-kids-as-early-as-possible-to-make-them-successful.html)
+	- You make visualizing success second nature
+	- You develop a sacred relationship with time
+	- You stop running from discomfort
+	- You learn that emotions are designable
+	- You realize boredom is just feedback
+	- You turn being stuck into invention
+	- Your standards rise and stay high
+	- You learn to create for others, not just yourself

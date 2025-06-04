@@ -141,7 +141,7 @@ Finance for Everyone
 
 https://www.edx.org/course/finance-everyone-smart-tools-decision-michiganx-fin101x-1
 
-## Gold / Diamond
+## Gold / Diamond / Gold ETF
 
 - Import duty on gold in India was 15% now it's 6%
 - There is also no customs tax on gold jewelry and ornaments that weigh less than 20 grams and are valued at less than INR 50,000. For ornaments weighing between 20 grams and 100 grams, a flat 10% customs charge is applied to the entire declared value. In addition to basic customs duty, IGST and other taxes may also apply.
@@ -157,6 +157,7 @@ https://www.edx.org/course/finance-everyone-smart-tools-decision-michiganx-fin10
 	- 2010......1KG Gold = Fortuner
 	- 2019.....1KG Gold = BMW X1
 	- 2040....1KG Gold = Private Jet
+- [What you need to know about gold before investing in it](https://freefincal.com/what-you-need-to-know-about-gold-before-investing-in-it/)
 
 ### Dubai Gold
 
@@ -170,6 +171,13 @@ Cubic zirconia is a man-made, lab-created gemstone that resembles a diamond. It 
 [What Is American Diamond Jewellery? | Lara Heems Jewellery](https://www.laraheems.com/blogs/news/what-is-american-diamond-jewellery)
 
 [The Ultimate Guide on American Diamond Aka Cubic Zirconia Jewellery - Tarinika India](https://www.tarinika.in/blogs/news/the-ultimate-guide-on-american-diamond-aliasaka-cubic-zirconia-jewellery)
+
+**Is gemstone also really scarce**
+
+- Emerald
+- Ruby
+- Sapphire
+- Tanzanite
 
 ### Soverign Gold Bond (SGB)
 

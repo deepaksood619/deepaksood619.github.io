@@ -155,6 +155,7 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [**SymbolicAI**](https://github.com/Xpitfire/symbolicai) - Compositional Differentiable Programming Library.
 - [GitHub - ComposioHQ/composio: Composio equips agents with well-crafted tools empowering them to tackle complex tasks](https://github.com/ComposioHQ/composio/)
     - [Overview - Composio](https://docs.composio.dev/introduction/intro/overview)
+    - [Composio - Access 250+ Apps in Just One Line of Code - Composio](https://composio.dev/)
 
 ### Memory
 
@@ -250,6 +251,8 @@ Traditional RAG approaches often rely on batch processing and static data summar
 	- [Langfuse](https://langfuse.com/)
 - [Adaline - Iterate, evaluate, deploy, and monitor prompts](https://www.adaline.ai/)
 - [LangSmith](https://www.langchain.com/langsmith)
+- [Galileo AI: The Generative AI Evaluation Company](https://galileo.ai/)
+- [Helicone / LLM-Observability for Developers](https://www.helicone.ai/)
 
 ### Multimodal AI Tools
 

@@ -268,6 +268,7 @@ https://www.gigsmedia.in
 - [Pricing | Mailjet](https://www.mailjet.com/pricing/)
 - SendGrid
 - [Ecommerce Email Marketing and SMS Platform \| Omnisend](https://www.omnisend.com/)
+- [Postmark: Fast, Reliable Email Delivery Service \| SMTP \| API](https://postmarkapp.com/)
 
 ### [Resend](https://resend.com/home)
 
