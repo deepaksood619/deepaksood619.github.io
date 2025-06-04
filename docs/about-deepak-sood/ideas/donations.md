@@ -1,6 +1,6 @@
 # Donations
 
-### Altruism / Compassion
+## Altruism / Compassion
 
 Spend money while feeling good
 
@@ -32,7 +32,7 @@ Donor - finds a person and donate the required item or buy for him/her
 
 [Nudging to donate organs: do what you like or like what we do? | Medicine, Health Care and Philosophy](https://link.springer.com/article/10.1007/s11019-021-10007-6)
 
-### Effective Altruism
+## Effective Altruism
 
 When you become rich don't increase your standard of living, increase your standard of giving.
 
@@ -52,7 +52,7 @@ At its core, EA looked at 3 key things.
 
 The key problem is funding cannibalism. That $3 million in donations doesn’t appear out of a vacuum. Because people on average are limited in how much they’re willing to donate to good causes, if someone donates $100 to the ALS Association, he or she will likely donate less to other charities."
 
-https://en.wikipedia.org/wiki/Effective_altruism
+[Effective altruism - Wikipedia](https://en.wikipedia.org/wiki/Effective_altruism)
 
 [What is effective altruism? Philosopher Peter Singer explains. - YouTube](https://youtu.be/TdXKak-k6zw?si=0hkt0vT381d84_MK)
 

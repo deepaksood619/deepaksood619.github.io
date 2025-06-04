@@ -43,6 +43,7 @@ https://www.toptal.com/aws/typescript-jest-aws-sam-tutorial
 
 ## References
 
+- [**Serverless Land**](https://serverlessland.com/)
 - https://cloudplatform.googleblog.com/2018/04/Cloud-native-architecture-with-serverless-microservices-the-Smart-Parking-story.html
 - SE Radio - 320: Serverless Applications - Kishore Bhatia with Nate Taggart
 - https://www.freecodecamp.org/news/complete-back-end-system-with-serverless

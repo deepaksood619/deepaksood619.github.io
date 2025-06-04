@@ -33,8 +33,6 @@ At its core, MCP follows a client-server architecture where a host application c
 
 ## How MCP Works
 
-![how-mcp-works](../../media/Screenshot%202025-06-01%20at%201.07.13%20PM.jpg)
-
 ```mermaid
 sequenceDiagram
       participant User as User
@@ -146,6 +144,7 @@ Knowledge Graph Memory Server - [servers/src/memory at main · modelcontextproto
 - [servers/src/sequentialthinking at main · modelcontextprotocol/servers · GitHub](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking)
 	- tell me in 1 sentence about me, that I don't know myself. think deeply before giving answer
 - [servers/src/everything at main · modelcontextprotocol/servers · GitHub](https://github.com/modelcontextprotocol/servers/tree/main/src/everything)
+- [GitHub - airweave-ai/airweave: Airweave lets agents search any app](https://github.com/airweave-ai/airweave) 2.5K stars
 
 ## Resources
 
@@ -157,6 +156,13 @@ Knowledge Graph Memory Server - [servers/src/memory at main · modelcontextproto
 - [GitHub - wong2/awesome-mcp-servers: A curated list of Model Context Protocol (MCP) servers](https://github.com/wong2/awesome-mcp-servers)
 - Tools - [Inspector - Model Context Protocol](https://modelcontextprotocol.io/docs/tools/inspector)
 	- The [MCP Inspector](https://github.com/modelcontextprotocol/inspector) is an interactive developer tool for testing and debugging MCP servers. While the [Debugging Guide](https://modelcontextprotocol.io/docs/tools/debugging) covers the Inspector as part of the overall debugging toolkit, this document provides a detailed exploration of the Inspector’s features and capabilities.
+- [GitHub - mcp-ecosystem/mcp-gateway: 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications.](https://github.com/mcp-ecosystem/mcp-gateway)
+	- **MCP Gateway** is a lightweight and highly available gateway service written in Go. It enables individuals and organizations to convert their existing MCP Servers and APIs into services compliant with the [MCP Protocol](https://modelcontextprotocol.io/) — all through configuration, with **zero code changes**.
+	- [GitHub - lasso-security/mcp-gateway: A plugin-based gateway that orchestrates other MCPs and allows developers to build upon it enterprise-grade agents.](https://github.com/lasso-security/mcp-gateway)
+
+## Others
+
+- [Announcing the Agent2Agent Protocol (A2A) - Google Developers Blog](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
 
 ## Links
 

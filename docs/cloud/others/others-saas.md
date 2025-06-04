@@ -129,6 +129,8 @@ Automatically add new Google Workspace users to a specific group. This ensures t
 5. **Add all users:** Check the box that says "Add all current and future users of our organization to the group with all email settings".
 6. **Confirm:** Click "Add to Group".
 
+[Logging in Outlook Account on Chrome Profile - Google Chrome Community](https://support.google.com/chrome/thread/153714697/logging-in-outlook-account-on-chrome-profile?hl=en)
+
 ### Plus Addressing
 
 Gmail's "plus addressing" feature **lets you create multiple email address variations within your main account without needing new accounts or aliases**. You can simply append a "+" and any characters to your username before the "@gmail.com" address, and Gmail will deliver all emails to your inbox. This is useful for organizing, tracking, and filtering emails.

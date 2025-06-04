@@ -20,6 +20,10 @@ You can also explicitly cast between many types:
 
 [SQL data type rules | Databricks on AWS](https://docs.databricks.com/sql/language-manual/sql-ref-datatype-rules.html)
 
+### Varchar vs NVarchar
+
+The key difference between VARCHAR and NVARCHAR lies in their character encoding and how they handle different languages and characters. VARCHAR uses a **single-byte character set**, typically ASCII, and is best suited for data primarily in English or similar languages. NVARCHAR, on the other hand, uses **Unicode** (typically UTF-16) and can store characters from multiple languages and scripts.
+
 ## SQL Data Types
 
 [Data types | Databricks on AWS](https://docs.databricks.com/sql/language-manual/sql-ref-datatypes.html)

@@ -219,3 +219,7 @@ It is 5% of the remittance amount above INR 7 Lakhs. From October 1, 2023 onward
 - [A question to people using Foreign Inward Remittance : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/x9n0j7/a_question_to_people_using_foreign_inward/)
 - [Which bank is best for outward remittance in India : r/personalfinanceindia](https://www.reddit.com/r/personalfinanceindia/comments/1hsl3s7/which_bank_is_best_for_outward_remittance_in_india/)
 - [Cost effective outward remittance : r/nri](https://www.reddit.com/r/nri/comments/19auaen/cost_effective_outward_remittance/)
+
+## Links
+
+- [Hidden clause in US budget bill could shatter investor confidence; foreign tax on investors proposed - Investing Abroad News \| The Financial Express](https://www.financialexpress.com/business/investing-abroad-trumps-budget-bill-proposes-foreign-tax-on-investors-in-american-equities-and-corporate-bonds-3862995/#google_vignette)

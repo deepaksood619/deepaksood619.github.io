@@ -77,7 +77,7 @@ You can also ask me questions about your editor selection by starting an inline 
 - [AI Code Generation | Google Cloud](https://cloud.google.com/use-cases/ai-code-generation?hl=en)
 - [Galileo AI · Copilot for interface design](https://www.usegalileo.ai/)
 - [Cursor - The AI-first Code Editor](https://www.cursor.com/)
-- [Title Unavailable \| Site Unreachable](https://codeium.com/)
+- [Windsurf Editor](https://windsurf.com/)
 
 ## Links
 

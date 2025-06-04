@@ -150,6 +150,7 @@ Both Apache Atlas and DataHub are open-source data catalog platforms designed to
 - Apache Atlas
 - [The Data Catalog Platform \| data.world](https://data.world/)
 - GCP DataPlex
+- [Microsoft Purview Data Governance \| Microsoft Security](https://www.microsoft.com/en-us/security/business/risk-management/microsoft-purview-data-governance)
 
 ## Links
 

@@ -14,7 +14,7 @@ Here are the benefits of debt mutual funds over bank fixed deposits, company fix
 - Unlike fixed deposits, in debt funds, you pay tax only when you withdraw. Because of the deferred tax, all the gains in debt funds are available for compounding. The impact of this over 15 years is huge if debt funds generate the same return as bank fixed deposit interest rates.
 - Debt funds provide better diversification and reduce single-entity risk in the portfolio.
 
-## Debt Funds / Income Funds / Bond Funds
+## Debt Funds / Income Funds / Bond Funds / Liquid Funds
 
 - Quantum Liquid Fund + ICICI Arbitrage Fund
 
@@ -88,6 +88,8 @@ https://freefincal.com/are-debt-mutual-funds-an-alternative-to-fixed-deposits
 - **Axis liquid fund direct growth** - (0.15%, Fund size - 33183.3 Cr, Good returns)
 - Quantum liquid fund
 
+[Can equity investors earn more by parking unused funds in liquid ETFs instead of bank account when trading? - The Economic Times](https://economictimes.indiatimes.com/wealth/invest/can-equity-investors-earn-more-by-parking-unused-funds-in-liquid-etfs-instead-of-bank-account-when-trading/can-equity-investors-earn-more-by-parking-unused-funds-in-liquid-etfs-instead-of-bank-account-when-trading/articleshow/121530308.cms)
+
 ## Gilt funds
 
 Gilt funds are debt funds that invest in government securities. The government bonds used to be issued in golden-edged certificates. The nickname gilt comes from gilded edge certificates. As per Sebi norms, gilt funds have the mandate to invest at least 80% of their assets in government securities.
@@ -134,7 +136,11 @@ It is a credible and tax-efficient* alternative to certain fixed income instrume
 
 According to the CEO, this fund may be "ideal" for those desiring debt allocation with indexation benefits and those who avoid actively trading in debt securities.
 
-Taxation - 12.5% since it's equity is maintained at a minimum of 35%
+#### Taxation
+
+If the mutual fund units are sold after 2 years from the date of investment, gains are taxed at the rate of 12.5%. If the mutual fund units are sold within 2 years from the date of investment, entire amount of gain is added to the investors' income and taxed according to the applicable slab rate.
+
+#### Links
 
 - [Webinar to discuss the NFO of Parag Parikh Dynamic Asset Allocation Fund - YouTube](https://www.youtube.com/watch?v=iCVFUX9QUoc&ab_channel=PPFASMutualFund)
 - [How does Parag Parikh Dynamic Asset Allocation Fund (PPDAAF) provide indexation benefit? CEO explains - The 1% News](https://news.onepercentclub.io/invest/how-does-parag-parikh-dynamic-asset-allocation-fund-ppdaaf-provide-indexation-benefit-ceo-explains/1064/)
@@ -142,11 +148,17 @@ Taxation - 12.5% since it's equity is maintained at a minimum of 35%
 - [Parag Parikh Dynamic Asset Allocation Fund vs Parag Parikh Conservative Hybrid Fund](https://freefincal.com/parag-parikh-dynamic-asset-allocation-fund-vs-parag-parikh-conservative-hybrid-fund/)
 - [Parag Parikh Dynamic Asset Allocation Fund \| EXPLAINED by Neil Parag Parikh - YouTube](https://www.youtube.com/watch?v=G1fJWTO6Dbw&ab_channel=PPFASMutualFund)
 
-## Debt Funds vs FD
+## Debt Funds vs Fixed Deposit (FD)
 
 [Fixed Deposits vs. Debt Mutual Funds: Which is Better?](https://www.wintwealth.com/fixed-deposit/fd-vs-debt-mutual-funds/)
 
 [Debt Fund - Tax Structure](http://youtube.com/post/UgkxOi75odXn_Z6KO6SzMzK6FwkYF38zVdJm?si=I4DdDxYuKa4ywmnY)
+
+### What is FD Laddering?
+
+FD laddering means splitting your money into multiple FDs with staggered maturity dates - like 6 months, 1.5 years and 3 years. This ensures regular liquidity while earning higher returns, and helps you reinvest at better rates over time.
+
+This way, a portion of your money becomes available at regular intervals, giving you access to funds without needing to break your FD.
 
 ## Links
 

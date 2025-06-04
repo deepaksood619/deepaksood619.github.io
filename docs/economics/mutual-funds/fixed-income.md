@@ -142,6 +142,13 @@ Mis (Monthly Income Scheme) - Limit 9 lakh
 
 [Ep 2 - Kisan Vikas Patra (8 Features) | Who should Invest? | Investing in Govt Schemes in Hindi - YouTube](https://www.youtube.com/watch?v=W2ATVuiZ04w&ab_channel=ZerodhaVarsity)
 
+## Small Finance Banks FD
+
+- [What are your thoughts on small finance Bank's FD and savings A/c offering are they good ? : r/IndiaInvestments](https://www.reddit.com/r/IndiaInvestments/comments/1cu6br0/what_are_your_thoughts_on_small_finance_banks_fd/)
+- [Worried about safety of your fixed deposit in a small finance bank? Here are the 11 ways to check how safe the bank is](https://economictimes.indiatimes.com/wealth/invest/worried-about-safety-of-your-fixed-deposit-in-a-small-finance-bank-heres-the-11-ways-to-check-how-safe-the-bank-is/articleshow/99508273.cms?from=mdr)
+- [Are fixed deposits in small finance banks safe and free from risks? - Quora](https://www.quora.com/Are-fixed-deposits-in-small-finance-banks-safe-and-free-from-risks)
+- [Should you invest in fixed deposits of small finance banks promising over 9% returns? \| Mint](https://www.livemint.com/money/personal-finance/should-you-invest-in-fixed-deposits-of-small-finance-banks-promising-over-9-returns-11684319544046.html)
+
 ## Bajaj Finance FD / Bajaj Finserv FD
 
 [FD interest rates up to 8.65% p.a. | Highest safety ratings | Bajaj Finance Fixed Deposit](https://www.bajajfinserv.in/investments/fixed-deposit-application-form)
