@@ -169,6 +169,7 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [GitHub - topoteretes/cognee: Memory for AI Agents in 5 lines of code](https://github.com/topoteretes/cognee)
 	- [Cognee Documentation - Introduction](https://docs.cognee.ai/)
 - [Graphlit: Knowledge API Platform](https://www.graphlit.com/)
+- [GitHub - Olow304/memvid: Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.](https://github.com/Olow304/memvid)
 
 ### LLM App Building
 
@@ -253,6 +254,7 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [LangSmith](https://www.langchain.com/langsmith)
 - [Galileo AI: The Generative AI Evaluation Company](https://galileo.ai/)
 - [Helicone / LLM-Observability for Developers](https://www.helicone.ai/)
+- [GitHub - confident-ai/deepteam: The LLM Red Teaming Framework](https://github.com/confident-ai/deepteam)
 
 ### Multimodal AI Tools
 

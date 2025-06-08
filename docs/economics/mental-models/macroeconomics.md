@@ -198,5 +198,6 @@ The trilemma suggests that achieving all three of these goals simultaneously is 
 - [Fed up with Fed Talk: Central Banking Fairy Tales and Facts! - YouTube](https://www.youtube.com/watch?v=RpuuRS6mkx8&ab_channel=AswathDamodaran)
 - [‘Capitalism Without Capital’ Finds Strength in India - Marcellus](https://marcellus.in/blogs/capitalism-without-capital-finds-strength-in-india/)
 - [A Beautiful Deleveraging with Chinese Characteristics?](https://www.linkedin.com/pulse/beautiful-deleveraging-chinese-characteristics-ray-dalio-d7aue/)
+- [How Countries Go Broke: The Big Cycle In a 5-Minute Read](https://www.linkedin.com/pulse/how-countries-go-broke-big-cycle-tiny-nutshell-ray-dalio-flnce/)
 
 ## End

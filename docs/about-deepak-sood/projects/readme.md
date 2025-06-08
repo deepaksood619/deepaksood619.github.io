@@ -29,6 +29,7 @@
 - [Mozark - Cloud Cost Optimization and Performance Enhancement](about-deepak-sood/projects/53-mozark-cloud-cost-optimization.md)
 - [GenAI ChatBot using Bedrock](about-deepak-sood/projects/37-genai-chatbot-using-bedrock.md)
 - [AWS Hands-on Amazon Q Workshop](about-deepak-sood/projects/35-aws-hands-on-amazon-q-workshop.md)
+- [Ecommerce Scalable Modern Data Stack](about-deepak-sood/projects/32-ecommerce-scalable-modern-data-stack.md)
 
 #### Account Management / Sales
 

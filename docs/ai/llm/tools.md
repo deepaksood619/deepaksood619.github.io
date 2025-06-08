@@ -133,6 +133,10 @@
 - [Second Brain Labs \| Automating Sales, Surveys, Support, and Lead Qualification for Businesses, with efficiency.](https://secondbrainlabs.com/)
 - [Docket \| AI Agents for Web Testing](https://www.docketqa.com/)
 - [xpander.ai \| Build Better AI Agents](https://xpander.ai/)
+- [Manus AI](https://manus.im/guest)
+	- [Manus AI Made My Lit Review 10x Faster — Here’s the Trick - YouTube](https://www.youtube.com/watch?v=NDswjJMHqXI&ab_channel=AndyStapleton)
+	- [GitHub - Fosowl/agenticSeek: Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake.](https://github.com/Fosowl/agenticSeek)
+- [Double Support Engineering Productivity \| AI Support Engineer \| RunLLM](https://www.runllm.com/)
 
 ## Purpose-built accelerators for generative AI
 

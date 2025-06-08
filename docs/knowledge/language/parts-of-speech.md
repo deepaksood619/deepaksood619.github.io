@@ -16,6 +16,24 @@ However, there are also linking verbs, and these types of verbs do not express a
 
 Verbs often change their form as different endings are added to them. These endings are changed to show a verb's relationship to time. This is referred to as verb tense.
 
+### Intransitive Verb
+
+An **intransitive verb** is a verb that **does not require a direct object** to complete its meaning.
+
+- It expresses an action or state that **does not transfer to an object**.
+- The action stays with the subject.
+
+**Example:**
+
+- She **runs**. (No object needed)
+- They **arrived** late.
+- The cat sleeps on the sofa.
+	- 'Sleeps' is an intransitive verb here because it does not take a direct object; the phrase 'on the sofa' is a prepositional phrase, not a direct object.
+- Consider the verb 'jump' in these two sentences: "**He jumps high.**" and "**He jumps the fence**." What distinguishes the use of 'jump' as an intransitive verb from its transitive use?
+	- The verb **"jump"** can function as both intransitive and transitive depending on its use. In the sentence **"He jumps high,"** it is **intransitive** because there is no direct object; the word _"high"_ simply describes how he jumps and is an adverb. In contrast, in **"He jumps the fence,"** it is **transitive** because _"the fence"_ acts as the **direct object** receiving the action—it's what he jumps over. The key difference lies in whether or not the verb is followed by a direct object.
+
+[Intransitive verb - Wikipedia](https://en.wikipedia.org/wiki/Intransitive_verb)
+
 ## Infinitive
 
 An infinitive is the most basic form of a verb. In English, inifinitives are usually used with "to" (for example, "to shout", or "to whisper").
@@ -32,7 +50,7 @@ An adjective modifies (limits or describes) a noun or a pronoun. Essentially, it
 
 Similar to adjectives, an adverb modifies a verb, an adjective, or another adverb. In the sentenceSusan walked slowly towards the door, the wordslowlyserves as an adverb since it describes how she walked.
 
-A word or phrase that modifies or qualifies an adjective, verb, or other adverb or a word group, expressing a relation of place, time, circumstance, manner, cause, degree, etc. (e.g.,*gently*,*quite*,*then*,*there*).
+A word or phrase that modifies or qualifies an adjective, verb, or other adverb or a word group, expressing a relation of place, time, circumstance, manner, cause, degree, etc. (e.g.,_gently_,_quite_,_then_,_there_).
 
 An adverb is a word that is used to change, modify or qualify several types of words including an [adjective](http://www.gingersoftware.com/content/grammar-rules/adjectives/), a [verb](http://www.gingersoftware.com/content/grammar-rules/verbs/), a [clause](http://www.gingersoftware.com/content/grammar-rules/adverb/adverb-clauses/), another [adverb](http://www.gingersoftware.com/content/grammar-rules/adverb/), or any other type of word or phrase, with the exception of determiners and adjectives, that directly modify nouns. A good way to understand adverbs is to think about them as the words that provide context. Specifically, adverbs provide a description of how, where, when, in what manner and to what extent something is done or happens. Normally, we can spot an adverb by the fact that it often ends in --ly, but there are lots of adverbs that don't end in this way. Moreover, adverbs can be used in many combinations with each other.
 

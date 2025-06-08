@@ -54,11 +54,12 @@ docker-compose --version
 ### Deploy code to EC2
 
 ```bash
+chmod +x /home/ubuntu/deploy.sh
 */5 * * * * /home/ubuntu/deploy.sh
 
 */5 * * * * /home/ubuntu/deploy.sh >> /var/log/deploy.log 2>&1
 
-touch /var/log/deploy.log
+sudo touch /var/log/deploy.log
 sudo chmod +777 /var/log/deploy.log
 ```
 
@@ -85,7 +86,10 @@ if [ -n "$NEW_COMMITS" ]; then
 else
   # If there are no changes, do nothing
   echo "$(date '+%Y-%m-%d %H:%M:%S') - No changes in Git repository."
+fi
 ```
+
+`chmod +x /home/ubuntu/deploy.sh`
 
 ## Amazon EC2 Auto Scaling Group (ASG)
 

@@ -128,6 +128,10 @@ After you promote the read replica, it ceases to function as a read replica and 
 - You can create read replicas from the standalone DB instance and perform point-in-time restore operations.
 - You can't use the DB instance as a replication target because it is no longer a read replica.
 
+## Configuration
+
+- Allow inbound access in default security group after public access too of database to be reachable from other places
+
 ## Links
 
 - [High Availability (HA)](databases/sql-databases/aws-aurora/high-availability-ha.md)

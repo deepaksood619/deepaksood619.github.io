@@ -158,6 +158,7 @@ https://www.youtube.com/playlist?list=PLM7R3YrvpbZxURPwjgfi8C7PGi3FYWcI6
 - [Reflexology](https://en.wikipedia.org/wiki/Reflexology)
 - [Rolfing](https://en.wikipedia.org/wiki/Rolfing)
 - [Scientific racism](https://en.wikipedia.org/wiki/Scientific_racism)
+- [Siddha medicine - Wikipedia](https://en.wikipedia.org/wiki/Siddha_medicine)
 - [ThetaHealing](https://en.wikipedia.org/wiki/ThetaHealing)
 - [Thought Field Therapy](https://en.wikipedia.org/wiki/Thought_Field_Therapy)
 - [Urophagia](https://en.wikipedia.org/wiki/Urophagia)
@@ -167,9 +168,9 @@ https://www.youtube.com/playlist?list=PLM7R3YrvpbZxURPwjgfi8C7PGi3FYWcI6
 - [Young blood transfusion](https://en.wikipedia.org/wiki/Young_blood_transfusion)
 - [Zero balancing](https://en.wikipedia.org/wiki/Zero_balancing)
 
-https://en.wikipedia.org/wiki/Alternative_medicine
+[Alternative medicine - Wikipedia](https://en.wikipedia.org/wiki/Alternative_medicine)
 
-https://en.wikipedia.org/wiki/Urine_therapy
+[Urine therapy - Wikipedia](https://en.wikipedia.org/wiki/Urine_therapy)
 
 [Geomancy - Wikipedia](https://en.wikipedia.org/wiki/Geomancy)
 

@@ -145,6 +145,7 @@ Knowledge Graph Memory Server - [servers/src/memory at main · modelcontextproto
 	- tell me in 1 sentence about me, that I don't know myself. think deeply before giving answer
 - [servers/src/everything at main · modelcontextprotocol/servers · GitHub](https://github.com/modelcontextprotocol/servers/tree/main/src/everything)
 - [GitHub - airweave-ai/airweave: Airweave lets agents search any app](https://github.com/airweave-ai/airweave) 2.5K stars
+- [5 Powerful MCP Servers](https://aiengineering.beehiiv.com/p/5-powerful-mcp-servers)
 
 ## Resources
 
