@@ -248,6 +248,7 @@ https://fintechnews.sg/62502/fintech-india/updated-top-30-open-banking-influence
 
 - Finbox - https://finbox.in
 - https://sahamati.org.in
+- [Alltius - Agentic AI platform for financial services](https://www.alltius.ai/)
 
 ## Conferences
 

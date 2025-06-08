@@ -165,7 +165,7 @@ This way, a portion of your money becomes available at regular intervals, giving
 - Stable Money (Stablemoney)
 - https://www.thefixedincome.com
 - https://www.bharatbond.in
-- grip invest
+- [Grip Invest: Buy Bonds & FDs](https://www.gripinvest.in/)
 - https://zerodha.com/varsity/chapter/the-debt-funds-part-1
 - https://zerodha.com/varsity/chapter/government-securities
 - [Getting started with debt mutual funds - YouTube](https://www.youtube.com/watch?v=7jLip-C8SQs)
@@ -175,3 +175,4 @@ This way, a portion of your money becomes available at regular intervals, giving
 - [Should I pay tax as per slab if my fund’s equity holdings drop to 35% for one month?](https://freefincal.com/should-i-pay-tax-as-per-slab-if-my-funds-equity-holdings-drop-to-35-for-one-month/)
 - [An introduction to debt mutual funds for new investors](https://freefincal.com/an-introduction-to-debt-mutual-funds-for-new-investors/)
 - [Should you invest in debt funds as interest rate cut inches closer? | Simply Save](https://www.moneycontrol.com/news/business/personal-finance/should-you-invest-in-debt-funds-as-interest-rate-cut-inches-closer-simply-save-12814406.html)
+- [New Category: Tax Efficient Debt Funds - YouTube](https://www.youtube.com/watch?v=0m6IKieJ8dY&ab_channel=YadnyaInvestmentAcademy)

@@ -84,11 +84,10 @@ Our bodies change our minds, and our minds change our behavior, and our behavior
 
 The Diderot Effect states that obtaining a new possession often creates a spiral of consumption which leads you to acquire more new things. As a result, we end up buying things that our previous selves never needed to feel happy or fulfilled.
 
-https://en.wikipedia.org/wiki/Diderot_effect
-
-https://jamesclear.com/diderot-effect
-
-[Why new things make us sad - BBC REEL](https://youtu.be/hUNxBSiV4ZY)
+- [Diderot effect - Wikipedia](https://en.wikipedia.org/wiki/Diderot_effect)
+- [The Diderot Effect: Why We Want Things We Don’t Need](https://jamesclear.com/diderot-effect)
+- [Why new things make us sad - BBC REEL](https://youtu.be/hUNxBSiV4ZY)
+- [Why Looking Poor Is Important: The Psychology of Wealth in Disguise \| YourStory](https://yourstory.com/2025/05/looking-poor-important-psychology-wealth-disguise)
 
 ## Let go of wanting things
 

@@ -37,14 +37,18 @@ print(i, soup.body.div.div)
 - [slimerjs](http://slimerjs.org/)
 - [puppeteer](https://github.com/GoogleChrome/puppeteer)
 
+## Proxies
+
+- [Best Web Scraping Toolkit - ZenRows](https://www.zenrows.com/)
+- [Bright Data - All in One Platform for Proxies and Web Scraping](https://brightdata.com/)
+
 ## Links
 
-https://www.toptal.com/python/web-scraping-with-python
-
-https://www.freecodecamp.org/news/how-to-scrape-websites-with-python
+- https://www.toptal.com/python/web-scraping-with-python
+- https://www.freecodecamp.org/news/how-to-scrape-websites-with-python
 
 ## AI Tools
 
-[Scrape and Monitor Data from Any Website with No Code](https://www.browse.ai/)
-
-[GitHub - laramies/theHarvester: E-mails, subdomains and names Harvester - OSINT](https://github.com/laramies/theHarvester)
+- [Scrape and Monitor Data from Any Website with No Code](https://www.browse.ai/)
+- [GitHub - laramies/theHarvester: E-mails, subdomains and names Harvester - OSINT](https://github.com/laramies/theHarvester)
+- [GitHub - unclecode/crawl4ai: 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN](https://github.com/unclecode/crawl4ai)

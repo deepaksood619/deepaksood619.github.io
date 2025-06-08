@@ -129,7 +129,7 @@ With homogeneous data migrations, you pay by the hour only for the duration of t
 - You can run homogeneous data migrations in the following three migration modes: full load, ongoing replication, and full load with ongoing replication.
 - For homogeneous data migrations, you can use on-premises, Amazon EC2, Amazon RDS databases as a source. You can choose Amazon RDS or Amazon Aurora as a migration target for homogeneous data migrations.
 
-## Limitations for homogeneous data migrations
+### Limitations for homogeneous data migrations
 
 The following limitations apply when you use homogeneous data migrations:
 
@@ -152,6 +152,8 @@ The following limitations apply when you use homogeneous data migrations:
 [Enhanced homogeneous migration capabilities with AWS Database Migration Services- AWS Database in 15 - YouTube](https://www.youtube.com/watch?v=aQ8idU-1nXk&ab_channel=AWSDevelopers)
 
 [Migrating your PostgreSQL database to Amazon RDS for PostgreSQL with AWS Database Migration Service - YouTube](https://www.youtube.com/watch?v=HOJfrR6lcuU&ab_channel=AmazonWebServices)
+
+[Migration with native database tools and AWS DMS - AWS Prescriptive Guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-database-rehost-tools/dms.html)
 
 ## Best Practices
 

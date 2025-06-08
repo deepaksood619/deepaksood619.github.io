@@ -78,6 +78,8 @@ Always tell stories, most visual stories are the best, and simple
     - [AhaSlides - The Joy of Engagement](https://ahaslides.com/)
     - [Claper - The ultimate tool to interact with your audience](https://claper.co/)
         - [GitHub - ClaperCo/Claper: The ultimate tool to interact with your audience](https://github.com/ClaperCo/Claper)
+    - [Menti - Mentimeter - Interactive presentation software](https://www.mentimeter.com/)
+    - [Kahoot! \| Learning games \| Make learning awesome!](https://kahoot.com/)
 
 ### Presentation Templates
 
