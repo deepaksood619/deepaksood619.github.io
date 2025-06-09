@@ -165,8 +165,14 @@ An ETF is called an exchange-traded fund since it's traded on an exchange just l
 
 - NiftyBEES
 - JuniorBEES
+
+### International ETFs
+
 - Mon100
 - [How To Cash In On China & Hong Kong’s Market Surge I Investing In China Market - YouTube](https://www.youtube.com/watch?v=n0JbMoqoqN8&ab_channel=NDTVProfit)
+- [How to use fund of funds (FOFs) to your advantage \| 5 ways they can help you - YouTube](https://www.youtube.com/watch?v=EN7MnViCUBA&ab_channel=ETMoney)
+
+![Top International FoFs open for subscription](../../media/Screenshot%202025-06-09%20at%2011.38.44%20PM.jpg)
 
 ## Gold ETFs
 

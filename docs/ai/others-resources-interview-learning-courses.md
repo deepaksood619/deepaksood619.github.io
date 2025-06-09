@@ -21,6 +21,9 @@
 - [Jay Alammar – Visualizing machine learning one concept at a time.](https://jalammar.github.io/)
 - [GitHub - microsoft/ai-agents-for-beginners: 10 Lessons to Get Started Building AI Agents](https://github.com/microsoft/ai-agents-for-beginners)
 - [The Generative AI Learning Roadmap](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxYe_AFXQm1B_7bLZ6iVzwr02YTsRbQHx6)
+- [GitHub - HandsOnLLM/Hands-On-Large-Language-Models: Official code repo for the O'Reilly Book - "Hands-On Large Language Models"](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+- [Research papers for software engineers to transition to AI Engineering. - YouTube](http://youtube.com/post/UgkxzWqAeGgNwoB2qbqEDCsJwp_nOsK0C3qZ)
+- [Generative AI Bootcamp – Complete 65-Hour Course - YouTube](https://youtu.be/DOXJ7s1D6iE)
 
 ## AI (Artificial Intelligence) + ML (Machine Learning)
 
@@ -45,6 +48,7 @@
 - [AWS Certified AI Practitioner (AIF-C01) – Full Course to PASS the Certification Exam - YouTube](https://www.youtube.com/watch?v=WZeZZ8_W-M4)
 - [Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)
 - [GitHub - microsoft/ML-For-Beginners: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all](https://github.com/microsoft/ML-For-Beginners) 72.5K stars
+- [GitHub - GokuMohandas/Made-With-ML: Learn how to design, develop, deploy and iterate on production-grade ML applications.](https://github.com/GokuMohandas/Made-With-ML)
 
 ## DS (Data Science) + DA (Data Analytics) + DE (Data Engineering)
 

@@ -83,6 +83,8 @@ If certain data points are missing for a school, mention "**Information Not Avai
 
 [Cfore Rankings \| India’s most credible school ranking.](https://cforerankings.com/)
 
+- [Cfore Rankings 2024: Top 10 co-ed schools in Noida to look out for](https://timesofindia.indiatimes.com/education/news/cfore-rankings-2024-top-10-co-ed-schools-in-noida-to-look-out-for/articleshow/114493256.cms)
+
 [Best Schools in Noida 2025 - Govt, Private, Fees and Admission Process](https://school.careers360.com/schools/schools-in-noida)
 
 1. Amity Global School
@@ -128,7 +130,10 @@ If certain data points are missing for a school, mention "**Information Not Avai
 
 ### Links
 
-[Which is the best school in Noida 2024? - Quora](https://www.quora.com/Which-is-the-best-school-in-Noida-2024)
+- [Which is the best school in Noida 2024? - Quora](https://www.quora.com/Which-is-the-best-school-in-Noida-2024)
+- [My Honest Review on DPS Noida, DPS Noida Sector 30, DPS School Noida. - YouTube](https://youtu.be/Rcn1C65EIAM)
+- [Top 10 Schools Of Noida 🏫 🎒📚 // Best Schools 🤩🤩 //Luxurious school 🥳😍 // #top10 #noida #schooltime - YouTube](https://youtu.be/QziXLvRGnjw)
+- [School Admission Process, Best Schools in Noida, DPS Noida, Best Schools in Delhi NCR, Top Schools. - YouTube](https://youtu.be/B9cv5-d4SvU)
 
 ## Board
 

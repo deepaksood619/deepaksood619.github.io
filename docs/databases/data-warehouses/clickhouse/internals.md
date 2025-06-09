@@ -6,7 +6,11 @@
 
 ["Building for Fast" by Alexey Milovidov, Amsterdam, June 2022 - YouTube](https://www.youtube.com/watch?v=CAS2otEoerM&ab_channel=ClickHouse)
 
-[Why is ClickHouse so fast? | ClickHouse Docs](https://clickhouse.com/docs/en/concepts/why-clickhouse-is-so-fast)
+[**Why is ClickHouse so fast? | ClickHouse Docs**](https://clickhouse.com/docs/en/concepts/why-clickhouse-is-so-fast)
+
+- [Why is ClickHouse fast? - YouTube](https://www.youtube.com/playlist?list=PL0Z2YDlm0b3h6OKKbWVtZK3Ee6695ipEv)
+
+[Distinctive Features of ClickHouse \| ClickHouse Docs](https://clickhouse.com/docs/about-us/distinctive-features)
 
 ## Sharding vs Replication
 

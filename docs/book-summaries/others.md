@@ -36,6 +36,7 @@
 - [Feeling stuck? Read this book: TINY EXPERIMENTS by Anne-Laure Le Cunff |...](https://youtu.be/TEdB6kQRNtA)
 - [5 Steps to Achieve Deep Focus (On Demand)](https://youtu.be/gVG8l80fDbk)
 - [GOOD ENERGY by Dr. Casey Means MD | Core Summary](https://youtu.be/7XyQf6KWni8)
+- [Take Control of Your Time: 5 Vital Time Management Habits - YouTube](https://youtu.be/M2WCN_RMPLw)
 
 ### [Learn to lead: THE 21 IRREFUTABLE LAWS OF LEADERSHIP by John Maxwell | Core Message - YouTube](https://www.youtube.com/watch?v=QQhdiktL99w)
 

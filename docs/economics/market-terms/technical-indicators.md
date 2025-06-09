@@ -2,6 +2,8 @@
 
 ### Relative strength index (RSI) (14)
 
+[You’re Using RSI WRONG!! (How to Trade Smarter) - YouTube](https://www.youtube.com/watch?v=EYfeYAZzC-w&ab_channel=CoinGecko)
+
 ### Moving average convergence divergence (MACD) (12,26,9)
 
 ### Stochastic(20,3)

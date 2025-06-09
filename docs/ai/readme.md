@@ -45,6 +45,7 @@ An "intelligence explosion" refers to a hypothetical scenario where a self-impro
 - [Artificial consciousness - Wikipedia](https://en.wikipedia.org/wiki/Artificial_consciousness)
 - [A.I. ‐ Humanity's Final Invention? - YouTube](https://www.youtube.com/watch?v=fa8k8IQ1_X0)
 - [Once upon a time…AI created a religion about a Goat | by AJ | Medium](https://medium.com/@Paradith/once-upon-a-time-ai-created-a-religion-about-a-goat-1ff3f40c2f42)
+- [DeepMind CEO Demis Hassabis + Google Co-Founder Sergey Brin: AGI by 2030? - YouTube](https://youtu.be/M2ZtBQI2-GY)
 
 ## Links
 

@@ -145,6 +145,7 @@ ClickHouse supports both virtual views and materialized views. The materialized 
 ## Others
 
 - Clickhouse Cloud Limits - [Usage limits \| ClickHouse Docs](https://clickhouse.com/docs/cloud/bestpractices/usage-limits)
+- [GitHub - Altinity/clickhouse-operator: Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse® clusters running on Kubernetes](https://github.com/Altinity/clickhouse-operator)
 
 ## Links
 
@@ -165,3 +166,6 @@ ClickHouse supports both virtual views and materialized views. The materialized 
 - [First ClickHouse research paper: How do you make a modern data analytics database lightning-fast?](https://clickhouse.com/blog/first-clickhouse-research-paper-vldb-lightning-fast-analytics-for-everyone)
 - [Effortlessly Deploying ClickHouse on Kubernetes: A Comprehensive Guide \| by Utkarsh Umang \| Medium](https://medium.com/@luciferutkarsh/effortlessly-deploying-clickhouse-on-kubernetes-a-comprehensive-guide-b54dbd6cdf22)
 - [Bootstrapping with ClickHouse](https://medium.com/the-ab-tasty-tech-blog/bootstrapping-with-clickhouse-c1750a9ec6d2)
+- [ChatGPT - ClickHouse Key Concepts](https://chatgpt.com/share/68458177-a150-8005-a748-8008535ccd5e)
+- [Working with Time Series Data in ClickHouse](https://clickhouse.com/blog/working-with-time-series-data-and-functions-ClickHouse)
+	- [Query performance - Time-series \| ClickHouse Docs](https://clickhouse.com/docs/use-cases/time-series/query-performance)

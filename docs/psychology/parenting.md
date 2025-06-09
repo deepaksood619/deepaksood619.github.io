@@ -259,6 +259,8 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [My Toddler Understands But Isn’t Talking [Learn How To Help From A Speec...](https://youtu.be/Dk_Fq_NAf08)
 - [This Gets Kids to Listen Every Time (Without Yelling)](https://youtu.be/SQ-NN_1Jotw)
 - [My child is 5 years old and still cannot talk properly. Is it normal? - Quora](https://www.quora.com/My-child-is-5-years-old-and-still-cannot-talk-properly-Is-it-normal)
+- [How to Teach a Toddler to Talk - 3 Tips- Speech Therapy for Toddlers - YouTube](https://youtu.be/9VFzsU740YA)
+- [3 Shortcuts to Get Your Toddler Talking Sooner - YouTube](https://youtu.be/qgga0egtdu0)
 
 ## Links
 
@@ -337,3 +339,5 @@ Why kicking out children after 18 years is important, let's say you are very wea
 	- You turn being stuck into invention
 	- Your standards rise and stay high
 	- You learn to create for others, not just yourself
+- [The #1 Mistake Good Parents Make Every Day - YouTube](https://youtu.be/aH6sqbWZWGg)
+- [STOP Talking When Your Child Melts Down. Do THIS Instead - YouTube](https://youtu.be/9vhawjLEtSw)

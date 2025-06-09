@@ -143,6 +143,7 @@ The concepts, components, and features of the platform are described in detail a
 - [\[BUG\] Pipelines stuck due to high CPU usage of Mage scheduler · Issue #5345 · mage-ai/mage-ai · GitHub](https://github.com/mage-ai/mage-ai/issues/5345)
 - [Multi-Tenant Foundation for Data Mesh Excellence in Mage Pro - Magical workflows for data engineering – Mage AI](https://www.mage.ai/events/multi-tenant-foundation-for-data-mesh-excellence-in-mage-pro)
 - [Mage tips & tricks - Mage AI](https://docs.mage.ai/guides/tips-and-tricks)
+- [Mage Tips & Tricks: Dynamic Blocks - YouTube](https://youtu.be/jQZb3lrAb8w)
 
 ## Flyte
 

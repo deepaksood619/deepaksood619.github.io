@@ -181,3 +181,4 @@ https://entri.app/blog/important-revolutions-and-fathers
     - 1971 war between India Pakistan for Bangladesh liberation. Covert war mukti bahini
 - [#2: Wars & Peace with Pakistan | Political Science & IR | NCERT Fundamentals | Chethan N - YouTube](https://www.youtube.com/watch?v=8ldBAf6oaXk&ab_channel=UnacademyIAS%3AEnglish)
 - [How British Left India? | The History You Wouldn’t Know! | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=byRsgbhXg_8)
+- [Sarah Paine EP 1: The War For India (Lecture & Interview) - YouTube](https://youtu.be/LbkO84MsmyM)

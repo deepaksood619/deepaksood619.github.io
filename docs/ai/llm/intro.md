@@ -93,5 +93,4 @@ The architecture is a standard [transformer network](https://en.wikipedia.org/wi
 - [A Visual Guide to LLM Agents - by Maarten Grootendorst](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-llm-agents)
 - [\[2205.11916\] Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916)
 - [BERT Demystified: Like I’m Explaining It to My Younger Self](https://youtu.be/NUf5q4cWhdQ)
-- [GitHub - HandsOnLLM/Hands-On-Large-Language-Models: Official code repo for the O'Reilly Book - "Hands-On Large Language Models"](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 - [I got fooled by AI-for-science hype—here's what it taught me](https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres)

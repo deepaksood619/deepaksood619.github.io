@@ -51,18 +51,17 @@
 - [Theoretical chemistry](https://en.wikipedia.org/wiki/Theoretical_chemistry)
 - [Thermochemistry](https://en.wikipedia.org/wiki/Thermochemistry)
 
-https://www.youtube.com/watch?v=P3RXtoYCW4M&ab_channel=DoS-DomainofScience
+## Links
 
-[Hydrogen to Oganesson | Every Single Element! | SCIENCE](https://youtu.be/i6jc3f5tseI)
+- [The Map of Chemistry - YouTube](https://www.youtube.com/watch?v=P3RXtoYCW4M&ab_channel=DoS-DomainofScience)
+- [Hydrogen to Oganesson | Every Single Element! | SCIENCE](https://youtu.be/i6jc3f5tseI)
 
 pH - power of Hydrogen, it is represented logarithmically. One number change represents 10 fold change.
 
 ![image](../../media/Outline-image1.jpg)
 
-[CrashCourse - Chemistry](https://youtube.com/playlist?list=PLG61LF8I_OXoh2mhx2YNY9s4ekXiriMAf)
-
-[Freshman Organic Chemistry with J. Michael McBride](https://youtube.com/playlist?list=PL3F629F73640F831D)
-
-[Freshman Organic Chemistry II with Michael McBride](https://youtube.com/playlist?list=PLB572BA3ED0F700F1)
-
-[Sparging (chemistry) - Wikipedia](https://en.wikipedia.org/wiki/Sparging_(chemistry))
+- [CrashCourse - Chemistry](https://youtube.com/playlist?list=PLG61LF8I_OXoh2mhx2YNY9s4ekXiriMAf)
+- [Freshman Organic Chemistry with J. Michael McBride](https://youtube.com/playlist?list=PL3F629F73640F831D)
+- [Freshman Organic Chemistry II with Michael McBride](https://youtube.com/playlist?list=PLB572BA3ED0F700F1)
+- [Sparging (chemistry) - Wikipedia](https://en.wikipedia.org/wiki/Sparging_(chemistry))
+- [General Chemistry – Full University Course - YouTube](https://youtu.be/6OV3tmt9uhs)

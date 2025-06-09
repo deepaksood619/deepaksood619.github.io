@@ -133,3 +133,5 @@ https://aws.amazon.com/rds/aurora/faqs
 [Aurora vs RDS: How to Choose the Right AWS Database Solution](https://www.percona.com/blog/when-should-i-use-amazon-aurora-and-when-should-i-use-rds-mysql/)
 
 [Overview of Database Activity Streams - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/DBActivityStreams.Overview.html)
+
+[What the heck is Storage-Compute Separation? \| Aurora Paper Deep Dive - Section 1 - YouTube](https://youtu.be/DA5W8tO_7Nw)

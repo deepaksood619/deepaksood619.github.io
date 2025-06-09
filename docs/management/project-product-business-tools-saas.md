@@ -30,6 +30,7 @@
       1. Mailman (batches incoming email and keeps brain from getting distracted by the endless trickle of new email)
       2. Zoho
             1. Zoho Worflows
+            2. [Zoho One Full Overview \| For Beginners - YouTube](https://youtu.be/krdYXogWt1A)
       3. https://360.yandex.ru/business
 15. Gitlab issues
 16. https://fireflies.ai - AI assistant for your meetings
