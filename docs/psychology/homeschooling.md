@@ -20,3 +20,25 @@
 
 - [Homeschooling in India \| CamrbriLearn Homeschooling Guide](https://cambrilearn.com/homeschooling/india)
 - [Indian Online Homeschooling: A Complete Curriculum](https://www.theclassofone.com/onine-homeschooling-curriculum-for-indian-parents.php)
+
+## Links
+
+- [Birds Homeschool Science | Flip Through | The Good and the Beautiful](https://youtu.be/pjpMXA9CECY)
+- [Arthropods Homeschool Science | Flip Through | The Good and the Beautiful](https://youtu.be/1-lr1q1hwfA)
+- [Space Homeschool Science | Flip Through | The Good and the Beautiful](https://youtu.be/WKaDaumbyVc)
+- [Ecosystems Homeschool Science | Flip Through | The Good and the Beautiful](https://youtu.be/MyMwOn21_rA)
+- [Energy Homeschool Science | Flip Through | The Good and the Beautiful](https://youtu.be/5mHeF5r8DcQ)
+- [How to Teach Your Child to Read | 3 Easy Steps | The Good and the Beautiful](https://youtu.be/bB2NFs_edFo)
+- [Why and How to Have Quiet Time in Homeschool | The Good and The Beautiful](https://youtu.be/O8tNL2ocM-s)
+- [Having Homeschool Doubts? | The Good and the Beautiful](https://youtu.be/H6KAi09ddFc)
+- [Reducing Screen Time Changes Lives | The Good and the Beautiful](https://youtu.be/asz-Bb2gSwc)
+- [How and Why to Stop Yelling at Your Kids | The Good and the Beautiful](https://youtu.be/mn_iPxvt_Vo)
+- [The Best Free Homeschool Curriculum | The Good and the Beautiful](https://youtu.be/guAR9MpNH2A)
+- [How to Have Fewer Meltdowns in Homeschool | Fixing Lagging Skills | The ...](https://youtu.be/EcmD7AzeSlc)
+- [Thinking of Homeschooling? Simple Steps to Creating a Schedule | The Goo...](https://youtu.be/tRgCW9Evyic)
+- [How to Organize a Homeschool Day | Good and Beautiful](https://youtu.be/nKA7jRtrnBw)
+- [PreK-2nd Grade Homeschool Science: Sparks and Stars | Flip Through | The...](https://youtu.be/nYJOfDSIetk)
+- [How to Start Homeschooling Mid-Year | The Good and the Beautiful](https://youtu.be/gP3rzfvGKG4)
+- [How to Get Started Homeschooling | The Good and the Beautiful](https://youtu.be/STxbmGBkYrk)
+- [How to Make Homeschooling Easier | The Good and the Beautiful](https://youtu.be/vH1t2issZcM)
+- [Homeschooling with The Good and the Beautiful: What It's All About](https://youtu.be/h39iHJEz49k)

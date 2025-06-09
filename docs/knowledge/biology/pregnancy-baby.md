@@ -86,3 +86,5 @@ It is a non-invasive test used for the surveillance of high-risk pregnancies whe
 - Lochia postpartum bleeding 6 weeks
 - Lanugo
 - [Why Babies Can't Drink Water - YouTube](https://www.youtube.com/watch?v=4DQv80biYbs&ab_channel=InsiderScience)
+- [Understand Your First Trimester Ultrasound \| Early Pregnancy Scan Guide - YouTube](https://youtu.be/N-njB2Gik2k)
+- [First Trimester Pregnancy: Everything You Need to Know from a Fertility Doctor - YouTube](https://youtu.be/-LHNfkaaMFA)

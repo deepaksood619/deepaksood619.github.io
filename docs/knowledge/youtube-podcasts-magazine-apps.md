@@ -95,6 +95,7 @@
 - [Tom Scott](https://www.youtube.com/user/enyay)-- Linguistics and various travel and geography stories
 - [History of the Earth](https://www.youtube.com/channel/UC_aOteuWIY8ITg7DQQspG1g)-- the History Brothers cover multimillion year periods of our planet's history
 - [Half as Interesting](https://www.youtube.com/channel/UCuCkxoKLYO_EQ2GeFtbM_bw)-- light-hearted tidbids of English history and other things
+- [DW History and Culture - YouTube](https://youtube.com/@dwhistoryandculture)
 
 ### Making Youtube content
 

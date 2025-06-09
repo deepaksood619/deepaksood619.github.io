@@ -158,6 +158,7 @@ https://www.edx.org/course/finance-everyone-smart-tools-decision-michiganx-fin10
 	- 2019.....1KG Gold = BMW X1
 	- 2040....1KG Gold = Private Jet
 - [What you need to know about gold before investing in it](https://freefincal.com/what-you-need-to-know-about-gold-before-investing-in-it/)
+- [What you need to know about gold before investing! - YouTube](https://youtu.be/gl0GMwKMd3E)
 
 ### Dubai Gold
 

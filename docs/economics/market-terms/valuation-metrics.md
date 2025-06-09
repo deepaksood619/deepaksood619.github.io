@@ -90,6 +90,8 @@ https://www.investopedia.com/terms/p/price-earningsratio.asp
 
 [United States Stock Market: current P/E Ratio](https://worldperatio.com/area/united-states/)
 
+[youtube.com/channel/UCxv9T8da7658T9R8LQT\_3PQ/community?lb=Ugkx60dRH\_5bruxDYiF\_cm-AFUZmBCttiKX4](https://www.youtube.com/channel/UCxv9T8da7658T9R8LQT_3PQ/community?lb=Ugkx60dRH_5bruxDYiF_cm-AFUZmBCttiKX4)
+
 ## PEG Ratio
 
 The price/earnings to growth ratio (PEG ratio) is a stock's price-to-earnings (P/E) ratio divided by the growth rate of its earnings for a specified time period.

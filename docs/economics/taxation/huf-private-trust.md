@@ -125,6 +125,10 @@ Therefore, upon the death of the individual who transferred the asset to the HUF
 | **SUITABLE FOR** | - Less Capital Requirements<br></br>- Lower Tax Rates<br></br>- Independent Operations<br></br>- Unorganized structure<br></br>- Lower Operational Risk<br></br>- Lower Compliance Requirements | - Similar to Proprietorship<br></br>- MVP Trial for Startup<br></br>- Separate Tax Entity (what if there is no partner) | - High Turnover<br></br>- External Funding & Investment with Limited Capital<br></br>- Merger & Acquisition<br></br>- Large Loan for Working Capital<br></br>- Rapid Growth<br></br>- Risk<br></br>- Subsidy Grants<br></br>- International Expansions<br></br>- Trust | - Service oriented businesses with Limited Capital Requirements, that can be satisfied with partner capital or loan | Propreitor looking for limited liability & 100% control |
 | **EXAMPLES**     | Retail Trading, Home Based Business, Services, Manpower Supply, Contractors, Freelancing, Clinic, Consultancy, Repair and Maintenance, Small IT Firms, Coaching Classes                         | Same as Sole Proprietorship                                                                                             | Manufacturing, Financial Services, E-Commerce, Construction Companies, Startups post MVP                                                                                                                                                                               | CA/Law/Management Firms, IT Companies, Manpower Supply, Sales Promotion, Digital Marketing Agencies                 | Restaurants, Retail Store, Franchise                    |
 
+## Will
+
+[How to write a Will? Ft. Shaishavi Kadakia from Cyril Amarchand Mangaldas - YouTube](https://youtu.be/2TrMQuUSkm0)
+
 ## Links
 
 - [HUF Registration online with expert assistance : TaxRodo](https://www.taxrodo.com/huf-registration/)
@@ -137,3 +141,5 @@ Therefore, upon the death of the individual who transferred the asset to the HUF
 - [Zerodha's Nithin Kamath draws attention to a lesser-known income-tax saving method - The Economic Times](https://economictimes.indiatimes.com/news/india/zerodhas-nithin-kamath-draws-attention-to-a-lesser-known-income-tax-saving-method/articleshow/108850981.cms)
 - [How to plan your finances with Hindu Undivided Family (HUF) – Z-Connect by Zerodha](https://zerodha.com/z-connect/general/how-to-plan-your-finances-with-hindu-undivided-family-huf)
 - [Business with Job, Legal? \| A to Z of Sole Proprietorship \| Business Basics #2 - YouTube](https://youtu.be/Gj5jvAOzO-0)
+- [How Indian Families Saved ₹3,800+ CRORES in Taxes using Hindu Undivided Family (HUF) laws - YouTube](https://youtu.be/nGf7tepuBOE)
+- [Private Limited - Good or Very bad? \| Business Basics Ep#4 - YouTube](https://youtu.be/Yxq_gCOmv2Y)

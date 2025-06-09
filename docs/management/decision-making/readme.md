@@ -239,6 +239,16 @@ There are five types of time:
 
 [Seconds to Strategy: How Your Relationship with Time Shapes Your Career](https://auren.substack.com/p/seconds-to-strategy-how-your-relationship)
 
+## Indecision
+
+THE DONKEY AT THE CROSSROADS
+
+Imagine a donkey equally hungry and thirsty, positioned precisely between a bale of hay and a bucket of water. Unable to choose, it starves. This is Buridan's Ass—a paradox
+
+illustrating the pitfalls of indecision when choices are equally appealing.
+
+But can indecision truly be fatal?
+
 ## Links
 
 [15 DECISION MAKING TECHNIQUES to CHANGE 2023 for YOU! | Ankur Warikoo Hindi - YouTube](https://www.youtube.com/watch?v=jZXknO8lqN0)

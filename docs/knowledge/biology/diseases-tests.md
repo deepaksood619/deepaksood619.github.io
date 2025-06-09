@@ -169,6 +169,8 @@ What can you do?
 
 [Save Yourself from Heart Attack - Fix These Habits Before It's Too Late! Top Cardiologist, Dr Anup - YouTube](https://www.youtube.com/watch?v=uR0xpHMz3Ls)
 
+[Watch this to never get a heart attack \| Padma Bhushan Cardiac Surgeon \| Rethink India Ep. 9 - YouTube](https://youtu.be/tHkt17D0AWA)
+
 ## Anorexia
 
 An eating disorder characterized by markedly reduced appetite or total aversion to food.Anorexiais a serious psychological disorder. It is a condition that goes well beyond out-of-control dieting. The person withanorexia, most often a girl or young woman, initially begins dieting to lose weight.
