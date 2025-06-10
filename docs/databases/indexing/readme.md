@@ -9,5 +9,5 @@
 
 ## Others
 
-- [Postgres Indexes](databases/sql-databases/postgres/indexes.md)
-- [Mongodb Indexes](databases/nosql-databases/mongodb/indexes.md)
+- [Postgres Indexes](databases-sql/postgres/indexes.md)
+- [Mongodb Indexes](databases-nosql/mongodb/indexes.md)

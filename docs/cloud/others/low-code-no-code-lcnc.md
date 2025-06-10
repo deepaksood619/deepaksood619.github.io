@@ -27,6 +27,7 @@
 - [n8n.io - a powerful workflow automation tool](https://n8n.io/) (80K stars) - [GitHub - n8n-io/n8n: Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.](https://github.com/n8n-io/n8n)
 	- [A very quick quickstart \| n8n Docs](https://docs.n8n.io/try-it-out/quickstart/)
 	- [Learning path \| n8n Docs](https://docs.n8n.io/learning-path/)
+	- [Application Error](https://www.ghiless.com/p/ai-automation-blueprints-sdr-system-content-engine-claude-prompt-engineering-guide-a9ec)
 - [Appwrite - Build like a team of hundreds](https://appwrite.io/) (48K stars) - [GitHub - appwrite/appwrite: Build like a team of hundreds\_](https://github.com/appwrite/appwrite)
 - [Albato - a single no-code platform for all automations](https://albato.com/)
 - Paid tools

@@ -42,9 +42,9 @@
     - [Amazon EFS](cloud/aws/storage/amazon-efs.md)
     - [IOPS](cloud/aws/storage/iops.md)
 - Databases
-    - [Amazon Aurora](../../databases/sql-databases/aws-aurora/readme.md)
-    - [Amazon DynamoDB](../../databases/nosql-databases/aws-dynamodb/readme.md)
-    - [Amazon Redshift](../../databases/sql-databases/aws-redshift/readme.md)
+    - [Amazon Aurora](databases-sql/aws-aurora/readme.md)
+    - [Amazon DynamoDB](databases-nosql/aws-dynamodb/readme.md)
+    - [Amazon Redshift](databases-sql/aws-redshift/readme.md)
     - [Amazon Database Migration Service DMS](aws-database-migration-service-dms)
 - [AWS Backup](cloud/aws/aws-backup.md)
 - [Amazon Bedrock](cloud/aws/bedrock.md)

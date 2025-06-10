@@ -1,7 +1,7 @@
 # Languages
 
 - [Python](python/readme.md)
-- [SQL](sql/readme.md)
+- [SQL](languages/sql/readme.md)
 - [C++](c++/readme.md)
 - [Java](java/readme.md)
 - [PHP](php/readme.md)

@@ -78,4 +78,4 @@ NoSQL systems often use column-oriented storage
 
 ## Links
 
-[Cassandra - Design](databases/nosql-databases/cassandra/design.md)
+[Cassandra - Design](databases-nosql/cassandra/design.md)

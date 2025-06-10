@@ -185,7 +185,7 @@ If running a instance for less than 12-15 hours then on-demand can be cheaper th
 
 ## Links
 
-- [Aurora - configurations-optimizations-best-practices](databases/sql-databases/aws-aurora/configurations-optimizations-best-practices.md)
+- [Aurora - configurations-optimizations-best-practices](databases-sql/aws-aurora/configurations-optimizations-best-practices.md)
 - [Understanding your AWS billing and usage reports for Amazon S3 - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/aws-usage-report-understand.html)
 - [AWS tools to optimize your Amazon RDS costs | AWS Database Blog](https://aws.amazon.com/blogs/database/aws-tools-to-optimize-your-amazon-rds-costs/)
 - [AWS Cost Anomaly Detection](https://aws.amazon.com/aws-cost-management/aws-cost-anomaly-detection/) - Automated cost anomaly detection and root cause analysis

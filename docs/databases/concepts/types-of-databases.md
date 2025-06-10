@@ -199,7 +199,7 @@ https://github.com/Jsondb/jsondb-core
 
 ## Resources
 
-- [Vector Databases](databases/nosql-databases/vector-databases.md)
+- [Vector Databases](databases-nosql/vector-databases.md)
 - https://www.toptal.com/database/database-migrations-caterpillars-butterflies
 - https://www.toptal.com/database/database-design-bad-practices
 - https://dbdb.io

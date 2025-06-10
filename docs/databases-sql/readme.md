@@ -1,0 +1,15 @@
+# SQL Databases
+
+- [RDBMS](databases-sql/rdbms.md)
+- [Normalization](databases-sql/normalization.md)
+- [Partitioning / Sharding](databases-sql/partitioning-sharding.md)
+- [AWS Aurora](databases-sql/aws-aurora/readme.md)
+- [Amazon RDS](databases-sql/amazon-rds.md)
+- [Amazon Aurora vs RDS](databases-sql/amazon-aurora-vs-rds.md)
+- [AWS Redshift](databases-sql/aws-redshift/readme.md)
+- [MySQL](databases-sql/mysql/readme.md)
+- [Postgres](databases-sql/postgres/readme.md)
+- [Oracle Database](databases-sql/oracle-database.md)
+- [MSSQL Server](databases-sql/mssql-server.md)
+- [memsql](databases-sql/memsql/readme.md)
+    - [Intro](databases-sql/memsql/intro.md)

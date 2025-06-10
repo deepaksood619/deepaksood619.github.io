@@ -81,7 +81,7 @@ You can query system views to analyze performance metrics like CPU, I/O, and wai
 ```sql
 -- Top Waits in the system (helps identify bottlenecks)
 SELECT TOP 10
-    wait_type, 
+    wait_type,
     wait_time_ms / 1000.0 AS wait_time_sec,
     waiting_tasks_count,
     wait_time_ms / NULLIF(waiting_tasks_count, 0) AS avg_wait_time_ms
@@ -154,7 +154,7 @@ Detect unused indexes (useful when you have write access later).
 
 ```sql
 -- Index usage stats
-SELECT 
+SELECT
     OBJECT_NAME(i.object_id) AS table_name,
     i.name AS index_name,
     i.index_id,
@@ -171,7 +171,7 @@ Useful for identifying parameter sniffing or inefficient plan reuse.
 
 ```sql
 -- Look at plan cache to identify duplicate/inefficient plans
-SELECT 
+SELECT
     cp.usecounts,
     cp.cacheobjtype,
     cp.objtype,
@@ -187,8 +187,8 @@ Though this is usually at server level, you can inspect usage by queries (if all
 
 ```sql
 -- TempDB usage by session
-SELECT 
-    session_id, 
+SELECT
+    session_id,
     SUM(internal_objects_alloc_page_count + user_objects_alloc_page_count) * 8 AS tempdb_kb_allocated
 FROM sys.dm_db_session_space_usage
 GROUP BY session_id
@@ -222,11 +222,11 @@ ORDER BY avg_cpu_ms DESC;
 SELECT TOP 20
     CONVERT(decimal(18,2), migs.avg_total_user_cost * migs.avg_user_impact * (migs.user_seeks + migs.user_scans)) AS improvement_measure,
     OBJECT_NAME(mid.object_id, mid.database_id) AS table_name,
-    'CREATE INDEX [IX_' + OBJECT_NAME(mid.object_id, mid.database_id) + '_' + 
-        REPLACE(REPLACE(REPLACE(ISNULL(mid.equality_columns,''), '[',''), ']',''), ', ', '_') + 
-        '] ON ' + OBJECT_NAME(mid.object_id, mid.database_id) + 
+    'CREATE INDEX [IX_' + OBJECT_NAME(mid.object_id, mid.database_id) + '_' +
+        REPLACE(REPLACE(REPLACE(ISNULL(mid.equality_columns,''), '[',''), ']',''), ', ', '_') +
+        '] ON ' + OBJECT_NAME(mid.object_id, mid.database_id) +
         ' (' + ISNULL(mid.equality_columns,'') +
-        CASE 
+        CASE
             WHEN mid.inequality_columns IS NOT NULL THEN ',' + mid.inequality_columns
             ELSE ''
         END + ')' +

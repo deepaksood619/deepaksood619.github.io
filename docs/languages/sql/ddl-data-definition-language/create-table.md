@@ -57,7 +57,7 @@ ALTER TABLE communication_exceptions MODIFY update_date DATETIME NOT NULL DEFAUL
 5. Swap the old and new tables
 6. Unlock the tables & drop the original
 
-- [optimizing-locking-operations](databases/sql-databases/mysql/optimizing-locking-operations.md)
+- [optimizing-locking-operations](databases-sql/mysql/optimizing-locking-operations.md)
 
 ### Alter Table
 
@@ -427,4 +427,4 @@ https://www.c-sharpcorner.com/article/difference-between-mysql-datetime-and-time
 
 ## Links
 
-- [optimizing-locking-operations](databases/sql-databases/mysql/optimizing-locking-operations.md)
+- [optimizing-locking-operations](databases-sql/mysql/optimizing-locking-operations.md)

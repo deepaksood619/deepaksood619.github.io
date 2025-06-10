@@ -1,7 +1,7 @@
 ## Amazon Databases
 
-- [Amazon Aurora](databases/sql-databases/aws-aurora/readme.md)
-- [Amazon RDS](databases/sql-databases/amazon-rds.md)
+- [Amazon Aurora](databases-sql/aws-aurora/readme.md)
+- [Amazon RDS](databases-sql/amazon-rds.md)
 
 ### Amazon RDS on VMWare
 

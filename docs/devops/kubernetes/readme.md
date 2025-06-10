@@ -17,7 +17,7 @@
     - [Services](services-loadbalancing-and-networking/services)
     - [Ingress](services-loadbalancing-and-networking/ingress)
     - [Others](services-loadbalancing-and-networking/others)
-- [Storage](storage)
+- [Storage](devops/kubernetes/storage.md)
 - [Configuration](configuration)
 - [Cluster Administration](devops/kubernetes/cluster-administration/readme.md)
     - [Logging Architecture](cluster-administration/logging-architecture)
