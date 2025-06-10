@@ -52,7 +52,7 @@ Overlord processes watch over the MiddleManager processes and are the controller
 
 Router processes are optional processes that provide a unified API gateway in front of Druid Brokers, Overlords, and Coordinators. They are optional since you can also simply contact the Druid Brokers, Overlords, and Coordinators directly.
 
-![image](../../../media/Druid_Architecture-image1.jpg)
+![image](../../media/Druid_Architecture-image1.jpg)
 
 https://docs.imply.io/cloud/design
 
@@ -72,4 +72,4 @@ The idea behind this architecture is to make a Druid cluster simple to operate i
 
 The following diagram shows how queries and data flow through this architecture:
 
-![image](../../../media/Druid_Architecture-image2.jpg)
+![image](../../media/Druid_Architecture-image2.jpg)

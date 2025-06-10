@@ -25,7 +25,7 @@ A data warehouse is specially designed for data analytics, which involves readin
 
 Unlike a data warehouse, a data lake is a centralized repository for all data, including structured and unstructured. A data warehouse utilizes a pre-defined schema optimized for analytics. In a data lake, the schema is not defined, enabling additional types of analytics like big data analytics, full text search, real-time analytics, and machine learning.
 
-![image](../../../media/Data-Lake-image1.jpg)
+![image](../../media/Data-Lake-image1.jpg)
 
 | **Characteristics** | **Data Warehouse** | **Data Lake** |
 |:---:|:---:|:---:|
@@ -81,18 +81,12 @@ Data warehouse functions as a repository. It helps organizations avoid the cost 
 
 ## Reference
 
-https://dzone.com/refcardz/data-warehousing
-
-http://www.oracle.com/webfolder/technetwork/tutorials/obe/db/10g/r2/owb/owb10gr2_gs/owb/lesson3/slowlychangingdimensions.htm
-
-https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71
-
-https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0
-
-https://www.tutorialspoint.com/dwh/index.htm
-
-https://www.guru99.com/data-warehouse-architecture.html
-
-https://aws.amazon.com/data-warehouse
-
-[Data Warehouse Concepts: Kimball vs. Inmon Approach | Astera](https://www.astera.com/type/blog/data-warehouse-concepts/)
+- https://dzone.com/refcardz/data-warehousing
+- http://www.oracle.com/webfolder/technetwork/tutorials/obe/db/10g/r2/owb/owb10gr2_gs/owb/lesson3/slowlychangingdimensions.htm
+- https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71
+- https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0
+- https://www.tutorialspoint.com/dwh/index.htm
+- https://www.guru99.com/data-warehouse-architecture.html
+- https://aws.amazon.com/data-warehouse
+- [Data Warehouse Concepts: Kimball vs. Inmon Approach | Astera](https://www.astera.com/type/blog/data-warehouse-concepts/)
+- **[Which Data Architecture Should I Choose for My Workplace? — A Data Engineer’s Approach \| by Dr. Fatih Hattatoglu \| Academy Team \| Apr, 2025 \| Medium](https://medium.com/academy-team/which-data-architecture-should-i-choose-for-my-workplace-a-data-engineers-approach-f913b71d8ee6)**

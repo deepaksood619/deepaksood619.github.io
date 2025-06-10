@@ -59,7 +59,7 @@ QUIT
 SELECT token(video_id), video_id FROM videos;
 ```
 
-![image](../../../media/Cassandra_CQL-(Cassandra-Query-Language)-image1.jpg)
+![image](../../media/Cassandra_CQL-(Cassandra-Query-Language)-image1.jpg)
 
 ### Remember this
 
@@ -67,20 +67,20 @@ SELECT token(video_id), video_id FROM videos;
 - Cassandra scans columns fast
 - Cassandra does not scan rows
 
-![image](../../../media/Cassandra_CQL-(Cassandra-Query-Language)-image4.jpg)
+![image](../../media/Cassandra_CQL-(Cassandra-Query-Language)-image4.jpg)
 
-![image](../../../media/Cassandra_CQL-(Cassandra-Query-Language)-image5.jpg)
+![image](../../media/Cassandra_CQL-(Cassandra-Query-Language)-image5.jpg)
 
-![image](../../../media/Cassandra_CQL-(Cassandra-Query-Language)-image6.jpg)
+![image](../../media/Cassandra_CQL-(Cassandra-Query-Language)-image6.jpg)
 
-![image](../../../media/Cassandra_CQL-(Cassandra-Query-Language)-image7.jpg)
+![image](../../media/Cassandra_CQL-(Cassandra-Query-Language)-image7.jpg)
 
-![image](../../../media/Cassandra_CQL-(Cassandra-Query-Language)-image8.jpg)
+![image](../../media/Cassandra_CQL-(Cassandra-Query-Language)-image8.jpg)
 
-![image](../../../media/Cassandra_CQL-(Cassandra-Query-Language)-image9.jpg)
+![image](../../media/Cassandra_CQL-(Cassandra-Query-Language)-image9.jpg)
 
-![image](../../../media/Cassandra_CQL-(Cassandra-Query-Language)-image10.jpg)
+![image](../../media/Cassandra_CQL-(Cassandra-Query-Language)-image10.jpg)
 
-![image](../../../media/Cassandra_CQL-(Cassandra-Query-Language)-image11.jpg)
+![image](../../media/Cassandra_CQL-(Cassandra-Query-Language)-image11.jpg)
 
-![image](../../../media/Cassandra_CQL-(Cassandra-Query-Language)-image12.jpg)
+![image](../../media/Cassandra_CQL-(Cassandra-Query-Language)-image12.jpg)

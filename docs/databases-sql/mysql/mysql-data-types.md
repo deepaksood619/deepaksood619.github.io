@@ -165,7 +165,7 @@ If accuracy is not too important or if speed is the highest priority, the [DOUBL
 
 https://dev.mysql.com/doc/refman/8.0/en/data-types.html
 
-![image](../../../media/MySQL_11.-MySQL-Data-Types-image1.jpg)
+![image](../../media/MySQL_11.-MySQL-Data-Types-image1.jpg)
 
 https://www.mysqltutorial.org/mysql-data-types.aspx
 

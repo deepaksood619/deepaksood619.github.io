@@ -140,7 +140,7 @@ https://dbdb.io/db/mysql
 
 MySQLs design supports a wide range of underlying storage engines, here's a simple picture to illustrate that.
 
-![image](../../../media/MySQL-image1.jpg)
+![image](../../media/MySQL-image1.jpg)
 
 Clients connect to MySQL and issues queries (which may or may not already be cached), these queries are parsed, optimized, and then MySQL through a defined API will interact with a chosen storage engine to retrieve/persist data. Each storage engine has different properties that make it suitable for different use cases.
 
@@ -159,4 +159,4 @@ https://www.mysqltutorial.org/advanced-mysql
 
 ## InnoDB internals
 
-![image](../../../media/MySQL-image2.jpg)
+![image](../../media/MySQL-image2.jpg)

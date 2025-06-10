@@ -106,7 +106,7 @@
 
 ## State of Data Engineering 2024
 
-![image](../../../media/Screenshot%202024-07-15%20at%2012.16.36%20AM.jpg)
+![image](../../media/Screenshot%202024-07-15%20at%2012.16.36%20AM.jpg)
 
 [State of Data Engineering 2024](https://8040338.fs1.hubspotusercontent-na1.net/hubfs/8040338/lakeFS%20State%20of%20Data%20Engineering%202024.pdf)
 
@@ -116,7 +116,7 @@
 
 ## Roadmaps
 
-![Data Engineering Roadmap](../../../media/Screenshot%202025-04-20%20at%201.03.37%20AM.jpg)
+![Data Engineering Roadmap](../../media/Screenshot%202025-04-20%20at%201.03.37%20AM.jpg)
 
 - [Roadmap for Data Engineering 2023 | by Darshil Parmar | Medium](https://medium.com/@darshilp/roadmap-for-data-engineering-2023-13f62f85d866)
 - [Roadmap for Data Engineering 2024 | by Darshil Parmar | Jan, 2024 | Medium](https://medium.com/@darshilp/roadmap-for-data-engineering-2024-af7ea4ead400)

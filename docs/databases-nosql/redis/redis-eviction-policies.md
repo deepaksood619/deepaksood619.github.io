@@ -63,7 +63,7 @@ https://redis.io/topics/lru-cache
 
 https://tokers.github.io/posts/lru-and-lfu-in-redis-memory-eviction
 
-![cache-problems](../../../media/Pasted%20image%2020240105232856.jpg)
+![cache-problems](../../media/Pasted%20image%2020240105232856.jpg)
 
 ## Important Points
 
@@ -133,4 +133,4 @@ In Two-Tiered Caching strategy, we use an in-memory cache for the first layer an
 
 Random Replacement algorithm randomly selects a cache item and evicts it to make space for new items. This method is also simple to implement and does not require tracking access patterns or frequencies.
 
-![Top 8 Cache Eviction Strategies](../../../media/Pasted%20image%2020240429231428.jpg)
+![Top 8 Cache Eviction Strategies](../../media/Pasted%20image%2020240429231428.jpg)

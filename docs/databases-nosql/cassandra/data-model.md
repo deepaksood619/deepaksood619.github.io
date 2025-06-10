@@ -11,15 +11,15 @@
 - All equality comparisons must come before inequality comparisons
 - Since data is sorted on disk, range searches are a binary search followed by a linear read
 
-![image](../../../media/Cassandra_Data-Model-image1.jpg)
+![image](../../media/Cassandra_Data-Model-image1.jpg)
 
-![image](../../../media/Cassandra_Data-Model-image2.jpg)
+![image](../../media/Cassandra_Data-Model-image2.jpg)
 
-![image](../../../media/Cassandra_Data-Model-image3.jpg)
+![image](../../media/Cassandra_Data-Model-image3.jpg)
 
-![image](../../../media/Cassandra_Data-Model-image4.jpg)
+![image](../../media/Cassandra_Data-Model-image4.jpg)
 
-![image](../../../media/Cassandra_Data-Model-image5.jpg)
+![image](../../media/Cassandra_Data-Model-image5.jpg)
 
 ## Indexing
 

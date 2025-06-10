@@ -27,7 +27,7 @@ Vector databases are designed to handle critical query and algorithmic styles se
 
 ## Working
 
-![How Vector Databases Work](../../media/Screenshot%202025-05-08%20at%201.59.29%20PM.jpg)
+![How Vector Databases Work](../media/Screenshot%202025-05-08%20at%201.59.29%20PM.jpg)
 
 ## Links
 
@@ -35,4 +35,4 @@ Vector databases are designed to handle critical query and algorithmic styles se
 - [Key considerations when choosing a database for your generative AI applications | AWS Database Blog](https://aws.amazon.com/blogs/database/key-considerations-when-choosing-a-database-for-your-generative-ai-applications/)
 - [InterviewReady | System Design Course | Gaurav Sen](https://interviewready.io/blog/vector-db-vs-relational-db)
 
-![Vector Databases](../../media/Pasted%20image%2020240405112318.jpg)
+![Vector Databases](../media/Pasted%20image%2020240405112318.jpg)

@@ -17,4 +17,4 @@
 
 ## Top 9 NoSQL DB Use Cases
 
-![top 9 nosql db use cases](../../media/Screenshot%202024-10-19%20at%203.53.42%20AM.jpg)
+![top 9 nosql db use cases](../media/Screenshot%202024-10-19%20at%203.53.42%20AM.jpg)

@@ -12,7 +12,7 @@ A MongoDB sharded cluster consists of the following components:
 - [mongos](https://www.mongodb.com/docs/manual/core/sharded-cluster-query-router/): The `mongos` acts as a query router, providing an interface between client applications and the sharded cluster. Starting in MongoDB 4.4, `mongos` can support [hedged reads](https://www.mongodb.com/docs/manual/core/sharded-cluster-query-router/#std-label-mongos-hedged-reads) to minimize latencies.
 - [config servers](https://www.mongodb.com/docs/manual/core/sharded-cluster-config-servers/#std-label-sharding-config-server): Config servers store metadata and configuration settings for the cluster.
 
-![shared cluster](../../../media/Pasted%20image%2020240112181858.jpg)
+![shared cluster](../../media/Pasted%20image%2020240112181858.jpg)
 
 #### Hedged Reads
 

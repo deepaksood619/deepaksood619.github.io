@@ -30,7 +30,7 @@ Sharding is a database architecture pattern related to **horizontal partitioning
 
 It can be helpful to think of horizontal partitioning in terms of how it relates tovertical partitioning. **In a vertically-partitioned table, entire columns are separated out and put into new, distinct tables.** The data held within one vertical partition is independent from the data in all the others, and each holds both distinct rows and columns. The following diagram illustrates how a table could be partitioned both horizontally and vertically:
 
-![image](../../media/Partitioning-Sharding-image1.jpg)
+![image](../media/Partitioning-Sharding-image1.jpg)
 
 ## Logical vs Physical Shard
 
@@ -70,17 +70,17 @@ A final disadvantage to consider is that sharding isn't natively supported by ev
 
 In algorithmic sharding, the client can determine a given partition's database without any help. In dynamic sharding, a separate locator service tracks the partitions amongst the nodes.
 
-![image](../../media/Partitioning-Sharding-image2.jpg)
+![image](../media/Partitioning-Sharding-image2.jpg)
 
 An algorithmically sharded database, with a simple sharding function
 
-![image](../../media/Partitioning-Sharding-image3.jpg)
+![image](../media/Partitioning-Sharding-image3.jpg)
 
 A dynamic sharding scheme using range based partitioning.
 
 ## Entity Groups
 
-![image](../../media/Partitioning-Sharding-image4.jpg)
+![image](../media/Partitioning-Sharding-image4.jpg)
 
 Entity Groups partitions all related tables together
 
@@ -95,7 +95,7 @@ https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6
 
 Key based sharding, also known as hash based sharding, involves using a value taken from newly written data - such as a customer's ID number, a client application's IP address, a ZIP code, etc. - and plugging it into ahash functionto determine which shard the data should go to. A hash function is a function that takes as input a piece of data (for example, a customer email) and outputs a discrete value, known as ahash value. In the case of sharding, the hash value is a shard ID used to determine which shard the incoming data will be stored on. Altogether, the process looks like this:
 
-![image](../../media/Partitioning-Sharding-image5.jpg)
+![image](../media/Partitioning-Sharding-image5.jpg)
 
 To ensure that entries are placed in the correct shards and in a consistent manner, the values entered into the hash function should all come from the same column. This column is known as ashard key. In simple terms, shard keys are similar to [primary keys](https://en.wikipedia.org/wiki/Primary_key) in that both are columns which are used to establish a unique identifier for individual rows. Broadly speaking, a shard key should be static, meaning it shouldn't contain values that might change over time. Otherwise, it would increase the amount of work that goes into update operations, and could slow down performance.
 
@@ -107,7 +107,7 @@ Hash-based sharding processes keys using a hash function and then uses the resul
 
 Contrary to range-based sharding, where all keys can be put in order, hash-based sharding has the advantage that keys are distributed almost randomly, so the distribution is even. As a result, it is more friendly to systems with heavy write workloads and read workloads that are almost all random. This is because the write pressure can be evenly distributed in the cluster. But apparently, operations likerange scanare almost impossible.
 
-![image](../../media/Partitioning-Sharding-image6.jpg)
+![image](../media/Partitioning-Sharding-image6.jpg)
 
 Some typical examples of hash-based sharding are [Cassandra Consistent hashing](https://docs.datastax.com/en/archived/cassandra/2.1/cassandra/architecture/architectureDataDistributeHashing_c.html), presharding of Redis Cluster and [Codis](https://github.com/CodisLabs/codis), and [Twemproxy consistent hashing](https://github.com/twitter/twemproxy/blob/master/README#features).
 
@@ -115,7 +115,7 @@ Some typical examples of hash-based sharding are [Cassandra Consistent hashing](
 
 Range based sharding involves sharding data based on ranges of a given value. To illustrate, let's say you have a database that stores information about all the products within a retailer's catalog. You could create a few different shards and divvy up each products' information based on which price range they fall into, like this:
 
-![image](../../media/Partitioning-Sharding-image7.jpg)
+![image](../media/Partitioning-Sharding-image7.jpg)
 
 The main benefit of range based sharding is that it's relatively simple to implement. Every shard holds a different set of data but they all have an identical schema as one another, as well as the original database. The application code just reads which range the data falls into and writes it to the corresponding shard.
 
@@ -124,7 +124,7 @@ On the other hand, range based sharding doesn't protect data from being unevenly
 Range-based sharding assumes that all keys in the database system can be put in order, and it takes a continuous section of keys as a sharding unit.
 It's very common to sort keys in order. HBase keys are sorted in byte order, while MySQL keys are sorted in auto-increment ID order. For some storage engines, the order is natural. In the case of both log-structured merge-tree (LSM-Tree) and B-Tree, keys are naturally in order.
 
-![image](../../media/Partitioning-Sharding-image8.jpg)
+![image](../media/Partitioning-Sharding-image8.jpg)
 
 In Figure 2 (source:[MongoDB uses range-based sharding to partition data](https://docs.mongodb.com/manual/core/ranged-sharding/)), the key space is divided into (minKey, maxKey). Each sharding unit (chunk) is a section of continuous keys. The advantage of range-based sharding is that the adjacent data has a high probability of being together (such as the data with a common prefix), which can well support operations like range scan. For example, HBase Region is a typical range-based sharding strategy.
 
@@ -138,7 +138,7 @@ Note that hash-based and range-based sharding strategies are not isolated. Inste
 
 To implementdirectory based sharding, one must create and maintain alookup tablethat uses a shard key to keep track of which shard holds which data. In a nutshell, a lookup table is a table that holds a static set of information about where specific data can be found. The following diagram shows a simplistic example of directory based sharding:
 
-![image](../../media/Partitioning-Sharding-image9.jpg)
+![image](../media/Partitioning-Sharding-image9.jpg)
 
 Here, theDelivery Zonecolumn is defined as a shard key. Data from the shard key is written to the lookup table along with whatever shard each respective row should be written to. This is similar to range based sharding, but instead of determining which range the shard key's data falls into, each key is tied to its own specific shard. Directory based sharding is a good choice over range based sharding in cases where the shard key has a low cardinality and it doesn't make sense for a shard to store a range of keys. Note that it's also distinct from key based sharding in that it doesn't process the shard key through a hash function; it just checks the key against a lookup table to see where the data needs to be written.
 

@@ -101,7 +101,7 @@ ORDER BY
   AVG_SLOT_USAGE;
 ```
 
-![image](../../../media/Screenshot%202025-01-27%20at%209.19.29%20PM.jpg)
+![image](../../media/Screenshot%202025-01-27%20at%209.19.29%20PM.jpg)
 
 With the changes above that can be implemented for BigQuery storage costs, one could have potential savings of around 20-30% by switching from logical storage to physical storage, though actual savings may vary based on the data type.
 

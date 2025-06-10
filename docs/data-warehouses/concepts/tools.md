@@ -94,11 +94,11 @@ Analytics engineering is the data transformation work that happens between loadi
 
 With dbt, data teams work directly within the warehouse to produce trusted datasets for reporting, ML modeling, and operational workflows.
 
-![DBT Platform](../../../media/Pasted%20image%2020230308224022.jpg)
+![DBT Platform](../../media/Pasted%20image%2020230308224022.jpg)
 
 dbt is a SQL-first transformation workflow that lets teams quickly and collaboratively deploy analytics code following software engineering best practices like modularity, portability, CI/CD, and documentation. Now anyone on the data team can safely contribute to production-grade data pipelines.
 
-![image](../../../media/Pasted%20image%2020230308224127.jpg)
+![image](../../media/Pasted%20image%2020230308224127.jpg)
 
 - https://www.getdbt.com
 - [What is dbt?](https://www.getdbt.com/product/what-is-dbt/)

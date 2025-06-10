@@ -45,6 +45,6 @@ https://en.wikipedia.org/wiki/Codd%27s_12_rules
 
 ## RDBMS Geneology
 
-![RDBMS Geneology](../../media/Screenshot%202024-07-17%20at%201.23.31%20AM.jpg)
+![RDBMS Geneology](../media/Screenshot%202024-07-17%20at%201.23.31%20AM.jpg)
 
 [RDBMS Genealogy V6.pdf](https://hpi.de/fileadmin/user_upload/fachgebiete/naumann/projekte/RDBMSGenealogy/RDBMS_Genealogy_V6.pdf)
