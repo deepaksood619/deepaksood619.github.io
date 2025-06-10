@@ -84,7 +84,7 @@ Cassandra is fundamentally a key-value store and distributes data around the clu
     - Writes 0.12 ms avg
     - Reads 15 ms avg
 
-![image](../../../media/Cassandra-image1.jpg)
+![image](../../media/Cassandra-image1.jpg)
 
 In the image above, circles are Cassandra nodes and lines between the circles shows distributed architecture, while the client is sending data to the node
 

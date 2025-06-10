@@ -63,7 +63,7 @@ Data Vaults organize data into three different types: **hubs**, **links**, and *
 
 Data Vault focuses on agile data warehouse development where scalability, data integration/ETL and development speed are important. Most customers have a landing zone, Vault zone and a data mart zone which correspond to the Databricks organizational paradigms of Bronze, Silver and Gold layers. The Data Vault modeling style of hub, link and satellite tables typically fits well in the Silver layer of the Databricks Lakehouse.
 
-![A diagram showing how Data Vault modeling works, with hubs, links, and satellites connecting to one another.](../../../media/Pasted%20image%2020230320193615.jpg)
+![A diagram showing how Data Vault modeling works, with hubs, links, and satellites connecting to one another.](../../media/Pasted%20image%2020230320193615.jpg)
 
 [Different Data Warehousing Modeling Techniques and How to Implement them on the Databricks Lakehouse Platform - The Databricks Blog](https://www.databricks.com/blog/2022/06/24/data-warehousing-modeling-techniques-and-their-implementation-on-the-databricks-lakehouse-platform.html)
 

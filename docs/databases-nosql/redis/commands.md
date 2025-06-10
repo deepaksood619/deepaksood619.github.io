@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/bitnami/charts/master/bitnami/redis/values-pro
 |---|---|
 | Supports multiple databases | Supports only one database. Better if you have a big dataset |
 | Single write point (single master) | Multiple write points (multiple masters) |
-| ![image](../../../media/Redis_Commands-image1.jpg) |  |
+| ![image](../../media/Redis_Commands-image1.jpg) |  |
 
 ### Commands
 

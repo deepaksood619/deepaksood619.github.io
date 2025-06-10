@@ -55,7 +55,7 @@ Under this encoding, each block is compressed with a standard compression algori
 - Changing column encoding requires a table rebuild
 - SELECT "column", type, encoding FROM pg_table_def WHERE tablename = 'deep dive';
 
-![image](../../../media/AWS-Redshift-image1.jpg)
+![image](../../media/AWS-Redshift-image1.jpg)
 
 ## Concurrency Control
 
@@ -185,7 +185,7 @@ To ensure data availability during disk or node failure, Redshift utilizes synch
 
 - Execute queries directly again Amazon S3
 
-![image](../../../media/AWS-Redshift-image2.jpg)
+![image](../../media/AWS-Redshift-image2.jpg)
 
 ## Views
 

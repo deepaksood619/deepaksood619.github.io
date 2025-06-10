@@ -17,9 +17,9 @@ BigQuery offers a slot-based pricing model where you can reserve slots (compute 
 - Analyze your current query workload to understand the number of slots required to process queries efficiently. Start with an estimate based on historical usage or query patterns.
 - Based on the previous pattern of usage, we have observed that the slots that you are on average using is around 100 slots and a max of 300 slots autoscaling
 
-![image](../../../media/Screenshot%202025-01-27%20at%209.27.34%20PM.jpg)
+![image](../../media/Screenshot%202025-01-27%20at%209.27.34%20PM.jpg)
 
-![image](../../../media/Screenshot%202025-01-27%20at%209.27.25%20PM.jpg)
+![image](../../media/Screenshot%202025-01-27%20at%209.27.25%20PM.jpg)
 
 #### 2. Reserve Slots
 
@@ -32,17 +32,17 @@ Note: BigQuery allows you to reserve slots in increments of 100.
 - Purchase a reservation for 100 slots. This will cover your baseline needs 24/7 and 300 slots with 25% utilization a day (6 hours of usage of all 300 slots) provide a significant cost reduction compared to on-demand pricing.
 - Enable autoscaling to automatically increase slot allocation up to 300 during peak usage times. This flexibility ensures your queries run smoothly without overspending on unnecessary capacity
 
-![image](../../../media/Screenshot%202025-01-27%20at%209.26.58%20PM.jpg)
+![image](../../media/Screenshot%202025-01-27%20at%209.26.58%20PM.jpg)
 
 Select the maximum reservation and baseline slots. Additionally, you can view the estimated cost when combining baseline and autoscaling. Below is a sample cost breakdown for autoscaling usage at 25%, 50%, and 100% in a day.
 
 - Baseline Slots: 100 slots (running 24/7)
 
-![image](../../../media/Screenshot%202025-01-27%20at%209.26.38%20PM.jpg)
+![image](../../media/Screenshot%202025-01-27%20at%209.26.38%20PM.jpg)
 
 - Maximum Reservation Slots: 300 slots (used for increased capacity)
 
-![image](../../../media/Screenshot%202025-01-27%20at%209.26.16%20PM.jpg)
+![image](../../media/Screenshot%202025-01-27%20at%209.26.16%20PM.jpg)
 
 ##### Estimated Cost Breakdown
 
@@ -61,7 +61,7 @@ Select the maximum reservation and baseline slots. Additionally, you can view th
 
 By comparing these estimates, you can better understand the cost implications of different levels of autoscaling usage.
 
-![image](../../../media/Screenshot%202025-01-27%20at%209.25.50%20PM.jpg)
+![image](../../media/Screenshot%202025-01-27%20at%209.25.50%20PM.jpg)
 
 ### 3. Monitor and Adjust
 

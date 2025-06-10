@@ -76,15 +76,15 @@ Classic Resize
 Elastic Resize
 - Nodes are added/removed to/from existing cluster (within minutes)
 
-![image](../../../media/AWS-Redshift_Pricing-Sizing-image2.jpg)
+![image](../../media/AWS-Redshift_Pricing-Sizing-image2.jpg)
 
-![image](../../../media/AWS-Redshift_Pricing-Sizing-image3.jpg)
+![image](../../media/AWS-Redshift_Pricing-Sizing-image3.jpg)
 
-![image](../../../media/AWS-Redshift_Pricing-Sizing-image4.jpg)
+![image](../../media/AWS-Redshift_Pricing-Sizing-image4.jpg)
 
-![image](../../../media/AWS-Redshift_Pricing-Sizing-image5.jpg)
+![image](../../media/AWS-Redshift_Pricing-Sizing-image5.jpg)
 
-![image](../../../media/AWS-Redshift_Pricing-Sizing-image6.jpg)
+![image](../../media/AWS-Redshift_Pricing-Sizing-image6.jpg)
 
 ## Best Practices: Cluster Sizing
 

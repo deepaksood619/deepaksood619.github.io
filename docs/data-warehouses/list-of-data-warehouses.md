@@ -22,4 +22,4 @@ Firebolt has completely redesigned the cloud data warehouse to deliver a super f
 
 Firebolt's serverless architecture connects to your S3 data lake as its data source and to the entire data ecosystem using standard SQL as its destination
 
-![image](../../media/Data-Warehousing_Databases-image1.jpg)
+![image](../media/Data-Warehousing_Databases-image1.jpg)

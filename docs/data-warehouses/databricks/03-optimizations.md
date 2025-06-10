@@ -78,7 +78,7 @@ As Databricks continues to add features and capabilities, we can also Auto Tune 
 
 ### Create a Z-Order on your fact tables
 
-![z-order](../../../media/Pasted%20image%2020230320173453.jpg)
+![z-order](../../media/Pasted%20image%2020230320173453.jpg)
 
 If you expect a column to be commonly used in query predicates and if that column has high cardinality (that is, a large number of distinct values), then use `ZORDER BY`.
 

@@ -40,7 +40,7 @@
 - **Aurora IO Optimized**
     - db.r6g.xlarge - 1,068.54 USD
 
-![Different MySQL Comparisons](../../../media/Screenshot%202024-04-15%20at%207.27.11%20PM.jpg)
+![Different MySQL Comparisons](../../media/Screenshot%202024-04-15%20at%207.27.11%20PM.jpg)
 
 ### Instances Cost
 

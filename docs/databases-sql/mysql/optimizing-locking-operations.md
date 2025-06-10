@@ -59,7 +59,7 @@ Mysql innodb engine performs row locking on inserts. If column A has a unique ke
 8. **Page-Level Lock -** It locks a specific page (a fixed-size block of data) in the database.
 9. **Table-Level Lock -** It locks an entire table. This is simple to implement but can reduce concurrency significantly.
 
-![Types of database locks](../../../media/Pasted%20image%2020240626161909.jpg)
+![Types of database locks](../../media/Pasted%20image%2020240626161909.jpg)
 
 ### Row Locks
 

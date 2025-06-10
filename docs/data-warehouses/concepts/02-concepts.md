@@ -1,6 +1,6 @@
 # Concepts
 
-![image](../../../media/Data-Warehousing_Concepts-image1.jpg)
+![image](../../media/Data-Warehousing_Concepts-image1.jpg)
 
 The data warehouse is based on an RDBMS server which is a central information repository that is surrounded by some key components to make the entire environment functional, manageable and accessible
 

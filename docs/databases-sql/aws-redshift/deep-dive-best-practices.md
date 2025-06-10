@@ -114,9 +114,9 @@ UPDATE and DELETE
 - Immutable blocks means that we only logically delete rows on UPDATE or DELETE
 - Must VACUUM or DEEP COPY to remove ghost rows from table
 
-![image](../../../media/AWS-Redshift_Deep-dive-Best-practices-image1.jpg)
+![image](../../media/AWS-Redshift_Deep-dive-Best-practices-image1.jpg)
 
-![image](../../../media/AWS-Redshift_Deep-dive-Best-practices-image2.jpg)
+![image](../../media/AWS-Redshift_Deep-dive-Best-practices-image2.jpg)
 
 Steps
 
@@ -126,7 +126,7 @@ Steps
 
 Create a Transaction
 
-![image](../../../media/AWS-Redshift_Deep-dive-Best-practices-image3.jpg)
+![image](../../media/AWS-Redshift_Deep-dive-Best-practices-image3.jpg)
 
 ## Best practices: ELT
 

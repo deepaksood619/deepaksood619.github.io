@@ -385,7 +385,7 @@ https://redis.io/topics/data-types-intro
 
 Another way to reduce latency associated with high command volume is to pipeline several commands together so that you reduce latency due to network usage. Rather than sending 10 client commands to the Redis server individually and taking the network latency hit 10 times, pipelining the commands will send them all at once and pay the network latency cost only once. Pipelining commands is supported by the Redis server and by most clients. This is only beneficial if network latency is significantly larger than your instance's
 
-![image](../../../media/Redis_Redis-Data-Types-image1.jpg)
+![image](../../media/Redis_Redis-Data-Types-image1.jpg)
 
 https://redis.io/topics/pipelining
 
@@ -408,4 +408,4 @@ https://redis.io/topics/pipelining
 | **LREM**        | remove elements from a list                     | reducing the length of the list                                                              |
 | **LRANGE**      | get range of elements from a list               | reduce the start offset and/or the number of elements in range                               |
 
-![image](../../../media/redis-use-cases.jpg)
+![image](../../media/redis-use-cases.jpg)

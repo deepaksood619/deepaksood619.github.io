@@ -10,7 +10,7 @@ Since Gh-ost operates using the binary log, it is not susceptible to the [trigge
 
 So how does Gh-ost work? By default, Gh-ost connects to a replica (slave), identifies the master, and applies the migration on the master. It receives changes on a replica to the source table in [binlog_format=ROW](https://dev.mysql.com/doc/en/binary-log-setting.html), parses the log, and converts these statements to be re-executed on the master's shadow table.It keeps track of the row counts on the replica and identifies when it is time to perform an atomic cutover (switch tables).
 
-![image](../../../media/MySQL_SQL-MySQL-Tools-image1.jpg)
+![image](../../media/MySQL_SQL-MySQL-Tools-image1.jpg)
 
 ### Gh-ost operation modes
 
@@ -18,7 +18,7 @@ Gh-ost provides an alternative mode where you execute the migration directly on 
 
 A final option is available to run the migration only on the replica without impacting the master, so you can test or otherwise validate the migration.
 
-![image](../../../media/MySQL_SQL-MySQL-Tools-image2.jpg)
+![image](../../media/MySQL_SQL-MySQL-Tools-image2.jpg)
 
 ### Gh-ost general flow
 

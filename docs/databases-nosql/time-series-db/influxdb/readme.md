@@ -90,7 +90,7 @@ A series is the most important concept of Influxdb. A series is a combination of
 9. tsm (Time Structured Merge tree)
 10. wal (Write Ahead Log)
 
-![image](../../../../media/InfluxDB-image1.jpg)
+![image](../../../media/InfluxDB-image1.jpg)
 
 TICK Stack (https://www.influxdata.com/time-series-platform)
 
@@ -99,4 +99,4 @@ TICK Stack (https://www.influxdata.com/time-series-platform)
 - Choronograf
 - Kapacitor
 
-![image](../../../../media/InfluxDB-image2.jpg)
+![image](../../../media/InfluxDB-image2.jpg)

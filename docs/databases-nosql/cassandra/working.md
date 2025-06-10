@@ -43,7 +43,7 @@
 - Memtable flushed to disk periodically (sstable)
 - New memtable is created in memory
 - Deletes are a special write case, called a "tombstone"
-![image](../../../media/Cassandra_Working-image1.jpg)
+![image](../../media/Cassandra_Working-image1.jpg)
 
 ## What is an SSTable
 
@@ -62,7 +62,7 @@
 - On each node, data is pulled from SSTables and merged
 - Consistency < All performs read repair in background (read_repair_chance -default 10% of reads)
 
-![image](../../../media/Cassandra_Working-image2.jpg)
+![image](../../media/Cassandra_Working-image2.jpg)
 
 ### Compaction
 

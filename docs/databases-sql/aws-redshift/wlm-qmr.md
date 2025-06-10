@@ -53,7 +53,7 @@ Set query timeouts to abort long running queries
 
 #### Create a queue for each workload type
 
-![image](../../../media/AWS-Redshift_Deep-dive-Best-practices-image4.jpg)
+![image](../../media/AWS-Redshift_Deep-dive-Best-practices-image4.jpg)
 
 - Unallocated memory goes into a general pool that can be used by any queue
 

@@ -39,7 +39,7 @@ _Partition pruning_ is a query optimization technique that improves performance 
 
 ## Others
 
-![table-partitioning-postgres](../../../media/Pasted%20image%2020230326214011.jpg)
+![table-partitioning-postgres](../../media/Pasted%20image%2020230326214011.jpg)
 
 ## Links
 

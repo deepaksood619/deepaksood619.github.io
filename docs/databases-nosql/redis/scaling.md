@@ -57,7 +57,7 @@ https://github.com/twitter/twemproxy
 
 Proxy based Redis cluster solution supporting pipeline and scaling dynamically
 
-![image](../../../media/Redis-image1.jpg)
+![image](../../media/Redis-image1.jpg)
 
 https://github.com/CodisLabs/codis
 
@@ -110,4 +110,4 @@ Dragonfly is a drop-in Redis replacement, designed to meet the performance and e
 5. Aerospike
 6. [GitHub - DiceDB/dice: A drop-in replacement of Redis with SQL-based realtime reactivity.](https://github.com/dicedb/dice)
 
-![Cheatsheet on comparigin key-value stores](../../../media/Pasted%20image%2020250327225921.png)
+![Cheatsheet on comparigin key-value stores](../../media/Pasted%20image%2020250327225921.png)

@@ -257,3 +257,4 @@ As Uber continues to scale, these technologies and strategies provide the founda
 - [Pinot Architecture](https://docs.pinot.apache.org/basics/concepts/architecture)
 - [What is Presto?](https://prestodb.io/docs/current/overview/concepts.html)
 - [How Zepto’s Data Team Built for 10-Minute Delivery](https://analyticsindiamag.com/ai-features/how-zeptos-data-team-built-for-10-minute-delivery/)
+- **[Which Data Architecture Should I Choose for My Workplace? — A Data Engineer’s Approach \| by Dr. Fatih Hattatoglu \| Academy Team \| Apr, 2025 \| Medium](https://medium.com/academy-team/which-data-architecture-should-i-choose-for-my-workplace-a-data-engineers-approach-f913b71d8ee6)**

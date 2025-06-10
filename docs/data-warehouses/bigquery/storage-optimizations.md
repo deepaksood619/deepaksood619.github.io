@@ -26,7 +26,7 @@ BigQuery charges based on active logical storage, which is often higher compared
 
 Example:
 
-![image](../../../media/Screenshot%202025-01-27%20at%209.16.10%20PM.jpg)
+![image](../../media/Screenshot%202025-01-27%20at%209.16.10%20PM.jpg)
 
 From the above snapshot and the storage cost information, we can deduce the following about the cost efficiency of physical storage over logical storage due to compression:
 
@@ -97,15 +97,15 @@ The compression reduces the physical storage size, thus lowering the overall cos
 
 Step1: Apply Physical Billing model at a Dataset level
 
-![image](../../../media/Screenshot%202025-01-27%20at%209.14.53%20PM.jpg)
+![image](../../media/Screenshot%202025-01-27%20at%209.14.53%20PM.jpg)
 
 Click on Edit Details
 
-![image](../../../media/Screenshot%202025-01-27%20at%209.14.37%20PM.jpg)
+![image](../../media/Screenshot%202025-01-27%20at%209.14.37%20PM.jpg)
 
 Click on Advanced Options and select the storage and time travel window
 
-![image](../../../media/Screenshot%202025-01-27%20at%209.14.05%20PM.jpg)
+![image](../../media/Screenshot%202025-01-27%20at%209.14.05%20PM.jpg)
 
 ### Identifying tables with the type of storage across Organization Steps
 
@@ -283,7 +283,7 @@ tools.display_dataframe_to_user(name="Storage Type Update Results", dataframe=df
 
 ```
 
-![image](../../../media/Screenshot%202025-01-27%20at%209.12.10%20PM.jpg)
+![image](../../media/Screenshot%202025-01-27%20at%209.12.10%20PM.jpg)
 
 Auto Deleting Tables that are not frequently used in a project with table Prefix ’_bqc_’: This script is designed to automatically delete tables in a Google BigQuery dataset that are prefixed with "bqc" and have not been modified for a specified number of hours.
 
@@ -344,4 +344,4 @@ for row in query_job:
     client.query(f"DROP TABLE IF EXISTS `{dataset_id}.{table_id}`").result()
 ```
 
-![image](../../../media/Screenshot%202025-01-27%20at%209.10.02%20PM.jpg)
+![image](../../media/Screenshot%202025-01-27%20at%209.10.02%20PM.jpg)

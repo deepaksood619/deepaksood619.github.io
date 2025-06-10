@@ -74,14 +74,14 @@ Druid is fundamentally a column store, and is designed for analytical queries (G
 - String columns in Druid are indexed with bitmap indexes
 - Columns are further compressed with general-purpose algorithms like LZ4 (Lossless compression)
 
-![image](../../../media/Druid-image1.jpg)
+![image](../../media/Druid-image1.jpg)
 
 - This on-disk format has several benefits:
     - Filtering if a domain exists require reading less data
     - Compression of like data performs better than a row-oriented format
     - Druid only needs to read the columns involved in a query, eliminating extraneous fetches from disk and memory
 
-![image](../../../media/Druid-image2.jpg)
+![image](../../media/Druid-image2.jpg)
 
 ## Druid Data Modelling
 
@@ -107,11 +107,11 @@ Druid is fundamentally a column store, and is designed for analytical queries (G
 
 ### Supported Types
 
-![image](../../../media/Druid-image3.jpg)
+![image](../../media/Druid-image3.jpg)
 
 #### Multi-value and Nested Dimensions
 
-![image](../../../media/Druid-image4.jpg)
+![image](../../media/Druid-image4.jpg)
 
 #### Druid Native Batch
 
@@ -121,7 +121,7 @@ Druid is fundamentally a column store, and is designed for analytical queries (G
 - Druid also supports batching ingestion with Hadoop
 - **Native Batch Architecture**
 
-![image](../../../media/Druid-image5.jpg)
+![image](../../media/Druid-image5.jpg)
 
 ### Druid SQL Query API
 
@@ -136,15 +136,15 @@ Druid is fundamentally a column store, and is designed for analytical queries (G
     - The SQL API is virtually at parity with the JSON and is easier to use
 - Where clauses
 
-![image](../../../media/Druid-image6.jpg)
+![image](../../media/Druid-image6.jpg)
 
 - Limiting
 
-![image](../../../media/Druid-image7.jpg)
+![image](../../media/Druid-image7.jpg)
 
 - Group By Query
 
-![image](../../../media/Druid-image8.jpg)
+![image](../../media/Druid-image8.jpg)
 
 ## Druid kafka ingestion
 
@@ -156,11 +156,11 @@ http://druid.io/docs/latest/tutorials/tutorial-kafka.html
 
 https://imply.io/post/exactly-once-streaming-ingestion
 
-![image](../../../media/Druid-image9.jpg)
+![image](../../media/Druid-image9.jpg)
 
-![image](../../../media/Druid-image10.jpg)
+![image](../../media/Druid-image10.jpg)
 
-![image](../../../media/Druid-image11.jpg)
+![image](../../media/Druid-image11.jpg)
 
 ## References
 

@@ -14,7 +14,7 @@
 
 ## Sharding vs Replication
 
-![Sharding vs replication](../../../media/Screenshot%202025-05-15%20at%207.40.59%20AM.jpg)
+![Sharding vs replication](../../media/Screenshot%202025-05-15%20at%207.40.59%20AM.jpg)
 
 ## Replication
 
@@ -25,7 +25,7 @@
 - Clickhouse native TCP/IP - 9000
 - Clickhouse communication between replicated instances - 9009
 
-![Clickhouse Replication](../../../media/Screenshot%202025-05-15%20at%207.47.08%20AM.jpg)
+![Clickhouse Replication](../../media/Screenshot%202025-05-15%20at%207.47.08%20AM.jpg)
 
 ### Clickhouse Keeper
 

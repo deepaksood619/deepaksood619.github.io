@@ -281,7 +281,7 @@ innodb_flush_log_at_timeout
 
 ### Aurora I/O Optimized Databases
 
-![Aurora Pay Structure](../../../media/Screenshot%202024-04-12%20at%2012.31.51%20PM.jpg)
+![Aurora Pay Structure](../../media/Screenshot%202024-04-12%20at%2012.31.51%20PM.jpg)
 
 - Aurora cluster configuration with the option to pay for compute and storage only with no charges for read and write I/O operations
 - Price predictability: no pay-per-request I/O charges making it easy to estimate database spend upfront
@@ -290,7 +290,7 @@ innodb_flush_log_at_timeout
 - Available for Aurora PostgreSQL-Compatible Edition and Aurora MySQL-Compatible Edition
 - Supported on Aurora Serverless v2 and provisioned (on-demand and reserved) instances
 
-![Predictable Prices](../../../media/Screenshot%202024-04-12%20at%2012.36.41%20PM.jpg)
+![Predictable Prices](../../media/Screenshot%202024-04-12%20at%2012.36.41%20PM.jpg)
 
 #### Pricing
 

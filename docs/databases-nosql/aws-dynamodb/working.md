@@ -38,7 +38,7 @@ Replicated write capacity unit (rWCU)- One **read capacity unit** represents one
 
 - One **write capacity unit** represents one write per second for items up to 1 KB in size. If you need to write an item that is larger than 1 KB, DynamoDB will need to consume additional write capacity units. The total number of write capacity units required depends on the item size.
 
-![image](../../../media/AWS-DynamoDB_Working-image1.jpg)
+![image](../../media/AWS-DynamoDB_Working-image1.jpg)
 
 - Secondary Indexes
     - Local secondary indexes
@@ -125,7 +125,7 @@ https://aws.amazon.com/dynamodb/pricing/provisioned
 
 ## Calculating partition counts (reads)
 
-![image](../../../media/AWS-DynamoDB_Working-image2.jpg)
+![image](../../media/AWS-DynamoDB_Working-image2.jpg)
 
 ## Time-based workflows
 

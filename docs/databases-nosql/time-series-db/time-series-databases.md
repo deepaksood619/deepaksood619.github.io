@@ -12,7 +12,7 @@
 
 Time Series Databases have key architectural design properties that make them very different from other databases. These include: time-stamp data storage and compression, data lifecycle management, data summarization, ability to handle large time series dependent scans of many records, and time series aware queries.
 
-![image](../../../media/Time-Series-Databases-image1.jpg)
+![image](../../media/Time-Series-Databases-image1.jpg)
 
 *For example:* With a Time Series Database, it is common to request a summary of data over a large time period. This requires going over a range of data points to perform some computation like a percentile increase this month of a metric over the same period in the last six months, summarized by month. This kind of workload is very difficult to optimize for with a distributed key value store. TSDB's are optimized for exactly this use case giving millisecond level query times over months of data.
 

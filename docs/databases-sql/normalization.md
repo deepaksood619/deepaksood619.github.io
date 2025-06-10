@@ -113,7 +113,7 @@ Products Brand table:
 | 3    | 2         | 3       |
 | 4    | 3         | 4       |
 
-![image](../../media/Normalization-image1.jpg)
+![image](../media/Normalization-image1.jpg)
 
 ### Third Normal Form (3NF)
 

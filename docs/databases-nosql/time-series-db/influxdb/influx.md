@@ -2,11 +2,11 @@
 
 The complete time series platform.
 
-![image](../../../../media/InfluxDB_Influx-image1.jpg)
+![image](../../../media/InfluxDB_Influx-image1.jpg)
 
 ## TICK Stack
 
-![image](../../../../media/InfluxDB_Influx-image2.jpg)
+![image](../../../media/InfluxDB_Influx-image2.jpg)
 
 ### 1. Telegraf
 
