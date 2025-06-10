@@ -3,7 +3,7 @@
 - [Intro](computer-science/distributed-system/intro.md)
 - [Vocabulary](vocabulary)
 - [CAP Theorem](cap-theorem)
-- [Consistency](consistency)
+- [Consistency](computer-science/distributed-system/consistency.md)
 - [Fallacies and Problems](fallacies-and-problems)
 - [Byzantine Generals Problem](computer-science/distributed-system/byzantine-generals-problem.md)
 - [Distributed Logging](distributed-logging)

@@ -149,6 +149,18 @@ A loan tape is a snapshot of a fintech's customer base and outstanding balances,
 - MOB - Monthly Outstanding Balance
 - FOIR - fixed obligation to income ratio / debt-to-income ratio
 
+### Hardship Programs
+
+- **Moratorium -** When needed, we offer regulated moratoriums to pause repayments temporarily, giving borrowers space to recover.
+- **Forbearance -** We have provisioned cushion periods that prevent delinquency & allow the borrower to time & space they need to recover financially without pressure or penalties.
+- **Fee forgiveness -** For eligible hardship cases, we waive late fees and penalties. We've identified scenarios where fee waivers are automated, ensuring faster support.
+
+### Loan restructuring
+
+- **Tenure restructuring -** By extending loan durations, we reduce EMis and make repayments more manageable - without increasing pressure.
+- **Payment restructuring -** Repayments are realigned based on revised income or cash flow, helping prevent defaults and build long-term trust.
+- **Frequency restructuring -** We match repayment cycles to income flow - shifting from weekly to bi-weekly or monthly when needed.
+
 ## Credit Bureaus
 
 1. TransUnion Cibil

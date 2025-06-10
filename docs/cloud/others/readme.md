@@ -2,7 +2,7 @@
 
 - [Google Cloud Platform (GCP)](cloud/others/gcp-google-cloud-platform.md)
     - [Anthos](cloud/others/gcp-anthos.md)
-    - [Big Query / Big Query](databases/data-warehouses/bigquery/readme.md)
+    - [Big Query / Big Query](data-warehouses/bigquery/readme.md)
     - [GCP ML Services](cloud/others/gcp-ml-services.md)
 - [Azure](azure/readme.md)
 - [Linode](cloud/others/linode.md)

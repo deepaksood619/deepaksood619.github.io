@@ -39,7 +39,7 @@ Flexi-cap and multi-cap funds both invest across large, mid, and small-cap stock
 
 [Top 5 flexi cap funds with returns up to 38% in 5 years as on Mar 26, 2025 \| EconomicTimes](https://economictimes.indiatimes.com/wealth/web-stories/top-5-flexi-cap-funds-with-returns-up-to-38-in-5-years-as-on-mar-26-2025/slideshow/119902124.cms?from=mdr)
 
-- Parag Parikh Flexi Cap Fund
+- Parag Parikh Flexi Cap Fund (PPFCF)
 - HDFC Flexi Cap Fund (new addition)
 - UTI Flexi Cap Fund
 - PGIM India Flexi Cap Fund
@@ -48,6 +48,8 @@ Flexi-cap and multi-cap funds both invest across large, mid, and small-cap stock
 - Canara Robeco Flexi Cap Fund
 
 [Parag Parekh Flexi Cap Fund vs HDFC Flexi Cap Fund: Which Fund Delivered Higher Returns?](https://www.angelone.in/news/parag-parekh-flexi-cap-fund-vs-hdfc-flexi-cap-fund-which-fund-delivered-highest-returns)
+
+[Parag Parikh Flexi Cap Vs HDFC Flexi Cap: Which One Should You Choose? - YouTube](https://youtu.be/JM6UJYvQizQ)
 
 ## Active Equity MFs
 

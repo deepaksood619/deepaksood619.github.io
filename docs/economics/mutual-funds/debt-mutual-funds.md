@@ -147,6 +147,7 @@ If the mutual fund units are sold after 2 years from the date of investment, gai
 - [Parag Parikh Dynamic Asset Allocation Fund: Who should invest?](https://freefincal.com/parag-parikh-dynamic-asset-allocation-fund-who-should-invest/)
 - [Parag Parikh Dynamic Asset Allocation Fund vs Parag Parikh Conservative Hybrid Fund](https://freefincal.com/parag-parikh-dynamic-asset-allocation-fund-vs-parag-parikh-conservative-hybrid-fund/)
 - [Parag Parikh Dynamic Asset Allocation Fund \| EXPLAINED by Neil Parag Parikh - YouTube](https://www.youtube.com/watch?v=G1fJWTO6Dbw&ab_channel=PPFASMutualFund)
+- [Should I invest in Income Plus Arbitrage Fund of Funds to lower tax liability?](https://freefincal.com/should-i-invest-in-income-plus-arbitrage-fund-of-funds-to-lower-tax-liability/)
 
 ## Debt Funds vs Fixed Deposit (FD)
 

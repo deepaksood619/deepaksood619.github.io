@@ -26,4 +26,4 @@
 
 ## Links
 
-[Databricks](databases/data-warehouses/databricks/readme.md)
+[Databricks](data-warehouses/databricks/readme.md)

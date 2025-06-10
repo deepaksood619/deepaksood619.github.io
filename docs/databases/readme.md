@@ -3,14 +3,14 @@
 - [Concepts](databases/concepts/readme.md)
 - [Indexing](indexing/readme.md)
 - [Modeling](modeling/readme.md)
-- [SQL Databases](sql-databases/readme.md)
-- [NoSQL Databases](nosql-databases/readme.md)
-- [Data Warehouses](databases/data-warehouses/readme.md)
+- [SQL Databases](databases-sql/readme.md)
+- [NoSQL Databases](databases-nosql/readme.md)
+- [Data Warehouses](data-warehouses/readme.md)
 - [Others](databases/others/readme.md)
 - Cloud DBs
-    - [Amazon Aurora](databases/sql-databases/aws-aurora/readme.md)
-    - [Amazon DynamoDB](databases/nosql-databases/aws-dynamodb/readme.md)
-    - [Amazon Redshift](databases/sql-databases/aws-redshift/readme.md)
+    - [Amazon Aurora](databases-sql/aws-aurora/readme.md)
+    - [Amazon DynamoDB](databases-nosql/aws-dynamodb/readme.md)
+    - [Amazon Redshift](databases-sql/aws-redshift/readme.md)
 
 ## Links
 
