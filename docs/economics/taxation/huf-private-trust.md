@@ -143,3 +143,4 @@ Therefore, upon the death of the individual who transferred the asset to the HUF
 - [Business with Job, Legal? \| A to Z of Sole Proprietorship \| Business Basics #2 - YouTube](https://youtu.be/Gj5jvAOzO-0)
 - [How Indian Families Saved ₹3,800+ CRORES in Taxes using Hindu Undivided Family (HUF) laws - YouTube](https://youtu.be/nGf7tepuBOE)
 - [Private Limited - Good or Very bad? \| Business Basics Ep#4 - YouTube](https://youtu.be/Yxq_gCOmv2Y)
+- [The HUF tax hack everyone’s talking about—but few understand](https://www.livemint.com/money/personal-finance/huf-tax-benefits-hindu-undivided-family-huf-income-tax-huf-pan-card-how-to-create-huf-huf-tax-saving-huf-rules-india-11749547680529.html)

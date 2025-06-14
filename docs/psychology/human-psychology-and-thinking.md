@@ -114,7 +114,7 @@ psychological manipulation of a person for one’s advantage-causing the person 
 
 ## Johari Window model
 
-The Johari Window model is ==a tool that helps people understand themselves and others==. It's a visual framework that's often used in self-help groups and in corporate settings.
+The Johari Window model is a tool that helps people understand themselves and others. It's a visual framework that's often used in self-help groups and in corporate settings.
 
 |                  | What it is                                                                             |
 | ---------------- | -------------------------------------------------------------------------------------- |

@@ -77,6 +77,8 @@ If certain data points are missing for a school, mention "**Information Not Avai
 
 ## Noida Schools (Best schools in Noida)
 
+[Noida Schools List in Maps - maps.app.goo.gl/jEe1Sm4E7C47kpzD7](https://maps.app.goo.gl/jEe1Sm4E7C47kpzD7)
+
 [ChatGPT - IB School Comparison Noida](https://chatgpt.com/share/680e821f-40e4-8005-a032-fecb0efe08e4)
 
 [Noida Schools Comparision - Google Sheets](https://docs.google.com/spreadsheets/d/14kqX8Ach3_Pzk6V8eoFo9CkLLtZ03cwEktSv2ZH7VDA/edit?usp=sharing)

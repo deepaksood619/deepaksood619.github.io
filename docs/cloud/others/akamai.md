@@ -2,7 +2,7 @@
 
 ### Offload
 
-In Akamai, offload is ==the percentage of requests that are served from edge servers without needing to reach the origin server==. It's a metric that helps improve user experience and reduce costs.
+In Akamai, offload is the percentage of requests that are served from edge servers without needing to reach the origin server. It's a metric that helps improve user experience and reduce costs.
 
 #### How it works
 

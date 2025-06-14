@@ -141,7 +141,7 @@ IGBTs were developed to combine high efficiency with fast switching. They are ub
 
 ## MOSFET
 
-A metal-oxide-semiconductor field-effect transistor (MOSFET) is ==a voltage-controlled device that uses an electric field to control the current flowing in it==. MOSFETs are the most common type of field-effect transistor (FET).
+A metal-oxide-semiconductor field-effect transistor (MOSFET) is a voltage-controlled device that uses an electric field to control the current flowing in it. MOSFETs are the most common type of field-effect transistor (FET).
 
 MOSFETs have three terminals: source, gate, and drain. The voltage of the insulated gate determines the conductivity of the device. MOSFETs are used as electrical switches and amplifiers. They can be used in both digital and analog circuits.
 

@@ -78,6 +78,7 @@ A warehouse management system is software that helps companies manage and contro
 - [sap](cloud/others/sap.md)
 - Best - **[GitHub - frappe/hrms: Open Source HR and Payroll Software](https://github.com/frappe/hrms)**
 - [Cadana \| Payroll Infrastructure for Emerging Markets](https://cadanapay.com/)
+- [Keka \| The HR Payroll software loved by businesses like yours](https://www.keka.com)
 
 ## Education
 

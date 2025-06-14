@@ -63,7 +63,7 @@ A good average response time for a Google crawl is under 200 milliseconds (ms)
 
 A response time closer to 1,000 ms could mean Googlebot isn't able to crawl as much of a site as it ideally would.
 
-==If Your Average Server Response Time Goes Up Significantly because of a CDN Implementation, Google Will Crawl Your Site Less.== This is because Google's crawl rate is based on average response time and server errors. A longer response time can mean that Googlebot is unable to crawl as much of a site as it would ideally like.
+If Your Average Server Response Time Goes Up Significantly because of a CDN Implementation, Google Will Crawl Your Site Less. This is because Google's crawl rate is based on average response time and server errors. A longer response time can mean that Googlebot is unable to crawl as much of a site as it would ideally like.
 
 [How to Improve Server Response Time - Google Crawl Stat](https://opositive.io/blog/crawl-stats-what-is-server-response-time-in-gsc)
 

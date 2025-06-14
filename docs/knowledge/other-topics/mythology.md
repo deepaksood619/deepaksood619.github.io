@@ -7,3 +7,8 @@
 [Akshaya Patra - Wikipedia](https://en.wikipedia.org/wiki/Akshaya_Patra)
 
 [The Truth about Ramayan | Shri Ram | Diwali Special | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=nZGq7NdL48Y&ab_channel=DhruvRathee)
+
+## Others
+
+- Ejiao refers to a gelatinous product made from the hide of donkeys, used in traditional Chinese medicine. It's a popular ingredient in various remedies and is believed to have numerous health benefits. Ejiao is a gelatin made by stewing and concentrating donkey hide.
+- [Donkey-hide gelatin - Wikipedia](https://en.wikipedia.org/wiki/Donkey-hide_gelatin)

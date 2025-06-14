@@ -24,6 +24,7 @@ Vector databases are designed to handle critical query and algorithmic styles se
     - [Vector database - Milvus](https://milvus.io/)
 - [Qdrant - Vector Database - Qdrant](https://qdrant.tech/)
 	- [GitHub - qdrant/qdrant: Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/](https://github.com/qdrant/qdrant)
+- [GitHub - kuzudb/kuzu: Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.](https://github.com/kuzudb/kuzu)
 
 ## Working
 

@@ -5,3 +5,4 @@
 - [Email Marketing](management/marketing-sales/email-sms-marketing.md)
 - [Digital Advertising](management/marketing-sales/digital-advertising.md)
 - [Sales](management/marketing-sales/sales.md)
+- [SAAS Discovery Questions](management/marketing-sales/saas-discovery-questions.md)

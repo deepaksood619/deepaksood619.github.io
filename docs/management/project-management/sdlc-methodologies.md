@@ -9,7 +9,7 @@
 
 ## Project Methodology
 
-Project methodology is ==a system of principles, techniques, and procedures that project managers use to guide their work==. Different methodologies can have different structures, deliverables, workflows, and software requirements. Here are some examples of project management methodologies:
+Project methodology is a system of principles, techniques, and procedures that project managers use to guide their work. Different methodologies can have different structures, deliverables, workflows, and software requirements. Here are some examples of project management methodologies:
 
 ### Scrum
 

@@ -24,6 +24,10 @@ https://docs.microsoft.com/en-us/azure/aks/virtual-kubelet#installation
 
 https://docs.microsoft.com/en-us/azure/aks/use-multiple-node-pools
 
+## Azure Storage
+
+Locally Redundant Storage (LRS) in Azure stores data three times within a single datacenter in the primary region. This replication protects against hardware failures like drive or server rack issues, offering a basic level of data durability. LRS is the least expensive option for data redundancy in Azure.
+
 ## Others
 
 - [Lock your Azure resources to protect your infrastructure - Azure Resource Manager \| Microsoft Learn](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources?tabs=json)

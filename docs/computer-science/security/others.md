@@ -44,7 +44,7 @@ Stegosploit creates a new way to encode "drive-by" browser exploits and deliver 
 
 ### Domain-based Message Authentication, Reporting and Conformance (DMARC)
 
-DMARC, or Domain-based Message Authentication, Reporting, and Conformance, is ==an email security protocol that helps protect email senders and recipients from fraud==. DMARC builds on the Domain Name System (DNS), DomainKeys Identified Mail (DKIM), and Sender Policy Framework (SPF) protocols to verify email senders.
+DMARC, or Domain-based Message Authentication, Reporting, and Conformance, is an email security protocol that helps protect email senders and recipients from fraud. DMARC builds on the Domain Name System (DNS), DomainKeys Identified Mail (DKIM), and Sender Policy Framework (SPF) protocols to verify email senders.
 
 Here are some benefits of DMARC:
 
@@ -54,7 +54,7 @@ Here are some benefits of DMARC:
 
 ### DKIM
 
-DomainKeys Identified Mail (DKIM) is ==an email authentication method that helps prevent spoofed senders and spam==. It works by adding a digital signature to an email, which is then verified using a public key in the domain's DNS records. DKIM is one of the most common ways to authenticate an email sender, along with SPF and DMARC.
+DomainKeys Identified Mail (DKIM) is an email authentication method that helps prevent spoofed senders and spam. It works by adding a digital signature to an email, which is then verified using a public key in the domain's DNS records. DKIM is one of the most common ways to authenticate an email sender, along with SPF and DMARC.
 
 Here's how DKIM works:
 
@@ -102,7 +102,7 @@ This record specifies that two servers are authorized to send emails from the do
 
 ### Difference
 
-==DMARC, DKIM, and SPF are email authentication methods that work together to prevent email spoofing and spam==:
+DMARC, DKIM, and SPF are email authentication methods that work together to prevent email spoofing and spam:
 
 - Sender Policy Framework (SPF)
 

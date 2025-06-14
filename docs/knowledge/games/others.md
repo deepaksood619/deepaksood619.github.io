@@ -19,6 +19,19 @@
 
 [My "strategy guide" for Mini Metro : r/MiniMetro](https://www.reddit.com/r/MiniMetro/comments/ceyt26/my_strategy_guide_for_mini_metro/)
 
+## Memory Games
+
+- Practice mindful meditation
+- Learn a new language
+- Play memory games - Crosswords, sudoku, jigsaw
+- 4-details recall trick - Observe 4 details about a person or scene - like the color of someone's shirt, their shoes, hairstyle and what they're holding
+- Use the non-dominant hand  - Brushing, Writing
+- Do mental math
+- Learn an instrument
+- Walk backwards or take a new route
+- Teach what you learn
+- Read aloud
+
 ## Others
 
 - [World Chase Tag - The Most INTENSE Chases From WCT5](https://www.youtube.com/watch?v=bo8sSGwo1UY)

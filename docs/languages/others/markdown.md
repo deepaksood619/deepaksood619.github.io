@@ -88,20 +88,20 @@ Markdown allows you to use backslash escapes to generate literal characters whic
 
 \*Literal asterisks\*
 
-| | |
-|---|---|
-| \ | Backslash |
-| ` | Backtick |
-| * | Asterisk |
-| _ | Underscore |
-| {} | Curly braces |
-| [] | Square brackes |
-| () | Parentheses |
-| # | Hash mark |
-| + | Plus sign |
-| - | Minus sign (hyphen) |
-| . | Dot |
-| ! | Exclamation mark |
+|     |                     |
+| --- | ------------------- |
+| \   | Backslash           |
+| `   | Backtick            |
+| *   | Asterisk            |
+| _   | Underscore          |
+| {}  | Curly braces        |
+| []  | Square brackes      |
+| ()  | Parentheses         |
+| #   | Hash mark           |
+| +   | Plus sign           |
+| -   | Minus sign (hyphen) |
+| .   | Dot                 |
+| !   | Exclamation mark    |
 
 ### Code: Block
 
@@ -191,20 +191,20 @@ We can create tables by assembling a list of words and dividing them with hyphen
 
 Colons can be used to align columns.
 
-| Tables | Are | Cool |
-| ------------- |:-------------:| -----:|
-| col 3 is | right-aligned | $1600 |
-| col 2 is | centered | $12 |
-| zebra stripes | are neat | $1 |
+| Tables        |      Are      |  Cool |
+| ------------- | :-----------: | ----: |
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      |   centered    |   $12 |
+| zebra stripes |   are neat    |    $1 |
 
 There must be at least 3 dashes separating each header cell.
 The outer pipes (|) are optional, and you don't need to make the
 raw Markdown line up prettily. You can also use inline Markdown.
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+| Markdown | Less      | Pretty     |
+| -------- | --------- | ---------- |
+| *Still*  | `renders` | **nicely** |
+| 1        | 2         | 3          |
 
 ### Badges
 
@@ -212,17 +212,17 @@ Markdown | Less | Pretty
 
 ![Number of puzzles solved](https://img.shields.io/badge/Puzzles%20Solved-234-orange.svg)
 
-Level | Name | Solution
-:----:|:----:|:--------:
-1 | The OR symbol | A
-2 | A Range of characters | B
-3 | Characters NOT to include | C
-4 | Zero or more | A A
-5 | Zero or one | A B
-6 | One or more | A A
-7 | Backreference | A A
-8 | Specific amount | A A
-9 | Space | ' '
+| Level |           Name            | Solution |
+| :---: | :-----------------------: | :------: |
+|   1   |       The OR symbol       |    A     |
+|   2   |   A Range of characters   |    B     |
+|   3   | Characters NOT to include |    C     |
+|   4   |       Zero or more        |   A A    |
+|   5   |        Zero or one        |   A B    |
+|   6   |        One or more        |   A A    |
+|   7   |       Backreference       |   A A    |
+|   8   |      Specific amount      |   A A    |
+|   9   |           Space           |   ' '    |
 
 ## MDX
 

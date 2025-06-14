@@ -51,6 +51,11 @@ https://freefincal.com/re-assemble-step-3-buy-term-life-insurance
 
 https://joinditto.in
 
+|               | Participating                                        | Non-Participating                                                        |
+| ------------- | ---------------------------------------------------- | ------------------------------------------------------------------------ |
+| Guaranteed    | Par Traditional (Endowment, Whole-Life with bonuses) | Non-Par Guaranteed Savings Term Insurance (Protection) Annuities (Fixed) |
+| Market-Linked | (Typically absent in India)                          | ULIPS (Unit-linked) Variable Annuities (less common)                     |
+
 ### Life Insurance vs Term Insurance
 
 | Difference                  | Term Insurance                       | Life Insurance                                                                                                                                               |
