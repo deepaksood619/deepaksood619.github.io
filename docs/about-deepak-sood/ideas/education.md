@@ -225,7 +225,9 @@ TODO - 2025-03-07, 2025-04-03
 
 ### New Age School
 
-- MasterUnion
+- MasterUnion / MastersUnion / Master Union
+	- [Masters' Union: Learn Business by Running Business](https://mastersunion.org/)
+- GrowthX
 - [Hive School](https://hiveschool.co/curriculum#scholarship-avenues-fornav)
 
 ### Others

@@ -125,7 +125,7 @@ In the Fixed-Rate method, the interest is calculated on the entire loan amount. 
 
 ## Covenant
 
-In finance, a covenant is ==a promise or agreement between a borrower and lender that limits the borrower's actions, and ensures the borrower's financial ability to repay the loan==. Covenants are also known as debt covenants or banking covenants.
+In finance, a covenant is a promise or agreement between a borrower and lender that limits the borrower's actions, and ensures the borrower's financial ability to repay the loan. Covenants are also known as debt covenants or banking covenants.
 
 Covenants can be financial, information, ownership, affirmative, negative, or positive. Examples of financial covenants include:
 

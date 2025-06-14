@@ -129,7 +129,7 @@ Interstitial ads are full-screen ads that cover the interface of their host app.
 
 https://developers.google.com/admob/android/interstitial
 
-An **interstitial page** is ==a web page that appears before or after a desired content page, often for advertising or regulatory reasons==. Interstitial pages can be interactive pop-ups or full-page ads that float on a webpage or fill a mobile device's screen. They can appear when a user navigates to a page, unhides a tab or window, or clicks the browser's navigation bar.
+An **interstitial page** is a web page that appears before or after a desired content page, often for advertising or regulatory reasons. Interstitial pages can be interactive pop-ups or full-page ads that float on a webpage or fill a mobile device's screen. They can appear when a user navigates to a page, unhides a tab or window, or clicks the browser's navigation bar.
 
 [20 Years Of Marketing - 7 Most Important Lessons Learned](https://www.youtube.com/watch?v=VS4ECrG_0uM)
 

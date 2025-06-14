@@ -87,24 +87,23 @@ https://dev.mysql.com/doc/refman/8.0/en/json.html
 
 ## 11.7 Data Type Storage Requirements
 
-| **Type**  | **Storage** | **Minimum Value**     | **Maximum Value**     |
-|-----------|-------------|-----------------------|-----------------------|
-|          | **(Bytes)** | **(Signed/Unsigned)** | **(Signed/Unsigned)** |
-| TINYINT   | 1           | -128                  | 127                   |
-|          |            | 0                     | 255                   |
-| SMALLINT  | 2           | -32768                | 32767                 |
-|          |            | 0                     | 65535                 |
-| MEDIUMINT | 3           | -8388608              | 8388607               |
-|          |            | 0                     | 16777215              |
-| INT       | 4           | -2147483648           | 2147483647            |
-|          |            | 0                     | 4294967295            |
-| BIGINT    | 8           | -9223372036854775808  | 9223372036854775807   |
-|          |            | 0                     | 18446744073709551615  |
-| FLOAT(***p***)                                                                                  | `4 bytes if 0 <=***p***<= 24, 8 bytes if 25 <=***p***<= 53` |
-| [FLOAT](https://dev.mysql.com/doc/refman/8.0/en/floating-point-types.html)                      | 4 bytes                                                           |
-| DOUBLE [PRECISION], [REAL](https://dev.mysql.com/doc/refman/8.0/en/floating-point-types.html) | 8 bytes                                                           |
-| DECIMAL(***M***, ***D***),NUMERIC(***M***, ***D***)                                              | Varies; see following discussion                                  |
-| BIT(***M***)                                                                                    | approximately (***M***+7)/8 bytes                                 |
+| **Type**                                                                                      | **Storage Bytes**                               | **Minimum Value (Signed/Unsigned)** | **Maximum Value (Signed/Unsigned)** |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------- | ----------------------------------- | ----------------------------------- |
+| TINYINT                                                                                       | 1                                               | -128                                | 127                                 |
+|                                                                                               |                                                 | 0                                   | 255                                 |
+| SMALLINT                                                                                      | 2                                               | -32768                              | 32767                               |
+|                                                                                               |                                                 | 0                                   | 65535                               |
+| MEDIUMINT                                                                                     | 3                                               | -8388608                            | 8388607                             |
+|                                                                                               |                                                 | 0                                   | 16777215                            |
+| INT                                                                                           | 4                                               | -2147483648                         | 2147483647                          |
+|                                                                                               |                                                 | 0                                   | 4294967295                          |
+| BIGINT                                                                                        | 8                                               | -9223372036854775808                | 9223372036854775807                 |
+|                                                                                               |                                                 | 0                                   | 18446744073709551615                |
+| FLOAT(***p***)                                                                                | `4 bytes if 0 <=p<= 24, 8 bytes if 25 <=p<= 53` |                                     |                                     |
+| [FLOAT](https://dev.mysql.com/doc/refman/8.0/en/floating-point-types.html)                    | 4 bytes                                         |                                     |                                     |
+| DOUBLE [PRECISION], [REAL](https://dev.mysql.com/doc/refman/8.0/en/floating-point-types.html) | 8 bytes                                         |                                     |                                     |
+| DECIMAL(***M***, ***D***),NUMERIC(***M***, ***D***)                                           | Varies; see following discussion                |                                     |                                     |
+| BIT(***M***)                                                                                  | approximately (***M***+7)/8 bytes               |                                     |                                     |
 
 ## int(11)
 

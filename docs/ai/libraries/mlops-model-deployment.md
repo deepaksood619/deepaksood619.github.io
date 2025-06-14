@@ -118,6 +118,7 @@ https://www.seldon.io
 - [ML Model Packaging \[The Ultimate Guide\]](https://neptune.ai/blog/ml-model-packaging)
 - [Machine Learning: Models to Production | by Ashutosh Kumar | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/machine-learning-models-to-production-72280c3cb479)
 - [Comet ML - Build better models faster](https://www.comet.com/)
+- [GitHub - kitops-ml/kitops: An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.](https://github.com/kitops-ml/kitops)
 
 ## Roadmap
 

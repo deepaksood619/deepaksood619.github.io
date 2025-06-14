@@ -71,7 +71,7 @@
 
 ### IBM Netezza
 
-Netezza is ==a data warehouse system that offers analytics, AI, and machine learning (ML) capabilities==. It's a subsidiary of IBM, and is available on IBM Cloud, AWS, and Microsoft Azure.
+Netezza is a data warehouse system that offers analytics, AI, and machine learning (ML) capabilities. It's a subsidiary of IBM, and is available on IBM Cloud, AWS, and Microsoft Azure.
 
 #### Features
 

@@ -2,7 +2,7 @@
 
 ## SWOT Analysis
 
-SWOT analysis (or**SWOT matrix) is a strategic planning technique used to help a person or organization identify the *Strengths*,*Weaknesses*,*Opportunities*, and *Threats*related to [business](https://en.wikipedia.org/wiki/Business) competition or project planning. It is intended to specify the objectives of the business venture or project and identify the internal and external factors that are favorable and unfavorable to achieving those objectives. Users of a SWOT analysis often ask and answer questions to generate meaningful information for each category to make the tool useful and identify their competitive advantage
+SWOT analysis (or SWOT matrix) is a strategic planning technique used to help a person or organization identify the *Strengths*,*Weaknesses*,*Opportunities*, and *Threats*related to [business](https://en.wikipedia.org/wiki/Business) competition or project planning. It is intended to specify the objectives of the business venture or project and identify the internal and external factors that are favorable and unfavorable to achieving those objectives. Users of a SWOT analysis often ask and answer questions to generate meaningful information for each category to make the tool useful and identify their competitive advantage
 
 Strengths and Weakness are frequently internally-related, while Opportunities and Threats commonly focus on environmental placement.
 
@@ -23,11 +23,9 @@ PEST Analysis is a management method whereby an organization can assess major ex
 
 https://medium.com/teads-engineering/growing-a-feature-team-using-lanes-2e50d5521006
 
-## churn rate
+## Churn Rate
 
-is the percentage of subscribers to a service who discontinue their subscriptions to the service within a given time period. For a company to expand its clientele, its growth rate, as measured by the number of new customers, must exceed its churn rate.
-
-## SE Radio Episode 352 - Johanathan Nightingale on Scaling Engineering Management
+Chrun Rate is the percentage of subscribers to a service who discontinue their subscriptions to the service within a given time period. For a company to expand its clientele, its growth rate, as measured by the number of new customers, must exceed its churn rate.
 
 ## Law of Diminishing Returns
 
@@ -99,6 +97,10 @@ A "work first" mindset means that you plan your day around your work. Your work 
 
 Force Majeure is a common clause in contract law. It allows a party to limit their liability due to unforeseeable, extraordinary events. Maybe a hurricane hit the stadium, cancelling a game. Force Majeure. An earthquake brings down a building. Stuff like that.
 
-## Human Resource Management
+## Organizational behavior
 
-https://www.keka.com
+Organizational behavior is the study of how individuals and groups behave within an organization, focusing on factors like communication, leadership, and decision-making that impact employee performance and overall effectiveness. It examines the interactions among employees, the impact of individual and group dynamics on the organization, and how these factors contribute to the achievement of organizational goals.
+
+## Links
+
+- SE Radio Episode 352 - Johanathan Nightingale on Scaling Engineering Management

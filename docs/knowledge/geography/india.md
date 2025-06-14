@@ -51,6 +51,20 @@
 
 ![Delhi Metro New Phase](../../media/Screenshot%202025-02-08%20at%209.41.37%20PM.jpg)
 
+## Problems
+
+### Stampedes in India
+
+1. Kumbh mela
+2. NDLS station
+3. Bangalore RCB victory parade chinnaswamy station
+
+[Category:Human stampedes in India - Wikipedia](https://en.wikipedia.org/wiki/Category:Human_stampedes_in_India)
+
+[A list of major stampedes in India](https://www.hindustantimes.com/india-news/a-list-of-major-stampedes-in-india-101749063669232.html)
+
+[Bengaluru stampede: A list of major stampedes in India - The Hindu](https://www.thehindu.com/news/national/major-stampedes-in-india-list/article69659616.ece)
+
 ## Others
 
 - [India has a Big Stray Dogs Problem | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=tMsf6i7yID8)

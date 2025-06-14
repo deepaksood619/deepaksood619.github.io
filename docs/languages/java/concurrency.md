@@ -23,12 +23,12 @@ Two issues associated with Fail Safe Iterator are :
 1. Overhead of maintaining the copied data structure i.e memory.
 2. Fail safe iterator does not guarantee that the data being read is the data currently in the original data structure.
 
-| **Fail Fast Iterator** | **Fail Safe Iterator** |
-|---|---|
-| Throw ConcurrentModification Exception | Yes | No |
-| Clone object | No | Yes |
-| Memory Overhead | No | Yes |
-| Examples | HashMap,Vector,ArrayList,HashSet | CopyOnWriteArrayList, ConcurrentHashMap |
+|                                        | **Fail Fast Iterator**           | **Fail Safe Iterator**                  |
+| -------------------------------------- | -------------------------------- | --------------------------------------- |
+| Throw ConcurrentModification Exception | Yes                              | No                                      |
+| Clone object                           | No                               | Yes                                     |
+| Memory Overhead                        | No                               | Yes                                     |
+| Examples                               | HashMap,Vector,ArrayList,HashSet | CopyOnWriteArrayList, ConcurrentHashMap |
 
 ## References
 

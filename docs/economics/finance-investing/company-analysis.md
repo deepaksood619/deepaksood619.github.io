@@ -57,6 +57,10 @@ NSE: RAYMONDLSL
 
 [Raymond Lifestyle: The Incomplete Man (Since 2024)](https://shankarnath.substack.com/p/raymond-lifestyle)
 
+## Ather
+
+[Two scooter giants, Two very different stories \| The Daily Brief #239 - YouTube](https://youtu.be/vLv6GLwvAp0)
+
 ## Others
 
 - [Ceigall India Ready to Soar Higher: 70% Upside on Strong Order Pipeline 🕊️](https://shankarnath.substack.com/p/ceigall-india)

@@ -19,3 +19,7 @@ The bank evaluates the borrower's credit rating at the time of giving out the lo
 ### Asset risk
 
 In case the borrower defaults, the bank has the right to sell the hypothecated property. What if the property itself loses its value? This is a double whammy situation for the lender or the bank. The bank loses both the principal and the asset.
+
+## Mutual Funds Risk
+
+Redemption Risk - [Will I get my money back if my mutual fund gets into trouble?](https://freefincal.com/will-i-get-my-money-back-if-my-mutual-fund-gets-into-trouble/)

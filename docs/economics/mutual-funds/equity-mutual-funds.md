@@ -51,6 +51,11 @@ Flexi-cap and multi-cap funds both invest across large, mid, and small-cap stock
 
 [Parag Parikh Flexi Cap Vs HDFC Flexi Cap: Which One Should You Choose? - YouTube](https://youtu.be/JM6UJYvQizQ)
 
+#### PPFAS / PPFCF
+
+- [Will Parag Parikh Flexi Cap Fund's large AUM affect its performance?](https://freefincal.com/will-parag-parikh-flexi-cap-funds-large-aum-affect-its-performance/)
+- [PPFAS new moves: New stock entry & 4 stake increases signal value opportunities? - Stock Insights News \| The Financial Express](https://www.financialexpress.com/market/stock-insights/ppfas-new-moves-new-stock-entry-4-stake-increases-signal-value-opportunities/3875334/)
+
 ## Active Equity MFs
 
 - PPFAS LTE

@@ -114,7 +114,7 @@ Here's an [output example](https://docs.aws.amazon.com/transcribe/latest/dg/tca-
 
 ## Toxic Speech Detection
 
-Toxic speech detection is ==the use of artificial intelligence (AI) to identify and flag harmful language in online communications==. It helps to keep online spaces safe and inclusive by flagging toxic content like hate speech, harassment, and threats.
+Toxic speech detection is the use of artificial intelligence (AI) to identify and flag harmful language in online communications. It helps to keep online spaces safe and inclusive by flagging toxic content like hate speech, harassment, and threats.
 
 ### How it works
 

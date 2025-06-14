@@ -41,30 +41,32 @@ Fat has an [energy](https://en.wikipedia.org/wiki/Energy) content of 9 [kcal](ht
 
 **Big Fat Fact** - 10 kg (Fat) -> 8.4 kg (CO2) + 1.6 kg (H2O)
 
-#### Types
+[⁠90% of Indians Use the Wrong Oil - Doctor Reveals 5 Oils You SHOULD Be Using \| Dr Pal - YouTube](https://youtu.be/pu5qfR4sbfA)
 
-##### Saturated fat - Single bond between their molecules
+- Partial hydrogenated fats shouldn't be used
+
+#### Saturated fat - Single bond between their molecules
 
 - Solid at room temperature
 - Butter, Cheese
 
-##### Un-saturated fat - One or more double or triple bond between the molecules
+#### Un-saturated fat - One or more double or triple bond between the molecules
 
 - Liquid at room temperature
 - Olive oil, Sunflower oil
 
-##### Trans fat
+#### Trans fat
 
 - Natural trans fat (Meat)
 - Artificial trans fat (Industrial, Partially hyderogenerated fats)
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2769584
 
-##### Visceral body fat
+#### Visceral body fat
 
 Visceral body fat, also known as 'hidden' fat, is **fat stored deep inside the belly, wrapped around the organs, including the liver and intestines**. It makes up about one tenth of all the fat stored in the body.
 
-##### Subcutaneous fat
+#### Subcutaneous fat
 
 Most fat is stored underneath the skin and is known as subcutaneous fat.
 

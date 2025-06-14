@@ -42,7 +42,7 @@ For example, **if you receive Rs 1,00,000 as foreign remittance into your Indian
 
 ## Harmonized System of Nomenclature (HSN)
 
-The Harmonized System of Nomenclature (HSN) is ==a globally accepted system for classifying goods and services==. It's used by more than 200 countries for customs tariffs and international trade.
+The Harmonized System of Nomenclature (HSN) is a globally accepted system for classifying goods and services. It's used by more than 200 countries for customs tariffs and international trade.
 
 ### What is the HSN code used for?
 
