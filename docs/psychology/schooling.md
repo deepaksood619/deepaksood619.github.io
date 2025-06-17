@@ -60,17 +60,16 @@ If certain data points are missing for a school, mention "**Information Not Avai
 	- Put children late in school
 	- Homeschooling vs full day boarding - Doon public school
 	- Schooling isn't just about education, it is also a form a childcare
+- [Middle Class And School Selection For Kids - YouTube](https://www.youtube.com/watch?v=S5qWJsv_WGA&ab_channel=SangoLifeSutras)
 - [Molly Wright: How every child can thrive by five | TED](https://www.youtube.com/watch?v=aISXCw0Pi94&ab_channel=TED)
 - [Why School Is Bad For You](https://www.youtube.com/watch?v=M4u6oOQ77mg)
 - [Some Parents Live Out Dreams Through Their Children. Sudha Murthy addressing parents.](https://youtu.be/wPX_iQP-4Rc)
 - [How to Raise Successful Kids -- Without Over-Parenting | Julie Lythcott-Haims | TED](https://www.youtube.com/watch?v=CyElHdaqkjo) - Checklist
 - [No fancy schools needed. Self-made man worth Rs 5,000 crore shares how to raise 'confident', 'independent' kids](https://m.economictimes.com/magazines/panache/forget-expensive-schools-thyrocare-founders-advice-to-parents-for-raising-confident-independent-kids/articleshow/117917359.cms)
 
-### Day Care / Creche
+## Day Care / Creche / Playschool / Daycare
 
 [Best Play School & Day Care Chain: Footprints](https://www.footprintseducation.in/)
-
-## Playschool / Daycare
 
 - Footprints
 - Kidzee Noida
@@ -136,6 +135,7 @@ If certain data points are missing for a school, mention "**Information Not Avai
 - [My Honest Review on DPS Noida, DPS Noida Sector 30, DPS School Noida. - YouTube](https://youtu.be/Rcn1C65EIAM)
 - [Top 10 Schools Of Noida 🏫 🎒📚 // Best Schools 🤩🤩 //Luxurious school 🥳😍 // #top10 #noida #schooltime - YouTube](https://youtu.be/QziXLvRGnjw)
 - [School Admission Process, Best Schools in Noida, DPS Noida, Best Schools in Delhi NCR, Top Schools. - YouTube](https://youtu.be/B9cv5-d4SvU)
+- [Delhi Public School, GBN, Noida \| A Day at PTM - YouTube](https://www.youtube.com/watch?v=xcNRZKaDW7o&ab_channel=NicePlaces)
 
 ## Board
 

@@ -15,6 +15,20 @@ SET session max_execution_time=300000;
 SELECT @@session.max_execution_time -- 15000
 ```
 
+| Variable              | Applies To                   | What It Does                                                            | Scope          | Unit         | Introduced In              |
+| --------------------- | ---------------------------- | ----------------------------------------------------------------------- | -------------- | ------------ | -------------------------- |
+| `max_statement_time`  | SQL statements               | Aborts **long-running statements** after the given time                 | Global/Session | Seconds      | MariaDB 10.1.1             |
+| `max_execution_time`  | SQL statements (SELECT only) | MySQL variable: Same as `max_statement_time` but only for `SELECT`      | Per-statement  | Milliseconds | MySQL 5.7.4+ (not MariaDB) |
+| `wait_timeout`        | Sessions                     | Ends a **non-interactive session** after being idle for this duration   | Global/Session | Seconds      | Always                     |
+| `interactive_timeout` | Interactive sessions         | Ends an **interactive session** (like CLI or Workbench) after idle time | Global/Session | Seconds      | Always                     |
+
+| Use Case                              | Set This                          |
+| ------------------------------------- | --------------------------------- |
+| Kill long-running queries             | `max_statement_time` (MariaDB)    |
+| Kill long-running `SELECT` queries    | `max_execution_time` (MySQL only) |
+| Close idle app (non-interactive) conn | `wait_timeout`                    |
+| Close idle CLI (interactive) session  | `interactive_timeout`             |
+
 ### pg_hba.conf (postgres host based authentication config)
 
 `pg_hba.conf` file controls client authentication and access to the database server. Configuring it involves specifying rules for different authentication methods, IP addresses, and users. To enhance security, you can restrict access based on IP addresses, require SSL, and use strong authentication methods.

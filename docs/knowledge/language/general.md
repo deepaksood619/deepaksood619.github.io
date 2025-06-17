@@ -34,6 +34,12 @@ The saying of the same thing twice over in different words, generally considered
 
 It is the continuation of meaning. It basically indicates that we're gonna say the same thing again, or say something that's connected to previous idea. It's not a contrast, it's a continuation
 
+## Participle
+
+In linguistics, a participle is a nonfinite verb form that has some of the characteristics and functions of both verbs and adjectives. More narrowly, participle has been defined as "a word derived from a verb and used as an adjective, as in a laughing face".
+
+[Participle - Wikipedia](https://en.wikipedia.org/wiki/Participle)
+
 ## Games
 
 https://languageguesser.com

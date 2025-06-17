@@ -77,3 +77,4 @@ https://www.youtube.com/watch?v=dy81ldYQdgY
 - [House of Bridges - Mahad #allaboutarchitecture #architectureanddesign #Mahad - YouTube](https://www.youtube.com/watch?v=JZmROG530Ao)
 - [This Kerala Home has Stunning Backwater Views! (House Tour) - YouTube](https://youtu.be/rNfUVttBQdE)
 - [Inside DLF Camellias : An Ultra Luxury Home Tour - YouTube](https://youtu.be/a4hXR5Q0KzE)
+- [Why are American homes usually made of wood? : r/NoStupidQuestions](https://www.reddit.com/r/NoStupidQuestions/comments/4l4o1n/why_are_american_homes_usually_made_of_wood/)
