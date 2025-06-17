@@ -153,6 +153,34 @@ While sometimes tantrums are inevitable, a few smart strategies can help head th
 - Thakan
 - Jaadu tona
 
+## Things to teach to children
+
+[15 Things Which Your Child Must Learn To Do Before 15 Years Of Age - YouTube](https://www.youtube.com/watch?v=h6wcIiiKBAo&ab_channel=SangoLifeSutras)
+
+1. making bed
+2. cleaning toilet
+3. putting clothes in washing machine
+4. cleaning fan once a week
+5. setting almirah
+6. clean utensils once a fortnight
+7. learning making rice, dal, sabzi, and cutting vegetables (doing things with hand keeps away depression)
+8. paytm and online banking, swiping card
+9. observing ac and other appliance servicing
+10. giving father water, tea when he comes home
+11. being parents' virtual assistant, reminding things, keeping documents handy
+12. watering plants
+13. cleaning vehicle in proper way
+14. keeping leftover food in fridge in proper utensils in organised manner
+15. taking the responsibility of locking doors properly before going to bed
+16. to bring in clothes given outside to dry, especially when it rains
+17. wipe floor with mop when maid is absent, (my 5 year old son learnt during lockdown)
+18. use the microwave
+19. keep shoes neatly near the front door
+20. Ironing own clothes
+21. covering own books and copies
+22. Taking care of their belongings. Startvwith pen, pencils, books & Spects. Mobile. Wrist watch and another point
+23. Switch off the fan. Lights
+
 ## Books
 
 - The Conscious Parent by Dr. Shefali Tsabary

@@ -12,7 +12,7 @@ I’m not entirely sure where this obsession with conversational interfaces come
 
 I’m here to tell you that it’s not.
 
-## Data transfer mechanisms
+## Data transfer mechanisms / Information Transfer
 
 When people say _“natural language”_ what they mean is written or verbal communication. Natural language is a way to exchange ideas and knowledge between humans. In other words, it’s a data transfer mechanism.
 

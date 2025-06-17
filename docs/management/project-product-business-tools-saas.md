@@ -26,6 +26,10 @@
     - Brief - https://www.gobrief.com
     - https://www.quora.com/What-Slack-to-do-list-app-do-you-recommend
     - https://about.gitlab.com/handbook/communication/chat
+    - Huly
+	    - [GitHub - hcengineering/platform: Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)](https://github.com/hcengineering/platform)
+	    - [Everything App for your teams](https://huly.io/)
+	    - [This self-hosted tool replaces all of your team communication and project management, and does it better, too](https://www.xda-developers.com/self-hosted-tool-replaces-communication-project-management/)
 14. Gmail
       1. Mailman (batches incoming email and keeps brain from getting distracted by the endless trickle of new email)
       2. Zoho

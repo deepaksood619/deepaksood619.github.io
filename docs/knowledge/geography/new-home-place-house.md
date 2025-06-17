@@ -488,6 +488,7 @@ A person feeding themselves a vegetarian diet would need about an acre of land a
 - [Addressing Short Term Real Estate Investors](https://youtu.be/zaHI01OlAi4)
 - [All Top Upcoming Projects | Real Estate | Noida | Ghaziabad](https://youtu.be/dAFvSRxwEhU)
 - [Noida Sec 150 Overview | Discover The Darker side and Future Opportunities | Whitehat Realty - YouTube](https://www.youtube.com/watch?v=K8o5Ky5VMV8&ab_channel=WhitehatRealty)
+- [This YouTuber Moved From Noida To A Duplex In Delhi \| The Tenant - YouTube](https://www.youtube.com/watch?v=bBBDI82liqQ&ab_channel=moneycontrol)
 
 ### 2025-01-18 - Locations - Buy
 

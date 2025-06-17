@@ -171,6 +171,7 @@ http://whitenoise.evans.io/en/stable
 - django-adminactions
 - Django-compressor
 - Celery
+- [django-structlog — django-structlog 9.1.1 documentation](https://django-structlog.readthedocs.io/en/latest/)
 
 ### django-model-utils
 

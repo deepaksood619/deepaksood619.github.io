@@ -85,3 +85,4 @@ The power of AI collaboration has too much to offer. CrewAI is a standalone fram
 - [Generative AI Fine Tuning LLM Models Crash Course - YouTube](https://youtu.be/t-0s_2uZZU0)
 - [Real Terms for AI - YouTube](https://www.youtube.com/playlist?list=PLIivdWyY5sqLvGdVLJZh2EMax97_T-OIB)
 - [Multi-Agent Portfolio Collaboration with OpenAI Agents SDK](https://cookbook.openai.com/examples/agents_sdk/multi-agent-portfolio-collaboration/multi_agent_portfolio_collaboration)
+- [\[2505.10468\] AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges](https://arxiv.org/abs/2505.10468)
