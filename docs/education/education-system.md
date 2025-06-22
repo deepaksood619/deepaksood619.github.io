@@ -42,13 +42,13 @@
 
 ### Indian Education System
 
-![total-spend-on-research](../../media/Screenshot%202024-12-12%20at%204.37.15%20PM.jpg)
+![total-spend-on-research](../media/Screenshot%202024-12-12%20at%204.37.15%20PM.jpg)
 
 ### Heckman Curve
 
 he Heckman Curve shows that the highest rate of economic returns comes from the earliest investments in children, providing an eye-opening understanding that society invests too much money in later development when it is often too late to provide great value. It shows the economic benefits of investing early and building skill upon skill to provide greater success to more children and greater productivity and reduce social spending for society.
 
-![Heckman Curve](../../media/Screenshot%202025-06-07%20at%205.49.43%20PM.jpg)
+![Heckman Curve](../media/Screenshot%202025-06-07%20at%205.49.43%20PM.jpg)
 
 "The family into which a child is born plays a powerful role in determining lifetime opportunities...Some kids win the **lottery at birth**, far too many don't - and most people have a hard time catching up over the rest of their lives."
 
