@@ -11,6 +11,6 @@
 - [Poems](poems)
 - [Funny](funny)
 - [Tatoos Quotes](tatoos-quotes)
-- [Tips](tips)
+- [Tips](knowledge/quotes-proverbs/tips.md)
 - [Startup Quotes](about-deepak-sood/ideas/startup-quotes.md)
 - [Hindi](knowledge/quotes-proverbs/hindi.md)

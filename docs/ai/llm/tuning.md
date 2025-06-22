@@ -1,4 +1,4 @@
-# LLM Tuning
+# Tuning
 
 The process of adapting a model to a new domain or set of custom use cases by training the model on new data
 

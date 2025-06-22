@@ -331,6 +331,12 @@ The Men's Underwear Index (MUI) is an economic indicator that suggests that an i
 
 [7 Signs You're Moving From Middle Class To Rich, According To Psychology - New Trader U](https://www.newtraderu.com/2025/01/04/7-signs-youre-moving-from-middle-class-to-rich-according-to-psychology/)
 
+## Boots Theory
+
+The **Sam Vimes theory of socioeconomic unfairness**, often called simply the **boots theory**, is an [economic theory](https://en.wikipedia.org/wiki/Economic_theory "Economic theory") that **people in poverty have to buy cheap and subpar products that need to be replaced repeatedly, proving more expensive in the long run than more expensive items.** The term was coined by English fantasy writer Sir [Terry Pratchett](https://en.wikipedia.org/wiki/Terry_Pratchett "Terry Pratchett") in his 1993 _[Discworld](https://en.wikipedia.org/wiki/Discworld "Discworld")_ novel _[Men at Arms](https://en.wikipedia.org/wiki/Men_at_Arms "Men at Arms")_. In the novel, [Sam Vimes](https://en.wikipedia.org/wiki/Sam_Vimes "Sam Vimes"), the captain of the [Ankh-Morpork City Watch](https://en.wikipedia.org/wiki/Ankh-Morpork_City_Watch "Ankh-Morpork City Watch"), illustrates the concept with the example of boots.
+
+[Boots theory - Wikipedia](https://en.wikipedia.org/wiki/Boots_theory)
+
 ## Links
 
 - [Marginal Utility / Analysis](marginal-utility-analysis)

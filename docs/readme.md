@@ -50,6 +50,7 @@ If this is your first time visiting this wiki, start from the outline below and 
     - [Economics](economics/readme.md)
     - [Management](management/readme.md)
     - [Psychology](psychology/readme.md)
+    - [Education](education/readme.md)
 
 ## Size of Wiki
 
@@ -89,7 +90,7 @@ The content being [markdown](languages/others/markdown) files, which after every
 
 The way I structure each page often looks the same and follows a structure. The sidebar you see on the left is sorted alphabetically. It's nested too. Many top level folders are nested quite deep.
 
-I use [Zettlekasten Method](psychology/learning/note-taking-second-brain-pkm-zettelkasten) for note taking and [obsidian](devops/ides/obsidian) tool to manage and structure my notes. I have previously used [Onenote](devops/ides/onenote) but grown out of it in about 4 years, since it doesn't scale in terms of number of notes and doesn't have [linking of notes](psychology/learning/note-taking-second-brain-pkm-zettelkasten#links).
+I use [Zettlekasten Method](education/learning/note-taking-second-brain-pkm-zettelkasten.md) for note taking and [obsidian](devops/ides/obsidian) tool to manage and structure my notes. I have previously used [Onenote](devops/ides/onenote) but grown out of it in about 4 years, since it doesn't scale in terms of number of notes and doesn't have [linking of notes](education/learning/note-taking-second-brain-pkm-zettelkasten.md#links).
 
 **My Obsidian View**
 
@@ -101,7 +102,7 @@ There's 2000+ pages in here and lots of them I think are interesting. But these 
 
 - [Quotes](knowledge/quotes-proverbs/readme.md) small phrases that makes my day and help me to remember and revise simple rules in a fun way
 - [Mental Models](knowledge/general/mental-models) that I have compiled over the years and helps me learn concepts quickly of any domain and connect concepts across domains
-- [Learning how to learn](psychology/learning/learning-intro) course that changed my learning approach and in turn my whole life, and the reason why I write and maintain these notes.
+- [Learning how to learn](education/learning/learning-intro.md) course that changed my learning approach and in turn my whole life, and the reason why I write and maintain these notes.
 - [Book - Principles by Ray Dalio](book-summaries/principles)
 - [Fallacies of Distributed Computing](computer-science/distributed-system/fallacies-and-problems) and [Biases / Fallacies](psychology/biases-fallacies) of Human Computing, which everyone should know and try to overcome in their lifetimes
 - [Types of Databases](databases/concepts/types-of-databases) to organize your data in the right database, since data has gravity, it becomes harder with quantity of data to migrate data over time to other databases

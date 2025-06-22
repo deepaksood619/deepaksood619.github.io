@@ -1,6 +1,6 @@
 # Psychology
 
-- [Learning](learning/readme.md)
+- [Learning](education/learning/readme.md)
 - [Soft Skills](soft-skills/readme.md)
 - [Habits](habits)
 - [Procrastination](psychology/procrastination.md)

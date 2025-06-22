@@ -103,6 +103,28 @@ Natural Language Processing with Python [**https://lnkd.in/gmuQcmt**](https://ln
 
 The Data Science Handbook -- Advice & Insights from Data Scientists [**https://lnkd.in/g8t7hk9**](https://lnkd.in/g8t7hk9)
 
+## AI Engineer
+
+### 1. Hands-On Large Language Models
+
+A practical toolkit for building and fine-tuning LLMs, from transformer basics to semantic search, RAG, and deployment. Packed with clear visuals and code examples to take you from zero to expert.
+
+### 2. Designing Machine Learning Systems
+
+A practical guide to building ML systems that are reliable, scalable, and easy to maintain. It covers the full ML lifecycle, from data and modeling to deployment and monitoring.
+
+### 3. Practical MLOps: Operationalizing Machine Learning Models
+
+A hands-on guide to moving models from development to production. Covers CI/CD, monitoring, testing, and choosing the right tools for MLOps on cloud platforms.
+
+### 4. AI Engineering: Building Applications with Foundation Models
+
+Teaches how to build real-world applications using foundation models. Covers prompt design, fine-tuning, retrieval-augmented generation, evaluation, and optimization.
+
+### 5. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
+
+A classic guide that walks you through ML and deep learning with real-world examples. Covers everything from regression to computer vision with beginner-friendly explanations and code.
+
 ## Mathematics
 
 https://medium.com/however-mathematics/13-classic-mathematics-books-for-lifelong-learners-7ec2759142da

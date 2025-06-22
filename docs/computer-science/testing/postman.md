@@ -22,6 +22,19 @@
     - [NewsData - News API to Search & Collect Worldwide News](https://newsdata.io/)
     - [GNews: News API to Search for the Latest & Historical News](https://gnews.io/)
 
+### Public APIs
+
+- https://github.com/public-apis/public-apis
+- https://anapioficeandfire.com
+- [**https://httpdump.io/**](https://httpdump.io/)
+- https://github.com/typicode/json-server
+- https://my-json-server.typicode.com
+
+### API Marketplace
+
+- https://www.programmableweb.com
+- https://rapidapi.com
+
 ## Local Infra Mock
 
 [LocalStack - A fully functional local cloud stack](https://localstack.cloud/)
@@ -37,24 +50,6 @@ go build
 go run cmd/gofakes3/main.go -backend memory -autobucket
 Use this endpoint for testing : http://localhost:9000
 ```
-
-## Public APIs
-
-https://github.com/public-apis/public-apis
-
-https://anapioficeandfire.com
-
-[**https://httpdump.io/**](https://httpdump.io/)
-
-https://github.com/typicode/json-server
-
-https://my-json-server.typicode.com
-
-## API Marketplace
-
-https://www.programmableweb.com
-
-https://rapidapi.com
 
 ## Variables
 

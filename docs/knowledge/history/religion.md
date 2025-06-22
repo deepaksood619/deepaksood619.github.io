@@ -33,6 +33,12 @@ Book - What has religion done for mankind?
 
 https://en.wikipedia.org/wiki/New_religious_movement
 
+## Torah
+
+The Torah is the compilation of the first five books of the Hebrew Bible, namely the books of Genesis, Exodus, Leviticus, Numbers and Deuteronomy. The Torah is also known as the Pentateuch or the Five Books of Moses. In Rabbinical Jewish tradition it is also known as the Written Torah. If meant for liturgic purposes, it takes the form of a Torah scroll. If in bound book form, it is called Chumash, and is usually printed with the rabbinic commentaries (perushim).
+
+[Torah - Wikipedia](https://en.wikipedia.org/wiki/Torah)
+
 ## Links
 
 [World Religions Explained (Full Series) - YouTube](https://www.youtube.com/watch?v=nxhSOcyPCVo&ab_channel=UsefulCharts)

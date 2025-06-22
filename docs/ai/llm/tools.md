@@ -161,7 +161,7 @@
 ## Links
 
 - [code-generators](ai/llm/code-generators.md)
-- [llm-agents](ai/llm/llm-agents.md)
+- [agents](ai/llm/agents.md)
 - [Libraries](ai/llm/libraries.md)
 
 ![ai-tools](../../media/image.jpg)
