@@ -246,16 +246,6 @@ Traditional RAG approaches often rely on batch processing and static data summar
 
 - [**phoenix**](https://github.com/Arize-ai/phoenix) - ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models.
 
-### LLM Evaluation / Monitoring
-
-- [GitHub - langfuse/langfuse: 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23](https://github.com/langfuse/langfuse)
-	- [Langfuse](https://langfuse.com/)
-- [Adaline - Iterate, evaluate, deploy, and monitor prompts](https://www.adaline.ai/)
-- [LangSmith](https://www.langchain.com/langsmith)
-- [Galileo AI: The Generative AI Evaluation Company](https://galileo.ai/)
-- [Helicone / LLM-Observability for Developers](https://www.helicone.ai/)
-- [GitHub - confident-ai/deepteam: The LLM Red Teaming Framework](https://github.com/confident-ai/deepteam)
-
 ### Multimodal AI Tools
 
 - [**LLaVAv**](https://github.com/haotian-liu/LLaVA) - Visual Instruction Tuning - Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.
@@ -279,6 +269,7 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [**Petals**](https://github.com/bigscience-workshop/petals) - Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading.
 - [**TokenMonster**](https://github.com/alasdairforsythe/tokenmonster) - Determine the tokens that optimally represents a dataset at any specific vocabulary size
 - [GitHub - microsoft/LLMLingua: To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.](https://github.com/microsoft/LLMLingua)
+- On-Device Compute - [GitHub - cactus-compute/cactus: Framework for running AI locally on mobile devices and wearables. Hardware-aware C/C++ backend with wrappers for Flutter & React Native. Kotlin & Swift coming soon.](https://github.com/cactus-compute/cactus)
 
 ### Python Programming
 

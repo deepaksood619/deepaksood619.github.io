@@ -28,6 +28,7 @@
 - [n8n Quickstart - YouTube](https://www.youtube.com/watch?v=1MwSoB0gnM4&ab_channel=n8n)
 - [Learning path \| n8n Docs](https://docs.n8n.io/learning-path/)
 - [AI Automation Blueprints: SDR System + Content Engine + Claude Prompt Engineering Guide](https://www.ghiless.com/p/ai-automation-blueprints-sdr-system-content-engine-claude-prompt-engineering-guide-a9ec)
+- [Discover 80 Automation Workflows from the n8n's Community](https://n8n.io/workflows/categories/devops/)
 
 ## Apps
 
@@ -48,6 +49,7 @@
 
 - [Builder.io: Visual Development Platform](https://www.builder.io/) - Free Open Source
 	- [GitHub - BuilderIO/builder: Visual Development for React, Vue, Svelte, Qwik, and more](https://github.com/builderio/builder)
+	- [Introducing Fusion: Vibe Code at Any Scale](https://www.builder.io/blog/introducing-fusion)
 - [Webflow: Create a custom website | No-code website builder](https://webflow.com/)
 	- [6,000+ Webflow HTML website templates | Webflow](https://webflow.com/templates)
 - [Drag and Drop Website Builder - Create Websites with WebWave](https://webwave.me/)

@@ -298,3 +298,4 @@
 ## Links
 
 - [LinkedIn Top Companies 2024: The 25 workplaces in India to grow your career (\>5K employees)](https://www.linkedin.com/pulse/linkedin-top-companies-2024-25-workplaces-india-grow-your-gs-kumar-uv3wc/)
+- Sova health - [The Sova Health Story - by Priyadarshan Banjan - tal64](https://www.tal64.com/p/the-sova-health-story)

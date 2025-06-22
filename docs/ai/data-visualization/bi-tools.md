@@ -139,6 +139,7 @@ DataIQ is a business intelligence platform designed to help organizations manage
 - [GitHub - finos/perspective: A data visualization and analytics component, especially well-suited for large and/or streaming datasets.](https://github.com/finos/perspective)
 - [ThoughtSpot | The AI-Powered Analytics Platform](https://www.thoughtspot.com/)
 - [Reporting and embedded business intelligence software | Jaspersoft](https://www.jaspersoft.com/)
+	- [JasperReports - Wikipedia](https://en.wikipedia.org/wiki/JasperReports)
 - [Domo Charts, Visualizations, and Dashboards \| Domo](https://www.domo.com/business-intelligence/visualizations-and-dashboards)
 - [InstaCharts \| Graph Data Trends Quickly](https://instacharts.io/)
 - [Online Chart & Graph Maker\| LiveGap](https://charts.livegap.com/?lan=en)

@@ -5,8 +5,51 @@
 - SEM - Search Engine Marketing
 - ASO - App Store Optimization
 - SEM - Search Engine Marketing
+- GEO - Generative Engine Optimization
 
-### SEM - Search Engine Marketing
+## GEO - Generative Engine Optimization / Chat Engine Optimization (CEO)
+
+ Chat Engine Optimization (CEO), also known as Generative Engine Optimization (GEO), is a strategy focused on making content appealing to AI-powered chat engines like ChatGPT and Perplexity, so they feature or cite it in their responses. Unlike traditional SEO, which focuses on ranking websites in search engine results pages (SERPs), CEO aims to have content integrated directly into the AI's generated answers, even without user clicks.
+
+### 1. Understanding the Shift
+
+- **From Ranking to Mentioning:** Traditional SEO focuses on getting your website to the top of search results. CEO, however, focuses on getting your content mentioned or cited within AI-generated answers.
+- **AI as a New Medium:** Chat engines are becoming a primary way users access information. CEO acknowledges this shift and aims to optimize content for this new medium.
+
+### 2. Key Strategies for CEO
+
+- **Content Quality and Structure:**
+	- **Comprehensive and Engaging Content:** AI tools prefer content that is well-researched, informative, and easy to understand.
+	- **Answer Specific Questions:** Structure content in a way that directly addresses common questions users might ask the chat engine.
+- **Keyword Optimization:**
+	- **Long-tail and Conversational Keywords:** Use keywords that reflect how people naturally speak to AI chatbots.
+	- **Semantic Keywords:** Focus on the meaning and context of keywords, rather than just keyword density.
+- **Building Authority and Credibility:**
+	- **Establish Expertise:** Showcase your knowledge and expertise on the topic.
+	- **Cite Sources:** Include citations and references to support your claims, as AI tools often value this.
+- **Content Freshness:**
+	- **Keep Content Up-to-Date:** Ensure your content is current and relevant, as AI tools often prioritize the latest information.
+- **Meta Tags Optimization:**
+	- **Meta Titles and Descriptions:** Ensure these are clear, concise, and compelling, as they can influence how your content is displayed within AI responses.
+
+### 3. Tools and Techniques
+
+- **ChatGPT for Content Creation and Optimization:** Use ChatGPT to generate high-quality content, improve existing content, and analyze content for optimization opportunities.
+- **AI-powered Keyword Research:** Use AI tools to identify relevant keywords for chat engines.
+- **Monitoring and Analysis:** Track how your content is being used by AI tools to identify areas for improvement.
+
+### 4. The Future of GEO
+
+- **Evolving AI Capabilities:** As AI technology continues to advance, CEO strategies will need to adapt.
+- **Integration with Traditional SEO:** CEO is not meant to replace traditional SEO, but rather to complement it.
+
+[Generative Engine Optimization (GEO): SEO for Chat GPT \| Forge and Smith](https://forgeandsmith.com/blog/generative-engine-optimization-geo-seo-chat-gpt/)
+
+[What’s Generative Engine Optimization (GEO) & How To Do It](https://foundationinc.co/lab/generative-engine-optimization)
+
+[Search \| OpenAI](https://openai.com/chatgpt/search-product-discovery/)
+
+## SEM - Search Engine Marketing
 
 Search engine marketing is the practice of marketing a business using paid advertisements that appear on search engine results pages (or [SERPs](https://www.wordstream.com/serp)). Advertisers bid on keywords that users of services such as Google and Bing might enter when looking for certain products or services, which gives the advertiser the opportunity for their ads to appear alongside results for those search queries.
 

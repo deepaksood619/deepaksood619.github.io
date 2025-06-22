@@ -1,4 +1,4 @@
-# LLM Building
+# Building
 
 - [Create a Large Language Model from Scratch with Python - Tutorial - YouTube](https://www.youtube.com/watch?v=UU1WVnMk4E8)
 - [Understanding Large Language Models - by Sebastian Raschka](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
@@ -147,11 +147,13 @@ docker exec -it ollama ollama run mistral
 
 [Jan: Open source ChatGPT-alternative that runs 100% offline - Jan](https://jan.ai/)
 
-#### open-webui
+#### open-webui / openwebui / open webui
 
 Open WebUI is an extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. It supports various LLM runners like Ollama and OpenAI-compatible APIs, with built-in inference engine for RAG, making it a powerful AI deployment solution.
 
 [GitHub - open-webui/open-webui: User-friendly AI Interface (Supports Ollama, OpenAI API, ...)](https://github.com/open-webui/open-webui)
+
+OpenWebUI, it provides a universal chat like interface for using any models via Ollama. We can add prompt templates and use the chat for our purpose. It is a solution for using LLMs but not allowing the parent companies to collect the data. It is based on Open-AI's api so integrating other models would be a challenge.
 
 ### oobabooga
 

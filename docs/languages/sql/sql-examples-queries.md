@@ -4,7 +4,7 @@
 
 - Alter table drop index in mysql locks the table, run it off-hours
 
-### See size of table for all schemas - MySQL
+## See size of table for all schemas - MySQL
 
 ```sql
 SELECT
@@ -53,7 +53,17 @@ GROUP BY table_schema
 ORDER BY 3 DESC;
 ```
 
-### Other queries
+## Full table scans
+
+```sql
+select * from sys.x$statements_with_full_table_scans;`
+
+select * from sys.`x$statement_analysis`;
+
+select * from sys.`x$statements_with_runtimes_in_95th_percentile`;
+```
+
+## Other queries
 
 ```sql
 SELECT count(*) AS TOTALNUMBEROFTABLES FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'sttash_website_LIVE';
@@ -474,7 +484,7 @@ FROM
 
 [how do I query sql for a latest record date for each user](https://stackoverflow.com/questions/2411559/how-do-i-query-sql-for-a-latest-record-date-for-each-user)
 
-### [Question - UserName, NoOfCreated, NoOfEnabledRoles NoOffUpdatedRole](https://forums.sqlteam.com/t/to-write-sql-code/19832)
+## [Question - UserName, NoOfCreated, NoOfEnabledRoles NoOffUpdatedRole](https://forums.sqlteam.com/t/to-write-sql-code/19832)
 
 ```sql
 SELECT

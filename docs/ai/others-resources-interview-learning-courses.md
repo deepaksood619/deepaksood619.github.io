@@ -25,6 +25,7 @@
 - [Research papers for software engineers to transition to AI Engineering. - YouTube](http://youtube.com/post/UgkxzWqAeGgNwoB2qbqEDCsJwp_nOsK0C3qZ)
 - [Generative AI Bootcamp – Complete 65-Hour Course - YouTube](https://youtu.be/DOXJ7s1D6iE)
 - [GitHub - mlabonne/llm-course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.](https://github.com/mlabonne/llm-course) 55.4k stars
+- [Reinforcement Learning Guide \| Unsloth Documentation](https://docs.unsloth.ai/basics/reinforcement-learning-guide)
 
 ## AI (Artificial Intelligence) + ML (Machine Learning)
 

@@ -173,7 +173,6 @@ So... what's the deal with TTMs?
 
 ### Tools
 
-- [**DeepEval**](https://github.com/confident-ai/deepeval) - a simple-to-use, open-source evaluation framework for LLM applications.
 - [**Fiddler Auditor**](https://github.com/fiddler-labs/fiddler-auditor) - a tool to evaluate the robustness of language models.
 - [**ragas**](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines.
 	- Objective metrics, intelligent test generation, and data-driven insights for LLM apps

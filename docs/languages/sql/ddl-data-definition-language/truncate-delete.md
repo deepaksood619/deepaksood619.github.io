@@ -147,6 +147,8 @@ pt-archiver --source h=your_host,D=your_db,t=your_table --where "condition" --pu
 
 Create a new table with only the rows you want to keep, then swap the tables.
 
+This works perfectly with readers if we don't have huge space left for optimize command.
+
 ```sql
 CREATE TABLE new_table AS
 SELECT * FROM your_table
@@ -154,6 +156,12 @@ WHERE NOT condition;
 
 RENAME TABLE your_table TO old_table, new_table TO your_table;
 
+DROP TABLE old_table;
+
+-- Copy useful data
+CREATE TABLE new_table LIKE your_table;
+INSERT INTO new_table SELECT * FROM your_table WHERE created_at >= '2022-01-01'; -- Keep only recent data
+RENAME TABLE your_table TO old_table, new_table TO your_table;
 DROP TABLE old_table;
 ```
 

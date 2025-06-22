@@ -24,14 +24,10 @@ Stochastic environment: In a stochastic environment there is uncertainity about 
 
 ## References
 
-https://en.wikipedia.org/wiki/Reinforcement_learning
-
-https://towardsdatascience.com/reinforcement-learning-demystified-36c39c11ec14
-
-https://towardsdatascience.com/reinforcement-learning-demystified-markov-decision-processes-part-1-bf00dda41690
-
-https://lilianweng.github.io/lil-log/2020/01/29/curriculum-for-reinforcement-learning.html
-
-https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial
-
-https://www.freecodecamp.org/news/train-an-ai-to-play-a-snake-game-using-python
+- https://en.wikipedia.org/wiki/Reinforcement_learning
+- https://towardsdatascience.com/reinforcement-learning-demystified-36c39c11ec14
+- https://towardsdatascience.com/reinforcement-learning-demystified-markov-decision-processes-part-1-bf00dda41690
+- https://lilianweng.github.io/lil-log/2020/01/29/curriculum-for-reinforcement-learning.html
+- https://www.toptal.com/deep-learning/pytorch-reinforcement-learning-tutorial
+- https://www.freecodecamp.org/news/train-an-ai-to-play-a-snake-game-using-python
+- [Reinforcement Learning Guide \| Unsloth Documentation](https://docs.unsloth.ai/basics/reinforcement-learning-guide)

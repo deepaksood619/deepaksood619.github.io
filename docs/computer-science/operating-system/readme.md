@@ -8,7 +8,7 @@
 - [Scheduling](scheduling)
 - [Coroutines](coroutines)
 - [Parallel Processing](parallel-processing)
-- [Memory](memory)
+- [Memory](computer-science/operating-system/memory.md)
 - [Memory Allocation](memory-allocation)
 - [Memory Layout](memory-layout)
 - [Memory Mapping MMAP](memory-mapping-mmap)

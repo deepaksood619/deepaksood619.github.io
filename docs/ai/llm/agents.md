@@ -1,4 +1,4 @@
-# LLM Agents
+# Agents
 
 Presentation - [Automating the Future: Build Powerful AI Agents - Google Slides](https://docs.google.com/presentation/d/1nRNP7h89k-8FTCP2kMSMbAa0zIJ6r0COm7voa1JT6Sc/edit?usp=sharing)
 
@@ -49,18 +49,53 @@ The power of AI collaboration has too much to offer. CrewAI is a standalone fram
 - [GitHub - crewAIInc/crewAI: Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.](https://github.com/crewAIInc/crewAI)
 - [CrewAI](https://www.crewai.com/)
 
+## Agno
+
+Developers use Agno to build Reasoning Agents, Multimodal Agents, Teams of Agents and Agentic Workflows. Agno also provides a beautiful UI to chat with your Agents, pre-built FastAPI routes to serve your Agents and tools to monitor and evaluate their performance.
+
+Use Agno to build the 5 levels of Agentic Systems:
+
+- Level 1: Agents with tools and instructions.
+- Level 2: Agents with knowledge and storage.
+- Level 3: Agents with memory and reasoning.
+- Level 4: Agent Teams that can reason and collaborate.
+- Level 5: Agentic Workflows with state and determinism.
+
+```python
+# pip install -U agno
+
+from agno.agent import Agent
+from agno.models.anthropic import Claude
+from agno.tools.reasoning import ReasoningTools
+from agno.tools.yfinance import YFinanceTools
+
+reasoning_agent = Agent(
+    model=Claude(id="claude-sonnet-4-20250514"),
+    tools=[
+        ReasoningTools(add_instructions=True),
+        YFinanceTools(stock_price=True, analyst_recommendations=True, company_info=True, company_news=True),
+    ],
+    instructions="Use tables to display data.",
+    markdown=True,
+)
+```
+
+[GitHub - agno-agi/agno: Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.](https://github.com/agno-agi/agno)
+
+[A beautiful UI for your Agents - Agno](https://docs.agno.com/agent-ui/introduction)
+
+[agno/cookbook/getting\_started/05\_agent\_team.py at main · agno-agi/agno · GitHub](https://github.com/agno-agi/agno/blob/main/cookbook/getting_started/05_agent_team.py)
+
 ## AI Agents / Tools
 
 - [agent.ai \| The Professional Network for AI Agents](https://agent.ai/agents)
 - [AI Agents Directory - Find and Compare AI Assistants \| AI Agents List](https://aiagentslist.com/)
 - [AI Agents Marketplace \| AI Agents Directory - Discover Best AI Agents](https://aiagentsdirectory.com/)
 - [GitHub - MotiaDev/motia: Event-based orchestration framework for agents and intelligent automations](https://github.com/MotiaDev/motia)
-- [GitHub - agno-agi/agno: Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.](https://github.com/agno-agi/agno)
-	- [A beautiful UI for your Agents - Agno](https://docs.agno.com/agent-ui/introduction)
-	- Developers use Agno to build Reasoning Agents, Multimodal Agents, Teams of Agents and Agentic Workflows. Agno also provides a beautiful UI to chat with your Agents, pre-built FastAPI routes to serve your Agents and tools to monitor and evaluate their performance.
 - [GitHub - strands-agents/sdk-python: A model-driven approach to building AI agents in just a few lines of code.](https://github.com/strands-agents/sdk-python)
 	- [Introducing Strands Agents, an Open Source AI Agents SDK \| AWS Open Source Blog](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/)
 - [GitHub - NirDiamant/GenAI\_Agents: This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.](https://github.com/NirDiamant/GenAI_Agents)
+- [GitHub - HKUDS/AutoAgent: "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"](https://github.com/HKUDS/AutoAgent)
 
 ![AI Agents Landscape](../../media/Pasted%20image%2020250114143214.jpg)
 

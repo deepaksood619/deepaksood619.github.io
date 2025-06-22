@@ -7,7 +7,7 @@
 5. Robotics, AI and flying taxis will significantly change the world, so it's better to move out of India, after babies since a huge population will be a bane instead of boom
 6. Text and Writing is not a very good type of communication for humans, Humans love voice based communication, so AI LLM will reinvent everything. Humans will learn by talking and voice assistants will write and reply everything in real time.
 	1. You can talk 3x faster than you can type.
-	2. [conversational-interfaces](psychology/learning/conversational-interfaces.md)
+	2. [conversational-interfaces](education/learning/conversational-interfaces.md)
 
 ## Disrupters
 
@@ -160,5 +160,5 @@ Future
 - A very much problem with voice dictation is that, it beaches privacy, since others can hear what you are saying, but typing solves it, but typing is slow, so next evaluation is direct brain to text. What I am thinking can directly go to mobile or other devices i.e brain computer interface. Even a step further from one brain to others brain. That will be a leap in human communication.
 	- Speed of thought is faster than speed of speaking which is faster than speed of writing.
 	- Anyways writing is another set of thing that a child has to run, which he/she can skip all together. Atleast writing and typing can be skipped, and reading can stay for a bit long.
-	- [The case against conversational interfaces](psychology/learning/conversational-interfaces.md)
+	- [The case against conversational interfaces](education/learning/conversational-interfaces.md)
 - Most successful species is plants and organisms that humans are fully dependent on for living,since humans will make sure that they survive so humans can survive

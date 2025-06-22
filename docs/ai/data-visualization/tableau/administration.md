@@ -122,6 +122,10 @@ The Admin Insights Starter workbook provides site administrators with enhanced v
 
 [What is Tableau? What Is Explorer, Creator And Viewer In Tableau?](https://www.uneecops.com/blog/what-is-tableau-what-is-explorer-creator-and-viewer-in-tableau/)
 
+### Resource Blocks
+
+Resource Blocks are units of compute capacity in Tableau Cloud. Resource Blocks run Tableau Prep Conductor flows. Each Resource Block can run one flow at a time so the number of flows you can run concurrently is equal to the number of Resource Blocks that you have.
+
 ### Pricing
 
 | Product                    | Qty | Unit Price (Yearly INR) | Discount % | Discount Unit Price (Yearly INR) | Annual License cost (INR) |
@@ -138,6 +142,43 @@ Costs are exclusive of GST
 - Price lock-in for 3 years irrespective Salesforce price increase. Billing will be done annually
 - Access to Tableau customer portal.
 - Self-serve tool for raise Tableau support tickets
+
+## Tools
+
+TabJolt and TabRMT are tools used for load and performance testing of Tableau Server. TabJolt is a "point-and-run" tool that simulates user interactions to assess Tableau's performance under load, while TabRMT ([TabMon](https://www.google.com/search?sca_esv=8900ff206bef6d47&rlz=1C5CHFA_enIN1084IN1084&cs=0&sxsrf=AE3TifNiLt9rW-hJnjiNCFfdTbHrOq15_A%3A1750176581006&q=TabMon&sa=X&ved=2ahUKEwi02vrq6_iNAxWm-DgGHc0CHQkQxccNegQIAxAB&mstk=AUtExfCQCHAjso47Fh6ZJxz99CFybV0UhehGFFVHjisi5Vrd4hu4cL5h3nFdhT8Vr9s8Ah7LEUPtQJTnu7yrsXJDczOUg47NyR4nssHLkmHEBU8jmtvOu5e77bT63Va8jut-CHmU6VxzLoKRiqoFJvrrmlcx58JrHE_mLOBOXZzjn2fwLSA03cHbyOY2-mgi9JWOGjVepAfMv2w5w1qsqsGHhH3C1wTJXQbSI8Zb-BDkB_18Q7XuCz6gO4MyMDx4gVoRDVw08RtG3v-ykOyaw8YTZe0AQx-3Mtaayvc7gALUwtleEQ&csui=3)) is a monitoring tool that collects system health and application metrics.
+
+### TabJolt
+
+- **Purpose:** Designed for load and performance testing of Tableau Server.
+- **Functionality:** Automatically drives load against Tableau Server without requiring script development or maintenance.
+- **Key Features:**
+    - Can load visualizations and interpret possible interactions during test execution.
+    - Collects key performance indicators (KPIs) like average response time, throughput, and 95th percentile response time.
+    - Captures Windows performance metrics for correlation.
+- **Benefits:**
+    - Reduces the time and effort required for load testing.
+    - Helps understand Tableau Server's scalability and capacity needs.
+    - Optimized for the Tableau presentation model.
+
+- **Note:** TabJolt is built on top of JMeter and is an open-source tool available on GitHub.
+
+### TabRMT (TabMon)
+
+- **Purpose:** A monitoring tool for Tableau Server that collects system health and application metrics.
+- **Functionality:** Collects built-in metrics like [Windows Perfmon](https://www.google.com/search?sca_esv=8900ff206bef6d47&rlz=1C5CHFA_enIN1084IN1084&cs=0&sxsrf=AE3TifNiLt9rW-hJnjiNCFfdTbHrOq15_A%3A1750176581006&q=Windows+Perfmon&sa=X&ved=2ahUKEwi02vrq6_iNAxWm-DgGHc0CHQkQxccNegQIRxAB&mstk=AUtExfCQCHAjso47Fh6ZJxz99CFybV0UhehGFFVHjisi5Vrd4hu4cL5h3nFdhT8Vr9s8Ah7LEUPtQJTnu7yrsXJDczOUg47NyR4nssHLkmHEBU8jmtvOu5e77bT63Va8jut-CHmU6VxzLoKRiqoFJvrrmlcx58JrHE_mLOBOXZzjn2fwLSA03cHbyOY2-mgi9JWOGjVepAfMv2w5w1qsqsGHhH3C1wTJXQbSI8Zb-BDkB_18Q7XuCz6gO4MyMDx4gVoRDVw08RtG3v-ykOyaw8YTZe0AQx-3Mtaayvc7gALUwtleEQ&csui=3), [Java Health](https://www.google.com/search?sca_esv=8900ff206bef6d47&rlz=1C5CHFA_enIN1084IN1084&cs=0&sxsrf=AE3TifNiLt9rW-hJnjiNCFfdTbHrOq15_A%3A1750176581006&q=Java+Health&sa=X&ved=2ahUKEwi02vrq6_iNAxWm-DgGHc0CHQkQxccNegQIRxAC&mstk=AUtExfCQCHAjso47Fh6ZJxz99CFybV0UhehGFFVHjisi5Vrd4hu4cL5h3nFdhT8Vr9s8Ah7LEUPtQJTnu7yrsXJDczOUg47NyR4nssHLkmHEBU8jmtvOu5e77bT63Va8jut-CHmU6VxzLoKRiqoFJvrrmlcx58JrHE_mLOBOXZzjn2fwLSA03cHbyOY2-mgi9JWOGjVepAfMv2w5w1qsqsGHhH3C1wTJXQbSI8Zb-BDkB_18Q7XuCz6gO4MyMDx4gVoRDVw08RtG3v-ykOyaw8YTZe0AQx-3Mtaayvc7gALUwtleEQ&csui=3), and [Java Mbean (JMX)](https://www.google.com/search?sca_esv=8900ff206bef6d47&rlz=1C5CHFA_enIN1084IN1084&cs=0&sxsrf=AE3TifNiLt9rW-hJnjiNCFfdTbHrOq15_A%3A1750176581006&q=Java+Mbean+%28JMX%29&sa=X&ved=2ahUKEwi02vrq6_iNAxWm-DgGHc0CHQkQxccNegQIRxAD&mstk=AUtExfCQCHAjso47Fh6ZJxz99CFybV0UhehGFFVHjisi5Vrd4hu4cL5h3nFdhT8Vr9s8Ah7LEUPtQJTnu7yrsXJDczOUg47NyR4nssHLkmHEBU8jmtvOu5e77bT63Va8jut-CHmU6VxzLoKRiqoFJvrrmlcx58JrHE_mLOBOXZzjn2fwLSA03cHbyOY2-mgi9JWOGjVepAfMv2w5w1qsqsGHhH3C1wTJXQbSI8Zb-BDkB_18Q7XuCz6gO4MyMDx4gVoRDVw08RtG3v-ykOyaw8YTZe0AQx-3Mtaayvc7gALUwtleEQ&csui=3) counters on Tableau Server machines.
+
+- **Key Features:**
+    - Displays collected data in a unified structure, making it easy to visualize in [Tableau Desktop](https://www.google.com/search?sca_esv=8900ff206bef6d47&rlz=1C5CHFA_enIN1084IN1084&cs=0&sxsrf=AE3TifNiLt9rW-hJnjiNCFfdTbHrOq15_A%3A1750176581006&q=Tableau+Desktop&sa=X&ved=2ahUKEwi02vrq6_iNAxWm-DgGHc0CHQkQxccNegQIQxAB&mstk=AUtExfCQCHAjso47Fh6ZJxz99CFybV0UhehGFFVHjisi5Vrd4hu4cL5h3nFdhT8Vr9s8Ah7LEUPtQJTnu7yrsXJDczOUg47NyR4nssHLkmHEBU8jmtvOu5e77bT63Va8jut-CHmU6VxzLoKRiqoFJvrrmlcx58JrHE_mLOBOXZzjn2fwLSA03cHbyOY2-mgi9JWOGjVepAfMv2w5w1qsqsGHhH3C1wTJXQbSI8Zb-BDkB_18Q7XuCz6gO4MyMDx4gVoRDVw08RtG3v-ykOyaw8YTZe0AQx-3Mtaayvc7gALUwtleEQ&csui=3).
+    - Provides insights into server performance and resource utilization.
+- **Benefits:**
+    - Helps identify performance bottlenecks and areas for optimization.
+    - Provides a comprehensive view of Tableau Server's health and performance.
+
+### Links
+
+- [GitHub - tableau/tabjolt: Load generator for Tableau Server](https://github.com/tableau/tabjolt)
+	- [Introducing TabJolt: A point-and-run load and performance testing solution for Tableau Server](https://www.tableau.com/blog/introducing-tabjolt-point-and-run-load-testing-solution-tableau-server-38604)
+- [Installing Resource Monitoring Tool - Tableau](https://help.tableau.com/current/server-linux/en-us/rmt-admin-installation.htm)
 
 ## Links
 

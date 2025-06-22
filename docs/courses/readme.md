@@ -41,7 +41,7 @@
 9. [Mordern Algorithm Design](courses/mordern-algorithm-design.md)
 10. [SE Radio](courses/se-radio.md)
 11. [Coursera - Mindshift](psychology/course-mindshift.md)
-12. [Learning How to Learn](psychology/learning/course-learning-how-to-learn.md) (23 Mar'18 - 14th Apr'18)
+12. [Learning How to Learn](education/learning/course-learning-how-to-learn.md) (23 Mar'18 - 14th Apr'18)
 13. [Responsive Web Design Training Course | Udacity](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 14. [Responsive Images | Learn Web Development | Udacity](https://www.udacity.com/course/responsive-images--ud882)
 15. [Learn the Latest Tech Skills; Advance Your Career | Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud304)
