@@ -35,7 +35,7 @@ It supports both semantic vector search and knowledge graph functionality.
 - **Storage:** Utilizes a combination of in-memory and disk-based storage for efficiency.
 - **Replication:** Supports data replication for high availability and fault tolerance.
 
-## Integration with Qwen3, Graphiti, and Langraph 
+## Integration with Qwen3, Graphiti, and Langraph
 
 1. **Vector Search & Knowledge Graph Integration:** Weaviate excels at combining semantic vector search with graph-based data modeling. This dual capability aligns well with your need to store and retrieve data based on both meaning and relationships.
 2. **Seamless Integration with Qwen3:** While specific integrations with Qwen3 are not detailed, Weaviate's support for external model providers like OpenAI, Hugging Face, and Cohere suggests that integrating Qwen3 for generating embeddings is feasible.

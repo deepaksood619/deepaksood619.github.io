@@ -4,28 +4,27 @@ HNSW, IVF, and PQ are all Indexing techniques used in approximate nearest neigh
 
 ### HNSW (Hierarchical Navigable Small World graph)
 
-- Uses a multi-layered graph structure for efficient traversal and search. 
-- Each layer is a graph, with the top layer being sparse and the bottom layer dense. 
-- Offers high recall and speed but requires more memory to store the graph structure. 
+- Uses a multi-layered graph structure for efficient traversal and search.
+- Each layer is a graph, with the top layer being sparse and the bottom layer dense.
+- Offers high recall and speed but requires more memory to store the graph structure.
 
 ### IVF (Inverted File)
 
-- Partitions the dataset into "buckets" or "lists". 
-- During a query, only a subset of these lists are searched. 
-- Efficient for clustered data and faster than brute-force search. 
-- Can be less accurate than HNSW. 
+- Partitions the dataset into "buckets" or "lists".
+- During a query, only a subset of these lists are searched.
+- Efficient for clustered data and faster than brute-force search.
+- Can be less accurate than HNSW.
 
 ### PQ (Product Quantization)
 
-- Compresses vectors by dividing them into subvectors and quantizing each subvector. 
-- Reduces memory usage and speeds up distance calculations. 
-- Reduces recall due to compression. 
+- Compresses vectors by dividing them into subvectors and quantizing each subvector.
+- Reduces memory usage and speeds up distance calculations.
+- Reduces recall due to compression.
 
 ### Hybrid Approaches
 
-- **IVF-PQ:** Combines IVF for efficient search space reduction and PQ for memory efficiency. 
-- **HNSW-PQ:** Combines HNSW for speed and recall with PQ for memory optimization. 
-    
+- **IVF-PQ:** Combines IVF for efficient search space reduction and PQ for memory efficiency.
+- **HNSW-PQ:** Combines HNSW for speed and recall with PQ for memory optimization.
 
 Choosing the right index depends on your priorities:
 
