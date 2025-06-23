@@ -1,4 +1,4 @@
-# MILVUS
+# Intro
 
 Milvus is an open-source vector database designed to store, index, and search high-dimensional data (like embeddings from AI models). It helps you quickly find items that are “similar” — based on meaning, image features, sound, etc.
 
