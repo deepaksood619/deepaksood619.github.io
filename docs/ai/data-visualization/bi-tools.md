@@ -128,7 +128,7 @@ DataIQ is a business intelligence platform designed to help organizations manage
 - [My empty cells get displayed as zeros in tooltips](https://academy.datawrapper.de/article/271-my-empty-cells-get-displayed-as-zeros-in-tooltips)
 - [Datawrapper River](https://app.datawrapper.de/river)
 
-## Comparision
+## Comparison
 
 - [Choosing an Analytics Tool. Metabase Vs Superset Vs Redash \| by Stefan Mihaylov \| VorTECHsa \| Medium](https://medium.com/vortechsa/choosing-an-analytics-tool-metabase-vs-superset-vs-redash-afd88e028ba9)
 

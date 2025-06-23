@@ -80,7 +80,7 @@ If certain data points are missing for a school, mention "**Information Not Avai
 
 [ChatGPT - IB School Comparison Noida](https://chatgpt.com/share/680e821f-40e4-8005-a032-fecb0efe08e4)
 
-[Noida Schools Comparision - Google Sheets](https://docs.google.com/spreadsheets/d/14kqX8Ach3_Pzk6V8eoFo9CkLLtZ03cwEktSv2ZH7VDA/edit?usp=sharing)
+[Noida Schools Comparison - Google Sheets](https://docs.google.com/spreadsheets/d/14kqX8Ach3_Pzk6V8eoFo9CkLLtZ03cwEktSv2ZH7VDA/edit?usp=sharing)
 
 [Cfore Rankings \| India’s most credible school ranking.](https://cforerankings.com/)
 

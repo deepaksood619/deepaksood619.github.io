@@ -31,24 +31,6 @@ One of the biggest questions around in-context learning is: What happens if we j
 - [GitHub - microsoft/LoRA: Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"](https://github.com/microsoft/LoRA)
 - [LoRA - Explained! - YouTube](https://www.youtube.com/watch?v=Bq9zqTJDsjg)
 
-## HSNW (Hierarchical Navigable Small Worlds)
-
-- [System Design of ChatGPT | Mock interview @gkcs - YouTube](https://www.youtube.com/watch?v=H9Qdm8_JBAs)
-- [Hierarchical Navigable Small Worlds (HNSW) | Pinecone](https://www.pinecone.io/learn/series/faiss/hnsw/)
-- [Similarity Search, Part 4: Hierarchical Navigable Small World (HNSW) | by Vyacheslav Efimov | Towards Data Science](https://towardsdatascience.com/similarity-search-part-4-hierarchical-navigable-small-world-hnsw-2aad4fe87d37)
-- [HSNW Intuitively Explained: The Best Algorithm for Billion Scale Vector Search | by Vansh Kharidia | Medium](https://medium.com/@vanshkharidia7/hsnw-intuitively-explained-the-best-algorithm-for-billion-scale-vector-search-540527e5278e)
-
-## FAISS (Facebook AI Similarity Search)
-
-Faiss is a library for efficient similarity search and clustering of dense vectors. It contains algorithms that search in sets of vectors of any size, up to ones that possibly do not fit in RAM. It also contains supporting code for evaluation and parameter tuning. Faiss is written in C++ with complete wrappers for Python/numpy. Some of the most useful algorithms are implemented on the GPU. It is developed primarily at Meta's [Fundamental AI Research](https://ai.facebook.com/) group.
-
-- [GitHub - facebookresearch/faiss: A library for efficient similarity search and clustering of dense vectors.](https://github.com/facebookresearch/faiss)
-- [What Is Faiss (Facebook AI Similarity Search)?](https://www.datacamp.com/blog/faiss-facebook-ai-similarity-search)
-- [FAISS](https://ai.meta.com/tools/faiss/)
-- [Faiss: A library for efficient similarity search - Engineering at Meta](https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/)
-- [Welcome to Faiss Documentation — Faiss documentation](https://faiss.ai/index.html)
-- [Faiss | 🦜️🔗 LangChain](https://python.langchain.com/docs/integrations/vectorstores/faiss/)
-
 ## Context Window / Tokens
 
 - [GitHub - NVIDIA/RULER: This repo contains the source code for RULER: What’s the Real Context Size of Your Long-Context Language Models?](https://github.com/NVIDIA/RULER)
