@@ -75,7 +75,7 @@ https://360learning.com/blog/adult-learning-theory
 
 1. "Wow, MIT just proved ChatGPT weakens your brain!" -- No, they didn't even claim that, let alone prove it.
 2. "This is mind-boggling research!" -- It was conducted with 54 students over 4 months. Good enough to publish, but not exactly the gold standard.
-3. "ChatGPT should be banned in schools!" -- The study found that students who used ChatGPT after trying to write an essay on a topic performed better than everyone else. 
+3. "ChatGPT should be banned in schools!" -- The study found that students who used ChatGPT after trying to write an essay on a topic performed better than everyone else.
 
 These students had stronger neural activation and higher memory recall than students who used ChatGPT before writing the essay.
 
@@ -89,8 +89,8 @@ So what does it say?
 
 My thoughts after reading the paper:
 
-- ChatGPT has students come up with generic, rambling essays instead of having them explore a topic deeply. 
-- People tend to flow from one thought to another. 
+- ChatGPT has students come up with generic, rambling essays instead of having them explore a topic deeply.
+- People tend to flow from one thought to another.
 - But ChatGPT stays anchored to the original topic without purpose, spitting out facts and data, but little knowledge transfer.
 - This is not a problem if students use ChatGPT after researching a topic. The order should be:
 	1. Think --> Ideate

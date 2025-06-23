@@ -81,7 +81,7 @@ Choosing between Snowflake and Databricks is like deciding between a swiss army 
 
 ## Others
 
-- [starrocks - comparisions](data-warehouses/starrocks.md#Comparisions)
+- [starrocks - comparisons](data-warehouses/starrocks.md#Comparisons)
 
 ### [Compare real-time analytics databases in 2023: Rockset, Apache Druid, ClickHouse, Pinot | Rockset](https://rockset.com/blog/comparing-rockset-apache-druid-clickhouse-real-time-analytics/)
 

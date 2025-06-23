@@ -17,7 +17,7 @@ StarRocks is the world's fastest open query engine for sub-second, ad-hoc analyt
 
 [StarRocks \| A High-Performance Analytical Database](https://www.starrocks.io/)
 
-## Comparisions
+## Comparisons
 
 [ChatGPT - Database Comparison Summary](https://chatgpt.com/share/6803feb3-70ac-8005-8ddb-5b66eb702c3a)
 

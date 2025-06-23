@@ -1,8 +1,19 @@
-# Vector Databases
+# Intro
 
 A vector database is a specialized DBMS that stores vector embeddings utilizing innovative techniques for storage, indexing, and query processing. They offer data management capabilities, such as CRUD and language bindings to widely used data science languages such as Python, SQL, Java, and Tensorflow. Additionally, they deliver advanced features such as high-speed ingestion, sharding, and replication.
 
 Vector databases are designed to handle critical query and algorithmic styles seen in similarity search, anomaly search, observability, fraud detection, and IoT sensor analytics. Such emerging styles are the outcome of digital transformation and the rise of generative AI.
+
+A Vector Database is a specialized database designed to store, index, and search high-dimensional vectors—numerical representations of data like text, images, audio, or code.
+
+These vectors are typically produced by AI models and encode the semantic meaning of content.
+
+Traditional databases (SQL, NoSQL) work well with exact values, strings, or simple filters. But they fail when you want to do semantic similarity search—e.g., finding:
+
+- "Articles similar to this one"
+- "Products like this"
+
+A Vector DB lets you find "closest meaning" instead of exact keyword matches by using Approximate Nearest Neighbor (ANN) search algorithms.
 
 [A Comprehensive Guide to Vector Databases - KDB.AI](https://kdb.ai/blog/a-comprehensive-guide-to-vector-databases/)
 
@@ -28,7 +39,7 @@ Vector databases are designed to handle critical query and algorithmic styles se
 
 ## Working
 
-![How Vector Databases Work](../media/Screenshot%202025-05-08%20at%201.59.29%20PM.jpg)
+![How Vector Databases Work](media/Screenshot%202025-05-08%20at%201.59.29%20PM.jpg)
 
 ## Links
 
@@ -36,4 +47,4 @@ Vector databases are designed to handle critical query and algorithmic styles se
 - [Key considerations when choosing a database for your generative AI applications | AWS Database Blog](https://aws.amazon.com/blogs/database/key-considerations-when-choosing-a-database-for-your-generative-ai-applications/)
 - [InterviewReady | System Design Course | Gaurav Sen](https://interviewready.io/blog/vector-db-vs-relational-db)
 
-![Vector Databases](../media/Pasted%20image%2020240405112318.jpg)
+![Vector Databases](media/Pasted%20image%2020240405112318.jpg)

@@ -15,6 +15,7 @@
 - [Change Data Capture (CDC)](data-warehouses/concepts/change-data-capture-cdc.md)
 - [Debezium](data-warehouses/concepts/debezium.md)
 - [Data Engineering](data-warehouses/concepts/data-engineering.md)
+- [Data Engineering Challenges](data-warehouses/concepts/data-engineering-challenges.md)
 - [Master Data Management (MDM)](data-warehouses/concepts/master-data-management-mdm.md)
 - [Tools](data-warehouses/concepts/tools.md)
 

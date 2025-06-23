@@ -174,6 +174,8 @@ Knowledge Graph Memory Server - [servers/src/memory at main · modelcontextproto
 ## Others
 
 - [Announcing the Agent2Agent Protocol (A2A) - Google Developers Blog](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
+- [Star History Monthly May 2025 \| Agent Protocol](https://www.star-history.com/blog/agent-protocol)
+	- X402 - Payment-Required Protocol by Coinbase
 
 ## Links
 
