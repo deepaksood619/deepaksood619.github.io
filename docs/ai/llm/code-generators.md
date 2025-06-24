@@ -78,6 +78,7 @@ You can also ask me questions about your editor selection by starting an inline 
 - [Galileo AI · Copilot for interface design](https://www.usegalileo.ai/)
 - [Cursor - The AI-first Code Editor](https://www.cursor.com/)
 - [Windsurf Editor](https://windsurf.com/)
+- [GitHub - openai/codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
 
 ## Links
 

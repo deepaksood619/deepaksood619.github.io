@@ -162,6 +162,10 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [**zep**](https://github.com/getzep/zep) - a long-term memory store for LLM / Chatbot applications. Easily add relevant documents, chat history memory & rich user data to your LLM app's prompts.
 	- [Zep - AI Agent Memory](https://www.getzep.com/)
 - [GitHub - mem0ai/mem0: Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research](https://github.com/mem0ai/mem0)
+	- **Memory processing –** Uses LLMs to extract and store key facts from conversations while preserving full context
+	- **Memory management –** Automatically updates memories and resolves contradictions to maintain consistency
+	- **Dual storage architecture –** Combines vector search with graph-based relationship tracking
+	- **Smart retrieval –** Prioritizes relevant memories via semantic search and graph queries based on recency and importance
 	- **+26% Accuracy** over OpenAI Memory on the LOCOMO benchmark
 	- **91% Faster Responses** than full-context, ensuring low-latency at scale
 	- **90% Lower Token Usage** than full-context, cutting costs without compromise

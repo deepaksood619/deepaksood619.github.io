@@ -15,7 +15,6 @@
 - [Natural Language to SQL](ai/llm/natural-language-to-sql.md)
 - [Prompt Engineering](ai/llm/prompt-engineering.md)
 - [Prompt Examples](ai/llm/prompt-examples.md)
-- [Interview Questions](ai/llm/interview-questions.md)
 - [Libraries](ai/llm/libraries.md)
 - [Tools](ai/llm/tools.md)
 - [Code Generators](ai/llm/code-generators.md)
@@ -28,6 +27,8 @@
 - [GenAI Projects](ai/llm/genai-projects.md)
 - [AI Hackathons](ai/hackathons.md)
 - [Practical AI Problems](ai/ml-fundamentals/practical-ai-problems.md)
+- [Interview Questions](ai/llm/interview-questions.md)
+- [Top 50 Interview Questions](ai/llm/interview-questions-top-50.md)
 
 ## GenAI Landscape
 
