@@ -4,6 +4,7 @@
 - [Vector DB Comparison](https://superlinked.com/vector-db-comparison)
 - [Comprehensive Vector Database Comparison - Features, Performance, and Capabilities](https://vectordb.lqhl.me/)
 - [The 5 Best Vector Databases | A List With Examples | DataCamp](https://www.datacamp.com/blog/the-top-5-vector-databases)
+- [ChatGPT - Milvus vs pgvector Performance](https://chatgpt.com/share/6859a229-c594-8008-9d4f-c28c4578c8f2)
 
 |Feature|Chroma|Pinecone|Weaviate|Faiss|Qdrant|Milvus|PGVector|
 |---|---|---|---|---|---|---|---|
@@ -14,6 +15,13 @@
 |Search Speed|Fast similarity searches|Low-latency search|Milliseconds for millions of objects|Fast, supports GPU|Custom HNSW algorithm for rapid search|Optimized for low-latency search|Approximate Nearest Neighbor (ANN)|
 |Data Privacy|Supports multi-user with data isolation|Fully managed service|Emphasizes security and replication|Primarily for research and development|Advanced filtering on vector payloads|Secure multi-tenant architecture|Inherits PostgreSQL’s security|
 |Programming Language|Python, JavaScript|Python|Python, Java, Go, others|C++, Python|Rust|C++, Python, Go|PostgreSQL extension (SQL-based)|
+
+## Milvus vs Qdrant
+
+- [**Vector Database Benchmarks - Qdrant**](https://qdrant.tech/benchmarks/)
+- [VectorDBBench: An Open-Source VectorDB Benchmark Tool](https://zilliz.com/vdbbench-leaderboard)
+- [Milvus vs Qdrant: Vector Database Performance Comparison](https://myscale.com/blog/milvus-vs-qdrant-vector-database-performance/)
+- [Choosing a vector db for 100 million pages of text. Leaning towards Milvus, Qdrant or Weaviate. Am I missing anything, what would you choose? : r/vectordatabase](https://www.reddit.com/r/vectordatabase/comments/1dcvyrm/choosing_a_vector_db_for_100_million_pages_of/)
 
 ## Qdrant vs Weaviate
 

@@ -30,6 +30,12 @@
 - [AI Automation Blueprints: SDR System + Content Engine + Claude Prompt Engineering Guide](https://www.ghiless.com/p/ai-automation-blueprints-sdr-system-content-engine-claude-prompt-engineering-guide-a9ec)
 - [Discover 80 Automation Workflows from the n8n's Community](https://n8n.io/workflows/categories/devops/)
 
+### Workflows
+
+- [Embeddings Google Gemini integrations \| Workflow automation with n8n](https://n8n.io/integrations/embeddings-google-gemini/)
+- [Confluence and Google Gemini Chat Model: Automate Workflows with n8n](https://n8n.io/integrations/confluence/and/google-gemini-chat-model/)
+- [RAG Chatbot for Company Documents using Google Drive and Gemini \| n8n workflow template](https://n8n.io/workflows/2753-rag-chatbot-for-company-documents-using-google-drive-and-gemini/)
+
 ## Apps
 
 - [**Appsmith** | Open-Source Internal Tool Builder](https://www.appsmith.com/) - Dunzo (36K stars) - [GitHub - appsmithorg/appsmith: Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.](https://github.com/appsmithorg/appsmith)
