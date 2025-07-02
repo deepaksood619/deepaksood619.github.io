@@ -10,6 +10,22 @@
 - [Galileo AI: The Generative AI Evaluation Company](https://galileo.ai/)
 - [Helicone / LLM-Observability for Developers](https://www.helicone.ai/)
 - [GitHub - confident-ai/deepteam: The LLM Red Teaming Framework](https://github.com/confident-ai/deepteam)
+- [Evaluating LLM Models: A Guide to Popular Frameworks](https://medium.com/@abhghoshsgp/evaluating-llm-models-a-guide-to-popular-frameworks-59f236542d46)
+	- [MLflow LLM Evaluation (Legacy) \| MLflow](https://mlflow.org/docs/latest/genai/eval-monitor/llm-evaluation)
+	- [GitHub - explodinggradients/ragas: Supercharge Your LLM Application Evaluations 🚀](https://github.com/explodinggradients/ragas)
+	- [Model Evaluation Suite Quickstart — Deepchecks Documentation](https://docs.deepchecks.com/en/stable/tabular/auto_tutorials/quickstarts/plot_quick_model_evaluation.html)
+	- [GitHub - Arize-ai/phoenix: AI Observability & Evaluation](https://github.com/Arize-ai/phoenix)
+	- [TruLens for LLMs](https://www.trulens.org/)
+
+## Key Aspects of LLM Evaluation
+
+1. **Accuracy and Quality**: Measures how well the model predicts or generates correct outputs for tasks like text generation, translation, or summarization.
+2. **Bias and Fairness**: Assesses the presence of biases related to gender, race, or other demographics to ensure ethical AI.
+3. **Robustness**: Tests the model’s resilience to noisy or adversarial inputs, ensuring consistent performance across diverse contexts.
+4. **Generalization**: Evaluates how well the model can adapt to new, unseen data outside its training set.
+5. **Efficiency**: Checks the computational cost, memory usage, and inference time, ensuring scalability.
+6. **Interpretability**: Examines whether the model’s decision-making process is understandable, allowing developers to trace and reason about its outputs.
+7. **Alignment**: Verifies whether the model’s outputs align with human values and expected behaviors, particularly important for applications like conversational AI.
 
 ## Metrics
 
@@ -70,4 +86,7 @@ Understanding both metrics helps you right-size your infrastructure and avoid na
 
 > Using these metrics (TTFT, TPS, and GPU usage) together helps us make a smart comparison between different GPUs and infrastructure options. This way, we can pick the setup that gives us the best performance for our specific use case without overspending.
 
-[Benchmarking LLMs: TPS, TTFT, GPU Usage \| Medium](https://rumn.medium.com/benchmarking-llm-performance-token-per-second-tps-time-to-first-token-ttft-and-gpu-usage-8c50ee8387fa)
+## Links
+
+- [Benchmarking LLMs: TPS, TTFT, GPU Usage \| Medium](https://rumn.medium.com/benchmarking-llm-performance-token-per-second-tps-time-to-first-token-ttft-and-gpu-usage-8c50ee8387fa)
+- [What is AI Agent Evaluation? \| IBM](https://www.ibm.com/think/topics/ai-agent-evaluation)

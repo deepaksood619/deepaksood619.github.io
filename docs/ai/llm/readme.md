@@ -17,7 +17,7 @@
 - [Prompt Examples](ai/llm/prompt-examples.md)
 - [Libraries](ai/llm/libraries.md)
 - [Tools](ai/llm/tools.md)
-- [Code Generators](ai/llm/code-generators.md)
+- [Code Generators](ai/llm/code-generators-coding.md)
 - [LLM FinTech Use Cases](ai/llm/fintech-use-cases.md)
 - [Ethics](ai/llm/ethics.md)
 

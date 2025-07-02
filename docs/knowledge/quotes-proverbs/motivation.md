@@ -734,3 +734,5 @@ That’s why you must think long and hard before jumping the gun. Check and eval
 [Why you feel stuck — and how to get motivated - Shannon Odell - YouTube](https://youtu.be/kD3-DKkiVeA)
 
 - Stuck in the middle effect
+
+- [Helen Keller - How she learnt](https://www.google.com/search?q=helen+keller+how+she+learned)

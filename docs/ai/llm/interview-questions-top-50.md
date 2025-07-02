@@ -70,7 +70,6 @@ Model distillation trains a smaller "student" model to mimic a larger "teacher" 
 
 LLMs use subword tokenization, like Byte-Pair Encoding (BPE), to break OOV words into known subword units. For instance, "cryptocurrency" might split into "crypto" and "currency." This approach allows LLMs to process rare or new words, ensuring robust language understanding and generation.
 
-
 ## Question 17: How do transformers improve on traditional Seq2Seq models?
 
 Transformers overcome Seq2Seq limitations by:
@@ -105,7 +104,6 @@ GPT-4 surpasses GPT-3 with:
 
 These improvements expand its use in visual question answering and complex dialogues.
 
-
 ## Question 21: What are positional encodings, and why are they used?
 
 Positional encodings add sequence order information to transformer inputs, as self-attention lacks inherent order awareness. Using sinusoidal functions or learned vectors, they ensure tokens like "king" and "crown" are interpreted correctly based on position, critical for tasks like translation.
@@ -138,6 +136,7 @@ Q·K
 √
 dk
 ```
+
 High scores indicate relevant tokens. While efficient, its quadratic complexity (O(n^2 )) for long sequences has spurred research into sparse attention alternatives.
 
 ## Question 25: Why is cross-entropy loss used in language modeling?
@@ -190,7 +189,6 @@ Q(x)
 ```
 
 In LLMs, it evaluates how closely model predictions match true distributions, guiding fine-tuning to improve output quality and alignment with target data.
-
 
 ## Question 30: What is the derivative of the ReLU function, and why is it significant?
 

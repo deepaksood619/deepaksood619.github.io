@@ -1,10 +1,12 @@
 # Meetups / Talks / Sessions
 
-## Mentor at UnsaidTalks - Hands-on AI Summer Program (24 June 2025)
+## Mentor at UnsaidTalks - Hands-on AI Summer Program (24-25 June 2025)
 
 ![Hands-on AI Summer Program](../media/1748019679958.jpeg)
 
 ![Hands-on AI Summer Program - Mentor](../media/1748019681096.jpeg)
+
+![image](../media/WhatsApp%20Image%202025-07-02%20at%2023.14.51.jpeg)
 
 - [cookbook/examples - GitHub](https://github.com/google-gemini/cookbook/tree/main/examples)
 - [Talk to documents with embeddings](https://github.com/google-gemini/cookbook/blob/main/examples/Talk_to_documents_with_embeddings.ipynb)

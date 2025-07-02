@@ -19,6 +19,7 @@
 
 ## Models
 
+- [GitHub - Hannibal046/Awesome-LLM: Awesome-LLM: a curated list of Large Language Model](https://github.com/Hannibal046/Awesome-LLM)
 - ChatGPT / OpenAI
     - [GPT-4o - by Bugra Akyildiz - MLOps Newsletter](https://mlops.substack.com/p/gpt-4o?)
     - OpenAI o1 - [OpenAI o1 Hub | OpenAI](https://openai.com/o1/)
@@ -52,6 +53,7 @@
 - [GitHub - unslothai/notebooks: Fine-tune LLMs for free with guided Notebooks on Google Colab, Kaggle, and more.](https://github.com/unslothai/notebooks/)
 	- [GitHub - unslothai/unsloth: Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥](https://github.com/unslothai/unsloth)
 	- [DeepSeek-R1-0528: How to Run Locally \| Unsloth Documentation](https://docs.unsloth.ai/basics/deepseek-r1-0528-how-to-run-locally#fine-tuning-deepseek-r1-0528-with-unsloth)
+- [Command Models: The AI-Powered Solution for the Enterprise](https://cohere.com/command)
 
 | Model              | Parameters | Size  |
 | ------------------ | ---------- | ----- |

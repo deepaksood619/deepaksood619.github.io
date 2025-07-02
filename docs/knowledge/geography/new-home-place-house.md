@@ -216,6 +216,7 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 - Market / Mall
 - Metro
 - Look at Google Earth for surrounding things
+	- [Google Earth turns 20: A look back on major moments](https://blog.google/products/earth/google-earth-20-years-timeline/)
 - House Poor / house rich, cash poor - https://www.investopedia.com/terms/h/housepoor.asp
 - Home lane for interior designing, for a home get a professional interior designer
 - Rent

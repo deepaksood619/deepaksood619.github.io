@@ -27,6 +27,8 @@
 - [GitHub - mlabonne/llm-course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.](https://github.com/mlabonne/llm-course) 55.4k stars
 - [Reinforcement Learning Guide \| Unsloth Documentation](https://docs.unsloth.ai/basics/reinforcement-learning-guide)
 - [GitHub - afshinea/stanford-cme-295-transformers-large-language-models: VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models)
+- [GitHub - patchy631/ai-engineering-hub: In-depth tutorials on LLMs, RAGs and real-world AI agent applications.](https://github.com/patchy631/ai-engineering-hub)
+- [GitHub - rasbt/LLMs-from-scratch: Implement a ChatGPT-like LLM in PyTorch from scratch, step by step](https://github.com/rasbt/LLMs-from-scratch)
 
 ## AI (Artificial Intelligence) + ML (Machine Learning)
 

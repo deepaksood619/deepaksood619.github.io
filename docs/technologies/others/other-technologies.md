@@ -116,16 +116,6 @@ Watchman exists to watch files and record when they change. It can also trigger 
 
 https://facebook.github.io/watchman
 
-## Retool
-
-Build internal tools, remarkably fast
-
-Stop wrestling with UI libraries, hacking together data sources, and figuring out access controls. Start shipping apps that move your business forward.
-
-https://retool.com
-
-https://www.freecodecamp.org/news/build-a-crm
-
 ## SMTP Server
 
 **Mailpit** is a small, fast, low memory, zero-dependency, multi-platform email testing tool & API for developers.

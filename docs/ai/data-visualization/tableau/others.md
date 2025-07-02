@@ -39,3 +39,8 @@ Scale data-driven decision making with AI-powered insights.
 		- [Groups](https://help.tableau.com/current/server/en-us/users_add_group.htm)
 		- [Site settings (custom logos, view recommendations, etc.)](https://help.tableau.com/current/server/en-us/sites_add.htm)
 	- [Tableau Content Migration Tool Use Cases - Tableau](https://help.tableau.com/current/server/en-us/cmt-use-cases.htm#cmt-use-cases)
+
+## Others
+
+- [About Virtual Connections and Data Policies - Tableau](https://help.tableau.com/current/online/en-us/dm_vconn_overview.htm)
+- [Overview of Row-Level Security Options in Tableau - Tableau](https://help.tableau.com/current/server/en-us/rls_options_overview.htm)

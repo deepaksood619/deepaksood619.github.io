@@ -95,3 +95,5 @@ It's no wonder that flow makes us feel like we can achieve the impossible. So ho
 ### Follow the 80/20 rule
 
 When you're trying to master a skill, try the 80/20 approach popularized by the author and investor Tim Ferriss. The idea is that 80 percent of your results stem from 20 percent of your actions. Say you want to learn to play a new musical instrument. Most pop songs consist of just four or five chords, so mastering those chords alone can take you a long way. When you're trying to master a skill, be sure to focus on the 20 percent that really matters.
+
+[People with a Growth Mindset Don’t Waste Time on These 5 Things, According to Warren Buffett - New Trader U](https://www.newtraderu.com/2025/06/25/people-with-a-growth-mindset-dont-waste-time-on-these-5-things-according-to-warren-buffett/)

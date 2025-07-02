@@ -69,3 +69,4 @@ The first release of bitnet.cpp is to support inference on CPUs. bitnet.cpp achi
 - [Fine-tuning large language models (LLMs) in 2024 | SuperAnnotate](https://www.superannotate.com/blog/llm-fine-tuning)
 - [Pruning Aware Training(PAT) in LLMs - by Bugra Akyildiz](https://mlops.substack.com/p/pruning-aware-trainingpat-in-llms)
 - [Generative AI Fine Tuning LLM Models Crash Course - YouTube](https://www.youtube.com/watch?v=t-0s_2uZZU0)
+- [KV Caching in LLMs, explained visually](https://www.dailydoseofds.com/p/kv-caching-in-llms-explained-visually/)

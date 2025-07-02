@@ -329,6 +329,8 @@ Omnichannel customer support Helpdesk, ITSM solution, Chat solutions, Bot functi
 - ITSM solution
 - Sales CRM
 - Freddy Bots
+- [Pabbly - Online Marketing & Sales Software](https://www.pabbly.com/inr/)
+- [The Easiest Small business CRM - Bigin by Zoho CRM](https://www.bigin.com/)
 
 ## Tools for Customer Success (CSM - Customer Success Manager)
 

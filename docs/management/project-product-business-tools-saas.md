@@ -23,6 +23,7 @@
 11. firmbee
 12. Calendar
 13. Slack
+	1. [Lark \| Productivity Superapp for Chat, Meetings, Docs & Projects](https://www.larksuite.com/en_sg/)
     - Brief - https://www.gobrief.com
     - https://www.quora.com/What-Slack-to-do-list-app-do-you-recommend
     - https://about.gitlab.com/handbook/communication/chat

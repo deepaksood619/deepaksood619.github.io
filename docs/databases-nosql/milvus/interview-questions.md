@@ -2,7 +2,7 @@
 
 ### Architecture & Core Concepts
 
-**Q1.** Describe the architecture of Milvus. What are the key components and their roles?  
+**Q1.** Describe the architecture of Milvus. What are the key components and their roles?
 
 Milvus is a distributed vector database with the following core components:
 
@@ -25,7 +25,7 @@ Milvus is a distributed vector database with the following core components:
 - **DISKANN:** Disk-based index for massive datasets exceeding RAM capacity
 - **FLAT:** Exact search; best for benchmarking
 
-**Q3.** How do you choose the best search parameters (`ef`, `nprobe`) for ANN search in Milvus?  
+**Q3.** How do you choose the best search parameters (`ef`, `nprobe`) for ANN search in Milvus?
 
 - Use `ef` (for HNSW) and `nprobe` (for IVF) to balance **recall vs. latency**
 - Start low, measure recall, and increase incrementally
@@ -34,7 +34,7 @@ Milvus is a distributed vector database with the following core components:
 
 ### Scaling & Load Handling
 
-**Q4.** How do you scale Milvus for large-scale ingestion (e.g., millions of embeddings/hour)?  
+**Q4.** How do you scale Milvus for large-scale ingestion (e.g., millions of embeddings/hour)?
 
 - Horizontal scaling of **DataNodes** to parallelize ingestion
 - Use **sharding** across collections/partitions
@@ -42,7 +42,7 @@ Milvus is a distributed vector database with the following core components:
 - Increase Pulsar partitions to avoid messaging bottlenecks
 - Pre-warm memory using `load_collection` calls
 
-**Q5.** What is Milvus's mechanism for data sharding and partitioning?  
+**Q5.** What is Milvus's mechanism for data sharding and partitioning?
 
 - **Collections** are top-level namespaces
 - **Partitions** divide data logically within a collection
@@ -59,14 +59,14 @@ Milvus is a distributed vector database with the following core components:
 
 ### Storage & Retention
 
-**Q7.** How does Milvus manage vector and metadata storage under the hood?  
+**Q7.** How does Milvus manage vector and metadata storage under the hood?
 
 - Metadata (schemas, collection info) stored in **etcd**
 - Vector data written to **Pulsar** then flushed to **MinIO or S3**
 - Indexes built and saved in object storage (MinIO/S3)
 - Write-ahead logs (WAL) are managed by Milvus internally
 
-**Q8.** How do you manage data versioning or schema evolution in Milvus?  
+**Q8.** How do you manage data versioning or schema evolution in Milvus?
 
 - Milvus supports **collection and field-level schemas**
 - For schema changes: Create new collections with new schemas
@@ -95,7 +95,7 @@ Milvus is a distributed vector database with the following core components:
 
 ### Incident Management
 
-**Q11.** You receive an alert that Milvus vector queries are timing out. What’s your step-by-step triage?  
+**Q11.** You receive an alert that Milvus vector queries are timing out. What’s your step-by-step triage?
 
 - Check if QueryNode or Proxy crashed
 - Validate collection is loaded (`show_loaded_collections`)
@@ -106,7 +106,7 @@ Milvus is a distributed vector database with the following core components:
 
 ### RAG/LLM Integration
 
-**Q12.** How do you optimize Milvus usage in a RAG (Retrieval Augmented Generation) setup?  
+**Q12.** How do you optimize Milvus usage in a RAG (Retrieval Augmented Generation) setup?
 
 - Use filtered vector search (`search with filter`)
 - Maintain metadata (e.g., source, timestamp) for document chunks
