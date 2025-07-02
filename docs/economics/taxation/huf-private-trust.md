@@ -104,6 +104,8 @@ Accordingly, the income derived from such immovable property shall be clubbed wi
 
 [HUF Income Tax: Top 5 HUF Tax Benefits Available Under HUF | HDFC Bank](https://www.hdfcbank.com/personal/resources/learning-centre/save/5-huf-income-tax-benefits)
 
+[The HUF tax hack everyone’s talking about—but few understand](https://www.livemint.com/money/personal-finance/huf-tax-benefits-hindu-undivided-family-huf-income-tax-huf-pan-card-how-to-create-huf-huf-tax-saving-huf-rules-india-11749547680529.html)
+
 #### In case of demise of karta
 
 If the individual who transferred the asset to the HUF passes away, the rental income will typically be shown as income of the HUF and not of the deceased individual or the next Karta of the HUF.

@@ -16,6 +16,8 @@ https://foxbox.com/blog/elixir-vs-ruby
 
 CUDA - Compute Unified Device Architecture
 
+- [Implementing (Massively) Parallelized CUDA Programs From Scratch Using CUDA Programming](https://www.dailydoseofds.com/implementing-massively-parallelized-cuda-programs-from-scratch-using-cuda-programming/)
+
 ## Dart
 
 Dart is a Google developed, open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps.

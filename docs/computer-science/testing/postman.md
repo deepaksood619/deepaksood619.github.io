@@ -24,6 +24,7 @@
 
 ### Public APIs
 
+- [SerpApi: Google Search API](https://serpapi.com/)
 - https://github.com/public-apis/public-apis
 - https://anapioficeandfire.com
 - [**https://httpdump.io/**](https://httpdump.io/)

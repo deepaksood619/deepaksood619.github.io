@@ -3,6 +3,7 @@
 - [Azure Services](cloud/others/azure/services.md)
 - [Azure Commands](cloud/others/azure/commands.md)
 - [Azure IAM](cloud/others/azure/iam.md)
+- [Azure VMs](cloud/others/azure/vms.md)
 - [Microsoft BizTalk](cloud/others/azure/microsoft-biztalk.md)
 - [azure-sql-databases](cloud/others/azure/azure-sql-databases.md)
 - [social-media-analytics-solution](ai/social-media-analytics-solution.md)

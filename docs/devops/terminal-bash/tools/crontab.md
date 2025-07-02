@@ -168,4 +168,6 @@ So cron expressions can be as simple as this: \* \* \* \* ? \*
 
 or more complex, like this: 0/5 14,18,3-39,52 \* ? JAN,MAR,SEP MON-FRI 2002-2010
 
+0 0 8,11,14 ? ** - 8 AM, 11 AM, 2 PM daily
+
 [Cron Trigger Tutorial](http://www.quartz-scheduler.org/documentation/quartz-2.3.0/tutorials/crontrigger.html)

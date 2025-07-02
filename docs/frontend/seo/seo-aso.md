@@ -49,6 +49,67 @@
 
 [Search \| OpenAI](https://openai.com/chatgpt/search-product-discovery/)
 
+[How Generative Engine Optimization (GEO) Rewrites the Rules of Search \| Andreessen Horowitz](https://a16z.com/geo-over-seo/)
+
+### Thoughts
+
+The traditional search playbook is collapsing — and AI-native search is taking over.
+
+For 20+ years, we chased page rank:
+→ Keyword stuffing
+→ Backlinks
+→ Content audits
+→ All to appease Google’s algorithm
+
+But now?
+
+Your goal isn’t to rank.
+Your goal is to be remembered — by the model.
+
+In the world of LLMs (ChatGPT, Claude, Gemini):
+
+→ Queries are longer (23 words vs 4)
+→ Sessions are deeper (6+ mins)
+→ Models personalize, reason, and synthesize
+→ Visibility = how often you're cited in the answer itself
+
+The new metric? Reference Rate.
+"How often does the model mention your brand in its response?"
+
+And new tools are racing to define this frontier:
+
+→ Profound, Goodie, Daydream: Monitor LLM references
+→ Ahrefs Brand Radar: Tracks AI Overviews
+→ Semrush AI Toolkit: Optimizes for model visibility & perception
+
+Early GEO tactics:
+
+✅ Use bullet points & summaries
+✅ Include phrases like “in summary” or “key takeaways”
+✅ Format for clarity, not keyword density
+✅ Write for the model, not the human
+
+But here’s the real shift:
+
+SEO was decentralized. GEO will be centralized.
+
+The winners won’t just monitor mentions — they’ll shape memory:
+Fine-tune models
+Inject prompts
+Simulate brand awareness
+
+This isn’t just marketing.
+This is a full-stack distribution shift.
+
+In the 2000s → Google Ads
+In the 2010s → Facebook targeting
+In 2025 → LLM visibility
+
+If AI is the new front door to the internet,
+GEO is how you get remembered.
+
+[RIP SEO. \| Brendan Jowett](https://www.linkedin.com/posts/brendanjowett_rip-seo-the-age-of-generative-engine-optimization-activity-7339988366173642753-Qy9T)
+
 ## SEM - Search Engine Marketing
 
 Search engine marketing is the practice of marketing a business using paid advertisements that appear on search engine results pages (or [SERPs](https://www.wordstream.com/serp)). Advertisers bid on keywords that users of services such as Google and Bing might enter when looking for certain products or services, which gives the advertiser the opportunity for their ads to appear alongside results for those search queries.

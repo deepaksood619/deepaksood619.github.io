@@ -12,3 +12,4 @@
 
 - Ejiao refers to a gelatinous product made from the hide of donkeys, used in traditional Chinese medicine. It's a popular ingredient in various remedies and is believed to have numerous health benefits. Ejiao is a gelatin made by stewing and concentrating donkey hide.
 - [Donkey-hide gelatin - Wikipedia](https://en.wikipedia.org/wiki/Donkey-hide_gelatin)
+- [The Riddle of Rama and Krishna – By Babasaheb Ambedkar \| Velivada](https://velivada.com/2019/04/13/the-riddle-of-rama-and-krishna-by-babasaheb-ambedkar/)

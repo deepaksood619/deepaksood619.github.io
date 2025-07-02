@@ -254,6 +254,7 @@ https://www.gigsmedia.in
 ### Sending Emails / SMS / Notifications
 
 - MailChimp
+- [lemlist \| Prospecting tool to automate multichannel outreach & get replies](https://www.lemlist.com/)
 - Twilio SendGrid (Twilio)
 - mailgun
 - Amazon SES

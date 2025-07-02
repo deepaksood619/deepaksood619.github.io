@@ -160,7 +160,7 @@ Knowledge Graph Memory Server - [servers/src/memory at main · modelcontextproto
 ## Resources
 
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
-- [GitHub - punkpeye/awesome-mcp-servers: A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers)
+- [GitHub - punkpeye/**awesome-mcp-servers**: A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers)
 - [Awesome MCP Servers](https://mcpservers.org/)
 	- [MCP servers \| Glama](https://glama.ai/mcp/servers)
 - [Top 5 MCP Servers to Automate Daily Tasks and Workflows with Prompts \| by Pedro Aquino \| Medium](https://medium.com/@pedro.aquino.se/top-5-mcp-servers-to-automate-daily-tasks-and-workflows-with-prompts-039fe50570fd)
@@ -190,3 +190,4 @@ Knowledge Graph Memory Server - [servers/src/memory at main · modelcontextproto
 - [ChatGPT Supports MCP Server Finally! - YouTube](https://www.youtube.com/watch?v=-P1qZo0plEg)
 - [MCP Made SIMPLE: Your FIRST Hello World MCP Server. Works for CURSOR & WINDSURF. - YouTube](https://www.youtube.com/watch?v=rcjdfhhb6ZU&ab_channel=AIOrientedDev)
 - How LLM decides which mcp tool to use
+- [The Full MCP Blueprint: Testing, Security and Sandboxing in MCPs (Part A)](https://www.dailydoseofds.com/model-context-protocol-crash-course-part-6/)

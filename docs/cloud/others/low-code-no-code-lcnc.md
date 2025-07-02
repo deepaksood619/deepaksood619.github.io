@@ -1,5 +1,6 @@
 # Low-Code / No-Code Platforms / LCNC
 
+- [n8n](technologies/others/n8n.md)
 - Medium Code
 - https://uxplanet.org/how-frontend-works-in-the-era-of-no-code-top-6-visual-development-tools-ae5c22b14f5d
 - https://github.com/kairichard/awesome-nocode-lowcode
@@ -20,22 +21,6 @@
 - [IFTTT - Automate business & home](https://ifttt.com/)
 - [Introducing **AWS App Studio** - Generative AI-Powered Low-Code App Builder | Amazon Web Services - YouTube](https://www.youtube.com/watch?v=tCT5hnxehuA)
 
-## N8N.IO
-
-- [n8n.io - a powerful workflow automation tool](https://n8n.io/) (80K stars)
-- [GitHub - n8n-io/n8n: Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.](https://github.com/n8n-io/n8n)
-- [A very quick quickstart \| n8n Docs](https://docs.n8n.io/try-it-out/quickstart/)
-- [n8n Quickstart - YouTube](https://www.youtube.com/watch?v=1MwSoB0gnM4&ab_channel=n8n)
-- [Learning path \| n8n Docs](https://docs.n8n.io/learning-path/)
-- [AI Automation Blueprints: SDR System + Content Engine + Claude Prompt Engineering Guide](https://www.ghiless.com/p/ai-automation-blueprints-sdr-system-content-engine-claude-prompt-engineering-guide-a9ec)
-- [Discover 80 Automation Workflows from the n8n's Community](https://n8n.io/workflows/categories/devops/)
-
-### Workflows
-
-- [Embeddings Google Gemini integrations \| Workflow automation with n8n](https://n8n.io/integrations/embeddings-google-gemini/)
-- [Confluence and Google Gemini Chat Model: Automate Workflows with n8n](https://n8n.io/integrations/confluence/and/google-gemini-chat-model/)
-- [RAG Chatbot for Company Documents using Google Drive and Gemini \| n8n workflow template](https://n8n.io/workflows/2753-rag-chatbot-for-company-documents-using-google-drive-and-gemini/)
-
 ## Apps
 
 - [**Appsmith** | Open-Source Internal Tool Builder](https://www.appsmith.com/) - Dunzo (36K stars) - [GitHub - appsmithorg/appsmith: Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.](https://github.com/appsmithorg/appsmith)
@@ -44,6 +29,10 @@
 - [Albato - a single no-code platform for all automations](https://albato.com/)
 - Paid tools
     - [Retool | The fastest way to build internal software.](https://retool.com)
+        - Build internal tools, remarkably fast - Stop wrestling with UI libraries, hacking together data sources, and figuring out access controls. Start shipping apps that move your business forward.
+        - [How to Build a Custom CRM](https://www.freecodecamp.org/news/build-a-crm)
+        - [Who worked with retool ? : r/SaaS](https://www.reddit.com/r/SaaS/comments/1cf8aml/who_worked_with_retool/)
+        - [Thoughts on using retool to build custom software : r/nocode](https://www.reddit.com/r/nocode/comments/13fbpx8/thoughts_on_using_retool_to_build_custom_software/)
     - [DronaHQ - low code platform to build custom apps, internal tool 10X faster](https://www.dronahq.com/)
     - [Build internal tools faster than ever | UI Bakery](https://uibakery.io/)
     - [Superblocks | Build modern internalapps in days, not months](https://www.superblocks.com/)
@@ -70,6 +59,8 @@
 - [Rollout AI - AI Landing Page Builder & Website Builder \[FREE\]](https://rollout.site/)
 - [CopyCoder](https://copycoder.ai/)
 - [Lovable](https://lovable.dev/)
+	- [master Lovable AI in 30 minutes (beginner tutorial) - YouTube](https://www.youtube.com/watch?v=CfwNxDEXe6I&ab_channel=TimGabe)
+- [Fetching Title#e4rd](https://www.factory.ai/)
 
 ### Others
 

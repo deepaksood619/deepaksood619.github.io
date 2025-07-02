@@ -75,6 +75,10 @@ SQL Server Reporting Services (SSRS) provides a set of on-premises tools and ser
 - [Download SQL Server Management Studio (SSMS) \| Microsoft Learn](https://learn.microsoft.com/en-us/ssms/download-sql-server-management-studio-ssms)
 	- [SSMS Tutorial (SQL Server Management Studio) - Feature Demonstration - YouTube](https://www.youtube.com/watch?v=2VQMI4ZvtA4)
 
+## Others
+
+- [Data Quality Services - Data Quality Services (DQS) \| Microsoft Learn](https://learn.microsoft.com/en-us/sql/data-quality-services/data-quality-services?view=sql-server-ver16)
+
 ## Links
 
 - [azure-sql-databases](cloud/others/azure/azure-sql-databases.md)

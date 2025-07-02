@@ -78,3 +78,4 @@ https://flask.palletsprojects.com/en/0.12.x/tutorial/packaging/#tutorial-packagi
 - ⏬ Installable without Rust or Python via `curl` or `pip`.
 - 🖥️ Supports macOS, Linux, and Windows.
 - [GitHub - astral-sh/uv: An extremely fast Python package and project manager, written in Rust.](https://github.com/astral-sh/uv)
+- [Get started with uv.ipynb - Colab](https://colab.research.google.com/drive/1o0FJVhYaXAATe6ctgV2cfINhTC_JwxXL?usp=sharing)

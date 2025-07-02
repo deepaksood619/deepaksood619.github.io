@@ -21,3 +21,8 @@ Confluent Cloud is a fully managed data streaming platform built on Apache Kafka
 - **Kafka Compatibility:** Event Hubs offers partial Kafka API compatibility, which may not support all Kafka features. In contrast, Confluent Cloud provides full Kafka API compatibility, ensuring seamless integration with existing Kafka clients.
 - **Scalability and Features:** Event Hubs can elastically scale but has certain limitations in scalability and advanced features. Confluent Cloud offers a comprehensive suite of tools for data streaming, including stream processing and data governance features, making it suitable for complex enterprise architectures.
 - **Integration with Azure:** Both services integrate with Azure, but Confluent Cloud offers a more unified security, management, and billing experience, as well as seamless integration with various Azure services.
+
+## Links
+
+- Azure Events Hub / Azure Event Hub
+- [ChatGPT - Epoch Receiver Conflict Fix](https://chatgpt.com/share/685d9105-6864-8005-89e9-35f639cf420f)

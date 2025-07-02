@@ -1,4 +1,4 @@
-# Code Generators
+# Code Generators / Coding
 
 ## Github Copilot
 
@@ -79,9 +79,15 @@ You can also ask me questions about your editor selection by starting an inline 
 - [Cursor - The AI-first Code Editor](https://www.cursor.com/)
 - [Windsurf Editor](https://windsurf.com/)
 - [GitHub - openai/codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
+- [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli)
+
+## SAAS
+
+- [Factory](https://www.factory.ai/)
 
 ## Links
 
+- [low-code-no-code-lcnc](cloud/others/low-code-no-code-lcnc.md)
 - [15 Best AI Coding Assistant Tools in 2024 | CodiumAI](https://www.codium.ai/blog/best-ai-coding-assistant-tools/)
 - [Aider LLM Leaderboards | aider](https://aider.chat/docs/leaderboards/)
 - [BigCodeBench: The Next Generation of HumanEval](https://huggingface.co/blog/leaderboard-bigcodebench)

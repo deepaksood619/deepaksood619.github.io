@@ -16,6 +16,8 @@ It's just an idea. It's not me.
 
 What a time to be alive.
 
+The idea of success is what you think others think of success
+
 I can think, I can wait, I can fast
 
 Injustice anywhere is a threat to justice everywhere - Martin Luther King

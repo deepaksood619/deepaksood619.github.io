@@ -78,6 +78,7 @@ https://www.lennysnewsletter.com/p/building-community
 
 ## Community Building Tools
 
+- [skool.com](https://www.skool.com/)
 - **Giscus -** [A comment system powered by GitHub Discussions](https://giscus.app/)
 - **Disqus -** https://disqus.com
 - **Discourse -** https://www.discourse.org
