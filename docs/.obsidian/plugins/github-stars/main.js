@@ -214,7 +214,7 @@ var GitHubStarsPlugin = class extends import_obsidian.Plugin {
         }
         return null;
       }
-      const data = await response.json();
+      const data = response.json;
       if (!data || typeof data.stargazers_count !== "number") {
         console.error(`Invalid response data for ${owner}/${repo}`);
         return null;
