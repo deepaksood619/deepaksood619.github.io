@@ -138,6 +138,7 @@
 	- [GitHub - Fosowl/agenticSeek: Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake.](https://github.com/Fosowl/agenticSeek)
 - [Double Support Engineering Productivity \| AI Support Engineer \| RunLLM](https://www.runllm.com/)
 - [Puch AI](https://puch.ai/)
+- [SimplAI – Scalable, Secure Agentic AI Platform to Automate Enterprise Workflows](https://simplai.ai/)
 
 ## Purpose-built accelerators for generative AI
 

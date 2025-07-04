@@ -23,5 +23,3 @@
 	- [B2ms pricing and specs - Vantage](https://instances.vantage.sh/azure/vm/b2ms?duration=monthly&platform=windows&region=us-east)
 - B4ms - (4 vCPUs, 16 GB RAM) - $165.71 - On Demand - Monthly - Windows - Southeast (Singapore)
 - [B4ms pricing and specs - Vantage](https://instances.vantage.sh/azure/vm/b4ms?region=asia-pacific-southeast&platform=windows&duration=monthly)
-
-

@@ -29,6 +29,7 @@
 - [GitHub - afshinea/stanford-cme-295-transformers-large-language-models: VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models)
 - [GitHub - patchy631/ai-engineering-hub: In-depth tutorials on LLMs, RAGs and real-world AI agent applications.](https://github.com/patchy631/ai-engineering-hub)
 - [GitHub - rasbt/LLMs-from-scratch: Implement a ChatGPT-like LLM in PyTorch from scratch, step by step](https://github.com/rasbt/LLMs-from-scratch)
+- [I taught myself GenAI from scratch, and it made me the go-to AI expert in my org at Microsoft, and these are my favourite resources to set you up on the same path \| Shivani Virdi](https://www.linkedin.com/posts/shivanivirdi_i-taught-myself-genai-from-scratch-and-it-activity-7345678093744787457-eEIb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 
 ## AI (Artificial Intelligence) + ML (Machine Learning)
 

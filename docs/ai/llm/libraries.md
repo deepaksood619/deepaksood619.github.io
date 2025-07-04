@@ -159,6 +159,7 @@ Traditional RAG approaches often rely on batch processing and static data summar
 
 ### Memory
 
+- [How to sync Context across AI Assistants (ChatGPT, Claude, Perplexity...) in your browser - DEV Community](https://dev.to/anmolbaranwal/how-to-sync-context-across-ai-assistants-chatgpt-claude-perplexity-in-your-browser-2k9l)
 - [**zep**](https://github.com/getzep/zep) - a long-term memory store for LLM / Chatbot applications. Easily add relevant documents, chat history memory & rich user data to your LLM app's prompts.
 	- [Zep - AI Agent Memory](https://www.getzep.com/)
 - [GitHub - mem0ai/mem0: Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research](https://github.com/mem0ai/mem0)

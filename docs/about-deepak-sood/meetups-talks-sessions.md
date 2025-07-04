@@ -1,5 +1,11 @@
 # Meetups / Talks / Sessions
 
+## The AI Hiring Show: Vibe Coding, Power Hiring
+
+![AI Hiring Show](../media/Pasted%20image%2020250704202407.png)
+
+[🚀 𝗘𝘅𝗰𝗶𝘁𝗲𝗱 𝘁𝗼 𝗯𝗲 𝗠𝗲𝗻𝘁𝗼𝗿𝗶𝗻𝗴 𝗮𝘁 𝗧𝗵𝗲 𝗔𝗜 𝗛𝗶𝗿𝗶𝗻𝗴 𝗦𝗵𝗼𝘄! \| Deepak Sood](https://www.linkedin.com/feed/update/urn:li:share:7346914506830204928/)
+
 ## Mentor at UnsaidTalks - Hands-on AI Summer Program (24-25 June 2025)
 
 ![Hands-on AI Summer Program](../media/1748019679958.jpeg)

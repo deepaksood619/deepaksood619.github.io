@@ -80,6 +80,8 @@ You can also ask me questions about your editor selection by starting an inline 
 - [Windsurf Editor](https://windsurf.com/)
 - [GitHub - openai/codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
 - [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli)
+- [Claude Code: Deep Coding at Terminal Velocity \\ Anthropic](https://www.anthropic.com/claude-code)
+	- [I Tested Claude Code for a Week - Here's What I Found](https://www.thetoolnerd.com/p/i-tested-claude-code-for-a-week)
 
 ## SAAS
 
@@ -93,3 +95,4 @@ You can also ask me questions about your editor selection by starting an inline 
 - [BigCodeBench: The Next Generation of HumanEval](https://huggingface.co/blog/leaderboard-bigcodebench)
 - [BigCodeBench Leaderboard](https://bigcode-bench.github.io/)
 - [GitHub Copilot: The agent awakens - The GitHub Blog](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
+- [What I learned trying seven coding agents](https://www.understandingai.org/p/what-i-learned-trying-seven-coding)
