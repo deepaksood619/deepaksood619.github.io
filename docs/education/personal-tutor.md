@@ -181,6 +181,7 @@ TODO - 2025-03-07, 2025-04-03
 - [Learn with OLL \| Live Online Activities for Skill Development \| Online Live Learning](https://www.oll.co/)
 - [Synthesis Tutor](https://www.synthesis.com/tutor)
 - [Seekho: Short Learning Videos on Tech, Money, Personal Growth, & More \| Seekho](https://seekho.in/)
+- [Certified AI & Machine Learning Courses \| Rabbitt Learning](https://learning.rabbitt.ai/)
 
 ### New Age School
 

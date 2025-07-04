@@ -4,6 +4,8 @@ LLM makes good programmers great, and not make bad programmers good
 
 Moving from information to knowledge age
 
+LMM - Large Multimodel Model
+
 ## LLM
 
 - A large language model (LLM) is a type of artificial intelligence program that can recognize and generate text, among other tasks.

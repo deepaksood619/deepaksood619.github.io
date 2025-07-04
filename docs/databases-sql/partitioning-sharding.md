@@ -189,6 +189,32 @@ MySQL partitioning is about altering -- ideally, optimizing -- the way the datab
 
 It is important to note that partitioning makes the most sense when dealing with large data sets. If you have fewer than a million rows or only thousands of records, partitioning will not make a difference.
 
+## Learning
+
+1. Even when the database is managed, you can get a better performance out of existing managed MySQL and Postgres by partitioning the data, helping you improve UX and reduce cost.
+
+Read this explanation on StackOverflow: [MySQL performance with large number of records - partitioning? - Stack Overflow](https://stackoverflow.com/questions/16499004/mysql-performance-with-large-number-of-records-partitioning)
+
+2. Knowing how the data is laid out on the disk and nodes to which each partition is assigned, you can pick the right partitioning key, ensuring you get the best performance even from the managed database without requiring overprovisioning it.
+
+Read: [Choosing the Right DynamoDB Partition Key \| AWS Database Blog](https://aws.amazon.com/blogs/database/choosing-the-right-dynamodb-partition-key/)
+
+3. The concept of data partitioning is very similar to split ownership, which you would require on the compute side to understand how you would do distributed computing (and even single-node multi-threaded programs) such that you maximize the hardware utilization.
+
+Watch: [How to write efficient and fair multi-threaded programs? - YouTube](http://youtu.be/2PjlaUnrAMQ)
+
+4. Knowing these is also essential when you work with Spark because even though there are managed Spark offerings, by partitioning your data well and understanding the Physical Plan, you can bring down your Spark job execution time and, in turn, the cost.
+
+Read about: Broadcast Nested Loop Join
+
+5. Knowing how to partition data without downtime and move shards across without downtime is something that will help you do no-downtime database migrations (from one DB to another).
+
+Watch: [Implementing Vertical Sharding - YouTube](http://youtu.be/9iAJjtvBwyI)
+
+I believe these are the concepts that you should know in and out because now distributed computing and split ownership patterns are becoming quite common, and Sharding and Partitioning form the crux of it, but you and others may have a different opinion on this.
+
+In case you want to understand Sharding and Partitioning from absolute scratch and the real difference between watch [Database Sharding and Partitioning - YouTube](https://www.youtube.com/watch?v=wXvljefXyEo&ab_channel=ArpitBhayani)
+
 ## Advantages
 
 - **Storage:** It is possible to store more data in one table than can be held on a single disk or file system partition.

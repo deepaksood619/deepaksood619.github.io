@@ -81,8 +81,8 @@ var EditorWidthSlider = class extends import_obsidian3.Plugin {
     super(...arguments);
     this.pattern = /^(?:[0-9]{1,2}|100)$/;
   }
-  // most important function, this gets executed everytime the plugin is first 
-  // loaded, e.g. when obsidian starts, or when the user just installed the 
+  // most important function, this gets executed everytime the plugin is first
+  // loaded, e.g. when obsidian starts, or when the user just installed the
   // plugin
   async onload() {
     await this.loadSettings();

@@ -78,11 +78,32 @@ Contextual Retrieval enhances each chunk by adding specific, explanatory context
 - [GitHub - deepsense-ai/ragbits: Building blocks for rapid development of GenAI applications](https://github.com/deepsense-ai/ragbits)
 - [GitHub - vitali87/code-graph-rag: Search Monorepos and get relevant answers](https://github.com/vitali87/code-graph-rag)
 
+### NoCode Tools
+
+- **RAGFlow** - RAGFlow is a RAG engine for deep document understanding! It lets you build enterprise-grade RAG workflows on complex docs with well-founded citations. Supports multimodal data understanding, web search, deep research, etc. 100% open-source with 59k+ stars!
+	- [GitHub - infiniflow/ragflow: RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.](https://github.com/infiniflow/ragflow)
+- **xpander** - xpander is a framework-agnostic backend for agents that manages memory, tools, multi-user states, events, guardrails, etc. While it is not a core no-code tool, you can build, test, and deploy Agents by primarily using the UI. Compatible with LlamaIndex, CrewAI, etc.
+	- https://github.com/xpander-ai/xpander.ai
+- **Transformer Lab** - Transformer Lab is an app to experiment with LLMs: - Train, fine-tune, or chat.
+	- One-click LLM download (DeepSeek, Gemma, etc.)
+	- Drag-n-drop UI for RAG.
+	- Built-in logging, and more. A 100% open-source and local!
+	- [GitHub - transformerlab/transformerlab-app: Open Source Application for Advanced LLM + Diffusion Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.](https://github.com/transformerlab/transformerlab-app)
+- **Llama Factory** - LLaMA-Factory lets you train and fine-tune open-source LLMs and VLMs without writing any code. Supports 100+ models, multimodal fine-tuning, PPO, DPO, experiment tracking, and much more! 100% open-source with 50k stars!
+	- [GitHub - hiyouga/LLaMA-Factory: Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)](https://github.com/hiyouga/LLaMA-Factory)
+- **Langflow** - Langflow is a drag-and-drop visual tool to build AI agents. It lets you build and deploy AI-powered agents and workflows. Supports all major LLMs, vector DBs, etc. 100% open-source with 82k+ stars!
+	- [GitHub - langflow-ai/langflow: Langflow is a powerful tool for building and deploying AI-powered agents and workflows.](https://github.com/langflow-ai/langflow)
+- **AutoAgent** - AutoAgent is a zero-code framework that lets you build and deploy Agents using natural language. It comes with: - Universal LLM support
+	- Native self-managing Vector DB
+	- Function-calling and ReAct interaction modes.
+	- 100% open-source with 5k stars!
+	- [GitHub - HKUDS/AutoAgent: "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"](https://github.com/HKUDS/AutoAgent)
+
 ## Links
 
 - [What is RAG (Retrieval-Augmented Generation)?](https://aws.amazon.com/what-is/retrieval-augmented-generation)
 - [RAG Best Practices: Enhancing Large Language Models with Retrieval-Augmented Generation | by Juan C Olamendy | Medium](https://medium.com/@juanc.olamendy/rag-best-practices-enhancing-large-language-models-with-retrieval-augmented-generation-6961c8b834ff)
-- [A Gentle Introduction to Retrieval Augmented Generation (RAG)](https://wandb.ai/cosmo3769/RAG/reports/A-Gentle-Introduction-to-Retrieval-Augmented-Generation-RAG---Vmlldzo1MjM4Mjk1)
+- [A Gentle Introduction to Retrieval Augmented Generation (RAG)](https://wandb.ai/cosmo3769/RAG/reports/A-Gentle-Introduction-to-Retrieval-Augmented-Generation-RVmlldzo1MjM4Mjk1)
 - [REALM: Integrating Retrieval into Language Representation Models](https://research.google/blog/realm-integrating-retrieval-into-language-representation-models/)
 - [Learn RAG Fundamentals and Advanced Techniques](https://www.freecodecamp.org/news/learn-rag-fundamentals-and-advanced-techniques/)
 - [Using ChatGPT to Search Enterprise Data with Pamela Fox - YouTube](https://www.youtube.com/watch?v=lj5NjKHuFlo)
@@ -110,3 +131,4 @@ Contextual Retrieval enhances each chunk by adding specific, explanatory context
 - [Multimodal Retrieval Augmented Generation(RAG) \| Weaviate](https://weaviate.io/blog/multimodal-rag)
 - [What is Agentic RAG \| Weaviate](https://weaviate.io/blog/what-is-agentic-rag)
 - [RAG with BigQuery - YouTube](https://youtu.be/2kUNLAnXuUE)
+- [RAG Crash Course - Daily Dose of Data Science](https://www.dailydoseofds.com/tag/rag-crash-course/)

@@ -14,6 +14,7 @@
 - Ludo
 - Snakes and ladders
 - [35 Fun Things to Do at Home as a Family](https://www.signupgenius.com/home/fun-things-to-do-family.cfm)
+- Chinese whisper (broken telephone) game - a game where a message is passed from one person to another in a whisper, often resulting in a distorted or humorous final message compared to the original
 
 ## Party
 

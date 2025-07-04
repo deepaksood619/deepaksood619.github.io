@@ -204,6 +204,10 @@ https://iceberg.apache.org
 
 [Streaming from Apache Iceberg - Building Low-Latency and Cost-Effective Data Pipelines - YouTube](https://youtu.be/x6WX_JE96bU?si=hvcH0LIdafH6ZNBU)
 
+[A Data Engineer's Guide to PyIceberg \| HackerNoon](https://hackernoon.com/a-data-engineers-guide-to-pyiceberg)
+
+[GitHub - apache/iceberg-python: Apache PyIceberg](https://github.com/apache/iceberg-python)
+
 ## J
 
 - [Jackrabbit](http://jackrabbit.apache.org/)
