@@ -6,6 +6,7 @@
 - [Finance / Equity / Stocks / ESOPS Questions](management/jobs/finance-equity-stocks-esops-questions.md)
 - [Good Profiles](management/jobs/good-profiles.md)
 - [Resume Keywords Pointers](management/jobs/resume-keywords-pointers.md)
+- [Job Descriptions / JD](management/jobs/job-descriptions-jd.md)
 - [Hiring Plan / HR / Recruiting](management/jobs/hiring-plan-hr-recruiting.md)
 
 ### Future
