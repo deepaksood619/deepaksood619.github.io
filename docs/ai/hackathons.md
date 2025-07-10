@@ -185,3 +185,6 @@ For a hackathon in view of Generative computer based intelligence, here are some
 - [RAG Hackathon Questions](ai/llm/rag-hackathon-questions.md)
 - [GenAI Projects](ai/llm/genai-projects.md)
 - [Practical AI Problems](ai/ml-fundamentals/practical-ai-problems.md)
+- [hackathon-hackhound](ai/hackathon-hackhound.md)
+- [hackathon-rabbittai](ai/hackathon-rabbittai.md)
+- [GitHub - 8090-inc/top-coder-challenge: go the distance](https://github.com/8090-inc/top-coder-challenge)

@@ -6,6 +6,8 @@
 
 [🚀 𝗘𝘅𝗰𝗶𝘁𝗲𝗱 𝘁𝗼 𝗯𝗲 𝗠𝗲𝗻𝘁𝗼𝗿𝗶𝗻𝗴 𝗮𝘁 𝗧𝗵𝗲 𝗔𝗜 𝗛𝗶𝗿𝗶𝗻𝗴 𝗦𝗵𝗼𝘄! \| Deepak Sood](https://www.linkedin.com/feed/update/urn:li:share:7346914506830204928/)
 
+[𝗥𝗲𝗳𝗹𝗲𝗰𝘁𝗶𝗻𝗴 𝗼𝗻 𝗮𝗻 𝘂𝗻𝗳𝗼𝗿𝗴𝗲𝘁𝘁𝗮𝗯𝗹𝗲 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 – 𝗧𝗵𝗲 𝗔𝗜 𝗛𝗶𝗿𝗶𝗻𝗴 𝗦𝗵𝗼𝘄! \| Deepak Sood](https://www.linkedin.com/feed/update/urn:li:activity:7348258867719393280/)
+
 ## Mentor at UnsaidTalks - Hands-on AI Summer Program (24-25 June 2025)
 
 ![Hands-on AI Summer Program](../media/1748019679958.jpeg)

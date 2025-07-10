@@ -140,6 +140,12 @@ So... what's the deal with TTMs?
 
 [Phi-2: The surprising power of small language models - Microsoft Research](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
 
+### ImageGen
+
+[Introducing our latest image generation model in the API \| OpenAI](https://openai.com/index/image-generation-api/)
+
+- gpt-image-1
+
 ## HuggingFace
 
 ### About

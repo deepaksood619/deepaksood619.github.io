@@ -1,4 +1,4 @@
-# Natural Language to SQL
+# Natural Language to SQL / Generative BI
 
 Unified NLQ (Natural Language Query)
 
