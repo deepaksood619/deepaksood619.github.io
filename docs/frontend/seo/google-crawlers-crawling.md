@@ -117,6 +117,11 @@ Additionally, site-wide events like site moves may trigger an increase in crawl 
 - [| TechnicalSEO.com](https://technicalseo.com/tools/robots-txt/)
 - [Robots.txt Test | SEO Site Checkup](https://seositecheckup.com/tools/robotstxt-test)
 
+## Updates
+
+- [Google Search Status Dashboard - Google Search Releases](https://status.search.google.com/products/rGHU1u87FJnkP6W2GwMi/history)
+- [Google June 2025 Core Update: What It Means for SEO, AIO & Your Site : r/AISearchLab](https://www.reddit.com/r/AISearchLab/comments/1lqx3c7/google_june_2025_core_update_what_it_means_for/)
+
 ## Links
 
 - [SEO / ASO](frontend/seo/seo-aso.md)

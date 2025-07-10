@@ -125,3 +125,7 @@ https://www.youtube.com/watch?v=qRT917PvEns
 ## Nasdaq Composite vs Nasdaq 100
 
 The composition of the NASDAQ Composite is heavily weighted towards companies in the information technology sector. The Nasdaq-100, which includes 100 of the largest non-financial companies in the Nasdaq Composite, accounts for about 80% of the index weighting of the Nasdaq Composite.
+
+## Links
+
+- [DSP Global Equity Fund: Should you invest in this retail offshore MF from GIFT City?](https://freefincal.com/dsp-global-equity-fund-should-you-invest-in-this-retail-offshore-mf-from-gift-city/)

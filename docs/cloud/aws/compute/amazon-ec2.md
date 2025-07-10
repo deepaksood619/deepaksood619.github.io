@@ -91,6 +91,49 @@ fi
 
 `chmod +x /home/ubuntu/deploy.sh`
 
+**Advanced Deployment**
+
+```bash title="deploy.sh"
+#!/bin/bash
+
+# List of project directories and their corresponding branches
+declare -A projects
+projects["/home/ubuntu/repoA"]="main"
+projects["/home/ubuntu/repoB"]="master"
+
+# Loop through each project and branch
+for GIT_PATH in "${!projects[@]}"; do
+  BRANCH="${projects[$GIT_PATH]}"
+  echo "Checking for updates in $GIT_PATH on branch $BRANCH"
+  cd "$GIT_PATH" || continue
+
+  # Fetch the latest branch
+  git fetch origin "$BRANCH"
+
+  # Get new commits compared to origin/branch
+  NEW_COMMITS=$(git rev-list HEAD..origin/"$BRANCH")
+
+  if [ -n "$NEW_COMMITS" ]; then
+    echo "New updates found on $BRANCH branch. Pulling and rebuilding..."
+    git reset --hard origin/"$BRANCH"
+
+    docker compose build --no-cache
+    docker compose down --volumes --remove-orphans
+
+    # Rebuild and restart containers
+    sudo docker compose -f docker-compose.yml up -d
+
+    # Clean up unused docker resources
+    echo "Cleaning up unused Docker resources..."
+    sudo docker rm $(sudo docker ps -a -f status=exited -q) 2>/dev/null
+    sudo docker volume rm $(sudo docker volume ls -f dangling=true -q) 2>/dev/null
+    sudo docker images -qf dangling=true | xargs -r sudo docker rmi
+  else
+    echo "$(date '+%Y-%m-%d %H:%M:%S') - No changes in $GIT_PATH ($BRANCH branch)"
+  fi
+done
+```
+
 ## Amazon EC2 Auto Scaling Group (ASG)
 
 Scale Compute Capacity to Meet Demand

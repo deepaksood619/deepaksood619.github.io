@@ -182,6 +182,7 @@ TODO - 2025-03-07, 2025-04-03
 - [Synthesis Tutor](https://www.synthesis.com/tutor)
 - [Seekho: Short Learning Videos on Tech, Money, Personal Growth, & More \| Seekho](https://seekho.in/)
 - [Certified AI & Machine Learning Courses \| Rabbitt Learning](https://learning.rabbitt.ai/)
+- [Unstop: Connecting talent, colleges, & recruiters!](https://unstop.com/)
 
 ### New Age School
 
@@ -194,6 +195,12 @@ TODO - 2025-03-07, 2025-04-03
 
 - [My Job Grow - Your Gateway to Career Success and Growth](https://www.myjobgrow.com/)
 - [Outskill: AI Upskilling for Modern Careers](https://www.outskill.com/)
+
+### People
+
+- [linkedin.com/in/harneet-s-n/](https://www.linkedin.com/in/harneet-s-n/)
+- [linkedin.com/in/unstoppableankit/](https://www.linkedin.com/in/unstoppableankit/)
+- [Maheshwer Peri - Careers360 \| LinkedIn](https://www.linkedin.com/in/maheshwer-peri-1723ba3b/)
 
 ## Free Education with Boarding (Coaching)
 

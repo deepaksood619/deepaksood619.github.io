@@ -161,7 +161,7 @@
 
 ## Links
 
-- [code-generators-coding](ai/llm/code-generators-coding.md)
+- [code-generators-coding-generators](ai/llm/code-generators-coding-generators.md)
 - [agents](ai/llm/agents.md)
 - [Libraries](ai/llm/libraries.md)
 

@@ -1,4 +1,4 @@
-# Code Generators / Coding
+# Code Generators / Coding Generators
 
 ## Github Copilot
 
@@ -82,6 +82,7 @@ You can also ask me questions about your editor selection by starting an inline 
 - [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli)
 - [Claude Code: Deep Coding at Terminal Velocity \\ Anthropic](https://www.anthropic.com/claude-code)
 	- [I Tested Claude Code for a Week - Here's What I Found](https://www.thetoolnerd.com/p/i-tested-claude-code-for-a-week)
+- [Firebase Studio](https://firebase.studio/)
 
 ## SAAS
 
