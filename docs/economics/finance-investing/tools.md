@@ -52,9 +52,12 @@
 ### Personal Finance Tools
 
 - Andromoney
+	- [GitHub - maybe-finance/maybe: The personal finance app for everyone](https://github.com/maybe-finance/maybe)
+	- [Maybe Finance: The personal finance app for everyone](https://maybefinance.com/)
 - axio
 - [Cashews](https://cashews.finance/)
 - Bluecoins
+- [what's is the best / simplest budget tracker/ expenses tracker apps? : r/androidapps](https://www.reddit.com/r/androidapps/comments/1fb5ge6/whats_is_the_best_simplest_budget_tracker/)
 
 ### Foreign Investment Brokers
 

@@ -108,7 +108,7 @@ For multiple environments:
 
 Avoid committing secrets to git. Use environment-based credential stores for CI/CD.
 
-### 10. Explain the asset pipeline and how it works in Rails.
+### 10. Explain the asset pipeline and how it works in Rails
 
 The asset pipeline:
 

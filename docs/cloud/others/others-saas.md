@@ -93,9 +93,8 @@ A warehouse management system is software that helps companies manage and contro
 
 ## Products
 
-[Customer service software; Queue, Appointments and Schedule Management System | hate2wait](https://hate2wait.io)
-
-[Copilot | Modern Client Portal](https://www.copilot.com/)
+- [Customer service software; Queue, Appointments and Schedule Management System | hate2wait](https://hate2wait.io)
+- [Copilot | Modern Client Portal](https://www.copilot.com/)
 
 ## Google Workspace Admin
 
@@ -168,9 +167,15 @@ If someone accidentally adds dots to your address when emailing you, you'll sti
 
 ## Google Photos Alternative
 
-https://github.com/photoprism/photoprism
-
-https://docs.photoprism.app/getting-started
+- [GitHub - immich-app/immich: High performance self-hosted photo and video management solution.](https://github.com/immich-app/immich)
+	- [Home \| Immich](https://immich.app/)
+	- [Do you use immich as a primary backup? : r/immich](https://www.reddit.com/r/immich/comments/15w8o1e/do_you_use_immich_as_a_primary_backup/)
+	- [Backup Script \| Immich](https://immich.app/docs/guides/template-backup-script/)
+	- [Immich backup strategy : r/immich](https://www.reddit.com/r/immich/comments/1j222hi/strategia_di_backup_immich/?tl=en)
+	- [BorgBackup – Deduplicating archiver with compression and authenticated encryption](https://www.borgbackup.org/)
+- Ownphotos (Open Source Google Photos)
+- https://github.com/photoprism/photoprism
+	- https://docs.photoprism.app/getting-started
 
 ## Mulesoft
 
@@ -257,3 +262,4 @@ MuleSoft is a platform that gives IT the tools to automate everything. This incl
 	- [Docusign \| #1 in Electronic Signature and Intelligent Agreement Management](https://www.docusign.com/en-in)
 	- [ShareFile \| Secure Document Workflow & File Sharing Software](https://www.sharefile.com/)
 - [Understanding T24: The Core Banking Solution by Temenos](https://maveric-systems.com/articles/t24-core-banking-solution-by-temenos/)
+- [Best VPS Hosting](https://go.lightnode.com/)
