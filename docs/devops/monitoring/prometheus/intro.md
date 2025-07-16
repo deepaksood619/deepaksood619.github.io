@@ -161,14 +161,11 @@ helm uninstall straw
 
 ## References
 
-https://github.com/prometheus/prometheus
-
-https://prometheus.io
-
-https://prometheus.io/docs/introduction/overview
-
-TSDB - https://fabxc.org/tsdb
-
-On Kubernetes - https://github.com/coreos/prometheus-operator/tree/master/contrib/kube-prometheus
-
-https://github.com/prometheus-community/helm-charts/tree/main/charts/kube-prometheus-stack
+- https://github.com/prometheus/prometheus
+- https://prometheus.io
+- https://prometheus.io/docs/introduction/overview
+- TSDB - https://fabxc.org/tsdb
+- On Kubernetes - https://github.com/coreos/prometheus-operator/tree/master/contrib/kube-prometheus
+- https://github.com/prometheus-community/helm-charts/tree/main/charts/kube-prometheus-stack
+- [VictoriaMetrics: Simple & Reliable Monitoring for Everyone](https://victoriametrics.com/)
+	- [GitHub - VictoriaMetrics/VictoriaMetrics: VictoriaMetrics: fast, cost-effective monitoring solution and time series database](https://github.com/VictoriaMetrics/VictoriaMetrics)

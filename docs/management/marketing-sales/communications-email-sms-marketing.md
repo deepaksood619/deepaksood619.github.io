@@ -1,4 +1,23 @@
-# Email / SMS Marketing
+# Communications - Email / SMS Marketing
+
+## Emails
+
+- Newsletters
+- Welcome/Signup Emails
+- Thank You Emails
+- Abandonment/Recovery Emails
+- New Product/Service Launch Emails
+- Feedback/Survey Emails
+- Transactional Emails
+- Year-in-review Emails
+
+So, how do you make the most of this channel so as to guarantee maximum engagement? The important thing to note here is irrespective of the nature of email, there are a few best practices you can follow to ensure your efforts are in the right direction and your email engagement rates are always on the rise:
+
+- Use powerful and persuasive subject lines to optimize for high open rates
+- Ensure your emails are mobile-friendly as more than 50% of your emails are opened on mobile
+- To make your email stand out in a congested inbox, offer value and utility -- keep the copy informative and interesting, share useful resources, make emails interactive, and avoid being too promotional
+- Share customer success stories and social proof to build trust in your products/services and motivate customers
+- Send out targeted emails basis interests and behavior to enhance its relevance and engage better
 
 ## Email Marketing
 
@@ -99,7 +118,7 @@ I see email being used, by and large, exactly the way I envisioned. In particula
 
 - You don't need a fortune to be fortunate -- Neil Patel
 
-## Lesson 1 - Email Optmization
+## Lesson 1 - Email Optimization
 
 - Contact Profiling: Understanding Your Contacts Want
 - 11 Type of Emails To Generate a Response
@@ -271,7 +290,7 @@ https://www.gigsmedia.in
 - [Ecommerce Email Marketing and SMS Platform \| Omnisend](https://www.omnisend.com/)
 - [Postmark: Fast, Reliable Email Delivery Service \| SMTP \| API](https://postmarkapp.com/)
 
-### [Resend](https://resend.com/home)
+#### [Resend](https://resend.com/home)
 
 [Introduction - Resend](https://resend.com/docs/introduction)
 
@@ -308,8 +327,8 @@ r = resend.Emails.send({
 
 ### App Inbox / Notification Center
 
-https://docs.clevertap.com/docs/app-inbox
-https://docs.leanplum.com/docs/app-inbox-messages
+- https://docs.clevertap.com/docs/app-inbox
+- https://docs.leanplum.com/docs/app-inbox-messages
 
 ### Others
 

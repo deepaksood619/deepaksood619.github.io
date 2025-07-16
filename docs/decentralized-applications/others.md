@@ -139,6 +139,10 @@ https://gun.eco
 ## Decentralized Internet / Decentralized Web
 
 - [What Is The Best Attempt At A Truly Decentralized Internet? : r/Rad\_Decentralization](https://www.reddit.com/r/Rad_Decentralization/comments/mwg376/what_is_the_best_attempt_at_a_truly_decentralized/)
+- [Bitchat Bluetooth Mesh Encrypted Chat App Download](https://bit-chats.com/)
+	- [GitHub - jackjackbits/bitchat: bluetooth mesh chat, IRC vibes](https://github.com/jackjackbits/bitchat)
+	- [GitHub - callebtc/bitchat-android: bluetooth mesh chat, IRC vibes](https://github.com/callebtc/bitchat-android)
+	- [This Chat app lets You Send Messages Without Wi-Fi - YouTube](https://www.youtube.com/shorts/nsJehGf-l5w)
 
 ## Others
 

@@ -117,18 +117,17 @@ Custom admin actions can be created for bulk operations in change list page
 - [GitHub - saleor/saleor: Saleor Core: the high performance, composable, headless commerce API.](https://github.com/saleor/saleor) (21.7k stars)
 	- Customer-centric e-commerce on a modern stack
 	- A headless, GraphQL commerce platform delivering ultra-fast, dynamic, personalized shopping experiences. Beautiful online stores, anywhere, on any device.
-- [**GitHub - farridav/django-jazzmin: Jazzy theme for Django](https://github.com/farridav/django-jazzmin**)
+- **[GitHub - farridav/django-jazzmin: Jazzy theme for Django](https://github.com/farridav/django-jazzmin)**
 - https://github.com/sehmaschine/django-grappelli
 - https://github.com/darklow/django-suit
 - https://github.com/geex-arts/django-jet
-- https://github.com/jet-admin/jet-bridge
 - https://github.com/jet-admin/jet-bridge
 - https://github.com/sshwsfc/xadmin
 - https://dev.to/sm0ke/django-boilerplate-code-open-source-and-free-2aa5
 - https://appseed.us/admin-dashboards/django-datta-able
 - React admin - https://github.com/marmelab/react-admin
 - [GitHub - iommirocks/iommi: Your first pick for a django power cord](https://github.com/iommirocks/iommi)
-- [Posters Galore Administration](https://marmelab.com/react-admin-demo/#/)
+- [React Admin Demo - Posters Galore Administration](https://marmelab.com/react-admin-demo/#/)
 	- [React-Admin - The Open-Source Framework For B2B Apps](https://marmelab.com/react-admin/)
 
 ## Django Open Source projects

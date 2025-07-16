@@ -17,6 +17,8 @@
 - [Growth Hacking Metrics](management/growth-hacking-metrics.md)
 - [Marketing / Sales](management/marketing-sales/readme.md)
 - [Customer Engagement / CX](customer-engagement-cx)
+	- [customer-engagement-cx-metrics](management/customer-engagement-cx-metrics.md)
+	- [erp-crm](management/erp-crm.md)
 - [Community Building](community-building)
 	- [Community / Meetups Organize Checklist](management/community-meetups-organize-checklist.md)
 - [Six Sigma](management/six-sigma.md)

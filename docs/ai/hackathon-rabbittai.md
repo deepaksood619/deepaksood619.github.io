@@ -9,6 +9,7 @@ Build an intelligent AI chatbot advisor that provides personalized banking and i
 ## Core Challenge: Context Engineering
 
 Participants must create an AI agent that:
+
 - **Understands** individual financial profiles and risk tolerance
 - **Analyzes** personal financial situations in the Indian context
 - **Recommends** tailored BFSI products with clear reasoning
@@ -53,6 +54,7 @@ User: "I'm 28, earning ₹60,000/month, want to buy term insurance"
 Advisor: "Perfect! For a 28-year-old with ₹60K income, I recommend ₹75L-₹1Cr term coverage.
 
 Here's why:
+
 - Your annual income: ₹7.2L
 - Recommended coverage: 10-15x income
 - Premium: ~₹8,000/year
@@ -63,17 +65,20 @@ Here's why:
 ##### Core Architecture Expectations
 
 **Semantic Search Implementation:**
+
 - Use embeddings to find relevant financial advice from knowledge base
 - Implement similarity matching with confidence scoring
 - Enhance queries with user profile context for better results
 
 **Personalized Response Generation:**
+
 - Generate contextual advice using LLM capabilities
 - Integrate user profile data into response formulation
 - Maintain professional financial advisor tone and expertise
 - Include specific product recommendations with reasoning
 
 **Expected System Flow:**
+
 1. User profile analysis and risk assessment
 2. Query understanding and context enhancement
 3. Knowledge base search with personalization
@@ -165,18 +170,21 @@ within your budget"
 Build an intelligent AI agent that automatically processes sales meeting summaries and populates CRM systems with structured data. The system must extract key information from unstructured text, understand sales context, and create accurate CRM entries - all within the B2B sales workflow.
 
 **Core Challenge: Context Engineering This is a Context Engineering Hackathon where participants must create an AI agent that:**
+
 - Understands unstructured sales meeting summaries and conversations
 - Extracts key business entities, relationships, and deal information
 - Structures data into CRM-compatible formats with proper categorization
 - Integrates seamlessly with CRM platforms while maintaining data accuracy
 
 **Target Audience Primary User: B2B Sales Representatives and Sales Managers**
+
 - Company Size: SMEs to Enterprise (50-5000 employees)
 - Industries: SaaS, Manufacturing, Consulting, Financial Services
 - Current Pain: Spending 2-3 hours daily on manual CRM data entry
 - CRM Platform: HubSpot, Salesforce, or Zoho
 
 **CRM Data Categories to Extract 1. Contact Information**
+
 - Personal Details: Name, designation, email, phone number
 - Professional Info: Decision-making authority, department, seniority
 - Communication: Preferred contact method, availability, timezone 2. Company Information
@@ -188,23 +196,26 @@ Build an intelligent AI agent that automatically processes sales meeting summari
 - Sales Stage: Current stage, next steps, proposal requirements
 - Competitive Landscape: Alternatives being evaluated, key differentiators
 
-**Conversational Flow Agent:** "Please paste your meeting summary, and I'll extract the CRM data automatically." 
+**Conversational Flow Agent:** "Please paste your meeting summary, and I'll extract the CRM data automatically."
 
 **User:** "Had a call with Sarah Johnson, Marketing Director at GrowthTech. They need marketing automation for 50-person team. Budget: $30K annually. Evaluating HubSpot vs our solution. Next: Demo scheduled for Friday."
 
 **Agent:** "Perfect! I've extracted and structured your CRM data
 
 **: Contact Created:**
+
 - Name: Sarah Johnson
 - Title: Marketing Director
 - Company: GrowthTech
 - Stage: Qualified Lead
 
 Company Created:
+
 - GrowthTech (Marketing Industry)
 - Team Size: 50 employees • Budget: $30,000 annually
 
 Deal Created:
+
 - Marketing Automation Implementation
 - Value: $30,
 - Stage: Demo Scheduled
@@ -219,6 +230,7 @@ Deal Created:
 - Validate extracted data against CRM field requirements
 
 **CRM Integration Implementation:**
+
 - Generate API calls to create contacts, companies, and deals
 - Handle duplicate detection and data merging
 - Implement error handling for failed API calls
@@ -233,6 +245,7 @@ Deal Created:
 5. Confirmation and error handling with user feedback
 
 **Key Deliverables**
+
 1. Working Demo Video (max 3 minutes):
 2. GitHub Repository with:
 3. PPT
@@ -247,6 +260,7 @@ Build an intelligent AI-powered learning coach that analyzes coding solutions an
 ## Core Challenge: Adaptive Learning Intelligence
 
 Participants must create an AI agent that:
+
 - **Analyzes** code quality, patterns, and problem-solving approaches
 - **Identifies** specific knowledge gaps and areas for improvement
 - **Recommends** personalized learning resources and study plans
@@ -257,6 +271,7 @@ Participants must create an AI agent that:
 
 **Primary User** : College students preparing for coding interviews and improving programming
 skills
+
 - **Education Level** : Undergraduate/Graduate Computer Science students/ ANYONE
 who’s curious
 - **Experience Range** : Beginner to Intermediate programmers
@@ -319,6 +334,7 @@ Build an intelligent AI-powered learning coach that provides personalized learni
 ## Intelligence
 
 Participants must create an AI agent that:
+
 - **Assesses** student knowledge levels through adaptive questioning
 - **Identifies** specific learning gaps in Math and English fundamentals
 - **Generates** personalized daily/weekly learning challenges and activities
@@ -335,6 +351,7 @@ Participants must create an AI agent that:
 **Initial Assessment Flow: AI Tutor** : "Hi! I'm your learning buddy! Let's start with some fun
 questions to see what you already know!"
 **Math Assessment (Grade 3 Example):**
+
 - "Can you solve: 25 + 17 = ?"
 - "Which is bigger: 1/2 or 1/4?"
 - "How many sides does a triangle have?"
@@ -361,12 +378,14 @@ Find 10 new words and their meanings • Writing: Write 3 sentences about your f
 **Theme** Build an intelligent AI agent that monitors brand visibility across major AI platforms and search engines. The system must generate relevant prompts, analyze brand mentions in AI responses, track competitor performance, and provide actionable visibility insights all within the evolving AI-powered search landscape.
 
 **Core Challenge: Context Engineering** This is a **Context Engineering Hackathon** where participants must create an AI agent that:
+
 - **Generates** industry-specific prompts that users commonly search
 - **Analyzes** brand mentions and rankings across multiple AI platforms
 - **Compares** brand visibility against key competitors
 - **Scores** overall brand presence with actionable insights and recommendations
 
 **Target Audience Primary User** : Brand Managers and Digital Marketing Teams
+
 - **Company Size** : Startups to Enterprise (50-10,000+ employees)
 - **Industries** : FinTech, E-commerce, SaaS, Healthcare, EdTech
 - **Marketing Budget** : ₹5L - ₹50L annually on digital marketing
@@ -393,6 +412,7 @@ User: "PolicyBazaar, insurance comparison platform"
 Analyzer: "Perfect! I'll analyze PolicyBazaar's visibility across ChatGPT, Gemini, and Perplexity using insurance-related prompts.
 
 **Generated Prompts** (20 samples):
+
 - Best insurance comparison platforms in India
 - Where to buy car insurance online
 - Compare health insurance policies
@@ -427,6 +447,7 @@ Analyzer: "Perfect! I'll analyze PolicyBazaar's visibility across ChatGPT, Gemin
 5. Competitor comparison and visibility scoring with actionable insights
 
 **Key Deliverables**
+
 1. **Working Demo Video (max 3 minutes)**
 2. **GitHub Repository**
 3. **Hosted Website url(if done)
@@ -434,7 +455,7 @@ Analyzer: "Perfect! I'll analyze PolicyBazaar's visibility across ChatGPT, Gemin
 
 ## 7 - AI Video Generation Challenge: Visionary Leaders Edition
 
-### Problem Statement:
+### Problem Statement
 
 Welcome to the **AI Video Generation Challenge!** In this creative contest, participants will use
 AI tools to generate a **short video (45–90 seconds)** that tells a coherent, visually consistent
@@ -448,7 +469,7 @@ discussing how their companies are revolutionizing the world through artificial 
 Using face avatar technology, bring these industry pioneers together in a compelling narrative
 about the future of AI.
 
-##### The Creative Vision:
+##### The Creative Vision
 
 Imagine the world's most influential AI leaders coming together to share their company visions
 and discuss how AI is transforming our world. Whether it's a panel discussion, a futuristic
@@ -456,13 +477,13 @@ and discuss how AI is transforming our world. Whether it's a panel discussion, a
 summit, a collaborative presentation, or an innovative format you dream up — **the creative
 possibilities are endless!**
 
-##### Featured AI Company Leaders You Can Include:
+##### Featured AI Company Leaders You Can Include
 
 - Rabbitt AI - AI-powered consumer devices
 - OpenAI - GPT and advanced AI systems
 - Anthropic - Constitutional AI and safety
 
-##### What Your Video Should Explore:
+##### What Your Video Should Explore
 
 - Company Visions : How is each leader's company changing the world?
 - AI Innovation : What breakthrough technologies are they developing?
@@ -471,7 +492,7 @@ possibilities are endless!**
 - Ethical Considerations : What responsibilities do they feel as AI pioneers?
 - Advice for the Future : What wisdom do they share about AI development?
 
-##### Creative Format Ideas:
+##### Creative Format Ideas
 
 - Virtual AI Summit : Leaders presenting at a futuristic conference
 - Round Table Discussion : Intimate conversation between visionaries
@@ -482,14 +503,13 @@ possibilities are endless!**
 - Futuristic News Panel : Leaders as expert commentators
 - Or Create Your Own Unique Format!
 
-#### What We’re Evaluating:
+#### What We’re Evaluating
 
 Criteria Description
 Consistency Is the avatar and background visually stable across the entire
 video?
 Creativity How original and fun is the idea?
 Narrative & Clarity Does the video tell a complete, coherent story in 45–90 sec?
-
 
 Tone Consistency Is the tone (humor, suspense, emotion) consistent from start to
 finish?
@@ -626,7 +646,7 @@ Custom NLP Models Identify and rank competitor mentions
 
 ## 7 - AI Video Generation Challenge: Visionary Leaders Edition
 
-### Tools:
+### Tools
 
 Participants are encouraged to use any of the following AI tools to create their videos:
 
@@ -639,7 +659,7 @@ Participants are encouraged to use any of the following AI tools to create their
 - Hailuo AI – for avatar-driven storytelling
 - ElevenLabs – for generating high-quality voiceovers with personality
 
-### Optional Add-ons:
+### Optional Add-ons
 
 - D-ID or Synthesia – for animated avatars with lip-sync
 - HeyGen – for avatar-based video narration

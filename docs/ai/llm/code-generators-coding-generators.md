@@ -83,6 +83,7 @@ You can also ask me questions about your editor selection by starting an inline 
 - [Claude Code: Deep Coding at Terminal Velocity \\ Anthropic](https://www.anthropic.com/claude-code)
 	- [I Tested Claude Code for a Week - Here's What I Found](https://www.thetoolnerd.com/p/i-tested-claude-code-for-a-week)
 - [Firebase Studio](https://firebase.studio/)
+- [Kilo Code - Open source AI agent VS Code extension](https://kilocode.ai/)
 
 ## SAAS
 

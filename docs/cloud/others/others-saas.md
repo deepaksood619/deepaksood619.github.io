@@ -256,3 +256,4 @@ MuleSoft is a platform that gives IT the tools to automate everything. This incl
 	- [Secure Document Sharing, eSignatures & Analytics](https://www.docsend.com/)
 	- [Docusign \| #1 in Electronic Signature and Intelligent Agreement Management](https://www.docusign.com/en-in)
 	- [ShareFile \| Secure Document Workflow & File Sharing Software](https://www.sharefile.com/)
+- [Understanding T24: The Core Banking Solution by Temenos](https://maveric-systems.com/articles/t24-core-banking-solution-by-temenos/)

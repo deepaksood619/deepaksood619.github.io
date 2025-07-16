@@ -43,3 +43,4 @@ One of the biggest questions around in-context learning is: What happens if we j
 
 - [AWS re:Invent 2023 - Generative AI: Architectures and applications in depth (BOA308) - YouTube](https://www.youtube.com/watch?v=aEA6X_IElpc)
 - [AWS re:Invent 2023 - SaaS meets AI/ML & generative AI: Multi-tenant patterns & strategies (SAS306) - YouTube](https://www.youtube.com/watch?v=oBhP44wowoY)
+- [EP171: The Generative AI Tech Stack - ByteByteGo Newsletter](https://blog.bytebytego.com/p/ep171-the-generative-ai-tech-stack)

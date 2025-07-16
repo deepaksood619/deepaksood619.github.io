@@ -312,6 +312,8 @@ For maa - find hobby
 
 [आपके सपनो का बंगलो | 4 BHK Ultra Luxurious Bungalow For Sale,Ahmedabad | 850 Sqyrd Villa #bungalow - YouTube](https://www.youtube.com/watch?v=6glqoNzMN3Y)
 
+[Earthquake hits Delhi-NCR: Essential tremor safety checks before buying an apartment in a high-rise building - Hindustan Times](https://www.hindustantimes.com/real-estate/delhincr-earthquake-today-essential-tremor-safety-checks-before-buying-a-high-rise-apartment-101752120666708.html)
+
 ### Carpet Area, Built-up Area and Super Built-up Area
 
 - carpet area / floor space / usable floor space

@@ -139,6 +139,7 @@
 - [Double Support Engineering Productivity \| AI Support Engineer \| RunLLM](https://www.runllm.com/)
 - [Puch AI](https://puch.ai/)
 - [SimplAI – Scalable, Secure Agentic AI Platform to Automate Enterprise Workflows](https://simplai.ai/)
+- [Work AI for all - AI platform for agents, assistant, search](https://www.glean.com/)
 
 ## Purpose-built accelerators for generative AI
 

@@ -217,6 +217,7 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - impropriety - behaviour or actions that are morally wrong or not appropriate
 - Mollycoddle - to overprotect or treat someone with excessive care, often to the point of spoiling them
 - retribution - punishment for a crime
+- devil's advocate - a person who expresses a contentious opinion in order to provoke debate or test the strength of the opposing arguments.
 
 ### Shill / Shilling
 

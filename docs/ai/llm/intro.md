@@ -97,3 +97,4 @@ The architecture is a standard [transformer network](https://en.wikipedia.org/wi
 - [BERT Demystified: Like I’m Explaining It to My Younger Self](https://youtu.be/NUf5q4cWhdQ)
 - [I got fooled by AI-for-science hype—here's what it taught me](https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres)
 - [Why Finishing with AI Feels Harder Than Starting- My Confessions](https://www.thetoolnerd.com/p/why-finishing-with-ai-feels-harder)
+- [Artificial Intelligence (AI) : 20 Must Know Terminology (Basics to Advanced)](https://www.thetoolnerd.com/p/artificial-intelligence-ai-20-must-know-terminology-thetoolnerd)

@@ -22,7 +22,7 @@ Beam search explores multiple word sequences during text generation, keeping the
 
 ## Question 6: What role does temperature play in controlling LLM output?
 
-Temperature is a hyperparameter that adjusts the randomness of token selection in text generation. A low temperature (e.g., 0.3) favors high-probability tokens, producing pre- dictable outputs. A high temperature (e.g., 1.5) increases diversity by flattening the probability distribution. Setting temperature to 0.8 often balances creativity and coher- ence for tasks like storytelling.
+Temperature is a hyperparameter that adjusts the randomness of token selection in text generation. A low temperature (e.g., 0.3) favors high-probability tokens, producing predictable outputs. A high temperature (e.g., 1.5) increases diversity by flattening the probability distribution. Setting temperature to 0.8 often balances creativity and coherence for tasks like storytelling.
 
 ## Question 7: What is masked language modeling, and how does it aid pretraining?
 

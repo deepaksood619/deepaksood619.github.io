@@ -196,21 +196,21 @@ Skills & Qualifications
 
 ## Good JD - One Impression
 
-One Impression is one of the World’s largest influencer marketing platforms helping over 300+ global brands ranging from enterprises such as Unilever, Nestle, Amazon to startups such as Meesho, Nykaa, CoinSwitch. We are active in over 12 countries including India, US, Australia, the Middle East, etc, and have a network of over 6.5 Mil + influencers across Instagram & YouTube. Our creator network is one of the largest ranging from top celebrities to nano creators in over 10+ languages.  
+One Impression is one of the World’s largest influencer marketing platforms helping over 300+ global brands ranging from enterprises such as Unilever, Nestle, Amazon to startups such as Meesho, Nykaa, CoinSwitch. We are active in over 12 countries including India, US, Australia, the Middle East, etc, and have a network of over 6.5 Mil + influencers across Instagram & YouTube. Our creator network is one of the largest ranging from top celebrities to nano creators in over 10+ languages.
 
-We are quickly capturing wallet shares of giants such as Facebook & Google as influencers continue to become a mainstream channel for brands to drive growth and engagement amongst their target audiences. The ultimate vision is to capture 25% of the global media ad spend by becoming the world’s de-facto influencer platform.   
+We are quickly capturing wallet shares of giants such as Facebook & Google as influencers continue to become a mainstream channel for brands to drive growth and engagement amongst their target audiences. The ultimate vision is to capture 25% of the global media ad spend by becoming the world’s de-facto influencer platform.
 
-We are already the market leader in the Asian market and are now aiming to grow 10x by consolidating the entire market spend towards our newly launched platform for advertisers. In parallel, we aim to establish a strong presence in other global markets such as the US, Indonesia, etc. We are also backed by some of the top investors in the country including Founders of Vedantu, LivSpace, People Group, MamaEarth, Wow Skin Sciences, OML, etc as well as celebrities such as KL Rahul, Zakir Khan, Masoom Minawala, to name a few.  
+We are already the market leader in the Asian market and are now aiming to grow 10x by consolidating the entire market spend towards our newly launched platform for advertisers. In parallel, we aim to establish a strong presence in other global markets such as the US, Indonesia, etc. We are also backed by some of the top investors in the country including Founders of Vedantu, LivSpace, People Group, MamaEarth, Wow Skin Sciences, OML, etc as well as celebrities such as KL Rahul, Zakir Khan, Masoom Minawala, to name a few.
 
-We are looking for an engineering leader in the company who can build & drive our engineering team for creating a secure, scalable & robust One Impression platform that delights customers. As a foundational member of the team, you will be responsible for driving the team’s long-term vision and architecture, driving/shaping roadmaps, implementing latest technologies and providing technical leadership to the engineering team.  
+We are looking for an engineering leader in the company who can build & drive our engineering team for creating a secure, scalable & robust One Impression platform that delights customers. As a foundational member of the team, you will be responsible for driving the team’s long-term vision and architecture, driving/shaping roadmaps, implementing latest technologies and providing technical leadership to the engineering team.
 
 We strongly believe in our people and they are the key pillars to driving our success. It is our people who drive our incredible growth. If you are excited about solving complex world problems, we are looking for you!
 
 As a Head of Engineering who has a passion for building great products, you'll be part of the team that works on building our marketplace & ads platform. Our current customers include top public listed companies across FMCG, Healthcare, Food, Technology, BFSI & more. You will collaborate with sales, operations, finance, marketing, supply and support teams to ensure that we build a world class platform for all our stakeholders.
 
-**About the Team** 
-  
-We have a singular vision, to create the de-facto Influencer Marketing Platform for millions of advertisers around the world and capture 25% of the world ad spend. 
+**About the Team**
+
+We have a singular vision, to create the de-facto Influencer Marketing Platform for millions of advertisers around the world and capture 25% of the world ad spend.
 
 Our engineering team is looking for a solid rockstar leader who will lead creation of our global platform. This role will have a wide influence on our business, by enabling end to end management of influencer campaigns right from influencer discovery, influencer access, competitive pricing to campaign fulfillment and tracking. You will be responsible for the design and implementation of a world-class advertising system that has the ability to compete with ad spend that is consumed by global giants such as Facebook & Google. You will also be working closely with our product team to plan, prioritize and build features that are most essential from a business perspective.
 
@@ -218,68 +218,68 @@ We are growing at an incredible pace and we are looking for someone who has the 
 
 **Must Haves:**
 
--   Experience as Engineering Lead / Manager or similar senior-level position
--   8+ years of working experience in a technical role with 3+ years of managing 20 or more engineers
--   A seasoned leader who has unlimited energy to influence and is daring to take initiatives and risks
--   Excellent project management skills and a strong focus on timely delivery
--   High personal drive; results-oriented; get things done attitude
--   Someone who believes we can build rockets if required to solve our problems
--   Supremely tech-savvy, should be able to wear multiple hats, a world class developer, technical architect, strong understanding of servers, database designer.
--   Large-scale software product engineering experience with contemporary tools and delivery methods in a complex environment (i.e. .).
--   Must be knowledgeable about industry trends, best practices, and change management.
--   Excellent communication and interpersonal skills
--   Effective in building close working relationships with others
--   Innovative and creative and adaptive to a new environment
--   Ability to absorb professional knowledge quickly and develop skills.
--   You love collaborative environments that use agile methodologies to encourage creative design thinking and find innovative ways to develop with cutting-edge technologies.
--   Ambitious individuals who can work under their own direction towards agreed targets/goals with a creative approach to work.
--   An intuitive individual with an ability to manage change and proven time management.
--   Proven interpersonal skills while contributing to team effort by accomplishing related results as needed.
--   A programmer who is a role model.
+- Experience as Engineering Lead / Manager or similar senior-level position
+- 8+ years of working experience in a technical role with 3+ years of managing 20 or more engineers
+- A seasoned leader who has unlimited energy to influence and is daring to take initiatives and risks
+- Excellent project management skills and a strong focus on timely delivery
+- High personal drive; results-oriented; get things done attitude
+- Someone who believes we can build rockets if required to solve our problems
+- Supremely tech-savvy, should be able to wear multiple hats, a world class developer, technical architect, strong understanding of servers, database designer.
+- Large-scale software product engineering experience with contemporary tools and delivery methods in a complex environment (i.e. .).
+- Must be knowledgeable about industry trends, best practices, and change management.
+- Excellent communication and interpersonal skills
+- Effective in building close working relationships with others
+- Innovative and creative and adaptive to a new environment
+- Ability to absorb professional knowledge quickly and develop skills.
+- You love collaborative environments that use agile methodologies to encourage creative design thinking and find innovative ways to develop with cutting-edge technologies.
+- Ambitious individuals who can work under their own direction towards agreed targets/goals with a creative approach to work.
+- An intuitive individual with an ability to manage change and proven time management.
+- Proven interpersonal skills while contributing to team effort by accomplishing related results as needed.
+- A programmer who is a role model.
 
 **Responsibilities:**
 
--   Work with technical leaders and Product Management to plan, scope, and schedule work
--   Manage the execution of a product roadmap to ensure timely deliveries
--   Set and enforce high standards for quality and performance of software
--   Continuously improve the effectiveness of the team
--   Support engineers in their professional development
--   Participate heavily in the architecture and design of the systems
--   Scale the engineering team to build and deliver world-class solutions
--   Hire, mentor, and grow leaders in the team
--   Hold your own in technical discussions, be a subject matter expert and have strategic influence
--   Set processes for managing priorities, projects, and individual performance
--   Set clear goals and lead collaborative achievements
--   Responsible for the overall software development life cycle.
--   Management and execution against project plans and delivery commitments
--   Manage the day-to-day activities of the engineering team within an Agile/Scrum environment.
--   Management of departmental resources, staffing, mentoring, enhancing and maintaining a best-of-class engineering team.
--   Work closely with the engineers to architect and develop the best technical design and approach.
--   Contribute substantially to innovation and overcome technology limitations to deliver on customer experience.
--   You will continuously evaluate relevant technologies, influence and drive architecture and design discussions
--   Report on the status of development, quality, operations, and system performance to management.
--   Review projects' ability to deliver robust and scalable solutions toward this vision, learning and incorporating new technologies as appropriate.
--   Build relationships with other Managers, and Engineers across various teams.
--   Participate in Agile project management methodologies to provide technical leadership and project management for all aspects of the software development lifecycle (SDLC).
--   Build, manage, and develop world-class engineers including hiring recommendations and guiding and mentoring engineers and project managers within and outside of the team.
--   Ensure high-quality design reviews that meet business and architectural goals and drive critical feedback on architecture and design issues.
--   Participate in strategic planning to achieve technical and business goals with the team, leadership chain, and with customers
+- Work with technical leaders and Product Management to plan, scope, and schedule work
+- Manage the execution of a product roadmap to ensure timely deliveries
+- Set and enforce high standards for quality and performance of software
+- Continuously improve the effectiveness of the team
+- Support engineers in their professional development
+- Participate heavily in the architecture and design of the systems
+- Scale the engineering team to build and deliver world-class solutions
+- Hire, mentor, and grow leaders in the team
+- Hold your own in technical discussions, be a subject matter expert and have strategic influence
+- Set processes for managing priorities, projects, and individual performance
+- Set clear goals and lead collaborative achievements
+- Responsible for the overall software development life cycle.
+- Management and execution against project plans and delivery commitments
+- Manage the day-to-day activities of the engineering team within an Agile/Scrum environment.
+- Management of departmental resources, staffing, mentoring, enhancing and maintaining a best-of-class engineering team.
+- Work closely with the engineers to architect and develop the best technical design and approach.
+- Contribute substantially to innovation and overcome technology limitations to deliver on customer experience.
+- You will continuously evaluate relevant technologies, influence and drive architecture and design discussions
+- Report on the status of development, quality, operations, and system performance to management.
+- Review projects' ability to deliver robust and scalable solutions toward this vision, learning and incorporating new technologies as appropriate.
+- Build relationships with other Managers, and Engineers across various teams.
+- Participate in Agile project management methodologies to provide technical leadership and project management for all aspects of the software development lifecycle (SDLC).
+- Build, manage, and develop world-class engineers including hiring recommendations and guiding and mentoring engineers and project managers within and outside of the team.
+- Ensure high-quality design reviews that meet business and architectural goals and drive critical feedback on architecture and design issues.
+- Participate in strategic planning to achieve technical and business goals with the team, leadership chain, and with customers
 
  **What to Bring**
 
--   Bachelor's or Master’s Degree in Computer Science or related field
--   4+ years of experience designing and developing complex, interactive platform
--   5+ years of experience in software development with strong expertise in Java/Golang with micro web frameworks - like Play, Spring MVC, reactive programming
--   At least 3+ years managing software development teams 
--   Exposure in building RESTful APIs with monitoring (new relic, statsd, graphite), fault tolerance and metrics
--   Experience with MySQL, NoSQL (Cassandra, Redis, DynamoDB)
--   Experience in server-side services using ElasticSearch, Kafka
--   Experience with AWS stack.
--   Experience with CI/CD processes.
--   A strong track record of project delivery for large, cross-functional, projects and bringing in and growing engineering talent
--   Excellent written and verbal communication skills with the ability to present complex technical information in a clear and concise manner to a variety of audiences.
--   An entrepreneurial spirit combined with strong program and product management skills
--   High adaptability in a dynamic start-up environment
+- Bachelor's or Master’s Degree in Computer Science or related field
+- 4+ years of experience designing and developing complex, interactive platform
+- 5+ years of experience in software development with strong expertise in Java/Golang with micro web frameworks - like Play, Spring MVC, reactive programming
+- At least 3+ years managing software development teams
+- Exposure in building RESTful APIs with monitoring (new relic, statsd, graphite), fault tolerance and metrics
+- Experience with MySQL, NoSQL (Cassandra, Redis, DynamoDB)
+- Experience in server-side services using ElasticSearch, Kafka
+- Experience with AWS stack.
+- Experience with CI/CD processes.
+- A strong track record of project delivery for large, cross-functional, projects and bringing in and growing engineering talent
+- Excellent written and verbal communication skills with the ability to present complex technical information in a clear and concise manner to a variety of audiences.
+- An entrepreneurial spirit combined with strong program and product management skills
+- High adaptability in a dynamic start-up environment
 
 ### Job Description: Data Engineer (with Cloud, DW, and GenAI/ML Exposure)
 

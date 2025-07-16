@@ -10,6 +10,30 @@ An LLM Agent is a software entity capable of reasoning and autonomously executin
 
 [AI Agents Are Changing AWS Cost Prediction - YouTube](https://youtu.be/_cjuQlc62uc)
 
+## Building
+
+How to Build an AI Agent (7-Step Blueprint)
+
+1. System Prompt - Define the agent’s goals, role, and instructions. A thoughtful prompt shapes behavior from the ground up.
+2. LLM Selection - Pick your reasoning engine (e.g. GPT-4, Claude, Gemini) and tune it with parameters like temperature and max tokens.
+3. Tools - Give your agent abilities: from calling APIs to using other agents as tools. This is where agents move from “talking” to “doing”.
+4. Memory - Short-term and long-term memory (episodic, vector DBs, file stores) allow agents to remember, learn, and personalize over time.
+5. Orchestration - This is the brain behind the brain — workflows, triggers, A2A protocols, and message queues to structure intelligent behavior.
+6. User Interface - A good interface (chat, voice, web) brings your agent to life. It’s not just about function — it’s about trust and usability.
+7. AI Evaluations - Agents need feedback loops. Measure performance, learn from failure, and improve continuously.
+
+**Choosing the Right Agentic Framework**
+
+Not all platforms are created equal. Some are no-code, some are open-source, some focus on orchestration, and others on ease of integration.
+
+- OpenAI Agents API – Great for GPT-native agents, thread-based logic
+- Google Vertex AI – Strong orchestration + enterprise-ready
+- LangGraph – DAG-based workflows for complex multi-agent flows
+- AutoGen / CrewAI – Agent-to-agent communication with tool chaining
+- Make / n8n – Ideal for no-code, scenario-based automation
+
+Understanding MCP (Multi-Agent Communication Protocol), memory integration, and orchestration style is essential when scaling from simple prompts to full systems.
+
 ## SmolAgent - Agents
 
 ### Building your agent
