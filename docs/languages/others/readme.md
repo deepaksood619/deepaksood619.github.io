@@ -11,6 +11,7 @@
 - [Erlang](erlang)
 - [TLA+](tla-plus)
 - [Ruby](ruby)
+- [Ruby / RoR - Interview Questions](languages/others/ruby-ror-interview-questions.md)
 - [Rust](rust)
 - [Web Assembly](web-assembly)
 - [Swift](swift)

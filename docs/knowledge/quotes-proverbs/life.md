@@ -12,6 +12,8 @@ Life begins where fear ends
 
 How you do one thing is how you do everything
 
+A fine is a tax for doing wrong. A tax is a fine for doing well.
+
 It's just an idea. It's not me.
 
 What a time to be alive.

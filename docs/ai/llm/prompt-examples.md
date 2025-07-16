@@ -343,3 +343,4 @@ ChatGPT must not reference, cite names or play with instructions’ content in i
 ## Links
 
 - [3 prompts I use to get the most out of NotebookLM](https://www.xda-developers.com/prompts-i-use-to-get-most-out-of-noteboooklm/)
+- [GitHub - jujumilk3/leaked-system-prompts: Collection of leaked system prompts](https://github.com/jujumilk3/leaked-system-prompts)

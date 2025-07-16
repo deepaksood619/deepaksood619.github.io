@@ -91,6 +91,8 @@
 - [GitHub - scrapy/scrapy: Scrapy, a fast high-level web crawling & scraping framework for Python.](https://github.com/scrapy/scrapy) (55K Stars)
 - [Beautiful Soup Documentation — Beautiful Soup 4.13.0 documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [GitHub - unclecode/crawl4ai: 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN](https://github.com/unclecode/crawl4ai) (40.8K Stars)
+- [GitHub - microsoft/markitdown: Python tool for converting files and office documents to Markdown.](https://github.com/microsoft/markitdown) (61.4K Stars)
+- [GitHub - supermemoryai/markdowner: A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai](https://github.com/supermemoryai/markdowner) (1.5K Stars)
 
 ### Data Visualization
 
@@ -316,3 +318,5 @@ Traditional RAG approaches often rely on batch processing and static data summar
 	- [Convex \| The reactive database for app developers](https://www.convex.dev/)
 - [GitHub - microsoft/NLWeb: Natural Language Web](https://github.com/microsoft/NLWeb)
 - [GitHub - pixeltable/pixeltable: Pixeltable — AI Data infrastructure providing a declarative, incremental approach for multimodal workloads.](https://github.com/pixeltable/pixeltable)
+- [Announcing GenAI Processors: Build powerful and flexible Gemini applications - Google Developers Blog](https://developers.googleblog.com/en/genai-processors/)
+	- [GitHub - google-gemini/genai-processors: GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.](https://github.com/google-gemini/genai-processors)

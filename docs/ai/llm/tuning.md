@@ -70,3 +70,6 @@ The first release of bitnet.cpp is to support inference on CPUs. bitnet.cpp achi
 - [Pruning Aware Training(PAT) in LLMs - by Bugra Akyildiz](https://mlops.substack.com/p/pruning-aware-trainingpat-in-llms)
 - [Generative AI Fine Tuning LLM Models Crash Course - YouTube](https://www.youtube.com/watch?v=t-0s_2uZZU0)
 - [KV Caching in LLMs, explained visually](https://www.dailydoseofds.com/p/kv-caching-in-llms-explained-visually/)
+- [Inside CALM: Google DeepMind’s Unique Method to Augment LLMs with Other LLMs \| by Jesus Rodriguez \| Medium](https://jrodthoughts.medium.com/inside-calm-google-deepminds-unique-method-to-augment-llms-with-other-llms-92cb9526e66c)
+	- [GitHub - google-deepmind/calm](https://github.com/google-deepmind/calm)
+	- [Accelerating text generation with Confident Adaptive Language Modeling (CALM)](https://research.google/blog/accelerating-text-generation-with-confident-adaptive-language-modeling-calm/)

@@ -32,6 +32,8 @@ RAG is an AI framework for retrieving facts from an external knowledge base to g
 
 ![RAG from Scratch](../../media/Pasted%20image%2020240802004652.jpg)
 
+[Stop Saying RAG Is Dead – Hamel’s Blog](https://hamel.dev/notes/llm/rag/not_dead.html)
+
 ### Advanced RAG Techniques
 
 - Query Expansion (with multiple queries)
@@ -77,6 +79,7 @@ Contextual Retrieval enhances each chunk by adding specific, explanatory context
 - [GitHub - weaviate/Verba: Retrieval Augmented Generation (RAG) chatbot powered by Weaviate](https://github.com/weaviate/Verba)
 - [GitHub - deepsense-ai/ragbits: Building blocks for rapid development of GenAI applications](https://github.com/deepsense-ai/ragbits)
 - [GitHub - vitali87/code-graph-rag: Search Monorepos and get relevant answers](https://github.com/vitali87/code-graph-rag)
+- [GitHub - microsoft/markitdown: Python tool for converting files and office documents to Markdown.](https://github.com/microsoft/markitdown)
 
 ### NoCode Tools
 
@@ -98,6 +101,7 @@ Contextual Retrieval enhances each chunk by adding specific, explanatory context
 	- Function-calling and ReAct interaction modes.
 	- 100% open-source with 5k stars!
 	- [GitHub - HKUDS/AutoAgent: "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"](https://github.com/HKUDS/AutoAgent)
+- [GitHub - truefoundry/cognita: RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry](https://github.com/truefoundry/cognita)
 
 ## Links
 

@@ -6,6 +6,12 @@
 
 **Prompt engineering** is the process of creating a prompt that is designed to improve performance.
 
+## Types of Prompt
+
+**User Prompts,** which are conversational prompts that a user asks, and
+
+**System Prompts,** which are at the backend and guide the LLM model to provide the desired output.
+
 ## Prompting Principles
 
 ### Principle 1: Write clear and specific instructions
@@ -73,6 +79,32 @@ Here's a breakdown of how it works:
 Controls the randomness of the model's output. A higher temperature makes the output more random, while a lower temperature makes it more deterministic.
 
 [Understanding OpenAI's Temperature Parameter | Colt Steele](https://www.coltsteele.com/tips/understanding-openai-s-temperature-parameter)
+
+**Temperature (0.0 to 2.0):** Think of this like creativity settings.
+
+- Temperature 0.1 = very focused and predictable (good for factual answers),
+- Temperature 0.9 = more creative and random (good for brainstorming).
+
+**Top P (0.0 to 1.0):** Controls word choice diversity.
+
+- Lower = sticks to most likely words,
+- Higher = considers more unusual word options.
+
+**Top K (number):** Limits how many word options the AI considers at each step.
+
+| Parameter   | Range                        | Description                                                                              | Example (Weather)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ----------- | ---------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Temperature | 0.0 to 2.0 (preferable -0.7) | Controls randomness and creativity                                                       | Low (0.1): "Today's weather is very hot with clear skies and high humidity. The<br><br>temperature is expected to reach 95°F with a UV index of 8. There is a 10% chance of precipitation."<br><br>High (0.9): "The scorching sun beats down mercilessly today, turning the sidewalks into sizzling griddles that could fry an egg! The sky, a brilliant azure canvas without a single cloud brushstroke, offers no respite from the relentless heat wave that has the whole city moving in slow motion." |
+| Top P       | 0.0 to 1.0                   | Controls diversity by including less common words until reaching a probability threshold | Low (0.3): "Today's weather is very hot and sunny. The temperature will reach 95 degrees with no clouds in sight." High (0.9): "Today's weather is very sweltering with a blinding sun and stifling humidity making the afternoon particularly oppressive for outdoor activities."                                                                                                                                                                                                                        |
+| Top K       | number<br><br>(1- 100)       | Directly limits the number of word options considered regardless of probability          | For "The weather today is very..."<br><br>Top K = 2: Can only choose between "hot"<br><br>(40%) and "cold" (30%), making output more predictable<br><br>Top K = 5: Can choose from "hot" (40%),<br><br>"cold" (30%), "nice" (15%), "humid" (10%), or "pleasant" (5%), giving more variety                                                                                                                                                                                                                 |
+
+**The key differences:**
+
+- **Temperature** affects overall randomness and creativity across all word choices
+- **Top P** controls diversity by including less common words until reaching a probability threshold
+- **Top K** directly limits the number of word options considered regardless of probability
+
+These parameters can be combined - for instance, using a moderate Temperature (0.7) with a low Top K (5) would give creative but controlled outputs that don't go too far off track.
 
 ## Other Topics
 

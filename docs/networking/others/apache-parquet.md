@@ -91,14 +91,10 @@ https://github.com/apache/parquet-mr/tree/master/parquet-tools
 
 ## References
 
-https://en.wikipedia.org/wiki/Apache_Parquet
-
-https://parquet.apache.org/documentation/latest
-
-https://blog.matthewrathbone.com/2019/12/20/parquet-or-bust.html
-
-https://github.com/julienledem/redelm/wiki/The-striping-and-assembly-algorithms-from-the-Dremel-paper
-
-https://blog.twitter.com/engineering/en_us/a/2013/dremel-made-simple-with-parquet.html
-
-[Apache Parquet: Parquet file internals and inspecting Parquet file structure - YouTube](https://www.youtube.com/watch?v=rVC9F1y38oU)
+- [Why Parquet Is the Go-To Format for Data Engineers](https://luminousmen.com/post/why-parquet-is-the-goto-format-for-data-engineers/)
+- https://en.wikipedia.org/wiki/Apache_Parquet
+- https://parquet.apache.org/documentation/latest
+- https://blog.matthewrathbone.com/2019/12/20/parquet-or-bust.html
+- https://github.com/julienledem/redelm/wiki/The-striping-and-assembly-algorithms-from-the-Dremel-paper
+- https://blog.twitter.com/engineering/en_us/a/2013/dremel-made-simple-with-parquet.html
+- [Apache Parquet: Parquet file internals and inspecting Parquet file structure - YouTube](https://www.youtube.com/watch?v=rVC9F1y38oU)

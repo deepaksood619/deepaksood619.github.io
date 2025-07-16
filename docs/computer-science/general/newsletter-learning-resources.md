@@ -77,6 +77,7 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 - [10 GitHub repositories to advance your career as a Developer 📚 - DEV Community](https://dev.to/iarchitsharma/10-as-a-developer-egn)
 - [Saylor Academy | Saylor Academy](https://learn.saylor.org/?redirect=0)
 - [Speaker Deck | Easily Share Your Presentations Online](https://speakerdeck.com/)
+- [GitHub - practical-tutorials/project-based-learning: Curated list of project-based tutorials](https://github.com/practical-tutorials/project-based-learning)
 
 ## Blogs
 

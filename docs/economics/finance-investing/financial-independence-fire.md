@@ -91,6 +91,8 @@ Monthly Savings Required To Accumulate The Fund Is - **₹7,25,218**
 
 [How can we be sure of the assumptions used in retirement planning?](https://freefincal.com/how-can-we-be-sure-of-the-assumptions-used-in-retirement-planning/)
 
+[Equity Glide Paths for Retirement Buckets: Freefincal Robo Advisor Update](https://freefincal.com/equity-glide-paths-for-retirement-buckets-freefincal-robo-advisor-update/)
+
 ## Lifestyle upgrades
 
 - 2 objectives that contradict each other, one objective is to achieve financial independence, other objective is to have lifestyle upgrade
