@@ -297,6 +297,11 @@ docker compose up
 }
 ```
 
+## N8N vs Dify
+
+- [\[Help\] n8n vs. Dify: Which is the ultimate choice for building Agents? : r/AI\_Agents](https://www.reddit.com/r/AI_Agents/comments/1l6yzc3/help_n8n_vs_dify_which_is_the_ultimate_choice_for/)
+- [n8n vs. Dify vs. Coze: A Comprehensive Comparison of Automation and AI Platforms](https://go.lightnode.com/tech/n8n-dify-coze)
+
 ## Others
 
 - [GitHub - langgenius/dify: Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.](https://github.com/langgenius/dify)
