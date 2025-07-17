@@ -180,6 +180,10 @@
 - NEC
 - Radisys
 
+### Others
+
+- [Synopsys \| EDA Tools, Semiconductor IP & Systems Verification](https://www.synopsys.com/)
+
 ## Good companies
 
 [The Secret to Finding Your Ideal Workplace | Marion Campan | TED - YouTube](https://www.youtube.com/watch?v=s9rCzZEZKnM)

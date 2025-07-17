@@ -263,3 +263,4 @@ MuleSoft is a platform that gives IT the tools to automate everything. This incl
 	- [ShareFile \| Secure Document Workflow & File Sharing Software](https://www.sharefile.com/)
 - [Understanding T24: The Core Banking Solution by Temenos](https://maveric-systems.com/articles/t24-core-banking-solution-by-temenos/)
 - [Best VPS Hosting](https://go.lightnode.com/)
+- [Home - SheerID](https://www.sheerid.com/)

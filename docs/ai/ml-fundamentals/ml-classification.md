@@ -170,6 +170,8 @@ Applications
 - Computer Vision
     - Image recognition
     - Optical Character Recognition (OCR)
+        - [GitHub - PaddlePaddle/PaddleOCR: Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)](https://github.com/PaddlePaddle/PaddleOCR)
+        - [Cracking OCR at Scale: Lessons from Real-World Document Processing \| by Pritishrv \| CARS24 Data Science Blog \| Jul, 2025 \| Medium](https://medium.com/cars24-data-science-blog/cracking-ocr-at-scale-lessons-from-real-world-document-processing-dbaf38485a39)
 
 https://opensource.google/projects/tesseract
 

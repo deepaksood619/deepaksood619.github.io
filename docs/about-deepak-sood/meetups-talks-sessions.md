@@ -1,6 +1,10 @@
 # Meetups / Talks / Sessions
 
-## The AI Hiring Show: Vibe Coding, Power Hiring
+## Confluent Kafka Meetup (19 July 2025)
+
+- [Flink SQL on Confluent Cloud Invokes ML Model & AI Inference](https://www.confluent.io/blog/flinkai-realtime-ml-and-genai-confluent-cloud/)
+
+## The AI Hiring Show: Vibe Coding, Power Hiring (5 July 2025)
 
 ![AI Hiring Show](../media/Pasted%20image%2020250704202407.png)
 

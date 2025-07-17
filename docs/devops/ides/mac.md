@@ -229,6 +229,20 @@ brew services cleanup
 - **tldr -** https://tldr.sh https://github.com/tldr-pages/tldr
 - brew install pre-commit
 - rename
+- maccy
+
+#### Clipboard Manager
+
+- brew install maccy
+- [GitHub - p0deje/Maccy: Lightweight clipboard manager for macOS](https://github.com/p0deje/Maccy)
+	- SHIFT (⇧) + COMMAND (⌘) + C to popup Maccy or click on its icon in the menu bar.
+	- To disable Maccy and ignore new copies, click on the menu icon with OPTION (⌥) pressed.
+	- To ignore only the next copy, click on the menu icon with OPTION (⌥) + SHIFT (⇧) pressed.
+- [GitHub - PasteBar/PasteBarApp: PasteBar - Limitless, Free Clipboard Manager for Mac and Windows](https://github.com/PasteBar/PasteBarApp)
+- [GitHub - hluk/CopyQ: Clipboard manager with advanced features](https://github.com/hluk/CopyQ)
+- [GitHub - Slackadays/Clipboard: 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager](https://github.com/Slackadays/Clipboard)
+- [GitHub - TermiT/Flycut: Clean and simple clipboard manager for developers](https://github.com/TermiT/Flycut)
+- [The 5 best clipboard managers in 2025 \| Zapier](https://zapier.com/blog/best-clipboard-managers/)
 
 #### hstr (reverse search)
 
