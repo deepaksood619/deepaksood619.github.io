@@ -134,6 +134,58 @@ for GIT_PATH in "${!projects[@]}"; do
 done
 ```
 
+## Increase volume size
+
+**Windows** - [Extend the file system after resizing an Amazon EBS volume - Amazon EBS](https://docs.aws.amazon.com/ebs/latest/userguide/recognize-expanded-volume-linux.html)
+
+**t2 instances resize**
+
+```bash
+df -hT
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.8G  5.5G  1.3G  82% /
+tmpfs           2.0G     0  2.0G   0% /dev/shm
+tmpfs           783M  1.3M  782M   1% /run
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/xvda16     881M  148M  672M  18% /boot
+/dev/xvda15     105M  6.2M   99M   6% /boot/efi
+tmpfs           392M   12K  392M   1% /run/user/1000
+
+sudo lsblk
+NAME     MAJ:MIN RM  SIZE RO TYPE MOUNTPOINTS
+loop0      7:0    0 27.2M  1 loop /snap/amazon-ssm-agent/11320
+loop2      7:2    0 73.9M  1 loop /snap/core22/2010
+loop3      7:3    0 49.3M  1 loop /snap/snapd/24792
+loop4      7:4    0 50.9M  1 loop /snap/snapd/24718
+loop5      7:5    0 73.9M  1 loop /snap/core22/2045
+xvda     202:0    0   30G  0 disk
+├─xvda1  202:1    0    7G  0 part /
+├─xvda14 202:14   0    4M  0 part
+├─xvda15 202:15   0  106M  0 part /boot/efi
+└─xvda16 259:0    0  913M  0 part /boot
+
+sudo growpart /dev/xvda 1
+CHANGED: partition=1 start=2099200 old: size=14677983 end=16777182 new: size=60815327 end=62914526
+
+df -hT
+
+sudo resize2fs /dev/xvda1
+resize2fs 1.47.0 (5-Feb-2023)
+Filesystem at /dev/xvda1 is mounted on /; on-line resizing required
+old_desc_blocks = 1, new_desc_blocks = 4
+The filesystem on /dev/xvda1 is now 7601915 (4k) blocks long.
+
+df -hT
+Filesystem     Type   Size  Used Avail Use% Mounted on
+/dev/root      ext4    29G  5.5G   23G  20% /
+tmpfs          tmpfs  2.0G     0  2.0G   0% /dev/shm
+tmpfs          tmpfs  783M  1.3M  782M   1% /run
+tmpfs          tmpfs  5.0M     0  5.0M   0% /run/lock
+/dev/xvda16    ext4   881M  148M  672M  18% /boot
+/dev/xvda15    vfat   105M  6.2M   99M   6% /boot/efi
+tmpfs          tmpfs  392M   12K  392M   1% /run/user/1000
+```
+
 ## Amazon EC2 Auto Scaling Group (ASG)
 
 Scale Compute Capacity to Meet Demand
