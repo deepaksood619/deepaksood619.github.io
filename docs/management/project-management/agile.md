@@ -247,6 +247,14 @@ The lean framework works on the concept of maximizing customer value with fewer 
 11. Metaphor
 12. Coding standards
 
+## SAFe (Scaled Agile Framework)
+
+The scaled agile framework (SAFe) is a set of organization and workflow patterns intended to guide enterprises in scaling lean and agile practices. Along with disciplined agile delivery (DAD) and S@S (Scrum@Scale), SAFe is one of a growing number of frameworks that seek to address the problems encountered when scaling beyond a single team.
+
+Set milestones considering object estimation and evaluating the working systems ensuring an economical benefit. To enable continuous workflow, decrease the batch size, limit the work in progress, and manage the queue length.
+
+[Scaled agile framework - Wikipedia](https://en.wikipedia.org/wiki/Scaled_agile_framework)
+
 ## Links
 
 - [FIRE your product owner. I'm serious. You think : We need someone to… \| Muhammed Umar \| 31 comments](https://www.linkedin.com/posts/umar482_fire-your-product-owner-im-serious-you-activity-7318921343528308736-HGzp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)

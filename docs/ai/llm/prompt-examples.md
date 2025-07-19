@@ -113,7 +113,7 @@ Prompt: "Proofread my writing above. Fix grammar and spelling mistakes. And make
 		- When providing a list of topics at any level, remind me that if I just type "1", we will return to "Basic Information"; if I type "option 1", we will go to the first item in that list.
 
 ---
-- ==End==
+==End==
 ```
 
 ### Learn-fast prompt using the 80/20 principle to knowledge

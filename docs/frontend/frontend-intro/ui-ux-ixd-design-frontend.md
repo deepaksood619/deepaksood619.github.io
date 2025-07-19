@@ -351,6 +351,6 @@ https://www.freecodecamp.org/news/ux-vs-ui-whats-the-difference-definition-and-m
 
 ## Links
 
-[Design System](design-system)
-
-[Design 101 for Programmers • James White • YOW! 2016 - YouTube](https://www.youtube.com/watch?v=xVUV6L2IxvI&ab_channel=GOTOConferences)
+- [Design System](design-system)
+- [Design 101 for Programmers • James White • YOW! 2016 - YouTube](https://www.youtube.com/watch?v=xVUV6L2IxvI&ab_channel=GOTOConferences)
+- [Why UX designers should care about model context protocol \| by Erik Fadiman \| Jul, 2025 \| UX Collective](https://uxdesign.cc/why-ux-designers-should-care-about-model-context-protocol-24d34b02c1c9)

@@ -101,8 +101,10 @@ p and q are the attribute values for two data objects
 
 ## Tidy Data
 
-https://vita.had.co.nz/papers/tidy-data.pdf
+- https://vita.had.co.nz/papers/tidy-data.pdf
+- https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html
+- [10 Python One-Liners That Will Boost Your Data Preparation Workflow - MachineLearningMastery.com](https://machinelearningmastery.com/10-python-one-liners-that-will-boost-your-data-preparation-workflow/)
 
-https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html
+## Links
 
-[10 Python One-Liners That Will Boost Your Data Preparation Workflow - MachineLearningMastery.com](https://machinelearningmastery.com/10-python-one-liners-that-will-boost-your-data-preparation-workflow/)
+- [7 Pandas Tricks That Cut Your Data Prep Time in Half - MachineLearningMastery.com](https://machinelearningmastery.com/7-pandas-tricks-that-cut-your-data-prep-time-in-half/)
