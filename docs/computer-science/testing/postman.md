@@ -146,10 +146,8 @@ Thunder Client - https://www.thunderclient.com
 
 ## Others
 
-https://www.freecodecamp.org/news/what-is-an-api-and-how-to-test-it
-
-[Testing your APIs with Postman and Newman](https://www.youtube.com/watch?v=fTtA9qXkNAk)
-
-[Testing Your APIs: Postman, Newman & Beyond, Mike Amundsen | Postman Galaxy 2021](https://www.youtube.com/watch?v=DGxvFSy-i78&ab_channel=Postman)
-
-[Master API Testing with Postman](https://www.freecodecamp.org/news/master-api-testing-with-postman/)
+- https://www.freecodecamp.org/news/what-is-an-api-and-how-to-test-it
+- [Testing your APIs with Postman and Newman](https://www.youtube.com/watch?v=fTtA9qXkNAk)
+- [Testing Your APIs: Postman, Newman & Beyond, Mike Amundsen | Postman Galaxy 2021](https://www.youtube.com/watch?v=DGxvFSy-i78&ab_channel=Postman)
+- [Master API Testing with Postman](https://www.freecodecamp.org/news/master-api-testing-with-postman/)
+- [90-Day AI Readiness Playbook \| Postman Resource](https://www.postman.com/ai/90-day-ai-readiness-playbook/)

@@ -67,6 +67,17 @@ https://establishedtitles.com/products/lordship-title-pack-new
 
 - Photoframe with photo
 
+## Art and Craft
+
+- [Amazing Water Fountain with Plastic Bottle and Led (DIY) - YouTube](https://www.youtube.com/watch?v=TipNigD283w&ab_channel=RusticKraftChannel)
+- [Balloon lamp/lamp making using balloon #shorts #ballon #youtubeshorts #creative #lamp #trending #art - YouTube](https://www.youtube.com/shorts/CckWkTwVBOc)
+- [awesome ideas with balloon #short DIY life hacks amazing balloon jhumar #inventions watch till end - YouTube](https://www.youtube.com/shorts/vVAOwRZOsgI)
+- [Make Your Own Glowing Moon! #CreativeProjects #DIY #DIYMoonLamp #HandmadeMagic - YouTube](https://www.youtube.com/shorts/HbtEzAHTXNQ)
+- [Quick and Easy waterfall/ Best out of waste/Waterfall project/Waterfall making at home - YouTube](https://www.youtube.com/watch?v=KV51mhgiI6M&ab_channel=NiveArtIdeas)
+- [Beautiful showpiece making with waste materials 😱 \| cardboard craft ideas \| PC Crafts Planet - YouTube](https://www.youtube.com/watch?v=syAJfnSTokI&ab_channel=PCCraftsPlanet)
+- [Origami curlicue tutorial \| Kinetic origami \| Art beats - YouTube](https://www.youtube.com/shorts/OIRaNmfCsNQ)
+- [DIY Miniature Cardboard House #66 \| Easy Build Simple Pink Craft House From Cardboard For a Family - YouTube](https://www.youtube.com/watch?v=odVXvsNJUmo&ab_channel=CardboardDesign)
+
 ## Links
 
 - [couple-activities](knowledge/games/couple-activities.md)

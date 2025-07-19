@@ -246,6 +246,7 @@ MuleSoft is a platform that gives IT the tools to automate everything. This incl
 
 ## Others
 
+- [Top 8 SaaS Discovery Methods In 2025 \| Zluri](https://www.zluri.com/blog/saas-discovery-methods)
 - https://www.nylas.com
 - https://temp-mail.org/en
 - https://trends.google.com/trends
@@ -264,3 +265,4 @@ MuleSoft is a platform that gives IT the tools to automate everything. This incl
 - [Understanding T24: The Core Banking Solution by Temenos](https://maveric-systems.com/articles/t24-core-banking-solution-by-temenos/)
 - [Best VPS Hosting](https://go.lightnode.com/)
 - [Home - SheerID](https://www.sheerid.com/)
+- [Code Search \| Grep by Vercel](https://grep.app/)

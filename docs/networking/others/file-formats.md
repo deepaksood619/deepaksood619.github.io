@@ -83,6 +83,19 @@ Parquet
 
 ![image](../../media/File-Formats-image1.jpg)
 
+## Schema Evolution
+
+**8 Compatibility Types**
+
+1. **Backward:** New versions work with old data.
+2. **Forward:** Old versions work with new data.
+3. **Backward Transitive:** Consumers using any version can process data from any previous version.
+4. **Forward Transitive:** Consumers using any version can process data from any newer version.
+5. **Full (or Full Transitive):** Achieves both backward and forward compatibility (often implies transitive).
+6. **None:** No compatibility is guaranteed.
+7. **Backward Compatible, but not Full:** You can read older data, but not all changes from the new version are guaranteed to be backward compatible.
+8. **Forward Compatible, but not Full:** You can process newer data, but not all changes from the new version are guaranteed to be forward compatible.
+
 ## DataSets
 
 - NYC Taxi Data

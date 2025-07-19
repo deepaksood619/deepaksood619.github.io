@@ -144,9 +144,9 @@ The number in the parenthesis i.e()does not determines the max and min values th
 
 ## VARCHAR(M)
 
-- variable max size ofMcharacters
-- Mneeds to be between 1 and 65535
-- takes 1 +cbytes (forM≤ 255) or 2 +c(for 256 ≤M≤ 65535) bytes of disk space wherecis the length of the stored string
+- variable max size of M characters
+- M needs to be between 1 and 65535
+- takes 1 +c bytes (for M ≤ 255) or 2 +c (for 256 ≤M≤ 65535) bytes of disk space where c is the length of the stored string
 - can be part of an index
 
 https://dev.mysql.com/doc/refman/8.0/en/storage-requirements.html

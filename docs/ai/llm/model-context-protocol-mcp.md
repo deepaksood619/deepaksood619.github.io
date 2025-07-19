@@ -178,6 +178,7 @@ Knowledge Graph Memory Server - [servers/src/memory at main · modelcontextproto
 - [Star History Monthly May 2025 \| Agent Protocol](https://www.star-history.com/blog/agent-protocol)
 	- X402 - Payment-Required Protocol by Coinbase
 - [GitHub - i-am-bee/acp: Open protocol for communication between AI agents, applications, and humans.](https://github.com/i-am-bee/acp)
+	- [A Hands-on Guide to Agent Communication Protocol](https://blog.dailydoseofds.com/p/a-hands-on-guide-to-agent-communication)
 
 ## Links
 

@@ -31,7 +31,10 @@ Large language model (LLM) fine-tuning is the process of taking pre-trained mode
 - An optimized variant of LoRA where matrix B gets a higher learning rate. This tweak leads to faster and more effective learning.
 
 ![5 Techniques to fine-tune LLMs](../../media/Screenshot%202025-03-10%20at%2012.37.42%20PM.jpg)
-trr
+
+[Top 4 LLM Fine-tuning Frameworks! - by Avi Chawla](https://blog.dailydoseofds.com/p/top-4-llm-fine-tuning-frameworks)
+
+[Understanding LoRA-derived Techniques for Optimal LLM Fine-tuning](https://www.dailydoseofds.com/understanding-lora-derived-techniques-for-optimal-llm-fine-tuning/)
 
 ## Supervised fine-tuning (SFT)
 

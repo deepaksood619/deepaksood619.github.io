@@ -1,8 +1,14 @@
 # Meetups / Talks / Sessions
 
-## Confluent Kafka Meetup (19 July 2025)
+## Apache Kafka Meetup (19 July 2025)
+
+![Apache Kafka Meetup](../media/Screenshot%202025-07-18%20at%2012.49.36%20PM.jpg)
 
 - [Flink SQL on Confluent Cloud Invokes ML Model & AI Inference](https://www.confluent.io/blog/flinkai-realtime-ml-and-genai-confluent-cloud/)
+- [See Deepak Sood’s activity on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7351873077397372928/)
+
+- Diptiman Raichaudhuri, Staff Developer Advocate, Confluent
+	- Kafka, Flink, Iceberg, AI Agents – Connecting the Modern Data Stack with GenAI
 
 ## The AI Hiring Show: Vibe Coding, Power Hiring (5 July 2025)
 
@@ -415,6 +421,7 @@ Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of expe
 - Presentation - [Real-Time Data Warehousing Solution with AWS and Confluent Cloud ​](https://docs.google.com/presentation/d/118S2du_m7mJ2WFsbwtmFuLz6NApfblv-FmbBE3XQ6PU/edit?usp=sharing)
 - Recording - https://www.youtube.com/live/7NqLTGKFK0c
 - **Session 1**
+	- Diptiman Raichaudhuri, Staff Developer Advocate, Confluent
 	- How to Build a Data Streaming Platform: Introduction to Stream Processing & Stream Governance with Kafka and Flink
 	- Speaker: Diptiman Raichaudhuri , Staff Developer Advocate, Confluent
 - **Session 2**
@@ -423,11 +430,38 @@ Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of expe
 
 #### Questions
 
+- DevOps Agent
+
+- MCP
+	- If the metadata and number of APIs are huge, then if the context is full, how to scale it
+
+- Flink processing
+	- Exactly once processing in Kafka
+	- Anything that kafka streams does that flink cannot
+	- Where is data of flink stored - Kafka Topics and RocksDB for metadata
+	- RocksDB is used by Flink (normally in-memory)
+	-
+	- Anything that sparks streaming does which flink cannot do - No
+	- Spark batch is more mature
+	- What are watermarks - High and Low - Timestamp
+	- Flink Batch - Snapshot queries
+	- Last 5 messages from Kafka topic - use consumer
+	- Flink Dynamic Table
+- Key in message
+	- Can it be duplicate
+	- Duplicate message
+- Financial transaction (for managing both transactions in db and CDC)
+	- Outbox pattern
+- Protobuf, Avro
+	- Needs schema registry
+	- All 8 cases - forward compatibility, backward compatibility, partial forward, partial backward, all, full
+- Not recommended to have more than 5000 partition in one topic
 - Latency of insert of a single message to Kafka - 20ms
 - Networking - Is it like a socket connection for producer, or creates new connection everytime?
 - Exactly once processing
 - Kafka connect vs Flink for connectors vs Kafka Streams
 - Spark Streaming vs Kafka Streams vs Flink vs ksqldb
+	- ksql sunsetting
 - Flink - kappa architecture
 - Apache Hudi (aws) vs Delta Lake (databricks) vs **Apache Iceberg** (confluent, snowflake) vs OTF (open table format)
 - Parquet vs ORC vs Avro

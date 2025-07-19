@@ -1,6 +1,6 @@
 # Ticketing / TMS
 
-## Ticketing Management System (TMS)
+**Ticketing Management System (TMS)**
 
 ## Features
 
@@ -82,33 +82,22 @@ https://www.hubspot.com/knowledge-base
 
 ## OpenSource - uvdesk
 
-https://www.uvdesk.com/en/blog/an-open-source-alternative-to-freshdesk
-
-https://www.uvdesk.com/en/api-doc
-
-https://github.com/uvdesk/community-skeleton
-
-https://ease.ghost.io
-
-https://gatbsy-theme-help-center.netlify.app
-
-https://helpjuice.com/knowledge-base-examples
-
-https://help.msg91.com
-
-https://help.sliceit.com/support/home
+- https://www.uvdesk.com/en/blog/an-open-source-alternative-to-freshdesk
+- https://www.uvdesk.com/en/api-doc
+- https://github.com/uvdesk/community-skeleton
+- https://ease.ghost.io
+- https://gatbsy-theme-help-center.netlify.app
+- https://helpjuice.com/knowledge-base-examples
+- https://help.msg91.com
+- https://help.sliceit.com/support/home
 
 ## tawk.to
 
-https://tawk.to/deepaksood619
-
-https://goldenpi.com
-
-https://developer.tawk.to/jsapi
-
-https://help.tawk.to/article/how-to-use-messaging-and-ticketing
-
-[Tutorials / KB / ENG](https://www.youtube.com/playlist?list=PLTxV5K5lUotCZE_dt6Hc_Iw62GJYIy-AX)
+- https://tawk.to/deepaksood619
+- https://goldenpi.com
+- https://developer.tawk.to/jsapi
+- https://help.tawk.to/article/how-to-use-messaging-and-ticketing
+- [Tutorials / KB / ENG](https://www.youtube.com/playlist?list=PLTxV5K5lUotCZE_dt6Hc_Iw62GJYIy-AX)
 
 ## bookstackapp - https://www.bookstackapp.com
 
@@ -126,7 +115,7 @@ QRC - Query / Request / Complaint
 
 ## How to handle support tickets
 
-### Get details on the case
+**Get details on the case**
 
 ### Set status
 
@@ -163,15 +152,11 @@ The "Spam" status is reserved for malicious or other unnecessary messages you do
 
 ![image](../../media/Cloud-Others-Ticketing-TMS-image1.jpg)
 
-### Tag the case
-
-### Add the responsible team
-
-### Choose the right agent
-
-### Add other people involved in the case
-
-### Respond to the ticket
+- Tag the case
+- Add the responsible team
+- Choose the right agent
+- Add other people involved in the case
+- Respond to the ticket
 
 ## Strategies to assign tickets to agents
 
@@ -185,7 +170,7 @@ https://www.helpdesk.com/learn/customer-support-essentials/customer-ticket-assig
 
 ## L1, L2, & L3 Technical Support
 
-## L1 or Level 1 support
+### L1 or Level 1 support
 
 This is your first support line. The first line of support is usually provided via chat, phone, and email communications. Your pre-sale support emails and support chats will be addressed by a Level 1 software engineer. With Infogain's L1 Support/Help Desk, you get a single point of contact (Phone/email/Chat/Portal), basic troubleshooting and resolution, call routing and escalation.
 
@@ -198,7 +183,7 @@ Additional services include:
 - Complete ticket management with escalation and service level reporting
 - Store equipment and network troubleshooting
 
-## L2 or Level 2 support
+### L2 or Level 2 support
 
 L2 support handles the tickets that L1 routes to them. This support team can also generate tickets for any problem they notice. L2 support specialists have more skills, more experience in solving complicated problems relevant to them and can help L1 support people troubleshoot problems. Infogain's L2 Support covers in-depth application and systems incident resolution featuring a knowledge base, detailed documentation, training and incident trending analysis.
 
@@ -211,7 +196,7 @@ Additional services include:
 - Root Cause Analysis
 - Incident Analysis/Trending
 
-## L3 or Level 3 support
+### L3 or Level 3 support
 
 L3 is the last line of support and typically consists of a development team that deals with technical problems. They are experts in their domain and handle the most difficult problems, mostly assisting both level 1 and level 2 specialists. They do also code changes, research and develop solutions for challenging new or unknown issues. Infogain's L3 Support covers base application, customizations, and integrations. In addition to taking advantage of our proven methodologies, source control and standards.
 

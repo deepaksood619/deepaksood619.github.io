@@ -85,6 +85,8 @@ You can also ask me questions about your editor selection by starting an inline 
 - [Firebase Studio](https://firebase.studio/)
 - [Kilo Code - Open source AI agent VS Code extension](https://kilocode.ai/)
 - [GitHub - Pythagora-io/gpt-pilot: The first real AI developer](https://github.com/Pythagora-io/gpt-pilot)
+- [Kiro: The AI IDE for prototype to production](https://kiro.dev/)
+	- [Kiro - The New Agentic AI IDE from AWS - DEV Community](https://dev.to/aws-builders/kiro-the-new-agentic-ai-ide-from-aws-5311)
 
 ## SAAS
 
