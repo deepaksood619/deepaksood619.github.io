@@ -7,6 +7,7 @@
 - [**DeepEval**](https://github.com/confident-ai/deepeval) - a simple-to-use, open-source evaluation framework for LLM applications.
 - [Adaline - Iterate, evaluate, deploy, and monitor prompts](https://www.adaline.ai/)
 - [LangSmith](https://www.langchain.com/langsmith)
+- [Keywords AI / LLM Observability platform for AI teams](https://www.keywordsai.co) - a full-stack LLM engineering platform for observability, prompt management, evals, and LLM inferencing.
 - [Galileo AI: The Generative AI Evaluation Company](https://galileo.ai/)
 - [Helicone / LLM-Observability for Developers](https://www.helicone.ai/)
 - [GitHub - confident-ai/deepteam: The LLM Red Teaming Framework](https://github.com/confident-ai/deepteam)
