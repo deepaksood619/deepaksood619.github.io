@@ -63,6 +63,7 @@ Other TPC benchmarks include: TPC-DS, TPCI.
 TPC-DS has more difficult SQL like SQL queries with different types of JOINS compared to TPC-H.
 
 DS - Decision Support
+- [TPC-DS Homepage](https://www.tpc.org/tpcds/)
 
 H and DS use similar datasets, and DS is basically the next-gen version of H. While H generates relatively straightforward queries (22 queries) and is generally shard-friendly, DS (99 queries) gets its kicks from using advanced SQL features and functions, and it loves lopsided filters. Running DS is notoriously, intentionally difficult
 
