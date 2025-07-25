@@ -33,3 +33,4 @@ By actively addressing these ethical dilemmas, researchers and educators can har
 ## Links
 
 - [Algorithms are breaking how we think - YouTube](https://youtu.be/QEJpZjg8GuA)
+- [aws-laid-off-40-of-its-devops-staff](https://freedium.cfd/https://aws.plainenglish.io/aws-laid-off-40-of-its-devops-staff-what-theyre-using-instead-will-shock-you-544ebb38a63d)

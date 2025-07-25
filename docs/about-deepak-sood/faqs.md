@@ -216,3 +216,9 @@ What matters is
 2. engaging them in every facet of your life to improve your sense of meaning, happiness, and even your performance at work (a nice side effect of character strength engagement is that it’s often a path to more money).
 
 ![Strengths](../media/Screenshot%202025-02-26%20at%2012.40.13%20PM.jpg)
+
+## Two Truth and a lie
+
+- Bike Crash
+- Had 2 girlfriend at one time
+- Have seen live shooting

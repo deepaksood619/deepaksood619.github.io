@@ -23,6 +23,8 @@ mv **/*.jpg media/
 
 ```bash
 chmod 400 devec2.pem
+# or
+chmod 600 devec2.pem
 ssh -i devec2.pem ec2-user@18.237.184.186
 
 ssh ubuntu@energy.abc.com (simple ssh)

@@ -71,3 +71,7 @@ Deleting the MySQL binary logs with **mysqldump --delete-master-logs** can be da
 GFS backup is a common rotation scheme for backup, in which there are three or more backup cycles, such as daily, weekly, and monthly. Typically, It consists of daily backups (son, at fixed intervals of hours in a day), a weekly full backup (father, once a week), and monthly full backup (Grandfather, once a month).
 
 It helps to restore the database from the most possible recovery points in case of any requirement or disaster.
+
+## Tools
+
+**Veeam** is a software company that specializes in data protection, backup, and disaster recovery solutions for virtual, physical, and cloud-based workloads. Founded in 2006, the company is now a global leader in data resilience, helping businesses protect their data across various environments like cloud, virtual, physical, SaaS, and Kubernetes. Veeam's solutions aim to ensure business continuity, minimize downtime, and protect critical data in the face of various disruptions.

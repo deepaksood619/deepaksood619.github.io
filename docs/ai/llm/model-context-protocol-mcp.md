@@ -140,6 +140,33 @@ Knowledge Graph Memory Server - [servers/src/memory at main · modelcontextproto
 - [AI in Obsidian: Local LLM Setup Guide in CoPilot - YouTube](https://www.youtube.com/watch?v=hOaSO_e7MYs)
 - [I started using NotebookLM with Obsidian and it’s been a game-changer](https://www.xda-developers.com/using-notebooklm-with-obsidian/)
 
+### Postgres
+
+```bash
+brew install postgresql
+brew services start postgresql
+createdb pagila
+psql -d pagila -f pagila-schema.sql
+psql -d pagila -f pagila-data.sql
+
+psql -d pagila
+\dt public.*;
+SELECT table_name, COUNT(*) FROM information_schema.tables t JOIN pg_class c ON t.table_name = c.relname WHERE table_schema = 'public'GROUP BY table_name;
+
+brew install postgres-mcp
+
+brew services stop postgresql
+
+pg_restore -d pagila data.dump
+```
+
+[GitHub - crystaldba/postgres-mcp: Postgres MCP Pro provides configurable read/write access and performance analysis for you and your AI agents.](https://github.com/crystaldba/postgres-mcp)
+
+```sql
+What are the rental patterns and lifetime value segments of customers, including their geographic clustering and seasonal preferences?
+answer the above question using the database
+```
+
 ### Packages
 
 - [Smithery · GitHub](https://github.com/smithery-ai)
@@ -156,6 +183,13 @@ Knowledge Graph Memory Server - [servers/src/memory at main · modelcontextproto
 - [GitHub - benborla/mcp-server-mysql: A Model Context Protocol server that provides read-only access to MySQL databases. This server enables LLMs to inspect database schemas and execute read-only queries.](https://github.com/benborla/mcp-server-mysql)
 - [GitHub - QuantGeekDev/mongo-mcp: A mongo db server for the model context protocol (MCP)](https://github.com/QuantGeekDev/mongo-mcp)
 	- [Announcing the MongoDB MCP Server \| MongoDB](https://www.mongodb.com/blog/post/announcing-mongodb-mcp-server)
+- [GitHub - awslabs/mcp: AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.](https://github.com/awslabs/mcp)
+
+## Tools
+
+- [GitHub - jlowin/fastmcp: 🚀 The fast, Pythonic way to build MCP servers and clients](https://github.com/jlowin/fastmcp)
+	- [Welcome to FastMCP 2.0! - FastMCP](https://gofastmcp.com/getting-started/welcome)
+- [🛰️ MCP Support \| Open WebUI](https://docs.openwebui.com/openapi-servers/mcp/)
 
 ## Resources
 
@@ -195,4 +229,4 @@ Knowledge Graph Memory Server - [servers/src/memory at main · modelcontextproto
 - How LLM decides which mcp tool to use
 - [The Full MCP Blueprint: Testing, Security and Sandboxing in MCPs (Part A)](https://www.dailydoseofds.com/model-context-protocol-crash-course-part-6/)
 - [The Full MCP Blueprint: Background, Foundations, Architecture, and Practical Usage (Part A)](https://www.dailydoseofds.com/model-context-protocol-crash-course-part-1/)
-- [🛰️ MCP Support \| Open WebUI](https://docs.openwebui.com/openapi-servers/mcp/)
+- [The Full MCP Blueprint: Building a Full-Fledged Research Assistant with MCP and LangGraph](https://www.dailydoseofds.com/model-context-protocol-crash-course-part-9/)

@@ -87,6 +87,12 @@ You can also ask me questions about your editor selection by starting an inline 
 - [GitHub - Pythagora-io/gpt-pilot: The first real AI developer](https://github.com/Pythagora-io/gpt-pilot)
 - [Kiro: The AI IDE for prototype to production](https://kiro.dev/)
 	- [Kiro - The New Agentic AI IDE from AWS - DEV Community](https://dev.to/aws-builders/kiro-the-new-agentic-ai-ide-from-aws-5311)
+- [Codex \| OpenAI](https://openai.com/codex/)
+- [GitHub - QwenLM/Qwen3-Coder: Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.](https://github.com/QwenLM/Qwen3-Coder)
+- [unsloth/Qwen3-Coder-480B-A35B-Instruct-GGUF · Hugging Face](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-GGUF)
+	- Qwen releases Qwen3-Coder, a SOTA coding model that rivals Claude Sonnet-4, GPT-4.1 & Kimi K2.
+	- Run the 480B model with Unsloth AI Dynamic 2-bit GGUFs - now just 182GB (down from 512GB). 1M context length GGUFs are also available.
+	- Achieve `>6 tokens/s` on 190GB unified memory or 158GB RAM + 24GB VRAM.
 
 ## SAAS
 

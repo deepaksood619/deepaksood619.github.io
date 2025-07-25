@@ -34,6 +34,10 @@ People with lactose intolerance cannot metabolize lactose properly, because thei
 
 https://www.medicalnewstoday.com/articles/180120.php
 
+## Others
+
+- **Short-chain fatty acids (SCFAs)** are primarily produced by gut bacteria through the fermentation of dietary fiber in the large intestine. These SCFAs, including acetate, propionate, and butyrate, are crucial for maintaining gut health and have implications for overall well-being.
+
 ## Tests
 
 - [BIOFIRE GI (GASTROINTESTINAL PANEL),STOOL Test in Bengaluru - 21600](https://www.lalpathlabs.com/test/pathology/biofire-gi-gastrointestinal-panel-stool/bengaluru)

@@ -19,6 +19,12 @@
 - Large enterprise applications mostly use SQL Server. The key difference between Oracle and SQL Server is that SQL Server only supports the Windows Operating System.
 - Microsoft offers a free entry-level version called Express but can become very expensive as you scale your application.
 
+## Docker
+
+- [hub.docker.com/r/microsoft/mssql-server](https://hub.docker.com/r/microsoft/mssql-server)
+- [Docker: Run Containers for SQL Server on Linux - SQL Server \| Microsoft Learn](https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-docker?view=sql-server-ver17&tabs=cli&pivots=cs1-bash)
+- [Running Microsoft SQL database server with Docker \| by Jay (Vijayasimha BR) \| Medium](https://vijayasimhabr.medium.com/running-microsoft-sql-database-server-with-docker-5a879ef06adb)
+
 ## SQL Server components and technologies
 
 |Component|Description|

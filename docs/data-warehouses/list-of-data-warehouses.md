@@ -12,7 +12,6 @@
 10. [MemSQL](databases-sql/memsql/readme.md)
 11. [Presto / Trino](technologies/others/presto.md)
 12. FireBolt
-13.
 
 ## Firebolt
 
@@ -23,3 +22,6 @@ Firebolt has completely redesigned the cloud data warehouse to deliver a super f
 Firebolt's serverless architecture connects to your S3 data lake as its data source and to the entire data ecosystem using standard SQL as its destination
 
 ![image](../media/Data-Warehousing_Databases-image1.jpg)
+
+- [GitHub - firebolt-db/firebolt-core: Firebolt Core is a free, self-hosted edition of Firebolt's distributed query engine (https://www.firebolt.io/); it provides high-performance data warehousing capabilities that can be deployed anywhere from a single laptop to enterprise datacenters.](https://github.com/firebolt-db/firebolt-core)
+- [The Data Warehouse for Data and AI Apps](https://www.firebolt.io/)

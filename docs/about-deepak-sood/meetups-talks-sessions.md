@@ -2,6 +2,10 @@
 
 ## Apache Kafka Meetup (19 July 2025)
 
+Presentation - [Building GenAI Workflow](https://drive.google.com/file/d/15iRh2uTK7jEvljHrbuj59_DZSRtQ2CF3/view?usp=sharing)
+
+- [Building GenAI WORKFLOW - Presentation](https://www.canva.com/design/DAGtUAyGOF4/GYnkCHEAfXeXaeKp3qqdlA/edit?utm_content=DAGtUAyGOF4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ![Apache Kafka Meetup](../media/Screenshot%202025-07-18%20at%2012.49.36%20PM.jpg)
 
 - [Flink SQL on Confluent Cloud Invokes ML Model & AI Inference](https://www.confluent.io/blog/flinkai-realtime-ml-and-genai-confluent-cloud/)
@@ -434,6 +438,7 @@ Deepak Sood is a Senior AI, Data, and DevOps Architect with over 8 years of expe
 
 - MCP
 	- If the metadata and number of APIs are huge, then if the context is full, how to scale it
+	- Claude code
 
 - Flink processing
 	- Exactly once processing in Kafka
