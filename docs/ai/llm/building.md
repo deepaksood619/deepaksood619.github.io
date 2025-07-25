@@ -135,17 +135,12 @@ docker exec -it ollama ollama run mistral
 >>> /? # for help
 ```
 
-[Docker](https://hub.docker.com/r/ollama/ollama)
-
-[LM Studio - SUPER EASY Text AI - Windows, Mac & Linux / How To - YouTube](https://www.youtube.com/watch?v=opx8yHP-SV0)
-
-[LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
-
-[Ollama Course – Build AI Apps Locally - YouTube](https://www.youtube.com/watch?v=GWB9ApTPTv4&ab_channel=freeCodeCamp.org)
-
-[Run DeepSeek-R1 on Your Laptop with Ollama - DEV Community](https://dev.to/shayy/run-deepseek-locally-on-your-laptop-37hl)
-
-[Jan: Open source ChatGPT-alternative that runs 100% offline - Jan](https://jan.ai/)
+- [Docker](https://hub.docker.com/r/ollama/ollama)
+- [LM Studio - SUPER EASY Text AI - Windows, Mac & Linux / How To - YouTube](https://www.youtube.com/watch?v=opx8yHP-SV0)
+- [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
+- [Ollama Course – Build AI Apps Locally - YouTube](https://www.youtube.com/watch?v=GWB9ApTPTv4&ab_channel=freeCodeCamp.org)
+- [Run DeepSeek-R1 on Your Laptop with Ollama - DEV Community](https://dev.to/shayy/run-deepseek-locally-on-your-laptop-37hl)
+- [Jan: Open source ChatGPT-alternative that runs 100% offline - Jan](https://jan.ai/)
 
 #### open-webui / openwebui / open webui (103K stars)
 
@@ -183,6 +178,10 @@ Ludwig enables you to apply state-of-the-art tabular, natural language processin
 
 [What is Ludwig? - Ludwig](https://ludwig.ai/latest/user_guide/what_is_ludwig/)
 
+### Others
+
+- [GitHub - LMCache/LMCache: Supercharge Your LLM with the Fastest KV Cache Layer](https://github.com/LMCache/LMCache)
+
 ## SAAS
 
 - [DataRobot AI Platform | Deliver Value from AI](https://www.datarobot.com/)
@@ -216,3 +215,6 @@ Ludwig enables you to apply state-of-the-art tabular, natural language processin
 - [How Do AI Agents Actually Work? - YouTube](https://youtu.be/ASqYh4g4dgA)
 - [What makes LLM tokenizers different from each other? GPT4 vs. FlanT5 Vs. Starcoder Vs. BERT and more - YouTube](https://youtu.be/rT6wVLEDC_w)
 - [**LLM Visualization**](https://bbycroft.net/llm)
+- [\[Full Workshop\] Reinforcement Learning, Kernels, Reasoning, Quantization & Agents — Daniel Han - YouTube](https://www.youtube.com/watch?v=OkEGJ5G3foU&ab_channel=AIEngineer)
+	- [Advanced: Reinforcement Learning, Kernels, Reasoning, Quantization & Agents AIE 2025 - Google Slides](https://docs.google.com/presentation/d/1Jh5p_JDXt4eLD0ireaHJjJNpzqSF8E1WTwIHeojyjNU/mobilepresent?slide=id.g35e7f1de1a9_1_49)
+	- [Reinforcement Learning (RL) Guide \| Unsloth Documentation](https://docs.unsloth.ai/basics/reinforcement-learning-rl-guide)

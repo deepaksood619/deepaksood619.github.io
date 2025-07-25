@@ -60,7 +60,7 @@ In the context of vector embeddings, yes, embeddings and vectors are the same th
 - [GitHub - SeanLee97/AnglE: Angle-optimized Text Embeddings | 🔥 SOTA on STS and MTEB Leaderboard](https://github.com/SeanLee97/AnglE)
 - [MTEB Leaderboard - a Hugging Face Space by mteb](https://huggingface.co/spaces/mteb/leaderboard)
     - MTEB - Massive Text Embeddings Benchmark
-- [OpenAI Platform](https://platform.openai.com/tokenizer)
+- [**OpenAI Platform - Calculate Tokens for text**](https://platform.openai.com/tokenizer)
 - [sentence-transformers/all-MiniLM-L6-v2 · Hugging Face](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 - [Pretrained Models - Sentence-Transformers documentation](https://www.sbert.net/docs/pretrained_models.html)
 - [sentence-transformers (Sentence Transformers)](https://huggingface.co/sentence-transformers)

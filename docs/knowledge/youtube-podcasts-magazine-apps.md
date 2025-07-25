@@ -452,6 +452,7 @@ Indian History - https://www.anirudhkanisetti.com/podcasts
 
 - [YouTube Transcript - read YouTube videos](https://youtubetranscript.com/)
 - [12ft Ladder](https://12ft.io/)
+- [Just a moment...](https://freedium.cfd/)
 
 ## Youtube Shortcuts
 

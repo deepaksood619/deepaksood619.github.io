@@ -31,7 +31,7 @@
     - [AWS Lambda](compute/aws-lambda)
 - [Networing and Content Delivery](networking-content-delivery/intro)
     - [Amazon VPC](networking-content-delivery/amazon-vpc)
-    - [AWS ELB](networking-content-delivery/aws-elb)
+    - [AWS ELB](cloud/aws/networking-content-delivery/aws-elb-alb-nlb.md)
     - [Amazon Cloudfront](cloud/aws/networking-content-delivery/amazon-cloudfront.md)
 - [Storage](storage/readme.md)
     - [Amazon S3](storage/amazon-s3)

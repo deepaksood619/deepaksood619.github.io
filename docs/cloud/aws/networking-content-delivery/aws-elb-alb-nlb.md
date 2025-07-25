@@ -1,4 +1,4 @@
-# AWS ELB
+# AWS ELB / ALB / NLB
 
 Elastic Load Balancing automatically distributes incoming application traffic across multiple targets, such as Amazon EC2 instances, containers, IP addresses, and Lambda functions. It can handle the varying load of your application traffic in a single Availability Zone or across multiple Availability Zones. Elastic Load Balancing offers three types of load balancers that all feature the high availability, automatic scaling, and robust security necessary to make your applications fault tolerant.
 
@@ -49,6 +49,12 @@ Gateway Load Balancers enable you to deploy, scale, and manage virtual appliance
 If you need flexible application management, we recommend that you use an Application Load Balancer. If extreme performance and static IP is needed for your application, we recommend that you use a Network Load Balancer. If you have an existing application that was built within the EC2-Classic network, then you should use a Classic Load Balancer.
 
 https://aws.amazon.com/elasticloadbalancing/features
+
+### Static IPs
+
+[Find the IP address used by a load balancer to forward traffic to web servers \| AWS re:Post](https://repost.aws/knowledge-center/elb-find-load-balancer-ip)
+
+The IP addresses for Classic Load Balancers and Application Load Balancers change over time. Don't use this information to statically configure your applications to point to these IP addresses.
 
 ## Authentication in ALB
 

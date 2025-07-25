@@ -33,6 +33,10 @@
 - Claude 2.1 from antropic with a context window of 200k tokens
     - [Introducing Claude 3.5 Sonnet - Anthropic](https://www.anthropic.com/news/claude-3-5-sonnet)
     - Gemini (1.5 Pro, 1.5 Flash)
+        - Gemini 2.0 Flash (free)
+			- Token rate: 1,000,000 TPM
+			- Requests per minute: ~15
+			- daily limit also for free requests = 200 per day
     - [Advancing medical AI with Med-Gemini](https://research.google/blog/advancing-medical-ai-with-med-gemini/)
     - [Googles NEW "Med-Gemini" SURPRISES Doctors! (Googles New Medical AI) - YouTube](https://www.youtube.com/watch?v=SZS5WD1du3A&ab_channel=TheAIGRID)
     - [Google Gemini - YouTube](https://www.youtube.com/playlist?list=PLZoTAELRMXVNbDmGZlcgCA3a8mRQp5axb)
@@ -79,6 +83,7 @@ Note: You should have at least 8 GB of RAM available to run the 7B models, 16 GB
     - aligned by an alignment team
     - Remove refusals
 - [Introduction | Mistral AI Large Language Models](https://docs.mistral.ai/)
+	- [Mistral AI](https://docs.mistral.ai/getting-started/models/models_overview/)
 - [Introducing Nova-2: The Fastest, Most Accurate Speech-to-Text API | Deepgram](https://deepgram.com/learn/nova-2-speech-to-text-api)
 - [GitHub - QwenLM/Qwen3: Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.](https://github.com/QwenLM/Qwen3)
 	- [GitHub - QwenLM/Qwen: The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.](https://github.com/QwenLM/Qwen)
@@ -147,6 +152,7 @@ So... what's the deal with TTMs?
 
 - gpt-image-1
 - [GitHub - harry0703/MoneyPrinterTurbo: 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.](https://github.com/harry0703/MoneyPrinterTurbo)
+- [Google Vids: AI-powered video creator and editor \| Google Workspace](https://workspace.google.com/products/vids/)
 
 ## HuggingFace
 
@@ -203,6 +209,11 @@ So... what's the deal with TTMs?
 - [Get Tabnine](https://www.tabnine.com/install)
 - [Cursor - The AI-first Code Editor](https://cursor.sh/)
 - [mutable.ai. AI Accelerated Software Development.](https://mutable.ai/)
+- [GitHub - pollinations/pollinations: Free Open-Source Image and Text Generation](https://github.com/pollinations/pollinations)
+	- [Sur](https://sur.pollinations.ai/)
+	- [Pollinations.AI](https://pollinations.ai/)
+- [Together AI – The AI Acceleration Cloud - Fast Inference, Fine-Tuning & Training](https://www.together.ai/)
+	- [api.together.xyz/signin?redirectUrl=%2F](https://api.together.xyz/)
 
 [10 Best Alternatives To ChatGPT: Developer Edition - Semaphore](https://semaphoreci.com/blog/chatgpt-alternatives)
 

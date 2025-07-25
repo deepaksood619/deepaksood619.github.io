@@ -55,17 +55,17 @@ bitnet.cpp is the official inference framework for 1-bit LLMs (e.g., BitNet b1.5
 
 The first release of bitnet.cpp is to support inference on CPUs. bitnet.cpp achieves speedups of **1.37x** to **5.07x** on ARM CPUs, with larger models experiencing greater performance gains. Additionally, it reduces energy consumption by **55.4%** to **70.0%**, further boosting overall efficiency. On x86 CPUs, speedups range from **2.37x** to **6.17x** with energy reductions between **71.9%** to **82.2%**. Furthermore, bitnet.cpp can run a 100B BitNet b1.58 model on a single CPU, achieving speeds comparable to human reading (5-7 tokens per second), significantly enhancing the potential for running LLMs on local devices.
 
-[BitNet - Inference framework for 1-bit LLMs : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1g6jmwl/bitnet_inference_framework_for_1bit_llms/)
-
-[Bitnet.cpp an opensource LLM platform by Microsoft \| by Kldurga \| Medium](https://medium.com/@kldurga999/bitnet-cpp-an-opensource-llm-platform-by-microsoft-8cdeccf272c2)
-
-[bitnet.cpp from Microsoft: Run LLMs locally on CPU! (hands-on) - YouTube](https://www.youtube.com/watch?v=C4OYJAs4O60)
-
-[\[2504.12285\] BitNet b1.58 2B4T Technical Report](https://arxiv.org/abs/2504.12285)
+- [BitNet - Inference framework for 1-bit LLMs : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1g6jmwl/bitnet_inference_framework_for_1bit_llms/)
+- [Bitnet.cpp an opensource LLM platform by Microsoft \| by Kldurga \| Medium](https://medium.com/@kldurga999/bitnet-cpp-an-opensource-llm-platform-by-microsoft-8cdeccf272c2)
+- [bitnet.cpp from Microsoft: Run LLMs locally on CPU! (hands-on) - YouTube](https://www.youtube.com/watch?v=C4OYJAs4O60)
+- [\[2504.12285\] BitNet b1.58 2B4T Technical Report](https://arxiv.org/abs/2504.12285)
 
 ## Others
 
 - Instruct tuning / Instruction Tuning
+- [GitHub - ggml-org/ggml: Tensor library for machine learning](https://github.com/ggml-org/ggml)
+	- [ggml/docs/gguf.md at master · ggml-org/ggml · GitHub](https://github.com/ggml-org/ggml/blob/master/docs/gguf.md)
+	- GGUF - A binary format that is optimized for quick loading and saving of models, making it highly efficient for inference purposes.
 
 ## Links
 

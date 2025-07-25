@@ -43,6 +43,11 @@ One of the largest drawbacks of Flink at the moment is that it is still a very y
 
 Flink offers both low latency stream processing with support for traditional batch tasks. Flink is probably best suited for organizations that have heavy stream processing requirements and some batch-oriented tasks. Its compatibility with native Storm and Hadoop programs, and its ability to run on a YARN-managed cluster can make it easy to evaluate. Its rapid development makes it worth keeping an eye on.
 
+## WaterMarks
+
+- [Understanding Watermarks in Apache Flink \| by Giannis Polyzos \| Medium](https://medium.com/@ipolyzos_/understanding-watermarks-in-apache-flink-c8793a50fbb8)
+- [Watermark \| Apache Flink](https://nightlies.apache.org/flink/flink-docs-master/docs/dev/datastream-v2/watermark/)
+
 ## Apache Flink- Stateful Computations over Data Streams
 
 ![image](../../media/Technologies-Apache-Others-image1.jpg)
@@ -51,15 +56,26 @@ Apache Flink is a framework and distributed processing engine for stateful compu
 
 Streaming dataflow engine for Java
 
+## PyFlink
+
+PyFlink is a Python API for Apache Flink that allows you to build scalable batch and streaming workloads, such as real-time data processing pipelines, large-scale exploratory data analysis, Machine Learning (ML) pipelines and ETL processes. If you’re already familiar with Python and libraries such as Pandas, then PyFlink makes it simpler to leverage the full capabilities of the Flink ecosystem. Depending on the level of abstraction you need, there are two different APIs that can be used in PyFlink:
+
+- The **PyFlink Table API** allows you to write powerful relational queries in a way that is similar to using SQL or working with tabular data in Python.
+- At the same time, the **PyFlink DataStream API** gives you lower-level control over the core building blocks of Flink, [state](https://nightlies.apache.org/flink/flink-docs-master/docs/concepts/stateful-stream-processing/) and [time](https://nightlies.apache.org/flink/flink-docs-master/docs/concepts/time/), to build more complex stream processing use cases.
+
+### Links
+
+- [PyFlink Docs — pyflink-docs version master](https://pyflink.readthedocs.io/en/main/index.html)
+- [List: Pyflink Kafka Getting Started - Table API, UDFs and more | Curated by Diptiman Raichaudhuri | Medium](https://diptimanrc.medium.com/list/pyflink-kafka-getting-started-table-api-udfs-and-more-ff5bf8d9d41a)
+- [GitHub - diptimanr/kafka\_flink\_getting\_started: pyflink Table API and FLink SQL on Kafka](https://github.com/diptimanr/kafka_flink_getting_started)
+	- [kafka\_flink\_getting\_started/06\_kafka\_pyflink\_tableapi\_tumbling\_window.py at master · diptimanr/kafka\_flink\_getting\_started · GitHub](https://github.com/diptimanr/kafka_flink_getting_started/blob/master/06_kafka_pyflink_tableapi_tumbling_window.py)
+
 ## Links
 
-- pyflink
-	- [PyFlink Docs — pyflink-docs version master](https://pyflink.readthedocs.io/en/main/index.html)
-	- [List: Pyflink Kafka Getting Started - Table API, UDFs and more | Curated by Diptiman Raichaudhuri | Medium](https://diptimanrc.medium.com/list/pyflink-kafka-getting-started-table-api-udfs-and-more-ff5bf8d9d41a)
-	- [kafka\_flink\_getting\_started/06\_kafka\_pyflink\_tableapi\_tumbling\_window.py at master · diptimanr/kafka\_flink\_getting\_started · GitHub](https://github.com/diptimanr/kafka_flink_getting_started/blob/master/06_kafka_pyflink_tableapi_tumbling_window.py)
 - https://dzone.com/articles/introduction-to-streaming-etl-with-apache-flink
 - https://flink.apache.org/flink-architecture.html
 - [CDC Stream Processing with Apache Flink](https://youtu.be/K2ibvfmFh8Y?si=_K1jRSc0ez7Ntw9y)
 - [Apache Flink 1.19 - Deprecations, New Features, and Improvements](https://youtu.be/362g8odTRYk)
 - [Krones real-time production line monitoring with Amazon Managed Service for Apache Flink | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/krones-real-time-production-line-monitoring-with-amazon-managed-service-for-apache-flink/)
 - [Welcome to Amazon Managed Service for Apache Flink learning series \| Amazon Web Services - YouTube](https://youtu.be/PUmRMf8vqrE)
+- [Dynamic Tables \| Apache Flink](https://nightlies.apache.org/flink/flink-docs-master/docs/dev/table/concepts/dynamic_tables/)
