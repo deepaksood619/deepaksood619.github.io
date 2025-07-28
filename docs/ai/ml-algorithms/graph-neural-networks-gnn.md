@@ -76,3 +76,13 @@ The most interesting application I would like to share is zero-shot learning (ZS
 More practical applications of GNN include *human behavior detection, traffic control, molecular structure study, recommender system, program verification, logical reasoning, social influence prediction, and adversarial attack prevention.* Below shows a graph that models the relationships of people in a social network. GNN can be applied to cluster people into different community groups.
 
 https://towardsdatascience.com/an-introduction-to-graph-neural-network-gnn-for-analysing-structured-data-afce79f4cfdc
+
+## Graph ML
+
+- Google Maps uses graph ML for ETA prediction.
+- Pinterest uses graph ML (PingSage) for recommendations.
+- Netflix uses graph ML (SemanticGNN) for recommendations.
+- Spotify uses graph ML (HGNNs) for audiobook recommendations.
+- Uber Eats uses graph ML (a GraphSAGE variant) to suggest dishes, restaurants, etc.
+
+[A Crash Course on Graph Neural Networks (Implementation Included) – Part 1](https://www.dailydoseofds.com/a-crash-course-on-graph-neural-networks-implementation-included/)

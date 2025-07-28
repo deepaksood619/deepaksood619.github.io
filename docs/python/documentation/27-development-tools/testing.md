@@ -289,3 +289,5 @@ fake.past_datetime(start_date='-10y').strftime('%Y-%m-%d %H:%M:%S')
 ```
 
 https://github.com/joke2k/faker
+
+[Synthetic Dataset Generation with Faker - MachineLearningMastery.com](https://machinelearningmastery.com/synthetic-dataset-generation-with-faker/)

@@ -64,6 +64,7 @@ In the context of vector embeddings, yes, embeddings and vectors are the same th
 - [sentence-transformers/all-MiniLM-L6-v2 · Hugging Face](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 - [Pretrained Models - Sentence-Transformers documentation](https://www.sbert.net/docs/pretrained_models.html)
 - [sentence-transformers (Sentence Transformers)](https://huggingface.co/sentence-transformers)
+- `gemini-embedding-001` - [Embeddings  \|  Gemini API  \|  Google AI for Developers](https://ai.google.dev/gemini-api/docs/embeddings)
 
 ## Links
 

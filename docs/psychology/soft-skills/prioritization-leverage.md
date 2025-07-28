@@ -44,7 +44,9 @@ The law has been applied to software development and other activities. The terms
 
 ## Eisenhower Matrix
 
-![image](../../media/Productivity-Productive-Time-Management-TODO-image3.jpg)
+![Eisenhower Matrix](../../media/Productivity-Productive-Time-Management-TODO-image3.jpg)
+
+![Eisenhower Matrix](../../media/Screenshot%202025-07-26%20at%207.56.16%20PM.jpg)
 
 1. Urgent & Important
 2. Urgent & Not Important

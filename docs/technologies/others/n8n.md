@@ -25,6 +25,10 @@ docker compose up
 - [Embeddings Google Gemini integrations \| Workflow automation with n8n](https://n8n.io/integrations/embeddings-google-gemini/)
 - [Confluence and Google Gemini Chat Model: Automate Workflows with n8n](https://n8n.io/integrations/confluence/and/google-gemini-chat-model/)
 - [**RAG Chatbot for Company Documents using Google Drive and Gemini \| n8n workflow template**](https://n8n.io/workflows/2753-rag-chatbot-for-company-documents-using-google-drive-and-gemini/)
+- [✨🤖Automate Multi-Platform Social Media Content Creation with AI \| n8n workflow template](https://n8n.io/workflows/3066-automate-multi-platform-social-media-content-creation-with-ai/)
+- [AI-Powered Social Media Content Generator & Publisher \| n8n workflow template](https://n8n.io/workflows/2950-ai-powered-social-media-content-generator-and-publisher/)
+- [AI-Powered Cold Calling Automation with Vapi.ai, GPT-4o & Google Sheets \| n8n workflow template](https://n8n.io/workflows/5008-ai-powered-cold-calling-automation-with-vapiai-gpt-4o-and-google-sheets/)
+- [Automate Sales Cold Calling Pipeline with Apify, GPT-4o, and WhatsApp \| n8n workflow template](https://n8n.io/workflows/5449-automate-sales-cold-calling-pipeline-with-apify-gpt-4o-and-whatsapp/)
 
 ## Google Gemini Workflow
 
