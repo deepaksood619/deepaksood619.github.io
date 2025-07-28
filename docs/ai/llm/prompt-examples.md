@@ -1,5 +1,7 @@
 # Prompt Examples
 
+[personal-tutor-prompt](education/personal-tutor-prompt.md)
+
 ## Prompts
 
 - [https://snackprompt.com](https://snackprompt.com/)
