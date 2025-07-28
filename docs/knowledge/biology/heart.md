@@ -1,5 +1,7 @@
 # Heart
 
+**Atherosclerosis** is **the buildup of fats, cholesterol and other substances in and on the artery walls**. This buildup is called plaque. The plaque can cause arteries to narrow, blocking blood flow. The plaque also can burst, leading to a blood clot.
+
 ## Heart Attack
 
 ‼️Wake up India: Epigamia co-founder Rohan Mirchandani, 42, died from a sudden cardiac arrest.

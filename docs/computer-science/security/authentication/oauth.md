@@ -130,6 +130,11 @@ It is not very popular or used nowadays.
 
 OAuth2 doesn't specify how to encrypt the communication, it expects you to have your application served with HTTPS.
 
+## SAAS
+
+- Auth0
+- [Stytch - A better way to build auth](https://stytch.com/)
+
 ## Others
 
 https://developer.okta.com/docs/concepts/api-access-management

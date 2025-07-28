@@ -247,3 +247,4 @@ These bonds listed on the stock exchanges offer flexibility in terms of liquidit
 - [How to get upto 9% returns on FD? - YouTube](https://www.youtube.com/watch?v=UQcHYsCcPfY&ab_channel=pranjalkamra)
 - [How should senior citizens invest in 2022?](https://freefincal.com/how-should-senior-citizens-invest-in-2022/)
 - [What are some tax-efficient alternatives for debt mutual funds?](https://freefincal.com/what-are-some-tax-efficient-alternatives-for-debt-mutual-funds/)
+- [Which mutual fund is an alternative to fixed deposits?](https://freefincal.com/which-mutual-fund-is-an-alternative-to-fixed-deposits/)

@@ -219,6 +219,7 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - retribution - punishment for a crime
 - devil's advocate - a person who expresses a contentious opinion in order to provoke debate or test the strength of the opposing arguments.
 - rappel - descend a rock face or other near-vertical surface by using a doubled rope coiled around the body and fixed at a higher point; abseil.
+- atypical - not typical of a particular type, group, etc.
 
 ### Shill / Shilling
 

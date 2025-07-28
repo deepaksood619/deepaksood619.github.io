@@ -57,5 +57,13 @@ With Remote Config personalization, you can automatically select Remote Config p
 - https://github.com/supabase/supabase
     - Firebase Open Source Alternative
     - [Learn Supabase, an Open-Source Firebase Alternative](https://www.freecodecamp.org/news/learn-supabase-open-source-firebase-alternative/)
+
+| Plan       | Max File Size Limit |
+| ---------- | ------------------- |
+| Free       | 50 MB               |
+| Pro        | 500 GB              |
+| Team       | 500 GB              |
+| Enterprise | Custom              |
+
 - [GitHub - instantdb/instant: The realtime client-side database](https://github.com/instantdb/instant)
 - https://counter.dev

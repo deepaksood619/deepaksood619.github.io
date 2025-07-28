@@ -93,6 +93,9 @@ You can also ask me questions about your editor selection by starting an inline 
 	- Qwen releases Qwen3-Coder, a SOTA coding model that rivals Claude Sonnet-4, GPT-4.1 & Kimi K2.
 	- Run the 480B model with Unsloth AI Dynamic 2-bit GGUFs - now just 182GB (down from 512GB). 1M context length GGUFs are also available.
 	- Achieve `>6 tokens/s` on 190GB unified memory or 158GB RAM + 24GB VRAM.
+	- [Compare Qwen 3 Coder vs. Sonnet 4 for Code Generation](https://blog.dailydoseofds.com/p/compare-qwen-3-coder-vs-sonnet-4)
+- [GitHub Spark: AI Tool That Builds & Deploys Full-Stack Apps in Minutes - YouTube](https://youtube.com/shorts/Ohi30MUcqsQ?si=EMWFPG02lpuTJ2Bo)
+- [Introducing Strands Agents, an Open Source AI Agents SDK \| AWS Open Source Blog](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/)
 
 ## SAAS
 

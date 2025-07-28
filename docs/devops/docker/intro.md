@@ -94,3 +94,7 @@ https://codefresh.io/containers/docker-anti-patterns
 - Docker compose watch
 - Docker build cloud
 - Docker scout
+
+## Others
+
+- [The Best DevOps Online Training Courses \| KodeKloud](https://kodekloud.com/)

@@ -89,6 +89,8 @@ Note: You should have at least 8 GB of RAM available to run the 7B models, 16 GB
 	- [GitHub - QwenLM/Qwen: The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.](https://github.com/QwenLM/Qwen)
 	- [Qwen (Qwen)](https://huggingface.co/Qwen)
 	- Alibaba
+- [snorTTS Indic V0](https://snorbyte.com/snortts-indic-v0)
+	- [Train a SoTA Multilingual Indic Text-to-Speech (TTS) Model for $6 in Less Than Three Hours](https://snorbyte.com/blog/train-sota-multilingual-indic-tts)
 
 #### [DeepSeek](https://www.deepseek.com/)
 
@@ -212,6 +214,7 @@ So... what's the deal with TTMs?
 - [GitHub - pollinations/pollinations: Free Open-Source Image and Text Generation](https://github.com/pollinations/pollinations)
 	- [Sur](https://sur.pollinations.ai/)
 	- [Pollinations.AI](https://pollinations.ai/)
+- [Groq is fast inference for AI builders](https://groq.com/)
 - [Together AI – The AI Acceleration Cloud - Fast Inference, Fine-Tuning & Training](https://www.together.ai/)
 	- [api.together.xyz/signin?redirectUrl=%2F](https://api.together.xyz/)
 
