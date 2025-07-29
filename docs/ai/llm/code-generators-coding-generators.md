@@ -1,5 +1,12 @@
 # Code Generators / Coding Generators
 
+## Gemini Code Assist (GCA) / Gemini CLI
+
+- `/mcp`
+- `/tools`
+- Modernization - [GitHub - codemod-com/codemod: The command line tool for building, sharing, and running codemods. From quick cleanups to complex migrations. AI-friendly, and language-agnostic.](https://github.com/codemod-com/codemod)
+	- 6-7 Million Lines of Code as context
+
 ## Github Copilot
 
 ### Commands
@@ -75,6 +82,14 @@ You can also ask me questions about your editor selection by starting an inline 
 	- [What is CodeWhisperer? - CodeWhisperer](https://docs.aws.amazon.com/codewhisperer/latest/userguide/what-is-cwspr.html)
 - [AI Code Reviews | CodeRabbit | Try for Free](https://coderabbit.ai/)
 - [AI Code Generation | Google Cloud](https://cloud.google.com/use-cases/ai-code-generation?hl=en)
+	- [Jules - An Asynchronous Coding Agent](https://jules.google/)
+	- [Google AI Studio](https://aistudio.google.com/)
+	- [Firebase Studio](https://firebase.studio/) - Firebase AI Studio
+	- [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli)
+		- npx https://github.com/google-gemini/gemini-cli
+		- **npm install -g @google/gemini-cli**
+			- gemini
+	- Old - [Introducing Duet AI for Google Cloud – an AI-powered collaborator \| Google Cloud Blog](https://cloud.google.com/blog/products/application-modernization/introducing-duet-ai-for-google-cloud)
 - [Galileo AI · Copilot for interface design](https://www.usegalileo.ai/)
 - [Cursor - The AI-first Code Editor](https://www.cursor.com/)
 - [Windsurf Editor](https://windsurf.com/)
@@ -82,7 +97,6 @@ You can also ask me questions about your editor selection by starting an inline 
 - [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli)
 - [Claude Code: Deep Coding at Terminal Velocity \\ Anthropic](https://www.anthropic.com/claude-code)
 	- [I Tested Claude Code for a Week - Here's What I Found](https://www.thetoolnerd.com/p/i-tested-claude-code-for-a-week)
-- [Firebase Studio](https://firebase.studio/)
 - [Kilo Code - Open source AI agent VS Code extension](https://kilocode.ai/)
 - [GitHub - Pythagora-io/gpt-pilot: The first real AI developer](https://github.com/Pythagora-io/gpt-pilot)
 - [Kiro: The AI IDE for prototype to production](https://kiro.dev/)
