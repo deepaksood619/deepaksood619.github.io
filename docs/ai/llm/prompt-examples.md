@@ -1,6 +1,7 @@
 # Prompt Examples
 
-[personal-tutor-prompt](education/personal-tutor-prompt.md)
+- [personal-tutor-prompt](education/personal-tutor-prompt.md)
+- [quiz-app-prompt](education/quiz-app-prompt.md)
 
 ## Prompts
 
