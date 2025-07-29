@@ -15,6 +15,7 @@
 - [Natural Language to SQL](ai/llm/natural-language-to-sql-generative-bi.md)
 - [Prompt Engineering](ai/llm/prompt-engineering.md)
 	- [personal-tutor-prompt](education/personal-tutor-prompt.md)
+	- [quiz-app-prompt](education/quiz-app-prompt.md)
 - [Prompt Examples](ai/llm/prompt-examples.md)
 - [context-engineering](ai/llm/context-engineering.md)
 - [Libraries](ai/llm/libraries.md)

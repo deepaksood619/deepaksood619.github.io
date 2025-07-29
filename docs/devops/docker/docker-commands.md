@@ -202,8 +202,10 @@ cd /var/lib/docker/volumes/druid-volume/_data/segment-cache
 
 ```bash
 docker stop $(docker ps -aq) #stop all running containers
-docker rmi $(docker images -q) #Delete all images
 docker rm -f $(docker ps -a -q) #Delete all containers
+docker images -q | xargs docker rmi #remove all unused images
+
+docker rmi $(docker images -q) #Delete all images
 docker-compose config #Check if environment variables are loaded in source
 docker ps -aq -f status=exited #Show all stopped containers
 
@@ -213,8 +215,6 @@ docker volume prune #remove docker volumes
 docker volume rm $(docker volume ls -f dangling=true -q) #docker-remove-dangling-volumes
 
 docker images -qf dangling=true | xargs docker rmi #remove all dangling images
-
-docker images -q | xargs docker rmi #remove all unused images
 
 docker builder prune -f
 
