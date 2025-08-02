@@ -1,4 +1,4 @@
-# Data Warehouse - Concepts
+# Concepts
 
 - [Intro](data-warehouses/concepts/01-intro.md)
 - [Concepts](data-warehouses/concepts/02-concepts.md)

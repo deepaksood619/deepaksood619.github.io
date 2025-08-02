@@ -239,7 +239,7 @@ https://vlang.io
 
 [GitHub - zigzap/zap: blazingly fast backends in zig](https://github.com/zigzap/zap)
 
-## .net
+## .net / dotnet
 
 .NET is a free, open-source, managed computer software framework for Windows, Linux, and macOS operating systems. ASP.NET is a server-side web-application framework designed for web development to produce dynamic web pages. .NET Core is a new version of .NET Framework.
 
@@ -252,6 +252,11 @@ https://vlang.io
 [GitHub - nunit/nunit: NUnit Framework](https://github.com/nunit/nunit)
 
 [NUnit.org](https://nunit.org/)
+
+### Libraries
+
+- [GitHub - serilog/serilog: Simple .NET logging with fully-structured events](https://github.com/serilog/serilog)
+- [Serilog — simple .NET logging with fully-structured events](https://serilog.net/)
 
 ## Others
 

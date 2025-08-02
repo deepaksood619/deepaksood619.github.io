@@ -60,7 +60,7 @@
 - [CopyCoder](https://copycoder.ai/)
 - [Lovable](https://lovable.dev/)
 	- [master Lovable AI in 30 minutes (beginner tutorial) - YouTube](https://www.youtube.com/watch?v=CfwNxDEXe6I&ab_channel=TimGabe)
-- [Fetching Title#e4rd](https://www.factory.ai/)
+- [Factory](https://www.factory.ai/)
 
 ### Others
 
