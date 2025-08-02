@@ -202,6 +202,7 @@ cd /var/lib/docker/volumes/druid-volume/_data/segment-cache
 
 ```bash
 docker stop $(docker ps -aq) #stop all running containers
+docker rmi $(docker images -q) #Delete all images (unused)
 docker rm -f $(docker ps -a -q) #Delete all containers
 docker images -q | xargs docker rmi #remove all unused images
 

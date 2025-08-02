@@ -23,6 +23,7 @@ Microproducts - [How I Sold My App For $30,000 In 4 Days | GrowthX Insider - You
 
 ## AI/ChatGPT
 
+- CodeRabbit but better pricing model (pay as you go)
 - Via SMS, get GPT Call (Hindi helper) - MedGPT, FinanceGPT, LearningGPT, CounsellorGPT, ProfessorGPT
 - Interview preparation platform from a live tutor/ai assistant
     - It can check for communication skills, depth of knowledge, etc
