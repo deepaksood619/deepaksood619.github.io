@@ -1,14 +1,15 @@
 # Quiz App Prompt
 
-# Logo Quiz App using Google ADK
+## Logo Quiz App using Google ADK
 
 An **infinite real‑time quiz**: display company logos, let users identify them, update scores live, and continue indefinitely while users can join or leave anytime.
 
-**Tech Stack**:  
-- **Backend**: Python with Google ADK (Agents) + FastAPI  
-- **Frontend**: React (UI)  
-- **Database**: PostgreSQL  
-- **Communication**: WebSockets for live leaderboard  
+**Tech Stack**:
+
+- **Backend**: Python with Google ADK (Agents) + FastAPI
+- **Frontend**: React (UI)
+- **Database**: PostgreSQL
+- **Communication**: WebSockets for live leaderboard
 - **Deployment**: Docker (backend, frontend, database)
 
 ## 1. Core Features
@@ -68,7 +69,7 @@ runner = Runner(agent=logo_agent)
 ### Backend (FastAPI + ADK)
 
 - **Endpoints**:
-    
+
     - `POST /join`: Create user session via ADK SessionService.
     - `GET /question`: Invoke `get_next_question`.
     - `POST /answer`: Invoke `check_answer` and update score.
@@ -78,13 +79,13 @@ runner = Runner(agent=logo_agent)
 ### Frontend (React)
 
 - **Pages**:
-    
+
     - **Landing**: Nickname input.
     - **Quiz**: Displays logo, options, and score.
     - **Leaderboard**: Side panel with live updates.
-        
+
 - Uses REST for initial state and WebSocket for leaderboard.
-    
+
 - State managed by Redux or Zustand.
 
 ### Database (PostgreSQL)
@@ -110,17 +111,17 @@ Seed logos or fetch dynamically.
 ## 3. Game Loop Workflow
 
 1. User joins → Backend registers session.
-    
+
 2. Backend requests a question via `get_next_question` (ADK tool).
-    
+
 3. Question sent to frontend.
-    
+
 4. User answers → Backend invokes `check_answer` (ADK tool).
-    
+
 5. Score updated in DB, leaderboard recalculated via `fetch_leaderboard`.
-    
+
 6. WebSocket broadcasts new leaderboard.
-    
+
 7. New question sent automatically; loop continues.
 
 ## 4. Tool Functions (Python)
@@ -154,36 +155,35 @@ Wrapped as ADK tools for `LogoQuizAgent`.
 ### REST
 
 - `POST /join`
-    
+
     `{ "nickname": "Deepak" }`
-    
+
     **Response**:
-    
+
     `{ "user_id": 1, "nickname": "Deepak", "score": 0 }`
-    
+
 - `GET /question`
-    
+
     `{   "question_id": 12,   "logo_url": "https://cdn.example.com/apple.png",   "options": ["Apple", "Samsung", "Sony", "Intel"] }`
-    
+
 - `POST /answer`
-    
+
     `{ "user_id": 1, "question_id": 12, "answer": "Apple" }`
-    
+
     **Response**:
-    
+
     `{ "correct": true, "new_score": 40 }`
-    
+
 - `GET /leaderboard`
-    
+
     `[   { "nickname": "Alice", "score": 120 },   { "nickname": "Bob", "score": 95 } ]`
-    
 
 ### WebSocket
 
 `ws://backend/ws/leaderboard`
 
 - Broadcast:
-    
+
     `{   "leaderboard": [     { "nickname": "Alice", "score": 130 },     { "nickname": "Bob", "score": 105 }   ] }`
 
 ## 6. Folder Structure
@@ -216,13 +216,13 @@ quiz-app/
 ## 7. Deployment Steps
 
 1. Build Docker images:
-    
+
     `docker-compose build`
-    
+
 2. Start the stack:
-    
+
     `docker-compose up`
-    
+
 3. Access frontend at `http://localhost:3000` and backend API at `http://localhost:8000`.
 
 ## 8. Optional Enhancements

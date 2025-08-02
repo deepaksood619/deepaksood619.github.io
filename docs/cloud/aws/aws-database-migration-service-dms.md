@@ -10,37 +10,31 @@ A task can consist of three major phases
 - The application of cached changes
 - Ongoing replication
 
-### Components
+## Components
 
 - Replication instance
 - Endpoint
 - Replication tasks
 
-### Migration Types
+## Migration Types
 
 - Full load (Migrate existing data) - If you can afford an outage long enough to copy your existing data, this option is a good one to choose. This option simply migrates the data from your source database to your target database, creating tables when necessary.
 - Full load + CDC (Migrate existing data and replicate ongoing changes) - This option performs a full data load while capturing changes on the source. After the full load is complete, captured changes are applied to the target. Eventually, the application of changes reaches a steady state. At this point, you can shut down your applications, let the remaining changes flow through to the target, and then restart your applications pointing at the target.
 - CDC only (Replicate data changes only) - In some situations, it might be more efficient to copy existing data using a method other than AWS DMS. For example, in a homogeneous migration, using native export and import tools might be more efficient at loading bulk data. In this situation, you can use AWS DMS to replicate changes starting when you start your bulk load to bring and keep your source and target databases in sync.
 
-https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Introduction.HighLevelView.html
+- https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Introduction.HighLevelView.html
+- https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Introduction.Components.html
+- [**https://docs.aws.amazon.com/dms/latest/userguide/CHAP_BestPractices.html**](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_BestPractices.html)
+- [Using a MySQL-compatible database as a source for AWS DMS - AWS Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.MySQL.html)
 
-https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Introduction.Components.html
-
-[**https://docs.aws.amazon.com/dms/latest/userguide/CHAP_BestPractices.html**](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_BestPractices.html)
-
-[Using a MySQL-compatible database as a source for AWS DMS - AWS Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.MySQL.html)
-
-### Loading multiple tables in parallel
+## Loading multiple tables in parallel
 
 By default, AWS DMS loads eight tables at a time. You might see some performance improvement by increasing this slightly when using a very large replication server, such as a dms.c4.xlarge or larger instance.
 
-https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Troubleshooting.html
-
-[**https://aws.amazon.com/premiumsupport/knowledge-center/dms-batch-apply-cdc-replication/**](https://aws.amazon.com/premiumsupport/knowledge-center/dms-batch-apply-cdc-replication/)
-
-https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.Redshift.html
-
-[**https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Tasks.CustomizingTasks.TaskSettings.ChangeProcessingTuning.html**](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Tasks.CustomizingTasks.TaskSettings.ChangeProcessingTuning.html)
+- https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Troubleshooting.html
+- [**https://aws.amazon.com/premiumsupport/knowledge-center/dms-batch-apply-cdc-replication/**](https://aws.amazon.com/premiumsupport/knowledge-center/dms-batch-apply-cdc-replication/)
+- https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.Redshift.html
+- [**https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Tasks.CustomizingTasks.TaskSettings.ChangeProcessingTuning.html**](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Tasks.CustomizingTasks.TaskSettings.ChangeProcessingTuning.html)
 
 ```json
 "ParallelApplyThreads": 4,
@@ -65,11 +59,11 @@ https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.Redshift.html
 // Connection settings - maxFileSize=250000 (250MB)
 ```
 
-### Schema Conversion Tool
+## Schema Conversion Tool
 
 https://docs.aws.amazon.com/SchemaConversionTool/latest/userguide/CHAP_Welcome.html
 
-### Pricing
+## Pricing
 
 Free Tier - includes up to 750 hours per month for a Single-AZ dms.t2.micro instance
 
@@ -84,31 +78,31 @@ Homogeneous data migrations - $0.0824 per migration hour
 
 https://hevodata.com/blog/aurora-to-redshift-data-migration-using-aws-dms
 
-#### Serverless
+### Serverless
 
 AWS DMS Serverless offers the flexibility and ease to migrate data without the need to provision replication instances or manually monitor use and adjust capacity. It automatically provisions, monitors, and scales migration resources to the optimal capacity needed to meet demand. DMS Serverless supports popular DMS use cases including continuous data replication, database consolidation, and migrations, even if the source and target database engines differ. It aids even the most complex migrations, including migrating tens or even hundreds of workloads simultaneously or completing ongoing data replications on AWS.
 
 [Working with AWS DMS Serverless - AWS Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Serverless.html)
 
-### Migration planning
+## Migration planning
 
 [AWS DMS Fleet Advisor](https://aws.amazon.com/dms/fleet-advisor/) is a free, fully managed capability of AWS Database Migration Service (AWS DMS). It automates migration planning and helps you [migrate database and analytics fleets](https://aws.amazon.com/products/databases/migrations/) to the cloud at scale with minimal effort. To accelerate migrations, AWS DMS Fleet Advisor automatically inventories and assesses your on-premises database and analytics server fleet and identifies potential migration paths. Using historical performance and usage patterns collected from self-managed databases, Fleet Advisor can [recommend target database engines](https://docs.aws.amazon.com/dms/latest/userguide/fa-recommendations.html) and instance options as well as estimate costs. DMS helps you confidently migrate your databases and analytics systems to AWS with virtually no downtime.
 
 AWS DMS Fleet Advisor discovers and analyzes the same source databases supported in AWS DMS, including Oracle, Microsoft SQL Server, MySQL, PostgreSQL, and more. DMS Fleet Advisor delivers results in a few hours, instead of weeks or even months, without using third-party tools or hiring migration experts.
 
-### Schema assessment and conversion
+## Schema assessment and conversion
 
 AWS DMS Schema Conversion (DMS SC) is a fully managed feature of AWS DMS that allows you to automatically assess and convert database schemas and code objects at scale with zero downtime. AWS DMS Schema Conversion supports popular heterogeneous migrations, such as [Oracle to Amazon RDS for PostgreSQL](https://docs.aws.amazon.com/dms/latest/sbs/schema-conversion-oracle-postgresql.html), [SQL Server to Amazon RDS for MySQL](https://docs.aws.amazon.com/dms/latest/sbs/schema-conversion-sql-server-mysql.html), [SQL Server to Amazon Aurora PostgreSQL-Compatible Edition,](https://docs.aws.amazon.com/dms/latest/sbs/schema-conversion-sql-server-aurora-postgresql.html) and [Oracle to Amazon Aurora MySQL-Compatible Edition](https://docs.aws.amazon.com/dms/latest/sbs/schema-conversion-oracle-aurora-mysql.html). You can save weeks or months of manual time and resources with a few clicks in the DMS console.
 
 With a few clicks, you can generate an assessment report that shows the schema conversion complexity. This report provides prescriptive guidance on how to resolve any incompatibilities between the source and target database engines. Learn more about AWS DMS Schema Conversion in the [documentation](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_SchemaConversion.html) and [how to get started.](https://docs.aws.amazon.com/dms/latest/userguide/getting-started.html)
 
-### Homogeneous Data Migration
+## Homogeneous Data Migration
 
 Homogeneous data migrations - $0.0824 per migration hour
 
 With homogeneous data migrations, you pay by the hour only for the duration of the data migration. With no replication instances to provision, you do not need to worry about over-provisioning or manually scaling capacity, saving time and cost.
 
-#### Features
+### Features
 
 - Engine Support
     - MySQL versions 5.7.x and above
@@ -174,6 +168,23 @@ mysqldump --no-data --routines --events -h SOURCE_DB_SERVER_NAME -u DMS_USER -p 
 [Migrate objects using AWS DMS | AWS re:Post](https://repost.aws/knowledge-center/dms-migrate-database-objects)
 
 [Best practices for AWS Database Migration Service - AWS Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_BestPractices.html)
+
+## Transformations
+
+[Transformation rules and actions - AWS Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Tasks.CustomizingTasks.TableMapping.SelectionTransformation.Transformations.html)
+
+- `add-column`, `include-column`, `remove-column`
+- `rename`
+- `convert-lowercase`, `convert-uppercase`
+- `add-prefix`, `remove-prefix`, `replace-prefix`
+- `add-suffix`, `remove-suffix`, `replace-suffix`
+- `define-primary-key`
+- `change-data-type`
+- `add-before-image-columns`
+- `data-masking-digits-mask`
+- `data-masking-digits-randomize`
+- `data-masking-hash-mask`
+	- The `data-masking-digits-mask`, `data-masking-digits-randomize`, and `data-masking-hash-mask` are for masking sensitive information contained in one or more columns of the table when loading to target. These transformations are only available for column rule targets. For more details, see [Using data masking to hide sensitive information](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Tasks.CustomizingTasks.TableMapping.SelectionTransformation.Masking.html)
 
 ## Links
 
