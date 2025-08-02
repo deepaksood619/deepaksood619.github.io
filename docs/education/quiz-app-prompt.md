@@ -69,7 +69,6 @@ runner = Runner(agent=logo_agent)
 ### Backend (FastAPI + ADK)
 
 - **Endpoints**:
-
     - `POST /join`: Create user session via ADK SessionService.
     - `GET /question`: Invoke `get_next_question`.
     - `POST /answer`: Invoke `check_answer` and update score.
@@ -79,13 +78,11 @@ runner = Runner(agent=logo_agent)
 ### Frontend (React)
 
 - **Pages**:
-
     - **Landing**: Nickname input.
     - **Quiz**: Displays logo, options, and score.
     - **Leaderboard**: Side panel with live updates.
-
+        
 - Uses REST for initial state and WebSocket for leaderboard.
-
 - State managed by Redux or Zustand.
 
 ### Database (PostgreSQL)
@@ -111,17 +108,11 @@ Seed logos or fetch dynamically.
 ## 3. Game Loop Workflow
 
 1. User joins → Backend registers session.
-
 2. Backend requests a question via `get_next_question` (ADK tool).
-
 3. Question sent to frontend.
-
 4. User answers → Backend invokes `check_answer` (ADK tool).
-
 5. Score updated in DB, leaderboard recalculated via `fetch_leaderboard`.
-
 6. WebSocket broadcasts new leaderboard.
-
 7. New question sent automatically; loop continues.
 
 ## 4. Tool Functions (Python)
@@ -183,7 +174,6 @@ Wrapped as ADK tools for `LogoQuizAgent`.
 `ws://backend/ws/leaderboard`
 
 - Broadcast:
-
     `{   "leaderboard": [     { "nickname": "Alice", "score": 130 },     { "nickname": "Bob", "score": 105 }   ] }`
 
 ## 6. Folder Structure
@@ -215,14 +205,8 @@ quiz-app/
 
 ## 7. Deployment Steps
 
-1. Build Docker images:
-
-    `docker-compose build`
-
-2. Start the stack:
-
-    `docker-compose up`
-
+1. Build Docker images: `docker-compose build`
+2. Start the stack: `docker-compose up`
 3. Access frontend at `http://localhost:3000` and backend API at `http://localhost:8000`.
 
 ## 8. Optional Enhancements
