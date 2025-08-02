@@ -6,7 +6,7 @@
 - https://www.freecodecamp.org/news/best-machine-learning-courses
 - [AI Engineer Roadmap – How to Learn AI in 2025 - YouTube](https://youtu.be/nYXVvK-Wmn0)
 
-## LLM
+## LLM / GenAI
 
 - [**AI Canon** | Andreessen Horowitz](https://a16z.com/2023/05/25/ai-canon/)
 - LLM - [dbdemos Build your Chat Bot with Dolly - Databricks demos](https://www.dbdemos.ai/demo.html?demoName=llm-dolly-chatbot)
@@ -21,7 +21,6 @@
 - [Jay Alammar – Visualizing machine learning one concept at a time.](https://jalammar.github.io/)
 - [GitHub - microsoft/ai-agents-for-beginners: 10 Lessons to Get Started Building AI Agents](https://github.com/microsoft/ai-agents-for-beginners)
 - [The Generative AI Learning Roadmap](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxYe_AFXQm1B_7bLZ6iVzwr02YTsRbQHx6)
-- [GitHub - HandsOnLLM/Hands-On-Large-Language-Models: Official code repo for the O'Reilly Book - "Hands-On Large Language Models"](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 - [Research papers for software engineers to transition to AI Engineering. - YouTube](http://youtube.com/post/UgkxzWqAeGgNwoB2qbqEDCsJwp_nOsK0C3qZ)
 - [Generative AI Bootcamp – Complete 65-Hour Course - YouTube](https://youtu.be/DOXJ7s1D6iE)
 - [GitHub - mlabonne/llm-course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.](https://github.com/mlabonne/llm-course) 55.4k stars
@@ -30,6 +29,21 @@
 - [GitHub - patchy631/ai-engineering-hub: In-depth tutorials on LLMs, RAGs and real-world AI agent applications.](https://github.com/patchy631/ai-engineering-hub)
 - [GitHub - rasbt/LLMs-from-scratch: Implement a ChatGPT-like LLM in PyTorch from scratch, step by step](https://github.com/rasbt/LLMs-from-scratch)
 - [I taught myself GenAI from scratch, and it made me the go-to AI expert in my org at Microsoft, and these are my favourite resources to set you up on the same path \| Shivani Virdi](https://www.linkedin.com/posts/shivanivirdi_i-taught-myself-genai-from-scratch-and-it-activity-7345678093744787457-eEIb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
+- Top 7
+	- [GitHub - HandsOnLLM/Hands-On-Large-Language-Models: Official code repo for the O'Reilly Book - "Hands-On Large Language Models"](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+	- [GitHub - punkpeye/awesome-mcp-servers: A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers)
+	- [GitHub - NirDiamant/GenAI\_Agents: This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.](https://github.com/NirDiamant/GenAI_Agents)
+	- [GitHub - GokuMohandas/Made-With-ML: Learn how to design, develop, deploy and iterate on production-grade ML applications.](https://github.com/GokuMohandas/Made-With-ML)
+	- [GitHub - dair-ai/Prompt-Engineering-Guide: 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
+	- [GitHub - microsoft/ai-agents-for-beginners: 11 Lessons to Get Started Building AI Agents](https://github.com/microsoft/ai-agents-for-beginners)
+	- [GitHub - punkpeye/awesome-mcp-clients: A collection of MCP clients.](https://github.com/punkpeye/awesome-mcp-clients)
+- Antropic - [X](https://x.com/heyshrutimishra/status/1950801812153581925)
+	- [Claude with the Anthropic API](https://anthropic.skilljar.com/claude-with-the-anthropic-api)
+	- [Claude with Amazon Bedrock](https://anthropic.skilljar.com/claude-in-amazon-bedrock)
+	- [Claude with Google Cloud's Vertex AI](https://anthropic.skilljar.com/claude-with-google-vertex)
+	- [Introduction to Model Context Protocol](https://anthropic.skilljar.com/introduction-to-model-context-protocol)
+	- [Model Context Protocol: Advanced Topics](https://anthropic.skilljar.com/model-context-protocol-advanced-topics)
+	- [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action)
 
 ## AI (Artificial Intelligence) + ML (Machine Learning)
 

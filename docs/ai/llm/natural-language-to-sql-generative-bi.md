@@ -2,6 +2,8 @@
 
 Unified NLQ (Natural Language Query)
 
+![WrenAI GenBI Architecture](../../media/Screenshot%202025-08-01%20at%207.46.43%20PM.jpg)
+
 ## Tools
 
 - [**Dataherald**](https://github.com/Dataherald/dataherald) - natural language-to-SQL engine built for enterprise-level question answering over structured data. [HN launch post](https://news.ycombinator.com/item?id=37240363).
@@ -13,6 +15,10 @@ Unified NLQ (Natural Language Query)
 	- [QueryGPT - Natural Language to SQL using Generative AI \| Uber Blog](https://www.uber.com/en-IN/blog/query-gpt/)
 	- [Uber’s AI SQL Generator for Data Insights — QueryGPT \| by codevil \| Feb, 2025 \| Medium](https://medium.com/@bilosantonela1996/ubers-ai-sql-generator-for-data-insights-querygpt-090a82bd42a7)
 	- [QueryGPT](https://querygpt.xyz/)
+- [Wren AI \| GenBI (Generative BI) & Embedded Analytics for Smarter Decisions](https://getwren.ai/)
+	- [GitHub - Canner/WrenAI: ⚡️Wren AI is your GenBI Agent, that you can query any database with natural language, get accurate SQL(Text-to-SQL), charts(Text-to-Charts) & AI-generated insights in seconds.](https://github.com/Canner/WrenAI)
+	- [GitHub - Canner/wren-engine: 🤖 The Semantic Engine for Model Context Protocol(MCP) Clients and AI Agents 🔥](https://github.com/Canner/wren-engine)
+	- [Wrenai Cloud Api Demo - a Hugging Face Space by getWrenAI](https://huggingface.co/spaces/getWrenAI/wrenai-cloud-api-demo)
 
 ## Code
 

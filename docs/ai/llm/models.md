@@ -27,10 +27,11 @@
     - [12 Days of OpenAI | OpenAI](https://openai.com/12-days/)
     - [Model Spec (2025/04/11)](https://model-spec.openai.com/2025-04-11.html)
         - [Sycophancy in GPT-4o: What happened and what we’re doing about it \| OpenAI](https://openai.com/index/sycophancy-in-gpt-4o/)
+    - [Is it possible to call external API in the OpenAI playground? - API - OpenAI Developer Community](https://community.openai.com/t/is-it-possible-to-call-external-api-in-the-openai-playground/1098018/6) - External Functions
 - Vicuna
 - Bloom
 - [PartyRock](https://partyrock.aws/)
-- Claude 2.1 from antropic with a context window of 200k tokens
+- Claude 2.1 from antropic with a context window of. 200k tokens
     - [Introducing Claude 3.5 Sonnet - Anthropic](https://www.anthropic.com/news/claude-3-5-sonnet)
     - Gemini (1.5 Pro, 1.5 Flash)
         - Gemini 2.0 Flash (free)
@@ -215,6 +216,7 @@ So... what's the deal with TTMs?
 	- [Sur](https://sur.pollinations.ai/)
 	- [Pollinations.AI](https://pollinations.ai/)
 - [Groq is fast inference for AI builders](https://groq.com/)
+- [Mammouth AI](https://mammouth.ai/)
 - [Together AI – The AI Acceleration Cloud - Fast Inference, Fine-Tuning & Training](https://www.together.ai/)
 	- [api.together.xyz/signin?redirectUrl=%2F](https://api.together.xyz/)
 

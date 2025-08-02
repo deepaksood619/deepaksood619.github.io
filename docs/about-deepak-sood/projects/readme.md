@@ -51,6 +51,7 @@
 - [AI Powered Call Quality Monitoring](about-deepak-sood/projects/39-ai-powered-call-quality-monitoring.md)
 - [Data Stack Evaluation & Optimization](about-deepak-sood/projects/38-data-stack-evaluation-optimization.md)
 - [AI ChatBot SAAS](about-deepak-sood/projects/36-ai-chatbot-saas.md)
+- [Techie Talks Podcast - Architecting Data at Scale](about-deepak-sood/projects/31-techie-talks-podcast-architecting-data-at-scale.md)
 
 #### Case Studies
 

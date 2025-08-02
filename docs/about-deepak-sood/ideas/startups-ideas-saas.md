@@ -311,6 +311,7 @@ Hyperspectral imaging
 - Hyper-Casual games
 - Zero-Profit Distributed stores
 - https://hate2wait.io
+- Take over lapping images and stich together to create a single environment for a gold store, show blind spots - Computer Vision - Security
 
 ## WIKI / PKM / Website
 
