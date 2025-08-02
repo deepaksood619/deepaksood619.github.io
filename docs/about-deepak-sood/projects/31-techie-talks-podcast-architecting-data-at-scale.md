@@ -12,15 +12,32 @@ Looking forward to our conversation! - Kuldeep
 
 Kuldeep's Question: Welcome, Deepak! With over 8 years of experience, you've seen a lot. How would you describe the core role of a modern data engineer, and how has that role evolved over your career?
 
+**My Points:**
+
+- Democratization of learning, system designs
+- Today GenAI is revolutioning the way we code at each level
+- Keep it simple
+- Architecture is important
+- Choice of data pipelines, event driven architectures, data warehouses (special mention to DuckDB).
+
 **Talking Points for You:**
 
 - Moving beyond just building pipelines to designing scalable, efficient data ecosystems.
-- The importance of leading multi-disciplinary teams (dev, ops, data science).
+- The importance of leading multi-disciplinary teams (devops, data science).
 - How you balance hands-on engineering with high-level system design.
 
 ## Part 2: Deep Dive: Architecture for Speed & Scale (Approx. 12 mins)
 
 Kuldeep's Question: Your profile mentions using microservices, GraphQL, and Kafka to enhance development speed and flexibility. Can you walk us through a project where this combination was critical? What problem were you solving?
+
+**My Points:**
+
+- 3 different technologies - Microservices, GraphQL and Kafka
+
+- It was for a startup, now a large IoT company, where you have to stream millions of data points each minute. There we need to move fast.
+- 10s of thousands of devices all over the country.
+- Druid as the data warehouse
+- Microservices are important
 
 **Talking Points for You:**
 
@@ -40,6 +57,16 @@ Kuldeep's Question: On the infrastructure side, you have expertise in tools like
 
 Kuldeep's Question: You're passionate about mentoring and coaching. What's your approach to leading technical teams, especially when working with multiple stakeholders?
 
+**My points**
+
+- Hands-on approach
+- Availability
+- Motivation
+- Letting them learn from their mistakes
+- Not spoon feeding them
+- Nudging them to the right direction
+- Extreme Ownership
+
 **Talking Points for You:**
 
 - The importance of strong communication skills in translating technical concepts to business stakeholders.
@@ -47,6 +74,10 @@ Kuldeep's Question: You're passionate about mentoring and coaching. What's your 
 - A key lesson you've learned about effective technical leadership.
 
 Kuldeep's Question: Finally, what is one piece of advice for engineers who want to specialize in data engineering and eventually lead teams as you do?
+
+**My Points**
+
+- Keep on learning, writing things, doing things and at last taking ownership.
 
 **Talking Points for You:**
 
