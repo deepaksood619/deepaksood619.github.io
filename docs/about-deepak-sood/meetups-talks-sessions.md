@@ -1,5 +1,9 @@
 # Meetups / Talks / Sessions
 
+## Techie Talks Podcast - Architecting Data at Scale (2 August 2025)
+
+[Techie Talks Podcast - Architecting Data at Scale](about-deepak-sood/projects/31-techie-talks-podcast-architecting-data-at-scale.md)
+
 ## Apache Kafka Meetup (19 July 2025)
 
 Presentation - [Building GenAI Workflow](https://drive.google.com/file/d/15iRh2uTK7jEvljHrbuj59_DZSRtQ2CF3/view?usp=sharing)

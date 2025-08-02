@@ -167,6 +167,10 @@ What are the rental patterns and lifetime value segments of customers, including
 answer the above question using the database
 ```
 
+#### Databases
+
+- [GitHub - motherduckdb/mcp-server-motherduck: MCP server for DuckDB and MotherDuck](https://github.com/motherduckdb/mcp-server-motherduck)
+
 ### Packages
 
 - [Smithery · GitHub](https://github.com/smithery-ai)
@@ -184,6 +188,7 @@ answer the above question using the database
 - [GitHub - QuantGeekDev/mongo-mcp: A mongo db server for the model context protocol (MCP)](https://github.com/QuantGeekDev/mongo-mcp)
 	- [Announcing the MongoDB MCP Server \| MongoDB](https://www.mongodb.com/blog/post/announcing-mongodb-mcp-server)
 - [GitHub - awslabs/mcp: AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.](https://github.com/awslabs/mcp)
+- [GitHub - punkpeye/awesome-mcp-clients: A collection of MCP clients.](https://github.com/punkpeye/awesome-mcp-clients)
 
 ## Tools
 

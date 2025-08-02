@@ -85,12 +85,6 @@ Open two instance of same application - **open -n MQTT.fx.app**
 - ~~Anki Flash Cards~~ -
 - ~~Anaconda navigator~~ - [~~https://conda.anaconda.org/conda-forge/~~](https://conda.anaconda.org/conda-forge/)
 - **Bombsquad**
-- ~~Alfred~~
-- [Raycast - Supercharged productivity](https://www.raycast.com/)
-
-    1. [GitHub - raycast/extensions: Everything you need to extend Raycast.](https://github.com/raycast/extensions)
-    2. [GitHub - raycast/script-commands: Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.](https://github.com/raycast/script-commands)
-
 - ~~Open MTP~~
 - ~~Android file transfer (doesn't work)~~
     - MacDroid - mac app for transfering mobile to macbook for free (not wise verse)
@@ -99,6 +93,20 @@ Open two instance of same application - **open -n MQTT.fx.app**
     - [**ShareDrop**](https://www.sharedrop.io/)
     - **Localsend**
 - Office
+
+### Spotlight Alternative
+
+- Cmd + Shift + G in Finder
+- Alfred - [Alfred - Productivity App for macOS](https://www.alfredapp.com/)
+- [Raycast - Supercharged productivity](https://www.raycast.com/)
+	1. [GitHub - raycast/extensions: Everything you need to extend Raycast.](https://github.com/raycast/extensions)
+	2. [GitHub - raycast/script-commands: Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.](https://github.com/raycast/script-commands)
+
+#### Comparision
+
+- [Alfred vs Raycast vs Monarch \| Den's Hub](https://denshub.com/en/alfred-vs-raycast-vs-monarch/)
+- [Alfred vs. Raycast: my constant debate - Josh Collinsworth blog](https://joshcollinsworth.com/blog/alfred-raycast)
+- [Alfred vs. Raycast vs. Monarch vs. LaunchBar (vs. Quicksilver) : r/macapps](https://www.reddit.com/r/macapps/comments/1ihhwtv/alfred_vs_raycast_vs_monarch_vs_launchbar_vs/)
 
 ### Google chrome
 

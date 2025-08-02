@@ -47,3 +47,4 @@ https://towardsdatascience.com/introducing-bamboolib-a-gui-for-pandas-4f6c091089
 ## Others
 
 - [GitHub - sinaptik-ai/pandas-ai: Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.](https://github.com/sinaptik-ai/pandas-ai)
+- [PandasAI - Dev Tools for AI Builders](https://pandas-ai.com/)

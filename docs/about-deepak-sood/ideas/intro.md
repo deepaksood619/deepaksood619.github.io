@@ -96,20 +96,6 @@ Far too many amazing operators spend too long working on ideas that are poor or 
 
 Hiring those people who can write well, if someone can write well, he can think well too.
 
-## Team
-
-- Vishal
-- Sahil
-- Nishant
-- Vikas / Ayush / Kamini
-- Swati / Vaibhav
-- Prakhar / Sanchit / Priyank
-- Mukesh
-- Abhishek Dhar
-- Shashank
-- Bhawani
-- Luv
-
 https://www.lennysnewsletter.com/p/validating-your-startup-idea
 
 Committing to a startup idea is possibly the most consequential decision you'll ever make. It'll impact everything they do for the next 1 to 50 years, and either lead you to fame and fortune or a brick wall to endlessly bang your head against. No pressure.
