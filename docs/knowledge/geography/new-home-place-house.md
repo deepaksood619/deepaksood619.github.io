@@ -395,6 +395,8 @@ For maa - find hobby
 - Builder transfer policy
 - Property transfer
 
+[Are Indian homebuyers building wealth or just buying liabilities? Explains consultant - India Today](https://www.indiatoday.in/amp/business/personal-finance/story/are-indian-homebuyers-growing-wealth-or-buying-liabilities-explains-consultant-2759436-2025-07-22)
+
 ## Climate resilient
 
 [World Risk Report 2022](https://repository.gheli.harvard.edu/repository/10930/)

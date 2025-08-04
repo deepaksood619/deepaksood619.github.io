@@ -190,6 +190,8 @@ Ludwig enables you to apply state-of-the-art tabular, natural language processin
 
 ## Resources
 
+**[LLM Visualization](https://bbycroft.net/llm)**
+
 [Development with Large Language Models Tutorial - OpenAI, Langchain, Agents, Chroma - YouTube](https://www.youtube.com/watch?v=xZDB1naRUlk&t=1032s)
 
 ![document-based-question-answering-system](../../media/Screenshot%202023-12-28%20at%208.00.43.PM.jpg)

@@ -175,6 +175,7 @@ TODO - 2025-03-07, 2025-04-03
 - Youtube Learning (Experimental)
 - [Sakshm AI](https://sakshm.com/)
 	- [Disha AI](https://getdisha.ai/)
+	- [Disha AI - Match Pairs](https://getdisha.ai/match-pairs)
 - [**Sensai**](https://sensai.hyperverge.org/)
 - [Cadmus](https://cadmus.io/)
 - [Infinity Learn: Your Pathway to Success in K-12, IIT-JEE & NEET Exams](https://infinitylearn.com/)

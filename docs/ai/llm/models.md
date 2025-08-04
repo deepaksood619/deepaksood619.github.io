@@ -85,6 +85,7 @@ Note: You should have at least 8 GB of RAM available to run the 7B models, 16 GB
     - Remove refusals
 - [Introduction | Mistral AI Large Language Models](https://docs.mistral.ai/)
 	- [Mistral AI](https://docs.mistral.ai/getting-started/models/models_overview/)
+	- Mistral and Mixtral are both language models developed by Mistral AI, but they differ significantly in architecture and performance. **Mistral 7B** is a smaller, more efficient model, while **Mixtral 8x7B** is a larger, more powerful "mixture of experts" model. Mixtral generally outperforms Mistral 7B in most tasks, especially those requiring reasoning and complex language understanding, but it also requires more computational resources.
 - [Introducing Nova-2: The Fastest, Most Accurate Speech-to-Text API | Deepgram](https://deepgram.com/learn/nova-2-speech-to-text-api)
 - [GitHub - QwenLM/Qwen3: Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.](https://github.com/QwenLM/Qwen3)
 	- [GitHub - QwenLM/Qwen: The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.](https://github.com/QwenLM/Qwen)
@@ -219,6 +220,7 @@ So... what's the deal with TTMs?
 - [Mammouth AI](https://mammouth.ai/)
 - [Together AI – The AI Acceleration Cloud - Fast Inference, Fine-Tuning & Training](https://www.together.ai/)
 	- [api.together.xyz/signin?redirectUrl=%2F](https://api.together.xyz/)
+- [glbgpt.com](https://www.glbgpt.com/)
 
 [10 Best Alternatives To ChatGPT: Developer Edition - Semaphore](https://semaphoreci.com/blog/chatgpt-alternatives)
 

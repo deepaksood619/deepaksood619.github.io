@@ -47,3 +47,5 @@ from langchain import OpenAI, SQLDatabase, SQLDatabaseChain
 - [The Future of Tableau-Centric Roles: What’s Next for Data Professionals in the Next Five Years (per Deep Research)? \| by Adam Mico \| Bootcamp \| Medium](https://medium.com/design-bootcamp/the-future-of-tableau-centric-roles-whats-next-for-data-professionals-in-the-next-five-years-per-e48295af2eaf)
 - **[Has Self-Serve BI Finally Arrived Thanks to AI? \| ssp.sh](https://www.ssp.sh/blog/self-service-bi-ai/)**
 - [SQL-GPT: The Dawn of a New SQL Era](https://fractal.ai/article/the-dawn-of-a-new-sql-era)
+- [GitHub - sinaptik-ai/pandas-ai: Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.](https://github.com/sinaptik-ai/pandas-ai)
+	- [PandasAI - Dev Tools for AI Builders](https://pandas-ai.com/)

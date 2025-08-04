@@ -69,6 +69,10 @@ Attachment theory
 
 [Aretto - Unlocking Ultimate Comfort For Growing Kids Feet!](https://wearetto.com/)
 
+During an episode of his show “Comedians in Cars Getting Coffee” with fellow comedian Kevin Hart, Jerry Seinfeld revealed his approach to handling questions from his children about his wealth. When his kids ask, “Are we rich?” Seinfeld’s response is characteristically direct: **"I am. You’re not."**
+
+Warren Buffett’s daughter wanted to redo her kitchen and asked for a loan from him. Buffett’s response was simple and direct: **"Why not go to the bank?"** rather than providing the funds himself.
+
 ## Aggression - When a Child Hurts Other Children
 
 - **Establish a firm rule:** "Don’t hit. Hitting hurts, and we do not hurt people."

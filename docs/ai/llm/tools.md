@@ -142,6 +142,7 @@
 - [Puch AI](https://puch.ai/)
 - [SimplAI – Scalable, Secure Agentic AI Platform to Automate Enterprise Workflows](https://simplai.ai/)
 - [Work AI for all - AI platform for agents, assistant, search](https://www.glean.com/)
+- [Gong - Revenue AI Platform](https://www.gong.io/)
 
 ## Purpose-built accelerators for generative AI
 

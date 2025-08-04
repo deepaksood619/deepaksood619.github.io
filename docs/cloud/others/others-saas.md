@@ -4,7 +4,8 @@
 - Videos - https://animoto.com
 - Stock Photos - https://unsplash.com
 - https://nimbletext.com/Live
-- [GitHub - ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev) - [Free for Developers](https://free-for.dev)
+- [GitHub - ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev)
+	- [Free for Developers](https://free-for.dev)
 - [Open Source Alternatives to Proprietary Software](https://www.opensourcealternative.to/)
 - [Business Software and Services Reviews | G2](https://www.g2.com/)
 - [Google Alerts - Monitor the Web for interesting new content](https://www.google.com/alerts)
@@ -266,3 +267,5 @@ MuleSoft is a platform that gives IT the tools to automate everything. This incl
 - [Best VPS Hosting](https://go.lightnode.com/)
 - [Home - SheerID](https://www.sheerid.com/)
 - [Code Search \| Grep by Vercel](https://grep.app/)
+- [OpenText](https://www.opentext.com/)
+- [Fathom – Fathom.io](https://fathom.io/)

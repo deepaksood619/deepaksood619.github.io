@@ -139,6 +139,8 @@ https://www.investopedia.com/terms/v/venturecapital.asp
 
 [How I Raised $2.6M WITHOUT A Product | GrowthX Insider - YouTube](https://www.youtube.com/watch?v=eyfX5et4tUM)
 
+[AI Grant](https://aigrant.com/)
+
 ## Private Equity vs. Venture Capital
 
 [Private equity](https://www.investopedia.com/terms/p/privateequity.asp) and [venture capital](https://www.investopedia.com/terms/v/venturecapital.asp)(VC) invest in different types and sizes of companies, commit different amounts of money, and claim different percentages of equity in the companies in which they invest.

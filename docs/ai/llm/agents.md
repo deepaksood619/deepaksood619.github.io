@@ -116,6 +116,7 @@ reasoning_agent = Agent(
 - [AI Agents Directory - Find and Compare AI Assistants \| AI Agents List](https://aiagentslist.com/)
 - [AI Agents Marketplace \| AI Agents Directory - Discover Best AI Agents](https://aiagentsdirectory.com/)
 - [GitHub - MotiaDev/motia: Event-based orchestration framework for agents and intelligent automations](https://github.com/MotiaDev/motia)
+	- [Motia - Unified Backend Framework for APIs, Events and AI Agents](https://www.motia.dev/)
 	- [Content Creation Workflow](https://api.filekitcdn.com/e/k7YHPN24SoxyM8nGKZnDxa/35EqtSRzEiZvk7Nw1G82iz/player)
 	- [ai-engineering-hub/motia-content-creation at main · patchy631/ai-engineering-hub · GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main/motia-content-creation)
 - [GitHub - strands-agents/sdk-python: A model-driven approach to building AI agents in just a few lines of code.](https://github.com/strands-agents/sdk-python)

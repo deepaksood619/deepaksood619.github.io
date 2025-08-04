@@ -1,11 +1,11 @@
 # Techie Talks Podcast - Architecting Data at Scale
 
-Hi Deepak,  
-  
-Thank you for agreeing to join me on the show. Your deep experience in data engineering and scaling complex systems is a topic our audience will find incredibly valuable.  
-  
-This document outlines the planned flow for our 30-minute conversation. Please use it as a guide to prepare. The goal is a natural, insightful discussion, so please feel free to share personal stories and project examples.  
-  
+Hi Deepak,
+
+Thank you for agreeing to join me on the show. Your deep experience in data engineering and scaling complex systems is a topic our audience will find incredibly valuable.
+
+This document outlines the planned flow for our 30-minute conversation. Please use it as a guide to prepare. The goal is a natural, insightful discussion, so please feel free to share personal stories and project examples.
+
 Looking forward to our conversation! - Kuldeep
 
 ## Part 1: The Data Engineer's Mindset (Approx. 8 mins)
@@ -52,6 +52,8 @@ Kuldeep's Question: On the infrastructure side, you have expertise in tools like
 - The role of Kubernetes in managing and scaling your microservices.
 - How you use Elasticsearch for search and analytics on large datasets.
 - Why Prometheus is crucial for monitoring these complex, distributed systems to ensure reliability.
+- You cannot go blind, you need observability at each level
+	- Tools like - SigNoz
 
 ## Part 3: Leadership & Final Advice (Approx. 10 mins)
 
@@ -84,3 +86,7 @@ Kuldeep's Question: Finally, what is one piece of advice for engineers who want 
 - The need to understand the full data lifecycle, not just one tool.
 - Why developing business acumen is just as important as technical skill.
 - A final key takeaway for building a successful career in this field.
+
+## Links
+
+- [Techie Talks With Kuldeep - YouTube](https://www.youtube.com/@techietalkswithkuldeep/videos)

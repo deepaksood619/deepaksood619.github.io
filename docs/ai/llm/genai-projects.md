@@ -76,3 +76,4 @@
 
 - [Generative AI Course: In-Depth Training & Mentorship with AI Pinnacle Program](https://www.analyticsvidhya.com/genaipinnacle/2/genai-projects)
 - [7 LLM Projects to Boost Your Machine Learning Portfolio - MachineLearningMastery.com](https://machinelearningmastery.com/7-llm-projects-to-boost-your-machine-learning-portfolio)
+- [Real-world gen AI use cases from the world's leading organizations \| Google Cloud Blog](https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders?e=48754805)

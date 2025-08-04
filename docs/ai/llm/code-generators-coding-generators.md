@@ -129,3 +129,5 @@ You can also ask me questions about your editor selection by starting an inline 
 - [BigCodeBench Leaderboard](https://bigcode-bench.github.io/)
 - [GitHub Copilot: The agent awakens - The GitHub Blog](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
 - [What I learned trying seven coding agents](https://www.understandingai.org/p/what-i-learned-trying-seven-coding)
+- [Era of Virtual Employees : Running Background Agents with Claude Code - Terragon, Conductor.build, Cursor](https://www.thetoolnerd.com/p/era-of-virtual-employees-running)
+- [ai-engineering-hub/sonnet4-vs-qwen3-coder at main · patchy631/ai-engineering-hub · GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main/sonnet4-vs-qwen3-coder)

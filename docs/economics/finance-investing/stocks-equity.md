@@ -67,6 +67,8 @@ You can claim exemption against any long-term capital gains tax liability if you
 
 ![image](../../media/TODO-Financial-Finance-Investing_Stocks-image7.jpg)
 
+[My Stock Portfolio Analysis: July 2025](https://freefincal.com/my-stock-portfolio-analysis-july-2025/)
+
 - Happiest Minds
 - Dixon
 - V-Guard / Havells

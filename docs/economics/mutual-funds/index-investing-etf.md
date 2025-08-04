@@ -159,6 +159,8 @@ An ETF is called an exchange-traded fund since it's traded on an exchange just l
 
 [How to CRUSH the Nifty by 10% Every Year? | Smart Beta ETF Strategies | Alpha, Momentum, Low Vol - YouTube](https://www.youtube.com/watch?v=F8YxDJISrEw)
 
+[Low Tracking Error Doesn't Guarantee Index Fund Return Matches Benchmark Return](https://freefincal.com/low-tracking-error-doesnt-guarantee-index-fund-return-matches-benchmark-return/)
+
 ![Beat Nifty](../../media/Screenshot%202024-08-07%20at%2012.22.20%20AM.jpg)
 
 ## ETFs

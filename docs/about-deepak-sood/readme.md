@@ -15,6 +15,7 @@
 - [Soft Skills](../psychology/soft-skills/readme.md)
 - [Books](../book-summaries/readme.md)
 - [Intros](about-deepak-sood/intros.md)
+- [Neha Rani Deswal](about-deepak-sood/neha-rani-deswal.md)
 - [Resume](https://bit.ly/deepak_sood_resume)
 - [Portfolio Photos](https://drive.google.com/drive/folders/1dIKxnnaoqPTuCsv21NiiiI-2Kdo14y0Q?usp=sharing)
 

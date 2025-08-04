@@ -55,6 +55,16 @@ Contextual Retrieval enhances each chunk by adding specific, explanatory context
 
 - [Better Context for your RAG with Contextual Retrieval | MLExpert - Get Things Done with AI Bootcamp](https://www.mlexpert.io/blog/rag-contextual-retrieval)
 
+#### Chunking
+
+- **Fixed Size Chunking -** The simplest approach - split text into chunks of consistent size (e.g., 100 words, 200 characters). Easy to implement but might break sentences awkwardly.
+- **Recursive Chunking -** Hierarchically splits documents, preserving structure while creating manageable chunks. Great for maintaining context across different levels of detail.
+- **Document-based Chunking -** Uses natural document markers like paragraphs, sections, or chapters as boundaries. Keeps related information together but can create wildly different chunk sizes.
+- **Semantic Chunking -** Variable-size chunks based on meaning rather than arbitrary markers. More sophisticated but computationally intensive.
+- **Late Chunking -** Embeds first, then chunks - preserving more contextual information in the vectors themselves.
+
+![Chunking Techniques](../../media/Pasted%20image%2020250803135740.png)
+
 ### GraphRAG
 
 - [Enhancing the Accuracy of RAG Applications With Knowledge Graphs | by Tomaz Bratanic | Neo4j Developer Blog | Medium](https://medium.com/neo4j/enhancing-the-accuracy-of-rag-applications-with-knowledge-graphs-ad5e2ffab663)

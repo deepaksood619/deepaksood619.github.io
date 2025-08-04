@@ -199,5 +199,6 @@ The trilemma suggests that achieving all three of these goals simultaneously is 
 - [‘Capitalism Without Capital’ Finds Strength in India - Marcellus](https://marcellus.in/blogs/capitalism-without-capital-finds-strength-in-india/)
 - [A Beautiful Deleveraging with Chinese Characteristics?](https://www.linkedin.com/pulse/beautiful-deleveraging-chinese-characteristics-ray-dalio-d7aue/)
 - [How Countries Go Broke: The Big Cycle In a 5-Minute Read](https://www.linkedin.com/pulse/how-countries-go-broke-big-cycle-tiny-nutshell-ray-dalio-flnce/)
+- [Lower wages, aging population, but still prospering: How Japan is quietly showing the world how to grow without economic growth - The Economic Times](https://m.economictimes.com/news/new-updates/lower-wages-aging-population-but-still-prospering-how-japan-is-quietly-showing-the-world-how-to-grow-without-growth/amp_articleshow/123014379.cms)
 
 ## End
