@@ -81,7 +81,7 @@ runner = Runner(agent=logo_agent)
     - **Landing**: Nickname input.
     - **Quiz**: Displays logo, options, and score.
     - **Leaderboard**: Side panel with live updates.
-        
+
 - Uses REST for initial state and WebSocket for leaderboard.
 - State managed by Redux or Zustand.
 

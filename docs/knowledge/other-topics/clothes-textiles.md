@@ -54,3 +54,7 @@ https://www.dutchlabelshop.com/en_us/blog/difference-knit-woven-fabric
 Twills can be divided into _even-sided_, _warp-faced_, and _weft-faced_. Even sided twills have the same amount of warp and weft threads visible on both sides of the fabric. Warp-faced twills have more warp threads visible on the face side, and weft-faced twills have more weft threads visible on the face side. Even-sided twills include [foulard](https://en.wikipedia.org/wiki/Foulard "Foulard") or surah, [herringbone](https://en.wikipedia.org/wiki/Herringbone_(cloth) "Herringbone (cloth)"), [houndstooth](https://en.wikipedia.org/wiki/Houndstooth "Houndstooth"), [serge](https://en.wikipedia.org/wiki/Serge_(fabric) "Serge (fabric)"), [sharkskin](https://en.wikipedia.org/wiki/Sharkskin "Sharkskin"), and twill [flannel](https://en.wikipedia.org/wiki/Flannel "Flannel"). Warp-faced twills include cavalry twill, [chino](https://en.wikipedia.org/wiki/Chino_cloth "Chino cloth"), covert, [denim](https://en.wikipedia.org/wiki/Denim "Denim"), [drill](https://en.wikipedia.org/wiki/Drill_(fabric) "Drill (fabric)"), fancy twill, [gabardine](https://en.wikipedia.org/wiki/Gabardine "Gabardine"), and lining twill.
 
 [Twill - Wikipedia](https://en.wikipedia.org/wiki/Twill)
+
+## Comforter vs Duvet
+
+[What is the difference between a comforter, duvet, blanket, quilt, bedspread, coverlet, etc, and what do you do with them? : r/NoStupidQuestions](https://www.reddit.com/r/NoStupidQuestions/comments/14sugju/what_is_the_difference_between_a_comforter_duvet/)

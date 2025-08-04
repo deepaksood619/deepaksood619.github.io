@@ -172,6 +172,8 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - Narratives
 - Treat each other well
 - Conform - conformity, conformism
+	- to obey a rule or law
+	- to behave in the same way as most other people in a group or society
 - Envy sometimes can be helpful
 - Altruistic / Altruism
 - You are in for a hell of a ride
@@ -220,6 +222,8 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - devil's advocate - a person who expresses a contentious opinion in order to provoke debate or test the strength of the opposing arguments.
 - rappel - descend a rock face or other near-vertical surface by using a doubled rope coiled around the body and fixed at a higher point; abseil.
 - atypical - not typical of a particular type, group, etc.
+- tenacity - Tenacity is the quality displayed by someone who just won't quit - who keeps trying until they reach their goal. - persistent determination
+- **Asceticism** is a lifestyle characterized by self-denial and abstinence from worldly pleasures, often for spiritual or religious reasons. It involves practices like voluntary poverty, self-discipline, and a focus on spiritual goals over material comforts.
 
 ### Shill / Shilling
 

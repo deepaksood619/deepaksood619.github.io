@@ -10,3 +10,4 @@
 - [Gemini Code Assist release notes  \|  Gemini for Google Cloud](https://cloud.google.com/gemini/docs/codeassist/release-notes)
 - [Practical Gemini CLI: Bring your own system instruction \| by Prashanth Subrahmanyam \| Google Cloud - Community \| Jul, 2025 \| Medium](https://medium.com/google-cloud/practical-gemini-cli-bring-your-own-system-instruction-19ea7f07faa2)
 - [Use agentic chat as a pair programmer  \|  Gemini Code Assist  \|  Google for Developers](https://developers.google.com/gemini-code-assist/docs/use-agentic-chat-pair-programmer)
+- [Home - Gemini Code Assist Live Demo Webinar](https://cloudonair.withgoogle.com/events/gemini-code-assist-apac-fy25q3)

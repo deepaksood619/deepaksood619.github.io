@@ -176,6 +176,14 @@ answer the above question using the database
 - [Smithery · GitHub](https://github.com/smithery-ai)
 	- [Smithery - Model Context Protocol Registry](https://smithery.ai/)
 
+### OpenAI
+
+- [https://platform.openai.com/docs/mcp](https://platform.openai.com/docs/mcp "https://platform.openai.com/docs/mcp")
+- [https://platform.openai.com/docs/guides/tools?api-mode=responses](https://platform.openai.com/docs/guides/tools?api-mode=responses "https://platform.openai.com/docs/guides/tools?api-mode=responses")
+- [https://platform.openai.com/docs/guides/tools-remote-mcp](https://platform.openai.com/docs/guides/tools-remote-mcp "https://platform.openai.com/docs/guides/tools-remote-mcp")
+- [https://platform.openai.com/docs/guides/tools-remote-mcp](https://platform.openai.com/docs/guides/tools-remote-mcp "https://platform.openai.com/docs/guides/tools-remote-mcp")[https://help.openai.com/en/articles/11487775-connectors-in-chatgpt](https://help.openai.com/en/articles/11487775-connectors-in-chatgpt "https://help.openai.com/en/articles/11487775-connectors-in-chatgpt")
+- [https://platform.openai.com/docs/guides/deep-research](https://platform.openai.com/docs/guides/deep-research "https://platform.openai.com/docs/guides/deep-research")
+
 ### Others
 
 - [servers/src/sequentialthinking at main · modelcontextprotocol/servers · GitHub](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking)

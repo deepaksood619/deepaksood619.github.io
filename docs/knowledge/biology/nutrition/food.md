@@ -423,6 +423,25 @@ It can become toxic and inedible quickly; when stored for more than 20 minutes, 
 - [Honest food review - YouTube](https://www.youtube.com/playlist?list=PLWXBW2QXy3ul0W0ODOo3NdHU6w7COn8GP)
 - [DeHaat - YouTube](https://www.youtube.com/@DeHaat)
 
+## Others
+
+### Inset Fragments
+
+**Insect fragments** are a natural and unavoidable part of many foods due to their presence during growth, harvesting, and processing. Food authorities generally consider these fragments as natural contaminants that don't pose a health risk. For example, a 16-ounce jar of peanut butter can legally contain up to 136 insect parts before being considered contaminated.
+
+Common Foods with Insect Fragments:
+
+- **Peanut Butter:** Can contain up to 136 insect parts per 16-ounce jar.
+- **Wheat Flour:** The FDA has a defect action level of 75 insect fragments per 50g of flour.
+- **Cinnamon:** The FDA allows an average of 400 or more insect fragments per 50 grams.
+- **Tomato Sauce:** The FDA allows an average of 30 or more fly eggs per 100 grams.
+- **Coffee Beans:** Insects can be found in various stages of growth within coffee berries.
+- **Fruit Juices:** Juices can be made with fruit that may contain insect fragments.
+- **Dried Fruits:** Weevils can infest and multiply in dried fruits.
+- **Spices:** Spices like cinnamon, pepper, and others can contain insect fragments.
+
+It's nearly impossible to completely eliminate insect fragments during large-scale food production.
+
 ## Links
 
 [Why I eat "expired" food - YouTube](https://www.youtube.com/watch?v=kCeuP6yG64g)

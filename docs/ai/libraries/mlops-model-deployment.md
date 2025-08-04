@@ -177,3 +177,4 @@ https://www.seldon.io
 	- MLflow
 	- KubeFlow
 - [GitHub - Meesho/BharatMLStack: BharatMLStack is an open-source, end-to-end machine learning infrastructure stack built at Meesho to support real-time and batch ML workloads at Bharat scale](https://github.com/Meesho/BharatMLStack)
+- [The Full MLOps Blueprint: Background and Foundations for ML in Production](https://www.dailydoseofds.com/mlops-crash-course-part-1/)

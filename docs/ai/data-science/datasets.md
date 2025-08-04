@@ -78,6 +78,8 @@ H and DS use similar datasets, and DS is basically the next-gen version of H. Wh
 
 - [TICKIT - Sample database - Amazon Redshift](https://docs.aws.amazon.com/redshift/latest/dg/c_sampledb.html)
 	- This small database consists of seven tables: two fact tables and five dimensions
+- [miriad/miriad-4.4M · Datasets at Hugging Face](https://huggingface.co/datasets/miriad/miriad-4.4M)
+- [Stock Market Dataset \| Kaggle](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset)
 
 ## Tools
 
