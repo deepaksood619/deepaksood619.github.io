@@ -269,3 +269,4 @@ MuleSoft is a platform that gives IT the tools to automate everything. This incl
 - [Code Search \| Grep by Vercel](https://grep.app/)
 - [OpenText](https://www.opentext.com/)
 - [Fathom – Fathom.io](https://fathom.io/)
+- [Cloud Application Platform \| Render](https://render.com/)

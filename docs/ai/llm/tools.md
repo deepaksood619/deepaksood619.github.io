@@ -2,6 +2,8 @@
 
 [GitHub - Shubhamsaboo/awesome-llm-apps: Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
+[GitHub - give-me/bookmarklets: Bookmarklet to export the content from chatbots to a PDF with a single click. Supports Claude, ChatGPT, Grok and Gemini.](https://github.com/give-me/bookmarklets)
+
 ## ChatGPT / Bard
 
 - [Meet Bard](https://bard.google.com/)

@@ -22,6 +22,42 @@ Clone all repo in organization - https://gist.github.com/potter0815/42dda83fa170
 
 [How a one line change decreased our clone times by 99% | by Pinterest Engineering | Pinterest Engineering Blog | Medium](https://medium.com/pinterest-engineering/how-a-one-line-change-decreased-our-build-times-by-99-b98453265370)
 
+### Clone all repo in an org
+
+```bash
+#!/bin/bash
+
+# ==== CONFIG ====
+ORG="your-org-name"                # Replace with your GitHub organization name
+TOKEN="ghp_xxxYourPersonalToken"   # GitHub personal access token
+DEST_DIR="$HOME/github/$ORG"       # Where to clone the repos
+
+# Create destination directory
+mkdir -p "$DEST_DIR"
+cd "$DEST_DIR" || exit
+
+# Fetch all repos and clone them
+page=1
+while true; do
+    repos=$(curl -s -H "Authorization: token $TOKEN" \
+        "https://api.github.com/orgs/$ORG/repos?per_page=100&page=$page" | jq -r '.[].ssh_url')
+
+    # Stop if no more repos
+    if [[ -z "$repos" ]]; then
+        break
+    fi
+
+    echo "$repos" | while read -r repo; do
+        echo "Cloning $repo ..."
+        git clone "$repo"
+    done
+
+    ((page++))
+done
+
+echo "✅ All repositories cloned to $DEST_DIR"
+```
+
 ## Git add origin
 
 ```bash

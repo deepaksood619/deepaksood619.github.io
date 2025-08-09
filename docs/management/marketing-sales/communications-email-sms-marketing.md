@@ -19,6 +19,10 @@ So, how do you make the most of this channel so as to guarantee maximum engageme
 - Share customer success stories and social proof to build trust in your products/services and motivate customers
 - Send out targeted emails basis interests and behavior to enhance its relevance and engage better
 
+### AMP Emails
+
+AMP email, also known as AMP for Email, is a technology that allows you to create interactive and dynamic email experiences, enabling users to take actions like filling out forms, browsing content, or making purchases directly within their inbox, rather than being redirected to a website. This enhances user engagement and provides a more seamless experience.
+
 ## Email Marketing
 
 [Stripo - FREE Email Template Builder: Drag and Drop Html Email Editor](https://stripo.email/)
@@ -275,6 +279,7 @@ https://www.gigsmedia.in
 - MailChimp
 - [lemlist \| Prospecting tool to automate multichannel outreach & get replies](https://www.lemlist.com/)
 - Twilio SendGrid (Twilio)
+- Resend
 - mailgun
 - Amazon SES
 - AWS Pinpoint
@@ -286,9 +291,9 @@ https://www.gigsmedia.in
 - https://convertkit.com
 - Gmass
 - [Pricing | Mailjet](https://www.mailjet.com/pricing/)
-- SendGrid
 - [Ecommerce Email Marketing and SMS Platform \| Omnisend](https://www.omnisend.com/)
 - [Postmark: Fast, Reliable Email Delivery Service \| SMTP \| API](https://postmarkapp.com/)
+- [GitHub - useplunk/plunk: The Open-Source Email Platform](https://github.com/useplunk/plunk)
 
 #### [Resend](https://resend.com/home)
 

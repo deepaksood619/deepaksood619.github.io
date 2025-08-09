@@ -164,3 +164,8 @@ https://github.com/deepaksood619/GitGames
 - Yahoo: https://lnkd.in/dKgyhbNE
 - Yelp: https://lnkd.in/d_6hhMS4
 - Zoom: https://lnkd.in/dquH3cKY
+- [codeKarle - YouTube](https://www.youtube.com/c/codeKarle)
+- [Low Level Design from Basics to Advanced (Some Initial Videos are in Hindi, rest in English) - YouTube](https://www.youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW)
+- [InterviewWithBunny - YouTube](https://www.youtube.com/@InterviewWithBunny)
+- [System Design Walkthroughs - YouTube](https://www.youtube.com/playlist?list=PL5q3E8eRUieWtYLmRU3z94-vGRcwKr9tM)
+- [Arpit's System Design Masterclass - Pre-requisites - YouTube](https://www.youtube.com/playlist?list=PLsdq-3Z1EPT36NJXTutvKcreetuHCr9a-)

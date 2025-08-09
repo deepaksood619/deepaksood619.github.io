@@ -14,6 +14,8 @@ Can wrongs of the past be corrected by actions of the future
 
 STRONG TAKE WHAT THEY CAN & WEAK SUFFER WHAT THEY MUST!
 
+**[Necropolitics](https://en.wikipedia.org/wiki/Necropolitics)** is a sociopolitical theory of the use of social and political power to dictate how some people may live and how some must die.
+
 ## Quotes
 
 If you want the truth to stand clear before you, never be for or against. The struggle between **for** and **against** is the mind's worst disease -- Sent-ts'an, c. 700 C.E.

@@ -12,6 +12,22 @@ Spark has another data structure, **Spark DataSets.** These are similar to DataF
 
 Transformations are one of the things you can do to an RDD in Spark. They are lazy operations that create one or more new RDDs. It's important to note that Transformations createnewRDDs because, remember, RDDs are immutable so they can't be altered in any way once they've been created. So, in essence, Transformations take an RDD as an input and perform some function on them based on what Transformation is being called, and outputs one or more RDDs. Recalling the section on lazy evaluation, as a compiler comes across each Transformation, it doesn't actually build any new RDDs, but rather constructs a chain of hypothetical RDDs that would result from those Transformations which will only be evaluated once an **Action** is called. This chain of hypothetical, or "child", RDDs, all connected logically back to the original "parent" RDD, is what a lineage graph is.
 
+### Narrow Transformation
+
+Data required to compute each output partition comes from a **single input partition** - no shuffling needed.
+
+- **Examples:** map, filter, union, coalesce
+- ﻿﻿**Performance:** Fast and pipelined
+- ﻿﻿**Use Case:** Ideal for lightweight, row-level operations
+
+### Wide Transformation
+
+Data for each output partition comes from **multiple input partitions** - requires shuffling across the network.
+
+- **Examples:** groupByKey, reduceByKey, join, distinct, repartition
+- **Performance:** Slower due to network 1/0 and stage boundaries
+- **Use Case:** Needed for aggregations, joins, and repartitioning
+
 ## Actions
 
 An Action is any RDD operation that does not produce an RDD as an output. Some examples of common Actions are doing a count of the data, or finding the max or min, or returning the first element of an RDD, etc. As was mentioned before, an Action is the cue to the compiler to evaluate the lineage graph and return the value specified by the Action

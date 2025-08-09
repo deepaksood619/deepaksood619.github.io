@@ -34,6 +34,12 @@ from langchain import OpenAI, SQLDatabase, SQLDatabaseChain
 - [pages.awscloud.com/rs/112-TZM-766/images/Altman Solon\_AWS\_Telecoms Generative AI Study.pdf](https://pages.awscloud.com/rs/112-TZM-766/images/Altman%20Solon_AWS_Telecoms%20Generative%20AI%20Study.pdf)
 - [Generative AI in Telecom: 5 Use Cases & Future Outlook](https://binmile.com/blog/generative-ai-in-telecom-industry/)
 
+## Test Prompts
+
+What are the rental patterns and lifetime value segments of customers, including their geographic clustering and seasonal preferences? answer the above question using the database
+
+[Customer Rental Pattern Analysis - Claude](https://claude.ai/share/49ca4d91-4aa7-4614-a528-29555cdc93b6)
+
 ## Links
 
 - [Natural Language to SQL | LangChain, SQL Database & OpenAI LLMs - YouTube](https://www.youtube.com/watch?v=w-eTS8YlbZ4)
