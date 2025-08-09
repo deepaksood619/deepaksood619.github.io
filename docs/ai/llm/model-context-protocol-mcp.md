@@ -140,11 +140,17 @@ Knowledge Graph Memory Server - [servers/src/memory at main · modelcontextproto
 - [AI in Obsidian: Local LLM Setup Guide in CoPilot - YouTube](https://www.youtube.com/watch?v=hOaSO_e7MYs)
 - [I started using NotebookLM with Obsidian and it’s been a game-changer](https://www.xda-developers.com/using-notebooklm-with-obsidian/)
 
-### Postgres
+### Databases
+
+#### Postgres
 
 ```bash
 brew install postgresql
 brew services start postgresql
+
+psql postgres
+psql pagila
+
 createdb pagila
 psql -d pagila -f pagila-schema.sql
 psql -d pagila -f pagila-data.sql
@@ -158,16 +164,42 @@ brew install postgres-mcp
 brew services stop postgresql
 
 pg_restore -d pagila data.dump
+
+# nasdaq data
+brew services start postgresql
 ```
 
 [GitHub - crystaldba/postgres-mcp: Postgres MCP Pro provides configurable read/write access and performance analysis for you and your AI agents.](https://github.com/crystaldba/postgres-mcp)
 
 ```sql
-What are the rental patterns and lifetime value segments of customers, including their geographic clustering and seasonal preferences?
-answer the above question using the database
+What are the rental patterns and lifetime value segments of customers, including their geographic clustering and seasonal preferences? answer the above question using the database
+
+⁠Read the data from PostgreSQL and share the summary of the data
+⁠What are the top 5 most traded stocks by total volume?
+⁠Which 5 stocks had the highest single-day gain?
+⁠Which 5 stocks had the highest single-day loss?
+Find the stocks that dropped more than 10% in a single day?
 ```
 
-#### Databases
+#### MySQL
+
+- [GitHub - benborla/mcp-server-mysql: A Model Context Protocol server that provides read-only access to MySQL databases. This server enables LLMs to inspect database schemas and execute read-only queries.](https://github.com/benborla/mcp-server-mysql) - not working
+- [GitHub - designcomputer/mysql\_mcp\_server: A Model Context Protocol (MCP) server that enables secure interaction with MySQL databases](https://github.com/designcomputer/mysql_mcp_server)
+
+```bash
+claude mcp add mcp_server_mysql \
+  -e MYSQL_HOST="127.0.0.1" \
+  -e MYSQL_PORT="3306" \
+  -e MYSQL_USER="user" \
+  -e MYSQL_PASS="password" \
+  -e MYSQL_DB="db_name" \
+  -e ALLOW_INSERT_OPERATION="false" \
+  -e ALLOW_UPDATE_OPERATION="false" \
+  -e ALLOW_DELETE_OPERATION="false" \
+  -- npx @benborla29/mcp-server-mysql
+```
+
+#### Others
 
 - [GitHub - motherduckdb/mcp-server-motherduck: MCP server for DuckDB and MotherDuck](https://github.com/motherduckdb/mcp-server-motherduck)
 
@@ -192,7 +224,6 @@ answer the above question using the database
 - [GitHub - airweave-ai/airweave: Airweave lets agents search any app](https://github.com/airweave-ai/airweave) 2.5K stars
 - [5 Powerful MCP Servers](https://aiengineering.beehiiv.com/p/5-powerful-mcp-servers)
 - [GitHub - rohitg00/kubectl-mcp-server: Chat with your Kubernetes Cluster using AI tools and IDEs like Claude and Cursor!](https://github.com/rohitg00/kubectl-mcp-server)
-- [GitHub - benborla/mcp-server-mysql: A Model Context Protocol server that provides read-only access to MySQL databases. This server enables LLMs to inspect database schemas and execute read-only queries.](https://github.com/benborla/mcp-server-mysql)
 - [GitHub - QuantGeekDev/mongo-mcp: A mongo db server for the model context protocol (MCP)](https://github.com/QuantGeekDev/mongo-mcp)
 	- [Announcing the MongoDB MCP Server \| MongoDB](https://www.mongodb.com/blog/post/announcing-mongodb-mcp-server)
 - [GitHub - awslabs/mcp: AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.](https://github.com/awslabs/mcp)

@@ -410,6 +410,7 @@ It can become toxic and inedible quickly; when stored for more than 20 minutes, 
 ## Farming
 
 - Sustenance farming
+- NPK - Nitrogen, Phosphorus, and Potassium
 - [Soya Chunks : How it's Made ? Good or Bad ?? || Explained by Farming Engineer - YouTube](https://www.youtube.com/watch?v=Jkq36eV0Fsc)
 - [मक्खन फल ने बनाया 26 साल का लड़का करोड़पति // एवोकाडो खेती Israel butter fruit nursery India Avocado - YouTube](https://www.youtube.com/watch?v=vqTOZEQq5zM)
 - [Permaculture | Andrew Millison - YouTube](https://www.youtube.com/@amillison/playlists)

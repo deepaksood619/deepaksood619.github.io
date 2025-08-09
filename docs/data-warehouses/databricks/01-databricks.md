@@ -36,3 +36,4 @@ ANSI standard SQL dialect by default
 - [Real Time Analytics | Databricks](https://www.databricks.com/glossary/real-time-analytics)
 - [Databricks Data Streaming Platform | Databricks](https://www.databricks.com/product/data-streaming)
 - [Connect Power BI to Databricks \| Databricks Documentation](https://docs.databricks.com/aws/en/partners/bi/power-bi)
+- [Building a Data App in Databricks: Automating Invoice Retrieval and PDF Delivery \| by Dilorom Abdullah \| Aug, 2025 \| Data Engineer Things](https://blog.dataengineerthings.org/building-a-data-app-in-databricks-automating-invoice-retrieval-and-pdf-delivery-bb26937615de)

@@ -173,12 +173,23 @@ To serve traffic, Amplify Hosting points to a CloudFront URL via a CNAME record.
 #### Build settings
 
 ```bash
+version: 1
 frontend:
   phases:
+    preBuild:
+      commands:
+        - npm ci --cache .npm --prefer-offline
     build:
       commands:
-       - if [ "${AWS_BRANCH}" = "main" ]; then npm run build; fi
-    - if [ "${AWS_BRANCH}" = "dev" ]; then npm run dev; fi
+        - if [ "${AWS_BRANCH}" = "master" ]; then npm run build:production; fi
+        - if [ "${AWS_BRANCH}" = "staging" ]; then npm run build:staging; fi
+  artifacts:
+    baseDirectory: dist
+    files:
+      - '**/*'
+  cache:
+    paths:
+      - .npm/**/*
 ```
 
 [Configuring build settings - AWS Amplify Hosting](https://docs.aws.amazon.com/amplify/latest/userguide/build-settings.html)
