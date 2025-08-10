@@ -43,6 +43,7 @@ After 15 years
 - [Is Investing Rs. 1.5 Lakhs in PPF Before April 5th Still Sensible?](https://freefincal.com/is-investing-rs-1-5-lakhs-in-ppf-before-april-5th-still-sensible/)
 - [Ep5 -Public Provident Fund 8 Features | Good alternative to EPF?| Investing in Govt Schemes in Hindi - YouTube](https://www.youtube.com/watch?v=2vPquiS3wqE)
 - [National Pension System \| NPS vs PPF vs MFs \| Ultimate Guide - YouTube](https://youtu.be/jSF9kdYjiYY)
+- [How to use PPF as a portfolio de-risking tool](https://freefincal.com/how-to-use-ppf-as-a-portfolio-de-risking-tool/)
 
 ## EPF Employee Provident Fund
 

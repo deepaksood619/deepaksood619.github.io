@@ -8,6 +8,8 @@ Bullying is not leadership.
 
 Leadership is not equal to management
 
+The Leader is One Who, Out of the Clutter, Brings Simplicity. Out of Discord, Harmony. And Out of Difficulty, Opportunity. - Albert Einstein
+
 [Seth Godin -- Leadership vs. Management - What it means to make a difference](https://www.youtube.com/watch?v=qzoIAJYPQwo)
 
 - results orientation

@@ -62,3 +62,5 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 - [India’s #1 Business Coach Exposes Get-Rich-Quick Lies & Real Success | F...](https://youtu.be/6gU7j1Mehgo)
 - [Why are you recommending small equity exposure even to early retirees?](https://freefincal.com/why-are-you-recommending-small-equity-exposure-even-to-early-retirees/)
 - [Why should I diversify my investment portfolio?](https://freefincal.com/why-should-i-diversify-my-investment-portfolio/)
+- [How should I invest Rs. 10 lakhs in equity mutual funds?](https://freefincal.com/how-should-i-invest-rs-10-lakhs-in-equity-mutual-funds/)
+- [You don't need a SIP, SWP or STP to invest in mutual funds!](https://freefincal.com/you-dont-need-a-sip-swp-or-stp-to-invest-in-mutual-funds/)
