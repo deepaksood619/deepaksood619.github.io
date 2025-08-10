@@ -22,6 +22,9 @@
 - [GitHub - Hannibal046/Awesome-LLM: Awesome-LLM: a curated list of Large Language Model](https://github.com/Hannibal046/Awesome-LLM)
 - ChatGPT / OpenAI
 	- [Introducing gpt-oss \| OpenAI](https://openai.com/index/introducing-gpt-oss/)
+	- GPT-5
+		- [Frontend coding with GPT-5](https://cookbook.openai.com/examples/gpt-5/gpt-5_frontend)
+		- [GPT-5 prompting guide](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide)
     - [GPT-4o - by Bugra Akyildiz - MLOps Newsletter](https://mlops.substack.com/p/gpt-4o?)
     - OpenAI o1 - [OpenAI o1 Hub | OpenAI](https://openai.com/o1/)
     - [OpenAI’s new "deep-thinking" o1 model crushes coding benchmarks - YouTube](https://www.youtube.com/watch?v=6xlPJiNpCVw)

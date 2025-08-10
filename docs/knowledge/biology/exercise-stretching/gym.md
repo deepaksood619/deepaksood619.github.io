@@ -6,6 +6,8 @@
 - compound lifts - group two mucle group per day, each muscle group twice-thrice in week
 - 2-2-4: concentric-pause-eccentric (concentration curl)
 - After 6-8 weeks add a deload week
+- Time under tension matters in weight lifting
+	- 30 pounds in 3 sec vs 30 sec, you gain a lot with 30 sec
 
 ## why biceps won't grow
 

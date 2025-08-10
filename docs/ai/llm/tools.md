@@ -28,6 +28,7 @@
 	- [How to Create YouTube Video Study Guides with NotebookLM - KDnuggets](https://www.kdnuggets.com/how-to-create-youtube-video-study-guides-with-notebooklm)
 	- [Google Gemini Deep Research + NotebookLM - Ultimate AI Combo - YouTube](https://www.youtube.com/watch?v=bZNVn2k2MV4)
 	- [Until NotebookLM, I never believed AI could be this game-changing for productivity](https://www.xda-developers.com/notebooklm-changed-view-of-ai/)
+- [storm.genie.stanford.edu](https://storm.genie.stanford.edu/) - Get a Wikipedia-like report on your topic with AI - STORM is a research prototype that supports interactive knowledge curation.
 
 ## AI Generators
 
@@ -145,6 +146,7 @@
 - [SimplAI – Scalable, Secure Agentic AI Platform to Automate Enterprise Workflows](https://simplai.ai/)
 - [Work AI for all - AI platform for agents, assistant, search](https://www.glean.com/)
 - [Gong - Revenue AI Platform](https://www.gong.io/)
+- [Synthetic Society](https://syntheticsociety.ai/)
 
 ## Purpose-built accelerators for generative AI
 
