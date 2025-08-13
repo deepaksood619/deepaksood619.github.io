@@ -147,6 +147,7 @@
 - [Work AI for all - AI platform for agents, assistant, search](https://www.glean.com/)
 - [Gong - Revenue AI Platform](https://www.gong.io/)
 - [Synthetic Society](https://syntheticsociety.ai/)
+- [#1 Intelligent Kubernetes Automation Platform – Cast AI](https://cast.ai/)
 
 ## Purpose-built accelerators for generative AI
 

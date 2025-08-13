@@ -39,6 +39,11 @@ https://towardsdatascience.com/5-advanced-visualisation-for-exploratory-data-ana
 
 [A Course in Exploratory Data Analysis](https://bayesball.github.io/EDA/)
 
+## Tools
+
+- [Orange Data Mining](https://orangedatamining.com/)
+	- [GitHub - biolab/orange3: 🍊 :bulb: Orange: Interactive data analysis](https://github.com/biolab/orange3)
+
 ## Data Analyst Roadmap
 
 - [Data Analyst Roadmap](https://roadmap.sh/data-analyst)

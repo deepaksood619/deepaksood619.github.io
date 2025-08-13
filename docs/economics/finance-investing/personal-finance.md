@@ -32,6 +32,10 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 
 - [SEBI RIA Akshay Nayak answers FAQ on investment risk](https://freefincal.com/sebi-ria-akshay-nayak-answers-faq-on-investment-risk/)
 
+## Portfolio Rebalancing
+
+[How to rebalance your portfolio? A guide - YouTube](https://www.youtube.com/watch?v=1fIxvUo44X4&ab_channel=freefincal-PrudentDIYInvesting%28freefincal%29)
+
 ## Others
 
 - Folks, I’ve some big plans of my own this year that’s going to suck the money out of my wallet. So, I’ll have to ditch this trip to Goa (adulting sucks). But come and hang out with me at home before you all go, and we’ll have a blast?
@@ -64,3 +68,4 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 - [Why should I diversify my investment portfolio?](https://freefincal.com/why-should-i-diversify-my-investment-portfolio/)
 - [How should I invest Rs. 10 lakhs in equity mutual funds?](https://freefincal.com/how-should-i-invest-rs-10-lakhs-in-equity-mutual-funds/)
 - [You don't need a SIP, SWP or STP to invest in mutual funds!](https://freefincal.com/you-dont-need-a-sip-swp-or-stp-to-invest-in-mutual-funds/)
+- [Stop worrying about market conditions and focus on goal-based risk management](https://freefincal.com/stop-worrying-about-market-conditions-and-focus-on-goal-based-risk-management/)

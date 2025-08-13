@@ -152,3 +152,5 @@ reasoning_agent = Agent(
 - [How we built our multi-agent research system \\ Anthropic](https://www.anthropic.com/engineering/built-multi-agent-research-system)
 - [ai-engineering-hub/agent-with-mcp-memory at main · patchy631/ai-engineering-hub · GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main/agent-with-mcp-memory)
 - [Enabling customers to deliver production-ready AI agents at scale \| Artificial Intelligence](https://aws.amazon.com/blogs/machine-learning/enabling-customers-to-deliver-production-ready-ai-agents-at-scale/)
+- [Mixture-of-Agents (MoA): A Breakthrough in LLM Performance - MarkTechPost](https://www.marktechpost.com/2025/08/09/mixture-of-agents-moa-a-breakthrough-in-llm-performance/)
+- [Design Systems And AI: Why MCP Servers Are The Unlock \| Figma Blog](https://www.figma.com/blog/design-systems-ai-mcp/)
