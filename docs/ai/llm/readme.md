@@ -19,6 +19,7 @@
 	- [quiz-app-prompt](education/quiz-app-prompt.md)
 - [Prompt Examples](ai/llm/prompt-examples.md)
 - [context-engineering](ai/llm/context-engineering.md)
+- [low-code-no-code-lcnc](cloud/others/low-code-no-code-lcnc.md)
 - [Libraries](ai/llm/libraries.md)
 - [Tools](ai/llm/tools.md)
 - [Code Generators](ai/llm/code-generators-coding-generators.md)

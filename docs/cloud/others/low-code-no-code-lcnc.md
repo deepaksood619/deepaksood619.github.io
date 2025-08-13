@@ -20,6 +20,8 @@
 - [Automate your work today | Zapier](https://zapier.com/)
 - [IFTTT - Automate business & home](https://ifttt.com/)
 - [Introducing **AWS App Studio** - Generative AI-Powered Low-Code App Builder | Amazon Web Services - YouTube](https://www.youtube.com/watch?v=tCT5hnxehuA)
+- [Ply \| Build Features into Your Apps](https://ply.io/)
+- [Superblocks \| Unite engineers, business teams, and IT to build secure internal apps with AI](https://www.superblocks.com/)
 
 ## Apps
 
@@ -62,6 +64,8 @@
 	- [master Lovable AI in 30 minutes (beginner tutorial) - YouTube](https://www.youtube.com/watch?v=CfwNxDEXe6I&ab_channel=TimGabe)
 - [Factory](https://www.factory.ai/)
 - [Kiro: The AI IDE for prototype to production](https://kiro.dev/)
+- [bolt.new](https://bolt.new/)
+- [CopyCoder](https://copycoder.ai/)
 
 ### Others
 

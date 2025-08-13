@@ -32,6 +32,7 @@
     - [Model Spec (2025/04/11)](https://model-spec.openai.com/2025-04-11.html)
         - [Sycophancy in GPT-4o: What happened and what we’re doing about it \| OpenAI](https://openai.com/index/sycophancy-in-gpt-4o/)
     - [Is it possible to call external API in the OpenAI playground? - API - OpenAI Developer Community](https://community.openai.com/t/is-it-possible-to-call-external-api-in-the-openai-playground/1098018/6) - External Functions
+- [Grok \| xAI](https://x.ai/grok)
 - Vicuna
 - Bloom
 - [PartyRock](https://partyrock.aws/)
@@ -95,6 +96,9 @@ Note: You should have at least 8 GB of RAM available to run the 7B models, 16 GB
 	- [GitHub - QwenLM/Qwen: The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.](https://github.com/QwenLM/Qwen)
 	- [Qwen (Qwen)](https://huggingface.co/Qwen)
 	- Alibaba
+	- Qwen3-Coder-Flash - The 30B model excels in coding & agentic tasks. Run locally with 1M context length & in full precision with just 33GB RAM.
+	- We at Unsloth AI also fixed tool-calling support for Qwen3-Coder-30B-A3B-Instruct and 480B-A3B.
+	- [Qwen3-Coder-Flash is here! \| Daniel Han \| 18 comments](https://www.linkedin.com/posts/danielhanchen_qwen3-coder-flash-is-here-the-30b-model-activity-7356701638931214337-8PgR/)
 - [snorTTS Indic V0](https://snorbyte.com/snortts-indic-v0)
 	- [Train a SoTA Multilingual Indic Text-to-Speech (TTS) Model for $6 in Less Than Three Hours](https://snorbyte.com/blog/train-sota-multilingual-indic-tts)
 

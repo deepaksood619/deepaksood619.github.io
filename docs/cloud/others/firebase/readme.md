@@ -57,6 +57,7 @@ With Remote Config personalization, you can automatically select Remote Config p
 - https://github.com/supabase/supabase
     - Firebase Open Source Alternative
     - [Learn Supabase, an Open-Source Firebase Alternative](https://www.freecodecamp.org/news/learn-supabase-open-source-firebase-alternative/)
+- [PocketBase - Open Source backend in 1 file](https://pocketbase.io/)
 
 | Plan       | Max File Size Limit |
 | ---------- | ------------------- |

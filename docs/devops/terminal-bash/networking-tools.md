@@ -76,6 +76,8 @@ get things from one computer to another, safely
 
 ```bash
 brew install magic-wormhole
+pip install magic-wormhole # windows
+
 wormhole send /path/to/file
 wormhole receive 4-yucatan-reform
 ```

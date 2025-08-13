@@ -57,3 +57,51 @@ These are the 4 key components of a context engineering system:
 The bottom line is…
 
 Context engineering is becoming the new core skill since it addresses the real bottleneck, which is not model capability, but **setting up an architecture of information.**
+
+## Providing Context
+
+6 ways to provide context to AI Agents
+
+### INSTRUCTIONS - Set the stage clearly
+
+➜ Who: Give your AI a role ("Act as a senior developer")
+➜ Why: Explain the bigger picture and business value
+➜ What: Define success criteria and expected outcomes
+
+### REQUIREMENTS - The "how-to" blueprint
+
+➜ Step-by-step processes
+➜ Style guidelines and coding standards
+➜ Performance constraints and security requirements
+➜ Response formats (JSON, plain text, etc.)
+➜ Examples of what TO do and what NOT to do
+➜ Pro tip: Negative examples are gold for fixing common mistakes!
+
+### KNOWLEDGE - Feed your AI the right information
+
+➜ External context: Industry knowledge, business models, market facts
+➜ Task context: Workflows, documentation, structured data
+➜ Think of it as giving your AI a comprehensive briefing
+
+### MEMORY - Enable your AI to remember
+
+➜ Short-term: Chat history, current reasoning steps
+➜ Long-term: User preferences, past experiences, learned procedures
+➜ Note: Memory isn't just prompt text—it's managed by your orchestration layer
+
+### TOOLS - Describe available functions clearly
+
+➜ What each tool does
+➜ How to use it properly
+➜ Expected parameters and return values
+➜ Remember: Tool descriptions are micro-prompts that guide AI reasoning!
+
+### TOOL RESULTS - The feedback loop
+
+➜ AI requests tool execution in special format
+➜ System responds with results
+➜ AI continues with enriched context
+
+My opinion: Context engineering is no longer optional, it's a key pillar in building reliable AI agents.
+
+[Context Engineering is the secret to reliable AI Agents \| Om Nalinde \| 52 comments](https://www.linkedin.com/posts/that-aum_context-engineering-is-the-secret-to-reliable-activity-7357259604847656960-Sxvc/)

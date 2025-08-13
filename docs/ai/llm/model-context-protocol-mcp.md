@@ -183,8 +183,25 @@ Find the stocks that dropped more than 10% in a single day?
 
 #### MySQL
 
+- [GitHub - executeautomation/mcp-database-server: MCP Database Server is a new MCP Server which helps connect with Sqlite, SqlServer and Posgresql Databases](https://github.com/executeautomation/mcp-database-server)
 - [GitHub - benborla/mcp-server-mysql: A Model Context Protocol server that provides read-only access to MySQL databases. This server enables LLMs to inspect database schemas and execute read-only queries.](https://github.com/benborla/mcp-server-mysql) - not working
 - [GitHub - designcomputer/mysql\_mcp\_server: A Model Context Protocol (MCP) server that enables secure interaction with MySQL databases](https://github.com/designcomputer/mysql_mcp_server)
+
+```json
+"mysql": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@executeautomation/database-server",
+        "--mysql",
+        "--host", "your-host-name",
+        "--database", "your-database-name",
+        "--port", "3306",
+        "--user", "your-username",
+        "--password", "your-password"
+      ]
+    },
+```
 
 ```bash
 claude mcp add mcp_server_mysql \

@@ -53,6 +53,8 @@ In early career, taking bets vs random job hopping is critical
 - [Jobs in Crypto & Web3 Companies | Crypto Jobs List](https://cryptojobslist.com/)
 - **IIITD AlmaIIITD Alma MaterConnect**
 - AllRemote - skuad - allremote.jobs
+- https://startup.jobs/
+	- Twilio - https://job-boards.greenhouse.io/twilio
 - https://eazyhire.in
 - https://www.bigshyft.com/jobs
 - Naukri

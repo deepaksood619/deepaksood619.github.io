@@ -132,6 +132,8 @@ Automatically add new Google Workspace users to a specific group. This ensures t
 
 [Logging in Outlook Account on Chrome Profile - Google Chrome Community](https://support.google.com/chrome/thread/153714697/logging-in-outlook-account-on-chrome-profile?hl=en)
 
+[Add a user alias domain or secondary domain - Google Workspace Admin Help](https://support.google.com/a/answer/7502379)
+
 ### Plus Addressing
 
 Gmail's "plus addressing" feature **lets you create multiple email address variations within your main account without needing new accounts or aliases**. You can simply append a "+" and any characters to your username before the "@gmail.com" address, and Gmail will deliver all emails to your inbox. This is useful for organizing, tracking, and filtering emails.
