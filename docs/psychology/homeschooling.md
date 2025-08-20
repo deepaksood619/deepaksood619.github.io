@@ -42,3 +42,4 @@
 - [How to Get Started Homeschooling | The Good and the Beautiful](https://youtu.be/STxbmGBkYrk)
 - [How to Make Homeschooling Easier | The Good and the Beautiful](https://youtu.be/vH1t2issZcM)
 - [Homeschooling with The Good and the Beautiful: What It's All About](https://youtu.be/h39iHJEz49k)
+- [Homeschooled 17-year-old refutes 40-year-old math theory, heads straight to PhD - India Today](https://www.indiatoday.in/amp/education-today/news/story/homeschooled-17-year-old-teen-hannah-cairo-refutes-math-theory-mizohata-takeuchi-conjecture-2769519-2025-08-11)

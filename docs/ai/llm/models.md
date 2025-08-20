@@ -244,3 +244,4 @@ So... what's the deal with TTMs?
 - [llama.ttf](https://fuglede.github.io/llama.ttf/)
 - [The Perfect Cheating Machine? - Cal Newport](https://calnewport.com/the-perfect-cheating-machine/)
 - [linkedin.com/company/soketlabs/?originalSubdomain=in](https://www.linkedin.com/company/soketlabs/?originalSubdomain=in)
+- [Claude Exporter - Save Claude as PDF, MD and more](https://www.claudexporter.com/en)

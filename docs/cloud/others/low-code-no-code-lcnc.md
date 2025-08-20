@@ -66,6 +66,7 @@
 - [Kiro: The AI IDE for prototype to production](https://kiro.dev/)
 - [bolt.new](https://bolt.new/)
 - [CopyCoder](https://copycoder.ai/)
+- [Emergent \| World's first agentic vibe-coding platform](https://app.emergent.sh/)
 
 ### Others
 

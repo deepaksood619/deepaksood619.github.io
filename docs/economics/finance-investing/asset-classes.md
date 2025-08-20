@@ -17,6 +17,7 @@ https://www.joinhoney.com
 
 - Active Income where the time and effort you put pays for just that time
 - Passive Income where past efforts makes you money (all time - 24x7)
+	- [Passive income is a crucial part of your retirement plan](https://freefincal.com/passive-income-is-a-crucial-part-of-your-retirement-plan/)
 
 ## Fixed Income / Debt
 

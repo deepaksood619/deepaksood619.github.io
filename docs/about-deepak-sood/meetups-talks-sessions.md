@@ -1,5 +1,21 @@
 # Meetups / Talks / Sessions
 
+## Amrita School of Artificial Intelligence Delhi NCR (20 August 2025)
+
+- Guest speaker - SWAGATHAM 2025
+- An orientation session for our 1st and 2nd year students scheduled from 1.40 pm-3.15 PM, 19th Aug - 21st Aug 2025 at Amriteshwari Auditorium, Amrita Hospital, Sector-88, Faridabad
+- Deliver an industry oriented talk along with a small handson session which will charter a path for our students in the rapidly evolving field of AI.
+- The orientation aims to provide students with insights into the practical and evolving landscape of AI, and your perspective would add immense value to this initiative. We believe your session would not only motivate the students but also help them understand the real-world relevance of their studies and the opportunities ahead.
+- Prof. Kamal Bijlani - Dean, School of Artificial Intelligence, Delhi NCR Faridabad Campus
+
+Deepak Sood
+
+- [From Zero to Hero: Understanding Data & AI - Google Slides](https://docs.google.com/presentation/d/1uk6hUqBeOGGXVYtIH0Cp-NbHuEyh2jXViawuKxmEZwg/edit?usp=sharing)
+
+Neha Rani
+
+- [Future-Proofing Your Career: The Role of Fundamentals in the AI Era - Google Slides](https://docs.google.com/presentation/d/1kQ-tq-X61yFkPOvh8exTiU7OVapdav9XIOfmJ445ob0/edit?usp=sharing)
+
 ## Techie Talks Podcast - Architecting Data at Scale (2 August 2025)
 
 [Techie Talks Podcast - Architecting Data at Scale](about-deepak-sood/projects/31-techie-talks-podcast-architecting-data-at-scale.md)

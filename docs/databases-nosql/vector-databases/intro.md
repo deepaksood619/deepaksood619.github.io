@@ -47,3 +47,10 @@ A Vector DB lets you find "closest meaning" instead of exact keyword matches by 
 - [InterviewReady | System Design Course | Gaurav Sen](https://interviewready.io/blog/vector-db-vs-relational-db)
 
 ![Vector Databases](../../media/Pasted%20image%2020240405112318.jpg)
+
+- Graph Database - [https://lnkd.in/dRGBGSxe](https://lnkd.in/dRGBGSxe)
+- Vector Database - [https://lnkd.in/d93DKJqg](https://lnkd.in/d93DKJqg)
+- Inverted Index - [https://lnkd.in/dmwVF2BD](https://lnkd.in/dmwVF2BD)
+- Sharding - [https://lnkd.in/d8Tyu9FW](https://lnkd.in/d8Tyu9FW)
+- Multi-tenancy - [https://lnkd.in/dCianKsc](https://lnkd.in/dCianKsc)
+- Relational Database - [https://lnkd.in/d3Jhq7xn](https://lnkd.in/d3Jhq7xn)

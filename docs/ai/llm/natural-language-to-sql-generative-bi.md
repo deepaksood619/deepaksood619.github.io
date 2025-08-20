@@ -19,10 +19,15 @@ Unified NLQ (Natural Language Query)
 	- [GitHub - Canner/WrenAI: ⚡️Wren AI is your GenBI Agent, that you can query any database with natural language, get accurate SQL(Text-to-SQL), charts(Text-to-Charts) & AI-generated insights in seconds.](https://github.com/Canner/WrenAI) - 9.7K
 	- [GitHub - Canner/wren-engine: 🤖 The Semantic Engine for Model Context Protocol(MCP) Clients and AI Agents 🔥](https://github.com/Canner/wren-engine)
 	- [Wrenai Cloud Api Demo - a Hugging Face Space by getWrenAI](https://huggingface.co/spaces/getWrenAI/wrenai-cloud-api-demo)
+	- [Wren AI](https://docs.getwren.ai/oss/overview/cloud_vs_self_host)
 - [GitHub - vanna-ai/vanna: 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.](https://github.com/vanna-ai/vanna) - 19.8K
 	- [Vanna AI in 100 Seconds - YouTube](https://www.youtube.com/watch?v=MR8t1egprjs&ab_channel=VannaAI)
 	- [Vanna.AI - Personalized AI SQL Agent](https://vanna.ai/)
 	- [Quickstart With Sample Data - Vanna.AI Documentation](https://vanna.ai/docs/app/)
+	- [vannaAI/demo.ipynb at main · anasmalik081/vannaAI · GitHub](https://github.com/anasmalik081/vannaAI/blob/main/demo.ipynb)
+- [GitHub - weaviate/elysia: Python package and backend for the Elysia platform app.](https://github.com/weaviate/elysia)
+	- [Elysia - Demo](https://elysia.weaviate.io/)
+	- [Elysia: Building an end-to-end agentic RAG app \| Weaviate](https://weaviate.io/blog/elysia-agentic-rag)
 
 ## Code
 

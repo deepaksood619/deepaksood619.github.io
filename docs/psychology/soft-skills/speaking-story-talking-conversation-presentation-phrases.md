@@ -80,6 +80,11 @@ Always tell stories, most visual stories are the best, and simple
         - [GitHub - ClaperCo/Claper: The ultimate tool to interact with your audience](https://github.com/ClaperCo/Claper)
     - [Menti - Mentimeter - Interactive presentation software](https://www.mentimeter.com/)
     - [Kahoot! \| Learning games \| Make learning awesome!](https://kahoot.com/)
+- [Piggy | Mobile Content Creator 🐷](https://piggy.to/)
+
+### Ideas
+
+How to be successful in tech, things that should have been taught but haven't. For normal people. Huge arbitrage option.
 
 ### Presentation Templates
 

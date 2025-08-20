@@ -129,3 +129,4 @@ The composition of the NASDAQ Composite is heavily weighted towards companies in
 ## Links
 
 - [DSP Global Equity Fund: Should you invest in this retail offshore MF from GIFT City?](https://freefincal.com/dsp-global-equity-fund-should-you-invest-in-this-retail-offshore-mf-from-gift-city/)
+- [Investing via Gift City: basic considerations](https://freefincal.com/investing-via-gift-city-basic-considerations/)

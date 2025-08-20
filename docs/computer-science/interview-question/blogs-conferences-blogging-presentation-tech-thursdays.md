@@ -85,16 +85,6 @@ https://teachable.com
 
 - Monte carlo simulation for dice roll with one dice and two dice
 
-## Presentations / Content Creation Tools
-
-https://www.slideshare.net/billkarwin/extensible-data-modeling
-
-[Piggy | Mobile Content Creator 🐷](https://piggy.to/)
-
-### Ideas
-
-How to be successful in tech, things that should have been taught but haven't. For normal people. Huge arbitrage option.
-
 ## Tech Thursdays
 
 ## Icebreakers

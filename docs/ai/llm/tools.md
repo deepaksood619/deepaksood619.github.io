@@ -148,6 +148,7 @@
 - [Gong - Revenue AI Platform](https://www.gong.io/)
 - [Synthetic Society](https://syntheticsociety.ai/)
 - [#1 Intelligent Kubernetes Automation Platform – Cast AI](https://cast.ai/)
+- [Monica - ChatGPT AI Assistant \| GPT-4o, Claude 3.7, Gemini 1.5](https://monica.im/)
 
 ## Purpose-built accelerators for generative AI
 
