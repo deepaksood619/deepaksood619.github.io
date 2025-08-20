@@ -374,6 +374,10 @@ https://en.wikipedia.org/wiki/Parasocial_interaction
 - Middle class - Aspirations
 - Lower class - Enthusiasm
 
+## Others
+
+- **Hobosexuality** refers to a pattern where someone enters a romantic relationship primarily for housing or financial support, often under the guise of a deep emotional connection. [Why urban hobosexuality is quite a thing in India now (or at least becoming one) - India Today](https://www.indiatoday.in/lifestyle/relationship/story/why-urban-hobosexuality-is-quite-a-thing-in-india-or-at-least-becoming-one-2768431-2025-08-10)
+
 ## Links
 
 - [The Almanack of Naval Ravikant](../book-summaries/the-almanack-of-naval-ravikant)

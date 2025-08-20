@@ -1,5 +1,10 @@
 # Neha Rani Deswal
 
+LinkedIn - [linkedin.com/in/neha-rani-deswal/](https://www.linkedin.com/in/neha-rani-deswal/)
+- bit.ly/neharani
+
+![Neha Rani Deswal](../media/neha-rani-deswal.png)
+
 ## Intro 1 - Short
 
 Neha is a Software Engineer 2 at Microsoft, where she’s spent over five years on the Azure VMware Solutions team. She specializes in building scalable backend services and core resource provider functionalities that power Azure’s compute platform. Her work leverages modern engineering tools like GitHub Copilot and automation agents, helping drive productivity and innovation across critical cloud infrastructure.

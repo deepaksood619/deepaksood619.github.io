@@ -98,3 +98,4 @@ The architecture is a standard [transformer network](https://en.wikipedia.org/wi
 - [I got fooled by AI-for-science hype—here's what it taught me](https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres)
 - [Why Finishing with AI Feels Harder Than Starting- My Confessions](https://www.thetoolnerd.com/p/why-finishing-with-ai-feels-harder)
 - [Artificial Intelligence (AI) : 20 Must Know Terminology (Basics to Advanced)](https://www.thetoolnerd.com/p/artificial-intelligence-ai-20-must-know-terminology-thetoolnerd)
+- [I think this is one of the best moments to be an AI/ML Engineer! \| Alex Razvant](https://www.linkedin.com/posts/arazvant_i-think-this-is-one-of-the-best-moments-to-activity-7363125145726517250-QJ3N?)

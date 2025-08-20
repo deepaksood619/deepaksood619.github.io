@@ -69,3 +69,4 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 - [How should I invest Rs. 10 lakhs in equity mutual funds?](https://freefincal.com/how-should-i-invest-rs-10-lakhs-in-equity-mutual-funds/)
 - [You don't need a SIP, SWP or STP to invest in mutual funds!](https://freefincal.com/you-dont-need-a-sip-swp-or-stp-to-invest-in-mutual-funds/)
 - [Stop worrying about market conditions and focus on goal-based risk management](https://freefincal.com/stop-worrying-about-market-conditions-and-focus-on-goal-based-risk-management/)
+- [What's a Reasonable Amount to Spend for a Wedding?](https://freefincal.com/whats-a-reasonable-amount-to-spend-for-a-wedding/)

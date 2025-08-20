@@ -60,6 +60,13 @@ https://python-poetry.org/docs
 
 https://flask.palletsprojects.com/en/0.12.x/tutorial/packaging/#tutorial-packaging
 
+## Upgrade requirements.txt
+
+```bash
+pip install pur
+pur -r requirements.txt
+```
+
 ## Others
 
 [virtualenv-and-pip](python/python-intro/virtualenv-and-pip.md)

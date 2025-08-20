@@ -124,6 +124,7 @@ All Accounts
             - Secured Loans
             - Unsecured Loans
             - Bank Overdraft Account
+                - [What is a bank overdraft account and when to use it](https://freefincal.com/what-is-a-bank-overdraft-account-and-when-to-use-it/)
 
 ## Cheatsheet
 

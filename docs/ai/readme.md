@@ -34,6 +34,9 @@ Interactive - [FirstMark | 2024 MAD (ML/AI/Data) Landscape](https://mad.firstmar
 
 ## AGI (Artificial General Intelligence) / Sentient / Intelligence Explosion / Technological singularity / Superintelligence
 
+- Current - ANI - Artificial Narrow Intelligence
+- ASI — Artificial Super Intelligence
+
 AGI will be intellectually, morally, ethically and creatively superior to humans in every conceivable way
 
 An "intelligence explosion" refers to a hypothetical scenario where a self-improving AI system could rapidly and exponentially increase its intelligence, surpassing human intelligence. This concept, also known as the "singularity," suggests that the initial superintelligent machine could design even better machines, leading to a cascade of intelligence growth.

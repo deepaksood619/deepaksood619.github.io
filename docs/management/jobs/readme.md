@@ -252,6 +252,7 @@ Here are 30 websites to find remote jobs that pay in USD:
 - https://relevel.com
 - jain.arunabh@nirvanaerecycling.com
 - **Salaries -** [https://www.levels.fyi/#](https://www.levels.fyi/)
+- [Automate Job Applications with AI - JobCopilot](https://jobcopilot.com/)
 
 ### How to apply
 

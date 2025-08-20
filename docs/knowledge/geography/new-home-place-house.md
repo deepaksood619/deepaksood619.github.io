@@ -332,7 +332,7 @@ For maa - find hobby
 
 [Difference between carpet area, built-up area, super built-up area](https://housing.com/news/real-estate-basics-part-1-carpet-area-built-up-area-super-built-up-area/)
 
-## Buying vs Renting Home / Buy vs Rent
+## Buying vs Renting Home / Buy vs Rent. / Rent vs Buy
 
 - People spend more on their own home, so cost of living increases
 - If you have a small kid, live in rented home, so you don't care more for walls, etc
@@ -354,6 +354,7 @@ For maa - find hobby
 	- [Zero1 - Rent vs EMI Debate - Google Sheets](https://docs.google.com/spreadsheets/d/1stvkV2mcw61zC3q8U1ghmwxZL6_J0CD8y3psANujn38/edit?usp=sharing)
 - [Is it better for a young family to rent than to buy a home?](https://freefincal.com/is-it-better-for-a-young-family-to-rent-than-to-buy-a-home/)
 - [Why Owning Property is Safer than Renting in Old Age: A Real-Life Story](https://freefincal.com/why-owning-property-is-safer-than-renting-in-old-age-a-real-life-story/)
+- [Rs 80,000 EMI or Rs 35,000 rent? One Reddit post has everyone rethinking their financial and life choices - The Economic Times](https://m.economictimes.com/magazines/panache/rs-80000-emi-or-rs-35000-rent-one-reddit-post-has-everyone-rethinking-their-life-and-financial-choices/amp_articleshow/123259518.cms?amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#amp_tf=From%20%251%24s&aoh=17552313359425&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fm.economictimes.com%2Fmagazines%2Fpanache%2Frs-80000-emi-or-rs-35000-rent-one-reddit-post-has-everyone-rethinking-their-life-and-financial-choices%2Farticleshow%2F123259518.cms)
 
 ## Documents / Property Investing
 

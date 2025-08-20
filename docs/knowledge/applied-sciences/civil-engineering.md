@@ -53,3 +53,4 @@ Habitat - 67 - [How a 23-Year-Old Solved Urban Sprawl - YouTube](https://www.you
 - [Jackhammer - Wikipedia](https://en.wikipedia.org/wiki/Jackhammer)
 - [Mivan Shuttering क्या होती है? | Aluminum Formwork and Its Components - YouTube](https://www.youtube.com/watch?v=lti2g-yAuwQ)
 	- [What Is Mivan Construction| Its Advantages | How To Stop Wealth Destruction - YouTube](https://www.youtube.com/watch?v=ylb0Uu659Lo)
+- [AI Takeoff Software with Estimating Capabilities — Kreo Software](https://www.kreo.net/)

@@ -72,3 +72,14 @@ Designing a product involves several stages that help ensure the successful deve
 - **Disposal Strategies:** Plan for the product's end-of-life, including recycling or disposal.
 
 Throughout these stages, effective communication and collaboration among cross-functional teams (design, engineering, marketing, etc.) are crucial for success. Additionally, staying agile and adaptable to changes based on user feedback and market dynamics is key to designing a successful product.
+
+## MVP (Minimum Viable Product)
+
+![Minimum Viable Product](../../media/Pasted%20image%2020250816223454.png)
+
+- **Avoid Big Bang** delivery for complex, innovative product development. Do it iteratively and incrementally. You knew that already. But are you actually doing it?
+- **Start by identifying your skateboard** – the earliest testable product. Aim for the clouds, but swallow your pride and start by delivering the skateboard.
+- **Avoid the term MVP**. Be more explicit about what you’re actually talking about. Earliest testable/usable/lovable is just one example, use whatever terms are least confusing to your stakeholders.
+- Continuous Buyable Product
+
+[Making sense of MVP (Minimum Viable Product) - and why I prefer Earliest Testable/Usable/Lovable - Crisp's Blog](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
