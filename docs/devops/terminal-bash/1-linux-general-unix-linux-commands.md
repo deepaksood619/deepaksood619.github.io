@@ -825,7 +825,7 @@ tar -zcvf backup-ipynb-$(date +%Y-%m-%d).tar.gz folder_to_zip
 tar -zcf backup-ipynb-$(date +%Y-%m-%d).tar.gz folder_to_zip   # no output - without v
 
 brew install rar
-  unrar x.rar
+  unrar x file.rar
 ```
 
 ## df - report file system disk space usage
