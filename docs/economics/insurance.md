@@ -89,6 +89,7 @@ https://joinditto.in
 ## Health Insurance
 
 - [Health insurance policy - You need to change immediately! Health insurance will be rejected? - YouTube](https://www.youtube.com/watch?v=A0NjCGEDrcI)
+- [Why your base health policy and super top-up policy should have the same renewal date!](https://freefincal.com/why-your-base-health-policy-and-super-top-up-policy-should-have-the-same-renewal-date/)
 
 ## Others
 

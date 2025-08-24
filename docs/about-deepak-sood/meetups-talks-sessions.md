@@ -7,6 +7,7 @@
 - Deliver an industry oriented talk along with a small handson session which will charter a path for our students in the rapidly evolving field of AI.
 - The orientation aims to provide students with insights into the practical and evolving landscape of AI, and your perspective would add immense value to this initiative. We believe your session would not only motivate the students but also help them understand the real-world relevance of their studies and the opportunities ahead.
 - Prof. Kamal Bijlani - Dean, School of Artificial Intelligence, Delhi NCR Faridabad Campus
+- Dr Divyanshu
 
 Deepak Sood
 
@@ -15,6 +16,8 @@ Deepak Sood
 Neha Rani
 
 - [Future-Proofing Your Career: The Role of Fundamentals in the AI Era - Google Slides](https://docs.google.com/presentation/d/1kQ-tq-X61yFkPOvh8exTiU7OVapdav9XIOfmJ445ob0/edit?usp=sharing)
+
+[#ai #artificialintelligence #amritauniversity #swagatham2025 #futureofwork #industryacademia \| Deepak Sood](https://www.linkedin.com/posts/deepaksood619_ai-artificialintelligence-amritauniversity-activity-7365115770546163712-L4PQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 
 ## Techie Talks Podcast - Architecting Data at Scale (2 August 2025)
 

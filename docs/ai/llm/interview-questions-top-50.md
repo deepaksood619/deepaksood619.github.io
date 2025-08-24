@@ -259,9 +259,10 @@ Parameter-Efficient Fine-Tuning (PEFT) updates only a small subset of parameters
 
 RAG involves:
 
-1. Retrieval: Fetching relevant documents using query embeddings.
-2. Ranking: Sorting documents by relevance.
-3. Generation: Using retrieved context to generate accurate responses.
+1. Indexing
+2. Retrieval: Fetching relevant documents using query embeddings.
+3. Ranking: Sorting documents by relevance.
+4. Generation: Using retrieved context to generate accurate responses.
 
 RAG enhances factual accuracy in tasks like question answering.
 
