@@ -245,6 +245,7 @@ claude mcp add mcp_server_mysql \
 	- [Announcing the MongoDB MCP Server \| MongoDB](https://www.mongodb.com/blog/post/announcing-mongodb-mcp-server)
 - [GitHub - awslabs/mcp: AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.](https://github.com/awslabs/mcp)
 - [GitHub - punkpeye/awesome-mcp-clients: A collection of MCP clients.](https://github.com/punkpeye/awesome-mcp-clients)
+- [kagent \| Bringing Agentic AI to cloud native](https://kagent.dev/)
 
 ## Tools
 

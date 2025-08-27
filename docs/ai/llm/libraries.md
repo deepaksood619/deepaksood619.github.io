@@ -23,6 +23,8 @@
 1. [LiteLLM](https://github.com/BerriAI/litellm) - call any LLM using OpenAI format, and more
 2. [PyApp](https://github.com/ofek/pyapp) - deploy self contained Python applications anywhere
 3. [Taipy](https://github.com/Avaiga/taipy) - build UIs for data apps, even in production
+	1. [Unlocking the Power of What-If Analysis for BI, Data, and AI with Taipy - YouTube](https://youtu.be/lqBhJATrsiw?si=7a3MqcMph-v1UuQ6)
+	2. [Taipy — Build Python Data & BI web applications](https://taipy.io/)
 4. [MLX](https://github.com/ml-explore/mlx) - machine learning on Apple silicon with NumPy-like API
 5. [Unstructured](https://github.com/Unstructured-IO/unstructured) - the ultimate toolkit for text preprocessing
 6. [ZenML](https://github.com/zenml-io/zenml) and [AutoMLOps](https://github.com/GoogleCloudPlatform/automlops) - portable, production-ready MLOps pipelines

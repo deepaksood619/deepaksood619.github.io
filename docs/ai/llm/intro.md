@@ -99,3 +99,5 @@ The architecture is a standard [transformer network](https://en.wikipedia.org/wi
 - [Why Finishing with AI Feels Harder Than Starting- My Confessions](https://www.thetoolnerd.com/p/why-finishing-with-ai-feels-harder)
 - [Artificial Intelligence (AI) : 20 Must Know Terminology (Basics to Advanced)](https://www.thetoolnerd.com/p/artificial-intelligence-ai-20-must-know-terminology-thetoolnerd)
 - [I think this is one of the best moments to be an AI/ML Engineer! \| Alex Razvant](https://www.linkedin.com/posts/arazvant_i-think-this-is-one-of-the-best-moments-to-activity-7363125145726517250-QJ3N?)
+- [LLMs + Coding Agents = Security Nightmare](https://garymarcus.substack.com/p/llms-coding-agents-security-nightmare)
+- [ChatGPT](https://chatgpt.com/c/68ab3ffd-cb3c-832d-9552-069e81e78c13)

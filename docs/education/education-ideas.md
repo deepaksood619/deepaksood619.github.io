@@ -60,7 +60,7 @@ https://www.notboring.co/p/primer-the-ambitious-home-for-ambitious
     - Taxes
     - Insurance
     - Personal finance
-- Coding
+- Coding - https://www.codedex.io/
 - Cooking
 - Basic home repair
 - Self defence

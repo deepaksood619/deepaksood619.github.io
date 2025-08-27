@@ -1,5 +1,17 @@
 # Meetups / Talks / Sessions
 
+## Firebolt Meetup (20 Sept 2025)
+
+- Firebolt - DevRelSquad
+
+## ZERO-DAY HackwithIndia NIET Speaker Session (29th August 2025)
+
+[Future-Proofing Your Career: The Role of Fundamentals in the AI Era - Deepak - Google Slides](https://docs.google.com/presentation/d/1TByWcli5eTrK5cdJCchSqy9vr5bI1tDCHhQOIj9X5q4/edit?usp=sharing)
+
+This session will be a platform where cutting-edge ideas meet youthful curiosity. With the theme: “Inspiring the Next Generation through Technology & Innovation” the event aims to spark creativity, encourage bold thinking, and equip students with the vision to shape tomorrow’s world.
+
+![NIET](../media/WhatsApp%20Image%202025-08-27%20at%2022.30.56.jpeg)
+
 ## Amrita School of Artificial Intelligence Delhi NCR (20 August 2025)
 
 - Guest speaker - SWAGATHAM 2025
@@ -22,6 +34,8 @@ Neha Rani
 ## Techie Talks Podcast - Architecting Data at Scale (2 August 2025)
 
 [Techie Talks Podcast - Architecting Data at Scale](about-deepak-sood/projects/31-techie-talks-podcast-architecting-data-at-scale.md)
+
+[#tech #podcast #devops #ai #leadership #innovation #saas #founderstories #techtalk #devsecops #dataanalytics #cloudcomputing #interview #technology #opstree #techietalkswithkuldeep #buildpiper \| Techie Talks with Kuldeep](https://www.linkedin.com/feed/update/urn:li:activity:7365982673636372480/)
 
 ## Apache Kafka Meetup (19 July 2025)
 

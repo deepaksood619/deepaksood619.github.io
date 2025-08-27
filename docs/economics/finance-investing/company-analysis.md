@@ -67,6 +67,7 @@ NSE: RAYMONDLSL
 - [2 stocks India’s Warren Buffett has held for 10 Years… and won’t sell even in this market - Stock Insights News \| The Financial Express](https://www.financialexpress.com/market/stock-insights/2-stocks-indias-warren-buffett-has-held-for-10-years-and-wont-sell-even-in-this-market/3783454/#google_vignette)
 	- Carysil Ltd
 	- Shaily Engineering Plastics Ltd (SEPL)
+- Avenue Supermarts - Dmart - [Dmart is dead. Long live Dmart. - Stock Insights News \| The Financial Express](https://www.financialexpress.com/market/stock-insights/dmart-is-dead-long-live-dmart/3951370/)
 
 ## Links
 

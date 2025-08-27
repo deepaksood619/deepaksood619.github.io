@@ -61,6 +61,9 @@
     - Coding test (2 question 30 mins)
 - LinkedIn
 - https://www.hackerrank.com/products/developer-skills-platform/interview-free
+- [The world’s leader in technical interviewing](https://karat.com/)
+	- [Be an Interview Engineer](https://karat.com/become-an-interview-engineer/)
+	- [Becoming an interview engineer · Hao's learning log](https://blog.hao.dev/becoming-an-interview-engineer)
 
 ## Applicant tracking software/platforms
 

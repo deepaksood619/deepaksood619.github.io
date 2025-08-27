@@ -246,6 +246,10 @@ PCOD (Polycystic Ovarian Disease) and PCOS (Polycystic Ovary Syndrome) are both 
 
 ADHD, or Attention-Deficit/Hyperactivity Disorder, is a neurodevelopmental condition characterized by symptoms of inattention, hyperactivity, and impulsivity. These symptoms can manifest in different ways and impact various aspects of a person's life.
 
+## Allergy / Allergies
+
+**Sublingual immunotherapy (SLIT)** is a needle-free treatment for allergies that involves placing a dose of allergen extract, either as a tablet or drops, under the tongue to increase tolerance to the allergen over time. Approved for grass, ragweed, and dust mite allergies, SLIT works by gradually exposing the immune system to small amounts of allergens, which calms the allergic response and reduces symptoms like sneezing, runny nose, and itchy eyes. It's a convenient, at-home treatment for those who prefer to avoid allergy shots.
+
 ## Links
 
 [Bacterial vs. Viral Infections: What’s the Difference?](https://www.healthline.com/health/bacterial-vs-viral-infections)
