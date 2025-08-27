@@ -1,5 +1,7 @@
 # Personal Finance
 
+If you have to think about buying something then it means you cannot afford it! -- MJ DeMarco
+
 ## 4 pillars
 
 #### Protection
@@ -70,3 +72,4 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 - [You don't need a SIP, SWP or STP to invest in mutual funds!](https://freefincal.com/you-dont-need-a-sip-swp-or-stp-to-invest-in-mutual-funds/)
 - [Stop worrying about market conditions and focus on goal-based risk management](https://freefincal.com/stop-worrying-about-market-conditions-and-focus-on-goal-based-risk-management/)
 - [What's a Reasonable Amount to Spend for a Wedding?](https://freefincal.com/whats-a-reasonable-amount-to-spend-for-a-wedding/)
+- [Unrealistic aspirations will make us poor even if we earn in Lakhs!](https://freefincal.com/unrealistic-aspirations-will-make-us-poor-even-if-we-earn-in-lakhs/)

@@ -1,6 +1,8 @@
 # Low-Code / No-Code Platforms / LCNC
 
 - [n8n](technologies/others/n8n.md)
+- [GitHub - simstudioai/sim: Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.](https://github.com/simstudioai/sim)
+	- [Sim](https://www.sim.ai/)
 - Medium Code
 - https://uxplanet.org/how-frontend-works-in-the-era-of-no-code-top-6-visual-development-tools-ae5c22b14f5d
 - https://github.com/kairichard/awesome-nocode-lowcode

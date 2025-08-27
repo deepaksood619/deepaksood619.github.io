@@ -150,6 +150,8 @@ https://www.wordstream.com/serp
 
 [Schema.org - Schema.org](https://schema.org/)
 
+[Parallel Web Systems \| Enterprise Deep Research API](https://parallel.ai/)
+
 ## Rich Results
 
 Rich results are experiences on Google surfaces, such as Search, that go beyond the standard blue link. Rich results can include carousels, images or other non-textual elements.

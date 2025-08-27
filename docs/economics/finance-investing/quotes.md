@@ -47,6 +47,8 @@ I don't want returns in % I want returns in X
 
 Debt is a hedge against inflation
 
+If you have to think about buying something then it means you cannot afford it! -- MJ DeMarco
+
 Us dollars as back-up currency in case of war
 
 Investing should be more like watching paint dry or watching grass grow. If you want excitement, take $800 and go to Las Vegas

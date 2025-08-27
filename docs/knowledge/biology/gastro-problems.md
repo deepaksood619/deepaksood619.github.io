@@ -37,6 +37,7 @@ https://www.medicalnewstoday.com/articles/180120.php
 ## Others
 
 - **Short-chain fatty acids (SCFAs)** are primarily produced by gut bacteria through the fermentation of dietary fiber in the large intestine. These SCFAs, including acetate, propionate, and butyrate, are crucial for maintaining gut health and have implications for overall well-being.
+- [Entamoeba histolytica Infection - StatPearls - NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK557718/)
 
 ## Tests
 

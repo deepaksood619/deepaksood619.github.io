@@ -44,9 +44,13 @@
 9. India: 785 metric tons ($46.41 billion)
 10. Netherlands: 612 metric tons ($36.18 billion)
 
+The United States holds the largest official gold reserves in the world, followed by Germany, Italy, and France, with countries like Russia and China also having significant holdings. In contrast, Indian households hold a massive amount of gold, estimated to be around 25,000 to 27,000 tonnes, far exceeding India's official central bank reserves of roughly 800-850 tonnes. This highlights the significant role gold plays in Indian culture as a store of wealth, in addition to its role in central bank reserves for national financial security.
+
 [Which World Countries Have the Most Gold?](https://www.madisontrust.com/information-center/which-world-countries-have-the-most-gold/)
 
 [What Countries Have the Largest Gold Reserves?](https://www.investopedia.com/ask/answers/040715/what-countries-have-largest-gold-reserves.asp)
+
+[Gold reserve - Wikipedia](https://en.m.wikipedia.org/wiki/Gold_reserve)
 
 ## Continent wise household wealth
 

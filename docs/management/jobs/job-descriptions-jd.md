@@ -1,6 +1,8 @@
 # Job Descriptions JD
 
-If we can share a linkedin job post from Linkedin Stashfin account, thatwould be great. I can reshare the post in my circles.
+- **Professional working experience using Cursor, GitHub Copilot, or another agentic AI solution for software development**
+
+If we can share a linkedin job post from official Linkedin account, that would be great. I can reshare the post in my circles.
 
 Also some JD templates that I find very attractive and clean.
 

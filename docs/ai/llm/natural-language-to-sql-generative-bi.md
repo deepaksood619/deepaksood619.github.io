@@ -20,6 +20,7 @@ Unified NLQ (Natural Language Query)
 	- [GitHub - Canner/wren-engine: 🤖 The Semantic Engine for Model Context Protocol(MCP) Clients and AI Agents 🔥](https://github.com/Canner/wren-engine)
 	- [Wrenai Cloud Api Demo - a Hugging Face Space by getWrenAI](https://huggingface.co/spaces/getWrenAI/wrenai-cloud-api-demo)
 	- [Wren AI](https://docs.getwren.ai/oss/overview/cloud_vs_self_host)
+	- [The Wren AI Blog - Wren AI vs. Vanna: The Enterprise Guide to Choosing a Text-to-SQL Solution](https://getwren.ai/post/wren-ai-vs-vanna-the-enterprise-guide-to-choosing-a-text-to-sql-solution)
 - [GitHub - vanna-ai/vanna: 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.](https://github.com/vanna-ai/vanna) - 19.8K
 	- [Vanna AI in 100 Seconds - YouTube](https://www.youtube.com/watch?v=MR8t1egprjs&ab_channel=VannaAI)
 	- [Vanna.AI - Personalized AI SQL Agent](https://vanna.ai/)

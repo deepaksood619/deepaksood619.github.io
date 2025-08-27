@@ -355,3 +355,4 @@ Discovery commerce is the equivalent of 'I'm feeling lucky' in Google searches. 
 - [Make ₹50 Lakhs in 50 Days | E-Commerce/Business Masterclass - YouTube](https://www.youtube.com/watch?v=N3rZ6glHKTQ)
 - [How Do Indian Founders make 100 Crores Selling Their Companies? - YouTube](https://www.youtube.com/watch?v=zrq7kczXpXQ)
 - [Personal finance tips for entrepreneurs and small business owners](https://freefincal.com/personal-finance-tips-for-entrepreneurs-and-small-business-owners/)
+- [Did OpenAI Just Kill Dhruv Rathee’s AI Fiesta in 24 Hours? \| by Ankit Sharma \| Aug, 2025 \| Medium](https://medium.com/@exitfund/did-openai-just-kill-dhruv-rathees-ai-fiesta-in-24-hours-fe4b9c7732cc)

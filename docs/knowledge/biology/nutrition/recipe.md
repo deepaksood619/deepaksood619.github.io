@@ -121,6 +121,8 @@
 
 [Khichdi Recipe | Simple & Healthy Khichdi | Masala Khichdi Recipe | Comfort Food | Chef Kunal Kapur - YouTube](https://www.youtube.com/watch?v=TvTMsUeC-z4&ab_channel=KunalKapur)
 
+[Just Oats & Spinach! No Flour, No Sugar, No Yeast – Lose 15kg Fast! - YouTube](https://www.youtube.com/watch?v=A_gUfK4Y_qA&ab_channel=Nourish%26Savor)
+
 ### Oats
 
 Oats - 1.5 amount of water, cook for 5 mins
