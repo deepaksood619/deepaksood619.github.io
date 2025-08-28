@@ -129,6 +129,7 @@
 - The Golden Road : How Ancient India Transformed the World
 - The Great Convergence: Asia, the West, and the Logic of One World by Kishore Mahbubani
 - The great gatsby
+- The Kite Runner is the debut novel of Afghan-American author Khaled Hosseini
 - The milionaire next door: the surprising secrets of America's Wealthy - Thomas Stanley
 - The Millionaire Real Estate Agent: It's Not About the Money It's About Being the Best You Can Be
 - The obstacle in the way by Ryan Holiday

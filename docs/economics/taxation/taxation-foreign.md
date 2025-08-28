@@ -2,6 +2,12 @@
 
 [Foreign Exchange Explained.](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxJV-DziYCl4tF4vRedUdxTx3zszD8H1en)
 
+## Salary
+
+- [Advance tax calculation under Income tax for freelancers opting for 44ADA.- A how to and why to. : r/IndiaInvestments](https://www.reddit.com/r/IndiaInvestments/comments/16fz07q/advance_tax_calculation_under_income_tax_for/)
+- [Taxes as a software consultant with a US based firm : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/16nlsoi/taxes_as_a_software_consultant_with_a_us_based/)
+- [Taxation of Foreign Source Income](https://cleartax.in/s/taxation-of-foreign-source-income)
+
 ## Foreign Stocks
 
 ### ITR Form to disclose foreign investments

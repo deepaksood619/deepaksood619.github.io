@@ -1,4 +1,4 @@
-# # Data Quality
+# Data Quality
 
 - What kinds of data quality problems?
 - How can we detect problems with the data?
@@ -36,3 +36,8 @@
     - Same person with multiple email addresses
 - Data cleaning
     - Process of deaing with duplicate data issues
+
+## Imbalanced Data
+
+- [Fixing Imbalanced Data Issues](https://businessanalytics.substack.com/p/fixing-imbalanced-data-issues)
+- [Welcome to imbalanced-learn documentation!](https://imbalanced-learn.org/)

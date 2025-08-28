@@ -73,3 +73,4 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 - [Stop worrying about market conditions and focus on goal-based risk management](https://freefincal.com/stop-worrying-about-market-conditions-and-focus-on-goal-based-risk-management/)
 - [What's a Reasonable Amount to Spend for a Wedding?](https://freefincal.com/whats-a-reasonable-amount-to-spend-for-a-wedding/)
 - [Unrealistic aspirations will make us poor even if we earn in Lakhs!](https://freefincal.com/unrealistic-aspirations-will-make-us-poor-even-if-we-earn-in-lakhs/)
+- [17 years of mutual fund investing: My Journey and lessons learned](https://freefincal.com/17-years-of-mutual-fund-investing-my-journey-and-lessons-learned/)

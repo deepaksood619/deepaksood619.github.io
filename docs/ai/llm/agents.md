@@ -126,6 +126,8 @@ reasoning_agent = Agent(
 - [GitHub - weaviate/elysia: Python package and backend for the Elysia platform app.](https://github.com/weaviate/elysia)
 	- [Elysia - Demo](https://elysia.weaviate.io/)
 	- [Elysia: Building an end-to-end agentic RAG app \| Weaviate](https://weaviate.io/blog/elysia-agentic-rag)
+- **[GitHub - emcie-co/parlant: LLM agents built for control. Designed for real-world use. Deployed in minutes.](https://github.com/emcie-co/parlant)**
+- [GitHub - openai/agents.md: AGENTS.md — a simple, open format for guiding coding agents](https://github.com/openai/agents.md)
 
 ![AI Agents Landscape](../../media/Pasted%20image%2020250114143214.jpg)
 
@@ -157,3 +159,5 @@ reasoning_agent = Agent(
 - [Enabling customers to deliver production-ready AI agents at scale \| Artificial Intelligence](https://aws.amazon.com/blogs/machine-learning/enabling-customers-to-deliver-production-ready-ai-agents-at-scale/)
 - [Mixture-of-Agents (MoA): A Breakthrough in LLM Performance - MarkTechPost](https://www.marktechpost.com/2025/08/09/mixture-of-agents-moa-a-breakthrough-in-llm-performance/)
 - [Design Systems And AI: Why MCP Servers Are The Unlock \| Figma Blog](https://www.figma.com/blog/design-systems-ai-mcp/)
+- [Agentic Systems 101: Fundamentals, Building Blocks, and How to Build Them (Part A)](https://www.dailydoseofds.com/ai-agents-crash-course-part-1-with-implementation/)
+	- [ai-engineering-hub/agent-with-mcp-memory at main · patchy631/ai-engineering-hub · GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main/agent-with-mcp-memory)

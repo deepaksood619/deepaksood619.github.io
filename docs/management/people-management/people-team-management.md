@@ -22,6 +22,8 @@ Fool me once, shame on you. Fool me twice, shame on me. Fool me three times, sha
 
 Train people well enough so they can leave. Treat them well enough, so they don't want to.
 
+There are people who make things happen, people who watch things happen, and people who wonder what happened
+
 ## What When How
 
 - **What** are you going to do

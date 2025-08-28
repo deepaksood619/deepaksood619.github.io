@@ -403,4 +403,6 @@ A Distributed System is one in which the failure of a computer you didn't even k
 15. Estimates are not promises
 16. Ship early, iterate often
 
+[Is this even Possible ??? 😂 #codelevate #saas #softwaredevelopment #developer #saasfounder - YouTube](https://www.youtube.com/shorts/I596doHoUi0)
+
 ## End

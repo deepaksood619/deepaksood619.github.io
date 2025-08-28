@@ -52,7 +52,7 @@ https://pymysql.readthedocs.io/en/latest/modules/cursors.html
 
 https://pythontic.com/database/mysql/connection%20pooling
 
-## # Singleton Class
+## Singleton Class
 
 ```python
  import pymysql.cursors

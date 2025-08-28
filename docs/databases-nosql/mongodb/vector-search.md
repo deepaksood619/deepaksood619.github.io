@@ -53,3 +53,7 @@ Yes, Atlas Vector Search can query any kind of data that can be turned into an e
 [google-research/scann at master · google-research/google-research · GitHub](https://github.com/google-research/google-research/tree/master/scann)
 
 - ScaNN (Scalable Nearest Neighbors) is a method for efficient vector similarity search at scale.
+
+## Others
+
+- [turbopuffer](https://turbopuffer.com/)

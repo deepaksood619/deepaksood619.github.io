@@ -109,3 +109,8 @@ https://www.codecademy.com/learn/learn-phaser
 jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
 
 https://github.com/aws/jsii
+
+## Others
+
+- [Elysia - Ergonomic Framework for Humans \| ElysiaJS](https://elysiajs.com/)
+	- [GitHub - elysiajs/elysia: Ergonomic Framework for Humans](https://github.com/elysiajs/elysia)

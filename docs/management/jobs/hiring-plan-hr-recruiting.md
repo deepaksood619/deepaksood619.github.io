@@ -64,6 +64,7 @@
 - [The world’s leader in technical interviewing](https://karat.com/)
 	- [Be an Interview Engineer](https://karat.com/become-an-interview-engineer/)
 	- [Becoming an interview engineer · Hao's learning log](https://blog.hao.dev/becoming-an-interview-engineer)
+- [Zinterview.AI \| AI-powered Interviewer](https://zinterview.ai/)
 
 ## Applicant tracking software/platforms
 

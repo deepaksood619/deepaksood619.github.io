@@ -254,7 +254,7 @@ assert sum([3241,9408,7209,9806,6517,2033]) == 38214
 ```python
 conda install faker
 
-## # basic
+## basic
 
 from faker import Faker
 fake = Faker()
@@ -265,7 +265,7 @@ fake.address()
 
 fake.text()
 
-## # providers
+## providers
 
 from faker import Faker
 from faker.providers import internet
@@ -275,7 +275,7 @@ fake.add_provider(internet)
 
 print(fake.ipv4_private())
 
-## # localization
+## localization
 
 from faker import Faker
 
@@ -283,7 +283,7 @@ fake = Faker('hi_IN')
 
 fake.name()
 
-## # fake past datetime
+## fake past datetime
 
 fake.past_datetime(start_date='-10y').strftime('%Y-%m-%d %H:%M:%S')
 ```

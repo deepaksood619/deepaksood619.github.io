@@ -18,3 +18,9 @@ a powerful search and analytics engine based on Apache Lucene. It's mainly used 
 - Higher resource usage for large-scale setups
 
 Note: Elasticsearch is not purpose-built for AI-native vector tasks. and Weaviate can handle it all because it supports hybrid search(Semantic+keyword matching)
+
+## Others
+
+- [turbopuffer](https://turbopuffer.com/)
+	- [turbopuffer · GitHub](https://github.com/turbopuffer)
+	- [Turbopuffer: Fast search on object storage \| Hacker News](https://news.ycombinator.com/item?id=40916786)

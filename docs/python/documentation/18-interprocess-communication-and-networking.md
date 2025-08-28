@@ -106,7 +106,7 @@ asyncio.get_event_loop().run_until_complete(download_all_sites(sites))
 duration = time.time() - start_time
 print(f"Downloaded {len(sites)} sites in {duration} seconds")
 
-## # default number of sessions = 100
+## default number of sessions = 100
 
 # Can be changed
 async with aiohttp.ClientSession(connector=aiohttp.TCPConnector(limit=10)) as session:
