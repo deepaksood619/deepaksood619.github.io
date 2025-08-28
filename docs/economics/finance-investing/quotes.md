@@ -11,6 +11,8 @@ Temperament - A person’s character, especially as it affects the way he/she be
 
 Money begets Money
 
+Money is a drug. The more you have, the more you want to have.
+
 Two types of investors - The one who knows that they don't know, others who don't know that they don't know.
 
 Always think about Ideal world, as to what will happen in ideal world

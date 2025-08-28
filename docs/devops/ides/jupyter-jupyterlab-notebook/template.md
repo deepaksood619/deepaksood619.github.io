@@ -31,7 +31,7 @@ pd.set_option("display.max_columns", 120)
 
 logging.basicConfig(level=logging.INFO, stream=sys.stdout)
 
-## # file browse
+## file browse
 
 from ipywidgets import FileUpload
 

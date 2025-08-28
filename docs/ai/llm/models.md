@@ -184,36 +184,6 @@ So... what's the deal with TTMs?
 - [Hugging Face - The AI community building the future.](https://huggingface.co/)
 - [sentence-transformers/all-MiniLM-L6-v2 · Hugging Face](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 
-## Model Evaluation / Model Monitoring
-
-- [LMSYS Chatbot Arena (Multimodal): Benchmarking LLMs and VLMs in the Wild](https://lmarena.ai/)
-- [Hugging Face Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
-- [Alpaca Eval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/)
-- [GitHub - tatsu-lab/alpaca\_eval: An automatic evaluator for instruction-following language models. Human-validated, high-quality, cheap, and fast.](https://github.com/tatsu-lab/alpaca_eval)
-- [A Gentle Introduction to LLM Evaluations - Elena Samuylova - YouTube](https://www.youtube.com/live/ac6ZB5QEwGU)
-- [Eureka: OSS Framework to evaluate LLMs - by Bugra Akyildiz](https://mlops.substack.com/p/eureka-oss-framework-to-evaluate)
-- [The Needle In a Haystack Test. Evaluating the performance of RAG… | by Aparna Dhinakaran | Towards Data Science](https://towardsdatascience.com/the-needle-in-a-haystack-test-a94974c1ad38)
-	- [GitHub - gkamradt/LLMTest\_NeedleInAHaystack: Doing simple retrieval from LLM models at various context lengths to measure accuracy](https://github.com/gkamradt/LLMTest_NeedleInAHaystack)
-	- [The Needle In a Haystack Test: Evaluating the Performance of LLM RAG Systems - Arize AI](https://arize.com/blog-course/the-needle-in-a-haystack-test-evaluating-the-performance-of-llm-rag-systems/)
-	- [Unlocking precision: The "Needle-in-a-Haystack" test for LLM evaluation](https://labelbox.com/guides/unlocking-precision-the-needle-in-a-haystack-test-for-llm-evaluation/)
-	- [The Needle in the Haystack Test and How Gemini Pro Solves It | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/the-needle-in-the-haystack-test-and-how-gemini-pro-solves-it)
-- [GitHub - huggingface/evaluation-guidebook: Sharing both practical insights and theoretical knowledge about LLM evaluation that we gathered while managing the Open LLM Leaderboard and designing lighteval!](https://github.com/huggingface/evaluation-guidebook)
-
-### Tools
-
-- [**Fiddler Auditor**](https://github.com/fiddler-labs/fiddler-auditor) - a tool to evaluate the robustness of language models.
-- [**ragas**](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines.
-	- Objective metrics, intelligent test generation, and data-driven insights for LLM apps
-	- [Evaluating RAG Applications with RAGAs | by Leonie Monigatti | Towards Data Science](https://towardsdatascience.com/evaluating-rag-applications-with-ragas-81d67b0ee31a)
-- [**tvalmetrics**](https://github.com/TonicAI/tvalmetrics) - Metrics to evaluate the quality of responses of your Retrieval Augmented Generation (RAG) applications.
-- [GitHub - openai/evals: Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.](https://github.com/openai/evals)
-- **[Langfuse](https://langfuse.com/)**
-    - [Open source LLM observability, analytics, prompt management, evaluations, tests, monitoring, logging, tracing, LLMOps. Langfuse: the LLM engineering platform. Debug, analyze and iterate together](https://github.com/langfuse/langfuse)
-    - [10 min Walkthrough of Langfuse – Open Source LLM Observability, Evaluation, and Prompt Management - YouTube](https://www.youtube.com/watch?v=2E8iTvGo9Hs)
-- [GitHub - comet-ml/opik: Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.](https://github.com/comet-ml/opik)
-- [GitHub - traceloop/openllmetry: Open-source observability for your LLM application, based on OpenTelemetry](https://github.com/traceloop/openllmetry)
-- [GitHub - evidentlyai/evidently: Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.](https://github.com/evidentlyai/evidently)
-
 ## SAAS Models
 
 - [Vertex AI | Google Cloud](https://cloud.google.com/vertex-ai)

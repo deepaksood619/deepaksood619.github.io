@@ -1,9 +1,12 @@
-# Evaluation / Benchmarking
+# Evaluation / Benchmarking / Monitoring
 
 ## LLM Evaluation / Monitoring
 
 - [GitHub - langfuse/langfuse: 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23](https://github.com/langfuse/langfuse)
 	- [Langfuse](https://langfuse.com/)
+	- [10 min Walkthrough of Langfuse – Open Source LLM Observability, Evaluation, and Prompt Management - YouTube](https://www.youtube.com/watch?v=2E8iTvGo9Hs)
+	- [LLM-as-a-Judge Evaluation - Langfuse](https://langfuse.com/docs/evaluation/evaluation-methods/llm-as-a-judge)
+	- [LLM Monitoring and Observability: Hands-on with Langfuse \| Towards Data Science](https://towardsdatascience.com/llm-monitoring-and-observability-hands-on-with-langfuse/)
 - [**DeepEval**](https://github.com/confident-ai/deepeval) - a simple-to-use, open-source evaluation framework for LLM applications.
 - [Adaline - Iterate, evaluate, deploy, and monitor prompts](https://www.adaline.ai/)
 - [LangSmith](https://www.langchain.com/langsmith)
@@ -17,6 +20,27 @@
 	- [Model Evaluation Suite Quickstart — Deepchecks Documentation](https://docs.deepchecks.com/en/stable/tabular/auto_tutorials/quickstarts/plot_quick_model_evaluation.html)
 	- [GitHub - Arize-ai/phoenix: AI Observability & Evaluation](https://github.com/Arize-ai/phoenix)
 	- [TruLens for LLMs](https://www.trulens.org/)
+- [LMSYS Chatbot Arena (Multimodal): Benchmarking LLMs and VLMs in the Wild](https://lmarena.ai/)
+- [Hugging Face Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+- [Alpaca Eval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/)
+- [GitHub - tatsu-lab/alpaca\_eval: An automatic evaluator for instruction-following language models. Human-validated, high-quality, cheap, and fast.](https://github.com/tatsu-lab/alpaca_eval)
+- [A Gentle Introduction to LLM Evaluations - Elena Samuylova - YouTube](https://www.youtube.com/live/ac6ZB5QEwGU)
+- [Eureka: OSS Framework to evaluate LLMs - by Bugra Akyildiz](https://mlops.substack.com/p/eureka-oss-framework-to-evaluate)
+- [The Needle In a Haystack Test. Evaluating the performance of RAG… | by Aparna Dhinakaran | Towards Data Science](https://towardsdatascience.com/the-needle-in-a-haystack-test-a94974c1ad38)
+	- [GitHub - gkamradt/LLMTest\_NeedleInAHaystack: Doing simple retrieval from LLM models at various context lengths to measure accuracy](https://github.com/gkamradt/LLMTest_NeedleInAHaystack)
+	- [The Needle In a Haystack Test: Evaluating the Performance of LLM RAG Systems - Arize AI](https://arize.com/blog-course/the-needle-in-a-haystack-test-evaluating-the-performance-of-llm-rag-systems/)
+	- [Unlocking precision: The "Needle-in-a-Haystack" test for LLM evaluation](https://labelbox.com/guides/unlocking-precision-the-needle-in-a-haystack-test-for-llm-evaluation/)
+	- [The Needle in the Haystack Test and How Gemini Pro Solves It | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/the-needle-in-the-haystack-test-and-how-gemini-pro-solves-it)
+- [GitHub - huggingface/evaluation-guidebook: Sharing both practical insights and theoretical knowledge about LLM evaluation that we gathered while managing the Open LLM Leaderboard and designing lighteval!](https://github.com/huggingface/evaluation-guidebook)
+- [**Fiddler Auditor**](https://github.com/fiddler-labs/fiddler-auditor) - a tool to evaluate the robustness of language models.
+- [**ragas**](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines.
+	- Objective metrics, intelligent test generation, and data-driven insights for LLM apps
+	- [Evaluating RAG Applications with RAGAs | by Leonie Monigatti | Towards Data Science](https://towardsdatascience.com/evaluating-rag-applications-with-ragas-81d67b0ee31a)
+- [**tvalmetrics**](https://github.com/TonicAI/tvalmetrics) - Metrics to evaluate the quality of responses of your Retrieval Augmented Generation (RAG) applications.
+- [GitHub - openai/evals: Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.](https://github.com/openai/evals)
+- [GitHub - comet-ml/opik: Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.](https://github.com/comet-ml/opik)
+- [GitHub - traceloop/openllmetry: Open-source observability for your LLM application, based on OpenTelemetry](https://github.com/traceloop/openllmetry)
+- [GitHub - evidentlyai/evidently: Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.](https://github.com/evidentlyai/evidently)
 
 ## Key Aspects of LLM Evaluation
 

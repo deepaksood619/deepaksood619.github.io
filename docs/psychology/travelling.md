@@ -31,6 +31,10 @@ Travel is fun, so it is not mysterious that we like it. What _is_ mysterious is 
 
 [The Case Against Travel | The New Yorker](https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel)
 
+[Vacation or Scam? - YouTube](https://www.youtube.com/shorts/g2Gjy30Wvrs)
+
+- Vacation after bacche is not a vacation but a change of location
+
 ## Links
 
 - [The Technium: 50 Years of Travel Tips](https://kk.org/thetechnium/50-years-of-travel-tips/)

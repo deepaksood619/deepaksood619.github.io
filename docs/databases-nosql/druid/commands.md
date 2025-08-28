@@ -45,7 +45,7 @@ http://localhost:8083/druid/historical/v1/readiness
 ```python
 docker exec -it druid-historical bash
 
-## # first remove segment-cache and then segments
+## first remove segment-cache and then segments
 
 cd /var/druid/segment-cache and cd /var/druid/segments
 remove last 20 days of segments

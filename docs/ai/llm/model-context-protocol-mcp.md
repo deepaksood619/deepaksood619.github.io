@@ -219,6 +219,8 @@ claude mcp add mcp_server_mysql \
 #### Others
 
 - [GitHub - motherduckdb/mcp-server-motherduck: MCP server for DuckDB and MotherDuck](https://github.com/motherduckdb/mcp-server-motherduck)
+- [Firebolt MCP Server: Connect Your Data Warehouse to AI](https://www.firebolt.io/blog/unlock-conversational-data-interaction-firebolt-mcp-server-for-advanced-llm-integration)
+- Context7, Task Master, GitHub
 
 ### Packages
 

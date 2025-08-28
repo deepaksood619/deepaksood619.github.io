@@ -115,6 +115,8 @@
 
 - [GitHub - infiniflow/**ragflow**: RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.](https://github.com/infiniflow/ragflow)
 - [GitHub - langchain-ai/langgraph: Build resilient language agents as graphs.](https://github.com/langchain-ai/langgraph)
+- [GitHub - stanfordnlp/dspy: DSPy: The framework for programming—not prompting—language models](https://github.com/stanfordnlp/dspy)
+	- [DSPy](https://dspy.ai/)
 - [GitHub - run-llama/llama\_index: LlamaIndex is the leading framework for building LLM-powered agents over your data.](https://github.com/run-llama/llama_index)
 
 #### Graphiti

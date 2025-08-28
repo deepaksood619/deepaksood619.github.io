@@ -77,6 +77,7 @@ https://www.investopedia.com/terms/u/unrealizedgain.asp
 	- Till 50 lakh of LTCG, buy NHAI bonds, get 5% interest rate with 5 year lock in and only pay taxes on interest earned on NHAI bonds and principle which was going to be taxed becomes tax free.
 - [Section 54F of Income Tax Act: Capital Gains Can Be Invested Multiple Times To Buy A New Residential House Property](https://cleartax.in/s/invest-multiple-capital-gains-on-buying-new-house-property)
 - [Claiming Capital Gains Exemption? Watch Out for This Common Slip](https://freefincal.com/claiming-capital-gains-exemption-watch-out-for-this-common-slip/)
+- [Selling Property? Don’t Miscalculate Your Section 54 Reinvestment Amount](https://freefincal.com/selling-property-dont-miscalculate-your-section-54-reinvestment-amount/)
 
 ### Points
 

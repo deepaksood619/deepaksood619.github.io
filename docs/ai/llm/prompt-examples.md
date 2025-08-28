@@ -20,7 +20,7 @@ Generate LinkedIn Post on Topic # Topic/Title .I am assigning you as Social Medi
 
 Generate a LinkedIn post related to # Topic. Generate 3 paragraphs with max 3 sentences. Start each with one matching emoji to the content of the paragraph. Highlight the following # Aspects
 
-Generate a LinkedIn post discussing # Your Chosen Topic. Share my insights, experiences, or opinions in a concise and engaging manner. Encourage my network to join the conversation by commenting with their thoughts or experiences. Use relevant hashtags to increase visibility. # LinkedIn # # Additional Hashtags
+Generate a LinkedIn post discussing # Your Chosen Topic. Share my insights, experiences, or opinions in a concise and engaging manner. Encourage my network to join the conversation by commenting with their thoughts or experiences. Use relevant hashtags to increase visibility. # LinkedIn # Additional Hashtags
 
 format bold to unicode bolds, since bold ascii doesn't work in linkedin
 

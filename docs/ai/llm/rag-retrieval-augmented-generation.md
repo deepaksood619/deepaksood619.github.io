@@ -65,6 +65,10 @@ Contextual Retrieval enhances each chunk by adding specific, explanatory context
 
 ![Chunking Techniques](../../media/Pasted%20image%2020250803135740.png)
 
+#### Others
+
+- [ZeroEntropy - The Engine That Powers Human-Level Search](https://www.zeroentropy.dev/)
+
 ### GraphRAG
 
 - [Enhancing the Accuracy of RAG Applications With Knowledge Graphs | by Tomaz Bratanic | Neo4j Developer Blog | Medium](https://medium.com/neo4j/enhancing-the-accuracy-of-rag-applications-with-knowledge-graphs-ad5e2ffab663)
@@ -90,6 +94,7 @@ Contextual Retrieval enhances each chunk by adding specific, explanatory context
 - [GitHub - deepsense-ai/ragbits: Building blocks for rapid development of GenAI applications](https://github.com/deepsense-ai/ragbits)
 - [GitHub - vitali87/code-graph-rag: Search Monorepos and get relevant answers](https://github.com/vitali87/code-graph-rag)
 - [GitHub - microsoft/markitdown: Python tool for converting files and office documents to Markdown.](https://github.com/microsoft/markitdown)
+- **[GitHub - HKUDS/RAG-Anything: "RAG-Anything: All-in-One RAG System"](https://github.com/HKUDS/RAG-Anything)**
 
 ### NoCode Tools
 

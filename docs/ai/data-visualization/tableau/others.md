@@ -40,6 +40,11 @@ Scale data-driven decision making with AI-powered insights.
 		- [Site settings (custom logos, view recommendations, etc.)](https://help.tableau.com/current/server/en-us/sites_add.htm)
 	- [Tableau Content Migration Tool Use Cases - Tableau](https://help.tableau.com/current/server/en-us/cmt-use-cases.htm#cmt-use-cases)
 
+## Tableau Salesforce Data Cloud
+
+- [Salesforce Data Cloud - Tableau](https://help.tableau.com/current/pro/desktop/en-us/examples_data_cloud.htm)
+- [What is Salesforce Data Cloud for Tableau?](https://www.tableau.com/blog/what-is-salesforce-data-cloud-for-tableau)
+
 ## Others
 
 - [About Virtual Connections and Data Policies - Tableau](https://help.tableau.com/current/online/en-us/dm_vconn_overview.htm)

@@ -1,6 +1,6 @@
 # Asking Right Questions
 
-A good question is the one that lets you obtain the**type, quality,** and **quantity** of information you need.
+A good question is the one that lets you obtain the **type, quality,** and **quantity** of information you need.
 
 Here are some basic but very effective types:
 
@@ -195,6 +195,19 @@ I cannot be apologetic enough for sudden unavailability today. It was due to a c
 As for my recent leaves I understand that in the past week i took a few days off due to a relative of mine passing away and my work took the hit.
 I can assure you I’ll give in extra hours over the weekend as well to compensate for this.
 Rest assured my intention was never to take this client casually. Apologies if you felt otherwise.
+
+## Conversation Starters
+
+1. How has life been treating you lately, and what experiences shaped the way you are now?
+2. What’s a book, article, or idea you’re currently exploring that has stayed with you?
+3. What’s the most profound realization or perspective shift you’ve had recently?
+4. If you look back at the last year, what’s something you’ve unlearned or outgrown?
+5. Which daily habit or mindset shift has made the biggest difference in your life?
+6. What’s a challenge you’re currently working through, and what’s helping you navigate it?
+7. If you could give your younger self one piece of advice today, what would it be?
+8. What’s a conversation you had recently that changed the way you see things?
+9. Which small moment from this week felt unexpectedly meaningful?
+10. What’s something you’re curious about right now that you haven’t yet explored deeply?
 
 ## Links
 
