@@ -728,3 +728,25 @@ https://www.slideshare.net/deepaksood566/computer-science-career-guidance
 - [meetup.com](https://www.meetup.com/)
 - [Eventbrite - Discover the Best Local Events & Things to Do](https://www.eventbrite.com/)
 - [10 Alternatives to meetup 2024. In the realm of event organisation and… | by Sean Preusse | Medium](https://medium.com/@sppreus/10-alternatives-to-meetup-2024-07150b877bb0)
+
+## Questions / Followup
+
+Subject: Speaker Session Details for MeetupName
+
+Hi,
+
+Thank you for inviting me as a speaker for the upcoming meetup. To confirm my availability and prepare accordingly, could you please help with the details below:
+
+- **Audience profile** – who’ll be attending, their background, and approximate audience size.
+- **Theme/objective & tone** – the central theme of the meetup, key takeaways you’d like the audience to have, and whether my talk should be more technical (deep-dive or hands-on), inspirational, or high-level.
+- **Event format** – structure of the event and the time allocated for my session.
+- **My slot & lineup** – my speaking slot and the other speakers/topics around it, so that my session can complement theirs.
+- **Arrangements** – any plans for travel (pick-up/drop, reimbursements) or standard speaker honorarium I should be aware of.
+
+Your inputs will help me align both content and logistics smoothly.
+
+Looking forward to your response.
+
+Best regards,  
+Deepak Sood
+
