@@ -4,7 +4,7 @@
 
 GIL is a mutex that protects access to Python objects, preventing multiple threads from executing Python bytecodes at once. This lock is necessary mainly because CPython's memory management is not thread-safe.
 
-This essentially means that a process can run only one thread at a time. When a thread starts running, it acquires GIL and when it waits for I/O, it releases the GIL, so that other threads of that process can run.
+This essentially means that a process can run only one thread at a time. When a thread starts running, it acquires GIL and **when it waits for I/O, it releases the GIL, so that other threads of that process can run.**
 
 Solution - Run multiple Python instances
 

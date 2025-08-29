@@ -18,7 +18,7 @@ The producer is the creator of the message in Kafka
 - bootstrap.servers
 - key.serializer
 - value.serializer
-- acks [0, 1 (when leader has received the message), all]
+- acks `[0, 1 (when leader has received the message), all]`
 - buffer.memory
 - compression.type
 - retries
@@ -35,7 +35,7 @@ The producer is the creator of the message in Kafka
 
 #### Fire-and-forget
 
-We send a message to the server and don't really care if it arrives succesfully or not. Most of the time, it will arrive successfully, since Kafka is highly available and the producer will retry sending messages automatically. However, some mes‐ sages will get lost using this method
+We send a message to the server and don't really care if it arrives succesfully or not. Most of the time, it will arrive successfully, since Kafka is highly available and the producer will retry sending messages automatically. However, some messages will get lost using this method
 
 #### Synchronous send
 
