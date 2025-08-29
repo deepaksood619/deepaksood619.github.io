@@ -15,3 +15,4 @@
 - [Home - Gemini Code Assist Live Demo Webinar](https://cloudonair.withgoogle.com/events/gemini-code-assist-apac-fy25q3)
 - [Gemini CLI and Gemini Code Assist: Comprehensive SDLC Use Cases and Implementation Guide](https://medium.com/@rishabh96b/gemini-cli-and-gemini-code-assist-comprehensive-sdlc-use-cases-and-implementation-guide-d3570249554d)
 - [Hands-on with Gemini CLI](https://codelabs.developers.google.com/gemini-cli-hands-on#0)
+- [Code Customization with Gemini Code Assist Enterprise](https://codelabs.developers.google.com/codelabs/code-assist-enterprise#0)
