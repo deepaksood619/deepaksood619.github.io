@@ -6,6 +6,7 @@
 - [Artificial Intelligence Marketing - Albert](https://albert.ai/) - AI Marketing Tool
 - [Acquisio: AI-Powered PPC Management Tools & Programmatic Buying](https://www.acquisio.com/) - AI to Supercharge and Simplify Campaign Management
 - [The AI Admaker \| Icon](https://icon.com/)
+- [#1 Linkedin Automation Tool](https://expandi.io/)
 
 ## MarTech (Marketing Technology)
 
