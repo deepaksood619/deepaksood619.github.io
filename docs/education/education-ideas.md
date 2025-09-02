@@ -114,6 +114,10 @@ Just add a module of UPSC in khan academy. It has everything.
 - [Edmingle - Build, Manage & Scale Your Online Academy](https://edmingle.com)
 	- [10 Best LMS for Coding Training & Tech Education](https://blog.edmingle.com/lms-for-coding/)
 
+## School Education facilities as a Service
+
+Service based company for education, people don't know how to train teacher, etc. create a consolidation and centralisation in education sector, automate processes, learning, etc. give education as a service to b2b also
+
 ## Links
 
 - [He's helped THOUSANDS of people learn to code \[Leon Noel of #100devs on freeCodeCamp Podcast #117\] - YouTube](https://www.youtube.com/watch?v=KYAakLooVuE&ab_channel=freeCodeCamp.org)

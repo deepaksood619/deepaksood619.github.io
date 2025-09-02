@@ -417,3 +417,8 @@ You understand an idea not when you've memorized it, but when you know why its s
 - [Developing and Using Models - Level 1 - Models - YouTube](https://www.youtube.com/watch?v=p29JLoDVbgA)
 - [10 Things Software Developers Should Learn about Learning | January 2024 | Communications of the ACM](https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext)
 - [Infobesity - How to Cope with the Overload of Information • Fabio Nudge • YOW! 2023 - YouTube](https://www.youtube.com/watch?v=5aTo8n-ql0s&ab_channel=GOTOConferences)
+- [If You Want To Learn Faster Than 99% of People Just Copy Me (From A Principal At Amazon) - YouTube](https://youtu.be/eawHgYNFn3Q)
+	- Facts
+	- Procedures
+	- Concepts
+	- Questions

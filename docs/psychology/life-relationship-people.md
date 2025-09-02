@@ -405,3 +405,4 @@ https://en.wikipedia.org/wiki/Parasocial_interaction
 	- [Habits + Life Calendar By Weeks Of The Year - Google Sheets](https://docs.google.com/spreadsheets/d/1_xR5aqMFNOGVqH4DnytqeiOs7laCX5VEFo0SsEK4U3U/edit?gid=15#gid=15)
 	- [Build A 'Your Life In Weeks' Calculator With Google Sheets: No-Code Tutorial - YouTube](https://www.youtube.com/watch?v=eM_T7e-uC28&ab_channel=RavinderDeol)
 	- [Your Life in Weeks - Interactive](https://www.bryanbraun.com/your-life/weeks.html)
+- [Love Vs Arranged Marriage, Lust, Soulmate & Red Flags | Dr Madhumati Sin...](https://youtu.be/z5KAKDuvXD4)

@@ -24,6 +24,7 @@
     - Roads / public transport - personal air vehicle- VTOL
     - Law and order - security from other humans - Everyone has everything
 - Lab grown diamonds
+	- [Gold Vs Diamonds, Lab Grown Vs Natural, Business & Investment | Limeligh...](https://youtu.be/WNdSw0vzzOs)
 - Stock market is one big bubble (index investing)
 - Lab grown meat / Vegan meat
 

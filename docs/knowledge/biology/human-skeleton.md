@@ -144,8 +144,7 @@ Axial skeleton = 80 Skull =22 Vertebral Coloumn = 26 Ribs = 12 Fore limb = 60 Hi
 
 ## References
 
-https://en.wikipedia.org/wiki/Human_body
-
-https://en.wikipedia.org/wiki/Human_skeleton
-
-https://en.wikipedia.org/wiki/List_of_bones_of_the_human_skeleton
+- https://en.wikipedia.org/wiki/Human_body
+- https://en.wikipedia.org/wiki/Human_skeleton
+- https://en.wikipedia.org/wiki/List_of_bones_of_the_human_skeleton
+- [How Weak Are Your Bones? (Test & Fix)](https://youtu.be/y-SKWZGQ1es)

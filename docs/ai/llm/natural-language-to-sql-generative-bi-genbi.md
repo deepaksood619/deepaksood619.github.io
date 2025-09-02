@@ -1,4 +1,4 @@
-# Natural Language to SQL / Generative BI
+# Natural Language to SQL / Generative BI / GenBI
 
 Unified NLQ (Natural Language Query)
 
@@ -21,6 +21,8 @@ Unified NLQ (Natural Language Query)
 	- [Wrenai Cloud Api Demo - a Hugging Face Space by getWrenAI](https://huggingface.co/spaces/getWrenAI/wrenai-cloud-api-demo)
 	- [Wren AI](https://docs.getwren.ai/oss/overview/cloud_vs_self_host)
 	- [The Wren AI Blog - Wren AI vs. Vanna: The Enterprise Guide to Choosing a Text-to-SQL Solution](https://getwren.ai/post/wren-ai-vs-vanna-the-enterprise-guide-to-choosing-a-text-to-sql-solution)
+	- [Query & Answering](https://wrenai.readme.io/reference/sql-generation)
+	- [How to setup Wren AI using your Custom LLM or Embedder \| Wren AI](https://docs.getwren.ai/oss/ai_service/guide/custom_llm)
 - [GitHub - vanna-ai/vanna: 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.](https://github.com/vanna-ai/vanna) - 19.8K
 	- [Vanna AI in 100 Seconds - YouTube](https://www.youtube.com/watch?v=MR8t1egprjs&ab_channel=VannaAI)
 	- [Vanna.AI - Personalized AI SQL Agent](https://vanna.ai/)
@@ -65,3 +67,4 @@ What are the rental patterns and lifetime value segments of customers, including
 - [SQL-GPT: The Dawn of a New SQL Era](https://fractal.ai/article/the-dawn-of-a-new-sql-era)
 - [GitHub - sinaptik-ai/pandas-ai: Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.](https://github.com/sinaptik-ai/pandas-ai)
 	- [PandasAI - Dev Tools for AI Builders](https://pandas-ai.com/)
+- [The Future of Business Intelligence: The Generative BI (GenBI) \| by Howard Chi \| Wren AI \| Medium](https://medium.com/wrenai/the-future-of-business-intelligence-the-generative-bi-genbi-d5c18371a45f)

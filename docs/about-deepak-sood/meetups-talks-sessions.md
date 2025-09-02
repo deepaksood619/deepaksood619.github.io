@@ -4,6 +4,14 @@
 
 - Firebolt - DevRelSquad
 
+## TechPath 2.0 - ThoughWorks Gurgaon (30th August 2025)
+
+[From Zero to Hero: Understanding Data & AI - Google Slides](https://docs.google.com/presentation/d/1uk6hUqBeOGGXVYtIH0Cp-NbHuEyh2jXViawuKxmEZwg/edit?usp=sharing)
+
+[Instagram](https://www.instagram.com/reel/DNLj-9MRCfj/?igsh=MWVkZ3NxbnNydXFjMQ==)
+
+[🔥 Your Tech Career Breakthrough Starts THIS Month! 🔥 🚀 Techpath 2.0 – Discover. Decide. Dominate. 🚀 One power-packed day to explore Data Science, AI, Cybersecurity & Personal Branding with top… \| Tech Vriksh](https://www.linkedin.com/posts/tech-vriksh_your-tech-career-breakthrough-starts-this-activity-7360607564553760768-l22Q)
+
 ## ZERO-DAY HackwithIndia NIET Speaker Session (29th August 2025)
 
 [Future-Proofing Your Career: The Role of Fundamentals in the AI Era - Deepak - Google Slides](https://docs.google.com/presentation/d/1TByWcli5eTrK5cdJCchSqy9vr5bI1tDCHhQOIj9X5q4/edit?usp=sharing)
@@ -747,6 +755,5 @@ Your inputs will help me align both content and logistics smoothly.
 
 Looking forward to your response.
 
-Best regards,  
+Best regards,
 Deepak Sood
-

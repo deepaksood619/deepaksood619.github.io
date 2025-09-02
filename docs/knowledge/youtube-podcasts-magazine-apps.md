@@ -28,6 +28,7 @@
 - [Brick Technology - YouTube](https://youtube.com/@bricktechnology)
 - [Mission Unstoppable - YouTube](https://youtube.com/@cbsunstoppable)
 - [PBS Space Time - YouTube](https://youtube.com/@pbsspacetime)
+- [Today I Found Out - YouTube](https://youtube.com/@todayifoundout)
 
 ### Inventions and Building Stuff / Engineering
 
@@ -80,6 +81,7 @@
 - [Fireship - YouTube](https://www.youtube.com/@Fireship)
 - [DataTalksClub ⬛ - YouTube](https://www.youtube.com/c/DataTalksClub)
 - [AWS Developers - YouTube](https://www.youtube.com/@awsdevelopers)
+- [The Linux Foundation - YouTube](https://youtube.com/@linuxfoundationorg)
 
 ### Math
 
@@ -156,6 +158,8 @@
 - [ZOE - YouTube](https://www.youtube.com/@joinZOE)
 - [The Engineering Mindset - YouTube](https://www.youtube.com/@EngineeringMindset)
 - Cleo Abram
+- [Smarter While You Sleep - YouTube](https://youtube.com/@smarterwhileyousleep)
+- [EO - YouTube](https://www.youtube.com/@eoglobal)
 
 ### Food
 
@@ -180,7 +184,7 @@
 - Vox
 - BBC News
 - CNBC Television
-   	- [CNBC International - YouTube](https://www.youtube.com/@cnbci)
+	- [CNBC International - YouTube](https://www.youtube.com/@cnbci)
 - Bloomberg
 - The Telegraph
 - NonStop 100 aajtak
@@ -246,6 +250,7 @@
 - [Econ - YouTube](https://www.youtube.com/@econyt)
 - [SOIC - YouTube](https://www.youtube.com/@soicfinance)
 - [Rainmatter by Zerodha - YouTube](https://www.youtube.com/@rainmatterin)
+- [Sonia Shenoy - YouTube](https://www.youtube.com/@soniashenoyofficial)
 
 #### Trading
 
@@ -262,6 +267,7 @@
 - [The Art of Business - YouTube](https://www.youtube.com/@theartofbiz)
 - [Aevy TV - YouTube](https://www.youtube.com/@aevytv)
 - [Y Combinator - YouTube](https://www.youtube.com/@ycombinator)
+- [Business Insider - YouTube](https://youtube.com/@businessinsider)
 
 ### People
 
@@ -280,6 +286,7 @@
 - Sandeep Tandon - Quant Mutual Fund
     - [Moving Out Of Equities Now Will Be A Huge Mistake: Quant Mutual Fund’s Sandeep Tandon To Investors - YouTube](https://www.youtube.com/watch?v=1aGQOMPRSOs&ab_channel=Mint)
     - [Dynamic Style of Money Management \~ VLRT - Framework by Sandeep Tandon, Quant MF - YouTube](https://www.youtube.com/watch?v=mnffGxDPB7U&ab_channel=IFAGalaxy)
+- [Sango Life Sutras - YouTube](https://youtube.com/@sangolifesutras)
 
 ### Yearly
 
@@ -341,6 +348,7 @@
     - https://www.discoveryplus.in/genre/science
     - https://www.discoveryplus.in/show/history-of-the-world
 - [The Plate India - YouTube](https://youtube.com/@theplateindia)
+- [MotorOctane - YouTube](https://youtube.com/@motoroctane)
 
 ## Magazine
 
@@ -447,6 +455,19 @@ Indian History - https://www.anirudhkanisetti.com/podcasts
 - James Clear
 - Scott Young
 - GrowthX
+
+| Top newsletters from respondents  | Top podcasts from respondents               |
+| --------------------------------- | ------------------------------------------- |
+| • Latent Space (swyx)             | • Latent Space (swyx & Alessio)             |
+| • The Batch (Andrew Ng)           | • Machine Learning Street Talk (Tim Scarfe) |
+| • Interconnects (Nathan Lambert)  | • The Cognitive Revolution (Nathan Labenz)  |
+| * Ahead of Al (Sebastian Raschka) | • No Priors (Sarah Guo and Elad Gil)        |
+| • AlphaSignal (Lior Alexander)    | o This Week in Machine Learning/Al (Sam C.) |
+| • SemiAnalysis (Dylan Patel)      | • Gradient Dissent (Lukas Biewald)          |
+| • Eugene Yan's Newsletter         | • Practical Al (Dan Whitenack)              |
+| " Ben's Bites (Ben Tossell)       | • The Gradient (Daniel Bashir)              |
+| ° Import Al (Jack Clark)          | • Weaviate Podcast (Connor Shorten)         |
+| " The Neuron (Noah Edelman)       | " Robot Brains (Pieter Abbeel)              |
 
 ## Tools
 

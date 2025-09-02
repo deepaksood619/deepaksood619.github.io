@@ -14,6 +14,7 @@
 - Origami
 - Caligraphy
 - Drawing / Painting
+	- [watercolor painting landscape mountains for beginners \| watercolor art easy landscape tutorial - YouTube](https://www.youtube.com/watch?v=Y0acgkhbvS0&ab_channel=AhmadArt)
 - Khan academy
 - Online tests
 - Daily Crossword

@@ -153,6 +153,8 @@ As per the amendment in the Finance Act 2021, with effect from 1st April 2021, t
 
 ## Links
 
+- [taxation-domestic](economics/taxation/taxation-domestic.md)
+- [taxation-foreign](economics/taxation/taxation-foreign.md)
 - [How To (LEGALLY) Never Pay Taxes - Do This Today - YouTube](https://www.youtube.com/watch?v=248o4zc9RmI)
 - [Section 10 Of Income Tax Act: Exemptions, Allowances and How To Claim It?](https://cleartax.in/s/section-10-of-income-tax-act)
 - [How to Save TAX](https://www.youtube.com/watch?v=BfSx7qcDxx4)
@@ -173,3 +175,4 @@ As per the amendment in the Finance Act 2021, with effect from 1st April 2021, t
 - [Do I need to register GST? I have earning 18 LPA from software development freelancing and my client is in Mumbai and I am in Delhi. - Quora](https://www.quora.com/Do-I-need-to-register-GST-I-have-earning-18-LPA-from-software-development-freelancing-and-my-client-is-in-Mumbai-and-I-am-in-Delhi)
 - [I have recently begun freelancing for a couple of clients. I also have a salaried job. My composite income from salary and freelancing may exceed 20 lakhs this year but income from freelancing alone will not. Do I have to register for GST? - Quora](https://www.quora.com/I-have-recently-begun-freelancing-for-a-couple-of-clients-I-also-have-a-salaried-job-My-composite-income-from-salary-and-freelancing-may-exceed-20-lakhs-this-year-but-income-from-freelancing-alone-will-not-Do-I-have)
 - [Final taxable income \| Zee Business](https://www.zeebiz.com/personal-finance/photo-gallery-new-tax-regime-benefits-how-to-pay-0-tax-on-rs-1900000-annual-salary-with-nps-eps-house-rent-flexi-pay-standard-deduction-rebate-benefits-358925/final-taxable-income-358939)
+- [ITR Filing Tutorial for Investors and Traders \| Income Tax Return \| ITR 2 and 3 - YouTube](https://www.youtube.com/watch?v=OzBJOa-q1Es&ab_channel=LabourLawAdvisor)

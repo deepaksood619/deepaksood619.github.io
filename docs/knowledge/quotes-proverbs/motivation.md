@@ -727,12 +727,9 @@ That’s why you must think long and hard before jumping the gun. Check and eval
 
 ## Links
 
-[World Leading Therapist: 3 Simple Steps To Remove Your Negative Thoughts: Marisa Peer | E154 - YouTube](https://www.youtube.com/watch?v=bzilnhq3Mkg)
-
-[HOW THEY FOOLED EVERYONE ? - YouTube](https://www.youtube.com/watch?v=LzAILQMonM4)
-
-[Why you feel stuck — and how to get motivated - Shannon Odell - YouTube](https://youtu.be/kD3-DKkiVeA)
-
+- [World Leading Therapist: 3 Simple Steps To Remove Your Negative Thoughts: Marisa Peer | E154 - YouTube](https://www.youtube.com/watch?v=bzilnhq3Mkg)
+- [HOW THEY FOOLED EVERYONE ? - YouTube](https://www.youtube.com/watch?v=LzAILQMonM4)
+- [Why you feel stuck — and how to get motivated - Shannon Odell - YouTube](https://youtu.be/kD3-DKkiVeA)
 - Stuck in the middle effect
-
 - [Helen Keller - How she learnt](https://www.google.com/search?q=helen+keller+how+she+learned)
+- [The Greatest Survival Story in Human History | Dhruv Rathee](https://youtu.be/VUoa94WUtWA)

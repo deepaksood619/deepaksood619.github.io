@@ -63,3 +63,7 @@ The story of my experiments with truth
 - Gandhi continued to fight for Indians in South Africa and launched a new form of nonviolent resistance
 - Upon the start of WWI, Gandhi returned to India, where he continued to fight injustice
 - Gandhi suspended satyagraha when it triggered violence, but his noncooperation resolution was ultimately passed
+
+## Others
+
+- [56 LinkedIn Creators to Learn from for AI, Content, Design, and Sales \| Anisha Jain posted on the topic \| LinkedIn](https://www.linkedin.com/posts/theanishajain_linkedin-has-350000000-accounts-here-activity-7367484663768023041-0ZES/)

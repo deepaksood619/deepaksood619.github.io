@@ -65,6 +65,11 @@ Contextual Retrieval enhances each chunk by adding specific, explanatory context
 
 ![Chunking Techniques](../../media/Pasted%20image%2020250803135740.png)
 
+#### Reranking
+
+- [Rerankers and Two-Stage Retrieval \| Pinecone](https://www.pinecone.io/learn/series/rag/rerankers/)
+- [What is a reranker and do I need one? - ZeroEntropy](https://www.zeroentropy.dev/articles/what-is-a-reranker-and-do-i-need-one)
+
 #### Others
 
 - [ZeroEntropy - The Engine That Powers Human-Level Search](https://www.zeroentropy.dev/)
@@ -95,6 +100,8 @@ Contextual Retrieval enhances each chunk by adding specific, explanatory context
 - [GitHub - vitali87/code-graph-rag: Search Monorepos and get relevant answers](https://github.com/vitali87/code-graph-rag)
 - [GitHub - microsoft/markitdown: Python tool for converting files and office documents to Markdown.](https://github.com/microsoft/markitdown)
 - **[GitHub - HKUDS/RAG-Anything: "RAG-Anything: All-in-One RAG System"](https://github.com/HKUDS/RAG-Anything)**
+- [GitHub - yichuan-w/LEANN: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.](https://github.com/yichuan-w/LEANN)
+	- Our evaluation shows that LEANN reduces index size to under 5% of the original raw data, achieving up to 50 times smaller storage than standard indexes, while maintaining 90% top-3 recall in under 2 seconds on real-world question answering benchmarks.
 
 ### NoCode Tools
 

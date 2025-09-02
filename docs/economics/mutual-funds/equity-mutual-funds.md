@@ -51,6 +51,8 @@ Flexi-cap and multi-cap funds both invest across large, mid, and small-cap stock
 
 [Parag Parikh Flexi Cap Vs HDFC Flexi Cap: Which One Should You Choose? - YouTube](https://youtu.be/JM6UJYvQizQ)
 
+[New Zerodha Multi Asset Passive FoF: Invest in large-cap, mid-cap, gold & bonds with one fund - YouTube](https://youtu.be/bzMB9mnrc4g)
+
 #### PPFAS / PPFCF
 
 - [Will Parag Parikh Flexi Cap Fund's large AUM affect its performance?](https://freefincal.com/will-parag-parikh-flexi-cap-funds-large-aum-affect-its-performance/)
@@ -191,3 +193,4 @@ In the multicap category, the allocation decision is left to the fund manager wh
 	- Invesco Flexi Cap: 36.51% vs 21.99%
 	- Invesco Focused: 44.95 vs 21.00%
 - [What mutual fund would you recommend for investors with FOMO?](https://freefincal.com/what-mutual-fund-would-you-recommend-for-investors-with-fomo/)
+- [What is your mutual fund investment strategy?](https://freefincal.com/what-is-your-mutual-fund-investment-strategy/)

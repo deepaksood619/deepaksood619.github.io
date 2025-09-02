@@ -61,3 +61,15 @@ he Heckman Curve shows that the highest rate of economic returns comes from the 
 	- [Watch this before choosing IB board school for your child - YouTube](https://youtu.be/f1L_e4vOHZo)
 - ICSE
 - CBSE
+- [CBSE vs ICSE vs IB vs IGCSE (Cambridge) - Comparing Boards - Which is best?](https://youtu.be/ymyDyusbcHI)
+- [CBSE vs ICSE vs IB vs Cambridge - my authentic opinion in 2025](https://youtu.be/D4-wBzEBWCQ)
+- [Understand all about school boards: CBSE, ICSE or IB?](https://youtu.be/_oiv8i1S7Zw)
+- [⚔️ Battle between Boards ⚔️ | CBSE Vs Cambridge | Choose One in 10 Minutes](https://youtu.be/l_abb9Cfa94)
+- [Cambridge Curriculum: What Are the Advantages and What Do Parents Get Wr...](https://youtu.be/izwxTAJ7n1M)
+- [Which board is best in India ? CBSE vs ICSE vs CAMBRIDGE (IGCSE) vs IB v...](https://youtu.be/TQ1CtDA_Sps)
+- [Why I Changed From CBSE To Cambridge(IGCSE) Curriculum. Should You Also ...](https://youtu.be/S0G-8Z-EaWA)
+- [CBSE vs ICSE vs IB vs Cambridge – Kaunsa Board Best Hai? Honest Opinion ...](https://youtu.be/K7WtmlY1_Bw)
+- [CBSE vs ICSE vs IGCSE vs IB: Choosing the Right Board](https://youtu.be/EMP3WjnaHuw)
+- [Homeschool Elective - Music Appreciation | Flip Through | The Good and t...](https://youtu.be/PBuDtF-71po)
+- [IB Education System in India - Everything you need to know | Facts, Myth...](https://youtu.be/8OCTStvMQ6Q)
+- [ICSE Vs CBSE Vs International Board – Which Board Is Best For Your Child...](https://youtu.be/-j6DVn-bOyE)

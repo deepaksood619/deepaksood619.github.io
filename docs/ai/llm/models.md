@@ -154,9 +154,15 @@ So... what's the deal with TTMs?
 - [Paper page - Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series](https://huggingface.co/papers/2401.03955)
 - [Granite Time Series Models - a ibm-granite Collection](https://huggingface.co/collections/ibm-granite/granite-time-series-models-663a90c6a2da73482bce3dc6)
 
-### Small Language Models (SLMs)
+### Small Language Models (SLMs / SLM)
 
 [Phi-2: The surprising power of small language models - Microsoft Research](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
+- SLMs are orders of magnitude smaller than large language models.
+- For example, an SLM like DeepSeek-R1-Distill-7B is a 100x smaller than it's LLM counterpart.
+- They are (often) distilled from LLMs, with quantized weights to further reduce their size.
+- In this paper, Nvidia claims that SLMs are powerful enough, cheaper, and more flexible for Agentic AI use cases.
+- Looking at the rapid adoption of SLMs in the industry (examples include Salesforce and Swiggy), I would agree.
+- They are easier to fine-tune, manage, and deploy. Definitely worth studying about.
 
 ### ImageGen
 
@@ -199,6 +205,8 @@ So... what's the deal with TTMs?
 - [Together AI – The AI Acceleration Cloud - Fast Inference, Fine-Tuning & Training](https://www.together.ai/)
 	- [api.together.xyz/signin?redirectUrl=%2F](https://api.together.xyz/)
 - [glbgpt.com](https://www.glbgpt.com/)
+- [AI Fiesta – Get Answers from the World’s Top AI Models in One Chat](https://aifiesta.ai/)
+- [Vibecode - AI Mobile App Builder](https://www.vibecodeapp.com/terminal)
 
 [10 Best Alternatives To ChatGPT: Developer Edition - Semaphore](https://semaphoreci.com/blog/chatgpt-alternatives)
 
@@ -208,6 +216,7 @@ So... what's the deal with TTMs?
 
 ## Links
 
+- [vector-embeddings](ai/ml-algorithms/vector-embeddings.md)
 - [Should You Use Open Source Large Language Models? - YouTube](https://www.youtube.com/watch?v=y9k-U9AuDeM&ab_channel=IBMTechnology)
 - [GitHub - nichtdax/awesome-totally-open-chatgpt: A list of totally open alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 - [GitHub - yaodongC/awesome-instruction-dataset: A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)](https://github.com/yaodongC/awesome-instruction-dataset)

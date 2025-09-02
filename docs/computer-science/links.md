@@ -2077,6 +2077,24 @@
 2073. [How to Lead Your Organisation’s AI-Transformation • Rasmus Lystrøm • YOW...](https://youtu.be/1uJZlKig0Tk)
 2074. [5 RISC-V SBC Group Test](https://youtu.be/N7EIB8bDLLU)
 
+## Starred
+
+- [Your realtime AI is ngmi — Sean DuBois (OpenAI), Kwindla Kramer (Daily)](https://youtu.be/E71YtNbCFXY)
+- [Why ChatGPT Keeps Interrupting You — Dr. Tom Shapland, LiveKit](https://youtu.be/1v9zBiZKlIY)
+- [Serving Voice AI at $1/hr: Open-source, LoRAs, Latency, Load Balancing -...](https://youtu.be/rD23-VZZHOo)
+- [The Agent Factory - Episode 2: Multi-Agent Systems, Concepts & Patterns](https://youtu.be/TGNScswE0kU)
+- [Best Agentic AI Framework](https://youtu.be/Wr0AsdR-I3k)
+- [Scaling Enterprise-Grade RAG: Lessons from Legal Frontier - Calvin Qi (H...](https://youtu.be/W1MiZChnkfA)
+- [HybridRAG: A Fusion of Graph and Vector Retrieval - Mitesh Patel, NVIDIA](https://youtu.be/-tgQa8Fzf80)
+- [Amazon S3 Vectors - Store and query vectors at scale in S3 | Amazon Web ...](https://youtu.be/Wp0LKeZhcTM)
+- [This Chinese AI Just Passed GPT-4.1 & Grok 4 on OpenRouter](https://youtube.com/shorts/hbtrfWv7B28?si=vxEiQoVBa5d6gQdm)
+- [Agentic Business Intelligence done right](https://youtu.be/2-AJszogj7Y)
+- [The Agent Factory - Episode 1: Agents, their frameworks and when to use ...](https://youtu.be/aLYrV61rJG4)
+- [Vibe Coding Full Course for Beginners | Vibe Coding with Replit Full Course](https://youtu.be/7na4UktI2Pw)
+- [Multimodal RAG & EMBEDDINGS with Amazon Bedrock & Nova: Full Course & Tu...](https://youtu.be/st7VrmAoeeo)
+- [Positional Encoding in Transformers | Deep Learning](https://youtu.be/LBsyiaEki_8)
+- [The Tale of SageMaker Canvas | AWS Tech Tales S4E17](https://www.youtube.com/live/5e-XHQGZHYQ)
+
 ## Bytebytego
 
 - [Oauth 2.0 Explained With Simple Terms](http://youtube.com/post/Ugkx4UJz_2IvhOGAkYiH38ZC4Fj-pO5w9Lca)

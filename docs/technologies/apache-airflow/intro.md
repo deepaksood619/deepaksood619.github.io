@@ -107,6 +107,21 @@ https://www.youtube.com/playlist?list=PLCi-q9vYo4x-PESoBcXN0tXCMgzh5c_Pj
 - We use SubDAGs extensively but they don't seem recommended. What should we use then?
 - Is there a way to fully leverage the Kubernetes API within the KubernetesPodOperator?
 
+## Airflow 3.0
+
+- Airflow 3 is significantly easier to use for data practitioners and incorporates their key requests for critical changes to Airflow. Early user reactions to features such as the new React based UI, DAG Versioning, and improved Backfill support have been incredibly positive. I was ecstatic to see the reaction from data engineers when I demonstrated this at a recent Airflow meetup.
+- The seamless UI transition of navigating between Asset-oriented workflows and Task-oriented workflows is beautiful. Once again, Airflow lets the developer choose how you want to develop and navigate without imposing any restrictions.
+- Introduction of Event Driven Scheduling enables Airflow to seamlessly integrate with messaging providers and react to events happening and data assets being updated outside of Airflow.
+- The big architecture change with the introduction of the Task Execution Interface and the Task SDKs, enable a stronger security model, including secure, scalable execution across multi-cloud, hybrid-cloud, and local data center deployments.
+- DAG Versioning
+- Backfills improvements
+- Run anywhere, at any time, in any Language
+- Event-driven scheduling and Data Assets
+- Inference execution and hyper-parameter tuning
+- UI Modernization
+
+[Apache Airflow® 3 is Generally Available! \| Apache Airflow](https://airflow.apache.org/blog/airflow-three-point-oh-is-here/)
+
 ## Debugging
 
 https://www.astronomer.io/blog/7-common-errors-to-check-when-debugging-airflow-dag

@@ -228,4 +228,5 @@ It is 5% of the remittance amount above INR 7 Lakhs. From October 1, 2023 onward
 
 ## Links
 
+- [returns-tax-taxes-itr](economics/taxation/returns-tax-taxes-itr.md)
 - [Hidden clause in US budget bill could shatter investor confidence; foreign tax on investors proposed - Investing Abroad News \| The Financial Express](https://www.financialexpress.com/business/investing-abroad-trumps-budget-bill-proposes-foreign-tax-on-investors-in-american-equities-and-corporate-bonds-3862995/#google_vignette)

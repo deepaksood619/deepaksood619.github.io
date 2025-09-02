@@ -65,6 +65,11 @@ In the context of vector embeddings, yes, embeddings and vectors are the same th
 - [Pretrained Models - Sentence-Transformers documentation](https://www.sbert.net/docs/pretrained_models.html)
 - [sentence-transformers (Sentence Transformers)](https://huggingface.co/sentence-transformers)
 - `gemini-embedding-001` - [Embeddings  \|  Gemini API  \|  Google AI for Developers](https://ai.google.dev/gemini-api/docs/embeddings)
+- voyage-context-3
+	- It is a contextualized chunk embedding model that produces vectors for chunks that capture the full document context without any manual metadata and context augmentation.
+	- This is unlike common chunk embedding models that embed chunks independently.
+	- This makes your embeddings semantically rich and context-aware, without the overhead of dealing with metadata and hence the speed.
+	- This embedding model cuts vectorDB costs by 200x.
 
 ## Links
 
