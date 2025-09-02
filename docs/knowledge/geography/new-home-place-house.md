@@ -478,6 +478,8 @@ A person feeding themselves a vegetarian diet would need about an acre of land a
 - [SaudaGhar - YouTube](https://www.youtube.com/@SaudaGhar)
 - [Bangalore VS Dehradun: Living on 50 Lakh+ - YouTube](https://www.youtube.com/watch?v=ADlmQRzA258&ab_channel=WintWealth)
 - [Are QIPs driving India’s realty sector?](https://finshots.in/markets/what-are-qips-and-are-they-driving-indias-realty-sector-qualified-institutional-placements/)
+- [The Truth Behind Godrej Projects: Hype Vs Reality](https://youtu.be/4na0kpL1SJ0)
+- [Gurgaon’s Property Bubble is set to Burst](https://youtu.be/T219SUv3jyI)
 
 ![Largest Real Estate Players in India](../../media/largest-real-estate-players-in-india.jpg)
 

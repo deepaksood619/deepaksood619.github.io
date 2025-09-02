@@ -7,6 +7,7 @@
 	- [10 min Walkthrough of Langfuse – Open Source LLM Observability, Evaluation, and Prompt Management - YouTube](https://www.youtube.com/watch?v=2E8iTvGo9Hs)
 	- [LLM-as-a-Judge Evaluation - Langfuse](https://langfuse.com/docs/evaluation/evaluation-methods/llm-as-a-judge)
 	- [LLM Monitoring and Observability: Hands-on with Langfuse \| Towards Data Science](https://towardsdatascience.com/llm-monitoring-and-observability-hands-on-with-langfuse/)
+- [Langtrace](https://www.langtrace.ai/)
 - [**DeepEval**](https://github.com/confident-ai/deepeval) - a simple-to-use, open-source evaluation framework for LLM applications.
 - [Adaline - Iterate, evaluate, deploy, and monitor prompts](https://www.adaline.ai/)
 - [LangSmith](https://www.langchain.com/langsmith)

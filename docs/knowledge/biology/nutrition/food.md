@@ -213,17 +213,12 @@ Smooth, bright, seedless, conveniently wrapped; the banana is the original fast 
 - Almond Milk
 - **Soy Milk (best for planet)**
 - **Oat Milk (best for planet)**
-
-[Which type of milk is best for you? - Jonathan J. O’Sullivan & Grace E. Cunningham - YouTube](https://www.youtube.com/watch?v=s6TXDFp1EcM)
-
-[The truth about milk: According to science | Prof. Tim Spector and Dr Sarah Berry - YouTube](https://www.youtube.com/watch?v=6CPBeNPlcNc)
-
-[Difference between homogenized and pasteurized milk and which one is safe | The Times of India](https://timesofindia.indiatimes.com/life-style/food-news/difference-between-homogenized-and-pasteurized-milk-and-which-one-is-safe/photostory/89508297.cms?from=mdr)
-
-[Is A2 milk a marketing gimmick?](https://finshots.in/archive/is-a2-milk-a-marketing-gimmick-fssai-india-a1-a2-milk-exports-amul-nandini-gcmmf-kmf/)
-
-[Is A2 milk a cash-cow? - The Whole Truth](https://thewholetruthfoods.com/learn/truth-be-told/is-a2-milk-a-cash-cow)
-
+- [Which type of milk is best for you? - Jonathan J. O’Sullivan & Grace E. Cunningham - YouTube](https://www.youtube.com/watch?v=s6TXDFp1EcM)
+- [The truth about milk: According to science | Prof. Tim Spector and Dr Sarah Berry - YouTube](https://www.youtube.com/watch?v=6CPBeNPlcNc)
+- [Difference between homogenized and pasteurized milk and which one is safe | The Times of India](https://timesofindia.indiatimes.com/life-style/food-news/difference-between-homogenized-and-pasteurized-milk-and-which-one-is-safe/photostory/89508297.cms?from=mdr)
+- [Is A2 milk a marketing gimmick?](https://finshots.in/archive/is-a2-milk-a-marketing-gimmick-fssai-india-a1-a2-milk-exports-amul-nandini-gcmmf-kmf/)
+- [Is A2 milk a cash-cow? - The Whole Truth](https://thewholetruthfoods.com/learn/truth-be-told/is-a2-milk-a-cash-cow)
+- [7 Types of Milk for 7 Common Mom Problems – आज़माई हुई देसी ट्रिक्स!](https://youtu.be/r3OE1udxjNQ)
 ## Fruits
 
 ![image](../../../media/Nutrition_Food-image4.jpg)

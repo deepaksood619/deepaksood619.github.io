@@ -392,3 +392,5 @@ Why kicking out children after 18 years is important, let's say you are very wea
 	- You learn to create for others, not just yourself
 - [The #1 Mistake Good Parents Make Every Day - YouTube](https://youtu.be/aH6sqbWZWGg)
 - [STOP Talking When Your Child Melts Down. Do THIS Instead - YouTube](https://youtu.be/9vhawjLEtSw)
+- [Parenting Mistakes, Raising A Child, Ideal Routine & Psychology - Schwet...](https://youtu.be/8B3jyCIr3X4)
+- [New Born Baby Tips: Parenting, Health, Pregnancy, Baby Food & Vaccine - ...](https://youtu.be/ULsBP-AZZuI)

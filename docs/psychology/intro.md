@@ -48,6 +48,15 @@ Don't run from difficulty, don't find someone who has done worse than you and fe
 
 Not Yet - gives confidence
 
+### Other Mindsets
+
+- **Eagle Mindset –** Train your vision to see beyond the present. Don’t get lost in daily chaos—rise above, spot opportunities from afar, and focus on the destination, not the turbulence.
+- **Wolf Mindset –** Be loyal to your circle, protect your values, and work in unity. Wolves know when to fight alone and when to run as a pack—adapt to both.
+- **Lion Mindset –** Lead with courage and confidence. A lion doesn’t chase every prey—it chooses battles wisely and moves with purpose.
+- **Ant Mindset –** Build with discipline and persistence. Ants carry many times their weight because they work collectively and plan ahead. Your small, consistent actions create unstoppable momentum.
+- **Cheetah Mindset –** Speed means nothing without timing. Conserve energy, then strike fast and with precision when the right opportunity appears.
+- Mindset is your greatest weapon—sharpen it daily.
+
 ## Body Poses
 
 - High Power Body Postures

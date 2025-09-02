@@ -42,6 +42,8 @@ The generation of random numbers is too important to be left to chance. -- (R)ob
 
 Those who cannot remember the past are condemned to repeat it. -- (D)ynamic Programming
 
+It's not the domain experts knowledge that goes into production, it's the assumption of the developers that goes into production.
+
 Shipping beats perfection. --Khan Academy's Development Mantra
 
 **The best code is that you never write. The worst code is the code you write two or more times**

@@ -7,6 +7,7 @@
 
 - [https://snackprompt.com](https://snackprompt.com/)
 - [GitHub - f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
+- [Snippets AI \| AI Prompt Manager](https://www.getsnippets.ai/)
 
 ## Prompt Generator Example
 

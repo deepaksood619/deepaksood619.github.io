@@ -212,6 +212,14 @@
 210. [Investing Mistakes to Avoid](https://youtu.be/AbC2Ui1PzHw)
 211. [Sensex Vs Dow: Are Indian Markets Still Overvalued? | CA Rachana Ranade](https://youtu.be/PKtbdJ1836g)
 212. [You can still make money (even if Market gives 0% returns in next 5 year...](https://youtu.be/J_71aq5NFfw)
-213. [NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 12 Mar...](https://www.youtube.com/live/bzUBKWi1gV8)
+
+- [NIFTY & BANK NIFTY Analysis for Tomorrow | Stock Market Outlook | 12 Mar...](https://www.youtube.com/live/bzUBKWi1gV8)
+- [Why the Rich Think Differently: Millionaire Mindset & Wealth Secrets - K...](https://youtu.be/YIszsqhLGIs)
+- [Car Masterclass: 2025 Best Cars, Get 50% Discount on Next Car | 1% Club ...](https://youtu.be/vo1Xp02rkw0)
+- [BUY or Rent 2025: House, Furniture & Car | The Final Verdict](https://youtu.be/mDpz6rhOtFk)
+- [When stock markets fall, where does all the money that was lost go?](https://youtu.be/zBJT6HnAzPY)
+- [After I Read 40 Books on Money - This #1 Will Make You Rich](https://youtu.be/vOIhcpsJZLI)
+- [The Ultimate Indian Tax-Saving Masterclass (Salary, Business & Investmen...](https://youtu.be/I7uFq-_calg)
+- [What the new global economic order will look like](https://youtu.be/8Z_56-BOpcQ)
 
 ## End
