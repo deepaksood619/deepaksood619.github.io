@@ -1,14 +1,5 @@
 # Others
 
-## Message Processing Guarantees
-
-- **No guarantee-** No explicit guarantee is provided, so consumers may process messages once, multiple times or never at all.
-- **At most once-** This is "best effort" delivery semantics. Consumers will receive and process messages exactly once or not at all.
-- **At least once-** Consumers will receive and process every message, but they may process the same message more than once.
-- **Effectively once-** Also [contentiously](https://streaml.io/blog/exactly-once)[known](https://medium.com/@jaykreps/exactly-once-support-in-apache-kafka-55e1fdd0a35f) as exactly once, this promises consumers will process every message once.
-
-![image](../../media/Technologies-Kafka-Others-image1.jpg)
-
 ## Storage formats: Serialization and deserialization of events
 
 Events are serialized when they are written to a topic and deserialized when they are read. These operations turn binary data into the forms you and I understand, and vice versa. Importantly, these operations are done solely by the Kafka clients, i.e., producing and consuming applications such as ksqlDB, Kafka Streams, or a microservice using the Go client for Kafka, for example. As such, there is no single "storage format" in Kafka. Common serialization formats used by Kafka clients include Apache Avro™ (with the [Confluent Schema Registry](https://docs.confluent.io/current/schema-registry/index.html)), Protobuf, and JSON.
@@ -80,7 +71,7 @@ When the broker receives a compressed batch of messages from a producer:
 
 - it always decompresses the data in order to validate it
 - it considers the compression codec of the destination topic
-    - if the compression codec of the destination topic isproducer, or if the codecs of the batch and destination topic are the same, the broker takes the compressed batch from the client and writes it directly to the topic's log file without recompressing the data.
+    - if the compression codec of the destination topic is producer, or if the codecs of the batch and destination topic are the same, the broker takes the compressed batch from the client and writes it directly to the topic's log file without recompressing the data.
     - Otherwise, the broker needs to re-compress the data to match the codec of the destination topic.
 
 Decompression and re-compression can also happen if producers are running a version prior to 0.10 because offsets need to be overwritten, or if any other message format conversion is required.
