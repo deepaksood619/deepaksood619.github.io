@@ -7,6 +7,7 @@
 - [Kafka Producers](kafka-producers)
 - [Kafka Consumers](kafka-consumers)
 - [Kafka Topic / Replication](kafka-topic-replication)
+- [Kafka Guarantees](technologies/kafka/kafka-guarantees.md)
 - [Kafka Connect](kafka-connect)
 - [Kafka Streams](kafka-streams)
 - [kafka-rest proxy](kafka-rest-proxy)

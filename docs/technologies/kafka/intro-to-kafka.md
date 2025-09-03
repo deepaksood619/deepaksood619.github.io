@@ -44,7 +44,7 @@ The Kafka data model consists of messages and topics
 - Topics are divided into partitions, which are the unit of parallelism in Kafka
     - Partitions allow messages in a topic to be distributed to multiple servers
     - A topic can have any number of partitions
-    - Each partition should fit in a single Kafka server
+    - **Each partition should fit in a single Kafka server**
     - The number of partitions decide the parallelism of the topic
 
 ### Partiton distribution
@@ -170,5 +170,3 @@ Kafka offers different ways to commit messages. Auto-committing might acknowledg
 A good practice is to combine both synchronous and asynchronous commits, where we use asynchronous commits in the processing loop for higher throughput and synchronous commits in exception handling to make sure the the last offset is always committed.
 
 ![Can Kafka Lose Messages?](../../media/Screenshot%202025-02-18%20at%2010.13.11%20PM.jpg)
-
-[ByteByteGo - YouTube](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=Ugkx60LijyVEVRjA9AToCnl8T65FK4BgibDX)

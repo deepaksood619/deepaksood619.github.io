@@ -13245,5 +13245,6 @@
 13230. [The Kanazawa railway hub - Where tradition and high-speed meet in Japan ...](https://youtu.be/NUPbYrK8WoU)
 13231. [The Unlikely Rise of the Indian Space Program](https://youtu.be/8jQzwxS8vxA)
 13232. [Living Inside a 500 yr old Ancient Castle!](https://youtu.be/qRdFovUmXl0)
+13233. [Why YouTube Still Rules the Internet - YouTube](https://www.youtube.com/watch?v=bqnXaz31tp8&ab_channel=BloombergOriginals)
 
 ## End

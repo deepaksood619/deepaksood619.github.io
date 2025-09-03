@@ -62,7 +62,7 @@ When using non-lock based concurrency control, no locks are acquired; however, i
 
 In this isolation level, a lock-based [concurrency control](https://en.wikipedia.org/wiki/Concurrency_control) DBMS implementation keeps read and write locks (acquired on selected data) until the end of the transaction. However, range-locks are not managed, so [phantom reads](https://en.wikipedia.org/wiki/Isolation_(database_systems)#Phantom_reads) can occur.
 
-Write skew is possible at this isolation level, a phenomenon where two writes are allowed to the same column(s) in a table by two different writers (who have previously read the columns they are updating), resulting in the column having data that is a mix of the two transactions
+Write skew is possible at this isolation level, a phenomenon where two writes are allowed to the same column(s) in a table by two different writers (who have previously read the columns they are updating), resulting in the column having data that is a mix of the two transactions.
 
 ### Read committed
 

@@ -135,6 +135,5 @@ Finally if in the same millisecond, if the sequence number also reaches its max 
 
 ## Links
 
-[Choosing The Right ID Strategy: Auto-Increment, UUID, ULID or Snowflake ID](https://www.linkedin.com/pulse/choosing-right-id-strategy-auto-increment-uuid-ulid-valluru/)
-
-[The effect of Random UUID on database performance - YouTube](https://www.youtube.com/watch?v=OAOQ7U0XAi0)
+- [Choosing The Right ID Strategy: Auto-Increment, UUID, ULID or Snowflake ID](https://www.linkedin.com/pulse/choosing-right-id-strategy-auto-increment-uuid-ulid-valluru/)
+- [The effect of Random UUID on database performance - YouTube](https://www.youtube.com/watch?v=OAOQ7U0XAi0)

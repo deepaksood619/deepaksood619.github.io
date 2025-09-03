@@ -157,6 +157,7 @@ So... what's the deal with TTMs?
 ### Small Language Models (SLMs / SLM)
 
 [Phi-2: The surprising power of small language models - Microsoft Research](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
+
 - SLMs are orders of magnitude smaller than large language models.
 - For example, an SLM like DeepSeek-R1-Distill-7B is a 100x smaller than it's LLM counterpart.
 - They are (often) distilled from LLMs, with quantized weights to further reduce their size.
