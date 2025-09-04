@@ -208,6 +208,8 @@ https://iceberg.apache.org
 
 [GitHub - apache/iceberg-python: Apache PyIceberg](https://github.com/apache/iceberg-python)
 
+[Apache Iceberg: What It Is and Why Everyone’s Talking About It. - YouTube](https://www.youtube.com/watch?v=TsmhRZElPvM)
+
 ## J
 
 - [Jackrabbit](http://jackrabbit.apache.org/)

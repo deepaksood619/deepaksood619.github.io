@@ -165,6 +165,18 @@ So... what's the deal with TTMs?
 - Looking at the rapid adoption of SLMs in the industry (examples include Salesforce and Swiggy), I would agree.
 - They are easier to fine-tune, manage, and deploy. Definitely worth studying about.
 
+[Just In: NVIDIA may have exposed the biggest secret in AI 😳 A new paper shows Small Language Models often outperform massive LLMs like GPT-4 or Claude in real-world use The reason is simple: Most… \| Rubén Domínguez Ibar \| 178 comments](https://www.linkedin.com/posts/rubendominguezibar_just-in-nvidia-may-have-exposed-the-biggest-activity-7368171344187916290-Eyy4)
+
+- Just In: NVIDIA may have exposed the biggest secret in AI 😳
+- A new paper shows Small Language Models often outperform massive LLMs like GPT-4 or Claude in real-world use
+- The reason is simple: Most agent tasks (summarizing docs, extracting info, writing templates, calling APIs) are predictable. For these, SLMs are cheaper and better.
+	- Smaller ≠ weaker. Toolformer (6.7B) beats GPT-3 (175B). DeepSeek-R1-Distill (7B) outperforms Claude 3.5 and GPT-4o on reasoning.
+	- 10–30x cheaper, faster, and deployable locally.
+	- Easy to fine-tune with LoRA or QLoRA.
+	- Perfect fit for structured outputs like JSON or Python.
+- The smarter architecture is clear. Default to SLMs. Call an LLM only when absolutely necessary.
+- The future of AI agents looks like is modular systems built on SLMs.
+
 ### ImageGen
 
 [Introducing our latest image generation model in the API \| OpenAI](https://openai.com/index/image-generation-api/)

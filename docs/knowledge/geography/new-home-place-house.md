@@ -6,6 +6,8 @@
 
 **People spend more on their own home, so cost of living increases**
 
+**Don't buy house/land in India, since you are not going to live here**
+
 Housing isn’t a great investment but for most people, it’s the best investment they will ever make because it’s the only asset they will leave alone and let compound for 10, 20, 30 years.
 
 ## Questions
@@ -73,6 +75,7 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 - New Zealand
 - Portugal (invest less than 3 crore and be a citizen)
 - Japan
+- [Aberdeen - Wikipedia](https://en.wikipedia.org/wiki/Aberdeen)
 
 - Temperature - 23-25 degree Celsius
 - Humidity - 30-50%

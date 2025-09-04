@@ -1,5 +1,27 @@
 # confluent-kafka
 
+[Streaming Data Governance \| Understanding the Confluent Cloud Stream Governance Platform - YouTube](https://www.youtube.com/playlist?list=PLa7VYi0yPIH1sKNegs6Y8m92PRoYrcQzm)
+- ﻿﻿Streaming at Scale
+- ﻿﻿Stream Governance
+	- Availability
+	- Usability
+	- Integrity
+	- Security
+- ﻿﻿**Stream Quality**
+- ﻿﻿Schema Registry
+- ﻿﻿Stream Discoverability
+- ﻿﻿**Stream Catalog**
+- ﻿﻿Visualizing Streams
+- ﻿﻿**Stream Lineage**
+- Security
+- Data as a product
+- Flink + Tableflow
+
+## Difference between open source Kafka vs Confluent
+
+- hot vs cold storage in partitions
+- fetch from replica instead of leader
+
 ## Confluent kafka-python
 
 ```bash
@@ -113,6 +135,8 @@ p.flush()
 
 ## Resources
 
+- [Confluent Developer - YouTube](https://www.youtube.com/@ConfluentDeveloper)
+- [Confluent - YouTube](https://www.youtube.com/@Confluent)
 - https://github.com/confluentinc/confluent-kafka-python
 - https://docs.confluent.io/current/clients/confluent-kafka-python
 - https://github.com/edenhill/librdkafka/blob/master/CONFIGURATION

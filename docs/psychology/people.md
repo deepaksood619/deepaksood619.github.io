@@ -11,11 +11,12 @@
 
     American billionaire investor and hedge fund manager, who has served as co-chief investment officer of the world's largest hedge fund, Bridgewater Associates
 
-4. Charlie Munger
-5. Joel Greenblatt
-6. Bill ackman
-7. Mohnish Pabrai
-8. Kalpen Parekh
+1. Charlie Munger
+2. Joel Greenblatt
+3. Bill ackman
+4. Mohnish Pabrai
+5. Kalpen Parekh
+6. [Cathie Wood - Wikipedia](https://en.wikipedia.org/wiki/Cathie_Wood)
 
 ## Role Model / Influential People / People to follow
 

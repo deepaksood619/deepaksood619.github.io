@@ -93,6 +93,7 @@ https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f
 https://towardsdatascience.com/the-complete-guide-to-the-system-design-interview-ba118f48bdfc
 
 [System Design Introduction For Interview. - YouTube](https://www.youtube.com/watch?v=UzLMhqg3_Wc)
+
 - **A**sk good questions
 	- What features to work on
 	- How much to scale

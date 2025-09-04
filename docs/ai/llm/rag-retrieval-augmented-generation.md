@@ -69,6 +69,7 @@ Contextual Retrieval enhances each chunk by adding specific, explanatory context
 
 - [Rerankers and Two-Stage Retrieval \| Pinecone](https://www.pinecone.io/learn/series/rag/rerankers/)
 - [What is a reranker and do I need one? - ZeroEntropy](https://www.zeroentropy.dev/articles/what-is-a-reranker-and-do-i-need-one)
+- [zcookbook/guides/rerank\_llamaparsed\_pdfs/rerank\_llamaparsed\_pdfs.ipynb at main · zeroentropy-ai/zcookbook · GitHub](https://github.com/zeroentropy-ai/zcookbook/blob/main/guides/rerank_llamaparsed_pdfs/rerank_llamaparsed_pdfs.ipynb)
 
 #### Others
 

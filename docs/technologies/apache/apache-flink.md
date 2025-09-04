@@ -72,6 +72,7 @@ PyFlink is a Python API for Apache Flink that allows you to build scalable batch
 
 ## Links
 
+- [06-sliding-window-analytics](technologies/apache-spark/06-sliding-window-analytics.md)
 - https://dzone.com/articles/introduction-to-streaming-etl-with-apache-flink
 - https://flink.apache.org/flink-architecture.html
 - [CDC Stream Processing with Apache Flink](https://youtu.be/K2ibvfmFh8Y?si=_K1jRSc0ez7Ntw9y)

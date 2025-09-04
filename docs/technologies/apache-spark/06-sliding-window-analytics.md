@@ -8,13 +8,13 @@ Stream processing framework that is
 - Integrates with batch & interactive workloads
 - Ensures efficient fault-tolerance in stateful computations
 
-### Types of window frames
+## Types of window frames
 
-#### Cumulative
+### Cumulative
 
 Enables computing rolling values from the beginning of the window to the current row or from the current row to the end of the window.
 
-#### Sliding
+### Sliding
 
 Enables computing rolling values between any two rows (inclusive) in the window, relative to the current row.
 
