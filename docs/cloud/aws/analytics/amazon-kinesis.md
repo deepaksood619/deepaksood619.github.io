@@ -36,17 +36,17 @@ AWS Kinesis is a powerful tool for any application or system that requires real-
 
 ### Provisioned vs On-demand
 
-| **Feature**             | **Provisioned Mode**                                                                           | **On-Demand Mode**                                                                          |
-| ----------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| **Capacity Allocation** | Manually specify number of shards                                                              | Automatically scales based on data throughput                                               |
-| **Ingestion Capacity**  | 1 MB/sec or 1000 records/sec per shard                                                         | Scales automatically based on data volume                                                   |
-| **Retrieval Capacity**  | 2 MB/sec per shard                                                                             | Scales automatically based on data volume                                                   |
-| **Scaling**             | Manual adjustment of shard count                                                               | Automatic scaling without user intervention                                                 |
-| **Cost Structure**      | Based on number of provisioned shards                                                          | Pay-as-you-go based on actual throughput                                                    |
-| **Management**          | Requires monitoring and managing shard capacity                                                | No need to manage shard capacity                                                            |
-| **Use Cases**           | Predictable and consistent traffic patterns                                                    | Variable and unpredictable traffic patterns                                                 |
-| **Complexity**          | Higher, due to manual capacity management                                                      | Lower, due to automated scaling                                                             |
-| **Best For**            | Applications with steady, predictable workloads                                                | Applications with fluctuating or unknown workloads                                          |
+| **Feature**             | **Provisioned Mode**                                                                         | **On-Demand Mode**                                                                        |
+| ----------------------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| **Capacity Allocation** | Manually specify number of shards                                                            | Automatically scales based on data throughput                                             |
+| **Ingestion Capacity**  | 1 MB/sec or 1000 records/sec per shard                                                       | Scales automatically based on data volume                                                 |
+| **Retrieval Capacity**  | 2 MB/sec per shard                                                                           | Scales automatically based on data volume                                                 |
+| **Scaling**             | Manual adjustment of shard count                                                             | Automatic scaling without user intervention                                               |
+| **Cost Structure**      | Based on number of provisioned shards                                                        | Pay-as-you-go based on actual throughput                                                  |
+| **Management**          | Requires monitoring and managing shard capacity                                              | No need to manage shard capacity                                                          |
+| **Use Cases**           | Predictable and consistent traffic patterns                                                  | Variable and unpredictable traffic patterns                                               |
+| **Complexity**          | Higher, due to manual capacity management                                                    | Lower, due to automated scaling                                                           |
+| **Best For**            | Applications with steady, predictable workloads                                              | Applications with fluctuating or unknown workloads                                        |
 | **Examples**            | - Video streaming service with consistent viewers, - IoT applications with steady data rates | - Retail apps with seasonal traffic, - Social media platforms with variable user activity |
 
 #### Pricing

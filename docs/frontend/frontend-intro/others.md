@@ -199,3 +199,11 @@ imageoptim --quality-low *.jpg
 - Use **ImageMagick** or **jpegoptim** if you want flexibility between lossy and lossless compression.
 - Use **mozjpeg** for maximum reduction in file size with excellent visual quality.
 - Use **pngquant** for png images
+
+## Compress PDF
+
+```bash
+brew install ghostscript
+
+gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=output.pdf input.pdf
+```

@@ -54,7 +54,7 @@ Here’s how EOS works in practice:
 
 - When a **producer** writes a message to a partition, it first goes to the **leader replica** of that partition.
 - The producer can specify the **acks** setting:
-    
+
     - `acks=0` → Producer doesn’t wait for acknowledgment.
     - `acks=1` → Producer gets an acknowledgment once the leader writes it.
     - `acks=all` (or `-1`) → Producer gets acknowledgment only after the message is written to the leader **and** replicated to all **in-sync replicas (ISRs)**.
@@ -179,7 +179,7 @@ Instead of writing custom relay code:
 - Use **Debezium** (reads DB’s transaction log).
 - When your service commits the DB transaction (business row + outbox row), Debezium streams the outbox change directly into Kafka.
 - This is already **exactly-once** because:
-    
+
     - DB transaction log guarantees no duplicates.
     - Kafka’s EOS producer (in Debezium) guarantees idempotence.
 

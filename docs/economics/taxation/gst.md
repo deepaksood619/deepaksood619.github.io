@@ -10,6 +10,8 @@ Businesses must register for GST and pay taxes on their taxable items and servic
 
 [BENEFITS of Amazon Business Account - YouTube](https://www.youtube.com/watch?v=iURSaIqXPyg&ab_channel=TheInventar)
 
+[GST rate cuts announced by FM Sitharaman! 5% and 18% to be two main slabs; new rates effective September 22 - The Times of India](https://timesofindia.indiatimes.com/business/india-business/gst-rate-cuts-announced-by-fm-sitharaman-5-and-18-to-be-two-main-slabs-new-rates-effective-september-22/articleshow/123681380.cms)
+
 ### GST vs Income Tax
 
 Income Tax and GST are 2 completely different Acts and tax different things.

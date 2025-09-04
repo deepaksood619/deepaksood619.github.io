@@ -59,6 +59,8 @@
 
 **Nifty Next 50 vs Nifty Midcap 150:** While the Nifty Next 50 is made up of 50 companies ranked 51-100 by marketcap, the Nifty Midcap 150 index consists of 150 companies ranked 101-250.
 
+[Nifty vs Nifty Next 50 vs Nifty Midcap 150 vs Nifty Smallcap 250: Return Comparison Sep 2025](https://freefincal.com/nifty-vs-nifty-next-50-vs-nifty-midcap-150-vs-nifty-smallcap-250-return-comparison-sep-2025/)
+
 ## Sectoral Indices
 
 - [Nifty Auto](https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-auto)

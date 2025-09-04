@@ -12,6 +12,8 @@ If the rate of change in outside world is greater than the organization, then th
 
 Dress for the job you want, not the job you have
 
+Without marketing, no one sees you. Without branding, no one trusts you. Your business needs both.
+
 If you fail to plan, you plan to fail
 
 Accountability without autonomy doesn't work i.e. I want you to improve X but you cannot change anything

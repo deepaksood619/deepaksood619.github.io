@@ -77,3 +77,4 @@ NSE: RAYMONDLSL
 - [How Shankar Nath's newsletter recommendation is performing](https://www.youtube.com/channel/UCtnItzU7q_bA1eoEBjqcVrw/community?lb=UgkxY3UezZfBrvwxWXyxHsKwXNSXsWZB4C3n)
 - [15 fundamentally strong stocks at a discount](https://youtu.be/p389Qdg_Tco)
 - [Seeking wisdom in the Indian Stock Markets \| SOIC](https://soic.in/blog-description/mapping-the-future-geospatial-industry)
+- [Is Snowflake the New AI Bet Everyone's Talking About?](https://www.linkedin.com/pulse/snowflake-new-ai-bet-everyones-talking-vestedfinance-gm73f/)
