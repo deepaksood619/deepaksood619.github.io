@@ -535,7 +535,7 @@ Indian History - https://www.anirudhkanisetti.com/podcasts
 - https://pirate-proxy.me
 - https://pirate-proxy.pw
 - https://zoro.to
-- [YouTube Vanced APK Download (\*UPDATED\*) v18.46.48 Latest Version - VancedYouTube](https://vancedyoutube.org/)
+- [YouTube Vanced APK Download (\*UPDATED\*) v20.13.42 Latest Version - VancedYouTube](https://youtubevanced.org/)
 - [**YouTube ReVanced** 20.13.41 \[Download Latest APK\] 2025](https://vanced.so/youtube/)
 - Pikashow
 - PPCine
