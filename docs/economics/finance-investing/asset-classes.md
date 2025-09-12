@@ -18,6 +18,7 @@ https://www.joinhoney.com
 - Active Income where the time and effort you put pays for just that time
 - Passive Income where past efforts makes you money (all time - 24x7)
 	- [Passive income is a crucial part of your retirement plan](https://freefincal.com/passive-income-is-a-crucial-part-of-your-retirement-plan/)
+	- [Smart investment: How can you get Rs 1 lakh monthly passive income - The Economic Times](https://m.economictimes.com/wealth/invest/smart-investment-how-can-you-get-rs-1-lakh-monthly-passive-income/amp_articleshow/123691596.cms)
 
 ## Fixed Income / Debt
 

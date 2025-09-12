@@ -51,28 +51,6 @@ Another popular preschool approach is the Waldorf method also known as the Stein
 
 In this way the curriculum itself has more creative learning through arts, cooking, and playing rather than media and traditional learning. Alongside this, it emphasizes the need for routine since it believes that children imitate and learn from their immediate environment.
 
-## Toys
-
-- clapstore toys
-
-In case you want to set up a business brainwashing affluent parents to spend their money on useless bits of plastic, you will find in this article details of the tricks that firms like Fisher-Price use to flog their products. More constructively, if you are a young parent and you want to buy useful toys for your child, the article says: "After watching kids play with more than 100 different types of toy, the researchers concluded that simple, open-ended, non-realistic toys with multiple parts, like a random assortment of Lego, inspired the highest-quality play. While engaged with such toys, children were "more likely to be creative, engage in problem solving, interact with their peers, and use language," the researchers wrote. Electronic toys, however, tended to limit kids’ play: "A simple wooden cash register in our study inspired children to engage in lots of conversations related to buying and selling - but a plastic cash register that produced sounds when buttons were pushed mostly inspired children to just push the buttons repeatedly."
-
-As a result of such research, it is increasingly acknowledged that the best new toys are the best old ones - sticks and blocks and dolls and sand that follow no pre-programmed routines, that elicit no predetermined behaviours."
-
-[How touch can make or break your relationship - BBC REEL](https://youtu.be/FN7Buz0CMfI)
-
-Attachment theory
-
-1. Securely attached (good parenting)
-2. Anxious (inconsistent parenting)
-3. Avoidant
-
-[Aretto - Unlocking Ultimate Comfort For Growing Kids Feet!](https://wearetto.com/)
-
-During an episode of his show “Comedians in Cars Getting Coffee” with fellow comedian Kevin Hart, Jerry Seinfeld revealed his approach to handling questions from his children about his wealth. When his kids ask, “Are we rich?” Seinfeld’s response is characteristically direct: **"I am. You’re not."**
-
-Warren Buffett’s daughter wanted to redo her kitchen and asked for a loan from him. Buffett’s response was simple and direct: **"Why not go to the bank?"** rather than providing the funds himself.
-
 ## Aggression - When a Child Hurts Other Children
 
 - **Establish a firm rule:** "Don’t hit. Hitting hurts, and we do not hurt people."
@@ -244,7 +222,7 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [Teething Sticks | Ragi Teething Sticks | Millet Teething Sticks for Babies | Best Teether for Babies - YouTube](https://www.youtube.com/watch?v=OHrAxlr3y2g)
 - [Healthy Homemade Teething Biscuits - YouTube](https://www.youtube.com/watch?v=vJQXs0TZvwU)
 - [Super Easy HEALTHY Oatmeal Cookies - YouTube](https://www.youtube.com/watch?v=Hobi9J9fRnA)
-- [YouTube](https://www.youtube.com/watch?v=5vCEmKAS9nQ)
+- [Ragi Oat Cookies \| Ragi Biscuit Recipe No Sugar, No Maida, No Oven \| Healthy Oats Cookie Recipe - YouTube](https://www.youtube.com/watch?v=5vCEmKAS9nQ)
 
 ## Youtube
 
@@ -301,6 +279,7 @@ Why kicking out children after 18 years is important, let's say you are very wea
 	- "What's in the Box?" Surprise Game
 	- Excitement + mystery = better attention and new words.
 	- Be patient: even quiet kids are absorbing everything and will often surprise you with a "language explosion" when ready.
+- [ChatGPT - Helping daughter speak](https://chatgpt.com/share/68c30ffd-e8a4-8003-8d81-04d78c07029d)
 - [What to do when your 2 year old is talking gibberish to you — Toddler Talk](https://toddlertalk.com/blog/my-two-year-old-is-talking-jibberish)
 - [Do Parents Cause Speech Delays?](https://www.expressable.com/learning-center/speech-and-language-issues/do-parents-cause-speech-delays)
 - [3 Effective Speech Therapy Techniques To Improve Speech Clarity In Child...](https://youtu.be/nkeBaz7_2C0)
@@ -315,6 +294,7 @@ Why kicking out children after 18 years is important, let's say you are very wea
 
 ## Links
 
+- [Games - Kids](knowledge/games/kids.md)
 - [Colin Powell: Kids need structure | TED - YouTube](https://www.youtube.com/watch?v=NhYnouvrG_8&ab_channel=TED)
 - [Indian Parents , Their Pravachan And An Important Parenting Tip - YouTube](https://www.youtube.com/watch?v=Sjttt-F2pXE)
 - [The Single Most Important Parenting Strategy - Repair | Becky Kennedy | TED - YouTube](https://www.youtube.com/watch?v=PHpPtdk9rco)

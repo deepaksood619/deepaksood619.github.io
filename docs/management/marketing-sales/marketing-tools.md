@@ -81,3 +81,7 @@ In short, if you want to stay on top of the latest trends and **see what people 
     - Josh Digital
 - [GitHub - mautic/mautic: Mautic: Open Source Marketing Automation Software.](https://github.com/mautic/mautic)
 	- [Open Source Marketing Automation - Mautic](https://mautic.org/)
+- Emails
+	- [#1 Linkedin Automation Tool](https://expandi.io/)
+	- [AI Outbound Engine for B2B Sales \| Apollo.io](https://www.apollo.io/)
+	- [Find email addresses and send cold emails • Hunter](https://hunter.io/)

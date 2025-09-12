@@ -99,6 +99,8 @@ Ubuntu Server 18.04 LTS (HVM), SSD Volume Type- ami-0620d12a9cf777c87 (64-bit x8
 
 Ubuntu Server 16.04 LTS (HVM), SSD Volume Type- ami-0c28d7c6dd94fb3a7 (64-bit x86) / ami-08f567e9a6f67fbee (64-bit Arm)
 
+**AMIs (Amazon Machine Images) are region-specific;** an AMI that exists in one AWS region cannot be used directly in another region, and each region has a unique AMI ID for similar images. However, users can copy AMIs across regions to make them available for global deployment.
+
 ### Flex Instances
 
 [C7i-flex](https://aws.amazon.com/ec2/instance-types/c7i/) offers five of the most common sizes from **large** to **8xlarge**, delivering 19 percent better price performance than [Amazon EC2 C6i](https://aws.amazon.com/ec2/instance-types/c6i/) instances.

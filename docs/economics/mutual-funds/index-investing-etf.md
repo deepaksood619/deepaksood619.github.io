@@ -223,3 +223,5 @@ An ETF is called an exchange-traded fund since it's traded on an exchange just l
 - [The ‘S&P 500 Trap’, Explained. - YouTube](https://www.youtube.com/watch?v=5_kmy78Gu74&ab_channel=NewMoney)
 - [Debunking the Index Fund Misconceptions: A Balanced Perspective](https://freefincal.com/debunking-the-index-fund-misconceptions-a-balanced-perspective/)
 - [An index with a portfolio turnover higher than active funds!](https://freefincal.com/an-index-with-a-portfolio-turnover-higher-than-active-funds/)
+- [Does long-term equity SIP investing work? (110 year analysis)](https://freefincal.com/does-long-term-equity-sip-investing-work-110-year-analysis/)
+- [Nifty 50 or Nifty 500, which index fund should I choose?](https://freefincal.com/nifty-50-or-nifty-500-which-index-fund-should-i-choose/)

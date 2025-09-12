@@ -132,6 +132,7 @@
 - [Jace AI \| Email Assistant That Understands Your Voice](https://jace.ai/)
 - [Dash AI Chat](https://www.usedash.ai/)
 	- [CTRL: Automated Outreach - YouTube](https://www.youtube.com/watch?v=g86A77PfSD0)
+- [producthunt.com/products/chat4data](https://www.producthunt.com/products/chat4data)
 
 ### SAAS / Products
 

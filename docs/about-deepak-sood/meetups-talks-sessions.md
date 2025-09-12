@@ -1,8 +1,12 @@
 # Meetups / Talks / Sessions
 
-## Firebolt Meetup (20 Sept 2025)
+## Firebolt Meetup - Agentic AI Meets Data (20 Sept 2025)
 
 - Firebolt - DevRelSquad
+
+![Agentic AI Meets Data](../media/agentic-ai-firebolt.jpeg)
+
+[#agenticai #genai #dataengineering #aiarchitecture #opstree #aicommunity #machinelearning #futureofai #devrel #techleadership #firebolt #devrelsquad \| OpsTree Global](https://www.linkedin.com/posts/opstree-solutions_agenticai-genai-dataengineering-activity-7371869335935451136-_izf)
 
 ## TechPath 2.0 - ThoughWorks Gurgaon (30th August 2025)
 
@@ -736,6 +740,40 @@ https://www.slideshare.net/deepaksood566/computer-science-career-guidance
 - [meetup.com](https://www.meetup.com/)
 - [Eventbrite - Discover the Best Local Events & Things to Do](https://www.eventbrite.com/)
 - [10 Alternatives to meetup 2024. In the realm of event organisation and… | by Sean Preusse | Medium](https://medium.com/@sppreus/10-alternatives-to-meetup-2024-07150b877bb0)
+
+## Programs
+
+### Google GDE
+
+- https://developers.google.com/community/experts/assets/GDE_Program_Application_Guide.pdf
+- Reach out to existing GDE in LinkedIn and ask for referral
+- AWS Community Builder in the Machine Learning category
+- [Google Developer Experts - Google for Developers](https://developers.google.com/community/experts)
+- https://developers.google.com/profile/u/vinita
+	- https://www.linkedin.com/in/vinita-silaparasetty/
+
+### Microsoft MVP
+
+To become a Microsoft MVP, you must be nominated by a current MVP or Microsoft employee and have a history of outstanding community contributions in the past 12 months, such as technical blogging, public speaking, and helping others in online forums. You need to be an individual (not an organization), at least 18 years old, and not a Microsoft employee, contractor, or government agency worker. The key is to share your expertise and impact the community, focusing on a specific Microsoft technology area to build your reputation as a community influencer.  
+
+Key Steps to Becoming a Microsoft MVP
+
+1. **Focus on a Microsoft Technology:** Choose a specific area within Microsoft's technology ecosystem (like Microsoft Azure, Microsoft 365, or Developer Technology) that you are passionate about and have deep expertise in.
+2. **Become a Community Influencer:** Share your knowledge and passion by:
+	- **Blogging and Content Creation:** Write technical blogs, create videos, or publish articles and books to share your insights and learnings.
+	- **Public Speaking:** Speak at conferences, user groups, and other events to share your expertise with a wider audience.
+	- **Community Engagement:** Actively participate in forums, answer questions, and contribute to open-source projects related to your chosen Microsoft technology.
+	- **Network:** Engage with Microsoft employees and existing MVPs to build relationships within the community.
+3. **Track Your Contributions:** Maintain a record of your activities over the last 12 months, documenting the type of contribution (blog, presentation, etc.), the topic, and the number of attendees or viewers, as this information is crucial for the nomination process.
+4. **Receive a Nomination:** You must be nominated for the award by a current Microsoft MVP or a Microsoft employee.
+5. **Fulfill Eligibility Criteria:** Ensure you meet the basic requirements:
+	- Be at least 18 years old.
+	- Be an individual, not an organization.
+	- Not be a current Microsoft employee, contractor, or worker for a government agency.
+6. **Acknowledge the Program Agreement:** Upon nomination, you will need to acknowledge and agree to the Microsoft MVP Program agreement.
+7. **Maintain Consistency and Professionalism:** The award is based on community impact over a 12-month rolling period. You must conduct yourself professionally and be consistent in your contributions to maintain the award.
+
+[Microsoft Most Valuable Professionals](https://mvp.microsoft.com/mvp)
 
 ## Questions / Followup
 

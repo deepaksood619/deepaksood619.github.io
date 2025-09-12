@@ -1,5 +1,7 @@
 # Personal Tutor
 
+“We can imagine a future where every student, regardless of their background or location, can learn anything in the world — in the way that works best for them.” – Google CEO Sundar Pichai, sharing that Gemini for Education is available for all high schools across America
+
 ## Study loop, personal tutor
 
 - Give task/questions

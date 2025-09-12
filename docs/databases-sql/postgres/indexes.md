@@ -2,6 +2,8 @@
 
 [PostgreSQL: Documentation: 16: Chapter 11. Indexes](https://www.postgresql.org/docs/current/indexes.html)
 
+[Introduction to Postgres Indexes – Frontend Masters Blog](https://frontendmasters.com/blog/intro-to-postgres-indexes/)
+
 ## Types
 
 ### [B-tree indexes](https://www.postgresql.org/docs/current/btree-intro.html)

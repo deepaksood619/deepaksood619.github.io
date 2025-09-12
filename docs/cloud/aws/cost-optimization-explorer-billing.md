@@ -92,6 +92,7 @@ Compute Optimizer generates recommendations for the following resources:
 
 - We can use AWS Trusted Advisor service that provides best practice recommendations across various categories, including cost optimization.
 - While it may not directly recommend RDS resizing, it offers insights into cost-effective resource utilization and can highlight opportunities for optimization.
+- AWS Trusted Advisor is a service that analyzes your AWS environment and provides real-time, actionable recommendations to help you optimize your cloud infrastructure by improving cost savings, performance, security, operational excellence, and service limits. It scans your infrastructure to ensure it adheres to AWS best practices, offering suggestions to resolve issues and improve your overall cloud posture. Trusted Advisor Priority is an advanced version available to AWS Enterprise Support customers, offering context-driven, prioritized recommendations from their AWS account team.
 
 [Organizational view for AWS Trusted Advisor - AWS Support](https://docs.aws.amazon.com/awssupport/latest/user/organizational-view.html)
 

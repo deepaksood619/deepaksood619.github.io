@@ -226,6 +226,10 @@ It is 5% of the remittance amount above INR 7 Lakhs. From October 1, 2023 onward
 - [Which bank is best for outward remittance in India : r/personalfinanceindia](https://www.reddit.com/r/personalfinanceindia/comments/1hsl3s7/which_bank_is_best_for_outward_remittance_in_india/)
 - [Cost effective outward remittance : r/nri](https://www.reddit.com/r/nri/comments/19auaen/cost_effective_outward_remittance/)
 
+## I-9 Meeting
+
+An "I-9 meeting" or Form I-9 process involves completing the U.S. Citizenship and Immigration Services (USCIS) Form I-9, which verifies an individual's identity and authorization to work in the U.S. During this meeting, the new employee presents documents to prove their identity and work eligibility, and the employer reviews these documents to ensure they appear genuine and relate to the employee, recording the information on the form. This process is required for all new hires within three business days of their start date.
+
 ## Links
 
 - [returns-tax-taxes-itr](economics/taxation/returns-tax-taxes-itr.md)

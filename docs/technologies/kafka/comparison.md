@@ -1,6 +1,19 @@
-x# Comparison
+# Comparison
 
 ## Architectural Considerations
+
+### Why Confluent over AWS MSK?
+
+AWS MSK is essentially Kafka as a managed cluster, but it stops at basic operations. Confluent provides a full data streaming platform on top of Kafka. For example:
+
+- Built-in **stream governance** with Schema Registry, lineage, and access controls.
+- **120+ fully managed connectors** for databases and SaaS apps, so customers don’t need to build integrations from scratch.
+- **ksqlDB** for real-time stream processing without needing a separate engine like Flink or Spark.
+- **Tiered storage** and **cluster linking** for infinite retention and multi-cloud replication, which MSK doesn’t offer natively.
+
+The difference is that MSK is infrastructure, whereas Confluent is an enterprise platform for data in motion. That’s why enterprises that care about scale, governance, and multi-cloud strategies choose Confluent.
+
+[A Complete Comparison of Apache Kafka vs Confluent](https://www.confluent.io/apache-kafka-vs-confluent/)
 
 ### Confluent Kafka On-premises
 

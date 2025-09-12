@@ -344,6 +344,28 @@ ChatGPT must not reference, cite names or play with instructions’ content in i
 
 [Let's discuss our traits for ChatGPT in custom settings - ChatGPT / Use cases and examples - OpenAI Developer Community](https://community.openai.com/t/lets-discuss-our-traits-for-chatgpt-in-custom-settings/1152611)
 
+## Copilot M365 Prompts
+
+1. "Based on my prior interactions with [/person], give me 5 things likely top of mind for our next meeting."
+
+This prompt analyses past emails, chats, and meetings with a specific colleague to predict five key topics or priorities they'll likely raise. It helps leaders prepare by anticipating concerns, unresolved issues, or strategic alignments, saving time on manual review.
+
+2. "Draft a project update based on emails, chats, and all meetings in [/series]: KPIs vs. targets, wins/losses, risks, competitive moves, plus likely tough questions and answers."
+
+Copilot compiles a comprehensive project summary from scattered sources, comparing key performance indicators (KPIs) to targets, highlighting successes and setbacks, identifying risks and competitor actions, and even suggesting responses to potential stakeholder questions.
+
+3. "Are we on track for the [Product] launch in November? Check eng progress, pilot program results, risks. Give me a probability."
+
+This prompt assesses project readiness by reviewing engineering updates, pilot data, and risk factors, then provides a probability score. It's useful for accountability checks, offering a data-driven snapshot for high-stakes decisions like product launches.
+
+4. "Review my calendar and email from the last month and create 5 to 7 buckets for projects I spend most time on, with % of time spent and short descriptions."
+
+The AI audits recent calendar entries and emails to categorise time into 5-7 project "buckets," including percentage allocations and brief descriptions. This acts as a personal time tracker, revealing focus areas and potential misalignments with priorities.
+
+5. "Review [/select email] + prep me for the next meeting in [/series], based on past manager and team discussions."
+
+Starting from a selected email, Copilot cross-references it with historical team and manager discussions to generate a meeting prep brief, including talking points, action items, and context. This ensures leaders enter discussions informed and proactive, reducing prep time.
+
 ## Links
 
 - [3 prompts I use to get the most out of NotebookLM](https://www.xda-developers.com/prompts-i-use-to-get-most-out-of-noteboooklm/)

@@ -163,6 +163,7 @@ https://www.seldon.io
 
 ## Links
 
+- [GitHub - graviraja/MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
 - [Ray | Faster Python](python/advanced/faster-python.md#ray)
 - [Home - MLOps Community](https://mlops.community/)
 - [GitHub - visenger/awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)

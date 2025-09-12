@@ -325,11 +325,13 @@ Total with Duplicates - 331 services
 ## 16. Migration & Transfer (9)
 
 1. **AWS Application Migration Service (MGN)** - Automate application migration and modernization
+	1. AWS Application Migration Service (MGN) is a highly automated lift-and-shift (rehost) solution that simplifies, expedites, and reduces the cost of migrating applications to AWS. It allows companies to lift-and-shift a large number of physical, virtual, or cloud servers without compatibility issues, performance disruption, or long cutover windows. Application Migration Service replicates source servers into your AWS account. When you’re ready, it automatically converts and launches your servers on AWS so you can quickly benefit from the cost savings, productivity, resilience, and agility of the cloud. Once your applications are running on AWS, you can leverage AWS services and capabilities to quickly and easily replatform or refactor those applications – which makes lift-and-shift a fast route to modernization.
 2. **AWS Application Discovery Service** - Discover on-premises applications to streamline migration
 3. **AWS Database Migration Service (DMS)** - Migrate databases with minimal downtime
 4. **AWS DataSync** - Simple, fast, online data transfer
 5. **AWS Mainframe Modernization** - Migrate, modernize, operate, and run mainframe workloads
 6. **AWS Migration Hub** - Track migrations from a single place
+	1. AWS Migration Hub delivers a guided end-to-end migration and modernization journey through discovery, assessment, planning, and execution.  Access the latest guidance and tools from one location to get automated recommendations, a prescriptive plan and cross-team collaboration and tracking to accelerate your transformation. Simplify rehost, refactor and replatform of your applications today with specialized services in Migration Hub built from the experience of migrating thousands of customers to AWS.
 7. **AWS Snow Family** - Physical devices to migrate data into and out of AWS
 8. **AWS Transfer Family** - Fully managed SFTP, FTPS, and FTP service
 	1. [FileZilla - The free FTP solution](https://filezilla-project.org/)
@@ -354,6 +356,8 @@ Total with Duplicates - 331 services
 13. **AWS Transit Gateway** - Easily scale VPC and account connections
 14. **AWS Verified Access (Preview)** - Provide secure access to corporate applications without a VPN
 15. **AWS VPN** - Securely access your network resources
+	1. AWS Site-to-Site VPN
+	2. AWS Client VPN
 16. **Elastic Load Balancing (ELB)** - Distribute incoming traffic across multiple targets
 
 ## 18. Quantum Technologies (1)
@@ -382,6 +386,7 @@ Total with Duplicates - 331 services
 9. **AWS Audit Manager** - Continuously audit your AWS usage to simplify how you assess risk and compliance
 10. **AWS Certificate Manager** - Provision, manage, and deploy SSL/TLS certificates
 11. **AWS CloudHSM** - Hardware-based key storage for regulatory compliance
+	1. A Cloud HSM is a hardware security module (HSM) service hosted in the cloud, providing dedicated, FIPS 140-2 Level 3 validated hardware to securely generate, store, and manage cryptographic keys for customers. It combines the security of physical HSMs with the scalability and flexibility of cloud services, allowing organizations to meet strict compliance requirements and protect sensitive data without managing their own physical hardware.
 12. **AWS Directory Service** - Host and manage active directory
 13. **AWS Firewall Manager** - Central management of firewall rules
 14. **AWS IAM Identity Center** - Manage single sign-on access to AWS accounts and apps

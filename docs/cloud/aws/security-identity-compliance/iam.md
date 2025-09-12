@@ -270,6 +270,8 @@ Set up and govern a secure, multi-account AWS environment
 
 Use AWS Control Tower to set up and operate your multi-account AWS environment with prescriptive controls designed to accelerate your cloud journey.  AWS Control Tower orchestrates multiple AWS services on your behalf while maintaining the security and compliance needs of your new or existing organization.
 
+AWS Control Tower provides the easiest way to set up and govern a secure, multi-account AWS environment by establishing a landing zone that follows AWS best practices. It automates the setup of a multi-account structure, centralizes logs, and uses a system of pre-packaged preventive and detective controls (guardrails) to enforce security, compliance, and operational policies. This enables organizations to maintain governance and prevent accounts from deviating from desired standards as they scale their cloud operations.
+
 [AWS Control Tower](https://aws.amazon.com/controltower/)
 
 ## Others

@@ -167,6 +167,8 @@ reasoning_agent = Agent(
 ## References
 
 - [Agents \| Kaggle](https://www.kaggle.com/whitepaper-agents)
+- [Agentic Design Patterns - Antonio Gulli - Google Docs](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/preview?tab=t.0)
+	- [Sign in - Google Accounts](https://notebooklm.google.com/notebook/44bc8819-958d-4050-8431-e7efe2dbd16e)
 - [Building effective agents \\ Anthropic](https://www.anthropic.com/research/building-effective-agents)
 - [Google's Blueprint to Building Powerful Agents - YouTube](https://www.youtube.com/watch?v=Z8vTgJkwyA0)
 - [Get started  \|  Genkit  \|  Firebase](https://firebase.google.com/docs/genkit/get-started)

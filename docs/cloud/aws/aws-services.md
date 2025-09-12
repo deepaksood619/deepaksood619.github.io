@@ -92,6 +92,9 @@ Scale Multiple Resources to Meet Demand
 2. AWS Config - Track Resource Inventory and Changes
 3. AWS OpsWorks - Automate Operations with Chef and Puppet
 4. AWS Service Catalog - Create and Use Standardized Products
+	1. [Introduction to AWS Service Catalog - YouTube](https://www.youtube.com/watch?v=A6-jv3gZa4U&ab_channel=AmazonWebServices)
+	2. Service Catalog enables organizations to create and manage catalogs of IT services that are approved for AWS. These IT services can include everything from virtual machine images, servers, software, databases, and more to complete multi-tier application architectures.
+	3. Service Catalog allows organizations to centrally manage commonly deployed IT services, and helps organizations achieve consistent governance and meet compliance requirements. End users can quickly deploy only the approved IT services they need, following the constraints set by your organization.
 5. AWS Systems Manager - Gain Operational Insights and Take Action
 6. AWS Trusted Advisor - Optimize costs, improve performance, and address security gaps
     1. [How do I start using Trusted Advisor? - YouTube](https://www.youtube.com/watch?v=i0IkKN9NoPk)
@@ -224,7 +227,16 @@ Amazon EventBridge is a serverless event bus that makes it easy to connect appli
 
 Schema Registry - Now in Preview:As your applications become more interconnected through events, you need to spend more effort in finding events and understanding their structure in order to write code to react to those events. The Amazon EventBridge schema registry stores event structure - or schema - in a shared central location and maps those schemas to code for Java, Python, and Typescript so it's easy to use events as objects in your code. Schema from your event bus can be automatically added to the registry through the schema discovery feature. You can connect to and interact with the schema registry from the AWS Management Console, APIs, or the SDK Toolkits for Jetbrains (Intellij, PyCharm, Webstorm, Rider) and VS Code.
 
+EventBridge includes two ways to process and deliver events: _event buses_ and _pipes_.
+
+- [Event buses](https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-event-bus.html) are routers that receive [events](https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-events.html) and delivers them to zero or more targets. Use EventBridge to route events from sources such as home-grown applications, AWS services, and third-party software to consumer applications across your organization. Event buses are well-suited for routing events from many sources to many targets, with optional transformation of events prior to delivery to a target.
+- [Pipes](https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-pipes.html) EventBridge Pipes is intended for point-to-point integrations; each pipe receives events from a single source for processing and delivery to a single target. Pipes also include support for advanced transformations and enrichment of events prior to delivery to a target.
+
+Pipes and event buses are often used together. A common use case is to create a pipe with an event bus as its target; the pipe sends events to the event bus, which then sends those events on to multiple targets. For example, you could create a pipe with a DynamoDB stream for a source, and an event bus as the target. The pipe receives events from the DynamoDB stream and sends them to the event bus, which then sends them on to multiple targets according to the rules you've specified on the event bus.
+
 https://aws.amazon.com/eventbridge
+
+[What Is Amazon EventBridge? - Amazon EventBridge](https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-what-is.html)
 
 ### Amazon EventBridge Scheduler
 
