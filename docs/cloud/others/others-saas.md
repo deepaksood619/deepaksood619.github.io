@@ -135,6 +135,13 @@ Automatically add new Google Workspace users to a specific group. This ensures t
 
 [Add a user alias domain or secondary domain - Google Workspace Admin Help](https://support.google.com/a/answer/7502379)
 
+### Migration
+
+- [Add a user alias domain or secondary domain - Google Workspace Admin Help](https://support.google.com/a/answer/7502379)
+	- User alias domain
+	- Secondary domain
+- [Limitations with multiple domains - Google Workspace Admin Help](https://support.google.com/a/answer/182081)
+
 ### Plus Addressing
 
 Gmail's "plus addressing" feature **lets you create multiple email address variations within your main account without needing new accounts or aliases**. You can simply append a "+" and any characters to your username before the "@gmail.com" address, and Gmail will deliver all emails to your inbox. This is useful for organizing, tracking, and filtering emails.

@@ -61,6 +61,7 @@ In the context of vector embeddings, yes, embeddings and vectors are the same th
 - [MTEB Leaderboard - a Hugging Face Space by mteb](https://huggingface.co/spaces/mteb/leaderboard)
     - MTEB - Massive Text Embeddings Benchmark
 - [**OpenAI Platform - Calculate Tokens for text**](https://platform.openai.com/tokenizer)
+	- [Tokenizer and token counter (GPT, Claude, Gemini, Grok) \| GPT for Work](https://gptforwork.com/tools/tokenizer)
 - [sentence-transformers/all-MiniLM-L6-v2 · Hugging Face](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 - [Pretrained Models - Sentence-Transformers documentation](https://www.sbert.net/docs/pretrained_models.html)
 - [sentence-transformers (Sentence Transformers)](https://huggingface.co/sentence-transformers)

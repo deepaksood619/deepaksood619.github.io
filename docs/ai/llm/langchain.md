@@ -53,6 +53,7 @@ https://cloud.llamaindex.ai/
 - [GraphRAG Python Package: Accelerating GenAI With Knowledge Graphs](https://neo4j.com/blog/graphrag-python-package/)
 - [User Guide: RAG — neo4j-graphrag-python documentation](https://neo4j.com/docs/neo4j-graphrag-python/current/user_guide_rag.html#retriever-configuration)
 - [GenAI Stack](https://neo4j.com/labs/genai-ecosystem/genai-stack/)
+- [Building LangGraph: Designing an Agent Runtime from first principles](https://blog.langchain.com/building-langgraph/)
 
 ##### Courses
 

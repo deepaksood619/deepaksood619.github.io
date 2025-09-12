@@ -44,31 +44,25 @@ Use data to help a company make decisions
 
 Taking raw information and turning it into knowledge that can be acted on or that can drive a decision
 
-Domain knowledge - translate a business need to a question, make accuracy-cost trade-offs
-
-Research - gather the data, design and conduct experiments
-
-Interpretation - Summarize and aggregate, visualize, apply statistical tools
+- Domain knowledge - translate a business need to a question, make accuracy-cost trade-offs
+- Research - gather the data, design and conduct experiments
+- Interpretation - Summarize and aggregate, visualize, apply statistical tools
 
 ### Data Modeling
 
 Using the data that we have to estimate the data that we wish we had
 
-Supervised learning - classification, regression, anomaly detection
-
-Unsupervised learning - clustering, dimensionality reduction, anomaly detection
-
-Custom algorithm development - feature engineering, numerical optimization
+- Supervised learning - classification, regression, anomaly detection
+- Unsupervised learning - clustering, dimensionality reduction, anomaly detection
+- Custom algorithm development - feature engineering, numerical optimization
 
 ### Data Engineering
 
 Taking these analysis and modeling activities and making everything work faster, more robustly, and on larger quantities of data
 
-Data management - database management, pipeline construction, data collection
-
-Production - automation, system integration, robustification
-
-Software engineering - ensure maintainability, scaling, collaborative development
+- Data management - database management, pipeline construction, data collection
+- Production - automation, system integration, robustification
+- Software engineering - ensure maintainability, scaling, collaborative development
 
 - https://medium.com/@darshilp/roadmap-for-data-engineering-2023-13f62f85d866
 - https://medium.com/@darshilp/roadmap-for-data-engineering-2024-af7ea4ead400
@@ -77,11 +71,9 @@ Software engineering - ensure maintainability, scaling, collaborative developmen
 
 ### Data Mechanics
 
-Data formatting - type conversion, string manipulation, fixing errors
-
-Value interpretation - dates and times, units of measurement, missing values
-
-Data handling - querying, slicing, joining
+- Data formatting - type conversion, string manipulation, fixing errors
+- Value interpretation - dates and times, units of measurement, missing values
+- Data handling - querying, slicing, joining
 
 https://brohrer.github.io/data_science_archetypes.html
 

@@ -35,6 +35,8 @@ https://docs.google.com/spreadsheets/d/1zl7adSoCYuWpuBnRPbkkhwT2RZ5hk3lUO4ud0NE7
 
 [Why Japan Could Rise Again as an Economic Super-Power - YouTube](https://www.youtube.com/watch?v=IY1NFvVBm0U)
 
+[Japan's Prince Is 1st Male In His Family To Reach Adulthood In 40 Years](https://www.ndtv.com/world-news/prince-hisahito-becomes-first-male-royal-to-reach-adulthood-in-40-years-9231716/amp/1)
+
 #### Economies
 
 [Japanese Decline: The Full Story - YouTube](https://www.youtube.com/watch?v=CVyiOewuTtw)

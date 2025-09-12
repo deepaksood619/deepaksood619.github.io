@@ -328,6 +328,12 @@ FoundationDB is a distributed database designed to handle large volumes of struc
 
 [FoundationDB | Home](https://www.foundationdb.org/)
 
+## KDB+
+
+kdb+ is a high-performance, in-memory, column-based relational time series database developed by KX. It is widely used in industries requiring rapid analysis of massive datasets, particularly in high-frequency trading and finance, due to its ability to process and store vast amounts of real-time and historical data with exceptional speed.
+
+A Kdb+ developer is a software engineer specializing in Kdb+, a high-performance in-memory/disk-based database built on the K language, used primarily in the financial industry for time-series data analysis and algorithmic trading. Developers work with the Q programming language to query and manage data within the Kdb+ system, creating solutions that leverage its capabilities for tasks like high-volume data processing, regulatory reporting, and real-time market data analysis.
+
 ## Others
 
 - [GT.M - Wikipedia](https://en.wikipedia.org/wiki/GT.M) - GT.M is a high-throughput key–value database engine optimized for transaction processing. (It is a type also referred to as "schema-less", "schema-free", or "NoSQL".) GT.M is also an application development platform and a compiler for the ISO standard M language, also known as MUMPS.

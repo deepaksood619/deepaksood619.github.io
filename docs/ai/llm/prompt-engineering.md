@@ -12,6 +12,8 @@
 
 **System Prompts,** which are at the backend and guide the LLM model to provide the desired output.
 
+- [GitHub - x1xhlol/system-prompts-and-models-of-ai-tools: FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+
 ## Prompting Principles
 
 ### Principle 1: Write clear and specific instructions

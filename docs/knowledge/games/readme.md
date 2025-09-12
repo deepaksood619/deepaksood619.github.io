@@ -9,4 +9,5 @@
 - [Couple Activities](couple-activities)
 - [Skiing / Sking](skiing-sking)
 - [Swimming](knowledge/games/swimming.md)
+- [kids](knowledge/games/kids.md)
 - [Others](knowledge/games/others.md)

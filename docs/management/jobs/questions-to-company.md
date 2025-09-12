@@ -166,6 +166,7 @@ https://neilpatel.com/training/growth-hacking-unlocked/raise-money
 - tofler.in
 - glassdoor
 - crunchbase
+	- https://www.cbinsights.com/what-we-offer/api/
 - Talk to previous ex-employees and some existing employees
 
 ## How to ask for raise / Salary negotiation

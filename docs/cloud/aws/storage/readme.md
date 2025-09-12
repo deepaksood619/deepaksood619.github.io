@@ -95,6 +95,8 @@ By default, only the account owner can access Amazon Glacier data. If other peop
 
 ## AWS Storage Gateway
 
+![Storage Gateway Architecture](../../../media/Pasted%20image%2020250912004236.png)
+
 ### Hybrid Storage Integration
 
 AWS Storage Gateway is a hybrid storage service that enables on-premises applications to implement seamless and secure storage integration with AWS cloud storage. AWS Storage Gateway supports industry standard storage protocols that work with existing applications as well.
@@ -114,6 +116,14 @@ Storage Gateway durably stores your on-premises application data by uploading it
 Similar to most AWS storage services all data transferred through AWS Storage Gateway is secure and encrypted when at rest. IAM services provide security in controlling access to AWS Storage Gateway and when integrating with other storage services, access control can be used in combination with other services.
 
 ![image](../../../media/Cloud-AWS-Storage-image3.jpg)
+
+Storage Gateway is available in three types
+
+- File Gateway
+- Volume Gateway
+- Tape Gateway
+
+which support various use cases like cloud-backed file shares, iSCSI-based block storage, and virtual tape libraries for backup and archiving.
 
 ## AWS Snowball
 

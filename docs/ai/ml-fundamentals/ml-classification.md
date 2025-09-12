@@ -5,14 +5,11 @@
 1. Parametric Machine Learning Algorithms
     - Algorithms that simplify the function to a known form
     - The algorithms involve two steps
-
         1. Select a form for the function
-
         2. Learn the coefficients for the function from the training data
     - Examples
         - Linear Regression
         - Logistic Regression
-
 2. Non-Parametric Machine Learning Algorithms
 
 Algorithms that do not make strong assumptions about the form of the mapping function. By not making assumptions, they are free to learn any functional form from the training data. Non-parametric methods are often more flexible, achieve better accuracy but require a lot more data and training time.
@@ -58,7 +55,7 @@ The computer is presented with example inputs and their desired outputs, given b
     - Number of features (variables or attributes) can increase (tumor size + age)
 - **Tagging**
 
-The problem of learning to predict classes that are not mutually exclusive is called**multi-label classification.** Auto-tagging problems are typically best described as multi-label classification problems. Think of the tags people might apply to posts on a technical blog, e.g., "machine learning", "technology", "gadgets", "programming languages", "Linux", "cloud computing", "AWS". A typical article might have 5--10 tags applied because these concepts are correlated. Posts about "cloud computing" are likely to mention "AWS" and posts about "machine learning" could also deal with "programming languages".
+The problem of learning to predict classes that are not mutually exclusive is called **multi-label classification.** Auto-tagging problems are typically best described as multi-label classification problems. Think of the tags people might apply to posts on a technical blog, e.g., "machine learning", "technology", "gadgets", "programming languages", "Linux", "cloud computing", "AWS". A typical article might have 5--10 tags applied because these concepts are correlated. Posts about "cloud computing" are likely to mention "AWS" and posts about "machine learning" could also deal with "programming languages".
 
 - **Search**
 - **Recommender Systems**
@@ -89,11 +86,9 @@ No labels are given to the learning algorithm, leaving it on its own to find str
     - Use OCTAVE
 
 - [Semi-supervised learning](https://en.wikipedia.org/wiki/Semi-supervised_learning): the computer is given only an incomplete training signal: a training set with some (often many) of the target outputs missing.
-
+	- [Semi-Supervised Learning in ML - GeeksforGeeks](https://www.geeksforgeeks.org/machine-learning/ml-semi-supervised-learning/)
 - [Active learning](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)): the computer can only obtain training labels for a limited set of instances (based on a budget), and also has to optimize its choice of objects to acquire labels for. When used interactively, these can be presented to the user for labeling.
-
 - [Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning): training data (in form of rewards and punishments) is given only as feedback to the program's actions in a dynamic environment, such as [driving a vehicle](https://en.wikipedia.org/wiki/Autonomous_car) or playing a game against an opponent.
-
 - Predictive Modelling or predictive analytics: learn the mapping Y = f(X) to make predictions of Y for new X.
 
 ![image](../../media/ML-Classification-image1.jpg)

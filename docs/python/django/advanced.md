@@ -66,3 +66,7 @@ ASGI Support
 https://docs.djangoproject.com/en/3.0/releases/3.0
 
 https://arunrocks.com/a-guide-to-asgi-in-django-30-and-its-performance
+
+## Django 5.0
+
+[Django 5.0 release notes \| Django documentation \| Django](https://docs.djangoproject.com/en/5.2/releases/5.0/)
