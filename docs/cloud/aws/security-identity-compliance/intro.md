@@ -19,6 +19,8 @@
 12. AWS Key Management Service - Managed Creation and Control of Encryption Keys
 13. AWS Organizations - Policy-based Management for Multiple AWS Accounts
 14. AWS Shield - DDOS Protection
+	1. **AWS Shield Standard is automatically enabled for all AWS customers at no additional cost** and protects against common DDoS attacks on your AWS services like ELB, CloudFront, and Route 53. However, for enhanced protection against more sophisticated attacks, you must explicitly enable and configure AWS Shield Advanced for specific AWS resources.
+	2. AWS Shield is a managed Distributed Denial of Service (DDoS) protection service that provides two tiers of protection: **AWS Shield Standard** is automatically included for all AWS customers at no extra cost, offering protection against common network and transport layer DDoS events. **AWS Shield Advanced** provides more sophisticated and customized protection against large and complex attacks, includes access to the AWS Shield Response Team for expert guidance, and offers cost protection for excess data transfer during a DDoS attack.
 15. AWS WAF - Filter Malicious Web Traffic
 
 [AWS Startup Security Baseline (AWS SSB) - AWS Prescriptive Guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/aws-startup-security-baseline/welcome.html)
@@ -48,6 +50,8 @@
 ### AWS Shared Responsibility Model
 
 ![aws-shared-responsibility-model](../../../media/Screenshot%202023-12-08%20at%206.30.28PM.jpg)
+
+[Shared responsibility model - Amazon Web Services: Risk and Compliance](https://docs.aws.amazon.com/whitepapers/latest/aws-risk-and-compliance/shared-responsibility-model.html)
 
 ## Others
 

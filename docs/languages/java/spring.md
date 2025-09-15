@@ -33,3 +33,5 @@ Dropwizard is a Java framework for building RESTful web services. It's an open-s
 spring jpa tutorial
 
 https://github.com/spring-projects/spring-petclinic
+
+[Model Context Protocol (MCP) :: Spring AI Reference](https://docs.spring.io/spring-ai/reference/api/mcp/mcp-overview.html)

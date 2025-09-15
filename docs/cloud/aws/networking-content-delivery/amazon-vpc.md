@@ -52,6 +52,8 @@ If you launch an instance using the Amazon EC2 API or a command line tool and yo
 
 For each security group, you add rules that control the inbound traffic to instances, and a separate set of rules that control the outbound traffic.
 
+AWS Security Groups **allow only "allow" rules, and they do not support "deny" rules**. By default, no traffic is allowed inbound until an "allow" rule is added, and outbound rules are implicitly permissive, allowing all outbound traffic until restricted by an added rule. Any traffic that doesn't have a matching allow rule is denied, as the absence of an allow rule implicitly denies access.
+
 ## Security > Data Protection > Internetwork Traffic Privacy in Amazon VPC
 
 Amazon Virtual Private Cloud provides features that you can use to increase and monitor the security for your virtual private cloud (VPC):
@@ -79,15 +81,33 @@ Endpoints are virtual devices. They are horizontally scaled, redundant, and high
 
 There are two types of VPC endpoints: **interface endpoints** and **gateway endpoints**. Create the type of VPC endpoint required by the supported service.
 
-### VPC Endpoint vs VPC Peering
+- **Gateway Endpoints** (S3, DynamoDB only) → route table based.
+- **Interface Endpoints (PrivateLink)** → ENI in your subnet, connects to AWS services or partner/customer services privately.
 
-#### VPC Endpoint
+### Interface Endpoint
+
+An [interface endpoint](https://docs.aws.amazon.com/vpc/latest/userguide/vpce-interface.html) is an elastic network interface with a private IP address from the IP address range of your subnet that serves as an entry point for traffic destined to a supported service.
+
+### Gateway Endpoints
+
+A [gateway endpoint](https://docs.aws.amazon.com/vpc/latest/userguide/vpce-gateway.html) is a gateway that you specify as a target for a route in your route table for traffic destined to a supported AWS service. The following AWS services are supported:
+
+- Amazon S3
+    - S3 Endpoint is almost always better than NAT Gateway.
+    - [Gateway endpoints for Amazon S3 - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/privatelink/vpc-endpoints-s3.html)
+- DynamoDB
+
+https://docs.aws.amazon.com/vpc/latest/userguide/vpc-endpoints.html
+
+## VPC Endpoint vs VPC Peering
+
+### VPC Endpoint
 
 - **Purpose:** VPC endpoints allow you to privately connect your VPC to supported AWS services without traversing the public internet. This enhances security and can improve data transfer performance.
 - **Use Case:** Commonly used for accessing AWS services like Amazon S3, DynamoDB, and other AWS services that support VPC endpoints.
 - **Traffic Path:** Traffic between your VPC and the AWS service does not leave the Amazon network. It stays within the AWS network.
 
-#### VPC Peering
+### VPC Peering
 
 - **Purpose:** VPC peering allows you to connect two VPCs privately, enabling communication between instances in different VPCs as if they were on the same network.
 - **Use Case:** Useful for scenarios where you have resources in separate VPCs that need to communicate with each other, such as connecting resources in a production VPC with those in a development VPC.
@@ -124,20 +144,7 @@ AWS PrivateLink provides private connectivity between virtual private clouds (VP
 
 In summary, VPC endpoints are specific to certain AWS services, while AWS PrivateLink is a broader solution that provides a consistent and private way to access various services over the AWS network. You might use VPC endpoints for specific services and AWS PrivateLink for a more comprehensive approach to secure, private connectivity.
 
-## Interface Endpoint
-
-An [interface endpoint](https://docs.aws.amazon.com/vpc/latest/userguide/vpce-interface.html) is an elastic network interface with a private IP address from the IP address range of your subnet that serves as an entry point for traffic destined to a supported service.
-
-## Gateway Endpoints
-
-A [gateway endpoint](https://docs.aws.amazon.com/vpc/latest/userguide/vpce-gateway.html) is a gateway that you specify as a target for a route in your route table for traffic destined to a supported AWS service. The following AWS services are supported:
-
-- Amazon S3
-    - S3 Endpoint is almost always better than NAT Gateway.
-    - [Gateway endpoints for Amazon S3 - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/privatelink/vpc-endpoints-s3.html)
-- DynamoDB
-
-https://docs.aws.amazon.com/vpc/latest/userguide/vpc-endpoints.html
+## Others
 
 NACL - Network Access Control List - [Control traffic to subnets using network ACLs - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html)
 
@@ -206,10 +213,9 @@ This will cost around $4 month per IP per month
 
 ## Others
 
-[What is AWS Direct Connect? - AWS Direct Connect](https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html)
-
-[AWS Transit Gateway](https://aws.amazon.com/transit-gateway/)
-
-[What is VPC peering? - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html)
-
-[Overview of Data Transfer Costs for Common Architectures | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/overview-of-data-transfer-costs-for-common-architectures/)
+- [What is AWS Direct Connect? - AWS Direct Connect](https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html)
+- [AWS Transit Gateway](https://aws.amazon.com/transit-gateway/)
+- [What is VPC peering? - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html)
+- [Overview of Data Transfer Costs for Common Architectures | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/overview-of-data-transfer-costs-for-common-architectures/)
+- [AWS VPC Beginner to Pro - Virtual Private Cloud Tutorial - YouTube](https://www.youtube.com/watch?v=g2JOHLHh4rI&ab_channel=freeCodeCamp.org)
+- [AWS VPC Beginner to Pro - Virtual Private Cloud Tutorial - YouTube](https://www.youtube.com/watch?v=g2JOHLHh4rI&ab_channel=freeCodeCamp.org)

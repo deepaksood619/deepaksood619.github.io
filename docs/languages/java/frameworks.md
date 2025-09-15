@@ -20,3 +20,7 @@ Quarkus is a Cloud Native, (Linux) Container First framework for writing Java ap
 - Developer Joy: Development centric experience without compromise to bring your amazing apps to life in no time
 
 https://quarkus.io
+
+## Others
+
+- [Azul \| The Java Platform for the Modern Cloud Enterprise](https://www.azul.com/)

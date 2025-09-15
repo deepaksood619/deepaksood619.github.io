@@ -184,6 +184,16 @@ If running a instance for less than 12-15 hours then on-demand can be cheaper th
 
 ![AWS Wrong Data Transfer Costs](../../media/Screenshot%202024-06-22%20at%2010.52.14%20PM.jpg)
 
+## AWS Support
+
+[AWS Support Plans - AWS Support](https://docs.aws.amazon.com/awssupport/latest/user/aws-support-plans.html)
+
+- Basic - free and included for all AWS customers
+- Developer
+- Business
+- Enterprise On-Ramp
+- Enterprise
+
 ## Links
 
 - [Aurora - configurations-optimizations-best-practices](databases-sql/aws-aurora/configurations-optimizations-best-practices.md)

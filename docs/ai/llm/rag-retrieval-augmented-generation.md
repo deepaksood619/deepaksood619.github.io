@@ -26,6 +26,12 @@ RAG is an AI framework for retrieving facts from an external knowledge base to g
 - [generative-ai/gemini/qa-ops/building\_DIY\_multimodal\_qa\_system\_with\_mRAG.ipynb at main · GoogleCloudPlatform/generative-ai · GitHub](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/qa-ops/building_DIY_multimodal_qa_system_with_mRAG.ipynb)
 - [Building A RAG System with Gemma, MongoDB and Open Source Models - Hugging Face Open-Source AI Cookbook](https://huggingface.co/learn/cookbook/en/rag_with_hugging_face_gemma_mongodb)
 
+## Types of RAG
+
+![Types of RAG](../../media/Pasted%20image%2020250913170827.jpg)
+
+[🌶️ Hot take: I'm tired of RAG systems that just grab the first document and call it done. 𝗔𝗴𝗲𝗻𝘁𝗶𝗰 𝗥𝗔𝗚 is probably the only way RAG is 𝘢𝘤𝘵𝘶𝘢𝘭𝘭𝘺 going to be useful. But what’s… \| Victoria Slocum \| 40 comments](https://www.linkedin.com/posts/victorialslocum_hot-take-im-tired-of-rag-systems-that-activity-7366063033221095425-HpZn)
+
 ## Advanced
 
 ![rag-architecture](../../media/Pasted%20image%2020250129203918.jpg)
@@ -64,6 +70,10 @@ Contextual Retrieval enhances each chunk by adding specific, explanatory context
 - **Late Chunking -** Embeds first, then chunks - preserving more contextual information in the vectors themselves.
 
 ![Chunking Techniques](../../media/Pasted%20image%2020250803135740.png)
+
+![Chunking Strategies](../../media/Pasted%20image%2020250913170654.jpg)
+
+[Chunking Strategies to Improve Your RAG Performance \| Weaviate](https://weaviate.io/blog/chunking-strategies-for-rag)
 
 #### Reranking
 

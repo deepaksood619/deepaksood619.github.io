@@ -91,6 +91,7 @@ Scale Multiple Resources to Meet Demand
 1. AWS CloudTrail - Track User Activity and API Usage
 2. AWS Config - Track Resource Inventory and Changes
 3. AWS OpsWorks - Automate Operations with Chef and Puppet
+	1. OpsWorks is a configuration management service that helps you configure and operate applications in a cloud enterprise by using Puppet or Chef. OpsWorks Stacks and AWS OpsWorks for Chef Automate let you use Chef cookbooks and solutions for configuration management, while OpsWorks for Puppet Enterprise lets you configure a Puppet Enterprise master server in AWS. Puppet offers a set of tools for enforcing the desired state of your infrastructure, and automating on-demand tasks.
 4. AWS Service Catalog - Create and Use Standardized Products
 	1. [Introduction to AWS Service Catalog - YouTube](https://www.youtube.com/watch?v=A6-jv3gZa4U&ab_channel=AmazonWebServices)
 	2. Service Catalog enables organizations to create and manage catalogs of IT services that are approved for AWS. These IT services can include everything from virtual machine images, servers, software, databases, and more to complete multi-tier application architectures.
@@ -152,6 +153,7 @@ Highly accurate intelligent search service powered by machine learning
     3. HTTP APIs - $1.05 vs REST APIs - $3.50
 3. Amazon Pinpoint - Push Notifications for Mobile Apps
 4. AWS AppSync - Real-time and Offline Mobile Data Apps
+	1. AWS AppSync is a fully managed GraphQL API and pub/sub service that simplifies the creation of real-time data-driven applications by connecting them to multiple data sources using a single API endpoint. It provides serverless APIs for data access, subscriptions, and events, handling tasks like data synchronization, scaling, and security. You can use it to build backends for web, mobile, and IoT apps, connecting to data stores like DynamoDB, Aurora, and Lambda functions, and even other HTTP endpoints.
 5. AWS Device Farm - Test Android, FireOS, and iOS Apps on Real Devices in the Cloud
     1. [Digital Experience Monitoring Platform by Mozark](https://www.mozark.ai/)
     2. [Device Farm - ATOMP.IO](https://atomp.io/devicefarm/)
@@ -221,11 +223,13 @@ Managed Message Broker for ActiveMQ
 
 Amazon MQ is a managed message broker service for Apache ActiveMQ that makes it easy to set up and operate message brokers in the cloud. Message brokers allow different software systems--often using different programming languages, and on different platforms--to communicate and exchange information. Amazon MQ reduces your operational load by managing the provisioning, setup, and maintenance of ActiveMQ, a popular open-source message broker. Connecting your current applications to Amazon MQ is easy because it uses industry-standard APIs and protocols for messaging, including JMS, NMS, AMQP, STOMP, MQTT, and WebSocket. Using standards means that in most cases, there's no need to rewrite any messaging code when you migrate to AWS.
 
+It supports **Apache ActiveMQ Classic and RabbitMQ**, enabling applications to communicate asynchronously using standard messaging protocols like JMS, AMQP, and MQTT.
+
 ### 5. Amazon Eventbridge
 
 Amazon EventBridge is a serverless event bus that makes it easy to connect applications together using data from your own applications, integrated Software-as-a-Service (SaaS) applications, and AWS services. EventBridge delivers a stream of real-time data from event sources, such as Zendesk, Datadog, or Pagerduty, and routes that data to targets like AWS Lambda. You can set up routing rules to determine where to send your data to build application architectures that react in real time to all of your data sources. EventBridge makes it easy to build event-driven applications because it takes care of event ingestion and delivery, security, authorization, and error handling for you.
 
-Schema Registry - Now in Preview:As your applications become more interconnected through events, you need to spend more effort in finding events and understanding their structure in order to write code to react to those events. The Amazon EventBridge schema registry stores event structure - or schema - in a shared central location and maps those schemas to code for Java, Python, and Typescript so it's easy to use events as objects in your code. Schema from your event bus can be automatically added to the registry through the schema discovery feature. You can connect to and interact with the schema registry from the AWS Management Console, APIs, or the SDK Toolkits for Jetbrains (Intellij, PyCharm, Webstorm, Rider) and VS Code.
+Schema Registry - Now in Preview: As your applications become more interconnected through events, you need to spend more effort in finding events and understanding their structure in order to write code to react to those events. The Amazon EventBridge schema registry stores event structure - or schema - in a shared central location and maps those schemas to code for Java, Python, and Typescript so it's easy to use events as objects in your code. Schema from your event bus can be automatically added to the registry through the schema discovery feature. You can connect to and interact with the schema registry from the AWS Management Console, APIs, or the SDK Toolkits for Jetbrains (Intellij, PyCharm, Webstorm, Rider) and VS Code.
 
 EventBridge includes two ways to process and deliver events: _event buses_ and _pipes_.
 
@@ -285,6 +289,7 @@ https://aws.amazon.com/chime
 
 1. Amazon WorkSpaces - Desktop Computing Service
 2. Amazon AppStream 2.0 - Stream Desktop Applications Securely to a Browser
+	1. Amazon AppStream is a fully managed AWS service for streaming desktop applications and providing virtual desktops (DaaS) without the need to rewrite applications or manage infrastructure. It allows users to access applications from any device using an HTML5-capable web browser or native client, ensuring they always have the latest software version. Key benefits include reduced costs, accelerated time to market for software vendors, simplified application management, enhanced security, and global scalability.
 
 ## Internet of Things
 

@@ -172,6 +172,13 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [Graphlit: Knowledge API Platform](https://www.graphlit.com/)
 - [GitHub - Olow304/memvid: Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.](https://github.com/Olow304/memvid)
 
+**Comparision**
+
+- [From Beta to Battle‑Tested: Picking Between Letta, Mem0 & Zep for AI Memory \| by Calvin Ku \| Asymptotic Spaghetti Integration \| Medium](https://medium.com/asymptotic-spaghetti-integration/from-beta-to-battle-tested-picking-between-letta-mem0-zep-for-ai-memory-6850ca8703d1)
+- **Go with Letta if:** You prioritize true open source, love engaging with an active community, aren’t on a tight production deadline, and are happy to grow alongside the project. It’s the enthusiast’s choice.
+- **Go with Mem0 if:** You need a functional AI memory solution _right now_, prefer a managed SaaS offering, and have the budget for their plans. Be prepared to rely on their cloud service, as self-hosting seems like a secondary concern for them. _Crucially, test it thoroughly yourself to ensure it meets your specific reliability and performance needs._
+- **Look into Zep if:** Your primary goal is to _learn_ about the cutting edge of AI memory systems. Read their blog, dig into the graphiti code, and critically analyze their paper (perhaps with a chuckle). It’s a valuable resource for understanding advanced concepts, even if their product isn’t ready for prime time deployment yet.
+
 ### LLM App Building
 
 - [**autollm**](https://github.com/safevideo/autollm) - Ship RAG based LLM web apps in seconds.

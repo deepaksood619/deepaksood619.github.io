@@ -1,5 +1,7 @@
 # Ideals / Dreams
 
+Aim for the moon; even if you miss, you’ll land among the stars.”
+
 ### Investment
 
 1. Don't invest in depreciating assets (cars or flats or houses)

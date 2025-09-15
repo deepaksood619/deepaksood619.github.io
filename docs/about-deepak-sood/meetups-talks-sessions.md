@@ -8,6 +8,8 @@
 
 [#agenticai #genai #dataengineering #aiarchitecture #opstree #aicommunity #machinelearning #futureofai #devrel #techleadership #firebolt #devrelsquad \| OpsTree Global](https://www.linkedin.com/posts/opstree-solutions_agenticai-genai-dataengineering-activity-7371869335935451136-_izf)
 
+[#devrel #agenticai #dataengineering #firebolt #devrelsquad #noidatech \| DevRelSquad®️](https://www.linkedin.com/feed/update/urn:li:activity:7371891658516389888/)
+
 ## TechPath 2.0 - ThoughWorks Gurgaon (30th August 2025)
 
 [From Zero to Hero: Understanding Data & AI - Google Slides](https://docs.google.com/presentation/d/1uk6hUqBeOGGXVYtIH0Cp-NbHuEyh2jXViawuKxmEZwg/edit?usp=sharing)
@@ -733,6 +735,7 @@ https://www.slideshare.net/deepaksood566/computer-science-career-guidance
 - [Build with AI - Gurugram Edition](https://www.linkedin.com/posts/deepaksood619_buildwithai-tfugghaziabad-google-activity-7318766782658355200-9Juk)
 - [Opstree - Data Engineering + AI Session](https://www.linkedin.com/posts/ashishrao-opstree_opstree-dataengineering-aitools-ugcPost-7334542303933435905-71xk)
 - [#genai #claudeai #mcp #sequentialthinking #knowledgegraph #aireflection… \| Deepak Sood](https://www.linkedin.com/posts/deepaksood619_genai-claudeai-mcp-activity-7334543721771782144-DKO4)
+- [#geminicodeassist #google #opstree #strategicpartnership #aiinengineering #softwareengineering #aidriven #codingassistants #enterpriseai #digitaltransformation #engineeringexcellence #apac… \| Deepak Sood](https://www.linkedin.com/feed/update/urn:li:ugcPost:7372474478548881408/)
 
 ## Finding Meetups
 

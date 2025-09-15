@@ -49,6 +49,21 @@ The architecture is a standard [transformer network](https://en.wikipedia.org/wi
 
 ![Major Gen AI Use Case 2025](../../media/Screenshot%202025-05-18%20at%201.08.37%20PM.jpg)
 
+## Misconceptions
+
+1. LLMs Actually Understand Language Like Humans Do
+2. More Parameters Always Mean Better Performance
+3. LLMs Are Just Autocomplete on Steroids
+4. LLMs Are Just Autocomplete on Steroids
+5. Fine-Tuning Always Makes Models Better
+6. LLMs Are Deterministic: Same Input, Same Output
+7. Bigger Context Windows Are Always Better
+8. LLMs Can Replace Traditional Machine Learning for All Language Tasks
+9. Prompt Engineering Is Just Trial and Error
+10. LLMs Will Soon Replace All Software Developers
+
+[10 Common Misconceptions About Large Language Models - MachineLearningMastery.com](https://machinelearningmastery.com/10-common-misconceptions-about-large-language-models/)
+
 ## Datasets
 
 [MMLU Dataset | Papers With Code](https://paperswithcode.com/dataset/mmlu) - Massive Multitask Language Understanding

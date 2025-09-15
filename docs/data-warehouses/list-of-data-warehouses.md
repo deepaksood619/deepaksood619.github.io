@@ -12,6 +12,7 @@
 10. [MemSQL](databases-sql/memsql/readme.md)
 11. [Presto / Trino](technologies/others/presto.md)
 12. FireBolt
+13. [Real-Time Database for fast analytics and AI, powered by Apache Doris \| VeloDB](https://www.velodb.io/)
 
 ## Firebolt
 

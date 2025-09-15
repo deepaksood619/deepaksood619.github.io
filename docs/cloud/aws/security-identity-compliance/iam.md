@@ -66,6 +66,8 @@ Guardrails to disable service access on the principals in the account
 
 Service control policies (SCPs) are a type of organization policy that you can use to manage permissions in your organization. SCPs offer central control over the maximum available permissions for all accounts in your organization. SCPs help you to ensure your accounts stay within your organization’s access control guidelines.
 
+[Service control policies (SCPs) - AWS Organizations](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html)
+
 ### AWS Identity and Access Management (IAM)
 
 Grant granular permissions on IAM principals (users and roles) and control the maximum permission they can set

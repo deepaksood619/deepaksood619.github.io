@@ -138,6 +138,7 @@ Several prominent AI-powered educational tools have emerged, showcasing the tran
 2. **DreamBox Learning**: A math education platform for K-8 students, DreamBox adapts lessons based on individual student progress. Research from Harvard University indicates significant gains in math skills among users, showcasing the effectiveness of real-time adjustment in instructional design [\[13\]](https://www.cdw.com/content/cdw/en/articles/software/ai-education-best-strategies-integrating-ai-learning-objectives.html) [\[24\]](https://spectrum.ieee.org/how-ai-can-personalize-education).
 3. **Khanmigo**: This AI chatbot is being piloted to assist teachers by engaging students through prompts that encourage creativity and simplify complex subjects. Its personalized approach supports various learning styles, further emphasizing the role of AI in enhancing educational experiences [13](https://www.cdw.com/content/cdw/en/articles/software/ai-education-best-strategies-integrating-ai-learning-objectives.html).
 4. **Edmentum**: This platform offers tailored learning experiences by assessing students' strengths and weaknesses and providing targeted instruction along with real-time feedback, enabling students to reach their full potential [25](https://www.linkedin.com/pulse/ai-k12-classrooms-tools-case-studies-implementation-jacob-brewer-6wzve).
+5. [AI Quests](https://research.google/ai-quests/intl/en_gb)
 
 ### Challenges and Strategies
 

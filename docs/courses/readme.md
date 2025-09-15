@@ -12,7 +12,7 @@
     3. [Launching into ML](courses/course-launching-into-ml.md)
     4. [Feature Engineering](courses/course-feature-engineering.md)
     5. [Art and Science of ML](courses/course-art-and-science-of-ml.md)
-6. TheSchoolOfAI - Decentralized Applications (10 Sept'2018 - 16 Oct'2018)
+6. The SchoolOfAI - Decentralized Applications (10 Sept'2018 - 16 Oct'2018)
 7. [TheSchoolOfAI - Move37](ai/move-37/readme.md) (10 Sept'2018 - 16 Oct'2018)
 8. [Professional Data Engineer (PDE)](courses/google-professional-data-engineer-pde.md)
 9. [ChatGPT Prompt Engineering for Developers](ai/llm/prompt-engineering.md) (2 May 2023)
@@ -59,8 +59,9 @@
 27. [AWS Certified Developer - Associate (Jan 2024)](courses/aws-certified-developer-associate.md)
 28. [AWS Certified Data Engineer - Associate (Feb 2024)](courses/aws-certified-data-engineer-associate.md)
     1. [AWS Certified Data Engineer - Associate Questions](courses/aws-certified-data-engineer-associate-questions.md)
-29. [Udemy - Becoming a Production MySQL DBA](courses/udemy-becoming-a-production-mysql-dba.md) (June 2024)
+29. [Udemy - Becoming a Production MySQL DBA](courses/udemy-becoming-a-production-mysql-dba.md) (June'2024)
 30. [Attention in Transformers](courses/attention-in-transformers.md)
+31. [aws-certified-cloud-practitioner-ccp](courses/aws-certified-cloud-practitioner-ccp.md) (September'2025)
 
 ## Certifications
 

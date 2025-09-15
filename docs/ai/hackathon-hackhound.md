@@ -47,3 +47,11 @@ The Mahakumbh is one of the largest religious gatherings in the world, drawing m
 When pathways become congested and movement is uncoordinated, panic can spread in seconds, leading to dangerous surges in the crowd. In such moments, traditional crowd management methods often fall short, as authorities struggle to track movement patterns and respond quickly enough to prevent disasters. With so many lives at stake, real-time awareness and rapid intervention are crucial.
 
 How can we use smart hardware-driven solution to solve this issue?
+
+## Others
+
+- [Hackathon](office/opstree/projects-clients/hackathon.md)
+- [RAG Hackathon Questions](ai/llm/rag-hackathon-questions.md)
+- [GenAI Projects](ai/llm/genai-projects.md)
+- [Practical AI Problems](ai/ml-fundamentals/practical-ai-problems.md)
+- [hackathon-rabbittai](ai/hackathon-rabbittai.md)

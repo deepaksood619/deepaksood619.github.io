@@ -15,6 +15,21 @@ https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_billing.html
 
 https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html
 
+## AWS CDF
+
+The AWS Cloud Adoption Framework (AWS CAF) leverages AWS experience and best practices to help you digitally transform and accelerate your business outcomes through innovative use of AWS. AWS CAF identifies specific organizational capabilities that underpin successful cloud transformations. These capabilities provide best practice guidance that helps you improve your cloud readiness. AWS CAF groups its capabilities in six perspectives: Business, People, Governance, Platform, Security, and Operations. Each perspective comprises a set of capabilities that functionally related stakeholders own or manage in the cloud transformation journey. Use the AWS CAF to identify and prioritize transformation opportunities, evaluate and improve your cloud readiness, and iteratively evolve your transformation roadmap.
+
+- **Envision -** The Envision phase of the AWS Cloud Adoption Framework (AWS CAF) focuses on demonstrating how the cloud will help accelerate your business outcomes.
+- **Align -** The Align phase of the AWS Cloud Adoption Framework (AWS CAF) focuses on identifying capability gaps across the six AWS CAF perspectives, identifying cross-organizational dependencies, and surfacing stakeholder concerns and challenges.
+- **Launch -** The Launch phase of the AWS Cloud Adoption Framework (AWS CAF) focuses on delivering pilot initiatives in production and on demonstrating incremental business value.
+- **Scale -** The Scale phase of the AWS Cloud Adoption Framework (AWS CAF) focuses on expanding production pilots and business value to desired scale and ensuring that the business benefits associated with your cloud investments are realized and sustained.
+
+![AWS CAF perspectives and foundational capabilities](../../media/Pasted%20image%2020250915000447.png)
+
+[AWS Cloud Adoption Framework](https://aws.amazon.com/cloud-adoption-framework/)
+
+[AWS Cloud Adoption Framework (CAF) Full Breakdown - YouTube](https://www.youtube.com/watch?v=WuL_MueH4Xk&ab_channel=CloudWolfAWS)
+
 ## AWS CDK
 
 The AWS CDK lets you build reliable, scalable, cost-effective applications in the cloud with the considerable expressive power of a programming language. This approach yields many benefits, including:

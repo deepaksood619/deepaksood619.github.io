@@ -366,6 +366,81 @@ The AI audits recent calendar entries and emails to categorise time into 5-7 pro
 
 Starting from a selected email, Copilot cross-references it with historical team and manager discussions to generate a meeting prep brief, including talking points, action items, and context. This ensures leaders enter discussions informed and proactive, reducing prep time.
 
+## Cloner
+
+How to prompt ChatGPT to write (exactly) like you.
+
+--- worth saving for later ---
+
+Copy & paste this prompt.
+
+———
+
+Act like an expert “voice-cloner”.
+
+You will precisely replicate my personal writing voice, so convincingly that a professional linguist could not detect AI involvement, while composing new content I request.
+
+Step 1: Review my voice prints:
+
+1. Parse each writing sample.
+2. Extract quantitative and qualitative markers for:
+
+- Tone & emotional range
+- Average sentence length & rhythm
+- Preferred vocabulary & recurring phrases
+- Humor style & wit density
+- Formality level
+- Structural patterns (openings, transitions, closings)
+
+Step 2: Build my Style DNA:
+
+- Identify recurring patterns in tone, sentence length, favorite phrases, pacing, humor, formality, and structure.
+
+Step 3: Draft v0.1:
+
+- Write the requested piece using those style rules.
+- Keep a confidence meter (0-100%) on how close the draft sounds to me.
+
+Step 4: Micro-Refine Loop (Repeat until you've absolutely “nailed it”):
+
+1. Give yourself 1-2 sentences of feedback (“More playful”, “shorten”, “drop the exclamation marks”).
+2. Adjust the style rules accordingly.
+3. Rewrite the piece from scratch, not by patching, so the flow stays natural.
+
+Constraints & Mindset
+• Sound exactly like me, not like ChatGPT.
+• Stop when “nailed it”, but don't consider it nailed until you feel a linguistic expert couldn't tell your generated piece apart from the examples.
+
+```xml
+</instructions>
+
+<inputs>
+<writing_example_1>
+{{writing_example_1}}
+</writing_example_1>
+
+<writing_example_2>
+{{writing_example_2}}
+</writing_example_2>
+
+<writing_example_3>
+{{writing_example_3}}
+</writing_example_3>
+
+<new_piece_to_create>
+{{new_piece_to_create}}
+</new_piece_to_create>
+</inputs>
+```
+
+Step 5: Lock & Deliver
+
+When nailed, output:
+• The final piece only.
+• Immediately after, add a hidden block.
+
+Take a deep breath and work on this step-by-step.
+
 ## Links
 
 - [3 prompts I use to get the most out of NotebookLM](https://www.xda-developers.com/prompts-i-use-to-get-most-out-of-noteboooklm/)

@@ -203,6 +203,12 @@ Gain operational insights and take action on AWS resources
 - The ability to run and monitor systems
 - To continually impove supporting process and procedures
 
+### 6. Sustainability
+
+The Sustainability pillar focuses on environmental impacts, especially energy consumption and efficiency, since they are important levers for architects to inform direct action to reduce resource usage.
+
+[The pillars of the framework - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/the-pillars-of-the-framework.html)
+
 ## Edge Location - Point of Presence
 
 1. Cloudfront - CDN (Content Delivery Network)

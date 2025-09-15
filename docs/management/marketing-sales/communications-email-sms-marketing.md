@@ -8,6 +8,7 @@
 - Abandonment/Recovery Emails
 - New Product/Service Launch Emails
 - Feedback/Survey Emails
+	- [/r/SampleSize: Where your opinions actually matter!](https://www.reddit.com/r/SampleSize/)
 - Transactional Emails
 - Year-in-review Emails
 

@@ -19,13 +19,19 @@
 
 ![image](../../../media/Cloud-AWS-Storage-image1.jpg)
 
+Amazon Simple Storage Service (Amazon S3) is object based storage, Amazon Elastic Block Store (Amazon EBS) is block based storage and Amazon Elastic File System (Amazon EFS) is file based storage
+
+- **Amazon Simple Storage Service (Amazon S3): Object-based storage.** - S3 stores data as objects within buckets. Each object consists of the data itself, a unique key (name), and metadata. This approach is highly scalable, durable, and cost-effective for storing large amounts of unstructured data like images, videos, backups, and data for cloud-native applications. Objects are accessed via an API and are not directly mounted to operating systems like traditional file systems.
+- **Amazon Elastic Block Store (Amazon EBS): Block-based storage.** - EBS provides persistent block-level storage volumes that can be attached to Amazon EC2 instances. These volumes function like raw, unformatted hard drives, allowing operating systems to format them with a file system of choice (e.g., ext4, NTFS) and manage data at the block level. EBS is ideal for applications requiring low-latency, high-performance storage, such as databases, transactional workloads, and boot volumes for EC2 instances.
+- **Amazon Elastic File System (Amazon EFS): File-based storage.** - EFS offers scalable, elastic, and shared file storage designed for use with multiple EC2 instances simultaneously. It provides a standard file system interface (NFS) that allows instances to access data in a hierarchical directory structure. EFS is suitable for use cases requiring shared access to file data across multiple servers, such as content management systems, development environments, and big data analytics.
+
 ![image](../../../media/Cloud-AWS-Storage-image2.jpg)
 
 - [Amazon S3](https://dzone.com/articles/five-things-you-probably-didnt-know-about-amazon-s) is cheapest for data storage alone. However, there are various other pricing parameters in S3, including cost per number of requests made, S3 Analytics, and data transfer out of S3 per gigabyte. EFS has the simplest cost structure.
 - Amazon S3 can be accessed from anywhere. AWS EBS is only available in a particular region, while you can share files between regions on multiple EFS instances.
 - [EBS](https://dzone.com/articles/using-ebs-and-efs-as-persistent-volume-in-kubernet) and EFS are both faster than Amazon S3, with high IOPS and lower latency.
 - EBS is scalable up or down with a single API call. Since EBS is cheaper than EFS, you can use it for database backups and other low-latency interactive applications that require consistent, predictable performance.
-- [EFS](https://dzone.com/articles/using-amazon-efs-for-container-workloads) is best used for large quantities of data, such as largeanalytic workloads. Data at this scale cannot be stored on a single EC2 instance allowed in EBS - requiring users to break up data and distribute it between EBS instances. The EFS service allows concurrent access to thousands of EC2 instances, making it possible to process and analyze large amounts of data seamlessly.
+- [EFS](https://dzone.com/articles/using-amazon-efs-for-container-workloads) is best used for large quantities of data, such as large analytic workloads. Data at this scale cannot be stored on a single EC2 instance allowed in EBS - requiring users to break up data and distribute it between EBS instances. The EFS service allows concurrent access to thousands of EC2 instances, making it possible to process and analyze large amounts of data seamlessly.
 
 ## Managed File Storage for EC2
 
@@ -158,6 +164,10 @@ Petabyte-scale Data Transport with On-board Compute
 ## AWS Snowmobile
 
 Exabyte-scale Data Transport
+
+In order to meet the needs of these customers, we are launching Snowmobile today. This secure data truck stores up to 100 PB of data and can help you to move exabytes to AWS in a matter of weeks (you can get more than one if necessary). Designed to meet the needs of our customers in the financial services, media & entertainment, scientific, and other industries, Snowmobile attaches to your network and appears as a local, NFS-mounted volume. You can use your existing backup and archiving tools to fill it up with data destined for Amazon Simple Storage Service (Amazon S3) or Amazon Glacier.
+
+[AWS Snowmobile – Move Exabytes of Data to the Cloud in Weeks \| AWS News Blog](https://aws.amazon.com/blogs/aws/aws-snowmobile-move-exabytes-of-data-to-the-cloud-in-weeks/)
 
 ## AWS ECR
 

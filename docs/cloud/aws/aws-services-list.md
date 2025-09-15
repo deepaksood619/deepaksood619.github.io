@@ -29,6 +29,8 @@ Total with Duplicates - 331 services
 19. **Apache Spark support on Amazon Athena** - Run interactive  on Apache Spark in under a second
 20. **Automated data-prep for Amazon QuickSight Q** - Answer your business questions by quickly and easily enabling your data for natural language search
 21. **AWS Clean Rooms (Preview)** - Match, analyze, and collaborate on datasets–without sharing or revealing underlying data
+	1. [Data Collaboration Service – AWS Clean Rooms – AWS](https://aws.amazon.com/clean-rooms/)
+	2. AWS Clean Rooms helps companies and their partners more easily and securely analyze and collaborate on their collective datasets—all without sharing or copying one another's underlying data. With AWS Clean Rooms, you can create a secure data clean room in minutes and collaborate with any other company to generate unique insights about advertising campaigns, investment decisions, and research and development.
 22. **AWS Clean Rooms ML** - Apply machine learning with your partners, without sharing underlying data
 23. **AWS Data Exchange** - Find, subscribe to, and use third-party data in the cloud
 24. **AWS Data Pipeline** - Orchestration service for periodic, data-driven workflows
@@ -119,11 +121,14 @@ Total with Duplicates - 331 services
 28. **AWS Lambda SnapStart** - Achieve up to 10x faster Java function startup times
 29. **AWS Local Zones** - Run latency-sensitive applications closer to end users
 30. **AWS Outposts** - Run AWS infrastructure on-premises
+	1. AWS Outposts is a family of fully managed solutions delivering AWS infrastructure and services to virtually any on-premises or edge location for a truly consistent hybrid experience. Outposts solutions allow you to extend and run native AWS services on premises, and is available in a variety of form factors, from 1U and 2U Outposts servers to 42U Outposts racks, and multiple rack deployments.
+	2. With AWS Outposts, you can run some AWS services locally and connect to a broad range of services available in the local AWS Region. Run applications and workloads on premises using familiar AWS services, tools, and APIs. Outposts supports workloads and devices requiring low latency access to on-premises systems, local data processing, data residency, and application migration with local system interdependencies.
 31. **AWS Outposts 1U and 2U** - Run AWS Outposts in smaller locations
 32. **AWS Serverless Application Repository** - Discover, deploy, and publish serverless applications
 33. **AWS SimSpace Weaver** - Build dynamic, large-scale spatial simulations on AWS managed infrastructure
 34. **AWS Snow Family** - Physical devices to aggregate and process data in edge locations, then transfer to AWS
 35. **AWS Wavelength** - Deliver ultra-low latency applications for 5G devices
+	1. AWS Wavelength brings Amazon Web Services' (AWS) compute and storage services to the edge of telecommunication carriers' 5G networks, allowing developers to build applications with extremely low-latency and high-bandwidth for mobile devices and users. It achieves this by deploying standard AWS services within carrier data centers, enabling applications to run directly on the 5G network, thereby minimizing the distance and delay for data to travel.
 36. **VMware Cloud on AWS** - Build a hybrid cloud without custom hardware
 37. **EC2 Image Builder** - Build and maintain secure Linux or Windows Server images
 
@@ -351,6 +356,8 @@ Total with Duplicates - 331 services
 8. **AWS Cloud WAN** - Easily build, manage, and monitor global wide area networks
 9. **AWS Direct Connect** - Dedicated network connection to AWS
 10. **AWS Global Accelerator** - Improve global application availability and performance
+	1. AWS Global Accelerator is a service that improves the availability and performance of your applications with local or global users. It provides static IP addresses that act as a fixed entry point to your application endpoints in a single or multiple AWS Regions, such as your Application Load Balancers, Network Load Balancers, or Amazon EC2 instances. AWS Global Accelerator uses the AWS global network to optimize the path from your users to your applications, improving the performance of your traffic by as much as 60%.
+	2. AWS Global Accelerator improves performance for a wide range of applications over TCP or UDP by proxying packets at the edge to applications running in one or more AWS Regions. AWS Global Accelerator is a good fit for non-HTTP use cases, such as gaming (UDP), loT (MQTT), or Voice over IP, as well as for HTTP use cases that specifically require static IP addresses or deterministic, fast regional failover.
 11. **AWS Private 5G** - Easily deploy, manage, and scale a private cellular network
 12. **AWS PrivateLink** - Securely access services hosted on AWS
 13. **AWS Transit Gateway** - Easily scale VPC and account connections
@@ -378,6 +385,22 @@ Total with Duplicates - 331 services
 2. **Amazon Detective** - Investigate potential security issues
 3. **Amazon GuardDuty** - Managed threat detection service
 4. **Amazon Inspector** - Automated and continual vulnerability management for Amazon EC2 and Amazon ECR
+	1. Automated vulnerability management for compute workloads
+	2. Simplified one-click onboarding and integration with AWS Organizations
+	3. Automated discovery and continual vulnerability scanning
+	4. Integration with AWS Systems Manager Agent
+	5. Agentless vulnerability assessments for Amazon EC2
+	6. Suppression of findings
+	7. Amazon Inspector risk score for findings
+	8. Automatic closure of remediated findings
+	9. Detailed coverage monitoring
+	10. Integration with AWS Security Hub and Amazon EventBridge
+	11. Integrating vulnerability mapping and generative AI powered remediation to layers in Lambda functions
+	12. Manage software bill of materials (SBOM) exports
+	13. Integration with developer tools
+	14. Support for CIS Benchmark assessments
+	15. Enhanced container security management
+	16. Enhanced code security management
 5. **Amazon Macie** - Discover and protect your sensitive data at scale
 6. **Amazon Security Lake** - Automatically centralize your security data with a few clicks
 	1. [Security Data Management - Amazon Security Lake - AWS](https://aws.amazon.com/security-lake/)

@@ -215,3 +215,6 @@ Extensions that helps make obsidian better
 - Use DriveSync to sync using Google Drive
 - https://dev.to/joeholmes/creating-a-diy-digital-garden-with-obsidian-and-gatsby-378e
 - https://foambubble.github.io/foam/user/recipes/recipes
+- [Joplin](https://joplinapp.org/)
+	- [I switched from Obsidian to this actually open-source app and I’m not going back](https://www.makeuseof.com/switched-from-obsidian-to-joplin/)
+	- [GitHub - laurent22/joplin: Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.](https://github.com/laurent22/joplin)

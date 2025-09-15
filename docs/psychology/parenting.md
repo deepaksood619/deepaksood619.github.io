@@ -1,5 +1,7 @@
 # Parenting / children
 
+"The children are always ours, every single one of them, all over the globe; and I am beginning to suspect that whoever is incapable of recognizing this may be incapable of morality." -- James Baldwin
+
 - Use adjectives - Teddy’s fur is soft," "The radio is quiet," "The tree outside is big
 - Open cup drinking
 - **Thoughts**

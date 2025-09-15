@@ -6,6 +6,8 @@
 
 **Watch great leaders motivational videos** - oprah wimfrey
 
+Aim for the moon; even if you miss, you’ll land among the stars.”
+
 I don't know but we will figure it out
 
 Better try then cry

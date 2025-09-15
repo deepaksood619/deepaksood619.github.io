@@ -183,6 +183,9 @@
 ### Others
 
 - [Synopsys \| EDA Tools, Semiconductor IP & Systems Verification](https://www.synopsys.com/)
+- [All-in-one HR Software for UK businesses \| Rippling UK](https://www.rippling.com/)
+	- [G-P \| Hire, Onboard, Manage, and Pay Global Teams](https://www.globalization-partners.com/)
+	- [Deel \| Global Payroll, Compliance & HR Solutions \| HRIS](https://www.deel.com/)
 
 ## Good companies
 

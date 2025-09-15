@@ -105,3 +105,13 @@ Context engineering is becoming the new core skill since it addresses the real b
 My opinion: Context engineering is no longer optional, it's a key pillar in building reliable AI agents.
 
 [Context Engineering is the secret to reliable AI Agents \| Om Nalinde \| 52 comments](https://www.linkedin.com/posts/that-aum_context-engineering-is-the-secret-to-reliable-activity-7357259604847656960-Sxvc/)
+
+[The RIGHT Method for Context Engineering (+3 Advanced Techniques) - YouTube](https://www.youtube.com/watch?v=BkfLE6gMmM4&ab_channel=ArsenyShatokhin)
+
+![context-engineering](../../media/Screenshot%202025-09-13%20at%204.17.21%20PM.jpg)
+
+**Advanced Context Engineering Methods**
+
+- ﻿﻿Async Context Synchronization
+- ﻿﻿Agentic Scratchpad Updates
+- ﻿﻿Multi-Agent Context

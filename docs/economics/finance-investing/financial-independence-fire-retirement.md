@@ -37,6 +37,7 @@ Retiring with a part-time job and minimal post-retirement corpus
 
 - Choicest lifestyle, but with an eye on the future.
 - Opportunity to go back to full-time employment in case you exhaust your F.I.R.E budget due to unforeseen circumstances
+- [Coast Fire Calculator - an update to the freefincal robo advisor](https://freefincal.com/coast-fire-calculator-an-update-to-the-freefincal-robo-advisor/)
 
 ## Retirement Calculation with Variables
 

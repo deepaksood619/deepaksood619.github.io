@@ -22,6 +22,8 @@
 - [GitHub - Hannibal046/Awesome-LLM: Awesome-LLM: a curated list of Large Language Model](https://github.com/Hannibal046/Awesome-LLM)
 - ChatGPT / OpenAI
 	- [Introducing gpt-oss \| OpenAI](https://openai.com/index/introducing-gpt-oss/)
+		- [GPT-OSS - OpenAI's open source model fixes + long context support is here! 🦥 1. Fixed float16 infinite losses (\>65504 overflows) 2. SWA=128 Flex default uses 129 tokens (extra 1) 3. Fixed MXFP4… \| Daniel Han \| 42 comments](https://www.linkedin.com/posts/danielhanchen_gpt-oss-openais-open-source-model-fixes-activity-7366886695532756992-VyFL)
+		- [Long Context gpt-oss Training \| Unsloth Documentation](https://docs.unsloth.ai/new/gpt-oss-how-to-run-and-fine-tune/long-context-gpt-oss-training)
 	- GPT-5
 		- [Frontend coding with GPT-5](https://cookbook.openai.com/examples/gpt-5/gpt-5_frontend)
 		- [GPT-5 prompting guide](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide)

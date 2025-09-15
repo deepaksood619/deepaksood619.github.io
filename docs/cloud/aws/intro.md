@@ -20,6 +20,8 @@ Each **Region** is a separate geographic area. Each Region has multiple, isolate
 
 Each Region is completely independent. Each Availability Zone is isolated, but the Availability Zones in a Region are connected through low-latency links. A Local Zone is an AWS infrastructure deployment that places select services closer to your end users. A Local Zone is an extension of a Region that is in a different location from your Region. It provides a high-bandwidth backbone to the AWS infrastructure and is ideal for latency-sensitive applications, for example machine learning.
 
+All AWS Availability Zones (AZs) have more than one data center, as an **AZ is defined as one or more discrete data centers with their own independent power, networking, and connectivity**. AWS customers can leverage this infrastructure for high-availability by designing applications to run in multiple AZs within the same region for fault tolerance.
+
 ![image](../../media/Cloud-AWS-Intro-image1.jpg)
 
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html
@@ -62,3 +64,8 @@ https://www.youtube.com/watch?v=3hLmDS179YE
 - [AWS re:Invent 2024 announcements and keynote updates](https://www.aboutamazon.com/news/aws/aws-reinvent-2024-keynote-live-news-updates)
 - [AWS re:Invent 2024 Highlights - reInvent Keynote & New Features Summarized - YouTube](https://www.youtube.com/watch?v=VVGcp_Wypuo)
 - [The AWS re:Invent CEO Keynote with Matt Garman in 10 Minutes - YouTube](https://www.youtube.com/watch?v=rQiziOkJFSg)
+
+## Others
+
+- [Architecture overview - Innovation Sandbox on AWS](https://docs.aws.amazon.com/solutions/latest/innovation-sandbox-on-aws/architecture-overview.html)
+- [Quick Start - AWS Nuke](https://aws-nuke.ekristen.dev/quick-start/)

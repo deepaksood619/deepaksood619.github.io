@@ -22,6 +22,12 @@ https://docs.google.com/spreadsheets/d/1zl7adSoCYuWpuBnRPbkkhwT2RZ5hk3lUO4ud0NE7
 - [How China Ruined Their Own Economy | Epic Economics - YouTube](https://www.youtube.com/watch?v=iW4wfXdtGZ4)
 - [China’s BIGGEST MISTAKE | Real Estate Market Crisis | Impact on Economy | Finshots TV - YouTube](https://www.youtube.com/watch?v=rD-cBwlYTVc)
 - [1938 Yellow River flood - Wikipedia](https://en.wikipedia.org/wiki/1938_Yellow_River_flood)
+- Dan Wang
+	- [2023 letter \| Dan Wang](https://danwang.co/2023-letter/)
+	- [Dan Wang \| The secure transport of light](https://danwang.co/)
+	- Breakneck: China’s Quest to Engineer the Future
+	- China is an _engineering state_, which brings a sledgehammer to problems both physical and social, in contrast with America’s _lawyerly society_, which brings a gavel to block almost everything, good and bad.
+	- [Opinion \| Does the Future Belong to China? - The New York Times](https://www.nytimes.com/video/opinion/100000010365173/does-the-future-belong-to-china.html)
 
 ### Taiwan
 

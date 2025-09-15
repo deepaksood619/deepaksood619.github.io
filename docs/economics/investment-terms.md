@@ -130,6 +130,8 @@ For eg in case of a SIP of Rs 10,000 for an year, only the first 10,000 is inves
 
 https://freefincal.com/what-is-xirr
 
+[What is XIRR in mutual funds? A simple example](https://freefincal.com/what-is-xirr-in-mutual-funds-a-simple-example/)
+
 ## IRR vs CAGR
 
 The [compound annual growth rate](https://www.investopedia.com/terms/c/cagr.asp)(CAGR) measures the return on an investment over a certain period of time. The IRR is also a [rate of return](https://www.investopedia.com/terms/r/rateofreturn.asp) but is more flexible than the CAGR. While CAGRsimply uses the beginning and ending value, IRR considers multiple cash flows and periods -- reflecting the fact that cash inflows and outflows often constantly occur when it comes to investments. IRR can also be used in [corporate finance](https://www.investopedia.com/terms/c/corporatefinance.asp) when a project requires cash outflows upfront but then results in cash inflows as investments pay off.

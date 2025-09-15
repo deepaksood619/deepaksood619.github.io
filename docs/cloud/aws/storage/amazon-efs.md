@@ -16,6 +16,10 @@ Amazon EFS offers three storage classes
 
 Data that is frequently accessed tends to have higher performance needs, so EFS provides an SSD-powered EFS Standard class designed to deliver sub-millisecond latencies. For data that’s infrequently accessed, you can use EFS’s two cost-optimized storage classes that provide low double-digit millisecond latencies: EFS Infrequent Access (IA), designed for data accessed only a few times a quarter, and EFS Archive, designed for data accessed less than few times a year.
 
+- EFS is multi-AZ
+- EFS OneZone is Single AZ
+- EFS Regional file systems are multi-AZ, storing data across multiple Availability Zones for high durability and availability, while EFS One Zone file systems store data in a single AZ, making them unavailable during a fault in that zone. You must select a Regional storage class, such as EFS Standard, for multi-AZ capabilities.
+
 [Amazon EFS Storage Classes](https://aws.amazon.com/efs/storage-classes/)
 
 ### Lifecycle management and Intelligent-Tiering

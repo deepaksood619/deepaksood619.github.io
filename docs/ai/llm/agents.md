@@ -133,6 +133,8 @@ reasoning_agent = Agent(
 
 [agno/cookbook/getting\_started/05\_agent\_team.py at main · agno-agi/agno · GitHub](https://github.com/agno-agi/agno/blob/main/cookbook/getting_started/05_agent_team.py)
 
+[Introducing Agno 2.0 and AgentOS: A High-Performance Runtime for Multi-Agent Systems \| Ashpreet B. posted on the topic \| LinkedIn](https://www.linkedin.com/posts/ashpreetbedi_today-were-releasing-agno-20-and-sharing-activity-7371241593552392192-x4pH)
+
 ## AI Agents / Tools
 
 - [agent.ai \| The Professional Network for AI Agents](https://agent.ai/agents)
@@ -150,10 +152,15 @@ reasoning_agent = Agent(
 - [GitHub - weaviate/elysia: Python package and backend for the Elysia platform app.](https://github.com/weaviate/elysia)
 	- [Elysia - Demo](https://elysia.weaviate.io/)
 	- [Elysia: Building an end-to-end agentic RAG app \| Weaviate](https://weaviate.io/blog/elysia-agentic-rag)
+	- [We built so much into our open source agentic RAG framework, Elysia, that our "bonus features" would be the main selling points of other apps 😅 Seriously - while other frameworks are celebrating… \| Victoria Slocum \| 18 comments](https://www.linkedin.com/posts/victorialslocum_we-built-so-much-into-our-open-source-agentic-activity-7371516549565825024-mXbu)
 - **[GitHub - emcie-co/parlant: LLM agents built for control. Designed for real-world use. Deployed in minutes.](https://github.com/emcie-co/parlant)**
 - [GitHub - openai/agents.md: AGENTS.md — a simple, open format for guiding coding agents](https://github.com/openai/agents.md)
 
 ![AI Agents Landscape](../../media/Pasted%20image%2020250114143214.jpg)
+
+## Examples
+
+- [I built an agent that tells you exactly how to sell to anyone - just from their name. Here's what it does: → Takes a name as input (provide company too if common name) → Finds their entire digital… \| Ethan Kinnan \| 1,490 comments](https://www.linkedin.com/posts/ethan-kinnan_i-built-an-agent-that-tells-you-exactly-how-ugcPost-7371962445747253248-bzCS/)
 
 ## VertexAI
 

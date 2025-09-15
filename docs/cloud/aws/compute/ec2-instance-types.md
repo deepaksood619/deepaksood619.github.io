@@ -152,6 +152,20 @@ https://aws.amazon.com/ec2/pricing/reserved-instances/pricing
 
 - Savings plans (discount upto 66%)
 - Dedicated hosts
+- Dedicated Instances
+
+## EC2 Dedicated Host vs Dedicated Instances
+
+Dedicated Hosts are entire physical servers reserved for a single customer, providing complete isolation and control, ideal for server-bound licenses and compliance. Dedicated Instances are EC2 instances running on hardware exclusively for your account but sharing physical servers with your other instances, offering a balance of isolation and cost-efficiency. The key differences lie in the level of isolation, control, and cost, with Hosts being more expensive but offering greater visibility and flexibility for specific software licenses.
+
+|                                               | Dedicated Host                                                                                | Dedicated Instances  |
+| --------------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------- |
+| **Billing**                                   | Per-host billing                                                                              | Per-instance billing |
+| **Visibility of sockets, cores, and host ID** | Provides visibility of the number of sockets and physical cores                               | No visibility        |
+| **Host and instance affinity**                | Allows you to consistently deploy instances to the same physical server over time             | Not supported        |
+| **Targeted instance placement**               | Provides additional visibility and control over how instances are placed on a physical server | Not supported        |
+| **Automatic Instance Recovery**               | Supported                                                                                     | Supported            |
+| **Bring Your Own License - BYOL**             | Supported                                                                                     | Not supported        |
 
 ## Differences Between Intel, AMD, and Graviton
 

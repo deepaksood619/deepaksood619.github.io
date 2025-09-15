@@ -57,6 +57,10 @@ Deployment modes -
 - **Immutable:** In this mode, Elastic Beanstalk will create a new Auto Scaling Group and deploy the new instances there. Then, if the deployment succeeds, it will replace the old Auto Scaling Group with the newly created one.
 - **Rolling:** During the deployment, Elastic Beanstalk will deploy the new application version to some of the currently running instances, and repeat that process until all instances are running the same version. Using this mode, the application will run below capacity, but with zero downtime and no additional costs.
 - **Rolling with additional batches:** In this mode, Elastic Beanstalk will make sure there is no capacity reduction. It does so by first starting new instances with the new version of the application, and only then deploying the new version to the old instances.
+- **Pricing - Free**
+- [2) How to Deploy Python Flask based Web Application to Elastic Beanstalk Environment - YouTube](https://www.youtube.com/watch?v=FaKlKCicyKQ&ab_channel=MyStudy)
+- [3) Explore AWS Beanstalk environment - YouTube](https://www.youtube.com/watch?v=i9ibhRlow_0&ab_channel=MyStudy)
+- [CI-CD Pipeline with AWS CodePipeline and AWS Elastic Beanstalk - YouTube](https://www.youtube.com/watch?v=k5-y92x9jV4&ab_channel=DigitalCloudTraining)
 
 ## AWS Fargate
 

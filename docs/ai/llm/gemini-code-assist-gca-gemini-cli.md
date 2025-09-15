@@ -23,3 +23,7 @@
 
 - **Private Repository Indexing:** Gemini Code Assist Enterprise can index your organization's private code repositories. This creates a searchable index of your internal codebase, including your specific coding styles, patterns, and internal libraries.
 - **Remote Context Integration:** When a developer uses Gemini Code Assist within their IDE, the system can access this indexed remote context. This means that code suggestions and completions are not only based on general knowledge but also on the specific code and conventions found in your company's private repositories.
+
+## Others
+
+- [Agent Development Kit](https://google.github.io/adk-docs/#)
