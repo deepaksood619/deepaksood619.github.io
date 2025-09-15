@@ -50,7 +50,7 @@ How can we use smart hardware-driven solution to solve this issue?
 
 ## Others
 
-- [Hackathon](office/opstree/projects-clients/hackathon.md)
+- [Hackathons](ai/hackathons.md)
 - [RAG Hackathon Questions](ai/llm/rag-hackathon-questions.md)
 - [GenAI Projects](ai/llm/genai-projects.md)
 - [Practical AI Problems](ai/ml-fundamentals/practical-ai-problems.md)

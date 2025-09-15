@@ -155,6 +155,8 @@ reasoning_agent = Agent(
 	- [We built so much into our open source agentic RAG framework, Elysia, that our "bonus features" would be the main selling points of other apps 😅 Seriously - while other frameworks are celebrating… \| Victoria Slocum \| 18 comments](https://www.linkedin.com/posts/victorialslocum_we-built-so-much-into-our-open-source-agentic-activity-7371516549565825024-mXbu)
 - **[GitHub - emcie-co/parlant: LLM agents built for control. Designed for real-world use. Deployed in minutes.](https://github.com/emcie-co/parlant)**
 - [GitHub - openai/agents.md: AGENTS.md — a simple, open format for guiding coding agents](https://github.com/openai/agents.md)
+- [GitHub - agentscope-ai/agentscope: AgentScope: Agent-Oriented Programming for Building LLM Applications](https://github.com/agentscope-ai/agentscope)
+	- [AgentScope](https://doc.agentscope.io/)
 
 ![AI Agents Landscape](../../media/Pasted%20image%2020250114143214.jpg)
 

@@ -155,6 +155,15 @@ MOSFETs have several advantages, including:
 
 MOSFETs are well-suited for applications such as microprocessors, memory devices, and communication systems.
 
+## Photonic Chips
+
+- [This Chip Uses Light Instead of Electricity! - YouTube](https://www.youtube.com/watch?v=RhreHjCCn5Q)
+- [The Newest Computer Chips aren’t “Electronic” - YouTube](https://www.youtube.com/watch?v=iOXn4vqYOJA&ab_channel=Techquickie)
+- [NVIDIA’s New Photonic Technology Explained - YouTube](https://www.youtube.com/watch?v=7WuLHM8d-ew&ab_channel=AnastasiInTech)
+- [New Photonic Chip: x1000 faster - YouTube](https://www.youtube.com/watch?v=8ohh0cdgm_Y&ab_channel=AnastasiInTech)
+- [Home - Photonic](https://photonic.com/)
+- [Photonic Materials](https://photonicmaterials.cmp.eecs.uni-kassel.de/)
+
 ## Others
 
 - https://en.wikipedia.org/wiki/MISRA_C

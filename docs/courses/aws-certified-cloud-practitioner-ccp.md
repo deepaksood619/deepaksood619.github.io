@@ -1,6 +1,7 @@
 # AWS Certified Cloud Practitioner (CCP)
 
 Networking and Content Delivery:
+
 1. Amazon API Gateway
 2. Amazon CloudFront
 3. AWS Direct Connect
@@ -14,6 +15,7 @@ Networking and Content Delivery:
 11. AWS Client VPN
 
 Security, Identity, and Compliance:
+
 1. AWS Artifact
 2. AWS Audit Manager
 3. AWS Certificate Manager (ACM)

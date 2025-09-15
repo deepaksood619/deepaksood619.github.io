@@ -3,6 +3,7 @@
 ## Firebolt Meetup - Agentic AI Meets Data (20 Sept 2025)
 
 - Firebolt - DevRelSquad
+- [deck2 - Presentation](https://www.canva.com/design/DAGywhNW2Kk/iKgvlSD_yAVNaLkOuplPdg/edit?utm_content=DAGywhNW2Kk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ![Agentic AI Meets Data](../media/agentic-ai-firebolt.jpeg)
 

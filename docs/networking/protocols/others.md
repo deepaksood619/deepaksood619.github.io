@@ -147,3 +147,14 @@ https://web.dev/webtransport
 ## Wifi Calling
 
 [What is Wi-Fi calling?](https://www.techtarget.com/whatis/definition/Wi-Fi-calling)
+
+### WiFi 6
+
+- [Do You Have Too Many Devices on your Router's WiFi? \| NETGEAR](https://www.netgear.com/hub/network/wifi-device-calculator/)
+- [Wi-Fi 5 vs. Wi-Fi 6: What's the Difference and Why Upgrade? - YouTube](https://www.youtube.com/watch?v=_SSu0Y4vpBU&ab_channel=mikbes)
+- [WiFi 7 vs WiFi 6: Is it Worth It? - YouTube](https://www.youtube.com/watch?v=VXyxxQ0m8dM&ab_channel=TheUnlockr)
+- MU-MIMO
+	- MU-MIMO stands for Multi-User, Multiple-Input, Multiple-Output, a wireless technology that allows a single Wi-Fi access point (router) to communicate with multiple devices simultaneously. It significantly improves network efficiency and speeds, especially in environments with many connected devices, by dividing the available bandwidth into multiple spatial streams and sending data to various clients at once, rather than one device at a time. MU-MIMO is a key feature of Wi-Fi 5 (802.11ac) Wave 2 and is further enhanced in Wi-Fi 6 (802.11ax) and later standards.
+- [WI-FI 6, Why it's the BIGGEST update to Wi-Fi EVER! - 802.11ax - YouTube](https://www.youtube.com/watch?v=8cmmVEoftEM&ab_channel=NetworkChuck)
+- [Wi-Fi 6 vs Wi-Fi 7 - YouTube](https://www.youtube.com/watch?v=ZFahOs6zToc&ab_channel=TechIndex)
+- [NETGEAR Orbi Wi-Fi 6E Mesh Router Review - 6 Months Later - YouTube](https://www.youtube.com/watch?v=l8VHwUgWHOk&ab_channel=6MonthsLater)
