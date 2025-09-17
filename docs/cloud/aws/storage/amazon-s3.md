@@ -216,6 +216,18 @@ By using Amazon S3 analytics _Storage Class Analysis_ you can analyze storage ac
 
 [Reviewing bucket access using IAM Access Analyzer for S3 - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-analyzer.html)
 
+## Amazon S3 Replication
+
+Amazon Simple Storage Service (S3) Replication is an elastic, fully managed, low cost feature that replicates objects between buckets. S3 Replication offers the most flexibility and functionality in cloud storage, giving you the controls you need to meet your data sovereignty and other business needs.
+
+With Amazon S3 Replication, you can configure Amazon S3 to automatically replicate S3 objects across different AWS Regions by using S3 Cross-Region Replication (CRR) or between buckets in the same AWS Region by using S3 Same-Region Replication (SRR). S3 Replication offers the flexibility of replicating to multiple destination buckets in the same, or different AWS Regions. S3 Replication supports two-way replication between two or more buckets in the same or different AWS Regions. While live replication like CRR and SRR automatically replicates newly uploaded objects as they are written to your bucket, S3 Batch Replication allows you to replicate existing objects. You can use S3 Batch Replication to backfill a newly created bucket with existing objects, retry objects that were previously unable to replicate, migrate data across accounts, or add new buckets to your data lake. Customers needing a predictable replication time backed by a Service Level Agreement (SLA) can use Replication Time Control (RTC) to replicate objects in less than 15 minutes.
+
+Amazon S3 Replication also provides detailed metrics and notifications to monitor the status of object replication between buckets. You can monitor replication progress by tracking bytes pending, operations pending, replication latency, and operations failed replication using the S3 console or Amazon CloudWatch. You can also set up S3 Event Notifications to receive replication failure notifications to quickly diagnose and correct configuration issues. S3 Replication metrics and notifications helps you closely monitor replication progress. To learn more, visit Monitoring progress with replication metrics and Amazon S3 event notifications.
+
+[S3 Replication - Object Storage Features – Amazon S3](https://aws.amazon.com/s3/features/replication/)
+
+[Replicating objects within and across Regions - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication.html)
+
 ## Versioning
 
 Versioning in Amazon S3 is a means of keeping multiple variants of an object in the same bucket. You can use the S3 Versioning feature to preserve, retrieve, and restore every version of every object stored in your buckets. With versioning you can recover more easily from both unintended user actions and application failures. After versioning is enabled for a bucket, if Amazon S3 receives multiple write requests for the same object simultaneously, it stores all of those objects.

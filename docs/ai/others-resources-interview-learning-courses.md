@@ -44,6 +44,7 @@
 	- [Introduction to Model Context Protocol](https://anthropic.skilljar.com/introduction-to-model-context-protocol)
 	- [Model Context Protocol: Advanced Topics](https://anthropic.skilljar.com/model-context-protocol-advanced-topics)
 	- [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action)
+- [Ed Donner \| AI startup co-founder and leader; Gen AI and LLM instructor \| Udemy](https://www.udemy.com/user/ed-donner-3/)
 
 ## AI (Artificial Intelligence) + ML (Machine Learning)
 

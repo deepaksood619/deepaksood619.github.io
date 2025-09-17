@@ -47,26 +47,28 @@
     - [Amazon Redshift](databases-sql/aws-redshift/readme.md)
     - [Amazon Database Migration Service DMS](aws-database-migration-service-dms)
 - [AWS Backup](cloud/aws/aws-backup.md)
-- [Amazon Bedrock](cloud/aws/bedrock.md)
-- [AWS Rekognition](aws-rekognition)
-- [Amazon Transcribe](cloud/aws/amazon-transcribe.md)
-- [Amazon Pinpoint](amazon-pinpoint)
-- [Amazon Q (Preview)](https://aws.amazon.com/q/)
-    - Your generative AI-powered assistant designed for work that can be tailored to your business
-    - Q Business
-    - Q Builder
-    - Bedrock
-    - Sagemaker
-    - Trainium & Inferentia
-    - [Supported connectors - Amazon Q](https://docs.aws.amazon.com/amazonq/latest/business-use-dg/connectors-list.html)
-    - Pricing
-		- Amazon Q Business  $20/month per user
-			- Amazon Q Business Lite
-			- Amazon Q Business Pro
-		- Amazon Q Developer $25/month per user
-		- https://aws.amazon.com/q/developer/
+- [AWS AI Services](cloud/aws/aws-ai-services.md)
+	- [Amazon Bedrock](cloud/aws/bedrock.md)
+	- [AWS Rekognition](aws-rekognition)
+	- [Amazon Transcribe](cloud/aws/amazon-transcribe.md)
+	- [Amazon Pinpoint](amazon-pinpoint)
+	- [Amazon Q (Preview)](https://aws.amazon.com/q/)
+	    - Your generative AI-powered assistant designed for work that can be tailored to your business
+	    - Q Business
+	    - Q Builder
+	    - Bedrock
+	    - Sagemaker
+	    - Trainium & Inferentia
+	    - [Supported connectors - Amazon Q](https://docs.aws.amazon.com/amazonq/latest/business-use-dg/connectors-list.html)
+	    - Pricing
+			- Amazon Q Business  $20/month per user
+				- Amazon Q Business Lite
+				- Amazon Q Business Pro
+			- Amazon Q Developer $25/month per user
+			- https://aws.amazon.com/q/developer/
 - [Course - Architecting on AWS](cloud/aws/course-architecting-on-aws.md)
 - [AWS Competency Program](cloud/aws/aws-competency-program.md)
+- [AWS SDP](cloud/aws/aws-sdp.md)
 - [Others](cloud/aws/others.md)
 
 ## Products

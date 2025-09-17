@@ -169,3 +169,4 @@ Contextual Retrieval enhances each chunk by adding specific, explanatory context
 - [What is Agentic RAG \| Weaviate](https://weaviate.io/blog/what-is-agentic-rag)
 - [RAG with BigQuery - YouTube](https://youtu.be/2kUNLAnXuUE)
 - [RAG Crash Course - Daily Dose of Data Science](https://www.dailydoseofds.com/tag/rag-crash-course/)
+- [Mastering RAG: How To Architect An Enterprise RAG System](https://galileo.ai/blog/mastering-rag-how-to-architect-an-enterprise-rag-system)

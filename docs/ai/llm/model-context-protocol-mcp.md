@@ -201,6 +201,18 @@ Find the stocks that dropped more than 10% in a single day?
         "--password", "your-password"
       ]
     },
+"mssql-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@executeautomation/database-server",
+        "--sqlserver",
+        "--server", "server-name",
+        "--database", "database-name",
+        "--user", "your-username",
+        "--password", "your-password"
+      ]
+    },
 ```
 
 ```bash
@@ -278,6 +290,7 @@ claude mcp add mcp_server_mysql \
 	- X402 - Payment-Required Protocol by Coinbase
 - [GitHub - i-am-bee/acp: Open protocol for communication between AI agents, applications, and humans.](https://github.com/i-am-bee/acp)
 	- [A Hands-on Guide to Agent Communication Protocol](https://blog.dailydoseofds.com/p/a-hands-on-guide-to-agent-communication)
+- Google - Agent Payments Protocol (AP2)
 
 ## Links
 

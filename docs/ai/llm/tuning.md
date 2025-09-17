@@ -76,3 +76,4 @@ The first release of bitnet.cpp is to support inference on CPUs. bitnet.cpp achi
 - [Inside CALM: Google DeepMind’s Unique Method to Augment LLMs with Other LLMs \| by Jesus Rodriguez \| Medium](https://jrodthoughts.medium.com/inside-calm-google-deepminds-unique-method-to-augment-llms-with-other-llms-92cb9526e66c)
 	- [GitHub - google-deepmind/calm](https://github.com/google-deepmind/calm)
 	- [Accelerating text generation with Confident Adaptive Language Modeling (CALM)](https://research.google/blog/accelerating-text-generation-with-confident-adaptive-language-modeling-calm/)
+- [\[2408.13296v1\] The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs: An Exhaustive Review of Technologies, Research, Best Practices, Applied Research Challenges and Opportunities](https://arxiv.org/abs/2408.13296v1)

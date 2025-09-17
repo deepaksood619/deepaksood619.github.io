@@ -11,6 +11,8 @@
 
 [#devrel #agenticai #dataengineering #firebolt #devrelsquad #noidatech \| DevRelSquad®️](https://www.linkedin.com/feed/update/urn:li:activity:7371891658516389888/)
 
+[#devrel #agenticai #dataengineering #firebolt #devrelsquad #noida \| DevRelSquad®️](https://www.linkedin.com/posts/devrelsquad_devrel-agenticai-dataengineering-activity-7373336356296704000-dmHu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
+
 ## TechPath 2.0 - ThoughWorks Gurgaon (30th August 2025)
 
 [From Zero to Hero: Understanding Data & AI - Google Slides](https://docs.google.com/presentation/d/1uk6hUqBeOGGXVYtIH0Cp-NbHuEyh2jXViawuKxmEZwg/edit?usp=sharing)

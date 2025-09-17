@@ -112,31 +112,6 @@ Scale Multiple Resources to Meet Demand
 6. AWS Elemental MediaStore - Media Storage and Simple HTTP Origin
 7. AWS Elemental MediaTailor - Video Personalization and Monetization
 
-## Machine Learning
-
-1. Amazon SageMaker - Build, Train, and Deploy Machine Learning Models at Scale
-2. Amazon Comprehend - Discover Insights and Relationships in Text
-3. Amazon Lex - Build Voice and Text Chatbots
-4. Amazon Polly - Turn Text into Lifelike Speech
-5. Amazon Rekognition - Analyze Image and Video
-6. Amazon Machine Learning - Machine Learning for Developers
-7. Amazon Translate - Natural and Fluent Language Translation
-8. Amazon Transcribe - Automatic Speech Recognition
-9. AWS DeepLens - Deep Learning Enabled Video Camera
-10. AWS Deep Learning AMIs - Quickly Start Deep Learning on EC2
-11. Apache MXNet on AWS - Scalable, High-performance Deep Learning
-12. TensorFlow on AWS - Open-source Machine Intelligence Library
-13. Amazon Textract - Easily extract printed text, handwriting, and data from virtually any document - https://github.com/aws-samples/amazon-textract-code-samples/tree/master/python
-14. Amazon Kendra
-15. [AWS Fraud Detector](https://aws.amazon.com/fraud-detector/)
-
-Highly accurate intelligent search service powered by machine learning
-
-- Quickly implement a unified search experience across multiple structured and unstructured content repositories.
-- Use natural language processing (NLP) to get highly accurate answers without the need for machine learning (ML) expertise.
-- Fine-tune your search results based on content attributes, freshness, user behavior, and more.
-- Deliver ML-powered instant answers, FAQs, and document ranking as a fully managed service.
-
 ## Mobile Services
 
 1. AWS Mobile Hub - Build, Test, and Monitor Apps

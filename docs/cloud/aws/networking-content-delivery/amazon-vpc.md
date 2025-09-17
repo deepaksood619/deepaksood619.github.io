@@ -54,6 +54,9 @@ For each security group, you add rules that control the inbound traffic to insta
 
 AWS Security Groups **allow only "allow" rules, and they do not support "deny" rules**. By default, no traffic is allowed inbound until an "allow" rule is added, and outbound rules are implicitly permissive, allowing all outbound traffic until restricted by an added rule. Any traffic that doesn't have a matching allow rule is denied, as the absence of an allow rule implicitly denies access.
 
+- A security group contains a numbered list of rules and evaluates these rules in the increasing order while deciding whether to allow the traffic
+- A security group is stateful, that is, it automatically allows the return traffic.
+
 ## Security > Data Protection > Internetwork Traffic Privacy in Amazon VPC
 
 Amazon Virtual Private Cloud provides features that you can use to increase and monitor the security for your virtual private cloud (VPC):
@@ -70,6 +73,8 @@ Amazon Virtual Private Cloud provides features that you can use to increase and 
 | Is stateful: Return traffic is automatically allowed, regardless of any rules                                                                                | Is stateless: Return traffic must be explicitly allowed by rules                                                                                                                       |
 | We evaluate all rules before deciding whether to allow traffic                                                                                               | We process rules in number order when deciding whether to allow traffic                                                                                                                |
 | Applies to an instance only if someone specifies the security group when launching the instance, or associates the security group with the instance later on | Automatically applies to all instances in the subnets that it's associated with (therefore, it provides an additional layer of defense if the security group rules are too permissive) |
+
+While security groups operate at the instance level, network ACLs operate at the subnet level. Additionally, network ACLs are stateless, meaning they don't automatically allow return traffic.
 
 https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Security.html#VPC_Security_Comparison
 

@@ -204,6 +204,7 @@
 - [Abhisar Sharma - YouTube](https://www.youtube.com/@Abhisar_Sharma)
 - [DB Live - YouTube](https://www.youtube.com/@DBLive)
 - [4PM - YouTube](https://www.youtube.com/@4PMNewsNetwork)
+- [Detox Traveller - YouTube](https://www.youtube.com/@detoxtraveller)
 
 #### Economics News
 

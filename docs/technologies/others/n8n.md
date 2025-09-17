@@ -29,6 +29,7 @@ docker compose up
 - [AI-Powered Social Media Content Generator & Publisher \| n8n workflow template](https://n8n.io/workflows/2950-ai-powered-social-media-content-generator-and-publisher/)
 - [AI-Powered Cold Calling Automation with Vapi.ai, GPT-4o & Google Sheets \| n8n workflow template](https://n8n.io/workflows/5008-ai-powered-cold-calling-automation-with-vapiai-gpt-4o-and-google-sheets/)
 - [Automate Sales Cold Calling Pipeline with Apify, GPT-4o, and WhatsApp \| n8n workflow template](https://n8n.io/workflows/5449-automate-sales-cold-calling-pipeline-with-apify-gpt-4o-and-whatsapp/)
+- [200+ Ready To Deploy n8n AI Agents \| Om Nalinde \| 1,646 comments](https://www.linkedin.com/posts/that-aum_200-ready-to-deploy-n8n-ai-agents-activity-7373315297765744642-sEuN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 
 ## Google Gemini Workflow
 
