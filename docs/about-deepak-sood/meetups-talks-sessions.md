@@ -1,9 +1,23 @@
 # Meetups / Talks / Sessions
 
+## Hackathon - GenAI - Powered Solution - Hack The Matrix - UnsaidTalks (21 Sept 2025)
+
+[⏳ GenAI Powered Solution Hackathon: Hack the Matrix by Deepak Sood (AI Architect) - YouTube](https://www.youtube.com/live/_pwwfb1E2V8)
+
+![Hackathon](../media/Pasted%20image%2020250918112303.png)
+
+[#hackathon #students #guidance #unsaidtalks #mentorship #funandlearn #resume #placement #internship #games #competition \| UnsaidTalks Education](https://www.linkedin.com/feed/update/urn:li:activity:7374058225513672706/)
+
+[Excited to collaborate with Deepak Sood - AI Architect @ Opstree for our upcoming Hackathon this Sunday on 21st September. Students will get a chance to win Scholarships upto Rs.30k and certificate… \| Raghav Chopra](https://www.linkedin.com/posts/raghav-chopra_excited-to-collaborate-with-deepak-sood-activity-7374117364046618624-KBAM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
+
+[Unstop - Competitions, Quizzes, Hackathons, Scholarships and Internships for Students and Corporates](https://unstop.com/p/genai-powered-solution-build4hire-scholarship-hackathon-unsaidtalks-education-1558498)
+
 ## Firebolt Meetup - Agentic AI Meets Data (20 Sept 2025)
 
 - Firebolt - DevRelSquad
 - [deck2 - Presentation](https://www.canva.com/design/DAGywhNW2Kk/iKgvlSD_yAVNaLkOuplPdg/edit?utm_content=DAGywhNW2Kk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Mini lab: Query real-time analytical database, Firebolt from your AI assistant using Firebolt MCP Server](https://www.devrelsquad.com/firebolt-lab#)
+- [Fill out the event form \| GoAvo AI](https://www.goavo.ai/events/forms/fillup?id=68c317df69f0f9f8dd480d1f)
 
 ![Agentic AI Meets Data](../media/agentic-ai-firebolt.jpeg)
 
@@ -12,6 +26,18 @@
 [#devrel #agenticai #dataengineering #firebolt #devrelsquad #noidatech \| DevRelSquad®️](https://www.linkedin.com/feed/update/urn:li:activity:7371891658516389888/)
 
 [#devrel #agenticai #dataengineering #firebolt #devrelsquad #noida \| DevRelSquad®️](https://www.linkedin.com/posts/devrelsquad_devrel-agenticai-dataengineering-activity-7373336356296704000-dmHu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
+
+[See Deepak Sood’s activity on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7374319361567805440/)
+
+## Podcast - The Tech Loop by OpsTree
+
+- Intro - 1-1 min
+- How we got to GenAI - 3-4 min
+- Problems in GenAI
+- Solution - prompt engineering and context engineering, rag, MCP, agents
+- Vibe coding vibe engineering
+- Future
+- Vc
 
 ## TechPath 2.0 - ThoughWorks Gurgaon (30th August 2025)
 

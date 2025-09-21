@@ -24,7 +24,7 @@
 13. Apache MXNet on AWS - Scalable, High-performance Deep Learning
 14. TensorFlow on AWS - Open-source Machine Intelligence Library
 15. Amazon Textract - Easily extract printed text, handwriting, and data from virtually any document
-	1.  https://github.com/aws-samples/amazon-textract-code-samples/tree/master/python
+	1. https://github.com/aws-samples/amazon-textract-code-samples/tree/master/python
 16. Amazon Kendra - Enterprise search service
 17. [AWS Fraud Detector](https://aws.amazon.com/fraud-detector/) - Fraud detection in payments or loyalty services
 
@@ -44,7 +44,7 @@ Highly accurate intelligent search service powered by machine learning
 - Deliver ML-powered instant answers, FAQs, and document ranking as a fully managed service.
 
 ### Amazon Comprehend vs Amazon Kendra
- 
+
 | Dimension                      | Comprehend                                                                                             | Kendra                                                                                                                                                                                              |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Goal**                       | Insight extraction, analysis, classification of text. Useful in pipelines, decision making, analytics. | Information retrieval / search: enabling users to ask questions and get relevant documents/snippets.                                                                                                |
@@ -53,6 +53,7 @@ Highly accurate intelligent search service powered by machine learning
 | **Latency / usage pattern**    | Often used in pipelines (batch or real-time for individual documents). E.g. as documents arrive.       | Often used in applications with interactive queries by users.                                                                                                                                       |
 | **Scalability considerations** | Scales for analyzing large volumes of text. Costs based on text processed, custom model training, etc. | Costs depend on size/number of indices, connectors, frequency of queries, updates. Also, keeping indices up to date.                                                                                |
 | **Integration**                | Can feed Comprehend outputs into other services (e.g. metadata for search).                            | Can integrate with Comprehend for enriching the search index. For example, extract entities via Comprehend, attach them as metadata in Kendra to filter or better rank.                             |
+
 #### When to use each
 
 - Use **Comprehend** when you need to _analyze_ text: extract insights, perform sentiment, detect entities, classify documents, discover topics. Good for analytics, monitoring, compliance, content understanding.

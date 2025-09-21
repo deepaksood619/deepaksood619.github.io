@@ -97,14 +97,6 @@ https://trac.ffmpeg.org/wiki/Concatenate
 
 [GitHub - google-ai-edge/mediapipe: Cross-platform, customizable ML solutions for live and streaming media.](https://github.com/google-ai-edge/mediapipe)
 
-## PDF Unlock
-
-```bash
-brew install qpdf
-
-qpdf --password=YOUR_PASSWORD --decrypt input.pdf output.pdf
-```
-
 ## References
 
 - https://www.wowza.com/docs/tutorials

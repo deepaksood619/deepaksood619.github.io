@@ -85,3 +85,4 @@ In short, if you want to stay on top of the latest trends and **see what people 
 	- [#1 Linkedin Automation Tool](https://expandi.io/)
 	- [AI Outbound Engine for B2B Sales \| Apollo.io](https://www.apollo.io/)
 	- [Find email addresses and send cold emails • Hunter](https://hunter.io/)
+	- [5 awesome things you can do with CB Insights - YouTube](https://www.youtube.com/watch?v=I68Uyx5Lof8)

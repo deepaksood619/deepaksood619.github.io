@@ -122,6 +122,15 @@ Yogurt - lactobacillus bulgaris and streptococcus thermophilus.
 
 ## Gain Weight Diet Plan
 
+- Bhuni hui safed til bhigana h
+- Badam bhigana h
+- Kache Khagur without
+- Pumpkin seeds
+- Akroat
+- Blend
+- Every week 2-3 times
+- Noor - apollo 24/7
+
 Keep 10 almonds soaked in water over-night and eat them as soon as you wake up the next morning. You must have a glass of banana shake during breakfast clubbed with either 1 bowl vegetable daliya or vegetable oats. You can substitute these with 2 slices of multigrain bread or 30g paneer, tofu or chicken breast.
 
 - During mid-morning, have 1 whole fruit of your choice and drink 1 glass of lassi, coconut water or butter milk

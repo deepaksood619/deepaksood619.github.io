@@ -42,7 +42,7 @@ Help AWS customers to develop meaningful business insights through Amazon Quicks
 
 ### Amazon OpenSearch Service Partners
 
-Make it easier for customers to perform interactive log analytics, real-time application monitoring, website search, and more. 
+Make it easier for customers to perform interactive log analytics, real-time application monitoring, website search, and more.
 
 ### Amazon MSK Partners
 
@@ -50,4 +50,4 @@ Make it easy for customers to build real-time data streaming solutions and imple
 
 ### AWS Glue Partners
 
-Help customers with AWS Glue for data integration, data pipeline, and data catalogue use cases. 
+Help customers with AWS Glue for data integration, data pipeline, and data catalogue use cases.

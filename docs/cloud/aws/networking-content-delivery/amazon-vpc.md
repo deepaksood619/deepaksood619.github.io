@@ -54,7 +54,7 @@ For each security group, you add rules that control the inbound traffic to insta
 
 AWS Security Groups **allow only "allow" rules, and they do not support "deny" rules**. By default, no traffic is allowed inbound until an "allow" rule is added, and outbound rules are implicitly permissive, allowing all outbound traffic until restricted by an added rule. Any traffic that doesn't have a matching allow rule is denied, as the absence of an allow rule implicitly denies access.
 
-- A security group contains a numbered list of rules and evaluates these rules in the increasing order while deciding whether to allow the traffic
+- A NACL contains a numbered list of rules and evaluates these rules in the increasing order while deciding whether to allow the traffic
 - A security group is stateful, that is, it automatically allows the return traffic.
 
 ## Security > Data Protection > Internetwork Traffic Privacy in Amazon VPC

@@ -134,6 +134,11 @@ Scale Multiple Resources to Meet Demand
     2. [Device Farm - ATOMP.IO](https://atomp.io/devicefarm/)
     3. [Why use Device Farm / Device Cloud for Testing | BrowserStack](https://www.browserstack.com/guide/importance-of-device-farms)
     4. [AWS Device Farm](https://aws.amazon.com/device-farm/)
+    5. [What is AWS Device Farm? - AWS Device Farm](https://docs.aws.amazon.com/devicefarm/latest/developerguide/welcome.html)
+    6. Device Farm is an app testing service that you can use to test and interact with your Android, iOS, and web apps on real, physical phones and tablets that are hosted by Amazon Web Services (AWS). There are two main ways to use Device Farm:
+		- Automated testing of apps using a variety of testing frameworks.
+		- Remote access of devices onto which you can load, run, and interact with apps in real time.
+	- [What is AWS Device Farm? - AWS Device Farm](https://docs.aws.amazon.com/devicefarm/latest/developerguide/welcome.html)
 6. AWS Mobile SDK - Mobile Software Development Kit
 7. AWS Location Service
 8. AR & VR - Amazon Sumerian - Build and Run VR and AR Applications

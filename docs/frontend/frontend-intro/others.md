@@ -207,3 +207,11 @@ brew install ghostscript
 
 gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=output.pdf input.pdf
 ```
+
+## PDF Unlock
+
+```bash
+brew install qpdf
+
+qpdf --password=YOUR_PASSWORD --decrypt input.pdf output.pdf
+```

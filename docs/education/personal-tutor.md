@@ -167,6 +167,9 @@ TODO - 2025-03-07, 2025-04-03
 
 ## Competitors
 
+- https://alpha.school/
+	- [2 Hour Learning: How Our Schools Work - YouTube](https://www.youtube.com/watch?v=ENdAWT6N0V4&t=4s)
+	- [2 Hour Learning: Revolutionizing K-12 Education in Just 2 Hours a Day](https://2hourlearning.com/)
 - **[app.youlearn.ai](https://app.youlearn.ai/)**
 - [linkedin.com/in/qudduspat/](https://www.linkedin.com/in/qudduspat/)- qp@asi.tech
 - [How a High Schooler in Dubai Built ASI, One of the Most Promising AI Edtech Startups](https://www.businessinsider.com/edtech-asi-ai-dubai-chatbot-tutoring-assistant-2023-9?IR=T)

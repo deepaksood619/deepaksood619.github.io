@@ -179,3 +179,5 @@ Amazon Managed Workflows for Apache Airflow (MWAA) [What Is Amazon Managed Workf
 ![Amazon MWAA Architecture](../../media/Pasted%20image%2020240109123958.jpg)
 
 [GitHub - astronomer/airflow-ai-sdk: An SDK for working with LLMs and AI Agents from Apache Airflow, based on Pydantic AI](https://github.com/astronomer/airflow-ai-sdk)
+
+[CloverDX Data Integration Platform](https://www.cloverdx.com/)

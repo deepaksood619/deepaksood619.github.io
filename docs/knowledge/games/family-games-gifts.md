@@ -78,6 +78,10 @@ https://establishedtitles.com/products/lordship-title-pack-new
 - [Origami curlicue tutorial \| Kinetic origami \| Art beats - YouTube](https://www.youtube.com/shorts/OIRaNmfCsNQ)
 - [DIY Miniature Cardboard House #66 \| Easy Build Simple Pink Craft House From Cardboard For a Family - YouTube](https://www.youtube.com/watch?v=odVXvsNJUmo&ab_channel=CardboardDesign)
 
+### Water color painting
+
+- [Watercolor Painting for Beginners / Autumn Lake Scenery / Step by Step Tutorial - YouTube](https://www.youtube.com/watch?v=g98BpO7prdU)
+
 ## Links
 
 - [couple-activities](knowledge/games/couple-activities.md)

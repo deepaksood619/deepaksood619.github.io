@@ -62,6 +62,7 @@
 29. [Udemy - Becoming a Production MySQL DBA](courses/udemy-becoming-a-production-mysql-dba.md) (June'2024)
 30. [Attention in Transformers](courses/attention-in-transformers.md)
 31. [aws-certified-cloud-practitioner-ccp](courses/aws-certified-cloud-practitioner-ccp.md) (September'2025)
+32. [aws-certified-solutions-architect-associate](courses/aws-certified-solutions-architect-associate.md) (September'2025)
 
 ## Certifications
 

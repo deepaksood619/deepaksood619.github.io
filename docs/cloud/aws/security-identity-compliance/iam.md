@@ -4,6 +4,7 @@
 - enforcing least privilege at scale
 - aligning identity with management and governance frameworks
 - Non people identities
+- Mandatory elements in IAM JSON Policy - Effect, Action
 
 https://pages.awscloud.com/awsmp-h2-sec-digital-workspace-iam-ty.html
 

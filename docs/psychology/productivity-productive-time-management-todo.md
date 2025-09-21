@@ -6,6 +6,8 @@ The most invisible form of wasted time is doing a good job on an unimportant tas
 
 Take care of the minutes and the hours will take care of themselves -- Lord Chesterfield
 
+The 10-minute rule is if you are not able to solve a work problem for 10-minutes, you should leave your desk and go for a walk. -- [Steve Jobs' 10-minute rule which made him smarter, approved by a Cambridge neuroscientist - Health News \| The Financial Express](https://www.financialexpress.com/life/health/steve-jobs-10-minute-rule-which-made-him-smarter-approved-by-a-cambridge-neuroscientist/3975673/)
+
 https://www.scotthyoung.com/blog/2020/10/26/foundation-practices
 
 1. Establish an Airtight Productivity System

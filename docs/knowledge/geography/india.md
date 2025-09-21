@@ -65,6 +65,10 @@
 
 [Bengaluru stampede: A list of major stampedes in India - The Hindu](https://www.thehindu.com/news/national/major-stampedes-in-india-list/article69659616.ece)
 
+## Economics
+
+[How many Indians earn more than Rs 1 crore annually? The Hurun Wealth Report 2025 reveals - Money News \| The Financial Express](https://www.financialexpress.com/money/how-many-indians-earn-more-than-rs-1-crore-annually-the-hurun-wealth-report-2025-reveals-3983400/)
+
 ## Others
 
 - [India has a Big Stray Dogs Problem | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=tMsf6i7yID8)

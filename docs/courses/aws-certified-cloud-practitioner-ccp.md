@@ -1,5 +1,7 @@
 # AWS Certified Cloud Practitioner (CCP)
 
+CLF-02
+
 Networking and Content Delivery:
 
 1. Amazon API Gateway

@@ -168,6 +168,7 @@ The rate of interest offered on tends to be higher for longer tenures. An FD wit
 - If you withdraw your FD after three months but before six months from the date of deposit, you’ll only get the principal amount. You won’t get any interest amount in such a case.
 - However, if you choose to prematurely liquidate FD after six months, the interest payable is 2% (per annum) lower than the interest rate applicable to a public deposit for the period for which it has run.
 - If no rate has been specified for that period, the interest rate payable is 3% (per annum) lower than the minimum interest rate at which public deposits are accepted by the NBFC.
+- As of 2025-09-21 **FD withdrawn are credited in under 24 hours even on Saturdays/Sundays**
 
 [Premature Withdrawal of Fixed Deposit (FD) Online - Bajaj Finance](https://www.bajajfinserv.in/service-guides/withdraw-your-fd-prematurely-in-my-account)
 

@@ -225,3 +225,4 @@ An ETF is called an exchange-traded fund since it's traded on an exchange just l
 - [An index with a portfolio turnover higher than active funds!](https://freefincal.com/an-index-with-a-portfolio-turnover-higher-than-active-funds/)
 - [Does long-term equity SIP investing work? (110 year analysis)](https://freefincal.com/does-long-term-equity-sip-investing-work-110-year-analysis/)
 - [Nifty 50 or Nifty 500, which index fund should I choose?](https://freefincal.com/nifty-50-or-nifty-500-which-index-fund-should-i-choose/)
+- [Active Mid Cap Mutual Funds vs Nifty Midcap 150](https://freefincal.com/active-mid-cap-mutual-funds-vs-nifty-midcap-150/)

@@ -49,3 +49,5 @@ CPR - Capture Process Review
     - Long lists are a problem because most people aren't aware that "we only have about three to six good hours of work in us each day."
     - People also tend to underestimate how long a task takes.
 - **create a fresh list for each day**
+
+[President Barack Obama: Just learn how to get stuff done - YouTube](https://www.youtube.com/watch?v=YNY4UFaHbP4)

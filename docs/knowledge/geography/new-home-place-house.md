@@ -501,6 +501,7 @@ A person feeding themselves a vegetarian diet would need about an acre of land a
 - [Noida Sec 150 Overview | Discover The Darker side and Future Opportunities | Whitehat Realty - YouTube](https://www.youtube.com/watch?v=K8o5Ky5VMV8&ab_channel=WhitehatRealty)
 - [This YouTuber Moved From Noida To A Duplex In Delhi \| The Tenant - YouTube](https://www.youtube.com/watch?v=bBBDI82liqQ&ab_channel=moneycontrol)
 - [Monsoon Report Card: Noida Passes, Gurugram Fails. 5 Major Reasons Why \| Explainers News - News18](https://www.news18.com/amp/explainers/monsoon-report-card-noida-passes-gurugram-fails-5-major-reasons-why-ws-l-9544394.html)
+- ['If you own a flat in Noida, sell it and run': Finfluencer on UP govt's plans to scrap ground coverage limits - BusinessToday](https://www.businesstoday.in/amp/personal-finance/real-estate/story/if-you-own-a-flat-in-noida-sell-it-and-run-finfluencer-on-up-govts-plans-to-scrap-ground-coverage-limits-494074-2025-09-15)
 
 ### 2025-01-18 - Locations - Buy
 
