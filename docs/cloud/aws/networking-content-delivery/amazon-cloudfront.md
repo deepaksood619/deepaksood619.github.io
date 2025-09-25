@@ -33,3 +33,4 @@ https://www.mitrai.com/tech-guide/eight-types-of-aws-storage-services-explained
 - [cdn-content-delivery-network](cloud/others/cdn-content-delivery-network.md)
 - [cdn-comparison](cloud/others/cdn-comparison.md)
 - [What you need to know when invalidating files - Amazon CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/invalidation-specifying-objects.html)
+- [Restrict the geographic distribution of your content - Amazon CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/georestrictions.html)

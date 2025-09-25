@@ -67,6 +67,7 @@
 	- [DeepSeek-R1-0528: How to Run Locally \| Unsloth Documentation](https://docs.unsloth.ai/basics/deepseek-r1-0528-how-to-run-locally#fine-tuning-deepseek-r1-0528-with-unsloth)
 - [Command Models: The AI-Powered Solution for the Enterprise](https://cohere.com/command)
 - [Kimi K2: Open Agentic Intelligence](https://moonshotai.github.io/Kimi-K2/)
+- [Getting started - Docling](https://docling-project.github.io/docling/getting_started/)
 
 | Model              | Parameters | Size  |
 | ------------------ | ---------- | ----- |

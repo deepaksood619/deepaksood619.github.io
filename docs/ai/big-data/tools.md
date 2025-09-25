@@ -34,15 +34,22 @@ https://ai.google/research/pubs/pub36632
 
 ## Dremio - The missing link in data lakes
 
+The Intelligent Lakehouse Platform for Agentic Al. From the leaders of Apache Polaris, Arrow, and Iceberg.
+
+Dremio is the only lakehouse that meets the needs of AI agents (and humans) – providing autonomous optimization, a unified semantic layer, Zero-ETL federation and agent flexibility via MCP. Built on our proven semantic layer technology, now optimized for AI agents.
+
+- Metadata Catalog - Apache Polaris
+- In-Memory / Transport Format - Apache Arrow
+- Table Format - Apache Iceberg
+
+[Intelligent Lakehouse Platform for Unified Data Access \| Dremio](https://www.dremio.com/)
+
 ## Talend
 
-[Talend \| A Complete, Scalable Data Management Solution \| Talend](https://www.talend.com)
-
-[Talend Full Course - Learn Talend in 6 Hours \| Talend Tutorial For Beginners \| Edureka - YouTube](https://www.youtube.com/watch?v=bqa0kB59SUc)
-
-[Talend Data Quality: Trusted Data for the Insights You Need \| Talend](https://www.talend.com/products/data-quality/)
-
-[Collibra vs Talend: Similarities, Differences, FAQ](https://moderntechnologist.com/collibra-vs-talend/)
+- [Talend \| A Complete, Scalable Data Management Solution \| Talend](https://www.talend.com)
+- [Talend Full Course - Learn Talend in 6 Hours \| Talend Tutorial For Beginners \| Edureka - YouTube](https://www.youtube.com/watch?v=bqa0kB59SUc)
+- [Talend Data Quality: Trusted Data for the Insights You Need \| Talend](https://www.talend.com/products/data-quality/)
+- [Collibra vs Talend: Similarities, Differences, FAQ](https://moderntechnologist.com/collibra-vs-talend/)
 
 ## Data on EKS
 

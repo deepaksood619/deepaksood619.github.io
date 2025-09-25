@@ -2,6 +2,7 @@
 
 - [Intro](about-deepak-sood/ideas/intro.md)
 - [Creating a Business / Startup](about-deepak-sood/ideas/creating-a-business-startup.md)
+- [Founders Journey](about-deepak-sood/ideas/founders-journey.md)
 - [Non Profit](about-deepak-sood/ideas/non-profit.md)
 - [Donations](about-deepak-sood/ideas/donations.md)
 - [Startup Ideas - SAAS](about-deepak-sood/ideas/startups-ideas-saas.md)

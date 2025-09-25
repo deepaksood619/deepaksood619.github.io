@@ -14,7 +14,10 @@ https://github.com/n8n-io/self-hosted-ai-starter-kit
 
 git clone https://github.com/n8n-io/self-hosted-ai-starter-kit.git
 cd self-hosted-ai-starter-kit
-docker compose up
+cp .env.example .env # you should update secrets and passwords inside
+docker compose --profile cpu up -d n8n
+
+docker compose --profile cpu up
 ```
 
 ## Workflows

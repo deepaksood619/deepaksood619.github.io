@@ -29,6 +29,8 @@
 
 [See Deepak Sood’s activity on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7374319361567805440/)
 
+[#agenticai #genai #dataengineering #aiarchitecture #opstree #aicommunity #techcommunity #futureofai #firebolt #devrelsquad \| OpsTree Global](https://www.linkedin.com/posts/opstree-solutions_agenticai-genai-dataengineering-ugcPost-7376156734991675394-LEJR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
+
 ## Podcast - The Tech Loop by OpsTree
 
 - Intro - 1-1 min

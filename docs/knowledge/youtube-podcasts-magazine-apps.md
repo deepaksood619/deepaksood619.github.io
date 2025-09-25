@@ -474,7 +474,10 @@ Indian History - https://www.anirudhkanisetti.com/podcasts
 
 - [YouTube Transcript - read YouTube videos](https://youtubetranscript.com/)
 - [12ft Ladder](https://12ft.io/)
-- [Just a moment...](https://freedium.cfd/)
+	- [Bypass Paywalls Clean - Wikipedia](https://en.m.wikipedia.org/wiki/Bypass_Paywalls_Clean)
+	- [GitHub - csns1/bypass-paywalls-chrome-clean-magnolia1234: Bypass Paywalls Clean for Chrome (no Google Analytics, lot of updates/bug-fixes and custom sites)](https://github.com/csns1/bypass-paywalls-chrome-clean-magnolia1234)
+	- [Webpage archive](https://archive.ph/)
+- https://freedium.cfd/
 
 ## Youtube Shortcuts
 

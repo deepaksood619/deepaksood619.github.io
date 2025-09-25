@@ -269,6 +269,13 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - No screen time
 - Playing with kid
 
+### Medical Reasons
+
+- Leucovorin, also known as calcium folinate and leucovorin calcium, is **a type of vitamin B9, or folate**. Folate, which is naturally found in certain foods, helps the body make healthy red blood cells and is important for overall brain function.
+- A Folate Receptor Antibody Test (FRAT®) is a blood test that detects autoantibodies to folate receptor alpha (FRα), a protein vital for transporting folate (vitamin B9) into the brain. The presence of these autoantibodies suggests impaired folate transport, leading to cerebral folate deficiency (CFD), and can be associated with neurodevelopmental disorders like autism, unexplained neurological symptoms, or certain neuropsychiatric conditions. Treatment may involve alternative folate forms, such as folinic acid, to bypass the blocked receptors.
+- Infants and children with symptoms of cerebral folate deficiency or developmental delays.
+- **cerebral folate deficiency (CFD)**, a lack of folate in the brain, can cause a child to be nonverbal. CFD can be caused by genetic mutations or autoimmune factors like folate receptor antibodies that block folate from entering the brain. Folate is crucial for brain development and neurotransmitter function, and a lack of it leads to developmental delays, intellectual disabilities, and speech difficulties, including being nonverbal. Treatment with the active form of folate, such as folinic acid, can improve communication in children with CFD.
+
 ### Links
 
 - [ChatGPT - Late Talker or Delay](https://chatgpt.com/share/680e061c-27a8-8005-ae21-42f38a532191)
@@ -376,3 +383,4 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [STOP Talking When Your Child Melts Down. Do THIS Instead - YouTube](https://youtu.be/9vhawjLEtSw)
 - [Parenting Mistakes, Raising A Child, Ideal Routine & Psychology - Schwet...](https://youtu.be/8B3jyCIr3X4)
 - [New Born Baby Tips: Parenting, Health, Pregnancy, Baby Food & Vaccine - ...](https://youtu.be/ULsBP-AZZuI)
+- [One Habit That Builds Genius: Parenting Mistakes, Brain Risk & Habits \| Dr Samir \| FO410 Raj Shamani - YouTube](https://www.youtube.com/watch?v=AQhA06A59n4)

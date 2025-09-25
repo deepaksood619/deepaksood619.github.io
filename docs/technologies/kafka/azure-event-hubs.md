@@ -26,3 +26,4 @@ Confluent Cloud is a fully managed data streaming platform built on Apache Kafka
 
 - Azure Events Hub / Azure Event Hub
 - [ChatGPT - Epoch Receiver Conflict Fix](https://chatgpt.com/share/685d9105-6864-8005-89e9-35f639cf420f)
+- [Avoid duplicate event processing in Event Streaming system \| by Soumyadev Bhattacharyya \| Towards Dev](https://towardsdev.com/avoid-duplicate-event-processing-in-event-streaming-system-6c7efc151a40)

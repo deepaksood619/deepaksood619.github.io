@@ -10,21 +10,22 @@
 
 A **core catcher** is a device provided to catch the molten core material ([corium](https://en.wikipedia.org/wiki/Corium_(nuclear_reactor))) of a nuclear reactor in case of a [nuclear meltdown](https://en.wikipedia.org/wiki/Nuclear_meltdown) and prevent it from escaping the [containment building](https://en.wikipedia.org/wiki/Containment_building).
 
-IAEA - International Atomic Energy Agency
+- IAEA - International Atomic Energy Agency
+- [Nuclear Power Is Our Best Hope to Ditch Fossil Fuels | Isabelle Boemeke | TED](https://www.youtube.com/watch?v=ESAaz9v4mSU)
+- [Is Small, Fast, & Cheap the Future of Nuclear Energy? - YouTube](https://www.youtube.com/watch?v=L31px6rQ-vQ)
+- [The Uncertain Future of Nuclear Power - YouTube](https://www.youtube.com/watch?v=INl3pCXm6Tw)
+- [All The Times We Nearly Blew Up The World - YouTube](https://www.youtube.com/watch?v=ILgSesWMUEI)
 
-[Nuclear Power Is Our Best Hope to Ditch Fossil Fuels | Isabelle Boemeke | TED](https://www.youtube.com/watch?v=ESAaz9v4mSU)
+### People
 
-[Is Small, Fast, & Cheap the Future of Nuclear Energy? - YouTube](https://www.youtube.com/watch?v=L31px6rQ-vQ)
-
-[The Uncertain Future of Nuclear Power - YouTube](https://www.youtube.com/watch?v=INl3pCXm6Tw)
-
-[All The Times We Nearly Blew Up The World - YouTube](https://www.youtube.com/watch?v=ILgSesWMUEI)
+- [Edward Teller - Wikipedia](https://en.wikipedia.org/wiki/Edward_Teller) - the father of the hydrogen bomb
+- [Leo Szilard - Wikipedia](https://en.wikipedia.org/wiki/Leo_Szilard) - "Szilard" most commonly refers to Leó Szilárd (1898–1964), a Hungarian-American physicist, biologist, and inventor credited with conceptualizing the nuclear chain reaction in 1933, which led to the development of the atomic bomb. He was a key scientist on the Manhattan Project but later became a fervent advocate for the peaceful use of atomic energy and international control of nuclear weapons. He also co-invented the Einstein-Szilard refrigerator and his scientific legacy is honored by several institutions and a lunar crater named in his honor.
+- Oppenheimer
 
 ### Others
 
-[Why Oppenheimer Deserves His Own Movie - YouTube](https://www.youtube.com/watch?v=Xzv84ZdtlE0)
-
-[Oppenheimer's Controversial Legacy - YouTube](https://www.youtube.com/watch?v=nAz6lkosNcA)
+- [Why Oppenheimer Deserves His Own Movie - YouTube](https://www.youtube.com/watch?v=Xzv84ZdtlE0)
+- [Oppenheimer's Controversial Legacy - YouTube](https://www.youtube.com/watch?v=nAz6lkosNcA)
 
 ## Batteries / Battery / EV
 

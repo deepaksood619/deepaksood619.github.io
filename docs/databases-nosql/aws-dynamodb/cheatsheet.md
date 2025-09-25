@@ -102,6 +102,12 @@ Your table(s) should be designed in such a way that your workload primary access
 
 ## DynamoDB Accelerator
 
+Amazon DynamoDB Accelerator (DAX) is a fully managed, highly available caching service built for Amazon DynamoDB. DAX delivers up to a 10 times performance improvement—from milliseconds to microseconds—even at millions of requests per second.
+
+DAX does all the heavy lifting required to add in-memory acceleration to your DynamoDB tables, without requiring developers to manage cache invalidation, data population, or cluster management. As DAX is compatible with existing DynamoDB API calls, no application logic modification is required.
+
+Similar to DynamoDB, you only pay for the capacity you provision. You can focus on building great applications for your customers without worrying about performance at scale.
+
 DynamoDB Accelerator(DAX) is a fully managed in-memory write through cache for DynamoDB that runs in a cluster
 
 - Reads are eventually consistent
@@ -120,6 +126,8 @@ DAX is not ideal for:
 - Apps that do not require microsecond read response times
 - Apps that are write intensive, or that do not perform much read activity
 - If you don't need DAX consider using ElastiCache
+
+[Caching Service for Amazon DynamoDB - Amazon DynamoDB Accelerator (DAX) - AWS](https://aws.amazon.com/dynamodbaccelerator/)
 
 ## DynamoDB Transactions
 

@@ -7,6 +7,25 @@ Virtual Servers in the Cloud
 [Ubuntu \| Docker Docs](https://docs.docker.com/engine/install/ubuntu/)
 
 ```bash
+# Add Docker's official GPG key:
+sudo apt-get update
+sudo apt-get install ca-certificates curl
+sudo install -m 0755 -d /etc/apt/keyrings
+sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
+sudo chmod a+r /etc/apt/keyrings/docker.asc
+
+# Add the repository to Apt sources:
+echo \
+  "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu \
+  $(. /etc/os-release && echo "${UBUNTU_CODENAME:-$VERSION_CODENAME}") stable" | \
+  sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+sudo apt-get update
+
+# installation
+sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+```
+
+```bash
 sudo apt-get update
 sudo apt-get upgrade -y
 sudo apt-get install docker
@@ -191,6 +210,16 @@ tmpfs          tmpfs  392M   12K  392M   1% /run/user/1000
 Scale Compute Capacity to Meet Demand
 
 [Amazon EC2 Auto Scaling lifecycle hooks - Amazon EC2 Auto Scaling](https://docs.aws.amazon.com/autoscaling/ec2/userguide/lifecycle-hooks.html?icmpid=docs_ec2as_help_panel)
+
+Auto Scaling Policies
+
+- Simple Scaling
+- Step Scaling
+- Target Tracking
+
+**Simple Scaling** uses a single, static capacity adjustment in response to an alarm, while **Step Scaling** uses predefined, varying adjustments based on the "size" of the alarm breach for more granular control. **Target Tracking** is the most automated and recommended policy, continuously adjusting capacity to keep a specific metric (like CPU utilization) at a defined target value without requiring you to set thresholds.
+
+[Step Scaling vs Simple Scaling Policies vs Target Tracking Policies in Amazon EC2](https://tutorialsdojo.com/step-scaling-vs-simple-scaling-policies-in-amazon-ec2/)
 
 ## EC2 > Networking > Elastic IP Addresses
 

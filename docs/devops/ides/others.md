@@ -146,7 +146,6 @@ Command + Option + L (For formatting line)
 
 ## Others
 
-- [Zed - Code at the speed of thought](https://zed.dev/)
 - [What are the Requirements for Adding a LinkedIn Company Page?](https://www.linkedin.com/pulse/what-requirements-adding-linkedin-company-page-loribeth-pierson/)
 - [Firebase Studio](https://firebase.studio/)
 	- [Project IDX](https://idx.dev/)

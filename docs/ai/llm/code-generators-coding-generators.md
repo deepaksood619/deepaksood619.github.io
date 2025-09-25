@@ -96,6 +96,7 @@ You can also ask me questions about your editor selection by starting an inline 
 - [Galileo AI · Copilot for interface design](https://www.usegalileo.ai/)
 - [Cursor - The AI-first Code Editor](https://www.cursor.com/)
 - [Windsurf Editor](https://windsurf.com/)
+- [Zed - Code at the speed of thought](https://zed.dev/) - [GitHub - zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.](https://github.com/zed-industries/zed) - 66.3K Stars
 - [GitHub - openai/codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
 - [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli)
 - [Claude Code: Deep Coding at Terminal Velocity \\ Anthropic](https://www.anthropic.com/claude-code)
@@ -135,3 +136,4 @@ You can also ask me questions about your editor selection by starting an inline 
 - [Era of Virtual Employees : Running Background Agents with Claude Code - Terragon, Conductor.build, Cursor](https://www.thetoolnerd.com/p/era-of-virtual-employees-running)
 - [ai-engineering-hub/sonnet4-vs-qwen3-coder at main · patchy631/ai-engineering-hub · GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main/sonnet4-vs-qwen3-coder)
 - [The Roadmap for Mastering AI-Assisted Coding in 2025 - MachineLearningMastery.com](https://machinelearningmastery.com/the-roadmap-for-mastering-ai-assisted-coding-in-2025/)
+- [Replit vs Bolt vs Lovable (2025) — Hands‑On Review: What I’d Renew, What I’d Pause](https://www.thetoolnerd.com/p/replit-vs-bolt-vs-lovable-2025-handson-review-thetoolnerd)

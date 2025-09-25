@@ -321,3 +321,4 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [GitHub - pixeltable/pixeltable: Pixeltable — AI Data infrastructure providing a declarative, incremental approach for multimodal workloads.](https://github.com/pixeltable/pixeltable)
 - [Announcing GenAI Processors: Build powerful and flexible Gemini applications - Google Developers Blog](https://developers.googleblog.com/en/genai-processors/)
 	- [GitHub - google-gemini/genai-processors: GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.](https://github.com/google-gemini/genai-processors)
+- [GitHub - maximhq/bifrost: The Fastest LLM Gateway with built in OTel observability and MCP gateway](https://github.com/maximhq/bifrost)

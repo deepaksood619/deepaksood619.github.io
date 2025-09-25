@@ -127,6 +127,7 @@
 - [Roadmap to Becoming a Data Engineer In 2023](https://www.linkedin.com/pulse/roadmap-becoming-data-engineer-2023-arif-alam-/)
 - [Data Engineer Roadmap for 2024](https://www.scaler.com/blog/data-engineer-roadmap/)
 - [EP159: The Data Engineering Roadmap - ByteByteGo Newsletter](https://blog.bytebytego.com/p/ep159-the-data-engineering-roadmap)
+- [If I LOST everything and had to restart Data Engineering in 2025, This is my step-by-step plan with resources. Here’s the exact roadmap I would follow from zero. 1️⃣ Master SQL (the backbone of… \| Abhinav Singh \| 10 comments](https://www.linkedin.com/posts/abhinav-dataguy_if-i-lost-everything-and-had-to-restart-data-activity-7375866275740315648-i25c)
 
 ## Resources
 

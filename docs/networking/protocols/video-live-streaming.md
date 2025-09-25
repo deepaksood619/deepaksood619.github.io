@@ -141,3 +141,7 @@ https://trac.ffmpeg.org/wiki/Concatenate
 
 - Compressions
 - Rarefactions
+
+## Links
+
+- [Video Streaming With the AV1 Video Codec in Mobile Devices - Engineering at Meta](https://engineering.fb.com/2025/09/24/video-engineering/video-streaming-with-av1-video-codec-mobile-devices-meta-white-paper/)

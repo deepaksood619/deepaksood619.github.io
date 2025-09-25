@@ -326,7 +326,7 @@ https://fs.blog/2020/03/chestertons-fence
 
 - Table Selection: This idea comes from poker, where you're advised to choose your opponents carefully. That means you shouldn't compete against the best people. You don't need to get good at doing difficult things if you get good at avoiding difficult things. If you want to win, pick an easy table and nail your execution.
 
-- Goodhart's Law: When a measure becomes a target, it ceases to be a good measure. One hospital took too long to admit patients so a penalty was given for 4+ hour wait times. In response, ambulance drivers were asked to slow down so they could shorten wait times.
+- **Goodhart's Law:** When a measure becomes a target, it ceases to be a good measure. One hospital took too long to admit patients so a penalty was given for 4+ hour wait times. In response, ambulance drivers were asked to slow down so they could shorten wait times.
 
 - Gall's Law: A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system.
 

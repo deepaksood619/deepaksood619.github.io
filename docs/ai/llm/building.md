@@ -221,3 +221,4 @@ Ludwig enables you to apply state-of-the-art tabular, natural language processin
 - [\[Full Workshop\] Reinforcement Learning, Kernels, Reasoning, Quantization & Agents — Daniel Han - YouTube](https://www.youtube.com/watch?v=OkEGJ5G3foU&ab_channel=AIEngineer)
 	- [Advanced: Reinforcement Learning, Kernels, Reasoning, Quantization & Agents AIE 2025 - Google Slides](https://docs.google.com/presentation/d/1Jh5p_JDXt4eLD0ireaHJjJNpzqSF8E1WTwIHeojyjNU/mobilepresent?slide=id.g35e7f1de1a9_1_49)
 	- [Reinforcement Learning (RL) Guide \| Unsloth Documentation](https://docs.unsloth.ai/basics/reinforcement-learning-rl-guide)
+- [How Meta animates AI-generated images at scale - Engineering at Meta](https://engineering.fb.com/2024/08/14/production-engineering/how-meta-animates-ai-generated-images-at-scale/)

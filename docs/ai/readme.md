@@ -41,6 +41,7 @@ AGI will be intellectually, morally, ethically and creatively superior to humans
 
 An "intelligence explosion" refers to a hypothetical scenario where a self-improving AI system could rapidly and exponentially increase its intelligence, surpassing human intelligence. This concept, also known as the "singularity," suggests that the initial superintelligent machine could design even better machines, leading to a cascade of intelligence growth.
 
+- [Introduction - SITUATIONAL AWARENESS: The Decade Ahead](https://situational-awareness.ai/)
 - [**Technological singularity** - Wikipedia](https://en.wikipedia.org/wiki/Technological_singularity)
 - [Ben Goertzel: Singularity, Sparks of AGI in GPT - YouTube](https://www.youtube.com/watch?v=27zHyw_oHSI)
 - [Ben Goertzel - Open Ended vs Closed Minded Conceptions of Superintelligence - YouTube](https://www.youtube.com/watch?v=4mEsJ3z6T_E)

@@ -283,11 +283,11 @@ We are growing at an incredible pace and we are looking for someone who has the 
 - An entrepreneurial spirit combined with strong program and product management skills
 - High adaptability in a dynamic start-up environment
 
-### Job Description: Data Engineer (with Cloud, DW, and GenAI/ML Exposure)
+## Job Description: Data Engineer (with Cloud, DW, and GenAI/ML Exposure)
 
 We are looking for a highly skilled **Data Engineer** who will play a key role in designing, developing, and maintaining robust data infrastructure and pipelines. This role demands a hands-on expert with experience across the **big data ecosystem**, **data warehousing**, and **modern cloud environments** (AWS/GCP/Azure). The ideal candidate will have a solid foundation in both **RDBMS and NoSQL databases**, be proficient in coding, and demonstrate exposure to **data science**, **machine learning (ML)** and **generative AI (GenAI)** technologies.
 
-#### Responsibilities
+### Responsibilities
 
 - Design, build, and optimize scalable and reliable data pipelines (batch and stream).
 - Architect and manage data lakes, data warehouses (Redshift, BigQuery, Snowflake, etc.), and large-scale distributed systems.
@@ -298,7 +298,7 @@ We are looking for a highly skilled **Data Engineer** who will play a key role i
 - Tune query performance and manage storage efficiency for optimal data access.
 - Stay current with evolving big data and AI/ML trends, introducing relevant tech into the stack.
 
-#### Requirements
+### Requirements
 
 - 3+ years of experience as a Data Engineer or in a similar role.
 - Strong experience in the Hadoop ecosystem, Spark, Kafka, or other distributed frameworks.
@@ -310,17 +310,17 @@ We are looking for a highly skilled **Data Engineer** who will play a key role i
 - Familiarity with DevOps/DataOps tools (Docker, Kubernetes, CI/CD pipelines).
 - Excellent communication and collaboration skills in agile environments.
 
-#### Preferred Qualifications
+### Preferred Qualifications
 
 - Experience with Lakehouse architectures and tools like Delta Lake or Apache Iceberg.
 - Prior work integrating GenAI models (e.g., OpenAI, Claude, Gemini) into production-grade systems.
 - Certification in cloud platforms (AWS/GCP/Azure) is a plus.
 
-### Internship Opportunity: Data Engineering Intern (with Cloud, DW, and GenAI/ML Exposure)
+## Internship Opportunity: Data Engineering Intern (with Cloud, DW, and GenAI/ML Exposure)
 
 We are looking for a **Data Engineering Intern** who is eager to learn and contribute to real-world data projects in a fast-paced, cloud-native environment. You’ll get hands-on exposure to **data pipelines**, **cloud platforms**, and cutting-edge **AI/ML and GenAI workflows** under the mentorship of experienced engineers.
 
-#### What You’ll Learn & Work On
+### What You’ll Learn & Work On
 
 - Assist in building and maintaining data pipelines (batch and stream) using tools like Spark, Kafka, or cloud-native services.
 - Support data lake and data warehouse operations using platforms such as Redshift, BigQuery, or Snowflake.
@@ -330,7 +330,7 @@ We are looking for a **Data Engineering Intern** who is eager to learn and contr
 - Learn best practices around data governance, performance tuning, and orchestration using Airflow or Dagster.
 - Contribute to internal documentation, testing, and monitoring efforts for data workflows.
 
-#### What We’re Looking For
+### What We’re Looking For
 
 - Pursuing a degree in Computer Science, Data Engineering, Information Systems, or a related field.
 - Familiarity with SQL and at least one programming language (Python preferred).
@@ -339,10 +339,93 @@ We are looking for a **Data Engineering Intern** who is eager to learn and contr
 - Strong analytical mindset and willingness to learn in a collaborative environment.
 - Bonus: Personal projects, GitHub contributions, or participation in ML/Data/GenAI hackathons.
 
-#### Nice to Have
+### Nice to Have
 
 - Experience (academic or project) with cloud platforms (AWS/GCP/Azure).
 - Awareness of GenAI tools like OpenAI, Gemini, or Claude.
 - Familiarity with tools like Docker, Git, or CI/CD pipelines.
 
 This internship is a **hands-on opportunity** to explore modern data engineering practices and build skills that bridge the gap between traditional data systems and emerging AI technologies. You'll work closely with senior engineers and AI practitioners to contribute to impactful, production-grade systems.
+
+## Job Description: Senior AI & Data Architect
+
+### About the Role
+
+We are seeking a **Senior AI & Data Architect** to lead the design, delivery, and governance of scalable Data & AI solutions across multiple client engagements. This role combines deep technical expertise with leadership in project management, people development, and pre-sales solutioning. You will work closely with delivery teams, sales teams, and client stakeholders—translating business needs into robust, future-proof architectures while ensuring smooth execution and measurable outcomes.
+
+### Key Responsibilities
+
+#### Architecture & Design
+
+- Define end-to-end architectures for Data Engineering, Analytics, and AI/ML platforms.
+- Design cloud-native, scalable, and cost-effective solutions (AWS/Azure/GCP).
+- Establish reusable reference architectures, blueprints, and best practices.
+
+#### Client Engagement & Delivery
+
+- Act as the technical authority in client discussions, workshops, and solutioning.
+- Translate business requirements into technical roadmaps and execution strategies.
+- Ensure timely delivery, quality, and client satisfaction across all engagements.
+
+#### Project & People Management
+
+- Oversee multiple parallel Data & AI projects, ensuring adherence to timelines, budgets, and SLAs.
+- Manage cross-functional teams of data engineers, ML engineers, and solution architects.
+- Mentor and coach team members, driving skill development and knowledge sharing.
+- Implement delivery governance frameworks, progress tracking, and risk mitigation.
+- Collaborate with PMO and business leads for resource planning and stakeholder alignment.
+
+#### Pre-Sales & Business Enablement
+
+- Partner with the sales team to **develop proposals, RFP/RFI responses, and solution presentations**.
+- Conduct client workshops, PoCs, and technical deep-dives to showcase capabilities.
+- Define solution architectures and effort estimations for new opportunities.
+- Influence deal strategy by balancing innovation, feasibility, and cost optimization.
+- Build reusable accelerators and solution templates to speed up pre-sales engagements.
+
+#### Innovation & Strategy
+
+- Drive adoption of emerging technologies like GenAI, RAG, vector databases, and LLMOps.
+- Recommend tools, frameworks, and practices to optimize performance and cost.
+- Contribute to building reusable accelerators, IPs, and solution frameworks for the company.
+
+### Required Skills & Experience
+
+- **Core Experience (10+ years):**
+    - Strong background in **Data Engineering, AI/ML, and Solution Architecture**.
+    - Proven success in delivering multiple client projects in a service-based environment.
+    - Hands-on with **Big Data platforms (Spark, Hadoop, Trino, Iceberg/Delta/Hudi)**.
+    - Expertise in **Cloud ecosystems (AWS, Azure, GCP)** and hybrid architectures.
+    - Deep knowledge of **Databases (SQL, NoSQL, Graph, Vector)** and **ETL/ELT pipelines**.
+- **AI/ML Expertise:**
+    - Designing and deploying ML pipelines, MLOps frameworks, and production-grade AI systems.
+    - Familiarity with **Generative AI, LLMs, RAG, and embeddings**.
+    - Strong grounding in Python and ML frameworks (TensorFlow, PyTorch, Scikit-learn).
+- **Project & People Management:**
+    - Proven track record managing **multi-project portfolios** and cross-functional teams.
+    - Experience in **project planning, effort estimation, budgeting, and delivery governance**.
+    - Strong stakeholder management and client-facing leadership skills.
+    - Ability to mentor and scale technical teams, balancing innovation with execution discipline.
+- **Pre-Sales & Business Collaboration:**
+    - Experience working with **sales teams, bid management, and solution consulting**.
+    - Strong ability to craft **solution proposals, architecture diagrams, and value propositions**.
+    - Skilled at client-facing presentations, workshops, and technical storytelling.
+- **Architectural Competence:**
+    - Microservices, containerization (Docker, Kubernetes), and API-driven architectures.
+    - Security, compliance, and governance in data & AI solutions.
+    - Cost optimization and performance tuning in cloud environments.
+
+### Preferred Qualifications
+
+- Certifications in cloud platforms (AWS Solutions Architect, Azure Data Engineer, GCP Data Architect).
+- PMP/Prince2/Agile certifications for project management.
+- Experience in **pre-sales consulting or solution architect roles**.
+- Contributions to open-source or published thought leadership in Data & AI.
+
+### What We Offer
+
+- Opportunity to architect and lead diverse Data & AI projects across industries.
+- Direct involvement in **both delivery and pre-sales solutioning**.
+- Hands-on exposure to cutting-edge technologies and client challenges.
+- A culture of ownership, collaboration, and innovation.
+- Competitive compensation and performance-linked benefits.

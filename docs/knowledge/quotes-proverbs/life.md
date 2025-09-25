@@ -8,6 +8,8 @@ In is the only way out.
 
 Life is a sine curve.
 
+If you think it is, it is; else, no.
+
 Life begins where fear ends
 
 How you do one thing is how you do everything

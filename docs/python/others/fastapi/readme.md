@@ -13,22 +13,6 @@ FastAPI is a modern, fast (high-performance), web framework for building APIs wi
 - Robust: Get production-ready code. With automatic interactive documentation.
 - Standards-based: Based on (and fully compatible with) the open standards for APIs:[OpenAPI](https://github.com/OAI/OpenAPI-Specification)(previously known as Swagger) and [JSON Schema](https://json-schema.org/).
 
-https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679
-
-https://towardsdatascience.com/fastapi-cloud-database-loading-with-python-1f531f1d438a
-
-[**https://fastapi.tiangolo.com/alternatives/**](https://fastapi.tiangolo.com/alternatives/)
-
-https://github.com/tiangolo/fastapi
-
-https://github.com/long2ice/fastapi-admin
-
-https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly
-
-[**https://www.freecodecamp.org/news/how-to-create-microservices-with-fastapi/**](https://www.freecodecamp.org/news/how-to-create-microservices-with-fastapi/)
-
-[**https://www.toptal.com/python/build-high-performing-apps-with-the-python-fastapi-framework**](https://www.toptal.com/python/build-high-performing-apps-with-the-python-fastapi-framework)
-
 ## OpenAPI
 
 FastAPI generates a "schema" with all your API using the OpenAPI standard for defining APIs.
@@ -197,8 +181,15 @@ async def foo() -> SomeModel:
 
 ## Links
 
-[Awesome FastAPI | | Curated list of awesome lists | Project-Awesome.org](https://project-awesome.org/mjhea0/awesome-fastapi)
-
-[FastAPI Handbook - How to Develop, Test, and Deploy APIs](https://www.freecodecamp.org/news/fastapi-quickstart/)
-
-[FARM Stack Course – Full Stack Development with FastAPI, React MongoDB - YouTube](https://www.youtube.com/watch?v=PWG7NlUDVaA)
+- [Awesome FastAPI | | Curated list of awesome lists | Project-Awesome.org](https://project-awesome.org/mjhea0/awesome-fastapi)
+- [FastAPI Handbook - How to Develop, Test, and Deploy APIs](https://www.freecodecamp.org/news/fastapi-quickstart/)
+- [FARM Stack Course – Full Stack Development with FastAPI, React MongoDB - YouTube](https://www.youtube.com/watch?v=PWG7NlUDVaA)
+- [FastAPI Tutorials - YouTube](https://www.youtube.com/playlist?list=PLK8U0kF0E_D6l19LhOGWhVZ3sQ6ujJKq_)
+- https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679
+- https://towardsdatascience.com/fastapi-cloud-database-loading-with-python-1f531f1d438a
+- [**https://fastapi.tiangolo.com/alternatives/**](https://fastapi.tiangolo.com/alternatives/)
+- https://github.com/tiangolo/fastapi
+- https://github.com/long2ice/fastapi-admin
+- https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly
+- [**https://www.freecodecamp.org/news/how-to-create-microservices-with-fastapi/**](https://www.freecodecamp.org/news/how-to-create-microservices-with-fastapi/)
+- [**https://www.toptal.com/python/build-high-performing-apps-with-the-python-fastapi-framework**](https://www.toptal.com/python/build-high-performing-apps-with-the-python-fastapi-framework)

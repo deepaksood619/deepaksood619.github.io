@@ -88,6 +88,7 @@ Managed Service for Apache Flink provides the underlying infrastructure for your
 
 - [06-sliding-window-analytics](technologies/apache-spark/06-sliding-window-analytics.md)
 - [Apache Flink® SQL](https://developer.confluent.io/courses/flink-sql/overview/)
+- [Apache Flink® SQL - YouTube](https://www.youtube.com/playlist?list=PLf38f5LhQthefDFLQwHXdLmFsrZWUQWbw)
 - https://dzone.com/articles/introduction-to-streaming-etl-with-apache-flink
 - https://flink.apache.org/flink-architecture.html
 - [CDC Stream Processing with Apache Flink](https://youtu.be/K2ibvfmFh8Y?si=_K1jRSc0ez7Ntw9y)

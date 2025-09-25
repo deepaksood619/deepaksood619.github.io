@@ -40,3 +40,7 @@
 ![GenAI Landscape](../../media/Pasted%20image%2020240915133426.jpg)
 
 ![GenAI Application Landscape](../../media/Screenshot%202024-09-17%20at%201.46.23%20AM.jpg)
+
+[AI Engineer Roadmap](https://roadmap.sh/ai-engineer)
+
+![AI Engineer Learning Roadmap](../../media/Screenshot%202025-09-23%20at%2012.42.36%20PM.jpg)

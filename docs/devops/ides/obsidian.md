@@ -180,6 +180,7 @@ Extensions that helps make obsidian better
 - https://wiki.nikiv.dev/
 - [Slate Star Codex](https://slatestarcodex.com/)
 - [https://arpitbhayani.me/](https://arpitbhayani.me/)
+- https://vinija.ai/
 
 ### Blogs example templates
 

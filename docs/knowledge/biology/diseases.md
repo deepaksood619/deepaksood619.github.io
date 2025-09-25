@@ -36,8 +36,8 @@ https://www.medicalnewstoday.com/articles/9153.php
 - Change routine
 - Don't brush more than 2 times a day
 - Wait 30 min after eating before brushing
-
-[How long should you brush your teeth? Here are some tips from experts | CNN](https://edition.cnn.com/2021/11/19/health/teeth-brushing-health-wellness-partner/index.html)
+- [How long should you brush your teeth? Here are some tips from experts | CNN](https://edition.cnn.com/2021/11/19/health/teeth-brushing-health-wellness-partner/index.html)
+- [India’s top Dentist on Brushing, Whitening, Cavity, Braces & Cancer \| Dr. Sandesh Mayekar Ep. 16 - YouTube](https://www.youtube.com/watch?v=XqVwwLKHZIg)
 
 ## Cough
 
@@ -223,7 +223,9 @@ Aphasia is an inability to comprehend or formulate language because of damage to
 
 ## Diabetes
 
-[The Rise Of Glucose Monitoring Among Non-Diabetics - YouTube](https://www.youtube.com/watch?v=nYy1zEHvXZ4)
+- [The Rise Of Glucose Monitoring Among Non-Diabetics - YouTube](https://www.youtube.com/watch?v=nYy1zEHvXZ4)
+- [The Dumbest Health Trend Of 2024: CGM \| Dr Karan - YouTube](https://www.youtube.com/watch?v=PFAwkIUluYY)
+- CGM - Continuous Glucose Monitor
 
 ## Mumps
 
