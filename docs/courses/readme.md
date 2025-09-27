@@ -63,6 +63,8 @@
 30. [Attention in Transformers](courses/attention-in-transformers.md)
 31. [aws-certified-cloud-practitioner-ccp](courses/aws-certified-cloud-practitioner-ccp.md) (September'2025)
 32. [aws-certified-solutions-architect-associate](courses/aws-certified-solutions-architect-associate.md) (September'2025)
+33. [pcep-certified-entry-level-python-programmer](courses/pcep-certified-entry-level-python-programmer.md) (October'2025)
+34. [databricks-certified-data-engineer-associate](courses/databricks-certified-data-engineer-associate.md) (October'2025)
 
 ## Certifications
 

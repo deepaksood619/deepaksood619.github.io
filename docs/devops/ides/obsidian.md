@@ -220,3 +220,4 @@ Extensions that helps make obsidian better
 	- [I switched from Obsidian to this actually open-source app and I’m not going back](https://www.makeuseof.com/switched-from-obsidian-to-joplin/)
 	- [GitHub - laurent22/joplin: Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.](https://github.com/laurent22/joplin)
 - [TwinMind: Real-Time AI Notetaker to Summarize & Analyze Meetings](https://twinmind.com/)
+- [I wish I knew these before creating my Obsidian vault 3 years ago](https://www.makeuseof.com/i-wish-i-knew-these-before-creating-my-obsidian-vault/)

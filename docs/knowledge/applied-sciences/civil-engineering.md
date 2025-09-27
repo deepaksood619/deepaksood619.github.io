@@ -40,6 +40,10 @@ Habitat - 67 - [How a 23-Year-Old Solved Urban Sprawl - YouTube](https://www.you
 
 ![Sand Composition](../../media/Screenshot%202025-03-13%20at%2011.26.39%20PM.jpg)
 
+## Others
+
+- BIM (Building Information Modeling) is a process for creating and managing digital representations of a physical asset's characteristics, enabling collaboration among architecture, engineering, and construction (AEC) teams. It uses intelligent, data-rich 3D models for planning, design, construction, and operation, improving efficiency, reducing errors, and providing better visualizations of the project throughout its lifecycle.
+
 ## Links
 
 - [Does Rebar Rust? - YouTube](https://www.youtube.com/watch?v=PLF18H9JGHs)

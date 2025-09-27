@@ -78,6 +78,8 @@ TOC
 	3. Team Resumes
 7. Signature
 
+- **NFR - Non-Functional Review**
+
 ## Links
 
 - [Technical Proposal Template - PandaDoc](https://www.pandadoc.com/technical-proposal-template/)

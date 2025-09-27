@@ -174,6 +174,14 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/how-to-set-lifecycle-confi
 
 [removing expired delete markers, how does it work? | AWS re:Post](https://repost.aws/questions/QUK1eCj2OjT3mSOJbendDYWw/removing-expired-delete-markers-how-does-it-work)
 
+![S3 Lifecycle policies](../../../media/Screenshot%202025-09-27%20at%2011.28.51%20PM.jpg)
+
+### Minimum days for transition from S3 Standard or S3 Standard-IA to S3 Standard-lA or S3 One Zone-IA
+
+Before you transition objects from the S3 Standard or S3 Standard-IA storage classes to S3 Standard-IA or S3 One Zone-lA, you must store them **at least 30 days in the S3 Standard storage class**. For example, you cannot create a Lifecycle rule to transition objects to the S3 Standard-lA storage class one day after you create them. Amazon S3 doesn't transition objects within the first 30 days because newer objects are often accessed more frequently or deleted sooner than is suitable for S3 Standard-IA or S3 One Zone-IA storage.
+
+Similarly, if you are transitioning noncurrent objects (in versioned buckets), you can transition only objects that are at least 30 days noncurrent to S3 Standard-lA or S3 One Zone-IA storage.
+
 ### Deleting huge amount of objects
 
 To delete an AWS S3 bucket with 500TB of data, the fastest and most cost-effective solution would be to use the S3 Lifecycle configuration.
@@ -273,12 +281,45 @@ A vault is a container for storing archives. When you create a vault, you specif
 - [Connect users to data through your apps with Storage Browser for Amazon S3 | AWS News Blog](https://aws.amazon.com/blogs/aws/connect-users-to-data-through-your-apps-with-storage-browser-for-amazon-s3/)
 - [Storage Browser for Amazon S3](https://aws.amazon.com/s3/features/storage-browser/)
 
+## Object Locks
+
+S3 Object Lock can help prevent Amazon S3 objects from being deleted or overwritten for a fixed amount of time or indefinitely. Object Lock uses a _write-once-read-many_ (WORM) model to store objects. You can use Object Lock to help meet regulatory requirements that require WORM storage, or to add another layer of protection against object changes or deletion.
+
+Object Lock provides two ways to manage object retention: _retention periods_ and _legal holds_. An object version can have a retention period, a legal hold, or both.
+
+### Retention modes
+
+S3 Object Lock provides two retention modes that apply different levels of protection to your objects:
+
+- Compliance mode
+	- In _compliance_ mode, a protected object version can't be overwritten or deleted by any user, including the root user in your AWS account. When an object is locked in compliance mode, its retention mode can't be changed, and its retention period can't be shortened. Compliance mode helps ensure that an object version can't be overwritten or deleted for the duration of the retention period.
+	- The only way to delete an object under the compliance mode before its retention date expires is to delete the associated AWS account.
+- Governance mode
+	- In _governance_ mode, users can't overwrite or delete an object version or alter its lock settings unless they have special permissions. With governance mode, you protect objects against being deleted by most users, but you can still grant some users permission to alter the retention settings or delete the objects if necessary. You can also use governance mode to test retention-period settings before creating a compliance-mode retention period.
+
+### Legal Holds
+
+With Object Lock, you can also place a _legal hold_ on an object version. Like a retention period, a legal hold prevents an object version from being overwritten or deleted. However, a legal hold doesn't have an associated fixed amount of time and remains in effect until removed. Legal holds can be freely placed and removed by any user who has the `s3:PutObjectLegalHold` permission.
+
+Legal holds are independent from retention periods. Placing a legal hold on an object version doesn't affect the retention mode or retention period for that object version.
+
+### Best practices for using S3 Object Lock
+
+Consider using _Governance mode_ if you want to protect objects from being deleted by most users during a pre-defined retention period, but at the same time want some users with special permissions to have the flexibility to alter the retention settings or delete the objects.
+
+Consider using _Compliance mode_ if you never want any user, including the root user in your AWS account, to be able to delete the objects during a pre-defined retention period. You can use this mode in case you have a requirement to store compliant data.
+
+You can use _Legal Hold_ when you are not sure for how long you want your objects to stay immutable. This could be because you have an upcoming external audit of your data and want to keep objects immutable till the audit is complete. Alternately, you may have an ongoing project utilizing a dataset that you want to keep immutable until the project is complete.
+
+[Locking objects with Object Lock - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lock.html)
+
+[Maintaining object immutability by automatically extending Amazon S3 Object Lock retention periods | AWS Storage Blog](https://aws.amazon.com/blogs/storage/maintaining-object-immutability-by-automatically-extending-amazon-s3-object-lock-retention-periods/)
+
 ## Links
 
 - [Stanislav Kozlovski on LinkedIn: AWS S3 Deep Dive](https://www.linkedin.com/posts/stanislavkozlovski_aws-s3-deep-dive-activity-7072826135792754688-I5pY?utm_source=share&utm_medium=member_desktop)
 - [Creating a simple public file repository on Amazon S3 | AWS Storage Blog](https://aws.amazon.com/blogs/storage/creating-a-simple-public-file-repository-on-amazon-s3/)
 - [Designing a resilient and cost-effective backup strategy for Amazon S3 | AWS Storage Blog](https://aws.amazon.com/blogs/storage/designing-a-resilient-and-cost-effective-backup-strategy-for-amazon-s3/)
 - [Optimizing storage costs and query performance by compacting small objects | AWS Storage Blog](https://aws.amazon.com/blogs/storage/optimizing-storage-costs-and-query-performance-by-compacting-small-objects/)
-- [Maintaining object immutability by automatically extending Amazon S3 Object Lock retention periods | AWS Storage Blog](https://aws.amazon.com/blogs/storage/maintaining-object-immutability-by-automatically-extending-amazon-s3-object-lock-retention-periods/)
 - [Copy data from an S3 bucket to another account and Region by using the AWS CLI - AWS Prescriptive Guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/copy-data-from-an-s3-bucket-to-another-account-and-region-by-using-the-aws-cli.html#copy-data-from-an-s3-bucket-to-another-account-and-region-by-using-the-aws-cli-tools)
 - [How an empty S3 bucket can make your AWS bill explode | by Maciej Pocwierz | Medium](https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1)

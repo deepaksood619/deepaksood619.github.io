@@ -227,8 +227,6 @@ Applications
 - Increased efficiency
 - Topic Modeling
 
-[Topic modeling](https://en.wikipedia.org/wiki/Topic_modeling) is a related problem, where a program is given a list of [human language](https://en.wikipedia.org/wiki/Natural_language) documents and is tasked with finding out which documents cover similar topics.
-
 Algorithms
 
 - Principal Component Analysis (PCA)

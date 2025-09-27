@@ -78,6 +78,12 @@ Neha Rani
 
 ## Techie Talks Podcast - Architecting Data at Scale (2 August 2025)
 
+[How AI is Transforming Data Engineering \| Expert Advice - YouTube](https://youtu.be/9NfX6tn7bXU)
+
+![techie talks podcast](../media/Pasted%20image%2020250926215431.png)
+
+[See Deepak Sood’s activity on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7377383216686678016/)
+
 [Techie Talks Podcast - Architecting Data at Scale](about-deepak-sood/projects/31-techie-talks-podcast-architecting-data-at-scale.md)
 
 [#tech #podcast #devops #ai #leadership #innovation #saas #founderstories #techtalk #devsecops #dataanalytics #cloudcomputing #interview #technology #opstree #techietalkswithkuldeep #buildpiper \| Techie Talks with Kuldeep](https://www.linkedin.com/feed/update/urn:li:activity:7365982673636372480/)

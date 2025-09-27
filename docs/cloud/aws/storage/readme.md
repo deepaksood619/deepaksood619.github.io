@@ -193,6 +193,10 @@ The open-source Lustre file system is designed for applications that require fas
 
 [Lustre 101](https://lustre.ornl.gov/lustre101-courses/)
 
+### Amazon FSx for Lustre vs Amazon FSx for Windows File Server
+
+**Amazon FSx for Lustre** is built for extreme performance in high-throughput, compute-intensive workloads like HPC, machine learning, and financial analytics, offering sub-millisecond latencies and millions of IOPS through its Lustre foundation. In contrast, **Amazon FSx for Windows File Server** is a fully managed service for Windows-based enterprise applications, providing native Microsoft Active Directory (AD) integration, end-user file restore, and Data Deduplication via the SMB protocol for common business workloads like file sharing and general-purpose processing.
+
 ## Links
 
 [Cloud Storage Options - Block Storage vs File Storage vs Object Storage Explained](https://www.freecodecamp.org/news/cloud-storage-options/)

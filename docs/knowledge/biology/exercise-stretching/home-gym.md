@@ -20,6 +20,10 @@
 - Will recover money in 4-5 years
 - No Covid and lockdown tension
 
+### Dance Workout
+
+- [30 minutes Navratri Special Bollywood Dance Workout \| Garba \| Workout With Sabah - YouTube](https://www.youtube.com/watch?v=F-ROqpL5FNY)
+
 ## What do you want to do? Make body or stay fit? (will not be able to make body)
 
 - **Can do both too**

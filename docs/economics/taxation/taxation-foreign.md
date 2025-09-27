@@ -194,6 +194,7 @@ It is 5% of the remittance amount above INR 7 Lakhs. From October 1, 2023 onward
 
 ### Others
 
+- [Online Payment Processing Platform for Digital Businesses \| Payoneer](https://www.payoneer.com/en-in/)
 - WesternUnion
 - BookMyForex
 	- [Best International Money Transfer Apps in India](https://www.bookmyforex.com/blog/best-international-money-transfer-apps-india/)

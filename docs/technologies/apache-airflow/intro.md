@@ -77,7 +77,17 @@ https://github.com/apache/airflow/blob/master/airflow/config_templates/default_a
 
 https://github.com/mumoshu/kube-airflow
 
-## Airflow 2.0
+## Debugging
+
+https://www.astronomer.io/blog/7-common-errors-to-check-when-debugging-airflow-dag
+
+## Changelog
+
+- [Apache Airflow 2.0 is here! | Apache Airflow](https://airflow.apache.org/blog/airflow-two-point-oh-is-here/)
+- [Introducing Airflow 2.8](https://www.astronomer.io/blog/introducing-airflow-2-8/)
+- [Apache Airflow 3.1.0: Human-Centered Workflows \| Apache Airflow](https://airflow.apache.org/blog/airflow-3.1.0/)
+
+### Airflow 2.0
 
 - Stabilised REST API
 - Adds an API to explicitly declare messages passed between tasks in a DAG. The so-called **TaskFlow API** is meant to help handle dependencies and promises to make declaring PythonOperator a tad easier. In order to improve the experience when grouping tasks via the UI, the Airflow team has come up with the concept of task groups, which can be used instead of SubDAGs but comes without drawbacks such as limited parallelism.
@@ -107,7 +117,7 @@ https://www.youtube.com/playlist?list=PLCi-q9vYo4x-PESoBcXN0tXCMgzh5c_Pj
 - We use SubDAGs extensively but they don't seem recommended. What should we use then?
 - Is there a way to fully leverage the Kubernetes API within the KubernetesPodOperator?
 
-## Airflow 3.0
+### Airflow 3.0
 
 - Airflow 3 is significantly easier to use for data practitioners and incorporates their key requests for critical changes to Airflow. Early user reactions to features such as the new React based UI, DAG Versioning, and improved Backfill support have been incredibly positive. I was ecstatic to see the reaction from data engineers when I demonstrated this at a recent Airflow meetup.
 - The seamless UI transition of navigating between Asset-oriented workflows and Task-oriented workflows is beautiful. Once again, Airflow lets the developer choose how you want to develop and navigate without imposing any restrictions.
@@ -121,13 +131,3 @@ https://www.youtube.com/playlist?list=PLCi-q9vYo4x-PESoBcXN0tXCMgzh5c_Pj
 - UI Modernization
 
 [Apache Airflow® 3 is Generally Available! \| Apache Airflow](https://airflow.apache.org/blog/airflow-three-point-oh-is-here/)
-
-## Debugging
-
-https://www.astronomer.io/blog/7-common-errors-to-check-when-debugging-airflow-dag
-
-## Changelog
-
-[Apache Airflow 2.0 is here! | Apache Airflow](https://airflow.apache.org/blog/airflow-two-point-oh-is-here/)
-
-[Introducing Airflow 2.8](https://www.astronomer.io/blog/introducing-airflow-2-8/)

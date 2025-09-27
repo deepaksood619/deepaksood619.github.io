@@ -75,3 +75,5 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 - [Unrealistic aspirations will make us poor even if we earn in Lakhs!](https://freefincal.com/unrealistic-aspirations-will-make-us-poor-even-if-we-earn-in-lakhs/)
 - [17 years of mutual fund investing: My Journey and lessons learned](https://freefincal.com/17-years-of-mutual-fund-investing-my-journey-and-lessons-learned/)
 - [My worst fear in personal finance: unexpected recurring expenses](https://freefincal.com/my-worst-fear-in-personal-finance-unexpected-recurring-expenses/)
+- [How I learned new skills with side hustles and advanced my career](https://freefincal.com/how-i-learned-new-skills-with-side-hustles-and-advanced-my-career/)
+- [The Money Tree: Branch Out Your Income](https://freefincal.com/the-money-tree-branch-out-your-income/)

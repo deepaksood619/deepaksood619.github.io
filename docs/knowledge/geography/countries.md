@@ -111,3 +111,6 @@ https://www.youtube.com/playlist?list=PLkJ-kjtioPGqUr8sSaF7x04mrLcXFJYMO
 ## Others
 
 [Why Do All Arab Countries Have Similar Flags? - YouTube](https://www.youtube.com/watch?v=ZrZWdubD1r0)
+
+[Hofstede's cultural dimensions theory - Wikipedia](https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory)
+- [Country comparison tool](https://www.theculturefactor.com/country-comparison-tool?countries=china%2Cindia%2Cunited+states)

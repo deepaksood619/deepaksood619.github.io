@@ -13,13 +13,19 @@ https://docs.aws.amazon.com/personalize/latest/dg/what-is-personalize.html
 
 [Vinija's Notes • Recommendation Systems • Research Papers](https://vinija.ai/recsys/papers/)
 
-### Social Media Recommendation Engine
+## Social Media Recommendation Engine
 
 - Doom scrolling
 - Endless bottom / endless scrolling
 - Reel life vs real life
 
-### Price Recommendation Engine
+## Two-Tower Model for Recommendation Systems
+
+The two-tower approach is a deep learning architecture in recommendation systems that uses two separate neural networks, or "towers," to generate embeddings (vector representations) for users and items independently. During training, the towers learn to produce embeddings such that user and item embeddings for positive interactions are close in a shared latent space, allowing for efficient similarity calculation (e.g., dot product) to predict relevance. This decoupling of user and item processing enables the pre-computation of item embeddings for fast, large-scale candidate retrieval in real-time.
+
+[The Two-Tower Model for Recommendation Systems: A Deep Dive \| Shaped Blog](https://www.shaped.ai/blog/the-two-tower-model-for-recommendation-systems-a-deep-dive)
+
+## Price Recommendation Engine
 
 [ML driven dynamic pricing @ CARS24 - Part 1 | by Shashank Kumar | CARS24 Data Science Blog | Mar, 2023 | Medium](https://medium.com/cars24-data-science-blog/how-cars24-uses-machine-learning-for-dynamic-pricing-of-used-cars-part-1-51fee52860d1)
 

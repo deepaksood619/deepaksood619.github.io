@@ -53,13 +53,20 @@ https://spacy.io/usage/models
 
 ## Gensim (Topic Modeling for Humans)
 
-Gensim is a Python library fortopic modeling, document indexingandsimilarity retrievalwith large corpora. Target audience is thenatural language processing(NLP) andinformation retrieval(IR) community.
+Gensim is a Python library for topic modeling, document indexing and similarity retrieval with large corpora. Target audience is the natural language processing(NLP) andinformation retrieval(IR) community.
 
 https://github.com/parulsethi/gensim
 
 https://radimrehurek.com/gensim
 
 https://www.toptal.com/python/topic-modeling-python
+
+### Topic Modeling
+
+[Topic modeling](https://en.wikipedia.org/wiki/Topic_modeling) is a related problem, where a program is given a list of [human language](https://en.wikipedia.org/wiki/Natural_language) documents and is tasked with finding out which documents cover similar topics.
+
+- [Extract Topics From Video/Audio With LLMs (Topic Modeling w/ LangChain) - YouTube](https://www.youtube.com/watch?v=pEkxRQFNAs4)
+- [langchain-tutorials/data\_generation/Topic Modeling With Language Models.ipynb at main · gkamradt/langchain-tutorials · GitHub](https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/Topic%20Modeling%20With%20Language%20Models.ipynb)
 
 ## Text Similarity Methods
 

@@ -14,3 +14,5 @@ By Steve Magness
 - The science of toughness - Satisfy the psychological needs and you'll work harder than ever
 
 [DO HARD THINGS by Steve Magness | Core Message](https://www.youtube.com/watch?v=PyosFtMazPo)
+
+[How To Force Your Brain To Do Hard Things (Lotus Method) - YouTube](https://www.youtube.com/watch?v=GpsWTFciswE)
