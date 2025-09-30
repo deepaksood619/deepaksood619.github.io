@@ -157,6 +157,11 @@ reasoning_agent = Agent(
 - [GitHub - openai/agents.md: AGENTS.md — a simple, open format for guiding coding agents](https://github.com/openai/agents.md)
 - [GitHub - agentscope-ai/agentscope: AgentScope: Agent-Oriented Programming for Building LLM Applications](https://github.com/agentscope-ai/agentscope)
 	- [AgentScope](https://doc.agentscope.io/)
+	- Transparency - Full visibility over prompts, reasoning chains, and agent interactions.
+	- Runtime Control - Native support for interruptions, overrides, and custom error handling.
+	- Agentic Core - Built-in handling for tools, memory, RAG, and multi-agent collaboration.
+	- Model Agnostic - Works with any LLM provider without lock-in.
+	- Composable - Modular, LEGO-style components let developers mix and match agents.
 
 ![AI Agents Landscape](../../media/Pasted%20image%2020250114143214.jpg)
 

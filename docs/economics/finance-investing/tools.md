@@ -134,3 +134,4 @@
 - [3 Direct Ways To Invest In U.S. Stocks From India](https://youtu.be/5Dap5e1lXp4)
 - [What are some good online brokers for investing in US stocks from India? - Quora](https://www.quora.com/What-are-some-good-online-brokers-for-investing-in-US-stocks-from-India)
 - [Investing in the US, INDMoney vs IBKR : r/personalfinanceindia](https://www.reddit.com/r/personalfinanceindia/comments/1dsy2b4/investing_in_the_us_indmoney_vs_ibkr/)
+- [6 Key Weekly Market Metrics You Should Track \| The Long & The Short - YouTube](https://www.youtube.com/watch?v=-oeNdeaNPmY)

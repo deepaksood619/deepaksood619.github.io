@@ -80,9 +80,23 @@ Neha Rani
 
 [How AI is Transforming Data Engineering \| Expert Advice - YouTube](https://youtu.be/9NfX6tn7bXU)
 
+[Embrace AI as Your Co Collaborator #shorts #technology #tech #ai - YouTube](https://www.youtube.com/shorts/i9qTNh3Xh-E)
+
+[Generative Bi How One Analyst Outpaces a Team of 100 #shorts #technology #tech #ai - YouTube](https://www.youtube.com/shorts/ljQb5qRugZY)
+
+[The 90-10 Rule of Computer Science Success #shorts #technology #tech #ai - YouTube](https://www.youtube.com/shorts/BEC63yJmvV0)
+
+[Transforming Six Months Into Six Minutes #shorts #technology #tech #ai - YouTube](https://www.youtube.com/shorts/9-Lf3cL9bzo)
+
+[Always Keep Learning The Key to Staying Ahead #ai #shorts #technology #tech #ai - YouTube](https://www.youtube.com/shorts/tU7MLaq4T34)
+
 ![techie talks podcast](../media/Pasted%20image%2020250926215431.png)
 
+[How AI is Transforming Data Engineering \| Expert Advice \| Deepak Sood](https://www.linkedin.com/posts/deepaksood619_how-ai-is-transforming-data-engineering-activity-7378050605954748416-h7GH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
+
 [See Deepak Sood’s activity on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7377383216686678016/)
+
+[Embrace AI as Your Co Collaborator #shorts #technology #tech #ai \| Techie Talks with Kuldeep](https://www.linkedin.com/posts/techietalkswithkuldeep_embrace-ai-as-your-co-collaborator-shorts-activity-7377950141342867456-2rdE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 
 [Techie Talks Podcast - Architecting Data at Scale](about-deepak-sood/projects/31-techie-talks-podcast-architecting-data-at-scale.md)
 

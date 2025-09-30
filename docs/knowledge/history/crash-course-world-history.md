@@ -35,6 +35,7 @@ Indus valley civilization
     - conquest (by carcauses)
     - Environmental disaster
     - Earthquake
+        - [How AI is shaking up the study of earthquakes](https://www.understandingai.org/p/how-ai-is-shaking-up-the-study-of)
 
 ### 3. Mesopotamia
 

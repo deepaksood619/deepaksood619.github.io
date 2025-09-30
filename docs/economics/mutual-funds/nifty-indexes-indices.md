@@ -2,6 +2,8 @@
 
 ![Sensex then versus now](../../media/Pasted%20image%2020241006231135.jpg)
 
+![Most profitable companies - nifty50](../../media/Screenshot%202025-09-28%20at%202.50.36%20PM.jpg)
+
 ## Categories
 
 - [Broad based Indices](https://www.niftyindices.com/indices/equity/broad-based-indices)

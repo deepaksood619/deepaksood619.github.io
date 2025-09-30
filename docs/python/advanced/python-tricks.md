@@ -91,7 +91,7 @@ t.substitute(name=name)
 - Lexical closures - a function that remembers the values from the enclosing lexical scope even when the program flow is no longer in that scope.
 - Always ask yourself: Would using a regular (named) function or a list comprehension/generator expression offer more clarity?
 
-### 3. *args and **kwargs
+### 3. `*args and **kwargs`
 
 - `*args` and `**kwargs` let you write functions with a variable number of arguments in Python.
 - `*args` collects extra positional arguments as a tuple. `**kwargs` collects the extra keyword arguments as a dictionary.

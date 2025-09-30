@@ -192,3 +192,10 @@ Vintage is a slang term used by [mortgage-backed security](https://www.investope
 - Two MBS with the same vintage may have different levels of assumed risk, however, and as a result, different perceived values.
 
 https://www.investopedia.com/terms/v/vintage.asp
+
+## Links
+
+- [Modern Debt Collection Strategies for the Digital Age](https://provoke.fm/debt-collection-for-the-digital-age/)
+	- If your collections strategy leads with calls you are wasting time, money and taking excess reg risk
+	- have legal team involved in designing all customer contact from beginning (vs asking approval once designed)
+	- online reputation management is critical. We need to set up GFB etc

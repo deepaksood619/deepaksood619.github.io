@@ -65,6 +65,8 @@
 
 [Bengaluru stampede: A list of major stampedes in India - The Hindu](https://www.thehindu.com/news/national/major-stampedes-in-india-list/article69659616.ece)
 
+[Tamil Nadu Karur Stampede At Actor-Politician Vijay's Rally Described In Haunting Visuals](https://www.ndtv.com/india-news/tamil-nadu-karur-stampede-at-actor-politician-vijays-rally-described-in-haunting-visuals-9360785)
+
 ## Economics
 
 [How many Indians earn more than Rs 1 crore annually? The Hurun Wealth Report 2025 reveals - Money News \| The Financial Express](https://www.financialexpress.com/money/how-many-indians-earn-more-than-rs-1-crore-annually-the-hurun-wealth-report-2025-reveals-3983400/)

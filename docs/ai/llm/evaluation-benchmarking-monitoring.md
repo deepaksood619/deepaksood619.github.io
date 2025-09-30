@@ -47,6 +47,7 @@
 - [Hugging Face Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 - [Alpaca Eval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/)
 - [Overview Leaderboard \| LMArena](https://lmarena.ai/leaderboard)
+- [GitHub - protectai/llm-guard: The Security Toolkit for LLM Interactions](https://github.com/protectai/llm-guard)
 
 ## Key Aspects of LLM Evaluation
 

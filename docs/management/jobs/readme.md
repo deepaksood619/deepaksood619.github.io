@@ -253,6 +253,7 @@ Here are 30 websites to find remote jobs that pay in USD:
 - jain.arunabh@nirvanaerecycling.com
 - **Salaries -** [https://www.levels.fyi/#](https://www.levels.fyi/)
 - [Automate Job Applications with AI - JobCopilot](https://jobcopilot.com/)
+- [allUP - Succeed Together](https://www.allup.world/)
 
 ### How to apply
 
@@ -284,3 +285,5 @@ Here are 30 websites to find remote jobs that pay in USD:
 ## Others
 
 ![ChatGPT Prompts for Job Hunting](../../media/1723056210575.jpg)
+
+[Leading Computer Science Professor: Students Are Struggling to Get Jobs - Business Insider](https://www.businessinsider.com/computer-science-students-job-search-ai-hany-farid-2025-9)

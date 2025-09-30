@@ -32,6 +32,7 @@ The future of decentralized finance lies in the hands of those who dare to chall
 - [Plug & play APIs to simplify the web3 experience | Biconomy](https://www.biconomy.io/)
 - [Web3's leading platform for NFT experiences | HyperMint by MoonPay](https://hypermint.com/)
 - KYC - sumsub
+	- [IDfy \| Integrated Identity Platform KYC \| KYB \| BGV \| Fraud & Risk](https://www.idfy.com/)
 - Security - [Web3 Security Leaderboard](https://www.certik.com/)
 - [Blockchain Analytics & Crypto Compliance Solutions | Elliptic](https://www.elliptic.co/)
 - [Gauntlet](https://gauntlet.network/)

@@ -25,3 +25,4 @@ The intelligence cycle is an idealized model of how intelligence is processed in
 
 - [Parimutuel betting - Wikipedia](https://en.wikipedia.org/wiki/Parimutuel_betting)
 - [The Biggest Mysteries Science Still Hasn't Solved \| Compilation - YouTube](https://www.youtube.com/watch?v=qJvT2kIW9kk)
+- [Torino scale - Wikipedia](https://en.wikipedia.org/wiki/Torino_scale)
