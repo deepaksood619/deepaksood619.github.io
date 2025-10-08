@@ -161,6 +161,13 @@ https://www.edx.org/course/finance-everyone-smart-tools-decision-michiganx-fin10
 	- 2040....1KG Gold = Private Jet
 - [What you need to know about gold before investing in it](https://freefincal.com/what-you-need-to-know-about-gold-before-investing-in-it/)
 - [What you need to know about gold before investing! - YouTube](https://youtu.be/gl0GMwKMd3E)
+- [Gold Storage Limit in India: How Much Gold Can You Keep at Home Without Inviting an Income Tax Raid? - PUNE PULSE](https://www.mypunepulse.com/gold-storage-limit-in-india-how-much-gold-can-you-keep-at-home-without-inviting-an-income-tax-raid/)
+	- **Married woman:** up to **500 grams**
+	- **Unmarried woman:** up to **250 grams**
+	- **Married or unmarried man:** up to **100 grams**
+- Tax
+	- **Short-Term Capital Gains (STCG):** If gold is sold **within 2 years** of purchase, profits are added to your income and taxed as per your slab rate.
+	- **Long-Term Capital Gains (LTCG):** If sold **after 2 years**, the gain is taxed at **12.5%** (without indexation benefit).
 
 ### Dubai Gold
 

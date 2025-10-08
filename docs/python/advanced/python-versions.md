@@ -121,3 +121,8 @@ https://docs.python.org/3/whatsnew/3.8.html
 - New Python Parser
 
     The new parser, based on PEG, will allow the Python developers significantly more flexibility
+
+## Python 3.14
+
+- [What’s new in Python 3.14 — Python 3.14.0 documentation](https://docs.python.org/3.14/whatsnew/3.14.html)
+- [It's Almost Time for Python 3.14 and Other Python News – Real Python](https://realpython.com/python-news-october-2025/)

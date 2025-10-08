@@ -16,6 +16,31 @@ https://www.16personalities.com/free-personality-test
 
 [Is There An Atheist Personality Type? (Psychology of Atheism Part 2)](https://www.youtube.com/watch?v=xejfuTNov7Y)
 
+## RIASEC assessment / Holland Code test
+
+A RIASEC assessment, also known as the Holland Code test, is a personality assessment developed by psychologist John Holland to help individuals identify careers and fields of study that align with their personality types and interests. The assessment categorizes people into one of six types—Realistic, Investigative, Artistic, Social, Enterprising, and Conventional—and suggests that individuals are more likely to thrive in work environments that match their personality type.  
+
+### How it Works
+
+- **Questionnaire:** You answer a series of true/false questions about your aspirations, skills, activities, and interests in various jobs. 
+- **Interest Codes:** Your responses are used to identify your top two or three RIASEC types, creating a "Holland Code". 
+- **Career Matching:** This code is then used to match your personality to careers and environments where you are likely to be satisfied and successful. 
+
+### The Six RIASEC Personality Types
+
+1. **R ealistic:** "Doers" who prefer hands-on, mechanical, or athletic activities and work with tools and machines. 
+2. **I nvestigative:** "Thinkers" who enjoy watching, learning, analyzing, and solving problems. 
+3. **A rtistic:** "Creators" who prefer unstructured situations to express their creativity and imagination. 
+4. **S ocial:** "Helpers" who like working with people rather than things, focusing on helping, teaching, or counseling. 
+5. **E nterprising:** "Persuaders" who are good at leading and influencing others, often in sales or management. 
+6. **C onventional:** "Organizers" who are detail-oriented, organized, and enjoy working with data and maintaining order. 
+
+### Why It's Useful
+
+- **Career Planning:** It helps you discover suitable career paths and fields of study that match your interests. 
+- **Self-Understanding:** It provides insight into your current skills, interests, and aspirations. 
+- **Work Environment Alignment:** It helps you find work environments where you will feel more engaged and likely to achieve success. 
+
 ## Four temperaments
 
 The **four temperament theory** is a proto-psychological theory which suggests that there are four fundamental personality types: **sanguine**, **choleric**, **[melancholic](https://en.wikipedia.org/wiki/Melancholic "Melancholic")**, and **phlegmatic**.
