@@ -175,3 +175,4 @@ In summary:
 - [Exploring Time Travel Queries in Apache Hudi - DEVOPS DONE RIGHT..](https://opstree.com/blog/2024/10/22/time-travel-queries-in-apache-hudi/)
 - [Understanding COW and MOR in Apache Hudi: Choosing the Right Storage Strategy  - DEVOPS DONE RIGHT..](https://opstree.com/blog/2024/11/12/understanding-cow-and-mor-in-apache-hudi-choosing-the-right-storage-strategy/)
 - [Apache Hudi vs Delta Lake vs Apache Iceberg - Data Lakehouse Feature Comparison](https://www.onehouse.ai/blog/apache-hudi-vs-delta-lake-vs-apache-iceberg-lakehouse-feature-comparison)
+- [Apache Hudi: A Database Layer Over Cloud Storage for Fast Mutations & Queries (Vinoth Chandar) - YouTube](https://www.youtube.com/watch?v=-zcFSJttWtw)

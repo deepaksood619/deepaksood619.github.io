@@ -1,5 +1,12 @@
 # Layer 2 Protocols
 
+- [arbitrum](decentralized-applications/ethereum/arbitrum.md)
+- [polygon](decentralized-applications/ethereum/polygon.md) (MATIC)
+- Optimism
+- zkSync
+- Starknet
+- Base
+
 In the context of blockchain, a "layer 2" refers to a secondary protocol or technology built on top of a primary blockchain, which provides additional functionality or scalability solutions while relying on the security of the underlying blockchain.
 
 In the case of Ethereum, there are several layer 2 solutions being developed to address the network's current limitations in terms of scalability and transaction throughput.
@@ -51,10 +58,6 @@ Several rollup solutions are already live or in the process of being implemented
 
 [L2BEAT - The state of the layer two ecosystem](https://l2beat.com/scaling/risk)
 
-- [arbitrum](decentralized-applications/ethereum/arbitrum.md)
-- [polygon](decentralized-applications/ethereum/polygon.md)
-- Optimism
-
  Optimism is a fast, stable, and scalable L2 blockchain built by Ethereum developers, for Ethereum developers. Built as a minimal extension to existing Ethereum software, Optimism’s EVM-equivalent architecture scales your Ethereum apps without surprises. If it works on Ethereum, it works on Optimism at a fraction of the cost.
 
  [Welcome to the OP Stack | OP Stack Docs](https://stack.optimism.io/#)
@@ -84,19 +87,16 @@ A cryptographic method for proving a statement is true without revealing any inf
 - Interactive ZK Proof
 - Non-interactive ZK Proof
 
-[Zero Knowledge Canon, part 1 & 2 - a16z crypto](https://a16zcrypto.com/content/article/zero-knowledge-canon/)
+#### Links
 
-[Zero-Knowledge Proof (ZKP): How It Works and Why Its Important - YouTube](https://www.youtube.com/watch?v=e_Im2g2xsAg)
-
-[Zero Knowledge Proof - ZKP - YouTube](https://www.youtube.com/watch?v=OcmvMs4AMbM)
-
-[Zero Knowledge Proof (with Avi Wigderson) - Numberphile - YouTube](https://www.youtube.com/watch?v=5ovdoxnfFVc)
-
-[What Is A zkEVM? - Linea](https://linea.mirror.xyz/qD18IaQ4BROn_Y40EBMTUTdJHYghUtdECscSWyMvm8M)
-
-[Lifecycle of ZKP | ZKCamp](https://www.zkcamp.xyz/blog/lifecycle-of-zkp)
-
-[Zero Knowledge Proofs | The Future of Cryptography - YouTube](https://www.youtube.com/watch?v=9-tymZxBuWw&ab_channel=Cryptosense)
+- [Zero Knowledge Canon, part 1 & 2 - a16z crypto](https://a16zcrypto.com/content/article/zero-knowledge-canon/)
+- [Zero-Knowledge Proof (ZKP): How It Works and Why Its Important - YouTube](https://www.youtube.com/watch?v=e_Im2g2xsAg)
+- [Zero Knowledge Proof - ZKP - YouTube](https://www.youtube.com/watch?v=OcmvMs4AMbM)
+- [Zero Knowledge Proof (with Avi Wigderson) - Numberphile - YouTube](https://www.youtube.com/watch?v=5ovdoxnfFVc)
+- [What Is A zkEVM? - Linea](https://linea.mirror.xyz/qD18IaQ4BROn_Y40EBMTUTdJHYghUtdECscSWyMvm8M)
+- [Lifecycle of ZKP | ZKCamp](https://www.zkcamp.xyz/blog/lifecycle-of-zkp)
+- [Zero Knowledge Proofs | The Future of Cryptography - YouTube](https://www.youtube.com/watch?v=9-tymZxBuWw&ab_channel=Cryptosense)
+- [GitHub - unionlabs/union: The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.](https://github.com/unionlabs/union)
 
 ### zk-SNARK
 
@@ -149,3 +149,4 @@ The variations in security techniques between layer 2 and sidechain solutions ar
 - [Top Crypto LAYER 2s to Keep An Eye On (Base, Linea, Mantle) - YouTube](https://www.youtube.com/watch?v=_vHyMkv-m1M)
 - [L2BEAT - The state of the layer two ecosystem](https://l2beat.com/scaling/summary)
 - [Exit games for EVM validiums: the return of Plasma](https://vitalik.ca/general/2023/11/14/neoplasma.html)
+- [What are Layer 2 Crypto Protocols? \| CoinGecko](https://www.coingecko.com/learn/what-are-layer-2-crypto-protocols)

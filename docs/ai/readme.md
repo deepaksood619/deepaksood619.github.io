@@ -54,8 +54,11 @@ An "intelligence explosion" refers to a hypothetical scenario where a self-impro
 - [Why Can’t We Tame AI? - Cal Newport](https://calnewport.com/why-cant-we-tame-ai/)
 - [Why the AI Revolution Has a Fatal Flaw - YouTube](https://www.youtube.com/watch?v=hBfhd88DCZA&ab_channel=UndecidedwithMattFerrell)
 	- AI economic paradox
+- [AI isn't replacing radiologists - by Deena Mousa](https://www.understandingai.org/p/ai-isnt-replacing-radiologists)
+- [Leopold Aschenbrenner — 2027 AGI, China/US super-intelligence race, & the return of history - YouTube](https://www.youtube.com/watch?v=zdbVtZIn9IM)
 
 ## Links
 
 - [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
 - [When Machines Think Ahead: The Rise of Strategic AI | by Hans Christian Ekne | Nov, 2024 | Towards Data Science](https://towardsdatascience.com/when-machines-think-ahead-the-rise-of-strategic-ai-91052e4c5da9)
+- [AI Slop Is Killing Our Channel - YouTube](https://www.youtube.com/watch?v=_zfN9wnPvU0)

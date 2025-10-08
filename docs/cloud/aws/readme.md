@@ -91,6 +91,7 @@ https://www.awsgeek.com/Periodic-Table-of-Amazon-Web-Services/Periodic-Table-of-
 
 ### Others
 
+- [Amazon's Leadership Principles - About Amazon India](https://www.aboutamazon.in/about-us/leadership-principles)
 - [AWS Samples · GitHub](https://github.com/aws-samples)
 - [AWS Financial Services Competency Partners](https://aws.amazon.com/financial-services/partner-solutions/)
 - [Top Architecture Blog Posts of 2023 | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/top-architecture-blog-posts-of-2023/)

@@ -374,6 +374,44 @@ https://en.wikipedia.org/wiki/Parasocial_interaction
 - Middle class - Aspirations
 - Lower class - Enthusiasm
 
+### Lottery of Birth / Lottery of Life / Ovarian Lottery
+
+_“Birth is life’s first lottery ticket.” — Jeffrey Archer_
+
+The "birth lottery" (or "lottery of birth") refers to the idea that the circumstances of one's birth—including factors like wealth, location, social class, race, gender, health, and family background—are random and beyond one's control, yet significantly influence a person's entire life and opportunities. This philosophical concept highlights inherited inequalities and how "accidents of birth" shape individual destinies, sparking discussions on fairness, privilege, and the need to address inherent disadvantages.
+
+- “**We do not choose to exist**.”
+- “As newborns, we’re **not responsible for our own natures**, we’re endowed with **genes** that we didn’t ask for.”
+- “We’re faced with **a world that we played no part in creating**.”
+- “We do not choose what **environment we grow up in**.”
+- “We do not choose **our identity**, we inherit it.”
+
+#### Key Aspects of the Birth Lottery
+
+- **Randomness:** Individuals do not choose their birth circumstances.
+- **Inherited Inequalities:** The random nature of birth creates deeply unequal starting points for different people.
+- **Impact on Life:** These initial circumstances profoundly shape a person's access to resources, opportunities, education, healthcare, and overall life experiences.
+- **Philosophical Underpinnings:** The concept is a philosophical argument about fairness and responsibility, suggesting that people should not be held accountable for circumstances they did not choose.
+
+#### Examples of Factors Influenced by the Birth Lottery
+
+- **Socioeconomic Status:** Being born into a wealthy family versus a poor one.
+- **Geography:** The country, region, or even neighborhood one is born in.
+- **Social Groupings:** Caste, religion, race, and language.
+- **Health:** Being born with or without a disability.
+- **Family and Gender:** Being born into a specific family, at a certain birth order, or with a particular gender identity.
+
+#### Related Concepts
+
+- **Inherited Social Inequalities:** The birth lottery is a fundamental cause of persistent social inequalities.
+- **Privilege:** Understanding the birth lottery helps explain how certain groups benefit from unearned advantages.
+- **Justice and Fairness:** The concept raises ethical questions about societal structures and whether they provide equal opportunities or perpetuate inherited disadvantages.
+
+#### Links
+
+- [Lottery of Birth: All the Things You Don't Choose or Control in Life \| Sloww](https://www.sloww.co/lottery-of-birth/)
+- [The real lottery is "lottery of birth" : r/india](https://www.reddit.com/r/india/comments/1kg85r8/the_real_lottery_is_lottery_of_birth/)
+
 ## Others
 
 - **Hobosexuality** refers to a pattern where someone enters a romantic relationship primarily for housing or financial support, often under the guise of a deep emotional connection. [Why urban hobosexuality is quite a thing in India now (or at least becoming one) - India Today](https://www.indiatoday.in/lifestyle/relationship/story/why-urban-hobosexuality-is-quite-a-thing-in-india-or-at-least-becoming-one-2768431-2025-08-10)

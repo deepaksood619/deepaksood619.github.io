@@ -78,6 +78,7 @@ https://www.investopedia.com/terms/u/unrealizedgain.asp
 - [Section 54F of Income Tax Act: Capital Gains Can Be Invested Multiple Times To Buy A New Residential House Property](https://cleartax.in/s/invest-multiple-capital-gains-on-buying-new-house-property)
 - [Claiming Capital Gains Exemption? Watch Out for This Common Slip](https://freefincal.com/claiming-capital-gains-exemption-watch-out-for-this-common-slip/)
 - [Selling Property? Don’t Miscalculate Your Section 54 Reinvestment Amount](https://freefincal.com/selling-property-dont-miscalculate-your-section-54-reinvestment-amount/)
+- [No more 54F exemption for capital gains from Debt Funds](https://freefincal.com/no-more-54f-exemption-for-capital-gains-from-debt-funds/)
 
 ### Points
 

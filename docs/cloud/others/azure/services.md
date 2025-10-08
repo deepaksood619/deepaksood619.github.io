@@ -49,18 +49,19 @@ Create the next generation of applications using artificial intelligence capabil
 
 Gather, store, process, analyse and visualise data of any variety, volume or velocity
 
-39. [Azure Databricks](https://azure.microsoft.com/en-in/services/databricks/) (ADB) - Fast, easy and collaborative Apache Spark-based analytics platform
-40. [Azure Stream Analytics](https://azure.microsoft.com/en-in/services/stream-analytics/) - Real-time data stream processing from millions of IoT devices
-41. [HDInsight](https://azure.microsoft.com/en-in/services/hdinsight/) - Provision cloud Hadoop, Spark, R Server, HBase, and Storm clusters
-42. [Data Lake Analytics](https://azure.microsoft.com/en-in/services/data-lake-analytics/) - Distributed analytics service which makes big data easy
-43. [Event Hubs](https://azure.microsoft.com/en-in/services/event-hubs/) - Receive telemetry from millions of devices
-44. [Power BI Embedded](https://azure.microsoft.com/en-in/services/power-bi-embedded/) - Embed fully interactive, stunning data visualisations in your applications
-45. [Azure Analysis Services](https://azure.microsoft.com/en-in/services/analysis-services/) - Enterprise-grade analytics engine as a service
-46. [R Server for HDInsight](https://azure.microsoft.com/en-in/services/hdinsight/r-server/) - Predictive analytics, machine learning and statistical modeling for big data
-47. [Data Catalog](https://azure.microsoft.com/en-in/services/data-catalog/) - Get more value from your enterprise data assets
-48. [Azure Data Lake Storage](https://azure.microsoft.com/en-in/services/storage/data-lake-storage/) - Massively scalable, secure data lake functionality built on Azure Blob Storage
-49. [Azure Data Explorer](https://azure.microsoft.com/en-in/services/data-explorer/) - Fast and highly scalable data exploration service
-50. [Azure Data Share](https://azure.microsoft.com/en-in/services/data-share/) - A simple and safe service for sharing big data with external organizations
+1. [Azure Databricks](https://azure.microsoft.com/en-in/services/databricks/) (ADB) - Fast, easy and collaborative Apache Spark-based analytics platform
+2. [Azure Stream Analytics](https://azure.microsoft.com/en-in/services/stream-analytics/) - Real-time data stream processing from millions of IoT devices
+3. [HDInsight](https://azure.microsoft.com/en-in/services/hdinsight/) - Provision cloud Hadoop, Spark, R Server, HBase, and Storm clusters
+4. [Data Lake Analytics](https://azure.microsoft.com/en-in/services/data-lake-analytics/) - Distributed analytics service which makes big data easy
+5. [Event Hubs](https://azure.microsoft.com/en-in/services/event-hubs/) - Receive telemetry from millions of devices
+6. [Power BI Embedded](https://azure.microsoft.com/en-in/services/power-bi-embedded/) - Embed fully interactive, stunning data visualisations in your applications
+7. [Azure Analysis Services](https://azure.microsoft.com/en-in/services/analysis-services/) - Enterprise-grade analytics engine as a service
+	1. Azure Analysis Services is a fully managed cloud-based analytical engine and Platform as a Service (PaaS) that provides enterprise-grade BI semantic models. It allows you to combine data from multiple sources into a single, trusted semantic model, enabling users to perform ad hoc analysis with tools like Power BI and Excel. Built on the proven SQL Server Analysis Services engine, AAS offers the scale, flexibility, and management benefits of the cloud, supporting complex data transformation and delivering fast, in-memory query responses for business users.
+8. [R Server for HDInsight](https://azure.microsoft.com/en-in/services/hdinsight/r-server/) - Predictive analytics, machine learning and statistical modeling for big data
+9. [Data Catalog](https://azure.microsoft.com/en-in/services/data-catalog/) - Get more value from your enterprise data assets
+10. [Azure Data Lake Storage](https://azure.microsoft.com/en-in/services/storage/data-lake-storage/) - Massively scalable, secure data lake functionality built on Azure Blob Storage
+11. [Azure Data Explorer](https://azure.microsoft.com/en-in/services/data-explorer/) - Fast and highly scalable data exploration service
+12. [Azure Data Share](https://azure.microsoft.com/en-in/services/data-share/) - A simple and safe service for sharing big data with external organizations
 
 ### [Azure HDInsight - Hadoop, Spark, and Kafka | Microsoft Azure](https://azure.microsoft.com/en-us/products/hdinsight)
 

@@ -6,6 +6,8 @@ If you startup has no competition and isn't being copied I'd be worried
 
 If you have no idea how to market your startup just build in public.
 
+Work for a great team, or great work for a team?
+
 **Always think about Ideal world, as to what will happen in ideal world**
 
 Something that increases **productivity**

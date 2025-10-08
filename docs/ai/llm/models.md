@@ -34,6 +34,7 @@
     - [Model Spec (2025/04/11)](https://model-spec.openai.com/2025-04-11.html)
         - [Sycophancy in GPT-4o: What happened and what we’re doing about it \| OpenAI](https://openai.com/index/sycophancy-in-gpt-4o/)
     - [Is it possible to call external API in the OpenAI playground? - API - OpenAI Developer Community](https://community.openai.com/t/is-it-possible-to-call-external-api-in-the-openai-playground/1098018/6) - External Functions
+    - [Here are 3 Major Announcements from OpenAI DevDay - YouTube](https://www.youtube.com/shorts/6u-snbY_CXs)
 - [Grok \| xAI](https://x.ai/grok)
 - Vicuna
 - Bloom
@@ -52,6 +53,7 @@
     - [Smaller, Safer, More Transparent: Advancing Responsible AI with Gemma - Google Developers Blog](https://developers.googleblog.com/en/smaller-safer-more-transparent-advancing-responsible-ai-with-gemma/)
     - Peligemma - [Google's New PaliGemma-Open Vision Language Model - YouTube](https://www.youtube.com/watch?v=un0SjUnHvvE)
     - VLM - Vision Language Model
+    - [Introducing the Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
 - [Meta Llama 3](https://llama.meta.com/llama3/)
     - [Introducing Meta Llama 3: The most capable openly available LLM to date](https://ai.meta.com/blog/meta-llama-3/)
     - [Introducing Llama 3.1: Our most capable models to date](https://ai.meta.com/blog/meta-llama-3-1/) - 8B, 70B, 405B

@@ -108,3 +108,5 @@ sudo resize2fs /dev/root
 - [Recycle Bin - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/recycle-bin.html)
 - [Delete an Amazon EBS snapshot - Amazon EBS](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-deleting-snapshot.html#ebs-delete-snapshot)
 - [Deregister (delete) an AMI - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/deregister-ami.html)
+- [Attach an EBS volume to multiple EC2 instances using Multi-Attach - Amazon EBS](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volumes-multi.html)
+	- Multi-Attach enabled volumes can be attached to up to 16 instances built on the [Nitro System](https://docs.aws.amazon.com/ec2/latest/instancetypes/ec2-nitro-instances.html) that are in the same Availability Zone.

@@ -57,6 +57,8 @@ Flexi-cap and multi-cap funds both invest across large, mid, and small-cap stock
 
 - [Will Parag Parikh Flexi Cap Fund's large AUM affect its performance?](https://freefincal.com/will-parag-parikh-flexi-cap-funds-large-aum-affect-its-performance/)
 - [PPFAS new moves: New stock entry & 4 stake increases signal value opportunities? - Stock Insights News \| The Financial Express](https://www.financialexpress.com/market/stock-insights/ppfas-new-moves-new-stock-entry-4-stake-increases-signal-value-opportunities/3875334/)
+- [Dividend Option in PPFAS Flexicap Fund – Is this useful? - YouTube](https://www.youtube.com/watch?v=a4bIkrfiUDw)
+- [Dividend Option in PPFAS Flexicap Fund - Is this useful?](https://freefincal.com/dividend-option-in-ppfas-flexicap-fund-is-this-useful/)
 
 ## Active Equity MFs
 

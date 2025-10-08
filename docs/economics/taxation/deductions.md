@@ -10,6 +10,7 @@
 - https://freefincal.com/tax-benefits-hra-home-loans
 - [Can I pay rent to my parents to save tax?](https://cleartax.in/s/can-i-pay-rent-to-my-parents-to-save-tax)
 - [House Rent Allowance (HRA) - What is House Rent Allowance, HRA Exemption And Tax Deduction](https://cleartax.in/s/hra-house-rent-allowance)
+- [Can I Pay Rent To My Parents To Save Tax?](https://cleartax.in/s/can-i-pay-rent-to-my-parents-to-save-tax)
 
 #### HRA Calculator
 

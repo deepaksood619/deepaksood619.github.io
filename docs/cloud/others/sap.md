@@ -41,6 +41,10 @@ This SAP FICO basics tutorial is going to explain SAP FICO overview and the majo
 
 [**What is SAP FICO Explained** | Introduction to SAP FICO Overview & Basics - YouTube](https://www.youtube.com/watch?v=ER4xnUGztaE)
 
+## SAP HANA
+
+SAP S/4HANA is SAP's current enterprise resource planning (ERP) suite, designed to run on the SAP HANA in-memory database. It integrates core business processes like finance, logistics, and sales into a single system, enabling real-time data analysis and transactions for digital transformation. S/4HANA can be deployed on-premises, in the cloud, or as a hybrid model, offering flexibility and improved performance through advanced technologies like artificial intelligence (AI) and machine learning.
+
 ## Links
 
 - [What Is SAP and What Are the Advantages of Using It? | Indeed.com India](https://in.indeed.com/career-advice/career-development/what-is-sap)

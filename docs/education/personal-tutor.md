@@ -170,6 +170,12 @@ TODO - 2025-03-07, 2025-04-03
 - https://alpha.school/
 	- [2 Hour Learning: How Our Schools Work - YouTube](https://www.youtube.com/watch?v=ENdAWT6N0V4&t=4s)
 	- [2 Hour Learning: Revolutionizing K-12 Education in Just 2 Hours a Day](https://2hourlearning.com/)
+	- [Home \| Learn and Earn](https://www.learnandearn.school/)
+	- **[Alpha Anywhere - Alpha Anywhere](https://alphaanywhere.co/)**
+	- [Prequel](https://www.joinprequel.com/)
+	- [Unbound - The Future of Education is Unbound](https://www.unbound.school/)
+	- [Novatio](https://novatio.school/)
+	- [Your Review: Alpha School "The real value that comes from Alpha is not the performance uplift. The most important feature of Alpha is that they have found a way to learn more efficiently. Students condense all the required state-mandated material into ½ a day for 6 yrs instead of a full day for 13." : r/slatestarcodex](https://www.reddit.com/r/slatestarcodex/comments/1ln5ajr/your_review_alpha_school_the_real_value_that/)
 - **[app.youlearn.ai](https://app.youlearn.ai/)**
 - [linkedin.com/in/qudduspat/](https://www.linkedin.com/in/qudduspat/)- qp@asi.tech
 - [How a High Schooler in Dubai Built ASI, One of the Most Promising AI Edtech Startups](https://www.businessinsider.com/edtech-asi-ai-dubai-chatbot-tutoring-assistant-2023-9?IR=T)
@@ -201,6 +207,7 @@ TODO - 2025-03-07, 2025-04-03
 
 - [My Job Grow - Your Gateway to Career Success and Growth](https://www.myjobgrow.com/)
 - [Outskill: AI Upskilling for Modern Careers](https://www.outskill.com/)
+- [Let Grow - When Adults Step Back, Kids Step Up.](https://letgrow.org/)
 
 ### People
 
@@ -235,3 +242,13 @@ TODO - 2025-03-07, 2025-04-03
 - Some amount of regulation and pressure is get maximum productivity
 - Study 1 hour to get 1 hour internet free
 - Healty competition between community (points and leaderboards)
+
+## NWEA MAP Growth Test
+
+[NWEA MAP Growth Test](https://www.nwea.org/map-growth/)
+
+- **Purpose:** To measure student growth and academic achievement in reading, math, language usage, and science from kindergarten to 12th grade.
+- **Adaptive Nature:** The test is computer-adaptive; the difficulty of the questions adjusts based on the student's performance to accurately gauge their ability level.
+- **RIT Score:** Scores are reported on the Rasch Unit (RIT) scale, which measures a student's academic standing and progress over time, rather than a pass/fail grade.
+- **Frequency:** Typically administered multiple times per year (fall, winter, spring) to track progress.
+- **Key Use:** Educators use the MAP Growth assessment results to understand individual student strengths and weaknesses, provide targeted support, and inform instructional strategies.

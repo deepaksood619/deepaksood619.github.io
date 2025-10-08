@@ -93,6 +93,8 @@ And at the very end of all those branches, there are leaves. Your coins can be "
 
 It can get pretty confusing right? Right.
 
+A single crypto seed phrase can generate an unlimited number of private keys and wallet addresses because it functions as a master backup for Hierarchical Deterministic (HD) wallets, according to the BIP-39 standard. The seed phrase is used in a deterministic process to derive all subsequent private keys and addresses for your wallet, allowing you to recover your entire crypto portfolio and transaction history from just those words.
+
 ### Derivation Paths
 
 You need some sort of "map" on to traverse through the branches and find those leaves (and thus, your coins). This "map" is known as a **_derivation path_**.

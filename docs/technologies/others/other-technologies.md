@@ -116,19 +116,11 @@ Watchman exists to watch files and record when they change. It can also trigger 
 
 https://facebook.github.io/watchman
 
-## SMTP Server
+## Palantir Foundry
 
-**Mailpit** is a small, fast, low memory, zero-dependency, multi-platform email testing tool & API for developers.
+Palantir Foundry is a software platform that serves as an operating system for modern enterprises, allowing them to integrate data from various sources into a central, secure platform to build applications, conduct analytics, and execute workflows. It centralizes disparate data, creating a unified "ontology" of the business that connects data, models, and operational processes to drive decision-making and enable continuous learning and operational feedback loops.
 
-It acts as an SMTP server, provides a modern web interface to view & test captured emails, and includes an API for automated integration testing.
-
-- [GitHub - axllent/mailpit: An email and SMTP testing tool with API for developers](https://github.com/axllent/mailpit)
-- [Mailpit - email & SMTP testing tool](https://mailpit.axllent.org/)
-
-### Others
-
-- [GitHub - mailhog/MailHog: Web and API based SMTP testing](https://github.com/mailhog/MailHog)
-- [MailCatcher](https://mailcatcher.me/)
+[Palantir Foundry](https://www.palantir.com/platforms/foundry/)
 
 ## Others
 

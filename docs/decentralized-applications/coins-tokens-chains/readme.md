@@ -38,12 +38,7 @@
 - BNB (Binance)
 - Cardano (ADA)
 - XRP
-- Solana (SOL) - [What is Solana? SOL Explained with Animations - YouTube](https://www.youtube.com/watch?v=1jzROE6EhxM)
-    - Scalable - 50,000 TPS
-    - Low transaction fees
-    - https://solana.com
-    - [The Solana Reading List - by mert - Rotating Words](https://www.mertimus.com/p/the-solana-reading-list?)
-    - [Visa Crypto Thought Leadership - A deep dive on Solana | Visa](https://usa.visa.com/solutions/crypto/deep-dive-on-solana.html)
+- [Solana](decentralized-applications/coins-tokens-chains/solana.md)
 - Polkadot
     - [Polkadot: What's Up With DOT?! Potential in 2022!! - YouTube](https://www.youtube.com/watch?v=H7S5k5jWp48)
     - [What is Polkadot? DOT Explained with Animations - YouTube](https://www.youtube.com/watch?v=YlAdEQp6ekM)

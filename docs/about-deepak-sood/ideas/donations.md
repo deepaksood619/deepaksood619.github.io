@@ -1,5 +1,7 @@
 # Donations
 
+In a gentle way you can shake the world meaning
+
 ## Altruism / Compassion
 
 Spend money while feeling good
@@ -25,6 +27,7 @@ Donor - finds a person and donate the required item or buy for him/her
 - mossy.earth
 - Savitri computer
 - [The Cheapest Way To Save A Life - YouTube](https://www.youtube.com/watch?v=utUCsruUSoE)
+- [Start this rewarding monthly investment on Gandhi Jayanti](https://freefincal.com/start-this-rewarding-monthly-investment-on-gandhi-jayanti/)
 
 [The life you can save](../../book-summaries/the-life-you-can-save)
 

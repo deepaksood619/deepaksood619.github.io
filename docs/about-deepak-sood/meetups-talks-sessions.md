@@ -41,6 +41,14 @@
 - Future
 - Vc
 
+## Microsoft - TechSangam 2.0 - Tech4Hack (6th September 2025)
+
+![microsoft-techsangam-2.0](../media/Pasted%20image%2020251004125105.png)
+
+[TechSangam 2.0 \| Tech4hack](https://www.commudle.com/communities/tech4hack/events/techsangam-2-0)
+
+[#techsangam2 #dataanalytics #promptengineering #genai #ai #tech4hack #hackwithindia #innovation #community \| Tech4hack](https://linkedin.com/feed/update/urn:li:activity:7371393245177827328/)
+
 ## TechPath 2.0 - ThoughWorks Gurgaon (30th August 2025)
 
 [From Zero to Hero: Understanding Data & AI - Google Slides](https://docs.google.com/presentation/d/1uk6hUqBeOGGXVYtIH0Cp-NbHuEyh2jXViawuKxmEZwg/edit?usp=sharing)
@@ -78,17 +86,15 @@ Neha Rani
 
 ## Techie Talks Podcast - Architecting Data at Scale (2 August 2025)
 
-[How AI is Transforming Data Engineering \| Expert Advice - YouTube](https://youtu.be/9NfX6tn7bXU)
-
-[Embrace AI as Your Co Collaborator #shorts #technology #tech #ai - YouTube](https://www.youtube.com/shorts/i9qTNh3Xh-E)
-
-[Generative Bi How One Analyst Outpaces a Team of 100 #shorts #technology #tech #ai - YouTube](https://www.youtube.com/shorts/ljQb5qRugZY)
-
-[The 90-10 Rule of Computer Science Success #shorts #technology #tech #ai - YouTube](https://www.youtube.com/shorts/BEC63yJmvV0)
-
-[Transforming Six Months Into Six Minutes #shorts #technology #tech #ai - YouTube](https://www.youtube.com/shorts/9-Lf3cL9bzo)
-
-[Always Keep Learning The Key to Staying Ahead #ai #shorts #technology #tech #ai - YouTube](https://www.youtube.com/shorts/tU7MLaq4T34)
+- [How AI is Transforming Data Engineering \| Expert Advice - YouTube](https://youtu.be/9NfX6tn7bXU)
+- [Embrace AI as Your Co Collaborator #shorts #technology #tech #ai - YouTube](https://www.youtube.com/shorts/i9qTNh3Xh-E)
+- [Generative Bi How One Analyst Outpaces a Team of 100 #shorts #technology #tech #ai - YouTube](https://www.youtube.com/shorts/ljQb5qRugZY)
+- [The 90-10 Rule of Computer Science Success #shorts #technology #tech #ai - YouTube](https://www.youtube.com/shorts/BEC63yJmvV0)
+- [Transforming Six Months Into Six Minutes #shorts #technology #tech #ai - YouTube](https://www.youtube.com/shorts/9-Lf3cL9bzo)
+- [Always Keep Learning The Key to Staying Ahead #ai #shorts #technology #tech #ai - YouTube](https://www.youtube.com/shorts/tU7MLaq4T34)
+- [The Ai Revolution in Coding How Generative Models are Taking Over #shorts #technology #tech #ai - YouTube](https://www.youtube.com/shorts/9p9cY86uTYA)
+- [The Interconnected World of System Design Every Piece Matters #shorts #technology #tech #ai - YouTube](https://www.youtube.com/shorts/GKQO8bNbtbg)
+- [You Cannot Eat Code \| The Tech Philosophy Essential for Success #shorts #technology #tech #ai - YouTube](https://www.youtube.com/shorts/1TQ_hM5M6Rc)
 
 ![techie talks podcast](../media/Pasted%20image%2020250926215431.png)
 

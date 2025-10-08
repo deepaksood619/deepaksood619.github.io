@@ -117,6 +117,8 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 - Economics - Job Market, Home Prices
 - [The Economist Democracy Index - Wikipedia](https://en.wikipedia.org/wiki/The_Economist_Democracy_Index)
 - HDI by UNDP
+- Gini coefficient
+- Corruption perception index
 
 ### Renting
 

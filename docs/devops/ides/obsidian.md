@@ -37,6 +37,7 @@ Extensions that helps make obsidian better
 - [My Top 44 Obsidian Plugins RANKED](https://www.youtube.com/watch?v=xVQGrn9gQKI)
 - [GitHub - flyingnobita/obsidian-github-stars: Display the number of stars next to GitHub repository links in Obsidian.](https://github.com/flyingnobita/obsidian-github-stars)
 - [4 game-changing Obsidian workflows I wish I tried earlier](https://www.xda-developers.com/game-changing-obsidian-workflows/)
+- Make.md [Make.md is the best Obsidian plugin to help keep you organized and beautify your notes](https://www.xda-developers.com/makemd-best-obsidian-plugin-organize-beautify-notes/)
 
 ## Themes
 

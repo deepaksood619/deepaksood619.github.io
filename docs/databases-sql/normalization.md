@@ -130,6 +130,8 @@ If such an entity exists, move it outside into a new table.
 
 It is an advance version of 3NF that's why it is also referred as 3.5NF. BCNF is stricter than 3NF. A table complies with BCNF if it is in 3NF and for every [**functional dependency**](https://beginnersbook.com/2015/04/functional-dependency-in-dbms/) X->Y, X should be the super key of the table.
 
+[Boyce-Codd Normal Form (BCNF) - GeeksforGeeks](https://www.geeksforgeeks.org/dbms/boyce-codd-normal-form-bcnf/)
+
 ### Fourth Normal Form (4NF)
 
 Tables cannot have multi-valued dependencies on a Primary Key.

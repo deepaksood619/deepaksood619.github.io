@@ -48,6 +48,7 @@ Long years ago we made a tryst with destiny, and now the time comes when we shal
 - Tanashah - dictator
 - More lies than others
 - Narcissist
+- [75 TOP FAILS of Modiji (part 1) - YouTube](https://www.youtube.com/watch?v=Lr8sh3_sKA0)
 
 ### References
 

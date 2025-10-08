@@ -36,3 +36,7 @@ CREATE POLICY account_managers ON accounts TO managers
 ```
 
 [PostgreSQL: Documentation: 17: 5.9. Row Security Policies](https://www.postgresql.org/docs/current/ddl-rowsecurity.html)
+
+## Others
+
+- [Asynchronous IO in Postgres 18 \| The Backend Engineering Show - YouTube](https://www.youtube.com/watch?v=yGjGc21mmoU)

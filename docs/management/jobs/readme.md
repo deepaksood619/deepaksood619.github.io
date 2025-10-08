@@ -255,6 +255,11 @@ Here are 30 websites to find remote jobs that pay in USD:
 - [Automate Job Applications with AI - JobCopilot](https://jobcopilot.com/)
 - [allUP - Succeed Together](https://www.allup.world/)
 
+#### AI Tools
+
+- [ParakeetAI - AI Job Interview Assistant Software](https://www.parakeet-ai.com/)
+- [Interview Answer Buddy \| Instant Answers To Interview Questions](https://aiapply.co/interview-answer-buddy)
+
 ### How to apply
 
 [IndiaTechSalaries | Explore & Compare Tech Salaries in India](https://indiatechsalaries.com/)

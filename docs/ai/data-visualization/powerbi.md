@@ -204,3 +204,4 @@ Microsoft Fabric is a data and analytics platform that helps businesses and data
 ## Links
 
 - [Distribute content to external guest users with Microsoft Entra B2B - Power BI | Microsoft Learn](https://learn.microsoft.com/en-us/power-bi/enterprise/service-admin-azure-ad-b2b)
+- [What are Power BI Semantic Models? \| DataCamp](https://www.datacamp.com/blog/what-are-power-bi-semantic-models)

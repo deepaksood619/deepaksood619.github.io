@@ -68,6 +68,7 @@ NSE: RAYMONDLSL
 	- Carysil Ltd
 	- Shaily Engineering Plastics Ltd (SEPL)
 - Avenue Supermarts - Dmart - [Dmart is dead. Long live Dmart. - Stock Insights News \| The Financial Express](https://www.financialexpress.com/market/stock-insights/dmart-is-dead-long-live-dmart/3951370/)
+- [Micron Stock Soars 91% YTD – Is the Rally Just Getting Started?](https://www.linkedin.com/pulse/micron-stock-soars-91-ytd-rally-just-getting-started-vestedfinance-l7aic/)
 
 ## Links
 

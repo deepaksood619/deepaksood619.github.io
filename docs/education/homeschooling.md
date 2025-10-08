@@ -5,6 +5,28 @@
 - https://primer.com
 - day wise curriculum for kids for 0 - 18 years
 
+## Learning
+
+[Everything You Need to Know Before Sending Your Child to Preschool! | Footprints Childcare](https://www.footprintseducation.in/blog/everything-you-need-to-know-before-sending-your-child-to-preschool/)
+
+### The Reggio Emilia Approach
+
+This approach is used in mostly all preschools. However, it is mixed with one or two other forms of instruction. The Reggio Emilia Approach appreciates the curiosity present in every child and encourages them to learn through exploring different ideas. These ideas could be in the form of painting, sculpting to art and drama.
+
+The environment seen in this kind of approach is one which is well connected. Children work closely with their teachers and peers and form strong interpersonal relationships.
+
+### The PlayWay Approach
+
+One of the more flexible approaches, PlayWay encourages learning through ‘play’. Unlike the other structured methods, PlayWay places an emphasis on learning through music, stories, and arts and crafts and is more of a hands-on approach.
+
+It allows children to explore their creativity and imagination and urges them to understand basic concepts instead of simply memorizing them.
+
+### The Waldorf Approach
+
+Another popular preschool approach is the Waldorf method also known as the Steiner approach. This curriculum follows the philosophy that merely reading, and learning is not enough for the overall development of a child. Imagination and analytical thinking too play a major role and are encouraged.
+
+In this way the curriculum itself has more creative learning through arts, cooking, and playing rather than media and traditional learning. Alongside this, it emphasizes the need for routine since it believes that children imitate and learn from their immediate environment.
+
 ## Curriculum
 
 - Best, Free Resources - **[The Good and the Beautiful](https://www.goodandbeautiful.com/)**

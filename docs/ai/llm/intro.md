@@ -117,3 +117,4 @@ The architecture is a standard [transformer network](https://en.wikipedia.org/wi
 - [LLMs + Coding Agents = Security Nightmare](https://garymarcus.substack.com/p/llms-coding-agents-security-nightmare)
 - [Networked Saas is the new AI business model replacing per-seat pricing](https://www.signalfire.com/blog/networked-saas-business-model-is-replacing-per-seat-pricing)
 - [Showing Delivery Date at 10x Scale with 1/10th Latency \| by Dhruvik Shah \| Flipkart Tech Blog](https://blog.flipkart.tech/showing-delivery-sla-at-10x-scale-with-1-10th-latency-28b17b198cc8)
+- [Language Models as Fact Checkers? \| Research - AI at Meta](https://ai.meta.com/research/publications/language-models-as-fact-checkers/)

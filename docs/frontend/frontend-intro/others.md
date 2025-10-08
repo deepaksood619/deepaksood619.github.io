@@ -206,6 +206,19 @@ imageoptim --quality-low *.jpg
 brew install ghostscript
 
 gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=output.pdf input.pdf
+
+# Compress all pdfs in the folder
+#!/bin/bash
+for file in *.pdf; do
+    base="${file%.pdf}"
+    gs -sDEVICE=pdfwrite \
+       -dCompatibilityLevel=1.4 \
+       -dPDFSETTINGS=/ebook \
+       -dNOPAUSE -dQUIET -dBATCH \
+       -sOutputFile="${base}_compressed.pdf" \
+       "$file"
+done
+
 ```
 
 ## PDF Unlock

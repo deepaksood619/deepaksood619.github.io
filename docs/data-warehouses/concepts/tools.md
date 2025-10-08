@@ -109,6 +109,39 @@ dbt is a SQL-first transformation workflow that lets teams quickly and collabora
 - [dbt vs Airflow vs Keboola](https://www.keboola.com/blog/dbt-vs-airflow-vs-keboola)
 - [dbt vs Airflow: Which data tool is best for your organization?](https://datacoves.com/post/dbt-vs-airflow)
 
+### DBT Models
+
+dbt models are files, typically in SQL or Python, that contain the logic to transform data in a data warehouse. They are written as SELECT statements in SQL and can be compiled into tables or views using different materialization strategies. dbt models enable modularity by breaking down complex transformations into logical, reusable steps and help build analytical data infrastructure by organizing transformation logic.
+
+#### Key Characteristics
+
+- **Format:** Most models are .sql files containing SELECT statements. Starting with dbt version 1.3, models can also be written in Python using return statements.
+- **Logic:** Models define how raw source data is transformed, cleaned, and structured for analysis.
+- **Dependencies:** Models are organized into a dependency graph, allowing dbt to run them in the correct order.
+- **Execution:** When you run a dbt model, dbt wraps the SQL in the necessary Data Definition Language (DDL) to create a table or view in your data warehouse.
+
+#### How They Work
+
+- **Write the Model:** A developer writes a .sql or .py file in the /models/ directory of a dbt project.
+- **Compilation:** dbt reads the model file and compiles it into a series of SQL statements.
+- **Materialization:** dbt then executes these SQL statements against the data warehouse to create the defined database object (a table, view, or other materialization).
+
+#### Types of Materializations
+
+dbt provides different ways to persist your model's results:
+
+- **View:** A query that runs every time the view is accessed.
+- **Table:** A physical table stored in the data warehouse.
+- **Incremental:** Appends or updates only new or changed data, rather than reprocessing the entire dataset, for efficiency.
+- **Ephemeral:** A temporary object that doesn't persist in the warehouse.
+
+#### Why Use dbt Models?
+
+- **Modularity:** Break down complex transformations into smaller, manageable, and reusable units.
+- **Version Control:** Manage transformation logic with other code, making it easier to collaborate and track changes.
+- **Documentation:** Models serve as documentation, making the transformation logic clear to other team members.
+- **Efficiency:** Use features like incremental models to significantly reduce processing time and costs.
+
 ## Airbyte
 
 The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.

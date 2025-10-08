@@ -19,6 +19,7 @@
 8. [Vaex: A Fast DataFrame for Python 🚀](https://vaex.io/)
 9. [GitHub - pola-rs/polars: Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js](https://github.com/pola-rs/polars)
 10. [Querying 1TB on a laptop with Python dataframes – Ibis](https://ibis-project.org/posts/1tbc/)
+11. [GitHub - ibis-project/ibis: the portable Python dataframe library](https://github.com/ibis-project/ibis)
 
 ## Optimizing Python Memory Objects
 

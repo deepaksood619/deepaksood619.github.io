@@ -99,6 +99,7 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 
 ## Github Repositories
 
+- [ROSS Index: the top trending open-source startups, every quarter](https://runacap.com/ross-index/)
 - [**Trendshift** - Explore open-source repositories and find some insights](https://trendshift.io/)
 - https://awesomeopensource.com
 - https://github.com/sindresorhus/awesome

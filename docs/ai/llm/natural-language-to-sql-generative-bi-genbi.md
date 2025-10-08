@@ -31,6 +31,8 @@ Unified NLQ (Natural Language Query)
 - [GitHub - weaviate/elysia: Python package and backend for the Elysia platform app.](https://github.com/weaviate/elysia)
 	- [Elysia - Demo](https://elysia.weaviate.io/)
 	- [Elysia: Building an end-to-end agentic RAG app \| Weaviate](https://weaviate.io/blog/elysia-agentic-rag)
+- [Thesys - The Generative UI Company](https://www.thesys.dev/)
+- [Sigma. Business Intelligence and Analytics Solution](https://www.sigmacomputing.com/)
 
 ## Code
 

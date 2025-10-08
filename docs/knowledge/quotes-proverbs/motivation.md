@@ -6,6 +6,8 @@
 
 **Watch great leaders motivational videos** - oprah wimfrey
 
+You can do anything, but not everything.
+
 Aim for the moon; even if you miss, you’ll land among the stars.”
 
 I don't know but we will figure it out
@@ -17,6 +19,8 @@ Shut up, suit up, show up
 We enjoy the process far more than the proceeds -- Warren Buffett
 
 Energy, not time, is the fundamental currency of high performance. - Jim Loehr
+
+YOU HAUE TO BE DELUSIONAL. FRANZ KAFKA ONCE SAID: "BY BELIEVING PASSIONATELY IN SOMETHING THAT STILL DOES NOTEXIST, WE CREATE IT.
 
 https://dariusforoux.com/inspirational-quotes
 

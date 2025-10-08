@@ -65,6 +65,9 @@
 32. [aws-certified-solutions-architect-associate](courses/aws-certified-solutions-architect-associate.md) (September'2025)
 33. [pcep-certified-entry-level-python-programmer](courses/pcep-certified-entry-level-python-programmer.md) (October'2025)
 34. [databricks-certified-data-engineer-associate](courses/databricks-certified-data-engineer-associate.md) (October'2025)
+35. [Amazon Web Services ProServe 101 - AWS Skill Builder](https://skillbuilder.aws/learn/7X91U48V3H/amazon-web-services-proserve-101/3GM7YKPGMN)
+	1. PSA - Professional Services Automation
+36. [AWS Engagement Security Training for Partners - AWS Skill Builder](https://skillbuilder.aws/learn/UNEPBJ7N8X/aws-engagement-security-training-for-partners/HY5KKP9EV8)
 
 ## Certifications
 
