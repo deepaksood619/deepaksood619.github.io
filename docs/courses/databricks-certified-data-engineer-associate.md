@@ -59,6 +59,19 @@
 - Analyze the cost considerations of data sharing across clouds.
 - Identify Use cases of Lakehouse Federation when connected to external sources.
 
+## Questions
+
+- The serverless compute supports only SQL and Python
+	- Limitations - [Serverless compute limitations \| Databricks on AWS](https://docs.databricks.com/aws/en/compute/serverless/limitations)
+- query executes a micro-batch to process data every 2 minutes
+	- trigger(processingTime=”2 minutes")
+- Databricks Jobs has been recently renamed to Lakeflow Jobs.
+- Running the VACUUM command on a Delta table deletes the unused data files older than a specified data retention period. As a result, you lose the ability to time travel back to any version older than that retention threshold.
+- The `pathGlobFilter` option allows you to filter input files based on a glob pattern, such as `*.jpg`, when using Auto Loader.
+- The `OPTIMIZE` command compacts small files into larger ones for better access patterns. Z-Order indexing further sorts data based on specific columns to improve query pruning. Both operations require substantial computational resources for scanning and writing data. Therefore, compute-optimized resources provide the necessary CPU power and parallelism to efficiently process these tasks. While storage and memory are important, the main bottleneck during optimization is CPU-intensive compute operations.
+- Lakehouse Federation allows users and applications to run queries across diverse data sources—such as data lakes, warehouses, and databases—without requiring the physical migration of data into Databricks. This reduces data duplication and streamlines access, enabling a unified query experience across distributed environments.
+- Databricks Asset Bundles allow teams to define jobs and workflows declaratively in a YAML file, promoting consistency, version control, and automation. These configurations can be stored and tracked in GitHub, making deployments reproducible and reliable. Other methods rely on manual processes or ad hoc tooling and lack the benefits of structured DevOps practices.
+
 ## Links
 
 - [Databricks Certified Data Engineer Associate \| Databricks](https://www.databricks.com/learn/certification/data-engineer-associate)

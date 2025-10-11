@@ -171,6 +171,8 @@ This fast turnaround is particularly valuable in call quality monitoring, where 
 - [REGAL \| The AI Agent Platform](https://www.regal.ai/)
 - [LiveKit](https://livekit.io/)
 - [Demo \| GigaML](https://demo.gigaml.com/)
+- [Teneo.ai \| Make Your AI Agent the Smartest](https://www.teneo.ai/)
+- [Build Chat and Voice AI Agents Without Code \| Voiceflow](https://www.voiceflow.com/)
 
 ### [GitHub - freddyaboulton/fastrtc: The python library for real-time communication](https://github.com/freddyaboulton/fastrtc)
 

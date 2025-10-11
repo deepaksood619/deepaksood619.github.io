@@ -102,36 +102,36 @@ While InnoDB primarily uses row-level locking, there can also be implicit table-
 ### Intention Locks
 
 - During SELECT/INSERT/UPDATE/DELETE, a shared intention lock ("IS") allows access by multiple threads to work on the same table, but blocks exclusive table locks.
-- ﻿﻿During ALTER TABLE or DROP TABLE, an exclusive intention lock ("IX") blocks other table locks, either shared or exclusive. So no one else can query, and no one can run their own ALTER/DROP TABLE.
+- During ALTER TABLE or DROP TABLE, an exclusive intention lock ("IX") blocks other table locks, either shared or exclusive. So no one else can query, and no one can run their own ALTER/DROP TABLE.
 
 ### Insert intention lock
 
-- ﻿﻿A special kind of gap lock, requested before a client tries to insert a row.
-- ﻿﻿Insert locks are shared, not exclusive—multiple clients can acquire insert locks on the same gap.
-- ﻿﻿But insert locks conflict with other exclusive locks.
+- A special kind of gap lock, requested before a client tries to insert a row.
+- Insert locks are shared, not exclusive—multiple clients can acquire insert locks on the same gap.
+- But insert locks conflict with other exclusive locks.
 
 #### why is insert intention lock shared?
 
-- ﻿﻿Multiple clients prepare to insert into the same gap.
-- ﻿﻿They may be inserting different rows within the same gap, so they don't conflict with each other.
-- ﻿﻿But the insert intention lock blocks other clients from requesting exclusive locks on the same gap.
+- Multiple clients prepare to insert into the same gap.
+- They may be inserting different rows within the same gap, so they don't conflict with each other.
+- But the insert intention lock blocks other clients from requesting exclusive locks on the same gap.
 
 ### Auto-inc lock
 
-- ﻿﻿A table lock, used when a client requests the next unique id for a given table.
-- ﻿﻿Ensures that each id is given to one client.
-- ﻿﻿Brief—it is released as soon as the id is generated, instead of lasting to the end of the transaction like other locks.
-- ﻿﻿Because the lock is so brief, neither client can "**undo**"— i.e. return their id to the stack for someone else to use.
+- A table lock, used when a client requests the next unique id for a given table.
+- Ensures that each id is given to one client.
+- Brief—it is released as soon as the id is generated, instead of lasting to the end of the transaction like other locks.
+- Because the lock is so brief, neither client can "**undo**"— i.e. return their id to the stack for someone else to use.
 
 ### Deadlock
 
-- ﻿﻿When two or more concurrent clients wait for each other to release their locks, but since they are both waiting, they will never give up the lock they have.
-- ﻿﻿In other words, a catch-22 of lock-waits.
-- ﻿﻿Many people use the term "deadlock" incorrectly— when they are describing a simple one-way lock wait.
+- When two or more concurrent clients wait for each other to release their locks, but since they are both waiting, they will never give up the lock they have.
+- In other words, a catch-22 of lock-waits.
+- Many people use the term "deadlock" incorrectly— when they are describing a simple one-way lock wait.
 - Resolving deadlocks - MySQL detects cycles in lock waits, and kills one of the transactions immediately.
 - avoiding deadlocks
-    - ﻿﻿Each client locks everything they need in one atomic request.
-    - ﻿﻿All clients request locks in the same order.
+    - Each client locks everything they need in one atomic request.
+    - All clients request locks in the same order.
 
 ### Key Differences between Range and Gap Locks
 

@@ -17,8 +17,8 @@ Transformations are one of the things you can do to an RDD in Spark. They are la
 Data required to compute each output partition comes from a **single input partition** - no shuffling needed.
 
 - **Examples:** map, filter, union, coalesce
-- ﻿﻿**Performance:** Fast and pipelined
-- ﻿﻿**Use Case:** Ideal for lightweight, row-level operations
+- **Performance:** Fast and pipelined
+- **Use Case:** Ideal for lightweight, row-level operations
 
 ### Wide Transformation
 

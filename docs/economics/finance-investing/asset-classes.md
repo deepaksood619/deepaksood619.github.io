@@ -229,7 +229,10 @@ Cubic zirconia is a man-made, lab-created gemstone that resembles a diamond. It 
 
 Additional Tax Benefit is available to Subscribers under Corporate Sector, under section 80CCD (2) of Income Tax Act. Employer's NPS contribution (for the benefit of employee) up to 10 per cent of salary (Basic + DA), is deductible from taxable income, up to 7.5 Lakh
 
-NPS Vatsalya
+- [Gains from NPS Tier 2 accounts are taxable as per the slab rate!](https://freefincal.com/gains-from-nps-tier-2-accounts-are-taxable-as-per-the-slab-rate/)
+- [NPS Multiple Scheme Framework - What you need to know](https://freefincal.com/nps-multiple-scheme-framework-what-you-need-to-know/)
+
+### NPS Vatsalya
 
 - [NPS Vatsalya: Your child can get more than Rs 10 crore on retirement if you put Rs 10,000 a year till he is 18; how to invest in NPS Vatsalya](https://economictimes.indiatimes.com/wealth/invest/nps-vatsalya-your-child-can-get-more-than-rs-10-crore-on-retirement-if-you-put-rs-10000-a-year-till-he-is-18-how-to-invest-in-nps-vatsalya/articleshow/113481724.cms?from=mdr)
 - [NPS Vatsalya Scheme: Eligibility, Tax Benefits and How to Apply Online?](https://cleartax.in/s/nps-vatsalya-scheme)

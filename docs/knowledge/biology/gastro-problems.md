@@ -38,6 +38,9 @@ https://www.medicalnewstoday.com/articles/180120.php
 
 - **Short-chain fatty acids (SCFAs)** are primarily produced by gut bacteria through the fermentation of dietary fiber in the large intestine. These SCFAs, including acetate, propionate, and butyrate, are crucial for maintaining gut health and have implications for overall well-being.
 - [Entamoeba histolytica Infection - StatPearls - NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK557718/)
+	- **Metronidazole** is the first-line treatment for intestinal amebiasis and amebic liver abscess followed by a luminal agent. Typical dosing for metronidazole is 500 to 750 mg orally 3 times a day for 7 to 10 days in adults. Metronidazole can be safely used in children at a dosing of 35 mg/kg to 50 mg/kg per day divided into three doses. Luminal agents include the following: paromomycin, diiodohydroxyquin, or diloxanide furoate. Dosing for paromomycin is 25 mg/kg to 30 mg/kg per day divided into three doses for 7 days, diiodohydroxyquin is 650 mg orally for 20 days, diloxanide furoate is 500 mg orally three times a day for 10 days.
+	- Alternatives to metronidazole include **tinidazole**, ornidazole, and nitazoaxanide.
+	- [Entamoeba histolytica - Wikipedia](https://en.wikipedia.org/wiki/Entamoeba_histolytica)
 
 ## Tests
 

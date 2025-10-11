@@ -2,6 +2,8 @@
 
 [Atlas SOIC Market Temp check](https://chartink.com/dashboard/149096)
 
+![Are Indian Companies Overvalued](../../media/Screenshot%202025-10-11%20at%2012.25.28%20AM.jpg)
+
 ## Zaggle
 
 Zaggle is a fintech company providing innovative solutions for the day-to-day financial needs of a corporate. We offer digitized solutions for expense management, employee tax benefits, rewards & recognition, employee and channel partner engagement, etc empowering organizations to spend smarter resulting in a happy and satisfied workforce delivering higher productivity and results. We have a plethora of offerings in the form of prepaid cards, digital wallets, and proprietary tech platforms to suit our client requirements. Zaggle has hit some major milestones in its growth journey with a tag of "BEST PREPAID CARD SOLUTION PROVIDER" in India awarded by IAMAI. We have a pan India presence with current operations across 10+ cities.

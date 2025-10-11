@@ -76,6 +76,14 @@ When a constraint is violated, the transaction fails with an error. Two types of
 
 [CONSTRAINT clause | Databricks on AWS](https://docs.databricks.com/sql/language-manual/sql-ref-syntax-ddl-create-table-constraint.html)
 
+## Auto Loader
+
+Auto Loader incrementally and efficiently processes new data files as they arrive in cloud storage. It provides a Structured Streaming source called `cloudFiles`. Given an input directory path on the cloud file storage, the `cloudFiles` source automatically processes new files as they arrive, with the option of also processing existing files in that directory. Auto Loader has support for both Python and SQL in Lakeflow Declarative Pipelines.
+
+You can use Auto Loader to process billions of files to migrate or backfill a table. Auto Loader scales to support near real-time ingestion of millions of files per hour.
+
+[Auto Loader - Databricks](https://docs.databricks.com/aws/en/ingestion/cloud-object-storage/auto-loader/)
+
 ## Links
 
 [delta-lake](networking/others/delta-lake.md)

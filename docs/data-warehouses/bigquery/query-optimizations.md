@@ -189,11 +189,11 @@ SELECT customer_id, SUM(total_amount) AS total_spent FROM orders GROUP BY custom
 Use materialized views for frequently run, repetitive queries. These precompute and store results, reducing query time.
 
 - In BigQuery, materialized views are precomputed views that periodically cache the results of a query for increased performance and efficiency.
-- ﻿﻿Use Cases:
-	- ﻿﻿**Pre-aggregate data -** Aggregation of streaming data.
-	- ﻿﻿**Pre-filter data -** Run queries that only read a particular subset of the table.
-	- ﻿﻿**Pre-join data -** Query joins, especially between large and small tables.
-	- ﻿﻿**Recluster data -** Run queries that would benefit from a clustering scheme that differs from the base tables.
+- Use Cases:
+	- **Pre-aggregate data -** Aggregation of streaming data.
+	- **Pre-filter data -** Run queries that only read a particular subset of the table.
+	- **Pre-join data -** Query joins, especially between large and small tables.
+	- **Recluster data -** Run queries that would benefit from a clustering scheme that differs from the base tables.
 
 #### Comparison to other BigQuery techniques
 

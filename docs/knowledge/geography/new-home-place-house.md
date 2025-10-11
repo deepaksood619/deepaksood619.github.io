@@ -463,13 +463,14 @@ A person feeding themselves a vegetarian diet would need about an acre of land a
 - [Property Tax in India - Defination, Types, & Calculation Formula](https://www.bankbazaar.com/tax/property-tax.html)
 - [Rich using farmhouses to save crores in taxes, legally: CA explains how \| Personal Finance - Business Standard](https://www.business-standard.com/amp/finance/personal-finance/rich-using-farmhouses-to-save-crores-in-taxes-legally-ca-explains-how-125050700563_1.html)
 
-## Loan
+## Home Loan
 
 - [hdfcfund.com/knowledge-stack/mf-vault/weekend-bytes/balancing-between-taking-home-loan-and-dipping-personal-reserves](https://www.hdfcfund.com/knowledge-stack/mf-vault/weekend-bytes/balancing-between-taking-home-loan-and-dipping-personal-reserves)
 - Loan - aavas financiers
 - Variable interest rate mortgage loan
 - https://economictimes.indiatimes.com/wealth/borrow/smart-use-of-home-loan-can-deliver-best-tax-saving-at-the-lowest-cost/articleshow/88402560.cms
 - https://freefincal.com/when-should-i-get-a-home-loan-how-to-decide-this
+- [Don't sum up your home loan interest and rush to prepay it!](https://freefincal.com/dont-sum-up-your-home-loan-interest-and-rush-to-prepay-it/)
 
 ## Real Estate / Realty Market
 

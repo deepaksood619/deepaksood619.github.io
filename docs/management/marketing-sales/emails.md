@@ -70,16 +70,16 @@ An SMTP MTA (Simple Mail Transfer Protocol Mail Transfer Agent) is a software ap
 
 #### Role of the MTA
 
-1. **Message Routing:** MTAs determine the path an email should take, forwarding it from one server to another until it reaches the recipient's mail server. 
-2. **Queuing:** If a recipient's server is unavailable, the MTA holds the email in a queue and tries to resend it later. 
-3. **Server Identification:** MTAs use DNS lookups (specifically MX records) to find the mail server handling incoming messages for a recipient's domain. 
-4. **Throttling:** MTAs regulate the rate of email transmission to prevent overwhelming the recipient's server. 
+1. **Message Routing:** MTAs determine the path an email should take, forwarding it from one server to another until it reaches the recipient's mail server.
+2. **Queuing:** If a recipient's server is unavailable, the MTA holds the email in a queue and tries to resend it later.
+3. **Server Identification:** MTAs use DNS lookups (specifically MX records) to find the mail server handling incoming messages for a recipient's domain.
+4. **Throttling:** MTAs regulate the rate of email transmission to prevent overwhelming the recipient's server.
 
 #### Interaction with Other Email Components
 
-- **MUA (Mail User Agent):** An MUA is the email client (like Outlook or a webmail interface) that users interact with to send emails. 
-- **MSA (Mail Submission Agent):** After an MUA sends an email, the mail server's MSA receives it, often requiring authentication, before passing it to the MTA for routing. 
-- **MDA (Mail Delivery Agent):** Once the MTA delivers the email to the recipient's server, the MDA places it into the user's mailbox. 
+- **MUA (Mail User Agent):** An MUA is the email client (like Outlook or a webmail interface) that users interact with to send emails.
+- **MSA (Mail Submission Agent):** After an MUA sends an email, the mail server's MSA receives it, often requiring authentication, before passing it to the MTA for routing.
+- **MDA (Mail Delivery Agent):** Once the MTA delivers the email to the recipient's server, the MDA places it into the user's mailbox.
 
 #### Core Architecture
 

@@ -1,5 +1,7 @@
 # Optimizations
 
+[Comprehensive Guide to Optimize Data Workloads \| Databricks](https://www.databricks.com/discover/pages/optimize-data-workloads-guide)
+
 ### Delta Lake Files - S3 Effect
 
 [Save on storage costs with Databricks on AWS | Medium](https://medium.com/the-nobodys-of-tech/save-on-storage-costs-with-databricks-on-aws-374931708fa0)

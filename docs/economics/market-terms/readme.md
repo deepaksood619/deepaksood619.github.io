@@ -349,7 +349,7 @@ A trading account is used to place buy or sell orders in the stock market.
 
 ## CFD (Contract for Difference)
 
-The [contract for difference (CFD)](https://www.investopedia.com/terms/c/contractfordifferences.asp) offers European traders andinvestors an opportunity to profitfrom price movement without owning the underlying asset. It's a relatively simple securitycalculatedby the asset's movementbetween trade entry and exit, computing only the price changewithoutconsideration of the asset's underlying value.1﻿ This is accomplished through a contract between client and broker, and does not utilize any stock, forex, commodityor futures exchange.Trading CFDsofferseveral major advantagesthat haveincreased the instruments' enormous popularityin the past decade.
+The [contract for difference (CFD)](https://www.investopedia.com/terms/c/contractfordifferences.asp) offers European traders andinvestors an opportunity to profitfrom price movement without owning the underlying asset. It's a relatively simple securitycalculatedby the asset's movementbetween trade entry and exit, computing only the price changewithoutconsideration of the asset's underlying value.1 This is accomplished through a contract between client and broker, and does not utilize any stock, forex, commodityor futures exchange.Trading CFDsofferseveral major advantagesthat haveincreased the instruments' enormous popularityin the past decade.
 
 ## Binary Option
 

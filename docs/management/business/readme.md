@@ -12,7 +12,8 @@ Product driven business vs Business driven business
 
 Consumer psychology, Behavioral economics, Human centered design
 
-QSR - Quick Service Restaurants
+- QSR - Quick Service Restaurants
+- HoReCa - Hotel, Restaurant, and Café/Catering industry
 
 Marketplace model
 

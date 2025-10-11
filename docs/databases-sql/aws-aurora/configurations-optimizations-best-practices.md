@@ -256,18 +256,18 @@ https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Referen
 
 #### Read I/O Cost Optimization
 
-- ﻿﻿Tune SQL queries to optimize read operations and avoid full scans on large tables.
-- ﻿﻿Scale DB Instance when needed to optimize buffer cache for reads (monitor CloudWatch metrics Buffer Cache Hit Ratio (Percent)).
-- ﻿﻿Tune autovacuum process on Aurora PostgreSQL for tables with high DML operations to avoid bloated table/index access.
-- ﻿﻿Use Aurora native backup and snapshots when possible. Logical backups (mysqldump, pg_dump) will generate excessive reads.
-- ﻿﻿Use Aurora native replication (Aurora replicas) when possible. Avoid logical replication (binlog WAL based) which uses additional read I/Os.
+- Tune SQL queries to optimize read operations and avoid full scans on large tables.
+- Scale DB Instance when needed to optimize buffer cache for reads (monitor CloudWatch metrics Buffer Cache Hit Ratio (Percent)).
+- Tune autovacuum process on Aurora PostgreSQL for tables with high DML operations to avoid bloated table/index access.
+- Use Aurora native backup and snapshots when possible. Logical backups (mysqldump, pg_dump) will generate excessive reads.
+- Use Aurora native replication (Aurora replicas) when possible. Avoid logical replication (binlog WAL based) which uses additional read I/Os.
 
 #### Write I/O Cost Optimization
 
-- ﻿﻿Remove unused or duplicate indexes from tables.
-- ﻿﻿Make use of appropriate fill factor so HOT (Heap Only Tuple) updates can be used in Aurora PostgreSQL.
-- ﻿﻿Utilize Table partitioning to manage large tables and use partition drops instead of large DELETE operations.
-- ﻿﻿Use Aurora native replication (read replicas) when possible. Avoid logical replication (binlog WAL based) which uses additional write I/Os.
+- Remove unused or duplicate indexes from tables.
+- Make use of appropriate fill factor so HOT (Heap Only Tuple) updates can be used in Aurora PostgreSQL.
+- Utilize Table partitioning to manage large tables and use partition drops instead of large DELETE operations.
+- Use Aurora native replication (read replicas) when possible. Avoid logical replication (binlog WAL based) which uses additional write I/Os.
 
 [Amazon Aurora I/O Cost Optimization Methodology | Amazon Web Services](https://www.youtube.com/watch?v=dpLRAlEX7Lo)
 

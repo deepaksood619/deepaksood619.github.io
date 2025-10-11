@@ -34,6 +34,8 @@ When in doubt zoom out
 
 Be Kind to Everyone!
 
+You hate your life, while some people dream of having yours.
+
 Be self controlled and alert. Your enemy the devil prowls
 around like a roaring lion looking for someone to devour.
 1 Peter 5:8 (Bible)
@@ -1132,5 +1134,7 @@ To each their own - idiom - people have the right to their own preferences and o
 - Similar phrases "Different strokes for different folks, "Whatever floats your boat, and "One man's fish is another man's poison.
 
 All happy families are alike; each unhappy family is unhappy in its own way.
+
+Khaya Piya Kuch Nahi, Glass Toda, Barah Aana
 
 ## End

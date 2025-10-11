@@ -150,3 +150,4 @@ https://economictimes.indiatimes.com/wealth/save/set-limits-when-it-comes-to-hel
 - [The 12 stages of retirement planning (accumulation phase)](https://freefincal.com/the-12-stages-of-retirement-planning-accumulation-phasethe-12-stages-of-retirement-planning-accumulation-phase/)
 - [What are the key factors in building wealth?](https://freefincal.com/what-are-the-key-factors-in-building-wealth/)
 - [Implementing a retirement bucket strategy with minimal churn](https://freefincal.com/implementing-a-retirement-bucket-strategy-with-minimal-churn/)
+- [What should be my retirement corpus if my current monthly expenses are Rs 1 lakh?](https://freefincal.com/what-should-be-my-retirement-corpus-if-my-current-monthly-expenses-are-rs-1-lakh/)

@@ -2,18 +2,18 @@
 
 [Streaming Data Governance \| Understanding the Confluent Cloud Stream Governance Platform - YouTube](https://www.youtube.com/playlist?list=PLa7VYi0yPIH1sKNegs6Y8m92PRoYrcQzm)
 
-- ﻿﻿Streaming at Scale
-- ﻿﻿Stream Governance
+- Streaming at Scale
+- Stream Governance
 	- Availability
 	- Usability
 	- Integrity
 	- Security
-- ﻿﻿**Stream Quality**
-- ﻿﻿Schema Registry
-- ﻿﻿Stream Discoverability
-- ﻿﻿**Stream Catalog**
-- ﻿﻿Visualizing Streams
-- ﻿﻿**Stream Lineage**
+- **Stream Quality**
+- Schema Registry
+- Stream Discoverability
+- **Stream Catalog**
+- Visualizing Streams
+- **Stream Lineage**
 - Security
 - Data as a product
 - Flink + Tableflow

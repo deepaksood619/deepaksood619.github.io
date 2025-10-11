@@ -5,6 +5,7 @@
 - Layer 1 Chain
 
 Solana (SOL) - [What is Solana? SOL Explained with Animations - YouTube](https://www.youtube.com/watch?v=1jzROE6EhxM)
+
 - Scalable - 50,000 TPS
 - Low transaction fees
 - https://solana.com

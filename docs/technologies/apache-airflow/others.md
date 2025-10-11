@@ -168,6 +168,64 @@ Flyte simplifies building data and ML workflows with its user-friendly SDK. It a
 
 [Orchestrating Data Pipelines at Lyft: comparing Flyte and Airflow | by Constantine Slisenka | Lyft Engineering](https://eng.lyft.com/orchestrating-data-pipelines-at-lyft-comparing-flyte-and-airflow-72c40d143aad)
 
+## DVC
+
+[DVC](https://dvc.org/) stands for "data version control". This project invites data scientists and engineers to a Git-inspired world, where all workflow versions are tracked, along with all the data artifacts and models, as well as associated metrics.
+
+**Data Version Control** or **DVC** is a command line tool and [VS Code Extension](https://github.com/iterative/dvc#vs-code-extension) to help you develop reproducible machine learning projects:
+
+1. **Version** your data and models. Store them in your cloud storage but keep their version info in your Git repo.
+2. **Iterate** fast with lightweight pipelines. When you make changes, only run the steps impacted by those changes.
+3. **Track** experiments in your local Git repo (no servers needed).
+4. **Compare** any data, code, parameters, model, or performance plots.
+5. **Share** experiments and automatically reproduce anyone's experiment.
+
+[Data Version Control · DVC](https://dvc.org)
+
+[GitHub - iterative/dvc: 🦉 ML Experiments Management with Git](https://github.com/iterative/dvc)
+
+[Tracking ML Experiments With Data Version Control](https://www.analyticsvidhya.com/blog/2021/06/mlops-tracking-ml-experiments-with-data-version-control/)
+
+[A Simple Guide to DVC: What It Is and How to Get Started - DEVOPS DONE RIGHT.](https://opstree.com/blog/2025/04/22/a-simple-guide-to-dvc-what-it-is-and-how-to-get-started/)
+
+## Airbyte
+
+The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
+
+Ultimate vision is to help you move data from any source to any destination. Airbyte already provides the largest [catalog](https://docs.airbyte.com/integrations/) of 300+ connectors for APIs, databases, data warehouses, and data lakes.
+
+[GitHub - airbytehq/airbyte: The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.](https://github.com/airbytehq/airbyte)
+
+[Airbyte | Open-Source Data Integration Platform | ELT tool](https://airbyte.com/)
+
+[Getting Started | Airbyte Documentation](https://docs.airbyte.com/using-airbyte/getting-started)
+
+### CDC
+
+To support CDC, Airbyte uses [Debezium](https://debezium.io/) internally.
+
+[Airbyte's incremental Change Data Capture (CDC) replication](https://airbyte.com/tutorials/incremental-change-data-capture-cdc-replication)
+
+[How useful is Airbytes in production pipelines? : r/dataengineering](https://www.reddit.com/r/dataengineering/comments/13me0t9/how_useful_is_airbytes_in_production_pipelines/)
+
+#### Airbyte’s replication modes
+
+- What is Airbyte’s ELT approach to data integration?
+- Why is ELT preferred over ETL?
+- What is a cursor?
+- What is a primary key used for?
+- What is the difference between full refresh replication and incremental sync replication?
+- What does it mean to append data rather than overwrite it in the destination?
+- How is incremental sync with deduped history different from incremental sync with append?
+- What are the advantages of log-based change data capture (CDC) replication versus standard replication?
+- Which replication mode should you choose?
+
+| Full refresh replication | Incremental sync replication |
+| ---- | ---- |
+| The **entire data set** will be retrieved from the source and sent to the destination on each sync run. | Only records that have been **inserted or updated** in the source system since the previous sync run are sent to the destination. |
+
+[An overview of Airbyte’s replication modes | Airbyte](https://airbyte.com/blog/understanding-data-replication-modes)
+
 ## Others
 
 [GitHub - alseambusher/crontab-ui: Easy and safe way to manage your crontab file](https://github.com/alseambusher/crontab-ui)
