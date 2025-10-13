@@ -29,6 +29,7 @@ The Top Three Highest Ranking Crypto Websites on Alexa
 	- [Rango Exchange Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=PG3lKaQL-ZE)
 	- [Rango Exchange - Best Multi-Chain Swaps? - YouTube](https://www.youtube.com/watch?v=S1lF5pqJfgw)
 - [GhostSwap - No KYC Crypto Exchange – Swap Instantly Without an Account](https://ghostswap.io/)
+- Solana Dex - [HumidiFi - DefiLlama](https://defillama.com/protocol/humidifi)
 
 ## Centralized Exchanges (CEX)
 
