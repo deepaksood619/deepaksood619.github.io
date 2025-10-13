@@ -147,3 +147,4 @@ https://gun.eco
 ## Others
 
 - [Bluesky: The Decentralized Social Media App with 30 Million Users](https://blog.bytebytego.com/p/bluesky-the-decentralized-social)
+- [The High-Performance Global Network \| DoubleZero](https://doublezero.xyz/)

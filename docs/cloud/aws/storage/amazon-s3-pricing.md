@@ -57,6 +57,8 @@ S3 Intelligent-Tiering is the ideal storage class for data with unknown, changin
 | S3 Glacier Deep Archive         | $0.002 per GB  | $1     | $4    | 92%                     |
 *All costs are monthly costs*
 
+There are no S3 data transfer charges when data is transferred in from the internet. Also with S3TA (S3 Transfer Acceleration), you pay only for transfers that are accelerated. Therefore you do not need to pay any transfer charges for the image upload if S3TA did not result in an accelerated transfer.
+
 ### Storage
 
 The volume of storage billed in a month is based on the average storage used throughout the month. This includes all object data and metadata stored in buckets that you created under your AWS account. We measure your storage usage in "TimedStorage-ByteHrs," which are added up at the end of the month to generate your monthly charges.

@@ -199,9 +199,19 @@ Extensions that helps make obsidian better
 - https://www.orgroam.com
 - AppFlowy - Open-source alternative to Notion
 
+## Open Source Alternatives
+
+- [GitHub Star History](https://www.star-history.com/#logseq/logseq&TriliumNext/Trilium&laurent22/joplin&Date)
+- [GitHub - laurent22/joplin: Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.](https://github.com/laurent22/joplin)
+	- [Joplin](https://joplinapp.org/)
+	- [I switched from Obsidian to this actually open-source app and I’m not going back](https://www.makeuseof.com/switched-from-obsidian-to-joplin/)
+	- [GitHub - laurent22/joplin: Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.](https://github.com/laurent22/joplin)
+- [**https://github.com/logseq/logseq**](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration
+- [GitHub - TriliumNext/Trilium: Build your personal knowledge base with Trilium Notes](https://github.com/TriliumNext/Trilium)
+- [Obsidian alternatives that are open source (free) and sync feature as well : r/ObsidianMD](https://www.reddit.com/r/ObsidianMD/comments/x95y56/obsidian_alternatives_that_are_open_source_free/)
+
 ## Others
 
-- [**https://github.com/logseq/logseq**](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration
 - [**https://github.com/foambubble/foam**](https://github.com/foambubble/foam)
 - https://wiki.dendron.so
 - https://github.com/standardnotes/app
@@ -217,9 +227,7 @@ Extensions that helps make obsidian better
 - Use DriveSync to sync using Google Drive
 - https://dev.to/joeholmes/creating-a-diy-digital-garden-with-obsidian-and-gatsby-378e
 - https://foambubble.github.io/foam/user/recipes/recipes
-- [Joplin](https://joplinapp.org/)
-	- [I switched from Obsidian to this actually open-source app and I’m not going back](https://www.makeuseof.com/switched-from-obsidian-to-joplin/)
-	- [GitHub - laurent22/joplin: Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.](https://github.com/laurent22/joplin)
 - [TwinMind: Real-Time AI Notetaker to Summarize & Analyze Meetings](https://twinmind.com/)
 - [I wish I knew these before creating my Obsidian vault 3 years ago](https://www.makeuseof.com/i-wish-i-knew-these-before-creating-my-obsidian-vault/)
 - Zettlr - [I found an open-source app like Obsidian, except it's better](https://www.xda-developers.com/found-open-source-app-like-obsidian-except-its-better/)
+	- [GitHub - Zettlr/Zettlr: Your One-Stop Publication Workbench](https://github.com/Zettlr/Zettlr)

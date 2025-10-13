@@ -1,18 +1,9 @@
 [
   "table-editor-obsidian",
-  "dataview",
-  "obsidian-git",
   "obsidian-auto-link-title",
-  "nldates-obsidian",
-  "obsidian-mind-map",
   "recent-files-obsidian",
   "url-into-selection",
-  "obsidian-outliner",
   "obsidian-reveal-active-file",
   "editing-toolbar",
-  "obsidian-linter",
-  "obsidian-reading-time",
-  "obsidian-regex-replace",
-  "obsidian-kanban",
-  "editor-width-slider"
+  "obsidian-regex-replace"
 ]

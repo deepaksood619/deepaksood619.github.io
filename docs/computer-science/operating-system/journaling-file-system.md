@@ -102,6 +102,16 @@ The **ext4 journaling file system** or **fourth extended filesystem** is a [jour
 - Lazy initialization
 - Write barriers
 
+## Lustre
+
+The name Lustre is a portmanteau word derived from Linux and cluster.
+
+Lustre is an open-source, high-performance parallel file system used in large-scale computing clusters, including many of the world's fastest supercomputers. It is designed for data-intensive workloads by separating metadata, which is handled by a Metadata Server (MDS), and file data, which is stored on Object Storage Servers (OSS) and striped across multiple storage devices called Object Storage Targets (OSTs). This architecture allows for high throughput and scalability, as clients can communicate directly with OSSs for data operations while the MDS handles file and directory operations.
+
+[Lustre](https://www.lustre.org/)
+
+[Lustre (file system) - Wikipedia](https://en.wikipedia.org/wiki/Lustre_(file_system))
+
 ## Partition Tables
 
 - `aix` provides support for the volumes used in IBM’s AIX (which introduced what we now know as LVM);

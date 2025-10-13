@@ -128,6 +128,7 @@ Scale Multiple Resources to Meet Demand
     2. [Choose between REST APIs and HTTP APIs - Amazon API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-vs-rest.html)
         1. REST APIs and HTTP APIs are both RESTful API products. REST APIs support more features than HTTP APIs, while HTTP APIs are designed with minimal features so that they can be offered at a lower price. Choose REST APIs if you need features such as API keys, per-client throttling, request validation, AWS WAF integration, or private API endpoints. Choose HTTP APIs if you don't need the features included with REST APIs.
     3. HTTP APIs - $1.05 vs REST APIs - $3.50
+    4. Amazon API Gateway creates RESTful APIs that enable stateless client-server communication and Amazon API Gateway also creates WebSocket APIs that adhere to the WebSocket protocol, which enables stateful, full-duplex communication between client and server
 3. Amazon Pinpoint - Push Notifications for Mobile Apps
 4. AWS AppSync - Real-time and Offline Mobile Data Apps
 	1. AWS AppSync is a fully managed GraphQL API and pub/sub service that simplifies the creation of real-time data-driven applications by connecting them to multiple data sources using a single API endpoint. It provides serverless APIs for data access, subscriptions, and events, handling tasks like data synchronization, scaling, and security. You can use it to build backends for web, mobile, and IoT apps, connecting to data stores like DynamoDB, Aurora, and Lambda functions, and even other HTTP endpoints.

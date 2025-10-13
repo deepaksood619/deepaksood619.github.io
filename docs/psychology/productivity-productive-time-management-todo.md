@@ -147,6 +147,35 @@ Cognitive neuro ergonomics
 
 ## Tools
 
+### Time Tracking / Time Track
+
+- [\[OC\] I tracked every minute of my day for the past year : r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/comments/101bwrg/oc_i_tracked_every_minute_of_my_day_for_the_past/)
+- [I tracked every minute of my time for the last 4 months. Here are 7 totally unexpected results - DEV Community](https://dev.to/dragosbln/i-tracked-every-minute-of-my-time-for-the-last-4-months-here-are-7-totally-unexpected-results-2dna)
+- Tools
+	- [Free Time Tracking for your Projects and Tasks \| My Hours](https://myhours.com/)
+	- [The 5 best time tracking apps in 2025 \| Zapier](https://zapier.com/blog/best-time-tracking-apps/)
+		- [Toggl Track](https://zapier.com/blog/best-time-tracking-apps/#toggl) for a free time tracking app
+		- [Memtime](https://zapier.com/blog/best-time-tracking-apps/#memtime) for simple automated time tracking
+		- [TrackingTime](https://zapier.com/blog/best-time-tracking-apps/#trackingtime) for visualizing time differently
+		- [Timeular](https://zapier.com/blog/best-time-tracking-apps/#timeular) for automated time tracking
+		- [Harvest](https://zapier.com/blog/best-time-tracking-apps/#harvest) for ease of use without sacrificing features
+- [Toggl Track: Time Tracking Software for Any Workflow](https://toggl.com/)
+- Projects
+	- Learning
+		- Youtube
+	- Office
+		- Emails
+		- Meetings
+		- Working/Implementation (not learning)
+	- Family
+		- House Work / Shopping
+	- Sleeping
+	- Health/Exercise/Physical Activities
+	- Basic - Bath/Eating
+	- Social
+	- Entertainment
+	- Misc
+
 ### Liner - a web productivity extension
 
 Liner is a browser extension that lets you highlight anything you see online. Be it articles, images or even videos! The extension saves everything you highlight in a folder so that you can look at it later, all in one place.
@@ -185,6 +214,7 @@ Liner is a browser extension that lets you highlight anything you see online. Be
 - [First Things First](../book-summaries/first-things-first)
 
 - [Prioritization / Leverage](soft-skills/prioritization-leverage)
+- [time-and-how-to-spend-it](book-summaries/time-and-how-to-spend-it.md)
 - The Productivity Project - Chris Bailey
 - [Edsger Dijkstra's One-Day Workweek - Cal Newport](https://calnewport.com/edsger-dijkstras-one-day-workweek)
 - [How I manage MY WEEK running a 27 CRORE BUSINESS! | Ankur Warikoo Hindi - YouTube](https://www.youtube.com/watch?v=rpuT3LPDAZY)

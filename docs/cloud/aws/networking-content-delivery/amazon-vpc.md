@@ -120,7 +120,9 @@ https://docs.aws.amazon.com/vpc/latest/userguide/vpc-endpoints.html
 
 In summary, VPC endpoints are primarily used for connecting your VPC to AWS services, ensuring a private and direct connection. On the other hand, VPC peering is used to establish private connections between instances in different VPCs, allowing them to communicate with each other over the AWS network.
 
-## AWS PrivateLink
+## AWS PrivateLink / AWS Private Link
+
+AWS PrivateLink is a highly available, scalable technology that you can use to privately connect your VPC to services and resources as if they were in your VPC. You do not need to use an internet gateway, NAT device, public IP address, AWS Direct Connect connection, or AWS Site-to-Site VPN connection to allow communication with the service or resource from your private subnets. Therefore, you control the specific API endpoints, sites, services, and resources that are reachable from your VPC.
 
 Establish connectivity between VPCs and AWS services without exposing data to the internet
 

@@ -1,5 +1,7 @@
 # MBBS / Medicine / Medical / Health
 
+Shared decision making
+
 [The Map of Medicine - YouTube](https://www.youtube.com/watch?v=CkwSeMrOPjc)
 
 The MBBS course is divided into 3 phases -

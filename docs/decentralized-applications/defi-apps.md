@@ -38,3 +38,4 @@
 - [Fern](https://fernhq.com/)
 - [endl - Regulatory Compliant Global Fiat Rails For Stablecoin Payments](https://endl.io/)
 - [Alpyne Labs \| Onboard Web3 Seamlessly](https://alpyne.tech/)
+- HyperLiquid - [Hyper Foundation](https://hyperfoundation.org/)

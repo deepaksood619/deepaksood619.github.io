@@ -14,6 +14,8 @@ Amazon CloudFront caches content at edge locations for a period of time specifie
 
 Amazon CloudFront supports all files that can be served over HTTP. These files include dynamic web pages, such as HTML or PHP pages along with any popular static files that are part of your web application, such as website images, audio, video, media files or software downloads.
 
+Amazon CloudFront uses standard cache control headers you set on your files to identify static and dynamic content. You can use **different origins** for different types of content on a single site – e.g. Amazon S3 for static objects, Amazon EC2 for dynamic content, and custom origins for third-party content.
+
 ### Durability & availability
 
 Since CloudFront is an edge cache, Amazon CloudFront does not provide durable storage. The origin server, such as Amazon S3 or a web server running on Amazon EC2, provides the durable file storage needed. But CloudFront provides high availability by using a distributed global network of edge locations. Amazon constantly monitors and optimizes the network paths which provide content for both availability and performance.

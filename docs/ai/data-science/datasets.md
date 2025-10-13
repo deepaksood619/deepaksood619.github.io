@@ -80,6 +80,8 @@ H and DS use similar datasets, and DS is basically the next-gen version of H. Wh
 	- This small database consists of seven tables: two fact tables and five dimensions
 - [miriad/miriad-4.4M · Datasets at Hugging Face](https://huggingface.co/datasets/miriad/miriad-4.4M)
 - [Stock Market Dataset \| Kaggle](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset)
+- [GitHub - lorint/AdventureWorks-for-Postgres: Set up the AdventureWorks sample database for use with Postgres](https://github.com/lorint/AdventureWorks-for-Postgres)
+	- [AdventureWorks Sample Databases - SQL Server \| Microsoft Learn](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure)
 
 ## Tools
 

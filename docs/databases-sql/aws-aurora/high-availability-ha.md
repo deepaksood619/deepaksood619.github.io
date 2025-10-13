@@ -37,6 +37,20 @@ Multi-AZ gives high availability and automatic failover. Amazon RDS creates a st
 - To get data redundancy, eliminate I/O freezes, and minimize latency spikes during system backups.
 - Multi-AZ makes maintenance easy.
 
+#### RDS Optimized Reads
+
+You can achieve faster query processing for RDS for MySQL with Amazon RDS Optimized Reads. An RDS for MySQL DB instance or Multi-AZ DB cluster that uses RDS Optimized Reads can achieve up to 2x faster query processing compared to a DB instance or cluster that doesn't use it.
+
+[Best strategies for achieving high performance and high availability on Amazon RDS for MySQL with Multi-AZ DB Clusters \| AWS Database Blog](https://aws.amazon.com/blogs/database/best-strategies-for-achieving-high-performance-and-high-availability-on-amazon-rds-for-mysql-with-multi-az-db-clusters/)
+
+[Improving query performance for RDS for MySQL with Amazon RDS Optimized Reads - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/rds-optimized-reads.html)
+
+#### RDS Optimized Writes
+
+You can improve the performance of write transactions with RDS Optimized Writes for MySQL. When your RDS for MySQL database uses RDS Optimized Writes, it can achieve up to two times higher write transaction throughput.
+
+[Improving write performance with RDS Optimized Writes for MySQL - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/rds-optimized-writes.html#rds-optimized-writes-overview)
+
 ### [Read replicas](https://aws.amazon.com/rds/features/read-replicas/)
 
 Read Replicas allow applications to scale their read operations across multiple database instances. The database engine replicates data asynchronously to the read replicas. The application sends the write requests (`INSERT`, `UPDATE`, and `DELETE`) to the primary database, and read requests (`SELECT`) can be load balanced across read replicas. In case of failure of the primary node, [you can manually promote a read replica to become the new primary database](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.html#USER_ReadRepl.Promote).

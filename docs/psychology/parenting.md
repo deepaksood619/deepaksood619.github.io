@@ -279,6 +279,28 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [How to Teach a Toddler to Talk - 3 Tips- Speech Therapy for Toddlers - YouTube](https://youtu.be/9VFzsU740YA)
 - [3 Shortcuts to Get Your Toddler Talking Sooner - YouTube](https://youtu.be/qgga0egtdu0)
 
+## Medicine
+
+- [12 Tricks to Get Your Toddler to Take Medicine](https://www.whattoexpect.com/toddler-health/get-toddler-to-take-medicine.aspx)
+- Laying a child down and forcing them to take medicine while crying is extremely dangerous due to the high risk of choking. A crying, struggling toddler can easily inhale liquid medicine into their lungs, which can be life-threatening. Medical professionals strongly advise against this method.
+- **The proper technique**
+	- **Keep the child upright:** Always have the child in a seated or upright position, such as on your lap.
+	- **Use a syringe:** Use a plastic oral syringe to control the flow and amount of liquid.
+	- **Aim for the cheek:** Slowly squirt the medicine into the side of the mouth, aiming for the cheek pouch between the gums and cheek. This bypasses the taste buds and allows them to swallow more easily.
+	- **Hold the mouth closed:** Gently hold the child's mouth closed and stroke under their chin to encourage them to swallow.
+- **Strategies for a resistant toddler**
+	- **Offer small choices:** Give the child a sense of control by letting them choose the syringe, which cup to use, or what fun reward they will get afterward.
+	- **Mask the flavor:** Ask your pharmacist if it's safe to mix the medicine into a small amount of a favorite food, like applesauce, yogurt, or chocolate syrup. Do not mix it into an entire bottle or large dish, as the child must eat the whole portion to get the full dose.
+	- **Numb the taste buds:** Let the child suck on a popsicle or ice cube beforehand to temporarily numb their taste buds.
+	- **Make it a game:** Distract the child by making funny faces or singing songs. Some parents have success playing pretend, letting the child give "medicine" to a stuffed animal first.
+	- **Have two adults help:** If the child is truly struggling, have one adult hold the child calmly in their lap while the other administers the medicine.
+	- **Stay calm and positive:** Your child can sense your frustration. Staying calm and cheerful can make the process less stressful for everyone.
+	- **Reward good behavior:** After they take the medicine, praise them and offer a non-food reward like a sticker or a hug.
+- [How to give a child medicine when they won't take it - Quora](https://www.quora.com/How-do-you-give-a-child-medicine-when-they-wont-take-it)
+- [Reddit - The heart of the internet](https://www.reddit.com/r/Parenting/comments/1g31ph0/do_you_force_your_kids_to_take_medicine/)
+- suppository
+	- A suppository is a solid medication inserted into a body cavity (such as the rectum or vagina) where it dissolves to release medication for local or systemic effects. They are used to treat conditions like constipation, hemorrhoids, and fever, or to deliver medicine when a person cannot swallow or absorb oral medications. The medication is designed to be absorbed into the bloodstream through the mucous membranes in the rectal or vaginal wall.
+
 ## Links
 
 - [Games - Kids](knowledge/games/kids.md)
@@ -339,7 +361,6 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [Toddler Screaming](https://www.whattoexpect.com/toddler/behavior/screaming-and-screeching.aspx)
 - [Can Babies Sleep With a Pillow?](https://www.whattoexpect.com/first-year/ask-heidi/pillow-for-baby.aspx)
 - [19-Month-Old Child](https://www.whattoexpect.com/toddler/19-month-old.aspx)
-- [12 Tricks to Get Your Toddler to Take Medicine](https://www.whattoexpect.com/toddler-health/get-toddler-to-take-medicine.aspx)
 - [Ways to manage your toddler's screen time | BabyCentre](https://www.babycentre.co.uk/a556933/ways-to-manage-your-toddlers-screen-time)
 - [Parenting Mistakes, Raising A Child, Ideal Routine & Psychology | Swati | Josh Talks Aasha - YouTube](https://www.youtube.com/watch?v=dakf6KN93Qs)
 - [Three-Day Potty Training: How It Works and Tips for Success](https://www.whattoexpect.com/toddler/potty-training/3-day-potty-training)

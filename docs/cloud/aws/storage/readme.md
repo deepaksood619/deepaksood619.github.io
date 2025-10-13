@@ -73,7 +73,7 @@ EC2 instance store volumes are not intended to be used as durable disk storage. 
 
 ### Security
 
-IAM service helps to gain secure control over which users can perform operations such aslaunch and terminationof EC2 instances in your account. When you stop or terminate an instance, the applications and data in its instance store are erased, and thus no other instance can have access to the instance store in the future.
+IAM service helps to gain secure control over which users can perform operations such as launch and termination of EC2 instances in your account. When you stop or terminate an instance, the applications and data in its instance store are erased, and thus no other instance can have access to the instance store in the future.
 
 ## Amazon Glacier
 

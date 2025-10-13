@@ -9,3 +9,4 @@ Initially based on Bitcoin's design, Zcash has been developed from the Zerocash 
 - [Crypto: Zcash Makes a Historic 220% Comeback - Cointribune](https://www.cointribune.com/en/crypto-zcash-makes-a-historic-comeback-of-220/)
 - [GitHub - zcash/zcash: Zcash - Internet Money](https://github.com/zcash/zcash)
 - [Zcash - Wikipedia](https://en.wikipedia.org/wiki/Zcash)
+- [Encrypted Money at Planetary Scale - YouTube](https://www.youtube.com/watch?v=Kx5gpJ2tC04)
