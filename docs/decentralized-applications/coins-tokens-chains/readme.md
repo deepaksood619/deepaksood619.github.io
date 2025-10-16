@@ -19,7 +19,7 @@
 - [uniswap](decentralized-applications/coins-tokens-chains/uniswap.md)
 - [Near Protocol](decentralized-applications/coins-tokens-chains/near-protocol.md)
 - [Celestia](decentralized-applications/coins-tokens-chains/celestia.md)
-- [zcash](decentralized-applications/coins-tokens-chains/zcash.md)
+- [zcash-zec](decentralized-applications/coins-tokens-chains/zcash-zec.md)
 
 ## Coins
 

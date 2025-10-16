@@ -27,6 +27,13 @@
 - [Japan's ancient secret to better cognitive memory - BBC REEL](https://youtu.be/s6OmqXCsYt8)
 - [How to expand your baby’s potential with education from birth | Zahra Kassam | TEDxManhattanBeach - YouTube](https://www.youtube.com/watch?v=oXYre2T3p_k&ab_channel=TEDxTalks)
 
+### Questions Every Parent Should Ask
+
+- Do I sometimes solve my child's problems before they even try?
+- Do I praise effort as much as I praise achievement?
+- Do I allow them to face discomfort, or do I rush to shield them?
+- Am I teaching them to listen as much as they speak?
+
 ## Questions
 
 - should you let toddlers cry out tantrums
@@ -85,6 +92,42 @@ While sometimes tantrums are inevitable, a few smart strategies can help head th
 - **Don't use physical punishment.** It's never a good idea, but it's especially risky at a time when emotions are running high and you're in danger of losing control.
 
 [Toddler Temper Tantrums](https://www.whattoexpect.com/toddler/temper-tantrums)
+
+### Six-Pocket Syndrome
+
+The term emerged in China during its one-child policy era. With shrinking family sizes, every child effectively had six adults two parents and four grandparents, focusing their emotional and financial resources on them. Six pockets, all pouring into one tiny life.
+
+It sounds ideal, a cocoon of love and opportunity. But psychologists soon noticed side effects: a generation of "little emperors" used to getting their way, struggling with sharing, criticism, or failure.
+
+Over time, "Six-Pocket Syndrome" has become shorthand for overindulgence - when a child grows up surrounded by affection and abundance, but with few boundaries or responsibilities.
+
+#### INDIA'S OWN VERSION OF THE SYNDROME
+
+- India may not have a one-child policy, but rising affluence, smaller families, and aspirational parenting have created similar conditions. Urban households, especially, pour tremendous energy into one child's academic, emotional, and extracurricular success.
+- Parents enroll them in coding classes at five, buy the latest gadgets to "keep them ahead," and often protect them from any form of discomfort. Add doting grandparents and domestic help to the mix - and you have your own six pockets of unconditional support.
+- But unconditional support can easily slide into uncritical indulgence. When every wish is met and every mistake excused, children begin to internalize a skewed sense of self - one where they are always right, always special, always in control.
+
+#### THE EDUCATION-PARENTING PARADOX
+
+Modern parenting is a complex juggling act. We want our children to be confident, not submissive; expressive, not meek. But the pendulum has swung too far toward validation without restraint.
+
+- Education experts suggest that the goal should not be to crush confidence but to contextualize it.
+- Teach children that confidence isn't about always being right - it's about being willing to learn.
+- Show them that humility is not weakness, but wisdom.
+- Encourage them to speak up, but also to listen deeply.
+
+Schools, too, must evolve. Academic brilliance alone is no longer a marker of readiness for the world. Emotional intelligence, resilience, and empathy must sit at the heart of pedagogy.
+
+[Six-Pocket Syndrome India KBC kid confidence parenting entitlement emotional intelligence debate - India Today](https://www.indiatoday.in/amp/education-today/featurephilia/story/six-pocket-syndrome-india-kbc-kid-confidence-parenting-entitlement-2802939-2025-10-14)
+
+### Precocity
+
+Precocity is the **state of having developed certain abilities or behaviors at a much younger age than is typical**. It refers to exceptionally early mental, and sometimes physical, development, such as a child's advanced intellect or a puppy's advanced training. The word comes from the Latin praecox, meaning "early ripening".
+
+- **Mental Development:** This is the most common context for precocity, referring to a child who has an advanced intellect or a unique way of thinking. For example, a child who can discuss complex topics far beyond their age group is displaying mental precocity.
+- **Physical Development:** While less common in general discussion, the term can also refer to physical maturity that occurs early.
+- **Behavior:** It can also describe unusual behaviors that seem ahead of a person's years. For example, a very young child who acts with the maturity and independence of an older child might be called precocious.
+- **Etymology:** The word has a clear etymological root in the Latin praecoquere, which means "to bake or ripen early," further emphasizing the idea of early maturity.
 
 ### Discipline
 

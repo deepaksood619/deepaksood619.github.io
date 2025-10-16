@@ -123,8 +123,8 @@ SVAB is a useful tool for identifying periods of time or trends where on-chain t
 
 ## Links
 
-[Glassnode Studio - On-Chain Market Intelligence](https://studio.glassnode.com/dashboards/introduction-lifespan)
-
-[How to Correlate the Trend in Crypto Prices to a Twitter sentiment model Using Databricks Delta - The Databricks Blog](https://www.databricks.com/blog/2022/05/02/introduction-to-analyzing-crypto-data-using-databricks.html)
-
-[Real-time Blockchain Analytics With Databricks Delta, SQL, and Graph - The Databricks Blog](https://www.databricks.com/blog/2021/03/03/analyzing-algorand-blockchain-data-with-databricks-delta-part-2.html)
+- [Glassnode Studio - On-Chain Market Intelligence](https://studio.glassnode.com/dashboards/introduction-lifespan)
+- [How to Correlate the Trend in Crypto Prices to a Twitter sentiment model Using Databricks Delta - The Databricks Blog](https://www.databricks.com/blog/2022/05/02/introduction-to-analyzing-crypto-data-using-databricks.html)
+- [Real-time Blockchain Analytics With Databricks Delta, SQL, and Graph - The Databricks Blog](https://www.databricks.com/blog/2021/03/03/analyzing-algorand-blockchain-data-with-databricks-delta-part-2.html)
+- [Innovative Visuals for Blockchain Data \| Bubblemaps](https://bubblemaps.io/)
+	- [What Is Bubblemaps Token (BMT)? \| CoinGecko](https://www.coingecko.com/learn/what-is-bubblemaps-token-bmt-crypto)

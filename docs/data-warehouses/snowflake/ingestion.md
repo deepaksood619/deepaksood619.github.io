@@ -55,3 +55,57 @@ Snowflake’s Zero Copy Cloning is a feature which provides a quick and easy way
 [Snowflake Zero Copy Cloning - A Comprehensive Guide | Encora](https://www.encora.com/insights/zero-copy-cloning-in-snowflake)
 
 [Snowflake Zero Copy Cloning - ThinkETL](https://thinketl.com/snowflake-zero-copy-cloning/)
+
+## Differences
+
+| Feature                 | COPY INTO (Batch Load)                                                                   | Snowpipe (File-based Auto-ingest)                                                | Snowpipe Streaming (Row-based)                                                                                |
+| ----------------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **Purpose**             | Load large volumes of data in batches                                                    | Continuously load data from files as they become available                       | Real-time ingestion of individual rows or small batches of data                                               |
+| **Data Source**         | Files staged in S3, Azure, or GCS                                                        | Files staged in S3, Azure, or GCS                                                | Direct API calls from applications, IoT devices, or streaming platforms                                       |
+| **Trigger Type**        | Manual execution of COPY INTO command                                                    | Automatic via cloud storage event notifications or REST API calls                | API calls to Snowpipe Streaming endpoints                                                                     |
+| **Latency**             | Minutes to hours                                                                         | Seconds to a few minutes                                                         | Sub-second (real-time)                                                                                        |
+| **File Required**       | Yes                                                                                      | Yes                                                                              | No                                                                                                            |
+| **Schema Handling**     | Fixed schema defined in the COPY INTO command                                            | Fixed schema defined in the COPY INTO command                                    | Flexible schema using VARIANT/JSON or fixed schema defined in the PIPE object                                 |
+| **Use Case**            | Historical data loads, ETL jobs, data migrations                                         | Continuous data ingestion from cloud storage                                     | Real-time analytics, IoT data processing, clickstream data                                                    |
+| **Monitoring**          | COPY_HISTORY, LOAD_HISTORY views                                                         | LOAD_HISTORY, PIPE_STATUS views                                                  | STREAMING_INGEST_HISTORY view                                                                                 |
+| **Error Handling**      | ON_ERROR clause options (CONTINUE, SKIP_FILE)                                            | ON_ERROR clause options (CONTINUE, SKIP_FILE)                                    | Client-side error handling required                                                                           |
+| **Duplicates Handling** | Managed via FORCE=FALSE option or staging tables                                         | Managed via file tracking and deduplication logic                                | Client-side deduplication required                                                                            |
+| **Serverless**          | No – requires a virtual warehouse                                                        | Yes – serverless compute                                                         | Yes – serverless compute                                                                                      |
+| **Setup Complexity**    | Easy – straightforward SQL commands                                                      | Medium – requires cloud storage setup and event notification configuration       | High – requires SDK integration, API key management, and client-side logic                                    |
+| **Cost Model**          | Warehouse compute charges + storage costs                                                | Serverless compute charges based on uncompressed data size                       | Transparent, throughput-based pricing (credits per uncompressed GB)                                           |
+| **Best For**            | One-time or scheduled batch loads                                                        | Continuous ingestion from cloud storage                                          | Real-time streaming analytics and low-latency data processing                                                 |
+| **Pros**                | Simple setup; predictable costs; suitable for large data volumes                         | Automated data loading; serverless; near real-time data availability             | True real-time ingestion; flexible schema; no need for file staging                                           |
+| **Cons**                | Not real-time; requires manual intervention; potential for higher latency in large loads | Minor delays due to event notification processing; less control over load timing | Higher complexity; client-side error handling; potential for API rate limits and schema management challenges |
+
+## Snowpipe Streaming
+
+Snowpipe Streaming is Snowflake’s service for continuous, low-latency loading of streaming data directly into Snowflake. It enables near real-time data ingestion and analysis, allowing high volumes of data from diverse streaming sources to be available for query and analysis within seconds.
+
+### Implementations
+
+1. **High-performance architecture**
+	- Uses snowpipe-streaming SDK
+	- Throughput-based pricing
+	- Uses PIPE objects to manage data flow and lightweight transformations
+	- REST API for direct ingestion
+	- Server-side schema validation
+	- Optimized for high throughput and query efficiency
+2. **Classic architecture**
+	- Uses snowflake-ingest-sdk
+	- Channels open directly against target tables (no PIPE object)
+	- Pricing based on serverless compute and client connections
+	- Reliable for existing pipelines
+
+### Choosing Implementation
+
+- **New projects:** High-performance architecture for better scalability, cost predictability, and performance.
+- **Existing pipelines:** Classic architecture continues to operate; migration optional.
+
+### Snowpipe Streaming vs Snowpipe
+
+| Category                 | Snowpipe Streaming                   | Snowpipe |
+| ------------------------ | ------------------------------------ | -------- |
+| **Form of data to load** | Rows                                 | Files    |
+| **Third-party software** | Custom Java application code wrapper | None     |
+
+**Note:** Snowpipe Streaming complements Snowpipe; it’s ideal when data is streamed as rows rather than written to files.

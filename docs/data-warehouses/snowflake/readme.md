@@ -7,6 +7,8 @@
 - [Optimizations](data-warehouses/snowflake/optimizations.md)
 - [Stages](data-warehouses/snowflake/stages.md)
 - [Data Ingestion / Loading](data-warehouses/snowflake/ingestion.md)
+	- [data-loading-using-copy-into-from-aws-s3](data-warehouses/snowflake/data-loading-using-copy-into-from-aws-s3.md)
+	- [snowpipe-data-ingestion-from-aws-s3](data-warehouses/snowflake/snowpipe-data-ingestion-from-aws-s3.md)
 - [Commands](data-warehouses/snowflake/commands.md)
 - [Recovery](data-warehouses/snowflake/recovery.md)
 - [Documentation](data-warehouses/snowflake/documentation.md)

@@ -48,6 +48,10 @@
 - [GitHub - teddy8193/portfolio-analysis-tool: Virualizing efficient frontier for portfolio analysis](https://github.com/teddy8193/portfolio-analysis-tool)
 - [Google sheet for Portfolio tracking : r/IndiaInvestments](https://www.reddit.com/r/IndiaInvestments/comments/ogem2j/google_sheet_for_portfolio_tracking/)
 	- [Portfolio Tracker (Public Version) v\_2.4 - Google Sheets](https://docs.google.com/spreadsheets/d/1gQMYtsffnWwwJHtZPk73ZSc9QLv0OU2Wu1pVQVzVOAA/edit?gid=1017136944#gid=1017136944)
+- [Build Your Own Stock Portfolio Tracker On Google Sheets](https://youtu.be/qtY1NOVQ6iE)
+- [The best stock tracker templates for Google Sheets](https://www.spreadsheetclass.com/google-sheets-stock-tracker-templates/)
+- [Stock Portfolio Tracking Spreadsheet - Google Sheets](https://docs.google.com/spreadsheets/d/1Ajox_mGj_prTqfIWSSF1xcaDEBm6ZuZZDInZ1Es-_bM/edit#gid=4)
+- Finshots Money Financial Planning Calculator - https://docs.google.com/spreadsheets/d/13LUIThaOS_QLXAtQz4gxEA7v5UaZQsp3/edit#gid=262879150
 
 ### Personal Finance Tools
 

@@ -337,6 +337,29 @@ The **Sam Vimes theory of socioeconomic unfairness**, often called simply the 
 
 [Boots theory - Wikipedia](https://en.wikipedia.org/wiki/Boots_theory)
 
+## Laffer curve
+
+The Laffer curve is **a theoretical concept that illustrates the relationship between tax rates and government revenue, suggesting that revenue will first increase with tax rates, then decrease after reaching a peak**. At a 0% tax rate, revenue is zero, and at a 100% tax rate, revenue is also zero, with an optimal tax rate somewhere in between that maximizes revenue collection. This theory is used to argue that cutting taxes could potentially increase revenue if the current rate is in the "prohibitive range" beyond the revenue-maximizing point.
+
+![Laffer Curve](../../media/Screenshot%202025-10-16%20at%2010.54.02%20AM.jpg)
+
+### How it works
+
+- The curve is a graph with tax rates on the horizontal axis and tax revenue on the vertical axis.
+- At a 0% tax rate, there is no tax revenue. 
+- As the tax rate increases, government revenue increases. 
+- However, if tax rates get too high, individuals and businesses may be less motivated to work, invest, or report income, leading to less economic activity and a fall in tax revenue. 
+- The point at which revenue begins to fall is sometimes called the "prohibitive range". 
+- There is an optimal tax rate that is theorized to maximize government revenue. 
+
+### Implications
+
+- The Laffer curve is often used to argue that lowering tax rates can lead to increased government revenue, provided the rates are currently too high. 
+- It has influenced economic policy, such as the tax policies implemented in the United States during the 1980s, known as Reaganomics. 
+- While the theory is influential, it is also subject to criticism and debate regarding the actual location of the optimal tax rate.
+
+[How the Ideal Tax Rate Is Determined: The Laffer Curve](https://www.investopedia.com/articles/08/laffer-curve.asp)
+
 ## Links
 
 - [Marginal Utility / Analysis](marginal-utility-analysis)

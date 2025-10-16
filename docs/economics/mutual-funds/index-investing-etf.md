@@ -176,44 +176,6 @@ An ETF is called an exchange-traded fund since it's traded on an exchange just l
 
 ![Top International FoFs open for subscription](../../media/Screenshot%202025-06-09%20at%2011.38.44%20PM.jpg)
 
-## Gold ETFs
-
-- Nippon India ETF Gold BEES (0.82%) (AUM - Rs. 18,780 crs)
-- **Zerodha Gold ETF (Expense Ratio: 0.32%)**
-- Mirae Asset Gold ETF (Expense Ratio: 0.34%)
-- LIC MF Gold ETF (Expense Ratio: 0.41%)
-- Tata Gold ETF (Expense Ratio: 0.42%)
-- ICICI prudential gold ETF (0.50%) - GOLDIETF - AUM - Rs. 6,992Cr.
-- Kotak Gold ETF (0.55%)
-- HDFC Gold ETF (0.59%)
-- UTI Gold ETF
-- SBI Gold ETF (0.73%)
-
-[Best Gold ETFs in India 2025](https://groww.in/blog/best-gold-etfs-in-india)
-
-[5 oldest gold ETFs in India: How their long-term returns stack up against physical gold - Money News \| The Financial Express](https://www.financialexpress.com/money/5-oldest-gold-etfs-in-india-how-their-long-term-returns-stack-up-against-physical-gold-3813844/)
-
-### Gold Funds
-
-[Best Gold Mutual Funds To Invest in India 2025](https://www.etmoney.com/mutual-funds/featured/best-gold-mutual-funds/25)
-
-- Nippon India Gold Savings Fund (AUM - ₹2,623 Crs)
-- SBI Gold Direct Plan-Growth (AUM - ₹3,225 Crs)
-
-### Gold Funds vs. Gold ETFs
-
-| Point             | Gold Mutual Funds                                                                                                 | Gold ETFs                                                                                                                           |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| **Meaning**       | Gold mutual funds invest in gold or gold-related assets, such as gold ETFs, gold producers, and mining companies. | Gold ETFs are instruments that track the performance of gold. These ETFs invest in gold by purchasing bullion or futures contracts. |
-| **Demat Account** | Gold mutual funds do not require a demat account.                                                                 | To invest in Gold ETFs, an investor requires a [demat account.](https://groww.in/open-demat-account)                                |
-| **SIP**           | An investor can invest in gold mutual funds through a systematic investment plan (SIP).                           | It is not possible to invest in Gold ETFs through SIP. ETF units need to be bought with a lump sum payment.                         |
-| **Costs**         | Gold mutual funds have higher costs, such as entry and exit loads.                                                | Gold ETFs have no entry and exit loads. However, demat and brokerage charges are applicable.                                        |
-| **Taxability**    | Long-term capital gains, along with taxes applicable to jewellery, are levied on gold mutual funds.               | Although gold ETFs are subject to long-term capital gains tax, they are exempt from VAT and Securities Transaction Tax.             |
-
-**Tax Benefits:** Although gold ETFs are subject to long-term capital gains tax, **they are exempt from other taxes such as value-added tax (VAT) or Securities Transaction Tax (STT)**. By investing in a gold ETF, an investor can benefit from a lower tax burden
-
-[Gold ETF vs Gold Mutual Fund: Which is a Better Investment Option?](https://groww.in/blog/gold-etf-vs-gold-mutual-fund)
-
 ## Links
 
 - [Index Investing Options In India:](https://www.youtube.com/watch?v=IIV1Xt_rB3Y)

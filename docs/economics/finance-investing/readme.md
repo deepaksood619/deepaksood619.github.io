@@ -2,6 +2,7 @@
 
 - [Financial Independence (FIRE)](economics/finance-investing/financial-independence-fire-retirement.md)
 - [Asset Classes](economics/finance-investing/asset-classes.md)
+	- [gold-diamond-gold-etf](economics/finance-investing/gold-diamond-gold-etf.md)
 - [Portfolios](economics/finance-investing/portfolios.md)
 - [Personal Finance](economics/finance-investing/personal-finance.md)
 - [Checklist](economics/finance-investing/checklist-tips.md)

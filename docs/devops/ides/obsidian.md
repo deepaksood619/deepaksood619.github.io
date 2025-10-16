@@ -231,3 +231,6 @@ Extensions that helps make obsidian better
 - [I wish I knew these before creating my Obsidian vault 3 years ago](https://www.makeuseof.com/i-wish-i-knew-these-before-creating-my-obsidian-vault/)
 - Zettlr - [I found an open-source app like Obsidian, except it's better](https://www.xda-developers.com/found-open-source-app-like-obsidian-except-its-better/)
 	- [GitHub - Zettlr/Zettlr: Your One-Stop Publication Workbench](https://github.com/Zettlr/Zettlr)
+- Google Keep
+	- [Memos - Open Source, Self-hosted Note Taking - Memos](https://usememos.com/)
+	- [GitHub - usememos/memos: A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.](https://github.com/usememos/memos)

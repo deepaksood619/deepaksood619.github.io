@@ -70,6 +70,7 @@
 - [AWS Competency Program](cloud/aws/aws-competency-program.md)
 - [AWS SDP](cloud/aws/aws-sdp.md)
 - [Others](cloud/aws/others.md)
+- [amazon-interview-prep-guide](cloud/aws/amazon-interview-prep-guide.md)
 
 ## Products
 

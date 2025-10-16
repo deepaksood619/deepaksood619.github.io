@@ -1,4 +1,4 @@
-# Zcash
+# Zcash ZEC
 
 Zcash is HTTPS for money.
 

@@ -116,6 +116,20 @@ There are two types of LogQL queries:
 
 https://grafana.com/docs/loki/latest/logql/metric_queries
 
+## Loki 3.4
+
+Grafana Loki 3.4 has been released, introducing significant enhancements to observability and performance within the Grafana ecosystem.
+
+Key improvements include:
+
+1. Standardized storage configuration utilizing a Thanos-based client, ensuring consistency across Loki, Mimir, and Pyroscope.
+2. Enhanced sizing guidance to facilitate better CPU and memory planning.
+3. Improved handling of out-of-order logs and structured metadata extraction during ingestion.
+4. The merging of Promtail into Grafana Alloy, progressing towards a unified telemetry agent for logs, metrics, traces, and profiles.
+5. Promtail enters Long-Term Support (LTS), with an end-of-life set for March 2026.
+
+[Grafana Loki 3.4: Standardized storage config, sizing guidance, and Promtail merging into Alloy \| Grafana Labs](https://grafana.com/blog/2025/02/13/grafana-loki-3.4-standardized-storage-config-sizing-guidance-and-promtail-merging-into-alloy/?src=ws&camp=121-2348&did=dgTtzwoLAKCvJJ-vJAGZ3d9bRji2aK0QMaYGbPA%3D&src=email&user_id=60557)
+
 ## Examples
 
 ```bash

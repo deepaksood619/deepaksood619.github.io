@@ -336,4 +336,5 @@ Lawyer / law - central knowledge base and marketplace
 - [Top 100 Startup Ideas from Top 100 Entrepreneurs/VCs/Hackers! - YouTube](https://www.youtube.com/watch?v=XiXLti_Y_is&ab_channel=Breakdown)
 - [9 startups that stood out on YC Demo Day 2 | TechCrunch](https://techcrunch.com/2024/09/26/9-startups-that-stood-out-on-yc-demo-day-2/)
 - [Texts](https://texts.com/)
-- [YouTube](https://youtu.be/TANaRNMbYgk)
+- [How To Get AI Startup Ideas - YouTube](https://www.youtube.com/watch?v=TANaRNMbYgk)
+- [The Next Unicorns: 7 Top AI startups from the HF0 Residency - YouTube](https://www.youtube.com/watch?v=L8-5ezsoI5A)
