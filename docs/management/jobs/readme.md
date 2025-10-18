@@ -13,6 +13,7 @@
 
 - Learn the fastest
 - ["Learn to Code" Backfires Spectacularly as Comp-Sci Majors Suddenly Have Sky-High Unemployment](https://futurism.com/computer-science-majors-high-unemployment-rate)
+- [Will Middle Managers Exist Next Year? - YouTube](https://www.youtube.com/watch?v=hA98C-6rATk)
 
 ### Shotgun approach
 

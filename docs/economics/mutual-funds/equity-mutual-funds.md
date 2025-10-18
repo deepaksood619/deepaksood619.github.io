@@ -176,7 +176,8 @@ In the multicap category, the allocation decision is left to the fund manager wh
 
 ## Analysis
 
-[How to analyze an equity mutual fund? - YouTube](https://www.youtube.com/watch?v=k6wLmbWgies)
+- [How to analyze an equity mutual fund? - YouTube](https://www.youtube.com/watch?v=k6wLmbWgies)
+- [Is there a factor index that is consistently less risky than broad-based indices?](https://freefincal.com/is-there-a-factor-index-that-is-consistently-less-risky-than-broad-based-indices/)
 
 ## Links
 

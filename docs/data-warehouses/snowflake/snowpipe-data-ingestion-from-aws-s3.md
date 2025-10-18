@@ -8,8 +8,8 @@ Instead of executing large batch COPY INTO loads on a schedule, Snowpipe works i
 
 There are two main ways Snowpipe can detect new files:
 
-- Cloud event notifications (automated ingest)  
-- REST API calls from client applications  
+- Cloud event notifications (automated ingest)
+- REST API calls from client applications
 
 ## 2. Key Concepts & Components
 
@@ -24,18 +24,18 @@ There are two main ways Snowpipe can detect new files:
 
 ## 3. How Snowpipe Works (Overview)
 
-1. **Place files in S3:** You put your data files in an S3 location that a Snowflake stage points to.  
-2. **Snowpipe detects new files:** It notices new or updated files using either cloud messaging (like SQS) or the REST API.  
-3. **Files are queued:** Snowpipe keeps a list of the new files ready to be loaded.  
-4. **Data is loaded automatically:** Snowflake’s serverless compute reads the files and runs the COPY INTO logic from the pipe, adding the rows into your table.  
+1. **Place files in S3:** You put your data files in an S3 location that a Snowflake stage points to.
+2. **Snowpipe detects new files:** It notices new or updated files using either cloud messaging (like SQS) or the REST API.
+3. **Files are queued:** Snowpipe keeps a list of the new files ready to be loaded.
+4. **Data is loaded automatically:** Snowflake’s serverless compute reads the files and runs the COPY INTO logic from the pipe, adding the rows into your table.
 5. **Tracking and metadata:** Snowflake records information about each load, including success or failure, row counts, and status.
 
 **Some notes:**
 
-- Snowpipe may combine or split loads into different transactions based on file size / load patterns.  
-- The order of file loading is not guaranteed to follow absolute staging order because multiple processes handle the queue. 
-- Snowpipe ensures deduplication of files — the same file won’t be loaded twice (unless forced). 
-- Event notifications older than 14 days may not be processed if the pipe was paused. 
+- Snowpipe may combine or split loads into different transactions based on file size / load patterns.
+- The order of file loading is not guaranteed to follow absolute staging order because multiple processes handle the queue.
+- Snowpipe ensures deduplication of files — the same file won’t be loaded twice (unless forced).
+- Event notifications older than 14 days may not be processed if the pipe was paused.
 
 ## 4. Setup Steps
 
@@ -46,14 +46,14 @@ This setup ensures that S3 can send events / allow Snowflake to access files.
 #### 4.1.1 Setup S3 Bucket & Prefix
 
 - Decide on a bucket and “prefix” (subfolder) in S3 where your files will land, e.g. `s3://my-bucket/data/ingest/`
-- Upload initial files there. 
+- Upload initial files there.
 
 #### 4.1.2 Permissions
 
 You need to allow Snowflake to read from your S3 location. You can do this via:
 
-- AWS IAM credentials (access key + secret) stored in the stage definition  
-- Storage Integration (recommended) — a more secure way to grant permissions without embedding keys.  
+- AWS IAM credentials (access key + secret) stored in the stage definition
+- Storage Integration (recommended) — a more secure way to grant permissions without embedding keys.
 
 If using a storage integration, you configure IAM roles and trust policies in AWS so Snowflake has permission to access that bucket.
 
@@ -61,10 +61,10 @@ If using a storage integration, you configure IAM roles and trust policies in AW
 
 To use automated ingest, you must configure S3 to send event notifications (e.g. `s3:ObjectCreated:*`) to an SNS or SQS destination. 
 
-- **Destination:** typically an SQS queue that Snowpipe polls  
-- **Optional:** Use prefix filters so only relevant file paths trigger ingest (reducing noise)  
-- Make sure the S3 bucket and SQS queue are in the **same AWS region**  
-- Update the SQS queue policy to allow `s3.amazonaws.com` to send messages to that queue (via `SQS:SendMessage`) with a condition that the source ARN is your bucket.  
+- **Destination:** typically an SQS queue that Snowpipe polls
+- **Optional:** Use prefix filters so only relevant file paths trigger ingest (reducing noise)
+- Make sure the S3 bucket and SQS queue are in the **same AWS region**
+- Update the SQS queue policy to allow `s3.amazonaws.com` to send messages to that queue (via `SQS:SendMessage`) with a condition that the source ARN is your bucket.
 
 ### 4.2 Snowflake Side Setup
 
@@ -135,7 +135,7 @@ CREATE OR REPLACE TABLE ingest_table (
 );
 ```
 
-  
+
 
 Adjust data types as needed.
 
@@ -144,7 +144,7 @@ Adjust data types as needed.
 Define a pipe with a COPY INTO statement.
 
 - For automated ingest, set `AUTO_INGEST = TRUE`
-- For manual ingest (REST or manual refresh), set `AUTO_INGEST = FALSE  `    
+- For manual ingest (REST or manual refresh), set `AUTO_INGEST = FALSE  `
 
 Example (auto ingest):
 
@@ -171,25 +171,25 @@ The `notification_channel` column shows which SQS queue is associated (for auto 
 
 This method gives you the “automatic as files arrive” behavior.
 
-- S3 publishes new file events to SQS (via event notification) 
-- Snowpipe polls the SQS queue and enqueues new files for ingest 
-- Snowflake’s serverless compute reads those queued files, runs the pipe’s COPY INTO, and loads data 
+- S3 publishes new file events to SQS (via event notification)
+- Snowpipe polls the SQS queue and enqueues new files for ingest
+- Snowflake’s serverless compute reads those queued files, runs the pipe’s COPY INTO, and loads data
 
 ## 6. Monitoring & Troubleshooting - Error Handling & Retry
 
-- The ON_ERROR clause in the pipe’s COPY statement defines behavior on row-level errors (e.g. 'CONTINUE', 'ABORT_STATEMENT', etc.). 
-- You can use VALIDATION_MODE = RETURN_ERRORS to test load behavior without inserting data. 
-- For staged files that failed due to format or schema issues, examine error messages in load history and consider reformatting. 
+- The ON_ERROR clause in the pipe’s COPY statement defines behavior on row-level errors (e.g. 'CONTINUE', 'ABORT_STATEMENT', etc.).
+- You can use VALIDATION_MODE = RETURN_ERRORS to test load behavior without inserting data.
+- For staged files that failed due to format or schema issues, examine error messages in load history and consider reformatting.
 - You have to manually remove or archive staged files you no longer want; Snowpipe does not auto-purge them.
 
 ## 7. Best Practices & Recommendations
 
-- **File sizing:** For best performance, aim for file sizes in the range ~100–250 MB (compressed) instead of many tiny files. Too many small files can lead to high overhead. 
-- **Event filtering:** Use prefix and suffix filters in S3 → SQS to only notify for relevant files (e.g., .csv) to reduce noise and cost.  
-- **Use storage integrations** when possible instead of embedding AWS keys in stage definitions.  
-- **Pause pipe when needed:** You can pause ingestion with ALTER PIPE … SET PIPE_EXECUTION_PAUSED = TRUE when doing maintenance. 
-- **Recreating pipe:** When you recreate a pipe, its load history is dropped — be careful not to cause duplicates. 
-- **Monitor costs:** Snowpipe has a compute cost plus a file overhead fee (per 1,000 files). Many small files can be expensive. 
+- **File sizing:** For best performance, aim for file sizes in the range ~100–250 MB (compressed) instead of many tiny files. Too many small files can lead to high overhead.
+- **Event filtering:** Use prefix and suffix filters in S3 → SQS to only notify for relevant files (e.g., .csv) to reduce noise and cost.
+- **Use storage integrations** when possible instead of embedding AWS keys in stage definitions.
+- **Pause pipe when needed:** You can pause ingestion with ALTER PIPE … SET PIPE_EXECUTION_PAUSED = TRUE when doing maintenance.
+- **Recreating pipe:** When you recreate a pipe, its load history is dropped — be careful not to cause duplicates.
+- **Monitor costs:** Snowpipe has a compute cost plus a file overhead fee (per 1,000 files). Many small files can be expensive.
 - **Schema consistency:** Keep incoming file schema stable, or use a raw staging approach (e.g. load into VARIANT) and transform downstream.
 - **Testing:** Use VALIDATION_MODE = RETURN_ERRORS or FORCE = TRUE in COPY statements while testing.
 

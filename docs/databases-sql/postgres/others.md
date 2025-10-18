@@ -155,3 +155,5 @@ pgBadger is a PostgreSQL performance analyzer, built for speed with fully detail
 
 - [GitHub - hydradatabase/hydra: Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes.](https://github.com/hydradatabase/hydra)
 - [GitHub - getretake/retake: Open-Source Hybrid Search for Postgres](https://github.com/getretake/retake)
+- [GitHub - pgschema/pgschema: Terraform-style, declarative schema migration for Postgres](https://github.com/pgschema/pgschema)
+	- pgschema is a CLI tool that brings terraform-style declarative schema migration workflow to Postgres

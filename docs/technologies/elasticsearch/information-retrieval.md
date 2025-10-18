@@ -104,3 +104,7 @@ Many neural search-powered applications do not have a search box:
 Neural search creates a new way to comprehend the world. It is creating new doors that lead to new businesses.
 
 https://github.com/jina-ai/jina/blob/master/.github/2.0/neural-search
+
+## Links
+
+- [Limitations of Information Retrieval using Large Language Models \[LLMs\] \| by Kushal Shah \| PINC Innovations \| Medium](https://medium.com/pinc-innovations/limitations-of-information-retrieval-using-large-language-models-llms-e9eba20d30be)

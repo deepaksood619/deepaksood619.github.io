@@ -10,7 +10,7 @@
     - UL - Unexpected losses - result of adverse economic circumstances
     - SL - Exceptional (stress) losses - result of severe economic downturn
     - There is certain amount of credit risk associated with every borrower
-    - Estimating expected loss (expected credit loss) - The amount a lender might lose by lending to a borrower
+    - Estimating expected loss (expected credit loss (**ECL**)) - The amount a lender might lose by lending to a borrower
 - Probability of Default (PD) - The borrowers inability to repay their debt in full or on time
 - Loss Given Default (LGD) - The proportion of the total exposure that cannot be recovered by the lender once a default has occurred
 - Exposure At Default (EAD) - The total value that a lender is exposed to when a borrower defaults

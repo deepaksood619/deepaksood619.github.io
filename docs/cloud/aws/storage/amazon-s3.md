@@ -236,6 +236,40 @@ Amazon S3 Replication also provides detailed metrics and notifications to monito
 
 [Replicating objects within and across Regions - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication.html)
 
+## Amazon S3 Event Notifications
+
+### Supported Events
+
+- New object created events
+- Object removal events
+- Restore object events
+- Reduced Redundancy Storage (RRS) object lost events
+- Replication events
+- S3 Lifecycle expiration events
+- S3 Lifecycle transition events
+- S3 Intelligent-Tiering automatic archival events
+- Object tagging events
+- Object ACL PUT events
+
+### Destinations
+
+Amazon S3 can send event notification messages to the following destinations. You specify the Amazon Resource Name (ARN) value of these destinations in the notification configuration.
+
+- Amazon Simple Notification Service (Amazon SNS) topics
+- Amazon Simple Queue Service (Amazon SQS) queues
+- AWS Lambda function
+- Amazon EventBridge
+
+### Others
+
+- IMP - Amazon S3 event notifications are designed to be delivered at least once. Typically, event notifications are delivered in seconds but can sometimes take a minute or longer.
+- NOTE - Amazon Simple Queue Service FIFO (First-In-First-Out) queues aren't supported as an Amazon S3 event notification destination. To send a notification for an Amazon S3 event to an Amazon SQS FIFO queue, you can use Amazon EventBridge.
+- WARNING - If your notification writes to the same bucket that triggers the notification, it could cause an execution loop. For example, if the bucket triggers a Lambda function each time an object is uploaded, and the function uploads an object to the bucket, then the function indirectly triggers itself. To avoid this, use two buckets, or configure the trigger to only apply to a prefix used for incoming objects.
+
+[Amazon S3 Event Notifications - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/EventNotifications.html)
+
+[Amazon Simple Storage Service endpoints and quotas - AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/s3.html#limits_s3)
+
 ## Versioning
 
 Versioning in Amazon S3 is a means of keeping multiple variants of an object in the same bucket. You can use the S3 Versioning feature to preserve, retrieve, and restore every version of every object stored in your buckets. With versioning you can recover more easily from both unintended user actions and application failures. After versioning is enabled for a bucket, if Amazon S3 receives multiple write requests for the same object simultaneously, it stores all of those objects.

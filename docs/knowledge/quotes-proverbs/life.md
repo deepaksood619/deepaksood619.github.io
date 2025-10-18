@@ -1137,4 +1137,15 @@ All happy families are alike; each unhappy family is unhappy in its own way.
 
 Khaya Piya Kuch Nahi, Glass Toda, Barah Aana
 
+**Excellent message for all**
+- Birth: Given by others
+- Name: Given by others
+- Income: Given by others
+- Respect: Given by others
+- First and last bath: Will be given by others
+- After Death Your property & Belongings: Will be taken by others
+- Funeral survice: Will be done by others
+- Still I wonder why we have the unnecessary Ego problems in life,
+- Let us all simplify our life, love & live with others peacefully.
+
 ## End

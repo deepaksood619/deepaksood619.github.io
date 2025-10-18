@@ -260,4 +260,5 @@ tf.transform allows users to define preprocessing pipelines and run these using 
 
 ## Links
 
-[Feature Engineering A-Z | Preface](https://feaz-book.com/)
+- [Feature Engineering A-Z | Preface](https://feaz-book.com/)
+- [7 Feature Engineering Tricks for Text Data - MachineLearningMastery.com](https://machinelearningmastery.com/7-feature-engineering-tricks-for-text-data/)

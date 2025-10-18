@@ -35,9 +35,10 @@ In the top-down model, you engage the CIO, CEO, or CTO directly and try to convi
 - Zoominfo
 - LinkedIn Sales navigator
 - [Apollo.io](http://apollo.io/)
+- [Find email addresses and send cold emails • Hunter](https://hunter.io/)
 - [21 LinkedIn Sales Navigator Alternatives & Competitors](https://www.kaspr.io/blog/linkedin-sales-navigator-alternatives)
 - [Alternative to Sales Navigator? : r/LeadGeneration](https://www.reddit.com/r/LeadGeneration/comments/1fg3vd5/alternative_to_sales_navigator/)
-- [Just a moment...](https://www.gartner.com/reviews/market/revenue-data-solutions/vendor/linkedin/product/sales-navigator/alternatives)
+- [Sales Navigator Alternatives](https://www.gartner.com/reviews/market/revenue-data-solutions/vendor/linkedin/product/sales-navigator/alternatives)
 
 ## Links
 

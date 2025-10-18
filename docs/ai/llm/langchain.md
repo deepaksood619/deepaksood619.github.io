@@ -68,3 +68,4 @@ https://cloud.llamaindex.ai/
 ## Links
 
 - [Why Developers are Quitting LangChain](https://analyticsindiamag.com/ai-features/why-developers-are-quitting-langchain/)
+- [10 Python One-Liners for Calling LLMs from Your Code - MachineLearningMastery.com](https://machinelearningmastery.com/10-python-one-liners-for-calling-llms-from-your-code/)

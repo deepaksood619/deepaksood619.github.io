@@ -68,21 +68,6 @@
 - [gold purchasing in Dubai - Ranya Rao gold smuggling case: How much can you save if you buy gold from Dubai? Check import duty, permitted quantity - Ranya Rao gold smuggling case: How much can you save if you buy gold from Dubai? Check import duty, permitted quantity BusinessToday](https://www.businesstoday.in/personal-finance/news/story/ranya-rao-gold-smuggling-case-how-much-can-you-save-if-you-buy-gold-from-dubai-check-import-duty-permitted-quantity-467143-2025-03-07)
 - [Dubai Gold Price vs. India: How Much Can You Save After Import Duty?](https://www.angelone.in/news/dubai-gold-price-vs-india-how-much-can-you-save-after-import-duty)
 
-### American diamonds / cubic zirconia / faux bijoux
-
-Cubic zirconia is a man-made, lab-created gemstone that resembles a diamond. It is made of zirconium dioxide and is optically flawless. This means that it looks very similar to a natural diamond, but it is much more affordable. The stones are created in a laboratory, which makes them much less expensive than natural diamonds.
-
-[What Is American Diamond Jewellery? | Lara Heems Jewellery](https://www.laraheems.com/blogs/news/what-is-american-diamond-jewellery)
-
-[The Ultimate Guide on American Diamond Aka Cubic Zirconia Jewellery - Tarinika India](https://www.tarinika.in/blogs/news/the-ultimate-guide-on-american-diamond-aliasaka-cubic-zirconia-jewellery)
-
-**Is gemstone also really scarce**
-
-- Emerald
-- Ruby
-- Sapphire
-- Tanzanite
-
 ### Soverign Gold Bond (SGB)
 
 - Buy it in secondary market instead of applying for new issue
@@ -114,3 +99,22 @@ Cubic zirconia is a man-made, lab-created gemstone that resembles a diamond. It 
 - 50% equity + 50% bond perform the best, lower beta (volatility) and same alpha (excess returns)
 
 [How to earn higher returns from sovereign gold bonds | Sovereign gold bonds on stock exchanges - YouTube](https://www.youtube.com/watch?v=t2xVVmjzzZA)
+
+## American diamonds / cubic zirconia / faux bijoux
+
+Cubic zirconia is a man-made, lab-created gemstone that resembles a diamond. It is made of zirconium dioxide and is optically flawless. This means that it looks very similar to a natural diamond, but it is much more affordable. The stones are created in a laboratory, which makes them much less expensive than natural diamonds.
+
+[What Is American Diamond Jewellery? | Lara Heems Jewellery](https://www.laraheems.com/blogs/news/what-is-american-diamond-jewellery)
+
+[The Ultimate Guide on American Diamond Aka Cubic Zirconia Jewellery - Tarinika India](https://www.tarinika.in/blogs/news/the-ultimate-guide-on-american-diamond-aliasaka-cubic-zirconia-jewellery)
+
+**Is gemstone also really scarce**
+
+- Emerald
+- Ruby
+- Sapphire
+- Tanzanite
+
+## Silver
+
+- [Silver beats gold: Behind global price surge of devil's metal & how much India uses, produces & buys - YouTube](https://www.youtube.com/watch?v=m-ts23mDwQU)

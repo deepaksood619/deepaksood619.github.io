@@ -17,9 +17,9 @@ COPY INTO is a bulk loading command in Snowflake used to load data on demand fro
 
 Before you start, ensure:
 
-- Snowflake account is set up  
-- Warehouse and database exist  
-- IAM role for S3 access configured  
+- Snowflake account is set up
+- Warehouse and database exist
+- IAM role for S3 access configured
 - Data files prepared (CSV, JSON, Parquet etc.)
 
 ## Steps
