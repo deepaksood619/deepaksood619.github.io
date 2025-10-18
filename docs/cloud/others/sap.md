@@ -52,6 +52,15 @@ SAP S/4HANA is SAP's current enterprise resource planning (ERP) suite, designed 
 - [What is SAP? | Definition and Meaning](https://www.sap.com/india/about/what-is-sap.html)
 - [Course SAP for beginners - YouTube](https://www.youtube.com/playlist?list=PLiFE0QmVk5NcXRHMbqEOwX7w8HDNThUgo)
 - [SAP Complete Details | SAP FICO | SAP SD | SAP MM | SAP ABAP | SAP ARIBA ‪@ZellEducation‬ - YouTube](https://www.youtube.com/watch?v=bVmOu9bzu54)
+- [Learn The 20 Most Commonly Used SAP Admin Transactions | SAP Technical A...](https://youtu.be/84dmK25Hb6s)
+- [What Are The Key Differences Between SAP ECC & SAP S/4HANA?](https://youtu.be/xVrXuyUIT7U)
+- [What Is SAP For Beginners? | The Only Video You Need To Watch!](https://youtu.be/RZGVPezxwSs)
+- [Is SAP ECC Relevant In 2024? | Future Of SAP ECC!](https://youtu.be/wBmGoTBsd-A)
+- [What is SAP Signavio?](https://youtu.be/wJXmKfSGxvg)
+- [SAP S/4HANA Implementation Approaches: Your Complete Guide](https://youtu.be/Rf_rqtsHQgA)
+- [What is SAP SuccessFactors For Beginners?](https://youtu.be/S0LgXUbRy0c)
+- [What Is SAP BTP For Beginners?](https://youtu.be/ZotakKV7O34)
+- [What Is SAP S/4HANA For Beginners?](https://youtu.be/T6keCslui-w)
 
 ## ERPNext
 

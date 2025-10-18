@@ -1138,6 +1138,7 @@ All happy families are alike; each unhappy family is unhappy in its own way.
 Khaya Piya Kuch Nahi, Glass Toda, Barah Aana
 
 **Excellent message for all**
+
 - Birth: Given by others
 - Name: Given by others
 - Income: Given by others

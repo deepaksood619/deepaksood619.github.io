@@ -444,3 +444,6 @@ The "birth lottery" (or "lottery of birth") refers to the idea that the circumst
 	- [Build A 'Your Life In Weeks' Calculator With Google Sheets: No-Code Tutorial - YouTube](https://www.youtube.com/watch?v=eM_T7e-uC28&ab_channel=RavinderDeol)
 	- [Your Life in Weeks - Interactive](https://www.bryanbraun.com/your-life/weeks.html)
 - [Love Vs Arranged Marriage, Lust, Soulmate & Red Flags | Dr Madhumati Sin...](https://youtu.be/z5KAKDuvXD4)
+- [The Easiest Way to Improve Your Relationship | The Gottman Institute](https://youtu.be/ib7Ain2aVR0)
+- [The Seven Principles for Making Marriage Work (Animated) – Book Summary](https://youtu.be/FfpK3NaC6lI)
+- [The 7 Principles For Making Marriage Work by John Gottman - Relationship...](https://youtu.be/knBJGNisJS0)

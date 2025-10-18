@@ -15,7 +15,7 @@
 - Go deep: one clear, specific example per question.
 - Use numbers, metrics, and concrete results to show impact.
 
-**4. Focus on “I,” Not “We”.** 
+**4. Focus on “I,” Not “We”.**
 
 - Emphasize your personal contributions.
 - Explain exactly what you did and how you added value, even in team contexts.

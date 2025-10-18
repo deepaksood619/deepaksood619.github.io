@@ -426,3 +426,8 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [Parenting Mistakes, Raising A Child, Ideal Routine & Psychology - Schwet...](https://youtu.be/8B3jyCIr3X4)
 - [New Born Baby Tips: Parenting, Health, Pregnancy, Baby Food & Vaccine - ...](https://youtu.be/ULsBP-AZZuI)
 - [One Habit That Builds Genius: Parenting Mistakes, Brain Risk & Habits \| Dr Samir \| FO410 Raj Shamani - YouTube](https://www.youtube.com/watch?v=AQhA06A59n4)
+- [How to Teach a Toddler To Read (3 Easy Steps)](https://youtu.be/LnNumrqfK78)
+- [13 Things Every Parent Should Know Before Their Child Turns 3](https://youtu.be/N22Otjvs6v0)
+- [Newborn & Parenting Secrets: Oil Massage, Rash Care & Mom’s Diet | Dr. N...](https://youtu.be/3LhCwAyk0rM)
+- [10 Baby Myths Busted! क्या आप भी इन बातों पर यकीन करते हैं?](https://youtu.be/TJaPKZxQGKw)
+- [The Japanese Rule To Obedient Children](https://youtu.be/MH2VLh3r07s)

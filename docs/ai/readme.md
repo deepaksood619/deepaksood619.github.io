@@ -56,6 +56,7 @@ An "intelligence explosion" refers to a hypothetical scenario where a self-impro
 	- AI economic paradox
 - [AI isn't replacing radiologists - by Deena Mousa](https://www.understandingai.org/p/ai-isnt-replacing-radiologists)
 - [Leopold Aschenbrenner — 2027 AGI, China/US super-intelligence race, & the return of history - YouTube](https://www.youtube.com/watch?v=zdbVtZIn9IM)
+- [Will AI outsmart human intelligence? - with 'Godfather of AI' Geoffrey H...](https://youtu.be/IkdziSLYzHw)
 
 ## Links
 

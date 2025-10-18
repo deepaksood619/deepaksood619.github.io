@@ -146,7 +146,9 @@ https://towardsdatascience.com/log-compacted-topics-in-apache-kafka-b1aa1e4665a7
     - The replication mechanisms within the Kafka clusters are designed only to work within a single cluster, not between multiple clusters
 - Named after writer *Franz Kafka*
 
-## Apache Kafka 2.4
+## Releases / Upgrades / Change logs
+
+### Apache Kafka 2.4
 
 - Kafka Core
     - Allow consumers to fetch from closest replica (before this all reads and writes happened on the leader)
@@ -155,6 +157,8 @@ https://towardsdatascience.com/log-compacted-topics-in-apache-kafka-b1aa1e4665a7
     - Admin API for deleting consumers offset
 
 https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates
+
+[Apache Kafka 4.1 | Enhanced Stability, New OAuth Support, Scalable Queue...](https://youtu.be/cr9cDJGjm2E)
 
 ## Kafka without Zookeeper (Kafka with KRaft Mode)
 

@@ -118,3 +118,7 @@ Cubic zirconia is a man-made, lab-created gemstone that resembles a diamond. It 
 ## Silver
 
 - [Silver beats gold: Behind global price surge of devil's metal & how much India uses, produces & buys - YouTube](https://www.youtube.com/watch?v=m-ts23mDwQU)
+
+## Links
+
+- [Where to invest Gold or Silver?](https://youtu.be/khvCeK8DRAI)

@@ -2,9 +2,9 @@
 
 ## 1. Introduction
 
-Snowpipe is Snowflake’s serverless, continuous data ingestion service. It allows you to load data automatically (or semi-automatically) from files as soon as they land in a stage (e.g. in Amazon S3) into a Snowflake table. 
+Snowpipe is Snowflake’s serverless, continuous data ingestion service. It allows you to load data automatically (or semi-automatically) from files as soon as they land in a stage (e.g. in Amazon S3) into a Snowflake table.
 
-Instead of executing large batch COPY INTO loads on a schedule, Snowpipe works in micro-batches and helps your data be available within minutes. 
+Instead of executing large batch COPY INTO loads on a schedule, Snowpipe works in micro-batches and helps your data be available within minutes.
 
 There are two main ways Snowpipe can detect new files:
 
@@ -59,7 +59,7 @@ If using a storage integration, you configure IAM roles and trust policies in AW
 
 #### 4.1.3 Enable S3 Event Notifications (for auto ingest)
 
-To use automated ingest, you must configure S3 to send event notifications (e.g. `s3:ObjectCreated:*`) to an SNS or SQS destination. 
+To use automated ingest, you must configure S3 to send event notifications (e.g. `s3:ObjectCreated:*`) to an SNS or SQS destination.
 
 - **Destination:** typically an SQS queue that Snowpipe polls
 - **Optional:** Use prefix filters so only relevant file paths trigger ingest (reducing noise)
@@ -135,8 +135,6 @@ CREATE OR REPLACE TABLE ingest_table (
 );
 ```
 
-
-
 Adjust data types as needed.
 
 #### 4.2.5 Create the Pipe
@@ -144,7 +142,7 @@ Adjust data types as needed.
 Define a pipe with a COPY INTO statement.
 
 - For automated ingest, set `AUTO_INGEST = TRUE`
-- For manual ingest (REST or manual refresh), set `AUTO_INGEST = FALSE  `
+- For manual ingest (REST or manual refresh), set `AUTO_INGEST = FALSE`
 
 Example (auto ingest):
 
@@ -157,13 +155,13 @@ FILE_FORMAT = ingest_csv_format
 ON_ERROR = 'CONTINUE';
 ```
 
-Permissions: The executing user must have OPERATE on the pipe, USAGE on stage, INSERT on table, etc. 
+Permissions: The executing user must have OPERATE on the pipe, USAGE on stage, INSERT on table, etc.
 
 After creating the pipe, you can inspect its notification channel:
 
 `DESC PIPE ingest_pipe;`
 
-The `notification_channel` column shows which SQS queue is associated (for auto ingest). 
+The `notification_channel` column shows which SQS queue is associated (for auto ingest).
 
 ## 5. Ingestion Methods
 

@@ -47,10 +47,9 @@ CREATE OR REPLACE TABLE CUSTOMER_DATA (
 );
 ```
 
-
 ### Step 3: Configure AWS S3 External Stage
 
-#### Option A: Using AWS Access Key 
+#### Option A: Using AWS Access Key
 
 ```sql
 CREATE OR REPLACE STAGE CUSTOMER_S3_STAGE
@@ -58,14 +57,13 @@ URL='s3://my-bucket/customer-data/'
 CREDENTIALS = (AWS_KEY_ID='YOUR_AWS_KEY' AWS_SECRET_KEY='YOUR_AWS_SECRET');
 ```
 
-#### Option B: Using AWS IAM Role 
+#### Option B: Using AWS IAM Role
 
 ```sql
 CREATE OR REPLACE STAGE CUSTOMER_S3_STAGE
 URL='s3://my-bucket/customer-data/'
 CREDENTIALS = (AWS_ROLE='arn:aws:iam::123456789012:role/mySnowflakeRole');
 ```
-
 
 ### Step 4: Define File Format
 
@@ -92,7 +90,6 @@ FROM @CUSTOMER_S3_STAGE
 FILE_FORMAT = (FORMAT_NAME = CSV_FMT)
 ON_ERROR = 'CONTINUE';
 ```
-
 
 Optional Parameters
 

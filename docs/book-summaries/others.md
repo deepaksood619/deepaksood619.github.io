@@ -37,6 +37,9 @@
 - [5 Steps to Achieve Deep Focus (On Demand)](https://youtu.be/gVG8l80fDbk)
 - [GOOD ENERGY by Dr. Casey Means MD | Core Summary](https://youtu.be/7XyQf6KWni8)
 - [Take Control of Your Time: 5 Vital Time Management Habits - YouTube](https://youtu.be/M2WCN_RMPLw)
+- [Win More Negotiations: 5 Habits from Great Books](https://youtu.be/1CcpgDNl2Xg)
+- [Do more in 100 words than people do in 10,000 | SMART BREVITY by VandeHe...](https://youtu.be/xM5CcfCzMU4)
+- [5 Simple Steps to Delegate and Automate More Work (and focus on what you...](https://youtu.be/g-1GCtAulYw)
 
 ### [Learn to lead: THE 21 IRREFUTABLE LAWS OF LEADERSHIP by John Maxwell | Core Message - YouTube](https://www.youtube.com/watch?v=QQhdiktL99w)
 
