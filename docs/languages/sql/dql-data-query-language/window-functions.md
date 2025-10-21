@@ -124,6 +124,18 @@ Both `RANK` and `RANK_DENSE` work on partitions of data
 ### Examples
 
 ```sql
+-- 2nd highest salary in each department
+SELECT department_id, emp_name, salary
+FROM (
+    SELECT
+        department_id,
+        emp_name,
+        salary,
+        DENSE_RANK() OVER (PARTITION BY department_id ORDER BY salary DESC) AS salary_rank
+    FROM employees
+) ranked
+WHERE salary_rank = 2;
+
 -- RANK()
 SELECT name,
          dept,

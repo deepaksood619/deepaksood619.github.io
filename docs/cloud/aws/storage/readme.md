@@ -175,7 +175,15 @@ Amazon Elastic Container Registry (ECR) is a fully-managed [Docker](https://aws.
 
 https://docs.aws.amazon.com/AmazonECR/latest/userguide/pull-through-cache.html
 
-## Amazon FSx for Lustre
+## Amazon FSx
+
+### Amazon FSx for Windows File Server
+
+Amazon FSx for Windows File Server provides fully managed, highly reliable file storage that is accessible over the industry-standard Service Message Block (SMB) protocol. It is built on Windows Server, delivering a wide range of administrative features such as user quotas, end-user file restore, and Microsoft Active Directory (AD) integration. The Distributed File System Replication (DFSR) service is a new multi-master replication engine that is used to keep folders synchronized on multiple servers. Amazon FSx supports the use of Microsoft’s Distributed File System (DFS) to organize shares into a single folder structure up to hundreds of PB in size.
+
+Amazon FSx for Windows is a perfect distributed file system, with replication capability, and can be mounted on Windows.
+
+### Amazon FSx for Lustre
 
 FSx for Lustre makes it easy and cost-effective to launch and run the popular, high-performance Lustre file system. You use Lustre for workloads where speed matters, such as machine learning, high performance computing (HPC), video processing, and financial modeling.
 

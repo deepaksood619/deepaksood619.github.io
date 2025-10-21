@@ -205,3 +205,11 @@ An Expression Index is a type of index that precomputes and stores the results o
 Instead of recalculating the expression each time a query is run, the database uses the precomputed results, which speeds up query processing.
 
 This is particularly useful when queries involve expressions such as `from_unixtime(ts, 'yyyy-MM-dd')`, where the database has to perform a conversion on each row's timestamp to filter by a specific date. By creating an expression index, the system avoids recalculating the transformation every time the query is executed.
+
+## Links
+
+- [DB Indexing in System Design Interviews - B-tree, Geospatial, Inverted Index, and more! - YouTube](https://www.youtube.com/watch?v=BHCSL_ZifI0)
+	- Geospatial Indexing
+		- Geohashing
+		- Quad trees
+		- R trees

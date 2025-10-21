@@ -493,6 +493,12 @@ Indian History - https://www.anirudhkanisetti.com/podcasts
 - Gioachino Rossini
 - [HALIDONMUSIC - YouTube](https://www.youtube.com/@HALIDONMUSIC)
 
+### Companies
+
+- BMG Rights Management GmbH is an international music company based in Berlin, Germany. It combines the activities of a music publisher and a record label. BMG was founded in October 2008 after Bertelsmann sold its stake in Sony BMG to Sony.
+- Sony Music
+- Tseries
+
 ## Instagram
 
 - [Jeryl 🇸🇬 (@smilewithjeryl) • Instagram photos and videos](https://www.instagram.com/smilewithjeryl/?hl=en)

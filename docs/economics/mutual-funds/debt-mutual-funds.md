@@ -31,25 +31,25 @@ Debt Mutual Funds can be broadly classified into:
 
 Below are ten such duration based categories of debt funds as defined by SEBI:
 
-| **Category of Schemes** | **Macaulay Duration [Volatility increases with duration]** | **3 Year Annualised Returns** |
-| ----------------------- | ---------------------------------------------------------- | ----------------------------- |
-| Overnight Funds         | Maturity up to 1 Day                                       | 6.39 %                        |
-| Liquid Funds | Maturity up to 91 Days | 6.85 % |
-| Ultra Short Duration Funds| Between 3 to 6 Months | 7.34 % |
-| Low Duration Funds | Between 6 to 12 Months | 7.88 % |
-| Money Market Funds | Maturity up to 1 Year | 7.31 % |
-| Short Duration Funds | Between 1 to 3 Years | 7.74 % |
-| Medium Duration Funds| Between 3 to 4 Years | 7.90 % |
-| Medium to Long Duration Funds | Between 4 to 7 Years | 7.05 % |
-| Long Duration Funds | Greater than 7 Years | 8.60 % |
-| Dynamic Bond Fund |  |  |
-| Corporate Bond Fund |  |  |
-| Credit Risk Fund |  |  |
-| Banking and PSU Fund |  |  |
-| Gilt Fund |  |  |
-| Gilt with 10Y constant duration fund |  |  |
-| Floater Fund |  |  |
-| IDCW - Income Distribution cum Capital Withdrawal / Dividend plans |  |  |
+| **Category of Schemes**                                            | **Macaulay Duration [Volatility increases with duration]** | **3 Year Annualised Returns** |
+| ------------------------------------------------------------------ | ---------------------------------------------------------- | ----------------------------- |
+| Overnight Funds                                                    | Maturity up to 1 Day                                       | 6.39 %                        |
+| Liquid Funds                                                       | Maturity up to 91 Days                                     | 6.85 %                        |
+| Ultra Short Duration Funds                                         | Between 3 to 6 Months                                      | 7.34 %                        |
+| Low Duration Funds                                                 | Between 6 to 12 Months                                     | 7.88 %                        |
+| Money Market Funds                                                 | Maturity up to 1 Year                                      | 7.31 %                        |
+| Short Duration Funds                                               | Between 1 to 3 Years                                       | 7.74 %                        |
+| Medium Duration Funds                                              | Between 3 to 4 Years                                       | 7.90 %                        |
+| Medium to Long Duration Funds                                      | Between 4 to 7 Years                                       | 7.05 %                        |
+| Long Duration Funds                                                | Greater than 7 Years                                       | 8.60 %                        |
+| Dynamic Bond Fund                                                  |                                                            |                               |
+| Corporate Bond Fund                                                |                                                            |                               |
+| Credit Risk Fund                                                   |                                                            |                               |
+| Banking and PSU Fund                                               |                                                            |                               |
+| Gilt Fund                                                          |                                                            |                               |
+| Gilt with 10Y constant duration fund                               |                                                            |                               |
+| Floater Fund                                                       |                                                            |                               |
+| IDCW - Income Distribution cum Capital Withdrawal / Dividend plans |                                                            |                               |
 
 [https://www.hdfcfund.com/investor-desk/hdfc-mf-weekend-bytes/idcw-or-swp-mutual-funds](https://www.hdfcfund.com/investor-desk/hdfc-mf-weekend-bytes/idcw-or-swp-mutual-funds)
 
@@ -113,11 +113,13 @@ https://freefincal.com/why-i-partially-switched-from-icici-multi-asset-fund-to-i
 
 [What are Gilt Funds, when to use them, how to select them](https://www.youtube.com/watch?v=rzVPsRGZeBY)
 
-## Funds
+## Funds / ETFs
+
+- LIQUIDBEES
 
 ### Nippon India ETF Nifty 8-13 yr G-Sec Long Term Gilt
 
-- NSE - LTGILTBEES
+- ETF - NSE - LTGILTBEES
 
 [Check Nippon India ETF Nifty 8-13 yr G-Sec Long Term Gilt Fund's latest information like performance, NAV, returns, expense](https://mf.nipponindiaim.com/FundsAndPerformance/Pages/NipponIndia-ETF-Nifty-8-13-yr-G-Sec-Long-Term-Gilt.aspx)
 
@@ -161,6 +163,8 @@ If the mutual fund units are sold after 2 years from the date of investment, gai
 FD laddering means splitting your money into multiple FDs with staggered maturity dates - like 6 months, 1.5 years and 3 years. This ensures regular liquidity while earning higher returns, and helps you reinvest at better rates over time.
 
 This way, a portion of your money becomes available at regular intervals, giving you access to funds without needing to break your FD.
+
+[What are some tax-efficient alternatives for debt mutual funds?](https://freefincal.com/what-are-some-tax-efficient-alternatives-for-debt-mutual-funds/)
 
 ## Links
 

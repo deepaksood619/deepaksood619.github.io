@@ -10,7 +10,7 @@
     - sparse package - for N-dimensional structured data
     - scipy.sparse.csgraph - for graph-like problems (e.g. finding shortest paths)
 4. CPython
-5. Numba - https://www.youtube.com/watch?v=x58W9A2lnQc
+5. Numba - [Make Python code 1000x Faster with Numba - YouTube](https://www.youtube.com/watch?v=x58W9A2lnQc)
 6. Dask
     - Parallel Computation
     - Task Graph

@@ -1,5 +1,7 @@
 # Gold / Diamond / Gold ETF
 
+## Physical Gold
+
 - Import duty on gold in India was 15% now it's 6%
 - There is also no customs tax on gold jewelry and ornaments that weigh less than 20 grams and are valued at less than INR 50,000. For ornaments weighing between 20 grams and 100 grams, a flat 10% customs charge is applied to the entire declared value. In addition to basic customs duty, IGST and other taxes may also apply.
 - Dubai does not impose a tax on gold
@@ -24,6 +26,7 @@
 - Tax
 	- **Short-Term Capital Gains (STCG):** If gold is sold **within 2 years** of purchase, profits are added to your income and taxed as per your slab rate.
 	- **Long-Term Capital Gains (LTCG):** If sold **after 2 years**, the gain is taxed at **12.5%** (without indexation benefit).
+- [Your Old Gold. India’s New Strength \| Tanishq - YouTube](https://www.youtube.com/watch?v=wNrjZ9Ov2oY)
 
 ## Gold ETFs
 
@@ -118,6 +121,9 @@ Cubic zirconia is a man-made, lab-created gemstone that resembles a diamond. It 
 ## Silver
 
 - [Silver beats gold: Behind global price surge of devil's metal & how much India uses, produces & buys - YouTube](https://www.youtube.com/watch?v=m-ts23mDwQU)
+- [IsItBullshit: silver is actually more rare and more useful than gold? : r/IsItBullshit](https://www.reddit.com/r/IsItBullshit/comments/p2hdf4/isitbullshit_silver_is_actually_more_rare_and/)
+- A significant amount of silver is recovered as a byproduct of mining for other metals like copper, lead, and zinc.
+- Approximately 1.74 million metric tons of silver have been mined, which would form a cube about 55 meters on each side. An estimated 2.7 to 3.1 million metric tons of recoverable silver remain in the earth's crust. The total amount of above-ground silver, including bullion, jewelry, and industrial use, is an estimated 60 billion ounces, with about 5.5 billion ounces held in refined silver bullion bars and coins
 
 ## Links
 

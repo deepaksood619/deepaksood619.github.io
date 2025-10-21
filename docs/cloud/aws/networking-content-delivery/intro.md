@@ -87,6 +87,20 @@ Now let’s go through the network connectivity one by one:
 
 8. **SaaS Private Link Connection -** AWS PrivateLink provides private connectivity between VPCs and services hosted on AWS or on-premises, ideal for accessing SaaS applications securely.
 
+## Data Transfer Cost
+
+- **Inter-Region data transfer:** There is a charge for data moved between two different AWS Regions. This is in addition to the data transfer cost when moving data from AWS to the internet.
+- **Intra-Region data transfer:** Data transferred within the same region, either between Availability Zones or between services, may have different cost structures. In some cases, it can be free, while other transfers (like between Availability Zones) will have a smaller, fixed charge per GB.
+- **Cost factors:** The exact cost for inter-region transfers depends on the specific source and destination regions involved. To get the precise rates, you will need to check the Amazon EC2 Data Transfer pricing page, which lists all rates, or the specific pricing for other services.
+- **Other considerations:** Be aware that some services may add processing fees, even for intra-region data transfers. For example, data passing through a NAT gateway incurs a processing fee.
+- **Tracking costs:** For a more granular view of costs, you can use tools like AWS Cost and Usage Reports (CUR) or set up cost allocation tags to track specific cross-region data transfers, such as those related to EBS snapshots.
+
+Data transfer between Availability Zones (AZs) in the same AWS Region costs $0.01 per GB for data in each direction, totaling $0.02 per GB for a round trip. This charge applies to services like EC2 and RDS. Transfers within the same AZ are free for private IP traffic, while inter-AZ traffic is a significant cost factor for applications that need high availability and distributed architectures.
+
+[Understanding data transfer charges - AWS Data Exports](https://docs.aws.amazon.com/cur/latest/userguide/cur-data-transfers-charges.html)
+
+[Overview of Data Transfer Costs for Common Architectures \| AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/overview-of-data-transfer-costs-for-common-architectures/)
+
 ## Links
 
 - [AWS Networking Fundamentals - YouTube](https://www.youtube.com/watch?v=hiKPPy584Mg&ab_channel=AmazonWebServices)

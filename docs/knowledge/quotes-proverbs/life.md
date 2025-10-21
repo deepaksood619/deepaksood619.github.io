@@ -6,6 +6,8 @@ Money leads to success which leads to more money
 
 In is the only way out.
 
+We make a living by what we get, but we make a life by what we give” – Winston Churchill.
+
 Life is a sine curve.
 
 If you think it is, it is; else, no.

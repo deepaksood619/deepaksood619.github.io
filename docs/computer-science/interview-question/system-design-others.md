@@ -106,3 +106,4 @@ https://netflixtechblog.com/netflixs-viewing-data-how-we-know-where-you-are-in-h
 - [Google Borg: Billions of Distributed Linux Containers - YouTube](https://youtu.be/l35hqwTY5W0)
 - [How Netflix Stores 140 Million Hours of Viewing Data Per Day](https://blog.bytebytego.com/p/how-netflix-stores-140-million-hours)
 - [Facebook’s Database Handling Billions of Messages](https://blog.bytebytego.com/p/facebooks-database-handling-billions)
+- [System Design Interview: Design a Web Crawler w/ a Ex-Meta Staff Engineer - YouTube](https://www.youtube.com/watch?v=krsuaUp__pM)

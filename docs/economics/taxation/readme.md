@@ -7,3 +7,4 @@
 - [Deductions](economics/taxation/deductions.md)
 - [GST](economics/taxation/gst.md)
 - [HUF / Private Trust](economics/taxation/huf-private-trust.md)
+	- [indian-company-types](economics/finance-investing/indian-company-types.md)

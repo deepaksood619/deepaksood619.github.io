@@ -29,3 +29,9 @@
 
 - Amazon Bedrock Getting Started - https://explore.skillbuilder.aws/learn/course/external/view/elearning/17508/amazon-bedrock-getting-started
 - Building Generative AI Applications Using Amazon Bedrock - https://explore.skillbuilder.aws/learn/course/external/view/elearning/17904/building-generative-ai-applications-using-amazon-bedrock
+
+## Links
+
+- [Agents Tools & Function Calling with Amazon Bedrock (How-to) - YouTube](https://www.youtube.com/watch?v=2L_XE6g3atI)
+- [Integrating Generative AI Models with Amazon Bedrock - YouTube](https://www.youtube.com/watch?v=nSQrY-uPWLY)
+- [Generative AI In AWS-AWS Bedrock Crash Course #awsbedrock #genai - YouTube](https://www.youtube.com/watch?v=2maPaQutcWs)

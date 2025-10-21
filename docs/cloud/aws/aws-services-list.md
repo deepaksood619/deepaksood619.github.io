@@ -386,22 +386,6 @@ Total with Duplicates - 331 services
 2. **Amazon Detective** - Investigate potential security issues
 3. **Amazon GuardDuty** - Managed threat detection service
 4. **Amazon Inspector** - Automated and continual vulnerability management for Amazon EC2 and Amazon ECR
-	1. Automated vulnerability management for compute workloads
-	2. Simplified one-click onboarding and integration with AWS Organizations
-	3. Automated discovery and continual vulnerability scanning
-	4. Integration with AWS Systems Manager Agent
-	5. Agentless vulnerability assessments for Amazon EC2
-	6. Suppression of findings
-	7. Amazon Inspector risk score for findings
-	8. Automatic closure of remediated findings
-	9. Detailed coverage monitoring
-	10. Integration with AWS Security Hub and Amazon EventBridge
-	11. Integrating vulnerability mapping and generative AI powered remediation to layers in Lambda functions
-	12. Manage software bill of materials (SBOM) exports
-	13. Integration with developer tools
-	14. Support for CIS Benchmark assessments
-	15. Enhanced container security management
-	16. Enhanced code security management
 5. **Amazon Macie** - Discover and protect your sensitive data at scale
 6. **Amazon Security Lake** - Automatically centralize your security data with a few clicks
 	1. [Security Data Management - Amazon Security Lake - AWS](https://aws.amazon.com/security-lake/)
@@ -410,7 +394,6 @@ Total with Duplicates - 331 services
 9. **AWS Audit Manager** - Continuously audit your AWS usage to simplify how you assess risk and compliance
 10. **AWS Certificate Manager** - Provision, manage, and deploy SSL/TLS certificates
 11. **AWS CloudHSM** - Hardware-based key storage for regulatory compliance
-	1. A Cloud HSM is a hardware security module (HSM) service hosted in the cloud, providing dedicated, FIPS 140-2 Level 3 validated hardware to securely generate, store, and manage cryptographic keys for customers. It combines the security of physical HSMs with the scalability and flexibility of cloud services, allowing organizations to meet strict compliance requirements and protect sensitive data without managing their own physical hardware.
 12. **AWS Directory Service** - Host and manage active directory
 13. **AWS Firewall Manager** - Central management of firewall rules
 14. **AWS IAM Identity Center** - Manage single sign-on access to AWS accounts and apps

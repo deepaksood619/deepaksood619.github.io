@@ -51,7 +51,12 @@ After 15 years
 
 **Pension fund** is a retirement savings plan where a portion of your salary is set aside for your future. The funds are managed by a trustee and typically paid out as a monthly pension after retirement. **Provident fund** is similar, but the entire balance is paid out as a lump sum, not as a monthly pension.
 
-[Income Tax on Pension: Is Pension Taxable? - Tax2win](https://tax2win.in/guide/income-tax-for-pensioners)
+- [Income Tax on Pension: Is Pension Taxable? - Tax2win](https://tax2win.in/guide/income-tax-for-pensioners)
+- [EPFO से निकाल सकते हैं PF का पूरा पैसा, जानें क्या है तरीका \| PF Withdrawal Process Online - YouTube](https://www.youtube.com/watch?v=Y31qGio2yWM)
+- [💸PF Advance Rules 💸 Advance PF कब और कितना पैसा निकाल सकते है 💸How to withdrawal advance PF - YouTube](https://www.youtube.com/watch?v=z0mV-yRCuaM)
+- [EPF - Employee Provident Fund Calculator, Interest Rate & Withdrawal Rules Guide 2024 - YouTube](https://www.youtube.com/watch?v=w6otnFOojv8)
+- [ChatGPT - PF investment comparison](https://chatgpt.com/share/68f49357-cb9c-8005-a12e-3013fbe4d1e0)
+- [Should I opt for ₹1800 PF or 12% : r/personalfinanceindia](https://www.reddit.com/r/personalfinanceindia/comments/193c9op/should_i_opt_for_1800_pf_or_12/)
 
 ### Superannuation
 

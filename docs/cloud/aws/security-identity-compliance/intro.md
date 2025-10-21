@@ -1,25 +1,47 @@
 # Security, Identity and Compliance
 
-1. AWS Identity & Access Management (IAM) - Manage User Access and Encryption Keys
-2. Amazon Cloud Directory - Create Flexible Cloud-native Directories
-3. AWS Single Sign-On - Cloud Single Sign-On (SSO) Service
-4. Amazon GuardDuty - Managed Threat Detection Service
+1. **AWS Identity & Access Management (IAM) -** Manage User Access and Encryption Keys
+2. **Amazon Cognito** - Identity management for your apps
+3. **Amazon Detective** - Investigate potential security issues
+4. **Amazon GuardDuty** - Managed threat detection service
+5. **Amazon Cloud Directory -** Create Flexible Cloud-native Directories
+6. **AWS Single Sign-On -** Cloud Single Sign-On (SSO) Service
+7. Amazon GuardDuty - Managed Threat Detection Service
     1. [Amazon GuardDuty](https://aws.amazon.com/guardduty/)
     2. Amazon GuardDuty combines ML and integrated threat intelligence from AWS and leading third parties to help protect your AWS accounts, workloads, and data from threats.
-5. AWS Direct Connect - Dedicated Network Connection to AWS
-6. Amazon Inspector - Analyze Application Security
-7. Amazon Macie - Discover, Classify, and Protect Your Data
+8. **AWS Direct Connect -** Dedicated Network Connection to AWS
+9. **Amazon Inspector** - Automated and continual vulnerability management for Amazon EC2 and Amazon ECR
+	1. Automated vulnerability management for compute workloads
+	2. Simplified one-click onboarding and integration with AWS Organizations
+	3. Automated discovery and continual vulnerability scanning
+	4. Integration with AWS Systems Manager Agent
+	5. Agentless vulnerability assessments for Amazon EC2
+	6. Suppression of findings
+	7. Amazon Inspector risk score for findings
+	8. Automatic closure of remediated findings
+	9. Detailed coverage monitoring
+	10. Integration with AWS Security Hub and Amazon EventBridge
+	11. Integrating vulnerability mapping and generative AI powered remediation to layers in Lambda functions
+	12. Manage software bill of materials (SBOM) exports
+	13. Integration with developer tools
+	14. Support for CIS Benchmark assessments
+	15. Enhanced container security management
+	16. Enhanced code security management
+10. **Amazon Macie -** Discover, Classify, and Protect Your Data
     1. Amazon Macie is a data security service that uses machine learning (ML) and pattern matching to discover and help protect your sensitive data.
     2. [What is Amazon Macie? | Amazon Web Services - YouTube](https://youtu.be/RR4MtDl09Vk)
-8. AWS Certificate Manager - Provision, Manage, and Deploy SSL/TLS Certificates
-9. AWS CloudHSM - Hardware-based Key Storage for Regulatory Compliance
-10. AWS Directory Service - Host and Manage Active Directory
-11. AWS Key Management Service - Managed Creation and Control of Encryption Keys
-12. AWS Organizations - Policy-based Management for Multiple AWS Accounts
-13. AWS Shield - DDOS Protection
+11. **AWS Certificate Manager -** Provision, Manage, and Deploy SSL/TLS Certificates
+12. **AWS CloudHSM -** Hardware-based Key Storage for Regulatory Compliance
+	1. A Cloud HSM is a hardware security module (HSM) service hosted in the cloud, providing dedicated, FIPS 140-2 Level 3 validated hardware to securely generate, store, and manage cryptographic keys for customers. It combines the security of physical HSMs with the scalability and flexibility of cloud services, allowing organizations to meet strict compliance requirements and protect sensitive data without managing their own physical hardware.
+13. **AWS Directory Service -** Host and Manage Active Directory
+14. **AWS Key Management Service -** Managed Creation and Control of Encryption Keys
+15. **AWS Organizations -** Policy-based Management for Multiple AWS Accounts
+16. **AWS Shield -** DDOS Protection
 	1. **AWS Shield Standard is automatically enabled for all AWS customers at no additional cost** and protects against common DDoS attacks on your AWS services like ELB, CloudFront, and Route 53. However, for enhanced protection against more sophisticated attacks, you must explicitly enable and configure AWS Shield Advanced for specific AWS resources.
 	2. AWS Shield is a managed Distributed Denial of Service (DDoS) protection service that provides two tiers of protection: **AWS Shield Standard** is automatically included for all AWS customers at no extra cost, offering protection against common network and transport layer DDoS events. **AWS Shield Advanced** provides more sophisticated and customized protection against large and complex attacks, includes access to the AWS Shield Response Team for expert guidance, and offers cost protection for excess data transfer during a DDoS attack.
-14. AWS WAF - Filter Malicious Web Traffic
+17. **AWS WAF -** Filter Malicious Web Traffic
+18. **AWS Resource Access Manager** - Simple, secure service to share AWS resources
+	1. AWS Resource Access Manager (RAM) is a service that enables you to easily and securely share AWS resources with any AWS account or within your AWS Organization. You can share AWS Transit Gateways, Subnets, AWS License Manager configurations, and Amazon Route 53 Resolver rules resources with RAM. RAM eliminates the need to create duplicate resources in multiple accounts, reducing the operational overhead of managing those resources in every single account you own. You can create resources centrally in a multi-account environment, and use RAM to share those resources across accounts in three simple steps: create a Resource Share, specify resources, and specify accounts. RAM is available to you at no additional charge.
 
 [AWS Startup Security Baseline (AWS SSB) - AWS Prescriptive Guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/aws-startup-security-baseline/welcome.html)
 

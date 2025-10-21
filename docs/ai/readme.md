@@ -57,6 +57,8 @@ An "intelligence explosion" refers to a hypothetical scenario where a self-impro
 - [AI isn't replacing radiologists - by Deena Mousa](https://www.understandingai.org/p/ai-isnt-replacing-radiologists)
 - [Leopold Aschenbrenner — 2027 AGI, China/US super-intelligence race, & the return of history - YouTube](https://www.youtube.com/watch?v=zdbVtZIn9IM)
 - [Will AI outsmart human intelligence? - with 'Godfather of AI' Geoffrey H...](https://youtu.be/IkdziSLYzHw)
+- [If AI is really changing everything… where’s the evidence? - YouTube](https://www.youtube.com/watch?v=8lfMnqMYcRQ)
+	- [Where's the Shovelware? Why AI Coding Claims Don't Add Up](https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding)
 
 ## Links
 
@@ -66,3 +68,5 @@ An "intelligence explosion" refers to a hypothetical scenario where a self-impro
 - [Welcome to State of AI Report 2025](https://www.stateof.ai/)
 	- [Welcome to State of AI Report 2025](https://www.stateof.ai/2025-report-launch)
 	- [State of AI Report - 2025 ONLINE - Google Slides](https://docs.google.com/presentation/d/1xiLl0VdrlNMAei8pmaX4ojIOfej6lhvZbOIK7Z6C-Go/edit?usp=sharing)
+- [The Limits of AI: Generative AI, NLP, AGI, & What’s Next? - YouTube](https://www.youtube.com/watch?v=rBlCOLfMYfw)
+- [Is Sora the Beginning of the End for OpenAI? - Cal Newport](https://calnewport.com/is-sora-the-beginning-of-the-end-for-openai/)

@@ -4,6 +4,14 @@
 
 https://medium.com/hackernoon/why-theres-so-much-burnout-in-software-and-what-to-do-about-it-4ef0297ca7cc
 
+## Why We Burnout
+
+- Burnout doesn't happen for working too much, burnout happens because you are working too hard on wrong things.
+- “It’s not enough to be busy; so are the ants. The question is: What are we busy about?” _— Henry David Thoreau_
+- Burnout usually isn’t about work’s _volume_ — it’s about a lack of purpose or agency
+- Burnout emerges when smart, passionate individuals find themselves working on tasks that feel meaningless or misaligned with their strengths and interests
+- [Burnout ≠ Working Too Much. “It’s not enough to be busy; so are the… \| by Matheus Lima \| Medium](https://medium.com/@matheusml/burnout-working-too-much-c4603a99e982)
+
 ## Blinkist - The Burnout Fix
 
 1. Working harder or smarter isn't enough to survive the pressures of the modern workplace.

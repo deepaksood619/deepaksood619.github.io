@@ -10,7 +10,7 @@ https://pages.awscloud.com/awsmp-h2-sec-digital-workspace-iam-ty.html
 
 ## Gotchas
 
-- Make sure to give access like /* for any object that needs access for inside too
+- Make sure to give access like `/*` for any object that needs access for inside too
 
 AWS Identity and Access Management (IAM) enables you to manage access to AWS services and resources securely. Using IAM, you can create and manage AWS users and groups, and use permissions to allow and deny their access to AWS resources.
 
@@ -99,6 +99,79 @@ Controls access to the service with a VPC endpoint
 
 ![image](../../../media/Cloud-AWS-IAM-image4.jpg)
 
+### AWS global condition context keys
+
+#### Properties of the principal
+
+- aws:PrincipalArn
+- aws:PrincipalAccount
+- aws:PrincipalOrgPaths
+- aws:PrincipalOrgID
+- aws:PrincipalTag/tag-key
+- aws:PrincipalIsAWSService
+- aws:PrincipalServiceName
+- aws:PrincipalServiceNamesList
+- aws:PrincipalType
+- aws:userid
+- aws:username
+
+#### Properties of a role session
+
+- aws:AssumedRoot
+- aws:FederatedProvider
+- aws:TokenIssueTime
+- aws:MultiFactorAuthAge
+- aws:MultiFactorAuthPresent
+- aws:ChatbotSourceArn
+- aws:Ec2InstanceSourceVpc
+- aws:Ec2InstanceSourcePrivateIPv4
+- aws:SourceIdentity
+- ec2:RoleDelivery
+- ec2:SourceInstanceArn
+- glue:RoleAssumedBy
+- glue:CredentialIssuingService
+- lambda:SourceFunctionArn
+- ssm:SourceInstanceArn
+- identitystore:UserId
+
+#### Properties of the network
+
+- aws:SourceIp
+- aws:SourceVpc
+- aws:SourceVpce
+- aws:VpceAccount
+- aws:VpceOrgID
+- aws:VpceOrgPaths
+- aws:VpcSourceIp
+
+#### Properties of the resource
+
+- aws:ResourceAccount
+- aws:ResourceOrgID
+- aws:ResourceOrgPaths
+- aws:ResourceTag/tag-key
+
+#### Properties of the request
+
+- aws:CalledVia
+- aws:CalledViaFirst
+- aws:CalledViaLast
+- aws:ViaAWSService
+- aws:CurrentTime
+- aws:EpochTime
+- aws:referer
+- aws:RequestedRegion
+- aws:RequestTag/tag-key
+- aws:TagKeys
+- aws:SecureTransport
+- aws:SourceAccount
+- aws:SourceArn
+- aws:SourceOrgID
+- aws:SourceOrgPaths
+- aws:UserAgent
+
+[Title Unavailable \| Site Unreachable](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_condition-keys.html)
+
 ## Policies
 
 ### [AWS Managed Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-vs-inline.html#aws-managed-policies)
@@ -173,7 +246,7 @@ All certain users to access specific bucket path only
 
 ## IAM Roles
 
-An IAMroleis an IAM identity that you can create in your account that has specific permissions. An IAM role is similar to an IAM user, in that it is an AWS identity with permission policies that determine what the identity can and cannot do in AWS. However, instead of being uniquely associated with one person, a role is intended to be assumable by anyone who needs it. Also, a role does not have standard long-term credentials such as a password or access keys associated with it. Instead, when you assume a role, it provides you with temporary security credentials for your role session.
+An IAM role is an IAM identity that you can create in your account that has specific permissions. An IAM role is similar to an IAM user, in that it is an AWS identity with permission policies that determine what the identity can and cannot do in AWS. However, instead of being uniquely associated with one person, a role is intended to be assumable by anyone who needs it. Also, a role does not have standard long-term credentials such as a password or access keys associated with it. Instead, when you assume a role, it provides you with temporary security credentials for your role session.
 
 You can use roles to delegate access to users, applications, or services that don't normally have access to your AWS resources. For example, you might want to grant users in your AWS account access to resources they don't usually have, or grant users in one AWS account access to resources in another account. Or you might want to allow a mobile app to use AWS resources, but not want to embed AWS keys within the app (where they can be difficult to rotate and where users can potentially extract them). Sometimes you want to give AWS access to users who already have identities defined outside of AWS, such as in your corporate directory. Or, you might want to grant access to your account to third parties so that they can perform an audit on your resources.
 

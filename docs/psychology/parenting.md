@@ -431,3 +431,5 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [Newborn & Parenting Secrets: Oil Massage, Rash Care & Mom’s Diet | Dr. N...](https://youtu.be/3LhCwAyk0rM)
 - [10 Baby Myths Busted! क्या आप भी इन बातों पर यकीन करते हैं?](https://youtu.be/TJaPKZxQGKw)
 - [The Japanese Rule To Obedient Children](https://youtu.be/MH2VLh3r07s)
+- [Reality of KBC Kid \| Why are Kids becoming Arrogant? \| Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=V9bLCcBGt9g)
+- [The Fastest Way To Get Your Child To Walk (The Cruise Method) - YouTube](https://www.youtube.com/watch?v=-V8PSjYCyAs)

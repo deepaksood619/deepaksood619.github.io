@@ -41,3 +41,8 @@ If a Company’s Turnover Exceeds Rs. 400 Crore, the Tax Rate is.
 1. 25% up to one crore
 2. Over 1 crore but up to 10 crores, 25,00,000 plus 25%
 3. Over 10 crore, 2,50,00,000 + 25%
+
+## Others
+
+- **GmbH** - GmbH is the German abbreviation for "Gesellschaft mit beschränkter Haftung," which translates to "company with limited liability". It is a legal business structure in German-speaking countries, similar to a Private Limited Company (Ltd.) in the UK or a Limited Liability Company (LLC) in the United States.
+- [GmbH - Wikipedia](https://en.wikipedia.org/wiki/GmbH)

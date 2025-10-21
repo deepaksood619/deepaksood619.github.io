@@ -361,6 +361,14 @@ You can use _Legal Hold_ when you are not sure for how long you want your obje
 
 [Maintaining object immutability by automatically extending Amazon S3 Object Lock retention periods | AWS Storage Blog](https://aws.amazon.com/blogs/storage/maintaining-object-immutability-by-automatically-extending-amazon-s3-object-lock-retention-periods/)
 
+## Access
+
+### Amazon S3 Access Points
+
+Amazon S3 Access Points provide a scalable, manageable solution for managing permissions on shared buckets. By creating a dedicated access point for each service, and setting access point-level policies that scope access down to specific prefixes within the bucket, the company can enforce fine-grained, isolated access per application. This approach avoids complexity in the bucket policy and eliminates the need for per-object permissions management. Access points are ideal for environments with multiple applications or teams sharing a common S3 bucket.
+
+[Securing data in a virtual private cloud using Amazon S3 Access Points \| AWS Storage Blog](https://aws.amazon.com/blogs/storage/securing-data-in-a-virtual-private-cloud-using-amazon-s3-access-points/)
+
 ## Links
 
 - [Stanislav Kozlovski on LinkedIn: AWS S3 Deep Dive](https://www.linkedin.com/posts/stanislavkozlovski_aws-s3-deep-dive-activity-7072826135792754688-I5pY?utm_source=share&utm_medium=member_desktop)

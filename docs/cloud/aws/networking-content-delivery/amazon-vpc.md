@@ -157,9 +157,21 @@ NACL - Network Access Control List - [Control traffic to subnets using network A
 
 SG - Security Groups
 
+## NAT Gateway
+
+A NAT gateway is a Network Address Translation (NAT) service. You can use a NAT gateway so that instances in a private subnet can connect to services outside your VPC but external services can't initiate a connection with those instances.
+
+When you create a NAT gateway, you specify one of the following connectivity types:
+
+- **Public** – (Default) Instances in private subnets can connect to the internet through a public NAT gateway, but the instances can't receive unsolicited inbound connections from the internet. You create a public NAT gateway in a public subnet and must associate an Elastic IP address with the NAT gateway at creation. You route traffic from the NAT gateway to the internet gateway for the VPC. Alternatively, you can use a public NAT gateway to connect to other VPCs or your on-premises network. In this case, you route traffic from the NAT gateway through a transit gateway or a virtual private gateway.
+
+- **Private** – Instances in private subnets can connect to other VPCs or your on-premises network through a private NAT gateway, but the instances can't receive unsolicited inbound connections from the other VPCs or the on-premises network. You can route traffic from the NAT gateway through a transit gateway or a virtual private gateway. You can't associate an Elastic IP address with a private NAT gateway. You can attach an internet gateway to a VPC with a private NAT gateway, but if you route traffic from the private NAT gateway to the internet gateway, the internet gateway drops the traffic.
+
+[NAT gateways - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html)
+
 ### VPC NAT Gateway Costs
 
-Using a single natgateway that exists in only mumbai-1a az. Due to this other applications which are in other 2 az’s of mumbai region server through the mumbai-1a az. This architecture may be the cause of regional data transfer costs. We can save this cost by creating az specific natgateway.
+Using a single nat gateway that exists in only mumbai-1a az. Due to this other applications which are in other 2 az’s of mumbai region server through the mumbai-1a az. This architecture may be the cause of regional data transfer costs. We can save this cost by creating az specific natgateway.
 
 - [Monitor NAT gateways with Amazon CloudWatch - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway-cloudwatch.html)
 - [High cost in NatGateway bytes | AWS re:Post](https://repost.aws/questions/QUTdLrXmoISSerSzHivJ8yAA/high-cost-in-natgateway-bytes)
@@ -167,6 +179,14 @@ Using a single natgateway that exists in only mumbai-1a az. Due to this other ap
 - [Reduce data transfer charges for a NAT gateway | AWS re:Post](https://repost.aws/knowledge-center/vpc-reduce-nat-gateway-transfer-costs)
 - [Understand AWS Data transfer details in depth from cost and usage report using Athena query and QuickSight | Networking & Content Delivery](https://aws.amazon.com/blogs/networking-and-content-delivery/understand-aws-data-transfer-details-in-depth-from-cost-and-usage-report-using-athena-query-and-quicksight/)
 - [AWS NAT Gateway Pricing: How To Reduce Your Costs](https://www.cloudzero.com/blog/reduce-nat-gateway-costs/)
+
+## Internet Gateway (IGW) vs Nat Gateway vs VPC Endpoint
+
+- **Internet Gateway (IGW)** connects your VPC to the internet for resources with public IPs, enabling both inbound and outbound traffic
+- **NAT Gateway** allows instances in private subnets to connect to the internet for outbound traffic but prevents the internet from initiating inbound connections
+- **VPC Endpoint** provides a secure, private connection to specific AWS services from within your VPC, keeping traffic off the public internet and improving security and performance
+
+[AWS — Difference between Internet Gateway and NAT Gateway \| by Ashish Patel \| Awesome Cloud \| Medium](https://medium.com/awesome-cloud/aws-vpc-difference-between-internet-gateway-and-nat-gateway-c9177e710af6)
 
 ## Interface Endpoint vs Gateway Endpoint
 
