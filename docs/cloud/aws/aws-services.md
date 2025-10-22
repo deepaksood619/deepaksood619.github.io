@@ -92,6 +92,7 @@ Scale Multiple Resources to Meet Demand
 
 1. AWS CloudTrail - Track User Activity and API Usage
 2. AWS Config - Track Resource Inventory and Changes
+	1. There are two frequencies at which AWS Config can deliver configuration items: periodic and continuous. Periodic recording delivers configuration data once every 24 hours, only if a change has occurred, which may be useful for use cases such as operational planning or audit. Continuous recording delivers configuration items whenever a change occurs. It helps you meet security and compliance requirements to track all configuration changes.
 3. AWS OpsWorks - Automate Operations with Chef and Puppet
 	1. OpsWorks is a configuration management service that helps you configure and operate applications in a cloud enterprise by using Puppet or Chef. OpsWorks Stacks and AWS OpsWorks for Chef Automate let you use Chef cookbooks and solutions for configuration management, while OpsWorks for Puppet Enterprise lets you configure a Puppet Enterprise master server in AWS. Puppet offers a set of tools for enforcing the desired state of your infrastructure, and automating on-demand tasks.
 4. AWS Service Catalog - Create and Use Standardized Products
@@ -230,6 +231,11 @@ https://aws.amazon.com/eventbridge
 Amazon EventBridge Scheduler is a serverless scheduler that allows you to create, run, and manage tasks from one central, managed service. Highly scalable, EventBridge Scheduler allows you to schedule millions of tasks that can invoke more than 270 AWS services and over 6,000 API operations. Without the need to provision and manage infrastructure, or integrate with multiple services, EventBridge Scheduler provides you with the ability to deliver schedules at scale and reduce maintenance costs.
 
 EventBridge Scheduler delivers your tasks reliably, with built-in mechanisms that adjust your schedules based on the availability of downstream targets. With EventBridge Scheduler, you can create schedules using cron and rate expressions for recurring patterns, or configure one-time invocations. You can set up flexible time windows for delivery, define retry limits, and set the maximum retention time for failed triggers.
+
+- Use a _cron_ expression to run the rule at specific times and dates.
+- Use a _rate_ expression to run the rule at regular intervals.
+
+[Using cron and rate expressions to schedule rules in Amazon EventBridge - Amazon EventBridge](https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-scheduled-rule-pattern.html)
 
 #### Key features of EventBridge Scheduler
 

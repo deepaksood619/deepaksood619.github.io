@@ -226,6 +226,48 @@ Auto Scaling Policies
 - You can put an instance that is in the `InService` state into the `Standby` state, update or troubleshoot the instance, and then return the instance to service. Instances that are on standby are still part of the Auto Scaling group, but they do not actively handle load balancer traffic.
 - The `ReplaceUnhealthy` process terminates instances that are marked as unhealthy and then creates new instances to replace them. Amazon EC2 Auto Scaling stops replacing instances that are marked as unhealthy. Instances that fail EC2 or Elastic Load Balancing health checks are still marked as unhealthy. As soon as you resume the `ReplaceUnhealthly` process, Amazon EC2 Auto Scaling replaces instances that were marked unhealthy while this process was suspended.
 
+### Termination Policy
+
+Amazon EC2 Auto Scaling uses termination policies to decide the order for terminating instances. You can use a predefined policy or create a custom policy to meet your specific requirements. By using a custom policy or instance scale in protection, you can also prevent your Auto Scaling group from terminating instances that aren't yet ready to terminate.
+
+#### When Amazon EC2 Auto Scaling uses termination policies
+
+- Scale in events
+- Instance refresh
+- Availability Zone rebalancing
+
+#### Default termination policy
+
+When Amazon EC2 Auto Scaling needs to terminate an instance, it first identifies which Availability Zone (or Zones) has the most instances and at least one instance that is not protected from scale in. Then, it proceeds to evaluate unprotected instances within the identified Availability Zone as follows:
+
+##### Instances that use outdated configurations
+
+- **For groups that use a launch template** – Determine whether any of the instances use outdated configurations, prioritizing in this order:
+
+    1. First, check for instances launched with a launch configuration.
+    2. Then, check for instances launched using a different launch template instead of the current launch template.
+    3. Finally, check for instances using the oldest version of the current launch template.
+
+- For groups that use a launch configuration – Determine whether any of the instances use the oldest launch configuration.
+
+If no instances with outdated configurations are found, or there are multiple instances to choose from, Amazon EC2 Auto Scaling considers the next criteria of instances approaching their next billing hour.
+
+##### Instances approaching next billing hour
+
+Determine whether any of the instances that meet the previous criteria are closest to the next billing hour. If multiple instances are equally close, terminate one at random. This helps you maximize the use of your instances that are billed hourly. However, most EC2 usage is now billed per second, so this optimization provides less benefit.
+
+![AWS Default Termination Policy](../../../media/Pasted%20image%2020251022093028.png)
+
+#### Example
+
+**Question -** Amazon EC2 Auto Scaling needs to terminate an instance from Availability Zone (AZ) `us-east-1a` as it has the most number of instances amongst the Availability Zone (AZs) being used currently. There are 4 instances in the Availability Zone (AZ) `us-east-1a` like so: Instance A has the oldest launch template, Instance B has the oldest launch configuration, Instance C has the newest launch configuration and Instance D is closest to the next billing hour.
+
+**Answer -** Per the default termination policy, the first priority is given to any allocation strategy for On-Demand vs Spot instances. As no such information has been provided for the given use-case, so this criterion can be ignored. The next priority is to consider any instance with the **oldest launch template** unless there is an instance that uses a launch configuration. So this rules out Instance A. Next, you need to consider any instance which has the **oldest launch configuration**. This implies Instance B will be selected for termination and Instance C will also be ruled out as it has the newest launch configuration. Instance D, which is **closest to the next billing hour**, is not selected as this criterion is last in the order of priority.
+
+[Control which Auto Scaling instances terminate during scale in - Amazon EC2 Auto Scaling](https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-instance-termination.html)
+
+[Configure termination policies for Amazon EC2 Auto Scaling - Amazon EC2 Auto Scaling](https://docs.aws.amazon.com/autoscaling/ec2/userguide/ec2-auto-scaling-termination-policies.html)
+
 ## EC2 > Networking > Elastic IP Addresses
 
 An Elastic IP address is a static IPv4 address designed for dynamic cloud computing. An Elastic IP address is associated with your AWS account. With an Elastic IP address, you can mask the failure of an instance or software by rapidly remapping the address to another instance in your account.
@@ -271,3 +313,23 @@ Before you use placement groups, be aware of the following rules:
 [Placement strategies for your placement groups - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-strategies.html)
 
 [Choosing the Right EC2 Placement Group Type for Your Workloads \| by Brandon Damue \| Medium](https://medium.com/@dbrandonbawe/choosing-the-right-ec2-placement-group-type-for-your-workloads-3d93b6d83fc8)
+
+## EC2 Instance metadata and user data
+
+### Instance Metadata
+
+**Instance metadata is data about your instance that you can use to configure or manage the running instance.** Instance metadata is divided into [categories](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instancedata-data-categories.html), for example, host name, events, and security groups.
+
+EC2 instance metadata is a service accessible from within EC2 instances, which allows querying or managing data about a given running instance.
+
+It is possible to retrieve an instance’s IAM access key by accessing the `iam/security-credentials/role-name` metadata category. This returns a temporary set of credentials that the EC2 instance automatically uses for communicating with AWS services.
+
+[Instance metadata and user data - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html)
+
+### User Data
+
+User Data is generally used to perform common automated configuration tasks and even run scripts after the instance starts. When you launch an instance in Amazon EC2, you can pass two types of user data - shell scripts and cloud-init directives. You can also pass this data into the launch wizard as plain text or as a file.
+
+**Scripts entered as user data are executed as the root user**, hence do not need the sudo command in the script. Any files you create will be owned by root; if you need non-root users to have file access, you should modify the permissions accordingly in the script.
+
+By default, user data scripts and cloud-init directives run only **during the boot cycle when you first launch an instance**. You can update your configuration to ensure that your user data scripts and cloud-init directives run every time you restart your instance.

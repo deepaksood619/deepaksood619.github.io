@@ -326,3 +326,7 @@ Design a parking lot using object-oriented principles
 - Tell us when the parking lot is empty
 - Tell us when certain spots are full e.g. when all motorcycle spots are taken
 - Tell us how many spots vans are taking up
+
+## Links
+
+[Question Bank](https://docs.google.com/spreadsheets/d/1iap0smKltoGDfr8kDj6dM__jh53Ng3HJ/edit#gid=144102656)

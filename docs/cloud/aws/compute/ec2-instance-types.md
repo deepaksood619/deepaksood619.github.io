@@ -156,7 +156,19 @@ https://aws.amazon.com/ec2/pricing/reserved-instances/pricing
 
 ## EC2 Dedicated Host vs Dedicated Instances
 
-Dedicated Hosts are entire physical servers reserved for a single customer, providing complete isolation and control, ideal for server-bound licenses and compliance. Dedicated Instances are EC2 instances running on hardware exclusively for your account but sharing physical servers with your other instances, offering a balance of isolation and cost-efficiency. The key differences lie in the level of isolation, control, and cost, with Hosts being more expensive but offering greater visibility and flexibility for specific software licenses.
+### Dedicated Hosts
+
+**Dedicated Hosts** are entire physical servers reserved for a single customer, providing complete isolation and control, ideal for server-bound licenses and compliance.
+
+A Dedicated Host is also a physical server that's dedicated for your use. With a Dedicated Host, you have visibility and control over how instances are placed on the server.
+
+### Dedicated Instances
+
+**Dedicated Instances** are EC2 instances running on hardware exclusively for your account but sharing physical servers with your other instances, offering a balance of isolation and cost-efficiency. The key differences lie in the level of isolation, control, and cost, with Hosts being more expensive but offering greater visibility and flexibility for specific software licenses.
+
+Dedicated Instances are Amazon EC2 instances that run in a virtual private cloud (VPC) on hardware that's dedicated to a single customer. **Dedicated Instances that belong to different AWS accounts are physically isolated at a hardware level, even if those accounts are linked to a single-payer account.** However, Dedicated Instances may share hardware with other instances from the same AWS account that are not Dedicated Instances.
+
+### Difference
 
 |                                               | Dedicated Host                                                                                | Dedicated Instances  |
 | --------------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------- |
@@ -192,19 +204,7 @@ Intel, AMD, and Graviton each come with tradeoffs:
 - [GitHub - aws/aws-graviton-getting-started: Helping developers to use AWS Graviton2, Graviton3, and Graviton4 processors which power the 6th, 7th, and 8th generation of Amazon EC2 instances (C6g\[d\], M6g\[d\], R6g\[d\], T4g, X2gd, C6gn, I4g, Im4gn, Is4gen, G5g, C7g\[d\]\[n\], M7g\[d\], R7g\[d\], R8g).](https://github.com/aws/aws-graviton-getting-started)
 - [aws-graviton-getting-started/transition-guide.md at main · aws/aws-graviton-getting-started · GitHub](https://github.com/aws/aws-graviton-getting-started/blob/main/transition-guide.md)
 
-## EC2
-
-### EC2 Instance metadata and user data
-
-_Instance metadata_ is data about your instance that you can use to configure or manage the running instance. Instance metadata is divided into [categories](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instancedata-data-categories.html), for example, host name, events, and security groups.
-
-EC2 instance metadata is a service accessible from within EC2 instances, which allows querying or managing data about a given running instance.
-
-It is possible to retrieve an instance’s IAM access key by accessing the `iam/security-credentials/role-name` metadata category. This returns a temporary set of credentials that the EC2 instance automatically uses for communicating with AWS services.
-
-[Instance metadata and user data - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html)
-
-### AWS Systems Manager
+## AWS Systems Manager
 
 [Working with the file system - AWS Systems Manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/fleet-file-management.html)
 
@@ -214,13 +214,13 @@ It is possible to retrieve an instance’s IAM access key by accessing the `iam/
 
 [AWS Systems Manager Inventory - AWS Systems Manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-inventory.html)
 
-### Instance Scheduler
+## Instance Scheduler
 
 [Instance Scheduler on AWS](https://aws.amazon.com/solutions/implementations/instance-scheduler-on-aws/)
 
 [Automate starting and stopping AWS instances - Instance Scheduler on AWS](https://docs.aws.amazon.com/solutions/latest/instance-scheduler-on-aws/solution-overview.html)
 
-### AWS AppConfig
+## AWS AppConfig
 
 - Feature Flags
 

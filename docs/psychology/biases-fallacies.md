@@ -303,23 +303,23 @@ The hot hand fallacy is the psychological condition that people believe an indiv
 
 ## Kids These Days (KTD) effect / Bias
 
-The "Kids These Days" (KTD) effect is **the tendency for adults to believe the current generation of young people is worse than previous generations due to flawed memories and biased perceptions**. This phenomenon occurs because people tend to remember their own generation as having possessed positive traits, like intelligence or respect, and then compare the current generation to this idealized past, leading them to see a decline that may not actually exist. This is a form of confirmation bias, where memory is biased to match one's current standing or beliefs. 
+The "Kids These Days" (KTD) effect is **the tendency for adults to believe the current generation of young people is worse than previous generations due to flawed memories and biased perceptions**. This phenomenon occurs because people tend to remember their own generation as having possessed positive traits, like intelligence or respect, and then compare the current generation to this idealized past, leading them to see a decline that may not actually exist. This is a form of confirmation bias, where memory is biased to match one's current standing or beliefs.
 
 Two mechanisms contribute to humanity’s perennial tendency to denigrate kids: a person-specific tendency to notice the limitations of others where one excels and a memory bias projecting one’s current qualities onto the youth of the past. When observing current children, we compare our biased memory to the present and a decline appears. This may explain why the kids these days effect has been happening for millennia.
 
-- **Biased memory:** 
+- **Biased memory:**
 
-    The KTD effect is rooted in faulty memory. People tend to remember their own youth more favorably and their memory is influenced by their current self. 
+    The KTD effect is rooted in faulty memory. People tend to remember their own youth more favorably and their memory is influenced by their current self.
 
-- **Imposing personal traits:** 
+- **Imposing personal traits:**
 
-    An individual's personal strengths and weaknesses are often projected onto their memory of their own peers. For example, a well-read person might remember their friends as being more well-read than they actually were, and then view the current generation as less well-read by comparison. 
+    An individual's personal strengths and weaknesses are often projected onto their memory of their own peers. For example, a well-read person might remember their friends as being more well-read than they actually were, and then view the current generation as less well-read by comparison.
 
-- **Historical precedent:** 
+- **Historical precedent:**
 
-    This isn't a new phenomenon; complaints about the "kids these days" have been documented for millennia, with figures like Socrates and Aristotle expressing similar sentiments about the youth of their time. 
+    This isn't a new phenomenon; complaints about the "kids these days" have been documented for millennia, with figures like Socrates and Aristotle expressing similar sentiments about the youth of their time.
 
-- **Misleading evidence:** 
+- **Misleading evidence:**
 
     While it may seem that contemporary children lack certain traits, studies have shown this perception can be misleading. For instance, research on the "Marshmallow Test" found that children in recent cohorts were actually better at delaying gratification than those in earlier ones, contradicting common belief.
 

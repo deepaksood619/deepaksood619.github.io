@@ -63,9 +63,13 @@ AWS Identity and Access Management (IAM) enables you to manage access to AWS ser
 
 Guardrails to disable service access on the principals in the account
 
-### Service Control Policies (SCPs)
+### Service Control Policies (SCPs / SCP)
 
 Service control policies (SCPs) are a type of organization policy that you can use to manage permissions in your organization. SCPs offer central control over the maximum available permissions for all accounts in your organization. SCPs help you to ensure your accounts stay within your organization’s access control guidelines.
+
+An SCP restricts permissions for IAM users and roles in member accounts, including the member account's root user. Any account has only those permissions permitted by every parent above it. If a permission is blocked at any level above the account, either implicitly (by not being included in an Allow policy statement) or explicitly (by being included in a Deny policy statement), a user or role in the affected account can't use that permission, even if the account administrator attaches the AdministratorAccess IAM policy with _/_ permissions to the user.
+
+SCPs don't affect users or roles in the management account. They affect only the member accounts in your organization.
 
 [Service control policies (SCPs) - AWS Organizations](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html)
 
@@ -185,7 +189,7 @@ One particularly useful category of AWS managed policies are those designed for 
 
 ### [Customer Managed Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-vs-inline.html#customer-managed-policies)
 
-You can create standalone policies that you administer in your own AWS account, which we refer to as *customer managed policies*. You can then attach the policies to multiple principal entities in your AWS account. When you attach a policy to a principal entity, you give the entity the permissions that are defined in the policy.
+You can create standalone policies that you administer in your own AWS account, which we refer to as _customer managed policies_. You can then attach the policies to multiple principal entities in your AWS account. When you attach a policy to a principal entity, you give the entity the permissions that are defined in the policy.
 
 A great way to create a customer managed policy is to start by copying an existing AWS managed policy. That way you know that the policy is correct at the beginning and all you need to do is customize it to your environment.
 
