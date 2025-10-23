@@ -191,3 +191,13 @@ Preprocess datasets, run inference when you don't need a persistent endpoint, an
 - https://aws.amazon.com/blogs/machine-learning/understanding-amazon-sagemaker-notebook-instance-networking-configurations-and-advanced-routing-options
 - [AWS Innovate | Intro to Deep Learning: Building an Image Classifier on Amazon SageMaker - YouTube](https://www.youtube.com/watch?v=KCzgR7eQ3PY&ab_channel=AmazonWebServices)
 - [Introducing the next generation of Amazon SageMaker: The center for all your data, analytics, and AI | AWS News Blog](https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-sagemaker-the-center-for-all-your-data-analytics-and-ai/)
+- [Amazon SageMaker Unified Studio: Getting started with analytics - YouTube](https://www.youtube.com/watch?v=C8SwdZTP1c4)
+- [AWS re:Invent 2024-Next-generation Amazon SageMaker: The center for data, analytics & AI(ANT206-NEW) - YouTube](https://www.youtube.com/watch?v=5ZN-90fi3II)
+- [Amazon Bedrock IDE demo in Amazon SageMaker Unified Studio \| Amazon Web Services - YouTube](https://www.youtube.com/watch?v=ZxAQXpSFwKk)
+- [End To End Machine Learning Project Implementation Using AWS Sagemaker - YouTube](https://www.youtube.com/watch?v=Le-A72NjaWs)
+- [What Happened to Amazon SageMaker? Changes and New Services Explained in Plain English - YouTube](https://www.youtube.com/watch?v=iVIcl-546qA)
+- [Amazon SageMaker Unified Studio Integration with Amazon QuickSight - YouTube](https://www.youtube.com/watch?v=Y4lDkM36fCw)
+- [Streamlining Data & AI Workflows with Amazon SageMaker Unified Studio \| AWS Events - YouTube](https://www.youtube.com/watch?v=9rxlBsBtaxY)
+- [Introduction to data lineage in Amazon SageMaker Unified Studio \| Amazon Web Services - YouTube](https://www.youtube.com/watch?v=eGGsV7oZVvs)
+- [🚀 Amazon SageMaker Unified Studio + Bedrock \| Build AI Agents Faster! - YouTube](https://www.youtube.com/watch?v=xOOPPKRA3XE)
+- [Amazon SageMaker overview \| Amazon Web Services - YouTube](https://www.youtube.com/watch?v=mzkHGEyAPEw)

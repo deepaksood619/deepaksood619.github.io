@@ -18,7 +18,7 @@ For your [MySQL](https://aws.amazon.com/rds/mysql/), [MariaDB](https://aws.amazo
 
 Amazon RDS offers two replication options to enhance availability and performance:
 
-### [Multi-AZ deployments](https://aws.amazon.com/rds/features/multi-az/)
+### 1. [Multi-AZ deployments](https://aws.amazon.com/rds/features/multi-az/)
 
 Multi-AZ gives high availability and automatic failover. Amazon RDS creates a storage-level replica of the database in a second Availability Zone. It then synchronously replicates data from the primary to the standby DB instance for high availability. The primary DB instance serves application requests, while the standby DB instance remains ready to take over in case of a failure. Amazon RDS manages all aspects of failure detection, failover, and repair actions so the applications using the database can be highly available.
 
@@ -51,7 +51,11 @@ You can improve the performance of write transactions with RDS Optimized Writes 
 
 [Improving write performance with RDS Optimized Writes for MySQL - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/rds-optimized-writes.html#rds-optimized-writes-overview)
 
-### [Read replicas](https://aws.amazon.com/rds/features/read-replicas/)
+#### Upgrades
+
+Any database engine level upgrade for an Amazon RDS database instance with Multi-AZ deployment triggers both the primary and standby database instances to be upgraded at the same time. **This causes downtime until the upgrade is complete.**
+
+### 2. [Read replicas](https://aws.amazon.com/rds/features/read-replicas/)
 
 Read Replicas allow applications to scale their read operations across multiple database instances. The database engine replicates data asynchronously to the read replicas. The application sends the write requests (`INSERT`, `UPDATE`, and `DELETE`) to the primary database, and read requests (`SELECT`) can be load balanced across read replicas. In case of failure of the primary node, [you can manually promote a read replica to become the new primary database](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.html#USER_ReadRepl.Promote).
 

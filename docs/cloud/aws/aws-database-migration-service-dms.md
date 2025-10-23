@@ -207,3 +207,19 @@ mysqldump --no-data --routines --events -h SOURCE_DB_SERVER_NAME -u DMS_USER -p 
 
 - [Migrating a MySQL Database to RDS for MySQL or Aurora MySQL - Database Migration Guide](https://docs.aws.amazon.com/dms/latest/sbs/chap-manageddatabases.mysql2rds.html)
 - [Accelerate your database migration journey using AWS DMS Schema Conversion | AWS Database Blog](https://aws.amazon.com/blogs/database/accelerate-your-database-migration-journey-using-aws-dms-schema-conversion/)
+
+## AWS Data Sync
+
+AWS DataSync is an online data transfer service that simplifies, automates, and accelerates copying large amounts of data to and from AWS storage services over the internet or AWS Direct Connect.
+
+AWS DataSync fully automates and accelerates moving large active datasets to AWS, up to 10 times faster than command-line tools. It is natively integrated with Amazon S3, Amazon EFS, Amazon FSx for Windows File Server, Amazon CloudWatch, and AWS CloudTrail, which provides seamless and secure access to your storage services, as well as detailed monitoring of the transfer.
+
+AWS DataSync uses a purpose-built network protocol and scale out architecture to transfer data. A single DataSync agent is capable of saturating a 10 Gbps network link.
+
+AWS DataSync fully automates the data transfer. It comes with retry and network resiliency mechanisms, network optimizations, built-in task scheduling, monitoring via the DataSync API and Console, and Amazon CloudWatch metrics, events, and logs that provide granular visibility into the transfer process. AWS DataSync performs data integrity verification both during the transfer and at the end of the transfer.
+
+[Data Transfer Service - AWS DataSync - AWS](https://aws.amazon.com/datasync/)
+
+## AWS Transfer Family
+
+The AWS Transfer Family provides fully managed support for file transfers directly into and out of Amazon S3 and Amazon EFS.

@@ -474,3 +474,7 @@ https://www.upcounsel.com/safe-notes
 - The company valuation, investment amount, percentage stake, voting rights, liquidation preference, anti-dilutive provisions, and investor commitment are some items that should be spelled out in the term sheet.
 
 https://www.investopedia.com/terms/t/termsheet.asp
+
+## Links
+
+- [Sebi’s new guidelines for operation of accounts in case of an incapacitated investor](https://freefincal.com/sebis-new-guidelines-for-operation-of-accounts-in-case-of-an-incapacitated-investor/)

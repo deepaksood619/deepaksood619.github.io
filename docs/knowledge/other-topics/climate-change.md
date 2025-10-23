@@ -40,6 +40,7 @@ https://www.pmfias.com/carbon-nitrogen-phosphorus-sulphur-cycle
 - [Delhi's Air Quality Readings Top 1,700 as Residents Choke  | Vantage With Palki Sharma - YouTube](https://www.youtube.com/watch?v=C_cHsNWjBKE)
 - [आज भी AQI 500 है, कहां भाग कर जाएं लोग, दूसरे शहर भी बेहाल - YouTube](https://www.youtube.com/watch?v=PdQ2M5DCPts)
 - [क्या होगा इस हवा का? | Air Pollution in North India - YouTube](https://www.youtube.com/watch?v=tDAavaJN47E)
+- [What’s Choking Indian Cities To Death? \| Reality of Diwali & Pollution In India \| Akash Banerjee - YouTube](https://www.youtube.com/watch?v=18VWC6Q-zcs)
 
 ## Global Warming
 

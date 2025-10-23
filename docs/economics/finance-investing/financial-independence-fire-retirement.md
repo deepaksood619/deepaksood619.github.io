@@ -152,3 +152,4 @@ https://economictimes.indiatimes.com/wealth/save/set-limits-when-it-comes-to-hel
 - [Implementing a retirement bucket strategy with minimal churn](https://freefincal.com/implementing-a-retirement-bucket-strategy-with-minimal-churn/)
 - [What should be my retirement corpus if my current monthly expenses are Rs 1 lakh?](https://freefincal.com/what-should-be-my-retirement-corpus-if-my-current-monthly-expenses-are-rs-1-lakh/)
 - [How much corpus do I need to retire in India?](https://freefincal.com/how-much-corpus-do-i-need-to-retire-in-india/)
+- [Should I sell equity and move to Debt to maintain a 50:50 allocation at retirement?](https://freefincal.com/should-i-sell-equity-and-move-to-debt-to-maintain-a-5050-allocation-at-retirement/)

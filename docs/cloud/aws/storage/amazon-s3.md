@@ -66,6 +66,19 @@ Amazon S3 runs upon the world's largest global cloud infrastructure, and was bui
 
 Amazon S3 is a highly secure storage service. S3 is the only cloud storage platform that supports three different forms of encryption, including server-side-encryption and client-side-encryption. You can manage access to Amazon S3 by granting other AWS accounts and users permissions to perform resource operations by writing an access policy.
 
+### Ownership / Permissions
+
+By default, an Amazon S3 object is owned by the AWS account that uploaded it. This is true even when the bucket is owned by another account. Because the Amazon Redshift data files from the UNLOAD command were put into your bucket by another account, you (the bucket owner) don't have default permission to access those files.
+
+To get access to the data files, an AWS Identity and Access Management (IAM) role with cross-account permissions must run the UNLOAD command again. Follow these steps to set up the Amazon Redshift cluster with cross-account permissions to the bucket:
+
+1. From the account of the Amazon S3 bucket, create an IAM role (Bucket Role) with permissions to the bucket.
+2. From the account of the Amazon Redshift cluster, create another IAM role (Cluster Role) with permissions to assume the Bucket Role.
+3. Update the Bucket Role to grant bucket access and create a trust relationship with the Cluster Role.
+4. From the Amazon Redshift cluster, run the UNLOAD command using the Cluster Role and Bucket Role.
+
+This solution doesn't apply to Amazon Redshift clusters or Amazon S3 buckets that use server-side encryption with AWS Key Management Service (AWS KMS).
+
 ## AWS Consistency model
 
 Amazon S3 delivers [strong read-after-write consistency](https://aws.amazon.com/blogs/aws/amazon-s3-update-strong-read-after-write-consistency/) automatically for all applications, without changes to performance or availability, without sacrificing regional isolation for applications, and at no additional cost. With strong consistency, S3 simplifies the migration of on-premises analytics workloads by removing the need to make changes to applications, and reduces costs by removing the need for extra infrastructure to provide strong consistency.
@@ -152,41 +165,6 @@ for event in r['Payload']:
         print("Stats details bytesProcessed: ")
         print(statsDetails['BytesProcessed'])
 ```
-
-## Object Lifecycle Management
-
-To manage your objects so that they are stored cost effectively throughout their lifecycle, configure their lifecycle. A lifecycle configuration is a set of rules that define actions that Amazon S3 applies to a group of objects.
-
-There are two types of actions:
-
-- **Transition actions -** Define when objects transition to another [storage class](https://docs.aws.amazon.com/AmazonS3/latest/dev/storage-class-intro.html). For example, you might choose to transition objects to the STANDARD_IA storage class 30 days after you created them, or archive objects to the S3 Glacier storage class one year after creating them.
-- **Expiration actions -** Define when objects expire. Amazon S3 deletes expired objects on your behalf.
-
-Amazon S3 runs lifecycle rules once every day. After the first time Amazon S3 runs the rules, all objects eligible for expiration are marked for deletion. You're no longer charged for objects that are marked for deletion. It can take a few days for the rules to run until the bucket is empty. This is because expiring object versions and cleaning up delete markers are asynchronous steps.
-
-https://aws.amazon.com/premiumsupport/knowledge-center/s3-empty-bucket-lifecycle-rule
-
-https://docs.aws.amazon.com/AmazonS3/latest/dev/object-lifecycle-mgmt.html
-
-https://docs.aws.amazon.com/AmazonS3/latest/userguide/how-to-set-lifecycle-configuration-intro.html
-
-[Configuring a bucket lifecycle configuration to delete incomplete multipart uploads - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/mpu-abort-incomplete-mpu-lifecycle-config.html)
-
-[removing expired delete markers, how does it work? | AWS re:Post](https://repost.aws/questions/QUK1eCj2OjT3mSOJbendDYWw/removing-expired-delete-markers-how-does-it-work)
-
-![S3 Lifecycle policies](../../../media/Screenshot%202025-09-27%20at%2011.28.51%20PM.jpg)
-
-### Minimum days for transition from S3 Standard or S3 Standard-IA to S3 Standard-lA or S3 One Zone-IA
-
-Before you transition objects from the S3 Standard or S3 Standard-IA storage classes to S3 Standard-IA or S3 One Zone-lA, you must store them **at least 30 days in the S3 Standard storage class**. For example, you cannot create a Lifecycle rule to transition objects to the S3 Standard-lA storage class one day after you create them. Amazon S3 doesn't transition objects within the first 30 days because newer objects are often accessed more frequently or deleted sooner than is suitable for S3 Standard-IA or S3 One Zone-IA storage.
-
-Similarly, if you are transitioning noncurrent objects (in versioned buckets), you can transition only objects that are at least 30 days noncurrent to S3 Standard-lA or S3 One Zone-IA storage.
-
-### Deleting huge amount of objects
-
-To delete an AWS S3 bucket with 500TB of data, the fastest and most cost-effective solution would be to use the S3 Lifecycle configuration.
-
-[Deleting a S3 bucket of size 500 TB | AWS re:Post](https://repost.aws/questions/QU5FKQm2XFSaCfNyYKHfzbRw/deleting-a-s3-bucket-of-size-500-tb)
 
 ## When should you use amazon S3
 
@@ -298,18 +276,6 @@ https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/examples-s3-transfer
 
 https://docs.aws.amazon.com/code-samples/latest/catalog/python-s3-file_transfer-demo_file_transfer.py.html
 
-## Glacier Deep Archieve
-
-[Using Amazon S3 Glacier with the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-services-glacier.html)
-
-```bash
-aws glacier help
-```
-
-#### Glacier Vault
-
-A vault is a container for storing archives. When you create a vault, you specify a vault name and the AWS Region in which you want to create the vault
-
 ## Storage Browser for Amazon S3
 
 - [Connect users to data through your apps with Storage Browser for Amazon S3 | AWS News Blog](https://aws.amazon.com/blogs/aws/connect-users-to-data-through-your-apps-with-storage-browser-for-amazon-s3/)
@@ -399,6 +365,8 @@ All Amazon S3 buckets have encryption configured by default. The default option 
 #### Server-side encryption with AWS Key Management Service (AWS KMS) keys (SSE-KMS)
 
 Server-side encryption with AWS KMS keys (SSE-KMS) is provided through an integration of the AWS KMS service with Amazon S3. With AWS KMS, you have more control over your keys. For example, you can view separate keys, edit control policies, and follow the keys in AWS CloudTrail. Additionally, you can create and manage customer managed keys or use AWS managed keys that are unique to you, your service, and your Region. For more information, see [Using server-side encryption with AWS KMS keys (SSE-KMS)](https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingKMSEncryption.html).
+
+An **encryption context** is a set of key-value pairs that contain additional contextual information about the data. When an encryption context is specified for an encryption operation, Amazon S3 must specify the same encryption context for the decryption operation. The encryption context offers another level of security for the encryption key. However, it is not useful for generating unique keys.
 
 #### Dual-layer server-side encryption with AWS Key Management Service (AWS KMS) keys (DSSE-KMS)
 

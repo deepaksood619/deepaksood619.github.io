@@ -433,3 +433,5 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [The Japanese Rule To Obedient Children](https://youtu.be/MH2VLh3r07s)
 - [Reality of KBC Kid \| Why are Kids becoming Arrogant? \| Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=V9bLCcBGt9g)
 - [The Fastest Way To Get Your Child To Walk (The Cruise Method) - YouTube](https://www.youtube.com/watch?v=-V8PSjYCyAs)
+- [9 Parenting Rules To Simplify Your Life (No More Yelling) - YouTube](https://www.youtube.com/watch?v=zSsNjPHRb1U)
+- [7 Japanese Parenting Secrets That Make Kids Obedient (Works Every Time!) - YouTube](https://www.youtube.com/watch?v=mfcpRBtctrk)

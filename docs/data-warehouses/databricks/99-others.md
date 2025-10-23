@@ -86,10 +86,7 @@ You can use Auto Loader to process billions of files to migrate or backfill a 
 
 ## Links
 
-[delta-lake](networking/others/delta-lake.md)
-
-[Partitions | Databricks on AWS](https://docs.databricks.com/sql/language-manual/sql-ref-partition.html)
-
-[DBeaver integration with Databricks | Databricks on AWS](https://docs.databricks.com/dev-tools/dbeaver.html)
-
-[Introducing English as the New Programming Language for Apache Spark | Databricks Blog](https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark)
+- [delta-lake](networking/others/delta-lake.md)
+- [Partitions | Databricks on AWS](https://docs.databricks.com/sql/language-manual/sql-ref-partition.html)
+- [DBeaver integration with Databricks | Databricks on AWS](https://docs.databricks.com/dev-tools/dbeaver.html)
+- [Introducing English as the New Programming Language for Apache Spark | Databricks Blog](https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark)

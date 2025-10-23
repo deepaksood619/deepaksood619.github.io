@@ -33,6 +33,8 @@ https://www.heimdalldata.com/aws
 
 http://demoa.heimdalldata.com:8087/docs/theory/caching.html
 
+Amazon ElastiCache can be used to significantly improve latency and throughput for many read-heavy application workloads (such as social networking, gaming, media sharing, leaderboard, and Q&A portals) or compute-intensive workloads (such as a recommendation engine) by allowing you to store the objects that are often read in the cache.
+
 #### ElastiCache using Redis
 
 https://aws.amazon.com/redis

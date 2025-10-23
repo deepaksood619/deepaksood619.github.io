@@ -82,9 +82,30 @@ Scale Multiple Resources to Meet Demand
 
 ### 3. AWS CloudFormation
 
-   Create and Manage Resources with Templates
+Create and Manage Resources with Templates
 
-   AWS CloudFormation provides a common language for you to model and provision AWS and third party application resources in your cloud environment. AWS CloudFormation allows you to use programming languages or a simple text file to model and provision, in an automated and secure manner, all the resources needed for your applications across all regions and accounts. This gives you a single source of truth for your AWS and third party resources.
+AWS CloudFormation provides a common language for you to model and provision AWS and third party application resources in your cloud environment. AWS CloudFormation allows you to use programming languages or a simple text file to model and provision, in an automated and secure manner, all the resources needed for your applications across all regions and accounts. This gives you a single source of truth for your AWS and third party resources.
+
+AWS CloudFormation utilizes templates, stacks, and stack sets to manage infrastructure as code. Each component serves a distinct purpose in defining, deploying, and managing AWS resources.
+
+- **CloudFormation Template:**
+
+    - A JSON or YAML-formatted text file that defines the AWS resources to be provisioned, their properties, and dependencies.
+    - It acts as a blueprint or declarative specification for your infrastructure.
+    - Templates are reusable and can be version-controlled, promoting consistency and automation.
+
+- **CloudFormation Stack:**
+
+    - A collection of AWS resources created and managed as a single unit based on a CloudFormation template.
+    - When you "create" a stack, CloudFormation provisions the resources specified in the template in a specific AWS account and region.
+    - Stacks provide a way to manage the lifecycle of a group of related resources, allowing for creation, update, and deletion of all resources together.
+
+- **CloudFormation StackSet:**
+
+    - An extension of stacks that allows you to deploy and manage a common CloudFormation template across multiple AWS accounts and regions with a single operation.
+    - StackSets are ideal for managing infrastructure in multi-account or multi-region environments, ensuring consistency across deployments.
+    - You define a StackSet in an administrator account, specifying target accounts and regions where stack instances will be created based on the same template.
+    - This enables centralized management of infrastructure deployments across an organization.
 
 [GitHub - stelligent/cfn\_nag: Linting tool for CloudFormation templates](https://github.com/stelligent/cfn_nag)
 

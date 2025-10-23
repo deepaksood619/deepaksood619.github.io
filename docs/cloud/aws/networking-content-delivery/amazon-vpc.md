@@ -89,10 +89,6 @@ There are two types of VPC endpoints: **interface endpoints** and **gateway endp
 - **Gateway Endpoints** (S3, DynamoDB only) → route table based.
 - **Interface Endpoints (PrivateLink)** → ENI in your subnet, connects to AWS services or partner/customer services privately.
 
-### Interface Endpoint
-
-An [interface endpoint](https://docs.aws.amazon.com/vpc/latest/userguide/vpce-interface.html) is an elastic network interface with a private IP address from the IP address range of your subnet that serves as an entry point for traffic destined to a supported service.
-
 ### Gateway Endpoints
 
 A [gateway endpoint](https://docs.aws.amazon.com/vpc/latest/userguide/vpce-gateway.html) is a gateway that you specify as a target for a route in your route table for traffic destined to a supported AWS service. The following AWS services are supported:
@@ -102,7 +98,19 @@ A [gateway endpoint](https://docs.aws.amazon.com/vpc/latest/userguide/vpce-gatew
     - [Gateway endpoints for Amazon S3 - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/privatelink/vpc-endpoints-s3.html)
 - DynamoDB
 
+### Interface Endpoint
+
+An [interface endpoint](https://docs.aws.amazon.com/vpc/latest/userguide/vpce-interface.html) is an elastic network interface with a private IP address from the IP address range of your subnet that serves as an entry point for traffic destined to a supported service.
+
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-endpoints.html
+
+### SQS - VPC Endpoint
+
+AWS customers can access Amazon Simple Queue Service (Amazon SQS) from their Amazon Virtual Private Cloud (Amazon VPC) using VPC endpoints, without using public IPs, and without needing to traverse the public internet. VPC endpoints for Amazon SQS are powered by AWS PrivateLink, a highly available, scalable technology that enables you to privately connect your VPC to supported AWS services.
+
+Amazon VPC endpoints are easy to configure. They also provide reliable connectivity to Amazon SQS without requiring an internet gateway, Network Address Translation (NAT) instance, VPN connection, or AWS Direct Connect connection. With VPC endpoints, the data between your Amazon VPC and Amazon SQS queue is transferred within the Amazon network, helping protect your instances from internet traffic.
+
+AWS PrivateLink simplifies the security of data shared with cloud-based applications by eliminating the exposure of data to the public Internet. AWS PrivateLink provides private connectivity between VPCs, AWS services, and on-premises applications, securely on the Amazon network. AWS PrivateLink makes it easy to connect services across different accounts and VPCs to significantly simplify the network architecture.
 
 ## VPC Endpoint vs VPC Peering
 

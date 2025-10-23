@@ -35,6 +35,7 @@
         - [Sycophancy in GPT-4o: What happened and what we’re doing about it \| OpenAI](https://openai.com/index/sycophancy-in-gpt-4o/)
     - [Is it possible to call external API in the OpenAI playground? - API - OpenAI Developer Community](https://community.openai.com/t/is-it-possible-to-call-external-api-in-the-openai-playground/1098018/6) - External Functions
     - [Here are 3 Major Announcements from OpenAI DevDay - YouTube](https://www.youtube.com/shorts/6u-snbY_CXs)
+    - [Introducing ChatGPT Atlas - YouTube](https://www.youtube.com/live/8UWKxJbjriY)
 - [Grok \| xAI](https://x.ai/grok)
 - Vicuna
 - Bloom

@@ -114,3 +114,4 @@ Furthermore, AWS encourages the use of DynamoDB as a materialized view for relat
 - [A Deep Dive into Amazon DynamoDB Architecture](https://blog.bytebytego.com/p/a-deep-dive-into-amazon-dynamodb)
 - [Thank You | DynamoDB Cost Optimization Masterclass](https://lp.scylladb.com/dynamodb-cost-optimization-masterclass-ondemand-thanks)
 - [Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service - YouTube](https://youtu.be/cU01EnyBwQI)
+- [Understanding Amazon DynamoDB latency \| AWS Database Blog](https://aws.amazon.com/blogs/database/understanding-amazon-dynamodb-latency/)

@@ -388,7 +388,6 @@ Total with Duplicates - 331 services
 4. **Amazon Inspector** - Automated and continual vulnerability management for Amazon EC2 and Amazon ECR
 5. **Amazon Macie** - Discover and protect your sensitive data at scale
 6. **Amazon Security Lake** - Automatically centralize your security data with a few clicks
-	1. [Security Data Management - Amazon Security Lake - AWS](https://aws.amazon.com/security-lake/)
 7. **Amazon Verified Permissions** - Fine-grained permissions and authorization for your applications
 8. **AWS Artifact** - On-demand access to AWS’ compliance reports
 9. **AWS Audit Manager** - Continuously audit your AWS usage to simplify how you assess risk and compliance

@@ -33,32 +33,6 @@ Amazon Simple Storage Service (Amazon S3) is object based storage, Amazon Elasti
 - EBS is scalable up or down with a single API call. Since EBS is cheaper than EFS, you can use it for database backups and other low-latency interactive applications that require consistent, predictable performance.
 - [EFS](https://dzone.com/articles/using-amazon-efs-for-container-workloads) is best used for large quantities of data, such as large analytic workloads. Data at this scale cannot be stored on a single EC2 instance allowed in EBS - requiring users to break up data and distribute it between EBS instances. The EFS service allows concurrent access to thousands of EC2 instances, making it possible to process and analyze large amounts of data seamlessly.
 
-## Managed File Storage for EC2
-
-EFS delivers a simple, scalable, elastic, highly available, and highly durable network file system as-a-service to EC2 instances. Amazon EFS storage capacity is elastic and is capable of growing and shrinking automatically as you add and remove files without disrupting your EFS applications.
-
-### Usage
-
-EFS is designed to provide a highly scalable network file system that can grow to petabytes and allows massively parallel access from EC2 instances. EFS supports Network File System versions 4 (NFSv4) and 4.1 (NFSv4.1).
-
-When mounted up on Amazon EC2 instances, the EFS file system provides a standard file system interface and file system access. Multiple Amazon EC2 instances can access an Amazon EFS file system(as a shared storage location). Thus, applications that scale beyond a single instance can access a file system.You can mount your EFS file systems on your on-premises datacenter servers when connected to your Amazon Virtual Private Cloud (VPC) with AWS Direct Connect service.
-
-### Durability & availability
-
-Each Amazon EFS file system object (such as a directory, file or link) is redundantly stored across multiple availability zones within a region. Amazon EFS is designed to be as highly durable and available as Amazon S3.
-
-### Security
-
-There are three main levels of access controls to consider when it comes to EFS file system.
-
-1. IAM permissions for API calls
-2. Security groups for EC2 instances and mount targets
-3. Network File System-level users, groups, and permissions.
-
-Amazon groups play a critical role in establishing network connectivity between EC2 instances and EFS file systems. You can associate one security group with an EC2 instance and another security group with an EFS mount target associated with the file system. These security groups act as firewalls and enforce rules that define the traffic flow between EC2 instances and EFS file systems.
-
-- Create mount path
-
 ## Amazon EC2 Instance Storage
 
 EC2 Instance store provides temporary block-level storage for EC2 instances. This storage is located on disks that are physically attached to the host computer. Instance store is ideal for temporary storage of information that changes frequently such as buffers, caches and scratch data.
@@ -74,30 +48,6 @@ EC2 instance store volumes are not intended to be used as durable disk storage. 
 ### Security
 
 IAM service helps to gain secure control over which users can perform operations such as launch and termination of EC2 instances in your account. When you stop or terminate an instance, the applications and data in its instance store are erased, and thus no other instance can have access to the instance store in the future.
-
-## Amazon Glacier
-
-### Low-cost Archive Storage in the Cloud
-
-Amazon Glacier is a secure, durable, and extremely low-cost storage service for data archiving and long-term backup. Glacier provides 'query-in-place functionality', which allows you to run powerful analytics directly on archived data at rest. Glacier can make use of other AWS services such as S3, CloudFront etc. to move data in and out seamlessly for better and effective results.
-
-### Usage
-
-Amazon Glacier stores data in the form of archives. An archive can represent a single file, or you can combine several files to be uploaded as a single archive, and archives are organized in vaults. AWS Glacier is the only cloud archive storage service that allows you to query data in place and retrieve only the subset of data that you need from within an archive.
-
-### Durability & availability
-
-Since AWS Glacier is an archiving service, durability must be of utmost priority. Glacier is designed to provide average annual durability of 99.999999999% for archives. Data is automatically distributed across a minimum of three physical facilities that are geographically separated within an AWS Region.
-
-### Security
-
-By default, only the account owner can access Amazon Glacier data. If other people or services need to access the data, you can set up data access controls in AWS Glacier by using theAWS Identity and Access Management (IAM)service. Similarly, Glacier uses server-side encryption to encrypt all data at rest. Amazon Glacier allows you to lock vaults where long-term records retention is mandated, along with the use of lockable policies.
-
-### Retrieval
-
-- **Expedited -** Expedited retrievals allow you to quickly access your data when occasional urgent requests for a subset of archives are required. For all but the largest archives (250 MB+), data accessed using Expedited retrievals are typically made available within 1--5 minutes. Provisioned Capacity ensures that retrieval capacity for Expedited retrievals is available when you need it.
-- **Standard -** Standard retrievals allow you to access any of your archives within several hours. Standard retrievals typically complete within 3--5 hours. This is the default option for retrieval requests that do not specify the retrieval option.
-- **Bulk -** Bulk retrievals are S3 Glacier's lowest-cost retrieval option, which you can use to retrieve large amounts, even petabytes, of data inexpensively in a day. Bulk retrievals typically complete within 5--12 hours.
 
 ## AWS Storage Gateway
 
@@ -130,6 +80,17 @@ Storage Gateway is available in three types
 - Tape Gateway
 
 which support various use cases like cloud-backed file shares, iSCSI-based block storage, and virtual tape libraries for backup and archiving.
+
+### Volume Gateway
+
+Volume Gateway provides cloud-backed storage volumes that you can mount as Internet Small Computer System Interface (iSCSI) devices from your on-premises application servers.
+
+Volume Gateway supports the following volume configurations:
+
+- **Cached volumes –** You store your data in Amazon Simple Storage Service (Amazon S3) and retain a copy of frequently accessed data subsets locally. Cached volumes offer a substantial cost savings on primary storage and minimize the need to scale your storage on-premises. You also retain low-latency access to your frequently accessed data.
+- **Stored volumes –** If you need low-latency access to your entire dataset, first configure your on-premises gateway to store all your data locally. Then asynchronously back up point-in-time snapshots of this data to Amazon S3. This configuration provides durable and inexpensive offsite backups that you can recover to your local data center or Amazon Elastic Compute Cloud (Amazon EC2). For example, if you need replacement capacity for disaster recovery, you can recover the backups to Amazon EC2.
+
+[What is Volume Gateway? - AWS Storage Gateway](https://docs.aws.amazon.com/storagegateway/latest/vgw/WhatIsStorageGateway.html)
 
 ## AWS Snowball
 
@@ -218,6 +179,10 @@ The open-source Lustre file system is designed for applications that require fas
 **Amazon FSx for Lustre** is built for extreme performance in high-throughput, compute-intensive workloads like HPC, machine learning, and financial analytics, offering sub-millisecond latencies and millions of IOPS through its Lustre foundation. In contrast, **Amazon FSx for Windows File Server** is a fully managed service for Windows-based enterprise applications, providing native Microsoft Active Directory (AD) integration, end-user file restore, and Data Deduplication via the SMB protocol for common business workloads like file sharing and general-purpose processing.
 
 ## Links
+
+- [aws-database-migration-service-dms](cloud/aws/aws-database-migration-service-dms.md)
+- [AWS Data Sync - aws-database-migration-service-dms](cloud/aws/aws-database-migration-service-dms.md)
+- [AWS Transfer Family - aws-database-migration-service-dms](cloud/aws/aws-database-migration-service-dms.md)
 
 [Cloud Storage Options - Block Storage vs File Storage vs Object Storage Explained](https://www.freecodecamp.org/news/cloud-storage-options/)
 

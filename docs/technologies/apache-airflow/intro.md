@@ -131,3 +131,7 @@ https://www.youtube.com/playlist?list=PLCi-q9vYo4x-PESoBcXN0tXCMgzh5c_Pj
 - UI Modernization
 
 [Apache Airflow® 3 is Generally Available! \| Apache Airflow](https://airflow.apache.org/blog/airflow-three-point-oh-is-here/)
+
+## Links
+
+- [Introduction to Apache Airflow (Julian LaNeve) - YouTube](https://www.youtube.com/watch?v=bSKkzZsapZI)
