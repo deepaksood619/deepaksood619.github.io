@@ -200,14 +200,14 @@ Amazon FSx for OpenZFS is a fully managed file storage service that lets you lau
 | Max. throughput per file system                                      | 72-80 GB/s*                           | 10-21 GB/s*     | 12-20 GB/s*                 | 1000 GB/s      |
 | Max. throughput available to a single client accessing a file system | 18 GB/s                               | 10 GB/s         | 20 GB/s                     | 150 GB/s       |
 | Max. IOPS per file system                                            | Millions                              | 1-2 million     | Hundreds of thousands       | Millions       |
-| Maximum file system size                                             | Virtually unlimited  <br>(10s of PBs) | 512 TiB         | 64 TiB                      | Multiple PBs   |
+| Maximum file system size                                             | Virtually unlimited  (10s of PBs) | 512 TiB         | 64 TiB                      | Multiple PBs   |
 
 #### Accessibility and Integrations
 
 | |FSx for NetApp ONTAP|FSx for OpenZFS|FSx for Windows File Server|FSx for Lustre|
 |---|---|---|---|---|
 |Client compatibility|Windows, Linux macOS|Windows, Linux, macOS|Windows, Linux, macOS|Linux|
-|Protocol support|SMB 2.0, 2.1,  <br>3.0, 3.1.1  <br>NFS 3, 4.0, 4.1, 4.2  <br>iSCSI (shared block storage)|NFS 3, 4.0, 4.1, 4.2|SMB 2.0, 2.1,  <br>3.0, 3.1.1|Custom (POSIX-compliant) protocol optimized for performance|
+|Protocol support|SMB 2.0, 2.1,  3.0, 3.1.1  NFS 3, 4.0, 4.1, 4.2  iSCSI (shared block storage)|NFS 3, 4.0, 4.1, 4.2|SMB 2.0, 2.1,  3.0, 3.1.1|Custom (POSIX-compliant) protocol optimized for performance|
 |AWS Compute|EC2, ECS, EKS|EC2, ECS, EKS|EC2, ECS, EKS|EC2, ECS, EKS|
 |Automatic import/export of S3 data sets||||**✓**|
 

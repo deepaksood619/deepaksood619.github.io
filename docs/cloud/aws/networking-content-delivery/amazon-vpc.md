@@ -34,13 +34,21 @@ https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Route_Tables.html
 
 ![image](../../../media/Cloud-AWS-Amazon-VPC-image1.jpg)
 
-## Internet Gateways (IGW)
+## Internet Gateway (IGW)
 
 An internet gateway is a horizontally scaled, redundant, and highly available VPC component that allows communication between instances in your VPC and the internet. It therefore imposes no availability risks or bandwidth constraints on your network traffic.
 
-An internet gateway serves two purposes: to provide a target in your VPC route tables for internet-routable traffic, and to perform network address translation (NAT) for instances that have been assigned public IPv4 addresses.
+An internet gateway serves two purposes
+1. To provide a target in your VPC route tables for internet-routable traffic, and
+2. To perform network address translation (NAT) for instances that have been assigned public IPv4 addresses.
 
 An internet gateway supports IPv4 and IPv6 traffic.
+
+To enable access to or from the internet for instances in a subnet in a VPC, you must do the following:
+
+1. Attach an Internet gateway to your VPC.
+2. Add a route to your subnet's route table that directs internet-bound traffic to the internet gateway. If a subnet is associated with a route table that has a route to an internet gateway, it's known as a public subnet. If a subnet is associated with a route table that does not have a route to an internet gateway, it's known as a private subnet.
+3. Ensure that instances in your subnet have a globally unique IP address (public IPv4 address, Elastic IP address, or IPv6 address).
 
 https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html
 
