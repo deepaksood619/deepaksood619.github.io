@@ -1,8 +1,12 @@
 # Compute
 
 - [Amazon EC2](cloud/aws/compute/amazon-ec2.md)
-- [EC2 Instance Types](cloud/aws/compute/ec2-instance-types.md)
+- [Amazon EC2 Instance Types](cloud/aws/compute/amazon-ec2-instance-types.md)
+	- [Burstable Instances](cloud/aws/compute/burstable-instances.md)
+- [Amazon EC2 ASG](cloud/aws/compute/amazon-ec2-asg.md)
 - [AWS Lambda](cloud/aws/compute/aws-lambda.md)
+- [Amazon ECS](cloud/aws/compute/amazon-ecs.md)
+- [Amazon EKS](cloud/aws/compute/amazon-eks.md)
 
 ## Amazon Elastic Container Service
 

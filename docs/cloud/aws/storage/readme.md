@@ -196,7 +196,7 @@ Amazon FSx for OpenZFS is a fully managed file storage service that lets you lau
 
 |                                                                      | FSx for NetApp ONTAP                  | FSx for OpenZFS | FSx for Windows File Server | FSx for Lustre |
 | -------------------------------------------------------------------- | ------------------------------------- | --------------- | --------------------------- | -------------- |
-| Latency                                                              | <1 ms                                 | <0.5 ms         | <1 ms                       | <1 ms          |
+| Latency                                                              | `<1 ms`                                 | `<0.5 ms`         | `<1 ms`                       | `<1 ms`          |
 | Max. throughput per file system                                      | 72-80 GB/s*                           | 10-21 GB/s*     | 12-20 GB/s*                 | 1000 GB/s      |
 | Max. throughput available to a single client accessing a file system | 18 GB/s                               | 10 GB/s         | 20 GB/s                     | 150 GB/s       |
 | Max. IOPS per file system                                            | Millions                              | 1-2 million     | Hundreds of thousands       | Millions       |

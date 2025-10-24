@@ -25,7 +25,7 @@
 - [Compute](compute/readme.md)
     - [Amazon EKS](compute/amazon-eks)
     - [Amazon EC2](cloud/aws/compute/amazon-ec2.md)
-    - [EC2 Instance Types](compute/ec2-instance-types)
+    - [EC2 Instance Types](cloud/aws/compute/amazon-ec2-instance-types.md)
     - [Burstable Instances (T Class)](cloud/aws/compute/burstable-instances.md)
     - [Amazon ECS](cloud/aws/compute/amazon-ecs.md)
     - [AWS Lambda](compute/aws-lambda)

@@ -1,4 +1,4 @@
-# EC2 Instance types
+# Amazon EC2 Instance types
 
 [It just got easier to discover and compare EC2 instance types | AWS Compute Blog](https://aws.amazon.com/blogs/compute/it-just-got-easier-to-discover-and-compare-ec2-instance-types)
 
@@ -43,6 +43,14 @@
 - 1 year reserved is 37% cheaper than on-demand
 
 [m6g.large pricing and specs - Vantage](https://instances.vantage.sh/aws/ec2/m6g.large?region=ap-south-1&os=linux&cost_duration=monthly&reserved_term=Standard.noUpfront)
+
+## EC2 Tenancy
+
+Amazon EC2 provides three options for the tenancy of your EC2 instances:
+
+- **Shared (Shared) –** Multiple AWS accounts may share the same physical hardware. This is the default tenancy option when launching an instance.
+- **Dedicated instances (Dedicated) –** Your instance runs on single-tenant hardware. No other AWS customer shares the same physical server.
+- **Dedicated Hosts (Dedicated host) –** The instance runs on a physical server that is dedicated to your use. Using Dedicated Hosts makes it easier to bring your own licenses (BYOL) that have dedicated hardware requirements to EC2 and meet compliance use cases. If you choose this option, you must provide a host resource group for Tenancy host resource group.
 
 ## EC2 Instance Types
 
