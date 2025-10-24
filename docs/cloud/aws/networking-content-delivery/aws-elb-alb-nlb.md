@@ -28,6 +28,14 @@ Used for extreme performance, this load balancer operates at Layer 4 of the OSI 
 
 - Doesn't support security groups
 
+A Network Load Balancer functions at the fourth layer of the Open Systems Interconnection (OSI) model. It can handle millions of requests per second. After the load balancer receives a connection request, it selects a target from the target group for the default rule. It attempts to open a TCP connection to the selected target on the port specified in the listener configuration.
+
+### Request Routing and IP Addresses
+
+If you specify targets using an **instance ID**, traffic is routed to instances using the **primary private IP address specified in the primary network interface** for the instance. The load balancer rewrites the destination IP address from the data packet before forwarding it to the target instance.
+
+If you specify targets using **IP addresses**, you can route traffic to an instance using **any private IP address from one or more network interfaces**. This enables multiple applications on an instance to use the same port. Note that each network interface can have its security group. The load balancer rewrites the destination IP address before forwarding it to the target.
+
 ## Classic Load Balancer
 
 This load balancer operates at Layer 4 or Layer 7 of the OSI model. It is now mostly used for legacy applications that run on EC2-Classic since application load balancers provide more features.

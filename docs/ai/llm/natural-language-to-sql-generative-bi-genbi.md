@@ -52,7 +52,7 @@ from langchain import OpenAI, SQLDatabase, SQLDatabaseChain
 
 What are the rental patterns and lifetime value segments of customers, including their geographic clustering and seasonal preferences? answer the above question using the database
 
-[Customer Rental Pattern Analysis - Claude](https://claude.ai/share/49ca4d91-4aa7-4614-a528-29555cdc93b6)
+[Customer Rental Pattern Analysis - Claude](https://claude.ai/share/b7f21248-22df-446a-847e-26916b4cdff6)
 
 ## Links
 

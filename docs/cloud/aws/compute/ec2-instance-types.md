@@ -89,18 +89,6 @@ The "d" in "m5ad" indicates that these instances come with local NVMe SSD storag
 
 [Now available: D2 instances, the latest generation of Amazon EC2 Dense-storage instances](https://aws.amazon.com/about-aws/whats-new/2015/03/now-available-d2-instances-the-latest-generation-of-amazon-ec2-dense-storage-instances/) - D2 instances are designed for workloads that require high sequential read and write access to very large data sets, such as Hadoop distributed computing, massively parallel processing data warehousing, and log processing applications. - d2.xlarge (4,30) - $503 monthly
 
-### AMI
-
-Ubuntu 16.04 LTS AMI - ami-2757f631
-
-Ubuntu 16.10 AMI - ami-b374d5a5
-
-Ubuntu Server 18.04 LTS (HVM), SSD Volume Type- ami-0620d12a9cf777c87 (64-bit x86) / ami-06b0afcb36d2e27ef (64-bit Arm)
-
-Ubuntu Server 16.04 LTS (HVM), SSD Volume Type- ami-0c28d7c6dd94fb3a7 (64-bit x86) / ami-08f567e9a6f67fbee (64-bit Arm)
-
-**AMIs (Amazon Machine Images) are region-specific;** an AMI that exists in one AWS region cannot be used directly in another region, and each region has a unique AMI ID for similar images. However, users can copy AMIs across regions to make them available for global deployment.
-
 ### Flex Instances
 
 [C7i-flex](https://aws.amazon.com/ec2/instance-types/c7i/) offers five of the most common sizes from **large** to **8xlarge**, delivering 19 percent better price performance than [Amazon EC2 C6i](https://aws.amazon.com/ec2/instance-types/c6i/) instances.
@@ -109,7 +97,7 @@ Ubuntu Server 16.04 LTS (HVM), SSD Volume Type- ami-0c28d7c6dd94fb3a7 (64-bit x8
 
 [Introducing Amazon EC2 C7i-flex instances](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-c7i-flex-instances/)
 
-## Tips
+### Tips
 
 - **M5a instances** offers up to 10% savings for customers who are looking to further cost optimize their Amazon EC2 compute environments.
 - [Kernel Live Patching for Amazon Linux 2 is now generally available](https://aws.amazon.com/about-aws/whats-new/2020/06/announcing-general-availability-kernel-live-patching-amazon-linux-2/)
@@ -154,21 +142,21 @@ https://aws.amazon.com/ec2/pricing/reserved-instances/pricing
 - Dedicated hosts
 - Dedicated Instances
 
-## EC2 Dedicated Host vs Dedicated Instances
+### EC2 Dedicated Host vs Dedicated Instances
 
-### Dedicated Hosts
+#### Dedicated Hosts
 
 **Dedicated Hosts** are entire physical servers reserved for a single customer, providing complete isolation and control, ideal for server-bound licenses and compliance.
 
 A Dedicated Host is also a physical server that's dedicated for your use. With a Dedicated Host, you have visibility and control over how instances are placed on the server.
 
-### Dedicated Instances
+#### Dedicated Instances
 
 **Dedicated Instances** are EC2 instances running on hardware exclusively for your account but sharing physical servers with your other instances, offering a balance of isolation and cost-efficiency. The key differences lie in the level of isolation, control, and cost, with Hosts being more expensive but offering greater visibility and flexibility for specific software licenses.
 
 Dedicated Instances are Amazon EC2 instances that run in a virtual private cloud (VPC) on hardware that's dedicated to a single customer. **Dedicated Instances that belong to different AWS accounts are physically isolated at a hardware level, even if those accounts are linked to a single-payer account.** However, Dedicated Instances may share hardware with other instances from the same AWS account that are not Dedicated Instances.
 
-### Difference
+#### Difference
 
 |                                               | Dedicated Host                                                                                | Dedicated Instances  |
 | --------------------------------------------- | --------------------------------------------------------------------------------------------- | -------------------- |
@@ -279,12 +267,6 @@ Highest performance GPU-based instances for deep learning and HPC applications
 - GeForce RTX 40 Series
 	- RTX 4080
 	- RTX 4070
-
-## Spot Instances
-
-[Spot Instances - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-spot-instances.html)
-
-[Best practices for EC2 Spot - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-best-practices.html)
 
 ## Upgrading instance generation checklist
 

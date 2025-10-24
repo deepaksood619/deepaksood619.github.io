@@ -15,6 +15,7 @@ The normal distribution is useful because of the [central limit theorem](https:/
 - **Kurtosis:** A variable that is normally distributed can take on values from minus infinity to plus infinity, but the likelihood of extreme values is contrained. The kurtosis for a normal distribution is three, which becomes the standard against which other distributions are measured
 
 [What is the Empirical Rule? \| Statistics Ep. 12 - YouTube](https://www.youtube.com/watch?v=hKq58idz_Oo)
+
 - 1 standard deviation - 68%
 - 2 standard deviation - 95%
 - 3 standard deviation - 99.7%

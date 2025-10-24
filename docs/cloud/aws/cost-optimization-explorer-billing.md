@@ -128,6 +128,10 @@ Provide access to leftover capacity at a discount of up to 90% off the On-Demand
 
 [Effective utilization of AWS Savings Plans and EC2 spot instances | Spot.io](https://spot.io/resources/aws-ec2-pricing/effective-utilization-of-aws-savings-plans-and-ec2-spot-instances/)
 
+[Spot Instances - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-spot-instances.html)
+
+[Best practices for EC2 Spot - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/spot-best-practices.html)
+
 ### Spot don't use savings plan
 
 Spot instances do not use AWS Savings Plans
@@ -137,6 +141,16 @@ Spot instances do not use AWS Savings Plans
 - Usage: Savings Plans don't apply to spot usage or usage covered by Reserved Instances (RIs).
 
 Spot instances can be a good option for applications that are fault-tolerant, stateless, or flexible, such as web servers, big data, and containerized workloads. However, because AWS can reclaim Spot instances with just a two minute warning, they might not be ideal for mission-critical or production workloads.
+
+### Spot Requests
+
+A Spot Instance request is either one-time or persistent. If the spot request is persistent, the request is opened again after your Spot Instance is interrupted. If the request is persistent and you stop your Spot Instance, the request only opens after you start your Spot Instance.
+
+If your Spot Instance request is active and has an associated running Spot Instance, or your Spot Instance request is disabled and has an associated stopped Spot Instance, **canceling the request does not terminate the instance**; you must terminate the running Spot Instance manually. Moreover, to cancel a persistent Spot request and terminate its Spot Instances, you must cancel the Spot request first and then terminate the Spot Instances.
+
+### Spot Fleet
+
+A Spot Fleet is a set of Spot Instances and optionally On-Demand Instances that is launched based on criteria that you specify. The Spot Fleet selects the Spot capacity pools that meet your needs and launches Spot Instances to meet the target capacity for the fleet. By default, Spot Fleets are set to maintain target capacity by launching replacement instances after Spot Instances in the fleet are terminated. You can submit a Spot Fleet as a one-time request, which does not persist after the instances have been terminated. **You can include On-Demand Instance requests in a Spot Fleet request.**
 
 ## Savings plan Utilization Report and Coverage Report
 

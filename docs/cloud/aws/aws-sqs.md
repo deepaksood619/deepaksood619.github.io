@@ -12,9 +12,23 @@ SQS offers two types of message queues. **Standard queues** offer maximum throug
 
 ## SQS FIFO Queues
 
+By default, FIFO queues support up to 3,000 messages per second with batching, or up to 300 messages per second (300 send, receive, or delete operations per second) without batching. Therefore, using batching you can meet a throughput requirement of upto 3,000 messages per second.
+
 By default, FIFO queues support up to 300 messages per second (300 send, receive, or delete operations per second). When you batch 10 messages per operation (maximum), FIFO queues can support up to 3,000 messages per second. Therefore you need to process 4 messages per operation so that the FIFO queue can support up to 1200 messages per second, if you have a requirement of 1000 messages per second.
 
 If we don't specify a GroupID, then all the messages are in absolute order, but we can only have 1 consumer at most. To allow for multiple consumers to read data for each type of application, and to scale the number of consumers, we should use the "Group ID" attribute.
+
+The name of a FIFO queue must end with the .fifo suffix. The suffix counts towards the 80-character queue name limit. To determine whether a queue is FIFO, you can check whether the queue name ends with the suffix.
+
+If you have an existing application that uses standard queues and you want to take advantage of the ordering or exactly-once processing features of FIFO queues, you need to configure the queue and your application correctly. You can't convert an existing standard queue into a FIFO queue. To make the move, you must either create a new FIFO queue for your application or delete your existing standard queue and recreate it as a FIFO queue.
+
+### Question
+
+The engineering team at an e-commerce company wants to migrate from Amazon Simple Queue Service (Amazon SQS) Standard queues to FIFO (First-In-First-Out) queues with batching. Migration checklist
+
+- Make sure that the name of the FIFO (First-In-First-Out) queue ends with the .fifo suffix
+- Delete the existing standard queue and recreate it as a FIFO (First-In-First-Out) queue
+- Make sure that the throughput for the target FIFO (First-In-First-Out) queue does not exceed 3,000 messages per second
 
 ## Advantages
 

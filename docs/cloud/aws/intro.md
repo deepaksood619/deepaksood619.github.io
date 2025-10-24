@@ -28,20 +28,6 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-z
 
 ![image](../../media/Cloud-AWS-Intro-image2.jpg)
 
-## Amazon Machine Images (AMI)
-
-It is used as a provisioning system, to provision a new instance with an image of the instance.
-
-An Amazon Machine Image (AMI) provides the information required to launch an instance, which is a virtual server in the cloud. You must specify a source AMI when you launch an instance. You can launch multiple instances from a single AMI when you need multiple instances with the same configuration. You can use different AMIs to launch instances when you need instances with different configurations.
-
-An AMI includes the following:
-
-- A template for the root volume for the instance (for example, an operating system, an application server, and applications)
-- Launch permissions that control which AWS accounts can use the AMI to launch instances
-- A block device mapping that specifies the volumes to attach to the instance when it's launched
-
-Structure101 - Architecture Development Environment
-
 ## Resources
 
 https://dev.to/helenanders26/aws-series-aws-from-a-to-z-45b1

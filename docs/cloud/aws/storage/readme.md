@@ -178,6 +178,39 @@ The open-source Lustre file system is designed for applications that require fas
 
 **Amazon FSx for Lustre** is built for extreme performance in high-throughput, compute-intensive workloads like HPC, machine learning, and financial analytics, offering sub-millisecond latencies and millions of IOPS through its Lustre foundation. In contrast, **Amazon FSx for Windows File Server** is a fully managed service for Windows-based enterprise applications, providing native Microsoft Active Directory (AD) integration, end-user file restore, and Data Deduplication via the SMB protocol for common business workloads like file sharing and general-purpose processing.
 
+### Amazon FSx for ONTAP
+
+Amazon FSx for NetApp ONTAP is a storage service that allows customers to launch and run fully managed ONTAP file systems in the cloud. ONTAP is NetApp’s file system technology that provides a widely adopted set of data access and data management capabilities.
+
+[Fully Managed Cloud File System – FSx for NetApp ONTAP – Amazon Web Services](https://aws.amazon.com/fsx/netapp-ontap/)
+
+### Amazon FSx for OpenZFS
+
+Amazon FSx for OpenZFS is a fully managed file storage service that lets you launch, run, and scale fully managed file systems built on the open-source OpenZFS file system. FSx for OpenZFS makes it easy to migrate your on-premises file servers without changing your applications or how you manage data, and to build new high-performance, data-intensive applications on the cloud. FSx for OpenZFS is compatible with Windows, Linux, macOS clients. It supports NFS 3, 4.0, 4.1, 4.2 protocols, however, it does NOT support the SMB protocol.
+
+### Choosing File System
+
+[Help Me Choose An Amazon FSx File System \| Amazon Web Services](https://aws.amazon.com/fsx/when-to-choose-fsx/)
+
+#### Performance and Scale
+
+|                                                                      | FSx for NetApp ONTAP                  | FSx for OpenZFS | FSx for Windows File Server | FSx for Lustre |
+| -------------------------------------------------------------------- | ------------------------------------- | --------------- | --------------------------- | -------------- |
+| Latency                                                              | <1 ms                                 | <0.5 ms         | <1 ms                       | <1 ms          |
+| Max. throughput per file system                                      | 72-80 GB/s*                           | 10-21 GB/s*     | 12-20 GB/s*                 | 1000 GB/s      |
+| Max. throughput available to a single client accessing a file system | 18 GB/s                               | 10 GB/s         | 20 GB/s                     | 150 GB/s       |
+| Max. IOPS per file system                                            | Millions                              | 1-2 million     | Hundreds of thousands       | Millions       |
+| Maximum file system size                                             | Virtually unlimited  <br>(10s of PBs) | 512 TiB         | 64 TiB                      | Multiple PBs   |
+
+#### Accessibility and Integrations
+
+| |FSx for NetApp ONTAP|FSx for OpenZFS|FSx for Windows File Server|FSx for Lustre|
+|---|---|---|---|---|
+|Client compatibility|Windows, Linux macOS|Windows, Linux, macOS|Windows, Linux, macOS|Linux|
+|Protocol support|SMB 2.0, 2.1,  <br>3.0, 3.1.1  <br>NFS 3, 4.0, 4.1, 4.2  <br>iSCSI (shared block storage)|NFS 3, 4.0, 4.1, 4.2|SMB 2.0, 2.1,  <br>3.0, 3.1.1|Custom (POSIX-compliant) protocol optimized for performance|
+|AWS Compute|EC2, ECS, EKS|EC2, ECS, EKS|EC2, ECS, EKS|EC2, ECS, EKS|
+|Automatic import/export of S3 data sets||||**✓**|
+
 ## Links
 
 - [aws-database-migration-service-dms](cloud/aws/aws-database-migration-service-dms.md)

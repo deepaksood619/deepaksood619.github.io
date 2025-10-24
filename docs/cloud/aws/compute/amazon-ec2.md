@@ -333,3 +333,32 @@ User Data is generally used to perform common automated configuration tasks and 
 **Scripts entered as user data are executed as the root user**, hence do not need the sudo command in the script. Any files you create will be owned by root; if you need non-root users to have file access, you should modify the permissions accordingly in the script.
 
 By default, user data scripts and cloud-init directives run only **during the boot cycle when you first launch an instance**. You can update your configuration to ensure that your user data scripts and cloud-init directives run every time you restart your instance.
+
+## Amazon Machine Images (AMI / AMIs)
+
+It is used as a provisioning system, to provision a new instance with an image of the instance.
+
+An Amazon Machine Image (AMI) provides the information required to launch an instance, which is a virtual server in the cloud. You must specify a source AMI when you launch an instance. You can launch multiple instances from a single AMI when you need multiple instances with the same configuration. You can use different AMIs to launch instances when you need instances with different configurations.
+
+An AMI includes the following:
+
+- A template for the root volume for the instance (for example, an operating system, an application server, and applications)
+- Launch permissions that control which AWS accounts can use the AMI to launch instances
+- A block device mapping that specifies the volumes to attach to the instance when it's launched
+
+**AMIs (Amazon Machine Images) are region-specific;** an AMI that exists in one AWS region cannot be used directly in another region, and each region has a unique AMI ID for similar images. However, users can copy AMIs across regions to make them available for global deployment.
+
+Launch permissions that control which AWS accounts can use the AMI to launch instances.
+
+A block device mapping that specifies the volumes to attach to the instance when it's launched.
+
+You can copy an AMI within or across AWS Regions using the AWS Management Console, the AWS Command Line Interface or SDKs, or the Amazon EC2 API, all of which support the CopyImage action. You can copy both Amazon EBS-backed AMIs and instance-store-backed AMIs. You can copy AMIs with encrypted snapshots and also change encryption status during the copy process.
+
+You can share an AMI with another AWS account. To copy an AMI that was shared with you from another account, the owner of the source AMI must grant you read permissions for the storage that backs the AMI, either the associated Amazon EBS snapshot (for an Amazon EBS-backed AMI) or an associated S3 bucket (for an instance store-backed AMI).
+
+### Standard AMIs
+
+- Ubuntu 16.04 LTS AMI - ami-2757f631
+- Ubuntu 16.10 AMI - ami-b374d5a5
+- Ubuntu Server 18.04 LTS (HVM), SSD Volume Type- ami-0620d12a9cf777c87 (64-bit x86) / ami-06b0afcb36d2e27ef (64-bit Arm)
+- Ubuntu Server 16.04 LTS (HVM), SSD Volume Type- ami-0c28d7c6dd94fb3a7 (64-bit x86) / ami-08f567e9a6f67fbee (64-bit Arm)
