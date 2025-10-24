@@ -59,7 +59,9 @@ By default, AWS DMS loads eight tables at a time. You might see some performance
 // Connection settings - maxFileSize=250000 (250MB)
 ```
 
-## Schema Conversion Tool
+## Schema Conversion Tool (SCT)
+
+Heterogeneous migrations a two-step process. First use the AWS Schema Conversion Tool to convert the source schema and code to match that of the target database, and then use the AWS Database Migration Service to migrate data from the source database to the target database. All the required data type conversions will automatically be done by the AWS Database Migration Service during the migration. The source database can be located on your on-premises environment outside of AWS, running on an Amazon EC2 instance, or it can be an Amazon RDS database. The target can be a database in Amazon EC2 or Amazon RDS.
 
 https://docs.aws.amazon.com/SchemaConversionTool/latest/userguide/CHAP_Welcome.html
 

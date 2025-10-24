@@ -48,3 +48,12 @@ FIFO topics are designed to enhance messaging between applications when the orde
 [AWS SNS](https://aws.amazon.com/sns/)
 
 [AWS SNS Features](https://aws.amazon.com/sns/features/)
+
+## SQS vs SNS
+
+| Feature               | SQS (Message Queue)                                              | SNS (Pub/Sub)                                          |
+| --------------------- | ---------------------------------------------------------------- | ------------------------------------------------------ |
+| **Delivery**          | Pull-based (consumer pulls from queue)                           | Push-based (service pushes to subscribers)             |
+| **Message Handling**  | One consumer processes one message at a time                     | Message is sent to multiple subscribers simultaneously |
+| **Message Retention** | Messages are stored in the queue until processed (up to 14 days) | Messages are discarded if no subscribers are available |
+| **Primary Use**       | Decoupling, reliable asynchronous processing, and load leveling  | Broadcasting, fan-out, and real-time notifications     |

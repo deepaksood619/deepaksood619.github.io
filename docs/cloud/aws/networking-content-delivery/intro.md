@@ -45,6 +45,26 @@ Unlike a CNAME record, you can create an alias record at the top node of a DNS n
 
 [Choosing between alias and non-alias records - Amazon Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resource-record-sets-choosing-alias-non-alias.html)
 
+### Resolvers
+
+Amazon Route 53 effectively connects user requests to infrastructure running in AWS – such as Amazon EC2 instances – and can also be used to route users to infrastructure outside of AWS. By default, Amazon Route 53 Resolver automatically answers DNS queries for local VPC domain names for Amazon EC2 instances. You can integrate DNS resolution between Resolver and DNS resolvers on your on-premises network by configuring forwarding rules.
+
+To resolve any DNS queries for resources in the AWS VPC from the on-premises network, you can create an inbound endpoint on Amazon Route 53 Resolver and then DNS resolvers on the on-premises network can forward DNS queries to Amazon Route 53 Resolver via this endpoint.
+
+**Resolver Inbound Endpoint:**
+
+![Resolver Inbound Endpoint](../../../media/Screenshot%202025-10-24%20at%205.09.19%20PM.jpg)
+
+ [What is Amazon Route 53 Resolver? - Amazon Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resolver.html)
+
+To resolve DNS queries for any resources in the on-premises network from the AWS VPC, you can create an outbound endpoint on Amazon Route 53 Resolver and then Amazon Route 53 Resolver can conditionally forward queries to resolvers on the on-premises network via this endpoint. To conditionally forward queries, you need to create Resolver rules that specify the domain names for the DNS queries that you want to forward (such as example.com) and the IP addresses of the DNS resolvers on the on-premises network that you want to forward the queries to.
+
+**Resolver Outbound Endpoint:**
+
+![Resolver Outbound Endpoint](../../../media/Screenshot%202025-10-24%20at%205.09.42%20PM.jpg)
+
+ [What is Amazon Route 53 Resolver? - Amazon Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resolver.html)
+
 ### Links
 
 - [Choosing a routing policy - Amazon Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html)
@@ -132,6 +152,12 @@ With AWS Global Accelerator, you are provided two global static customer-facing 
 Simplified and resilient traffic routing for multi-Region applications:
 
 ![AWS Global Accelerator](../../../media/Screenshot%202025-10-24%20at%204.55.26%20PM.jpg)
+
+### AWS Global Accelerator vs Amazon CloudFront
+
+AWS Global Accelerator and Amazon CloudFront are separate services that use the AWS global network and its edge locations around the world. Amazon CloudFront improves performance for both cacheable content (such as images and videos) and dynamic content (such as API acceleration and dynamic site delivery). AWS Global Accelerator improves performance for a wide range of applications over TCP or UDP by proxying packets at the edge to applications running in one or more AWS Regions.
+
+AWS Global Accelerator is a good fit for non-HTTP use cases, such as gaming (UDP), IoT (MQTT), or Voice over IP, as well as for HTTP use cases that specifically require static IP addresses or deterministic, fast regional failover. Both services integrate with AWS Shield for DDoS protection.
 
 [Network Acceleration Service - AWS Global Accelerator - AWS](https://aws.amazon.com/global-accelerator/)
 

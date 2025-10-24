@@ -64,6 +64,7 @@ For each security group, you add rules that control the inbound traffic to insta
 AWS Security Groups **allow only "allow" rules, and they do not support "deny" rules**. By default, no traffic is allowed inbound until an "allow" rule is added, and outbound rules are implicitly permissive, allowing all outbound traffic until restricted by an added rule. Any traffic that doesn't have a matching allow rule is denied, as the absence of an allow rule implicitly denies access.
 
 - A NACL contains a numbered list of rules and evaluates these rules in the increasing order while deciding whether to allow the traffic
+	- NACL - Network Access Control List - [Control traffic to subnets using network ACLs - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html)
 - A security group is stateful, that is, it automatically allows the return traffic.
 
 ## Security > Data Protection > Internetwork Traffic Privacy in Amazon VPC
@@ -168,11 +169,17 @@ AWS PrivateLink provides private connectivity between virtual private clouds (VP
 
 In summary, VPC endpoints are specific to certain AWS services, while AWS PrivateLink is a broader solution that provides a consistent and private way to access various services over the AWS network. You might use VPC endpoints for specific services and AWS PrivateLink for a more comprehensive approach to secure, private connectivity.
 
-## Others
+## AWS site-to-site VPN
 
-NACL - Network Access Control List - [Control traffic to subnets using network ACLs - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html)
+Amazon VPC provides the facility to create an **IPsec VPN connection (also known as AWS site-to-site VPN)** between remote customer networks and their Amazon VPC over the internet. The following are the key concepts for a site-to-site VPN:
 
-SG - Security Groups
+- **Virtual private gateway:** A virtual private gateway (VGW), also known as a VPN Gateway is the endpoint on the AWS VPC side of your VPN connection.
+- **VPN connection:** A secure connection between your on-premises equipment and your VPCs.
+- **VPN tunnel:** An encrypted link where data can pass from the customer network to or from AWS.
+- **Customer Gateway:** An AWS resource that provides information to AWS about your Customer Gateway device.
+- **Customer Gateway device:** A physical device or software application on the customer side of the Site-to-Site VPN connection.
+
+[Amazon Virtual Private Cloud Connectivity Options - Amazon Virtual Private Cloud Connectivity Options](https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/welcome.html)
 
 ## NAT Gateway
 
@@ -186,6 +193,8 @@ When you create a NAT gateway, you specify one of the following connectivity typ
 
 - You can use a Network Address Translation gateway (NAT gateway) to enable instances in a private subnet to connect to the internet or other AWS services, but prevent the internet from initiating a connection with those instances. To create a NAT gateway, you must specify the public subnet in which the NAT gateway should reside.
 	- You must also specify an Elastic IP address to associate with the NAT gateway when you create it. The Elastic IP address cannot be changed after you associate it with the NAT Gateway. After you've created a NAT gateway, you must update the route table associated with one or more of your private subnets to point internet-bound traffic to the NAT gateway. This enables instances in your private subnets to communicate with the internet. If you no longer need a NAT gateway, you can delete it. Deleting a NAT gateway disassociates its Elastic IP address, but does not release the address from your account.
+	- Each NAT gateway is created in a specific Availability Zone and implemented with redundancy in that zone.
+	- If you have resources in multiple Availability Zones and they share one NAT gateway, and if the NAT gateway’s Availability Zone is down, resources in the other Availability Zones lose internet access. To create an Availability Zone-independent architecture, create a NAT gateway in each Availability Zone and configure your routing to ensure that resources use the NAT gateway in the same Availability Zone.
 
 [NAT gateways - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html)
 

@@ -5,8 +5,12 @@ Work with Real-time Streaming Data
 AWS Kinesis is a suite of services designed to handle real-time data streaming at scale. It allows you to collect, process, and analyze data as it is generated, enabling real-time insights and actions. AWS Kinesis includes several components, each tailored for different aspects of streaming data:
 
 1. **Amazon Kinesis Data Streams**: This service allows you to build real-time applications that process or analyze streaming data. You can continuously capture gigabytes of data per second from hundreds of thousands of sources such as website clickstreams, database event streams, financial transactions, social media feeds, IT logs, and location-tracking events.
+	1. The data collected is available in milliseconds to enable real-time analytics use cases such as real-time dashboards, real-time anomaly detection, dynamic pricing, and more.
+	2. KDS makes sure your streaming data is available to multiple real-time analytics applications, to Amazon S3, or AWS Lambda within 70 milliseconds of the data being collected. Amazon Kinesis data streams scale from megabytes to terabytes per hour and scale from thousands to millions of PUT records per second. You can dynamically adjust the throughput of your stream at any time based on the volume of your input data.
 2. **Amazon Kinesis Data Firehose**: A fully managed service for delivering real-time streaming data to destinations such as Amazon S3, Amazon Redshift, Amazon Elasticsearch Service, and Splunk. It can automatically scale to match the throughput of your data and requires no ongoing administration.
 3. **Amazon Kinesis Data Analytics**: This service enables you to process and analyze streaming data using standard SQL. It allows you to build real-time applications to transform and analyze your data, generating real-time metrics, dashboards, and alerts.
+	1. With Amazon Kinesis Data Analytics for SQL Applications, you can process and analyze streaming data using standard SQL. The service enables you to quickly author and run powerful SQL code against streaming sources to perform time series analytics, feed real-time dashboards, and create real-time metrics.
+	2. [What Is Amazon Kinesis Data Analytics for SQL Applications? - Amazon Kinesis Data Analytics for SQL Applications Developer Guide](https://docs.aws.amazon.com/kinesisanalytics/latest/dev/what-is.html)
 4. **Amazon Kinesis Video Streams**: A fully managed service that makes it easy to securely stream video from connected devices to AWS for analytics, machine learning (ML), and other processing. You can capture, process, and store video streams for analytics and ML applications.
 
 ### Key Features of AWS Kinesis
@@ -67,6 +71,17 @@ Amazon Kinesis Data Firehose is the easiest way to reliably load streaming data 
 Kinesis Firehose **cannot be used to process and analyze the streaming data** in custom applications. It can capture, transform, and load streaming data into Amazon S3, Amazon Redshift, Amazon Elasticsearch Service, and Splunk, enabling near real-time analytics.
 
 https://aws.amazon.com/kinesis/data-firehose
+
+### Kinesis Data Firehose vs Kinesis Data Streams
+
+| Feature             | Kinesis Data Firehose                                                             | Kinesis Data Streams                                                      |
+| ------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| **Primary use**     | Load streaming data to destinations like S3, Redshift, Elasticsearch, and Splunk. | Process and consume streaming data with custom applications in real-time. |
+| **Management**      | Fully managed service; automatically scales and handles operational tasks.        | Requires manual management of scaling by configuring shards.              |
+| **Data processing** | Offers built-in data transformation (e.g., using Lambda) before delivery.         | Provides flexibility for custom processing logic and complex workflows.   |
+| **Flexibility**     | Lower flexibility with pre-defined destinations and consumers.                    | High flexibility for integrating with custom applications.                |
+| **Data retention**  | Stores data for up to 24 hours in case of delivery failure.                       | Can retain data for up to 365 days, depending on configuration.           |
+| **Complexity**      | Simpler, with lower operational overhead.                                         | More complex due to the need for custom consumers and manual scaling.     |
 
 ## Amazon Kinesis vs Apache Kafka
 
