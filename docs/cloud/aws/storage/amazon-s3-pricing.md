@@ -57,7 +57,15 @@ S3 Intelligent-Tiering is the ideal storage class for data with unknown, changin
 | S3 Glacier Deep Archive         | $0.002 per GB  | $1     | $4    | 92%                     |
 *All costs are monthly costs*
 
-There are no S3 data transfer charges when data is transferred in from the internet. Also with S3TA (S3 Transfer Acceleration), you pay only for transfers that are accelerated. Therefore you do not need to pay any transfer charges for the image upload if S3TA did not result in an accelerated transfer.
+There are no S3 data transfer charges when data is transferred in from the internet. Also with **S3TA (S3 Transfer Acceleration), you pay only for transfers that are accelerated.** Therefore you do not need to pay any transfer charges for the image upload if S3TA did not result in an accelerated transfer.
+
+### Amazon S3 Transfer Acceleration (S3TA)
+
+Amazon S3 Transfer Acceleration (S3TA) can speed up content transfers to and from Amazon S3 by as much as 50-500% for long-distance transfer of larger objects. Customers who have either web or mobile applications with widespread users or applications hosted far away from their S3 bucket can experience long and variable upload and download speeds over the Internet. S3 Transfer Acceleration (S3TA) reduces the variability in Internet routing, congestion, and speeds that can affect transfers, and logically shortens the distance to S3 for remote applications.
+
+S3TA improves transfer performance by routing traffic through Amazon CloudFront’s globally distributed Edge Locations and over AWS backbone networks, and by using network protocol optimizations.
+
+For applications interacting with your Amazon S3 buckets through the S3 API from outside of your bucket’s region, S3TA helps avoid the variability in Internet routing and congestion. It does this by routing your uploads and downloads over the AWS global network infrastructure, so you get the benefit of AWS network optimizations.
 
 ### Storage
 
@@ -67,11 +75,13 @@ The rate you're charged depends on your objects' size, how long you stored the o
 
 There are per-request ingest fees when using PUT, COPY, or lifecycle rules to move data into any S3 storage class. Consider the ingest or transition cost before moving objects into any storage class.
 
+If you have objects that are **smaller than 1GB** or if the data set is less than 1GB in size, you should consider using **Amazon CloudFront's PUT/POST commands** for optimal performance.
+
 ### Data Transfer in / out
 
-| **PUT, COPY, POST, LIST requests (per 1,000 requests)** | **GET, SELECT, and all other requests (per 1,000 requests)** | **Lifecycle Transition requests (per 1,000 requests)** |
-|-|-|-|
-| S3 Standard | $0.005 | $0.0004 |
+| PUT, COPY, POST, LIST requests (per 1,000 requests) | GET, SELECT, and all other requests (per 1,000 requests) | Lifecycle Transition requests (per 1,000 requests) |
+| --------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------- |
+| S3 Standard                                         | $0.005                                                   | $0.0004                                            |
 
 ### You pay for all bandwidth into and out of Amazon S3, except for the following
 

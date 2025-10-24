@@ -53,6 +53,10 @@ Multi-Attach is now available on [Amazon EBS](https://aws.amazon.com/ebs/) Provi
 
 https://aws.amazon.com/about-aws/whats-new/2020/12/multi-attach-support-now-available-on-amazon-ebs-provisioned-iops-volume-type-io2
 
+## Provisioned IOPS SSD (io1)
+
+Provisioned IOPS SSD (io1) is backed by solid-state drives (SSDs) and is a high-performance Amazon EBS storage option designed for critical, I/O intensive database and application workloads, as well as throughput-intensive database workloads. io1 is designed to deliver a consistent baseline performance of up to 50 IOPS/GB to a maximum of 64,000 IOPS and provide up to 1,000 MB/s of throughput per volume. Therefore, the io1 volume type would be able to meet the requirement of 25,000 IOPS per volume for the given use-case.
+
 ## gp2 vs gp3
 
 | Volume Type             | gp3                                                                                                                                                                                   | gp2                                                                                                                                                                                   |

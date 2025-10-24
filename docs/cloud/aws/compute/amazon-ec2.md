@@ -219,6 +219,14 @@ An elastic network interface (referred to as a*network interface*in this documen
 
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-eni.html
 
+## EC2 Launch Templates
+
+A launch template specifies instance configuration information. It includes the ID of the Amazon Machine Image (AMI), the instance type, a key pair, security groups, and other parameters used to launch EC2 instances. If you've launched an EC2 instance before, you specified the same information to launch the instance.
+
+When you create a Launch Template, the default value for the instance tenancy is shared and the instance tenancy is controlled by the tenancy attribute of the VPC. If you set the Launch Template Tenancy to shared (default) and the VPC Tenancy is set to dedicated, then the instances have dedicated tenancy. If you set the Launch Template Tenancy to dedicated and the VPC Tenancy is set to default, then again the instances have dedicated tenancy.
+
+[Create an Amazon EC2 launch template - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/create-launch-template.html)
+
 ## Placement groups for your Amazon EC2 instances
 
 To meet the needs of your workload, you can launch a group of *interdependent* EC2 instances into a *placement group* to influence their placement.

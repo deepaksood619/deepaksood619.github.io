@@ -356,9 +356,6 @@ Total with Duplicates - 331 services
 8. **AWS Cloud WAN** - Easily build, manage, and monitor global wide area networks
 9. **AWS Direct Connect** - Dedicated network connection to AWS
 10. **AWS Global Accelerator** - Improve global application availability and performance
-	1. AWS Global Accelerator is a service that improves the availability and performance of your applications with local or global users. It provides static IP addresses that act as a fixed entry point to your application endpoints in a single or multiple AWS Regions, such as your Application Load Balancers, Network Load Balancers, or Amazon EC2 instances. AWS Global Accelerator uses the AWS global network to optimize the path from your users to your applications, improving the performance of your traffic by as much as 60%.
-	2. AWS Global Accelerator improves performance for a wide range of applications over TCP or UDP by proxying packets at the edge to applications running in one or more AWS Regions. AWS Global Accelerator is a good fit for non-HTTP use cases, such as gaming (UDP), loT (MQTT), or Voice over IP, as well as for HTTP use cases that specifically require static IP addresses or deterministic, fast regional failover.
-	3. AWS Global Accelerator is a service that improves the availability and performance of your applications with local or global users. It provides static IP addresses that act as a fixed entry point to your application endpoints in a single or multiple AWS Regions, such as your Application Load Balancers, Network Load Balancers or Amazon EC2 instances. AWS Global Accelerator will not help in accelerating the file transfer speeds into S3 for the given use-case.
 11. **AWS Private 5G** - Easily deploy, manage, and scale a private cellular network
 12. **AWS PrivateLink** - Securely access services hosted on AWS
 13. **AWS Transit Gateway** - Easily scale VPC and account connections

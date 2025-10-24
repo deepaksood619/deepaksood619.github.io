@@ -1,26 +1,26 @@
 # Networking and Content Delivery
 
-### 1. Amazon VPC - Isolated Cloud Resources
+## 1. Amazon VPC - Isolated Cloud Resources
 
-### 2. AWS PrivateLink
+## 2. AWS PrivateLink
 
 Access services hosted on AWS easily and securely by keeping your network traffic within the AWS network
 
 AWS PrivateLink simplifies the security of data shared with cloud-based applications by eliminating the exposure of data to the public Internet. AWS PrivateLink provides private connectivity between VPCs, AWS services, and on-premises applications, securely on the Amazon network. AWS PrivateLink makes it easy to connect services across different accounts and VPCs to significantly simplify the network architecture.
 
-### 3. Amazon CloudFront - Global Content Delivery Network
+## 3. Amazon CloudFront - Global Content Delivery Network
 
 [cdn-content-delivery-network](cloud/others/cdn-content-delivery-network.md)
 
 [Amazon Cloudfront](cloud/aws/networking-content-delivery/amazon-cloudfront.md)
 
-### 4. Amazon Route53
+## 4. Amazon Route53
 
 Scalable Domain Name System
 
 Amazon Route53 effectively connects user requests to infrastructure running in AWS -- such as Amazon EC2 instances, Elastic Load Balancing load balancers, or Amazon S3 buckets -- and can also be used to route users to infrastructure outside of AWS. You can use Amazon Route 53 to configure DNS health checks to route traffic to healthy endpoints or to independently monitor the health of your application and its endpoints. Amazon Route 53 Traffic Flow makes it easy for you to manage traffic globally through a variety of routing types, including Latency Based Routing, Geo DNS, Geoproximity, and Weighted Round Robin - all of which can be combined with DNS Failover in order to enable a variety of low-latency, fault-tolerant architectures. Using Amazon Route 53 Traffic Flow's simple visual editor, you can easily manage how your end-users are routed to your application's endpoints - whether in a single AWS region or distributed around the globe. Amazon Route 53 also offers Domain Name Registration -- you can purchase and manage domain names such as example.com and Amazon Route 53 will automatically configure DNS settings for your domains.
 
-#### Routing Policy
+### Routing Policy
 
 - **Simple routing policy** – Use for a single resource that performs a given function for your domain, for example, a web server that serves content for the example.com website. You can use simple routing to create records in a private hosted zone.
 - **Failover routing policy** – Use when you want to configure active-passive failover. You can use failover routing to create records in a private hosted zone.
@@ -31,7 +31,7 @@ Amazon Route53 effectively connects user requests to infrastructure running in A
 - **Multivalue answer routing policy** – Use when you want Route 53 to respond to DNS queries with up to eight healthy records selected at random. You can use multivalue answer routing to create records in a private hosted zone.
 - **Weighted routing policy** – Use to route traffic to multiple resources in proportions that you specify. You can use weighted routing to create records in a private hosted zone.
 
-#### CNAME vs Alias Record
+### CNAME vs Alias Record
 
 A CNAME record maps DNS queries for the name of the current record, such as acme.example.com, to another domain (example.com or example.net) or subdomain (acme.example.com or zenith.example.org).
 
@@ -45,7 +45,7 @@ Unlike a CNAME record, you can create an alias record at the top node of a DNS n
 
 [Choosing between alias and non-alias records - Amazon Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resource-record-sets-choosing-alias-non-alias.html)
 
-#### Links
+### Links
 
 - [Choosing a routing policy - Amazon Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html)
 - [Weighted routing - Amazon Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy-weighted.html)
@@ -53,17 +53,17 @@ Unlike a CNAME record, you can create an alias record at the top node of a DNS n
 - [How to implement the perfect failover strategy using Amazon Route53 | by Simon Tabor | DAZN Engineering | Medium](https://medium.com/dazn-tech/how-to-implement-the-perfect-failover-strategy-using-amazon-route53-1cc4b19fa9c7)
 - [Choosing between alias and non-alias records - Amazon Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resource-record-sets-choosing-alias-non-alias.html)
 
-### 5. Amazon API Gateway - Build, Deploy, and Manage APIs
+## 5. Amazon API Gateway - Build, Deploy, and Manage APIs
 
-### 6. AWS Direct Connect - Dedicated Network Connection to AWS
+## 6. AWS Direct Connect - Dedicated Network Connection to AWS
 
-### 7. Elastic Load Balancing (ELB) - High Scale Load Balancing
+## 7. Elastic Load Balancing (ELB) - High Scale Load Balancing
 
-## Networking > Elastic Load Balancing
+### Networking > Elastic Load Balancing
 
 Elastic Load Balancing supports the following types of load balancers: Application Load Balancers, Network Load Balancers, and Classic Load Balancers.
 
-## Network Load Balancer Components
+### Network Load Balancer Components
 
 A load balancer serves as the single point of contact for clients. The load balancer distributes incoming traffic across multiple targets, such as Amazon EC2 instances. This increases the availability of your application. You add one or more listeners to your load balancer.
 
@@ -114,6 +114,26 @@ Data transfer between Availability Zones (AZs) in the same AWS Region costs $0.0
 [Understanding data transfer charges - AWS Data Exports](https://docs.aws.amazon.com/cur/latest/userguide/cur-data-transfers-charges.html)
 
 [Overview of Data Transfer Costs for Common Architectures \| AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/overview-of-data-transfer-costs-for-common-architectures/)
+
+## AWS Global Accelerator
+
+Improve global application availability and performance
+
+AWS Global Accelerator is a service that improves the availability and performance of your applications with local or global users. It provides static IP addresses that act as a fixed entry point to your application endpoints in a single or multiple AWS Regions, such as your Application Load Balancers, Network Load Balancers, or Amazon EC2 instances. AWS Global Accelerator uses the AWS global network to optimize the path from your users to your applications, improving the performance of your traffic by as much as 60%.
+
+AWS Global Accelerator improves performance for a wide range of applications over TCP or UDP by proxying packets at the edge to applications running in one or more AWS Regions. AWS Global Accelerator is a good fit for non-HTTP use cases, such as gaming (UDP), loT (MQTT), or Voice over IP, as well as for HTTP use cases that specifically require static IP addresses or deterministic, fast regional failover.
+
+AWS Global Accelerator is a service that improves the availability and performance of your applications with local or global users. It provides static IP addresses that act as a fixed entry point to your application endpoints in a single or multiple AWS Regions, such as your Application Load Balancers, Network Load Balancers or Amazon EC2 instances. AWS Global Accelerator will not help in accelerating the file transfer speeds into S3 for the given use-case.
+
+AWS Global Accelerator is a networking service that sends your user’s traffic through Amazon Web Service’s global network infrastructure, improving your internet user performance by up to 60%. When the internet is congested, Global Accelerator’s automatic routing optimizations will help keep your packet loss, jitter, and latency consistently low.
+
+With AWS Global Accelerator, you are provided two global static customer-facing IPs to simplify traffic management. On the back end, add or remove your AWS application origins, such as Network Load Balancers, Application Load Balancers, elastic IP address (EIP), and Amazon EC2 Instances, without making user-facing changes. To mitigate endpoint failure, AWS Global Accelerator automatically re-routes your traffic to your nearest healthy available endpoint.
+
+Simplified and resilient traffic routing for multi-Region applications:
+
+![AWS Global Accelerator](../../../media/Screenshot%202025-10-24%20at%204.55.26%20PM.jpg)
+
+[Network Acceleration Service - AWS Global Accelerator - AWS](https://aws.amazon.com/global-accelerator/)
 
 ## Links
 
