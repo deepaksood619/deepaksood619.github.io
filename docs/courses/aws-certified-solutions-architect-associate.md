@@ -12,3 +12,9 @@ The exam has the following content domains and weightings:
 - Domain 2: Design Resilient Architectures (26% of scored content)
 - Domain 3: Design High-Performing Architectures (24% of scored content)
 - Domain 4: Design Cost-Optimized Architectures (20% of scored content)
+
+## Concepts
+
+- NAT Gateway
+- VPC Endpoint
+- Transit Gateway

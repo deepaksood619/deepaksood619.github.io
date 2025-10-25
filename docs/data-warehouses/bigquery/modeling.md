@@ -1,10 +1,10 @@
 # Modeling
 
-### Dataset and table configurations
+## Dataset and table configurations
 
 BigQuery offers a number of ways to configure your data and tables such as partitioning, clustering, and data locality. These configurations can help maintain large tables and reduce the overall data load and response time for your queries, thereby increasing the operational efficiency of your data workloads.
 
-#### Partitioning
+### Partitioning
 
 A partitioned table is a table that is divided into segments, called partitions, that make it easier to manage and query your data. Users typically split large tables into many smaller partitions, where each partition contains a day’s worth of data. Partition management is a key determinant of BigQuery’s performance and cost when querying over a specific date range because it helps BigQuery scan less data per query. For examples of partitioned table queries, see the [EDW to BigQuery migration guide](https://cloud.google.com/solutions/migration/dw2bq/dw-bq-performance-optimization#partitioning).
 
@@ -22,7 +22,22 @@ Once slot workers read their data from disk, BigQuery can automatically determin
 
 For more information, see [Introduction to partitioned tables](https://cloud.google.com/bigquery/docs/partitioned-tables).
 
-#### Clustering and sort keys
+```sql
+CREATE TABLE
+  mydataset.newtable (transaction_id INT64, transaction_date DATE)
+PARTITION BY
+  transaction_date
+AS (
+  SELECT
+    transaction_id, transaction_date
+  FROM
+    mydataset.mytable
+);
+```
+
+- **You cannot add partitioning to an existing table**, create a new table with partitioning enabled, copy the data to new table, and then swap both the table names.
+
+### Clustering and sort keys
 
 Redshift supports specifying table columns as either [compound](https://docs.aws.amazon.com/redshift/latest/dg/t_Sorting_data.html#t_Sorting_data-compound)  or [interleaved](https://docs.aws.amazon.com/redshift/latest/dg/t_Sorting_data.html#t_Sorting_data-interleaved) sort keys. In BigQuery, you can specify compound sort keys by [clustering](https://cloud.google.com/bigquery/docs/clustered-tables#overview) your table. BigQuery clustered tables improve query performance because the table data is automatically sorted based on the contents of up to four columns specified in the table’s schema. These columns are used to colocate related data. The order of the clustering columns you specify is important because it determines the sort order of the data.
 
@@ -41,11 +56,11 @@ When you specify sort keys in tables in Redshift, depending on the load on the s
 
 For more information about working with clustered tables, see the [Introduction to clustered tables](https://cloud.google.com/bigquery/docs/clustered-tables).
 
-#### Distribution keys
+### Distribution keys
 
 Redshift uses distribution keys to optimize the location of data blocks to execute its queries. BigQuery does not use distribution keys because it automatically determines and adds stages in a query plan (while the query is running) to improve data distribution throughout query workers.
 
-#### External sources
+### External sources
 
 If you use [Redshift Spectrum](https://docs.aws.amazon.com/redshift/latest/dg/c-using-spectrum.html) to query data on Amazon S3, you can similarly use BigQuery’s external data source feature to [query data directly from files on Cloud Storage](https://cloud.google.com/bigquery/external-data-cloud-storage).
 
@@ -55,11 +70,11 @@ In addition to querying data in Cloud Storage, BigQuery offers [federated query 
 - [Cloud Bigtable](https://cloud.google.com/bigquery/external-data-bigtable) (fully managed NoSQL)
 - [Drive](https://cloud.google.com/bigquery/external-data-drive) (CSV, JSON, Avro, Sheets)
 
-#### Data locality
+### Data locality
 
 You can create your BigQuery datasets in both [regional](https://cloud.google.com/bigquery/docs/locations#regional-locations) and [multi-regional](https://cloud.google.com/bigquery/docs/locations#multi-regional-locations) locations, whereas Redshift only offers [regional](https://docs.aws.amazon.com/redshift/latest/mgmt/working-with-clusters.html#az-considerations) locations. BigQuery determines the location to run your load, query, or export jobs based on the datasets referenced in the request. Refer to the BigQuery [location considerations](https://cloud.google.com/bigquery/docs/locations#data-locations) for tips on working with regional and multi-regional datasets.
 
-### Data type mapping in BigQuery
+## Data type mapping in BigQuery
 
 Redshift data types differ from BigQuery data types. For more details on BigQuery data types, refer to the official [documentation](https://cloud.google.com/bigquery/docs/reference/standard-sql/data-types).
 

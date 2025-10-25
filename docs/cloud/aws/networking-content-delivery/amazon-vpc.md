@@ -138,6 +138,8 @@ AWS PrivateLink simplifies the security of data shared with cloud-based applicat
 
 In summary, VPC endpoints are primarily used for connecting your VPC to AWS services, ensuring a private and direct connection. On the other hand, VPC peering is used to establish private connections between instances in different VPCs, allowing them to communicate with each other over the AWS network.
 
+A VPC peering connection is a networking connection between two VPCs that enables you to route traffic between them using private IPv4 addresses or IPv6 addresses. Instances in either VPC can communicate with each other as if they are within the same network. You can create a VPC peering connection between your own VPCs, or with a VPC in another AWS account. The VPCs can be in different regions (also known as an inter-region VPC peering connection). VPC Peering helps connect two VPCs and is not transitive. To connect VPCs together, the best available option is to use VPC peering.
+
 ## AWS PrivateLink / AWS Private Link
 
 AWS PrivateLink is a highly available, scalable technology that you can use to privately connect your VPC to services and resources as if they were in your VPC. You do not need to use an internet gateway, NAT device, public IP address, AWS Direct Connect connection, or AWS Site-to-Site VPN connection to allow communication with the service or resource from your private subnets. Therefore, you control the specific API endpoints, sites, services, and resources that are reachable from your VPC.
@@ -180,6 +182,13 @@ Amazon VPC provides the facility to create an **IPsec VPN connection (also known
 - **Customer Gateway device:** A physical device or software application on the customer side of the Site-to-Site VPN connection.
 
 [Amazon Virtual Private Cloud Connectivity Options - Amazon Virtual Private Cloud Connectivity Options](https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/welcome.html)
+
+**Question -** A retail company is using AWS Site-to-Site VPN connections for secure connectivity to its AWS cloud resources from its on-premises data center. Due to a surge in traffic across the VPN connections to the AWS cloud, users are experiencing slower VPN connectivity.
+
+**Answer -** Create an AWS Transit Gateway with equal cost multipath routing and add additional VPN tunnels.
+
+- VPN connection is a secure connection between your on-premises equipment and your VPCs. Each VPN connection has two VPN tunnels which you can use for high availability. A VPN tunnel is an encrypted link where data can pass from the customer network to or from AWS. The following diagram shows the high-level connectivity with virtual private gateways.
+- With AWS Transit Gateway, you can simplify the connectivity between multiple VPCs and also connect to any VPC attached to AWS Transit Gateway with a single VPN connection. AWS Transit Gateway also enables you to scale the IPsec VPN throughput with equal cost multi-path (ECMP) routing support over multiple VPN tunnels. A single VPN tunnel still has a maximum throughput of 1.25 Gbps. If you establish multiple VPN tunnels to an ECMP-enabled transit gateway, it can scale beyond the default maximum limit of 1.25 Gbps. You also must enable the dynamic routing option on your transit gateway to be able to take advantage of ECMP for scalability.
 
 ## NAT Gateway
 
@@ -261,45 +270,44 @@ A NAT instance provides network address translation (NAT). You can use a NAT ins
 
 [VPC Interface Endpoint vs. Gateway Endpoint in AWS - Tutorials Dojo](https://tutorialsdojo.com/vpc-interface-endpoint-vs-gateway-endpoint-in-aws/)
 
-## Elastic IP Addesses
+## Transit Gateway
 
-- Limited to five Elastic IP addresses per account
+AWS Transit Gateway is a network transit hub used to interconnect virtual private clouds (VPCs) and on-premises networks. As your cloud infrastructure expands globally, inter-Region peering connects transit gateways together using the AWS Global Infrastructure. All network traffic between AWS data centers is automatically encrypted at the physical layer.
 
-https://docs.aws.amazon.com/vpc/latest/userguide/vpc-eips.html
+AWS Transit Gateway connects your Amazon Virtual Private Clouds (VPCs) and on-premises networks through a central hub. This connection simplifies your network and puts an end to complex peering relationships. Transit Gateway acts as a highly scalable cloud router—each new connection is made only once.
 
-[AWS supports dynamically removing and adding auto assigned public IPv4 address](https://aws.amazon.com/about-aws/whats-new/2024/04/removing-adding-auto-assigned-public-ipv4-address/)
+Transit Gateway is a Regional resource and can connect thousands of VPCs within the same AWS Region. You can connect multiple gateways over a single Direct Connect connection for hybrid connectivity. Typically, you can use just one Transit Gateway instance connecting all your VPC instances in a given Region, and use Transit Gateway routing tables to isolate them wherever needed. Note that you do not need additional transit gateways for high availability, because transit gateways are highly available by design; for redundancy, use a single gateway in each Region. However, there is a valid case for creating multiple gateways to limit misconﬁguration blast radius, segregate control plane operations, and administrative ease-of-use.
 
-### Changes (Migrate from ipv4 to ipv6)
+![AWS Transit Gateway](../../../media/Screenshot%202025-10-25%20at%207.14.26%20PM.jpg)
 
-Effective February 1, 2024 there will be a charge of $0.005 per IP per hour for all public IPv4 addresses, whether attached to a service or not (there is already a charge for public IPv4 addresses you allocate in your account but don’t attach to an EC2 instance).
+You are charged hourly for each attachment on a transit gateway, and you are charged for the amount of traffic processed on the transit gateway.
 
-This will cost around $4 month per IP per month
+### Transit gateway concepts
 
-[New - AWS Public IPv4 Address Charge + Public IP Insights | AWS News Blog](https://aws.amazon.com/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/)
+The following are the key concepts for transit gateways:
 
-[Identify and optimize public IPv4 address usage on AWS | Networking & Content Delivery](https://aws.amazon.com/blogs/networking-and-content-delivery/identify-and-optimize-public-ipv4-address-usage-on-aws/)
+- Attachments — You can attach the following:
+    - One or more VPCs
+    - A Connect SD-WAN/third-party network appliance
+    - An AWS Direct Connect gateway
+    - A peering connection with another transit gateway
+    - A VPN connection to a transit gateway
+    - A network function attachment. For more information, see [Network function attachments](https://docs.aws.amazon.com/vpc/latest/tgw/how-transit-gateways-work.html#nf-attachment-overview).
 
-[Amazon IPv6](https://aws.amazon.com/vpc/ipv6/)
+- **Transit gateway Maximum Transmission Unit (MTU) —** The maximum transmission unit (MTU) of a network connection is the size, in bytes, of the largest permissible packet that can be passed over the connection. The larger the MTU of a connection, the more data that can be passed in a single packet. A transit gateway supports an MTU of 8500 bytes for traffic between VPCs, AWS Direct Connect, Transit Gateway Connect, and peering attachments (intra-Region, inter-Region, and Cloud WAN peering attachments). Traffic over VPN connections can have an MTU of 1500 bytes.
 
-[Migrate your VPC from IPv4 to IPv6 - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-migrate-ipv6.html)
+- **Transit gateway route table —** A transit gateway has a default route table and can optionally have additional route tables. A route table includes dynamic and static routes that decide the next hop based on the destination IP address of the packet. The target of these routes could be any transit gateway attachment. By default, transit gateway attachments are associated with the default transit gateway route table.
 
-|Step|Notes|
-|---|---|
-|[Step 1: Associate an IPv6 CIDR block with your VPC and subnets](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-migrate-ipv6.html#vpc-migrate-ipv6-cidr)|Associate an Amazon-provided or BYOIP IPv6 CIDR block with your VPC and with your subnets.|
-|[Step 2: Update your route tables](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-migrate-ipv6.html#vpc-migrate-ipv6-routes)|Update your route tables to route your IPv6 traffic. For a public subnet, create a route that routes all IPv6 traffic from the subnet to the internet gateway. For a private subnet, create a route that routes all internet-bound IPv6 traffic from the subnet to an egress-only internet gateway.|
-|[Step 3: Update your security group rules](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-migrate-ipv6.html#vpc-migrate-ipv6-sg-rules)|Update your security group rules to include rules for IPv6 addresses. This enables IPv6 traffic to flow to and from your instances. If you've created custom network ACL rules to control the flow of traffic to and from your subnet, you must include rules for IPv6 traffic.|
-|[Step 4: Assign IPv6 addresses to your instances](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-migrate-ipv6.html#vpc-migrate-assign-ipv6-address)|Assign IPv6 addresses to your instances from the IPv6 address range of your subnet.|
+- **Associations —** Each attachment is associated with exactly one route table. Each route table can be associated with zero to many attachments.
 
-[Is the Public Cloud Ready for IPv6? | by Eyal Estrin ☁️ | AWS in Plain English](https://aws.plainenglish.io/is-the-public-cloud-ready-for-ipv6-ec450974fe38)
+- **Route propagation —** A VPC, VPN connection, or Direct Connect gateway can dynamically propagate routes to a transit gateway route table. With a Connect attachment, the routes are propagated to a transit gateway route table by default. With a VPC, you must create static routes to send traffic to the transit gateway. With a VPN connection, routes are propagated from the transit gateway to your on-premises router using Border Gateway Protocol (BGP). With a Direct Connect gateway, allowed prefixes are originated to your on-premises router using BGP. With a peering attachment, you must create a static route in the transit gateway route table to point to the peering attachment.
 
-[Brace yourself, IPv6 is coming](https://supabase.com/blog/ipv6)
+[AWS Transit Gateway](https://aws.amazon.com/transit-gateway/)
 
-[Amazon EC2 instance IP addressing - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-instance-addressing.html)
+[What is AWS Transit Gateway for Amazon VPC? - Amazon VPC](https://docs.aws.amazon.com/vpc/latest/tgw/what-is-transit-gateway.html)
 
 ## Others
 
-- [What is AWS Direct Connect? - AWS Direct Connect](https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html)
-- [AWS Transit Gateway](https://aws.amazon.com/transit-gateway/)
 - [What is VPC peering? - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html)
 - [Overview of Data Transfer Costs for Common Architectures | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/overview-of-data-transfer-costs-for-common-architectures/)
 - [AWS VPC Beginner to Pro - Virtual Private Cloud Tutorial - YouTube](https://www.youtube.com/watch?v=g2JOHLHh4rI&ab_channel=freeCodeCamp.org)

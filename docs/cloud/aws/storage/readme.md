@@ -92,6 +92,12 @@ Volume Gateway supports the following volume configurations:
 
 [What is Volume Gateway? - AWS Storage Gateway](https://docs.aws.amazon.com/storagegateway/latest/vgw/WhatIsStorageGateway.html)
 
+### Tape Gateway
+
+Tape Gateway provides cloud-backed virtual tape storage. With Tape Gateway, you can cost-effectively and durably archive backup data in S3 Glacier Flexible Retrieval or S3 Glacier Deep Archive. Tape Gateway provides a virtual tape infrastructure that scales seamlessly with your business needs and eliminates the operational burden of provisioning, scaling, and maintaining a physical tape infrastructure.
+
+[What is Tape Gateway? - AWS Storage Gateway](https://docs.aws.amazon.com/storagegateway/latest/tgw/WhatIsStorageGateway.html)
+
 ## AWS Snowball
 
 ### Petabyte-scale Data Transport

@@ -1,6 +1,6 @@
 # Addressing Methods / cast protocols
 
-The **cast** term here signifies some data(stream of packets) is being transmitted to the recipient(s) from client(s) side over the communication channel that help them to communicate. Let's see some of the "cast" concepts that are prevailing in the computer networks field.
+The **cast** term here signifies some data (stream of packets) is being transmitted to the recipient(s) from client(s) side over the communication channel that help them to communicate. Let's see some of the "cast" concepts that are prevailing in the computer networks field.
 
 ## Unicast
 
@@ -28,7 +28,7 @@ One important protocol of this class in Computer Networks is [Address Resolution
 
 ## Multicast
 
-In multicasting, one/more senders and one/more recipients participate in data transfer traffic. In this method traffic recline between the boundaries of unicast (one-to-one) and broadcast (one-to-all). Multicast lets server's direct single copies of data streams that are then simulated and routed to hosts that request it. IP multicast requires support of some other protocols likeIGMP (Internet Group Management Protocol), Multicast routingfor its working. Also in Classful IP addressingClass Dis reserved for multicast groups.
+In multicasting, one/more senders and one/more recipients participate in data transfer traffic. In this method traffic recline between the boundaries of unicast (one-to-one) and broadcast (one-to-all). Multicast lets server's direct single copies of data streams that are then simulated and routed to hosts that request it. IP multicast requires support of some other protocols like IGMP (Internet Group Management Protocol), Multicast routing for its working. Also in Classful IP addressing `Class D` is reserved for multicast groups.
 
 ![image](../../media/Addressing-Methods-cast-protocols-image3.jpg)
 
@@ -36,7 +36,9 @@ In multicasting, one/more senders and one/more recipients participate in data tr
 
 Anycast is a network [addressing](https://en.wikipedia.org/wiki/Addressing) and [routing](https://en.wikipedia.org/wiki/Routing) methodology in which a single destination address has multiple routing paths to two or more endpoint destinations. Routers will select the desired path on the basis of number of hops, distance, lowest cost, latency measurements or based on the least congested route. Anycast networks are widely used for [content delivery network](https://en.wikipedia.org/wiki/Content_delivery_network)(CDN) products to bring their content closer to the end user.
 
-https://en.wikipedia.org/wiki/Anycast
+[Anycast - Wikipedia](https://en.wikipedia.org/wiki/Anycast)
+
+[cloudflare.com/learning/cdn/glossary/anycast-network/](https://www.cloudflare.com/learning/cdn/glossary/anycast-network/)
 
 ## Geocast
 
@@ -54,4 +56,4 @@ https://en.wikipedia.org/wiki/Automatic_repeat_request
 
 ## References
 
-https://www.geeksforgeeks.org/computer-network-difference-unicast-broadcast-multicast
+[Difference between Unicast, Broadcast and Multicast in Computer Network - GeeksforGeeks](https://www.geeksforgeeks.org/computer-network-difference-unicast-broadcast-multicast)

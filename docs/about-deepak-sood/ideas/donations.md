@@ -37,6 +37,8 @@ Donor - finds a person and donate the required item or buy for him/her
 
 [Nudging to donate organs: do what you like or like what we do? | Medicine, Health Care and Philosophy](https://link.springer.com/article/10.1007/s11019-021-10007-6)
 
+[What’s the best way to lift people out of poverty? - YouTube](https://www.youtube.com/watch?v=_gTgloPR0Aw)
+
 ## Effective Altruism
 
 When you become rich don't increase your standard of living, increase your standard of giving.

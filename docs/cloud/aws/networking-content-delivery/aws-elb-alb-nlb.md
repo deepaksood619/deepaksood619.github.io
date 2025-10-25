@@ -36,6 +36,8 @@ If you specify targets using an **instance ID**, traffic is routed to instances 
 
 If you specify targets using **IP addresses**, you can route traffic to an instance using **any private IP address from one or more network interfaces**. This enables multiple applications on an instance to use the same port. Note that each network interface can have its security group. The load balancer rewrites the destination IP address before forwarding it to the target.
 
+[Network Load Balancers now support Security groups \| Containers](https://aws.amazon.com/blogs/containers/network-load-balancers-now-support-security-groups/)
+
 ## Classic Load Balancer
 
 This load balancer operates at Layer 4 or Layer 7 of the OSI model. It is now mostly used for legacy applications that run on EC2-Classic since application load balancers provide more features.

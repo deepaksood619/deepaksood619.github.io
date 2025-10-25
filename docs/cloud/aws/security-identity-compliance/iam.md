@@ -1,5 +1,6 @@
 # IAM
 
+- [iam-access-policies](cloud/aws/security-identity-compliance/iam-access-policies.md)
 - permission guardrails
 - enforcing least privilege at scale
 - aligning identity with management and governance frameworks
@@ -377,6 +378,8 @@ AWS Control Tower provides the easiest way to set up and govern a secure, multi
 [AWS Control Tower](https://aws.amazon.com/controltower/)
 
 ## Others
+
+- [iam-access-policies](cloud/aws/security-identity-compliance/iam-access-policies.md)
 
 [The Next Evolution in AWS Single Sign-On | AWS News Blog](https://aws.amazon.com/blogs/aws/the-next-evolution-in-aws-single-sign-on/)
 

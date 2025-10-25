@@ -10,6 +10,7 @@
 - [AWS SNS](cloud/aws/aws-sns.md)
 - [Security, Identity and Compliance](security-identity-compliance/intro)
     - [IAM](security-identity-compliance/iam)
+	    - [iam-access-policies](cloud/aws/security-identity-compliance/iam-access-policies.md)
     - [Tools](cloud/aws/security-identity-compliance/tools.md)
     - [Compliance](cloud/aws/security-identity-compliance/compliance.md)
     - [Compliance MCQs](cloud/aws/security-identity-compliance/compliance-mcqs.md)

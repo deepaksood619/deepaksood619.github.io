@@ -132,6 +132,14 @@ After you promote the read replica, it ceases to function as a read replica and 
 
 - Allow inbound access in default security group after public access too of database to be reachable from other places
 
+## Amazon RDS for SQL Server database
+
+Amazon RDS supports Multi-AZ deployments for Microsoft SQL Server by using either SQL Server Database Mirroring (DBM) or Always On Availability Groups (AGs). Amazon RDS monitors and maintains the health of your Multi-AZ deployment. If problems occur, Amazon RDS automatically repairs unhealthy database instances, reestablishes synchronization, and initiates failovers.
+
+Multi-AZ deployments provide increased availability, data durability, and fault tolerance for database instances. In the event of planned database maintenance or unplanned service disruption, Amazon RDS automatically fails over to the up-to-date secondary database instance. This functionality lets database operations resume quickly without manual intervention. The primary and standby instances use the same endpoint, whose physical network address transitions to the secondary replica as part of the failover process. You don't have to reconfigure your application when a failover occurs.
+
+- Amazon RDS Multi-AZ deployments provide enhanced availability for database instances within a single AWS Region. There is no such thing as a cross-region Multi-AZ deployment. Hence this option is incorrect.
+
 ## Links
 
 - [High Availability (HA)](databases-sql/aws-aurora/high-availability-ha.md)
@@ -139,3 +147,4 @@ After you promote the read replica, it ceases to function as a read replica and 
 - [Optimizing costs in Amazon RDS | AWS Database Blog](https://aws.amazon.com/blogs/database/optimizing-costs-in-amazon-rds/)
 - [Resolve an Amazon RDS instance that is in an incompatible-parameters state | AWS re:Post](https://repost.aws/knowledge-center/rds-incompatible-parameters)
 - [Troubleshoot high replica lag with Amazon RDS for MySQL \| AWS re:Post](https://repost.aws/knowledge-center/rds-mysql-high-replica-lag)
+- [Deploy multi-Region Amazon RDS for SQL Server using cross-Region read replicas with a disaster recovery blueprint – Part 1 \| AWS Database Blog](https://aws.amazon.com/blogs/database/deploy-multi-region-amazon-rds-for-sql-server-using-cross-region-read-replicas-with-a-disaster-recovery-blueprint-part-1/)

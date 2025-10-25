@@ -154,6 +154,7 @@ In the multicap category, the allocation decision is left to the fund manager wh
 - Dividend Yield: At least 65% in equities but in dividend-yielding stocks
 - Value/Contra: At least 65% in equities, the scheme should follow value or contra investment strategy.
 - ELSS: At least 80% in equities, lock-in of 3 years and tax benefit under section 80C
+	- [What should I do with ELSS MFs after switching to the new tax regime?](https://freefincal.com/what-should-i-do-with-elss-mfs-after-switching-to-the-new-tax-regime/)
 
 ![image](../../media/Mutual-Funds-image7.jpg)
 

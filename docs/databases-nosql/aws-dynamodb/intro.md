@@ -2,7 +2,7 @@
 
 DynamoDB is a managed NoSQL database service provided by Amazon Web Services. As it is managed by Amazon, users do not have to worry about operations such as hardware provisioning, configuration, and scaling. The offering primarily targets key-value and document storage.
 
-Amazon DynamoDB is a key-value and document database that delivers single-digit millisecond performance at any scale. It's a fully managed, multiregion, multimaster, durable database with built-in security, backup and restore, and in-memory caching for internet-scale applications. DynamoDB can handle more than 10 trillion requests per day and can support peaks of more than 20 million requests per second.
+Amazon DynamoDB is a key-value and document database that delivers single-digit millisecond performance at any scale. It's a fully managed, multiregion, multimaster, durable database with built-in security, backup and restore, and in-memory caching for internet-scale applications. DynamoDB can handle more than **10 trillion requests per day** and can support peaks of more than **20 million requests per second.**
 
 ## History
 

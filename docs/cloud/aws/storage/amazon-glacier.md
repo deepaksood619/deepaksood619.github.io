@@ -70,3 +70,13 @@ S3 Glacier Deep Archive is Amazon S3’s lowest-cost storage class and supports 
 - Ideal alternative to magnetic tape libraries
 - Retrieval time within 12 hours
 - S3 PUT API for direct uploads to S3 Glacier Deep Archive, and S3 Lifecycle management for automatic migration of objects
+
+## S3 Glacier Vault Lock
+
+S3 Glacier Vault Lock allows organizations to enforce compliance controls for long-term archived data by setting a lock policy that prevents deletions or modifications for a defined period. Once locked, these policies cannot be altered.
+
+A Vault Lock policy is different from a vault access policy. Both policies govern access controls to your vault. However, a Vault Lock policy can be locked to prevent future changes, which provides strong enforcement for your compliance controls. You can use the Vault Lock policy to deploy regulatory and compliance controls, which typically require tight controls on data access.
+
+IMP - We recommend that you first create a vault, complete a Vault Lock policy, and then upload your archives to the vault so that the policy will be applied to them.
+
+[Amazon Glacier Vault Lock - Amazon Glacier](https://docs.aws.amazon.com/amazonglacier/latest/dev/vault-lock.html)

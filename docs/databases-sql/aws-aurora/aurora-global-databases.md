@@ -37,6 +37,10 @@ Read replicas receive updates asynchronously from the writer. Without write forw
 
 Write forwarding avoids the need to split those transactions or send them exclusively to the writer, which simplifies application development. This new capability makes it easy to achieve read scale for workloads that need to read the latest write in a transaction and aren't sensitive to write latency.
 
+Local write forwarding is different from global write forwarding, which forwards writes from a secondary DB cluster to the primary DB cluster in an Aurora global database. You can use local write forwarding in a DB cluster that is part of an Aurora global database. For more information, see [Using write forwarding in an Amazon Aurora global database](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-global-database-write-forwarding.html).
+
+Local write forwarding requires Aurora MySQL version 3.04 or higher.
+
 [Using local write forwarding in an Amazon Aurora MySQL DB cluster - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-mysql-write-forwarding.html)
 
 ## Aurora Limitless

@@ -365,6 +365,8 @@ For maa - find hobby
 
 ## Documents / Property Investing
 
+[Must Know RERA Rights before you Buy your House! - YouTube](https://www.youtube.com/watch?v=2Xho3l2d-34)
+
 ### Thoughts
 
 - Will you buy a 20 year old flat, what's the rate of 20 year old flat in a 20 year old society???

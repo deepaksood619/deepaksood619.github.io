@@ -35,3 +35,5 @@ One thing, one time, one minute
 Don't find patterns where none exists
 
 1st time it happens its a risk, 2nd time it happens its an event, 3rd time it happens then it's a routine
+
+30-30 mins of 12 instances = 6 hours, is not equal to 3-3 hours of 2 instances which is also 6 hours. Both 6 hours are very different.

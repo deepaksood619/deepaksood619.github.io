@@ -335,6 +335,40 @@ Amazon S3 Access Points provide a scalable, manageable solution for managing per
 
 [Securing data in a virtual private cloud using Amazon S3 Access Points \| AWS Storage Blog](https://aws.amazon.com/blogs/storage/securing-data-in-a-virtual-private-cloud-using-amazon-s3-access-points/)
 
+### S3 Bucket Policy vs IAM Policy
+
+To manage AWS access, you set IAM policies and link them to IAM identities (users, groups of users, or roles) or AWS resources. A policy is an object in AWS that, when associated with an identity or resource, defines permissions for that identity or resource. IAM policies specify which actions are allowed or denied on which AWS resources (for example, user Alice can read objects from the “Production” bucket but can’t write objects in the “Dev” bucket, whereas user Bob can have full access to S3).
+
+S3 bucket policies, on the other hand, are resource-based policies that you can use to grant access permissions to your Amazon S3 buckets and the objects in them. S3 bucket policies can allow or deny requests based on the elements in the policy. (For example, allow user Alice to PUT but not DELETE objects in the bucket.)
+
+> **Note:** You attach S3 bucket policies at the bucket level (that is, you can’t attach a bucket policy to an S3 object), but the permissions specified in the bucket policy apply to all of the objects in the bucket. You can also specify permissions at the object level by putting an object as the resource in the bucket policy.
+
+A bucket policy is a type of resource-based policy that can be used to grant permissions to the principal that is specified in the policy. Principals can be in the same account as the resource or in other accounts. For cross-account permissions to other AWS accounts or users in another account, you must use a bucket policy.
+
+IAM policies and S3 bucket policies are both used for access control and they’re both written in JSON using the AWS access policy language.
+
+#### When to use IAM policies vs. S3 policies
+
+Use IAM policies if:
+
+- You need to control access to AWS services other than S3. IAM policies will be simpler to manage since you can centrally manage your permissions in IAM, instead of spreading them between IAM and S3.
+- You have numerous S3 buckets, each with different permissions requirements. IAM policies will be simpler to manage since you don’t have to define a large number of S3 bucket policies and can instead rely on fewer, more detailed IAM policies.
+- You prefer to keep access control policies in the IAM environment.
+
+Use S3 bucket policies if:
+
+- You want a simple way to grant [cross-account access](http://docs.aws.amazon.com/AmazonS3/latest/dev/AccessPolicyLanguage_UseCases_s3_a.html) to your S3 environment, without using [IAM roles](http://docs.aws.amazon.com/IAM/latest/UserGuide/cross-acct-access-walkthrough.html).
+- Your IAM policies bump up against the size limit (up to 2 KB for users, 5 KB for groups, and 10 KB for roles). S3 supports bucket policies of up to 20 KB.
+- You prefer to keep access control policies in the S3 environment.
+- You want to apply common security controls to the principals who interact with S3 buckets, such as restricting the IP addresses or VPC a bucket can be accessed from.
+
+If you’re still unsure of which to use, consider which audit question is most important to you:
+
+- If you’re more interested in “**What can this user do in AWS?**”, then IAM policies are probably the way to go. You can answer this question by looking up an IAM user and then examining their IAM policies to see what rights they have.
+- If you’re more interested in “**Who can access this S3 bucket?**”, then S3 bucket policies will likely suit you better. You can answer this question by looking up a bucket and examining the bucket policy.
+
+[IAM Policies and Bucket Policies and ACLs! Oh, My! (Controlling Access to S3 Resources) \| AWS Security Blog](https://aws.amazon.com/blogs/security/iam-policies-and-bucket-policies-and-acls-oh-my-controlling-access-to-s3-resources/)
+
 ## Encryption
 
 Amazon S3 now applies server-side encryption with Amazon S3 managed keys (SSE-S3) as the base level of encryption for every bucket in Amazon S3. Starting January 5, 2023, all new object uploads to Amazon S3 are automatically encrypted at no additional cost and with no impact on performance.
