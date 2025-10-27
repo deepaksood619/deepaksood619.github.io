@@ -28,4 +28,4 @@ Neha is also a mother to a two-year-old, and her journey reflects the growing pr
 
 - 202 words 1075 characters
 
-![Neha Rani Deswal](../media/neha-rani-deswal.jpg)
+<!-- ![Neha Rani Deswal](../media/neha-rani-deswal.jpg) -->

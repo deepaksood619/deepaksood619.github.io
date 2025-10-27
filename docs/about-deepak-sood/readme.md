@@ -4,7 +4,7 @@
 - [Projects](about-deepak-sood/projects/readme.md)
 - [Paper / Publications / References](about-deepak-sood/paper-publications-references.md)
 - [Courses / Certifications](courses/readme.md)
-- [Meetups / Talks / Sessions](about-deepak-sood/meetups-talks-sessions.md)
+<!-- - [Meetups / Talks / Sessions](about-deepak-sood/meetups-talks-sessions.md) -->
 - [Achievements / Activities / Awards](about-deepak-sood/achievements-activities-awards.md)
 - [Social Links](about-deepak-sood/social-links.md)
 - [FAQs](about-deepak-sood/faqs.md)
@@ -17,6 +17,7 @@
 - [Intros](about-deepak-sood/intros.md)
 - [Neha Rani Deswal](about-deepak-sood/neha-rani-deswal.md)
 - [Resume](https://bit.ly/deepak_sood_resume)
-- [Portfolio Photos](https://drive.google.com/drive/folders/1dIKxnnaoqPTuCsv21NiiiI-2Kdo14y0Q?usp=sharing)
 
-![Deepak Sood Portfolio Shot](../media/7.%20portfolio_shot_front_compressed.jpg)
+<!-- - [Portfolio Photos](https://drive.google.com/drive/folders/1dIKxnnaoqPTuCsv21NiiiI-2Kdo14y0Q?usp=sharing) -->
+
+<!-- ![Deepak Sood Portfolio Shot](../media/7.%20portfolio_shot_front_compressed.jpg) -->

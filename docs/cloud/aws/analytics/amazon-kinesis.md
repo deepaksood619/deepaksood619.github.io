@@ -176,3 +176,4 @@ In summary, the choice between Amazon Kinesis and Apache Kafka depends on factor
 ## Links
 
 - [Amazon Kinesis Data Streams: Auto-scaling the number of shards | by Brandon Stanley | Slalom Data & AI | Medium](https://medium.com/slalom-data-ai/amazon-kinesis-data-streams-auto-scaling-the-number-of-shards-105dc967bed5)
+- [AWS re:Invent 2024 - What’s new: Data streaming on AWS (ANT327)](https://youtu.be/N_fuloZuoSU)

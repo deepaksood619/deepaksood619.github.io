@@ -315,6 +315,7 @@ Transit VPC can be used to enable connectivity between various VPC’s in differ
 ![Transit VPC](../../../media/Screenshot%202025-10-26%20at%2010.56.41%20AM.jpg)
 
 Transit VPC is not the right solution for this use-case as Transit Gateway provides several advantages over Transit VPC:
+
 1. Transit Gateway abstracts away the complexity of maintaining VPN connections with hundreds of VPCs.
 2. Transit Gateway removes the need to manage and scale Amazon EC2 based software appliances. AWS is responsible for managing all resources needed to route traffic.
 3. Transit Gateway removes the need to manage high availability by providing a highly available and redundant Multi-AZ infrastructure.
