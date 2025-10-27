@@ -84,6 +84,25 @@ To resolve DNS queries for any resources in the on-premises network from the AWS
 
 ## 5. Amazon API Gateway - Build, Deploy, and Manage APIs
 
+Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale. APIs act as the "front door" for applications to access data, business logic, or functionality from your backend services. Using API Gateway, you can create RESTful APIs and WebSocket APIs that enable real-time two-way communication applications. API Gateway supports containerized and serverless workloads, as well as web applications.
+
+You can enable **Amazon API caching in Amazon API Gateway** to cache your endpoint's responses. With caching, you can reduce the number of calls made to your endpoint and also improve the latency of requests to your API. When you enable caching for a stage, API Gateway caches responses from your endpoint for a specified time-to-live (TTL) period, in seconds. Amazon API Gateway then responds to the request by looking up the endpoint response from the cache instead of requesting your endpoint. **The default TTL value for API caching is 300 seconds. The maximum TTL value is 3600 seconds. TTL=0 means caching is disabled.**
+
+[Amazon API Gateway Pricing: 6 Tips to Control the Cost](https://www.stormit.cloud/blog/amazon-api-gateway-pricing/)
+
+1. Right type of API gateway - REST APIs vs HTTP APIs
+2. API Gateway integration feature
+3. Cognito authentication
+4. Replace API Gateway with ALB (Application Load Balancer)
+5. Reduce unnecessary API calls
+6. Reduce data transfer costs
+
+[Choose between REST APIs and HTTP APIs - Amazon API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-vs-rest.html)
+
+1. REST APIs and HTTP APIs are both RESTful API products. REST APIs support more features than HTTP APIs, while HTTP APIs are designed with minimal features so that they can be offered at a lower price. Choose REST APIs if you need features such as API keys, per-client throttling, request validation, AWS WAF integration, or private API endpoints. Choose HTTP APIs if you don't need the features included with REST APIs.
+2. HTTP APIs - $1.05 vs REST APIs - $3.50
+3. Amazon API Gateway creates RESTful APIs that enable stateless client-server communication and Amazon API Gateway also creates WebSocket APIs that adhere to the WebSocket protocol, which enables stateful, full-duplex communication between client and server
+
 ## 6. AWS Direct Connect - Dedicated Network Connection to AWS
 
 A Direct Connect gateway is a global resource that allows VPCs in any AWS Region (except China) to connect to Direct Connect via virtual private gateways (VGWs). By connecting both Direct Connect links to the same DX gateway and associating the VGWs of all relevant VPCs, the company can enable transitive routing across Regions and between on-premises locations and VPCs — without setting up complex peering or custom VPN appliances.

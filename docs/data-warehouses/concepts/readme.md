@@ -36,3 +36,4 @@
 ## Others
 
 - [Big Data](ai/big-data/readme.md)
+- Data Lake + Data Warehouse = Data LakeHouse

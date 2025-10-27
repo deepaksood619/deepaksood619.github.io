@@ -277,6 +277,7 @@ Total with Duplicates - 331 services
 46. **PyTorch on AWS** - Flexible open-source machine learning framework
 47. **TensorFlow on AWS** - Open-source machine intelligence library
 48. **Amazon CodeWhisperer** - Build apps faster with ML-powered coding companion
+49. **AWS HealthOmics** - Accelerate scientific breakthroughs at scale with fully managed bioinformatics workflows
 
 ## 14. Management & Governance (28)
 

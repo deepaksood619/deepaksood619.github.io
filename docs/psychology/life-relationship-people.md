@@ -56,6 +56,14 @@ The secret to feeling great about yourself is not to be found in searching for p
 
 I would recognize you in total darkness, were you mute and I deaf. I would recognize you in another lifetime entirely, in different bodies, different times. And I would love you in all of this, until the very last star in the sky burnt out into oblivion."
 
+- If you marry the right person, everyday is a Valentine's day.
+- Marry the wrong person, everyday is Martyrs Day.
+- Marry the lazy person, everyday is Labour Day.
+- Marry the rich person, everyday is New Year's Day.
+- Marry an immature person, everyday would seem like Children's Day.
+- Marry a cheater or liar, everyday will become April Fool's Day.
+- And if you don't get married everyday is Independence Day!
+
 ![image](../media/Life-Relationship-People-image1.jpg)
 
 1. **Body:** The condition of your body, including your diet, stamina, strength, and recovery.

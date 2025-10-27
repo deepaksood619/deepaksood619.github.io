@@ -174,6 +174,11 @@ This fast turnaround is particularly valuable in call quality monitoring, where 
 - [Teneo.ai \| Make Your AI Agent the Smartest](https://www.teneo.ai/)
 - [Build Chat and Voice AI Agents Without Code \| Voiceflow](https://www.voiceflow.com/)
 
+## Text to Voice
+
+- [Voicemaker® - Text to Speech Converter](https://voicemaker.in/)
+- [Bring Agents and Creative to Life with our AI Voice Generator](https://elevenlabs.io/)
+
 ### [GitHub - freddyaboulton/fastrtc: The python library for real-time communication](https://github.com/freddyaboulton/fastrtc)
 
 Turn any python function into a real-time audio and video stream over WebRTC or WebSockets.

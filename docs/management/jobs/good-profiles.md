@@ -18,6 +18,7 @@
 - **Pradeep Parameswaran**
 - [https://arpitbhayani.me/](https://arpitbhayani.me/)
 - [linkedin.com/in/umar482/](https://www.linkedin.com/in/umar482/)
+- [Arjun Gullbadhar — LLM Engineer \| Building Production-Grade AI Systems](https://arjungullbadhar.com/_OPS-Tree-Global)
 
 ![image](../../media/Personality-Profiles-image1.jpg)
 

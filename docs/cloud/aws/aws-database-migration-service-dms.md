@@ -18,9 +18,9 @@ A task can consist of three major phases
 
 ## Migration Types
 
-- Full load (Migrate existing data) - If you can afford an outage long enough to copy your existing data, this option is a good one to choose. This option simply migrates the data from your source database to your target database, creating tables when necessary.
-- Full load + CDC (Migrate existing data and replicate ongoing changes) - This option performs a full data load while capturing changes on the source. After the full load is complete, captured changes are applied to the target. Eventually, the application of changes reaches a steady state. At this point, you can shut down your applications, let the remaining changes flow through to the target, and then restart your applications pointing at the target.
-- CDC only (Replicate data changes only) - In some situations, it might be more efficient to copy existing data using a method other than AWS DMS. For example, in a homogeneous migration, using native export and import tools might be more efficient at loading bulk data. In this situation, you can use AWS DMS to replicate changes starting when you start your bulk load to bring and keep your source and target databases in sync.
+- **Full load (Migrate existing data) -** If you can afford an outage long enough to copy your existing data, this option is a good one to choose. This option simply migrates the data from your source database to your target database, creating tables when necessary.
+- **Full load + CDC (Migrate existing data and replicate ongoing changes) -** This option performs a full data load while capturing changes on the source. After the full load is complete, captured changes are applied to the target. Eventually, the application of changes reaches a steady state. At this point, you can shut down your applications, let the remaining changes flow through to the target, and then restart your applications pointing at the target.
+- **CDC only (Replicate data changes only) -** In some situations, it might be more efficient to copy existing data using a method other than AWS DMS. For example, in a homogeneous migration, using native export and import tools might be more efficient at loading bulk data. In this situation, you can use AWS DMS to replicate changes starting when you start your bulk load to bring and keep your source and target databases in sync.
 
 - https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Introduction.HighLevelView.html
 - https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Introduction.Components.html
@@ -29,7 +29,7 @@ A task can consist of three major phases
 
 ## Loading multiple tables in parallel
 
-By default, AWS DMS loads eight tables at a time. You might see some performance improvement by increasing this slightly when using a very large replication server, such as a dms.c4.xlarge or larger instance.
+By default, AWS DMS loads eight tables at a time. You might see some performance improvement by increasing this slightly when using a very large replication server, such as a `dms.c4.xlarge` or larger instance.
 
 - https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Troubleshooting.html
 - [**https://aws.amazon.com/premiumsupport/knowledge-center/dms-batch-apply-cdc-replication/**](https://aws.amazon.com/premiumsupport/knowledge-center/dms-batch-apply-cdc-replication/)
@@ -188,11 +188,20 @@ mysqldump --no-data --routines --events -h SOURCE_DB_SERVER_NAME -u DMS_USER -p 
 - `data-masking-hash-mask`
 	- The `data-masking-digits-mask`, `data-masking-digits-randomize`, and `data-masking-hash-mask` are for masking sensitive information contained in one or more columns of the table when loading to target. These transformations are only available for column rule targets. For more details, see [Using data masking to hide sensitive information](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Tasks.CustomizingTasks.TableMapping.SelectionTransformation.Masking.html)
 
+## Optimizations
+
+- [Use AWS DMS batch apply to improve CDC replication performance \| AWS re:Post](https://repost.aws/knowledge-center/dms-batch-apply-cdc-replication)
+- [Understand and optimize replication for Amazon Redshift with AWS DMS | AWS Database Blog](https://aws.amazon.com/blogs/database/understand-and-optimize-replication-for-amazon-redshift-with-aws-dms/)
+- [Optimize memory for migration using AWS DMS | AWS re:Post](https://repost.aws/knowledge-center/dms-memory-optimization)
+
+## RDS to Data Lake
+
+[Step-by-step an Amazon RDS PostgreSQL database to an Amazon S3 data lake migration walkthrough - Database Migration Guide](https://docs.aws.amazon.com/dms/latest/sbs/postgresql-s3datalake.stepbystep.html)
+
 ## Links
 
 - [Perform delta data loads to data lakes using AWS DMS | AWS Database Blog](https://aws.amazon.com/blogs/database/perform-delta-data-loads-to-data-lakes-using-aws-dms/)
 - [Migrate an on-premises Oracle database to Amazon RDS for MySQL using AWS DMS and AWS SCT - AWS Prescriptive Guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/migrate-an-on-premises-oracle-database-to-amazon-rds-for-mysql-using-aws-dms-and-aws-sct.html)
-- [Understand and optimize replication for Amazon Redshift with AWS DMS | AWS Database Blog](https://aws.amazon.com/blogs/database/understand-and-optimize-replication-for-amazon-redshift-with-aws-dms/)
 - [Using MongoDB as a source for AWS DMS - AWS Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.MongoDB.html)
 - Mysql as source - [https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.MySQL.html](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.MySQL.html)
 - Mysql as target - [https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.MySQL.html](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.MySQL.html)
@@ -205,7 +214,6 @@ mysqldump --no-data --routines --events -h SOURCE_DB_SERVER_NAME -u DMS_USER -p 
 - Validation - [https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Validating.html#CHAP_Validating.Limitations](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Validating.html#CHAP_Validating.Limitations)
 - Monitoring DMS task - [https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Monitoring.html](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Monitoring.html)
 - S3 as target - [https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.S3.html](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.S3.html)
-- [Optimize memory for migration using AWS DMS | AWS re:Post](https://repost.aws/knowledge-center/dms-memory-optimization)
 
 - [Migrating a MySQL Database to RDS for MySQL or Aurora MySQL - Database Migration Guide](https://docs.aws.amazon.com/dms/latest/sbs/chap-manageddatabases.mysql2rds.html)
 - [Accelerate your database migration journey using AWS DMS Schema Conversion | AWS Database Blog](https://aws.amazon.com/blogs/database/accelerate-your-database-migration-journey-using-aws-dms-schema-conversion/)

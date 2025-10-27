@@ -1,6 +1,6 @@
 ## Amazon CloudFront
 
-Amazon CloudFront is a global Content Delivery Network (CDN) service which securely delivers website's dynamic, static, and streaming content by making it available from a global network of edge locations. Amazon CloudFront supports all types of files that can be served overHTTP.
+Amazon CloudFront is a global Content Delivery Network (CDN) service which securely delivers website's dynamic, static, and streaming content by making it available from a global network of edge locations. Amazon CloudFront supports all types of files that can be served over HTTP.
 
 ## Usage
 
@@ -23,6 +23,8 @@ Since CloudFront is an edge cache, Amazon CloudFront does not provide durable st
 ## Security
 
 CloudFront is a highly secure CDN that provides both network and application level protection. CloudFront customers benefit from the automatic protection of AWS Shield (DDoS protection service) Standard, at no additional charge. CloudFront is also seamlessly integrated with AWS WAF (Web Application Firewall) and AWS Shield Advanced to help protect your applications from more sophisticated threats and DDoS attacks.
+
+CloudFront **only supports ACM certificates that are created in the us-east-1 (N. Virginia) Region**. Even if the content resides in a different Region (like eu-west-2), a public certificate for HTTPS on a custom domain name must originate from us-east-1. This certificate is used to secure content access through CloudFront over HTTPS.
 
 https://www.mitrai.com/tech-guide/eight-types-of-aws-storage-services-explained
 
@@ -60,6 +62,7 @@ CloudFront price classes allow you to optimize costs by selecting the geographic
 - **Georestriction**
 	- [Restrict the geographic distribution of your content - Amazon CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/georestrictions.html)
 	- You can use geo restriction, also known as geo blocking, to prevent users in specific geographic locations from accessing content that you're distributing through a Amazon CloudFront distribution.
+- **Origin Access Control (OAC) is the recommended method for granting CloudFront permission to upload to (write into) an S3 bucket securely.** OAC supersedes the older Origin Access Identity (OAI) approach and supports both read and write operations. This allows you to restrict direct access to the S3 bucket and ensure that only CloudFront can act as a secure intermediary for uploads.
 
 ## Links
 

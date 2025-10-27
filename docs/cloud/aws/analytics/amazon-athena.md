@@ -26,14 +26,19 @@ By partitioning your data, you can restrict the amount of data scanned by each q
 
 If you issue queries against Amazon S3 buckets with a large number of objects and the data is not partitioned, such queries may affect the Get request rate limits in Amazon S3 and lead to Amazon S3 exceptions. To prevent errors, partition your data. Additionally, consider tuning your Amazon S3 request rates.
 
-## Note
+- [Get started managing partitions for Amazon S3 tables backed by the AWS Glue Data Catalog \| AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/get-started-managing-partitions-for-amazon-s3-tables-backed-by-the-aws-glue-data-catalog/)
+- [What is partitioning? - Amazon Athena](https://docs.aws.amazon.com/athena/latest/ug/ctas-partitioning-and-bucketing-what-is-partitioning.html)
+- [Partitioning Data on S3 to Improve Performance in Athena/Presto \| Upsolver](https://www.upsolver.com/blog/partitioning-data-s3-improve-performance-athena-presto)
+- [How Not to Partition Data in S3 (And What to Do Instead)](https://luminousmen.com/post/how-not-to-partition-data-in-s3-and-what-to-do-instead/)
+	- `s3://bucket/data/dt=2025-01-01/events.parquet` instead of `s3://bucket/data/year=2025/month=01/day=01/events.parquet`
 
-If you query a partitioned table and specify the partition in theWHEREclause, Athena scans the data only from that partition. For more information, see [Table Location and Partitions](https://docs.aws.amazon.com/athena/latest/ug/tables-location-format.html#table-location-and-partitions).
+### Note
 
-To create a table with partitions, you must define it during theCREATE TABLEstatement. UsePARTITIONED BYto define the keys by which to partition data. There are two scenarios discussed in the following sections:
+If you query a partitioned table and specify the partition in the `WHERE` clause, Athena scans the data only from that partition. For more information, see [Table Location and Partitions](https://docs.aws.amazon.com/athena/latest/ug/tables-location-format.html#table-location-and-partitions).
+
+To create a table with partitions, you must define it during the `CREATE TABLE` statement. Use `PARTITIONED BY` to define the keys by which to partition data. There are two scenarios discussed in the following sections:
 
 1. Data is already partitioned, stored on Amazon S3, and you need to access the data on Athena.
-
 2. Data is not partitioned.
 
 https://docs.aws.amazon.com/athena/latest/ug/partitions.html
@@ -43,7 +48,7 @@ When you create a table from CSV data in Athena, determine what types of values 
 - If data contains values enclosed in double quotes ("), you can use the [OpenCSV SerDe](https://cwiki.apache.org/confluence/display/Hive/CSV+Serde) to deserialize the values in Athena. In the following sections, note the behavior of this SerDe withSTRINGdata types.
 - If data does not contain values enclosed in double quotes ("), you can omit specifying any SerDe. In this case, Athena uses the defaultLazySimpleSerDe. For information, see [LazySimpleSerDe for CSV, TSV, and Custom-Delimited Files](https://docs.aws.amazon.com/athena/latest/ug/lazy-simple-serde.html).
 
-## Key Points
+### Key Points
 
 - Does not support embedded line breaks in CSV files.
 - Does not support empty fields in columns defined as a numeric data type.

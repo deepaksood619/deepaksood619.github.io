@@ -46,6 +46,14 @@ https://www.youtube.com/playlist?list=PLM7R3YrvpbZxURPwjgfi8C7PGi3FYWcI6
 
 RAS - robotic assisted surgery
 
+## Gall Bladder
+
+[Laparoscopic Cholecystectomy Full Length Skin to Skin Video with Near Infrared Cholangiography - YouTube](https://www.youtube.com/watch?v=oWq-nAz_fwU)
+
+[Lap Cholecystectomy::Unedited Video for Surgery Residents\|\| Gallbladder Surgery by Dr.Saurabh Dixit - YouTube](https://www.youtube.com/watch?v=ChGYg4yTOOk)
+
+[Gallbladder Surgery (Removal): WATCH THIS! - YouTube](https://www.youtube.com/watch?v=CmwDBs_CvI8)
+
 ## Health
 
 [The Future of Health: What Does Good Health Mean?](https://youtu.be/GXeSoN_8zC4)

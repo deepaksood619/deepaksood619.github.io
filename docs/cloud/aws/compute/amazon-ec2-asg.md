@@ -51,6 +51,13 @@ Amazon EC2 Auto Scaling uses termination policies to decide the order for termin
 
 ### Default termination policy
 
+1. Determine which Availability Zones (Azs) have the most instances and at least one instance that is not protected from scale-in.
+2. Determine which instances to terminate to align the remaining instances to the allocation strategy for the On-Demand or Spot Instance that is terminating.
+3. Determine whether any of the instances use the oldest launch template or configuration:
+	1. Determine whether any of the instances use the oldest launch template unless there are instances that use a launch configuration.
+	2. Determine whether any of the instances use the oldest launch configuration.
+4. After applying all of the above criteria, if there are multiple unprotected instances to terminate, determine which instances are closest to the next billing hour.
+
 When Amazon EC2 Auto Scaling needs to terminate an instance, it first identifies which Availability Zone (or Zones) has the most instances and at least one instance that is not protected from scale in. Then, it proceeds to evaluate unprotected instances within the identified Availability Zone as follows:
 
 #### Instances that use outdated configurations

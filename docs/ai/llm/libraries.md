@@ -85,6 +85,8 @@
 - [**Featureform**](https://github.com/featureform/featureform) - feature store. Turn your existing data infrastructure into a feature store.
 - [**Galactic**](https://github.com/taylorai/galactic) cleaning and curation tools for massive unstructured text datasets. [Ben (48/100) on X](https://x.com/andersonbcdefg/status/1703093978982400057?t=9O2R93Ok8Mp6KqFegZVHJQ&s=09)
 - [**Great Expectations**](https://github.com/great-expectations/great_expectations) - helps data teams build a shared understanding of their data through quality testing, documentation, and profiling.
+	- [Great Expectations: have confidence in your data, no matter what • Great Expectations](https://greatexpectations.io/)
+	- [Great expectations is shit : r/dataengineering](https://www.reddit.com/r/dataengineering/comments/1dpjhvw/great_expectations_is_shit/)
 
 ### Data Visualization
 

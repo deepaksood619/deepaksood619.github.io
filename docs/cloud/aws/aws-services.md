@@ -63,6 +63,16 @@ fields *@timestamp*, *@message* | filter *@message* like /(?i)(connect)/ # | fil
 
 [Reduce and prevent charges in Amazon CloudWatch | AWS re:Post](https://repost.aws/knowledge-center/cloudwatch-understand-and-reduce-charges?sc_channel=sm)
 
+#### Cloudwatch Alarm Actions
+
+Using Amazon CloudWatch alarm actions, you can create alarms that automatically stop, terminate, reboot, or recover your EC2 instances. You can use the stop or terminate actions to help you save money when you no longer need an instance to be running. You can use the reboot and recover actions to automatically reboot those instances or recover them onto new hardware if a system impairment occurs.
+
+There are a number of scenarios in which you might want to automatically stop or terminate your instance. For example, you might have instances dedicated to batch payroll processing jobs or scientific computing tasks that run for a period of time and then complete their work. Rather than letting those instances sit idle (and accrue charges), you can stop or terminate them, which helps you to save money. The main difference between using the stop and the terminate alarm actions is that you can easily restart a stopped instance if you need to run it again later. You can also keep the same instance ID and root volume. However, you cannot restart a terminated instance. Instead, you must launch a new instance.
+
+You can add the stop, terminate, or reboot, actions to any alarm that is set on an Amazon EC2 per-instance metric, including basic and detailed monitoring metrics provided by Amazon CloudWatch (in the AWS/EC2 namespace), in addition to any custom metrics that include the "InstanceId=" dimension, as long as the InstanceId value refers to a valid running Amazon EC2 instance. You can also add the recover action to alarms that is set on any Amazon EC2 per-instance metric except for `StatusCheckFailed_Instance`.
+
+[Create alarms to stop, terminate, reboot, or recover an EC2 instance - Amazon CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/UsingAlarmActions.html)
+
 #### Composite Alarms
 
 [Combining alarms - Amazon CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Create_Composite_Alarm.html)
@@ -140,17 +150,6 @@ AWS CloudFormation utilizes templates, stacks, and stack sets to manage infrastr
 
 1. AWS Mobile Hub - Build, Test, and Monitor Apps
 2. Amazon API Gateway - Build, Deploy, and Manage APIs
-    1. [Amazon API Gateway Pricing: 6 Tips to Control the Cost](https://www.stormit.cloud/blog/amazon-api-gateway-pricing/)
-        1. Right type of API gateway - REST APIs vs HTTP APIs
-        2. API Gateway integration feature
-        3. Cognito authentication
-        4. Replace API Gateway with ALB (Application Load Balancer)
-        5. Reduce unnecessary API calls
-        6. Reduce data transfer costs
-    2. [Choose between REST APIs and HTTP APIs - Amazon API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-vs-rest.html)
-        1. REST APIs and HTTP APIs are both RESTful API products. REST APIs support more features than HTTP APIs, while HTTP APIs are designed with minimal features so that they can be offered at a lower price. Choose REST APIs if you need features such as API keys, per-client throttling, request validation, AWS WAF integration, or private API endpoints. Choose HTTP APIs if you don't need the features included with REST APIs.
-    3. HTTP APIs - $1.05 vs REST APIs - $3.50
-    4. Amazon API Gateway creates RESTful APIs that enable stateless client-server communication and Amazon API Gateway also creates WebSocket APIs that adhere to the WebSocket protocol, which enables stateful, full-duplex communication between client and server
 3. Amazon Pinpoint - Push Notifications for Mobile Apps
 4. AWS AppSync - Real-time and Offline Mobile Data Apps
 	1. AWS AppSync is a fully managed GraphQL API and pub/sub service that simplifies the creation of real-time data-driven applications by connecting them to multiple data sources using a single API endpoint. It provides serverless APIs for data access, subscriptions, and events, handling tasks like data synchronization, scaling, and security. You can use it to build backends for web, mobile, and IoT apps, connecting to data stores like DynamoDB, Aurora, and Lambda functions, and even other HTTP endpoints.
@@ -270,6 +269,10 @@ EventBridge Scheduler offers the following key features that you can use to conf
 [Introducing Amazon EventBridge Scheduler | AWS Compute Blog](https://aws.amazon.com/blogs/compute/introducing-amazon-eventbridge-scheduler/)
 
 [What is Amazon EventBridge Scheduler? - EventBridge Scheduler](https://docs.aws.amazon.com/scheduler/latest/UserGuide/what-is-scheduler.html)
+
+### Amazon EventBridge to decouple the system architecture
+
+Amazon EventBridge is recommended when you want to **build an application that reacts to events from SaaS applications and/or AWS services.** Amazon EventBridge is the only event-based service that **integrates directly with third-party SaaS partners.** Amazon EventBridge also automatically ingests events from over 90 AWS services without requiring developers to create any resources in their account. Further, Amazon EventBridge uses a defined JSON-based structure for events and allows you to create rules that are applied across the entire event body to select events to forward to a target. Amazon EventBridge currently supports over 15 AWS services as targets, including AWS Lambda, Amazon SQS, Amazon SNS, and Amazon Kinesis Streams and Firehose, among others. At launch, Amazon EventBridge is has limited throughput (see Service Limits) which can be increased upon request, and typical latency of around half a second.
 
 ## Customer Engagement
 

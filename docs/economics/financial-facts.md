@@ -52,6 +52,8 @@ The United States holds the largest official gold reserves in the world, followe
 
 [Gold reserve - Wikipedia](https://en.m.wikipedia.org/wiki/Gold_reserve)
 
+[Gold Explained, Finally - YouTube](https://www.youtube.com/watch?v=JMObz0Dgq7M)
+
 ## Continent wise household wealth
 
 - North America - $158.1 trillion

@@ -182,3 +182,4 @@ Problems
 - [Wadhwani Foundation: Creating Jobs. Changing Lives.](https://wadhwanifoundation.org/)
 - [AI for Social Impact - Wadhwani AI](https://www.wadhwaniai.org/)
 - Ek umang, Noida
+- [50,000 People Are Cleaning Up the World's Most Polluted River. \| by @BDCleanup - YouTube](https://www.youtube.com/watch?v=xCLobD-ZkE0)

@@ -146,11 +146,13 @@ AWS PrivateLink is a highly available, scalable technology that you can use to p
 
 Establish connectivity between VPCs and AWS services without exposing data to the internet
 
-- Secure your traffic by using private IP addresses when exchanging data with your software as a service (SaaS) applications.
+- Secure your traffic by using private IP addresses when exchanging data with your **software as a service (SaaS) applications**.
 - Connect with simplified network and firewall management rules and reduced data output and NAT costs.
 - Accelerate cloud migrations by combining PrivateLink with AWS Direct Connect or a VPN.
 
 AWS PrivateLink provides private connectivity between virtual private clouds (VPCs), supported AWS services, and your on-premises networks without exposing your traffic to the public internet. Interface VPC endpoints, powered by PrivateLink, connect you to services hosted by AWS Partners and supported solutions available in AWS Marketplace.
+
+PrivateLink endpoint appears as an elastic network interface (ENI) in the application’s VPC, allowing internal services to communicate with the SaaS API using private IP addresses. Importantly, the traffic never leaves the Amazon network, which significantly reduces the risk of data exposure or interception. Additionally, the SaaS provider cannot initiate connections to the application’s services because PrivateLink is inherently unidirectional from the service consumer (the company's VPC) to the service provider (the SaaS provider’s VPC). This architecture helps meet strict security and compliance requirements, such as zero-trust networking and least privilege access.
 
 ### AWS Private link vs AWS VPC Endpoints
 
@@ -305,6 +307,20 @@ The following are the key concepts for transit gateways:
 [AWS Transit Gateway](https://aws.amazon.com/transit-gateway/)
 
 [What is AWS Transit Gateway for Amazon VPC? - Amazon VPC](https://docs.aws.amazon.com/vpc/latest/tgw/what-is-transit-gateway.html)
+
+### Transit VPCs
+
+Transit VPC can be used to enable connectivity between various VPC’s in different regions and customer data centers. You can use this to connect multiple VPCs that are geographically disparate and/or running in separate AWS accounts, to a common VPC that serves as a global network transit center. This network topology simplifies network management and minimizes the number of connections that you need to set up.
+
+![Transit VPC](../../../media/Screenshot%202025-10-26%20at%2010.56.41%20AM.jpg)
+
+Transit VPC is not the right solution for this use-case as Transit Gateway provides several advantages over Transit VPC:
+1. Transit Gateway abstracts away the complexity of maintaining VPN connections with hundreds of VPCs.
+2. Transit Gateway removes the need to manage and scale Amazon EC2 based software appliances. AWS is responsible for managing all resources needed to route traffic.
+3. Transit Gateway removes the need to manage high availability by providing a highly available and redundant Multi-AZ infrastructure.
+4. Transit Gateway improves bandwidth for inter-VPC communication to burst speeds of 50 Gbps per Availability Zone (AZ).
+5. Transit Gateway streamlines user costs to a simple per hour per/GB transferred model.
+6. Transit Gateway decreases latency by removing Amazon EC2 proxies and the need for VPN encapsulation.
 
 ## Others
 

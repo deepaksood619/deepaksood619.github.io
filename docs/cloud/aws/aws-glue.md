@@ -26,6 +26,12 @@ Second option: we chose to use an AWS Glue feature called bookmarks. Once a job 
 
 Note: you may only add new files, or append to existing files. Overwriting data in existing files is not supported (nor should you want to do it. In fact, in the new world of event sourcing, overwriting means hiding a crime)
 
+Glue job bookmarks are designed to track what data has already been processed allowing each ETL run to fetch only new or unprocessed rows based on specific columns such as timestamps or auto-incrementing primary keys. This captures inserts and can identify updates when your database schema includes columns like "updated_at" or "last_modified." However **Glue job bookmarks do not capture delete operations** as they only process records that are present in the Aurora source at query time and cannot provide a complete audit trail of all database changes. If your use case requires full CDC capabilities including comprehensive tracking of deletions and in-place updates AWS Data Migration Service (DMS) would be the more appropriate solution as it supports change logs and can emit complete CDC streams to S3.
+
+[Tracking processed data using job bookmarks - AWS Glue](https://docs.aws.amazon.com/glue/latest/dg/monitor-continuations.html)
+
+[Using job bookmarks - AWS Glue](https://docs.aws.amazon.com/glue/latest/dg/programming-etl-connect-bookmarks.html)
+
 ## AWS Glue Concepts
 
 ![image](../../media/Cloud-AWS-AWS-Glue-image2.jpg)
@@ -112,13 +118,10 @@ The following workflow diagram shows how AWS Glue crawlers interact with data st
 
 The following is the general workflow for how a crawler populates the AWS Glue Data Catalog:
 
-- A crawler runs any customclassifiersthat you choose to infer the format and schema of your data. You provide the code for custom classifiers, and they run in the order that you specify.
-    The first custom classifier to successfully recognize the structure of your data is used to create a schema. Custom classifiers lower in the list are skipped. If no custom classifier matches your data's schema, built-in classifiers try to recognize your data's schema. An example of a built-in classifier is one that recognizes JSON.
-
+- A crawler runs any custom classifiers that you choose to infer the format and schema of your data. You provide the code for custom classifiers, and they run in the order that you specify.
+	- The first custom classifier to successfully recognize the structure of your data is used to create a schema. Custom classifiers lower in the list are skipped. If no custom classifier matches your data's schema, built-in classifiers try to recognize your data's schema. An example of a built-in classifier is one that recognizes JSON.
 - The crawler connects to the data store. Some data stores require connection properties for crawler access.
-
 - The inferred schema is created for your data.
-
 - The crawler writes metadata to the Data Catalog. A table definition contains metadata about the data in your data store. The table is written to a database, which is a container of tables in the Data Catalog. Attributes of a table include classification, which is a label created by the classifier that inferred the table schema.
 
 https://docs.aws.amazon.com/glue/latest/dg/populate-data-catalog.html

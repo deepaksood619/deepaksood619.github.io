@@ -52,6 +52,12 @@ aws s3 cp aws.jpg s3://bigbet90 --region us-west-2 --endpoint-url https://bigbet
 
 ## Download / Upload folder / bucket from s3
 
+The aws S3 sync command uses the CopyObject APIs to copy objects between Amazon S3 buckets. The sync command lists the source and target buckets to identify objects that are in the source bucket but that aren't in the target bucket. The command also identifies objects in the source bucket that have different LastModified dates than the objects that are in the target bucket. **The sync command on a versioned bucket copies only the current version of the object—previous versions aren't copied.** By default, this preserves object metadata, but the access control lists (ACLs) are set to FULL_CONTROL for your AWS account, which removes any additional ACLs. If the operation fails, you can run the sync command again without duplicating previously copied objects.
+
+You can use the command like so:
+
+`aws s3 sync s3://DOC-EXAMPLE-BUCKET-SOURCE s3://DOC-EXAMPLE-BUCKET-TARGET`
+
 ```bash
 aws s3 sync
 

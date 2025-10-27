@@ -27,6 +27,13 @@
 	1. https://github.com/aws-samples/amazon-textract-code-samples/tree/master/python
 16. Amazon Kendra - Enterprise search service
 17. [AWS Fraud Detector](https://aws.amazon.com/fraud-detector/) - Fraud detection in payments or loyalty services
+18. [Genomic Data Analysis – AWS HealthOmics – Amazon Web Services](https://aws.amazon.com/healthomics/) - Accelerate scientific breakthroughs at scale with fully managed bioinformatics workflows
+	1. AWS HealthOmics is a HIPAA-eligible service that accelerates clinical diagnostic testing, drug discovery, and agriculture research by fully managing the complex infrastructure behind your bioinformatics workflows. HealthOmics supports industry-standard workflow languages (WDL, Nextflow, CWL) and seamlessly scales bioinformatics infrastructure to support data from tens of thousands of tests per day—all with predictable cost per-sample. HealthOmics handles the technical complexities like managing compute resources and maintaining workflow engines so you can focus entirely on scientific breakthroughs.
+	2. [What is AWS HealthOmics? - AWS HealthOmics](https://docs.aws.amazon.com/omics/latest/dev/what-is-healthomics.html)
+	3. HealthOmics consists of three main components.
+		- [HealthOmics workflows](https://docs.aws.amazon.com/omics/latest/dev/private-workflows.html) — Run bioinformatics computations on automatically provisioned and scaled infrastructure.
+		- [HealthOmics storage](https://docs.aws.amazon.com/omics/latest/dev/sequence-stores.html) — Store and share petabytes of genomics data efficiently at a low cost per gigabase.
+		- [HealthOmics analytics](https://docs.aws.amazon.com/omics/latest/dev/omics-analytics.html) — Prepare genomics data for multiomics and multimodal analyses.
 
 ### Amazon Kendra
 

@@ -184,6 +184,14 @@ Preprocess datasets, run inference when you don't need a persistent endpoint, an
 - https://towardsdatascience.com/a-quick-guide-to-using-spot-instances-with-amazon-sagemaker-b9cfb3a44a68
 - https://aws.amazon.com/blogs/aws/managed-spot-training-save-up-to-90-on-your-amazon-sagemaker-training-jobs
 
+## Sagemaker Unified Studio
+
+- [Amazon SageMaker Unified Studio is now generally available - AWS](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-unified-studio-generally-available/)
+- [Amazon Bedrock IDE demo in Amazon SageMaker Unified Studio \| Amazon Web Services - YouTube](https://www.youtube.com/watch?v=ZxAQXpSFwKk)
+- [Amazon SageMaker Unified Studio: Getting started with analytics - YouTube](https://www.youtube.com/watch?v=C8SwdZTP1c4)
+- [AWS re:Invent 2024-Next-generation Amazon SageMaker: The center for data, analytics & AI(ANT206-NEW) - YouTube](https://www.youtube.com/watch?v=5ZN-90fi3II)
+- [🚀 Amazon SageMaker Unified Studio + Bedrock \| Build AI Agents Faster! - YouTube](https://www.youtube.com/watch?v=xOOPPKRA3XE)
+
 ## Others
 
 ![image](../../media/AWS-Sagemaker-image7.jpg)
@@ -191,13 +199,22 @@ Preprocess datasets, run inference when you don't need a persistent endpoint, an
 - https://aws.amazon.com/blogs/machine-learning/understanding-amazon-sagemaker-notebook-instance-networking-configurations-and-advanced-routing-options
 - [AWS Innovate | Intro to Deep Learning: Building an Image Classifier on Amazon SageMaker - YouTube](https://www.youtube.com/watch?v=KCzgR7eQ3PY&ab_channel=AmazonWebServices)
 - [Introducing the next generation of Amazon SageMaker: The center for all your data, analytics, and AI | AWS News Blog](https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-sagemaker-the-center-for-all-your-data-analytics-and-ai/)
-- [Amazon SageMaker Unified Studio: Getting started with analytics - YouTube](https://www.youtube.com/watch?v=C8SwdZTP1c4)
-- [AWS re:Invent 2024-Next-generation Amazon SageMaker: The center for data, analytics & AI(ANT206-NEW) - YouTube](https://www.youtube.com/watch?v=5ZN-90fi3II)
-- [Amazon Bedrock IDE demo in Amazon SageMaker Unified Studio \| Amazon Web Services - YouTube](https://www.youtube.com/watch?v=ZxAQXpSFwKk)
 - [End To End Machine Learning Project Implementation Using AWS Sagemaker - YouTube](https://www.youtube.com/watch?v=Le-A72NjaWs)
 - [What Happened to Amazon SageMaker? Changes and New Services Explained in Plain English - YouTube](https://www.youtube.com/watch?v=iVIcl-546qA)
 - [Amazon SageMaker Unified Studio Integration with Amazon QuickSight - YouTube](https://www.youtube.com/watch?v=Y4lDkM36fCw)
 - [Streamlining Data & AI Workflows with Amazon SageMaker Unified Studio \| AWS Events - YouTube](https://www.youtube.com/watch?v=9rxlBsBtaxY)
 - [Introduction to data lineage in Amazon SageMaker Unified Studio \| Amazon Web Services - YouTube](https://www.youtube.com/watch?v=eGGsV7oZVvs)
-- [🚀 Amazon SageMaker Unified Studio + Bedrock \| Build AI Agents Faster! - YouTube](https://www.youtube.com/watch?v=xOOPPKRA3XE)
 - [Amazon SageMaker overview \| Amazon Web Services - YouTube](https://www.youtube.com/watch?v=mzkHGEyAPEw)
+- [AWS re:Invent 2024-Next-generation Amazon SageMaker: The center for data...](https://youtu.be/5ZN-90fi3II)
+- [AWS re:Invent 2024-Zero-ETL replication to Amazon SageMaker Lakehouse & ...](https://youtu.be/k-6vo3a4OuI)
+- [Introduction to Next-Gen Amazon SageMaker Platform](https://www.youtube.com/live/sWuKE6xzmNo)
+- [AWS re:Invent 2024 - Accelerate ML workflows with Amazon SageMaker Studi...](https://youtu.be/SAeZMA0KaFA)
+- [AWS AI and Data Conference 2025 – Accelerate your Analytics and AI with ...](https://youtu.be/qZTbS0xPN-U)
+- [Amazon SageMaker Unified Studio: An Integrated Experience for All Your D...](https://youtu.be/WkR7YgMyofk)
+- [Sagemaker Your All-in-One Data and AI Platform - Lets Talk About Data](https://www.youtube.com/live/uBrE5kTqSEg)
+- [Transforming Insurance analytics experience with Amazon SageMaker](https://www.youtube.com/live/kQE6mobPt3Y)
+- [AWS re:Invent 2024 - Accelerate production for gen AI using Amazon SageM...](https://youtu.be/-3Otl7GVeCc)
+- [AWS re:Invent 2024 - What’s new: Data streaming on AWS (ANT327)](https://youtu.be/N_fuloZuoSU)
+- [Introduction to Amazon SageMaker Studio | Amazon Web Services](https://youtu.be/YcJAc-x8XLQ)
+- [Deliver high-performance ML models faster with MLOps tools](https://youtu.be/T9llSCYJXxc)
+- [AWS re:Invent 2024 - [NEW LAUNCH] Amazon SageMaker Lakehouse: Accelerate...](https://youtu.be/LkH6ZzzA9dM)
