@@ -19,7 +19,7 @@ Many ways to train models on Sagemaker
 - AWS ML Marketplace
 - Notebook instance
 
-![image](media/AWS-Sagemaker-image2.jpg)
+![image](../../../media/AWS-Sagemaker-image2.jpg)
 
 ## Amazon SageMaker includes the following features
 
@@ -27,7 +27,7 @@ Many ways to train models on Sagemaker
 
 An integrated machine learning environment where you can build, train, deploy, and analyze your models all in the same application.
 
-![image](media/AWS-Sagemaker-image3.jpg)
+![image](../../../media/AWS-Sagemaker-image3.jpg)
 
 [**SageMaker Model Registry**](https://docs.aws.amazon.com/sagemaker/latest/dg/model-registry.html)
 
@@ -75,9 +75,9 @@ High-quality training datasets by using workers along with machine learning to c
 - Private labeling workforce
 - Third-party vendors
 
-![image](media/AWS-Sagemaker-image4.jpg)
+![image](../../../media/AWS-Sagemaker-image4.jpg)
 
-![image](media/AWS-Sagemaker-image5.jpg)
+![image](../../../media/AWS-Sagemaker-image5.jpg)
 
 Label Consolidation
 
@@ -141,7 +141,7 @@ Preprocess datasets, run inference when you don't need a persistent endpoint, an
 
 ## Built-in Algorithms
 
-![image](media/AWS-Sagemaker-image6.jpg)
+![image](../../../media/AWS-Sagemaker-image6.jpg)
 
 ## Instances
 
@@ -189,7 +189,7 @@ Preprocess datasets, run inference when you don't need a persistent endpoint, an
 
 ## Others
 
-![image](media/AWS-Sagemaker-image7.jpg)
+![image](../../../media/AWS-Sagemaker-image7.jpg)
 
 - [AWS SageMaker Practical for Beginners \| Build 6 Projects \| Udemy](https://www.udemy.com/course/practical-aws-sagemaker-6-real-world-case-studies/)
 - https://aws.amazon.com/blogs/machine-learning/understanding-amazon-sagemaker-notebook-instance-networking-configurations-and-advanced-routing-options
