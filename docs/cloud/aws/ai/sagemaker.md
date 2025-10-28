@@ -1,6 +1,9 @@
-# AWS Sagemaker
+# Amazon Sagemaker
 
-![image](../../media/AWS-Sagemaker-image1.jpg)
+- [sagemaker-unified-studio](cloud/aws/ai/sagemaker-unified-studio.md)
+- [sagemaker-lakehouse](cloud/aws/ai/sagemaker-lakehouse.md)
+
+![AWS ML Stack](../../../media/AWS-Sagemaker-image1.jpg)
 
 [Amazon SageMaker Technical Deep Dive Series - YouTube](https://www.youtube.com/playlist?list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz)
 
@@ -16,7 +19,7 @@ Many ways to train models on Sagemaker
 - AWS ML Marketplace
 - Notebook instance
 
-![image](../../media/AWS-Sagemaker-image2.jpg)
+![image](media/AWS-Sagemaker-image2.jpg)
 
 ## Amazon SageMaker includes the following features
 
@@ -24,7 +27,7 @@ Many ways to train models on Sagemaker
 
 An integrated machine learning environment where you can build, train, deploy, and analyze your models all in the same application.
 
-![image](../../media/AWS-Sagemaker-image3.jpg)
+![image](media/AWS-Sagemaker-image3.jpg)
 
 [**SageMaker Model Registry**](https://docs.aws.amazon.com/sagemaker/latest/dg/model-registry.html)
 
@@ -72,9 +75,9 @@ High-quality training datasets by using workers along with machine learning to c
 - Private labeling workforce
 - Third-party vendors
 
-![image](../../media/AWS-Sagemaker-image4.jpg)
+![image](media/AWS-Sagemaker-image4.jpg)
 
-![image](../../media/AWS-Sagemaker-image5.jpg)
+![image](media/AWS-Sagemaker-image5.jpg)
 
 Label Consolidation
 
@@ -138,7 +141,7 @@ Preprocess datasets, run inference when you don't need a persistent endpoint, an
 
 ## Built-in Algorithms
 
-![image](../../media/AWS-Sagemaker-image6.jpg)
+![image](media/AWS-Sagemaker-image6.jpg)
 
 ## Instances
 
@@ -184,108 +187,11 @@ Preprocess datasets, run inference when you don't need a persistent endpoint, an
 - https://towardsdatascience.com/a-quick-guide-to-using-spot-instances-with-amazon-sagemaker-b9cfb3a44a68
 - https://aws.amazon.com/blogs/aws/managed-spot-training-save-up-to-90-on-your-amazon-sagemaker-training-jobs
 
-## Sagemaker Lakehouse
-
-[AWS re:Invent 2024 - \[NEW LAUNCH\] Amazon SageMaker Lakehouse: Accelerate analytics & AI (ANT354-NEW) - YouTube](https://youtu.be/LkH6ZzzA9dM)
-
-### Data lake centric
-
-- Takes away decades of database capabilities such as transactions
-- Slow interactive queries at high concurrency
-- Lacks intelligent storage optimizations
-
-### Data warehouse centric
-
-- Lacks open access to data warehouse data
-- Limited engine interoperability with open table formats
-- Still creates data silo
-
-### Zero-ETL Integration
-
-Bring your data into the lakehouse without expensive pipeline management
-
-![Zero-ETL Integration](../../media/Screenshot%202025-10-27%20at%2011.42.05%20PM.jpg)
-
-### Amazon Sagemaker Lakehouse Components
-
-![Amazon Sagemaker Lakehouse Components](../../media/Screenshot%202025-10-27%20at%2011.32.41%20PM.jpg)
-
-### Storage
-
-1. Amazon S3
-	1. Store your data in Amazon S3 buckets
-	2. Access your data using Apache Iceberg REST catalog APIs
-	3. Enable automatic table optimization for Apache Iceberg tables
-	4. Get high performance with managed statistics
-	5. Access data seamlessly from AWS and 3P engines
-2. Amazon S3 Tables
-	1. New S3 storage class for Apache Iceberg data lakes
-	2. Amazon S3 APls to read/write to S3 tables
-	3. Managed Iceberg table maintenance
-	4. Simple integration with Lakehouse (preview)
-	5. 10x requests per second compared to standard Amazon S3 buckets
-3. Table Maintenance for Iceberg Tables
-	1. **Compation:** Consolidate small objects into larger ones to improve query performance
-	2. **Snapshot Retention:** Remove unused snapshots
-4. Redshift Managed Storage (RMS)
-	1. Publish data from your existing Amazon Redshift data warehouses to the Lakehouse
-	2. Create new datasets for your data lake in Redshift Managed Storage natively in the Lakehouse
-	3. Benefit from ML-powered optimizations for frequently running workloads
-5. Redshift Managed Storage use cases
-	1. Near real-time ingestion
-	2. Transactionally consistent change data capture (CDC) from operational data sources
-	3. Multi-statement and multi-table transactional consistency
-	4. 7x better throughput from Amazon Redshift for BI analytics
-	5. Faster performance for small writes in Apache Spark
-	6. Faster reads from Spark compared to Apache Iceberg tables
-
-### Unified Technical Catalog
-
-- Dynamic catalog hierarchy to organize data in the storage system
-- Each catalog maps to a storage type
-- Managed catalogs to create new data
-	- ﻿﻿Redshift Managed Storage
-	- ﻿﻿Amazon S3
-- Bring data into a Federated Catalog
-	- Amazon Redshift
-	- Amazon S3 table buckets
-	- External Sources like MySQL, BigQuery
-
-### Integrated Access Control
-
-- Support for fine-grained access control
-	- ﻿﻿Allow/deny access at table level
-	- ﻿﻿Allow/deny access at column level
-	- ﻿﻿Allow/deny access at cell level
-- Industry standard access controls for 3P engines
-	- ﻿﻿Tag-based access to data(TBAC)
-	- ﻿﻿Role-based access to data(RBAC)
-- Zero copy data sharing within and across enterprises
-
-**Fine Grained Access Control**
-
-![Fine Grained Access Control](../../media/Screenshot%202025-10-27%20at%2011.56.32%20PM.jpg)
-
-**Tag based access control (TBAC)**
-
-![Tag based access control (TBAC)](../../media/Screenshot%202025-10-27%20at%2011.57.15%20PM.jpg)
-
-**Zero copy data sharing models**
-
-![Zero copy data sharing models](../../media/Screenshot%202025-10-27%20at%2011.57.59%20PM.jpg)
-
-## Sagemaker Unified Studio
-
-- [Amazon SageMaker Unified Studio is now generally available - AWS](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-unified-studio-generally-available/)
-- [Amazon Bedrock IDE demo in Amazon SageMaker Unified Studio \| Amazon Web Services - YouTube](https://www.youtube.com/watch?v=ZxAQXpSFwKk)
-- [Amazon SageMaker Unified Studio: Getting started with analytics - YouTube](https://www.youtube.com/watch?v=C8SwdZTP1c4)
-- [AWS re:Invent 2024-Next-generation Amazon SageMaker: The center for data, analytics & AI(ANT206-NEW) - YouTube](https://www.youtube.com/watch?v=5ZN-90fi3II)
-- [🚀 Amazon SageMaker Unified Studio + Bedrock \| Build AI Agents Faster! - YouTube](https://www.youtube.com/watch?v=xOOPPKRA3XE)
-
 ## Others
 
-![image](../../media/AWS-Sagemaker-image7.jpg)
+![image](media/AWS-Sagemaker-image7.jpg)
 
+- [AWS SageMaker Practical for Beginners \| Build 6 Projects \| Udemy](https://www.udemy.com/course/practical-aws-sagemaker-6-real-world-case-studies/)
 - https://aws.amazon.com/blogs/machine-learning/understanding-amazon-sagemaker-notebook-instance-networking-configurations-and-advanced-routing-options
 - [AWS Innovate | Intro to Deep Learning: Building an Image Classifier on Amazon SageMaker - YouTube](https://www.youtube.com/watch?v=KCzgR7eQ3PY&ab_channel=AmazonWebServices)
 - [Introducing the next generation of Amazon SageMaker: The center for all your data, analytics, and AI | AWS News Blog](https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-sagemaker-the-center-for-all-your-data-analytics-and-ai/)

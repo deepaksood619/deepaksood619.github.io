@@ -1,4 +1,4 @@
-# AWS Rekognition
+# Amazon Rekognition
 
 Automate and lower the cost of your image recognition and video analysis with ML
 

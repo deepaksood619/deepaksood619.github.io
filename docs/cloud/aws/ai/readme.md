@@ -9,14 +9,16 @@
 
 ## Machine Learning
 
-1. Amazon SageMaker - Build, Train, and Deploy Machine Learning Models at Scale
+1. [Amazon Sagemaker](cloud/aws/ai/sagemaker.md) - Build, Train, and Deploy Machine Learning Models at Scale
+	1. [sagemaker-unified-studio](cloud/aws/ai/sagemaker-unified-studio.md)
+	2. [sagemaker-lakehouse](cloud/aws/ai/sagemaker-lakehouse.md)
 2. Amazon Comprehend - Discover Insights and Relationships in Text
 3. Amazon Lex - Build Voice and Text Chatbots
 4. Amazon Polly - Turn Text into Lifelike Speech
-5. Amazon Rekognition - Analyze Image and Video. Extract information and insights from your images and videos (ex - objects or persons in an image)
+5. [Amazon Rekognition](cloud/aws/ai/amazon-rekognition.md) - Analyze Image and Video. Extract information and insights from your images and videos (ex - objects or persons in an image)
 6. Amazon Machine Learning - Machine Learning for Developers
 7. Amazon Translate - Natural and Fluent Language Translation
-8. Amazon Transcribe - Automatic Speech Recognition (Speech to text)
+8. [Amazon Transcribe](cloud/aws/ai/amazon-transcribe.md) - Automatic Speech Recognition (Speech to text)
 9. Amazon Personalize - recommendations and intelligent user segmentation at scale
 10. Amazon Augmented AI - Human review of ML models
 11. AWS DeepLens - Deep Learning Enabled Video Camera

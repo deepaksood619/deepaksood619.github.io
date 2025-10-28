@@ -1,6 +1,6 @@
 # Libraries
 
-- [AWS Sagemaker](aws-sagemaker)
+- [AWS Sagemaker](cloud/aws/ai/sagemaker.md)
 - [ML Model Deployment](ai/libraries/mlops-model-deployment.md)
 - [ML Monitoring](ai/libraries/ml-monitoring.md)
 - [Distributed Training](distributed-training)

@@ -149,7 +149,7 @@ This fast turnaround is particularly valuable in call quality monitoring, where 
 
 ## Tools
 
-- [Amazon Transcribe](cloud/aws/amazon-transcribe.md)
+- [Amazon Transcribe](cloud/aws/ai/amazon-transcribe.md)
 - [AI for Call Center Quality Assurance \| Voxjar](https://voxjar.com/)
 	- [app.voxjar.com/dashboard](https://app.voxjar.com/dashboard)
 - [Convin: Omnichannel Contact Centers Powered By Conversation Intelligence](https://convin.ai/)
