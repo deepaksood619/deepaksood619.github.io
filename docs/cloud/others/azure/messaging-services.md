@@ -58,4 +58,3 @@ Service Bus is a brokered messaging system. It stores messages in a "broker" (fo
 - Advanced messaging features like first-in and first-out (FIFO), batching/sessions, transactions, dead-lettering, temporal control, routing and filtering, and duplicate detection
 - At least once delivery of a message
 - Optional ordered delivery of messages
-

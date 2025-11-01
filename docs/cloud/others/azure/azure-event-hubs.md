@@ -62,20 +62,20 @@ Azure Event Hubs allows you to specify a `ContentType` for the data contained 
 
 Key aspects of `ContentType` in Azure Event Hubs:
 
-- **MIME Type:** 
-    
+- **MIME Type:**
+
     The `ContentType` property expects a MIME type string, such as `application/json`, `text/plain`, `application/xml`, or any other relevant MIME type that accurately describes the data format.
-    
-- **Application-Managed:** 
-    
-    The `ContentType` is set by the application sending the event and is intended to facilitate coordination between event producers and consumers. It is not automatically inferred or enforced by Event Hubs itself. 
-    
-- **Consumer Guidance:** 
-    
+
+- **Application-Managed:**
+
+    The `ContentType` is set by the application sending the event and is intended to facilitate coordination between event producers and consumers. It is not automatically inferred or enforced by Event Hubs itself.
+
+- **Consumer Guidance:**
+
     Consumers of the event stream can use the `ContentType` to make informed decisions about how to deserialize and process the `EventBody`. For example, if the `ContentType` is `application/json`, the consumer would parse the `EventBody` as a JSON object.
-    
-- **Flexibility:** 
-    
+
+- **Flexibility:**
+
     While common MIME types like JSON or plain text are frequently used, you can define and use custom MIME types if your application requires a specific data format not covered by standard types.
 
 ## Comparison of Event hubs and Confluent Cloud

@@ -62,17 +62,16 @@
 +-------------------+
 ```
 
-
 ## Basic Questions (SQL Fundamentals)
 
-**Q1.** Fetch all customers who signed up in 2024.  
+**Q1.** Fetch all customers who signed up in 2024.
 
 ```sql
 SELECT * FROM customers
 WHERE EXTRACT(YEAR FROM signup_date) = 2024;
 ```
 
-**Q2.** Get the total number of orders placed by each customer.  
+**Q2.** Get the total number of orders placed by each customer.
 
 ```sql
 SELECT customer_id, COUNT(*) AS order_count
@@ -80,7 +79,7 @@ FROM orders
 GROUP BY customer_id;
 ```
 
-**Q3.** Find customers who haven’t placed any orders.  
+**Q3.** Find customers who haven’t placed any orders.
 
 ```sql
 SELECT c.customer_id, c.name
@@ -91,7 +90,7 @@ WHERE o.order_id IS NULL;
 
 ## Intermediate Questions (Joins, Aggregation, Filtering)
 
-**Q4.** Retrieve top 3 products by total revenue.  
+**Q4.** Retrieve top 3 products by total revenue.
 
 ```sql
 SELECT p.name, SUM(oi.quantity * oi.price_per_unit) AS revenue
@@ -102,7 +101,7 @@ ORDER BY revenue DESC
 LIMIT 3;
 ```
 
-**Q5.** Get total revenue by product category for the current year.  
+**Q5.** Get total revenue by product category for the current year.
 
 ```sql
 SELECT p.category, SUM(oi.quantity * oi.price_per_unit) AS total_revenue
@@ -113,7 +112,7 @@ WHERE EXTRACT(YEAR FROM o.order_date) = EXTRACT(YEAR FROM CURRENT_DATE)
 GROUP BY p.category;
 ```
 
-**Q6.** Find customers who have spent more than ₹10,000 in total.  
+**Q6.** Find customers who have spent more than ₹10,000 in total.
 
 ```sql
 SELECT c.customer_id, c.name, SUM(o.total_amount) AS total_spent
@@ -125,7 +124,7 @@ HAVING SUM(o.total_amount) > 10000;
 
 ## Advanced Questions (Subqueries, CTEs, Window Functions)
 
-**Q7.** Find the latest order for each customer.  
+**Q7.** Find the latest order for each customer.
 
 ```sql
 SELECT customer_id, order_id, order_date
@@ -137,7 +136,7 @@ FROM (
 WHERE rn = 1;
 ```
 
-**Q8.** Get the top 5 customers by lifetime value (LTV).  
+**Q8.** Get the top 5 customers by lifetime value (LTV).
 
 ```sql
 SELECT c.name, SUM(o.total_amount) AS ltv
@@ -148,7 +147,7 @@ ORDER BY ltv DESC
 LIMIT 5;
 ```
 
-**Q9.** Find the percentage contribution of each category to total revenue.  
+**Q9.** Find the percentage contribution of each category to total revenue.
 
 ```sql
 WITH category_revenue AS (
@@ -165,7 +164,7 @@ FROM category_revenue;
 
 ## Expert Questions (Optimization, Edge Cases, Tricky Logic)
 
-**Q10.** Identify orders where payment is missing or partial.  
+**Q10.** Identify orders where payment is missing or partial.
 
 ```sql
 SELECT o.order_id, o.total_amount, COALESCE(SUM(p.amount), 0) AS paid_amount
@@ -175,7 +174,7 @@ GROUP BY o.order_id, o.total_amount
 HAVING COALESCE(SUM(p.amount), 0) < o.total_amount;
 ```
 
-**Q11.** For each customer, show month-over-month growth in spending.  
+**Q11.** For each customer, show month-over-month growth in spending.
 
 ```sql
 WITH monthly_spend AS (
@@ -192,7 +191,7 @@ SELECT customer_id,
 FROM monthly_spend;
 ```
 
-**Q12.** Find the most popular product category per city.  
+**Q12.** Find the most popular product category per city.
 
 ```sql
 WITH city_category_sales AS (

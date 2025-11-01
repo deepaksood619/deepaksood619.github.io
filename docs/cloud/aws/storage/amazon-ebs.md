@@ -25,7 +25,6 @@ Amazon Elastic Block Store (Amazon EBS) provides block-level storage volumes for
 - Data moving between the volume and the instance is encrypted
 - Any snapshot created from the volume is encrypted
 
-
 ![image](../../../media/Cloud-AWS-Amazon-EBS-image1.jpg)
 
 | **Volume type** | **General Purpose SSD (gp2)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | **Provisioned IOPS SSD (io1)**                                                               | **Throughput Optimized HDD (st1)**                                                   | **Cold HDD (sc1)**                                                     |
