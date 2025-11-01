@@ -1,14 +1,6 @@
 # Amazon EBS
 
-## Amazon EBS Snapshot
-
-You can back up the data on your Amazon EBS volumes to Amazon S3 by taking point-in-time snapshots. Snapshots are *incremental* backups, which means that only the blocks on the device that have changed after your most recent snapshot are saved. This minimizes the time required to create the snapshot and saves on storage costs by not duplicating data. When you delete a snapshot, only the data unique to that snapshot is removed. Each snapshot contains all of the information that is needed to restore your data (from the moment when the snapshot was taken) to a new EBS volume.
-
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSSnapshots.html
-
-EBS volumes provide durable block-level storage for use with EC2 instances in the AWS cloud. Volumes are automatically replicated within Availability Zones for high availability and durability.
-
-## Usage
+## EBS Usage
 
 EBS volumes are network-attached storage that persists independently from the running life of a single EC2 instance. After an EBS volume is attached to an EC2 instance, you can use the EBS volume similar to a physical hard drive -- typically by formatting it with the file system of your choice and using the file I/O interface provided by the instance operating system. Multiple EBS volumes can be attached to a single EC2 instance and it allows you to dynamically increase capacity, tune performance, and change the type of any new or existing current generation volume with no downtime or performance impact. Furthermore EBS provides the ability to save point-in-time snapshots of your volumes. Each separate volume can be configured as EBS General Purpose (SSD), Provisioned IOPS (SSD), Throughput Optimized (HDD), or Cold (HDD) as needed
 
@@ -26,6 +18,13 @@ Amazon EBS cloud service is designed to be highly available and reliable. As men
 ## Security
 
 IAM service enables access to EBS volumes, allowing you to specify who can access which EBS volumes. EBS encryption enables data-at-rest and data-in-motion security. It offers seamless encryption of both EBS boot volumes and data volumes as well as snapshots. Access control plus encryption offers a strong defense-in-depth security strategy for your data.
+
+Amazon Elastic Block Store (Amazon EBS) provides block-level storage volumes for use with Amazon EC2 instances. When you create an **encrypted Amazon EBS volume** and attach it to a supported instance type, data stored at rest on the volume, data moving between the volume and the instance, snapshots created from the volume and volumes created from those snapshots are all encrypted. It uses AWS Key Management Service (AWS KMS) customer master keys (CMK) when creating encrypted volumes and snapshots. Encryption operations occur on the servers that host Amazon EC2 instances, ensuring the security of both data-at-rest and data-in-transit between an instance and its attached Amazon EBS storage.
+
+- Data at rest inside the volume is encrypted
+- Data moving between the volume and the instance is encrypted
+- Any snapshot created from the volume is encrypted
+
 
 ![image](../../../media/Cloud-AWS-Amazon-EBS-image1.jpg)
 
@@ -107,6 +106,22 @@ sudo growpart /dev/xvda 1
 df -hT
 sudo resize2fs /dev/root
 ```
+
+## Amazon EBS Snapshot
+
+You can back up the data on your Amazon EBS volumes to Amazon S3 by taking point-in-time snapshots. Snapshots are *incremental* backups, which means that only the blocks on the device that have changed after your most recent snapshot are saved. This minimizes the time required to create the snapshot and saves on storage costs by not duplicating data. When you delete a snapshot, only the data unique to that snapshot is removed. Each snapshot contains all of the information that is needed to restore your data (from the moment when the snapshot was taken) to a new EBS volume.
+
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSSnapshots.html
+
+EBS volumes provide durable block-level storage for use with EC2 instances in the AWS cloud. Volumes are automatically replicated within Availability Zones for high availability and durability.
+
+### Amazon EBS fast snapshot restore (FSR)
+
+Amazon EBS fast snapshot restore (FSR) enables you to create a volume from a snapshot that is fully initialized at creation. This eliminates the latency of I/O operations on a block when it is accessed for the first time. Volumes that are created using fast snapshot restore instantly deliver all of their provisioned performance.
+
+To get started, enable fast snapshot restore for specific snapshots in specific Availability Zones. Each snapshot and Availability Zone pair refers to one fast snapshot restore. When you create a volume from one of these snapshots in one of its enabled Availability Zones, the volume is restored using fast snapshot restore.
+
+You must explicitly enable fast snapshot restore for each snapshot. For example, if you create a new snapshot from a volume that was restored from a fast snapshot restore-enabled snapshot, the new snapshot is not automatically enabled for fast snapshot restore. If you copy a snapshot that is enabled for fast snapshot restore, the snapshot copy is not automatically enabled for fast snapshot restore.
 
 ## Links
 

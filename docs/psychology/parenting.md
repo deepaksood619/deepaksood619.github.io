@@ -435,3 +435,4 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [The Fastest Way To Get Your Child To Walk (The Cruise Method) - YouTube](https://www.youtube.com/watch?v=-V8PSjYCyAs)
 - [9 Parenting Rules To Simplify Your Life (No More Yelling) - YouTube](https://www.youtube.com/watch?v=zSsNjPHRb1U)
 - [7 Japanese Parenting Secrets That Make Kids Obedient (Works Every Time!) - YouTube](https://www.youtube.com/watch?v=mfcpRBtctrk)
+- [The Truth About Gentle Parenting: What No One Tells You - YouTube](https://www.youtube.com/watch?v=IksVeyMXYJU)

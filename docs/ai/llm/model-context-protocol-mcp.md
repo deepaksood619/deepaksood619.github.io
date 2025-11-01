@@ -309,3 +309,4 @@ claude mcp add mcp_server_mysql \
 - [The Full MCP Blueprint: Testing, Security and Sandboxing in MCPs (Part A)](https://www.dailydoseofds.com/model-context-protocol-crash-course-part-6/)
 - [The Full MCP Blueprint: Background, Foundations, Architecture, and Practical Usage (Part A)](https://www.dailydoseofds.com/model-context-protocol-crash-course-part-1/)
 - [The Full MCP Blueprint: Building a Full-Fledged Research Assistant with MCP and LangGraph](https://www.dailydoseofds.com/model-context-protocol-crash-course-part-9/)
+- [The Complete Guide to Model Context Protocol - MachineLearningMastery.com](https://machinelearningmastery.com/the-complete-guide-to-model-context-protocol/)

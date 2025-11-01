@@ -28,6 +28,7 @@
 - [SQL Examples](languages/sql/sql-examples-queries.md)
 - [TSQL Queries](languages/sql/tsql-mssql-queries.md)
 - [SQL Roadmap / Learning](languages/sql/roadmap-learning.md)
+- [Interview Questions](languages/sql/interview-questions.md)
 - [Others](languages/sql/others.md)
 
 ## Others

@@ -204,6 +204,11 @@ Intel, AMD, and Graviton each come with tradeoffs:
 
 AWS Systems Manager’s **Default Host Management Configuration** (part of Quick Setup) automatically applies the necessary Systems Manager permissions, activates inventory collection, and enables patching without needing to alter existing IAM roles manually. It simplifies onboarding by using AWS best practices and auto-configures EC2 instances with the required SSM settings behind the scenes.
 
+- Configure Systems Manager Maintenance Windows to coordinate patching and instance removal from the ALB during the defined window
+	- Systems Manager Maintenance Windows can be configured to run Automation documents or Lambda functions at precise times. You can schedule a task to remove instances from the load balancer using pre-defined documents (such as AWSEC2-PatchLoadBalancerInstance) and then re-register them once patching is complete. This offers fine-grained scheduling and orchestration for controlled patching without disrupting traffic.
+- Use AWS Systems Manager Automation with the AWSEC2-PatchLoadBalancerInstance document to manage patching
+	- The AWSEC2-PatchLoadBalancerInstance Systems Manager Automation document is specifically designed for patching EC2 instances that are part of a load balancer. It automatically removes the instance from the ALB target group, waits for in-flight requests to complete, applies patches, performs reboots if needed, and then safely re-registers the instance. This workflow prevents application downtime or request failures during patching and ensures compliance with security policies.
+
 [Working with the file system - AWS Systems Manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/fleet-file-management.html)
 
 [Systems Manager Automation runbook reference - AWS Systems Manager Automation runbook reference](https://docs.aws.amazon.com/systems-manager-automation-runbooks/latest/userguide/automation-runbook-reference.html)

@@ -117,6 +117,7 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 - [GitHub - tycrek/degoogle: A huge list of alternatives to Google products. Privacy tips, tricks, and links.](https://github.com/tycrek/degoogle)
 - [GitHub - cloudcommunity/Cloud-Free-Tier-Comparison: Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison)
 - [17 Mindblowing Github Repositories You Never Knew Existed - DEV Community](https://dev.to/kafeel_ahmad/17-mindblowing-github-repositories-you-never-knew-existed-555g)
+- [Community Strikes Back: 12 Open Source Projects Born from Resistance](https://itsfoss.com/community-strikes-back-with-forks/)
 
 ### Example Repositories
 

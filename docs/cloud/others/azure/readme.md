@@ -6,6 +6,8 @@
 - [Azure VMs](cloud/others/azure/vms.md)
 - [Microsoft BizTalk](cloud/others/azure/microsoft-biztalk.md)
 - [azure-sql-databases](cloud/others/azure/azure-sql-databases.md)
+- [messaging-services](cloud/others/azure/messaging-services.md)
+	- [azure-event-hubs](cloud/others/azure/azure-event-hubs.md)
 - [social-media-analytics-solution](ai/social-media-analytics-solution.md)
 - [others](cloud/others/azure/others.md)
 

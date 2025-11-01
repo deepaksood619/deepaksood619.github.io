@@ -97,3 +97,4 @@ for chunk in chunk_iter:
 - [GitHub - sinaptik-ai/pandas-ai: Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.](https://github.com/sinaptik-ai/pandas-ai)
 - [PandasAI - Dev Tools for AI Builders](https://pandas-ai.com/)
 - [GitHub - ibis-project/ibis: the portable Python dataframe library](https://github.com/ibis-project/ibis)
+- [GitHub - man-group/dtale: Visualizer for pandas data structures](https://github.com/man-group/dtale)

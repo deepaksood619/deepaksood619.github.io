@@ -28,6 +28,12 @@ https://docs.microsoft.com/en-us/azure/aks/use-multiple-node-pools
 
 Locally Redundant Storage (LRS) in Azure stores data three times within a single datacenter in the primary region. This replication protects against hardware failures like drive or server rack issues, offering a basic level of data durability. LRS is the least expensive option for data redundancy in Azure.
 
+### Others
+
+- [Introduction to **Azure Queue Storage** - Azure Storage \| Microsoft Learn](https://learn.microsoft.com/en-us/azure/storage/queues/storage-queues-introduction)
+- [Introduction to **Table storage** - Object storage in Azure \| Microsoft Learn](https://learn.microsoft.com/en-us/azure/storage/tables/table-storage-overview)
+	- Azure Table storage is a service that stores non-relational structured data (also known as structured NoSQL data) in the cloud, providing a key/attribute store with a schemaless design. Because Table storage is schemaless, it's easy to adapt your data as the needs of your application evolve. Access to Table storage data is fast and cost-effective for many types of applications, and is typically lower in cost than traditional SQL for similar volumes of data.
+
 ## Others
 
 - [Lock your Azure resources to protect your infrastructure - Azure Resource Manager \| Microsoft Learn](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources?tabs=json)

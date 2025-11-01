@@ -185,6 +185,21 @@ StyleID     ID       RANK      ROW_NUMBER      DENSE_RANK
 1           1        1         2               1
 1           1        1         3               1
 1           2        4         4               2
+
+
+SELECT department_name, first_name, last_name, salary
+FROM
+(
+	SELECT
+	first_name, last_name, salary,
+	d. name as department_name,
+	DENSE_RANK() OVER (PARTITION BY d. name ORDER BY e. salary DESC)
+	FROM employees e
+	JOIN departments d
+	ON
+	e.department_id = d.id
+) a
+where dense_rank = 1;
 ```
 
 In the context of the query, the window frame (ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW) is used by the DENSE_RANK() function to calculate the dense rank of each row within its respective department. The dense rank is determined by the order of the "salary" values within the partition.

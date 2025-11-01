@@ -223,6 +223,7 @@ https://dev.to/pluralsight/which-distribution-of-linux-should-i-use-51g7
 - CentOS
 - GlassFish server by sunmicrosystems
 - Rasbian OS
+- [Manjaro – The Linux for People and Organizations](https://manjaro.org/)
 
 ### Debian Family
 

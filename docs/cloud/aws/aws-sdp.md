@@ -51,3 +51,7 @@ Make it easy for customers to build real-time data streaming solutions and imple
 ### AWS Glue Partners
 
 Help customers with AWS Glue for data integration, data pipeline, and data catalogue use cases.
+
+## Others
+
+- [AWS Partner Services Tiers](https://aws.amazon.com/partners/services-tiers/)

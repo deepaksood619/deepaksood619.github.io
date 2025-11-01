@@ -19,7 +19,7 @@
 - [confluent-kafka](technologies/kafka/confluent-kafka.md)
 - [confluent-tableflow](technologies/kafka/confluent-tableflow.md)
 - [confluent-pitch](technologies/kafka/confluent-pitch.md)
-- [Azure Event Hubs](technologies/kafka/azure-event-hubs.md)
+- [Azure Event Hubs](cloud/others/azure/azure-event-hubs.md)
 - [Comparison](technologies/kafka/comparison.md)
 - [kafkacat](kafkacat)
 - [Migration / Mirroring](technologies/kafka/migration-mirroring-replication.md)

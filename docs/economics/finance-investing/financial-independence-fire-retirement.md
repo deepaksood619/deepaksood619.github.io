@@ -122,6 +122,19 @@ They would be surrounded by relatives and friends that systematically leached of
 
 https://economictimes.indiatimes.com/wealth/save/set-limits-when-it-comes-to-helping-others-financially-5-ways-to-deal-with-the-entitled-lot/set-limits-when-it-comes-to-helping-others-financially-5-ways-to-deal-with-the-entitled-lot/articleshow/91556379.cms
 
+## Time vs Money Rich
+
+You can either be TIME rich or you can be MONEY rich. But, smart people are both.
+
+1. I'm sure you know people, who are super busy all the time. They have no time for their family, friends or even their own children.
+	1. It is okay to have this type of a lifestyle for a brief period of your life. But, if this becomes a habit, then you need to acknowledge the problem that you are time poor.
+	2. Use your money to create time: delegate, build passive sources of income and learn to invest.
+2. You might have also met people who have a lot of free time. And, they are super stressed that they don't make enough money.
+	1. NO, you are already time rich.
+	2. Now you just need to figure out how to convert your time to money.
+	3. Invest your time: learning new skills, experimenting with ideas and networking with folks would go a long way in terms of helping you out.
+3. Smart folks: switch between using their money to buy time. And, using their time to build money.
+
 ## Others
 
 - DINK - Double Income No Kid
@@ -153,3 +166,4 @@ https://economictimes.indiatimes.com/wealth/save/set-limits-when-it-comes-to-hel
 - [What should be my retirement corpus if my current monthly expenses are Rs 1 lakh?](https://freefincal.com/what-should-be-my-retirement-corpus-if-my-current-monthly-expenses-are-rs-1-lakh/)
 - [How much corpus do I need to retire in India?](https://freefincal.com/how-much-corpus-do-i-need-to-retire-in-india/)
 - [Should I sell equity and move to Debt to maintain a 50:50 allocation at retirement?](https://freefincal.com/should-i-sell-equity-and-move-to-debt-to-maintain-a-5050-allocation-at-retirement/)
+- [Labour costs are increasing in India - what does this mean for us?](https://freefincal.com/labour-costs-are-increasing-in-india-what-does-this-mean-for-us/)

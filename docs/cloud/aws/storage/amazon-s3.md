@@ -196,11 +196,17 @@ By using Amazon S3 analytics _Storage Class Analysis_ you can analyze storage ac
 
 [Amazon S3 analytics – Storage Class Analysis - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/analytics-storage-class.html)
 
-### Access Analyzer
+### IAM Access Analyzer
+
+AWS IAM Access Analyzer helps identify resources shared with external entities by analyzing resource-based policies (e.g., S3 buckets, KMS keys, SNS topics, IAM roles) and detecting unintended access. It uses automated reasoning to evaluate the effects of policies and determines if a resource is accessible from outside the account or organization. Access Analyzer also supports policy validation, helping administrators craft secure and compliant access policies. It’s purpose-built for detecting and auditing external access paths to resources.
 
 [Using Amazon S3 server access logs to identify requests - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/using-s3-access-logs-to-identify-requests.html)
 
 [Reviewing bucket access using IAM Access Analyzer for S3 - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-analyzer.html)
+
+### IAM Access Advisor
+
+IAM Access Advisor shows the last accessed information for AWS services used by IAM users and roles, but it does not evaluate resource-based policies or determine if resources are shared externally. It is designed to help with least privilege enforcement by identifying unused permissions, not external access analysis. It cannot detect whether S3 buckets or IAM roles are publicly accessible or shared with specific accounts.
 
 ## Amazon S3 Replication
 

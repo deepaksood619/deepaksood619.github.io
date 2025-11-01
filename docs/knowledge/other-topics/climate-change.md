@@ -41,6 +41,9 @@ https://www.pmfias.com/carbon-nitrogen-phosphorus-sulphur-cycle
 - [आज भी AQI 500 है, कहां भाग कर जाएं लोग, दूसरे शहर भी बेहाल - YouTube](https://www.youtube.com/watch?v=PdQ2M5DCPts)
 - [क्या होगा इस हवा का? | Air Pollution in North India - YouTube](https://www.youtube.com/watch?v=tDAavaJN47E)
 - [What’s Choking Indian Cities To Death? \| Reality of Diwali & Pollution In India \| Akash Banerjee - YouTube](https://www.youtube.com/watch?v=18VWC6Q-zcs)
+- [Your Family is at Risk: Harmful Gases from Kitchen, Walls & Car \| BreatheEasy \| FO426 Raj Shamani - YouTube](https://www.youtube.com/watch?v=RKxuKMhaMnI)
+- [Cleanest air quality 2025: World's top 10 cities with best air quality index](https://www.wionews.com/photos/top-10-cities-cleanest-air-quality-index-2025-1761305737698/1761305737699)
+- [Control indoor AQI without air purifier – Dyson expert’s 5 simple habits to de-smog your home - Technology News \| The Financial Express](https://www.financialexpress.com/life/technology-control-indoor-aqi-without-air-purifier-dyson-experts-5-simple-habits-to-de-smog-your-home-4025154/)
 
 ## Global Warming
 

@@ -168,6 +168,7 @@ This way, a portion of your money becomes available at regular intervals, giving
 
 ## Links
 
+- [**ELI5: How do debt mutual funds work?**](https://freefincal.com/eli5-how-do-debt-mutual-funds-work/)
 - Stable Money (Stablemoney)
 - https://www.thefixedincome.com
 - https://www.bharatbond.in

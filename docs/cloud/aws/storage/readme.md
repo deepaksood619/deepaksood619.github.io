@@ -49,6 +49,12 @@ EC2 instance store volumes are not intended to be used as durable disk storage. 
 
 IAM service helps to gain secure control over which users can perform operations such as launch and termination of EC2 instances in your account. When you stop or terminate an instance, the applications and data in its instance store are erased, and thus no other instance can have access to the instance store in the future.
 
+### Size
+
+The number, size, and type of instance store volumes are determined by the instance type. Some instance types, such as M6, C6, and R6, do not support instance store volumes, while other instance types, such as M5d, C6gd, and R6gd, do support instance store volumes. You can’t attach more instance store volumes to an instance than is supported by its instance type. For the instance types that do support instance store volumes, the number and size of the instance store volumes vary by instance size. For example, `m5d.large` supports 1 x 75 GB instance store volume, while `m5d.24xlarge` supports 4 x 900 GB instance store volumes.
+
+[Instance store volume limits for EC2 instances - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-store-volumes.html)
+
 ## AWS Storage Gateway
 
 ![Storage Gateway Architecture](../../../media/Pasted%20image%2020250912004236.png)
@@ -139,6 +145,8 @@ The original AWS Snowball devices were transitioned out of service and AWS Snowb
 If you want to minimize the time spent in Amazon S3 Standard for all files to avoid unintended Amazon S3 Standard storage charges. To do this, AWS recommends using a zero-day lifecycle policy. From a cost perspective, when using a zero-day lifecycle policy, you are only charged Amazon S3 Glacier Deep Archive rates. When billed, the lifecycle policy is accounted for first, and if the destination is Amazon S3 Glacier Deep Archive, you are charged Amazon S3 Glacier Deep Archive rates for the transferred files.
 
 You can't move data directly from AWS Snowball into Amazon S3 Glacier, you need to go through Amazon S3 first, and then use a lifecycle policy. So this option is correct.
+
+- [Getting 100TB of Data to the Cloud with AWS Snowball Edge Storage Optimized Devices - YouTube](https://www.youtube.com/watch?v=BIx9bbe58K8)
 
 ## AWS Snowmobile
 

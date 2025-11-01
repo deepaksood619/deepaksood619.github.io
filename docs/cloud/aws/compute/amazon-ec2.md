@@ -392,3 +392,43 @@ The automatic recovery process attempts to recover your instance for up to three
 - If the impaired instance is in a placement group, the recovered instance runs in the same placement group.
 - Terminated instances cannot be recovered
 - During instance recovery, the instance is migrated during an instance reboot, and any data that is in-memory is lost.
+
+## Connecting to EC2 instance
+
+| Connection option             | Instance operating system | Inbound traffic rule | IAM permissions | Instance profile role | Software on instance | Software on connecting system | Key pair |
+| ----------------------------- | ------------------------- | -------------------- | --------------- | --------------------- | -------------------- | ----------------------------- | -------- |
+| SSH client                    | Linux                     | Yes                  | No              | No                    | No                   | Yes                           | Yes      |
+| **EC2 Instance Connect**      | Linux                     | Yes                  | Yes             | No                    | Yes ¹                | No                            | No       |
+| PuTTY                         | Linux                     | Yes                  | No              | No                    | No                   | Yes                           | Yes      |
+| RDP client                    | Windows                   | Yes                  | No              | No                    | No                   | Yes                           | Yes ²    |
+| Fleet Manager                 | Windows                   | No                   | Yes             | Yes                   | Yes ¹                | No                            | Yes      |
+| **Session Manager**           | Linux, Windows            | No                   | Yes             | Yes                   | Yes ¹                | No                            | No       |
+| EC2 Instance Connect Endpoint | Linux, Windows            | Yes                  | Yes             | No                    | No                   | No                            | No ³     |
+
+[Connect to your EC2 instance - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/connect.html)
+
+### Amazon EC2 Instance Connect
+
+Amazon EC2 Instance Connect provides a secure way to connect to your Linux instances over Secure Shell (SSH). With EC2 Instance Connect, you use AWS Identity and Access Management (IAM) policies and principals to control SSH access to your instances, removing the need to share and manage SSH keys. All connection requests using EC2 Instance Connect are logged to AWS CloudTrail so that you can audit connection requests.
+
+You can use EC2 Instance Connect to connect to your instances using the Amazon EC2 console or the SSH client of your choice.
+
+When you connect to an instance using EC2 Instance Connect, the EC2 Instance Connect API pushes an SSH public key to the instance metadata where it remains for 60 seconds. An IAM policy attached to your user authorizes your user to push the public key to the instance metadata. The SSH daemon uses AuthorizedKeysCommand and AuthorizedKeysCommandUser, which are configured when EC2 Instance Connect is installed, to look up the public key from the instance metadata for authentication, and connects you to the instance.
+
+[Connect to your Linux instance using a public IP address and EC2 Instance Connect - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/connect-linux-inst-eic.html)
+
+### Session Manager
+
+Session Manager is a fully-managed AWS Systems Manager capability for managing your Amazon EC2 instances through an interactive, one-click, browser-based shell, or through the AWS CLI. You can use Session Manager to start a session with an instance in your account. After the session is started, you can run interactive commands on the instance as you would for any other connection type.
+
+[Connect to your Amazon EC2 instance using Session Manager - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/connect-with-systems-manager-session-manager.html)
+
+### Amazon EC2 Instance Connect vs Session Manager
+
+There many nuanced differences between these services but the basic idea is that EC2 Instance Connect allows for a convenient and secure native SSH connection using short-lived keys while Session Manager permits an SSH connection tunneled over a proxy connection.
+
+The session manager agent establishes a reverse connection to the service so it is not necessary to, for example, open port 22 on the host. EC2 Instance Connect requires the host security group to permit ssh traffic inbound.
+
+A few other things of note: EC2 Instance Connect supports only Linux EC2 hosts while Session Manager supports Windows and Linux hosts both EC2 Instances and On-prem.
+
+[What is the difference between EC2 Instance Connect and Session Manager SSH connections? \| AWS re:Post](https://repost.aws/questions/QUnV4R9EoeSdW0GT3cKBUR7w/what-is-the-difference-between-ec2-instance-connect-and-session-manager-ssh-connections)

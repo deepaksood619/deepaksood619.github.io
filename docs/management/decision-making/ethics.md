@@ -67,3 +67,4 @@ Double Exponential Progress - [The A.I. Dilemma - March 9, 2023 - YouTube](https
 ## Others
 
 - [Scorched earth - Wikipedia](https://en.wikipedia.org/wiki/Scorched_earth)
+- [NGL](https://ngl.link/)

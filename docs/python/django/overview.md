@@ -140,3 +140,19 @@ https://www.freecodecamp.org/news/create-a-social-media-app-with-django
 [Top 50 Django Interview Questions and Answers - GeeksforGeeks](https://www.geeksforgeeks.org/django-interview-questions/#adv)
 
 [30+ Django Interview Questions (2023) - InterviewBit](https://www.interviewbit.com/django-interview-questions/)
+
+## Releases / Changelog
+
+### Django 3.0
+
+ASGI Support
+
+https://docs.djangoproject.com/en/3.0/releases/3.0
+
+https://arunrocks.com/a-guide-to-asgi-in-django-30-and-its-performance
+
+### Django 5.0
+
+[Django 5.0 release notes \| Django documentation \| Django](https://docs.djangoproject.com/en/5.2/releases/5.0/)
+
+[The State of Django 2025 \| The PyCharm Blog](https://blog.jetbrains.com/pycharm/2025/10/the-state-of-django-2025/)

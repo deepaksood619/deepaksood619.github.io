@@ -154,6 +154,8 @@ AWS PrivateLink provides private connectivity between virtual private clouds (VP
 
 PrivateLink endpoint appears as an elastic network interface (ENI) in the application’s VPC, allowing internal services to communicate with the SaaS API using private IP addresses. Importantly, the traffic never leaves the Amazon network, which significantly reduces the risk of data exposure or interception. Additionally, the SaaS provider cannot initiate connections to the application’s services because PrivateLink is inherently unidirectional from the service consumer (the company's VPC) to the service provider (the SaaS provider’s VPC). This architecture helps meet strict security and compliance requirements, such as zero-trust networking and least privilege access.
 
+ AWS PrivateLink enables secure connectivity to AWS services via VPC endpoints but supports only TCP-based traffic. It cannot be used to route or expose UDP-based services, making it unsuitable for the on-premises UDP workload.
+
 ### AWS Private link vs AWS VPC Endpoints
 
 #### Scope

@@ -32,6 +32,8 @@ The more you learn, the more you earn -- Warren Buffet
 
 90% of everything is crap/junk -- Sturgeon's Revelation
 
+We are the victims of our experiences
+
 When in doubt zoom out
 
 Be Kind to Everyone!
@@ -91,6 +93,8 @@ Put a smile on your face for the whole human race.
 I've seen men die at the age of 25, yet buried at the age of 75. -- Benjamin Franklin
 
 Easy choices, hard life. Hard choices, easy life -- Jerzy Gregorek
+
+The peak of happiness is crying, and the peak of sadness is laughing
 
 Die with Zero: Getting All You Can from Your Money and Your Life Book by Bill Perkins - that emphasises on balancing financial independence with enjoying life’s experiences in the present, not just saving for the future.
 

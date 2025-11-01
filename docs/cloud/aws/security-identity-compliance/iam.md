@@ -80,6 +80,10 @@ Service control policy (SCP) is one type of policy that you can use to **manage 
 
 [Service control policies (SCPs) - AWS Organizations](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html)
 
+**Question** - An enterprise is developing an internal compliance framework for its cloud infrastructure hosted on AWS. The enterprise uses AWS Organizations to group accounts under various organizational units (OUs) based on departmental function. As part of its governance controls, the security team mandates that all Amazon EC2 instances must be tagged to indicate the level of data classification — either 'confidential' or 'public'. Additionally, the organization must ensure that IAM users cannot launch EC2 instances without assigning a classification tag, nor should they be able to remove the tag from running instances. A solutions architect must design a solution to meet these compliance controls while minimizing operational overhead.
+- Create a service control policy (SCP) that denies the `ec2:RunInstances` API action unless the required tag key is present in the request. Create a second SCP that denies the `ec2:DeleteTags` action for EC2 resources. Attach both SCPs to the relevant OU in AWS Organizations
+- Define a tag policy in AWS Organizations that enforces the `dataClassification` key and restricts values to 'confidential' and 'public'. Attach this tag policy to the applicable organizational unit (OU) to enforce uniform tagging behavior across accounts
+
 ### AWS Identity and Access Management (IAM)
 
 Grant granular permissions on IAM principals (users and roles) and control the maximum permission they can set

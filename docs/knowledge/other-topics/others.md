@@ -21,6 +21,12 @@ The intelligence cycle is an idealized model of how intelligence is processed in
 
 [Intelligence cycle - Wikipedia](https://en.wikipedia.org/wiki/Intelligence_cycle)
 
+## Population Crisis / Population Implosion
+
+- [It's not just you. No one wants to have kids anymore. - YouTube](https://www.youtube.com/watch?v=IFmuFukdbq8)
+- [The World Population Crisis NO ONE Sees Coming](https://youtu.be/tk5KoWUwz6Q)
+- [Japan's population crisis reaches tipping point | FT Film](https://youtu.be/nmdujC0MUKA)
+
 ## Others
 
 - [donations](about-deepak-sood/ideas/donations.md)

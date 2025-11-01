@@ -2,6 +2,10 @@
 
 [AWS re:Invent 2024 - \[NEW LAUNCH\] Amazon SageMaker Lakehouse: Accelerate analytics & AI (ANT354-NEW) - YouTube](https://youtu.be/LkH6ZzzA9dM)
 
+[Amazon SageMaker - Unified, Open, and Secure Data Lakehouse Architecture](https://aws.amazon.com/sagemaker/lakehouse/)
+
+[Unified data lakehouse architecture in Amazon SageMaker - FAQs – AWS](https://aws.amazon.com/sagemaker/lakehouse/faqs/)
+
 ## Data lake centric
 
 - Takes away decades of database capabilities such as transactions

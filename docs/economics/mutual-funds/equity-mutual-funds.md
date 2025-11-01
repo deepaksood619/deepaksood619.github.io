@@ -198,3 +198,4 @@ In the multicap category, the allocation decision is left to the fund manager wh
 	- Invesco Focused: 44.95 vs 21.00%
 - [What mutual fund would you recommend for investors with FOMO?](https://freefincal.com/what-mutual-fund-would-you-recommend-for-investors-with-fomo/)
 - [What is your mutual fund investment strategy?](https://freefincal.com/what-is-your-mutual-fund-investment-strategy/)
+- [Can I use NIFTY 50 in retirement for income through SWP?](https://freefincal.com/can-i-use-nifty-50-in-retirement-for-income-through-swp/)

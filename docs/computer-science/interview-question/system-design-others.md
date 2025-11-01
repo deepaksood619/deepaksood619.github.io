@@ -1,5 +1,33 @@
 # System Design - Others
 
+## Interview Questions
+
+## System Design Exercise
+
+**Business Plan**
+
+- “We Love Grandma’s Cookies” will be a recipe repository (not just for cookies or Grandmas!) for creators to share their recipes with a global audience.
+- Monetization will be subscription-based, allowing users to subscribe to a creator and have access to their recipe content.
+- Creator will also be able to share pilot recipes for free to all users to attract new subscriptions.
+
+**Initial Product Specifications**
+
+- Creators need a portal to create a profile, add financial remittance for the subscription, and upload their recipes.
+- Users will need access to a payment portal to make and manage their subscription.
+- There will be a search feature that, given a discrete search, users will be able to find Creators and recipes that match their search criteria.
+- The user portal should provide a minimal interface to save their favorite recipes and be updated on content from their creator subscriptions.
+
+**TODO**
+
+1. Service level domain
+2. Architecture diagram
+3. Data models
+4. Databases
+5. Scalability
+6. Recommendation of tech stack for the product (Cloud-agnostic)
+7. Timelines - MVP
+8. SEO
+
 ## CricInfo
 
 [CRICINFO system design | CRICBUZZ System design](http://youtube.com/watch?v=exSwQtMxGd4)

@@ -28,6 +28,12 @@
 	- **Long-Term Capital Gains (LTCG):** If sold **after 2 years**, the gain is taxed at **12.5%** (without indexation benefit).
 - [Your Old Gold. India’s New Strength \| Tanishq - YouTube](https://www.youtube.com/watch?v=wNrjZ9Ov2oY)
 
+### Gold Monetisation Scheme
+
+[Monetising your gold holdings: Have idle gold in lockers, home? 5 smart ways to make it work for you - The Times of India](https://timesofindia.indiatimes.com/business/india-business/monetising-your-gold-holdings-have-idle-gold-in-lockers-home-5-smart-ways-to-make-it-work-for-you/amp_articleshow/124878019.cms)
+
+- [Gold Monetisation Scheme - Process](https://www.hdfcbank.com/personal/invest/gold-monetisation-scheme/process)
+
 ## Gold ETFs
 
 - Nippon India ETF Gold BEES (0.82%) (AUM - Rs. 18,780 crs)
@@ -65,6 +71,14 @@
 **Tax Benefits:** Although gold ETFs are subject to long-term capital gains tax, **they are exempt from other taxes such as value-added tax (VAT) or Securities Transaction Tax (STT)**. By investing in a gold ETF, an investor can benefit from a lower tax burden
 
 [Gold ETF vs Gold Mutual Fund: Which is a Better Investment Option?](https://groww.in/blog/gold-etf-vs-gold-mutual-fund)
+
+#### Taxation
+
+|                    | Short-Term Capital Gains (STCG)        | Long-Term Capital Gains (LTCG)       |
+| ------------------ | -------------------------------------- | ------------------------------------ |
+| **Holding Period** | Less than 12 months                    | More than 12 months                  |
+| **Tax Rate**       | Taxed as per your income tax slab rate | 12.5% flat rate                      |
+| **Indexation**     | Not applicable                         | Not applicable (since April 1, 2025) |
 
 ### Dubai Gold
 
@@ -128,3 +142,6 @@ Cubic zirconia is a man-made, lab-created gemstone that resembles a diamond. It 
 ## Links
 
 - [Where to invest Gold or Silver?](https://youtu.be/khvCeK8DRAI)
+- [How much gold do you hold?](https://freefincal.com/how-much-gold-do-you-hold/)
+- [Gold is the Safest Money](https://www.linkedin.com/pulse/gold-safest-money-ray-dalio-u1axc/)
+- [My Answers to Your Questions about Gold](https://www.linkedin.com/pulse/my-answers-your-questions-gold-ray-dalio-hcr9e/)

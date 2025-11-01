@@ -19,6 +19,7 @@
 - [https://arpitbhayani.me/](https://arpitbhayani.me/)
 - [linkedin.com/in/umar482/](https://www.linkedin.com/in/umar482/)
 - [Arjun Gullbadhar — LLM Engineer \| Building Production-Grade AI Systems](https://arjungullbadhar.com/_OPS-Tree-Global)
+- [Indrajit Kar - India \| Professional Profile \| LinkedIn](https://www.linkedin.com/in/indrajit-kar/)
 
 ![image](../../media/Personality-Profiles-image1.jpg)
 
@@ -101,3 +102,4 @@ Sree Gade is a published author of one of the best selling books on career coach
 
 - Yiwen Gong - gyw@google.com
 - Content Creators - [Saumya Singh - Software Engineer - Red Hat | LinkedIn](https://www.linkedin.com/in/saumya1singh)
+- [99% of Leaders Think Like This \| Ex-Nokia CEO on What Really Gets You Promoted \| FWS 75 - YouTube](https://www.youtube.com/watch?v=E-TFgPHwqEk)

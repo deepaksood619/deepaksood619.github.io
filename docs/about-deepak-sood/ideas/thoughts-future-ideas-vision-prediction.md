@@ -163,4 +163,5 @@ Future
 	- Speed of thought is faster than speed of speaking which is faster than speed of writing.
 	- Anyways writing is another set of thing that a child has to run, which he/she can skip all together. Atleast writing and typing can be skipped, and reading can stay for a bit long.
 	- [The case against conversational interfaces](education/learning/conversational-interfaces.md)
-- Most successful species is plants and organisms that humans are fully dependent on for living,since humans will make sure that they survive so humans can survive
+- Most successful species is plants and organisms that humans are fully dependent on for living, since humans will make sure that they survive so humans can survive
+- Should we have marriage in the morning/afternoon rather than at night

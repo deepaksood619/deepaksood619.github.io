@@ -61,6 +61,8 @@ SAP S/4HANA is SAP's current enterprise resource planning (ERP) suite, designed 
 - [What is SAP SuccessFactors For Beginners?](https://youtu.be/S0LgXUbRy0c)
 - [What Is SAP BTP For Beginners?](https://youtu.be/ZotakKV7O34)
 - [What Is SAP S/4HANA For Beginners?](https://youtu.be/T6keCslui-w)
+- [**SAP Business Client -** SAP Help Portal \| SAP Online Help](https://help.sap.com/docs/SAP_BUSINESS_CLIENT/f526c7c14c074e7b9d18c4fd0c88c593/03ecbafb844b450a9314a5683b75ed80.html)
+- [SAP Help Portal \| SAP Online Help](https://help.sap.com/docs/SAP_HANA_CLIENT/f1b440ded6144a54ada97ff95dac7adf/d12c86af7cb442d1b9f8520e2aba7758.html)
 
 ## ERPNext
 

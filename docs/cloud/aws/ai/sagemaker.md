@@ -23,51 +23,59 @@ Many ways to train models on Sagemaker
 
 ## Amazon SageMaker includes the following features
 
-[**SageMaker Studio**](https://docs.aws.amazon.com/sagemaker/latest/dg/studio.html)
+### [**SageMaker Studio**](https://docs.aws.amazon.com/sagemaker/latest/dg/studio.html)
 
 An integrated machine learning environment where you can build, train, deploy, and analyze your models all in the same application.
 
 ![image](../../../media/AWS-Sagemaker-image3.jpg)
 
-[**SageMaker Model Registry**](https://docs.aws.amazon.com/sagemaker/latest/dg/model-registry.html)
+### [**SageMaker Model Registry**](https://docs.aws.amazon.com/sagemaker/latest/dg/model-registry.html)
 
 Versioning, artifact and lineage tracking, approval workflow, and cross account support for deployment of your machine learning models.
 
-[**SageMaker Projects**](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-projects.html)
+### [**SageMaker Projects**](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-projects.html)
 
 Create end-to-end ML solutions with CI/CD by using SageMaker projects.
 
-[**SageMaker Model Building Pipelines**](https://docs.aws.amazon.com/sagemaker/latest/dg/pipelines.html)
+### [**SageMaker Model Building Pipelines**](https://docs.aws.amazon.com/sagemaker/latest/dg/pipelines.html)
 
 Create and manage machine learning pipelines integrated directly with SageMaker jobs.
 
-[**SageMaker ML Lineage Tracking**](https://docs.aws.amazon.com/sagemaker/latest/dg/lineage-tracking.html)
+### [**SageMaker ML Lineage Tracking**](https://docs.aws.amazon.com/sagemaker/latest/dg/lineage-tracking.html)
 
 Track the lineage of machine learning workflows.
 
-[**SageMaker Data Wrangler**](https://docs.aws.amazon.com/sagemaker/latest/dg/data-wrangler.html)
+### [**SageMaker Data Wrangler**](https://docs.aws.amazon.com/sagemaker/latest/dg/data-wrangler.html)
 
 Import, analyze, prepare, and featurize data in SageMaker Studio. You can integrate Data Wrangler into your machine learning workflows to simplify and streamline data pre-processing and feature engineering using little to no coding. You can also add your own Python scripts and transformations to customize your data prep workflow.
 
-[**SageMaker Feature Store**](https://docs.aws.amazon.com/sagemaker/latest/dg/feature-store.html)
+- [AWS re:Invent 2020: Accelerate data preparation with Amazon SageMaker Data Wrangler - YouTube](https://www.youtube.com/watch?v=_bsat_2N8LI)
+- [Amazon (AWS) SageMaker Data Wrangler \| End-to-End ML Project \| SageMaker Tutorial \| SageMaker Studio - YouTube](https://www.youtube.com/watch?v=I4j09Oqxvug)
+
+### [**SageMaker Feature Store**](https://docs.aws.amazon.com/sagemaker/latest/dg/feature-store.html)
 
 A centralized store for features and associated metadata so features can be easily discovered and reused. You can create two types of stores, an Online or Offline store. The Online Store can be used for low latency, real-time inference use cases and the Offline Store can be used for training and batch inference.
 
-[**SageMaker JumpStart**](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-jumpstart.html)
+### [**SageMaker JumpStart**](https://docs.aws.amazon.com/sagemaker/latest/dg/studio-jumpstart.html)
 
 Learn about SageMaker features and capabilities through curated 1-click solutions, example notebooks, and pretrained models that you can deploy. You can also fine-tune the models and deploy them.
 
-[**SageMaker Clarify**](https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-fairness-and-explainability.html)
+### [**SageMaker Clarify**](https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-fairness-and-explainability.html)
 
 Improve your machine learning models by detecting potential bias and help explain the predictions that models make.
 
-[**SageMaker Edge Manager**](https://docs.aws.amazon.com/sagemaker/latest/dg/edge.html)
+### [**SageMaker Edge Manager**](https://docs.aws.amazon.com/sagemaker/latest/dg/edge.html)
 
 Optimize custom models for edge devices, create and manage fleets and run models with an efficient runtime.
 
-[**SageMaker Ground Truth**](https://docs.aws.amazon.com/sagemaker/latest/dg/sms.html)
+### [**SageMaker Ground Truth**](https://docs.aws.amazon.com/sagemaker/latest/dg/sms.html)
 
 High-quality training datasets by using workers along with machine learning to create labeled datasets. Can reduce labeling cost by 70%
+
+### Others
+
+- [How to Simplify Data Governance and Collaboration with AWS DataZone - YouTube](https://www.youtube.com/watch?v=7qgxDVgDLgw)
+	- [Govern Analytics – Amazon DataZone – AWS](https://aws.amazon.com/datazone/)
 
 ## Workers
 
@@ -189,8 +197,7 @@ Preprocess datasets, run inference when you don't need a persistent endpoint, an
 
 ## Others
 
-![image](../../../media/AWS-Sagemaker-image7.jpg)
-
+- [The center for all your data, analytics, and AI – Amazon SageMaker FAQs – AWS](https://aws.amazon.com/sagemaker/faqs/)
 - [AWS SageMaker Practical for Beginners \| Build 6 Projects \| Udemy](https://www.udemy.com/course/practical-aws-sagemaker-6-real-world-case-studies/)
 - https://aws.amazon.com/blogs/machine-learning/understanding-amazon-sagemaker-notebook-instance-networking-configurations-and-advanced-routing-options
 - [AWS Innovate | Intro to Deep Learning: Building an Image Classifier on Amazon SageMaker - YouTube](https://www.youtube.com/watch?v=KCzgR7eQ3PY&ab_channel=AmazonWebServices)
@@ -212,3 +219,4 @@ Preprocess datasets, run inference when you don't need a persistent endpoint, an
 - [AWS re:Invent 2024 - Accelerate production for gen AI using Amazon SageM...](https://youtu.be/-3Otl7GVeCc)
 - [Introduction to Amazon SageMaker Studio | Amazon Web Services](https://youtu.be/YcJAc-x8XLQ)
 - [Deliver high-performance ML models faster with MLOps tools](https://youtu.be/T9llSCYJXxc)
+- [AI Engineering with AWS SageMaker: Crash Course for Beginners! - YouTube](https://www.youtube.com/watch?v=Ld2oTLY47sA)

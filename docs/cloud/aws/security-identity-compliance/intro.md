@@ -40,6 +40,18 @@
 	1. **AWS Shield Standard is automatically enabled for all AWS customers at no additional cost** and protects against common DDoS attacks on your AWS services like ELB, CloudFront, and Route 53. However, for enhanced protection against more sophisticated attacks, you must explicitly enable and configure AWS Shield Advanced for specific AWS resources.
 	2. AWS Shield is a managed Distributed Denial of Service (DDoS) protection service that provides two tiers of protection: **AWS Shield Standard** is automatically included for all AWS customers at no extra cost, offering protection against common network and transport layer DDoS events. **AWS Shield Advanced** provides more sophisticated and customized protection against large and complex attacks, includes access to the AWS Shield Response Team for expert guidance, and offers cost protection for excess data transfer during a DDoS attack.
 17. **AWS WAF -** Filter Malicious Web Traffic
+	- AWS WAF can be deployed on Amazon CloudFront, the Application Load Balancer (ALB), Amazon API Gateway, and AWS AppSync. As part of Amazon CloudFront it can be part of your Content Distribution Network (CDN) protecting your resources and content at the Edge locations. As part of the Application Load Balancer it can protect your origin web servers running behind the ALBs. As part of Amazon API Gateway, it can help secure and protect your REST APIs. As part of AWS AppSync, it can help secure and protect your GraphQL APIs.
+	- You can protect the following resource types:
+		- Amazon CloudFront distribution
+		- Amazon API Gateway REST API
+		- Application Load Balancer
+		- AWS AppSync GraphQL API
+		- Amazon Cognito user pool
+		- AWS App Runner service
+		- AWS Verified Access instance
+		- AWS Amplify
+	- [AWS WAF - AWS WAF, AWS Firewall Manager, AWS Shield Advanced, and AWS Shield network security director](https://docs.aws.amazon.com/waf/latest/developerguide/waf-chapter.html)
+	- AWS WAF is tightly integrated with Amazon CloudFront and the Application Load Balancer (ALB), services that AWS customers commonly use to deliver content for their websites and applications. When you use AWS WAF on Amazon CloudFront, **your rules run in all AWS Edge Locations, located around the world close to your end-users. This means security doesn’t come at the expense of performance.** Blocked requests are stopped before they reach your web servers. When you use AWS WAF on Application Load Balancer, your rules run in the region and can be used to protect internet-facing as well as internal load balancers.
 18. **AWS Resource Access Manager** - Simple, secure service to share AWS resources
 	1. AWS Resource Access Manager (RAM) is a service that enables you to easily and securely share AWS resources with any AWS account or within your AWS Organization. You can share AWS Transit Gateways, Subnets, AWS License Manager configurations, and Amazon Route 53 Resolver rules resources with RAM. RAM eliminates the need to create duplicate resources in multiple accounts, reducing the operational overhead of managing those resources in every single account you own. You can create resources centrally in a multi-account environment, and use RAM to share those resources across accounts in three simple steps: create a Resource Share, specify resources, and specify accounts. RAM is available to you at no additional charge.
 	2. You can share Amazon VPCs to leverage the implicit routing within a VPC for applications that require a high degree of interconnectivity and are within the same trust boundaries. This reduces the number of VPCs that you create and manage while using separate accounts for billing and access control.

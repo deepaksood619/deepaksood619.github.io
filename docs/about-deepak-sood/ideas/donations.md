@@ -68,3 +68,5 @@ The key problem is funding cannibalism. That $3 million in donations doesn’t a
 [Are future humans really our problem? - YouTube](https://www.youtube.com/watch?v=FQss1IH3MFA)
 
 [How can wealthy Indians give back? - Dezerv](https://www.dezerv.in/blog/how-can-wealthy-indians-give-back/)
+
+[They Had No Hope... Until Now \| Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=xsjNGcevbT8)

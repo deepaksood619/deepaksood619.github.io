@@ -29,6 +29,7 @@ https://docs.google.com/spreadsheets/d/1zl7adSoCYuWpuBnRPbkkhwT2RZ5hk3lUO4ud0NE7
 	- China is an _engineering state_, which brings a sledgehammer to problems both physical and social, in contrast with America’s _lawyerly society_, which brings a gavel to block almost everything, good and bad.
 	- [Opinion \| Does the Future Belong to China? - The New York Times](https://www.nytimes.com/video/opinion/100000010365173/does-the-future-belong-to-china.html)
 - [Dictator vs Democracy: The rise of Xi Jinping and China? Explained - YouTube](https://www.youtube.com/watch?v=ieyzFXJk4e8)
+- [China Creates Its Own Bios to Break Free From Western Tech](https://indiandefencereview.com/the-u-s-and-its-allies-wont-be-happy-china-creates-its-own-bios-to-break-free-from-western-tech/)
 
 ### Taiwan
 

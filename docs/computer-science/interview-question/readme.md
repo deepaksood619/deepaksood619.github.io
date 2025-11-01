@@ -14,6 +14,7 @@
 	- [indexing-questions](databases/indexing/indexing-questions.md)
 	- [BigQuery - interview-questions](data-warehouses/bigquery/interview-questions.md)
 	- [Milvus - interview-questions](databases-nosql/milvus/interview-questions.md)
+	- [SQL - interview-questions](languages/sql/interview-questions.md)
 - AIML/Data
 	- [ML Fundamentals - questions](ai/ml-fundamentals/questions.md)
 	- [Data science - questions](ai/data-science/questions.md)

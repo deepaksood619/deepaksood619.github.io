@@ -58,15 +58,3 @@ https://theorangeone.net/posts/django-orm-performance
 ### Links
 
 [Django’s select\_for\_update with Examples and Tests | by Alexandre Laplante | Medium](https://medium.com/@alexandre.laplante/djangos-select-for-update-with-examples-and-tests-caff09414766)
-
-## Django 3.0
-
-ASGI Support
-
-https://docs.djangoproject.com/en/3.0/releases/3.0
-
-https://arunrocks.com/a-guide-to-asgi-in-django-30-and-its-performance
-
-## Django 5.0
-
-[Django 5.0 release notes \| Django documentation \| Django](https://docs.djangoproject.com/en/5.2/releases/5.0/)

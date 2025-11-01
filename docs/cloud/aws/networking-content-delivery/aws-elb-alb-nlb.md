@@ -6,6 +6,8 @@ Elastic Load Balancing automatically distributes incoming application traffic ac
 
 This load balancer operates at Layer 7 of the OSI model. It can be used to load-balance HTTP and HTTPS applications and can invoke Lambda functions, among several other features.
 
+ALBs only support HTTP/HTTPS (Layer 7) and WebSocket protocols. They do not support Layer 4 protocols such as TCP or UDP.
+
 [IP address types for your Application Load Balancer - Elastic Load Balancing](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-ip-address-type.html)
 
 ### Path based routing

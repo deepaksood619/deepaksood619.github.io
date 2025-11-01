@@ -70,6 +70,8 @@ A buyback can be seen as a method for a company to invest in itself by buying sh
 
 When a company announces a buyback, it signals the company's confidence about itself. Hence this is usually positive for the share price.
 
+[What should you consider before participating in share buyback?](https://freefincal.com/what-should-you-consider-before-participating-in-share-buyback/)
+
 ## Equity Financing
 
 - Additional equity financing increases a company's outstanding shares and often dilutes the stock's value for existing shareholders.
