@@ -34,6 +34,7 @@
 	- [System Design - MMOG - Game](system-design-mmog-game)
 	- [Google Crawlers / Crawling](frontend/seo/google-crawlers-crawling.md)
 	- [System Design of Uber Data Architecture](computer-science/interview-question/system-design-uber-data-architecture.md)
+	- [System Design GenBI](computer-science/interview-question/system-design-genbi.md)
 	- [System Design - Others](system-design-others)
 - Others
 	- [leadership-interview-questions](management/people-management/leadership-interview-questions.md)

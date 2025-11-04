@@ -125,7 +125,17 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/VirtualHosting.html
 
 https://aws.amazon.com/blogs/aws/amazon-s3-path-deprecation-plan-the-rest-of-the-story
 
+## S3 GET
+
+Using the Range HTTP header in a GET Object request, you can fetch a byte-range from an object, transferring only the specified portion. You can use concurrent connections to Amazon S3 to fetch different byte ranges from within the same object. This helps you achieve higher aggregate throughput versus a single whole-object request. Fetching smaller ranges of a large object also allows your application to improve retry times when requests are interrupted.
+
+A byte-range request is a perfect way to get the beginning of a file and ensuring we remain efficient during our scan of our Amazon S3 bucket.
+
 ## S3 Select and Glacier Select
+
+Amazon S3 Select is a new Amazon S3 capability designed to pull out only the data you need from an object, which can dramatically improve the performance and reduce the cost of applications that need to access data in Amazon S3. You cannot use Byte Range Fetch parameter with S3 Select to traverse the Amazon S3 bucket and get the first bytes of a file.
+
+Please note that with Amazon S3 Select, you can scan a subset of an object by specifying a range of bytes to query using the ScanRange parameter. This capability lets you parallelize scanning the whole object by splitting the work into separate Amazon S3 Select requests for a series of non-overlapping scan ranges. Use the Amazon S3 Select ScanRange parameter and Start at (Byte) and End at (Byte).
 
 Amazon S3 Select does not support whole-object compression for Parquet objects.
 
@@ -166,7 +176,7 @@ for event in r['Payload']:
         print(statsDetails['BytesProcessed'])
 ```
 
-## When should you use amazon S3
+### When should you use amazon S3
 
 - **Good use cases**
     - When you need to write once, read many times
@@ -192,7 +202,11 @@ https://aws.amazon.com/s3/storage-analytics-insights
 
 S3 Analytics Storage Class Analysis - $0.10 per million objects monitored per month
 
-By using Amazon S3 analytics _Storage Class Analysis_ you can analyze storage access patterns to help you decide when to transition the right data to the right storage class. This new Amazon S3 analytics feature observes data access patterns to help you determine when to transition less frequently accessed STANDARD storage to the STANDARD_IA (IA, for infrequent access) storage class.
+By using Amazon S3 analytics _Storage Class Analysis_ you can analyze storage access patterns to help you decide when to transition the right data to the right storage class. This new Amazon S3 analytics feature observes data access patterns to help you determine when to transition less frequently accessed **STANDARD storage to the STANDARD_IA (IA, for infrequent access) storage class.**
+
+Storage class analysis only provides recommendations for Standard to Standard IA classes.
+
+After storage class analysis observes the infrequent access patterns of a filtered set of data over a period of time, you can use the analysis results to help you improve your lifecycle configurations. You can configure storage class analysis to analyze all the objects in a bucket. Or, you can configure filters to group objects together for analysis by common prefix (that is, objects that have names that begin with a common string), by object tags, or by both prefix and tags.
 
 [Amazon S3 analytics – Storage Class Analysis - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/analytics-storage-class.html)
 
@@ -345,6 +359,15 @@ You can use _Legal Hold_ when you are not sure for how long you want your obje
 
 Amazon S3 Access Points provide a scalable, manageable solution for managing permissions on shared buckets. By creating a dedicated access point for each service, and setting access point-level policies that scope access down to specific prefixes within the bucket, the company can enforce fine-grained, isolated access per application. This approach avoids complexity in the bucket policy and eliminates the need for per-object permissions management. Access points are ideal for environments with multiple applications or teams sharing a common S3 bucket.
 
+Large organizations with private Amazon S3 buckets using S3 Access Points as their solution for complying with data-sharing requirements across departments need a way to simplify access management while adhering to strict security standards. In our example, a customer has three different organizational departments: Finance, Marketing, and Operations. Each department has different needs for the data in the S3 bucket, while also requiring different controls.
+
+Organizational and departmental requirements in this example:
+
+- An Amazon S3 bucket that holds the restricted data that different departments must securely access and manage. The S3 bucket should not be public, and it should only be accessible from within the VPC. Furthermore, the VPC should have no outbound or inbound internet access.
+- The Finance department uses **application role 1,** and this role should enable members of this department to upload data to the S3 bucket if the prefix matches /Application1 or /Application3. In this scenario, this role ensures that members of this department could take no other actions, like download or delete.
+- The Marketing department uses **application role 2,** and this role should enable members of this department to download objects from the S3 bucket. In this scenario, this role ensures that this department could take no other actions, like upload or delete.
+- The Operations department uses **application role 3,** and this role should enable members of this department to download objects if the prefix matches /Application3. This role also permits members of this department to delete objects in any of the application folders inside the S3 bucket.
+
 [Securing data in a virtual private cloud using Amazon S3 Access Points \| AWS Storage Blog](https://aws.amazon.com/blogs/storage/securing-data-in-a-virtual-private-cloud-using-amazon-s3-access-points/)
 
 ### S3 Bucket Policy vs IAM Policy
@@ -370,7 +393,7 @@ Use IAM policies if:
 Use S3 bucket policies if:
 
 - You want a simple way to grant [cross-account access](http://docs.aws.amazon.com/AmazonS3/latest/dev/AccessPolicyLanguage_UseCases_s3_a.html) to your S3 environment, without using [IAM roles](http://docs.aws.amazon.com/IAM/latest/UserGuide/cross-acct-access-walkthrough.html).
-- Your IAM policies bump up against the size limit (up to 2 KB for users, 5 KB for groups, and 10 KB for roles). S3 supports bucket policies of up to 20 KB.
+- **Your IAM policies bump up against the size limit (up to 2 KB for users, 5 KB for groups, and 10 KB for roles). S3 supports bucket policies of up to 20 KB.**
 - You prefer to keep access control policies in the S3 environment.
 - You want to apply common security controls to the principals who interact with S3 buckets, such as restricting the IP addresses or VPC a bucket can be accessed from.
 

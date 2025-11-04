@@ -47,6 +47,13 @@
 - [Ed Donner \| AI startup co-founder and leader; Gen AI and LLM instructor \| Udemy](https://www.udemy.com/user/ed-donner-3/)
 - [Attention in Transformers: Concepts and Code in PyTorch - DeepLearning.AI](https://www.deeplearning.ai/short-courses/attention-in-transformers-concepts-and-code-in-pytorch/)
 
+### LLM Engineering
+
+1. [LangGraph Complete Course for Beginners – Complex AI Agents with Python - YouTube](https://www.youtube.com/watch?v=jGg_1h0qzaM)
+2. [Agentic AI With Langgraph And MCP Crash Course-Part 1 - YouTube](https://www.youtube.com/watch?v=dIb-DujRNEo)
+3. [LLM Engineering: Master AI, Large Language Models & Agents \| Udemy](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/)
+4. [The Complete Agentic AI Engineering Course (2025) \| Udemy](https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/)
+
 ## AI (Artificial Intelligence) + ML (Machine Learning)
 
 - https://www.freecodecamp.org/learn/machine-learning-with-python

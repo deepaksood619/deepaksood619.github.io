@@ -1,4 +1,4 @@
-# AWS SQS
+# Amazon SQS
 
 Managed Message Queues
 
@@ -9,6 +9,8 @@ SQS offers two types of message queues. **Standard queues** offer maximum throug
 - Dead letter queue support
 - Visibility timeout
 - Long pooling
+
+[Amazon SQS queue types - Amazon Simple Queue Service](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-queue-types.html)
 
 ## SQS FIFO Queues
 
@@ -30,7 +32,62 @@ The engineering team at an e-commerce company wants to migrate from Amazon Simpl
 - Delete the existing standard queue and recreate it as a FIFO (First-In-First-Out) queue
 - Make sure that the throughput for the target FIFO (First-In-First-Out) queue does not exceed 3,000 messages per second
 
-## Advantages
+## SQS Temporary Queues
+
+Temporary queues help you save development time and deployment costs when using common message patterns such as request-response. You can use the Temporary Queue Client to create high-throughput, cost-effective, application-managed temporary queues.
+
+The client maps multiple temporary queues—application-managed queues created on demand for a particular process—onto a single Amazon SQS queue automatically. This allows your application to make fewer API calls and have a higher throughput when the traffic to each temporary queue is low. When a temporary queue is no longer in use, the client cleans up the temporary queue automatically, even if some processes that use the client aren't shut down cleanly.
+
+The following are the benefits of temporary queues:
+
+1. They serve as lightweight communication channels for specific threads or processes.
+2. They can be created and deleted without incurring additional costs.
+3. They are API-compatible with static (normal) Amazon SQS queues. This means that existing code that sends and receives messages can send messages to and receive messages from virtual queues.
+
+To better support short-lived, lightweight messaging destinations, AWS recommends Amazon SQS Temporary Queue Client. This client makes it easy to create and delete many temporary messaging destinations without inflating your AWS bill. The key concept behind the client is the virtual queue. Virtual queues let you multiplex many low-traffic queues onto a single Amazon SQS queue. Creating a virtual queue only instantiates a local buffer to hold messages for consumers as they arrive; there is no API call to SQS and no costs associated with creating a virtual queue.
+
+[Simple Two-way Messaging using the Amazon SQS Temporary Queue Client \| AWS Compute Blog](https://aws.amazon.com/blogs/compute/simple-two-way-messaging-using-the-amazon-sqs-temporary-queue-client/)
+
+[Amazon SQS temporary queues - Amazon Simple Queue Service](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-temporary-queues.html)
+
+## SQS Dead-Letter Queues
+
+Amazon SQS supports dead-letter queues, which other queues (source queues) can target for messages that can't be processed (consumed) successfully. Dead-letter queues are useful for debugging your application or messaging system because they let you isolate problematic messages to determine why their processing doesn't succeed. Amazon SQS does not create the dead-letter queue automatically. You must first create the queue before using it as a dead-letter queue.
+
+### How does Amazon SQS handle messages that can't be processed?
+
+In Amazon SQS, you can use the API or the console to configure dead-letter queues, which are queues that receive messages from other source queues.
+
+If you make a queue into a dead letter queue, it receives messages after a maximum number of processing attempts cannot be completed. You can use dead letter queues to isolate messages that can't be processed for later analysis.
+
+[Using dead-letter queues in Amazon SQS - Amazon Simple Queue Service](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-dead-letter-queues.html)
+
+### Can I use a dead letter queue with FIFO queues?
+
+Yes. However, you must use a FIFO dead letter queue with a FIFO queue. (Similarly, you can use only a standard dead letter queue with a standard queue.)
+
+## SQS Delay Queues
+
+Delay queues let you postpone the delivery of new messages to a queue for a number of seconds, for example, when your consumer application needs additional time to process messages. If you create a delay queue, any messages that you send to the queue remain invisible to consumers for the duration of the delay period. The default (minimum) delay for a queue is 0 seconds. The maximum is 15 minutes (900 seconds).
+
+Delay queues are similar to [visibility timeouts](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-visibility-timeout.html) because both features make messages unavailable to consumers for a specific period of time. The difference between the two is that, for delay queues, a message is hidden when it is first added to queue, whereas for visibility timeouts a message is hidden only after it is consumed from the queue. The following diagram illustrates the relationship between delay queues and visibility timeouts.
+
+![An illustration of the relationship between delay queues and visibility timeouts.](https://docs.aws.amazon.com/images/AWSSimpleQueueService/latest/SQSDeveloperGuide/images/sqs-delay-queues-diagram.png)
+
+[Amazon SQS delay queues - Amazon Simple Queue Service](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-delay-queues.html)
+
+### Configuration
+
+- **Queue-level delay:** A delay can be configured for the entire queue, meaning all messages sent to that queue will be subject to the same delay. This is set using the `DelaySeconds` attribute of the queue.    
+- **Message-level delay (Message Timers):** Individual messages can also have a delay specified using the `DelaySeconds` parameter when sending the message. If both queue-level and message-level delays are set, the message-level delay overrides the queue-level setting for that specific message.
+
+### What is a visibility timeout?
+
+The visibility timeout is a period of time during which Amazon SQS prevents other consuming components from receiving and processing a message. For more information, see [Visibility Timeout](http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/AboutVT.html) in theAmazon SQS Developer Guide.
+
+## SQS Standard Queue
+
+### Advantages
 
 - **Durability--** To ensure the safety of your messages, Amazon SQS stores them on multiple servers. Standard queues support [at-least-once message delivery](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/standard-queues.html#standard-queues-at-least-once-delivery), and FIFO queues support [exactly-once message processing](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/FIFO-queues.html#FIFO-queues-exactly-once-processing).
 - **Availability--** Amazon SQS uses [redundant infrastructure](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-basic-architecture.html) to provide highly-concurrent access to messages and high availability for producing and consuming messages.
@@ -44,7 +101,7 @@ Can be increased using s3 - https://github.com/awslabs/amazon-sqs-java-extended-
 
 https://github.com/timothymugayi/boto3-sqs-extended-client-lib
 
-## Batching
+### Batching
 
 Send, receive, or delete messages in batches of up to 10 messages or 256KB to save costs.
 
@@ -68,18 +125,6 @@ https://aws.amazon.com/sqs
 
 Amazon SNS allows applications to send time-critical messages to multiple subscribers through a "push" mechanism, eliminating the need to periodically check or "poll" for updates. Amazon SQS is a message queue service used by distributed applications to exchange messages through a polling model, and can be used to decouple sending and receiving components.
 
-## How does Amazon SQS handle messages that can't be processed?
-
-In Amazon SQS, you can use the API or the console to configure dead letter queues, which are queues that receive messages from other source queues.
-
-If you make a queue into a dead letter queue, it receives messages after a maximum number of processing attempts cannot be completed. You can use dead letter queues to isolate messages that can't be processed for later analysis.
-
-For more information, see "Can I use a dead letter queue with FIFO queues?" on this page and [Using Amazon SQS Dead Letter Queues](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-dead-letter-queues.html) in the Amazon SQS Developer Guide.
-
-## What is a visibility timeout?
-
-The visibility timeout is a period of time during which Amazon SQS prevents other consuming components from receiving and processing a message. For more information, see [Visibility Timeout](http://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/AboutVT.html) in theAmazon SQS Developer Guide.
-
 ## Does Amazon SQS support message metadata?
 
 Yes. An Amazon SQS message can contain up to 10 metadata attributes. You can use message attributes to separate the body of a message from the metadata that describes it. This helps process and store information with greater speed and efficiency because your applications don't have to inspect an entire message before understanding how to process it.
@@ -88,7 +133,7 @@ Amazon SQS message attributes take the form of name-type-value triples. The supp
 
 ## How can I determine the time-in-queue value?
 
-To determine the time-in-queue value, you can request the SentTimestamp attribute when receiving a message. Subtracting that value from the current time results in the time-in-queue value.
+To determine the time-in-queue value, you can request the `SentTimestamp` attribute when receiving a message. Subtracting that value from the current time results in the time-in-queue value.
 
 ## What is the typical latency for Amazon SQS?
 
@@ -150,10 +195,6 @@ If multiple producers send messages in parallel, without waiting for the success
 
 By design, Amazon SQS FIFO queues don't serve messages from the same message group to more than one consumer at a time. However, if your FIFO queue has multiple message groups, you can take advantage of parallel consumers, allowing Amazon SQS to serve messages from different message groups to different consumers.
 
-## Can I use a dead letter queue with FIFO queues?
-
-Yes. However, you must use a FIFO dead letter queue with a FIFO queue. (Similarly, you can use only a standard dead letter queue with a standard queue.)
-
 ## Why are there separate ReceiveMessage and DeleteMessage operations?
 
 When Amazon SQS returns a message to you, the message stays in the message queue whether or not you actually receive the message. You're responsible for deleting the message and the deletion request acknowledges that you're done processing the message.
@@ -180,9 +221,11 @@ https://aws.amazon.com/sqs/faqs
 
 ## Boto3
 
-## import boto3
+```python
+import boto3
 
-client **=** boto3**.**client('sqs')
+client = boto3.client('sqs')
+```
 
 - [**add_permission()**](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sqs.html#SQS.Client.add_permission)
 - [**can_paginate()**](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sqs.html#SQS.Client.can_paginate)

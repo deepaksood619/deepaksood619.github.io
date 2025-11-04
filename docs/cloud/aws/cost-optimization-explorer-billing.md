@@ -165,6 +165,14 @@ Ideally, both should be 100%, but I would say that it's more important to keep t
 - [Using your coverage report - Savings Plans](https://docs.aws.amazon.com/savingsplans/latest/userguide/ce-sp-usingCR.html)
 - [Compute Savings Plans – Amazon Web Services](https://aws.amazon.com/savingsplans/compute-pricing/)
 
+### Compute Savings Plan
+
+The Compute Savings Plan is the most flexible type of Savings Plan offered by AWS, and it applies to a broad range of compute services—including Amazon EC2, AWS Fargate, and AWS Lambda. Unlike EC2 Instance Savings Plans, Compute Savings Plans are not tied to a specific instance family or Region, making them ideal for organizations with varied or evolving compute needs. In this scenario, since the company is using EC2, Fargate, and Lambda in a steady state, a Compute Savings Plan provides a unified way to reduce costs across all three services with minimal administrative effort. It allows the company to maintain its existing architecture without modification while achieving long-term cost savings.
+
+### SageMaker Savings Plan
+
+Amazon SageMaker is not included under Compute Savings Plans, so workloads running on SageMaker require a SageMaker-specific Savings Plan for cost optimization. The SageMaker Savings Plan provides flexible discounts for various SageMaker components including training jobs, real-time inference, batch transform, and SageMaker Studio notebooks. By committing to a one- or three-year usage plan, companies can achieve significant cost reductions—up to 64%—compared to On-Demand pricing. In this use case, since SageMaker is used for inference workloads that are stable and predictable, a dedicated SageMaker Savings Plan is the most efficient and operationally simple approach to reduce costs.
+
 ## Reserved Instances
 
 With Aurora MySQL they have [size flexibility](https://aws.amazon.com/about-aws/whats-new/2017/10/amazon-rds-reserved-instances-offer-instance-size-flexibility/) -- so they can purchase a T3.Large, and run 4 T3.Smalls to get the discount (or whatever the size factor is). However, they must commit to the T3 family. They will not be able to get the discount by running a T2 RDS instance. That T2 will be billed on-demand rates.

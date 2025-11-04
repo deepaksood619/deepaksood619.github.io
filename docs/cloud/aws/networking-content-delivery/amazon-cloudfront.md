@@ -62,7 +62,31 @@ CloudFront price classes allow you to optimize costs by selecting the geographic
 - **Georestriction**
 	- [Restrict the geographic distribution of your content - Amazon CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/georestrictions.html)
 	- You can use geo restriction, also known as geo blocking, to prevent users in specific geographic locations from accessing content that you're distributing through a Amazon CloudFront distribution.
-- **Origin Access Control (OAC) is the recommended method for granting CloudFront permission to upload to (write into) an S3 bucket securely.** OAC supersedes the older Origin Access Identity (OAI) approach and supports both read and write operations. This allows you to restrict direct access to the S3 bucket and ensure that only CloudFront can act as a secure intermediary for uploads.
+
+### Origin Access Control (OAC) / Origin Access Identity (OAI)
+
+**Origin Access Control (OAC) is the recommended method for granting CloudFront permission to upload to (write into) an S3 bucket securely.** OAC supersedes the older Origin Access Identity (OAI) approach and supports both read and write operations. This allows you to restrict direct access to the S3 bucket and ensure that only CloudFront can act as a secure intermediary for uploads.
+
+To restrict access to content that you serve from Amazon S3 buckets, you need to follow the following steps:
+
+1. Create a special Amazon CloudFront user called an origin access identity (OAI) and associate it with your distribution.
+2. Configure your Amazon S3 bucket permissions so that Amazon CloudFront can use the OAI to access the files in your bucket and serve them to your users. Make sure that users can’t use a direct URL to the Amazon S3 bucket to access a file there.
+
+After you take these steps, users can only access your files through Amazon CloudFront, not directly from the Amazon S3 bucket.
+
+In general, if you’re using an Amazon S3 bucket as the origin for a Amazon CloudFront distribution, you can either allow everyone to have access to the files there, or you can restrict access. If you restrict access by using, for example, Amazon CloudFront signed URLs or signed cookies, you also won’t want people to be able to view files by simply using the direct Amazon S3 URL for the file. Instead, you want them to only access the files by using the Amazon CloudFront URL, so your content remains protected.
+
+### Amazon CloudFront signed URLs / Amazon CloudFront signed cookies
+
+Many companies that distribute content over the internet want to restrict access to documents, business data, media streams, or content that is intended for selected users, for example, users who have paid a fee.
+
+To securely serve this private content by using Amazon CloudFront, you can do the following:
+
+Require that your users access your private content by using special Amazon CloudFront signed URLs or signed cookies.
+
+A signed URL includes additional information, for example, expiration date and time, that gives you more control over access to your content.
+
+**Amazon CloudFront signed cookies** allow you to control who can access your content when you don't want to change your current URLs or when you want to provide access to multiple restricted files, for example, all of the files in the subscribers' area of a website.
 
 ## Links
 

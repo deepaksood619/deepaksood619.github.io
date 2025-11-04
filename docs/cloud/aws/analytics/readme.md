@@ -72,7 +72,21 @@ Perpare and Load Data
 
 ## AWS Glue DataBrew
 
-https://aws.amazon.com/blogs/big-data/enrich-datasets-for-descriptive-analytics-with-aws-glue-databrew
+AWS Glue DataBrew is a fully managed, serverless data preparation tool that enables users to visually clean, transform, and normalize raw datasets—all without writing any code. It is specifically designed for data analysts, business users, and data engineers who need to prepare data for analytics or machine learning workflows using an intuitive point-and-click interface.
+
+In the scenario, the company ingests Apache Parquet files into Amazon S3 and needs to apply multiple transformation steps such as anomaly filtering, standardizing date formats, and computing aggregates. With DataBrew, users can perform these tasks through a drag-and-drop Ul and configure complex workflows using reusable "recipes"-collections of ordered transformation steps that can be saved, versioned, and shared with others in the organization.
+
+Furthermore, DataBrew provides built-in data profiling capabilities. It automatically generates column-level statistics such as distributions, cardinality, null value counts, standard deviations, and outlier detection. This visibility enables better data quality assessment before the data is used for reporting or machine learning.
+
+DataBrew's recipe model supports auditability and traceability, satisfying the requirement for data lineage. All transformation steps are recorded and can be exported or replicated across projects.
+
+The output of a DataBrew job is written back to Amazon S3, keeping the transformed data accessible for downstream tools like Amazon Athena, Redshift, or QuickSight.
+
+Because it's serverless, there's no infrastructure to manage, and it integrates seamlessly with other AWS services. This makes it ideal for teams that want a no-code, collaborative, auditable, and profile-rich data transformation tool for Parquet-based data lakes in S3.
+
+[What is AWS Glue DataBrew? - AWS Glue DataBrew](https://docs.aws.amazon.com/databrew/latest/dg/what-is.html)
+
+[Enrich datasets for descriptive analytics with AWS Glue DataBrew \| AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/enrich-datasets-for-descriptive-analytics-with-aws-glue-databrew)
 
 ## AWS Managed Streaming for Apache Kafka
 

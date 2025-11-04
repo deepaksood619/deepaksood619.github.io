@@ -1,7 +1,5 @@
 # System Design - Others
 
-## Interview Questions
-
 ## System Design Exercise
 
 **Business Plan**

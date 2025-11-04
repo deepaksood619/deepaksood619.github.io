@@ -4,7 +4,7 @@
 
 In the world of blockchain, a dual-token economy or model means a project with two tokens, one of which is used for utility inside the network and the other one as security to raise funds for
 
-The **dual-**[**token**](https://coinmarketcap.com/alexandria/glossary/token) **economy,** also referred to as the **dual-token model or system,** is a term used for crypto projects that offer **two different types of tokens**. The main idea behind creating tokens is to **avoid compliance issues with regulators and divide the project's ecosystem into two tokens for better usability**.
+The **dual-[token](https://coinmarketcap.com/alexandria/glossary/token) economy,** also referred to as the **dual-token model or system,** is a term used for crypto projects that offer **two different types of tokens**. The main idea behind creating tokens is to **avoid compliance issues with regulators and divide the project's ecosystem into two tokens for better usability**.
 
 Typically, one of the two tokens is used as [security](https://coinmarketcap.com/alexandria/glossary/security) to **raise investment for the crypto project**. The token does this by strictly following the regulations outlined for conventional securities, like bonds or stocks. The other token is **used on the network to fulfill certain roles or activities.** These roles usually differ from one project to another.
 

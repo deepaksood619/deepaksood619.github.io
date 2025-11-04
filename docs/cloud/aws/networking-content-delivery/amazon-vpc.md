@@ -194,6 +194,14 @@ Amazon VPC provides the facility to create an **IPsec VPN connection (also known
 - VPN connection is a secure connection between your on-premises equipment and your VPCs. Each VPN connection has two VPN tunnels which you can use for high availability. A VPN tunnel is an encrypted link where data can pass from the customer network to or from AWS. The following diagram shows the high-level connectivity with virtual private gateways.
 - With AWS Transit Gateway, you can simplify the connectivity between multiple VPCs and also connect to any VPC attached to AWS Transit Gateway with a single VPN connection. AWS Transit Gateway also enables you to scale the IPsec VPN throughput with equal cost multi-path (ECMP) routing support over multiple VPN tunnels. A single VPN tunnel still has a maximum throughput of 1.25 Gbps. If you establish multiple VPN tunnels to an ECMP-enabled transit gateway, it can scale beyond the default maximum limit of 1.25 Gbps. You also must enable the dynamic routing option on your transit gateway to be able to take advantage of ECMP for scalability.
 
+## AWS VPN CloudHub
+
+If you have multiple AWS Site-to-Site VPN connections, you can provide secure communication between sites using the AWS VPN CloudHub. This enables your remote sites to communicate with each other, and not just with the VPC. Sites that use AWS Direct Connect connections to the virtual private gateway can also be part of the AWS VPN CloudHub. The VPN CloudHub operates on a simple hub-and-spoke model that you can use with or without a VPC. This design is suitable if you have multiple branch offices and existing internet connections and would like to implement a convenient, potentially low-cost hub-and-spoke model for primary or backup connectivity between these remote offices.
+
+Per the given use-case, the corporate headquarters has an AWS Direct Connect connection to the VPC and the branch offices have Site-to-Site VPN connections to the VPC. Therefore using the AWS VPN CloudHub, branch offices can send and receive data with each other as well as with their corporate headquarters.
+
+ [Secure communication between AWS Site-to-Site VPN connections using VPN CloudHub - AWS Site-to-Site VPN](https://docs.aws.amazon.com/vpn/latest/s2svpn/VPN_CloudHub.html)
+
 ## NAT Gateway
 
 A NAT gateway is a Network Address Translation (NAT) service. You can use a NAT gateway so that **instances in a private subnet can connect to services outside your VPC but external services can't initiate a connection with those instances.**
@@ -312,6 +320,8 @@ The following are the key concepts for transit gateways:
 
 ### Transit VPCs
 
+Transit VPC uses customer-managed Amazon Elastic Compute Cloud (Amazon EC2) VPN instances in a dedicated transit VPC with an Internet gateway. This design requires the customer to deploy, configure, and manage EC2-based VPN appliances, which will result in additional EC2, and potentially third-party product and licensing charges. Note that this design will generate additional data transfer charges for traffic traversing the transit VPC: data is charged when it is sent from a spoke VPC to the transit VPC, and again from the transit VPC to the on-premises network or a different AWS Region. Transit VPC is not the right choice here.
+
 Transit VPC can be used to enable connectivity between various VPC’s in different regions and customer data centers. You can use this to connect multiple VPCs that are geographically disparate and/or running in separate AWS accounts, to a common VPC that serves as a global network transit center. This network topology simplifies network management and minimizes the number of connections that you need to set up.
 
 ![Transit VPC](../../../media/Screenshot%202025-10-26%20at%2010.56.41%20AM.jpg)
@@ -324,6 +334,16 @@ Transit VPC is not the right solution for this use-case as Transit Gateway provi
 4. Transit Gateway improves bandwidth for inter-VPC communication to burst speeds of 50 Gbps per Availability Zone (AZ).
 5. Transit Gateway streamlines user costs to a simple per hour per/GB transferred model.
 6. Transit Gateway decreases latency by removing Amazon EC2 proxies and the need for VPN encapsulation.
+
+[Transit VPC - Amazon Virtual Private Cloud Connectivity Options](https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/transit-vpc-option.html)
+
+[Transit VPC solution - Building a Scalable and Secure Multi-VPC AWS Network Infrastructure](https://docs.aws.amazon.com/whitepapers/latest/building-scalable-secure-multi-vpc-network-infrastructure/transit-vpc-solution.html)
+
+- VPC peering vs. Transit VPC vs. Transit Gateway vs PrivateLink vs Cloud WAN vs VPC Lattice
+
+### Shared Services VPCs
+
+Consider an organization that has built a hub-and-spoke network with AWS Transit Gateway. VPCs have been provisioned into multiple AWS accounts, perhaps to facilitate network isolation or to enable delegated network administration. When deploying distributed architectures such as this, a popular approach is to build a "**shared services VPC**, which provides access to services required by workloads in each of the VPCs. This might include directory services or VPC endpoints. Sharing resources from a central location instead of building them in each VPC may reduce administrative overhead and cost.
 
 ## Others
 

@@ -29,6 +29,8 @@ Book - What has religion done for mankind?
 
 - People, male and female, should be able to wear whatever they like whenever they like, with the exception of when security requires that a persons face be visible for the safety of the general population.
 
+_Muamlat_ refers to **the Islamic principles and laws governing transactions and interactions between people, such as commercial, civil, and social dealings**. It contrasts with _ibadat_ (acts of worship) and covers the legal and ethical framework for everything from trade and finance to social conduct, ensuring fairness and justice. In a broader sense, it encompasses all aspects of Islamic jurisprudence that are not ritual acts of worship.
+
 ## New Religious Movement (NRM)
 
 https://en.wikipedia.org/wiki/New_religious_movement

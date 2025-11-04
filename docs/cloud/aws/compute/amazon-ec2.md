@@ -286,9 +286,15 @@ This will cost around $4 month per IP per month
 
 ## EC2 > Networking > ENI
 
-An elastic network interface (referred to as a*network interface*in this documentation) is a logical networking component in a VPC that represents a virtual network card.
+An elastic network interface (referred to as a *network interface* in this documentation) is a logical networking component in a VPC that represents a virtual network card.
+
+An Elastic Network Interface (ENI) is a logical networking component in a VPC that represents a virtual network card. You can create a network interface, attach it to an instance, detach it from an instance, and attach it to another instance. The ENI is the simplest networking component available on AWS and is insufficient for HPC workflows.
 
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-eni.html
+
+### Elastic Network Adapter (ENA)
+
+Elastic Network Adapter (ENA) devices support enhanced networking via single root I/O virtualization (SR-IOV) to provide high-performance networking capabilities. Although enhanced networking provides higher bandwidth, higher packet per second (PPS) performance, and consistently lower inter-instance latencies, still EFA (Elastic Fabric Adapter) is a better fit for the given use-case because the EFA device provides all the functionality of an ENA device, plus hardware support for applications to communicate directly with the EFA device without involving the instance kernel (OS-bypass communication) using an extended programming interface.
 
 ## EC2 Launch Templates
 
@@ -330,7 +336,7 @@ Before you use placement groups, be aware of the following rules:
 
 [Choosing the Right EC2 Placement Group Type for Your Workloads \| by Brandon Damue \| Medium](https://medium.com/@dbrandonbawe/choosing-the-right-ec2-placement-group-type-for-your-workloads-3d93b6d83fc8)
 
-## EC2 Instance metadata and user data
+## EC2 instance metadata and user data
 
 ### Instance Metadata
 
@@ -344,11 +350,15 @@ It is possible to retrieve an instance’s IAM access key by accessing the `iam/
 
 ### User Data
 
-User Data is generally used to perform common automated configuration tasks and even run scripts after the instance starts. When you launch an instance in Amazon EC2, you can pass two types of user data - shell scripts and cloud-init directives. You can also pass this data into the launch wizard as plain text or as a file.
+User Data is generally used to perform common automated configuration tasks and even run scripts after the instance starts. When you launch an instance in Amazon EC2, you can pass two types of user data - **shell scripts and cloud-init directives**. You can also pass this data into the launch wizard as plain text or as a file.
 
 **Scripts entered as user data are executed as the root user**, hence do not need the sudo command in the script. Any files you create will be owned by root; if you need non-root users to have file access, you should modify the permissions accordingly in the script.
 
 By default, user data scripts and cloud-init directives run only **during the boot cycle when you first launch an instance**. You can update your configuration to ensure that your user data scripts and cloud-init directives run every time you restart your instance.
+
+**Question -** A systems administration team has a requirement to run certain custom scripts only once during the launch of the Amazon Elastic Compute Cloud (Amazon EC2) instances that host their application.
+
+**Answer -** Run the custom scripts as user data scripts on the Amazon EC2 instances
 
 ## Amazon Machine Images (AMI / AMIs)
 

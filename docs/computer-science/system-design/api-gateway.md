@@ -44,7 +44,7 @@
 1. **Cloud**
 
    - Apigee
-   - AWS API Gateway
+   - Amazon API Gateway
    - Azure API Gateway
    - Google cloud endpoints
    - WSO2 API Manager

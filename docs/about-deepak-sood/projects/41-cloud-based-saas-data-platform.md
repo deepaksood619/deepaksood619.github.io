@@ -98,7 +98,7 @@ https://drive.google.com/file/d/1Kk1_INbeBsGtxDgAVCBjlUDcSLd-B2_D/view?usp=drive
 	- Apache Spark on EMR / Dataproc / Azure HDInsight for large-scale ETL.
 	- Schema evolution: AWS Glue Schema Registry / Confluent Schema Registry.
 - Data Access:
-	- AWS API Gateway / GCP Endpoints / Azure API Management for REST APIs.
+	- Amazon API Gateway / GCP Endpoints / Azure API Management for REST APIs.
 	- Kinesis Data Analytics / Apache Flink for real-time streaming analytics.
 - Security:
 	- Encryption: AWS KMS / Azure Key Vault / GCP KMS.

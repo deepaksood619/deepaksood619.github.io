@@ -14,6 +14,16 @@ Here are the benefits of debt mutual funds over bank fixed deposits, company fix
 - Unlike fixed deposits, in debt funds, you pay tax only when you withdraw. Because of the deferred tax, all the gains in debt funds are available for compounding. The impact of this over 15 years is huge if debt funds generate the same return as bank fixed deposit interest rates.
 - Debt funds provide better diversification and reduce single-entity risk in the portfolio.
 
+### Actively Managed Debt Mutual Funds
+
+Even though there is some fund manager risk in an actively managed gilt fund, I would prefer that to a long-term gilt index fund. In an active fund, the fund manager would adjust the portfolio’s average maturity in response to market demand and supply (which depend on the interest rate outlook). This will help with returns as interest rates keep rising or are about to rise.
+
+**General thumbrule:** When interest rates keep increasing, the fund manager will buy longer duration bonds (average portfolio maturity increases). These will provide greater interest and greater capital gains if rates fall. When interest rates start falling, the average portfolio maturity decreases. This will reduce losses if the rates increase.
+
+[Should you invest in a debt index fund? + List of debt index funds in India Nov 2025](https://freefincal.com/should-you-invest-in-a-debt-index-fund-list-of-debt-index-funds-in-india-nov-2025/)
+
+[**How to choose a gilt mutual fund**](https://freefincal.com/how-to-choose-a-gilt-mutual-fund/)
+
 ## Debt Funds / Income Funds / Bond Funds / Liquid Funds
 
 - Quantum Liquid Fund + ICICI Arbitrage Fund

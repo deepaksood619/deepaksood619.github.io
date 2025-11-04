@@ -325,6 +325,40 @@ Two mechanisms contribute to humanity’s perennial tendency to denigrate kids: 
 
 [Kids these days: Why the youth of today seem lacking \| Science Advances](https://www.science.org/doi/10.1126/sciadv.aav5916)
 
+## Enclothed Cognition
+
+Should you have separate job clothes for jobs like police, judge, pilot, doctor, etc, does wearing them gives power and ego to the person wearing it, and makes them abuse their power. Is the benefits outway the cons?
+
+### Core principle
+
+Clothing is both _functional_ and _symbolic_. A uniform does two things:
+
+1. It communicates authority, identity, and belonging to others.
+2. It shapes the self-perception of the wearer.
+
+### Derived reasoning
+
+Uniforms evolved for practical and social reasons. A pilot’s uniform signals competence and calm control in high-risk environments. A judge’s robes project impartiality. A police officer’s attire distinguishes them as enforcers of law. In each case, the uniform creates _clarity_—both for the public and the institution. Without visible differentiation, social coordination would degrade; you wouldn’t know whom to trust or obey in critical moments.
+
+But there’s an unintended effect—what psychologists call _enclothed cognition_. Studies show that what you wear changes how you think and behave. A lab coat can increase focus; a police uniform can increase vigilance but also bias toward perceiving threat. This is not mystical—clothes act as constant cues reinforcing role expectations and perceived power.
+
+That’s where the potential for abuse arises. If the uniform confers _status without accountability_, ego can inflate and empathy can shrink. It’s not the clothing itself that corrupts, but the psychological distance it can create between the wearer and the public.
+
+### Trade-off analysis
+
+- **Benefits:** order, trust, quick identification, authority structure, professional pride, unity.
+- **Costs:** psychological separation, potential arrogance, overconfidence, or misuse of authority.
+
+### Conclusion
+
+Yes, the benefits outweigh the cons—_if and only if_ institutions have strong cultural and procedural checks. Uniforms are amplifiers: they magnify the underlying character and culture. In a healthy system, they inspire respect and responsibility. In a decayed one, they invite ego and abuse.
+
+Uniforms are tools of civilization; they remind us that power is performed, not possessed. The real test isn’t whether someone wears the robe, badge, or stripes—but whether they remember _why_ they’re wearing it.
+
+This question opens the door to a larger reflection: how symbols of power shape not just the wearer, but society’s collective conscience.
+
+[Enclothed cognition - Wikipedia](https://en.wikipedia.org/wiki/Enclothed_cognition)
+
 ## Economic Mental Errors / Fallacies
 
 ### Endowment Effect

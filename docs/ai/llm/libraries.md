@@ -173,6 +173,7 @@ Traditional RAG approaches often rely on batch processing and static data summar
 	- [Cognee Documentation - Introduction](https://docs.cognee.ai/)
 - [Graphlit: Knowledge API Platform](https://www.graphlit.com/)
 - [GitHub - Olow304/memvid: Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.](https://github.com/Olow304/memvid)
+- [GitHub - toon-format/toon: 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks & reference implementation.](https://github.com/toon-format/toon)
 
 **Comparision**
 

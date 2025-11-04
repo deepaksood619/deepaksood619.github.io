@@ -16,71 +16,7 @@ AWS PrivateLink simplifies the security of data shared with cloud-based applicat
 
 ## 4. Amazon Route53
 
-Scalable Domain Name System
-
-Amazon Route53 effectively connects user requests to infrastructure running in AWS -- such as Amazon EC2 instances, Elastic Load Balancing load balancers, or Amazon S3 buckets -- and can also be used to route users to infrastructure outside of AWS. You can use Amazon Route 53 to configure DNS health checks to route traffic to healthy endpoints or to independently monitor the health of your application and its endpoints. Amazon Route 53 Traffic Flow makes it easy for you to manage traffic globally through a variety of routing types, including Latency Based Routing, Geo DNS, Geoproximity, and Weighted Round Robin - all of which can be combined with DNS Failover in order to enable a variety of low-latency, fault-tolerant architectures. Using Amazon Route 53 Traffic Flow's simple visual editor, you can easily manage how your end-users are routed to your application's endpoints - whether in a single AWS region or distributed around the globe. Amazon Route 53 also offers Domain Name Registration -- you can purchase and manage domain names such as example.com and Amazon Route 53 will automatically configure DNS settings for your domains.
-
-### Routing Policy
-
-- **Simple routing policy** – Use for a single resource that performs a given function for your domain, for example, a web server that serves content for the example.com website. You can use simple routing to create records in a private hosted zone.
-- **Failover routing policy** – Use when you want to configure active-passive failover. You can use failover routing to create records in a private hosted zone.
-- **Geolocation routing policy** – Use when you want to route traffic based on the location of your users. You can use geolocation routing to create records in a private hosted zone.
-	- Geolocation routing lets you choose the resources that serve your traffic based on the geographic location of your users, meaning the location that DNS queries originate from. For example, you might want all queries from Europe to be routed to an Elastic Load Balancing (ELB) load balancer in the Frankfurt region.
-	- When you use geolocation routing, you can localize your content and present some or all of your website in the language of your users. You can also use geolocation routing to restrict the distribution of content to only the locations in which you have distribution rights. Another possible use is for balancing load across endpoints in a predictable, easy-to-manage way so that each user location is consistently routed to the same endpoint.
-- **Geoproximity routing policy** – Use when you want to route traffic based on the location of your resources and, optionally, shift traffic from resources in one location to resources in another location. You can use geoproximity routing to create records in a private hosted zone.
-	- [Geoproximity routing - Amazon Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy-geoproximity.html)
-	- Geoproximity routing lets Amazon Route 53 route traffic to your resources based on the geographic location of your users and your resources. It routes traffic to the closest resource that is available. You can also optionally choose to route more traffic or less traffic to a given resource by specifying a value, known as a _bias_. A bias expands or shrinks the size of the geographic region from which traffic is routed to a resource.
-	- To optionally change the size of the geographic region from which Route 53 routes traffic to a resource, specify the applicable value for the bias:
-		- To expand the size of the geographic region from which Route 53 routes traffic to a resource, specify a **positive integer from 1 to 99 for the bias. Route 53 shrinks the size of adjacent regions.**
-		- To shrink the size of the geographic region from which Route 53 routes traffic to a resource, specify a **negative bias of -1 to -99. Route 53 expands the size of adjacent regions.**
-- **Latency routing policy** – Use when you have resources in multiple AWS Regions and you want to route traffic to the Region that provides the best latency. You can use latency routing to create records in a private hosted zone.
-- **IP-based routing policy** – Use when you want to route traffic based on the location of your users, and have the IP addresses that the traffic originates from.
-- **Multivalue answer routing policy** – Use when you want Route 53 to respond to DNS queries with up to eight healthy records selected at random. You can use multivalue answer routing to create records in a private hosted zone.
-- **Weighted routing policy** – Use to route traffic to multiple resources in proportions that you specify. You can use weighted routing to create records in a private hosted zone.
-
-[Choosing a routing policy - Amazon Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html)
-
-### CNAME vs Alias Record
-
-A CNAME record maps DNS queries for the name of the current record, such as acme.example.com, to another domain (example.com or example.net) or subdomain (acme.example.com or zenith.example.org).
-
-CNAME records can be used to map one domain name to another. Although you should keep in mind that the DNS protocol does not allow you to create a CNAME record for the top node of a DNS namespace, also known as the zone apex. For example, if you register the DNS name example.com, the zone apex is example.com. You cannot create a CNAME record for example.com, but you can create CNAME records for www.example.com, newproduct.example.com, and so on.
-
-Alias records let you route traffic to selected AWS resources, such as Amazon CloudFront distributions and Amazon S3 buckets. They also let you route traffic from one record in a hosted zone to another record. 3rd party websites do not qualify for these as we have no control over those. 'Alias record' cannot be used to map one domain name to another.
-
-Unlike a CNAME record, you can create an alias record at the top node of a DNS namespace, also known as the _zone apex_. For example, if you register the DNS name example.com, the zone apex is example.com. You can't create a CNAME record for example.com, but you can create an alias record for example.com that routes traffic to www.example.com (as long as the record type for www.example.com is not of type CNAME).
-
-**Amazon Route 53 doesn't charge for alias queries to AWS resources but Route 53 does charge for CNAME queries.** Additionally, an alias record can only redirect queries to selected AWS resources such as Amazon S3 buckets, Amazon CloudFront distributions, and another record in the same Amazon Route 53 hosted zone; however a CNAME record can redirect DNS queries to any DNS record. So, you can create a CNAME record that redirects queries from app.covid19survey.com to app.covid19survey.net.
-
-[Choosing between alias and non-alias records - Amazon Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resource-record-sets-choosing-alias-non-alias.html)
-
-### Resolvers
-
-Amazon Route 53 effectively connects user requests to infrastructure running in AWS – such as Amazon EC2 instances – and can also be used to route users to infrastructure outside of AWS. By default, Amazon Route 53 Resolver automatically answers DNS queries for local VPC domain names for Amazon EC2 instances. You can integrate DNS resolution between Resolver and DNS resolvers on your on-premises network by configuring forwarding rules.
-
-To resolve any DNS queries for resources in the AWS VPC from the on-premises network, you can create an inbound endpoint on Amazon Route 53 Resolver and then DNS resolvers on the on-premises network can forward DNS queries to Amazon Route 53 Resolver via this endpoint.
-
-**Resolver Inbound Endpoint:**
-
-![Resolver Inbound Endpoint](../../../media/Screenshot%202025-10-24%20at%205.09.19%20PM.jpg)
-
- [What is Amazon Route 53 Resolver? - Amazon Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resolver.html)
-
-To resolve DNS queries for any resources in the on-premises network from the AWS VPC, you can create an outbound endpoint on Amazon Route 53 Resolver and then Amazon Route 53 Resolver can conditionally forward queries to resolvers on the on-premises network via this endpoint. To conditionally forward queries, you need to create Resolver rules that specify the domain names for the DNS queries that you want to forward (such as example.com) and the IP addresses of the DNS resolvers on the on-premises network that you want to forward the queries to.
-
-**Resolver Outbound Endpoint:**
-
-![Resolver Outbound Endpoint](../../../media/Screenshot%202025-10-24%20at%205.09.42%20PM.jpg)
-
- [What is Amazon Route 53 Resolver? - Amazon Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resolver.html)
-
-### Links
-
-- [Choosing a routing policy - Amazon Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html)
-- [Weighted routing - Amazon Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy-weighted.html)
-- [Values specific for weighted records - Amazon Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resource-record-sets-values-weighted.html)
-- [How to implement the perfect failover strategy using Amazon Route53 | by Simon Tabor | DAZN Engineering | Medium](https://medium.com/dazn-tech/how-to-implement-the-perfect-failover-strategy-using-amazon-route53-1cc4b19fa9c7)
-- [Choosing between alias and non-alias records - Amazon Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resource-record-sets-choosing-alias-non-alias.html)
+[Amazon Route53](cloud/aws/networking-content-delivery/amazon-route53.md)
 
 ## 5. Amazon API Gateway - Build, Deploy, and Manage APIs
 
@@ -103,6 +39,10 @@ You can enable **Amazon API caching in Amazon API Gateway** to cache your endpoi
 2. HTTP APIs - $1.05 vs REST APIs - $3.50
 3. Amazon API Gateway creates RESTful APIs that enable stateless client-server communication and Amazon API Gateway also creates WebSocket APIs that adhere to the WebSocket protocol, which enables stateful, full-duplex communication between client and server
 
+**Security**
+
+API Gateway supports resource policies, which are IAM-style JSON policies that you attach directly to your REST or HTTP APIs. These policies can use IpAddress and NotlpAddress conditions to enforce fine-grained network controls. By configuring a policy that explicitly denies all IPs except for the trusted internal IP ranges, the company can ensure that only requests originating from its internal network are allowed to invoke the API. This approach provides centralized, declarative access control without the need for additional infrastructure changes, and it aligns with AWS best practices for managing access to public APls that carry sensitive data.
+
 ## 6. AWS Direct Connect - Dedicated Network Connection to AWS
 
 A Direct Connect gateway is a global resource that allows VPCs in any AWS Region (except China) to connect to Direct Connect via virtual private gateways (VGWs). By connecting both Direct Connect links to the same DX gateway and associating the VGWs of all relevant VPCs, the company can enable transitive routing across Regions and between on-premises locations and VPCs — without setting up complex peering or custom VPN appliances.
@@ -110,6 +50,46 @@ A Direct Connect gateway is a global resource that allows VPCs in any AWS Region
 [What is AWS Direct Connect? - AWS Direct Connect](https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html)
 
 [Hybrid cloud architectures using AWS Direct Connect gateway \| Networking & Content Delivery](https://aws.amazon.com/blogs/networking-and-content-delivery/hybrid-cloud-architectures-using-aws-direct-connect-gateway/)
+
+### Virtual Interfaces (VIF)
+
+AWS Direct Connect provides three types of virtual interfaces: **public, private, and transit.**
+
+#### Public virtual interface
+
+To connect to AWS resources that are reachable by a public IP address such as an Amazon Simple Storage Service (Amazon S3) bucket or AWS public endpoints, use a public virtual interface. With a public virtual interface, you can:
+
+- Connect to all AWS public IP addresses globally.
+- Create public virtual interfaces in any Direct Connect location to receive Amazon’s global IP routes.
+- Access publicly routable Amazon services in any AWS Region (except the AWS China Region).
+
+#### Private virtual interface
+
+To connect to your resources hosted in an Amazon Virtual Private Cloud (Amazon VPC) using their private IP addresses, use a private virtual interface. With a private virtual interface, you can:
+
+- Connect VPC resources such as Amazon Elastic Compute Cloud (Amazon EC2) instances or load balancers on your private IP address or endpoint.
+- Connect a private virtual interface to a Direct Connect gateway. Then, associate the Direct Connect gateway with one or more virtual private gateways in any AWS Region (except the AWS China Region).
+- Connect to multiple Amazon VPCs in any AWS Region (except the AWS China Region), because a virtual private gateway is associated with a single VPC.
+
+**Note:** For a private virtual interface, AWS advertises the VPC CIDR only over the Border Gateway Protocol (BGP) neighbor. AWS can't advertise or suppress specific subnet blocks in the Amazon VPC for a private virtual interface.
+
+#### Transit virtual interface
+
+To connect to your resources hosted in an Amazon VPC (using their private IP addresses) through a transit gateway, use a transit virtual interface. With a transit virtual interface, you can:
+
+- Connect multiple Amazon VPCs in the same or different AWS account using Direct Connect.
+- Associate up to three transit gateways in any AWS Region when you use a transit virtual interface to connect to a Direct Connect gateway.
+- Attach Amazon VPCs in the same AWS Region to the transit gateway. Then, access multiple VPCs in different AWS accounts in the same AWS Region using a transit virtual interface.
+
+**Note:** For transit virtual interface, AWS advertises only routes that you specify in the allowed prefixes list on the Direct Connect gateway. For a list of all AWS Regions that offer Direct Connect support for AWS Transit Gateway, see [AWS Transit Gateway support](https://aws.amazon.com/directconnect/faqs/#AWS_Transit_Gateway_support).
+
+#### VIF (Virtual Interface)
+
+To access Amazon S3 from an on-premises data center using AWS Direct Connect, the correct approach is to configure a **Public Virtual Interface (Public VIF)**. A Public VIF allows your on-premises router to access public AWS services, such as Amazon S3 and DynamoDB, over the dedicated Direct Connect connection rather than the public internet. When you establish a Public VIF, AWS advertises a set of public IP prefixes corresponding to its services, including Amazon S3. This allows your data center to communicate with these services using public IPs routed privately over Direct Connect, delivering improved performance, lower latency, and enhanced security. Public VIFs are specifically designed for scenarios where you want to connect on-premises infrastructure to AWS public endpoints over private, high-bandwidth links.
+
+A **Private Virtual Interface (Private VIF)** is used to connect an on-premises network to VPC resources, such as EC2 instances or RDS databases, over private IP space. However, Amazon S3 is a public AWS service, and Private VIFs cannot natively route traffic to public S3 endpoints. While S3 access via interface VPC endpoints is possible from within the VPC, it does not extend to on-premises access over Private VIF. Therefore, Private VIF is not suitable for directly accessing S3 from on-prem.
+
+While **Transit Gateway with Direct Connect Gateway** is a valid solution for routing on-premises traffic to multiple VPCs over a private Direct Connect connection, it does not enable direct private IP access to Amazon S3, because S3 is a public AWS service with public IP addresses. Even if you configure interface VPC endpoints (AWS PrivateLink) to S3 in a connected VPC, the traffic remains local to that VPC and is not extended to the on-premises network via Transit Gateway. To access S3 from on-premises using Direct Connect, you must provision a Public Virtual Interface, which advertises AWS public service IP ranges to your data center.
 
 ## 7. Elastic Load Balancing (ELB) - High Scale Load Balancing
 
@@ -165,11 +145,13 @@ Data transfer between Availability Zones (AZs) in the same AWS Region costs $0.0
 
 Improve global application availability and performance
 
-AWS Global Accelerator is a service that improves the availability and performance of your applications with local or global users. It provides static IP addresses that act as a fixed entry point to your application endpoints in a single or multiple AWS Regions, such as your Application Load Balancers, Network Load Balancers, or Amazon EC2 instances. AWS Global Accelerator uses the AWS global network to optimize the path from your users to your applications, improving the performance of your traffic by as much as 60%.
+AWS Global Accelerator is a service that improves the availability and performance of your applications with local or global users. It provides static IP addresses that act as a fixed entry point to your application endpoints in a single or multiple AWS Regions, such as your **Application Load Balancers, Network Load Balancers, or Amazon EC2 instances**. AWS Global Accelerator uses the AWS global network to optimize the path from your users to your applications, improving the performance of your traffic by as much as 60%.
 
-AWS Global Accelerator improves performance for a wide range of applications over TCP or UDP by proxying packets at the edge to applications running in one or more AWS Regions. AWS Global Accelerator is a good fit for non-HTTP use cases, such as gaming (UDP), loT (MQTT), or Voice over IP, as well as for HTTP use cases that specifically require static IP addresses or deterministic, fast regional failover.
+AWS Global Accelerator utilizes the Amazon global network, allowing you to improve the performance of your applications by **lowering first-byte latency** (the round trip time for a packet to go from a client to your endpoint and back again) and **jitter** (the variation of latency), and **increasing throughput** (the amount of time it takes to transfer data) as compared to the public internet.
 
-AWS Global Accelerator is a service that improves the availability and performance of your applications with local or global users. It provides static IP addresses that act as a fixed entry point to your application endpoints in a single or multiple AWS Regions, such as your Application Load Balancers, Network Load Balancers or Amazon EC2 instances. AWS Global Accelerator will not help in accelerating the file transfer speeds into S3 for the given use-case.
+AWS Global Accelerator improves performance for a wide range of applications over TCP or UDP by proxying packets at the edge to applications running in one or more AWS Regions. **AWS Global Accelerator is a good fit for non-HTTP use cases, such as gaming (UDP), loT (MQTT), or Voice over IP, as well as for HTTP use cases that specifically require static IP addresses or deterministic, fast regional failover.**
+
+AWS Global Accelerator will not help in accelerating the file transfer speeds into S3 for the given use-case. AWS Global Accelerator **does not support S3 buckets as direct endpoints.** It’s designed for improving performance for global applications deployed on EC2, ALB, or NLB, not for S3 static websites. There’s no direct integration between Global Accelerator and S3 unless the S3 bucket is fronted by another service like CloudFront or ALB.
 
 AWS Global Accelerator is a networking service that sends your user’s traffic through Amazon Web Service’s global network infrastructure, improving your internet user performance by up to 60%. When the internet is congested, Global Accelerator’s automatic routing optimizations will help keep your packet loss, jitter, and latency consistently low.
 
@@ -179,6 +161,12 @@ Simplified and resilient traffic routing for multi-Region applications:
 
 ![AWS Global Accelerator](../../../media/Screenshot%202025-10-24%20at%204.55.26%20PM.jpg)
 
+AWS Global Accelerator uses endpoint weights to determine the proportion of traffic that is directed to endpoints in an endpoint group, and traffic dials to control the percentage of traffic that is directed to an endpoint group (an AWS region where your application is deployed).
+
+While relying on the DNS service is a great option for blue/green deployments, it may not fit use-cases that require a fast and controlled transition of the traffic. Some client devices and internet resolvers cache DNS answers for long periods; this DNS feature improves the efficiency of the DNS service as it reduces the DNS traffic across the Internet, and serves as a resiliency technique by preventing authoritative name-server overloads. The downside of this in blue/green deployments is that you don't know how long it will take before all of your users receive updated IP addresses when you update a record, change your routing preference or when there is an application failure.
+
+With AWS Global Accelerator, you can shift traffic gradually or all at once between the blue and the green environment and vice-versa without being subject to DNS caching on client devices and internet resolvers, traffic dials and endpoint weights changes are effective within seconds.
+
 ### AWS Global Accelerator vs Amazon CloudFront
 
 AWS Global Accelerator and Amazon CloudFront are separate services that use the AWS global network and its edge locations around the world. Amazon CloudFront improves performance for both cacheable content (such as images and videos) and dynamic content (such as API acceleration and dynamic site delivery). AWS Global Accelerator improves performance for a wide range of applications over TCP or UDP by proxying packets at the edge to applications running in one or more AWS Regions.
@@ -186,6 +174,14 @@ AWS Global Accelerator and Amazon CloudFront are separate services that use the 
 AWS Global Accelerator is a good fit for non-HTTP use cases, such as gaming (UDP), IoT (MQTT), or Voice over IP, as well as for HTTP use cases that specifically require static IP addresses or deterministic, fast regional failover. Both services integrate with AWS Shield for DDoS protection.
 
 [Network Acceleration Service - AWS Global Accelerator - AWS](https://aws.amazon.com/global-accelerator/)
+
+## Elastic Fabric Adapter (EFA)
+
+Elastic Fabric Adapter (EFA) is a network interface for Amazon EC2 instances that enables customers to run applications requiring high levels of inter-node communications at scale on AWS. Its custom-built operating system (OS) bypass hardware interface enhances the performance of inter-instance communications, which is critical to scaling these applications. With EFA, High Performance Computing (HPC) applications using the Message Passing Interface (MPI) and Machine Learning (ML) applications using NVIDIA Collective Communications Library (NCCL) can scale to thousands of CPUs or GPUs. As a result, you get the application performance of on-premises HPC clusters with the on-demand elasticity and flexibility of the AWS cloud.
+
+EFA is available as an optional EC2 networking feature that you can enable on any supported EC2 instance at no additional cost. Plus, it works with the most commonly used interfaces, APIs, and libraries for inter-node communications, so you can migrate your HPC applications to AWS with little or no modifications.
+
+[Elastic Fabric Adapter — Amazon Web Services](https://aws.amazon.com/hpc/efa/)
 
 ## Links
 

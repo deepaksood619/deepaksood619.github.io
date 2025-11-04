@@ -55,6 +55,12 @@ The number, size, and type of instance store volumes are determined by the insta
 
 [Instance store volume limits for EC2 instances - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-store-volumes.html)
 
+- You can specify instance store volumes for an instance only when you launch it. You can't detach an instance store volume from one instance and attach it to a different instance. The data in an instance store persists only during the lifetime of its associated instance. If an instance reboots (intentionally or unintentionally), data in the instance store persists.
+- If you create an AMI from an instance, the data on its instance store volumes isn't preserved and isn't present on the instance store volumes of the instances that you launch from the AMI.
+- When you stop, hibernate, or terminate an instance, every block of storage in the instance store is reset.
+- You can specify instance store volumes for an instance only when you launch it and not during the restart
+- An instance store provides temporary block-level storage for your instance. This storage is located on disks that are physically attached to the host computer.
+
 ## AWS Storage Gateway
 
 ![Storage Gateway Architecture](../../../media/Pasted%20image%2020250912004236.png)
@@ -175,6 +181,10 @@ Amazon FSx for Windows is a perfect distributed file system, with replication ca
 FSx for Lustre makes it easy and cost-effective to launch and run the popular, high-performance Lustre file system. You use Lustre for workloads where speed matters, such as machine learning, high performance computing (HPC), video processing, and financial modeling.
 
 The open-source Lustre file system is designed for applications that require fast storage—where you want your storage to keep up with your compute. Lustre was built to solve the problem of quickly and cheaply processing the world's ever-growing datasets. It's a widely used file system designed for the fastest computers in the world. It provides sub-millisecond latencies, up to hundreds of GBps of throughput, and up to millions of IOPS.
+
+FSx for Lustre integrates with Amazon S3, making it easy to process data sets with the Lustre file system. When linked to an S3 bucket, an FS for Lustre file system transparently presents S3 objects as files and allows you to write changed data back to S3.
+
+FSx for Lustre provides the ability to both process the **'hot data' in a parallel** and distributed fashion as well as easily store the **'cold data' on Amazon S3.**
 
 [What is Amazon FSx for Lustre? - FSx for Lustre](https://docs.aws.amazon.com/fsx/latest/LustreGuide/what-is.html)
 

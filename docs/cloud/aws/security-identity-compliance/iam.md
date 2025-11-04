@@ -91,9 +91,9 @@ Grant granular permissions on IAM principals (users and roles) and control the m
 
 - As Permission Policies and Permission Boundaries
 
-### Permission Boundaries
+### IAM Permission Boundaries
 
-AWS supports permissions boundaries for IAM entities (users or roles). A permissions boundary is an advanced feature for using a managed policy to set the maximum permissions that an identity-based policy can grant to an IAM entity. An entity's permissions boundary allows it to perform only the actions that are allowed by both its identity-based policies and its permissions boundaries. Here we have to use an IAM permission boundary. They can only be applied to roles or users, not IAM groups.
+AWS supports permissions boundaries for IAM entities (**users or roles**). A permissions boundary is an advanced feature for using a managed policy to set the maximum permissions that an identity-based policy can grant to an IAM entity. An entity's permissions boundary allows it to perform only the actions that are allowed by both its identity-based policies and its permissions boundaries. Here we have to use an IAM permission boundary. **They can only be applied to roles or users, not IAM groups.**
 
 Scale and delegate permission management to developers safely. Control the maximum permissions employees can grant
 
@@ -372,15 +372,23 @@ With AWS Organizations, you can consolidate multiple AWS accounts into an organi
 
 [Best Practices for AWS Organizations](https://www.densify.com/finops/aws-organizations-best-practices/)
 
+[AWS services that you can use with AWS Organizations - AWS Organizations](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_integrate_services_list.html)
+
 ## AWS Control Tower
 
 Set up and govern a secure, multi-account AWS environment
 
 Use AWS Control Tower to set up and operate your multi-account AWS environment with prescriptive controls designed to accelerate your cloud journey.  AWS Control Tower orchestrates multiple AWS services on your behalf while maintaining the security and compliance needs of your new or existing organization.
 
-AWS Control Tower provides the easiest way to set up and govern a secure, multi-account AWS environment by establishing a landing zone that follows AWS best practices. It automates the setup of a multi-account structure, centralizes logs, and uses a system of pre-packaged preventive and detective controls (guardrails) to enforce security, compliance, and operational policies. This enables organizations to maintain governance and prevent accounts from deviating from desired standards as they scale their cloud operations.
+AWS Control Tower provides the easiest way to set up and govern a secure, multi-account AWS environment by establishing a landing zone that follows AWS best practices. It automates the setup of a multi-account structure, centralizes logs, and uses a system of **pre-packaged preventive and detective controls (guardrails) to enforce security, compliance, and operational policies.** This enables organizations to maintain governance and prevent accounts from deviating from desired standards as they scale their cloud operations.
 
 [AWS Control Tower](https://aws.amazon.com/controltower/)
+
+[AWS Control Tower and AWS Organizations - AWS Organizations](https://docs.aws.amazon.com/organizations/latest/userguide/services-that-can-integrate-CTower.html)
+
+**Question -** An organization has rolled out a multi-account architecture using AWS Control Tower to isolate development environments. Each developer has their own dedicated AWS account to provision and test workloads. However, the company is concerned about unexpected spikes in resource usage and AWS spending from individual developer accounts. The leadership team wants to implement a cost control mechanism that can proactively enforce budget limits, ensure automatic responses to overspending, and require minimal ongoing administrative effort.
+
+**Answer -** Use AWS Budgets to define spending thresholds for each developer’s account. Configure budget alerts to notify developers when actual or forecasted usage exceeds the set limit. Attach Budgets actions to automatically apply a restrictive `DenyAll` IAM policy to the developer’s primary IAM role when the budget threshold is crossed.
 
 ## Others
 

@@ -88,12 +88,6 @@ Build a Hybrid Cloud without Custom Hardware
 
 ## [AWS Elastic Kubernetes Service (EKS)](amazon-eks)
 
-## EC2 > Networking > ENI
-
-An elastic network interface (referred to as a*network interface*in this documentation) is a logical networking component in a VPC that represents a virtual network card.
-
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-eni.html
-
 ## Others
 
 - VirtualBox

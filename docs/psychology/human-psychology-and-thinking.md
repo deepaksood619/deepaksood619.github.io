@@ -206,3 +206,5 @@ In essence, a "non-regrettable minute" is a moment where the learner makes a sma
 - [Level 1 to 100 Life Hacks That Put You Ahead of 99% of People](https://youtu.be/rFNJ1gvTaKs)
 - [3 Hours of Political Ideology to Fall Asleep To](https://youtu.be/9o8t210_yxw)
 - [Psychology of People Who Don't Post their Photos on Social Media - YouTube](https://www.youtube.com/watch?v=LGx_cmEH8Lw)
+- [How To SURVIVE Corporate? ft. Corporate PAGLUs - YouTube](https://www.youtube.com/watch?v=RAHXayh57W4)
+- [The Art of Reading Minds \| Oz Pearlman \| TED - YouTube](https://www.youtube.com/watch?v=h3M00JI8Iwo)

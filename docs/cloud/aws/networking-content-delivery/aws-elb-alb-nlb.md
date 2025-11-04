@@ -118,6 +118,10 @@ The status code of the response from the target. This value is recorded only if 
 
 https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-access-logs.html
 
+## ALB Health Checks
+
+If the Auto Scaling group (ASG) is using EC2 as the health check type and the Application Load Balancer (ALB) is using its in-built health check, there may be a situation where the ALB health check fails because the health check pings fail to receive a response from the instance. At the same time, ASG health check can come back as successful because it is based on EC2 based health check. Therefore, in this scenario, the ALB will remove the instance from its inventory, however, the Auto Scaling Group will fail to provide the replacement instance. This can lead to the scaling issues mentioned in the problem statement.
+
 ## Links
 
 [Intermittent HTTP 502 error with Amazon (AWS) load balancher and Apache - Server Fault](https://serverfault.com/questions/1031647/intermittent-http-502-error-with-amazon-aws-load-balancher-and-apache)
