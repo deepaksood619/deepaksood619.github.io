@@ -172,6 +172,11 @@
 	- [GitHub - AI4Finance-Foundation/FinGPT: FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.](https://github.com/AI4Finance-Foundation/FinGPT)
 	- [GitHub - AI4Finance-Foundation/FinRobot: FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀](https://github.com/AI4Finance-Foundation/FinRobot)
 
+## DeepFakes
+
+- [Deep Live Cam \| Free online Real-time AI Face Swap & Deepfake with One Image](https://deeplivecam.org/)
+- [Magicam, The Ultimate Real-Time Face Swap Solution](https://magicam.ai/)
+
 ## Links
 
 - [code-generators-coding-generators](ai/llm/code-generators-coding-generators.md)

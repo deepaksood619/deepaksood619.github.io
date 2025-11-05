@@ -28,5 +28,5 @@ There are two layers in Pulsar architecture: the serving layer and the persisten
 
 - [BullMQ - libraries](frontend/others/nodejs/libraries.md)
 - [Redis Streams](databases-nosql/redis/redis-streams-pubsub.md)
-- [AWS SQS](cloud/aws/amazon-sqs.md)
+- [AWS SQS](cloud/aws/analytics/amazon-sqs.md)
 - [Publish Subscribe Pattern](networking/mqtt/publish-subscribe-pattern.md)

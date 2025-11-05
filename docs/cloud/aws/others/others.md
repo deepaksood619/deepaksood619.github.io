@@ -24,7 +24,7 @@ The AWS Cloud Adoption Framework (AWS CAF) leverages AWS experience and best pra
 - **Launch -** The Launch phase of the AWS Cloud Adoption Framework (AWS CAF) focuses on delivering pilot initiatives in production and on demonstrating incremental business value.
 - **Scale -** The Scale phase of the AWS Cloud Adoption Framework (AWS CAF) focuses on expanding production pilots and business value to desired scale and ensuring that the business benefits associated with your cloud investments are realized and sustained.
 
-![AWS CAF perspectives and foundational capabilities](../../media/Pasted%20image%2020250915000447.png)
+![AWS CAF perspectives and foundational capabilities](../../../media/Pasted%20image%2020250915000447.png)
 
 [AWS Cloud Adoption Framework](https://aws.amazon.com/cloud-adoption-framework/)
 

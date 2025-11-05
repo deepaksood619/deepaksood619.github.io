@@ -463,6 +463,16 @@ MAX models (ARMAX and SARIMAX)
 
 Business case - A look into the Automobile Industry
 
+## Prophet
+
+The Prophet model is an open-source tool developed by Facebook for time series forecasting that uses a decomposable additive model. It works best with time series data that has strong seasonal patterns and several seasons of historical data. The model decomposes the time series into trend, seasonality, and holiday components to make predictions and is robust to missing data and outliers.
+
+- [ELI5: Prophet - YouTube](https://www.youtube.com/watch?v=eJrbKU09h-0)
+- [Prophet \| Forecasting at scale.](https://facebook.github.io/prophet/)
+- [Time Series Analysis using Facebook Prophet - GeeksforGeeks](https://www.geeksforgeeks.org/data-science/time-series-analysis-using-facebook-prophet/)
+- [GitHub - facebook/prophet: Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.](https://github.com/facebook/prophet)
+- [facebook-prophet-in-2023-and-beyond](https://medium.com/@cuongduong_35162/facebook-prophet-in-2023-and-beyond-c5086151c138)
+
 ## Links
 
 [ETC3550/ETC5550 Applied forecasting - ETC3550/5550 Applied forecasting](https://af.numbat.space/)

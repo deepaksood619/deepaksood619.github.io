@@ -1,18 +1,12 @@
 # Architecting on AWS
 
-12th August to 14th August 2020
-
-http://online.vitalsource.com
-
-https://infrastructure.aws
-
-https://calculator.aws
-
-http://checkip.amazonaws.com
-
-https://www.wellarchitectedlabs.com
-
-https://www.linkedin.com/in/puneet-sharma-6b202910
+- 12th August to 14th August 2020
+- http://online.vitalsource.com
+- https://infrastructure.aws
+- https://calculator.aws
+- http://checkip.amazonaws.com
+- https://www.wellarchitectedlabs.com
+- https://www.linkedin.com/in/puneet-sharma-6b202910
 
 ## Course description
 

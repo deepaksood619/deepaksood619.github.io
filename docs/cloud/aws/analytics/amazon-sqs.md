@@ -304,10 +304,10 @@ while True:
 
 https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sqs.html
 
-![image](../../media/Cloud-AWS-AWS-SQS-image1.jpg)
+![image](../../../media/Cloud-AWS-AWS-SQS-image1.jpg)
 
 [**http://pragmaticnotes.com/2017/12/19/lifecycle-of-a-message-in-amazon-sqs-a-detailed-coverage/**](http://pragmaticnotes.com/2017/12/19/lifecycle-of-a-message-in-amazon-sqs-a-detailed-coverage/)
 
 https://blog.contactsunny.com/tech/emulating-apache-kafka-with-amazon-sns-and-sqs
 
-![image](../../media/Cloud-AWS-AWS-SQS-image2.jpg)
+![image](../../../media/Cloud-AWS-AWS-SQS-image2.jpg)

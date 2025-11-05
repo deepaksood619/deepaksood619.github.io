@@ -82,7 +82,7 @@ Since database logs are updated in every transaction, the experience is transpar
 
 ### AWS DMS (Data Migration Service)
 
-[aws-database-migration-service-dms](cloud/aws/aws-database-migration-service-dms.md)
+[aws-database-migration-service-dms](cloud/aws/compute/aws-database-migration-service-dms.md)
 
 https://en.wikipedia.org/wiki/Change_data_capture
 

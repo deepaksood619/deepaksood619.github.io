@@ -3,6 +3,10 @@
 - [Amazon Athena](cloud/aws/analytics/amazon-athena.md) - Query Data in S3 using SQL
 - [Amazon Kinesis](cloud/aws/analytics/amazon-kinesis.md)
 - [Amazon DevOps Guru](cloud/aws/analytics/amazon-devops-guru.md)
+- [aws-sns](cloud/aws/analytics/aws-sns.md)
+- [amazon-opensearch](cloud/aws/analytics/amazon-opensearch.md)
+- [amazon-sqs](cloud/aws/analytics/amazon-sqs.md)
+- [differences-comparisons](cloud/aws/analytics/differences-comparisons.md)
 
 ## Amazon EMR
 

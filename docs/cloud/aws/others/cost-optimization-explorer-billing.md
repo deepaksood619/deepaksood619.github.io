@@ -120,7 +120,7 @@ Compute Optimizer generates recommendations for the following resources:
 
 Provide access to leftover capacity at a discount of up to 90% off the On-Demand price. However, they aren't guaranteed to be available and are not ideal for mission-critical workloads because AWS can reclaim them with just two minutes notice.
 
-![savings and spot usage](../../media/Screenshot%202024-08-30%20at%2011.31.01%20PM.jpg)
+![savings and spot usage](media/Screenshot%202024-08-30%20at%2011.31.01%20PM.jpg)
 
 [EC2 Spot Instances vs. AWS Savings Plans: What are the Potential Savings?](https://www.missioncloud.com/blog/ec2-spot-instances-vs-aws-savings-plans-what-are-the-potential-savings)
 
@@ -208,9 +208,9 @@ If running a instance for less than 12-15 hours then on-demand can be cheaper th
 
 ## Wrong Costs
 
-![AWS Wrong Costs](../../media/Screenshot%202024-06-24%20at%208.03.33%20PM.jpg)
+![AWS Wrong Costs](media/Screenshot%202024-06-24%20at%208.03.33%20PM.jpg)
 
-![AWS Wrong Data Transfer Costs](../../media/Screenshot%202024-06-22%20at%2010.52.14%20PM.jpg)
+![AWS Wrong Data Transfer Costs](media/Screenshot%202024-06-22%20at%2010.52.14%20PM.jpg)
 
 ## AWS Support
 

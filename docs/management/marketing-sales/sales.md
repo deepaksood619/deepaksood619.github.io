@@ -41,6 +41,7 @@ In the top-down model, you engage the CIO, CEO, or CTO directly and try to convi
 - [Sales Navigator Alternatives](https://www.gartner.com/reviews/market/revenue-data-solutions/vendor/linkedin/product/sales-navigator/alternatives)
 - [Contact Finder Tool \| EasyLeadz for Business Profiles 100% Accurate](https://www.easyleadz.com/)
 - [Lusha \| AI Sales Intelligence Platform to Win Your Next Deal](https://www.lusha.com/)
+- [Streamz AI \| Sales Readiness and Enablement Platform](https://www.streamz.ai/)
 
 ## Links
 

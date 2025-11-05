@@ -4,10 +4,10 @@
 - [AWS Services](aws-services)
 - **[AWS Services List](cloud/aws/aws-services-list.md)**
 - [CLI Commands](cli-commands)
-- [AWS Cost Optimization / Explorer](cloud/aws/cost-optimization-explorer-billing.md)
-- [AWS Glue](aws-glue)
-- [AWS SQS](cloud/aws/amazon-sqs.md)
-- [AWS SNS](cloud/aws/aws-sns.md)
+- [AWS Cost Optimization / Explorer](cloud/aws/others/cost-optimization-explorer-billing.md)
+- [AWS Glue](cloud/aws/analytics/aws-glue.md)
+- [AWS SQS](cloud/aws/analytics/amazon-sqs.md)
+- [AWS SNS](cloud/aws/analytics/aws-sns.md)
 - [Security, Identity and Compliance](security-identity-compliance/intro)
     - [IAM](security-identity-compliance/iam)
 	    - [iam-access-policies](cloud/aws/security-identity-compliance/iam-access-policies.md)
@@ -49,14 +49,14 @@
     - [Amazon Aurora](databases-sql/aws-aurora/readme.md)
     - [Amazon DynamoDB](databases-nosql/aws-dynamodb/readme.md)
     - [Amazon Redshift](databases-sql/aws-redshift/readme.md)
-    - [Amazon Database Migration Service DMS](aws-database-migration-service-dms)
-- [AWS Backup](cloud/aws/aws-backup.md)
+    - [Amazon Database Migration Service DMS](cloud/aws/compute/aws-database-migration-service-dms.md)
+- [AWS Backup](cloud/aws/storage/aws-backup.md)
 - [AWS AI Services](cloud/aws/ai/readme.md)
 	- [Amazon Sagemaker](cloud/aws/ai/sagemaker.md)
 	- [Amazon Bedrock](cloud/aws/ai/bedrock.md)
 	- [AWS Rekognition](cloud/aws/ai/amazon-rekognition.md)
 	- [Amazon Transcribe](cloud/aws/ai/amazon-transcribe.md)
-	- [Amazon Pinpoint](amazon-pinpoint)
+	- [Amazon Pinpoint](cloud/aws/others/amazon-pinpoint.md)
 	- [Amazon Q (Preview)](https://aws.amazon.com/q/)
 	    - Your generative AI-powered assistant designed for work that can be tailored to your business
 	    - Q Business
@@ -72,9 +72,9 @@
 			- Amazon Q Developer $25/month per user
 			- https://aws.amazon.com/q/developer/
 - [Course - Architecting on AWS](cloud/aws/course-architecting-on-aws.md)
-- [AWS Competency Program](cloud/aws/aws-competency-program.md)
-- [AWS SDP](cloud/aws/aws-sdp.md)
-- [Others](cloud/aws/others.md)
+- [AWS Competency Program](cloud/aws/others/aws-competency-program.md)
+- [AWS SDP](cloud/aws/others/aws-sdp.md)
+- [Others](cloud/aws/others/others.md)
 - [amazon-interview-prep-guide](cloud/aws/amazon-interview-prep-guide.md)
 
 ## Products

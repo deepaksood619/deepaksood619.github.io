@@ -176,6 +176,10 @@ Amazon FSx for Windows File Server provides fully managed, highly reliable file 
 
 Amazon FSx for Windows is a perfect distributed file system, with replication capability, and can be mounted on Windows.
 
+Amazon FS for Windows File Server provides fully managed, highly reliable, and scalable file storage that is accessible over the industry-standard Server Message Block (SMB) protocol. It is built on Windows Server, delivering a wide range of administrative features such as user quotas, end-user file restore, and Microsoft Active Directory (AD) integration. **It offers single-AZ and multi-AZ deployment options, fully managed backups, and encryption of data at rest and in transit.** You can optimize cost and performance for your workload needs with SSD and HDD storage options; and you can scale storage and change the throughput performance of your file system at any time.
+
+With Amazon FS, you get highly available and durable file storage starting from $0.013 per GB-month. **Data deduplication** enables you to optimize costs even further by removing redundant data. You can increase your file system storage and scale throughput capacity at any time, making it easy to respond to changing business needs. There are no upfront costs or licensing fees.
+
 ### Amazon FSx for Lustre
 
 FSx for Lustre makes it easy and cost-effective to launch and run the popular, high-performance Lustre file system. You use Lustre for workloads where speed matters, such as machine learning, high performance computing (HPC), video processing, and financial modeling.
@@ -186,17 +190,16 @@ FSx for Lustre integrates with Amazon S3, making it easy to process data sets wi
 
 FSx for Lustre provides the ability to both process the **'hot data' in a parallel** and distributed fashion as well as easily store the **'cold data' on Amazon S3.**
 
-[What is Amazon FSx for Lustre? - FSx for Lustre](https://docs.aws.amazon.com/fsx/latest/LustreGuide/what-is.html)
+POSIX Compliant File System
 
-[Amazon FSx for Lustre](https://aws.amazon.com/fsx/lustre/)
+While Amazon FSx for Lustre integrated with Amazon S3 is a powerful solution for many high-throughput use cases, it involves an additional integration step where the Lustre file system imports metadata from the linked S3 bucket. The actual data transfer from S3 to Lustre occurs on demand, meaning the first access to each file may experience slightly higher latency compared to data that is preloaded or natively present on the file system. This approach is excellent when working with existing S3-based data lakes.
 
-[Optimizing MMAP workloads on Amazon FSx for Lustre file systems | AWS Storage Blog](https://aws.amazon.com/blogs/storage/optimizing-mmap-workloads-on-amazon-fsx-for-lustre-file-systems/)
-
-[Lustre](https://www.lustre.org/)
-
-[Documentation | Lustre](https://www.lustre.org/documentation/)
-
-[Lustre 101](https://lustre.ornl.gov/lustre101-courses/)
+- [What is Amazon FSx for Lustre? - FSx for Lustre](https://docs.aws.amazon.com/fsx/latest/LustreGuide/what-is.html)
+- [Amazon FSx for Lustre](https://aws.amazon.com/fsx/lustre/)
+- [Optimizing MMAP workloads on Amazon FSx for Lustre file systems | AWS Storage Blog](https://aws.amazon.com/blogs/storage/optimizing-mmap-workloads-on-amazon-fsx-for-lustre-file-systems/)
+- [Lustre](https://www.lustre.org/)
+- [Documentation | Lustre](https://www.lustre.org/documentation/)
+- [Lustre 101](https://lustre.ornl.gov/lustre101-courses/)
 
 ### Amazon FSx for Lustre vs Amazon FSx for Windows File Server
 
@@ -205,6 +208,8 @@ FSx for Lustre provides the ability to both process the **'hot data' in a parall
 ### Amazon FSx for ONTAP
 
 Amazon FSx for NetApp ONTAP is a storage service that allows customers to launch and run fully managed ONTAP file systems in the cloud. ONTAP is NetApp’s file system technology that provides a widely adopted set of data access and data management capabilities.
+
+While FSx for NetApp ONTAP is a powerful, POSIX-compatible shared file system, it is better suited for enterprise applications, file sharing, and backups rather than HPC workloads. It supports tiering to S3 but does not offer the extremely high throughput or parallel access patterns needed for HPC.
 
 [Fully Managed Cloud File System – FSx for NetApp ONTAP – Amazon Web Services](https://aws.amazon.com/fsx/netapp-ontap/)
 
@@ -237,9 +242,9 @@ Amazon FSx for OpenZFS is a fully managed file storage service that lets you lau
 
 ## Links
 
-- [aws-database-migration-service-dms](cloud/aws/aws-database-migration-service-dms.md)
-- [AWS Data Sync - aws-database-migration-service-dms](cloud/aws/aws-database-migration-service-dms.md)
-- [AWS Transfer Family - aws-database-migration-service-dms](cloud/aws/aws-database-migration-service-dms.md)
+- [aws-database-migration-service-dms](cloud/aws/compute/aws-database-migration-service-dms.md)
+- [AWS Data Sync - aws-database-migration-service-dms](cloud/aws/compute/aws-database-migration-service-dms.md)
+- [AWS Transfer Family - aws-database-migration-service-dms](cloud/aws/compute/aws-database-migration-service-dms.md)
 
 [Cloud Storage Options - Block Storage vs File Storage vs Object Storage Explained](https://www.freecodecamp.org/news/cloud-storage-options/)
 
