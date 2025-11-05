@@ -286,6 +286,8 @@ When you enable IAM Identity Center, IAM Identity Center creates a service-linke
 
 Service-linked roles that are created in each AWS account are named `AWSServiceRoleForSSO`. For more information, see [Using service-linked roles for IAM Identity Center](https://docs.aws.amazon.com/singlesignon/latest/userguide/using-service-linked-roles.html).
 
+- SCPs does not affect service-linked role.
+
 ## Job functions
 
 - [Administrator](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_job-functions.html#jf_administrator)

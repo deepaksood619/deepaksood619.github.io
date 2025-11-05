@@ -43,8 +43,9 @@
 	    - [Amazon S3 Tables](cloud/aws/storage/amazon-s3-tables.md)
 	- [Amazon Glacier](cloud/aws/storage/amazon-glacier.md)
     - [Amazon EBS](storage/amazon-ebs)
+	    - [Amazon EBS IOPS](cloud/aws/storage/amazon-ebs-iops.md)
     - [Amazon EFS](cloud/aws/storage/amazon-efs.md)
-    - [IOPS](cloud/aws/storage/iops.md)
+    - [Amazon FSx](cloud/aws/storage/amazon-fsx.md)
 - Databases
     - [Amazon Aurora](databases-sql/aws-aurora/readme.md)
     - [Amazon DynamoDB](databases-nosql/aws-dynamodb/readme.md)

@@ -1,4 +1,4 @@
-# IOPS
+# Amazon EBS IOPS
 
 [What You Need to Know About IOPS](https://cloudcasts.io/article/what-you-need-to-know-about-iops)
 

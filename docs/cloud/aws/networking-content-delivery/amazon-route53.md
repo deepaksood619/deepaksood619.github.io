@@ -43,9 +43,9 @@ DNS hostnames and DNS resolution are required settings for private hosted zones.
 
 A CNAME record maps DNS queries for the name of the current record, such as acme.example.com, to another domain (example.com or example.net) or subdomain (acme.example.com or zenith.example.org).
 
-CNAME records can be used to map one domain name to another. Although you should keep in mind that the DNS protocol does not allow you to create a CNAME record for the top node of a DNS namespace, also known as the zone apex. For example, if you register the DNS name example.com, the zone apex is example.com. You cannot create a CNAME record for example.com, but you can create CNAME records for www.example.com, newproduct.example.com, and so on.
+CNAME records can be used to map one domain name to another. Although you should keep in mind that the **DNS protocol does not allow you to create a CNAME record for the top node of a DNS namespace, also known as the zone apex.** For example, if you register the DNS name example.com, the zone apex is example.com. You cannot create a CNAME record for example.com, but you can create CNAME records for www.example.com, newproduct.example.com, and so on.
 
-Alias records let you route traffic to selected AWS resources, such as Amazon CloudFront distributions and Amazon S3 buckets. They also let you route traffic from one record in a hosted zone to another record. 3rd party websites do not qualify for these as we have no control over those. 'Alias record' cannot be used to map one domain name to another.
+Alias records let you route traffic to selected AWS resources, such as Amazon CloudFront distributions and Amazon S3 buckets. **They also let you route traffic from one record in a hosted zone to another record.** 3rd party websites do not qualify for these as we have no control over those. 'Alias record' cannot be used to map one domain name to another.
 
 Unlike a CNAME record, you can create an alias record at the top node of a DNS namespace, also known as the _zone apex_. For example, if you register the DNS name example.com, the zone apex is example.com. You can't create a CNAME record for example.com, but you can create an alias record for example.com that routes traffic to www.example.com (as long as the record type for www.example.com is not of type CNAME).
 

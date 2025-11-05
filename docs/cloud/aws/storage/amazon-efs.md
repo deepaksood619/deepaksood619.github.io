@@ -79,4 +79,5 @@ A file system's throughput mode determines the throughput available to your file
 
 ## Links
 
+- Amazon EFS is not supported on Windows instances.
 - [See which EC2 instances are connected to Amazon EFS | AWS re:Post](https://repost.aws/knowledge-center/list-instances-connected-to-efs)
