@@ -5,6 +5,7 @@
 - [Amazon DevOps Guru](cloud/aws/analytics/amazon-devops-guru.md)
 - [aws-sns](cloud/aws/analytics/aws-sns.md)
 - [amazon-opensearch](cloud/aws/analytics/amazon-opensearch.md)
+	- [centralized-logging-with-opensearch](cloud/aws/analytics/centralized-logging-with-opensearch.md)
 - [amazon-sqs](cloud/aws/analytics/amazon-sqs.md)
 - [differences-comparisons](cloud/aws/analytics/differences-comparisons.md)
 

@@ -53,6 +53,10 @@ AWS WAF uses WCUs to calculate and control the operating resources that are requ
 
 A WCU is not an AWS WAF resource. It only exists in the context of a protection pack (web ACL), rule, or rule group.
 
+AWS WAF manages capacity for rules, rule groups, and web ACLs.
+
+[Web ACL capacity units (WCUs) in AWS WAF - AWS WAF, AWS Firewall Manager, AWS Shield Advanced, and AWS Shield network security director](https://docs.aws.amazon.com/waf/latest/developerguide/aws-waf-capacity-units.html)
+
 ## Dashboards
 
 Dashboards available through new provide unified visibility into your security posture through these visualizations:

@@ -44,6 +44,7 @@ https://logz.io/blog/filebeat-vs-logstash
 
 ## References
 
+- [centralized-logging-with-opensearch](cloud/aws/analytics/centralized-logging-with-opensearch.md)
 - https://www.elastic.co/elk-stack
 - https://qbox.io/blog/elasticsearch-logstash-kibana-apache-logs
 - [Elasticsearch Course for Beginners - YouTube](https://www.youtube.com/watch?v=a4HBKEda_F8)

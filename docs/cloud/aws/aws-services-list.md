@@ -309,9 +309,13 @@ Total with Duplicates - 331 services
 26. **AWS Systems Manager** - Gain operational insights and take action
 27. **AWS Trusted Advisor** - Optimize performance and security
 28. **AWS Well-Architected Tool** - Review and improve your workloads
-29. [AWS Application Composer](https://aws.amazon.com/application-composer/) - Visually design and build modern applications quickly
-    1. [Using generative infrastructure as code with Application Composer | AWS Compute Blog](https://aws.amazon.com/blogs/compute/using-generative-infrastructure-as-code-with-application-composer/)
-    2. [Build Serverless Apps with Application Composer and CodeWhisperer | Amazon Web Services - YouTube](https://www.youtube.com/watch?v=XP7LudGsjy8)
+29. [AWS Application Composer](https://aws.amazon.com/application-composer/) renamed to [AWS Infrastructure Composer](https://aws.amazon.com/infrastructure-composer/) - Visually design and build modern applications quickly
+    - [Using generative infrastructure as code with Application Composer | AWS Compute Blog](https://aws.amazon.com/blogs/compute/using-generative-infrastructure-as-code-with-application-composer/)
+    - [Build Serverless Apps with Application Composer and CodeWhisperer | Amazon Web Services - YouTube](https://www.youtube.com/watch?v=XP7LudGsjy8)
+    - [AWS Application Composer is now AWS Infrastructure Composer - AWS](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-application-composer-infrastructure-composer/)
+    - [What is AWS Infrastructure Composer? - AWS Infrastructure Composer](https://docs.aws.amazon.com/infrastructure-composer/latest/dg/what-is-composer.html)
+    - AWS Infrastructure Composer allows you to visually compose modern applications on AWS. More specifically, you can use Infrastructure Composer to visualize, build, and deploy modern applications from all AWS services that are supported by AWS CloudFormation without needing to be an expert in AWS CloudFormation.
+    - As you compose your AWS CloudFormation infrastructure, through a delightful drag-and-drop interface, Infrastructure Composer creates your infrastructure as code (IaC) templates, all while following AWS best practices.
 
 ## 15. Media Services (11)
 

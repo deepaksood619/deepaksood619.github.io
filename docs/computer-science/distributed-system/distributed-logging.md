@@ -56,18 +56,14 @@ A "-" in a field indicates missing data.- 127.0.0.1is the IP address of the clie
 ## Tools
 
 1. ELK
+2. [centralized-logging-with-opensearch](cloud/aws/analytics/centralized-logging-with-opensearch.md)
 
 ## References
 
-https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
-
-https://github.com/magnhaug/blogposts/blob/master/distributed-logging
-
-https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era
-
-https://devops.stackexchange.com/questions/422/how-to-have-multiple-log-streams-in-docker
-
-[Logging at Zerodha - Zerodha Tech Blog](https://zerodha.tech/blog/logging-at-zerodha/)
-
-- Clickhouse
-- Metabase
+- https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
+- https://github.com/magnhaug/blogposts/blob/master/distributed-logging
+- https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era
+- https://devops.stackexchange.com/questions/422/how-to-have-multiple-log-streams-in-docker
+- [Logging at Zerodha - Zerodha Tech Blog](https://zerodha.tech/blog/logging-at-zerodha/)
+	- Clickhouse
+	- Metabase

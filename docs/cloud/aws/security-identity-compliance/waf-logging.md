@@ -49,3 +49,72 @@ You can add filtering to specify which web requests are kept in the logs and whi
 	- The `EXCLUDED_AS_COUNT` log filter overlaps with the `Count` action log filter. `EXCLUDED_AS_COUNT` filters both the current and legacy options for overriding a rule group rule action to Count.
 
 [Finding your protection pack (web ACL) records - AWS WAF, AWS Firewall Manager, AWS Shield Advanced, and AWS Shield network security director](https://docs.aws.amazon.com/waf/latest/developerguide/logging-management.html)
+
+### Analyze WAF Logs in Athena
+
+- [Analyze AWS WAF logs in Amazon Athena \| AWS re:Post](https://repost.aws/knowledge-center/aws-waf-logs-athena)
+- [Query AWS WAF logs - Amazon Athena](https://docs.aws.amazon.com/athena/latest/ug/waf-logs.html)
+	- [Create a table for AWS WAF S3 logs in Athena using partition projection - Amazon Athena](https://docs.aws.amazon.com/athena/latest/ug/create-waf-table-partition-projection.html)
+- [GitHub - aws-samples/waf-log-sample-athena-queries](https://github.com/aws-samples/waf-log-sample-athena-queries)
+
+## Opensearch Logging
+
+You can create a log ingestion into Amazon OpenSearch Service either by using the Centralized Logging with OpenSearch console or by deploying a standalone CloudFormation stack.
+
+- Deploy Centralized Logging with OpenSearch solution in the same Region as your Web ACLs, or you will not be able to create a AWS WAF pipeline. For example:
+    - If your Web ACL is associated with Global CloudFront, you must deploy the solution in us-east-1.
+    - If your Web ACL is associated with other resources in Regions like Ohio, your Centralized Logging with OpenSearch stack must also be deployed in that Region.
+- The AWS WAF logging bucket must be the same as the Centralized Logging with OpenSearch solution.
+- [AWS WAF Classic](https://docs.aws.amazon.com/waf/latest/developerguide/classic-waf-chapter.html) logs are not supported in Centralized Logging with OpenSearch. Learn more about [migrating rules from AWS WAF Classic to the new AWS WAF](https://aws.amazon.com/blogs/security/migrating-rules-from-aws-waf-classic-to-new-aws-waf/).
+- The Amazon OpenSearch Service index is rotated on a daily basis by default, and you can adjust the index in the Additional Settings.
+
+**Engines**
+- OpenSearch Engine
+- Light Engine
+
+[AWS WAF logs - Centralized Logging with OpenSearch](https://docs.aws.amazon.com/solutions/latest/centralized-logging-with-opensearch/aws-waf-logs.html)
+
+## Amazon Data Firehose delivery stream
+
+To send logs to Amazon Data Firehose, you send logs from your protection pack (web ACL) to an Amazon Data Firehose delivery stream which you configure in Firehose. After you enable logging, AWS WAF delivers logs to your storage destination through the HTTPS endpoint of Firehose.
+
+One AWS WAF log is equivalent to one Firehose record. If you typically receive 10,000 requests per second and you enable full logs, you should have a 10,000 records per second setting in Firehose. If you don't configure Firehose correctly, AWS WAF won't record all logs.
+
+[Sending protection pack (web ACL) traffic logs to an Amazon Data Firehose delivery stream - AWS WAF, AWS Firewall Manager, AWS Shield Advanced, and AWS Shield network security director](https://docs.aws.amazon.com/waf/latest/developerguide/logging-kinesis.html)
+
+### AWS WAF logging in parquet
+
+AWS WAF logs can be stored in Apache Parquet format, which is a columnar storage format optimized for analytical queries. This can significantly improve the performance and reduce the cost of analyzing your WAF logs.
+
+Here's how you can achieve this:
+
+- **Enable AWS WAF Logging to Kinesis Data Firehose:**
+    
+    - Configure your AWS WAF Web ACL to send its logs to an Amazon Kinesis Data Firehose delivery stream. This is done in the AWS WAF console under the "Logging and metrics" section of your Web ACL.
+    - When configuring the Kinesis Data Firehose, you will specify Amazon S3 as the destination.
+    
+- **Configure Kinesis Data Firehose for Parquet Conversion:**
+    
+    - Within the Kinesis Data Firehose delivery stream configuration, you can enable "Record format conversion."
+    - Choose "Apache Parquet" as the target format.
+    - You can also specify an AWS Glue table for the schema definition, which helps Firehose convert the incoming JSON logs into the structured Parquet format.
+    
+- **Store in Amazon S3:**
+    
+    - The Kinesis Data Firehose will then deliver the converted Parquet files to your designated Amazon S3 bucket.
+    
+- **Analyze with Amazon Athena:**
+    
+    - Once the logs are in Parquet format in S3, you can create an Amazon Athena table that points to the S3 location of your WAF logs.
+    - Athena can efficiently query these Parquet files, allowing you to perform fast and cost-effective analysis of your WAF traffic.
+
+#### Benefits of using Parquet for WAF logs:
+
+- **Improved Query Performance:** Columnar storage allows Athena to read only the necessary columns for your queries, significantly speeding up analysis.
+- **Reduced Storage Costs:** Parquet files are highly compressed, leading to lower storage costs in Amazon S3.
+- **Enhanced Analytics:** The structured nature of Parquet makes it easier to perform complex analytical queries and integrate with other data analysis tools.
+
+[Convert input data format in Amazon Data Firehose - Amazon Data Firehose](https://docs.aws.amazon.com/firehose/latest/dev/record-format-conversion.html)
+- Amazon Data Firehose can convert the format of your input data from JSON to [Apache Parquet](https://parquet.apache.org/) or [Apache ORC](https://orc.apache.org/) before storing the data in Amazon S3. Parquet and ORC are columnar data formats that save space and enable faster queries compared to row-oriented formats like JSON. If you want to convert an input format other than JSON, such as comma-separated values (CSV) or structured text, you can use AWS Lambda to transform it to JSON first.
+- You can convert the format of your data even if you aggregate your records before sending them to Amazon Data Firehose.
+- [Enabling serverless security analytics using AWS WAF full logs, Amazon Athena, and Amazon QuickSight \| AWS Security Blog](https://aws.amazon.com/blogs/security/enabling-serverless-security-analytics-using-aws-waf-full-logs/)
