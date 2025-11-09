@@ -46,7 +46,7 @@ It has the following characteristics:
 - Can receive and process millions of events per second
 - At least once delivery of an event
 
-[azure-event-hubs](cloud/others/azure/azure-event-hubs.md)
+[azure-event-hubs](cloud/azure/azure-event-hubs.md)
 
 ## Azure Service Bus
 

@@ -55,16 +55,6 @@ Amazon Neptune can quickly and easily process large sets of user-profiles and in
 
 [Create a Virtual Knowledge Graph with Amazon Neptune and an Amazon S3 data lake | AWS Database Blog](https://aws.amazon.com/blogs/database/create-a-virtual-knowledge-graph-with-amazon-neptune-and-an-amazon-s3-data-lake/)
 
-### AWS Database Migration Service (DMS)
-
-Migrate Databases with Minimal Downtime
-
-https://aws.amazon.com/dms
-
-https://aws.amazon.com/blogs/database/archiving-data-from-relational-databases-to-amazon-glacier-via-aws-dms
-
-https://aws.amazon.com/blogs/database/automating-aws-dms-migration-tasks
-
 ### AWS Managed Apache Cassandra Service
 
 Amazon Managed Apache Cassandra Service is a scalable, highly available, and managed Apache Cassandra--compatible database service. With Amazon Managed Cassandra Service, you can run your Cassandra workloads on AWS using the same Cassandra application code and developer tools that you use today. You don't have to provision, patch, or manage servers, and you don't have to install, maintain, or operate software. Amazon Managed Cassandra Service is serverless, so you pay for only the resources you use and the service automatically scales tables up and down in response to application traffic. You can build applications that serve thousands of requests per second with virtually unlimited throughput and storage.

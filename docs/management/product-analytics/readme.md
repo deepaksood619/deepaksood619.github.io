@@ -7,4 +7,4 @@
 - [Clustering](management/product-analytics/clustering.md)
 - [Purchase Analytics](management/product-analytics/purchase-analytics.md)
 - [Tools](management/product-analytics/tools.md)
-- [Firebase / Google Analytics](cloud/others/firebase/firebase-google-analytics.md)
+- [Firebase / Google Analytics](cloud/firebase/firebase-google-analytics.md)

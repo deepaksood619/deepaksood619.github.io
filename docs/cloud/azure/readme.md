@@ -1,15 +1,15 @@
 # Azure
 
-- [Azure Services](cloud/others/azure/services.md)
-- [Azure Commands](cloud/others/azure/commands.md)
-- [Azure IAM](cloud/others/azure/iam.md)
-- [Azure VMs](cloud/others/azure/vms.md)
-- [Microsoft BizTalk](cloud/others/azure/microsoft-biztalk.md)
-- [azure-sql-databases](cloud/others/azure/azure-sql-databases.md)
-- [messaging-services](cloud/others/azure/messaging-services.md)
-	- [azure-event-hubs](cloud/others/azure/azure-event-hubs.md)
+- [Azure Services](cloud/azure/services.md)
+- [Azure Commands](cloud/azure/commands.md)
+- [Azure IAM](cloud/azure/iam.md)
+- [Azure VMs](cloud/azure/vms.md)
+- [Microsoft BizTalk](cloud/azure/microsoft-biztalk.md)
+- [azure-sql-databases](cloud/azure/azure-sql-databases.md)
+- [messaging-services](cloud/azure/messaging-services.md)
+	- [azure-event-hubs](cloud/azure/azure-event-hubs.md)
 - [social-media-analytics-solution](ai/social-media-analytics-solution.md)
-- [others](cloud/others/azure/others.md)
+- [others](cloud/azure/others.md)
 
 ## Links
 

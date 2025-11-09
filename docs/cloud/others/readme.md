@@ -1,17 +1,7 @@
 # Other Clouds
 
-- [Google Cloud Platform (GCP)](cloud/others/gcp-google-cloud-platform.md)
-    - [Anthos](cloud/others/gcp-anthos.md)
-    - [Big Query / Big Query](data-warehouses/bigquery/readme.md)
-    - [GCP ML Services](cloud/others/gcp-ml-services.md)
-- [Azure](azure/readme.md)
 - [Linode](cloud/others/linode.md)
 - [Oracle](oracle)
-- [Firebase](firebase/readme.md)
-    - [Firebase Analytics](cloud/others/firebase/firebase-google-analytics.md)
-    - [Automatic Collection Events](firebase/automatic-collected-events)
-    - [Notifications](cloud/others/firebase/fcm-notifications.md)
-    - [Web Push Notifications](cloud/others/firebase/web-push-notifications.md)
 - [Openstack](openstack)
 - [VMware](cloud/others/vmware.md)
 - [SAP](cloud/others/sap.md)

@@ -104,6 +104,20 @@ def lambda_handler(event, context):
 	- [Lambda function memory increase. \| AWS re:Post](https://repost.aws/questions/QUvGzdNjQZQ9S3YDwvWVWpFw/lambda-function-memory-increase)
 	- [Configure Lambda function memory - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/configuration-memory.html)
 	- [Lambda quotas - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-limits.html)
+- Since AWS Lambda functions can scale extremely quickly, it's a good idea to deploy a Amazon CloudWatch Alarm that notifies your team when function metrics such as ConcurrentExecutions or Invocations exceeds the expected threshold
+- If you intend to reuse code in more than one AWS Lambda function, you should consider creating an **AWS Lambda Layer for the reusable code**
+	- You can configure your AWS Lambda function to pull in additional code and content in the form of layers. A layer is a ZIP archive that contains libraries, a custom runtime, or other dependencies.
+	- With layers, you can use libraries in your function without needing to include them in your deployment package. Layers let you keep your deployment package small, which makes development easier. A function can use up to 5 layers at a time.
+	- You can create layers, or use layers published by AWS and other AWS customers. Layers support resource-based policies for granting layer usage permissions to specific AWS accounts, AWS Organizations, or all accounts. The total unzipped size of the function and all layers can't exceed the unzipped deployment package size limit of 250 megabytes.
+- By default, AWS Lambda functions always operate from an AWS-owned VPC and hence have access to any public internet address or public AWS APls. Once an AWS Lambda function is VPC-enabled, it will need a route through a Network Address Translation gateway (NAT gateway) in a public subnet to access public resources.
+	- You should only enable your functions for VPC access when you need to interact with a private resource located in a private subnet. An Amazon RDS instance is a good example.
+	- AWS Lambda functions always operate from an AWS-owned VPC. By default, your function has the full ability to make network requests to any public internet address — this includes access to any of the public AWS APls. For example, your function can interact with AWS DynamoDB APIs to PutItem or Query for records. You should only enable your functions for VPC access when you need to interact with a private resource located in a private subnet. An Amazon RDS instance is a good example.
+	- Once your function is VPC-enabled, all network traffic from your function is subject to the routing rules of your VPC/Subnet. If your function needs to interact with a public resource, you will need a route through a NAT gateway in a public subnet.
+- AWS Lambda **allocates compute power in proportion to the memory** you allocate to your function. This means you can over-provision memory to run your functions faster and potentially reduce your costs. However, AWS recommends that you should not over provision your function time out settings. Always understand your code performance and set a function time out accordingly. Overprovisioning function timeout often results in Lambda functions running longer than expected and unexpected costs.
+- The bigger your deployment package, the slower your AWS Lambda function will cold-start. Hence, AWS suggests packaging dependencies as a separate package from the actual AWS.
+	- Lambda package - This statement is incorrect and acts as a distractor. **All the dependencies are also packaged into the single Lambda deployment package.**
+- Serverless architecture and containers complement each other but you cannot package and deploy AWS Lambda functions as container images
+	- This statement is incorrect. **You can now package and deploy AWS Lambda functions as container images.**
 
 ## Cost
 

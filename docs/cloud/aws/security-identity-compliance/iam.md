@@ -288,6 +288,18 @@ Service-linked roles that are created in each AWS account are named `AWSService
 
 - SCPs does not affect service-linked role.
 
+### IAM Authentication
+
+You can authenticate to your database instance using AWS Identity and Access Management (IAM) database authentication. IAM database authentication works with MySQL and PostgreSQL. With this authentication method, you don't need to use a password when you connect to a database instance. Instead, you use an authentication token.
+
+An authentication token is a unique string of characters that Amazon RDS generates on request. Authentication tokens are generated using AWS Signature Version 4. Each token has a lifetime of 15 minutes. You don't need to store user credentials in the database, because authentication is managed externally using IAM. You can also still use standard database authentication.
+
+IAM database authentication provides the following benefits
+
+1. Network traffic to and from the database is encrypted using Secure Sockets Layer (SSL)
+2. You can use IAM to centrally manage access to your database resources, instead of managing access individually on each DB instance.
+3. For applications running on Amazon EC2, you can use profile credentials specific to your Amazon EC2 instance to access your database instead of a password, for greater security.
+
 ## Job functions
 
 - [Administrator](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_job-functions.html#jf_administrator)

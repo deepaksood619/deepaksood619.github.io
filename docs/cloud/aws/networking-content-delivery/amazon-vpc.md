@@ -192,7 +192,9 @@ Amazon VPC provides the facility to create an **IPsec VPN connection (also known
 **Answer -** Create an AWS Transit Gateway with equal cost multipath routing and add additional VPN tunnels.
 
 - VPN connection is a secure connection between your on-premises equipment and your VPCs. Each VPN connection has two VPN tunnels which you can use for high availability. A VPN tunnel is an encrypted link where data can pass from the customer network to or from AWS. The following diagram shows the high-level connectivity with virtual private gateways.
-- With AWS Transit Gateway, you can simplify the connectivity between multiple VPCs and also connect to any VPC attached to AWS Transit Gateway with a single VPN connection. AWS Transit Gateway also enables you to scale the IPsec VPN throughput with equal cost multi-path (ECMP) routing support over multiple VPN tunnels. A single VPN tunnel still has a maximum throughput of 1.25 Gbps. If you establish multiple VPN tunnels to an ECMP-enabled transit gateway, it can scale beyond the default maximum limit of 1.25 Gbps. You also must enable the dynamic routing option on your transit gateway to be able to take advantage of ECMP for scalability.
+- With AWS Transit Gateway, you can simplify the connectivity between multiple VPCs and also connect to any VPC attached to AWS Transit Gateway with a single VPN connection. AWS Transit Gateway also enables you to **scale the IPsec VPN throughput with equal cost multi-path (ECMP) routing support over multiple VPN tunnels.** A single VPN tunnel still has a maximum throughput of 1.25 Gbps. If you establish multiple VPN tunnels to an ECMP-enabled transit gateway, it can scale beyond the default maximum limit of 1.25 Gbps. You also must enable the dynamic routing option on your transit gateway to be able to take advantage of ECMP for scalability.
+
+**Configuration -** Create a virtual private gateway (VGW) on the AWS side of the VPN and a Customer Gateway on the on-premises side of the VPN to connect remote on-premises network and Amazon VPC over the internet
 
 ## AWS VPN CloudHub
 
@@ -233,6 +235,10 @@ Using a single nat gateway that exists in only mumbai-1a az. Due to this other a
 ## NAT Instance
 
 A NAT instance provides network address translation (NAT). You can use a NAT instance to allow resources in a private subnet to communicate with destinations outside the virtual private cloud (VPC), such as the internet or an on-premises network. The resources in the private subnet can initiate outbound IPv4 traffic to the internet, but they can't receive inbound traffic initiated on the internet.
+
+- Security Groups can be associated with a NAT instance
+- NAT instance supports port forwarding
+- NAT instance can be used as a bastion server
 
 [NAT instances - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_NAT_Instance.html)
 

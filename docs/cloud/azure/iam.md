@@ -67,7 +67,7 @@ In summary, Azure subscriptions and resource groups operate at different levels 
 
 ## Azure Roles
 
-![Azure IAM Roles](../../../media/Pasted%20image%2020240321190256.jpg)
+![Azure IAM Roles](../../media/Pasted%20image%2020240321190256.jpg)
 
 [Azure RBAC](https://learn.microsoft.com/en-us/azure/role-based-access-control/overview) is an authorization system built on [Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview) that provides fine-grained access management to Azure resources, such as compute and storage. Azure RBAC includes over 100 built-in roles. There are five fundamental Azure roles. The first three apply to all resource types:
 

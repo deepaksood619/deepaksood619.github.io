@@ -16,6 +16,8 @@
     - [Compliance MCQs](cloud/aws/security-identity-compliance/compliance-mcqs.md)
     - [License Scanning](cloud/aws/security-identity-compliance/license-scanning.md)
     - [Security Guidelines](cloud/aws/security-identity-compliance/security-guidelines.md)
+    - [web-application-firewall-waf](cloud/aws/security-identity-compliance/web-application-firewall-waf.md)
+	    - [waf-logging](cloud/aws/security-identity-compliance/waf-logging.md)
 - [Analytics](cloud/aws/analytics/readme.md)
     - [Amazon Athena](analytics/amazon-athena)
     - [Amazon Kinesis](cloud/aws/analytics/amazon-kinesis.md)

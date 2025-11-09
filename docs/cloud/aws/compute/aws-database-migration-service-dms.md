@@ -59,6 +59,69 @@ By default, AWS DMS loads eight tables at a time. You might see some performance
 // Connection settings - maxFileSize=250000 (250MB)
 ```
 
+## Sources & Targets
+
+AWS DMS lets you expand the existing application to stream data from **Amazon S3 into Amazon Kinesis Data Streams** for real-time analytics without writing and maintaining new code. AWS DMS supports specifying Amazon S3 as the source and streaming services like Kinesis and Amazon Managed Streaming of Kafka (Amazon MSK) as the target. AWS DMS allows migration of full and change data capture (CDC) files to these services. AWS DMS performs this task out of box without any complex configuration or code development. You can also configure an AWS DMS replication instance to scale up or down depending on the workload.
+
+AWS DMS supports Amazon S3 as the source and Kinesis as the target, so data stored in an S3 bucket is streamed to Kinesis. Several consumers, such as AWS Lambda, Amazon Kinesis Data Firehose, Amazon Kinesis Data Analytics, and the Kinesis Consumer Library (KCL), can consume the data concurrently to perform real-time analytics on the dataset. Each AWS service in this architecture can scale independently as needed
+
+### Sources
+
+DMS supports numerous sources, including databases like **Oracle, PostgreSQL, MySQL, Microsoft SQL Server, and IBM Db2**, as well as cloud-based sources like **Amazon Aurora, Amazon RDS, and Amazon S3**. It handles both homogeneous (same engine) and heterogeneous (different engine) migrations.
+
+**Relational databases**
+
+- **Oracle:** Versions 10.2 and higher are supported, including 11g, 12.2, 18c, and 19c.
+- **PostgreSQL:** Versions 9.2 and higher are supported.
+- **MySQL:** Versions 5.5, 5.6, 5.7, and 8.0 are supported.
+- **Microsoft SQL Server:** Versions 2008 R2 through 2022 are supported.
+- **IBM Db2:** Both Db2 for z/OS and Db2 for LUW (Linux, Unix, Windows) are supported.
+- **MariaDB:** Community Edition is supported.
+
+**AWS services**
+
+- **Amazon Aurora:** Both MySQL and PostgreSQL-compatible versions are supported.
+- **Amazon RDS:** Supports various versions of Aurora, MySQL, and PostgreSQL.
+- **Amazon Redshift:** Supported for data warehousing and analytics.
+- **Amazon S3:** Can be used as a source to stream data.
+- **Amazon DocumentDB:** MongoDB-compatible databases are supported.
+
+**Other sources**
+
+- **MongoDB:** Supported for both on-premises and cloud deployments.
+- **SAP ASE:** Supported as a source.
+- **Microsoft Azure:** Supports various Azure databases like Azure SQL Database, Azure SQL Managed Instance, and Azure Database for MySQL/PostgreSQL.
+- **Google Cloud:** Supports Google Cloud SQL for MySQL and PostgreSQL.
+- **Percona MySQL:** Supported as a source.
+
+[Sources for data migration - AWS Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.html)
+
+[Sources for AWS DMS - AWS Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Introduction.Sources.html)
+
+### Targets
+
+[Targets for AWS DMS - AWS Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Introduction.Targets.html)
+
+- Postgres / SQL Server / MySQL
+- IBM Db2 LUW versions 11.1 and 11.5
+- Amazon Aurora MySQL-Compatible Edition
+- Amazon Aurora PostgreSQL-Compatible Edition
+- Amazon Aurora PostgreSQL Limitless
+- Amazon Aurora Serverless v2
+- Amazon Redshift
+- Amazon Redshift Serverless
+- Amazon S3
+- Amazon DynamoDB
+- Amazon OpenSearch Service
+- Amazon ElastiCache (Redis OSS)
+- Amazon Kinesis Data Streams
+- Amazon DocumentDB (with MongoDB compatibility)
+- Amazon Neptune
+- Apache Kafka – [Amazon Managed Streaming for Apache Kafka (Amazon MSK)](https://aws.amazon.com/msk/) and [self-managed Apache Kafka](https://kafka.apache.org/)
+- Babelfish (version 3.2.0 and higher) for Aurora PostgreSQL (versions 15.3/14.8 and higher)
+
+[Targets for data migration - AWS Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.html)
+
 ## Schema Conversion Tool (SCT)
 
 Heterogeneous migrations a two-step process. First use the AWS Schema Conversion Tool to convert the source schema and code to match that of the target database, and then use the AWS Database Migration Service to migrate data from the source database to the target database. All the required data type conversions will automatically be done by the AWS Database Migration Service during the migration. The source database can be located on your on-premises environment outside of AWS, running on an Amazon EC2 instance, or it can be an Amazon RDS database. The target can be a database in Amazon EC2 or Amazon RDS.
@@ -200,6 +263,7 @@ mysqldump --no-data --routines --events -h SOURCE_DB_SERVER_NAME -u DMS_USER -p 
 
 ## Links
 
+- [Cloud Database Migration - AWS Database Migration Service (AWS DMS) - AWS](https://aws.amazon.com/dms)
 - [Perform delta data loads to data lakes using AWS DMS | AWS Database Blog](https://aws.amazon.com/blogs/database/perform-delta-data-loads-to-data-lakes-using-aws-dms/)
 - [Migrate an on-premises Oracle database to Amazon RDS for MySQL using AWS DMS and AWS SCT - AWS Prescriptive Guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/migrate-an-on-premises-oracle-database-to-amazon-rds-for-mysql-using-aws-dms-and-aws-sct.html)
 - [Using MongoDB as a source for AWS DMS - AWS Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.MongoDB.html)
@@ -217,12 +281,14 @@ mysqldump --no-data --routines --events -h SOURCE_DB_SERVER_NAME -u DMS_USER -p 
 
 - [Migrating a MySQL Database to RDS for MySQL or Aurora MySQL - Database Migration Guide](https://docs.aws.amazon.com/dms/latest/sbs/chap-manageddatabases.mysql2rds.html)
 - [Accelerate your database migration journey using AWS DMS Schema Conversion | AWS Database Blog](https://aws.amazon.com/blogs/database/accelerate-your-database-migration-journey-using-aws-dms-schema-conversion/)
+- [How to archive data from relational databases to Amazon Glacier using AWS DMS \| AWS Database Blog](https://aws.amazon.com/blogs/database/archiving-data-from-relational-databases-to-amazon-glacier-via-aws-dms)
+- [Automating AWS DMS Migration Tasks \| AWS Database Blog](https://aws.amazon.com/blogs/database/automating-aws-dms-migration-tasks)
 
 ## AWS Data Sync
 
 AWS DataSync is an online data transfer service that simplifies, automates, and accelerates copying large amounts of data to and from AWS storage services over the internet or AWS Direct Connect.
 
-AWS DataSync fully automates and accelerates moving large active datasets to AWS, up to 10 times faster than command-line tools. It is natively integrated with Amazon S3, Amazon EFS, Amazon FSx for Windows File Server, Amazon CloudWatch, and AWS CloudTrail, which provides seamless and secure access to your storage services, as well as detailed monitoring of the transfer.
+AWS DataSync fully automates and accelerates moving large active datasets to AWS, up to 10 times faster than command-line tools. It is natively integrated with **Amazon S3, Amazon EFS, Amazon FSx for Windows File Server, Amazon CloudWatch, and AWS CloudTrail**, which provides seamless and secure access to your storage services, as well as detailed monitoring of the transfer.
 
 AWS DataSync uses a purpose-built network protocol and scale out architecture to transfer data. A single DataSync agent is capable of saturating a 10 Gbps network link.
 
@@ -233,3 +299,9 @@ AWS DataSync fully automates the data transfer. It comes with retry and network 
 ## AWS Transfer Family
 
 The AWS Transfer Family provides fully managed support for file transfers directly into and out of Amazon S3 and Amazon EFS.
+
+AWS Transfer Family is a secure transfer service that enables you to transfer files into and out of AWS storage services. Transfer Family is part of the AWS Cloud platform. AWS Transfer Family offers fully managed support for the transfer of files over **SFTP, AS2, FTPS, FTP, and web browser-based transfers directly into and out of AWS storage services.** You can seamlessly migrate, automate, and monitor your file transfer workflows by maintaining existing client-side configurations for authentication, access, and firewalls—so nothing changes for your customers, partners, and internal teams, or their applications.
+
+[Secure File Transfer - AWS Transfer Family - AWS](https://aws.amazon.com/aws-transfer-family/)
+
+[What is AWS Transfer Family? - AWS Transfer Family](https://docs.aws.amazon.com/transfer/latest/userguide/what-is-aws-transfer-family.html)

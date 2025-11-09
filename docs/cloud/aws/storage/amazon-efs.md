@@ -32,6 +32,24 @@ Amazon groups play a critical role in establishing network connectivity between 
 
 - Create mount path
 
+#### EFS Mount Targets
+
+Creating Amazon EFS mount targets in each Availability Zone and mounting the EFS file system to EC2 instances within the same AZ as their respective mount targets ensures the lowest possible latency and avoids inter-AZ data transfer costs. When an EC2 instance accesses an EFS mount target in the same AZ, the traffic stays within the local VPC infrastructure, resulting in faster performance and reduced latency. This setup also improves fault tolerance-if one AZ becomes unavailable, instances in other AZs can still access EFS through their local mount targets.
+
+According to AWS best practices, for optimal performance and high availability, an EFS file system should have a mount target in each AZ where EC2 instances require access.
+
+**Question -** Create mount targets for Amazon EFS on an EC2 instance in each AZ and use them to serve as access points for other instances
+
+**Answer -** This option is incorrect because mount targets are not created on EC2 instances-they are created at the VPC level within each Availability Zone and are managed by the EFS service itself. Mount targets are Elastic Network Interfaces (ENIs) that enable EC2 instances within the same AZ to connect to the EFS file system using the VPC's internal networking. You do not and cannot host EFS mount targets on EC2 instances. Confusing mount points (where you mount the file system on an EC2 instance) with mount targets (infrastructure provided by EFS) leads to a misunderstanding of how Amazon EFS architecture works.
+
+**Question -** Create a single EFS mount target in one AZ and allow all EC2 instances in other AZs to access it using the default mount target
+
+**Answer -** Creating a single mount target in one AZ and having all EC2 instances across AZs access it leads to cross-AZ traffic, which increases latency and incurs data transfer costs. This setup ignores the purpose of EFS mount targets in multiple AZs and underutilizes the capability to serve traffic locally within each AZ.
+
+**Question -** Use Mountpoint for Amazon S3 to mount an S3 bucket on each EC2 instance and use it as a shared storage layer across Availability Zones
+
+**Answer -** While Mountpoint for Amazon S3 is an AWS-supported, open-source file client that allows EC2 instances to mount S3 buckets as a local file system, it is optimized for high-throughput sequential access to large objects, not for low-latency, POSIX-compliant shared file system behavior. S3 is an object store, not a file system-and does not support the fine-grained consistency, low-latency access, or file locking mechanisms required by HPC workloads or tightly coupled distributed applications. Therefore, it is not a suitable substitute tor Amazon erS in scenarios requiring shared, low-latency access across EC2 instances.
+
 ## Storage classes
 
 Amazon EFS offers three storage classes

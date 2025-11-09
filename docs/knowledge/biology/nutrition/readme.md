@@ -13,7 +13,7 @@
 - [Ecology](ecology)
 - [Recipe](recipe)
 - [Fatigue](fatigue)
-- [Plants / Gardening](plants-gardening)
+- [Plants / Gardening](knowledge/biology/nutrition/plants-gardening-botany.md)
 
 ### Biggest Factors for bad health and death
 

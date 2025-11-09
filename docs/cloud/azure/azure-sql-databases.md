@@ -20,7 +20,7 @@ Database Server act as a central administrative point for **multiple single** or
 - Virtual core (vCore)-based purchasing model (recommended)
 - Serverless model (vCore)-based
 
-![Azure SQL Database Pricing Model](../../../media/Screenshot%202025-05-25%20at%201.13.17%20PM.jpg)
+![Azure SQL Database Pricing Model](../../media/Screenshot%202025-05-25%20at%201.13.17%20PM.jpg)
 
 ## Backups
 

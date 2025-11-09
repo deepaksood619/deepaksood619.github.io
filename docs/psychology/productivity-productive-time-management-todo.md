@@ -218,3 +218,4 @@ Liner is a browser extension that lets you highlight anything you see online. Be
 - The Productivity Project - Chris Bailey
 - [Edsger Dijkstra's One-Day Workweek - Cal Newport](https://calnewport.com/edsger-dijkstras-one-day-workweek)
 - [How I manage MY WEEK running a 27 CRORE BUSINESS! | Ankur Warikoo Hindi - YouTube](https://www.youtube.com/watch?v=rpuT3LPDAZY)
+- [Billionaire’s Brain vs Your Brain: Morning Routine, Focus & Addiction \| Dr Sweta \| FO403 Raj Shamani - YouTube](https://www.youtube.com/watch?v=fHBR1j1kJ1I)

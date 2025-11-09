@@ -240,6 +240,14 @@ Amazon S3 Replication also provides detailed metrics and notifications to monito
 
 [Replicating objects within and across Regions - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication.html)
 
+### S3 Batch Replication
+
+Amazon S3 Batch Replication provides you a way to replicate objects that existed before a replication configuration was in place, objects that have previously been replicated, and objects that have failed replication. This is done through the use of a Batch Operations job.
+
+You should note that batch replication differs from live replication which continuously and automatically replicates new objects across Amazon S3 buckets. You cannot directly use the AWS S3 console to configure cross-Region replication for existing objects. By default, replication only supports copying new Amazon S3 objects after it is enabled using the AWS S3 console. Replication enables automatic, asynchronous copying of objects across Amazon S3 buckets. Buckets that are configured for object replication can be owned by the same AWS account or by different accounts. Object may be replicated to a single destination bucket or multiple destination buckets. Destination buckets can be in different AWS Regions or within the same Region as the source bucket. Once done, you can delete the replication configuration, as it ensures that batch replication is only used for this one-time data copy operation.
+
+If you want to enable live replication for existing objects for your bucket, you must contact AWS Support and raise a support ticket. This is required to ensure that replication is configured correctly.
+
 ## Amazon S3 Event Notifications
 
 ### Supported Events
@@ -378,7 +386,7 @@ S3 bucket policies, on the other hand, are resource-based policies that you can
 
 > **Note:** You attach S3 bucket policies at the bucket level (that is, you can’t attach a bucket policy to an S3 object), but the permissions specified in the bucket policy apply to all of the objects in the bucket. You can also specify permissions at the object level by putting an object as the resource in the bucket policy.
 
-A bucket policy is a type of resource-based policy that can be used to grant permissions to the principal that is specified in the policy. Principals can be in the same account as the resource or in other accounts. For cross-account permissions to other AWS accounts or users in another account, you must use a bucket policy.
+A bucket policy is a type of resource-based policy that can be used to grant permissions to the principal that is specified in the policy. **Principals can be in the same account as the resource or in other accounts. For cross-account permissions to other AWS accounts or users in another account, you must use a bucket policy.**
 
 IAM policies and S3 bucket policies are both used for access control and they’re both written in JSON using the AWS access policy language.
 

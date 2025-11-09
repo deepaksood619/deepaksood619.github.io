@@ -78,3 +78,4 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 - [How I learned new skills with side hustles and advanced my career](https://freefincal.com/how-i-learned-new-skills-with-side-hustles-and-advanced-my-career/)
 - [The Money Tree: Branch Out Your Income](https://freefincal.com/the-money-tree-branch-out-your-income/)
 - [Here's a financial guide for couples in mid thirties with income of Rs 2.5 lakh per month - BusinessToday](https://www.businesstoday.in/magazine/money-today/investment/as-good-as-it-gets/story/256057.html)
+- [Reasonable and unreasonable risks in investing and money management](https://freefincal.com/reasonable-and-unreasonable-risks-in-investing-and-money-management/)

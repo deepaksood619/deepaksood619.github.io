@@ -57,7 +57,7 @@ FCM forwards the messages to platform-level transport. This transport layer hand
 
 The messages are routed to the targeted devices. The notifications can be displayed according to the configurations sent from the app server (1).
 
-![How FCM Works](../../../media/Pasted%20image%2020240229100535.jpg)
+![How FCM Works](../../media/Pasted%20image%2020240229100535.jpg)
 
 ## Commands
 

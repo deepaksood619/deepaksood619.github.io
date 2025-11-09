@@ -109,6 +109,11 @@ Ethereum social consensus, _for other purposes_:
 
 [Ethereum Upgrades | X](https://twitter.com/stacy_muur/status/1699133944803823895)
 
+## Fusaka Upgrade
+
+- [binance.com/en/academy/articles/ethereum-fusaka-upgrade-all-you-need-to-know](https://www.binance.com/en/academy/articles/ethereum-fusaka-upgrade-all-you-need-to-know)
+- [Fulu-Osaka (Fusaka) \| ethereum.org](https://ethereum.org/roadmap/fusaka/)
+
 ## Others
 
 [Intro to ERC 6551 - Token Bound Accounts - Jayden Windle - YouTube](https://www.youtube.com/watch?v=6WoNRbkZOaU)

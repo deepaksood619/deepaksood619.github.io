@@ -122,7 +122,7 @@ Prompt: "Proofread my writing above. Fix grammar and spelling mistakes. And make
 
 ### Learn-fast prompt using the 80/20 principle to knowledge
 
-Prompt: "I want to learn about `{insert topic}`. Identify and share the most important 20% of learnings from this topic that will help me understand 80% of it."
+I want to learn about **insert_topic**. Identify and share the most important 20% of learnings from this topic that will help me understand 80% of it.
 
 ### Learning / Q&A / Test / Interview
 

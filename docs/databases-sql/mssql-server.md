@@ -87,5 +87,5 @@ SQL Server Reporting Services (SSRS) provides a set of on-premises tools and ser
 
 ## Links
 
-- [azure-sql-databases](cloud/others/azure/azure-sql-databases.md)
+- [azure-sql-databases](cloud/azure/azure-sql-databases.md)
 - [TSQL Queries](languages/sql/tsql-mssql-queries.md)

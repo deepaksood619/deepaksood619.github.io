@@ -74,7 +74,7 @@ Limitless analytics service with unmatched time to insight (formerly SQL Data Wa
 
 Azure Synapse Analytics is an analytics service that helps in data integration, data warehousing, and big data analytics. [Azure Synapse](https://k21academy.com/microsoft-azure/data-engineer/azure-synapse-analytics/) gives a unified experience to ingest, explore, prepare, manage, and serve data for immediate **BI** (Business Intelligence) and machine learning needs. It gives the freedom to query data using either serverless or dedicated resources.
 
-![Azure Synapse Analytics](../../../media/Pasted%20image%2020240301184327.jpg)
+![Azure Synapse Analytics](../../media/Pasted%20image%2020240301184327.jpg)
 
 #### Key Features Of Azure Synapse Analytics
 

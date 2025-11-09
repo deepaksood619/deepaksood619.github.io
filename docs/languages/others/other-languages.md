@@ -253,6 +253,8 @@ https://vlang.io
 
 [NUnit.org](https://nunit.org/)
 
+[Blazor \| Build client web apps with C# \| .NET](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
+
 ### Libraries
 
 - [GitHub - serilog/serilog: Simple .NET logging with fully-structured events](https://github.com/serilog/serilog)

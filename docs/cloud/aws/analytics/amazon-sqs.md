@@ -78,7 +78,7 @@ Delay queues are similar to [visibility timeouts](https://docs.aws.amazon.com/A
 
 ### Configuration
 
-- **Queue-level delay:** A delay can be configured for the entire queue, meaning all messages sent to that queue will be subject to the same delay. This is set using the `DelaySeconds` attribute of the queue.    
+- **Queue-level delay:** A delay can be configured for the entire queue, meaning all messages sent to that queue will be subject to the same delay. This is set using the `DelaySeconds` attribute of the queue.
 - **Message-level delay (Message Timers):** Individual messages can also have a delay specified using the `DelaySeconds` parameter when sending the message. If both queue-level and message-level delays are set, the message-level delay overrides the queue-level setting for that specific message.
 
 ### What is a visibility timeout?

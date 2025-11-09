@@ -175,7 +175,20 @@
 ## DeepFakes
 
 - [Deep Live Cam \| Free online Real-time AI Face Swap & Deepfake with One Image](https://deeplivecam.org/)
+	- [GitHub - hacksider/Deep-Live-Cam: real time face swap and one-click video deepfake with only a single image](https://github.com/hacksider/Deep-Live-Cam)
 - [Magicam, The Ultimate Real-Time Face Swap Solution](https://magicam.ai/)
+
+```bash
+brew list | grep python
+
+brew install python@3.11
+brew install python-tk@3.11
+python3.11 -m venv venv
+source venv/bin/activate
+# https://github.com/hacksider/Deep-Live-Cam/issues/1160
+
+python3.11 run.py --execution-provider coreml
+```
 
 ## Links
 

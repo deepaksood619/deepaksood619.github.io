@@ -224,3 +224,26 @@ WHERE rn = 1;
 | **Window Functions**   | How are `ROW_NUMBER()` and `RANK()` different?                                        |
 
 [ChatGPT - SQL interview questions](https://chatgpt.com/share/69019e55-5d84-8008-9b05-83dd7f4143e5)
+
+## SQL Questions
+
+1. Find the **3rd highest salary** in a company, returning all employees who have that salary.
+2. Find the **top 2 scorers per subject** from a marks table.
+3. Find the **highest paid employee in each department**.
+4. Find the **second highest salary in each department**.
+5. Find **students who scored more than the class average**.
+6. Find the **cumulative total salary** per department ordered by salary descending.
+7. Find the **employee(s) whose salary is just below the maximum salary** in the company (difference-based).
+8. List **employees ranked by salary within each department** using `ROW_NUMBER()`.
+9. Find **products whose price is above the average price in their category**.
+10. Find **the difference between each employee’s salary and the department average**.
+11. Find the **running total of sales** ordered by sale date.
+12. Find the **first transaction per customer** by date.
+13. Find the **top 3 selling products** based on total revenue.
+14. Find **students who scored exactly the median score**.
+15. Find **employees who earn more than their manager**.
+16. Find **consecutive login days** for each user (window + gaps).
+17. Find the **latest salary record** per employee from a historical salary table.
+18. Find **percentage contribution** of each product to total sales.
+19. Find **customers who purchased more than once within 7 days**.
+20. Find **each employee’s salary rank across the company and within their department**.

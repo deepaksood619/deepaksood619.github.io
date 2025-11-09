@@ -22,7 +22,7 @@ AWS PrivateLink simplifies the security of data shared with cloud-based applicat
 
 Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale. APIs act as the "front door" for applications to access data, business logic, or functionality from your backend services. Using API Gateway, you can create RESTful APIs and WebSocket APIs that enable real-time two-way communication applications. API Gateway supports containerized and serverless workloads, as well as web applications.
 
-You can enable **Amazon API caching in Amazon API Gateway** to cache your endpoint's responses. With caching, you can reduce the number of calls made to your endpoint and also improve the latency of requests to your API. When you enable caching for a stage, API Gateway caches responses from your endpoint for a specified time-to-live (TTL) period, in seconds. Amazon API Gateway then responds to the request by looking up the endpoint response from the cache instead of requesting your endpoint. **The default TTL value for API caching is 300 seconds. The maximum TTL value is 3600 seconds. TTL=0 means caching is disabled.**
+[Amazon API Gateway Pricing | API Management | Amazon Web Services](https://aws.amazon.com/api-gateway/pricing/)
 
 [Amazon API Gateway Pricing: 6 Tips to Control the Cost](https://www.stormit.cloud/blog/amazon-api-gateway-pricing/)
 
@@ -43,9 +43,23 @@ You can enable **Amazon API caching in Amazon API Gateway** to cache your endpoi
 
 API Gateway supports resource policies, which are IAM-style JSON policies that you attach directly to your REST or HTTP APIs. These policies can use IpAddress and NotlpAddress conditions to enforce fine-grained network controls. By configuring a policy that explicitly denies all IPs except for the trusted internal IP ranges, the company can ensure that only requests originating from its internal network are allowed to invoke the API. This approach provides centralized, declarative access control without the need for additional infrastructure changes, and it aligns with AWS best practices for managing access to public APls that carry sensitive data.
 
+**Caching**
+
+You can enable **Amazon API caching in Amazon API Gateway** to cache your endpoint's responses.
+
+With caching, you can reduce the number of calls made to your endpoint and also improve the latency of requests to your API. When you enable caching for a stage, API Gateway caches responses from your endpoint for a specified time-to-live (TTL) period, in seconds. Amazon API Gateway then responds to the request by looking up the endpoint response from the cache instead of requesting your endpoint. **The default TTL value for API caching is 300 seconds. The maximum TTL value is 3600 seconds. TTL=0 means caching is disabled.**
+
+The maximum size of a response that can be cached is 1048576 bytes. Cache data encryption may increase the size of the response when it is being cached.
+
+When you enable caching within a stage's **Cache settings**, only `GET` methods are cached. To ensure the safety and availability of your API, we recommend that you don't change this setting.
+
+[Cache settings for REST APIs in API Gateway - Amazon API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-caching.html)
+
 ## 6. AWS Direct Connect - Dedicated Network Connection to AWS
 
-A Direct Connect gateway is a global resource that allows VPCs in any AWS Region (except China) to connect to Direct Connect via virtual private gateways (VGWs). By connecting both Direct Connect links to the same DX gateway and associating the VGWs of all relevant VPCs, the company can enable transitive routing across Regions and between on-premises locations and VPCs — without setting up complex peering or custom VPN appliances.
+**Question -** A global pharmaceutical company operates a hybrid cloud network. Its primary AWS workloads run in the us-west-2 Region, connected to its on-premises data center via an AWS Direct Connect connection. After acquiring a biotech firm headquartered in Europe, the company must integrate the biotech's workloads, which are hosted in several VPCs in the eu-central-1 Region and connected to the biotech's on-premises facility through a separate Direct Connect link. All CIDR blocks are non-overlapping, and the business requires full connectivity between both data centers and all VPCs across the two Regions. The company also wants a scalable solution that minimizes manual network configuration and long-term operational overhead.
+
+**Answer -** A Direct Connect gateway is a global resource that allows VPCs in any AWS Region (except China) to connect to Direct Connect via virtual private gateways (VGWs). By connecting both Direct Connect links to the same DX gateway and associating the VGWs of all relevant VPCs, the company can enable transitive routing across Regions and between on-premises locations and VPCs — without setting up complex peering or custom VPN appliances.
 
 [What is AWS Direct Connect? - AWS Direct Connect](https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html)
 

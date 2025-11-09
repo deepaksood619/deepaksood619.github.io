@@ -120,7 +120,7 @@ In summary, the choice between Amazon Kinesis and Apache Kafka depends on factor
 |Scalability|Shard-based, requires manual or auto-scaling configuration|Automatic scaling based on message volume|
 |Complexity|Higher for complex streaming scenarios|Simpler for basic messaging|
 
-### When to Choose Which:
+### When to Choose Which
 
 - **Choose Kinesis** when you need to process high-volume, real-time data streams, require strict ordering within partitions, and potentially need to replay data or perform real-time analytics.
 - **Choose SQS** when you need to decouple application components, manage asynchronous tasks, ensure reliable message delivery, and don't require real-time streaming capabilities or data replay.
