@@ -252,3 +252,10 @@ TODO - 2025-03-07, 2025-04-03
 - **RIT Score:** Scores are reported on the Rasch Unit (RIT) scale, which measures a student's academic standing and progress over time, rather than a pass/fail grade.
 - **Frequency:** Typically administered multiple times per year (fall, winter, spring) to track progress.
 - **Key Use:** Educators use the MAP Growth assessment results to understand individual student strengths and weaknesses, provide targeted support, and inform instructional strategies.
+
+## Coaching
+
+- 10k per month for 10 months
+- 2 months unpaid internship
+- From 13th month you get 50k per month, so you get your money back in 2 months i.e. 13th and 14th month
+- If not from 15th month you will start getting back 10K till you get back your whole money

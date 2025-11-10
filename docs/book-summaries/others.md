@@ -40,6 +40,8 @@
 - [Win More Negotiations: 5 Habits from Great Books](https://youtu.be/1CcpgDNl2Xg)
 - [Do more in 100 words than people do in 10,000 | SMART BREVITY by VandeHe...](https://youtu.be/xM5CcfCzMU4)
 - [5 Simple Steps to Delegate and Automate More Work (and focus on what you...](https://youtu.be/g-1GCtAulYw)
+- [S.M.A.R.T. Learning Framework: 5 Accelerated Learning Techniques - YouTube](https://youtu.be/oHPOZj69SDg)
+- [HOW MINDS CHANGE by David McRaney \| Core Message - YouTube](https://youtu.be/jCQr15a1-Wo)
 
 ### [Learn to lead: THE 21 IRREFUTABLE LAWS OF LEADERSHIP by John Maxwell | Core Message - YouTube](https://www.youtube.com/watch?v=QQhdiktL99w)
 

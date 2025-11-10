@@ -3,6 +3,7 @@
 You can enable logging to get detailed information about traffic that is analyzed by your web ACL. Logged information includes the time that AWS WAF received a web request from your AWS resource, detailed information about the request, and details about the rules that the request matched.
 
 You can send protection pack (web ACL) logs to
+
 1. Amazon CloudWatch Logs log group
 2. Amazon Simple Storage Service (Amazon S3) bucket
 3. Amazon Data Firehose delivery stream
@@ -69,6 +70,7 @@ You can create a log ingestion into Amazon OpenSearch Service either by using th
 - The Amazon OpenSearch Service index is rotated on a daily basis by default, and you can adjust the index in the Additional Settings.
 
 **Engines**
+
 - OpenSearch Engine
 - Light Engine
 
@@ -89,32 +91,33 @@ AWS WAF logs can be stored in Apache Parquet format, which is a columnar storage
 Here's how you can achieve this:
 
 - **Enable AWS WAF Logging to Kinesis Data Firehose:**
-    
+
     - Configure your AWS WAF Web ACL to send its logs to an Amazon Kinesis Data Firehose delivery stream. This is done in the AWS WAF console under the "Logging and metrics" section of your Web ACL.
     - When configuring the Kinesis Data Firehose, you will specify Amazon S3 as the destination.
-    
+
 - **Configure Kinesis Data Firehose for Parquet Conversion:**
-    
+
     - Within the Kinesis Data Firehose delivery stream configuration, you can enable "Record format conversion."
     - Choose "Apache Parquet" as the target format.
     - You can also specify an AWS Glue table for the schema definition, which helps Firehose convert the incoming JSON logs into the structured Parquet format.
-    
+
 - **Store in Amazon S3:**
-    
+
     - The Kinesis Data Firehose will then deliver the converted Parquet files to your designated Amazon S3 bucket.
-    
+
 - **Analyze with Amazon Athena:**
-    
+
     - Once the logs are in Parquet format in S3, you can create an Amazon Athena table that points to the S3 location of your WAF logs.
     - Athena can efficiently query these Parquet files, allowing you to perform fast and cost-effective analysis of your WAF traffic.
 
-#### Benefits of using Parquet for WAF logs:
+#### Benefits of using Parquet for WAF logs
 
 - **Improved Query Performance:** Columnar storage allows Athena to read only the necessary columns for your queries, significantly speeding up analysis.
 - **Reduced Storage Costs:** Parquet files are highly compressed, leading to lower storage costs in Amazon S3.
 - **Enhanced Analytics:** The structured nature of Parquet makes it easier to perform complex analytical queries and integrate with other data analysis tools.
 
 [Convert input data format in Amazon Data Firehose - Amazon Data Firehose](https://docs.aws.amazon.com/firehose/latest/dev/record-format-conversion.html)
+
 - Amazon Data Firehose can convert the format of your input data from JSON to [Apache Parquet](https://parquet.apache.org/) or [Apache ORC](https://orc.apache.org/) before storing the data in Amazon S3. Parquet and ORC are columnar data formats that save space and enable faster queries compared to row-oriented formats like JSON. If you want to convert an input format other than JSON, such as comma-separated values (CSV) or structured text, you can use AWS Lambda to transform it to JSON first.
 - You can convert the format of your data even if you aggregate your records before sending them to Amazon Data Firehose.
 - [Enabling serverless security analytics using AWS WAF full logs, Amazon Athena, and Amazon QuickSight \| AWS Security Blog](https://aws.amazon.com/blogs/security/enabling-serverless-security-analytics-using-aws-waf-full-logs/)

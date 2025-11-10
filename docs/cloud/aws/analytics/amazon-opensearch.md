@@ -68,7 +68,7 @@ Amazon OpenSearch Ingestion provisions _pipelines_, which consist of a source, 
 
 Analyzing Apache Parquet files stored in Amazon S3 using OpenSearch Service can be achieved through several methods, largely depending on whether you want to directly query the data in S3 or ingest it into OpenSearch for indexing and analysis.
 
-### 1. OpenSearch Service Zero-ETL Integration with Amazon S3:
+### 1. OpenSearch Service Zero-ETL Integration with Amazon S3
 
 This is the most direct and modern approach for analyzing Parquet data in S3 without requiring a separate ETL process to ingest data into OpenSearch.
 
@@ -79,7 +79,7 @@ This is the most direct and modern approach for analyzing Parquet data in S3 wit
 
 [Configuring and querying an S3 data source in OpenSearch Dashboards - Amazon OpenSearch Service](https://docs.aws.amazon.com/opensearch-service/latest/developerguide/direct-query-s3-configure.html)
 
-### 2. Ingesting Parquet Data into OpenSearch Service:
+### 2. Ingesting Parquet Data into OpenSearch Service
 
 If you require the full indexing capabilities of OpenSearch for faster search and complex aggregations, you can ingest the Parquet data from S3 into an OpenSearch domain.
 
@@ -140,3 +140,7 @@ If you require the full indexing capabilities of OpenSearch for faster search an
 - [Demo: Zero to Hero with Amazon OpenSearch Service | Amazon Web Services](https://youtu.be/wh2tn5BTBpg)
 - [AWS re:Invent 2022 - [NEW LAUNCH!] Provision & scale OpenSearch resource...](https://youtu.be/OSaq3SkXGq8)
 - [Power Your Vector Search with Amazon OpenSearch Service - AWS Analytics ...](https://youtu.be/1nTjlqwuUwU)
+- [AWS re:Invent 2023 - What’s new in Amazon OpenSearch Service (ANT301) - YouTube](https://youtu.be/CKYCxw0mMiE)
+- [AWS re:Invent 2023 - Improve your search with vector capabilities in OpenSearch Service (ANT210) - YouTube](https://youtu.be/y7pxKfq8vtg)
+- [AWS re:Invent 2024 - Maximize efficiency and reduce costs with Amazon OpenSearch Service (ANT347) - YouTube](https://youtu.be/QOljfEoYbfY)
+- [AWS re:Invent 2022 - What’s new in Amazon OpenSearch Service (ANT206) - YouTube](https://www.youtube.com/watch?v=yFmkE7tIslA)

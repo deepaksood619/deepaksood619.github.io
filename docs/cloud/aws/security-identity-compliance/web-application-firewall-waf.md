@@ -3,6 +3,7 @@
 AWS WAF can be deployed on Amazon CloudFront, the Application Load Balancer (ALB), Amazon API Gateway, and AWS AppSync. As part of Amazon CloudFront it can be part of your Content Distribution Network (CDN) protecting your resources and content at the Edge locations. As part of the Application Load Balancer it can protect your origin web servers running behind the ALBs. As part of Amazon API Gateway, it can help secure and protect your REST APIs. As part of AWS AppSync, it can help secure and protect your GraphQL APIs.
 
 You can protect the following resource types:
+
 - Amazon CloudFront distribution
 - Amazon API Gateway REST API
 - Application Load Balancer
@@ -23,7 +24,7 @@ AWS WAF is tightly integrated with Amazon CloudFront and the Application Load Ba
 
 ## AWS WAF Components
 
-### web ACLs 
+### web ACLs
 
 You use a web access control list (web ACL) to protect a set of AWS resources. You create a web ACL and define its protection strategy by adding rules. Rules define criteria for inspecting web requests and they specify the action to take on requests that match their criteria. You also set a default action for the web ACL that indicates whether to block or allow through any requests that the rules haven't already blocked or allowed. For more information about web ACLs, see [Configuring protection in AWS WAF](https://docs.aws.amazon.com/waf/latest/developerguide/web-acl.html).
 
@@ -89,6 +90,7 @@ Dashboards available through new provide unified visibility into your security p
 - **Block actions**
 
 **All rules** – A chart that visualizes metrics for all rules in the protection pack.
+
 - Use the **Overlay last 3 hours** option to compare the current time range with the previous 3 hour time window.
 
 **Overview Dashboard** – Provides a comprehensive, graphical view of your security status, including the following:
@@ -104,8 +106,8 @@ Preconfigured protection packs leverage AWS's security expertise to deliver ins
 
 ### How are protection packs different than Managed Rules for AWS WAF?
 
-A rule pack is a logical selection of rules based on your application needs created and maintained by AWS to protect against common web threats.  
-  
+A rule pack is a logical selection of rules based on your application needs created and maintained by AWS to protect against common web threats.
+
 AWS Managed Rules for AWS WAF is a managed service that provides protection against application vulnerabilities or other unwanted traffic. You have the option of selecting one or more rule groups from AWS Managed Rules for each web ACL, up to the maximum web ACL capacity unit (WCU) limit.
 
 ### Do protection packs cost extra?
@@ -198,6 +200,7 @@ AWS Shield Advanced customers get limited usage of AWS WAF as part of their subs
 For logging with Amazon CloudWatch Logs (Standard and Infrequent Access), other Vended Logs destinations, you receive up to 500 bytes of log delivery per WAF request at no additional charge. Any usage beyond the discounted usage is billed by Amazon CloudWatch based on WAF specific Vended Logs pricing. The per GB rate for WAF-specific vended logs pricing matches the [CloudWatch Vended Logs pricing per region](https://aws.amazon.com/cloudwatch/pricing/). WAF logs specific charges will show under the VendedLog-Bytes-WAFlogs (for CW-Standard), S3-Egress-Bytes-WAFLogs (for S3), and VendedLogIA-Bytes-WAFlogs (for CW-IA) usage types.
 
 **Components**
+
 1. AWS WAF
 2. Bot Control
 3. Fraud Control
@@ -220,3 +223,10 @@ When you subscribe to a managed rule group provided by an AWS Marketplace seller
 - [Web Application Firewall - Web API Protection - AWS WAF - AWS](https://aws.amazon.com/waf/)
 - [How AWS WAF works - AWS WAF, AWS Firewall Manager, AWS Shield Advanced, and AWS Shield network security director](https://docs.aws.amazon.com/waf/latest/developerguide/how-aws-waf-works.html)
 - [AWS WAF - AWS WAF, AWS Firewall Manager, AWS Shield Advanced, and AWS Shield network security director](https://docs.aws.amazon.com/waf/latest/developerguide/waf-chapter.html)
+- [AWS re:Invent 2024 - How to optimize costs with AWS WAF (CDN201)](https://youtu.be/Jh0LBZMkMkQ)
+- [AWS re:Invent 2024 - I didn’t know AWS WAF did this (CDN303)](https://youtu.be/iTBfSgCXBZA)
+- [AWS Web Application Firewall (WAF) Full Tutorial | Hands-on](https://youtu.be/p6SH4ziqKkw)
+- [Introduction to AWS Web Application Firewall (WAF)](https://youtu.be/-n15VR9HWiI)
+- [AWS WAF Hands-on Tutorial](https://youtu.be/JZkI4coJHEM)
+- [DDoS Protection on AWS with AWS Shield and AWS WAF | Amazon Web Services](https://youtu.be/-9YzrRCzaKM)
+- [How to use AWS WAF (Web application firewall)/Web ACL? - Step By Step Tu...](https://youtu.be/FHRXXrQ765M)
