@@ -304,6 +304,26 @@ https://www.aws.training/Details/eLearning?id=71251
 
 https://aws.amazon.com/blogs/compute/build-a-serverless-private-url-shortener
 
+### MFA Delete
+
+When working with S3 Versioning in Amazon S3 buckets, you can optionally add another layer of security by configuring a bucket to enable _MFA (multi-factor authentication) delete_. When you do this, the bucket owner must include two forms of authentication in any request to delete a version or change the versioning state of the bucket.
+
+MFA delete requires additional authentication for either of the following operations:
+
+- Changing the versioning state of your bucket
+- Permanently deleting an object version
+
+MFA delete requires two forms of authentication together:
+
+- Your security credentials
+- The concatenation of a valid serial number, a space, and the six-digit code displayed on an approved authentication device
+
+MFA delete thus provides added security if, for example, your security credentials are compromised. MFA delete can help prevent accidental bucket deletions by requiring the user who initiates the delete action to prove physical possession of an MFA device with an MFA code and adding an extra layer of friction and security to the delete action.
+
+To identify buckets that have MFA delete enabled, you can use Amazon S3 Storage Lens metrics.
+
+The bucket owner, the AWS account that created the bucket (root account), and all authorized users can enable versioning. However, only the bucket owner (root account) can enable MFA delete.
+
 ## TransactionManager (Speeds up s3 transfers)
 
 https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/examples-s3-transfermanager.html
@@ -377,6 +397,9 @@ Organizational and departmental requirements in this example:
 - The Operations department uses **application role 3,** and this role should enable members of this department to download objects if the prefix matches /Application3. This role also permits members of this department to delete objects in any of the application folders inside the S3 bucket.
 
 [Securing data in a virtual private cloud using Amazon S3 Access Points \| AWS Storage Blog](https://aws.amazon.com/blogs/storage/securing-data-in-a-virtual-private-cloud-using-amazon-s3-access-points/)
+
+
+While Amazon S3 access points simplify managing access to shared buckets across many applications or teams, they do not change the network path used to reach Amazon S3. Without a VPC endpoint, traffic using an access point still flows over the public internet.
 
 ### S3 Bucket Policy vs IAM Policy
 

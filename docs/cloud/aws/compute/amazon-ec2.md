@@ -2,6 +2,9 @@
 
 Virtual Servers in the Cloud
 
+- [amazon-ec2-instance-types](cloud/aws/compute/amazon-ec2-instance-types.md)
+- [amazon-ec2-asg](cloud/aws/compute/amazon-ec2-asg.md)
+
 ### installing docker in ubuntu ec2 instance
 
 [Ubuntu \| Docker Docs](https://docs.docker.com/engine/install/ubuntu/)

@@ -17,5 +17,6 @@ The exam has the following content domains and weightings:
 
 - NAT Gateway
 - VPC Endpoint
+	- Gateway endpoints
 - Transit Gateway
 - AWS PrivateLink

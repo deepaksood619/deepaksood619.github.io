@@ -78,6 +78,149 @@ Key aspects of `ContentType` in Azure Event Hubs:
 
     While common MIME types like JSON or plain text are frequently used, you can define and use custom MIME types if your application requires a specific data format not covered by standard types.
 
+## Reading Bulk Message
+
+- Use **EventHubConsumerClient.receive_batch()** or manual loop using **receive()**.
+- Determine the **available message count**.
+- If available < `batch_size` → consume immediately.
+    - If available ≥ `batch_size` → consume in batches of size `batch_size`.
+
+```python
+from azure.eventhub import EventHubConsumerClient
+
+connection_str = "<EVENT_HUB_CONNECTION_STRING>"
+consumer_group = "$Default"
+eventhub_name = "<EVENT_HUB_NAME>"
+
+BATCH_SIZE = 100  # desired batch size
+client = EventHubConsumerClient.from_connection_string(
+    conn_str=connection_str,
+    consumer_group=consumer_group,
+    eventhub_name=eventhub_name,
+)
+
+def on_event_batch(partition_context, events):
+    if not events:
+        return
+
+    total_events = len(events)
+    if total_events <= BATCH_SIZE:
+        # Process all immediately
+        process_events(events)
+    else:
+        # Process in chunks
+        for i in range(0, total_events, BATCH_SIZE):
+            chunk = events[i:i + BATCH_SIZE]
+            process_events(chunk)
+
+    partition_context.update_checkpoint(events[-1])
+
+def process_events(events):
+    print(f"Processing {len(events)} events...")
+    for e in events:
+        print(f"  Event: {e.body_as_str()}")
+
+with client:
+    client.receive_batch(
+        on_event_batch=on_event_batch,
+        max_batch_size=BATCH_SIZE,
+        starting_position="-1"  # from start
+    )
+```
+
+### Key Parameters
+
+- **`receive_batch()`** allows you to fetch multiple events at once.
+- **`max_batch_size`** defines the maximum number of events per fetch.
+- If fewer messages are available, it immediately returns what exists after the **wait time** (default is small; configurable via `max_wait_time`).
+
+### Optional Fine-Tuning
+
+If you want true _immediate reads even when less than batch size_, set:
+
+```python
+client.receive_batch(
+    on_event_batch=on_event_batch,
+    max_batch_size=BATCH_SIZE,
+    max_wait_time=0  # return immediately if messages exist
+)
+```
+
+That ensures:
+
+- If queue has < BATCH_SIZE → return them immediately.
+- If queue has > BATCH_SIZE → returns exactly BATCH_SIZE and continues next poll.
+
+[ChatGPT - Azure Event Hub batching](https://chatgpt.com/share/6911d341-db80-8008-9362-97c1f1aa3072)
+
+## Checkpointing / Commit
+
+- Checkpoint too often → overhead.
+- Checkpoint too rarely → risk of duplicate processing on restart.
+
+```python
+if events and partition_context.sequence_number % 1000 == 0:
+    partition_context.update_checkpoint(events[-1])
+```
+
+This checkpoints every 1,000 messages.
+
+### Automatic Checkpointing
+
+**When it happens automatically:**
+
+- You use **EventProcessorClient** (Java/.NET) or **EventHubConsumerClient with receive_batch() and checkpoint_store** (Python).
+- After each batch or event callback, the SDK automatically updates the checkpoint **for the last successfully processed event**.
+
+```python
+from azure.eventhub import EventHubConsumerClient
+from azure.eventhub.extensions.checkpointstoreblob import BlobCheckpointStore
+
+checkpoint_store = BlobCheckpointStore.from_connection_string("<BLOB_CONN>", "<CONTAINER>")
+client = EventHubConsumerClient.from_connection_string(
+    conn_str="<EH_CONN>",
+    consumer_group="$Default",
+    eventhub_name="<EH_NAME>",
+    checkpoint_store=checkpoint_store
+)
+
+def on_event(partition_context, event):
+    print(f"Event: {event.body_as_str()}")
+    partition_context.update_checkpoint(event)  # <- triggers checkpoint
+
+with client:
+    client.receive(on_event=on_event, starting_position="-1")
+```
+
+- Each event triggers a checkpoint update.
+- **Automatic** in the sense that once you call `update_checkpoint()`, the SDK writes the offset into your blob store automatically.
+- Ideal for **simple consumers** or **no at-least-once requirement**.
+
+### Manual Checkpointing
+
+You choose _when_ to mark progress.
+
+This gives control for **exactly-once** or **at-least-once** semantics and to avoid checkpointing failed batches.
+
+```python
+def on_event_batch(partition_context, events):
+    print(f"Received {len(events)} events")
+
+    try:
+        process_events(events)
+        # checkpoint only after processing is successful
+        last_event = events[-1]
+        partition_context.update_checkpoint(last_event)
+    except Exception as e:
+        print(f"Processing failed: {e}, skipping checkpoint")
+```
+
+You decide:
+
+- **How frequently** (every N messages, every minute, or end of batch).
+- **On success only** (avoid corrupt progress tracking on failure).
+- **What to store** (latest processed event only).
+
 ## Comparison of Event hubs and Confluent Cloud
 
 ### Azure Event Hubs

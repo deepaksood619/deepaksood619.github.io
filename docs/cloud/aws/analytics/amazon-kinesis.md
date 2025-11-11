@@ -38,6 +38,12 @@ AWS Kinesis is a powerful tool for any application or system that requires real-
 
 [Managed Streaming Data Service | Amazon Kinesis Data Streams Pricing | Amazon Web Services](https://aws.amazon.com/kinesis/data-streams/pricing/)
 
+### Enhanced Fan-Out
+
+Enhanced fan-out allows developers to scale up the number of stream consumers (applications reading data from a stream in real-time) by offering each stream consumer its own read throughput. Meanwhile, the HTTP/2 data retrieval API allows data to be delivered from producers to consumers in 70 milliseconds or better (a 65% improvement) in typical scenarios. These new features enable developers to build faster, more reactive, highly parallel, and latency-sensitive applications on top of Kinesis Data Streams.
+
+[Amazon Kinesis Data Streams Adds Enhanced Fan-Out and HTTP/2 for Faster Streaming \| AWS News Blog](https://aws.amazon.com/blogs/aws/kds-enhanced-fanout/)
+
 ### Provisioned vs On-demand
 
 | **Feature**             | **Provisioned Mode**                                                                         | **On-Demand Mode**                                                                        |

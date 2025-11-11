@@ -15,7 +15,7 @@ To get started using OpenSearch Service, you create an OpenSearch Service _doma
 
 [What is Amazon OpenSearch Service? - Amazon OpenSearch Service](https://docs.aws.amazon.com/opensearch-service/latest/developerguide/what-is.html)
 
-## OpenSearch Ingestion
+## OpenSearch Ingestion (OSI)
 
 Amazon OpenSearch Ingestion is a fully managed, serverless data collector that streams real-time logs, metrics, and trace data to Amazon OpenSearch Service domains and OpenSearch Serverless collections.
 

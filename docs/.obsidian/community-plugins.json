@@ -5,5 +5,8 @@
   "url-into-selection",
   "obsidian-reveal-active-file",
   "editing-toolbar",
-  "obsidian-regex-replace"
+  "obsidian-regex-replace",
+  "obsidian-pandoc",
+  "omnisearch",
+  "meld-encrypt"
 ]

@@ -14925,5 +14925,7 @@
 14910. [Amtrak's Subtle, Surprising Success](https://youtu.be/dXC_IPcDW_A)
 14911. [The IIM Grad Who Built His Own Path to Financial Freedom](https://youtu.be/JoZezOdeQ_o)
 14912. [Sir Isaac Newton and the Unfair Reputation of Alchemy](https://youtu.be/PlUZv0BV7aw)
+14913. [Felony Murder: Last Week Tonight with John Oliver (HBO) - YouTube](https://www.youtube.com/watch?v=Y93ljB7sfco)
+14914. [Michael Burry’s New Warning About the AI Bubble - YouTube](https://www.youtube.com/watch?v=C_h7l6FZSS4)
 
 ## End

@@ -225,6 +225,30 @@ WHERE rn = 1;
 
 [ChatGPT - SQL interview questions](https://chatgpt.com/share/69019e55-5d84-8008-9b05-83dd7f4143e5)
 
+## Sample Schema
+
+Real estate agents purchase our advertising product, Premier Agent, on a monthly basis. Let’s assume we have a table which stores `AgentID, Month, Spend`.
+
+**Write a query to track the following 4 metrics every month (relative to the prior month):**
+
+- **New Purchase**, which is the spend from a new agent who joined Zillow’s platform that month
+- **Mod-Up**, which is the increase in spend from an agent in a given month relative to the previous month
+- **Cancel**, which is the spend we’ve lost from an agent who cancelled their spend at the end of the previous month
+- **Mod-Down**, which is the decrease in spend from an agent in a given month relative to the previous month
+
+The final product should be a summary table showing the total for each metric.
+
+**Monthly_Spend**
+
+|Zuid|Month|Spend|
+|---|---|---|
+|123|2020-01-01|$100|
+|123|2020-02-01|$150|
+|456|2020-01-01|$75|
+
+- **[execution time limit] 10 seconds (mysql)**
+- **[memory limit] 1 GB**
+
 ## SQL Questions
 
 1. Find the **3rd highest salary** in a company, returning all employees who have that salary.
