@@ -45,14 +45,17 @@ This makes it decoupled and isolated from the services you want to expose. It al
 - HAProxy
 - Istio Ingress Gateway
 - Nginx Ingress Controller
+	- [Ingress NGINX Retirement: What You Need to Know \| Kubernetes](https://kubernetes.io/blog/2025/11/11/ingress-nginx-retirement/)
+	- The CNCF community has announced the retirement of the NGINX Ingress Controller, and it will continue to be supported until March 2026. After that, it will transition to end-of-life status.
+	- They have created a new project called Gateway API, which is more centric to HTTP-based traffic management in Kubernetes. They are suggesting that we can either migrate to the Gateway API or use a cloud-based ingress controller, such as the GKE ingress controller or the ALB ingress controller.
+	- [Getting started - Kubernetes Gateway API](https://gateway-api.sigs.k8s.io/guides/)
 - Ambassador
-
-https://www.nginx.com/blog/testing-performance-nginx-ingress-controller-kubernetes
-
 - Voyager
 - Contour
 - Gloo
 - Skipper
+
+[Testing the Performance of NGINX Ingress Controller for Kubernetes – NGINX Community Blog](https://www.nginx.com/blog/testing-performance-nginx-ingress-controller-kubernetes)
 
 ![image](../../../media/DevOps-Kubernetes-Ingress-image2.jpg)
 

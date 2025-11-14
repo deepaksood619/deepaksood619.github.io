@@ -38,6 +38,12 @@ Use data to help a company make decisions
 - What should we do about the particular types of customers that are prone to churn?
 - How should we market a home to sell quickly, given its location and number of rooms?
 
+Prescriptive analytics **uses data, algorithms, and machine learning to recommend the best course of action to achieve a specific goal**, going beyond predicting future outcomes to suggest "what should we do?". It optimizes processes, resource allocation, and decision-making by simulating various strategies and presenting the optimal one based on predicted outcomes and business rules.
+
+### Difference
+
+**Descriptive analytics explains what happened in the past, predictive analytics forecasts what is likely to happen in the future, and prescriptive analytics recommends the best course of action to take**. Descriptive analytics uses historical data to find patterns and answer "what happened?". Predictive analytics uses statistical models and historical data to forecast future outcomes and answer "what might happen?". Prescriptive analytics builds on these to suggest specific actions and answer "what should we do?".
+
 ## Fields
 
 ### Data Analysis

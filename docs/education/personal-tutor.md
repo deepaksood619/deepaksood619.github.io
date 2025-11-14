@@ -208,6 +208,7 @@ TODO - 2025-03-07, 2025-04-03
 - [My Job Grow - Your Gateway to Career Success and Growth](https://www.myjobgrow.com/)
 - [Outskill: AI Upskilling for Modern Careers](https://www.outskill.com/)
 - [Let Grow - When Adults Step Back, Kids Step Up.](https://letgrow.org/)
+- [IIT Factory: A small village in Bihar sends more students to IIT than most big cities](https://www.moneycontrol.com/education/iit-factory-of-india-this-small-village-sends-more-students-to-iit-than-most-big-cities-article-13664389.html)
 
 ### People
 

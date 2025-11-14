@@ -6,14 +6,20 @@ EBS volumes are network-attached storage that persists independently from the ru
 
 The volumes types fall into two categories:
 
-- SSD-backed volumes optimized for transactional workloads involving frequent read/write operations with small I/O size, where the dominant performance attribute is IOPS
-- HDD-backed volumes optimized for large streaming workloads where throughput (measured in MiB/s) is a better performance measure than IOPS
+- **SSD-backed** volumes optimized for transactional workloads involving frequent read/write operations with small I/O size, where the dominant performance attribute is IOPS
+- **HDD-backed** volumes optimized for large streaming workloads where throughput (measured in MiB/s) is a better performance measure than IOPS
 
 [Amazon EBS volume types - Amazon EBS](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volume-types.html)
 
 ## Durability & availability
 
-Amazon EBS cloud service is designed to be highly available and reliable. As mentioned earlier EBS volumes data is replicated across multiple servers within availability zones. Taking snapshots of your EBS volumes increases the durability of the data stored on your EBS volumes. Furthermore, EBS volumes are designed for anAnnual Failure Rate (AFR)of between0.1 and 0.2 percent, where failure refers to a complete or partial loss of the volume, depending on the size and performance of the volume.
+Amazon EBS cloud service is designed to be highly available and reliable. As mentioned earlier EBS volumes data is replicated across multiple servers within availability zones. Taking snapshots of your EBS volumes increases the durability of the data stored on your EBS volumes. Furthermore, EBS volumes are designed for an Annual Failure Rate (AFR)of between 0.1 and 0.2 percent, where failure refers to a complete or partial loss of the volume, depending on the size and performance of the volume.
+
+### Termination
+
+When you launch an instance, the root device volume contains the image used to boot the instance. You can choose between AMIs backed by Amazon EC2 instance store and AMIs backed by Amazon EBS.
+
+By default, the root volume for an AMI backed by Amazon EBS is deleted when the instance terminates. You can change the default behavior to ensure that the volume persists after the instance terminates. Non-root EBS volumes remain available even after you terminate an instance to which the volumes were attached.
 
 ## Security
 
@@ -33,6 +39,8 @@ Amazon Elastic Block Store (Amazon EBS) provides block-level storage volumes for
 | **Use cases**   | Recommended for most workloads; System boot volumes; Virtual desktops; Low-latency interactive apps; Development and test environments; Critical business applications that require sustained IOPS performance, or more than 16,000 IOPS or 250 MiB/s of throughput per volume; Large database workloads, such as:; MongoDB; Cassandra; Microsoft SQL Server; MySQL; PostgreSQL; Oracle; Streaming workloads requiring consistent, fast throughput at a low price; Big data; Data warehouses; Log processing; Cannot be a boot volume; Throughput-oriented storage for large volumes of data that is infrequently accessed; Scenarios where the lowest storage cost is important; Cannot be a boot volume |                                                                                              |                                                                                      |                                                                        |
 | **Pricing**     | $0.114per GB-month of provisioned storage                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | $0.131per GB-month of provisioned storage AND$0.068per provisioned IOPS-month                | $0.051per GB-month of provisioned storage                                            | $0.029per GB-month of provisioned storage                              |
 
+## Pricing
+
 EBS Pricing - 100 GB - $11.4 per month
 
 S3 Pricing - 100 GB - $2.5 per month
@@ -47,7 +55,7 @@ S3 Glacier Deep Archive** - For long-term data archiving that is accessed once o
 
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html
 
-### Amazon EBS Multi-Attach
+## Amazon EBS Multi-Attach
 
 Amazon EBS Multi-Attach enables you to attach a single Provisioned IOPS SSD (io1 or io2) volume to multiple instances that are in the same Availability Zone. You can attach multiple Multi-Attach enabled volumes to an instance or set of instances. Each instance to which the volume is attached has full read and write permission to the shared volume. Multi-Attach makes it easier for you to achieve higher application availability in clustered Linux applications that manage concurrent write operations.
 

@@ -283,7 +283,7 @@ We are growing at an incredible pace and we are looking for someone who has the 
 - An entrepreneurial spirit combined with strong program and product management skills
 - High adaptability in a dynamic start-up environment
 
-## Job Description: Data Engineer (with Cloud, DW, and GenAI/ML Exposure)
+## Data Engineer (with Cloud, DW, and GenAI/ML Exposure)
 
 We are looking for a highly skilled **Data Engineer** who will play a key role in designing, developing, and maintaining robust data infrastructure and pipelines. This role demands a hands-on expert with experience across the **big data ecosystem**, **data warehousing**, and **modern cloud environments** (AWS/GCP/Azure). The ideal candidate will have a solid foundation in both **RDBMS and NoSQL databases**, be proficient in coding, and demonstrate exposure to **data science**, **machine learning (ML)** and **generative AI (GenAI)** technologies.
 
@@ -347,7 +347,7 @@ We are looking for a **Data Engineering Intern** who is eager to learn and contr
 
 This internship is a **hands-on opportunity** to explore modern data engineering practices and build skills that bridge the gap between traditional data systems and emerging AI technologies. You'll work closely with senior engineers and AI practitioners to contribute to impactful, production-grade systems.
 
-## Job Description: Senior AI & Data Architect
+## Senior AI & Data Architect
 
 ### About the Role
 

@@ -6,9 +6,9 @@ Amazon FSx for Windows File Server provides fully managed, highly reliable file 
 
 Amazon FSx for Windows is a perfect distributed file system, with replication capability, and can be mounted on Windows.
 
-Amazon FS for Windows File Server provides fully managed, highly reliable, and scalable file storage that is accessible over the industry-standard Server Message Block (SMB) protocol. It is built on Windows Server, delivering a wide range of administrative features such as user quotas, end-user file restore, and Microsoft Active Directory (AD) integration. **It offers single-AZ and multi-AZ deployment options, fully managed backups, and encryption of data at rest and in transit.** You can optimize cost and performance for your workload needs with SSD and HDD storage options; and you can scale storage and change the throughput performance of your file system at any time.
+Amazon FSs for Windows File Server provides fully managed, highly reliable, and scalable file storage that is accessible over the industry-standard Server Message Block (SMB) protocol. It is built on Windows Server, delivering a wide range of administrative features such as user quotas, end-user file restore, and Microsoft Active Directory (AD) integration. **It offers single-AZ and multi-AZ deployment options, fully managed backups, and encryption of data at rest and in transit.** You can optimize cost and performance for your workload needs with SSD and HDD storage options; and you can scale storage and change the throughput performance of your file system at any time.
 
-With Amazon FS, you get highly available and durable file storage starting from $0.013 per GB-month. **Data deduplication** enables you to optimize costs even further by removing redundant data. You can increase your file system storage and scale throughput capacity at any time, making it easy to respond to changing business needs. There are no upfront costs or licensing fees.
+With Amazon FSx, you get highly available and durable file storage starting from $0.013 per GB-month. **Data deduplication** enables you to optimize costs even further by removing redundant data. You can increase your file system storage and scale throughput capacity at any time, making it easy to respond to changing business needs. There are no upfront costs or licensing fees.
 
 ## Amazon FSx for Lustre
 
@@ -34,6 +34,8 @@ While Amazon FSx for Lustre integrated with Amazon S3 is a powerful solution for
 ## Amazon FSx for Lustre vs Amazon FSx for Windows File Server
 
 **Amazon FSx for Lustre** is built for extreme performance in high-throughput, compute-intensive workloads like HPC, machine learning, and financial analytics, offering sub-millisecond latencies and millions of IOPS through its Lustre foundation. In contrast, **Amazon FSx for Windows File Server** is a fully managed service for Windows-based enterprise applications, providing native Microsoft Active Directory (AD) integration, end-user file restore, and Data Deduplication via the SMB protocol for common business workloads like file sharing and general-purpose processing.
+
+Amazon FSx for Windows File Server provides fully managed, highly reliable file storage that is accessible over the industry-standard **Service Message Block (SMB)** protocol. It is built on Windows Server, delivering a wide range of administrative features such as **user quotas, end-user file restore, and Microsoft Active Directory (AD) integration**. FSx for Windows does not allow you to present S3 objects as files and does not allow you to write changed data back to S3. Therefore you cannot reference the "cold data" with quick access for reads and updates at low cost. Hence this option is not correct.
 
 ## Amazon FSx for ONTAP
 

@@ -125,6 +125,7 @@ AWS CloudFormation utilizes templates, stacks, and stack sets to manage infrastr
 2. AWS Config - Track Resource Inventory and Changes
 	1. There are two frequencies at which AWS Config can deliver configuration items: periodic and continuous. Periodic recording delivers configuration data once every 24 hours, only if a change has occurred, which may be useful for use cases such as operational planning or audit. Continuous recording delivers configuration items whenever a change occurs. It helps you meet security and compliance requirements to track all configuration changes.
 	2. AWS Config provides AWS-managed rules, which are predefined, customizable rules that AWS Config uses to evaluate whether your AWS resources comply with common best practices. You can leverage an AWS Config managed rule to check if any ACM certificates in your account are marked for expiration within the specified number of days. Certificates provided by ACM are automatically renewed. ACM does not automatically renew the certificates that you import. The rule is NON_COMPLIANT if your certificates are about to expire.
+		1. Identifier - ACM_CERTIFICATION_EXPIRATION_CHECK
 	3. You can configure AWS Config to stream configuration changes and notifications to an Amazon SNS topic. For example, when a resource is updated, you can get a notification sent to your email, that you can view the changes. You can also be notified when AWS Config evaluates your custom or managed rules against your resources.
 3. AWS OpsWorks - Automate Operations with Chef and Puppet
 	1. OpsWorks is a configuration management service that helps you configure and operate applications in a cloud enterprise by using Puppet or Chef. OpsWorks Stacks and AWS OpsWorks for Chef Automate let you use Chef cookbooks and solutions for configuration management, while OpsWorks for Puppet Enterprise lets you configure a Puppet Enterprise master server in AWS. Puppet offers a set of tools for enforcing the desired state of your infrastructure, and automating on-demand tasks.
@@ -134,8 +135,6 @@ AWS CloudFormation utilizes templates, stacks, and stack sets to manage infrastr
 	3. Service Catalog allows organizations to centrally manage commonly deployed IT services, and helps organizations achieve consistent governance and meet compliance requirements. End users can quickly deploy only the approved IT services they need, following the constraints set by your organization.
 5. AWS Systems Manager - Gain Operational Insights and Take Action
 6. AWS Trusted Advisor - Optimize costs, improve performance, and address security gaps
-    1. [How do I start using Trusted Advisor? - YouTube](https://www.youtube.com/watch?v=i0IkKN9NoPk)
-    2. Minimum spend of $29.00 or 3% of monthly AWS charges, whichever is higher
 7. AWS Personal Health Dashboard - Personalized View of AWS Service Health
 
 ## Media Services

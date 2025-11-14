@@ -84,7 +84,7 @@ To securely serve this private content by using Amazon CloudFront, you can do th
 
 Require that your users access your private content by using special Amazon CloudFront signed URLs or signed cookies.
 
-A signed URL includes additional information, for example, expiration date and time, that gives you more control over access to your content.
+**A signed URL** includes additional information, for example, expiration date and time, that gives you more control over access to your content.
 
 **Amazon CloudFront signed cookies** allow you to control who can access your content when you don't want to change your current URLs or when you want to provide access to multiple restricted files, for example, all of the files in the subscribers' area of a website.
 

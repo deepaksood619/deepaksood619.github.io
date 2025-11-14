@@ -132,6 +132,10 @@ After you promote the read replica, it ceases to function as a read replica and 
 
 - Allow inbound access in default security group after public access too of database to be reachable from other places
 
+### Security
+
+You can use Secure Socket Layer / Transport Layer Security (SSL/TLS) connections to encrypt data in transit. Amazon RDS creates an SSL certificate and installs the certificate on the DB instance when the instance is provisioned. For MySOL, you launch the MySOL client using the `--ssl_ca parameter` to reference the public key to encrypt connections. Using SSL, you can encrypt a PostgreSQL connection between your applications and your PostgreSQL DB instances. You can also force all connections to your PostgreSOL DB instance to use SSL.
+
 ## Maintenance
 
 Running a DB instance as a Multi-AZ deployment can further reduce the impact of a maintenance event because Amazon RDS applies operating system updates by following these steps:

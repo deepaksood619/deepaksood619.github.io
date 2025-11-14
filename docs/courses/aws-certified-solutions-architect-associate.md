@@ -20,3 +20,4 @@ The exam has the following content domains and weightings:
 	- Gateway endpoints
 - Transit Gateway
 - AWS PrivateLink
+- Storage - SMB, Lustre, etc

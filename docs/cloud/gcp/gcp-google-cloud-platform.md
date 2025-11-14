@@ -115,9 +115,16 @@ Unified stream and batch data processing that's serverless, fast, and cost-effec
 
 ## Storage and Databases
 
-### Cloud Storage
+### Google Cloud Storage (GCS)
 
 Geo-redundant object storage for high QPS (Query Per Second) needs
+
+**Storage classes**: You can define rules to move objects between GCS storage classes to reduce costs. For example:
+
+- **Standard**: Best for frequently accessed data.
+- **Nearline**: Suitable for data accessed less than once a month.
+- **Coldline**: For data accessed less than once a quarter.
+- **Archive**: The lowest-cost option for data accessed less than once a year. It has a 365-day minimum storage duration and higher data access costs.
 
 ### gsutil
 

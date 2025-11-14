@@ -32,3 +32,13 @@ Similarly, if you are transitioning noncurrent objects (in versioned buckets), y
 To delete an AWS S3 bucket with 500TB of data, the fastest and most cost-effective solution would be to use the S3 Lifecycle configuration.
 
 [Deleting a S3 bucket of size 500 TB | AWS re:Post](https://repost.aws/questions/QU5FKQm2XFSaCfNyYKHfzbRw/deleting-a-s3-bucket-of-size-500-tb)
+
+## Rule Priorities
+
+When you have multiple rules in an S3 Lifecycle configuration, an object can become eligible for multiple S3 Lifecycle actions on the same day. In such cases, Amazon S3 follows these general rules:
+
+- Permanent deletion takes precedence over transition.
+- Transition takes precedence over creation of [delete markers](https://docs.aws.amazon.com/AmazonS3/latest/userguide/DeleteMarker.html).
+- When an object is eligible for both a S3 Glacier Flexible Retrieval and S3 Standard-IA (or S3 One Zone-IA) transition, Amazon S3 chooses the S3 Glacier Flexible Retrieval transition.
+
+[How S3 Lifecycle interacts with other bucket configurations - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/lifecycle-and-other-bucket-config.html)

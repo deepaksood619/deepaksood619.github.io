@@ -77,6 +77,10 @@ LUT - Letter of Undertaking
 
 Consultant’s whose income exceeds Rs.10 lakh must get their expenses audited by a chartered accountant. Consultant trades off less tax for more paperwork. **The highest tax charged for a consultant is 11.33%** which includes the educational cess whereas an employee can get charged 33.99% as the highest tax.
 
+[Can I get consulting income while being salaried? : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/11pzshr/can_i_get_consulting_income_while_being_salaried/)
+
+[In India, can I receive a salary from a full-time job in one company and a professional fee as a consultant in another company? How does the tax return filing work in this case, as one’s income came from two different sources? - Quora](https://www.quora.com/In-India-can-I-receive-a-salary-from-a-full-time-job-in-one-company-and-a-professional-fee-as-a-consultant-in-another-company-How-does-the-tax-return-filing-work-in-this-case-as-one-s-income-came-from-two-different)
+
 ### Deductions
 
 - Rent of the property

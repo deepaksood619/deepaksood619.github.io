@@ -67,6 +67,7 @@ https://haydenjames.io/linux-networking-commands-scripts
 59. [Wireless Tools for Linux](https://hewlettpackard.github.io/wireless-tools/Tools.html)-- includesiwconfig, iwlist, iwspy, iwpriv andifrename.
 60. [Wireshark](https://www.wireshark.org/)--network protocol analyzer.
 61. FRP - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. - https://github.com/fatedier/frp
+62. UFW - Uncomplicated Firewall (UFW), is **a user-friendly command-line tool for managing the netfilter firewall in Linux, especially Ubuntu**. It serves as a frontend for iptables, simplifying complex firewall rules by using a small number of straightforward commands. UFW allows users to easily create rules to allow or block network traffic based on ports, protocols, and IP addresses.
 
 ![Linux Performance Observability Tools](../../media/Pasted%20image%2020240213012455.jpg)
 

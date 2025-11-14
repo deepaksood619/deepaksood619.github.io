@@ -61,6 +61,8 @@ When you enable caching within a stage's **Cache settings**, only `GET` metho
 
 **Answer -** A Direct Connect gateway is a global resource that allows VPCs in any AWS Region (except China) to connect to Direct Connect via virtual private gateways (VGWs). By connecting both Direct Connect links to the same DX gateway and associating the VGWs of all relevant VPCs, the company can enable transitive routing across Regions and between on-premises locations and VPCs — without setting up complex peering or custom VPN appliances.
 
+**DataSync with Direct Connect** - Configure an AWS DataSync agent on the on-premises server that has access to the NFS file system. Transfer data over the AWS Direct Connect connection to an AWS PrivateLink interface VPC endpoint for Amazon EFS by using a private VIF. Set up an AWS DataSync scheduled task to send the video files to the Amazon EFS file system every 24 hours
+
 [What is AWS Direct Connect? - AWS Direct Connect](https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html)
 
 [Hybrid cloud architectures using AWS Direct Connect gateway \| Networking & Content Delivery](https://aws.amazon.com/blogs/networking-and-content-delivery/hybrid-cloud-architectures-using-aws-direct-connect-gateway/)
@@ -81,7 +83,7 @@ To connect to AWS resources that are reachable by a public IP address such as an
 
 To connect to your resources hosted in an Amazon Virtual Private Cloud (Amazon VPC) using their private IP addresses, use a private virtual interface. With a private virtual interface, you can:
 
-- Connect VPC resources such as Amazon Elastic Compute Cloud (Amazon EC2) instances or load balancers on your private IP address or endpoint.
+- Connect VPC resources such as Amazon Elastic Compute Cloud (Amazon EC2) instances, EFS or load balancers on your private IP address or endpoint.
 - Connect a private virtual interface to a Direct Connect gateway. Then, associate the Direct Connect gateway with one or more virtual private gateways in any AWS Region (except the AWS China Region).
 - Connect to multiple Amazon VPCs in any AWS Region (except the AWS China Region), because a virtual private gateway is associated with a single VPC.
 

@@ -77,6 +77,8 @@ NOTE:
 1. We can use this AWS service for Databases running on EC2 for rightsizing recommendation
 2. It did not provide recommendations specifically for Amazon RDS
 
+AWS Compute Optimizer recommends optimal AWS Compute resources for your workloads to reduce costs and improve performance by using machine learning to analyze historical utilization metrics. Over-provisioning compute can lead to unnecessary infrastructure cost and under-provisioning compute can lead to poor application performance. Compute Optimizer helps you choose the optimal Amazon EC2 instance types, including those that are part of an Amazon EC2 Auto Scaling group, based on your utilization data. **It does not recommend instance purchase options.**
+
 #### Supported resources and requirements
 
 Compute Optimizer generates recommendations for the following resources:
@@ -101,6 +103,11 @@ Compute Optimizer generates recommendations for the following resources:
 	- Service Limits
 
 [Organizational view for AWS Trusted Advisor - AWS Support](https://docs.aws.amazon.com/awssupport/latest/user/organizational-view.html)
+
+1. [How do I start using Trusted Advisor? - YouTube](https://www.youtube.com/watch?v=i0IkKN9NoPk)
+2. Minimum spend of $29.00 or 3% of monthly AWS charges, whichever is higher
+
+**Use AWS Trusted Advisor checks on Amazon EC2 Reserved Instances to automatically renew reserved instances (RI).** - AWS Trusted advisor also suggests Amazon RDS idle database instances - AWS Trusted Advisor checks for Amazon EC2 Reserved Instances that are scheduled to expire within the next 30 days or have expired in the preceding 30 days. Reserved Instances do not renew automatically; you can continue using an Amazon EC2 instance covered by the reservation without interruption, but you will be charged On-Demand rates. AWS Trusted advisor does not have a feature to auto-renew Reserved Instances.
 
 ## CUDOS Dashboard / CID (Cloud Intelligence Dashboard)
 

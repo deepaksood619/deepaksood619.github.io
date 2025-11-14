@@ -143,11 +143,29 @@ AWS Shield Standard and AWS Shield Advanced provide protections against Distribu
 
 [How AWS Shield and Shield Advanced work - AWS WAF, AWS Firewall Manager, AWS Shield Advanced, and AWS Shield network security director](https://docs.aws.amazon.com/waf/latest/developerguide/ddos-overview.html)
 
+### AWS Shield Advanced
+
+AWS Shield Advanced is a managed service that helps you protect your application against external threats, like DDoS attacks, volumetric bots, and vulnerability exploitation attempts. For higher levels of protection against attacks, you can subscribe to AWS Shield Advanced.
+
+When you subscribe to Shield Advanced and add protection to your resources, Shield Advanced provides expanded DDoS attack protection for those resources. The protections that you receive from Shield Advanced can vary depending on your architecture and configuration choices. Use the information in this guide to build and protect resilient applications using Shield Advanced, and to escalate when you need expert help.
+
+If your organization has multiple AWS accounts, then you can subscribe multiple AWS Accounts to AWS Shield Advanced by individually enabling it on each account using the AWS Management Console or API. You will pay the monthly fee once as long as the AWS accounts are all under a single consolidated billing, and you own all the AWS accounts and resources in those accounts.
+
+[AWS Shield Advanced overview - AWS WAF, AWS Firewall Manager, AWS Shield Advanced, and AWS Shield network security director](https://docs.aws.amazon.com/waf/latest/developerguide/ddos-advanced-summary.html)
+
 ## AWS Firewall manager
 
 AWS Firewall Manager is a security management service which allows you to centrally configure and manage firewall rules across your accounts and applications in AWS Organizations. As new applications are created, Firewall Manager makes it easy to bring new applications and resources into compliance by enforcing a common set of security rules. Now you have a single service to build firewall rules, create security policies, and enforce them in a consistent, hierarchical manner across your entire infrastructure.
 
-Using AWS Firewall Manager, you can centrally configure AWS WAF rules, AWS Shield Advanced protection, Amazon Virtual Private Cloud (VPC) security groups, AWS Network Firewalls, and Amazon Route 53 Resolver DNS Firewall rules across accounts and resources in your organization. It does not support Network ACLs as of today.
+Using AWS Firewall Manager, you can centrally configure
+
+- AWS WAF rules
+- AWS Shield Advanced protection
+- Amazon Virtual Private Cloud (VPC) security groups
+- AWS Network Firewalls
+- Amazon Route 53 Resolver DNS Firewall rules,
+
+across accounts and resources in your organization. It does not support Network ACLs as of today.
 
 [FAQs \| AWS Firewall Manager \| Amazon Web Services (AWS)](https://aws.amazon.com/firewall-manager/faqs/)
 
@@ -163,7 +181,21 @@ This finding informs you that the listed Amazon EC2 instance in your AWS environ
 
 If you use the Amazon EC2 instance to mine or manage cryptocurrency, or this instance is otherwise involved in blockchain activity, this finding could represent expected activity for your environment. If this is the case in your AWS environment, AWS recommends that you set up a suppression rule for this finding.
 
+Amazon GuardDuty is a threat detection service that continuously monitors for **malicious activity and unauthorized behavior to protect your AWS accounts, workloads, and data stored in Amazon S3.** With the cloud, the collection and aggregation of account and network activities is simplified, but it can be time-consuming for security teams to continuously analyze event log data for potential threats. With GuardDuty, you now have an intelligent and cost-effective option for continuous threat detection in AWS. The service uses machine learning, anomaly detection, and integrated threat intelligence to identify and prioritize potential threats.
+
+Amazon GuardDuty analyzes tens of billions of events across multiple AWS data sources, such as **AWS Cloud Trail events, Amazon VPC Flow Logs, and DNS logs.**
+
+With a few clicks in the AWS Management Console, GuardDuty can be enabled with no software or hardware to deploy or maintain. By integrating with Amazon EventBridge Events, GuardDuty alerts are actionable, easy to aggregate across multiple accounts, and straightforward to push into existing event management and workflow systems.
+
 [Amazon GuardDuty](https://aws.amazon.com/guardduty/)
+
+### GuardDuty foundational data sources
+
+- **AWS CloudTrail management event logs:** These logs provide a record of actions taken by users, roles, or AWS services in your AWS account, offering insights into control plane activity.
+- **Amazon VPC Flow Logs:** These logs capture information about the IP traffic going to and from network interfaces in your Amazon Virtual Private Cloud (VPC), providing visibility into network activity.
+- **DNS logs:** GuardDuty monitors DNS query logs to identify communication with known malicious domains and detect anomalous DNS activity.
+
+[GuardDuty foundational data sources - Amazon GuardDuty](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_data-sources.html)
 
 ## Others
 

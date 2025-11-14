@@ -173,6 +173,10 @@ https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates
 
 ![Kafka with KRaft](../../media/Pasted%20image%2020240808170843.jpg)
 
+- [KRaft Overview \| Confluent Documentation](https://docs.confluent.io/platform/7.4/kafka-metadata/kraft.html)
+	- Currently, migration from ZooKeeper to KRaft is not supported for Confluent Platform. You should choose how metadata is managed when you create an Kafka cluster. (solved in newer versions)
+	- Combined mode, where a Kafka node acts as a broker and also a KRaft controller, is not currently supported for production workloads. There are key security and feature gaps between combined mode and isolated mode in Confluent Platform.
+
 ## Best Practices
 
 - https://www.infoq.com/articles/apache-kafka-best-practices-to-optimize-your-deployment

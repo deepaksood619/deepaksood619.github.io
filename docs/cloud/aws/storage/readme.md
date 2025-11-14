@@ -148,7 +148,10 @@ Petabyte-scale Data Transport with On-board Compute
 
 The main difference is that **AWS Snowball is a service primarily for data migration, while AWS Snowball Edge is a device that adds on-board compute capabilities to the original data transfer function, enabling edge computing**. Snowball Edge can run EC2 instances and Lambda functions directly on the device, making it suitable for tasks like local data processing, analytics, and machine learning in remote locations with limited or no internet access.
 
-AWS Snowball, a part of the AWS Snow Family, is a data migration and edge computing device that comes in two options. Snowball Edge Storage Optimized devices provide both block storage and Amazon S3-compatible object storage, and 40 vCPUs. They are well suited for local storage and large scale data transfer. AWS Snowball Edge Compute Optimized devices provide 52 vCPUs, block and object storage, and an optional GPU for use cases like advanced machine learning and full-motion video analysis in disconnected environments.
+AWS Snowball, a part of the AWS Snow Family, is a data migration and edge computing device that comes in two options.
+
+1. **AWS Snowball Edge Storage Optimized** devices provide both block storage and Amazon S3-compatible object storage, and 40 vCPUs. They are well suited for local storage and large scale data transfer.
+2. **AWS Snowball Edge Compute Optimized** devices provide 52 vCPUs, block and object storage, and an optional GPU for use cases like advanced machine learning and full-motion video analysis in disconnected environments.
 
 AWS Snowball Edge Storage Optimized is the optimal choice if you need to securely and quickly transfer dozens of terabytes to petabytes of data to AWS. It provides up to 80 terabytes of usable HDD storage, 40 vCPUs, 1 terabyte of SATA SSD storage, and up to 40 gigabytes network connectivity to address large scale data transfer and pre-processing use cases.
 
@@ -156,7 +159,7 @@ The original AWS Snowball devices were transitioned out of service and AWS Snowb
 
 If you want to minimize the time spent in Amazon S3 Standard for all files to avoid unintended Amazon S3 Standard storage charges. To do this, AWS recommends using a zero-day lifecycle policy. From a cost perspective, when using a zero-day lifecycle policy, you are only charged Amazon S3 Glacier Deep Archive rates. When billed, the lifecycle policy is accounted for first, and if the destination is Amazon S3 Glacier Deep Archive, you are charged Amazon S3 Glacier Deep Archive rates for the transferred files.
 
-You can't move data directly from AWS Snowball into Amazon S3 Glacier, you need to go through Amazon S3 first, and then use a lifecycle policy. So this option is correct.
+You can't move data directly from AWS Snowball into Amazon S3 Glacier, you need to go through Amazon S3 first, and then use a lifecycle policy.
 
 - [Getting 100TB of Data to the Cloud with AWS Snowball Edge Storage Optimized Devices - YouTube](https://www.youtube.com/watch?v=BIx9bbe58K8)
 

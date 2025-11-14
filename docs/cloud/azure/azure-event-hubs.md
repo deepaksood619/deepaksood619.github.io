@@ -128,6 +128,23 @@ with client:
     )
 ```
 
+```json
+{
+    "version": "2.0",
+    "extensions": {
+        "eventHubs": {
+            "maxEventBatchSize" : 100,
+            "minEventBatchSize" : 25,
+            "maxWaitTime" : "00:05:00",
+            "batchCheckpointFrequency" : 1,
+            "prefetchCount" : 300,
+        }
+    }
+}
+```
+
+[Azure Event Hub: Receive events as a batch that were sent to hub as individual messages? - Stack Overflow](https://stackoverflow.com/questions/76105351/azure-event-hub-receive-events-as-a-batch-that-were-sent-to-hub-as-individual-m)
+
 ### Key Parameters
 
 - **`receive_batch()`** allows you to fetch multiple events at once.

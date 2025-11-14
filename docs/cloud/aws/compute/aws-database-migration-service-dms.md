@@ -259,7 +259,22 @@ mysqldump --no-data --routines --events -h SOURCE_DB_SERVER_NAME -u DMS_USER -p 
 
 ## RDS to Data Lake
 
-[Step-by-step an Amazon RDS PostgreSQL database to an Amazon S3 data lake migration walkthrough - Database Migration Guide](https://docs.aws.amazon.com/dms/latest/sbs/postgresql-s3datalake.stepbystep.html)
+- [Step-by-step an Amazon RDS PostgreSQL database to an Amazon S3 data lake migration walkthrough - Database Migration Guide](https://docs.aws.amazon.com/dms/latest/sbs/postgresql-s3datalake.stepbystep.html)
+- [Using Amazon S3 as a target for AWS Database Migration Service - AWS Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.S3.html)
+- [Incremental copy of Amazon RDS MySQL table to Amazon S3 - AWS Data Pipeline](https://docs.aws.amazon.com/datapipeline/latest/DeveloperGuide/dp-template-incrementalcopyrdstos3.html)
+- [Automate ETL jobs between Amazon RDS for SQL Server and Azure Managed SQL using AWS Glue Studio \| AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/automate-etl-jobs-between-amazon-rds-for-sql-server-and-azure-managed-sql-using-aws-glue-studio/)
+- [Build an incremental data load solution using AWS DMS checkpoints and database logs \| AWS Database Blog](https://aws.amazon.com/blogs/database/build-an-incremental-data-load-solution-using-aws-dms-checkpoints-and-database-logs/)
+- Glue
+	- [Glue Job with load data incrementally \| AWS re:Post](https://repost.aws/questions/QUi1S8vTR2QPmllKUCyy3QxQ/glue-job-with-load-data-incrementally)
+	- [Build an ETL service pipeline to load data incrementally from Amazon S3 to Amazon Redshift using AWS Glue - AWS Prescriptive Guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/build-an-etl-service-pipeline-to-load-data-incrementally-from-amazon-s3-to-amazon-redshift-using-aws-glue.html)
+	- [Load data incrementally and optimized Parquet writer with AWS Glue \| AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/load-data-incrementally-and-optimized-parquet-writer-with-aws-glue/)
+
+### AWS Data Pipeline
+
+- AWS Data Pipeline is no longer available to new customers.
+	- [Migrate workloads from AWS Data Pipeline \| AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/migrate-workloads-from-aws-data-pipeline/)
+- [Migrating workloads from AWS Data Pipeline - AWS Data Pipeline](https://docs.aws.amazon.com/datapipeline/latest/DeveloperGuide/migration.html)
+- [What is AWS Data Pipeline? - AWS Data Pipeline](https://docs.aws.amazon.com/datapipeline/latest/DeveloperGuide/what-is-datapipeline.html)
 
 ## Links
 

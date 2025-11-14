@@ -167,3 +167,4 @@ You can either be TIME rich or you can be MONEY rich. But, smart people are both
 - [How much corpus do I need to retire in India?](https://freefincal.com/how-much-corpus-do-i-need-to-retire-in-india/)
 - [Should I sell equity and move to Debt to maintain a 50:50 allocation at retirement?](https://freefincal.com/should-i-sell-equity-and-move-to-debt-to-maintain-a-5050-allocation-at-retirement/)
 - [Labour costs are increasing in India - what does this mean for us?](https://freefincal.com/labour-costs-are-increasing-in-india-what-does-this-mean-for-us/)
+- [99% Rich People Do This: Money Making Habits & Opportunities \| Karan Bhagat \| FO431 Raj Shamani - YouTube](https://www.youtube.com/watch?v=bA5UANrRhe0)

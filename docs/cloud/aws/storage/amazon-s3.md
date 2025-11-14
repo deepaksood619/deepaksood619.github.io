@@ -85,6 +85,10 @@ Amazon S3 delivers [strong read-after-write consistency](https://aws.amazon.com/
 
 After a successful write of a new object, or an overwrite or delete of an existing object, any subsequent read request immediately receives the latest version of the object. S3 also provides strong consistency for list operations, so after a write, you can immediately perform a listing of the objects in a bucket with any changes reflected.
 
+Strong read-after-write consistency helps when you need to immediately read an object after a write. For example, strong read-after-write consistency when you often read and list immediately after writing objects.
+
+To summarize, all Amazon S3 GET, PUT, and LIST operations, as well as operations that change object tags, ACLs, or metadata, are strongly consistent. What you write is what you will read, and the results of a LIST will be an accurate reflection of what's in the bucket.
+
 [Amazon S3 Strong Consistency](https://aws.amazon.com/s3/consistency/)
 
 [Amazon S3 now delivers strong read-after-write consistency automatically for all applications](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-s3-now-delivers-strong-read-after-write-consistency-automatically-for-all-applications)
@@ -324,6 +328,14 @@ To identify buckets that have MFA delete enabled, you can use Amazon S3 Storage 
 
 The bucket owner, the AWS account that created the bucket (root account), and all authorized users can enable versioning. However, only the bucket owner (root account) can enable MFA delete.
 
+[Configuring MFA delete - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/MultiFactorAuthenticationDelete.html)
+
+[Turn on MFA delete for Amazon S3 bucket \| AWS re:Post](https://repost.aws/knowledge-center/s3-bucket-mfa-delete)
+
+[Deleting an object from an MFA delete-enabled bucket - Amazon Simple Storage Service](https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingMFADelete.html)
+
+- When you configure MFA delete, only the root user can permanently delete object versions or change the versioning configuration on your S3 bucket. You must use an MFA device to authenticate the root user to perform the delete action.
+
 ## TransactionManager (Speeds up s3 transfers)
 
 https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/examples-s3-transfermanager.html
@@ -397,7 +409,6 @@ Organizational and departmental requirements in this example:
 - The Operations department uses **application role 3,** and this role should enable members of this department to download objects if the prefix matches /Application3. This role also permits members of this department to delete objects in any of the application folders inside the S3 bucket.
 
 [Securing data in a virtual private cloud using Amazon S3 Access Points \| AWS Storage Blog](https://aws.amazon.com/blogs/storage/securing-data-in-a-virtual-private-cloud-using-amazon-s3-access-points/)
-
 
 While Amazon S3 access points simplify managing access to shared buckets across many applications or teams, they do not change the network path used to reach Amazon S3. Without a VPC endpoint, traffic using an access point still flows over the public internet.
 
