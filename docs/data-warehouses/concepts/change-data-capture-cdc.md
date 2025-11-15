@@ -115,6 +115,7 @@ This is **Maxwell's daemon**, a [change data capture](https://www.confluent.io/b
 - [Fivetran \| Automated data movement platform](https://www.fivetran.com/)
 - Talend
 - [Matillion \| Cloud-Native Data Integration With AI Built In](https://www.matillion.com/)
+	- [Matillion ETL Tool: Cloud-Based ETL Software for Data Integration](https://www.matillion.com/matillion-etl)
 - Integrate.io
 - Panoply
 - Informatica

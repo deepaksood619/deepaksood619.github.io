@@ -22,7 +22,7 @@ For example, a multi-asset fund might invest in equity, debt, as well as gold.
 
 ### Multi-Cap Funds vs Flexi-Cap (Flexicap) Funds
 
-Flexi-cap and multi-cap funds both invest across large, mid, and small-cap stocks, but multi-cap funds have a mandate to invest a minimum of 25% in each market cap category, while flexi-cap funds have more flexibility in allocating investments across market caps.
+Flexi-cap and multi-cap funds both invest across large, mid, and small-cap stocks, but **multi-cap funds have a mandate to invest a minimum of 25% in each market cap category**, while flexi-cap funds have more flexibility in allocating investments across market caps.
 
 | Particulars                 | Multi-Cap Funds                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Flexi-Cap Funds                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,23 +35,19 @@ Flexi-cap and multi-cap funds both invest across large, mid, and small-cap stock
 | **Who Should Invest?**      | Multi-Cap Funds are appropriate for those who are willing to take on more risk in exchange for greater profits. You'll need a longer investment horizon of at least 5-7 years due to the greater mid-cap and small-cap components.                                                                                                                                                                                                                                                                                                                                                                                                              | Flexi-Cap Funds may be of interest to investors looking for a large-cap-focused fund with a tactical allocation to mid-cap and small-cap stocks and invest money into the sector within a 5-year time horizon.                                                                                                                                                                                                                                                                                                                                                                        |
 | **Benefits**                | Multi-Cap Funds each have a unique area of expertise. The fund manager has discretion in this. Large-cap, mid-cap, and small-cap investments are all available. The long-term risk is additionally lower in Multi-Cap Funds. Additionally, the risk is lower compared to small-cap and mid-cap funds.                                                                                                                                                                                                                                                                                                                                           | Flexi-Cap Funds have a lot of advantages. Flexi-Cap Funds, for instance, lower the risk of market volatility. In addition, it becomes simpler for the fund manager to adjust the exposure to market capitalization, and it is also simpler for investors to balance their portfolios. For small investors, this is also a good plan. Good stock investments are beneficial. Additionally, it offers the benefit of higher returns with lower risk.                                                                                                                                    |
 
-[Multi-Cap Funds Vs Flexi-Cap Funds – How Are They Different?](https://groww.in/blog/multi-cap-funds-vs-flexi-cap-funds)
-
-[Top 5 flexi cap funds with returns up to 38% in 5 years as on Mar 26, 2025 \| EconomicTimes](https://economictimes.indiatimes.com/wealth/web-stories/top-5-flexi-cap-funds-with-returns-up-to-38-in-5-years-as-on-mar-26-2025/slideshow/119902124.cms?from=mdr)
-
-- Parag Parikh Flexi Cap Fund (PPFCF)
-- HDFC Flexi Cap Fund (new addition)
-- UTI Flexi Cap Fund
-- PGIM India Flexi Cap Fund
-- Aditya Birla Sun Life Flexi Cap Fund
-- SBI Flexi Cap Fund
-- Canara Robeco Flexi Cap Fund
-
-[Parag Parekh Flexi Cap Fund vs HDFC Flexi Cap Fund: Which Fund Delivered Higher Returns?](https://www.angelone.in/news/parag-parekh-flexi-cap-fund-vs-hdfc-flexi-cap-fund-which-fund-delivered-highest-returns)
-
-[Parag Parikh Flexi Cap Vs HDFC Flexi Cap: Which One Should You Choose? - YouTube](https://youtu.be/JM6UJYvQizQ)
-
-[New Zerodha Multi Asset Passive FoF: Invest in large-cap, mid-cap, gold & bonds with one fund - YouTube](https://youtu.be/bzMB9mnrc4g)
+- [Multi-Cap Funds Vs Flexi-Cap Funds – How Are They Different?](https://groww.in/blog/multi-cap-funds-vs-flexi-cap-funds)
+- [Top 5 flexi cap funds with returns up to 38% in 5 years as on Mar 26, 2025 \| EconomicTimes](https://economictimes.indiatimes.com/wealth/web-stories/top-5-flexi-cap-funds-with-returns-up-to-38-in-5-years-as-on-mar-26-2025/slideshow/119902124.cms?from=mdr)
+	- Parag Parikh Flexi Cap Fund (PPFCF)
+	- HDFC Flexi Cap Fund (new addition)
+	- UTI Flexi Cap Fund
+	- PGIM India Flexi Cap Fund
+	- Aditya Birla Sun Life Flexi Cap Fund
+	- SBI Flexi Cap Fund
+	- Canara Robeco Flexi Cap Fund
+- [Parag Parekh Flexi Cap Fund vs HDFC Flexi Cap Fund: Which Fund Delivered Higher Returns?](https://www.angelone.in/news/parag-parekh-flexi-cap-fund-vs-hdfc-flexi-cap-fund-which-fund-delivered-highest-returns)
+- [Parag Parikh Flexi Cap Vs HDFC Flexi Cap: Which One Should You Choose? - YouTube](https://youtu.be/JM6UJYvQizQ)
+- [New Zerodha Multi Asset Passive FoF: Invest in large-cap, mid-cap, gold & bonds with one fund - YouTube](https://youtu.be/bzMB9mnrc4g)
+- [Flexicap vs. Multicap: After 10 years, the winner is clear. (It's Not What You Think) - Money News \| The Financial Express](https://www.financialexpress.com/money/flexicap-vs-multicap-funds-2025-parag-parikh-quant-hdfc-10-year-performance-4040822/)
 
 #### PPFAS / PPFCF
 
@@ -199,3 +195,4 @@ In the multicap category, the allocation decision is left to the fund manager wh
 - [What mutual fund would you recommend for investors with FOMO?](https://freefincal.com/what-mutual-fund-would-you-recommend-for-investors-with-fomo/)
 - [What is your mutual fund investment strategy?](https://freefincal.com/what-is-your-mutual-fund-investment-strategy/)
 - [Can I use NIFTY 50 in retirement for income through SWP?](https://freefincal.com/can-i-use-nifty-50-in-retirement-for-income-through-swp/)
+- [Parag Parikh Flexi Cap and Quant Small Cap among 12 equity mutual funds to offer over 20% CAGR in 3, 5, 7 years - The Economic Times](https://m.economictimes.com/mf/analysis/parag-parikh-flexi-cap-and-quant-small-cap-among-12-equity-mutual-funds-to-offer-over-20-cagr-in-3-5-7-years/amp_articleshow/125129020.cms)

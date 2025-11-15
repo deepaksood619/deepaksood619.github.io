@@ -145,3 +145,4 @@ Cubic zirconia is a man-made, lab-created gemstone that resembles a diamond. It 
 - [How much gold do you hold?](https://freefincal.com/how-much-gold-do-you-hold/)
 - [Gold is the Safest Money](https://www.linkedin.com/pulse/gold-safest-money-ray-dalio-u1axc/)
 - [My Answers to Your Questions about Gold](https://www.linkedin.com/pulse/my-answers-your-questions-gold-ray-dalio-hcr9e/)
+- [10 countries hoarding the most gold in central banks](https://www.wionews.com/photos/10-countries-hoarding-the-most-gold-in-central-banks-1762186061644/1762186061645)

@@ -36,3 +36,4 @@ brew install duckdb
 - [Handling Billions of Rows with SQL in Minutes Using DuckDB | Towards Data Science](https://towardsdatascience.com/handling-billions-of-records-in-minutes-with-sql-%EF%B8%8F-484d2d6027bc)
 - [QuackETL\| DuckDB-Powered Lightweight ETL: An Extensible Framework for Seamless Data Integration - YouTube](https://youtu.be/fo7-rRRVHf8)
 - [DuckDB in 100 Seconds - YouTube](https://www.youtube.com/watch?v=uHm6FEb2Re4&ab_channel=Fireship)
+- [Announcing DuckDB 1.4.2 LTS – DuckDB](https://duckdb.org/2025/11/12/announcing-duckdb-142)

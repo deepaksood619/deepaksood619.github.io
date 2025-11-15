@@ -52,10 +52,27 @@ Open two instance of same application - **open -n MQTT.fx.app**
 
 `Option + Characters - Special Characters like (µåß∂√ƒç≈Ω)`
 
+## Setting up Windows
+
+- Install wsl (powershell - `wsl --install`)
+- Install ubuntu
+- https://code.visualstudio.com/docs/remote/wsl
+- In vscode setup WSL
+- Install brew in WSL
+- `ln -s /mnt/c/Users/deepa/Downloads ~/downloads`
+- `cd /mnt/c` - windows file location
+
 ## Setting up MAC
 
 - **Add iterm2** - download from web, details below
 - Install brew - command on official website (/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)")
+	- [Homebrew on Linux — Homebrew Documentation](https://docs.brew.sh/Homebrew-on-Linux)
+		- sudo apt update && sudo apt upgrade
+		- sudo apt-get install build-essential procps curl file git
+		- /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+		- The installer will usually provide "Next Steps" to add Homebrew to your PATH.
+			- echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"' >> ~/.profile
+			- eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 - Add zsh - details below
 - **Add docker**
 - ~~Add Anaconda~~

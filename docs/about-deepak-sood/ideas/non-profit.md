@@ -183,3 +183,7 @@ Problems
 - [AI for Social Impact - Wadhwani AI](https://www.wadhwaniai.org/)
 - Ek umang, Noida
 - [50,000 People Are Cleaning Up the World's Most Polluted River. \| by @BDCleanup - YouTube](https://www.youtube.com/watch?v=xCLobD-ZkE0)
+
+## Others
+
+- [Fuelling change: A cookstove revolution for rural India is transforming into a scalable clean energy business - The Economic Times](https://m.economictimes.com/small-biz/sustainability/fuelling-change-how-greenways-cookstove-revolution-for-rural-india-is-transforming-to-scalable-clean-energy-business/amp_articleshow/125075167.cms)

@@ -3,7 +3,7 @@
 - **Homeschooling / Home School / Homeschool**
 - Khan academy
 - https://primer.com
-- day wise curriculum for kids for 0 - 18 years
+- day and hour wise curriculum for kids for 0 - 18 years
 
 ## Learning
 

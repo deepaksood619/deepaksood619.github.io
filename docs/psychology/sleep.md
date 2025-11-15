@@ -37,6 +37,8 @@ I'm gaining 33 days of life every year. 1 more year of life every 11 years. 5 mo
 
 28 hour day - https://xkcd.com/320
 
+## biphasic sleep / polyphasic sleep / segmented sleep
+
 https://www.polyphasic.net
 
 Polyphasic sleep is the practice of sleeping in numerous smaller blocks during the day as opposed to sleeping once as is common in many countries. The Siesta (popular in Spain), and Segmented (which was widespread before the advent of artificial lighting) sleep schedules are some of the earlier forms that polyphasic sleep has taken. In recent years, there has been an increased interest in this practice, and many other schedules have been developed with increasing research and experimentation. Sleeping polyphasically can:
@@ -46,6 +48,8 @@ Polyphasic sleep is the practice of sleeping in numerous smaller blocks during t
 - Help with insomnia.
 - Help many workers cope with their demanding schedules.
 - Improve overall sleep quality and quality of life.
+
+[Before electricity, humans slept twice a night; scientists explain why biphasic sleep made perfect sense \| - The Times of India](https://timesofindia.indiatimes.com/etimes/trending/before-electricity-humans-slept-twice-a-night-scientists-explain-why-biphasic-sleep-made-perfect-sense/amp_articleshow/125051850.cms)
 
 ## The importance of sleep in learning
 

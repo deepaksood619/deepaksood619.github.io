@@ -136,3 +136,4 @@ Understanding both metrics helps you right-size your infrastructure and avoid na
 
 - [Benchmarking LLMs: TPS, TTFT, GPU Usage \| Medium](https://rumn.medium.com/benchmarking-llm-performance-token-per-second-tps-time-to-first-token-ttft-and-gpu-usage-8c50ee8387fa)
 - [What is AI Agent Evaluation? \| IBM](https://www.ibm.com/think/topics/ai-agent-evaluation)
+- [Everything You Need to Know About LLM Evaluation Metrics - MachineLearningMastery.com](https://machinelearningmastery.com/everything-you-need-to-know-about-llm-evaluation-metrics/)
