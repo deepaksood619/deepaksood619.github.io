@@ -27,3 +27,7 @@ Datastage is an ETL tool which extracts data, transform and load data from sourc
 https://www.guru99.com/datastage-tutorial.html
 
 [IBM DataStage](https://www.ibm.com/products/datastage)
+
+## Others
+
+- [GitHub - supabase/etl: Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines.](https://github.com/supabase/etl)

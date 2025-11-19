@@ -79,6 +79,10 @@ Studies have pointed out that Okinawans have lower rates of age-related conditio
 - Running Used To Be Spiritual Habit Of Ancestors
 - Strong Foot Treat Preventive Disease - Take It Slowly
 
+## Doomsday / Bunker
+
+[Is it safe to have all my net worth as digital assets?](https://freefincal.com/is-it-safe-to-have-all-my-net-worth-as-digital-assets/)
+
 ## Links
 
 - [new-home-place-house](knowledge/geography/new-home-place-house.md)

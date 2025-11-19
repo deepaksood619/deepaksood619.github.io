@@ -74,11 +74,13 @@
 				- Amazon Q Business Pro
 			- Amazon Q Developer $25/month per user
 			- https://aws.amazon.com/q/developer/
-- [Course - Architecting on AWS](cloud/aws/course-architecting-on-aws.md)
-- [AWS Competency Program](cloud/aws/others/aws-competency-program.md)
-- [AWS SDP](cloud/aws/others/aws-sdp.md)
-- [Others](cloud/aws/others/others.md)
-- [amazon-interview-prep-guide](cloud/aws/amazon-interview-prep-guide.md)
+- Others
+	- [Amazon Cloudwatch](cloud/aws/others/amazon-cloudwatch.md)
+	- [Course - Architecting on AWS](cloud/aws/course-architecting-on-aws.md)
+	- [AWS Competency Program](cloud/aws/others/aws-competency-program.md)
+	- [AWS SDP](cloud/aws/others/aws-sdp.md)
+	- [Others](cloud/aws/others/others.md)
+	- [amazon-interview-prep-guide](cloud/aws/amazon-interview-prep-guide.md)
 
 ## Products
 

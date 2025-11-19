@@ -458,10 +458,8 @@ It's nearly impossible to completely eliminate insect fragments during large-sca
 
 ![oat-vs-coke-vs-french-fries](../../../media/Pasted%20image%2020231001165735.jpg)
 
-[home - FIT SHIT](https://fitshit.in/)
-
-[Precaution vs. Proof: How the US and EU Differ on Food Safety](https://tbthealth.substack.com/p/precaution-vs-proof-how-the-us-and)
-
-[Why Some Fruits Won’t Ripen On Your Counter - YouTube](https://www.youtube.com/watch?v=ttCd60Qko5A)
-
-[Ultra processed foods and the third age of eating - with Chris van Tulleken - YouTube](https://www.youtube.com/watch?v=j1oOoYnCfJs)
+- [home - FIT SHIT](https://fitshit.in/)
+- [Precaution vs. Proof: How the US and EU Differ on Food Safety](https://tbthealth.substack.com/p/precaution-vs-proof-how-the-us-and)
+- [Why Some Fruits Won’t Ripen On Your Counter - YouTube](https://www.youtube.com/watch?v=ttCd60Qko5A)
+- [Ultra processed foods and the third age of eating - with Chris van Tulleken - YouTube](https://www.youtube.com/watch?v=j1oOoYnCfJs)
+- [Diet Expert: Weight Loss, Calories, Digestion, Sugar & Belly Fat \| Pooja Makhija \| FO433 Raj Shamani - YouTube](https://www.youtube.com/watch?v=xi-zHJL5bnI)

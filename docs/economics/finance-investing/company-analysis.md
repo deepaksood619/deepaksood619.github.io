@@ -61,7 +61,9 @@ NSE: RAYMONDLSL
 
 ## Ather
 
-[Two scooter giants, Two very different stories \| The Daily Brief #239 - YouTube](https://youtu.be/vLv6GLwvAp0)
+- [Two scooter giants, Two very different stories \| The Daily Brief #239 - YouTube](https://youtu.be/vLv6GLwvAp0)
+- [Ather Rizta Review - Is This Best Family Electric Scooter? \| Beware Activa EV - YouTube](https://www.youtube.com/watch?v=NYRvPOr58mc)
+- [Ather founder Tarun Mehta on Life After IPO, big EV Bets and why he won't make batteries \| 4K - YouTube](https://www.youtube.com/watch?v=g_atPk4J3bU)
 
 ## Others
 

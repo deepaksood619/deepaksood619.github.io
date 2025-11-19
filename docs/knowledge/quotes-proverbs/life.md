@@ -40,6 +40,8 @@ Be Kind to Everyone!
 
 You hate your life, while some people dream of having yours.
 
+Smart people learn from everything and everyone. Average people from their experiences. And stupid people already have all the answers.
+
 Be self controlled and alert. Your enemy the devil prowls
 around like a roaring lion looking for someone to devour.
 1 Peter 5:8 (Bible)
@@ -1154,5 +1156,7 @@ Khaya Piya Kuch Nahi, Glass Toda, Barah Aana
 - Funeral survice: Will be done by others
 - Still I wonder why we have the unnecessary Ego problems in life,
 - Let us all simplify our life, love & live with others peacefully.
+
+God, grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference. – Serenity Prayer by Reinhold Niebuhr
 
 ## End

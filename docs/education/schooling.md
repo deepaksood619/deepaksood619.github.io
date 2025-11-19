@@ -177,3 +177,7 @@ If certain data points are missing for a school, mention "**Information Not Avai
 - Extracurricular offerings
 - Overall fit with your child's learning style and interests
 - Scholarships
+
+## Links
+
+- [EXPOSED: Indian School Fees - YouTube](https://www.youtube.com/watch?v=1Llh_l6E6Bs)

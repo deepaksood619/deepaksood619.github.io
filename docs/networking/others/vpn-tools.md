@@ -91,6 +91,14 @@ Pritunl provides innovative security features not available from any other provi
 - [Pritunl, a free, self-hosted, open source VPN tunnel with a simple web ui and cross platform clients - YouTube](https://www.youtube.com/watch?v=-okuLsMqnWo)
 - [Create your own VPN using Pritunl on Linux VPS 🔥 - YouTube](https://www.youtube.com/watch?v=8Wq7Re3LG5k)
 
+## VPS
+
+A VPS (Virtual Private Server) is a **virtual machine with dedicated resources on a physical server**, offering more control and security than shared hosting but at a lower cost than a dedicated server. It's a popular choice for growing websites and applications that require more power, flexibility, and root access than a typical shared hosting plan provides.
+
+- [What is VPS? - Virtual Private Server Explained - AWS](https://aws.amazon.com/what-is/vps/)
+- [What Is a Virtual Private Server (VPS)? \| Google Cloud](https://cloud.google.com/learn/what-is-a-virtual-private-server)
+- [The Best Value Cloud VPS Hosting on Earth \| Contabo](https://contabo.com/en/vps/)
+
 ## Teleport
 
 DevOps teams use Teleport to access SSH and Windows servers, Kubernetes, databases, AWS Console, and web applications. Teleport prevents phishing by moving away from static credentials towards ephemeral certificates backed by biometrics and hardware identity, and stops attacker pivots with the Zero Trust design.

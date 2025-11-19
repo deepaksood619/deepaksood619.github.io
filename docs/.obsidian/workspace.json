@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3569705538c54414",
+        "id": "95bb30241a2c02f4",
         "type": "tabs",
         "children": [
           {
-            "id": "19f7e01f0a542e9c",
+            "id": "89bddd32f28f9356",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "office/cakedefi/infra.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -38,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,21 +49,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coinswap",
+                "query": "proprietorship",
                 "matchingCase": false,
-                "explainSearch": true,
+                "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
-              }
-            }
-          },
-          {
-            "id": "601242bcde43eecc",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -70,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -78,14 +75,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "a8d7936637e41db9",
@@ -96,32 +95,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9870e99c14257fc2",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "office/cakedefi/infra.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "8030d7701727900e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "office/cakedefi/infra.md",
+                "file": "office/personality/movies-serials-apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from movies-serials-apps"
             }
           },
           {
@@ -132,7 +116,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -141,16 +127,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "office/cakedefi/infra.md"
-              }
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
-            "id": "44031abfca79f000",
+            "id": "9870e99c14257fc2",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {}
+              "type": "backlink",
+              "state": {
+                "file": "office/keep/deepak-banks.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for deepak-banks"
             }
           },
           {
@@ -158,84 +159,97 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
-            "id": "395b03929294017d",
+            "id": "ee4f08d350652ef9",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
-              "state": {}
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false
+      "omnisearch:Omnisearch": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Lock and Close all open encrypted notes": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt Selection": false,
+      "meld-encrypt:Decrypt at Cursor": false
     }
   },
   "active": "978fd2faf621af33",
   "lastOpenFiles": [
-    "languages/sql/dql-data-query-language/readme.md",
-    "languages/sql/dql-data-query-language/analytical-queries.md",
-    "languages/sql/dql-data-query-language/aggregation-queries.md",
-    "languages/sql/others.md",
-    "languages/sql/readme.md",
-    "office/cakedefi/product.md",
-    "office/cakedefi/tables.md",
-    "office/cakedefi/operations.md",
-    "office/cakedefi/todo.md",
-    "decentralized-applications/coins-tokens-chains/readme.md",
-    "decentralized-applications/coins-tokens-chains/bitcoin.md",
-    "decentralized-applications/coins-tokens-chains/coin-token-intro.md",
+    "cloud/aws/readme.md",
+    "office/opstree/max-healthcare/meetings.md",
+    "knowledge/biology/nutrition/food.md",
+    "office/effectual/invictus.md",
+    "office/opstree/interviews.md",
+    "office/bobby/my-interviews-bobby-ray.md",
+    "economics/taxation/returns-tax-taxes-itr.md",
+    "economics/taxation/taxation-domestic.md",
+    "economics/finance-investing/indian-company-types.md",
+    "knowledge/geography/living.md",
+    "knowledge/quotes-proverbs/life.md",
+    "office/opstree/projects-clients/meetings-clients.md",
     "office/keep/deepak-banks.md",
-    "devops/ides/vscode-vs-code.md",
-    "ai/data-science/tableau/concepts.md",
-    "ai/data-science/tableau/dashboarding.md",
-    "ai/data-science/tableau/others.md",
-    "ai/data-science/tableau/readme.md",
-    "devops/ides/youtube-podcasts-magazine-apps.md",
-    "economics/market-terms/futures-options-trading.md",
-    "office/cakedefi/infra.md",
-    "office/keep/neha.md",
-    "office/personality/addresses-electricity.md",
-    "ai/llm/design-patterns.md",
-    "ai/llm/readme.md",
-    "ai/llm/llm-building.md",
-    "ai/llm",
-    "media/Personality-Profiles-image5.jpg",
-    "media/Personality-Profiles-image4.png",
-    "media/Personality-Profiles-image3.jpeg",
-    "media/Personality-Profiles-image2.jpeg",
-    "media/Personality-Profiles-image1.png",
-    "media/Personality-Questions-to-company-image1.png",
-    "office/media/Personality-Questions-to-company-image1.png",
-    "about-me/jobs",
-    "media/Pasted image 20230827130415.png",
-    "decentralized-applications/development",
-    "media/Screenshot 2023-08-24 at 11.52.42 AM.jpg",
-    "media/Screenshot 2023-08-21 at 11.17.31 AM.jpg",
-    "ai/data-science/tableau",
-    "office.zip",
-    "office/stashfin-credentials",
-    "management/people-management",
-    "decentralized-applications/coins-tokens-chains",
-    "technologies/apache/databricks",
-    "databricks"
+    "office/keep/asha-maa-banks.md",
+    "office/opstree/max-healthcare/todo.md",
+    "office/opstree/max-healthcare/readme.md",
+    "office/opstree/infra.md",
+    "office/bsfg/infra-salora.md",
+    "office/bobby/bobby-interviews.md",
+    "office/opstree/luxasia-leap/infra.md",
+    "office/opstree/luxasia-leap/readme.md",
+    "office/opstree/luxasia-leap/people.md",
+    "office/opstree/luxasia-leap/todo.md",
+    "office/blocktoons/infra.md",
+    "cloud/aws/others/amazon-cloudwatch.md",
+    "cloud/aws/aws-services.md",
+    "office/confluent",
+    "resume/Deepak Sood - Data.pdf",
+    "resume/Deepak Sood.pdf",
+    "resume/Deepak Sood.gdoc",
+    "resume/Deepak Sood Full.gdoc",
+    "resume/Deepak Sood - MLOps.gdoc",
+    "resume/Deepak Sood - MLOps - OpsTree.gdoc",
+    "resume/Deepak Sood - Lead.gdoc",
+    "resume/Deepak Sood - Lead Big Data - OpsTree.gdoc",
+    "resume/Deepak Sood - GoJek - OpsTree.gdoc",
+    "media/AWS-Sagemaker-image7.jpg",
+    "media/Screenshot 2025-10-28 at 6.13.15 AM.jpg",
+    "media/Screenshot 2025-10-27 at 11.57.59 PM.jpg",
+    "media/Screenshot 2025-10-27 at 11.57.15 PM.jpg",
+    "media/Screenshot 2025-10-27 at 11.56.32 PM.jpg",
+    "media/Screenshot 2025-10-27 at 11.42.05 PM.jpg",
+    "media/Screenshot 2025-10-27 at 11.32.41 PM.jpg",
+    "media/Screenshot 2025-10-26 at 10.56.41 AM.jpg",
+    "media/Screenshot 2025-10-25 at 7.14.26 PM.jpg",
+    "media/Screenshot 2025-10-24 at 5.09.42 PM.jpg"
   ]
 }

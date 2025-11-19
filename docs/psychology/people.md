@@ -64,6 +64,7 @@ The story of my experiments with truth
 - Gandhi continued to fight for Indians in South Africa and launched a new form of nonviolent resistance
 - Upon the start of WWI, Gandhi returned to India, where he continued to fight injustice
 - Gandhi suspended satyagraha when it triggered violence, but his noncooperation resolution was ultimately passed
+- [Mahatma Gandhi and his Bizarre S\*x Experiments \| Full Documentary - YouTube](https://www.youtube.com/watch?v=ljdWV8sH-EU)
 
 ## Others
 

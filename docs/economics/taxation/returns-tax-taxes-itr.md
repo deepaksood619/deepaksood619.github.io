@@ -81,6 +81,10 @@ Consultant’s whose income exceeds Rs.10 lakh must get their expenses audited b
 
 [In India, can I receive a salary from a full-time job in one company and a professional fee as a consultant in another company? How does the tax return filing work in this case, as one’s income came from two different sources? - Quora](https://www.quora.com/In-India-can-I-receive-a-salary-from-a-full-time-job-in-one-company-and-a-professional-fee-as-a-consultant-in-another-company-How-does-the-tax-return-filing-work-in-this-case-as-one-s-income-came-from-two-different)
 
+[Normal business expense practices under sole proprietorship : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/1b7brkm/normal_business_expense_practices_under_sole/)
+
+[Save tax as Sole Proprietorship. : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/1er1y0l/save_tax_as_sole_proprietorship/)
+
 ### Deductions
 
 - Rent of the property

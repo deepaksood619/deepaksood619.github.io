@@ -106,6 +106,15 @@ Additionally, site-wide events like site moves may trigger an increase in crawl 
 
 [How Google Search Deals With Crawl Rate - SEO Insights - Lumar](https://www.lumar.io/office-hours/crawl-rate/)
 
+## Crawled – currently not indexed
+
+'Crawled-currently not indexed' means Google has crawled your pages, but not decided to index them yet. They could be indexed or not at a later time.
+
+This can happen for quality issues or due to the lack of relevance of your content to user queries.
+
+- [Page is not indexed: Crawled - currently not indexed - Google Search Central Community](https://support.google.com/webmasters/thread/248401570/page-is-not-indexed-crawled-currently-not-indexed?hl=en)
+- [What is 'Crawled - currently not indexed' in Search Console? • Yoast](https://yoast.com/crawled-currently-not-indexed-google-search-console/)
+
 ## Robots.txt
 
 - [How Robots.txt Works - YouTube](https://www.youtube.com/watch?v=IXNEVt9rZG8)

@@ -61,6 +61,23 @@ Open two instance of same application - **open -n MQTT.fx.app**
 - Install brew in WSL
 - `ln -s /mnt/c/Users/deepa/Downloads ~/downloads`
 - `cd /mnt/c` - windows file location
+- setup lock default screen - [How to Enable or Disable Lock Screen in Windows 11 / 10 - YouTube](https://www.youtube.com/shorts/ay-0FqaEP-U)
+- enable gpedit.msc in windows home - [Enable Group Policy Editor (gpedit.msc) on Windows 10/11 Home Edition \| Windows OS Hub](https://woshub.com/group-policy-editor-gpedit-msc-for-windows-10-home/)
+- enable clipboard - windows + V
+- capture text from images - [How to extract text from images on Windows 11 - ARTICLE - Microsoft Q&A](https://learn.microsoft.com/en-us/answers/questions/2285914/how-to-extract-text-from-images-on-windows-11-arti)
+- group tabs settings - show tabs from apps when snapping or pressing alt+tab
+- Title bar window shake
+- folder options
+	- Hide extensions for known file types
+	- setup default downloads directory - [How to Make File Explorer Open to the Downloads Folder by Default - YouTube](https://www.youtube.com/watch?v=AxPIznxRNfc)
+- Install apps
+	- file download manager
+	- google drive
+	- obsidian
+	- vscode
+	- Zoom
+	- jump desktop
+	- tailscale
 
 ## Setting up MAC
 

@@ -32,3 +32,9 @@ The Capital Asset Pricing Model (CAPM) describes the relationship between system
 ![image](../../media/Mutual-Funds-image1.jpg)
 
 https://www.investopedia.com/terms/c/capm.asp
+
+## Zerodha Alerts
+
+### Long-Term ASM Stage 1 - Additional Surveillance Measures
+
+Long-Term ASM Stage 1 is the first stage of Additional Surveillance Measures, a regulatory tool used to monitor stocks exhibiting consistent abnormal price or volume movements over a longer period. Key features include a mandatory 100% margin for all transactions and a daily price band of 5% or less to limit volatility.

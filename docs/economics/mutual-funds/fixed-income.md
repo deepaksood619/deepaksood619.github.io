@@ -148,6 +148,21 @@ Mis (Monthly Income Scheme) - Limit 9 lakh
 
 [Guaranteed income with tax benefits: Top 5 annuity plans in India](https://www.zeebiz.com/personal-finance/news-guaranteed-income-with-tax-benefits-top-5-annuity-plans-in-india-stst-258464)
 
+### Options for Withdrawal Rate < 3.5%
+
+- RBI Floating Rate Bonds (Via Bank)
+	- 7Y
+	- 0.35% more than NSC rate (variable)
+	- ﻿﻿Int paid out every six months
+- ﻿﻿Senior Citizen Savings Schemes (Bank)
+	- ﻿﻿30L per person, 60L as couple
+	- ﻿﻿5Y, extendable by 3Y
+	- ﻿﻿Quarterly payout
+- ﻿﻿Post Office Monthly Income Scheme
+	- ﻿﻿9L per person, 15L as couple
+	- ﻿﻿5Y
+- ﻿﻿Senior Citizens Bank FD
+
 ## Kisan Vikas Patra
 
 [Ep 2 - Kisan Vikas Patra (8 Features) | Who should Invest? | Investing in Govt Schemes in Hindi - YouTube](https://www.youtube.com/watch?v=W2ATVuiZ04w&ab_channel=ZerodhaVarsity)

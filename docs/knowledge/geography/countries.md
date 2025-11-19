@@ -57,6 +57,15 @@ https://docs.google.com/spreadsheets/d/1zl7adSoCYuWpuBnRPbkkhwT2RZ5hk3lUO4ud0NE7
 
 [Japan's 3 Lost Decades Explained - YouTube](https://www.youtube.com/watch?v=rohuJskoLMg)
 
+#### Culture
+
+- The same reason Japanese girls cover their mouth when they laugh. It’s a cultural thing. Japanese men like their women to be shy, innocent and inexperienced… (like a virgin) If the woman is moaning, smiling and enjoying it, it’s a sign that she’s slutty and if she’s slutty that means 2 things:
+	- She’s used up, been around the block and she’s not special.
+	- She’s easy, anyone can have her, and YOU aren’t special.
+- Again, it’s cultural and all part of their mating dance. The man wants to feel special and powerful, as if he just conquered Mount Everest, and gets off on how his partner is enduring the pain of the rough sex JUST FOR HIM. (even though it doesn’t really hurt)
+- Now, you might think it’s bizarre, wrong, or even chauvinistic that Japanese men expect their women to cry and look sad (even when it feels really REALLY GOOD)… BUT is it really that strange? In America, men expect women to smile, moan and scream “YES! YES!” at all times, even when it hurts.
+- [I saw in Japanese porn, why do most of the girls start crying during sex? Does she feel pain? I don’t know what exactly she has feeling during that act. - Quora](https://www.quora.com/I-saw-in-Japanese-porn-why-do-most-of-the-girls-start-crying-during-sex-Does-she-feel-pain-I-don-t-know-what-exactly-she-has-feeling-during-that-act)
+
 ### Middle East
 
 [Why the Middle East’s Borders Guarantee Forever Wars - YouTube](https://www.youtube.com/watch?v=JN4mnVLP0rU)

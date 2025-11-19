@@ -121,6 +121,7 @@ In this system, the tax is levied on the per unit price of the built-up area of 
 ## Others
 
 - [returns-tax-taxes-itr](economics/taxation/returns-tax-taxes-itr.md)
+- [indian-company-types](economics/finance-investing/indian-company-types.md)
 - [Cash Deposit Limit in Saving Account as Per Income Tax Act 2025 Updated TAXCONCEPT](https://taxconcept.net/income-tax/cash-deposit-limit-in-saving-account-as-per-income-tax-act-2025-updated/)
 - ['Don’t just gift it, loan it': CA shares high income tax hack to cut tax outgo - BusinessToday](https://www.businesstoday.in/personal-finance/tax/story/dont-just-gift-it-loan-it-ca-shares-high-income-tax-hack-to-cut-tax-outgo-482478-2025-06-30)
 - [Should we report domestic mutual funds holding foreign shares in Schedule FA/FSI?](https://freefincal.com/should-we-report-domestic-mutual-funds-holding-foreign-shares-in-schedule-fa-fsi/)
