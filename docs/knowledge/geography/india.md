@@ -55,17 +55,14 @@
 
 ### Stampedes in India
 
-1. Kumbh mela
-2. NDLS station
-3. Bangalore RCB victory parade chinnaswamy station
-
-[Category:Human stampedes in India - Wikipedia](https://en.wikipedia.org/wiki/Category:Human_stampedes_in_India)
-
-[A list of major stampedes in India](https://www.hindustantimes.com/india-news/a-list-of-major-stampedes-in-india-101749063669232.html)
-
-[Bengaluru stampede: A list of major stampedes in India - The Hindu](https://www.thehindu.com/news/national/major-stampedes-in-india-list/article69659616.ece)
-
-[Tamil Nadu Karur Stampede At Actor-Politician Vijay's Rally Described In Haunting Visuals](https://www.ndtv.com/india-news/tamil-nadu-karur-stampede-at-actor-politician-vijays-rally-described-in-haunting-visuals-9360785)
+- Kumbh mela
+- NDLS station
+- Bangalore RCB victory parade chinnaswamy station
+- [Category:Human stampedes in India - Wikipedia](https://en.wikipedia.org/wiki/Category:Human_stampedes_in_India)
+- [A list of major stampedes in India](https://www.hindustantimes.com/india-news/a-list-of-major-stampedes-in-india-101749063669232.html)
+- [Bengaluru stampede: A list of major stampedes in India - The Hindu](https://www.thehindu.com/news/national/major-stampedes-in-india-list/article69659616.ece)
+- [Tamil Nadu Karur Stampede At Actor-Politician Vijay's Rally Described In Haunting Visuals](https://www.ndtv.com/india-news/tamil-nadu-karur-stampede-at-actor-politician-vijays-rally-described-in-haunting-visuals-9360785)
+- [Indian Roads Deadliest In The World? \| How Can We Avoid Meeting Yamraj So Often?\| Akash Banerjee - YouTube](https://www.youtube.com/watch?v=v6-V43kCAeI)
 
 ## Economics
 

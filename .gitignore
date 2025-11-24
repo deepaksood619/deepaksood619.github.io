@@ -152,6 +152,9 @@ build
 .obsidian/cache
 .obsidian/workspace
 
+# windows
+desktop.ini
+
 # obsidian
 # git update-index --assume-unchanged docs/.obsidian/workspace.json
 workspace.json
@@ -160,4 +163,6 @@ data.json
 graph.json
 
 # personal wikis
-Office
+office
+officevault
+confluent

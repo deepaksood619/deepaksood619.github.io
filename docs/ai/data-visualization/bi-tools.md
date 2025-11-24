@@ -153,3 +153,4 @@ DataIQ is a business intelligence platform designed to help organizations manage
 - [Semantic Layer Solution - BI & Data & Analytics Software \| AtScale](https://www.atscale.com/)
 	- [Thoughts on AtScale and other semantic layer tools : r/PowerBI](https://www.reddit.com/r/PowerBI/comments/1e2b02c/thoughts_on_atscale_and_other_semantic_layer_tools/)
 - [MatrixFlow](https://matrixflow.io/)
+- [Sigma. Business Intelligence and Analytics Solution](https://www.sigmacomputing.com/)

@@ -1,4 +1,4 @@
-## Amazon Databases
+# Amazon Databases
 
 - [Amazon Aurora](databases-sql/aws-aurora/readme.md)
 - [Amazon RDS](databases-sql/amazon-rds.md)

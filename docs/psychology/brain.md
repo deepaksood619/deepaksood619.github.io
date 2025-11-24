@@ -139,12 +139,9 @@ https://blog.trello.com/sophrology-for-better-work-life-harmony
 
 ## Links
 
-[What is a mind? - with Philip Ball](https://www.youtube.com/watch?v=uKZWF5amZMg)
-
-[Sleep](psychology/sleep.md)
-
-[How to Keep Your Brain Young and Healthy | Louisa Nicola - YouTube](https://www.youtube.com/watch?v=tZQcd2K9HwQ)
-
-[Mind–body dualism - Wikipedia](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism)
-
-[Why Some People Don’t ‘See’ Mental Imagery: Aphantasia - YouTube](https://youtu.be/3I4KxfXrCPw)
+- [Sleep](psychology/sleep.md)
+- [What is a mind? - with Philip Ball](https://www.youtube.com/watch?v=uKZWF5amZMg)
+- [How to Keep Your Brain Young and Healthy | Louisa Nicola - YouTube](https://www.youtube.com/watch?v=tZQcd2K9HwQ)
+- [Mind–body dualism - Wikipedia](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism)
+- [Why Some People Don’t ‘See’ Mental Imagery: Aphantasia - YouTube](https://youtu.be/3I4KxfXrCPw)
+- [Use 100% of Your Brain: Power Foods, Discipline, Focus & Lifestyle \| Dr. Sajeev \| FO434 Raj Shamani - YouTube](https://www.youtube.com/watch?v=zrdFjOltFJ0)

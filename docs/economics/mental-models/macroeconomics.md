@@ -201,5 +201,6 @@ The trilemma suggests that achieving all three of these goals simultaneously is 
 - [How Countries Go Broke: The Big Cycle In a 5-Minute Read](https://www.linkedin.com/pulse/how-countries-go-broke-big-cycle-tiny-nutshell-ray-dalio-flnce/)
 - [Lower wages, aging population, but still prospering: How Japan is quietly showing the world how to grow without economic growth - The Economic Times](https://m.economictimes.com/news/new-updates/lower-wages-aging-population-but-still-prospering-how-japan-is-quietly-showing-the-world-how-to-grow-without-growth/amp_articleshow/123014379.cms)
 - [WARNING: Gold Prices Are Signaling a Major Crash… - YouTube](https://www.youtube.com/watch?v=bEFY3wsJoHg)
+- [The Big Dangers of Big Bubbles with Big Wealth Gaps](https://www.linkedin.com/pulse/big-dangers-bubbles-wealth-gaps-ray-dalio-s2fbe/)
 
 ## End

@@ -6,14 +6,14 @@ The software utility **cron** is a time-based [job scheduler](https://en.wikiped
 
 `crontab [**-u *user***] [**-l** | **-r** | **-e**] [**-i**] [**-s]`
 
-|                     |                                                                                 |
-| ------------------- | ------------------------------------------------------------------------------- |
-| `export EDITOR=vi;` | to specify a editor to open crontab file.                                       |
-| `crontab -e`        | Edit crontab file, or create one if it doesn't already exist. (/Var/spool/cron) |
-| `sudo crontab -e`   | Edit system wide crontab file                                                   |
-| `crontab -l`        | crontab list of cronjobs , display crontab file contents                        |
-| `crontab -r`        | Remove your crontab file                                                        |
-| `crontab -v`                    |           Display the last time you edited your crontab file. (This option is only available on a few systems.)                                                                      |
+|                     |                                                                                                       |
+| ------------------- | ----------------------------------------------------------------------------------------------------- |
+| `export EDITOR=vi;` | to specify a editor to open crontab file.                                                             |
+| `crontab -e`        | Edit crontab file, or create one if it doesn't already exist. (/Var/spool/cron)                       |
+| `sudo crontab -e`   | Edit system wide crontab file                                                                         |
+| `crontab -l`        | crontab list of cronjobs , display crontab file contents                                              |
+| `crontab -r`        | Remove your crontab file                                                                              |
+| `crontab -v`        | Display the last time you edited your crontab file. (This option is only available on a few systems.) |
 
 ```bash
 * * * * * command to be executed
@@ -29,26 +29,26 @@ The software utility **cron** is a time-based [job scheduler](https://en.wikiped
 ```
 
 | min    | hour | day/month | month  | day/week | Execution time                                           |
-|--------|--------|-----------|--------|----------|-----------------------------|
-| 30     | 0    | 1         | 1,6,12 | *       | --- 00:30 Hrs on 1st of Jan, June & Dec.                |
-| 0      | 20   | *        | 10     | 1-5      | --8.00 PM every weekday (Mon-Fri) only in Oct.           |
-| 0      | 0    | 1,10,15   | *     | *       | --- midnight on 1st ,10th & 15th of month                |
-| 5,10   | 0    | 10        | *     | 1        | --- At 12.05,12.10 every Monday & on 10th of every month |
-| *     | *   | *        | *     | *       | -- Every minute of every hour throughout the year       |
-| \*/5   | *   | *        | *     | *       | -- Every 5 minutes                                      |
-| 0-10/2 | *   | *        | *     | *       | -- Every 2 minutes in the first 10 minutes              |
-| 0      | *   | *        | *     | *       | -- Every 1 hour                                         |
-| 0      | */2 | *        | *     | *       | -- Every 2 hours                                        |
-| 10     | 10   | \ \\*        | *     | *       | -- At 10:10 AM everyday                                 |
+| ------ | ---- | --------- | ------ | -------- | -------------------------------------------------------- |
+| 30     | 0    | 1         | 1,6,12 | *        | --- 00:30 Hrs on 1st of Jan, June & Dec.                 |
+| 0      | 20   | *         | 10     | 1-5      | --8.00 PM every weekday (Mon-Fri) only in Oct.           |
+| 0      | 0    | 1,10,15   | *      | *        | --- midnight on 1st ,10th & 15th of month                |
+| 5,10   | 0    | 10        | *      | 1        | --- At 12.05,12.10 every Monday & on 10th of every month |
+| *      | *    | *         | *      | *        | -- Every minute of every hour throughout the year        |
+| \*/5   | *    | *         | *      | *        | -- Every 5 minutes                                       |
+| 0-10/2 | *    | *         | *      | *        | -- Every 2 minutes in the first 10 minutes               |
+| 0      | *    | *         | *      | *        | -- Every 1 hour                                          |
+| 0      | */2  | *         | *      | *        | -- Every 2 hours                                         |
+| 10     | 10   | \ \\*     | *      | *        | -- At 10:10 AM everyday                                  |
 
 ## Crontab Keywords
 
 | **Keyword** | **Equivalent**  |
-|-------------|-----------------|
-| @yearly    | 0 0 1 1 *      |
-| @daily     | 0 0 ** *    |
-| @hourly    | `0 * * * *`   |
-| @reboot    | Run at startup. |
+| ----------- | --------------- |
+| @yearly     | 0 0 1 1 *       |
+| @daily      | 0 0 ** *        |
+| @hourly     | `0 * * * *`     |
+| @reboot     | Run at startup. |
 
 ## Examples
 
@@ -154,15 +154,15 @@ https://crontab.guru
 
 A cron expression is a string comprised of 6 or 7 fields separated by white space. Fields can contain any of the allowed values, along with various combinations of the allowed special characters for that field. The fields are as follows:
 
-| Field Name | Mandatory | Allowed Values | Allowed Special Characters |
-| --- | --- | --- | --- |
-| Seconds | YES | 0-59 | , - \* / |
-| Minutes | YES | 0-59 | , - \* / |
-| Hours | YES | 0-23 | , - \* / |
-| Day of month | YES | 1-31 | , - \* ? / L W
-| Month | YES | 1-12 or JAN-DEC | , - \* / |
-| Day of week | YES | 1-7 or SUN-SAT | , - \* ? / L # |
-| Year | NO | empty, 1970-2099 | , - \* / |
+| Field Name   | Mandatory | Allowed Values   | Allowed Special Characters |
+| ------------ | --------- | ---------------- | -------------------------- |
+| Seconds      | YES       | 0-59             | , - \* /                   |
+| Minutes      | YES       | 0-59             | , - \* /                   |
+| Hours        | YES       | 0-23             | , - \* /                   |
+| Day of month | YES       | 1-31             | , - \* ? / L W             |
+| Month        | YES       | 1-12 or JAN-DEC  | , - \* /                   |
+| Day of week  | YES       | 1-7 or SUN-SAT   | , - \* ? / L #             |
+| Year         | NO        | empty, 1970-2099 | , - \* /                   |
 
 So cron expressions can be as simple as this: \* \* \* \* ? \*
 

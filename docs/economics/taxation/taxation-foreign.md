@@ -191,6 +191,8 @@ It is 5% of the remittance amount above INR 7 Lakhs. From October 1, 2023 onward
 
 - Wise don't support foreign equity investment transfer from India
 - [International Money transfer comparison \| Compare best exchange rates - Wise](https://wise.com/in/compare/)
+- [Is Wise (transferwise) available in India for receiving money? : r/india](https://www.reddit.com/r/india/comments/uktght/is_wise_transferwise_available_in_india_for/)
+- [Title Unavailable \| Site Unreachable](https://wise.com/help/articles/6Kpm9pXlJW79OGAktSnHos/how-to-verify-your-indian-business-to-receive-payments)
 
 ### Others
 
@@ -214,6 +216,11 @@ It is 5% of the remittance amount above INR 7 Lakhs. From October 1, 2023 onward
 - [Dodo Payments](https://dodopayments.com/)
 	- [Dodo Payments Product Information and Latest Updates (2025) \| Product Hunt](https://www.producthunt.com/products/dodo-payments)
 - Mercury
+
+### HUF
+
+- [How do I receive money with my HUF account details? \| Wise Help Centre](https://wise.com/help/articles/2978073/how-do-i-receive-money-with-my-huf-account-details)
+- [Creation of HUF for freelancing remittances : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/1h3d787/creation_of_huf_for_freelancing_remittances/)
 
 ### Links
 

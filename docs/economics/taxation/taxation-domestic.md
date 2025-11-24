@@ -1,5 +1,7 @@
 # Taxation Domestic
 
+[Capital Gains Taxation Rules Ready Reckoner](https://freefincal.com/capital-gains-taxation-rules-ready-reckoner/)
+
 ## LTCG / Tax Loss Harvesting
 
 To prevent gains from building up, experts suggest harvesting. This means booking a portion of your profits and reinvesting the proceeds. So you sell a part of your equity holdings to book long term capital gains, and then buy back the same shares or mutual fund units.

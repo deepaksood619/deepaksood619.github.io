@@ -59,6 +59,7 @@ An "intelligence explosion" refers to a hypothetical scenario where a self-impro
 - [Will AI outsmart human intelligence? - with 'Godfather of AI' Geoffrey H...](https://youtu.be/IkdziSLYzHw)
 - [If AI is really changing everything… where’s the evidence? - YouTube](https://www.youtube.com/watch?v=8lfMnqMYcRQ)
 	- [Where's the Shovelware? Why AI Coding Claims Don't Add Up](https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding)
+- [Agentic Misalignment: How LLMs could be insider threats \\ Anthropic](https://www.anthropic.com/research/agentic-misalignment)
 
 ## Links
 

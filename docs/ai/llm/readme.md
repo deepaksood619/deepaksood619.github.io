@@ -17,6 +17,7 @@
 - [Prompt Engineering](ai/llm/prompt-engineering.md)
 	- [personal-tutor-prompt](education/personal-tutor-prompt.md)
 	- [quiz-app-prompt](education/quiz-app-prompt.md)
+	- [lovable-prompt-portfolio-website](ai/llm/lovable-prompt-portfolio-website.md)
 - [Prompt Examples](ai/llm/prompt-examples.md)
 - [context-engineering](ai/llm/context-engineering.md)
 - [low-code-no-code-lcnc](cloud/others/low-code-no-code-lcnc.md)

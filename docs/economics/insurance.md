@@ -90,6 +90,7 @@ https://joinditto.in
 
 - [Health insurance policy - You need to change immediately! Health insurance will be rejected? - YouTube](https://www.youtube.com/watch?v=A0NjCGEDrcI)
 - [Why your base health policy and super top-up policy should have the same renewal date!](https://freefincal.com/why-your-base-health-policy-and-super-top-up-policy-should-have-the-same-renewal-date/)
+- [Does it make sense to buy a 25 Lakh base health insurance policy?](https://freefincal.com/does-it-make-sense-to-buy-a-25-lakh-base-health-insurance-policy/)
 
 ## Others
 
@@ -100,6 +101,10 @@ https://joinditto.in
 ### Endowment Fund
 
 An endowment fund is a collection of investments that generates revenue to support charitable activities. The initial capital for an endowment fund comes from donations, which are often tax-deductible. The goal of an endowment fund is to provide a sustainable source of income for charitable activities, while also ensuring long-term financial stability.
+
+### Keyman Insurance Policy
+
+A keyman insurance policy is a life insurance plan a company takes out on an important employee to protect itself financially if that person dies or becomes disabled. The business is both the policyholder and the beneficiary, paying the premiums and receiving the payout, which can be used to cover business continuity, debt, or the cost of hiring and training a replacement. Key people include anyone whose expertise is crucial to the company's success, such as a founder, director, or top salesperson.
 
 ## Links
 

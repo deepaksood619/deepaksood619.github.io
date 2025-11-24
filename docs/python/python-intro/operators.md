@@ -19,15 +19,15 @@ Identity vs Equality Operators
 
 ## Arithmetic Operators (a = 10, b = 20)
 
-| **Operator** | **Description** | **Example** |
-|---|---|---|
-| + Addition | Adds values on either side of the operator. | a + b = 30 |
-| - Subtraction | Subtracts right hand operand from left hand operand. | a -- b = -10 |
-| * Multiplication | Multiplies values on either side of the operator | a * b = 200 |
-| / Integer Division | Divides left hand operand by right hand operand | b / a = 2 |
-| % Modulus | Divides left hand operand by right hand operand and returns remainder | b % a = 0 |
-| ** Exponent | Performs exponential (power) calculation on operators | a**b =10 to the power 20 |
-| // | Floor Division - The division of operands where the result is the quotient in which the digits after the decimal point are removed. But if one of the operands is negative, the result is floored, i.e., rounded away from zero (towards negative infinity) − | 9//2 = 4 and 9.0//2.0 = 4.0, -11//3 = -4, -11.0//3 = -4.0 |
+| **Operator**       | **Description**                                                                                                                                                                                                                                               | **Example**                                               |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| + Addition         | Adds values on either side of the operator.                                                                                                                                                                                                                   | a + b = 30                                                |
+| - Subtraction      | Subtracts right hand operand from left hand operand.                                                                                                                                                                                                          | a -- b = -10                                              |
+| * Multiplication   | Multiplies values on either side of the operator                                                                                                                                                                                                              | a * b = 200                                               |
+| / Integer Division | Divides left hand operand by right hand operand                                                                                                                                                                                                               | b / a = 2                                                 |
+| % Modulus          | Divides left hand operand by right hand operand and returns remainder                                                                                                                                                                                         | b % a = 0                                                 |
+| ** Exponent        | Performs exponential (power) calculation on operators                                                                                                                                                                                                         | a**b =10 to the power 20                                  |
+| //                 | Floor Division - The division of operands where the result is the quotient in which the digits after the decimal point are removed. But if one of the operands is negative, the result is floored, i.e., rounded away from zero (towards negative infinity) − | 9//2 = 4 and 9.0//2.0 = 4.0, -11//3 = -4, -11.0//3 = -4.0 |
 
 ## Comparison (Relational) Operators (a = 10, b = 20)
 
@@ -72,14 +72,14 @@ a = 0011 1100
 
 b = 0000 1101
 
-| **Operator** | **Description** | **Example** |
-|---|---|---|
-| & Binary AND | Operator copies a bit to the result if it exists in both operands | (a & b) (means 0000 1100) |
-| `| Binary OR` | It copies a bit if it exists in either operand. | `(a|b)` = 61 (means 0011 1101) |
-| ^ Binary XOR | It copies the bit if it is set in one operand but not both. | (a ^ b) = 49 (means 0011 0001) |
-| ~ Binary Ones Complement | It is unary and has the effect of 'flipping' bits. | (~a ) = -61 (means 1100 0011 in 2's complement form due to a signed binary number. |
-| `<< Binary Left Shift` | The left operands value is moved left by the number of bits specified by the right operand. | `a << 2 = 240 (means 1111 0000)` |
-| `>> Binary Right Shift` | The left operands value is moved right by the number of bits specified by the right operand. | `a >> 2 = 15 (means 0000 1111)` |
+| **Operator**             | **Description**                                                                              | **Example**                                                                        |
+| ------------------------ | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| & Binary AND             | Operator copies a bit to the result if it exists in both operands                            | (a & b) (means 0000 1100)                                                          |
+| ` Binary OR              | It copies a bit if it exists in either operand.                                              | `(ab)` = 61 (means 0011 1101)                                                      |
+| ^ Binary XOR             | It copies the bit if it is set in one operand but not both.                                  | (a ^ b) = 49 (means 0011 0001)                                                     |
+| ~ Binary Ones Complement | It is unary and has the effect of 'flipping' bits.                                           | (~a ) = -61 (means 1100 0011 in 2's complement form due to a signed binary number. |
+| `<< Binary Left Shift`   | The left operands value is moved left by the number of bits specified by the right operand.  | `a << 2 = 240 (means 1111 0000)`                                                   |
+| `>> Binary Right Shift`  | The left operands value is moved right by the number of bits specified by the right operand. | `a >> 2 = 15 (means 0000 1111)`                                                    |
 
 ## Membership Operators
 

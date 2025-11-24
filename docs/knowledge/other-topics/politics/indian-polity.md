@@ -62,6 +62,7 @@ Unko nazar lag gyi h, itna acha kaam krte the. Thoda unka is time me humko suppo
 ### Politics
 
 - [MP Cough Syrup Tragedy \| India's Fake Medicine Crisis \| Who's The Next Victim? \| Akash Banerjee - YouTube](https://www.youtube.com/watch?v=nPytG61BX5o)
+- [Bihar ke jeetne waale ko baazigar kehte hain \| Ep. 3 : My X's stories - YouTube](https://www.youtube.com/watch?v=wFXKMq1FEjQ)
 
 ### References
 

@@ -88,25 +88,36 @@ https://www.paytmmoney.com/blog/emergency-funds
 - 10K per month
 - https://groww.in/p/savings-schemes/pradhan-mantri-vaya-vandana-yojana
 
-### SCSS - senior citizens saving scheme - 30 lakh (8 years) - 8%
+### SCSS - senior citizens saving scheme - 30 lakh (8 years) - 8.2%
 
 - **only one time deposit**
 - **no partial withdrawal**
 - This is allowed only after 1 complete year. After 1 year and before 2 years, 1.5% interest is deducted and the rest is paid out. After 2 years and before Maturity, 1% interest is deducted. After 3 years, premature closure is allowed without any deduction of interest. Use Form E as application for premature account closure.
 - After 5 years. You can extend it further by 3 years but submitting Form B.
 - An extension is allowed only once. (total time period - 8 years)
+	- The application for extension should be within one year of the date of maturity.
+- Premature withdrawal can be made only once. Withdrawals from NSS (not SCSS) accounts will be exempt from tax starting **August 29, 2024.**
+- Interest Not Compounding: Startling Wealth Gains
+	- Regretfully, interest in the SCSS is computed only on the principal investment amount, not on already accrued interest.
+	- Pensioners receiving a monthly income may find the required **quarterly interest payouts easy**. However, the SCSS's straightforward interest structure disadvantages individuals who want to maximise profits by reinvesting the interest component.
+- SCSS interest is payable quarterly. It’s an interest paying (non-cumulative) deposit where interest compounding (cumulative) option is Not there. So what ever prevailing rate is there, the depositor gets simple interest on that every quarter. That is you calculate the annual interest amount on the specified rate and divide it by 4 to get the quarterly interest payable. So interest payable is simple interest not compound.
+- No, you cannot make multiple monthly investments in a Senior Citizen Savings Scheme (SCSS) because it requires a single, one-time deposit per account. However, you can open multiple SCSS accounts to invest more, as long as the total deposits across all accounts do not exceed the Rs. 30 lakh limit.
 
 A 6% return from arbitrage fund is enough (5.37% post-tax) to beat the 7.75% bonds even without factoring in the one-lakh tax-free gains.
 
 [SCSS Interest Rate FY 2024-25: What can Senior Citizens get now? - The 1% News](https://news.onepercentclub.io/invest/latest-scss-interest-rate-for-senior-citizens/4154/)
 
-Mis (Monthly Income Scheme) - Limit 9 lakh
+Mis (Monthly Income Scheme) - Limit 9 lakh - 7.4% per annum (5-year maturity period)
 
 [Senior Citizen Savings Scheme (SCSS) - Interest Rate 2024, Tax Benefits, Eligibility, Rules and Opening SCSS Account](https://www.bajajfinserv.in/investments/scss-interest-rate)
 
 [Senior Citizen Savings Scheme (SCSS) - Interest Rate 2024, Tax Benefits, Eligibility, Rules & Opening SCSS Account](https://cleartax.in/s/senior-citizen-savings-scheme)
 
 [Investment Options for Senior Citizens in India - 2025 edition](https://freefincal.com/investment-options-for-senior-citizens-in-india-2025-edition/)
+
+[Disadvantages of Senior Citizen Savings Scheme (SCSS)](https://cleartax.in/s/disadvantages-of-senior-citizen-savings-scheme)
+
+[How to open SCSS in SBI ? : r/personalfinanceindia](https://www.reddit.com/r/personalfinanceindia/comments/1cciwix/how_to_open_scss_in_sbi/)
 
 ### Mahila Samman Saving certificate - 7.5% 2 lakh
 
@@ -270,3 +281,5 @@ These bonds listed on the stock exchanges offer flexibility in terms of liquidit
 - [How should senior citizens invest in 2022?](https://freefincal.com/how-should-senior-citizens-invest-in-2022/)
 - [What are some tax-efficient alternatives for debt mutual funds?](https://freefincal.com/what-are-some-tax-efficient-alternatives-for-debt-mutual-funds/)
 - [Which mutual fund is an alternative to fixed deposits?](https://freefincal.com/which-mutual-fund-is-an-alternative-to-fixed-deposits/)
+- [Where and How Should You INVEST in 2026? \| Bonds, Debt Funds & FD Investment Strategy 2026 - YouTube](https://www.youtube.com/watch?v=RidMVwKVin4)
+- [What Are Bond Ladders? A Simple Guide for Beginners. - YouTube](https://www.youtube.com/watch?v=oQ7JUjP8-ns)

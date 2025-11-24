@@ -129,6 +129,13 @@ Extensions that helps make obsidian better
 - line:("old school")
 - line:("old school") -path:Readwise (can be saved in a new note using native query)
 
+### Custom
+
+Toggle side bars
+
+- Left - `ctrl + [`
+- Right - `ctrl + ]`
+
 ## LYT - Linking Your Thinking
 
 - obsidian

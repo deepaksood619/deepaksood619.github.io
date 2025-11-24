@@ -51,6 +51,8 @@
 
 [5 oldest gold ETFs in India: How their long-term returns stack up against physical gold - Money News \| The Financial Express](https://www.financialexpress.com/money/5-oldest-gold-etfs-in-india-how-their-long-term-returns-stack-up-against-physical-gold-3813844/)
 
+[Are Gold ETFs safe? Do they store physical gold in India or abroad? Key FAQs answered](https://upstox.com/news/personal-finance/investing/are-gold-etfs-safe-do-they-store-physical-gold-in-india-or-abroad-faqs-answered/article-183440/)
+
 ### Gold Funds
 
 [Best Gold Mutual Funds To Invest in India 2025](https://www.etmoney.com/mutual-funds/featured/best-gold-mutual-funds/25)

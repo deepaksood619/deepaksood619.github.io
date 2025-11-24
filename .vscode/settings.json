@@ -5,6 +5,7 @@
     "gitlens.codeLens.recentChange.enabled": false,
     "gitlens.codeLens.recentChange.command": false,
     "gitlens.currentLine.enabled": false,
+    "files.autoSave": "onFocusChange",
     "workbench.editorAssociations": {
         "*.md": "default"
     },

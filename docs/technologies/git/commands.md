@@ -77,6 +77,25 @@ git config --global user.name "deepaksood619" (set username globally)
 git config --global core.editor "vim" (Change git editor)
 ```
 
+```toml title=".gitconfig"
+[core]
+    repositoryformatversion = 0
+    filemode = false
+    autocrlf = false
+    bare = false
+    logallrefupdates = true
+    ignorecase = true
+    precomposeunicode = true
+```
+
+**instruct your team to "Link" it**
+
+Since Git won't automatically read this new file, your team members need to tell their local Git to "include" this file in their configuration. They only need to run this **once**:
+
+`git config --local include.path ../.gitconfig`
+
+Ignore filemode - `git config --global core.filemode false`
+
 ## Create alias for a command
 
 ```bash

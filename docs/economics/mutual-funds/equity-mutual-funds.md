@@ -154,6 +154,106 @@ In the multicap category, the allocation decision is left to the fund manager wh
 
 ![image](../../media/Mutual-Funds-image7.jpg)
 
+## 10(10D) Funds
+
+Section 10(10D) of the Indian Income Tax Act, 1961, allows for a **tax exemption on certain sums received** from a life insurance policy. This can include death benefits, maturity amounts, and bonuses. While death benefits are generally fully tax-exempt, the exemption for maturity or surrender benefits is subject to conditions related to the annual premium paid relative to the sum assured. For policies issued after April 1, 2012, the premium must not exceed 10% of the sum assured, and for policies issued between April 1, 2003, and March 31, 2012, the limit is 20%. Policies for individuals with disability or specific ailments issued after April 1, 2013, have a 15% premium limit.
+
+### Limits
+
+Recent amendments introduced premium caps for tax-free maturity benefits on high-value policies. For ULIPs issued on or after February 1, 2021, the aggregate annual premium should not exceed ₹2.5 lakh for tax-free maturity. For non-linked policies (excluding ULIPs) issued on or after April 1, 2023, the aggregate annual premium limit for tax-free maturity is ₹5 lakh. If these premium limits are exceeded, maturity proceeds become taxable. The sum received on the death of the insurer is always tax-free irrespective of the premium paid.
+
+The Section 10(10D) exemption does not apply to amounts from a Keyman insurance policy, benefits received under disability-related sections, or annuity/pension payouts. Other relevant tax sections include Section 80C for premium deductions and Section 80D for health-related riders.
+
+As per the amendments, [**ULIP plans**](https://www.tataaia.com/life-insurance-plans/wealth-solutions.html) will be categorised as capital assets. All maturity, surrender, or partial withdrawal proceeds will be taxed to the policyholder as Capital Gains.
+
+### Are the life insurance maturity benefits taxable?
+
+In accordance with Section 10(10D), life insurance maturity benefits will be tax-free. But there are two conditions to qualify for the tax exemptions:
+
+- If the policy was acquired before April 1, 2012, the premium amount should not exceed 20% of the insurance coverage.
+- If the policy was obtained after April 1, 2012, **the premium amount should not be more than 10% of the insurance coverage.**
+
+### Policies / ULIPs
+
+ULIP's are a scam and trash - No its not. Ulips via RM is trash. There is a separate category of ULIPs which are direct and not available via RM. You pay mortality charges until your corpus is less than cover, after that around 1.5% fund management charges and no capital gains. 5 year lockin. Pay via cc, and 0 premium allocation charges.
+
+#### Tata AIA Smart SIP - Small Cap Discovery Fund
+
+- Since Inception CAGR - 34.09%
+- Lock-in period - 5 Years
+- 4 Policy plan
+	- Wealth secure
+	- Future secure
+	- Goal secure
+	- Family secure
+- Option to select Waiver of Premium or income benefits
+- Zero premium allocation charges
+- Additional unit allocations
+- Multiple funds and investment strategies to choose from
+- Wellness benefits with Vitality Riders
+- Tax Benefits as per applicable tax laws
+- Always see - **Illustration at 4%, and 8% return, division of charges**
+	- mortality charges
+	- FMC (Fund Management Charges) - 1.2%
+	- AUM - Top 200 funds - 27% -
+		- India Consumption Fund - 2400 Cr
+		- Top 200 - 2600 Cr
+		- After 5Y - partial withdraw, and full withdraw with no charges
+			- Partial withdraw - 25% per year - SWP can be done
+			- Jayant Dua
+		- **Maturity booster - 15Y Policy Term**
+		- **Wealth secure - mortality charges refund**
+	- Infinity Neu Infinity Card Charges
+		- Premium - 5.5%
+		- 5Y - 10K - 6L
+		- 38K - 20K SIP - 1100 per month cashback - 13200 return
+
+- Benefits
+	- **Maturity Benefit -** Fund Value, including Top-Up Premium Fund value, if any, valued at applicable NAV on the date of Maturity
+	- **Death Benefit -** In case of the death of the insured during the Tata AIA Smart SIP policy term and while the policy is in force, the nominee shall get the Highest of
+- Enhanced SMART Investment Option
+- Life-Stage based Portfolio Strategy
+
+Charges
+
+- Premium allocation charges
+- Fund management charges (FMC) - 1.2%
+- Policy administration charge - Huge, 6000 for 2,40,000 annual policy
+- Mortality charge
+- Discontinuance charges
+
+If you are going for hdfc then go for click to wealth or click to invest. Not sampoorna nivesh. Click to wealth and invest are decent no commission plans only available directly through hdfc life or market place like policy bazaar not available through RM. Premium should be 2.5L, cover should be 25L, for tax savings. Make policy term 5-10 years. After 8-10 years your mortality charges become 0 due to cover being less than corpus. You just pay fund management fees.
+
+- [Advise on TATA AIA Smart Value income plan : r/mutualfunds](https://www.reddit.com/r/mutualfunds/comments/1j75tm8/advise_on_tata_aia_smart_value_income_plan/)
+- [Tata AIA Smart SIP Plan 2025 \| TATA AIA Smart SIP Plan Review 2025 \| TATA AIA Life Insurance - YouTube](https://www.youtube.com/watch?v=cCKOad31QVc)
+- [**Tata AIA Smart SIP Plan: Good or Bad? A Detailed ULIP Review** \| Holistic Investment - YouTube](https://www.youtube.com/watch?v=1uABmexyZ8A)
+- [Tata aia life smart SIP plan \| tata aia life insurance smart sip plan complete detail \| ulip plan - YouTube](https://www.youtube.com/watch?v=UDFfLBk2GlE)
+
+Questions
+
+- Other Charges
+- Neucoins cashback on monthly vs lump sum
+
+### Create a second income with withdrawal strategies
+
+Earn passive income with the help of 3 partial withdrawal strategies which can be availed post lock-in period
+
+1. **Systematic Withdrawal Plan (SWP):** With this strategy you can withdraw your money in a structured manner. The withdrawal amount can be a pre-defined amount/ pre-defined percentage of Fund Value.
+2. **Chosen-rate Withdrawal Plan (CWP):** With this strategy, you can set the minimum growth of funds that you would like to stay invested with and withdraw the additional growth. Fund value basis actual growth and your required growth shall be compared, and any additional amount shall be paid out to you.
+3. **Index-based Withdrawal Plan (IWP):** The strategy is very similar to CWP, however instead of choosing your desired rate of growth, you can choose an index whose rate shall be considered as the rate of growth for comparison.
+
+#### Axis Max SIP - BSE 500 Dividend leaders 50 Index Fund
+
+- 5Y CAGR - 35.83%
+
+### Links
+
+- [Section 10(10D) of Income Tax Act - Benefits and Exemptions \| Tata AIA](https://www.tataaia.com/knowledge-centre/income-tax/section-10-10d.html)
+- [Section 10 (10D) - What is Section 10(10D) its Exemptions](https://www.iciciprulife.com/insurance-library/income-tax/section-10-10d.html)
+- [Section 10(10D) Alert! Is Your Life Insurance Still Tax-Free? Budget 2025 Update \| CA Ranjeet Kunwar - YouTube](https://www.youtube.com/watch?v=6RZiMKt98I0)
+- [Tax ULIP Explained: Save Big on Taxes with Smart Investments - YouTube](https://www.youtube.com/shorts/9YUOQVTRMnw)
+- [Section 10(10D) Alert! Is Your Life Insurance Still Tax-Free? Budget 2025 Update \| CA Ranjeet Kunwar - YouTube](https://www.youtube.com/watch?v=6RZiMKt98I0)
+
 ## Smallcase
 
 [True cost of Smallcase Investing EXPOSED | Ankur Warikoo](https://www.youtube.com/watch?v=RwKEqGOpqQs)

@@ -25,7 +25,7 @@ Data required to compute each output partition comes from a **single input parti
 Data for each output partition comes from **multiple input partitions** - requires shuffling across the network.
 
 - **Examples:** groupByKey, reduceByKey, join, distinct, repartition
-- **Performance:** Slower due to network 1/0 and stage boundaries
+- **Performance:** Slower due to network IO and stage boundaries
 - **Use Case:** Needed for aggregations, joins, and repartitioning
 
 ## Actions

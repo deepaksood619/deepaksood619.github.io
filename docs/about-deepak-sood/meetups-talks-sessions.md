@@ -1,5 +1,13 @@
 # Meetups / Talks / Sessions
 
+## Session: Building End-to-End Products using AI
+
+[Building End to End Product Using AI \| Building Personal Portfolio Website \| Draft Content - Google Docs](https://docs.google.com/document/d/1E0-iPwL15Si683ekUpzRlhyw9kCTglBcT3DpU6a1aMs/edit?usp=sharing)
+
+- [lovable-prompt-portfolio-website](ai/llm/lovable-prompt-portfolio-website.md)
+
+![session details](media/WhatsApp%20Image%202025-11-22%20at%2016.01.36_7da8c367.png)
+
 ## Hackathon - GenAI - Powered Solution - Hack The Matrix - UnsaidTalks (21 Sept 2025)
 
 [⏳ GenAI Powered Solution Hackathon: Hack the Matrix by Deepak Sood (AI Architect) - YouTube](https://www.youtube.com/live/_pwwfb1E2V8)

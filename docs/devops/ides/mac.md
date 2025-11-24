@@ -55,6 +55,7 @@ Open two instance of same application - **open -n MQTT.fx.app**
 ## Setting up Windows
 
 - Install wsl (powershell - `wsl --install`)
+	- `ln -s /mnt/c/Users/deepa/Repositories ~/Repositories`
 - Install ubuntu
 - https://code.visualstudio.com/docs/remote/wsl
 - In vscode setup WSL
@@ -70,7 +71,13 @@ Open two instance of same application - **open -n MQTT.fx.app**
 - folder options
 	- Hide extensions for known file types
 	- setup default downloads directory - [How to Make File Explorer Open to the Downloads Folder by Default - YouTube](https://www.youtube.com/watch?v=AxPIznxRNfc)
+- Date & Time settings
+	- show seconds in system tray
+	- [How do I show the day of the week in the taskbar? - Microsoft Q&A](https://learn.microsoft.com/en-us/answers/questions/4367502/how-do-i-show-the-day-of-the-week-in-the-taskbar)
 - Install apps
+	- chrome
+		- dark mode - I use both of dark reader extension and Chrome://flags. It can be interchangeable if the website has the problem with dark mode
+		- [Change every single website to 'Dark Mode' in Google Chrome. : r/chrome](https://www.reddit.com/r/chrome/comments/uhhu3v/change_every_single_website_to_dark_mode_in/)
 	- file download manager
 	- google drive
 	- obsidian
@@ -78,6 +85,13 @@ Open two instance of same application - **open -n MQTT.fx.app**
 	- Zoom
 	- jump desktop
 	- tailscale
+	- docker
+
+### Windows Shortcuts
+
+- win + A
+- win + N
+- win + v - clipboard history
 
 ## Setting up MAC
 
@@ -136,7 +150,7 @@ Open two instance of same application - **open -n MQTT.fx.app**
 	1. [GitHub - raycast/extensions: Everything you need to extend Raycast.](https://github.com/raycast/extensions)
 	2. [GitHub - raycast/script-commands: Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.](https://github.com/raycast/script-commands)
 
-#### Comparision
+#### Comparison
 
 - [Alfred vs Raycast vs Monarch \| Den's Hub](https://denshub.com/en/alfred-vs-raycast-vs-monarch/)
 - [Alfred vs. Raycast: my constant debate - Josh Collinsworth blog](https://joshcollinsworth.com/blog/alfred-raycast)
@@ -277,6 +291,10 @@ brew services cleanup
 
 - brew install maccy
 - [GitHub - p0deje/Maccy: Lightweight clipboard manager for macOS](https://github.com/p0deje/Maccy)
+	- Settings
+		- Launch at login
+		- Check for updates automatically
+		- Paste automatically
 	- SHIFT (⇧) + COMMAND (⌘) + C to popup Maccy or click on its icon in the menu bar.
 	- To disable Maccy and ignore new copies, click on the menu icon with OPTION (⌥) pressed.
 	- To ignore only the next copy, click on the menu icon with OPTION (⌥) + SHIFT (⇧) pressed.
@@ -320,20 +338,24 @@ fig --help       a summary of Fig commands with examples
 
 Search for - Silence bell in preferences
 
-Unchecking the "User interface sounds" doesn't disable all sound. But sliding the "Alert Volume" option all the way to the left (minimum), together with unchecking the other options does the trick.
+Unchecking the "**Play user interface sound effects**" doesn't disable all sound. But sliding the "**Alert Volume**" option all the way to the left (minimum), together with unchecking the other options does the trick.
 
 ##### Others
 
-- Finder - show status bar
-- Default Downloads folder
-- Search the current folder
-- Show seconds and date in clock
-- Show percent in battery
-- Show bluetooth status in status bar
-- touch id
-- Keyboard - Delay until repeat - short
-- Display text larger
-- Finder - show status bar (cmd + /)
+- Finder settings
+	- General - New Finder windows show - Default Downloads folder
+	- Advanced - When performing a search - Search the current folder
+	- Directly in Finder - show status bar (cmd + /)
+- System Preferences
+	- Show seconds and date in clock
+	- Show percent in battery
+	- Show bluetooth status in status bar
+	- touch id
+	- Keyboard - Delay until repeat - short
+	- Tap to click
+	- Trackpad - fast
+	- Display settings - Display text larger (1496 x 967)
+	- Dock settings - Turn Hiding On
 
 #### Setting up Shell
 
