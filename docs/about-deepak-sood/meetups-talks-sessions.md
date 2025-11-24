@@ -6,7 +6,7 @@
 
 - [lovable-prompt-portfolio-website](ai/llm/lovable-prompt-portfolio-website.md)
 
-![session details](media/WhatsApp%20Image%202025-11-22%20at%2016.01.36_7da8c367.png)
+![session details](../media/WhatsApp%20Image%202025-11-22%20at%2016.01.36_7da8c367.png)
 
 ## Hackathon - GenAI - Powered Solution - Hack The Matrix - UnsaidTalks (21 Sept 2025)
 
