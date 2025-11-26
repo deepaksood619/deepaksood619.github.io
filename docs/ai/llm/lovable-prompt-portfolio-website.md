@@ -4,9 +4,9 @@ https://lovable.dev/invite/3GWZN70
 
 ## Frontend
 
-Build a modern, responsive **frontend-only portfolio website*- using **React*- (or any Lovable-supported frontend framework). **No backend services*- (e.g., Supabase, Firebase, APIs) should be integrated — the site must work fully offline using **static demo data + localStorage*- with clearly documented hooks for future backend integration.
+Build a modern, responsive **frontend-only portfolio website*- using**React*- (or any Lovable-supported frontend framework). **No backend services*- (e.g., Supabase, Firebase, APIs) should be integrated — the site must work fully offline using**static demo data + localStorage*- with clearly documented hooks for future backend integration.
 
-**Owner:*- _Deepak Sood_  
+**Owner:*- *Deepak Sood*
 **LinkedIn:*- [https://www.linkedin.com/in/deepaksood619/](https://www.linkedin.com/in/deepaksood619/)
 
 Use publicly available profile information to write placeholder content (short bio, role/title, experience bullets, achievements). Do not fetch real-time data or integrate LinkedIn APIs — write **sample content that the owner can later edit.**
@@ -28,6 +28,7 @@ No external DB or backend code — only placeholders.
 ## Pages & Functional Requirements
 
 ### Home / Landing
+
 - Hero: Name, title, two CTAs:
     - Scroll to Projects
     - Scroll to Contact
@@ -35,11 +36,13 @@ No external DB or backend code — only placeholders.
 - Smooth scrolling + active nav highlighting.
 
 ### About Me
+
 - Short intro paragraph about owner (sample text).
 - Skill badges/icons.
 - Button linking to LinkedIn (new tab).
 
 ### Projects
+
 - Responsive grid of cards:
     - Title, thumbnail, short description, tech tags.
 - Modal or routed detail view with:
@@ -48,24 +51,28 @@ No external DB or backend code — only placeholders.
 - Optional search input.
 
 ### Experience
+
 - Vertical timeline or stacked cards.
 - Role, company, duration, bullet points.
 
 ### Achievements
+
 - Grid or badge cards.
 - Optional modal to preview certificates/images.
 
 ### Contact (Frontend-Only)
+
 - Fields: Name, Email, Message.
 - Validates input.
 - On submit:
-    
+
     - Does not send email.
     - Displays preview + instruction box:- “To enable sending emails, replace handler with API or service (EmailJS / Nodemailer).”
 
 ## Admin Panel (Frontend-Only)
 
 ### Authentication
+
 - Admin login page with username/password.
 - Validate credentials client-side using `.env.local` values.
 - No backend, no token issuance — simple simulated auth.
@@ -75,8 +82,9 @@ Demo Credentials
 `USERNAME=admin PASSWORD=demo123`
 
 ### Dashboard
+
 - Add/Edit/Delete:
-    
+
     - Projects
     - Experience
     - Achievements
@@ -84,19 +92,21 @@ Demo Credentials
 - Include **Reset to Demo Data*- button.
 
 ### Data Persistence
+
 - Provide `src/services/dataService.ts` with:
-    
+
     - localStorage implementation
     - `// TODO: replace with backend API calls` comments
 
 ## Tech & UX Requirements
+
 - React + Hooks (TS preferred).
 - Responsive (mobile/tablet/desktop).
 - Modern typography (Inter or Poppins).
 - Light theme default + dark mode toggle.
 - Smooth transitions, accessible modals, keyboard nav.
 - Well-structured code:
-    
+
     - `components/`
     - `pages/`
     - `services/`
@@ -157,26 +167,28 @@ Demo Credentials
 ```
 
 ## Deliverables
+
 - Complete frontend app runnable via `npm install && npm start`.
 - LocalStorage-based admin CRUD.
 - Contact form with validation + preview.
 - Dark mode + smooth scroll + responsive UI.
 - README including:
-    
+
     - How to run locally
     - How to modify admin credentials
     - Where to connect backend APIs later
     - How to enable email sending
 
 ## Copywriting Style
-- Professional, concise, confident.  
+
+- Professional, concise, confident.
 - Write placeholder text that the owner can edit.
 
 ## Backend
 
 I have a React + TypeScript portfolio project (Vite + shadcn/ui + React Router). I want to fully integrate Supabase for backend (database + authentication), make the admin panel functional with CRUD operations, and deploy to Vercel with proper configuration.
 
-### Requirements:
+### Requirements
 
 #### Supabase Setup & Integration
 
@@ -212,7 +224,7 @@ I have a React + TypeScript portfolio project (Vite + shadcn/ui + React Router).
   - ExperienceAdmin.tsx - add startDate and endDate date pickers, handle responsibilities array
   - AchievementsAdmin.tsx - ensure all fields work (title, description, date, image, link)
 - Add proper async handling, loading states, error handling, and user-friendly toast notifications
-- Remove any references to resetToDemo or localStorage  
+- Remove any references to resetToDemo or localStorage
 
 #### Environment & Security
 
@@ -301,6 +313,7 @@ I have a React + TypeScript portfolio project (Vite + shadcn/ui + React Router).
   - Supabase configuration steps
   - Vercel deployment steps
   - Testing verification steps
+
 - If you need any information from me (project URLs, credentials, etc.), stop and list exactly what you need and where I should get it
 
 #### Database Schema Requirements
@@ -308,7 +321,6 @@ I have a React + TypeScript portfolio project (Vite + shadcn/ui + React Router).
 - projects: id (uuid), title, description, long_description, thumbnail, technologies (text[]), live_url, code_url, images (text[]), created_at
 - experience: id (uuid), role, company, duration, start_date, end_date, responsibilities (text[]), created_at
 - achievements: id (uuid), title, description, date, image, link, created_at
-  
 
 #### Admin Features Required
 

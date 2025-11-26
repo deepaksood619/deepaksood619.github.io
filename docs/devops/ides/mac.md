@@ -184,20 +184,20 @@ https://www.google.com/inputtools
 
 [Logging in Outlook Account on Chrome Profile - Google Chrome Community](https://support.google.com/chrome/thread/153714697/logging-in-outlook-account-on-chrome-profile?hl=en)
 
-#### Extensions
+#### Chrome Extensions
 
 - darkreader
 - Session Buddy
-- adblock
+- **adblock plus**
 - Google meet attendance list
 - JSON formatter
 - Keepa - Amazon Price Tracker
 - LINER: ChatGPT Google Assistant
 - MarkDownload - Markdown Web Clipper
 - Moesif Origin & CORS Changer
-- SpeedUp: Netflix, Prime videos
+- **SpeedUp: Netflix, Prime videos**
 - YouTube NonStop
-- Duplicate Tab shortcut
+- **Duplicate Tab shortcut**
     - Duplicate the current tab - ctrl + d
     - New tab to the right - cmd + t
 - [ChatGPT Writer: Use AI on Any Site (GPT-4o, Claude, Gemini, and More)](https://chatgptwriter.ai/)
@@ -384,9 +384,18 @@ Unchecking the "**Play user interface sound effects**" doesn't disable all sound
 
 ![image](../../media/DevOps-IDEs-Mac-image2.jpg)
 
-#### Scroll buffer
+#### iterm settings
 
-`Preferences > Profiles > Terminal > scrollback lines > 100000`
+- scroll buffer - `Preferences > Profiles > Terminal > scrollback lines > 100000`
+- Dark color - `Preferences > Profiles > Colors > color preset`
+- No prompt Quit - `settings > general > closing > confirm quit iterm2`
+- Magic - Instant replay, Clipboard history
+- reopen last closed window iterm2
+	- cmd+z
+	- Method 3: Use system-level restore
+		- Go to System Preferences > General and turn off "Close windows when quitting an app.".
+		- Already - In iTerm2 preferences, go to General and set Startup to "Use system window restoration settings".
+		- When you quit iTerm2, the OS should save your windows. You can then reopen them from the Dock or by using the System Preferences > Recent Items menu.
 
 #### Natural Text Editing
 
@@ -483,6 +492,13 @@ alias file_decrypt='openssl enc -d -aes-256-cbc -salt -pbkdf2 -in enc_file.md.en
 - Global Alias (-g)
 
 https://thorsten-hans.com/5-types-of-zsh-aliases
+
+### Sidebar Widget Settings - Stocks
+
+- `^NSEI`
+- `^NSMIDCP`
+- NASDAQ
+- S&P 500
 
 ### References
 

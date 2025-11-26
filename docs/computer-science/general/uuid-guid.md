@@ -18,13 +18,14 @@ The 4 bits of digit M indicate the UUID version, and the 1--3 most significant b
 
 The canonical 8-4-4-4-12 format string is based on the "record layout" for the 16 bytes of the UUID:
 
-| **Name**                           | **Length (bytes)** | **Length (hex digits)** | **Contents**                                                                                 |
-|-------------------|-----------|------------|------------------------------|
-| time_low                           | 4                  | 8                       | integer giving the low 32 bits of the time                                                   |
-| time_mid                           | 2                  | 4                       | integer giving the middle 16 bits of the time                                                |
+| **Name**                           | **Length (bytes)** | **Length (hex digits)** | **Contents**                                                                               |
+| ---------------------------------- | ------------------ | ----------------------- | ------------------------------------------------------------------------------------------ |
+| time_low                           | 4                  | 8                       | integer giving the low 32 bits of the time                                                 |
+| time_mid                           | 2                  | 4                       | integer giving the middle 16 bits of the time                                              |
 | time_hi_and_version                | 2                  | 4                       | 4-bit "version" in the most significant bits, followed by the high 12 bits of the time     |
 | clock_seq_hi_and_res clock_seq_low | 2                  | 4                       | 1--3-bit "variant" in the most significant bits, followed by the 13--15-bit clock sequence |
-| node                               | 6                  | 12                      | the 48-bit node id                                                                           |
+| node                               | 6                  | 12                      | the 48-bit node id                                                                         |
+
 ![image](../../media/ds-Others-image1.jpg)
 
 https://tools.ietf.org/html/rfc4122.html

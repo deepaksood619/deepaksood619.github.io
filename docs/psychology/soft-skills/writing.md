@@ -4,6 +4,8 @@
 
 If you're useful over a long time period, you will end up looking smart anyway."
 
+I don't know what I think until I write it down
+
 https://neilpatel.com/blog/the-step-by-step-guide-to-writing-powerful-headlines
 
 ## Writing Tips

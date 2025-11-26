@@ -124,3 +124,7 @@ A cloud native solution to streamline API management across **edge**, **middle**
 ![api-gateway](../../media/Pasted%20image%2020240806193107.jpg)
 
 [API Gateway - ByteByteGo Newsletter](https://blog.bytebytego.com/p/api-gateway)
+
+## Links
+
+- [Build scalable REST APIs using Amazon API Gateway private integration with Application Load Balancer \| AWS Compute Blog](https://aws.amazon.com/blogs/compute/build-scalable-rest-apis-using-amazon-api-gateway-private-integration-with-application-load-balancer/)

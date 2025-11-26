@@ -1159,4 +1159,6 @@ Khaya Piya Kuch Nahi, Glass Toda, Barah Aana
 
 God, grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference. – Serenity Prayer by Reinhold Niebuhr
 
+“Wisdom is obviously more than being smart, more than the possession of knowledge and facts, more even than insight.” - Ryan Holiday
+
 ## End

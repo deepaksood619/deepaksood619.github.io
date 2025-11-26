@@ -2,9 +2,13 @@
 
 In a gentle way you can shake the world meaning
 
-## Altruism / Compassion
+## Altruism / Compassion / Gratitude
 
 Spend money while feeling good
+
+Organizational psychologist Adam Grant has said about this: “The point of gratitude is not just to feel it; it’s to show it. Experiencing gratitude serves our happiness. Expressing it reminds others how they matter.”
+
+- [The Neuroscience of Gratitude & Its Effects on the Brain](https://positivepsychology.com/neuroscience-of-gratitude/)
 
 Giving while living
 

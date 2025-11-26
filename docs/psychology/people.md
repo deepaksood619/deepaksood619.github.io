@@ -49,6 +49,8 @@ Use display of wealth to make his credibility is a dangerous person
 
 People don't remember what you say, but they remember how you made them feel
 
+**People are complicated.** They often don't say what they mean and don't mean what they say...
+
 ## Blinkist - An Autobiography by M.K. Gandhi (24 Apr 2019)
 
 The story of my experiments with truth

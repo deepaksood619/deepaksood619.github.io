@@ -78,6 +78,13 @@ You can also ask me questions about your editor selection by starting an inline 
 	- Comments
 - [Tips & Tricks for GitHub Copilot Chat in Visual Studio - Visual Studio (Windows) | Microsoft Learn](https://learn.microsoft.com/en-us/visualstudio/ide/copilot-chat-context)
 
+## Editors
+
+- [Cursor - The AI-first Code Editor](https://www.cursor.com/)
+- [Google Antigravity](https://antigravity.google/)
+- [Windsurf Editor](https://windsurf.com/)
+- [Zed - Code at the speed of thought](https://zed.dev/) - [GitHub - zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.](https://github.com/zed-industries/zed) - 66.3K Stars
+
 ## Others
 
 - Tabnine
@@ -94,9 +101,6 @@ You can also ask me questions about your editor selection by starting an inline 
 			- gemini
 	- Old - [Introducing Duet AI for Google Cloud – an AI-powered collaborator \| Google Cloud Blog](https://cloud.google.com/blog/products/application-modernization/introducing-duet-ai-for-google-cloud)
 - [Galileo AI · Copilot for interface design](https://www.usegalileo.ai/)
-- [Cursor - The AI-first Code Editor](https://www.cursor.com/)
-- [Windsurf Editor](https://windsurf.com/)
-- [Zed - Code at the speed of thought](https://zed.dev/) - [GitHub - zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.](https://github.com/zed-industries/zed) - 66.3K Stars
 - [GitHub - openai/codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
 - [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli)
 - [Claude Code: Deep Coding at Terminal Velocity \\ Anthropic](https://www.anthropic.com/claude-code)
