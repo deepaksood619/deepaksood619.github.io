@@ -1,0 +1,13 @@
+# Confluent Cloud vs Confluent Platform
+
+**Confluent Platform is a self-managed distribution of Apache Kafka that you control and operate, typically for on-premises or private cloud deployments, while Confluent Cloud is a fully-managed, cloud-native Kafka service that offloads all infrastructure management to Confluent**. The primary difference is the operational model: Platform offers flexibility and complete control at the cost of requiring significant operational expertise, whereas Cloud offers simplicity and scalability with a pay-as-you-go model but is managed by the provider. 
+
+| Feature               | Confluent Platform                                                                       | Confluent Cloud                                                                                                     |
+| --------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| **Management**        | Self-managed (on-premises or private cloud)                                              | Fully-managed by Confluent                                                                                          |
+| **Operational Model** | You own the entire operational lifecycle, including infrastructure                       | Confluent manages the infrastructure, including upgrades and patching                                               |
+| **Scalability**       | Manual scaling process                                                                   | Automatic, elastic scaling                                                                                          |
+| **Pricing**           | Subscription-based, often based on cluster size, users, or support                       | Pay-as-you-go, based on consumed resources like throughput, storage, and API calls                                  |
+| **Control**           | Complete control and customization                                                       | Less direct control over infrastructure, but offers features like private networking and BYOK for enhanced security |
+| **Ease of Use**       | Requires more technical expertise                                                        | Easier to use and manage due to automation                                                                          |
+| **Ecosystem**         | Open-core platform, you install and configure components like KsqlDB and Schema Registry | Includes managed versions of components like KsqlDB and Schema Registry                                             |
