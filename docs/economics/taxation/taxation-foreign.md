@@ -197,6 +197,7 @@ It is 5% of the remittance amount above INR 7 Lakhs. From October 1, 2023 onward
 ### Others
 
 - [Online Payment Processing Platform for Digital Businesses \| Payoneer](https://www.payoneer.com/en-in/)
+	- Payoneer fees in India vary by transaction type, with common charges including a 3.20% + $0.49 fee for credit card payments, a 1% fee for ACH bank debit payments from US clients, and an **annual inactivity fee of $29.95** if you don't receive at least $2,000 in 12 months. Transfers between Payoneer users are free, and using your local receiving account for payments in its matching currency is also free.
 - WesternUnion
 - BookMyForex
 	- [Best International Money Transfer Apps in India](https://www.bookmyforex.com/blog/best-international-money-transfer-apps-india/)

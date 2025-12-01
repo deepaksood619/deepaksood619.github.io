@@ -90,6 +90,8 @@ https://www.paytmmoney.com/blog/emergency-funds
 
 ### SCSS - senior citizens saving scheme - 30 lakh (8 years) - 8.2%
 
+- Quarterly Interest at 8.2% - Rs. 61,500 (Rs. 20,500 monthly)
+	- https://cleartax.in/s/scss-calculator
 - **only one time deposit**
 - **no partial withdrawal**
 - This is allowed only after 1 complete year. After 1 year and before 2 years, 1.5% interest is deducted and the rest is paid out. After 2 years and before Maturity, 1% interest is deducted. After 3 years, premature closure is allowed without any deduction of interest. Use Form E as application for premature account closure.
@@ -118,6 +120,8 @@ Mis (Monthly Income Scheme) - Limit 9 lakh - 7.4% per annum (5-year maturity per
 [Disadvantages of Senior Citizen Savings Scheme (SCSS)](https://cleartax.in/s/disadvantages-of-senior-citizen-savings-scheme)
 
 [How to open SCSS in SBI ? : r/personalfinanceindia](https://www.reddit.com/r/personalfinanceindia/comments/1cciwix/how_to_open_scss_in_sbi/)
+
+https://sbi.bank.in/web/faq-s/faq-scss
 
 ### Mahila Samman Saving certificate - 7.5% 2 lakh
 

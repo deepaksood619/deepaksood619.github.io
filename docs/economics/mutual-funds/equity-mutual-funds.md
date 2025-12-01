@@ -177,6 +177,17 @@ In accordance with Section 10(10D), life insurance maturity benefits will be tax
 
 ULIP's are a scam and trash - No its not. Ulips via RM is trash. There is a separate category of ULIPs which are direct and not available via RM. You pay mortality charges until your corpus is less than cover, after that around 1.5% fund management charges and no capital gains. 5 year lockin. Pay via cc, and 0 premium allocation charges.
 
+- 10(10)D
+- Hybrid (upto 7.5L - gains total tax free) - 100 - 67 bonds, 33 markets, capital guaranteed - 5Y Investment Lock-in (ELSS) - total 37L, -> 15 years maturity - 1.47 CR
+- After 5Y, 33% markets can be withdrawn - 48L capital guaranteed
+- Guaranteed (5L)
+- Equity (upto 2.5L) above 2.5L - 12.5%LTCG
+- 20% returns, last 25% returns
+- TATA AIA Multi-cap fund
+- Insurance cover free of cost - 75L cover
+- Fact sheet
+- tax-free premium limit on maturity proceeds to ₹10 lakh.
+
 #### Tata AIA Smart SIP - Small Cap Discovery Fund
 
 - Since Inception CAGR - 34.09%

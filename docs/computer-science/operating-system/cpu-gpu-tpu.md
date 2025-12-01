@@ -19,6 +19,10 @@ Specifically for matrix operations
 - GPUs are general purpose chips. They don't just perform matrix operations, they can really do any kind of computation.
 - GPUs are optimized for taking huge batches of data and performing the same operation over and over very quickly
 
+### Nvidia GPUs
+
+A single Nvidia server rack with 72 of their latest Blackwell GPUs costs around $3 million. And Nvidia is shipping about 1,000 of these racks every week. That's $3 billion in revenue per week from a single product line.
+
 ## TPU
 
 - TPU hardware is comprised of four independent chips.

@@ -85,6 +85,20 @@ You can also ask me questions about your editor selection by starting an inline 
 - [Windsurf Editor](https://windsurf.com/)
 - [Zed - Code at the speed of thought](https://zed.dev/) - [GitHub - zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.](https://github.com/zed-industries/zed) - 66.3K Stars
 
+## Comparisons
+
+**Claude Opus 4.5:** First model to break 80% on SWE-bench. 67% cheaper than before. Best for backend development and complex refactoring. 9.5/10.
+
+**Gemini 3:** 1 million token context window, 1501 Elo score. Better at frontend and creative work than Opus. Accessible across the Gemini Products. 8.5/10.
+
+**Nano Banana Pro:** Google’s image generator that finally works. 4K output, handles 5 people consistently, integrates everywhere. 8/10.
+
+**Antigravity:** Google’s new IDE. Buggy, crashes often, not ready. 6.5/10. Stick with Cursor or Windsurf / Claude Code or Faactory.ai for now.
+
+**What I actually use:** Gemini 3 for frontend, Opus 4.5 for backend, [Factory.ai](https://substack.com/redirect/fbb2b1c1-c8c7-4a4b-8e95-c9c8c058e735?j=eyJ1IjoiMjNveGkifQ.i9aFcICYm1GqpkppBiooaZpsFJWd6rQR64Wt5K5qc7c) or Claude Code for serious coding work.
+
+[Claude Opus 4.5 vs Gemini 3, Nano Banana Pro and Google Antigravity IDE: Nov 2025 Mega Review](https://www.thetoolnerd.com/p/claude-opus-45-vs-gemini-3-nano-banana-anti-gravity)
+
 ## Others
 
 - Tabnine

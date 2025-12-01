@@ -313,6 +313,7 @@ https://www.freecodecamp.org/news/the-design-thinking-process-explained
 - draw.io / drawio
 - [Excalidraw | Hand-drawn look & feel • Collaborative • Secure](https://excalidraw.com/)
     - [GitHub - excalidraw/excalidraw: Virtual whiteboard for sketching hand-drawn like diagrams](https://github.com/excalidraw/excalidraw)
+	    - [GitHub - ZimengXiong/ExcaliDash: A self hosted dashboard and organizer for Excalidraw with live collaboration.](https://github.com/ZimengXiong/ExcaliDash)
     - [Whimsical - Unite teams, tasks, and tools in one place](https://whimsical.com/)
 - [GitHub - mingrammer/diagrams: :art: Diagram as Code for prototyping cloud system architectures](https://github.com/mingrammer/diagrams)
     - [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)

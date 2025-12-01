@@ -43,6 +43,36 @@ One of the largest drawbacks of Flink at the moment is that it is still a very y
 
 Flink offers both low latency stream processing with support for traditional batch tasks. Flink is probably best suited for organizations that have heavy stream processing requirements and some batch-oriented tasks. Its compatibility with native Storm and Hadoop programs, and its ability to run on a YARN-managed cluster can make it easy to evaluate. Its rapid development makes it worth keeping an eye on.
 
+## Getting Started
+
+[Getting Started \| Apache Flink](https://nightlies.apache.org/flink/flink-docs-master/docs/dev/table/sql/gettingstarted/)
+
+### Source Tables
+
+As with all SQL engines, Flink queries operate on top of tables. It differs from a traditional database because Flink does not manage data at rest locally; instead, its queries operate continuously over external tables.
+
+Flink data processing pipelines begin with source tables. Source tables produce rows operated over during the query’s execution; they are the tables referenced in the `FROM` clause of a query. These could be Kafka topics, databases, filesystems, or any other system that Flink knows how to consume.
+
+Tables can be defined through the SQL client or using environment config file. The SQL client support [SQL DDL commands](https://nightlies.apache.org/flink/flink-docs-master/docs/dev/table/sql/overview/) similar to traditional SQL. Standard SQL DDL is used to [create](https://nightlies.apache.org/flink/flink-docs-master/docs/dev/table/sql/create/), [alter](https://nightlies.apache.org/flink/flink-docs-master/docs/dev/table/sql/alter/), [drop](https://nightlies.apache.org/flink/flink-docs-master/docs/dev/table/sql/drop/) tables.
+
+Flink has a support for different [connectors](https://nightlies.apache.org/flink/flink-docs-master/docs/connectors/table/overview/) and [formats](https://nightlies.apache.org/flink/flink-docs-master/docs/connectors/table/formats/overview/) that can be used with tables. Following is an example to define a source table backed by a [CSV file](https://nightlies.apache.org/flink/flink-docs-master/docs/connectors/table/formats/csv/) with `emp_id`, `name`, `dept_id` as columns in a `CREATE` table statement.
+
+```sql
+SHOW FUNCTIONS;
+
+CREATE TABLE employee_information (
+    emp_id INT,
+    name VARCHAR,
+    dept_id INT
+) WITH (
+    'connector' = 'filesystem',
+    'path' = '/path/to/something.csv',
+    'format' = 'csv'
+);
+
+SELECT * from employee_information WHERE dept_id = 1;
+```
+
 ## WaterMarks
 
 - [Understanding Watermarks in Apache Flink \| by Giannis Polyzos \| Medium](https://medium.com/@ipolyzos_/understanding-watermarks-in-apache-flink-c8793a50fbb8)

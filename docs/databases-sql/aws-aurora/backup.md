@@ -239,7 +239,7 @@ Amazon RDS supports importing MySQL databases by using backup files. You can cre
 
 [Replication with Amazon Aurora - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Replication.html)
 
-# Backup / Restore Tools
+## Backup / Restore Tools
 
 To restore your database, you can use the [pg_dump utility](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/PostgreSQL.Procedural.Importing.html#PostgreSQL.Procedural.Importing.EC2) for PostgreSQL or for PostgreSQL versions 10.10 and later, and 11.5. Or, you can use [Transportable Databases](https://aws.amazon.com/blogs/database/migrating-databases-using-rds-postgresql-transportable-databases/), which moves data much faster than the pg_dump/pg_restore method. The [mysqldump](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.Procedural.Importing.SmallExisting.html) utility is available for importing data into MySQL/MariaDB engines, or you can use the [external replication](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.Procedural.Importing.NonRDSRepl.html) method for reduced downtime. Similarly, you can use [Data Pump](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Oracle.Procedural.Importing.DataPump.html) for Oracle and [native full backup](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/SQLServer.Procedural.Importing.html#SQLServer.Procedural.Importing.Native.Using) (.bak files) for SQL Server.
 

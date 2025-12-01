@@ -153,6 +153,7 @@
 - https://www.plotch.ai/
 - [Genspark - The All-in-One AI Workspace](https://www.genspark.ai/)
 - [Glean – Work AI that Works \| Agents, Assistant & Search](https://www.glean.com/)
+- https://www.momentum.io/
 
 ## Purpose-built accelerators for generative AI
 

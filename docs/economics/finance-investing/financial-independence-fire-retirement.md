@@ -170,3 +170,4 @@ You can either be TIME rich or you can be MONEY rich. But, smart people are both
 - [**99% Rich People Do This: Money Making Habits & Opportunities \| Karan Bhagat \| FO431 Raj Shamani - YouTube**](https://www.youtube.com/watch?v=bA5UANrRhe0)
 - [How should I invest for the first 15 years of retirement?](https://freefincal.com/how-should-i-invest-for-the-first-15-years-of-retirement/)
 - [How can I be productive after I retire in seven years?](https://freefincal.com/how-can-i-be-productive-after-i-retire-in-seven-years/)
+- [Explained: The role of income laddering in retirement planning](https://freefincal.com/explained-the-role-of-income-laddering-in-retirement-planning/)

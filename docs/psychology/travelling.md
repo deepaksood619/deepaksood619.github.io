@@ -35,6 +35,19 @@ Travel is fun, so it is not mysterious that we like it. What _is_ mysterious is 
 
 - Vacation after bacche is not a vacation but a change of location
 
+## VISA - DS-160
+
+- [How to Apply US Tourist Visa from India \| Step by Step Detailed Guide \| DS-160 \| New US Visa Portal - YouTube](https://www.youtube.com/watch?v=C8uRVV04xjA)
+- Appointment Wait Time - [US B1/B2 visa wait time for Indians: Chennai sees relief, Delhi hits longest delays \| - The Times of India](https://timesofindia.indiatimes.com/life-style/travel/us-b1/b2-visa-wait-time-for-indians-chennai-sees-relief-delhi-hits-longest-delays/articleshow/124304469.cms)
+
+| **City/Post**        | **Interview Required (B1/B2) Average Wait Time** | **Interview Required (B1/B2) Next Available Appointment** |
+| -------------------- | ------------------------------------------------ | --------------------------------------------------------- |
+| **New Delhi**        | 3.5 months                                       | 10 months                                                 |
+| **Mumbai (Bombay)**  | 9.5 months                                       | 9.5 months                                                |
+| **Hyderabad**        | 4 months                                         | 5 months                                                  |
+| **Kolkata**          | 4.5 months                                       | 5 months                                                  |
+| **Chennai (Madras)** | NA                                               | 3 months                                                  |
+
 ## Links
 
 - [The Technium: 50 Years of Travel Tips](https://kk.org/thetechnium/50-years-of-travel-tips/)

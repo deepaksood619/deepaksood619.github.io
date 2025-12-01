@@ -33,6 +33,15 @@ https://andrewchen.com/the-law-of-shitty-clickthroughs
 
 Whether it is via replies, video views, likes, tweets, mentions, shares, comments, or tags, it's safe to assume that social media is the primary off-site channel your followers use to interact with you. They follow your social media pages and handles to stay updated with your latest offerings, reach out to you in case of a query or concern, be informed of the latest trends in the category, and so much more. Therefore, the interaction on all your social media handles is an important indicator of how well your audience is engaged with your business.
 
+### Enshittification
+
+Enshittification is the **process by which online platforms degrade in quality over time by prioritizing profit over user experience**. It occurs in three phases: initially, a platform attracts users with a high-quality, user-friendly experience; next, it prioritizes business customers (like advertisers), often at the users' expense; finally, it extracts maximum value from both users and business customers to benefit shareholders. This cycle can lead to increased ads, biased search results, and a generally worse user experience.
+
+[Why Nobody is Posting on Social Media Anymore \| Vantage with Palki Sharma \| N18G - YouTube](https://www.youtube.com/watch?v=gXnNvtbsKf8)
+
+- Posting Zero
+- [Why did our friends stop posting on social media? \| BBC Global - YouTube](https://www.youtube.com/watch?v=bN4MNdCAnWA)
+
 ## Number Of Form Fills
 
 If you own a website, you're almost definitely using forms at some or the other stage in your funnel to capture visitors' data. But, the number of form fills you receive depends on a variety of factors, including how engaged your visitors are with your business. After all, they will only willingly share their valuable data if they find merit in interacting with you and want to stay updated with your business' ongoings.

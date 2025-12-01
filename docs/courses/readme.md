@@ -95,9 +95,14 @@
 
 ### CKAD (12 Oct 2020)
 
+- Name - Deepak Kumar Sood
 - Scholarship - By The Linux Foundation
-- Certificate - Certified Kubernetes Application Developer (CKAD) - LF-05dwcmacjq
-- Course - Kubernetes for Developers (LFD259) - LF-evesgvlbl2
+- Certificate - Certified Kubernetes Application Developer (CKAD)
+	- Certificate ID Number - LF-05dwcmacjq
+- Course - Kubernetes for Developers (LFD259)
+	- Certificate ID Number - LF-evesgvlbl2
+- Status - Expired
+- The validity period for a CKAD certification depends on the exam date: it is 2 years for exams passed on or after April 1, 2024, and 3 years for exams passed before April 1, 2024.
 - https://training.linuxfoundation.org/certification/verify
 
 ### 365 Data Science Courses (Mar 2020)

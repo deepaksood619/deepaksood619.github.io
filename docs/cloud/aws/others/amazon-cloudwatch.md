@@ -68,3 +68,68 @@ ALARM("learn-dbread-alarm-CPU-80%") OR
 ALARM("django-prod-slave1-alarm-CPU-80%") OR
 ALARM("prod-django-master-alarm-CPU-80%")
 ```
+
+## Features Comparison: IA vs Standard Log Class
+
+![IA vs Standard Log Class](../../../media/Pasted%20image%2020251126175715.png)
+
+## Releases
+
+- [AWS re:Invent 2024 - \[NEW LAUNCH\] What’s new with Amazon CloudWatch (COP381-NEW) - YouTube](https://www.youtube.com/watch?v=WrNBOx0yduE)
+	- CloudWatch Database Insights
+		- Unified view in CloudWatch
+		- Configurable fleet-wide views
+		- Detailed SQL query metrics
+		- Application context with dependency mapping
+		- Easy getting-started experience with pre-built health dashboards
+		- Fully managed no agent experience
+	- CloudWatch unified navigation
+		- Navigation across related telemetry and resources
+		- Automatically reveals contextual relationships
+		- Single-click visualizations of key telemetry
+		- Expertly navigate systems
+		- On by default!
+	- OpenSearch on CloudWatch
+		- Enhanced query capabilities (PPL/SQL)
+		- Analyze logs in OpenSearch without data duplication
+		- Eliminates the need for complex ETL pipelines
+		- Leverage best of CloudWatch and OpenSearch features
+	- Distributed systems visibility
+		- Ability to see which piece of a request pathway has the issue
+		- Compare and contrast against similar spans
+		- It's an analytics problem: Finding specific span types, aggregating spans by properties, slicing/dicing
+		- Answer the question: Which component, and what's unique about this component?
+	- CloudWatch span analytics
+		- Complete visibility into application transactions at any scale
+		- Ingest spans as structured logs: no more sampling
+		- Interactive visual editor to slice and dice spans
+		- Leverage all CloudWatch Logs features
+		- One-click enablement for AWS X-Ray customers
+	- Amazon Q Developer Ops Assistant
+		- Investigate and remediate operational issues
+		- Guided root-cause analysis
+		- Automatically initiate investigations from alarms
+		- Collaborative space to share information
+		- End-to-end integrations with curated runbooks, chat, and ticketing systems
+- [AWS re:Invent 2023 - Get actionable insights from Amazon CloudWatch Logs (COP326) - YouTube](https://www.youtube.com/watch?v=aB5mGbiV_Kk&t=260s)
+	- Challenges with logs management
+		- Volume of logs continues of grow
+		- One size fits all
+		- Managing multiple solutions
+	- Amazon CloudWatch Logs Infrequent Access
+		- Fully managed ingestion, storage and encryption
+		- Investigate logs using purpose build Log Insights query engine
+		- 50% lower costs than standard class
+		- Consolidate all your logs in CloudWatch
+	- Pattern Analysis in Logs Insights
+	- AI-powered natural language query generation
+- 2022
+	- Cross account log analytics
+	- Sensitive data protection
+	- Increased query concurrency for logs insights
+- 2023
+	- Live tail
+	- EMP enhancements (Hi-res metrics, Error visibility, Header removal)
+	- 3 New log insights commands (dedup, pattern and multi-stats)
+	- Logs insights enhancements (concurrency, timeout, log group selection)
+	- Account-level sensitive data protection

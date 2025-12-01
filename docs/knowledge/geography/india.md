@@ -74,3 +74,4 @@
 
 - [India has a Big Stray Dogs Problem | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=tMsf6i7yID8)
 - [INDIA is Doomed - YouTube](https://youtu.be/bJ8Mz_HZMN4) - **No civics sense in India**
+- [Why is having maids so normalized in Indian households compared to Western countries? : r/india](https://www.reddit.com/r/india/comments/1l52jaw/why_is_having_maids_so_normalized_in_indian/)
