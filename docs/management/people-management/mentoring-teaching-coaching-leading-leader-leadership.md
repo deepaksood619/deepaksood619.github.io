@@ -10,6 +10,8 @@ Leadership is not equal to management
 
 The Leader is One Who, Out of the Clutter, Brings Simplicity. Out of Discord, Harmony. And Out of Difficulty, Opportunity. - Albert Einstein
 
+The Greatest Gift of Leadership Is Building a Team That Wants Each Other to Win.
+
 [Seth Godin -- Leadership vs. Management - What it means to make a difference](https://www.youtube.com/watch?v=qzoIAJYPQwo)
 
 - results orientation
@@ -34,9 +36,37 @@ The best way to encourage radical candor is to be open to it youself - demonstra
 
 ## Principles - https://www.amazon.jobs/en/principles
 
-- [What is mentoring?](https://blog-pragmaticengineer-com.cdn.ampproject.org/v/s/blog.pragmaticengineer.com/developers-mentoring-other-developers/amp/?amp_js_v=0.1#what-is-mentoring)
+### Mentoring
+
+[What is mentoring?](https://blog-pragmaticengineer-com.cdn.ampproject.org/v/s/blog.pragmaticengineer.com/developers-mentoring-other-developers/amp/?amp_js_v=0.1#what-is-mentoring)
 
 Mentorship is a learning relationship between an experienced person and someone who wants to grow.
+
+Mentoring is a reciprocal and collaborative professional relationship between a mentee and a more experienced person (the mentor) for the primary purpose of the mentee’s growth, learning, and career development. A mentoring relationship can provide: 
+
+- Guidance and perspective on opportunities and challenges
+- Support in identifying and attaining professional goals
+- A sounding board for ideas
+- Information, context, and insights unique to one’s experience/domain
+- An opportunity to learn and practice new skills 
+- An accountability partner
+
+#### Tips for finding a mentor
+
+1. **Set clear goals -** Having an understanding of what your goals are will make it easier to pinpoint what you’re looking for in a mentor.
+2. **Find the right person to be your mentor -** Depending on your level, you probably don’t need an executive to be your mentor. Someone 1-2 levels above you may be able to provide better and more relevant to you insight. Find someone who excels at your goals and ask them if they’ll be your mentor.
+3. **Different perspectives are good! -** If you want to push yourself to grow, finding someone with different perspectives than you will help you think outside of your own box.
+4. **Ask them to be your mentor**
+    - If you feel comfortable, ask them if they’ll mentor you!
+    - If you’re unsure whether you want a formal mentoring relationship, you can start by asking for guidance on a specific project or skillset that you’d like their insight on.
+
+#### Mentor / Mentee Responsibilities
+
+| Mentor Responsibilities                                                                                                                                                                                                                                                                                                                                                                     | Mentee Responsibilities                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Be present for your mentee**. The most common cause of failed mentorships is absence of the mentor. Try to choose a regular time for you to meet that you generally won’t have other meetings. If you have to reschedule a meeting with your mentee, let them know with ample notice and offer another time within the week to meet.                                                      | **Set mentorship goals and share them with the mentor.** The most successful mentorship matches involve clear goals for the mentorship.  You should make sure to establish with your mentor what you’d like to get out of the relationship. As a mentee, it’s OK if you don’t know exactly what your goals are on day 1.  If so, use your first meeting to work with the mentor and figure out what you’d like to get from your mentorship pairing. |
+| **Check in with your mentee** You should periodically consult with your mentee to make sure the mentorship is going in the direction they want, so you can course correct if they’re not getting what they need.  If the mentee has a set of goals, you should also be making sure you’re splitting your time across them appropriately and not focusing on one to the detriment of others. | **Set an agenda for each meeting.** You don’t need to come to every meeting with a doc that has a list of ten bullet points and five decision items, but you should have at least a few questions or topics prepared for each meeting.                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                                                                                                                             | **Drive scheduling of mentorship meetings.** As the mentee, you should be making sure the next meeting with your mentor is on the calendar.                                                                                                                                                                                                                                                                                                         |
 
 - [Onboarding: a specific type of mentoring](https://blog-pragmaticengineer-com.cdn.ampproject.org/v/s/blog.pragmaticengineer.com/developers-mentoring-other-developers/amp/?amp_js_v=0.1#onboarding-a-specific-type-of-mentoring)
 - [Informal mentorship: it's happening everywhere](https://blog-pragmaticengineer-com.cdn.ampproject.org/v/s/blog.pragmaticengineer.com/developers-mentoring-other-developers/amp/?amp_js_v=0.1#informal-mentorship-it-s-happening-everywhere)

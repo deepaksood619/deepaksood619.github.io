@@ -187,7 +187,7 @@ https://www.google.com/inputtools
 #### Chrome Extensions
 
 - darkreader
-- Session Buddy
+- Session Buddy (not required, use group tabs in chrome)
 - **adblock plus**
 - Google meet attendance list
 - JSON formatter

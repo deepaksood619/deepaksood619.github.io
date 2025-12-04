@@ -34,6 +34,10 @@ Locally Redundant Storage (LRS) in Azure stores data three times within a single
 - [Introduction to **Table storage** - Object storage in Azure \| Microsoft Learn](https://learn.microsoft.com/en-us/azure/storage/tables/table-storage-overview)
 	- Azure Table storage is a service that stores non-relational structured data (also known as structured NoSQL data) in the cloud, providing a key/attribute store with a schemaless design. Because Table storage is schemaless, it's easy to adapt your data as the needs of your application evolve. Access to Table storage data is fast and cost-effective for many types of applications, and is typically lower in cost than traditional SQL for similar volumes of data.
 
+### KQL
+
+Kusto Query Language (KQL) is a powerful, read-only query language designed for exploring, analyzing, and visualizing data stored in Azure Data Explorer, Azure Monitor Log Analytics, Azure Sentinel, and other services within the Microsoft ecosystem. It is optimized for large datasets and offers a data-flow model, where data is processed through a series of tabular operators connected by the pipe symbol (`|`).
+
 ## Others
 
 - [Lock your Azure resources to protect your infrastructure - Azure Resource Manager \| Microsoft Learn](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources?tabs=json)

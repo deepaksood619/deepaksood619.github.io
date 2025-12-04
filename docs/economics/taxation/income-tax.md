@@ -7,21 +7,18 @@
 | ₹5,00,001 to ₹10,00,000 | ₹12,500 + 20% of total income exceeding ₹5,00,000       |
 | Above ₹10,00,000        | ₹1,12,500 + 30% of total income exceeding ₹10,00,000    |
 
-An additional 4% Health & education cess will be applicable on the tax amount calculated as above.
-
-Surcharge: 10% of income tax, where total income exceeds Rs.50 lakh up to Rs.1 crore.
-
-Surcharge: 15% of income tax, where the total income exceeds Rs.1 crore.
+- An additional 4% Health & education cess will be applicable on the tax amount calculated as above.
+- Surcharge: 10% of income tax, where total income exceeds Rs.50 lakh up to Rs.1 crore.
+- Surcharge: 15% of income tax, where the total income exceeds Rs.1 crore.
+- Surcharge of 25% on Total Income more than Rs. 2 Cr to Rs. 5 crore
+- Surcharge of 37% on Total Income more than Rs. 5 Cr
 
 So ~3cr or 2% of Indians out of 140cr invest.
 
 ITR filings for FY 20/21 by income.
-
-~4.8cr ₹5lks
-
-~90lks ₹5 to ₹10lks
-
-~43lks ₹10lks
+- ~4.8cr ₹5lks
+- ~90lks ₹5 to ₹10lks
+- ~43lks ₹10lks
 
 If people have to invest or spend more, they need to earn at least ₹2.5lks/yr?
 

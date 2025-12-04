@@ -104,3 +104,88 @@ Usually, collect() is used to retrieve the action output when you have very smal
 `select()` is a transformation that returns a new DataFrame and holds the columns that are selected whereas collect() is an action that returns the entire data set in an Array to the driver.
 
 [PySpark Collect() - Retrieve data from DataFrame - Spark By Examples](https://sparkbyexamples.com/pyspark/pyspark-collect/)
+
+## Writing Data - .saveAsTable() vs .writeTo()
+
+### Using .saveAsTable()
+
+This is the **classic Spark SQL method**. It’s been around for a long time and works with Hive tables, Parquet tables, and modern catalogs like Iceberg.
+
+`df.write.mode("overwrite").format("iceberg").saveAsTable("iceberg_jdbc.default.people_data_iceberg")`
+
+This line of code:
+
+- Writes a DataFrame to the table people_data_iceberg
+- Uses the mode "overwrite" to replace existing data
+
+Supports Iceberg, Hive, or any table with a registered catalog
+
+But there’s a catch — **if you use mode("overwrite") without caution**, Spark will **drop and recreate the entire table**, deleting all partitions.
+
+**The Partition Overwrite Problem**
+
+Imagine you have this Iceberg table:
+
+![Article content](https://media.licdn.com/dms/image/v2/D5612AQH4bpNFVznggQ/article-inline_image-shrink_1000_1488/B56Zpid68mG0AQ-/0/1762588602799?e=1766620800&v=beta&t=Iq6wAq2jJGA2ZfkqhCHTiPbR2-sXPq13d81AimcLoVc)
+
+Now, you only want to replace records for India.
+
+If you do this:
+
+```
+india_df = df.filter("country = 'India'")
+india_df.write.mode("overwrite").format("iceberg").saveAsTable("iceberg_jdbc.default.people_data_iceberg")
+```
+
+Boom — Spark overwrites the entire table unless you **enable dynamic partition overwrite**.
+
+### The Workaround — Dynamic Partition Overwrite
+
+To safely overwrite only specific partitions, you can enable a Spark config:
+
+```
+spark.conf.set("spark.sql.sources.partitionOverwriteMode", "dynamic")
+```
+
+Then run:
+
+```
+india_df.write.mode("overwrite").format("iceberg").saveAsTable("iceberg_jdbc.default.people_data_iceberg")
+```
+
+### Enter .writeTo(): The Modern API
+
+Starting from Spark 3.1+, a **new, safer, and more expressive API** was introduced — .writeTo().
+
+Here’s how it looks:
+
+```
+india_df.writeTo("iceberg_jdbc.default.people_data_iceberg").overwritePartitions()
+```
+
+This achieves the same goal — only the India partition is replaced — but with **no extra configuration needed**.
+
+Now Spark will:
+
+- Detect the partitions present in the incoming DataFrame (country='India')
+- Overwrite **only those partitions**
+- Leave others (USA, Brazil) untouched
+
+Without this config, you risk erasing your whole table.
+
+### Final Thoughts
+
+While .saveAsTable() remains useful and backward-compatible, it’s a **legacy approach** designed before modern table formats existed. On the other hand, .writeTo() is built for **atomic, schema-aware, and partition-safe writes** — especially for **Iceberg**, **Delta**, and **Hudi** tables.
+
+#### Use .writeTo() when:
+
+- Working with Iceberg or Delta
+- You want fine-grained control (create, replace, overwritePartitions)
+- You care about explicit and safe write semantics
+
+#### Use .saveAsTable() when:
+
+- You’re integrating with legacy Hive tables
+- You already have a global partitionOverwriteMode set
+
+[saveAsTable() vs .writeTo() in Apache Spark: The Subtle but Powerful Difference](https://www.linkedin.com/pulse/saveastable-vs-writeto-apache-spark-subtle-powerful-difference-bf9ic/)

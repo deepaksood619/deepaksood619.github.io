@@ -54,6 +54,7 @@ https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layou
 - Programmer Weekly
 - Metadata weekly
 - [TLDR Newsletter - A Byte Sized Daily Tech Newsletter](https://tldr.tech/)
+- [Paged Out!](https://pagedout.institute/)
 
 ## Learning + Taking notes
 

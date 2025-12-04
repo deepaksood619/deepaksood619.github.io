@@ -231,3 +231,9 @@ RAS - robotic assisted surgery
 Across the world, there is always confusion as to which is better - heat or ice application.
 
 Joe Gulotta, a chiropractor from New Jersey says both can be used, depending on what your ailment is. While heat pads are perfect for muscle relaxation and increasing blood flow, ice packs are best to alleviate inflammation and short-term pain relief.
+
+### Iatrogenics
+
+Iatrogenics refers to a disease or condition caused by medical examination, treatment, or advice. It can occur from a variety of medical activities, including diagnosis, drug reactions, surgical complications, errors, and even negligent care. The term can also refer to the harm that outweighs the benefits of an intervention, a concept sometimes called "iatrogenic harm". 
+
+[Iatrogenesis - Wikipedia](https://en.wikipedia.org/wiki/Iatrogenesis)

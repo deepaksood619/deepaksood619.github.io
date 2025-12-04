@@ -89,6 +89,9 @@ Studies have pointed out that Okinawans have lower rates of age-related conditio
 - [home-house-building](knowledge/geography/home-house-building.md)
 - [Please India. Stop This. - YouTube](https://www.youtube.com/watch?v=Be-QX2fkb30&ab_channel=MohakMangal)
     - Lack of civic sense and education
+    - [Vikas Divyakirti on India, China, Power Struggles, Global Crisis & Modi \| FO438 Raj Shamani - YouTube](https://youtu.be/2hl-uVjXZzc)
+	    - Power Fetish (Feudal mindset)
+	    - Schooling - Child how is disobedient is cool and feels pride
 - [She Left a HIGH Paying Job To Start Farming? | Life Beyond Freedom - YouTube](https://www.youtube.com/watch?v=LdbHvjxA1fc)
 - [Why are Indians Leaving India?](https://youtu.be/Udl9nAP6ju0)
 - [Is It Worth Leaving India for a Better Life?](https://youtu.be/jMTz9j4YrmY)

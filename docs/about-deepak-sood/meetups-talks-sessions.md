@@ -8,6 +8,8 @@
 
 ![session details](../media/WhatsApp%20Image%202025-11-22%20at%2016.01.36_7da8c367.png)
 
+[#gratitude #mentorship #build4hire #unsaidtalks #learningmindset \| Deepak Sood](https://www.linkedin.com/feed/update/urn:li:activity:7402288996598669312/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
+
 ## Hackathon - GenAI - Powered Solution - Hack The Matrix - UnsaidTalks (21 Sept 2025)
 
 [⏳ GenAI Powered Solution Hackathon: Hack the Matrix by Deepak Sood (AI Architect) - YouTube](https://www.youtube.com/live/_pwwfb1E2V8)

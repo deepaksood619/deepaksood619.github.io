@@ -88,6 +88,7 @@ https://joinditto.in
 
 ## Health Insurance
 
+- Restoration Benefit
 - [Health insurance policy - You need to change immediately! Health insurance will be rejected? - YouTube](https://www.youtube.com/watch?v=A0NjCGEDrcI)
 - [Why your base health policy and super top-up policy should have the same renewal date!](https://freefincal.com/why-your-base-health-policy-and-super-top-up-policy-should-have-the-same-renewal-date/)
 - [Does it make sense to buy a 25 Lakh base health insurance policy?](https://freefincal.com/does-it-make-sense-to-buy-a-25-lakh-base-health-insurance-policy/)

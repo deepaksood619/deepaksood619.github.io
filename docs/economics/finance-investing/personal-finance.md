@@ -80,3 +80,4 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 - [Here's a financial guide for couples in mid thirties with income of Rs 2.5 lakh per month - BusinessToday](https://www.businesstoday.in/magazine/money-today/investment/as-good-as-it-gets/story/256057.html)
 - [Reasonable and unreasonable risks in investing and money management](https://freefincal.com/reasonable-and-unreasonable-risks-in-investing-and-money-management/)
 - [Stop wasting Rs 40,000 on food delivery apps. CA shares the smarter switch that saves Rs 5.6 lakh](https://economictimes.indiatimes.com/magazines/panache/stop-wasting-rs-40000-on-food-delivery-apps-ca-shares-the-smarter-switch-that-saves-rs-5-6-lakh/articleshow/125649996.cms)
+- [Convenience and Comparison Trap: Why You Cannot Stay Invested in Equity for the Long Term](https://freefincal.com/convenience-and-comparison-trap-why-you-cannot-stay-invested-in-equity-for-the-long-term/)

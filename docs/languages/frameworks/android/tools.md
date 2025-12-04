@@ -36,6 +36,7 @@
 - CMake
 - Toolchain (Cross compilers)
 - Gradle (Build System)
+	- The Android Gradle plugin (AGP) is an essential component of the Android Studio build system. It extends Gradle with features specifically for building Android applications. While AGP is typically updated in conjunction with Android Studio, it operates independently and can be updated separately from the IDE itself.
 - Instrumented tests
 - **Testing Frameworks**
     - Local Unit Tests (Mockito)

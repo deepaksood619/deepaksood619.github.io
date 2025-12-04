@@ -99,6 +99,7 @@ Recommended Calorie intake - 2800
     - Pregnant women need it the most
 5. Melatonin
 6. St John's Wort (flower)
+7. [“Muscle Nectar Triple Strength Fish Oil Tested 🧪 Triple or Single?” - YouTube](https://youtu.be/mapMenzRFe4)
 
 ### Nitin Kamath's Supplements
 

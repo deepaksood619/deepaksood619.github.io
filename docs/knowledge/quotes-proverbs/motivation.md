@@ -731,6 +731,16 @@ That’s why you must think long and hard before jumping the gun. Check and eval
 
 [Beware of the passion principle - The Globe and Mail](https://www.theglobeandmail.com/business/careers/management/article-beware-of-the-passion-principle/)
 
+## Talks
+
+1. [Sleep Is Your Superpower \| Matt Walker \| TED - YouTube](https://www.youtube.com/watch?v=5MuIMqhT8DM)
+2. [Inside the Mind of a Master Procrastinator \| Tim Urban \| TED - YouTube](https://www.youtube.com/watch?v=arj7oStGLkU)
+3. [Your Body Language May Shape Who You Are \| Amy Cuddy \| TED - YouTube](https://www.youtube.com/watch?v=Ks-_Mh1QhMc)
+4. [Start with why -- how great leaders inspire action \| Simon Sinek \| TEDxPugetSound - YouTube](https://www.youtube.com/watch?v=u4ZoJKF_VuA)
+5. [How I Held My Breath for 17 Minutes TED Talk \| David Blaine - YouTube](https://www.youtube.com/watch?v=UX_Ev94t2nc)
+6. [How to Make Stress Your Friend \| Kelly McGonigal \| TED - YouTube](https://www.youtube.com/watch?v=RcGyVTAoXEU)
+7. [The surprising habits of original thinkers \| Adam Grant \| TED - YouTube](https://www.youtube.com/watch?v=fxbCHn6gE3U)
+
 ## Links
 
 - [World Leading Therapist: 3 Simple Steps To Remove Your Negative Thoughts: Marisa Peer | E154 - YouTube](https://www.youtube.com/watch?v=bzilnhq3Mkg)
