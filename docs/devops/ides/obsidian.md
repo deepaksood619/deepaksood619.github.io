@@ -4,6 +4,8 @@ Obsidian is a powerful and extensible knowledge base that works on top of your l
 
 ## Extensions
 
+[2024 Gems of the year winners - Obsidian](https://obsidian.md/blog/2024-goty-winners/)
+
 Extensions that helps make obsidian better
 
 - Advanced Tables
@@ -41,16 +43,19 @@ Extensions that helps make obsidian better
 - [GitHub - scambier/obsidian-omnisearch: A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.](https://github.com/scambier/obsidian-omnisearch)
 - [GitHub - OliverBalfour/obsidian-pandoc: Pandoc document export plugin for Obsidian (https://obsidian.md)](https://github.com/OliverBalfour/obsidian-pandoc)
 - [GitHub - meld-cp/obsidian-encrypt: Hide secrets in your Obsidian.md vault](https://github.com/meld-cp/obsidian-encrypt)
-- Settings / Preferences
-	- Templates - Date Format - `ddd, DD MMM YYYY`
+- [GitHub - logancyang/obsidian-copilot: THE Copilot in Obsidian](https://github.com/logancyang/obsidian-copilot)
+
+**Settings / Preferences**
+
+- Templates - Date Format - `ddd, DD MMM YYYY`
 
 ## Themes
 
-[Ultimate guide to best Obsidian themes | Elizabeth Butler](https://elizabethbutlermd.com/5-of-the-best-custom-minimalist-digital-note-taking-themes-for-obsidian-in-2022/)
-
-[7+ Obsidian Themes for a Drastic Design Facelift!](https://akshayhallur.com/blog/best-obsidian-themes)
-
+- [Ultimate guide to best Obsidian themes | Elizabeth Butler](https://elizabethbutlermd.com/5-of-the-best-custom-minimalist-digital-note-taking-themes-for-obsidian-in-2022/)
+- [7+ Obsidian Themes for a Drastic Design Facelift!](https://akshayhallur.com/blog/best-obsidian-themes)
 - Things (current)
+	- [GitHub - colineckert/obsidian-things: An Obsidian theme inspired by the beautifully-designed app, Things.](https://github.com/colineckert/obsidian-things)
+- [GitHub - aaaaalexis/obsidian-cupertino: A native look and feel Obsidian theme designed for a clean, focused, and mobile-friendly writing experience.](https://github.com/aaaaalexis/obsidian-cupertino)
 
 ## Obsidian Shortcuts
 

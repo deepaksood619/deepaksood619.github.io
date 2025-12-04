@@ -61,6 +61,8 @@ Athena supports read, time travel, write, and DDL queries for Apache Iceberg tab
 
 [Apache Iceberg](https://iceberg.apache.org/) is an open table format for very large analytic datasets. Iceberg manages large collections of files as tables, and it supports modern analytical data lake operations such as record-level insert, update, delete, and time travel queries. The Iceberg specification allows seamless table evolution such as schema and partition evolution, and its design is optimized for usage on Amazon S3. Iceberg also helps guarantee data correctness under concurrent write scenarios.
 
+[apache-iceberg](technologies/apache/apache-iceberg.md)
+
 https://docs.aws.amazon.com/athena/latest/ug/querying-iceberg.html
 
 [Build a serverless transactional data lake with Apache Iceberg, Amazon EMR Serverless, and Amazon Athena | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/build-a-serverless-transactional-data-lake-with-apache-iceberg-amazon-emr-serverless-and-amazon-athena/)

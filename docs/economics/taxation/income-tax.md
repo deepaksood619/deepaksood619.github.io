@@ -16,6 +16,7 @@
 So ~3cr or 2% of Indians out of 140cr invest.
 
 ITR filings for FY 20/21 by income.
+
 - ~4.8cr ₹5lks
 - ~90lks ₹5 to ₹10lks
 - ~43lks ₹10lks

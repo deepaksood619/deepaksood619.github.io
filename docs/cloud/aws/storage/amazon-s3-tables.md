@@ -70,6 +70,7 @@ AWS S3 Tables redefine how organizations manage and query Iceberg tables, combin
 
 ## Links
 
+- [apache-iceberg](technologies/apache/apache-iceberg.md)
 - [New Amazon S3 Tables: Storage optimized for analytics workloads | AWS News Blog](https://aws.amazon.com/blogs/aws/new-amazon-s3-tables-storage-optimized-for-analytics-workloads/)
 - [AWS re:Invent 2024 - What’s new with Amazon S3 (STG212) - YouTube](https://youtu.be/pbsIVmWqr2M?si=UYfb1GbqHUi2b3bi)
 - [Amazon S3 Tables](https://aws.amazon.com/s3/features/tables/)

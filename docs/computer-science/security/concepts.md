@@ -78,6 +78,19 @@ RBAC allows access based on the job title. RBAC largely eliminates discretion wh
 
 https://en.wikipedia.org/wiki/Role-based_access_control
 
+### Fine-Grained Access Control (FGAC)
+
+Fine-Grained Access Control (FGAC) is a security method that restricts access to resources at a very detailed and precise level, often down to **individual records, columns, or fields** within a database, or specific features within an application.
+
+Unlike **Coarse-Grained Access Control (CGAC)**, which typically grants broad access based on a single factor (like a user's role), FGAC evaluates multiple attributes, conditions, and policies simultaneously to determine a user's exact permissions for a specific action and resource.
+
+#### How It Works (Authorization Models)
+
+FGAC is often implemented using or is closely related to advanced authorization models:
+
+- **Attribute-Based Access Control (ABAC):** This is the most common model for achieving FGAC. It uses policies that specify access based on the attributes of the user, the resource, and the environment. For example: "A user with the role 'Analyst' _in the 'Finance' department_ can _view_ (SELECT) customer data _only during business hours_ and _only the 'Name' and 'Address' columns_."
+- **Role-Based Access Control (RBAC) with Extensions:** Traditional RBAC can be too rigid for FGAC, but modern systems often combine RBAC (using roles) with other factors to add granularity (e.g., granting a role access but restricting it based on row/column filters).
+
 ### [Rule-Based Access Control](https://en.wikipedia.org/w/index.php?title=Rule-based_access_control&action=edit&redlink=1)(RAC)
 
 RAC method is largely context based. Example of this would be only allowing students to use the labs during a certain time of day.

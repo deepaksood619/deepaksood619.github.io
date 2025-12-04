@@ -23,7 +23,7 @@ Kora was engineered to do the following:
 
 ## Benefits
 
-- **Elasticity**: Enables [30x faster](https://www.confluent.io/blog/10x-apache-kafka-elasticity/) scale up and down 
+- **Elasticity**: Enables [30x faster](https://www.confluent.io/blog/10x-apache-kafka-elasticity/) scale up and down
 - **Reliability**: More than [10x higher availability](https://www.confluent.io/blog/making-apache-kafka-10x-more-reliable/) when compared to the fault rate of our self-managed customers or other cloud services, allowing us to provide a 99.99% uptime SLA
 - **Performance**: Significantly lower latency than self-managed Kafka on similar hardware (see performance results [below](https://www.confluent.io/blog/cloud-native-data-streaming-kafka-engine/#performance))
 - **Cost**: An optimized cost structure that saves customers money, as discussed in the [Confluent Cost Savings Challenge](https://www.confluent.io/blog/understanding-and-optimizing-your-kafka-costs-part-4-savings-challenge/)

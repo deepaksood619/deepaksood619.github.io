@@ -175,37 +175,7 @@ Apache Helix is a generic cluster management framework used for the automatic ma
 - [Isis](http://isis.apache.org/)
 - [Ignite](http://ignite.apache.org/) - In-memory data fabric
 - [Impala](http://impala.apache.org/) - Distributed SQL on YARN
-
-### Iceberg
-
-  Iceberg is a high-performance format for huge analytic tables. Iceberg brings the reliability and simplicity of SQL tables to big data, while making it possible for engines like Spark, Trino, Flink, Presto, and Hive to safely work with the same tables, at the same time.
-
-- Expressive SQL
-- Full Schema Evolution
-- Hidden Partitioning
-- Time Travel and Rollback
-- Data Compaction
-
-#### Features
-
-- Use SQL tables for big data
-- Work with the same tables simultaneously using engines like Spark, Trino, Flink, Presto, Hive, Impala, StarRocks, Doris, and Pig
-- Capture metadata information on the state of datasets as they change over time
-- Partition large tables into smaller ones to speed up read and load times
-- Run reproducible queries on the same table snapshot
-- Reset tables to their previous state to easily walk back errors
-- Enable ACID transactions at scale, allowing concurrent writers to work in tandem
-- Track changes to a table over time
-- Query historical data and verify changes between updates
-
-![apache-iceberg](../../media/Screenshot%202023-12-26%20at%2012.39.39.PM.jpg)
-
-- https://iceberg.apache.org
-- [Streaming from Apache Iceberg - Building Low-Latency and Cost-Effective Data Pipelines - YouTube](https://youtu.be/x6WX_JE96bU?si=hvcH0LIdafH6ZNBU)
-- [A Data Engineer's Guide to PyIceberg \| HackerNoon](https://hackernoon.com/a-data-engineers-guide-to-pyiceberg)
-- [GitHub - apache/iceberg-python: Apache PyIceberg](https://github.com/apache/iceberg-python)
-- [Apache Iceberg: What It Is and Why Everyone’s Talking About It. - YouTube](https://www.youtube.com/watch?v=TsmhRZElPvM)
-- [What is Iceberg Versioning and How It Improves Data Reliability](https://lakefs.io/blog/iceberg-versioning/)
+- [Iceberg](technologies/apache/apache-iceberg.md)
 
 ## J
 

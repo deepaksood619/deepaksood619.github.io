@@ -177,13 +177,13 @@ Without this config, you risk erasing your whole table.
 
 While .saveAsTable() remains useful and backward-compatible, it’s a **legacy approach** designed before modern table formats existed. On the other hand, .writeTo() is built for **atomic, schema-aware, and partition-safe writes** — especially for **Iceberg**, **Delta**, and **Hudi** tables.
 
-#### Use .writeTo() when:
+#### Use .writeTo() when
 
 - Working with Iceberg or Delta
 - You want fine-grained control (create, replace, overwritePartitions)
 - You care about explicit and safe write semantics
 
-#### Use .saveAsTable() when:
+#### Use .saveAsTable() when
 
 - You’re integrating with legacy Hive tables
 - You already have a global partitionOverwriteMode set

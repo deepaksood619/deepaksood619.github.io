@@ -10,6 +10,7 @@
 - [Apache Samza](apache-samza)
 - [Apache Flink](apache-flink)
 - [Apache Hudi](technologies/apache/apache-hudi.md)
+- [Apache Iceberg](technologies/apache/apache-iceberg.md)
 - [CNCF](cncf)
 - [Celery](technologies/celery/readme.md)
 - [Others](technologies/apache/others.md)

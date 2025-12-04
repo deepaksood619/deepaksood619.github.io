@@ -55,7 +55,7 @@
 	    7. [Nyota](https://zapier.com/blog/best-ai-meeting-assistant/#nyota) for AI feature variety
 	    8. [Fellow](https://zapier.com/blog/best-ai-meeting-assistant/#fellow) for native integrations
 	    9. [Fathom](https://zapier.com/blog/best-ai-meeting-assistant/#fathom) for a free option
-	8. [Krisp - AI Meeting Assistant with Built-In Noise Cancellation](https://krisp.ai/)
+	   8. [Krisp - AI Meeting Assistant with Built-In Noise Cancellation](https://krisp.ai/)
 17. Calendly
     1. Appointment scheduling with Google Calendar
 18. https://topmate.io

@@ -42,13 +42,13 @@ The best way to encourage radical candor is to be open to it youself - demonstra
 
 Mentorship is a learning relationship between an experienced person and someone who wants to grow.
 
-Mentoring is a reciprocal and collaborative professional relationship between a mentee and a more experienced person (the mentor) for the primary purpose of the mentee’s growth, learning, and career development. A mentoring relationship can provide: 
+Mentoring is a reciprocal and collaborative professional relationship between a mentee and a more experienced person (the mentor) for the primary purpose of the mentee’s growth, learning, and career development. A mentoring relationship can provide:
 
 - Guidance and perspective on opportunities and challenges
 - Support in identifying and attaining professional goals
 - A sounding board for ideas
 - Information, context, and insights unique to one’s experience/domain
-- An opportunity to learn and practice new skills 
+- An opportunity to learn and practice new skills
 - An accountability partner
 
 #### Tips for finding a mentor

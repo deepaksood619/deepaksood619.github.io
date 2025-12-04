@@ -61,15 +61,23 @@
     1. [AWS Certified Data Engineer - Associate Questions](courses/aws-certified-data-engineer-associate-questions.md)
 29. [Udemy - Becoming a Production MySQL DBA](courses/udemy-becoming-a-production-mysql-dba.md) (June'2024)
 30. [Attention in Transformers](courses/attention-in-transformers.md)
-31. [aws-certified-cloud-practitioner-ccp](courses/aws-certified-cloud-practitioner-ccp.md) (September'2025)
-32. [aws-certified-solutions-architect-associate](courses/aws-certified-solutions-architect-associate.md) (September'2025)
-33. [pcep-certified-entry-level-python-programmer](courses/pcep-certified-entry-level-python-programmer.md) (October'2025)
-34. [databricks-certified-data-engineer-associate](courses/databricks-certified-data-engineer-associate.md) (October'2025)
-35. [Amazon Web Services ProServe 101 - AWS Skill Builder](https://skillbuilder.aws/learn/7X91U48V3H/amazon-web-services-proserve-101/3GM7YKPGMN)
-	1. PSA - Professional Services Automation
-36. [AWS Engagement Security Training for Partners - AWS Skill Builder](https://skillbuilder.aws/learn/UNEPBJ7N8X/aws-engagement-security-training-for-partners/HY5KKP9EV8)
 
 ## Certifications
+
+### Confluent
+
+- [confluent](courses/confluent.md)
+- [confluent-certified-cloud-operator-ccac](courses/confluent-certified-cloud-operator-ccac.md)
+
+### AWS
+
+1. [aws-certified-cloud-practitioner-ccp](courses/aws-certified-cloud-practitioner-ccp.md) (September'2025)
+2. [aws-certified-solutions-architect-associate](courses/aws-certified-solutions-architect-associate.md) (September'2025)
+3. [pcep-certified-entry-level-python-programmer](courses/pcep-certified-entry-level-python-programmer.md) (October'2025)
+4. [databricks-certified-data-engineer-associate](courses/databricks-certified-data-engineer-associate.md) (October'2025)
+5. [Amazon Web Services ProServe 101 - AWS Skill Builder](https://skillbuilder.aws/learn/7X91U48V3H/amazon-web-services-proserve-101/3GM7YKPGMN)
+	1. PSA - Professional Services Automation
+6. [AWS Engagement Security Training for Partners - AWS Skill Builder](https://skillbuilder.aws/learn/UNEPBJ7N8X/aws-engagement-security-training-for-partners/HY5KKP9EV8)
 
 ### Career Essentials in Generative AI by Microsoft and LinkedIn (Jan 2025)
 

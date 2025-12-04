@@ -5,7 +5,7 @@
 - **[AWS Services List](cloud/aws/aws-services-list.md)**
 - [CLI Commands](cli-commands)
 - [AWS Cost Optimization / Explorer](cloud/aws/others/cost-optimization-explorer-billing.md)
-- [AWS Glue](cloud/aws/analytics/aws-glue.md)
+- [AWS Glue](cloud/aws/analytics/aws-glue/readme.md)
 - [AWS SQS](cloud/aws/analytics/amazon-sqs.md)
 - [AWS SNS](cloud/aws/analytics/aws-sns.md)
 - [Security, Identity and Compliance](security-identity-compliance/intro)
@@ -100,7 +100,7 @@ https://www.awsgeek.com/Periodic-Table-of-Amazon-Web-Services/Periodic-Table-of-
 
 ![Cloud Infra 30K Feet Design](../../media/Pasted%20image%2020240205224442.jpg)
 
-### Others
+## Others
 
 - [Amazon's Leadership Principles - About Amazon India](https://www.aboutamazon.in/about-us/leadership-principles)
 - [AWS Samples · GitHub](https://github.com/aws-samples)
@@ -111,3 +111,9 @@ https://www.awsgeek.com/Periodic-Table-of-Amazon-Web-Services/Periodic-Table-of-
 - [5 crazy new AWS services just launched - YouTube](https://www.youtube.com/watch?v=ekPbZqPvCRA&ab_channel=Fireship)
 - [PARTNER TRAINING AND CERTIFICATION](https://pages.awscloud.com/GLOBAL-partner-GC-Get-Started-Today-2024-reg.html)
 - [Ten Mistakes Founders Make on AWS, and How to Avoid Them - AWS Startups](https://aws.amazon.com/startups/learn/ten-mistakes-founders-make-on-aws-and-how-to-avoid-them#overview)
+- [Title Unavailable \| Site Unreachable](https://techcrunch.com/2025/12/03/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/)
+- [AWS re:Invent 2025 - Latest Breakout Sessions - YouTube](https://www.youtube.com/playlist?list=PL2yQDdvlhXf9gdFFBcDPUHAJS7kkIkIet)
+	- [Top announcements of AWS re:Invent 2025 \| AWS News Blog](https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2025/)
+		- [AWS Graviton5: Amazon unveils the company's most powerful and efficient CPU](https://www.aboutamazon.com/news/aws/aws-graviton-5-cpu-amazon-ec2)
+		- [Introducing Database Savings Plans for AWS Databases \| AWS News Blog](https://aws.amazon.com/blogs/aws/introducing-database-savings-plans-for-aws-databases/)
+		- [Amazon CloudWatch introduces unified data management and analytics for operations, security, and compliance \| AWS News Blog](https://aws.amazon.com/blogs/aws/amazon-cloudwatch-introduces-unified-data-management-and-analytics-for-operations-security-and-compliance/)
