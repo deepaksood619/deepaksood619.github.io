@@ -17,7 +17,7 @@ The typical workflow involves:
 
 The following diagram shows the architecture of an AWS Glue environment.
 
-![image](media/Cloud-AWS-AWS-Glue-image2.jpg)
+![image](../../../../media/Cloud-AWS-AWS-Glue-image2.jpg)
 
 You define jobs in AWS Glue to accomplish the work that's required to extract, transform, and load (ETL) data from a data source to a data target. You typically perform the following actions:
 
