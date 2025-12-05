@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdeep_notes=self.webpackChunkdeep_notes||[]).push([[48158],{748158:(e,s,a)=>{a.r(s),a.d(s,{DocSearchModal:()=>c.a1});var c=a(355600)}}]);
