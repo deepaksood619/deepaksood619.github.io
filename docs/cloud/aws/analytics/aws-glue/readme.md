@@ -14,7 +14,7 @@ AWS Glue is designed to work with **semi-structured data**. It introduces a comp
 
 You can use the AWS Glue console to discover data, transform it, and make it available for search and querying. The console calls the underlying services to orchestrate the work required to transform your data. You can also use the AWS Glue API operations to interface with AWS Glue services. Edit, debug, and test your Python or Scala Apache Spark ETL code using a familiar development environment.
 
-![image](media/Cloud-AWS-AWS-Glue-image1.jpg)
+![image](../../../../media/Cloud-AWS-AWS-Glue-image1.jpg)
 
 https://aws.amazon.com/glue
 
@@ -36,7 +36,7 @@ The AWS Glue Data Catalog contains references to data that is used as sources an
 
 The following workflow diagram shows how AWS Glue crawlers interact with data stores and other elements to populate the Data Catalog.
 
-![image](media/Cloud-AWS-AWS-Glue-image3.jpg)
+![image](../../../../media/Cloud-AWS-AWS-Glue-image3.jpg)
 
 The following is the general workflow for how a crawler populates the AWS Glue Data Catalog:
 
