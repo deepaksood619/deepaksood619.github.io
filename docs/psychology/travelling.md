@@ -48,6 +48,19 @@ Travel is fun, so it is not mysterious that we like it. What _is_ mysterious is 
 | **Kolkata**          | 4.5 months                                       | 5 months                                                  |
 | **Chennai (Madras)** | NA                                               | 3 months                                                  |
 
+### Documents
+
+1. DS-160 Confirmation
+2. Appointment Confirmation Letter
+3. Invitation letter
+4. Passport
+5. Aadhaar
+6. PAN
+7. ITR (last 3 years)
+8. Offer letter (current company) (since don't have payslips yet)
+9. Last 3 Payslips (old company)
+10. Relieving letter from old company
+
 ## Links
 
 - [The Technium: 50 Years of Travel Tips](https://kk.org/thetechnium/50-years-of-travel-tips/)

@@ -108,3 +108,7 @@ https://www.toptal.com/android/testing-like-a-true-green-droid
 - Upon approval, set a release date to coordinate the launch on both iOS and Android platforms
 
 ![releasing a mobile app](../../../media/Pasted%20image%2020240110125910.jpg)
+
+## Others
+
+- [Hilt testing guide  \|  App architecture  \|  Android Developers](https://developer.android.com/training/dependency-injection/hilt-testing)

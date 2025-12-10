@@ -26,6 +26,7 @@ You define jobs in AWS Glue to accomplish the work that's required to extract, t
 - You can run your job on demand, or you can set it up to start when a specified trigger occurs. The trigger can be a time-based schedule or an event. When your job runs, a script extracts data from your data source, transforms the data, and loads it to your data target. The script runs in an Apache Spark environment in AWS Glue.
 
 **Important**
+
 - Tables and databases in AWS Glue are objects in the AWS Glue Data Catalog. They contain metadata; they don't contain data from a data store.
 
 Text-based data, such as CSVs, must be encoded inUTF-8for AWS Glue to process it successfully.
@@ -54,7 +55,7 @@ A set of associated table definitions organized into a logical group in AWS Glue
 
 ### Data store, data source, data target
 
-Adata storeis a repository for persistently storing your data. Examples include Amazon S3 buckets and relational databases. Adata sourceis a data store that is used as input to a process or transform. Adata targetis a data store that a process or transform writes to.
+A data store is a repository for persistently storing your data. Examples include Amazon S3 buckets and relational databases. Adata sourceis a data store that is used as input to a process or transform. Adata targetis a data store that a process or transform writes to.
 
 ### Development endpoint
 

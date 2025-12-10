@@ -1161,4 +1161,9 @@ God, grant me the serenity to accept the things I cannot change, the courage to 
 
 “Wisdom is obviously more than being smart, more than the possession of knowledge and facts, more even than insight.” - Ryan Holiday
 
+What is Poison?
+
+- Anything beyond what we need is poison.
+- It can be power, laziness, food, ego, ambition, vanity, fear, anger or whatever.
+
 ## End

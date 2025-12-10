@@ -192,6 +192,10 @@ source venv/bin/activate
 python3.11 run.py --execution-provider coreml
 ```
 
+## DeepFake Detection
+
+- [Nametag: Identity Verification & Account Protection Solutions](https://getnametag.com/)
+
 ## Links
 
 - [code-generators-coding-generators](ai/llm/code-generators-coding-generators.md)

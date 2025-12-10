@@ -80,3 +80,4 @@ These transactions typically have short tenors, ranging from overnight to a few 
 - [Handpicked List of Mutual Funds Oct-Dec 2023 (PlumbLine)](https://freefincal.com/handpicked-list-of-mutual-funds-oct-dec-2023-plumbline/)
 - [Can I hold Rs. One Crore in a single mutual fund?](https://freefincal.com/can-i-hold-rs-one-crore-in-a-single-mutual-fund/)
 - [What will be maximum loss in a mutual fund investment?](https://freefincal.com/what-will-be-maximum-loss-in-a-mutual-fund-investment/)
+- [Transfer of MF Units in Statement of Account Format - is it susceptible to cyber fraud?](https://freefincal.com/transfer-of-mf-units-in-statement-of-account-format-is-it-susceptible-to-cyber-fraud/)

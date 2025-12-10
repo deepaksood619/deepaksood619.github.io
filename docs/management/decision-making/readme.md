@@ -251,4 +251,6 @@ But can indecision truly be fatal?
 
 ## Links
 
-[15 DECISION MAKING TECHNIQUES to CHANGE 2023 for YOU! | Ankur Warikoo Hindi - YouTube](https://www.youtube.com/watch?v=jZXknO8lqN0)
+- [15 DECISION MAKING TECHNIQUES to CHANGE 2023 for YOU! | Ankur Warikoo Hindi - YouTube](https://www.youtube.com/watch?v=jZXknO8lqN0)
+- [The 10-10-10 career decision rule everyone is using on LinkedIn - India Today](https://www.indiatoday.in/amp/education-today/jobs-and-careers/story/the-10-10-10-career-decision-rule-everyone-is-using-on-linkedin-2829401-2025-12-02)
+	- The 10-10-10 rule helps professionals make decisions by asking how a choice will matter in 10 days, 10 months, and 10 years.

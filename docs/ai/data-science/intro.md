@@ -174,3 +174,7 @@ https://www.analyticsvidhya.com/blog/2021/04/top-30-mcqs-to-ace-your-data-scienc
 
 - All hands on data
 - [11 Essential Plots That Data Scientists Use 95% of the Time](https://blog.dailydoseofds.com/p/11-essential-plots-that-data-scientists)
+
+## Others
+
+- [Global weather data from flying airplanes](https://clickhouse.com/blog/planes-weather)

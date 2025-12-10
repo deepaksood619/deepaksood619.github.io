@@ -41,3 +41,7 @@
 
 - [Fixing Imbalanced Data Issues](https://businessanalytics.substack.com/p/fixing-imbalanced-data-issues)
 - [Welcome to imbalanced-learn documentation!](https://imbalanced-learn.org/)
+
+## Links
+
+- [Title Unavailable \| Site Unreachable](https://www.kdnuggets.com/building-a-simple-data-quality-dsl-in-python)

@@ -86,6 +86,16 @@ Secor is a service persisting [Kafka](http://kafka.apache.org/) logs to [Amazon 
 
 https://github.com/pinterest/secor
 
+## Conduktor
+
+- [GitHub - conduktor/conduktor-platform: Streamline Apache Kafka with Conduktor Platform. 🚀](https://github.com/conduktor/conduktor-platform)
+	- We take the complexity out of Kafka. Console gives you visibility into your Kafka ecosystem and concentrates all of the Kafka APIs into a single interface. Troubleshoot and debug Kafka, drill-down into topic data, and continuously monitor your streaming applications.
+	- Conduktor supports all Kafka providers (Apache Kafka, MSK, Confluent, Aiven, Redpanda, Strimzi etc.)
+- [Conduktor - The Streaming Data Hub](https://conduktor.io/)
+	- The Governance Platform for Kafka
+	- The intelligent backbone for all your data streaming. Operate, govern, secure. Built for teams and AI.
+- [Conduktor - Getting Started - YouTube](https://www.youtube.com/watch?v=11JcsITzZ_g)
+
 ## Others
 
 https://kafka-tutorials.confluent.io

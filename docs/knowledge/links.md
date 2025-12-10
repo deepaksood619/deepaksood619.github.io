@@ -11,6 +11,14 @@
 - Finshots
 - [youtube-podcasts-magazine-apps](knowledge/youtube-podcasts-magazine-apps.md)
 
+### IMP Links
+
+- [WTF is wrong with Dhurandhar? Hint: Nothing - YouTube](https://www.youtube.com/watch?v=VLQhxgObuIk)
+	- Narrative Violence
+	- Stylized Violence
+	- Reflective Violence
+	- Explotative Violence
+
 ### Other Links
 
 1. [Does More Freedom at Work Mean More Fulfillment? | TED - YouTube](https://www.youtube.com/watch?v=cCGoITBH2IU)

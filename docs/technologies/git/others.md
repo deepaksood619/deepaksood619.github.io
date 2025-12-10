@@ -75,13 +75,6 @@ https://www.freecodecamp.org/news/monorepo-essentials
 
 [How TikTok Manages A 200K File MonoRepo with Sparo](https://blog.bytebytego.com/p/how-tiktok-manages-a-200k-file-monorepo)
 
-## Games
-
-- https://github.com/git-game/git-game
-- https://github.com/git-game/git-game-v2
-- https://github.com/Gazler/githug
-- https://github.com/deepaksood619/GitGames
-
 ## .gitignore
 
 https://github.com/github/gitignore
@@ -123,7 +116,7 @@ https://www.perforce.com
 
 https://docs.gitlab.com/ee/user/markdown.html#wiki-specific-markdown
 
-# Github
+## Github
 
 Organizations
 
@@ -132,6 +125,14 @@ If you're using GitHub Free, you can add unlimited collaborators on public and p
 [Github Actions - Workflow automation](devops/others/other-cicd.md)
 
 [Managing user access to your organization's repositories - GitHub Docs](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories)
+
+## Games / Computer Science Games
+
+- https://github.com/git-game/git-game
+- https://github.com/git-game/git-game-v2
+- https://github.com/Gazler/githug
+- https://github.com/deepaksood619/GitGames
+- [🎄 Twelve Days of Shell 🎄](https://12days.cmdchallenge.com/#/12days_1)
 
 ## Others
 

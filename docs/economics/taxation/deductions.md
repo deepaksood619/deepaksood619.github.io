@@ -43,6 +43,8 @@
 - [TDS on Rent: Section 194I Explained and Calculation Guidelines](https://www.canarahsbclife.com/blog/tax-saving/how-to-calculate-tds-on-rent)
 - [TDS on Rent payment of More Than Rs. 50000 P.M. By Individuals/ HUFs](https://taxguru.in/income-tax/tds-payment-rent-rs-50000-month-individuals-hufs.html)
 - [Form 16C: TDS Certificate On Rent And Challan 26QC](https://cleartax.in/s/know-form-16c-challan-26qc-deducting-tds-rent)
+- [**Paying over Rs 50,000 rent? New TDS rule and rent agreement rules** 2025 you must know - Money News \| The Financial Express](https://www.financialexpress.com/money/paying-over-rs-50000-rent-new-tds-rule-and-rent-agreement-rules-2025-you-must-know-4061468/lite/)
+	- If your monthly rent exceeds Rs 50,000, a **2% TDS deduction is now mandatory under Section 194-IB**. Along with this, the new Home Rent Rules 2025 introduce caps on deposits, **digital agreements**, structured rent hikes and stricter eviction norms to formalise India’s rental market.
 
 #### Why 11 Months?
 

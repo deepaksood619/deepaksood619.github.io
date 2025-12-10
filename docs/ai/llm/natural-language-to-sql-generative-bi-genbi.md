@@ -70,3 +70,4 @@ What are the rental patterns and lifetime value segments of customers, including
 - [GitHub - sinaptik-ai/pandas-ai: Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.](https://github.com/sinaptik-ai/pandas-ai)
 	- [PandasAI - Dev Tools for AI Builders](https://pandas-ai.com/)
 - [The Future of Business Intelligence: The Generative BI (GenBI) \| by Howard Chi \| Wren AI \| Medium](https://medium.com/wrenai/the-future-of-business-intelligence-the-generative-bi-genbi-d5c18371a45f)
+- [How we made our internal data warehouse AI-first](https://clickhouse.com/blog/ai-first-data-warehouse)

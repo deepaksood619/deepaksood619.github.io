@@ -49,6 +49,7 @@ Long years ago we made a tryst with destiny, and now the time comes when we shal
 - More lies than others
 - Narcissist
 - [75 TOP FAILS of Modiji (part 1) - YouTube](https://www.youtube.com/watch?v=Lr8sh3_sKA0)
+- [Top MODI MAGIC moments (part 2 of 3) - YouTube](https://www.youtube.com/watch?v=Ba5G07rku4A)
 - [Anti-incumbency - Wikipedia](https://en.wikipedia.org/wiki/Anti-incumbency)
 
 ### Modi ni to who

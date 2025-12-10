@@ -33,6 +33,13 @@ If people have to invest or spend more, they need to earn at least ₹2.5lks/yr?
 
 [Certain Pensions | Zee Business](https://www.zeebiz.com/personal-finance/photo-gallery-income-tax-season-non-taxable-5-types-income-exempt-from-taxation-agriculture-gifts-gratuity-scholarships-pension-300544/certain-pensions-300549)
 
+### Gratuity
+
+- **Lifetime Cumulative Limit**: The ₹20 lakh limit for private sector employees is a cumulative, lifetime cap across all employers.
+- **Taxable Portion:** Any gratuity amount received above the applicable exemption limit is fully taxable as "Income from Salary".
+- **Minimum Service:** Generally, an employee must complete a minimum of five years of continuous service to be eligible for gratuity payment (the condition is waived in case of death or disablement).
+- [Income Tax Exemption on Gratuity](https://cleartax.in/s/income-tax-exemption-on-gratuity)
+
 ## New Tax Regime vs Old Tax Regime
 
 ![Old vs New Tax Regime](../../media/Pasted%20image%2020250202154540.png)

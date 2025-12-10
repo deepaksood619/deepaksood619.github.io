@@ -93,7 +93,10 @@ Gives reference point for valuing your potential payout
 
 At the time of a funding round, the investors will buy a small portion of the vested common shares from founders and early employees. This is done to give them a partial exit and keep them motivated to scale the organization. The recent stories of secondaries in Razorpay, Zerodha, Paytm, and Ola are encouraging signs for employees.
 
-## ESOPs
+## ESOPs / ESPP / Stock Options
+
+[Hold Your Company Stock or Sell? Thinking about Concentration - YouTube](https://www.youtube.com/watch?v=IVbHl28-9zA)
+- Concentration Risk / Bets
 
 Wealth creation through ESOPs is a major reason why people join startups. But most people struggle to correctly evaluate job offers that also includes ESOPs
 

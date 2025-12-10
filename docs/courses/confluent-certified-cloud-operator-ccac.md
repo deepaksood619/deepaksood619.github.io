@@ -3,6 +3,7 @@
 ## Product Knowledge
 
 Understanding of:
+
 - Confluent Cloud core concepts, including clusters, client applications, connectors, Stream Governance, and stream processing
 - Basic Kafka concepts, Kafka Connect and Operations
 - Confluent Cloud security features/offerings

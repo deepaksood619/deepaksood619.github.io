@@ -125,15 +125,18 @@ Active - Quant Momentum Fund
 
 ## Funds
 
-https://www.moneycontrol.com/mutual-funds/nav/icici-prudential-nifty-index-fund/MPI031
-
-https://www.moneycontrol.com/mutual-funds/nav/parag-parikh-flexi-cap-fund-direct-plan-growth/MPP002
-
-https://www.moneycontrol.com/mutual-funds/nav/hdfc-mid-cap-opportunities-fund-direct-plan-growth/MHD1161
-
-SBI smallcap mutual fund - https://twitter.com/etmoney/status/1590690695408676865
-
-[Is it time to exit small cap mutual funds?](https://freefincal.com/is-it-time-to-exit-small-cap-mutual-funds/)
+- https://www.moneycontrol.com/mutual-funds/nav/icici-prudential-nifty-index-fund/MPI031
+- https://www.moneycontrol.com/mutual-funds/nav/parag-parikh-flexi-cap-fund-direct-plan-growth/MPP002
+- https://www.moneycontrol.com/mutual-funds/nav/hdfc-mid-cap-opportunities-fund-direct-plan-growth/MHD1161
+- SBI smallcap mutual fund - https://twitter.com/etmoney/status/1590690695408676865
+- [Is it time to exit small cap mutual funds?](https://freefincal.com/is-it-time-to-exit-small-cap-mutual-funds/)
+- Kotak equity opportunities fund (large + mid cap - balanced fund)
+- Axis small cap direct plan growth (best mutual fund pranjal kamra 2023)
+- Mirae asset faang+ ETF or fund of fund (best international fund 2023)
+- Flexicap - ppfcf
+- Mid cap + large cap - kotak equity opportunities fund
+- Multi cap - no multicap
+- Momentum and value are complimentary
 
 ## Categories of actively managed equity mutual fund schemes
 

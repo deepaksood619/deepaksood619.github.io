@@ -171,3 +171,6 @@ You can either be TIME rich or you can be MONEY rich. But, smart people are both
 - [How should I invest for the first 15 years of retirement?](https://freefincal.com/how-should-i-invest-for-the-first-15-years-of-retirement/)
 - [How can I be productive after I retire in seven years?](https://freefincal.com/how-can-i-be-productive-after-i-retire-in-seven-years/)
 - [Explained: The role of income laddering in retirement planning](https://freefincal.com/explained-the-role-of-income-laddering-in-retirement-planning/)
+- [Where should I invest to create a retirement bucket strategy?](https://freefincal.com/where-should-i-invest-to-create-a-retirement-bucket-strategy/)
+- [How should I invest Rs. 5 Crores for a peaceful retirement?](https://freefincal.com/how-should-i-invest-rs-5-crores-for-a-peaceful-retirement/)
+- [How an indexed pension makes a huge difference to a retirement plan](https://freefincal.com/how-an-indexed-pension-makes-a-huge-difference-to-a-retirement-plan/)

@@ -26,6 +26,16 @@ Always tell stories, most visual stories are the best, and simple
 - Preparation before presentation
 - Don't be a **Conversation narcissistic** (is someone who constantly turns the conversation to themselves and is otherwise disengaged in what's being said)
 
+[How to Speak so People Remember You \| Yasir Khan \| TEDxCentreville Chicopee Youth - YouTube](https://www.youtube.com/watch?v=FHIo77y12gA)
+
+- S - standout
+- H - highlight
+- A - address them
+- R - repeatable
+- E - Emotion
+- Good phrase that have everything - "You have a good voice"
+- It's not what you say, it's what they remember
+
 ### Imprompto
 
 #### PREP

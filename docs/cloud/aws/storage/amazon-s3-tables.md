@@ -68,6 +68,15 @@ Create tables as first-class AWS resources and apply permissions to easily gover
 
 AWS S3 Tables redefine how organizations manage and query Iceberg tables, combining the flexibility of open formats with the performance and ease of managed services. For data engineers and architects, this means less time spent on infrastructure and more time delivering insights.
 
+## Releases
+
+[Announcing replication support and Intelligent-Tiering for Amazon S3 Tables \| AWS News Blog](https://aws.amazon.com/blogs/aws/announcing-replication-support-and-intelligent-tiering-for-amazon-s3-tables/)
+
+- Support for the new Intelligent-Tiering storage class that automatically optimizes costs based on access patterns
+	- There are no additional charges to configure Intelligent-Tiering. You only pay for storage costs in each tier. Your tables continue to work as before, with automatic cost optimization based on your access patterns.
+- Replication support to automatically maintain consistent [Apache Iceberg](https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-tables.html) table replicas across [AWS Regions](https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions.html) and [accounts](https://docs.aws.amazon.com/glossary/latest/reference/glos-chap.html#account) without manual sync.
+	- For S3 Tables replication, you pay the S3 Tables charges for storage in the destination table, for replication PUT requests, for table updates (commits), and for object monitoring on the replicated data. For cross-Region table replication, you also pay for inter-Region data transfer out from Amazon S3 to the destination Region based on the Region pair.
+
 ## Links
 
 - [apache-iceberg](technologies/apache/apache-iceberg.md)

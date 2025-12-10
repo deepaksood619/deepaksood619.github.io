@@ -171,6 +171,16 @@ Typical OOH formats include billboards, on-car ads, bus-stop shelters, etc.
 
 [Out-of-home advertising - Wikipedia](https://en.m.wikipedia.org/wiki/Out-of-home_advertising)
 
+## MLM (Multi Level Marketing) / Pyramid Scheme
+
+MLM, or Multi-Level Marketing, is a sales strategy where independent distributors sell products/services directly to consumers and recruit new salespeople, earning commissions on their own sales and those of their downline (recruits), creating multiple levels of earning; it's often called network marketing but faces scrutiny because many legitimate MLMs blur lines with illegal pyramid schemes, where focus shifts from product sales to recruitment, often leading to losses for most participants.
+
+- [Do Qnet pays you every week once you reach bronze level? - Quora](https://www.quora.com/Do-Qnet-pays-you-every-week-once-you-reach-bronze-level)
+- [Qnetindia](https://www.instagram.com/popular/qnetindia/)
+- [QNET: Wellness & Lifestyle Direct Selling Company](https://www.qnet.net/)
+- [LIMITLESS SYSTEM - YouTube](https://www.youtube.com/@limitlesssystem)
+- [TODAY'S PDS NAVDEEP BAGGA 3C'S OF SUCCESS \| COMMITMENT CONSISTANCY AND COMMUNICATION - YouTube](https://www.youtube.com/watch?v=3-DkMm-CoWs)
+
 ## Others
 
 - https://www.lennysnewsletter.com/p/what-is-good-retention-issue-29

@@ -224,6 +224,7 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - atypical - not typical of a particular type, group, etc.
 - tenacity - Tenacity is the quality displayed by someone who just won't quit - who keeps trying until they reach their goal. - persistent determination
 - **Asceticism** is a lifestyle characterized by self-denial and abstinence from worldly pleasures, often for spiritual or religious reasons. It involves practices like voluntary poverty, self-discipline, and a focus on spiritual goals over material comforts.
+- **Sanctimonious** refers to someone who pretends to be morally superior, often in an exaggerated or insincere way. It conveys a tone of criticism, highlighting behaviour that appears virtuous on the surface but lacks genuine sincerity. People who lecture others unnecessarily, boast about their ethical choices, or moralise constantly are often described as sanctimonious. The word is especially useful when you want to call out hypocrisy or preachy behaviour without being confrontational.
 
 ### Shill / Shilling
 

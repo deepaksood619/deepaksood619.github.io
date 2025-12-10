@@ -156,3 +156,14 @@ https://arunrocks.com/a-guide-to-asgi-in-django-30-and-its-performance
 [Django 5.0 release notes \| Django documentation \| Django](https://docs.djangoproject.com/en/5.2/releases/5.0/)
 
 [The State of Django 2025 \| The PyCharm Blog](https://blog.jetbrains.com/pycharm/2025/10/the-state-of-django-2025/)
+
+### Django 6.0
+
+[Django 6.0 released \| Weblog \| Django](https://www.djangoproject.com/weblog/2025/dec/03/django-60-released/)
+
+- **Template Partials:** modularize templates using small, named fragments for cleaner, more maintainable code.
+- **Background Tasks:** run code outside the HTTP request-response cycle with a built-in, flexible task framework.
+- **Content Security Policy (CSP):** easily configure and enforce browser-level security policies to protect against content injection.
+- **Modernized Email API:** compose and send emails with Python's EmailMessage class for a cleaner, Unicode-friendly interface.
+
+[A first look at Django's new background tasks \| Roam\*notes](https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/)

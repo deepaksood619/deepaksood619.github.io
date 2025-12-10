@@ -273,6 +273,20 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - Coloring
 - Piano
 
+## Connections
+
+[I've studied over 200 kids—the happiest ones have parents who do 9 things with them every morning](https://www.cnbc.com/amp/2025/11/30/ive-studied-over-200-kids-parents-who-raise-the-happiest-kids-do-9-things-together-every-morning.html)
+
+1. Self-regulate before you reconnect
+2. Lead with connection, not correction
+3. Create pockets of calm amid chaos
+4. Find moments for laughter
+5. Check in emotionally, not just logistically
+6. Make physical touch non-negotiable
+7. Create a screen-free sanctuary
+8. Honor the power of slowness
+9. Create a bridge before goodbye
+
 ## Milestones
 
 - [12-Month-Old Baby: Milestones and Development](https://www.whattoexpect.com/toddler/12-month-old/)

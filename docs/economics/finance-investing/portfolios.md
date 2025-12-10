@@ -250,3 +250,4 @@ The balance 40% of the amount, which is Rs.200,000/- can be utilized for active 
 - [Learn How To Invest In Stock Market For Beginners | Ep 34 - YouTube](https://www.youtube.com/watch?v=Ao7WHrRw_VM)
 - [Nasdaq vs Nifty: How to divide your stock portfolio across Wall Street and Dalal Street in 2025 - The Economic Times](https://economictimes.indiatimes.com/markets/stocks/news/nasdaq-vs-nifty-how-to-divide-your-stock-portfolio-across-wall-street-and-dalal-street-in-2025/articleshow/116846787.cms)
 - [How do I invest a lump sum I don't need for the next 5-7 years?](https://freefincal.com/how-do-i-invest-a-lump-sum-i-dont-need-for-the-next-5-7-years/)
+- [How do you review a unified goal-based investment portfolio?](https://freefincal.com/how-do-you-review-a-unified-goal-based-investment-portfolio/)
