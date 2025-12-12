@@ -1,0 +1,1289 @@
+<!doctype html>
+<html lang="en" dir="ltr" class="docs-wrapper plugin-docs plugin-id-default docs-version-current docs-doc-page docs-doc-id-technologies/confluent/cloud-documentation" data-has-hydrated="false">
+<head>
+<meta charset="UTF-8">
+<meta name="generator" content="Docusaurus v3.8.0">
+<title data-rh="true">Confluent Cloud Documentation | Deep Notes</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://deepaksood619.github.io/img/timeline_blurred.webp"><meta data-rh="true" name="twitter:image" content="https://deepaksood619.github.io/img/timeline_blurred.webp"><meta data-rh="true" property="og:url" content="https://deepaksood619.github.io/technologies/confluent/cloud-documentation"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Confluent Cloud Documentation | Deep Notes"><meta data-rh="true" name="description" content="Confluent Cloud \| Confluent Documentation"><meta data-rh="true" property="og:description" content="Confluent Cloud \| Confluent Documentation"><link data-rh="true" rel="icon" href="/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://deepaksood619.github.io/technologies/confluent/cloud-documentation"><link data-rh="true" rel="alternate" href="https://deepaksood619.github.io/technologies/confluent/cloud-documentation" hreflang="en"><link data-rh="true" rel="alternate" href="https://deepaksood619.github.io/technologies/confluent/cloud-documentation" hreflang="x-default"><link data-rh="true" rel="preconnect" href="https://X3OY8NGHVH-dsn.algolia.net" crossorigin="anonymous"><script data-rh="true" type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Technologies","item":"https://deepaksood619.github.io/technologies/"},{"@type":"ListItem","position":2,"name":"Confluent","item":"https://deepaksood619.github.io/technologies/confluent/"},{"@type":"ListItem","position":3,"name":"Confluent Cloud Documentation","item":"https://deepaksood619.github.io/technologies/confluent/cloud-documentation"}]}</script><link rel="preconnect" href="https://www.google-analytics.com">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZSZMJXWSH3"></script>
+<script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-ZSZMJXWSH3",{})</script>
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script>window.dataLayer=window.dataLayer||[]</script>
+<script>!function(e,t,a,n){e[n]=e[n]||[],e[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var g=t.getElementsByTagName(a)[0],m=t.createElement(a);m.async=!0,m.src="https://www.googletagmanager.com/gtm.js?id=GTM-TN3KBF4",g.parentNode.insertBefore(m,g)}(window,document,"script","dataLayer")</script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" title="Deep Notes" href="/opensearch.xml">
+<link rel="icon" href="/img/logo.webp">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="rgb(53, 120, 229)">
+
+
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.9f55d0bd.css">
+<script src="/assets/js/runtime~main.dcd8491e.js" defer="defer"></script>
+<script src="/assets/js/main.96fbd707.js" defer="defer"></script>
+</head>
+<body class="navigation-with-keyboard">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;"><defs>
+<symbol id="theme-svg-external-link" viewBox="0 0 24 24"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"/></symbol>
+</defs></svg>
+<script>!function(){var t=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return window.localStorage.getItem("theme")}catch(t){}}();document.documentElement.setAttribute("data-theme",t||(window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light")),document.documentElement.setAttribute("data-theme-choice",t||"system")}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id="__docusaurus"><div role="region" aria-label="Skip to main content"><a class="skipToContent_fXgn" href="#__docusaurus_skipToContent_fallback">Skip to main content</a></div><nav aria-label="Main" class="theme-layout-navbar navbar navbar--fixed-top"><div class="navbar__inner"><div class="theme-layout-navbar-left navbar__items"><button aria-label="Toggle navigation bar" aria-expanded="false" class="navbar__toggle clean-btn" type="button"><svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path></svg></button><a class="navbar__brand" href="/"><div class="navbar__logo"><img src="/img/logo.webp" alt="Site Logo" class="themedComponent_mlkZ themedComponent--light_NVdE"><img src="/img/logo.webp" alt="Site Logo" class="themedComponent_mlkZ themedComponent--dark_xIcU"></div><b class="navbar__title text--truncate">Deep Notes</b></a></div><div class="theme-layout-navbar-right navbar__items navbar__items--right"><a href="https://github.com/deepaksood619" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">GitHub<svg width="13.5" height="13.5" aria-hidden="true" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a><a href="https://www.linkedin.com/in/deepaksood619/" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">LinkedIn<svg width="13.5" height="13.5" aria-hidden="true" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a><div class="toggle_vylO colorModeToggle_DEke"><button class="clean-btn toggleButton_gllP toggleButtonDisabled_aARS" type="button" disabled="" title="system mode" aria-label="Switch between dark and light mode (currently system mode)"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP lightToggleIcon_pyhR"><path fill="currentColor" d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP darkToggleIcon_wfgR"><path fill="currentColor" d="M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP systemToggleIcon_QzmC"><path fill="currentColor" d="m12 21c4.971 0 9-4.029 9-9s-4.029-9-9-9-9 4.029-9 9 4.029 9 9 9zm4.95-13.95c1.313 1.313 2.05 3.093 2.05 4.95s-0.738 3.637-2.05 4.95c-1.313 1.313-3.093 2.05-4.95 2.05v-14c1.857 0 3.637 0.737 4.95 2.05z"></path></svg></button></div><div class="navbarSearchContainer_Bca1"><button type="button" class="DocSearch DocSearch-Button" aria-label="Search (Command+K)"><span class="DocSearch-Button-Container"><svg width="20" height="20" class="DocSearch-Search-Icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M14.386 14.386l4.0877 4.0877-4.0877-4.0877c-2.9418 2.9419-7.7115 2.9419-10.6533 0-2.9419-2.9418-2.9419-7.7115 0-10.6533 2.9418-2.9419 7.7115-2.9419 10.6533 0 2.9419 2.9418 2.9419 7.7115 0 10.6533z" stroke="currentColor" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg><span class="DocSearch-Button-Placeholder">Search</span></span><span class="DocSearch-Button-Keys"></span></button></div></div></div><div role="presentation" class="navbar-sidebar__backdrop"></div></nav><div id="__docusaurus_skipToContent_fallback" class="theme-layout-main main-wrapper mainWrapper_z2l0"><div class="docsWrapper_hBAB"><button aria-label="Scroll back to top" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type="button"></button><div class="docRoot_UBD9"><aside class="theme-doc-sidebar-container docSidebarContainer_YfHR"><div class="sidebarViewport_aRkj"><div class="sidebar_njMd"><nav aria-label="Docs sidebar" class="menu thin-scrollbar menu_SIkG"><ul class="theme-doc-sidebar-menu menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/about-deepak-sood/">About Deepak Sood</a><button aria-label="Expand sidebar category &#x27;About Deepak Sood&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/ai/">AI</a><button aria-label="Expand sidebar category &#x27;AI&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/algorithms/">Algorithms</a><button aria-label="Expand sidebar category &#x27;Algorithms&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/book-summaries/">Book Summaries</a><button aria-label="Expand sidebar category &#x27;Book Summaries&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/cloud/">Cloud</a><button aria-label="Expand sidebar category &#x27;Cloud&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/computer-science/">Computer Science</a><button aria-label="Expand sidebar category &#x27;Computer Science&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/courses/">Courses / Certifications</a><button aria-label="Expand sidebar category &#x27;Courses / Certifications&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/data-structures/">Data Structures</a><button aria-label="Expand sidebar category &#x27;Data Structures&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/data-warehouses/">Data Warehouses</a><button aria-label="Expand sidebar category &#x27;Data Warehouses&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/databases/">Databases</a><button aria-label="Expand sidebar category &#x27;Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/databases-nosql/">NoSQL Databases</a><button aria-label="Expand sidebar category &#x27;NoSQL Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/databases-sql/">SQL Databases</a><button aria-label="Expand sidebar category &#x27;SQL Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/decentralized-applications/">Decentralized Applications</a><button aria-label="Expand sidebar category &#x27;Decentralized Applications&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/devops/">DevOps</a><button aria-label="Expand sidebar category &#x27;DevOps&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/economics/">Economics</a><button aria-label="Expand sidebar category &#x27;Economics&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/education/">Education</a><button aria-label="Expand sidebar category &#x27;Education&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/frontend/">Frontend</a><button aria-label="Expand sidebar category &#x27;Frontend&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/knowledge/">Knowledge</a><button aria-label="Expand sidebar category &#x27;Knowledge&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/languages/">Languages</a><button aria-label="Expand sidebar category &#x27;Languages&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/management/">Management</a><button aria-label="Expand sidebar category &#x27;Management&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/mathematics/">Mathematics</a><button aria-label="Expand sidebar category &#x27;Mathematics&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/networking/">Networking</a><button aria-label="Expand sidebar category &#x27;Networking&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/psychology/">Psychology</a><button aria-label="Expand sidebar category &#x27;Psychology&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/python/">Python</a><button aria-label="Expand sidebar category &#x27;Python&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link" href="/">Deepak&#x27;s Wiki</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--active" href="/technologies/">Technologies</a><button aria-label="Collapse sidebar category &#x27;Technologies&#x27;" aria-expanded="true" type="button" class="clean-btn menu__caret"></button></div><ul class="menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/technologies/apache/">Apache</a><button aria-label="Expand sidebar category &#x27;Apache&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/technologies/apache-airflow/">Airflow</a><button aria-label="Expand sidebar category &#x27;Airflow&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/technologies/apache-hadoop/">Apache Hadoop</a><button aria-label="Expand sidebar category &#x27;Apache Hadoop&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/technologies/apache-spark/">Apache Spark</a><button aria-label="Expand sidebar category &#x27;Apache Spark&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/technologies/brokers/">Brokers</a><button aria-label="Expand sidebar category &#x27;Brokers&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/technologies/celery/">Celery</a><button aria-label="Expand sidebar category &#x27;Celery&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--active" tabindex="0" href="/technologies/confluent/">Confluent</a><button aria-label="Collapse sidebar category &#x27;Confluent&#x27;" aria-expanded="true" type="button" class="clean-btn menu__caret"></button></div><ul class="menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link menu__link--active" aria-current="page" tabindex="0" href="/technologies/confluent/cloud-documentation">Confluent Cloud Documentation</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/technologies/confluent/commands">Commands</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/technologies/confluent/confluent-cloud-networking/">Confluent Cloud Networking</a><button aria-label="Expand sidebar category &#x27;Confluent Cloud Networking&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/technologies/confluent/confluent-cloud-vs-confluent-platform">Confluent Cloud vs Confluent Platform</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/technologies/confluent/confluent-cloud">Confluent Cloud</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/technologies/confluent/confluent-kafka">confluent-kafka</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/technologies/confluent/confluent-pitch">Confluent Pitch</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/technologies/confluent/confluent-platform">Confluent Platform</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/technologies/confluent/confluent-tableflow">Confluent Tableflow</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/technologies/confluent/kora">Kora</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/technologies/confluent/platform-documentation">Confluent Platform Documentation</a></li></ul></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/technologies/elasticsearch/">Elasticsearch</a><button aria-label="Expand sidebar category &#x27;Elasticsearch&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/technologies/git/">Git</a><button aria-label="Expand sidebar category &#x27;Git&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/technologies/kafka/">Kafka</a><button aria-label="Expand sidebar category &#x27;Kafka&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/technologies/others/">Others</a><button aria-label="Expand sidebar category &#x27;Others&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li></ul></li></ul></nav><button type="button" title="Collapse sidebar" aria-label="Collapse sidebar" class="button button--secondary button--outline collapseSidebarButton_PEFL"><svg width="20" height="20" aria-hidden="true" class="collapseSidebarButtonIcon_kv0_"><g fill="#7a7a7a"><path d="M9.992 10.023c0 .2-.062.399-.172.547l-4.996 7.492a.982.982 0 01-.828.454H1c-.55 0-1-.453-1-1 0-.2.059-.403.168-.551l4.629-6.942L.168 3.078A.939.939 0 010 2.528c0-.548.45-.997 1-.997h2.996c.352 0 .649.18.828.45L9.82 9.472c.11.148.172.347.172.55zm0 0"></path><path d="M19.98 10.023c0 .2-.058.399-.168.547l-4.996 7.492a.987.987 0 01-.828.454h-3c-.547 0-.996-.453-.996-1 0-.2.059-.403.168-.551l4.625-6.942-4.625-6.945a.939.939 0 01-.168-.55 1 1 0 01.996-.997h3c.348 0 .649.18.828.45l4.996 7.492c.11.148.168.347.168.55zm0 0"></path></g></svg></button></div></div></aside><main class="docMainContainer_TBSr"><div class="container padding-top--md padding-bottom--lg"><div class="row"><div class="col docItemCol_VOVn"><div class="docItemContainer_Djhp"><article><nav class="theme-doc-breadcrumbs breadcrumbsContainer_Z_bl" aria-label="Breadcrumbs"><ul class="breadcrumbs"><li class="breadcrumbs__item"><a aria-label="Home page" class="breadcrumbs__link" href="/"><svg viewBox="0 0 24 24" class="breadcrumbHomeIcon_YNFT"><path d="M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z" fill="currentColor"></path></svg></a></li><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="/technologies/"><span>Technologies</span></a></li><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="/technologies/confluent/"><span>Confluent</span></a></li><li class="breadcrumbs__item breadcrumbs__item--active"><span class="breadcrumbs__link">Confluent Cloud Documentation</span></li></ul></nav><div class="theme-doc-markdown markdown"><header><h1>Confluent Cloud Documentation</h1></header>
+<p><a href="https://docs.confluent.io/cloud/current/overview.html" target="_blank" rel="noopener noreferrer">Confluent Cloud | Confluent Documentation</a></p>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/overview.html#" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/get-started/overview.html" target="_blank" rel="noopener noreferrer">Get Started</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/get-started/confluent-cloud-basics.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/get-started/index.html" target="_blank" rel="noopener noreferrer">Quick Start</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/kafka-rest/krest-qs.html" target="_blank" rel="noopener noreferrer">REST API Quick Start</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/get-started/schema-registry.html" target="_blank" rel="noopener noreferrer">Manage Schemas</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/get-started/free-trial.html" target="_blank" rel="noopener noreferrer">Deploy Free Clusters</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/get-started/tutorials/overview.html" target="_blank" rel="noopener noreferrer">Tutorials and Examples</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/get-started/tutorials/index.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/get-started/tutorials/copy-data-cloud.html" target="_blank" rel="noopener noreferrer">Example: Use Replicator to Copy Kafka Data to Cloud</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/examples/ccloud-full-stack.html" target="_blank" rel="noopener noreferrer">Example: Create Fully-Managed Services</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/get-started/tutorials/cloud-etl.html" target="_blank" rel="noopener noreferrer">Example: Build an ETL Pipeline</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/clusters/index.html" target="_blank" rel="noopener noreferrer">Manage Kafka Clusters</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/clusters/create-cluster.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/clusters/cluster-types.html" target="_blank" rel="noopener noreferrer">Cluster Types</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/clusters/broker-config.html" target="_blank" rel="noopener noreferrer">Manage Configuration Settings</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/clusters/regions.html" target="_blank" rel="noopener noreferrer">Cloud Providers and Regions</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/clusters/resilience.html" target="_blank" rel="noopener noreferrer">Resilience</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/multi-cloud/overview.html" target="_blank" rel="noopener noreferrer">Copy Data with Cluster Linking</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/index.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/quickstart.html" target="_blank" rel="noopener noreferrer">Quick Start</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/overview-use-cases.html" target="_blank" rel="noopener noreferrer">Use Cases and Tutorials</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/topic-data-sharing.html" target="_blank" rel="noopener noreferrer">Share Data Across Clusters, Regions, and Clouds</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/dr-failover.html" target="_blank" rel="noopener noreferrer">Disaster Recovery and Failover</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/hybrid-cc.html" target="_blank" rel="noopener noreferrer">Create Hybrid Cloud and Bridge-to-Cloud Deployments</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/protect-critical-apps-with-tiers.html" target="_blank" rel="noopener noreferrer">Use Tiered Separation of Critical Workloads</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/migrate-cc.html" target="_blank" rel="noopener noreferrer">Migrate Data</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/audit-logs.html" target="_blank" rel="noopener noreferrer">Manage Audit Logs</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/overview-config-and-manage.html" target="_blank" rel="noopener noreferrer">Configure, Manage, and Monitor</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/cluster-links-cc.html" target="_blank" rel="noopener noreferrer">Configure and Manage Cluster Links</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/mirror-topics-cc.html" target="_blank" rel="noopener noreferrer">Manage Mirror Topics</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/private-networking.html" target="_blank" rel="noopener noreferrer">Manage Private Networking</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/security-cloud.html" target="_blank" rel="noopener noreferrer">Manage Security</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/metrics-cc.html" target="_blank" rel="noopener noreferrer">Monitor Metrics</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/faqs-cc.html" target="_blank" rel="noopener noreferrer">FAQ</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/multi-cloud/cluster-linking/trouble-cc.html" target="_blank" rel="noopener noreferrer">Troubleshooting</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/clusters/replicator-overview.html" target="_blank" rel="noopener noreferrer">Copy Data with Replicator</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/clusters/replicator-cloud-quickstart.html" target="_blank" rel="noopener noreferrer">Quick Start</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/clusters/migrate-topics-on-cloud-clusters.html" target="_blank" rel="noopener noreferrer">Use Replicator to Migrate Topics</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/clusters/resize.html" target="_blank" rel="noopener noreferrer">Resize a Dedicated Cluster</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/clusters/client-quotas-overview.html" target="_blank" rel="noopener noreferrer">Multi-Tenancy and Client Quotas for Dedicated Clusters</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/clusters/client-quotas.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/clusters/client-quotas-quickstart.html" target="_blank" rel="noopener noreferrer">Quick Start</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/clusters/terraform-provider.html" target="_blank" rel="noopener noreferrer">Create Cluster Using Terraform</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/clusters/pulumi-provider.html" target="_blank" rel="noopener noreferrer">Create Cluster Using Pulumi</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/cp-component/overview.html" target="_blank" rel="noopener noreferrer">Connect Confluent Platform and Cloud Environments</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/cp-component/index.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/cp-component/gateway/index.html" target="_blank" rel="noopener noreferrer">Connect Self-Managed Gateway to Cloud</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/cp-component/gateway/overview.html" target="_blank" rel="noopener noreferrer">Confluent Cloud Gateway Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/cp-component/gateway/gateway-deploy-index.html" target="_blank" rel="noopener noreferrer">Configure and Deploy</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/cp-component/gateway/gateway-deploy-overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/cp-component/gateway/gateway-deploy.html" target="_blank" rel="noopener noreferrer">Configure and Deploy using Docker</a></li>
+<li><a href="https://docs.confluent.io/operator/current/gateway/co-gateway-deploy.html" target="_blank" rel="noopener noreferrer">Configure and Deploy using CFK</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/cp-component/gateway/gateway-security.html" target="_blank" rel="noopener noreferrer">Configure Security using Docker</a></li>
+<li><a href="https://docs.confluent.io/operator/current/gateway/co-gateway-security.html" target="_blank" rel="noopener noreferrer">Configure Security using CFK</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/cp-component/gateway/gateway-migrate.html" target="_blank" rel="noopener noreferrer">Migrate Kafka Clusters</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/cp-component/gateway/gateway-custom-domains.html" target="_blank" rel="noopener noreferrer">Set up Network Isolation and Custom Domains</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/cp-component/c3-cloud-config.html" target="_blank" rel="noopener noreferrer">Connect Self-Managed Control Center to Cloud</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/cp-component/clients-cloud-config.html" target="_blank" rel="noopener noreferrer">Connect Self-Managed Clients to Cloud</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/cp-component/connect-cloud-config.html" target="_blank" rel="noopener noreferrer">Connect Self-Managed Connect to Cloud</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/cp-component/kafka-rest-config.html" target="_blank" rel="noopener noreferrer">Connect Self-Managed REST Proxy to Cloud</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/cp-component/ksql-cloud-config.html" target="_blank" rel="noopener noreferrer">Connect Self-Managed ksqlDB to Cloud</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/cp-component/mqtt-proxy-cloud-config.html" target="_blank" rel="noopener noreferrer">Connect Self-Managed MQTT to Cloud</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/cp-component/schema-reg-cloud-config.html" target="_blank" rel="noopener noreferrer">Connect Self-Managed Schema Registry to Cloud</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/cp-component/streams-cloud-config.html" target="_blank" rel="noopener noreferrer">Connect Self-Managed Streams to Cloud</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/cp-component/auto-generate-configs.html" target="_blank" rel="noopener noreferrer">Example: Autogenerate Self-Managed Component Configs for Cloud</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/clusters/migrate-kcp.html" target="_blank" rel="noopener noreferrer">Migrate with kcp</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/clusters/cluster-faq.html" target="_blank" rel="noopener noreferrer">FAQ</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/index.html" target="_blank" rel="noopener noreferrer">Build Streaming Applications</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/architecture.html" target="_blank" rel="noopener noreferrer">Architectural Considerations</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/config-client.html" target="_blank" rel="noopener noreferrer">Client Quick Start</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/type-index.html" target="_blank" rel="noopener noreferrer">Configure Clients</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/consumer.html" target="_blank" rel="noopener noreferrer">Consumer</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/sharegroups.html" target="_blank" rel="noopener noreferrer">Share Consumers</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/producer.html" target="_blank" rel="noopener noreferrer">Producer</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/client-configs.html" target="_blank" rel="noopener noreferrer">Configuration Properties</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/testing-index.html" target="_blank" rel="noopener noreferrer">Test and Monitor a Client</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/testing.html" target="_blank" rel="noopener noreferrer">Test</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/monitoring.html" target="_blank" rel="noopener noreferrer">Monitor</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/offsets-consumer.html" target="_blank" rel="noopener noreferrer">Reset Offsets</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/optimizing/index.html" target="_blank" rel="noopener noreferrer">Optimize and Tune</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/optimizing/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/client-configs.html" target="_blank" rel="noopener noreferrer">Configuration Settings</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/optimizing/throughput.html" target="_blank" rel="noopener noreferrer">Throughput</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/optimizing/latency.html" target="_blank" rel="noopener noreferrer">Latency</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/optimizing/durability.html" target="_blank" rel="noopener noreferrer">Durability</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/optimizing/availability.html" target="_blank" rel="noopener noreferrer">Availability</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/optimizing/freight.html" target="_blank" rel="noopener noreferrer">Freight</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/guides.html" target="_blank" rel="noopener noreferrer">Client Guides</a>
+<ul>
+<li><a href="https://docs.confluent.io/kafka-clients/python/current/overview.html" target="_blank" rel="noopener noreferrer">Python</a></li>
+<li><a href="https://docs.confluent.io/kafka-clients/dotnet/current/overview.html" target="_blank" rel="noopener noreferrer">.NET Client</a></li>
+<li><a href="https://docs.confluent.io/kafka-clients/javascript/current/overview.html" target="_blank" rel="noopener noreferrer">JavaScript Client</a></li>
+<li><a href="https://docs.confluent.io/kafka-clients/go/current/overview.html" target="_blank" rel="noopener noreferrer">Go Client</a></li>
+<li><a href="https://docs.confluent.io/kafka-clients/librdkafka/current/overview.html" target="_blank" rel="noopener noreferrer">C++ Client</a></li>
+<li><a href="https://docs.confluent.io/kafka-clients/java/current/overview.html" target="_blank" rel="noopener noreferrer">Java Client</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/client-api.html" target="_blank" rel="noopener noreferrer">Kafka Client APIs</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/api-docs/confluent-kafka-python.html" target="_blank" rel="noopener noreferrer">Python Client API</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/api-docs/confluent-kafka-dotnet.html" target="_blank" rel="noopener noreferrer">.NET Client API</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/api-docs/confluent-kafka-javascript.html" target="_blank" rel="noopener noreferrer">JavaScript Client API</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/api-docs/confluent-kafka-go.html" target="_blank" rel="noopener noreferrer">Go Client API</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/api-docs/librdkafka.html" target="_blank" rel="noopener noreferrer">C++ Client API</a></li>
+<li><a href="https://docs.confluent.io/platform/current/clients/javadocs/javadoc/index.html" target="_blank" rel="noopener noreferrer">Java Client API</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/deprecate-how-to.html" target="_blank" rel="noopener noreferrer">Deprecated Client APIs</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/examples-index.html" target="_blank" rel="noopener noreferrer">Client Examples</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/examples.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/kafka-clients/python/current/overview.html" target="_blank" rel="noopener noreferrer">Python Client</a></li>
+<li><a href="https://docs.confluent.io/kafka-clients/dotnet/current/overview.html" target="_blank" rel="noopener noreferrer">.NET Client</a></li>
+<li><a href="https://docs.confluent.io/kafka-clients/javascript/current/overview.html" target="_blank" rel="noopener noreferrer">JavaScript Client</a></li>
+<li><a href="https://docs.confluent.io/kafka-clients/go/current/overview.html" target="_blank" rel="noopener noreferrer">Go Client</a></li>
+<li><a href="https://docs.confluent.io/kafka-clients/librdkafka/current/overview.html" target="_blank" rel="noopener noreferrer">C++ Client</a></li>
+<li><a href="https://developer.confluent.io/get-started/java?session_ref=https%3A%2F%2Fdocs.confluent.io%2Fplatform%2Fcurrent%2Fmulti-dc-deployments%2Fmulti-region.html&amp;url_ref=https%3A%2F%2Fdocs.confluent.io%2Fcloud%2Fcurrent%2Foverview.html" target="_blank" rel="noopener noreferrer">Java</a></li>
+<li><a href="https://developer.confluent.io/get-started/spring-boot?session_ref=https%3A%2F%2Fdocs.confluent.io%2Fplatform%2Fcurrent%2Fmulti-dc-deployments%2Fmulti-region.html&amp;url_ref=https%3A%2F%2Fdocs.confluent.io%2Fcloud%2Fcurrent%2Foverview.html" target="_blank" rel="noopener noreferrer">Spring Boot</a></li>
+<li><a href="https://developer.confluent.io/tutorials/creating-first-apache-kafka-producer-application/kafka.html?session_ref=https%3A%2F%2Fdocs.confluent.io%2Fplatform%2Fcurrent%2Fmulti-dc-deployments%2Fmulti-region.html&amp;url_ref=https%3A%2F%2Fdocs.confluent.io%2Fcloud%2Fcurrent%2Foverview.html" target="_blank" rel="noopener noreferrer">KafkaProducer</a></li>
+<li><a href="https://developer.confluent.io/get-started/rest?session_ref=https%3A%2F%2Fdocs.confluent.io%2Fplatform%2Fcurrent%2Fmulti-dc-deployments%2Fmulti-region.html&amp;url_ref=https%3A%2F%2Fdocs.confluent.io%2Fcloud%2Fcurrent%2Foverview.html" target="_blank" rel="noopener noreferrer">REST</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/examples/clojure.html" target="_blank" rel="noopener noreferrer">Clojure</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/examples/groovy.html" target="_blank" rel="noopener noreferrer">Groovy</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/examples/kafka-connect-datagen.html" target="_blank" rel="noopener noreferrer">Kafka Connect Datagen</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/examples/kcat.html" target="_blank" rel="noopener noreferrer">kafkacat</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/examples/kotlin.html" target="_blank" rel="noopener noreferrer">Kotlin</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/examples/ruby.html" target="_blank" rel="noopener noreferrer">Ruby</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/examples/rust.html" target="_blank" rel="noopener noreferrer">Rust</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/examples/scala.html" target="_blank" rel="noopener noreferrer">Scala</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/client-apps/vs-code-extension.html" target="_blank" rel="noopener noreferrer">VS Code Extension</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/kafka-streams/index.html" target="_blank" rel="noopener noreferrer">Build Kafka Streams Applications</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/kafka-streams/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/kafka-streams/quickstart.html" target="_blank" rel="noopener noreferrer">Quick Start</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/kafka-streams/kafka-streams-metrics.html" target="_blank" rel="noopener noreferrer">Metrics</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/kafka-streams/monitor-kafka-streams-apps.html" target="_blank" rel="noopener noreferrer">Monitor Applications</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/kafka-streams/upgrade-guide.html" target="_blank" rel="noopener noreferrer">Upgrade Guide</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/ksqldb/index.html" target="_blank" rel="noopener noreferrer">ksqlDB</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/ksqldb/overview.html" target="_blank" rel="noopener noreferrer">Create Stream Processing Apps with ksqlDB</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/ksqldb/ksqldb-quick-start.html" target="_blank" rel="noopener noreferrer">Quick Start</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/ksqldb/integrate-ksqldb-with-schema-registry.html" target="_blank" rel="noopener noreferrer">Enable ksqlDB Integration with Schema Registry</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/ksqldb/ksqldb-cluster-api.html" target="_blank" rel="noopener noreferrer">ksqlDB Cluster API Quick Start</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/ksqldb/monitoring-ksqldb.html" target="_blank" rel="noopener noreferrer">Monitor ksqlDB</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/cp-component/ksqldb-ccloud-cli.html" target="_blank" rel="noopener noreferrer">Manage ksqlDB by using the CLI</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/ksqldb/ksqldb-connector-management.html" target="_blank" rel="noopener noreferrer">Manage Connectors With ksqlDB</a></li>
+<li><a href="https://docs.confluent.io/platform/current/ksqldb/overview.html" target="_blank" rel="noopener noreferrer">Develop ksqlDB Applications</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/ksqldb/pull-queries-in-ccloud.html" target="_blank" rel="noopener noreferrer">Pull Queries</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/ksqldb/ksqldb-ccloud-rbac.html" target="_blank" rel="noopener noreferrer">Grant Role-Based Access</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/ksqldb/cloud-ksqldb-migration-guide.html" target="_blank" rel="noopener noreferrer">Migrate ksqlDB Applications on Confluent Cloud</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/ai/index.html" target="_blank" rel="noopener noreferrer">Build AI with Confluent Intelligence</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/ai/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/ai/streaming-agents/index.html" target="_blank" rel="noopener noreferrer">Streaming Agents</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/ai/streaming-agents/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/ai/streaming-agents/agent-runtime-guide.html" target="_blank" rel="noopener noreferrer">Agent Runtime Guide</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/ai/streaming-agents/call-tools.html" target="_blank" rel="noopener noreferrer">Call Tools</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/ai/streaming-agents/create-and-run-streaming-agents.html" target="_blank" rel="noopener noreferrer">Create and Run Streaming Agents</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/ai/streaming-agents/debug-streaming-agents.html" target="_blank" rel="noopener noreferrer">Debug Streaming Agents</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/ai/streaming-agents/streaming-agents-examples.html" target="_blank" rel="noopener noreferrer">Examples</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/ai/real-time-context-engine.html" target="_blank" rel="noopener noreferrer">Real-time Context Engine</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/ai/builtin-functions/index.html" target="_blank" rel="noopener noreferrer">Built-in AI/ML Functions</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/ai/builtin-functions/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/ai/builtin-functions/detect-anomalies.html" target="_blank" rel="noopener noreferrer">Detect Anomalies</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/ai/builtin-functions/forecast.html" target="_blank" rel="noopener noreferrer">Forecast Trends</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/ai/builtin-functions/invoke-tool-ai-workflow.html" target="_blank" rel="noopener noreferrer">Invoke a Tool in an AI Workflow</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/functions/ml-preprocessing-functions.html" target="_blank" rel="noopener noreferrer">ML Preprocessing Functions</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/functions/model-inference-functions.html" target="_blank" rel="noopener noreferrer">Model Inference Functions</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/ai/embeddings/index.html" target="_blank" rel="noopener noreferrer">Create Embeddings</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/ai/embeddings/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/ai/embeddings/embedding-action.html" target="_blank" rel="noopener noreferrer">Create Embeddings</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/ai/managed-model.html" target="_blank" rel="noopener noreferrer">Run a managed AI model</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/ai/ai-model-inference.html" target="_blank" rel="noopener noreferrer">Run a remote AI Model</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/ai/external-tables/index.html" target="_blank" rel="noopener noreferrer">Search External Tables</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/ai/external-tables/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/ai/external-tables/key-search.html" target="_blank" rel="noopener noreferrer">Key Search with External Databases</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/ai/external-tables/text-search.html" target="_blank" rel="noopener noreferrer">Text Search with External Databases</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/ai/external-tables/vector-search.html" target="_blank" rel="noopener noreferrer">Vector Search with External Databases</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/ai/ai-faq.html" target="_blank" rel="noopener noreferrer">FAQ</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/index.html" target="_blank" rel="noopener noreferrer">Manage Topics</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/topics/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/manage.html" target="_blank" rel="noopener noreferrer">Configuration Reference</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/messages.html" target="_blank" rel="noopener noreferrer">Message Browser</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/stream-sharing/overview.html" target="_blank" rel="noopener noreferrer">Share Streams</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/stream-sharing/index.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/stream-sharing/produce-shared-data.html" target="_blank" rel="noopener noreferrer">Provide Stream Shares</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/stream-sharing/consume-shared-data.html" target="_blank" rel="noopener noreferrer">Consume Stream Shares</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/index.html" target="_blank" rel="noopener noreferrer">Tableflow</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/concepts/index.html" target="_blank" rel="noopener noreferrer">Concepts</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/concepts/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/concepts/tableflow-storage.html" target="_blank" rel="noopener noreferrer">Storage</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/concepts/tableflow-schemas.html" target="_blank" rel="noopener noreferrer">Schemas</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/concepts/materialize-cdc.html" target="_blank" rel="noopener noreferrer">Materialize Change Data Capture Streams</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/concepts/tableflow-billing.html" target="_blank" rel="noopener noreferrer">Billing</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/concepts/write-modes.html" target="_blank" rel="noopener noreferrer">Write Modes</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/get-started/index.html" target="_blank" rel="noopener noreferrer">Get Started</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/get-started/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/get-started/quick-start-managed-storage.html" target="_blank" rel="noopener noreferrer">Quick Start with Managed Storage</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/get-started/quick-start-custom-storage-glue.html" target="_blank" rel="noopener noreferrer">Quick Start Using Your Storage and AWS Glue</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/get-started/quick-start-delta-lake.html" target="_blank" rel="noopener noreferrer">Quick Start with Delta Lake Tables</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/how-to-guides/index.html" target="_blank" rel="noopener noreferrer">How-to Guides</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/how-to-guides/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/how-to-guides/configure-storage.html" target="_blank" rel="noopener noreferrer">Configure Storage</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/how-to-guides/catalog-integration/index.html" target="_blank" rel="noopener noreferrer">Integrate Catalogs</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/how-to-guides/catalog-integration/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/how-to-guides/catalog-integration/integrate-with-aws-glue-catalog.html" target="_blank" rel="noopener noreferrer">Integrate with AWS Glue Catalog</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/how-to-guides/catalog-integration/integrate-with-snowflake-open-catalog-or-apache-polaris.html" target="_blank" rel="noopener noreferrer">Integrate with Snowflake Open Catalog or Apache Polaris</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/how-to-guides/catalog-integration/integrate-with-unity-catalog.html" target="_blank" rel="noopener noreferrer">Integrate with Unity Catalog</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/how-to-guides/query-engines/index.html" target="_blank" rel="noopener noreferrer">Query Data</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/how-to-guides/query-engines/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/how-to-guides/query-engines/query-with-aws.html" target="_blank" rel="noopener noreferrer">Query with AWS</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/how-to-guides/query-engines/query-with-duckdb.html" target="_blank" rel="noopener noreferrer">Query with DuckDB</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/how-to-guides/query-engines/query-with-flink.html" target="_blank" rel="noopener noreferrer">Query with Flink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/how-to-guides/query-engines/query-with-snowflake.html" target="_blank" rel="noopener noreferrer">Query with Snowflake</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/how-to-guides/query-engines/query-with-trino.html" target="_blank" rel="noopener noreferrer">Query with Trino</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/operate/index.html" target="_blank" rel="noopener noreferrer">Operate</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/operate/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/operate/configure-tableflow.html" target="_blank" rel="noopener noreferrer">Configure</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/operate/tableflow-rbac.html" target="_blank" rel="noopener noreferrer">Grant Role-Based Access</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/operate/monitor-tableflow.html" target="_blank" rel="noopener noreferrer">Monitor</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/operate/tableflow-private-networking.html" target="_blank" rel="noopener noreferrer">Use Private Networking</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/tableflow/operate/cloud-regions.html" target="_blank" rel="noopener noreferrer">Supported Cloud Regions</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/topics/topics-faq.html" target="_blank" rel="noopener noreferrer">FAQ</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/usm/index.html" target="_blank" rel="noopener noreferrer">Manage and Monitor resource with USM</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/usm/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/usm/register/index.html" target="_blank" rel="noopener noreferrer">Register Confluent Platform with USM</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/usm/register/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/usm/register/payment-method.html" target="_blank" rel="noopener noreferrer">Set up payment method</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/usm/register/usm-network.html" target="_blank" rel="noopener noreferrer">Configure private networking</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/usm/register/usm-service-account.html" target="_blank" rel="noopener noreferrer">Configure a service account</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/usm/register/deploy-agent.html" target="_blank" rel="noopener noreferrer">Deploy the USM Agent</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/usm/register/complete-registration.html" target="_blank" rel="noopener noreferrer">Complete the cluster registration</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/usm/register-connect.html" target="_blank" rel="noopener noreferrer">Register Confluent Platform Connect cluster with USM</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/usm/monitor/index.html" target="_blank" rel="noopener noreferrer">Monitor Confluent Platform resources</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/usm/monitor/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/usm/monitor/clusters.html" target="_blank" rel="noopener noreferrer">Clusters</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/usm/monitor/topics.html" target="_blank" rel="noopener noreferrer">Topics</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/usm/monitor/connectors.html" target="_blank" rel="noopener noreferrer">Connectors</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/usm/usm-governance.html" target="_blank" rel="noopener noreferrer">Data governance for Confluent Platform</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/usm/troubleshoot.html" target="_blank" rel="noopener noreferrer">Troubleshoot</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/sr/overview.html" target="_blank" rel="noopener noreferrer">Govern Data Streams</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/stream-governance/index.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/stream-governance/overview.html" target="_blank" rel="noopener noreferrer">Stream Governance</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/stream-governance/packages.html" target="_blank" rel="noopener noreferrer">Manage Governance Packages</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/stream-governance/data-portal.html" target="_blank" rel="noopener noreferrer">Data Portal</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/stream-governance/stream-lineage.html" target="_blank" rel="noopener noreferrer">Track Data with Stream Lineage</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/stream-governance/stream-catalog-overview.html" target="_blank" rel="noopener noreferrer">Manage Stream Catalog</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/stream-governance/stream-catalog.html" target="_blank" rel="noopener noreferrer">Stream Catalog User Guide</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/stream-governance/stream-catalog-rest-apis.html" target="_blank" rel="noopener noreferrer">REST API Catalog Usage and Examples Guide</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/stream-governance/graphql.html" target="_blank" rel="noopener noreferrer">GraphQL API Catalog Usage and Examples Guide</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/sr/sr-overview.html" target="_blank" rel="noopener noreferrer">Manage Schemas</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/sr/index.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/sr/schemas-manage.html" target="_blank" rel="noopener noreferrer">Manage Schemas</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/sr/schemas-delete-cc.html" target="_blank" rel="noopener noreferrer">Delete Schemas and Manage Storage</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/sr/broker-side-schema-validation.html" target="_blank" rel="noopener noreferrer">Use Broker-Side Schema ID Validation</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/sr/schema-linking.html" target="_blank" rel="noopener noreferrer">Schema Linking</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/sr/schema_registry_ccloud_tutorial.html" target="_blank" rel="noopener noreferrer">Schema Registry Tutorial</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/sr/fundamentals/overview.html" target="_blank" rel="noopener noreferrer">Fundamentals</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/sr/fundamentals/index.html" target="_blank" rel="noopener noreferrer">Key Concepts</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/sr/fundamentals/schema-evolution.html" target="_blank" rel="noopener noreferrer">Schema Evolution and Compatibility</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/sr/fundamentals/serdes-develop/overview.html" target="_blank" rel="noopener noreferrer">Schema Formats</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/sr/fundamentals/serdes-develop/index.html" target="_blank" rel="noopener noreferrer">Serializers and Deserializers Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/sr/fundamentals/serdes-develop/serdes-avro.html" target="_blank" rel="noopener noreferrer">Avro</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/sr/fundamentals/serdes-develop/serdes-protobuf.html" target="_blank" rel="noopener noreferrer">Protobuf</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/sr/fundamentals/serdes-develop/serdes-json.html" target="_blank" rel="noopener noreferrer">JSON Schema</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/sr/fundamentals/data-contracts.html" target="_blank" rel="noopener noreferrer">Data Contracts</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/sr/schemas-governance-security.html" target="_blank" rel="noopener noreferrer">Security Considerations</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/sr/fundamentals/overview-sr-networking.html" target="_blank" rel="noopener noreferrer">Enable Private Networking</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/sr/fundamentals/sr-private-link.html" target="_blank" rel="noopener noreferrer">Enable Private Networking with Schema Registry PrivateLink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/sr/fundamentals/schema-registry-vpc.html" target="_blank" rel="noopener noreferrer">Enable Private Networking for Schema Registry with a Public Endpoint</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/sr/develop/overview.html" target="_blank" rel="noopener noreferrer">Reference</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/sr/develop/index.html" target="_blank" rel="noopener noreferrer">Schema Registry Reference</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/sr/sr-client-configs.html" target="_blank" rel="noopener noreferrer">Configure Clients to Schema Registry</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/sr/develop/cpp-clients.html" target="_blank" rel="noopener noreferrer">Schema Registry C++ Client (libschemaregistry)</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/sr/develop/maven-plugin.html" target="_blank" rel="noopener noreferrer">Maven Plugin</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/sr/sr-rest-apis.html" target="_blank" rel="noopener noreferrer">REST API Usage Examples</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/stream-governance/async-api.html" target="_blank" rel="noopener noreferrer">Use AsyncAPI to Describe Topics and Schemas</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/sr/faqs-cc.html" target="_blank" rel="noopener noreferrer">FAQ</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/index.html" target="_blank" rel="noopener noreferrer">Connect to External Services</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/install-connectors.html" target="_blank" rel="noopener noreferrer">Install Connectors</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-activemq-source.html" target="_blank" rel="noopener noreferrer">ActiveMQ Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-alloydb-sink.html" target="_blank" rel="noopener noreferrer">AlloyDB Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-amazon-cloudwatch-logs-source.html" target="_blank" rel="noopener noreferrer">Amazon CloudWatch Logs Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-amazon-cloudwatch-metrics-sink.html" target="_blank" rel="noopener noreferrer">Amazon CloudWatch Metrics Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-amazon-dynamodb-cdc-source.html" target="_blank" rel="noopener noreferrer">Amazon DynamoDB CDC Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-amazon-dynamo-db-sink.html" target="_blank" rel="noopener noreferrer">Amazon DynamoDB Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-kinesis-source.html" target="_blank" rel="noopener noreferrer">Amazon Kinesis Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-amazon-redshift-sink.html" target="_blank" rel="noopener noreferrer">Amazon Redshift Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-s3-sink/index.html" target="_blank" rel="noopener noreferrer">Amazon S3 Sink</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-s3-sink/cc-s3-sink.html" target="_blank" rel="noopener noreferrer">Configure and Launch</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/networking/aws-eap-1st-party.html" target="_blank" rel="noopener noreferrer">Configure with AWS Egress PrivateLink Endpoints</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-s3-source.html" target="_blank" rel="noopener noreferrer">Amazon S3 Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-amazon-sqs-source.html" target="_blank" rel="noopener noreferrer">Amazon SQS Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-aws-lambda-sink.html" target="_blank" rel="noopener noreferrer">AWS Lambda Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-azure-blob-sink/index.html" target="_blank" rel="noopener noreferrer">Azure Blob Storage Sink</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-azure-blob-sink/cc-azure-blob-sink.html" target="_blank" rel="noopener noreferrer">Configure and Launch</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/networking/azure-eap-1st-party.html" target="_blank" rel="noopener noreferrer">Configure with Azure Egress Private Link Endpoints</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-azure-blob-source.html" target="_blank" rel="noopener noreferrer">Azure Blob Storage Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-azure-cognitive-search-sink.html" target="_blank" rel="noopener noreferrer">Azure Cognitive Search Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-azure-cosmos-sink.html" target="_blank" rel="noopener noreferrer">Azure Cosmos DB Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-azure-cosmos-sink-v2.html" target="_blank" rel="noopener noreferrer">Azure Cosmos DB Sink V2</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-azure-cosmos-source.html" target="_blank" rel="noopener noreferrer">Azure Cosmos DB Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-azure-cosmos-source-v2.html" target="_blank" rel="noopener noreferrer">Azure Cosmos DB Source V2</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-azure-datalakeGen2-storage-sink.html" target="_blank" rel="noopener noreferrer">Azure Data Lake Storage Gen2 Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-azure-event-hubs-source.html" target="_blank" rel="noopener noreferrer">Azure Event Hubs Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-azure-functions-sink.html" target="_blank" rel="noopener noreferrer">Azure Functions Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-azure-log-analytics-sink.html" target="_blank" rel="noopener noreferrer">Azure Log Analytics Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-azure-service-bus-source.html" target="_blank" rel="noopener noreferrer">Azure Service Bus Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-azure-synapse-analytics-sink.html" target="_blank" rel="noopener noreferrer">Azure Synapse Analytics Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-clickhouse-sink-connector/index.html" target="_blank" rel="noopener noreferrer">ClickHouse Sink</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-clickhouse-sink-connector/cc-clickhouse-sink.html" target="_blank" rel="noopener noreferrer">Configure and Launch</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-clickhouse-sink-connector/cc-clickhouse-sink-eap-aws.html" target="_blank" rel="noopener noreferrer">Configure with AWS Egress PrivateLink Endpoints</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-clickhouse-sink-connector/cc-clickhouse-eap-azure.html" target="_blank" rel="noopener noreferrer">Configure with Azure Egress Private Link Endpoints</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-clickhouse-sink-connector/cc-clickhouse-eap-gcp.html" target="_blank" rel="noopener noreferrer">Configure with Google Cloud Private Service Connect Endpoints</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-couchbase-db-source/index.html" target="_blank" rel="noopener noreferrer">Couchbase Source</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-couchbase-db-source/cc-couchbase-db-source.html" target="_blank" rel="noopener noreferrer">Configure and Launch</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-couchbase-db-source/cc-couchbase-source-eap-aws.html" target="_blank" rel="noopener noreferrer">Configure with AWS Egress PrivateLink Endpoints</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-couchbase-db-source/cc-couchbase-source-eap-azure.html" target="_blank" rel="noopener noreferrer">Configure with Azure Egress Private Link Endpoints</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-couchbase-db-sink/index.html" target="_blank" rel="noopener noreferrer">Couchbase Sink</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-couchbase-db-sink/cc-couchbase-db-sink.html" target="_blank" rel="noopener noreferrer">Configure and Launch</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-couchbase-db-sink/cc-couchbase-eap-aws.html" target="_blank" rel="noopener noreferrer">Configure with AWS Egress PrivateLink Endpoints</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-couchbase-db-sink/cc-couchbase-eap-azure.html" target="_blank" rel="noopener noreferrer">Configure with Azure Egress Private Link Endpoints</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-databricks-delta-lake-sink/index.html" target="_blank" rel="noopener noreferrer">Databricks Delta Lake Sink</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-databricks-delta-lake-sink/databricks-aws-setup.html" target="_blank" rel="noopener noreferrer">Set up Databricks Delta Lake (AWS) Sink Connector for Confluent Cloud</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-databricks-delta-lake-sink/cc-databricks-delta-lake-sink.html" target="_blank" rel="noopener noreferrer">Configure and launch the connector</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-datadog-metrics-sink.html" target="_blank" rel="noopener noreferrer">Datadog Metrics Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-datagen-source.html" target="_blank" rel="noopener noreferrer">Datagen Source (development and testing)</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-elasticsearch-service-sink.html" target="_blank" rel="noopener noreferrer">Elasticsearch Service Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-github-source.html" target="_blank" rel="noopener noreferrer">GitHub Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-gcp-bigquery-sink.html" target="_blank" rel="noopener noreferrer">Google BigQuery Sink [Deprecated]</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-gcp-bigquery-storage-sink.html" target="_blank" rel="noopener noreferrer">Google BigQuery Sink V2</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-gcp-bigtable-sink.html" target="_blank" rel="noopener noreferrer">Google Cloud BigTable Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-gcp-dataproc-sink.html" target="_blank" rel="noopener noreferrer">Google Cloud Dataproc Sink [Deprecated]</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-google-cloud-functions-gen2-sink.html" target="_blank" rel="noopener noreferrer">Google Cloud Functions Gen 2 Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-google-functions-sink.html" target="_blank" rel="noopener noreferrer">Google Cloud Functions Sink [Deprecated]</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-google-pubsub-source.html" target="_blank" rel="noopener noreferrer">Google Cloud Pub/Sub Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-gcp-spanner-sink.html" target="_blank" rel="noopener noreferrer">Google Cloud Spanner Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-gcs-sink.html" target="_blank" rel="noopener noreferrer">Google Cloud Storage Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-gcs-source.html" target="_blank" rel="noopener noreferrer">Google Cloud Storage Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-http-sink.html" target="_blank" rel="noopener noreferrer">HTTP Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-http-sink-v2.html" target="_blank" rel="noopener noreferrer">HTTP Sink V2</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-http-source.html" target="_blank" rel="noopener noreferrer">HTTP Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-http-source-v2.html" target="_blank" rel="noopener noreferrer">HTTP Source V2</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-ibmmq-source.html" target="_blank" rel="noopener noreferrer">IBM MQ Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-influxdb2-sink.html" target="_blank" rel="noopener noreferrer">InfluxDB 2 Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-influxdb2-source.html" target="_blank" rel="noopener noreferrer">InfluxDB 2 Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-influx-db3-sink.html" target="_blank" rel="noopener noreferrer">InfluxDB 3 Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-jira-source.html" target="_blank" rel="noopener noreferrer">Jira Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-mariadb-cdc-source-debezium.html" target="_blank" rel="noopener noreferrer">MariaDB CDC Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-microsoft-sql-server-source-cdc-debezium.html" target="_blank" rel="noopener noreferrer">Microsoft SQL Server CDC Source (Debezium) [Deprecated]</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-microsoft-sql-server-source-cdc-v2-debezium/index.html" target="_blank" rel="noopener noreferrer">Microsoft SQL Server CDC Source V2 (Debezium)</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-microsoft-sql-server-source-cdc-v2-debezium/cc-microsoft-sql-server-source-cdc-v2-debezium.html" target="_blank" rel="noopener noreferrer">Configure and launch the connector</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-microsoft-sql-server-source-cdc-v2-debezium/cc-debezium-v2-backward-incompatible-changes-sqlserver.html" target="_blank" rel="noopener noreferrer">Backward incompatibility considerations</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-microsoft-sql-server-sink.html" target="_blank" rel="noopener noreferrer">Microsoft SQL Server Sink (JDBC)</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-microsoft-sql-server-source.html" target="_blank" rel="noopener noreferrer">Microsoft SQL Server Source (JDBC)</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-mongo-db-sink/index.html" target="_blank" rel="noopener noreferrer">MongoDB Atlas Sink</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-mongo-db-sink/cc-mongo-db-sink.html" target="_blank" rel="noopener noreferrer">Configure and Launch</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-mongo-db-sink/cc-mongo-db-sink-eap-aws.html" target="_blank" rel="noopener noreferrer">Configure with AWS Egress PrivateLink Endpoints</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-mongo-db-sink/cc-mongo-db-sink-eap-azure.html" target="_blank" rel="noopener noreferrer">Configure with Azure Egress Private Link Endpoints</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-mongo-db-sink/cc-mongo-db-sink-eap-gcp.html" target="_blank" rel="noopener noreferrer">Configure with Google Cloud Egress Private Service Connect Endpoints</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-mongo-db-source.html" target="_blank" rel="noopener noreferrer">MongoDB Atlas Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-mqtt-sink.html" target="_blank" rel="noopener noreferrer">MQTT Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-mqtt-source.html" target="_blank" rel="noopener noreferrer">MQTT Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-mysql-source-cdc-debezium.html" target="_blank" rel="noopener noreferrer">MySQL CDC Source (Debezium) [Deprecated]</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-mysql-source-cdc-v2-debezium/index.html" target="_blank" rel="noopener noreferrer">MySQL CDC Source V2 (Debezium)</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-mysql-source-cdc-v2-debezium/cc-mysql-source-cdc-v2-debezium.html" target="_blank" rel="noopener noreferrer">Configure and Launch the connector</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-mysql-source-cdc-v2-debezium/cc-debezium-v2-backward-incompatible-changes.html" target="_blank" rel="noopener noreferrer">Backward Incompatible Changes</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-mysql-sink.html" target="_blank" rel="noopener noreferrer">MySQL Sink (JDBC)</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-mysql-source.html" target="_blank" rel="noopener noreferrer">MySQL Source (JDBC)</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-neo4j-sink/index.html" target="_blank" rel="noopener noreferrer">Neo4j Sink</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-neo4j-sink/cc-neo4j-sink.html" target="_blank" rel="noopener noreferrer">Configure and Launch</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-neo4j-sink/cc-neo4j-sink-eap-aws.html" target="_blank" rel="noopener noreferrer">Configure with AWS Egress PrivateLink Endpoints</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-new-relic-metrics-sink.html" target="_blank" rel="noopener noreferrer">New Relic Metrics Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-opensearch-sink.html" target="_blank" rel="noopener noreferrer">OpenSearch Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-oracle-xstream-cdc-source/index.html" target="_blank" rel="noopener noreferrer">Oracle XStream CDC Source</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-oracle-xstream-cdc-source/cc-oracle-xstream-cdc-source-features.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-oracle-xstream-cdc-source/cc-oracle-xstream-cdc-source.html" target="_blank" rel="noopener noreferrer">Configure and Launch the connector</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-oracle-xstream-cdc-source/prereqs-validation.html" target="_blank" rel="noopener noreferrer">Oracle Database Prerequisites</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-oracle-xstream-cdc-source/changes-events.html" target="_blank" rel="noopener noreferrer">Change Events</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-oracle-xstream-cdc-source/signals-actions.html" target="_blank" rel="noopener noreferrer">Signals and Actions</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-oracle-xstream-cdc-source/examples.html" target="_blank" rel="noopener noreferrer">Examples</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-oracle-xstream-cdc-source/cc-oracle-xstream-cdc-source-troubleshoot.html" target="_blank" rel="noopener noreferrer">Troubleshooting</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-oracle-cdc-source/index.html" target="_blank" rel="noopener noreferrer">Oracle CDC Source</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-oracle-cdc-source/cc-oracle-cdc-source-features.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-oracle-cdc-source/cc-oracle-cdc-source.html" target="_blank" rel="noopener noreferrer">Configure and Launch the connector</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-oracle-cdc-source/oracle-cdc-setup-includes/high-level-architecture.html" target="_blank" rel="noopener noreferrer">Horizontal Scaling</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-oracle-cdc-source/oracle-cdc-setup-includes/prereqs-validation.html" target="_blank" rel="noopener noreferrer">Oracle Database Prerequisites</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-oracle-cdc-source/cc-oracle-cdc-source-smt-examples.html" target="_blank" rel="noopener noreferrer">SMT Examples</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-oracle-cdc-source/oracle-cdc-setup-includes/ddl-changes.html" target="_blank" rel="noopener noreferrer">DDL Changes</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-oracle-cdc-source/cc-oracle-cdc-source-troubleshooting.html" target="_blank" rel="noopener noreferrer">Troubleshooting</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-oracle-db-sink.html" target="_blank" rel="noopener noreferrer">Oracle Database Sink (JDBC)</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-oracle-db-source.html" target="_blank" rel="noopener noreferrer">Oracle Database Source (JDBC)</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-pagerduty-sink.html" target="_blank" rel="noopener noreferrer">PagerDuty Sink [Deprecated]</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-pinecone-sink.html" target="_blank" rel="noopener noreferrer">Pinecone Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-postgresql-cdc-source-debezium.html" target="_blank" rel="noopener noreferrer">PostgreSQL CDC Source (Debezium) [Deprecated]</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-postgresql-cdc-source-v2-debezium/index.html" target="_blank" rel="noopener noreferrer">PostgreSQL CDC Source V2 (Debezium)</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-postgresql-cdc-source-v2-debezium/cc-postgresql-cdc-source-v2-debezium.html" target="_blank" rel="noopener noreferrer">Configure and Launch the connector</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-postgresql-cdc-source-v2-debezium/cc-debezium-v2-backward-incompatible-changes-postgres.html" target="_blank" rel="noopener noreferrer">Backward Incompatible Changes</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-postgresql-sink.html" target="_blank" rel="noopener noreferrer">PostgreSQL Sink (JDBC)</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-postgresql-source.html" target="_blank" rel="noopener noreferrer">PostgreSQL Source (JDBC)</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-rabbitmq-sink.html" target="_blank" rel="noopener noreferrer">RabbitMQ Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-rabbitmq-source.html" target="_blank" rel="noopener noreferrer">RabbitMQ Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-redis-sink.html" target="_blank" rel="noopener noreferrer">Redis Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-redis-kafka-db-sink.html" target="_blank" rel="noopener noreferrer">Redis Kafka Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-redis-kafka-source.html" target="_blank" rel="noopener noreferrer">Redis Kafka Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-salesforce-bulk-api-v2-sink.html" target="_blank" rel="noopener noreferrer">Salesforce Bulk API 2.0 Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-salesforce-bulk-api-v2-source.html" target="_blank" rel="noopener noreferrer">Salesforce Bulk API 2.0 Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-salesforce-bulk-api-source.html" target="_blank" rel="noopener noreferrer">Salesforce Bulk API Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-salesforce-source-cdc.html" target="_blank" rel="noopener noreferrer">Salesforce CDC Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-salesforce-platform-event-sink.html" target="_blank" rel="noopener noreferrer">Salesforce Platform Event Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-salesforce-platform-event-source.html" target="_blank" rel="noopener noreferrer">Salesforce Platform Event Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-salesforce-pushtopic-source.html" target="_blank" rel="noopener noreferrer">Salesforce PushTopic Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-salesforce-SObjects-sink.html" target="_blank" rel="noopener noreferrer">Salesforce SObject Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-servicenow-sink.html" target="_blank" rel="noopener noreferrer">ServiceNow Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-servicenow-source.html" target="_blank" rel="noopener noreferrer">ServiceNow Source [Legacy]</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-servicenow-source-v2.html" target="_blank" rel="noopener noreferrer">ServiceNow Source V2</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-sftp-sink.html" target="_blank" rel="noopener noreferrer">SFTP Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-sftp-source.html" target="_blank" rel="noopener noreferrer">SFTP Source</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-snowflake-sink/index.html" target="_blank" rel="noopener noreferrer">Snowflake Sink</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-snowflake-sink/cc-snowflake-sink.html" target="_blank" rel="noopener noreferrer">Configure and Launch</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-snowflake-sink/cc-snowflake-sink-eap-aws.html" target="_blank" rel="noopener noreferrer">Configure with AWS Egress PrivateLink Endpoints</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-snowflake-sink/cc-snowflake-sink-eap-azure.html" target="_blank" rel="noopener noreferrer">Configure with Azure Egress Private Link Endpoints</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-snowflake-sink/cc-snowflake-sink-eap-gcp.html" target="_blank" rel="noopener noreferrer">Configure with Google Cloud Private Service Connect Endpoints</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-snowflake-source/index.html" target="_blank" rel="noopener noreferrer">Snowflake Source</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-snowflake-source/cc-snowflake-source.html" target="_blank" rel="noopener noreferrer">Configure and Launch</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-snowflake-source/cc-snowflake-source-eap-aws.html" target="_blank" rel="noopener noreferrer">Configure with AWS Egress PrivateLink Endpoints</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-snowflake-source/cc-snowflake-source-eap-azure.html" target="_blank" rel="noopener noreferrer">Configure with Azure Egress Private Link Endpoints</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-snowflake-source/cc-snowflake-source-eap-gcp.html" target="_blank" rel="noopener noreferrer">Configure with Google Cloud Private Service Connect Endpoints</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-solace-sink.html" target="_blank" rel="noopener noreferrer">Solace Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-splunk-sink.html" target="_blank" rel="noopener noreferrer">Splunk Sink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/cc-zendesk-source.html" target="_blank" rel="noopener noreferrer">Zendesk Source</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/confluent-hub/overview.html" target="_blank" rel="noopener noreferrer">Confluent Hub</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/confluent-hub/index.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/confluent-hub/component-archive.html" target="_blank" rel="noopener noreferrer">Component Archive Specification</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/confluent-hub/contributing.html" target="_blank" rel="noopener noreferrer">Contribute</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/bring-your-connector/index.html" target="_blank" rel="noopener noreferrer">Install Custom Plugins and Custom Connectors</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/bring-your-connector/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/bring-your-connector/custom-connector-qs.html" target="_blank" rel="noopener noreferrer">Quick Start</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/bring-your-connector/custom-connector-manage.html" target="_blank" rel="noopener noreferrer">Manage Custom Connectors</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/bring-your-connector/custom-connector-fands.html" target="_blank" rel="noopener noreferrer">Limitations and Support</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/bring-your-connector/custom-connector-cli.html" target="_blank" rel="noopener noreferrer">API and CLI</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/csfle.html" target="_blank" rel="noopener noreferrer">Manage CSFLE</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/provider-integration.html" target="_blank" rel="noopener noreferrer">Manage Provider Integration</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/networking/index.html" target="_blank" rel="noopener noreferrer">Networking and DNS</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/networking/internet-resource.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/networking/aws-eap-1st-party.html" target="_blank" rel="noopener noreferrer">AWS Egress PrivateLink Endpoints for First-Party Services</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/networking/aws-eap-self-managed.html" target="_blank" rel="noopener noreferrer">AWS Egress PrivateLink Endpoints for Self-Managed Services</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/networking/aws-eap-rds.html" target="_blank" rel="noopener noreferrer">AWS Egress PrivateLink Endpoints for Amazon RDS</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/networking/azure-eap-1st-party.html" target="_blank" rel="noopener noreferrer">Azure Egress Private Link Endpoints for First-Party Services</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/networking/azure-eap-self-managed.html" target="_blank" rel="noopener noreferrer">Azure Egress Private Link Endpoints for Self-Managed Services</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/networking/gcp-eap-1st-party.html" target="_blank" rel="noopener noreferrer">Google Cloud Private Service Connect Endpoints for First-Party Services</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/connect-api-section.html" target="_blank" rel="noopener noreferrer">Connect API Usage</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/static-egress-ip.html" target="_blank" rel="noopener noreferrer">Manage Public Egress IP Addresses</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/data-preview.html" target="_blank" rel="noopener noreferrer">Sample Connector Output</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/single-message-transforms.html" target="_blank" rel="noopener noreferrer">Configure Single Message Transforms</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/configure-custom-single-message-transforms/index.html" target="_blank" rel="noopener noreferrer">Configure Custom SMTs</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/configure-custom-single-message-transforms/quick-start-custom-smt.html" target="_blank" rel="noopener noreferrer">Quick Start</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/configure-custom-single-message-transforms/manage-custom-smt.html" target="_blank" rel="noopener noreferrer">Manage Custom SMT APIs</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/configure-custom-single-message-transforms/custom-smt-limitations-support.html" target="_blank" rel="noopener noreferrer">Limitations and Support</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/logging-cloud-connectors.html" target="_blank" rel="noopener noreferrer">View Connector Events</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/connector-statuses.html" target="_blank" rel="noopener noreferrer">Interpret Connector Statuses</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/service-account.html" target="_blank" rel="noopener noreferrer">Manage Service Accounts</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/managed-connector-rbac.html" target="_blank" rel="noopener noreferrer">Configure RBAC</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/dead-letter-queue.html" target="_blank" rel="noopener noreferrer">View Errors in the Dead Letter Queue</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/limits.html" target="_blank" rel="noopener noreferrer">Connector Limits</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/offsets.html" target="_blank" rel="noopener noreferrer">Manage Offsets</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/index.html" target="_blank" rel="noopener noreferrer">Transforms List</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/cast.html" target="_blank" rel="noopener noreferrer">Cast</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/drop.html" target="_blank" rel="noopener noreferrer">Drop</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/dropheaders.html" target="_blank" rel="noopener noreferrer">DropHeaders</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/eventrouter.html" target="_blank" rel="noopener noreferrer">EventRouter</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/extractfield.html" target="_blank" rel="noopener noreferrer">ExtractField</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/extracttopic.html" target="_blank" rel="noopener noreferrer">ExtractTopic</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/filter-ak.html" target="_blank" rel="noopener noreferrer">Filter (Kafka)</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/filter-confluent.html" target="_blank" rel="noopener noreferrer">Filter (Confluent)</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/flatten.html" target="_blank" rel="noopener noreferrer">Flatten (Kafka)</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/flatten-confluent.html" target="_blank" rel="noopener noreferrer">Flatten (Confluent)</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/fromxml.html" target="_blank" rel="noopener noreferrer">FromXML</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/gzipdecompress.html" target="_blank" rel="noopener noreferrer">GzipDecompress</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/headerfrom.html" target="_blank" rel="noopener noreferrer">HeaderFrom</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/headertovalue.html" target="_blank" rel="noopener noreferrer">HeaderToValue</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/hoistfield.html" target="_blank" rel="noopener noreferrer">HoistField</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/insertfield.html" target="_blank" rel="noopener noreferrer">InsertField</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/insertheader.html" target="_blank" rel="noopener noreferrer">InsertHeader</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/keytovalue.html" target="_blank" rel="noopener noreferrer">KeyToValue</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/maskfield.html" target="_blank" rel="noopener noreferrer">MaskField</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/messagetimestamprouter.html" target="_blank" rel="noopener noreferrer">MessageTimestampRouter</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/regexrouter.html" target="_blank" rel="noopener noreferrer">RegexRouter</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/replacefield-ak.html" target="_blank" rel="noopener noreferrer">ReplaceField (Kafka)</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/replacefield-confluent.html" target="_blank" rel="noopener noreferrer">ReplaceField (Confluent)</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/setschemametadata.html" target="_blank" rel="noopener noreferrer">SetSchemaMetadata</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/timestampconverter.html" target="_blank" rel="noopener noreferrer">TimestampConverter</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/timestamprouter.html" target="_blank" rel="noopener noreferrer">TimestampRouter</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/tombstonehandler.html" target="_blank" rel="noopener noreferrer">TombstoneHandler</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/topicregexrouter.html" target="_blank" rel="noopener noreferrer">TopicRegexRouter</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/transforms/valuetokey.html" target="_blank" rel="noopener noreferrer">ValueToKey</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/reference/index.html" target="_blank" rel="noopener noreferrer">Reference</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/reference/connector-configuration.html" target="_blank" rel="noopener noreferrer">Additional Connector Configuration</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/reference/cflt-troubleshoot-assistant.html" target="_blank" rel="noopener noreferrer">Confluent AI-Assisted Troubleshooting</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/integrations/index.html" target="_blank" rel="noopener noreferrer">Integrate with Confluent Cloud</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/integrations/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/integrations/connect-w-confluent.html" target="_blank" rel="noopener noreferrer">Connect with Confluent Program</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/integrations/connections/index.html" target="_blank" rel="noopener noreferrer">Reuse Connections with External Services</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/integrations/connections/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/integrations/connections/services.html" target="_blank" rel="noopener noreferrer">Supported External Services</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/integrations/connections/manage-connections.html" target="_blank" rel="noopener noreferrer">Manage Connections</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/integrations/provider-integrations/index.html" target="_blank" rel="noopener noreferrer">Integrate with Cloud Service Providers</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/integrations/provider-integrations/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/integrations/provider-integrations/create-provider-integration-aws.html" target="_blank" rel="noopener noreferrer">Create an AWS Provider Integration</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/integrations/provider-integrations/create-provider-integration-azure.html" target="_blank" rel="noopener noreferrer">Create an Azure Provider Integration</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/integrations/provider-integrations/create-provider-integration-gc.html" target="_blank" rel="noopener noreferrer">Create a Google Cloud Provider Integration</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/integrations/provider-integrations/manage-provider-integration.html" target="_blank" rel="noopener noreferrer">Manage a Provider Integration</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/index.html" target="_blank" rel="noopener noreferrer">Process Data with Flink</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/flink/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/get-started/index.html" target="_blank" rel="noopener noreferrer">Get Started</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/flink/get-started/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/get-started/quick-start-cloud-console.html" target="_blank" rel="noopener noreferrer">Quick Start with Cloud Console</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/get-started/quick-start-shell.html" target="_blank" rel="noopener noreferrer">Quick Start with SQL Shell in Confluent CLI</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/get-started/quick-start-java-table-api.html" target="_blank" rel="noopener noreferrer">Quick Start with Java Table API</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/get-started/quick-start-python-table-api.html" target="_blank" rel="noopener noreferrer">Quick Start with Python Table API</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/concepts/index.html" target="_blank" rel="noopener noreferrer">Concepts</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/flink/concepts/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/concepts/autopilot.html" target="_blank" rel="noopener noreferrer">Autopilot</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/concepts/batch-and-stream-processing.html" target="_blank" rel="noopener noreferrer">Batch and Stream Processing</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/concepts/flink-billing.html" target="_blank" rel="noopener noreferrer">Billing</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/concepts/comparison-with-apache-flink.html" target="_blank" rel="noopener noreferrer">Comparison with Apache Flink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/concepts/compute-pools.html" target="_blank" rel="noopener noreferrer">Compute Pools</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/concepts/delivery-guarantees.html" target="_blank" rel="noopener noreferrer">Delivery Guarantees and Latency</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/concepts/determinism.html" target="_blank" rel="noopener noreferrer">Determinism</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/concepts/flink-private-networking.html" target="_blank" rel="noopener noreferrer">Private Networking</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/concepts/schema-statement-evolution.html" target="_blank" rel="noopener noreferrer">Schema and Statement Evolution</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/concepts/snapshot-queries.html" target="_blank" rel="noopener noreferrer">Snapshot Queries</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/concepts/statements.html" target="_blank" rel="noopener noreferrer">Statements</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/concepts/statement-cfu-metrics.html" target="_blank" rel="noopener noreferrer">Statement CFU Metrics</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/concepts/dynamic-tables.html" target="_blank" rel="noopener noreferrer">Tables and Topics</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/concepts/timely-stream-processing.html" target="_blank" rel="noopener noreferrer">Time and Watermarks</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/concepts/user-defined-functions.html" target="_blank" rel="noopener noreferrer">User-defined Functions</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/how-to-guides/index.html" target="_blank" rel="noopener noreferrer">How-To Guides</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/flink/how-to-guides/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/how-to-guides/aggregate-tumbling-window.html" target="_blank" rel="noopener noreferrer">Aggregate a Stream in a Tumbling Window</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/how-to-guides/combine-and-track-most-recent-records.html" target="_blank" rel="noopener noreferrer">Combine Streams and Track Most Recent Records</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/how-to-guides/compare-current-and-previous-values.html" target="_blank" rel="noopener noreferrer">Compare Current and Previous Values in a Stream</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/how-to-guides/convert-serialization-format.html" target="_blank" rel="noopener noreferrer">Convert the Serialization Format of a Topic</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/how-to-guides/create-udf.html" target="_blank" rel="noopener noreferrer">Create a UDF</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/how-to-guides/deduplicate-rows.html" target="_blank" rel="noopener noreferrer">Deduplicate Rows in a Table</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/how-to-guides/custom-sample-data.html" target="_blank" rel="noopener noreferrer">Generate Custom Sample Data</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/how-to-guides/multiple-event-types.html" target="_blank" rel="noopener noreferrer">Handle Multiple Event Types</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/how-to-guides/enable-udf-logging.html" target="_blank" rel="noopener noreferrer">Log Debug Messages in UDFs</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/how-to-guides/mask-fields.html" target="_blank" rel="noopener noreferrer">Mask Fields in a Table</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/how-to-guides/process-schemaless-events.html" target="_blank" rel="noopener noreferrer">Process Schemaless Events</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/how-to-guides/profile-query.html" target="_blank" rel="noopener noreferrer">Profile a Query</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/how-to-guides/resolve-common-query-problems.html" target="_blank" rel="noopener noreferrer">Resolve Statement Issues</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/how-to-guides/scan-and-summarize-tables.html" target="_blank" rel="noopener noreferrer">Scan and Summarize Tables</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/how-to-guides/run-snapshot-query.html" target="_blank" rel="noopener noreferrer">Run a Snapshot Query</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/how-to-guides/transform-topic.html" target="_blank" rel="noopener noreferrer">Transform a Topic</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/how-to-guides/view-time-series-data.html" target="_blank" rel="noopener noreferrer">View Time Series Data</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/operate-and-deploy/index.html" target="_blank" rel="noopener noreferrer">Operate and Deploy</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/flink/operate-and-deploy/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/operate-and-deploy/carry-over-offsets.html" target="_blank" rel="noopener noreferrer">Carry-over Offsets</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/operate-and-deploy/deploy-flink-sql-statement.html" target="_blank" rel="noopener noreferrer">Deploy a Statement with CI/CD</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/operate-and-deploy/private-networking.html" target="_blank" rel="noopener noreferrer">Enable Private Networking</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/operate-and-deploy/generate-api-key-for-flink.html" target="_blank" rel="noopener noreferrer">Generate a Flink API Key</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/operate-and-deploy/flink-rbac.html" target="_blank" rel="noopener noreferrer">Grant Role-Based Access</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/operate-and-deploy/create-compute-pool.html" target="_blank" rel="noopener noreferrer">Manage Compute Pools</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/operate-and-deploy/manage-connections.html" target="_blank" rel="noopener noreferrer">Manage Connections</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/operate-and-deploy/monitor-statements.html" target="_blank" rel="noopener noreferrer">Monitor and Manage Statements</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/operate-and-deploy/best-practices.html" target="_blank" rel="noopener noreferrer">Move SQL Statements to Production</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/operate-and-deploy/query-profiler.html" target="_blank" rel="noopener noreferrer">Profile Queries</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/operate-and-deploy/flink-rest-api.html" target="_blank" rel="noopener noreferrer">REST API</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/index.html" target="_blank" rel="noopener noreferrer">Flink Reference</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/sql-syntax.html" target="_blank" rel="noopener noreferrer">SQL Syntax</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/index.html" target="_blank" rel="noopener noreferrer">DDL Statements</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/overview.html" target="_blank" rel="noopener noreferrer">Statements Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/alter-agent.html" target="_blank" rel="noopener noreferrer">ALTER AGENT</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/alter-connection.html" target="_blank" rel="noopener noreferrer">ALTER CONNECTION</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/alter-model.html" target="_blank" rel="noopener noreferrer">ALTER MODEL</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/alter-table.html" target="_blank" rel="noopener noreferrer">ALTER TABLE</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/alter-tool.html" target="_blank" rel="noopener noreferrer">ALTER TOOL</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/alter-view.html" target="_blank" rel="noopener noreferrer">ALTER VIEW</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/create-agent.html" target="_blank" rel="noopener noreferrer">CREATE AGENT</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/create-connection.html" target="_blank" rel="noopener noreferrer">CREATE CONNECTION</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/create-function.html" target="_blank" rel="noopener noreferrer">CREATE FUNCTION</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/create-model.html" target="_blank" rel="noopener noreferrer">CREATE MODEL</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/create-table.html" target="_blank" rel="noopener noreferrer">CREATE TABLE</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/create-tool.html" target="_blank" rel="noopener noreferrer">CREATE TOOL</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/create-view.html" target="_blank" rel="noopener noreferrer">CREATE VIEW</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/describe.html" target="_blank" rel="noopener noreferrer">DESCRIBE</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/drop-agent.html" target="_blank" rel="noopener noreferrer">DROP AGENT</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/drop-connection.html" target="_blank" rel="noopener noreferrer">DROP CONNECTION</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/drop-model.html" target="_blank" rel="noopener noreferrer">DROP MODEL</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/drop-table.html" target="_blank" rel="noopener noreferrer">DROP TABLE</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/drop-tool.html" target="_blank" rel="noopener noreferrer">DROP TOOL</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/drop-view.html" target="_blank" rel="noopener noreferrer">DROP VIEW</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/hints.html" target="_blank" rel="noopener noreferrer">HINTS</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/explain.html" target="_blank" rel="noopener noreferrer">EXPLAIN</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/reset.html" target="_blank" rel="noopener noreferrer">RESET</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/set.html" target="_blank" rel="noopener noreferrer">SET</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/show.html" target="_blank" rel="noopener noreferrer">SHOW</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/use-catalog.html" target="_blank" rel="noopener noreferrer">USE CATALOG</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/statements/use-database.html" target="_blank" rel="noopener noreferrer">USE database_name</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/queries/index.html" target="_blank" rel="noopener noreferrer">DML Statements</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/queries/overview.html" target="_blank" rel="noopener noreferrer">Queries Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/queries/deduplication.html" target="_blank" rel="noopener noreferrer">Deduplication</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/queries/group-aggregation.html" target="_blank" rel="noopener noreferrer">Group Aggregation</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/queries/insert-into-from-select.html" target="_blank" rel="noopener noreferrer">INSERT INTO FROM SELECT</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/queries/insert-values.html" target="_blank" rel="noopener noreferrer">INSERT VALUES</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/queries/joins.html" target="_blank" rel="noopener noreferrer">Joins</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/queries/limit.html" target="_blank" rel="noopener noreferrer">LIMIT</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/queries/match_recognize.html" target="_blank" rel="noopener noreferrer">Pattern Recognition</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/queries/orderby.html" target="_blank" rel="noopener noreferrer">ORDER BY</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/queries/over-aggregation.html" target="_blank" rel="noopener noreferrer">OVER Aggregation</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/queries/select.html" target="_blank" rel="noopener noreferrer">SELECT</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/queries/set-logic.html" target="_blank" rel="noopener noreferrer">Set Logic</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/queries/statement-set.html" target="_blank" rel="noopener noreferrer">EXECUTE STATEMENT SET</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/queries/topn.html" target="_blank" rel="noopener noreferrer">Top-N</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/queries/window-aggregation.html" target="_blank" rel="noopener noreferrer">Window Aggregation</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/queries/window-deduplication.html" target="_blank" rel="noopener noreferrer">Window Deduplication</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/queries/window-join.html" target="_blank" rel="noopener noreferrer">Window Join</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/queries/window-topn.html" target="_blank" rel="noopener noreferrer">Window Top-N</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/queries/window-tvf.html" target="_blank" rel="noopener noreferrer">Window Table-Valued Function</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/queries/with.html" target="_blank" rel="noopener noreferrer">WITH</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/functions/index.html" target="_blank" rel="noopener noreferrer">Functions</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/functions/model-inference-functions.html" target="_blank" rel="noopener noreferrer">AI Model Inference</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/functions/aggregate-functions.html" target="_blank" rel="noopener noreferrer">Aggregate</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/functions/collection-functions.html" target="_blank" rel="noopener noreferrer">Collections</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/functions/comparison-functions.html" target="_blank" rel="noopener noreferrer">Comparison</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/functions/conditional-functions.html" target="_blank" rel="noopener noreferrer">Conditional</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/functions/datetime-functions.html" target="_blank" rel="noopener noreferrer">Datetime</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/functions/overview.html" target="_blank" rel="noopener noreferrer">Flink SQL Functions</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/functions/hash-functions.html" target="_blank" rel="noopener noreferrer">Hashing</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/functions/json-functions.html" target="_blank" rel="noopener noreferrer">JSON</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/functions/ml-preprocessing-functions.html" target="_blank" rel="noopener noreferrer">ML Preprocessing</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/functions/numeric-functions.html" target="_blank" rel="noopener noreferrer">Numeric</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/functions/string-functions.html" target="_blank" rel="noopener noreferrer">String</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/functions/table-api-functions.html" target="_blank" rel="noopener noreferrer">Table API</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/datatypes.html" target="_blank" rel="noopener noreferrer">Data Types</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/serialization.html" target="_blank" rel="noopener noreferrer">Data Type Mappings</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/timezone.html" target="_blank" rel="noopener noreferrer">Time Zone</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/keywords.html" target="_blank" rel="noopener noreferrer">Keywords</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/flink-sql-information-schema.html" target="_blank" rel="noopener noreferrer">Information Schema</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/example-data.html" target="_blank" rel="noopener noreferrer">Example Streams</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/cloud-regions.html" target="_blank" rel="noopener noreferrer">Supported Cloud Regions</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/sql-examples.html" target="_blank" rel="noopener noreferrer">SQL Examples</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/table-api.html" target="_blank" rel="noopener noreferrer">Table API</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/reference/flink-sql-cli.html" target="_blank" rel="noopener noreferrer">CLI Reference</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/get-help.html" target="_blank" rel="noopener noreferrer">Get Help</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/flink-faq.html" target="_blank" rel="noopener noreferrer">FAQ</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/index.html" target="_blank" rel="noopener noreferrer">Manage Networking</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/networking/overview.html" target="_blank" rel="noopener noreferrer">Confluent Cloud Networking Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/aws-index.html" target="_blank" rel="noopener noreferrer">Networking on AWS</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/networking/aws-overview.html" target="_blank" rel="noopener noreferrer">AWS Networking Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/aws-public.html" target="_blank" rel="noopener noreferrer">Public Networking on AWS</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/ccloud-network/aws.html" target="_blank" rel="noopener noreferrer">Confluent Cloud Network on AWS</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/aws-privatelink-index.html" target="_blank" rel="noopener noreferrer">PrivateLink on AWS</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/networking/aws-privatelink-overview.html" target="_blank" rel="noopener noreferrer">PrivateLink Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/private-links/aws-privatelink.html" target="_blank" rel="noopener noreferrer">Inbound PrivateLink for Dedicated Clusters</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/aws-platt.html" target="_blank" rel="noopener noreferrer">Inbound PrivateLink for Serverless Products</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/aws-egress-privatelink.html" target="_blank" rel="noopener noreferrer">Outbound PrivateLink for Dedicated Clusters</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/aws-egress-privatelink-esku.html" target="_blank" rel="noopener noreferrer">Outbound PrivateLink for Serverless Products</a>
+<ul>
+<li>Confluent Cloud, available through the AWS Marketplace or directly from Confluent, supports outbound AWS PrivateLink connections using <strong>Egress PrivateLink Endpoints</strong>. Egress PrivateLink Endpoints are AWS interface VPC Endpoints, and they enable Confluent Cloud Enterprise clusters to access supported AWS services and other endpoint services powered by AWS PrivateLink. Examples of the services are AWS S3, a SaaS service, or a PrivateLink service that you create yourself.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/peering/aws-peering.html" target="_blank" rel="noopener noreferrer">VPC Peering on AWS</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/aws-transit-gateway.html" target="_blank" rel="noopener noreferrer">Transit Gateway on AWS</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/aws-pni.html" target="_blank" rel="noopener noreferrer">Private Network Interface on AWS</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/azure-index.html" target="_blank" rel="noopener noreferrer">Networking on Azure</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/networking/azure-overview.html" target="_blank" rel="noopener noreferrer">Azure Networking Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/azure-public.html" target="_blank" rel="noopener noreferrer">Public Networking on Azure</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/ccloud-network/azure.html" target="_blank" rel="noopener noreferrer">Confluent Cloud Network on Azure</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/azure-privatelink-index.html" target="_blank" rel="noopener noreferrer">Private Link on Azure</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/networking/azure-privatelink-overview.html" target="_blank" rel="noopener noreferrer">Private Link Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/private-links/azure-privatelink.html" target="_blank" rel="noopener noreferrer">Inbound Private Link for Dedicated Clusters</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/azure-platt.html" target="_blank" rel="noopener noreferrer">Inbound Private Link for Serverless Products</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/azure-egress-privatelink.html" target="_blank" rel="noopener noreferrer">Outbound Private Link for Dedicated Clusters</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/azure-egress-privatelink-esku.html" target="_blank" rel="noopener noreferrer">Outbound Private Link for Serverless Products</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/peering/azure-peering.html" target="_blank" rel="noopener noreferrer">VNet Peering on Azure</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/gcp-index.html" target="_blank" rel="noopener noreferrer">Networking on Google Cloud</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/networking/gcp-overview.html" target="_blank" rel="noopener noreferrer">Google Cloud Networking Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/gcp-public.html" target="_blank" rel="noopener noreferrer">Public Networking on Google Cloud</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/ccloud-network/google-cloud.html" target="_blank" rel="noopener noreferrer">Confluent Cloud Network on Google Cloud</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/gcp-psc-index.html" target="_blank" rel="noopener noreferrer">Private Service Connect on Google Cloud</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/networking/gcp-psc-overview.html" target="_blank" rel="noopener noreferrer">Private Service Connect Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/private-links/gcp-private-service-connect.html" target="_blank" rel="noopener noreferrer">Inbound Private Service Connect for Dedicated Clusters</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/gcp-platt.html" target="_blank" rel="noopener noreferrer">Inbound Private Service Connect for Serverless Products</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/gcp-egress-psc.html" target="_blank" rel="noopener noreferrer">Outbound Private Service Connect for Dedicated Clusters</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/peering/gcp-peering.html" target="_blank" rel="noopener noreferrer">VPC Peering on Google Cloud</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/resource-index.html" target="_blank" rel="noopener noreferrer">Connectivity for Confluent Resources</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/networking/resource-overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/static-egress-ip-addresses.html" target="_blank" rel="noopener noreferrer">Public Egress IP Address for Connectors and Cluster Linking</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/network-linking.html" target="_blank" rel="noopener noreferrer">Cluster Linking using AWS PrivateLink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/fetch-from-follower.html" target="_blank" rel="noopener noreferrer">Follower Fetching using AWS VPC Peering</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/ccloud-console-access.html" target="_blank" rel="noopener noreferrer">Use the Confluent Cloud Console with Private Networking</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/testing.html" target="_blank" rel="noopener noreferrer">Test Connectivity</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/networking/networking-faq.html" target="_blank" rel="noopener noreferrer">Networking FAQ</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/index.html" target="_blank" rel="noopener noreferrer">Log and Monitor</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/metrics-api.html" target="_blank" rel="noopener noreferrer">Metrics</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/third-party-integration.html" target="_blank" rel="noopener noreferrer">Metrics Integrations</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/configure-notifications.html" target="_blank" rel="noopener noreferrer">Manage Notifications</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/monitor-lag.html" target="_blank" rel="noopener noreferrer">Monitor Consumer Lag</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/index-dedicated-cluster-monitor.html" target="_blank" rel="noopener noreferrer">Monitor Dedicated Clusters</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/cluster-load-metric.html" target="_blank" rel="noopener noreferrer">Monitor Cluster Load</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/monitor-performance.html" target="_blank" rel="noopener noreferrer">Manage Performance and Expansion</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/metrics-by-principal.html" target="_blank" rel="noopener noreferrer">Track Usage by Team</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/ccloud-observability.html" target="_blank" rel="noopener noreferrer">Observability for Kafka Clients to Confluent Cloud</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/monitor-faq.html" target="_blank" rel="noopener noreferrer">FAQ</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/security/index.html" target="_blank" rel="noopener noreferrer">Manage Security</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/security/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/index.html" target="_blank" rel="noopener noreferrer">Manage Authentication</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/user-identities/index.html" target="_blank" rel="noopener noreferrer">Manage User Identities</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/user-identities/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/user-identities/user-accounts/index.html" target="_blank" rel="noopener noreferrer">Manage User Accounts</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/user-identities/user-accounts/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/user-identities/user-accounts/authentication-protections.html" target="_blank" rel="noopener noreferrer">Authentication Security Protections</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/user-identities/user-accounts/manage-local-user-accounts.html" target="_blank" rel="noopener noreferrer">Manage Local User Accounts</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/user-identities/user-accounts/multi-factor-auth.html" target="_blank" rel="noopener noreferrer">Multi-factor Authentication</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/user-identities/user-accounts/manage-sso-user-accounts.html" target="_blank" rel="noopener noreferrer">Manage SSO User Accounts</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/user-identities/user-idps/index.html" target="_blank" rel="noopener noreferrer">Manage User Identity Providers</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/user-identities/user-idps/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/user-identities/user-idps/sso/overview.html" target="_blank" rel="noopener noreferrer">Use Single Sign-On (SSO)</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/user-identities/user-idps/sso/enable-sso.html" target="_blank" rel="noopener noreferrer">Manage SAML Single Sign-On (SSO)</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/user-identities/user-idps/sso/az-oidc-sso.html" target="_blank" rel="noopener noreferrer">Manage Azure Marketplace SSO</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/user-identities/user-idps/sso/jit-user-provisioning.html" target="_blank" rel="noopener noreferrer">Just-in-time User Provisioning</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/user-identities/user-idps/sso/group-mapping/index.html" target="_blank" rel="noopener noreferrer">Group Mapping</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/user-identities/user-idps/sso/group-mapping/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/user-identities/user-idps/sso/group-mapping/enable-group-mapping.html" target="_blank" rel="noopener noreferrer">Enable Group Mapping</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/user-identities/user-idps/sso/group-mapping/manage-group-mappings.html" target="_blank" rel="noopener noreferrer">Manage Group Mappings</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/user-identities/user-idps/sso/group-mapping/troubleshoot.html" target="_blank" rel="noopener noreferrer">Troubleshooting</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/user-identities/user-idps/sso/group-mapping/best-practices.html" target="_blank" rel="noopener noreferrer">Best Practices</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/user-identities/user-idps/sso/trusted-domains.html" target="_blank" rel="noopener noreferrer">Manage Trusted Domains</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/user-identities/user-idps/sso/manage-sso-provider.html" target="_blank" rel="noopener noreferrer">Manage SSO provider</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/user-identities/user-idps/sso/troubleshoot.html" target="_blank" rel="noopener noreferrer">Troubleshoot SSO</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/index.html" target="_blank" rel="noopener noreferrer">Manage Workload Identities</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/manage-workload-identities.html" target="_blank" rel="noopener noreferrer">Manage Workload Identities</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/service-accounts/index.html" target="_blank" rel="noopener noreferrer">Manage Service Accounts and API Keys</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/service-accounts/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/service-accounts/create-service-accounts.html" target="_blank" rel="noopener noreferrer">Create Service Accounts</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/service-accounts/manage-service-accounts.html" target="_blank" rel="noopener noreferrer">Manage Service Accounts</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/service-accounts/api-keys/index.html" target="_blank" rel="noopener noreferrer">Manage API Keys</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/service-accounts/api-keys/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/service-accounts/api-keys/manage-api-keys.html" target="_blank" rel="noopener noreferrer">Manage API keys</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/service-accounts/api-keys/best-practices-api-keys.html" target="_blank" rel="noopener noreferrer">Best Practices</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/service-accounts/api-keys/troubleshoot.html" target="_blank" rel="noopener noreferrer">Troubleshoot</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/index.html" target="_blank" rel="noopener noreferrer">Manage OAuth/OIDC Identity Providers</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/identity-providers.html" target="_blank" rel="noopener noreferrer">Add an OIDC Identity Provider</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/identity-pools.html" target="_blank" rel="noopener noreferrer">Use OAuth Identity Pools and Filters</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/manage-oauth-configs.html" target="_blank" rel="noopener noreferrer">Manage Identity Provider Configurations</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/jwks-manual-refresh.html" target="_blank" rel="noopener noreferrer">Manage the JWKS URI</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/clients/index.html" target="_blank" rel="noopener noreferrer">Configure OAuth Clients</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/clients/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/clients/go-clients.html" target="_blank" rel="noopener noreferrer">Go Clients</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/clients/java-clients.html" target="_blank" rel="noopener noreferrer">Java Clients</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/clients/javascript-clients.html" target="_blank" rel="noopener noreferrer">JavaScript Clients</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/clients/dotnet-clients.html" target="_blank" rel="noopener noreferrer">.NET Clients</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/clients/python-clients.html" target="_blank" rel="noopener noreferrer">Python Clients</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/clients/configuration-reference.html" target="_blank" rel="noopener noreferrer">Configuration Reference</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/clients/uami.html" target="_blank" rel="noopener noreferrer">Configure UAMI</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/access-rest-apis.html" target="_blank" rel="noopener noreferrer">Access Kafka REST APIs</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/access-rest-apis-sts.html" target="_blank" rel="noopener noreferrer">Use Confluent STS Tokens with REST APIs</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/best-practices.html" target="_blank" rel="noopener noreferrer">Best Practices</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/oauth/troubleshooting.html" target="_blank" rel="noopener noreferrer">Troubleshoot OAuth Issues</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/mtls/index.html" target="_blank" rel="noopener noreferrer">Manage mTLS Identity Providers</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/mtls/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/mtls/configure.html" target="_blank" rel="noopener noreferrer">Configure mTLS</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/mtls/certificate-authority.html" target="_blank" rel="noopener noreferrer">Manage Certificate Authorities</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/mtls/identity-pool.html" target="_blank" rel="noopener noreferrer">Manage Certificate Identity Pools</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/mtls/cel-filters.html" target="_blank" rel="noopener noreferrer">Create CEL Filters for mTLS</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/mtls/json-payloads.html" target="_blank" rel="noopener noreferrer">Create JSON payloads for mTLS</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/mtls/certificate-revocation.html" target="_blank" rel="noopener noreferrer">Manage Certificate Revocation</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/identity-providers/mtls/troubleshoot.html" target="_blank" rel="noopener noreferrer">Troubleshoot mTLS Issues</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/security/access-control/index.html" target="_blank" rel="noopener noreferrer">Control Access</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/security/access-control/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/access-control/hierarchy/index.html" target="_blank" rel="noopener noreferrer">Resource Hierarchy</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/security/access-control/hierarchy/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/access-control/hierarchy/organizations/index.html" target="_blank" rel="noopener noreferrer">Organizations</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/security/access-control/hierarchy/organizations/cloud-organization.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/access-control/hierarchy/organizations/multiple-organizations.html" target="_blank" rel="noopener noreferrer">Manage Multiple Organizations</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/security/access-control/hierarchy/cloud-environments.html" target="_blank" rel="noopener noreferrer">Environments</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/access-control/hierarchy/confluent-resource-names.html" target="_blank" rel="noopener noreferrer">Confluent Resource Names (CRNs)</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/security/access-control/rbac/index.html" target="_blank" rel="noopener noreferrer">Manage Role-Based Access Control</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/security/access-control/rbac/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/access-control/rbac/predefined-rbac-roles.html" target="_blank" rel="noopener noreferrer">Predefined RBAC Roles</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/access-control/rbac/manage-role-bindings.html" target="_blank" rel="noopener noreferrer">Manage Role Bindings</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/access-control/rbac/use-acls-with-rbac.html" target="_blank" rel="noopener noreferrer">Use ACLs with RBAC</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/security/access-control/ip-filtering/index.html" target="_blank" rel="noopener noreferrer">Manage IP Filtering</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/security/access-control/ip-filtering/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/access-control/ip-filtering/manage-ip-groups.html" target="_blank" rel="noopener noreferrer">Manage IP Groups</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/access-control/ip-filtering/manage-ip-filters.html" target="_blank" rel="noopener noreferrer">Manage IP Filters</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/access-control/ip-filtering/best-practices.html" target="_blank" rel="noopener noreferrer">Best Practices</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/security/access-control/acls/index.html" target="_blank" rel="noopener noreferrer">Manage Access Control Lists</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/security/access-control/acls/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/access-control/acls/operations.html" target="_blank" rel="noopener noreferrer">Operations</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/access-control/acls/examples.html" target="_blank" rel="noopener noreferrer">Examples</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/access-control/acls/troubleshooting.html" target="_blank" rel="noopener noreferrer">Troubleshoot</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/access-control/acls/reference.html" target="_blank" rel="noopener noreferrer">Reference</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/security/access-control/cli-multiple-credentials.html" target="_blank" rel="noopener noreferrer">Use the Confluent CLI with multiple credentials on Confluent Cloud</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/index.html" target="_blank" rel="noopener noreferrer">Encrypt and Protect Data</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/tls.html" target="_blank" rel="noopener noreferrer">Manage Data in Transit With TLS</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/byok/index.html" target="_blank" rel="noopener noreferrer">Encrypt Using Self-Managed Encryption Keys</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/byok/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/byok/byok-aws.html" target="_blank" rel="noopener noreferrer">Use Self-Managed Encryption Keys on AWS</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/byok/byok-azure.html" target="_blank" rel="noopener noreferrer">Use Self-Managed Encryption Keys on Azure</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/byok/byok-gcp.html" target="_blank" rel="noopener noreferrer">Use Self-Managed Encryption Keys on Google Cloud</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/byok/manage-key-policies.html" target="_blank" rel="noopener noreferrer">Manage Key Policies</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/byok/tableflow-byok.html" target="_blank" rel="noopener noreferrer">Use Self-Managed Encryption Keys with Tableflow</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/byok/legacy-byok.html" target="_blank" rel="noopener noreferrer">Use Pre-BYOK-API-V1 Self-Managed Encryption Keys</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/byok/use-confluent-cli.html" target="_blank" rel="noopener noreferrer">Use Confluent CLI for Self-Managed Encryption Keys</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/byok/byok-api.html" target="_blank" rel="noopener noreferrer">Use BYOK API for Self-Managed Encryption Keys</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/byok/revoke-access.html" target="_blank" rel="noopener noreferrer">Revoke Access to Data at Rest</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/byok/best-practices.html" target="_blank" rel="noopener noreferrer">Best Practices</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/byok/troubleshoot-key-policies.html" target="_blank" rel="noopener noreferrer">Troubleshoot Key Policy Issues</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/csfle/index.html" target="_blank" rel="noopener noreferrer">Encrypt Using Client-Side Field Level Encryption</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/csfle/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/csfle/manage-csfle.html" target="_blank" rel="noopener noreferrer">Manage CSFLE using Confluent Cloud Console</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/csfle/client-side.html" target="_blank" rel="noopener noreferrer">Use Client-side Field Level Encryption</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/csfle/config-parameters.html" target="_blank" rel="noopener noreferrer">Configuration Settings</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/csfle/manage-keys.html" target="_blank" rel="noopener noreferrer">Manage Encryption Keys</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/csfle/quick-start.html" target="_blank" rel="noopener noreferrer">Quick Start</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/csfle/custom-kms-driver.html" target="_blank" rel="noopener noreferrer">Implement a Custom KMS Driver</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/csfle/flink-integration.html" target="_blank" rel="noopener noreferrer">Process Encrypted Data with Apache Flink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/csfle/code-examples.html" target="_blank" rel="noopener noreferrer">Code examples</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/csfle/troubleshoot.html" target="_blank" rel="noopener noreferrer">Troubleshoot</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/csfle/faq.html" target="_blank" rel="noopener noreferrer">FAQ</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/security/encrypt/cspe.html" target="_blank" rel="noopener noreferrer">Encrypt Using Client-Side Payload Encryption</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/index.html" target="_blank" rel="noopener noreferrer">Monitor Activity</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/cloud-audit-log-concepts.html" target="_blank" rel="noopener noreferrer">Concepts</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/cloud-audit-log-categories.html" target="_blank" rel="noopener noreferrer">Audit Log Event Categories</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/audit-log-records.html" target="_blank" rel="noopener noreferrer">Understand Audit Log Records</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/audit-log-schema.html" target="_blank" rel="noopener noreferrer">Audit Log Event Schema</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/event-methods/index.html" target="_blank" rel="noopener noreferrer">Auditable Event Methods</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/event-methods/access-transparency.html" target="_blank" rel="noopener noreferrer">Access Transparency</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/event-methods/connector.html" target="_blank" rel="noopener noreferrer">Connector</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/event-methods/custom-connector-plugin.html" target="_blank" rel="noopener noreferrer">Custom Connector Plugin</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/event-methods/flink.html" target="_blank" rel="noopener noreferrer">Flink</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/event-methods/flink-authn-authz.html" target="_blank" rel="noopener noreferrer">Flink Authentication and Authorization</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/event-methods/ip-filter-authz.html" target="_blank" rel="noopener noreferrer">IP Filter Authorization</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/event-methods/authorization-authentication-events.html" target="_blank" rel="noopener noreferrer">Kafka Cluster Authentication and Authorization</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/event-methods/kafka-management.html" target="_blank" rel="noopener noreferrer">Kafka Cluster Management and Operations</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/event-methods/ksql-authn-authz.html" target="_blank" rel="noopener noreferrer">ksqlDB Cluster Authentication and Authorization</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/event-methods/networking.html" target="_blank" rel="noopener noreferrer">Networking</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/event-methods/notification-service.html" target="_blank" rel="noopener noreferrer">Notifications Service</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/event-methods/identity-provider.html" target="_blank" rel="noopener noreferrer">OAuth/OIDC Identity Provider and Identity Pool</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/event-methods/organization-events.html" target="_blank" rel="noopener noreferrer">Organization</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/event-methods/rbac.html" target="_blank" rel="noopener noreferrer">Role-based Access Control (RBAC)</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/event-methods/sr-authn-authz.html" target="_blank" rel="noopener noreferrer">Schema Registry Authentication and Authorization</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/event-methods/sr-management.html" target="_blank" rel="noopener noreferrer">Schema Registry Management and Operations</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/event-methods/tableflow-data-plane.html" target="_blank" rel="noopener noreferrer">Tableflow Data Plane</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/event-methods/tableflow-control-plane.html" target="_blank" rel="noopener noreferrer">Tableflow Control Plane</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/configure.html" target="_blank" rel="noopener noreferrer">Access and Consume Audit Log Records</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/access-transparency-overview.html" target="_blank" rel="noopener noreferrer">Access Transparency</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/retain-audit-logs.html" target="_blank" rel="noopener noreferrer">Retain Audit Logs</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/best-practices.html" target="_blank" rel="noopener noreferrer">Best Practices</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/monitoring/audit-logging/troubleshooting-cloud-audit-logs.html" target="_blank" rel="noopener noreferrer">Troubleshoot</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/security/examples/user-service-example.html" target="_blank" rel="noopener noreferrer">Access Management Tutorial</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/billing/index.html" target="_blank" rel="noopener noreferrer">Manage Billing</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/billing/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/billing/units.html" target="_blank" rel="noopener noreferrer">Marketplace Consumption Metrics</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/billing/ccloud-aws-payg.html" target="_blank" rel="noopener noreferrer">Use AWS Pay As You Go</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/billing/ccloud-aws-ubb.html" target="_blank" rel="noopener noreferrer">Use AWS Commits</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/billing/ccloud-azure-payg.html" target="_blank" rel="noopener noreferrer">Use Azure Pay As You Go</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/billing/ccloud-azure-ubb.html" target="_blank" rel="noopener noreferrer">Use Azure Commits</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/billing/ccloud-azure-jio-ubb.html" target="_blank" rel="noopener noreferrer">Use Jio Commits</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/billing/ccloud-azure-professional.html" target="_blank" rel="noopener noreferrer">Use Professional Services on Azure</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/billing/ccloud-gcp-payg.html" target="_blank" rel="noopener noreferrer">Use Google Cloud Pay As You Go</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/billing/ccloud-gcp-ubb.html" target="_blank" rel="noopener noreferrer">Use Google Cloud Commits</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/billing/ccloud-gcp-professional.html" target="_blank" rel="noopener noreferrer">Use Professional Services on Google Cloud</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/billing/ccloud-marketplace-org-suspension.html" target="_blank" rel="noopener noreferrer">Marketplace Organization Suspension and Deactivation</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/billing/billing-faq.html" target="_blank" rel="noopener noreferrer">FAQ</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/quotas/index.html" target="_blank" rel="noopener noreferrer">Manage Service Quotas</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/quotas/overview.html" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/quotas/service-quotas.html" target="_blank" rel="noopener noreferrer">Service Quotas</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/quotas/use-cli.html" target="_blank" rel="noopener noreferrer">View Service Quotas using Confluent CLI</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/quotas/quotas.html" target="_blank" rel="noopener noreferrer">Service Quotas API</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/api-overview.html" target="_blank" rel="noopener noreferrer">APIs</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/api.html" target="_blank" rel="noopener noreferrer">Confluent Cloud APIs</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/kafka-rest/kafka-rest-cc.html" target="_blank" rel="noopener noreferrer">Kafka Admin and Produce REST APIs</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/connectors/connect-api-section.html" target="_blank" rel="noopener noreferrer">Connect API</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/client-api.html" target="_blank" rel="noopener noreferrer">Client APIs</a>
+<ul>
+<li><a href="https://docs.confluent.io/platform/current/clients/api-docs/librdkafka.html" target="_blank" rel="noopener noreferrer">C++ Client API</a></li>
+<li><a href="https://docs.confluent.io/platform/current/clients/api-docs/confluent-kafka-python.html" target="_blank" rel="noopener noreferrer">Python Client API</a></li>
+<li><a href="https://docs.confluent.io/platform/current/clients/api-docs/confluent-kafka-go.html" target="_blank" rel="noopener noreferrer">Go Client API</a></li>
+<li><a href="https://docs.confluent.io/platform/current/clients/api-docs/confluent-kafka-dotnet.html" target="_blank" rel="noopener noreferrer">.NET Client API</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/pi-api.html" target="_blank" rel="noopener noreferrer">Provider Integration API</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/flink/operate-and-deploy/flink-rest-api.html" target="_blank" rel="noopener noreferrer">Flink REST API</a></li>
+<li><a href="https://api.telemetry.confluent.cloud/docs?session_ref=https%3A%2F%2Fdocs.confluent.io%2Fplatform%2Fcurrent%2Fmulti-dc-deployments%2Fmulti-region.html&amp;url_ref=https%3A%2F%2Fdocs.confluent.io%2Fcloud%2Fcurrent%2Foverview.html" target="_blank" rel="noopener noreferrer">Metrics API</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/stream-governance/stream-catalog-rest-apis.html" target="_blank" rel="noopener noreferrer">Stream Catalog REST API Usage</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/stream-governance/graphql.html" target="_blank" rel="noopener noreferrer">GraphQL API</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/quotas/quotas.html" target="_blank" rel="noopener noreferrer">Service Quotas API</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/confluent-cli/current/overview.html" target="_blank" rel="noopener noreferrer">Confluent CLI</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/release-notes/overview.html" target="_blank" rel="noopener noreferrer">Release Notes &amp; FAQ</a>
+<ul>
+<li><a href="https://docs.confluent.io/cloud/current/release-notes/index.html" target="_blank" rel="noopener noreferrer">Release Notes</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/faq.html" target="_blank" rel="noopener noreferrer">FAQ</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/release-notes/upgrade-policy.html" target="_blank" rel="noopener noreferrer">Upgrade Policy</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/release-notes/compliance.html" target="_blank" rel="noopener noreferrer">Compliance</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/release-notes/generate-har-file.html" target="_blank" rel="noopener noreferrer">Generate a HAR file for Troubleshooting</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/release-notes/cflt-assistant.html" target="_blank" rel="noopener noreferrer">Confluent AI Assistant</a></li>
+</ul>
+</li>
+<li><a href="https://docs.confluent.io/cloud/current/support.html" target="_blank" rel="noopener noreferrer">Support</a></li>
+<li><a href="https://docs.confluent.io/cloud/current/_glossary.html" target="_blank" rel="noopener noreferrer">Glossary</a></li>
+</ul></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="row margin-top--sm theme-doc-footer-edit-meta-row"><div class="col"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/technologies/confluent/cloud-documentation.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_JAkA"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2025-12-12T09:21:39.000Z" itemprop="dateModified">Dec 12, 2025</time></b> by <b>Deeapak Sood</b></span></div></div></footer></article><nav class="docusaurus-mt-lg pagination-nav" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/technologies/confluent/"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Confluent</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/technologies/confluent/commands"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Commands</div></a></nav></div></div></div></div></main></div></div></div><footer class="theme-layout-footer footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2025 Deep Notes, Built with ❤️</div></div></div></footer></div>
+</body>
+</html>
