@@ -4,9 +4,10 @@
 
 ![private-link-overview](https://images.ctfassets.net/gt6dp23g0g38/6R3ihFMjTVMOgMi6AylBTj/33395db5a482bc6290a6394cba0b6c0a/private-link-overview.jpg)
 
-Another option for private networking in Confluent Cloud is the use of Private Link. Private Link allows you to access your Confluent Cloud cluster through a private endpoint that exists in your virtual network.  
+Another option for private networking in Confluent Cloud is the use of Private Link. Private Link allows you to access your Confluent Cloud cluster through a private endpoint that exists in your virtual network.
 
 Here's what this looks like architecturally:
+
 - On the Confluent side of the Private Link, we continue to run multiple brokers for you; you don't have to worry about how many brokers are running.
 - You create a Private Link network that contains an endpoint service. You then create endpoints in your VPC or VNet and associate them with the endpoint service that establishes connectivity to the Kafka cluster; each endpoint is an IP address that lives in one of your subnets.
     - If you're using a single-zone Confluent cluster, you'll end up with one endpoint, in one subnet.
@@ -15,6 +16,7 @@ Here's what this looks like architecturally:
 This is a unidirectional connection between your network and the Confluent network—this means that clients running in your network can access Confluent Cloud, but nothing in Confluent Cloud can access your environment.
 
 Private Link is one of the most secure options from a cloud networking perspective, and it is also easier to set up from an IP address range perspective. It is a bit limiting though from an integration perspective:
+
 - Because Confluent can’t access your network, we can’t directly integrate with your data sources and sinks, and it requires some additional effort to set up the DNS infrastructure to support Private Link.
 - If you can meet the DNS requirements and don’t need fully managed connectors, it is a really good solution.
 

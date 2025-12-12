@@ -44,4 +44,5 @@
 
 ## Links
 
-- [Title Unavailable \| Site Unreachable](https://www.kdnuggets.com/building-a-simple-data-quality-dsl-in-python)
+- [Building a Simple Data Quality DSL in Python](https://www.kdnuggets.com/building-a-simple-data-quality-dsl-in-python)
+- [Timeseer](https://www.timeseer.ai/)

@@ -74,6 +74,23 @@ https://docs.aws.amazon.com/athena/latest/ug/avro.html
 
 Can't directly see files in S3, only csv, json and parquet supported in s3
 
+## Others
+
+An **AVSC file** contains an Avro schema definition written in a human-readable JSON format. This schema defines the structure of data that can be serialized into a compact binary format using Apache Avro.
+
+```json title="user_schema.avsc"
+{
+    "namespace": "example.avro",
+    "type": "record",
+    "name": "User",
+    "fields": [
+        {"name": "name", "type": "string"},
+        {"name": "favorite_number", "type": ["int", "null"]},
+        {"name": "favorite_color", "type": ["string", "null"]}
+    ]
+}
+```
+
 ## Tools
 
 https://github.com/sksamuel/avro4s

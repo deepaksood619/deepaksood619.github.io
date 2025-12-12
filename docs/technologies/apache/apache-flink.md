@@ -88,6 +88,16 @@ Apache Flink is a framework and distributed processing engine for stateful compu
 
 Streaming dataflow engine for Java
 
+## TaskManager Memory
+
+[Set up TaskManager Memory \| Apache Flink](https://nightlies.apache.org/flink/flink-docs-master/docs/deployment/memory/mem_setup_tm/)
+
+The TaskManager runs user code in Flink. Configuring memory usage for your needs can greatly reduce Flink’s resource footprint and improve Job stability.
+
+### Detailed Memory Model
+
+![Simple memory model](https://nightlies.apache.org/flink/flink-docs-master/fig/detailed-mem-model.svg)
+
 ## PyFlink
 
 PyFlink is a Python API for Apache Flink that allows you to build scalable batch and streaming workloads, such as real-time data processing pipelines, large-scale exploratory data analysis, Machine Learning (ML) pipelines and ETL processes. If you’re already familiar with Python and libraries such as Pandas, then PyFlink makes it simpler to leverage the full capabilities of the Flink ecosystem. Depending on the level of abstraction you need, there are two different APIs that can be used in PyFlink:
@@ -113,6 +123,30 @@ Managed Service for Apache Flink provides the underlying infrastructure for your
 [Stream Processing - Amazon Managed Service for Apache Flink - AWS](https://aws.amazon.com/managed-service-apache-flink/)
 
 [What is Amazon Managed Service for Apache Flink? - Managed Service for Apache Flink](https://docs.aws.amazon.com/managed-flink/latest/java/what-is.html)
+
+## Uber - IngestionNext
+
+![Uber IngestionNext - Architecture](../../media/Pasted%20image%2020251212002618.png)
+
+At the data plane, events **arrive in Apache Kafka® and are consumed by Flink jobs.** These jobs **write to the data lake in Apache Hudi™ format**, providing transactional commits, rollbacks, and time travel. Freshness and completeness are measured end-to-end, from source to sink.
+
+Managing ingestion at scale requires automation. We designed a control plane that handles the job life cycle (create, deploy, restart, stop, delete), configuration changes, and health verification. This enables operating ingestion across thousands of datasets consistently and safely.
+
+The system is also designed with regional failover and fallback strategies to maintain availability. In the event of outages, ingestion jobs can shift across regions or temporarily run in batch mode, ensuring continuity and no data loss.
+
+### Challenges
+
+- Small file generation
+	- Streaming ingestion often generates many small Apache Parquet™ files, which significantly degrade query performance and increase metadata and storage overhead. This is a common challenge when data arrives continuously and must be written in near real time.
+	- The traditional and most common merging method operates record by record, requiring each Parquet file to be decompressed, decoded from columnar to row format, merged, and then re-encoded and compressed again. While functional, this approach is computationally heavy and slow due to repetitive encode/decode transformations.
+- Partition skew
+	- Another problem we faced was that short-lived downstream slowdowns (like garbage collection pauses) can unbalance Kafka consumption across Flink subtasks. Skewed data leads to less efficient compression and slower queries.
+	- We addressed this through operational tuning (aligning parallelism with partitions, adjusting fetch parameters), connector-level fairness (round-robin polling, pause/resume for heavy partitions, per-partition quotas), and improved observability (per-partition lag metrics, skew-aware autoscaling, and targeted alerts).
+- Checkpoint and Commit Synchronization
+	- We also found that Flink checkpoints track consumed offsets, while Hudi commits track writes. If they become misaligned during a failure, data can be skipped or duplicated.
+	- To solve this problem, we extended Hudi commit metadata to embed Flink checkpoint IDs, enabling deterministic recovery during rollbacks or failovers.
+
+[From Batch to Streaming: Accelerating Data Freshness in Uber’s Data Lake \| Uber Blog](https://www.uber.com/en-IN/blog/from-batch-to-streaming-accelerating-data-freshness-in-ubers-data-lake/)
 
 ## Links
 

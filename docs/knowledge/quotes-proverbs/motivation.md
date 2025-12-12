@@ -124,6 +124,8 @@ BAD DAYS don't undo THE PROGRESS YOU'VE MADE. Remember, PROGRESS ISN'T JUST ABOU
 
 "Successful people aren’t doing what they love because they’re rich. They’re rich because they’ve learned to do what they love, and only what they love. Too many entrepreneurs get this backward." - Dan Martell
 
+That extra day you work, that extra hour you don't sleep, that extra effort you put in, the world keeps a score. And when you go the extra mile, it pays extra.
+
 ## Others
 
 ### Antifragile

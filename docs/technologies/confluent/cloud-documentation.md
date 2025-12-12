@@ -656,6 +656,7 @@
             - [Inbound PrivateLink for Serverless Products](https://docs.confluent.io/cloud/current/networking/aws-platt.html)
             - [Outbound PrivateLink for Dedicated Clusters](https://docs.confluent.io/cloud/current/networking/aws-egress-privatelink.html)
             - [Outbound PrivateLink for Serverless Products](https://docs.confluent.io/cloud/current/networking/aws-egress-privatelink-esku.html)
+	            - Confluent Cloud, available through the AWS Marketplace or directly from Confluent, supports outbound AWS PrivateLink connections using **Egress PrivateLink Endpoints**. Egress PrivateLink Endpoints are AWS interface VPC Endpoints, and they enable Confluent Cloud Enterprise clusters to access supported AWS services and other endpoint services powered by AWS PrivateLink. Examples of the services are AWS S3, a SaaS service, or a PrivateLink service that you create yourself.
         - [VPC Peering on AWS](https://docs.confluent.io/cloud/current/networking/peering/aws-peering.html)
         - [Transit Gateway on AWS](https://docs.confluent.io/cloud/current/networking/aws-transit-gateway.html)
         - [Private Network Interface on AWS](https://docs.confluent.io/cloud/current/networking/aws-pni.html)

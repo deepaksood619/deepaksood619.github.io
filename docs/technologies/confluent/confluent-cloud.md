@@ -60,3 +60,8 @@ The platform provides a full suite of identity controls, including:
 
 - Role-Based Access Control (RBAC): Granular permissions for users and service accounts to ensure that only authorized entities can perform specific actions on resources.
 - Auditing: Comprehensive audit logs track all user and application activity, which is essential for security monitoring and compliance.
+
+## Links
+
+- [Apache Kafka 101: Confluent's Flagship Course on Apache Kafka® Fundamentals ft. Tim Berglund - YouTube](https://www.youtube.com/playlist?list=PLf38f5LhQtheK16nwnCYFqH23WUUvZfSb)
+	- [What You'll Learn in This Apache Kafka® 101 Course](https://developer.confluent.io/courses/apache-kafka/events/)

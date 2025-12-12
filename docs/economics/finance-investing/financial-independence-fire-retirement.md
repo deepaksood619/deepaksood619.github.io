@@ -135,6 +135,12 @@ You can either be TIME rich or you can be MONEY rich. But, smart people are both
 	3. Invest your time: learning new skills, experimenting with ideas and networking with folks would go a long way in terms of helping you out.
 3. Smart folks: switch between using their money to buy time. And, using their time to build money.
 
+The point of making money is not so you can buy everything.
+
+- The point of making money is so that no one can buy you. Real wealth is not about flexing with material things, it is about freedom. It is about having the power to say no, to walk away, to live life on your terms without being controlled by someone else's paycheck or approval.
+- When you chase money for status, you stay a slave to it. But when you build money for freedom, it becomes a tool that works for you instead of the other way around. The goal is not to be owned by things but to own your time, your choices, and your future.
+- Money at its highest level is leverage. It gives you options, it gives you control, and it makes sure no one can dictate your value. Because when you are truly free, that is when you are truly wealthy.
+
 ## Others
 
 - DINK - Double Income No Kid

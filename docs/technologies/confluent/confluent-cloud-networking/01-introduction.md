@@ -121,7 +121,7 @@ Confluent Cloud supports the following networking solutions on the specified clo
     - [Public connectivity](https://docs.confluent.io/cloud/current/networking/overview.html#cloud-networking-support-public)
     - [Private connectivity](https://docs.confluent.io/cloud/current/networking/overview.html#cloud-networking-support-private): Private Link, VNet Peering
 - Google Cloud
-    - [Public connectivity](https://docs.confluent.io/cloud/current/networking/overview.html#cloud-networking-support-public)        
+    - [Public connectivity](https://docs.confluent.io/cloud/current/networking/overview.html#cloud-networking-support-public)
     - [Private connectivity](https://docs.confluent.io/cloud/current/networking/overview.html#cloud-networking-support-private): Private Service Connect, VPC Peering
 
 [Networking on Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/networking/overview.html)

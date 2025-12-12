@@ -137,6 +137,8 @@ Active - Quant Momentum Fund
 - Mid cap + large cap - kotak equity opportunities fund
 - Multi cap - no multicap
 - Momentum and value are complimentary
+- Mirae Asset S&P 500 TOP 50 ETF
+- Quant Infrastructure Fund Direct Growth
 
 ## Categories of actively managed equity mutual fund schemes
 

@@ -363,9 +363,9 @@ Connect cloud and on-premises infrastructure and services to provide your custom
 212. [Virtual WAN](https://azure.microsoft.com/en-in/services/virtual-wan/) - Optimise and automate branch to branch connectivity through Azure
 213. [Azure Front Door](https://azure.microsoft.com/en-in/services/frontdoor/) - Scalable, security-enhanced delivery point for global, microservice-based web applications
 214. [Azure Bastion](https://azure.microsoft.com/en-in/services/azure-bastion/) - Private and fully managed RDP and SSH access to your virtual machines
-215. [Azure Private LinkPREVIEW](https://azure.microsoft.com/en-in/services/private-link/) - Private access to services hosted on the Azure platform, keeping your data on the Microsoft network
-216. [Azure Internet AnalyzerPREVIEW](https://azure.microsoft.com/en-in/services/internet-analyzer/) - Test how networking infrastructure changes will impact your customers' performance.
-217. [Azure Firewall ManagerPREVIEW](https://azure.microsoft.com/en-in/services/firewall-manager/) - Central network security policy and route management for globally distributed, software-defined perimeters
+215. [Azure Private Link PREVIEW](https://azure.microsoft.com/en-in/services/private-link/) - Private access to services hosted on the Azure platform, keeping your data on the Microsoft network
+216. [Azure Internet Analyzer PREVIEW](https://azure.microsoft.com/en-in/services/internet-analyzer/) - Test how networking infrastructure changes will impact your customers' performance.
+217. [Azure Firewall Manager PREVIEW](https://azure.microsoft.com/en-in/services/firewall-manager/) - Central network security policy and route management for globally distributed, software-defined perimeters
 218. [Web Application Firewall](https://azure.microsoft.com/en-in/services/web-application-firewall/) - A cloud-native web application firewall (WAF) service that provides powerful protection for web apps
 
 ## Security (10)

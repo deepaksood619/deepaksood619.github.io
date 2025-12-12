@@ -179,6 +179,14 @@ This fast turnaround is particularly valuable in call quality monitoring, where 
 - [Voicemaker® - Text to Speech Converter](https://voicemaker.in/)
 - [Bring Agents and Creative to Life with our AI Voice Generator](https://elevenlabs.io/)
 
+## Voice ChatBot / Voice AI
+
+- [GitHub - KoljaB/RealtimeVoiceChat: Have a natural, spoken conversation with AI!](https://github.com/KoljaB/RealtimeVoiceChat)
+- [GitHub - bigsk1/voice-chat-ai: 🎙️ Speak with AI - Run locally using Ollama, OpenAI, Anthropic or xAI - Speech uses SparkTTS, OpenAI, ElevenLabs or Kokoro](https://github.com/bigsk1/voice-chat-ai)
+- [GitHub - kaymen99/AI-Voice-assistant: AI Voice Assistant: Talk to an AI agent that helps you with event scheduling, contact management, accessing your knowledge base, and web searches using simple voice commands](https://github.com/kaymen99/AI-Voice-assistant)
+- [GitHub - alinaqi/AIVoiceBot: Complete AI Based Voice Bot service for both inbound and outbound calls.](https://github.com/alinaqi/AIVoiceBot)
+- [GitHub - iamaziz/llm-voice-bot: Speak (speech-to-text) to LLMs (Ollama) in any lanaguage - Streamlit app https://deepwiki.com/iamaziz/llm-voice-bot](https://github.com/iamaziz/llm-voice-bot)
+
 ### [GitHub - freddyaboulton/fastrtc: The python library for real-time communication](https://github.com/freddyaboulton/fastrtc)
 
 Turn any python function into a real-time audio and video stream over WebRTC or WebSockets.

@@ -30,17 +30,17 @@
 
 ## Human Generations
 
-| Generations                              | Born        | Current Ages (as of 2024) |
-| :--------------------------------------- | :---------- | :------------------------ |
-| **Gen Beta**                             | 2025-2039   | 0                         |
-| **Gen Alpha Workers**                    | 2010-2024   | 14-0                      |
-| **Gen Z \| GenZ**                        | 1997 - 2012 | 12 - 27                   |
-| **Millennials**                          | 1981 - 1996 | 28 - 43                   |
-| **Gen X**                                | 1965 - 1980 | 44 - 59                   |
-| **Boomers II (a/k/a Generation Jones)*** | 1955 - 1964 | 60 - 69                   |
-| **Boomers I***                           | 1946 - 1954 | 70 - 78                   |
-| **Post War**                             | 1928 - 1945 | 79 - 96                   |
-| **WWII**                                 | 1922 - 1927 | 97 - 102                  |
+| Generations                            | Born        | Current Age - 2024 | 2030    |
+| :------------------------------------- | :---------- | :----------------- | ------- |
+| **Gen Beta**                           | 2025-2039   | 0                  | 0-5     |
+| **Gen Alpha Workers**                  | 2010-2024   | 0-14               | 6-20    |
+| **Gen Z \| GenZ**                      | 1997 - 2012 | 12 - 27            | 18-33   |
+| **Millennials**                        | 1981 - 1996 | 28 - 43            | 34-49   |
+| **Gen X**                              | 1965 - 1980 | 44 - 59            | 50-65   |
+| **Boomers II (aka Generation Jones)*** | 1955 - 1964 | 60 - 69            | 66-75   |
+| **Boomers I***                         | 1946 - 1954 | 70 - 78            | 76-84   |
+| **Post War** (Mostly Dead)             | 1928 - 1945 | 79 - 96            | 85-102  |
+| **WWII** (Mostly Dead)                 | 1922 - 1927 | 97 - 102           | 103-108 |
 
 [Age Range by Generation - Beresford Research](https://www.beresfordresearch.com/age-range-by-generation/)
 

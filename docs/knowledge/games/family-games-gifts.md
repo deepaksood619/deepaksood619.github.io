@@ -82,6 +82,10 @@ https://establishedtitles.com/products/lordship-title-pack-new
 
 - [Watercolor Painting for Beginners / Autumn Lake Scenery / Step by Step Tutorial - YouTube](https://www.youtube.com/watch?v=g98BpO7prdU)
 
+### Others
+
+- Ant Farm - **Formicarium** - A formicarium or ant farm is a vivarium which is designed primarily for the study of ant colonies and how ants behave.
+
 ## Links
 
 - [couple-activities](knowledge/games/couple-activities.md)
