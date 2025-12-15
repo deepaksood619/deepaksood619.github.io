@@ -34,6 +34,7 @@ Stream processing frameworks are purpose-built to manage state, ordering, and fa
 - [06-sliding-window-analytics](technologies/apache-spark/06-sliding-window-analytics.md)
 - [Stream Processing \| Apache Kafka 101 (2025 Edition) - YouTube](https://www.youtube.com/watch?v=vF5y17Pypds)
 - [**Apache Flink 101 - YouTube**](https://www.youtube.com/playlist?list=PLa7VYi0yPIH1UdmQcnUr8lvjbUV8JriK0)
+- [Glossary \| Apache Flink](https://nightlies.apache.org/flink/flink-docs-stable/docs/concepts/glossary/)
 - [Getting Started \| Apache Flink](https://nightlies.apache.org/flink/flink-docs-master/docs/dev/table/sql/gettingstarted/)
 - [Apache Flink® SQL](https://developer.confluent.io/courses/flink-sql/overview/)
 - [Apache Flink® SQL - YouTube](https://www.youtube.com/playlist?list=PLf38f5LhQthefDFLQwHXdLmFsrZWUQWbw)
