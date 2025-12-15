@@ -30,6 +30,14 @@ Also, the dividend income earned on foreign investments is taxed at the pre-defi
 
 [Understanding taxation on US stocks in India: A guide for investors](https://www.winvesta.in/blog/understanding-taxation-on-us-stocks-in-india-a-guide-for-investors)
 
+| **Nature of the Income**       | **Taxation in US** | **US Tax Rate** | **Taxation in India** | **Tenure** | **India Tax Rate**                                                              |
+| ------------------------------ | ------------------ | --------------- | --------------------- | ---------- | ------------------------------------------------------------------------------- |
+| Dividends                      | Yes                | 25% withholding | Yes                   | N/A        | Applicable as per the slab rate; Can take credit for the tax withheld in the US |
+| Long-term Capital Gains (LTCG) | No                 | –               | Yes                   | `>24` months | 12.5%                                                                           |
+| Short-term Capital Gains       | No                 | –               | Yes                   | `<24` months | Applicable as per the slab rate                                                 |
+
+[𝐓𝐚𝐱𝐞𝐬 𝐨𝐧 𝐔𝐒 𝐒𝐭𝐨𝐜𝐤𝐬 for Indian Investors](https://vestedfinance.com/in/blog/how-taxes-will-work-for-investors-in-india-when-investing-in-the-us/)
+
 #### Recent changes in tax regulations
 
 Budget 2024 brought significant changes to benefit investors like you:
@@ -53,11 +61,25 @@ Budget 2024 brought significant changes to benefit investors like you:
 
 Basically the only issue will come with dividends (this is missed in 26AS and needs to be declared to avoid discrepancy), and while declaring we give a tax for ~31.2% in the portal afaik. However the US laws state that 25% to be deducted for indians earning dividends in US firms. So form 67 needs to be filled in for taking back the extra 25% we paid for the dividends.
 
+#### Selling of Company Stocks (ESSPs)
+
+- [TAX in India on sale of NYSE listed ESPP stocks. : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/1c6en8c/tax_in_india_on_sale_of_nyse_listed_espp_stocks/)
+	- keep in morgan stanley at work microsoft stock awards after selling
+	- Morgan Stanley StockPlan Connect - atwork.morganstanley
+- Transfer to IBKR
+	- [US RSU (Morgan Stanley StockPlan) transfer to IBKR SG? : r/singaporefi](https://www.reddit.com/r/singaporefi/comments/176roxz/us_rsu_morgan_stanley_stockplan_transfer_to_ibkr/)
+- [How to Diversify Foreign ESOP & RSU Holdings Through Vested Platform](https://vestedfinance.com/blog/us-stocks/diversify-your-foreign-esop-rsu-holdings-with-vested/)
+	- While transferring from the broker to the Vested account, would it be considered a sale? In my scenario, I want to transfer my vested stocks to Vested, so transfer of a stock in stock form only to Vested would not incur any capital gains tax. Is this understanding correct?
+		- That’s correct, this scenario would not trigger capital gains tax since there is no share being sold.
+- You can sell your Microsoft shares in your Morgan Stanley account and use the proceeds to buy other stocks. As an Indian resident, the Reserve Bank of India (RBI) allows you to reinvest the funds from the sale of foreign company shares (received via ESOPs/RSUs) into other listed foreign stocks, provided this reinvestment occurs within 180 days of the sale.
+- **Transfer to an external broker:** You can transfer the cash proceeds (in USD, assuming the shares are U.S.-listed) to an external brokerage account that offers a wider range of investment options and potentially more favorable fees for US market access, such as Vested or Interactive Brokers. This avoids the need to bring the funds back to India first, which saves on foreign exchange fees and Tax Collection at Source (TCS) on the initial transfer from India.
+- [How to Diversify Foreign ESOP & RSU Holdings Through Vested Platform](https://vestedfinance.com/blog/us-stocks/diversify-your-foreign-esop-rsu-holdings-with-vested/)
+
 ### US Estate Tax
 
 Tax on the transfer of assets after someone dies
 
-The threshold above which the 40% tax is triggered depends on the residency status: US citizens and green card holders: The threshold is $13.99 million in 2025. Non-resident Aliens (NRAs) including H1B: The threshold is $60,000 in 2025.
+The threshold above which the 40% tax is triggered depends on the residency status: US citizens and green card holders: The threshold is `$13.99` million in 2025. Non-resident Aliens (NRAs) including H1B: The threshold is `$60,000` in 2025.
 
 [U.S Estate Tax applies to Indians too \| Can eat 40% of your savings \| Tips to avoid it - YouTube](https://www.youtube.com/watch?v=ZJswiL33lDo)
 
@@ -66,6 +88,7 @@ The threshold above which the 40% tax is triggered depends on the residency stat
 	- ETFs domicile outside US, but traded in US Market
 	- Available in IBKR
 - Are There Any Downsides to Irish ETFs?
+- Check out the Global Funds. All the funds available within that will not incur estate tax since they are either domiciled in Europe or GIFT City.
 
 ## Inward remittances
 
@@ -114,7 +137,7 @@ Interest earned on an NRE account and FCNR account is tax-free. Interest on NRO 
 **Repatriation**
 
 - NRE account: Funds can be freely repatriated to the NRI's country of residence
-- NRO account: Funds can be repatriated up to $1 million per financial year after taxes are paid
+- NRO account: Funds can be repatriated up to `$1` million per financial year after taxes are paid
 
 [How to file ITR as an OCI on Indian income? | Mint](https://www.livemint.com/money/personal-finance/how-to-file-itr-as-an-oci-on-indian-income-11674492598587.html)
 

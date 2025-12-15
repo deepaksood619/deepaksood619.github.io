@@ -129,6 +129,7 @@ The concepts, components, and features of the platform are described in detail a
 - [Building Resilient Microservice Workflows with Temporal: A Next-Gen Workflow Engine | by Dixon Deng | SafetyCulture Engineering | Medium](https://medium.com/safetycultureengineering/building-resilient-microservice-workflows-with-temporal-a-next-gen-workflow-engine-a9637a73572d)
 - [Maru: Load Testing Tool for Temporal Workflows | Mikhail Shilkov](https://mikhail.io/2021/03/maru-load-testing-tool-for-temporal-workflows/)
 - [Introduction to Temporal | The Write Ahead Log](https://platformatory.io/blog/Introduction-to-Temporal/)
+- [The city of systems: Temporal, Kafka, and Nexus \| Temporal](https://temporal.io/blog/city-of-systems-temporal-kafka-nexus)
 
 ## Dagster
 

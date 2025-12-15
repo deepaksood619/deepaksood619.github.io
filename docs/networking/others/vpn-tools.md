@@ -118,5 +118,10 @@ DevOps teams use Teleport to access SSH and Windows servers, Kubernetes, databas
 ## Others
 
 - TwinGate - [the END of VPNs?! - YouTube](https://www.youtube.com/watch?v=IYmXPF3XUwo)
+	- [Home \| Docs \| Twingate](https://www.twingate.com/docs/)
+	- Client
+	- Connector
+	- Controller
+	- Relay
 - [AWS Client VPN Download \| Amazon Web Services](https://aws.amazon.com/vpn/client-vpn-download/)
 - [Tailscale · Best VPN Service for Secure Networks](https://tailscale.com/)

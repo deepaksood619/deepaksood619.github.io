@@ -1,5 +1,13 @@
 # Kafka Topic/Replication
 
+In [Apache Kafka®](https://www.confluent.io/what-is-apache-kafka/?session_ref=https%3A%2F%2Fdeveloper.confluent.io%2Fcertification%2F%3Futm_medium%3Dsem%26utm_source%3Dgoogle%26utm_campaign%3Dch.sem_br.nonbrand_tp.prs_tgt.dsa_mt.dsa_rgn.apac_sbrgn.india_lng.eng_dv.all_con.confluent-developer%26utm_term%3D%26creative%3D%26device%3Dc%26placement%3D%26gad_source%3D1%26gad_campaignid%3D19560855030%26gbraid%3D0AAAAADRv2c1DOIOBAozJI6eYpioovMyoo%26gclid%3DCj0KCQiA9OnJBhD-ARIsAPV51xMQxq7e-jC0tkvQIDYfH3lARfj6MxXPSd6vORc94KGXIYCsASdOvvcaApazEALw_wcB), **replication** is how data remains durable and fault-tolerant. Each **partition** in a topic is copied across multiple **brokers** to protect against data loss if a broker fails. This is controlled by a **replication factor**, which defines the number of copies (replicas) Kafka maintains for each partition. For example, if the replication factor is set to **three**, Kafka will store three copies of each partition across different brokers.
+
+Among these replicas, one is designated as the **leader**, while the others are **followers**. All **writes and reads** are directed to the **leader**. The followers continuously **sync data** from the leader, ensuring they stay up-to-date. If the leader's broker fails, Kafka automatically **elects a new leader** from the remaining followers, keeping the system running without data loss. The cluster also restores the number of replicas by creating new copies as needed.
+
+This replication mechanism guarantees **fault tolerance** and **high availability**. Even if a broker crashes, the data remains accessible from its replicas. Kafka also supports **follower reads** for improved latency; you can configure clients to read from the nearest replica if it reduces network delay.
+
+While replication is mostly managed for you in **cloud-native services** like [**Confluent Cloud**](https://www.confluent.io/confluent-cloud/?session_ref=https%3A%2F%2Fdeveloper.confluent.io%2Fcertification%2F%3Futm_medium%3Dsem%26utm_source%3Dgoogle%26utm_campaign%3Dch.sem_br.nonbrand_tp.prs_tgt.dsa_mt.dsa_rgn.apac_sbrgn.india_lng.eng_dv.all_con.confluent-developer%26utm_term%3D%26creative%3D%26device%3Dc%26placement%3D%26gad_source%3D1%26gad_campaignid%3D19560855030%26gbraid%3D0AAAAADRv2c1DOIOBAozJI6eYpioovMyoo%26gclid%3DCj0KCQiA9OnJBhD-ARIsAPV51xMQxq7e-jC0tkvQIDYfH3lARfj6MxXPSd6vORc94KGXIYCsASdOvvcaApazEALw_wcB), understanding how it works is crucial if you're running your own Kafka cluster. It’s a cornerstone of Kafka's reliability, enabling seamless failover, load balancing, and strong data durability—all built into the platform.
+
 ## Kafka Topics
 
 More partitions in a Kafka cluster leads to higher throughput. However, one does have to be aware of the potential impact of having too many partitions in total or per broker on things like availability and latency.
@@ -25,6 +33,14 @@ My tip: if in doubt, use 30 partitions per topic. This is a good number because
 https://www.confluent.io/blog/how-choose-number-topics-partitions-kafka-cluster
 
 ## Kafka Replication
+
+Kafka uses the primary-backup method of replication
+
+- One machine (one replica) is called a leader and is chosen as the primary; the remaining machines (replicas) are chosen as the followers and act as backups
+- The leader propagates the writes to the followers
+- The leader waits until the writes are completed on all the replicas
+- If a replica is down, it is skipped for the write until it comes back
+- If the leader fails, one of the followers will be chosen as the new leader; this mechanism can tolerate n-1 failures if the replication factor is n
 
 Once a leader is established, it needs to replicate the data to followers. In general, this can be done by either waiting for all replicas or waiting for only a quorum (majority) of replicas. There are pros and cons to both approaches.
 
@@ -87,10 +103,8 @@ https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-2-data-rep
 
 ## Links
 
-[Apache Kafka replication factor - What's the perfect number? - CloudKarafka, Apache Kafka Message streaming as a Service](https://www.cloudkarafka.com/blog/apache-kafka-replication-factor-perfect-number.html)
-
-[Kafka Replication | Confluent Documentation](https://docs.confluent.io/kafka/design/replication.html)
-
-[Kafka Topics Choosing the Replication Factor and Partitions Count](https://www.conduktor.io/kafka/kafka-topics-choosing-the-replication-factor-and-partitions-count/)
-
-[Kafka replication factor vs min.insync.replicas - Stack Overflow](https://stackoverflow.com/questions/71666294/kafka-replication-factor-vs-min-insync-replicas)
+- [Apache Kafka replication factor - What's the perfect number? - CloudKarafka, Apache Kafka Message streaming as a Service](https://www.cloudkarafka.com/blog/apache-kafka-replication-factor-perfect-number.html)
+- [Kafka Replication | Confluent Documentation](https://docs.confluent.io/kafka/design/replication.html)
+- [Kafka Topics Choosing the Replication Factor and Partitions Count](https://www.conduktor.io/kafka/kafka-topics-choosing-the-replication-factor-and-partitions-count/)
+- [Kafka replication factor vs min.insync.replicas - Stack Overflow](https://stackoverflow.com/questions/71666294/kafka-replication-factor-vs-min-insync-replicas)
+- [How Kafka Replication Enables Fault Tolerance](https://developer.confluent.io/courses/apache-kafka/replication/)

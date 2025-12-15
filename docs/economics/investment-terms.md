@@ -10,6 +10,8 @@ Helps investors measure the average annual returns between 2 dates
 
 Limitations - Trailing returns requires an element of luck or timing which complicates it when recency bias is added
 
+Trailing returns measure the performance of an investment over a fixed period of time
+
 ## Rolling Returns
 
 Rolling returns is based on calculating returns for a particular period on a continuous basis
@@ -19,6 +21,29 @@ Rolling returns is based on calculating returns for a particular period on a con
 **Annual and Rolling Returns, helps gauge performance consistency or volatility of a fund or portfolio**
 
 **Trailing Returns, Showcases investors the compounding effect on returns**
+
+Rolling returns, also known as "rolling period returns" or "rolling time periods," are annualized average returns for a period, ending with the listed year. Rolling returns are useful for examining the behavior of returns for holding periods, similar to those actually experienced by investors.
+
+Looking at a portfolio or fund's rolling returns will give performance results that are smoothed over several periods throughout its history. Such information often paints a more accurate picture for an investor than a single snapshot of one period.
+
+- Rolling returns are annualized average returns for a period, ending with the listed year.
+- Rolling returns are useful for examining the behavior of returns for holding periods, similar to those actually experienced by investors.
+- These can also be used to smooth past performance to account for several periods instead of a single instance.
+- Trailing twelve months is one commonly used rolling return measure.
+
+[Understanding Rolling Returns: Analyze Annualized Average Returns](https://www.investopedia.com/terms/r/rollingreturns.asp)
+
+[**How not to use rolling return charts!**](https://freefincal.com/how-not-to-use-rolling-return-charts/)
+
+## Trailing Returns vs Rolling Returns
+
+|                       | Trailing returns                                  | Rolling returns                                |
+| --------------------- | ------------------------------------------------- | ---------------------------------------------- |
+| **Time period**       | A single fixed period                             | Multiple overlapping periods                   |
+| **Calculation**       | Calculated once                                   | Calculated for each interval                   |
+| **Bias**              | Can be biased by the start and end date           | Reduces bias from a specific start or end date |
+| **Market conditions** | Reflects market conditions from start to end date | Accounts for multiple market conditions        |
+| **Data**              | Requires less data                                | Requires more data                             |
 
 ## Absolute Return
 

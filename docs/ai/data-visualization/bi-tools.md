@@ -107,6 +107,15 @@ Amazon QuickSight is built with "SPICE" -- a Super-fast, Parallel, In-memory Cal
 - Users are charged monthly whether or not you delete the users in the same month, it will still charge for the user until the last day of the month. Meaning, when a user is deleted from the account, billing continues until the last day of the month. For example, a user added on the 1st is deleted on the same day, they are still billed the full $24 since its a monthly user charge
 - 5 users x $24 per user = $120 - so the total $120/31days = $3.87 per day
 
+### Amazon Quick Suite
+
+- [Agentic AI-powered digital workspace – Amazon Quick Suite – AWS](https://aws.amazon.com/quicksuite/)
+- [Announcing Amazon Quick Suite: your agentic teammate for answering questions and taking action \| AWS News Blog](https://aws.amazon.com/blogs/aws/reimagine-the-way-you-work-with-ai-agents-in-amazon-quick-suite/)
+	- a new agentic teammate that quickly answers your questions at work and turns those insights into actions for you. Instead of switching between multiple applications to gather data, find important signals and trends, and complete manual tasks, Quick Suite brings AI-powered research, business intelligence, and automation capabilities into a single workspace. You can now analyze data through natural language queries, find critical information across enterprise and external sources in minutes, and automate processes from simple tasks to complex multi-department workflows.
+- **If you’re an existing Amazon QuickSight customer –** Amazon QuickSight customers will be upgraded to Quick Suite, a unified digital workspace that includes all your existing QuickSight business intelligence capabilities (now called “Quick Sight”) plus new agentic AI capabilities. This is an interface and capability change—your data connectivity, user access, content, security controls, user permissions, and privacy settings remain exactly the same. No data is moved, migrated, or changed.
+- [Agentic AI-powered workspace – Amazon Quick Suite cost – AWS](https://aws.amazon.com/quicksuite/pricing/)
+- [Reimagine business intelligence: Amazon QuickSight evolves to Amazon Quick Suite \| AWS Business Intelligence Blog](https://aws.amazon.com/blogs/business-intelligence/reimagine-business-intelligence-amazon-quicksight-evolves-to-amazon-quick-suite/)
+
 ## DataIQ
 
 DataIQ is a business intelligence platform designed to help organizations manage, analyze, and derive insights from their data. It typically combines data governance, analytics, and data science capabilities to enable companies to become more data-driven. DataIQ allows users to access and analyze large datasets, create predictive models, and generate actionable insights, often with a focus on improving business outcomes. It can integrate with various data sources and tools to provide a unified view of data across an organization. The platform is used by data professionals, including data scientists, analysts, and business users, to streamline data operations and decision-making processes.

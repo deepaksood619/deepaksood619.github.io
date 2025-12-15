@@ -273,7 +273,7 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - Coloring
 - Piano
 
-## Connections
+## IMP Parenting Concepts
 
 [I've studied over 200 kids—the happiest ones have parents who do 9 things with them every morning](https://www.cnbc.com/amp/2025/11/30/ive-studied-over-200-kids-parents-who-raise-the-happiest-kids-do-9-things-together-every-morning.html)
 
@@ -286,6 +286,14 @@ Why kicking out children after 18 years is important, let's say you are very wea
 7. Create a screen-free sanctuary
 8. Honor the power of slowness
 9. Create a bridge before goodbye
+
+[5 Tiny Habits That Supercharge Your Child's Brain Development \| Dr. Arif Khan - YouTube](https://youtu.be/WJsiBOuXQvA)
+
+- Serve and Return
+- Read one book everyday
+- Consistent sleep routine
+- Let them struggle a little
+- Let them help
 
 ## Milestones
 

@@ -14,7 +14,7 @@
 - [Investment Frequency Calculator](https://investcalc.github.io/)
 - [Free ETF Screener - Search and Analyze ETFs](https://stockanalysis.com/etf/screener/)
 
-### Monitoring
+## Monitoring
 
 - Indian MFs
 - International MFs
@@ -24,12 +24,12 @@
 - Multiple zerodha account
 - Sector, Instrument
 
-#### Metrics
+### Metrics
 
 - [Track trading and investing returns accurately with Zerodha's new Portfolio Performance Curve - YouTube](https://www.youtube.com/watch?v=2xHXBnrLbgw)
 - XIRR
 
-#### Tools
+### Tools
 
 - MProfit
 - Simply Wall St (Best for International ETFs & Stocks)
@@ -53,7 +53,7 @@
 - [Stock Portfolio Tracking Spreadsheet - Google Sheets](https://docs.google.com/spreadsheets/d/1Ajox_mGj_prTqfIWSSF1xcaDEBm6ZuZZDInZ1Es-_bM/edit#gid=4)
 - Finshots Money Financial Planning Calculator - https://docs.google.com/spreadsheets/d/13LUIThaOS_QLXAtQz4gxEA7v5UaZQsp3/edit#gid=262879150
 
-### Personal Finance Tools
+## Personal Finance Tools
 
 - Andromoney
 	- [GitHub - maybe-finance/maybe: The personal finance app for everyone](https://github.com/maybe-finance/maybe)
@@ -63,7 +63,7 @@
 - Bluecoins
 - [what's is the best / simplest budget tracker/ expenses tracker apps? : r/androidapps](https://www.reddit.com/r/androidapps/comments/1fb5ge6/whats_is_the_best_simplest_budget_tracker/)
 
-### Foreign Investment Brokers
+## Foreign Investment Brokers
 
 - **IBKR**
 - Vested
@@ -82,7 +82,7 @@
 
 ![image](../../media/Screenshot%202025-01-28%20at%205.55.05%20PM.jpg)
 
-### Interactive Brokers (IBKR)
+## Interactive Brokers (IBKR)
 
 - IBKR strongly discourages third-party deposits
 - [Why Interactive Brokers India \| Interactive Brokers India Pvt. Ltd.](https://www.interactivebrokers.co.in/en/whyib/overview-why-ibkr-india.php)
@@ -95,13 +95,13 @@
 - [Anybody using interactive brokers for indian exchanges? : r/IndianStreetBets](https://www.reddit.com/r/IndianStreetBets/comments/1afn0a6/anybody_using_interactive_brokers_for_indian/)
 - [IBKR Trading Platforms \| Interactive Brokers LLC](https://www.interactivebrokers.com/en/trading/trading-platforms.php)
 
-#### Commissions
+### Commissions
 
 - [Commissions & Fees \| Interactive Brokers India Pvt. Ltd.](https://www.interactivebrokers.co.in/en/pricing/commissions-home.php?re=amer)
 - Charges - 1 Dollar per trade
 - Fees are on top, same currency as the stock you bought. Run a daily activity report next day for more details.
 
-#### Platforms
+### Platforms
 
 - Client Portal - Web
 - IBKR Desktop - DesktopNew
@@ -121,9 +121,24 @@
 - IBKR APIs - Desktop
 - [Mutual Fund/ETF Replicator \| Interactive Brokers LLC](https://www.interactivebrokers.com/en/trading/mutual-fund-etf-replicator.php)
 
-### Things to keep in mind
+## Things to keep in mind
 
 - TCS of 20% on amount > 7 lakh per year (New 10 lakh per year)
+
+## Transfers
+
+- **ACH**: It’s usually free and works well for regular transfers.
+- **Wire Transfer**: Quick but may cost more. It is best to send a lot of money at once.
+
+## Zerodha
+
+- 0 Brokerage charges - 0.10
+- [Big savings with zero brokerage – Z-Connect by Zerodha](https://zerodha.com/z-connect/business-updates/big-savings-with-zero-brokerage)
+- For intraday ETF trades, the charge is **0.03% or ₹20 per executed order, whichever is lower**.
+- **DP Charges:** A depository participant (DP) charge of ₹13 + 18% GST per executed order is applied when selling ETFs.
+- [Account Maintenance Charge (AMC): Explanation and slabs of charges](https://support.zerodha.com/category/account-opening/resident-individual/ri-charges/articles/what-is-the-annual-maintenance-charge)
+	- Above 10,00,000 Holding value - Quarterly charges - 75 + 18% GST
+- [Zerodha brokerage charges, fees & taxes on trading and investing](https://zerodha.com/charges/#tab-equities)
 
 ## Links
 

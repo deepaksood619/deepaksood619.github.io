@@ -1,5 +1,12 @@
 # Kafka Architecture
 
+Kafka consists of brokers that take messages from the producers and add to a partition of a topic. Brokers provide the messages to the consumers from the partitions.
+
+- A topic is divided into multiple partitions
+- The messages are added to the partitions at one end and consumed in the same order
+- Each partition acts as a message queue
+- Consumers are divided into consumer groups
+
 ## Why is Kafka so Fast?
 
 1. The first one is Kafka’s reliance on Sequential I/O.

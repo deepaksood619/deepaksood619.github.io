@@ -32,3 +32,7 @@ Table flow is a feature in Confluent Cloud that allows data from Kafka topics to
 
 - **Shift Left Approach:** Instead of cleaning data within the data lake, table flow encourages a **"shift left"** approach where transformations and cleaning are done within the streaming estate (e.g., using Flink) before the data is exposed as a table. This ensures the data is clean and ready for analysis from the start.
 - **Medallion Architecture:** A medallion architecture (bronze, silver, gold tiers) can be applied to Kafka topics, where raw data is refined into cleaner, more usable forms before being exposed as tables.
+
+## Links
+
+- [What React and Apache Iceberg Have in Common: Scaling Iceberg with Virtual Metadata - WarpStream](https://www.warpstream.com/blog/what-react-and-apache-iceberg-have-in-common-scaling-iceberg-with-virtual-metadata)

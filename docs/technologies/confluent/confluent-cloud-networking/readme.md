@@ -30,6 +30,7 @@ Presentation - [Confluent cloud networking presentation](https://cdn.confluent.i
 2. [22-authorizing-using-rbac-and-acls](technologies/confluent/confluent-cloud-networking/22-authorizing-using-rbac-and-acls.md)
 3. [23-understanding-encryption](technologies/confluent/confluent-cloud-networking/23-understanding-encryption.md)
 4. [24-auditing-and-monitoring](technologies/confluent/confluent-cloud-networking/24-auditing-and-monitoring.md)
+5. [25-maintaining-compliance-and-privacy](technologies/confluent/confluent-cloud-networking/25-maintaining-compliance-and-privacy.md)
 
 ## Links
 

@@ -178,6 +178,13 @@ https://neilpatel.com/training/growth-hacking-unlocked/raise-money
 
 [EXACTLY How To Negotiate Your Salary: Watch and Learn - YouTube](https://www.youtube.com/watch?v=kBIN2h16Rc4)
 
+[EXACTLY How to Negotiate Your Salary (4 Steps) - YouTube](https://www.youtube.com/watch?v=kPscK6RQPSw)
+
+- Never go first
+- Hold your reaction
+- Change the playground
+- Know your bracket
+
 ## Links
 
 - [Business questions to ask before taking a startup data role | Yanir Seroussi | Data & AI for Startup Impact](https://yanirseroussi.com/2024/05/06/business-questions-to-ask-before-taking-a-startup-data-role/)

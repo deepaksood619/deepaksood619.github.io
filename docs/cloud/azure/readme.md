@@ -3,6 +3,7 @@
 - [Azure Services](cloud/azure/services.md)
 - [Azure Commands](cloud/azure/commands.md)
 - [Azure IAM](cloud/azure/iam.md)
+- [Azure Networking](cloud/azure/networking.md)
 - [Azure VMs](cloud/azure/vms.md)
 - [Microsoft BizTalk](cloud/azure/microsoft-biztalk.md)
 - [azure-sql-databases](cloud/azure/azure-sql-databases.md)

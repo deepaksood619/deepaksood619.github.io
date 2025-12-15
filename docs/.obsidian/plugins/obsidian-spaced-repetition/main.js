@@ -44,7 +44,7 @@ var require_moment = __commonJS({
   "node_modules/.pnpm/moment@2.30.1/node_modules/moment/moment.js"(exports, module2) {
     (function(global, factory) {
       typeof exports === "object" && typeof module2 !== "undefined" ? module2.exports = factory() : typeof define === "function" && define.amd ? define(factory) : global.moment = factory();
-    })(exports, function() {
+    })(exports, (function() {
       "use strict";
       var hookCallback;
       function hooks() {
@@ -4035,7 +4035,7 @@ var require_moment = __commonJS({
         // <input type="month" />
       };
       return hooks;
-    });
+    }));
   }
 });
 
@@ -4054,7 +4054,7 @@ var require_lib = __commonJS({
         }
       }
     }
-    module2.exports = function() {
+    module2.exports = (function() {
       var self = {
         count: 0,
         edges: {},
@@ -4131,215 +4131,7 @@ var require_lib = __commonJS({
         self.nodes = {};
       };
       return self;
-    }();
-  }
-});
-
-// node_modules/.pnpm/balanced-match@1.0.2/node_modules/balanced-match/index.js
-var require_balanced_match = __commonJS({
-  "node_modules/.pnpm/balanced-match@1.0.2/node_modules/balanced-match/index.js"(exports, module2) {
-    "use strict";
-    module2.exports = balanced;
-    function balanced(a2, b2, str) {
-      if (a2 instanceof RegExp) a2 = maybeMatch(a2, str);
-      if (b2 instanceof RegExp) b2 = maybeMatch(b2, str);
-      var r2 = range(a2, b2, str);
-      return r2 && {
-        start: r2[0],
-        end: r2[1],
-        pre: str.slice(0, r2[0]),
-        body: str.slice(r2[0] + a2.length, r2[1]),
-        post: str.slice(r2[1] + b2.length)
-      };
-    }
-    function maybeMatch(reg, str) {
-      var m2 = str.match(reg);
-      return m2 ? m2[0] : null;
-    }
-    balanced.range = range;
-    function range(a2, b2, str) {
-      var begs, beg, left, right, result;
-      var ai = str.indexOf(a2);
-      var bi = str.indexOf(b2, ai + 1);
-      var i2 = ai;
-      if (ai >= 0 && bi > 0) {
-        if (a2 === b2) {
-          return [ai, bi];
-        }
-        begs = [];
-        left = str.length;
-        while (i2 >= 0 && !result) {
-          if (i2 == ai) {
-            begs.push(i2);
-            ai = str.indexOf(a2, i2 + 1);
-          } else if (begs.length == 1) {
-            result = [begs.pop(), bi];
-          } else {
-            beg = begs.pop();
-            if (beg < left) {
-              left = beg;
-              right = bi;
-            }
-            bi = str.indexOf(b2, i2 + 1);
-          }
-          i2 = ai < bi && ai >= 0 ? ai : bi;
-        }
-        if (begs.length) {
-          result = [left, right];
-        }
-      }
-      return result;
-    }
-  }
-});
-
-// node_modules/.pnpm/brace-expansion@2.0.1/node_modules/brace-expansion/index.js
-var require_brace_expansion = __commonJS({
-  "node_modules/.pnpm/brace-expansion@2.0.1/node_modules/brace-expansion/index.js"(exports, module2) {
-    var balanced = require_balanced_match();
-    module2.exports = expandTop;
-    var escSlash = "\0SLASH" + Math.random() + "\0";
-    var escOpen = "\0OPEN" + Math.random() + "\0";
-    var escClose = "\0CLOSE" + Math.random() + "\0";
-    var escComma = "\0COMMA" + Math.random() + "\0";
-    var escPeriod = "\0PERIOD" + Math.random() + "\0";
-    function numeric(str) {
-      return parseInt(str, 10) == str ? parseInt(str, 10) : str.charCodeAt(0);
-    }
-    function escapeBraces(str) {
-      return str.split("\\\\").join(escSlash).split("\\{").join(escOpen).split("\\}").join(escClose).split("\\,").join(escComma).split("\\.").join(escPeriod);
-    }
-    function unescapeBraces(str) {
-      return str.split(escSlash).join("\\").split(escOpen).join("{").split(escClose).join("}").split(escComma).join(",").split(escPeriod).join(".");
-    }
-    function parseCommaParts(str) {
-      if (!str)
-        return [""];
-      var parts = [];
-      var m2 = balanced("{", "}", str);
-      if (!m2)
-        return str.split(",");
-      var pre = m2.pre;
-      var body = m2.body;
-      var post = m2.post;
-      var p2 = pre.split(",");
-      p2[p2.length - 1] += "{" + body + "}";
-      var postParts = parseCommaParts(post);
-      if (post.length) {
-        p2[p2.length - 1] += postParts.shift();
-        p2.push.apply(p2, postParts);
-      }
-      parts.push.apply(parts, p2);
-      return parts;
-    }
-    function expandTop(str) {
-      if (!str)
-        return [];
-      if (str.substr(0, 2) === "{}") {
-        str = "\\{\\}" + str.substr(2);
-      }
-      return expand2(escapeBraces(str), true).map(unescapeBraces);
-    }
-    function embrace(str) {
-      return "{" + str + "}";
-    }
-    function isPadded(el) {
-      return /^-?0\d/.test(el);
-    }
-    function lte(i2, y2) {
-      return i2 <= y2;
-    }
-    function gte(i2, y2) {
-      return i2 >= y2;
-    }
-    function expand2(str, isTop) {
-      var expansions = [];
-      var m2 = balanced("{", "}", str);
-      if (!m2) return [str];
-      var pre = m2.pre;
-      var post = m2.post.length ? expand2(m2.post, false) : [""];
-      if (/\$$/.test(m2.pre)) {
-        for (var k = 0; k < post.length; k++) {
-          var expansion = pre + "{" + m2.body + "}" + post[k];
-          expansions.push(expansion);
-        }
-      } else {
-        var isNumericSequence = /^-?\d+\.\.-?\d+(?:\.\.-?\d+)?$/.test(m2.body);
-        var isAlphaSequence = /^[a-zA-Z]\.\.[a-zA-Z](?:\.\.-?\d+)?$/.test(m2.body);
-        var isSequence = isNumericSequence || isAlphaSequence;
-        var isOptions = m2.body.indexOf(",") >= 0;
-        if (!isSequence && !isOptions) {
-          if (m2.post.match(/,.*\}/)) {
-            str = m2.pre + "{" + m2.body + escClose + m2.post;
-            return expand2(str);
-          }
-          return [str];
-        }
-        var n2;
-        if (isSequence) {
-          n2 = m2.body.split(/\.\./);
-        } else {
-          n2 = parseCommaParts(m2.body);
-          if (n2.length === 1) {
-            n2 = expand2(n2[0], false).map(embrace);
-            if (n2.length === 1) {
-              return post.map(function(p2) {
-                return m2.pre + n2[0] + p2;
-              });
-            }
-          }
-        }
-        var N2;
-        if (isSequence) {
-          var x2 = numeric(n2[0]);
-          var y2 = numeric(n2[1]);
-          var width = Math.max(n2[0].length, n2[1].length);
-          var incr = n2.length == 3 ? Math.abs(numeric(n2[2])) : 1;
-          var test = lte;
-          var reverse = y2 < x2;
-          if (reverse) {
-            incr *= -1;
-            test = gte;
-          }
-          var pad = n2.some(isPadded);
-          N2 = [];
-          for (var i2 = x2; test(i2, y2); i2 += incr) {
-            var c2;
-            if (isAlphaSequence) {
-              c2 = String.fromCharCode(i2);
-              if (c2 === "\\")
-                c2 = "";
-            } else {
-              c2 = String(i2);
-              if (pad) {
-                var need = width - c2.length;
-                if (need > 0) {
-                  var z2 = new Array(need + 1).join("0");
-                  if (i2 < 0)
-                    c2 = "-" + z2 + c2.slice(1);
-                  else
-                    c2 = z2 + c2;
-                }
-              }
-            }
-            N2.push(c2);
-          }
-        } else {
-          N2 = [];
-          for (var j2 = 0; j2 < n2.length; j2++) {
-            N2.push.apply(N2, expand2(n2[j2], false));
-          }
-        }
-        for (var j2 = 0; j2 < N2.length; j2++) {
-          for (var k = 0; k < post.length; k++) {
-            var expansion = pre + N2[j2] + post[k];
-            if (!isTop || isSequence || expansion)
-              expansions.push(expansion);
-          }
-        }
-      }
-      return expansions;
-    }
+    })();
   }
 });
 
@@ -4947,7 +4739,7 @@ var require_vhtml = __commonJS({
   "node_modules/.pnpm/vhtml@2.2.0/node_modules/vhtml/dist/vhtml.js"(exports, module2) {
     (function(global, factory) {
       typeof exports === "object" && typeof module2 !== "undefined" ? module2.exports = factory() : typeof define === "function" && define.amd ? define(factory) : global.vhtml = factory();
-    })(exports, function() {
+    })(exports, (function() {
       "use strict";
       var emptyTags = ["area", "base", "br", "col", "command", "embed", "hr", "img", "input", "keygen", "link", "meta", "param", "source", "track", "wbr"];
       var esc = function esc2(str) {
@@ -5002,7 +4794,7 @@ var require_vhtml = __commonJS({
         return s2;
       }
       return h6;
-    });
+    }));
   }
 });
 
@@ -6926,7 +6718,206 @@ var ko_default = {
 var mr_default = {};
 
 // src/lang/locale/nl.ts
-var nl_default = {};
+var nl_default = {
+  // flashcard-modal.tsx
+  DECKS: "Stapel",
+  DUE_CARDS: "Te beoordelen kaarten",
+  NEW_CARDS: "Nieuwe kaarten",
+  TOTAL_CARDS: "Totaal aantal kaarten",
+  BACK: "Terug",
+  SKIP: "Overslaan",
+  EDIT_CARD: "Kaart bewerken",
+  RESET_CARD_PROGRESS: "Voortgang van kaart resetten",
+  HARD: "Moeilijk",
+  GOOD: "Goed",
+  EASY: "Gemakkelijk",
+  SHOW_ANSWER: "Toon antwoord",
+  CARD_PROGRESS_RESET: "Voortgang van kaart is gereset.",
+  SAVE: "Opslaan",
+  CANCEL: "Annuleren",
+  NO_INPUT: "Geen invoer opgegeven.",
+  CURRENT_EASE_HELP_TEXT: "Huidige Moeilijkheid: ",
+  CURRENT_INTERVAL_HELP_TEXT: "Huidige Interval: ",
+  CARD_GENERATED_FROM: "Gegenereerd van: ${notePath}",
+  // main.ts
+  OPEN_NOTE_FOR_REVIEW: "Open een notitie voor beoordeling",
+  REVIEW_CARDS: "Beoordeel flitskaarten",
+  REVIEW_DIFFICULTY_FILE_MENU: "Beoordelen: ${difficulty}",
+  REVIEW_NOTE_DIFFICULTY_CMD: "Beoordeel notitie als ${difficulty}",
+  CRAM_ALL_CARDS: "Selecteer een stapel om te stampen",
+  REVIEW_ALL_CARDS: "Beoordeel flitskaarten van alle notities",
+  REVIEW_CARDS_IN_NOTE: "Beoordeel flitskaarten in deze notitie",
+  CRAM_CARDS_IN_NOTE: "Stamp flitskaarten in deze notitie",
+  VIEW_STATS: "Bekijk statistieken",
+  OPEN_REVIEW_QUEUE_VIEW: "Open notities beoordelingswachtrij in zijbalk",
+  STATUS_BAR: "Beoordeling: ${dueNotesCount} notitie(s), ${dueFlashcardsCount} kaart(en) te beoordelen",
+  SYNC_TIME_TAKEN: "Synchronisatie duurde ${t}ms",
+  NOTE_IN_IGNORED_FOLDER: "Notitie is opgeslagen in een genegeerde map (controleer instellingen).",
+  PLEASE_TAG_NOTE: "Tag de notitie correct voor beoordeling (in instellingen).",
+  RESPONSE_RECEIVED: "Reactie ontvangen.",
+  NO_DECK_EXISTS: "Er bestaat geen stapel voor ${deckName}",
+  ALL_CAUGHT_UP: "Je bent nu helemaal bij :D.",
+  // scheduling.ts
+  DAYS_STR_IVL: "${interval} dag(en)",
+  MONTHS_STR_IVL: "${interval} maand(en)",
+  YEARS_STR_IVL: "${interval} jaar",
+  DAYS_STR_IVL_MOBILE: "${interval}d",
+  MONTHS_STR_IVL_MOBILE: "${interval}m",
+  YEARS_STR_IVL_MOBILE: "${interval}j",
+  // settings.ts
+  SETTINGS_HEADER: "Gespreide Herhaling",
+  GROUP_TAGS_FOLDERS: "Tags & Mappen",
+  GROUP_FLASHCARD_REVIEW: "Flitskaart Beoordeling",
+  GROUP_FLASHCARD_SEPARATORS: "Flitskaart Scheidingstekens",
+  GROUP_DATA_STORAGE: "Opslag van planningsgegevens",
+  GROUP_DATA_STORAGE_DESC: "Kies waar de planningsgegevens worden opgeslagen",
+  GROUP_FLASHCARDS_NOTES: "Flitskaarten & Notities",
+  GROUP_CONTRIBUTING: "Bijdragen",
+  CHECK_WIKI: 'Voor meer informatie, bekijk de <a href="${wikiUrl}">wiki</a>.',
+  GITHUB_DISCUSSIONS: 'Bezoek de <a href="${discussionsUrl}">discussies</a> sectie voor Q&A hulp, feedback, en algemene discussie.',
+  GITHUB_ISSUES: 'Meld een probleem <a href="${issuesUrl}">hier</a> als je een functieverzoek of een bugrapport hebt.',
+  GITHUB_SOURCE_CODE: 'De broncode van het project is beschikbaar op <a href="${githubProjectUrl}">GitHub</a>.',
+  CODE_CONTRIBUTION_INFO: '<a href="${codeContributionUrl}">Hier</a> lees je hoe je code kunt bijdragen aan de plugin.',
+  TRANSLATION_CONTRIBUTION_INFO: '<a href="${translationContributionUrl}">Hier</a> lees je hoe je de plugin in een andere taal kunt vertalen.',
+  FOLDERS_TO_IGNORE: "Mappen om te negeren",
+  FOLDERS_TO_IGNORE_DESC: "Voer mappaden of globpatronen in op aparte regels, bijvoorbeeld Templates/Scripts of **/*.excalidraw.md. Deze instelling is gemeenschappelijk voor zowel flitskaarten als notities.",
+  OBSIDIAN_INTEGRATION: "Integratie in Obsidian",
+  FLASHCARDS: "Flitskaarten",
+  FLASHCARD_EASY_LABEL: "Gemakkelijk-knoptekst",
+  FLASHCARD_GOOD_LABEL: "Goed-knoptekst",
+  FLASHCARD_HARD_LABEL: "Moeilijk-knoptekst",
+  FLASHCARD_EASY_DESC: 'Pas het label aan voor de "Gemakkelijk" knop',
+  FLASHCARD_GOOD_DESC: 'Pas het label aan voor de "Goed" knop',
+  FLASHCARD_HARD_DESC: 'Pas het label aan voor de "Moeilijk" knop',
+  REVIEW_BUTTON_DELAY: "Vertraging knopindrukken (ms)",
+  REVIEW_BUTTON_DELAY_DESC: "Voeg een vertraging toe aan de beoordelingsknoppen voordat ze opnieuw kunnen worden ingedrukt.",
+  FLASHCARD_TAGS: "Flitskaarttags",
+  FLASHCARD_TAGS_DESC: "Voer tags in, gescheiden door spaties of nieuwe regels, bijvoorbeeld #flitskaarten #stapel2 #stapel3.",
+  CONVERT_FOLDERS_TO_DECKS: "Converteer mappen naar stapels en substapels",
+  CONVERT_FOLDERS_TO_DECKS_DESC: "Dit is een alternatief voor de optie flitskaarttags hierboven.",
+  INLINE_SCHEDULING_COMMENTS: "Planningsopmerking opslaan op dezelfde regel als de laatste regel van de flitskaart?",
+  INLINE_SCHEDULING_COMMENTS_DESC: "Als u dit inschakelt, wordt de opmaak van de lijst niet verbroken door de HTML-opmerkingen.",
+  BURY_SIBLINGS_TILL_NEXT_DAY: "Begraaf de broer-/zuskaarten tot de volgende dag",
+  BURY_SIBLINGS_TILL_NEXT_DAY_DESC: "Broer-/zuskaarten zijn kaarten die zijn gegenereerd uit dezelfde kaarttekst, bijvoorbeeld cloze-deleties",
+  SHOW_CARD_CONTEXT: "Toon context in kaarten",
+  SHOW_CARD_CONTEXT_DESC: "Bijv. Titel > Kop 1 > Subkop > ... > Subkop",
+  SHOW_INTERVAL_IN_REVIEW_BUTTONS: "Toon volgende herzieningstijd in de beoordelingsknoppen",
+  SHOW_INTERVAL_IN_REVIEW_BUTTONS_DESC: "Handig om te weten hoe ver in de toekomst je kaarten worden uitgesteld.",
+  CARD_MODAL_HEIGHT_PERCENT: "Flitskaart hoogtepercentage",
+  CARD_MODAL_SIZE_PERCENT_DESC: "Moet worden ingesteld op 100% op mobiel of als je zeer grote afbeeldingen hebt",
+  RESET_DEFAULT: "Reset naar standaard",
+  CARD_MODAL_WIDTH_PERCENT: "Flitskaart breedtepercentage",
+  RANDOMIZE_CARD_ORDER: "Flitskaartvolgorde willekeurig tijdens herziening?",
+  REVIEW_CARD_ORDER_WITHIN_DECK: "Volgorde van kaarten in een stapel tijdens herziening",
+  REVIEW_CARD_ORDER_NEW_FIRST_SEQUENTIAL: "Opeenvolgend binnen een stapel (Alle nieuwe kaarten eerst)",
+  REVIEW_CARD_ORDER_DUE_FIRST_SEQUENTIAL: "Opeenvolgend binnen een stapel (Alle kaarten die aan de beurt zijn eerst)",
+  REVIEW_CARD_ORDER_NEW_FIRST_RANDOM: "Willekeurig binnen een stapel (Alle nieuwe kaarten eerst)",
+  REVIEW_CARD_ORDER_DUE_FIRST_RANDOM: "Willekeurig binnen een stapel (Alle kaarten die aan de beurt zijn eerst)",
+  REVIEW_CARD_ORDER_RANDOM_DECK_AND_CARD: "Willekeurige kaart uit willekeurige stapel",
+  REVIEW_DECK_ORDER: "Volgorde waarin stapels worden weergegeven tijdens herziening",
+  REVIEW_DECK_ORDER_PREV_DECK_COMPLETE_SEQUENTIAL: "Opeenvolgend (als alle kaarten in de vorige stapel zijn herzien)",
+  REVIEW_DECK_ORDER_PREV_DECK_COMPLETE_RANDOM: "Willekeurig (als alle kaarten in de vorige stapel zijn herzien)",
+  REVIEW_DECK_ORDER_RANDOM_DECK_AND_CARD: "Willekeurige kaart uit willekeurige stapel",
+  DISABLE_CLOZE_CARDS: "Cloze-kaarten uitschakelen?",
+  CONVERT_HIGHLIGHTS_TO_CLOZES: "Converteer ==highlights== naar clozes",
+  CONVERT_HIGHLIGHTS_TO_CLOZES_DESC: 'Voeg de <code>${defaultPattern}</code> toe aan/verwijder deze uit uw "Cloze-patronen"',
+  CONVERT_BOLD_TEXT_TO_CLOZES: "Converteer **vetgedrukte tekst** naar clozes",
+  CONVERT_BOLD_TEXT_TO_CLOZES_DESC: 'Voeg de <code>${defaultPattern}</code> toe aan/verwijder deze uit uw "Cloze-patronen"',
+  CONVERT_CURLY_BRACKETS_TO_CLOZES: "Converteer {{accolades}} naar clozes",
+  CONVERT_CURLY_BRACKETS_TO_CLOZES_DESC: 'Voeg de <code>${defaultPattern}</code> toe aan/verwijder deze uit uw "Cloze-patronen"',
+  CLOZE_PATTERNS: "Cloze-patronen",
+  CLOZE_PATTERNS_DESC: 'Voer cloze-patronen in, gescheiden door nieuwe regels. Raadpleeg de <a href="${docsUrl}">wiki</a> voor meer informatie.',
+  INLINE_CARDS_SEPARATOR: "Scheidingsteken voor inline flitskaarten",
+  FIX_SEPARATORS_MANUALLY_WARNING: "Houd er rekening mee dat u na het wijzigen hiervan handmatig alle flitskaarten die u al hebt, moet bewerken.",
+  INLINE_REVERSED_CARDS_SEPARATOR: "Scheidingsteken voor inline omgekeerde flitskaarten",
+  MULTILINE_CARDS_SEPARATOR: "Scheidingsteken voor meerregelige flitskaarten",
+  MULTILINE_REVERSED_CARDS_SEPARATOR: "Scheidingsteken voor meerregelige omgekeerde flitskaarten",
+  MULTILINE_CARDS_END_MARKER: "Tekens die het einde van clozes en meerregelige flitskaarten aangeven",
+  NOTES: "Notities",
+  NOTE: "Notitie",
+  REVIEW_PANE_ON_STARTUP: "Notitiebeoordelingsvenster inschakelen bij opstarten",
+  TAGS_TO_REVIEW: "Tags om te beoordelen",
+  TAGS_TO_REVIEW_DESC: "Voer tags in, gescheiden door spaties of nieuwe regels, bijv. #review #tag2 #tag3.",
+  OPEN_RANDOM_NOTE: "Open een willekeurige notitie voor beoordeling",
+  OPEN_RANDOM_NOTE_DESC: "Wanneer u dit uitschakelt, worden notities geordend op belangrijkheid (PageRank).",
+  AUTO_NEXT_NOTE: "Open automatisch de volgende notitie na een beoordeling",
+  MAX_N_DAYS_REVIEW_QUEUE: "Maximum aantal dagen om weer te geven in het notitiebeoordelingspaneel",
+  MIN_ONE_DAY: "Het aantal dagen moet minimaal 1 zijn.",
+  VALID_NUMBER_WARNING: "Geef een geldig getal op.",
+  UI: "Gebruikersinterface",
+  OPEN_IN_TAB: "Open in nieuw tabblad",
+  OPEN_IN_TAB_DESC: "Schakel dit uit om de plugin in een modaal venster te openen",
+  SHOW_STATUS_BAR: "Statusbalk weergeven",
+  SHOW_STATUS_BAR_DESC: "Schakel dit uit om de beoordelingsstatus van de flitskaart te verbergen in de statusbalk van Obsidian",
+  SHOW_RIBBON_ICON: "Pictogram weergeven in de lintbalk",
+  SHOW_RIBBON_ICON_DESC: "Schakel dit uit om het pictogram van de plugin in de lintbalk van Obsidian te verbergen",
+  ENABLE_FILE_MENU_REVIEW_OPTIONS: "Schakel de beoordelingsopties in het bestandsmenu in (bijv. Beoordelen: Gemakkelijk, Goed, Moeilijk)",
+  ENABLE_FILE_MENU_REVIEW_OPTIONS_DESC: "Schakel deze optie uit om uw notities te beoordelen met behulp van de plugin-opdrachten en, indien gedefinieerd, de bijbehorende sneltoetsen voor opdrachten.",
+  INITIALLY_EXPAND_SUBDECKS_IN_TREE: "Stapelstructuren: Vouw substapels aanvankelijk uit",
+  INITIALLY_EXPAND_SUBDECKS_IN_TREE_DESC: "Schakel dit uit om geneste stapels in dezelfde kaart samen te vouwen. Handig als je kaarten hebt die tot meerdere stapels in hetzelfde bestand behoren.",
+  ALGORITHM: "Algoritme",
+  CHECK_ALGORITHM_WIKI: 'Voor meer informatie, bekijk de <a href="${algoUrl}">algoritmedetails</a>.',
+  SM2_OSR_VARIANT: "OSR's variant van SM-2",
+  BASE_EASE: "Basisgemak",
+  BASE_EASE_DESC: "minimum = 130, bij voorkeur ongeveer 250.",
+  BASE_EASE_MIN_WARNING: "Het basisgemak moet minimaal 130 zijn.",
+  LAPSE_INTERVAL_CHANGE: "Intervalwijziging wanneer u een flitskaart/notitie als moeilijk beoordeelt",
+  LAPSE_INTERVAL_CHANGE_DESC: "nieuwInterval = oudInterval * intervalWijziging / 100.",
+  EASY_BONUS: "Gemakkelijk Bonus",
+  EASY_BONUS_DESC: "De Gemakkelijk Bonus stelt u in staat het verschil in intervallen in te stellen tussen het beantwoorden van Goed en Gemakkelijk op een flitskaart/notitie (minimum = 100%).",
+  EASY_BONUS_MIN_WARNING: "De Gemakkelijk Bonus moet minimaal 100 zijn.",
+  LOAD_BALANCE: "Schakel load balancer in",
+  LOAD_BALANCE_DESC: `Het interval wordt iets aangepast, zodat het aantal beoordelingen per dag consistenter is.
+        Het is vergelijkbaar met Anki's fuzz, maar in plaats van willekeurig te zijn, kiest het de dag met het minste aantal beoordelingen.
+        Het is uitgeschakeld voor kleine intervallen.`,
+  MAX_INTERVAL: "Maximum interval in dagen",
+  MAX_INTERVAL_DESC: "Hiermee kunt u een bovengrens voor het interval instellen (standaard = 100 jaar).",
+  MAX_INTERVAL_MIN_WARNING: "Het maximale interval moet minimaal 1 dag zijn.",
+  MAX_LINK_CONTRIB: "Maximale linkbijdrage",
+  MAX_LINK_CONTRIB_DESC: "Maximale bijdrage van de gewogen gemak van gekoppelde notities aan het initi\xEBle gemak.",
+  LOGGING: "Loggen",
+  DISPLAY_SCHEDULING_DEBUG_INFO: "Toon de foutopsporingsinformatie van de planner op de ontwikkelaarsconsole",
+  DISPLAY_PARSER_DEBUG_INFO: "Toon de foutopsporingsinformatie van de parser op de ontwikkelaarsconsole",
+  SCHEDULING: "Plannen",
+  EXPERIMENTAL: "Experimenteel",
+  HELP: "Help",
+  STORE_IN_NOTES: "In de notities",
+  // sidebar.ts
+  NOTES_REVIEW_QUEUE: "Notities beoordelingswachtrij",
+  CLOSE: "Sluiten",
+  NEW: "Nieuw",
+  YESTERDAY: "Gisteren",
+  TODAY: "Vandaag",
+  TOMORROW: "Morgen",
+  // stats-modal.tsx
+  STATS_TITLE: "Statistieken",
+  MONTH: "Maand",
+  QUARTER: "Kwartaal",
+  YEAR: "Jaar",
+  LIFETIME: "Levensduur",
+  FORECAST: "Voorspelling",
+  FORECAST_DESC: "Het aantal kaarten dat in de toekomst aan de beurt is",
+  SCHEDULED: "Gepland",
+  DAYS: "Dagen",
+  NUMBER_OF_CARDS: "Aantal kaarten",
+  REVIEWS_PER_DAY: "Gemiddeld: ${avg} beoordelingen/dag",
+  INTERVALS: "Intervallen",
+  INTERVALS_DESC: "Vertragingen totdat beoordelingen opnieuw worden weergegeven",
+  COUNT: "Aantal",
+  INTERVALS_SUMMARY: "Gemiddeld interval: ${avg}, Langste interval: ${longest}",
+  EASES: "Gemakken",
+  EASES_SUMMARY: "Gemiddeld gemak: ${avgEase}",
+  EASE: "Gemak",
+  CARD_TYPES: "Kaarttypen",
+  CARD_TYPES_DESC: "Dit omvat ook begraven kaarten, indien aanwezig",
+  CARD_TYPE_NEW: "Nieuw",
+  CARD_TYPE_YOUNG: "Jong",
+  CARD_TYPE_MATURE: "Volwassen",
+  CARD_TYPES_SUMMARY: "Totaal aantal kaarten: ${totalCardsCount}",
+  SEARCH: "Zoeken",
+  PREVIOUS: "Vorige",
+  NEXT: "Volgende"
+};
 
 // src/lang/locale/no.ts
 var no_default = {};
@@ -8513,10 +8504,218 @@ var SrsAlgorithmOsr = class _SrsAlgorithmOsr {
 // src/algorithms/osr/osr-note-graph.ts
 var graph = __toESM(require_lib());
 
-// node_modules/.pnpm/minimatch@10.0.1/node_modules/minimatch/dist/esm/index.js
-var import_brace_expansion = __toESM(require_brace_expansion(), 1);
+// node_modules/.pnpm/@isaacs+balanced-match@4.0.1/node_modules/@isaacs/balanced-match/dist/esm/index.js
+var balanced = (a2, b2, str) => {
+  const ma = a2 instanceof RegExp ? maybeMatch(a2, str) : a2;
+  const mb = b2 instanceof RegExp ? maybeMatch(b2, str) : b2;
+  const r2 = ma !== null && mb != null && range(ma, mb, str);
+  return r2 && {
+    start: r2[0],
+    end: r2[1],
+    pre: str.slice(0, r2[0]),
+    body: str.slice(r2[0] + ma.length, r2[1]),
+    post: str.slice(r2[1] + mb.length)
+  };
+};
+var maybeMatch = (reg, str) => {
+  const m2 = str.match(reg);
+  return m2 ? m2[0] : null;
+};
+var range = (a2, b2, str) => {
+  let begs, beg, left, right = void 0, result;
+  let ai = str.indexOf(a2);
+  let bi = str.indexOf(b2, ai + 1);
+  let i2 = ai;
+  if (ai >= 0 && bi > 0) {
+    if (a2 === b2) {
+      return [ai, bi];
+    }
+    begs = [];
+    left = str.length;
+    while (i2 >= 0 && !result) {
+      if (i2 === ai) {
+        begs.push(i2);
+        ai = str.indexOf(a2, i2 + 1);
+      } else if (begs.length === 1) {
+        const r2 = begs.pop();
+        if (r2 !== void 0)
+          result = [r2, bi];
+      } else {
+        beg = begs.pop();
+        if (beg !== void 0 && beg < left) {
+          left = beg;
+          right = bi;
+        }
+        bi = str.indexOf(b2, i2 + 1);
+      }
+      i2 = ai < bi && ai >= 0 ? ai : bi;
+    }
+    if (begs.length && right !== void 0) {
+      result = [left, right];
+    }
+  }
+  return result;
+};
 
-// node_modules/.pnpm/minimatch@10.0.1/node_modules/minimatch/dist/esm/assert-valid-pattern.js
+// node_modules/.pnpm/@isaacs+brace-expansion@5.0.0/node_modules/@isaacs/brace-expansion/dist/esm/index.js
+var escSlash = "\0SLASH" + Math.random() + "\0";
+var escOpen = "\0OPEN" + Math.random() + "\0";
+var escClose = "\0CLOSE" + Math.random() + "\0";
+var escComma = "\0COMMA" + Math.random() + "\0";
+var escPeriod = "\0PERIOD" + Math.random() + "\0";
+var escSlashPattern = new RegExp(escSlash, "g");
+var escOpenPattern = new RegExp(escOpen, "g");
+var escClosePattern = new RegExp(escClose, "g");
+var escCommaPattern = new RegExp(escComma, "g");
+var escPeriodPattern = new RegExp(escPeriod, "g");
+var slashPattern = /\\\\/g;
+var openPattern = /\\{/g;
+var closePattern = /\\}/g;
+var commaPattern = /\\,/g;
+var periodPattern = /\\./g;
+function numeric(str) {
+  return !isNaN(str) ? parseInt(str, 10) : str.charCodeAt(0);
+}
+function escapeBraces(str) {
+  return str.replace(slashPattern, escSlash).replace(openPattern, escOpen).replace(closePattern, escClose).replace(commaPattern, escComma).replace(periodPattern, escPeriod);
+}
+function unescapeBraces(str) {
+  return str.replace(escSlashPattern, "\\").replace(escOpenPattern, "{").replace(escClosePattern, "}").replace(escCommaPattern, ",").replace(escPeriodPattern, ".");
+}
+function parseCommaParts(str) {
+  if (!str) {
+    return [""];
+  }
+  const parts = [];
+  const m2 = balanced("{", "}", str);
+  if (!m2) {
+    return str.split(",");
+  }
+  const { pre, body, post } = m2;
+  const p2 = pre.split(",");
+  p2[p2.length - 1] += "{" + body + "}";
+  const postParts = parseCommaParts(post);
+  if (post.length) {
+    ;
+    p2[p2.length - 1] += postParts.shift();
+    p2.push.apply(p2, postParts);
+  }
+  parts.push.apply(parts, p2);
+  return parts;
+}
+function expand(str) {
+  if (!str) {
+    return [];
+  }
+  if (str.slice(0, 2) === "{}") {
+    str = "\\{\\}" + str.slice(2);
+  }
+  return expand_(escapeBraces(str), true).map(unescapeBraces);
+}
+function embrace(str) {
+  return "{" + str + "}";
+}
+function isPadded(el) {
+  return /^-?0\d/.test(el);
+}
+function lte(i2, y2) {
+  return i2 <= y2;
+}
+function gte(i2, y2) {
+  return i2 >= y2;
+}
+function expand_(str, isTop) {
+  const expansions = [];
+  const m2 = balanced("{", "}", str);
+  if (!m2)
+    return [str];
+  const pre = m2.pre;
+  const post = m2.post.length ? expand_(m2.post, false) : [""];
+  if (/\$$/.test(m2.pre)) {
+    for (let k = 0; k < post.length; k++) {
+      const expansion = pre + "{" + m2.body + "}" + post[k];
+      expansions.push(expansion);
+    }
+  } else {
+    const isNumericSequence = /^-?\d+\.\.-?\d+(?:\.\.-?\d+)?$/.test(m2.body);
+    const isAlphaSequence = /^[a-zA-Z]\.\.[a-zA-Z](?:\.\.-?\d+)?$/.test(m2.body);
+    const isSequence = isNumericSequence || isAlphaSequence;
+    const isOptions = m2.body.indexOf(",") >= 0;
+    if (!isSequence && !isOptions) {
+      if (m2.post.match(/,(?!,).*\}/)) {
+        str = m2.pre + "{" + m2.body + escClose + m2.post;
+        return expand_(str);
+      }
+      return [str];
+    }
+    let n2;
+    if (isSequence) {
+      n2 = m2.body.split(/\.\./);
+    } else {
+      n2 = parseCommaParts(m2.body);
+      if (n2.length === 1 && n2[0] !== void 0) {
+        n2 = expand_(n2[0], false).map(embrace);
+        if (n2.length === 1) {
+          return post.map((p2) => m2.pre + n2[0] + p2);
+        }
+      }
+    }
+    let N2;
+    if (isSequence && n2[0] !== void 0 && n2[1] !== void 0) {
+      const x2 = numeric(n2[0]);
+      const y2 = numeric(n2[1]);
+      const width = Math.max(n2[0].length, n2[1].length);
+      let incr = n2.length === 3 && n2[2] !== void 0 ? Math.abs(numeric(n2[2])) : 1;
+      let test = lte;
+      const reverse = y2 < x2;
+      if (reverse) {
+        incr *= -1;
+        test = gte;
+      }
+      const pad = n2.some(isPadded);
+      N2 = [];
+      for (let i2 = x2; test(i2, y2); i2 += incr) {
+        let c2;
+        if (isAlphaSequence) {
+          c2 = String.fromCharCode(i2);
+          if (c2 === "\\") {
+            c2 = "";
+          }
+        } else {
+          c2 = String(i2);
+          if (pad) {
+            const need = width - c2.length;
+            if (need > 0) {
+              const z2 = new Array(need + 1).join("0");
+              if (i2 < 0) {
+                c2 = "-" + z2 + c2.slice(1);
+              } else {
+                c2 = z2 + c2;
+              }
+            }
+          }
+        }
+        N2.push(c2);
+      }
+    } else {
+      N2 = [];
+      for (let j2 = 0; j2 < n2.length; j2++) {
+        N2.push.apply(N2, expand_(n2[j2], false));
+      }
+    }
+    for (let j2 = 0; j2 < N2.length; j2++) {
+      for (let k = 0; k < post.length; k++) {
+        const expansion = pre + N2[j2] + post[k];
+        if (!isTop || isSequence || expansion) {
+          expansions.push(expansion);
+        }
+      }
+    }
+  }
+  return expansions;
+}
+
+// node_modules/.pnpm/minimatch@10.1.1/node_modules/minimatch/dist/esm/assert-valid-pattern.js
 var MAX_PATTERN_LENGTH = 1024 * 64;
 var assertValidPattern = (pattern) => {
   if (typeof pattern !== "string") {
@@ -8527,7 +8726,7 @@ var assertValidPattern = (pattern) => {
   }
 };
 
-// node_modules/.pnpm/minimatch@10.0.1/node_modules/minimatch/dist/esm/brace-expressions.js
+// node_modules/.pnpm/minimatch@10.1.1/node_modules/minimatch/dist/esm/brace-expressions.js
 var posixClasses = {
   "[:alnum:]": ["\\p{L}\\p{Nl}\\p{Nd}", true],
   "[:alpha:]": ["\\p{L}\\p{Nl}", true],
@@ -8636,12 +8835,15 @@ var parseClass = (glob, position) => {
   return [comb, uflag, endPos - pos, true];
 };
 
-// node_modules/.pnpm/minimatch@10.0.1/node_modules/minimatch/dist/esm/unescape.js
-var unescape = (s2, { windowsPathsNoEscape = false } = {}) => {
-  return windowsPathsNoEscape ? s2.replace(/\[([^\/\\])\]/g, "$1") : s2.replace(/((?!\\).|^)\[([^\/\\])\]/g, "$1$2").replace(/\\([^\/])/g, "$1");
+// node_modules/.pnpm/minimatch@10.1.1/node_modules/minimatch/dist/esm/unescape.js
+var unescape = (s2, { windowsPathsNoEscape = false, magicalBraces = true } = {}) => {
+  if (magicalBraces) {
+    return windowsPathsNoEscape ? s2.replace(/\[([^\/\\])\]/g, "$1") : s2.replace(/((?!\\).|^)\[([^\/\\])\]/g, "$1$2").replace(/\\([^\/])/g, "$1");
+  }
+  return windowsPathsNoEscape ? s2.replace(/\[([^\/\\{}])\]/g, "$1") : s2.replace(/((?!\\).|^)\[([^\/\\{}])\]/g, "$1$2").replace(/\\([^\/{}])/g, "$1");
 };
 
-// node_modules/.pnpm/minimatch@10.0.1/node_modules/minimatch/dist/esm/ast.js
+// node_modules/.pnpm/minimatch@10.1.1/node_modules/minimatch/dist/esm/ast.js
 var types = /* @__PURE__ */ new Set(["!", "?", "+", "*", "@"]);
 var isExtglobType = (c2) => types.has(c2);
 var startNoTraversal = "(?!(?:^|/)\\.\\.?(?:$|/))";
@@ -8867,7 +9069,7 @@ var _AST = class _AST {
     if (__privateGet(this, _root) === this)
       __privateMethod(this, _AST_instances, fillNegs_fn).call(this);
     if (!this.type) {
-      const noEmpty = this.isStart() && this.isEnd();
+      const noEmpty = this.isStart() && this.isEnd() && !__privateGet(this, _parts).some((s2) => typeof s2 !== "string");
       const src = __privateGet(this, _parts).map((p2) => {
         var _a2;
         const [re, _2, hasMagic, uflag] = typeof p2 === "string" ? __privateMethod(_a2 = _AST, _AST_static, parseGlob_fn).call(_a2, p2, __privateGet(this, _hasMagic), noEmpty) : p2.toRegExpSource(allowDot);
@@ -9125,10 +9327,7 @@ parseGlob_fn = function(glob, hasMagic, noEmpty = false) {
       }
     }
     if (c2 === "*") {
-      if (noEmpty && glob === "*")
-        re += starNoEmpty;
-      else
-        re += star;
+      re += noEmpty && glob === "*" ? starNoEmpty : star;
       hasMagic = true;
       continue;
     }
@@ -9144,12 +9343,15 @@ parseGlob_fn = function(glob, hasMagic, noEmpty = false) {
 __privateAdd(_AST, _AST_static);
 var AST = _AST;
 
-// node_modules/.pnpm/minimatch@10.0.1/node_modules/minimatch/dist/esm/escape.js
-var escape = (s2, { windowsPathsNoEscape = false } = {}) => {
+// node_modules/.pnpm/minimatch@10.1.1/node_modules/minimatch/dist/esm/escape.js
+var escape = (s2, { windowsPathsNoEscape = false, magicalBraces = false } = {}) => {
+  if (magicalBraces) {
+    return windowsPathsNoEscape ? s2.replace(/[?*()[\]{}]/g, "[$&]") : s2.replace(/[?*()[\]\\{}]/g, "\\$&");
+  }
   return windowsPathsNoEscape ? s2.replace(/[?*()[\]]/g, "[$&]") : s2.replace(/[?*()[\]\\]/g, "\\$&");
 };
 
-// node_modules/.pnpm/minimatch@10.0.1/node_modules/minimatch/dist/esm/index.js
+// node_modules/.pnpm/minimatch@10.1.1/node_modules/minimatch/dist/esm/index.js
 var minimatch = (p2, pattern, options = {}) => {
   assertValidPattern(pattern);
   if (!options.nocomment && pattern.charAt(0) === "#") {
@@ -9265,7 +9467,7 @@ var braceExpand = (pattern, options = {}) => {
   if (options.nobrace || !/\{(?:(?!\{).)*\}/.test(pattern)) {
     return [pattern];
   }
-  return (0, import_brace_expansion.default)(pattern);
+  return expand(pattern);
 };
 minimatch.braceExpand = braceExpand;
 var makeRe = (pattern, options = {}) => new Minimatch(pattern, options).makeRe();
@@ -9786,16 +9988,27 @@ var Minimatch = class {
             pp[i2] = twoStar;
           }
         } else if (next === void 0) {
-          pp[i2 - 1] = prev + "(?:\\/|" + twoStar + ")?";
+          pp[i2 - 1] = prev + "(?:\\/|\\/" + twoStar + ")?";
         } else if (next !== GLOBSTAR) {
           pp[i2 - 1] = prev + "(?:\\/|\\/" + twoStar + "\\/)" + next;
           pp[i2 + 1] = GLOBSTAR;
         }
       });
-      return pp.filter((p2) => p2 !== GLOBSTAR).join("/");
+      const filtered = pp.filter((p2) => p2 !== GLOBSTAR);
+      if (this.partial && filtered.length >= 1) {
+        const prefixes = [];
+        for (let i2 = 1; i2 <= filtered.length; i2++) {
+          prefixes.push(filtered.slice(0, i2).join("/"));
+        }
+        return "(?:" + prefixes.join("|") + ")";
+      }
+      return filtered.join("/");
     }).join("|");
     const [open, close] = set2.length > 1 ? ["(?:", ")"] : ["", ""];
     re = "^" + open + re + close + "$";
+    if (this.partial) {
+      re = "^(?:\\/|" + open + re.slice(1, -1) + close + ")$";
+    }
     if (this.negate)
       re = "^(?!" + re + ").+$";
     try {
@@ -10594,8 +10807,8 @@ var ValueCountDict = class {
 };
 var RandomNumberProvider = class {
   getInteger(lowerBound, upperBound) {
-    const range = upperBound - lowerBound + 1;
-    return Math.floor(Math.random() * range) + lowerBound;
+    const range2 = upperBound - lowerBound + 1;
+    return Math.floor(Math.random() * range2) + lowerBound;
   }
 };
 var StaticRandomNumberProvider = class {
@@ -12702,10 +12915,10 @@ function hueValue(r2, g2, b2, d2, max) {
   return (r2 - g2) / d2 + 4;
 }
 function rgb2hsl(v2) {
-  const range = 255;
-  const r2 = v2.r / range;
-  const g2 = v2.g / range;
-  const b2 = v2.b / range;
+  const range2 = 255;
+  const r2 = v2.r / range2;
+  const g2 = v2.g / range2;
+  const b2 = v2.b / range2;
   const max = Math.max(r2, g2, b2);
   const min = Math.min(r2, g2, b2);
   const l2 = (max + min) / 2;
@@ -13175,7 +13388,7 @@ var Color = class _Color {
   }
 };
 
-// node_modules/.pnpm/chart.js@4.4.8/node_modules/chart.js/dist/chunks/helpers.segment.js
+// node_modules/.pnpm/chart.js@4.5.1/node_modules/chart.js/dist/chunks/helpers.dataset.js
 function noop() {
 }
 var uid = /* @__PURE__ */ (() => {
@@ -13394,11 +13607,11 @@ var sign = Math.sign;
 function almostEquals(x2, y2, epsilon) {
   return Math.abs(x2 - y2) < epsilon;
 }
-function niceNum(range) {
-  const roundedRange = Math.round(range);
-  range = almostEquals(range, roundedRange, range / 1e3) ? roundedRange : range;
-  const niceRange = Math.pow(10, Math.floor(log10(range)));
-  const fraction = range / niceRange;
+function niceNum(range2) {
+  const roundedRange = Math.round(range2);
+  range2 = almostEquals(range2, roundedRange, range2 / 1e3) ? roundedRange : range2;
+  const niceRange = Math.pow(10, Math.floor(log10(range2)));
+  const fraction = range2 / niceRange;
   const niceFraction = fraction <= 1 ? 1 : fraction <= 2 ? 2 : fraction <= 5 ? 5 : 10;
   return niceFraction * niceRange;
 }
@@ -13592,14 +13805,14 @@ function _arrayUnique(items) {
   }
   return Array.from(set2);
 }
-var requestAnimFrame = function() {
+var requestAnimFrame = (function() {
   if (typeof window === "undefined") {
     return function(callback2) {
       return callback2();
     };
   }
   return window.requestAnimationFrame;
-}();
+})();
 function throttled(fn2, thisArg) {
   let argsToUse = [];
   let ticking = false;
@@ -14898,10 +15111,10 @@ function getMaximumSize(canvas, bbWidth, bbHeight, aspectRatio) {
 }
 function retinaScale(chart, forceRatio, forceStyle) {
   const pixelRatio = forceRatio || 1;
-  const deviceHeight = Math.floor(chart.height * pixelRatio);
-  const deviceWidth = Math.floor(chart.width * pixelRatio);
-  chart.height = Math.floor(chart.height);
-  chart.width = Math.floor(chart.width);
+  const deviceHeight = round1(chart.height * pixelRatio);
+  const deviceWidth = round1(chart.width * pixelRatio);
+  chart.height = round1(chart.height);
+  chart.width = round1(chart.width);
   const canvas = chart.canvas;
   if (canvas.style && (forceStyle || !canvas.style.height && !canvas.style.width)) {
     canvas.style.height = `${chart.height}px`;
@@ -14916,7 +15129,7 @@ function retinaScale(chart, forceRatio, forceStyle) {
   }
   return false;
 }
-var supportsEventListenerOptions = function() {
+var supportsEventListenerOptions = (function() {
   let passiveSupported = false;
   try {
     const options = {
@@ -14932,7 +15145,7 @@ var supportsEventListenerOptions = function() {
   } catch (e2) {
   }
   return passiveSupported;
-}();
+})();
 function readUsedSize(element, property) {
   const value = getStyle(element, property);
   const matches = value && value.match(/^(\d+)(\.\d+)?px$/);
@@ -14999,8 +15212,36 @@ function restoreTextDirection(ctx, original) {
     ctx.canvas.style.setProperty("direction", original[0], original[1]);
   }
 }
+function getSizeForArea(scale, chartArea, field) {
+  return scale.options.clip ? scale[field] : chartArea[field];
+}
+function getDatasetArea(meta, chartArea) {
+  const { xScale, yScale } = meta;
+  if (xScale && yScale) {
+    return {
+      left: getSizeForArea(xScale, chartArea, "left"),
+      right: getSizeForArea(xScale, chartArea, "right"),
+      top: getSizeForArea(yScale, chartArea, "top"),
+      bottom: getSizeForArea(yScale, chartArea, "bottom")
+    };
+  }
+  return chartArea;
+}
+function getDatasetClipArea(chart, meta) {
+  const clip = meta._clip;
+  if (clip.disabled) {
+    return false;
+  }
+  const area = getDatasetArea(meta, chart.chartArea);
+  return {
+    left: clip.left === false ? 0 : area.left - (clip.left === true ? 0 : clip.left),
+    right: clip.right === false ? chart.width : area.right + (clip.right === true ? 0 : clip.right),
+    top: clip.top === false ? 0 : area.top - (clip.top === true ? 0 : clip.top),
+    bottom: clip.bottom === false ? chart.height : area.bottom + (clip.bottom === true ? 0 : clip.bottom)
+  };
+}
 
-// node_modules/.pnpm/chart.js@4.4.8/node_modules/chart.js/dist/chart.js
+// node_modules/.pnpm/chart.js@4.5.1/node_modules/chart.js/dist/chart.js
 var Animator = class {
   constructor() {
     this._request = null;
@@ -15796,7 +16037,7 @@ var DatasetController = class {
       mode
     });
   }
-  updateRangeFromParsed(range, scale, parsed, stack) {
+  updateRangeFromParsed(range2, scale, parsed, stack) {
     const parsedValue = parsed[scale.axis];
     let value = parsedValue === null ? NaN : parsedValue;
     const values = stack && parsed._stacks[scale.axis];
@@ -15804,8 +16045,8 @@ var DatasetController = class {
       stack.values = values;
       value = applyStack(stack, parsedValue, this._cachedMeta.index);
     }
-    range.min = Math.min(range.min, value);
-    range.max = Math.max(range.max, value);
+    range2.min = Math.min(range2.min, value);
+    range2.max = Math.max(range2.max, value);
   }
   getMinMax(scale, canStack) {
     const meta = this._cachedMeta;
@@ -15814,7 +16055,7 @@ var DatasetController = class {
     const ilen = _parsed.length;
     const otherScale = this._getOtherScale(scale);
     const stack = createStack(canStack, meta, this.chart);
-    const range = {
+    const range2 = {
       min: Number.POSITIVE_INFINITY,
       max: Number.NEGATIVE_INFINITY
     };
@@ -15829,7 +16070,7 @@ var DatasetController = class {
       if (_skip()) {
         continue;
       }
-      this.updateRangeFromParsed(range, scale, parsed, stack);
+      this.updateRangeFromParsed(range2, scale, parsed, stack);
       if (sorted) {
         break;
       }
@@ -15839,11 +16080,11 @@ var DatasetController = class {
         if (_skip()) {
           continue;
         }
-        this.updateRangeFromParsed(range, scale, parsed, stack);
+        this.updateRangeFromParsed(range2, scale, parsed, stack);
         break;
       }
     }
-    return range;
+    return range2;
   }
   getAllParsedValues(scale) {
     const parsed = this._cachedMeta._parsed;
@@ -16380,12 +16621,12 @@ var BarController = class extends DatasetController {
     }
     return parsed;
   }
-  updateRangeFromParsed(range, scale, parsed, stack) {
-    super.updateRangeFromParsed(range, scale, parsed, stack);
+  updateRangeFromParsed(range2, scale, parsed, stack) {
+    super.updateRangeFromParsed(range2, scale, parsed, stack);
     const custom = parsed._custom;
     if (custom && scale === this._cachedMeta.vScale) {
-      range.min = Math.min(range.min, custom.min);
-      range.max = Math.max(range.max, custom.max);
+      range2.min = Math.min(range2.min, custom.min);
+      range2.max = Math.max(range2.max, custom.max);
     }
   }
   getMaxOverflow() {
@@ -16478,6 +16719,22 @@ var BarController = class extends DatasetController {
   _getStackCount(index) {
     return this._getStacks(void 0, index).length;
   }
+  _getAxisCount() {
+    return this._getAxis().length;
+  }
+  getFirstScaleIdForIndexAxis() {
+    const scales = this.chart.scales;
+    const indexScaleId = this.chart.options.indexAxis;
+    return Object.keys(scales).filter((key) => scales[key].axis === indexScaleId).shift();
+  }
+  _getAxis() {
+    const axis = {};
+    const firstScaleAxisId = this.getFirstScaleIdForIndexAxis();
+    for (const dataset of this.chart.data.datasets) {
+      axis[valueOrDefault(this.chart.options.indexAxis === "x" ? dataset.xAxisID : dataset.yAxisID, firstScaleAxisId)] = true;
+    }
+    return Object.keys(axis);
+  }
   _getStackIndex(datasetIndex, name, dataIndex) {
     const stacks = this._getStacks(datasetIndex, dataIndex);
     const index = name !== void 0 ? stacks.indexOf(name) : -1;
@@ -16568,12 +16825,15 @@ var BarController = class extends DatasetController {
     const skipNull = options.skipNull;
     const maxBarThickness = valueOrDefault(options.maxBarThickness, Infinity);
     let center, size;
+    const axisCount = this._getAxisCount();
     if (ruler.grouped) {
       const stackCount = skipNull ? this._getStackCount(index) : ruler.stackCount;
-      const range = options.barThickness === "flex" ? computeFlexCategoryTraits(index, ruler, options, stackCount) : computeFitCategoryTraits(index, ruler, options, stackCount);
-      const stackIndex = this._getStackIndex(this.index, this._cachedMeta.stack, skipNull ? index : void 0);
-      center = range.start + range.chunk * stackIndex + range.chunk / 2;
-      size = Math.min(maxBarThickness, range.chunk * range.ratio);
+      const range2 = options.barThickness === "flex" ? computeFlexCategoryTraits(index, ruler, options, stackCount * axisCount) : computeFitCategoryTraits(index, ruler, options, stackCount * axisCount);
+      const axisID = this.chart.options.indexAxis === "x" ? this.getDataset().xAxisID : this.getDataset().yAxisID;
+      const axisNumber = this._getAxis().indexOf(valueOrDefault(axisID, this.getFirstScaleIdForIndexAxis()));
+      const stackIndex = this._getStackIndex(this.index, this._cachedMeta.stack, skipNull ? index : void 0) + axisNumber;
+      center = range2.start + range2.chunk * stackIndex + range2.chunk / 2;
+      size = Math.min(maxBarThickness, range2.chunk * range2.ratio);
     } else {
       center = scale.getPixelForValue(this.getParsed(index)[scale.axis], index);
       size = Math.min(maxBarThickness, ruler.min * ruler.ratio);
@@ -16905,19 +17165,24 @@ __publicField(DoughnutController, "overrides", {
       labels: {
         generateLabels(chart) {
           const data = chart.data;
+          const { labels: { pointStyle, textAlign, color: color2, useBorderRadius, borderRadius } } = chart.legend.options;
           if (data.labels.length && data.datasets.length) {
-            const { labels: { pointStyle, color: color2 } } = chart.legend.options;
             return data.labels.map((label, i2) => {
               const meta = chart.getDatasetMeta(0);
               const style = meta.controller.getStyle(i2);
               return {
                 text: label,
                 fillStyle: style.backgroundColor,
-                strokeStyle: style.borderColor,
                 fontColor: color2,
-                lineWidth: style.borderWidth,
-                pointStyle,
                 hidden: !chart.getDataVisibility(i2),
+                lineDash: style.borderDash,
+                lineDashOffset: style.borderDashOffset,
+                lineJoin: style.borderJoinStyle,
+                lineWidth: style.borderWidth,
+                strokeStyle: style.borderColor,
+                textAlign,
+                pointStyle,
+                borderRadius: useBorderRadius && (borderRadius || style.borderRadius),
                 index: i2
               };
             });
@@ -17009,10 +17274,10 @@ function binarySearch(metaset, axis, value, intersect) {
       return result;
     } else if (controller._sharedOptions) {
       const el = data[0];
-      const range = typeof el.getRange === "function" && el.getRange(axis);
-      if (range) {
-        const start = lookupMethod(data, axis, value - range);
-        const end = lookupMethod(data, axis, value + range);
+      const range2 = typeof el.getRange === "function" && el.getRange(axis);
+      if (range2) {
+        const start = lookupMethod(data, axis, value - range2);
+        const end = lookupMethod(data, axis, value + range2);
         return {
           lo: start.lo,
           hi: end.hi
@@ -18184,7 +18449,7 @@ var Scale = class _Scale extends Element {
   }
   getMinMax(canStack) {
     let { min, max, minDefined, maxDefined } = this.getUserBounds();
-    let range;
+    let range2;
     if (minDefined && maxDefined) {
       return {
         min,
@@ -18193,12 +18458,12 @@ var Scale = class _Scale extends Element {
     }
     const metas = this.getMatchingVisibleMetas();
     for (let i2 = 0, ilen = metas.length; i2 < ilen; ++i2) {
-      range = metas[i2].controller.getMinMax(this, canStack);
+      range2 = metas[i2].controller.getMinMax(this, canStack);
       if (!minDefined) {
-        min = Math.min(min, range.min);
+        min = Math.min(min, range2.min);
       }
       if (!maxDefined) {
-        max = Math.max(max, range.max);
+        max = Math.max(max, range2.max);
       }
     }
     min = maxDefined && min > max ? max : min;
@@ -19436,18 +19701,22 @@ var Registry = class {
 var registry = /* @__PURE__ */ new Registry();
 var PluginService = class {
   constructor() {
-    this._init = [];
+    this._init = void 0;
   }
   notify(chart, hook, args, filter2) {
     if (hook === "beforeInit") {
       this._init = this._createDescriptors(chart, true);
       this._notify(this._init, chart, "install");
     }
+    if (this._init === void 0) {
+      return;
+    }
     const descriptors2 = filter2 ? this._descriptors(chart).filter(filter2) : this._descriptors(chart);
     const result = this._notify(descriptors2, chart, hook, args);
     if (hook === "afterDestroy") {
       this._notify(descriptors2, chart, "stop");
       this._notify(this._init, chart, "uninstall");
+      this._init = void 0;
     }
     return result;
   }
@@ -19888,7 +20157,7 @@ function needContext(proxy, names2) {
   }
   return false;
 }
-var version = "4.4.8";
+var version = "4.5.1";
 var KNOWN_POSITIONS = [
   "top",
   "bottom",
@@ -19956,21 +20225,6 @@ function determineLastEvent(e2, lastEvent, inChartArea, isClick) {
     return lastEvent;
   }
   return e2;
-}
-function getSizeForArea(scale, chartArea, field) {
-  return scale.options.clip ? scale[field] : chartArea[field];
-}
-function getDatasetArea(meta, chartArea) {
-  const { xScale, yScale } = meta;
-  if (xScale && yScale) {
-    return {
-      left: getSizeForArea(xScale, chartArea, "left"),
-      right: getSizeForArea(xScale, chartArea, "right"),
-      top: getSizeForArea(yScale, chartArea, "top"),
-      bottom: getSizeForArea(yScale, chartArea, "bottom")
-    };
-  }
-  return chartArea;
 }
 var Chart = class {
   static register(...items) {
@@ -20464,27 +20718,20 @@ var Chart = class {
   }
   _drawDataset(meta) {
     const ctx = this.ctx;
-    const clip = meta._clip;
-    const useClip = !clip.disabled;
-    const area = getDatasetArea(meta, this.chartArea);
     const args = {
       meta,
       index: meta.index,
       cancelable: true
     };
+    const clip = getDatasetClipArea(this, meta);
     if (this.notifyPlugins("beforeDatasetDraw", args) === false) {
       return;
     }
-    if (useClip) {
-      clipArea(ctx, {
-        left: clip.left === false ? 0 : area.left - clip.left,
-        right: clip.right === false ? this.width : area.right + clip.right,
-        top: clip.top === false ? 0 : area.top - clip.top,
-        bottom: clip.bottom === false ? this.height : area.bottom + clip.bottom
-      });
+    if (clip) {
+      clipArea(ctx, clip);
     }
     meta.controller.draw();
-    if (useClip) {
+    if (clip) {
       unclipArea(ctx);
     }
     args.cancelable = false;
@@ -20802,6 +21049,34 @@ __publicField(Chart, "getChart", getChart);
 function invalidatePlugins() {
   return each(Chart.instances, (chart) => chart._plugins.invalidate());
 }
+function clipSelf(ctx, element, endAngle) {
+  const { startAngle, x: x2, y: y2, outerRadius, innerRadius, options } = element;
+  const { borderWidth, borderJoinStyle } = options;
+  const outerAngleClip = Math.min(borderWidth / outerRadius, _normalizeAngle(startAngle - endAngle));
+  ctx.beginPath();
+  ctx.arc(x2, y2, outerRadius - borderWidth / 2, startAngle + outerAngleClip / 2, endAngle - outerAngleClip / 2);
+  if (innerRadius > 0) {
+    const innerAngleClip = Math.min(borderWidth / innerRadius, _normalizeAngle(startAngle - endAngle));
+    ctx.arc(x2, y2, innerRadius + borderWidth / 2, endAngle - innerAngleClip / 2, startAngle + innerAngleClip / 2, true);
+  } else {
+    const clipWidth = Math.min(borderWidth / 2, outerRadius * _normalizeAngle(startAngle - endAngle));
+    if (borderJoinStyle === "round") {
+      ctx.arc(x2, y2, clipWidth, endAngle - PI / 2, startAngle + PI / 2, true);
+    } else if (borderJoinStyle === "bevel") {
+      const r2 = 2 * clipWidth * clipWidth;
+      const endX = -r2 * Math.cos(endAngle + PI / 2) + x2;
+      const endY = -r2 * Math.sin(endAngle + PI / 2) + y2;
+      const startX = r2 * Math.cos(startAngle + PI / 2) + x2;
+      const startY = r2 * Math.sin(startAngle + PI / 2) + y2;
+      ctx.lineTo(endX, endY);
+      ctx.lineTo(startX, startY);
+    }
+  }
+  ctx.closePath();
+  ctx.moveTo(0, 0);
+  ctx.rect(0, 0, ctx.canvas.width, ctx.canvas.height);
+  ctx.clip("evenodd");
+}
 function clipArc(ctx, element, endAngle) {
   const { startAngle, pixelMargin, x: x2, y: y2, outerRadius, innerRadius } = element;
   let angleMargin = pixelMargin / outerRadius;
@@ -20928,7 +21203,7 @@ function drawArc(ctx, element, offset, spacing, circular) {
 }
 function drawBorder(ctx, element, offset, spacing, circular) {
   const { fullCircles, startAngle, circumference, options } = element;
-  const { borderWidth, borderJoinStyle, borderDash, borderDashOffset } = options;
+  const { borderWidth, borderJoinStyle, borderDash, borderDashOffset, borderRadius } = options;
   const inner = options.borderAlign === "inner";
   if (!borderWidth) {
     return;
@@ -20954,6 +21229,9 @@ function drawBorder(ctx, element, offset, spacing, circular) {
   }
   if (inner) {
     clipArc(ctx, element, endAngle);
+  }
+  if (options.selfJoin && endAngle - startAngle >= PI && borderRadius === 0 && borderJoinStyle !== "miter") {
+    clipSelf(ctx, element, endAngle);
   }
   if (!fullCircles) {
     pathArc(ctx, element, offset, spacing, endAngle, circular);
@@ -21059,7 +21337,8 @@ __publicField(ArcElement, "defaults", {
   offset: 0,
   spacing: 0,
   angle: void 0,
-  circular: true
+  circular: true,
+  selfJoin: false
 });
 __publicField(ArcElement, "defaultRoutes", {
   backgroundColor: "backgroundColor"
@@ -23344,8 +23623,8 @@ function steps(min, max, rangeExp) {
   return end - start;
 }
 function startExp(min, max) {
-  const range = max - min;
-  let rangeExp = log10Floor(range);
+  const range2 = max - min;
+  let rangeExp = log10Floor(range2);
   while (steps(min, max, rangeExp) > 10) {
     rangeExp++;
   }
@@ -24526,7 +24805,7 @@ __publicField(TimeSeriesScale, "defaults", TimeScale.defaults);
 function t2(t3, n2) {
   for (var e2 = 0; e2 < n2.length; e2++) {
     var r2 = n2[e2];
-    r2.enumerable = r2.enumerable || false, r2.configurable = true, "value" in r2 && (r2.writable = true), Object.defineProperty(t3, "symbol" == typeof (o2 = function(t4, n3) {
+    r2.enumerable = r2.enumerable || false, r2.configurable = true, "value" in r2 && (r2.writable = true), Object.defineProperty(t3, "symbol" == typeof (o2 = (function(t4, n3) {
       if ("object" != typeof t4 || null === t4) return t4;
       var e3 = t4[Symbol.toPrimitive];
       if (void 0 !== e3) {
@@ -24535,7 +24814,7 @@ function t2(t3, n2) {
         throw new TypeError("@@toPrimitive must return a primitive value.");
       }
       return String(t4);
-    }(r2.key)) ? o2 : String(o2), r2);
+    })(r2.key)) ? o2 : String(o2), r2);
   }
   var o2;
 }
@@ -24571,13 +24850,13 @@ function u(t3, n2) {
 function s(t3, n2) {
   var e2 = "undefined" != typeof Symbol && t3[Symbol.iterator] || t3["@@iterator"];
   if (e2) return (e2 = e2.call(t3)).next.bind(e2);
-  if (Array.isArray(t3) || (e2 = function(t4, n3) {
+  if (Array.isArray(t3) || (e2 = (function(t4, n3) {
     if (t4) {
       if ("string" == typeof t4) return u(t4, n3);
       var e3 = Object.prototype.toString.call(t4).slice(8, -1);
       return "Object" === e3 && t4.constructor && (e3 = t4.constructor.name), "Map" === e3 || "Set" === e3 ? Array.from(t4) : "Arguments" === e3 || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(e3) ? u(t4, n3) : void 0;
     }
-  }(t3)) || n2 && t3 && "number" == typeof t3.length) {
+  })(t3)) || n2 && t3 && "number" == typeof t3.length) {
     e2 && (t3 = e2);
     var r2 = 0;
     return function() {
@@ -24587,9 +24866,9 @@ function s(t3, n2) {
   throw new TypeError("Invalid attempt to iterate non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
 }
 var a;
-!function(t3) {
+!(function(t3) {
   t3[t3.Init = 0] = "Init", t3[t3.Loading = 1] = "Loading", t3[t3.Loaded = 2] = "Loaded", t3[t3.Rendered = 3] = "Rendered", t3[t3.Error = 4] = "Error";
-}(a || (a = {}));
+})(a || (a = {}));
 var l;
 var c;
 var f;
@@ -24768,11 +25047,11 @@ function R(t3, n2, e2, r2, o2, i2, u2, s2) {
       if (null != i2) for (p2 = {}, _2 = 0; _2 < t3.attributes.length; _2++) p2[t3.attributes[_2].name] = t3.attributes[_2].value;
       (f2 || c2) && (f2 && (c2 && f2.__html == c2.__html || f2.__html === t3.innerHTML) || (t3.innerHTML = f2 && f2.__html || ""));
     }
-    if (function(t4, n3, e3, r3, o3) {
+    if ((function(t4, n3, e3, r3, o3) {
       var i3;
       for (i3 in e3) "children" === i3 || "key" === i3 || i3 in n3 || H(t4, i3, null, e3[i3], r3);
       for (i3 in n3) o3 && "function" != typeof n3[i3] || "children" === i3 || "key" === i3 || "value" === i3 || "checked" === i3 || e3[i3] === n3[i3] || H(t4, i3, n3[i3], e3[i3], r3);
-    }(t3, d2, p2, o2, s2), f2) n2.__k = [];
+    })(t3, d2, p2, o2, s2), f2) n2.__k = [];
     else if (_2 = n2.props.children, T(t3, Array.isArray(_2) ? _2 : [_2], n2, e2, r2, o2 && "foreignObject" !== h6, i2, u2, i2 ? i2[0] : e2.__k && P(e2, 0), s2), null != i2) for (_2 = i2.length; _2--; ) null != i2[_2] && b(i2[_2]);
     s2 || ("value" in d2 && void 0 !== (_2 = d2.value) && (_2 !== t3.value || "progress" === h6 && !_2 || "option" === h6 && _2 !== p2.value) && H(t3, "value", _2, p2.value, false), "checked" in d2 && void 0 !== (_2 = d2.checked) && _2 !== t3.checked && H(t3, "checked", _2, p2.checked, false));
   }
@@ -24826,14 +25105,14 @@ l = v.slice, c = { __e: function(t3, n2, e2, r2) {
 }, N.prototype.forceUpdate = function(t3) {
   this.__v && (this.__e = true, t3 && this.__h.push(t3), E(this));
 }, N.prototype.render = S, d = [], I.__r = 0, _ = 0;
-var V = /* @__PURE__ */ function() {
+var V = /* @__PURE__ */ (function() {
   function t3(t4) {
     this._id = void 0, this._id = t4 || z();
   }
   return n(t3, [{ key: "id", get: function() {
     return this._id;
   } }]), t3;
-}();
+})();
 function $(t3) {
   return w(t3.parentElement || "span", { dangerouslySetInnerHTML: { __html: t3.content } });
 }
@@ -24841,7 +25120,7 @@ function G(t3, n2) {
   return w($, { content: t3, parentElement: n2 });
 }
 var K;
-var X = /* @__PURE__ */ function(t3) {
+var X = /* @__PURE__ */ (function(t3) {
   function n2(n3) {
     var e3;
     return (e3 = t3.call(this) || this).data = void 0, e3.update(n3), e3;
@@ -24853,8 +25132,8 @@ var X = /* @__PURE__ */ function(t3) {
   }, e2.update = function(t4) {
     return this.data = this.cast(t4), this;
   }, n2;
-}(V);
-var Z = /* @__PURE__ */ function(t3) {
+})(V);
+var Z = /* @__PURE__ */ (function(t3) {
   function e2(n2) {
     var e3;
     return (e3 = t3.call(this) || this)._cells = void 0, e3.cells = n2 || [], e3;
@@ -24878,8 +25157,8 @@ var Z = /* @__PURE__ */ function(t3) {
   } }, { key: "length", get: function() {
     return this.cells.length;
   } }]), e2;
-}(V);
-var J = /* @__PURE__ */ function(t3) {
+})(V);
+var J = /* @__PURE__ */ (function(t3) {
   function e2(n2) {
     var e3;
     return (e3 = t3.call(this) || this)._rows = void 0, e3._length = void 0, e3.rows = n2 instanceof Array ? n2 : n2 instanceof Z ? [n2] : [], e3;
@@ -24893,9 +25172,9 @@ var J = /* @__PURE__ */ function(t3) {
       return Z.fromCells(t5.cells);
     }));
   }, e2.fromArray = function(t4) {
-    return new e2((t4 = function(t5) {
+    return new e2((t4 = (function(t5) {
       return !t5[0] || t5[0] instanceof Array ? t5 : [t5];
-    }(t4)).map(function(t5) {
+    })(t4)).map(function(t5) {
       return new Z(t5.map(function(t6) {
         return new X(t6);
       }));
@@ -24909,8 +25188,8 @@ var J = /* @__PURE__ */ function(t3) {
   }, set: function(t4) {
     this._length = t4;
   } }]), e2;
-}(V);
-var Q = /* @__PURE__ */ function() {
+})(V);
+var Q = /* @__PURE__ */ (function() {
   function t3() {
     this.callbacks = void 0;
   }
@@ -24932,7 +25211,7 @@ var Q = /* @__PURE__ */ function() {
       return t5.apply(void 0, [].slice.call(n3, 1));
     }), true);
   }, t3;
-}();
+})();
 function Y(t3, n2) {
   if (typeof t3 != typeof n2) return false;
   if (null === t3 && null === n2) return true;
@@ -24951,10 +25230,10 @@ function Y(t3, n2) {
   }
   return true;
 }
-!function(t3) {
+!(function(t3) {
   t3[t3.Initiator = 0] = "Initiator", t3[t3.ServerFilter = 1] = "ServerFilter", t3[t3.ServerSort = 2] = "ServerSort", t3[t3.ServerLimit = 3] = "ServerLimit", t3[t3.Extractor = 4] = "Extractor", t3[t3.Transformer = 5] = "Transformer", t3[t3.Filter = 6] = "Filter", t3[t3.Sort = 7] = "Sort", t3[t3.Limit = 8] = "Limit";
-}(K || (K = {}));
-var tt = /* @__PURE__ */ function(t3) {
+})(K || (K = {}));
+var tt = /* @__PURE__ */ (function(t3) {
   function o2(n2) {
     var e2;
     return (e2 = t3.call(this) || this).id = void 0, e2._props = void 0, e2._props = {}, e2.id = z(), n2 && e2.setProps(n2), e2;
@@ -24972,8 +25251,8 @@ var tt = /* @__PURE__ */ function(t3) {
   }, n(o2, [{ key: "props", get: function() {
     return this._props;
   } }]), o2;
-}(Q);
-var nt = /* @__PURE__ */ function(t3) {
+})(Q);
+var nt = /* @__PURE__ */ (function(t3) {
   function e2() {
     return t3.apply(this, arguments) || this;
   }
@@ -24995,7 +25274,7 @@ var nt = /* @__PURE__ */ function(t3) {
   }, n(e2, [{ key: "type", get: function() {
     return K.Filter;
   } }]), e2;
-}(tt);
+})(tt);
 function et() {
   var t3 = "gridjs";
   return "" + t3 + [].slice.call(arguments).reduce(function(t4, n2) {
@@ -25015,7 +25294,7 @@ var ot;
 var it;
 var ut;
 var st;
-var at = /* @__PURE__ */ function(t3) {
+var at = /* @__PURE__ */ (function(t3) {
   function o2() {
     return t3.apply(this, arguments) || this;
   }
@@ -25026,7 +25305,7 @@ var at = /* @__PURE__ */ function(t3) {
   }, n(o2, [{ key: "type", get: function() {
     return K.ServerFilter;
   } }]), o2;
-}(tt);
+})(tt);
 var lt = 0;
 var ct = [];
 var ft = [];
@@ -25041,7 +25320,7 @@ function vt(t3, n2) {
   return t3 >= e2.__.length && e2.__.push({ __V: ft }), e2.__[t3];
 }
 function yt(t3) {
-  return lt = 1, function(t4, n2, e2) {
+  return lt = 1, (function(t4, n2, e2) {
     var r2 = vt(ot++, 2);
     if (r2.t = t4, !r2.__c && (r2.__ = [Et(void 0, n2), function(t5) {
       var n3 = r2.__N ? r2.__N[0] : r2.__[0], e3 = r2.t(n3, t5);
@@ -25067,7 +25346,7 @@ function yt(t3) {
       };
     }
     return r2.__N || r2.__;
-  }(Et, t3);
+  })(Et, t3);
 }
 function gt(t3, n2) {
   var e2 = vt(ot++, 3);
@@ -25150,17 +25429,17 @@ function Et(t3, n2) {
   return "function" == typeof n2 ? n2(t3) : n2;
 }
 function It() {
-  return function(t3) {
+  return (function(t3) {
     var n2 = it.context[t3.__c], e2 = vt(ot++, 9);
     return e2.c = t3, n2 ? (null == e2.__ && (e2.__ = true, n2.sub(it)), n2.props.value) : t3.__;
-  }(fn);
+  })(fn);
 }
 var Tt = { search: { placeholder: "Type a keyword..." }, sort: { sortAsc: "Sort column ascending", sortDesc: "Sort column descending" }, pagination: { previous: "Previous", next: "Next", navigate: function(t3, n2) {
   return "Page " + t3 + " of " + n2;
 }, page: function(t3) {
   return "Page " + t3;
 }, showing: "Showing", of: "of", to: "to", results: "results" }, loading: "Loading...", noRecordsFound: "No matching records found", error: "An error happened while fetching the data" };
-var Lt = /* @__PURE__ */ function() {
+var Lt = /* @__PURE__ */ (function() {
   function t3(t4) {
     this._language = void 0, this._defaultLanguage = void 0, this._language = t4, this._defaultLanguage = Tt;
   }
@@ -25179,7 +25458,7 @@ var Lt = /* @__PURE__ */ function() {
     var n3, e2 = this.getString(t4, this._language);
     return (n3 = e2 || this.getString(t4, this._defaultLanguage)) ? n3.apply(void 0, [].slice.call(arguments, 1)) : t4;
   }, t3;
-}();
+})();
 function At() {
   var t3 = It();
   return function(n2) {
@@ -25217,11 +25496,11 @@ function Dt() {
       return o2.pipeline.unregister(e2);
     };
   }, [o2, e2]);
-  var l2, c2, f2, p2 = function(t4, n3) {
+  var l2, c2, f2, p2 = (function(t4, n3) {
     return lt = 8, wt(function() {
       return t4;
     }, n3);
-  }((l2 = function(t4) {
+  })((l2 = function(t4) {
     t4.target instanceof HTMLInputElement && s2(Ot(t4.target.value));
   }, c2 = e2 instanceof at ? i2.debounceTimeout || 250 : 0, function() {
     var t4 = arguments;
@@ -25233,7 +25512,7 @@ function Dt() {
   }), [i2, e2]);
   return w("div", { className: et(rt("search", null == (t3 = o2.className) ? void 0 : t3.search)) }, w("input", { type: "search", placeholder: u2("search.placeholder"), "aria-label": u2("search.placeholder"), onInput: p2, className: rt(et("input"), et("search", "input")), defaultValue: (null == a2 ? void 0 : a2.keyword) || "" }));
 }
-var Mt = /* @__PURE__ */ function(t3) {
+var Mt = /* @__PURE__ */ (function(t3) {
   function e2() {
     return t3.apply(this, arguments) || this;
   }
@@ -25247,8 +25526,8 @@ var Mt = /* @__PURE__ */ function(t3) {
   }, n(e2, [{ key: "type", get: function() {
     return K.Limit;
   } }]), e2;
-}(tt);
-var Ft = /* @__PURE__ */ function(t3) {
+})(tt);
+var Ft = /* @__PURE__ */ (function(t3) {
   function o2() {
     return t3.apply(this, arguments) || this;
   }
@@ -25258,7 +25537,7 @@ var Ft = /* @__PURE__ */ function(t3) {
   }, n(o2, [{ key: "type", get: function() {
     return K.ServerLimit;
   } }]), o2;
-}(tt);
+})(tt);
 function Rt() {
   var t3 = It(), n2 = t3.pagination, e2 = n2.server, r2 = n2.summary, o2 = void 0 === r2 || r2, i2 = n2.nextButton, u2 = void 0 === i2 || i2, s2 = n2.prevButton, a2 = void 0 === s2 || s2, l2 = n2.buttonsCount, c2 = void 0 === l2 ? 3 : l2, f2 = n2.limit, p2 = void 0 === f2 ? 10 : f2, d2 = n2.page, h6 = void 0 === d2 ? 0 : d2, _2 = n2.resetPageOnUpdate, m2 = void 0 === _2 || _2, v2 = bt(null), y2 = yt(h6), g2 = y2[0], b2 = y2[1], x2 = yt(0), k = x2[0], N2 = x2[1], P2 = At();
   gt(function() {
@@ -25282,7 +25561,7 @@ function Rt() {
   };
   return w("div", { className: rt(et("pagination"), t3.className.pagination) }, w(S, null, o2 && k > 0 && w("div", { role: "status", "aria-live": "polite", className: rt(et("summary"), t3.className.paginationSummary), title: P2("pagination.navigate", g2 + 1, E2()) }, P2("pagination.showing"), " ", w("b", null, P2("" + (g2 * p2 + 1))), " ", P2("pagination.to"), " ", w("b", null, P2("" + Math.min((g2 + 1) * p2, k))), " ", P2("pagination.of"), " ", w("b", null, P2("" + k)), " ", P2("pagination.results"))), w("div", { className: et("pages") }, a2 && w("button", { tabIndex: 0, role: "button", disabled: 0 === g2, onClick: function() {
     return I2(g2 - 1);
-  }, title: P2("pagination.previous"), "aria-label": P2("pagination.previous"), className: rt(t3.className.paginationButton, t3.className.paginationButtonPrev) }, P2("pagination.previous")), function() {
+  }, title: P2("pagination.previous"), "aria-label": P2("pagination.previous"), className: rt(t3.className.paginationButton, t3.className.paginationButtonPrev) }, P2("pagination.previous")), (function() {
     if (c2 <= 0) return null;
     var n3 = Math.min(E2(), c2), e3 = Math.min(g2, Math.floor(n3 / 2));
     return g2 + Math.floor(n3 / 2) >= E2() && (e3 = n3 - (E2() - g2)), w(S, null, E2() > n3 && g2 - e3 > 0 && w(S, null, w("button", { tabIndex: 0, role: "button", onClick: function() {
@@ -25296,7 +25575,7 @@ function Rt() {
     }), E2() > n3 && E2() > g2 + e3 + 1 && w(S, null, w("button", { tabIndex: -1, className: rt(et("spread"), t3.className.paginationButton) }, "..."), w("button", { tabIndex: 0, role: "button", onClick: function() {
       return I2(E2() - 1);
     }, title: P2("pagination.page", E2()), "aria-label": P2("pagination.page", E2()), className: t3.className.paginationButton }, P2("" + E2()))));
-  }(), u2 && w("button", { tabIndex: 0, role: "button", disabled: E2() === g2 + 1 || 0 === E2(), onClick: function() {
+  })(), u2 && w("button", { tabIndex: 0, role: "button", disabled: E2() === g2 + 1 || 0 === E2(), onClick: function() {
     return I2(g2 + 1);
   }, title: P2("pagination.next"), "aria-label": P2("pagination.next"), className: rt(t3.className.paginationButton, t3.className.paginationButtonNext) }, P2("pagination.next"))));
 }
@@ -25320,7 +25599,7 @@ function qt(t3) {
   }).join("");
 }
 var zt;
-var Vt = new (/* @__PURE__ */ function() {
+var Vt = new (/* @__PURE__ */ (function() {
   function t3() {
   }
   var n2 = t3.prototype;
@@ -25336,11 +25615,11 @@ var Vt = new (/* @__PURE__ */ function() {
   }, n2.info = function(t4) {
     console.info(this.format(t4, "info"));
   }, t3;
-}())();
-!function(t3) {
+})())();
+!(function(t3) {
   t3[t3.Header = 0] = "Header", t3[t3.Footer = 1] = "Footer", t3[t3.Cell = 2] = "Cell";
-}(zt || (zt = {}));
-var $t = /* @__PURE__ */ function() {
+})(zt || (zt = {}));
+var $t = /* @__PURE__ */ (function() {
   function t3() {
     this.plugins = void 0, this.plugins = [];
   }
@@ -25362,7 +25641,7 @@ var $t = /* @__PURE__ */ function() {
       return t5.order && n4.order ? t5.order - n4.order : 1;
     });
   }, t3;
-}();
+})();
 function Gt(t3) {
   var n2 = this, r2 = It();
   if (t3.pluginId) {
@@ -25373,7 +25652,7 @@ function Gt(t3) {
     return w(t4.component, e({ plugin: t4 }, n2.props.props));
   })) : null;
 }
-var Kt = /* @__PURE__ */ function(t3) {
+var Kt = /* @__PURE__ */ (function(t3) {
   function o2() {
     var n2;
     return (n2 = t3.call(this) || this)._columns = void 0, n2._columns = [], n2;
@@ -25384,7 +25663,7 @@ var Kt = /* @__PURE__ */ function(t3) {
     var i3 = t4.container, u2 = t4.autoWidth;
     if (!i3) return this;
     var a2 = i3.clientWidth, l2 = {};
-    n2.current && u2 && (q(w(Bt, { tableRef: n2.current }), r2.current), l2 = function(t5) {
+    n2.current && u2 && (q(w(Bt, { tableRef: n2.current }), r2.current), l2 = (function(t5) {
       var n3 = t5.querySelector("table");
       if (!n3) return {};
       var r3 = n3.className, o3 = n3.style.cssText;
@@ -25396,7 +25675,7 @@ var Kt = /* @__PURE__ */ function(t3) {
       return n3.className = r3, n3.style.cssText = o3, n3.style.tableLayout = "auto", Array.from(n3.parentNode.querySelectorAll("thead th")).reduce(function(t6, n4) {
         return t6[n4.getAttribute("data-column-id")].width = n4.clientWidth, t6;
       }, i4);
-    }(r2.current));
+    })(r2.current));
     for (var c2, f2 = s(o2.tabularFormat(this.columns).reduce(function(t5, n3) {
       return t5.concat(n3);
     }, [])); !(c2 = f2()).done; ) {
@@ -25474,10 +25753,10 @@ var Kt = /* @__PURE__ */ function(t3) {
       return !t4.hidden;
     });
   } }]), o2;
-}(V);
+})(V);
 var Xt = function() {
 };
-var Zt = /* @__PURE__ */ function(t3) {
+var Zt = /* @__PURE__ */ (function(t3) {
   function n2(n3) {
     var e3;
     return (e3 = t3.call(this) || this).data = void 0, e3.set(n3), e3;
@@ -25497,8 +25776,8 @@ var Zt = /* @__PURE__ */ function(t3) {
       return t4;
     } : t4 instanceof Function && (this.data = t4), this;
   }, n2;
-}(Xt);
-var Jt = /* @__PURE__ */ function(t3) {
+})(Xt);
+var Jt = /* @__PURE__ */ (function(t3) {
   function n2(n3) {
     var e2;
     return (e2 = t3.call(this) || this).options = void 0, e2.options = n3, e2;
@@ -25513,8 +25792,8 @@ var Jt = /* @__PURE__ */ function(t3) {
       return { data: n3.then(t5), total: "function" == typeof n3.total ? n3.total(t5) : void 0 };
     });
   }, n2;
-}(Xt);
-var Qt = /* @__PURE__ */ function() {
+})(Xt);
+var Qt = /* @__PURE__ */ (function() {
   function t3() {
   }
   return t3.createFromConfig = function(t4) {
@@ -25530,7 +25809,7 @@ var Qt = /* @__PURE__ */ function() {
     }
     return r2;
   }, t3;
-}();
+})();
 var Yt = "undefined" != typeof Symbol ? Symbol.iterator || (Symbol.iterator = Symbol("Symbol.iterator")) : "@@iterator";
 function tn(t3, n2, e2) {
   if (!t3.s) {
@@ -25544,7 +25823,7 @@ function tn(t3, n2, e2) {
     r2 && r2(t3);
   }
 }
-var nn = /* @__PURE__ */ function() {
+var nn = /* @__PURE__ */ (function() {
   function t3() {
   }
   return t3.prototype.then = function(n2, e2) {
@@ -25570,11 +25849,11 @@ var nn = /* @__PURE__ */ function() {
       }
     }, r2;
   }, t3;
-}();
+})();
 function en(t3) {
   return t3 instanceof nn && 1 & t3.s;
 }
-var rn = /* @__PURE__ */ function(t3) {
+var rn = /* @__PURE__ */ (function(t3) {
   function e2(n2) {
     var e3;
     return (e3 = t3.call(this) || this)._steps = /* @__PURE__ */ new Map(), e3.cache = /* @__PURE__ */ new Map(), e3.lastProcessorIndexUpdated = -1, n2 && n2.forEach(function(t4) {
@@ -25628,12 +25907,12 @@ var rn = /* @__PURE__ */ function(t3) {
     try {
       var n2 = function(t5) {
         return e3.lastProcessorIndexUpdated = o3.length, e3.emit("afterProcess", i2), i2;
-      }, e3 = this, r2 = e3.lastProcessorIndexUpdated, o3 = e3.steps, i2 = t4, u2 = function(t5, n3) {
+      }, e3 = this, r2 = e3.lastProcessorIndexUpdated, o3 = e3.steps, i2 = t4, u2 = (function(t5, n3) {
         try {
-          var u3 = function(t6, n4, e4) {
+          var u3 = (function(t6, n4, e4) {
             if ("function" == typeof t6[Yt]) {
               var r3, o4, i3, u4 = t6[Yt]();
-              if (function t7(e5) {
+              if ((function t7(e5) {
                 try {
                   for (; !(r3 = u4.next()).done; ) if ((e5 = n4(r3.value)) && e5.then) {
                     if (!en(e5)) return void e5.then(t7, i3 || (i3 = tn.bind(null, o4 = new nn(), 2)));
@@ -25643,7 +25922,7 @@ var rn = /* @__PURE__ */ function(t3) {
                 } catch (t8) {
                   tn(o4 || (o4 = new nn()), 2, t8);
                 }
-              }(), u4.return) {
+              })(), u4.return) {
                 var s2 = function(t7) {
                   try {
                     r3.done || u4.return();
@@ -25660,9 +25939,9 @@ var rn = /* @__PURE__ */ function(t3) {
             }
             if (!("length" in t6)) throw new TypeError("Object is not iterable");
             for (var a2 = [], l2 = 0; l2 < t6.length; l2++) a2.push(t6[l2]);
-            return function(t7, n5, e5) {
+            return (function(t7, n5, e5) {
               var r4, o5, i4 = -1;
-              return function e6(u5) {
+              return (function e6(u5) {
                 try {
                   for (; ++i4 < t7.length; ) if ((u5 = n5(i4)) && u5.then) {
                     if (!en(u5)) return void u5.then(e6, o5 || (o5 = tn.bind(null, r4 = new nn(), 2)));
@@ -25672,17 +25951,17 @@ var rn = /* @__PURE__ */ function(t3) {
                 } catch (t8) {
                   tn(r4 || (r4 = new nn()), 2, t8);
                 }
-              }(), r4;
-            }(a2, function(t7) {
+              })(), r4;
+            })(a2, function(t7) {
               return n4(a2[t7]);
             });
-          }(o3, function(t6) {
-            var n4 = e3.findProcessorIndexByID(t6.id), o4 = function() {
+          })(o3, function(t6) {
+            var n4 = e3.findProcessorIndexByID(t6.id), o4 = (function() {
               if (n4 >= r2) return Promise.resolve(t6.process(i2)).then(function(n5) {
                 e3.cache.set(t6.id, i2 = n5);
               });
               i2 = e3.cache.get(t6.id);
-            }();
+            })();
             if (o4 && o4.then) return o4.then(function() {
             });
           });
@@ -25690,7 +25969,7 @@ var rn = /* @__PURE__ */ function(t3) {
           return n3(t6);
         }
         return u3 && u3.then ? u3.then(void 0, n3) : u3;
-      }(0, function(t5) {
+      })(0, function(t5) {
         throw Vt.error(t5), e3.emit("error", i2), t5;
       });
       return Promise.resolve(u2 && u2.then ? u2.then(n2) : n2());
@@ -25717,8 +25996,8 @@ var rn = /* @__PURE__ */ function(t3) {
       return t5;
     });
   } }]), e2;
-}(Q);
-var on = /* @__PURE__ */ function(t3) {
+})(Q);
+var on = /* @__PURE__ */ (function(t3) {
   function e2() {
     return t3.apply(this, arguments) || this;
   }
@@ -25731,8 +26010,8 @@ var on = /* @__PURE__ */ function(t3) {
   }, n(e2, [{ key: "type", get: function() {
     return K.Extractor;
   } }]), e2;
-}(tt);
-var un = /* @__PURE__ */ function(t3) {
+})(tt);
+var un = /* @__PURE__ */ (function(t3) {
   function e2() {
     return t3.apply(this, arguments) || this;
   }
@@ -25742,8 +26021,8 @@ var un = /* @__PURE__ */ function(t3) {
   }, n(e2, [{ key: "type", get: function() {
     return K.Transformer;
   } }]), e2;
-}(tt);
-var sn = /* @__PURE__ */ function(t3) {
+})(tt);
+var sn = /* @__PURE__ */ (function(t3) {
   function o2() {
     return t3.apply(this, arguments) || this;
   }
@@ -25757,8 +26036,8 @@ var sn = /* @__PURE__ */ function(t3) {
   }, n(o2, [{ key: "type", get: function() {
     return K.Initiator;
   } }]), o2;
-}(tt);
-var an = /* @__PURE__ */ function(t3) {
+})(tt);
+var an = /* @__PURE__ */ (function(t3) {
   function e2() {
     return t3.apply(this, arguments) || this;
   }
@@ -25783,15 +26062,15 @@ var an = /* @__PURE__ */ function(t3) {
   }, n(e2, [{ key: "type", get: function() {
     return K.Transformer;
   } }]), e2;
-}(tt);
-var ln = /* @__PURE__ */ function() {
+})(tt);
+var ln = /* @__PURE__ */ (function() {
   function t3() {
   }
   return t3.createFromConfig = function(t4) {
     var n2 = new rn();
     return t4.storage instanceof Jt && n2.register(new sn({ serverStorageOptions: t4.server })), n2.register(new on({ storage: t4.storage })), n2.register(new an({ header: t4.header })), n2.register(new un()), n2;
   }, t3;
-}();
+})();
 var cn = function(t3) {
   var n2 = this;
   this.state = void 0, this.listeners = [], this.isDispatching = false, this.getState = function() {
@@ -25819,7 +26098,7 @@ var cn = function(t3) {
     };
   }, this.state = t3;
 };
-var fn = function(t3, n2) {
+var fn = (function(t3, n2) {
   var e2 = { __c: n2 = "__cC" + _++, __: null, Consumer: function(t4, n3) {
     return t4.children(n3);
   }, Provider: function(t4) {
@@ -25837,8 +26116,8 @@ var fn = function(t3, n2) {
     }), t4.children;
   } };
   return e2.Provider.__ = e2.Consumer.contextType = e2;
-}();
-var pn = /* @__PURE__ */ function() {
+})();
+var pn = /* @__PURE__ */ (function() {
   function t3() {
     Object.assign(this, t3.defaultConfig());
   }
@@ -25855,7 +26134,7 @@ var pn = /* @__PURE__ */ function() {
       return e2.plugin.add(t4);
     }), e2;
   }, t3;
-}();
+})();
 function dn(t3) {
   var n2, r2 = It();
   return w("td", e({ role: t3.role, colSpan: t3.colSpan, "data-column-id": t3.column && t3.column.id, className: rt(et("td"), t3.className, r2.className.td), style: e({}, t3.style, r2.style.td), onClick: function(n3) {
@@ -25869,13 +26148,13 @@ function hn(t3) {
   return w("tr", { className: rt(et("tr"), n2.className.tr), onClick: function(e3) {
     t3.messageRow || n2.eventEmitter.emit("rowClick", e3, t3.row);
   } }, t3.children ? t3.children : t3.row.cells.map(function(n3, r2) {
-    var o2 = function(t4) {
+    var o2 = (function(t4) {
       if (e2) {
         var n4 = Kt.leafColumns(e2.columns);
         if (n4) return n4[t4];
       }
       return null;
-    }(r2);
+    })(r2);
     return o2 && o2.hidden ? null : w(dn, { key: n3.id, cell: n3, row: t3.row, column: o2 });
   }));
 }
@@ -25896,7 +26175,7 @@ function mn() {
     return w(hn, { key: t4.id, row: t4 });
   }), e2 === a.Loading && (!n2 || 0 === n2.length) && w(_n, { message: o2("loading"), colSpan: i2(), className: rt(et("loading"), t3.className.loading) }), e2 === a.Rendered && n2 && 0 === n2.length && w(_n, { message: o2("noRecordsFound"), colSpan: i2(), className: rt(et("notfound"), t3.className.notfound) }), e2 === a.Error && w(_n, { message: o2("error"), colSpan: i2(), className: rt(et("error"), t3.className.error) }));
 }
-var vn = /* @__PURE__ */ function(t3) {
+var vn = /* @__PURE__ */ (function(t3) {
   function e2() {
     return t3.apply(this, arguments) || this;
   }
@@ -25925,7 +26204,7 @@ var vn = /* @__PURE__ */ function(t3) {
   }, n(e2, [{ key: "type", get: function() {
     return K.Sort;
   } }]), e2;
-}(tt);
+})(tt);
 var yn = function(t3, n2, r2, o2) {
   return function(i2) {
     var u2, s2 = null != (u2 = i2.sort) && u2.columns ? i2.sort.columns.map(function(t4) {
@@ -25952,7 +26231,7 @@ var gn = function(t3, n2, r2) {
     return e({}, o2, i2 ? yn(t3, 1 === i2.direction ? -1 : 1, n2, r2)(o2) : yn(t3, 1, n2, r2)(o2));
   };
 };
-var bn = /* @__PURE__ */ function(t3) {
+var bn = /* @__PURE__ */ (function(t3) {
   function o2() {
     return t3.apply(this, arguments) || this;
   }
@@ -25962,7 +26241,7 @@ var bn = /* @__PURE__ */ function(t3) {
   }, n(o2, [{ key: "type", get: function() {
     return K.ServerSort;
   } }]), o2;
-}(tt);
+})(tt);
 function wn(t3) {
   var n2 = It(), r2 = Ht().dispatch, o2 = At(), i2 = yt(0), u2 = i2[0], s2 = i2[1], a2 = n2.sort, l2 = jt(function(t4) {
     return t4.sort;
@@ -25985,9 +26264,9 @@ function wn(t3) {
   }, [l2]), gt(function() {
     var t4 = f2();
     t4 && l2 && t4.setProps({ columns: l2.columns });
-  }, [l2]), w("button", { tabIndex: -1, "aria-label": o2("sort.sort" + (1 === u2 ? "Desc" : "Asc")), title: o2("sort.sort" + (1 === u2 ? "Desc" : "Asc")), className: rt(et("sort"), et("sort", /* @__PURE__ */ function(t4) {
+  }, [l2]), w("button", { tabIndex: -1, "aria-label": o2("sort.sort" + (1 === u2 ? "Desc" : "Asc")), title: o2("sort.sort" + (1 === u2 ? "Desc" : "Asc")), className: rt(et("sort"), et("sort", /* @__PURE__ */ (function(t4) {
     return 1 === t4 ? "asc" : -1 === t4 ? "desc" : "neutral";
-  }(u2)), n2.className.sort), onClick: function(n3) {
+  })(u2)), n2.className.sort), onClick: function(n3) {
     n3.preventDefault(), n3.stopPropagation(), r2(gn(t3.index, true === n3.shiftKey && a2.multiColumn, t3.compare));
   } });
 }
@@ -26046,18 +26325,18 @@ function Nn() {
     return t4.header;
   });
   return e2 ? w("thead", { key: e2.id, className: rt(et("thead"), n2.className.thead) }, (t3 = Kt.tabularFormat(e2.columns)).map(function(n3, r2) {
-    return function(t4, n4, r3) {
+    return (function(t4, n4, r3) {
       var o2 = Kt.leafColumns(e2.columns);
       return w(hn, null, t4.map(function(t5) {
-        return t5.hidden ? null : function(t6, n5, e3, r4) {
-          var o3 = function(t7, n6, e4) {
+        return t5.hidden ? null : (function(t6, n5, e3, r4) {
+          var o3 = (function(t7, n6, e4) {
             var r5 = Kt.maximumDepth(t7), o4 = e4 - n6;
             return { rowSpan: Math.floor(o4 - r5 - r5 / o4), colSpan: t7.columns && t7.columns.length || 1 };
-          }(t6, n5, r4);
+          })(t6, n5, r4);
           return w(Sn, { column: t6, index: e3, colSpan: o3.colSpan, rowSpan: o3.rowSpan });
-        }(t5, n4, o2.indexOf(t5), r3);
+        })(t5, n4, o2.indexOf(t5), r3);
       }));
-    }(n3, r2, t3.length);
+    })(n3, r2, t3.length);
   })) : null;
 }
 var Pn = function(t3) {
@@ -26068,11 +26347,11 @@ var Pn = function(t3) {
 function Cn() {
   var t3 = It(), n2 = bt(null), r2 = Ht().dispatch;
   return gt(function() {
-    n2 && r2(/* @__PURE__ */ function(t4) {
+    n2 && r2(/* @__PURE__ */ (function(t4) {
       return function(n3) {
         return e({}, n3, { tableRef: t4 });
       };
-    }(n2));
+    })(n2));
   }, [n2]), w("table", { ref: n2, role: "grid", className: rt(et("table"), t3.className.table), style: e({}, t3.style.table, { height: t3.height }) }, w(Nn, null), w(mn, null));
 }
 function En() {
@@ -26099,14 +26378,14 @@ function Tn() {
       n2(function(t4) {
         return e({}, t4, { status: a.Loading });
       });
-      var r3 = function(r4, o3) {
+      var r3 = (function(r4, o3) {
         try {
           var i3 = Promise.resolve(t3.pipeline.process()).then(function(t4) {
-            n2(/* @__PURE__ */ function(t5) {
+            n2(/* @__PURE__ */ (function(t5) {
               return function(n3) {
                 return t5 ? e({}, n3, { data: t5, status: a.Loaded }) : n3;
               };
-            }(t4)), setTimeout(function() {
+            })(t4)), setTimeout(function() {
               n2(function(t5) {
                 return t5.status === a.Loaded ? e({}, t5, { status: a.Rendered }) : t5;
               });
@@ -26116,7 +26395,7 @@ function Tn() {
           return o3(t4);
         }
         return i3 && i3.then ? i3.then(void 0, o3) : i3;
-      }(0, function(t4) {
+      })(0, function(t4) {
         Vt.error(t4), n2(function(t5) {
           return e({}, t5, { data: null, status: a.Error });
         });
@@ -26135,7 +26414,7 @@ function Tn() {
     t3.header && r2 === a.Loaded && null != o2 && o2.length && n2(Pn(t3.header.adjustWidth(t3, i2, u2)));
   }, [o2, t3, u2]), w("div", { role: "complementary", className: rt("gridjs", et("container"), r2 === a.Loading ? et("loading") : null, t3.className.container), style: e({}, t3.style.container, { width: t3.width }) }, r2 === a.Loading && w("div", { className: et("loading-bar") }), w(En, null), w("div", { className: et("wrapper"), style: { height: t3.height } }, w(Cn, null)), w(In, null), w("div", { ref: u2, id: "gridjs-temp", className: et("temp") }));
 }
-var Ln = /* @__PURE__ */ function(t3) {
+var Ln = /* @__PURE__ */ (function(t3) {
   function n2(n3) {
     var e3;
     return (e3 = t3.call(this) || this).config = void 0, e3.plugin = void 0, e3.config = new pn().assign({ instance: i(e3), eventEmitter: i(e3) }).update(n3), e3.plugin = e3.config.plugin, e3;
@@ -26153,7 +26432,7 @@ var Ln = /* @__PURE__ */ function(t3) {
   }, e2.render = function(t4) {
     return t4 || Vt.error("Container element cannot be null", true), t4.childNodes.length > 0 ? (Vt.error("The container element " + t4 + " is not empty. Make sure the container is empty and call render() again"), this) : (this.config.container = t4, q(this.createElement(), t4), this);
   }, n2;
-}(Q);
+})(Q);
 
 // src/gui/statistics.tsx
 var import_path = __toESM(require("path"));
@@ -27706,6 +27985,7 @@ var CardUI = class {
     }
   }
   _updateCardContext() {
+    if (!this.cardContext) return;
     if (!this.settings.showContextInCards) {
       this.cardContext.setText("");
       return;
@@ -29126,17 +29406,10 @@ moment/moment.js:
    * Released under the MIT License
    *)
 
-chart.js/dist/chunks/helpers.segment.js:
-  (*!
-   * Chart.js v4.4.8
-   * https://www.chartjs.org
-   * (c) 2025 Chart.js Contributors
-   * Released under the MIT License
-   *)
-
+chart.js/dist/chunks/helpers.dataset.js:
 chart.js/dist/chart.js:
   (*!
-   * Chart.js v4.4.8
+   * Chart.js v4.5.1
    * https://www.chartjs.org
    * (c) 2025 Chart.js Contributors
    * Released under the MIT License

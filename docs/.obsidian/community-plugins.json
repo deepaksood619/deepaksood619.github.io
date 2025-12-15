@@ -1,12 +1,11 @@
 [
   "table-editor-obsidian",
   "obsidian-auto-link-title",
-  "recent-files-obsidian",
-  "url-into-selection",
   "obsidian-reveal-active-file",
   "editing-toolbar",
-  "obsidian-regex-replace",
-  "obsidian-pandoc",
-  "omnisearch",
-  "meld-encrypt"
+  "meld-encrypt",
+  "nldates-obsidian",
+  "recent-files-obsidian",
+  "obsidian-reading-time",
+  "obsidian-regex-replace"
 ]

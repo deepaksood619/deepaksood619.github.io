@@ -8,7 +8,7 @@
 - [Apache Hive](apache-hive)
 - [Apache Storm](apache-storm)
 - [Apache Samza](apache-samza)
-- [Apache Flink](apache-flink)
+- [Apache Flink](technologies/flink/readme.md)
 - [Apache Hudi](technologies/apache/apache-hudi.md)
 - [Apache Iceberg](technologies/apache/apache-iceberg.md)
 - [CNCF](cncf)

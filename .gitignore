@@ -154,6 +154,7 @@ build
 
 # windows
 desktop.ini
+.trash
 
 # obsidian
 # git update-index --assume-unchanged docs/.obsidian/workspace.json

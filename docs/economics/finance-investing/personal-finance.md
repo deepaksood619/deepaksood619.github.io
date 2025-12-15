@@ -38,6 +38,24 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 
 [How to rebalance your portfolio? A guide - YouTube](https://www.youtube.com/watch?v=1fIxvUo44X4&ab_channel=freefincal-PrudentDIYInvesting%28freefincal%29)
 
+## Mindset
+
+[I Read over 100 Wealth-Building Books to Learn These 5 Lessons - New Trader U](https://www.newtraderu.com/2025/12/12/i-read-over-100-wealth-building-books-to-learn-these-5-lessons/)
+
+1. Pay Yourself First, Not Last
+2. Real Wealth Is Invisible
+3. Index Funds Beat Almost Everything
+4. Your Money Mindset Determines Your Results
+5. Assets Work, Income Doesn’t Scale
+
+[5 Things the Middle Class Thinks Are Assets but Are Liabilities - New Trader U](https://www.newtraderu.com/2025/12/11/5-things-the-middle-class-thinks-are-assets-but-are-liabilities/)
+
+- Primary Residence Bought at the Edge of Affordability
+- New Cars Purchased with Loans
+- College Degrees with No ROI Analysis
+- Vacation Timeshare
+- Whole Life Insurance as an “Investment.”
+
 ## Others
 
 - Folks, I’ve some big plans of my own this year that’s going to suck the money out of my wallet. So, I’ll have to ditch this trip to Goa (adulting sucks). But come and hang out with me at home before you all go, and we’ll have a blast?

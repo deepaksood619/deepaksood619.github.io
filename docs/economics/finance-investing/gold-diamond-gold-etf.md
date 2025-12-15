@@ -53,6 +53,8 @@
 
 [Are Gold ETFs safe? Do they store physical gold in India or abroad? Key FAQs answered](https://upstox.com/news/personal-finance/investing/are-gold-etfs-safe-do-they-store-physical-gold-in-india-or-abroad-faqs-answered/article-183440/)
 
+[Why gold ETFs aren’t always the cheaper choice \| Value Research](https://www.valueresearchonline.com/stories/227119/why-gold-etfs-arent-always-the-cheaper-choice/)
+
 ### Gold Funds
 
 [Best Gold Mutual Funds To Invest in India 2025](https://www.etmoney.com/mutual-funds/featured/best-gold-mutual-funds/25)

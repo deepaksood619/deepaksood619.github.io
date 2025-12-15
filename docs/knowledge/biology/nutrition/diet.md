@@ -43,3 +43,4 @@ People are overweight because they eat too much. It is also really hard to stop.
 
 - How Not to Die, Book by Gene Stone and Michael Greger
 	- [How Not to Die by Dr. Michael Greger: A Critical Review](https://www.healthline.com/nutrition/how-not-to-die-review)
+- [nin.res.in/dietaryguidelines/pdfjs/locale/DGI07052024P.pdf](https://www.nin.res.in/dietaryguidelines/pdfjs/locale/DGI07052024P.pdf)

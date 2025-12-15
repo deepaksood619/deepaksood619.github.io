@@ -41,6 +41,20 @@ Amazon Fraud Detector is a fully managed service that makes it easy to identify 
 - [Get and upload example dataset - Amazon Fraud Detector](https://docs.aws.amazon.com/frauddetector/latest/ug/step-1-get-s3-data.html)
 - [GitHub - aws-solutions-library-samples/fraud-detection-using-machine-learning: Setup end to end demo architecture for predicting fraud events with Machine Learning using Amazon SageMaker](https://github.com/aws-solutions-library-samples/fraud-detection-using-machine-learning)
 
+## Others
+
+- [Nametag: Identity Verification & Account Protection Solutions](https://getnametag.com/)
+	- Prevent breaches and reduce IT support costs with ready-to-use solutions for secure onboarding, self-service account recovery, helpdesk verification and agentic AI security. Built on Deepfake Defense™ identity verification and integrations with your identity stack.
+	- Data breaches
+	- Ransomware
+	- Social engineering
+	- AI deepfakes
+	- Fake IT workers
+	- Account takeovers
+	- Insider threats
+	- Presentation attacks
+	- Injection attacks
+
 ## Links
 
 - [Real-time Fraud Detection with Yoda and ClickHouse | by Nick Shieh | tech-at-instacart](https://tech.instacart.com/real-time-fraud-detection-with-yoda-and-clickhouse-bd08e9dbe3f4)

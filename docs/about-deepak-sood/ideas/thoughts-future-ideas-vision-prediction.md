@@ -14,7 +14,7 @@
 - Robotics
 	- [Atlas Goes Hands On - YouTube](https://www.youtube.com/watch?v=F_7IPm7f1vI&ab_channel=BostonDynamics)
 - AI
-- Flying taxis (VTOL)
+- Flying taxis / Air taxis (VTOL)
 - Climate Change
 - Blockchain
 - Long life
@@ -95,7 +95,7 @@ The whole world is moving towards electric, but India is pushing more towards Hy
 
 Self driving car is the future of transportation and I want to contribute to one of the biggest problem that humanity is facing by solving deaths by vehicles by removing all the deaths caused by human errors. Also Earth cannot support 11 billion privately owned cars, so ride sharing is going to solve that problem. Better communication between vehicles, intelligent routing, better vision and better understanding of roads are huge problems that must be solved in coming decade and I want to contribute to that.
 
-#### Flying Cars (EVTOLs / VTOL / STOL)
+#### Flying Cars / Air Taxis / Flying Taxis (EVTOLs / VTOL / STOL)
 
 But flying cars with autonomous flight capacity can democratise that too, so people don't have to live in a dense area. Since right now can reach 10km in 10 mins, but with flying cars they can reach maybe 50km in 10 mins.
 
@@ -109,6 +109,7 @@ Future
 - Autonomous vehicle
 - [Volonaut Airbike - Official Launch - YouTube](https://youtu.be/-Fev5M_7Wnw)
 - Autonomous defence - drones, humanless tanks
+- [Lighter than Air (LTA) Research - The Future of Airships](https://ltaresearch.com/)
 
 ## Future
 

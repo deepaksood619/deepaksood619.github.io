@@ -31,6 +31,8 @@ The following example illustrates the difference between the two:
 
 When a topic is viewed as a KStream, there are two independent records and thus the sum of the values is 7. On the other hand, if the topic is viewed as a KTable, the second record is treated as an update to the first record since they have the same key "k1". Therefore, only the second record is retained in the stream and the sum is 5 instead.
 
+[Apache Kafka Streams](https://kafka.apache.org/documentation/streams/)
+
 ## KSQL
 
 KSQL is an open source streaming SQL engine that implements continuous, interactive queries against Apache Kafka. It's built using the Kafka Streams API and further simplifies the job of

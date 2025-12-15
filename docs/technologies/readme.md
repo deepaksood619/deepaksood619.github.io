@@ -7,6 +7,7 @@
 	- [Apache Spark](technologies/apache-spark/readme.md)
 - [Kafka](kafka/readme.md)
 - [Confluent](technologies/confluent/readme.md)
+- [Flink](technologies/flink/readme.md)
 - [Elasticsearch](elasticsearch/readme.md)
 - [Brokers](brokers/readme.md)
 - [Celery](technologies/celery/readme.md)

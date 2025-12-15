@@ -116,6 +116,20 @@ JSON-LD is a lightweight Linked Data format. It is easy for humans to read and w
 
 Usage in structured data markup in Google Search - [Intro to How Structured Data Markup Works | Google Search Central  |  Documentation  |  Google for Developers](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data)
 
+## JSONATA
+
+query and transformation language
+
+[JSONata](https://jsonata.org/) is a declarative functional language for querying and transforming JSON data. It was inspired by the path semantics of XPath. Whereas other languages that are inspired by XPath also incorporate SQL-like elements[1](https://yokota.blog/2023/05/29/understanding-jsonata/#easy-footnote-bottom-1-3266), JSONata stays true to its XPath roots and augments the path semantics of XPath with additional features to increase its power.
+
+JSONata is powerful but it can take a while to get accustomed to its terse syntax. In this article I’ll discuss three aspects of JSONata that will help you understand some of the subtleties of the language.
+
+1. Sequences and Path Operators
+2. Object Constructors
+3. Contexts and Context Variable Binding
+
+[Understanding JSONata – Robert Yokota](https://yokota.blog/2023/05/29/understanding-jsonata/)
+
 ## References
 
 http://json.org

@@ -1,5 +1,9 @@
 # Kafka Guarantees
 
+- Messages sent by a producer to a topic and a partition are appended in the same order
+- A consumer instance gets the messages in the same order as they are produced
+- A topic with replication factor N, tolerates upto N-1 server failures
+
 ## Message Processing Guarantees
 
 - **No guarantee -** No explicit guarantee is provided, so consumers may process messages once, multiple times or never at all.
@@ -160,7 +164,7 @@ Kafka has **idempotent producers + transactions**:
     3. Send all events to Kafka.
     4. Commit Kafka transaction **AND** update outbox table status (`sent=true`) in the **same transactional flow**.
 
-👉 But here’s the catch: Kafka transactions and DB transactions are separate. You **cannot** commit both atomically in one step.
+But here’s the catch: Kafka transactions and DB transactions are separate. You **cannot** commit both atomically in one step.
 
 So you need a **transactional outbox + idempotent updates** pattern.
 
@@ -207,7 +211,7 @@ This avoids the "dual-write" problem entirely.
 - **CDC (Debezium)** is the cleanest and production-proven way.
 - If you roll your own relay, you must use **idempotent producer + unique event_id**.
 
-👉 So, **the safest way** to ensure EOS from Outbox → Kafka is:
+So, **the safest way** to ensure EOS from Outbox → Kafka is:
 
 - Use **CDC (Debezium Outbox pattern)** if possible.
 - If using a custom service, use **Kafka idempotent producer with unique event_id** + mark rows after commit.

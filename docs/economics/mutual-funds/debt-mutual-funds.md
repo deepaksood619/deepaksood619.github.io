@@ -162,6 +162,7 @@ If the mutual fund units are sold after 2 years from the date of investment, gai
 - [Should I invest in Income Plus Arbitrage Fund of Funds to lower tax liability?](https://freefincal.com/should-i-invest-in-income-plus-arbitrage-fund-of-funds-to-lower-tax-liability/)
 - [Can I use Parag Parikh Dynamic Asset Allocation Fund as a debt fund for a long-term goal?](https://freefincal.com/can-i-use-parag-parikh-dynamic-asset-allocation-fund-as-a-debt-fund-for-a-long-term-goal/)
 - [A Debt Investment Strategy for 30% Tax Slab Investors](https://freefincal.com/a-debt-investment-strategy-for-30-tax-slab-investors/)
+- [How is Parag Parikh Dynamic Asset Allocation fund (PPDAAF) able to achieve 10% annual return with 85% of allocated portfolio in Debt and Arbitrage which returns 7% ytm : r/IndiaInvestments](https://www.reddit.com/r/IndiaInvestments/comments/1jx9b6x/how_is_parag_parikh_dynamic_asset_allocation_fund/)
 
 ## Debt Funds vs Fixed Deposit (FD)
 

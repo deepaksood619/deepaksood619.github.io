@@ -12,6 +12,8 @@
 Kafka Connect's worker processes are the "container' processes that execute the connectors and tasks
 
 - Connectors and tasks are responsible for the "moving data" part of data integrations, while the workers are responsible for the REST API, configuration management, reliability, high availability, scaling, and load balancing
+- **Source Connectors** bring external data into Kafka (like capturing changes in Salesforce)
+- **Sink Connectors** send Kafka data to external systems (like pushing records into Elasticsearch)
 
 Kafka Connect is a tool for scalably and reliably streaming data between Apache Kafka and other systems. It makes it simple to quickly define *connectors* that move large collections of data into and out of Kafka. Kafka Connect can ingest entire databases or collect metrics from all your application servers into Kafka topics, making the data available for stream processing with low latency. An export job can deliver data from Kafka topics into secondary storage and query systems or into batch systems for offline analysis.
 
@@ -190,6 +192,7 @@ These single message transforms (SMTs) are available for use with Kafka Connect:
 
 ## References
 
+- [Confluent Marketplace: Apache Kafka Connectors for Streaming Data \| Confluent Hub: Apache Kafka Connectors for Streaming Data](https://www.confluent.io/hub/)
 - https://docs.confluent.io/current/connect/userguide.html
 - https://kafka.apache.org/documentation.html#connect
 - https://kafka.apache.org/documentation/#connectapi
