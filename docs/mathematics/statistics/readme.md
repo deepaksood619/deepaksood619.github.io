@@ -1,7 +1,7 @@
 # Statistics
 
 - [Intro](mathematics/statistics/intro.md)
-- [Glossary](glossary)
+- [Glossary](mathematics/statistics/glossary.md)
 - [Sampling](sampling)
 - [Ranking](mathematics/statistics/ranking.md)
 - [Crosstab](mathematics/statistics/crosstab.md)

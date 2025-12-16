@@ -103,21 +103,21 @@ In [theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_comp
 - Hazelcast IMDG and indeed most in-memory data grids are an implementation of a PA/EC system; Hazelcast can be configured to be EL rather than EC.Concurrency primitives (Lock, AtomicReference, CountDownLatch, etc.) can be either PC/EC or PA/EC.
 - [FaunaDB](https://news.ycombinator.com/item?id=18257128) implements [Calvin](http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf), a transaction protocol created by Dr. Daniel Abadi and author of PACELC theorem, and offers users adjustable controls for LC tradeoff. It is PC/EC for strictly serializable transactions, and EL for serializable reads.
 
-| **DDBS** | **P+A** | **P+C** | **E+L** | **E+C** |
-|---|---|---|---|---|
-| DynamoDB | Yes | Yes |
-| Cassandra | Yes | Yes |
-| Cosmos DB | Yes | Yes |
-| Couchbase | Yes | Yes | Yes |
-| Riak | Yes | Yes |
-| VoltDB/H-Store | Yes | Yes |
-| Megastore | Yes | Yes |
-| BigTable/HBase | Yes | Yes |
-| MySQL Cluster | Yes | Yes |
-| MongoDB | Yes | Yes |
-| PNUTS | Yes | Yes |
-| Hazelcast IMDG | Yes | Yes | Yes | Yes |
-| FaunaDB | Yes | Yes | Yes |
+| **DDBS**       | **P+A** | **P+C** | **E+L** | **E+C** |
+| -------------- | ------- | ------- | ------- | ------- |
+| DynamoDB       | Yes     | Yes     |         |         |
+| Cassandra      | Yes     | Yes     |         |         |
+| Cosmos DB      | Yes     | Yes     |         |         |
+| Couchbase      | Yes     | Yes     | Yes     |         |
+| Riak           | Yes     | Yes     |         |         |
+| VoltDB/H-Store | Yes     | Yes     |         |         |
+| Megastore      | Yes     | Yes     |         |         |
+| BigTable/HBase | Yes     | Yes     |         |         |
+| MySQL Cluster  | Yes     | Yes     |         |         |
+| MongoDB        | Yes     | Yes     |         |         |
+| PNUTS          | Yes     | Yes     |         |         |
+| Hazelcast IMDG | Yes     | Yes     | Yes     | Yes     |
+| FaunaDB        | Yes     | Yes     | Yes     |         |
 
 ## Links
 

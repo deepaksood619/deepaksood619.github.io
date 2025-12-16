@@ -226,7 +226,7 @@ To migrate objects with MySQL, use the mysqldump utility to generate a dump file
 
 Example:
 
-```
+```bash
 mysqldump --no-data --routines --events -h SOURCE_DB_SERVER_NAME -u DMS_USER -p SOURCE_DB > path_to_dump_file.sql
 ```
 

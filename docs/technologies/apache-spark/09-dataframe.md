@@ -132,7 +132,7 @@ Now, you only want to replace records for India.
 
 If you do this:
 
-```
+```python
 india_df = df.filter("country = 'India'")
 india_df.write.mode("overwrite").format("iceberg").saveAsTable("iceberg_jdbc.default.people_data_iceberg")
 ```
@@ -143,13 +143,13 @@ Boom — Spark overwrites the entire table unless you **enable dynamic partition
 
 To safely overwrite only specific partitions, you can enable a Spark config:
 
-```
+```python
 spark.conf.set("spark.sql.sources.partitionOverwriteMode", "dynamic")
 ```
 
 Then run:
 
-```
+```python
 india_df.write.mode("overwrite").format("iceberg").saveAsTable("iceberg_jdbc.default.people_data_iceberg")
 ```
 
@@ -159,7 +159,7 @@ Starting from Spark 3.1+, a **new, safer, and more expressive API** was introduc
 
 Here’s how it looks:
 
-```
+```python
 india_df.writeTo("iceberg_jdbc.default.people_data_iceberg").overwritePartitions()
 ```
 

@@ -12,6 +12,7 @@ Common game elements
 | Point system     | Reward for completing actions (that is, a numeric value that's added to the total points) |
 | Leaderboard      | Tracking and displaying desired actions to drive desired behavior through competition     |
 | User levels      | Indication of the user's proficiency in the overall gaming experience over time           |
+
 Two types of users -
 
 1. **Achievers -** are eager to complete the many challenges with which they're confronted.

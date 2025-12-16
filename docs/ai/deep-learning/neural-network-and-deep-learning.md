@@ -166,7 +166,7 @@ How do you compute the derivative of *b* in one line of code in Python numpy?
 
 Calculate % of calories from carb, protein, fat, without explicit for loop?
 
-```
+```python
 cal = A.sum(axis = 0)
 percentage = 100*A / (cal.reshape(1, 4))
 matrix (3, 4) / matrix (1, 4)

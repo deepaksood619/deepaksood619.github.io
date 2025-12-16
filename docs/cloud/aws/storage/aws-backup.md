@@ -35,6 +35,7 @@ AWS Backup is a fully-managed service that makes it easy to centralize and autom
 | **Amazon DocumentDB Cluster Snapshot**        | $0.023 per GB-Month | n/a*                    |
 | **Amazon Neptune Cluster Snapshot**           | $0.023 per GB-Month | n/a*                    |
 | **Amazon S3 Backup****† *****                 | $0.055 per GB-Month | n/a*                    |
+
 [AWS Backup Pricing | Centralized Cloud Backup | Amazon Web Services](https://aws.amazon.com/backup/pricing/)
 
 ## Links

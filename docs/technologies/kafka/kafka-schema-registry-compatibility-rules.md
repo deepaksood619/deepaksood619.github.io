@@ -101,6 +101,7 @@ Once a subject uses compatibility groups to accommodate breaking changes in the 
 The following video shows how an old producer and a new producer can both simultaneously interoperate with an old consumer and a new consumer, allowing producers and consumers to be both upgraded (or downgraded) independently, even with a normally incompatible change.
 
 [How to Evolve your Schemas with Migration Rules \| Data Quality Rules - YouTube](https://www.youtube.com/watch?v=RQeo6Y_7Ahc)
+
 - Migration Rules
 - Compatibility Groups
 
@@ -148,6 +149,7 @@ The following video shows how an old producer and a new producer can both simult
 ## Data Contracts
 
 [Data Contracts for Schema Registry on Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/sr/fundamentals/data-contracts.html)
+
 - [How To Improve Data Quality With Domain Validation Rules \| Data Quality Rules - YouTube](https://www.youtube.com/watch?v=3BoljGZf5as)
 
 ### Limitations

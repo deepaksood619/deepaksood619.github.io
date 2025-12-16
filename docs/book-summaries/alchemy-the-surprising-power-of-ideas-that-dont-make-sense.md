@@ -2,9 +2,9 @@
 
 Book by Rory Sutherland
 
-> "To be brilliant, you have to be irrational."- Rory Sutherland
+"To be brilliant, you have to be irrational."- Rory Sutherland
 
-> "A flower is simply a weed with an advertising budget." — Rory Sutherland
+"A flower is simply a weed with an advertising budget." — Rory Sutherland
 
 The book covers several different ideas, but ultimately it all comes down to the value of "psycho-logic":
 

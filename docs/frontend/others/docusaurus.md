@@ -148,6 +148,12 @@ algolia: {
 - [Gitten - Your Git Assistant](https://www.insightest.app/apps/gitten/#/)
 - [Docusaurus](https://docusaurus.io/feature-requests/p/make-content-editing-easier)
 
+## Compilation Errors Fixes
+
+- [How can I break a line in a cell in a markdown table? · facebook/docusaurus · Discussion #9085 · GitHub](https://github.com/facebook/docusaurus/discussions/9085)
+	- Use `<br/>` tag instead of `<br>` and there should be no indentation or spaces before or after the `<br/>` tag
+- Don't use `<` and `>` symbols
+
 ## Links
 
 - [Docusaurus](https://docusaurus.io/docs/blog)

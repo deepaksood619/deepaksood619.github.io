@@ -1,4 +1,4 @@
-## Amazon CloudFront
+# Amazon CloudFront
 
 Amazon CloudFront is a global Content Delivery Network (CDN) service which securely delivers website's dynamic, static, and streaming content by making it available from a global network of edge locations. Amazon CloudFront supports all types of files that can be served over HTTP.
 

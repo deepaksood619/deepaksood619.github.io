@@ -13,11 +13,12 @@ DHTs characteristically emphasize the following properties:
 - [Autonomy and decentralization](https://en.wikipedia.org/wiki/Decentralized_computing): the nodes collectively form the system without any central coordination.
 - [Fault tolerance](https://en.wikipedia.org/wiki/Fault_tolerance): the system should be reliable (in some sense) even with nodes continuously joining, leaving, and failing.
 - [Scalability](https://en.wikipedia.org/wiki/Scale_(computing)): the system should function efficiently even with thousands or millions of nodes.
-A key technique used to achieve these goals is that any one node needs to coordinate with only a few other nodes in the system -- most commonly, [O](https://en.wikipedia.org/wiki/Big_O_notation)(logn) of thenparticipants -- so that only a limited amount of work needs to be done for each change in membership.
+
+A key technique used to achieve these goals is that any one node needs to coordinate with only a few other nodes in the system -- most commonly, `O(logn)` of then participants -- so that only a limited amount of work needs to be done for each change in membership.
 
 ## Structure
 
-The structure of a DHT can be decomposed into several main components.The foundation is an abstractkeyspace, such as the set of 160-bit [strings](https://en.wikipedia.org/wiki/String_(computer_science)). Akeyspace partitioningscheme splits ownership of this keyspace among the participating nodes. Anoverlay networkthen connects the nodes, allowing them to find the owner of any given key in the keyspace.
+The structure of a DHT can be decomposed into several main components.The foundation is an abstract keyspace, such as the set of 160-bit [strings](https://en.wikipedia.org/wiki/String_(computer_science)). A keyspace partitioning scheme splits ownership of this keyspace among the participating nodes. An overlay network then connects the nodes, allowing them to find the owner of any given key in the keyspace.
 
 ## Keyspace partitioning
 
@@ -37,12 +38,12 @@ All DHT topologies share some variant of the most essential property: for any ke
 
 Beyond basic routing correctness, two important constraints on the topology are to guarantee that the maximum number of [hops](https://en.wikipedia.org/wiki/Hop_(networking)) in any route (route length) is low, so that requests complete quickly; and that the maximum number of neighbors of any node (maximum node [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory))) is low, so that maintenance overhead is not excessive. Of course, having shorter routes requires higher [maximum degree](https://en.wikipedia.org/wiki/Maximum_degree). Some common choices for maximum degree and route length are as follows, wherenis the number of nodes in the DHT, using [Big O notation](https://en.wikipedia.org/wiki/Big_O_notation):
 
-| **Max. degree** | **Max route length** | **Used in** | **Note** |
-|---|---|---|---|
-| O(1) | O(n) | Worst lookup lengths, with likely much slower lookups times |
-| O(log n) | O(log n) | [Chord](https://en.wikipedia.org/wiki/Chord_(peer-to-peer)), [Kademlia](https://en.wikipedia.org/wiki/Kademlia), [Pastry](https://en.wikipedia.org/wiki/Pastry_(DHT)), [Tapestry](https://en.wikipedia.org/wiki/Tapestry_(DHT)) | Most common, but not optimal (degree/route length). Chord is the most basic version, with Kademlia seeming the most popular optimized variant (should have improved average lookup) |
-| O(log n) | O(log n / log(log(n)) | [Koorde](https://en.wikipedia.org/wiki/Koorde) | Likely would be more complex to implement, but lookups might be faster (have a lower worst case bound) |
-| O(sqrt(x)) | O(1) | Worst local storage needs, with lots of communication after any node connects or disconnects |
+| **Max. degree** | **Max route length**  | **Used in**                                                                                                                                                                                                                     | **Note**                                                                                                                                                                            |
+| --------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| O(1)            | `O(n)`                  | Worst lookup lengths, with likely much slower lookups times                                                                                                                                                                     |                                                                                                                                                                                     |
+| O(log n)        | `O(log n)`             | [Chord](https://en.wikipedia.org/wiki/Chord_(peer-to-peer)), [Kademlia](https://en.wikipedia.org/wiki/Kademlia), [Pastry](https://en.wikipedia.org/wiki/Pastry_(DHT)), [Tapestry](https://en.wikipedia.org/wiki/Tapestry_(DHT)) | Most common, but not optimal (degree/route length). Chord is the most basic version, with Kademlia seeming the most popular optimized variant (should have improved average lookup) |
+| O(log n)        | `O(log n / log(log(n))` | [Koorde](https://en.wikipedia.org/wiki/Koorde)                                                                                                                                                                                  | Likely would be more complex to implement, but lookups might be faster (have a lower worst case bound)                                                                              |
+| O(sqrt(x))      | `O(1)`                  | Worst local storage needs, with lots of communication after any node connects or disconnects                                                                                                                                    |                                                                                                                                                                                     |
 
 ## References
 

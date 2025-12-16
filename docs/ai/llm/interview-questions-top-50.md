@@ -116,7 +116,7 @@ Multi-head attention splits queries, keys, and values into multiple subspaces, a
 
 The softmax function normalizes attention scores into a probability distribution:
 
-```
+```text
 softmax(xi) =
 exi
 ∑
@@ -130,7 +130,7 @@ In attention, it converts raw similarity scores (from query-key dot products) in
 
 In self-attention, the dot product between query (Q) and key (K) vectors computes similarity scores:
 
-```
+```text
 Score=
 Q·K
 √
@@ -143,7 +143,7 @@ High scores indicate relevant tokens. While efficient, its quadratic complexity 
 
 Cross-entropy loss measures the divergence between predicted and true token probabilities:
 
-```
+```text
 L=−
 ∑
 yilog(ˆyi)
@@ -155,7 +155,7 @@ It penalizes incorrect predictions, encouraging accurate token selection. In lan
 
 Gradients for embeddings are computed using the chain rule during backpropagation:
 
-```
+```text
 ∂L
 ∂E
 =
@@ -180,7 +180,7 @@ Eigenvectors define principal directions in data, and eigenvalues indicate their
 
 KL divergence quantifies the difference between two probability distributions:
 
-```
+```text
 DKL(P||Q) =
 ∑
 P(x)log
@@ -194,7 +194,7 @@ In LLMs, it evaluates how closely model predictions match true distributions, gu
 
 The ReLU function,f(x) =max(0,x), has a derivative:
 
-```
+```text
 f′(x) =
 {
 
@@ -208,7 +208,7 @@ Its sparsity and non-linearity prevent vanishing gradients, making ReLU computat
 
 The chain rule computes derivatives of composite functions:
 
-```
+```text
 d
 dx
 f(g(x)) =f′(g(x))·g′(x)
@@ -220,7 +220,7 @@ In gradient descent, it enables backpropagation to calculate gradients layer by 
 
 Attention scores are computed as:
 
-```
+```text
 Attention(Q,K,V) =softmax(
 QKT
 √

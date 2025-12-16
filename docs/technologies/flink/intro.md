@@ -5,6 +5,7 @@ Apache Flink is a stream processing framework that can also handle batch tasks. 
 This stream-first approach has been called the **Kappa architecture**, in contrast to the more widely known Lambda architecture (where batching is used as the primary processing method with streams used to supplement and provide early but unrefined results). Kappa architecture, where streams are used for everything, simplifies the model and has only recently become possible as stream processing engines have grown more sophisticated.
 
 The four cornerstones on which Flink is built
+
 1. Streaming
 2. State
 3. Time
@@ -28,6 +29,18 @@ Stream processing frameworks are purpose-built to manage state, ordering, and fa
 - A stream is a sequence of events
 - Business data is always a stream: bounded or unbounded
 - For Flink, batch processing is just a special case in the runtime
+
+## Use Cases of Apache Flink
+
+Although built as a generic data processor, Flink’s native support of unbounded streams contributed to its popularity as a stream processor. Flink’s common use cases are very similar to [Kafka’s use cases](https://www.confluent.io/learn/apache-kafka-benefits-and-use-cases/?session_ref=https%3A%2F%2Fwww.google.com%2F), although Flink and Kafka serve slightly different purposes. **Kafka usually provides the event streaming while Flink is used to process data from that stream. Flink and Kafka are commonly used together for:**
+
+- [**Batch processing**](https://www.confluent.io/learn/batch-processing/?session_ref=https%3A%2F%2Fwww.google.com%2F): Flink is good at processing bounded data sets, suitable for traditional batch processing tasks.
+- [**Stream processing**](https://www.confluent.io/learn/stream-processing/?session_ref=https%3A%2F%2Fwww.google.com%2F): Flink handles unbounded data streams for continuous, real-time processing.
+- [**Event-driven applications**](https://www.confluent.io/learn/event-driven-architecture/?session_ref=https%3A%2F%2Fwww.google.com%2F): Flink’s event stream capabilities make it valuable for fraud detection, credit card systems, and process monitoring.
+- **[Update stateful applications](https://nightlies.apache.org/flink/flink-docs-stable/docs/ops/state/checkpoints_vs_savepoints/) (savepoints)**: Flink’s stateful processing and savepoints ensure consistency during updates or failures.
+- **Streaming applications**: Real-time data processing to complex event pattern detection.
+- **[Data analytics](https://www.confluent.io/learn/real-time-data-and-analytics/?session_ref=https%3A%2F%2Fwww.google.com%2F) (batch, streaming)**: Ideal for real-time and historical data analysis.
+- **Data pipelines/ETL**: Flink is used in building pipelines for [ETL processes](https://www.confluent.io/learn/extract-transform-load/?session_ref=https%3A%2F%2Fwww.google.com%2F).
 
 ## Links
 

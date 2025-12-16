@@ -356,6 +356,7 @@ Unchecking the "**Play user interface sound effects**" doesn't disable all sound
 	- Trackpad - fast
 	- Display settings - Display text larger (1496 x 967)
 	- Dock settings - Turn Hiding On
+	- Control Centre Modules - Focus - Always show in menu bar
 
 #### Setting up Shell
 

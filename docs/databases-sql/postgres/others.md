@@ -61,6 +61,8 @@ https://www.cybertec-postgresql.com/en/pg_timetable-advanced-postgresql-job-sche
 | ltree              | data type for hierarchical tree-like structures                      |
 | pg_visibility      | examine the visibility map (VM) and page-level visibility info       |
 
+[GitHub - timescale/pg\_textsearch: PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.](https://github.com/timescale/pg_textsearch)
+
 ## pgagroal
 
 pgagroal is a high-performance protocol-native connection pool for [PostgreSQL](https://www.postgresql.org/).

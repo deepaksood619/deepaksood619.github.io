@@ -2,7 +2,7 @@
 
 [11 Free Google Sheets Project Management Templates](https://www.smartsheet.com/content/google-sheets-project-management-templates)
 
-## 1. Summary
+### 1. Summary
 
 1. **Start Date**
 
@@ -36,7 +36,7 @@
 
 * Indicate if this Project is part of a larger project.
 
-# 2. Log
+## 2. Log
 
 1. YYYY.MM.DD Headline of What done
     1. Detail 1
@@ -45,7 +45,7 @@
     1. Detail 1
     2. Detail 2
 
-# 3. Goals and Questions
+## 3. Goals and Questions
 
 1. Questions
 2. Scope
@@ -54,7 +54,7 @@
 3. Goal State
 4. Milestones
 
-# 4. Resources
+## 4. Resources
 
 1. Money
 2. Time
@@ -62,7 +62,7 @@
 4. Intellectual Property
 5. People
 
-# 5. Deliverables
+## 5. Deliverables
 
 1. Stage 1
     1. HH - Deliverable 1 - Due YYYY.MM.DD
@@ -79,7 +79,7 @@
         1. Detail 1
         2. Detail 2
 
-# 6. Tasks
+## 6. Tasks
 
 1. Stage 1
     1. 60 Task One
@@ -97,7 +97,7 @@
     3. 90 Task Three
     4. 15 Task Four
 
-# 7. Ideas
+## 7. Ideas
 
 1. YYYY.MM.DD
     1. Idea 1

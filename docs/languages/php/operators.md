@@ -12,15 +12,15 @@ There are following arithmetic operators supported by PHP language −
 
 Assume variable A holds 10 and variable B holds 20 then −
 
-| Operator | Description                                                 | Example              |
-|----------|----------------------------------------------|----------------|
-| +       | Adds two operands                                           | A + B will give 30   |
-| - | Subtracts second operand from the first                     | A - B will give -10  |
-| *       | Multiply both operands                                      | A * B will give 200 |
-| /        | Divide numerator by de-numerator                            | B / A will give 2    |
-| %       | Modulus Operator and remainder of after an integer division | B % A will give 0    |
-| ++       | Increment operator, increases integer value by one          | A++ will give 11     |
-| --  | Decrement operator, decreases integer value by one          | A-- will give 9     |
+| Operator | Description                                                 | Example             |
+| -------- | ----------------------------------------------------------- | ------------------- |
+| +        | Adds two operands                                           | A + B will give 30  |
+| -        | Subtracts second operand from the first                     | A - B will give -10 |
+| *        | Multiply both operands                                      | A * B will give 200 |
+| /        | Divide numerator by de-numerator                            | B / A will give 2   |
+| %        | Modulus Operator and remainder of after an integer division | B % A will give 0   |
+| ++       | Increment operator, increases integer value by one          | A++ will give 11    |
+| --       | Decrement operator, decreases integer value by one          | A-- will give 9     |
 
 ## Comparison Operators
 
@@ -28,14 +28,14 @@ There are following comparison operators supported by PHP language
 
 Assume variable A holds 10 and variable B holds 20 then −
 
-| Operator | Description                                                                                                                     | Example                |
-|----------|--------------------------------------------------|-------------|
-| ==       | Checks if the value of two operands are equal or not, if yes then condition becomes true.                                       | (A == B) is not true.  |
-| !=       | Checks if the value of two operands are equal or not, if values are not equal then condition becomes true.                      | (A != B) is true.      |
-| `>`       | Checks if the value of left operand is greater than the value of right operand, if yes then condition becomes true.             | `(A > B)` is not true.  |
-| `<`       | Checks if the value of left operand is less than the value of right operand, if yes then condition becomes true.                | `(A < B)` is true.      |
-| `>=`      | Checks if the value of left operand is greater than or equal to the value of right operand, if yes then condition becomes true. | `(A >= B)` is not true. |
-| `<=`      | Checks if the value of left operand is less than or equal to the value of right operand, if yes then condition becomes true.    | `(A <= B)` is true.     |
+| Operator | Description                                                                                                                     | Example                 |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| ==       | Checks if the value of two operands are equal or not, if yes then condition becomes true.                                       | (A == B) is not true.   |
+| !=       | Checks if the value of two operands are equal or not, if values are not equal then condition becomes true.                      | (A != B) is true.       |
+| `>`      | Checks if the value of left operand is greater than the value of right operand, if yes then condition becomes true.             | `(A > B)` is not true.  |
+| `<`      | Checks if the value of left operand is less than the value of right operand, if yes then condition becomes true.                | `(A < B)` is true.      |
+| `>=`     | Checks if the value of left operand is greater than or equal to the value of right operand, if yes then condition becomes true. | `(A >= B)` is not true. |
+| `<=`     | Checks if the value of left operand is less than or equal to the value of right operand, if yes then condition becomes true.    | `(A <= B)` is true.     |
 
 ## Logical Operators
 
@@ -44,11 +44,11 @@ There are following logical operators supported by PHP language
 Assume variable A holds 10 and variable B holds 20 then −
 
 | Operator | Description                                                                                                                                      | Example             |
-|----------|----------------------------------------------------|-----------|
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- |
 | and      | Called Logical AND operator. If both the operands are true then condition becomes true.                                                          | (A and B) is true.  |
 | or       | Called Logical OR Operator. If any of the two operands are non zero then condition becomes true.                                                 | (A or B) is true.   |
 | &&       | Called Logical AND operator. If both the operands are non zero then condition becomes true.                                                      | (A && B) is true.   |
-| ||     | Called Logical OR Operator. If any of the two operands are non zero then condition becomes true.                                                 | (A || B) is true. |
+| `\|`     | Called Logical OR Operator. If any of the two operands are non zero then condition becomes true.                                                 | (`A \| B`) is true. |
 | !        | Called Logical NOT Operator. Use to reverses the logical state of its operand. If a condition is true then Logical NOT operator will make false. | !(A && B) is false. |
 
 ## Assignment Operators
@@ -56,11 +56,11 @@ Assume variable A holds 10 and variable B holds 20 then −
 There are following assignment operators supported by PHP language −
 
 | Operator | Description                                                                                                               | Example                                     |
-|----------|--------------------------------------------|-------------------|
+| -------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
 | =        | Simple assignment operator, Assigns values from right side operands to left side operand                                  | C = A + B will assign value of A + B into C |
 | +=       | Add AND assignment operator, It adds right operand to the left operand and assign the result to left operand              | C += A is equivalent to C = C + A           |
 | -=       | Subtract AND assignment operator, It subtracts right operand from the left operand and assign the result to left operand  | C -= A is equivalent to C = C - A           |
-| *=      | Multiply AND assignment operator, It multiplies right operand with the left operand and assign the result to left operand | C *= A is equivalent to C = C* A         |
+| *=       | Multiply AND assignment operator, It multiplies right operand with the left operand and assign the result to left operand | C *= A is equivalent to C = C* A            |
 | /=       | Divide AND assignment operator, It divides left operand with the right operand and assign the result to left operand      | C /= A is equivalent to C = C / A           |
 | %=       | Modulus AND assignment operator, It takes modulus using two operands and assign the result to left operand                | C %= A is equivalent to C = C % A           |
 
@@ -89,16 +89,16 @@ For example x = 7 + 3 *2; Here x is assigned 13, not 20 because operator* has hi
 
 Here operators with the highest precedence appear at the top of the table, those with the lowest appear at the bottom. Within an expression, higher precedence operators will be evaluated first.
 
-| Category       | Operator          | Associativity |
-|----------------|-------------------|---------------|
-| Unary          | ! ++ --    | Right to left |
-| Multiplicative | * / %            | Left to right |
-| Additive       | + -        | Left to right |
-| Relational     | `< <= > >=`     | Left to right |
-| Equality       | == !=             | Left to right |
-| Logical AND    | &&                | Left to right |
-| Logical OR     | ||              | Left to right |
-| Conditional    | ?:                | Right to left |
-| Assignment     | = += -= *= /= %= | Right to left |
+| Category       | Operator           | Associativity |
+| -------------- | ------------------ | ------------- |
+| Unary          | `! ++ --`          | Right to left |
+| Multiplicative | `* / %`            | Left to right |
+| Additive       | `+ -`              | Left to right |
+| Relational     | `< <= > >=`        | Left to right |
+| Equality       | `== !=`            | Left to right |
+| Logical AND    | `&&`               | Left to right |
+| Logical OR     | `\|\|`             | Left to right |
+| Conditional    | `?:`               | Right to left |
+| Assignment     | `= += -= *= /= %=` | Right to left |
 
 https://www.tutorialspoint.com/php/php_operator_types.htm

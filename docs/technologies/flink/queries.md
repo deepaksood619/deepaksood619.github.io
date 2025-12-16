@@ -54,7 +54,7 @@ FROM
 		SIZE => INTERVAL '5' MINUTES)
 GROUP BY movie_id, window_start, window_end,
 	window_time;
-	
+
 -- Create a table for movies
 CREATE TABLE movies (
 	movie_id INT,

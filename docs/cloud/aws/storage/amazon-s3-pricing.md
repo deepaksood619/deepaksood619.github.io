@@ -55,6 +55,7 @@ S3 Intelligent-Tiering is the ideal storage class for data with unknown, changin
 | S3 Standard - Infrequent Access | $0.0138 per GB | $6.9   | $27.6 | 44.8%                   |
 | S3 Glacier Flexible Retrieval   | $0.0045 per GB | $2.25  | $9    | 82%                     |
 | S3 Glacier Deep Archive         | $0.002 per GB  | $1     | $4    | 92%                     |
+
 *All costs are monthly costs*
 
 There are no S3 data transfer charges when data is transferred in from the internet. Also with **S3TA (S3 Transfer Acceleration), you pay only for transfers that are accelerated.** Therefore you do not need to pay any transfer charges for the image upload if S3TA did not result in an accelerated transfer.

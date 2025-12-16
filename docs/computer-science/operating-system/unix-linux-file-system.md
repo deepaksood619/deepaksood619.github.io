@@ -183,11 +183,12 @@ In [Unix](https://en.wikipedia.org/wiki/Unix) and [related](https://en.wikipedia
 Each Unix [process](https://en.wikipedia.org/wiki/Process_(computing))(except perhaps a [daemon](https://en.wikipedia.org/wiki/Daemon_(computer_software))) should expect to have three standard POSIX file descriptors, corresponding to the three [standard streams](https://en.wikipedia.org/wiki/Standard_streams):
 
 | Integer value | Name                                                    | symbolic constant | file stream |
-|-------------|---------------|--------------------------|-------------------|
-| 0             | [Standard input](https://en.wikipedia.org/wiki/Stdin)   | STDIN_FILENO                                                                                                                               | stdin                                                                                                                              |
-| 1             | [Standard output](https://en.wikipedia.org/wiki/Stdout) | STDOUT_FILENO                                                                                                                              | stdout                                                                                                                             |
-| 2             | [Standard error](https://en.wikipedia.org/wiki/Stderr)  | STDERR_FILENO                                                                                                                              | stderr                                                                                                                             |
-/proc/113/fd -> 0,1,2 -> 2>&1
+| ------------- | ------------------------------------------------------- | ----------------- | ----------- |
+| 0             | [Standard input](https://en.wikipedia.org/wiki/Stdin)   | STDIN_FILENO      | stdin       |
+| 1             | [Standard output](https://en.wikipedia.org/wiki/Stdout) | STDOUT_FILENO     | stdout      |
+| 2             | [Standard error](https://en.wikipedia.org/wiki/Stderr)  | STDERR_FILENO     | stderr      |
+
+`/proc/113/fd -> 0,1,2 -> 2>&1`
 
 https://en.wikipedia.org/wiki/File_descriptor
 
@@ -247,15 +248,16 @@ In this mode, file permissions are not represented as characters but a three-dig
 The table below gives numbers for all for permissions types.
 
 | Number | Permission Type       | Symbol |
-|--------|-----------------------|--------|
-| 0      | No Permission         | --- |
-| 1      | Execute               | --x   |
-| 2      | Write                 | -w- |
+| ------ | --------------------- | ------ |
+| 0      | No Permission         | ---    |
+| 1      | Execute               | --x    |
+| 2      | Write                 | -w-    |
 | 3      | Execute + Write       | -wx    |
-| 4      | Read                  | r-- |
+| 4      | Read                  | r--    |
 | 5      | Read + Execute        | r-x    |
-| 6      | Read + Write          | rw- |
+| 6      | Read + Write          | rw-    |
 | 7      | Read + Write +Execute | rwx    |
+
 Let's see the chmod command in action.
 
 ![image](../../media/Unix-Linux-File-System-image4.jpg)
@@ -278,16 +280,16 @@ This is how you can change the permissions on file by assigning an absolute numb
 
 In the Absolute mode, you change permissions for all 3 owners. In the symbolic mode, you can modify permissions of a specific owner. It makes use of mathematical symbols to modify the file permissions.
 
-| Operator | Description |
-|---|---|
-| + | Adds a permission to a file or directory |
-| - | Removes the permission |
-| = | Sets the permission and overrides the permissions set earlier. |
+| Operator | Description                                                    |
+| -------- | -------------------------------------------------------------- |
+| +        | Adds a permission to a file or directory                       |
+| -        | Removes the permission                                         |
+| =        | Sets the permission and overrides the permissions set earlier. |
 
 The various owners are represented as -
 
-| User Denotations |           |
-|------------------|------------|
+| User Denotations |            |
+| ---------------- | ---------- |
 | u                | user/owner |
 | g                | group      |
 | o                | other      |
