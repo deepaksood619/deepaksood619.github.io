@@ -68,6 +68,12 @@
 
 - [confluent](courses/confluent.md)
 - [confluent-certified-cloud-operator-ccac](courses/confluent-certified-cloud-operator-ccac.md)
+- Confluent Data Streaming Engineer Certified - [Accredible • Certificates, Badges and Blockchain](https://certificates.confluent.io/75ae3a5e-8223-482e-94fc-74debafca0db#acc.dWJSzR32)
+	- Issued on - 17 December 2025
+	- Expires on - 17 December 2027
+	- **Score: 97%**
+
+![Confluent Data Streaming Engineer Certified](../media/Screenshot%202025-12-18%20at%2012.24.22%20AM%20(2).png)
 
 ### AWS
 

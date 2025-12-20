@@ -174,13 +174,6 @@ In-sync replicas is the subset of the replicas list that is currently alive and 
     - retention
         - *log compacted,* which means that Kafka will retain only the last message produced with a specific key.
         - **Log compaction**
-
-Log compaction is a mechanism to give finer-grained per-record retention, rather than the coarser-grained time-based retention. The idea is to selectively remove records where we have a more recent update with the same primary key. This way the log is guaranteed to have at least the last state for each key.
-
-![image](../../media/Technologies-Kafka-Intro-image2.jpg)
-
-https://towardsdatascience.com/log-compacted-topics-in-apache-kafka-b1aa1e4665a7
-
 - Multiple clusters
     - The replication mechanisms within the Kafka clusters are designed only to work within a single cluster, not between multiple clusters
 - Named after writer *Franz Kafka*
@@ -198,6 +191,11 @@ https://towardsdatascience.com/log-compacted-topics-in-apache-kafka-b1aa1e4665a7
 - [Introduction to Apache Kafka \| PPT](https://www.slideshare.net/slideshow/introduction-to-apache-kafka-239053578/239053578)
 - [Fundamentals for Apache Kafka](https://www.anuragkapur.com/assets/blog/engineering/apache-kafka/slidesapachekafkaarchitecturefundamentalsexplained1579807020653.pdf)
 	- [Apache Kafka Architecture & Fundamentals Explained \| PPT](https://www.slideshare.net/slideshow/apache-kafka-architecture-fundamentals-explained/184949786)
+
+## Learning
+
+- [GitHub - deepaksood619/cp-sandbox: Docker-compose file for Confluent Kafka with configuration mounted as properties files. Brings up Kafka and components with JMX metrics exposed and visualized using Prometheus and Grafana](https://github.com/deepaksood619/cp-sandbox)
+- [GitHub - Irtebat/cfk-reference-deployments](https://github.com/Irtebat/cfk-reference-deployments)
 
 ## References
 

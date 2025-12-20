@@ -130,3 +130,4 @@ The composition of the NASDAQ Composite is heavily weighted towards companies in
 
 - [DSP Global Equity Fund: Should you invest in this retail offshore MF from GIFT City?](https://freefincal.com/dsp-global-equity-fund-should-you-invest-in-this-retail-offshore-mf-from-gift-city/)
 - [Investing via Gift City: basic considerations](https://freefincal.com/investing-via-gift-city-basic-considerations/)
+- [Why is S&P always recommended over NASDAQ even though it underperforms? : r/Fire](https://www.reddit.com/r/Fire/comments/17rjnhk/why_is_sp_always_recommended_over_nasdaq_even/)

@@ -2,7 +2,20 @@
 
 ## Programmers Burnout
 
-https://medium.com/hackernoon/why-theres-so-much-burnout-in-software-and-what-to-do-about-it-4ef0297ca7cc
+[Why There’s so Much Burnout in Software and What To Do About It \| by Nemil Dalal \| HackerNoon.com \| Medium](https://medium.com/hackernoon/why-theres-so-much-burnout-in-software-and-what-to-do-about-it-4ef0297ca7cc)
+
+[10 Tips for Aspiring Developers in 2026 - YouTube](https://www.youtube.com/watch?v=bh0lQdX7g6Y)
+
+- You don't need to know everything
+- Learn how to learn
+- Perfection is a trap
+- You'll never feel ready
+- The real skill is problem-solving
+- Nobody cares about your code
+- Use AI as a tool, not a crutch
+- Build in public
+- Master the fundamentals
+- Protect your energy
 
 ## Why We Burnout
 

@@ -79,6 +79,7 @@ https://joinditto.in
 	- Axis Max Life
 	- Reliance Nippon Life
 - [Term Insurance: How to get 2x sum assured at 1/3rd price? \| Masterclass 2025 - YouTube](https://youtu.be/liuKy5IVcHU)
+- [Should I surrender my traditional life insurance policy?](https://freefincal.com/should-i-surrender-my-traditional-life-insurance-policy/)
 
 ### ULIPs (Unit Linked Insurance Products)
 

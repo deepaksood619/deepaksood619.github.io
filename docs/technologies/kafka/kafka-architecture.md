@@ -171,6 +171,6 @@ Another caveat with Kafka is unclean leader elections. That is, if all replicas 
 
 ## References
 
-http://cloudurable.com/blog/what-is-kafka/index.html
-
-https://medium.com/swlh/why-kafka-is-so-fast-bde0d987cd03
+- http://cloudurable.com/blog/what-is-kafka/index.html
+- https://medium.com/swlh/why-kafka-is-so-fast-bde0d987cd03
+- [Apache Kafka® Architecture \| Kafka's Internal Components and How They Work - YouTube](https://www.youtube.com/playlist?list=PLa7VYi0yPIH14oEOfwbcE9_gM5lOZ4ICN)

@@ -30,6 +30,8 @@ The Exam consists of 30 multiple choice and true-false questions. You are provid
 4. [Schema Registry 101](https://developer.confluent.io/courses/schema-registry/key-concepts/)
 5. [Kafka® Streams 101](https://developer.confluent.io/courses/kafka-streams/get-started/)
 
+[Accredible • Certificates, Badges and Blockchain](https://certificates.confluent.io/75ae3a5e-8223-482e-94fc-74debafca0db#acc.dWJSzR32)
+
 ## Links
 
 - [Learn Apache Kafka® & Flink®](https://developer.confluent.io/courses/)

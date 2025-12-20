@@ -10,7 +10,7 @@ The **JobManager distributes the work onto the TaskManagers**, where the actual 
 
 When deploying Flink, there are often multiple options available for each building block. We have listed them in the table below the figure.
 
-![](media/Screenshot%202025-12-16%20at%2010.49.46%20PM.png)
+![Flink Components](../../media/Screenshot%202025-12-16%20at%2010.49.46%20PM.png)
 
 ## Flink Components
 

@@ -14,12 +14,14 @@ Kafka Streams is a client library for processing and analyzing data stored in Ka
 
 Kafka Streams has a **low barrier to entry**: You can quickly write and run a small-scale proof-of-concept on a single machine; and you only need to run additional instances of your application on multiple machines to scale up to high-volume production workloads. Kafka Streams transparently handles the load balancing of multiple instances of the same application by leveraging Kafka's parallelism model.
 
+**Building blocks -** Filtering, Grouping, Aggregating, Joining
+
 ## KSTREAM VS. KTABLE
 
 There are two key concepts in Kafka Streams: KStream and KTable. A topic can be viewed as either of the two. Their differences are summarized in the table below.
 
-|            | **KSTREAM**                                        | **KTABLE**                                             |
-|-----------|------------------------------|-------------------------------|
+|             | **KSTREAM**                                        | **KTABLE**                                             |
+| ----------- | -------------------------------------------------- | ------------------------------------------------------ |
 | **CONCEPT** | Each record is treated as an append to the stream. | Each record is treated as an update to an existing key |
 | **USAGE**   | Model append-only data such as click streams.      | Model updatable reference data such as user profiles   |
 

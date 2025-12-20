@@ -115,3 +115,7 @@ WHERE event_details:account_id::int = 12345
 - **Orphan file deletion** – Orphan files are files that are no longer referenced by the Iceberg table metadata. These files can accumulate over time, especially after operations like table deletions or failed ETL jobs. Enabling orphan file deletion allows AWS Glue to periodically identify and remove these unnecessary files, freeing up storage.
 
 [Optimizing Iceberg tables - AWS Glue](https://docs.aws.amazon.com/glue/latest/dg/table-optimizers.html)
+
+## Links
+
+- [Iceberg in the Browser – DuckDB](https://duckdb.org/2025/12/16/iceberg-in-the-browser)

@@ -141,6 +141,7 @@ Open two instance of same application - **open -n MQTT.fx.app**
     - [**ShareDrop**](https://www.sharedrop.io/)
     - **Localsend**
 - Office
+- Screensaver - https://zzz.zoomquilt2.com/
 
 ### Spotlight Alternative
 
@@ -400,10 +401,10 @@ Unchecking the "**Play user interface sound effects**" doesn't disable all sound
 
 #### Natural Text Editing
 
-- Go to **Preferences...**>**Profiles**>**Keys > Key Mappings** (not Preferences... > Keys)
+- Go to **Preferences...**>**Profiles**>Default>**Keys > Key Bindings** (not Preferences... > Keys)
 - Press **Presets...**
 - Select **Natural Text Editing**
-- Then, you can move a word backwards usingOption ⌥+←and a word forwards usingOption ⌥+→, move to the start of the line usingfn+←and to the end of the line withfn+→. Also you can delete a word backwards usingOption ⌥+⌫, delete the whole line usingCommand ⌘+⌫.
+- Then, you can move a word backwards using `Option ⌥+←` and a word forwards using `Option ⌥+→`, move to the start of the line using `fn+←` and to the end of the line with `fn+→`. Also you can delete a word backwards using `Option ⌥+⌫`, delete the whole line using `Command ⌘+⌫`.
 
 #### ~/.zshrc
 

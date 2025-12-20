@@ -27,6 +27,11 @@ The intelligence cycle is an idealized model of how intelligence is processed in
 - [The World Population Crisis NO ONE Sees Coming](https://youtu.be/tk5KoWUwz6Q)
 - [Japan's population crisis reaches tipping point | FT Film](https://youtu.be/nmdujC0MUKA)
 
+## Gun Violence
+
+- [How scientists radically reduced US gun violence (no gun ban) - YouTube](https://www.youtube.com/watch?v=F-9RCKKvoJw)
+- [My Quest to End the Horror of Gun Violence in the US | Lucy McBath | TED](https://youtu.be/oQ7x0OJEPNM?si=YiZTOCctfBJkTmZa)
+
 ## Others
 
 - [donations](about-deepak-sood/ideas/donations.md)

@@ -42,6 +42,10 @@ Although built as a generic data processor, Flink’s native support of unbounde
 - **[Data analytics](https://www.confluent.io/learn/real-time-data-and-analytics/?session_ref=https%3A%2F%2Fwww.google.com%2F) (batch, streaming)**: Ideal for real-time and historical data analysis.
 - **Data pipelines/ETL**: Flink is used in building pipelines for [ETL processes](https://www.confluent.io/learn/extract-transform-load/?session_ref=https%3A%2F%2Fwww.google.com%2F).
 
+## Others
+
+- A consequence of using the "group by" operation in Flink is: Messages will be repartitioned across the cluster.
+
 ## Links
 
 - [06-sliding-window-analytics](technologies/apache-spark/06-sliding-window-analytics.md)

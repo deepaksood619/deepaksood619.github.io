@@ -11,6 +11,8 @@
 	- [confluent-platform](technologies/confluent/confluent-platform.md)
 - [confluent-cloud-vs-confluent-platform](technologies/confluent/confluent-cloud-vs-confluent-platform.md)
 - [commands](technologies/confluent/commands.md)
+- [cli-tools](technologies/confluent/cli-tools.md)
+- [pricing](technologies/confluent/pricing.md)
 
 ## Links
 

@@ -287,9 +287,11 @@ Why kicking out children after 18 years is important, let's say you are very wea
 8. Honor the power of slowness
 9. Create a bridge before goodbye
 
+[Smart Kids Aren’t Made With ABC & 123 (Use These 3 Principles Instead) - YouTube](https://www.youtube.com/watch?v=coIei0_6O7g)
+
 [5 Tiny Habits That Supercharge Your Child's Brain Development \| Dr. Arif Khan - YouTube](https://youtu.be/WJsiBOuXQvA)
 
-- Serve and Return
+- **Serve and Return**
 - Read one book everyday
 - Consistent sleep routine
 - Let them struggle a little

@@ -10,6 +10,7 @@
 - [Kafka Producers](kafka-producers)
 - [Kafka Consumers](kafka-consumers)
 - [Kafka Guarantees](technologies/kafka/kafka-guarantees.md)
+- [Log Compaction](technologies/kafka/log-compaction.md)
 - [Kafka Connect](kafka-connect)
 - [Kafka Streams](kafka-streams)
 - [kafka-rest proxy](kafka-rest-proxy)
