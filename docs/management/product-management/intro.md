@@ -268,8 +268,7 @@ https://www.lennysnewsletter.com/p/a-product-managers-guide-to-web3
 
 ## Resources
 
-https://www.lennysnewsletter.com
-
-https://noidea.dog/glue
-
-[Inside The Product](https://www.youtube.com/c/InsideTheProduct)
+- https://www.lennysnewsletter.com
+- https://noidea.dog/glue
+- [Inside The Product](https://www.youtube.com/c/InsideTheProduct)
+- [The Product Model at Google - Silicon Valley Product Group : Silicon Valley Product Group](https://www.svpg.com/the-product-model-at-google/)

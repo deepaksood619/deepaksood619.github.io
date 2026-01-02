@@ -466,3 +466,4 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [Finnish Parenting Secrets: Raise Calm Kids Without Punishment - YouTube](https://youtu.be/p39qRvzhU6w)
 - [Brain Science Tips I Wish I Learned Before Yelling at Toddler - YouTube](https://youtu.be/vWFDaTabp90)
 - [Why Homeschool Parents Are So Effective Without Teaching Degrees \| The Good and the Beautiful - YouTube](https://youtu.be/7Af7MwSupEQ)
+- [Dyslexia - Wikipedia](https://en.wikipedia.org/wiki/Dyslexia)

@@ -168,19 +168,23 @@ tar -xzvf k9s_Linux_amd64.tar.gz
 mv k9s /usr/bin
 
 k9s -n <namespace>
-ctrl + r - refresh
-ctrl + h - toggle header
-ctrl + a - show all resources
-shift + f - port forward
-
-f - show port forward
-ctrl + d - delete port forward
 
 # Shortcuts
     ? (shift + /) - help show commands
     :q - quit
     :a - api resources
     :h - help
+
+ctrl + r - refresh
+ctrl + a - show all resources
+shift + f - port forward
+
+f - show port forward
+ctrl + d - delete port forward
+
+ctrl + e - toggle header
+ctrl + g - toggle crumbs
+ctrl + w - toggle wide
 ```
 
 https://github.com/derailed/k9s

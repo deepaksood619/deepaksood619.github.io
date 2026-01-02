@@ -148,16 +148,31 @@ As per the amendment in the Finance Act 2021, with effect from 1st April 2021, t
 
 - Up to three years from the end of the relevant assessment year in normal cases and
 - Beyond three years but not more than ten years from the end of the relevant assessment year, if the assessing officer has material evidence that income of Rs.50 lakh or more for a financial year has escaped assessment.
+- [Income Tax Notice - How To Check And Authenticate?](https://cleartax.in/s/income-tax-notice)
+- [Tax dept won’t be able to re-open ITR after 3 yrs from filing](https://economictimes.indiatimes.com/wealth/personal-finance-news/tax-dept-wont-be-able-to-re-open-itr-after-3-yrs-from-filing/articleshow/80627970.cms?from=mdr)
+- [Summary of Penalties Under the Income Tax Act](https://cleartax.in/s/income-tax-act-penalties)
+- [Penalty Under Income Tax Act](https://cleartax.in/s/penalty-income-tax-act)
+- [Section 148 of Income Tax Act: Notice Under Assessment or Reassessment](https://cleartax.in/s/notice-section-148-income-tax-act)
 
-[Income Tax Notice - How To Check And Authenticate?](https://cleartax.in/s/income-tax-notice)
+### Income Tax Interest Rates
 
-[Tax dept won’t be able to re-open ITR after 3 yrs from filing](https://economictimes.indiatimes.com/wealth/personal-finance-news/tax-dept-wont-be-able-to-re-open-itr-after-3-yrs-from-filing/articleshow/80627970.cms?from=mdr)
+In India, interest on late tax payments for 2025 is primarily charged at **1% per month** (or part of a month) under various sections of the Income Tax Act.
 
-[Summary of Penalties Under the Income Tax Act](https://cleartax.in/s/income-tax-act-penalties)
-
-[Penalty Under Income Tax Act](https://cleartax.in/s/penalty-income-tax-act)
-
-[Section 148 of Income Tax Act: Notice Under Assessment or Reassessment](https://cleartax.in/s/notice-section-148-income-tax-act)
+- **Delay in Filing Return (Section 234A):** If you file your Income Tax Return (ITR) after the due date, simple interest of **1% per month** is charged on the unpaid tax from the day after the due date until the actual filing date.
+- **Default in Advance Tax (Section 234B):** If you fail to pay at least **90%** of your total tax liability as advance tax by March 31, interest of **1% per month** is charged starting from April 1 of the assessment year until the date you pay the tax.
+- **Deferment of Advance Tax (Section 234C):** If you miss quarterly advance tax installments or pay less than the required percentage, interest of **1% per month** is charged on the shortfall.
+    - **15%** of tax by June 15
+    - **45%** by Sept 15
+    - **75%** by Dec 15
+    - **100%** by March 15
+- **Late Payment of Demand Notice (Section 220(2)):** If you fail to pay tax within 30 days of receiving a demand notice, simple interest of **1% per month** is charged.
+- **Late Filing Fees (Section 234F)** - Separate from interest, a mandatory late fee applies if the ITR is filed after the due date but on or before December 31, 2025:
+	- **₹5,000** if total income exceeds ₹5 lakh.
+	- **₹1,000** if total income is ₹5 lakh or less.
+- **TDS Late Payment Interest** - If you are responsible for deducting tax at source (TDS) and delay payment:
+	- **1.5% per month** for late deposit after deduction.
+	- **1% per month** for failure to deduct tax at source.
+- **Other Taxes (GST)** - For **Goods & Services Tax (GST)**, the interest rate for late payment is generally **18% per annum** (approx. 1.5% per month) on the net tax liability.
 
 ## Links
 

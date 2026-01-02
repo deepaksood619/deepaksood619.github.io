@@ -374,6 +374,12 @@ Parasocial interaction(PSI) refers to a kind of [psychological relationship](htt
 
 https://en.wikipedia.org/wiki/Parasocial_interaction
 
+## Types of People in Life
+
+1. **Leaf People -** These people come into your life for a short time. You can't rely on them because they are not strong. They only take what they need, then they leave.
+2. **Branch People -** They seem strong, but they break away when things get tough. They stay for a while, but when life gets harder, they disappear.
+3. **Root People -** These are the most important people. They don't help just to be noticed. They stay with you through hard times. They support you, care for you, and accept you as you are. Root people stay, no matter the season.
+
 ## Classes
 
 [Rich Class , Middle Class And Lower Class | A Different Emotion Defining Them - YouTube](https://www.youtube.com/watch?v=0q04x6QKSC4)

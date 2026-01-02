@@ -92,6 +92,7 @@ https://www.paytmmoney.com/blog/emergency-funds
 
 - Quarterly Interest at 8.2% - Rs. 61,500 (Rs. 20,500 monthly)
 	- https://cleartax.in/s/scss-calculator
+	- SCSS interest is paid quarterly (every three months) **on the first working day of April, July, October, and January**, and credited directly to your savings account. While calculated quarterly, the interest earned is fully taxable and subject to TDS if it exceeds the threshold.
 - **only one time deposit**
 - **no partial withdrawal**
 - This is allowed only after 1 complete year. After 1 year and before 2 years, 1.5% interest is deducted and the rest is paid out. After 2 years and before Maturity, 1% interest is deducted. After 3 years, premature closure is allowed without any deduction of interest. Use Form E as application for premature account closure.

@@ -54,6 +54,17 @@ RAS - robotic assisted surgery
 
 [Gallbladder Surgery (Removal): WATCH THIS! - YouTube](https://www.youtube.com/watch?v=CmwDBs_CvI8)
 
+## Cough
+
+- **Barking cough**, where a child's cough sounds deep, like a bark from a seal or dog.
+- **Whooping cough**, where your child has short, violent coughs sometimes followed by an intake of breath that sounds like a whoop.
+- **Coughing and wheezing**. Wheezing is a high-pitched whistling sound when a person breathes.
+- **Dry cough**, where your child coughs and does not produce any phlegm or mucus.
+- **Productive or wet cough**, when a child coughs and produces mucus or phlegm.
+- **Persistent cough**, which is a cough that lasts for more than 3 weeks and may worsen in severity.
+
+[What your child's cough is telling you](https://www.childrens.com/health-wellness/what-your-childs-cough-is-telling-you)
+
 ## Health
 
 [The Future of Health: What Does Good Health Mean?](https://youtu.be/GXeSoN_8zC4)

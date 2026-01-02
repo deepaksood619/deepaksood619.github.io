@@ -7,7 +7,7 @@ Confluent Cloud offers these Kafka cluster types:
 - **Basic clusters -** Used for experimentation, early development and basic use cases.
 - **Standard clusters -** Used for production-ready features and functionality.
 - **Enterprise clusters -** Used for production-ready functionality that requires private networking capabilities.
-- **Dedicated clusters -** Used for critical production workloads with high traffic or private networking requirements.    
+- **Dedicated clusters -** Used for critical production workloads with high traffic or private networking requirements.
 - **Freight clusters -** Used for high-throughput, relaxed latency workloads that are less expensive than self-managed open source Kafka.
 
 [Kafka Cluster Types in Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/clusters/cluster-types.html)

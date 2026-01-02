@@ -56,6 +56,40 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 - Vacation Timeshare
 - Whole Life Insurance as an “Investment.”
 
+### Thinking about Money
+
+When I started my career, my salary was 10-12K/month, working with an NGO. I had to make A LOT of decisions to survive. This destroyed my peace of mind.
+
+Surviving meant, making decisions like-
+
+- How to eat under 60Rs/meal?
+- What to do if my rent went up by 5%?
+- If I was running late for office: can I afford to take an Auto?
+
+These decisions looked trivial. But, make a few bad decisions & I'd run out of money by month's end.
+
+Every decision had to be carefully weighed. And, it added fatigue.
+
+As my wealth grew, I ensured that I had to make fewer & fewer decisions.
+
+Here is an example:-
+
+- I started following 0.01% of liquid net-worth rule.
+- Let's say my liquid net-worth is 1Cr.
+- 0.01% of 1Cr =1000Rs.
+
+I don't need to think about spending 1000Rs (frequency= 2 times a day max). Overtime, I stopped looking at:-
+
+- How much I spend on coffee.
+- Restaurant menu prices.
+- How much I spend on Uber etc.
+
+**Realistically, I would not spend more than 10-15K/month on this**
+
+More money= fewer decisions= more peace. Repeat the loop.
+
+Use money to buy peace. And, use your peace to make (fewer but) better strategic decisions that improve the quality of your life.
+
 ## Others
 
 - Folks, I’ve some big plans of my own this year that’s going to suck the money out of my wallet. So, I’ll have to ditch this trip to Goa (adulting sucks). But come and hang out with me at home before you all go, and we’ll have a blast?

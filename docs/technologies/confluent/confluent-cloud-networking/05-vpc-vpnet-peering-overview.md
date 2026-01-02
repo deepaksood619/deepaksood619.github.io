@@ -46,11 +46,11 @@ The Confluent peering network has a number of benefits:
 There are a number of limitations with the Confluent peering network to be aware of.
 
 - First, Confluent Cloud managed connectors can only be used for sources/sinks that are reachable via an IP address in the VPC peered with Confluent Cloud.
-- Two other limitations relate to cloud networking—in general cloud networks don’t support transitive network connectivity.
+- Two other limitations relate to cloud networking—in general **cloud networks don’t support transitive network connectivity.**
     - If you want to access a Confluent network from a VPC or VNet, it has to be directly peered to the Confluent network. There are a few exceptions to this that we will discuss shortly, but generally speaking you can’t transit through one VPC or VNet to get to another one.
     - Related to the general lack of transitive network connectivity in the cloud, it’s hard to connect on-premises (datacenter-hosted) services to Confluent Cloud. That is, you can’t connect from an on-premises network to one of your VPCs in the public cloud, and from there to the Confluent Cloud network. VPC peering is really intended to allow private networking between VPCs/VNets and Confluent Cloud within the same region.
     - Both of these scenarios have workarounds that will be discussed on the next slide.
-- Another limitation to mention is the non-overlapping /16 CIDR range requirement that was mentioned earlier.
+- Another limitation to mention is the **non-overlapping /16 CIDR range requirement** that was mentioned earlier.
 
 ## Google Cloud VPC Peering
 
@@ -59,7 +59,7 @@ There are a number of limitations with the Confluent peering network to be aware
 Google Cloud treats VPC peering a bit differently than AWS and Azure in two ways:
 
 - Regional boundary
-    - Unlike AWS VPCs and Azure VNets, which are regional, Google VPCs are global and can span multiple regions. Despite this, even if a GCP Confluent Cloud network is peered to a global GCP VPC, only services in the same region as the cluster can access the Confluent Cloud cluster.
+    - **Unlike AWS VPCs and Azure VNets, which are regional, Google VPCs are global and can span multiple regions.** Despite this, even if a GCP Confluent Cloud network is peered to a global GCP VPC, **only services in the same region as the cluster can access the Confluent Cloud cluster.**
 - Peering
     - An exception to the “no transitive connections” rule is Google's custom route import/export feature. Google Cloud Peering offers transitive connectivity for VPN or Google Interconnect to on-premises or other cloud provider networks to reach Confluent Cloud using this feature.
         - To enable this option, select it when you create the peering connection in Confluent Cloud.

@@ -153,6 +153,23 @@ The point of making money is not so you can buy everything.
 - PODWOGs - Parents of DINKs Without Grandchildren
 - [The Rise In DINKs, SINKs, DINKWADs, KIPPERs And More](https://www.forbes.com/sites/jackkelly/2024/06/20/the-rise-in-dinks-sinks-dinkwads-kippers/)
 
+## Equity Allocation
+
+Even if the 26-year-old retires by 27 (naturally an unlikely event), the suggested equity allocation is only 38%. This is because an entire lifetime is spent in (early) retirement. This would mean seeing crashes, recessions and political turmoil. The corpus will deplete even faster if we withdraw from equity during these periods.
+
+| Retirement | Equity allocation |
+| ---------- | ----------------- |
+| 60         | 20%               |
+| 55         | 22%               |
+| 50         | 30%               |
+| 45         | 32%               |
+| 40         | 34%               |
+| 35         | 36%               |
+| 30         | 37%               |
+| 27         | 38%               |
+
+[What's the Ideal Equity Exposure After Retirement?](https://freefincal.com/whats-the-ideal-equity-exposure-after-retirement/)
+
 ## Links
 
 - [Why you should never retire](https://www.economist.com/business/2024/01/25/why-you-should-never-retire)
@@ -180,3 +197,5 @@ The point of making money is not so you can buy everything.
 - [Where should I invest to create a retirement bucket strategy?](https://freefincal.com/where-should-i-invest-to-create-a-retirement-bucket-strategy/)
 - [How should I invest Rs. 5 Crores for a peaceful retirement?](https://freefincal.com/how-should-i-invest-rs-5-crores-for-a-peaceful-retirement/)
 - [How an indexed pension makes a huge difference to a retirement plan](https://freefincal.com/how-an-indexed-pension-makes-a-huge-difference-to-a-retirement-plan/)
+- [**Retire early to lower your retirement corpus!**](https://freefincal.com/retire-early-to-lower-your-retirement-corpus-2/)
+- [My Spouse Is Not Ready to Learn Finances - What to Do?](https://freefincal.com/my-spouse-is-not-ready-to-learn-finances-what-to-do/)

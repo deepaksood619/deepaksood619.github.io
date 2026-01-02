@@ -148,8 +148,9 @@ Open two instance of same application - **open -n MQTT.fx.app**
 - Cmd + Shift + G in Finder
 - Alfred - [Alfred - Productivity App for macOS](https://www.alfredapp.com/)
 - [Raycast - Supercharged productivity](https://www.raycast.com/)
-	1. [GitHub - raycast/extensions: Everything you need to extend Raycast.](https://github.com/raycast/extensions)
-	2. [GitHub - raycast/script-commands: Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.](https://github.com/raycast/script-commands)
+	- [GitHub - raycast/extensions: Everything you need to extend Raycast.](https://github.com/raycast/extensions)
+	- [GitHub - raycast/script-commands: Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.](https://github.com/raycast/script-commands)
+	- [A love letter to Raycast ❤️](https://rmoff.net/2025/12/18/a-love-letter-to-raycast/)
 
 #### Comparison
 
@@ -187,6 +188,7 @@ https://www.google.com/inputtools
 
 #### Chrome Extensions
 
+- [Remove YouTube Shorts - Chrome Web Store](https://chromewebstore.google.com/detail/remove-youtube-shorts/mgngbgbhliflggkamjnpdmegbkidiapm?hl=en)
 - darkreader
 - Session Buddy (not required, use group tabs in chrome)
 - **adblock plus**

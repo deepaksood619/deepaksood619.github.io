@@ -215,7 +215,7 @@ It is 5% of the remittance amount above INR 7 Lakhs. From October 1, 2023 onward
 - Wise don't support foreign equity investment transfer from India
 - [International Money transfer comparison \| Compare best exchange rates - Wise](https://wise.com/in/compare/)
 - [Is Wise (transferwise) available in India for receiving money? : r/india](https://www.reddit.com/r/india/comments/uktght/is_wise_transferwise_available_in_india_for/)
-- [Title Unavailable \| Site Unreachable](https://wise.com/help/articles/6Kpm9pXlJW79OGAktSnHos/how-to-verify-your-indian-business-to-receive-payments)
+- [How to verify your Indian business to receive payments \| Wise Help Centre](https://wise.com/help/articles/6Kpm9pXlJW79OGAktSnHos/how-to-verify-your-indian-business-to-receive-payments)
 
 ### Others
 

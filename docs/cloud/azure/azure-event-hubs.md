@@ -54,6 +54,20 @@ The key functional components of Event Hubs include:
 
 [Azure Event Hubs: Data streaming platform with Kafka support - Azure Event Hubs \| Microsoft Learn](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-about)
 
+## Partition Key
+
+You can use a partition key to map incoming event data into specific partitions for the purpose of data organization. The partition key is a sender-supplied value passed into an event hub. It's processed through a static hashing function, which creates the partition assignment. If you don't specify a partition key when publishing an event, a round-robin assignment is used.
+
+The event publisher is only aware of its partition key, not the partition to which the events are published. This decoupling of key and partition insulates the sender from needing to know too much about the downstream processing. A per-device or user unique identity makes a good partition key, but other attributes such as geography can also be used to group related events into a single partition.
+
+Specifying a partition key enables keeping related events together in the same partition and in the exact order in which they arrived. The partition key is some string that is derived from your application context and identifies the interrelationship of the events. A sequence of events identified by a partition key is a _stream_. A partition is a multiplexed log store for many such streams.
+
+[Scalability - Azure Event Hubs - Azure Event Hubs \| Microsoft Learn](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-scalability#mapping-of-events-to-partitions)
+
+[Overview of features - Azure Event Hubs \| Microsoft Learn](https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-features#mapping-of-events-to-partitions)
+
+[Partition Key in Azure Event Hub and Stream Analytics - Microsoft Q&A](https://learn.microsoft.com/en-us/answers/questions/1687898/partition-key-in-azure-event-hub-and-stream-analyt)
+
 ## Messages
 
 ### ContentType

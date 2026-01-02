@@ -5,6 +5,7 @@
 - [Installing Kafka](installing-kafka)
 - [Kafka Topics](technologies/kafka/kafka-topics.md)
 - [Kafka Partitions](technologies/kafka/kafka-partitions.md)
+- [Kafka Message Key](technologies/kafka/kafka-message-key.md)
 - [Kafka-Brokers](technologies/kafka/kafka-brokers.md)
 - [Kafka Topic / Replication](kafka-topic-replication)
 - [Kafka Producers](kafka-producers)

@@ -89,6 +89,9 @@ https://joinditto.in
 
 ## Health Insurance
 
+- United India Health Insurance
+	- United India health insurance plan is offered by the United India Insurance Company. It offers extensive health insurance plans that cover families, individuals, young adults, senior citizens and persons with disabilities against major and minor illnesses, accidents, hospitalization, and critical illnesses. Moreover, United India Insurance Company follows a speedy and hassle-free claim settlement procedure.
+	- https://www.uiic.co.in/web/product/health/Family-Medicare-Policy
 - Restoration Benefit
 - [Health insurance policy - You need to change immediately! Health insurance will be rejected? - YouTube](https://www.youtube.com/watch?v=A0NjCGEDrcI)
 - [Why your base health policy and super top-up policy should have the same renewal date!](https://freefincal.com/why-your-base-health-policy-and-super-top-up-policy-should-have-the-same-renewal-date/)

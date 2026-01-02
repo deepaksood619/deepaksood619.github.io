@@ -37,6 +37,11 @@ WITH (
 SELECT * FROM bounded_pageviews LIMIT 10;
 ```
 
+## Jobs
+
+- [Create Confluent Manager for Apache Flink Applications \| Confluent Documentation](https://docs.confluent.io/platform/current/flink/jobs/applications/create.html)
+- [How to Package a Flink Job with Confluent Manager for Apache Flink \| Confluent Documentation](https://docs.confluent.io/platform/current/flink/jobs/applications/packaging.html)
+
 ## Links
 
 - [GitHub - confluentinc/learn-apache-flink-101-exercises](https://github.com/confluentinc/learn-apache-flink-101-exercises)

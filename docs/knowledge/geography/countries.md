@@ -30,6 +30,7 @@ https://docs.google.com/spreadsheets/d/1zl7adSoCYuWpuBnRPbkkhwT2RZ5hk3lUO4ud0NE7
 	- [Opinion \| Does the Future Belong to China? - The New York Times](https://www.nytimes.com/video/opinion/100000010365173/does-the-future-belong-to-china.html)
 - [Dictator vs Democracy: The rise of Xi Jinping and China? Explained - YouTube](https://www.youtube.com/watch?v=ieyzFXJk4e8)
 - [China Creates Its Own Bios to Break Free From Western Tech](https://indiandefencereview.com/the-u-s-and-its-allies-wont-be-happy-china-creates-its-own-bios-to-break-free-from-western-tech/)
+- [How Chinese view the world: over 90 percent of Chinese expect China to help shape a fairer global order - Global Times](https://www.globaltimes.cn/page/202512/1351147.shtml)
 
 ### Taiwan
 

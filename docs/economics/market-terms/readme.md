@@ -45,6 +45,7 @@ Bulls make money, bears make money, but pigs get slaughtered.
 - Zerodha
     - kite.zerodha.com
     - coin.zerodha.com
+	    - You can redeem mutual funds until 3:00 PM cut-off time. Orders placed within this time receive T day NAV.
     - console.zerodha.com
     - streak.zerodha.com
         - [Streak | Create, backtest and deploy trading strategies](https://www.streak.tech/SystematicTrading)

@@ -349,6 +349,7 @@ https://engineering.linkedin.com/blog/2019/03/pinot-joins-apache-incubator
 ## Q
 
 - [Qpid](http://qpid.apache.org/)
+	- Apache Qpid™ makes messaging tools that speak AMQP and support many languages and platforms.
 
 ## R
 
@@ -451,6 +452,21 @@ https://unomi.apache.org
 - [Web Services](http://ws.apache.org/)
 - [Whimsy](http://whimsical.apache.org/)
 - [Wicket](http://wicket.apache.org/)
+
+### [Apache Wayang \| Cross-Platform Data Processing](https://wayang.apache.org/)
+
+Unifying Data Processing Engines for Cross-Platform Analytics
+
+Apache Wayang (formerly known as Rheem) is a **cross-platform data processing system** designed to give developers and organizations a unified way to execute pipelines over multiple data processing engines—such as Apache Spark, Apache Flink, PostgreSQL, and more.
+
+Instead of forcing users to choose a single execution backend, Wayang:
+
+- **Abstracts data processing engines** through a unified API
+- **Can automatically choose the best execution platform** based on workload characteristics
+- **Optimizes performance** by distributing tasks across engines if necessary
+- **Provides a flexible plugin architecture** for integrating new platforms and optimizers
+
+In other words, Wayang enables interoperability across the diverse data landscape and empowers teams to focus on application logic and not infrastructure decisions.
 
 ## X
 

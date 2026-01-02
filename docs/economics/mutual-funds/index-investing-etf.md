@@ -107,6 +107,8 @@ Another big reason most actively managed funds underperform index funds is their
 
 https://freefincal.com/build-equity-mutual-fund-portfolio
 
+[Why You Should Avoid ETFs \| ETFs vs Index Funds - YouTube](https://www.youtube.com/watch?v=tvVx63VTyXI)
+
 ## Should I switch to Index Funds?
 
 - First learn to invest with a strategy

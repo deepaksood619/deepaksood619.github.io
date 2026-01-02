@@ -188,7 +188,7 @@ Controls access to the service with a VPC endpoint
 - aws:SourceOrgPaths
 - aws:UserAgent
 
-[Title Unavailable \| Site Unreachable](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_condition-keys.html)
+[AWS global condition context keys - AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_condition-keys.html)
 
 ## Policies
 

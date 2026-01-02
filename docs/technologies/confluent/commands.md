@@ -8,6 +8,7 @@ brew install confluentinc/tap/cli
 confluent version
 confluent login
 confluent login --save
+confluent logout
 
 confluent environment list
 confluent environment use env-q2rmnp

@@ -20,6 +20,42 @@ base64 is a costly instrument. It makes data about **33% larger** in terms of me
 
 [What is base64 Encoding and Why is it Necessary?](https://www.freecodecamp.org/news/what-is-base64-encoding/)
 
+### Example
+
+bootstrap.servers=kafka.confluent.svc.cluster.local:9071
+security.protocol=PLAINTEXT
+
+vs
+
+bootstrap.servers=kafka.confluent.svc.cluster.local:9071 security.protocol=PLAINTEXT
+
+The difference in above 2 is only newline vs space, so just because of that the base64 format difference is only K vs g
+
+Ym9vdHN0cmFwLnNlcnZlcnM9a2Fma2EuY29uZmx1ZW50LnN2Yy5jbHVzdGVyLmxvY2FsOjkwNzE**K**c2VjdXJpdHkucHJvdG9jb2w9UExBSU5URVhU
+
+Ym9vdHN0cmFwLnNlcnZlcnM9a2Fma2EuY29uZmx1ZW50LnN2Yy5jbHVzdGVyLmxvY2FsOjkwNzE**g**c2VjdXJpdHkucHJvdG9jb2w9UExBSU5URVhU
+
+### How Base64 works
+
+Base64 encoding **converts binary data into a text string using 64 printable ASCII characters (A-Z, a-z, 0-9, +, /) by grouping 8-bit bytes into 6-bit chunks, mapping these chunks to characters, and using '=' for padding**, making binary data safe for text-based systems like email or URLs where special characters can cause issues. It works by taking three 8-bit bytes (24 bits) and splitting them into four 6-bit values, each representing one of the 64 characters, increasing data size by about 33% but ensuring reliable transmission.
+
+How Base64 Encoding Works Step-by-Step
+
+- **Input Data (Binary)**: Start with any binary data (text, images, etc.), which is essentially a stream of 8-bit bytes (e.g., 'H' is 01001000).
+- **Group into 3 Bytes**: Take the binary data in groups of three 8-bit bytes (24 bits total).
+- **Split into 6-bit Chunks**: Divide these 24 bits into four 6-bit chunks (4 x 6 = 24 bits).
+- **Map to Base64 Characters**: Each 6-bit chunk (representing a value from 0 to 63) is mapped to a character in the Base64 index table (A-Z, a-z, 0-9, +, /).
+- **Padding**: If the original data isn't a perfect multiple of 3 bytes, padding is added:
+    - If one byte is left, two '=' are added.
+    - If two bytes are left, one '=' is added.
+- **Output (Text String)**: The result is a string of readable ASCII characters, which can be safely sent over text-based channels.
+
+[How base64 encoding works - YouTube](https://www.youtube.com/shorts/T4JW5T24Uy4)
+
+[How Base64 Encoding Works](https://www.lifewire.com/base64-encoding-overview-1166412)
+
+[Base64 - Wikipedia](https://en.wikipedia.org/wiki/Base64)
+
 ## Base64 vs UTF-8/UTF-16
 
 UTF-8 and UTF-16 are methods to encode Unicode strings to byte sequences.

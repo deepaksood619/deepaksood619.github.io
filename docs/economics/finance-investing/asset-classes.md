@@ -140,6 +140,7 @@ Additional Tax Benefit is available to Subscribers under Corporate Sector, under
 - [Gains from NPS Tier 2 accounts are taxable as per the slab rate!](https://freefincal.com/gains-from-nps-tier-2-accounts-are-taxable-as-per-the-slab-rate/)
 - [NPS Multiple Scheme Framework - What you need to know](https://freefincal.com/nps-multiple-scheme-framework-what-you-need-to-know/)
 - [New NPS Rules: Retirement Planning Just Got Easier, Flexible & More Rewarding - YouTube](https://www.youtube.com/watch?v=HZq7Y2o5Fig)
+- [NPS reduces annuity requirement to 20% - should you open an NPS account?](https://freefincal.com/nps-reduces-annuity-requirement-to-20-should-you-open-an-nps-account/)
 
 ### NPS Vatsalya
 

@@ -9,6 +9,7 @@
 	- [Confluent Cloud Networking & Security](technologies/confluent/confluent-cloud-networking/readme.md)
 - [platform-documentation](technologies/confluent/platform-documentation.md)
 	- [confluent-platform](technologies/confluent/confluent-platform.md)
+	- [confluent-for-kubernetes-cfk](technologies/confluent/confluent-for-kubernetes-cfk.md)
 - [confluent-cloud-vs-confluent-platform](technologies/confluent/confluent-cloud-vs-confluent-platform.md)
 - [commands](technologies/confluent/commands.md)
 - [cli-tools](technologies/confluent/cli-tools.md)
