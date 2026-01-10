@@ -141,6 +141,7 @@ Additional Tax Benefit is available to Subscribers under Corporate Sector, under
 - [NPS Multiple Scheme Framework - What you need to know](https://freefincal.com/nps-multiple-scheme-framework-what-you-need-to-know/)
 - [New NPS Rules: Retirement Planning Just Got Easier, Flexible & More Rewarding - YouTube](https://www.youtube.com/watch?v=HZq7Y2o5Fig)
 - [NPS reduces annuity requirement to 20% - should you open an NPS account?](https://freefincal.com/nps-reduces-annuity-requirement-to-20-should-you-open-an-nps-account/)
+- [My NPS Wishlist: two changes to make it more user-friendly](https://freefincal.com/my-nps-wishlist-two-changes-to-make-it-more-user-friendly/)
 
 ### NPS Vatsalya
 

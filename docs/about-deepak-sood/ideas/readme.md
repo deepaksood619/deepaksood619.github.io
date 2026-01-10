@@ -11,5 +11,5 @@
 - [Improvements / Feedbacks](about-deepak-sood/ideas/improvements-feedbacks.md)
 - [Thoughts / Future / Ideas / Vision / Prediction](about-deepak-sood/ideas/thoughts-future-ideas-vision-prediction.md)
 - [Society](about-deepak-sood/ideas/society.md)
-- [Startup Quotes](about-deepak-sood/ideas/startup-quotes.md)
+- [Startup Quotes](knowledge/quotes-proverbs/startup-quotes.md)
 - [Others](about-deepak-sood/ideas/others.md)

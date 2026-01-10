@@ -21,6 +21,8 @@
 ## The 10 main picks
 
 1. [LiteLLM](https://github.com/BerriAI/litellm) - call any LLM using OpenAI format, and more
+	1. [Bifrost - The fastest way to build AI applications that never go down](https://www.getmaxim.ai/bifrost)
+	2. [Getting Started - Bifrost](https://docs.getbifrost.ai/benchmarking/getting-started)
 2. [PyApp](https://github.com/ofek/pyapp) - deploy self contained Python applications anywhere
 3. [Taipy](https://github.com/Avaiga/taipy) - build UIs for data apps, even in production
 	1. [Unlocking the Power of What-If Analysis for BI, Data, and AI with Taipy - YouTube](https://youtu.be/lqBhJATrsiw?si=7a3MqcMph-v1UuQ6)

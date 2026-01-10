@@ -27,6 +27,7 @@
 	- **Short-Term Capital Gains (STCG):** If gold is sold **within 2 years** of purchase, profits are added to your income and taxed as per your slab rate.
 	- **Long-Term Capital Gains (LTCG):** If sold **after 2 years**, the gain is taxed at **12.5%** (without indexation benefit).
 - [Your Old Gold. India’s New Strength \| Tanishq - YouTube](https://www.youtube.com/watch?v=wNrjZ9Ov2oY)
+- [How much gold can your family legally keep at home without any proof? \| Personal Finance - Business Standard](https://www.business-standard.com/amp/finance/personal-finance/how-much-gold-can-your-family-legally-keep-at-home-without-any-proof-126010100206_1.html)
 
 ### Gold Monetisation Scheme
 
@@ -46,14 +47,11 @@
 - HDFC Gold ETF (0.59%)
 - UTI Gold ETF
 - SBI Gold ETF (0.73%)
-
-[Best Gold ETFs in India 2025](https://groww.in/blog/best-gold-etfs-in-india)
-
-[5 oldest gold ETFs in India: How their long-term returns stack up against physical gold - Money News \| The Financial Express](https://www.financialexpress.com/money/5-oldest-gold-etfs-in-india-how-their-long-term-returns-stack-up-against-physical-gold-3813844/)
-
-[Are Gold ETFs safe? Do they store physical gold in India or abroad? Key FAQs answered](https://upstox.com/news/personal-finance/investing/are-gold-etfs-safe-do-they-store-physical-gold-in-india-or-abroad-faqs-answered/article-183440/)
-
-[Why gold ETFs aren’t always the cheaper choice \| Value Research](https://www.valueresearchonline.com/stories/227119/why-gold-etfs-arent-always-the-cheaper-choice/)
+- [Best Gold ETFs in India 2025](https://groww.in/blog/best-gold-etfs-in-india)
+- [5 oldest gold ETFs in India: How their long-term returns stack up against physical gold - Money News \| The Financial Express](https://www.financialexpress.com/money/5-oldest-gold-etfs-in-india-how-their-long-term-returns-stack-up-against-physical-gold-3813844/)
+- [Are Gold ETFs safe? Do they store physical gold in India or abroad? Key FAQs answered](https://upstox.com/news/personal-finance/investing/are-gold-etfs-safe-do-they-store-physical-gold-in-india-or-abroad-faqs-answered/article-183440/)
+- [Why gold ETFs aren’t always the cheaper choice \| Value Research](https://www.valueresearchonline.com/stories/227119/why-gold-etfs-arent-always-the-cheaper-choice/)
+- [Best Gold ETF 2026 \| Mutual Funds For 2026 By Finology - YouTube](https://www.youtube.com/watch?v=Nmz1lC7Dv6A)
 
 ### Gold Funds
 

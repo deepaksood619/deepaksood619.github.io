@@ -29,6 +29,7 @@
 
 - [Principle Software Engineer](roles/principle-software-engineer)
 - [Engineering Manager / Tech Lead](roles/engineering-manager)
+- [Forward Deployed Engineer (FDE)](management/roles/forward-deployed-engineer.md)
 - [Data Roles](management/roles/data.md)
 - [Other Roles](management/roles/others.md)
 - [Jobs](management/jobs/readme.md)

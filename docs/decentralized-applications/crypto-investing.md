@@ -41,32 +41,6 @@
 - [Top Crypto Coins by Total Value Locked - TradingView - India](https://in.tradingview.com/markets/cryptocurrencies/prices-highest-total-value-locked/)
 - [Largest Blockchains in Crypto Ranked by TVL | CoinMarketCap](https://coinmarketcap.com/chain-ranking/)
 
-### Others
-
-- [Unocoin: Best Crypto Exchange in India](https://unocoin.com/in/)
-- [Mudrex - Easiest way to invest in Crypto](https://mudrex.com/)
-- [Home | PancakeSwap](https://pancakeswap.finance/)
-- [cowswap - CoW Swap | The smartest way to trade cryptocurrencies](https://swap.cow.fi/)
-- [Guide to DUSD: Earn Negative Interest of Up to -66.6% on DUSD](https://blog.defichain.com/earn-returns-with-negative-interest-rates/)
-- [RBX: The pinnacle of decentralized finance apps. Defi 2.0](https://rbxdefi.com/)
-- [Zilliqa | Build your future with our native token](https://www.zilliqa.com/what-is-zil)
-- Lending - [PeerHive | Revolutionizing Decentralized P2P Lending Experience](https://peerhive.app/)
-- Defi - [Ether Fi App](https://www.mainnet.ether.fi/)
-- [Aave - Open Source Liquidity Protocol](https://aave.com/)
-    - [AAVE: MOST Undervalued DeFi Token?! 2022 Update!! - YouTube](https://www.youtube.com/watch?v=fp4YzAgnIqk)
-    - [What is AAVE? (Animated) Crypto Borrowing and Lending Explained - YouTube](https://www.youtube.com/watch?v=dTCwssZ116A)
-- [Buy Bitcoin & Ethereum | Cryptocurrency Exchange | Bittrex Global](https://global.bittrex.com/)
-- [Bitpanda Cash Plus](https://www.bitpanda.com/en/bitpanda-cash-plus)
-- [Roots - build wealth through real estate](https://www.investwithroots.com/)
-- [Nexo: Buy, Exchange, and Store Bitcoin & Crypto](https://nexo.com/)
-- [Leading Institutional Staking and RPC Node provider. Stake tokens, host nodes and develop Web3 with us](https://p2p.org/)
-- [MakerDAO | An Unbiased Global Financial System](https://makerdao.com/en/)
-- [Convex](https://www.convexfinance.com/)
-- [OpenEden](https://openeden.com/)
-- [token.com | Invest with Intent](https://www.token.com/)
-- [The On-Chain Firewall | Harpie](https://harpie.io/)
-- [Clustr - The reality check for your crypto portfolio](https://www.clustr.io/)
-
 ## Games
 
 - [BEST Blockchain Games: TOP 5 Play-To-Earn Cryptos!! 💯 - YouTube](https://www.youtube.com/watch?v=zchIkjXtOtk)
@@ -84,6 +58,12 @@
 - [250+ Stores That Accept Bitcoin | BitPay’s Curated Directory of Places to Spend Cryptocurrency](https://bitpay.com/directory/)
 - [Pay bills with crypto - Spritz Finance](https://www.spritz.finance/)
 - [Find merchants who accept cryptocurrencies | Bitcoin.com](https://www.bitcoin.com/find-crypto-merchants/)
+- [The Easiest Way to Spend Crypto (No Cashing Out Needed) - YouTube](https://www.youtube.com/watch?v=FIf7_2WIsMU)
+	- **Bitrefill** - legit, easy
+	- Coinsbee
+	- CoinCards
+	- **CryptoRefills** - best exchange rate, with points
+	- HM
 
 ## Terms / Security
 
@@ -117,6 +97,32 @@
 ![ranks-of-bitcoin-holders](../media/Screenshot%202023-04-03%20at%209.02.03%20AM.jpg)
 
 [Make $100 Per Day Trading Cryptocurrency 2023 (Full Strategy) - YouTube](https://www.youtube.com/watch?v=1IU0kIKXOUc)
+
+### Others
+
+- [Unocoin: Best Crypto Exchange in India](https://unocoin.com/in/)
+- [Mudrex - Easiest way to invest in Crypto](https://mudrex.com/)
+- [Home | PancakeSwap](https://pancakeswap.finance/)
+- [cowswap - CoW Swap | The smartest way to trade cryptocurrencies](https://swap.cow.fi/)
+- [Guide to DUSD: Earn Negative Interest of Up to -66.6% on DUSD](https://blog.defichain.com/earn-returns-with-negative-interest-rates/)
+- [RBX: The pinnacle of decentralized finance apps. Defi 2.0](https://rbxdefi.com/)
+- [Zilliqa | Build your future with our native token](https://www.zilliqa.com/what-is-zil)
+- Lending - [PeerHive | Revolutionizing Decentralized P2P Lending Experience](https://peerhive.app/)
+- Defi - [Ether Fi App](https://www.mainnet.ether.fi/)
+- [Aave - Open Source Liquidity Protocol](https://aave.com/)
+    - [AAVE: MOST Undervalued DeFi Token?! 2022 Update!! - YouTube](https://www.youtube.com/watch?v=fp4YzAgnIqk)
+    - [What is AAVE? (Animated) Crypto Borrowing and Lending Explained - YouTube](https://www.youtube.com/watch?v=dTCwssZ116A)
+- [Buy Bitcoin & Ethereum | Cryptocurrency Exchange | Bittrex Global](https://global.bittrex.com/)
+- [Bitpanda Cash Plus](https://www.bitpanda.com/en/bitpanda-cash-plus)
+- [Roots - build wealth through real estate](https://www.investwithroots.com/)
+- [Nexo: Buy, Exchange, and Store Bitcoin & Crypto](https://nexo.com/)
+- [Leading Institutional Staking and RPC Node provider. Stake tokens, host nodes and develop Web3 with us](https://p2p.org/)
+- [MakerDAO | An Unbiased Global Financial System](https://makerdao.com/en/)
+- [Convex](https://www.convexfinance.com/)
+- [OpenEden](https://openeden.com/)
+- [token.com | Invest with Intent](https://www.token.com/)
+- [The On-Chain Firewall | Harpie](https://harpie.io/)
+- [Clustr - The reality check for your crypto portfolio](https://www.clustr.io/)
 
 ## Links
 

@@ -194,3 +194,15 @@ In the past 13 years, this approach to money meant we've taken zero self-funded 
 We don't have the luxury of job security, like our parents did. Today, I see many talented individuals earning great salaries. But it's easy to forget that things can change. Salaries don't always rise, and life isn't always smooth. Illness, loss, and tough times can hit anyone. While emotional strength is crucial, financial security is equally important.
 
 This isn't financial advice or a hardship story, at best it's probably a miser's point of view towards life 🙈 . I think it's a a decision-making framework that has guided me well so I thought I should share 😇
+
+## Japanese Lifestyle
+
+1. Minimalism - Keep only what you need or love.
+2. Punctuality - Be on time for everything.
+3. Cleanliness - Keep your home, surroundings, and self clean.
+4. Healthy Eating - Eat seasonal, fresh, and balanced meals in small portions.
+5. Respect for Nature - Live in harmony with nature and celebrate its beauty.
+6. Politeness & Respect - Speak politely, bow in greetings, and respect elders.
+7. Group Harmony (Wa) - Value teamwork and avoid conflict.
+8. Continuous Improvement (Kaizen) - Always seek to improve yourself.
+9. Strong Work Ethic - Be dedicated, honest, and responsible.

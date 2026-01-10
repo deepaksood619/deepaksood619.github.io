@@ -11,6 +11,7 @@
 - [Software Complexity](complexity)
 - [Refactoring](refactoring)
 - [Developer Roles](developer-roles)
+	- [Forward Deployed Engineer (FDE)](management/roles/forward-deployed-engineer.md)
 - [Modeling Languages](modeling-languages)
 - [Change Management](computer-science/software-engineering/change-management.md)
 - [Coding Quotes](knowledge/quotes-proverbs/coding.md)

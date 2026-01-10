@@ -1,7 +1,7 @@
 # Law
 
 - [Laws](laws)
-- [Judgements](knowledge/law/judgements-2023.md)
+- [Judgements](knowledge/law/judgements.md)
 - [LSAT](lsat)
 - [MCAT](mcat)
 - [Others](knowledge/law/others.md)
@@ -50,6 +50,8 @@
 
 [MUST Know Important Laws of India!](https://youtu.be/K65DEXrR9As)
 
+## Punishment
+
 [Theories of Punishment | Criminal Law](https://www.youtube.com/watch?v=OxZPD2rY7KE)
 
 - What is the objective of punishment
@@ -61,13 +63,9 @@
     - Contribution/Distribution - Tribution - Latin word - means - to pay back
     - Moral justice to victim (inflicting same pain as victim)
     - Theory of vengeance
-
 2. Preventive
-
 3. Deterrent
     - Deter - Abstain
-
 4. Reformative
     - Hate the crime, not the criminal
-
 5. Compensatory

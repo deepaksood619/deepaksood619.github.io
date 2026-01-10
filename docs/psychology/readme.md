@@ -24,6 +24,7 @@
 - [People](psychology/people.md)
 - [Emotions](psychology/emotions.md)
 - [Parenting](parenting)
+	- [parenting-physical](psychology/parenting-physical.md)
 - [Pesonality](psychology/personality.md)
 - [Research](research)
 - [Brain](brain)
@@ -32,5 +33,10 @@
 - [Productivity / Productive / Time Management / TODO](productivity-productive-time-management-todo)
 - [Consumerism](psychology/consumerism.md)
 - [Defence Mechanisms](psychology/defence-mechanisms.md)
-- [Travelling](psychology/travelling.md)
 - [Others](psychology/others.md)
+
+## Others
+
+- [Travelling](psychology/travelling.md)
+- [buying-guide](psychology/buying-guide.md)
+- [buying-guide-car](psychology/buying-guide-car.md)

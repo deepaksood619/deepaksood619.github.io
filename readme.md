@@ -109,8 +109,9 @@ There's 2000+ pages in here and lots of them I think are interesting. But these 
 
 If you found this helpful, please consider making a donation to support my work.
 
-- Eth: Ethereum MainNet - 0xC629700c063c9848c2D09e79248d39b997fAD48E
-- BTC - bc1qfpm3x5qcr6su8ndq8afmw6u5hzdwpyauwkdcdf
+- BTC: Bitcoin - bc1qfpm3x5qcr6su8ndq8afmw6u5hzdwpyauwkdcdf
+- ETH: Ethereum MainNet - 0xC629700c063c9848c2D09e79248d39b997fAD48E
+- SOL: Solana - 9TMmQCdYC5VXBNsMyN4AZfsAJJZDBTQpXrn9a3vGikcH
 - Paypal - [Deepak Sood | deepaksood619](https://paypal.me/deepaksood619?country.x=IN&locale.x=en_GB)
 - Buy me a coffee - [Deepak Sood | deepaksood619](https://www.buymeacoffee.com/deepaksood619)
 - Github Sponsers - [Deepak Sood | deepaksood619](https://github.com/sponsors/deepaksood619)

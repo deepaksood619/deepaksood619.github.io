@@ -65,6 +65,7 @@ https://en.wikipedia.org/wiki/Data_wrangling
 - https://zerowithdot.com/splitting-to-batches
 - https://www.fast.ai/2020/01/07/data-questionnaire
 - https://www.digitalocean.com/community/tutorials/an-introduction-to-big-data-concepts-and-terminology
+- [The Great Data Closure\| Why Databricks and Snowflake are hitting their ceiling](https://dataopsleadership.substack.com/p/the-great-data-closure-why-databricks)
 
 ### [MotherDuck: Big Data is Dead](https://motherduck.com/blog/big-data-is-dead/)
 

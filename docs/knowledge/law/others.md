@@ -53,16 +53,6 @@ Section 82 of the IPC, also known as doli incapax, states that "Nothing is an of
 
 Ignorance of law is no excuse
 
-## 5 Landmark cases
-
-1. Golaknath vs State of Punjab Case - 1967
-2. **Kesavananda Bharati vs State of Kerala - 1973**
-3. Menaka Gandhi vs Union of India - 1978
-4. Minerva Mills Ltd. vs Union of India - 1980
-5. S.R. Bommai's Union of India Case - 1994
-
-https://www.youtube.com/watch?v=Cra79uJ2ZP4
-
 ## Courses
 
 https://learn.finology.in/courses/legal/indian-penal-code

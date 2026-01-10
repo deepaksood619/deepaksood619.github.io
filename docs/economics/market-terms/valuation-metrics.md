@@ -13,6 +13,7 @@
 
 - Time correction
 - Price correction
+- Price stagnation
 
 ## Macroeconomic Indicators
 

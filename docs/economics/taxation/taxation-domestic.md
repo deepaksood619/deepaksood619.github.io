@@ -81,6 +81,9 @@ https://www.investopedia.com/terms/u/unrealizedgain.asp
 - [Claiming Capital Gains Exemption? Watch Out for This Common Slip](https://freefincal.com/claiming-capital-gains-exemption-watch-out-for-this-common-slip/)
 - [Selling Property? Don’t Miscalculate Your Section 54 Reinvestment Amount](https://freefincal.com/selling-property-dont-miscalculate-your-section-54-reinvestment-amount/)
 - [No more 54F exemption for capital gains from Debt Funds](https://freefincal.com/no-more-54f-exemption-for-capital-gains-from-debt-funds/)
+- The **Capital Gains Account Scheme (CGAS)**, 1988, lets taxpayers temporarily park unutilized long-term capital gains from selling assets (like property) in designated bank accounts (Account A: Savings; Account B: Fixed Deposit) to claim tax exemption under Income Tax Act Sections 54, 54B, 54F, etc., when they can't reinvest immediately, effectively giving them more time (up to 2-3 years) to invest in specified assets, like a new house, while earning interest, with funds becoming taxable if unused by the deadline.
+	- [Experience with Capital Gains Account Scheme : r/IndiaInvestments](https://www.reddit.com/r/IndiaInvestments/comments/p5fro1/experience_with_capital_gains_account_scheme/)
+	- 54EC Bonds. Company's bond - REC, PFC, IRFC
 
 ### Points
 
@@ -91,6 +94,31 @@ https://www.investopedia.com/terms/u/unrealizedgain.asp
 5. That cash is earmarked for one thing and one thing only: a house. Land and commercial properties do not apply.
 6. Once you've bagged that dream house, **you have to stay put for at least 3 years**. No sneaking off early! If you bail before the clock runs out, be ready to cough up tax, penalty, and interest on the long-term capital gains from the sale date.
 7. A lot of people jumped on this tax-saving bandwagon, so the government had to lay down some restrictions. Here's the deal: Deduction from capital gains on investment in residential house under sections 54 and 54F are capped at Rs. 10 crore.
+
+### 54EC Bonds
+
+**54EC bonds** are financial instruments in India that offer an exemption on **long-term capital gains (LTCG)** tax from the sale of immovable property (land or building). By investing the capital gains in these specified bonds within six months of the asset transfer, taxpayers can defer their tax liability.
+
+**54EC bonds cannot be purchased to save tax on long-term capital gains (LTCG) from the sale of stocks.**
+
+#### Key Features and Conditions
+
+- **Tax Exemption**: Investment of up to ₹50 lakh (across all eligible bonds in a financial year) is exempt from long-term capital gains tax under Section 54EC of the Income Tax Act, 1961.
+- **Eligible Assets**: The capital gains must arise from the sale of a long-term capital asset, specifically land or buildings, held for a minimum of 24 months prior to the sale.
+- **Time Limit**: The investment must be made within **six months** from the date of the asset transfer to be eligible for the exemption.
+- **Lock-in Period**: These bonds have a mandatory lock-in period of **five years**, during which they cannot be transferred, sold, or used as collateral for loans.
+- **Interest Rate**: The current interest rate is typically around 5.25% per annum, paid annually. The interest income is taxable as per the investor's applicable income tax slab, but no TDS (Tax Deducted at Source) is applied for resident individuals.
+- **Safety**: The bonds are issued by government-backed Public Sector Undertakings (PSUs) and generally carry a high credit rating of 'AAA', making them a low-risk investment.
+- **Holding Mode**: They can be held in either physical certificate form or in a demat (dematerialized) account.
+
+#### Eligible Issuers
+
+Only specific government-approved entities are authorized to issue 54EC bonds. The prominent issuers currently available are:
+
+- Rural Electrification Corporation Limited (REC)
+- Power Finance Corporation Limited (PFC)
+- Indian Railway Finance Corporation Limited (IRFC)
+- Housing and Urban Development Corporation Limited (HUDCO)
 
 ## Property Taxes
 

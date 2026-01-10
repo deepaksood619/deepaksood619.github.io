@@ -6,6 +6,8 @@ Money leads to success which leads to more money
 
 In is the only way out.
 
+More people succeed better the world will be
+
 We make a living by what we get, but we make a life by what we give” – Winston Churchill.
 
 Life is a sine curve.
@@ -1165,5 +1167,9 @@ What is Poison?
 
 - Anything beyond what we need is poison.
 - It can be power, laziness, food, ego, ambition, vanity, fear, anger or whatever.
+
+![image](../../media/Screenshot%202026-01-02%20at%2012.25.43%20PM.png)
+
+Not everything that counts can be counted, and not everything that can be counted counts -- William Bruce Cameron
 
 ## End

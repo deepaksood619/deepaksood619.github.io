@@ -101,17 +101,12 @@ Example
 
 ## Others
 
-https://docs.oracle.com/cd/B19306_01/server.102/b14220/toc.htm
-
-https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78
-
-https://littlekendra.com
-
-[**https://www.freecodecamp.org/news/watch-a-cornell-university-database-course-for-free/**](https://www.freecodecamp.org/news/watch-a-cornell-university-database-course-for-free/)
-
-[**https://www.youtube.com/watch?v=BQBGORBPytw**](https://www.youtube.com/watch?v=BQBGORBPytw)
-
-[**https://www.youtube.com/watch?v=ER8oKX5myE0**](https://www.youtube.com/watch?v=ER8oKX5myE0)
-
-- **Database modeling**
-- **Isolation levels**
+- https://docs.oracle.com/cd/B19306_01/server.102/b14220/toc.htm
+- https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78
+- https://littlekendra.com
+- [Watch a Cornell University Database Course for Free](https://www.freecodecamp.org/news/watch-a-cornell-university-database-course-for-free/)
+- [DBMS Complete RoadMap🔴 \|\| What to study in DBMS for Placement Interviews ?? \|\| Solved - YouTube](https://www.youtube.com/watch?v=BQBGORBPytw)
+- [MySQL Database - Full Course - YouTube](https://www.youtube.com/watch?v=ER8oKX5myE0)
+	- **Database modeling**
+	- **Isolation levels**
+- [Databases in 2025: A Year in Review // Blog // Andy Pavlo - Carnegie Mellon University](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)

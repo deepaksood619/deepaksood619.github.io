@@ -58,6 +58,8 @@ Young professional investors should allocate around 70% of their investable amou
 
 ## Goal based portfolio investment
 
+[Fetching Title#gpm7](https://freefincal.com/how-to-define-and-plan-for-a-financial-goal/)
+
 How to get started?
 
 - If you can invest Rs. 3000 a month

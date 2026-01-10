@@ -97,4 +97,5 @@ https://www.fluentcpp.com/2016/12/15/respect-levels-of-abstraction
 
 ## Links
 
-[GitHub - google/git-appraise: Distributed code review system for Git repos](https://github.com/google/git-appraise)
+- [GitHub - google/git-appraise: Distributed code review system for Git repos](https://github.com/google/git-appraise)
+- [TypeScript Won... Because of AI (GitHub 2025) - YouTube](https://www.youtube.com/watch?v=96pARvK83CA)

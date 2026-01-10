@@ -76,7 +76,6 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 - Portugal (invest less than 3 crore and be a citizen)
 - Japan
 - [Aberdeen - Wikipedia](https://en.wikipedia.org/wiki/Aberdeen)
-
 - Temperature - 23-25 degree Celsius
 - Humidity - 30-50%
 - [Is there a country/region in the world where the temperature is year round around 23-25 degrees Celsius?](https://www.quora.com/Is-there-a-country-region-in-the-world-where-the-temperature-is-year-round-around-23-25-degrees-Celsius)
@@ -98,6 +97,7 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
     - ​Antigua and Barbuda - Rs 76,46,000​
     - Vanuatu - Rs 91,05,000
 - India has taxes like Europe/England services like Somalia or any other African countries
+- [14 countries offering golden visas for Indians \| Condé Nast Traveller India](https://www.cntraveller.in/story/countries-that-offer-golden-visas-to-indians/)
 
 #### Metrics
 

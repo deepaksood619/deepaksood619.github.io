@@ -1,4 +1,24 @@
-# Judgements 2023
+# Judgements
+
+## 5 Landmark cases
+
+1. Golaknath vs State of Punjab Case - 1967
+2. **Kesavananda Bharati vs State of Kerala - 1973**
+3. Menaka Gandhi vs Union of India - 1978
+4. Minerva Mills Ltd. vs Union of India - 1980
+5. S.R. Bommai's Union of India Case - 1994
+
+https://www.youtube.com/watch?v=Cra79uJ2ZP4
+
+## Others
+
+- [Mohd. Ahmed Khan v. Shah Bano Begum - Wikipedia](https://en.wikipedia.org/wiki/Mohd._Ahmed_Khan_v._Shah_Bano_Begum)
+- [Uniform Civil Code - Wikipedia](https://en.wikipedia.org/wiki/Uniform_Civil_Code)
+
+## 2025
+
+- [Most Important Judgments of 2025 - PART 1 - YouTube](https://www.youtube.com/watch?v=tpkvjSLPvhY)
+- [Most Important Judgments of 2025 - Part 2 - YouTube](https://www.youtube.com/watch?v=XnQiRYjv_rw)
 
 ## 25 Judgements of 2023
 

@@ -133,3 +133,5 @@ Use money to buy peace. And, use your peace to make (fewer but) better strategic
 - [Reasonable and unreasonable risks in investing and money management](https://freefincal.com/reasonable-and-unreasonable-risks-in-investing-and-money-management/)
 - [Stop wasting Rs 40,000 on food delivery apps. CA shares the smarter switch that saves Rs 5.6 lakh](https://economictimes.indiatimes.com/magazines/panache/stop-wasting-rs-40000-on-food-delivery-apps-ca-shares-the-smarter-switch-that-saves-rs-5-6-lakh/articleshow/125649996.cms)
 - [Convenience and Comparison Trap: Why You Cannot Stay Invested in Equity for the Long Term](https://freefincal.com/convenience-and-comparison-trap-why-you-cannot-stay-invested-in-equity-for-the-long-term/)
+- [16 personal finance resolutions for 2026](https://freefincal.com/16-personal-finance-resolutions-for-2026/)
+- [Why You Feel Poor Even When You Have Money: The Silent Cost of Financial Trauma](https://freefincal.com/why-you-feel-poor-even-when-you-have-money-the-silent-cost-of-financial-trauma/)

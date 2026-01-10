@@ -56,7 +56,7 @@ The module covers various options strategies that can be built with a multi-dime
 
 A [stock option](http://personal.fidelity.com/products/stockoptions/exercise.shtml) is a privilege giving its holder the right to purchase a particular stock at a price agreed upon by the assignor and the holder (called the "grant price") within a specified time. Note that a stock option is a right, not an obligation, to purchase the stock, meaning that the option holder may choose to not exercise the option.
 
-## What Does It Mean to Exercise a Stock Option?
+### What Does It Mean to Exercise a Stock Option?
 
 Exercising a stock option means purchasing the shares of stock per the stock option agreement. The benefit of the option to the option holder comes when the grant price is lower than the market value of the stock at the time the option is exercised. Here's an example:
 
@@ -64,15 +64,18 @@ You receive a stock option as part of your compensation package as a new employe
 
 An exercise price is a price at which you can buy the shares in the future irrespective of what the true price of the share may be at any given point. At the time of offering the shares, the price was 1 USD. But after 4 years, even if the price of each share is 100 USD, you will only pay 1 USD to buy a share.
 
-## What is Vesting?
+### What is Vesting?
 
 "[Vesting](https://www.upcounsel.com/vesting)" refers to the date upon which the stock option becomes exercisable. In other words, the option holder must wait until the option "vests" before he can purchase the stock under the option agreement. A vesting date is a common feature of stock options granted as part of an employee compensation package. The purpose of the vesting date is to ensure the employee's commitment to his job position and to making the company a success.
 
-## What is the Option Expiration Date?
+### What is the Option Expiration Date?
 
 All stock options come with an expiration date, that is, the last date by which the option holder must exercise her option or lose it.
 
 American Options can be exercised anytime before expiry. European Options (which is what we have in India) can be only exercised on the expiration date.
+
+- [finance-equity-stocks-esops-questions](management/jobs/finance-equity-stocks-esops-questions.md)
+- [ELI5: employee stock option grant : r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/comments/18ri13u/eli5_employee_stock_option_grant/)
 
 ## Types of Stock Options
 
@@ -408,3 +411,4 @@ When the seller of a stock fails to deliver the shares to the exchange for the b
 ## Links
 
 - [swing-trading](economics/market-terms/swing-trading.md)
+- [26 Trading Resolutions for 2026 \| In The Money by Zerodha - YouTube](https://www.youtube.com/watch?v=23gtZo2Qe2g)

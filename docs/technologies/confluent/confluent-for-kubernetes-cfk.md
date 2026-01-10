@@ -21,26 +21,26 @@ The following are summaries of the main, notable features of CFK.
     - Complete granular RBAC, authentication and TLS network encryption
     - Auto-generated certificates
     - Support for credential management systems, such as HashiCorp Vault, to inject sensitive configurations in memory to Confluent deployments
-- Provides server properties, JVM, Log4j, and Log4j 2 configuration overrides for customization of all Confluent Platform components.    
+- Provides server properties, JVM, Log4j, and Log4j 2 configuration overrides for customization of all Confluent Platform components.
 
 **Upgrades**
 
 - Provides automated rolling updates for configuration changes.
-- Provides automated rolling upgrades with no impact to Kafka availability.    
+- Provides automated rolling upgrades with no impact to Kafka availability.
 
 **Scaling**
 
-- Provides single command, automated scaling and reliability checks of Confluent Platform.    
+- Provides single command, automated scaling and reliability checks of Confluent Platform.
 
 **Resiliency**
 
 - Restores a Kafka pod with the same Kafka broker ID, configuration, and persistent storage volumes if a failure occurs.
-- Provides automated rack awareness to spread replicas of a partition across different racks (or zones), improving availability of Kafka brokers and limiting the risk of data loss.    
+- Provides automated rack awareness to spread replicas of a partition across different racks (or zones), improving availability of Kafka brokers and limiting the risk of data loss.
 
 **Scheduling**
 
 - Supports Kubernetes labels and annotations to provide useful context to DevOps teams and ecosystem tooling.
-- Supports Kubernetes tolerations and pod/node affinity for efficient resource utilization and pod placement.    
+- Supports Kubernetes tolerations and pod/node affinity for efficient resource utilization and pod placement.
 
 **Monitoring**
 

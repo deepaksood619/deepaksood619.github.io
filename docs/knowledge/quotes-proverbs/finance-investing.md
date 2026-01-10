@@ -1,4 +1,4 @@
-# Quotes
+# Finance / Investing
 
 Diversification using portfolio allocation and goal based investing are the only things that works in personal finance investing
 

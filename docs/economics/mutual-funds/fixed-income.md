@@ -57,6 +57,7 @@ After 15 years
 - [EPF - Employee Provident Fund Calculator, Interest Rate & Withdrawal Rules Guide 2024 - YouTube](https://www.youtube.com/watch?v=w6otnFOojv8)
 - [ChatGPT - PF investment comparison](https://chatgpt.com/share/68f49357-cb9c-8005-a12e-3013fbe4d1e0)
 - [**Should I opt for ₹1800 PF or 12% : r/personalfinanceindia**](https://www.reddit.com/r/personalfinanceindia/comments/193c9op/should_i_opt_for_1800_pf_or_12/)
+- [A Complete Guide on Taxation of Interest on EPF Contribution Exceeding Rs 2.5 lakh](https://cleartax.in/s/epf-interest-taxation-exceeding-2-5-lakh)
 
 ### Superannuation
 
@@ -276,6 +277,7 @@ These bonds listed on the stock exchanges offer flexibility in terms of liquidit
 - [High Profit & Tax Free Bonds In India in 2024 \| Tax Free Bonds Investment \| How to Invest in Bonds? - YouTube](https://youtu.be/zr_n_4w6jQU)
 - [Do retail investors invest in tax free bonds in India? - Quora](https://www.quora.com/Do-retail-investors-invest-in-tax-free-bonds-in-India)
 - [Are tax-free bonds still available for investment in 2025? - Quora](https://www.quora.com/Are-tax-free-bonds-still-available-for-investment-in-2025)
+- [Should I Park My Lump Sum in Bonds and Invest Only the Interest in MFs?](https://freefincal.com/should-i-park-my-lump-sum-in-bonds-and-invest-only-the-interest-in-mfs/)
 
 ## Links
 

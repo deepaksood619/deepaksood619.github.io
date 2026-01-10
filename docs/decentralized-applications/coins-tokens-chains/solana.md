@@ -47,7 +47,7 @@ Solana (SOL) - [What is Solana? SOL Explained with Animations - YouTube](https:/
 - [What is Solana? SOL Explained with Animations - YouTube](https://www.youtube.com/watch?v=1jzROE6EhxM)
 - [Public Companies Are Stacking Solana—Is SOL the Next BTC? - YouTube](https://www.youtube.com/watch?v=oWEBABm16YE)
 - [Solana to $700? ETF, RWAs & Mobile Strategy Explained! - YouTube](https://www.youtube.com/watch?v=27E-V95HWT4)
-- Comparisions
+- Comparisons
 	- [TRC20 vs ERC20 vs Solana: Best Network for Stablecoin Transfers](https://ghostswap.io/trc20-vs-erc20-vs-solana-stablecoin-transfers/)
 	- [Solana vs Tron: Which Blockchain is Right for You?](https://chaingateway.io/blog/solana-vs-tron-which-blockchain-is-right-for-you/)
 	- [Tron vs Solana. After using both, I'm not surprised by these results : r/solana](https://www.reddit.com/r/solana/comments/1ez15wp/tron_vs_solana_after_using_both_im_not_surprised/)

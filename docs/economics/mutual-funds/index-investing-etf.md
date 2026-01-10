@@ -107,7 +107,14 @@ Another big reason most actively managed funds underperform index funds is their
 
 https://freefincal.com/build-equity-mutual-fund-portfolio
 
-[Why You Should Avoid ETFs \| ETFs vs Index Funds - YouTube](https://www.youtube.com/watch?v=tvVx63VTyXI)
+## ETFs vs Index Funds
+
+- [Why You Should Avoid ETFs \| ETFs vs Index Funds - YouTube](https://www.youtube.com/watch?v=tvVx63VTyXI)
+- [ETF vs Mutual Funds: How to Pick the Best for YOUR Goal? - YouTube](https://www.youtube.com/watch?v=ylj4QhSM2FQ)
+- [Should You Choose NIFTY 50 ETF Over NIFTY 50 Index Fund?](https://www.etmoney.com/learn/mutual-funds/comparing-nifty-50-etf-vs-nifty-50-index-fund/)
+- [Which are better index funds or ETFs i am a newbie can anyone explain : r/mutualfunds](https://www.reddit.com/r/mutualfunds/comments/1ewnggc/comment/ljipuro/)
+- [Niftybees vs icici nifty 50 MF which one for long term? : r/mutualfunds](https://www.reddit.com/r/mutualfunds/comments/1nkqlke/niftybees_vs_icici_nifty_50_mf_which_one_for_long/)
+- [Nifty50 ETF or Index fund - Which should one prefer? : r/IndiaInvestments](https://www.reddit.com/r/IndiaInvestments/comments/kj9qcq/nifty50_etf_or_index_fund_which_should_one_prefer/)
 
 ## Should I switch to Index Funds?
 

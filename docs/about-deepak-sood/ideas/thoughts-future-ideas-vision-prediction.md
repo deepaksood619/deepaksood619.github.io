@@ -89,6 +89,22 @@ The whole world is moving towards electric, but India is pushing more towards Hy
 
 [Here are Vinod Khosla's 10 predictions for the coming decades](https://www.cnbctv18.com/technology/here-are-vinod-khosla-10-predictions-for-the-coming-decades-18240961.htm)
 
+### Vinod Khosla predictions for 2050 (the world we can create)
+
+- *Expertise will be near free:* We will be capable of having near free AI doctors for every person & AI tutors for every child, 24x7
+- *Labor will be near free:* We will have a billion bipedal (and other) robots freeing humans from the servitude of undesirable jobs.
+- ⁠⁠*Computer use will grow expansively:* here will be a billion+ programmers all “programming” in human language, dramatically increasing the scope of computers. Computers will adapt to humans, not humans to computers.
+- ⁠*AI will play a large role in entertainment & design:* Music and entertainment will be plentiful & personalised for you & your mood! Diversity of content & creativity will increase The celebrity-fan relationship won’t change
+- ⁠*Scientists will be supercharged:* AI scientists, working alone or with humans, will become super scientists, able to 10x or 100x their capability, creativity, and volume of research
+- *Internet access will be mostly by agents:* Most consumer access of the internet will be agents acting for consumers doing tasks and fending off marketers and bots. Tens of billions of agents on the internet will be normal.
+- *⁠From the practice to the science of medicine:* We will be capable of providing precision care based on patients’ -omics, as well as AI models for each individual, enabling simulation of each body for therapeutics, dosages, etc
+- ⁠*We will have new food & fertilizers:* We will have much better alternate protein production to replace traditional animal protein, & “green” fertilizer. And taste will far exceed that of traditional cows.
+- *⁠Cars could be displaced in cities:* We could replace majority of cars in cities with personal autonomous transit as on-demand, affordable, public transit, increasing street throughput dramatically.
+- ⁠*Flying will be faster:* We will have Mach 5 planes that get us from NYC to London in 90 minutes – on sustainable aviation fuel, making the world closer!
+- *There will be clean, dispatchable electric power*: By 2050, fusion boilers will retrofit and replace coal and natural gas boilers reducing the need to build whole new fusion plants. Superhot geothermal >400C is also a real alternative.
+- ⁠*Resources will be plentiful:* We will discover more natural resources than we consume & prove resource doomers wrong on lithium, cobalt, copper…
+- *Carbon will have solutions … if we have time:* Carbon emissions could be a smaller issue because entrepreneurs will develop & scale better technologies for cement, steel, agriculture, transportation, power production, DAC, etc.
+
 ### Mobility
 
 #### Self Driving Car

@@ -4,6 +4,12 @@
 
 [ClickBench - a Benchmark For Analytical DBMS](https://benchmark.clickhouse.com/)
 
+[How the 5 major cloud data warehouses compare on cost-performance](https://clickhouse.com/blog/cloud-data-warehouses-cost-performance-comparison)
+
+- **TL;DR**
+- We benchmarked **Snowflake**, **Databricks**, **ClickHouse Cloud, BigQuery**, and **Redshift** across 1B, 10B, and 100B rows, applying each vendor’s real compute billing rules.
+- For analytical workloads at scale, **ClickHouse Cloud delivers an order-of-magnitude better value than any other system**.
+
 ## ClickHouse vs Snowflake
 
 ClickHouse is designed for real-time data analytics and exploration at scale. Snowflake is a cloud data warehouse that is well-optimized for executing long-running reports and ad-hoc data analysis. When it comes to real-time analytics, ClickHouse shines with faster queries at a fraction of the cost.

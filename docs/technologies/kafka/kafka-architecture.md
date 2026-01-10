@@ -160,9 +160,33 @@ There are tradeoffs with enabling compression that should be considered. Compres
 
 https://www.confluent.io/blog/compression-in-apache-kafka-is-now-34-percent-faster
 
-## Others
+## Unclean Leader Election
 
 Another caveat with Kafka is unclean leader elections. That is, if all replicas become unavailable, there are two options: choose the first replica to come back to life (not necessarily in the ISR) and elect this replica as leader (which could result in data loss) or wait for a replica in the ISR to come back to life and elect it as leader (which could result in prolonged unavailability). Initially, Kafka favoured availability by default by choosing the first strategy. If you preferred consistency, you needed to set `unclean.leader.election.enable` to `false`. However, as of 0.11, `unclean.leader.election.enable` now defaults to this.
+
+When `unclean.leader.election.enable` is set to `true` in Kafka, it means that Kafka allows an out-of-sync replica to become the leader during a leader election if there are no in-sync replicas available. This is considered an "unclean" leader election because the selected leader might not have all the messages that were written while it was down.
+
+how Kafka knows if the new leader is "clean" or not, when `unclean.leader.election.enable` is true:
+
+- **Kafka does not explicitly check if the new leader is "clean."** The setting allows for the possibility of unclean leader elections, acknowledging that the elected leader might not be in sync with the latest messages.
+- **The leader may not have all the messages written while it was down.** This is an accepted trade-off for cases where ensuring availability is prioritized over strict consistency.
+- **Efficiency vs. Consistency trade-off:** Storing the latest offset for each received message in a distributed storage system like ZooKeeper for every leader replica could be resource-intensive and may introduce additional latency. Kafka's design, in this case, prioritizes availability and responsiveness.
+
+If strict consistency is a higher priority for your use case, you might choose to keep `unclean.leader.election.enable` set to `false` (the default) to prevent unclean leader elections and ensure that a new leader must be fully caught up with the latest messages.
+
+Here's how Kafka determines whether a new leader is "clean" or not when `unclean.leader.election.enable` is set to `false`:
+
+1. **In-Sync Replica (ISR) Set:** Kafka maintains a concept called the In-Sync Replica (ISR) set for each partition. The ISR set consists of replicas that are in sync with the leader.
+2. **Leader Election:** When a leader election occurs, only replicas in the ISR set are eligible to become the new leader.
+3. **Replica Catch-Up:** Before a replica becomes the leader, it needs to catch up with the leader's log. If a replica is not in the ISR set or is lagging significantly behind the leader, it won't be eligible to become the new leader.
+4. **Out-of-Sync Replica Handling:** If a replica is out of sync and cannot catch up within a configured time (controlled by the `replica.lag.time.max.ms` property), it may be removed from the ISR set, preventing it from becoming the leader.
+5. **ZooKeeper Information:** Kafka uses ZooKeeper to maintain metadata, including information about the ISR set. ZooKeeper keeps track of which replicas are in sync with the leader.
+
+By relying on the ISR set and ensuring that only replicas in sync are eligible for leadership, Kafka helps prevent the scenario where an out-of-sync replica becomes a leader. This mechanism contributes to maintaining data consistency and avoiding potential data loss during leader elections.
+
+In summary, Kafka uses the ISR set, replica synchronization, and information stored in ZooKeeper to ensure that only in-sync replicas are considered for leadership when `unclean.leader.election.enable` is set to `false`.
+
+[How Kafka detects unclean leader election? - Stack Overflow](https://stackoverflow.com/questions/77716296/how-kafka-detects-unclean-leader-election)
 
 ## Others
 

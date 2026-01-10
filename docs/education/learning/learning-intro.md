@@ -400,6 +400,8 @@ You understand an idea not when you've memorized it, but when you know why its s
 ## Tools
 
 - https://curious.com/
+- [AI Flashcard Maker - Generate FlashCards for Free](https://notegpt.io/ai-flashcard-maker)
+- [Keepmind](https://keepmind.ai/)
 
 ## Others
 

@@ -105,23 +105,18 @@
 
 ## Other Recipes
 
-[Easy Lemon Chicken Recipe-Oil Free Lemon Chicken-Diet Lemon Chicken-How to cook oil free Chicken(SUB](https://www.youtube.com/watch?v=MXhYPZ9KQT4)
-
-[Egg Maggi Masala Recipe in Hindi | Street Style Egg Maggi Masala | Bachelors Recipe | KabitasKitchen](https://www.youtube.com/watch?v=6xqsC9pOa3M)
-
-[Veg Pulao Recipe | कुकर में झटपट बनाये बेहतरीन पुलाव | Pressure Cooker Pulao | KabitasKitchen](https://www.youtube.com/watch?v=qFE9madv0RY)
-
-- For 1 glass rice - 1.5 glass water
-- High Flame - 1 whistle
-- Gas off - don't open till cool
-
-[Jab Koi Sabji Na Ho Toh Sirf 5 Minute May Banaiye Ye Zabardast Recipe - Pet Bharega Dil Nahi - CWF](https://www.youtube.com/watch?v=2Ln3b37gJlE)
-
-[Air Fryer Tandoori Mushrooms - Spicy Mushroom Tikka - Fast Curries](https://fastcurries.com/2019/07/11/air-fryer-spicy-tandoori-mushrooms/)
-
-[Khichdi Recipe | Simple & Healthy Khichdi | Masala Khichdi Recipe | Comfort Food | Chef Kunal Kapur - YouTube](https://www.youtube.com/watch?v=TvTMsUeC-z4&ab_channel=KunalKapur)
-
-[Just Oats & Spinach! No Flour, No Sugar, No Yeast – Lose 15kg Fast! - YouTube](https://www.youtube.com/watch?v=A_gUfK4Y_qA&ab_channel=Nourish%26Savor)
+- [Easy Lemon Chicken Recipe-Oil Free Lemon Chicken-Diet Lemon Chicken-How to cook oil free Chicken(SUB](https://www.youtube.com/watch?v=MXhYPZ9KQT4)
+- [Egg Maggi Masala Recipe in Hindi | Street Style Egg Maggi Masala | Bachelors Recipe | KabitasKitchen](https://www.youtube.com/watch?v=6xqsC9pOa3M)
+- [Veg Pulao Recipe | कुकर में झटपट बनाये बेहतरीन पुलाव | Pressure Cooker Pulao | KabitasKitchen](https://www.youtube.com/watch?v=qFE9madv0RY)
+	- For 1 glass rice - 1.5 glass water
+	- High Flame - 1 whistle
+	- Gas off - don't open till cool
+- [Jab Koi Sabji Na Ho Toh Sirf 5 Minute May Banaiye Ye Zabardast Recipe - Pet Bharega Dil Nahi - CWF](https://www.youtube.com/watch?v=2Ln3b37gJlE)
+- [Air Fryer Tandoori Mushrooms - Spicy Mushroom Tikka - Fast Curries](https://fastcurries.com/2019/07/11/air-fryer-spicy-tandoori-mushrooms/)
+- [Khichdi Recipe | Simple & Healthy Khichdi | Masala Khichdi Recipe | Comfort Food | Chef Kunal Kapur - YouTube](https://www.youtube.com/watch?v=TvTMsUeC-z4&ab_channel=KunalKapur)
+- [Just Oats & Spinach! No Flour, No Sugar, No Yeast – Lose 15kg Fast! - YouTube](https://www.youtube.com/watch?v=A_gUfK4Y_qA&ab_channel=Nourish%26Savor)
+- [Cafe Style BUTTER GARLIC EGGs 10 Min RECIPE \| Breakfast Eggs Recipe \| EGGS in Butter Garlic Sauce - YouTube](https://www.youtube.com/watch?v=nIv465yPI1c)
+- [These baked chickpea and quinoa sticks are my favorite high-protein snack! - YouTube](https://www.youtube.com/watch?v=f0tEQV-yte0)
 
 ### Oats
 

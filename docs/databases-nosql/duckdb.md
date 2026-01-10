@@ -19,6 +19,27 @@ brew install duckdb
 
 - [Performance Guide – DuckDB](https://duckdb.org/docs/guides/performance/overview.html)
 
+### Appender
+
+If you're streaming data into DuckDB, INSERT statements become a bottleneck fast.
+
+DuckDB's Appender API bypasses the SQL layer entirely. No parsing, no query planning. You write directly to the columnar storage format, which means you can handle real-time ingestion without the usual speed/batch size trade-off.
+
+Stream rows through a low-level API. Data caches in batches before writing to disk. You're essentially using a binary protocol instead of SQL strings.
+
+Good for:
+
+- Kafka consumers or message queue ingestion
+- Log aggregation pipelines
+- IoT sensor data collection
+- Any scenario where data arrives continuously
+
+A few things to watch out for. It's order and type sensitive. You match columns exactly, no inference. One constraint violation fails the entire batch, no partial inserts. And you're writing to a single table per Appender instance.
+
+Available in C, C++, Go, Java, and Rust. For batch ETL or small datasets, regular INSERT is simpler and fine. But for streaming? This is the tool.
+
+[Appender – DuckDB](https://duckdb.org/docs/stable/data/appender)
+
 ## Tutorials
 
 - [Hands-On Exploratory Data Analysis with DuckDB](https://www.packtpub.com/en-us/learning/how-to-tutorials/hands-on-exploratory-data-analysis-with-duckdb)

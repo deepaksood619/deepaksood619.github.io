@@ -139,6 +139,7 @@ Active - Quant Momentum Fund
 - Momentum and value are complimentary
 - Mirae Asset S&P 500 TOP 50 ETF
 - Quant Infrastructure Fund Direct Growth
+- [List of worst equity mutual funds (Jan 2013 to Dec 2025)](https://freefincal.com/list-of-worst-equity-mutual-funds-jan-2013-to-dec-2025/)
 
 ## Categories of actively managed equity mutual fund schemes
 
@@ -313,3 +314,4 @@ Earn passive income with the help of 3 partial withdrawal strategies which can b
 - [Can I use NIFTY 50 in retirement for income through SWP?](https://freefincal.com/can-i-use-nifty-50-in-retirement-for-income-through-swp/)
 - [Parag Parikh Flexi Cap and Quant Small Cap among 12 equity mutual funds to offer over 20% CAGR in 3, 5, 7 years - The Economic Times](https://m.economictimes.com/mf/analysis/parag-parikh-flexi-cap-and-quant-small-cap-among-12-equity-mutual-funds-to-offer-over-20-cagr-in-3-5-7-years/amp_articleshow/125129020.cms)
 - [Best Large-cap Fund 2026 \| Mutual Funds For 2026 By Finology - YouTube](https://youtu.be/-AL1tAlYFu4)
+- [List of worst equity mutual funds (Jan 2013 to Dec 2025)](https://freefincal.com/list-of-worst-equity-mutual-funds-jan-2013-to-dec-2025/)

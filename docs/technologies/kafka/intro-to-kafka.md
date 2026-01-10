@@ -191,6 +191,7 @@ In-sync replicas is the subset of the replicas list that is currently alive and 
 - [Introduction to Apache Kafka \| PPT](https://www.slideshare.net/slideshow/introduction-to-apache-kafka-239053578/239053578)
 - [Fundamentals for Apache Kafka](https://www.anuragkapur.com/assets/blog/engineering/apache-kafka/slidesapachekafkaarchitecturefundamentalsexplained1579807020653.pdf)
 	- [Apache Kafka Architecture & Fundamentals Explained \| PPT](https://www.slideshare.net/slideshow/apache-kafka-architecture-fundamentals-explained/184949786)
+- [Gently Down the Stream](https://www.gentlydownthe.stream/)
 
 ## Learning
 

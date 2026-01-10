@@ -2,8 +2,8 @@
 
 - FAANGM / MAANG - Facebook, Apple, Amazon, Netflix, Google, Microsoft
 - WITCH - Wipro, Infosys, Tata Consultancy Services, Cognizant, HCL
-- Big 4 - Accounting Firms - Deloitte, PricewaterhouseCoopers (PwC), KPMG, and EY
-- Big 3 / MBB - Management Consulting - McKinsey & Company, Boston Consulting Group, Bain & Company
+- Big 4 / Big-4 / Big4 - Accounting Firms - Deloitte, PricewaterhouseCoopers (PwC), KPMG, and EY
+- Big 3 / Big-3 / Big3 / MBB - Management Consulting - McKinsey & Company, Boston Consulting Group (BCG), Bain & Company
 
 ### Mobility Companies
 

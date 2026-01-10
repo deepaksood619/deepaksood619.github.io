@@ -160,15 +160,11 @@ https://www.onlymyhealth.com/how-gain-weight-in-days-1326451658
 
 ![image](../../../media/Nutrition_Food-image2.jpg)
 
-- Grains: Make half your grain whole. Eat at least 3 oz. of whole grain cereals, breads, crackers, rice, or pasta every day
-
-- Vegetables: Vary your vegetables. Eat more dark green veg- etables like broccoli and spinach. Eat more orange vegetables like carrots and sweet potatoes. Eat more dry beans and peas
-
-- Fruits: Eat a variety of fruits. Choose fresh, frozen, canned, or dried fruit. Go easy on fruit juices, which have high sugar content without much fiber
-
-- Milk: Eat calcium-rich foods. Choose low-fat or fat-free dairy products. If you don't drink milk or eat dairy products, choose lactose-free products or other calcium sources such as fortified foods and drinks
-
-- Meat and beans: Eat lean proteins. Choose low-fat or lean cuts of meat and poultry. Bake, broil, or grill your meats. Eat more fish, beans, peas, nuts, and seeds
+- **Grains:** Make half your grain whole. Eat at least 3 oz. of whole grain cereals, breads, crackers, rice, or pasta every day
+- **Vegetables:** Vary your vegetables. Eat more dark green veg- etables like broccoli and spinach. Eat more orange vegetables like carrots and sweet potatoes. Eat more dry beans and peas
+- **Fruits:** Eat a variety of fruits. Choose fresh, frozen, canned, or dried fruit. Go easy on fruit juices, which have high sugar content without much fiber
+- **Milk:** Eat calcium-rich foods. Choose low-fat or fat-free dairy products. If you don't drink milk or eat dairy products, choose lactose-free products or other calcium sources such as fortified foods and drinks
+- **Meat and beans:** Eat lean proteins. Choose low-fat or lean cuts of meat and poultry. Bake, broil, or grill your meats. Eat more fish, beans, peas, nuts, and seeds
 
 ![image](../../../media/Nutrition_Food-image3.jpg)
 
@@ -182,28 +178,19 @@ https://www.onlymyhealth.com/how-gain-weight-in-days-1326451658
 ## Vegetables
 
 - Daikon, White Radish - Mooli
-
-https://www.healthline.com/nutrition/list-of-vegetables
-
-Mushroom - White Truffle [Tuber magnatum - Wikipedia](https://en.wikipedia.org/wiki/Tuber_magnatum)
+- https://www.healthline.com/nutrition/list-of-vegetables
+- Mushroom - White Truffle [Tuber magnatum - Wikipedia](https://en.wikipedia.org/wiki/Tuber_magnatum)
 
 ## Eight principles of low-glycemic eating
 
-7. Eat a lot of non-starchy vegetables, beans, and fruits such as apples, pears, peaches, and berries. Even tropi- cal fruits like bananas, mangoes, and papayas tend to have a lower glycemic index than typical desserts
-
-8. Eat grains in the least-processed state possible: "unbroken," such as whole-kernel bread, brown rice, and whole barley, millet, and wheat berries; or tra- ditionally processed, such as stone-ground bread, steel-cut oats, and natural granola or muesli breakfast cereals
-
-9. Limit white potatoes and refined grain products such as white breads and white pasta to small side dishes.
-
-10. Limit concentrated sweets - including high-calorie foods with a low glycemic index, such as ice cream - to occasional treats. Reduce fruit juice to no more than one cup a day. Completely eliminate sugar-sweetened drinks
-
-11. Eat a healthful type of protein, such as beans, fish, or skinless chicken, at most meals
-
-12. Choose healthful fats, such as olive oil, nuts (almonds, walnuts, pecans), and avocados. Limit saturated fats from dairy and other animal products. Completely eliminate partially hydrogenated fats (trans fats), which are in fast food and many packaged foods
-
-13. Have three meals and one or two snacks each day, and don't skip breakfast
-
-14. Eat slowly and stop when full
+1. Eat a lot of non-starchy vegetables, beans, and fruits such as apples, pears, peaches, and berries. Even tropi- cal fruits like bananas, mangoes, and papayas tend to have a lower glycemic index than typical desserts
+2. Eat grains in the least-processed state possible: "unbroken," such as whole-kernel bread, brown rice, and whole barley, millet, and wheat berries; or tra- ditionally processed, such as stone-ground bread, steel-cut oats, and natural granola or muesli breakfast cereals
+3. Limit white potatoes and refined grain products such as white breads and white pasta to small side dishes.
+4. Limit concentrated sweets - including high-calorie foods with a low glycemic index, such as ice cream - to occasional treats. Reduce fruit juice to no more than one cup a day. Completely eliminate sugar-sweetened drinks
+5. Eat a healthful type of protein, such as beans, fish, or skinless chicken, at most meals
+6. Choose healthful fats, such as olive oil, nuts (almonds, walnuts, pecans), and avocados. Limit saturated fats from dairy and other animal products. Completely eliminate partially hydrogenated fats (trans fats), which are in fast food and many packaged foods
+7. Have three meals and one or two snacks each day, and don't skip breakfast
+8. Eat slowly and stop when full
 
 http://hrccatalog.hrrh.on.ca/InmagicGenie/DocumentFolder/healthy%20eating.pdf
 
@@ -451,11 +438,9 @@ It's nearly impossible to completely eliminate insect fragments during large-sca
 
 ## Links
 
-[Why I eat "expired" food - YouTube](https://www.youtube.com/watch?v=kCeuP6yG64g)
-
-[Food expiration dates don’t mean what you think - Carolyn Beans - YouTube](https://www.youtube.com/watch?v=jDg8DQl7ZeQ)
-
-[Why Coconut Farmers Risk Their Lives To Feed The World's Superfood Obsession | Big Business - YouTube](https://www.youtube.com/watch?v=vEA8HpR_Azw)
+- [Why I eat "expired" food - YouTube](https://www.youtube.com/watch?v=kCeuP6yG64g)
+- [Food expiration dates don’t mean what you think - Carolyn Beans - YouTube](https://www.youtube.com/watch?v=jDg8DQl7ZeQ)
+- [Why Coconut Farmers Risk Their Lives To Feed The World's Superfood Obsession | Big Business - YouTube](https://www.youtube.com/watch?v=vEA8HpR_Azw)
 
 ![oat-vs-coke-vs-french-fries](../../../media/Pasted%20image%2020231001165735.jpg)
 
@@ -464,3 +449,4 @@ It's nearly impossible to completely eliminate insect fragments during large-sca
 - [Why Some Fruits Won’t Ripen On Your Counter - YouTube](https://www.youtube.com/watch?v=ttCd60Qko5A)
 - [Ultra processed foods and the third age of eating - with Chris van Tulleken - YouTube](https://www.youtube.com/watch?v=j1oOoYnCfJs)
 - [Diet Expert: Weight Loss, Calories, Digestion, Sugar & Belly Fat \| Pooja Makhija \| FO433 Raj Shamani - YouTube](https://www.youtube.com/watch?v=xi-zHJL5bnI)
+- [Rice morning, noon, and night: why the Japanese don’t gain weight - Futura-Sciences](https://www.futura-sciences.com/en/rice-morning-noon-and-night-why-the-japanese-dont-gain-weight_22716/)

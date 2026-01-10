@@ -110,6 +110,10 @@ jsii allows code in any language to naturally interact with JavaScript classes. 
 
 https://github.com/aws/jsii
 
+## Comparisons
+
+- [I built an app in every frontend framework - DEV Community](https://dev.to/lissy93/i-built-an-app-in-every-frontend-framework-4a9g)
+
 ## Others
 
 - [Elysia - Ergonomic Framework for Humans \| ElysiaJS](https://elysiajs.com/)

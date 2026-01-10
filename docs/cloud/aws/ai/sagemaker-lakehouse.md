@@ -24,6 +24,8 @@ Bring your data into the lakehouse without expensive pipeline management
 
 ![Zero-ETL Integration](../../../media/Screenshot%202025-10-27%20at%2011.42.05%20PM.jpg)
 
+[Aurora zero-ETL integrations - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/zero-etl.html)
+
 ## Amazon Sagemaker Lakehouse Components
 
 ![Amazon Sagemaker Lakehouse Components](../../../media/Screenshot%202025-10-27%20at%2011.32.41%20PM.jpg)

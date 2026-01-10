@@ -141,6 +141,16 @@ The point of making money is not so you can buy everything.
 - When you chase money for status, you stay a slave to it. But when you build money for freedom, it becomes a tool that works for you instead of the other way around. The goal is not to be owned by things but to own your time, your choices, and your future.
 - Money at its highest level is leverage. It gives you options, it gives you control, and it makes sure no one can dictate your value. Because when you are truly free, that is when you are truly wealthy.
 
+## Psychology
+
+- [The Inflation of Loneliness: Why Silence Costs More Than Healthcare/Inflation in Retirement](https://freefincal.com/the-inflation-of-loneliness-why-silence-costs-more-than-healthcare-inflation-in-retirement/)
+	- **The most expensive bill in retirement isn’t healthcare or inflation. It’s silence.**
+	- Suddenly, you are home at 11 AM on a Tuesday, the house is empty, your children are busy in their own corporate rat races (or living abroad), and the silence is deafening.
+	- Many retirees become grumpy or depressed simply because they are starving for the respect they used to command effortlessly.
+	- For many Indian parents, loneliness drives them to become financial givers just to stay relevant.
+	- Deep down, you fear that if you stop providing financial value, the phone calls from your children might stop, too. You are essentially paying a subscription fee for your family’s attention.
+	- Retirement requires a social portfolio just as much as a financial one. If you don’t invest in relationships and humility today, you will spend a fortune trying to buy attention tomorrow.
+
 ## Others
 
 - DINK - Double Income No Kid
@@ -199,3 +209,5 @@ Even if the 26-year-old retires by 27 (naturally an unlikely event), the suggest
 - [How an indexed pension makes a huge difference to a retirement plan](https://freefincal.com/how-an-indexed-pension-makes-a-huge-difference-to-a-retirement-plan/)
 - [**Retire early to lower your retirement corpus!**](https://freefincal.com/retire-early-to-lower-your-retirement-corpus-2/)
 - [My Spouse Is Not Ready to Learn Finances - What to Do?](https://freefincal.com/my-spouse-is-not-ready-to-learn-finances-what-to-do/)
+- [The 12 stages of preparing for retirement](https://freefincal.com/the-12-stages-of-preparing-for-retirement/)
+- [Why the 4% FIRE rule fails in India and how you can fix the retirement plan](https://www.moneycontrol.com/news/business/personal-finance/why-the-4-retirement-rule-fails-for-fire-in-india-and-what-you-should-do-13760092.html)
