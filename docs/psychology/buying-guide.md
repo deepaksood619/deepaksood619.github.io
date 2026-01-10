@@ -35,12 +35,12 @@
 	- Remote lock using phone number - android.com/lock
 - Android settings
 	- Google > All services > Theft Protection
-	- Device protect settings 
-	- Require password to power off 
+	- Device protect settings
+	- Require password to power off
 	- Remote lock
 	- Find my device
 	- Hide location details on lock screen
-	- Swipe down on lock screen to view notification drawer 
+	- Swipe down on lock screen to view notification drawer
 
 ### Checklist
 
@@ -65,16 +65,18 @@
 - Split AC only
 
 [Best AC Under 30000 \| Best AC 2024 \| AC Buying Guide 2024 - YouTube](https://www.youtube.com/watch?v=oea6PxxbTWs&ab_channel=VineetMalhotra)
-- Godrej  
-- Lloyd  
+
+- Godrej
+- Lloyd
 - Voltas
 
 3 or 5 STAR AC
+
 - The extra cost of buying a 5 Star AC over a 3 Star AC should benefit you by saving electricity.
 - If that's not happening, then a 3 Star AC is Best for you. Buy a 3 Star AC if you use it for 3 - 4 months a year.
 - Buy a 5 Star AC if you use it for over 6 months a year.
 
-![AC Guide](../../media/Screenshot%202025-03-13%20at%209.03.27%20PM.jpg)
+![AC Guide](../media/Screenshot%202025-03-13%20at%209.03.27%20PM.jpg)
 
 ## Laptop
 
@@ -167,9 +169,9 @@
 - [AU Ixigo card - detailed review : r/CreditCardsIndia](https://www.reddit.com/r/CreditCardsIndia/comments/1d396cn/au_ixigo_card_detailed_review/)
 - [Scapia: How this tech company got killed : r/CreditCardsIndia](https://www.reddit.com/r/CreditCardsIndia/comments/1er1olf/scapia_how_this_tech_company_got_killed/)
 - Used/Finalized - HDFC Regalia Gold Global Value Program (GVP)
-	- 1% Cashback: on all international transactions (max ₹1,000/statement cycle). 
-	- ₹2,000 Travel Voucher: (MakeMyTrip, etc.) on ₹1.5 Lakhs annual international spends. 
-	- Welcome Bonus: 500 points on first international transaction (first year only). 
+	- 1% Cashback: on all international transactions (max ₹1,000/statement cycle).
+	- ₹2,000 Travel Voucher: (MakeMyTrip, etc.) on ₹1.5 Lakhs annual international spends.
+	- Welcome Bonus: 500 points on first international transaction (first year only).
 	- [HDFC Global Value Program - Effective Reward Rate : r/CreditCardsIndia](https://www.reddit.com/r/CreditCardsIndia/comments/1l4pq65/hdfc_global_value_program_effective_reward_rate/)
 - USD Cash
 	- MakeMyTrip
@@ -180,7 +182,7 @@
 ### Others
 
 - IDP is really not required for anyone from India as long as the **driving license is in English.** The IDP is only a translation of your current license and if the information in that is already in English then it’s pointless.
-- An International Driving Permit (IDP) isn't a license itself but an official translation and validation of your domestic driving license, allowing you to drive in foreign countries by overcoming language barriers; you must carry both the IDP and your original license, as the IDP only serves as an official supplement, not a replacement, proving you have valid driving privileges abroad. 
+- An International Driving Permit (IDP) isn't a license itself but an official translation and validation of your domestic driving license, allowing you to drive in foreign countries by overcoming language barriers; you must carry both the IDP and your original license, as the IDP only serves as an official supplement, not a replacement, proving you have valid driving privileges abroad.
 - An International Driving Permit (IDP) is typically valid for one year from its issue date.
 - [Is a international driving permit pointless? Do I need to renew it if I have it? : r/travel](https://www.reddit.com/r/travel/comments/zqyx6r/is_a_international_driving_permit_pointless_do_i/)
 - [My experience with getting an International Driving Permit (IDP) : r/bangalore](https://www.reddit.com/r/bangalore/comments/z8l0w7/my_experience_with_getting_an_international/)
@@ -247,7 +249,7 @@ So for a long haul international flight you can take middle aisle with aisle sid
 
 ## RO / Water Purifier
 
-- Sediment and carbon filter 
+- Sediment and carbon filter
 - Membrane filter
 - Motor - booster pump 100 gpd - cruise lux pure 800-900
 

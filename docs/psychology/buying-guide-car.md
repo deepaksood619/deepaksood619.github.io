@@ -189,7 +189,7 @@
 	- AMT (50K extra)
 	- Automatic (1L extra)
 	- DCT - far better (have 2 clutches), but don't know
-	- CVT - 
+	- CVT -
 
 ## Taxation
 
@@ -247,7 +247,7 @@ A whopping ₹5.96 lakh crores lost or [3% of the GDP](https://bn9wksbn.r.us-eas
 
 ### Insurance selector
 
-- Claim settlement ratio  
+- Claim settlement ratio
 - Policy bazaar (Tata AIG)
 	- Zurich Kotak - 26,480
 	- With add on tata aig - 38227
