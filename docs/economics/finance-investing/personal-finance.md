@@ -135,3 +135,7 @@ Use money to buy peace. And, use your peace to make (fewer but) better strategic
 - [Convenience and Comparison Trap: Why You Cannot Stay Invested in Equity for the Long Term](https://freefincal.com/convenience-and-comparison-trap-why-you-cannot-stay-invested-in-equity-for-the-long-term/)
 - [16 personal finance resolutions for 2026](https://freefincal.com/16-personal-finance-resolutions-for-2026/)
 - [Why You Feel Poor Even When You Have Money: The Silent Cost of Financial Trauma](https://freefincal.com/why-you-feel-poor-even-when-you-have-money-the-silent-cost-of-financial-trauma/)
+- [Which Debt Fund is Right for Your Goal?](https://youtu.be/GxGn61KumBM)
+- [Keep PPF account forever, Don't close after 15 years | Get 24000 rupees ...](https://youtu.be/aDOdD3dqXCw)
+- [Home Loan Mistakes That Cost You LAKHS - How to Pay Off Faster | Ankur W...](https://youtu.be/_6gcdQQTXa8)
+- [Movies Every Trader Should Watch | In The Money by Zerodha](https://youtu.be/dh-wR0crcs4)

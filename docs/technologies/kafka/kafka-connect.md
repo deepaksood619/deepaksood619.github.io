@@ -198,3 +198,4 @@ These single message transforms (SMTs) are available for use with Kafka Connect:
 - https://kafka.apache.org/documentation/#connectapi
 - https://docs.confluent.io/current/installation/docker/docs/installation/single-node-client.html#step-7-start-kafka-connect
 - https://docs.confluent.io/current/connect/transforms/index.html
+- [Snowflake Just Unlocked Real-Time Kafka Streaming at Unprecedented Scale \| by Sahil Walia \| Snowflake Builders Blog: Data Engineers, App Developers, AI, & Data Science \| Jan, 2026 \| Medium](https://medium.com/snowflake/snowflake-just-unlocked-real-time-kafka-streaming-at-unprecedented-scale-e7617c2a451f)

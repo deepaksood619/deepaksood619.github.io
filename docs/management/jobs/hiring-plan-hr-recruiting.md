@@ -98,6 +98,8 @@ that challenge the status quo.
 
 ## Others
 
+[Ex-Google Recruiter Explains Why "Lying" Gets You Hired - YouTube](https://youtu.be/T__1QViXUxk)
+
 Background verification tool - [verifydirectintl.com/index.aspx](https://verifydirectintl.com/)
 
 https://auren.substack.com/p/moneyballing-for-talent

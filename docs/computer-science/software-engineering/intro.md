@@ -89,6 +89,8 @@ How to estimate
 
 [How To Estimate Software Development Time](https://www.youtube.com/watch?v=v21jg8wb1eU)
 
+[Michael Wolfe's answer to Why are software development task estimations regularly off by a factor of 2-3? - Quora](https://www.quora.com/Why-are-software-development-task-estimations-regularly-off-by-a-factor-of-2-3/answer/Michael-Wolfe)
+
 ## Antipatterns
 
 - Centralized control and ownership: One size doesn't fit all

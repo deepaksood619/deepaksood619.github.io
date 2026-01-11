@@ -91,6 +91,8 @@ While sometimes tantrums are inevitable, a few smart strategies can help head th
 
 [Toddler Temper Tantrums](https://www.whattoexpect.com/toddler/temper-tantrums)
 
+[Why Your Toddler Suddenly Talks Back – The Truth No One Tells You](https://youtu.be/k3flkoEwdOM)
+
 ## Six-Pocket Syndrome
 
 The term emerged in China during its one-child policy era. With shrinking family sizes, every child effectively had six adults two parents and four grandparents, focusing their emotional and financial resources on them. Six pockets, all pouring into one tiny life.
@@ -370,3 +372,7 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [Why Homeschool Parents Are So Effective Without Teaching Degrees \| The Good and the Beautiful - YouTube](https://youtu.be/7Af7MwSupEQ)
 - [Dyslexia - Wikipedia](https://en.wikipedia.org/wiki/Dyslexia)
 - [How to Stop a Baby Crying using the 'Dr Hamilton' technique. It works!! :) - YouTube](https://www.youtube.com/watch?v=4Xt-Yow_J8Q)
+- [Lying and 6 Other Things Babies Learn Early](https://youtu.be/f7FhKywXRGk)
+- [The Good and The Beautiful Early Years Curriculum Review for Preschool a...](https://youtu.be/IG3zcdtUtwA)
+- [Homeschool Kindergarten Math Comparison \|\| The Good and the Beautiful and Math With Confidence - YouTube](https://youtu.be/xvf5VOWWnng)
+- [5 Tiny Habits That Supercharge Your Child's Brain Development | Dr. Arif...](https://youtu.be/WJsiBOuXQvA)

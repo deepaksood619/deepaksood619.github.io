@@ -461,3 +461,4 @@ The "birth lottery" (or "lottery of birth") refers to the idea that the circumst
 - [The Easiest Way to Improve Your Relationship | The Gottman Institute](https://youtu.be/ib7Ain2aVR0)
 - [The Seven Principles for Making Marriage Work (Animated) – Book Summary](https://youtu.be/FfpK3NaC6lI)
 - [The 7 Principles For Making Marriage Work by John Gottman - Relationship...](https://youtu.be/knBJGNisJS0)
+- [Relationship Advice from 50+ Years of Marriage (w/ The Gottmans) | How t...](https://youtu.be/nJ4RtT0T_BA)

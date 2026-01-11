@@ -68,3 +68,4 @@ Although built as a generic data processor, Flink’s native support of unbounde
 - [Apache Spark Vs. Apache Flink Vs. Apache Kafka Vs. Apache Storm! Data St...](https://youtu.be/V3Q3EkbEc_k)
 - [Stateless vs Stateful Stream Processing with Kafka Streams and Apache Flink](https://youtu.be/LYf05ArIkzA)
 - [Consume Apache Kafka Messages using Apache Flink and Java](https://youtu.be/JfqoVuVDYUE)
+- [Apache Flink: What it is and how it works.](https://youtu.be/X1bhZZgAlCI)

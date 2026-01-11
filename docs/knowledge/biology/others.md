@@ -140,15 +140,14 @@ Hydra don't age
 
 ![image](../../media/Others-image3-biology.jpg)
 
-[The science of super longevity | Dr. Morgan Levine - YouTube](https://www.youtube.com/watch?v=B_CqKVU19ec)
-
-[Bryan Johnson - YouTube](https://www.youtube.com/@bryanjohnson)
-
+- [The science of super longevity | Dr. Morgan Levine - YouTube](https://www.youtube.com/watch?v=B_CqKVU19ec)
+- [Bryan Johnson - YouTube](https://www.youtube.com/@bryanjohnson)
 - [I Designed the Perfect Anti-Aging Diet ($16/day) - YouTube](https://www.youtube.com/watch?v=foa9ZhtyrfM&ab_channel=BryanJohnson)
 - [Does Bryan Johnson’s $2m biohacking routine actually work? We tested it to see | Hard Reset - YouTube](https://www.youtube.com/watch?v=ECTBg2AtOfc&ab_channel=Freethink)
 - [How I Reversed My Hair Loss + Greying - YouTube](https://www.youtube.com/watch?v=F25RiUZQSLQ&ab_channel=BryanJohnson)
 - [How I FIXED My Terrible Sleep - 10 Habits - YouTube](https://www.youtube.com/watch?v=Wk9p3dhMYdk&ab_channel=BryanJohnson)
 - [Scientists find humans age dramatically in two bursts – at 44, then 60 | Medical research | The Guardian](https://www.theguardian.com/science/article/2024/aug/14/scientists-find-humans-age-dramatically-in-two-bursts-at-44-then-60-aging-not-slow-and-steady)
+- [Decoding ageing - with Carina Kern](https://youtu.be/SQAFLDTvQfM)
 
 ### Key Metrics
 

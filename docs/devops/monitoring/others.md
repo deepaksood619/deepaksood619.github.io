@@ -232,6 +232,7 @@ https://docs.docker.com/config/containers/logging/syslog
 - [Datadog Monitoring | Datadog](https://www.datadoghq.com/dg/monitor/kafka-benefits/)
 - [Airflow](https://docs.datadoghq.com/integrations/airflow/)
 - [Monitoring in the Kubernetes Era | Datadog](https://www.datadoghq.com/blog/monitoring-kubernetes-era/)
+- [Introducing Husky, Datadog's third-generation event store \| Datadog](https://www.datadoghq.com/blog/engineering/introducing-husky/)
 
 ## Opentelemetry
 

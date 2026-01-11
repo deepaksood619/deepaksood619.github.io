@@ -59,6 +59,7 @@
 	- The Schwab U.S. Large-Cap Growth ETF (SCHG) is an exchange-traded fund that mostly invests in large cap equity. The fund tracks the Dow Jones U.S. Large-Cap Growth Total Stock Market Index, which selects growth stocks from 750 of the largest U.S SCHG was launched on Dec 11, 2009 and is issued by Charles Schwab.
 - [Which Is The Best Growth ETF? (SCHG vs VUG vs QQQM) - YouTube](https://www.youtube.com/watch?v=S82pmnU1ZgQ&ab_channel=DannySully)
 - [Which should I add for growth? Qqqm, schg, or vug? : r/ETFs](https://www.reddit.com/r/ETFs/comments/1ciqx0v/which_should_i_add_for_growth_qqqm_schg_or_vug/)
+- [I Ranked The Top 10 Most Popular ETFs in the World (Tier List) - YouTube](https://youtu.be/4BKXrtKghh0)
 
 ## Others
 

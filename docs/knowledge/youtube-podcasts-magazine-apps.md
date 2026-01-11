@@ -253,6 +253,7 @@
 - [SOIC - YouTube](https://www.youtube.com/@soicfinance)
 - [Rainmatter by Zerodha - YouTube](https://www.youtube.com/@rainmatterin)
 - [Sonia Shenoy - YouTube](https://www.youtube.com/@soniashenoyofficial)
+- [Dezerv - YouTube](https://www.youtube.com/@dezerv)
 
 #### Trading
 

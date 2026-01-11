@@ -26,6 +26,7 @@ Firebolt's serverless architecture connects to your S3 data lake as its data sou
 
 - [GitHub - firebolt-db/firebolt-core: Firebolt Core is a free, self-hosted edition of Firebolt's distributed query engine (https://www.firebolt.io/); it provides high-performance data warehousing capabilities that can be deployed anywhere from a single laptop to enterprise datacenters.](https://github.com/firebolt-db/firebolt-core)
 - [The Data Warehouse for Data and AI Apps](https://www.firebolt.io/)
+- [Firebolt: Why Powering User Facing Applications on Iceberg is Hard (Benjamin Wagner) - YouTube](https://www.youtube.com/watch?v=Vf-N3JzWz0g)
 
 ## Doris
 

@@ -28,7 +28,7 @@ And with Confluent Platform 5.4 or newer, you have the additional option to [cen
 - Google Cloud Pub/Sub
 - Azure Event Hubs
 - **Redpanda**
-- [**warpstream**](technologies/kafka/warpstream.md)
+- [**warpstream**](technologies/confluent/warpstream.md)
 - [GitHub - AutoMQ/automq: AutoMQ is a cloud-native alternative to Kafka by decoupling durability to cloud storage services like S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.](https://github.com/automq/automq)
 
 Redpanda is the real-time engine for modern apps. Kafka API Compatible; 10x faster

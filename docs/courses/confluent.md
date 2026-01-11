@@ -25,7 +25,7 @@ The Exam consists of 30 multiple choice and true-false questions. You are provid
 [Data-Streaming-Engineer-DSE-Certification-Sample-Questions.pdf](https://assets.confluent.io/m/6c987cd3849184b0/original/Data-Streaming-Engineer-DSE-Certification-Sample-Questions.pdf)
 
 1. [Apache Kafka® 101](https://developer.confluent.io/courses/apache-kafka/events/)
-2. [Apache Flink® 101](https://developer.confluent.io/courses/apache-flink/intro/)
+2. [Apache Flink® 101](https://developer.confluent.io/courses/apache-flink/intro/apache-flink/intro/)
 3. [Kafka® Connect 101](https://developer.confluent.io/courses/kafka-connect/intro/)
 4. [Schema Registry 101](https://developer.confluent.io/courses/schema-registry/key-concepts/)
 5. [Kafka® Streams 101](https://developer.confluent.io/courses/kafka-streams/get-started/)

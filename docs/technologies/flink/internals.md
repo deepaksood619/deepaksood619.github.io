@@ -16,7 +16,7 @@ The TaskManager runs user code in Flink. Configuring memory usage for your needs
 
 ### Detailed Memory Model
 
-![Simple memory model](https://nightlies.apache.org/flink/flink-docs-master/fig/detailed-mem-model.svg)
+![detailed flink memory model](../../media/Screenshot%202026-01-10%20at%2011.03.17%20PM.png)
 
 ## Uber - IngestionNext
 

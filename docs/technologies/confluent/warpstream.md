@@ -25,6 +25,10 @@ Tableflow automates **all** of the annoying parts about generating and maintai
 
 [The Case for an Iceberg-Native Database: Why Spark Jobs and Zero-Copy Kafka Won’t Cut It - WarpStream](https://www.warpstream.com/blog/the-case-for-an-iceberg-native-database-why-spark-jobs-and-zero-copy-kafka-wont-cut-it)
 
+## Others
+
+- [What is Bring Your Own Cloud (BYOC)? \| Confluent](https://www.confluent.io/learn/bring-your-own-cloud/)
+
 ## Links
 
 Confluent acquired WarpStream for **$220 million** in a deal completed on September 9, 2024. This acquisition was reported in cash and stock, bringing WarpStream's technology and talent to the data streaming platform Confluent
@@ -35,3 +39,4 @@ Confluent acquired WarpStream for **$220 million** in a deal completed on Sept
 - [What The Heck is WarpStream? \| HackerNoon](https://hackernoon.com/what-the-heck-is-warpstream)
 - [Confluent acquires WarpStream \| Confluent](https://www.confluent.io/blog/confluent-acquires-warpstream/)
 - [WarpStream is Dead, Long Live WarpStream](https://www.warpstream.com/blog/warpstream-is-dead-long-live-warpstream)
+- [What is WarpStream by Confluent? (A Lightboard by Tim Berglund) - YouTube](https://www.youtube.com/watch?v=lrD0abLJhYY)

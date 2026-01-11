@@ -32,6 +32,6 @@
 - [use-cases](technologies/kafka/use-cases.md)
 - [Others](technologies/kafka/others.md)
 - [Strmizi](strimzi)
-- [WarpStream](technologies/kafka/warpstream.md)
+- [WarpStream](technologies/confluent/warpstream.md)
 
 [Slides - Kafka Fundamentals](https://deepaksood619.github.io/slides-kafka-fundamentals/)

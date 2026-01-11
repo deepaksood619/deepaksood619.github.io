@@ -8,9 +8,8 @@ https://docs.google.com/spreadsheets/d/1zl7adSoCYuWpuBnRPbkkhwT2RZ5hk3lUO4ud0NE7
 
 ## UN / Groups
 
-[SCO - Shanghai Cooperation Organization | International Relations for UPSC Prelims & Mains 2022-2023 - YouTube](https://www.youtube.com/watch?v=aB9yDJZhqgo)
-
-[IUCN Red List | Endangered Species in India | Environment and Ecology for UPSC Prelims & Mains 2022 - YouTube](https://www.youtube.com/watch?v=XHAcz5ik1IE)
+- [SCO - Shanghai Cooperation Organization | International Relations for UPSC Prelims & Mains 2022-2023 - YouTube](https://www.youtube.com/watch?v=aB9yDJZhqgo)
+- [IUCN Red List | Endangered Species in India | Environment and Ecology for UPSC Prelims & Mains 2022 - YouTube](https://www.youtube.com/watch?v=XHAcz5ik1IE)
 
 ## Asia
 
@@ -34,29 +33,22 @@ https://docs.google.com/spreadsheets/d/1zl7adSoCYuWpuBnRPbkkhwT2RZ5hk3lUO4ud0NE7
 
 ### Taiwan
 
-[Why Taiwan is So Much Richer Than China - YouTube](https://www.youtube.com/watch?v=xT17zi_4Oas)
-
-[Taiwan is More Than Microchips and Tensions With China | Economics Explained - YouTube](https://www.youtube.com/watch?v=pvqkehKfQsg)
+- [Why Taiwan is So Much Richer Than China - YouTube](https://www.youtube.com/watch?v=xT17zi_4Oas)
+- [Taiwan is More Than Microchips and Tensions With China | Economics Explained - YouTube](https://www.youtube.com/watch?v=pvqkehKfQsg)
 
 ### Japan
 
-[https://japan-dev.com/blog/japanese-work-culture](https://japan-dev.com/blog/japanese-work-culture)
-
-[Why Japan Could Rise Again as an Economic Super-Power - YouTube](https://www.youtube.com/watch?v=IY1NFvVBm0U)
-
-[Japan's Prince Is 1st Male In His Family To Reach Adulthood In 40 Years](https://www.ndtv.com/world-news/prince-hisahito-becomes-first-male-royal-to-reach-adulthood-in-40-years-9231716/amp/1)
+- [https://japan-dev.com/blog/japanese-work-culture](https://japan-dev.com/blog/japanese-work-culture)
+- [Why Japan Could Rise Again as an Economic Super-Power - YouTube](https://www.youtube.com/watch?v=IY1NFvVBm0U)
+- [Japan's Prince Is 1st Male In His Family To Reach Adulthood In 40 Years](https://www.ndtv.com/world-news/prince-hisahito-becomes-first-male-royal-to-reach-adulthood-in-40-years-9231716/amp/1)
 
 #### Economies
 
-[Japanese Decline: The Full Story - YouTube](https://www.youtube.com/watch?v=CVyiOewuTtw)
-
-[The Unbelievable Story of Japan's Economic Downfall - YouTube](https://www.youtube.com/watch?v=XBHZd2alFHo)
-
-[How The Economy Of Japan Could Predict The Next Decade | Economics Explained - YouTube](https://www.youtube.com/watch?v=rag4pHU7fcU)
-
-[Japan: The Fading Economy - YouTube](https://www.youtube.com/watch?v=ErUQnd-YFGg)
-
-[Japan's 3 Lost Decades Explained - YouTube](https://www.youtube.com/watch?v=rohuJskoLMg)
+- [Japanese Decline: The Full Story - YouTube](https://www.youtube.com/watch?v=CVyiOewuTtw)
+- [The Unbelievable Story of Japan's Economic Downfall - YouTube](https://www.youtube.com/watch?v=XBHZd2alFHo)
+- [How The Economy Of Japan Could Predict The Next Decade | Economics Explained - YouTube](https://www.youtube.com/watch?v=rag4pHU7fcU)
+- [Japan: The Fading Economy - YouTube](https://www.youtube.com/watch?v=ErUQnd-YFGg)
+- [Japan's 3 Lost Decades Explained - YouTube](https://www.youtube.com/watch?v=rohuJskoLMg)
 
 #### Culture
 
@@ -69,33 +61,27 @@ https://docs.google.com/spreadsheets/d/1zl7adSoCYuWpuBnRPbkkhwT2RZ5hk3lUO4ud0NE7
 
 ### Middle East
 
-[Why the Middle East’s Borders Guarantee Forever Wars - YouTube](https://www.youtube.com/watch?v=JN4mnVLP0rU)
-
-[Why 82% of Saudi Arabians Just Live in These Lines - YouTube](https://www.youtube.com/watch?v=uz88EurZdrI)
-
-[Why Iraq is Dying - YouTube](https://www.youtube.com/watch?v=rkZfmySToZk)
+- [Why the Middle East’s Borders Guarantee Forever Wars - YouTube](https://www.youtube.com/watch?v=JN4mnVLP0rU)
+- [Why 82% of Saudi Arabians Just Live in These Lines - YouTube](https://www.youtube.com/watch?v=uz88EurZdrI)
+- [Why Iraq is Dying - YouTube](https://www.youtube.com/watch?v=rkZfmySToZk)
+- [Why Iran is Rapidly Dying](https://youtu.be/n8kSGH4I8Ps)
 
 ### Others
 
-[Who Controlled Jerusalem the Longest? - YouTube](https://www.youtube.com/watch?v=7GCXhKpoml0)
-
-[How Bangladesh is Secretly Becoming the Richest Country In South Asia - YouTube](https://www.youtube.com/watch?v=MIpdbDKMF14)
-
-[Why Is Indonesia One Of The Fastest Growing Economies In The World? | Economics Explained - YouTube](https://www.youtube.com/watch?v=E_M1pX1EeHo)
-
-[Saudi Arabia’s Catastrophic "Everything" Problem - YouTube](https://www.youtube.com/watch?v=txmzVsBniZQ)
-
-[There Will Never Be Another Singapore | Economics Explained - YouTube](https://www.youtube.com/watch?v=KB1vxqD0uPE)
-
-[Why are Russia US & India racing to space? - YouTube](https://www.youtube.com/watch?v=1WYWwE4Axd8)
+- [Who Controlled Jerusalem the Longest? - YouTube](https://www.youtube.com/watch?v=7GCXhKpoml0)
+- [How Bangladesh is Secretly Becoming the Richest Country In South Asia - YouTube](https://www.youtube.com/watch?v=MIpdbDKMF14)
+- [Why Is Indonesia One Of The Fastest Growing Economies In The World? | Economics Explained - YouTube](https://www.youtube.com/watch?v=E_M1pX1EeHo)
+- [Saudi Arabia’s Catastrophic "Everything" Problem - YouTube](https://www.youtube.com/watch?v=txmzVsBniZQ)
+- [There Will Never Be Another Singapore | Economics Explained - YouTube](https://www.youtube.com/watch?v=KB1vxqD0uPE)
+- [Why are Russia US & India racing to space? - YouTube](https://www.youtube.com/watch?v=1WYWwE4Axd8)
+- [India’s Obsession with Koreans - YouTube](https://youtu.be/w3zxVSri1yI)
 
 ## Europe
 
 ### Ukraine
 
-[Why Belarus Might Invade Ukraine Too](https://www.youtube.com/watch?v=Ml7ycoLumAs)
-
-[Why the Destruction of This Dam is Breaking Ukraine - YouTube](https://www.youtube.com/watch?v=MUhTBBkZUP4)
+- [Why Belarus Might Invade Ukraine Too](https://www.youtube.com/watch?v=Ml7ycoLumAs)
+- [Why the Destruction of This Dam is Breaking Ukraine - YouTube](https://www.youtube.com/watch?v=MUhTBBkZUP4)
 
 ### Russia
 
@@ -103,26 +89,21 @@ https://docs.google.com/spreadsheets/d/1zl7adSoCYuWpuBnRPbkkhwT2RZ5hk3lUO4ud0NE7
 
 ## North America
 
-[American Revolution [Explained] | World History for UPSC Mains 2022-2023 - YouTube](https://www.youtube.com/watch?v=pUA65IoEyxI)
-
-[The Not So Polite Truth Behind Canada's Collapsing Economy - YouTube](https://www.youtube.com/watch?v=XomvuLPiTWM)
+- [American Revolution [Explained] | World History for UPSC Mains 2022-2023 - YouTube](https://www.youtube.com/watch?v=pUA65IoEyxI)
+- [The Not So Polite Truth Behind Canada's Collapsing Economy - YouTube](https://www.youtube.com/watch?v=XomvuLPiTWM)
+	- [Will Canada Become America's 51st State?](https://youtu.be/Jox5DcBI2Hc)
 
 ## South America
 
 [Mexico Will Not Be The Next China | Economics Explained - YouTube](https://www.youtube.com/watch?v=dr5z2WvEXBI)
 
-## Australia
-
 ## Geography through Maps
 
-https://www.youtube.com/playlist?list=PLkJ-kjtioPGqUr8sSaF7x04mrLcXFJYMO
-
-[Famous International disputed border lines and Boundaries | Static GK - YouTube](https://www.youtube.com/watch?v=sPszPGQErpE)
+- [Geography Through Maps - YouTube](https://www.youtube.com/playlist?list=PLkJ-kjtioPGqUr8sSaF7x04mrLcXFJYMO)
+- [Famous International disputed border lines and Boundaries | Static GK - YouTube](https://www.youtube.com/watch?v=sPszPGQErpE)
 
 ## Others
 
-[Why Do All Arab Countries Have Similar Flags? - YouTube](https://www.youtube.com/watch?v=ZrZWdubD1r0)
-
-[Hofstede's cultural dimensions theory - Wikipedia](https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory)
-
+- [Why Do All Arab Countries Have Similar Flags? - YouTube](https://www.youtube.com/watch?v=ZrZWdubD1r0)
+- [Hofstede's cultural dimensions theory - Wikipedia](https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory)
 - [Country comparison tool](https://www.theculturefactor.com/country-comparison-tool?countries=china%2Cindia%2Cunited+states)

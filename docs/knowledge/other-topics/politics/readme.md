@@ -98,5 +98,7 @@ The act of overthrowing - the state of being overthrown. especially : an attempt
 - [Edge of chaos](../../../book-summaries/edge-of-chaos)
 - [Leadership and the Rise of Great Powers](../../../book-summaries/leadership-and-the-rise-of-great-powers)
 - [Absolute Freedom of Speech. Almost. | Nope w/ Kunal Kamra | Episode 004](https://youtu.be/13DdsXBaTSA)
-- Monroe Doctrine
-- Heartland Theory - The Geographical Pivot of History
+- [Monroe To ‘Donroe’ Doctrine? \| How Trump Is Encouraging China’s Land Grab Policy \| Akash Banerjee - YouTube](https://youtu.be/AGzYZsH3J8U)
+	- Monroe Doctrine
+	- Heartland Theory - The Geographical Pivot of History
+	- Hide your strength, Bide your time - Deng Xiaoping

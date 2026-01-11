@@ -438,6 +438,7 @@ Air pollution in Delhi reduces life expectancy by 10 years
 3. ~~Australia, New Zealand,~~ and certain countries in Europe such as Germany or Denmark
 4. Dubai - [Moving to Dubai for Tax Free Crypto? Read Our Guide!](https://www.coinbureau.com/analysis/dubai-crypto-tax/)
 	1. [India vs Dubai: Where to live? (Jobs, Cost of Living, Opportunities...) ...](https://youtu.be/TlNR8JRUgHk)
+	2. [Why This Investor Doesn’t Keep His Money in India \| Currency, Taxes & More \| Paritosh Mukhija, FWS89 - YouTube](https://youtu.be/j9vlMfSx-kw)
 5. Newzealand Japan Pacific ring of fire earthquake prone areas
 
 [The Best Citizenship in a New World Order - YouTube](https://www.youtube.com/watch?v=CAiW7HOwiaQ)

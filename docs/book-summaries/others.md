@@ -42,6 +42,10 @@
 - [5 Simple Steps to Delegate and Automate More Work (and focus on what you...](https://youtu.be/g-1GCtAulYw)
 - [S.M.A.R.T. Learning Framework: 5 Accelerated Learning Techniques - YouTube](https://youtu.be/oHPOZj69SDg)
 - [HOW MINDS CHANGE by David McRaney \| Core Message - YouTube](https://youtu.be/jCQr15a1-Wo)
+- [3 ways to get wiser: WISDOM TAKES WORK by Ryan Holiday | Core Message](https://youtu.be/rLqm9b4FNz4)
+- [I read 100+ Business Books. These are the only 9 that matter.](https://youtu.be/ZcnHxxpJlkI)
+- [Never choke again: 5 proven ways to perform under pressure (B.R.A.V.E. a...](https://youtu.be/K4exMXvel4k)
+- [Learn the peak performance equation: PEAK PERFORMANCE by Stulberg & Magn...](https://youtu.be/q4txdvZt-68)
 
 ### [Learn to lead: THE 21 IRREFUTABLE LAWS OF LEADERSHIP by John Maxwell | Core Message - YouTube](https://www.youtube.com/watch?v=QQhdiktL99w)
 

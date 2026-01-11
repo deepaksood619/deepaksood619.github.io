@@ -141,12 +141,14 @@ It has two main components -
         - [Vitamin B8(ergadenylic acid)](https://en.wikipedia.org/wiki/Ergadenylic_acid)
         - [Vitamin B9(folic acid)](https://en.wikipedia.org/wiki/Folic_acid)
         - [Vitamin B12(cyanocobalamin)](https://en.wikipedia.org/wiki/Vitamin_B12)
+	        - [Taking B12 Without Knowing This? Big Mistake - YouTube](https://youtu.be/JCYTYlLrlhA)
         - [Choline](https://en.wikipedia.org/wiki/Choline)
     - [Vitamin A (e.g. retinol (see also - provitamin A carotenoids))](https://en.wikipedia.org/wiki/Vitamin_A)
     - [Vitamin C (Ascorbic acid)](https://en.wikipedia.org/wiki/Vitamin_C)
     - [Vitamin D](https://en.wikipedia.org/wiki/Vitamin_D)
         - [Ergocalciferol](https://en.wikipedia.org/wiki/Ergocalciferol)
         - [Cholecalciferol](https://en.wikipedia.org/wiki/Cholecalciferol)
+        - [The Vitamin D Deficiency Trap 90% Fall Into - YouTube](https://youtu.be/miLOcBvtL_Y)
     - [Vitamin E (tocopherol)](https://en.wikipedia.org/wiki/Vitamin_E)
     - [Vitamin K](https://en.wikipedia.org/wiki/Vitamin_K)
         - [Phylloquinone](https://en.wikipedia.org/wiki/Phylloquinone)
@@ -170,14 +172,14 @@ It has two main components -
 
 Health Guidelines for Indians by Indian Council of Medical Research
 
-As per ICMR an adult should consume 0.8g-1g of protein as per his body weight. For someone who is an active person, protein requirement is 1g-1.2g of their body weight. Proteins provide amino acids which are vital for almost every function of the body. Include protein rich foods such as chicken, fish, eggs, paneer, lentils, beans, nuts and seeds to fulfill your daily protein requirements.
+As per ICMR an adult should consume 0.8g-1g of protein as per his body weight. For someone who is an active person, protein requirement is 1g-1.2g of their body weight. Proteins provide amino acids which are vital for almost every function of the body. Include protein rich foods such as chicken, fish, eggs, paneer, lentils, beans, nuts and seeds to fulfil your daily protein requirements.
 
 Combining cereals with pulses in the ratio of 3:1 will improve the protein quality of your meal as per ICMR.
 
 ## References
 
-https://en.wikipedia.org/wiki/List_of_macronutrients
-
-https://en.wikipedia.org/wiki/List_of_micronutrients
-
-https://en.wikipedia.org/wiki/Dietary_fiber
+- https://en.wikipedia.org/wiki/List_of_macronutrients
+- https://en.wikipedia.org/wiki/List_of_micronutrients
+- https://en.wikipedia.org/wiki/Dietary_fiber
+- [The Vitamin D Deficiency Trap 90% Fall Into - YouTube](https://youtu.be/miLOcBvtL_Y)
+- [Taking B12 Without Knowing This? Big Mistake - YouTube](https://youtu.be/JCYTYlLrlhA)
