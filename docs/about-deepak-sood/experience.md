@@ -10,9 +10,13 @@ I am a highly skilled and experienced engineer with 8+ years of experience with 
 
 ## Professional Experience
 
-### OpsTree, Senior AI, Data and DevOps Architect (Dec'23 - Present)
+### Confluent Inc, Senior Customer Success Architect (24 Nov'25 - Present)
 
-At OpsTree, I spearheaded the creation of a data engineering vertical from the ground up, growing the team to 10-12 skilled professionals. Together, we successfully delivered numerous projects across AI, Data Engineering, and DBA domains over multiple clients. Our efforts not only enhanced the company's technical capabilities but also significantly reduced overall costs throughout the project lifecycle.
+As a Senior CSA at Confluent, I serve as a **strategic technical advisor** to enterprise customers, guiding them through their journey with data in motion. I bridge the gap between business goals and technical execution, helping organizations transform into event-driven enterprises. By defining architectural best practices and mitigating risk, I ensure customers not only adopt the Confluent platform but realize long-term value, scalability, and resilience for their mission-critical data systems. I partner with engineering leaders to build **future-proof, real-time data architectures** that drive innovation while ensuring operational excellence and maximum ROI on the Confluent platform.
+
+### OpsTree, Senior AI, Data and DevOps Architect (Dec'23 - 21 Nov'25)
+
+At OpsTree, I spearheaded the creation of a data engineering vertical from the ground up, growing the team to 20-30 skilled professionals. Together, we successfully delivered numerous projects across AI, Data Engineering, and DBA domains over multiple clients. Our efforts not only enhanced the company's technical capabilities but also significantly reduced overall costs throughout the project lifecycle.
 
 - [coto.world](about-deepak-sood/projects/54-airflow-kafka-migration.md) - Migration of Kafka and Airflow from SAAS to open source linode self-managed platform (Feb'24 - Apr'24)
 - [thriive.ai](about-deepak-sood/projects/55-azure-social-media-analytics.md) - Social media listening (Mar'24)

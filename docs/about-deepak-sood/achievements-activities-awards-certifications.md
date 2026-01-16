@@ -1,6 +1,14 @@
-# Achievements / Activities / Awards
+# Achievements / Activities / Awards / Certifications
+
+## Courses / Certifications
+
+- [Courses / Certifications](courses/readme.md)
 
 ## Achievements
+
+### OpsTree
+
+At OpsTree, I spearheaded the creation of a data engineering vertical from the ground up, growing the team to 20-30 skilled professionals. Together, we successfully delivered numerous projects across AI, Data Engineering, and DBA domains over multiple clients. Our efforts not only enhanced the company's technical capabilities but also significantly reduced overall costs throughout the project lifecycle.
 
 ### Stashfin
 

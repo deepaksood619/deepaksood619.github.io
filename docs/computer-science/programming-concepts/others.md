@@ -33,12 +33,19 @@ If you have four teams working on a compiler you will end up with a four pass co
 Given a version number MAJOR.MINOR.PATCH, increment the:
 
 - MAJOR version when you make incompatible API changes,
-
 - MINOR version when you add functionality in a backwards-compatible manner, and
-
 - PATCH version when you make backwards-compatible bug fixes.
 
 https://semver.org
+
+## Releases
+
+- Releases
+	- GA - Generally Available
+	- EA - Early Access
+	- Public Preview - Beta (available for all the customers, not supported for production)
+	- Private Preview - Selected customers using Feature flags
+- Nightly Releases / Insiders
 
 ## Calendar Versioning (CalVer)
 

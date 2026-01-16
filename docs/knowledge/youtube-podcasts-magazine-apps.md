@@ -205,6 +205,7 @@
 - [DB Live - YouTube](https://www.youtube.com/@DBLive)
 - [4PM - YouTube](https://www.youtube.com/@4PMNewsNetwork)
 - [Detox Traveller - YouTube](https://www.youtube.com/@detoxtraveller)
+- [60 Minutes - YouTube](https://www.youtube.com/@60minutes)
 
 #### Economics News
 
@@ -254,6 +255,7 @@
 - [Rainmatter by Zerodha - YouTube](https://www.youtube.com/@rainmatterin)
 - [Sonia Shenoy - YouTube](https://www.youtube.com/@soniashenoyofficial)
 - [Dezerv - YouTube](https://www.youtube.com/@dezerv)
+- [Wint Wealth - YouTube](https://www.youtube.com/@wintwealthyt)
 
 #### Trading
 
@@ -290,6 +292,7 @@
     - [Moving Out Of Equities Now Will Be A Huge Mistake: Quant Mutual Fund’s Sandeep Tandon To Investors - YouTube](https://www.youtube.com/watch?v=1aGQOMPRSOs&ab_channel=Mint)
     - [Dynamic Style of Money Management \~ VLRT - Framework by Sandeep Tandon, Quant MF - YouTube](https://www.youtube.com/watch?v=mnffGxDPB7U&ab_channel=IFAGalaxy)
 - [Sango Life Sutras - YouTube](https://youtube.com/@sangolifesutras)
+- [Dr. Shadé Zahrai - YouTube](https://www.youtube.com/@dr.shadezahrai)
 
 ### Yearly
 
@@ -404,6 +407,8 @@
 - The Cloudcast [https://podcastaddict.com/podcast/the-cloudcast/2156860](https://podcastaddict.com/podcast/the-cloudcast/2156860)
 - AWS Podcast [https://d3gih7jbfe3jlq.cloudfront.net/aws-podcast.rss](https://d3gih7jbfe3jlq.cloudfront.net/aws-podcast.rss)
 - [Hanselminutes Technology Podcast - Fresh Air and Fresh Perspectives for Developers - Coding while Blind with Dominic St Pierre](https://hanselminutes.com/)
+- [Lenny's Podcast - YouTube](https://www.youtube.com/@LennysPodcast)
+- [Lex Fridman - YouTube](https://www.youtube.com/@lexfridman)
 
 ### Others
 

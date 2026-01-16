@@ -1,6 +1,7 @@
 # Confluent
 
-[Confluent Certification for Apache Kafka \| Confluent](https://www.confluent.io/certification/)
+- [Confluent Certification for Apache Kafka \| Confluent](https://www.confluent.io/certification/)
+- [Accredible • Certificates, Badges and Blockchain](https://certificates.confluent.io/issuer/21429/credentials?page_size=50&page=0)
 
 ## Confluent Certified Developer for Apache Kafka® (CCDAK)
 
@@ -31,6 +32,12 @@ The Exam consists of 30 multiple choice and true-false questions. You are provid
 5. [Kafka® Streams 101](https://developer.confluent.io/courses/kafka-streams/get-started/)
 
 [Accredible • Certificates, Badges and Blockchain](https://certificates.confluent.io/75ae3a5e-8223-482e-94fc-74debafca0db#acc.dWJSzR32)
+
+## Confluent Apache Kafka Fundamentals Accreditation
+
+The **Confluent Apache Kafka Fundamentals Accreditation** validates a strong foundation in **Apache Kafka** and the **Confluent Platform**. Earners grasp Kafka’s core concepts, real-world use cases, and its capabilities as a **scalable, resilient** event streaming platform.Accredited users understand Kafka’s **architecture, enterprise features**, and emerging advancements like **KRaft** and **Apache Flink**.
+
+[Accredible • Certificates, Badges and Blockchain](https://certificates.confluent.io/8bf0eb5e-0b04-4a2d-bd86-bd965745ac45)
 
 ## Links
 

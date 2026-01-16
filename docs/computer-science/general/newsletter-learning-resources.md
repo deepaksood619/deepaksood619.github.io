@@ -30,6 +30,9 @@ https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layou
 2. InfoQ - https://www.youtube.com/user/MarakanaTechTV
 3. Coding Tech - https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ
 4. Tech Dummies - https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA
+5. [AI Engineer - YouTube](https://www.youtube.com/@aidotengineer)
+6. [CodeEmporium - YouTube](https://www.youtube.com/@codeemporium)
+7. [Hussein Nasser - YouTube](https://www.youtube.com/@hnasr)
 
 ## Coding
 

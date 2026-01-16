@@ -283,6 +283,8 @@ https://minio.io
 [GitHub - minio/minio: High Performance Object Storage for AI](https://github.com/minio/minio)
 
 - Others - GlusterFS
+- [Alternatives to MinIO for single-node local S3](https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/)
+- [GitHub - rmoff/minio-alternatives: Exploration of alternatives to MinIO for local S3 on a single-node](https://github.com/rmoff/minio-alternatives)
 
 ## Ehcache
 

@@ -84,6 +84,33 @@ value = offset
 | log.retention.hours  | The number of hours to keep a record on the broker.  |
 | log.retention.bytes  | The maximum size of records retained in a partition. |
 
+1. **Time-based retention:** Messages are retained for a specified duration of time. Once the time limit is reached, Kafka marks the messages as eligible for deletion. For example, you can set a retention period of 7 days, and any message older than 7 days will be deleted.
+2. **Size-based retention:** This policy determines the retention of messages based on the size of the topic log. Kafka allows you to set a maximum size for the topic's log, and once that size is reached, Kafka starts deleting older messages to make room for new ones.
+
+**Retention Policies**
+
+1. Delete
+2. Compact
+3. Delete, Compact
+
+**Points to Remember**
+
+- Active segments doesn't participate in cleaning up
+	- Cleanup is done in old and closed segments
+	- If the latest message in the segment is greater than the retention time, then that segment gets cleaned up.
+- A background process called the "log cleaner" scans the log segments.
+	- For each key, it keeps the most recent message and removes older messages with the same key from the tail of the log.
+	- Messages with a `null` payload (tombstones) are treated as delete markers and are also removed after a configurable period (default `delete.retention.ms` is 24 hours).
+	- Message order is always maintained, and message offsets never change.
+- Clean + Dirty = Total >= 50%, then the cleanup gets triggered
+
+**Clean and Dirty Segments**
+
+- ﻿﻿Log segments that have been compacted are called clean segments
+- ﻿﻿Log segments that have not been compacted are called dirty segments
+
+[Kafka Log Compaction \| Confluent Documentation](https://docs.confluent.io/kafka/design/log_compaction.html)
+
 ## Kafka Internals (Definitive Guide)
 
 - Cluster Membership

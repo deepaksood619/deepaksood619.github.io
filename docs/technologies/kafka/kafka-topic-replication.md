@@ -101,6 +101,18 @@ We can generalize this to the crash-recovery model. For example, instead of a ne
 
 https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-2-data-replication
 
+## Kafka Follower Fetching
+
+Kafka Follower Fetching (KIP-392) **lets consumers read data from the *nearest* replica (leader or follower) instead of always the leader**, drastically cutting cross-region network costs and latency, especially in multi-AZ/DC setups, by using rack awareness to match consumer `client.rack` with broker `broker.rack` for local reads. It optimizes performance by reducing expensive cross-zone data transfers, improving overall efficiency.
+
+**Follower Fetching benefits**
+
+- **Load balancing:** By distributing read requests across followers, you can reduce the load on the leader and achieve better overall performance.
+- **Improved fault tolerance:** If the leader becomes unavailable due to a failure, consumers can still read from the follower replicas, ensuring continuous data availability.
+- **Reduced network latency:** Consumers can read from followers that are located closer to them, minimizing network hops and reducing latency.
+
+[Aiven docs](https://aiven.io/docs/products/kafka/concepts/follower-fetching)
+
 ## Links
 
 - [Apache Kafka replication factor - What's the perfect number? - CloudKarafka, Apache Kafka Message streaming as a Service](https://www.cloudkarafka.com/blog/apache-kafka-replication-factor-perfect-number.html)

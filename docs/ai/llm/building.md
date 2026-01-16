@@ -142,6 +142,7 @@ docker exec -it ollama ollama run mistral
 - [Ollama Course – Build AI Apps Locally - YouTube](https://www.youtube.com/watch?v=GWB9ApTPTv4&ab_channel=freeCodeCamp.org)
 - [Run DeepSeek-R1 on Your Laptop with Ollama - DEV Community](https://dev.to/shayy/run-deepseek-locally-on-your-laptop-37hl)
 - [Jan: Open source ChatGPT-alternative that runs 100% offline - Jan](https://jan.ai/)
+- [NodeShift - Sovereign AI Cloud](https://nodeshift.com/)
 
 #### open-webui / openwebui / open webui (103K stars)
 
@@ -222,3 +223,4 @@ Ludwig enables you to apply state-of-the-art tabular, natural language processin
 	- [Advanced: Reinforcement Learning, Kernels, Reasoning, Quantization & Agents AIE 2025 - Google Slides](https://docs.google.com/presentation/d/1Jh5p_JDXt4eLD0ireaHJjJNpzqSF8E1WTwIHeojyjNU/mobilepresent?slide=id.g35e7f1de1a9_1_49)
 	- [Reinforcement Learning (RL) Guide \| Unsloth Documentation](https://docs.unsloth.ai/basics/reinforcement-learning-rl-guide)
 - [How Meta animates AI-generated images at scale - Engineering at Meta](https://engineering.fb.com/2024/08/14/production-engineering/how-meta-animates-ai-generated-images-at-scale/)
+- [How LLMs Handle Infinite Context With Finite Memory \| Towards Data Science](https://towardsdatascience.com/llms-can-now-process-infinite-context-windows/)
