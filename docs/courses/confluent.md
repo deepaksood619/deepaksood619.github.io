@@ -39,6 +39,12 @@ The **Confluent Apache Kafka Fundamentals Accreditation** validates a strong fou
 
 [Accredible • Certificates, Badges and Blockchain](https://certificates.confluent.io/8bf0eb5e-0b04-4a2d-bd86-bd965745ac45)
 
+## Data Streaming Engineer - Apache Flink® Certification
+
+This exam is designed to validate your expertise in Flink. Passing this exam will not only demonstrate your skills but also open up exciting opportunities.
+
+[developer.confluent.io/certifications/flink/](https://developer.confluent.io/certifications/flink/)
+
 ## Links
 
 - [Learn Apache Kafka® & Flink®](https://developer.confluent.io/courses/)

@@ -102,6 +102,28 @@ To achieve the above transition, there are two important steps: (1) consumer off
 - [Apache Kafka Migration: How to Migrate to Apache Kafka by Rafe Colburn (Etsy) - YouTube](https://www.youtube.com/watch?v=Q0eH9xhZUjg&ab_channel=DataCouncil)
 - [AWS re:Invent 2020: Guide to Apache Kafka replication and migration with Amazon MSK - YouTube](https://www.youtube.com/watch?v=CmcJb9Ge3jI&ab_channel=AWSEvents)
 
+### Tools
+
+#### [GitHub - confluentinc/kafka-metrics-extractor](https://github.com/confluentinc/kafka-metrics-extractor)
+
+`kafka-metrics-extractor` is a tool designed to pull raw usage from Kafka providers such as MSK, OSK and others (currently supports MSK clusters only). The script for extracting MSK usage, it uses MSK permissions to list and describe the clusters only and then collects the usage data from CloudWatch and CostExplorer in order to avoid any cluster disruption.
+
+#### [GitHub - confluentinc/kcp](https://github.com/confluentinc/kcp) (Kafka Copy Paste)
+
+- Simplify and streamline your Kafka migration journey to Confluent Cloud!
+- kcp helps you migrate your Kafka setups to Confluent Cloud by providing tools to:
+	- **Scan** and identify resources in existing Kafka deployments.
+	- **Create** reports for migration planning and cost analysis.
+	- **Generate** migration assets and infrastructure configurations.
+
+```bash
+kcp discover --region ap-south-1
+
+kcp scan clusters --state-file state.json --credentials-file credentials.yaml
+
+kcp create-asset migration-infrastructure
+```
+
 ## Cluster Linking
 
 Cluster Linking allows you to directly connect clusters and perfectly mirror topics, consumer offsets, and ACLs from one cluster to another.

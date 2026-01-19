@@ -118,3 +118,10 @@ The difference is that MSK is infrastructure, whereas Confluent is an enterprise
 - Azure-centric architectures
 - Integration with Azure Functions and Logic Apps
 - Quick startup with minimal configuration
+
+## Links
+
+- [amazon-kinesis](cloud/aws/analytics/amazon-kinesis.md)
+- [amazon-msk](cloud/aws/analytics/amazon-msk.md)
+- [Confluent](technologies/confluent/readme.md)
+- [azure-event-hubs](cloud/azure/azure-event-hubs.md)

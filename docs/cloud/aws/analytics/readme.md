@@ -2,6 +2,7 @@
 
 - [Amazon Athena](cloud/aws/analytics/amazon-athena.md) - Query Data in S3 using SQL
 - [Amazon Kinesis](cloud/aws/analytics/amazon-kinesis.md)
+- [amazon-msk](cloud/aws/analytics/amazon-msk.md)
 - [Amazon DevOps Guru](cloud/aws/analytics/amazon-devops-guru.md)
 - [aws-sns](cloud/aws/analytics/aws-sns.md)
 - [amazon-opensearch](cloud/aws/analytics/amazon-opensearch.md)

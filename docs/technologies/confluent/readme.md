@@ -16,4 +16,5 @@
 - [warpstream](technologies/confluent/warpstream.md)
 - [commands](technologies/confluent/commands.md)
 - [cli-tools](technologies/confluent/cli-tools.md)
+- [confluent-cluster-types](technologies/confluent/confluent-cluster-types.md)
 - [pricing](technologies/confluent/pricing.md)
