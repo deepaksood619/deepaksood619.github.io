@@ -1,4 +1,4 @@
-# Confluent Cloud Networking
+# Confluent Cloud Networking and Security
 
 ## [Confluent Cloud Networking Basics and Apache Kafka Connectivity](https://developer.confluent.io/courses/confluent-cloud-networking/intro/)
 

@@ -100,27 +100,21 @@ A warehouse management system is software that helps companies manage and contro
 
 ## Google Workspace Admin
 
-[Google Workspace Admin Help - YouTube](https://www.youtube.com/playlist?list=PLU8ezI8GYqs75-_nquHcR8F8qm7U6h4a6)
-
-[Google Workspace Email Alias and How to Create One Email for a Group - YouTube](https://www.youtube.com/watch?v=afcWKdPcDGk)
-
+- [Google Workspace Admin Help - YouTube](https://www.youtube.com/playlist?list=PLU8ezI8GYqs75-_nquHcR8F8qm7U6h4a6)
+- [Google Workspace Email Alias and How to Create One Email for a Group - YouTube](https://www.youtube.com/watch?v=afcWKdPcDGk)
 - [Google Workspace Email Alias and How to Create One Email for a Group - YouTube](https://www.youtube.com/watch?v=afcWKdPcDGk&ab_channel=StuffedBox)
-- This video, tell how to reply from alias, instead of primary email
-
-[How To Create Group Emails in Google Workspace (Collaborative Inbox) - YouTube](https://www.youtube.com/watch?v=nMohSImw7eI)
-
-- Collaborative Inbox
-- Distribution List / Distribution Group
-
-[Guided Setup of Distribution Groups & Delegated Mailboxes in Google Workspace Admin - YouTube](https://www.youtube.com/watch?v=T2F69sXgcsk)
-
-- Delegated mailbox uses a license
-- Collaborative inbox doesn't use a license
-
-[Level up your Google Workspace knowledge - YouTube](https://www.youtube.com/watch?v=_WNIvJozdMY)
-
-- [Google Workspace Essentials | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/779)
-- [Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/23)
+	- This video, tell how to reply from alias, instead of primary email
+- [How To Create Group Emails in Google Workspace (Collaborative Inbox) - YouTube](https://www.youtube.com/watch?v=nMohSImw7eI)
+	- Collaborative Inbox
+	- Distribution List / Distribution Group
+- [Guided Setup of Distribution Groups & Delegated Mailboxes in Google Workspace Admin - YouTube](https://www.youtube.com/watch?v=T2F69sXgcsk)
+	- Delegated mailbox uses a license
+	- Collaborative inbox doesn't use a license
+- [Level up your Google Workspace knowledge - YouTube](https://www.youtube.com/watch?v=_WNIvJozdMY)
+	- [Google Workspace Essentials | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/779)
+	- [Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/23)
+- [Vault - Google Workspace Admin Help](https://support.google.com/a/answer/2462365?hl=en)
+	- Retention vs Hold
 
 Automatically add new Google Workspace users to a specific group. This ensures that every new user created in your organization is automatically included in the group.
 

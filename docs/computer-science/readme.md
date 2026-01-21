@@ -8,7 +8,7 @@
 - [System Design](system-design/readme.md)
 - [Distributed System](distributed-system/readme.md)
 - [Testing](testing/readme.md)
-- [Security](security/readme.md)
+- [Security](computer-science/security/readme.md)
 - [Interview Question](interview-question/readme.md)
 - [IoT](iot/readme.md)
 - [Others](computer-science/others/readme.md)
