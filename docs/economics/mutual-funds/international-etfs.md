@@ -10,8 +10,6 @@
 | Nasdaq-100           | QQQ               | CSNDX             |
 | FTSE All World Index | VT                | VWRA              |
 
-- Domiciled outside US - Replacing VOO, QQQ & VT with CSPX, SXRV & VWRA
-	- VWRA - Vanguard FTSE All-World UCITS ETF USD Acc
 - QQQ - Invesco QQQ Trust, Series 1
 	- Expense Ratio - 0.20%
 	- Assets - $326.68B
@@ -117,6 +115,55 @@
 	- [GLD ETF Stock Price & Overview](https://stockanalysis.com/etf/gld/)
 
 https://www.youtube.com/watch?v=qRT917PvEns
+
+## Irish Domiciled (UCITS) ETFs
+
+Domiciled outside US - Replacing VOO, QQQ & VT with CSPX, SXRV & VWRA
+	- VWRA - Vanguard FTSE All-World UCITS ETF USD Acc
+
+You must strictly buy the **Accumulating** version. This ensures dividends are reinvested inside the fund automatically. You never receive cash in your bank account, so you generally don't trigger "Dividend Income" tax in India each year.
+
+### Top 3 "Buy & Forget" Global ETFs (LSE Listed)
+
+These trade on the London Stock Exchange (LSE) but are denominated in **USD**.
+
+|**Feature**|**1. VWRA (The Gold Standard)**|**2. ISAC (The Challenger)**|**3. IWDA / SWDA (Developed Only)**|
+|---|---|---|---|
+|**Full Name**|Vanguard FTSE All-World UCITS ETF (Acc)|iShares MSCI ACWI UCITS ETF (Acc)|iShares Core MSCI World UCITS ETF (Acc)|
+|**Ticker**|`VWRA`|`ISAC` (or `SSAC`)|`IWDA` (or `SWDA`)|
+|**Provider**|Vanguard|BlackRock (iShares)|BlackRock (iShares)|
+|**What it buys**|**Whole World** (Developed + Emerging Markets)|**Whole World** (Developed + Emerging Markets)|**Developed Markets Only** (US, UK, Japan, etc. — **No India/China**)|
+|**No. of Stocks**|~3,700|~2,400|~1,500|
+|**Expense (TER)**|0.22%|0.20%|0.20%|
+|**Fund Size**|Huge (High Liquidity)|Large|Massive|
+|**Dividend Policy**|**Accumulating** (Reinvested)|**Accumulating** (Reinvested)|**Accumulating** (Reinvested)|
+
+### Which one should you pick?
+
+#### Option A: The "One-Stop Shop" (Recommended)
+
+**Choose:** **VWRA** (Vanguard) or **ISAC** (iShares).
+
+- **Why:** These two are almost identical. They cover the **entire planet**. You get exposure to the US (Apple, Microsoft), Europe, **plus** Emerging Markets (China, India, Brazil) in one single ticker.
+- **The slight edge:** `VWRA` is often preferred by the "FIRE" (Financial Independence) community because it tracks the _FTSE All-World_ index, which includes slightly more medium/small-cap companies than the _MSCI ACWI_ index used by ISAC.
+
+#### Option B: The "Developed Markets Only"
+
+**Choose:** **IWDA** (iShares).
+
+- **Why:** If you believe Emerging Markets (like India/China) are risky or will underperform, you buy this. It invests _only_ in developed economies (mostly USA, Japan, Europe).
+- **The Trap:** If you live in India, you are _already_ heavily exposed to the Indian economy (your job, your house, your rupees). Many investors skip Emerging Markets in their global portfolio to avoid "doubling down" on risk. However, for a true "global citizen" strategy, Option A is safer.
+
+### Critical "How-To" for Interactive Brokers (IBKR)
+
+When you search for these on IBKR, you will see multiple versions (listing on different exchanges like LSE, AEB, EBS).
+
+**You must select the correct one to ensure liquidity and USD currency:**
+
+1. **Search Ticker:** Type `VWRA`.
+2. **Select Exchange:** Choose **LSE (London Stock Exchange)**.
+3. **Currency:** Ensure it says **USD**.
+    - _Note:_ You might see `VWRP` (same fund, but in GBP). **Do not buy that** unless you hold Pounds. You want `VWRA` (USD) to match the dollars you sent via LRS.
 
 ## International Stocks
 

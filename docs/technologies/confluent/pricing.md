@@ -18,6 +18,8 @@
 
 [Confluent Pricing–Save on Kafka Costs \| Confluent](https://www.confluent.io/confluent-cloud/pricing/)
 
+[Estimate Confluent Cloud Costs with Our Calculator](https://www.confluent.io/pricing/cost-estimator/)
+
 ### Connectors
 
 | Category                                                                                        | Task                                                                                         | Data Transfer |
@@ -45,3 +47,7 @@ Confluent monthly bills are based upon resource consumption, i.e., you are only 
 Confluent storage and throughput is calculated in binary gigabytes (GB), where 1 GB is 2^30 bytes. This unit of measurement is also known as a gibibyte (GiB). Please also note that all prices are stated in United States Dollars unless specifically stated otherwise.
 
 All billing computations are conducted in Coordinated Universal Time (UTC).
+
+## Capacity Planning
+
+[Capacity Planning Your Apache Kafka Cluster](https://developer.confluent.io/learn-more/podcasts/capacity-planning-your-apache-kafka-cluster/?)

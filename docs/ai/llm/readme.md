@@ -3,6 +3,7 @@
 - [Intro](ai/llm/intro.md)
 - [Models](ai/llm/models.md)
 	- [Gemini Code Assist (gca) / Gemini CLI](ai/llm/gemini-code-assist-gca-gemini-cli.md)
+- [voice-models](ai/llm/voice-models.md)
 - [Limitations / Problems](ai/llm/limitations-problems.md)
 - [LLM Building](ai/llm/building.md)
 	- [Langchain](ai/llm/langchain.md)

@@ -82,6 +82,7 @@
 - [DataTalksClub ⬛ - YouTube](https://www.youtube.com/c/DataTalksClub)
 - [AWS Developers - YouTube](https://www.youtube.com/@awsdevelopers)
 - [The Linux Foundation - YouTube](https://youtube.com/@linuxfoundationorg)
+- [Arpit Bhayani - YouTube](https://www.youtube.com/@asliengineering)
 
 ### Math
 

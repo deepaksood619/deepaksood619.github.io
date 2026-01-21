@@ -17,10 +17,10 @@
     2. [About | UI for Apache Kafka](https://docs.kafka-ui.provectus.io/)
 7. Kafka Tool
 8. Kafka Cruise Control
-    1. https://engineering.linkedin.com/blog/2019/02/introducing-kafka-cruise-control-frontend
-    2. https://dzone.com/articles/kafka-administration-and-monitoring-ui-tools
 9. Kakfa-monitor https://github.com/linkedin/kafka-monitor
 10. [kadeck | ‍Kafka UI - Your team's Apache Kafka tool belt](https://www.kadeck.com/)
+
+[Kafka Administration and Monitoring UI Tools](https://dzone.com/articles/kafka-administration-and-monitoring-ui-tools)
 
 ## Confluent Control Center (C3)
 
@@ -39,6 +39,21 @@ Control Center can monitor the health of your Kafka clusters. You can see trends
 You can also use Control Center to manage and monitor Kafka Connect: the open source toolkit for connecting external systems to Kafka. You can easily add new sources to load data from external data systems and new sinks to write data into external data systems. Additionally, you can manage, monitor, and configure connectors with Confluent Control Center.
 
 https://docs.confluent.io/current/tutorials/cp-demo/docs/index.html#cp-demo
+
+## Cruise Control
+
+Cruise Control is a product that helps run Apache Kafka clusters at large scale. Due to the popularity of Apache Kafka, many companies have increasingly large Kafka clusters with hundreds of brokers. At LinkedIn, we have 10K+ Kafka brokers, which means broker deaths are an almost daily occurrence and balancing the workload of Kafka also becomes a big overhead.
+
+Kafka Cruise Control is designed to address this operational scalability issue.
+
+**Actions**
+
+- **fix** - fix the problem right away (e.g. start a rebalance, fix offline replicas)
+- **check** - check the situation again after a configurable delay (e.g. adopt a grace period before fixing broker failures)
+- **ignore** - ignore the anomaly (e.g. self-healing is disabled)
+
+- [GitHub - linkedin/cruise-control: Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters.](https://github.com/linkedin/cruise-control)
+- [Introducing Kafka Cruise Control Frontend](https://engineering.linkedin.com/blog/2019/02/introducing-kafka-cruise-control-frontend)
 
 ## Tips
 

@@ -43,9 +43,15 @@ Extensions that helps make obsidian better
 - [GitHub - scambier/obsidian-omnisearch: A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.](https://github.com/scambier/obsidian-omnisearch)
 - [GitHub - OliverBalfour/obsidian-pandoc: Pandoc document export plugin for Obsidian (https://obsidian.md)](https://github.com/OliverBalfour/obsidian-pandoc)
 - [GitHub - meld-cp/obsidian-encrypt: Hide secrets in your Obsidian.md vault](https://github.com/meld-cp/obsidian-encrypt)
-- [GitHub - logancyang/obsidian-copilot: THE Copilot in Obsidian](https://github.com/logancyang/obsidian-copilot)
+- **[GitHub - logancyang/obsidian-copilot: THE Copilot in Obsidian](https://github.com/logancyang/obsidian-copilot)**
+- [GitHub - nhaouari/obsidian-textgenerator-plugin: Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.](https://github.com/nhaouari/obsidian-textgenerator-plugin)
+	- [GPT in Obsidian: Text Generator Plugin - YouTube](https://www.youtube.com/watch?v=OergqWCdFKc)
 - TODO - [Use H1 or YAML property "title" instead of or in addition to filename as display name - Feature requests - Obsidian Forum](https://forum.obsidian.md/t/use-h1-or-yaml-property-title-instead-of-or-in-addition-to-filename-as-display-name/687/148)
 	- [Add option to display title instead of filename - Help - Obsidian Forum](https://forum.obsidian.md/t/add-option-to-display-title-instead-of-filename/40897/5)
+- [GitHub - javalent/admonitions: Adds admonition block-styled content to Obsidian.md](https://github.com/javalent/admonitions)
+- [GitHub - brianpetro/obsidian-smart-connections: Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3](https://github.com/brianpetro/obsidian-smart-connections)
+	- [Obsidian Smart Connections UPDATE 📝 Rediscover Notes With Obsidian AI - YouTube](https://www.youtube.com/watch?v=7Rvl9Sl29Jk)
+- [GitHub - mirnovov/obsidian-homepage: An Obsidian plugin that opens a specified note, canvas, or workspace on startup, instead of the most recent one.](https://github.com/mirnovov/obsidian-homepage)
 
 **Settings / Preferences**
 
@@ -61,21 +67,22 @@ Extensions that helps make obsidian better
 
 ## Obsidian Shortcuts
 
-| **Todo** | **Shortcut** |
-| ---- | ---- |
-| Search in all files | `Cmd+Shift+F` |
-| Toggle edit/preview mode | `Ctrl/Cmd E` |
-| Insert External link | `Ctrl/Cmd-K` |
-| Indent | `Ctrl/Cmd-]` |
-| Unindent | `Cmd-[` |
-| Jump into selected backlink | `Alt/Opt-Enter` |
-| Navigate forward | `cmd+ctrl + ->` |
-| Naviagte back | `cmd+ctrl + <-` |
-| Add current date | Insert current date (cmd + y) |
-| Add checkbox | `cmd + L` |
-| Delete the line |  |
-| Insert Current Date | `cmd + D` |
-| Strikethrough | `cmd + shift + x` |
+| **Todo**                       | **Shortcut**                         |
+| ------------------------------ | ------------------------------------ |
+| Search in all files            | `Cmd+Shift+F`                        |
+| Search in specific path/folder | `path:technologies/flink checkpoint` |
+| Toggle edit/preview mode       | `Ctrl/Cmd E`                         |
+| Insert External link           | `Ctrl/Cmd-K`                         |
+| Indent                         | `Ctrl/Cmd-]`                         |
+| Unindent                       | `Cmd-[`                              |
+| Jump into selected backlink    | `Alt/Opt-Enter`                      |
+| Navigate forward               | `cmd+ctrl + ->`                      |
+| Naviagte back                  | `cmd+ctrl + <-`                      |
+| Add current date               | Insert current date (cmd + y)        |
+| Add checkbox                   | `cmd + L`                            |
+| Delete the line                |                                      |
+| Insert Current Date            | `cmd + D`                            |
+| Strikethrough                  | `cmd + shift + x`                    |
 
 ### Some basics
 

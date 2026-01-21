@@ -75,6 +75,10 @@
 	- Issued on - 17 December 2025
 	- Expires on - 17 December 2027
 	- **Score: 97%**
+- Data Streaming Engineer - Apache Flink® - [Accredible • Certificates, Badges and Blockchain](https://certificates.confluent.io/ee6afc43-4366-4a52-8605-ac2c7f470b0e)
+	- Issued on - 19 January 2026
+	- Expires on - 19 January 2028
+	- **Score - 87%**
 
 ### AWS
 

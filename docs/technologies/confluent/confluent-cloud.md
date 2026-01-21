@@ -59,6 +59,7 @@ To keep traffic off the public internet, Confluent Cloud offers multiple private
 The platform provides a full suite of identity controls, including:
 
 - Role-Based Access Control (RBAC): Granular permissions for users and service accounts to ensure that only authorized entities can perform specific actions on resources.
+	- [Predefined RBAC roles in Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/security/access-control/rbac/predefined-rbac-roles.html)
 - Auditing: Comprehensive audit logs track all user and application activity, which is essential for security monitoring and compliance.
 
 ## Links

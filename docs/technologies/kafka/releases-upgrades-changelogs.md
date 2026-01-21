@@ -23,6 +23,8 @@ https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates
 		- [Queues for Kafka Explained (KIP-932) - YouTube](https://www.youtube.com/watch?v=Wb0xyqgaIqw)
 		- Share Partition, Share Consumer
 		- Cooperative consumption model
+		- [Let's Take a Look at... KIP-932: Queues for Kafka! - Gunnar Morling](https://www.morling.dev/blog/kip-932-queues-for-kafka/)
+		- [Queues for Kafka. Queues for Kafka is a proposed new… \| by Andrew Schofield \| Medium](https://medium.com/@andrew_schofield/queues-for-kafka-29afa8aeed86)
 	- [KIP-1106: Add duration based offset reset option for consumer clients](https://cwiki.apache.org/confluence/x/NIyMEw)
 	- [KIP-1043: Administration of groups](https://cwiki.apache.org/confluence/x/XoowEg)
 - Kafka Streams

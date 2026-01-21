@@ -54,3 +54,17 @@ To optimize your Kafka deployment in Confluent, consider the following best prac
 Whether you’re working with ordered data, and managing multi-tenant systems, using message keys effectively can ensure that your Kafka-based architecture is robust, scalable, and performant.
 
 [Kafka Message Key: A Comprehensive Guide](https://www.confluent.io/learn/kafka-message-key/#what-is-a-kafka-message-key)
+
+## Kafka Message Headers
+
+Kafka message headers are **key-value pairs of metadata attached to a message**, separate from the main message key and payload. Introduced in Apache Kafka version 0.11.0.0, they provide context for message processing, routing, and tracing without needing to deserialize the main data.
+
+| Concept                | Description                                                                                                                                                                                     |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Kafka headers          | Key-value pairs that you add to Kafka messages outside of the payload.                                                                                                                          |
+| Header value data type | Kafka header values are stored as byte arrays (`byte[]`)                                                                                                                                        |
+| Serialization          | The process of converting other data types to the header data type.                                                                                                                             |
+| Deserialization        | The process of converting the header data type back to its original data format.                                                                                                                |
+| Use cases              | Message routing, Metadata storage, Tracing and logging, Custom processing, Security and authentication, Priority and routing, Interoperability, Stream processing |
+
+[Kafka Headers—Use cases, best practices, and alternatives](https://www.redpanda.com/guides/kafka-cloud-kafka-headers)

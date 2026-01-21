@@ -1,5 +1,7 @@
 # Models
 
+- [voice-models](ai/llm/voice-models.md)
+
 ## Intro
 
 - **Generative models** learn the joint probability distribution of input and output data.

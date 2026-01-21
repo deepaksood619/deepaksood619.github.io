@@ -41,23 +41,14 @@ This code is a library that forms the core building block for a fast key value s
 
 ### Features
 
-1. **High Performance**
+1. **High Performance** - RocksDB uses a log structured database engine, written entirely in C++, for maximum performance. Keys and values are just arbitrarily-sized byte streams.
+2. **Optimized for Fast Storage** - RocksDB is optimized for fast, low latency storage such as flash drives and high-speed disk drives. RocksDB exploits the full potential of high read/write rates offered by flash or RAM.
+3. **Adaptable** - RocksDB is adaptable to different workloads. From database storage engines such as [MyRocks](https://github.com/facebook/mysql-5.6) to [application data caching](http://techblog.netflix.com/2016/05/application-data-caching-using-ssds.html) to embedded workloads, RocksDB can be used for a variety of data needs.
+4. **Basic and Advanced Database Operations** - RocksDB provides basic operations such as opening and closing a database, reading and writing to more advanced operations such as merging and compaction filters.
 
-    RocksDB uses a log structured database engine, written entirely in C++, for maximum performance. Keys and values are just arbitrarily-sized byte streams.
+[GitHub - facebook/rocksdb: A library that provides an embeddable, persistent key-value store for fast storage.](https://github.com/facebook/rocksdb)
 
-2. **Optimized for Fast Storage**
-
-    RocksDB is optimized for fast, low latency storage such as flash drives and high-speed disk drives. RocksDB exploits the full potential of high read/write rates offered by flash or RAM.
-
-3. **Adaptable**
-
-    RocksDB is adaptable to different workloads. From database storage engines such as [MyRocks](https://github.com/facebook/mysql-5.6) to [application data caching](http://techblog.netflix.com/2016/05/application-data-caching-using-ssds.html) to embedded workloads, RocksDB can be used for a variety of data needs.
-
-4. **Basic and Advanced Database Operations**
-
-    RocksDB provides basic operations such as opening and closing a database, reading and writing to more advanced operations such as merging and compaction filters.
-
-    https://github.com/facebook/rocksdb
+[RocksDB \| A persistent key-value store \| RocksDB](https://rocksdb.org/)
 
 ## IndexedDB
 

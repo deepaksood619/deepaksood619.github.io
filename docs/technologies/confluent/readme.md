@@ -7,6 +7,7 @@
 - [cloud-documentation](technologies/confluent/cloud-documentation.md)
 	- [confluent-cloud](technologies/confluent/confluent-cloud.md)
 	- [Confluent Cloud Networking & Security](technologies/confluent/confluent-cloud-networking/readme.md)
+	- [govern-data-streams](technologies/confluent/govern-data-streams.md)
 - [platform-documentation](technologies/confluent/platform-documentation.md)
 	- [confluent-platform](technologies/confluent/confluent-platform.md)
 	- [confluent-for-kubernetes-cfk](technologies/confluent/confluent-for-kubernetes-cfk.md)

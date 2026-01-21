@@ -46,6 +46,7 @@ Azure provides a wide range of networking tools and capabilities. These are just
 - [Azure Firewall](https://azure.microsoft.com/services/azure-firewall). Provide protection for your Azure Virtual Network resources.
 - [Azure Application Gateway](https://azure.microsoft.com/services/application-gateway). Build highly secure, scalable, highly available web front ends.
 - [Azure ExpressRoute](https://azure.microsoft.com/services/expressroute). Create a fast, reliable, and private connection to Azure.
+	- ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365.
 - [Azure Load Balancer](https://azure.microsoft.com/services/load-balancer). Deliver high availability and network performance to your apps.
 - [Azure VPN Gateway](https://azure.microsoft.com/services/vpn-gateway). Establish high security cross-premises connectivity.
 

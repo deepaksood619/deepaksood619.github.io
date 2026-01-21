@@ -139,7 +139,55 @@ It does not make sense to have a string without knowing what encoding it uses.
 ## Licenses
 
 - GPL Gnu General Public License
+	- The **GNU General Public License (GPL)** is a widely used free software license that guarantees users the freedom to run, study, share, and modify the software. It is a "copyleft" license, meaning that any derivative works must also be released under the GPL, ensuring that the software and its modifications remain free. It's popular for projects that want to ensure their software remains open and free for all users.
 - CDDL Common Development and Distribution License
+	- The **Common Development and Distribution License (CDDL)** is a free and open-source software license developed by Sun Microsystems. It is a "weak copyleft" license, meaning that modifications to files covered by the CDDL must also be released under the CDDL, but new files added to the project can be under a different license. It's often used for projects that want to allow for easier integration with proprietary software while still maintaining open-source principles for the core code.
 - Apache License (APL)
+	- The **Apache License 2.0** is a popular, permissive open-source license allowing free use, modification, and distribution of software for any purpose, including commercial, with few restrictions, requiring only attribution, preservation of notices, and stating changes made to files, while also providing explicit patent grants for contributors' work. It's popular because it balances open-source freedoms with clear legal terms, encouraging use in both open and proprietary projects.
+- MIT License
+	- The **MIT License** is one of the most permissive free software licenses. It allows users to do anything they want with the software, including using, copying, modifying, merging, publishing, distributing, sublicensing, and/or selling copies, provided that the original copyright notice and permission notice are included. It's popular for its simplicity and minimal restrictions, making it highly compatible with other licenses and suitable for both open-source and proprietary projects.
+- BSD Licenses (e.g., 3-Clause BSD)
+	- The **BSD Licenses** are a family of permissive free software licenses that place minimal restrictions on the use and distribution of software. They typically require only that the copyright notice and disclaimer of warranty be retained. There are several variants, such as the 2-Clause (FreeBSD) and 3-Clause (New BSD) licenses. They are known for their flexibility, allowing software to be easily incorporated into proprietary products.
+- MPL Mozilla Public License
+	- The **Mozilla Public License (MPL)** is a "weak copyleft" license that aims to strike a balance between the strong copyleft of the GPL and the permissive nature of licenses like MIT or BSD. It requires modifications to files covered by the MPL to also be released under the MPL, but it allows for linking with proprietary code without requiring the entire combined work to be open source. It's often used for projects where a mix of open and proprietary components is desired.
+
+| License                                                | Category      | Copyleft Strength | Key Requirements                                                                                                                          | Commercial Use                                                          |
+| ------------------------------------------------------ | ------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| **GPL (GNU General Public License)**                   | Copyleft      | Strong            | - Derivative works must also be licensed under GPL.  - Guarantees user freedoms (run, study, share, modify).                          | Yes, but derivative works must remain open source under GPL.            |
+| **CDDL (Common Development and Distribution License)** | Weak Copyleft | Weak              | - Modifications to files covered by CDDL must remain under CDDL.  - New files can be under different licenses.                        | Yes, allows easier integration with proprietary software for new files. |
+| **Apache License 2.0 (APL)**                           | Permissive    | None              | - Attribution (retain copyright and patent notices).  - State changes made to files.  - Explicit patent grants from contributors. | Yes, with minimal restrictions.                                         |
+| **MIT License**                                        | Permissive    | None              | - Include original copyright and permission notice.                                                                                       | Yes, with minimal restrictions.                                         |
+| **BSD Licenses (e.g., 3-Clause BSD)**                  | Permissive    | None              | - Retain copyright notice and disclaimer of warranty.                                                                                     | Yes, with minimal restrictions.                                         |
+| **MPL (Mozilla Public License)**                       | Weak Copyleft | Weak              | - Modifications to files covered by MPL must remain under MPL.  - Can be combined with proprietary code.                              | Yes, allows for mixed open/proprietary projects.                        |
 
 https://choosealicense.com/appendix
+
+## Common Programming Casing Styles
+
+- **camelCase**: First word lowercase, others capitalized.
+
+    - _Example_: `firstName`, `myVariable`
+
+- **PascalCase** (Upper Camel Case): First letter of every word capitalized.
+
+    - _Example_: `MyClass`, `Person`
+
+- **snake_case**: Words separated by underscores.
+
+    - _Example_: `first_name`, `user_id`
+
+- **SCREAMING_SNAKE_CASE** (Macro Case): Uppercase words separated by underscores.
+
+    - _Example_: `MAX_COUNT`, `API_KEY`
+
+- **kebab-case** (Dash Case): Words separated by hyphens.
+
+    - _Example_: `my-class`, `background-color`
+
+- **Train-Case** (HTTP Header Case): Hyphen separated with Capitalized words.
+
+    - _Example_: `Content-Type`
+
+- **flatcase**: All lowercase, no separators.
+
+    - _Example_: `username`, `body`

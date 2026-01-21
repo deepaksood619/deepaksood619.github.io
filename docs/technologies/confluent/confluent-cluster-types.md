@@ -26,7 +26,7 @@ In scenarios where you expect a large, rapid increase in traffic, consider conta
 
 All Enterprise clusters support fast scaling up to 10 eCKUs, which is similar to how elastic scaling has worked in the past. Beyond 10 eCKUs, Enterprise clusters support _on-demand_ scaling, which may be limited to a growth rate of approximately 20 minutes per eCKU.
 
-#### Considerations:
+#### Considerations
 
 - To provision Enterprise clusters with a maximum of 32 eCKU on AWS, your cluster networking must use Private Network Interface (PNI).
 - Enterprise clusters that use PrivateLink networking on AWS are limited to a maximum of 10 eCKU.
@@ -50,7 +50,7 @@ All clusters have the following features:
 - [Stream Catalog](https://docs.confluent.io/cloud/current/stream-governance/stream-catalog.html#cloud-stream-catalog)
 - [Stream Lineage](https://docs.confluent.io/cloud/current/stream-governance/stream-lineage.html#cloud-stream-lineage)
 - [Encryption-at-rest](https://confluent.safebase.us/?itemUid=ef061e5b-a2f4-469e-92bc-ab973e3d7842&source=title)
-- [TLS for data in transit](https://docs.confluent.io/cloud/current/security/encrypt/tls.html#manage-data-in-transit-with-tls)    
+- [TLS for data in transit](https://docs.confluent.io/cloud/current/security/encrypt/tls.html#manage-data-in-transit-with-tls)
 - [Role-based Access Control (RBAC)](https://docs.confluent.io/cloud/current/security/access-control/rbac/overview.html#cloud-rbac) (Basic clusters do not support RBAC roles for resources within the Kafka cluster)
 
 ## Links

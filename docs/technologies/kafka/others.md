@@ -28,16 +28,21 @@ And with Confluent Platform 5.4 or newer, you have the additional option to [cen
 - Google Cloud Pub/Sub
 - Azure Event Hubs
 - **Redpanda**
+	- Redpanda is the real-time engine for modern apps. Kafka API Compatible; 10x faster
+	- https://redpanda.com
+	- [GitHub - redpanda-data/redpanda: Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!](https://github.com/redpanda-data/redpanda)
 - [**warpstream**](technologies/confluent/warpstream.md)
+- [KafScale - Stateless Kafka on S3 \| KafScale](https://kafscale.io/)
+	- Apache 2.0 licensed. No vendor lock-in. Self-hosted.
+	- One endpoint. Infinite scale.
+	- Kafka-compatible streaming platform. Scale streaming and analytics cloud-native on S3. Automated.
+	- KafScale is a Kafka-protocol compatible streaming platform built around a simple premise: **durable logs belong in object storage, not in stateful brokers**.
+	- [GitHub - KafScale/platform: KafScale delivers Kafka-compatible data streaming on S3. Scale infinitely, stateless brokers and processors.](https://github.com/KafScale/platform)
+	- [KafScale Architecture Decisions](https://www.novatechflow.com/p/kafscale.html)
+	- [Comparison \| KafScale](https://kafscale.io/comparison/)
 - [GitHub - AutoMQ/automq: AutoMQ is a cloud-native alternative to Kafka by decoupling durability to cloud storage services like S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.](https://github.com/automq/automq)
 
-Redpanda is the real-time engine for modern apps. Kafka API Compatible; 10x faster
-
 [Co-Designing Raft + Thread-per-Core Execution Model for the Kafka-API](https://youtu.be/kz7R1mGrN9Q)
-
-https://redpanda.com
-
-https://github.com/vectorizedio/redpanda
 
 https://bravenewgeek.com/benchmarking-message-queue-latency
 

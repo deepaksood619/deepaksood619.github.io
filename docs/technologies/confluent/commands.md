@@ -33,6 +33,8 @@ confluent kafka topic produce test-topic
 confluent kafka topic consume clickstream
 confluent kafka topic consume clickstream --group test-group
 confluent kafka topic consume --from-beginning test-topic
+
+confluent-hub install confluentinc/kafka-connect-datagen:latest
 ```
 
 ### Create producer or consumer config

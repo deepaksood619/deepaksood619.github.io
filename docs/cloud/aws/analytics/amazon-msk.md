@@ -32,6 +32,7 @@ Amazon MSK detects and automatically recovers from the most common failure scena
 ## Pricing
 
 MSK Provisioned offers two types of brokers:
+
 1. Express brokers are purpose-built to make Apache Kafka easier to manage, deliver up to 3x more throughput per broker, scale up to 20x faster –also a 90% reduction in recovery time compared to Standard brokers; and
 2. Standard brokers that offer maximum flexibility and choice for control.
 

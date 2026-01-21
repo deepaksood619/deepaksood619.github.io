@@ -164,6 +164,29 @@ If certain data points are missing for a school, mention "**Information Not Avai
 - Genesis global school
 - DPS Ghaziabad
 
+## Japanese Schooling Techniques
+
+- How Japanese Schools Raise the Most Disciplined Children in the World
+- Japan teaches **"how to be a good human first, a good student second."**
+- Core Academics
+	- Japanese, math, science, social studies, English, art, music, and physical education with strong fundamentals.
+- Moral Education
+	- Respect, honesty, empathy, self-control, and responsibility are formally taught.
+- Life Skills & Responsibility
+	- Students clean classrooms, serve lunch, and care for shared spaces themselves.
+- Teamwork & Cooperation
+	- Group harmony, shared success, and helping classmates matter more than competition.
+- Nature Awareness
+	- Seasonal activities, gardens, and nature observation are part of learning.
+- Delayed Academic Pressure
+	- Fewer exams early on; habits and discipline come before competition.
+- Manners & Etiquette
+	- Polite speech, bowing, and respect for others are emphasized
+- Emotional Control
+	- Children learn calm behavior, conflict resolution, apologizing, and empathy.
+- Cultural Values
+	- Traditions, festivals, calligraphy, and Japanese arts are taught from early years.
+
 ## Questions / Metrics
 
 - Curriculums

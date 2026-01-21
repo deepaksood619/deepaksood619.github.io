@@ -305,10 +305,14 @@ https://www.geeksforgeeks.org/hdf5-files-in-python
 
 [**https://github.com/realpython/materials/blob/storing-images/storing-images/storing_images.ipynb**](https://github.com/realpython/materials/blob/storing-images/storing-images/storing_images.ipynb)
 
-## HAR
+## HAR File
 
 The **HTTP Archive** format, or **HAR**, is a JSON-formatted archive file format for logging of a web browser's interaction with a site. The common extension for these files is **.har**.
 
 The specification for the HTTP Archive (HAR) format defines an archival format for HTTP transactions that can be used by a web browser to export detailed performance data about web pages it loads. The specification for this format is produced by the Web Performance Working Group of the World Wide Web Consortium (W3C). This document was never published by the Web Performance Working Group and has been abandoned.
+
+A HAR (HTTP Archive) file is **a JSON-formatted log of a web browser's network activity**, capturing every request and response between the browser and a website, including timings, headers, and bodies, used primarily for debugging slow loading, errors, and performance issues by developers and support teams. You generate one using your browser's Developer Tools (Network tab) and can export it as a `.har` file, but be aware it contains sensitive data like cookies and form inputs, which should be redacted before sharing.
+
+**To create a HAR file in Chrome**, open DevTools (`F12`), navigate to the Network tab, ensure recording is active and "Preserve log" is checked, reproduce the website issue, right-click the requests list, and select **Save all as HAR with content**.
 
 [HAR (file format) - Wikipedia](https://en.wikipedia.org/wiki/HAR_(file_format))
