@@ -83,6 +83,7 @@
 - [AWS Developers - YouTube](https://www.youtube.com/@awsdevelopers)
 - [The Linux Foundation - YouTube](https://youtube.com/@linuxfoundationorg)
 - [Arpit Bhayani - YouTube](https://www.youtube.com/@asliengineering)
+- [Gaurav Sen - YouTube](https://www.youtube.com/@gkcs)
 
 ### Math
 

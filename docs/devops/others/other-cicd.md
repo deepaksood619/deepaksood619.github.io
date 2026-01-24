@@ -180,6 +180,13 @@ https://argoproj.github.io/argo-rollouts
 
 https://argoproj.github.io/argo-events/setup/kafka
 
+## Semaphore
+
+- [GitHub - semaphoreio/semaphore: All-in-one delivery platform for AI-driven development.](https://github.com/semaphoreio/semaphore?tab=readme-ov-file)
+- [About Semaphore \| Semaphore](https://docs.semaphore.io/CE/getting-started/about-semaphore)
+- [Continuous Integration & Delivery - Semaphore](https://semaphore.io/)
+- [Confluent Migrates from Jenkins to Semaphore - YouTube](https://www.youtube.com/watch?v=YSyv3fWpy_A)
+
 ## CI/CD
 
 https://medium.com/axons/ci-cd-with-argo-on-kubernetes-28c1a99616a9

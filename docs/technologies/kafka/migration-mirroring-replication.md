@@ -1,5 +1,7 @@
 # Migration / Mirroring / Replication
 
+[**20240425-EB-Migrating\_From\_Kafka\_To\_Confluent.pdf**](https://assets.confluent.io/m/2745775bbd1fa224/original/20240425-EB-Migrating_From_Kafka_To_Confluent.pdf)
+
 ## Cross-Cluster Data Mirroring
 
 - Multicluster architecture

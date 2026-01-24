@@ -12,7 +12,7 @@ ACLs are tables that store identities and what they can do or see (the resources
 
 This problem is only made worse as the number of identities in your organization increases. Verifying permissions for compliance with laws and regulations can become quite a labor-intensive and time-consuming process, not to mention a potential security risk.
 
-ACLs are specific to Kafka resources and don’t extend to other Confluent Cloud concepts, such as environments and organizations. Managing ACLs for a small number of identities likely isn’t a big deal. However, if you are working with a large organization with hundreds or thousands of identities, using ACLs doesn’t scale. You’re left with the second option for organizing identities, role-based access control.
+**ACLs are specific to Kafka resources and don’t extend to other Confluent Cloud concepts, such as environments and organizations.** Managing ACLs for a small number of identities likely isn’t a big deal. However, if you are working with a large organization with hundreds or thousands of identities, using **ACLs doesn’t scale.** You’re left with the second option for organizing identities, role-based access control.
 
 ## RBACs
 
@@ -24,7 +24,7 @@ Using RBACs, Milton is assigned to the DeveloperRead role. Each identity assigne
 
 ## RBAC roles
 
-Confluent Cloud has the following roles preconfigured. You may want to keep a copy of this table to reference as you begin to plan your access architecture. You may want to [reference the documentation](https://docs.confluent.io/cloud/current/access-management/access-control/cloud-rbac.html#ccloud-rbac-roles) for more in-depth details on each of these roles.
+Confluent Cloud has the following roles preconfigured. You may want to [reference the documentation](https://docs.confluent.io/cloud/current/access-management/access-control/cloud-rbac.html#ccloud-rbac-roles) for more in-depth details on each of these roles.
 
 ![rbac-roles](https://images.ctfassets.net/gt6dp23g0g38/la7jRx1RlQaz6tSBlp9dm/c78c4ef3ef330761e47c7bdc0d4458bb/rbac-roles.jpg)
 
@@ -36,7 +36,7 @@ Also, there are a couple of things to keep in mind as you use RBAC in Confluent 
 
 ## RBAC Considerations
 
-- If you use OAuth for authentication you will be creating identity pools for your principals. There are two parts to every identity pool: who can use the pool, and what the pool can access. The “who” is a set of conditions that the identity needs to satisfy in order to use the pool. The “what” is defined by ACLs and RBAC roles.
+- If you use OAuth for authentication you will be creating identity pools for your principals. There are two parts to every identity pool: **who can use the pool, and what the pool can access.** The “who” is a set of conditions that the identity needs to satisfy in order to use the pool. The “what” is defined by ACLs and RBAC roles.
 - You can use a mix of ACLs and RBACs. This may be helpful if you need to provide a small set of identities with access to a resource in your Confluent Cloud cluster. However, as an investment in the future, we recommend going with RBACs over ACLs.
 
 ## ACLs and RBAC Order of Precedence
@@ -44,3 +44,25 @@ Also, there are a couple of things to keep in mind as you use RBAC in Confluent 
 As both ACLs and RBAC provide authorization, there is an order of precedence in granting access:
 
 ![granting-authorization](https://images.ctfassets.net/gt6dp23g0g38/rIAdqJXoWfIPbntYRSKkw/d6331054ece90e40cb38e92cb578f962/granting-authorization.jpg)
+
+## API Keys vs Service Accounts
+
+**_Service account API keys are recommended for production and automation, while user API keys are best suited for development and personal use._** Service account API keys ensure continuity and security for applications, whereas user API keys are tied to individual users and can cause disruptions if the user leaves the organization.
+
+| Predefined RBAC role                                                                                                                        | Manage API keys resource-scoped to                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [CloudClusterAdmin](https://docs.confluent.io/cloud/current/security/access-control/rbac/predefined-rbac-roles.html#cloudclusteradmin-role) | Kafka clusters owned by the principal.                                                                                              |
+| [DataDiscovery](https://docs.confluent.io/cloud/current/security/access-control/rbac/predefined-rbac-roles.html#datadiscovery-role)         | Schema Registry clusters owned by the principal.                                                                                    |
+| [DeveloperManage](https://docs.confluent.io/cloud/current/security/access-control/rbac/predefined-rbac-roles.html#developermanage-role)     | Clusters (Kafka, ksqlDB, and Schema Registry) owned by the principal.                                                               |
+| [DeveloperRead](https://docs.confluent.io/cloud/current/security/access-control/rbac/predefined-rbac-roles.html#developerread-role)         | Clusters (Kafka, ksqlDB, and Schema Registry) owned by the principal.                                                               |
+| [DeveloperWrite](https://docs.confluent.io/cloud/current/security/access-control/rbac/predefined-rbac-roles.html#developerwrite-role)       | Clusters (Kafka, ksqlDB, and Schema Registry) owned by the principal.                                                               |
+| [EnvironmentAdmin](https://docs.confluent.io/cloud/current/security/access-control/rbac/predefined-rbac-roles.html#environmentadmin-role)   | Clusters (Kafka, Schema Registry and ksqlDB) and Flink regions owned by the principal.                                              |
+| [KsqlAdmin](https://docs.confluent.io/cloud/current/security/access-control/rbac/predefined-rbac-roles.html#ksqladmin-role)                 | ksqlDB clusters that the principal has access to.                                                                                   |
+| [Operator](https://docs.confluent.io/cloud/current/security/access-control/rbac/predefined-rbac-roles.html#operator-role)                   | Clusters (Kafka, Schema Registry, Flink, and ksqlDB) owned by the principal.                                                        |
+| [OrganizationAdmin](https://docs.confluent.io/cloud/current/security/access-control/rbac/predefined-rbac-roles.html#organizationadmin-role) | Clusters (Kafka, ksqlDB, and Schema Registry) and Flink in the organization and resource management APIs.                           |
+| [ResourceKeyAdmin](https://docs.confluent.io/cloud/current/security/access-control/rbac/predefined-rbac-roles.html#resourcekeyadmin-role)   | Clusters (Kafka, ksqlDB, and Schema Registry) and Flink regions the principal has access to, but cannot create API keys for itself. |
+| [ResourceOwner](https://docs.confluent.io/cloud/current/security/access-control/rbac/predefined-rbac-roles.html#resourceowner-role)         | Clusters (Kafka, ksqlDB, and Schema Registry) owned by the principal.                                                               |
+
+[Manage API keys in Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/service-accounts/api-keys/manage-api-keys.html)
+
+[Best practices for API keys in Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/service-accounts/api-keys/best-practices-api-keys.html)

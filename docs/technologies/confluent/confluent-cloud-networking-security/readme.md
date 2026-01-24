@@ -6,17 +6,17 @@
 
 Presentation - [Confluent cloud networking presentation](https://cdn.confluent.io/wp-content/uploads/Confluent-Cloud-Networking.pptx?_ga=2.239579395.1670443327.1764938612-1932903465.1763960193&_gac=1.220584298.1764679887.Cj0KCQjwlN6wBhCcARIsAKZvD5hj6atmfBZmeFDY_T6d80dyl5Locblco5gjBN-nAd7pyV0QVyGqOPoaAin5EALw_wcB&_gl=1*7qhwin*_gcl_aw*R0NMLjE3NjQ2ODExMzUuQ2owS0NRandsTjZ3QmhDY0FSSXNBS1p2RDVoajZhdG1mQlptZUZEWV9UNmQ4MGR5bDVMb2NibGNvNWdqQk4tbkFkN3B5VjBRVnlHcU9Qb2FBaW41RUFMd193Y0I.*_gcl_au*MTg2MTEyNzg1NS4xNzY0MjczOTMy*_ga*MTkzMjkwMzQ2NS4xNzYzOTYwMTkz*_ga_D2D3EGKSGD*czE3NjUyNjcxNzIkbzE0JGcwJHQxNzY1MjY3MTcyJGo2MCRsMCRoMA..)
 
-1. [01-introduction](technologies/confluent/confluent-cloud-networking/01-introduction.md)
-2. [02-confluent-cloud-overview](technologies/confluent/confluent-cloud-networking/02-confluent-cloud-overview.md)
-3. [03-secure-public-endpoints](technologies/confluent/confluent-cloud-networking/03-secure-public-endpoints.md)
+1. [01-introduction](technologies/confluent/confluent-cloud-networking-security/01-introduction.md)
+2. [02-confluent-cloud-overview](technologies/confluent/confluent-cloud-networking-security/02-confluent-cloud-overview.md)
+3. [03-secure-public-endpoints](technologies/confluent/confluent-cloud-networking-security/03-secure-public-endpoints.md)
 4. [Configure a Kafka Cluster with Public Endpoints (Hands-On)](https://developer.confluent.io/courses/confluent-cloud-networking/configure-public-endpoints/)
 	1. [commands](technologies/confluent/commands.md)
-5. [05-vpc-vpnet-peering-overview](technologies/confluent/confluent-cloud-networking/05-vpc-vpnet-peering-overview.md)
+5. [05-vpc-vpnet-peering-overview](technologies/confluent/confluent-cloud-networking-security/05-vpc-vpnet-peering-overview.md)
 6. [Configure a VPC Peered Cluster (Hands-On Tutorial)](https://developer.confluent.io/courses/confluent-cloud-networking/configure-vpc-peering/)
-7. [07-aws-transit-gateway](technologies/confluent/confluent-cloud-networking/07-aws-transit-gateway.md)
-8. [08-aws-azure-private-link](technologies/confluent/confluent-cloud-networking/08-aws-azure-private-link.md)
+7. [07-aws-transit-gateway](technologies/confluent/confluent-cloud-networking-security/07-aws-transit-gateway.md)
+8. [08-aws-azure-private-link](technologies/confluent/confluent-cloud-networking-security/08-aws-azure-private-link.md)
 9. [Configure a Private Link Cluster (Hands-On)](https://developer.confluent.io/courses/confluent-cloud-networking/configure-private-link/)
-10. [10-best-networking-options](technologies/confluent/confluent-cloud-networking/10-best-networking-options.md)
+10. [10-best-networking-options](technologies/confluent/confluent-cloud-networking-security/10-best-networking-options.md)
 
 ## [Course: Introduction to Confluent Cloud Security](https://developer.confluent.io/courses/cloud-security/intro/)
 
@@ -26,11 +26,11 @@ Presentation - [Confluent cloud networking presentation](https://cdn.confluent.i
 
 [Building-Trust-With-Confluent-Cloud-WP.pdf](https://assets.confluent.io/m/67f93edfe1a9f524/original/Building-Trust-With-Confluent-Cloud-WP.pdf)
 
-1. [21-authenticating-users-and-applications](technologies/confluent/confluent-cloud-networking/21-authenticating-users-and-applications.md)
-2. [22-authorizing-using-rbac-and-acls](technologies/confluent/confluent-cloud-networking/22-authorizing-using-rbac-and-acls.md)
-3. [23-understanding-encryption](technologies/confluent/confluent-cloud-networking/23-understanding-encryption.md)
-4. [24-auditing-and-monitoring](technologies/confluent/confluent-cloud-networking/24-auditing-and-monitoring.md)
-5. [25-maintaining-compliance-and-privacy](technologies/confluent/confluent-cloud-networking/25-maintaining-compliance-and-privacy.md)
+1. [21-authenticating-users-and-applications](technologies/confluent/confluent-cloud-networking-security/21-authenticating-users-and-applications.md)
+2. [22-authorizing-using-rbac-and-acls](technologies/confluent/confluent-cloud-networking-security/22-authorizing-using-rbac-and-acls.md)
+3. [23-understanding-encryption](technologies/confluent/confluent-cloud-networking-security/23-understanding-encryption.md)
+4. [24-auditing-and-monitoring](technologies/confluent/confluent-cloud-networking-security/24-auditing-and-monitoring.md)
+5. [25-maintaining-compliance-and-privacy](technologies/confluent/confluent-cloud-networking-security/25-maintaining-compliance-and-privacy.md)
 
 ## Links
 

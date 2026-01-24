@@ -1,6 +1,7 @@
 # Govern Data Streams
 
 [Govern Data Streams](https://docs.confluent.io/cloud/current/sr/overview.html)
+
 - [Overview](https://docs.confluent.io/cloud/current/stream-governance/index.html)
 - [Stream Governance](https://docs.confluent.io/cloud/current/stream-governance/overview.html)
 	- [Manage Governance Packages](https://docs.confluent.io/cloud/current/stream-governance/packages.html)
@@ -44,7 +45,7 @@
 Essentials and Advanced. The governance package type you choose determines the features, capabilities, limits, and billing for the governance package. Use the information in this topic to find the governance package with the features and capabilities that’s right for you:
 
 - Use the **Essentials** package to help you get started with the governance fundamentals.
-- Use the **Advanced** package for enterprise grade data governance in production workloads.    
+- Use the **Advanced** package for enterprise grade data governance in production workloads.
 
 The table below offers a high-level comparison of features across the governance package types.
 
@@ -79,7 +80,7 @@ Current limitations are:
 - Flink SQL and ksqlDB do not support rules execution in either Confluent Platform or Confluent Cloud.
 - Confluent Control Center (Legacy) does not show the new properties for Data Contracts on the schema view page, in particular metadata and rules.
 - Schema rules are only executed for the root schema, not referenced schemas. For example, given a schema named “Order” that references another schema named “Product” which has some rules attached to it, the serialization/deserialization of the “Order” object will not execute the rules of the “Product” schema.
-- The non-Java clients (.NET, go, Python, JavaScript) do not yet support the DLQ Action.    
+- The non-Java clients (.NET, go, Python, JavaScript) do not yet support the DLQ Action.
 - JavaScript and .NET do not support schema migration rules for Protobuf due to a limitation of the underlying third-party Protobuf libraries.
 
 ### Understanding the scope of a data contract
@@ -90,7 +91,7 @@ A data contract is a formal agreement between an upstream component and a down
 - **Integrity constraints.** This includes declarative constraints or data quality rules on the domain values of fields, such as the constraint that an age must be a positive integer.
 - **Metadata.** Metadata is additional information about the schema or its constituent parts, such as whether a field contains sensitive information. Metadata can also include documentation for a data contract, such as who created it.
 - **Rules or policies.** These data rules or policies can enforce that a field that contains sensitive information must be encrypted, or that a message containing an invalid age must be sent to a dead letter queue.
-- **Change or evolution.** This implies that data contracts are versioned, and can support declarative migration rules for how to transform data from one version to another, so that even changes that would normally break downstream components can be easily accommodated.    
+- **Change or evolution.** This implies that data contracts are versioned, and can support declarative migration rules for how to transform data from one version to another, so that even changes that would normally break downstream components can be easily accommodated.
 
 Keeping in mind that a data contract is an agreement between an upstream component and a downstream component, note that:
 
@@ -102,6 +103,59 @@ Data contracts are important because they provide transparency over dependencies
 The upstream component could be a Apache Kafka® producer, while the downstream component would be the Kafka consumer. But the upstream component could also be a Kafka consumer, and the downstream component would be the application in which the Kafka consumer resides. This differentiation is important in schema evolution, where the producer may be using a newer version of the data contract, but the downstream application still expects an older version. In this case the data contract is used by the Kafka consumer to mediate between the Kafka producer and the downstream application, ensuring that the data received by the application matches the older version of the data contract, possibly using declarative transformation rules to massage the data into the desired form.
 
 [Data Contracts for Schema Registry on Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/sr/fundamentals/data-contracts.html)
+
+## Manage Schemas - Broker-Side Schema ID Validation
+
+Schema ID Validation enables the broker to verify that data produced to a Kafka topic uses a valid schema ID in Schema Registry that is registered according to the [subject naming strategy](https://docs.confluent.io/cloud/current/sr/fundamentals/serdes-develop/index.html#sr-schemas-subject-name-strategy). (See also, [Schemas, subjects, and topics](https://docs.confluent.io/cloud/current/sr/fundamentals/index.html#sr-subjects-topics-primer).)
+
+Schema Validation does not perform data introspection, but rather checks that the schema ID in the Wire Format is registered in Schema Registry under a valid subject.
+
+You must use a serializer and deserializer (serdes) that respect the [Wire format](https://docs.confluent.io/cloud/current/sr/fundamentals/serdes-develop/index.html#messages-wire-format), or use a Confluent supported serde, as described in [Formats, Serializers, and Deserializers](https://docs.confluent.io/cloud/current/sr/fundamentals/serdes-develop/index.html#serializer-and-formatter).
+
+### Limitations
+
+- Schema validation feature does not reject tombstone records, records with a null value, even if there is no schema ID associated with the record. Messages with a null value or a null key will pass validation. This is a design choice that supports effective data management and deletion in compacted topics.
+
+### Prerequisites
+
+- Schema ID Validation on Confluent Cloud is **only available on [Dedicated clusters](https://docs.confluent.io/cloud/current/clusters/cluster-types.html#dedicated-cluster)** through the hosted Schema Registry. Confluent Cloud brokers cannot use self-managed instances of Schema Registry, only the Confluent Cloud hosted Schema Registry. ([Schema validation is available for on-premises deployments](https://docs.confluent.io/platform/current/schema-registry/schema-validation.html) through Confluent Enterprise).
+- You must have a [Schema Registry enabled for the environment](https://docs.confluent.io/cloud/current/get-started/schema-registry.html#cloud-sr-enable-zones) in which you are using Schema ID Validation.
+- **Schema ID Validation is bounded at the level of an environment. All dedicated clusters in the same environment share a Schema Registry. Clusters do not have visibility into schemas across different environments
+
+### Schema ID Validation Configuration options on a topic
+
+Schema ID Validation is set at the topic level with the following parameters.
+
+| Property                                   | Description                                                                                                                                                                      |
+| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `confluent.key.schema.validation`          | When set to `true`, enables schema ID validation on the message key. The default is `false`.                                                                                     |
+| `confluent.value.schema.validation`        | When set to `true`, enables schema ID validation on the message value. The default is `false`.                                                                                   |
+| `confluent.key.subject.name.strategy`      | Set the subject name strategy for the message key. The default is `io.confluent.kafka.serializers.subject.TopicNameStrategy`.                                                    |
+| `confluent.value.subject.name.strategy`    | Set the subject name strategy for the message value. The default is `io.confluent.kafka.serializers.subject.TopicNameStrategy`.                                                  |
+| `confluent.schema.validation.context.name` | Set the specific schema context that will be searched by the broker when validating the schema ID of the message key and value. The default value of this property is `default`. |
+
+#### Tip
+
+- Value schema and key schema validation are independent of each other; you can enable either or both.
+- The subject naming strategy is tied to Schema ID Validation. This will have no effect when Schema ID Validation is not enabled.
+
+### Subject name strategy
+
+A serializer registers a schema in Schema Registry under a `subject` name, which defines a namespace in the registry:
+
+- Compatibility checks are per subject
+- Versions are tied to subjects
+- When schemas evolve, they are still associated to the same subject but get a new schema ID and version
+
+The subject name depends on the subject name strategy. Three supported strategies include:
+
+| Strategy                | Description                                                                                                                                              |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| TopicNameStrategy       | Derives subject name from topic name. (This is the default.)                                                                                             |
+| RecordNameStrategy      | Derives subject name from record name, and provides a way to group logically related events that may have different data structures under a subject.     |
+| TopicRecordNameStrategy | Derives the subject name from topic and record name, as a way to group logically related events that may have different data structures under a subject. |
+
+[Broker-Side Schema ID Validation on Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/sr/broker-side-schema-validation.html)
 
 ## Manage Schemas - Schema Linking
 

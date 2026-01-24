@@ -2,7 +2,7 @@
 
 ## Tired of taxes?
 
-- **Low cost option:** open a brokerage account on global equities. Do not book any capital gains. When the account goes big, change your tax residency. And, book profits.  
+- **Low cost option:** open a brokerage account on global equities. Do not book any capital gains. When the account goes big, change your tax residency. And, book profits.
 - **Expensive option:** setup a base in low-tax countries immediately. Enjoy perks (but for this, you need to meet a threshold).
 
 ## Low Cost Option
@@ -20,7 +20,7 @@ Your goal here is to minimize costs and ensure portability. If you open an accou
 You need a brokerage that supports **account migration**.
 
 - **Best Option:** **Interactive Brokers (IBKR)**.
-    
+
     - **Why:** They operate globally. When you move to another country (e.g., Dubai or Singapore), you simply file a ticket to migrate your entity from "IBKR India" to "IBKR LLC/UK/etc." effectively keeping your portfolio intact without selling.
     - **Cost:** Very low. Commissions are negligible (~$0.35 to $2 per trade depending on the plan).
 - **Alternatives:** Vested or INDmoney.

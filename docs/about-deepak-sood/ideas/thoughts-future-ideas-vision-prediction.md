@@ -11,9 +11,11 @@
 
 ## Disrupters
 
-- Robotics
+- Humanoid Robotics
 	- [Atlas Goes Hands On - YouTube](https://www.youtube.com/watch?v=F_7IPm7f1vI&ab_channel=BostonDynamics)
 - AI
+- Autonomous Cars
+
 - Flying taxis / Air taxis (VTOL)
 - Climate Change
 - Blockchain
@@ -65,13 +67,10 @@ The whole world is moving towards electric, but India is pushing more towards Hy
 
 ## Technologies
 
-[Can Rice last forever?](https://finshots.in/archive/can-rice-last-forever/)
-
-[The Ceiling Fan Revolution is here!](https://finshots.in/archive/the-ceiling-fan-revolution/)
-
-[It’s Millet Time!](https://finshots.in/archive/its-millet-time/)
-
-[Introducing r1 - YouTube](https://www.youtube.com/watch?v=22wlLy7hKP4)
+- [Can Rice last forever?](https://finshots.in/archive/can-rice-last-forever/)
+- [The Ceiling Fan Revolution is here!](https://finshots.in/archive/the-ceiling-fan-revolution/)
+- [It’s Millet Time!](https://finshots.in/archive/its-millet-time/)
+- [Introducing r1 - YouTube](https://www.youtube.com/watch?v=22wlLy7hKP4)
 
 ## Top changes
 
@@ -154,12 +153,9 @@ Future
 
 ## Links
 
-[NEXT100 by Antler - 2025](https://www.theoryofnext.com/)
-
-[Ask HN: What are the big/important problems to work on? | Hacker News](https://news.ycombinator.com/item?id=37033312)
-
-[Why AI Will Spark Exponential Economic Growth | Cathie Wood | TED - YouTube](https://www.youtube.com/watch?v=rQEh7d-qa38&ab_channel=TED)
-
+- [NEXT100 by Antler - 2025](https://www.theoryofnext.com/)
+- [Ask HN: What are the big/important problems to work on? | Hacker News](https://news.ycombinator.com/item?id=37033312)
+- [Why AI Will Spark Exponential Economic Growth | Cathie Wood | TED - YouTube](https://www.youtube.com/watch?v=rQEh7d-qa38&ab_channel=TED)
 - Old
     - Telephone
     - Electricity

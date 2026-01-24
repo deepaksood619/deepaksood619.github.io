@@ -94,5 +94,4 @@ Turn any python function into a real-time audio and video stream over WebRTC or 
 - 📞 Automatic Telephone Support - Use the `fastphone()` method of the stream to launch the application and get a free temporary phone number!
 - 🤖 Completely customizable backend - A `Stream` can easily be mounted on a FastAPI app so you can easily extend it to fit your production application. See the [Talk To Claude](https://huggingface.co/spaces/fastrtc/talk-to-claude) demo for an example on how to serve a custom JS frontend.
 
-
 - [39-ai-powered-call-quality-monitoring](about-deepak-sood/projects/39-ai-powered-call-quality-monitoring.md)

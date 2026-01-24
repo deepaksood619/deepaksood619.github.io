@@ -51,3 +51,7 @@ All billing computations are conducted in Coordinated Universal Time (UTC).
 ## Capacity Planning
 
 [Capacity Planning Your Apache Kafka Cluster](https://developer.confluent.io/learn-more/podcasts/capacity-planning-your-apache-kafka-cluster/?)
+
+## Links
+
+[Manage Billing in Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/billing/overview.html)
