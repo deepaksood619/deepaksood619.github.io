@@ -23,6 +23,8 @@ In Apache Kafka®, data is produced and consumed as [**messages** with structu
 
 The **Schema Registry** is a standalone server that stores and manages **schemas** for Kafka topics. It’s not part of Apache Kafka itself but is widely adopted as a community-licensed component by Confluent. To Kafka, it just looks like another application producing and consuming messages, but its purpose is specific: it maintains a **database of schemas** for topics it monitors. This database is internally stored in a **Kafka topic**, ensuring high availability and durability.
 
+Generally a Schema Registry cluster can include multiple tenants and each tenant can include multiple contexts. **Schema IDs are unique within a (tenant, context) combination.** For Confluent Platform Schema Registry you will only have one tenant, so IDs will be unique within a context. Considering the tenant/context combination as the realm in which schemas reside, schema IDs are unique within this “world”; that is, globally unique.
+
 ## How Does It Work?
 
 When a **producer** sends a message, it first contacts the **Schema Registry** through its REST API to **register the schema** if it’s new. The producer then includes the **schema ID** in the message before sending it to the Kafka topic. This ID allows consumers to **look up the schema** when they receive the message, ensuring they know how to deserialize and interpret it correctly.
@@ -38,7 +40,7 @@ On the **consumer side**, the consumer checks the schema ID from the message ag
 
 ### Schema Registry Calls
 
-A [Kafka producer](https://www.google.com/search?q=Kafka+producer&rlz=1C5GCCM_en&oq=when+is+a+schema+registry+is+called+by+producer%3F+for+each+message+or+each+new+type+of+message&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAtIBCTIzNjg3ajBqMagCALACAA&sourceid=chrome&ie=UTF-8&zx=1765798466742&no_sw_cr=1&mstk=AUtExfD2s5w1nAK57m--tlXw_FS-6_5Fj7wIYQZt6pp4UYpbIdAqRJaFeSKD6lUGAFilBSG66_eSUvE22Rk9RNg24mJXDdHohBGrDUcyW05HEhrC114nLs4Z9pZ1qnA5GFseSu1si1IxCIy9cgYjlfCXCfQNVWuEoKZ4wBwO9P4IKHmZZ8U&csui=3&ved=2ahUKEwj1u9vyv7-RAxWDRmwGHeMJOzQQgK4QegQIARAD) calls the Schema Registry **once per unique message type** **(schema)**, not for every single message, to register or fetch its ID, then caches it. It checks if the schema exists, registers it (if new), gets a unique ID, serializes the data with that ID, and sends it to Kafka, ensuring efficient communication and version control for all messages of that type.
+A Kafka producer calls the Schema Registry **once per unique message type** **(schema)**, not for every single message, to register or fetch its ID, then caches it. It checks if the schema exists, registers it (if new), gets a unique ID, serializes the data with that ID, and sends it to Kafka, ensuring efficient communication and version control for all messages of that type.
 
 When the Producer Calls the Registry:
 

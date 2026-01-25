@@ -215,3 +215,35 @@ So, **the safest way** to ensure EOS from Outbox → Kafka is:
 
 - Use **CDC (Debezium Outbox pattern)** if possible.
 - If using a custom service, use **Kafka idempotent producer with unique event_id** + mark rows after commit.
+
+## Idempotent Writer
+
+A writer produces [Events](https://developer.confluent.io/patterns/event/event) that are written into an [Event Stream](https://developer.confluent.io/patterns/event-stream/event-stream), and under stable conditions, each Event is recorded only once. However, in the case of an operational failure or a brief network outage, an [Event Source](https://developer.confluent.io/patterns/event-source/event-source) may need to retry writes. This may result in multiple copies of the same Event ending up in the Event Stream, as the first write may have actually succeeded even though the producer did not receive the acknowledgement from the [Event Streaming Platform](https://developer.confluent.io/patterns/event-stream/event-streaming-platform). This type of duplication is a common failure scenario in practice and one of the perils of distributed systems.
+
+### Solution
+
+![idempotent-writer](https://developer.confluent.io/e2aafad9a007b0e88fca48e720894ec1/idempotent-writer.svg)
+
+Generally speaking, this can be addressed by native support for idempotent clients. This means that a writer may try to produce an Event more than once, but the Event Streaming Platform detects and discards duplicate write attempts for the same Event.
+
+### Implementation
+
+To make an Apache Kafka® producer idempotent, configure your producer with the following setting:
+
+`enable.idempotence=true`
+
+The Kafka producer tags each batch of Events that it sends to the Kafka cluster with a sequence number. Brokers in the cluster use this sequence number to enforce deduplication of Events sent from this specific producer. Each batch's sequence number is persisted so that even if the [leader broker](https://www.confluent.io/blog/apache-kafka-intro-how-kafka-works/?session_ref=https%3A%2F%2Fwww.google.com%2F#replication) fails, the new leader broker will also know if a given batch is a duplicate.
+
+To enable exactly-once processing within an Apache Flink® application that uses Kafka sources and sinks, configure the delivery guarantee to be exactly once, either via the [DeliveryGuarantee.EXACTLY_ONCE](https://nightlies.apache.org/flink/flink-docs-stable/docs/connectors/datastream/kafka/#fault-tolerance) KafkaSink configuration option if the application uses the DataStream Kafka connector, or by setting the [sink.delivery-guarantee](https://nightlies.apache.org/flink/flink-docs-stable/docs/connectors/table/kafka/#consistency-guarantees) configuration option to exactly-once if it uses one of the Table API connectors. [Confluent Cloud for Apache Flink](https://docs.confluent.io/cloud/current/flink/overview.html) provides built-in exactly-once semantics. Downstream of the Flink application, be sure to configure any Kafka consumer with an [isolation.level](https://docs.confluent.io/platform/current/installation/configuration/consumer-configs.html#isolation-level) of read_committed since Flink leverages Kafka transactions in the embedded producer to implement exactly-once processing.
+
+To enable [exactly-once processing guarantees](https://docs.confluent.io/platform/current/installation/configuration/streams-configs.html#processing-guarantee) in Kafka Streams or ksqlDB, configure the application with the following setting, which includes enabling idempotence in the embedded producer:
+
+`processing.guarantee=exactly_once_v2`
+
+### Considerations
+
+Enabling idempotency for a Kafka producer not only ensures that duplicate Events are fenced out from the topic, it also ensures that they are written in order. This is because the brokers accept a batch of Events only if its sequence number is exactly one greater than that of the last committed batch; otherwise, it results in an out-of-sequence error.
+
+Exactly-once semantics (EOS) allow [Event Streaming Applications](https://developer.confluent.io/patterns/event-processing/event-processing-application) to process data without loss or duplication. This ensures that computed results are always consistent and accurate, even for stateful computations such as joins, [aggregations](https://developer.confluent.io/patterns/stream-processing/event-aggregator), and [windowing](https://developer.confluent.io/patterns/stream-processing/event-grouper). Any solution that requires EOS guarantees must enable EOS at all stages of the pipeline, not just on the writer. An Idempotent Writer is therefore typically combined with an [Idempotent Reader](https://developer.confluent.io/patterns/event-processing/idempotent-reader) and transactional processing.
+
+[Idempotent Writer](https://developer.confluent.io/patterns/event-processing/idempotent-writer/)

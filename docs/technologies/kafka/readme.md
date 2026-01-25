@@ -26,7 +26,7 @@
 - [Comparison](technologies/kafka/comparison.md)
 - [kafkacat](kafkacat)
 - [Migration / Mirroring](technologies/kafka/migration-mirroring-replication.md)
-- [Security](technologies/kafka/security.md)
+- [Security](technologies/kafka/security/readme.md)
 - [releases-upgrades-changelogs](technologies/kafka/releases-upgrades-changelogs.md)
 - [kraft](technologies/kafka/kraft.md)
 - [use-cases](technologies/kafka/use-cases.md)

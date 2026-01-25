@@ -68,3 +68,54 @@ Kafka message headers are **key-value pairs of metadata attached to a message**
 | Use cases              | Message routing, Metadata storage, Tracing and logging, Custom processing, Security and authentication, Priority and routing, Interoperability, Stream processing |
 
 [Kafka Headers—Use cases, best practices, and alternatives](https://www.redpanda.com/guides/kafka-cloud-kafka-headers)
+
+## Kafka Message Size
+
+Apache Kafka key’s default maximum message size is 1 MB, a limit designed to help brokers manage memory effectively. While Kafka can process larger batches if there’s sufficient disk space, this often reduces throughput and is generally seen as inefficient—very large messages are considered an anti-pattern in Kafka. Although you can increase this message size limit by adjusting default settings, many recommend against it to preserve platform stability.
+
+Confluent Cloud, a managed Kafka service, has specific message size limits to support various use cases without extensive configurations. The default limit in Confluent Cloud is typically up to 2 MB per message for all types of clusters. The maximum size for basic and standard clusters is 8MB and for enterprise-level clusters, the maximum size is 20MB. For clients managing large messages in Confluent Cloud, adjusting application logic, partition strategies, and potential compression are recommended to optimize usage.
+
+### Kafka Configuration Parameters for Message Size
+
+Kafka provides several configuration parameters that influence message size limits at both the broker and producer levels. Here’s a look at the key parameters:
+
+#### Broker-Level Parameters
+
+- **message.max.bytes**: Sets the maximum size for a message that can be accepted by the broker. The default is 1 MB.
+- **replica.fetch.max.bytes**: Controls the maximum size of a message that a broker replica can fetch. This setting should be at least as large as message.max.bytes to prevent issues during replication.
+- **max.message.bytes** (Confluent Cloud): This is the message size limit set in Confluent Cloud, typically up to 10 MB.
+
+#### Producer-Level Parameters
+
+- **max.request.size**: Defines the largest message size a producer can send. Setting this appropriately prevents producers from encountering message rejection errors when sending large messages.
+- **buffer.memory**: Controls the total amount of memory available to a producer, indirectly impacting how large messages are handled.
+
+#### Consumer-Level Parameters
+
+- **fetch.max.bytes**: Determines the maximum size of data a consumer can fetch in a single request. It’s useful for consumers expecting large messages.
+- **max.partition.fetch.bytes**: This parameter sets the maximum size of data that can be fetched per partition, which can prevent issues when consuming large messages.
+
+### How Kafka Handles Large Messages
+
+By default, Kafka is designed to handle small to moderate message sizes. When messages exceed the default limit of 1 MB, Kafka will reject them unless configurations are modified.
+
+- **Compression**: Kafka supports compression methods (e.g., gzip, snappy, lz4) that can reduce message sizes, allowing larger payloads to fit within set limits.
+- **Batched Messages**: Kafka producers can send multiple small messages in a batch to optimize for throughput rather than increasing individual message sizes.
+- **Error Handling**: If a message exceeds configured limits, Kafka will log an error, and the producer can be configured to retry or skip problematic messages.
+
+### Increasing Kafka’s Message Size Limit
+
+Increasing Kafka’s message size limit involves modifying both the producer and broker configuration parameters to accept larger messages. Here’s a step-by-step guide:
+
+1. **Adjust Broker Settings**: Update message.max.bytes to a value greater than the default 1 MB. This should reflect the largest message size anticipated in your Kafka cluster. Ensure replica.fetch.max.bytes is equal to or larger than message.max.bytes to allow brokers to replicate larger messages.
+2. **Configure Producer Settings:** Set max.request.size to a size larger than the anticipated message payload. This allows producers to send larger messages without rejection.
+3. **Update Consumer Settings:** Adjust fetch.max.bytes and max.partition.fetch.bytes on the consumer side to handle larger messages during data consumption.
+4. **Restart Kafka Services:** After updating configuration parameters, restart the Kafka brokers, producers, and consumers for changes to take effect
+
+### Metrics
+
+- **RecordsPerRequestAvg:** Tracks average records per request, indicating if large messages are creating bottlenecks.
+- **RequestSizeAvg and RequestSizeMax:** Monitor request sizes to ensure they remain within acceptable ranges.
+- **FetchSizeAvg and FetchSizeMax:** Measure consumer fetch sizes to identify potential issues when consuming large messages.
+
+[Apache Kafka Message Size Limit: Best Practices & Config Guide](https://www.confluent.io/learn/kafka-message-size-limit/)

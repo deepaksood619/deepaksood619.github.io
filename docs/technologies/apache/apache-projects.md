@@ -174,6 +174,9 @@ Apache Helix is a generic cluster management framework used for the automatic ma
 
 - [Isis](http://isis.apache.org/)
 - [Ignite](http://ignite.apache.org/) - In-memory data fabric
+	- Distributed Database For High‑Performance Applications With In‑Memory Speed
+	- Apache Ignite is **an open-source, in-memory computing platform and distributed database** that provides high-performance caching, data storage, and processing for large-scale datasets, supporting SQL, key-value, and compute APIs for real-time analytics and transactions (HTAP) with features like ACID compliance and multi-tier storage. It functions as an in-memory data grid, accelerator for existing databases, or a standalone distributed database, offering horizontal scalability across on-premises, cloud, or hybrid environments.
+	- [GitHub - apache/ignite: Apache Ignite](https://github.com/apache/ignite)
 - [Impala](http://impala.apache.org/) - Distributed SQL on YARN
 - [Iceberg](technologies/apache/apache-iceberg.md)
 

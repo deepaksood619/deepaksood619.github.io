@@ -181,7 +181,7 @@ Social+Gaming --Social+ games like [Fortnite](https://www.fastcompany.com/903152
 
 Social+Fitness --Fitness app [Strava](https://www.strava.com/) is more than an app to track your runs. As Strava CEO James Quarles told [Outside](https://www.outsideonline.com/2395489/strava-james-quarles), "Strava wants to be the dashboard for tracking your fitness, a calendar for inviting friends to work out, a feed for you to follow others' activities, a blog for your race reports and photos, and a message board to ask for recommendations on a new pair of trail-running shoes."
 
-[Peloton](https://www.google.com/search?q=peloton&oq=peloton&aqs=chrome.0.69i59l3j0i271l3j69i60l2.1871j0j9&sourceid=chrome&ie=UTF-8#:~:text=Peloton%C2%AE%20%7C%20Workouts, onepeloton.com)'s stationary bikes and treadmills and digital subscription let users combine group fitness classes with home workouts. The motivation, friendly competition, and supportive relationships arising from the Peloton community are an integral part of its product.
+Peloton's stationary bikes and treadmills and digital subscription let users combine group fitness classes with home workouts. The motivation, friendly competition, and supportive relationships arising from the Peloton community are an integral part of its product.
 
 Social+Commerce --Chinese marketplace [Pinduoduo](https://en.pinduoduo.com/) allows buyers to purchase heavily discounted goods when they rope in their friends
 

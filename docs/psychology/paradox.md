@@ -286,6 +286,8 @@ These paradoxes have in common a contradiction arising from either [self-referen
 - [**Paradox of fiction**](https://en.wikipedia.org/wiki/Paradox_of_fiction "Paradox of fiction"): How can people experience strong emotions from purely fictional things?
 - [**Fitch's paradox**](https://en.wikipedia.org/wiki/Fitch%27s_paradox_of_knowability "Fitch's paradox of knowability"): If all truths are knowable, then all truths must in fact be known.
 - [**Paradox of free will**](https://en.wikipedia.org/wiki/Argument_from_free_will "Argument from free will"): If God knows in advance what a person will decide, how can there be free will?
+	- [Incompatibilism - Wikipedia](https://en.wikipedia.org/wiki/Incompatibilism)
+	- **Incompatibilism** is the view that the thesis of [determinism](https://en.wikipedia.org/wiki/Determinism "Determinism") is logically incompatible with the classical thesis of free will.
 - [**Goodman's paradox**](https://en.wikipedia.org/wiki/Goodman%27s_paradox "Goodman's paradox"): Why can induction be used to confirm that things are "green", but not to confirm that things are "grue"?
 - [**Paradox of hedonism**](https://en.wikipedia.org/wiki/Paradox_of_hedonism "Paradox of hedonism"): When one pursues happiness itself, one is miserable; but, when one pursues something else, one achieves happiness.
 - [**Liberal paradox**](https://en.wikipedia.org/wiki/Liberal_paradox "Liberal paradox"): "Minimal Liberty" is incompatible with [Pareto optimality](https://en.wikipedia.org/wiki/Pareto_optimality "Pareto optimality").

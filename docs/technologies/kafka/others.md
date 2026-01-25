@@ -101,6 +101,11 @@ https://github.com/pinterest/secor
 	- The intelligent backbone for all your data streaming. Operate, govern, secure. Built for teams and AI.
 - [Conduktor - Getting Started - YouTube](https://www.youtube.com/watch?v=11JcsITzZ_g)
 
+## Tools
+
+- [GitHub - osodevops/k2i: K2I - Kafka to Iceberg streaming ingestion engine. A Rust CLI tool inspired by Moonlink architecture that consumes from Kafka, buffers with Apache Arrow for sub-second query freshness, and writes to Apache Iceberg tables.](https://github.com/osodevops/k2i)
+	- [K2I - Real-time Streaming Ingestion for Apache Iceberg](https://k2i.dev/)
+
 ## Others
 
 https://kafka-tutorials.confluent.io

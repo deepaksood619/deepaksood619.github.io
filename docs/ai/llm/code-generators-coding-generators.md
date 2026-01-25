@@ -141,6 +141,8 @@ You can also ask me questions about your editor selection by starting an inline 
 	- [GitHub - codemod-com/codemod: The command line tool for building, sharing, and running codemods. From quick cleanups to complex migrations. AI-friendly, and language-agnostic.](https://github.com/codemod-com/codemod)
 - [Vibecode - AI Mobile App Builder](https://www.vibecodeapp.com/)
 - [GitHub - HKUDS/DeepCode: "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"](https://github.com/HKUDS/DeepCode)
+- [Genspark AI - The All-in-One Super Agent AI Workspace That Does Everything](https://www.genspark.im/)
+	- [Genspark - Your All-in-One AI Workspace](https://www.genspark.ai/)
 
 ## SAAS
 

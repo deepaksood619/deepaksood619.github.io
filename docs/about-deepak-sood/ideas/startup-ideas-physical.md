@@ -236,3 +236,5 @@ Airline can be transporter of fuels if passenger occupancy is lower, i.e. based 
 - [The ₹150 Cr Indian diaper company 👶🏼](https://shorts.growthx.club/p/the-150-cr-indian-diaper-company)
 - Healthy cake
 - Idea - metro happiness camera, if smile less then give a lesser score, etc. Everything on device. Internet not required
+- Kettle for cold water instead of hot water (instant cold water, instead of in a fridge)
+	- Is there any kettle available in the market that can do instant cold water instead of hot water kettle, therefore doesn't have to keep bottle in fridge for a long time to get cold water, just pour any water in cold kettle and get cold water and temp will decrease the more time you keep the kettle on, just like what happens with hot water kettle in reverse

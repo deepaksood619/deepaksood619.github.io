@@ -29,6 +29,9 @@ https://lotusarise.com/koppen-climate-classification-system-upsc
     - Thermocline
 - Subtropical high, Subpolar low, Easterlies, Westerlies
 - Hadley Cell
+- Tides
+	- Tides are commonly semi-diurnal (two high waters and two low waters each day), or diurnal (one tidal cycle per day). The two high waters on a given day are typically not the same height (the daily inequality); these are the higher high water and the lower high water in tide tables. Similarly, the two low waters each day are the higher low water and the lower low water. The daily inequality is not consistent and is generally small when the Moon is over the Equator.
+	- [Tide - Wikipedia](https://en.wikipedia.org/wiki/Tide)
 
 [Lakes in India](https://www.youtube.com/playlist?list=PL1vNLZF5gfwd1-1Wli0O6m2J3sJjr1FA5)
 

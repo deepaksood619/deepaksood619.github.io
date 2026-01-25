@@ -103,7 +103,7 @@ Markdown allows you to use backslash escapes to generate literal characters whic
 | .   | Dot                 |
 | !   | Exclamation mark    |
 
-### Code: Block
+### Code/Coding Block
 
 To specify an entire block of pre-formatted code, indent every line of the block by 1 tab or 4 spaces. Ampersands and angle brackets will automatically be translated into HTML entities.
 
@@ -112,6 +112,16 @@ Markdown:
 ```markdown
  If you want to mark something as code, indent it by 4 spaces.
  <p>This has been indented 4 spaces.</p>
+```
+
+```ini
+security.protocol=SASL_SSL
+bootstrap.servers=broker1.example.com:9092,broker2.example.com:9092
+```
+
+```properties
+security.protocol=SASL_SSL
+bootstrap.servers=broker1.example.com:9092,broker2.example.com:9092
 ```
 
 With filename title:

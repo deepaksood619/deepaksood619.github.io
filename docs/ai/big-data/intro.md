@@ -77,3 +77,5 @@ https://en.wikipedia.org/wiki/Data_wrangling
 - WORKLOAD SIZES ARE SMALLER THAN OVERALL DATA SIZES
 
 [Zero ELT could be the death of the Modern Data Stack | by Hugo Lu | May, 2023 | Medium](https://medium.com/@hugolu87/zero-elt-could-be-the-death-of-the-modern-data-stack-cfdd56c9246d)
+
+[The Great Data Closure: Why Databricks and Snowflake Are Hitting Their Ceiling \| Towards Data Science](https://towardsdatascience.com/the-great-data-closure-why-databricks-and-snowflake-are-hitting-their-ceiling/)

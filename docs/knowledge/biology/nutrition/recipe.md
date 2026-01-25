@@ -132,6 +132,10 @@ LG -
 - Grill - 1.5 min
 - Convection - after preheat - 170 degree for 12 mins
 
+### Zomato
+
+- Thalaiva Biryani
+
 ## Theoretical
 
 [I FINALLY understand the Maillard reaction - YouTube](https://www.youtube.com/watch?v=5lKzZc_OO7U&ab_channel=MinuteFood)

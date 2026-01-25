@@ -38,6 +38,7 @@
     - [Is it possible to call external API in the OpenAI playground? - API - OpenAI Developer Community](https://community.openai.com/t/is-it-possible-to-call-external-api-in-the-openai-playground/1098018/6) - External Functions
     - [Here are 3 Major Announcements from OpenAI DevDay - YouTube](https://www.youtube.com/shorts/6u-snbY_CXs)
     - [Introducing ChatGPT Atlas - YouTube](https://www.youtube.com/live/8UWKxJbjriY)
+    - [Introducing ChatGPT Health \| OpenAI](https://openai.com/index/introducing-chatgpt-health/)
 - [Grok \| xAI](https://x.ai/grok)
 - Vicuna
 - Bloom

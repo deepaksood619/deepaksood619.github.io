@@ -318,4 +318,33 @@ https://gist.github.com/sam95/d7aed31770883bd272728ad0483629d4
 
 ## Others
 
-- [keytool](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/keytool.html) - Manages a keystore (database) of cryptographic keys, X.509 certificate chains, and trusted certificates.
+### KeyTool
+
+Manages a keystore (database) of cryptographic keys, X.509 certificate chains, and trusted certificates.
+
+The `keytool` command is a Java utility used to manage a keystore (a database of cryptographic keys and certificates). Common commands include:
+
+#### Key Management
+
+- **`keytool -genkeypair`**: Generates a public and private key pair and stores it in a keystore entry. `keytool -genkeypair -alias mydomain -keyalg RSA -keysize 2048 -keystore keystore.jks`
+- **`keytool -genseckey`**: Generates a secret key and stores it in a keystore.
+- **`keytool -delete`**: Deletes an entry (e.g., a certificate) from a keystore. `keytool -delete -alias mydomain -keystore keystore.jks`
+- **`keytool -keypasswd`**: Changes the password protecting a specific key within a keystore entry.
+
+#### Certificate Management
+
+- **`keytool -certreq`**: Generates a Certificate Signing Request (CSR) in PKCS #10 format, which is sent to a Certificate Authority (CA) to request a signed certificate. `keytool -certreq -alias mydomain -file mydomain.csr -keystore keystore.jks`
+- **`keytool -importcert`**: Imports a certificate or a certificate chain (the CA's reply) into the keystore. `keytool -importcert -trustcacerts -alias mydomain -file mydomain.crt -keystore keystore.jks`
+- **`keytool -exportcert`**: Exports a certificate from the keystore to a file. `keytool -exportcert -alias mydomain -file mydomain.crt -keystore keystore.jks`
+- **`keytool -importkeystore`**: Imports all entries from one keystore into another.
+
+#### Information Display
+
+- **`keytool -list`**: Lists the entries in a keystore. Adding the `-v` (verbose) option provides detailed information, including certificate fingerprints and validity dates. `keytool -list -v -keystore keystore.jks`
+- **`keytool -printcert`**: Prints the content of a stand-alone certificate file in a human-readable format. `keytool -printcert -file mydomain.crt`
+
+#### Keystore Management
+
+- **`keytool -storepasswd`**: Changes the password that protects the integrity of the entire keystore file.
+
+[keytool - Oracle Documentation](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/keytool.html)

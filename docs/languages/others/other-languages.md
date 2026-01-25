@@ -260,6 +260,41 @@ https://vlang.io
 - [GitHub - serilog/serilog: Simple .NET logging with fully-structured events](https://github.com/serilog/serilog)
 - [Serilog — simple .NET logging with fully-structured events](https://serilog.net/)
 
+## CEL
+
+**Fast, safe expression language**
+
+Common Expression Language (CEL) is an expression language that’s **fast**, **portable**, and **safe** to execute in performance-critical applications. CEL is designed to be embedded in an application, with application-specific extensions, and is ideal for extending declarative configurations that your applications might already use.
+
+Use CEL for things like list filters for API calls, validation constraints on protocol buffers, and authorization rules for API requests.
+
+The Common Expression Language (CEL) implements common semantics for expression evaluation, enabling different applications to more easily interoperate.
+
+**Key Applications**
+
+- Security policy: organizations have complex infrastructure and need common tooling to reason about the system as a whole
+- Protocols: expressions are a useful data type and require interoperability across programming languages and platforms.
+
+**Guiding philosophy**
+
+1. Keep it small & fast.
+    - CEL evaluates in linear time, is mutation free, and not Turing-complete. This limitation is a feature of the language design, which allows the implementation to evaluate orders of magnitude faster than equivalently sandboxed JavaScript.
+2. Make it extensible.
+    - CEL is designed to be embedded in applications, and allows for extensibility via its context which allows for functions and data to be provided by the software that embeds it.
+3. Developer-friendly.
+    - The language is approachable to developers. The initial spec was based on the experience of developing Firebase Rules and usability testing many prior iterations.
+    - The library itself and accompanying toolings should be easy to adopt by teams that seek to integrate CEL into their platforms.
+
+**Is CEL right for your project?**
+
+CEL is ideal for performance-critical applications because it was designed to evaluate safely and quickly (nanoseconds to microseconds) with predictible costs. CEL expressions are especially useful for predicate logic and simple data transformations.
+
+CEL is used most efficiently in applications where expressions are evaluated frequently, but modified infrequently. For example, evaluating an HTTP request against a security policy is an excellent use case for CEL. A CEL security policy expression w
+
+[GitHub - google/cel-spec: Common Expression Language -- specification and binary representation](https://github.com/google/cel-spec)
+
+[CEL  \|  Common Expression Language](https://cel.dev/)
+
 ## Others
 
 - [Solidity](decentralized-applications/ethereum/solidity.md)

@@ -139,6 +139,12 @@ Schema ID Validation is set at the topic level with the following parameters.
 - Value schema and key schema validation are independent of each other; you can enable either or both.
 - The subject naming strategy is tied to Schema ID Validation. This will have no effect when Schema ID Validation is not enabled.
 
+### Schemas, subjects and topics
+
+A **Kafka [topic](https://docs.confluent.io/cloud/current/_glossary.html#term-topic)** contains messages, and each message is a key-value pair. Either the message key or the message value, or both, can be serialized as [Avro](https://docs.confluent.io/cloud/current/_glossary.html#term-Avro), [JSON](https://docs.confluent.io/cloud/current/_glossary.html#term-JSON-Schema), or [Protobuf](https://docs.confluent.io/cloud/current/_glossary.html#term-Protobuf). A **schema** defines the structure of the data format. The Kafka topic name can be independent of the schema name. Schema Registry defines a scope in which schemas can evolve, and that scope is the **subject**. The name of the subject depends on the configured [subject name strategy](https://docs.confluent.io/cloud/current/sr/fundamentals/serdes-develop/index.html#sr-schemas-subject-name-strategy), which by default is set to derive subject name from topic name.
+
+[Schema Registry Concepts for Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/sr/fundamentals/index.html#sr-subjects-topics-primer)
+
 ### Subject name strategy
 
 A serializer registers a schema in Schema Registry under a `subject` name, which defines a namespace in the registry:
@@ -156,6 +162,8 @@ The subject name depends on the subject name strategy. Three supported strategie
 | TopicRecordNameStrategy | Derives the subject name from topic and record name, as a way to group logically related events that may have different data structures under a subject. |
 
 [Broker-Side Schema ID Validation on Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/sr/broker-side-schema-validation.html)
+
+[Formats, Serializers, and Deserializers for Schema Registry on Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/sr/fundamentals/serdes-develop/index.html#sr-schemas-subject-name-strategy)
 
 ## Manage Schemas - Schema Linking
 

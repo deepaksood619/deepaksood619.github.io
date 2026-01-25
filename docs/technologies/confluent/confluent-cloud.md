@@ -66,3 +66,4 @@ The platform provides a full suite of identity controls, including:
 
 - [Apache Kafka 101: Confluent's Flagship Course on Apache Kafka® Fundamentals ft. Tim Berglund - YouTube](https://www.youtube.com/playlist?list=PLf38f5LhQtheK16nwnCYFqH23WUUvZfSb)
 	- [What You'll Learn in This Apache Kafka® 101 Course](https://developer.confluent.io/courses/apache-kafka/events/)
+- [Release Notes for Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/release-notes/index.html)

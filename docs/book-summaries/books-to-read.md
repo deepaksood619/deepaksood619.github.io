@@ -207,6 +207,10 @@ Book recommendation by Barack Obama
 - "The Wisdom of the Bullfrog" by Adm. William McRaven
 - "Made in America" by Sam Walton with John Huey
 
+### Fiction
+
+- [There Is No Antimemetics Division - Wikipedia](https://en.wikipedia.org/wiki/There_Is_No_Antimemetics_Division)
+
 ## Economics
 
 - Capital in the Twenty-First Century - 2014

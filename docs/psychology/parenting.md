@@ -271,6 +271,8 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [आज मंगलवार है \| Aaj Mangalwar hai Kids song \| Kids #shorts #rhymes - YouTube](https://www.youtube.com/shorts/YV-fSAWc1pk)
 - [Nanha Munna Rahi Hoon \| Independence Day Special \| Independence day performance of Kids - YouTube](https://www.youtube.com/watch?v=Gk5_t6QNYXU&ab_channel=SwagSwaggerSupreme)
 - [I Can Do It with 15 More Action Songs for children \| Nursery rhymes \| Patty Shukla Compilation - YouTube](https://www.youtube.com/watch?v=TfSx50Cnk0U&ab_channel=PattyShuklaKidsTV-Children%27ssongs)
+- [The Rattlin' Bog 🌳 The Wiggles feat. The Tree of Wisdom (The Dancing Tree) 🎶 Ready, Steady, Wiggle! - YouTube](https://www.youtube.com/watch?v=fb2aAtapOQk)
+	- [Rapalje-the-bog-down-in-the-valley-o-lyrics](https://genius.com/Rapalje-the-bog-down-in-the-valley-o-lyrics)
 
 ### Links
 

@@ -51,6 +51,10 @@ Once a leader is established, it needs to replicate the data to followers. In ge
 
 Waiting on all replicas means we can make progress as long as at least one replica is available. With quorum, tolerating the same amount of failures requires more replicas because we need a majority to make progress. The trade-off is that the quorum hides any delays from a slow replica. Kafka is an example of a system which uses all replicas (with some conditions on this which we will see later), and NATS Streaming is one that uses a quorum. Let's take a look at both in more detail.
 
+### Replica Assignment
+
+In Kafka, **replica assignment** is **the process of deciding which brokers host copies (replicas) of a topic's partitions to ensure fault tolerance and data availability**. This can be done automatically by Kafka or manually by an administrator using specific command-line tools for tasks like cluster expansion or rebalancing.
+
 ## Replication in Kafka
 
 In Kafka, a leader is selected (we'll touch on this in a moment). This leader maintains an in-sync replica set (ISR) consisting of all the replicas which are fully caught up with the leader. This is every replica, by definition, at the beginning. All reads and writes go through the leader. The leader writes messages to a write-ahead log (WAL). Messages written to the WAL are considered uncommitted or "dirty" initially. The leader only commits a message once all replicas in the ISR have written it to their own WAL. The leader also maintains a high-water mark (HW) which is the last committed message in the WAL. This gets piggybacked on the replica fetch responses from which replicas periodically checkpoint to disk for recovery purposes. The piggybacked HW then allows replicas to know when to commit.
