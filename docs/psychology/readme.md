@@ -21,6 +21,7 @@
 - [Stoicism](stoicism)
 - [Ikigai](psychology/ikigai.md)
 - [Life / Relationship / People](life-relationship-people)
+- [Marriage](psychology/marriage.md)
 - [People](psychology/people.md)
 - [Emotions](psychology/emotions.md)
 - [Parenting](parenting)

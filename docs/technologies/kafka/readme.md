@@ -24,7 +24,7 @@
 - [Confluent](technologies/confluent/readme.md)
 - [Azure Event Hubs](cloud/azure/azure-event-hubs.md)
 - [Comparison](technologies/kafka/comparison.md)
-- [kafkacat](kafkacat)
+- [kafkacat-kcat](technologies/kafka/kafkacat-kcat.md)
 - [Migration / Mirroring](technologies/kafka/migration-mirroring-replication.md)
 - [Security](technologies/kafka/security/readme.md)
 - [releases-upgrades-changelogs](technologies/kafka/releases-upgrades-changelogs.md)

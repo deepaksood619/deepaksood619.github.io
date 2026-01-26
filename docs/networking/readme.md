@@ -5,7 +5,7 @@
 - [MQTT](mqtt/readme.md)
 - [Others](networking/others/readme.md)
 
-### Top 9 Architectural Patterns for Data and Communication Flow
+## Top 9 Architectural Patterns for Data and Communication Flow
 
 - **Peer-to-Peer** - The Peer-to-Peer pattern involves direct communication between two components without the need for a central coordinator.
 - **API Gateway** - An API Gateway acts as a single entry point for all client requests to the backend services of an application.

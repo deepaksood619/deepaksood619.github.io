@@ -4,7 +4,12 @@
 - **Real-time Fraud Detection:** Use real-time analytics to detect and prevent fraudulent transactions as they occur.
 - **Behavioral Biometrics:** Analyze user behavior (e.g., face detection, liveness in KYC) to detect potential fraud.
 
-## [Amazon Fraud Detector](https://aws.amazon.com/fraud-detector/)
+## [Amazon Fraud Detector](https://aws.amazon.com/fraud-detector/) (Deprecated)
+
+[Amazon Fraud Detector availability change - Amazon Fraud Detector](https://docs.aws.amazon.com/frauddetector/latest/ug/frauddetector-availability-change.html)
+
+- Thank you for your interest in Amazon Fraud Detector. After careful consideration, we have made the decision to no longer accept new customers as of November 7th, 2025.
+- If you're looking for a fraud detection solution, we recommend AutoGluon, which is an open-source automated machine learning (AutoML) library. More details are available at the [AutoGluon website](https://auto.gluon.ai/stable/index.html) and the [AWS Open Source Blog](https://aws.amazon.com/blogs/opensource/machine-learning-with-autogluon-an-open-source-automl-library/). The AutoGluon Fraud Detection notebook can be found [here](https://www.kaggle.com/code/jaquelinenoonan/autogluon-on-fraud-detection/notebook) on Kaggle. A general framework notebook is [here](https://docs.aws.amazon.com/sagemaker/latest/dg/autogluon-tabular.html) for Amazon SageMaker AI notebook. After training AutoGluon models, you can use SageMaker AI for deploying models (more information [here](https://auto.gluon.ai/dev/tutorials/cloud_fit_deploy/cloud-aws-sagemaker-deployment.html)). AWS also has a [workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/f440a5f2-c806-4a9f-b472-aab4cecf1391/en-US) built to help you set up real-time payment processing architecture.
 
 Amazon Fraud Detector is a fully managed service that makes it easy to identify potentially fraudulent online activities such as online payment fraud and the creation of fake accounts.
 

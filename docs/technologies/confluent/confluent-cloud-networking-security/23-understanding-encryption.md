@@ -40,3 +40,29 @@ BYOK will encrypt all the data associated with that cluster, so your tiered stor
 Confluent provides BYOK service at no extra cost. You will see a small charge for API access to the cloud provider’s KMS on your AWS or GPC invoice. At the time of publishing, the cost is somewhere around 3 cents US per 10,000 API calls.
 
 You will not see any significant reduction in performance with BYOK-enabled clusters. You will need to make sure that the keys you provide to Confluent Cloud are symmetric; asymmetric keys won’t work.
+
+## Encrypt data at rest using self-managed encryption keys
+
+**Client-Side Field Level Encryption (CSFLE)** is the recommended approach to protecting sensitive data, however **Client-Side Payload Encryption (CSPE)** can be used in cases where you are unable to use CSFLE, for example:
+
+- A clear schema is not yet defined or the schema is highly dynamic. If the schema is not known, a simple Avro “bytes” schema can be used with CSPE.
+- The schema is extremely large, for example thousands of fields, making manual tagging impractical.
+- A CISO team or internal mandate requires full payload encryption for all data within a message.
+- You need to move to production quickly and plan to evolve your schema and adopt CSFLE later.
+
+### CSFLE vs. CSPE
+
+| Feature                | CSFLE                                                                                       | CSPE                                                                                |
+| ---------------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| **Encryption Scope**   | Encrypts specific, sensitive fields.                                                        | Encrypts the entire message payload.                                                |
+| **Rule Definition**    | Requires defining fields via tags.                                                          | No tag definition is required since the entire payload is encrypted.                |
+| **Rule Type**          | Uses the `ENCRYPT` rule type (Domain Rule).                                                 | Uses the **ENCRYPT_PAYLOAD** rule type (Encoding Rule).                             |
+| **Access Granularity** | Allows separation of encrypted and non-encrypted fields; fields not encrypted are readable. | Provides all-or-nothing access to the data; the consumer accesses all data or none. |
+| **Rule Structure**     | Schema Subject + Tags + KEK.                                                                | Schema Subject + KEK.                                                               |
+
+[Encrypt and protect data on Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/security/encrypt/overview.html)
+
+## SSL/TLS in Confluent Cloud/Platform
+
+- [Manage data in transit with TLS on Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/security/encrypt/tls.html)
+- [Enable Security for a KRaft-Based Cluster in Confluent Platform \| Confluent Documentation](https://docs.confluent.io/platform/current/security/security_tutorial.html)

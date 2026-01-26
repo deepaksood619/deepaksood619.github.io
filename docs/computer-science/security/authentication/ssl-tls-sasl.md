@@ -14,7 +14,7 @@ https://en.wikipedia.org/wiki/Transport_Layer_Security
 
 ## Simple Authentication and Security Layer (SASL) is
 
-[Simple Authentication and Security Layer](https://www.google.com/search?q=Simple+Authentication+and+Security+Layer&sca_esv=412a660836333260&rlz=1C5GCCM_en&sxsrf=ANbL-n56Dzm3zhCSBVmubrZpFjeC_pr-Vw%3A1769321021647&ei=PbJ1abWAJ4bU4-EPuMq7uAI&ved=2ahUKEwjkquqWwKaSAxW4zTgGHV7GFw8QgK4QegQIARAB&uact=5&oq=sasl+security+layer&gs_lp=Egxnd3Mtd2l6LXNlcnAiE3Nhc2wgc2VjdXJpdHkgbGF5ZXIyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yCxAAGIAEGIYDGIoFMgUQABjvBTIFEAAY7wUyCBAAGIAEGKIEMgUQABjvBTIIEAAYgAQYogRIsWlQ1xlYr2dwFHgBkAEAmAGoAaABwxeqAQQwLjIxuAEDyAEA-AEBmAIcoAL9CcICChAAGLADGNYEGEfCAgsQABiABBiRAhiKBcICBhAAGAcYHsICCBAAGAcYChgewgIEEAAYHsICCBAAGKIEGIkFwgIKECEYoAEYwwQYCsICCBAhGKABGMMEwgIHEAAYgAQYDcICBhAAGA0YHsICCBAAGAUYDRgewgIIEAAYCBgNGB6YAwCIBgGQBgiSBwQyMC44oAe4UbIHAzAuOLgHrAnCBwYwLjIyLjbIBz-ACAA&sclient=gws-wiz-serp) (SASL) is an [Internet Engineering Task Force](https://www.ietf.org/rfc/rfc2222.txt) standard (RFC 4422) framework for authentication and optional data security in connection-oriented protocols. It decouples mechanisms from applications, enabling secure authentication via methods like [CRAM-MD5, GSSAPI, and SCRAM](https://www.iana.org/assignments/sasl-mechanisms). Beyond authentication, SASL optionally provides a security layer ensuring data integrity and confidentiality. 
+Simple Authentication and Security Layer (SASL) is an [Internet Engineering Task Force](https://www.ietf.org/rfc/rfc2222.txt) standard (RFC 4422) framework for authentication and optional data security in connection-oriented protocols. It decouples mechanisms from applications, enabling secure authentication via methods like [CRAM-MD5, GSSAPI, and SCRAM](https://www.iana.org/assignments/sasl-mechanisms). Beyond authentication, SASL optionally provides a security layer ensuring data integrity and confidentiality.
 
 ### Key Aspects of SASL Security Layer
 
@@ -22,7 +22,7 @@ https://en.wikipedia.org/wiki/Transport_Layer_Security
 - **Security Layer Negotiation:** After authentication, SASL can establish a security layer (using mechanisms like `DIGEST-MD5`) to protect subsequent communication.
 - **Data Protection (QOP):** The negotiated Quality-of-Protection (QOP) can provide data integrity (ensuring data hasn't been tempered) and confidentiality (encryption).
 - **Common Mechanisms:** Popular mechanisms include `PLAIN`, `LOGIN`, `CRAM-MD5`, `DIGEST-MD5`, and `GSSAPI` (Kerberos).
-- **Implementation:** In Java, SASL providers are registered with the [Java Cryptography Architecture (JCA)](https://www.ibm.com/docs/en/sdk-java-technology/8?topic=guide-sasl-provider). 
+- **Implementation:** In Java, SASL providers are registered with the [Java Cryptography Architecture (JCA)](https://www.ibm.com/docs/en/sdk-java-technology/8?topic=guide-sasl-provider).
 
 ### How a SASL Session Works
 
@@ -30,7 +30,7 @@ https://en.wikipedia.org/wiki/Transport_Layer_Security
 2. **Server Response:** The server responds with supported mechanisms.
 3. **Mechanism Selection:** The client selects a mechanism and initiates the exchange.
 4. **Authentication Exchange:** A series of challenges and responses occur.
-5. **Security Layer:** If supported, a security layer is established for the session. 
+5. **Security Layer:** If supported, a security layer is established for the session.
 
 Commonly used with Transport Layer Security (TLS), SASL provides a flexible, robust method for securing application-level communication.
 
@@ -40,14 +40,14 @@ Commonly used with Transport Layer Security (TLS), SASL provides a flexible, rob
 
 ## SSL vs SASL_SSL
 
-SSL (or TLS) provides encryption and certificate-based authentication to secure data in transit, ideal for straightforward, secure connections. SASL_SSL combines SASL (Simple Authentication and Security Layer) for flexible user-based authentication with SSL encryption, making it ideal for enterprise environments requiring Kerberos, LDAP, or SCRAM authentication over a secure channel. 
+SSL (or TLS) provides encryption and certificate-based authentication to secure data in transit, ideal for straightforward, secure connections. SASL_SSL combines SASL (Simple Authentication and Security Layer) for flexible user-based authentication with SSL encryption, making it ideal for enterprise environments requiring Kerberos, LDAP, or SCRAM authentication over a secure channel.
 
 ### Key Differences
 
 - **Authentication Method:** SSL uses X.509 certificates to authenticate, while SASL_SSL uses username/password (PLAIN/SCRAM) or Kerberos (GSSAPI).
 - **Security Level:** Both provide encryption. However, SASL_SSL ensures authenticated access control, whereas raw SSL only verifies that the client has a valid certificate.
 - **Use Case:** SSL is common for cloud/simple deployments. SASL_SSL is standard for enterprise security, requiring integration with authentication servers.
-- **Complexity:** SSL requires certificate management (keystores/truststores). SASL_SSL requires managing authentication secrets (e.g., JAAS files) in addition to SSL certificates. 
+- **Complexity:** SSL requires certificate management (keystores/truststores). SASL_SSL requires managing authentication secrets (e.g., JAAS files) in addition to SSL certificates.
 
 ### When to use which?
 

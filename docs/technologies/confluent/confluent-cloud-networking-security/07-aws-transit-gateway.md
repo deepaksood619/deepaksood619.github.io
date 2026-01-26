@@ -2,7 +2,9 @@
 
 ## When Is AWS Transit Gateway Needed?
 
-![aws-transit-gateway](https://images.ctfassets.net/gt6dp23g0g38/7EPyYYJvtG6iF0xB8ForCx/45abbce68d01bcfaadc21bb9542b9ce0/aws-transit-gateway.jpg) A special case of peering connections in Confluent Cloud is with AWS Transit Gateway. The Transit Gateway makes network connectivity in AWS significantly more flexible, and introduces a number of additional options.
+![aws-transit-gateway](https://images.ctfassets.net/gt6dp23g0g38/7EPyYYJvtG6iF0xB8ForCx/45abbce68d01bcfaadc21bb9542b9ce0/aws-transit-gateway.jpg)
+
+A special case of peering connections in Confluent Cloud is with AWS Transit Gateway. The Transit Gateway makes network connectivity in AWS significantly more flexible, and introduces a number of additional options.
 
 - Remember that the cloud, in general, doesn’t support transitive peering. Clients can access services directly across a single peering connection, but if they’re peered to a VPC, they can’t reach other VPCs that are connected to that VPC; they can’t transit multiple peering connections.
     - For example, if you have a peering connection established between VPC B and VPC A and another established between VPC A and Confluent Cloud VPC, this does not allow Kafka clients in VPC B to reach the Kafka cluster in the Confluent Cloud VPC.

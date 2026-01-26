@@ -71,3 +71,111 @@ Google Cloud treats VPC peering a bit differently than AWS and Azure in two ways
 
 - Azure provides a capability called “**Gateway Transit**,” which allows a VNet to access a VPN or ExpressRoute gateway in a peered VNet. For example, if you have VNet X peered to VNet Y, and VNet Y has a ExpressRoute connecting it to your datacenter, Gateway Transit allows VNet X to access the datacenter through the ExpressRoute in VNet Y.
     - This capability is not currently supported on Confluent Cloud.
+
+## Hands-on
+
+- [Configure a VPC Peered Cluster (Hands-On Tutorial)](https://developer.confluent.io/courses/confluent-cloud-networking/configure-vpc-peering/)
+- AWS
+	- PrivateLink
+	- Transit Gateway
+	- VPC Peering
+		- Three CIDR ranges, one for each availability zone, each matching the subnet mask of `255.255.255.224/27`
+		- (Legacy) A single CIDR range matching the subnet mask of `255.255.0.0/16`
+- Google Cloud
+	- Private Service Connect
+	- VPC Peering
+- Microsoft Azure
+	- Private Link
+	- VNet Peering
+- DNS configuration - Private DNS Resolution
+
+## Use AWS VPC Peering with Confluent Cloud
+
+AWS VPC peering enables you to route traffic using private IPv4 addresses between your AWS virtual private cloud (VPC) and Confluent Cloud. Your VPC can communicate with Confluent Cloud as if they are within the same network.
+
+The following features are supported when you set up a VPC peering connection between AWS VPC and Confluent Cloud:
+
+- [Managed connectors](https://docs.confluent.io/cloud/current/connectors/overview.html#kafka-connect-cloud) created in a VPC-peered cluster can access data sources and sinks hosted in all peered VPCs, if the firewall rules allow connector traffic to and from the peered VPCs.
+- [Fetch from Follower](https://docs.confluent.io/cloud/current/networking/fetch-from-follower.html#fetch-from-follower-aws) is a cost optimization feature that allows clients to consume from the nearest follower, instead of the leader.
+
+The high-level workflow to set up a VPC peering connection to Confluent Cloud:
+
+1. Identify a Confluent Cloud network you want to use, or [set up a new Confluent Cloud network](https://docs.confluent.io/cloud/current/networking/ccloud-network/aws.html#create-ccloud-network-aws).
+2. [In Confluent Cloud, create a VPC peering connection](https://docs.confluent.io/cloud/current/networking/peering/aws-peering.html?ajs_aid=89922089-e961-4857-bbbe-d3c04072036d&ajs_uid=7325872#aws-peering-create-connection).
+3. [In AWS, accept the peering request](https://docs.confluent.io/cloud/current/networking/peering/aws-peering.html?ajs_aid=89922089-e961-4857-bbbe-d3c04072036d&ajs_uid=7325872#aws-peering-accept-connection).
+4. [In AWS, add the new connection to the route table](https://docs.confluent.io/cloud/current/networking/peering/aws-peering.html?ajs_aid=89922089-e961-4857-bbbe-d3c04072036d&ajs_uid=7325872#aws-peering-add-to-route-table).
+5. To support outbound connections from Confluent Cloud, [set up DNS forwarding in Confluent Cloud](https://docs.confluent.io/cloud/current/networking/peering/aws-peering.html?ajs_aid=89922089-e961-4857-bbbe-d3c04072036d&ajs_uid=7325872#dns-forwarding-aws-peering).
+
+### Requirements and considerations
+
+- A [Confluent Cloud network](https://docs.confluent.io/cloud/current/networking/overview.html#ccloud-network-overview) of the “VPC Peering” type and the “AWS” provider.
+
+    Pay special attention that the CIDR blocks you select satisfy the requirements described in [Confluent Cloud network CIDR blocks and block size for peering and Transit Gateway](https://docs.confluent.io/cloud/current/networking/ccloud-network/aws.html#cidr-block-size).
+
+- All AWS availability zones, except `use1-az3` in the `us-east-1` region, are supported.
+
+- Transitive VPC peering is not supported.
+
+    If you peer Network A to Network B, and peer Network B to Confluent Cloud, applications running in Network A will not be able to access Confluent Cloud. Although they don’t provide transitive routing, shared AWS VPCs can be leveraged to enable Confluent Cloud connectivity. For more information, see [AWS Working with Shared VPCs](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-sharing.html).
+
+    To achieve transitivity, you can link an AWS Transit Gateway to a Confluent Cloud cluster in AWS.
+
+- You can have multiple VPC peering connections. For information about limits, see [Network quotas in Confluent Cloud](https://docs.confluent.io/cloud/current/quotas/service-quotas.html#ccloud-resource-limits-network).
+
+- You can colocate multiple Confluent Cloud Dedicated clusters in the same Confluent Cloud network, but this is limited by the expected number and size of the clusters. The applicable limits are specified in [Networks](https://docs.confluent.io/cloud/current/quotas/service-quotas.html#ccloud-resource-limits-network).
+
+- **Cross-region peering is not supported through the Confluent Cloud Console.** Contact Confluent Support to see if your regions are supported and to request configuration.
+
+- You might need to increase your route quota when you use VPC peering because the Confluent Cloud and AWS routes are shared.
+
+- If you have custom DNS, your DNS servers must be able to access the authoritative DNS servers for Confluent Cloud, which are hosted by Confluent on the internet.
+
+- Access to Confluent Cloud serverless products
+
+    Connections established for use with Dedicated Kafka clusters may also be used to connect to some serverless products. For service-specific information, see:
+
+    - [Flink](https://docs.confluent.io/cloud/current/flink/concepts/flink-private-networking.html#flink-sql-private-networking)
+
+    - [Schema Registry](https://docs.confluent.io/cloud/current/sr/fundamentals/sr-private-link.html#sr-ccloud-private-link)
+
+[Use VPC peering connections with Confluent Cloud on AWS \| Confluent Documentation](https://docs.confluent.io/cloud/current/networking/peering/aws-peering.html)
+
+### Create Confluent Cloud Network on AWS
+
+Each Confluent Cloud network is a virtual network that is provisioned in your Confluent Cloud AWS account.
+
+This network allows inbound connections from the connected network to services in Confluent Cloud. It also allows inbound connections from services in Confluent Cloud that are configured to interact with data in the Confluent Cloud network.
+
+#### Confluent Cloud network CIDR blocks and block size for peering and Transit Gateway
+
+When you set up a Confluent Cloud network for VPC peering or Transit Gateway, the CIDR blocks you specify must meet the follow requirements.
+
+- Specify Confluent Cloud network CIDR blocks in one of the following private IP ranges:
+
+    - [Private IP address range (RFC 1918)](https://datatracker.ietf.org/doc/html/rfc1918): `10.0.0.0/8`, `172.16.0.0/12`, `192.168.0.0/16`
+
+    - [Shared address space (Carrier-grade NAT) (RFC 6598)](https://datatracker.ietf.org/doc/html/rfc6598): `100.64.0.0/10`
+
+    - [Benchmark address space (RFC 2544)](https://datatracker.ietf.org/doc/html/rfc2544): `198.18.0.0/15`
+
+        This CIDR block is incompatible with Transit Gateway-to-Transit Gateway Cluster Linking.
+
+- Do not select CIDR blocks that overlap with the following CIDR blocks that are reserved by Confluent Cloud: `10.100.0.0/16`, `10.255.0.0/16`, `172.17.0.0/16`, `172.20.0.0/16`, `172.31.0.0/16`
+
+    You cannot use the above CIDRs for peering or Transit Gateways due to routing conflicts with Confluent services. For example, managed connectors cannot reach the sources or sinks in those IP ranges.
+
+- The CIDR block must comply with the [IPv4 CIDR block association restrictions](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-cidr-blocks.html#add-cidr-block-restrictions) for restricted VPC CIDR block associations.
+
+    For example, if any one of the /27 CIDR is from the `10.0.0.0/15` range, the other two /27 CIDRs cannot be from `10.0.0.0/16`, `172.16.0.0/12`, or `192.168.0.0/16`.
+
+- When a /16 CIDR range is provided, the range is broken up into 3 predictable /27 ranges in Confluent Cloud.
+
+    Specifically, from a given /16, the first range starts at the `0` IP, the second range starts at the `32`, and the third at the `64`.
+
+    For example, if you provide `10.1.0.0/16`, the ranges are: `10.1.0.0/27`, `10.1.0.32/27`, `10.1.0.64/27`
+
+- `10.0.0.0/16` CIDR block is not supported in Confluent Cloud when you use a /16 CIDR range.
+
+- The CIDR of the AWS VPC you want to peer with Confluent Cloud network should not be identical and not completely within the Confluent Cloud network CIDRs.
+
+[Create a Confluent Cloud network on AWS \| Confluent Documentation](https://docs.confluent.io/cloud/current/networking/ccloud-network/aws.html)

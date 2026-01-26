@@ -128,4 +128,4 @@ A unique identifier of an [Operator](https://nightlies.apache.org/flink/flink-d
 
 A unique identifier of an [Operator](https://nightlies.apache.org/flink/flink-docs-stable/docs/concepts/glossary/#operator) at runtime, otherwise known as “Operator ID” or “Vertex ID” and generated from a [UID](https://nightlies.apache.org/flink/flink-docs-stable/docs/concepts/glossary/#uid). It is commonly exposed in logs, the REST API or metrics, and most importantly is how operators are identified within [savepoints](https://nightlies.apache.org/flink/flink-docs-release-2.2/docs/ops/state/savepoints/).
 
-[Fetching Title#ree1](https://nightlies.apache.org/flink/flink-docs-stable/docs/concepts/glossary/)
+[Concept - Glossary | Flink](https://nightlies.apache.org/flink/flink-docs-stable/docs/concepts/glossary/)

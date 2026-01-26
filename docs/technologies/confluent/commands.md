@@ -34,6 +34,11 @@ confluent kafka topic consume clickstream
 confluent kafka topic consume clickstream --group test-group
 confluent kafka topic consume --from-beginning test-topic
 
+# broker configuration
+confluent kafka cluster configuration update --config auto.create.topics.enable=true
+confluent kafka cluster configuration list --cluster lkc-abc05
+confluent kafka cluster configuration describe auto.create.topics.enable
+
 confluent-hub install confluentinc/kafka-connect-datagen:latest
 ```
 

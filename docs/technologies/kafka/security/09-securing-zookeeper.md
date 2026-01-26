@@ -18,11 +18,12 @@ Similar to Kafka, ZooKeeper supports SASL, which you are most likely to use if y
 
 ## SSL vs. SASL
 
-SSL has some administrative overhead but is the most popular and is probably the easiest option to use. You also have to periodically update this information before the certificates expire to prevent TLS handshake failures. SASL of course makes sense if you need to integrate with an existing Kerberos server. 
+SSL has some administrative overhead but is the most popular and is probably the easiest option to use. You also have to periodically update this information before the certificates expire to prevent TLS handshake failures. SASL of course makes sense if you need to integrate with an existing Kerberos server.
 
 You can actually use both, however, use SSL for authentication and use SASL to determine access and grant authorization. This has the benefit of clients not needing to use the same Distinguished Name and thus you won't have to set a unique subject alternative name (SAN).
 
 SSL + SASL
+
 - Able to use either identity
 - No need to use same distinguished name
 - Ability to use hostnames in the distinguished name

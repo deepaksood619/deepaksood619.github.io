@@ -26,7 +26,7 @@ kafka-acls --bootstrap-server localhost:9092 \
   --add \
   --allow-principal User:alice \
   --allow-principal User:fred \
-  --operation read 
+  --operation read
   --operation write \
   --topic finance
 ````

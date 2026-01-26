@@ -10,11 +10,11 @@ Here is a translation table that defines the addresses based on their leading bi
 
 ### Class A
 
-0---: If the first bit of an IPv4 address is "0", this means that the address is part of class A. This means that any address from 0.0.0.0 to 127.255.255.255 is in class A.
+`0---`: If the first bit of an IPv4 address is "0", this means that the address is part of class A. This means that any address from 0.0.0.0 to 127.255.255.255 is in class A.
 
 ### Class B
 
-10--: Class B includes any address from 128.0.0.0 to 191.255.255.255. This represents the addresses that have a "1" for their first bit, but don't have a "1" for their second bit.
+`10--`: Class B includes any address from 128.0.0.0 to 191.255.255.255. This represents the addresses that have a "1" for their first bit, but don't have a "1" for their second bit.
 
 #### Private IP - IANA - RFC1918 (reserved for private subnets)
 
@@ -26,15 +26,15 @@ Here is a translation table that defines the addresses based on their leading bi
 
 ### Class C
 
-110-: Class C is defined as the addresses ranging from192.0.0.0 to 223.255.255.255. This represents all of the addresses with a "1" for their first two bits, but without a "1" for their third bit.
+`110-`: Class C is defined as the addresses ranging from192.0.0.0 to 223.255.255.255. This represents all of the addresses with a "1" for their first two bits, but without a "1" for their third bit.
 
 ### Class D
 
-1110: This class includes addresses that have "111" as their first three bits, but a "0" for the next bit. This address range includes addresses from224.0.0.0 to 239.255.255.255.
+`1110`: This class includes addresses that have "111" as their first three bits, but a "0" for the next bit. This address range includes addresses from224.0.0.0 to 239.255.255.255.
 
 ### Class E
 
-1111: This class defines addresses between240.0.0.0 and 255.255.255.255. Any address that begins with four "1" bits is included in this class.
+`1111`: This class defines addresses between 240.0.0.0 and 255.255.255.255. Any address that begins with four "1" bits is included in this class.
 
 Class D addresses are reserved for multi-casting protocols, which allow a packet to be sent to a group of hosts in one movement. Class E addresses are reserved for future and experimental use, and are largely not used.
 
@@ -83,8 +83,6 @@ A system calledClassless Inter-Domain Routing, or CIDR, was developed as an alte
 
 For example, we could express the idea that the IP address192.168.0.15is associated with the netmask 255.255.255.0 by using the CIDR notation of 192.168.0.15/24. This means that the first 24 bits of the IP address given are considered significant for the network routing.
 
-## IPv4 vs IPv6 / IP routing
-
 ## IPAM
 
 [IPAM (IP Address Management)](https://www.infoblox.com/products/ipam-dhcp/) is the administration of DNS and DHCP, which are the network services that assign and resolve IP addresses to machines in a TCP/IP network. Simply put, IPAM is a means of planning, tracking, and managing the Internet Protocol address space used in a network. Most commonly, tools such as DNS and DHCP are used in tandem to perform this task, though true IPAM will glue these services together so that each is aware of changes in the other (for instance DNS knowing of the IP address taken by a client via DHCP, and updating itself accordingly).
@@ -95,7 +93,7 @@ https://docs.microsoft.com/en-us/windows-server/networking/technologies/ipam/ipa
 
 ## Ip address examples
 
-|                                      |                       |
+| IP Addresses                         | Example               |
 | ------------------------------------ | --------------------- |
 | ping 0                               | 127.0.0.1 (Linux)     |
 | ping 0                               | 0.0.0.0 (Mac)         |

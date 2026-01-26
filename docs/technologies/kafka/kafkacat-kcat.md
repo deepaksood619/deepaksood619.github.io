@@ -1,20 +1,20 @@
-# kafkacat
+# kafkacat / kcat
 
-https://github.com/edenhill/kafkacat
+https://github.com/edenhill/kcat
 
 kafkacat is a generic non-JVM producer and consumer for Apache Kafka >=0.8, think of it as a netcat for Kafka.
 
-In producer mode kafkacat reads messages from stdin, delimited with a configurable delimiter (-D, defaults to newline), and produces them to the provided Kafka cluster (-b), topic (-t) and partition (-p).
+In producer mode kcat reads messages from stdin, delimited with a configurable delimiter (-D, defaults to newline), and produces them to the provided Kafka cluster (-b), topic (-t) and partition (-p).
 
-In consumer mode kafkacat reads messages from a topic and partition and prints them to stdout using the configured message delimiter.
+In consumer mode kcat reads messages from a topic and partition and prints them to stdout using the configured message delimiter.
 
 There's also support for the Kafka >=0.9 high-level balanced consumer, use the `-G <group>` switch and provide a list of topics to join the group.
 
-kafkacat also features a Metadata list (-L) mode to display the current state of the Kafka cluster and its topics and partitions.
+kcat also features a Metadata list (-L) mode to display the current state of the Kafka cluster and its topics and partitions.
 
 Supports Avro message deserialization using the Confluent Schema-Registry, and generic primitive deserializers (see examples below).
 
-kafkacat is fast and lightweight; statically linked it is no more than 150Kb.
+kcat is fast and lightweight; statically linked it is no more than 150Kb.
 
 #### Installing
 
@@ -22,7 +22,7 @@ kafkacat is fast and lightweight; statically linked it is no more than 150Kb.
 brew install kafkacat
 apt-get install kafkacat
 
-# use kcat command instead of kafkacat
+# use kcat command instead of kcat
 ```
 
 ## Commands
@@ -31,61 +31,61 @@ apt-get install kafkacat
 
 High-level balanced KafkaConsumer: subscribe to topic1 and topic2 (requires broker >=0.9.0 and librdkafka version >=0.9.1)
 
-```kafkacat -b localhost:9091 -G mygroup topic1 topic2```
+`kcat -b localhost:9091 -G mygroup topic1 topic2`
 
 Read messages from Kafka 'syslog' topic, print to stdout
 
-```kafkacat -b kafka0.example.com:31090,kafka1.example.com:31091,kafka2.example.com:31092 -t druid_uncompressed -c 10```
+```kcat -b kafka0.example.com:31090,kafka1.example.com:31091,kafka2.example.com:31092 -t druid_uncompressed -c 10```
 
 Read the last 2000 messages from 'syslog' topic, then exit
 
 ```bash
-kafkacat -C -b mybroker -t syslog -p 0 -o -2000 -e
+kcat -C -b mybroker -t syslog -p 0 -o -2000 -e
 
-kafkacat -C -b kafka0.example.com:31090,kafka1.example.com:31091,kafka2.example.com:31092 -t druid_compressed -p 0 -o -2000 -e
+kcat -C -b kafka0.example.com:31090,kafka1.example.com:31091,kafka2.example.com:31092 -t druid_compressed -p 0 -o -2000 -e
 ```
 
 Consume from all partitions from 'syslog' topic
 
-```kafkacat -C -b mybroker -t syslog```
+```kcat -C -b mybroker -t syslog```
 
 Output consumed messages in JSON envelope:
 
-```kafkacat -b mybroker -t syslog -J```
+```kcat -b mybroker -t syslog -J```
 
 Decode Avro key (-s key=avro), value (-s value=avro) or both (-s avro) to JSON using schema from the Schema-Registry:
 
-```kafkacat -b mybroker -t ledger -s avro -r http://schema-registry-url:8080```
+```kcat -b mybroker -t ledger -s avro -r http://schema-registry-url:8080```
 
 Decode Avro message value and extract Avro record's "age" field:
 
-```kafkacat -b mybroker -t ledger -s value=avro -r http://schema-registry-url:8080 | jq .payload.age```
+```kcat -b mybroker -t ledger -s value=avro -r http://schema-registry-url:8080 | jq .payload.age```
 
 Decode key as 32-bit signed integer and value as 16-bit signed integer followed by an unsigned byte followed by string:
 
-`kafkacat -b mybroker -t mytopic -s key='i$' -s value='hB s'`
+`kcat -b mybroker -t mytopic -s key='i$' -s value='hB s'`
 
-`Hint: see./kafkacat -h for all available deserializer options.`
+`Hint: see./kcat -h for all available deserializer options.`
 
 Output consumed messages according to format string:
 
-```kafkacat -b mybroker -t syslog -f 'Topic %t [%p], offset: %o, key: %k, payload: %S bytes: %sn'```
+```kcat -b mybroker -t syslog -f 'Topic %t [%p], offset: %o, key: %k, payload: %S bytes: %sn'```
 
 Read the last 100 messages from topic 'syslog' with librdkafka configuration parameter 'broker.version.fallback' set to '0.8.2.1' :
 
-`kafkacat -C -b mybroker -X broker.version.fallback=0.8.2.1 -t syslog -p 0 -o -100 -e`
+`kcat -C -b mybroker -X broker.version.fallback=0.8.2.1 -t syslog -p 0 -o -100 -e`
 
 Print headers in consumer:
 
-`kafkacat -b mybroker -C -t mytopic -f 'Headers: %h: Message value: %sn'`
+`kcat -b mybroker -C -t mytopic -f 'Headers: %h: Message value: %sn'`
 
 Enable the idempotent producer, providing exactly-once and strict-orderingproducerguarantees:
 
-`kafkacat -b mybroker -X enable.idempotence=true -P -t mytopic ....`
+`kcat -b mybroker -X enable.idempotence=true -P -t mytopic ....`
 
 ## Metadata listing
 
-```kafkacat -L -b kafka0.example.com:31090,kafka1.example.com:31091,kafka2.example.com:31092```
+```kcat -L -b kafka0.example.com:31090,kafka1.example.com:31091,kafka2.example.com:31092```
 
 Metadata for all topics (from broker 1: mybroker:9092/1):
 
@@ -109,55 +109,55 @@ partition 1, leader 1, replicas: 1, isrs: 1
 
 JSON metadata listing
 
-`kafkacat -b mybroker -L -J`
+`kcat -b mybroker -L -J`
 
 Pretty-printed JSON metadata listing
 
-`kafkacat -b mybroker -L -J | jq .`
+`kcat -b mybroker -L -J | jq .`
 
 Query offset(s) by timestamp(s)
 
 ```bash
-kafkacat -b **kafka0.example.com:31090,kafka1.example.com:31091,kafka2.example.com:31092** -Q -t druid_telemetry_data_Samhi:0:1569048234230
+kcat -b **kafka0.example.com:31090,kafka1.example.com:31091,kafka2.example.com:31092** -Q -t druid_telemetry_data_Samhi:0:1569048234230
 
-kafkacat -b **kafka0.example.com:31090,kafka1.example.com:31091,kafka2.example.com:31092** -Q -t druid_telemetry_data_Samhi:0:**1568989500000**
+kcat -b **kafka0.example.com:31090,kafka1.example.com:31091,kafka2.example.com:31092** -Q -t druid_telemetry_data_Samhi:0:**1568989500000**
 ```
 
 Consume messages between two timestamps
 
 ```bash
 # Working
-kafkacat -b **kafka0.example.com:31090,kafka1.example.com:31091,kafka2.example.com:31092** -C -t druid_telemetry_data_Samhi -o s@1574063938000 -o e@1574063940000 **-**f 'nKey (%K bytes): %ktnValue (%S bytes): %snTimestamp: %TtPartition: %ptOffset: %on--n'
+kcat -b **kafka0.example.com:31090,kafka1.example.com:31091,kafka2.example.com:31092** -C -t druid_telemetry_data_Samhi -o s@1574063938000 -o e@1574063940000 **-**f 'nKey (%K bytes): %ktnValue (%S bytes): %snTimestamp: %TtPartition: %ptOffset: %on--n'
 
 # Redirect logs to different topic
-kafkacat -b kafka0.example.com:31090,kafka1.example.com:31091,kafka2.example.com:31092 -C -t **smap_samhi**-o s@**1568989590000**-o e@**1568989620000 | kafkacat -b**kafka0.example.com:31090,kafka1.example.com:31091,kafka2.example.com:31092 -P -t samhi_logs
+kcat -b kafka0.example.com:31090,kafka1.example.com:31091,kafka2.example.com:31092 -C -t **smap_samhi**-o s@**1568989590000**-o e@**1568989620000 | kcat -b**kafka0.example.com:31090,kafka1.example.com:31091,kafka2.example.com:31092 -P -t samhi_logs
 ```
 
 ## Producers
 
 Read messages from stdin, produce to 'syslog' topic with snappy compression
 
-```tail -f /var/log/syslog | kafkacat -b mybroker -t syslog -z snappy```
+```tail -f /var/log/syslog | kcat -b mybroker -t syslog -z snappy```
 
 Produce messages from file (one file is one message)
 
-`kafkacat -P -b mybroker -t filedrop -p 0 myfile1.bin /etc/motd thirdfile.tgz`
+`kcat -P -b mybroker -t filedrop -p 0 myfile1.bin /etc/motd thirdfile.tgz`
 
 Produce a tombstone (a "delete" for compacted topics) for key "abc" by providing an empty message value which-Zinterpretes as NULL:
 
-`echo "abc:" | kafkacat -b mybroker -t mytopic -Z -K:`
+`echo "abc:" | kcat -b mybroker -t mytopic -Z -K:`
 
 Produce with headers:
 
-```echo "hello there" | kafkacat -b mybroker -H "header1=header value" -H "nullheader" -H "emptyheader=" -H "header1=duplicateIsOk"```
+```echo "hello there" | kcat -b mybroker -H "header1=header value" -H "nullheader" -H "emptyheader=" -H "header1=duplicateIsOk"```
 
-## Kafkacat documentation
+## kcat documentation
 
-`Usage: kafkacat <options> [file1 file2 .. | topic1 topic2 ..]]`
+`Usage: kcat <options> [file1 file2 .. | topic1 topic2 ..]]`
 
-`kafkacat - Apache Kafka producer and consumer tool`
+`kcat - Apache Kafka producer and consumer tool`
 
-https://github.com/edenhill/kafkacat
+https://github.com/edenhill/kcat
 
 ```bash
 -C | -P | -L | -Q  Mode: Consume, Produce, Metadata List, Query mode
@@ -174,8 +174,8 @@ https://github.com/edenhill/kafkacat
    -c <cnt>           Limit message count
    -F <config-file>   Read configuration properties from file,
                       file format is "property=value".
-                      The KAFKACAT_CONFIG=path environment can also be used, but -F takes preceedence.
-                      The default configuration file is $HOME/.config/kafkacat.conf
+                      The kcat_CONFIG=path environment can also be used, but -F takes preceedence.
+                      The default configuration file is $HOME/.config/kcat.conf
    -X list            List available librdkafka configuration properties
    -X prop=val        Set librdkafka configuration property.
                       Properties prefixed with "topic." are
@@ -287,23 +287,23 @@ https://github.com/edenhill/kafkacat
   (note: key_error and payload_error are only included if deserialization failed)
 
  Consumer mode (writes messages to stdout):
-    kafkacat -b <broker> -t <topic> -p <partition>
+    kcat -b <broker> -t <topic> -p <partition>
   or:
-   kafkacat -C -b ...
+   kcat -C -b ...
 
  High-level KafkaConsumer mode:
-   kafkacat -b <broker> -G <group-id> topic1 top2 ^aregex\d+
+   kcat -b <broker> -G <group-id> topic1 top2 ^aregex\d+
 
  Producer mode (reads messages from stdin):
-   ... | kafkacat -b <broker> -t <topic> -p <partition>
+   ... | kcat -b <broker> -t <topic> -p <partition>
   or:
-   kafkacat -P -b ...
+   kcat -P -b ...
 
  Metadata listing:
-   kafkacat -L -b <broker> [-t <topic>]
+   kcat -L -b <broker> [-t <topic>]
 
  Query offset by timestamp:
-  kafkacat -Q -b broker -t <topic>:<partition>:<timestamp>
+  kcat -Q -b broker -t <topic>:<partition>:<timestamp>
 ```
 
 ## Example Commands
@@ -311,35 +311,35 @@ https://github.com/edenhill/kafkacat
 ### metadata listing
 
 ```bash
-kafkacat -L -b kafka0.example.com:9094,kafka1.example.com,kafka2.example.com
+kcat -L -b kafka0.example.com:9094,kafka1.example.com,kafka2.example.com
 
-kafkacat -L -b localhost:9094
+kcat -L -b localhost:9094
 ```
 
 ### consumer - get data from bank_data
 
 ```bash
-kafkacat -C -b my-cluster-kafka-brokers.kafka:9092 -t bank_data -p 0 -o -2000 -e
+kcat -C -b my-cluster-kafka-brokers.kafka:9092 -t bank_data -p 0 -o -2000 -e
 
-kafkacat -C -b kafka0.example.com:9094,kafka1.example.com,kafka2.example.com -t test
+kcat -C -b kafka0.example.com:9094,kafka1.example.com,kafka2.example.com -t test
 
-kafkacat -C -b kafka0.example.com:9094,kafka1.example.com:9094,kafka2.example.com:9094 -t test_bank_data -o -2000 -f 'nKey (%K bytes): %ktnValue (%S bytes): %snTimestamp: %TtPartition: %ptOffset: %on--n'
+kcat -C -b kafka0.example.com:9094,kafka1.example.com:9094,kafka2.example.com:9094 -t test_bank_data -o -2000 -f 'nKey (%K bytes): %ktnValue (%S bytes): %snTimestamp: %TtPartition: %ptOffset: %on--n'
 ```
 
 ### get size of the packets
 
 ```bash
-kafkacat -C -b kafka0.example.com:9094,kafka1.example.com:9094,kafka2.example.com:9094 -t test_bank_data -o -2000 -f 'nValue (%S bytes) t Timestamp: %TtPartition: %ptOffset: %o'
+kcat -C -b kafka0.example.com:9094,kafka1.example.com:9094,kafka2.example.com:9094 -t test_bank_data -o -2000 -f 'nValue (%S bytes) t Timestamp: %TtPartition: %ptOffset: %o'
 
-kafkacat -C -b kafka0.example.com:9094,kafka1.example.com:9094,kafka2.example.com:9094 -t test_bank_data -o -2000 -f 'n%S,%T,%p,%o'
+kcat -C -b kafka0.example.com:9094,kafka1.example.com:9094,kafka2.example.com:9094 -t test_bank_data -o -2000 -f 'n%S,%T,%p,%o'
 ```
 
 ### producer
 
 ```bash
-echo "hello" | kafkacat -P -b my-cluster-kafka-brokers.kafka:9092 -t test
+echo "hello" | kcat -P -b my-cluster-kafka-brokers.kafka:9092 -t test
 
-while true; do echo $(($(date +%s%N)/1000000)) | kafkacat -P -b my-cluster-kafka-brokers.kafka:9092 -t test; sleep 2; echo $(($(date +%s%N)/1000000)); done
+while true; do echo $(($(date +%s%N)/1000000)) | kcat -P -b my-cluster-kafka-brokers.kafka:9092 -t test; sleep 2; echo $(($(date +%s%N)/1000000)); done
 
-kafkacat -b kafka0.example.com:9094,kafka1.example.com:9094,kafka2.example.com:9094 -t test -c 10
+kcat -b kafka0.example.com:9094,kafka1.example.com:9094,kafka2.example.com:9094 -t test -c 10
 ```

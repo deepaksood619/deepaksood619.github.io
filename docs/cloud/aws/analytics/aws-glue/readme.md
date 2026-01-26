@@ -90,6 +90,8 @@ https://docs.aws.amazon.com/glue/latest/dg/aws-glue-api-jobs-job.html
 - **G.1X--** When you choose this type, you also provide a value for Number of workers. Each worker maps to 1 DPU (4 vCPU, 16 GB of memory, 64 GB disk), and provides 1 executor per worker. We recommend this worker type for memory-intensive jobs.
 - **G.2X--** When you choose this type, you also provide a value for Number of workers. Each worker maps to 2 DPU (8 vCPU, 32 GB of memory, 128 GB disk), and provides 1 executor per worker. We recommend this worker type for memory-intensive jobs and jobs that run ML transforms.
 
+[Scale your AWS Glue for Apache Spark jobs with larger worker types G.4X and G.8X \| AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/scale-your-aws-glue-for-apache-spark-jobs-with-new-larger-worker-types-g-4x-and-g-8x/)
+
 ## ETL Jobs Pricing
 
 With AWS Glue, you only pay for the time your ETL job takes to run. There are no resources to manage, no upfront costs, and you are not charged for startup or shutdown time. You are charged an hourly rate based on the number of Data Processing Units (or DPUs) used to run your ETL job. A single Data Processing Unit (DPU) provides 4 vCPU and 16 GB of memory.
