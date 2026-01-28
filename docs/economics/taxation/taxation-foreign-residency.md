@@ -23,7 +23,9 @@ You need a brokerage that supports **account migration**.
 
     - **Why:** They operate globally. When you move to another country (e.g., Dubai or Singapore), you simply file a ticket to migrate your entity from "IBKR India" to "IBKR LLC/UK/etc." effectively keeping your portfolio intact without selling.
     - **Cost:** Very low. Commissions are negligible (~$0.35 to $2 per trade depending on the plan).
+
 - **Alternatives:** Vested or INDmoney.
+
     - **Risk:** These often use US-based clearing partners (like DriveWealth). While they are excellent for staying in India, moving your account status to "Non-resident" while keeping the same account can sometimes be bureaucratically difficult or require a transfer of assets (ACATS), which costs money.
 
 #### 2. Funding the Account (LRS & TCS)

@@ -8,13 +8,15 @@ The consumer is the receiver of the message in Kafka
 - A message is sent to all the consumers in a consumer group
 - The consumer groups are used to control the messaging system
 
+## Inner Working
+
 ### Rebalance
 
 - Moving partition ownership from one consumer to another
 - During a rebalance, consumers can't consume messages, so a rebalance is basically a short window of unavailability of the entire consumer group
 - when partitions are moved from one consumer to another, the consumer loses its current state; if it was caching any data, it will need to refresh its caches - slowing down the application until the con‐ sumer sets up its state again.
 
-### Heatbeats
+### Heartbeats
 
 - The way consumers maintain membership in a consumer group and ownership of the partitions assigned to them is by sending *heartbeats* to a Kafka broker designated as the *group coordinator* (this broker can be different for different consumer groups).
 - As long as the consumer is sending heartbeats at regular intervals, it is assumed to be alive, well, and processing messages from its partitions.
@@ -26,9 +28,9 @@ The consumer is the receiver of the message in Kafka
 
 ### How Does the Process of Assigning Partitions to Brokers Work?
 
-- When a consumer wants to join a group, it sends a JoinGroup request to the group coordinator. The first consumer to join the group becomes the group leader. The leader receives a list of all consumers in the group from the group coordinator (this will include all consumers that sent a heartbeat recently and which are therefore considered alive) and is responsible for assigning a subset of partitions to each consumer. It uses an implementation of PartitionAssignor to decide which partitions should be handled by which consumer.
+- When a consumer wants to join a group, it sends a `JoinGroup` request to the group coordinator. The first consumer to join the group becomes the **group leader**. The leader receives a list of all consumers in the group from the group coordinator (this will include all consumers that sent a heartbeat recently and which are therefore considered alive) and is responsible for assigning a subset of partitions to each consumer. It uses an implementation of PartitionAssignor to decide which partitions should be handled by which consumer.
 - Kafka has two built-in partition assignment policies. After deciding on the partition assignment, the consumer leader sends the list of assignments to the GroupCoordinator, which sends this information to all the consumers. Each consumer only sees his own assignment - the leader is the only client process that has the full list of consumers in the group and their assignments. This process repeats every time a rebalance happens.
-    - partition.assignment.strategy `[ Range, RoundRobin ]`
+    - partition.assignment.strategy `[ Range, RoundRobin, StickyAssignor ]`
 
 ### The poll loop
 

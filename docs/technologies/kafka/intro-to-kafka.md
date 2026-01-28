@@ -221,3 +221,4 @@ In-sync replicas is the subset of the replicas list that is currently alive and 
 - [The Trillion Message Kafka Setup at Walmart](https://blog.bytebytego.com/p/the-trillion-message-kafka-setup)
 - [Demo: ACL Authorization · The Internals of Apache Kafka](https://jaceklaskowski.gitbooks.io/apache-kafka/content/kafka-demo-acl-authorization.html#step-8)
 - [Kafka Challenges and How to Overcome Them](https://www.confluent.io/resources/ebook/6-common-kafka-challenges/)
+- Interview Questions - [ChatGPT - Kafka Interview Questions](https://chatgpt.com/share/69776991-991c-8008-a215-732b7501bd04)

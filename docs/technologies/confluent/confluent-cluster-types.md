@@ -127,6 +127,28 @@ All clusters have the following features:
 - The maximum limits for requests, total client connections, and connection attempts are currently not strictly enforced for Basic, Standard, Enterprise, and Freight clusters, whether you are using a cluster with the default capacity, or a maximum capacity you configured.
 - You can lower maximum eCKU to reduce the capacity of your cluster but you must also manage your workload, especially for limits not currently strictly enforced. Confluent will contact you if your clusters with managed maximum eCKU repeatedly exceed the user-defined reduced capacity for requests, total client connections, and connection attempts. You should be prepared to discuss mitigation strategies, such as reduction of workload to stay within the limits of your reduced capacity, or an increase to the maximum eCKU configuration to accommodate the workload.
 
+## Configurations
+
+- You cannot edit cluster settings on Confluent Cloud on Basic, Standard, Enterprise, and Freight clusters, but many configuration settings are available at the topic level instead.
+- You can change some configuration settings on Dedicated clusters using the Confluent CLI or REST API.
+- The default maximum timeout for registered consumers is different for Confluent Cloud Kafka clusters than for Confluent Platform clusters and cannot be changed.
+	- `group.max.session.timeout.ms` default is 1200000 ms (20 minutes)
+
+The following table lists editable cluster settings for Dedicated clusters and their default parameter values.
+
+| Parameter Name                                                                                                          | Default                        | Editable | More Info                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------- | ------------------------------ | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [auto.create.topics.enable](https://docs.confluent.io/cloud/current/clusters/broker-config.html#topic-creation)         | false                          | Yes      |                                                                                                                                                     |
+| [ssl.enabled.protocols](https://docs.confluent.io/cloud/current/clusters/broker-config.html#manage-tls-protocols)       | TLSv1.2                        | Yes      | Options: `TLSv1.2`, `TLSv1.3`, or both.                                                                                                             |
+| [ssl.cipher.suites](https://docs.confluent.io/cloud/current/clusters/broker-config.html#restrict-ciphers)               | “”                             | Yes      |                                                                                                                                                     |
+| [num.partitions](https://docs.confluent.io/cloud/current/clusters/broker-config.html#default-partitions)                | 6                              | Yes      | Limits vary, see: [Kafka Cluster Types in Confluent Cloud](https://docs.confluent.io/cloud/current/clusters/cluster-types.html#cloud-cluster-types) |
+| [log.cleaner.max.compaction.lag.ms](https://docs.confluent.io/cloud/current/clusters/broker-config.html#lag-compaction) | 9223372036854775807            | Yes      | Min: `21600000` ms                                                                                                                                  |
+| [log.retention.ms](https://docs.confluent.io/cloud/current/clusters/broker-config.html#log-retention)                   | 604800000 (168 hours = 7 days) | Yes      | Set to -1 for Infinite Storage                                                                                                                      |
+
+[Manage Kafka Cluster Configuration Settings in Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/clusters/broker-config.html)
+
 ## Links
 
 [Kafka Cluster Types in Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/clusters/cluster-types.html)
+
+Networking Comparison - [Networking on Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/networking/overview.html#private-networking-solutions)

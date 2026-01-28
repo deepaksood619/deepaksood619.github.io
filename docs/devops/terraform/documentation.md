@@ -16,7 +16,7 @@ The resource block has two strings before opening the block: the resource type a
 
 By studying the resource attributes used in interpolation expressions, Terraform can automatically infer when one resource depends on another. In the example above, the reference to `aws_instance.example.id` creates an implicit dependency on the aws_instance named example.
 
-**Terraform uses this dependency information to determine the correct order in which to create the different resources.** In the example above, Terraform knows that the aws_instance must be created before the aws_eip.
+**Terraform uses this dependency information to determine the correct order in which to create the different resources.** In the example above, Terraform knows that the `aws_instance` must be created before the `aws_eip`.
 
 Implicit dependencies via interpolation expressions are the primary way to inform Terraform about these relationships, and should be used whenever possible.
 

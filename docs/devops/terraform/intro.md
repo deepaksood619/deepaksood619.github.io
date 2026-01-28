@@ -58,4 +58,3 @@ The set of files used to describe infrastructure in Terraform is simply known as
 - https://github.com/ozbillwang/terraform-best-practices
 - [HashiCorp Terraform Associate Certification Study Course - Pass the Exam With This Free 7 Hour Course](https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course)
 - [GitHub - rishabh96b/terraform-refresher: Refresh your Terraform Knowledge.](https://github.com/rishabh96b/terraform-refresher)
-

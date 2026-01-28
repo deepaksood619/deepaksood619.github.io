@@ -77,5 +77,5 @@ Uses the partitioner, of which there are two kinds
 - PHI calculation for a member
     - Inter-arrival times for gossip messages
     - PHI(t) = -log(CDF or Probability(t_now - t_last))/log 10
-    - PHI basically determines the detection timeout, but takes into account historical inter-arrival time variations for gossiped heatbeats
+    - PHI basically determines the detection timeout, but takes into account historical inter-arrival time variations for gossiped heartbeats
 - In practice, PHI = 5 => 10-15 sec detection time

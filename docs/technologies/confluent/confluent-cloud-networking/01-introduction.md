@@ -123,5 +123,35 @@ Confluent Cloud supports the following networking solutions on the specified clo
 - Google Cloud
     - [Public connectivity](https://docs.confluent.io/cloud/current/networking/overview.html#cloud-networking-support-public)
     - [Private connectivity](https://docs.confluent.io/cloud/current/networking/overview.html#cloud-networking-support-private): Private Service Connect, VPC Peering
+- CCN - Confluent Cloud Network
+	- [Networking on Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/networking/overview.html#ccloud-networks)
+	- A Confluent Cloud network is an abstraction for a single tenant network environment that hosts the following Confluent Cloud services:
+		- One or more Dedicated clusters.
+		- Single tenant services
+			- Managed connectors
+			- ksqlDB clusters
+- PLATT - Private Link Attachment
+- Networking Comparison - [Networking on Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/networking/overview.html#private-networking-solutions)
 
-[Networking on Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/networking/overview.html)
+### Considerations for public vs. private networking type
+
+Using a private or public connectivity with Confluent Cloud is a trade-off:
+
+- With private networking, your cluster cannot be accessed from the public endpoints, eliminating potential security threats.
+
+- Private networking requires you to manage the peered or linked networks to ensure all your client applications and developers have the needed access to Confluent Cloud.
+
+- If you use private networking (VPC peering, VNet peering, Private Link, or Private Network Interface), you cannot directly connect from an on-premises data center to Confluent Cloud.
+	- To do this, you must first route to a shared services VPC or VNet that you own and connect that to Confluent Cloud using VPC/VNet peering (along with a proxy), Private Link, or Private Network Interface.
+
+- [IP Addresses for public endpoints are not static](https://docs.confluent.io/cloud/current/faq.html#cloud-ip-addresses-not-static). These public endpoints include the endpoints for Kafka brokers, Confluent REST API (api.confluent.cloud), and Telemetry API (api.telemetry.confluent.cloud).
+	- The endpoints can assume any public IP, without a specific range.
+
+- Native Kafka clients are not designed to work seamlessly in forward proxy environments. If you are producing HTTPS records, consider using the [Kafka REST API](https://docs.confluent.io/cloud/current/kafka-rest/kafka-rest-cc.html#krest-produce).
+
+- You are prohibited from transmitting cardholder or sensitive authentication data (PCI data as defined in the [Payment Card Industry Data Security Standard](https://www.pcisecuritystandards.org/standards/)) unless you encrypt the PCI data at the message level, and you use only private networking for Confluent Cloud clusters.
+
+## Links
+
+- [Networking on Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/networking/overview.html)
+- [Confluent Cloud Networking FAQ \| Confluent Documentation](https://docs.confluent.io/cloud/current/networking/networking-faq.html)

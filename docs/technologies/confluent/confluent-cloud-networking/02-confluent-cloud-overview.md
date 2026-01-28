@@ -62,16 +62,16 @@ As you can see, there are lots of different permutations of what, where, and how
 
 What are the connectivity options? At a high level, we have these four:
 
-1. Secured public endpoints
+1. **Secured public endpoints**
     - Accessing Confluent Cloud via secure public endpoints—these are public IP addresses that are accessed over the internet
     - TLS v1.2 data encryption in transit
-2. VPC/VNet peering
+2. **VPC/VNet peering**
     - Directly connect (or peer) the Confluent network with your cloud network
     - Traffic never traverses the public backbone of a cloud provider or public internet
-3. AWS Transit Gateway
+3. **AWS Transit Gateway**
     - In AWS, extension of peering is where the Confluent network is peered to a Transit Gateway, which is basically a cloud router
     - Connects multiple VPCs and remote networks using a single gateway
-4. AWS/Azure Private Link
+4. **AWS/Azure Private Link**
     - One-way communication between your network and Confluent Cloud
     - Only allows connections to be initiated from customer VPC/VNet toward Confluent Cloud
 

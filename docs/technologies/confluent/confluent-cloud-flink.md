@@ -137,7 +137,7 @@
 - [Get Help](https://docs.confluent.io/cloud/current/flink/get-help.html)
 - [FAQ](https://docs.confluent.io/cloud/current/flink/flink-faq.html)
 
-# Flink SQL Autopilot for Confluent Cloud
+## Flink SQL Autopilot for Confluent Cloud
 
 Autopilot scales up and scales down the compute resources that SQL statements use in Confluent Cloud for Apache Flink®. Autopilot assigns resources efficiently to SQL statements submitted in Confluent Cloud and provides elastic autoscaling for the entire time the job is running. One of the biggest benefits of using Confluent Cloud for Apache Flink is the built-in Autopilot capability.
 

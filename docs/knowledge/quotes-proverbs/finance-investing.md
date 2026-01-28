@@ -1,5 +1,7 @@
 # Finance / Investing
 
+In Investing - Exit matters far more than Entry
+
 Diversification using portfolio allocation and goal based investing are the only things that works in personal finance investing
 
 - Rule 1 - don't lose money (never get married to your investments)

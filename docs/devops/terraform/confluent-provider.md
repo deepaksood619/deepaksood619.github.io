@@ -11,7 +11,7 @@ git clone https://github.com/confluentinc/terraform-provider-confluent.git
 
 cd terraform-provider-confluent/examples/configurations
 
-// Using the example configuration //1 as an example 
+// Using the example configuration //1 as an example
 cd basic-kafka-acls
 
 terraform init

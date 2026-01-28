@@ -119,7 +119,8 @@ https://www.youtube.com/watch?v=qRT917PvEns
 ## Irish Domiciled (UCITS) ETFs
 
 Domiciled outside US - Replacing VOO, QQQ & VT with CSPX, SXRV & VWRA
-	- VWRA - Vanguard FTSE All-World UCITS ETF USD Acc
+
+- VWRA - Vanguard FTSE All-World UCITS ETF USD Acc
 
 You must strictly buy the **Accumulating** version. This ensures dividends are reinvested inside the fund automatically. You never receive cash in your bank account, so you generally don't trigger "Dividend Income" tax in India each year.
 

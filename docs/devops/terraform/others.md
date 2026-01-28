@@ -31,7 +31,7 @@ Your entire infrastructure. Defined as code. In about a day
 - AWS CloudFormation
 - [Terratest \| Automated tests for your infrastructure code.](https://terratest.gruntwork.io/)
 
-#### OpenTofu
+### OpenTofu
 
 The open source infrastructure as code tool.
 
@@ -46,7 +46,7 @@ The key features of OpenTofu are:
 - **Resource Graph**: OpenTofu builds a graph of all your resources, and parallelizes the creation and modification of any non-dependent resources. Because of this, OpenTofu builds infrastructure as efficiently as possible, and operators get insight into dependencies in their infrastructure.
 - **Change Automation**: Complex changesets can be applied to your infrastructure with minimal human interaction. With the previously mentioned execution plan and resource graph, you know exactly what OpenTofu will change and in what order, avoiding many possible human errors.
 
-##### Links
+#### Links
 
 - [OpenTofu](https://opentofu.org/)
 - [GitHub - opentofu/opentofu: OpenTofu lets you declaratively manage your cloud infrastructure.](https://github.com/opentofu/opentofu)

@@ -4,7 +4,7 @@
 
 The available commands for execution are listed below. The primary workflow commands are given first, followed by less common or more advanced commands.
 
-### Main commands
+## Main commands
 
 ```bash
 brew install terraform
@@ -16,7 +16,7 @@ apply         Create or update infrastructure
 destroy       Destroy previously-created infrastructure
 ```
 
-### Workflow
+## Workflow
 
 ```bash
 # basic
@@ -37,7 +37,7 @@ terraform apply tfplan
 terraform output resource-ids
 ```
 
-### Global options (use these before the subcommand, if any)
+## Global options (use these before the subcommand, if any)
 
 ```bash
 -chdir=DIR    Switch to a different working directory before executing the
@@ -46,7 +46,7 @@ terraform output resource-ids
 -version      An alias for the "version" subcommand.
 ```
 
-### All other commands
+## All other commands
 
 ```bash
 console       Try Terraform expressions at an interactive command prompt
@@ -70,6 +70,6 @@ version       Show the current Terraform version
 workspace     Workspace management
 ```
 
-#### Terraform refresh
+### Terraform refresh
 
 The `terraform refresh` command reads the current settings from all managed remote objects and updates the Terraform state to match.
