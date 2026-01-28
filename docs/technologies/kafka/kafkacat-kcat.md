@@ -27,6 +27,26 @@ apt-get install kafkacat
 
 ## Commands
 
+### Security Protocols
+
+```bash
+# broker metadata
+kcat -b lkc-abc123.us-east-2.aws.glb.confluent.cloud:9092 \
+-X security.protocol=sasl_ssl \
+-X sasl.mechanisms=PLAIN \
+-X sasl.username='api_key' \
+-X sasl.password='api_secret' \
+-L
+
+# producer
+kcat -b lkc-abc123.us-east-2.aws.glb.confluent.cloud:9092 \
+-X security.protocol=sasl_ssl \
+-X sasl.mechanisms=PLAIN \
+-X sasl.username='api_key' \
+-X sasl.password='api_secret' \
+-t sample_data_orders -P
+```
+
 ### Consumers
 
 High-level balanced KafkaConsumer: subscribe to topic1 and topic2 (requires broker >=0.9.0 and librdkafka version >=0.9.1)

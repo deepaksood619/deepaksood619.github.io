@@ -99,9 +99,15 @@ https://netflix.github.io/conductor
 
 ## Temporal
 
-Durable Execution: a new abstraction for developers
+**Durable Execution:** a new abstraction for developers
 
 Durable Execution is a development abstraction that preserves complete application state so that upon host or software failure it can seamlessly migrate execution to another machine.
+
+A **durable execution engine** ensures reliable, stateful execution of workflows and processes in distributed systems. It’s designed to manage workflows that are long-running, complex, or require durability across retries and failures. These engines:
+
+- Persist the state of workflows to durable storage (e.g., databases).
+- Automatically handle retries, timeouts, and rollbacks.
+- Manage distributed transactions in a fault-tolerant way.
 
 Temporal is an open source implementation of Durable Execution created by the originators of the abstraction.
 
@@ -118,6 +124,28 @@ The concepts, components, and features of the platform are described in detail a
 - [Visibility](https://docs.temporal.io/visibility)
 - [Namespaces](https://docs.temporal.io/namespaces)
 - [Data conversion](https://docs.temporal.io/dataconversion)
+
+### Event-driven Architecture
+
+Durable execution engines like Temporal and Restate are redefining how developers orchestrate long-running, stateful workflows in distributed systems. Unlike traditional BPM tools focused on human-centric tasks, these engines automate machine-to-machine processes with built-in durability, retries, and fault-tolerant coordination. When integrated with event-driven platforms like Apache Kafka, they enable scalable, resilient architectures—handling complex business logic such as order processing, fraud detection, and multi-step transactions. This blog explores their capabilities, differences from stream processing tools like Apache Flink, Kafka Streams or Spark Structured Streaming, and the emerging role they play in modern enterprise infrastructure.
+
+| Feature           | BPM Engine                                                                                                 | Durable Execution Engine                                                                                                                                    |
+| ----------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Focus             | Human workflows, approvals, and form-based processes                                                       | Optimized for long-running, automated, fault-tolerant service orchestration                                                                                 |
+| Durability        | Often limited to task-level state                                                                          | Built-in, state persists across failures                                                                                                                    |
+| Development Model | Visual workflow modeling                                                                                   | Code-first                                                                                                                                                  |
+| Scalability       | Limited scalability                                                                                        | Optimized for distributed, scalable systems                                                                                                                 |
+| Example Use Cases | Employee Onboarding, Invoice Approval Workflow, Loan Application Processing, Customer Complaint Resolution | Order Fulfillment in E-commerce, Insurance Claims Processing, Subscription Billing and Renewal, IoT Sensor Alert Workflow, Financial Transaction Settlement |
+
+#### Limitations of Apache Kafka for Workflow Orchestration
+
+While **Apache Kafka**, combined with stream processing, can act as a **workflow engine**, there are **limitations**:
+
+1. **Manual State Management**: Kafka, or more generally data streaming, lacks built-in tools for tracking workflow states or managing retries. Developers must implement these manually using patterns like saga orchestration.
+2. **Lack of Workflow Semantics**: Kafka Topics are excellent for messaging and as persistence layer for events, but stream processing lack built-in constructs like parallel execution or compensations.
+3. **Code Complexity**: Building a full-fledged workflow engine on Kafka and stream processing engines like Kafka Streams, Flink, or Spark Structured Streaming adds significant custom development overhead.
+
+[­­The Rise of the Durable Execution Engine (Temporal, Restate) in an Event-driven Architecture (Apache Kafka) - Kai Waehner](https://www.kai-waehner.de/blog/2025/06/05/the-rise-of-the-durable-execution-engine-temporal-restate-in-an-event-driven-architecture-apache-kafka/)
 
 ### Links
 

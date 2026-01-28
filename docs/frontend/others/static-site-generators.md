@@ -102,6 +102,8 @@ Transform your plain text into static websites and blogs
 - [Home | VuePress](https://vuepress.vuejs.org/)
 - Paid - [ReadMe](https://readme.com/)
 - [GitHub - outline/outline: The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.](https://github.com/outline/outline)
+- [GitHub - 11ty/eleventy: A simpler site generator. Transforms a directory of templates (of varying types) into HTML.](https://github.com/11ty/eleventy/)
+	- [Eleventy is a simpler static site generator](https://www.11ty.dev/)
 
 ### Comparison
 

@@ -277,3 +277,4 @@ Auto-scaling Kafka is complicated. It usually cannot be done just based on some 
 ## Others
 
 - [Install \| Lenses Docs](https://docs.lenses.io/latest/k2k/install)
+- [Migrating away from Confluent Kafka – real-world experience with Redpanda / Pulsar / others? : apachekafka](https://old.reddit.com/r/apachekafka/comments/1qmvzyl/migrating_away_from_confluent_kafka_realworld/)

@@ -45,7 +45,7 @@ Bring your data into the lakehouse without expensive pipeline management
 	4. Simple integration with Lakehouse (preview)
 	5. 10x requests per second compared to standard Amazon S3 buckets
 3. Table Maintenance for Iceberg Tables
-	1. **Compation:** Consolidate small objects into larger ones to improve query performance
+	1. **Compaction:** Consolidate small objects into larger ones to improve query performance
 	2. **Snapshot Retention:** Remove unused snapshots
 4. Redshift Managed Storage (RMS)
 	1. Publish data from your existing Amazon Redshift data warehouses to the Lakehouse

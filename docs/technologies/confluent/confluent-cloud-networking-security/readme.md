@@ -4,7 +4,7 @@
 
 [Cloud Networking \| Concepts and Options for Connecting with Apache Kafka® Clusters - YouTube](https://www.youtube.com/playlist?list=PLa7VYi0yPIH1AOUZPMZW-zNNLDYnqOinM)
 
-Presentation - [Confluent cloud networking presentation](https://cdn.confluent.io/wp-content/uploads/Confluent-Cloud-Networking.pptx?_ga=2.239579395.1670443327.1764938612-1932903465.1763960193&_gac=1.220584298.1764679887.Cj0KCQjwlN6wBhCcARIsAKZvD5hj6atmfBZmeFDY_T6d80dyl5Locblco5gjBN-nAd7pyV0QVyGqOPoaAin5EALw_wcB&_gl=1*7qhwin*_gcl_aw*R0NMLjE3NjQ2ODExMzUuQ2owS0NRandsTjZ3QmhDY0FSSXNBS1p2RDVoajZhdG1mQlptZUZEWV9UNmQ4MGR5bDVMb2NibGNvNWdqQk4tbkFkN3B5VjBRVnlHcU9Qb2FBaW41RUFMd193Y0I.*_gcl_au*MTg2MTEyNzg1NS4xNzY0MjczOTMy*_ga*MTkzMjkwMzQ2NS4xNzYzOTYwMTkz*_ga_D2D3EGKSGD*czE3NjUyNjcxNzIkbzE0JGcwJHQxNzY1MjY3MTcyJGo2MCRsMCRoMA..)
+Presentation - [Confluent cloud networking presentation](https://cdn.confluent.io/wp-content/uploads/Confluent-Cloud-Networking.pptx)
 
 1. [01-introduction](technologies/confluent/confluent-cloud-networking-security/01-introduction.md)
 2. [02-confluent-cloud-overview](technologies/confluent/confluent-cloud-networking-security/02-confluent-cloud-overview.md)
@@ -17,6 +17,7 @@ Presentation - [Confluent cloud networking presentation](https://cdn.confluent.i
 8. [08-aws-azure-private-link](technologies/confluent/confluent-cloud-networking-security/08-aws-azure-private-link.md)
 9. [Configure a Private Link Cluster (Hands-On)](https://developer.confluent.io/courses/confluent-cloud-networking/configure-private-link/)
 10. [10-best-networking-options](technologies/confluent/confluent-cloud-networking-security/10-best-networking-options.md)
+11. [11-confluent-cloud-with-private-networking](technologies/confluent/confluent-cloud-networking-security/11-confluent-cloud-with-private-networking.md)
 
 ## [Course: Introduction to Confluent Cloud Security](https://developer.confluent.io/courses/cloud-security/intro/)
 

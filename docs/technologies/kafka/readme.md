@@ -3,6 +3,7 @@
 - [Intro to Kafka](intro-to-kafka)
 - [Kafka Architecture](kafka-architecture)
 - [Installing Kafka](installing-kafka)
+- [Kafka Configurations](technologies/kafka/kafka-configurations.md)
 - [Kafka Topics](technologies/kafka/kafka-topics.md)
 - [Kafka Partitions](technologies/kafka/kafka-partitions.md)
 - [Kafka Message Key](technologies/kafka/kafka-message-key.md)

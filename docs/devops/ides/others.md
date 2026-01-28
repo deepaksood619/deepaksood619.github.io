@@ -81,7 +81,11 @@ Press `t` in any repository to access it and start typing the name of the file y
 
 https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly
 
-## Gmail
+## Gmail Search
+
+**Examples**
+
+- after: 2025/04/08 before: 2025/04/10
 
 | What you can search by                                                                                                                                                          | Search operator & example                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |

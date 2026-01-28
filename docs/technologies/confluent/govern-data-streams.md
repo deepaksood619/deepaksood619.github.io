@@ -66,6 +66,36 @@ The table below offers a high-level comparison of features across the governance
 | [Stream lineage](https://docs.confluent.io/cloud/current/stream-governance/stream-lineage.html#cloud-stream-lineage) ([point in time](https://docs.confluent.io/cloud/current/stream-governance/stream-lineage.html#stream-lineage-point-in-time): last 7 days)     | No                                                                                  | ✔ (Yes)            |
 | [AsyncAPI specification export and import](https://docs.confluent.io/cloud/current/stream-governance/async-api.html#stream-gov-async-api)                                                                                                                           | ✔ (Yes)                                                                             | ✔ (Yes)            |
 
+## Data Portal
+
+Data Portal is a self-service interface for discovering, exploring, and accessing Apache Kafka® topics on Confluent Cloud.
+
+Building new streaming applications and pipelines on top of Kafka can be slow and inefficient when there is a lack of visibility into what data exists, where it comes from, and who can grant access. Data Portal leverages [Stream Catalog](https://docs.confluent.io/cloud/current/stream-governance/stream-catalog.html#cloud-stream-catalog) and [Stream Lineage](https://docs.confluent.io/cloud/current/stream-governance/stream-lineage.html#cloud-stream-lineage) to empower data users to interact with their organization’s data streams efficiently and collaboratively.
+
+With Data Portal, data practitioners can:
+
+- **Search and discover existing topics** with the help of topic metadata and get a drill-down view to understand data they hold (without access to the actual data).
+- **Request access to topics** through an approval workflow that connects the data user with the data owner, and admins that can approve the request.
+- **View and use data in topics** (once access is granted) to build new streaming applications and pipelines.
+
+### Prerequisites and notes
+
+- Data Portal is available in [Confluent Cloud](https://docs.confluent.io/cloud/current/get-started/index.html#cloud-quickstart) for users with a [Stream Governance package enabled](https://docs.confluent.io/cloud/current/stream-governance/packages.html#stream-gov-packages) in their environments.
+- User-generated metadata should be appended to topics to make them discoverable and present them effectively on the Data Portal. In particular, description, [tags](https://docs.confluent.io/cloud/current/stream-governance/stream-catalog.html#catalog-apply-tags), [business metadata](https://docs.confluent.io/cloud/current/stream-governance/stream-catalog.html#catalog-apply-business-metadata) and owner name and email should be added to topics.
+- The topic access request workflow is not available for topics on [Basic clusters](https://docs.confluent.io/cloud/current/clusters/cluster-types.html#cloud-cluster-types).
+- The collaboration workflow for topic access requests through email is dependent upon having owner names and emails appended to topics.
+- Users need search [Stream Catalog](https://docs.confluent.io/cloud/current/stream-governance/stream-catalog.html#stream-catalog-rbac) permissions to use the Data Portal, at a minimum [DataDiscovery](https://docs.confluent.io/cloud/current/security/access-control/rbac/predefined-rbac-roles.html#datadiscovery-role) role. On the “add new user” workflow, the DataDiscovery role is pre-selected by default to give the user permission to use the Data Portal.
+- To approve access requests to topics, users need topic read and write granting permissions, in particular [ResourceOwner](https://docs.confluent.io/cloud/current/security/access-control/rbac/predefined-rbac-roles.html#resourceowner-role), [CloudClusterAdmin](https://docs.confluent.io/cloud/current/security/access-control/rbac/predefined-rbac-roles.html#cloudclusteradmin-role), [EnvironmentAdmin](https://docs.confluent.io/cloud/current/security/access-control/rbac/predefined-rbac-roles.html#environmentadmin-role) or [OrganizationAdmin](https://docs.confluent.io/cloud/current/security/access-control/rbac/predefined-rbac-roles.html#organizationadmin-role).
+- Users need query permissions on one or more compute pools to query data with Apache Flink®️, at a minimum [FlinkDeveloper](https://docs.confluent.io/cloud/current/flink/operate-and-deploy/flink-rbac.html#flink-rbac) role.
+
+The **"Access requests" tab in the "Accounts & access" section of Confluent Cloud is where you can view and manage all pending and past access requests for Kafka topics**. This tab is part of the Data Portal feature, which enables a self-service workflow for requesting and granting access to topics.
+
+[Data Portal on Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/stream-governance/data-portal.html)
+
+[Organize your data quickly and easily using Confluent Data Portal - YouTube](https://www.youtube.com/watch?v=Vg7k_3vlC3Q&)
+
+[Data Portal for Confluent Stream Governance](https://www.confluent.io/blog/data-portal-stream-governance/)
+
 ## Data Contracts for Schema Registry on Confluent Cloud
 
 [How To Improve Data Quality With Domain Validation Rules \| Data Quality Rules - YouTube](https://www.youtube.com/watch?v=3BoljGZf5as)

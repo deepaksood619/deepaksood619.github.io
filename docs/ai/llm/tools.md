@@ -133,6 +133,9 @@
 - [Dash AI Chat](https://www.usedash.ai/)
 	- [CTRL: Automated Outreach - YouTube](https://www.youtube.com/watch?v=g86A77PfSD0)
 - [producthunt.com/products/chat4data](https://www.producthunt.com/products/chat4data)
+- clawdbot / moltbot
+	- [Clawd Bot Explained In 5 mins (No Hype) - YouTube](https://www.youtube.com/watch?v=_6D4shWDnEc)
+	- [Clawdbot/moltbot Clearly Explained (and how to use it) - YouTube](https://www.youtube.com/watch?v=U8kXfk8enrY)
 
 ### SAAS / Products
 

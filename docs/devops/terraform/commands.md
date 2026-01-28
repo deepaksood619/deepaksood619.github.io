@@ -16,6 +16,27 @@ apply         Create or update infrastructure
 destroy       Destroy previously-created infrastructure
 ```
 
+### Workflow
+
+```bash
+# basic
+terraform init
+terraform plan
+terraform apply
+terraform destroy
+
+# advanced
+terraform init
+terraform plan -out=tfplan
+terraform show tfplan
+# or to review in JSON format
+terraform show -json tfplan
+
+terraform apply tfplan
+
+terraform output resource-ids
+```
+
 ### Global options (use these before the subcommand, if any)
 
 ```bash

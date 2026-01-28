@@ -42,7 +42,7 @@ Ctrl-b = :set -g mouse on
     ctrl+b + z
 ```
 
-### Iterm commands on local
+### Iterm / iterm2 commands on local
 
 ```bash
 Command + D (split vertically)

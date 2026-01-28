@@ -16,7 +16,7 @@ eCKU - Elastic Confluent Unit for Kafka
 
 ### Elastic scaling
 
-Basic, Standard, Enterprise, and Freight clusters are elastic, shrinking and expanding automatically based on load. You don’t resize these clusters (unlike Dedicated clusters). When you need more capacity, your cluster expands up to the fixed ceiling. If you’re not using capacity above the minimum, you’re not paying for it. If you’re at zero capacity, you don’t pay for anything. For more information, see [Elastic Confluent Unit for Kafka](https://docs.confluent.io/cloud/current/billing/overview.html#e-cku-definition) and [eCKU/CKU comparison](https://docs.confluent.io/cloud/current/clusters/cluster-types.html?_ga=2.105087683.1569428443.1713164733-1694025920.1701714516&_gl=1*1twk7ik*_ga*MTY5NDAyNTkyMC4xNzAxNzE0NTE2*_ga_D2D3EGKSGD*MTcxMzQ1NTkzMC4yNDQuMS4xNzEzNDYxMjI0LjU3LjAuMA..#e-cku-details).
+Basic, Standard, Enterprise, and Freight clusters are elastic, shrinking and expanding automatically based on load. You don’t resize these clusters (unlike Dedicated clusters). When you need more capacity, your cluster expands up to the fixed ceiling. If you’re not using capacity above the minimum, you’re not paying for it. If you’re at zero capacity, you don’t pay for anything. For more information, see [Elastic Confluent Unit for Kafka](https://docs.confluent.io/cloud/current/billing/overview.html#e-cku-definition) and [eCKU/CKU comparison](https://docs.confluent.io/cloud/current/clusters/cluster-types.html#e-cku-details).
 
 ### Freight clusters scaling considerations
 

@@ -1,5 +1,10 @@
 # Log Compaction
 
+Kafka log compaction is a r**etention policy that keeps only the latest message for each key in a topic partition**, creating a log with a complete snapshot of the final values, rather than deleting by time or size.
+
+- `cleanup.policy=compact`
+- Configurable through broker settings like `log.cleaner.max.compaction.lag.ms` and `log.roll.hours` to control cleaning frequency and intensity.
+
 Log compaction is a mechanism to give finer-grained per-record retention, rather than the coarser-grained time-based retention. The idea is to selectively remove records where we have a more recent update with the same primary key. This way the log is guaranteed to have at least the last state for each key.
 
 ![image](../../media/Technologies-Kafka-Intro-image2.jpg)

@@ -14,24 +14,6 @@ The producer is the creator of the message in Kafka
 	- Kafka's default partitioner routes messages based on the k**ey's hash, unless the key is null in which case it uses round robin to distribute messages.**
 - When the broker receives the messages, it sends back a response. If the messages were successfully written to Kafka, it will return a RecordMetadata object with the topic, partition, and the offset of the record within the partition. If the broker failed to write the messages, it will return an error. When the producer receives an error, it may retry sending the message a few more times before giving up and returning an error.
 
-## Configurations
-
-- bootstrap.servers
-- key.serializer
-- value.serializer
-- acks `[0, 1 (when leader has received the message), all]`
-- buffer.memory
-- compression.type
-- retries
-- batch.size
-- linger.ms
-- client.id
-- max.in.flight.requests.per.connection
-- timeout.ms, request.timeout.ms, and metadata.fetch.timeout.ms
-- max.block.ms
-- max.request.size
-- receive.buffer.bytes and send.buffer.bytes
-
 ## Three primary methods of sending messages
 
 ### Fire-and-forget

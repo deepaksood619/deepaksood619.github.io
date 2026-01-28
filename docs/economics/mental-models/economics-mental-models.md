@@ -360,6 +360,17 @@ r- At a 0% tax rate, there is no tax revenue.
 
 [How the Ideal Tax Rate Is Determined: The Laffer Curve](https://www.investopedia.com/articles/08/laffer-curve.asp)
 
+## Kindleberger-Minsky model
+
+The Kindleberger-Minsky model merges Charles Kindleberger's historical analysis of financial crises with Hyman Minsky's "Financial Instability Hypothesis," providing a framework where capitalist economies naturally produce speculative bubbles, panics, and crashes due to the inherent instability of credit. It emphasizes that prolonged prosperity breeds risk-taking, leading to instability that requires a lender of last resort.  
+
+**Key Aspects of the Minsky-Kindleberger Framework:**
+
+- **The Cycle:** Based on Kindleberger’s _Manias, Panics, and Crashes_ (1978), the model outlines five stages: Displacement (a shock), Boom (euphoria/credit expansion), Overtrading (speculation), Revulsion (realization of risk), and Tranquility.
+- **Minsky's Contribution:** Minsky provided the theoretical engine, focusing on how financial systems move from hedge (stable) to speculative, and finally Ponzi (unstable) finance, where debt servicing relies on rising asset prices.
+- **Shared Perspective:** Both were outsiders in the post-WWII economics academy, favoring American institutionalism over neoclassical models. They argued that instability is inherent to capitalism, not just an exogenous shock.
+- **Policy Implications:** Kindleberger highlighted the crucial need for an international lender of last resort (like central banks) to act during panics to prevent depressions.
+
 ## Links
 
 - [Marginal Utility / Analysis](marginal-utility-analysis)

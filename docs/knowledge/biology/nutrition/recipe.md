@@ -103,6 +103,12 @@
 - Add water for gravy and bring to boil
 - Serve and eat
 
+## Air Fryer
+
+- [Why Your Air Fryer Food Fails & How to Fix It! I एयरफ्रायर में ना करें ये गलतियां I Pankaj Bhadouria - YouTube](https://www.youtube.com/watch?v=jBgw5BEIulc)
+- [Air Fryer Tandoori Mushrooms - Spicy Mushroom Tikka - Fast Curries](https://fastcurries.com/2019/07/11/air-fryer-spicy-tandoori-mushrooms/)
+- [Eggplant + Air Fryer = My New Obsession!](https://youtu.be/hQNx6jDdqVM)
+
 ## Other Recipes
 
 - [Easy Lemon Chicken Recipe-Oil Free Lemon Chicken-Diet Lemon Chicken-How to cook oil free Chicken(SUB](https://www.youtube.com/watch?v=MXhYPZ9KQT4)
@@ -112,7 +118,6 @@
 	- High Flame - 1 whistle
 	- Gas off - don't open till cool
 - [Jab Koi Sabji Na Ho Toh Sirf 5 Minute May Banaiye Ye Zabardast Recipe - Pet Bharega Dil Nahi - CWF](https://www.youtube.com/watch?v=2Ln3b37gJlE)
-- [Air Fryer Tandoori Mushrooms - Spicy Mushroom Tikka - Fast Curries](https://fastcurries.com/2019/07/11/air-fryer-spicy-tandoori-mushrooms/)
 - [Khichdi Recipe | Simple & Healthy Khichdi | Masala Khichdi Recipe | Comfort Food | Chef Kunal Kapur - YouTube](https://www.youtube.com/watch?v=TvTMsUeC-z4&ab_channel=KunalKapur)
 - [Just Oats & Spinach! No Flour, No Sugar, No Yeast – Lose 15kg Fast! - YouTube](https://www.youtube.com/watch?v=A_gUfK4Y_qA&ab_channel=Nourish%26Savor)
 - [Cafe Style BUTTER GARLIC EGGs 10 Min RECIPE \| Breakfast Eggs Recipe \| EGGS in Butter Garlic Sauce - YouTube](https://www.youtube.com/watch?v=nIv465yPI1c)

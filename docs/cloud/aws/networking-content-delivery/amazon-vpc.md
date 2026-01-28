@@ -351,6 +351,11 @@ Transit VPC is not the right solution for this use-case as Transit Gateway provi
 
 Consider an organization that has built a hub-and-spoke network with AWS Transit Gateway. VPCs have been provisioned into multiple AWS accounts, perhaps to facilitate network isolation or to enable delegated network administration. When deploying distributed architectures such as this, a popular approach is to build a "**shared services VPC**, which provides access to services required by workloads in each of the VPCs. This might include directory services or VPC endpoints. Sharing resources from a central location instead of building them in each VPC may reduce administrative overhead and cost.
 
+### Pricing
+
+- Transit Gateway (TGW) is generally more expensive than VPC Peering due to hourly attachment fees $0.05/hour per attachment, (approx $36/month) and data processing charges $0.02/GB).
+- While VPC Peering is free for data transfer within the same AZ and lower-cost cross-AZ/region, TGW is better for complex, large-scale architectures requiring centralized management.
+
 ## Others
 
 - [What is VPC peering? - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html)

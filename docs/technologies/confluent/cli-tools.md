@@ -105,11 +105,34 @@
 - **schema-registry-stop** - This tool stops Schema Registry. For more information, see [Schema Registry API Usage Examples for Confluent Platform](https://docs.confluent.io/platform/current/schema-registry/develop/using.html#schemaregistry-using).
 - **schema-registry-stop-service** - This tool stops all running instances of the Schema Registry. For more information, see [Schema Registry API Usage Examples for Confluent Platform](https://docs.confluent.io/platform/current/schema-registry/develop/using.html#schemaregistry-using).
 
+## Trogdor
+
+This tool is a test framework for Kafka. Trogdor can run benchmarks and other workloads. Trogdor can also inject faults in order to stress test the system.
+
+```bash
+The Trogdor fault injector.
+
+Usage:
+  ./trogdor.sh [action] [options]
+
+Actions:
+  agent: Run the trogdor agent.
+  coordinator: Run the trogdor coordinator.
+  client: Run the client which communicates with the trogdor coordinator.
+  agent-client: Run the client which communicates with the trogdor agent.
+  help: This help message.
+```
+
+[kafka/TROGDOR.md at master · a0x8o/kafka · GitHub](https://github.com/a0x8o/kafka/blob/master/TROGDOR.md)
+
+[The Kafka benchmarking suite \| The Write Ahead Log](https://platformatory.io/blog/kafka-client-performance-metrics/)
+
+Alternative - [The OpenMessaging Benchmark Framework](https://openmessaging.cloud/docs/benchmarks/)
+
 ## Others
 
 - **security-plugins-run-class** - This tool is a thin wrapper around the Confluent Security Plugins Java class. It is mainly used by the start and stop scripts and should not be run by itself.
 - **sr-acl-cli** - This tool runs the Schema Registry ACL CLI tool. For more information, see [Schema Registry ACL Authorizer for Confluent Platform](https://docs.confluent.io/platform/current/confluent-security-plugins/schema-registry/authorization/sracl_authorizer.html#confluentsecurityplugins-sracl-authorizer).
-- **trogdor** - This tool is a test framework for Kafka. Trogdor can run benchmarks and other workloads. Trogdor can also inject faults in order to stress test the system.
 
 ## Links
 
