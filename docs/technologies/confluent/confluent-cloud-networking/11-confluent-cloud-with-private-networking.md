@@ -24,7 +24,7 @@ To view and manage your Confluent resources on a private network in Confluent Cl
 
 Note - This option involves configuring external components, such as proxies, SSH tunnels, and DNS in your network.
 
-```
+```bash
 CIDR for creating new AWS VPC - 10.0.0.0/16
 CIDR for Confluent Cloud, when creating network in confluent cloud - 10.1.0.0/16
 ```

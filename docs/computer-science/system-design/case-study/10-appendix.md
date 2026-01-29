@@ -23,7 +23,7 @@ Using Confluent **Stream Lineage**, BFB can visualize the data flow.
 
 - **Node 1 (Source):** `POS_Connector` (Datagen) -> Topic: `loan_applications`
 - **Node 2 (Process):** `Flink_Router_Job`
-    - -> Path A: Topic `internal_checks`  
+    - -> Path A: Topic `internal_checks`
     - -> Path B: Topic `external_checks`
     - **Node 3 (Process):** `Flink_Enrichment_Job` (The Async Bureau Lookup)
 - **Node 4 (Sink):** Topic `loan_decisions` -> `POS_Response_Service`
@@ -57,7 +57,7 @@ async def get_score(req: CreditRequest):
     # e.g. SSN ending in 9 always fails
     if req.ssn.endswith("9"):
         return {"ssn": req.ssn, "score": 450}
-        
+
     return {
         "ssn": req.ssn,
         "score": random.randint(300, 850)
@@ -75,8 +75,8 @@ CREATE CONNECTION CreditBureauConn WITH (
   'type' = 'rest',
   'endpoint' = 'https://api.mock-bureau.com',
   -- For a real bureau, we would use proper auth
-  -- 'api-key' = '<SECRET_API_KEY>' 
-  'auth.type' = 'none' 
+  -- 'api-key' = '<SECRET_API_KEY>'
+  'auth.type' = 'none'
 );
 ```
 

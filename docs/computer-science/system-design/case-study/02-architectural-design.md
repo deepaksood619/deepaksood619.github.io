@@ -9,17 +9,17 @@ The architecture follows a "Split-Enrich-Merge" pattern, designed to isolate the
 1. **Ingestion Layer:** POS terminals send Loan Application events to the `loan_applications` topic in Confluent Cloud via a secure API Gateway (using Confluent REST Proxy or native Producer clients).
 2. **Routing Layer (Flink):** A Flink job consumes the `loan_applications` topic. It inspects the payload to determine if the applicant is `KNOWN` or `UNKNOWN`. It splits the stream into two distinct logical paths: `internal_processing_stream` and `external_processing_stream`.
 3. **Internal Enrichment Layer (The Fast Lane):**
-    - The `internal_processing_stream` is joined with the `customer_360` topic.  
-    - The `customer_360` topic is populated by the Oracle CDC connector, containing real-time snapshots of existing customers.  
+    - The `internal_processing_stream` is joined with the `customer_360` topic.
+    - The `customer_360` topic is populated by the Oracle CDC connector, containing real-time snapshots of existing customers.
     - The join is a **Temporal Join**, ensuring the application is evaluated against the customer's status _at the exact time of application_.
 4. **External Enrichment Layer (The Async Lane):**
-    - The `external_processing_stream` is processed by a Flink job utilizing **Async I/O**.  
-    - This job makes a non-blocking HTTP request to the Credit Bureau API.  
-    - While waiting for the bureau to respond (e.g., 500ms), Flink continues to process other records.  
+    - The `external_processing_stream` is processed by a Flink job utilizing **Async I/O**.
+    - This job makes a non-blocking HTTP request to the Credit Bureau API.
+    - While waiting for the bureau to respond (e.g., 500ms), Flink continues to process other records.
     - Once the response arrives, the event is enriched with the credit score.
 5. **Decisioning & Egress:**
-    - Both streams merge into a final Scoring Operator (Flink SQL `CASE` logic).  
-    - The result (`APPROVED` / `DECLINED`) is written to the `loan_decisions` topic.  
+    - Both streams merge into a final Scoring Operator (Flink SQL `CASE` logic).
+    - The result (`APPROVED` / `DECLINED`) is written to the `loan_decisions` topic.
     - The POS system (listening via WebSocket or long-polling) receives the decision.
 
 ## Detailed Data Flow and Schema Design
@@ -34,7 +34,7 @@ Defining the schema is the first step in ensuring system stability. We utilize A
   "name": "LoanApplication",
   "type": "record",
   "fields":}},
-    {"name": "applicant_details", "type": "com.bfb.PII.Applicant"} 
+    {"name": "applicant_details", "type": "com.bfb.PII.Applicant"}
   ]
 }
 ```
@@ -54,8 +54,8 @@ Instead, we use the **Side-Car Database Pattern** implemented via Kafka.
 In Flink SQL, we model this topic as a versioned table. When a loan application arrives at `T1`, Flink joins it with the state of the customer record as it existed at `T1`.
 
 ```sql
-SELECT 
-  L.application_id, 
+SELECT
+  L.application_id,
   C.credit_limit - C.current_balance AS available_credit
 FROM loan_applications AS L
 JOIN customer_360 FOR SYSTEM_TIME AS OF L.timestamp AS C
@@ -86,15 +86,15 @@ By using this pattern, a single Flink task can manage thousands of concurrent AP
 Confluent Cloud Flink supports this via the `KEY_SEARCH_AGG` function or specialized REST lookup connectors that support the `lookup.async` hint.
 
 ```sql
-SELECT 
-  L.application_id, 
+SELECT
+  L.application_id,
   Bureau.fico_score
 FROM loan_applications AS L
 JOIN LATERAL TABLE (
   KEY_SEARCH_AGG(
-    'CreditBureauRestService', 
-    DESCRIPTOR(ssn), 
-    L.applicant_ssn, 
+    'CreditBureauRestService',
+    DESCRIPTOR(ssn),
+    L.applicant_ssn,
     MAP['async_enabled', 'true', 'capacity', '100']
   )
 ) AS Bureau ON TRUE;

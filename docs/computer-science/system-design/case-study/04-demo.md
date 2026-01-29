@@ -1,4 +1,4 @@
-## Demo
+# Demo
 
 ## Component 1: Traffic Generator (POS Simulator)
 
@@ -6,8 +6,8 @@ We will use the **Datagen Source Connector** available in Confluent Cloud.
 
 - **Purpose:** Simulate a stream of loan applications.
 - **Configuration:** We define a custom Avro schema for the `loan_applications` topic.
-    - `applicant_type`: Randomly distributed between `KNOWN` and `UNKNOWN`.  
-    - `amount`: Random values between $100 and $5000.  
+    - `applicant_type`: Randomly distributed between `KNOWN` and `UNKNOWN`.
+    - `amount`: Random values between $100 and $5000.
     - `ssn`: Random strings (mocking PII).
     - **Scale:** We will configure Datagen to produce 10 events/second to demonstrate the system handling a continuous stream.
 
@@ -17,9 +17,9 @@ We need a REST endpoint that Flink can call.
 
 - **Tool:** A simple Python (FastAPI) or Node.js container running on a cloud function or local tunnel (e.g., ngrok).
 - **Behavior:**
-    - Endpoint: `POST /v1/score`  
-    - Input: `{"ssn": "..."}`  
-    - Logic: Sleep for `random(200, 1000)` milliseconds. This artificially introduces latency to prove the Async I/O capability.  
+    - Endpoint: `POST /v1/score`
+    - Input: `{"ssn": "..."}`
+    - Logic: Sleep for `random(200, 1000)` milliseconds. This artificially introduces latency to prove the Async I/O capability.
     - Output: `{"score": random(300, 850)}`
     - **Why this matters:** This mock allows us to visually demonstrate that Flink is processing multiple records in parallel despite the 1-second delay per request.
 
@@ -60,9 +60,9 @@ This query demonstrates the conditional logic and the external lookup.
 
 ```sql
 INSERT INTO LoanDecisions
-SELECT 
+SELECT
   L.request_id,
-  CASE 
+  CASE
     -- Logic for Known Customers (Simplified for Demo)
     WHEN L.applicant_type = 'KNOWN' THEN 'APPROVED'
     -- Logic for Unknown: Check Credit Score from External API

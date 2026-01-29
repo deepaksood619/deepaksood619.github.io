@@ -1,4 +1,4 @@
-## Solution
+# Solution
 
 **Big Friendly Bank: Architectural Blueprint for Real-Time Point-of-Sale Financing and Credit Decisioning**
 

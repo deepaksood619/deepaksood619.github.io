@@ -43,7 +43,7 @@ BFB requires high availability. A regional outage cannot stop loan processing ac
 We utilize **Confluent Cluster Linking** to create a robust DR strategy.
 
 - **Architecture:** Active-Passive.
-    - **Region A (Primary):** Handles all POS traffic and Flink processing.  
+    - **Region A (Primary):** Handles all POS traffic and Flink processing.
     - **Region B (DR):** Serves as a standby.
     - **Replication:** A Cluster Link is established from Region A to Region B. It replicates the `loan_applications`, `customer_360`, and `loan_decisions` topics byte-for-byte.
 - **Offset Sync:** Crucially, Cluster Linking replicates **Consumer Offsets**. This means the state of the Flink application (which records it has processed) is constantly backed up to Region B.
