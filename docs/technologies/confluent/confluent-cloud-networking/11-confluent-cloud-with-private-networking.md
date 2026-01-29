@@ -11,15 +11,15 @@ Note - If you’ve configured access to Confluent resources as described in this
 To view and manage your Confluent resources on a private network in Confluent Cloud Console with a client computer, you have the following options:
 
 - [Enable the Resource metadata access option](https://docs.confluent.io/cloud/current/networking/ccloud-console-access.html)
-    
+
     If you only need to view topics and their metrics information, or if you need to use the Stream Lineage feature on the Confluent Cloud Console, you can enable the Resource metadata access option on the Confluent Cloud Console.
-    
+
     This option does not allow you to view topics data/messages.
-    
+
 - [Create a connection to the network that hosts the private cluster endpoints](https://docs.confluent.io/cloud/current/networking/ccloud-console-access.html)
-    
+
     For your Confluent clients (Confluent Cloud Console, REST API, CLI, Terraform, and Kafka API) from outside the private network to have access to the full functionality of Confluent Cloud, create and use a connection to the network that hosts the private endpoints.
-    
+
     For example, to manage topics (create/update/delete), to produce to/consume from topics, or to manage ksqlDB queries, create a connection to the network that hosts the private cluster endpoints, and then update your DNS configuration for topics or ksqlDB endpoints to use that connection.
 
 Note - This option involves configuring external components, such as proxies, SSH tunnels, and DNS in your network.

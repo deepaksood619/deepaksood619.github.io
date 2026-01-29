@@ -16,6 +16,7 @@
 ## Documentation Outline
 
 [Manage Networking](https://docs.confluent.io/cloud/current/networking/index.html)
+
 - [Confluent Cloud Networking Overview](https://docs.confluent.io/cloud/current/networking/overview.html)
 - [Networking on AWS](https://docs.confluent.io/cloud/current/networking/aws-index.html)
 	- [AWS Networking Overview](https://docs.confluent.io/cloud/current/networking/aws-overview.html)

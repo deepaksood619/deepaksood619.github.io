@@ -262,6 +262,7 @@ MuleSoft is a platform that gives IT the tools to automate everything. This incl
 - [Paying for software is stupid… 10 free and open-source SaaS replacements - YouTube](https://www.youtube.com/watch?v=e5dhaQm_J6U)
 - [GitHub - 738/awesome-url-shortener: 🔗 A curated list of awesome url shortener](https://github.com/738/awesome-url-shortener)
 	- [Bitly Connections Platform \| Short URLs, QR Codes, and More](https://bitly.com/)
+		- [The Bitly QR Code Inspiration Gallery](https://bitly.com/pages/resources/qr-code-inspiration-gallery/)
 	- [Dub.co - Link Management for Modern Marketing Teams](https://dub.co/)
 - Doc Send
 	- [Secure Document Sharing, eSignatures & Analytics](https://www.docsend.com/)

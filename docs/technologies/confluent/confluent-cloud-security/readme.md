@@ -10,6 +10,7 @@
 ## Documentation Outline
 
 [Manage Security](https://docs.confluent.io/cloud/current/security/index.html)
+
 - [Overview](https://docs.confluent.io/cloud/current/security/overview.html)
 - [Manage Authentication](https://docs.confluent.io/cloud/current/security/authenticate/index.html)
 	- [Overview](https://docs.confluent.io/cloud/current/security/authenticate/overview.html)

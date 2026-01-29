@@ -10,12 +10,6 @@ The consumer is the receiver of the message in Kafka
 
 ## Inner Working
 
-### Rebalance
-
-- Moving partition ownership from one consumer to another
-- During a rebalance, consumers can't consume messages, so a rebalance is basically a short window of unavailability of the entire consumer group
-- when partitions are moved from one consumer to another, the consumer loses its current state; if it was caching any data, it will need to refresh its caches - slowing down the application until the con‐ sumer sets up its state again.
-
 ### Heartbeats
 
 - The way consumers maintain membership in a consumer group and ownership of the partitions assigned to them is by sending *heartbeats* to a Kafka broker designated as the *group coordinator* (this broker can be different for different consumer groups).
@@ -26,6 +20,23 @@ The consumer is the receiver of the message in Kafka
 
 [Resolving the "The coordinator is not aware of this member" Error in Kafka Consumers | by Joao Furtado | Mercafacil | Medium](https://medium.com/mercafacil/resolving-the-the-coordinator-is-not-aware-of-this-member-error-in-kafka-consumers-c1694d46b7a5)
 
+### Rebalance
+
+- Moving partition ownership from one consumer to another
+- During a rebalance, consumers can't consume messages, so a rebalance is basically a short window of unavailability of the entire consumer group
+- when partitions are moved from one consumer to another, the consumer loses its current state; if it was caching any data, it will need to refresh its caches - slowing down the application until the con‐ sumer sets up its state again.
+
+### The Assignment Workflow (The Rebalance Protocol)
+
+1. **Find Coordinator:** Consumers send a request to any broker to find out which broker is their Group Coordinator.
+2. **JoinGroup Phase:** All consumers send a `JoinGroup` request to the Coordinator. They include metadata, such as which topics they subscribe to.
+3. **Leader Election:** The Coordinator selects the first consumer to join as the **Group Leader**.
+4. **Distributing Info:** The Coordinator sends the list of all active members to the Group Leader. (Other members just get a "wait" response).
+5. **Assignment (The Decision):** The **Group Leader** runs a partition assignment algorithm (see section 3 below) to map partitions to members.
+6. **SyncGroup Phase:**
+    - The Leader sends the final assignments for *everyone* back to the Coordinator via a `SyncGroup` request.
+    - Other members also send a `SyncGroup` request to the Coordinator (essentially asking, "What is my assignment?").
+
 ### How Does the Process of Assigning Partitions to Brokers Work?
 
 - When a consumer wants to join a group, it sends a `JoinGroup` request to the group coordinator. The first consumer to join the group becomes the **group leader**. The leader receives a list of all consumers in the group from the group coordinator (this will include all consumers that sent a heartbeat recently and which are therefore considered alive) and is responsible for assigning a subset of partitions to each consumer. It uses an implementation of PartitionAssignor to decide which partitions should be handled by which consumer.
@@ -35,6 +46,14 @@ The consumer is the receiver of the message in Kafka
 ### The poll loop
 
 At the heart of the consumer API is a simple loop for polling the server for more data. Once the consumer subscribes to topics, the poll loop handles all details of coordination, partition rebalances, heartbeats, and data fetching, leaving the developer with a clean API that simply returns available data from the assigned partitions.
+
+#### Difference between Poll Loop and Fetch
+
+- **Poll Loop (`consumer.poll()`):** This is the high-level API method the application calls. It is the "heartbeat" of the consumer. It handles:
+    - **Coordination:** Sending heartbeats to the Consumer Group Coordinator to say "I am alive."
+    - **Rebalancing:** Handling partition assignments if other consumers join/leave.
+    - **Retrieving Records:** It returns the records to your code.
+- **Fetch:** This is the internal network request mechanism. While `poll()` is running, the consumer client creates "Fetch Requests" to send to the brokers to pull raw bytes. The `poll()` loop wraps these fetch requests and manages the complexity of parsing the batches into individual records.
 
 ## Configuration of Consumers
 
@@ -165,7 +184,18 @@ Takes all the partitions from all subscribed topics and assigns them to consumer
 
 ### 3. StickyAssignor
 
+The goal here is two-fold: create a balanced assignment, but also minimize the number of partitions that move from one consumer to another during a rebalance.
+
+- **Why use it:** Moving a partition is expensive (the consumer has to drop local cache/state and the new owner has to rebuild it). Sticky assignment tries to keep partitions with their previous owners as much as possible.
+
 https://medium.com/streamthoughts/understanding-kafka-partition-assignment-strategies-and-how-to-write-your-own-custom-assignor-ebeda1fc06f3
+
+### 4.  Cooperative Sticky Assignor (Incremental)
+
+This is the modern standard (available since Kafka 2.4).
+
+- **The Old Way (Eager Rebalance):** Historically, when a rebalance started, everyone had to stop processing, give up *all* partitions, and wait for new assignments. This is a "stop-the-world" event.
+- **The New Way (Cooperative):** Consumers only give up partitions that *need* to be moved to a different consumer. They keep processing their current partitions while the rebalance happens in the background.
 
 ## Links
 

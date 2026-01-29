@@ -37,3 +37,15 @@ Relatedly, here is a config snippet for a client, specifying that SASL_SSL shoul
 security.protocol=SASL_SSL
 bootstrap.servers=broker1.example.com:9092,broker2.example.com:9092
 ```
+
+### How does Kafka handle authentication?
+
+Kafka handles authentication primarily through **SASL** (Simple Authentication and Security Layer) and **mTLS** (Mutual TLS). This ensures the broker knows exactly who is connecting (client to broker) and that brokers can verify each other (broker to broker).
+
+Supported mechanisms include:
+
+- **mTLS (SSL Client Authentication):** The client provides a signed certificate. This is the strongest form of security as it handles both encryption and authentication.
+- **SASL/PLAIN:** Simple username/password validation (should always be used with SSL encryption).
+- **SASL/SCRAM:** Salted Challenge Response Authentication Mechanism (more secure than PLAIN as passwords aren't sent over the wire).
+- **SASL/GSSAPI (Kerberos):** Used often in enterprise environments (e.g., Active Directory integration).
+- **SASL/OAUTHBEARER:** Token-based authentication using OAuth 2.0 standards.

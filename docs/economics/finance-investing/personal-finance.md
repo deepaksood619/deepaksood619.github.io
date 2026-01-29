@@ -139,3 +139,5 @@ Use money to buy peace. And, use your peace to make (fewer but) better strategic
 - [Keep PPF account forever, Don't close after 15 years | Get 24000 rupees ...](https://youtu.be/aDOdD3dqXCw)
 - [Home Loan Mistakes That Cost You LAKHS - How to Pay Off Faster | Ankur W...](https://youtu.be/_6gcdQQTXa8)
 - [Movies Every Trader Should Watch | In The Money by Zerodha](https://youtu.be/dh-wR0crcs4)
+- [Education Loan for Higher Studies – Who Pays for the Borrowed Dream – Part 1?](https://freefincal.com/education-loan-for-higher-studies-who-pays-for-the-borrowed-dream-part-1/)
+- [Education Loan: Part 2 – The Two Faces of the Degree](https://freefincal.com/education-loan-part-2-the-two-faces-of-the-degree/)

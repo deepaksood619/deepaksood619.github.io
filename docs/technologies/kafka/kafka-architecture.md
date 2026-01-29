@@ -77,6 +77,16 @@ value = offset
 | record    | A record contains a key, a value, a timestamp, and a list of headers.             |
 | broker    | Servers where records are stored. Multiple brokers can be used to form a cluster. |
 
+### Segment File
+
+A Kafka **Partition** is technically a directory of files. It would be impossible to store all messages for a partition in a single massive file (it would be hard to delete old data or scale).
+
+Instead, Kafka splits the partition log into smaller files called **Segments**.
+
+- **Structure:** A segment consists of a `.log` file (actual data) and an `.index` file (maps offsets to byte positions).
+- **Rolling:** When a segment reaches a size limit (e.g., 1GB) or a time limit (e.g., 7 days), the file is closed, and a new "active" segment is created.
+- **Cleanup:** Segment files are the unit of deletion. When a log cleanup policy kicks in (delete data older than X days), Kafka deletes the entire old segment file.
+
 ## Retention Policy
 
 | **RETENTION POLICY** | **MEANING**                                          |
