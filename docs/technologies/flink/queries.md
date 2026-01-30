@@ -26,6 +26,35 @@ CREATE TABLE employee_information (
 SELECT * from employee_information WHERE dept_id = 1;
 ```
 
+**Create table supported options**
+
+- changelog.mode
+- connector
+- error-handling.log.target
+- error-handling.mode
+- kafka.cleanup-policy
+- kafka.compaction.time
+- kafka.consumer.isolation-level
+- kafka.max-message-size
+- kafka.message-timestamp-type
+- kafka.producer.compression.type
+- kafka.retention.size
+- kafka.retention.time
+- key.fields-prefix
+- key.format
+- key.raw.charset
+- key.raw.endianness
+- scan.bounded.mode
+- scan.bounded.specific-offsets
+- scan.bounded.timestamp-millis
+- scan.startup.mode
+- scan.startup.specific-offsets
+- scan.startup.timestamp-millis
+- value.fields-include
+- value.format
+- value.raw.charset
+- value.raw.endianness
+
 ## Examples
 
 ```sql
