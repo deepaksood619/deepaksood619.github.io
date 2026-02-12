@@ -32,6 +32,8 @@ An Advocate (INFJ) is someone with the [Introverted](https://www.16personalities
 
 Introverted individuals tend to prefer fewer, yet deep and meaningful, social interactions and often feel drawn to calmer environments.
 
+- Ambiverts not extrovert and not introvert
+
 #### Energy - Intuitive
 
 Intuitive individuals are very imaginative, open-minded, and curious. They value originality and focus on hidden meanings and distant possibilities.

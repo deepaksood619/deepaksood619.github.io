@@ -169,3 +169,4 @@ ClickHouse supports both virtual views and materialized views. The materialized 
 - [ChatGPT - ClickHouse Key Concepts](https://chatgpt.com/share/68458177-a150-8005-a748-8008535ccd5e)
 - [Working with Time Series Data in ClickHouse](https://clickhouse.com/blog/working-with-time-series-data-and-functions-ClickHouse)
 	- [Query performance - Time-series \| ClickHouse Docs](https://clickhouse.com/docs/use-cases/time-series/query-performance)
+- [The Journey to Zero-Copy: How chDB Became the Fastest SQL Engine on Pandas DataFrame](https://clickhouse.com/blog/chdb-journey-to-zero-copy)

@@ -157,7 +157,7 @@ Note that the Resource metadata access option only controls access on the Conflu
 
 The Resource metadata access option is read-only. Even if you have the DeveloperWrite access or above on a topic and have the Resource metadata access option enabled, you cannot create, edit, or delete topics. Management operations (create, update, and delete) still require setting up a proxy or SSH as described in [Create a connection to the network that hosts the private cluster endpoints](https://docs.confluent.io/cloud/current/networking/ccloud-console-access.html#ccloud-console-with-private-connection).
 
-Before you enable the Resource metadata access option, review the following information:
+**Before you enable the Resource metadata access option, review the following information:**
 
 - You access topic metadata (name and settings) on the Confluent Cloud Console over the public network using the TLS-enabled connections.
 	- No one outside of your organization will be able to see the topic information, and the information will be protected by the RBAC permissions you configure.

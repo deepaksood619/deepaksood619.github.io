@@ -24,6 +24,8 @@ _patri mile na mile, sleep schedule zaroor milna chahiye_ (your sleep schedule b
 
 The secret to feeling great about yourself is not to be found in searching for people who are less than you and then show yourself superior to them, but in searching for people who are more than you and then show yourself worthy of their company
 
+A man's character is seen when he has everything. A woman's character is tested and seen when her men has nothing.
+
 I would recognize you in total darkness, were you mute and I deaf. I would recognize you in another lifetime entirely, in different bodies, different times. And I would love you in all of this, until the very last star in the sky burnt out into oblivion."
 
 - If you marry the right person, everyday is a Valentine's day.

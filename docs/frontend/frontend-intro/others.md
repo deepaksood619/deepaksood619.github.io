@@ -220,11 +220,3 @@ for file in *.pdf; do
 done
 
 ```
-
-## PDF Unlock
-
-```bash
-brew install qpdf
-
-qpdf --password=YOUR_PASSWORD --decrypt input.pdf output.pdf
-```

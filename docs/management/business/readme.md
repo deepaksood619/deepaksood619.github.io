@@ -8,6 +8,10 @@ Wall street journal
 
 Product driven business vs Business driven business
 
+Move from % based model to fixed fee model.
+
+Blue ocean strategy
+
 ## Business case studies / Market Research
 
 Consumer psychology, Behavioral economics, Human centered design

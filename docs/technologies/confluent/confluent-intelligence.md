@@ -64,10 +64,10 @@ Common use cases include:
 - **Retail analytics:** Forecast demand and optimize inventory by identifying purchasing trends in real time.
 - **Marketing:** Monitor marketing campaign performance in real-time.
 
-[Build AI with Confluent Intelligence in Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/ai/overview.html)
+## Links
 
-[Introducing Real-Time Context Engine for AI](https://www.confluent.io/blog/introducing-real-time-context-engine-ai/)
-
-[Confluent Intelligence: Real-Time AI With Apache Kafka® and Apache Flink®](https://www.confluent.io/product/confluent-intelligence/)
-
-[Confluent Intelligence - YouTube](https://www.youtube.com/watch?v=AcAxoF-Qj68)
+- [Build AI with Confluent Intelligence in Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/ai/overview.html)
+- [Introducing Real-Time Context Engine for AI](https://www.confluent.io/blog/introducing-real-time-context-engine-ai/)
+- [Confluent Intelligence: Real-Time AI With Apache Kafka® and Apache Flink®](https://www.confluent.io/product/confluent-intelligence/)
+- [Confluent Intelligence - YouTube](https://www.youtube.com/watch?v=AcAxoF-Qj68)
+- [Detect Anomalies in Data with Confluent Cloud for Apache Flink \| Confluent Documentation](https://docs.confluent.io/cloud/current/ai/builtin-functions/detect-anomalies.html#evalwindowsize)

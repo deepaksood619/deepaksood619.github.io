@@ -55,6 +55,8 @@ SELECT * from employee_information WHERE dept_id = 1;
 - value.raw.charset
 - value.raw.endianness
 
+[SQL CREATE TABLE Statement in Confluent Cloud for Apache Flink \| Confluent Documentation](https://docs.confluent.io/cloud/current/flink/reference/statements/create-table.html)
+
 ## Examples
 
 ```sql

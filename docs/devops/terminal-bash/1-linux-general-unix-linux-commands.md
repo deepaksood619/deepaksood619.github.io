@@ -828,6 +828,14 @@ brew install rar
   unrar x file.rar
 ```
 
+## PDF Unlock
+
+```bash
+brew install qpdf
+
+qpdf --password=YOUR_PASSWORD --decrypt input.pdf output.pdf
+```
+
 ## df - report file system disk space usage
 
 There might come a situation while using Linux when you want to know the amount of space consumed by a particular file system on your LINUX system or how much space is available on a particular file system.

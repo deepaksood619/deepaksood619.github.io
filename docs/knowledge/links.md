@@ -1917,7 +1917,7 @@
 1884. [Will Paytm CRASH or Make a COMEBACK? Why is RBI hitting Paytm? :Business...](https://youtu.be/7JXkKVA5RAA)
 1885. [How Resistors Work - Unravel the Mysteries of How Resistors Work!](https://youtu.be/DYcLFHgVCn0)
 1886. [Is this the end of Google Search? How the giant could lose its lead](https://youtu.be/luWf6Zfyvms)
-1887. [Why These Indian YouTubers Are Promoting POLYGAMY?](https://youtu.be/7y3VRJz6B6M)
+1887. [Why These Indian YouTubers Are Promoting POLYGAMY?](https://youtu.be/7y3VRJz6B6M) / Polyandry
 1888. [Aggressive Layoffs Coming By March, Economy On Last Legs | Danielle DiMa...](https://youtu.be/ovXaIFPy-ks)
 1889. [A History of Chuck E. Cheese: Last Squeak Tonight with John Oliver (Web ...](https://youtu.be/3v6y2pY1pZ0)
 1890. [Budget 2024 Analysis | What did Middle Class get? | Dhruv Rathee](https://youtu.be/vdNHneiZaeE)

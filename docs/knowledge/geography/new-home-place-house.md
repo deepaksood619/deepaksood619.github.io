@@ -10,6 +10,8 @@
 
 Housing isn’t a great investment but for most people, it’s the best investment they will ever make because it’s the only asset they will leave alone and let compound for 10, 20, 30 years.
 
+It's about people and not place where you live, you enjoy places with people and not place
+
 ## Questions
 
 - Why people have false ceilings

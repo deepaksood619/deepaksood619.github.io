@@ -118,7 +118,7 @@
 - Nat Geo
 - History - World History
 - PBS
-- PBS - Eons
+- [PBS Eons - YouTube](https://www.youtube.com/@eons)
 - ASAPScience
 - BBC Earth
     - https://youtube.com/c/BBCReel
@@ -144,7 +144,7 @@
 - Toastmasters
 - Be Smart
 - Quanta magazine
-- Periodic Videos
+- [Periodic Videos - YouTube](https://www.youtube.com/@periodicvideos)
 - New Mind
 - Lesics
 - RealLifeLore
@@ -386,6 +386,7 @@
 - 12min
 - Blinkist
 - Math workout
+- Pulse
 - Others - Assistive Touch
 
 ## Podcast / Podcasts
