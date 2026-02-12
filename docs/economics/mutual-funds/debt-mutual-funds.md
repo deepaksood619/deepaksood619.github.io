@@ -195,3 +195,4 @@ This way, a portion of your money becomes available at regular intervals, giving
 - [An introduction to debt mutual funds for new investors](https://freefincal.com/an-introduction-to-debt-mutual-funds-for-new-investors/)
 - [Should you invest in debt funds as interest rate cut inches closer? | Simply Save](https://www.moneycontrol.com/news/business/personal-finance/should-you-invest-in-debt-funds-as-interest-rate-cut-inches-closer-simply-save-12814406.html)
 - [New Category: Tax Efficient Debt Funds - YouTube](https://www.youtube.com/watch?v=0m6IKieJ8dY&ab_channel=YadnyaInvestmentAcademy)
+- [Debt Funds for short medium and long term goals \| M Pattabiraman \| Freefincal \| PlumbLine - YouTube](https://youtu.be/MamO0bTN_-8)

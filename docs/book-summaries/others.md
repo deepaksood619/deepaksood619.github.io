@@ -46,6 +46,9 @@
 - [I read 100+ Business Books. These are the only 9 that matter.](https://youtu.be/ZcnHxxpJlkI)
 - [Never choke again: 5 proven ways to perform under pressure (B.R.A.V.E. a...](https://youtu.be/K4exMXvel4k)
 - [Learn the peak performance equation: PEAK PERFORMANCE by Stulberg & Magn...](https://youtu.be/q4txdvZt-68)
+- [10 Deep Lessons From The Book "Brave New Words: How AI Will Revolutionize Education" - YouTube](https://youtu.be/RjCUHCU4PY8)
+- [The real secret to lasting success: THE SLIGHT EDGE by Jeff Olson \| Core Animation - YouTube](https://youtu.be/dQH5WogQ8og)
+- [Be wealthy without getting lucky: THE ALMANACK OF NAVAL RAVIKANT by Eric Jorgenson - YouTube](https://youtu.be/r8K3ya8dwt8)
 
 ### [Learn to lead: THE 21 IRREFUTABLE LAWS OF LEADERSHIP by John Maxwell | Core Message - YouTube](https://www.youtube.com/watch?v=QQhdiktL99w)
 

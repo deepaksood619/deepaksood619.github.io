@@ -85,3 +85,4 @@ This ratio is particularly useful for risk-averse or conservative investors and 
 - [Important mutual fund metrics when picking mutual funds - YouTube](https://www.youtube.com/watch?v=thOejbtcBjo)
 - [Since past performance doesn't dictate future returns, why not buy MF NFOs?](https://freefincal.com/since-past-performance-doesnt-dictate-future-returns-why-not-buy-mf-nfos/)
 - [Evaluating mutual fund downside risk with the Ulcer Index](https://freefincal.com/evaluating-mutual-fund-downside-risk-with-the-ulcer-index/)
+- [How to Analyse Mutual Funds in 2026? (Stop Trusting Star Ratings Blindly!) - YouTube](https://youtu.be/Cb_CLN82CGc)

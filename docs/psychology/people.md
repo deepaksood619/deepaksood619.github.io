@@ -71,3 +71,6 @@ The story of my experiments with truth
 ## Others
 
 - [56 LinkedIn Creators to Learn from for AI, Content, Design, and Sales \| Anisha Jain posted on the topic \| LinkedIn](https://www.linkedin.com/posts/theanishajain_linkedin-has-350000000-accounts-here-activity-7367484663768023041-0ZES/)
+- [The infamous JoJo thought experiment - Michael Vazquez and Sarah Stroud - YouTube](https://www.youtube.com/watch?v=BT93bRX2t68)
+	- Compatibilists
+	- Incompatiblists

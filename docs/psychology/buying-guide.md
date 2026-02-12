@@ -3,6 +3,8 @@
 - **Buy less, choose it well, make it last**
 - Don't buy black or white items, it gets very dirty pretty fast
 	- Clothes / Shoes
+		- OnCloud Shoes
+		- On Cloud shoes, developed by the Swiss brand On, are known for their signature "Cloud" pods that provide a combination of soft landings and explosive take-offs. As of 2026, popular models include the Cloud 6 for everyday wear and the Cloud 5 Waterproof for all-weather performance.
 	- Car
 - Don't buy a dining table or any table with more surfaces (like an area for storing newspaper below table)
 - Don't use dining table cloth

@@ -192,44 +192,35 @@ https://www.youtube.com/c/SUBRAMONEYPVSUBRAMANYAM/videos
 
 ## Links
 
-[10 Investing Tips for Young Investors | Basics of Investing for Beginners](https://www.youtube.com/watch?v=OKxDncq_cl4)
-
-- Thou shall know thy goal
-- Thou shall respect time & be patient
-- Thou shall build a strong foundation
-- Thou shall not chase historical performance
-- Thou shall stay away from hot tips
-- Thou shall invest only in what one understands
-- Thou shall not use debt
-- Thou shant check portfolio everyday
-- Thou shall always be learning
-
-[Warren Buffett Explains How to Invest in 2023](https://www.youtube.com/watch?v=U9KxB0BKf-I)
-
-[5 Secrets of Quant Mutual Fund which consistently ranks it in India’s Best Mutual Fund schemes](https://www.youtube.com/watch?v=WqFMhqRhVbw)
-
-[How anchoring bias  affects your investing decisions](https://www.youtube.com/watch?v=UcdKmVjM3ww)
-
-[How I TRIPLED My Money in 3 Years by Copying Peter Lynch Investing Strategy? | One Up On Wall Street](https://www.youtube.com/watch?v=J9rbQDCo-l8)
-
-[BOOST your SIP Returns by Upto 2% p.a. 🦸‍♂️ | Four Easy-to-Implement SIP Investing Strategies](https://www.youtube.com/watch?v=WT8_9-ll7XU)
-
-[Summary of Benjamin Graham's Intelligent Investor | The Best Book on Investing - YouTube](https://www.youtube.com/watch?v=ltWCUf73vrk)
-
-[Don’t Invest your PAISA Here. It will destroy your wealth. - YouTube](https://www.youtube.com/watch?v=Aqnv2y9eKlg)
-
-- ULIP
-- Derivatives - F&O
-- Intraday/Buy Today Sell Tomorrow/Momentum/Swing Trading
-- Active Large Cap Mutual Funds
-- Peer 2 Peer Lending like 12% Club
-- Corporate Bonds
-- Flats/Apartments in 10+ years old buildings
-- Penny Stocks
-- Initial Public Offering
-- Cryptocurrency
-	- [Tax on cryptos: How Budget 2025 has changed Virtual Digital Asset taxation; check details - Tax on cryptos: How Budget 2025 has changed Virtual Digital Asset taxation; check details BusinessToday](https://www.businesstoday.in/personal-finance/tax/story/tax-on-cryptos-how-budget-2025-has-changed-virtual-digital-asset-taxation-check-details-463210-2025-02-03)
-
-[Steps to minimize risk in your investment portfolio](https://freefincal.com/steps-to-minimize-risk-in-your-investment-portfolio/)
-
-Finance for Everyone - https://www.edx.org/course/finance-everyone-smart-tools-decision-michiganx-fin101x-1
+- [10 Investing Tips for Young Investors | Basics of Investing for Beginners](https://www.youtube.com/watch?v=OKxDncq_cl4)
+	- Thou shall know thy goal
+	- Thou shall respect time & be patient
+	- Thou shall build a strong foundation
+	- Thou shall not chase historical performance
+	- Thou shall stay away from hot tips
+	- Thou shall invest only in what one understands
+	- Thou shall not use debt
+	- Thou shant check portfolio everyday
+	- Thou shall always be learning
+- [Warren Buffett Explains How to Invest in 2023](https://www.youtube.com/watch?v=U9KxB0BKf-I)
+- [5 Secrets of Quant Mutual Fund which consistently ranks it in India’s Best Mutual Fund schemes](https://www.youtube.com/watch?v=WqFMhqRhVbw)
+- [How anchoring bias  affects your investing decisions](https://www.youtube.com/watch?v=UcdKmVjM3ww)
+- [How I TRIPLED My Money in 3 Years by Copying Peter Lynch Investing Strategy? | One Up On Wall Street](https://www.youtube.com/watch?v=J9rbQDCo-l8)
+- [BOOST your SIP Returns by Upto 2% p.a. 🦸‍♂️ | Four Easy-to-Implement SIP Investing Strategies](https://www.youtube.com/watch?v=WT8_9-ll7XU)
+- [Summary of Benjamin Graham's Intelligent Investor | The Best Book on Investing - YouTube](https://www.youtube.com/watch?v=ltWCUf73vrk)
+- [Don’t Invest your PAISA Here. It will destroy your wealth. - YouTube](https://www.youtube.com/watch?v=Aqnv2y9eKlg)
+	- ULIP
+	- Derivatives - F&O
+	- Intraday/Buy Today Sell Tomorrow/Momentum/Swing Trading
+	- Active Large Cap Mutual Funds
+	- Peer 2 Peer Lending like 12% Club
+	- Corporate Bonds
+	- Flats/Apartments in 10+ years old buildings
+	- Penny Stocks
+	- Initial Public Offering
+	- Cryptocurrency
+		- [Tax on cryptos: How Budget 2025 has changed Virtual Digital Asset taxation; check details - Tax on cryptos: How Budget 2025 has changed Virtual Digital Asset taxation; check details BusinessToday](https://www.businesstoday.in/personal-finance/tax/story/tax-on-cryptos-how-budget-2025-has-changed-virtual-digital-asset-taxation-check-details-463210-2025-02-03)
+- [Steps to minimize risk in your investment portfolio](https://freefincal.com/steps-to-minimize-risk-in-your-investment-portfolio/)
+- Finance for Everyone - https://www.edx.org/course/finance-everyone-smart-tools-decision-michiganx-fin101x-1
+- [It’s Not Gold or Crypto : THIS Sector Is Quietly WINNING in INDIA \| Aditya Khemka \| FWS 90 - YouTube](https://youtu.be/3sYmIUtvabk)
+- [Where to invest Rs 1 lakh, Rs 10 lakh, Rs 1 crore - YouTube](https://youtu.be/tA3NonQ9m8s)

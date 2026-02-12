@@ -17,12 +17,12 @@
 
 ### Biggest Factors for bad health and death
 
-- Ultra processed food
+- Ultra processed food (sugar / salt)
 - Tobacco / Alcohol
 - Lack of exercise
 
 ## Links
 
-[Why Do Most Indian Men Have a Protruding Potbelly? - YouTube](https://www.youtube.com/watch?v=iOO35cEQXfw&ab_channel=Dr.EricBergDC)
-
-[Evidence-based Analysis on Supplements & Nutrition | Examine](https://examine.com/)
+- [Why Do Most Indian Men Have a Protruding Potbelly? - YouTube](https://www.youtube.com/watch?v=iOO35cEQXfw&ab_channel=Dr.EricBergDC)
+- [Evidence-based Analysis on Supplements & Nutrition | Examine](https://examine.com/)
+- [There's Only ONE Way Your Body Burns Fat - YouTube](https://youtu.be/UTEbFKZW1Gc)

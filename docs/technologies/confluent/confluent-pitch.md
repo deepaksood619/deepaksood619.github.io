@@ -7,6 +7,9 @@
 	2. **Complete:** Go beyond Kafka with all the essential tools for a complete data streaming platform.
 	3. **Everywhere:** Connect your data in real time with a platform that spans from on-prem to cloud and across clouds.
 
+- Data In Motion (DIM)
+- Data Streaming Platform (DSP)
+
 ## Elevator Pitch - The "Data in Motion" Pitch
 
 - **Audience:** Pre-Buyer Architect

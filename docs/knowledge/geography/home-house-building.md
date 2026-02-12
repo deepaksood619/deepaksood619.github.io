@@ -83,3 +83,5 @@ https://www.youtube.com/watch?v=dy81ldYQdgY
 - [138 Gaj 5BHK Kothi for Sale ⭐️ Lovely house Tour ⭐️ 40 feet road ⭐️ lift...](https://youtu.be/UPW_e6fSnkg)
 - [The Most Luxurious Farmhouse Built in Delhi | 5 Bedrooms | Swimming Pool...](https://youtu.be/KKATjDCaMw8)
 - [Villa at Asagaon, Goa. #allaboutarchitecture #architectureanddesign #goa - YouTube](https://www.youtube.com/watch?v=35lxloYuY1w)
+- [Why Indian Homes Feel Smaller: Space, Furniture, Design & Planning \| Sanjay Puri \| FO459 Raj Shamani - YouTube](https://youtu.be/U5JHNP3R3ME)
+- [When Architects Use 100% Of Their Brain - YouTube](https://youtu.be/QBY5bEreKVM)

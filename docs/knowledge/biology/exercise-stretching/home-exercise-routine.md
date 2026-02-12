@@ -55,14 +55,10 @@ https://in.pinterest.com/pin/thin-body-workout--801077852487590084
 
 ## Youtube / Links
 
-Neti - Baking soda, 1 tea spoon of salt, 1/2 litre boiled water
-
-[20 MIN FULL BODY WORKOUT // No Equipment | Pamela Reif - YouTube](https://www.youtube.com/watch?v=UBMk30rjy0o&ab_channel=PamelaReif)
-
-[20 Minute Heart-Pumping Cardio Workout - No Equipment With Warm-Up & Cool-Down | SELF](http://youtube.com/watch?v=vncKnAPhgtg&ab_channel=SELF)
-
-[Shankha Prakshalana - Laghu Shankha Prakshalana: Method, Benefits](https://www.easyayurveda.com/2018/01/16/laghu-shankha-prakshalana/)
-
-[Safety and usefulness of Laghu shankha prakshalana in patients with essential hypertension: A self controlled clinical study - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4296435/)
-
-[Movement Expert: Ideal Workouts From 0 to 70+ - YouTube](https://www.youtube.com/watch?v=CL_mkrcNEKE&ab_channel=BryanJohnson)
+- Neti - Baking soda, 1 tea spoon of salt, 1/2 litre boiled water
+- [20 MIN FULL BODY WORKOUT // No Equipment | Pamela Reif - YouTube](https://www.youtube.com/watch?v=UBMk30rjy0o&ab_channel=PamelaReif)
+- [20 Minute Heart-Pumping Cardio Workout - No Equipment With Warm-Up & Cool-Down | SELF](http://youtube.com/watch?v=vncKnAPhgtg&ab_channel=SELF)
+- [Shankha Prakshalana - Laghu Shankha Prakshalana: Method, Benefits](https://www.easyayurveda.com/2018/01/16/laghu-shankha-prakshalana/)
+- [Safety and usefulness of Laghu shankha prakshalana in patients with essential hypertension: A self controlled clinical study - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4296435/)
+- [Movement Expert: Ideal Workouts From 0 to 70+ - YouTube](https://www.youtube.com/watch?v=CL_mkrcNEKE&ab_channel=BryanJohnson)
+- [Boost Your Leg Circulation in 20 minutes with these 3 exercises! - YouTube](https://youtu.be/uMHa8qsIf-s)

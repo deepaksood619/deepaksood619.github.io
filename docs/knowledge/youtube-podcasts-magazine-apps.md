@@ -442,6 +442,7 @@
 - Empire
 - [Choiceology | Charles Schwab](https://www.schwab.com/learn/choiceology)
 - [Home - We Can Do Hard Things - The Podcast](https://wecandohardthingspodcast.com/)
+- [The Desi Crime Podcast \| Podcast on Spotify](https://open.spotify.com/show/4wgaUiSz7Gh2FJrBYfn0GM)
 
 https://www.freecodecamp.org/news/best-tech-podcasts-for-software-developers
 

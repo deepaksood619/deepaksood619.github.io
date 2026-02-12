@@ -88,6 +88,7 @@ Recommended Calorie intake - 2800
 10. **Palm oil**
 11. Soft drinks  - Juices
 12. Alcohol / Tobacco, etc
+	1. Prosecco (Prosecco is a popular Italian sparkling white wine made primarily from Glera grapes in the Veneto and Friuli-Venezia Giulia regions. Known for its light-bodied, crisp, and fruity profile with notes of green apple, pear, and citrus, it is produced using the Charmat (tank) method. Usually served as an affordable, refreshing aperitif or in cocktails like Aperol Spritz, it comes in _Spumante_ (fully sparkling) and _Frizzante_ (semi-sparkling) varieties.)
 
 ## Supplements
 
@@ -450,3 +451,4 @@ It's nearly impossible to completely eliminate insect fragments during large-sca
 - [Ultra processed foods and the third age of eating - with Chris van Tulleken - YouTube](https://www.youtube.com/watch?v=j1oOoYnCfJs)
 - [Diet Expert: Weight Loss, Calories, Digestion, Sugar & Belly Fat \| Pooja Makhija \| FO433 Raj Shamani - YouTube](https://www.youtube.com/watch?v=xi-zHJL5bnI)
 - [Rice morning, noon, and night: why the Japanese don’t gain weight - Futura-Sciences](https://www.futura-sciences.com/en/rice-morning-noon-and-night-why-the-japanese-dont-gain-weight_22716/)
+- [Exposing Indian Diet: Roti, Rice, Morning Energy & Night Habits \| Sonia Narang \| FO456 Raj Shamani - YouTube](https://youtu.be/z1lPXO0pv_4)

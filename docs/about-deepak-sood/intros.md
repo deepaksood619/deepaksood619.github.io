@@ -1,5 +1,36 @@
 # Intros
 
+## Targeted Introduction
+
+### Option 1: The "Benefit" Framework
+
+_Focuses on the specific value you provide to your target audience._
+
+> **"I help organizations architect scalable AI and data systems to transform complex technical challenges into impactful, intelligent business solutions."** (19 words)
+
+### Option 2: The "Breakthrough" (Without) Framework
+
+_Highlights your unique value by removing a common pain point._
+
+> **"I design scalable Data and AI architectures that rapidly grow business portfolios without compromising system reliability or infrastructure stability."** (19 words)
+
+### Option 3: The "Strength" Framework
+
+_Focuses on your personal technical expertise and track record._
+
+> **"I am known for my expertise in scaling distributed systems and turning vast data landscapes into actionable, high-growth engineering insights."** (20 words)
+
+### Link
+
+[How to Introduce Yourself — and Get Hired \| Rebecca Okamoto \| TED - YouTube](https://www.youtube.com/watch?v=d1yfb93beSI)
+
+- Tell me about yourself
+- Tell me more
+- What can I do for you
+- **Think Soundbite, Not Data Dump:** Keep it under 20 words to grab attention.
+- **About You, Not About Me:** Focus on what you can do for the listener rather than just listing your titles.
+- **The "Tell Me More" Goal:** The introduction is designed to trigger a conversation, not summarize your entire resume.
+
 ## Intro 1 - General
 
 **Deepak Sood: Data and AI Architect | Innovator in Intelligent Systems**

@@ -380,3 +380,4 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [The Good and The Beautiful Early Years Curriculum Review for Preschool a...](https://youtu.be/IG3zcdtUtwA)
 - [Homeschool Kindergarten Math Comparison \|\| The Good and the Beautiful and Math With Confidence - YouTube](https://youtu.be/xvf5VOWWnng)
 - [5 Tiny Habits That Supercharge Your Child's Brain Development | Dr. Arif...](https://youtu.be/WJsiBOuXQvA)
+- [6 One-Minute Habits That Supercharge Your Baby's Brain (Science-Backed) - YouTube](https://youtu.be/EWJCUiDEPaY)
