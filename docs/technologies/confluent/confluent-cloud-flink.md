@@ -147,7 +147,19 @@ The state size is the amount of state that a statement has accumulated. Confluen
 
 [Flink SQL Autopilot in Confluent Cloud for Apache Flink \| Confluent Documentation](https://docs.confluent.io/cloud/current/flink/concepts/autopilot.html)
 
+## Topic Actions
+
+[Flink Updates: Topic Actions, Terraform support, GCP and Azure Availability](https://www.confluent.io/blog/effortless-stream-processing-flink-actions-terraform-multicloud/)
+
+- **Topic Actions**, which are pre-packaged, turn-key stream processing workloads that handle common, domain-agnostic requirements. Users only need to provide a minimal amount of basic configuration before submitting an Action, which runs internally on Flink. Actions are designed to be extremely simple to use, allowing users to leverage the power of Flink with just a few clicks. We are starting with support for two common workloads—topic deduplication and field masking—and plan to add more in the future.
+	- Transform topic
+	- Deduplicate topic
+	- Mask fields
+	- Create embeddings
+
 ## Others
 
 - [SQL Join Queries in Confluent Cloud for Apache Flink \| Confluent Documentation](https://docs.confluent.io/cloud/current/flink/reference/queries/joins.html)
 	- **Multi-way join optimization -** When joining three or more tables on a common join key, Flink can use a multi-way join operator instead of chaining multiple binary joins. This optimization reduces state by eliminating intermediate join results.
+- Terraform Support for Flink
+	- [Deploy a Flink SQL Statement in Confluent Cloud for Apache Flink \| Confluent Documentation](https://docs.confluent.io/cloud/current/flink/operate-and-deploy/deploy-flink-sql-statement.html)

@@ -61,6 +61,15 @@
 
 ## Others
 
+- **Vanguard FTSE All-World UCITS ETF (LON:VWRA) - VWRA**
+	- VWRA VANG FTSE AW USDA - LSEETF
+	- VWRA - Stock ticker VANG - By Vanguard FTSE - Tracks the FTSE index AW - All world USDA - Trades in USD, A is an accumulation ETF
+	- Assets - $25.68B
+	- Expense Ratio - 0.19%
+	- Total Holdings - 3789
+	- PE Ratio - 23.74
+	- Vanguard FTSE All-World UCITS ETF is an exchange traded fund launched by Vanguard Group (Ireland) Limited. The fund is co-managed by Vanguard Asset Management, Limited and The Vanguard Group, Inc. It invests in the public equity markets across the globe. The fund seeks to invest in the stocks of companies operating across diversified sectors. It invests in the stocks of large-cap and mid-cap companies. The fund seeks to replicate the performance of the FTSE All-World Index, by investing in the stocks of companies as per their weightings in the index. It was formerly known as Vanguard Funds Public Limited Company - Vanguard FTSE All-World ETF. Vanguard FTSE All-World UCITS ETF was formed on May 22, 2012 and is domiciled in Ireland.
+	- https://stockanalysis.com/quote/lon/VWRA/holdings/
 - SPDR S&P 500 ETF Trust (SPY)
 	- Assets - $624.34B
 	- Expense Ratio - 0.09%
@@ -114,7 +123,7 @@
 	- The SPDR Gold Shares (GLD) is an exchange-traded fund that is based on the LBMA Gold Price index. The fund tracks the gold spot price, less expenses and liabilities, using gold bars held in London vaults. GLD was launched on Nov 18, 2004 and is issued by State Street.
 	- [GLD ETF Stock Price & Overview](https://stockanalysis.com/etf/gld/)
 
-https://www.youtube.com/watch?v=qRT917PvEns
+[How to Invest in International Mutual Funds the right way? - YouTube](https://www.youtube.com/watch?v=qRT917PvEns)
 
 ## Irish Domiciled (UCITS) ETFs
 
@@ -128,16 +137,16 @@ You must strictly buy the **Accumulating** version. This ensures dividends are r
 
 These trade on the London Stock Exchange (LSE) but are denominated in **USD**.
 
-|**Feature**|**1. VWRA (The Gold Standard)**|**2. ISAC (The Challenger)**|**3. IWDA / SWDA (Developed Only)**|
-|---|---|---|---|
-|**Full Name**|Vanguard FTSE All-World UCITS ETF (Acc)|iShares MSCI ACWI UCITS ETF (Acc)|iShares Core MSCI World UCITS ETF (Acc)|
-|**Ticker**|`VWRA`|`ISAC` (or `SSAC`)|`IWDA` (or `SWDA`)|
-|**Provider**|Vanguard|BlackRock (iShares)|BlackRock (iShares)|
-|**What it buys**|**Whole World** (Developed + Emerging Markets)|**Whole World** (Developed + Emerging Markets)|**Developed Markets Only** (US, UK, Japan, etc. — **No India/China**)|
-|**No. of Stocks**|~3,700|~2,400|~1,500|
-|**Expense (TER)**|0.22%|0.20%|0.20%|
-|**Fund Size**|Huge (High Liquidity)|Large|Massive|
-|**Dividend Policy**|**Accumulating** (Reinvested)|**Accumulating** (Reinvested)|**Accumulating** (Reinvested)|
+| **Feature**         | **1. VWRA (The Gold Standard)**                | **2. ISAC (The Challenger)**                   | **3. IWDA / SWDA (Developed Only)**                                   |
+| ------------------- | ---------------------------------------------- | ---------------------------------------------- | --------------------------------------------------------------------- |
+| **Full Name**       | Vanguard FTSE All-World UCITS ETF (Acc)        | iShares MSCI ACWI UCITS ETF (Acc)              | iShares Core MSCI World UCITS ETF (Acc)                               |
+| **Ticker**          | `VWRA`                                         | `ISAC` (or `SSAC`)                             | `IWDA` (or `SWDA`)                                                    |
+| **Provider**        | Vanguard                                       | BlackRock (iShares)                            | BlackRock (iShares)                                                   |
+| **What it buys**    | **Whole World** (Developed + Emerging Markets) | **Whole World** (Developed + Emerging Markets) | **Developed Markets Only** (US, UK, Japan, etc. — **No India/China**) |
+| **No. of Stocks**   | ~3,700                                         | ~2,400                                         | ~1,500                                                                |
+| **Expense (TER)**   | 0.22%                                          | 0.20%                                          | 0.20%                                                                 |
+| **Fund Size**       | Huge (High Liquidity)                          | Large                                          | Massive                                                               |
+| **Dividend Policy** | **Accumulating** (Reinvested)                  | **Accumulating** (Reinvested)                  | **Accumulating** (Reinvested)                                         |
 
 ### Which one should you pick?
 
@@ -171,12 +180,35 @@ When you search for these on IBKR, you will see multiple versions (listing on di
 - Taiwan Semiconductor Manufacturng Co Ltd (TPE: 2330)
 - Samsung Electronics Co Ltd (KRX: 005930)
 
-## Nasdaq Composite vs Nasdaq 100
+## Difference
+
+### VGT vs QQQM
+
+The primary difference between **VGT** (Vanguard Information Technology ETF) and **QQQM** (Invesco NASDAQ 100 ETF) is their **sector concentration**: VGT is a pure-play technology fund, while QQQM is a diversified growth fund that includes non-tech sectors like consumer services and healthcare.
+
+| Feature            | VGT (Vanguard Info Tech) | QQQM (Nasdaq 100) |
+| ------------------ | ------------------------ | ----------------- |
+| **Expense Ratio**  | **0.10%** (Lower)        | 0.15%             |
+| **Holdings**       | ~310–320 stocks          | ~100–106 stocks   |
+| **Tech Exposure**  | **~98%** (Pure Tech)     | ~51–56%           |
+| **Top Holding**    | Nvidia (~17.5%)          | Nvidia (~9.0%)    |
+| **Dividend Yield** | ~0.39%                   | **~0.49%**        |
+
+### Nasdaq Composite vs Nasdaq 100
 
 The composition of the NASDAQ Composite is heavily weighted towards companies in the information technology sector. The Nasdaq-100, which includes 100 of the largest non-financial companies in the Nasdaq Composite, accounts for about 80% of the index weighting of the Nasdaq Composite.
+
+- The primary difference is that the Nasdaq Composite tracks nearly all stocks listed on the Nasdaq exchange, while the Nasdaq 100 is a concentrated subset of the largest 100 non-financial companies.
+- **Amazon (AMZN)** is not in the VGT
+- VGT also excludes other major companies often considered tech, such as **Alphabet (Google)** and **Meta (Facebook)**, which are classified under Communication Services.
 
 ## Links
 
 - [DSP Global Equity Fund: Should you invest in this retail offshore MF from GIFT City?](https://freefincal.com/dsp-global-equity-fund-should-you-invest-in-this-retail-offshore-mf-from-gift-city/)
 - [Investing via Gift City: basic considerations](https://freefincal.com/investing-via-gift-city-basic-considerations/)
 - [Why is S&P always recommended over NASDAQ even though it underperforms? : r/Fire](https://www.reddit.com/r/Fire/comments/17rjnhk/why_is_sp_always_recommended_over_nasdaq_even/)
+- Parag Parikh IFSC S&P 500 FOF and Parag Parikh IFSC Nasdaq 100 FOF
+	- [Parag Parikh IFSC S&P 500 and Nasdaq 100 FoFs Open - should you invest?](https://freefincal.com/parag-parikh-ifsc-sp-500-and-nasdaq-100-fofs-open-should-you-invest/)
+	- minimum investment of 5000 USD and a 500 USD top-up
+	- FOF route may be easier than the broker route
+	- we do not recommend using the Nasdaq 100 product, as it is a sectoral fund and significantly riskier than the S&P 500

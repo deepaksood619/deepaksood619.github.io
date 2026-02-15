@@ -84,7 +84,7 @@ sequenceDiagram
 
 [For Claude Desktop Users - Model Context Protocol](https://modelcontextprotocol.io/quickstart/user)
 
-```json
+```json title="claude_desktop_config.json"
 {
   "mcpServers": {
     "filesystem": {
@@ -97,12 +97,11 @@ sequenceDiagram
       ]
     },
     "memory": {
-        "command": "npx",
-        "args": [
-          "-y",
-          "@modelcontextprotocol/server-memory"
-        ]
-      }
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-memory"
+      ]
     }
   }
 }

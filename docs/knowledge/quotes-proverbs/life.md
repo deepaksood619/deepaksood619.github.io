@@ -1172,4 +1172,6 @@ What is Poison?
 
 Not everything that counts can be counted, and not everything that can be counted counts -- William Bruce Cameron
 
+If you know how quickly people forget the dead, You will stop living to impress people. -- Chistopher Walken
+
 ## End

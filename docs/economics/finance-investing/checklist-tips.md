@@ -375,21 +375,14 @@ Consumption smoothing refers to **a process of achieving a balance between spend
 
 ## Links
 
-[How to make money in stocks](../../book-summaries/how-to-make-money-in-stocks)
-
-[Basic personal finance math - YouTube](https://www.youtube.com/watch?v=qoY2lz5IOGs&ab_channel=ZerodhaVarsity)
-
-- Future value of money / opportunity cost
-- Present value of money / discount
-
-[How to invest in a bull market | NIFTY at an all-time high | Should you buy, hold, or sell? - YouTube](https://www.youtube.com/watch?v=t78IbEUMynQ)
-
-[Warren Buffett Explains the 7 Rules Investors Must Follow in 2023 - YouTube](https://www.youtube.com/watch?v=PEPrpSCZkeU)
-
-[GitHub - JerBouma/PersonalFinance: Tracking your income and expenses automatically.](https://github.com/JerBouma/PersonalFinance)
-
-[First Pillar of Investing - Avoid investing in Fragile companies - Introducing the Fragility Score Card: Financial Statement Analysis made easy](https://www.budgetiger.in/p/introducing-the-fragility-score-card)
+- [How to make money in stocks](../../book-summaries/how-to-make-money-in-stocks)
+- [Basic personal finance math - YouTube](https://www.youtube.com/watch?v=qoY2lz5IOGs&ab_channel=ZerodhaVarsity)
+	- Future value of money / opportunity cost
+	- Present value of money / discount
+- [How to invest in a bull market | NIFTY at an all-time high | Should you buy, hold, or sell? - YouTube](https://www.youtube.com/watch?v=t78IbEUMynQ)
+- [Warren Buffett Explains the 7 Rules Investors Must Follow in 2023 - YouTube](https://www.youtube.com/watch?v=PEPrpSCZkeU)
+- [GitHub - JerBouma/PersonalFinance: Tracking your income and expenses automatically.](https://github.com/JerBouma/PersonalFinance)
+- [First Pillar of Investing - Avoid investing in Fragile companies - Introducing the Fragility Score Card: Financial Statement Analysis made easy](https://www.budgetiger.in/p/introducing-the-fragility-score-card)
+- [500,000 portfolios revealed these 7 costly investment mistakes – Dezerv](https://www.dezerv.in/blog/500000-portfolios-revealed-these-7-costly-investment-mistakes/)
 
 ![psychology-of-a-market-cycle](../../media/Pasted%20image%2020231022201219.jpg)
-
-[500,000 portfolios revealed these 7 costly investment mistakes – Dezerv](https://www.dezerv.in/blog/500000-portfolios-revealed-these-7-costly-investment-mistakes/)

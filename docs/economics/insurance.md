@@ -116,3 +116,4 @@ A keyman insurance policy is a life insurance plan a company takes out on an imp
 
 - [Niva Bupa Health insurance VS HDFC ERGO | BEST HEALTH INSURANCE POLICY IN 2024-25 | Best health plan - YouTube](https://www.youtube.com/watch?v=15w1KKkjx8g)
 - [What you need to know before buying super top-up insurance policies](https://freefincal.com/what-you-need-to-know-before-buying-super-top-up-insurance-policies/)
+- [I told my friend to cancel his life insurance cover - Here’s why](https://freefincal.com/i-told-my-friend-to-cancel-his-life-insurance-cover-heres-why/)

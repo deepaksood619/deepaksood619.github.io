@@ -54,4 +54,4 @@ All billing computations are conducted in Coordinated Universal Time (UTC).
 
 ## Links
 
-[Manage Billing in Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/billing/overview.html)
+- [Manage Billing in Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/billing/overview.html)

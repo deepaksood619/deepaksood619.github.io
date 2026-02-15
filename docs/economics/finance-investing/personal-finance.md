@@ -141,3 +141,5 @@ Use money to buy peace. And, use your peace to make (fewer but) better strategic
 - [Movies Every Trader Should Watch | In The Money by Zerodha](https://youtu.be/dh-wR0crcs4)
 - [Education Loan for Higher Studies – Who Pays for the Borrowed Dream – Part 1?](https://freefincal.com/education-loan-for-higher-studies-who-pays-for-the-borrowed-dream-part-1/)
 - [Education Loan: Part 2 – The Two Faces of the Degree](https://freefincal.com/education-loan-part-2-the-two-faces-of-the-degree/)
+- [If you want to build wealth, don't wait for the right time to invest!](https://freefincal.com/if-you-want-to-build-wealth-dont-wait-for-the-right-time-to-invest/)
+- [The Free Advice Trap: Why We Hide from Financial Planners but Hug Insurance Agents](https://freefincal.com/the-free-advice-trap-why-we-hide-from-financial-planners-but-hug-insurance-agents/)

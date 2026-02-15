@@ -205,5 +205,6 @@ The trilemma suggests that achieving all three of these goals simultaneously is 
 - [WARNING: Gold Prices Are Signaling a Major Crash… - YouTube](https://www.youtube.com/watch?v=bEFY3wsJoHg)
 - [The Big Dangers of Big Bubbles with Big Wealth Gaps](https://www.linkedin.com/pulse/big-dangers-bubbles-wealth-gaps-ray-dalio-s2fbe/)
 - [Ray Dalio - 2025](https://www.linkedin.com/pulse/2025-ray-dalio-kaf8e/)
+- [Yuval Noah Harari: Stories, Power & Why Truth Doesn't Matter \| Nikhil Kamath \| People by WTF - YouTube](https://youtu.be/N0S048D2tj4)
 
 ## End

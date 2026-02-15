@@ -17,12 +17,14 @@ Extensions that helps make obsidian better
     - [Set a WIP Limit - Obsidian Kanban Plugin - Obsidian Publish](https://publish.obsidian.md/kanban/How+do+I/Set+a+WIP+Limit)
 - Calendar
 - Outliner
+- Git
 - Obsidian Git
 - Mind Map
 - Natural Language Dates
 - Day Planner
 - Periodic Notes
 - Paste URL into selection
+- Better Word Count
 - Recent Files
 - Auto Link Title
 - Automatically Reveal Active File

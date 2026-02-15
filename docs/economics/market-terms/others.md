@@ -14,6 +14,8 @@ The India Volatility Index in short is termed India VIX. It indicates the degree
 
 [ET Money Answers Your Questions on Mutual Funds | ET Money](https://youtu.be/Xc2jI6A3M_0)
 
+**Geopolitical Risk Indicator** - [World - Global Geopolitical Risk Index \| MacroMicro](https://en.macromicro.me/charts/55589/global-geopolitical-risk-index)
+
 ## Equity Risk Premium
 
 - An equity risk premium is an excess return earned by an investor when they invest in the stock market over a risk-free rate

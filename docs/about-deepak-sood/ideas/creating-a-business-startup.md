@@ -363,4 +363,5 @@ The worst mistakes founders make
 - [Personal finance tips for entrepreneurs and small business owners](https://freefincal.com/personal-finance-tips-for-entrepreneurs-and-small-business-owners/)
 - [Did OpenAI Just Kill Dhruv Rathee’s AI Fiesta in 24 Hours? \| by Ankit Sharma \| Aug, 2025 \| Medium](https://medium.com/@exitfund/did-openai-just-kill-dhruv-rathees-ai-fiesta-in-24-hours-fe4b9c7732cc)
 - [Varnan](https://varnan.tech/blog/100x-ux-research-ai-agent-finding-why-products-fail-using-reddit-and-hacker-news)
-- **[The STARTUP Model is DEAD. This is replacing it. - YouTube](https://www.youtube.com/watch?v=Zzvso56HgGQ)**
+- **[The STARTUP Model is DEAD. This is replacing it. - YouTube](https://www.youtube.com/watch?v=Zzvso56HgGQ)
+- [How to Think, Build & Grow a Startup - Skills & AI Advantage \| Varun Limaye \| FO469 Raj Shamani - YouTube](https://www.youtube.com/watch?v=J2GKwMI_J_I)**

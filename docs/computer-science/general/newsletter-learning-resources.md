@@ -186,3 +186,4 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 - [Developer Learning, Trainings, Courses, and Resources - AWS](https://aws.amazon.com/developer/learning/)
 - [GitHub - cloudcommunity/Free-Certifications: A curated list of free courses with certifications. Also available at https://free-certifications.com/](https://github.com/cloudcommunity/Free-Certifications)
 	- [Free Certifications - Find Free Professional Certifications Online](https://free-certifications.com/)
+- [GitHub - gabe565/ascii-movie: Star Wars SSH + Telnet server written in Go.](https://github.com/gabe565/ascii-movie)

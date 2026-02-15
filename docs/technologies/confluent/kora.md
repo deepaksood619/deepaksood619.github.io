@@ -29,4 +29,7 @@ Kora was engineered to do the following:
 - **Cost**: An optimized cost structure that saves customers money, as discussed in the [Confluent Cost Savings Challenge](https://www.confluent.io/blog/understanding-and-optimizing-your-kafka-costs-part-4-savings-challenge/)
 - **Compatibility**: Kora implements [Kafka’s protocol](https://www.confluent.io/online-talks/everything-you-always-wanted-to-know-about-kafkas-rebalance-protocol-but-were-afraid-to-ask-on-demand/) and it is fully compatible
 
-[Kora Powers the Cloud-Native Apache Kafka® Solution \| Confluent Cloud](https://www.confluent.io/confluent-cloud/kora/)
+## Links
+
+- [Kora Powers the Cloud-Native Apache Kafka® Solution \| Confluent Cloud](https://www.confluent.io/confluent-cloud/kora/)
+- [Confluent’s Kora Engine awarded ‘Best Industry Paper’ at VLDB](https://www.confluent.io/blog/cloud-native-kafka-kora-vldb-award/)

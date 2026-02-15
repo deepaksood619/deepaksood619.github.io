@@ -11,11 +11,17 @@ The Confluent Certified Developer for Apache Kafka® (CCDAK) is designed for dev
 
 The Confluent Certified Administrator for Apache Kafka® (CCAAK) is designed for professionals who manage and maintain Kafka cluster environments. This certification validates the key skills required to configure, deploy, monitor, and support Apache Kafka® clusters—ensuring reliable performance and operational excellence.
 
+- [Confluent Certified Administrator Apache Kafka (CCAAK) 2025](https://www.udemy.com/course/confluent-certified-administrator-apache-kafka-ccaak-2025/)
+- [Confluent Certified Administrator Apache Kafka Practice Test](https://www.udemy.com/course/confluent-certified-administrator-apache-kafka-practice-test/)
+
 ## Confluent Certified Cloud Operator (CCAC)
 
 The Confluent Cloud Certified Operator (CCAC) certification is designed for individuals who can confidently demonstrate a strong working knowledge of Confluent Cloud. It validates expertise in managing multi-cloud and global Apache Kafka® architectures using features like Cluster Linking, Stream Governance, fully managed connectors, stream processing, and more.
 
 Duration: 40 multiple choice questions in 90 minutes
+
+- [Confluent Cloud Certified Operator (CCAC) certification 2026](https://www.udemy.com/course/confluent-cloud-certified-operator-ccac-/)
+- [Free Confluent Cloud Operator Sample Questions and Cert Prep Guide \| VMExam](https://www.vmexam.com/confluent/confluent-ccac-certification-exam-sample-questions)
 
 ## Confluent Data Streaming Engineer
 

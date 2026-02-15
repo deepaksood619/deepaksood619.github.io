@@ -140,3 +140,4 @@
 
 - [The History And Future Of Real-time Analytics - With David Yaffe - YouTube](https://www.youtube.com/watch?v=nhS7KhuNqQU&ab_channel=SeattleDataGuy)
 - [Interesting links - December 2025](https://rmoff.net/2025/12/16/interesting-links-december-2025/)
+- [2026 State of Data Engineering Survey \| Practical Data Community](https://joereis.github.io/practical_data_data_eng_survey/)

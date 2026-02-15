@@ -211,6 +211,7 @@ Smooth, bright, seedless, conveniently wrapped; the banana is the original fast 
 - Almond Milk
 - **Soy Milk (best for planet)**
 - **Oat Milk (best for planet)**
+	- You like soy milk more than oat milk
 - [Which type of milk is best for you? - Jonathan J. O’Sullivan & Grace E. Cunningham - YouTube](https://www.youtube.com/watch?v=s6TXDFp1EcM)
 - [The truth about milk: According to science | Prof. Tim Spector and Dr Sarah Berry - YouTube](https://www.youtube.com/watch?v=6CPBeNPlcNc)
 - [Difference between homogenized and pasteurized milk and which one is safe | The Times of India](https://timesofindia.indiatimes.com/life-style/food-news/difference-between-homogenized-and-pasteurized-milk-and-which-one-is-safe/photostory/89508297.cms?from=mdr)

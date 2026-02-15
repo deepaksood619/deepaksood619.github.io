@@ -4,6 +4,9 @@
 
 Table flow is a feature in Confluent Cloud that allows data from Kafka topics to be directly accessible as tables in data lakes without the need for traditional ETL processes. No copying, No modification, No ETL required.
 
+- **Operational estate**: The SaaS apps, ERPs, custom applications, etc. that serve the needs of applications to transact with customers in real-time
+- **Analytical estate**: The data warehouses, lakehouses, AI/ML platforms, and other custom batch workloads that support business analysis and reporting
+
 ### The Evolution of Data Warehousing
 
 - **Classical Data Warehouse** (circa 1990): This model involved extracting data nightly from various operational databases and loading it into a central warehouse, creating a divide between operational and analytical data.
@@ -36,3 +39,5 @@ Table flow is a feature in Confluent Cloud that allows data from Kafka topics to
 ## Links
 
 - [What React and Apache Iceberg Have in Common: Scaling Iceberg with Virtual Metadata - WarpStream](https://www.warpstream.com/blog/what-react-and-apache-iceberg-have-in-common-scaling-iceberg-with-virtual-metadata)
+- [Tableflow: Convert Kafka topics to Iceberg and Delta tables \| Confluent](https://www.confluent.io/product/tableflow/)
+- [Introducing Tableflow: Unifying Streaming and Analytics](https://www.confluent.io/blog/introducing-tableflow/)

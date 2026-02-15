@@ -12117,7 +12117,7 @@
 12084. [How Do Companies Trick You Into Buying? Ft. Food Pharmer at Masters’ Union](https://youtu.be/gG0XUf47AAg)
 12085. [5-Minute EV Refills?! This Is Wild](https://youtu.be/vXeoDKi0gqI)
 12086. [Anxiety gives you an advantage. Unlock it with neuroplasticity | Wendy S...](https://youtu.be/HzEJe2navAI)
-12087. [Amazon's Inevitable Enshitification...](https://youtu.be/ewbWx_DQxAk)
+12087. [Amazon's Inevitable Enshittification...](https://youtu.be/ewbWx_DQxAk)
 12088. [The Finance Startup Bringing Agentic AI to Wall Street](https://youtu.be/lqokpIme47A)
 12089. [Axis Atlas | Why Is This The Best Card of 2025](https://youtu.be/KoFnFuWdjeE)
 12090. [Why Great Leaders Lead with Empathy | Mimi Nicklin | EDGE Webinar](https://www.youtube.com/live/7XR2qz_jlzM)
@@ -16725,5 +16725,6 @@
 16692. [Why I Spend Hours Sketching in Conflict Zones | George Butler | TED](https://youtu.be/wx2Ml3vWHys)
 16693. [ED Vs Didi | Massive Modi-Mamata Face-off After I-PAC Raided Before Beng...](https://youtu.be/yilJJybFstk)
 16694. [I was not ready for LG's new Robot](https://youtu.be/TlMHxNDd1X0)
+16695. [The biggest temple robbery in history - YouTube](https://www.youtube.com/watch?v=xUqbEsNXr_U)
 
 ## End

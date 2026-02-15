@@ -12,12 +12,14 @@ A [user-defined function (UDF)](https://docs.confluent.io/cloud/current/flink/c
 Confluent Cloud for Apache Flink supports UDFs written in Java and Python.
 
 - **Java UDFs**: Package your custom function and its dependencies into a JAR file and upload it as an artifact to Confluent Cloud. Register the function in a Flink database by using the [CREATE FUNCTION](https://docs.confluent.io/cloud/current/flink/reference/statements/create-function.html#flink-sql-create-function) statement, and invoke your UDF in Flink SQL or the [Table API](https://docs.confluent.io/cloud/current/flink/reference/table-api.html#flink-table-api). Confluent Cloud provides the infrastructure to run your code.
-
 - **Python UDFs (early access)**: Package your custom function and its dependencies into a Python package and upload it as an artifact to Confluent Cloud. Register the function in a Flink database by using the [CREATE FUNCTION](https://docs.confluent.io/cloud/current/flink/reference/statements/create-function.html#flink-sql-create-function) statement, and invoke your UDF in Flink SQL. Confluent Cloud provides the infrastructure to run your code.
+
+**Links**
 
 - [Create a User-Defined Function with Confluent Cloud for Apache Flink \| Confluent Documentation](https://docs.confluent.io/cloud/current/flink/how-to-guides/create-udf.html)
 - [List: Pyflink Kafka Getting Started - Table API, UDFs and more | Curated by Diptiman Raichaudhuri | Medium](https://diptimanrc.medium.com/list/pyflink-kafka-getting-started-table-api-udfs-and-more-ff5bf8d9d41a)
-- [Fetching Title#xncr](https://nightlies.apache.org/flink/flink-docs-master/docs/dev/datastream/user_defined_functions/)
+- [User-Defined Functions \| Apache Flink](https://nightlies.apache.org/flink/flink-docs-master/docs/dev/datastream/user_defined_functions/)
+- [General User-defined Functions \| Apache Flink](https://nightlies.apache.org/flink/flink-docs-stable/docs/dev/python/table/udfs/python_udfs/)
 
 ### User Defined Aggregate Functions (UDAF)
 

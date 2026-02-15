@@ -36,6 +36,8 @@ The Real-time Context Engine enables AI agents to query the most up-to-date cont
 
 Real-time Context Engine tables are always loaded in memory, so they provide low-latency response times for agent queries. AI agents require fast access to relevant data to make informed decisions and provide accurate responses. The Real-time Context Engine provides the low-latency data access needed for real-time AI agent context serving.
 
+[How to Build a Real-Time Context Engine for AI Agents Using Event Driven Architectures - OSO](https://oso.sh/blog/how-to-build-real-time-context-engine-ai-agents-apache-kafka/)
+
 ## Built-in machine learning (ML) functions
 
 ![Built-in machine-learning (ML) functions with Confluent Cloud for Apache Flink](https://docs.confluent.io/cloud/current/_images/built-in-ml-functions.svg)

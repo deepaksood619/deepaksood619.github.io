@@ -142,6 +142,7 @@ https://engineering.fb.com/2021/08/04/open-source/winterfell
 
 ## Others
 
-https://www.freecodecamp.org/news/what-is-devsecops
-
-[What is a zero day attack? - YouTube](https://www.youtube.com/watch?v=aBuERMIJhZk)
+- InfoSec
+- [What is DevSecOps? How to Secure Website or App](https://www.freecodecamp.org/news/what-is-devsecops)
+- [What is a zero day attack? - YouTube](https://www.youtube.com/watch?v=aBuERMIJhZk)
+- [Everyone Says AI Is Insecure, So I Measured It \| HackerNoon](https://hackernoon.com/everyone-says-ai-is-insecure-so-i-measured-it)

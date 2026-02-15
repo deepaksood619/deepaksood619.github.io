@@ -46,6 +46,7 @@ AWS batch lets you run hundreds of thousands of batch and machine learning job
 
 - [What is AWS Batch and Lightsail service - YouTube](https://www.youtube.com/watch?v=NgyNgStkGW0&ab_channel=HiteshChoudhary)
 - [AWS Batch and Hands-On Tutorial on AWS Batch service - YouTube](https://www.youtube.com/watch?v=Ym9HWYFwFS8)
+- Alternative - [Welcome \| Burla](https://docs.burla.dev/)
 
 ## AWS Elastic Beanstalk
 

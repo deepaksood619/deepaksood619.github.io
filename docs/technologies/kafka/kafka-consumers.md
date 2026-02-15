@@ -203,3 +203,5 @@ This is the modern standard (available since Kafka 2.4).
 - https://www.oreilly.com/library/view/kafka-the-definitive/9781491936153/ch04.html
 - https://medium.com/@andy.bryant/processing-guarantees-in-kafka-12dd2e30be0e
 - https://streaml.io/blog/exactly-once
+- [Introducing uFowarder: The Consumer Proxy for Kafka Async Queuing \| Uber Blog](https://www.uber.com/en-IN/blog/introducing-ufowarder/)
+	- [GitHub - uber/uForwarder: Apache Kafka is an open-source distributed event streaming platform used by thousands of companies. uForwarder aims to address several pain points while using Apache Kafka for pub-sub message queueing at scale, including partition scalability and head-of-line blocking.](https://github.com/uber/uForwarder)

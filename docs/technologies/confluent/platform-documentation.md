@@ -480,10 +480,55 @@ To mitigate this, three distinct pieces of functionality were added to Confluent
 
 Multi-Region Clusters allow customers to run a single Apache Kafka® cluster across multiple datacenters. Often referred to as a stretch cluster, Multi-Region Clusters replicate data between datacenters across regional availability zones. You can choose how to replicate data, synchronously or asynchronously, on a per Kafka topic basis. It provides good durability guarantees and makes disaster recovery (DR) much easier.
 
-Benefits:
+**Benefits:**
 
 - Supports multi-site deployments of synchronous and asynchronous replication between datacenters
 - Consumers can leverage data locality for reading Kafka data, which means better performance and lower cost
 - Ordering of Kafka messages is preserved across datacenters
 - Consumer offsets are preserved
 - In event of a disaster in a datacenter, new leaders are automatically elected in the other datacenter for the topics configured for synchronous replication, and applications proceed without interruption, achieving very low RTOs and RPO=0 for those topics.
+
+### Kafka Stretch Cluster
+
+A Kafka **stretch cluster** is **a single logical cluster where brokers and consensus nodes (ZooKeeper or KRaft) are physically distributed across multiple data centers or availability zones**.
+
+Unlike multi-cluster setups that use asynchronous mirroring, a stretch cluster relies on **synchronous replication** to ensure data is written to multiple locations before acknowledging success to the producer.
+
+#### Core Architecture & Mechanics
+
+- **Logical Unity**: It is managed as one cluster, meaning clients (producers/consumers) are generally unaware of the physical distribution.
+- **Rack Awareness**: Kafka uses the `broker.rack` configuration to identify each broker's physical location (e.g., DC1, DC2, DC3), ensuring partition replicas are spread across different sites.
+- **Quorum Requirement**: To maintain stability and prevent "split-brain" scenarios, a stretch cluster typically requires **three data centers** (or two plus a lightweight "tie-breaker" site) so a majority of consensus nodes can always form a quorum if one site fails.
+
+#### Critical Configurations
+
+To achieve the primary goal of zero data loss (RPO=0), specific settings are required:
+
+- **`acks=all`**: Producers must wait for all in-sync replicas to acknowledge the write.
+- **`min.insync.replicas`**: Usually set to **2** in a 3-replica setup, ensuring that if one DC fails, the remaining two can still accept writes.
+- **Latency Limits**: Because of synchronous writes, the network round-trip time (RTT) between sites directly impacts throughput. It is generally recommended to keep RTT **under 50-100ms**.
+
+#### Pros and Cons
+
+|Feature|Benefit / Trade-off|
+|---|---|
+|**Data Durability**|**RPO=0**: No data loss during a single DC failure.|
+|**Availability**|**Near-zero RTO**: Automatic failover with no manual intervention.|
+|**Complexity**|**High**: Extremely difficult to monitor and tune for network flakiness.|
+|**Performance**|**Lower Throughput**: Write latency is tethered to the slowest network link.|
+|**Cost**|**High**: Requires expensive, low-latency inter-DC connectivity and redundant capacity.|
+
+[Kafka Stretch Clusters. Introduction \| by Sonam Vermani \| Medium](https://sonamvermani.medium.com/kafka-stretch-clusters-844813df7f49)
+
+[Multi-Data Center Architectures on Confluent Platform \| Confluent Documentation](https://docs.confluent.io/platform/current/multi-dc-deployments/multi-region-architectures.html#stretched-cluster-3-data-center)
+
+- Multi-data center
+- Multi-Cluster replication
+- **2-Cluster Active-Passive**
+	- A 2-cluster active-passive architecture involves two fully-operational clusters, each running a separate Confluent cluster, where one cluster is the “active” cluster serving all produce and consume requests and the second “passive” cluster is a copy of the “active” but without applications running against it. When the “active” data center fails, applications failover to the “passive” data center. The key difference between this and the 2-cluster active-active architecture is that the active-passive architecture has applications only running in one cluster during normal operating conditions.
+- **2+-Cluster Active-Active**
+	- A 2+-cluster active-active architecture involves two or more fully-independent clusters, each running a separate Confluent cluster, where each cluster is a copy of the other. When one of the data centers fails, applications failover to the other cluster.
+- **Stretched Cluster 3-Data Center**
+	- A stretched 3-data center cluster architecture in kraft mode involves three data centers that are connected by a low latency (sub-100ms) and stable (very tight p99s) network, usually a “dark fiber” network that is owned or leased privately by the company. Confluent Server nodes are configured with appropriate process.roles (either broker,controller for combined roles or dedicated broker and controller roles) and are spread evenly across the three data centers to form a single, stretched KRaft cluster. The KRaft controller quorum now manages the cluster metadata and handles leader elections for all Kafka brokers in this single, stretched cluster.
+- **Stretched Cluster 2.5 Data Center**
+	- A stretched 2.5-data center architecture involves two fully-operational data centers and one light (0.5) data center running a single, stretched cluster. The fully operational data centers run an equal number of Confluent Server nodes configured as brokers and controllers, whereas the light data center runs a subset of kraft controller nodes to maintain the controller quorum (the equivalent of running a single ZooKeeper server in legacy deployments). When any single data center fails, the KRaft controller quorum will remain available. When a fully operational data center fails, applications failover to the other data center.

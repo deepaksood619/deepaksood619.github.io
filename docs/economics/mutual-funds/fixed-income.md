@@ -291,3 +291,4 @@ These bonds listed on the stock exchanges offer flexibility in terms of liquidit
 - [Where and How Should You INVEST in 2026? \| Bonds, Debt Funds & FD Investment Strategy 2026 - YouTube](https://www.youtube.com/watch?v=RidMVwKVin4)
 - [What Are Bond Ladders? A Simple Guide for Beginners. - YouTube](https://www.youtube.com/watch?v=oQ7JUjP8-ns)
 - [RBI Retail Direct Bonds vs RBI Floating Rate Bonds](https://freefincal.com/rbi-retail-direct-bonds-vs-rbi-floating-rate-bonds/)
+- [Securitised debt instrument default - the danger of chasing fixed income returns](https://freefincal.com/securitised-debt-instrument-default-the-danger-of-chasing-fixed-income-returns/)

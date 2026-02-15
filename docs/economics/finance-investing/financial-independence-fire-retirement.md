@@ -211,3 +211,4 @@ Even if the 26-year-old retires by 27 (naturally an unlikely event), the suggest
 - [My Spouse Is Not Ready to Learn Finances - What to Do?](https://freefincal.com/my-spouse-is-not-ready-to-learn-finances-what-to-do/)
 - [The 12 stages of preparing for retirement](https://freefincal.com/the-12-stages-of-preparing-for-retirement/)
 - [Why the 4% FIRE rule fails in India and how you can fix the retirement plan](https://www.moneycontrol.com/news/business/personal-finance/why-the-4-retirement-rule-fails-for-fire-in-india-and-what-you-should-do-13760092.html)
+- [Using safe withdrawal rates to judge retirement corpus health](https://freefincal.com/using-safe-withdrawal-rates-to-judge-retirement-corpus-health/)

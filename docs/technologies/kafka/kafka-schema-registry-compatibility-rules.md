@@ -18,6 +18,16 @@ Compatibility checks know nothing of what actual data exists in a system, so may
 
 ![Schema Registry Compatibility Rules](../../media/Screenshot%202025-12-15%20at%207.57.21%20PM.png)
 
+## Compatibility Settings
+
+1. **Backward -** (default) Consumers using the new schema can read data written by producers using the latest registered schema.
+2. **Transitive backward -** Consumers using the new schema can read data written by producers using all previously registered schemas.
+3. **Forward -** Consumers using the latest registered schema can read data written by producers using the new schema.
+4. **Transitive forward -** Consumers using all the previously registered schemas can read data written by producers using the new schema.
+5. **Full -** The new schema is forward and backward compatible with the latest registered schema.
+6. **Transitive full -** The new schema is forward and backward compatible with all previously registered schemas.
+7. **None -** Schema compatibility checks are disabled.
+
 ## Prefer backward compatibility
 
 Backward compatibility, which is the default setting, should be preferred over the other compatibility levels. Backward compatibility allows a consumer to read old messages. Kafka Streams requires at least backward compatibility, because it may need to read old messages in the changelog topic.

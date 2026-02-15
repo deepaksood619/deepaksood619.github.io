@@ -90,11 +90,10 @@ With Data Portal, data practitioners can:
 
 The **"Access requests" tab in the "Accounts & access" section of Confluent Cloud is where you can view and manage all pending and past access requests for Kafka topics**. This tab is part of the Data Portal feature, which enables a self-service workflow for requesting and granting access to topics.
 
-[Data Portal on Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/stream-governance/data-portal.html)
-
-[Organize your data quickly and easily using Confluent Data Portal - YouTube](https://www.youtube.com/watch?v=Vg7k_3vlC3Q&)
-
-[Data Portal for Confluent Stream Governance](https://www.confluent.io/blog/data-portal-stream-governance/)
+- [Data Portal on Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/stream-governance/data-portal.html)
+- [Organize your data quickly and easily using Confluent Data Portal - YouTube](https://www.youtube.com/watch?v=Vg7k_3vlC3Q&)
+- [Data Portal for Confluent Stream Governance](https://www.confluent.io/blog/data-portal-stream-governance/)
+- [Organize your data quickly and easily using Confluent Data Portal - YouTube](https://www.youtube.com/watch?v=Vg7k_3vlC3Q)
 
 ## Data Contracts for Schema Registry on Confluent Cloud
 

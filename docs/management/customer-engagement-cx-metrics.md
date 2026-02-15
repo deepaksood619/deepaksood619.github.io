@@ -37,10 +37,10 @@ Whether it is via replies, video views, likes, tweets, mentions, shares, comment
 
 Enshittification is the **process by which online platforms degrade in quality over time by prioritizing profit over user experience**. It occurs in three phases: initially, a platform attracts users with a high-quality, user-friendly experience; next, it prioritizes business customers (like advertisers), often at the users' expense; finally, it extracts maximum value from both users and business customers to benefit shareholders. This cycle can lead to increased ads, biased search results, and a generally worse user experience.
 
-[Why Nobody is Posting on Social Media Anymore \| Vantage with Palki Sharma \| N18G - YouTube](https://www.youtube.com/watch?v=gXnNvtbsKf8)
-
+- [Why Nobody is Posting on Social Media Anymore \| Vantage with Palki Sharma \| N18G - YouTube](https://www.youtube.com/watch?v=gXnNvtbsKf8)
 - Posting Zero
 - [Why did our friends stop posting on social media? \| BBC Global - YouTube](https://www.youtube.com/watch?v=bN4MNdCAnWA)
+- [Backseat Software – Mike Swanson's Blog](https://blog.mikeswanson.com/backseat-software/)
 
 ## Number Of Form Fills
 

@@ -8,6 +8,8 @@
 
 **Don't buy house/land in India, since you are not going to live here**
 
+**Do you want to be rich in a poor country or poor in a rich country**
+
 Housing isn’t a great investment but for most people, it’s the best investment they will ever make because it’s the only asset they will leave alone and let compound for 10, 20, 30 years.
 
 It's about people and not place where you live, you enjoy places with people and not place
@@ -364,6 +366,7 @@ For maa - find hobby
 - [Is it better for a young family to rent than to buy a home?](https://freefincal.com/is-it-better-for-a-young-family-to-rent-than-to-buy-a-home/)
 - [Why Owning Property is Safer than Renting in Old Age: A Real-Life Story](https://freefincal.com/why-owning-property-is-safer-than-renting-in-old-age-a-real-life-story/)
 - [Rs 80,000 EMI or Rs 35,000 rent? One Reddit post has everyone rethinking their financial and life choices - The Economic Times](https://m.economictimes.com/magazines/panache/rs-80000-emi-or-rs-35000-rent-one-reddit-post-has-everyone-rethinking-their-life-and-financial-choices/amp_articleshow/123259518.cms?amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#amp_tf=From%20%251%24s&aoh=17552313359425&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fm.economictimes.com%2Fmagazines%2Fpanache%2Frs-80000-emi-or-rs-35000-rent-one-reddit-post-has-everyone-rethinking-their-life-and-financial-choices%2Farticleshow%2F123259518.cms)
+- [The Rent vs. Buy Debate: Why Excel Sheets Fail in Real Life](https://freefincal.com/the-rent-vs-buy-debate-why-excel-sheets-fail-in-real-life/)
 
 ## Documents / Property Investing
 
