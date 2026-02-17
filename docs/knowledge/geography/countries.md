@@ -59,6 +59,13 @@ https://docs.google.com/spreadsheets/d/1zl7adSoCYuWpuBnRPbkkhwT2RZ5hk3lUO4ud0NE7
 - Now, you might think it’s bizarre, wrong, or even chauvinistic that Japanese men expect their women to cry and look sad (even when it feels really REALLY GOOD)… BUT is it really that strange? In America, men expect women to smile, moan and scream “YES! YES!” at all times, even when it hurts.
 - [I saw in Japanese porn, why do most of the girls start crying during sex? Does she feel pain? I don’t know what exactly she has feeling during that act. - Quora](https://www.quora.com/I-saw-in-Japanese-porn-why-do-most-of-the-girls-start-crying-during-sex-Does-she-feel-pain-I-don-t-know-what-exactly-she-has-feeling-during-that-act)
 
+### Vietnam
+
+- [Vietnam Travel Cost from India 2025 \| Vietnam Itinerary 5, 7, 10 Days \| Guide by Khushboo Vasudeva - YouTube](https://www.youtube.com/watch?v=jV5zIEKr824)
+- Vietnam VND
+- [Don’t Visit VIETNAM… Before Watching This! (Expenses & Travel Tips) - YouTube](https://www.youtube.com/watch?v=Fb_9biTC0i4)
+- [Essential Travel Checklist 🏞️: What You MUST Know Before Visiting Vietnam! ✈️🌏 - YouTube](https://www.youtube.com/watch?v=_qOFAAfx8hk)
+
 ### Middle East
 
 - [Why the Middle East’s Borders Guarantee Forever Wars - YouTube](https://www.youtube.com/watch?v=JN4mnVLP0rU)

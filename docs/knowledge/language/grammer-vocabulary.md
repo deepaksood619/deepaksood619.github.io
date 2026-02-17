@@ -228,6 +228,7 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - **mezzanine** is an intermediate floor in a building which is partly open to the double-height ceilinged floor below, or which does not extend over the whole floorspace of the building. However, the term is often used loosely for the floor above the ground floor, especially where a very high-ceilinged original ground floor has been split horizontally into two floors.
 - **agnotology -** Agnotology is the study of culturally induced ignorance or doubt, particularly how it's created and spread, often intentionally, to influence people, sell products, or gain political advantage, like the tobacco industry obscuring smoking's harms. Coined by historian Robert N. Proctor, it explores why we don't know what we don't know, looking at manufactured uncertainty, misinformation, suppressed knowledge, and cultural factors that obscure facts or create false debates.
 - **nihilism -** the rejection of all religious and moral principles, in the belief that life is meaningless. the belief that nothing in the world has a real existence.
+- **white-glove -** In the context of business and customer service, "white gloves" (often referred to as "white-glove service") means providing a premium level of care, attention to detail, and luxury. The term originates from high-end hospitality and logistics. Think of a butler in a mansion or a delivery person wearing actual white gloves to ensure they don't leave fingerprints on expensive furniture.
 
 ### Shill / Shilling
 

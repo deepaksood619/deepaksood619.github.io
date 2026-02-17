@@ -163,6 +163,7 @@
 - Cleo Abram
 - [Smarter While You Sleep - YouTube](https://youtube.com/@smarterwhileyousleep)
 - [EO - YouTube](https://www.youtube.com/@eoglobal)
+- [Farming Engineer - YouTube](https://www.youtube.com/@farmingengineer)
 
 ### Food
 
