@@ -1,0 +1,1363 @@
+<!doctype html>
+<html lang="en" dir="ltr" class="docs-wrapper plugin-docs plugin-id-default docs-version-current docs-doc-page docs-doc-id-data-warehouses/bigquery/documentation" data-has-hydrated="false">
+<head>
+<meta charset="UTF-8">
+<meta name="generator" content="Docusaurus v3.8.0">
+<title data-rh="true">Documentation | Deep Notes</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://deepaksood619.github.io/img/timeline_blurred.webp"><meta data-rh="true" name="twitter:image" content="https://deepaksood619.github.io/img/timeline_blurred.webp"><meta data-rh="true" property="og:url" content="https://deepaksood619.github.io/data-warehouses/bigquery/documentation"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Documentation | Deep Notes"><meta data-rh="true" name="description" content="Enable the BigQuery sandbox  \|  Google Cloud"><meta data-rh="true" property="og:description" content="Enable the BigQuery sandbox  \|  Google Cloud"><link data-rh="true" rel="icon" href="/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://deepaksood619.github.io/data-warehouses/bigquery/documentation"><link data-rh="true" rel="alternate" href="https://deepaksood619.github.io/data-warehouses/bigquery/documentation" hreflang="en"><link data-rh="true" rel="alternate" href="https://deepaksood619.github.io/data-warehouses/bigquery/documentation" hreflang="x-default"><link data-rh="true" rel="preconnect" href="https://X3OY8NGHVH-dsn.algolia.net" crossorigin="anonymous"><script data-rh="true" type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Data Warehouses","item":"https://deepaksood619.github.io/data-warehouses/"},{"@type":"ListItem","position":2,"name":"BigQuery","item":"https://deepaksood619.github.io/data-warehouses/bigquery/"},{"@type":"ListItem","position":3,"name":"Documentation","item":"https://deepaksood619.github.io/data-warehouses/bigquery/documentation"}]}</script><link rel="preconnect" href="https://www.google-analytics.com">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZSZMJXWSH3"></script>
+<script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-ZSZMJXWSH3",{})</script>
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script>window.dataLayer=window.dataLayer||[]</script>
+<script>!function(e,t,a,n){e[n]=e[n]||[],e[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var g=t.getElementsByTagName(a)[0],m=t.createElement(a);m.async=!0,m.src="https://www.googletagmanager.com/gtm.js?id=GTM-TN3KBF4",g.parentNode.insertBefore(m,g)}(window,document,"script","dataLayer")</script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" title="Deep Notes" href="/opensearch.xml">
+<link rel="icon" href="/img/logo.webp">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="rgb(53, 120, 229)">
+
+
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.9f55d0bd.css">
+<script src="/assets/js/runtime~main.7b3a7cc3.js" defer="defer"></script>
+<script src="/assets/js/main.c96be3a1.js" defer="defer"></script>
+</head>
+<body class="navigation-with-keyboard">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;"><defs>
+<symbol id="theme-svg-external-link" viewBox="0 0 24 24"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"/></symbol>
+</defs></svg>
+<script>!function(){var t=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return window.localStorage.getItem("theme")}catch(t){}}();document.documentElement.setAttribute("data-theme",t||(window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light")),document.documentElement.setAttribute("data-theme-choice",t||"system")}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id="__docusaurus"><div role="region" aria-label="Skip to main content"><a class="skipToContent_fXgn" href="#__docusaurus_skipToContent_fallback">Skip to main content</a></div><nav aria-label="Main" class="theme-layout-navbar navbar navbar--fixed-top"><div class="navbar__inner"><div class="theme-layout-navbar-left navbar__items"><button aria-label="Toggle navigation bar" aria-expanded="false" class="navbar__toggle clean-btn" type="button"><svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path></svg></button><a class="navbar__brand" href="/"><div class="navbar__logo"><img src="/img/logo.webp" alt="Site Logo" class="themedComponent_mlkZ themedComponent--light_NVdE"><img src="/img/logo.webp" alt="Site Logo" class="themedComponent_mlkZ themedComponent--dark_xIcU"></div><b class="navbar__title text--truncate">Deep Notes</b></a></div><div class="theme-layout-navbar-right navbar__items navbar__items--right"><a href="https://github.com/deepaksood619" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">GitHub<svg width="13.5" height="13.5" aria-hidden="true" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a><a href="https://www.linkedin.com/in/deepaksood619/" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">LinkedIn<svg width="13.5" height="13.5" aria-hidden="true" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a><div class="toggle_vylO colorModeToggle_DEke"><button class="clean-btn toggleButton_gllP toggleButtonDisabled_aARS" type="button" disabled="" title="system mode" aria-label="Switch between dark and light mode (currently system mode)"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP lightToggleIcon_pyhR"><path fill="currentColor" d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP darkToggleIcon_wfgR"><path fill="currentColor" d="M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP systemToggleIcon_QzmC"><path fill="currentColor" d="m12 21c4.971 0 9-4.029 9-9s-4.029-9-9-9-9 4.029-9 9 4.029 9 9 9zm4.95-13.95c1.313 1.313 2.05 3.093 2.05 4.95s-0.738 3.637-2.05 4.95c-1.313 1.313-3.093 2.05-4.95 2.05v-14c1.857 0 3.637 0.737 4.95 2.05z"></path></svg></button></div><div class="navbarSearchContainer_Bca1"><button type="button" class="DocSearch DocSearch-Button" aria-label="Search (Command+K)"><span class="DocSearch-Button-Container"><svg width="20" height="20" class="DocSearch-Search-Icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M14.386 14.386l4.0877 4.0877-4.0877-4.0877c-2.9418 2.9419-7.7115 2.9419-10.6533 0-2.9419-2.9418-2.9419-7.7115 0-10.6533 2.9418-2.9419 7.7115-2.9419 10.6533 0 2.9419 2.9418 2.9419 7.7115 0 10.6533z" stroke="currentColor" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg><span class="DocSearch-Button-Placeholder">Search</span></span><span class="DocSearch-Button-Keys"></span></button></div></div></div><div role="presentation" class="navbar-sidebar__backdrop"></div></nav><div id="__docusaurus_skipToContent_fallback" class="theme-layout-main main-wrapper mainWrapper_z2l0"><div class="docsWrapper_hBAB"><button aria-label="Scroll back to top" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type="button"></button><div class="docRoot_UBD9"><aside class="theme-doc-sidebar-container docSidebarContainer_YfHR"><div class="sidebarViewport_aRkj"><div class="sidebar_njMd"><nav aria-label="Docs sidebar" class="menu thin-scrollbar menu_SIkG"><ul class="theme-doc-sidebar-menu menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/about-deepak-sood/">About Deepak Sood</a><button aria-label="Expand sidebar category &#x27;About Deepak Sood&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/ai/">AI</a><button aria-label="Expand sidebar category &#x27;AI&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/algorithms/">Algorithms</a><button aria-label="Expand sidebar category &#x27;Algorithms&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/book-summaries/">Book Summaries</a><button aria-label="Expand sidebar category &#x27;Book Summaries&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/cloud/">Cloud</a><button aria-label="Expand sidebar category &#x27;Cloud&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/computer-science/">Computer Science</a><button aria-label="Expand sidebar category &#x27;Computer Science&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/courses/">Courses / Certifications</a><button aria-label="Expand sidebar category &#x27;Courses / Certifications&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/data-structures/">Data Structures</a><button aria-label="Expand sidebar category &#x27;Data Structures&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--active" href="/data-warehouses/">Data Warehouses</a><button aria-label="Collapse sidebar category &#x27;Data Warehouses&#x27;" aria-expanded="true" type="button" class="clean-btn menu__caret"></button></div><ul class="menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--active" tabindex="0" href="/data-warehouses/bigquery/">BigQuery</a><button aria-label="Collapse sidebar category &#x27;BigQuery&#x27;" aria-expanded="true" type="button" class="clean-btn menu__caret"></button></div><ul class="menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/bigquery/architecture">Architecture</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/bigquery/biglake">BigLake</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/bigquery/data-masking">Data Masking</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link menu__link--active" aria-current="page" tabindex="0" href="/data-warehouses/bigquery/documentation">Documentation</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/bigquery/interview-questions">Interview Questions</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/bigquery/modeling">Modeling</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/bigquery/optimizations">Optimizations</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/bigquery/others">Others</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/bigquery/pricing">Pricing</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/bigquery/queries-commands">Queries / Commands</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/bigquery/query-optimizations">Query Optimizations</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/bigquery/query-working">Query Working</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/bigquery/slots">Slots</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/bigquery/storage-optimizations">Storage Cost Optimisation</a></li></ul></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/data-warehouses/clickhouse/">ClickHouse</a><button aria-label="Expand sidebar category &#x27;ClickHouse&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/comparisons">Comparisons</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/data-warehouses/concepts/">Concepts</a><button aria-label="Expand sidebar category &#x27;Concepts&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/data-warehouses/databricks/">Databricks</a><button aria-label="Expand sidebar category &#x27;Databricks&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/list-of-data-warehouses">List of Data Warehouses</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/data-warehouses/snowflake/">Snowflake</a><button aria-label="Expand sidebar category &#x27;Snowflake&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/starrocks">StarRocks</a></li></ul></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/databases/">Databases</a><button aria-label="Expand sidebar category &#x27;Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/databases-nosql/">NoSQL Databases</a><button aria-label="Expand sidebar category &#x27;NoSQL Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/databases-sql/">SQL Databases</a><button aria-label="Expand sidebar category &#x27;SQL Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/decentralized-applications/">Decentralized Applications</a><button aria-label="Expand sidebar category &#x27;Decentralized Applications&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/devops/">DevOps</a><button aria-label="Expand sidebar category &#x27;DevOps&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/economics/">Economics</a><button aria-label="Expand sidebar category &#x27;Economics&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/education/">Education</a><button aria-label="Expand sidebar category &#x27;Education&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/frontend/">Frontend</a><button aria-label="Expand sidebar category &#x27;Frontend&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/knowledge/">Knowledge</a><button aria-label="Expand sidebar category &#x27;Knowledge&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/languages/">Languages</a><button aria-label="Expand sidebar category &#x27;Languages&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/management/">Management</a><button aria-label="Expand sidebar category &#x27;Management&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/mathematics/">Mathematics</a><button aria-label="Expand sidebar category &#x27;Mathematics&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/networking/">Networking</a><button aria-label="Expand sidebar category &#x27;Networking&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/psychology/">Psychology</a><button aria-label="Expand sidebar category &#x27;Psychology&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/python/">Python</a><button aria-label="Expand sidebar category &#x27;Python&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link" href="/">Deepak&#x27;s Wiki</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/technologies/">Technologies</a><button aria-label="Expand sidebar category &#x27;Technologies&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li></ul></nav><button type="button" title="Collapse sidebar" aria-label="Collapse sidebar" class="button button--secondary button--outline collapseSidebarButton_PEFL"><svg width="20" height="20" aria-hidden="true" class="collapseSidebarButtonIcon_kv0_"><g fill="#7a7a7a"><path d="M9.992 10.023c0 .2-.062.399-.172.547l-4.996 7.492a.982.982 0 01-.828.454H1c-.55 0-1-.453-1-1 0-.2.059-.403.168-.551l4.629-6.942L.168 3.078A.939.939 0 010 2.528c0-.548.45-.997 1-.997h2.996c.352 0 .649.18.828.45L9.82 9.472c.11.148.172.347.172.55zm0 0"></path><path d="M19.98 10.023c0 .2-.058.399-.168.547l-4.996 7.492a.987.987 0 01-.828.454h-3c-.547 0-.996-.453-.996-1 0-.2.059-.403.168-.551l4.625-6.942-4.625-6.945a.939.939 0 01-.168-.55 1 1 0 01.996-.997h3c.348 0 .649.18.828.45l4.996 7.492c.11.148.168.347.168.55zm0 0"></path></g></svg></button></div></div></aside><main class="docMainContainer_TBSr"><div class="container padding-top--md padding-bottom--lg"><div class="row"><div class="col docItemCol_VOVn"><div class="docItemContainer_Djhp"><article><nav class="theme-doc-breadcrumbs breadcrumbsContainer_Z_bl" aria-label="Breadcrumbs"><ul class="breadcrumbs"><li class="breadcrumbs__item"><a aria-label="Home page" class="breadcrumbs__link" href="/"><svg viewBox="0 0 24 24" class="breadcrumbHomeIcon_YNFT"><path d="M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z" fill="currentColor"></path></svg></a></li><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="/data-warehouses/"><span>Data Warehouses</span></a></li><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="/data-warehouses/bigquery/"><span>BigQuery</span></a></li><li class="breadcrumbs__item breadcrumbs__item--active"><span class="breadcrumbs__link">Documentation</span></li></ul></nav><div class="tocCollapsible_ETCw theme-doc-toc-mobile tocMobile_ITEo"><button type="button" class="clean-btn tocCollapsibleButton_TO0P">On this page</button></div><div class="theme-doc-markdown markdown"><header><h1>Documentation</h1></header>
+<p><a href="https://cloud.google.com/bigquery/docs/sandbox" target="_blank" rel="noopener noreferrer">Enable the BigQuery sandbox  |  Google Cloud</a></p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/introduction" target="_blank" rel="noopener noreferrer">Product overview</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="how-does-bigquery-work">How does BigQuery work?<a href="#how-does-bigquery-work" class="hash-link" aria-label="Direct link to How does BigQuery work?" title="Direct link to How does BigQuery work?">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/storage_overview" target="_blank" rel="noopener noreferrer">Storage</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/query-overview" target="_blank" rel="noopener noreferrer">Analytics</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/admin-intro" target="_blank" rel="noopener noreferrer">Administration</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="get-started">Get started<a href="#get-started" class="hash-link" aria-label="Direct link to Get started" title="Direct link to Get started">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/sandbox" target="_blank" rel="noopener noreferrer">Use the BigQuery sandbox</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="quickstarts">Quickstarts<a href="#quickstarts" class="hash-link" aria-label="Direct link to Quickstarts" title="Direct link to Quickstarts">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="try-the-cloud-console">Try the Cloud console<a href="#try-the-cloud-console" class="hash-link" aria-label="Direct link to Try the Cloud console" title="Direct link to Try the Cloud console">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/quickstarts/query-public-dataset-console" target="_blank" rel="noopener noreferrer">Query public data</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/quickstarts/load-data-console" target="_blank" rel="noopener noreferrer">Load and query data</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/enable-assets" target="_blank" rel="noopener noreferrer">Enable asset management</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="try-the-command-line-tool">Try the command-line tool<a href="#try-the-command-line-tool" class="hash-link" aria-label="Direct link to Try the command-line tool" title="Direct link to Try the command-line tool">​</a></h3>
+<ul>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/quickstarts/query-public-dataset-bq" target="_blank" rel="noopener noreferrer">Query public data</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/quickstarts/load-data-bq" target="_blank" rel="noopener noreferrer">Load and query data</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/quickstarts/quickstart-client-libraries" target="_blank" rel="noopener noreferrer">Try the client libraries</a></p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="explore-bigquery-tools">Explore BigQuery tools<a href="#explore-bigquery-tools" class="hash-link" aria-label="Direct link to Explore BigQuery tools" title="Direct link to Explore BigQuery tools">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/bigquery-web-ui" target="_blank" rel="noopener noreferrer">Explore the console</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/bq-command-line-tool" target="_blank" rel="noopener noreferrer">Explore the command-line tool</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="migrate">Migrate<a href="#migrate" class="hash-link" aria-label="Direct link to Migrate" title="Direct link to Migrate">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/migration/migration-overview" target="_blank" rel="noopener noreferrer">Overview</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="migrate-a-data-warehouse">Migrate a data warehouse<a href="#migrate-a-data-warehouse" class="hash-link" aria-label="Direct link to Migrate a data warehouse" title="Direct link to Migrate a data warehouse">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/migration-intro" target="_blank" rel="noopener noreferrer">Introduction to BigQuery Migration Service</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/migration-assessment" target="_blank" rel="noopener noreferrer">Migration assessment</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/migration/schema-data-overview" target="_blank" rel="noopener noreferrer">Migrate schema and data</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/migration/pipelines" target="_blank" rel="noopener noreferrer">Migrate data pipelines</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="migrate-sql">Migrate SQL<a href="#migrate-sql" class="hash-link" aria-label="Direct link to Migrate SQL" title="Direct link to Migrate SQL">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/interactive-sql-translator" target="_blank" rel="noopener noreferrer">Translate SQL queries interactively</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/api-sql-translator" target="_blank" rel="noopener noreferrer">Translate SQL queries using the API</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/batch-sql-translator" target="_blank" rel="noopener noreferrer">Translate SQL queries in batch</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/generate-metadata" target="_blank" rel="noopener noreferrer">Generate metadata for translation and assessment</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/config-yaml-translation" target="_blank" rel="noopener noreferrer">Transform SQL translations with YAML</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/output-name-mapping" target="_blank" rel="noopener noreferrer">Map SQL object names for batch translation</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="migration-guides">Migration guides<a href="#migration-guides" class="hash-link" aria-label="Direct link to Migration guides" title="Direct link to Migration guides">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="amazon-redshift">Amazon Redshift<a href="#amazon-redshift" class="hash-link" aria-label="Direct link to Amazon Redshift" title="Direct link to Amazon Redshift">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/migration/redshift-overview" target="_blank" rel="noopener noreferrer">Migration overview</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/migration/redshift" target="_blank" rel="noopener noreferrer">Migrate Amazon Redshift schema and data</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/migration/redshift-vpc" target="_blank" rel="noopener noreferrer">Migrate Amazon Redshift schema and data when using a VPC</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/migration/redshift-sql" target="_blank" rel="noopener noreferrer">SQL translation reference</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="apache-hive">Apache Hive<a href="#apache-hive" class="hash-link" aria-label="Direct link to Apache Hive" title="Direct link to Apache Hive">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/migration/hive-overview" target="_blank" rel="noopener noreferrer">Migration overview</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/migration/hive" target="_blank" rel="noopener noreferrer">Migrate Apache Hive schema and data</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/migration/hive-sql" target="_blank" rel="noopener noreferrer">SQL translation reference</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="ibm-netezza">IBM Netezza<a href="#ibm-netezza" class="hash-link" aria-label="Direct link to IBM Netezza" title="Direct link to IBM Netezza">​</a></h3>
+<p>Netezza is a data warehouse system that offers analytics, AI, and machine learning (ML) capabilities. It&#x27;s a subsidiary of IBM, and is available on IBM Cloud, AWS, and Microsoft Azure.</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="features">Features<a href="#features" class="hash-link" aria-label="Direct link to Features" title="Direct link to Features">​</a></h4>
+<ul>
+<li>
+<p><strong>Scalability</strong>: Scales up and down based on usage</p>
+</li>
+<li>
+<p><strong>Open formats</strong>: Supports open formats like Parquet and Iceberg for secure data sharing</p>
+</li>
+<li>
+<p><strong>In-database analytics</strong>: Allows users to run complex queries and build models directly in the database</p>
+</li>
+<li>
+<p><strong>Geospatial capabilities</strong>: Built-in geospatial capabilities for analyzing data</p>
+</li>
+<li>
+<p><strong>Solid-state disks</strong>: Data is stored on solid-state disks (SSDs) that are self-encrypting drives (SEDs)</p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/migration/netezza" target="_blank" rel="noopener noreferrer">Migrate from IBM Netezza</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/migration/netezza-sql" target="_blank" rel="noopener noreferrer">SQL translation reference</a></p>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="oracle">Oracle<a href="#oracle" class="hash-link" aria-label="Direct link to Oracle" title="Direct link to Oracle">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/migration/oracle-migration" target="_blank" rel="noopener noreferrer">Migration guide</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/migration/oracle-sql" target="_blank" rel="noopener noreferrer">SQL translation reference</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="snowflake">Snowflake<a href="#snowflake" class="hash-link" aria-label="Direct link to Snowflake" title="Direct link to Snowflake">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/migration/snowflake-overview" target="_blank" rel="noopener noreferrer">Migration guide</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/migration/snowflake-sql" target="_blank" rel="noopener noreferrer">SQL translation reference</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="teradata">Teradata<a href="#teradata" class="hash-link" aria-label="Direct link to Teradata" title="Direct link to Teradata">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/migration/teradata-overview" target="_blank" rel="noopener noreferrer">Migration overview</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/migration/teradata" target="_blank" rel="noopener noreferrer">Migrate Teradata schema and data</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/migration/teradata-tutorial" target="_blank" rel="noopener noreferrer">Migration tutorial</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/migration/teradata-sql" target="_blank" rel="noopener noreferrer">SQL translation reference</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="design">Design<a href="#design" class="hash-link" aria-label="Direct link to Design" title="Direct link to Design">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/resource-hierarchy" target="_blank" rel="noopener noreferrer">Organize resources</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/editions-intro" target="_blank" rel="noopener noreferrer">Understand editions</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="datasets">Datasets<a href="#datasets" class="hash-link" aria-label="Direct link to Datasets" title="Direct link to Datasets">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/datasets-intro" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/datasets" target="_blank" rel="noopener noreferrer">Create datasets</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/listing-datasets" target="_blank" rel="noopener noreferrer">List datasets</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/updating-datasets" target="_blank" rel="noopener noreferrer">Update dataset properties</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/data-replication" target="_blank" rel="noopener noreferrer">Cross-region replication</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/managed-disaster-recovery" target="_blank" rel="noopener noreferrer">Managed disaster recovery</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/time-travel" target="_blank" rel="noopener noreferrer">Dataset data retention</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tables">Tables<a href="#tables" class="hash-link" aria-label="Direct link to Tables" title="Direct link to Tables">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="bigquery-tables">BigQuery tables<a href="#bigquery-tables" class="hash-link" aria-label="Direct link to BigQuery tables" title="Direct link to BigQuery tables">​</a></h3>
+<ul>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/tables-intro" target="_blank" rel="noopener noreferrer">Introduction</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/tables" target="_blank" rel="noopener noreferrer">Create and use tables</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/iceberg-tables" target="_blank" rel="noopener noreferrer">BigQuery tables for Apache Iceberg</a></p>
+</li>
+<li>
+<p>Specify table schemas</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/schemas" target="_blank" rel="noopener noreferrer">Specify a schema</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/nested-repeated" target="_blank" rel="noopener noreferrer">Specify nested and repeated columns</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/default-values" target="_blank" rel="noopener noreferrer">Specify default column values</a></li>
+</ul>
+</li>
+<li>
+<p>Segment with partitioned tables</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/partitioned-tables" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/creating-partitioned-tables" target="_blank" rel="noopener noreferrer">Create partitioned tables</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/managing-partitioned-tables" target="_blank" rel="noopener noreferrer">Manage partitioned tables</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/querying-partitioned-tables" target="_blank" rel="noopener noreferrer">Query partitioned tables</a></li>
+</ul>
+</li>
+<li>
+<p>Optimize with clustered tables</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/clustered-tables" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/creating-clustered-tables" target="_blank" rel="noopener noreferrer">Create and use clustered tables</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/querying-clustered-tables" target="_blank" rel="noopener noreferrer">Query clustered tables</a></li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="external-tables">External tables<a href="#external-tables" class="hash-link" aria-label="Direct link to External tables" title="Direct link to External tables">​</a></h3>
+<ul>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/external-data-sources" target="_blank" rel="noopener noreferrer">Introduction</a></p>
+</li>
+<li>
+<p>Types of external tables</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/biglake-intro" target="_blank" rel="noopener noreferrer">BigLake external tables</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/omni-introduction" target="_blank" rel="noopener noreferrer">BigQuery Omni</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/object-table-introduction" target="_blank" rel="noopener noreferrer">Object tables</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/external-tables" target="_blank" rel="noopener noreferrer">External tables</a></li>
+</ul>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/external-table-definition" target="_blank" rel="noopener noreferrer">External table definition file</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/hive-partitioned-queries" target="_blank" rel="noopener noreferrer">Externally partitioned data</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/metadata-caching" target="_blank" rel="noopener noreferrer">Use metadata caching</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/omni-aws-create-external-table" target="_blank" rel="noopener noreferrer">Amazon S3 BigLake external tables</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/iceberg-external-tables" target="_blank" rel="noopener noreferrer">BigLake external tables for Apache Iceberg</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/omni-azure-create-external-table" target="_blank" rel="noopener noreferrer">Azure Blob Storage BigLake tables</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/create-bigtable-external-table" target="_blank" rel="noopener noreferrer">Bigtable external table</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/create-cloud-storage-table-biglake" target="_blank" rel="noopener noreferrer">BigLake external tables for Cloud Storage</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/object-tables" target="_blank" rel="noopener noreferrer">Cloud Storage object tables</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/external-data-cloud-storage" target="_blank" rel="noopener noreferrer">Cloud Storage external tables</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/create-delta-lake-table" target="_blank" rel="noopener noreferrer">Delta Lake BigLake tables</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/external-data-drive" target="_blank" rel="noopener noreferrer">Google Drive external tables</a></p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="views">Views<a href="#views" class="hash-link" aria-label="Direct link to Views" title="Direct link to Views">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="logical-views">Logical views<a href="#logical-views" class="hash-link" aria-label="Direct link to Logical views" title="Direct link to Logical views">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/views-intro" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/views" target="_blank" rel="noopener noreferrer">Create views</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/view-metadata" target="_blank" rel="noopener noreferrer">Get information about views</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/managing-views" target="_blank" rel="noopener noreferrer">Manage views</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="materialized-views">Materialized views<a href="#materialized-views" class="hash-link" aria-label="Direct link to Materialized views" title="Direct link to Materialized views">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/materialized-views-intro" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/materialized-views-create" target="_blank" rel="noopener noreferrer">Create materialized views</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/materialized-view-replicas-create" target="_blank" rel="noopener noreferrer">Create materialized view replicas</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="routines">Routines<a href="#routines" class="hash-link" aria-label="Direct link to Routines" title="Direct link to Routines">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/routines" target="_blank" rel="noopener noreferrer">Manage routines</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/user-defined-functions" target="_blank" rel="noopener noreferrer">User-defined functions</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/user-defined-aggregates" target="_blank" rel="noopener noreferrer">User-defined aggregate functions</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/table-functions" target="_blank" rel="noopener noreferrer">Table functions</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/remote-functions" target="_blank" rel="noopener noreferrer">Remote functions</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/procedures" target="_blank" rel="noopener noreferrer">SQL stored procedures</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/spark-procedures" target="_blank" rel="noopener noreferrer">Stored procedures for Apache Spark</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/object-table-remote-function" target="_blank" rel="noopener noreferrer">Analyze object tables by using remote functions</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/remote-functions-translation-tutorial" target="_blank" rel="noopener noreferrer">Remote functions and Translation API tutorial</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="connections">Connections<a href="#connections" class="hash-link" aria-label="Direct link to Connections" title="Direct link to Connections">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/connections-api-intro" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/omni-aws-create-connection" target="_blank" rel="noopener noreferrer">Amazon S3 connection</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/connect-to-spark" target="_blank" rel="noopener noreferrer">Apache Spark connection</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/omni-azure-create-connection" target="_blank" rel="noopener noreferrer">Azure Blob Storage connection</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/create-cloud-resource-connection" target="_blank" rel="noopener noreferrer">Cloud resource connection</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/connect-to-spanner" target="_blank" rel="noopener noreferrer">Spanner connection</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/connect-to-sql" target="_blank" rel="noopener noreferrer">Cloud SQL connection</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/connect-to-alloydb" target="_blank" rel="noopener noreferrer">AlloyDB connection</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/connect-to-sap-datasphere" target="_blank" rel="noopener noreferrer">SAP Datasphere connection</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/working-with-connections" target="_blank" rel="noopener noreferrer">Manage connections</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/connections-with-network-attachment" target="_blank" rel="noopener noreferrer">Configure connections with network attachments</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="indexes">Indexes<a href="#indexes" class="hash-link" aria-label="Direct link to Indexes" title="Direct link to Indexes">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="search-indexes">Search indexes<a href="#search-indexes" class="hash-link" aria-label="Direct link to Search indexes" title="Direct link to Search indexes">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/search-intro" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/search-index" target="_blank" rel="noopener noreferrer">Manage search indexes</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="vector-indexes">Vector indexes<a href="#vector-indexes" class="hash-link" aria-label="Direct link to Vector indexes" title="Direct link to Vector indexes">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/vector-search-intro" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/vector-index" target="_blank" rel="noopener noreferrer">Manage vector indexes</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="load-transform-and-export">Load, transform, and export<a href="#load-transform-and-export" class="hash-link" aria-label="Direct link to Load, transform, and export" title="Direct link to Load, transform, and export">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/load-transform-export-intro" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="load-data">Load data<a href="#load-data" class="hash-link" aria-label="Direct link to Load data" title="Direct link to Load data">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/loading-data" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="bigquery-data-transfer-service">BigQuery Data Transfer Service<a href="#bigquery-data-transfer-service" class="hash-link" aria-label="Direct link to BigQuery Data Transfer Service" title="Direct link to BigQuery Data Transfer Service">​</a></h3>
+<ul>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/dts-introduction" target="_blank" rel="noopener noreferrer">Introduction</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/dts-locations" target="_blank" rel="noopener noreferrer">Data location and transfers</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/dts-authentication-authorization" target="_blank" rel="noopener noreferrer">Authorize transfers</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/enable-transfer-service" target="_blank" rel="noopener noreferrer">Enable transfers</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/working-with-transfers" target="_blank" rel="noopener noreferrer">Manage transfers</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/transfer-run-notifications" target="_blank" rel="noopener noreferrer">Transfer run notifications</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/transfer-troubleshooting" target="_blank" rel="noopener noreferrer">Troubleshoot transfer configurations</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/use-service-accounts" target="_blank" rel="noopener noreferrer">Use service accounts</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/third-party-transfer" target="_blank" rel="noopener noreferrer">Use third-party transfers</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/transfer-custom-constraints" target="_blank" rel="noopener noreferrer">Use custom organization policies</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/transfer-changes" target="_blank" rel="noopener noreferrer">Data source change log</a></p>
+</li>
+<li>
+<p>Transfer guides</p>
+<ul>
+<li>
+<p>Amazon S3</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/s3-transfer-intro" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/s3-transfer" target="_blank" rel="noopener noreferrer">Schedule transfers</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/s3-transfer-parameters" target="_blank" rel="noopener noreferrer">Transfer runtime parameters</a></li>
+</ul>
+</li>
+<li>
+<p>Azure Blob Storage</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/blob-storage-transfer-intro" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/blob-storage-transfer" target="_blank" rel="noopener noreferrer">Schedule transfers</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/blob-storage-transfer-parameters" target="_blank" rel="noopener noreferrer">Transfer runtime parameters</a></li>
+</ul>
+</li>
+<li>
+<p>Campaign Manager</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/doubleclick-campaign-transfer" target="_blank" rel="noopener noreferrer">Schedule transfers</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/doubleclick-campaign-transformation" target="_blank" rel="noopener noreferrer">Report transformation</a></li>
+</ul>
+</li>
+<li>
+<p>Cloud Storage</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/cloud-storage-transfer-overview" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/cloud-storage-transfer" target="_blank" rel="noopener noreferrer">Schedule transfers</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/gcs-transfer-parameters" target="_blank" rel="noopener noreferrer">Transfer runtime parameters</a></li>
+</ul>
+</li>
+<li>
+<p>Comparison Shopping Service Center</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/css-center-transfer" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/css-center-transfer-schedule-transfers" target="_blank" rel="noopener noreferrer">Schedule transfers</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/css-center-products-schema" target="_blank" rel="noopener noreferrer">Transfer report schema</a></li>
+</ul>
+</li>
+<li>
+<p>Display &amp; Video 360</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/display-video-transfer" target="_blank" rel="noopener noreferrer">Schedule transfers</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/display-video-transformation" target="_blank" rel="noopener noreferrer">Report transformation</a></li>
+</ul>
+</li>
+<li>
+<p>Facebook Ads</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/facebook-ads-transfer" target="_blank" rel="noopener noreferrer">Schedule transfers</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/facebook-ads-transformation" target="_blank" rel="noopener noreferrer">Report transformation</a></li>
+</ul>
+</li>
+<li>
+<p>Google Ad Manager</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/doubleclick-publisher-transfer" target="_blank" rel="noopener noreferrer">Schedule transfers</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/doubleclick-publisher-transformation" target="_blank" rel="noopener noreferrer">Report transformation</a></li>
+</ul>
+</li>
+<li>
+<p>Google Ads</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/google-ads-transfer" target="_blank" rel="noopener noreferrer">Schedule transfers</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/google-ads-transformation" target="_blank" rel="noopener noreferrer">Report transformation</a></li>
+</ul>
+</li>
+<li>
+<p>Google Merchant Center</p>
+<ul>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/merchant-center-transfer" target="_blank" rel="noopener noreferrer">Introduction</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/merchant-center-transfer-schedule-transfers" target="_blank" rel="noopener noreferrer">Schedule transfers</a></p>
+</li>
+<li>
+<p>Transfer report schema</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/merchant-center-best-sellers-schema" target="_blank" rel="noopener noreferrer">Best Sellers table</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/merchant-center-local-inventories-schema" target="_blank" rel="noopener noreferrer">Local Inventories table</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/merchant-center-performance-schema" target="_blank" rel="noopener noreferrer">Performance table</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/merchant-center-price-benchmarks-schema" target="_blank" rel="noopener noreferrer">Price Benchmarks table</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/merchant-center-price-competitiveness-schema" target="_blank" rel="noopener noreferrer">Price Competitiveness table</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/merchant-center-price-insights-schema" target="_blank" rel="noopener noreferrer">Price Insights table</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/merchant-center-product-inventory-schema" target="_blank" rel="noopener noreferrer">Product Inventory table</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/merchant-center-product-targeting-schema" target="_blank" rel="noopener noreferrer">Product Targeting table</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/merchant-center-products-schema" target="_blank" rel="noopener noreferrer">Products table</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/merchant-center-regional-inventories-schema" target="_blank" rel="noopener noreferrer">Regional Inventories table</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/merchant-center-top-brands-schema" target="_blank" rel="noopener noreferrer">Top Brands table</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/merchant-center-top-products-schema" target="_blank" rel="noopener noreferrer">Top Products table</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Google Play</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/play-transfer" target="_blank" rel="noopener noreferrer">Schedule transfers</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/play-transformation" target="_blank" rel="noopener noreferrer">Transfer report transformation</a></li>
+</ul>
+</li>
+<li>
+<p>Oracle</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/oracle-transfer" target="_blank" rel="noopener noreferrer">Schedule transfers</a></li>
+</ul>
+</li>
+<li>
+<p>Salesforce</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/salesforce-transfer" target="_blank" rel="noopener noreferrer">Schedule transfers</a></li>
+</ul>
+</li>
+<li>
+<p>Salesforce Marketing Cloud</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/sfmc-transfer" target="_blank" rel="noopener noreferrer">Schedule transfers</a></li>
+</ul>
+</li>
+<li>
+<p>Search Ads 360</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/search-ads-transfer" target="_blank" rel="noopener noreferrer">Schedule transfers</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/search-ads-transformation" target="_blank" rel="noopener noreferrer">Transfer report transformation</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/search-ads-migration-guide" target="_blank" rel="noopener noreferrer">Migration guide</a></li>
+</ul>
+</li>
+<li>
+<p>ServiceNow</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/servicenow-transfer" target="_blank" rel="noopener noreferrer">Schedule transfers</a></li>
+</ul>
+</li>
+<li>
+<p>YouTube channel</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/youtube-channel-transfer" target="_blank" rel="noopener noreferrer">Schedule transfers</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/youtube-channel-transformation" target="_blank" rel="noopener noreferrer">Transfer report transformation</a></li>
+</ul>
+</li>
+<li>
+<p>YouTube content owner</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/youtube-content-owner-transfer" target="_blank" rel="noopener noreferrer">Schedule transfers</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/youtube-content-owner-transformation" target="_blank" rel="noopener noreferrer">Transfer report transformation</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="batch-load-data">Batch load data<a href="#batch-load-data" class="hash-link" aria-label="Direct link to Batch load data" title="Direct link to Batch load data">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/batch-loading-data" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/schema-detect" target="_blank" rel="noopener noreferrer">Auto-detect schemas</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/loading-data-cloud-storage-avro" target="_blank" rel="noopener noreferrer">Load Avro data</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/loading-data-cloud-storage-parquet" target="_blank" rel="noopener noreferrer">Load Parquet data</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/loading-data-cloud-storage-orc" target="_blank" rel="noopener noreferrer">Load ORC data</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/loading-data-cloud-storage-csv" target="_blank" rel="noopener noreferrer">Load CSV data</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/loading-data-cloud-storage-json" target="_blank" rel="noopener noreferrer">Load JSON data</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/hive-partitioned-loads-gcs" target="_blank" rel="noopener noreferrer">Load externally partitioned data</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/loading-data-cloud-datastore" target="_blank" rel="noopener noreferrer">Load data from a Datastore export</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/loading-data-cloud-firestore" target="_blank" rel="noopener noreferrer">Load data from a Firestore export</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/write-api-batch-load" target="_blank" rel="noopener noreferrer">Load data using the Storage Write API</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/load-data-partitioned-tables" target="_blank" rel="noopener noreferrer">Load data into partitioned tables</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="write-and-read-data-with-the-storage-api">Write and read data with the Storage API<a href="#write-and-read-data-with-the-storage-api" class="hash-link" aria-label="Direct link to Write and read data with the Storage API" title="Direct link to Write and read data with the Storage API">​</a></h3>
+<ul>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/reference/storage" target="_blank" rel="noopener noreferrer">Read data with the Storage Read API</a></p>
+</li>
+<li>
+<p>Write data with the Storage Write API</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/write-api" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/write-api-streaming" target="_blank" rel="noopener noreferrer">Stream data with the Storage Write API</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/write-api-batch" target="_blank" rel="noopener noreferrer">Batch load data with the Storage Write API</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/write-api-best-practices" target="_blank" rel="noopener noreferrer">Best practices</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/change-data-capture" target="_blank" rel="noopener noreferrer">Stream updates with change data capture</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/streaming-data-into-bigquery" target="_blank" rel="noopener noreferrer">Use the legacy streaming API</a></li>
+</ul>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/load-data-google-services" target="_blank" rel="noopener noreferrer">Load data from other Google services</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/automatic-discovery" target="_blank" rel="noopener noreferrer">Discover and catalog Cloud Storage data</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/load-data-third-party" target="_blank" rel="noopener noreferrer">Load data using third-party apps</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/load-data-using-cross-cloud-transfer" target="_blank" rel="noopener noreferrer">Load data using cross-cloud operations</a></p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="transform-data">Transform data<a href="#transform-data" class="hash-link" aria-label="Direct link to Transform data" title="Direct link to Transform data">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/transform-intro" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="prepare-data">Prepare data<a href="#prepare-data" class="hash-link" aria-label="Direct link to Prepare data" title="Direct link to Prepare data">​</a></h3>
+<ul>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/data-prep-introduction" target="_blank" rel="noopener noreferrer">Introduction</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/data-prep-get-suggestions" target="_blank" rel="noopener noreferrer">Prepare data with Gemini</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/data-manipulation-language" target="_blank" rel="noopener noreferrer">Transform with DML</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/using-dml-with-partitioned-tables" target="_blank" rel="noopener noreferrer">Transform data in partitioned tables</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/change-history" target="_blank" rel="noopener noreferrer">Work with change history</a></p>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="transform-data-with-workflows">Transform data with workflows<a href="#transform-data-with-workflows" class="hash-link" aria-label="Direct link to Transform data with workflows" title="Direct link to Transform data with workflows">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/workflows-introduction" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/create-workflows" target="_blank" rel="noopener noreferrer">Create workflows</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="export-data">Export data<a href="#export-data" class="hash-link" aria-label="Direct link to Export data" title="Direct link to Export data">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/export-intro" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/export-file" target="_blank" rel="noopener noreferrer">Export query results</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/exporting-data" target="_blank" rel="noopener noreferrer">Export to Cloud Storage</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/export-to-bigtable" target="_blank" rel="noopener noreferrer">Export to Bigtable</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/export-to-spanner" target="_blank" rel="noopener noreferrer">Export to Spanner</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/export-to-pubsub" target="_blank" rel="noopener noreferrer">Export to Pub/Sub</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/protobuf-export" target="_blank" rel="noopener noreferrer">Export as Protobuf columns</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="analyze">Analyze<a href="#analyze" class="hash-link" aria-label="Direct link to Analyze" title="Direct link to Analyze">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/query-overview" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="explore-your-data">Explore your data<a href="#explore-your-data" class="hash-link" aria-label="Direct link to Explore your data" title="Direct link to Explore your data">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/table-explorer" target="_blank" rel="noopener noreferrer">Create queries with table explorer</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/data-profile-scan" target="_blank" rel="noopener noreferrer">Generate profile insights</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/data-insights" target="_blank" rel="noopener noreferrer">Generate data insights</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/data-canvas" target="_blank" rel="noopener noreferrer">Analyze with a data canvas</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/gemini-analyze-data" target="_blank" rel="noopener noreferrer">Analyze data with Gemini</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="query-bigquery-data">Query BigQuery data<a href="#query-bigquery-data" class="hash-link" aria-label="Direct link to Query BigQuery data" title="Direct link to Query BigQuery data">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/running-queries" target="_blank" rel="noopener noreferrer">Run a query</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/write-sql-gemini" target="_blank" rel="noopener noreferrer">Write queries with Gemini</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/writing-results" target="_blank" rel="noopener noreferrer">Write query results</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="query-data-with-sql">Query data with SQL<a href="#query-data-with-sql" class="hash-link" aria-label="Direct link to Query data with SQL" title="Direct link to Query data with SQL">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/introduction-sql" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/arrays" target="_blank" rel="noopener noreferrer">Arrays</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/json-data" target="_blank" rel="noopener noreferrer">JSON data</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/multi-statement-queries" target="_blank" rel="noopener noreferrer">Multi-statement queries</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/parameterized-queries" target="_blank" rel="noopener noreferrer">Parameterized queries</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/pipe-syntax-guide" target="_blank" rel="noopener noreferrer">Pipe syntax</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/recursive-ctes" target="_blank" rel="noopener noreferrer">Recursive CTEs</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/sketches" target="_blank" rel="noopener noreferrer">Sketches</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/table-sampling" target="_blank" rel="noopener noreferrer">Table sampling</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/working-with-time-series" target="_blank" rel="noopener noreferrer">Time series</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/transactions" target="_blank" rel="noopener noreferrer">Transactions</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/querying-wildcard-tables" target="_blank" rel="noopener noreferrer">Wildcard tables</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="use-geospatial-analytics">Use geospatial analytics<a href="#use-geospatial-analytics" class="hash-link" aria-label="Direct link to Use geospatial analytics" title="Direct link to Use geospatial analytics">​</a></h3>
+<ul>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/geospatial-intro" target="_blank" rel="noopener noreferrer">Introduction</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/geospatial-data" target="_blank" rel="noopener noreferrer">Work with geospatial analytics</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/best-practices-spatial-analysis" target="_blank" rel="noopener noreferrer">Best practices for spatial analysis</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/geospatial-visualize" target="_blank" rel="noopener noreferrer">Visualize geospatial data</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/grid-systems-spatial-analysis" target="_blank" rel="noopener noreferrer">Grid systems for spatial analysis</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/reference/standard-sql/geography_functions" target="_blank" rel="noopener noreferrer">Geospatial analytics syntax reference</a></p>
+</li>
+<li>
+<p>Geospatial analytics tutorials</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/geospatial-get-started" target="_blank" rel="noopener noreferrer">Get started with geospatial analytics</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/geospatial-tutorial-hurricane" target="_blank" rel="noopener noreferrer">Use geospatial analytics to plot a hurricane&#x27;s path</a></li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="search-data">Search data<a href="#search-data" class="hash-link" aria-label="Direct link to Search data" title="Direct link to Search data">​</a></h3>
+<ul>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/search" target="_blank" rel="noopener noreferrer">Search indexed data</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/text-analysis-search" target="_blank" rel="noopener noreferrer">Work with text analyzers</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/access-historical-data" target="_blank" rel="noopener noreferrer">Access historical data</a></p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="work-with-queries">Work with queries<a href="#work-with-queries" class="hash-link" aria-label="Direct link to Work with queries" title="Direct link to Work with queries">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="save-queries">Save queries<a href="#save-queries" class="hash-link" aria-label="Direct link to Save queries" title="Direct link to Save queries">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/saved-queries-introduction" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/work-with-saved-queries" target="_blank" rel="noopener noreferrer">Create saved queries</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="continuous-queries">Continuous queries<a href="#continuous-queries" class="hash-link" aria-label="Direct link to Continuous queries" title="Direct link to Continuous queries">​</a></h3>
+<ul>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/continuous-queries-introduction" target="_blank" rel="noopener noreferrer">Introduction</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/continuous-queries" target="_blank" rel="noopener noreferrer">Create continuous queries</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/cached-results" target="_blank" rel="noopener noreferrer">Use cached results</a></p>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="work-with-sessions">Work with sessions<a href="#work-with-sessions" class="hash-link" aria-label="Direct link to Work with sessions" title="Direct link to Work with sessions">​</a></h3>
+<ul>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/sessions-intro" target="_blank" rel="noopener noreferrer">Introduction</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/sessions-create" target="_blank" rel="noopener noreferrer">Create sessions</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/sessions-write-queries" target="_blank" rel="noopener noreferrer">Write queries in sessions</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/sessions-run-queries" target="_blank" rel="noopener noreferrer">Run queries in sessions</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/sessions-terminating" target="_blank" rel="noopener noreferrer">Terminate sessions</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/sessions-view-history" target="_blank" rel="noopener noreferrer">View query history in sessions</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/sessions-get-ids" target="_blank" rel="noopener noreferrer">Find sessions</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/troubleshoot-queries" target="_blank" rel="noopener noreferrer">Troubleshoot queries</a></p>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="optimize-queries">Optimize queries<a href="#optimize-queries" class="hash-link" aria-label="Direct link to Optimize queries" title="Direct link to Optimize queries">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/best-practices-performance-overview" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/query-plan-explanation" target="_blank" rel="noopener noreferrer">Use the query plan explanation</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/query-insights" target="_blank" rel="noopener noreferrer">Get query performance insights</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/best-practices-performance-compute" target="_blank" rel="noopener noreferrer">Optimize query computation</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/history-based-optimizations" target="_blank" rel="noopener noreferrer">Use history-based optimizations</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/best-practices-storage" target="_blank" rel="noopener noreferrer">Optimize storage for query performance</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/materialized-views-use" target="_blank" rel="noopener noreferrer">Use materialized views</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/bi-engine-query" target="_blank" rel="noopener noreferrer">Use BI Engine</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/best-practices-performance-nested" target="_blank" rel="noopener noreferrer">Use nested and repeated data</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/best-practices-performance-functions" target="_blank" rel="noopener noreferrer">Optimize functions</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="query-external-data-sources">Query external data sources<a href="#query-external-data-sources" class="hash-link" aria-label="Direct link to Query external data sources" title="Direct link to Query external data sources">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="manage-open-source-metadata">Manage open source metadata<a href="#manage-open-source-metadata" class="hash-link" aria-label="Direct link to Manage open source metadata" title="Direct link to Manage open source metadata">​</a></h3>
+<ul>
+<li>
+<p>BigQuery metastore</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/about-bqms" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/bqms-use-tables" target="_blank" rel="noopener noreferrer">Use with Apache Spark and standard tables, BigQuery tables for Apache Iceberg, and external tables</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/bqms-use-notebook" target="_blank" rel="noopener noreferrer">Use with Apache Spark in BigQuery Studio</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/bqms-use-dataproc" target="_blank" rel="noopener noreferrer">Use with Apache Spark in Dataproc</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/bqms-use-dataproc-serverless" target="_blank" rel="noopener noreferrer">Use with Apache Spark in Dataproc Serverless</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/bqms-use-stored-procedures" target="_blank" rel="noopener noreferrer">Use with stored procedures</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/bqms-query-tables" target="_blank" rel="noopener noreferrer">Create tables with Apache Spark and query in BigQuery</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/bqms-features" target="_blank" rel="noopener noreferrer">Additional features</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/bqms-dpms-migration-tool" target="_blank" rel="noopener noreferrer">Migrate from Dataproc Metastore</a></li>
+</ul>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/manage-open-source-metadata" target="_blank" rel="noopener noreferrer">BigLake Metastore</a></p>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="use-external-tables-and-datasets">Use external tables and datasets<a href="#use-external-tables-and-datasets" class="hash-link" aria-label="Direct link to Use external tables and datasets" title="Direct link to Use external tables and datasets">​</a></h3>
+<ul>
+<li>
+<p>Amazon S3 data</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/query-aws-data" target="_blank" rel="noopener noreferrer">Query Amazon S3 data</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/omni-aws-export-results-to-s3" target="_blank" rel="noopener noreferrer">Export query results to Amazon S3</a></li>
+</ul>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/query-iceberg-data" target="_blank" rel="noopener noreferrer">Query Apache Iceberg data</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/query-open-table-format-using-manifest-files" target="_blank" rel="noopener noreferrer">Query open table formats with manifests</a></p>
+</li>
+<li>
+<p>Azure Blob Storage data</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/query-azure-data" target="_blank" rel="noopener noreferrer">Query Azure Blob Storage data</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/omni-azure-export-results-to-azure-storage" target="_blank" rel="noopener noreferrer">Export query results to Azure Blob Storage</a></li>
+</ul>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/external-data-bigtable" target="_blank" rel="noopener noreferrer">Query Cloud Bigtable data</a></p>
+</li>
+<li>
+<p>Cloud Storage data</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/query-cloud-storage-using-biglake" target="_blank" rel="noopener noreferrer">Query Cloud Storage data in BigLake tables</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/query-cloud-storage-data" target="_blank" rel="noopener noreferrer">Query Cloud Storage data in external tables</a></li>
+</ul>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/salesforce-quickstart" target="_blank" rel="noopener noreferrer">Work with Salesforce Data Cloud data</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/query-drive-data" target="_blank" rel="noopener noreferrer">Query Google Drive data</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/glue-federated-datasets" target="_blank" rel="noopener noreferrer">Create AWS Glue federated datasets</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/spanner-external-datasets" target="_blank" rel="noopener noreferrer">Create Spanner external datasets</a></p>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="run-federated-queries">Run federated queries<a href="#run-federated-queries" class="hash-link" aria-label="Direct link to Run federated queries" title="Direct link to Run federated queries">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/federated-queries-intro" target="_blank" rel="noopener noreferrer">Federated queries</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/sap-datasphere-federated-queries" target="_blank" rel="noopener noreferrer">Query SAP Datasphere data</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/alloydb-federated-queries" target="_blank" rel="noopener noreferrer">Query AlloyDB data</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/spanner-federated-queries" target="_blank" rel="noopener noreferrer">Query Spanner data</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/cloud-sql-federated-queries" target="_blank" rel="noopener noreferrer">Query Cloud SQL data</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="use-notebooks">Use notebooks<a href="#use-notebooks" class="hash-link" aria-label="Direct link to Use notebooks" title="Direct link to Use notebooks">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/programmatic-analysis" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="use-colab-notebooks">Use Colab notebooks<a href="#use-colab-notebooks" class="hash-link" aria-label="Direct link to Use Colab notebooks" title="Direct link to Use Colab notebooks">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/notebooks-introduction" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/create-notebooks" target="_blank" rel="noopener noreferrer">Create notebooks</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/explore-data-colab" target="_blank" rel="noopener noreferrer">Explore query results</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="use-dataframes">Use DataFrames<a href="#use-dataframes" class="hash-link" aria-label="Direct link to Use DataFrames" title="Direct link to Use DataFrames">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/bigquery-dataframes-introduction" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/dataframes-quickstart" target="_blank" rel="noopener noreferrer">Try BigQuery DataFrames</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/use-bigquery-dataframes" target="_blank" rel="noopener noreferrer">Use BigQuery DataFrames</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="use-jupyter-notebooks">Use Jupyter notebooks<a href="#use-jupyter-notebooks" class="hash-link" aria-label="Direct link to Use Jupyter notebooks" title="Direct link to Use Jupyter notebooks">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/jupyterlab-plugin" target="_blank" rel="noopener noreferrer">Use the BigQuery JupyterLab plugin</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/visualize-jupyter" target="_blank" rel="noopener noreferrer">Use managed Jupyter notebooks</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="use-analysis-and-bi-tools">Use analysis and BI tools<a href="#use-analysis-and-bi-tools" class="hash-link" aria-label="Direct link to Use analysis and BI tools" title="Direct link to Use analysis and BI tools">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/data-analysis-tools-intro" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/connected-sheets" target="_blank" rel="noopener noreferrer">Use Connected Sheets</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/analyze-data-tableau" target="_blank" rel="noopener noreferrer">Use Tableau</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/looker" target="_blank" rel="noopener noreferrer">Use Looker</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/visualize-looker-studio" target="_blank" rel="noopener noreferrer">Use Looker Studio</a>
+<ul>
+<li><a href="https://youtu.be/3ezmohvavzI" target="_blank" rel="noopener noreferrer">Monitoring organic Google Search traffic in Looker Studio - YouTube</a></li>
+</ul>
+</li>
+<li><a href="https://cloud.google.com/bigquery/docs/third-party-integration" target="_blank" rel="noopener noreferrer">Use third-party tools</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="google-cloud-ready---bigquery">Google Cloud Ready - BigQuery<a href="#google-cloud-ready---bigquery" class="hash-link" aria-label="Direct link to Google Cloud Ready - BigQuery" title="Direct link to Google Cloud Ready - BigQuery">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/bigquery-ready-overview" target="_blank" rel="noopener noreferrer">Overview</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/bigquery-ready-partners" target="_blank" rel="noopener noreferrer">Partners</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="share-with-analytics-hub">Share with Analytics Hub<a href="#share-with-analytics-hub" class="hash-link" aria-label="Direct link to Share with Analytics Hub" title="Direct link to Share with Analytics Hub">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/analytics-hub-introduction" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/analytics-hub-manage-exchanges" target="_blank" rel="noopener noreferrer">Manage data exchanges</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/analytics-hub-manage-listings" target="_blank" rel="noopener noreferrer">Manage listings</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/analytics-hub-manage-subscriptions" target="_blank" rel="noopener noreferrer">Manage subscriptions</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/analytics-hub-grant-roles" target="_blank" rel="noopener noreferrer">Configure user roles</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/analytics-hub-view-subscribe-listings" target="_blank" rel="noopener noreferrer">View and subscribe to listings</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/data-clean-rooms" target="_blank" rel="noopener noreferrer">Share sensitive data with data clean rooms</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="entity-resolution">Entity resolution<a href="#entity-resolution" class="hash-link" aria-label="Direct link to Entity resolution" title="Direct link to Entity resolution">​</a></h3>
+<ul>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/entity-resolution-intro" target="_blank" rel="noopener noreferrer">Introduction</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/entity-resolution-setup" target="_blank" rel="noopener noreferrer">Use entity resolution</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/analytics-hub-vpc-sc-rules" target="_blank" rel="noopener noreferrer">VPC Service Controls for Analytics Hub</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/analytics-hub-stream-sharing" target="_blank" rel="noopener noreferrer">Stream sharing with Pub/Sub</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/analytics-hub-cloud-marketplace" target="_blank" rel="noopener noreferrer">Commercialize listings on Cloud Marketplace</a></p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ai-and-machine-learning">AI and machine learning<a href="#ai-and-machine-learning" class="hash-link" aria-label="Direct link to AI and machine learning" title="Direct link to AI and machine learning">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/bqml-introduction" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="generative-ai-and-pretrained-models">Generative AI and pretrained models<a href="#generative-ai-and-pretrained-models" class="hash-link" aria-label="Direct link to Generative AI and pretrained models" title="Direct link to Generative AI and pretrained models">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="choose-generative-ai-and-task-specific-functions">Choose generative AI and task-specific functions<a href="#choose-generative-ai-and-task-specific-functions" class="hash-link" aria-label="Direct link to Choose generative AI and task-specific functions" title="Direct link to Choose generative AI and task-specific functions">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/choose-ml-text-function" target="_blank" rel="noopener noreferrer">Choose a natural language processing function</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/choose-document-processing-function" target="_blank" rel="noopener noreferrer">Choose a document processing function</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/choose-transcription-function" target="_blank" rel="noopener noreferrer">Choose a transcription function</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="generative-ai">Generative AI<a href="#generative-ai" class="hash-link" aria-label="Direct link to Generative AI" title="Direct link to Generative AI">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/generative-ai-overview" target="_blank" rel="noopener noreferrer">Overview</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="tutorials">Tutorials<a href="#tutorials" class="hash-link" aria-label="Direct link to Tutorials" title="Direct link to Tutorials">​</a></h4>
+<ul>
+<li>
+<p>Generate text</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/generate-text-tutorial-gemini" target="_blank" rel="noopener noreferrer">Generate text using public data and Gemini</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/generate-text-tutorial" target="_blank" rel="noopener noreferrer">Generate text using public data and PaLM</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/generate-text" target="_blank" rel="noopener noreferrer">Generate text using your data</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/iterate-generate-text-calls" target="_blank" rel="noopener noreferrer">Handle quota errors by calling ML.GENERATE_TEXT iteratively</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/generate-text-tuning" target="_blank" rel="noopener noreferrer">Tune a model using your data</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/tune-evaluate" target="_blank" rel="noopener noreferrer">Use tuning and evaluation to improve model performance</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/image-analysis" target="_blank" rel="noopener noreferrer">Analyze images with a Gemini vision model</a></li>
+</ul>
+</li>
+<li>
+<p>Generate embeddings</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/generate-text-embedding" target="_blank" rel="noopener noreferrer">Generate text embeddings using an LLM</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/generate-visual-content-embedding" target="_blank" rel="noopener noreferrer">Generate image embeddings using an LLM</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/iterate-generate-embedding-calls" target="_blank" rel="noopener noreferrer">Handle quota errors by calling ML.GENERATE_EMBEDDING iteratively</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/generate-video-embedding" target="_blank" rel="noopener noreferrer">Generate video embeddings using an LLM</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/generate-multimodal-embeddings" target="_blank" rel="noopener noreferrer">Generate and search multimodal embeddings</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/generate-embedding-with-tensorflow-models" target="_blank" rel="noopener noreferrer">Generate text embeddings using pretrained TensorFlow models</a></li>
+</ul>
+</li>
+<li>
+<p>Vector search</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/vector-search" target="_blank" rel="noopener noreferrer">Search embeddings with vector search</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/vector-index-text-search-tutorial" target="_blank" rel="noopener noreferrer">Perform semantic search and retrieval-augmented generation</a></li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="task-specific-solutions">Task-specific solutions<a href="#task-specific-solutions" class="hash-link" aria-label="Direct link to Task-specific solutions" title="Direct link to Task-specific solutions">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/ai-application-overview" target="_blank" rel="noopener noreferrer">Overview</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="tutorials-1">Tutorials<a href="#tutorials-1" class="hash-link" aria-label="Direct link to Tutorials" title="Direct link to Tutorials">​</a></h4>
+<ul>
+<li>
+<p>Natural language processing</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/understand-text" target="_blank" rel="noopener noreferrer">Understand text</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/translate-text" target="_blank" rel="noopener noreferrer">Translate text</a></li>
+</ul>
+</li>
+<li>
+<p>Document processing</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/process-document" target="_blank" rel="noopener noreferrer">Process documents</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/rag-pipeline-pdf" target="_blank" rel="noopener noreferrer">Parse PDFs in a retrieval-augmented generation pipeline</a></li>
+</ul>
+</li>
+<li>
+<p>Speech recognition</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/transcribe" target="_blank" rel="noopener noreferrer">Transcribe audio files</a></li>
+</ul>
+</li>
+<li>
+<p>Computer vision</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/annotate-image" target="_blank" rel="noopener noreferrer">Annotate images</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/object-table-inference" target="_blank" rel="noopener noreferrer">Run inference on image data</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/inference-tutorial-resnet" target="_blank" rel="noopener noreferrer">Analyze images with an imported classification model</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/inference-tutorial-mobilenet" target="_blank" rel="noopener noreferrer">Analyze images with an imported feature vector model</a></li>
+</ul>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="machine-learning">Machine learning<a href="#machine-learning" class="hash-link" aria-label="Direct link to Machine learning" title="Direct link to Machine learning">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="ml-models-and-mlops">ML models and MLOps<a href="#ml-models-and-mlops" class="hash-link" aria-label="Direct link to ML models and MLOps" title="Direct link to ML models and MLOps">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/e2e-journey" target="_blank" rel="noopener noreferrer">End-to-end journey per model</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/model-overview" target="_blank" rel="noopener noreferrer">Model creation</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/hp-tuning-overview" target="_blank" rel="noopener noreferrer">Hyperparameter tuning overview</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/evaluate-overview" target="_blank" rel="noopener noreferrer">Model evaluation overview</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/inference-overview" target="_blank" rel="noopener noreferrer">Model inference overview</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/xai-overview" target="_blank" rel="noopener noreferrer">Explainable AI overview</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/weights-overview" target="_blank" rel="noopener noreferrer">Model weights overview</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/ml-pipelines-overview" target="_blank" rel="noopener noreferrer">ML pipelines overview</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/model-monitoring-overview" target="_blank" rel="noopener noreferrer">Model monitoring overview</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/managing-models-vertex" target="_blank" rel="noopener noreferrer">Manage BigQueryML models in Vertex AI</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="use-cases">Use cases<a href="#use-cases" class="hash-link" aria-label="Direct link to Use cases" title="Direct link to Use cases">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/forecasting-overview" target="_blank" rel="noopener noreferrer">Forecasting</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/anomaly-detection-overview" target="_blank" rel="noopener noreferrer">Anomaly detection</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/recommendation-overview" target="_blank" rel="noopener noreferrer">Recommendation</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/classification-overview" target="_blank" rel="noopener noreferrer">Classification</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/regression-overview" target="_blank" rel="noopener noreferrer">Regression</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/dimensionality-reduction-overview" target="_blank" rel="noopener noreferrer">Dimensionality reduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/clustering-overview" target="_blank" rel="noopener noreferrer">Clustering</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="tutorials-2">Tutorials<a href="#tutorials-2" class="hash-link" aria-label="Direct link to Tutorials" title="Direct link to Tutorials">​</a></h3>
+<ul>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/create-machine-learning-model" target="_blank" rel="noopener noreferrer">Get started with BigQuery ML</a></p>
+</li>
+<li>
+<p>Regression and classification</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/linear-regression-tutorial" target="_blank" rel="noopener noreferrer">Create a linear regression model</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/logistic-regression-prediction" target="_blank" rel="noopener noreferrer">Create a logistic regression classification model</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/boosted-tree-classifier-tutorial" target="_blank" rel="noopener noreferrer">Create a boosted tree classification model</a></li>
+</ul>
+</li>
+<li>
+<p>Clustering</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/kmeans-tutorial" target="_blank" rel="noopener noreferrer">Cluster data with a k-means model</a></li>
+</ul>
+</li>
+<li>
+<p>Recommendation</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/bigqueryml-mf-explicit-tutorial" target="_blank" rel="noopener noreferrer">Create recommendations based on explicit feedback with a matrix factorization model</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/bigqueryml-mf-implicit-tutorial" target="_blank" rel="noopener noreferrer">Create recommendations based on implicit feedback with a matrix factorization model</a></li>
+</ul>
+</li>
+<li>
+<p>Time series forecasting</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/arima-single-time-series-forecasting-tutorial" target="_blank" rel="noopener noreferrer">Forecast a single time series with a univariate model</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/arima-multiple-time-series-forecasting-tutorial" target="_blank" rel="noopener noreferrer">Forecast multiple time series with a univariate model</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/arima-speed-up-tutorial" target="_blank" rel="noopener noreferrer">Scale a univariate time series model to millions of time series</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/arima-plus-xreg-single-time-series-forecasting-tutorial" target="_blank" rel="noopener noreferrer">Forecast a single time series with a multivariate model</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/arima-plus-xreg-multiple-time-series-forecasting-tutorial" target="_blank" rel="noopener noreferrer">Forecast multiple time series with a multivariate model</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/time-series-forecasting-holidays-tutorial" target="_blank" rel="noopener noreferrer">Use custom holidays with a univariate model</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/arima-time-series-forecasting-with-limits-tutorial" target="_blank" rel="noopener noreferrer">Limit forecasted values for a univariate model</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/arima-time-series-forecasting-with-hierarchical-time-series" target="_blank" rel="noopener noreferrer">Forecast hierarchical time series with a univariate model</a></li>
+</ul>
+</li>
+<li>
+<p>Anomaly detection</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/time-series-anomaly-detection-tutorial" target="_blank" rel="noopener noreferrer">Anomaly detection with a multivariate time series</a></li>
+</ul>
+</li>
+<li>
+<p>Imported and remote models</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/making-predictions-with-imported-tensorflow-models" target="_blank" rel="noopener noreferrer">Make predictions with imported TensorFlow models</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/making-predictions-with-sklearn-models-in-onnx-format" target="_blank" rel="noopener noreferrer">Make predictions with scikit-learn models in ONNX format</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/making-predictions-with-pytorch-models-in-onnx-format" target="_blank" rel="noopener noreferrer">Make predictions with PyTorch models in ONNX format</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/bigquery-ml-remote-model-tutorial" target="_blank" rel="noopener noreferrer">Make predictions with remote models on Vertex AI</a></li>
+</ul>
+</li>
+<li>
+<p>Hyperparameter tuning</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/hyperparameter-tuning-tutorial" target="_blank" rel="noopener noreferrer">Improve model performance with hyperparameter tuning</a></li>
+</ul>
+</li>
+<li>
+<p>Export models</p>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/export-model-tutorial" target="_blank" rel="noopener noreferrer">Export a BigQuery ML model for online prediction</a></li>
+</ul>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="augmented-analytics">Augmented analytics<a href="#augmented-analytics" class="hash-link" aria-label="Direct link to Augmented analytics" title="Direct link to Augmented analytics">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/contribution-analysis" target="_blank" rel="noopener noreferrer">Contribution analysis</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="tutorials-3">Tutorials<a href="#tutorials-3" class="hash-link" aria-label="Direct link to Tutorials" title="Direct link to Tutorials">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/get-contribution-analysis-insights" target="_blank" rel="noopener noreferrer">Get data insights from contribution analysis using a summable metric</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/get-contribution-analysis-insights-sum-ratio" target="_blank" rel="noopener noreferrer">Get data insights from contribution analysis using a summable ratio metric</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="create-and-manage-features">Create and manage features<a href="#create-and-manage-features" class="hash-link" aria-label="Direct link to Create and manage features" title="Direct link to Create and manage features">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/preprocess-overview" target="_blank" rel="noopener noreferrer">Feature preprocessing overview</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/input-feature-types" target="_blank" rel="noopener noreferrer">Supported input feature types</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/auto-preprocessing" target="_blank" rel="noopener noreferrer">Automatic preprocessing</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/manual-preprocessing" target="_blank" rel="noopener noreferrer">Manual preprocessing</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/feature-serving" target="_blank" rel="noopener noreferrer">Feature serving</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/bigqueryml-transform" target="_blank" rel="noopener noreferrer">Perform feature engineering with the TRANSFORM clause</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="work-with-models">Work with models<a href="#work-with-models" class="hash-link" aria-label="Direct link to Work with models" title="Direct link to Work with models">​</a></h2>
+<ul>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/listing-models" target="_blank" rel="noopener noreferrer">List models</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/managing-models" target="_blank" rel="noopener noreferrer">Manage models</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/getting-model-metadata" target="_blank" rel="noopener noreferrer">Get model metadata</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/updating-model-metadata" target="_blank" rel="noopener noreferrer">Update model metadata</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/exporting-models" target="_blank" rel="noopener noreferrer">Export models</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/deleting-models" target="_blank" rel="noopener noreferrer">Delete models</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/reference-patterns" target="_blank" rel="noopener noreferrer">Reference patterns</a></p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="administer">Administer<a href="#administer" class="hash-link" aria-label="Direct link to Administer" title="Direct link to Administer">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/admin-intro" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="manage-resources">Manage resources<a href="#manage-resources" class="hash-link" aria-label="Direct link to Manage resources" title="Direct link to Manage resources">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/resource-hierarchy" target="_blank" rel="noopener noreferrer">Organize resources</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/reliability-intro" target="_blank" rel="noopener noreferrer">Understand reliability</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="manage-code-assets">Manage code assets<a href="#manage-code-assets" class="hash-link" aria-label="Direct link to Manage code assets" title="Direct link to Manage code assets">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/manage-data-preparations" target="_blank" rel="noopener noreferrer">Manage data preparations</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/manage-notebooks" target="_blank" rel="noopener noreferrer">Manage notebooks</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/manage-saved-queries" target="_blank" rel="noopener noreferrer">Manage saved queries</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/manage-workflows" target="_blank" rel="noopener noreferrer">Manage workflows</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="manage-tables">Manage tables<a href="#manage-tables" class="hash-link" aria-label="Direct link to Manage tables" title="Direct link to Manage tables">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/managing-tables" target="_blank" rel="noopener noreferrer">Manage tables</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/managing-table-data" target="_blank" rel="noopener noreferrer">Manage table data</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/managing-table-schemas" target="_blank" rel="noopener noreferrer">Modify table schemas</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="manage-table-clones">Manage table clones<a href="#manage-table-clones" class="hash-link" aria-label="Direct link to Manage table clones" title="Direct link to Manage table clones">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/table-clones-intro" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/table-clones-create" target="_blank" rel="noopener noreferrer">Create table clones</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="manage-table-snapshots">Manage table snapshots<a href="#manage-table-snapshots" class="hash-link" aria-label="Direct link to Manage table snapshots" title="Direct link to Manage table snapshots">​</a></h3>
+<ul>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/table-snapshots-intro" target="_blank" rel="noopener noreferrer">Introduction</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/table-snapshots-create" target="_blank" rel="noopener noreferrer">Create table snapshots</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/table-snapshots-restore" target="_blank" rel="noopener noreferrer">Restore table snapshots</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/table-snapshots-list" target="_blank" rel="noopener noreferrer">List table snapshots</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/table-snapshots-metadata" target="_blank" rel="noopener noreferrer">View table snapshot metadata</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/table-snapshots-update" target="_blank" rel="noopener noreferrer">Update table snapshot metadata</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/table-snapshots-delete" target="_blank" rel="noopener noreferrer">Delete table snapshots</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/table-snapshots-scheduled" target="_blank" rel="noopener noreferrer">Create periodic table snapshots</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/default-configuration" target="_blank" rel="noopener noreferrer">Manage default configurations</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/managing-datasets" target="_blank" rel="noopener noreferrer">Manage datasets</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/materialized-views-manage" target="_blank" rel="noopener noreferrer">Manage materialized views</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/materialized-view-replicas-manage" target="_blank" rel="noopener noreferrer">Manage materialized view replicas</a></p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="orchestrate-resources">Orchestrate resources<a href="#orchestrate-resources" class="hash-link" aria-label="Direct link to Orchestrate resources" title="Direct link to Orchestrate resources">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/orchestrate-workloads" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="orchestrate-code-assets">Orchestrate code assets<a href="#orchestrate-code-assets" class="hash-link" aria-label="Direct link to Orchestrate code assets" title="Direct link to Orchestrate code assets">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/orchestrate-notebooks" target="_blank" rel="noopener noreferrer">Orchestrate notebooks</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/orchestrate-workflows" target="_blank" rel="noopener noreferrer">Orchestrate workflows</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/orchestrate-dags" target="_blank" rel="noopener noreferrer">Orchestrate DAGs</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="orchestrate-jobs-and-queries">Orchestrate jobs and queries<a href="#orchestrate-jobs-and-queries" class="hash-link" aria-label="Direct link to Orchestrate jobs and queries" title="Direct link to Orchestrate jobs and queries">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/running-jobs" target="_blank" rel="noopener noreferrer">Run jobs programmatically</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/scheduling-queries" target="_blank" rel="noopener noreferrer">Schedule queries</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="workload-management">Workload management<a href="#workload-management" class="hash-link" aria-label="Direct link to Workload management" title="Direct link to Workload management">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/reservations-intro" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/slots" target="_blank" rel="noopener noreferrer">Slots</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/reservations-workload-management" target="_blank" rel="noopener noreferrer">Slot reservations</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/slots-autoscaling-intro" target="_blank" rel="noopener noreferrer">Slots autoscaling</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="use-reservations">Use reservations<a href="#use-reservations" class="hash-link" aria-label="Direct link to Use reservations" title="Direct link to Use reservations">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/reservations-get-started" target="_blank" rel="noopener noreferrer">Get started</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/slot-estimator" target="_blank" rel="noopener noreferrer">Estimate slot capacity requirements</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/slot-recommender" target="_blank" rel="noopener noreferrer">View slot recommendations and insights</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/reservations-commitments" target="_blank" rel="noopener noreferrer">Purchase and manage slot commitments</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/reservations-tasks" target="_blank" rel="noopener noreferrer">Work with slot reservations</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/reservations-assignments" target="_blank" rel="noopener noreferrer">Work with reservation assignments</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="manage-jobs">Manage jobs<a href="#manage-jobs" class="hash-link" aria-label="Direct link to Manage jobs" title="Direct link to Manage jobs">​</a></h3>
+<ul>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/jobs-overview" target="_blank" rel="noopener noreferrer">Understand jobs</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/managing-jobs" target="_blank" rel="noopener noreferrer">Manage jobs</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/query-queues" target="_blank" rel="noopener noreferrer">Use query queues</a></p>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="legacy-reservations">Legacy reservations<a href="#legacy-reservations" class="hash-link" aria-label="Direct link to Legacy reservations" title="Direct link to Legacy reservations">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/reservations-intro-legacy" target="_blank" rel="noopener noreferrer">Introduction to legacy reservations</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/reservations-details-legacy" target="_blank" rel="noopener noreferrer">Legacy slot commitments</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/reservations-commitments-legacy" target="_blank" rel="noopener noreferrer">Purchase and manage legacy slot commitments</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/reservations-tasks-legacy" target="_blank" rel="noopener noreferrer">Work with legacy slot reservations</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="manage-bi-engine">Manage BI Engine<a href="#manage-bi-engine" class="hash-link" aria-label="Direct link to Manage BI Engine" title="Direct link to Manage BI Engine">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/bi-engine-intro" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/bi-engine-reserve-capacity" target="_blank" rel="noopener noreferrer">Reserve BI Engine capacity</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="monitor-workloads">Monitor workloads<a href="#monitor-workloads" class="hash-link" aria-label="Direct link to Monitor workloads" title="Direct link to Monitor workloads">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/monitoring" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/admin-resource-charts" target="_blank" rel="noopener noreferrer">Monitor resource utilization</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/admin-jobs-explorer" target="_blank" rel="noopener noreferrer">Monitor jobs</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/analytics-hub-monitor-listings" target="_blank" rel="noopener noreferrer">Monitor Analytics Hub listings</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/bi-engine-monitor" target="_blank" rel="noopener noreferrer">Monitor BI Engine</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/data-quality-scan" target="_blank" rel="noopener noreferrer">Monitor data quality</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/dts-monitor" target="_blank" rel="noopener noreferrer">Monitor Data Transfer Service</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/materialized-views-monitor" target="_blank" rel="noopener noreferrer">Monitor materialized views</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/reservations-monitoring" target="_blank" rel="noopener noreferrer">Monitor reservations</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/continuous-queries-monitor" target="_blank" rel="noopener noreferrer">Monitor continuous queries</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/monitoring-dashboard" target="_blank" rel="noopener noreferrer">Dashboards, charts and alerts</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="optimize-resources">Optimize resources<a href="#optimize-resources" class="hash-link" aria-label="Direct link to Optimize resources" title="Direct link to Optimize resources">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="control-costs">Control costs<a href="#control-costs" class="hash-link" aria-label="Direct link to Control costs" title="Direct link to Control costs">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/best-practices-costs" target="_blank" rel="noopener noreferrer">Estimate and control costs</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/custom-quotas" target="_blank" rel="noopener noreferrer">Create custom query quotas</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="optimize-with-recommendations">Optimize with recommendations<a href="#optimize-with-recommendations" class="hash-link" aria-label="Direct link to Optimize with recommendations" title="Direct link to Optimize with recommendations">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/recommendations-intro" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/manage-partition-cluster-recommendations" target="_blank" rel="noopener noreferrer">Manage cluster and partition recommendations</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/manage-materialized-recommendations" target="_blank" rel="noopener noreferrer">Manage materialized view recommendations</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="organize-with-labels">Organize with labels<a href="#organize-with-labels" class="hash-link" aria-label="Direct link to Organize with labels" title="Direct link to Organize with labels">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/labels-intro" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/adding-labels" target="_blank" rel="noopener noreferrer">Add labels</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/viewing-labels" target="_blank" rel="noopener noreferrer">View labels</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/updating-labels" target="_blank" rel="noopener noreferrer">Update labels</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/filtering-labels" target="_blank" rel="noopener noreferrer">Filter using labels</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/deleting-labels" target="_blank" rel="noopener noreferrer">Delete labels</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="manage-data-quality">Manage data quality<a href="#manage-data-quality" class="hash-link" aria-label="Direct link to Manage data quality" title="Direct link to Manage data quality">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/data-quality-scan" target="_blank" rel="noopener noreferrer">Monitor data quality with scans</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/data-catalog-overview" target="_blank" rel="noopener noreferrer">Data Catalog overview</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/data-catalog" target="_blank" rel="noopener noreferrer">Work with Data Catalog</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="govern">Govern<a href="#govern" class="hash-link" aria-label="Direct link to Govern" title="Direct link to Govern">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/data-governance" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="control-access-to-resources">Control access to resources<a href="#control-access-to-resources" class="hash-link" aria-label="Direct link to Control access to resources" title="Direct link to Control access to resources">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/access-control" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="control-access-with-iam">Control access with IAM<a href="#control-access-with-iam" class="hash-link" aria-label="Direct link to Control access with IAM" title="Direct link to Control access with IAM">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/control-access-to-resources-iam" target="_blank" rel="noopener noreferrer">Manage resource access policies</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/tags" target="_blank" rel="noopener noreferrer">Control access with tags</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/conditions" target="_blank" rel="noopener noreferrer">Control access with conditions</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="control-access-with-authorization">Control access with authorization<a href="#control-access-with-authorization" class="hash-link" aria-label="Direct link to Control access with authorization" title="Direct link to Control access with authorization">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/authorized-datasets" target="_blank" rel="noopener noreferrer">Authorized datasets</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/authorized-routines" target="_blank" rel="noopener noreferrer">Authorized routines</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/authorized-views" target="_blank" rel="noopener noreferrer">Authorized views</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="restrict-network-access">Restrict network access<a href="#restrict-network-access" class="hash-link" aria-label="Direct link to Restrict network access" title="Direct link to Restrict network access">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/vpc-sc" target="_blank" rel="noopener noreferrer">Control access with VPC service controls</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/regional-endpoints" target="_blank" rel="noopener noreferrer">Regional endpoints</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="control-column-and-row-access">Control column and row access<a href="#control-column-and-row-access" class="hash-link" aria-label="Direct link to Control column and row access" title="Direct link to Control column and row access">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="control-access-to-table-columns">Control access to table columns<a href="#control-access-to-table-columns" class="hash-link" aria-label="Direct link to Control access to table columns" title="Direct link to Control access to table columns">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/column-level-security-intro" target="_blank" rel="noopener noreferrer">Introduction to column-level access control</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/column-level-security" target="_blank" rel="noopener noreferrer">Restrict access with column-level access control</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/column-level-security-writes" target="_blank" rel="noopener noreferrer">Impact on writes</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="manage-policy-tags">Manage policy tags<a href="#manage-policy-tags" class="hash-link" aria-label="Direct link to Manage policy tags" title="Direct link to Manage policy tags">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/managing-policy-tags-across-locations" target="_blank" rel="noopener noreferrer">Manage policy tags across locations</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/best-practices-policy-tags" target="_blank" rel="noopener noreferrer">Best practices for using policy tags</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="control-access-to-table-rows">Control access to table rows<a href="#control-access-to-table-rows" class="hash-link" aria-label="Direct link to Control access to table rows" title="Direct link to Control access to table rows">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/row-level-security-intro" target="_blank" rel="noopener noreferrer">Introduction to row-level security</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/managing-row-level-security" target="_blank" rel="noopener noreferrer">Work with row-level security</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/using-row-level-security-with-features" target="_blank" rel="noopener noreferrer">Use row-level security with other BigQuery features</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/best-practices-row-level-security" target="_blank" rel="noopener noreferrer">Best practices for row-level security</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="protect-sensitive-data">Protect sensitive data<a href="#protect-sensitive-data" class="hash-link" aria-label="Direct link to Protect sensitive data" title="Direct link to Protect sensitive data">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="mask-data-in-table-columns">Mask data in table columns<a href="#mask-data-in-table-columns" class="hash-link" aria-label="Direct link to Mask data in table columns" title="Direct link to Mask data in table columns">​</a></h3>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/column-data-masking-intro" target="_blank" rel="noopener noreferrer">Introduction to data masking</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/column-data-masking" target="_blank" rel="noopener noreferrer">Mask column data</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="anonymize-data-with-differential-privacy">Anonymize data with differential privacy<a href="#anonymize-data-with-differential-privacy" class="hash-link" aria-label="Direct link to Anonymize data with differential privacy" title="Direct link to Anonymize data with differential privacy">​</a></h3>
+<ul>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/differential-privacy" target="_blank" rel="noopener noreferrer">Use differential privacy</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/extend-differential-privacy" target="_blank" rel="noopener noreferrer">Extend differential privacy</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/analysis-rules" target="_blank" rel="noopener noreferrer">Restrict data access using analysis rules</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/scan-with-dlp" target="_blank" rel="noopener noreferrer">Use Sensitive Data Protection</a></p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="manage-encryption">Manage encryption<a href="#manage-encryption" class="hash-link" aria-label="Direct link to Manage encryption" title="Direct link to Manage encryption">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/encryption-at-rest" target="_blank" rel="noopener noreferrer">Encryption at rest</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/customer-managed-encryption" target="_blank" rel="noopener noreferrer">Customer-managed encryption keys</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/column-key-encrypt" target="_blank" rel="noopener noreferrer">Column-level encryption with Cloud KMS</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/aead-encryption-concepts" target="_blank" rel="noopener noreferrer">AEAD encryption</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="audit-workloads">Audit workloads<a href="#audit-workloads" class="hash-link" aria-label="Direct link to Audit workloads" title="Direct link to Audit workloads">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/introduction-audit-workloads" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/auditing-policy-tags" target="_blank" rel="noopener noreferrer">Audit policy tags</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/column-data-masking-audit-logging" target="_blank" rel="noopener noreferrer">View Data Policy audit logs</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/audit-logging" target="_blank" rel="noopener noreferrer">Data Transfer Service audit logs</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/analytics-hub-audit-logging" target="_blank" rel="noopener noreferrer">Analytics Hub audit logging</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/reference/auditlogs" target="_blank" rel="noopener noreferrer">BigQuery audit logs reference</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/reference/auditlogs/migration" target="_blank" rel="noopener noreferrer">Migrate audit logs</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/biglake-audit-logging" target="_blank" rel="noopener noreferrer">BigLake API audit logs</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/reference/auditlogs/audit-logging-bq-migration" target="_blank" rel="noopener noreferrer">BigQuery Migration API audit logs</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="develop">Develop<a href="#develop" class="hash-link" aria-label="Direct link to Develop" title="Direct link to Develop">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/developer-overview" target="_blank" rel="noopener noreferrer">Introduction</a></li>
+<li><a href="https://cloud.google.com/bigquery/docs/samples" target="_blank" rel="noopener noreferrer">BigQuery code samples</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bigquery-api-basics">BigQuery API basics<a href="#bigquery-api-basics" class="hash-link" aria-label="Direct link to BigQuery API basics" title="Direct link to BigQuery API basics">​</a></h2>
+<ul>
+<li><a href="https://cloud.google.com/bigquery/docs/reference/libraries-overview" target="_blank" rel="noopener noreferrer">BigQuery APIs and libraries overview</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="authentication">Authentication<a href="#authentication" class="hash-link" aria-label="Direct link to Authentication" title="Direct link to Authentication">​</a></h3>
+<ul>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/authentication" target="_blank" rel="noopener noreferrer">Introduction</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/authentication/getting-started" target="_blank" rel="noopener noreferrer">Get started</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/authentication/end-user-installed" target="_blank" rel="noopener noreferrer">Authenticate as an end user</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/json-web-tokens" target="_blank" rel="noopener noreferrer">Authenticate with JSON Web Tokens</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/running-jobs" target="_blank" rel="noopener noreferrer">Run jobs programmatically</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/paging-results" target="_blank" rel="noopener noreferrer">Paginate with BigQuery API</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/api-performance" target="_blank" rel="noopener noreferrer">API performance tips</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/batch" target="_blank" rel="noopener noreferrer">Batch requests</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/vs-code-extension" target="_blank" rel="noopener noreferrer">Use the VS Code extension</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/python-libraries" target="_blank" rel="noopener noreferrer">Choose a Python library</a></p>
+</li>
+<li>
+<p><a href="https://cloud.google.com/bigquery/docs/reference/odbc-jdbc-drivers" target="_blank" rel="noopener noreferrer">Use ODBC and JDBC drivers</a></p>
+</li>
+</ul></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="row margin-top--sm theme-doc-footer-edit-meta-row"><div class="col"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/data-warehouses/bigquery/documentation.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_JAkA"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2025-06-14T08:26:56.000Z" itemprop="dateModified">Jun 14, 2025</time></b> by <b>Deepak</b></span></div></div></footer></article><nav class="docusaurus-mt-lg pagination-nav" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/data-warehouses/bigquery/data-masking"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Data Masking</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/data-warehouses/bigquery/interview-questions"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Interview Questions</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#how-does-bigquery-work" class="table-of-contents__link toc-highlight">How does BigQuery work?</a></li><li><a href="#get-started" class="table-of-contents__link toc-highlight">Get started</a></li><li><a href="#quickstarts" class="table-of-contents__link toc-highlight">Quickstarts</a><ul><li><a href="#try-the-cloud-console" class="table-of-contents__link toc-highlight">Try the Cloud console</a></li><li><a href="#try-the-command-line-tool" class="table-of-contents__link toc-highlight">Try the command-line tool</a></li></ul></li><li><a href="#explore-bigquery-tools" class="table-of-contents__link toc-highlight">Explore BigQuery tools</a></li><li><a href="#migrate" class="table-of-contents__link toc-highlight">Migrate</a></li><li><a href="#migrate-a-data-warehouse" class="table-of-contents__link toc-highlight">Migrate a data warehouse</a><ul><li><a href="#migrate-sql" class="table-of-contents__link toc-highlight">Migrate SQL</a></li></ul></li><li><a href="#migration-guides" class="table-of-contents__link toc-highlight">Migration guides</a><ul><li><a href="#amazon-redshift" class="table-of-contents__link toc-highlight">Amazon Redshift</a></li><li><a href="#apache-hive" class="table-of-contents__link toc-highlight">Apache Hive</a></li><li><a href="#ibm-netezza" class="table-of-contents__link toc-highlight">IBM Netezza</a></li><li><a href="#oracle" class="table-of-contents__link toc-highlight">Oracle</a></li><li><a href="#snowflake" class="table-of-contents__link toc-highlight">Snowflake</a></li><li><a href="#teradata" class="table-of-contents__link toc-highlight">Teradata</a></li></ul></li><li><a href="#design" class="table-of-contents__link toc-highlight">Design</a></li><li><a href="#datasets" class="table-of-contents__link toc-highlight">Datasets</a></li><li><a href="#tables" class="table-of-contents__link toc-highlight">Tables</a><ul><li><a href="#bigquery-tables" class="table-of-contents__link toc-highlight">BigQuery tables</a></li><li><a href="#external-tables" class="table-of-contents__link toc-highlight">External tables</a></li></ul></li><li><a href="#views" class="table-of-contents__link toc-highlight">Views</a><ul><li><a href="#logical-views" class="table-of-contents__link toc-highlight">Logical views</a></li><li><a href="#materialized-views" class="table-of-contents__link toc-highlight">Materialized views</a></li></ul></li><li><a href="#routines" class="table-of-contents__link toc-highlight">Routines</a></li><li><a href="#connections" class="table-of-contents__link toc-highlight">Connections</a></li><li><a href="#indexes" class="table-of-contents__link toc-highlight">Indexes</a><ul><li><a href="#search-indexes" class="table-of-contents__link toc-highlight">Search indexes</a></li><li><a href="#vector-indexes" class="table-of-contents__link toc-highlight">Vector indexes</a></li></ul></li><li><a href="#load-transform-and-export" class="table-of-contents__link toc-highlight">Load, transform, and export</a></li><li><a href="#load-data" class="table-of-contents__link toc-highlight">Load data</a><ul><li><a href="#bigquery-data-transfer-service" class="table-of-contents__link toc-highlight">BigQuery Data Transfer Service</a></li><li><a href="#batch-load-data" class="table-of-contents__link toc-highlight">Batch load data</a></li><li><a href="#write-and-read-data-with-the-storage-api" class="table-of-contents__link toc-highlight">Write and read data with the Storage API</a></li></ul></li><li><a href="#transform-data" class="table-of-contents__link toc-highlight">Transform data</a><ul><li><a href="#prepare-data" class="table-of-contents__link toc-highlight">Prepare data</a></li><li><a href="#transform-data-with-workflows" class="table-of-contents__link toc-highlight">Transform data with workflows</a></li></ul></li><li><a href="#export-data" class="table-of-contents__link toc-highlight">Export data</a></li><li><a href="#analyze" class="table-of-contents__link toc-highlight">Analyze</a></li><li><a href="#explore-your-data" class="table-of-contents__link toc-highlight">Explore your data</a></li><li><a href="#query-bigquery-data" class="table-of-contents__link toc-highlight">Query BigQuery data</a><ul><li><a href="#query-data-with-sql" class="table-of-contents__link toc-highlight">Query data with SQL</a></li><li><a href="#use-geospatial-analytics" class="table-of-contents__link toc-highlight">Use geospatial analytics</a></li><li><a href="#search-data" class="table-of-contents__link toc-highlight">Search data</a></li></ul></li><li><a href="#work-with-queries" class="table-of-contents__link toc-highlight">Work with queries</a><ul><li><a href="#save-queries" class="table-of-contents__link toc-highlight">Save queries</a></li><li><a href="#continuous-queries" class="table-of-contents__link toc-highlight">Continuous queries</a></li><li><a href="#work-with-sessions" class="table-of-contents__link toc-highlight">Work with sessions</a></li><li><a href="#optimize-queries" class="table-of-contents__link toc-highlight">Optimize queries</a></li></ul></li><li><a href="#query-external-data-sources" class="table-of-contents__link toc-highlight">Query external data sources</a><ul><li><a href="#manage-open-source-metadata" class="table-of-contents__link toc-highlight">Manage open source metadata</a></li><li><a href="#use-external-tables-and-datasets" class="table-of-contents__link toc-highlight">Use external tables and datasets</a></li><li><a href="#run-federated-queries" class="table-of-contents__link toc-highlight">Run federated queries</a></li></ul></li><li><a href="#use-notebooks" class="table-of-contents__link toc-highlight">Use notebooks</a><ul><li><a href="#use-colab-notebooks" class="table-of-contents__link toc-highlight">Use Colab notebooks</a></li><li><a href="#use-dataframes" class="table-of-contents__link toc-highlight">Use DataFrames</a></li><li><a href="#use-jupyter-notebooks" class="table-of-contents__link toc-highlight">Use Jupyter notebooks</a></li></ul></li><li><a href="#use-analysis-and-bi-tools" class="table-of-contents__link toc-highlight">Use analysis and BI tools</a><ul><li><a href="#google-cloud-ready---bigquery" class="table-of-contents__link toc-highlight">Google Cloud Ready - BigQuery</a></li></ul></li><li><a href="#share-with-analytics-hub" class="table-of-contents__link toc-highlight">Share with Analytics Hub</a><ul><li><a href="#entity-resolution" class="table-of-contents__link toc-highlight">Entity resolution</a></li></ul></li><li><a href="#ai-and-machine-learning" class="table-of-contents__link toc-highlight">AI and machine learning</a></li><li><a href="#generative-ai-and-pretrained-models" class="table-of-contents__link toc-highlight">Generative AI and pretrained models</a><ul><li><a href="#choose-generative-ai-and-task-specific-functions" class="table-of-contents__link toc-highlight">Choose generative AI and task-specific functions</a></li><li><a href="#generative-ai" class="table-of-contents__link toc-highlight">Generative AI</a></li><li><a href="#task-specific-solutions" class="table-of-contents__link toc-highlight">Task-specific solutions</a></li></ul></li><li><a href="#machine-learning" class="table-of-contents__link toc-highlight">Machine learning</a><ul><li><a href="#ml-models-and-mlops" class="table-of-contents__link toc-highlight">ML models and MLOps</a></li><li><a href="#use-cases" class="table-of-contents__link toc-highlight">Use cases</a></li><li><a href="#tutorials-2" class="table-of-contents__link toc-highlight">Tutorials</a></li></ul></li><li><a href="#augmented-analytics" class="table-of-contents__link toc-highlight">Augmented analytics</a><ul><li><a href="#tutorials-3" class="table-of-contents__link toc-highlight">Tutorials</a></li></ul></li><li><a href="#create-and-manage-features" class="table-of-contents__link toc-highlight">Create and manage features</a></li><li><a href="#work-with-models" class="table-of-contents__link toc-highlight">Work with models</a></li><li><a href="#administer" class="table-of-contents__link toc-highlight">Administer</a></li><li><a href="#manage-resources" class="table-of-contents__link toc-highlight">Manage resources</a><ul><li><a href="#manage-code-assets" class="table-of-contents__link toc-highlight">Manage code assets</a></li><li><a href="#manage-tables" class="table-of-contents__link toc-highlight">Manage tables</a></li><li><a href="#manage-table-clones" class="table-of-contents__link toc-highlight">Manage table clones</a></li><li><a href="#manage-table-snapshots" class="table-of-contents__link toc-highlight">Manage table snapshots</a></li></ul></li><li><a href="#orchestrate-resources" class="table-of-contents__link toc-highlight">Orchestrate resources</a><ul><li><a href="#orchestrate-code-assets" class="table-of-contents__link toc-highlight">Orchestrate code assets</a></li><li><a href="#orchestrate-jobs-and-queries" class="table-of-contents__link toc-highlight">Orchestrate jobs and queries</a></li></ul></li><li><a href="#workload-management" class="table-of-contents__link toc-highlight">Workload management</a><ul><li><a href="#use-reservations" class="table-of-contents__link toc-highlight">Use reservations</a></li><li><a href="#manage-jobs" class="table-of-contents__link toc-highlight">Manage jobs</a></li><li><a href="#legacy-reservations" class="table-of-contents__link toc-highlight">Legacy reservations</a></li><li><a href="#manage-bi-engine" class="table-of-contents__link toc-highlight">Manage BI Engine</a></li></ul></li><li><a href="#monitor-workloads" class="table-of-contents__link toc-highlight">Monitor workloads</a></li><li><a href="#optimize-resources" class="table-of-contents__link toc-highlight">Optimize resources</a><ul><li><a href="#control-costs" class="table-of-contents__link toc-highlight">Control costs</a></li><li><a href="#optimize-with-recommendations" class="table-of-contents__link toc-highlight">Optimize with recommendations</a></li><li><a href="#organize-with-labels" class="table-of-contents__link toc-highlight">Organize with labels</a></li><li><a href="#manage-data-quality" class="table-of-contents__link toc-highlight">Manage data quality</a></li></ul></li><li><a href="#govern" class="table-of-contents__link toc-highlight">Govern</a></li><li><a href="#control-access-to-resources" class="table-of-contents__link toc-highlight">Control access to resources</a><ul><li><a href="#control-access-with-iam" class="table-of-contents__link toc-highlight">Control access with IAM</a></li><li><a href="#control-access-with-authorization" class="table-of-contents__link toc-highlight">Control access with authorization</a></li><li><a href="#restrict-network-access" class="table-of-contents__link toc-highlight">Restrict network access</a></li></ul></li><li><a href="#control-column-and-row-access" class="table-of-contents__link toc-highlight">Control column and row access</a><ul><li><a href="#control-access-to-table-columns" class="table-of-contents__link toc-highlight">Control access to table columns</a></li><li><a href="#manage-policy-tags" class="table-of-contents__link toc-highlight">Manage policy tags</a></li><li><a href="#control-access-to-table-rows" class="table-of-contents__link toc-highlight">Control access to table rows</a></li></ul></li><li><a href="#protect-sensitive-data" class="table-of-contents__link toc-highlight">Protect sensitive data</a><ul><li><a href="#mask-data-in-table-columns" class="table-of-contents__link toc-highlight">Mask data in table columns</a></li><li><a href="#anonymize-data-with-differential-privacy" class="table-of-contents__link toc-highlight">Anonymize data with differential privacy</a></li></ul></li><li><a href="#manage-encryption" class="table-of-contents__link toc-highlight">Manage encryption</a></li><li><a href="#audit-workloads" class="table-of-contents__link toc-highlight">Audit workloads</a></li><li><a href="#develop" class="table-of-contents__link toc-highlight">Develop</a></li><li><a href="#bigquery-api-basics" class="table-of-contents__link toc-highlight">BigQuery API basics</a><ul><li><a href="#authentication" class="table-of-contents__link toc-highlight">Authentication</a></li></ul></li></ul></div></div></div></div></main></div></div></div><footer class="theme-layout-footer footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2026 Deep Notes, Built with ❤️</div></div></div></footer></div>
+</body>
+</html>

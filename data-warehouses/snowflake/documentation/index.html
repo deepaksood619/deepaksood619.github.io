@@ -1,0 +1,664 @@
+<!doctype html>
+<html lang="en" dir="ltr" class="docs-wrapper plugin-docs plugin-id-default docs-version-current docs-doc-page docs-doc-id-data-warehouses/snowflake/documentation" data-has-hydrated="false">
+<head>
+<meta charset="UTF-8">
+<meta name="generator" content="Docusaurus v3.8.0">
+<title data-rh="true">Documentation | Deep Notes</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://deepaksood619.github.io/img/timeline_blurred.webp"><meta data-rh="true" name="twitter:image" content="https://deepaksood619.github.io/img/timeline_blurred.webp"><meta data-rh="true" property="og:url" content="https://deepaksood619.github.io/data-warehouses/snowflake/documentation"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Documentation | Deep Notes"><meta data-rh="true" name="description" content="Overview"><meta data-rh="true" property="og:description" content="Overview"><link data-rh="true" rel="icon" href="/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://deepaksood619.github.io/data-warehouses/snowflake/documentation"><link data-rh="true" rel="alternate" href="https://deepaksood619.github.io/data-warehouses/snowflake/documentation" hreflang="en"><link data-rh="true" rel="alternate" href="https://deepaksood619.github.io/data-warehouses/snowflake/documentation" hreflang="x-default"><link data-rh="true" rel="preconnect" href="https://X3OY8NGHVH-dsn.algolia.net" crossorigin="anonymous"><script data-rh="true" type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Data Warehouses","item":"https://deepaksood619.github.io/data-warehouses/"},{"@type":"ListItem","position":2,"name":"Snowflake","item":"https://deepaksood619.github.io/data-warehouses/snowflake/"},{"@type":"ListItem","position":3,"name":"Documentation","item":"https://deepaksood619.github.io/data-warehouses/snowflake/documentation"}]}</script><link rel="preconnect" href="https://www.google-analytics.com">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZSZMJXWSH3"></script>
+<script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-ZSZMJXWSH3",{})</script>
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script>window.dataLayer=window.dataLayer||[]</script>
+<script>!function(e,t,a,n){e[n]=e[n]||[],e[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var g=t.getElementsByTagName(a)[0],m=t.createElement(a);m.async=!0,m.src="https://www.googletagmanager.com/gtm.js?id=GTM-TN3KBF4",g.parentNode.insertBefore(m,g)}(window,document,"script","dataLayer")</script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" title="Deep Notes" href="/opensearch.xml">
+<link rel="icon" href="/img/logo.webp">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="rgb(53, 120, 229)">
+
+
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.9f55d0bd.css">
+<script src="/assets/js/runtime~main.7b3a7cc3.js" defer="defer"></script>
+<script src="/assets/js/main.c96be3a1.js" defer="defer"></script>
+</head>
+<body class="navigation-with-keyboard">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;"><defs>
+<symbol id="theme-svg-external-link" viewBox="0 0 24 24"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"/></symbol>
+</defs></svg>
+<script>!function(){var t=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return window.localStorage.getItem("theme")}catch(t){}}();document.documentElement.setAttribute("data-theme",t||(window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light")),document.documentElement.setAttribute("data-theme-choice",t||"system")}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id="__docusaurus"><div role="region" aria-label="Skip to main content"><a class="skipToContent_fXgn" href="#__docusaurus_skipToContent_fallback">Skip to main content</a></div><nav aria-label="Main" class="theme-layout-navbar navbar navbar--fixed-top"><div class="navbar__inner"><div class="theme-layout-navbar-left navbar__items"><button aria-label="Toggle navigation bar" aria-expanded="false" class="navbar__toggle clean-btn" type="button"><svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path></svg></button><a class="navbar__brand" href="/"><div class="navbar__logo"><img src="/img/logo.webp" alt="Site Logo" class="themedComponent_mlkZ themedComponent--light_NVdE"><img src="/img/logo.webp" alt="Site Logo" class="themedComponent_mlkZ themedComponent--dark_xIcU"></div><b class="navbar__title text--truncate">Deep Notes</b></a></div><div class="theme-layout-navbar-right navbar__items navbar__items--right"><a href="https://github.com/deepaksood619" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">GitHub<svg width="13.5" height="13.5" aria-hidden="true" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a><a href="https://www.linkedin.com/in/deepaksood619/" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">LinkedIn<svg width="13.5" height="13.5" aria-hidden="true" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a><div class="toggle_vylO colorModeToggle_DEke"><button class="clean-btn toggleButton_gllP toggleButtonDisabled_aARS" type="button" disabled="" title="system mode" aria-label="Switch between dark and light mode (currently system mode)"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP lightToggleIcon_pyhR"><path fill="currentColor" d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP darkToggleIcon_wfgR"><path fill="currentColor" d="M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP systemToggleIcon_QzmC"><path fill="currentColor" d="m12 21c4.971 0 9-4.029 9-9s-4.029-9-9-9-9 4.029-9 9 4.029 9 9 9zm4.95-13.95c1.313 1.313 2.05 3.093 2.05 4.95s-0.738 3.637-2.05 4.95c-1.313 1.313-3.093 2.05-4.95 2.05v-14c1.857 0 3.637 0.737 4.95 2.05z"></path></svg></button></div><div class="navbarSearchContainer_Bca1"><button type="button" class="DocSearch DocSearch-Button" aria-label="Search (Command+K)"><span class="DocSearch-Button-Container"><svg width="20" height="20" class="DocSearch-Search-Icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M14.386 14.386l4.0877 4.0877-4.0877-4.0877c-2.9418 2.9419-7.7115 2.9419-10.6533 0-2.9419-2.9418-2.9419-7.7115 0-10.6533 2.9418-2.9419 7.7115-2.9419 10.6533 0 2.9419 2.9418 2.9419 7.7115 0 10.6533z" stroke="currentColor" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg><span class="DocSearch-Button-Placeholder">Search</span></span><span class="DocSearch-Button-Keys"></span></button></div></div></div><div role="presentation" class="navbar-sidebar__backdrop"></div></nav><div id="__docusaurus_skipToContent_fallback" class="theme-layout-main main-wrapper mainWrapper_z2l0"><div class="docsWrapper_hBAB"><button aria-label="Scroll back to top" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type="button"></button><div class="docRoot_UBD9"><aside class="theme-doc-sidebar-container docSidebarContainer_YfHR"><div class="sidebarViewport_aRkj"><div class="sidebar_njMd"><nav aria-label="Docs sidebar" class="menu thin-scrollbar menu_SIkG"><ul class="theme-doc-sidebar-menu menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/about-deepak-sood/">About Deepak Sood</a><button aria-label="Expand sidebar category &#x27;About Deepak Sood&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/ai/">AI</a><button aria-label="Expand sidebar category &#x27;AI&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/algorithms/">Algorithms</a><button aria-label="Expand sidebar category &#x27;Algorithms&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/book-summaries/">Book Summaries</a><button aria-label="Expand sidebar category &#x27;Book Summaries&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/cloud/">Cloud</a><button aria-label="Expand sidebar category &#x27;Cloud&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/computer-science/">Computer Science</a><button aria-label="Expand sidebar category &#x27;Computer Science&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/courses/">Courses / Certifications</a><button aria-label="Expand sidebar category &#x27;Courses / Certifications&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/data-structures/">Data Structures</a><button aria-label="Expand sidebar category &#x27;Data Structures&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--active" href="/data-warehouses/">Data Warehouses</a><button aria-label="Collapse sidebar category &#x27;Data Warehouses&#x27;" aria-expanded="true" type="button" class="clean-btn menu__caret"></button></div><ul class="menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/data-warehouses/bigquery/">BigQuery</a><button aria-label="Expand sidebar category &#x27;BigQuery&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/data-warehouses/clickhouse/">ClickHouse</a><button aria-label="Expand sidebar category &#x27;ClickHouse&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/comparisons">Comparisons</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/data-warehouses/concepts/">Concepts</a><button aria-label="Expand sidebar category &#x27;Concepts&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/data-warehouses/databricks/">Databricks</a><button aria-label="Expand sidebar category &#x27;Databricks&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/list-of-data-warehouses">List of Data Warehouses</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--active" tabindex="0" href="/data-warehouses/snowflake/">Snowflake</a><button aria-label="Collapse sidebar category &#x27;Snowflake&#x27;" aria-expanded="true" type="button" class="clean-btn menu__caret"></button></div><ul class="menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/snowflake/architecture">Architecture</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/snowflake/commands">Commands</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/snowflake/compute">Compute</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/snowflake/data-loading-using-copy-into-from-aws-s3">Data Loading Using COPY INTO from AWS S3</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link menu__link--active" aria-current="page" tabindex="0" href="/data-warehouses/snowflake/documentation">Documentation</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/snowflake/governance">Governance</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/snowflake/ingestion">Data Ingestion / Loading</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/snowflake/intro">Intro</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/snowflake/optimizations">Optimizations</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/snowflake/recovery">Recovery</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/snowflake/snowpipe-data-ingestion-from-aws-s3">Snowpipe Data Ingestion from AWS S3</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/snowflake/stages">Stages</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/snowflake/terms">Terms</a></li></ul></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/data-warehouses/starrocks">StarRocks</a></li></ul></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/databases/">Databases</a><button aria-label="Expand sidebar category &#x27;Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/databases-nosql/">NoSQL Databases</a><button aria-label="Expand sidebar category &#x27;NoSQL Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/databases-sql/">SQL Databases</a><button aria-label="Expand sidebar category &#x27;SQL Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/decentralized-applications/">Decentralized Applications</a><button aria-label="Expand sidebar category &#x27;Decentralized Applications&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/devops/">DevOps</a><button aria-label="Expand sidebar category &#x27;DevOps&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/economics/">Economics</a><button aria-label="Expand sidebar category &#x27;Economics&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/education/">Education</a><button aria-label="Expand sidebar category &#x27;Education&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/frontend/">Frontend</a><button aria-label="Expand sidebar category &#x27;Frontend&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/knowledge/">Knowledge</a><button aria-label="Expand sidebar category &#x27;Knowledge&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/languages/">Languages</a><button aria-label="Expand sidebar category &#x27;Languages&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/management/">Management</a><button aria-label="Expand sidebar category &#x27;Management&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/mathematics/">Mathematics</a><button aria-label="Expand sidebar category &#x27;Mathematics&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/networking/">Networking</a><button aria-label="Expand sidebar category &#x27;Networking&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/psychology/">Psychology</a><button aria-label="Expand sidebar category &#x27;Psychology&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/python/">Python</a><button aria-label="Expand sidebar category &#x27;Python&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link" href="/">Deepak&#x27;s Wiki</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/technologies/">Technologies</a><button aria-label="Expand sidebar category &#x27;Technologies&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li></ul></nav><button type="button" title="Collapse sidebar" aria-label="Collapse sidebar" class="button button--secondary button--outline collapseSidebarButton_PEFL"><svg width="20" height="20" aria-hidden="true" class="collapseSidebarButtonIcon_kv0_"><g fill="#7a7a7a"><path d="M9.992 10.023c0 .2-.062.399-.172.547l-4.996 7.492a.982.982 0 01-.828.454H1c-.55 0-1-.453-1-1 0-.2.059-.403.168-.551l4.629-6.942L.168 3.078A.939.939 0 010 2.528c0-.548.45-.997 1-.997h2.996c.352 0 .649.18.828.45L9.82 9.472c.11.148.172.347.172.55zm0 0"></path><path d="M19.98 10.023c0 .2-.058.399-.168.547l-4.996 7.492a.987.987 0 01-.828.454h-3c-.547 0-.996-.453-.996-1 0-.2.059-.403.168-.551l4.625-6.942-4.625-6.945a.939.939 0 01-.168-.55 1 1 0 01.996-.997h3c.348 0 .649.18.828.45l4.996 7.492c.11.148.168.347.168.55zm0 0"></path></g></svg></button></div></div></aside><main class="docMainContainer_TBSr"><div class="container padding-top--md padding-bottom--lg"><div class="row"><div class="col docItemCol_VOVn"><div class="docItemContainer_Djhp"><article><nav class="theme-doc-breadcrumbs breadcrumbsContainer_Z_bl" aria-label="Breadcrumbs"><ul class="breadcrumbs"><li class="breadcrumbs__item"><a aria-label="Home page" class="breadcrumbs__link" href="/"><svg viewBox="0 0 24 24" class="breadcrumbHomeIcon_YNFT"><path d="M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z" fill="currentColor"></path></svg></a></li><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="/data-warehouses/"><span>Data Warehouses</span></a></li><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="/data-warehouses/snowflake/"><span>Snowflake</span></a></li><li class="breadcrumbs__item breadcrumbs__item--active"><span class="breadcrumbs__link">Documentation</span></li></ul></nav><div class="tocCollapsible_ETCw theme-doc-toc-mobile tocMobile_ITEo"><button type="button" class="clean-btn tocCollapsibleButton_TO0P">On this page</button></div><div class="theme-doc-markdown markdown"><header><h1>Documentation</h1></header>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="overview"><a href="https://docs.snowflake.com/en/guides" target="_blank" rel="noopener noreferrer" title="Overview">Overview</a><a href="#overview" class="hash-link" aria-label="Direct link to overview" title="Direct link to overview">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="connecting-to-snowflake"><a href="https://docs.snowflake.com/en/guides-overview-connecting" target="_blank" rel="noopener noreferrer" title="Connecting to Snowflake">Connecting to Snowflake</a><a href="#connecting-to-snowflake" class="hash-link" aria-label="Direct link to connecting-to-snowflake" title="Direct link to connecting-to-snowflake">​</a></h3>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/ecosystem" target="_blank" rel="noopener noreferrer" title="Ecosystem">Ecosystem</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/ecosystem-all" target="_blank" rel="noopener noreferrer" title="All Partners and Technologies">All Partners and Technologies</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ecosystem-etl" target="_blank" rel="noopener noreferrer" title="Data Integration">Data Integration</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ecosystem-bi" target="_blank" rel="noopener noreferrer" title="Business Intelligence">Business Intelligence</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ecosystem-analytics" target="_blank" rel="noopener noreferrer" title="Machine Learning and Data Science">Machine Learning and Data Science</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ecosystem-security" target="_blank" rel="noopener noreferrer" title="Security and Governance">Security and Governance</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ecosystem-editors" target="_blank" rel="noopener noreferrer" title="SQL Development and Management">SQL Development and Management</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ecosystem-lang" target="_blank" rel="noopener noreferrer" title="Native Programmatic Interfaces">Native Programmatic Interfaces</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ecosystem-partner-connect" target="_blank" rel="noopener noreferrer" title="Snowflake Partner Connect">Snowflake Partner Connect</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-snowsight" target="_blank" rel="noopener noreferrer" title="Snowsight">Snowsight</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-snowsight-gs" target="_blank" rel="noopener noreferrer" title="Getting started with Snowsight">Getting started with Snowsight</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-snowsight-upgrade-guide" target="_blank" rel="noopener noreferrer" title="Upgrading to Snowsight">Upgrading to Snowsight</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-snowsight-worksheets-gs" target="_blank" rel="noopener noreferrer" title="Getting started with worksheets">Getting started with worksheets</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-snowsight-worksheets" target="_blank" rel="noopener noreferrer" title="Managing and using worksheets">Managing and using worksheets</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-snowsight-query" target="_blank" rel="noopener noreferrer" title="Querying data with SQL worksheets">Querying data with SQL worksheets</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-snowsight-visualizations" target="_blank" rel="noopener noreferrer" title="Visualizing worksheet data">Visualizing worksheet data</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-snowsight-dashboards" target="_blank" rel="noopener noreferrer" title="Visualizing data with dashboards">Visualizing data with dashboards</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-snowsight-data" target="_blank" rel="noopener noreferrer" title="Managing data">Managing data</a></li>
+</ul>
+</li>
+<li>Databases</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-snowsight-data-databases" target="_blank" rel="noopener noreferrer" title="Overview">Overview</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-snowsight-data-databases-database" target="_blank" rel="noopener noreferrer" title="Database Details">Database Details</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-snowsight-data-databases-schema" target="_blank" rel="noopener noreferrer" title="Schema">Schema</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-snowsight-data-databases-table" target="_blank" rel="noopener noreferrer" title="Table Details">Table Details</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-snowsight-data-databases-view" target="_blank" rel="noopener noreferrer" title="View Details">View Details</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-snowsight-data-databases-pipe" target="_blank" rel="noopener noreferrer" title="Pipe Details">Pipe Details</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-snowsight-data-databases-function" target="_blank" rel="noopener noreferrer" title="Function Details">Function Details</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-snowsight-data-databases-procedure" target="_blank" rel="noopener noreferrer" title="Procedure Details">Procedure Details</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-snowsight-admin" target="_blank" rel="noopener noreferrer" title="Administering Snowflake">Administering Snowflake</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-snowsight-profile" target="_blank" rel="noopener noreferrer" title="Manage your user profile">Manage your user profile</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-support" target="_blank" rel="noopener noreferrer" title="Managing support cases">Managing support cases</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-using" target="_blank" rel="noopener noreferrer" title="Classic Console">Classic Console</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-history" target="_blank" rel="noopener noreferrer" title="Monitoring Queries">Monitoring Queries</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-menu" target="_blank" rel="noopener noreferrer" title="Changing Your Password / Switching Your (Session) Role / Logging Out">Changing Your Password / Switching Your (Session) Role / Logging Out</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-preferences" target="_blank" rel="noopener noreferrer" title="Managing Your User Preferences">Managing Your User Preferences</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-worksheet" target="_blank" rel="noopener noreferrer" title="Using Worksheets for Queries / DML / DDL">Using Worksheets for Queries / DML / DDL</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-general" target="_blank" rel="noopener noreferrer" title="General Usage Notes">General Usage Notes</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/snowsql" target="_blank" rel="noopener noreferrer" title="SnowSQL">SnowSQL</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/snowsql-install-config" target="_blank" rel="noopener noreferrer" title="Installing">Installing</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/snowsql-config" target="_blank" rel="noopener noreferrer" title="Configuring">Configuring</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/snowsql-start" target="_blank" rel="noopener noreferrer" title="Connecting">Connecting</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/snowsql-use" target="_blank" rel="noopener noreferrer" title="Using">Using</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/vscode-ext" target="_blank" rel="noopener noreferrer" title="Visual Studio Code SQL Extension">Visual Studio Code SQL Extension</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/snowflake-client-repository" target="_blank" rel="noopener noreferrer" title="Client Download">Client Download</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/gen-conn-config" target="_blank" rel="noopener noreferrer" title="Client Configuration">Client Configuration</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/snowflake-client-version-check" target="_blank" rel="noopener noreferrer" title="Viewing Snowflake Client Versions">Viewing Snowflake Client Versions</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/snowcd" target="_blank" rel="noopener noreferrer" title="SnowCD (Connectivity Diagnostic Tool)">SnowCD (Connectivity Diagnostic Tool)</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/hostname-allowlist" target="_blank" rel="noopener noreferrer" title="Allowing Hostnames">Allowing Hostnames</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/query-size-limits" target="_blank" rel="noopener noreferrer" title="Limits on Query Text Size">Limits on Query Text Size</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ocsp" target="_blank" rel="noopener noreferrer" title="OCSP Configuration">OCSP Configuration</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/sql-prepare" target="_blank" rel="noopener noreferrer" title="SQL Statements Supported for Preparation">SQL Statements Supported for Preparation</a></li>
+</ul>
+</li>
+<li><a href="https://other-docs.snowflake.com/en/connectors" target="_blank" rel="noopener noreferrer" title="Connecting to Third-Party Systems">Connecting to Third-Party Systems</a>
+<ul>
+<li><a href="https://other-docs.snowflake.com/en/connectors/servicenow/index" target="_blank" rel="noopener noreferrer" title="Snowflake Connector for ServiceNow">Snowflake Connector for ServiceNow</a></li>
+</ul>
+</li>
+<li><a href="https://other-docs.snowflake.com/en/connectors/servicenow/about" target="_blank" rel="noopener noreferrer" title="About the Snowflake Connector for ServiceNow">About the Snowflake Connector for ServiceNow</a></li>
+<li><a href="https://other-docs.snowflake.com/en/connectors/servicenow/limitations" target="_blank" rel="noopener noreferrer" title="Known Limitations During Preview">Known Limitations During Preview</a></li>
+<li><a href="https://other-docs.snowflake.com/en/connectors/servicenow/prereqs" target="_blank" rel="noopener noreferrer" title="Preparing Your ServiceNow Instance">Preparing Your ServiceNow Instance</a></li>
+<li><a href="https://other-docs.snowflake.com/en/connectors/servicenow/installing-snowsight" target="_blank" rel="noopener noreferrer" title="Installing and Configuring the Connector with Snowsight">Installing and Configuring the Connector with Snowsight</a></li>
+<li><a href="https://other-docs.snowflake.com/en/connectors/servicenow/installing-sql" target="_blank" rel="noopener noreferrer" title="Installing and Configuring the Connector Using SQL Commands">Installing and Configuring the Connector Using SQL Commands</a></li>
+<li><a href="https://other-docs.snowflake.com/en/connectors/servicenow/ingestion" target="_blank" rel="noopener noreferrer" title="Setting Up Data Ingestion for Your ServiceNow Data">Setting Up Data Ingestion for Your ServiceNow Data</a></li>
+<li><a href="https://other-docs.snowflake.com/en/connectors/servicenow/accessing-data" target="_blank" rel="noopener noreferrer" title="Accessing the ServiceNow Data in Snowflake">Accessing the ServiceNow Data in Snowflake</a></li>
+<li><a href="https://other-docs.snowflake.com/en/connectors/servicenow/monitoring" target="_blank" rel="noopener noreferrer" title="Monitoring the Connector">Monitoring the Connector</a></li>
+<li><a href="https://other-docs.snowflake.com/en/connectors/servicenow/managing" target="_blank" rel="noopener noreferrer" title="Managing the Snowflake Connector for ServiceNow">Managing the Snowflake Connector for ServiceNow</a></li>
+<li><a href="https://other-docs.snowflake.com/en/connectors/servicenow/cost-governance" target="_blank" rel="noopener noreferrer" title="Cost Governance of the Snowflake Connector for ServiceNow">Cost Governance of the Snowflake Connector for ServiceNow</a></li>
+<li><a href="https://other-docs.snowflake.com/en/connectors/servicenow/troubleshooting" target="_blank" rel="noopener noreferrer" title="Troubleshooting the Connector">Troubleshooting the Connector</a>
+<ul>
+<li><a href="https://other-docs.snowflake.com/en/connectors/google-looker-studio-connector" target="_blank" rel="noopener noreferrer" title="Snowflake Connector for Google Looker Studio">Snowflake Connector for Google Looker Studio</a></li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="virtual-warehouses"><a href="https://docs.snowflake.com/en/user-guide/warehouses" target="_blank" rel="noopener noreferrer" title="Virtual Warehouses">Virtual Warehouses</a><a href="#virtual-warehouses" class="hash-link" aria-label="Direct link to virtual-warehouses" title="Direct link to virtual-warehouses">​</a></h3>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/warehouses-overview" target="_blank" rel="noopener noreferrer" title="Overview">Overview</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/warehouses-multicluster" target="_blank" rel="noopener noreferrer" title="Multicluster">Multicluster</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/warehouses-considerations" target="_blank" rel="noopener noreferrer" title="Considerations">Considerations</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/warehouses-tasks" target="_blank" rel="noopener noreferrer" title="Working with Warehouses">Working with Warehouses</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/query-acceleration-service" target="_blank" rel="noopener noreferrer" title="Query Acceleration Service">Query Acceleration Service</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/tutorials/query-acceleration-service" target="_blank" rel="noopener noreferrer" title="Tutorial">Tutorial</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/warehouses-load-monitoring" target="_blank" rel="noopener noreferrer" title="Monitoring Load">Monitoring Load</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/warehouses-snowpark-optimized" target="_blank" rel="noopener noreferrer" title="Snowpark-optimized Warehouses">Snowpark-optimized Warehouses</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="databases-tables--views"><a href="https://docs.snowflake.com/en/guides-overview-db" target="_blank" rel="noopener noreferrer" title="Databases, Tables, &amp; Views">Databases, Tables, &amp; Views</a><a href="#databases-tables--views" class="hash-link" aria-label="Direct link to databases-tables--views" title="Direct link to databases-tables--views">​</a></h3>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/tables-micro-partitions" target="_blank" rel="noopener noreferrer" title="Table Structures">Table Structures</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/tables-clustering-micropartitions" target="_blank" rel="noopener noreferrer" title="Micro-Partitions &amp; Data Clustering">Micro-Partitions &amp; Data Clustering</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/tables-clustering-keys" target="_blank" rel="noopener noreferrer" title="Cluster Keys &amp; Clustered Tables">Cluster Keys &amp; Clustered Tables</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/tables-auto-reclustering" target="_blank" rel="noopener noreferrer" title="Automatic Clustering">Automatic Clustering</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/tables-temp-transient" target="_blank" rel="noopener noreferrer" title="Temporary and Transient Tables">Temporary and Transient Tables</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/tables-external-intro" target="_blank" rel="noopener noreferrer" title="External Tables">External Tables</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/tables-external-auto" target="_blank" rel="noopener noreferrer" title="Automatic Refreshing">Automatic Refreshing</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/tables-external-s3" target="_blank" rel="noopener noreferrer" title="Amazon S3">Amazon S3</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/tables-external-gcs" target="_blank" rel="noopener noreferrer" title="Google Cloud Storage">Google Cloud Storage</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/tables-external-azure" target="_blank" rel="noopener noreferrer" title="Azure Blob Storage">Azure Blob Storage</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/tables-external-ts" target="_blank" rel="noopener noreferrer" title="Troubleshooting">Troubleshooting</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/tables-external-hive" target="_blank" rel="noopener noreferrer" title="Integrating Apache Hive Metastores">Integrating Apache Hive Metastores</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/tables-iceberg" target="_blank" rel="noopener noreferrer" title="Iceberg Tables">Iceberg Tables</a>
+<ul>
+<li>Configuration</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/tables-iceberg-configure-external-volume" target="_blank" rel="noopener noreferrer" title="Configure an External Volume">Configure an External Volume</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/tables-iceberg-configure-catalog-integration" target="_blank" rel="noopener noreferrer" title="Configure a Catalog Integration">Configure a Catalog Integration</a></li>
+<li>Work with Iceberg Tables</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/tables-iceberg-create" target="_blank" rel="noopener noreferrer" title="Create">Create</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/tables-iceberg-manage" target="_blank" rel="noopener noreferrer" title="Manage">Manage</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/tables-iceberg-conversion" target="_blank" rel="noopener noreferrer" title="Convert">Convert</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/tables-iceberg-catalog" target="_blank" rel="noopener noreferrer" title="Snowflake Iceberg Catalog SDK">Snowflake Iceberg Catalog SDK</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/tables-iceberg-data-types" target="_blank" rel="noopener noreferrer" title="Iceberg table data types">Iceberg table data types</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/search-optimization-service" target="_blank" rel="noopener noreferrer" title="Search Optimization Service">Search Optimization Service</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/search-optimization/queries-that-benefit" target="_blank" rel="noopener noreferrer" title="Queries That Can Benefit">Queries That Can Benefit</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/search-optimization/enabling" target="_blank" rel="noopener noreferrer" title="Configuring Search Optimization">Configuring Search Optimization</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/search-optimization/point-lookup-queries" target="_blank" rel="noopener noreferrer" title="Point Lookup Queries">Point Lookup Queries</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/search-optimization/substring-queries" target="_blank" rel="noopener noreferrer" title="Substring and Regular Expression Queries">Substring and Regular Expression Queries</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/search-optimization/semi-structured-queries" target="_blank" rel="noopener noreferrer" title="Queries of Semi-Structured Data">Queries of Semi-Structured Data</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/search-optimization/geospatial-queries" target="_blank" rel="noopener noreferrer" title="Geospatial Queries">Geospatial Queries</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/search-optimization/conjunctions-disjunctions" target="_blank" rel="noopener noreferrer" title="Conjunctions and Disjunctions">Conjunctions and Disjunctions</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/search-optimization/cost-estimation" target="_blank" rel="noopener noreferrer" title="Cost Estimation and Management">Cost Estimation and Management</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/search-optimization/working-with-tables" target="_blank" rel="noopener noreferrer" title="Working With Search-Optimized Tables">Working With Search-Optimized Tables</a></li>
+</ul>
+</li>
+<li>Views</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/views-introduction" target="_blank" rel="noopener noreferrer" title="Views">Views</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/views-secure" target="_blank" rel="noopener noreferrer" title="Secure Views">Secure Views</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/views-materialized" target="_blank" rel="noopener noreferrer" title="Materialized Views">Materialized Views</a></li>
+<li>Considerations</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/overview-view-mview-dts" target="_blank" rel="noopener noreferrer" title="Views, Materialized Views and Dynamic Tables">Views, Materialized Views and Dynamic Tables</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/table-considerations" target="_blank" rel="noopener noreferrer" title="Table Design">Table Design</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/object-clone" target="_blank" rel="noopener noreferrer" title="Cloning">Cloning</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/tables-storage-considerations" target="_blank" rel="noopener noreferrer" title="Data Storage">Data Storage</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="data-types"><a href="https://docs.snowflake.com/en/data-types" target="_blank" rel="noopener noreferrer" title="Data Types">Data Types</a><a href="#data-types" class="hash-link" aria-label="Direct link to data-types" title="Direct link to data-types">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="data-loading"><a href="https://docs.snowflake.com/en/guides-overview-loading-data" target="_blank" rel="noopener noreferrer" title="Data Loading">Data Loading</a><a href="#data-loading" class="hash-link" aria-label="Direct link to data-loading" title="Direct link to data-loading">​</a></h3>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-overview" target="_blank" rel="noopener noreferrer" title="Overview">Overview</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/intro-summary-loading" target="_blank" rel="noopener noreferrer" title="Feature Summary">Feature Summary</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-considerations" target="_blank" rel="noopener noreferrer" title="Considerations">Considerations</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-considerations-prepare" target="_blank" rel="noopener noreferrer" title="Preparing Your Data Files">Preparing Your Data Files</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-considerations-plan" target="_blank" rel="noopener noreferrer" title="Planning a Data Load">Planning a Data Load</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-considerations-stage" target="_blank" rel="noopener noreferrer" title="Staging Data">Staging Data</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-considerations-load" target="_blank" rel="noopener noreferrer" title="Loading Data">Loading Data</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-considerations-manage" target="_blank" rel="noopener noreferrer" title="Managing Regular Data Loads">Managing Regular Data Loads</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-prepare" target="_blank" rel="noopener noreferrer" title="Preparing to Load Data">Preparing to Load Data</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-local-file-system-stage-ui" target="_blank" rel="noopener noreferrer" title="Staging Files Using Snowsight">Staging Files Using Snowsight</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-web-ui" target="_blank" rel="noopener noreferrer" title="Loading Data Using the Web Interface">Loading Data Using the Web Interface</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-monitor" target="_blank" rel="noopener noreferrer" title="Monitor data loading activity">Monitor data loading activity</a></li>
+<li>Loading Semi-Structured Data</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/semistructured-intro" target="_blank" rel="noopener noreferrer" title="Introduction">Introduction</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/semistructured-data-formats" target="_blank" rel="noopener noreferrer" title="Supported Formats">Supported Formats</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/semistructured-considerations" target="_blank" rel="noopener noreferrer" title="Considerations">Considerations</a></li>
+<li>Loading Unstructured Data</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/unstructured-intro" target="_blank" rel="noopener noreferrer" title="Introduction">Introduction</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-dirtables" target="_blank" rel="noopener noreferrer" title="Directory Tables">Directory Tables</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-dirtables-manage" target="_blank" rel="noopener noreferrer" title="Manage">Manage</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-dirtables-query" target="_blank" rel="noopener noreferrer" title="Query">Query</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-dirtables-auto" target="_blank" rel="noopener noreferrer" title="Automated Refresh">Automated Refresh</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-dirtables-auto-s3" target="_blank" rel="noopener noreferrer" title="Amazon S3">Amazon S3</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-dirtables-auto-gcs" target="_blank" rel="noopener noreferrer" title="Google Cloud Storage">Google Cloud Storage</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-dirtables-auto-azure" target="_blank" rel="noopener noreferrer" title="Azure Blob Storage">Azure Blob Storage</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-dirtables-pipeline" target="_blank" rel="noopener noreferrer" title="Build Data Pipelines">Build Data Pipelines</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-unstructured-rest-api" target="_blank" rel="noopener noreferrer" title="REST API">REST API</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/unstructured-data-java" target="_blank" rel="noopener noreferrer" title="Processing with UDF and Procedure Handlers">Processing with UDF and Procedure Handlers</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/unstructured-data-sharing" target="_blank" rel="noopener noreferrer" title="Sharing">Sharing</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/unstructured-ts" target="_blank" rel="noopener noreferrer" title="Troubleshooting">Troubleshooting</a></li>
+<li>Bulk Loading</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-local-file-system" target="_blank" rel="noopener noreferrer" title="Local File System">Local File System</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-local-file-system-create-stage" target="_blank" rel="noopener noreferrer" title="Choosing an Internal Stage">Choosing an Internal Stage</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-local-file-system-stage" target="_blank" rel="noopener noreferrer" title="Staging Files">Staging Files</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-local-file-system-copy" target="_blank" rel="noopener noreferrer" title="Copying Data from a Local Filesystem">Copying Data from a Local Filesystem</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-s3" target="_blank" rel="noopener noreferrer" title="Amazon S3">Amazon S3</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-s3-allow" target="_blank" rel="noopener noreferrer" title="Allowing the Virtual Private Cloud IDs">Allowing the Virtual Private Cloud IDs</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-s3-config" target="_blank" rel="noopener noreferrer" title="Configuring Secure Access">Configuring Secure Access</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-s3-config-storage-integration" target="_blank" rel="noopener noreferrer" title="Option 1: Configuring a Snowflake Storage Integration">Option 1: Configuring a Snowflake Storage Integration</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-s3-config-aws-iam-role" target="_blank" rel="noopener noreferrer" title="Option 2: Configuring an AWS IAM Role (Deprecated)">Option 2: Configuring an AWS IAM Role (Deprecated)</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-s3-config-aws-iam-user" target="_blank" rel="noopener noreferrer" title="Option 3: Configuring AWS IAM User Credentials">Option 3: Configuring AWS IAM User Credentials</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-s3-encrypt" target="_blank" rel="noopener noreferrer" title="AWS Data File Encryption">AWS Data File Encryption</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-s3-create-stage" target="_blank" rel="noopener noreferrer" title="Creating an S3 Stage">Creating an S3 Stage</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-s3-copy" target="_blank" rel="noopener noreferrer" title="Copying Data from an S3 Stage">Copying Data from an S3 Stage</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-gcs" target="_blank" rel="noopener noreferrer" title="Google Cloud Storage">Google Cloud Storage</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-gcs-config" target="_blank" rel="noopener noreferrer" title="Configuring a Snowflake Storage Integration">Configuring a Snowflake Storage Integration</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-gcs-encrypt" target="_blank" rel="noopener noreferrer" title="Google Cloud Storage Data File Encryption">Google Cloud Storage Data File Encryption</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-gcs-copy" target="_blank" rel="noopener noreferrer" title="Copying Data from a Google Cloud Storage Stage">Copying Data from a Google Cloud Storage Stage</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-gcs-ts" target="_blank" rel="noopener noreferrer" title="Troubleshooting">Troubleshooting</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-azure" target="_blank" rel="noopener noreferrer" title="Microsoft Azure">Microsoft Azure</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-azure-allow" target="_blank" rel="noopener noreferrer" title="Allowing the VNet Subnet IDs">Allowing the VNet Subnet IDs</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-azure-config" target="_blank" rel="noopener noreferrer" title="Configuring an Azure Container for Loading Data">Configuring an Azure Container for Loading Data</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-azure-create-stage" target="_blank" rel="noopener noreferrer" title="Creating an Azure Stage">Creating an Azure Stage</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-azure-copy" target="_blank" rel="noopener noreferrer" title="Copying Data from an Azure Stage">Copying Data from an Azure Stage</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-bulk-ts" target="_blank" rel="noopener noreferrer" title="Troubleshooting">Troubleshooting</a></li>
+<li>Snowpipe</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-snowpipe-intro" target="_blank" rel="noopener noreferrer" title="Overview">Overview</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-snowpipe-auto" target="_blank" rel="noopener noreferrer" title="Auto Ingest">Auto Ingest</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-snowpipe-auto-s3" target="_blank" rel="noopener noreferrer" title="Automating for Amazon S3">Automating for Amazon S3</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-snowpipe-auto-gcs" target="_blank" rel="noopener noreferrer" title="Automating for Google Cloud Storage">Automating for Google Cloud Storage</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-snowpipe-auto-azure" target="_blank" rel="noopener noreferrer" title="Automating for Microsoft Azure">Automating for Microsoft Azure</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-snowpipe-rest-overview" target="_blank" rel="noopener noreferrer" title="REST Endpoints">REST Endpoints</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-snowpipe-rest-gs" target="_blank" rel="noopener noreferrer" title="Preparing to Load Data">Preparing to Load Data</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-snowpipe-rest-load" target="_blank" rel="noopener noreferrer" title="Load Data Using REST API">Load Data Using REST API</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-snowpipe-rest-lambda" target="_blank" rel="noopener noreferrer" title="Load Data Using AWS Lambda">Load Data Using AWS Lambda</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-snowpipe-rest-apis" target="_blank" rel="noopener noreferrer" title="Snowpipe REST API">Snowpipe REST API</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-snowpipe-errors" target="_blank" rel="noopener noreferrer" title="Error Notifications">Error Notifications</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-snowpipe-errors-sns" target="_blank" rel="noopener noreferrer" title="Enabling for Amazon SNS">Enabling for Amazon SNS</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-snowpipe-errors-azure" target="_blank" rel="noopener noreferrer" title="Enabling for Microsoft Azure Event Grid">Enabling for Microsoft Azure Event Grid</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-snowpipe-errors-gcs" target="_blank" rel="noopener noreferrer" title="Enabling for Google Pub/Sub">Enabling for Google Pub/Sub</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-snowpipe-ts" target="_blank" rel="noopener noreferrer" title="Troubleshooting">Troubleshooting</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-snowpipe-manage" target="_blank" rel="noopener noreferrer" title="Managing">Managing</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-snowpipe-billing" target="_blank" rel="noopener noreferrer" title="Snowpipe Costs">Snowpipe Costs</a></li>
+<li>Snowpipe Streaming</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-snowpipe-streaming-overview" target="_blank" rel="noopener noreferrer" title="Overview">Overview</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-snowpipe-streaming-configuration" target="_blank" rel="noopener noreferrer" title="Configurations and Examples">Configurations and Examples</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-snowpipe-streaming-recommendation" target="_blank" rel="noopener noreferrer" title="Recommendations">Recommendations</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-snowpipe-streaming-billing" target="_blank" rel="noopener noreferrer" title="Snowpipe Streaming Costs">Snowpipe Streaming Costs</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-snowpipe-streaming-kafka" target="_blank" rel="noopener noreferrer" title="Kafka Connector with Snowpipe Streaming">Kafka Connector with Snowpipe Streaming</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-snowpipe-streaming-kafka-schema-detection" target="_blank" rel="noopener noreferrer" title="Schema Detection and Evolution for Kafka Connector with Snowpipe Streaming">Schema Detection and Evolution for Kafka Connector with Snowpipe Streaming</a></li>
+<li>Accessing Data in Other Storage</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-s3-compatible-storage" target="_blank" rel="noopener noreferrer" title="Amazon S3-compatible Storage">Amazon S3-compatible Storage</a></li>
+<li>Querying and Transforming Data</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/querying-stage" target="_blank" rel="noopener noreferrer" title="Querying Data in Staged Files">Querying Data in Staged Files</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/querying-metadata" target="_blank" rel="noopener noreferrer" title="Querying Metadata for Staged Files">Querying Metadata for Staged Files</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-transform" target="_blank" rel="noopener noreferrer" title="Transforming Data During Load">Transforming Data During Load</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-schema-evolution" target="_blank" rel="noopener noreferrer" title="Evolving Table Schema Automatically">Evolving Table Schema Automatically</a></li>
+<li>Continuous Data Pipelines</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-pipelines-intro" target="_blank" rel="noopener noreferrer" title="Overview">Overview</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/dynamic-tables-about" target="_blank" rel="noopener noreferrer" title="Dynamic tables">Dynamic tables</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/dynamic-tables-refresh" target="_blank" rel="noopener noreferrer" title="Understanding dynamic table refresh">Understanding dynamic table refresh</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/dynamic-tables-comparison" target="_blank" rel="noopener noreferrer" title="Dynamic tables compared to streams &amp; tasks, and materialized views">Dynamic tables compared to streams &amp; tasks, and materialized views</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/dynamic-tables-cost" target="_blank" rel="noopener noreferrer" title="Understanding the costs of dynamic tables">Understanding the costs of dynamic tables</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/dynamic-tables-states" target="_blank" rel="noopener noreferrer" title="Dynamic table states">Dynamic table states</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/dynamic-tables-and-streams" target="_blank" rel="noopener noreferrer" title="Dynamic tables and streams">Dynamic tables and streams</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/dynamic-tables-tasks" target="_blank" rel="noopener noreferrer" title="About working with dynamic tables">About working with dynamic tables</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/dynamic-tables-tasks-create" target="_blank" rel="noopener noreferrer" title="Create dynamic tables">Create dynamic tables</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/dynamic-tables-tasks-manage" target="_blank" rel="noopener noreferrer" title="About managing dynamic tables">About managing dynamic tables</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/dynamic-tables-tasks-manage-refresh" target="_blank" rel="noopener noreferrer" title="Manage dynamic tables refresh">Manage dynamic tables refresh</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/dynamic-tables-tasks-monitor" target="_blank" rel="noopener noreferrer" title="Monitor dynamic tables">Monitor dynamic tables</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/streams-intro" target="_blank" rel="noopener noreferrer" title="Streams">Streams</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/streams-manage" target="_blank" rel="noopener noreferrer" title="Managing">Managing</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/streams-examples" target="_blank" rel="noopener noreferrer" title="Examples">Examples</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/tasks-intro" target="_blank" rel="noopener noreferrer" title="Tasks">Tasks</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/tasks-errors" target="_blank" rel="noopener noreferrer" title="Enabling Error Notifications">Enabling Error Notifications</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/tasks-errors-aws" target="_blank" rel="noopener noreferrer" title="Enabling Error Notifications using AWS SNS">Enabling Error Notifications using AWS SNS</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/tasks-errors-azure" target="_blank" rel="noopener noreferrer" title="Enabling Error Notifications using MS Azure Grid Events">Enabling Error Notifications using MS Azure Grid Events</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/tasks-errors-gpc" target="_blank" rel="noopener noreferrer" title="Enabling Error Notifications for Tasks using Google Pub/Sub">Enabling Error Notifications for Tasks using Google Pub/Sub</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/tasks-errors-integrate" target="_blank" rel="noopener noreferrer" title="Integrating Task Error Notifications with Tasks">Integrating Task Error Notifications with Tasks</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/tasks-errors-payload" target="_blank" rel="noopener noreferrer" title="Task Error Payload Example">Task Error Payload Example</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-snowsight-tasks" target="_blank" rel="noopener noreferrer" title="Viewing Task History">Viewing Task History</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/tasks-ts" target="_blank" rel="noopener noreferrer" title="Troubleshooting">Troubleshooting</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-pipelines-examples" target="_blank" rel="noopener noreferrer" title="Examples">Examples</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="data-unloading"><a href="https://docs.snowflake.com/en/guides-overview-unloading-data" target="_blank" rel="noopener noreferrer" title="Data Unloading">Data Unloading</a><a href="#data-unloading" class="hash-link" aria-label="Direct link to data-unloading" title="Direct link to data-unloading">​</a></h3>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-unload-overview" target="_blank" rel="noopener noreferrer" title="Overview">Overview</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/intro-summary-unloading" target="_blank" rel="noopener noreferrer" title="Features">Features</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-unload-considerations" target="_blank" rel="noopener noreferrer" title="Considerations">Considerations</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-unload-prepare" target="_blank" rel="noopener noreferrer" title="Preparing to Unload Data">Preparing to Unload Data</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-unload-snowflake" target="_blank" rel="noopener noreferrer" title="Unloading into a Snowflake Stage">Unloading into a Snowflake Stage</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-unload-s3" target="_blank" rel="noopener noreferrer" title="Unloading into Amazon S3">Unloading into Amazon S3</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-unload-gcs" target="_blank" rel="noopener noreferrer" title="Unloading into Google Cloud Storage">Unloading into Google Cloud Storage</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-unload-azure" target="_blank" rel="noopener noreferrer" title="Unloading into Microsoft Azure">Unloading into Microsoft Azure</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="queries"><a href="https://docs.snowflake.com/en/guides-overview-queries" target="_blank" rel="noopener noreferrer" title="Queries">Queries</a><a href="#queries" class="hash-link" aria-label="Direct link to queries" title="Direct link to queries">​</a></h3>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/querying-joins" target="_blank" rel="noopener noreferrer" title="Joins">Joins</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/join-elimination" target="_blank" rel="noopener noreferrer" title="Eliminating Redundant Joins">Eliminating Redundant Joins</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/querying-subqueries" target="_blank" rel="noopener noreferrer" title="Subqueries">Subqueries</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/queries-hierarchical" target="_blank" rel="noopener noreferrer" title="Querying Hierarchical Data">Querying Hierarchical Data</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/queries-cte" target="_blank" rel="noopener noreferrer" title="Common Table Expressions (CTE)">Common Table Expressions (CTE)</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/querying-semistructured" target="_blank" rel="noopener noreferrer" title="Querying Semi-structured Data">Querying Semi-structured Data</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/functions-window-using" target="_blank" rel="noopener noreferrer" title="Window Functions">Window Functions</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/match-recognize-introduction" target="_blank" rel="noopener noreferrer" title="Match Recognize">Match Recognize</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/querying-sequences" target="_blank" rel="noopener noreferrer" title="Sequences">Sequences</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/querying-persisted-results" target="_blank" rel="noopener noreferrer" title="Persisted Query Results">Persisted Query Results</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/querying-distinct-counts" target="_blank" rel="noopener noreferrer" title="Distinct Counts">Distinct Counts</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/querying-approximate-cardinality" target="_blank" rel="noopener noreferrer" title="Estimation">Estimation</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/querying-bitmaps-for-distinct-counts" target="_blank" rel="noopener noreferrer" title="Bitmaps for Hierarchical Aggregations">Bitmaps for Hierarchical Aggregations</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/querying-arrays-for-distinct-counts" target="_blank" rel="noopener noreferrer" title="Arrays for Hierarchical Aggregations">Arrays for Hierarchical Aggregations</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/querying-approximate-similarity" target="_blank" rel="noopener noreferrer" title="Similarity Estimation">Similarity Estimation</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/querying-approximate-frequent-values" target="_blank" rel="noopener noreferrer" title="Frequency Estimation">Frequency Estimation</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/querying-approximate-percentile-values" target="_blank" rel="noopener noreferrer" title="Estimating Percentile Values">Estimating Percentile Values</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-snowsight-activity" target="_blank" rel="noopener noreferrer" title="Monitor query activity with Query History">Monitor query activity with Query History</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ui-query-profile" target="_blank" rel="noopener noreferrer" title="Query Profile">Query Profile</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/query-hash" target="_blank" rel="noopener noreferrer" title="Query Hash">Query Hash</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/querying-cancel-statements" target="_blank" rel="noopener noreferrer" title="Cancel Statements">Cancel Statements</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="snowflake-cortex-ml-based-functions"><a href="https://docs.snowflake.com/en/guides-overview-ml-powered-functions" target="_blank" rel="noopener noreferrer" title="Snowflake Cortex ML-Based Functions">Snowflake Cortex ML-Based Functions</a><a href="#snowflake-cortex-ml-based-functions" class="hash-link" aria-label="Direct link to snowflake-cortex-ml-based-functions" title="Direct link to snowflake-cortex-ml-based-functions">​</a></h3>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/ml-powered-anomaly-detection" target="_blank" rel="noopener noreferrer" title="Anomaly Detection">Anomaly Detection</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ml-powered-contribution-explorer" target="_blank" rel="noopener noreferrer" title="Contribution Explorer">Contribution Explorer</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/ml-powered-forecasting" target="_blank" rel="noopener noreferrer" title="Forecasting">Forecasting</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="data-sharing--collaboration"><a href="https://docs.snowflake.com/en/guides-overview-sharing" target="_blank" rel="noopener noreferrer" title="Data Sharing &amp; Collaboration">Data Sharing &amp; Collaboration</a><a href="#data-sharing--collaboration" class="hash-link" aria-label="Direct link to data-sharing--collaboration" title="Direct link to data-sharing--collaboration">​</a></h3>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-sharing-intro" target="_blank" rel="noopener noreferrer" title="Introduction to Secure Data Sharing">Introduction to Secure Data Sharing</a></li>
+<li><a href="https://other-docs.snowflake.com/en/collaboration/collaboration-listings-about" target="_blank" rel="noopener noreferrer" title="About listings">About listings</a></li>
+<li><a href="https://other-docs.snowflake.com/en/collaboration/collaboration-marketplace-about" target="_blank" rel="noopener noreferrer" title="About Snowflake Marketplace">About Snowflake Marketplace</a></li>
+<li><a href="https://other-docs.snowflake.com/en/collaboration/collaboration-listings-legal" target="_blank" rel="noopener noreferrer" title="Legal requirements for providers and consumers of listings">Legal requirements for providers and consumers of listings</a></li>
+<li>Using listings as a provider</li>
+<li><a href="https://other-docs.snowflake.com/en/collaboration/provider-becoming" target="_blank" rel="noopener noreferrer" title="Becoming a provider of listings">Becoming a provider of listings</a></li>
+<li><a href="https://other-docs.snowflake.com/en/collaboration/provider-studio-accessing" target="_blank" rel="noopener noreferrer" title="Accessing Provider Studio">Accessing Provider Studio</a></li>
+<li><a href="https://other-docs.snowflake.com/en/collaboration/provider-profiles-managing" target="_blank" rel="noopener noreferrer" title="Managing your provider profile">Managing your provider profile</a></li>
+<li><a href="https://other-docs.snowflake.com/en/collaboration/provider-listings-preparing" target="_blank" rel="noopener noreferrer" title="Preparing data for a listing">Preparing data for a listing</a></li>
+<li><a href="https://other-docs.snowflake.com/en/collaboration/provider-listings-creating-publishing" target="_blank" rel="noopener noreferrer" title="Creating and publishing a listing">Creating and publishing a listing</a></li>
+<li><a href="https://other-docs.snowflake.com/en/collaboration/provider-listings-reference" target="_blank" rel="noopener noreferrer" title="Configuring listings">Configuring listings</a></li>
+<li><a href="https://other-docs.snowflake.com/en/collaboration/provider-listings-auto-fulfillment" target="_blank" rel="noopener noreferrer" title="Configuring Cross-Cloud Auto-fulfillment">Configuring Cross-Cloud Auto-fulfillment</a>
+<ul>
+<li><a href="https://other-docs.snowflake.com/en/collaboration/provider-understand-cost-auto-fulfillment" target="_blank" rel="noopener noreferrer" title="Managing Auto-fulfillment costs">Managing Auto-fulfillment costs</a></li>
+<li><a href="https://other-docs.snowflake.com/en/collaboration/provider-listings-auto-fulfillment-troubleshooting" target="_blank" rel="noopener noreferrer" title="Troubleshooting Auto-fulfillment">Troubleshooting Auto-fulfillment</a></li>
+</ul>
+</li>
+<li><a href="https://other-docs.snowflake.com/en/collaboration/provider-listings-pricing-model" target="_blank" rel="noopener noreferrer" title="Paid listings pricing models">Paid listings pricing models</a></li>
+<li><a href="https://other-docs.snowflake.com/en/collaboration/provider-listings-managing" target="_blank" rel="noopener noreferrer" title="Managing listing requests">Managing listing requests</a></li>
+<li><a href="https://other-docs.snowflake.com/en/collaboration/provider-listings-modifying" target="_blank" rel="noopener noreferrer" title="Modifying published listings">Modifying published listings</a></li>
+<li><a href="https://other-docs.snowflake.com/en/collaboration/provider-listings-referral-link" target="_blank" rel="noopener noreferrer" title="Defining listing referral links">Defining listing referral links</a></li>
+<li><a href="https://other-docs.snowflake.com/en/collaboration/provider-listings-removing" target="_blank" rel="noopener noreferrer" title="Removing listings as a provider">Removing listings as a provider</a></li>
+<li><a href="https://other-docs.snowflake.com/en/collaboration/provider-listings-monitor-studio" target="_blank" rel="noopener noreferrer" title="Monitoring usage of your listing">Monitoring usage of your listing</a></li>
+<li><a href="https://other-docs.snowflake.com/en/collaboration/provider-monetization-usage" target="_blank" rel="noopener noreferrer" title="Monetization usage views">Monetization usage views</a></li>
+<li>Using listings as a consumer</li>
+<li><a href="https://other-docs.snowflake.com/en/collaboration/consumer-becoming" target="_blank" rel="noopener noreferrer" title="Becoming a consumer of listings">Becoming a consumer of listings</a></li>
+<li><a href="https://other-docs.snowflake.com/en/collaboration/consumer-listings-exploring" target="_blank" rel="noopener noreferrer" title="Exploring listings">Exploring listings</a></li>
+<li><a href="https://other-docs.snowflake.com/en/collaboration/consumer-listings-access" target="_blank" rel="noopener noreferrer" title="Accessing and installing listings as a consumer">Accessing and installing listings as a consumer</a></li>
+<li><a href="https://other-docs.snowflake.com/en/collaboration/consumer-listings-paying" target="_blank" rel="noopener noreferrer" title="Paying for listings">Paying for listings</a></li>
+<li>Data sharing for providers</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-sharing-gs" target="_blank" rel="noopener noreferrer" title="Getting started">Getting started</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-sharing-provider" target="_blank" rel="noopener noreferrer" title="Working with shares">Working with shares</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-sharing-multiple-db" target="_blank" rel="noopener noreferrer" title="Sharing data from multiple databases">Sharing data from multiple databases</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/secure-data-sharing-across-regions-platforms" target="_blank" rel="noopener noreferrer" title="Sharing data across regions and cloud platforms">Sharing data across regions and cloud platforms</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-sharing-secure-views" target="_blank" rel="noopener noreferrer" title="Using secure objects to control data access">Using secure objects to control data access</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-sharing-policy-protected-data" target="_blank" rel="noopener noreferrer" title="Sharing data protected by a policy">Sharing data protected by a policy</a></li>
+<li>Data sharing for consumers</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-share-consumers" target="_blank" rel="noopener noreferrer" title="Consuming shared data">Consuming shared data</a></li>
+<li>General data sharing tasks</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-sharing-reader-create" target="_blank" rel="noopener noreferrer" title="Managing reader accounts">Managing reader accounts</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-sharing-reader-config" target="_blank" rel="noopener noreferrer" title="Configuring reader accounts">Configuring reader accounts</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/security-access-privileges-shares" target="_blank" rel="noopener noreferrer" title="Enabling non-Admins to perform sharing tasks">Enabling non-Admins to perform sharing tasks</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-exchange-marketplace-privileges" target="_blank" rel="noopener noreferrer" title="Granting privileges to other roles">Granting privileges to other roles</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/override_share_restrictions" target="_blank" rel="noopener noreferrer" title="Sharing from Business Critical to non-Business Critical">Sharing from Business Critical to non-Business Critical</a></li>
+<li>Data Exchange</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-exchange" target="_blank" rel="noopener noreferrer" title="About">About</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-exchange-roles" target="_blank" rel="noopener noreferrer" title="Admin and membership">Admin and membership</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-exchange-accessing" target="_blank" rel="noopener noreferrer" title="Accessing a Data Exchange">Accessing a Data Exchange</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-exchange-becoming-a-provider" target="_blank" rel="noopener noreferrer" title="Becoming a data provider">Becoming a data provider</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-exchange-managing-data-listings" target="_blank" rel="noopener noreferrer" title="Managing data listings">Managing data listings</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-exchange-using" target="_blank" rel="noopener noreferrer" title="Configuring and using Data Exchanges">Configuring and using Data Exchanges</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-exchange-requesting" target="_blank" rel="noopener noreferrer" title="Requesting a new Data Exchange">Requesting a new Data Exchange</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="alerts--notifications"><a href="https://docs.snowflake.com/en/guides-overview-alerts" target="_blank" rel="noopener noreferrer" title="Alerts &amp; Notifications">Alerts &amp; Notifications</a><a href="#alerts--notifications" class="hash-link" aria-label="Direct link to alerts--notifications" title="Direct link to alerts--notifications">​</a></h3>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/alerts" target="_blank" rel="noopener noreferrer" title="Snowflake Alerts">Snowflake Alerts</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/email-stored-procedures" target="_blank" rel="noopener noreferrer" title="Email Notifications">Email Notifications</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/sql-reference/stored-procedures/system_send_email" target="_blank" rel="noopener noreferrer" title="SYSTEM$SEND_EMAIL">SYSTEM$SEND_EMAIL</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-load-snowpipe-errors" target="_blank" rel="noopener noreferrer" title="Snowpipe Error Notifications">Snowpipe Error Notifications</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/tasks-errors" target="_blank" rel="noopener noreferrer" title="Tasks Error Notifications">Tasks Error Notifications</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="security"><a href="https://docs.snowflake.com/en/guides-overview-secure" target="_blank" rel="noopener noreferrer" title="Security">Security</a><a href="#security" class="hash-link" aria-label="Direct link to security" title="Direct link to security">​</a></h3>
+<ul>
+<li>Authentication</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/api-authentication" target="_blank" rel="noopener noreferrer" title="API authentication and secrets">API authentication and secrets</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/admin-security-fed-auth-overview" target="_blank" rel="noopener noreferrer" title="Federated authentication and SSO">Federated authentication and SSO</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/admin-security-fed-auth-configure-idp" target="_blank" rel="noopener noreferrer" title="Configuring an identity provider">Configuring an identity provider</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/admin-security-fed-auth-security-integration" target="_blank" rel="noopener noreferrer" title="Configuring Snowflake to use federated authentication">Configuring Snowflake to use federated authentication</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/admin-security-fed-auth-use" target="_blank" rel="noopener noreferrer" title="Managing federated authentication">Managing federated authentication</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/errors-saml" target="_blank" rel="noopener noreferrer" title="Troubleshooting">Troubleshooting</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/admin-security-fed-auth-configure-snowflake" target="_blank" rel="noopener noreferrer" title="Migrating to a SAML2 security integration">Migrating to a SAML2 security integration</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/key-pair-auth" target="_blank" rel="noopener noreferrer" title="Key-pair authentication and rotation">Key-pair authentication and rotation</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/key-pair-auth-troubleshooting" target="_blank" rel="noopener noreferrer" title="Troubleshooting">Troubleshooting</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/security-mfa" target="_blank" rel="noopener noreferrer" title="Multi-factor authentication (MFA)">Multi-factor authentication (MFA)</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/oauth-intro" target="_blank" rel="noopener noreferrer" title="OAuth">OAuth</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/oauth-snowflake-overview" target="_blank" rel="noopener noreferrer" title="Snowflake OAuth">Snowflake OAuth</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/oauth-partner" target="_blank" rel="noopener noreferrer" title="Partner applications">Partner applications</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/oauth-custom" target="_blank" rel="noopener noreferrer" title="Custom client integration">Custom client integration</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/oauth-consent" target="_blank" rel="noopener noreferrer" title="Managing user consent">Managing user consent</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/oauth-ext-overview" target="_blank" rel="noopener noreferrer" title="External OAuth">External OAuth</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/oauth-azure" target="_blank" rel="noopener noreferrer" title="Azure integration">Azure integration</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/oauth-okta" target="_blank" rel="noopener noreferrer" title="Okta integration">Okta integration</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/oauth-pingfed" target="_blank" rel="noopener noreferrer" title="PingFederate integration">PingFederate integration</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/oauth-powerbi" target="_blank" rel="noopener noreferrer" title="Power BI integration">Power BI integration</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/oauth-ext-custom" target="_blank" rel="noopener noreferrer" title="Custom authorization server">Custom authorization server</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/oauth-ext-partner" target="_blank" rel="noopener noreferrer" title="Partner applications">Partner applications</a></li>
+<li>Networking and private connectivity</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/network-policies" target="_blank" rel="noopener noreferrer" title="Network policies">Network policies</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/network-rules" target="_blank" rel="noopener noreferrer" title="Network rules">Network rules</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/private-internal-stages-aws" target="_blank" rel="noopener noreferrer" title="AWS VPC interface endpoints for internal stages">AWS VPC interface endpoints for internal stages</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/private-internal-stages-azure" target="_blank" rel="noopener noreferrer" title="Azure private endpoints for internal stages">Azure private endpoints for internal stages</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/admin-security-privatelink" target="_blank" rel="noopener noreferrer" title="AWS PrivateLink">AWS PrivateLink</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/privatelink-azure" target="_blank" rel="noopener noreferrer" title="Azure Private Link">Azure Private Link</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/private-service-connect-google" target="_blank" rel="noopener noreferrer" title="Google Cloud Private Service Connect">Google Cloud Private Service Connect</a></li>
+<li>Administration and authorization</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/session-policies" target="_blank" rel="noopener noreferrer" title="Sessions and session policies">Sessions and session policies</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/scim-intro" target="_blank" rel="noopener noreferrer" title="SCIM">SCIM</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/scim-okta" target="_blank" rel="noopener noreferrer" title="Okta integration">Okta integration</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/scim-azure" target="_blank" rel="noopener noreferrer" title="Azure integration">Azure integration</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/scim-custom" target="_blank" rel="noopener noreferrer" title="Custom integration">Custom integration</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/scim-api-using" target="_blank" rel="noopener noreferrer" title="API requests">API requests</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/security-access-control-overview" target="_blank" rel="noopener noreferrer" title="Access control">Access control</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/security-access-control-considerations" target="_blank" rel="noopener noreferrer" title="Considerations">Considerations</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/security-access-control-privileges" target="_blank" rel="noopener noreferrer" title="Privileges">Privileges</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/security-access-control-configure" target="_blank" rel="noopener noreferrer" title="Configuring">Configuring</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/security-encryption-end-to-end" target="_blank" rel="noopener noreferrer" title="End-to-End encryption">End-to-End encryption</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/security-encryption-manage" target="_blank" rel="noopener noreferrer" title="Encryption key management">Encryption key management</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="data-governance"><a href="https://docs.snowflake.com/en/guides-overview-govern" target="_blank" rel="noopener noreferrer" title="Data Governance">Data Governance</a><a href="#data-governance" class="hash-link" aria-label="Direct link to data-governance" title="Direct link to data-governance">​</a></h3>
+<ul>
+<li>Data Sensitivity &amp; Access Visibility</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/object-tagging" target="_blank" rel="noopener noreferrer" title="Object Tagging">Object Tagging</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/governance-classify-concepts" target="_blank" rel="noopener noreferrer" title="Data Classification">Data Classification</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/governance-classify-using" target="_blank" rel="noopener noreferrer" title="Using Data Classification">Using Data Classification</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/sql-reference/stored-procedures/associate_semantic_category_tags" target="_blank" rel="noopener noreferrer" title="ASSOCIATE_SEMANTIC_CATEGORY_TAGS">ASSOCIATE_SEMANTIC_CATEGORY_TAGS</a></li>
+<li>Data Access Policies</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/security-column-intro" target="_blank" rel="noopener noreferrer" title="Masking Policies">Masking Policies</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/security-column-ddm-intro" target="_blank" rel="noopener noreferrer" title="Dynamic Data Masking">Dynamic Data Masking</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/security-column-ddm-use" target="_blank" rel="noopener noreferrer" title="Using Dynamic Data Masking">Using Dynamic Data Masking</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/security-column-ext-token-intro" target="_blank" rel="noopener noreferrer" title="External Tokenization">External Tokenization</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/security-column-ext-token-use" target="_blank" rel="noopener noreferrer" title="Using External Tokenization">Using External Tokenization</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/tag-based-masking-policies" target="_blank" rel="noopener noreferrer" title="Tag-based Masking">Tag-based Masking</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/security-column-advanced" target="_blank" rel="noopener noreferrer" title="Advanced">Advanced</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/security-row-intro" target="_blank" rel="noopener noreferrer" title="Row Access Policies">Row Access Policies</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/security-row-using" target="_blank" rel="noopener noreferrer" title="Using Row Access Policies">Using Row Access Policies</a></li>
+</ul>
+</li>
+<li>Data Lineage &amp; Dependencies</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/access-history" target="_blank" rel="noopener noreferrer" title="Access History">Access History</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/object-dependencies" target="_blank" rel="noopener noreferrer" title="Object Dependencies">Object Dependencies</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="organizations--accounts"><a href="https://docs.snowflake.com/en/guides-overview-manage" target="_blank" rel="noopener noreferrer" title="Organizations &amp; Accounts">Organizations &amp; Accounts</a><a href="#organizations--accounts" class="hash-link" aria-label="Direct link to organizations--accounts" title="Direct link to organizations--accounts">​</a></h3>
+<ul>
+<li>Organizations</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/organizations" target="_blank" rel="noopener noreferrer" title="Introduction">Introduction</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/organizations-gs" target="_blank" rel="noopener noreferrer" title="Getting Started">Getting Started</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/organizations-manage-accounts" target="_blank" rel="noopener noreferrer" title="Managing Accounts">Managing Accounts</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/organizations-manage-accounts-create" target="_blank" rel="noopener noreferrer" title="Creating an Account">Creating an Account</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/organizations-manage-accounts-view" target="_blank" rel="noopener noreferrer" title="Viewing a List of Accounts">Viewing a List of Accounts</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/organizations-manage-accounts-rename" target="_blank" rel="noopener noreferrer" title="Renaming an Account">Renaming an Account</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/organizations-manage-accounts-urls" target="_blank" rel="noopener noreferrer" title="Managing Account URLs">Managing Account URLs</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/organizations-manage-accounts-editions" target="_blank" rel="noopener noreferrer" title="Working with Editions">Working with Editions</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/organizations-manage-accounts-delete" target="_blank" rel="noopener noreferrer" title="Dropping an Account">Dropping an Account</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/organizations-connect" target="_blank" rel="noopener noreferrer" title="Connecting to Your Accounts">Connecting to Your Accounts</a></li>
+<li>Accounts</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/admin-account-identifier" target="_blank" rel="noopener noreferrer" title="Account Identifiers">Account Identifiers</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/admin-trial-account" target="_blank" rel="noopener noreferrer" title="Trial Accounts">Trial Accounts</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/admin-account-management" target="_blank" rel="noopener noreferrer" title="Parameter Management">Parameter Management</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/admin-user-management" target="_blank" rel="noopener noreferrer" title="User Management">User Management</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="business-continuity--data-recovery"><a href="https://docs.snowflake.com/en/user-guide/replication-intro" target="_blank" rel="noopener noreferrer" title="Business Continuity &amp; Data Recovery">Business Continuity &amp; Data Recovery</a><a href="#business-continuity--data-recovery" class="hash-link" aria-label="Direct link to business-continuity--data-recovery" title="Direct link to business-continuity--data-recovery">​</a></h3>
+<ul>
+<li>Replication</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/account-replication-intro" target="_blank" rel="noopener noreferrer" title="Introduction">Introduction</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/account-replication-considerations" target="_blank" rel="noopener noreferrer" title="Considerations">Considerations</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/account-replication-config" target="_blank" rel="noopener noreferrer" title="Configuration">Configuration</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/account-replication-security-integrations" target="_blank" rel="noopener noreferrer" title="Security Integrations and Network Policy Replication">Security Integrations and Network Policy Replication</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/account-replication-stages-pipes-load-history" target="_blank" rel="noopener noreferrer" title="Stage, Pipe, and Load History Replication">Stage, Pipe, and Load History Replication</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/account-replication-cost" target="_blank" rel="noopener noreferrer" title="Understanding Cost">Understanding Cost</a></li>
+<li>Failover</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/account-replication-failover-failback" target="_blank" rel="noopener noreferrer" title="Account Failover">Account Failover</a></li>
+<li>Client Redirect</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/client-redirect" target="_blank" rel="noopener noreferrer" title="Overview">Overview</a></li>
+<li>Data Recovery</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-time-travel" target="_blank" rel="noopener noreferrer" title="Time Travel">Time Travel</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-failsafe" target="_blank" rel="noopener noreferrer" title="Fail-safe">Fail-safe</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/data-cdp-storage-costs" target="_blank" rel="noopener noreferrer" title="Storage Costs">Storage Costs</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="performance-optimization"><a href="https://docs.snowflake.com/en/guides-overview-performance" target="_blank" rel="noopener noreferrer" title="Performance Optimization">Performance Optimization</a><a href="#performance-optimization" class="hash-link" aria-label="Direct link to performance-optimization" title="Direct link to performance-optimization">​</a></h3>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/performance-query-exploring" target="_blank" rel="noopener noreferrer" title="Exploring Execution Times">Exploring Execution Times</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/performance-query-warehouse" target="_blank" rel="noopener noreferrer" title="Optimizing Warehouses for Performance">Optimizing Warehouses for Performance</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/performance-query-warehouse-queue" target="_blank" rel="noopener noreferrer" title="Reducing Queues">Reducing Queues</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/performance-query-warehouse-memory" target="_blank" rel="noopener noreferrer" title="Resolving Memory Spillage">Resolving Memory Spillage</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/performance-query-warehouse-size" target="_blank" rel="noopener noreferrer" title="Increasing Warehouse Size">Increasing Warehouse Size</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/performance-query-warehouse-qas" target="_blank" rel="noopener noreferrer" title="Trying Query Acceleration">Trying Query Acceleration</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/performance-query-warehouse-cache" target="_blank" rel="noopener noreferrer" title="Optimizing the Cache">Optimizing the Cache</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/performance-query-warehouse-max-concurrency" target="_blank" rel="noopener noreferrer" title="Limiting Concurrent Queries">Limiting Concurrent Queries</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/performance-query-storage" target="_blank" rel="noopener noreferrer" title="Optimizing Storage for Performance">Optimizing Storage for Performance</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="memory-spillage">Memory Spillage<a href="#memory-spillage" class="hash-link" aria-label="Direct link to Memory Spillage" title="Direct link to Memory Spillage">​</a></h4>
+<p>Performance degrades drastically when a warehouse runs out of memory while executing a query because memory bytes must &quot;spill&quot; onto local disk storage. If the query requires even more memory, it spills onto remote cloud-provider storage, which results in even worse performance.</p>
+<h5 class="anchor anchorWithStickyNavbar_LWe7" id="options-for-resolving-memory-spillage">Options for Resolving Memory Spillage<a href="#options-for-resolving-memory-spillage" class="hash-link" aria-label="Direct link to Options for Resolving Memory Spillage" title="Direct link to Options for Resolving Memory Spillage">​</a></h5>
+<p>When memory spillage is the issue, you can convert your existing warehouse to a Snowpark-optimized warehouse, which provides 16x more memory per node and 10x the local cache compared to a standard warehouse. Though a larger warehouse also has more memory available, a query might not require its expanded compute resources.</p>
+<p>If you want to try resolving the spillage of a query without adjusting the warehouse that runs it, use the <a href="https://docs.snowflake.com/en/user-guide/ui-snowsight-activity.html#label-snowsight-query-profile" target="_blank" rel="noopener noreferrer">Query Profile</a> to identify which operation nodes are causing the spillage.</p>
+<p><a href="https://community.snowflake.com/s/article/Performance-impact-from-local-and-remote-disk-spilling" target="_blank" rel="noopener noreferrer">Performance impact from local and remote disk spilling</a></p>
+<p><a href="https://docs.snowflake.com/en/user-guide/performance-query-warehouse-memory" target="_blank" rel="noopener noreferrer">Resolving memory spillage | Snowflake Documentation</a></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="cost-management"><a href="https://docs.snowflake.com/en/guides-overview-cost" target="_blank" rel="noopener noreferrer" title="Cost Management">Cost Management</a><a href="#cost-management" class="hash-link" aria-label="Direct link to cost-management" title="Direct link to cost-management">​</a></h3>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/cost-understanding-overall" target="_blank" rel="noopener noreferrer" title="Understanding Cost">Understanding Cost</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/cost-understanding-compute" target="_blank" rel="noopener noreferrer" title="Understanding Compute Cost">Understanding Compute Cost</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/cost-understanding-data-storage" target="_blank" rel="noopener noreferrer" title="Understanding Storage Cost">Understanding Storage Cost</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/cost-understanding-data-transfer" target="_blank" rel="noopener noreferrer" title="Understanding Data Transfer Cost">Understanding Data Transfer Cost</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/cost-exploring-overall" target="_blank" rel="noopener noreferrer" title="Exploring Cost">Exploring Cost</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/cost-exploring-compute" target="_blank" rel="noopener noreferrer" title="Exploring Compute Cost">Exploring Compute Cost</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/cost-exploring-data-storage" target="_blank" rel="noopener noreferrer" title="Exploring Storage Cost">Exploring Storage Cost</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/cost-exploring-data-transfer" target="_blank" rel="noopener noreferrer" title="Exploring Data Transfer Cost">Exploring Data Transfer Cost</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/cost-optimize" target="_blank" rel="noopener noreferrer" title="Optimizing Cost">Optimizing Cost</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/cost-monitoring" target="_blank" rel="noopener noreferrer" title="Monitoring Cost">Monitoring Cost</a>
+<ul>
+<li><a href="https://docs.snowflake.com/en/user-guide/budgets" target="_blank" rel="noopener noreferrer" title="Monitoring Cost with Budgets">Monitoring Cost with Budgets</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/resource-monitors" target="_blank" rel="noopener noreferrer" title="Working with Resource Monitors">Working with Resource Monitors</a></li>
+</ul>
+</li>
+<li><a href="https://docs.snowflake.com/en/user-guide/cost-attributing" target="_blank" rel="noopener noreferrer" title="Attributing Cost">Attributing Cost</a></li>
+<li><a href="https://docs.snowflake.com/en/user-guide/cost-controlling" target="_blank" rel="noopener noreferrer" title="Controlling Cost">Controlling Cost</a></li>
+</ul></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="row margin-top--sm theme-doc-footer-edit-meta-row"><div class="col"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/data-warehouses/snowflake/documentation.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_JAkA"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2025-06-10T17:10:38.000Z" itemprop="dateModified">Jun 10, 2025</time></b> by <b>Deepak</b></span></div></div></footer></article><nav class="docusaurus-mt-lg pagination-nav" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/data-warehouses/snowflake/data-loading-using-copy-into-from-aws-s3"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Data Loading Using COPY INTO from AWS S3</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/data-warehouses/snowflake/governance"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Governance</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#overview" class="table-of-contents__link toc-highlight">Overview</a></li><li><a href="#connecting-to-snowflake" class="table-of-contents__link toc-highlight">Connecting to Snowflake</a></li><li><a href="#virtual-warehouses" class="table-of-contents__link toc-highlight">Virtual Warehouses</a></li><li><a href="#databases-tables--views" class="table-of-contents__link toc-highlight">Databases, Tables, &amp; Views</a></li><li><a href="#data-types" class="table-of-contents__link toc-highlight">Data Types</a></li><li><a href="#data-loading" class="table-of-contents__link toc-highlight">Data Loading</a></li><li><a href="#data-unloading" class="table-of-contents__link toc-highlight">Data Unloading</a></li><li><a href="#queries" class="table-of-contents__link toc-highlight">Queries</a></li><li><a href="#snowflake-cortex-ml-based-functions" class="table-of-contents__link toc-highlight">Snowflake Cortex ML-Based Functions</a></li><li><a href="#data-sharing--collaboration" class="table-of-contents__link toc-highlight">Data Sharing &amp; Collaboration</a></li><li><a href="#alerts--notifications" class="table-of-contents__link toc-highlight">Alerts &amp; Notifications</a></li><li><a href="#security" class="table-of-contents__link toc-highlight">Security</a></li><li><a href="#data-governance" class="table-of-contents__link toc-highlight">Data Governance</a></li><li><a href="#organizations--accounts" class="table-of-contents__link toc-highlight">Organizations &amp; Accounts</a></li><li><a href="#business-continuity--data-recovery" class="table-of-contents__link toc-highlight">Business Continuity &amp; Data Recovery</a></li><li><a href="#performance-optimization" class="table-of-contents__link toc-highlight">Performance Optimization</a></li><li><a href="#cost-management" class="table-of-contents__link toc-highlight">Cost Management</a></li></ul></div></div></div></div></main></div></div></div><footer class="theme-layout-footer footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2026 Deep Notes, Built with ❤️</div></div></div></footer></div>
+</body>
+</html>

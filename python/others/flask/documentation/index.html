@@ -1,0 +1,372 @@
+<!doctype html>
+<html lang="en" dir="ltr" class="docs-wrapper plugin-docs plugin-id-default docs-version-current docs-doc-page docs-doc-id-python/others/flask/documentation" data-has-hydrated="false">
+<head>
+<meta charset="UTF-8">
+<meta name="generator" content="Docusaurus v3.8.0">
+<title data-rh="true">Documentation | Deep Notes</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://deepaksood619.github.io/img/timeline_blurred.webp"><meta data-rh="true" name="twitter:image" content="https://deepaksood619.github.io/img/timeline_blurred.webp"><meta data-rh="true" property="og:url" content="https://deepaksood619.github.io/python/others/flask/documentation"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Documentation | Deep Notes"><meta data-rh="true" name="description" content="Flask depends on the Jinja template engine and the Werkzeug WSGI toolkit. The documentation for these libraries can be found at:"><meta data-rh="true" property="og:description" content="Flask depends on the Jinja template engine and the Werkzeug WSGI toolkit. The documentation for these libraries can be found at:"><link data-rh="true" rel="icon" href="/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://deepaksood619.github.io/python/others/flask/documentation"><link data-rh="true" rel="alternate" href="https://deepaksood619.github.io/python/others/flask/documentation" hreflang="en"><link data-rh="true" rel="alternate" href="https://deepaksood619.github.io/python/others/flask/documentation" hreflang="x-default"><link data-rh="true" rel="preconnect" href="https://X3OY8NGHVH-dsn.algolia.net" crossorigin="anonymous"><script data-rh="true" type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Python","item":"https://deepaksood619.github.io/python/"},{"@type":"ListItem","position":2,"name":"Others","item":"https://deepaksood619.github.io/python/others/"},{"@type":"ListItem","position":3,"name":"Flask","item":"https://deepaksood619.github.io/python/others/flask/"},{"@type":"ListItem","position":4,"name":"Documentation","item":"https://deepaksood619.github.io/python/others/flask/documentation"}]}</script><link rel="preconnect" href="https://www.google-analytics.com">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZSZMJXWSH3"></script>
+<script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-ZSZMJXWSH3",{})</script>
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script>window.dataLayer=window.dataLayer||[]</script>
+<script>!function(e,t,a,n){e[n]=e[n]||[],e[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var g=t.getElementsByTagName(a)[0],m=t.createElement(a);m.async=!0,m.src="https://www.googletagmanager.com/gtm.js?id=GTM-TN3KBF4",g.parentNode.insertBefore(m,g)}(window,document,"script","dataLayer")</script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" title="Deep Notes" href="/opensearch.xml">
+<link rel="icon" href="/img/logo.webp">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="rgb(53, 120, 229)">
+
+
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.9f55d0bd.css">
+<script src="/assets/js/runtime~main.7b3a7cc3.js" defer="defer"></script>
+<script src="/assets/js/main.c96be3a1.js" defer="defer"></script>
+</head>
+<body class="navigation-with-keyboard">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;"><defs>
+<symbol id="theme-svg-external-link" viewBox="0 0 24 24"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"/></symbol>
+</defs></svg>
+<script>!function(){var t=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return window.localStorage.getItem("theme")}catch(t){}}();document.documentElement.setAttribute("data-theme",t||(window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light")),document.documentElement.setAttribute("data-theme-choice",t||"system")}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id="__docusaurus"><div role="region" aria-label="Skip to main content"><a class="skipToContent_fXgn" href="#__docusaurus_skipToContent_fallback">Skip to main content</a></div><nav aria-label="Main" class="theme-layout-navbar navbar navbar--fixed-top"><div class="navbar__inner"><div class="theme-layout-navbar-left navbar__items"><button aria-label="Toggle navigation bar" aria-expanded="false" class="navbar__toggle clean-btn" type="button"><svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path></svg></button><a class="navbar__brand" href="/"><div class="navbar__logo"><img src="/img/logo.webp" alt="Site Logo" class="themedComponent_mlkZ themedComponent--light_NVdE"><img src="/img/logo.webp" alt="Site Logo" class="themedComponent_mlkZ themedComponent--dark_xIcU"></div><b class="navbar__title text--truncate">Deep Notes</b></a></div><div class="theme-layout-navbar-right navbar__items navbar__items--right"><a href="https://github.com/deepaksood619" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">GitHub<svg width="13.5" height="13.5" aria-hidden="true" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a><a href="https://www.linkedin.com/in/deepaksood619/" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">LinkedIn<svg width="13.5" height="13.5" aria-hidden="true" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a><div class="toggle_vylO colorModeToggle_DEke"><button class="clean-btn toggleButton_gllP toggleButtonDisabled_aARS" type="button" disabled="" title="system mode" aria-label="Switch between dark and light mode (currently system mode)"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP lightToggleIcon_pyhR"><path fill="currentColor" d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP darkToggleIcon_wfgR"><path fill="currentColor" d="M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP systemToggleIcon_QzmC"><path fill="currentColor" d="m12 21c4.971 0 9-4.029 9-9s-4.029-9-9-9-9 4.029-9 9 4.029 9 9 9zm4.95-13.95c1.313 1.313 2.05 3.093 2.05 4.95s-0.738 3.637-2.05 4.95c-1.313 1.313-3.093 2.05-4.95 2.05v-14c1.857 0 3.637 0.737 4.95 2.05z"></path></svg></button></div><div class="navbarSearchContainer_Bca1"><button type="button" class="DocSearch DocSearch-Button" aria-label="Search (Command+K)"><span class="DocSearch-Button-Container"><svg width="20" height="20" class="DocSearch-Search-Icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M14.386 14.386l4.0877 4.0877-4.0877-4.0877c-2.9418 2.9419-7.7115 2.9419-10.6533 0-2.9419-2.9418-2.9419-7.7115 0-10.6533 2.9418-2.9419 7.7115-2.9419 10.6533 0 2.9419 2.9418 2.9419 7.7115 0 10.6533z" stroke="currentColor" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg><span class="DocSearch-Button-Placeholder">Search</span></span><span class="DocSearch-Button-Keys"></span></button></div></div></div><div role="presentation" class="navbar-sidebar__backdrop"></div></nav><div id="__docusaurus_skipToContent_fallback" class="theme-layout-main main-wrapper mainWrapper_z2l0"><div class="docsWrapper_hBAB"><button aria-label="Scroll back to top" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type="button"></button><div class="docRoot_UBD9"><aside class="theme-doc-sidebar-container docSidebarContainer_YfHR"><div class="sidebarViewport_aRkj"><div class="sidebar_njMd"><nav aria-label="Docs sidebar" class="menu thin-scrollbar menu_SIkG"><ul class="theme-doc-sidebar-menu menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/about-deepak-sood/">About Deepak Sood</a><button aria-label="Expand sidebar category &#x27;About Deepak Sood&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/ai/">AI</a><button aria-label="Expand sidebar category &#x27;AI&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/algorithms/">Algorithms</a><button aria-label="Expand sidebar category &#x27;Algorithms&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/book-summaries/">Book Summaries</a><button aria-label="Expand sidebar category &#x27;Book Summaries&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/cloud/">Cloud</a><button aria-label="Expand sidebar category &#x27;Cloud&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/computer-science/">Computer Science</a><button aria-label="Expand sidebar category &#x27;Computer Science&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/courses/">Courses / Certifications</a><button aria-label="Expand sidebar category &#x27;Courses / Certifications&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/data-structures/">Data Structures</a><button aria-label="Expand sidebar category &#x27;Data Structures&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/data-warehouses/">Data Warehouses</a><button aria-label="Expand sidebar category &#x27;Data Warehouses&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/databases/">Databases</a><button aria-label="Expand sidebar category &#x27;Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/databases-nosql/">NoSQL Databases</a><button aria-label="Expand sidebar category &#x27;NoSQL Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/databases-sql/">SQL Databases</a><button aria-label="Expand sidebar category &#x27;SQL Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/decentralized-applications/">Decentralized Applications</a><button aria-label="Expand sidebar category &#x27;Decentralized Applications&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/devops/">DevOps</a><button aria-label="Expand sidebar category &#x27;DevOps&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/economics/">Economics</a><button aria-label="Expand sidebar category &#x27;Economics&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/education/">Education</a><button aria-label="Expand sidebar category &#x27;Education&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/frontend/">Frontend</a><button aria-label="Expand sidebar category &#x27;Frontend&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/knowledge/">Knowledge</a><button aria-label="Expand sidebar category &#x27;Knowledge&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/languages/">Languages</a><button aria-label="Expand sidebar category &#x27;Languages&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/management/">Management</a><button aria-label="Expand sidebar category &#x27;Management&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/mathematics/">Mathematics</a><button aria-label="Expand sidebar category &#x27;Mathematics&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/networking/">Networking</a><button aria-label="Expand sidebar category &#x27;Networking&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/psychology/">Psychology</a><button aria-label="Expand sidebar category &#x27;Psychology&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--active" href="/python/">Python</a><button aria-label="Collapse sidebar category &#x27;Python&#x27;" aria-expanded="true" type="button" class="clean-btn menu__caret"></button></div><ul class="menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/python/advanced/">Advanced</a><button aria-label="Expand sidebar category &#x27;Advanced&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/python/django/">Django</a><button aria-label="Expand sidebar category &#x27;Django&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/python/documentation/">Documentation</a><button aria-label="Expand sidebar category &#x27;Documentation&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--active" tabindex="0" href="/python/others/">Others</a><button aria-label="Collapse sidebar category &#x27;Others&#x27;" aria-expanded="true" type="button" class="clean-btn menu__caret"></button></div><ul class="menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/python/others/boto-and-boto3/">boto &amp; boto3</a><button aria-label="Expand sidebar category &#x27;boto &amp; boto3&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/python/others/fastapi/">FastAPI</a><button aria-label="Expand sidebar category &#x27;FastAPI&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--active" tabindex="0" href="/python/others/flask/">Flask</a><button aria-label="Collapse sidebar category &#x27;Flask&#x27;" aria-expanded="true" type="button" class="clean-btn menu__caret"></button></div><ul class="menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-4 menu__list-item"><a class="menu__link menu__link--active" aria-current="page" tabindex="0" href="/python/others/flask/documentation">Documentation</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-4 menu__list-item"><a class="menu__link" tabindex="0" href="/python/others/flask/flask-sqlalchemy">Flask-sqlalchemy</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-4 menu__list-item"><a class="menu__link" tabindex="0" href="/python/others/flask/others">Others</a></li></ul></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/python/others/frameworks">Frameworks</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/python/others/libraries">Libraries</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/python/others/pymysql">PyMySQL</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/python/others/requests">Requests</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-3 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/python/others/sqlalchemy/">SQLAlchemy</a><button aria-label="Expand sidebar category &#x27;SQLAlchemy&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/python/others/twisted">Twisted</a></li></ul></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/python/python-intro/">Python</a><button aria-label="Expand sidebar category &#x27;Python&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li></ul></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link" href="/">Deepak&#x27;s Wiki</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/technologies/">Technologies</a><button aria-label="Expand sidebar category &#x27;Technologies&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li></ul></nav><button type="button" title="Collapse sidebar" aria-label="Collapse sidebar" class="button button--secondary button--outline collapseSidebarButton_PEFL"><svg width="20" height="20" aria-hidden="true" class="collapseSidebarButtonIcon_kv0_"><g fill="#7a7a7a"><path d="M9.992 10.023c0 .2-.062.399-.172.547l-4.996 7.492a.982.982 0 01-.828.454H1c-.55 0-1-.453-1-1 0-.2.059-.403.168-.551l4.629-6.942L.168 3.078A.939.939 0 010 2.528c0-.548.45-.997 1-.997h2.996c.352 0 .649.18.828.45L9.82 9.472c.11.148.172.347.172.55zm0 0"></path><path d="M19.98 10.023c0 .2-.058.399-.168.547l-4.996 7.492a.987.987 0 01-.828.454h-3c-.547 0-.996-.453-.996-1 0-.2.059-.403.168-.551l4.625-6.942-4.625-6.945a.939.939 0 01-.168-.55 1 1 0 01.996-.997h3c.348 0 .649.18.828.45l4.996 7.492c.11.148.168.347.168.55zm0 0"></path></g></svg></button></div></div></aside><main class="docMainContainer_TBSr"><div class="container padding-top--md padding-bottom--lg"><div class="row"><div class="col docItemCol_VOVn"><div class="docItemContainer_Djhp"><article><nav class="theme-doc-breadcrumbs breadcrumbsContainer_Z_bl" aria-label="Breadcrumbs"><ul class="breadcrumbs"><li class="breadcrumbs__item"><a aria-label="Home page" class="breadcrumbs__link" href="/"><svg viewBox="0 0 24 24" class="breadcrumbHomeIcon_YNFT"><path d="M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z" fill="currentColor"></path></svg></a></li><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="/python/"><span>Python</span></a></li><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="/python/others/"><span>Others</span></a></li><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="/python/others/flask/"><span>Flask</span></a></li><li class="breadcrumbs__item breadcrumbs__item--active"><span class="breadcrumbs__link">Documentation</span></li></ul></nav><div class="tocCollapsible_ETCw theme-doc-toc-mobile tocMobile_ITEo"><button type="button" class="clean-btn tocCollapsibleButton_TO0P">On this page</button></div><div class="theme-doc-markdown markdown"><header><h1>Documentation</h1></header>
+<p>Flask depends on the <a href="https://www.palletsprojects.com/p/jinja/" target="_blank" rel="noopener noreferrer">Jinja</a> template engine and the <a href="https://www.palletsprojects.com/p/werkzeug/" target="_blank" rel="noopener noreferrer">Werkzeug</a> WSGI toolkit. The documentation for these libraries can be found at:</p>
+<ul>
+<li><a href="http://jinja.pocoo.org/docs" target="_blank" rel="noopener noreferrer">Jinja documentation</a></li>
+<li><a href="https://werkzeug.palletsprojects.com/" target="_blank" rel="noopener noreferrer">Werkzeug documentation</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="documentation-1">Documentation<a href="#documentation-1" class="hash-link" aria-label="Direct link to Documentation" title="Direct link to Documentation">​</a></h2>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/foreword/" target="_blank" rel="noopener noreferrer">Foreword</a>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/foreword/#what-does-micro-mean" target="_blank" rel="noopener noreferrer">What does &quot;micro&quot; mean?</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/foreword/#configuration-and-conventions" target="_blank" rel="noopener noreferrer">Configuration and Conventions</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/foreword/#growing-with-flask" target="_blank" rel="noopener noreferrer">Growing with Flask</a></li>
+</ul>
+</li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/advanced_foreword/" target="_blank" rel="noopener noreferrer">Foreword for Experienced Programmers</a>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/advanced_foreword/#thread-locals-in-flask" target="_blank" rel="noopener noreferrer">Thread-Locals in Flask</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/advanced_foreword/#develop-for-the-web-with-caution" target="_blank" rel="noopener noreferrer">Develop for the Web with Caution</a></li>
+</ul>
+</li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/installation/" target="_blank" rel="noopener noreferrer">Installation</a>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/installation/#python-version" target="_blank" rel="noopener noreferrer">Python Version</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/installation/#dependencies" target="_blank" rel="noopener noreferrer">Dependencies</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/installation/#virtual-environments" target="_blank" rel="noopener noreferrer">Virtual environments</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/installation/#install-flask" target="_blank" rel="noopener noreferrer">Install Flask</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/installation/#install-virtualenv" target="_blank" rel="noopener noreferrer">Install virtualenv</a></li>
+</ul>
+</li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/quickstart/" target="_blank" rel="noopener noreferrer">Quickstart</a>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/quickstart/#a-minimal-application" target="_blank" rel="noopener noreferrer">A Minimal Application</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/quickstart/#what-to-do-if-the-server-does-not-start" target="_blank" rel="noopener noreferrer">What to do if the Server does not Start</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/quickstart/#debug-mode" target="_blank" rel="noopener noreferrer">Debug Mode</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/quickstart/#routing" target="_blank" rel="noopener noreferrer">Routing</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/quickstart/#static-files" target="_blank" rel="noopener noreferrer">Static Files</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/quickstart/#rendering-templates" target="_blank" rel="noopener noreferrer">Rendering Templates</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/quickstart/#accessing-request-data" target="_blank" rel="noopener noreferrer">Accessing Request Data</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/quickstart/#redirects-and-errors" target="_blank" rel="noopener noreferrer">Redirects and Errors</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/quickstart/#about-responses" target="_blank" rel="noopener noreferrer">About Responses</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/quickstart/#sessions" target="_blank" rel="noopener noreferrer">Sessions</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/quickstart/#message-flashing" target="_blank" rel="noopener noreferrer">Message Flashing</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/quickstart/#logging" target="_blank" rel="noopener noreferrer">Logging</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/quickstart/#hooking-in-wsgi-middleware" target="_blank" rel="noopener noreferrer">Hooking in WSGI Middleware</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/quickstart/#using-flask-extensions" target="_blank" rel="noopener noreferrer">Using Flask Extensions</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/quickstart/#deploying-to-a-web-server" target="_blank" rel="noopener noreferrer">Deploying to a Web Server</a></li>
+</ul>
+</li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/tutorial/" target="_blank" rel="noopener noreferrer">Tutorial</a>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/tutorial/layout/" target="_blank" rel="noopener noreferrer">Project Layout</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/tutorial/factory/" target="_blank" rel="noopener noreferrer">Application Setup</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/tutorial/database/" target="_blank" rel="noopener noreferrer">Define and Access the Database</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/tutorial/views/" target="_blank" rel="noopener noreferrer">Blueprints and Views</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/tutorial/templates/" target="_blank" rel="noopener noreferrer">Templates</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/tutorial/static/" target="_blank" rel="noopener noreferrer">Static Files</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/tutorial/blog/" target="_blank" rel="noopener noreferrer">Blog Blueprint</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/tutorial/install/" target="_blank" rel="noopener noreferrer">Make the Project Installable</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/tutorial/tests/" target="_blank" rel="noopener noreferrer">Test Coverage</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/tutorial/deploy/" target="_blank" rel="noopener noreferrer">Deploy to Production</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/tutorial/next/" target="_blank" rel="noopener noreferrer">Keep Developing!</a></li>
+</ul>
+</li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/templating/" target="_blank" rel="noopener noreferrer">Templates</a>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/templating/#jinja-setup" target="_blank" rel="noopener noreferrer">Jinja Setup</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/templating/#standard-context" target="_blank" rel="noopener noreferrer">Standard Context</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/templating/#standard-filters" target="_blank" rel="noopener noreferrer">Standard Filters</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/templating/#controlling-autoescaping" target="_blank" rel="noopener noreferrer">Controlling Autoescaping</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/templating/#registering-filters" target="_blank" rel="noopener noreferrer">Registering Filters</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/templating/#context-processors" target="_blank" rel="noopener noreferrer">Context Processors</a></li>
+</ul>
+</li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/testing/" target="_blank" rel="noopener noreferrer">Testing Flask Applications</a>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/testing/#the-application" target="_blank" rel="noopener noreferrer">The Application</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/testing/#the-testing-skeleton" target="_blank" rel="noopener noreferrer">The Testing Skeleton</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/testing/#the-first-test" target="_blank" rel="noopener noreferrer">The First Test</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/testing/#logging-in-and-out" target="_blank" rel="noopener noreferrer">Logging In and Out</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/testing/#test-adding-messages" target="_blank" rel="noopener noreferrer">Test Adding Messages</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/testing/#other-testing-tricks" target="_blank" rel="noopener noreferrer">Other Testing Tricks</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/testing/#faking-resources-and-context" target="_blank" rel="noopener noreferrer">Faking Resources and Context</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/testing/#keeping-the-context-around" target="_blank" rel="noopener noreferrer">Keeping the Context Around</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/testing/#accessing-and-modifying-sessions" target="_blank" rel="noopener noreferrer">Accessing and Modifying Sessions</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/testing/#testing-json-apis" target="_blank" rel="noopener noreferrer">Testing JSON APIs</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/testing/#testing-cli-commands" target="_blank" rel="noopener noreferrer">Testing CLI Commands</a></li>
+</ul>
+</li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/errorhandling/" target="_blank" rel="noopener noreferrer">Application Errors</a>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/errorhandling/#error-logging-tools" target="_blank" rel="noopener noreferrer">Error Logging Tools</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/errorhandling/#error-handlers" target="_blank" rel="noopener noreferrer">Error handlers</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/errorhandling/#logging" target="_blank" rel="noopener noreferrer">Logging</a></li>
+</ul>
+</li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/errorhandling/#debugging-application-errors" target="_blank" rel="noopener noreferrer">Debugging Application Errors</a>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/errorhandling/#when-in-doubt-run-manually" target="_blank" rel="noopener noreferrer">When in Doubt, Run Manually</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/errorhandling/#working-with-debuggers" target="_blank" rel="noopener noreferrer">Working with Debuggers</a></li>
+</ul>
+</li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/logging/" target="_blank" rel="noopener noreferrer">Logging</a>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/logging/#basic-configuration" target="_blank" rel="noopener noreferrer">Basic Configuration</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/logging/#email-errors-to-admins" target="_blank" rel="noopener noreferrer">Email Errors to Admins</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/logging/#injecting-request-information" target="_blank" rel="noopener noreferrer">Injecting Request Information</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/logging/#other-libraries" target="_blank" rel="noopener noreferrer">Other Libraries</a></li>
+</ul>
+</li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/config/" target="_blank" rel="noopener noreferrer">Configuration Handling</a>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/config/#configuration-basics" target="_blank" rel="noopener noreferrer">Configuration Basics</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/config/#environment-and-debug-features" target="_blank" rel="noopener noreferrer">Environment and Debug Features</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/config/#builtin-configuration-values" target="_blank" rel="noopener noreferrer">Builtin Configuration Values</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/config/#configuring-from-files" target="_blank" rel="noopener noreferrer">Configuring from Files</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/config/#configuring-from-environment-variables" target="_blank" rel="noopener noreferrer">Configuring from Environment Variables</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/config/#configuration-best-practices" target="_blank" rel="noopener noreferrer">Configuration Best Practices</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/config/#development-production" target="_blank" rel="noopener noreferrer">Development / Production</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/config/#instance-folders" target="_blank" rel="noopener noreferrer">Instance Folders</a></li>
+</ul>
+</li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/signals/" target="_blank" rel="noopener noreferrer">Signals</a>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/signals/#subscribing-to-signals" target="_blank" rel="noopener noreferrer">Subscribing to Signals</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/signals/#creating-signals" target="_blank" rel="noopener noreferrer">Creating Signals</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/signals/#sending-signals" target="_blank" rel="noopener noreferrer">Sending Signals</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/signals/#signals-and-flask-s-request-context" target="_blank" rel="noopener noreferrer">Signals and Flask&#x27;s Request Context</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/signals/#decorator-based-signal-subscriptions" target="_blank" rel="noopener noreferrer">Decorator Based Signal Subscriptions</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/signals/#core-signals" target="_blank" rel="noopener noreferrer">Core Signals</a></li>
+</ul>
+</li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/views/" target="_blank" rel="noopener noreferrer">Pluggable Views</a>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/views/#basic-principle" target="_blank" rel="noopener noreferrer">Basic Principle</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/views/#method-hints" target="_blank" rel="noopener noreferrer">Method Hints</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/views/#method-based-dispatching" target="_blank" rel="noopener noreferrer">Method Based Dispatching</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/views/#decorating-views" target="_blank" rel="noopener noreferrer">Decorating Views</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/views/#method-views-for-apis" target="_blank" rel="noopener noreferrer">Method Views for APIs</a></li>
+</ul>
+</li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/appcontext/" target="_blank" rel="noopener noreferrer">The Application Context</a>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/appcontext/#purpose-of-the-context" target="_blank" rel="noopener noreferrer">Purpose of the Context</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/appcontext/#lifetime-of-the-context" target="_blank" rel="noopener noreferrer">Lifetime of the Context</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/appcontext/#manually-push-a-context" target="_blank" rel="noopener noreferrer">Manually Push a Context</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/appcontext/#storing-data" target="_blank" rel="noopener noreferrer">Storing Data</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/appcontext/#events-and-signals" target="_blank" rel="noopener noreferrer">Events and Signals</a></li>
+</ul>
+</li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/reqcontext/" target="_blank" rel="noopener noreferrer">The Request Context</a>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/reqcontext/#purpose-of-the-context" target="_blank" rel="noopener noreferrer">Purpose of the Context</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/reqcontext/#lifetime-of-the-context" target="_blank" rel="noopener noreferrer">Lifetime of the Context</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/reqcontext/#manually-push-a-context" target="_blank" rel="noopener noreferrer">Manually Push a Context</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/reqcontext/#how-the-context-works" target="_blank" rel="noopener noreferrer">How the Context Works</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/reqcontext/#callbacks-and-errors" target="_blank" rel="noopener noreferrer">Callbacks and Errors</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/reqcontext/#context-preservation-on-error" target="_blank" rel="noopener noreferrer">Context Preservation on Error</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/reqcontext/#notes-on-proxies" target="_blank" rel="noopener noreferrer">Notes On Proxies</a></li>
+</ul>
+</li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/blueprints/" target="_blank" rel="noopener noreferrer">Modular Applications with Blueprints</a></li>
+</ul>
+<p>Flask uses a concept of <em>blueprints</em>for making application components and supporting common patterns within an application or across applications. Blueprints can greatly simplify how large applications work and provide a central means for Flask extensions to register operations on applications. A <a href="https://flask.palletsprojects.com/en/1.1.x/api/#flask.Blueprint" target="_blank" rel="noopener noreferrer"><strong>Blueprint</strong></a> object works similarly to a <a href="https://flask.palletsprojects.com/en/1.1.x/api/#flask.Flask" target="_blank" rel="noopener noreferrer"><strong>Flask</strong></a> application object, but it is not actually an application. Rather it is a <em>blueprint</em> of how to construct or extend an application.</p>
+<ul>
+<li>
+<p><a href="https://flask.palletsprojects.com/en/1.1.x/blueprints/#why-blueprints" target="_blank" rel="noopener noreferrer">Why Blueprints?</a></p>
+</li>
+<li>
+<p><a href="https://flask.palletsprojects.com/en/1.1.x/blueprints/#the-concept-of-blueprints" target="_blank" rel="noopener noreferrer">The Concept of Blueprints</a></p>
+</li>
+<li>
+<p><a href="https://flask.palletsprojects.com/en/1.1.x/blueprints/#my-first-blueprint" target="_blank" rel="noopener noreferrer">My First Blueprint</a></p>
+</li>
+<li>
+<p><a href="https://flask.palletsprojects.com/en/1.1.x/blueprints/#registering-blueprints" target="_blank" rel="noopener noreferrer">Registering Blueprints</a></p>
+</li>
+<li>
+<p><a href="https://flask.palletsprojects.com/en/1.1.x/blueprints/#blueprint-resources" target="_blank" rel="noopener noreferrer">Blueprint Resources</a></p>
+</li>
+<li>
+<p><a href="https://flask.palletsprojects.com/en/1.1.x/blueprints/#building-urls" target="_blank" rel="noopener noreferrer">Building URLs</a></p>
+</li>
+<li>
+<p><a href="https://flask.palletsprojects.com/en/1.1.x/blueprints/#error-handlers" target="_blank" rel="noopener noreferrer">Error Handlers</a></p>
+</li>
+<li>
+<p><a href="https://flask.palletsprojects.com/en/1.1.x/extensions/" target="_blank" rel="noopener noreferrer">Extensions</a></p>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/extensions/#finding-extensions" target="_blank" rel="noopener noreferrer">Finding Extensions</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/extensions/#using-extensions" target="_blank" rel="noopener noreferrer">Using Extensions</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/extensions/#building-extensions" target="_blank" rel="noopener noreferrer">Building Extensions</a></li>
+</ul>
+</li>
+<li>
+<p><a href="https://flask.palletsprojects.com/en/1.1.x/cli/" target="_blank" rel="noopener noreferrer">Command Line Interface</a></p>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/cli/#application-discovery" target="_blank" rel="noopener noreferrer">Application Discovery</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/cli/#run-the-development-server" target="_blank" rel="noopener noreferrer">Run the Development Server</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/cli/#open-a-shell" target="_blank" rel="noopener noreferrer">Open a Shell</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/cli/#environments" target="_blank" rel="noopener noreferrer">Environments</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/cli/#debug-mode" target="_blank" rel="noopener noreferrer">Debug Mode</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/cli/#environment-variables-from-dotenv" target="_blank" rel="noopener noreferrer">Environment Variables From dotenv</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/cli/#environment-variables-from-virtualenv" target="_blank" rel="noopener noreferrer">Environment Variables From virtualenv</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/cli/#custom-commands" target="_blank" rel="noopener noreferrer">Custom Commands</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/cli/#plugins" target="_blank" rel="noopener noreferrer">Plugins</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/cli/#custom-scripts" target="_blank" rel="noopener noreferrer">Custom Scripts</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/cli/#pycharm-integration" target="_blank" rel="noopener noreferrer">PyCharm Integration</a></li>
+</ul>
+</li>
+<li>
+<p><a href="https://flask.palletsprojects.com/en/1.1.x/server/" target="_blank" rel="noopener noreferrer">Development Server</a></p>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/server/#command-line" target="_blank" rel="noopener noreferrer">Command Line</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/server/#in-code" target="_blank" rel="noopener noreferrer">In Code</a></li>
+</ul>
+</li>
+<li>
+<p><a href="https://flask.palletsprojects.com/en/1.1.x/shell/" target="_blank" rel="noopener noreferrer">Working with the Shell</a></p>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/shell/#command-line-interface" target="_blank" rel="noopener noreferrer">Command Line Interface</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/shell/#creating-a-request-context" target="_blank" rel="noopener noreferrer">Creating a Request Context</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/shell/#firing-before-after-request" target="_blank" rel="noopener noreferrer">Firing Before/After Request</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/shell/#further-improving-the-shell-experience" target="_blank" rel="noopener noreferrer">Further Improving the Shell Experience</a></li>
+</ul>
+</li>
+<li>
+<p><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/" target="_blank" rel="noopener noreferrer">Patterns for Flask</a></p>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/packages/" target="_blank" rel="noopener noreferrer">Larger Applications</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/appfactories/" target="_blank" rel="noopener noreferrer">Application Factories</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/appdispatch/" target="_blank" rel="noopener noreferrer">Application Dispatching</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/apierrors/" target="_blank" rel="noopener noreferrer">Implementing API Exceptions</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/urlprocessors/" target="_blank" rel="noopener noreferrer">Using URL Processors</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/distribute/" target="_blank" rel="noopener noreferrer">Deploying with Setuptools</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/fabric/" target="_blank" rel="noopener noreferrer">Deploying with Fabric</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/sqlite3/" target="_blank" rel="noopener noreferrer">Using SQLite 3 with Flask</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/sqlalchemy/" target="_blank" rel="noopener noreferrer">SQLAlchemy in Flask</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/fileuploads/" target="_blank" rel="noopener noreferrer">Uploading Files</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/caching/" target="_blank" rel="noopener noreferrer">Caching</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/viewdecorators/" target="_blank" rel="noopener noreferrer">View Decorators</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/wtforms/" target="_blank" rel="noopener noreferrer">Form Validation with WTForms</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/templateinheritance/" target="_blank" rel="noopener noreferrer">Template Inheritance</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/flashing/" target="_blank" rel="noopener noreferrer">Message Flashing</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/jquery/" target="_blank" rel="noopener noreferrer">AJAX with jQuery</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/errorpages/" target="_blank" rel="noopener noreferrer">Custom Error Pages</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/lazyloading/" target="_blank" rel="noopener noreferrer">Lazily Loading Views</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/mongoengine/" target="_blank" rel="noopener noreferrer">MongoDB with MongoEngine</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/favicon/" target="_blank" rel="noopener noreferrer">Adding a favicon</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/streaming/" target="_blank" rel="noopener noreferrer">Streaming Contents</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/deferredcallbacks/" target="_blank" rel="noopener noreferrer">Deferred Request Callbacks</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/methodoverrides/" target="_blank" rel="noopener noreferrer">Adding HTTP Method Overrides</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/requestchecksum/" target="_blank" rel="noopener noreferrer">Request Content Checksums</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/celery/" target="_blank" rel="noopener noreferrer">Celery Background Tasks</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/subclassing/" target="_blank" rel="noopener noreferrer">Subclassing Flask</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/patterns/singlepageapplications/" target="_blank" rel="noopener noreferrer">Single-Page Applications</a></li>
+</ul>
+</li>
+<li>
+<p><a href="https://flask.palletsprojects.com/en/1.1.x/deploying/" target="_blank" rel="noopener noreferrer">Deployment Options</a></p>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/deploying/#hosted-options" target="_blank" rel="noopener noreferrer">Hosted options</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/deploying/#self-hosted-options" target="_blank" rel="noopener noreferrer">Self-hosted options</a></li>
+</ul>
+</li>
+<li>
+<p><a href="https://flask.palletsprojects.com/en/1.1.x/becomingbig/" target="_blank" rel="noopener noreferrer">Becoming Big</a></p>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/becomingbig/#read-the-source" target="_blank" rel="noopener noreferrer">Read the Source.</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/becomingbig/#hook-extend" target="_blank" rel="noopener noreferrer">Hook. Extend.</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/becomingbig/#subclass" target="_blank" rel="noopener noreferrer">Subclass.</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/becomingbig/#wrap-with-middleware" target="_blank" rel="noopener noreferrer">Wrap with middleware.</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/becomingbig/#fork" target="_blank" rel="noopener noreferrer">Fork.</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/becomingbig/#scale-like-a-pro" target="_blank" rel="noopener noreferrer">Scale like a pro.</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/becomingbig/#discuss-with-the-community" target="_blank" rel="noopener noreferrer">Discuss with the community.</a></li>
+</ul>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="additional-notes">Additional Notes<a href="#additional-notes" class="hash-link" aria-label="Direct link to Additional Notes" title="Direct link to Additional Notes">​</a></h2>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/design/" target="_blank" rel="noopener noreferrer">Design Decisions in Flask</a>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/design/#the-explicit-application-object" target="_blank" rel="noopener noreferrer">The Explicit Application Object</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/design/#the-routing-system" target="_blank" rel="noopener noreferrer">The Routing System</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/design/#one-template-engine" target="_blank" rel="noopener noreferrer">One Template Engine</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/design/#micro-with-dependencies" target="_blank" rel="noopener noreferrer">Micro with Dependencies</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/design/#thread-locals" target="_blank" rel="noopener noreferrer">Thread Locals</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/design/#what-flask-is-what-flask-is-not" target="_blank" rel="noopener noreferrer">What Flask is, What Flask is Not</a></li>
+</ul>
+</li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/htmlfaq/" target="_blank" rel="noopener noreferrer">HTML/XHTML FAQ</a>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/htmlfaq/#history-of-xhtml" target="_blank" rel="noopener noreferrer">History of XHTML</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/htmlfaq/#history-of-html5" target="_blank" rel="noopener noreferrer">History of HTML5</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/htmlfaq/#html-versus-xhtml" target="_blank" rel="noopener noreferrer">HTML versus XHTML</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/htmlfaq/#what-does-strict-mean" target="_blank" rel="noopener noreferrer">What does &quot;strict&quot; mean?</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/htmlfaq/#new-technologies-in-html5" target="_blank" rel="noopener noreferrer">New technologies in HTML5</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/htmlfaq/#what-should-be-used" target="_blank" rel="noopener noreferrer">What should be used?</a></li>
+</ul>
+</li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/security/" target="_blank" rel="noopener noreferrer">Security Considerations</a>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/security/#cross-site-scripting-xss" target="_blank" rel="noopener noreferrer">Cross-Site Scripting (XSS)</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/security/#cross-site-request-forgery-csrf" target="_blank" rel="noopener noreferrer">Cross-Site Request Forgery (CSRF)</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/security/#json-security" target="_blank" rel="noopener noreferrer">JSON Security</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/security/#security-headers" target="_blank" rel="noopener noreferrer">Security Headers</a></li>
+</ul>
+</li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/unicode/" target="_blank" rel="noopener noreferrer">Unicode in Flask</a>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/unicode/#automatic-conversion" target="_blank" rel="noopener noreferrer">Automatic Conversion</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/unicode/#the-golden-rule" target="_blank" rel="noopener noreferrer">The Golden Rule</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/unicode/#encoding-and-decoding-yourself" target="_blank" rel="noopener noreferrer">Encoding and Decoding Yourself</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/unicode/#configuring-editors" target="_blank" rel="noopener noreferrer">Configuring Editors</a></li>
+</ul>
+</li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/extensiondev/" target="_blank" rel="noopener noreferrer">Flask Extension Development</a>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/extensiondev/#anatomy-of-an-extension" target="_blank" rel="noopener noreferrer">Anatomy of an Extension</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/extensiondev/#hello-flaskext" target="_blank" rel="noopener noreferrer">&quot;Hello Flaskext!&quot;</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/extensiondev/#initializing-extensions" target="_blank" rel="noopener noreferrer">Initializing Extensions</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/extensiondev/#the-extension-code" target="_blank" rel="noopener noreferrer">The Extension Code</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/extensiondev/#using-app-ctx-stack" target="_blank" rel="noopener noreferrer">Using _app_ctx_stack</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/extensiondev/#learn-from-others" target="_blank" rel="noopener noreferrer">Learn from Others</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/extensiondev/#approved-extensions" target="_blank" rel="noopener noreferrer">Approved Extensions</a></li>
+</ul>
+</li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/styleguide/" target="_blank" rel="noopener noreferrer">Pocoo Styleguide</a>
+<ul>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/styleguide/#general-layout" target="_blank" rel="noopener noreferrer">General Layout</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/styleguide/#expressions-and-statements" target="_blank" rel="noopener noreferrer">Expressions and Statements</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/styleguide/#naming-conventions" target="_blank" rel="noopener noreferrer">Naming Conventions</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/styleguide/#docstrings" target="_blank" rel="noopener noreferrer">Docstrings</a></li>
+<li><a href="https://flask.palletsprojects.com/en/1.1.x/styleguide/#comments" target="_blank" rel="noopener noreferrer">Comments</a></li>
+</ul>
+</li>
+</ul>
+<p><a href="https://flask.palletsprojects.com/en/1.1.x" target="_blank" rel="noopener noreferrer">https://flask.palletsprojects.com/en/1.1.x</a></p></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="row margin-top--sm theme-doc-footer-edit-meta-row"><div class="col"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/python/others/flask/documentation.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_JAkA"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2024-02-05T13:06:14.000Z" itemprop="dateModified">Feb 5, 2024</time></b> by <b>Deepak</b></span></div></div></footer></article><nav class="docusaurus-mt-lg pagination-nav" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/python/others/flask/"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Flask</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/python/others/flask/flask-sqlalchemy"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Flask-sqlalchemy</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#documentation-1" class="table-of-contents__link toc-highlight">Documentation</a></li><li><a href="#additional-notes" class="table-of-contents__link toc-highlight">Additional Notes</a></li></ul></div></div></div></div></main></div></div></div><footer class="theme-layout-footer footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2026 Deep Notes, Built with ❤️</div></div></div></footer></div>
+</body>
+</html>

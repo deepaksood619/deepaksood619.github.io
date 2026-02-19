@@ -1,0 +1,489 @@
+<!doctype html>
+<html lang="en" dir="ltr" class="docs-wrapper plugin-docs plugin-id-default docs-version-current docs-doc-page docs-doc-id-ai/ml-fundamentals/ml-classification" data-has-hydrated="false">
+<head>
+<meta charset="UTF-8">
+<meta name="generator" content="Docusaurus v3.8.0">
+<title data-rh="true">ML Classification | Deep Notes</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://deepaksood619.github.io/img/timeline_blurred.webp"><meta data-rh="true" name="twitter:image" content="https://deepaksood619.github.io/img/timeline_blurred.webp"><meta data-rh="true" property="og:url" content="https://deepaksood619.github.io/ai/ml-fundamentals/ml-classification"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="ML Classification | Deep Notes"><meta data-rh="true" name="description" content="Types of ML Algorithms"><meta data-rh="true" property="og:description" content="Types of ML Algorithms"><link data-rh="true" rel="icon" href="/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://deepaksood619.github.io/ai/ml-fundamentals/ml-classification"><link data-rh="true" rel="alternate" href="https://deepaksood619.github.io/ai/ml-fundamentals/ml-classification" hreflang="en"><link data-rh="true" rel="alternate" href="https://deepaksood619.github.io/ai/ml-fundamentals/ml-classification" hreflang="x-default"><link data-rh="true" rel="preconnect" href="https://X3OY8NGHVH-dsn.algolia.net" crossorigin="anonymous"><script data-rh="true" type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"AI","item":"https://deepaksood619.github.io/ai/"},{"@type":"ListItem","position":2,"name":"ML Fundamentals","item":"https://deepaksood619.github.io/ai/ml-fundamentals/"},{"@type":"ListItem","position":3,"name":"ML Classification","item":"https://deepaksood619.github.io/ai/ml-fundamentals/ml-classification"}]}</script><link rel="preconnect" href="https://www.google-analytics.com">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZSZMJXWSH3"></script>
+<script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-ZSZMJXWSH3",{})</script>
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script>window.dataLayer=window.dataLayer||[]</script>
+<script>!function(e,t,a,n){e[n]=e[n]||[],e[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var g=t.getElementsByTagName(a)[0],m=t.createElement(a);m.async=!0,m.src="https://www.googletagmanager.com/gtm.js?id=GTM-TN3KBF4",g.parentNode.insertBefore(m,g)}(window,document,"script","dataLayer")</script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" title="Deep Notes" href="/opensearch.xml">
+<link rel="icon" href="/img/logo.webp">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="rgb(53, 120, 229)">
+
+
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.9f55d0bd.css">
+<script src="/assets/js/runtime~main.7b3a7cc3.js" defer="defer"></script>
+<script src="/assets/js/main.c96be3a1.js" defer="defer"></script>
+</head>
+<body class="navigation-with-keyboard">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;"><defs>
+<symbol id="theme-svg-external-link" viewBox="0 0 24 24"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"/></symbol>
+</defs></svg>
+<script>!function(){var t=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return window.localStorage.getItem("theme")}catch(t){}}();document.documentElement.setAttribute("data-theme",t||(window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light")),document.documentElement.setAttribute("data-theme-choice",t||"system")}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id="__docusaurus"><div role="region" aria-label="Skip to main content"><a class="skipToContent_fXgn" href="#__docusaurus_skipToContent_fallback">Skip to main content</a></div><nav aria-label="Main" class="theme-layout-navbar navbar navbar--fixed-top"><div class="navbar__inner"><div class="theme-layout-navbar-left navbar__items"><button aria-label="Toggle navigation bar" aria-expanded="false" class="navbar__toggle clean-btn" type="button"><svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path></svg></button><a class="navbar__brand" href="/"><div class="navbar__logo"><img src="/img/logo.webp" alt="Site Logo" class="themedComponent_mlkZ themedComponent--light_NVdE"><img src="/img/logo.webp" alt="Site Logo" class="themedComponent_mlkZ themedComponent--dark_xIcU"></div><b class="navbar__title text--truncate">Deep Notes</b></a></div><div class="theme-layout-navbar-right navbar__items navbar__items--right"><a href="https://github.com/deepaksood619" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">GitHub<svg width="13.5" height="13.5" aria-hidden="true" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a><a href="https://www.linkedin.com/in/deepaksood619/" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">LinkedIn<svg width="13.5" height="13.5" aria-hidden="true" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a><div class="toggle_vylO colorModeToggle_DEke"><button class="clean-btn toggleButton_gllP toggleButtonDisabled_aARS" type="button" disabled="" title="system mode" aria-label="Switch between dark and light mode (currently system mode)"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP lightToggleIcon_pyhR"><path fill="currentColor" d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP darkToggleIcon_wfgR"><path fill="currentColor" d="M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP systemToggleIcon_QzmC"><path fill="currentColor" d="m12 21c4.971 0 9-4.029 9-9s-4.029-9-9-9-9 4.029-9 9 4.029 9 9 9zm4.95-13.95c1.313 1.313 2.05 3.093 2.05 4.95s-0.738 3.637-2.05 4.95c-1.313 1.313-3.093 2.05-4.95 2.05v-14c1.857 0 3.637 0.737 4.95 2.05z"></path></svg></button></div><div class="navbarSearchContainer_Bca1"><button type="button" class="DocSearch DocSearch-Button" aria-label="Search (Command+K)"><span class="DocSearch-Button-Container"><svg width="20" height="20" class="DocSearch-Search-Icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M14.386 14.386l4.0877 4.0877-4.0877-4.0877c-2.9418 2.9419-7.7115 2.9419-10.6533 0-2.9419-2.9418-2.9419-7.7115 0-10.6533 2.9418-2.9419 7.7115-2.9419 10.6533 0 2.9419 2.9418 2.9419 7.7115 0 10.6533z" stroke="currentColor" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg><span class="DocSearch-Button-Placeholder">Search</span></span><span class="DocSearch-Button-Keys"></span></button></div></div></div><div role="presentation" class="navbar-sidebar__backdrop"></div></nav><div id="__docusaurus_skipToContent_fallback" class="theme-layout-main main-wrapper mainWrapper_z2l0"><div class="docsWrapper_hBAB"><button aria-label="Scroll back to top" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type="button"></button><div class="docRoot_UBD9"><aside class="theme-doc-sidebar-container docSidebarContainer_YfHR"><div class="sidebarViewport_aRkj"><div class="sidebar_njMd"><nav aria-label="Docs sidebar" class="menu thin-scrollbar menu_SIkG"><ul class="theme-doc-sidebar-menu menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/about-deepak-sood/">About Deepak Sood</a><button aria-label="Expand sidebar category &#x27;About Deepak Sood&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--active" href="/ai/">AI</a><button aria-label="Collapse sidebar category &#x27;AI&#x27;" aria-expanded="true" type="button" class="clean-btn menu__caret"></button></div><ul class="menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/ai/big-data/">Big Data</a><button aria-label="Expand sidebar category &#x27;Big Data&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/ai/computer-vision-cv/">Computer Vision</a><button aria-label="Expand sidebar category &#x27;Computer Vision&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/ai/content-moderation">Content Moderation</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/ai/data-science/">Data Science</a><button aria-label="Expand sidebar category &#x27;Data Science&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/ai/data-visualization/">Data Visualization</a><button aria-label="Expand sidebar category &#x27;Data Visualization&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/ai/deep-learning/">Deep Learning</a><button aria-label="Expand sidebar category &#x27;Deep Learning&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/ai/hackathon-hackhound">Hackathon HackHound</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/ai/hackathon-rabbittai">Hackathon Rabbitt AI</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/ai/hackathons">Hackathons</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/ai/libraries/">Libraries</a><button aria-label="Expand sidebar category &#x27;Libraries&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/ai/llm/">LLM</a><button aria-label="Expand sidebar category &#x27;LLM&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/ai/ml-algorithms/">ML Algorithms</a><button aria-label="Expand sidebar category &#x27;ML Algorithms&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--active" tabindex="0" href="/ai/ml-fundamentals/">ML Fundamentals</a><button aria-label="Collapse sidebar category &#x27;ML Fundamentals&#x27;" aria-expanded="true" type="button" class="clean-btn menu__caret"></button></div><ul class="menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/ai/ml-fundamentals/andrew-ng">Andrew NG</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/ai/ml-fundamentals/cheatsheet">Cheatsheet</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/ai/ml-fundamentals/intro">Intro</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/ai/ml-fundamentals/loss-function">Loss Function</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link menu__link--active" aria-current="page" tabindex="0" href="/ai/ml-fundamentals/ml-classification">ML Classification</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/ai/ml-fundamentals/ml-process">ML Process</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/ai/ml-fundamentals/neural-networks-3b1b">Neural Networks 3B1B</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/ai/ml-fundamentals/neural-networks">Neural Networks</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/ai/ml-fundamentals/practical-ai-problems">Practical AI Problems</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/ai/ml-fundamentals/preliminaries">Preliminaries</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/ai/ml-fundamentals/questions">Questions</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/ai/ml-fundamentals/table-of-contents">Table of contents</a></li></ul></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/ai/model-evaluation/">Model Evaluation</a><button aria-label="Expand sidebar category &#x27;Model Evaluation&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/ai/move-37/">Move37</a><button aria-label="Expand sidebar category &#x27;Move37&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/ai/nlp/">NLP</a><button aria-label="Expand sidebar category &#x27;NLP&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/ai/numpy/">Numpy</a><button aria-label="Expand sidebar category &#x27;Numpy&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/ai/others-resources-interview-learning-courses">Others / Resources / Interview / Learning / Courses</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/ai/pandas/">Pandas</a><button aria-label="Expand sidebar category &#x27;Pandas&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/ai/scikit-learn/">Scikit Learn / Scipy</a><button aria-label="Expand sidebar category &#x27;Scikit Learn / Scipy&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/ai/social-media-analytics-solution">Social Media Analytics Solution</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/ai/solutions">Solutions</a></li></ul></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/algorithms/">Algorithms</a><button aria-label="Expand sidebar category &#x27;Algorithms&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/book-summaries/">Book Summaries</a><button aria-label="Expand sidebar category &#x27;Book Summaries&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/cloud/">Cloud</a><button aria-label="Expand sidebar category &#x27;Cloud&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/computer-science/">Computer Science</a><button aria-label="Expand sidebar category &#x27;Computer Science&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/courses/">Courses / Certifications</a><button aria-label="Expand sidebar category &#x27;Courses / Certifications&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/data-structures/">Data Structures</a><button aria-label="Expand sidebar category &#x27;Data Structures&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/data-warehouses/">Data Warehouses</a><button aria-label="Expand sidebar category &#x27;Data Warehouses&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/databases/">Databases</a><button aria-label="Expand sidebar category &#x27;Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/databases-nosql/">NoSQL Databases</a><button aria-label="Expand sidebar category &#x27;NoSQL Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/databases-sql/">SQL Databases</a><button aria-label="Expand sidebar category &#x27;SQL Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/decentralized-applications/">Decentralized Applications</a><button aria-label="Expand sidebar category &#x27;Decentralized Applications&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/devops/">DevOps</a><button aria-label="Expand sidebar category &#x27;DevOps&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/economics/">Economics</a><button aria-label="Expand sidebar category &#x27;Economics&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/education/">Education</a><button aria-label="Expand sidebar category &#x27;Education&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/frontend/">Frontend</a><button aria-label="Expand sidebar category &#x27;Frontend&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/knowledge/">Knowledge</a><button aria-label="Expand sidebar category &#x27;Knowledge&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/languages/">Languages</a><button aria-label="Expand sidebar category &#x27;Languages&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/management/">Management</a><button aria-label="Expand sidebar category &#x27;Management&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/mathematics/">Mathematics</a><button aria-label="Expand sidebar category &#x27;Mathematics&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/networking/">Networking</a><button aria-label="Expand sidebar category &#x27;Networking&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/psychology/">Psychology</a><button aria-label="Expand sidebar category &#x27;Psychology&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/python/">Python</a><button aria-label="Expand sidebar category &#x27;Python&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link" href="/">Deepak&#x27;s Wiki</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/technologies/">Technologies</a><button aria-label="Expand sidebar category &#x27;Technologies&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li></ul></nav><button type="button" title="Collapse sidebar" aria-label="Collapse sidebar" class="button button--secondary button--outline collapseSidebarButton_PEFL"><svg width="20" height="20" aria-hidden="true" class="collapseSidebarButtonIcon_kv0_"><g fill="#7a7a7a"><path d="M9.992 10.023c0 .2-.062.399-.172.547l-4.996 7.492a.982.982 0 01-.828.454H1c-.55 0-1-.453-1-1 0-.2.059-.403.168-.551l4.629-6.942L.168 3.078A.939.939 0 010 2.528c0-.548.45-.997 1-.997h2.996c.352 0 .649.18.828.45L9.82 9.472c.11.148.172.347.172.55zm0 0"></path><path d="M19.98 10.023c0 .2-.058.399-.168.547l-4.996 7.492a.987.987 0 01-.828.454h-3c-.547 0-.996-.453-.996-1 0-.2.059-.403.168-.551l4.625-6.942-4.625-6.945a.939.939 0 01-.168-.55 1 1 0 01.996-.997h3c.348 0 .649.18.828.45l4.996 7.492c.11.148.168.347.168.55zm0 0"></path></g></svg></button></div></div></aside><main class="docMainContainer_TBSr"><div class="container padding-top--md padding-bottom--lg"><div class="row"><div class="col docItemCol_VOVn"><div class="docItemContainer_Djhp"><article><nav class="theme-doc-breadcrumbs breadcrumbsContainer_Z_bl" aria-label="Breadcrumbs"><ul class="breadcrumbs"><li class="breadcrumbs__item"><a aria-label="Home page" class="breadcrumbs__link" href="/"><svg viewBox="0 0 24 24" class="breadcrumbHomeIcon_YNFT"><path d="M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z" fill="currentColor"></path></svg></a></li><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="/ai/"><span>AI</span></a></li><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="/ai/ml-fundamentals/"><span>ML Fundamentals</span></a></li><li class="breadcrumbs__item breadcrumbs__item--active"><span class="breadcrumbs__link">ML Classification</span></li></ul></nav><div class="tocCollapsible_ETCw theme-doc-toc-mobile tocMobile_ITEo"><button type="button" class="clean-btn tocCollapsibleButton_TO0P">On this page</button></div><div class="theme-doc-markdown markdown"><header><h1>ML Classification</h1></header>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="types-of-ml-algorithms">Types of ML Algorithms<a href="#types-of-ml-algorithms" class="hash-link" aria-label="Direct link to Types of ML Algorithms" title="Direct link to Types of ML Algorithms">​</a></h2>
+<ol>
+<li>Parametric Machine Learning Algorithms<!-- -->
+<ul>
+<li>Algorithms that simplify the function to a known form</li>
+<li>The algorithms involve two steps<!-- -->
+<ol>
+<li>Select a form for the function</li>
+<li>Learn the coefficients for the function from the training data</li>
+</ol>
+</li>
+<li>Examples<!-- -->
+<ul>
+<li>Linear Regression</li>
+<li>Logistic Regression</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Non-Parametric Machine Learning Algorithms</li>
+</ol>
+<p>Algorithms that do not make strong assumptions about the form of the mapping function. By not making assumptions, they are free to learn any functional form from the training data. Non-parametric methods are often more flexible, achieve better accuracy but require a lot more data and training time.</p>
+<p>Examples</p>
+<ul>
+<li>Support Vector Machines (SVM)</li>
+<li>Neural Networks</li>
+<li>Decision Trees</li>
+</ul>
+<ol start="3">
+<li>
+<p>Linear Algorithms</p>
+<ul>
+<li>Linear Regression</li>
+<li>Logistic Regression</li>
+<li>Linear Discriminant Analysis (LDA)</li>
+</ul>
+</li>
+<li>
+<p>Non-Linear Algorithms</p>
+<ul>
+<li>Classification and Regression Trees</li>
+<li>Naive Bayes</li>
+<li>K-Nearest Neighbor</li>
+<li>Learning Vector Quantization (LVQ)</li>
+<li>Support Vector Machines</li>
+</ul>
+</li>
+<li>
+<p>Ensemble Algorithms</p>
+<ul>
+<li>Bagging with Decision Tree</li>
+<li>Boosting with AdaBoost</li>
+</ul>
+</li>
+</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="kinds-of-ml-problems">Kinds of ML problems<a href="#kinds-of-ml-problems" class="hash-link" aria-label="Direct link to Kinds of ML problems" title="Direct link to Kinds of ML problems">​</a></h2>
+<p>Machine learning tasks are typically classified into two broad categories, depending on whether there is a learning &quot;signal&quot; or &quot;feedback&quot; available to a learning system</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="supervised-learning">Supervised Learning<a href="#supervised-learning" class="hash-link" aria-label="Direct link to Supervised Learning" title="Direct link to Supervised Learning">​</a></h2>
+<p>The computer is presented with example inputs and their desired outputs, given by a &quot;teacher&quot;, and the goal is to learn a general rule that <a href="https://en.wikipedia.org/wiki/Map_(mathematics)" target="_blank" rel="noopener noreferrer">maps</a> inputs to outputs. As special cases, the input signal can be only partially available, or restricted to special feedback: (Discrete number of values / classes)</p>
+<ul>
+<li><strong>Regression Problem</strong>
+<ul>
+<li>Predict continuous valued output (price)</li>
+<li>Right answer were given (ex- to sell the house at highest price) either use linear function or use quadratic function. Maximize the profit to the use by trying to learn by experimenting and learning.</li>
+</ul>
+</li>
+<li><strong>Classification Problem</strong>
+<ul>
+<li>Classify the problem, according to its category.</li>
+<li>Like cancer, benign or malignant using tumor size.</li>
+<li>Discrete valued output.</li>
+<li>Give the probability of what the subject is (either benign or malignant)</li>
+<li>Number of features (variables or attributes) can increase (tumor size + age)</li>
+</ul>
+</li>
+<li><strong>Tagging</strong></li>
+</ul>
+<p>The problem of learning to predict classes that are not mutually exclusive is called <strong>multi-label classification.</strong> Auto-tagging problems are typically best described as multi-label classification problems. Think of the tags people might apply to posts on a technical blog, e.g., &quot;machine learning&quot;, &quot;technology&quot;, &quot;gadgets&quot;, &quot;programming languages&quot;, &quot;Linux&quot;, &quot;cloud computing&quot;, &quot;AWS&quot;. A typical article might have 5--10 tags applied because these concepts are correlated. Posts about &quot;cloud computing&quot; are likely to mention &quot;AWS&quot; and posts about &quot;machine learning&quot; could also deal with &quot;programming languages&quot;.</p>
+<ul>
+<li><strong>Search</strong></li>
+<li><strong>Recommender Systems</strong></li>
+<li><strong>Sequence Learning</strong></li>
+</ul>
+<p><strong>sequence learning</strong> require a model to either ingest sequences of inputs or to emit sequences of outputs (or both). Specifically, **sequence to sequence learning considers problems where input and output are both variable-length sequences, such as machine translation and transcribing text from the spoken speech</p>
+<ul>
+<li>Tagging and Parsing</li>
+<li>Automatic Speech Recognition</li>
+<li>Text to Speech</li>
+<li>Machine Translation</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="unsupervised-learning">Unsupervised Learning<a href="#unsupervised-learning" class="hash-link" aria-label="Direct link to Unsupervised Learning" title="Direct link to Unsupervised Learning">​</a></h2>
+<p>No labels are given to the learning algorithm, leaving it on its own to find structure in its input. Unsupervised learning can be a goal in itself (discovering hidden patterns in data) or a means towards an end (<a href="https://en.wikipedia.org/wiki/Feature_learning" target="_blank" rel="noopener noreferrer">feature learning</a>).</p>
+<ul>
+<li>
+<p>Given the data set find some structure in the data.</p>
+</li>
+<li>
+<p><strong>Clustering algorithm</strong></p>
+<ul>
+<li>Google news uses clustering algorithm to group in cohesive stories. Different news source with same news are group into one story.</li>
+<li>DNA are clustered according to genes (one type of gene are grouped together) (or group people according to the gene present)</li>
+<li>We are not giving answer to the algorithm so it&#x27;s unsupervised learning.<!-- -->
+<ul>
+<li>Organize computing clusters in data centers to group together servers together to increase performance.</li>
+<li>Social network analysis</li>
+<li>Market segmentation</li>
+<li>Astronomical data analysis</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Cocktail Party Problem</strong></p>
+<ul>
+<li>2 speakers, 2 microphones different distance from each user, unsupervised learning algorithm will separate the two overlapping voices and remove the background voice.</li>
+<li>Use OCTAVE</li>
+</ul>
+</li>
+<li>
+<p><a href="https://en.wikipedia.org/wiki/Semi-supervised_learning" target="_blank" rel="noopener noreferrer">Semi-supervised learning</a>: the computer is given only an incomplete training signal: a training set with some (often many) of the target outputs missing.</p>
+<ul>
+<li><a href="https://www.geeksforgeeks.org/machine-learning/ml-semi-supervised-learning/" target="_blank" rel="noopener noreferrer">Semi-Supervised Learning in ML - GeeksforGeeks</a></li>
+</ul>
+</li>
+<li>
+<p><a href="https://en.wikipedia.org/wiki/Active_learning_(machine_learning)" target="_blank" rel="noopener noreferrer">Active learning</a>: the computer can only obtain training labels for a limited set of instances (based on a budget), and also has to optimize its choice of objects to acquire labels for. When used interactively, these can be presented to the user for labeling.</p>
+</li>
+<li>
+<p><a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_blank" rel="noopener noreferrer">Reinforcement learning</a>: training data (in form of rewards and punishments) is given only as feedback to the program&#x27;s actions in a dynamic environment, such as <a href="https://en.wikipedia.org/wiki/Autonomous_car" target="_blank" rel="noopener noreferrer">driving a vehicle</a> or playing a game against an opponent.</p>
+</li>
+<li>
+<p>Predictive Modelling or predictive analytics: learn the mapping Y = f(X) to make predictions of Y for new X.</p>
+</li>
+</ul>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/ML-Classification-image1-1d33c61b3599962b4afbfc182c46761e.jpg" width="1000" height="567" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/ML-Classification-image2-57344d0a153ed47ca7426be5be656756.jpg" width="898" height="498" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="categories-of-ml-techniques">Categories of ML Techniques<a href="#categories-of-ml-techniques" class="hash-link" aria-label="Direct link to Categories of ML Techniques" title="Direct link to Categories of ML Techniques">​</a></h2>
+<ul>
+<li>Classification</li>
+<li>Regression</li>
+<li>Cluster Analysis</li>
+<li>Association Analysis</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="classification">Classification<a href="#classification" class="hash-link" aria-label="Direct link to Classification" title="Direct link to Classification">​</a></h2>
+<p>Goal: predict category</p>
+<ul>
+<li>In classification, the goal is to predict the category of the input data. An example of this is predicting the weather as being sunny, rainy, windy, or cloudy</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="regression">Regression<a href="#regression" class="hash-link" aria-label="Direct link to Regression" title="Direct link to Regression">​</a></h2>
+<ul>
+<li>When your model has to predict a numeric value instead of a category, then the task becomes a regression problem</li>
+<li>Ex: predict the price of a stock</li>
+<li>The main diff between classification and regression is in classification you&#x27;re predicting a category and in regression, you&#x27;re predicting a numeric value</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="regression-examples">Regression Examples<a href="#regression-examples" class="hash-link" aria-label="Direct link to Regression Examples" title="Direct link to Regression Examples">​</a></h2>
+<ul>
+<li>Estimating the demand of a product based on time or season of the year</li>
+<li>Predicting a score on a test</li>
+<li>Determining the likelihood of how effective a drug will be for a particular patient</li>
+<li>Predicting the amount of rain for a region</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cluster-analysis">Cluster Analysis<a href="#cluster-analysis" class="hash-link" aria-label="Direct link to Cluster Analysis" title="Direct link to Cluster Analysis">​</a></h2>
+<ul>
+<li>In cluster analysis, the goal is to organize similar items in your data set into groups. A very. common application of cluster analysis is referred to as customer segmentation. This means that you&#x27;re separating your customer base into different groups or segments based on customer types</li>
+<li>For example it would be very beneficial to segment your customers into seniors, adults and teenagers. These groups have different likes and dislikes and have different purchasing behaviors. By segmenting your customers to different groups you can more effectively provide marketing adds targeted for each groups particular interests. Note that cluster analysis is also referred to as clustering</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="cluster-analysis-examples">Cluster Analysis Examples<a href="#cluster-analysis-examples" class="hash-link" aria-label="Direct link to Cluster Analysis Examples" title="Direct link to Cluster Analysis Examples">​</a></h2>
+<ul>
+<li>Identifying areas of similar topography, such as desert region, grassy areas, mountains</li>
+<li>Categorizing different types of tissues from medical images. Determining different groups of weather patterns, such as snowy, dry, monsoon</li>
+<li>Discovering hot spots for different types of crime from police reports</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="association-analysis">Association Analysis<a href="#association-analysis" class="hash-link" aria-label="Direct link to Association Analysis" title="Direct link to Association Analysis">​</a></h2>
+<ul>
+<li>The goal in association analysis is to come up with a set of rules to capture associations between items or events. The rules are used to determine when items or events occur together</li>
+<li>A common application of association analysis is known as market basket analysis. Which is used to understand customer purchasing behavior</li>
+<li>For example, association analysis can reveal that banking customers who have CDs, or Cetificates of Deposits, also tend to be interested in other investment vehicles such as money market accounts</li>
+<li>This information can be used for cross selling. If you advertise money market accounts to your customers with CDs they are likely to open such an account</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="association-analysis-examples">Association Analysis Examples<a href="#association-analysis-examples" class="hash-link" aria-label="Direct link to Association Analysis Examples" title="Direct link to Association Analysis Examples">​</a></h2>
+<ul>
+<li>Some other applications of association analysis are recommending similar items based on the purchasing behavior or browsing histories of customers</li>
+<li>Finding items that are often purchased together, such as garden hose and potting soil, and offer sales on these related items at the same time to drive sales of both items</li>
+<li>Identifying web pages that are often accessed together so that you can more efficiently offer up these related web pages at the same time</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="supervised-vs-unsupervised">Supervised vs Unsupervised<a href="#supervised-vs-unsupervised" class="hash-link" aria-label="Direct link to Supervised vs Unsupervised" title="Direct link to Supervised vs Unsupervised">​</a></h2>
+<ul>
+<li><strong>In supervised approaches</strong> the target, which is what the model is predicting, is provided. This is referred to as having labeled data because the target is labeled for every sample that you have in your data set.</li>
+<li>Referring back to our example of predicting a weather category of sunny, windy, rainy or cloudy, every sample in the data set is labeled as being one of these four categories. So the data is labeled and predicting the weather categories is a supervised task. In general, classification and regression are supervised approaches.</li>
+<li><strong>In unsupervised approaches</strong> on the other hand, the target that the model is predicting is unknown or unavailable. This means that you have unlabeled data</li>
+<li>Remember the cluster analysis example of segmenting customers into idfferent groups. The samples in your data are not labeled with the correct group. Instead, the segmentation is performed using a clustering technique to group items based on characteristics that they have in common</li>
+<li>Thus, the data is unlabeled and the task of grouping customers into different segments is an unsupervised one. In general, cluster analysis and association analysis are unsupervised approaches</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="applications">Applications<a href="#applications" class="hash-link" aria-label="Direct link to Applications" title="Direct link to Applications">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="classification-supervised">Classification (Supervised)<a href="#classification-supervised" class="hash-link" aria-label="Direct link to Classification (Supervised)" title="Direct link to Classification (Supervised)">​</a></h2>
+<p>Indentifying to which category an object belongs to</p>
+<p>Applications</p>
+<ul>
+<li>Spam detection</li>
+<li>Computer Vision<!-- -->
+<ul>
+<li>Image recognition</li>
+<li>Optical Character Recognition (OCR)<!-- -->
+<ul>
+<li><a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank" rel="noopener noreferrer">GitHub - PaddlePaddle/PaddleOCR: Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)</a></li>
+<li><a href="https://medium.com/cars24-data-science-blog/cracking-ocr-at-scale-lessons-from-real-world-document-processing-dbaf38485a39" target="_blank" rel="noopener noreferrer">Cracking OCR at Scale: Lessons from Real-World Document Processing | by Pritishrv | CARS24 Data Science Blog | Jul, 2025 | Medium</a></li>
+<li>IDP - Intelligent Document Processing</li>
+<li>Intelligent Document Processing (IDP) is a workflow automation technology that uses AI and other technologies to extract, categorize, and organize information from various document types, including structured, unstructured, and semi-structured data. It automates the process of scanning, extracting, and processing data from documents, reducing manual effort and improving efficiency.</li>
+<li><a href="https://www.linkedin.com/posts/akshay-pachaar_everyone-is-sleeping-on-this-new-ocr-model-ugcPost-7362462915485995009-rUMB/" target="_blank" rel="noopener noreferrer">Introducing dots-ocr: A New Multilingual OCR Model | Akshay Pachaar posted on the topic | LinkedIn</a>
+<ul>
+<li>dots-ocr is a new 1.7B vision-language model that achieves SOTA performance on multilingual document parsing.</li>
+<li><a href="https://github.com/rednote-hilab/dots.ocr" target="_blank" rel="noopener noreferrer">GitHub - rednote-hilab/dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/landing-ai/agentic-doc" target="_blank" rel="noopener noreferrer">GitHub - landing-ai/agentic-doc: Python library for Agentic Document Extraction from LandingAI</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><a href="https://opensource.google/projects/tesseract" target="_blank" rel="noopener noreferrer">https://opensource.google/projects/tesseract</a></p>
+<p><a href="https://github.com/tesseract-ocr/tesseract" target="_blank" rel="noopener noreferrer">https://github.com/tesseract-ocr/tesseract</a></p>
+<p>Algorithms</p>
+<ul>
+<li>SVM (Support Vector Machine)</li>
+</ul>
+<p>Divides its input space into two regions, separated by a <a href="https://en.wikipedia.org/wiki/Linear_classifier" target="_blank" rel="noopener noreferrer">linear boundary</a></p>
+<ul>
+<li>Nearest neighbors</li>
+<li>Random forest</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="regression-supervised">Regression (Supervised)<a href="#regression-supervised" class="hash-link" aria-label="Direct link to Regression (Supervised)" title="Direct link to Regression (Supervised)">​</a></h2>
+<p>Predicting a continuous-valued attribute associated with an object</p>
+<p>Applications</p>
+<ul>
+<li>Drug response</li>
+<li>Stock prices</li>
+</ul>
+<p>Algorithms</p>
+<ul>
+<li>Support Vector Regression (SVR)</li>
+<li>Ridge regression</li>
+<li>Lasso</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="clustering-unsupervised">Clustering (Unsupervised)<a href="#clustering-unsupervised" class="hash-link" aria-label="Direct link to Clustering (Unsupervised)" title="Direct link to Clustering (Unsupervised)">​</a></h2>
+<p>Automatic grouping of similar objects into sets</p>
+<p>Applications</p>
+<ul>
+<li>Customer segmentation</li>
+<li>Grouping experiment outcomes</li>
+</ul>
+<p>Algorithms</p>
+<ul>
+<li>k-Means</li>
+<li>Spectral clustering</li>
+<li>Mean-shift</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dimensionality-reduction">Dimensionality reduction<a href="#dimensionality-reduction" class="hash-link" aria-label="Direct link to Dimensionality reduction" title="Direct link to Dimensionality reduction">​</a></h2>
+<p>Reducing the number of random variables to consider</p>
+<p>Applications</p>
+<ul>
+<li>Visualization</li>
+<li>Increased efficiency</li>
+<li>Topic Modeling</li>
+</ul>
+<p>Algorithms</p>
+<ul>
+<li>Principal Component Analysis (PCA)</li>
+</ul>
+<p><a href="http://www.oranlooney.com/post/ml-from-scratch-part-6-pca" target="_blank" rel="noopener noreferrer">http://www.oranlooney.com/post/ml-from-scratch-part-6-pca</a></p>
+<ul>
+<li>Feature selection</li>
+<li>Non-negative matrix factorization</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="model-selection">Model selection<a href="#model-selection" class="hash-link" aria-label="Direct link to Model selection" title="Direct link to Model selection">​</a></h2>
+<p>Comparing, validating and choosing parameters and models</p>
+<p>Goal - Improved accuracy via parameter tuning</p>
+<p>Modules</p>
+<ul>
+<li>Grid search</li>
+<li>Cross validation</li>
+<li>Metrics</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="preprocessing">Preprocessing<a href="#preprocessing" class="hash-link" aria-label="Direct link to Preprocessing" title="Direct link to Preprocessing">​</a></h2>
+<p>Feature extraction and normalization</p>
+<p>Applications - Transforming input data such as text for use with machine learning algorithms</p>
+<p>Modules</p>
+<ul>
+<li>Preprocessing</li>
+<li>Feature extraction</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="density-estimation">Density Estimation<a href="#density-estimation" class="hash-link" aria-label="Direct link to Density Estimation" title="Direct link to Density Estimation">​</a></h2>
+<p><a href="https://en.wikipedia.org/wiki/Density_estimation" target="_blank" rel="noopener noreferrer">Density estimation</a> finds the <a href="https://en.wikipedia.org/wiki/Probability_distribution" target="_blank" rel="noopener noreferrer">distribution</a> of inputs in some space</p>
+<p>Among other categories of machine learning problems, <a href="https://en.wikipedia.org/wiki/Meta_learning_(computer_science)" target="_blank" rel="noopener noreferrer">learning to learn</a> learns its own <a href="https://en.wikipedia.org/wiki/Inductive_bias" target="_blank" rel="noopener noreferrer">inductive bias</a> based on previous experience.<a href="https://en.wikipedia.org/wiki/Developmental_robotics" target="_blank" rel="noopener noreferrer">Developmental learning</a>, elaborated for <a href="https://en.wikipedia.org/wiki/Robot_learning" target="_blank" rel="noopener noreferrer">robot learning</a>, generates its own sequences (also called curriculum) of learning situations to cumulatively acquire repertoires of novel skills through autonomous self-exploration and social interaction with human teachers and using guidance mechanisms such as active learning, maturation, motor synergies, and imitation.</p>
+<ul>
+<li>Targeted ads on mobile apps</li>
+<li>Sentiment analysis</li>
+<li>Climate monitoring</li>
+<li>Crime pattern detection</li>
+<li>Drug effectiveness analysis</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="approaches">Approaches<a href="#approaches" class="hash-link" aria-label="Direct link to Approaches" title="Direct link to Approaches">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="decision-tree-learning">Decision tree learning<a href="#decision-tree-learning" class="hash-link" aria-label="Direct link to Decision tree learning" title="Direct link to Decision tree learning">​</a></h3>
+<p>Decision tree learning uses a <a href="https://en.wikipedia.org/wiki/Decision_tree" target="_blank" rel="noopener noreferrer">decision tree</a> as a <a href="https://en.wikipedia.org/wiki/Predictive_modelling" target="_blank" rel="noopener noreferrer">predictive model</a>, which maps observations about an item to conclusions about the item&#x27;s target value.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="association-rule-learning">Association rule learning<a href="#association-rule-learning" class="hash-link" aria-label="Direct link to Association rule learning" title="Direct link to Association rule learning">​</a></h3>
+<p>Association rule learning is a method for discovering interesting relations between variables in large databases.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="artificial-neural-networks">Artificial neural networks<a href="#artificial-neural-networks" class="hash-link" aria-label="Direct link to Artificial neural networks" title="Direct link to Artificial neural networks">​</a></h3>
+<p>An <a href="https://en.wikipedia.org/wiki/Artificial_neural_network" target="_blank" rel="noopener noreferrer">artificial neural network</a>(ANN) learning algorithm, usually called &quot;neural network&quot; (NN), is a learning algorithm that is vaguely inspired by <a href="https://en.wikipedia.org/wiki/Biological_neural_networks" target="_blank" rel="noopener noreferrer">biological neural networks</a>. Computations are structured in terms of an interconnected group of <a href="https://en.wikipedia.org/wiki/Artificial_neuron" target="_blank" rel="noopener noreferrer">artificial neurons</a>, processing information using a <a href="https://en.wikipedia.org/wiki/Connectionism" target="_blank" rel="noopener noreferrer">connectionist</a> approach to <a href="https://en.wikipedia.org/wiki/Computation" target="_blank" rel="noopener noreferrer">computation</a>. Modern neural networks are <a href="https://en.wikipedia.org/wiki/Non-linear" target="_blank" rel="noopener noreferrer">non-linear</a><a href="https://en.wikipedia.org/wiki/Statistical" target="_blank" rel="noopener noreferrer">statistical</a><a href="https://en.wikipedia.org/wiki/Data_modeling" target="_blank" rel="noopener noreferrer">data modeling</a> tools. They are usually used to model complex relationships between inputs and outputs, to <a href="https://en.wikipedia.org/wiki/Pattern_recognition" target="_blank" rel="noopener noreferrer">find patterns</a> in data, or to capture the statistical structure in an unknown <a href="https://en.wikipedia.org/wiki/Joint_probability_distribution" target="_blank" rel="noopener noreferrer">joint probability distribution</a> between observed variables.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="deep-learning">Deep learning<a href="#deep-learning" class="hash-link" aria-label="Direct link to Deep learning" title="Direct link to Deep learning">​</a></h3>
+<p>Falling hardware prices and the development of <a href="https://en.wikipedia.org/wiki/GPU" target="_blank" rel="noopener noreferrer">GPUs</a> for personal use in the last few years have contributed to the development of the concept of <a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank" rel="noopener noreferrer">deep learning</a> which consists of multiple hidden layers in an artificial neural network. This approach tries to model the way the human brain processes light and sound into vision and hearing. Some successful applications of deep learning are <a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank" rel="noopener noreferrer">computer vision</a> and <a href="https://en.wikipedia.org/wiki/Speech_recognition" target="_blank" rel="noopener noreferrer">speech recognition</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="inductive-logic-programming">Inductive logic programming<a href="#inductive-logic-programming" class="hash-link" aria-label="Direct link to Inductive logic programming" title="Direct link to Inductive logic programming">​</a></h3>
+<p>Inductive logic programming (ILP) is an approach to rule learning using <a href="https://en.wikipedia.org/wiki/Logic_programming" target="_blank" rel="noopener noreferrer">logic programming</a> as a uniform representation for input examples, background knowledge, and hypotheses. Given an encoding of the known background knowledge and a set of examples represented as a logical database of facts, an ILP system will derive a hypothesized logic program that <a href="https://en.wikipedia.org/wiki/Entailment" target="_blank" rel="noopener noreferrer">entails</a> all positive and no negative examples.<a href="https://en.wikipedia.org/wiki/Inductive_programming" target="_blank" rel="noopener noreferrer">Inductive programming</a> is a related field that considers any kind of programming languages for representing hypotheses (and not only logic programming), such as <a href="https://en.wikipedia.org/wiki/Functional_programming" target="_blank" rel="noopener noreferrer">functional programs</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="support-vector-machines">Support vector machines<a href="#support-vector-machines" class="hash-link" aria-label="Direct link to Support vector machines" title="Direct link to Support vector machines">​</a></h3>
+<p>Support vector machines (SVMs) are a set of related <a href="https://en.wikipedia.org/wiki/Supervised_learning" target="_blank" rel="noopener noreferrer">supervised learning</a> methods used for <a href="https://en.wikipedia.org/wiki/Statistical_classification" target="_blank" rel="noopener noreferrer">classification</a> and <a href="https://en.wikipedia.org/wiki/Regression_analysis" target="_blank" rel="noopener noreferrer">regression</a>. Given a set of training examples, each marked as belonging to one of two categories, a SVM training algorithm builds a model that predicts whether a new example falls into one category or the other.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="clustering">Clustering<a href="#clustering" class="hash-link" aria-label="Direct link to Clustering" title="Direct link to Clustering">​</a></h3>
+<p>Cluster analysis is the assignment of a set of observations into subsets (called <em>clusters</em>) so that observations within the same cluster are similar according to some predesignated criteria, while observations drawn from different clusters are dissimilar. Different clustering techniques make different assumptions on the structure of the data, often defined by some <em>similarity metric</em> and evaluated for example by <em>internal compactness</em> (similarity between members of the same cluster) and <em>separation</em> between different clusters. Other methods are based on <em>estimated density</em> and <em>graph connectivity</em>. Clustering is a method of <a href="https://en.wikipedia.org/wiki/Unsupervised_learning" target="_blank" rel="noopener noreferrer">unsupervised learning</a>, and a common technique for <a href="https://en.wikipedia.org/wiki/Statistics" target="_blank" rel="noopener noreferrer">statistical</a><a href="https://en.wikipedia.org/wiki/Data_analysis" target="_blank" rel="noopener noreferrer">data analysis</a>.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="bayesian-networks">Bayesian networks<a href="#bayesian-networks" class="hash-link" aria-label="Direct link to Bayesian networks" title="Direct link to Bayesian networks">​</a></h3>
+<p>A Bayesian network, belief network or directed acyclic graphical model is a <a href="https://en.wikipedia.org/wiki/Graphical_model" target="_blank" rel="noopener noreferrer">probabilistic graphical model</a> that represents a set of <a href="https://en.wikipedia.org/wiki/Random_variables" target="_blank" rel="noopener noreferrer">random variables</a> and their <a href="https://en.wikipedia.org/wiki/Conditional_independence" target="_blank" rel="noopener noreferrer">conditional independencies</a> via a <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank" rel="noopener noreferrer">directed acyclic graph</a>(DAG). For example, a Bayesian network could represent the probabilistic relationships between diseases and symptoms. Given symptoms, the network can be used to compute the probabilities of the presence of various diseases. Efficient algorithms exist that perform <a href="https://en.wikipedia.org/wiki/Inference" target="_blank" rel="noopener noreferrer">inference</a> and learning.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="reinforcement-learning">Reinforcement learning<a href="#reinforcement-learning" class="hash-link" aria-label="Direct link to Reinforcement learning" title="Direct link to Reinforcement learning">​</a></h3>
+<p>Reinforcement learning is concerned with how an <em>agent</em>ought to take <em>actions</em>in an <em>environment</em>so as to maximize some notion of long-term <em>reward</em>. Reinforcement learning algorithms attempt to find a <em>policy</em> that maps <em>states</em>of the world to the actions the agent ought to take in those states. Reinforcement learning differs from the <a href="https://en.wikipedia.org/wiki/Supervised_learning" target="_blank" rel="noopener noreferrer">supervised learning</a> problem in that correct input/output pairs are never presented, nor sub-optimal actions explicitly corrected.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="others">Others<a href="#others" class="hash-link" aria-label="Direct link to Others" title="Direct link to Others">​</a></h3>
+<ul>
+<li>Representation learning</li>
+<li>Similarity and metric learning</li>
+<li>Sparse dictionary learning</li>
+<li>Genetic algorithms</li>
+<li>Rule-based machine learning</li>
+<li>Learning classifier systems</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="techniques">Techniques<a href="#techniques" class="hash-link" aria-label="Direct link to Techniques" title="Direct link to Techniques">​</a></h2>
+<ol>
+<li>
+<p><strong>Statistics and Data Analysis</strong></p>
+<ul>
+<li>Hypothesis testing</li>
+<li>Exploratory Data Analysis</li>
+<li>Data Manipulation</li>
+</ul>
+</li>
+<li>
+<p><strong>Machine Learning</strong></p>
+<ul>
+<li>Decision Tree</li>
+<li>Clustering</li>
+<li>Naive Baiyes</li>
+<li>Principle Component Analysis</li>
+<li>Linear Regression (Statistical Inference Technique)</li>
+<li>Logistic Regression (Probability - Catagorical)</li>
+<li>Telecom Churn Perdition Project</li>
+</ul>
+</li>
+<li>
+<p><strong>Others</strong></p>
+<ul>
+<li>Least squares Error Function</li>
+<li>Gradient Descent</li>
+<li>Multivariate Regression</li>
+<li>Sigmoid Function</li>
+</ul>
+</li>
+</ol>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/ML-Classification-image3-87b2ea5c652e7ba01403c26bc0991eb1.jpg" width="999" height="638" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-supervised-machine-learning">1. Supervised Machine Learning<a href="#1-supervised-machine-learning" class="hash-link" aria-label="Direct link to 1. Supervised Machine Learning" title="Direct link to 1. Supervised Machine Learning">​</a></h3>
+<ul>
+<li>Logistic Regression<!-- -->
+<ul>
+<li>Logistic Regression is a simple twist on Linear Regression. It gets its name from the fact that it is a regression that predicts what&#x27;s called the Log Odds of an event occuring.</li>
+<li>Divide data in Training data and Test data</li>
+<li>Calculate the accuracy for every iteration</li>
+</ul>
+</li>
+</ul>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/ML-Classification-image4-aef3201e46318094111427a9082d55cd.jpg" width="998" height="318" class="img_ev3q"></p>
+<ul>
+<li><strong>Linear Discrimant Analysis (LDA)</strong>
+<ul>
+<li>Uses Bayes&#x27; theorem to predict the results</li>
+<li>Bayes&#x27; rule</li>
+</ul>
+</li>
+</ul>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/ML-Classification-image5-be8ae942c84172ac4375d442477117f8.jpg" width="1000" height="494" class="img_ev3q"></p>
+<ul>
+<li>If there are two variables (like GPA and SAT and we have to predict whether a student got admission or not) then LDA is very helpful. It creates a unified value (only one variable) which maximizes the difference between the two groups (got admission or not)</li>
+</ul>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/ML-Classification-image6-ba00d0b39e3f6e63bad663e3d24028e1.jpg" width="999" height="499" class="img_ev3q"></p>
+<ul>
+<li>
+<p>Reducing the number of variables we have to deal with is called <strong>Dimensionality Reduction</strong>, and it&#x27;s really important in the world of <strong>Big Data</strong>.</p>
+</li>
+<li>
+<p><strong>K Nearest Neighbors (KNN)</strong></p>
+<ul>
+<li>Relies on the idea that <strong>data points will be similar to other data points</strong> that are near it.</li>
+</ul>
+</li>
+</ul>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/ML-Classification-image7-9ccb2decb20137cd8b73860e0c4a48c3.jpg" width="998" height="566" class="img_ev3q"></p>
+<ul>
+<li>KNN Classifier - Predicts which group something will be in; It classifies it</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-unsupervised-machine-learning">2. Unsupervised Machine Learning<a href="#2-unsupervised-machine-learning" class="hash-link" aria-label="Direct link to 2. Unsupervised Machine Learning" title="Direct link to 2. Unsupervised Machine Learning">​</a></h3>
+<ul>
+<li>
+<p><strong>Clustering</strong></p>
+<ul>
+<li>K-means<!-- -->
+<ul>
+<li>Choose k random points called Centroid</li>
+<li>Assign other points closest to centroid to their groups</li>
+<li>Calculate the new centroid for the set of points of each group</li>
+<li>Repeat the process of assigning points to group and choosing new centroid</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="silhouette-score">Silhouette score<a href="#silhouette-score" class="hash-link" aria-label="Direct link to Silhouette score" title="Direct link to Silhouette score">​</a></h2>
+<p>Helps determine how well fit our clusters are, even without existing labels.</p>
+<ul>
+<li>Hierarchical clustering</li>
+</ul>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/ML-Classification-image8-e9e80a8767782f83c7a2aacaba28c0e4.jpg" width="516" height="521" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="image" src="/assets/images/ML-Classification-image9-eebfc5fff5db5207dce7f751639bcd5c.jpg" width="857" height="484" class="img_ev3q"></p>
+<p>Example of hierarchical clustering -</p>
+<p>In the latest version of the diagnostic and statistical manual of mental disorders (DSM), autism, aspergers and childhood disintegrative disorder are now classified as a single disorder that has various levels of severity, hence the spectrum part of Autism Spectrum Disorder (ASD). ASD now applies to a large range of traits.</p>
+<ul>
+<li>Agglomerative Clustering</li>
+</ul>
+<ol start="3">
+<li><strong>Statistics in the Courts</strong></li>
+</ol>
+<p>Prosecutor&#x27;s Fallacy</p>
+<ul>
+<li>Incorrectly claims that since the evidence found is so unusual or unlikely, that the jury could assume that the accused defendent isn&#x27;t innocent</li>
+<li>Secondly, the fact that one hypothesis is unlikely does not mean that another must be more likely</li>
+</ul>
+<ol start="4">
+<li><strong>Neural Networks</strong>
+<ul>
+<li>Looks at data and tries to figure out the function - or set of calculations - that turns the input (variables) into the output</li>
+<li><strong>Activation function -</strong> Takes the value and transforms it before returning an output</li>
+<li><strong>ReLU (Rectified Linear Unit) -</strong> Output 1 if input is positive and doesn&#x27;t output anything if input is zero or negative</li>
+<li><strong>Feature generation -</strong> combining multiple variables to create new values</li>
+<li><strong>Deep learning -</strong> if there are more than 1 layer in a neural network</li>
+<li><strong>Feed forward neural network -</strong> feed all the data to next neuron</li>
+<li><strong>Recurrent neural network -</strong> feed data back into the model as input</li>
+<li><strong>Long short term memory network -</strong> to remember the last data it has seen</li>
+<li><strong>Convolutional neural network -</strong> Used for images, A pixel is affected by all pixels surrounding it. It&#x27;s not simple sequential data. So, convolutional neural networks look at windows of pixels instead of one pixel at a time. Create features (called convolutions). ex- detect edges, detect eyes, faces, etc.</li>
+<li><strong>Pooling -</strong> take a large number of pixels and create a small number of features</li>
+<li><strong>Generative adversarial networks -</strong> Use sets of existing data to try to learn how to create new data. Like two neural network. First is generator, it will generate new data, and other is discriminator, it will check if the new data is valid. These two battle with each other and get good at both sides. Generator will become better in create fake inputs, and disciminator will become good in recognizing fake inputs.</li>
+</ul>
+</li>
+</ol></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="row margin-top--sm theme-doc-footer-edit-meta-row"><div class="col"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/ai/ml-fundamentals/ml-classification.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_JAkA"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2025-09-27T19:55:07.000Z" itemprop="dateModified">Sep 27, 2025</time></b> by <b>Deepak</b></span></div></div></footer></article><nav class="docusaurus-mt-lg pagination-nav" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/ai/ml-fundamentals/loss-function"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Loss Function</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/ai/ml-fundamentals/ml-process"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">ML Process</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#types-of-ml-algorithms" class="table-of-contents__link toc-highlight">Types of ML Algorithms</a></li><li><a href="#kinds-of-ml-problems" class="table-of-contents__link toc-highlight">Kinds of ML problems</a></li><li><a href="#supervised-learning" class="table-of-contents__link toc-highlight">Supervised Learning</a></li><li><a href="#unsupervised-learning" class="table-of-contents__link toc-highlight">Unsupervised Learning</a></li><li><a href="#categories-of-ml-techniques" class="table-of-contents__link toc-highlight">Categories of ML Techniques</a></li><li><a href="#classification" class="table-of-contents__link toc-highlight">Classification</a></li><li><a href="#regression" class="table-of-contents__link toc-highlight">Regression</a></li><li><a href="#regression-examples" class="table-of-contents__link toc-highlight">Regression Examples</a></li><li><a href="#cluster-analysis" class="table-of-contents__link toc-highlight">Cluster Analysis</a></li><li><a href="#cluster-analysis-examples" class="table-of-contents__link toc-highlight">Cluster Analysis Examples</a></li><li><a href="#association-analysis" class="table-of-contents__link toc-highlight">Association Analysis</a></li><li><a href="#association-analysis-examples" class="table-of-contents__link toc-highlight">Association Analysis Examples</a></li><li><a href="#supervised-vs-unsupervised" class="table-of-contents__link toc-highlight">Supervised vs Unsupervised</a></li><li><a href="#applications" class="table-of-contents__link toc-highlight">Applications</a></li><li><a href="#classification-supervised" class="table-of-contents__link toc-highlight">Classification (Supervised)</a></li><li><a href="#regression-supervised" class="table-of-contents__link toc-highlight">Regression (Supervised)</a></li><li><a href="#clustering-unsupervised" class="table-of-contents__link toc-highlight">Clustering (Unsupervised)</a></li><li><a href="#dimensionality-reduction" class="table-of-contents__link toc-highlight">Dimensionality reduction</a></li><li><a href="#model-selection" class="table-of-contents__link toc-highlight">Model selection</a></li><li><a href="#preprocessing" class="table-of-contents__link toc-highlight">Preprocessing</a></li><li><a href="#density-estimation" class="table-of-contents__link toc-highlight">Density Estimation</a></li><li><a href="#approaches" class="table-of-contents__link toc-highlight">Approaches</a><ul><li><a href="#decision-tree-learning" class="table-of-contents__link toc-highlight">Decision tree learning</a></li><li><a href="#association-rule-learning" class="table-of-contents__link toc-highlight">Association rule learning</a></li><li><a href="#artificial-neural-networks" class="table-of-contents__link toc-highlight">Artificial neural networks</a></li><li><a href="#deep-learning" class="table-of-contents__link toc-highlight">Deep learning</a></li><li><a href="#inductive-logic-programming" class="table-of-contents__link toc-highlight">Inductive logic programming</a></li><li><a href="#support-vector-machines" class="table-of-contents__link toc-highlight">Support vector machines</a></li><li><a href="#clustering" class="table-of-contents__link toc-highlight">Clustering</a></li><li><a href="#bayesian-networks" class="table-of-contents__link toc-highlight">Bayesian networks</a></li><li><a href="#reinforcement-learning" class="table-of-contents__link toc-highlight">Reinforcement learning</a></li><li><a href="#others" class="table-of-contents__link toc-highlight">Others</a></li></ul></li><li><a href="#techniques" class="table-of-contents__link toc-highlight">Techniques</a><ul><li><a href="#1-supervised-machine-learning" class="table-of-contents__link toc-highlight">1. Supervised Machine Learning</a></li><li><a href="#2-unsupervised-machine-learning" class="table-of-contents__link toc-highlight">2. Unsupervised Machine Learning</a></li></ul></li><li><a href="#silhouette-score" class="table-of-contents__link toc-highlight">Silhouette score</a></li></ul></div></div></div></div></main></div></div></div><footer class="theme-layout-footer footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2026 Deep Notes, Built with ❤️</div></div></div></footer></div>
+</body>
+</html>
