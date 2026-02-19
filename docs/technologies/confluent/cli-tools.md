@@ -129,6 +129,17 @@ Actions:
 
 Alternative - [The OpenMessaging Benchmark Framework](https://openmessaging.cloud/docs/benchmarks/)
 
+## Demos / Hands-on / Learning
+
+- [GitHub - confluentinc/demo-scene: Scripts and samples to support Confluent Demos, Talks, and Blogs. Not all of the examples in this repository are kept up to date. For automated tutorials and QA'd code, see https://github.com/confluentinc/tutorials/](https://github.com/confluentinc/demo-scene)
+- [GitHub - confluentinc/cp-demo: Confluent Platform Demo including Apache Kafka, ksqlDB, Control Center, Schema Registry, Security, Schema Linking, and Cluster Linking](https://github.com/confluentinc/cp-demo)
+- [GitHub - conflkrupa/F1-Racing-Leaderboard-POC: This is an application demonstrating how a real-time gaming leaderboard application can be built by leveraging Confluent cloud.](https://github.com/conflkrupa/F1-Racing-Leaderboard-POC/)
+- [GitHub - confluentinc/online-retailer-flink-demo at gko-2026](https://github.com/confluentinc/online-retailer-flink-demo/tree/gko-2026)
+- [GitHub - confluentinc/quickstart-streaming-agents at gko](https://github.com/confluentinc/quickstart-streaming-agents/tree/gko)
+	- Lab1 - Price Matching Orders With MCP Tool Calling
+	- Lab2 - Vector Search & RAG
+	- Lab3 - Agentic Fleet Management Using Confluent Intelligence
+
 ## Others
 
 - **security-plugins-run-class** - This tool is a thin wrapper around the Confluent Security Plugins Java class. It is mainly used by the start and stop scripts and should not be run by itself.

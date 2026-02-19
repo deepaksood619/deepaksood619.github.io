@@ -26,4 +26,24 @@ Warren Buffett’s daughter wanted to redo her kitchen and asked for a loan from
 
 - [10 Fun, Free Baby Games For Your 6-9 Month Old - YouTube](https://www.youtube.com/watch?v=kkxrpjWmeCU&ab_channel=EmmaHubbard)
 - [Top 10 घर में खेलने के Ideas \| Indoor Engagement Activities For A 2 Year Old (Part1) - YouTube](https://www.youtube.com/watch?v=AS5_IPabf7E&ab_channel=MomComIndia)
+	- Puzzle Games
+	- Indoor Cricket
+	- Basketball / Catch catch
+	- Velcro Vegetables
+	- Shopping Cart
+	- Painting
+	- Toy Cars
+	- Superhero pretend play
+	- Pretend play farm
+	- Reading books
 - [Top 10 घर में खेलने के Ideas \| Indoor Engagement Activities For A 2 Year Old (Part2) - YouTube](https://www.youtube.com/watch?v=_lsMGEUcCSA&ab_channel=MomComIndia)
+	- Balloons
+	- Cleaning
+	- Sand Play
+	- Carrorm Board
+	- Hide and seek
+	- Dart Board
+	- Table Chair
+	- Kitchen set
+	- Pillow fight
+	- Tipi tipi tap

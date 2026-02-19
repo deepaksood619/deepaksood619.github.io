@@ -34,3 +34,4 @@ Jackson Annotations is a Java library (`com.fasterxml.jackson.core:jackson-annot
 
 - [GitHub - FasterXML/jackson-annotations: Core annotations (annotations that only depend on jackson-core) for Jackson data processor](https://github.com/FasterXML/jackson-annotations)
 - [Maven Repository: com.fasterxml.jackson.core » jackson-annotations](https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-annotations)
+- Jackson, the heavily used Java JSON library, is not the fastest out there. If you’re dealing with JSON in a high-performance Java system, check fastjson2 and simdjson-java.

@@ -14,6 +14,7 @@
 	- [confluent-for-kubernetes-cfk](technologies/confluent/confluent-for-kubernetes-cfk.md)
 - [confluent-cloud-vs-confluent-platform](technologies/confluent/confluent-cloud-vs-confluent-platform.md)
 - [confluent-cloud-flink](technologies/confluent/confluent-cloud-flink.md)
+- [confluent-cloud-connect](technologies/confluent/confluent-cloud-connect.md)
 - [confluent-private-cloud-cpc](technologies/confluent/confluent-private-cloud-cpc.md)
 - [confluent-intelligence](technologies/confluent/confluent-intelligence.md)
 - [warpstream](technologies/confluent/warpstream.md)

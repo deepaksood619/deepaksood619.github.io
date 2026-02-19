@@ -73,3 +73,43 @@ workspace     Workspace management
 ### Terraform refresh
 
 The `terraform refresh` command reads the current settings from all managed remote objects and updates the Terraform state to match.
+
+### Terraform import
+
+Terraform supports bringing your existing infrastructure under its management. By importing resources into Terraform, you can consistently manage your infrastructure using a common workflow.
+
+#### 1. The `terraform import` CLI Command
+
+This is the traditional method, available in all Terraform versions.
+
+- **Process:**
+    1. Manually write a resource block in your `.tf` configuration file that represents the existing resource.
+    2. Identify the unique, provider-specific ID of the resource from your cloud provider's console or CLI.
+    3. Run the command using the syntax: `terraform import [options] ADDRESS ID`. The `ADDRESS` is the resource path in your configuration (e.g., `aws_instance.example`), and `ID` is the cloud provider's resource ID (e.g., `i-abcd1234`).
+    4. Run `terraform plan` to verify that no unintended changes will be applied, then run `terraform apply`.
+- **Limitation:** This method only updates the Terraform state file; it does not automatically generate the HCL configuration code for you. You must write the configuration manually beforehand.
+
+#### 2. The Declarative `import` Block (Terraform v1.5+)
+
+This approach is more automated, predictable, and suitable for CI/CD pipelines.
+
+- **Process:**
+    1. Define an `import` block in your configuration file (e.g., `imports.tf`) with the destination resource address (`to`) and the provider-specific resource ID (`id`).
+    2. Optionally, you can run `terraform plan -generate-config-out=generated.tf` to have Terraform automatically generate the matching HCL code in a specified file.
+    3. Run `terraform apply` to perform the import and add the resource to your state file.
+- **Advantage:** This method allows for importing multiple resources at once and enables you to preview the import operation during the `plan` phase.
+
+#### Examples
+
+```bash
+terraform plan -generate-config-out=generated.tf
+
+terraform import aws_instance.example i-abcd1234
+
+# Example: Import into Module
+terraform import module.foo.aws_instance.bar i-abcd1234
+```
+
+- [Import existing infrastructure resources \| Terraform \| HashiCorp Developer](https://developer.hashicorp.com/terraform/cli/import)
+	- [terraform import command reference \| Terraform \| HashiCorp Developer](https://developer.hashicorp.com/terraform/cli/commands/import)
+- [Import Terraform configuration \| Terraform \| HashiCorp Developer](https://developer.hashicorp.com/terraform/tutorials/state/state-import)

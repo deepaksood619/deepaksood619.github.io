@@ -6,6 +6,12 @@ The provider block is used to configure the named provider, in our case "aws". A
 
 Multiple provider blocks can exist if a Terraform configuration manages resources from different providers. To add multiple providers in your configuration, declare the providers and create resources associated with those providers. If your configuration creates a new AWS instance in your environment and you need to add that instance to your Datadog monitoring, you would declare the providers sequentially and then declare your resources for each. In the example below, using multiple providers enables us to pass the instance information directly into the monitoring query.
 
+```json
+provider "docker" {
+  host = "unix:///var/run/docker.sock"
+}
+```
+
 ## Resources
 
 The resource block defines a resource that exists within the infrastructure. A resource might be a physical component such as an EC2 instance, or it can be a logical resource such as a Heroku application.

@@ -57,6 +57,7 @@ Here are some TPC benchmarks:
 - TPC-C: Compares the performance of online transaction processing
 - TPC-E: Measures the performance of online transaction processing systems
 - TPC-H: A benchmark for transaction processing and databases specific to decision support
+	- TPC-H dataset with a scale factor (SF) of 50. It consists of 8 tables of different sizes. With SF=50, the largest table (lineitem) has 300M rows, the second-largest (orders) has 75M rows, and so forth.
 
 Other TPC benchmarks include: TPC-DS, TPCI.
 

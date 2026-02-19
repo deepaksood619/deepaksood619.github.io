@@ -36,6 +36,24 @@ https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates
 
 [Apache Kafka 4.1 | Enhanced Stability, New OAuth Support, Scalable Queue...](https://youtu.be/cr9cDJGjm2E)
 
+## Apache Kafka 4.2
+
+Kafka Queues (Share Groups) is now production-ready with new features like the RENEW acknowledgement type for extended processing times, adaptive batching for share coordinators, soft and strict enforcements of quantity of fetched records, and comprehensive lag metrics.
+
+Kafka Streams brings the server-side rebalance protocol to GA with a limited feature set, adds dead letter queue support in exception handlers, introduces anchored wall-clock punctuation for deterministic scheduling, and gives users full control over whether to send a leave group request on closing.
+
+This release also delivers significant improvements to consistency and observability: CLI tools now feature standardized arguments like –bootstrap-server across all tools, metric naming has been corrected to follow the kafka.COMPONENT convention, and new idle ratio metrics provide better visibility into controller and MetadataLoader performance.
+
+Security is enhanced with a new allowlist connector client configuration override policy, while thread-safety improvements to RecordHeader eliminate concurrency risks.
+
+Additional highlights include external schema support in JsonConverter for reduced message sizes, dynamic configuration for remote log manager thread pools, adaptive batching in group coordinators, and rack ID exposure in the Admin API for consumer and share group members.
+
+- KIP-932 GA: Queues for Kafka
+- KIP-1071 GA: Streams Server-Side Rebalance Protocol
+- KIP-1034: Dead Letter Queue Support for Streams
+- [Apache Kafka 4.2 \| 38 KIPs, Kafka Streams, Observability Improvements, Rebalance Protocol, and more - YouTube](https://www.youtube.com/watch?v=4Yw1TzJe1Z8)
+- [Apache Kafka 4.2.0 Release Announcement \| Apache Kafka](https://kafka.apache.org/blog/2026/01/14/apache-kafka-4.2.0-release-announcement/)
+
 ## Others
 
 [Top Trends for Data Streaming with Apache Kafka and Flink in 2026 - Kai Waehner](https://www.kai-waehner.de/blog/2025/12/10/top-trends-for-data-streaming-with-apache-kafka-and-flink-in-2026/)

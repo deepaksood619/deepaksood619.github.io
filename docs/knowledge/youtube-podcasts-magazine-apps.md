@@ -101,6 +101,7 @@
 - [History of the Earth](https://www.youtube.com/channel/UC_aOteuWIY8ITg7DQQspG1g)-- the History Brothers cover multimillion year periods of our planet's history
 - [Half as Interesting](https://www.youtube.com/channel/UCuCkxoKLYO_EQ2GeFtbM_bw)-- light-hearted tidbids of English history and other things
 - [DW History and Culture - YouTube](https://youtube.com/@dwhistoryandculture)
+- [History of Simple Things - YouTube](https://www.youtube.com/@historyofsimplethings)
 
 ### Making Youtube content
 
@@ -163,7 +164,6 @@
 - Cleo Abram
 - [Smarter While You Sleep - YouTube](https://youtube.com/@smarterwhileyousleep)
 - [EO - YouTube](https://www.youtube.com/@eoglobal)
-- [Farming Engineer - YouTube](https://www.youtube.com/@farmingengineer)
 
 ### Food
 
@@ -171,6 +171,7 @@
 - Minutefood
 - [MinuteEarth - YouTube](https://www.youtube.com/@MinuteEarth)
 - [Ajit Singh Bhatnagar - Quora](https://www.quora.com/profile/Ajit-Singh-Bhatnagar)
+- [Farming Engineer - YouTube](https://www.youtube.com/@farmingengineer)
 
 ### News
 

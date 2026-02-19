@@ -28,6 +28,76 @@ terraform output resource-ids
 
 [Terraform Registry - Confluent Provider - Sample Project](https://registry.terraform.io/providers/confluentinc/confluent/latest/docs/guides/sample-project)
 
+## Resource Importer
+
+_Resource Importer for Confluent Terraform Provider_ enables importing your existing Confluent Cloud resources to Terraform Configuration (`main.tf`) and Terraform State (`terraform.tfstate`) files to a local directory named `imported_confluent_infrastructure`.
+
+```bash
+git clone https://github.com/confluentinc/terraform-provider-confluent.git
+
+cd terraform-provider-confluent/examples/configurations
+
+# Using the example configuration #1 as an example
+cd cloud-importer
+
+terraform init
+
+export TF_VAR_confluent_cloud_api_key="<cloud_api_key>"
+export TF_VAR_confluent_cloud_api_secret="<cloud_api_secret>"
+
+terraform validate
+
+terraform apply
+
+# Using the example configuration #1 as an example
+cd imported_confluent_infrastructure
+
+terraform init
+
+terraform refresh
+
+terraform plan
+
+terraform plan -parallelism=100
+# default parallelism=10
+# If the import process is taking longer than expected, you can improve the speed by increasing the parallelism flag. For example, you can set it to 100 like this: terraform plan -parallelism=100. Increasing parallelism can help speed up the import process, especially when dealing with a large number of resources.
+```
+
+```json title=main.tf
+terraform {
+  required_providers {
+    confluent = {
+      source  = "confluentinc/confluent"
+      version = "2.59.0"
+    }
+  }
+}
+
+provider "confluent" {
+  cloud_api_key    = var.confluent_cloud_api_key
+  cloud_api_secret = var.confluent_cloud_api_secret
+}
+
+resource "confluent_tf_importer" "example" {}
+```
+
+```json title="variables.tf"
+variable "confluent_cloud_api_key" {
+  description = "Confluent Cloud API Key (also referred as Cloud API ID)"
+  type        = string
+}
+
+variable "confluent_cloud_api_secret" {
+  description = "Confluent Cloud API Secret"
+  type        = string
+  sensitive   = true
+}
+```
+
+**Note -** Running Resource Importer for Confluent Terraform Provider is a read-only operation. It will not edit Confluent Cloud infrastructure.
+
+[Resource Importer for Confluent Terraform Provider - Terraform Registry](https://registry.terraform.io/providers/confluentinc/confluent/latest/docs/guides/resource-importer)
+
 ## Examples
 
 - advanced-bidirectional-cluster-link-rbac
@@ -325,3 +395,13 @@ resource "confluent_kafka_acl" "app-consumer-read-on-group" {
 }
 
 ```
+
+## confluent_kafka_cluster
+
+- [`dedicated`](https://registry.terraform.io/providers/confluentinc/confluent/latest/docs/resources/confluent_kafka_cluster#dedicated-2) - (Optional Configuration Block) The configuration of the Dedicated Kafka cluster. It supports the following:
+    - [`zones`](https://registry.terraform.io/providers/confluentinc/confluent/latest/docs/resources/confluent_kafka_cluster#zones-1) - (Required List of String) The list of zones the cluster is in.
+    - On AWS, zones are AWS [AZ IDs](https://docs.aws.amazon.com/ram/latest/userguide/working-with-az-ids.html), for example, `use1-az3`.
+    - On GCP, zones are GCP [zones](https://cloud.google.com/compute/docs/regions-zones), for example, `us-central1-c`.
+    - On Azure, zones are Confluent-chosen names (for example, `1`, `2`, `3`) since Azure does not have universal zone identifiers.
+
+[Terraform Registry - confluent_kafka_cluster](https://registry.terraform.io/providers/confluentinc/confluent/latest/docs/resources/confluent_kafka_cluster)

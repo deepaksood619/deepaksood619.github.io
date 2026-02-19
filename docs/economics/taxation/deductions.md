@@ -37,7 +37,6 @@
     - Rate at which rent deducted - 10
     - Amount of tax deducted at source - 9000
 - Netbanking - HDFC Bank
-
 - [What is the TDS provision for rent paid by individuals above Rs 50,000?](https://news.cleartax.in/what-is-the-tds-provision-for-rent-paid-by-individuals-above-rs-50000/6672/)
 - [tds penalty: Paying house rent of more than Rs 50000 per month? Penalty you will pay for not deducting TDS - The Economic Times](https://economictimes.indiatimes.com/wealth/tax/paying-house-rent-of-rs-50000-or-more-per-month-penalty-you-will-pay-for-not-deducting-tds/articleshow/104176779.cms?from=mdr)
 - [TDS on Rent: Section 194I Explained and Calculation Guidelines](https://www.canarahsbclife.com/blog/tax-saving/how-to-calculate-tds-on-rent)
@@ -62,21 +61,24 @@ Alternatively, the landlord and the tenant may mutually agree to not get the agr
 
 ### Others
 
-Sec 80D - Medical Insurance Premium (If the policy covers a senior citizen then exemption is Rs.50,000/-) for self and family- Existing or new policy bought between April 2019 till March 2020.
+- Sec 80D - Medical Insurance Premium (If the policy covers a senior citizen then exemption is Rs.50,000/-) for self and family- Existing or new policy bought between April 2019 till March 2020.
+- Medical Insurance 80D for Parents (Here you can claim the amount upto maximum of Rs 25,000 per annum for the premiums paid for your parents. If your parents are senior citizens, the amount is increased to Rs 30,000 per annum. You can also claim preventive health check-up amount of Rs 5,000 for your parents too.)
+- Sec 80DD - Handicapped Dependent (Medical Treatment on handicapped dependent, Copies of medical bills and duly completed Form 10-IA have to be submitted.)
+	- Rs 75,000 (Starting from the financial year 2015-16) where disability is more than 40% and less than 80%.
+	- Rs 1,25,000 (Starting fromthe financialyear 2015-16) where disability is more than 80%.
+	- These deductions are allowed irrespective of your actual expenditure.
+- Sec 80E - Repayment of Loan for higher education (only Interest)
+- Sec 80GG - Rent Paid
+- Sec 80U - Handicapped
 
-Medical Insurance 80D for Parents (Here you can claim the amount upto maximum of Rs 25,000 per annum for the premiums paid for your parents. If your parents are senior citizens, the amount is increased to Rs 30,000 per annum. You can also claim preventive health check-up amount of Rs 5,000 for your parents too.)
+#### New Draft IT Rules
 
-Sec 80DD - Handicapped Dependent (Medical Treatment on handicapped dependent, Copies of medical bills and duly completed Form 10-IA have to be submitted.)
+**Big Hikes in Exemptions in Old Tax Regime**
 
-- Rs 75,000 (Starting from the financial year 2015-16) where disability is more than 40% and less than 80%.
-- Rs 1,25,000 (Starting fromthe financialyear 2015-16) where disability is more than 80%.
-- These deductions are allowed irrespective of your actual expenditure.
-
-Sec 80E - Repayment of Loan for higher education (only Interest)
-
-Sec 80GG - Rent Paid
-
-Sec 80U - Handicapped
+- ﻿﻿**HRA**: Cities like Bengaluru, Hyderabad, Pune & Ahmedabad on list for 50% HRA exemption
+- ﻿﻿**Education Allowance**: Exemption per child rises to Rs 3,000 a month
+- ﻿﻿**Hostel Allowance**: Exemption jumps from Rs 300 to Rs 9,000 per month
+- ﻿﻿**Meal Exemption**: Meal vouchers go from token low levels to Rs 200/meal to Rs 1 lakh/year
 
 ### Sec 80TTA / 80TTB - Interest on saving a/c (upto 10000)
 
@@ -89,53 +91,34 @@ Sec 80U - Handicapped
 
 ### DEDUCTION U/S 80C (Max 150000)
 
-Contribution to Pension Fund (Jeevan Suraksha)
-
-Life Insurance Premium on life of self/spouse/child only
-
-Deferred Annuity
+- Contribution to Pension Fund (Jeevan Suraksha)
+- Life Insurance Premium on life of self/spouse/child only
+- Deferred Annuity
 
 ### Public Provident Fund in own name/spouse/child only
 
-ULIP of UTI/LIC in own name or spouse and child only
-
-Repayment of Housing Loan (Only principal)
-
-Contribution to Pension Fund or UTI or Notified Mutual Fund
-
-Investment in ELSS made in units of Notified Mutual Fund
-
-Children Tuition Fee: Restricted to a max of 2 Children
-
-Deposit in home loan account scheme of NHB/HDFC
-
-5 yrs. Term deposit in a Sch.Bank
-
-Others (please specify)
-
-Others (please specify)
-
-DEDUCTION U/S 80CCCAnnuity/Pension Plan
-
-DEDUCTION U/S 80CCDNotified Pension Scheme (NPS) (Max 50000)
-
-Asset Classes (Equity, Corporate debt, Government Bonds and AlternativeInvestmentFunds)
+- ULIP of UTI/LIC in own name or spouse and child only
+- Repayment of Housing Loan (Only principal)
+- Contribution to Pension Fund or UTI or Notified Mutual Fund
+- Investment in ELSS made in units of Notified Mutual Fund
+- Children Tuition Fee: Restricted to a max of 2 Children
+- Deposit in home loan account scheme of NHB/HDFC
+- 5 yrs. Term deposit in a Sch.Bank
+- DEDUCTION U/S 80CCCAnnuity/Pension Plan
+- DEDUCTION U/S 80CCDNotified Pension Scheme (NPS) (Max 50000)
+- Asset Classes (Equity, Corporate debt, Government Bonds and AlternativeInvestmentFunds)
 
 ### DEDUCTION U/S 24
 
-Interest on Housing Loan on fully constructed accomodation only (Limit - 200,000)
-
-Interest if the loan is taken before 01/04/99 on fully constructed accomodation only (Limit - 30,000)
+- Interest on Housing Loan on fully constructed accomodation only (Limit - 200,000)
+- Interest if the loan is taken before 01/04/99 on fully constructed accomodation only (Limit - 30,000)
 
 ### 10(5) LTA
 
 - 13739
-
-https://economictimes.indiatimes.com/wealth/tax/how-to-claim-lta-from-your-employer/articleshow/66246473.cms?from=mdr
-
-[Leave Travel Allowance (LTA) Rules 2024: How to claim, calculate - The 1% News](https://news.onepercentclub.io/taxation/leave-travel-allowance-lta-rules-eligibility-how-to-claim-calculate-latest-updates/3048/)
-
-Loss from business and profession cannot be set off against income chargeable to tax under the head "Salaries". 8) Loss under the head "house property" shall be allowed to be set-off against any other head of income only to the extent of Rs. 2,00,000 for any assessment year.
+- https://economictimes.indiatimes.com/wealth/tax/how-to-claim-lta-from-your-employer/articleshow/66246473.cms?from=mdr
+- [Leave Travel Allowance (LTA) Rules 2024: How to claim, calculate - The 1% News](https://news.onepercentclub.io/taxation/leave-travel-allowance-lta-rules-eligibility-how-to-claim-calculate-latest-updates/3048/)
+- Loss from business and profession cannot be set off against income chargeable to tax under the head "Salaries". 8) Loss under the head "house property" shall be allowed to be set-off against any other head of income only to the extent of Rs. 2,00,000 for any assessment year.
 
 ## Tax
 

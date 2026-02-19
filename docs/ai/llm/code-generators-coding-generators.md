@@ -87,15 +87,11 @@ You can also ask me questions about your editor selection by starting an inline 
 
 ## Comparisons
 
-**Claude Opus 4.5:** First model to break 80% on SWE-bench. 67% cheaper than before. Best for backend development and complex refactoring. 9.5/10.
-
-**Gemini 3:** 1 million token context window, 1501 Elo score. Better at frontend and creative work than Opus. Accessible across the Gemini Products. 8.5/10.
-
-**Nano Banana Pro:** Google’s image generator that finally works. 4K output, handles 5 people consistently, integrates everywhere. 8/10.
-
-**Antigravity:** Google’s new IDE. Buggy, crashes often, not ready. 6.5/10. Stick with Cursor or Windsurf / Claude Code or Faactory.ai for now.
-
-**What I actually use:** Gemini 3 for frontend, Opus 4.5 for backend, [Factory.ai](https://substack.com/redirect/fbb2b1c1-c8c7-4a4b-8e95-c9c8c058e735?j=eyJ1IjoiMjNveGkifQ.i9aFcICYm1GqpkppBiooaZpsFJWd6rQR64Wt5K5qc7c) or Claude Code for serious coding work.
+- **Claude Opus 4.5:** First model to break 80% on SWE-bench. 67% cheaper than before. Best for backend development and complex refactoring. 9.5/10.
+- **Gemini 3:** 1 million token context window, 1501 Elo score. Better at frontend and creative work than Opus. Accessible across the Gemini Products. 8.5/10.
+- **Nano Banana Pro:** Google’s image generator that finally works. 4K output, handles 5 people consistently, integrates everywhere. 8/10.
+- **Antigravity:** Google’s new IDE. Buggy, crashes often, not ready. 6.5/10. Stick with Cursor or Windsurf / Claude Code or Faactory.ai for now.
+- **What I actually use:** Gemini 3 for frontend, Opus 4.5 for backend, [Factory.ai](https://substack.com/redirect/fbb2b1c1-c8c7-4a4b-8e95-c9c8c058e735?j=eyJ1IjoiMjNveGkifQ.i9aFcICYm1GqpkppBiooaZpsFJWd6rQR64Wt5K5qc7c) or Claude Code for serious coding work.
 
 [Claude Opus 4.5 vs Gemini 3, Nano Banana Pro and Google Antigravity IDE: Nov 2025 Mega Review](https://www.thetoolnerd.com/p/claude-opus-45-vs-gemini-3-nano-banana-anti-gravity)
 
@@ -121,6 +117,8 @@ You can also ask me questions about your editor selection by starting an inline 
 	- [I Tested Claude Code for a Week - Here's What I Found](https://www.thetoolnerd.com/p/i-tested-claude-code-for-a-week)
 	- [GitHub - thedotmack/claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.](https://github.com/thedotmack/claude-mem)
 	- [ccusage](https://ccusage.com/)
+	- [I Spent 2000 Hours Coding With LLMs in 2025. Here are my Favorite Claude Code Usage Patterns : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1q3t579/comment/nxndpgn/)
+		- [Advanced Claude Code Patterns That Move the Needle - Google Docs](https://docs.google.com/document/d/1agzmSskXcdMgJz_cf1KlWdy1kfY3n_XEhHrLU_ESTRk/edit?usp=sharing)
 - [Warp: The Agentic Development Environment](https://www.warp.dev/)
 - [Kilo Code - Open source AI agent VS Code extension](https://kilocode.ai/)
 - [GitHub - Pythagora-io/gpt-pilot: The first real AI developer](https://github.com/Pythagora-io/gpt-pilot)

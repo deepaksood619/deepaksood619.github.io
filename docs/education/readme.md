@@ -11,3 +11,4 @@ Education is broken and it's a high time to fix it
 - [AI as Mentor](education/ai-as-mentor.md)
 - [schooling](education/schooling.md)
 - [homeschooling](education/homeschooling.md)
+- [life-recorder](education/life-recorder.md)

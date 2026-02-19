@@ -129,13 +129,17 @@ This is **Maxwell's daemon**, a [change data capture](https://www.confluent.io/b
 - upsolver
 - archion
 - [**CloudQuery** | Data Fabric for Cloud and Security Teams](https://www.cloudquery.io/)
+- [Supermetal - High Performance Data Replication Platform Built in Rust](https://www.supermetal.io/)
+	- [Architecture \| Supermetal Documentation](https://docs.supermetal.io/docs/main/concepts/architecture/)
+	- Supermetal's architecture centers around three core principles: preserving data accuracy through Apache Arrow's type system, maintaining transactional consistency across the entire pipeline, and processing everything within a single process to massively reduce serialization overhead.
+	- Supermetal operates as a single, self-contained process that manages the entire data pipeline from source to target.
+	- Supermetal is built on two primary technologies: Rust and Apache Arrow
 
-[12 best data migration tools of 2023](https://www.fivetran.com/learn/data-migration-tools)
+## Links
 
-[11 Best Data Migration Tools for 2023](https://hevodata.com/learn/data-migration-tools/)
-
-[6 Popular CDC Tools, Compared (July 2023 Edition)](https://www.upsolver.com/blog/cdc-tools-comparison-guide)
-
-[The Missing Piece for Modern Data Stack Going Real-time](https://www.arcion.io/blog/the-missing-piece-for-modern-data-stack-going-real-time)
-
-[dltHub: ELT as Python Code](https://dlthub.com/)
+- [12 best data migration tools of 2023](https://www.fivetran.com/learn/data-migration-tools)
+- [11 Best Data Migration Tools for 2023](https://hevodata.com/learn/data-migration-tools/)
+- [6 Popular CDC Tools, Compared (July 2023 Edition)](https://www.upsolver.com/blog/cdc-tools-comparison-guide)
+- [The Missing Piece for Modern Data Stack Going Real-time](https://www.arcion.io/blog/the-missing-piece-for-modern-data-stack-going-real-time)
+- [dltHub: ELT as Python Code](https://dlthub.com/)
+- [Benchmarking CDC Tools: Supermetal vs Debezium vs Flink CDC](https://www.streamingdata.tech/p/benchmarking-cdc-tools)

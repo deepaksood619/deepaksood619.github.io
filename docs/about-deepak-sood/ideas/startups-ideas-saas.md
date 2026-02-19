@@ -33,7 +33,7 @@ Microproducts - [How I Sold My App For $30,000 In 4 Days | GrowthX Insider - You
     - Automate data analytics and data engineering tasks
     - Automatically write the most efficient SQL query and give the answer
     - No need to create powerbi reports / write sql queries / create visualization, will choose best graph/plots/visualization, add refresh intervals, etc
-- Generative AI Startups
+- Generative AI Startups / GenAI
     - Webtoons / Blocktoons / MangaPlus but by AI artists
 - Subjective Paper scoring using chatgpt
     - Coding using chatgpt and not only coding for functions but full repositories. Having context of whole repository and tell which file and what line to change

@@ -122,6 +122,12 @@
 - [Just Oats & Spinach! No Flour, No Sugar, No Yeast – Lose 15kg Fast! - YouTube](https://www.youtube.com/watch?v=A_gUfK4Y_qA&ab_channel=Nourish%26Savor)
 - [Cafe Style BUTTER GARLIC EGGs 10 Min RECIPE \| Breakfast Eggs Recipe \| EGGS in Butter Garlic Sauce - YouTube](https://www.youtube.com/watch?v=nIv465yPI1c)
 - [These baked chickpea and quinoa sticks are my favorite high-protein snack! - YouTube](https://www.youtube.com/watch?v=f0tEQV-yte0)
+- [How To Make 8 Types Of Dim Sum \| Handcrafted \| Bon Appétit - YouTube](https://www.youtube.com/watch?v=FKRHHjrvo6A)
+	- Har Gow
+	- Siu Mai
+	- Roast Pork Bun
+	- Spring Roll
+	- Potsticker
 
 ### Oats
 

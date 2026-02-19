@@ -1,10 +1,8 @@
 # Returns / Tax / Taxes / ITR
 
-https://taxbuddy.com
-
-Tax evasion (punishable) vs tax avoidance (your legitimate right) of saving tax
-
-Tax Consulation - https://www.charteredclub.com/tax-consultation-with-ca-karan-batra
+- https://taxbuddy.com
+- Tax evasion (punishable) vs tax avoidance (your legitimate right) of saving tax
+- Tax Consulation - https://www.charteredclub.com/tax-consultation-with-ca-karan-batra
 
 **Period: April 1, 2022 - March 31, 2023**
 
@@ -13,11 +11,9 @@ Tax Consulation - https://www.charteredclub.com/tax-consultation-with-ca-karan-b
 
 ### Input tax credit
 
-[Input Tax Credit under GST - Conditions To Claim](https://cleartax.in/s/input-tax-credit-under-gst)
-
-[Input Tax Credit (ITC) under GST Explained](https://cleartax.in/s/gst-input-tax-credit)
-
-[What is Input Tax Credit (ITC) under GST with Example?](https://www.bajajfinserv.in/what-is-input-tax-credit-under-gst)
+- [Input Tax Credit under GST - Conditions To Claim](https://cleartax.in/s/input-tax-credit-under-gst)
+- [Input Tax Credit (ITC) under GST Explained](https://cleartax.in/s/gst-input-tax-credit)
+- [What is Input Tax Credit (ITC) under GST with Example?](https://www.bajajfinserv.in/what-is-input-tax-credit-under-gst)
 
 ### Direct and indirect taxes
 
@@ -49,17 +45,12 @@ The presumptive scheme of taxation reduces the compliance burden on small profes
 
 Taxes can be significantly reduced. For 60 lakh under 44ADA tax is only around 7L instead of 12L in normal method.
 
-[Section 44ADA – Presumptive Tax Scheme for Professionals](https://cleartax.in/s/section-44ada)
-
-[Section 44ADA - Presumptive Tax for Professionals](https://groww.in/p/tax/section-44ada-of-income-tax-act)
-
-[Tax on Consultancy Services: Applicability, Tax Rate and Benefits](https://cleartax.in/s/tax-on-consultancy-services)
-
-[Taxation for software engineer consultant : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/18rfyb0/taxation_for_software_engineer_consultant/)
-
-LUT - Letter of Undertaking
-
-[Tax Benefits for Consultants in India 2024](https://www.bankbazaar.com/tax/tax-benefits-for-consultants.html)
+- [Section 44ADA – Presumptive Tax Scheme for Professionals](https://cleartax.in/s/section-44ada)
+- [Section 44ADA - Presumptive Tax for Professionals](https://groww.in/p/tax/section-44ada-of-income-tax-act)
+- [Tax on Consultancy Services: Applicability, Tax Rate and Benefits](https://cleartax.in/s/tax-on-consultancy-services)
+- [Taxation for software engineer consultant : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/18rfyb0/taxation_for_software_engineer_consultant/)
+- LUT - Letter of Undertaking
+- [Tax Benefits for Consultants in India 2024](https://www.bankbazaar.com/tax/tax-benefits-for-consultants.html)
 
 1. If the consultant works from home, rent of space
 2. Commuting if it is related to work
@@ -77,13 +68,10 @@ LUT - Letter of Undertaking
 
 Consultant’s whose income exceeds Rs.10 lakh must get their expenses audited by a chartered accountant. Consultant trades off less tax for more paperwork. **The highest tax charged for a consultant is 11.33%** which includes the educational cess whereas an employee can get charged 33.99% as the highest tax.
 
-[Can I get consulting income while being salaried? : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/11pzshr/can_i_get_consulting_income_while_being_salaried/)
-
-[In India, can I receive a salary from a full-time job in one company and a professional fee as a consultant in another company? How does the tax return filing work in this case, as one’s income came from two different sources? - Quora](https://www.quora.com/In-India-can-I-receive-a-salary-from-a-full-time-job-in-one-company-and-a-professional-fee-as-a-consultant-in-another-company-How-does-the-tax-return-filing-work-in-this-case-as-one-s-income-came-from-two-different)
-
-[Normal business expense practices under sole proprietorship : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/1b7brkm/normal_business_expense_practices_under_sole/)
-
-[Save tax as Sole Proprietorship. : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/1er1y0l/save_tax_as_sole_proprietorship/)
+- [Can I get consulting income while being salaried? : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/11pzshr/can_i_get_consulting_income_while_being_salaried/)
+- [In India, can I receive a salary from a full-time job in one company and a professional fee as a consultant in another company? How does the tax return filing work in this case, as one’s income came from two different sources? - Quora](https://www.quora.com/In-India-can-I-receive-a-salary-from-a-full-time-job-in-one-company-and-a-professional-fee-as-a-consultant-in-another-company-How-does-the-tax-return-filing-work-in-this-case-as-one-s-income-came-from-two-different)
+- [Normal business expense practices under sole proprietorship : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/1b7brkm/normal_business_expense_practices_under_sole/)
+- [Save tax as Sole Proprietorship. : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/1er1y0l/save_tax_as_sole_proprietorship/)
 
 ### Deductions
 
@@ -97,29 +85,21 @@ Consultant’s whose income exceeds Rs.10 lakh must get their expenses audited b
 - Domain registration and apps purchased
 - Mobile / Wifi Bills
 
-[Freelancers and Taxes - Income Tax for Freelancers](https://cleartax.in/s/income-tax-for-freelancers)
+#### Links
 
-[**A Comprehensive Guide on Tax for Freelancers**](https://www.thegalacticadvisors.com/post/comprehensive-guide-on-tax-for-freelancers)
-
-LUT (Letter of Undertaking) - [GST: How to file an LUT?](https://www.thegalacticadvisors.com/post/gst-how-to-file-an-lut) - let's you export goods or services without payment of GST
-
-Proprietorship Taxation - [Proprietorship Tax Return Filing & Its Compliance - IndiaFilings](https://www.indiafilings.com/learn/proprietorship-tax-return-filing/)
-
-[Tax on Consultancy Services: Applicability, Tax Rate and Benefits](https://cleartax.in/s/tax-on-consultancy-services)
-
-[Taxation for software engineer consultant : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/18rfyb0/taxation_for_software_engineer_consultant/)
-
-[Save MONEY on TAXES! \| Tax Tips for Freelancers 2023 \| Ankur Warikoo Hindi - YouTube](https://www.youtube.com/watch?v=dBRC5hPcokc)
+- [Freelancers and Taxes - Income Tax for Freelancers](https://cleartax.in/s/income-tax-for-freelancers)
+- [**A Comprehensive Guide on Tax for Freelancers**](https://www.thegalacticadvisors.com/post/comprehensive-guide-on-tax-for-freelancers)
+- LUT (Letter of Undertaking) - [GST: How to file an LUT?](https://www.thegalacticadvisors.com/post/gst-how-to-file-an-lut) - let's you export goods or services without payment of GST
+- Proprietorship Taxation - [Proprietorship Tax Return Filing & Its Compliance - IndiaFilings](https://www.indiafilings.com/learn/proprietorship-tax-return-filing/)
+- [Tax on Consultancy Services: Applicability, Tax Rate and Benefits](https://cleartax.in/s/tax-on-consultancy-services)
+- [Taxation for software engineer consultant : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/18rfyb0/taxation_for_software_engineer_consultant/)
+- [Save MONEY on TAXES! \| Tax Tips for Freelancers 2023 \| Ankur Warikoo Hindi - YouTube](https://www.youtube.com/watch?v=dBRC5hPcokc)
 
 ### GST / LUT
 
-[Is LUT needed even if the income is under 20 Laks? : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/1btrn2r/is_lut_needed_even_if_the_income_is_under_20_laks/)
-
-[How to furnish LUT in RFD-11 on GST Portal](https://cleartax.in/s/lut-letter-of-undertaking-gst)
-
-[LUT Full Form, Eligibility, and Process](https://www.skydo.com/blog/all-you-need-to-know-about-lut-for-tech-service-export)
-
-[LUT Full Form, Eligibility, and Process](https://www.skydo.com/blog/all-you-need-to-know-about-lut-for-tech-service-export)
+- [Is LUT needed even if the income is under 20 Laks? : r/IndiaTax](https://www.reddit.com/r/IndiaTax/comments/1btrn2r/is_lut_needed_even_if_the_income_is_under_20_laks/)
+- [How to furnish LUT in RFD-11 on GST Portal](https://cleartax.in/s/lut-letter-of-undertaking-gst)
+- [LUT Full Form, Eligibility, and Process](https://www.skydo.com/blog/all-you-need-to-know-about-lut-for-tech-service-export)
 
 ## ITR
 

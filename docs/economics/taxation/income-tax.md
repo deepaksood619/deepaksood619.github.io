@@ -48,11 +48,13 @@ If people have to invest or spend more, they need to earn at least ₹2.5lks/yr?
 
 ## Taxation Comparison
 
+**Rs 10 Crore salary after taxes**
+
 - USA: 37% → ₹6.3 CR
 - China: 45% → ₹5.5 CR
 - Japan: 55.97% → ₹4.4 CR
 - Germany: 45% → ₹5.5 CR
-- India: 42.74% → ₹5.7 CR
+- **India: 42.74% → ₹5.7 CR**
 - UK: 45% → ₹5.5 CR
 - France: 55.4% → ₹4.5 CR
 - Italy: 47.2% → ₹5.3 CR
@@ -65,7 +67,7 @@ If people have to invest or spend more, they need to earn at least ₹2.5lks/yr?
 - Mexico: 35% → ₹6.5 CR
 - Indonesia: 35% → ₹6.5 CR
 - Netherlands: 49.5% → ₹5.05 CR
-- Saudi Arabia: 0% → ₹10 CR
+- **Saudi Arabia: 0% → ₹10 CR**
 - Turkey: 40% → ₹6 CR
 - Switzerland: 40% → ₹6 CR
 - Taiwan: 40% → ₹6 CR
@@ -76,16 +78,16 @@ If people have to invest or spend more, they need to earn at least ₹2.5lks/yr?
 - Argentina: 35% → ₹6.5 CR
 - Austria: 55% → ₹4.5 CR
 - Norway: 39.6% → ₹6.04 CR
-- UAE: 0% → ₹10 CR
+- **UAE: 0% → ₹10 CR**
 - Israel: 50% → ₹5 CR
 - South Africa: 45% → ₹5.5 CR
-- Malaysia: 30% → ₹7 CR
+- **Malaysia: 30% → ₹7 CR**
 - Denmark: 55.9% → ₹4.41 CR
-- Singapore: 22% → ₹7.8 CR
+- **Singapore: 22% → ₹7.8 CR**
 - Philippines: 35% → ₹6.5 CR
 - Ireland: 52% → ₹4.8 CR
 - Vietnam: 35% → ₹6.5 CR
-- Hong Kong: 15% → ₹8.5 CR
+- **Hong Kong: 15% → ₹8.5 CR**
 - Chile: 40% → ₹6 CR
 - New Zealand: 39% → ₹6.1 CR
 - Finland: 56.9% → ₹4.31 CR
