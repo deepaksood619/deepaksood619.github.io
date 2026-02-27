@@ -19,6 +19,7 @@
 8. Kafka Cruise Control
 9. Kakfa-monitor https://github.com/linkedin/kafka-monitor
 10. [kadeck | ‍Kafka UI - Your team's Apache Kafka tool belt](https://www.kadeck.com/)
+11. [GitHub - **confluentinc/jmx-monitoring-stacks**: 📊 Monitoring examples for Confluent Cloud and Confluent Platform](https://github.com/confluentinc/jmx-monitoring-stacks)
 
 [Kafka Administration and Monitoring UI Tools](https://dzone.com/articles/kafka-administration-and-monitoring-ui-tools)
 

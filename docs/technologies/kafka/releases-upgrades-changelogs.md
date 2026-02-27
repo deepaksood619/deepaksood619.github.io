@@ -1,5 +1,7 @@
 # Releases / Upgrades / Change logs
 
+[Apache Mail Archives](https://lists.apache.org/list.html?dev@kafka.apache.org)
+
 ## Apache Kafka 2.4
 
 - Kafka Core

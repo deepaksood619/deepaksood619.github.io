@@ -17,7 +17,9 @@
 
 ## Office Projects
 
-### OpsTree (Dec'23 - Present)
+### Confluent (24th Nov'25 - Present)
+
+### OpsTree (Dec'23 - 21st Nov'25)
 
 #### Projects
 
@@ -30,6 +32,7 @@
 - [GenAI ChatBot using Bedrock](about-deepak-sood/projects/37-genai-chatbot-using-bedrock.md)
 - [AWS Hands-on Amazon Q Workshop](about-deepak-sood/projects/35-aws-hands-on-amazon-q-workshop.md)
 - [Ecommerce Scalable Modern Data Stack](about-deepak-sood/projects/32-ecommerce-scalable-modern-data-stack.md)
+- [AIOps](about-deepak-sood/projects/30-aiops.md)
 
 #### Account Management / Sales
 
@@ -68,7 +71,7 @@
 
 ### Bake.io
 
-[Bake.io Data Engineering](about-deepak-sood/projects/75-bake-io-data-engineering.md) (Mar'23 - Nov'23)
+- [Bake.io Data Engineering](about-deepak-sood/projects/75-bake-io-data-engineering.md) (Mar'23 - Nov'23)
 
 ### Stashfin
 
@@ -90,7 +93,7 @@
 
 ### CISO Cybersecurity
 
-[CISO Cybersecurity](about-deepak-sood/projects/99-ciso-cybersecurity.md) (Dec'16 - July'17)
+- [CISO Cybersecurity](about-deepak-sood/projects/99-ciso-cybersecurity.md) (Dec'16 - July'17)
 
 ## Personal Projects
 

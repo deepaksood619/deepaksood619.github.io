@@ -421,7 +421,7 @@ It can become toxic and inedible quickly; when stored for more than 20 minutes, 
 
 ## Others
 
-### Inset Fragments
+### Insect Fragments
 
 **Insect fragments** are a natural and unavoidable part of many foods due to their presence during growth, harvesting, and processing. Food authorities generally consider these fragments as natural contaminants that don't pose a health risk. For example, a 16-ounce jar of peanut butter can legally contain up to 136 insect parts before being considered contaminated.
 

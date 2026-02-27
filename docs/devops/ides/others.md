@@ -148,6 +148,13 @@ https://idlerpg.xyz
 
 Command + Option + L (For formatting line)
 
+## reddit.com
+
+- [ELI5: I've read there are many bots and fake accounts on Reddit. Why do they exist and how does one know who is a real person? Can Reddit stop this? : r/TheoryOfReddit](https://www.reddit.com/r/TheoryOfReddit/comments/1bi1ggt/eli5_ive_read_there_are_many_bots_and_fake/)
+- [Most people on Reddit might not even be people \| by Sohail Saha \| Medium](https://captain-woof.medium.com/most-people-on-reddit-might-not-even-be-people-2b207a7f1902)
+- [Why is this platform so high on Google Search now? : r/ask](https://www.reddit.com/r/ask/comments/1ih7f4t/why_is_this_platform_so_high_on_google_search_now/)
+- [Hey, Have You Noticed Reddit Taking Over Google Searches? : r/SEO](https://www.reddit.com/r/SEO/comments/1cckthj/hey_have_you_noticed_reddit_taking_over_google/)
+
 ## Others
 
 - [What are the Requirements for Adding a LinkedIn Company Page?](https://www.linkedin.com/pulse/what-requirements-adding-linkedin-company-page-loribeth-pierson/)

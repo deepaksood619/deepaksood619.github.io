@@ -31,3 +31,9 @@ curl -X DELETE http://localhost:8083/connectors/smap-mqtt-source-lenses
 
 curl -X DELETE http://localhost:8083/connectors/smap-mqtt-source-lenses-test
 ```
+
+## Synchronous Communication With Apache Kafka Using ReplyingKafkaTemplate
+
+There are scenarios where a response is required immediately by the publisher microservice to proceed with further processing. While Kafka is inherently designed for asynchronous communication, it can be configured to support synchronous [request-reply](https://www.enterpriseintegrationpatterns.com/patterns/messaging/RequestReply.html) communication through separate topics.
+
+[Synchronous Communication With Apache Kafka Using ReplyingKafkaTemplate \| Baeldung](https://www.baeldung.com/spring-kafka-request-reply-synchronous)

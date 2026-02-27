@@ -196,7 +196,7 @@ https://www.youtube.com/watch?v=8SOQduoLgRw
 - Investment group - strong link
 - Donation to Schools should be weak link
 
-[YouTube](https://www.youtube.com/watch?v=UAqZMgBtECQ)
+[Why We Need to Treat the Pandemic Like Soccer \| Malcolm Gladwell \| Google Zeitgeist 2020 - YouTube](https://www.youtube.com/watch?v=UAqZMgBtECQ)
 
 ## 7 reasons smart, hardworking people don't become successful
 

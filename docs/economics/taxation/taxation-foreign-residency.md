@@ -19,7 +19,7 @@ Your goal here is to minimize costs and ensure portability. If you open an accou
 
 You need a brokerage that supports **account migration**.
 
-- **Best Option:** **Interactive Brokers (IBKR)**.
+- **Best Option:** **Interactive Brokers ([IBKR)**.
 
     - **Why:** They operate globally. When you move to another country (e.g., Dubai or Singapore), you simply file a ticket to migrate your entity from "IBKR India" to "IBKR LLC/UK/etc." effectively keeping your portfolio intact without selling.
     - **Cost:** Very low. Commissions are negligible (~$0.35 to $2 per trade depending on the plan).

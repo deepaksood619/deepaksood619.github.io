@@ -57,7 +57,8 @@ https://docs.google.com/spreadsheets/d/1zl7adSoCYuWpuBnRPbkkhwT2RZ5hk3lUO4ud0NE7
 	- She’s easy, anyone can have her, and YOU aren’t special.
 - Again, it’s cultural and all part of their mating dance. The man wants to feel special and powerful, as if he just conquered Mount Everest, and gets off on how his partner is enduring the pain of the rough sex JUST FOR HIM. (even though it doesn’t really hurt)
 - Now, you might think it’s bizarre, wrong, or even chauvinistic that Japanese men expect their women to cry and look sad (even when it feels really REALLY GOOD)… BUT is it really that strange? In America, men expect women to smile, moan and scream “YES! YES!” at all times, even when it hurts.
-- [I saw in Japanese porn, why do most of the girls start crying during sex? Does she feel pain? I don’t know what exactly she has feeling during that act. - Quora](https://www.quora.com/I-saw-in-Japanese-porn-why-do-most-of-the-girls-start-crying-during-sex-Does-she-feel-pain-I-don-t-know-what-exactly-she-has-feeling-during-that-act)
+	- [I saw in Japanese porn, why do most of the girls start crying during sex? Does she feel pain? I don’t know what exactly she has feeling during that act. - Quora](https://www.quora.com/I-saw-in-Japanese-porn-why-do-most-of-the-girls-start-crying-during-sex-Does-she-feel-pain-I-don-t-know-what-exactly-she-has-feeling-during-that-act)
+- [Shinto - Wikipedia](https://en.wikipedia.org/wiki/Shinto)
 
 ### Vietnam
 
@@ -99,6 +100,7 @@ https://docs.google.com/spreadsheets/d/1zl7adSoCYuWpuBnRPbkkhwT2RZ5hk3lUO4ud0NE7
 - [American Revolution [Explained] | World History for UPSC Mains 2022-2023 - YouTube](https://www.youtube.com/watch?v=pUA65IoEyxI)
 - [The Not So Polite Truth Behind Canada's Collapsing Economy - YouTube](https://www.youtube.com/watch?v=XomvuLPiTWM)
 	- [Will Canada Become America's 51st State?](https://youtu.be/Jox5DcBI2Hc)
+- [Demographics of the United States - Wikipedia](https://en.wikipedia.org/wiki/Demographics_of_the_United_States)
 
 ## South America
 
@@ -109,8 +111,13 @@ https://docs.google.com/spreadsheets/d/1zl7adSoCYuWpuBnRPbkkhwT2RZ5hk3lUO4ud0NE7
 - [Geography Through Maps - YouTube](https://www.youtube.com/playlist?list=PLkJ-kjtioPGqUr8sSaF7x04mrLcXFJYMO)
 - [Famous International disputed border lines and Boundaries | Static GK - YouTube](https://www.youtube.com/watch?v=sPszPGQErpE)
 
+## International Festivals / Holidays
+
+- [Lunar New Year - Wikipedia](https://en.wikipedia.org/wiki/Lunar_New_Year)
+
 ## Others
 
 - [Why Do All Arab Countries Have Similar Flags? - YouTube](https://www.youtube.com/watch?v=ZrZWdubD1r0)
 - [Hofstede's cultural dimensions theory - Wikipedia](https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory)
 - [Country comparison tool](https://www.theculturefactor.com/country-comparison-tool?countries=china%2Cindia%2Cunited+states)
+- [Partition of Ireland - Wikipedia](https://en.wikipedia.org/wiki/Partition_of_Ireland)

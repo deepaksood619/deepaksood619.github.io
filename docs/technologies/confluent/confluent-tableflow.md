@@ -41,3 +41,4 @@ Table flow is a feature in Confluent Cloud that allows data from Kafka topics to
 - [What React and Apache Iceberg Have in Common: Scaling Iceberg with Virtual Metadata - WarpStream](https://www.warpstream.com/blog/what-react-and-apache-iceberg-have-in-common-scaling-iceberg-with-virtual-metadata)
 - [Tableflow: Convert Kafka topics to Iceberg and Delta tables \| Confluent](https://www.confluent.io/product/tableflow/)
 - [Introducing Tableflow: Unifying Streaming and Analytics](https://www.confluent.io/blog/introducing-tableflow/)
+- [Starburst + Confluent Tableflow \| Starburst](https://www.starburst.io/blog/tableflow-confluent-starburst/)

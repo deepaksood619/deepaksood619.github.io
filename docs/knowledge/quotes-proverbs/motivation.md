@@ -22,6 +22,8 @@ Energy, not time, is the fundamental currency of high performance. - Jim Loehr
 
 YOU HAUE TO BE DELUSIONAL. FRANZ KAFKA ONCE SAID: "BY BELIEVING PASSIONATELY IN SOMETHING THAT STILL DOES NOTEXIST, WE CREATE IT.
 
+A dream is not that which you see while sleeping it is something that does not let you sleep – A. P. J. Abdul Kalam
+
 https://dariusforoux.com/inspirational-quotes
 
 https://www.scotthyoung.com/blog/2020/11/02/motivation

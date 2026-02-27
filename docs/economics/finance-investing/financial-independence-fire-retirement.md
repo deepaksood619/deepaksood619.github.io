@@ -150,6 +150,16 @@ The point of making money is not so you can buy everything.
 	- For many Indian parents, loneliness drives them to become financial givers just to stay relevant.
 	- Deep down, you fear that if you stop providing financial value, the phone calls from your children might stop, too. You are essentially paying a subscription fee for your family’s attention.
 	- Retirement requires a social portfolio just as much as a financial one. If you don’t invest in relationships and humility today, you will spend a fortune trying to buy attention tomorrow.
+- [Don't be in a hurry to retire early even if you can afford to!](https://freefincal.com/dont-be-in-a-hurry-to-retire-early-even-if-you-can-afford-to/)
+	- “It has been my experience that one cannot, in any shape or form, depend on human relations for lasting reward. It is only work that truly satisfies.” – Bette Davis
+	- you can quit your regular job **only if** you have a clear time management plan with a good chunk of it used for gainful employment.
+- [Shift from tax-saving to wealth-creation mode to become rich!](https://freefincal.com/shift-from-tax-saving-to-wealth-creation-mode-to-become-rich/)
+	- The only way to become rich is by
+		- increasing income
+		- ensuring expenses do not increase at the same rate as income.
+		- keeping debt as low as possible
+		- investing as much as possible in a risk-balanced diversified portfolio
+		- increase the investment as much as possible as often as possible.
 
 ## Others
 

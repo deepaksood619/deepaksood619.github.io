@@ -10,27 +10,13 @@ Tibetan
 
 ## French
 
-La femme termine sa lettre
-
-(The woman finishes her letter)
-
-Ca casse
-
-(It breaks)
-
-On va chez vous ou chez moi
-
-(Are we going to your place or mine)
-
-Vous me plaisez
-
-(I like you)
-
-Je m'appelle Deepak (I am called deepak)
-
-Bonjour (Hello)
-
-Salut (Hello/Goodbye)
+- La femme termine sa lettre (The woman finishes her letter)
+- Ca casse (It breaks)
+- On va chez vous ou chez moi (Are we going to your place or mine)
+- Vous me plaisez (I like you)
+- Je m'appelle Deepak (I am called deepak)
+- Bonjour (Hello)
+- Salut (Hello/Goodbye)
 
 ## Chinese
 
@@ -64,3 +50,24 @@ https://www.youtube.com/watch?v=T5FNvW19GbA
 ## Dutch
 
 [Small Talk in Dutch \| Easy Dutch 22 - YouTube](https://www.youtube.com/watch?v=Fe_pfQFBkWA&ab_channel=EasyDutch)
+
+## Others
+
+### NATO phonetic alphabet
+
+| **A**lfa    | **N**ovember |
+| ----------- | ------------ |
+| **B**ravo   | **O**scar    |
+| **C**harlie | **P**apa     |
+| **D**elta   | **Q**uebec   |
+| **E**cho    | **R**omeo    |
+| **F**oxtrot | **S**ierra   |
+| **G**olf    | **T**ango    |
+| **H**otel   | **U**niform  |
+| **I**ndia   | **V**ictor   |
+| **J**uliett | **W**hiskey  |
+| **K**ilo    | **X**ray     |
+| **L**ima    | **Y**ankee   |
+| **M**ike    | **Z**ulu     |
+
+[NATO phonetic alphabet - Wikipedia](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet)

@@ -213,3 +213,21 @@ Schema Registry introduces two new concepts to support Schema Linking:
 - There is no upper limit on the number of schemas that can be transferred using an exporter.
 
 [Schema Linking for Confluent Cloud Developers \| Confluent Documentation](https://docs.confluent.io/cloud/current/sr/schema-linking.html)
+
+## Schema Contexts
+
+A schema context is a grouping of subject names and schema IDs, and can be used to create any number of separate “sub-registries” within one Schema Registry. Contexts provide more flexibility with regard to subject naming, schema IDs, and how clients can reference schemas.
+
+### Specify schema contexts
+
+Schema Registry provides the option to logically group schemas by specifying _schema contexts_. By default, schemas live in the default context. By providing qualified names for schemas, you group them into what are essentially sub-registries with context-specific paths. This gives you the ability to have multiple schemas with the same subject names and IDs existing as unique entities within their different contexts. There are several advantages to this, including the ability to provide specific contexts for different clients. Schema contexts are used extensively for [Schema Linking](https://docs.confluent.io/cloud/current/sr/schema-linking.html#schema-linking), but can also be used independently of that feature as needed.
+
+#### Why use schema contexts?
+
+You can logically group schemas by specifying _schema contexts_. By default, schemas live in the default context. By providing qualified names for schemas, you can group them into sub-registries with context-specific paths. This gives you the ability to have multiple schemas with the same subject names and IDs existing as unique entities within their different contexts. There are several advantages to this, including the ability to provide specific contexts for different clients. Schema contexts are typically used in [Schema Linking](https://docs.confluent.io/cloud/current/sr/schema-linking.html#schema-linking), where they provide mechanisms and flexibility for sharing schemas across registries.
+
+#### Default context
+
+Any schema ID or subject name without an explicit context lives in the default context, which is represented as a single dot `.`.
+
+[Manage Schemas in Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/sr/schemas-manage.html#work-with-schema-contexts)

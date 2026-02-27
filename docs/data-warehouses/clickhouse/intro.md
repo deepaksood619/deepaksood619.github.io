@@ -159,7 +159,7 @@ ClickHouse supports both virtual views and materialized views. The materialized 
 - [ClickHouse Academy - "How to" Sessions - YouTube](https://www.youtube.com/playlist?list=PL0Z2YDlm0b3gtIdcZI3B_8bMJclDOvY8s)
 - [ClickHouse and The One Trillion Row Challenge](https://clickhouse.com/blog/clickhouse-1-trillion-row-challenge)
 - [DataOps Barcelona 2018 - Clickhouse Use Cases - YouTube](https://www.youtube.com/watch?v=P7O6HRbFkL8&ab_channel=binlogic)
-- [YouTube](https://www.youtube.com/watch?v=fGG9dApIhDU&ab_channel=CMUDatabaseGroup)
+- [Introducing ClickHouse -- The Fastest Data Warehouse You've Never Heard Of (Robert Hodges, Altinity) - YouTube](https://www.youtube.com/watch?v=fGG9dApIhDU&ab_channel=CMUDatabaseGroup)
 - [The Secrets of ClickHouse Performance Optimizations at BDTC 2019 - YouTube](https://www.youtube.com/watch?v=ZOZQCQEtrz8&ab_channel=ClickHouse)
 - [Didi Migrates from Elasticsearch to ClickHouse for a new Generation Log Storage System](https://clickhouse.com/blog/didi-migrates-from-elasticsearch-to-clickHouse-for-a-new-generation-log-storage-system)
 - [Building a Robust Data Pipeline with Kafka and ClickHouse | The Write Ahead Log](https://platformatory.io/blog/Building-a-Robust-Data-Pipeline-with-Kafka-and-ClickHouse/)

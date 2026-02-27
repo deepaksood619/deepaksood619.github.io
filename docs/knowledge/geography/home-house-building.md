@@ -1,17 +1,7 @@
 # Home / House Building
 
-[Glass Types - Know The Different Types of Window Glass & Their Uses | AIS Glass](https://www.aisglass.com/preferred-window-glass-types-indian-homes/)
-
-[Should you use toughened glass or laminated glass for a glass balcony?](https://www.glasxperts.com/better-option-glass-balcony-toughened-glass-laminated-glass/)
-
-gypsum wall partition
-
-[Different Types of Partition Walls || Aluminium, wood, Gypsum Board, Tuffen Glass Partition - YouTube](https://www.youtube.com/watch?v=0YImmTW2sXU&ab_channel=InsideInterior)
-
-https://www.youtube.com/watch?v=dy81ldYQdgY
-
-- Coohome
-- Sweet home
+- [living](knowledge/geography/living.md)
+- [new-home-place-house](knowledge/geography/new-home-place-house.md)
 
 ## Architectures
 
@@ -59,9 +49,12 @@ https://www.youtube.com/watch?v=dy81ldYQdgY
 
 ## Links
 
-- [living](knowledge/geography/living.md)
-- [new-home-place-house](knowledge/geography/new-home-place-house.md)
-
+- [Glass Types - Know The Different Types of Window Glass & Their Uses | AIS Glass](https://www.aisglass.com/preferred-window-glass-types-indian-homes/)
+- [Should you use toughened glass or laminated glass for a glass balcony?](https://www.glasxperts.com/better-option-glass-balcony-toughened-glass-laminated-glass/)
+- gypsum wall partition
+- [Different Types of Partition Walls || Aluminium, wood, Gypsum Board, Tuffen Glass Partition - YouTube](https://www.youtube.com/watch?v=0YImmTW2sXU&ab_channel=InsideInterior)
+- Coohome
+- Sweet home
 - [NEVER TOO SMALL: Self Taught Interior Designer’s Apartment, Hong Kong - 48sqm/516sqft - YouTube](https://www.youtube.com/watch?v=5pvNYrOUTtM&ab_channel=NEVERTOOSMALL)
 - [New Mexico's 'Earthships' offer unique model for living off the grid - YouTube](https://www.youtube.com/watch?v=a_ZTiocr3LU&ab_channel=PBSNewsHour)
 - [House construction cost 2025 | घर बनाने का पूरा खर्च | Material + Labour cost | Duplex house rate - YouTube](https://www.youtube.com/watch?v=0GDb28Cetqk&ab_channel=CivilSitevisit)

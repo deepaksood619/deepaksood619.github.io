@@ -164,6 +164,7 @@ The greatest fulfilment in life is to do something which is much larger than you
 - Feminism - [The Truth about Feminism | Is Feminism Destroying Indian Society? | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=oFlfPUSHEpc&ab_channel=DhruvRathee)
 	- [Sexual objectification - Wikipedia](https://en.wikipedia.org/wiki/Sexual_objectification)
 	- [Feminism - Wikipedia](https://en.wikipedia.org/wiki/Feminism)
+- [Pygmalion effect - Wikipedia](https://en.wikipedia.org/wiki/Pygmalion_effect)
 
 ## Skeptical
 

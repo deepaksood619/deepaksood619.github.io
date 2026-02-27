@@ -266,6 +266,9 @@ claude mcp add mcp_server_mysql \
 - [GitHub - jlowin/fastmcp: 🚀 The fast, Pythonic way to build MCP servers and clients](https://github.com/jlowin/fastmcp)
 	- [Welcome to FastMCP 2.0! - FastMCP](https://gofastmcp.com/getting-started/welcome)
 - [🛰️ MCP Support \| Open WebUI](https://docs.openwebui.com/openapi-servers/mcp/)
+	- [WebMCP](https://webmcp.dev/)
+	- WebMCP is an [open source](https://github.com/jasonjmcghee/WebMCP) JavaScript library that allows any website to integrate with the Model Context Protocol. It provides a small blue widget in the bottom right corner of your page that allows users to connect to and interact with your webpage via LLM or agent.
+	- [GitHub - webmachinelearning/webmcp: 🤖 WebMCP](https://github.com/webmachinelearning/webmcp)
 
 ## Resources
 

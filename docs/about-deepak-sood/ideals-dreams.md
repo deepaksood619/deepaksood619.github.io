@@ -2,20 +2,20 @@
 
 Aim for the moon; even if you miss, you’ll land among the stars.”
 
-### Investment
+## Investment
 
 1. Don't invest in depreciating assets (cars or flats or houses)
 2. Invest in gold and land (it's rare and reserve's are limited)
 3. Never buy diamonds (it's overly hyped, De Beers corporation has all the control of it's supply), rubies, sapphires and emeralds are rare
 4. Don't invest in fields you don't know about fully (like buying lands) also remember the taxes and extra money that you have to pay
 
-### My Mantras
+## My Mantras
 
 1. I don't borrow for something that does not increase my productivity
 2. Income - Savings = Expense
 3. Invest in yourself
 
-### Physical Mantra / Affirmations / Mantras
+## Physical Mantra / Affirmations / Mantras
 
 - All pain ends at last
 - When you're thinking of quitting: accept the pain and refuse to quit as a possibility
@@ -39,7 +39,7 @@ Aim for the moon; even if you miss, you’ll land among the stars.”
 
 https://dariusforoux.com/positive-affirmations
 
-### Views
+## Views
 
 - Globalist (supports globalism over nationalism)
 - Evidence based methods
@@ -47,20 +47,34 @@ https://dariusforoux.com/positive-affirmations
 
 Meritocracy is a political system in which economic goods and/or political power are vested in individual people on the basis of talent, effort, and achievement, rather than wealth or social class. Advancement in such a system is based on performance, as measured through examination or demonstrated achievement.
 
-### Earth / Environment / Global warming / Animal Cruelty
+## Earth / Environment / Global warming
 
 - There is no humane way of using animals
 - The greatness of a nation and its moral progress can be judged by the way its animals are treated -- Mohandas Karamchand Gandhi
 - You have just dined, and however scrupulously the slaughterhouse is concealed in the graceful distance of miles, there is complicity. --Ralph Waldo Emerson
 - Conservation
 - Contributing money
-- **Turn vegetarian (saves water, saves greenhouse gases, saves money)**
-    - Saying no to overconsumption
-    - Racing Extinction
-    - Cowspiracy
-    - Earthlings - [Earthlings Documentary](https://www.youtube.com/watch?v=8gqwpfEcBjI)
-    - [Dominion (2018) - full documentary [Official]](https://www.youtube.com/watch?v=LQRAfJyEsko) - https://www.dominionmovement.com
 - Games are the most important thing to change climate change (to keep people away from spending on physical things and keep them from travelling)
+
+## Animal Cruelty / Veganism / Non-Veg / Vegetarian
+
+- **Turn vegan (saves water, saves greenhouse gases, saves money)**
+- Saying no to overconsumption
+- Media
+	- Racing Extinction
+	- Cowspiracy
+	- Seaspiracy (2021)
+	- Food, Inc. (2008)
+	- The Cove (2009)
+	- Earthlings - [Earthlings Documentary](https://www.youtube.com/watch?v=8gqwpfEcBjI)
+	- [Dominion (2018) - full documentary [Official]](https://www.youtube.com/watch?v=LQRAfJyEsko) - https://www.dominionmovement.com
+	- [The Dark Truth About Dairy Farming in India \| What Farmers Aren’t Told - YouTube](https://www.youtube.com/watch?v=ipjMIKdYgIU)
+		- Absence of suffering is bigger than presence of life
+		- Live to reduce suffering; live while causing minimum suffering
+		- [About us](https://peepalfarm.org/)
+		- [faq vegan](https://peepalfarm.org/faq-vegan)
+	- [The Photograph of a Dead Chicken — Ian Knauer](https://www.ianknauer.com/blog/the-photograph-of-a-dead-chicken)
+	- [Born To Die (The Life of A Broiler Chicken) » Tamara Kenneally Photography](https://www.tamarakenneallyphotography.com/born-to-die-the-life-of-a-broiler-chicken/)
 
 ## Dreams
 

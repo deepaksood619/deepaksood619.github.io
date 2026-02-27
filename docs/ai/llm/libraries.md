@@ -177,6 +177,7 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [GitHub - Olow304/memvid: Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.](https://github.com/Olow304/memvid)
 - [GitHub - toon-format/toon: 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks & reference implementation.](https://github.com/toon-format/toon)
 	- [TOON : Bye Bye JSON for LLMs. TOON is a new datatype, more efficient… \| by Mehul Gupta \| Data Science in Your Pocket \| Nov, 2025 \| Medium](https://medium.com/data-science-in-your-pocket/toon-bye-bye-json-for-llms-91e4fe521b14)
+- [Letta](https://www.letta.com/)
 
 ### Comparision
 

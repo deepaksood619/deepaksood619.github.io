@@ -79,3 +79,4 @@ Although built as a generic data processor, Flink’s native support of unbounde
 	- Lab3 - Agentic Fleet Management Using Confluent Intelligence
 - [GitHub - confluentinc/online-retailer-flink-demo at gko-2026](https://github.com/confluentinc/online-retailer-flink-demo/tree/gko-2026?tab=readme-ov-file)
 - [Flink SQL Autopilot in Confluent Cloud for Apache Flink \| Confluent Documentation](https://docs.confluent.io/cloud/current/flink/concepts/autopilot.html)
+- [Using Apache Flink for Model Inference: A Guide for Real-Time AI Applications \| Confluent](https://www.confluent.io/blog/using-flink-for-model-inference-a-guide-for-realtime-ai-applications/)

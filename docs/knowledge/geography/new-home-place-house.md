@@ -497,10 +497,11 @@ A person feeding themselves a vegetarian diet would need about an acre of land a
 - [The Truth Behind Godrej Projects: Hype Vs Reality](https://youtu.be/4na0kpL1SJ0)
 - [Gurgaon’s Property Bubble is set to Burst](https://youtu.be/T219SUv3jyI)
 - [Dark Truth of Gurgaon Real Estate Ft. Vishal Bhargava | IBP EP35](https://youtu.be/i_Y-yBW7kCU)
+- [Can you still afford to buy a house in India? – Dezerv](https://www.dezerv.in/blog/can-you-still-afford-to-buy-a-house-in-india/)
 
 ![Largest Real Estate Players in India](../../media/largest-real-estate-players-in-india.jpg)
 
-## Noida Property Market
+### Noida Property Market
 
 - [The Shocking Truth About Noida Real Estate 2025 – Don’t Make These Mistakes! @propertyduniya - YouTube](https://www.youtube.com/watch?v=qykwBt1kQsk)
 - [Inside an Ultra Luxury 17,000 sq ft Villa in Hyderabad (House Tour).](https://youtu.be/kHmNT9sRT1M)
@@ -518,49 +519,38 @@ A person feeding themselves a vegetarian diet would need about an acre of land a
 - [Monsoon Report Card: Noida Passes, Gurugram Fails. 5 Major Reasons Why \| Explainers News - News18](https://www.news18.com/amp/explainers/monsoon-report-card-noida-passes-gurugram-fails-5-major-reasons-why-ws-l-9544394.html)
 - ['If you own a flat in Noida, sell it and run': Finfluencer on UP govt's plans to scrap ground coverage limits - BusinessToday](https://www.businesstoday.in/amp/personal-finance/real-estate/story/if-you-own-a-flat-in-noida-sell-it-and-run-finfluencer-on-up-govts-plans-to-scrap-ground-coverage-limits-494074-2025-09-15)
 
-### 2025-01-18 - Locations - Buy
+#### 2025-01-18 - Locations - Buy
 
 **Requirement -** We are looking for a residential plot, in a 1 hour travelling distance from sector 18. The budget is 2-3 cr. It should be from a reputed developer in a gated already built-up society, where people are already living. Loan should be available for due diligence. Not looking for a farm house. Something like chhattarpur farms, or ansal villas. It can be either be new or resell.
 
-144, advent building
-151 sector
+- 144, advent building
+- 151 sector
+- 146 sector
+- Noida Brokers
+	- +91 95829 72918 - AK Sharma (Good)
+	- +917988462871 - Nikhil Gupta
+	- +91 99110 76869 - Prateek Jain
+	- 092894 84015- aman - green beauty farms
+	- 099731 36791 - sector 156
+	- +917052225080 - property square yard noida
+	- Noida resale, land brokers - +916397655281, +919818377721
+	- Farm house - 99731 36791 - Mahesh Noida
+- [ATS Pristine - Google Maps](https://www.google.com/maps/place/ATS+Pristine,+Pushta+Rd,+Sector+150,+Noida,+Uttar+Pradesh+201310/data=!4m2!3m1!1s0x390cc1933f72bb5f:0x35523950c45896a7?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBjI1LjIuNBgAIJ6dCipsLDk0MjQyNTE3LDk0MjIzMjk5LDk0MjE2NDEzLDk0MjEyNDk2LDk0MjA3Mzk0LDk0MjA3NTA2LDk0MjA4NTA2LDk0MjE3NTIzLDk0MjE4NjUzLDk0MjI5ODM5LDQ3MDg0MzkzLDk0MjEzMjAwQgJJTg%3D%3D)
+- +91 70115 43356 - Ace estate Surendra tiwari, moneytree,
+- ATS sector 22 D, yamuna expressway
+- 95829 72918 - Duplex bungalow rwa sector 135
+- [HD-207, Duplex Villa Sector-135, Noida - Google Maps](https://www.google.com/maps/place/HD-207,+Duplex+Villa+Sector-135,+Noida/@28.4987734,77.3968481,17z/data=!3m1!4b1!4m6!3m5!1s0x390ce9acb76d6c2f:0xccb67a92fb9d54c3!8m2!3d28.4987734!4d77.3968481!16s%2Fg%2F11j7j7m70r?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D)
+- +919973136791 farm house lake view - Residential plot - [Rise Resorts Residency Villa - Google Maps](https://www.google.com/maps/place/Rise+Resorts+Residency+Villa/@28.5800944,77.4317573,17z/data=!3m1!4b1!4m6!3m5!1s0x390cef0301f8bfb7:0xabc2d83d549b4e46!8m2!3d28.5800944!4d77.4317573!16s%2Fg%2F11k547hlpn?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D)
+- Lotus Panache
 
-146 sector
+#### 2025-01-17 - Rent
 
-Noida Brokers
+- +919990086104 sector 26, 3rd floor, 45000, 3 bhk, 2 bathroom
+- 078275 71239 sector 26 rent broker
+- +918077095384 sector 26 (17 jan)
+- Manoj broker - sector 26 - +91 98181 09460 (17 jan)
 
-- +91 95829 72918 - AK Sharma (Good)
-- +917988462871 - Nikhil Gupta
-- +91 99110 76869 - Prateek Jain
-- 092894 84015- aman - green beauty farms
-- 099731 36791 - sector 156
-- +917052225080 - property square yard noida
-- Noida resale, land brokers - +916397655281, +919818377721
-- Farm house - 99731 36791 - Mahesh Noida
-
-[ATS Pristine - Google Maps](https://www.google.com/maps/place/ATS+Pristine,+Pushta+Rd,+Sector+150,+Noida,+Uttar+Pradesh+201310/data=!4m2!3m1!1s0x390cc1933f72bb5f:0x35523950c45896a7?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBjI1LjIuNBgAIJ6dCipsLDk0MjQyNTE3LDk0MjIzMjk5LDk0MjE2NDEzLDk0MjEyNDk2LDk0MjA3Mzk0LDk0MjA3NTA2LDk0MjA4NTA2LDk0MjE3NTIzLDk0MjE4NjUzLDk0MjI5ODM5LDQ3MDg0MzkzLDk0MjEzMjAwQgJJTg%3D%3D)
-
-+91 70115 43356 - Ace estate Surendra tiwari, moneytree,
-ATS sector 22 D, yamuna expressway
-
-95829 72918 - Duplex bungalow rwa sector 135
-[HD-207, Duplex Villa Sector-135, Noida - Google Maps](https://www.google.com/maps/place/HD-207,+Duplex+Villa+Sector-135,+Noida/@28.4987734,77.3968481,17z/data=!3m1!4b1!4m6!3m5!1s0x390ce9acb76d6c2f:0xccb67a92fb9d54c3!8m2!3d28.4987734!4d77.3968481!16s%2Fg%2F11j7j7m70r?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D)
-
-+919973136791 farm house lake view - Residential plot - [Rise Resorts Residency Villa - Google Maps](https://www.google.com/maps/place/Rise+Resorts+Residency+Villa/@28.5800944,77.4317573,17z/data=!3m1!4b1!4m6!3m5!1s0x390cef0301f8bfb7:0xabc2d83d549b4e46!8m2!3d28.5800944!4d77.4317573!16s%2Fg%2F11k547hlpn?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D)
-
-Lotus Panache
-
-### 2025-01-17 - Rent
-
-+919990086104 sector 26, 3rd floor, 45000, 3 bhk, 2 bathroom
-
-078275 71239 sector 26 rent broker
-
-+918077095384 sector 26 (17 jan)
-
-Manoj broker - sector 26 - +91 98181 09460 (17 jan)
-
-### Rates
+#### Rates
 
 1.25 - 1140 sq ft, 6th
 1390 sq ft - 20%, - 3 bhk - 1.35 lower, 3rd, 3.30

@@ -42,6 +42,17 @@ from langchain import OpenAI, SQLDatabase, SQLDatabaseChain
 
 [SQLDatabaseChain](https://h3manth.com/notes/SQLDatabaseChain/)
 
+### Advanced - HLR-SQL
+
+**HLR-SQL, a technique that employs Human-Like Reasoning (HLR) with large language models (LLMs) to translate natural language questions into complex SQL queries**. This approach is designed to handle the multi-table joins and intricate logic often found in real-world enterprise databases, which traditional "text-to-SQL" systems struggle with.
+
+#### Key Concepts of HLR-SQL
+
+- **Iterative Query Refinement**: Unlike conventional methods that generate a single SQL query in one go, HLR-SQL imitates the way a human data analyst works by incrementally composing the final query through a sequence of intermediate steps.
+- **Intermediate Sub-queries**: The system breaks a complex problem into smaller, manageable sub-questions, generates SQL sub-queries for them, executes these, and stores the results and reasoning steps in a "memory".
+- **Self-Correction**: By executing intermediate SQL sub-queries and observing the feedback (results or errors) from the database, the LLM agent can identify and correct mistakes or false assumptions made in earlier steps, thus preventing error propagation.
+- **Autonomy and Human-in-the-Loop**: The HLR-SQL agent can autonomously decide how many iterations are needed to solve a query. It can also be extended to selectively ask a human for help when it encounters significant ambiguity or persistent errors, integrating user feedback into the reasoning process.
+
 ## Generative BI in Telecom
 
 - [Practical use cases of Generative AI in Telecom](https://www.linkedin.com/pulse/practical-use-cases-generative-ai-telecom-n-ix-6s2gf/)

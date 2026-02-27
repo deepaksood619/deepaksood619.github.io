@@ -123,6 +123,7 @@ Examples
 - [GraphRAG: Unlocking LLM discovery on narrative private data - Microsoft Research](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
 - [Free downloadable Neo4j presentation materials - Developer Guides](https://neo4j.com/developer/download-materials/)
 - [Neo4j Introduction Workshop for Partners | PPT](https://www.slideshare.net/slideshow/neo4j-introduction-workshop-for-partners/274021584)
+- Others - [FalkorDB Graph Database with GraphRAG for AI/ML and GenAI](https://www.falkordb.com/)
 
 ## Network databases
 

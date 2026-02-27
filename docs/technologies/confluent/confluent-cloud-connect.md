@@ -230,7 +230,7 @@
 
 ### What V2 unlocks?
 
-**Elasticsearch V2 removes version and deployment constraints that existed in V1:**  
+**Elasticsearch V2 removes version and deployment constraints that existed in V1:**
 
 - **Elasticsearch 9.x Support:** Compatible with Elasticsearch 9.x servers.
 - **Elasticsearch Serverless Support:** Supports integration with Elasticsearch Serverless deployments.
@@ -238,7 +238,7 @@
 - **API Key Authentication:** Supports secure authentication using Elasticsearch API keys.
 - **Alias Support:** Enables writing to Elasticsearch index aliases for seamless index rollover and management.
 
-### Other Features of Elasticsearch V2 Sink:  
+### Other Features of Elasticsearch V2 Sink
 
 - **Exactly-once Delivery:** Guarantees records are delivered exactly once to Elasticsearch indexes or data streams, preventing duplicates.
 - **Private Networking:** Supports private connectivity to Elasticsearch clusters across AWS, Azure, and GCP.

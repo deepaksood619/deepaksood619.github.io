@@ -76,8 +76,38 @@ A CRN is a valid URI having an "authority" of confluent.cloud or a self-managed 
 
 [Confluent Cloud API Reference Documentation](https://docs.confluent.io/cloud/current/api.html#section/Identifiers-and-URLs/Confluent-Resource-Names-(CRNs))
 
+## Topic Configurations
+
+**Editable Fields**
+
+- cleanup_policy
+- confluent_topic_type
+- delete_retention_ms
+- max_compaction_lag_ms
+- max_message_bytes
+- message_timestamp_after_max_ms
+- message_timestamp_before_max_ms
+- message_timestamp_difference_max_ms
+- message_timestamp_type
+- min_compaction_lag_ms
+- min_insync_replicas
+- retention_bytes
+- retention_ms
+- segment_bytes
+- segment_ms
+
+[Configuration Reference for Topics in Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/topics/manage.html)
+
+## Releases
+
+[Release Notes for Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/release-notes/index.html)
+
+- **February 20, 2026 -** Queues for Kafka provides queue semantics and elastic consumer scaling natively to Kafka through [KIP-932](https://cwiki.apache.org/confluence/display/KAFKA/KIP-932%3A+Queues+for+Kafka) share groups and share consumers. This feature enables organizations to consolidate their messaging infrastructure while gaining elastic consumer scaling and per-message processing controls.
+	- Share groups and share consumers are only available on Dedicated and Enterprise clusters.
+- **February 13, 2026 -** Confluent Cloud now supports ingress gateways for private connections with your virtual private clouds (VPCs) in AWS. With a gateway, you can connect your VPC to multiple Confluent Cloud environments through AWS PrivateLink. To establish a connection, you register an interface VPC endpoint with a gateway access point.
+	- Gateways and access points are now the supported resources for private connections between AWS and Confluent Cloud. They replace PrivateLink Attachment (PLATT) resources and PLATT connections. Support for PLATT will end in a future release.
+
 ## Links
 
 - [Apache Kafka 101: Confluent's Flagship Course on Apache Kafka® Fundamentals ft. Tim Berglund - YouTube](https://www.youtube.com/playlist?list=PLf38f5LhQtheK16nwnCYFqH23WUUvZfSb)
 	- [What You'll Learn in This Apache Kafka® 101 Course](https://developer.confluent.io/courses/apache-kafka/events/)
-- [Release Notes for Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/release-notes/index.html)

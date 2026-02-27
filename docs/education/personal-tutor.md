@@ -195,6 +195,7 @@ TODO - 2025-03-07, 2025-04-03
 - [Seekho: Short Learning Videos on Tech, Money, Personal Growth, & More \| Seekho](https://seekho.in/)
 - [Certified AI & Machine Learning Courses \| Rabbitt Learning](https://learning.rabbitt.ai/)
 - [Unstop: Connecting talent, colleges, & recruiters!](https://unstop.com/)
+- [AI Chat - Your Personal AI Tutor \| Knowunity](https://knowunity.com/ai/chat)
 
 ### New Age School
 

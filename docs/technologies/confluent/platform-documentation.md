@@ -426,7 +426,7 @@
     - [USM Agent Operations](https://docs.confluent.io/platform/current/usm/agent-sizing.html)
     - [Schema Registry in Hybrid setup](https://docs.confluent.io/platform/current/usm/usm-schema.html)
 - [Monitor with Control Center](https://docs.confluent.io/control-center/current/)
-- [Monitor](https://docs.confluent.io/platform/current/monitor/index.html)
+- **[Monitor](https://docs.confluent.io/platform/current/monitor/index.html)**
     - [Logging](https://docs.confluent.io/platform/current/monitor/cp-logging.html)
     - [Monitor with JMX](https://docs.confluent.io/platform/current/kafka/monitoring.html)
     - [Monitor with Metrics Reporter](https://docs.confluent.io/platform/current/monitor/metrics-reporter.html)

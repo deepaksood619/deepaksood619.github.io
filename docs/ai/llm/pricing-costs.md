@@ -158,6 +158,7 @@ Hosting Llama 3 Billion parameters or similar other multimodal  and used the exp
 - Use Smaller Models for Development
 - Leverage Open-Source Optimization Tools - Use libraries that optimize GPU usage for inference.
 - Consider Using Managed Services
+- [How Knowunity used distil labs to cut their LLM bill by 50%](https://www.distillabs.ai/blog/how-knowunity-used-distil-labs-cut-llm-bill-50-percent)
 
 ## Links
 

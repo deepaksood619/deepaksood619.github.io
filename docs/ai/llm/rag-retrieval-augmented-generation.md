@@ -93,7 +93,13 @@ Contextual Retrieval enhances each chunk by adding specific, explanatory context
 - [GraphRAG: New tool for complex data discovery now on GitHub - Microsoft Research](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/)
 - [Neo4j | 🦜️🔗 LangChain](https://python.langchain.com/docs/integrations/graphs/neo4j_cypher/)
 	- langchain cypher qa chain
-- [YouTube](https://youtu.be/Z_4rohX4Ki8)
+- [What is Neural Search? Nils Reimers - Sentence Transformers and Embedding Evaluation - YouTube](https://youtu.be/Z_4rohX4Ki8)
+
+**Databases**
+
+- Neo4j
+- [FalkorDB Graph Database with GraphRAG for AI/ML and GenAI](https://www.falkordb.com/)
+	- [GitHub - FalkorDB/FalkorDB: A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).](https://github.com/FalkorDB/FalkorDB)
 
 ![Graph RAG](../../media/Screenshot%202024-12-27%20at%2011.34.53%20AM.jpg)
 

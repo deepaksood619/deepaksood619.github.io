@@ -143,3 +143,5 @@ Use money to buy peace. And, use your peace to make (fewer but) better strategic
 - [Education Loan: Part 2 – The Two Faces of the Degree](https://freefincal.com/education-loan-part-2-the-two-faces-of-the-degree/)
 - [If you want to build wealth, don't wait for the right time to invest!](https://freefincal.com/if-you-want-to-build-wealth-dont-wait-for-the-right-time-to-invest/)
 - [The Free Advice Trap: Why We Hide from Financial Planners but Hug Insurance Agents](https://freefincal.com/the-free-advice-trap-why-we-hide-from-financial-planners-but-hug-insurance-agents/)
+- [How a 41-Year-Old Single Woman Built 30% of Her Retirement Corpus with 50K Freelance Income](https://freefincal.com/how-a-41-year-old-single-woman-built-30-of-her-retirement-corpus-with-50k-freelance-income/)
+- [Why Your Financial Plan "Failed" (And Why You Still Need One)](https://freefincal.com/why-your-financial-plan-failed-and-why-you-still-need-one/)

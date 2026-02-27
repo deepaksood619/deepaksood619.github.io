@@ -349,6 +349,13 @@ https://engineering.linkedin.com/blog/2019/03/pinot-joins-apache-incubator
 
 [Building Latency Sensitive User Facing Analytics via Apache Pinot - YouTube](https://www.youtube.com/watch?v=JV0WxBwJqKE)
 
+### Polaris
+
+- [Apache Polaris Graduates to Top-Level Project](https://www.snowflake.com/en/blog/apache-polaris-top-level-project/)
+- [GitHub - apache/polaris: Apache Polaris, the interoperable, open source catalog for Apache Iceberg](https://github.com/apache/polaris)
+- [Apache Polaris](https://polaris.apache.org/)
+- [What does Polaris mean for Apache Iceberg? : r/dataengineering](https://www.reddit.com/r/dataengineering/comments/1ekzwas/what_does_polaris_mean_for_apache_iceberg/)
+
 ## Q
 
 - [Qpid](http://qpid.apache.org/)

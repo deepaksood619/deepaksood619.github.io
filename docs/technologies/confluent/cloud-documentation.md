@@ -264,19 +264,6 @@
     - [Create a Google Cloud Provider Integration](https://docs.confluent.io/cloud/current/integrations/provider-integrations/create-provider-integration-gc.html)
     - [Manage a Provider Integration](https://docs.confluent.io/cloud/current/integrations/provider-integrations/manage-provider-integration.html)
 
-## [Log and Monitor](https://docs.confluent.io/cloud/current/monitoring/index.html)
-
-- [Metrics](https://docs.confluent.io/cloud/current/monitoring/metrics-api.html)
-- [Metrics Integrations](https://docs.confluent.io/cloud/current/monitoring/third-party-integration.html)
-- [Manage Notifications](https://docs.confluent.io/cloud/current/monitoring/configure-notifications.html)
-- [Monitor Consumer Lag](https://docs.confluent.io/cloud/current/monitoring/monitor-lag.html)
-- [Monitor Dedicated Clusters](https://docs.confluent.io/cloud/current/monitoring/index-dedicated-cluster-monitor.html)
-    - [Monitor Cluster Load](https://docs.confluent.io/cloud/current/monitoring/cluster-load-metric.html)
-    - [Manage Performance and Expansion](https://docs.confluent.io/cloud/current/monitoring/monitor-performance.html)
-    - [Track Usage by Team](https://docs.confluent.io/cloud/current/monitoring/metrics-by-principal.html)
-- [Observability for Kafka Clients to Confluent Cloud](https://docs.confluent.io/cloud/current/monitoring/ccloud-observability.html)
-- [FAQ](https://docs.confluent.io/cloud/current/monitoring/monitor-faq.html)
-
 ## [Manage Billing](https://docs.confluent.io/cloud/current/billing/index.html)
 
 - [Overview](https://docs.confluent.io/cloud/current/billing/overview.html)

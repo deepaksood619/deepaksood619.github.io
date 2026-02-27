@@ -19,53 +19,72 @@
 	- Generate a poem in the style of x
 - **Dialog-tuned language models** are trained to have a dialog by predicting the next response. Think of chatbots or conversational AI.
 
-## Models
+## Large Language Models (LLMs)
 
-- [GitHub - Hannibal046/Awesome-LLM: Awesome-LLM: a curated list of Large Language Model](https://github.com/Hannibal046/Awesome-LLM)
-- ChatGPT / OpenAI
-	- [Introducing gpt-oss \| OpenAI](https://openai.com/index/introducing-gpt-oss/)
-		- [GPT-OSS - OpenAI's open source model fixes + long context support is here! 🦥 1. Fixed float16 infinite losses (\>65504 overflows) 2. SWA=128 Flex default uses 129 tokens (extra 1) 3. Fixed MXFP4… \| Daniel Han \| 42 comments](https://www.linkedin.com/posts/danielhanchen_gpt-oss-openais-open-source-model-fixes-activity-7366886695532756992-VyFL)
-		- [Long Context gpt-oss Training \| Unsloth Documentation](https://docs.unsloth.ai/new/gpt-oss-how-to-run-and-fine-tune/long-context-gpt-oss-training)
-	- GPT-5
-		- [Frontend coding with GPT-5](https://cookbook.openai.com/examples/gpt-5/gpt-5_frontend)
-		- [GPT-5 prompting guide](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide)
-    - [GPT-4o - by Bugra Akyildiz - MLOps Newsletter](https://mlops.substack.com/p/gpt-4o?)
-    - OpenAI o1 - [OpenAI o1 Hub | OpenAI](https://openai.com/o1/)
-    - [OpenAI’s new "deep-thinking" o1 model crushes coding benchmarks - YouTube](https://www.youtube.com/watch?v=6xlPJiNpCVw)
-    - [12 Days of OpenAI | OpenAI](https://openai.com/12-days/)
-    - [Model Spec (2025/04/11)](https://model-spec.openai.com/2025-04-11.html)
-        - [Sycophancy in GPT-4o: What happened and what we’re doing about it \| OpenAI](https://openai.com/index/sycophancy-in-gpt-4o/)
-    - [Is it possible to call external API in the OpenAI playground? - API - OpenAI Developer Community](https://community.openai.com/t/is-it-possible-to-call-external-api-in-the-openai-playground/1098018/6) - External Functions
-    - [Here are 3 Major Announcements from OpenAI DevDay - YouTube](https://www.youtube.com/shorts/6u-snbY_CXs)
-    - [Introducing ChatGPT Atlas - YouTube](https://www.youtube.com/live/8UWKxJbjriY)
-    - [Introducing ChatGPT Health \| OpenAI](https://openai.com/index/introducing-chatgpt-health/)
-- [Grok \| xAI](https://x.ai/grok)
-- Vicuna
-- Bloom
-- [PartyRock](https://partyrock.aws/)
+### ChatGPT / OpenAI
+
+- [Introducing gpt-oss \| OpenAI](https://openai.com/index/introducing-gpt-oss/)
+	- [GPT-OSS - OpenAI's open source model fixes + long context support is here! 🦥 1. Fixed float16 infinite losses (\>65504 overflows) 2. SWA=128 Flex default uses 129 tokens (extra 1) 3. Fixed MXFP4… \| Daniel Han \| 42 comments](https://www.linkedin.com/posts/danielhanchen_gpt-oss-openais-open-source-model-fixes-activity-7366886695532756992-VyFL)
+	- [Long Context gpt-oss Training \| Unsloth Documentation](https://docs.unsloth.ai/new/gpt-oss-how-to-run-and-fine-tune/long-context-gpt-oss-training)
+- GPT-5
+	- [Frontend coding with GPT-5](https://cookbook.openai.com/examples/gpt-5/gpt-5_frontend)
+	- [GPT-5 prompting guide](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide)
+- [GPT-4o - by Bugra Akyildiz - MLOps Newsletter](https://mlops.substack.com/p/gpt-4o?)
+- OpenAI o1 - [OpenAI o1 Hub | OpenAI](https://openai.com/o1/)
+- [OpenAI’s new "deep-thinking" o1 model crushes coding benchmarks - YouTube](https://www.youtube.com/watch?v=6xlPJiNpCVw)
+- [12 Days of OpenAI | OpenAI](https://openai.com/12-days/)
+- [Model Spec (2025/04/11)](https://model-spec.openai.com/2025-04-11.html)
+	- [Sycophancy in GPT-4o: What happened and what we’re doing about it \| OpenAI](https://openai.com/index/sycophancy-in-gpt-4o/)
+- [Is it possible to call external API in the OpenAI playground? - API - OpenAI Developer Community](https://community.openai.com/t/is-it-possible-to-call-external-api-in-the-openai-playground/1098018/6) - External Functions
+- [Here are 3 Major Announcements from OpenAI DevDay - YouTube](https://www.youtube.com/shorts/6u-snbY_CXs)
+- [Introducing ChatGPT Atlas - YouTube](https://www.youtube.com/live/8UWKxJbjriY)
+- [Introducing ChatGPT Health \| OpenAI](https://openai.com/index/introducing-chatgpt-health/)
+
+### Claude
+
 - Claude 2.1 from antropic with a context window of. 200k tokens
-    - [Introducing Claude 3.5 Sonnet - Anthropic](https://www.anthropic.com/news/claude-3-5-sonnet)
-    - Gemini (1.5 Pro, 1.5 Flash)
-        - Gemini 2.0 Flash (free)
-			- Token rate: 1,000,000 TPM
-			- Requests per minute: ~15
-			- daily limit also for free requests = 200 per day
-    - [Advancing medical AI with Med-Gemini](https://research.google/blog/advancing-medical-ai-with-med-gemini/)
-    - [Googles NEW "Med-Gemini" SURPRISES Doctors! (Googles New Medical AI) - YouTube](https://www.youtube.com/watch?v=SZS5WD1du3A&ab_channel=TheAIGRID)
-    - [Google Gemini - YouTube](https://www.youtube.com/playlist?list=PLZoTAELRMXVNbDmGZlcgCA3a8mRQp5axb)
+- [Introducing Claude 3.5 Sonnet - Anthropic](https://www.anthropic.com/news/claude-3-5-sonnet)
+- [anthropic.com/news/claude-opus-4-6](https://www.anthropic.com/news/claude-opus-4-6)
+	- [Claude Opus 4.6: The Biggest AI Jump I've Covered--It's Not Close. (Here's What You Need to Know) - YouTube](https://www.youtube.com/watch?v=JKk77rzOL34)
+	- [Opus 4.6 is really a goated all-around model, the best since GPT-4 in my opinion : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1r61zoe/opus_46_is_really_a_goated_allaround_model_the/)
+	- [What's new in Claude 4.6 - Claude API Docs](https://platform.claude.com/docs/en/about-claude/models/whats-new-claude-4-6)
+	- [Claude Opus 4.6 Review: Is This the Best AI for Writing Books in 2026? - YouTube](https://www.youtube.com/watch?v=wYUBkgTHBEg)
+	- [Sonnet 4.6 Is Here—And It’s a Beast at Coding - YouTube](https://www.youtube.com/watch?v=9XFY8tB_8ZQ)
+
+### Gemini
+
+- Gemini (1.5 Pro, 1.5 Flash)
+	- Gemini 2.0 Flash (free)
+		- Token rate: 1,000,000 TPM
+		- Requests per minute: ~15
+		- daily limit also for free requests = 200 per day
+- [Advancing medical AI with Med-Gemini](https://research.google/blog/advancing-medical-ai-with-med-gemini/)
+- [Googles NEW "Med-Gemini" SURPRISES Doctors! (Googles New Medical AI) - YouTube](https://www.youtube.com/watch?v=SZS5WD1du3A&ab_channel=TheAIGRID)
+- [Google Gemini - YouTube](https://www.youtube.com/playlist?list=PLZoTAELRMXVNbDmGZlcgCA3a8mRQp5axb)
 - [Gemma: Google introduces new state-of-the-art open models](https://blog.google/technology/developers/gemma-open-models/) (2B, 7B parameters)
     - [Smaller, Safer, More Transparent: Advancing Responsible AI with Gemma - Google Developers Blog](https://developers.googleblog.com/en/smaller-safer-more-transparent-advancing-responsible-ai-with-gemma/)
     - Peligemma - [Google's New PaliGemma-Open Vision Language Model - YouTube](https://www.youtube.com/watch?v=un0SjUnHvvE)
     - VLM - Vision Language Model
     - [Introducing the Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
+
+### Llama
+
 - [Meta Llama 3](https://llama.meta.com/llama3/)
-    - [Introducing Meta Llama 3: The most capable openly available LLM to date](https://ai.meta.com/blog/meta-llama-3/)
-    - [Introducing Llama 3.1: Our most capable models to date](https://ai.meta.com/blog/meta-llama-3-1/) - 8B, 70B, 405B
-    - [Meta AI](https://www.meta.ai/)
-    - [Llama 3.1](https://llama.meta.com/)
-    - 16,000 H100 GPUs = 16000 * $35000 = $560 million
-    - [Llama 3 cost more than $720 million to train : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1cyxdgc/llama_3_cost_more_than_720_million_to_train/)
-    - [Llama 3.1 launched and it is gooooood! - by Bugra Akyildiz](https://mlops.substack.com/p/llama-31-launched-and-it-is-gooooood)
+- [Introducing Meta Llama 3: The most capable openly available LLM to date](https://ai.meta.com/blog/meta-llama-3/)
+- [Introducing Llama 3.1: Our most capable models to date](https://ai.meta.com/blog/meta-llama-3-1/) - 8B, 70B, 405B
+- [Meta AI](https://www.meta.ai/)
+- [Llama 3.1](https://llama.meta.com/)
+- 16,000 H100 GPUs = 16000 * $35000 = $560 million
+- [Llama 3 cost more than $720 million to train : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1cyxdgc/llama_3_cost_more_than_720_million_to_train/)
+- [Llama 3.1 launched and it is gooooood! - by Bugra Akyildiz](https://mlops.substack.com/p/llama-31-launched-and-it-is-gooooood)
+
+### Others
+
+- [GitHub - Hannibal046/Awesome-LLM: Awesome-LLM: a curated list of Large Language Model](https://github.com/Hannibal046/Awesome-LLM)
+- [Grok \| xAI](https://x.ai/grok)
+- Vicuna
+- Bloom
+- [PartyRock](https://partyrock.aws/)
 - [SQLCoder-2–7b: How to Reliably Query Data in Natural Language, on Consumer Hardware | by Sjoerd Tiemensma | Use AI | Medium](https://medium.com/use-ai/sqlcoder-2-7b-how-to-reliably-query-data-in-natural-language-on-consumer-hardware-cb352a3cf3ab)
 - [Improve performance of Falcon models with Amazon SageMaker \| AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/improve-performance-of-falcon-models-with-amazon-sagemaker/)
 - [GitHub - unslothai/notebooks: Fine-tune LLMs for free with guided Notebooks on Google Colab, Kaggle, and more.](https://github.com/unslothai/notebooks/)
@@ -74,24 +93,6 @@
 - [Command Models: The AI-Powered Solution for the Enterprise](https://cohere.com/command)
 - [Kimi K2: Open Agentic Intelligence](https://moonshotai.github.io/Kimi-K2/)
 - [Getting started - Docling](https://docling-project.github.io/docling/getting_started/)
-
-| Model              | Parameters | Size  |
-| ------------------ | ---------- | ----- |
-| Llama 2            | 7B         | 3.8GB |
-| Mistral            | 7B         | 4.1GB |
-| Phi-2              | 2.7B       | 1.7GB |
-| Neural Chat        | 7B         | 4.1GB |
-| Starling           | 7B         | 4.1GB |
-| Code Llama         | 7B         | 3.8GB |
-| [Llama 2 Uncensored](https://huggingface.co/georgesung/llama2_7b_chat_uncensored) | 7B         | 3.8GB |
-| Llama 2 13B        | 13B        | 7.3GB |
-| Llama 2 70B        | 70B        | 39GB  |
-| Orca Mini          | 3B         | 1.9GB |
-| Vicuna             | 7B         | 3.8GB |
-| LLaVA              | 7B         | 4.5GB |
-
-Note: You should have at least 8 GB of RAM available to run the 7B models, 16 GB to run the 13B models, and 32 GB to run the 33B models.
-
 - [dolphin-mixtral-8x7b](https://erichartford.com/dolphin-25-mixtral-8x7b)
 - [Ollama Library](https://ollama.ai/library)
 - [Uncensored Models](https://erichartford.com/uncensored-models)
@@ -111,7 +112,24 @@ Note: You should have at least 8 GB of RAM available to run the 7B models, 16 GB
 - [snorTTS Indic V0](https://snorbyte.com/snortts-indic-v0)
 	- [Train a SoTA Multilingual Indic Text-to-Speech (TTS) Model for $6 in Less Than Three Hours](https://snorbyte.com/blog/train-sota-multilingual-indic-tts)
 
-#### [DeepSeek](https://www.deepseek.com/)
+| Model              | Parameters | Size  |
+| ------------------ | ---------- | ----- |
+| Llama 2            | 7B         | 3.8GB |
+| Mistral            | 7B         | 4.1GB |
+| Phi-2              | 2.7B       | 1.7GB |
+| Neural Chat        | 7B         | 4.1GB |
+| Starling           | 7B         | 4.1GB |
+| Code Llama         | 7B         | 3.8GB |
+| [Llama 2 Uncensored](https://huggingface.co/georgesung/llama2_7b_chat_uncensored) | 7B         | 3.8GB |
+| Llama 2 13B        | 13B        | 7.3GB |
+| Llama 2 70B        | 70B        | 39GB  |
+| Orca Mini          | 3B         | 1.9GB |
+| Vicuna             | 7B         | 3.8GB |
+| LLaVA              | 7B         | 4.5GB |
+
+Note: You should have at least 8 GB of RAM available to run the 7B models, 16 GB to run the 13B models, and 32 GB to run the 33B models.
+
+### [DeepSeek](https://www.deepseek.com/)
 
 [unsloth/DeepSeek-R1-0528-Qwen3-8B-GGUF · Hugging Face](https://huggingface.co/unsloth/DeepSeek-R1-0528-Qwen3-8B-GGUF)
 
@@ -163,7 +181,7 @@ So... what's the deal with TTMs?
 - [Paper page - Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series](https://huggingface.co/papers/2401.03955)
 - [Granite Time Series Models - a ibm-granite Collection](https://huggingface.co/collections/ibm-granite/granite-time-series-models-663a90c6a2da73482bce3dc6)
 
-### Small Language Models (SLMs / SLM)
+## Small Language Models (SLMs / SLM)
 
 [Phi-2: The surprising power of small language models - Microsoft Research](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
 
@@ -186,10 +204,9 @@ So... what's the deal with TTMs?
 - The smarter architecture is clear. Default to SLMs. Call an LLM only when absolutely necessary.
 - The future of AI agents looks like is modular systems built on SLMs.
 
-### ImageGen
+## ImageGen
 
-[Introducing our latest image generation model in the API \| OpenAI](https://openai.com/index/image-generation-api/)
-
+- [Introducing our latest image generation model in the API \| OpenAI](https://openai.com/index/image-generation-api/)
 - gpt-image-1
 - [GitHub - harry0703/MoneyPrinterTurbo: 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.](https://github.com/harry0703/MoneyPrinterTurbo)
 - [Google Vids: AI-powered video creator and editor \| Google Workspace](https://workspace.google.com/products/vids/)
@@ -232,12 +249,9 @@ So... what's the deal with TTMs?
 
 [10 Best Alternatives To ChatGPT: Developer Edition - Semaphore](https://semaphoreci.com/blog/chatgpt-alternatives)
 
-## GPTs
-
-[Explore GPTs](https://chatgpt.com/gpts)
-
 ## Links
 
+- [Explore GPTs](https://chatgpt.com/gpts)
 - [vector-embeddings](ai/ml-algorithms/vector-embeddings.md)
 - [Should You Use Open Source Large Language Models? - YouTube](https://www.youtube.com/watch?v=y9k-U9AuDeM&ab_channel=IBMTechnology)
 - [GitHub - nichtdax/awesome-totally-open-chatgpt: A list of totally open alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)

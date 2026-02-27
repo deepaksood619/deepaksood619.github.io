@@ -1174,4 +1174,8 @@ Not everything that counts can be counted, and not everything that can be counte
 
 If you know how quickly people forget the dead, You will stop living to impress people. -- Chistopher Walken
 
+"Mirror is my Best Friend, Because when I cry it never laughs." -- Charlie Chaplin
+
+Never respond to insults. The main purpose of people who insult you is to make you act without thinking. Frustrate them with your silence and Shock them with your success.
+
 ## End

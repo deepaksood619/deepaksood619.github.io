@@ -53,4 +53,4 @@ dbutils.fs.rm("s3://<path_to_table>", True)
 
 ## Links
 
-[YouTube](https://www.youtube.com/watch?v=KjtYgZDsY7E)
+[Advancing Spark - Lakehouse Observability with Unity Catalog System Tables - YouTube](https://www.youtube.com/watch?v=KjtYgZDsY7E)

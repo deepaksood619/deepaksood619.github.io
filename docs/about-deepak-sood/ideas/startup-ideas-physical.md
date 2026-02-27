@@ -229,6 +229,7 @@ Airline can be transporter of fuels if passenger occupancy is lower, i.e. based 
 - [Safety Impact](https://waymo.com/safety/impact/)
 - [Elon Musk wants to dominate robotaxis—first he needs to catch up to Waymo](https://www.understandingai.org/p/elon-musk-wants-to-dominate-robotaxisfirst)
 - [Waymo and Tesla’s self-driving systems are more similar than people think](https://www.understandingai.org/p/waymo-and-teslas-self-driving-systems)
+- [Robotaxis offer a path toward smarter and fairer urban mobility - Big Think](https://bigthink.com/books/robotaxis-urban-mobility/)
 
 ## Others
 
