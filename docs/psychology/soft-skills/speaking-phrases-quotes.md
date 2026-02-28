@@ -44,6 +44,7 @@ Turning action words into identity words (verbs into nouns) is effective because
 - What if you stopped trying to think your way through it and started to act your way through it?
 - Thanks for extending the helping hand.. We are evaluating our options and we will get back to you soon.
 - You have been in my thoughts and prayers.
+- Get Creative
 
 ## How to give your manager feedback
 

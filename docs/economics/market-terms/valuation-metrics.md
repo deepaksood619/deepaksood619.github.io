@@ -164,7 +164,7 @@ https://en.wikipedia.org/wiki/Graham_number
 
 [Valuation](https://www.youtube.com/playlist?list=PLUkh9m2BorqnKWu0g5ZUps_CbQ-JGtbI9)
 
-Value Driver
+**Value Driver**
 
 1. Revenue Growth
 2. Operating Margin

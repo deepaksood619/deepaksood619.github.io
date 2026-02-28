@@ -4,6 +4,11 @@
 
 [Global Energy Use per Capita | Tableau Public](https://public.tableau.com/app/profile/serena.purslow/viz/MOM23Week33-GlobalEnergyUseperCapita/MOM23W33)
 
+## Thoughs
+
+- What is better for energy independence, live in hot climate with solar panel and use AC
+- Or live in cold place and use geothermal system+ solar panel
+
 ## Nuclear Fission
 
 ### Core Catcher

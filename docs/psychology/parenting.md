@@ -278,7 +278,7 @@ Why kicking out children after 18 years is important, let's say you are very wea
 
 ### Links
 
-- [Games - Kids](knowledge/games/kids.md)
+- [Games - Kids](knowledge/games/kid-games.md)
 - [Colin Powell: Kids need structure | TED - YouTube](https://www.youtube.com/watch?v=NhYnouvrG_8&ab_channel=TED)
 - [Indian Parents , Their Pravachan And An Important Parenting Tip - YouTube](https://www.youtube.com/watch?v=Sjttt-F2pXE)
 - [The Single Most Important Parenting Strategy - Repair | Becky Kennedy | TED - YouTube](https://www.youtube.com/watch?v=PHpPtdk9rco)

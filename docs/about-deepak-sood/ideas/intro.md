@@ -33,11 +33,9 @@ https://dev.to/kennedyrose/validating-your-saas-idea-gee
 
 ## Thoughts
 
-Most important thing for a country/economy/world - **Education**
-
-Impact - education+ food + living
-
-Impact - technological innovation
+- Most important thing for a country/economy/world - **Education**
+- Impact - education + food + living
+- Impact - technological innovation
 
 ## Future / Future predictions
 

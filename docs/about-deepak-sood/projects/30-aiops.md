@@ -43,6 +43,7 @@ or epbf
 ## Prompt
 
 Create a detailed proposal for building an advanced GenAI observability (AIOps System) and auto remediation system for Airtel Africa, a Telecom giant. The system will consume events from disparate sources like
+
 - Database alerts
 - Kubernetes events
 - Middleware events

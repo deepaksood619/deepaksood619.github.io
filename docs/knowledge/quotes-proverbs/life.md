@@ -1178,4 +1178,6 @@ If you know how quickly people forget the dead, You will stop living to impress 
 
 Never respond to insults. The main purpose of people who insult you is to make you act without thinking. Frustrate them with your silence and Shock them with your success.
 
+To be happy you must eliminate two things: the fear of a bad future and the memory of a bad past.
+
 ## End

@@ -95,6 +95,21 @@ You can also ask me questions about your editor selection by starting an inline 
 
 [Claude Opus 4.5 vs Gemini 3, Nano Banana Pro and Google Antigravity IDE: Nov 2025 Mega Review](https://www.thetoolnerd.com/p/claude-opus-45-vs-gemini-3-nano-banana-anti-gravity)
 
+## Claude Code
+
+```bash
+brew install --cask claude-code
+
+```
+
+[Claude Code: Deep Coding at Terminal Velocity \\ Anthropic](https://www.anthropic.com/claude-code)
+
+- [I Tested Claude Code for a Week - Here's What I Found](https://www.thetoolnerd.com/p/i-tested-claude-code-for-a-week)
+- [GitHub - thedotmack/claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.](https://github.com/thedotmack/claude-mem)
+- [ccusage](https://ccusage.com/)
+- [I Spent 2000 Hours Coding With LLMs in 2025. Here are my Favorite Claude Code Usage Patterns : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1q3t579/comment/nxndpgn/)
+	- [Advanced Claude Code Patterns That Move the Needle - Google Docs](https://docs.google.com/document/d/1agzmSskXcdMgJz_cf1KlWdy1kfY3n_XEhHrLU_ESTRk/edit?usp=sharing)
+
 ## Others
 
 - Tabnine
@@ -113,12 +128,6 @@ You can also ask me questions about your editor selection by starting an inline 
 - [Galileo AI · Copilot for interface design](https://www.usegalileo.ai/)
 - [GitHub - openai/codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
 - [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli)
-- [Claude Code: Deep Coding at Terminal Velocity \\ Anthropic](https://www.anthropic.com/claude-code)
-	- [I Tested Claude Code for a Week - Here's What I Found](https://www.thetoolnerd.com/p/i-tested-claude-code-for-a-week)
-	- [GitHub - thedotmack/claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.](https://github.com/thedotmack/claude-mem)
-	- [ccusage](https://ccusage.com/)
-	- [I Spent 2000 Hours Coding With LLMs in 2025. Here are my Favorite Claude Code Usage Patterns : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1q3t579/comment/nxndpgn/)
-		- [Advanced Claude Code Patterns That Move the Needle - Google Docs](https://docs.google.com/document/d/1agzmSskXcdMgJz_cf1KlWdy1kfY3n_XEhHrLU_ESTRk/edit?usp=sharing)
 - [Warp: The Agentic Development Environment](https://www.warp.dev/)
 - [Kilo Code - Open source AI agent VS Code extension](https://kilocode.ai/)
 - [GitHub - Pythagora-io/gpt-pilot: The first real AI developer](https://github.com/Pythagora-io/gpt-pilot)

@@ -248,6 +248,9 @@ So for a long haul international flight you can take middle aisle with aisle sid
 - Monitor Arm for desk
 - [DisplayPort vs HDMI: What To Know And Which Should You Use? - YouTube](https://www.youtube.com/watch?v=c4LqUDfsj6A)
 - [Best Monitor for Programming \| BenQ India](https://www.benq.com/en-in/campaign/best-coding-monitor-for-programmers.html)
+- Ergonomic Electric Standing Desk
+	- Reset - Hold down both up + down button till the bottom
+	- The desk may lower, rise slightly, and stop (or simply click/beep).
 
 ## RO / Water Purifier
 

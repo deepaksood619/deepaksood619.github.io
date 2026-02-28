@@ -112,20 +112,20 @@
 - [snorTTS Indic V0](https://snorbyte.com/snortts-indic-v0)
 	- [Train a SoTA Multilingual Indic Text-to-Speech (TTS) Model for $6 in Less Than Three Hours](https://snorbyte.com/blog/train-sota-multilingual-indic-tts)
 
-| Model              | Parameters | Size  |
-| ------------------ | ---------- | ----- |
-| Llama 2            | 7B         | 3.8GB |
-| Mistral            | 7B         | 4.1GB |
-| Phi-2              | 2.7B       | 1.7GB |
-| Neural Chat        | 7B         | 4.1GB |
-| Starling           | 7B         | 4.1GB |
-| Code Llama         | 7B         | 3.8GB |
+| Model                                                                             | Parameters | Size  |
+| --------------------------------------------------------------------------------- | ---------- | ----- |
+| Llama 2                                                                           | 7B         | 3.8GB |
+| Mistral                                                                           | 7B         | 4.1GB |
+| Phi-2                                                                             | 2.7B       | 1.7GB |
+| Neural Chat                                                                       | 7B         | 4.1GB |
+| Starling                                                                          | 7B         | 4.1GB |
+| Code Llama                                                                        | 7B         | 3.8GB |
 | [Llama 2 Uncensored](https://huggingface.co/georgesung/llama2_7b_chat_uncensored) | 7B         | 3.8GB |
-| Llama 2 13B        | 13B        | 7.3GB |
-| Llama 2 70B        | 70B        | 39GB  |
-| Orca Mini          | 3B         | 1.9GB |
-| Vicuna             | 7B         | 3.8GB |
-| LLaVA              | 7B         | 4.5GB |
+| Llama 2 13B                                                                       | 13B        | 7.3GB |
+| Llama 2 70B                                                                       | 70B        | 39GB  |
+| Orca Mini                                                                         | 3B         | 1.9GB |
+| Vicuna                                                                            | 7B         | 3.8GB |
+| LLaVA                                                                             | 7B         | 4.5GB |
 
 Note: You should have at least 8 GB of RAM available to run the 7B models, 16 GB to run the 13B models, and 32 GB to run the 33B models.
 
@@ -203,6 +203,7 @@ So... what's the deal with TTMs?
 	- Perfect fit for structured outputs like JSON or Python.
 - The smarter architecture is clear. Default to SLMs. Call an LLM only when absolutely necessary.
 - The future of AI agents looks like is modular systems built on SLMs.
+- SLM's are pretty bad for reasoning. Qwen 2.5 0.5B parameter
 
 ## ImageGen
 

@@ -1,5 +1,10 @@
 # Family Games / Gifts
 
+- [couple-activities](knowledge/games/couple-activities.md)
+- [kid-games](knowledge/games/kid-games.md)
+
+## Games
+
 - Origami and race - [ORIGAMI JUMPING FROG (Traditional model) - YouTube](https://www.youtube.com/watch?v=Vlb2udqPx-M&ab_channel=OrigamiwithJoNakashima)
 - Family Weekly game night
 - Card Games
@@ -27,18 +32,24 @@
 
 - Couples with straw passing on their backs sitting on chair
 - Eating biscuit by putting on forehead and making expressions
+- Get game controllers
 
 ## Children Mental Games
 
+- Do continuously more harder things
 - Find differences
-- Chess / Sudoku
+- Chess
+- Sudoku
+- Crosswords
+- Zigsaw Puzzles
+- Computer / Phone games
+- Coding / Projects
 - Unroll.me
 - Move the block / unblock
 - Elevate
 - Astronomy
 - Mechanic
 - Hackathon
-- Chess
 - Swimming
 - Running
 - Jizsaw puzzle
@@ -85,7 +96,3 @@ https://establishedtitles.com/products/lordship-title-pack-new
 ### Others
 
 - Ant Farm - **Formicarium** - A formicarium or ant farm is a vivarium which is designed primarily for the study of ant colonies and how ants behave.
-
-## Links
-
-- [couple-activities](knowledge/games/couple-activities.md)

@@ -145,6 +145,18 @@ TODO - 2025-03-07, 2025-04-03
 - Teach
 - Assessment
 
+### Architecture
+
+The core components of a continually learning system consists of three pieces:
+
+1. **A Memory System:** where we store past experiences in a manner that makes accurate, contextual retrieval in the future possible.
+2. **The “Cognitive Core”:** the chatbot or agent or whatever other form the LLM takes that users ultimately interact with.
+3. **A feedback loop:** the mechanism by which we stitch everything together so that we offer a cohesive, continually improving system rather than modular components that are just bolted on.
+
+The cognitive core and memory system in effect can give us an infinite context window. The feedback loop should be designed to solve for the context failure modes mentioned above and a new issue this system introduces: recall. Diving into them in detail below.
+
+[A pragmatic recipe for continual learning - by Raveesh](https://raveesh.substack.com/p/a-pragmatic-recipe-for-continual)
+
 ### Links
 
 [A social ‘study buddy’ gets a conversational lift from Meta Llama](https://ai.meta.com/blog/foondamate-study-aid-education-llama/)
@@ -210,6 +222,7 @@ TODO - 2025-03-07, 2025-04-03
 - [Outskill: AI Upskilling for Modern Careers](https://www.outskill.com/)
 - [Let Grow - When Adults Step Back, Kids Step Up.](https://letgrow.org/)
 - [IIT Factory: A small village in Bihar sends more students to IIT than most big cities](https://www.moneycontrol.com/education/iit-factory-of-india-this-small-village-sends-more-students-to-iit-than-most-big-cities-article-13664389.html)
+- [GitHub - DrCatHicks/learning-opportunities: A Claude Code skill for deliberate skill development during AI-assisted coding](https://github.com/DrCatHicks/learning-opportunities)
 
 ### People
 
@@ -226,6 +239,32 @@ TODO - 2025-03-07, 2025-04-03
 - 1 year course
 - Digital + AI Based personalized coaching
 - Top class employable persons
+
+### Thoughts
+
+- Whole college is broken
+	- College - guaranteed placement, otherwise money returned.
+	- Take interviews before accommodation
+	- Everything taken care by college
+	- Every single minute is timed
+	- No restrictions
+	- Reports sent every week
+	- But not pressure, help them
+	- Individual learning plan
+	- Including sports
+	- Help them in every path, support more on things they want to do, and give more time to them for same
+- Whole education system is broken.
+- Feedbacks from students - anonymous
+	- Everything digitized
+	- Give same laptop to everyone
+	- Give same nutritious food to everyone
+	- Help them focus on things that matter like happiness, health etc instead of materialistic things
+	- How to be alone and do big things and focus on yourself.
+	- Teach interview techniques too
+	- Earning money - masterclass
+	- Do small cohort to perfect things, and then scale huge, by perfecting the playbook.
+	- Human psychology is very important.
+- Teachers are very important part and you have to focus more on teaching teachers rather than teaching students.
 
 ## Education Mobile phones
 

@@ -1,4 +1,4 @@
-# Confluent
+# Confluent Certifications
 
 - [Confluent Certification for Apache Kafka \| Confluent](https://www.confluent.io/certification/)
 - [Accredible • Certificates, Badges and Blockchain](https://certificates.confluent.io/issuer/21429/credentials?page_size=50&page=0)

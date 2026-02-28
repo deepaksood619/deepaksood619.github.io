@@ -407,4 +407,6 @@ A Distributed System is one in which the failure of a computer you didn't even k
 
 [Is this even Possible ??? 😂 #codelevate #saas #softwaredevelopment #developer #saasfounder - YouTube](https://www.youtube.com/shorts/I596doHoUi0)
 
+A backup isn't a backup until you have successfully restored from it. Until then, it is just a very expensive file upload called 'Schrödinger's Data'
+
 ## End

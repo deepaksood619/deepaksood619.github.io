@@ -66,7 +66,7 @@
 
 ### Confluent
 
-- [confluent](courses/confluent.md)
+- [confluent-certifications](courses/confluent-certifications.md)
 - [confluent-certified-cloud-operator-ccac](courses/confluent-certified-cloud-operator-ccac.md)
 - Confluent Apache Kafka Fundamentals Accreditation - [Accredible • Certificates, Badges and Blockchain](https://certificates.confluent.io/8bf0eb5e-0b04-4a2d-bd86-bd965745ac45)
 	- Issued on - 16 December 2025

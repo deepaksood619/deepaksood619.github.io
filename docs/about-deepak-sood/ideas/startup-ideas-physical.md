@@ -187,9 +187,12 @@ Restaurants have the highest mortality rate of any industry in the world. 60% re
 
 When you think of going out, your brain goes ‘aaj kuch naya khate hain’. Let’s try something new today.
 
-[Why Restaurants Fail - by Shashank Mehta](https://midlifeentrepreneur.substack.com/p/why-restaurants-fail)
-
-[How to make 3 cr/ year with Cloud Kitchen Business? Biryani By Kilo \| Indian Business Podcast - YouTube](https://youtu.be/Isir0oGEpxM)
+- [Why Restaurants Fail - by Shashank Mehta](https://midlifeentrepreneur.substack.com/p/why-restaurants-fail)
+- [How to make 3 cr/ year with Cloud Kitchen Business? Biryani By Kilo \| Indian Business Podcast - YouTube](https://youtu.be/Isir0oGEpxM)
+- Business - healthy food, I went outside and wanted to take some healthy food home, but there none exists, so came back empty handed.
+	- Outside Healthy things
+		- Bhutta
+		- sweet potato
 
 ## New gen smart home
 
@@ -230,6 +233,24 @@ Airline can be transporter of fuels if passenger occupancy is lower, i.e. based 
 - [Elon Musk wants to dominate robotaxis—first he needs to catch up to Waymo](https://www.understandingai.org/p/elon-musk-wants-to-dominate-robotaxisfirst)
 - [Waymo and Tesla’s self-driving systems are more similar than people think](https://www.understandingai.org/p/waymo-and-teslas-self-driving-systems)
 - [Robotaxis offer a path toward smarter and fairer urban mobility - Big Think](https://bigthink.com/books/robotaxis-urban-mobility/)
+
+## Avenues
+
+Start of business to make passive income
+
+- Where you are not dependent on people, easily scalable, continuous improvement
+- either software product (zepto, etc)
+- daycare
+- shop
+- restaurant
+- franchise - oyo
+- school/college
+- tution/training / coaching centre
+- anything around sports - gym/badminton/TT/swimming pool
+- secondary daycare - people want to put their kids in some activities - gymnastics, piano, badminton, etc
+- electric, solar panel, etc
+- large scale farming
+- Airbnb
 
 ## Others
 

@@ -53,6 +53,7 @@
 2. [Agentic AI With Langgraph And MCP Crash Course-Part 1 - YouTube](https://www.youtube.com/watch?v=dIb-DujRNEo)
 3. [LLM Engineering: Master AI, Large Language Models & Agents \| Udemy](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/)
 4. [The Complete Agentic AI Engineering Course (2025) \| Udemy](https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/)
+5. [CS146S Course: The Modern Software Developer \| Stanford University Bulletin](https://bulletin.stanford.edu/courses/2274401)
 
 ## AI (Artificial Intelligence) + ML (Machine Learning)
 

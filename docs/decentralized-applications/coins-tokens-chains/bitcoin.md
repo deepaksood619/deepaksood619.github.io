@@ -130,6 +130,38 @@ SegWit is an upgrade to the Bitcoin network that helps reduce the size of bitcoi
 
 [What is Segwit? Segregated Witness Explained Simply - YouTube](https://www.youtube.com/watch?v=f3CFUbeehc8)
 
+### Native SegWit vs Taproot
+
+Native SegWit (bech32) and Taproot (bech32m) are both advanced Bitcoin address formats offering lower fees than legacy systems. Native SegWit is ideal for simple, day-to-day transactions due to high efficiency. Taproot excels in privacy and complex, multi-signature transactions, making it better for sophisticated, high-volume, or institutional use cases.
+
+**Key Differences:**
+
+- **Best Use Case:** Native SegWit is best for basic, peer-to-peer payments. Taproot is superior for complex transactions like multisig, Lightning Network, and smart contracts.
+- **Transaction Fees:** Native SegWit generally offers the lowest fees for simple transactions, often reducing block weight by 40-50%. While Taproot is efficient, it can be slightly more expensive for simple transactions but becomes cheaper as complexity increases
+- **Privacy:** Taproot offers enhanced privacy by making complex, multi-signature transactions look like regular, single-signature transactions on the blockchain.
+- **Signature Type:** Native SegWit uses ECDSA, while Taproot uses Schnorr signatures, which are more efficient and allow for key aggregation.
+- **Compatibility:** Both are widely supported, but Taproot is newer, so it may have slightly less support in older wallets.
+
+**Summary Table:**
+
+|Feature|Native SegWit (bech32)|Taproot (bech32m)|
+|---|---|---|
+|**Primary Goal**|Scalability & Efficiency|Privacy & Smart Contracts|
+|**Best For**|Simple/Daily Transactions|Multi-sig/Complex Transactions|
+|**Fees**|Very Low|Low (Optimal for Complex)|
+|**Privacy**|Standard|High (Hidden smart contracts)|
+|**Signature**|ECDSA|Schnorr (Aggregation)|
+
+- [Bitcoin Taproot vs Native SegWit: Which Is Better for You?](https://komodoplatform.com/en/academy/bitcoin-native-segwit-vs-taproot/)
+- [Taproot vs Native SegWit fees. : r/BitcoinBeginners](https://www.reddit.com/r/BitcoinBeginners/comments/zpsz4d/taproot_vs_native_segwit_fees/)
+
+### Variants: Bech32 vs. Bech32m
+
+While original Bech32 is used for **SegWit v0** (starting with `bc1q`), an updated version called **Bech32m** (standardized in [BIP-0350](https://github.com/bitcoin/bips/blob/master/bip-0350.mediawiki)) was introduced for **Taproot** and future upgrades.
+
+- **Bech32 (v0)**: Used for P2WPKH and P2WSH; addresses typically start with **`bc1q`**.
+- **Bech32m (v1+)**: Used for Taproot (P2TR); addresses typically start with **`bc1p`**.
+
 ## Forks
 
 ### Bitcoin Cash ($BCH)

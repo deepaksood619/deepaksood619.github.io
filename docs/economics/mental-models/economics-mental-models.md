@@ -371,6 +371,14 @@ The Kindleberger-Minsky model merges Charles Kindleberger's historical analysis 
 - **Shared Perspective:** Both were outsiders in the post-WWII economics academy, favoring American institutionalism over neoclassical models. They argued that instability is inherent to capitalism, not just an exogenous shock.
 - **Policy Implications:** Kindleberger highlighted the crucial need for an international lender of last resort (like central banks) to act during panics to prevent depressions.
 
+## Great Gen Z Financial Paradox
+
+The Great Gen Z Financial Paradox defines a generation with high financial literacy and awareness, yet low savings and high debt. Despite lower inflation-adjusted income, they engage in "doom spending"—prioritizing short-term experiences over long-term assets due to a bleak economic outlook, often using online loans for lifestyle expenses rather than emergencies
+
+## Others
+
+- **Schumpeterian creative destruction** is **the process where innovative, new production units and technologies constantly destroy and replace outdated ones**, acting as the primary engine of economic growth in capitalism.
+
 ## Links
 
 - [Marginal Utility / Analysis](marginal-utility-analysis)

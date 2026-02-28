@@ -1,4 +1,4 @@
-# Kids
+# Kid Games / Kids
 
 ## Toys
 

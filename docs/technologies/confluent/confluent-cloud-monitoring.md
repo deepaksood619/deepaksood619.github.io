@@ -155,5 +155,5 @@ Kafka is highly dependent on Disk I/O and Network availability.
 
 If you use Kafka Connect or Schema Registry, they need their own guardrails.
 
-- **Kafka Connect Task Failures:** Alert if `connector-failed-task-count > 0`. A failed task means the pipeline is broken, even if the connector itself shows as "Running".    
+- **Kafka Connect Task Failures:** Alert if `connector-failed-task-count > 0`. A failed task means the pipeline is broken, even if the connector itself shows as "Running".
 - **Schema Registry Unavailability:** Alert on HTTP 5xx errors from the registry. If producers cannot fetch schemas, they will fail to serialize and drop messages.

@@ -97,6 +97,7 @@ https://joinditto.in
 - [Why your base health policy and super top-up policy should have the same renewal date!](https://freefincal.com/why-your-base-health-policy-and-super-top-up-policy-should-have-the-same-renewal-date/)
 - [Does it make sense to buy a 25 Lakh base health insurance policy?](https://freefincal.com/does-it-make-sense-to-buy-a-25-lakh-base-health-insurance-policy/)
 - A **GIPSA package** refers to standardized, fixed-rate health insurance treatment plans set by the General Insurance Public Sector Association (GIPSA) in India, covering common procedures like cataract surgery or knee replacement for employees of member public sector insurers (like New India Assurance, National Insurance, United India Insurance, Oriental Insurance). These pre-negotiated rates allow for cashless treatments at GIPSA's Preferred Provider Network (PPN) hospitals, streamlining billing and controlling costs for standard medical events.
+- [The Hidden Cost of Reasonable & Customary (R&C) Clauses in Health Insurance Claims](https://freefincal.com/the-hidden-cost-of-reasonable-customary-rc-clauses-in-health-insurance-claims/)
 
 ## Others
 
