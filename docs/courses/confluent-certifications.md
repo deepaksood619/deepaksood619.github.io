@@ -23,7 +23,7 @@ Duration: 40 multiple choice questions in 90 minutes
 - [Confluent Cloud Certified Operator (CCAC) certification 2026](https://www.udemy.com/course/confluent-cloud-certified-operator-ccac-/)
 - [Free Confluent Cloud Operator Sample Questions and Cert Prep Guide \| VMExam](https://www.vmexam.com/confluent/confluent-ccac-certification-exam-sample-questions)
 
-## Confluent Data Streaming Engineer
+## Confluent Data Streaming Engineer (Passed)
 
 [Data Streaming Engineer Certification Exam](https://developer.confluent.io/certification/)
 
@@ -39,13 +39,13 @@ The Exam consists of 30 multiple choice and true-false questions. You are provid
 
 [Accredible • Certificates, Badges and Blockchain](https://certificates.confluent.io/75ae3a5e-8223-482e-94fc-74debafca0db#acc.dWJSzR32)
 
-## Confluent Apache Kafka Fundamentals Accreditation
+## Confluent Apache Kafka Fundamentals Accreditation (Passed)
 
 The **Confluent Apache Kafka Fundamentals Accreditation** validates a strong foundation in **Apache Kafka** and the **Confluent Platform**. Earners grasp Kafka’s core concepts, real-world use cases, and its capabilities as a **scalable, resilient** event streaming platform.Accredited users understand Kafka’s **architecture, enterprise features**, and emerging advancements like **KRaft** and **Apache Flink**.
 
 [Accredible • Certificates, Badges and Blockchain](https://certificates.confluent.io/8bf0eb5e-0b04-4a2d-bd86-bd965745ac45)
 
-## Data Streaming Engineer - Apache Flink® Certification
+## Data Streaming Engineer - Apache Flink® Certification (Passed)
 
 This exam is designed to validate your expertise in Flink. Passing this exam will not only demonstrate your skills but also open up exciting opportunities.
 

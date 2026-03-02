@@ -61,6 +61,7 @@ swizzling permits to **swap a theme component with your own implementation**, an
 - [Serving Optimized Docusaurus Images with Rehype, Markdown and Cloudinary - DevJams Episode #21 - YouTube](https://www.youtube.com/watch?v=9oBWMDK0Av4)
 - [Docusaurus](https://docusaurus.io/docs/api/themes/@docusaurus/theme-live-codeblock)
 - [GitHub - Arsero/docusaurus-graph: The Docusaurus GraphView Plugin is an open source plugin designed to generate a graph view from your Docusaurus documentation files.](https://github.com/Arsero/docusaurus-graph)
+- [GitHub - Jim876633/docusaurus-plugin-get-doc-create-date: A Docusaurus plugin to get the create date of all docs](https://github.com/Jim876633/docusaurus-plugin-get-doc-create-date)
 
 ### Upgrading from v2 to v3
 

@@ -25,6 +25,7 @@ confluent api-key use <api_key> --resource lkc-zmjxkd
 # topic
 confluent kafka topic list
 confluent kafka topic create test-topic
+confluent kafka topic update sample_data_orders --config "num.partitions=7"
 
 # produce
 confluent kafka topic produce test-topic

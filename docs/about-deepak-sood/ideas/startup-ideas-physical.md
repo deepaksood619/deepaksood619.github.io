@@ -115,6 +115,12 @@ There are sweaters that can keep you warm, create a clothing that can keep you c
 
 Flex that can be reprinted again and again. Or no need to print, just put up a flex, add a device which prints it. No need to remove and install new flex
 
+### Carbon Fiber
+
+Carbon fiber is **an advanced, ultra-lightweight material composed of thin, strong crystalline filaments of carbon atoms, often 5–10 micrometers in diameter**. Known for high tensile strength, stiffness, and heat resistance, it is five times stronger than steel. Typically, it is combined with resins to form Carbon Fiber Reinforced Polymer (CFRP) composites used in aerospace, automotive, and sports equipment.
+
+- Carbon Fiber everything like cars, trains boggies freight wagon, containers, homes
+
 ## Civil Engineering
 
 ### Better and Cheap Pervious Concrete

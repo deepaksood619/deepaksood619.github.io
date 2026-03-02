@@ -54,6 +54,7 @@ Extensions that helps make obsidian better
 - [GitHub - brianpetro/obsidian-smart-connections: Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3](https://github.com/brianpetro/obsidian-smart-connections)
 	- [Obsidian Smart Connections UPDATE 📝 Rediscover Notes With Obsidian AI - YouTube](https://www.youtube.com/watch?v=7Rvl9Sl29Jk)
 - [GitHub - mirnovov/obsidian-homepage: An Obsidian plugin that opens a specified note, canvas, or workspace on startup, instead of the most recent one.](https://github.com/mirnovov/obsidian-homepage)
+- [GitHub - PaulTreanor/notes-dater: Adds created\_on and updated\_on dates of the active note to status bar](https://github.com/PaulTreanor/notes-dater)
 
 **Settings / Preferences**
 

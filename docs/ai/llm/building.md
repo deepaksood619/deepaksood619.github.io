@@ -83,6 +83,12 @@
 
 [SynthID - Google DeepMind](https://deepmind.google/technologies/synthid/)
 
+### Distillation Attack
+
+A distillation attack occurs when someone systematically queries a proprietary AI model and uses its outputs to train a smaller or competing model, effectively ‘stealing’ its capabilities without access to the original weights.
+
+Instead of copying parameters, the attacker copies behaviour by treating the target model as a teacher and learning from its responses at scale. For developers building AI products, this raises serious concerns around API exposure, rate limits, watermarking, and model output monitoring.
+
 ## Dev Tools
 
 - LangChain

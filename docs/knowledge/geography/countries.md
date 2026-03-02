@@ -83,6 +83,11 @@ https://docs.google.com/spreadsheets/d/1zl7adSoCYuWpuBnRPbkkhwT2RZ5hk3lUO4ud0NE7
 - [There Will Never Be Another Singapore | Economics Explained - YouTube](https://www.youtube.com/watch?v=KB1vxqD0uPE)
 - [Why are Russia US & India racing to space? - YouTube](https://www.youtube.com/watch?v=1WYWwE4Axd8)
 - [India’s Obsession with Koreans - YouTube](https://youtu.be/w3zxVSri1yI)
+- South Korea is the most racist country in this world and we shouldn't buy from South Korean company like Samsung, LG, Hyundai, Kia
+	- [Detained for 38 hours in South Korea (jeju island) & China \| no phones & food, jail like conditions - YouTube](https://youtu.be/2KNYUjk3tAI)
+	- [Social Media Influencer Sachin Awasthi को South Korea,China में 38 घंटे तक हिरासत में क्यों रखा गया? - YouTube](https://youtu.be/aqsX3CwCKmA)
+	- [Indian YouTuber Claims Criminal-Like Detention in South Korea's Jeju, China \| Spotlight \| N18G - YouTube](https://youtu.be/xqRlh9Indxc)
+	- [Our Response to Indian Embassy Advisory after 38 hour detention in Jeju Island, South Korea & China - YouTube](https://youtu.be/SVKfTjC6gu8)
 
 ## Europe
 
