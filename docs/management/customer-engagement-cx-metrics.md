@@ -42,6 +42,10 @@ Enshittification is the **process by which online platforms degrade in quality o
 - [Why did our friends stop posting on social media? \| BBC Global - YouTube](https://www.youtube.com/watch?v=bN4MNdCAnWA)
 - [Backseat Software – Mike Swanson's Blog](https://blog.mikeswanson.com/backseat-software/)
 
+### Links
+
+- [Frontiers \| The relationships between social media use, time management, and decision-making styles](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1702767/full)
+
 ## Number Of Form Fills
 
 If you own a website, you're almost definitely using forms at some or the other stage in your funnel to capture visitors' data. But, the number of form fills you receive depends on a variety of factors, including how engaged your visitors are with your business. After all, they will only willingly share their valuable data if they find merit in interacting with you and want to stay updated with your business' ongoings.

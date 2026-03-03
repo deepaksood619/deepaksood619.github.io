@@ -67,6 +67,7 @@ What are the rental patterns and lifetime value segments of customers, including
 
 ## Links
 
+- [GitHub - anasmalik081/Generative-BI](https://github.com/anasmalik081/Generative-BI#)
 - [Natural Language to SQL | LangChain, SQL Database & OpenAI LLMs - YouTube](https://www.youtube.com/watch?v=w-eTS8YlbZ4)
 - [Generative AI use case: Unified Natural Language Query (LLM to SQL) - YouTube](https://www.youtube.com/playlist?list=PL-pTHQz4RcBbJbifxCcJp6pJocNj1Dmfp)
     - [Ep. 3 - This is the "Killer App" of Enterprise AI - YouTube](https://www.youtube.com/watch?v=zuLxXDdEVEE)

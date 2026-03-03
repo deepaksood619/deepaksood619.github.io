@@ -72,3 +72,5 @@ An "intelligence explosion" refers to a hypothetical scenario where a self-impro
 	- [State of AI Report - 2025 ONLINE - Google Slides](https://docs.google.com/presentation/d/1xiLl0VdrlNMAei8pmaX4ojIOfej6lhvZbOIK7Z6C-Go/edit?usp=sharing)
 - [The Limits of AI: Generative AI, NLP, AGI, & What’s Next? - YouTube](https://www.youtube.com/watch?v=rBlCOLfMYfw)
 - [Is Sora the Beginning of the End for OpenAI? - Cal Newport](https://calnewport.com/is-sora-the-beginning-of-the-end-for-openai/)
+- [Something Big Is Happening](https://x.com/mattshumer_/status/2021256989876109403)
+	- [Has AI Changed Work Forever? Not Really... \| Cal Newport - YouTube](https://www.youtube.com/watch?v=Ijt8lV6b7QY)

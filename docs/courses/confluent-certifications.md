@@ -53,6 +53,8 @@ This exam is designed to validate your expertise in Flink. Passing this exam wil
 
 [Accredible • Certificates, Badges and Blockchain](https://certificates.confluent.io/ee6afc43-4366-4a52-8605-ac2c7f470b0e)
 
+[Flink Interview Questions](technologies/flink/interview-questions.md)
+
 ## Links
 
 - [Learn Apache Kafka® & Flink®](https://developer.confluent.io/courses/)

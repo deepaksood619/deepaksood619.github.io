@@ -56,7 +56,7 @@ Meritocracy is a political system in which economic goods and/or political power
 - Contributing money
 - Games are the most important thing to change climate change (to keep people away from spending on physical things and keep them from travelling)
 
-## Animal Cruelty / Veganism / Non-Veg / Vegetarian
+## Animal Cruelty / Veganism / Non-Veg / Vegetarian / Vegan
 
 - **Turn vegan (saves water, saves greenhouse gases, saves money)**
 - Saying no to overconsumption
@@ -75,6 +75,10 @@ Meritocracy is a political system in which economic goods and/or political power
 		- [faq vegan](https://peepalfarm.org/faq-vegan)
 	- [The Photograph of a Dead Chicken — Ian Knauer](https://www.ianknauer.com/blog/the-photograph-of-a-dead-chicken)
 	- [Born To Die (The Life of A Broiler Chicken) » Tamara Kenneally Photography](https://www.tamarakenneallyphotography.com/born-to-die-the-life-of-a-broiler-chicken/)
+	- [We Went Inside the Milk Industry of India, With Hidden Cameras 😳 - YouTube](https://www.youtube.com/watch?v=vB2SvXYs4zM)
+	- [Why the World’s Fittest People Have Stopped Drinking Milk (5 Shocking Reasons) 😳 - YouTube](https://www.youtube.com/watch?v=TqR6uaWvmm0)
+- [We Made Paneer, Cheese & Dahi Without a Drop of Cow Milk! - YouTube](https://www.youtube.com/watch?v=ec4rCrUgHi4)
+- Agar agar is a natural, gelatinous substance derived from red algae (seaweed), widely used as a plant-based, vegan alternative to gelatin. It is odorless, tasteless, and colorless, sold as flakes, powder, or bars. It sets firmly at room temperature, remains stable up to 85° C, and is used for jellies, puddings, and thickeners.
 
 ## Dreams
 

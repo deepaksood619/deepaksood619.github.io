@@ -316,6 +316,25 @@ https://kafka.apache.org/quickstart
 
 https://gist.github.com/sam95/d7aed31770883bd272728ad0483629d4
 
+## Kraft new commands
+
+```bash
+# topics
+kafka-topics --bootstrap-server localhost:9092 --topic sample_data_orders --create --partitions 3
+
+bin/kafka-topics.sh --bootstrap-server localhost:9092 --topic <topic-name> --alter --partitions <number>
+
+# consumer
+kafka-console-consumer --bootstrap-server localhost:9092 --consumer.config config.properties --topic sample_data_orders --property "print.key=true"
+
+kafka-console-consumer --bootstrap-server localhost:9092 --topic sample_data_orders --group my-consumer-group --from-beginning
+
+kafka-console-consumer --bootstrap-server localhost:9092 --topic sample_data_orders --from-beginning
+
+# producer
+kafka-console-producer --bootstrap-server localhost:9092 --topic sample_data_orders
+```
+
 ## Others
 
 ### KeyTool

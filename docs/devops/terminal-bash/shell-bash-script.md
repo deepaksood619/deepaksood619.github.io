@@ -110,6 +110,39 @@ find . -type f | grep -v "media" | sed 's|\(.*/\)[^A-Z]*\([A-Z].*\)|mv \"&\" \"\
 
 ```
 
+## Others
+
+### Shell Scripting: Error Handling with `set -e`
+
+By default, Bash scripts continue executing even if a command fails (returns a non-zero exit code). Using `set -e` (also known as `errexit`) changes this behavior to make scripts more robust.
+
+Include `set -e` at the top of your scripts to ensure they exit immediately upon the first failure:
+
+#### Why use it?
+
+- **Prevents Domino Effects:** Stops a script before it can run "downstream" logic on bad data or in the wrong directory.
+- **Easier Debugging:** The script dies exactly where the problem occurred, rather than failing silently and causing issues later.
+
+#### Exceptions (When it won't exit)
+
+The shell will **not** exit if the failing command is:
+
+1. Part of an `if` or `while` test.
+2. Part of a logical list (e.g., `command || echo "failed"`).
+3. Preceded by `!` (inverted exit code).
+
+#### Best Practice: The "Unofficial Bash Strict Mode"
+
+For maximum reliability, many developers use this combined string:
+
+```bash
+set -euo pipefail
+```
+
+- **`-e`**: Exit on error.
+- **`-u`**: Exit if an undefined variable is used (prevents typos).
+- **`-o pipefail`**: Returns the exit code of the _first_ command in a pipeline that fails (e.g., `grep "x" | sort` will fail if grep fails).
+
 ## References
 
 - https://en.wikipedia.org/wiki/Shell_script

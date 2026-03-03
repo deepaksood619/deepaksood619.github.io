@@ -11,3 +11,34 @@ If you're using [a **cloud-native service** like **Confluent Cloud**](https:
 In summary, **brokers** are the backbone of Kafka's distributed storage and processing, managing partitions, handling client requests, and now, as of Kafka 4.0, coordinating metadata directly through KRaft.
 
 [Kafka Brokers: The Backbone of a Distributed Cluster](https://developer.confluent.io/courses/apache-kafka/brokers/)
+
+## IMP Broker Configuration
+
+| parameter                                | value                                                          |
+| ---------------------------------------- | -------------------------------------------------------------- |
+| broker.id                                | `<broker-id>`                                                  |
+| broker.rack                              | `ap-south-1`                                                   |
+| auto.create.topics.enable                | FALSE                                                          |
+| advertised.listeners                     | PLAINTEXT://kafka-core-broker-listeners:9092                   |
+| num.network.threads                      | 3                                                              |
+| num.io.threads                           | 8                                                              |
+| socket.send.buffer.bytes                 | 102400                                                         |
+| socket.receive.buffer.bytes              | 102400                                                         |
+| socket.request.max.bytes                 | 104857600                                                      |
+| log.dirs                                 | /opt/kafka-data                                                |
+| num.partitions                           | 3                                                              |
+| num.recovery.threads.per.data.dir        | 1                                                              |
+| offsets.retention.minutes                | 10080                                                          |
+| log.retention.hours                      | 240                                                            |
+| log.segment.bytes                        | 1073741824                                                     |
+| log.retention.check.interval.ms          | 300000                                                         |
+| default.replication.factor               | 3                                                              |
+| min.insync.replicas                      | 2                                                              |
+| zookeeper.connect                        | zk-kafka-core01:2181,zk-kafka-core02:2181,zk-kafka-core03:2181 |
+| zookeeper.connection.timeout.ms          | 6000                                                           |
+| offsets.topic.replication.factor         | 3                                                              |
+| transaction.state.log.replication.factor | 3                                                              |
+| transaction.state.log.min.isr            | 2                                                              |
+| group.initial.rebalance.delay.ms         | 3000                                                           |
+| inter.broker.protocol.version            | 1                                                              |
+| log.message.format.version               | 0.11.0                                                         |
