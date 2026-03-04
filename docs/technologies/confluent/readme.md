@@ -19,6 +19,8 @@
 - [confluent-private-cloud-cpc](technologies/confluent/confluent-private-cloud-cpc.md)
 - [confluent-intelligence](technologies/confluent/confluent-intelligence.md)
 - [warpstream](technologies/confluent/warpstream.md)
+- [cluster-linking](technologies/confluent/cluster-linking.md)
+- [replicator](technologies/confluent/replicator.md)
 - [commands](technologies/confluent/commands.md)
 - Terraform - [confluent-provider](devops/terraform/confluent-provider.md)
 - [cli-tools](technologies/confluent/cli-tools.md)

@@ -358,13 +358,12 @@ What happens after event D arrives?
 **Technical Explanation**
 
 1. Watermark Calculation: The watermark is $EventTime - 5s$. After Event A (12:20:35) arrives, the watermark advances to 12:20:30.
-2. Window Boundaries: 10-minute tumbling windows align to the clock: [12:00-12:10), [12:10-12:20), [12:20-12:30).
+2. Window Boundaries: 10-minute tumbling windows align to the clock: `[12:00-12:10), [12:10-12:20), [12:20-12:30)`.
 3. Event Processing:
-    - A (12:20:35): Belongs to [12:20-12:30). Watermark is now 12:20:30. This watermark is already _past_ the end of the previous window (12:20:00), so the [12:10-12:20) window is triggered.
-    - B (12:09:35): Belongs to [12:00-12:10). However, the watermark is already 12:20:30. Since $12:09:35 < 12:20:30$, this is "late" and dropped (unless lateness is configured).
-    - C (12:10:15): Belongs to [12:10-12:20). But this window already fired when A arrived.
-    - D (12:20:00): Belongs to [12:20-12:30).
-        
+    - A (12:20:35): Belongs to `[12:20-12:30)`. Watermark is now `12:20:30`. This watermark is already `_past_` the end of the previous window `(12:20:00)`, so the `[12:10-12:20)` window is triggered.
+    - B (12:09:35): Belongs to `[12:00-12:10)`. However, the watermark is already `12:20:30`. Since `$12:09:35 < 12:20:30$`, this is "late" and dropped (unless lateness is configured).
+    - C (12:10:15): Belongs to `[12:10-12:20).` But this window already fired when A arrived.
+    - D (12:20:00): Belongs to `[12:20-12:30)`.
 4. Why D is the logic: In Flink, a window fires when $Watermark \geq WindowEnd$. When A arrives, the watermark becomes 12:20:30, which triggers the 12:10-12:20 window. At that exact moment, only events that arrived _before or with_ A that fall in that range are counted. C and D are the only events in the 12:10-12:20 range that arrive before the watermark moves significantly further.
 
 ## Question 22: UNNESTing Arrays
@@ -375,11 +374,9 @@ You have a table `Orders` with one row:
 
 Your Flink job is running this query:
 
-SQL
-
-```
-SELECT order_id, pid 
-FROM Orders 
+```sql
+SELECT order_id, pid
+FROM Orders
 CROSS JOIN UNNEST(product_ids) AS t(pid)
 ```
 
@@ -415,13 +412,11 @@ While Flink supports several deployment modes (Session, Job, Application), the s
 
 You have two tables `market_quotes` and `trade_executions`. A market quote arrives at 10:00:00.000. No matching execution arrives within 100ms.
 
-SQL
-
-```
-SELECT ... 
-FROM market_quotes q 
-LEFT JOIN trade_executions e 
-ON q.security_id = e.security_id 
+```sql
+SELECT ...
+FROM market_quotes q
+LEFT JOIN trade_executions e
+ON q.security_id = e.security_id
 AND e.execution_time BETWEEN q.quote_time AND q.quote_time + INTERVAL '100' MILLISECONDS;
 ```
 

@@ -202,13 +202,41 @@ The composition of the NASDAQ Composite is heavily weighted towards companies in
 - **Amazon (AMZN)** is not in the VGT
 - VGT also excludes other major companies often considered tech, such as **Alphabet (Google)** and **Meta (Facebook)**, which are classified under Communication Services.
 
-## Links
+## Indian International ETFs
 
-- [DSP Global Equity Fund: Should you invest in this retail offshore MF from GIFT City?](https://freefincal.com/dsp-global-equity-fund-should-you-invest-in-this-retail-offshore-mf-from-gift-city/)
-- [Investing via Gift City: basic considerations](https://freefincal.com/investing-via-gift-city-basic-considerations/)
-- [Why is S&P always recommended over NASDAQ even though it underperforms? : r/Fire](https://www.reddit.com/r/Fire/comments/17rjnhk/why_is_sp_always_recommended_over_nasdaq_even/)
+- Mon100
+- [How To Cash In On China & Hong Kong’s Market Surge I Investing In China Market - YouTube](https://www.youtube.com/watch?v=n0JbMoqoqN8&ab_channel=NDTVProfit)
+- [How to use fund of funds (FOFs) to your advantage \| 5 ways they can help you - YouTube](https://www.youtube.com/watch?v=EN7MnViCUBA&ab_channel=ETMoney)
 - Parag Parikh IFSC S&P 500 FOF and Parag Parikh IFSC Nasdaq 100 FOF
 	- [Parag Parikh IFSC S&P 500 and Nasdaq 100 FoFs Open - should you invest?](https://freefincal.com/parag-parikh-ifsc-sp-500-and-nasdaq-100-fofs-open-should-you-invest/)
 	- minimum investment of 5000 USD and a 500 USD top-up
 	- FOF route may be easier than the broker route
 	- we do not recommend using the Nasdaq 100 product, as it is a sectoral fund and significantly riskier than the S&P 500
+
+![Top International FoFs open for subscription](../../media/Screenshot%202025-06-09%20at%2011.38.44%20PM.jpg)
+
+## Others
+
+### KOSPI and KOSDAQ
+
+The **KOSPI** and **KOSDAQ** are the two primary stock market indices in South Korea, each representing different segments of the nation's economy.
+
+#### KOSPI (Korea Composite Stock Price Index)
+
+- **Main Board:** It is the primary benchmark for the [Korea Exchange (KRX)](https://resourcehub.bakermckenzie.com/en/resources/cross-border-listings-guide/asia-pacific/south-korea-stock-exchange/topics/overview-of-exchange) and is often compared to the U.S. S&P 500.
+- **Blue-Chip Focus:** It tracks large-cap, well-established "chaebols" (conglomerates) like Samsung Electronics, SK Hynix, and Hyundai Motors.
+- **Calculation:** It uses a free-float market-capitalization-weighted method, meaning larger companies have a more significant impact on the index.
+- **KOSPI 200:** A popular subset consisting of the [200 largest and most liquid companies](https://corporatefinanceinstitute.com/resources/equities/korean-composite-stock-price-index-kospi/), representing roughly 70% of the market's total value.
+
+#### KOSDAQ (Korea Securities Dealers Automated Quotation)
+
+- **Secondary Market:** Launched in 1996 as South Korea’s equivalent to the [U.S. Nasdaq](https://www.nomurafoundation.or.jp/en/wordpress/wp-content/uploads/2014/09/20020307-08_Inseok_Shin.pdf), it serves as a springboard for innovation.
+- **Growth Focus:** It is tech-heavy and dominated by [small-to-medium-sized enterprises (SMEs)](https://myhubs.org/2023/01/04/a-quick-introduction-to-korean-stock-market/), particularly in IT, biotech, and entertainment.
+- **Higher Volatility:** The KOSDAQ generally experiences higher volatility and higher valuation multiples (PER) compared to the more stable KOSPI.
+- **Investor Base:** Historically tilted toward [retail traders](https://www.theinvestor.co.kr/article/10612080) rather than institutional or foreign investors.
+
+## Links
+
+- [DSP Global Equity Fund: Should you invest in this retail offshore MF from GIFT City?](https://freefincal.com/dsp-global-equity-fund-should-you-invest-in-this-retail-offshore-mf-from-gift-city/)
+- [Investing via Gift City: basic considerations](https://freefincal.com/investing-via-gift-city-basic-considerations/)
+- [Why is S&P always recommended over NASDAQ even though it underperforms? : r/Fire](https://www.reddit.com/r/Fire/comments/17rjnhk/why_is_sp_always_recommended_over_nasdaq_even/)

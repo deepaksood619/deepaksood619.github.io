@@ -7,15 +7,10 @@ PQC algorithms are usually public-key algorithms. They rely on mathematical prob
 Some classes of PQC systems include:
 
 1. **Lattice-based cryptography:** This approach relies on the hardness of certain problems associated with lattices, which are mathematical structures. - [Lattice-based cryptography: The tricky math of dots - YouTube](https://www.youtube.com/watch?v=QDdOoYdb748&ab_channel=ChalkTalk)
-
 2. **Hash-based cryptography:** This involves using hash functions to achieve secure digital signatures, key exchange, and other cryptographic functionalities.
-
 3. **Code-based cryptography:** It leverages the hardness of decoding random linear codes to achieve security.
-
 4. **Multivariate polynomial cryptography:** This approach uses the difficulty of solving systems of multivariate polynomial equations for cryptographic purposes.
-
 5. **Isogeny-based cryptography:** It utilizes the difficulty of finding isogenies between elliptic curves for key exchange and other cryptographic tasks.
-
 6. **Symmetric-key post-quantum cryptography:** This involves developing quantum-resistant symmetric-key encryption and authentication algorithms.
 
 ## Standards
@@ -95,19 +90,13 @@ Dilithium is a digital signature scheme that is strongly secure under chosen mes
 
 ## Links
 
-[Post-quantum cryptography - Wikipedia](https://en.wikipedia.org/wiki/Post-quantum_cryptography)
-
-[Post-quantum Cryptography - Microsoft Research](https://www.microsoft.com/en-us/research/project/post-quantum-cryptography/)
-
-[Home | Synergy Quantum](https://www.synergyquantum.swiss/)
-
-[Post-quantum cryptography: Security after Shor’s algorithm - YouTube](https://www.youtube.com/watch?v=_C5dkUiiQnw)
-[Learning with errors: Encrypting with unsolvable equations - YouTube](https://www.youtube.com/watch?v=K026C5YaB3A&ab_channel=ChalkTalk)
-
-[Introducing s2n-tls, a New Open Source TLS Implementation | AWS Security Blog](https://aws.amazon.com/blogs/security/introducing-s2n-a-new-open-source-tls-implementation/)
-
-[Post-Quantum Cryptography - YouTube](https://www.youtube.com/playlist?list=PLA-8aGQm6tkK3-tamUTrVgYsNP3hNY3t2)
-
-[HSMs & PKCS#11 Explained - YouTube](https://www.youtube.com/playlist?list=PLA-8aGQm6tkIgd8-zi4PtCO79qmmtKyCm)
-
-[Java Keystores Explained - YouTube](https://www.youtube.com/playlist?list=PLA-8aGQm6tkJgHnLcTyKo_4Qmhc6it5AF)
+- [Post-quantum cryptography - Wikipedia](https://en.wikipedia.org/wiki/Post-quantum_cryptography)
+- [Post-quantum Cryptography - Microsoft Research](https://www.microsoft.com/en-us/research/project/post-quantum-cryptography/)
+- [Home | Synergy Quantum](https://www.synergyquantum.swiss/)
+- [Post-quantum cryptography: Security after Shor’s algorithm - YouTube](https://www.youtube.com/watch?v=_C5dkUiiQnw)
+- [Learning with errors: Encrypting with unsolvable equations - YouTube](https://www.youtube.com/watch?v=K026C5YaB3A&ab_channel=ChalkTalk)
+- [Introducing s2n-tls, a New Open Source TLS Implementation | AWS Security Blog](https://aws.amazon.com/blogs/security/introducing-s2n-a-new-open-source-tls-implementation/)
+- [Post-Quantum Cryptography - YouTube](https://www.youtube.com/playlist?list=PLA-8aGQm6tkK3-tamUTrVgYsNP3hNY3t2)
+- [HSMs & PKCS#11 Explained - YouTube](https://www.youtube.com/playlist?list=PLA-8aGQm6tkIgd8-zi4PtCO79qmmtKyCm)
+- [Java Keystores Explained - YouTube](https://www.youtube.com/playlist?list=PLA-8aGQm6tkJgHnLcTyKo_4Qmhc6it5AF)
+- [Keeping the Internet fast and secure: introducing Merkle Tree Certificates](https://blog.cloudflare.com/bootstrap-mtc/)

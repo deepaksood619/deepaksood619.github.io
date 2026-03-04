@@ -185,6 +185,7 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 - Big Wardrobes (storage)
     - Sliding door better
     - Add door plastic below adder so cold AC air doesn't leak from below door
+- Drain - smell will be awful closer to drain
 
 #### Tools / Sites
 
