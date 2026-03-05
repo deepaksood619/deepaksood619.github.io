@@ -10,6 +10,11 @@ confluent login
 confluent login --save
 confluent logout
 
+# local commands
+confluent local services kafka version
+confluent local services ksql-server version
+confluent local services schema-registry version
+
 confluent environment list
 confluent environment use env-q2rmnp
 
@@ -22,6 +27,7 @@ confluent api-key create --resource lkc-zmjxkd
 confluent api-key store <api_key> <api_secret> --resource lkc-zmjxkd
 confluent api-key use <api_key> --resource lkc-zmjxkd
 
+# cloud commands
 # topic
 confluent kafka topic list
 confluent kafka topic create test-topic

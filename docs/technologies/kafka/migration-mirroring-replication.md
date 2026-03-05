@@ -143,6 +143,8 @@ kcp scan clusters --state-file state.json --credentials-file credentials.yaml
 kcp create-asset migration-infrastructure
 ```
 
+- [Demo: Migrate to Confluent Cloud with Kafka Copy Paste (KCP) - YouTube](https://www.youtube.com/watch?v=9EflgaCNzhE)
+
 ## Scaling
 
 [Is there anyway to activate auto scaling or some form of auto scaling with Strimzi? · strimzi · Discussion #6635 · GitHub](https://github.com/orgs/strimzi/discussions/6635)

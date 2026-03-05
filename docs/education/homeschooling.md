@@ -4,6 +4,8 @@
 - Khan academy
 - https://primer.com
 - day and hour wise curriculum for kids for 0 - 18 years
+- [The Good and the Beautiful Kids - YouTube](https://www.youtube.com/@TheGoodandtheBeautifulKids)
+- [Apps \| The Good and the Beautiful](https://www.goodandbeautiful.com/pages/apps)
 
 ## Learning
 

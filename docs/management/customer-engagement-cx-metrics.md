@@ -41,6 +41,7 @@ Enshittification is the **process by which online platforms degrade in quality o
 - Posting Zero
 - [Why did our friends stop posting on social media? \| BBC Global - YouTube](https://www.youtube.com/watch?v=bN4MNdCAnWA)
 - [Backseat Software – Mike Swanson's Blog](https://blog.mikeswanson.com/backseat-software/)
+- [Breaking Free – Forbrukerrådet](https://www.forbrukerradet.no/breakingfree)
 
 ### Links
 

@@ -223,6 +223,7 @@ These parameters can be combined - for instance, using a moderate Temperature (0
 - Expanding
 - Chatbot
 - Conclusion
+- Prompt Caching - [platform.claude.com/cookbook/misc-prompt-caching](https://platform.claude.com/cookbook/misc-prompt-caching)
 
 [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
