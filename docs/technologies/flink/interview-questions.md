@@ -30,7 +30,7 @@ What is the primary role of a watermark in Apache Flink?
 
 **Technical Explanation**
 
-In stream processing, events can arrive out of order. Watermarks are special markers embedded in the stream that act as a clock. A watermark with timestamp $T$ tells Flink: _"We are reasonably sure no more events with a timestamp older than $T$ will arrive."_ This allows Flink to close time windows and trigger computations for event-time operations.
+In stream processing, events can arrive out of order. Watermarks are special markers embedded in the stream that act as a clock. A watermark with timestamp `T` tells Flink: _"We are reasonably sure no more events with a timestamp older than T will arrive."_ This allows Flink to close time windows and trigger computations for event-time operations.
 
 ## Question 3: Data Shuffling Strategies
 
@@ -47,7 +47,7 @@ When performing a stateful operation like a GROUP BY in Flink, which data shuffl
 
 To perform an aggregation (like `SUM` or `COUNT`) on a specific key, all records sharing that key must reside on the same physical operator instance. Key-partitioning (triggered by `keyBy()` in DataStream or `GROUP BY` in SQL) uses a hash function to route data.
 
-- **Key-partitioning Formula:** $shard = hash(key) \pmod{parallelism}$
+- **Key-partitioning Formula:** `shard = hash(key) mod{parallelism}`
 
 This ensures that "User A" always goes to "Task 1," allowing "Task 1" to maintain an accurate running total in its local state.
 
@@ -190,7 +190,7 @@ Which type of Flink operation is considered "embarrassingly parallel" and can sc
 **Technical Explanation**
 
 - **Stateless vs. Stateful:** A `WHERE` filter is stateless. Each record is processed in isolation; the engine doesn't need to know about previous records to decide if the current one passes the filter.
-- **Scaling:** Because there is no shared state or need for data shuffling (re-partitioning) between parallel instances, you can split the stream into $N$ parts and process them independently. This leads to linear scaling, where doubling your resources nearly doubles your throughput.
+- **Scaling:** Because there is no shared state or need for data shuffling (re-partitioning) between parallel instances, you can split the stream into `N` parts and process them independently. This leads to linear scaling, where doubling your resources nearly doubles your throughput.
 - **Why the others differ:** Operations like Windows, Joins, and Group Bys are stateful. They require "shuffling" data by a key so that all related records land on the same worker, which introduces network overhead and state management complexity.
 
 ## Question 12: Storage in Flink SQL
@@ -254,7 +254,7 @@ Watermarks are calculated from which of the following?
 **Technical Explanation**
 
 - **Progress Tracking:** A Watermark is a heuristic that tells Flink: _"I am reasonably sure no more events with a timestamp earlier than this will arrive."_
-- **Calculation:** It is typically calculated as $MaxEventTime - OutOfOrdernessAllowance$. If Flink sees timestamps 10, 15, 12, and 20, the watermark is derived from 20 (the maximum seen), not 12 (the most recent).
+- **Calculation:** It is typically calculated as `MaxEventTime - OutOfOrdernessAllowance`. If Flink sees timestamps 10, 15, 12, and 20, the watermark is derived from 20 (the maximum seen), not 12 (the most recent).
 
 ## Question 16
 
@@ -305,7 +305,7 @@ When you run `EXPLAIN`, Flink generates a multi-stage plan. The Physical Plan (o
 
 Which of the following are examples of stateful Flink operations? (Select 2)
 
-1. Filtering orders with a price under $10.
+1. Filtering orders with a price under `10.
 2. Keeping a running tally of the total price for all orders.
 3. Mapping an orders table to a new schema.
 4. Correlating a stream of orders with a stream of shipments.
@@ -357,14 +357,14 @@ What happens after event D arrives?
 
 **Technical Explanation**
 
-1. Watermark Calculation: The watermark is $EventTime - 5s$. After Event A (12:20:35) arrives, the watermark advances to 12:20:30.
+1. Watermark Calculation: The watermark is `EventTime - 5s`. After Event A (12:20:35) arrives, the watermark advances to 12:20:30.
 2. Window Boundaries: 10-minute tumbling windows align to the clock: `[12:00-12:10), [12:10-12:20), [12:20-12:30)`.
 3. Event Processing:
     - A (12:20:35): Belongs to `[12:20-12:30)`. Watermark is now `12:20:30`. This watermark is already `_past_` the end of the previous window `(12:20:00)`, so the `[12:10-12:20)` window is triggered.
-    - B (12:09:35): Belongs to `[12:00-12:10)`. However, the watermark is already `12:20:30`. Since `$12:09:35 < 12:20:30$`, this is "late" and dropped (unless lateness is configured).
+    - B (12:09:35): Belongs to `[12:00-12:10)`. However, the watermark is already `12:20:30`. Since ``12:09:35 < 12:20:30``, this is "late" and dropped (unless lateness is configured).
     - C (12:10:15): Belongs to `[12:10-12:20).` But this window already fired when A arrived.
     - D (12:20:00): Belongs to `[12:20-12:30)`.
-4. Why D is the logic: In Flink, a window fires when $Watermark \geq WindowEnd$. When A arrives, the watermark becomes 12:20:30, which triggers the 12:10-12:20 window. At that exact moment, only events that arrived _before or with_ A that fall in that range are counted. C and D are the only events in the 12:10-12:20 range that arrive before the watermark moves significantly further.
+4. Why D is the logic: In Flink, a window fires when `Watermark >= WindowEnd`. When A arrives, the watermark becomes 12:20:30, which triggers the 12:10-12:20 window. At that exact moment, only events that arrived _before or with_ A that fall in that range are counted. C and D are the only events in the 12:10-12:20 range that arrive before the watermark moves significantly further.
 
 ## Question 22: UNNESTing Arrays
 
@@ -431,7 +431,7 @@ When will the result (the quote with a NULL execution) be emitted?
 
 **Technical Explanation**
 
-In a Time-Interval Join (Outer Join), Flink must wait to ensure that a matching event will _never_ arrive before it can safely emit a row with a NULL value. Because Flink operates on Event Time, it doesn't use the system clock; it uses Watermarks. Flink must wait until the Watermark for `trade_executions` exceeds the upper bound of the join interval ($10:00:00.000 + 100ms$) to guarantee that no late-arriving trade execution will satisfy the join condition.
+In a Time-Interval Join (Outer Join), Flink must wait to ensure that a matching event will _never_ arrive before it can safely emit a row with a NULL value. Because Flink operates on Event Time, it doesn't use the system clock; it uses Watermarks. Flink must wait until the Watermark for `trade_executions` exceeds the upper bound of the join interval (`10:00:00.000 + 100ms`) to guarantee that no late-arriving trade execution will satisfy the join condition.
 
 ## Question 25: Handling Late Data
 
@@ -449,7 +449,7 @@ You are building an application to process payment events for fraud detection. T
 In Flink, "Lateness" or "Out-of-orderness" is handled primarily via Watermarks.
 
 - **Bounded Out-of-orderness:** By setting this to 30 seconds, you are telling Flink: "Don't assume a window is finished until you see an event with a timestamp at least 30 seconds past the window end."
-- The window size (5 minutes) remains the same, but the Watermark delay ($T - 30s$) ensures that events arriving up to 30 seconds late are still included in the correct window calculation before it closes.
+- The window size (5 minutes) remains the same, but the Watermark delay (`T - 30s`) ensures that events arriving up to 30 seconds late are still included in the correct window calculation before it closes.
 
 ## Question 26
 
