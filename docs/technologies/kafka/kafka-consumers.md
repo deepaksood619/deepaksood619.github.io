@@ -124,6 +124,35 @@ Kafka stores offset data in a topic called `__consumer_offset`. These topics use
 
 When a consumer has processed data, it should commit offsets. If consumer process dies, it will be able to start up and start reading where it left off based on offset stored in `__consumer_offset` or as discussed another consumer in the consumer group can take over.
 
+### Reset Offsets
+
+You can reset [offsets](https://docs.confluent.io/cloud/current/_glossary.html#term-consumer-offset) for consumer groups. Offsets track the [position](https://docs.confluent.io/cloud/current/_glossary.html#term-offset-commit) of a consumer in a partition. Each consumer instance in a consumer group periodically commits its progress through the partition with an offset. If a consumer instance fails, another instance in the group takes over and resumes from the last committed offset.
+
+```bash
+# 1. Reset to Earliest (Reprocess all data)
+kafka-consumer-groups --bootstrap-server <broker_host:9092> \
+  --group <group_name> --reset-offsets --to-earliest --execute --topic <topic_name>
+
+# 2. Reset to Latest (Skip all existing data)
+kafka-consumer-groups --bootstrap-server <broker_host:9092> \
+  --group <group_name> --reset-offsets --to-latest --execute --topic <topic_name>
+
+# 3. Reset to a Specific Offset
+kafka-consumer-groups --bootstrap-server <broker_host:9092> \
+  --group <group_name> --reset-offsets --to-offset <offset_number> --execute --topic <topic_name>
+
+# 4. Shift Offset by Relative Amount (e.g., back 100 messages)
+kafka-consumer-groups --bootstrap-server <broker_host:9092> \
+  --group <group_name> --reset-offsets --shift-by -100 --execute --topic <topic_name>
+
+# 5. Reset to a Specific Datetime
+kafka-consumer-groups --bootstrap-server <broker_host:9092> \
+  --group <group_name> --reset-offsets \
+  --to-datetime 2026-03-01T00:00:00.000 --execute --topic <topic_name>
+```
+
+[Reset consumer offsets in Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/client-apps/offsets-consumer.html)
+
 ## What Can Kafka Consumers See?
 
 What records can be consumed by a Kafka consumer? Consumers can't read un-replicated data. Kafka consumers can only consume messages beyond the "High Watermark" offset of the partition. "Log end offset" is offset of the last record written to log partition and where producers writes to next.

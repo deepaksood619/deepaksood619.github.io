@@ -158,6 +158,7 @@
 - [Glean – Work AI that Works \| Agents, Assistant & Search](https://www.glean.com/)
 	- [Agents - Glean Help Center](https://docs.glean.com/agents/home)
 - https://www.momentum.io/
+- https://youraislopbores.me/
 
 ## Purpose-built accelerators for generative AI
 

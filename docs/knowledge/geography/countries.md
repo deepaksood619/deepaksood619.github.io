@@ -73,6 +73,7 @@ https://docs.google.com/spreadsheets/d/1zl7adSoCYuWpuBnRPbkkhwT2RZ5hk3lUO4ud0NE7
 - [Why 82% of Saudi Arabians Just Live in These Lines - YouTube](https://www.youtube.com/watch?v=uz88EurZdrI)
 - [Why Iraq is Dying - YouTube](https://www.youtube.com/watch?v=rkZfmySToZk)
 - [Why Iran is Rapidly Dying](https://youtu.be/n8kSGH4I8Ps)
+	- [How Far Can Iran's Missiles Reach? Inside Khamenei's Monstrous Firepower That Has West Concerned - YouTube](https://www.youtube.com/watch?v=DEVUmkgfprQ)
 
 ### Others
 
@@ -81,6 +82,9 @@ https://docs.google.com/spreadsheets/d/1zl7adSoCYuWpuBnRPbkkhwT2RZ5hk3lUO4ud0NE7
 - [Why Is Indonesia One Of The Fastest Growing Economies In The World? | Economics Explained - YouTube](https://www.youtube.com/watch?v=E_M1pX1EeHo)
 - [Saudi Arabia’s Catastrophic "Everything" Problem - YouTube](https://www.youtube.com/watch?v=txmzVsBniZQ)
 - [There Will Never Be Another Singapore | Economics Explained - YouTube](https://www.youtube.com/watch?v=KB1vxqD0uPE)
+	- [LGBTQ rights in Singapore - Wikipedia](https://en.wikipedia.org/wiki/LGBTQ_rights_in_Singapore)
+	- [Lee Kuan Yew - Wikipedia](https://en.wikipedia.org/wiki/Lee_Kuan_Yew)
+	- Lee Kuan Yew (1923–2015) is recognized as the founding father of modern Singapore, serving as its first Prime Minister from 1959 to 1990.
 - [Why are Russia US & India racing to space? - YouTube](https://www.youtube.com/watch?v=1WYWwE4Axd8)
 - [India’s Obsession with Koreans - YouTube](https://youtu.be/w3zxVSri1yI)
 - South Korea is the most racist country in this world and we shouldn't buy from South Korean company like Samsung, LG, Hyundai, Kia

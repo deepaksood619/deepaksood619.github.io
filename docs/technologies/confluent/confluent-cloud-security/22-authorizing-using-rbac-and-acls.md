@@ -91,6 +91,31 @@ Also, there are a couple of things to keep in mind as you use RBAC in Confluent 
 - If you use OAuth for authentication you will be creating identity pools for your principals. There are two parts to every identity pool: **who can use the pool, and what the pool can access.** The “who” is a set of conditions that the identity needs to satisfy in order to use the pool. The “what” is defined by ACLs and RBAC roles.
 - You can use a mix of ACLs and RBACs. This may be helpful if you need to provide a small set of identities with access to a resource in your Confluent Cloud cluster. However, as an investment in the future, we recommend going with RBACs over ACLs.
 
+### Group mapping
+
+A group mapping is a collection or set of rules that lets you map user groups in your SSO identity provider to Confluent Cloud RBAC roles. When an SSO user signs in to Confluent Cloud, Confluent Cloud automatically and assigns the Confluent Cloud RBAC roles you have mapped to the user’s groups.
+
+Create a group mapping for each set of Confluent Cloud RBAC roles that you want to assign to a user based on the user’s group memberships in your SSO identity provider. Your organization might have groups with different sets of permissions based on teams, Confluent Cloud environments, or read/write/admin access. You can create a group mapping for each set of permissions.
+
+#### Limitations
+
+- Group mapping permissions are only granted to SSO user accounts after the users sign in to Confluent Cloud using SSO. User API keys only have permissions manually assigned to the user and do not have any group mapping permissions.
+- The current ksqlDB authorization auditable events do not include the `assigned_principal` and `acting_principal` fields (for SSO users with group permissions).
+
+#### Types of group mappings
+
+There are two types of group mappings available in Confluent Cloud: **basic and advanced**. Basic group mappings are simple and provide easy mappings between user groups and Confluent Cloud ACLs or RBAC roles. Advanced group mappings are more complex and use Common Expression Language (CEL) expressions for increased flexibility.
+
+#### Best Practices for Group Mappings on Confluent Cloud
+
+- Create a default permission set with a minimal set of requirements, either with the advanced filter set to true or by using a broad user group value from your SSO identity provider, so that new users can get started in Confluent Cloud immediately.
+- Avoid assigning admininistrator RBAC role-bindings to group permissions, in accordance to the principle of least privilege, assigning users access only to the specific resources required to perform their job function.
+- Your identity provider might have limits on the number of characters or groups that are sent in a SAML sign-in request. If you intend on creating many group mappings in Confluent Cloud, make sure to check any limitations from your identity provider on the number of groups that will be sent to Confluent Cloud.
+
+[Group mapping on Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/security/authenticate/user-identities/user-idps/sso/group-mapping/overview.html)
+
+[Best Practices for Group Mappings on Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/security/authenticate/user-identities/user-idps/sso/group-mapping/best-practices.html)
+
 ## ACLs and RBAC Order of Precedence
 
 As both ACLs and RBAC provide authorization, there is an order of precedence in granting access:

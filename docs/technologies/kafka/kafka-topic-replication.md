@@ -115,7 +115,19 @@ Kafka Follower Fetching (KIP-392) **lets consumers read data from the *nearest
 - **Improved fault tolerance:** If the leader becomes unavailable due to a failure, consumers can still read from the follower replicas, ensuring continuous data availability.
 - **Reduced network latency:** Consumers can read from followers that are located closer to them, minimizing network hops and reducing latency.
 
-[Aiven docs](https://aiven.io/docs/products/kafka/concepts/follower-fetching)
+### For Confluent
+
+**Prerequisites**
+
+One of the following networking configurations is required:
+
+- An Enterprise or Freight cluster with [Private Network Interface (PNI)](https://docs.confluent.io/cloud/current/networking/aws-pni.html#cloud-networking-pni-aws) configured and attached to Confluent Cloud
+- A [VPC peering connection](https://docs.confluent.io/cloud/current/networking/peering/aws-peering.html#cloud-networking-peering-aws) between AWS and the above Confluent Cloud network with a Dedicated cluster
+
+### Links
+
+- [Optimize Egress Costs with Follower Fetching on Confluent Cloud in AWS \| Confluent Documentation](https://docs.confluent.io/cloud/current/networking/fetch-from-follower.html)
+- [Aiven docs](https://aiven.io/docs/products/kafka/concepts/follower-fetching)
 
 ## Links
 

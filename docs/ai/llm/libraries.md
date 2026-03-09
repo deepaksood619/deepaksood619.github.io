@@ -45,7 +45,54 @@
 4. [**outlines**](https://github.com/normal-computing/outlines)
 5. [**Pearl**](https://github.com/facebookresearch/Pearl)
 6. [**PEFT**](https://github.com/huggingface/peft)
-7. [**vLLM**](https://github.com/vllm-project/vllm)
+
+### [**vLLM**](https://github.com/vllm-project/vllm)
+
+[Fast LLM Serving with vLLM and PagedAttention](https://youtu.be/5ZlavKF_98U?si=HNh-y46T6Udr7XQ9)
+
+UC Berkeley researchers solved the biggest bottleneck in LLM inference.
+
+72K stars. 2,264 contributors.
+
+It's called vLLM, and it completely rethinks how memory is allocated during generation.
+
+Traditional serving wastes VRAM due to fragmented key-value states. vLLM fixes this with PagedAttention. It efficiently manages attention key and value memory just like an operating system manages virtual memory.
+
+What this architecture delivers:
+
+- 24x better memory efficiency
+- Continuous batching of incoming requests
+- Fast model execution with CUDA/HIP graphs
+- State-of-the-art serving throughput
+
+vLLM is fast with:
+
+- State-of-the-art serving throughput
+- Efficient management of attention key and value memory with [**PagedAttention**](https://blog.vllm.ai/2023/06/20/vllm.html)
+- Continuous batching of incoming requests
+- Fast model execution with CUDA/HIP graph
+- Quantizations: [GPTQ](https://arxiv.org/abs/2210.17323), [AWQ](https://arxiv.org/abs/2306.00978), [AutoRound](https://arxiv.org/abs/2309.05516), INT4, INT8, and FP8
+- Optimized CUDA kernels, including integration with FlashAttention and FlashInfer
+- Speculative decoding
+- Chunked prefill
+
+vLLM is flexible and easy to use with:
+
+- Seamless integration with popular Hugging Face models
+- High-throughput serving with various decoding algorithms, including _parallel sampling_, _beam search_, and more
+- Tensor, pipeline, data and expert parallelism support for distributed inference
+- Streaming outputs
+- OpenAI-compatible API server
+- Support for NVIDIA GPUs, AMD CPUs and GPUs, Intel CPUs and GPUs, PowerPC CPUs, Arm CPUs, and TPU. Additionally, support for diverse hardware plugins such as Intel Gaudi, IBM Spyre and Huawei Ascend.
+- Prefix caching support
+- Multi-LoRA support
+
+vLLM seamlessly supports most popular open-source models on HuggingFace, including:
+
+- Transformer-like LLMs (e.g., Llama)
+- Mixture-of-Expert LLMs (e.g., Mixtral, Deepseek-V2 and V3)
+- Embedding Models (e.g., E5-Mistral)
+- Multi-modal LLMs (e.g., LLaVA)
 
 ## Causal inference
 

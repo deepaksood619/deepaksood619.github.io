@@ -311,16 +311,18 @@ brew services cleanup
 
 [GitHub - dvorka/hstr: bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.](https://github.com/dvorka/hstr)
 
-   ```bash
-   brew install hstr
+```bash
+brew install hstr
 
-   hstr --show-configuration >> ~/.zshrc
-   vim ~/.zshrc
-   export HSTR_CONFIG=hicolor,raw-history-view
+hstr --show-configuration >> ~/.zshrc
+vim ~/.zshrc
+export HSTR_CONFIG=hicolor,raw-history-view
 
-   ## ctrl+r
-   https://github.com/dvorka/hstr
-   ```
+## ctrl+r
+https://github.com/dvorka/hstr
+```
+
+To edit a command selected in `hstr` before running it, use the **`Tab`** or **`Right Arrow`** keys. These keys will place the selected command onto your shell's command prompt, allowing you to review and modify it before you manually press `Enter` to execute it.
 
 #### https://fig.io
 

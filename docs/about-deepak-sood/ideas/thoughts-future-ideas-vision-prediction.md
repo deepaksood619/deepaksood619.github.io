@@ -128,7 +128,7 @@ Future
 
 ## Future
 
-- [news-problems](knowledge/other-topics/news-problems.md)
+- [Knowledge - others](knowledge/other-topics/others.md)
 - [MIT Has Predicted that Society Will Collapse in 2040 | Economics Explained - YouTube](https://www.youtube.com/watch?v=kVOTPAxrrP4&ab_channel=EconomicsExplained)
 - [Do We Need More Or Less Children? | Economics Explained - YouTube](https://www.youtube.com/watch?v=A-PFgCM4jwM&ab_channel=EconomicsExplained)
 - [The Economy of Tomorrow | AI Revolution | Megacities | Documentary - YouTube](https://www.youtube.com/watch?v=jR2ho31tor4)

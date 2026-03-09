@@ -971,6 +971,19 @@ screen -X -S <screen_session_name> quit
 
 [How To Use Linux Screen | Linuxize](https://linuxize.com/post/how-to-use-linux-screen/)
 
+## Setting badge to a terminal
+
+```bash
+# set white color badge
+printf "\e]1337;SetBadgeFormat=$(echo -n "OSS" | base64)\a\e]1337;SetColors=badge=ffffff\a"
+
+# with transparency # red color
+printf "\e]1337;SetBadgeFormat=$(echo -n "OSS" | base64)\a\e]1337;SetColors=badge=ffffff80\a"
+
+# reset
+printf "\e]1337;SetBadgeFormat=$(echo -n "" | base64)\a\e]1337;SetColors=badge=ffffff4d\a"
+```
+
 ## sample
 
 Profile a process during a time interval

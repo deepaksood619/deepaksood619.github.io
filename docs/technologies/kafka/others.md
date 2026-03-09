@@ -105,6 +105,9 @@ https://github.com/pinterest/secor
 
 - [GitHub - osodevops/k2i: K2I - Kafka to Iceberg streaming ingestion engine. A Rust CLI tool inspired by Moonlink architecture that consumes from Kafka, buffers with Apache Arrow for sub-second query freshness, and writes to Apache Iceberg tables.](https://github.com/osodevops/k2i)
 	- [K2I - Real-time Streaming Ingestion for Apache Iceberg](https://k2i.dev/)
+- [GitHub - lensesio/kafka-autocomplete: Bash completion for Kafka command line utilities. · GitHub](https://github.com/lensesio/kafka-autocomplete)
+- [Autocomplete functions for Apache Kafka CLI tools for Z-Shell](https://www.kineticedge.io/blog/kzsh-autocomplete/)
+- [kafka-docker-playground](https://kafka-docker-playground.io/#/)
 
 ## Others
 

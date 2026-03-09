@@ -64,6 +64,13 @@
 - [Tamil Nadu Karur Stampede At Actor-Politician Vijay's Rally Described In Haunting Visuals](https://www.ndtv.com/india-news/tamil-nadu-karur-stampede-at-actor-politician-vijays-rally-described-in-haunting-visuals-9360785)
 - [Indian Roads Deadliest In The World? \| How Can We Avoid Meeting Yamraj So Often?\| Akash Banerjee - YouTube](https://www.youtube.com/watch?v=v6-V43kCAeI)
 
+### Why not india
+
+- Food is contaminated
+- Water is contaminated
+- Air is contaminated
+- Politics/Bureaucracy is contaminated
+
 ## Economics
 
 [How many Indians earn more than Rs 1 crore annually? The Hurun Wealth Report 2025 reveals - Money News \| The Financial Express](https://www.financialexpress.com/money/how-many-indians-earn-more-than-rs-1-crore-annually-the-hurun-wealth-report-2025-reveals-3983400/)

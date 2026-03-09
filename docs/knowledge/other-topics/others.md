@@ -26,15 +26,30 @@ The intelligence cycle is an idealized model of how intelligence is processed in
 - [It's not just you. No one wants to have kids anymore. - YouTube](https://www.youtube.com/watch?v=IFmuFukdbq8)
 - [The World Population Crisis NO ONE Sees Coming](https://youtu.be/tk5KoWUwz6Q)
 - [Japan's population crisis reaches tipping point | FT Film](https://youtu.be/nmdujC0MUKA)
+- [AI will bring on a massive Baby Boom](https://auren.substack.com/p/ai-will-bring-on-a-massive-baby-boom)
 
 ## Gun Violence
 
 - [How scientists radically reduced US gun violence (no gun ban) - YouTube](https://www.youtube.com/watch?v=F-9RCKKvoJw)
 - [My Quest to End the Horror of Gun Violence in the US | Lucy McBath | TED](https://youtu.be/oQ7x0OJEPNM?si=YiZTOCctfBJkTmZa)
 
+## CBDC
+
+[Global CBDC System Incoming!! This Report Will SCARE You!! - YouTube](https://www.youtube.com/watch?v=5VPwG8hSbhw)
+
+[Watch Out!! This Is What The CENTRAL BANKS Are Planning! - YouTube](https://www.youtube.com/watch?v=wdpQoO8af6g)
+
+## World News
+
+- Pakistan - [SAMAA TV - YouTube](https://www.youtube.com/channel/UCJekW1Vj5fCVEGdye_mBN6Q)
+
 ## Others
 
 - [donations](about-deepak-sood/ideas/donations.md)
+- [thoughts-future-ideas-vision-prediction](about-deepak-sood/ideas/thoughts-future-ideas-vision-prediction.md)
 - [Parimutuel betting - Wikipedia](https://en.wikipedia.org/wiki/Parimutuel_betting)
 - [The Biggest Mysteries Science Still Hasn't Solved \| Compilation - YouTube](https://www.youtube.com/watch?v=qJvT2kIW9kk)
 - [Torino scale - Wikipedia](https://en.wikipedia.org/wiki/Torino_scale)
+- ["We are in a debt trap" - Nouriel Roubini on 10 ‘megathreats’ to our world and how to stop them - YouTube](https://www.youtube.com/watch?v=ADh6QTp8798)
+- [The financial crisis no one is fixing | Business Beyond - YouTube](https://www.youtube.com/watch?v=JGfdo-mlU7k&ab_channel=DWNews) - Retirement Crisis
+- [The Most Dangerous Weapon Is Not Nuclear - YouTube](https://www.youtube.com/watch?v=9FppammO1zk)

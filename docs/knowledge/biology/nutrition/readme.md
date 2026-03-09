@@ -6,6 +6,7 @@
 - [Daily Requirements](daily-requirements)
 - [Chart](chart)
 - [Food](food)
+- [Milk](knowledge/biology/nutrition/milk.md)
 - [Pulses / Daal / Lentils](pulses-daal-lentils)
 - [Grains](knowledge/biology/nutrition/grains.md)
 - [Oils](knowledge/biology/nutrition/oils.md)

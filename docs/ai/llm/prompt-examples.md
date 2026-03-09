@@ -316,6 +316,18 @@ Please use this prompt on Gemini Advanced when researching : Comprehensively str
 
 **Comparison prompt** - Comprehensively compare ____________ across all aspects on a table. Rate each and every feature out of 10 on the table and also give their average ratings out of 10. Do not make biases based on public opinion.
 
+## Blog Testing
+
+Act as a critical reader who is interested in personal finance but is skeptical of 'get rich quick' stories. Review this blog post about my journey.
+
+**Specific Tasks:**
+
+- Identify any 'blind spots' where I might be assuming the reader has the same privileges or starting point as me.
+- Highlight any claims that need more data or a disclaimer.
+- Tell me if the 'struggle' part of my story feels genuine or if I’m glossing over the hard parts too quickly.
+
+Paste your blog text here
+
 ## ChatGPT Custom Instructions
 
 ### What traits should ChatGPT have?

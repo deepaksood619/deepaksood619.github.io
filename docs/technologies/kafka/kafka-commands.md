@@ -8,6 +8,16 @@ https://github.com/edenhill/librdkafka/blob/master/CONFIGURATION
 
 https://aws-quickstart.s3.amazonaws.com/quickstart-confluent-kafka/templates/confluent-kafka.template
 
+## Configs
+
+| **CLI Tool**                 | **Legacy Flag (Kafka 3.x and older)** | **New Standard Flag (Kafka 4.1+)** |
+| ---------------------------- | ------------------------------------- | ---------------------------------- |
+| **`kafka-cluster`**          | `--config`                            | **`--command-config`**             |
+| **`kafka-console-consumer`** | `--consumer.config`                   | **`--command-config`**             |
+| **`kafka-console-producer`** | `--producer.config`                   | **`--command-config`**             |
+| **`kafka-topics`**           | `--command-config`                    | **`--command-config`**             |
+| **`kafka-leader-election`**  | `--admin.config`                      | **`--command-config`**             |
+
 ## Kafka confluent single node client setup
 
 https://docs.confluent.io/current/installation/docker/docs/installation/single-node-client.html
@@ -322,7 +332,7 @@ https://gist.github.com/sam95/d7aed31770883bd272728ad0483629d4
 # topics
 kafka-topics --bootstrap-server localhost:9092 --topic sample_data_orders --create --partitions 3
 
-bin/kafka-topics.sh --bootstrap-server localhost:9092 --topic <topic-name> --alter --partitions <number>
+kafka-topics.sh --bootstrap-server localhost:9092 --topic <topic-name> --alter --partitions <number>
 
 # consumer
 kafka-console-consumer --bootstrap-server localhost:9092 --consumer.config config.properties --topic sample_data_orders --property "print.key=true"

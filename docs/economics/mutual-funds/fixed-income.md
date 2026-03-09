@@ -165,6 +165,8 @@ https://sbi.bank.in/web/faq-s/faq-scss
 
 [Guaranteed income with tax benefits: Top 5 annuity plans in India](https://www.zeebiz.com/personal-finance/news-guaranteed-income-with-tax-benefits-top-5-annuity-plans-in-india-stst-258464)
 
+[How I Escaped a “Guaranteed Income” Trap — and What Others Can Learn](https://freefincal.com/how-i-escaped-a-guaranteed-income-trap-and-what-others-can-learn/)
+
 ### Options for Withdrawal Rate < 3.5%
 
 - RBI Floating Rate Bonds (Via Bank)

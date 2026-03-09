@@ -57,6 +57,7 @@ Dynamic pricing and price surge like in Uber/Ola
     - pre-sets for cooking tasks
     - integrated weighing scale
 - Live TV on phones without internet
+- Phone with earpod built in like [Nokia 5710](https://www.amazon.in/Nokia-5710-XpressAudio-Wireless-Dedicated/dp/B0BD7R8NXC?th=1) but smartphone not feature phone
 
 ## Medical / Hospital
 

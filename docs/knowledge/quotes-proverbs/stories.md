@@ -6,7 +6,11 @@ One wrote back that, it will be a disaster, because here people doesn't wear sho
 
 The other wrote back that, it will be a huge success as they don't have any shoes yet.
 
+---
+
 A factory was broken down and millions of dollars were lose per second. They called a professional guy to fix the problem, he looked at the factory, marked a X on a electrical box, opened that box and just tightened a screw and everything started and gone back to normal. Manager asked how much was the cost. He replied 10,000 dollars. Manager said just for tighting a screw he is not going to pay 10000 dollars, give a breakdown of items used and give him the bill. Mechanic wrote something down on a piece of paper and gave it to manager and manager immedietely paid the mechanic. He wrote down 1 dollar for tightening the screw and 9999 dollars for knowing which screw to tight. Therefore work smart.
+
+---
 
 There's this small town that is limping through some tough times. Everybody is in debt, and everyone lives on credit. One day a wealthy tourist visits and enters the only hotel. He slaps down a $100 bill at the reception and goes to inspect the rooms.
 
@@ -14,11 +18,15 @@ The hotelier takes the $100 and rushes to pay off his debt to the butcher. The b
 
 The tourist returns after inspecting the rooms, says he is dissatisfied, takes his $100 and leaves town. No one earned anything, but everyone is now debt-free and looks to the future with optimism. Magic!
 
+---
+
 Daniel Chambliss, an American sociologist, on how top performers feel about hard work:
 
 "At the higher levels of competitive swimming, something like an inversion of attitude takes place. The very features of the sport that the 'C' swimmer finds unpleasant, the top level swimmer enjoys. What others see as boring - swimming back and forth over a black line for two hours, say - they find peaceful, even meditative, often challenging, or therapeutic. They enjoy hard practices, look forward to difficult competitions, try to set difficult goals. Coming into the 5:30 A.M. practices at Mission Viejo, many of the swimmers were lively, laughing, talking, enjoying themselves, perhaps appreciating the fact that most people would positively hate doing it. It is incorrect to believe that top athletes suffer great sacrifices to achieve their goals. Often, they don't see what they do as sacrificial at all. They like it."
 
-AuthorMichael Lewison the stories we tell ourselves:
+---
+
+Author Michael Lewison the stories we tell ourselves:
 
 "As I've gotten older - I would say starting in my mid-to-late 20s - I could not help but notice the effect on people of the stories they told about themselves. If you listen to people, if you just sit and listen, you'll find that there are patterns in the way they talk about themselves.
 
@@ -32,7 +40,9 @@ The [parable](https://en.wikipedia.org/wiki/Parable) of theblind men and an elep
 
 https://en.wikipedia.org/wiki/Blind_men_and_an_elephant
 
-A parable from priest and therapistAnthony de Melloon the stories we tell ourselves:
+---
+
+A parable from priest and therapist Anthony de Melloon the stories we tell ourselves:
 
 "A man found an eagle's egg and put it in a nest of a barnyard hen. The eaglet hatched with the brood of chickens and grew up with them.
 
@@ -45,6 +55,8 @@ The old eagle looked up in awe. "Who's that?" he asked.
 "That's the eagle, the king of the birds," said his neighbor. "He belongs to the sky. We belong to the earth - we're chickens."
 
 So the eagle lived and died a chicken, for that's what he thought he was."
+
+---
 
 Have you noticed that a Bronze medalist is generally more happy than a Silver medalist at the end of the game.
 
@@ -60,11 +72,13 @@ Silver medal is won after losing, but Bronze medal is won after Winning.
 
 This happens in our life also, we don't appreciate what we have but feel sad with what we don't have. Let's be grateful for our blessings, they far outweigh our problems if we start counting.
 
-Author and journalistMitch Albomon time:
+---
+
+Author and journalist Mitch Albomon time:
 
 "Try to imagine a life without timekeeping. You probably can't. You know the month, the year, the day of the week. There is a clock on your wall or the dashboard of your car. You have a schedule, a calendar, a time for dinner or a movie. Yet all around you, timekeeping is ignored. Birds are not late. A dog does not check its watch. Deer do not fret over passing birthdays. Man alone measures time. Man alone chimes the hour. And, because of this, man alone suffers a paralyzing fear that no other creature endures. A fear of time running out."
 
-Source:[The Time Keeper](https://click.convertkit-mail4.com/r8u235lnlkuohgmm36s3/p8heh9h9z26343tq/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9ncC9wcm9kdWN0L0IwMUsxNFpBQUUvcmVmPWFzX2xpX3FmX2FzaW5faWxfdGw_aWU9VVRGOCZ0YWc9amFtZXNjbGVhcmVtYS0yMCZjcmVhdGl2ZT05MzI1JmxpbmtDb2RlPWFzMiZjcmVhdGl2ZUFTSU49QjAxSzE0WkFBRSZsaW5rSWQ9MTNkNTU1ZDdmZTNmOGY3NzdjMzg3YjJlMGJkYzA3ODY=)
+---
 
 A rare conversation between Krishna & Today's Arjun
 
@@ -110,7 +124,9 @@ Krishna- Face your past without regret. Handle your present with confidence. Pre
 
 Arjun - One last question. Sometimes I feel my prayers are not answered.
 
-Krishna- There are no unanswered prayers. Keep the faith and drop the fear. Life is a mystery to solve, not a problem to resolve. Trust me. Life is wonderful if you know how to live.
+Krishna - There are no unanswered prayers. Keep the faith and drop the fear. Life is a mystery to solve, not a problem to resolve. Trust me. Life is wonderful if you know how to live.
+
+---
 
 Success has a nasty tendency to increase confidence more than ability. The longer it lasts, and the more it was tied to some degree of serendipity, the truer that becomes.
 
@@ -130,20 +146,15 @@ A new camp commander was appointed and while inspecting the place, he saw two so
 
 He asked them why do they guard it.
 
-"We don't know. The last commander told us to do so - and so we did.
-We think it might be some sort of regimental tradition!"
+"We don't know. The last commander told us to do so - and so we did. We think it might be some sort of regimental tradition!"
 
-He searched for the last commander's phone number and called him to ask why did he want this particular bench to be guarded.
-"I don't know. The previous commander before me had it guarded, and I kept the tradition."
+He searched for the last commander's phone number and called him to ask why did he want this particular bench to be guarded. "I don't know. The previous commander before me had it guarded, and I kept the tradition."
 
-Going back another two commanders, he found a 92-year old retired General.
-"Excuse me, sir. I'm now the CO of the regiment which you commanded sixty years ago.
+Going back another two commanders, he found a 92-year old retired General. "Excuse me, sir. I'm now the CO of the regiment which you commanded sixty years ago.
 
-I've found that you had assigned two men to guard a bench.
-Could you please tell me more about the significance of this bench?"
+I've found that you had assigned two men to guard a bench. Could you please tell me more about the significance of this bench?"
 
-The general was shocked:
-"What? Are they still guarding it? Is the paint still wet?"
+The general was shocked: "What? Are they still guarding it? Is the paint still wet?"
 
 This is how traditions are born.
 

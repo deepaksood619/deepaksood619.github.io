@@ -1180,4 +1180,6 @@ Never respond to insults. The main purpose of people who insult you is to make y
 
 To be happy you must eliminate two things: the fear of a bad future and the memory of a bad past.
 
+**The Sword of Damocles** is an ancient Greek parable representing the imminent, constant peril faced by those in positions of power, wealth, or high responsibility. Originating from a story by Cicero, it symbolizes that great fortune is often accompanied by the looming threat of sudden disaster or anxiety.
+
 ## End

@@ -382,8 +382,8 @@
             - [KRaft Overview](https://docs.confluent.io/platform/current/kafka-metadata/kraft.html)
             - [Configure KRaft](https://docs.confluent.io/platform/current/kafka-metadata/config-kraft.html)
             - [Find ZooKeeper Resources](https://docs.confluent.io/platform/current/kafka-metadata/zk-production.html)
-        - [Manage Self-Balancing Clusters](https://docs.confluent.io/platform/current/clusters/sbc/overview.html)
-	        - Self-Balancing Clusters is a Confluent feature that is designed to simplify the process of managing an Apache Kafka® cluster. With this feature enabled, a cluster automatically rebalances partitions across brokers when new brokers are added or existing brokers are removed. This ensures that data is evenly distributed across the cluster, which can improve performance and reduce the risk of data loss in the event of a broker failure.
+        - [Manage Self-Balancing Clusters - SBC](https://docs.confluent.io/platform/current/clusters/sbc/overview.html)
+	        - Self-Balancing Clusters (SBC) is a Confluent feature that is designed to simplify the process of managing an Apache Kafka® cluster. With this feature enabled, a cluster automatically rebalances partitions across brokers when new brokers are added or existing brokers are removed. This ensures that data is evenly distributed across the cluster, which can improve performance and reduce the risk of data loss in the event of a broker failure.
 	        - Self-Balancing offers:
 				- Fully automated load balancing.
 				- Dynamic enablement, meaning you can [turn it off or on](https://docs.confluent.io/platform/current/clusters/sbc/configuration-options.html#sbc-config-enable) while the cluster is running and set to rebalance when brokers are added or removed, or for any uneven load (anytime).
@@ -391,6 +391,7 @@
 				- Continuous metrics aggregation and rebalancing plans, generated instantaneously in most cases, and executed automatically
 				- Automatic triggering of rebalance operations based on simple configurations you set on [Control Center for Confluent Platform](https://docs.confluent.io/control-center/current/overview.html?session_ref=https%3A%2F%2Fwww.google.com%2F&url_ref=https%3A%2F%2Fdocs.confluent.io%2Fplatform%2Fcurrent%2Fclusters%2Fsbc%2Findex.html) or in Kafka `server.properties` files. You can choose to auto-balance **Only when brokers are added** or **Anytime**, which rebalances for any uneven load.
 				- At-a-glance visibility into the state of your clusters, and the strategy and progress of auto-balancing through a few key metrics.
+			- On CC, when scaling to a higher CFU, SBC by default redistributes only a subset of topics (~80%) to prioritize faster rebalancing. The distribution of remaining topics is deferred to later, based on observed throughput / other capacity breaches.
             - [Overview](https://docs.confluent.io/platform/current/clusters/sbc/index.html)
             - [Tutorial: Adding and Remove Brokers](https://docs.confluent.io/platform/current/clusters/sbc/sbc-tutorial.html)
             - [Configure](https://docs.confluent.io/platform/current/clusters/sbc/configuration-options.html)

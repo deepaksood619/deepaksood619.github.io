@@ -248,3 +248,20 @@
 - **Fail-fast Validations:** Performs early validation of configuration and connectivity to catch issues before runtime.
 
 [Elasticsearch Sink V2 Connector for Confluent Cloud Quick Start \| Confluent Documentation](https://docs.confluent.io/cloud/current/connectors/cc-elasticsearch-sink-v2/cc-elasticsearch-sink-v2.html)
+
+## Datagen Source Connector
+
+The fully-managed Confluent Cloud Datagen Source connector for Confluent Cloud is used to generate mock data for development and testing. The connector supports Avro, JSON Schema, Protobuf, and JSON (schemaless) output formats.
+
+`max.interval` - Set the maximum interval (in milliseconds) between each message.
+
+- Type: int
+- Default: 1000 (1 message per second)
+- Valid Values: 10,… for non-dedicated clusters and 5,… for dedicated clusters
+- Importance: high
+
+If you are on a non-dedicated cluster where the minimum interval is capped at 10ms (100 msg/sec), you will need **10 tasks** to reach a total of 1000 msg/sec.
+
+- To hit 10,000 msg/sec, you will need **100 tasks**.
+
+[Datagen Source Connector for Confluent Cloud Quick Start \| Confluent Documentation](https://docs.confluent.io/cloud/current/connectors/cc-datagen-source.html)

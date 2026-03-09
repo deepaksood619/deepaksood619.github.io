@@ -9,7 +9,6 @@
 - [Philosophy](knowledge/other-topics/philosophy.md)
 - [Education / PhD](knowledge/other-topics/education-phd.md)
 - [Chemistry Outline](knowledge/other-topics/chemistry-outline.md)
-- [News](knowledge/other-topics/news-problems.md)
 - [Clothes / Textiles](knowledge/other-topics/clothes-textiles.md)
 - [Mythology](knowledge/other-topics/mythology.md)
 - [Others](knowledge/other-topics/others.md)

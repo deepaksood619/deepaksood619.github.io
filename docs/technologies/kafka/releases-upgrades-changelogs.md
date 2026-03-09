@@ -27,6 +27,7 @@ https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates
 		- Cooperative consumption model
 		- [Let's Take a Look at... KIP-932: Queues for Kafka! - Gunnar Morling](https://www.morling.dev/blog/kip-932-queues-for-kafka/)
 		- [Queues for Kafka. Queues for Kafka is a proposed new… \| by Andrew Schofield \| Medium](https://medium.com/@andrew_schofield/queues-for-kafka-29afa8aeed86)
+		- February 20, 2026 - Queues for Kafka provides queue semantics and elastic consumer scaling natively to Kafka through share groups and share consumers. This feature enables organizations to consolidate their messaging infrastructure while gaining elastic consumer scaling and per-message processing controls. Share groups and share consumers complement Kafka’s traditional consumer API and consumer groups.
 	- [KIP-1106: Add duration based offset reset option for consumer clients](https://cwiki.apache.org/confluence/x/NIyMEw)
 	- [KIP-1043: Administration of groups](https://cwiki.apache.org/confluence/x/XoowEg)
 - Kafka Streams
