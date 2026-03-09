@@ -47,7 +47,7 @@ Once I understood that my career was my primary investment vehicle, I went into 
 | June 2022 | Engineering Lead - Promotion    | ₹56 Lakh     |
 | Mar 2023  | Senior Engineer (International) | ~$84,000     |
 | Dec 2023  | Senior Architect                | ₹68 Lakh     |
-| Nov 2025  | Senior Architect                | ₹90 Lakh     |
+| Nov 2025  | Senior Architect                |      |
 
 ### Spending and Debt
 
