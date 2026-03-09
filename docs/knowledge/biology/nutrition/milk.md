@@ -58,7 +58,7 @@ The primary vectors for evaluating agricultural sustainability are Greenhouse Ga
 
 ### Greenhouse Gas Emissions and Global Warming Potential
 
-The anthropogenic climate impact of cow's milk is structurally massive. It is driven predominantly by enteric fermentation (the continuous exhalation of methane, a highly potent greenhouse gas, during ruminant digestion), the management of volatile manure lagoons, and the extensive carbon emissions associated with cultivating, harvesting, and transporting heavy feed crops to the animals. According to extensive meta-analyses, the production of one liter of traditional dairy milk generates between $1.20\text{ kg}$ and $3.15\text{ kg}$ of carbon dioxide equivalent ($CO_2e$), depending on the efficiency of the specific regional supply chain and the system boundaries of the study (e.g., farm-gate versus grave).
+The anthropogenic climate impact of cow's milk is structurally massive. It is driven predominantly by enteric fermentation (the continuous exhalation of methane, a highly potent greenhouse gas, during ruminant digestion), the management of volatile manure lagoons, and the extensive carbon emissions associated with cultivating, harvesting, and transporting heavy feed crops to the animals. According to extensive meta-analyses, the production of one liter of traditional dairy milk generates between 1.20 kg and 3.15 kg of carbon dioxide equivalent (CO_2e), depending on the efficiency of the specific regional supply chain and the system boundaries of the study (e.g., farm-gate versus grave).
 
 In stark contrast, the metabolic efficiency of plant-based milks—whereby humans consume the crops directly rather than filtering them through the inefficient, heat-generating metabolism of a bovine—results in a fraction of these emissions.
 
@@ -66,27 +66,27 @@ The table below synthesizes the environmental impact per liter of various milks,
 
 |**Milk Type**|**Greenhouse Gas Emissions (kgCO2​e per Liter)**|
 |---|---|
-|**Cow Milk (Dairy)**|$1.20 - 3.15$|
-|**Rice Milk**|$1.18$|
-|**Soy Milk**|$0.98$|
-|**Oat Milk**|$0.90$|
-|**Almond Milk**|$0.70$|
+|**Cow Milk (Dairy)**|1.20 - 3.15|
+|**Rice Milk**|1.18|
+|**Soy Milk**|0.98|
+|**Oat Milk**|0.90|
+|**Almond Milk**|0.70|
 
-As the data illustrates, almond milk represents the most carbon-efficient liquid, closely followed by oat and soy milks. For the average consumer, substituting one liter of dairy with one liter of oat or soy milk reduces the atmospheric carbon loading associated with that beverage by approximately $66\%$ to $70\%$.
+As the data illustrates, almond milk represents the most carbon-efficient liquid, closely followed by oat and soy milks. For the average consumer, substituting one liter of dairy with one liter of oat or soy milk reduces the atmospheric carbon loading associated with that beverage by approximately 66% to 70%.
 
 ### Land-Use Change and Biodiversity Preservation
 
 Agricultural land expansion is the primary driver of global deforestation, habitat destruction, and subsequent biodiversity loss. The land footprint of mammalian dairy is exceptionally high because it requires a dual-land use system: expansive physical space for the animals to inhabit, and even vaster tracts of arable land dedicated solely to cultivating monocrop feed (such as corn and soy) to sustain the herd.
 
-The production of one liter of cow's milk requires an astonishing $8.95 \text{ square meters } (m^2)$ of land. Plant-based milks, operating on direct-to-human consumption pathways, exhibit vastly superior spatial efficiency. Almond milk requires only $0.34 \text{ m}^2$ per liter, soy milk requires $0.66 \text{ m}^2$, and oat milk utilizes $0.76 \text{ m}^2$. By shifting consumption toward plant milks, immense swaths of agricultural land could theoretically be returned to natural ecosystems, serving as active carbon sinks rather than carbon emitters.
+The production of one liter of cow's milk requires an astonishing 8.95  square meters  (m^2) of land. Plant-based milks, operating on direct-to-human consumption pathways, exhibit vastly superior spatial efficiency. Almond milk requires only 0.34  m^2 per liter, soy milk requires 0.66  m^2, and oat milk utilizes 0.76  m^2. By shifting consumption toward plant milks, immense swaths of agricultural land could theoretically be returned to natural ecosystems, serving as active carbon sinks rather than carbon emitters.
 
 ### Hydrological Stress: The Freshwater Crisis and the Blue Water Footprint
 
-While plant-based milks dominate the metrics of carbon and land efficiency, the analysis of freshwater consumption reveals a critical ecological vulnerability within the plant-based sector itself. Agriculture is responsible for $70\%$ of global freshwater withdrawals, and different crops carry radically different "water footprints". This metric is largely defined by "blue water" usage—ground and surface water that is actively pumped and lost to evaporation or incorporated into the product via irrigation, as opposed to natural rainfall.
+While plant-based milks dominate the metrics of carbon and land efficiency, the analysis of freshwater consumption reveals a critical ecological vulnerability within the plant-based sector itself. Agriculture is responsible for 70% of global freshwater withdrawals, and different crops carry radically different "water footprints". This metric is largely defined by "blue water" usage—ground and surface water that is actively pumped and lost to evaporation or incorporated into the product via irrigation, as opposed to natural rainfall.
 
-Traditional cow's milk is highly water-intensive, requiring approximately $628.2\text{ Liters}$ of freshwater per liter of final product, primarily to hydrate the cows and irrigate their feed crops. However, almond milk, despite its excellent carbon profile, presents a severe hydrological challenge. Almond cultivation is notoriously water-intensive and is geographically concentrated in regions chronically afflicted by severe drought cycles, such as the Central Valley of California. The production of one liter of almond milk consumes $371.46\text{ Liters}$ of freshwater. Furthermore, the intensive pesticide application required for almond farming has been documented as ecologically detrimental to local pollinator populations, particularly commercial bee colonies.
+Traditional cow's milk is highly water-intensive, requiring approximately 628.2 Liters of freshwater per liter of final product, primarily to hydrate the cows and irrigate their feed crops. However, almond milk, despite its excellent carbon profile, presents a severe hydrological challenge. Almond cultivation is notoriously water-intensive and is geographically concentrated in regions chronically afflicted by severe drought cycles, such as the Central Valley of California. The production of one liter of almond milk consumes 371.46 Liters of freshwater. Furthermore, the intensive pesticide application required for almond farming has been documented as ecologically detrimental to local pollinator populations, particularly commercial bee colonies.
 
-Conversely, soy and oat milks demonstrate exceptional hydrological efficiency. Soy milk requires a mere $27.8\text{ Liters}$ of water per liter, and oat milk requires only $48.24\text{ Liters}$ per liter. Pea milk, while less common in the Indian market, also represents a highly sustainable choice, utilizing a fraction of the water required for dairy while rivaling its protein content.
+Conversely, soy and oat milks demonstrate exceptional hydrological efficiency. Soy milk requires a mere 27.8 Liters of water per liter, and oat milk requires only 48.24 Liters per liter. Pea milk, while less common in the Indian market, also represents a highly sustainable choice, utilizing a fraction of the water required for dairy while rivaling its protein content.
 
 The ecological synthesis strongly suggests that when optimizing for holistic planetary boundaries—balancing climate stabilization, land conservation, and critical water preservation—soy and oat milks emerge as the unambiguously superior choices. The water intensity of almond milk diminishes its overall ecological viability, rendering it a less optimal choice for environmentally motivated consumers.
 
@@ -96,33 +96,33 @@ A primary apprehension impeding the widespread consumer adoption of plant-based 
 
 ### Macronutrient Profiles and Protein Bioavailability
 
-Standard cow's milk (specifically the 'toned' variety common in Indian markets) is a calorically dense fluid. A standard $100\text{ml}$ serving provides approximately $60 \text{ to } 65 \text{ kilocalories (kcal)}$, alongside roughly $3.2\text{ grams}$ of high-quality protein, $4.8\text{ grams}$ of naturally occurring lactose sugars, and varying levels of saturated animal fats depending on the skimming process. The protein in cow's milk is "complete," meaning it contains all nine essential amino acids required by human biology in highly bioavailable ratios.
+Standard cow's milk (specifically the 'toned' variety common in Indian markets) is a calorically dense fluid. A standard 100ml serving provides approximately 60  to  65  kilocalories (kcal), alongside roughly 3.2 grams of high-quality protein, 4.8 grams of naturally occurring lactose sugars, and varying levels of saturated animal fats depending on the skimming process. The protein in cow's milk is "complete," meaning it contains all nine essential amino acids required by human biology in highly bioavailable ratios.
 
-When evaluating plant-based options, **soy milk** stands alone as the only biological equivalent to dairy in terms of baseline protein density and amino acid completeness. Unsweetened soy milk provides between $2.6\text{ grams}$ and $3.3\text{ grams}$ of protein per $100\text{ml}$, perfectly mirroring cow's milk. Detailed amino acid profiling reveals that soy protein possesses an exceptional ratio of essential to non-essential amino acids, granting it a biological value functionally comparable to casein and whey. Furthermore, unsweetened soy milk is naturally low in carbohydrates (roughly $2\text{g} - 3.6\text{g}$ per $100\text{ml}$) and completely devoid of saturated animal cholesterol, containing primarily heart-healthy polyunsaturated and monounsaturated fats.
+When evaluating plant-based options, **soy milk** stands alone as the only biological equivalent to dairy in terms of baseline protein density and amino acid completeness. Unsweetened soy milk provides between 2.6 grams and 3.3 grams of protein per 100ml, perfectly mirroring cow's milk. Detailed amino acid profiling reveals that soy protein possesses an exceptional ratio of essential to non-essential amino acids, granting it a biological value functionally comparable to casein and whey. Furthermore, unsweetened soy milk is naturally low in carbohydrates (roughly 2g - 3.6g per 100ml) and completely devoid of saturated animal cholesterol, containing primarily heart-healthy polyunsaturated and monounsaturated fats.
 
-**Almond milk**, despite its immense commercial popularity, is nutritionally dilute in its unfortified state. Because it is essentially an emulsion of water and a small percentage of almonds (typically $4\% - 5\%$), it contains very low caloric energy—ranging from $15 \text{ to } 25 \text{ kcal}$ per $100\text{ml}$ for unsweetened variants. More critically, it provides only negligible amounts of protein, typically yielding less than $1\text{ gram}$ per $100\text{ml}$. Its primary dietary utility, therefore, does not lie in macronutrient replacement, but rather in its ultra-low caloric profile, making it a highly attractive option for individuals seeking aggressive caloric deficits or weight management.
+**Almond milk**, despite its immense commercial popularity, is nutritionally dilute in its unfortified state. Because it is essentially an emulsion of water and a small percentage of almonds (typically 4% - 5%), it contains very low caloric energy—ranging from 15  to  25  kcal per 100ml for unsweetened variants. More critically, it provides only negligible amounts of protein, typically yielding less than 1 gram per 100ml. Its primary dietary utility, therefore, does not lie in macronutrient replacement, but rather in its ultra-low caloric profile, making it a highly attractive option for individuals seeking aggressive caloric deficits or weight management.
 
-**Oat milk** presents a distinct macronutrient geometry. Extracted from whole grains, it is naturally higher in complex carbohydrates, delivering $5\text{ grams}$ to $8\text{ grams}$ of carbohydrates per $100\text{ml}$. It also contains dietary fiber (specifically beta-glucans), which aids in gastrointestinal transit and glycemic control. However, its baseline protein content is modest, typically hovering around $0.6\text{ grams}$ to $1\text{ gram}$ per $100\text{ml}$. To bridge this gap, modern food engineering has allowed brands like _Oatey_ to develop high-protein oat variants that integrate secondary plant protein isolates, boosting the protein content to a highly competitive $10\text{ grams}$ per $100\text{ml}$.
+**Oat milk** presents a distinct macronutrient geometry. Extracted from whole grains, it is naturally higher in complex carbohydrates, delivering 5 grams to 8 grams of carbohydrates per 100ml. It also contains dietary fiber (specifically beta-glucans), which aids in gastrointestinal transit and glycemic control. However, its baseline protein content is modest, typically hovering around 0.6 grams to 1 gram per 100ml. To bridge this gap, modern food engineering has allowed brands like _Oatey_ to develop high-protein oat variants that integrate secondary plant protein isolates, boosting the protein content to a highly competitive 10 grams per 100ml.
 
 ### Micronutrient Fortification: Calcium, Vitamin D, and B12
 
-A distinct physiological advantage of bovine dairy is its naturally occurring, highly bioavailable calcium content, providing approximately $120\text{mg}$ per $100\text{ml}$, which represents a significant portion of the recommended daily intake for skeletal maintenance.
+A distinct physiological advantage of bovine dairy is its naturally occurring, highly bioavailable calcium content, providing approximately 120mg per 100ml, which represents a significant portion of the recommended daily intake for skeletal maintenance.
 
-Unfortified plant milks naturally lack sufficient calcium. However, leading commercial manufacturers have systematically addressed this deficit through rigorous fortification protocols. Commercial almond, soy, and oat milks are routinely fortified with compounds such as Tri-Calcium Phosphate or Calcium Carbonate. For instance, _Epigamia's Unsweetened Almond Milk_ is fortified to deliver $225\text{mg}$ of calcium per $100\text{ml}$, effectively providing nearly double the calcium concentration of standard toned milk. Similarly, brands like _Sofit_ and _Raw Pressery_ ensure their beverages meet or exceed the $120\text{mg}$ per $100\text{ml}$ threshold.
+Unfortified plant milks naturally lack sufficient calcium. However, leading commercial manufacturers have systematically addressed this deficit through rigorous fortification protocols. Commercial almond, soy, and oat milks are routinely fortified with compounds such as Tri-Calcium Phosphate or Calcium Carbonate. For instance, _Epigamia's Unsweetened Almond Milk_ is fortified to deliver 225mg of calcium per 100ml, effectively providing nearly double the calcium concentration of standard toned milk. Similarly, brands like _Sofit_ and _Raw Pressery_ ensure their beverages meet or exceed the 120mg per 100ml threshold.
 
 Furthermore, because entirely plant-based diets lack natural sources of Vitamin B12, and modern indoor lifestyles limit Vitamin D synthesis, premium plant milks are heavily enriched with Vitamin premixes containing Ergocalciferol (Vitamin D2), Cyanocobalamin (Vitamin B12), and Vitamin A Palmitate. This sophisticated fortification ensures that substituting dairy with commercial plant milk does not precipitate long-term micronutrient deficiencies.
 
 ### Comparative Nutritional Matrix of Commercial Brands
 
-The following table details the nutritional composition of prominent milk varieties available in the Indian market, standardized per $100\text{ml}$ serving based on available clinical and commercial data:
+The following table details the nutritional composition of prominent milk varieties available in the Indian market, standardized per 100ml serving based on available clinical and commercial data:
 
 |**Product Variant**|**Calories (kcal)**|**Protein (g)**|**Carbohydrates (g)**|**Total Fat (g)**|**Calcium (mg)**|
 |---|---|---|---|---|---|
-|**Standard Toned Cow Milk**|$60 - 65$|$3.2$|$4.8$|$3.0$|$120$|
-|**Sofit Unsweetened Soy**|$\approx 68$|$6.4$|$3.6$|$3.2$|Fortified|
-|**Epigamia Almond Unsweetened**|$20.8$|$1.41$|$0.22$|$1.58$|$225$|
-|**Oatey Regular Oat Drink**|$\approx 61$|$1.0$|High|$1.5$|$120$|
-|**Raw Pressery Almond Milk**|$16.8$ - $168$*|$0.5$ - $5.0$*|$2.5$ - $25.1$*|$0.5$ - $5.1$*|$21.6$ - $216$*|
+|**Standard Toned Cow Milk**|60 - 65|3.2|4.8|3.0|120|
+|**Sofit Unsweetened Soy**|\approx 68|6.4|3.6|3.2|Fortified|
+|**Epigamia Almond Unsweetened**|20.8|1.41|0.22|1.58|225|
+|**Oatey Regular Oat Drink**|\approx 61|1.0|High|1.5|120|
+|**Raw Pressery Almond Milk**|16.8 - 168*|0.5 - 5.0*|2.5 - 25.1*|0.5 - 5.1*|21.6 - 216*|
 
 (Note: Data for Raw Pressery in source indicates 168 kcal and 25g carbs per 100ml, which strongly suggests the data reflects a heavily sweetened variant or a larger serving size mislabeled as 100ml. Standard unsweetened almond milks fall in the 20 kcal range.)
 
@@ -130,13 +130,13 @@ The following table details the nutritional composition of prominent milk variet
 
 The central barrier to mass adoption of plant-based milks in India remains economic. The Indian commercial dairy market is sustained by complex cooperative structures, massive economies of scale, and significant direct and indirect government subsidies, which collectively maintain an artificially suppressed retail price.
 
-Standard cow's milk from established cooperatives like _Amul_, _Nandini_, and _Heritage_ is ubiquitous across platforms like Zepto and Blinkit. A $500\text{ml}$ pouch of standard toned or full-cream milk retails between ₹24 and ₹33, establishing a baseline cost of approximately **₹52 to ₹66 per liter**. Premium dairy options, such as _Akshayakalpa Organic A2 Cow Milk_, retail at a higher tier, ranging from ₹118 to ₹126 per liter. Specialized local delivery services like _FarmLokal_ offer farm-fresh cow milk at ₹37 per $500\text{ml}$ (₹74 per liter) and buffalo milk at ₹40 per $500\text{ml}$ (₹80 per liter) direct to doorsteps in Noida.
+Standard cow's milk from established cooperatives like _Amul_, _Nandini_, and _Heritage_ is ubiquitous across platforms like Zepto and Blinkit. A 500ml pouch of standard toned or full-cream milk retails between ₹24 and ₹33, establishing a baseline cost of approximately **₹52 to ₹66 per liter**. Premium dairy options, such as _Akshayakalpa Organic A2 Cow Milk_, retail at a higher tier, ranging from ₹118 to ₹126 per liter. Specialized local delivery services like _FarmLokal_ offer farm-fresh cow milk at ₹37 per 500ml (₹74 per liter) and buffalo milk at ₹40 per 500ml (₹80 per liter) direct to doorsteps in Noida.
 
 In stark contrast, commercial plant-based milks currently operate without comparable subsidies and command both a "novelty premium" and a higher cost of specialized processing and tetra-packaging. This renders them significantly more expensive in mainstream retail environments.
 
 ### Retail Pricing Breakdown of Commercial Plant Milks
 
-**1. Soy Milk: The Economic Bridge** Soy milk represents the most economically viable ready-to-drink commercial alternative. Brands like _Sofit_ retail their vanilla, chocolate, and unsweetened soy milks on Zepto and Amazon at approximately **₹108 to ₹112 per liter**. _So Good_ also offers a plant-based soy beverage at **₹124 per liter**. While this represents a $60\%$ to $80\%$ premium over standard pouch dairy, it is the only pre-packaged liquid that offers total nutritional parity at a price point approaching accessibility for the middle class.
+**1. Soy Milk: The Economic Bridge** Soy milk represents the most economically viable ready-to-drink commercial alternative. Brands like _Sofit_ retail their vanilla, chocolate, and unsweetened soy milks on Zepto and Amazon at approximately **₹108 to ₹112 per liter**. _So Good_ also offers a plant-based soy beverage at **₹124 per liter**. While this represents a 60% to 80% premium over standard pouch dairy, it is the only pre-packaged liquid that offers total nutritional parity at a price point approaching accessibility for the middle class.
 
 **2. Almond Milk: The Variable Premium** Almond milk pricing is highly variable, largely dependent on the concentration of almonds and brand positioning. _So Good_ offers highly accessible variants, with 1-liter cartons retailing between **₹227 and ₹246**, and smaller entry-level cartons available for **₹67**. Mid-tier options like _Epigamia_ retail on Zepto at **₹217 per liter**, while _Raw Pressery_ positions its cold-pressed almond milk at the upper end of the spectrum, retailing at **₹254 per liter**.
 
@@ -144,9 +144,9 @@ In stark contrast, commercial plant-based milks currently operate without compar
 
 ### The Value Hack: Dehydrated Plant-Based Milk Powders
 
-For consumers focused purely on utility, nutrition, and minimizing cost, the most disruptive economic intervention in the plant-based market is the utilization of dehydrated milk powders. Water accounts for over $90\%$ of the weight and volume of liquid milk, meaning consumers paying ₹250 for a tetra-pack are largely paying for the transportation and packaging of water.
+For consumers focused purely on utility, nutrition, and minimizing cost, the most disruptive economic intervention in the plant-based market is the utilization of dehydrated milk powders. Water accounts for over 90% of the weight and volume of liquid milk, meaning consumers paying ₹250 for a tetra-pack are largely paying for the transportation and packaging of water.
 
-Brands like _VeganDay Milky Magic_ and _Urban Platter_ sell soy and oat milk bases in powdered form. _Urban Platter's Soy Milk Powder_ requires simply mixing $30\text{g}$ of powder with $200\text{ml}$ of water to yield fresh, high-protein soy milk. _VeganDay's_ soy milk base allows consumers to formulate milk on demand using a protein shaker. This decentralized reconstitution model circumvents the tetra-pack premium, yielding fresh plant milk at an highly competitive cost of **₹90 to ₹180 per liter**.
+Brands like _VeganDay Milky Magic_ and _Urban Platter_ sell soy and oat milk bases in powdered form. _Urban Platter's Soy Milk Powder_ requires simply mixing 30g of powder with 200ml of water to yield fresh, high-protein soy milk. _VeganDay's_ soy milk base allows consumers to formulate milk on demand using a protein shaker. This decentralized reconstitution model circumvents the tetra-pack premium, yielding fresh plant milk at an highly competitive cost of **₹90 to ₹180 per liter**.
 
 |**Product / Brand**|**Base Ingredient**|**Retail Platform (Noida)**|**Price per Liter (Approx. ₹)**|
 |---|---|---|---|
@@ -172,13 +172,12 @@ The biochemical process of producing traditional curd relies on the fermentation
 The commercial vegan curd market is nascent but undergoing rapid expansion, transitioning from niche health food stores to major digital fulfillment platforms like BigBasket and Zepto.
 
 - **One Good (formerly Goodmylk):** This brand represents the market leader in terms of affordability and distribution. Their _Peanut Kurd_ is highly accessible, retailing at **₹94 for a 450g tub** and **₹140 for a bulk 1kg tub** on BigBasket. The product utilizes peanut protein to achieve a remarkably thick, creamy texture that closely mimics standard dairy curd. Consumer reviews indicate that while it possesses a subtle, lingering peanut aftertaste, it is highly effective in complex culinary applications like raita and curd rice.
-    
+
 - **White Cub:** Positioned as a premium alternative, White Cub offers a _Soy Coconut Curd_ priced at **₹188 for 450g**. The strategic inclusion of coconut introduces a lighter, airier texture and effectively masks the sometimes abrasive "beany" flavor of raw soy, resulting in a milder product, albeit at a significantly higher premium.
-    
+
 - **Niche and Regional Brands:** Companies like _1ness_ offer cashew-based _Vegurt_ at ₹150 for 400g, providing an option for those with soy or peanut allergies. _Health on Plants_ provides highly affordable peanut and soy curds at ₹100 for 350ml, though their distribution is currently limited geographically.
-    
+
 - **B2B Bulk Operations:** The inherent scalability of plant-based fermentation is demonstrated by commercial B2B operators like _Chetrans_ and _Venus Soya Curd_. These entities supply Soya Curd in large buckets primarily for the restaurant sector at highly disruptive wholesale prices ranging from **₹47.62 to ₹65 per kilogram**. This data definitively proves that at scale, plant-based curd can be manufactured and sold at prices lower than subsidized dairy curd (which retails at ₹60-₹80/kg).
-    
 
 ### The Ultimate Economic Disruption: Homemade (DIY) Peanut Curd
 
@@ -186,7 +185,7 @@ Despite the availability of commercial options, the most profound price-to-value
 
 In the wholesale and retail markets of Noida and the Delhi NCR region, raw peanuts (including loose, red, and Java varieties) currently retail between **₹110 and ₹130 per kilogram**. Similarly, raw yellow soybeans retail between **₹85 and ₹110 per kilogram**.
 
-**The Mathematical Yield and Cost Analysis of DIY Peanut Curd:** The standard biochemical extraction ratio for plant milks dictates that approximately $150\text{g}$ of raw peanuts (roughly one standard cup) yields exactly $1\text{ Liter}$ of thick, high-protein peanut milk.
+**The Mathematical Yield and Cost Analysis of DIY Peanut Curd:** The standard biochemical extraction ratio for plant milks dictates that approximately 150g of raw peanuts (roughly one standard cup) yields exactly 1 Liter of thick, high-protein peanut milk.
 
 Using the upper-bound baseline price of ₹130 per kilogram for raw peanuts in Noida:
 
@@ -194,7 +193,7 @@ Using the upper-bound baseline price of ₹130 per kilogram for raw peanuts in N
 
 Once the peanut milk is extracted (by soaking, blending, and straining the peanuts), it is boiled to neutralize anti-nutritional factors and improve digestibility. Because the milk lacks natural starter bacteria, the fermentation process is initiated either by introducing a small spoonful of residual vegan curd, or more traditionally, by dropping 6 to 8 unwashed green chili crowns (the green stems) into the warm milk. These stems naturally harbor potent strains of _Lactobacillus_ bacteria, which rapidly colonize the peanut milk, dropping the pH and coagulating the proteins into a thick, set curd over 8 to 12 hours.
 
-This biochemical process allows a household to produce $1\text{ Liter}$ of thick, probiotic-rich, high-protein vegan curd for under **₹20 per liter**. This is a revolutionary economic metric. It not only eliminates the premium associated with commercial vegan products, but it drastically undercuts the subsidized price of traditional cow milk and retail dairy curd (which ranges from ₹60 to ₹120/kg for brands like Milky Mist and Amul Masti) by over **$60\%$ to $75\%$**. The leftover peanut pulp from the straining process can also be utilized in chapati dough or as a gravy thickener, resulting in zero food waste and further enhancing the economic value.
+This biochemical process allows a household to produce 1 Liter of thick, probiotic-rich, high-protein vegan curd for under **₹20 per liter**. This is a revolutionary economic metric. It not only eliminates the premium associated with commercial vegan products, but it drastically undercuts the subsidized price of traditional cow milk and retail dairy curd (which ranges from ₹60 to ₹120/kg for brands like Milky Mist and Amul Masti) by over **60% to 75%**. The leftover peanut pulp from the straining process can also be utilized in chapati dough or as a gravy thickener, resulting in zero food waste and further enhancing the economic value.
 
 ## Culinary Performance: The "Masala Chai" Stress Test
 
@@ -214,12 +213,12 @@ The following table synthesizes the multidimensional variables analyzed througho
 
 |**Metric / Attribute**|**Cow Milk (Standard Toned)**|**Soy Milk (Commercial)**|**Oat Milk (Commercial)**|**Almond Milk (Commercial)**|**Peanut Curd (Homemade DIY)**|
 |---|---|---|---|---|---|
-|**Primary Protein (per 100ml)**|$\approx 3.2\text{g}$|$2.6\text{g} - 3.3\text{g}$|$0.6\text{g} - 1.0\text{g}$|$\approx 1.0\text{g}$|$\approx 3.0\text{g} - 4.0\text{g}$|
-|**Caloric Density (per 100ml)**|$60 - 65 \text{ kcal}$|$40 - 68 \text{ kcal}$|$45 - 61 \text{ kcal}$|$15 - 25 \text{ kcal}$|$60 - 75 \text{ kcal}$|
-|**Calcium (per 100ml)**|$120\text{mg}$ (Natural)|$120\text{mg}+$ (Fortified)|$120\text{mg}+$ (Fortified)|$225\text{mg}+$ (Fortified)|Variable (Unfortified)|
+|**Primary Protein (per 100ml)**|\approx 3.2g|2.6g - 3.3g|0.6g - 1.0g|\approx 1.0g|\approx 3.0g - 4.0g|
+|**Caloric Density (per 100ml)**|60 - 65  kcal|40 - 68  kcal|45 - 61  kcal|15 - 25  kcal|60 - 75  kcal|
+|**Calcium (per 100ml)**|120mg (Natural)|120mg+ (Fortified)|120mg+ (Fortified)|225mg+ (Fortified)|Variable (Unfortified)|
 |**Retail Price per Liter (Noida)**|₹52 - ₹66|₹108 - ₹112|₹239 - ₹251|₹217 - ₹254|₹15 - ₹20 (Material Cost)|
-|**GHG Emissions (kg CO2e/L)**|$1.20 - 3.15$|$0.98$|$0.90$|$0.70$|Extremely Low|
-|**Water Footprint (Liters/L)**|$628.2$|$27.8$|$48.24$|$371.46$|Low|
+|**GHG Emissions (kg CO2e/L)**|1.20 - 3.15|0.98|0.90|0.70|Extremely Low|
+|**Water Footprint (Liters/L)**|628.2|27.8|48.24|371.46|Low|
 |**Chai / Boiling Suitability**|Benchmark Standard|Good (Prone to curdle)|Excellent (Highly Stable)|Poor (Too thin/watery)|N/A (Optimal for Raita)|
 |**Ethical Status**|Finances Animal Cruelty|Cruelty-Free|Cruelty-Free|Cruelty-Free|Cruelty-Free|
 
@@ -232,7 +231,7 @@ However, achieving this transition without incurring severe financial penalties 
 **1. The Primary Beverage and Protein Substitute: Soy Milk**
 
 - **Recommendation:** Utilize commercial soy milk (e.g., _Sofit Unsweetened_) for direct consumption, cereal, and general utility, or deploy reconstituted _Urban Platter/VeganDay Soy Milk Powder_ for bulk daily usage.
-- **Rationale:** Soy milk is the only plant-based fluid that provides a 1:1 replacement for dairy protein while remaining economically accessible. At roughly ₹110 per liter, it minimizes the financial shock of transitioning from ₹60/L cow milk. Furthermore, its exceptionally low water footprint ($27.8\text{L/L}$) and carbon footprint ($0.98\text{kg CO2e/L}$) make it a champion of holistic environmental sustainability. Utilizing bulk soy milk powders can further compress the cost down to near-dairy parity (₹90/L).
+- **Rationale:** Soy milk is the only plant-based fluid that provides a 1:1 replacement for dairy protein while remaining economically accessible. At roughly ₹110 per liter, it minimizes the financial shock of transitioning from ₹60/L cow milk. Furthermore, its exceptionally low water footprint (27.8L/L) and carbon footprint (0.98kg CO2e/L) make it a champion of holistic environmental sustainability. Utilizing bulk soy milk powders can further compress the cost down to near-dairy parity (₹90/L).
 
 **2. The Culinary and Gut-Health Foundation: DIY Peanut Curd**
 

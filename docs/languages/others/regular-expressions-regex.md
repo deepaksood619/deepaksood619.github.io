@@ -464,6 +464,10 @@ http://play.inginf.units.it
 
 https://github.com/google/re2/wiki/Syntax
 
+## Examples
+
+- `\$(.*?)\\text\{(.*?)\}` - Regex to remove gpt formula outputs that brake docusaurus build
+
 ## View non-printable unicode characters
 
 https://www.soscisurvey.de/tools/view-chars.php
