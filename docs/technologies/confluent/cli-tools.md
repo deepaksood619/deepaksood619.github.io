@@ -38,7 +38,6 @@
 - **kafka-console-producer** - This tool sends data to Kafka topics. For more information, see [Kafka Producer for Confluent Platform](https://docs.confluent.io/platform/current/clients/producer.html#kafka-producer).
 - **kafka-consumer-groups** - This tool gets a list of the active groups in the cluster. For more information, see [Kafka consumer group tool](https://docs.confluent.io/platform/current/clients/consumer.html#kafka-consumer-describe-group).
 - **kafka-consumer-perf-test** - This tool tests the consumer performance for the Kafka cluster.
-	- `kafka-producer-perf-test --topic your_topic --num-records 1000000 --record-size 100 --throughput 10000 --producer-props bootstrap.servers=<broker_url> acks=1 batch.size=65536 linger.ms=10`
 - **kafka-delegation-tokens** - This tool creates, renews, expires, and describes delegation tokens. For more information, see [Use Delegation Tokens for Authentication in Confluent Platform](https://docs.confluent.io/platform/current/security/authentication/delegation-tokens/overview.html#kafka-sasl-delegate-auth).
 - **kafka-delete-records** - This tool deletes partition records.
 - **kafka-dump-log** - This tool parses a log file and dumps its contents to the console. This is useful for debugging log segments. For more information, see [Debug log segments](https://docs.confluent.io/platform/current/kafka-metadata/config-kraft.html#debug-log-segments).
@@ -132,9 +131,33 @@ Alternative - [The OpenMessaging Benchmark Framework](https://openmessaging.clou
 
 ### Performance Testing
 
+#### kafka-consumer-perf-test
+
+This tool tests the consumer performance for the Kafka cluster.
+
+```bash
+kafka-consumer-perf-test \
+  --bootstrap-server localhost:9092 \
+  --topic topicname \
+  --group consumer_group \
+  --threads 8 \
+  --messages 1000000
+```
+
+#### kafka-producer-perf-test
+
+This tool tests the producer performance for the Kafka cluster. For more information, see [Quick Start for Auto Data Balancing in Confluent Platform](https://docs.confluent.io/platform/current/clusters/rebalancer/quickstart.html#rebalancer).
+
 The most efficient way to generate massive load is using the built-in `kafka-producer-perf-test` script. This tool is designed for benchmarking and can hit 100,000+ msgs/sec from a single client.
 
-`kafka-producer-perf-test --topic your_topic --num-records 1000000 --record-size 100 --throughput 10000 --producer-props bootstrap.servers=<broker_url> acks=1 batch.size=65536 linger.ms=10`
+```bash
+kafka-producer-perf-test \
+	--topic your_topic \
+	--num-records 1000000 \
+	--record-size 100 \
+	--throughput 10000 \
+	--producer-props bootstrap.servers=<broker_url> acks=1 batch.size=65536 linger.ms=10
+```
 
 ## Demos / Hands-on / Learning
 
@@ -147,6 +170,7 @@ The most efficient way to generate massive load is using the built-in `kafka-pr
 	- Lab1 - Price Matching Orders With MCP Tool Calling
 	- Lab2 - Vector Search & RAG
 	- Lab3 - Agentic Fleet Management Using Confluent Intelligence
+- [GitHub - confluentinc/examples: Apache Kafka, Apache Flink and Confluent Platform examples and demos · GitHub](https://github.com/confluentinc/examples)
 
 ## Others
 

@@ -32,6 +32,11 @@
 	- [VPC Peering on AWS](https://docs.confluent.io/cloud/current/networking/peering/aws-peering.html)
 	- [Transit Gateway on AWS](https://docs.confluent.io/cloud/current/networking/aws-transit-gateway.html)
 	- [Private Network Interface on AWS](https://docs.confluent.io/cloud/current/networking/aws-pni.html)
+		- [Introducing Private Network Interface (PNI) on AWS: Lower Kafka Networking Costs by 50%](https://www.confluent.io/blog/introducing-private-network-interface/)
+		- **PNI fundamentally enhances security and optimizes costs, solving the difficult trade-off inherent in other networking options like AWS PrivateLink and virtual private cloud (VPC) peering**. It leverages the same underlying AWS networking primitives used to power Amazon’s own services, such as Amazon Elastic Kubernetes Service (EKS) or AWS Lambda, and delivers secure, cost-efficient private connectivity with the low latency and high throughput that modern Kafka workloads demand.
+		- PNI is already available with Freight clusters, and today, we’re excited to announce it’s also supported on Enterprise clusters. For Enterprise clusters that use PNI for private networking, we’re reducing throughput costs by 20%, from $0.05 to $0.04 per GB of data read or written. We’re also announcing an overall 40% reduction in throughput costs for Freight clusters, from $0.05 to $0.03 per GB of data read or written.
+		- By attaching a network interface from your AWS account to a Confluent-managed service, PNI gives you access to Confluent Cloud through an interface directly inside your own VPC. This allows you to apply your security groups to manage all inbound and outbound traffic using familiar tools and workflows.
+		- PNI delivers a single point to define and enforce security policies, control over traffic directionality, freedom from IP address management or routing constraints, and reduced costs for serving and consuming traffic—offering tangible benefits for platform, infosec, and network administrators alike.
 - [Networking on Azure](https://docs.confluent.io/cloud/current/networking/azure-index.html)
 	- [Azure Networking Overview](https://docs.confluent.io/cloud/current/networking/azure-overview.html)
 	- [Public Networking on Azure](https://docs.confluent.io/cloud/current/networking/azure-public.html)

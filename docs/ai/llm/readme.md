@@ -36,6 +36,9 @@
 - [Practical AI Problems](ai/ml-fundamentals/practical-ai-problems.md)
 - [Interview Questions](ai/llm/interview-questions.md)
 - [Top 50 Interview Questions](ai/llm/interview-questions-top-50.md)
+- [rag-interview-questions](ai/llm/rag-interview-questions.md)
+- [interview-questions-genai-engineer](ai/llm/interview-questions-genai-engineer.md)
+- [vector-db-interview-questions](databases-nosql/vector-databases/interview-questions.md)
 
 ## GenAI Landscape
 

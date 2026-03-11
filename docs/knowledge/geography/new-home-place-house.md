@@ -103,31 +103,6 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 - India has taxes like Europe/England services like Somalia or any other African countries
 - [14 countries offering golden visas for Indians \| Condé Nast Traveller India](https://www.cntraveller.in/story/countries-that-offer-golden-visas-to-indians/)
 
-#### Metrics
-
-- Maximum life expectancy (if no accident or anything like that) vs life expectancy
-- Population Density
-- Spending on healthcare
-- Taxes and generational tax / Property tax
-- Quality of life index for new home and multiple indexes
-- Total homicides, total crime index, total accidents
-- Public transport
-- Education
-	- Best country with scientific temper
-	- [Scientific temper - Wikipedia](https://en.wikipedia.org/wiki/Scientific_temper)
-	- [List of countries by number of scientific and technical journal articles - Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_number_of_scientific_and_technical_journal_articles)
-- Climate & Environmental protection
-- Racism
-- Economics - Job Market, Home Prices
-- [The Economist Democracy Index - Wikipedia](https://en.wikipedia.org/wiki/The_Economist_Democracy_Index)
-- HDI by UNDP
-- Gini coefficient
-- Corruption perception index
-- [List of international rankings - Wikipedia](https://en.wikipedia.org/wiki/List_of_international_rankings)
-- [Where-to-be-born Index - Wikipedia](https://en.wikipedia.org/wiki/Where-to-be-born_Index)
-- [Global Liveability Ranking - Wikipedia](https://en.wikipedia.org/wiki/Global_Liveability_Ranking)
-- [List of globalization-related indices - Wikipedia](https://en.wikipedia.org/wiki/List_of_globalization-related_indices)
-
 ### Renting
 
 - Never ever buy a second hand AC
@@ -582,4 +557,5 @@ Ravi - amrapali -
 
 - [Living](knowledge/geography/living.md)
 - [home-house-building](knowledge/geography/home-house-building.md)
+- [countries-metrics](knowledge/geography/countries-metrics.md)
 - Best country for kids/primary education

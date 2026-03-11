@@ -39,6 +39,9 @@ Recommended Calorie intake - 2800
 2. Eggs (Brain)
       - Egg Yolk - Vitamin D
      - https://blog.bigbasket.com/2021/06/26/eggs-the-best-superfoods-for-everyone
+     - [How to Buy Eggs in India - Truth Be Told](https://tbthealth.substack.com/p/how-to-buy-eggs-in-india)
+	     - Most of what you're paying extra for is marketing. The thing that actually matters is far more boring.
+	     - [Eggs - is washing and refrigerating necessary? - The Livestock Project](https://www.cfsph.iastate.edu/thelivestockproject/eggs-is-washing-and-refrigerating-necessary/)
 3. Bananas (Brain)
 4. Walnuts / pistachios / Almonds (Brain)
 5. Broccoli (Brain, boosts cancer-fighting defence system)
@@ -391,6 +394,7 @@ It can become toxic and inedible quickly; when stored for more than 20 minutes, 
 - [Permaculture | Andrew Millison - YouTube](https://www.youtube.com/@amillison/playlists)
 - [These Farmers Are Earning ₹250+ Crore Every Year \| Story From a Rajasthan Village - YouTube](https://youtu.be/0ClJa5ICJpY)
 - [Auto sinchai system \| Timer valve \| सिंचाई का आसान तरीका #irrigation #irrigationsystem #dehaat - YouTube](https://www.youtube.com/watch?v=mxMCVWe2bDA&ab_channel=DeHaat)
+- [Supporting organic animal health - The Livestock Project](https://www.cfsph.iastate.edu/thelivestockproject/)
 
 ### Playlist
 

@@ -441,7 +441,7 @@
 - The Science of Change [https://podcastaddict.com/podcast/the-science-of-change/4496415](https://podcastaddict.com/podcast/the-science-of-change/4496415)
 - Business Breakdowns [https://podcastaddict.com/podcast/business-breakdowns/4400688](https://podcastaddict.com/podcast/business-breakdowns/4400688)
 - The rational reminder podcast
-- [Acquired Podcast](https://www.acquired.fm/)
+- **[Acquired Podcast](https://www.acquired.fm/)**
 - Empire
 - [Choiceology | Charles Schwab](https://www.schwab.com/learn/choiceology)
 - [Home - We Can Do Hard Things - The Podcast](https://wecandohardthingspodcast.com/)

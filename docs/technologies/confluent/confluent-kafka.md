@@ -130,6 +130,10 @@ p.produce('bank_data', json.dumps(payload), callback=delivery_report)
 p.flush()
 ```
 
+## Changelog / Releases
+
+- [Introducing Schema IDs in Kafka Headers for Smarter Data Governance](https://www.confluent.io/blog/schema-id-kafka-headers-data-governance/)
+
 ## Resources
 
 - [Confluent Developer - YouTube](https://www.youtube.com/@ConfluentDeveloper)

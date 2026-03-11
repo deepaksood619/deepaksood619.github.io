@@ -4,9 +4,9 @@ The path to financial independence is rarely a straight line. For me, it has bee
 
 I am 32 years old, my wife is 31, and we have two daughters—one who is 3 years old and another just 2 months old. My parents, aged 66 and 61, still run their own businesses. Growing up, I learned the "hustle culture" from them; they showed me that you can take care of your family while building something of your own.
 
-We were a middle-class family in a small town. We never had money problems because the cost of living was low, and my parents were disciplined savers. We lived comfortably—we always had a car, house help, and a TV—but it was never about showing off. Their investments were traditional: Fixed Deposits, some land, and LIC funds. My parents didn't shield us from financial realities; instead, they made sure we understood the value of a rupee. That environment baked a habit of saving into me long before I knew what a "portfolio" was.
-
 ## Phase 1: The Ignorance Phase
+
+I grew up in a middle-class family in a small town. We never had money problems because the cost of living was low. My parents weren't aggressive savers; they focused more on _living_—investing in our education and keeping the rest in Fixed Deposits, some land, and LIC funds.
 
 After finishing my engineering and master's degree, I moved to a big city to start my career. At this stage, "finance" was a foreign concept. My focus was purely on technical skills.
 
@@ -16,7 +16,7 @@ When I started my first job at an edtech firm as a software developer, my only f
 
 | Date     | Position                       | CTC (Annual) |
 | -------- | ------------------------------ | ------------ |
-| Dec 2016 | Software Developer (EdTech)    | ₹8 Lakh      |
+| Dec 2016 | Software Developer (Startup)   | ₹8 Lakh      |
 | Aug 2017 | Software Developer (Startup)   | ₹6 Lakh      |
 | Apr 2018 | Software Developer - Promotion | ₹8 Lakh      |
 | Apr 2019 | Software Developer - Promotion | ₹10 Lakh     |
@@ -26,6 +26,12 @@ When I started my first job at an edtech firm as a software developer, my only f
 The turning point wasn't a sudden windfall; it was curiosity. I started asking myself, "Where does money actually come from?"
 
 That one question led me down a rabbit hole of economics and human psychology. I realized that while being frugal is good, the real engine of wealth early in your career is your income. I also realized I needed better advice. I began subscribing to FreeFincal and a few other no-nonsense blogs that offered direct, sometimes "brutal" truths about investing.
+
+However, the "Awakening" was also forced by professional failure. In 2017, I was in an office environment that was negative. Eventually, I was fired. It was a wake-up call. I had to find a new job immediately. A contact offered me a role with a great team, but it meant a 25% pay cut (₹8L to ₹6L). I took it. I saw it as an investment in a better environment where I could actually grow. Focus was purely on learning and not on monetary outcomes.
+
+### Front-Loading the Effort
+
+I realized that with a wife and kids, putting in 16-hour days would eventually become impossible. So, before marriage, I front-loaded the struggle. I studied day and night, upskilled in AI and DevOps, and worked with a level of intensity that I can't replicate today. I’m reaping those benefits now.
 
 ### The Tools and Mindset That Helped Me
 
@@ -49,13 +55,17 @@ Once I understood that my career was my primary investment vehicle, I went into 
 | Dec 2023  | Senior Architect                | ₹68 Lakh     |
 | Nov 2025  | Senior Architect                |      |
 
+### The "Silent" Partner
+
+It is important to be transparent: this isn't a "solo" achievement. My wife works in a top IT company earning ₹2.5 Lakh per month with ESOPs. Her contribution to our overall portfolio is massive.
+
 ### Spending and Debt
 
 I currently have zero debt. I use Credit cards for the perks—we get around ₹50,000 yearly from cashbacks and discounts—but I’ve stopped obsessing over saving pennies. My energy is now spent on bigger spending decisions and increasing my primary income.
 
 ## Phase 4: Financial Sovereignty
 
-As of late 2024, my wife and I reached a point of "Time Sovereignty." We are financially independent. Our portfolio including parents is worth roughly ₹12 Crores.
+As of early 2026, our total family corpus has reached ₹12 Crore. It’s important to clarify that this isn't just "my" money—it's a family asset allocation including my wife and parents.
 
 ### The Flexibility of Renting
 
@@ -87,7 +97,7 @@ I rely heavily on ETFs and Flexicap for domestic exposure and 60% of Internation
 
 - **Health Insurance:** Both our companies provide excellent coverage. It covered the deliveries of both our daughters entirely including most of OPDs. We also keep a large liquid fund for emergencies. My parents are covered under my sister's insurance, which has already successfully covered major operations like transplant, heart stent, cataract, etc.
 - **Term Insurance:** I do not have a personal term insurance policy. Since I have zero debt and our corpus is now large enough to sustain my family indefinitely, the company-provided coverage is more than enough.
-- **Tax Optimization:** I treat tax as a cost to be managed. I analyze the most efficient structures—like comparing presumptive tax for consultancy versus standard deductions—to ensure we keep as much of our income as possible. We subscribe to the old tax regime and submit all evidence diligently.
+- **Tax Optimization:** I treat tax as a cost to be managed. I analyze the most efficient structures—to ensure we keep as much of our income as possible. We subscribe to the old tax regime and submit all the evidences diligently.
 
 ## Future Outlook: Impact and Giving Back
 
@@ -99,13 +109,14 @@ Now that we don't have to work for money, our focus is on impact.
 
 ### Key Lessons Summary
 
-| Category    | My Rule of Thumb                                                  |
-| ----------- | ----------------------------------------------------------------- |
-| Income      | Focus on technical skills and income scaling rather than trading. |
-| Tracking    | Track every rupee from day one. Know where it goes.               |
-| Rent vs Buy | Renting provides the flexibility to pivot your career.            |
-| Debt        | Zero debt is the ultimate peace of mind.                          |
-| Returns     | Only "Real Returns" (after inflation) matter.                     |
-| Purpose     | Money is just a tool to buy back your time and make an impact.    |
+| Category    | My Rule of Thumb                                                                  |
+| ----------- | --------------------------------------------------------------------------------- |
+| Career      | Upskill aggressively before you have kids. Front-load the hustle.                 |
+| Income      | Focus on technical skills and income scaling rather than trading.                 |
+| Tracking    | Track every rupee from day one. Know where it goes.                               |
+| Rent vs Buy | Renting provides the flexibility to pivot your career and say YES to opportunity. |
+| Debt        | Zero debt is the ultimate peace of mind.                                          |
+| Returns     | Only "Real Returns" (after inflation) matter.                                     |
+| Purpose     | Money is just a tool to buy back your time and make an impact.                    |
 
 This journey wasn't about being the smartest person in the room. It was about being consistent, working hard, and making the career pivots that scaled my income. By protecting our downside and focusing on our core expertise, the numbers eventually took care of themselves.

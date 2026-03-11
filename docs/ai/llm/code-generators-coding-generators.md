@@ -97,11 +97,6 @@ You can also ask me questions about your editor selection by starting an inline 
 
 ## Claude Code
 
-```bash
-brew install --cask claude-code
-
-```
-
 [Claude Code: Deep Coding at Terminal Velocity \\ Anthropic](https://www.anthropic.com/claude-code)
 
 - [I Tested Claude Code for a Week - Here's What I Found](https://www.thetoolnerd.com/p/i-tested-claude-code-for-a-week)
@@ -109,6 +104,29 @@ brew install --cask claude-code
 - [ccusage](https://ccusage.com/)
 - [I Spent 2000 Hours Coding With LLMs in 2025. Here are my Favorite Claude Code Usage Patterns : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1q3t579/comment/nxndpgn/)
 	- [Advanced Claude Code Patterns That Move the Needle - Google Docs](https://docs.google.com/document/d/1agzmSskXcdMgJz_cf1KlWdy1kfY3n_XEhHrLU_ESTRk/edit?usp=sharing)
+- [Code Review for Claude Code \| Claude](https://claude.com/blog/code-review)
+
+#### Commands
+
+```bash
+brew install --cask claude-code
+
+claude
+claude --login
+claude --think
+# Print Mode: Runs a one-off task (e.g., "fix tests") and exits.
+claude -p "query"
+```
+
+- **/compact**: Manually shrinks the conversation history to save tokens while preserving key context.
+- **/init**: Initializes a `CLAUDE.md` file in your project to store local coding standards and instructions.
+- **/model**: Quickly switch between models (e.g., switching to `haiku` for fast tasks or `opus` for complex logic).
+- **/review**: Triggers a code review of your current changes or a specific file.
+- **/rewind**: (Double-tap `Esc` or type `/rewind`) Opens a menu to undo recent code changes or revert the conversation.
+- **/usage**: Displays your current token usage and rate limit status.
+- **/mcp**: Manages Model Context Protocol servers (connecting Claude to tools like Jira, Slack, or databases).
+- **/cost:** It will display a breakdown of **Input Tokens**, **Output Tokens**, and **Cache Hits/Misses**, along with a total USD estimate for the current session.
+- **/clear:** This wipes the old context
 
 ## Others
 
@@ -151,6 +169,7 @@ brew install --cask claude-code
 - [GitHub - HKUDS/DeepCode: "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"](https://github.com/HKUDS/DeepCode)
 - [Genspark AI - The All-in-One Super Agent AI Workspace That Does Everything](https://www.genspark.im/)
 	- [Genspark - Your All-in-One AI Workspace](https://www.genspark.ai/)
+- [Never Trust a Monkey: Introducing Intent Integrity Kit](https://www.linkedin.com/pulse/i-told-room-full-developers-never-trust-monkey-had-baruch-sadogursky-riule/)
 
 ## SAAS
 

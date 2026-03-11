@@ -142,12 +142,8 @@ https://www.etmoney.com/blog/beyond-section-80c-10-ways-to-save-taxes
 
 ## Special allowance
 
-[Special Allowance in India: Taxation & Calculation - Tax2win](https://tax2win.in/guide/special-allowance)
-
-[Special Allowance in India - Taxation, Exemption Limit, Calculation](https://cleartax.in/s/special-allowance-india)
-
-[Special Allowance in India - Taxation & Calculation](https://www.bankbazaar.com/tax/special-allowance.html)
-
-[What is Special Allowance? - Taxation and Calculation in India](https://groww.in/p/tax/special-allowance)
-
-[Dearness Allowance - Meaning, Types, Taxation & How to Calculate?](https://scripbox.com/tax/dearness-allowance)
+- [Special Allowance in India: Taxation & Calculation - Tax2win](https://tax2win.in/guide/special-allowance)
+- [Special Allowance in India - Taxation, Exemption Limit, Calculation](https://cleartax.in/s/special-allowance-india)
+- [Special Allowance in India - Taxation & Calculation](https://www.bankbazaar.com/tax/special-allowance.html)
+- [What is Special Allowance? - Taxation and Calculation in India](https://groww.in/p/tax/special-allowance)
+- [Dearness Allowance - Meaning, Types, Taxation & How to Calculate?](https://scripbox.com/tax/dearness-allowance)

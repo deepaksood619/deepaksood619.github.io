@@ -150,6 +150,14 @@ docker exec -it ollama ollama run mistral
 - [Jan: Open source ChatGPT-alternative that runs 100% offline - Jan](https://jan.ai/)
 - [NodeShift - Sovereign AI Cloud](https://nodeshift.com/)
 
+#### Options
+
+- **LM Studio** – A polished desktop application with a built-in search for finding and downloading models from Hugging Face. It is the easiest way to visually manage models and adjust hardware settings like GPU offloading without touching a terminal.
+- **Ollama** – A lightweight command-line tool that runs as a background service to serve models via a simple API. It is the best choice for developers who want to integrate local AI into other apps or run models with a single terminal command.
+- **MLX-LM** – Apple’s official framework optimized specifically for Apple Silicon to achieve the highest possible inference speeds. It is the "performance king" for those comfortable with Python who want to squeeze every drop of power from their Mac's GPU.
+- **Jan.ai** – An open-source, privacy-focused assistant that provides a clean chat interface similar to ChatGPT but entirely offline. It is ideal for users who want organized chat history, file uploads, and a "set-it-and-forget-it" local workspace.
+- **GPT4All** – A beginner-friendly app designed to run efficiently on standard CPUs without needing a powerful graphics card. It features a built-in "LocalDocs" tool that lets you chat privately with your own PDF and text collections out of the box.
+
 #### open-webui / openwebui / open webui (103K stars)
 
 Open WebUI is an extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. It supports various LLM runners like Ollama and OpenAI-compatible APIs, with built-in inference engine for RAG, making it a powerful AI deployment solution.

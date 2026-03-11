@@ -79,7 +79,9 @@ Rows - 1,048,576- Text to column
 - `MEDIAN(C6:C11)`
 - `MAX(C6:C11)`
 - `MIN(C6:C11)`
-- `VLOOKUP(B10,B7:E12,3,)`
+- `VLOOKUP(B10,B7:E12,3,TRUE)`
+	- `=VLOOKUP(search_key, range, index, [is_sorted])`
+	- [VLOOKUP - Google Docs Editors Help](https://support.google.com/docs/answer/3093318?hl=en)
 - `IF(ISNUMBER(MATCH(A2, Sheet2!C:C, 0)), 1, 0)`
 - `IFERROR(VLOOKUP(A2, Sheet12!A:B, 2, FALSE), F2)`
 - `PMT(D5,D6,D4)` - calculate emi amount for loan

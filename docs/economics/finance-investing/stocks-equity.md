@@ -162,3 +162,4 @@ https://www.moneycontrol.com/india-investors-portfolio
 - [The Fallen Multibaggers 🔻 - YouTube](https://youtu.be/ImdsvCqy6d0)
 - [Spot Bad Stock in 3 Easy Steps - YouTube](https://youtu.be/9k00YdNjrNs)
 - [How investors should be thinking as the stock market nears a P/E ratio of 30—a number that spelled disaster before the dotcom crash \| Fortune](https://fortune.com/2025/08/16/stock-market-outlook-rest-of-2025-crash-overvalued/)
+- [Market Notes - March 2026 - by Prabhakar Kudva](https://marketsense.substack.com/p/market-notes-march-2026)
