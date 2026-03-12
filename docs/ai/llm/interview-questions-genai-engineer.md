@@ -3,23 +3,23 @@
 ## Top 10 Development & Agentic RAG Questions
 
 1. How do you implement **Semantic Router** logic to decide between multiple specialized RAG pipelines?
-    
+
 2. What are the trade-offs between **Recursive Character** vs. **Semantic** chunking strategies for unstructured PDFs?
-    
+
 3. How do you handle **"Lost in the Middle"** phenomena when passing large amounts of retrieved context to an LLM?
-    
+
 4. What is the difference between a **ReAct** (Reason+Act) loop and a **Plan-and-Execute** agent architecture?
-    
+
 5. How would you design a **State Machine** (e.g., using LangGraph) to handle multi-turn agentic workflows with cycles?
-    
+
 6. In a production RAG system, how do you implement **Hybrid Search** combining dense vectors with BM25 keyword matching?
-    
+
 7. What metrics would you use from the **RAGAS** framework to evaluate "Faithfulness" vs. "Answer Relevance"?
-    
+
 8. How do you implement **Tool Retrieval** when your agent has access to hundreds of potential function calls?
-    
+
 9. What is **Parent Document Retrieval**, and how does it solve the context-fragmentation issue of small chunks?
-    
+
 10. How do you manage **Asynchronous Callbacks** and streaming events in a multi-agent orchestration system to maintain low perceived latency?
 
 ### Core Technical Comparison

@@ -316,7 +316,7 @@ Please use this prompt on Gemini Advanced when researching : Comprehensively str
 
 **Comparison prompt** - Comprehensively compare ____________ across all aspects on a table. Rate each and every feature out of 10 on the table and also give their average ratings out of 10. Do not make biases based on public opinion.
 
-## Blog Testing
+## Blog Review / Testing
 
 Act as a critical reader who is interested in personal finance but is skeptical of 'get rich quick' stories. Review this blog post about my journey.
 

@@ -6,7 +6,7 @@
 - [Courses / Certifications](courses/readme.md)
 - [Meetups / Talks / Sessions](about-deepak-sood/meetups-talks-sessions.md)
 - [Achievements / Activities / Awards](about-deepak-sood/achievements-activities-awards-certifications.md)
-- [Financial Journey](about-deepak-sood/financial-journey.md)
+- [Financial Journey](about-deepak-sood/financial-journey-till-2026.md)
 - [Social Links](about-deepak-sood/social-links.md)
 - [FAQs](about-deepak-sood/faqs.md)
 - [Personality](about-deepak-sood/personality.md)
