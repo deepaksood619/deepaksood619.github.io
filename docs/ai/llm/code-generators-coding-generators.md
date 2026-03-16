@@ -120,6 +120,7 @@ claude -p "query"
 
 - **/compact**: Manually shrinks the conversation history to save tokens while preserving key context.
 - **/init**: Initializes a `CLAUDE.md` file in your project to store local coding standards and instructions.
+	- [Writing a good CLAUDE.md \| HumanLayer Blog](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
 - **/model**: Quickly switch between models (e.g., switching to `haiku` for fast tasks or `opus` for complex logic).
 - **/review**: Triggers a code review of your current changes or a specific file.
 - **/rewind**: (Double-tap `Esc` or type `/rewind`) Opens a menu to undo recent code changes or revert the conversation.

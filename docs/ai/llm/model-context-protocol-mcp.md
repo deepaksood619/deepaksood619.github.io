@@ -292,8 +292,14 @@ claude mcp add mcp_server_mysql \
 	- X402 - Payment-Required Protocol by Coinbase
 - [GitHub - i-am-bee/acp: Open protocol for communication between AI agents, applications, and humans.](https://github.com/i-am-bee/acp)
 	- [A Hands-on Guide to Agent Communication Protocol](https://blog.dailydoseofds.com/p/a-hands-on-guide-to-agent-communication)
+	- [Welcome - Agent Communication Protocol](https://agentcommunicationprotocol.dev/introduction/welcome)
+	- The **Agent Communication Protocol (ACP)** is an open protocol for agent interoperability that solves the growing challenge of connecting AI agents, applications, and humans. Modern AI agents are often built in isolation, across different frameworks, teams, and infrastructures. This fragmentation slows innovation and makes it harder for agents to work together effectively.
 - Google - Agent Payments Protocol (AP2)
 - Claude Skills - [Antropic - Claude Skills](https://api.filekitcdn.com/e/k7YHPN24SoxyM8nGKZnDxa/a4xJgHQ8Nbk8g4A8riZomz/player)
+- [Under the Hood: Universal Commerce Protocol (UCP) - Google Developers Blog](https://developers.googleblog.com/under-the-hood-universal-commerce-protocol-ucp/)
+	- The [Universal Commerce Protocol (UCP)](http://ucp.dev/) is an open-source standard designed to power the next generation of agentic commerce. By establishing a common language and functional primitives, UCP enables seamless commerce journeys between consumer surfaces, businesses, and payment providers. It is built to work with existing retail infrastructure, and is compatible with Agent Payments Protocol ([AP2](https://ap2-protocol.org/)) to provide secure agentic payments support. It also provides businesses flexible ways to integrate via APIs, Agent2Agent ([A2A](https://a2a-protocol.org/latest/)), and the Model Context Protocol ([MCP](https://modelcontextprotocol.io/docs/getting-started/intro)).
+	- http://0.0.0.0:8182/.well-known/ucp
+	- [GitHub - Universal-Commerce-Protocol/samples: Samples for UCP · GitHub](https://github.com/Universal-Commerce-Protocol/samples)
 
 ## Links
 

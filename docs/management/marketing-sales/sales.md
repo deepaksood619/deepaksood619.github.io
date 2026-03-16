@@ -42,6 +42,7 @@ In the top-down model, you engage the CIO, CEO, or CTO directly and try to convi
 - [Contact Finder Tool \| EasyLeadz for Business Profiles 100% Accurate](https://www.easyleadz.com/)
 - [Lusha \| AI Sales Intelligence Platform to Win Your Next Deal](https://www.lusha.com/)
 - [Streamz AI \| Sales Readiness and Enablement Platform](https://www.streamz.ai/)
+- [fonetic.ai — AI Sales Agent for Indian SMBs \| 24/7 Lead Response & Automation](https://fonetic.ai/)
 
 ## Links
 

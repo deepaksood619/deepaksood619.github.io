@@ -47,3 +47,10 @@ Warren Buffett’s daughter wanted to redo her kitchen and asked for a loan from
 	- Kitchen set
 	- Pillow fight
 	- Tipi tipi tap
+- Play Store Games
+	- Kids Games
+	- Toddle Game
+	- Kids Learn
+	- Speech Blubs
+	- LogicLike
+	- IntellectoKids Learn

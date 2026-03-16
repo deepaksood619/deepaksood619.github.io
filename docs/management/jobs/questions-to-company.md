@@ -189,3 +189,4 @@ https://neilpatel.com/training/growth-hacking-unlocked/raise-money
 
 - [Business questions to ask before taking a startup data role | Yanir Seroussi | Data & AI for Startup Impact](https://yanirseroussi.com/2024/05/06/business-questions-to-ask-before-taking-a-startup-data-role/)
 - [Power of Office Politics, Salary Negotiation & Career Growth \| Sandeep Das \| FO455 Raj Shamani - YouTube](https://youtu.be/JOsrihef5gM)
+- [The Pragmatic Engineer Test: 12 Questions on Engineering Culture - The Pragmatic Engineer](https://blog.pragmaticengineer.com/pragmatic-engineer-test/)

@@ -775,6 +775,16 @@ list contents of directories in a tree-like format
 
 `tree -L 2`
 
+## cd
+
+change directory
+
+- **`pushd <directory>`**: Saves your current location to the top of a virtual stack and immediately changes your working directory to the new path.
+- **`popd`**: Removes the top directory from the stack and automatically returns you to it.
+- **`dirs`**: Displays the current list of directories in your stack.
+
+While `cd -` toggles between your last two directories, pushd and popd use a **Last-In, First-Out (LIFO)** stack, meaning you can store an unlimited number of locations and navigate back through them in reverse order.
+
 ## /usr/bin/time
 
 run programs and summarize system resource usage

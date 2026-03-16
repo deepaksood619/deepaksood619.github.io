@@ -43,6 +43,11 @@ Microproducts - [How I Sold My App For $30,000 In 4 Days | GrowthX Insider - You
     - Coding test taking platform end to end, free of cost, very cost competitive
     - Something like Turing
     - [Round1 AI Interview by Grapevine](https://www.grapevine.in/round1/interviews)
+    - [AI Mock Interviews \| Remasto](https://remasto.com/)
+    - [\[Free AI Tool\] Practice Your Job Interviews with AI-Driven Simulations : r/jobsearchhacks](https://www.reddit.com/r/jobsearchhacks/comments/1erou5t/free_ai_tool_practice_your_job_interviews_with/)
+    - [Interviews by AI \| AI-powered Interview Preparation](https://interviewsby.ai/)
+    - [AI Resume Creation & Interview Preparation \| CareerElite](https://careerelite.ai/)
+    - [UnchartedCareer](https://unchartedcareer.com/)
 - One time payment ChatGPT (API sharing agreement)
 
 #### AI Manager

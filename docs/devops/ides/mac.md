@@ -7,6 +7,7 @@
 ```bash
 Shift + Ctrl + Cmd + 3 - Copy window -> cmd+v (paste)
 Cmd + Shift + 3 - whole window
+Cmd + Shift + 4 - selection - selection crosshairs
 Cmd + Shift + 4 - selection -> space (selection window)
 Cmd + Shift + 5 - Record whole screen
 ```

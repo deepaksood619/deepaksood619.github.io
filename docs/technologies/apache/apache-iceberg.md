@@ -119,3 +119,4 @@ WHERE event_details:account_id::int = 12345
 ## Links
 
 - [Iceberg in the Browser – DuckDB](https://duckdb.org/2025/12/16/iceberg-in-the-browser)
+- [Simulating Catalog and Table Conflicts - Chris Douglas](https://cdouglas.github.io/posts/2026/03/catalog)
