@@ -18,6 +18,13 @@ Compatibility checks know nothing of what actual data exists in a system, so may
 
 ![Schema Registry Compatibility Rules](../../media/Screenshot%202025-12-15%20at%207.57.21%20PM.png)
 
+| **Mode**     | **Can I Delete Fields?**            | **Can I Add Fields?**              | **Key Requirement**                   |
+| ------------ | ----------------------------------- | ---------------------------------- | ------------------------------------- |
+| **Backward** | **Yes** (New consumer ignores them) | **Yes** (Must have default values) | New consumers can read old data.      |
+| **Forward**  | **No** (Old consumer would fail)    | **Yes**                            | Old consumers can read new data.      |
+| **Full**     | **Only Optional**                   | **Only Optional**                  | Both Forward and Backward compatible. |
+| **None**     | Yes                                 | Yes                                | No compatibility checks performed.    |
+
 ## Compatibility Settings
 
 1. **Backward -** (default) Consumers using the new schema can read data written by producers using the latest registered schema.

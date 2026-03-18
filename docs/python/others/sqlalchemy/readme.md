@@ -84,6 +84,24 @@ https://github.com/ksindi/flask-sqlacodegen
 
 ## Migrations
 
+### Alembic
+
+Alembic is a lightweight, powerful database migration tool designed for Python, specifically working with the SQLAlchemy ORM. It manages database schema evolution by creating and running version-controlled migration scripts, allowing developers to upgrade or downgrade database structures safely.
+
+**Key Features & Capabilities:**
+
+- **Automatic Generation:** Detects changes in SQLAlchemy models and automatically generates migration scripts.
+- **Database Compatibility:** Supports PostgreSQL, MySQL, SQLite, Oracle, and MS-SQL.
+- **Migration Control:** Allows creating, applying, and rolling back database changes, including `ALTER` statements.
+- **Environment Management:** Maintains a history of migration files, ensuring consistency across team members' environments.
+
+**Commonly Used Commands:**
+
+- `alembic init <directory>`: Initialize a new migration environment.
+- `alembic revision --autogenerate -m "description"`: Create a new migration script based on model changes.
+- `alembic upgrade head`: Apply all migrations to the database.
+- `alembic downgrade -1`: Roll back the last applied migration.
+
 [GitHub - sqlalchemy/alembic: A database migrations tool for SQLAlchemy.](https://github.com/sqlalchemy/alembic)
 
 ## Others

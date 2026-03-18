@@ -123,6 +123,7 @@ const config = {
             position: 'right',
           },
         ],
+        hideOnScroll: true, // Enable hide on scroll behavior
       },
       colorMode: {
         respectPrefersColorScheme: true,

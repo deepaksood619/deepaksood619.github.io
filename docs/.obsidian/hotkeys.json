@@ -204,12 +204,5 @@
       "key": "7"
     }
   ],
-  "obsidian-auto-link-title:auto-link-title-paste": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "V"
-    }
-  ]
+  "obsidian-auto-link-title:auto-link-title-paste": []
 }

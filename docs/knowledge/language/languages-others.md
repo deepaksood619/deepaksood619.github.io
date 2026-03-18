@@ -71,3 +71,12 @@ https://www.youtube.com/watch?v=T5FNvW19GbA
 | **M**ike    | **Z**ulu     |
 
 [NATO phonetic alphabet - Wikipedia](https://en.wikipedia.org/wiki/NATO_phonetic_alphabet)
+
+### Māori
+
+_Ngā mihi_ is a common Māori phrase meaning **"thanks," "acknowledgments," or "greetings"**. Frequently used in New Zealand, it serves as a polite sign-off for emails, letters, or speeches, expressing appreciation or warm regards. It is a versatile phrase, often shortened from _ngā mihi nui_ (many thanks) or extended to _ngā mihi o te rā_ (greetings of the day).
+
+- Ngā mihi nui: Many thanks/Warm regards.
+- Ngā mihi o te rā: Greetings of the day.
+- Kia ora: A more casual thanks or hello.
+- Tēnā koe: Formal greeting (to one person).

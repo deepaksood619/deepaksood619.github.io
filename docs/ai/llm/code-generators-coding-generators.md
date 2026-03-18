@@ -2,6 +2,12 @@
 
 [GitHub - gsd-build/get-shit-done: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. · GitHub](https://github.com/gsd-build/get-shit-done)
 
+- `/gsd:new-project`
+- `/gsd:discuss-phase 1`
+- `/gsd:plan-phase 1`
+- `/gsd:execute-phase 1`
+- `/gsd:verify-work 1`
+
 ## Gemini Code Assist (GCA) / Gemini CLI
 
 - `/mcp`
