@@ -225,6 +225,9 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [GitHub - toon-format/toon: 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks & reference implementation.](https://github.com/toon-format/toon)
 	- [TOON : Bye Bye JSON for LLMs. TOON is a new datatype, more efficient… \| by Mehul Gupta \| Data Science in Your Pocket \| Nov, 2025 \| Medium](https://medium.com/data-science-in-your-pocket/toon-bye-bye-json-for-llms-91e4fe521b14)
 - [Letta](https://www.letta.com/)
+- [GitHub - NateBJones-Projects/OB1: Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS. · GitHub](https://github.com/NateBJones-Projects/OB1)
+	- [You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build) - YouTube](https://www.youtube.com/watch?v=2JiMmye2ezg)
+	- [One Simple System Gave All My AI Tools a Memory. Here's How. - YouTube](https://www.youtube.com/watch?v=japT66frdhM)
 
 ### Comparision
 

@@ -27,3 +27,7 @@ A lower IIP number puts pressure on the RBI to lower the interest rates.
 The Purchasing managers' index (PMI) is an economic indicator that tries to capture the business activity across the manufacturing and service sectors in the country. This is a survey-based indicator where the respondents -- usually the purchasing managers indicate their change in business perception with respect to the previous month. A separate survey is conducted for the service and the manufacturing sectors. The data from the survey are consolidated on a single index. Typical areas covered in the survey include factors such as new orders, output, business expectations and employment amongst others.
 
 The PMI number usually oscillates around 50. A reading above 50 indicates expansion and below 50 indicates a contraction in the economy. And reading at 50 indicates no change in the economy.
+
+## Links
+
+- [Why we should use a personal inflation rate while planning for retirement](https://freefincal.com/why-we-should-use-a-personal-inflation-rate-while-planning-for-retirement/)

@@ -209,5 +209,6 @@ The trilemma suggests that achieving all three of these goals simultaneously is 
 - [Yuval Noah Harari: Stories, Power & Why Truth Doesn't Matter \| Nikhil Kamath \| People by WTF - YouTube](https://youtu.be/N0S048D2tj4)
 - [Why a Substack Spooked Wall Street and Dalal Street](https://www.linkedin.com/pulse/why-substack-spooked-wall-street-dalal-vestedfinance-8ec1c/)
 	- [THE 2028 GLOBAL INTELLIGENCE CRISIS](https://www.citriniresearch.com/p/2028gic)
+- [It All Comes Down to Who Controls the Strait of Hormuz: The “Final Battle"](https://www.linkedin.com/pulse/all-comes-down-who-controls-strait-hormuz-final-battle-ray-dalio-ienne/)
 
 ## End

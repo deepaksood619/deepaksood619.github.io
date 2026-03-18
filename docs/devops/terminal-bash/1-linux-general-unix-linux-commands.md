@@ -985,7 +985,7 @@ screen -X -S <screen_session_name> quit
 
 ```bash
 # set white color badge
-printf "\e]1337;SetBadgeFormat=$(echo -n "OSS" | base64)\a\e]1337;SetColors=badge=ffffff\a"
+printf "\e]1337;SetBadgeFormat=$(echo -n "CC" | base64)\a\e]1337;SetColors=badge=ffffff\a"
 
 # with transparency # red color
 printf "\e]1337;SetBadgeFormat=$(echo -n "OSS" | base64)\a\e]1337;SetColors=badge=ffffff80\a"

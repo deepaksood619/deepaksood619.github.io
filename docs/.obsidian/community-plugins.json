@@ -3,12 +3,10 @@
   "obsidian-auto-link-title",
   "obsidian-reveal-active-file",
   "editing-toolbar",
-  "meld-encrypt",
+  "editor-width-slider",
   "nldates-obsidian",
-  "recent-files-obsidian",
+  "obsidian-pandoc",
   "obsidian-reading-time",
-  "obsidian-regex-replace",
-  "copilot",
-  "notes-dater",
-  "editor-width-slider"
+  "recent-files-obsidian",
+  "obsidian-regex-replace"
 ]

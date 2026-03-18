@@ -81,7 +81,45 @@ Pages - That are not part of blog, and are standalone pages like about us, conta
 - Accordian plugin
 - https://wordpress.org/support/article/managing-plugins
 
+### The Setup & Basics
+
+1. **Local Environment:** Always develop locally using tools like **LocalWP** or **DevKinsta** to avoid crashing a live site.
+2. **Directory Path:** Your plugin must live in a unique folder inside `/wp-content/plugins/`.
+3. **Naming Convention:** Use lowercase and dashes for your folder and main file name (e.g., `my-cool-plugin/my-cool-plugin.php`).
+4. **The Header Comment:** Start your main PHP file with a standard "Plugin Header" comment so WordPress can recognize and list it.
+5. **Direct Access Protection:** Add `if ( ! defined( 'ABSPATH' ) ) exit;` at the top of all files to prevent malicious external execution.
+
+### The Engine (Hooks)
+
+1. **Understand Hooks:** Use Hooks (Actions and Filters) to "attach" your code to WordPress events without modifying core files.
+2. **Action Hooks:** Use `add_action()` to _do_ something at a specific time (e.g., sending an email when a post is published).
+3. **Filter Hooks:** Use `add_filter()` to _change_ data before it’s displayed (e.g., adding a "Read More" link to post content).
+4. **Unique Prefixing:** Always prefix your functions and classes (e.g., `mcp_my_function`) to avoid naming conflicts with other plugins.
+5. **The `init` Hook:** Use the `init` hook for registering Custom Post Types (CPTs) or taxonomies after WordPress has fully loaded.
+
+### Security & Best Practices
+
+1. **Sanitize Everything:** Use `sanitize_text_field()` or `absint()` on all user inputs before they touch your database.
+2. **Validation:** Check that data is in the expected format (e.g., `is_email()`) before processing it.
+3. **Escaping Output:** Use `esc_html()`, `esc_attr()`, or `esc_url()` when echoing data to the browser to prevent XSS attacks.
+4. **Use Nonces:** Implement "Nonces" (numbers used once) to verify that a request actually came from an authorized user in your admin.
+5. **Capability Checks:** Wrap admin functions in `current_user_can( 'manage_options' )` to ensure only admins can run them.
+
+### The Admin & UI
+
+1. **Enqueue Scripts:** Never hardcode `<script>` tags; use `wp_enqueue_script()` and `wp_enqueue_style()` for JS and CSS.
+2. **Admin Menus:** Use `add_menu_page()` to create a dedicated settings page for your plugin in the dashboard.
+3. **Shortcodes:** Create `[my_plugin_tag]` tags using `add_shortcode()` to let users easily place your features on pages.
+4. **Internationalization:** Wrap all text strings in `__( 'Your Text', 'text-domain' )` so your plugin can be translated.
+5. **The `readme.txt`:** Include a properly formatted `readme.txt` file for versioning, changelogs, and to satisfy WordPress Repository requirements.
+
 ## Tools
+
+### [Local - Local WordPress development made simple](https://localwp.com/)
+
+The #1 local WordPress® development tool
+
+An effortless way to develop WordPress sites locally
 
 ### WP-Cli
 
@@ -305,3 +343,5 @@ While there are different ways to add Google Analytics your WordPress site, here
 - https://www.freecodecamp.org/news/easily-create-a-website-using-elementor-and-wordpress
 - [Harness WordPress: Hooks, Actions and Filters  | Toptal](https://www.toptal.com/wordpress/power-of-wordpress-hooks-actions-and-filters)
 - [The Ultimate Guide to High Performance WordPress](https://www.freecodecamp.org/news/the-ultimate-guide-to-high-performance-wordpress/)
+- [GitHub - WordPress/mcp-adapter: An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically. · GitHub](https://github.com/WordPress/mcp-adapter)
+	- [Abilities API in WordPress 6.9 – Make WordPress Core](https://make.wordpress.org/core/2025/11/10/abilities-api-in-wordpress-6-9/)

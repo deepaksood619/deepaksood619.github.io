@@ -250,4 +250,3 @@ Here are 30 websites to find remote jobs that pay in USD:
 - One of the biggest complaints I hear from job seekers is that they don't have enough time.
 - Both Gmail and Outlook have schedule send features.
 - Draft up notes to every person on your contact list and schedule them to send in January.
-

@@ -77,3 +77,4 @@ An "intelligence explosion" refers to a hypothetical scenario where a self-impro
 - [AI fatigue is real and nobody talks about it \| Siddhant Khare](https://siddhantkhare.com/writing/ai-fatigue-is-real)
 - [The AI Vampire. This was an unusually hard post to… \| by Steve Yegge \| Feb, 2026 \| Medium](https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163)
 - [Embrace the uncertainty](https://brittanyellich.com/embrace-the-uncertainty/)
+- [Why Hasn’t AI Made Work Easier? - Cal Newport](https://calnewport.com/why-hasnt-ai-made-work-easier/)

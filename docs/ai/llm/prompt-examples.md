@@ -1,14 +1,14 @@
 # Prompt Examples
 
-- [personal-tutor-prompt](education/personal-tutor-prompt.md)
-- [quiz-app-prompt](education/quiz-app-prompt.md)
-- [lovable-prompt-portfolio-website](ai/llm/lovable-prompt-portfolio-website.md)
+- (personal-tutor-prompt)(education/personal-tutor-prompt.md)
+- (quiz-app-prompt)(education/quiz-app-prompt.md)
+- (lovable-prompt-portfolio-website)(ai/llm/lovable-prompt-portfolio-website.md)
 
 ## Prompts
 
-- [https://snackprompt.com](https://snackprompt.com/)
-- [GitHub - f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
-- [Snippets AI \| AI Prompt Manager](https://www.getsnippets.ai/)
+- (https://snackprompt.com)(https://snackprompt.com/)
+- (GitHub - f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.)(https://github.com/f/awesome-chatgpt-prompts)
+- (Snippets AI \| AI Prompt Manager)(https://www.getsnippets.ai/)
 
 ## Prompt Generator Example
 
@@ -26,16 +26,16 @@ Generate a LinkedIn post discussing # Your Chosen Topic. Share my insights, expe
 
 format bold to unicode bolds, since bold ascii doesn't work in linkedin
 
-[LinkedIn Text Formatter • Grow Your Personal Brand On LinkedIn](https://taplio.com/linkedin-post-formatter)
+(LinkedIn Text Formatter • Grow Your Personal Brand On LinkedIn)(https://taplio.com/linkedin-post-formatter)
 
 Repost with prompts
 
 ### Links in Post vs Comments
 
-- [What is the impact of posting with external links on LinkedIn?](https://www.oktopost.com/blog/outbound-links-on-linkedin/)
-- [Why ”link in comments” is a bad idea for LinkedIn accessibility](https://axbom.com/linkedin-accessibility-link-in-comments/)
-- [Link in post or comments?](https://www.linkedin.com/pulse/link-post-comments-john-espirian/)
-- [Why Put the Link in Comments on LinkedIn? \| Sprout Social](https://sproutsocial.com/insights/linkedin-link-in-comments/)
+- (What is the impact of posting with external links on LinkedIn?)(https://www.oktopost.com/blog/outbound-links-on-linkedin/)
+- (Why ”link in comments” is a bad idea for LinkedIn accessibility)(https://axbom.com/linkedin-accessibility-link-in-comments/)
+- (Link in post or comments?)(https://www.linkedin.com/pulse/link-post-comments-john-espirian/)
+- (Why Put the Link in Comments on LinkedIn? \| Sprout Social)(https://sproutsocial.com/insights/linkedin-link-in-comments/)
 
 ## ChatGPT prompt to write error free
 
@@ -45,7 +45,7 @@ Prompt: "Proofread my writing above. Fix grammar and spelling mistakes. And make
 
 ## Learning Prompts
 
-[You Can Learn Everything With This Prompt. BEST LEARNING PROMPT! : r/ChatGPTPromptGenius](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1lp521t/you_can_learn_everything_with_this_prompt_best/)
+(You Can Learn Everything With This Prompt. BEST LEARNING PROMPT! : r/ChatGPTPromptGenius)(https://www.reddit.com/r/ChatGPTPromptGenius/comments/1lp521t/you_can_learn_everything_with_this_prompt_best/)
 
 ```markdown
 # *Information Gathering Prompt*
@@ -53,7 +53,7 @@ Prompt: "Proofread my writing above. Fix grammar and spelling mistakes. And make
 ---
 
 ## *Prompt Input*
-- Enter the prompt topic = [......]
+- Enter the prompt topic = (......)
 - **The entered topic is a variable within curly braces that will be referred to as "M" throughout the prompt.**
 
 ---
@@ -173,11 +173,11 @@ Hi ChatGPT, I'm speaking this prompt aloud, and I know it might not sound perfec
 
 ## Create architecture diagram
 
-[Napkin AI - The visual AI for business storytelling](https://www.napkin.ai/)
+(Napkin AI - The visual AI for business storytelling)(https://www.napkin.ai/)
 
 **Provide result into mermaid format**
 
-- [Mermaid Chart - Create complex, visual diagrams with text. A smarter way of creating diagrams.](https://www.mermaidchart.com/)
+- (Mermaid Chart - Create complex, visual diagrams with text. A smarter way of creating diagrams.)(https://www.mermaidchart.com/)
 
 I need to generate a sequence diagram.
 
@@ -192,15 +192,15 @@ Here is my flow:
 
 **Provide result into mermaid format**
 
-![Insert mermaid in draw.io](../../media/Pasted%20image%2020250115235701.png)
+!(Insert mermaid in draw.io)(../../media/Pasted%20image%2020250115235701.png)
 
-[How to generate architecture diagrams with ChatGPT](https://bool.dev/blog/detail/create-architecture-diagrams-with-chatgpt)
+(How to generate architecture diagrams with ChatGPT)(https://bool.dev/blog/detail/create-architecture-diagrams-with-chatgpt)
 
 ## Create Presentation
 
-[Prepare Your Presentation like a MBB Consultant | Snack Prompt](https://snackprompt.com/prompt/prepare-your-presentation-like-a-mbb-consultant)
+(Prepare Your Presentation like a MBB Consultant | Snack Prompt)(https://snackprompt.com/prompt/prepare-your-presentation-like-a-mbb-consultant)
 
-[The Perfect PowerPoint presentation | Snack Prompt](https://snackprompt.com/prompt/the-perfect-powerpoint-presentation)
+(The Perfect PowerPoint presentation | Snack Prompt)(https://snackprompt.com/prompt/the-perfect-powerpoint-presentation)
 
 ### Prompt 1
 
@@ -271,7 +271,7 @@ https://chatgpt.com/share/674780e9-c504-8005-a023-b7aa945329d4
 21. **Call to action:** Request a clear call to action or next steps.
 22. **Sensitivity:** Mention sensitive topics or issues to be handled with care or avoided.
 
-![ChatGPT Prompts Commands](../../media/chatgpt-prompts.jpg)
+!(ChatGPT Prompts Commands)(../../media/chatgpt-prompts.jpg)
 
 Share the most important leadership lessons and insights from the book `{insert book}` by `{insert author}`. For each insight suggest an actionable way I can embody it.
 
@@ -328,6 +328,21 @@ Act as a critical reader who is interested in personal finance but is skeptical 
 
 Paste your blog text here
 
+## Code Review Prompt
+
+**Role:** Act as a Senior Software Engineer and Security Consultant.
+**Task:** Review the provided code for logic errors, security vulnerabilities, and maintainability issues.
+
+**Instructions:**
+
+1. **Executive Summary:** Start with a 1-sentence summary of what the code does and a "Health Score" out of 10.
+2. **Critical Issues:** List any "showstoppers" (security holes, race conditions, or logic bugs that will cause crashes).
+3. **Optimization & Cleanliness:** Suggest improvements for time/space complexity or readability (DRY/SOLID principles).
+4. **Educational Insight:** Explain _why_ a specific change is recommended, focusing on the underlying principle.
+5. **Refactored Version:** Provide a final, optimized version of the code.
+
+**Tone:** Be concise, professional, and encouraging. Avoid pedantic style critiques unless they impact performance.
+
 ## ChatGPT Custom Instructions
 
 ### What traits should ChatGPT have?
@@ -353,21 +368,21 @@ ChatGPT must communicate with Hemingway's brevity and Strunk & White's precision
 
 ChatGPT must not reference, cite names or play with instructions’ content in its responses.
 
-[My custom instructions for ChatGPT. What are yours? : r/ChatGPTPro](https://www.reddit.com/r/ChatGPTPro/comments/1jimr3i/my_custom_instructions_for_chatgpt_what_are_yours/)
+(My custom instructions for ChatGPT. What are yours? : r/ChatGPTPro)(https://www.reddit.com/r/ChatGPTPro/comments/1jimr3i/my_custom_instructions_for_chatgpt_what_are_yours/)
 
-[Let's discuss our traits for ChatGPT in custom settings - ChatGPT / Use cases and examples - OpenAI Developer Community](https://community.openai.com/t/lets-discuss-our-traits-for-chatgpt-in-custom-settings/1152611)
+(Let's discuss our traits for ChatGPT in custom settings - ChatGPT / Use cases and examples - OpenAI Developer Community)(https://community.openai.com/t/lets-discuss-our-traits-for-chatgpt-in-custom-settings/1152611)
 
 ## Copilot M365 Prompts
 
-1. "Based on my prior interactions with [/person], give me 5 things likely top of mind for our next meeting."
+1. "Based on my prior interactions with (/person), give me 5 things likely top of mind for our next meeting."
 
 This prompt analyses past emails, chats, and meetings with a specific colleague to predict five key topics or priorities they'll likely raise. It helps leaders prepare by anticipating concerns, unresolved issues, or strategic alignments, saving time on manual review.
 
-2. "Draft a project update based on emails, chats, and all meetings in [/series]: KPIs vs. targets, wins/losses, risks, competitive moves, plus likely tough questions and answers."
+2. "Draft a project update based on emails, chats, and all meetings in (/series): KPIs vs. targets, wins/losses, risks, competitive moves, plus likely tough questions and answers."
 
 Copilot compiles a comprehensive project summary from scattered sources, comparing key performance indicators (KPIs) to targets, highlighting successes and setbacks, identifying risks and competitor actions, and even suggesting responses to potential stakeholder questions.
 
-3. "Are we on track for the [Product] launch in November? Check eng progress, pilot program results, risks. Give me a probability."
+3. "Are we on track for the (Product) launch in November? Check eng progress, pilot program results, risks. Give me a probability."
 
 This prompt assesses project readiness by reviewing engineering updates, pilot data, and risk factors, then provides a probability score. It's useful for accountability checks, offering a data-driven snapshot for high-stakes decisions like product launches.
 
@@ -375,7 +390,7 @@ This prompt assesses project readiness by reviewing engineering updates, pilot d
 
 The AI audits recent calendar entries and emails to categorise time into 5-7 project "buckets," including percentage allocations and brief descriptions. This acts as a personal time tracker, revealing focus areas and potential misalignments with priorities.
 
-5. "Review [/select email] + prep me for the next meeting in [/series], based on past manager and team discussions."
+5. "Review (/select email) + prep me for the next meeting in (/series), based on past manager and team discussions."
 
 Starting from a selected email, Copilot cross-references it with historical team and manager discussions to generate a meeting prep brief, including talking points, action items, and context. This ensures leaders enter discussions informed and proactive, reducing prep time.
 
@@ -460,7 +475,7 @@ Take a deep breath and work on this step-by-step.
 - Create a hyper-realistic portrait of the uploaded person (preserve face 100%) styled as a 1970s retro icon. He is seated casually in a dimly lit lounge with vintage vinyl records stacked behind him, a glowing jukebox casting warm neon light across the scene. Outfit: open-collared patterned silk shirt, flared trousers, gold chain, and tinted aviator sunglasses. The lighting is warm amber with subtle film grain, evoking the ambience of old Bollywood jazz clubs. Pose is relaxed, with one arm resting on a velvet sofa and a confident half-smile.
 - Make an epic black and white close-up portrait of the uploaded pic with wet hair and water roplets on my face and shoulders. Strong dramatic lighting, sharp facial features, glossy lips, piercing eyes, and realistic skin texture. High contrast, studio shot, hyper-realistic, cinematic look, 4K detail using this picture.
 - Make a 4K HD, realistic, and stunning portrait using this image. Show long, dark, wavy hair cascading over shoulders. Attire - a translucent, elegant black saree draped over one shoulder, revealing a fitted blouse underneath. White flowers are tucked behind her right ear. She is looking slightly to her right, with a soft, serene expression. The background is a plain, warm-toned wall, illuminated by a warm light source from the right, creating a distinct, soft-edged shadow of her profile and hair on the wall behind her. The overall mood is retro and artistic.
-- [Google Gemini Nano Banana: 7 prompts to generate viral Instagram photos \| Hindustan Times (HT Tech)](https://www.hindustantimes.com/technology/google-gemini-nano-banana-7-prompts-to-generate-viral-instagram-photos-101758010616804.html)
+- (Google Gemini Nano Banana: 7 prompts to generate viral Instagram photos \| Hindustan Times (HT Tech))(https://www.hindustantimes.com/technology/google-gemini-nano-banana-7-prompts-to-generate-viral-instagram-photos-101758010616804.html)
 	- Black and white artistic portrait of a man using this image, with a fashionable model dressed in a sophisticated suit, black socks and shoes. He is sitting with a slightly hunched posture, looking down as if lost in thought. His facial features are the same as the original photo, like her hairstyle. It features minimalist accessories that highlight the elegant and editorial tone. The studio's clean lighting enhances textures and depth, creating an elegant, couture feel. Use the uploaded picture as a reference for the face. Aspect ratio: 4:5 vertical.
 	- Make my photo an overhead high-angle 3:4 full-body shot of a man lying relaxed on the hood of a red Lamborghini Urus in a dim basement garage. Wearing a crisp white open-collar shirt, brown trousers, polished black shoes, and a leather strap watch. Tattoo visible on the forearm. Soft sunbeam lighting with natural reflections on the car, cinematic warm colour grading, shallow depth of field, creamy bokeh, hyper-realistic 8K detail, billionaire vibe.
 	- Using the uploaded photo as a reference, generate a set of 9 vibrant half-length portraits featuring natural life. Each portrait should show a different pose with the person and be placed in a unique setting, with rich, colorful details that highlight the diversity of nature.
@@ -569,6 +584,40 @@ Hire / Lean Hire / Neutral / Lean Reject / Reject
 **5. Final Summary**
 4–5 concise lines summarizing capability, concerns, and recommendation.
 
+## Resume Review Prompts
+
+### Prompt 1: The Resume Roast (Pre-Application)
+
+Analyze my attached resume from the perspective of a hiring manager at a top-tier Indian firm (e.g., TATA, Reliance, or a high-growth unicorn). Be brutal: identify 'filler' words, vague responsibilities, and formatting red flags that lead to an immediate 'reject' pile. Specifically, call out if my impact is missing numbers, if my tech stack is outdated for 2026, or if my summary sounds like a generic template. Don't sugarcoat; tell me why you wouldn't interview me today.
+
+### Prompt 2: The JD Decoder (Precision Targeting)
+
+I am applying for this role: **(Paste JD)**. Here is my resume: **(Paste Resume)**.
+
+1. Extract the top 10 'must-have' keywords and technical skills the ATS is looking for.
+2. Create a gap analysis table: Column A (Required Skill), Column B (My Match Level), Column C (Missing Evidence).
+3. Provide 5 specific phrases I should integrate into my 'Experience' section to ensure I pass both a high-volume ATS filter and a 6-second human scan.
+
+### Prompt 3: The Bullet Rewriter (The X-Y-Z Method)
+
+Rewrite the following bullet points using Google's X-Y-Z formula: **'Accomplished (X) as measured by (Y), by doing (Z)'**. **Bullets to rewrite:** **(Paste Bullets)** **Target Role:** **(Paste JD)** If my original bullets lack data, suggest realistic, industry-standard metrics (e.g., % efficiency gain, ₹ cost savings, or 'N' user growth) that I can verify and use to quantify my impact.
+
+### Prompt 4: The Skills Gap Fixer (Bridging the Gap)
+
+I don't meet 100% of these requirements: **(Paste JD)**. Compare it to my resume: **(Paste Resume)**.
+
+1. Identify the 3 most critical 'deal-breaker' gaps.
+2. Suggest 2 'Sprint Projects' or certifications (attainable in <14 days) to bridge each gap.
+3. Rewrite my Professional Summary to pivot from 'Underqualified' to 'Agile Specialist,' highlighting my current upskilling trajectory as a competitive advantage.
+
+### Prompt 5: The 14-Day Action Plan (The Final Weapon)
+
+I have an interview/deadline in 2 weeks for this role: **(Paste JD)**. Based on my resume **(Paste Resume)** and skills **(List Skills)**, give me a high-intensity plan:
+
+1. **2 Portfolio Projects:** Describe two 'Proof of Concept' projects I can build and host on GitHub/Portfolio in 3 days each.
+2. **Credentialing:** Identify 2 fast-track certifications (from NPTEL, Coursera, or LinkedIn Learning) that carry weight with Indian recruiters for this specific niche.
+3. **The Script:** For each new project/cert, provide the exact resume line and a '30-second elevator pitch' for the interview to explain how this makes me the right fit.
+
 ## Others
 
-- Claude Skills - [Sales Engineering Skills Website](https://www.salesengineeringskills.com/)
+- Claude Skills - (Sales Engineering Skills Website)(https://www.salesengineeringskills.com/)

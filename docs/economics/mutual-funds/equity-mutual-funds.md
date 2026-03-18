@@ -140,6 +140,7 @@ Active - Quant Momentum Fund
 - Mirae Asset S&P 500 TOP 50 ETF
 - Quant Infrastructure Fund Direct Growth
 - [List of worst equity mutual funds (Jan 2013 to Dec 2025)](https://freefincal.com/list-of-worst-equity-mutual-funds-jan-2013-to-dec-2025/)
+- [Does it make sense to invest in life cycle mutual funds?](https://freefincal.com/does-it-make-sense-to-invest-in-life-cycle-mutual-funds/)
 
 ## Categories of actively managed equity mutual fund schemes
 

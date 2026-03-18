@@ -147,6 +147,8 @@ Precocity is the **state of having developed certain abilities or behaviors at 
 
 [Can You Teach a Baby Discipline?](https://www.whattoexpect.com/baby-behavior/teaching-discipline.aspx)
 
+[Ways to discipline your child \| BabyCentre](https://www.babycentre.co.uk/a1041645/ways-to-discipline-your-child)
+
 ## Sibling
 
 [7 tips for dealing with sibling rivalry \| BabyCentre](https://www.babycentre.co.uk/7-tips-for-dealing-with-sibling-rivalry_25053878)

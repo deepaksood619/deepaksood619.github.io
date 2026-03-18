@@ -1,5 +1,7 @@
 # Code Generators / Coding Generators
 
+[GitHub - gsd-build/get-shit-done: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. · GitHub](https://github.com/gsd-build/get-shit-done)
+
 ## Gemini Code Assist (GCA) / Gemini CLI
 
 - `/mcp`
