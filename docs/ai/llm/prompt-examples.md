@@ -607,7 +607,7 @@ Rewrite the following bullet points using Google's X-Y-Z formula: **'Accomplishe
 I don't meet 100% of these requirements: **(Paste JD)**. Compare it to my resume: **(Paste Resume)**.
 
 1. Identify the 3 most critical 'deal-breaker' gaps.
-2. Suggest 2 'Sprint Projects' or certifications (attainable in <14 days) to bridge each gap.
+2. Suggest 2 'Sprint Projects' or certifications (attainable in `<14 days`) to bridge each gap.
 3. Rewrite my Professional Summary to pivot from 'Underqualified' to 'Agile Specialist,' highlighting my current upskilling trajectory as a competitive advantage.
 
 ### Prompt 5: The 14-Day Action Plan (The Final Weapon)
