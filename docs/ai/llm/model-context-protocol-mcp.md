@@ -300,6 +300,15 @@ claude mcp add mcp_server_mysql \
 	- The [Universal Commerce Protocol (UCP)](http://ucp.dev/) is an open-source standard designed to power the next generation of agentic commerce. By establishing a common language and functional primitives, UCP enables seamless commerce journeys between consumer surfaces, businesses, and payment providers. It is built to work with existing retail infrastructure, and is compatible with Agent Payments Protocol ([AP2](https://ap2-protocol.org/)) to provide secure agentic payments support. It also provides businesses flexible ways to integrate via APIs, Agent2Agent ([A2A](https://a2a-protocol.org/latest/)), and the Model Context Protocol ([MCP](https://modelcontextprotocol.io/docs/getting-started/intro)).
 	- http://0.0.0.0:8182/.well-known/ucp
 	- [GitHub - Universal-Commerce-Protocol/samples: Samples for UCP · GitHub](https://github.com/Universal-Commerce-Protocol/samples)
+	- Google Merchant Center Next
+		- Add products from a file (Automatically updates)
+			- Create a file that contains all your product details (title, description, price, and more). This method may require some technical knowledge.
+		- Use Google Sheets (Automatically updates)
+			- Add your product details (title, description, price, and more) using a Google Sheets spreadsheet.
+		- Add products one by one (Requires manual updates)
+			- Use this option if you want to add one or just a few products. Just fill in a form with all the details about your product. After you add your products, you can edit, delete or add more at any later time.
+		- Add products using API (Scheduled updates)
+			- Use the Merchant API to upload a large number of products or if you plan to make frequent changes to your product details. This method requires technical knowledge.
 
 ## Links
 

@@ -1,6 +1,6 @@
 # Code Generators / Coding Generators
 
-[GitHub - gsd-build/get-shit-done: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. · GitHub](https://github.com/gsd-build/get-shit-done)
+[GitHub - gsd-build/get-shit-done: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. · GitHub](https://github.com/gsd-build/get-shit-done) ⭐ 35k
 
 - `/gsd:new-project`
 - `/gsd:discuss-phase 1`
@@ -14,8 +14,8 @@
 - `/tools`
 
 - CodeMod - 6-7 Million Lines of Code as context
-- [GitHub - pauldatta/build-adk-agent: Use Gemini CLI or Code Assist Agent Mode to generate working ADK Agents](https://github.com/pauldatta/build-adk-agent)
-- Modernization - [GitHub - codemod-com/codemod: The command line tool for building, sharing, and running codemods. From quick cleanups to complex migrations. AI-friendly, and language-agnostic.](https://github.com/codemod-com/codemod)
+- [GitHub - pauldatta/build-adk-agent: Use Gemini CLI or Code Assist Agent Mode to generate working ADK Agents](https://github.com/pauldatta/build-adk-agent) ⭐ 4
+- Modernization - [GitHub - codemod-com/codemod: The command line tool for building, sharing, and running codemods. From quick cleanups to complex migrations. AI-friendly, and language-agnostic.](https://github.com/codemod-com/codemod) ⭐ 963
 	- 6-7 Million Lines of Code as context
 
 ## Github Copilot
@@ -91,7 +91,7 @@ You can also ask me questions about your editor selection by starting an inline 
 - [Cursor - The AI-first Code Editor](https://www.cursor.com/)
 - [Google Antigravity](https://antigravity.google/)
 - [Windsurf Editor](https://windsurf.com/)
-- [Zed - Code at the speed of thought](https://zed.dev/) - [GitHub - zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.](https://github.com/zed-industries/zed) - 66.3K Stars
+- [Zed - Code at the speed of thought](https://zed.dev/) - [GitHub - zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.](https://github.com/zed-industries/zed) ⭐ 77k
 
 ## Comparisons
 
@@ -108,7 +108,7 @@ You can also ask me questions about your editor selection by starting an inline 
 [Claude Code: Deep Coding at Terminal Velocity \\ Anthropic](https://www.anthropic.com/claude-code)
 
 - [I Tested Claude Code for a Week - Here's What I Found](https://www.thetoolnerd.com/p/i-tested-claude-code-for-a-week)
-- [GitHub - thedotmack/claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.](https://github.com/thedotmack/claude-mem)
+- [GitHub - thedotmack/claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.](https://github.com/thedotmack/claude-mem) ⭐ 38k
 - [ccusage](https://ccusage.com/)
 - [I Spent 2000 Hours Coding With LLMs in 2025. Here are my Favorite Claude Code Usage Patterns : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1q3t579/comment/nxndpgn/)
 	- [Advanced Claude Code Patterns That Move the Needle - Google Docs](https://docs.google.com/document/d/1agzmSskXcdMgJz_cf1KlWdy1kfY3n_XEhHrLU_ESTRk/edit?usp=sharing)
@@ -147,24 +147,24 @@ claude -p "query"
 	- [Jules - An Asynchronous Coding Agent](https://jules.google/)
 	- [Google AI Studio](https://aistudio.google.com/)
 	- [Firebase Studio](https://firebase.studio/) - Firebase AI Studio
-	- [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli)
+	- [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli) ⭐ 98k
 		- npx https://github.com/google-gemini/gemini-cli
 		- **npm install -g @google/gemini-cli**
 			- gemini
 	- Old - [Introducing Duet AI for Google Cloud – an AI-powered collaborator \| Google Cloud Blog](https://cloud.google.com/blog/products/application-modernization/introducing-duet-ai-for-google-cloud)
 - [Galileo AI · Copilot for interface design](https://www.usegalileo.ai/)
-- [GitHub - openai/codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
-- [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli)
+- [GitHub - openai/codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex) ⭐ 66k
+- [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli) ⭐ 98k
 - [Warp: The Agentic Development Environment](https://www.warp.dev/)
 - [Kilo Code - Open source AI agent VS Code extension](https://kilocode.ai/)
-- [GitHub - Pythagora-io/gpt-pilot: The first real AI developer](https://github.com/Pythagora-io/gpt-pilot)
+- [GitHub - Pythagora-io/gpt-pilot: The first real AI developer](https://github.com/Pythagora-io/gpt-pilot) ⭐ 34k
 - [Kiro: The AI IDE for prototype to production](https://kiro.dev/)
 	- [Kiro - The New Agentic AI IDE from AWS - DEV Community](https://dev.to/aws-builders/kiro-the-new-agentic-ai-ide-from-aws-5311)
 	- [Kiro Documentation](https://aws.amazon.com/documentation-overview/kiro/)
-	- [GitHub - kirodotdev/Kiro: Kiro is an agentic IDE that works alongside you from prototype to production.](https://github.com/kirodotdev/Kiro)
+	- [GitHub - kirodotdev/Kiro: Kiro is an agentic IDE that works alongside you from prototype to production.](https://github.com/kirodotdev/Kiro) ⭐ 3.2k
 	- [👻 Kiro Agentic AI IDE: Beyond a Coding Assistant - Full Stack Software Development with Spec Driven AI \| AWS re:Post](https://repost.aws/articles/AROjWKtr5RTjy6T2HbFJD_Mw/%F0%9F%91%BB-kiro-agentic-ai-ide-beyond-a-coding-assistant-full-stack-software-development-with-spec-driven-ai)
 - [Codex \| OpenAI](https://openai.com/codex/)
-- [GitHub - QwenLM/Qwen3-Coder: Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.](https://github.com/QwenLM/Qwen3-Coder)
+- [GitHub - QwenLM/Qwen3-Coder: Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.](https://github.com/QwenLM/Qwen3-Coder) ⭐ 16k
 - [unsloth/Qwen3-Coder-480B-A35B-Instruct-GGUF · Hugging Face](https://huggingface.co/unsloth/Qwen3-Coder-480B-A35B-Instruct-GGUF)
 	- Qwen releases Qwen3-Coder, a SOTA coding model that rivals Claude Sonnet-4, GPT-4.1 & Kimi K2.
 	- Run the 480B model with Unsloth AI Dynamic 2-bit GGUFs - now just 182GB (down from 512GB). 1M context length GGUFs are also available.
@@ -172,10 +172,10 @@ claude -p "query"
 	- [Compare Qwen 3 Coder vs. Sonnet 4 for Code Generation](https://blog.dailydoseofds.com/p/compare-qwen-3-coder-vs-sonnet-4)
 - [GitHub Spark: AI Tool That Builds & Deploys Full-Stack Apps in Minutes - YouTube](https://youtube.com/shorts/Ohi30MUcqsQ?si=EMWFPG02lpuTJ2Bo)
 - [Introducing Strands Agents, an Open Source AI Agents SDK \| AWS Open Source Blog](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/)
-- Modernization - [GitHub - codemod-com/codemod: The command line tool for building, sharing, and running codemods. From quick cleanups to complex migrations. AI-friendly, and language-agnostic.](https://github.com/codemod-com/codemod)
-	- [GitHub - codemod-com/codemod: The command line tool for building, sharing, and running codemods. From quick cleanups to complex migrations. AI-friendly, and language-agnostic.](https://github.com/codemod-com/codemod)
+- Modernization - [GitHub - codemod-com/codemod: The command line tool for building, sharing, and running codemods. From quick cleanups to complex migrations. AI-friendly, and language-agnostic.](https://github.com/codemod-com/codemod) ⭐ 963
+	- [GitHub - codemod-com/codemod: The command line tool for building, sharing, and running codemods. From quick cleanups to complex migrations. AI-friendly, and language-agnostic.](https://github.com/codemod-com/codemod) ⭐ 963
 - [Vibecode - AI Mobile App Builder](https://www.vibecodeapp.com/)
-- [GitHub - HKUDS/DeepCode: "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"](https://github.com/HKUDS/DeepCode)
+- [GitHub - HKUDS/DeepCode: "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"](https://github.com/HKUDS/DeepCode) ⭐ 15k
 - [Genspark AI - The All-in-One Super Agent AI Workspace That Does Everything](https://www.genspark.im/)
 	- [Genspark - Your All-in-One AI Workspace](https://www.genspark.ai/)
 - [Never Trust a Monkey: Introducing Intent Integrity Kit](https://www.linkedin.com/pulse/i-told-room-full-developers-never-trust-monkey-had-baruch-sadogursky-riule/)
@@ -183,6 +183,8 @@ claude -p "query"
 ## SAAS
 
 - [Factory](https://www.factory.ai/)
+- [Oz: The Orchestration Platform for Cloud Agents by Warp](https://www.warp.dev/oz)
+	- Oz is the orchestration platform for cloud agents. Spin up unlimited parallel cloud coding agents - programmable, auditable, and fully steerable.
 
 ## Links
 
@@ -194,6 +196,6 @@ claude -p "query"
 - [GitHub Copilot: The agent awakens - The GitHub Blog](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
 - [What I learned trying seven coding agents](https://www.understandingai.org/p/what-i-learned-trying-seven-coding)
 - [Era of Virtual Employees : Running Background Agents with Claude Code - Terragon, Conductor.build, Cursor](https://www.thetoolnerd.com/p/era-of-virtual-employees-running)
-- [ai-engineering-hub/sonnet4-vs-qwen3-coder at main · patchy631/ai-engineering-hub · GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main/sonnet4-vs-qwen3-coder)
+- [ai-engineering-hub/sonnet4-vs-qwen3-coder at main · patchy631/ai-engineering-hub · GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main/sonnet4-vs-qwen3-coder) ⭐ 32k
 - [The Roadmap for Mastering AI-Assisted Coding in 2025 - MachineLearningMastery.com](https://machinelearningmastery.com/the-roadmap-for-mastering-ai-assisted-coding-in-2025/)
 - [Replit vs Bolt vs Lovable (2025) — Hands‑On Review: What I’d Renew, What I’d Pause](https://www.thetoolnerd.com/p/replit-vs-bolt-vs-lovable-2025-handson-review-thetoolnerd)

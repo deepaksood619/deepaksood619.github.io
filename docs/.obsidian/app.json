@@ -12,9 +12,9 @@
   "newLinkFormat": "absolute",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
-    "includeName": true,
+    "includeName": false,
     "pageSize": "Letter",
-    "landscape": false,
+    "landscape": true,
     "margin": "0",
     "downscalePercent": 100
   }

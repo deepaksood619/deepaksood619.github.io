@@ -426,6 +426,14 @@ https://www.youtube.com/watch?v=PW44JaAlI_8
 - [Kubernetes Pod Price: How to Calculate | by Bohdan Lykhitko | Medium](https://medium.com/@bohdan.lykhitko/kubernetes-pod-price-how-to-calculate-a976315e02b)
 - [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator)
 
+## External Secrets
+
+External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+
+[Introduction - External Secrets Operator](https://external-secrets.io/latest/)
+
+[GitHub - external-secrets/external-secrets - GitHub](https://github.com/external-secrets/external-secrets)
+
 ## Others
 
 - https://www.getporter.dev

@@ -1,8 +1,10 @@
 # Tools
 
-[GitHub - Shubhamsaboo/awesome-llm-apps: Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.](https://github.com/Shubhamsaboo/awesome-llm-apps)
+[The Top 100 Gen AI Consumer Apps — 6th Edition \| Andreessen Horowitz](https://a16z.com/100-gen-ai-apps-6/)
 
-[GitHub - give-me/bookmarklets: Bookmarklet to export the content from chatbots to a PDF with a single click. Supports Claude, ChatGPT, Grok and Gemini.](https://github.com/give-me/bookmarklets)
+[GitHub - Shubhamsaboo/awesome-llm-apps: Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 103k
+
+[GitHub - give-me/bookmarklets: Bookmarklet to export the content from chatbots to a PDF with a single click. Supports Claude, ChatGPT, Grok and Gemini.](https://github.com/give-me/bookmarklets) ⭐ 140
 
 ## ChatGPT / Bard
 
@@ -40,7 +42,7 @@
 - Amazon Titan - Amazon Titan FMs are a family of models built by Amazon that are pretrained on large datasets, which makes them powerful, general-purpose models
 - AI21 labs - Jurassic-2 - Multilingual LLMs for text generation in Spanish, French, German, Portuguese, Italian, and Dutch
 - Antropic - Claude - LLM for conversations, question answering, and workflow automation based on research into training honest and responsible AI systems
-- [GitHub - AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [GitHub - AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 162k
 - Dall E - https://openai.com/dall-e-2
 - [ClipDrop](https://clipdrop.co/)
 - Deep Nostalgia
@@ -63,7 +65,7 @@
 
 - **[Napkin AI - The visual AI for business storytelling](https://www.napkin.ai/)**
 - [Julius AI \| Your AI Data Analyst](https://julius.ai/)
-- [GitHub - mahseema/awesome-ai-tools: A curated list of Artificial Intelligence Top Tools](https://github.com/mahseema/awesome-ai-tools)
+- [GitHub - mahseema/awesome-ai-tools: A curated list of Artificial Intelligence Top Tools](https://github.com/mahseema/awesome-ai-tools) ⭐ 4.6k
 - Merlin Chrome Extension
 - [ElevenLabs - Prime AI Text to Speech | Voice Cloning](https://beta.elevenlabs.io/)
 - [Create Video](https://studio.d-id.com/editor)
@@ -85,7 +87,7 @@
 - [Photo AI: AI Photo Generator](https://photoai.com/)
 - [Generative AI in Jupyter. Jupyter AI, a new open source project… | by Jason Weill | Aug, 2023 | Jupyter Blog](https://blog.jupyter.org/generative-ai-in-jupyter-3f7174824862)
 - [Mem: Your AI knowledge assistant](https://get.mem.ai/)
-- [GitHub - Nutlope/aicommits: A CLI that writes your git commit messages for you with AI](https://github.com/Nutlope/aicommits)
+- [GitHub - Nutlope/aicommits: A CLI that writes your git commit messages for you with AI](https://github.com/Nutlope/aicommits) ⭐ 8.9k
 - [ShareGPT: Share your wildest ChatGPT conversations with one click.](https://sharegpt.com/)
 - [Digi, The New AI Girlfriend App is The Future of Romance - YouTube](https://www.youtube.com/watch?v=3487Y7QlFoo)
 - [Warp AI - AI fully integrated with your terminal](https://www.warp.dev/warp-ai)
@@ -97,26 +99,26 @@
 - [DataGPT - Conversational AI Data Analyst](https://datagpt.com/)
 - [tl;dv.io | AI Meeting Notetaker for Zoom, Google Meet & MS Teams](https://tldv.io/)
 - [FinGPT: Open-Source Financial Large Language Models](https://arxiv.org/abs/2306.06031)
-- [GitHub - mshumer/gpt-investor](https://github.com/mshumer/gpt-investor)
+- [GitHub - mshumer/gpt-investor](https://github.com/mshumer/gpt-investor) ⭐ 2.3k
 - [Self-healing code is the future of software development - Stack Overflow Blog](https://stackoverflow.blog/2023/06/07/self-healing-code-is-the-future-of-software-development/)
 - [**H2O.ai** | The fastest, most accurate AI Cloud Platform](https://h2o.ai/)
 - [Air](https://www.air.ai/)
 - [Runway - Advancing creativity with artificial intelligence.](https://runwayml.com/)
 - [Milo](https://www.joinmilo.com/)
 - [Harvey | Generative AI for Elite Law Firms](https://www.harvey.ai/)
-- [GitHub - mukulpatnaik/researchgpt: A LLM based research assistant that allows you to have a conversation with a research paper](https://github.com/mukulpatnaik/researchgpt)
+- [GitHub - mukulpatnaik/researchgpt: A LLM based research assistant that allows you to have a conversation with a research paper](https://github.com/mukulpatnaik/researchgpt) ⭐ 3.5k
 - [Kombai](https://kombai.com/)
-- [GitHub - RamiKrispin/lang2sql: A tutorial for setting an SQL code generator with the OpenAI API](https://github.com/RamiKrispin/lang2sql)
+- [GitHub - RamiKrispin/lang2sql: A tutorial for setting an SQL code generator with the OpenAI API](https://github.com/RamiKrispin/lang2sql) ⭐ 246
 - [fal.ai/camera](https://www.fal.ai/camera)
-- [GitHub - lxe/llm-companion: Mobile web app for audio "push-to-talk" + TTS chat interface with OpenAI-like APIs](https://github.com/lxe/llm-companion)
-- [GitHub - adithya-s-k/CompanionLLM: CompanionLLM - A framework to finetune LLMs to be your own sentient conversational companion](https://github.com/adithya-s-k/CompanionLLM)
+- [GitHub - lxe/llm-companion: Mobile web app for audio "push-to-talk" + TTS chat interface with OpenAI-like APIs](https://github.com/lxe/llm-companion) ⭐ 43
+- [GitHub - adithya-s-k/CompanionLLM: CompanionLLM - A framework to finetune LLMs to be your own sentient conversational companion](https://github.com/adithya-s-k/CompanionLLM) ⭐ 50
 - [Waii - World's most powerful SQL API built with generative AI](https://www.waii.ai/)
 - [Introducing Devin, the first AI software engineer](https://www.cognition-labs.com/introducing-devin)
 - [Tabnine is an AI assistant that speeds up delivery and keeps your code safe](https://www.tabnine.com/)
-- [GitHub - gofireflyio/aiac: Artificial Intelligence Infrastructure-as-Code Generator.](https://github.com/gofireflyio/aiac)
+- [GitHub - gofireflyio/aiac: Artificial Intelligence Infrastructure-as-Code Generator.](https://github.com/gofireflyio/aiac) ⭐ 3.8k
 - [Invideo AI - Turn ideas into videos - AI video creator](https://invideo.io/)
 - [\[2407.09025\] SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/abs/2407.09025)
-- [GitHub - WecoAI/aideml: AIDE: the Machine Learning CodeGen Agent](https://github.com/WecoAI/aideml)
+- [GitHub - WecoAI/aideml: AIDE: the Machine Learning CodeGen Agent](https://github.com/WecoAI/aideml) ⭐ 1.2k
 - [aiPDF - Your AI-Powered PDF Chat App](https://aipdf.ai/)
 - [Knorish Flow AI - Knorish](https://knorish.com/knorish-flow-ai.html)
 	- Clone yourself with AI using your content. Coach and mentor your audience 24/7 with an AI digital version of yourself, offering expert advice and insights.
@@ -124,7 +126,7 @@
 - [Seyhan Lee](https://seyhanlee.com/)
 - [Home - teachafy](https://assistant.teachafy.com/)
 	- [Teachafy Labs](https://teachafy.com/)
-- [GitHub - k8sgpt-ai/k8sgpt: Giving Kubernetes Superpowers to everyone](https://github.com/k8sgpt-ai/k8sgpt)
+- [GitHub - k8sgpt-ai/k8sgpt: Giving Kubernetes Superpowers to everyone](https://github.com/k8sgpt-ai/k8sgpt) ⭐ 7.6k
 - [Sensai](https://sensai.hyperverge.org/)
 - [Visily - AI-powered UI design software](https://www.visily.ai/)
 - [AI Automation Tool to Simplify Your Complex and Routine Tasks](https://omnimind.ai/)
@@ -144,7 +146,7 @@
 - [xpander.ai \| Build Better AI Agents](https://xpander.ai/)
 - [Manus AI](https://manus.im/guest)
 	- [Manus AI Made My Lit Review 10x Faster — Here’s the Trick - YouTube](https://www.youtube.com/watch?v=NDswjJMHqXI&ab_channel=AndyStapleton)
-	- [GitHub - Fosowl/agenticSeek: Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake.](https://github.com/Fosowl/agenticSeek)
+	- [GitHub - Fosowl/agenticSeek: Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake.](https://github.com/Fosowl/agenticSeek) ⭐ 26k
 - [Double Support Engineering Productivity \| AI Support Engineer \| RunLLM](https://www.runllm.com/)
 - [Puch AI](https://puch.ai/)
 - [SimplAI – Scalable, Secure Agentic AI Platform to Automate Enterprise Workflows](https://simplai.ai/)
@@ -176,13 +178,13 @@
 - [\[2303.17564\] BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)
 - [AI4Finance Foundation · GitHub](https://github.com/AI4Finance-Foundation)
 	- [AI4Finance-Foundation.org - FinGPT, FinRobot, FinRL, AI Agent, FinLLMs, Open-Source Libraries](https://ai4finance.org/)
-	- [GitHub - AI4Finance-Foundation/FinGPT: FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.](https://github.com/AI4Finance-Foundation/FinGPT)
-	- [GitHub - AI4Finance-Foundation/FinRobot: FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀](https://github.com/AI4Finance-Foundation/FinRobot)
+	- [GitHub - AI4Finance-Foundation/FinGPT: FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.](https://github.com/AI4Finance-Foundation/FinGPT) ⭐ 19k
+	- [GitHub - AI4Finance-Foundation/FinRobot: FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀](https://github.com/AI4Finance-Foundation/FinRobot) ⭐ 6.4k
 
 ## DeepFakes
 
 - [Deep Live Cam \| Free online Real-time AI Face Swap & Deepfake with One Image](https://deeplivecam.org/)
-	- [GitHub - hacksider/Deep-Live-Cam: real time face swap and one-click video deepfake with only a single image](https://github.com/hacksider/Deep-Live-Cam)
+	- [GitHub - hacksider/Deep-Live-Cam: real time face swap and one-click video deepfake with only a single image](https://github.com/hacksider/Deep-Live-Cam) ⭐ 80k
 - [Magicam, The Ultimate Real-Time Face Swap Solution](https://magicam.ai/)
 
 ```bash
