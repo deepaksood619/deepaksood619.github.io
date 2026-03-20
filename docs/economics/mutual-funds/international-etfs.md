@@ -10,6 +10,9 @@
 | Nasdaq-100           | QQQ               | CSNDX             |
 | FTSE All World Index | VT                | VWRA              |
 
+- https://fundrise.com/vcx
+	- Private Fund - Top holdings include Anthropic, Databricks, OpenAI, SpaceX, Epic Games, and so on.
+	- 1.85% fee
 - QQQ - Invesco QQQ Trust, Series 1
 	- Expense Ratio - 0.20%
 	- Assets - $326.68B

@@ -69,44 +69,6 @@ psql -U abc -d zenalytix_db_new -p 5432
 psql -h localhost -p 5432 -U postgres -d airflow
 psql -h localhost -p 5432 -U postgres (sentry)
 
--- get table sizes
-SELECT *, pg_size_pretty(total_bytes) AS total
-    , pg_size_pretty(index_bytes) AS INDEX
-    , pg_size_pretty(toast_bytes) AS toast
-    , pg_size_pretty(table_bytes) AS TABLE
-  FROM (
-  SELECT *, total_bytes-index_bytes-COALESCE(toast_bytes,0) AS table_bytes FROM (
-      SELECT c.oid,nspname AS table_schema, relname AS TABLE_NAME
-              , c.reltuples AS row_estimate
-              , pg_total_relation_size(c.oid) AS total_bytes
-              , pg_indexes_size(c.oid) AS index_bytes
-              , pg_total_relation_size(reltoastrelid) AS toast_bytes
-          FROM pg_class c
-          LEFT JOIN pg_namespace n ON n.oid = c.relnamespace
-          WHERE relkind = 'r'
-  ) a
-) a order by total_bytes desc;
-
--- get databases sizes
-SELECT d.datname AS Name,  pg_catalog.pg_get_userbyid(d.datdba) AS Owner,
-    CASE WHEN pg_catalog.has_database_privilege(d.datname, 'CONNECT')
-        THEN pg_catalog.pg_size_pretty(pg_catalog.pg_database_size(d.datname))
-        ELSE 'No Access'
-    END AS SIZE
-FROM pg_catalog.pg_database d
-    ORDER BY
-    CASE WHEN pg_catalog.has_database_privilege(d.datname, 'CONNECT')
-        THEN pg_catalog.pg_database_size(d.datname)
-        ELSE NULL
-    END DESC -- nulls first
-    LIMIT 20;
-
--- table sizes
-select table_name, pg_relation_size(quote_ident(table_name))
-from information_schema.tables
-where table_schema = 'public'
-order by 2;
-
 REINDEX DATABASE zenalytx_db_new;
 REINDEX INDEX index_name;
 REINDEX TABLE table_name;
@@ -125,6 +87,121 @@ ALTER USER test WITH PASSWORD 'test1234';
 DROP USER test;
 
 delete from task_instance where execution_date::date < '2021-01-13 21:00:00+0';
+```
+
+### Database sizes
+
+```sql
+-- get databases sizes
+SELECT d.datname AS Name,  pg_catalog.pg_get_userbyid(d.datdba) AS Owner,
+    CASE WHEN pg_catalog.has_database_privilege(d.datname, 'CONNECT')
+        THEN pg_catalog.pg_size_pretty(pg_catalog.pg_database_size(d.datname))
+        ELSE 'No Access'
+    END AS SIZE
+FROM pg_catalog.pg_database d
+    ORDER BY
+    CASE WHEN pg_catalog.has_database_privilege(d.datname, 'CONNECT')
+        THEN pg_catalog.pg_database_size(d.datname)
+        ELSE NULL
+    END DESC -- nulls first
+    LIMIT 20;
+
+-- get schema sizes
+SELECT
+    schema_name,
+    pg_size_pretty(SUM(table_size)::bigint) AS readable_size,
+    ROUND(SUM(table_size) / 1024.0 / 1024.0 / 1024.0, 4) AS size_gb
+FROM (
+    SELECT
+        schemaname AS schema_name,
+        pg_total_relation_size(quote_ident(schemaname) || '.' || quote_ident(relname)) AS table_size
+    FROM pg_stat_user_tables
+) AS schema_tables
+GROUP BY schema_name
+ORDER BY size_gb DESC;
+
+-- get table sizes
+SELECT *, pg_size_pretty(total_bytes) AS total
+    , pg_size_pretty(index_bytes) AS INDEX
+    , pg_size_pretty(toast_bytes) AS toast
+    , pg_size_pretty(table_bytes) AS TABLE
+  FROM (
+  SELECT *, total_bytes-index_bytes-COALESCE(toast_bytes,0) AS table_bytes FROM (
+      SELECT c.oid,nspname AS table_schema, relname AS TABLE_NAME
+              , c.reltuples AS row_estimate
+              , pg_total_relation_size(c.oid) AS total_bytes
+              , pg_indexes_size(c.oid) AS index_bytes
+              , pg_total_relation_size(reltoastrelid) AS toast_bytes
+          FROM pg_class c
+          LEFT JOIN pg_namespace n ON n.oid = c.relnamespace
+          WHERE relkind = 'r'
+  ) a
+) a order by total_bytes desc;
+
+-- get table sizes GB and MB - Specific columns
+SELECT
+    table_schema,
+    table_name,
+    -- Total size
+    ROUND(total_bytes / 1024.0 / 1024.0 / 1024.0, 2) AS total_size_gb,
+    ROUND(total_bytes / 1024.0 / 1024.0, 2) AS total_size_mb,
+    -- Data size (heap + toast)
+    ROUND((table_bytes + COALESCE(toast_bytes,0)) / 1024.0 / 1024.0 / 1024.0, 2) AS data_size_gb,
+    ROUND((table_bytes + COALESCE(toast_bytes,0)) / 1024.0 / 1024.0, 2) AS data_size_mb,
+    -- Index size
+    ROUND(index_bytes / 1024.0 / 1024.0 / 1024.0, 2) AS index_size_gb,
+    ROUND(index_bytes / 1024.0 / 1024.0, 2) AS index_size_mb
+FROM (
+    SELECT
+        n.nspname AS table_schema,
+        c.relname AS table_name,
+        pg_total_relation_size(c.oid) AS total_bytes,
+        pg_indexes_size(c.oid) AS index_bytes,
+        pg_total_relation_size(c.reltoastrelid) AS toast_bytes,
+        pg_total_relation_size(c.oid)
+          - pg_indexes_size(c.oid)
+          - COALESCE(pg_total_relation_size(c.reltoastrelid), 0) AS table_bytes
+    FROM pg_class c
+    LEFT JOIN pg_namespace n ON n.oid = c.relnamespace
+    WHERE c.relkind = 'r'
+) t
+ORDER BY total_size_gb DESC;
+
+-- Specific schema table sizes
+SELECT
+    table_schema,
+    table_name,
+    -- Total size
+    ROUND(total_bytes / 1024.0 / 1024.0 / 1024.0, 2) AS total_size_gb,
+    ROUND(total_bytes / 1024.0 / 1024.0, 2) AS total_size_mb,
+    -- Data size (heap + toast)
+    ROUND((table_bytes + COALESCE(toast_bytes,0)) / 1024.0 / 1024.0 / 1024.0, 2) AS data_size_gb,
+    ROUND((table_bytes + COALESCE(toast_bytes,0)) / 1024.0 / 1024.0, 2) AS data_size_mb,
+    -- Index size
+    ROUND(index_bytes / 1024.0 / 1024.0 / 1024.0, 2) AS index_size_gb,
+    ROUND(index_bytes / 1024.0 / 1024.0, 2) AS index_size_mb
+FROM (
+    SELECT
+        n.nspname AS table_schema,
+        c.relname AS table_name,
+        pg_total_relation_size(c.oid) AS total_bytes,
+        pg_indexes_size(c.oid) AS index_bytes,
+        pg_total_relation_size(c.reltoastrelid) AS toast_bytes,
+        pg_total_relation_size(c.oid)
+          - pg_indexes_size(c.oid)
+          - COALESCE(pg_total_relation_size(c.reltoastrelid), 0) AS table_bytes
+    FROM pg_class c
+    LEFT JOIN pg_namespace n ON n.oid = c.relnamespace
+    WHERE c.relkind = 'r'
+      AND n.nspname = 'schema_name'
+) t
+ORDER BY total_size_gb DESC;
+
+-- table sizes
+select table_name, pg_relation_size(quote_ident(table_name))
+from information_schema.tables
+where table_schema = 'public'
+order by 2;
 ```
 
 ### Administration
@@ -540,7 +617,7 @@ There is huge number of drawbacks though:
 - dumping is slow, because it's done sequentially, with single worker
 - it's hard to restore just parts of dump
 
-### pg_dump
+### pg_dump / pg_restore
 
 pg_dump, on the other hand, can't dump globals, and can dump only one database at a time. But it can use four dump formats:
 
@@ -552,6 +629,28 @@ pg_dump, on the other hand, can't dump globals, and can dump only one database a
 Plain is just plain text format, just like pg_dumpall dumps. You can load it with psql, and extracting parts can be complicated if dump is large.
 
 All other formats (custom, directory, and tar) are restored using pg_restore program.
+
+```bash
+# all schemas
+pg_dump --format=custom --no-owner --no-privileges -h database_connection_string -U postgres -d postgres -f db_dump.dump
+
+pg_restore --dbname="database_connection_string" --no-owner --no-privileges --verbose ./db_dump
+
+# only specific schema
+pg_dump --format=custom --no-owner --no-privileges \
+  -h database_connection_string \
+  -U postgres \
+  -d postgres \
+  -n schema_name \
+  -f db_dump.dump
+
+pg_restore --dbname="postgresql://postgres.[REF]:[PW]@aws-0-[REGION]://" \
+  --no-owner \
+  --no-privileges \
+  --verbose \
+  -n schema_name \
+  ./db_dump.dump
+```
 
 ### pg_basebackup
 

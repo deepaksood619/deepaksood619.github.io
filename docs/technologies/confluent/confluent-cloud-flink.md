@@ -32,6 +32,7 @@
 	- [Compare Current and Previous Values in a Stream](https://docs.confluent.io/cloud/current/flink/how-to-guides/compare-current-and-previous-values.html)
 	- [Convert the Serialization Format of a Topic](https://docs.confluent.io/cloud/current/flink/how-to-guides/convert-serialization-format.html)
 	- [Create a UDF](https://docs.confluent.io/cloud/current/flink/how-to-guides/create-udf.html)
+		- Confluent Cloud for Apache Flink® now supports external connectivity for user-defined functions (UDFs) as an Early Access feature. External connectivity enables UDFs to interact with external systems and services, like REST APIs, directly from your UDF code. You create Connection objects in Confluent Cloud to manage endpoints and secrets securely, bind connections to UDFs by using the `USING CONNECTIONS` clause in `CREATE FUNCTION`, and access connection details at runtime through `FunctionContext`. For the Early Access release, only Java stateless scalar and table functions with public endpoints are supported.
 	- [Deduplicate Rows in a Table](https://docs.confluent.io/cloud/current/flink/how-to-guides/deduplicate-rows.html)
 	- [Generate Custom Sample Data](https://docs.confluent.io/cloud/current/flink/how-to-guides/custom-sample-data.html)
 	- [Handle Multiple Event Types](https://docs.confluent.io/cloud/current/flink/how-to-guides/multiple-event-types.html)

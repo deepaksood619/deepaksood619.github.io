@@ -53,6 +53,8 @@
 
 ### Gemini
 
+- [Google Slashes Inference Costs 40% with Gemini 3.1](https://businessanalytics.substack.com/p/google-slashes-inference-costs-40)
+	- Google launched Gemini 3.1 Flash-Lite on March 3, 2026 its fastest and cheapest model yet priced at **$0.25/1M input tokens** and **$1.50/1M output tokens**. Benchmarks from Artificial Analysis show output throughput of **381.9 tokens/second**, a **64% jump** over Gemini 2.5 Flash’s 232.3 t/s, with Time to First Token (TTFT) improving **2.5×**. It outperformed GPT-5 mini and Claude 4.5 Haiku across six of eleven benchmark tests, including an **86.9% score** on GPQA Diamond (graduate-level science reasoning).
 - Gemini (1.5 Pro, 1.5 Flash)
 	- Gemini 2.0 Flash (free)
 		- Token rate: 1,000,000 TPM

@@ -2,11 +2,21 @@
 
 [GitHub - gsd-build/get-shit-done: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. · GitHub](https://github.com/gsd-build/get-shit-done) ⭐ 35k
 
-- `/gsd:new-project`
-- `/gsd:discuss-phase 1`
-- `/gsd:plan-phase 1`
-- `/gsd:execute-phase 1`
-- `/gsd:verify-work 1`
+```bash
+# start claude
+claude --dangerously-skip-permissions
+
+/gsd:autonomous
+/gsd:new-project
+/gsd:discuss-phase 1
+/gsd:plan-phase 1
+/gsd:execute-phase 1
+/gsd:verify-work 1
+/gsd:resume-work
+
+# see all workflows of GSD
+ls ~/.claude/get-shit-done/workflows/
+```
 
 ## Gemini Code Assist (GCA) / Gemini CLI
 
