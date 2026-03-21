@@ -260,6 +260,7 @@ Why kicking out children after 18 years is important, let's say you are very wea
 
 ### Youtube
 
+- [Nitya Dance Playlist - YouTube](https://youtube.com/playlist?list=PLmZOzijcemEPsUfyMAdZ7uA9n4KTtZciq&si=ZAbSIiU0HkvZaNUD)
 - [Emma Hubbard - YouTube](https://www.youtube.com/@EmmaHubbard)
 	- [Toddler Development (12 Months to 18 Months) - YouTube](https://www.youtube.com/playlist?list=PLEPQYw7MIUjbBw63r0nASZmbst1FF6sHv)
 	- Natural breaks
@@ -277,6 +278,8 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [I Can Do It with 15 More Action Songs for children \| Nursery rhymes \| Patty Shukla Compilation - YouTube](https://www.youtube.com/watch?v=TfSx50Cnk0U&ab_channel=PattyShuklaKidsTV-Children%27ssongs)
 - [The Rattlin' Bog 🌳 The Wiggles feat. The Tree of Wisdom (The Dancing Tree) 🎶 Ready, Steady, Wiggle! - YouTube](https://www.youtube.com/watch?v=fb2aAtapOQk)
 	- [Rapalje-the-bog-down-in-the-valley-o-lyrics](https://genius.com/Rapalje-the-bog-down-in-the-valley-o-lyrics)
+- [MANNAT DANCE ACADEMY - YouTube](https://www.youtube.com/@mannatdanceacademy5950)
+- [SANJU DANCE ACADEMY OFFICIAL - YouTube](https://www.youtube.com/@sanjudanceacademyofficial)
 
 ### Links
 

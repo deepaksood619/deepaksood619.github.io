@@ -631,6 +631,8 @@ Plain is just plain text format, just like pg_dumpall dumps. You can load it wit
 All other formats (custom, directory, and tar) are restored using pg_restore program.
 
 ```bash
+# always run in screen in background
+
 # all schemas
 pg_dump --format=custom --no-owner --no-privileges -h database_connection_string -U postgres -d postgres -f db_dump.dump
 

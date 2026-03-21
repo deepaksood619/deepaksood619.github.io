@@ -20,7 +20,7 @@
 	- [kafka-schema-registry-compatibility-rules](technologies/kafka/kafka-schema-registry-compatibility-rules.md)
 - [Kafka Listeners](kafka-listeners)
 - [Monitoring](technologies/kafka/monitoring.md)
-- [Kafka Commands](kafka-commands)
+- [Kafka Commands](technologies/kafka/kafka-commands/readme.md)
 - [kafka-python](kafka-python)
 - [Confluent](technologies/confluent/readme.md)
 - [Azure Event Hubs](cloud/azure/azure-event-hubs.md)
