@@ -16,7 +16,19 @@ Kubernetes automatically creates secrets which contain credentials for accessing
 
 The automatic creation and use of API credentials can be disabled or overridden if desired. However, if all you need to do is securely access the API server, this is the recommended workflow.
 
-## Creating a Secret Usingkubectl
+### Service Accounts
+
+A service account is a type of non-human account that, in Kubernetes, provides a distinct identity in a Kubernetes cluster. Application Pods, system components, and entities inside and outside the cluster can use a specific ServiceAccount's credentials to identify as that ServiceAccount. This identity is useful in various situations, including authenticating to the API server or implementing identity-based security policies.
+
+Service accounts exist as ServiceAccount objects in the API server. Service accounts have the following properties:
+
+- **Namespaced:** Each service account is bound to a Kubernetes [namespace](https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces). Every namespace gets a [`default` ServiceAccount](https://kubernetes.io/docs/concepts/security/service-accounts/#default-service-accounts) upon creation.
+- **Lightweight:** Service accounts exist in the cluster and are defined in the Kubernetes API. You can quickly create service accounts to enable specific tasks.
+- **Portable:** A configuration bundle for a complex containerized workload might include service account definitions for the system's components. The lightweight nature of service accounts and the namespaced identities make the configurations portable.
+
+[Service Accounts \| Kubernetes](https://kubernetes.io/docs/concepts/security/service-accounts/)
+
+## Creating a Secret Using kubectl
 
 `kubectl create secret generic db-user-pass --from-file=./username.txt --from-file=./password.txt`
 

@@ -141,6 +141,7 @@ Active - Quant Momentum Fund
 - Quant Infrastructure Fund Direct Growth
 - [List of worst equity mutual funds (Jan 2013 to Dec 2025)](https://freefincal.com/list-of-worst-equity-mutual-funds-jan-2013-to-dec-2025/)
 - [Does it make sense to invest in life cycle mutual funds?](https://freefincal.com/does-it-make-sense-to-invest-in-life-cycle-mutual-funds/)
+- [Edelweiss Nifty LargeMidcap250 Plus 8–13 yr G-Sec 70:30 Index Fund Review](https://freefincal.com/edelweiss-nifty-largemidcap250-plus-8-13-yr-g-sec-7030-index-fund-review/)
 
 ## Categories of actively managed equity mutual fund schemes
 

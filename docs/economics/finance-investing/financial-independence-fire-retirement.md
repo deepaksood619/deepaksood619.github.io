@@ -223,3 +223,4 @@ Even if the 26-year-old retires by 27 (naturally an unlikely event), the suggest
 - [Why the 4% FIRE rule fails in India and how you can fix the retirement plan](https://www.moneycontrol.com/news/business/personal-finance/why-the-4-retirement-rule-fails-for-fire-in-india-and-what-you-should-do-13760092.html)
 - [Using safe withdrawal rates to judge retirement corpus health](https://freefincal.com/using-safe-withdrawal-rates-to-judge-retirement-corpus-health/)
 - [Three Numbers That Redefined My Survival, Comfort, and Freedom](https://freefincal.com/three-numbers-that-redefined-my-survival-comfort-and-freedom/)
+- [How to build the ideal retirement portfolio](https://freefincal.com/how-to-build-the-ideal-retirement-portfolio/)

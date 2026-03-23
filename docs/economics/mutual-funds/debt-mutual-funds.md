@@ -197,3 +197,4 @@ This way, a portion of your money becomes available at regular intervals, giving
 - [New Category: Tax Efficient Debt Funds - YouTube](https://www.youtube.com/watch?v=0m6IKieJ8dY&ab_channel=YadnyaInvestmentAcademy)
 - [Debt Funds for short medium and long term goals \| M Pattabiraman \| Freefincal \| PlumbLine - YouTube](https://youtu.be/MamO0bTN_-8)
 - [What you need to know about debt mutual funds before investing](https://freefincal.com/what-you-need-to-know-about-debt-mutual-funds-before-investing/)
+- [Your Portfolio Doesn’t Need Bonds If You Don’t Need Income](https://freefincal.com/your-portfolio-doesnt-need-bonds-if-you-dont-need-income/)

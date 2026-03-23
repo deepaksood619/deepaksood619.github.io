@@ -1,8 +1,10 @@
 # Editors
 
+## VIM
+
 ## Commenting multiple using the terminal
 
-1. First, pressESC
+1. First, press ESC
 2. Go to the line from which you want to start commenting. Then, pressctrl + v, this will enable the visual block mode.
 3. use thedown arrowto select multiple lines that you want to comment.
 4. Now, pressSHIFT + Ito enable insert mode.
@@ -13,8 +15,6 @@
 1. PressCTRL + Vto enable visual block mode.
 2. Move down and select the lines till you want to uncomment.
 3. pressxand it will uncomment all the selected lines at once.
-
-## VIM
 
 ## Global
 

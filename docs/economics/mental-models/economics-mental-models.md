@@ -375,6 +375,21 @@ The Kindleberger-Minsky model merges Charles Kindleberger's historical analysis 
 
 The Great Gen Z Financial Paradox defines a generation with high financial literacy and awareness, yet low savings and high debt. Despite lower inflation-adjusted income, they engage in "doom spending"—prioritizing short-term experiences over long-term assets due to a bleak economic outlook, often using online loans for lifestyle expenses rather than emergencies
 
+## The Two-Income Financial Trap
+
+The trap occurs when a household builds its entire lifestyle—including high fixed expenses—on the assumption that two incomes will always be available.
+
+**Key Vulnerabilities:**
+
+- **High Fixed Expenses:** Families often commit to larger mortgages, multiple car loans, and private school tuitions based on their combined earnings.
+- **Two Points of Failure:** The household becomes less flexible because if either person loses their income due to job loss, illness, or other factors, the family can no longer meet its financial obligations.
+
+**How to Avoid/Fix It:**
+
+- **Live on One Income:** Try to anchor your fixed living costs to the lower of the two incomes.
+- **Save the Second Income:** Use the second income primarily for saving, investing, and building a financial cushion.
+- **Focus on Resilience:** True financial strength is measured by how much of a "shock" your household can absorb, not by how much you can spend
+
 ## Others
 
 - **Schumpeterian creative destruction** is **the process where innovative, new production units and technologies constantly destroy and replace outdated ones**, acting as the primary engine of economic growth in capitalism.

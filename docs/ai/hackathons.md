@@ -1,6 +1,6 @@
 # Hackathons
 
-## Hackathon Problem Statement: Automated Root Cause Analysis with ML
+## Hackathon Problem Statement: Automated Root Cause Analysis with LLM
 
 ### Overview
 
@@ -188,3 +188,5 @@ For a hackathon in view of Generative computer based intelligence, here are some
 - [hackathon-hackhound](ai/hackathon-hackhound.md)
 - [hackathon-rabbittai](ai/hackathon-rabbittai.md)
 - [GitHub - 8090-inc/top-coder-challenge: go the distance](https://github.com/8090-inc/top-coder-challenge)
+- [30-aiops](about-deepak-sood/projects/30-aiops.md)
+- [GitHub - ashishpatel26/500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. · GitHub](https://github.com/ashishpatel26/500-AI-Agents-Projects)

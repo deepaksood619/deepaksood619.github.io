@@ -185,7 +185,7 @@ Here are some things to know about warrants:
 
 [Stock Warrants vs. Stock Options: What's the Difference?](https://www.investopedia.com/ask/answers/08/stock-option-warrant.asp)
 
-## Salaries
+## Salaries / Payscale
 
 - **Salaries -** [https://www.levels.fyi/#](https://www.levels.fyi/)
 - DevOps and Cloud Architect Salary
@@ -199,6 +199,8 @@ Here are some things to know about warrants:
 	- Senior Editors: ₹9 LPA
 	- Lead Editors: ₹12–14 LPA
 	- JD - https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA/community?lb=Ugkxj-03aC7J7h-C-YGPewEzCeNj1xWnlrlV
+- Radford (now part of Aon) job leveling **provides a standardized framework, primarily using P-levels (Professionals) and M-levels (Managers) from P1-P6 and M1-M6, to benchmark compensation across tech, life sciences, and high-growth companies**. It maps roles by impact, knowledge, and complexity, aligning internal talent with global market data.
+	- [Understanding Job Leveling: Radford Levels and compensly](https://compensly.com/blog/understanding-job-leveling-radford-levels-and-compensly/)
 
 ### In-Hand Salaries
 

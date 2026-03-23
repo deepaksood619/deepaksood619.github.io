@@ -27,8 +27,8 @@ confluent kafka mirror create clickstream.tokyo
 
 Cluster Linking bidirectional mode (a bidirectional cluster link) enables better Disaster Recovery and active/active architectures, with data and metadata flowing bidirectionally between two or more clusters.
 
-- By default, a cluster link is a one-way bridge: topics go from a source cluster to a destination cluster, with data and metadata always flowing from source to destination.
-- In contrast, a bidirectional cluster link is a two-way bridge: topics on either side can go to the other cluster, with data and metadata flowing in both directions.
+- By default, **a cluster link is a one-way bridge:** topics go from a source cluster to a destination cluster, with data and metadata always flowing from source to destination.
+- In contrast, **a bidirectional cluster link is a two-way bridge:** topics on either side can go to the other cluster, with data and metadata flowing in both directions.
 
 ### Consumer-last migrations
 

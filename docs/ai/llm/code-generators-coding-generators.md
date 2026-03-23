@@ -1,23 +1,5 @@
 # Code Generators / Coding Generators
 
-[GitHub - gsd-build/get-shit-done: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. · GitHub](https://github.com/gsd-build/get-shit-done) ⭐ 35k
-
-```bash
-# start claude
-claude --dangerously-skip-permissions
-
-/gsd:autonomous
-/gsd:new-project
-/gsd:discuss-phase 1
-/gsd:plan-phase 1
-/gsd:execute-phase 1
-/gsd:verify-work 1
-/gsd:resume-work
-
-# see all workflows of GSD
-ls ~/.claude/get-shit-done/workflows/
-```
-
 ## Gemini Code Assist (GCA) / Gemini CLI
 
 - `/mcp`
@@ -123,8 +105,9 @@ You can also ask me questions about your editor selection by starting an inline 
 - [I Spent 2000 Hours Coding With LLMs in 2025. Here are my Favorite Claude Code Usage Patterns : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1q3t579/comment/nxndpgn/)
 	- [Advanced Claude Code Patterns That Move the Needle - Google Docs](https://docs.google.com/document/d/1agzmSskXcdMgJz_cf1KlWdy1kfY3n_XEhHrLU_ESTRk/edit?usp=sharing)
 - [Code Review for Claude Code \| Claude](https://claude.com/blog/code-review)
+- [Using Claude Code Remote Control - YouTube](https://www.youtube.com/watch?v=Ko7_tC1fMMM)
 
-#### Commands
+### Commands
 
 ```bash
 brew install --cask claude-code
@@ -146,6 +129,26 @@ claude -p "query"
 - **/mcp**: Manages Model Context Protocol servers (connecting Claude to tools like Jira, Slack, or databases).
 - **/cost:** It will display a breakdown of **Input Tokens**, **Output Tokens**, and **Cache Hits/Misses**, along with a total USD estimate for the current session.
 - **/clear:** This wipes the old context
+
+### GSD
+
+[GitHub - gsd-build/get-shit-done: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. · GitHub](https://github.com/gsd-build/get-shit-done) ⭐ 35k
+
+```bash
+# start claude
+claude --dangerously-skip-permissions
+
+/gsd:autonomous
+/gsd:new-project
+/gsd:discuss-phase 1
+/gsd:plan-phase 1
+/gsd:execute-phase 1
+/gsd:verify-work 1
+/gsd:resume-work
+
+# see all workflows of GSD
+ls ~/.claude/get-shit-done/workflows/
+```
 
 ## Others
 

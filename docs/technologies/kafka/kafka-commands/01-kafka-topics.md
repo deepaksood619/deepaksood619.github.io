@@ -41,7 +41,7 @@ kafka-topics \
  --command-config target.properties \
  --create --topic dev.orders \
  --partitions 30 --replication-factor 3
- 
+
 # increase / alter partitions
 kafka-topics \
   --bootstrap-server lkc-abc.ap-northeast-2.aws.accesspoint.glb.confluent.cloud:9092 \

@@ -78,6 +78,10 @@ https://establishedtitles.com/products/lordship-title-pack-new
 
 - Photoframe with photo
 
+## Piano / Music
+
+- [Jana gana mana easy piano tutorial. - YouTube](https://www.youtube.com/watch?v=Xc0xRyHLiAo)
+
 ## Art and Craft
 
 - [Amazing Water Fountain with Plastic Bottle and Led (DIY) - YouTube](https://www.youtube.com/watch?v=TipNigD283w&ab_channel=RusticKraftChannel)

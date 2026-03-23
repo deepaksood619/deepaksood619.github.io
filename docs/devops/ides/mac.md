@@ -274,7 +274,6 @@ brew services cleanup
 - **kubectl**
 - **helm**
 - **kubectx**
-- **k9s (brew install derailed/k9s/k9s)**
 - tree (directory tree structure)
 - mysql-client / mysql@5.7
 - bat

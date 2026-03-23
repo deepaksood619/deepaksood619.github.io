@@ -36,7 +36,7 @@ kafka-consumer-groups \
   --command-config target.properties \
   --group consumer_group \
   --describe
-  
+
 # reset offsets, delete topic from a consumer group
 kafka-consumer-groups \
   --bootstrap-server lkc-abc.ap-northeast-2.aws.accesspoint.glb.confluent.cloud:9092 \
@@ -50,7 +50,7 @@ kafka-consumer-groups --bootstrap-server <bootstrap_url> \
   --command-config target.properties \
   --group analytics_engine_v1 \
   --describe
-  
+
 ## Kafka Configs
 ## Describe a topic
 kafka-configs --bootstrap-server ke-cp-kafka-headless:9092 --entity-type brokers --entity-default --describe

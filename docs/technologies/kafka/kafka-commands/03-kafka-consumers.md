@@ -28,7 +28,7 @@ kafka-console-consumer \
   --property print.partition=true \
   --property print.offset=true \
   --from-beginning
-  
+
 # consumer
 kafka-console-consumer --bootstrap-server localhost:9092 --consumer.config config.properties --topic sample_data_orders --property "print.key=true"
 

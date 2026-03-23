@@ -174,9 +174,12 @@ k9s -n <namespace>
     :q - quit
     :a - api resources
     :h - help
+    :pod - filter for pods
+    :<api_resource> ex - :deploy - filter for deployments
+    / - filter - filter from the displayed list via name/namespace
 
 ctrl + r - refresh
-ctrl + a - show all resources
+ctrl + a - show all resources (:a)
 shift + f - port forward
 
 f - show port forward
