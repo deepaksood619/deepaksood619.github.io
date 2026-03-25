@@ -39,6 +39,7 @@
 - [rag-interview-questions](ai/llm/rag-interview-questions.md)
 - [interview-questions-genai-engineer](ai/llm/interview-questions-genai-engineer.md)
 - [vector-db-interview-questions](databases-nosql/vector-databases/interview-questions.md)
+- [interview-questions-hr](ai/llm/interview-questions-hr.md)
 
 ## GenAI Landscape
 

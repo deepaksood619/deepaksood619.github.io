@@ -2,7 +2,7 @@
 
 This module covers the lifecycle of Kafka topics, including creation, inspection, and modification.
 
-### Topic Management Commands
+## Topic Management Commands
 
 - `kafka-topics --create` Used to initialize a new topic with specific partitions and replication factors.
 - `kafka-topics --list` Displays all existing topics within the cluster for a given bootstrap server or Zookeeper.
@@ -11,7 +11,7 @@ This module covers the lifecycle of Kafka topics, including creation, inspection
 - `kafka-topics --delete` Marks a topic for deletion (requires `delete.topic.enable=true` on the broker).
 - `kafka-topics --version` Displays the current version of the Kafka topics CLI tool.
 
-### Specialized Topic Tools (from Confluent/Advanced)
+## Specialized Topic Tools (from Confluent/Advanced)
 
 - `kafka-add-brokers` Assists in expanding the cluster by introducing new broker IDs to the metadata.
 - `kafka-reassign-partitions` Used to move partitions between brokers to balance the cluster load.
@@ -19,7 +19,7 @@ This module covers the lifecycle of Kafka topics, including creation, inspection
 - `kafka-preferred-replica-election` Manually triggers an election to ensure the preferred leader is active for each partition.
 - `kafka-delete-records` Deletes older messages in a topic up to a specific offset.
 
-### Standard Usage Example
+## Standard Usage Example
 
 ```bash
 # Create a topic with 30 partitions for high throughput
@@ -49,7 +49,7 @@ kafka-topics \
   --topic dev.orders --alter --partitions 30
 ```
 
-### Docker Commands
+## Docker Commands
 
 ```bash
 ## Create topic

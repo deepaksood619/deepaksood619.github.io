@@ -106,6 +106,8 @@ You can also ask me questions about your editor selection by starting an inline 
 	- [Advanced Claude Code Patterns That Move the Needle - Google Docs](https://docs.google.com/document/d/1agzmSskXcdMgJz_cf1KlWdy1kfY3n_XEhHrLU_ESTRk/edit?usp=sharing)
 - [Code Review for Claude Code \| Claude](https://claude.com/blog/code-review)
 - [Using Claude Code Remote Control - YouTube](https://www.youtube.com/watch?v=Ko7_tC1fMMM)
+- [Auto mode for Claude Code \| Claude](https://claude.com/blog/auto-mode)
+	- Auto mode provides a safer long-running alternative to --dangerously-skip-permissions.
 
 ### Commands
 

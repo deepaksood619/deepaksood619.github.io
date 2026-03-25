@@ -161,6 +161,7 @@
 	- [Agents - Glean Help Center](https://docs.glean.com/agents/home)
 - https://www.momentum.io/
 - https://youraislopbores.me/
+- https://littlebird.ai/
 
 ## Purpose-built accelerators for generative AI
 

@@ -78,3 +78,4 @@ An "intelligence explosion" refers to a hypothetical scenario where a self-impro
 - [The AI Vampire. This was an unusually hard post to… \| by Steve Yegge \| Feb, 2026 \| Medium](https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163)
 - [Embrace the uncertainty](https://brittanyellich.com/embrace-the-uncertainty/)
 - [Why Hasn’t AI Made Work Easier? - Cal Newport](https://calnewport.com/why-hasnt-ai-made-work-easier/)
+- [More! More! More! Tech Workers Max Out Their A.I. Use. - The New York Times](https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html?unlocked_article_code=1.VVA.TIf-.w7a_lOli_XYv&amp;smid=url-share)

@@ -1,6 +1,6 @@
 # Log Compaction
 
-Kafka log compaction is a r**etention policy that keeps only the latest message for each key in a topic partition**, creating a log with a complete snapshot of the final values, rather than deleting by time or size.
+Kafka log compaction is a **retention policy that keeps only the latest message for each key in a topic partition**, creating a log with a complete snapshot of the final values, rather than deleting by time or size.
 
 - `cleanup.policy=compact`
 - Configurable through broker settings like `log.cleaner.max.compaction.lag.ms` and `log.roll.hours` to control cleaning frequency and intensity.
@@ -22,6 +22,10 @@ This retention policy can be set per-topic, so a single cluster can have some to
 Compacted topics must have records with keys in order to implement record retention.
 
 Compaction in Kafka does not guarantee there is only one record with the same key at any one time. There may be multiple records with the same key, including the tombstone, because compaction timing is non-deterministic. Compaction is only done when the topic partition satisfies a few certain conditions, such as dirty ratio, or records in inactive segment files, etc.
+
+- **The Active Segment:** Kafka **never** compacts the "active" segment (the one it is currently writing to). If all your data is in the current segment, no compaction will occur regardless of duplicates.
+	- min segment size - 50MB - 52428800 bytes
+	- min segment ms - 4 hours - 14400000 ms
 
 ## Compaction enables deletes
 
