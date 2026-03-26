@@ -61,7 +61,7 @@ from langchain import OpenAI, SQLDatabase, SQLDatabaseChain
 
 ## Test Prompts
 
-What are the rental patterns and lifetime value segments of customers, including their geographic clustering and seasonal preferences? answer the above question using the database
+What are the rental patterns and lifetime value segments of customers, including their geographic clustering and seasonal preferences? answer the above question using the database.
 
 [Customer Rental Pattern Analysis - Claude](https://claude.ai/share/b7f21248-22df-446a-847e-26916b4cdff6)
 

@@ -139,7 +139,9 @@ claude -p "query"
 ```bash
 # start claude
 claude --dangerously-skip-permissions
+claude --enable-auto-mode
 
+/gsd:update
 /gsd:autonomous
 /gsd:new-project
 /gsd:discuss-phase 1
@@ -162,14 +164,14 @@ ls ~/.claude/get-shit-done/workflows/
 	- [Jules - An Asynchronous Coding Agent](https://jules.google/)
 	- [Google AI Studio](https://aistudio.google.com/)
 	- [Firebase Studio](https://firebase.studio/) - Firebase AI Studio
-	- [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli) ⭐ 98k
+	- [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli) ⭐ 99k
 		- npx https://github.com/google-gemini/gemini-cli
 		- **npm install -g @google/gemini-cli**
 			- gemini
 	- Old - [Introducing Duet AI for Google Cloud – an AI-powered collaborator \| Google Cloud Blog](https://cloud.google.com/blog/products/application-modernization/introducing-duet-ai-for-google-cloud)
 - [Galileo AI · Copilot for interface design](https://www.usegalileo.ai/)
 - [GitHub - openai/codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex) ⭐ 66k
-- [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli) ⭐ 98k
+- [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli) ⭐ 99k
 - [Warp: The Agentic Development Environment](https://www.warp.dev/)
 - [Kilo Code - Open source AI agent VS Code extension](https://kilocode.ai/)
 - [GitHub - Pythagora-io/gpt-pilot: The first real AI developer](https://github.com/Pythagora-io/gpt-pilot) ⭐ 34k

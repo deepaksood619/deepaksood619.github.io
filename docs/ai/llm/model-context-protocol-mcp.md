@@ -166,6 +166,22 @@ pg_restore -d pagila data.dump
 
 # nasdaq data
 brew services start postgresql
+
+# windows WSL/Ubuntu commands
+# Update package list
+sudo apt update
+
+# Install PostgreSQL
+sudo apt install -y postgresql postgresql-contrib
+
+# Start the PostgreSQL service
+sudo service postgresql start
+
+# Check status
+sudo service postgresql status
+
+# Switch to the postgres user and open psql
+sudo -u postgres psql
 ```
 
 [GitHub - crystaldba/postgres-mcp: Postgres MCP Pro provides configurable read/write access and performance analysis for you and your AI agents.](https://github.com/crystaldba/postgres-mcp)
