@@ -91,6 +91,9 @@ Always tell stories, most visual stories are the best, and simple
     - [Menti - Mentimeter - Interactive presentation software](https://www.mentimeter.com/)
     - [Kahoot! \| Learning games \| Make learning awesome!](https://kahoot.com/)
 - [Piggy | Mobile Content Creator 🐷](https://piggy.to/)
+- [Marp: Markdown Presentation Ecosystem](https://marp.app/)
+- [GitHub - googleworkspace/md2googleslides: Generate Google Slides from markdown · GitHub](https://github.com/googleworkspace/md2googleslides)
+- [GitHub - gnab/remark: A simple, in-browser, markdown-driven slideshow tool. · GitHub](https://github.com/gnab/remark)
 
 ### Ideas
 

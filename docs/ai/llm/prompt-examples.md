@@ -26,9 +26,10 @@ Generate a LinkedIn post discussing # Your Chosen Topic. Share my insights, expe
 
 format bold to unicode bolds, since bold ascii doesn't work in linkedin
 
-(LinkedIn Text Formatter • Grow Your Personal Brand On LinkedIn)(https://taplio.com/linkedin-post-formatter)
-
 Repost with prompts
+
+- (LinkedIn Text Formatter • Grow Your Personal Brand On LinkedIn)(https://taplio.com/linkedin-post-formatter)
+- [Kagi Translate](https://translate.kagi.com/?from=auto&to=linkedin&text=I+am+going+to+us)
 
 ### Links in Post vs Comments
 

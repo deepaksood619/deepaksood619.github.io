@@ -272,6 +272,19 @@ Transcribe it and add summary along with whole transcript searchable
 
 Highlight all points that they have spoken contradictory
 
+### Government projects tracker
+
+- A single place, where all govt projects that are announced are listed
+- Are they due, are they on-track, etc
+- Search
+- Visual timelines
+- Updates
+- State bifurcation
+- All the tags
+- Follow twitter handles, news to update the project status, etc
+- https://www.newprojectstracker.com/
+- Others - Government corruption tracker
+
 ## Tech
 
 ### Simplify git and docker environment management

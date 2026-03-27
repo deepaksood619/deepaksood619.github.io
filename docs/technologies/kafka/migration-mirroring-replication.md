@@ -121,13 +121,11 @@ The most important difference: **Cluster Linking is a broker-level, real-time, b
 - [Apache Kafka Migration: How to Migrate to Apache Kafka by Rafe Colburn (Etsy) - YouTube](https://www.youtube.com/watch?v=Q0eH9xhZUjg&ab_channel=DataCouncil)
 - [AWS re:Invent 2020: Guide to Apache Kafka replication and migration with Amazon MSK - YouTube](https://www.youtube.com/watch?v=CmcJb9Ge3jI&ab_channel=AWSEvents)
 
-### Tools
-
-#### [GitHub - confluentinc/kafka-metrics-extractor](https://github.com/confluentinc/kafka-metrics-extractor)
+### [GitHub - confluentinc/kafka-metrics-extractor](https://github.com/confluentinc/kafka-metrics-extractor)
 
 `kafka-metrics-extractor` is a tool designed to pull raw usage from Kafka providers such as MSK, OSK and others (currently supports MSK clusters only). The script for extracting MSK usage, it uses MSK permissions to list and describe the clusters only and then collects the usage data from CloudWatch and CostExplorer in order to avoid any cluster disruption.
 
-#### [GitHub - confluentinc/kcp](https://github.com/confluentinc/kcp) (Kafka Copy Paste)
+### [GitHub - confluentinc/kcp](https://github.com/confluentinc/kcp) (Kafka Copy Paste)
 
 - Simplify and streamline your Kafka migration journey to Confluent Cloud!
 - kcp helps you migrate your Kafka setups to Confluent Cloud by providing tools to:
@@ -144,6 +142,18 @@ kcp create-asset migration-infrastructure
 ```
 
 - [Demo: Migrate to Confluent Cloud with Kafka Copy Paste (KCP) - YouTube](https://www.youtube.com/watch?v=9EflgaCNzhE)
+
+#### Zero-cut Migrations
+
+With **Zero-cut Migrations**, clients make one change: update the bootstrap URL to point at the gateway. That's done in advance, no urgency. When the operator is ready to cut over, could be days later, could be weeks, they run one command. KCP fences traffic, waits for lag to hit zero, promotes the topics, flips routing to Confluent Cloud, and resumes traffic. Clients resume on CC. Operator is in full control the whole time: pick a single topic, a group of topics, or the whole cluster.
+
+- Fully orchestrated cutover: gateway fencing, mirror topic promotion, traffic routing flip, all automated
+- Real-time lag and offset monitoring so you pick the right window before and during the migration
+- Auth swap built in: unauthenticated clusters can migrate to Confluent cloud with minimal client changes
+- Works for any Kafka cluster migration that is Kafka compatible
+- Single bootstrap URL change for clients. That's the entire ask for clients.
+  
+One gap: IAM is not supported by CC gateway at the moment.
 
 ## Scaling
 

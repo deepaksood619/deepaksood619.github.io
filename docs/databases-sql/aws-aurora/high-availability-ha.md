@@ -115,3 +115,11 @@ The Amazon Aurora PostgreSQL and Amazon Aurora MySQL engines include additional 
 In addition, you can choose to run one or more Replicas in an Amazon Aurora DB cluster. If the primary instance in the DB cluster fails, RDS automatically promotes an existing Aurora Replica to be the new primary instance and updates the server endpoint so that your application can continue operation with no manual intervention. If no Replicas have been provisioned, RDS will automatically create a new replacement DB instance for you when a failure is detected.
 
 [Amazon RDS High Availability | Cloud Relational Database | Amazon Web Services](https://aws.amazon.com/rds/ha/)
+
+## Data Transfer Costs
+
+Data transfer between Availability Zones for DB cluster replication is free.
+
+- **Amazon Aurora**: Data transferred between Availability Zones for DB cluster replication is **free**. This applies to replication between the primary instance and its Aurora Replicas within the same region.
+- **Amazon RDS Multi-AZ**: For Multi-AZ deployments, data replication between the primary and standby instances does **not incur additional data transfer charges**.
+- **Amazon Aurora DSQL**: Inter-AZ replication is included at **no additional charge**.

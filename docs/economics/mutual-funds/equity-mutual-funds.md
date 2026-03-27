@@ -123,6 +123,8 @@ Active - Quant Momentum Fund
 
 [Which Are the Top-Performing Momentum Mutual Funds? - YouTube](https://www.youtube.com/watch?v=e18Ib2_YRVo&ab_channel=MutualFundsatGroww)
 
+[Is Indian Momentum Investing Just a Liquidity Illusion?](https://freefincal.com/is-indian-momentum-investing-just-a-liquidity-illusion/)
+
 ## Funds
 
 - https://www.moneycontrol.com/mutual-funds/nav/icici-prudential-nifty-index-fund/MPI031

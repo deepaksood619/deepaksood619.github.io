@@ -12,15 +12,11 @@ Many applications, including those built on modern [serverless architectures](ht
 
 ## Autoscaling
 
-[Scaling Your Amazon RDS Instance Vertically and Horizontally | AWS Database Blog](https://aws.amazon.com/blogs/database/scaling-your-amazon-rds-instance-vertically-and-horizontally/)
-
-[Distribute read requests across multiple Amazon RDS read replicas | AWS re:Post](https://repost.aws/knowledge-center/requests-rds-read-replicas)
-
-[**Managing auto-scaling of RDS** on AWS using the AWS CLI and Bash | by Renato Losio | funambol-techblog | Medium](https://medium.com/funambol-techblog/managing-auto-scaling-of-rds-on-aws-using-the-aws-cli-and-bash-9b1aa970ade3)
-
-[amazon web services - Does AWS support Autoscaling for RDS Instance - Stack Overflow](https://stackoverflow.com/questions/34065157/does-aws-support-autoscaling-for-rds-instance)
-
-[Scaling a RDS Instance vertically & automatically | Renato Losio](https://cloudiamo.com/2016/12/18/scaling-a-rds-instance-vertically-automatically/)
+- [Scaling Your Amazon RDS Instance Vertically and Horizontally | AWS Database Blog](https://aws.amazon.com/blogs/database/scaling-your-amazon-rds-instance-vertically-and-horizontally/)
+- [Distribute read requests across multiple Amazon RDS read replicas | AWS re:Post](https://repost.aws/knowledge-center/requests-rds-read-replicas)
+- [**Managing auto-scaling of RDS** on AWS using the AWS CLI and Bash | by Renato Losio | funambol-techblog | Medium](https://medium.com/funambol-techblog/managing-auto-scaling-of-rds-on-aws-using-the-aws-cli-and-bash-9b1aa970ade3)
+- [amazon web services - Does AWS support Autoscaling for RDS Instance - Stack Overflow](https://stackoverflow.com/questions/34065157/does-aws-support-autoscaling-for-rds-instance)
+- [Scaling a RDS Instance vertically & automatically | Renato Losio](https://cloudiamo.com/2016/12/18/scaling-a-rds-instance-vertically-automatically/)
 
 ## Storage
 

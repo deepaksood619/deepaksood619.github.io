@@ -174,6 +174,26 @@ reasoning_agent = Agent(
 - [Build and deploy generative AI agents using natural language with Vertex AI Agent Builder - YouTube](https://www.youtube.com/watch?v=GCmGxBl3RLY)
 - [GitHub - kkrishnan90/vertex-ai-search-agent-builder-demo](https://github.com/kkrishnan90/vertex-ai-search-agent-builder-demo)
 
+## Deep Research Prompt
+
+**Role:** You are a Senior AI Solutions Architect specializing in Agentic Workflows and LLM Orchestration.
+
+**Task:** Conduct a deep-dive comparative analysis of modern agentic frameworks (e.g., LangGraph, CrewAI, PydanticAI, AutoGPT, Semantic Kernel, or any other tool that does it and is much better) specifically focused on their ability to handle high-complexity, multi-step reasoning tasks.
+
+**Evaluation Criteria:** Please analyze each framework based on the following "Claude-like" capabilities:
+
+1. **Tool Use & MCP Integration:** How does the framework handle Model Context Protocol (MCP)? Can it dynamically discover and execute tools across different environments?
+2. **Advanced Coding & Data Sandboxing:** Does the framework support a "Code Interpreter" style loop? Evaluate its ability to write, debug, and execute code for large-scale data analysis within a secure sandbox.
+3. **State Management & Persistence:** How does it handle long-running "Big Analysis" tasks? Look for "Check-pointing," "Time-travel," and memory management features.
+4. **UI/Dashboard Capabilities:** Can the framework natively (or via common integrations) generate real-time visualizations, Streamlit-style dashboards, or structured UI components for the end-user?
+5. **Orchestration Pattern:** Distinguish between "Directed Acyclic Graphs" (DAGs) vs. "Cyclic Graphs" vs. "Sequential Chains." Which is best for unpredictable, autonomous research?
+
+**Output Format:**
+
+- **Executive Summary Table:** Comparing 4-5 top frameworks across the criteria above.
+- **Deep Dive:** A section for each framework detailing its "killer feature" and its biggest limitation.
+- **The "Claude-Killer" Architecture:** Propose a custom stack (e.g., Framework + Database + Frontend Library) that would most closely replicate the experience of an all-in-one research assistant.
+
 ## References
 
 - [Agents \| Kaggle](https://www.kaggle.com/whitepaper-agents)

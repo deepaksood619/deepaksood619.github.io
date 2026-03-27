@@ -79,3 +79,5 @@ An "intelligence explosion" refers to a hypothetical scenario where a self-impro
 - [Embrace the uncertainty](https://brittanyellich.com/embrace-the-uncertainty/)
 - [Why Hasn’t AI Made Work Easier? - Cal Newport](https://calnewport.com/why-hasnt-ai-made-work-easier/)
 - [More! More! More! Tech Workers Max Out Their A.I. Use. - The New York Times](https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html?unlocked_article_code=1.VVA.TIf-.w7a_lOli_XYv&amp;smid=url-share)
+- [State of the product job market in early 2026](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-ee9)
+- Jevons paradox, but for software: **The cheaper it gets to generate code, the more code we produce.** And suddenly the bottleneck isn’t writing. it’s thinking: reviewing, designing, orchestrating, deciding what should exist.

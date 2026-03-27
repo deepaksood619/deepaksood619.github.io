@@ -78,6 +78,11 @@ Kindly consider this email as a gentle reminder to please suggest how we can tak
 
 I wanted to check if there are any updates on this. Please let me know at your earliest convenience.
 
+## Managing Risks
+
+- Let's be creative
+- These guys are lethal
+
 ## Links
 
 - [asking-right-questions](psychology/soft-skills/asking-right-questions.md)
