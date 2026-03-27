@@ -15,11 +15,11 @@ A CNCF (Cloud Native Computing Foundation) project, is a systems and service mon
 
 ## Components
 
-- the main [Prometheus server](https://github.com/prometheus/prometheus) which scrapes and stores time series data
+- the main [Prometheus server](https://github.com/prometheus/prometheus) ⭐ 63k which scrapes and stores time series data
 - [client libraries](https://prometheus.io/docs/instrumenting/clientlibs/) for instrumenting application code
-- a [push gateway](https://github.com/prometheus/pushgateway) for supporting short-lived jobs
+- a [push gateway](https://github.com/prometheus/pushgateway) ⭐ 3.3k for supporting short-lived jobs
 - special-purpose [exporters](https://prometheus.io/docs/instrumenting/exporters/) for services like HAProxy, StatsD, Graphite, etc.
-- an [alertmanager](https://github.com/prometheus/alertmanager) to handle alerts
+- an [alertmanager](https://github.com/prometheus/alertmanager) ⭐ 8.4k to handle alerts
 - various support tools
 
 ## Architecture Overview
@@ -121,7 +121,7 @@ https://github.com/prometheus/pushgateway
 
 ## Deployment
 
-[helm-charts/charts/kube-prometheus-stack at main · prometheus-community/helm-charts · GitHub](https://github.com/prometheus-community/helm-charts/tree/main/charts/kube-prometheus-stack)
+[helm-charts/charts/kube-prometheus-stack at main · prometheus-community/helm-charts · GitHub](https://github.com/prometheus-community/helm-charts/tree/main/charts/kube-prometheus-stack) ⭐ 6.0k
 
 - [How to create a Monitoring Stack using Kube-Prometheus-stack (Part 1) | by Matan Amiel | Israeli Tech Radar | Medium](https://medium.com/israeli-tech-radar/how-to-create-a-monitoring-stack-using-kube-prometheus-stack-part-1-eff8bf7ba9a9)
 
@@ -151,7 +151,7 @@ kubectl get secret grafana -o jsonpath="{.data.admin-password}" | base64 --decod
 helm uninstall straw
 ```
 
-[GitHub - prometheus-operator/prometheus-operator: Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes](https://github.com/prometheus-operator/prometheus-operator)
+[GitHub - prometheus-operator/prometheus-operator: Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes](https://github.com/prometheus-operator/prometheus-operator) ⭐ 9.9k
 
 - [Quick Start - Prometheus Operator](https://prometheus-operator.dev/docs/prologue/quick-start/)
 
@@ -168,4 +168,4 @@ helm uninstall straw
 - On Kubernetes - https://github.com/coreos/prometheus-operator/tree/master/contrib/kube-prometheus
 - https://github.com/prometheus-community/helm-charts/tree/main/charts/kube-prometheus-stack
 - [VictoriaMetrics: Simple & Reliable Monitoring for Everyone](https://victoriametrics.com/)
-	- [GitHub - VictoriaMetrics/VictoriaMetrics: VictoriaMetrics: fast, cost-effective monitoring solution and time series database](https://github.com/VictoriaMetrics/VictoriaMetrics)
+	- [GitHub - VictoriaMetrics/VictoriaMetrics: VictoriaMetrics: fast, cost-effective monitoring solution and time series database](https://github.com/VictoriaMetrics/VictoriaMetrics) ⭐ 17k

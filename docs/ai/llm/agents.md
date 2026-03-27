@@ -2,7 +2,7 @@
 
 - Presentation - [Automating the Future: Build Powerful AI Agents - Google Slides](https://docs.google.com/presentation/d/1nRNP7h89k-8FTCP2kMSMbAa0zIJ6r0COm7voa1JT6Sc/edit?usp=sharing)
 - An LLM Agent is a software entity capable of reasoning and autonomously executing tasks.
-- [GitHub - viktoriasemaan/multi-agent: Examples of AI Multi-Agent Solutions](https://github.com/viktoriasemaan/multi-agent)
+- [GitHub - viktoriasemaan/multi-agent: Examples of AI Multi-Agent Solutions](https://github.com/viktoriasemaan/multi-agent) ⭐ 204
 - [Building LLM Agents with Tool Use - YouTube](https://youtu.be/5drn2DO7gNY)
 - [AI Agents Are Changing AWS Cost Prediction - YouTube](https://youtu.be/_cjuQlc62uc)
 
@@ -69,7 +69,7 @@ To initialize a minimal agent, you need at least these two arguments:
 
 ### Links
 
-- [GitHub - huggingface/smolagents: 🤗 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents.](https://github.com/huggingface/smolagents)
+- [GitHub - huggingface/smolagents: 🤗 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents.](https://github.com/huggingface/smolagents) ⭐ 26k
 - [smolagents](https://huggingface.co/docs/smolagents/en/index)
 - [Introducing smolagents: simple agents that write actions in code.](https://huggingface.co/blog/smolagents)
 - [Build Multi-Agent Systems with SmolAgents - YouTube](https://www.youtube.com/watch?v=uzskhpH5fvo)
@@ -89,7 +89,7 @@ The power of AI collaboration has too much to offer. CrewAI is a standalone fram
 
 ### Links
 
-- [GitHub - crewAIInc/crewAI: Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.](https://github.com/crewAIInc/crewAI)
+- [GitHub - crewAIInc/crewAI: Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.](https://github.com/crewAIInc/crewAI) ⭐ 47k
 - [CrewAI](https://www.crewai.com/)
 
 ## Agno
@@ -123,11 +123,11 @@ reasoning_agent = Agent(
 )
 ```
 
-[GitHub - agno-agi/agno: Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.](https://github.com/agno-agi/agno)
+[GitHub - agno-agi/agno: Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.](https://github.com/agno-agi/agno) ⭐ 39k
 
 [A beautiful UI for your Agents - Agno](https://docs.agno.com/agent-ui/introduction)
 
-[agno/cookbook/getting\_started/05\_agent\_team.py at main · agno-agi/agno · GitHub](https://github.com/agno-agi/agno/blob/main/cookbook/getting_started/05_agent_team.py)
+[agno/cookbook/getting\_started/05\_agent\_team.py at main · agno-agi/agno · GitHub](https://github.com/agno-agi/agno/blob/main/cookbook/getting_started/05_agent_team.py) ⭐ 39k
 
 [Introducing Agno 2.0 and AgentOS: A High-Performance Runtime for Multi-Agent Systems \| Ashpreet B. posted on the topic \| LinkedIn](https://www.linkedin.com/posts/ashpreetbedi_today-were-releasing-agno-20-and-sharing-activity-7371241593552392192-x4pH)
 
@@ -136,22 +136,22 @@ reasoning_agent = Agent(
 - [agent.ai \| The Professional Network for AI Agents](https://agent.ai/agents)
 - [AI Agents Directory - Find and Compare AI Assistants \| AI Agents List](https://aiagentslist.com/)
 - [AI Agents Marketplace \| AI Agents Directory - Discover Best AI Agents](https://aiagentsdirectory.com/)
-- [GitHub - ashishpatel26/500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.](https://github.com/ashishpatel26/500-AI-Agents-Projects)
-- [GitHub - MotiaDev/motia: Event-based orchestration framework for agents and intelligent automations](https://github.com/MotiaDev/motia)
+- [GitHub - ashishpatel26/500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.](https://github.com/ashishpatel26/500-AI-Agents-Projects) ⭐ 27k
+- [GitHub - MotiaDev/motia: Event-based orchestration framework for agents and intelligent automations](https://github.com/MotiaDev/motia) ⭐ 15k
 	- [Motia - Unified Backend Framework for APIs, Events and AI Agents](https://www.motia.dev/)
 	- [Content Creation Workflow](https://api.filekitcdn.com/e/k7YHPN24SoxyM8nGKZnDxa/35EqtSRzEiZvk7Nw1G82iz/player)
-	- [ai-engineering-hub/motia-content-creation at main · patchy631/ai-engineering-hub · GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main/motia-content-creation)
-- [GitHub - strands-agents/sdk-python: A model-driven approach to building AI agents in just a few lines of code.](https://github.com/strands-agents/sdk-python)
+	- [ai-engineering-hub/motia-content-creation at main · patchy631/ai-engineering-hub · GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main/motia-content-creation) ⭐ 33k
+- [GitHub - strands-agents/sdk-python: A model-driven approach to building AI agents in just a few lines of code.](https://github.com/strands-agents/sdk-python) ⭐ 5.4k
 	- [Introducing Strands Agents, an Open Source AI Agents SDK \| AWS Open Source Blog](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/)
-- [GitHub - NirDiamant/GenAI\_Agents: This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.](https://github.com/NirDiamant/GenAI_Agents)
-- [GitHub - HKUDS/AutoAgent: "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"](https://github.com/HKUDS/AutoAgent)
-- [GitHub - weaviate/elysia: Python package and backend for the Elysia platform app.](https://github.com/weaviate/elysia)
+- [GitHub - NirDiamant/GenAI\_Agents: This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.](https://github.com/NirDiamant/GenAI_Agents) ⭐ 21k
+- [GitHub - HKUDS/AutoAgent: "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"](https://github.com/HKUDS/AutoAgent) ⭐ 8.7k
+- [GitHub - weaviate/elysia: Python package and backend for the Elysia platform app.](https://github.com/weaviate/elysia) ⭐ 1.9k
 	- [Elysia - Demo](https://elysia.weaviate.io/)
 	- [Elysia: Building an end-to-end agentic RAG app \| Weaviate](https://weaviate.io/blog/elysia-agentic-rag)
 	- [We built so much into our open source agentic RAG framework, Elysia, that our "bonus features" would be the main selling points of other apps 😅 Seriously - while other frameworks are celebrating… \| Victoria Slocum \| 18 comments](https://www.linkedin.com/posts/victorialslocum_we-built-so-much-into-our-open-source-agentic-activity-7371516549565825024-mXbu)
-- **[GitHub - emcie-co/parlant: LLM agents built for control. Designed for real-world use. Deployed in minutes.](https://github.com/emcie-co/parlant)**
-- [GitHub - openai/agents.md: AGENTS.md — a simple, open format for guiding coding agents](https://github.com/openai/agents.md)
-- [GitHub - agentscope-ai/agentscope: AgentScope: Agent-Oriented Programming for Building LLM Applications](https://github.com/agentscope-ai/agentscope)
+- **[GitHub - emcie-co/parlant: LLM agents built for control. Designed for real-world use. Deployed in minutes.](https://github.com/emcie-co/parlant) ⭐ 18k**
+- [GitHub - openai/agents.md: AGENTS.md — a simple, open format for guiding coding agents](https://github.com/openai/agents.md) ⭐ 19k
+- [GitHub - agentscope-ai/agentscope: AgentScope: Agent-Oriented Programming for Building LLM Applications](https://github.com/agentscope-ai/agentscope) ⭐ 21k
 	- [AgentScope](https://doc.agentscope.io/)
 	- Transparency - Full visibility over prompts, reasoning chains, and agent interactions.
 	- Runtime Control - Native support for interruptions, overrides, and custom error handling.
@@ -169,30 +169,10 @@ reasoning_agent = Agent(
 
 - [Build an agent using playbooks  \|  Dialogflow CX  \|  Google Cloud](https://cloud.google.com/dialogflow/cx/docs/quick/build-agent-playbook)
 - [Playbook-based pre-built agents  \|  Dialogflow CX  \|  Google Cloud](https://cloud.google.com/dialogflow/cx/docs/concept/playbook/prebuilt)
-- [GitHub - FirebaseExtended/compass-travel-planning-sample](https://github.com/FirebaseExtended/compass-travel-planning-sample)
+- [GitHub - FirebaseExtended/compass-travel-planning-sample](https://github.com/FirebaseExtended/compass-travel-planning-sample) ⭐ 51
 - [Intro to AI agents - YouTube](https://www.youtube.com/watch?v=ZZ2QUCePgYw)
 - [Build and deploy generative AI agents using natural language with Vertex AI Agent Builder - YouTube](https://www.youtube.com/watch?v=GCmGxBl3RLY)
-- [GitHub - kkrishnan90/vertex-ai-search-agent-builder-demo](https://github.com/kkrishnan90/vertex-ai-search-agent-builder-demo)
-
-## Deep Research Prompt
-
-**Role:** You are a Senior AI Solutions Architect specializing in Agentic Workflows and LLM Orchestration.
-
-**Task:** Conduct a deep-dive comparative analysis of modern agentic frameworks (e.g., LangGraph, CrewAI, PydanticAI, AutoGPT, Semantic Kernel, or any other tool that does it and is much better) specifically focused on their ability to handle high-complexity, multi-step reasoning tasks.
-
-**Evaluation Criteria:** Please analyze each framework based on the following "Claude-like" capabilities:
-
-1. **Tool Use & MCP Integration:** How does the framework handle Model Context Protocol (MCP)? Can it dynamically discover and execute tools across different environments?
-2. **Advanced Coding & Data Sandboxing:** Does the framework support a "Code Interpreter" style loop? Evaluate its ability to write, debug, and execute code for large-scale data analysis within a secure sandbox.
-3. **State Management & Persistence:** How does it handle long-running "Big Analysis" tasks? Look for "Check-pointing," "Time-travel," and memory management features.
-4. **UI/Dashboard Capabilities:** Can the framework natively (or via common integrations) generate real-time visualizations, Streamlit-style dashboards, or structured UI components for the end-user?
-5. **Orchestration Pattern:** Distinguish between "Directed Acyclic Graphs" (DAGs) vs. "Cyclic Graphs" vs. "Sequential Chains." Which is best for unpredictable, autonomous research?
-
-**Output Format:**
-
-- **Executive Summary Table:** Comparing 4-5 top frameworks across the criteria above.
-- **Deep Dive:** A section for each framework detailing its "killer feature" and its biggest limitation.
-- **The "Claude-Killer" Architecture:** Propose a custom stack (e.g., Framework + Database + Frontend Library) that would most closely replicate the experience of an all-in-one research assistant.
+- [GitHub - kkrishnan90/vertex-ai-search-agent-builder-demo](https://github.com/kkrishnan90/vertex-ai-search-agent-builder-demo) ⭐ 11
 
 ## References
 
@@ -209,11 +189,11 @@ reasoning_agent = Agent(
 - [Real Terms for AI - YouTube](https://www.youtube.com/playlist?list=PLIivdWyY5sqLvGdVLJZh2EMax97_T-OIB)
 - [Multi-Agent Portfolio Collaboration with OpenAI Agents SDK](https://cookbook.openai.com/examples/agents_sdk/multi-agent-portfolio-collaboration/multi_agent_portfolio_collaboration)
 - [\[2505.10468\] AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges](https://arxiv.org/abs/2505.10468)
-- [GitHub - NirDiamant/agents-towards-production: This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.](https://github.com/NirDiamant/agents-towards-production)
+- [GitHub - NirDiamant/agents-towards-production: This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.](https://github.com/NirDiamant/agents-towards-production) ⭐ 18k
 - [How we built our multi-agent research system \\ Anthropic](https://www.anthropic.com/engineering/built-multi-agent-research-system)
-- [ai-engineering-hub/agent-with-mcp-memory at main · patchy631/ai-engineering-hub · GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main/agent-with-mcp-memory)
+- [ai-engineering-hub/agent-with-mcp-memory at main · patchy631/ai-engineering-hub · GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main/agent-with-mcp-memory) ⭐ 33k
 - [Enabling customers to deliver production-ready AI agents at scale \| Artificial Intelligence](https://aws.amazon.com/blogs/machine-learning/enabling-customers-to-deliver-production-ready-ai-agents-at-scale/)
 - [Mixture-of-Agents (MoA): A Breakthrough in LLM Performance - MarkTechPost](https://www.marktechpost.com/2025/08/09/mixture-of-agents-moa-a-breakthrough-in-llm-performance/)
 - [Design Systems And AI: Why MCP Servers Are The Unlock \| Figma Blog](https://www.figma.com/blog/design-systems-ai-mcp/)
 - [Agentic Systems 101: Fundamentals, Building Blocks, and How to Build Them (Part A)](https://www.dailydoseofds.com/ai-agents-crash-course-part-1-with-implementation/)
-	- [ai-engineering-hub/agent-with-mcp-memory at main · patchy631/ai-engineering-hub · GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main/agent-with-mcp-memory)
+	- [ai-engineering-hub/agent-with-mcp-memory at main · patchy631/ai-engineering-hub · GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main/agent-with-mcp-memory) ⭐ 33k

@@ -26,7 +26,7 @@
 ## KSQL
 
 - **ksql** - This tool runs ksqlDB. For more information, see [Configure ksqlDB CLI](https://docs.confluent.io/platform/current/ksqldb/operate-and-deploy/installation/cli-config.html#ksqldb-install-configure-cli).
-- **ksql-datagen** - This tool generates test data that complies with a custom schema that you define. For more information, see [kafka-connect-datagen](https://github.com/confluentinc/kafka-connect-datagen).
+- **ksql-datagen** - This tool generates test data that complies with a custom schema that you define. For more information, see [kafka-connect-datagen](https://github.com/confluentinc/kafka-connect-datagen) ⭐ 48.
 - **ksql-migrations** - This tool manages metadata schemas for your ksqlDB clusters by applying statements from migration files to your ksqlDB clusters. For more info, see [Manage metadata schemas](https://docs.confluent.io/platform/current/ksqldb/operate-and-deploy/migrations-tool.html#ksqldb-manage-metadata-schemas).
 - **ksql-restore-command** - This tool restores the command topic.
 - **ksql-run-class** - This tool is a thin wrapper around the ksqlDB Java class. It is mainly used by the start and stop scripts and should not be run by itself.
@@ -65,7 +65,7 @@ Actions:
   help: This help message.
 ```
 
-[kafka/TROGDOR.md at master · a0x8o/kafka · GitHub](https://github.com/a0x8o/kafka/blob/master/TROGDOR.md)
+[kafka/TROGDOR.md at master · a0x8o/kafka · GitHub](https://github.com/a0x8o/kafka/blob/master/TROGDOR.md) ⭐ 73
 
 [The Kafka benchmarking suite \| The Write Ahead Log](https://platformatory.io/blog/kafka-client-performance-metrics/)
 
@@ -103,16 +103,16 @@ kafka-producer-perf-test \
 
 ## Demos / Hands-on / Learning
 
-- [GitHub - confluentinc/demo-scene: Scripts and samples to support Confluent Demos, Talks, and Blogs. Not all of the examples in this repository are kept up to date. For automated tutorials and QA'd code, see https://github.com/confluentinc/tutorials/](https://github.com/confluentinc/demo-scene)
-- [GitHub - confluentinc/cp-demo: Confluent Platform Demo including Apache Kafka, ksqlDB, Control Center, Schema Registry, Security, Schema Linking, and Cluster Linking](https://github.com/confluentinc/cp-demo)
-- [GitHub - conflkrupa/F1-Racing-Leaderboard-POC: This is an application demonstrating how a real-time gaming leaderboard application can be built by leveraging Confluent cloud.](https://github.com/conflkrupa/F1-Racing-Leaderboard-POC/)
-	- [GitHub - kos-conf/f1-leaderboard-workshop: This hands-on lab will guide you through building a real-time F1 racing leaderboard application. You'll learn how to implement real-time data streaming, performance analytics, and live dashboards.](https://github.com/kos-conf/f1-leaderboard-workshop)
-- [GitHub - confluentinc/online-retailer-flink-demo at gko-2026](https://github.com/confluentinc/online-retailer-flink-demo/tree/gko-2026)
-- [GitHub - confluentinc/quickstart-streaming-agents at gko](https://github.com/confluentinc/quickstart-streaming-agents/tree/gko)
+- [GitHub - confluentinc/demo-scene: Scripts and samples to support Confluent Demos, Talks, and Blogs. Not all of the examples in this repository are kept up to date. For automated tutorials and QA'd code, see https://github.com/confluentinc/tutorials/](https://github.com/confluentinc/demo-scene) ⭐ 1.6k
+- [GitHub - confluentinc/cp-demo: Confluent Platform Demo including Apache Kafka, ksqlDB, Control Center, Schema Registry, Security, Schema Linking, and Cluster Linking](https://github.com/confluentinc/cp-demo) ⭐ 74
+- [GitHub - conflkrupa/F1-Racing-Leaderboard-POC: This is an application demonstrating how a real-time gaming leaderboard application can be built by leveraging Confluent cloud.](https://github.com/conflkrupa/F1-Racing-Leaderboard-POC/) ⭐ 9
+	- [GitHub - kos-conf/f1-leaderboard-workshop: This hands-on lab will guide you through building a real-time F1 racing leaderboard application. You'll learn how to implement real-time data streaming, performance analytics, and live dashboards.](https://github.com/kos-conf/f1-leaderboard-workshop) ⭐ 6
+- [GitHub - confluentinc/online-retailer-flink-demo at gko-2026](https://github.com/confluentinc/online-retailer-flink-demo/tree/gko-2026) ⭐ 24
+- [GitHub - confluentinc/quickstart-streaming-agents at gko](https://github.com/confluentinc/quickstart-streaming-agents/tree/gko) ⭐ 66
 	- Lab1 - Price Matching Orders With MCP Tool Calling
 	- Lab2 - Vector Search & RAG
 	- Lab3 - Agentic Fleet Management Using Confluent Intelligence
-- [GitHub - confluentinc/examples: Apache Kafka, Apache Flink and Confluent Platform examples and demos · GitHub](https://github.com/confluentinc/examples)
+- [GitHub - confluentinc/examples: Apache Kafka, Apache Flink and Confluent Platform examples and demos · GitHub](https://github.com/confluentinc/examples) ⭐ 2.0k
 
 ## Others
 

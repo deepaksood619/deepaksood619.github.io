@@ -81,7 +81,7 @@ To note a few features:
 - Features a scheduler that groups individual inference requests into batches for joint execution on GPU, with configurable latency controls
 - Supports many _servables_: Tensorflow models, embeddings, vocabularies, feature transformations and even non-Tensorflow-based machine learning models
 
-[GitHub - tensorflow/serving: A flexible, high-performance serving system for machine learning models](https://github.com/tensorflow/serving)
+[GitHub - tensorflow/serving: A flexible, high-performance serving system for machine learning models](https://github.com/tensorflow/serving) ⭐ 6.3k
 
 [Serving Models  |  TFX  |  TensorFlow](https://www.tensorflow.org/tfx/guide/serving)
 
@@ -118,17 +118,17 @@ https://www.seldon.io
 - [ML Model Packaging \[The Ultimate Guide\]](https://neptune.ai/blog/ml-model-packaging)
 - [Machine Learning: Models to Production | by Ashutosh Kumar | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/machine-learning-models-to-production-72280c3cb479)
 - [Comet ML - Build better models faster](https://www.comet.com/)
-- [GitHub - kitops-ml/kitops: An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.](https://github.com/kitops-ml/kitops)
+- [GitHub - kitops-ml/kitops: An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.](https://github.com/kitops-ml/kitops) ⭐ 1.3k
 
 ## Roadmap
 
-[sig-mlops/roadmap/2022/MLOpsRoadmap2022.md at main · cdfoundation/sig-mlops · GitHub](https://github.com/cdfoundation/sig-mlops/blob/main/roadmap/2022/MLOpsRoadmap2022.md)
+[sig-mlops/roadmap/2022/MLOpsRoadmap2022.md at main · cdfoundation/sig-mlops · GitHub](https://github.com/cdfoundation/sig-mlops/blob/main/roadmap/2022/MLOpsRoadmap2022.md) ⭐ 629
 
 [MLOps Roadmap](https://roadmap.sh/mlops)
 
 ### Examples
 
-[GitHub - sayakpaul/ml-deployment-k8s-fastapi: This project shows how to serve an ONNX-optimized image classification model as a web service with FastAPI, Docker, and Kubernetes.](https://github.com/sayakpaul/ml-deployment-k8s-fastapi)
+[GitHub - sayakpaul/ml-deployment-k8s-fastapi: This project shows how to serve an ONNX-optimized image classification model as a web service with FastAPI, Docker, and Kubernetes.](https://github.com/sayakpaul/ml-deployment-k8s-fastapi) ⭐ 224
 
 [MLOps roadmap 2024. The MLOps engineer role is different… | by Vechtomova Maria | Marvelous MLOps | Dec, 2023 | Medium](https://medium.com/marvelous-mlops/mlops-roadmap-2024-ff4216b8bc62)
 
@@ -140,7 +140,7 @@ https://www.seldon.io
 
 [MLOps Course - Made With ML](https://madewithml.com/courses/mlops/)
 
-**[GitHub - DataTalksClub/mlops-zoomcamp: Free MLOps course from DataTalks.Club](https://github.com/DataTalksClub/mlops-zoomcamp)**
+**[GitHub - DataTalksClub/mlops-zoomcamp: Free MLOps course from DataTalks.Club](https://github.com/DataTalksClub/mlops-zoomcamp) ⭐ 14k**
 
 - [MLOps Zoomcamp - YouTube](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK)
 - [MLOps Zoomcamp - DataTalks.Club](https://datatalks.club/blog/mlops-zoomcamp.html)
@@ -163,11 +163,11 @@ https://www.seldon.io
 
 ## Links
 
-- [GitHub - graviraja/MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+- [GitHub - graviraja/MLOps-Basics](https://github.com/graviraja/MLOps-Basics) ⭐ 8.8k
 - [Ray | Faster Python](python/advanced/faster-python.md#ray)
 - [Home - MLOps Community](https://mlops.community/)
-- [GitHub - visenger/awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
-- [GitHub - kelvins/awesome-mlops: :sunglasses: A curated list of awesome MLOps tools](https://github.com/kelvins/awesome-mlops)
+- [GitHub - visenger/awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops) ⭐ 14k
+- [GitHub - kelvins/awesome-mlops: :sunglasses: A curated list of awesome MLOps tools](https://github.com/kelvins/awesome-mlops) ⭐ 5.1k
 - [10 Awesome Resources for Learning MLOps | DataCamp](https://www.datacamp.com/blog/10-awesome-resources-for-learning-mlops)
 - [Let’s Architect! Learn About Machine Learning on AWS | AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/lets-architect-learn-about-machine-learning-on-aws/)
 - [AWS re:Invent 2023 - Introduction to MLOps engineering on AWS (TNC215) - YouTube](https://www.youtube.com/watch?v=2kzJPhgDkDE)
@@ -177,6 +177,6 @@ https://www.seldon.io
 	- ZenML
 	- MLflow
 	- KubeFlow
-- [GitHub - Meesho/BharatMLStack: BharatMLStack is an open-source, end-to-end machine learning infrastructure stack built at Meesho to support real-time and batch ML workloads at Bharat scale](https://github.com/Meesho/BharatMLStack)
+- [GitHub - Meesho/BharatMLStack: BharatMLStack is an open-source, end-to-end machine learning infrastructure stack built at Meesho to support real-time and batch ML workloads at Bharat scale](https://github.com/Meesho/BharatMLStack) ⭐ 681
 - [The Full MLOps Blueprint: Background and Foundations for ML in Production](https://www.dailydoseofds.com/mlops-crash-course-part-1/)
 - [If you would like to start learning MLOps in 2025, start with this : Day 1: Intro to MLOps: ML Meets DevOps: https://lxop.in/day1 Day 2: MLOps Tools Landscape: https://lxop.in/day2 Day 3: Data… \| Sandip Das \| 54 comments](https://www.linkedin.com/posts/sandip-das-developer_if-you-would-like-to-start-learning-mlops-activity-7361968872574345218-6qxv/)

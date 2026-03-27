@@ -1,7 +1,7 @@
 # N8N
 
 - [n8n.io - a powerful workflow automation tool](https://n8n.io/) (80K stars)
-- [GitHub - n8n-io/n8n: Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.](https://github.com/n8n-io/n8n)
+- [GitHub - n8n-io/n8n: Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.](https://github.com/n8n-io/n8n) ⭐ 181k
 - [A very quick quickstart \| n8n Docs](https://docs.n8n.io/try-it-out/quickstart/)
 - [n8n Quickstart - YouTube](https://www.youtube.com/watch?v=1MwSoB0gnM4&ab_channel=n8n)
 - [Learning path \| n8n Docs](https://docs.n8n.io/learning-path/)
@@ -22,8 +22,8 @@ docker compose --profile cpu up
 
 ## Workflows
 
-- [GitHub - enescingoz/awesome-n8n-templates: Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.](https://github.com/enescingoz/awesome-n8n-templates)
-- [n8n-workflows/workflows at main · Zie619/n8n-workflows · GitHub](https://github.com/Zie619/n8n-workflows/tree/main/workflows)
+- [GitHub - enescingoz/awesome-n8n-templates: Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.](https://github.com/enescingoz/awesome-n8n-templates) ⭐ 21k
+- [n8n-workflows/workflows at main · Zie619/n8n-workflows · GitHub](https://github.com/Zie619/n8n-workflows/tree/main/workflows) ⭐ 53k
 - [🤖 **Build Your First AI Agent – Powered by Google Gemini with Memory** \| n8n workflow template](https://n8n.io/workflows/4941-build-your-first-ai-agent-powered-by-google-gemini-with-memory/)
 - [Embeddings Google Gemini integrations \| Workflow automation with n8n](https://n8n.io/integrations/embeddings-google-gemini/)
 - [Confluence and Google Gemini Chat Model: Automate Workflows with n8n](https://n8n.io/integrations/confluence/and/google-gemini-chat-model/)
@@ -312,5 +312,5 @@ docker compose --profile cpu up
 
 ## Others
 
-- [GitHub - langgenius/dify: Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.](https://github.com/langgenius/dify)
+- [GitHub - langgenius/dify: Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.](https://github.com/langgenius/dify) ⭐ 135k
 	- [Dify: Production-Ready AI Agent Builder](https://dify.ai/)

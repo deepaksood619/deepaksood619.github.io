@@ -96,7 +96,7 @@ A cryptographic method for proving a statement is true without revealing any inf
 - [What Is A zkEVM? - Linea](https://linea.mirror.xyz/qD18IaQ4BROn_Y40EBMTUTdJHYghUtdECscSWyMvm8M)
 - [Lifecycle of ZKP | ZKCamp](https://www.zkcamp.xyz/blog/lifecycle-of-zkp)
 - [Zero Knowledge Proofs | The Future of Cryptography - YouTube](https://www.youtube.com/watch?v=9-tymZxBuWw&ab_channel=Cryptosense)
-- [GitHub - unionlabs/union: The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.](https://github.com/unionlabs/union)
+- [GitHub - unionlabs/union: The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.](https://github.com/unionlabs/union) ⭐ 74k
 
 ### zk-SNARK
 

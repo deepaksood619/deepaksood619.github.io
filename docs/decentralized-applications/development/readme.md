@@ -3,7 +3,7 @@
 - [Infura](decentralized-applications/development/infura.md)
 - [Sample Code](decentralized-applications/development/sample-code.md)
 
-### [GitHub - trufflesuite/ganache: A tool for creating a local blockchain for fast Ethereum development.](https://github.com/trufflesuite/ganache)
+### [GitHub - trufflesuite/ganache: A tool for creating a local blockchain for fast Ethereum development.](https://github.com/trufflesuite/ganache) ⭐ 2.6k
 
 Ganache is an Ethereum simulator that makes developing Ethereum applications faster, easier, and safer. It includes all popular RPC functions and features (like events) and can be run deterministically to make development a breeze.
 
@@ -53,12 +53,12 @@ This is a tool that analyzes the token’s smart contract, tokenomics, holders, 
 ### Libraries
 
 - [Introduction - Web3.py 5.31.4 documentation](https://web3py.readthedocs.io/en/v5/)
-- [GitHub - ethereum/web3.py: A python interface for interacting with the Ethereum blockchain and ecosystem.](https://github.com/ethereum/web3.py)
+- [GitHub - ethereum/web3.py: A python interface for interacting with the Ethereum blockchain and ecosystem.](https://github.com/ethereum/web3.py) ⭐ 5.5k
 - [GitHub - web3/web3.js: Ethereum JavaScript API](https://github.com/web3/web3.js
 
 ### Uniswap Build Tools
 
-- [Uniswap 🛠️ An Introduction To Building On Uniswap - Tyllen Bicakcic - YouTube](https://www.youtube.com/watch?v=AYxkVPP07Js)
+- [Uniswap 🛠️ An Introduction To Building On Uniswap - Tyllen Bicakcic - YouTube](https://www.youtube.com/watch?v=AYxkVPP07Js) ⭐ 20k
 - [Uniswap Foundation - Hacker Home](https://www.uniswapfoundation.org/hacker-home)
 - [Swap tokens on Uniswap V3 with code, programmatically | A beginners guide with EthersJs & JavaScript - YouTube](https://www.youtube.com/watch?v=vXu5GeLP6A8)
 - [Deployment Addresses | Uniswap](https://docs.uniswap.org/contracts/v3/reference/deployments)
@@ -76,7 +76,7 @@ This is a tool that analyzes the token’s smart contract, tokenomics, holders, 
 - [login.xyz](https://login.xyz/)
 - [Blockscout](https://www.blockscout.com/) - Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.
 - [Welcome to Substrate | Substrate\_ Docs](https://docs.substrate.io/learn/welcome-to-substrate/)
-- [GitHub - casey/ord: 👁‍🗨 Rare and exotic sats](https://github.com/casey/ord)
+- [GitHub - casey/ord: 👁‍🗨 Rare and exotic sats](https://github.com/casey/ord) ⭐ 95
 - [Curvegrid 🛠 A 30 Minute DApp - Jeff Wentworth - YouTube](https://www.youtube.com/watch?v=PzmVzShojlM&ab_channel=ETHGlobal)
 - [The GRAPH - Google Of Blockchains? GRT Token Explained - YouTube](https://www.youtube.com/watch?v=7gC7xJ_98r8)
 - [WalletConnect](https://walletconnect.com/)

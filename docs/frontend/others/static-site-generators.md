@@ -1,10 +1,10 @@
 # Static Site Generators
 
-[GitHub - myles/awesome-static-generators: A curated list of static web site generators.](https://github.com/myles/awesome-static-generators)
+[GitHub - myles/awesome-static-generators: A curated list of static web site generators.](https://github.com/myles/awesome-static-generators) ⭐ 3.7k
 
 ## Astro
 
-- [GitHub - withastro/astro: Build faster websites with Astro's next-gen island architecture](https://github.com/withastro/astro)
+- [GitHub - withastro/astro: Build faster websites with Astro's next-gen island architecture](https://github.com/withastro/astro) ⭐ 58k
 - [Astro UI Framework [Full Book]](https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/)
 - Island Architecture (Server Islands)
 - Zero-JS View Transitions
@@ -17,10 +17,10 @@
 
 - [10 Best Astro Themes In 2023 | Medium](https://medium.com/@lijonkhan/best-10-astro-themes-2023-1b9fdd4146c3)
 - [AstroWind — Free template for creating websites with Astro + Tailwind CSS](https://astrowind.vercel.app/)
-	- [GitHub - onwidget/astrowind: ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme.](https://github.com/onwidget/astrowind)
-- [GitHub - surjithctly/astroship: Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS](https://github.com/surjithctly/astroship?tab=readme-ov-file)
-- [GitHub - zeon-studio/astroplate: Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of work!](https://github.com/zeon-studio/astroplate)
-- [GitHub - themefisher/northendlab-light-astro: Northendlab is a highly customizable Astro theme designed specifically personal blog.](https://github.com/themefisher/northendlab-light-astro)
+	- [GitHub - onwidget/astrowind: ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme.](https://github.com/onwidget/astrowind) ⭐ 5.5k
+- [GitHub - surjithctly/astroship: Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS](https://github.com/surjithctly/astroship?tab=readme-ov-file) ⭐ 1.9k
+- [GitHub - zeon-studio/astroplate: Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of work!](https://github.com/zeon-studio/astroplate) ⭐ 1.0k
+- [GitHub - themefisher/northendlab-light-astro: Northendlab is a highly customizable Astro theme designed specifically personal blog.](https://github.com/themefisher/northendlab-light-astro) ⭐ 37
 - Paid - [Andromeda - Astro landing page](https://themefisher.com/products/andromeda-astro)
 - [Themes | Astro](https://astro.build/themes/)
 - [Starlight 🌟 Build documentation sites with Astro](https://starlight.astro.build/)
@@ -78,7 +78,7 @@ Transform your plain text into static websites and blogs
 - [Themes | Jekyll • Simple, blog-aware, static sites](https://jekyllrb.com/docs/themes/)
 - [Jekyll - Jamstack Themes](https://jamstackthemes.dev/ssg/jekyll/)
 - https://github.com/topics/jekyll-theme
-- [GitHub - mmistakes/minimal-mistakes: :triangular\_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.](https://github.com/mmistakes/minimal-mistakes)
+- [GitHub - mmistakes/minimal-mistakes: :triangular\_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.](https://github.com/mmistakes/minimal-mistakes) ⭐ 13k
 
 ## Other Static Site Generators / Documentation Generators
 
@@ -92,7 +92,7 @@ Transform your plain text into static websites and blogs
 - https://github.com/doczjs/docz
     - https://www.docz.site
 - [Mintlify - Beautiful documentation that converts users](https://mintlify.com/)
-- [GitHub - requarks/wiki: Wiki.js | A modern and powerful wiki app built on Node.js](https://github.com/Requarks/wiki)
+- [GitHub - requarks/wiki: Wiki.js | A modern and powerful wiki app built on Node.js](https://github.com/Requarks/wiki) ⭐ 28k
 - [Maintaining engineering documentation is injurious to mental health | Metz.sh](https://metz.sh/)
 - DocUtils
 - reStructuredText (rST)
@@ -101,8 +101,8 @@ Transform your plain text into static websites and blogs
 - Others - Company Knowledge Base - [obsidian](devops/ides/obsidian.md)
 - [Home | VuePress](https://vuepress.vuejs.org/)
 - Paid - [ReadMe](https://readme.com/)
-- [GitHub - outline/outline: The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.](https://github.com/outline/outline)
-- [GitHub - 11ty/eleventy: A simpler site generator. Transforms a directory of templates (of varying types) into HTML.](https://github.com/11ty/eleventy/)
+- [GitHub - outline/outline: The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.](https://github.com/outline/outline) ⭐ 38k
+- [GitHub - 11ty/eleventy: A simpler site generator. Transforms a directory of templates (of varying types) into HTML.](https://github.com/11ty/eleventy/) ⭐ 20k
 	- [Eleventy is a simpler static site generator](https://www.11ty.dev/)
 
 ### Comparison

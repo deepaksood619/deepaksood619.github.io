@@ -52,7 +52,7 @@ Dapr runs natively on Kubernetes, as a self hosted binary on your machine, on an
 
 Dapr uses pluggable component state stores and message buses such as Redis as well as gRPC to offer a wide range of communication methods, including direct dapr-to-dapr using gRPC and async Pub-Sub with guaranteed delivery and at-least-once semantics.
 
-[GitHub - dapr/dapr: Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.](https://github.com/dapr/dapr)
+[GitHub - dapr/dapr: Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.](https://github.com/dapr/dapr) ⭐ 26k
 
 [Dapr - Distributed Application Runtime](https://dapr.io/)
 

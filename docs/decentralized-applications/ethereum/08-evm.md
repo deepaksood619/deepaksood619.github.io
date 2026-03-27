@@ -52,10 +52,10 @@ Over Ethereum's nine year history, the EVM has undergone several revisions, and 
 
 [Ethereum execution clients](https://ethereum.org/en/developers/docs/nodes-and-clients/#execution-clients) include an EVM implementation. Additionally, there are multiple standalone implementations, including:
 
-- [Py-EVM](https://github.com/ethereum/py-evm) - _Python_
-- [evmone](https://github.com/ethereum/evmone) - _C++_
-- [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm) - _JavaScript_
-- [eEVM](https://github.com/microsoft/eevm) - _C++_
+- [Py-EVM](https://github.com/ethereum/py-evm) ⭐ 2.4k - _Python_
+- [evmone](https://github.com/ethereum/evmone) ⭐ 974 - _C++_
+- [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm) ⭐ 2.7k - _JavaScript_
+- [eEVM](https://github.com/microsoft/eevm) ⭐ 359 - _C++_
 
 ## Ethereum Contract ABI & EVM Bytecode
 
@@ -87,7 +87,7 @@ solc --abi -o build -overwrite SampleToken.sol
 
 - [Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf)
 - [Jellopaper aka KEVM: Semantics of EVM in K](https://jellopaper.org/)
-- [The Beigepaper](https://github.com/chronaeon/beigepaper)
+- [The Beigepaper](https://github.com/chronaeon/beigepaper) ⭐ 807
 - [Ethereum Virtual Machine Opcodes](https://www.ethervm.io/)
 - [A short introduction in Solidity's documentation](https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html#index-6)
 - [Gas](https://ethereum.org/en/developers/docs/gas/)

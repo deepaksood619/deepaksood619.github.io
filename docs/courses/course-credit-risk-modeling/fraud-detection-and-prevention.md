@@ -42,9 +42,9 @@ Amazon Fraud Detector is a fully managed service that makes it easy to identify 
 - [Amazon Fraud Detector features](https://aws.amazon.com/fraud-detector/features/)
 - [Amazon Fraud Detector pricing](https://aws.amazon.com/fraud-detector/pricing/)
 - [Amazon Fraud Detector FAQs](https://aws.amazon.com/fraud-detector/faqs/)
-- [Github Sample Datasets](https://github.com/aws-samples/aws-fraud-detector-samples/tree/master/data)
+- [Github Sample Datasets](https://github.com/aws-samples/aws-fraud-detector-samples/tree/master/data) ⭐ 83
 - [Get and upload example dataset - Amazon Fraud Detector](https://docs.aws.amazon.com/frauddetector/latest/ug/step-1-get-s3-data.html)
-- [GitHub - aws-solutions-library-samples/fraud-detection-using-machine-learning: Setup end to end demo architecture for predicting fraud events with Machine Learning using Amazon SageMaker](https://github.com/aws-solutions-library-samples/fraud-detection-using-machine-learning)
+- [GitHub - aws-solutions-library-samples/fraud-detection-using-machine-learning: Setup end to end demo architecture for predicting fraud events with Machine Learning using Amazon SageMaker](https://github.com/aws-solutions-library-samples/fraud-detection-using-machine-learning) ⭐ 333
 
 ## Others
 

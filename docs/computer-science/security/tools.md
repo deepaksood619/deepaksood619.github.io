@@ -1,13 +1,13 @@
 # Tools
 
-- [GitHub - gchq/CyberChef: The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis](https://github.com/gchq/CyberChef)
+- [GitHub - gchq/CyberChef: The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis](https://github.com/gchq/CyberChef) ⭐ 34k
 - [CyberChef](https://gchq.github.io/CyberChef/)
 
 ## dex
 
 Dex is an identity service that uses [OpenID Connect](https://openid.net/connect/) to drive authentication for other apps.
 
-Dex acts as a portal to other identity providers through ["connectors."](https://github.com/dexidp/dex#connectors) This lets dex defer authentication to LDAP servers, SAML providers, or established identity providers like GitHub, Google, and Active Directory. Clients write their authentication logic once to talk to dex, then dex handles the protocols for a given backend.
+Dex acts as a portal to other identity providers through ["connectors."](https://github.com/dexidp/dex#connectors) ⭐ 11k This lets dex defer authentication to LDAP servers, SAML providers, or established identity providers like GitHub, Google, and Active Directory. Clients write their authentication logic once to talk to dex, then dex handles the protocols for a given backend.
 
 https://github.com/dexidp/dex
 
@@ -27,7 +27,7 @@ Implementations
 
 ## SPIRE
 
-SPIRE (the [SPIFFE](https://github.com/spiffe/spiffe) Runtime Environment) is a tool-chain for establishing trust between software systems across a wide variety of hosting platforms. Concretely, SPIRE exposes the [SPIFFE Workload API](https://github.com/spiffe/go-spiffe/blob/master/proto/spiffe/workload/workload.proto), which can attest running software systems and issue [SPIFFE IDs](https://github.com/spiffe/spiffe/blob/master/standards/SPIFFE-ID) and [SVID](https://github.com/spiffe/spiffe/blob/master/standards/SPIFFE-ID) s to them. This in turn allows two workloads to establish trust between each other, for example by establishing an mTLS connection or by signing and verifying a JWT token. Or for a workload to securely authenticate to a secret store, a database, or a cloud provider service.
+SPIRE (the [SPIFFE](https://github.com/spiffe/spiffe) ⭐ 1.7k Runtime Environment) is a tool-chain for establishing trust between software systems across a wide variety of hosting platforms. Concretely, SPIRE exposes the [SPIFFE Workload API](https://github.com/spiffe/go-spiffe/blob/master/proto/spiffe/workload/workload.proto) ⭐ 187, which can attest running software systems and issue [SPIFFE IDs](https://github.com/spiffe/spiffe/blob/master/standards/SPIFFE-ID) ⭐ 1.7k and [SVID](https://github.com/spiffe/spiffe/blob/master/standards/SPIFFE-ID) ⭐ 1.7k s to them. This in turn allows two workloads to establish trust between each other, for example by establishing an mTLS connection or by signing and verifying a JWT token. Or for a workload to securely authenticate to a secret store, a database, or a cloud provider service.
 spire-server
 
 - Identity Mapping
@@ -132,7 +132,7 @@ https://certbot.eff.org
 
 `zxcvbn` is a password strength estimator inspired by password crackers. Through pattern matching and conservative estimation, it recognizes and weighs 30k common passwords, common names and surnames according to US census data, popular English words from Wikipedia and US television and movies, and other common patterns like dates, repeats (`aaa`), sequences (`abcd`), keyboard patterns (`qwertyuiop`), and l33t speak.
 
-[GitHub - dropbox/zxcvbn: Low-Budget Password Strength Estimation](https://github.com/dropbox/zxcvbn)
+[GitHub - dropbox/zxcvbn: Low-Budget Password Strength Estimation](https://github.com/dropbox/zxcvbn) ⭐ 16k
 
 [Password Strength Demo | zxcvbn-ts](https://zxcvbn-ts.github.io/zxcvbn/demo/)
 

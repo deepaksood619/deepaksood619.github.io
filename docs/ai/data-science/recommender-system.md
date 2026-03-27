@@ -32,8 +32,8 @@ The two-tower approach is a deep learning architecture in recommendation systems
 ## Links
 
 - [A Spotify Song and Playlist Recommendation Engine | MongoDB](https://www.mongodb.com/developer/code-examples/python/song-recommendations-example-app)
-- [GitHub - recommenders-team/recommenders: Best Practices on Recommendation Systems](https://github.com/recommenders-team/recommenders)
-- [GitHub - jihoo-kim/awesome-RecSys: A curated list of awesome Recommender System (Books, Conferences, Researchers, Papers, Github Repositories, Useful Sites, Youtube Videos)](https://github.com/jihoo-kim/awesome-RecSys?tab=readme-ov-file)
-- [GitHub - facebookresearch/dlrm: An implementation of a deep learning recommendation model (DLRM)](https://github.com/facebookresearch/dlrm)
-- [GitHub - USTC-StarTeam/Awesome-Large-Recommendation-Models: 🔥🔥🔥 Latest Advances on Large Recommendation Models](https://github.com/USTC-StarTeam/Awesome-Large-Recommendation-Models)
-- [GitHub - archersama/awesome-recommend-system-pretraining-papers: Paper List for Recommend-system PreTrained Models](https://github.com/archersama/awesome-recommend-system-pretraining-papers)
+- [GitHub - recommenders-team/recommenders: Best Practices on Recommendation Systems](https://github.com/recommenders-team/recommenders) ⭐ 22k
+- [GitHub - jihoo-kim/awesome-RecSys: A curated list of awesome Recommender System (Books, Conferences, Researchers, Papers, Github Repositories, Useful Sites, Youtube Videos)](https://github.com/jihoo-kim/awesome-RecSys?tab=readme-ov-file) ⭐ 1.5k
+- [GitHub - facebookresearch/dlrm: An implementation of a deep learning recommendation model (DLRM)](https://github.com/facebookresearch/dlrm) ⭐ 4.0k
+- [GitHub - USTC-StarTeam/Awesome-Large-Recommendation-Models: 🔥🔥🔥 Latest Advances on Large Recommendation Models](https://github.com/USTC-StarTeam/Awesome-Large-Recommendation-Models) ⭐ 119
+- [GitHub - archersama/awesome-recommend-system-pretraining-papers: Paper List for Recommend-system PreTrained Models](https://github.com/archersama/awesome-recommend-system-pretraining-papers) ⭐ 349

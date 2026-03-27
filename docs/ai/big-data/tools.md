@@ -56,7 +56,7 @@ Dremio is the only lakehouse that meets the needs of AI agents (and humans) – 
 ![Data on EKS](../../media/Pasted%20image%2020241017195034.jpg)
 
 - [Hello from Data on EKS | Data on EKS](https://awslabs.github.io/data-on-eks/)
-- [GitHub - awslabs/data-on-eks: DoEKS is a tool to build, deploy and scale Data & ML Platforms on Amazon EKS](https://github.com/awslabs/data-on-eks)
+- [GitHub - awslabs/data-on-eks: DoEKS is a tool to build, deploy and scale Data & ML Platforms on Amazon EKS](https://github.com/awslabs/data-on-eks) ⭐ 832
 - [Introducing Data on EKS – Modernize Data Workloads on Amazon EKS | Containers](https://aws.amazon.com/blogs/containers/introducing-data-on-eks-modernize-data-workloads-on-amazon-eks/)
 
 ## Data Ingestion
@@ -76,7 +76,7 @@ Dremio is the only lakehouse that meets the needs of AI agents (and humans) – 
 - **Incremental Loading:** Load only new or changed data and avoid loading old records again.
 - **Open Source:** Free and Apache 2.0 Licensed.
 
-[GitHub - dlt-hub/dlt: data load tool (dlt) is an open source Python library that makes data loading easy 🛠️](https://github.com/dlt-hub/dlt)
+[GitHub - dlt-hub/dlt: data load tool (dlt) is an open source Python library that makes data loading easy 🛠️](https://github.com/dlt-hub/dlt) ⭐ 5.1k
 
 [Data Engineering with Python and AI/LLMs – Data Loading Tutorial - YouTube](https://www.youtube.com/watch?v=T23Bs75F7ZQ)
 

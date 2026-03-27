@@ -98,22 +98,22 @@
 ## Personal Projects
 
 - [Interview - Datainsight Alerting Engine](about-deepak-sood/projects/70-interview-datainsight-alerting-engine.md) (Nov'2023)
-- [GitHub - deepaksood619/react-shopping-cart](https://github.com/deepaksood619/react-shopping-cart) (May'21)
-- [GitHub - deepaksood619/FCC-Weather-App: FreeCodeCamp Weather Application Project](https://github.com/deepaksood619/FCC-Weather-App)  [FCC-Weather-App](https://codepen.io/deepaksood619/full/rpyRbZ) (Jan'18)
-- [GitHub - deepaksood619/FCC-Algorithm-Scripting: A Collection of JS Algorithm Scripting Challenges @FreeCodeCamp](https://github.com/deepaksood619/FCC-Algorithm-Scripting) (Dec'17 - Dec'21)
+- [GitHub - deepaksood619/react-shopping-cart](https://github.com/deepaksood619/react-shopping-cart) ⭐ 0 (May'21)
+- [GitHub - deepaksood619/FCC-Weather-App: FreeCodeCamp Weather Application Project](https://github.com/deepaksood619/FCC-Weather-App) ⭐ 0  [FCC-Weather-App](https://codepen.io/deepaksood619/full/rpyRbZ) (Jan'18)
+- [GitHub - deepaksood619/FCC-Algorithm-Scripting: A Collection of JS Algorithm Scripting Challenges @FreeCodeCamp](https://github.com/deepaksood619/FCC-Algorithm-Scripting) ⭐ 0 (Dec'17 - Dec'21)
 - [CodePen - Bubble Blast using AnimeJS](https://codepen.io/deepaksood619/full/Mrbdaj) (Dec'17)
-- [GitHub - deepaksood619/FCC-Random-Quote-Machine: A site that gives Random Quotes, an FreeCodeCamp project](https://github.com/deepaksood619/FCC-Random-Quote-Machine) [CodePen - FCC-RandomQuoteMachine](https://codepen.io/deepaksood619/full/KZNmBm) (Dec'17)
-- [GitHub - deepaksood619/FCC-Tribute-Linus-Torvalds: A basic HTML and bootstrap site for FreeCodeCamp Tribute Project](https://github.com/deepaksood619/FCC-Tribute-Linus-Torvalds) [FCC-Tribute Page for Linus Torvalds](https://codepen.io/deepaksood619/full/aEdojd) (Dec'17)
-- [GitHub - deepaksood619/RegexCrossword: Solution to RegexCrossword Puzzles](https://github.com/deepaksood619/RegexCrossword/tree/master) (Oct'17 - Nov'17)
+- [GitHub - deepaksood619/FCC-Random-Quote-Machine: A site that gives Random Quotes, an FreeCodeCamp project](https://github.com/deepaksood619/FCC-Random-Quote-Machine) ⭐ 0 [CodePen - FCC-RandomQuoteMachine](https://codepen.io/deepaksood619/full/KZNmBm) (Dec'17)
+- [GitHub - deepaksood619/FCC-Tribute-Linus-Torvalds: A basic HTML and bootstrap site for FreeCodeCamp Tribute Project](https://github.com/deepaksood619/FCC-Tribute-Linus-Torvalds) ⭐ 0 [FCC-Tribute Page for Linus Torvalds](https://codepen.io/deepaksood619/full/aEdojd) (Dec'17)
+- [GitHub - deepaksood619/RegexCrossword: Solution to RegexCrossword Puzzles](https://github.com/deepaksood619/RegexCrossword/tree/master) ⭐ 39 (Oct'17 - Nov'17)
     - Profile - https://regexcrossword.com/players/38485
     - Stats - https://regexcrossword.com/stats
-- [GitHub - deepaksood619/JavaScriptTicTacToe: JavaScript TicTacToe using MiniMax Algorithm](https://github.com/deepaksood619/JavaScriptTicTacToe) [JS Tic Tac Toe - MiniMax](https://codepen.io/deepaksood619/full/VymOjG) (Oct'17)
-- [GitHub - deepaksood619/python-challenge: Solution to python challenge](https://github.com/deepaksood619/python-challenge) (Aug'17 - Dec'21)
+- [GitHub - deepaksood619/JavaScriptTicTacToe: JavaScript TicTacToe using MiniMax Algorithm](https://github.com/deepaksood619/JavaScriptTicTacToe) ⭐ 1 [JS Tic Tac Toe - MiniMax](https://codepen.io/deepaksood619/full/VymOjG) (Oct'17)
+- [GitHub - deepaksood619/python-challenge: Solution to python challenge](https://github.com/deepaksood619/python-challenge) ⭐ 5 (Aug'17 - Dec'21)
     - Solving Python Challenge that includes a lot of hard problem solving puzzles.
-- [Deepak Kumar Sood - Deepak Sood](https://deepaksood619-e5c24.web.app/) [GitHub - deepaksood619/website-old: My Old Portfolio Website - https://deepaksood619-e5c24.web.app/](https://github.com/deepaksood619/website-old) (Aug'17 - Aug'21)
+- [Deepak Kumar Sood - Deepak Sood](https://deepaksood619-e5c24.web.app/) [GitHub - deepaksood619/website-old: My Old Portfolio Website - https://deepaksood619-e5c24.web.app/](https://github.com/deepaksood619/website-old) ⭐ 0 (Aug'17 - Aug'21)
     - Created using Jekyll and hosted in GitHub Pages. Used minimal mistakes as my theme, used liquid templating language to write modifications and additions to build a blogging website
-- [GitHub - deepaksood619/MyWebsite: My Website from scratch.](https://github.com/deepaksood619/MyWebsite) (Apr'17)
-- [GitHub - deepaksood619/Competitive-Programming: https://www.hackerrank.com/deepaksood619, http://practice.geeksforgeeks.org/user-profile.php?user=Deepak%20Sood](https://github.com/deepaksood619/Competitive-Programming) (July'17 - Present)
+- [GitHub - deepaksood619/MyWebsite: My Website from scratch.](https://github.com/deepaksood619/MyWebsite) ⭐ 1 (Apr'17)
+- [GitHub - deepaksood619/Competitive-Programming: https://www.hackerrank.com/deepaksood619, http://practice.geeksforgeeks.org/user-profile.php?user=Deepak%20Sood](https://github.com/deepaksood619/Competitive-Programming) ⭐ 11 (July'17 - Present)
     - My repository where I maintain all the competitive programming questions that I have solved. It's a collection of problems from various sites like HackerRank, GeeksForGeeks, HackerEarth, CodeChef, LeetCode, and basic algorithms and data structure questions
 - [Others](about-deepak-sood/projects/98-others.md)
 

@@ -79,7 +79,7 @@ Note that all losses are available both via a class handle and via a function ha
 
 ## Links
 
-- [GitHub - keras-team/keras: Deep Learning for humans](https://github.com/keras-team/keras)
+- [GitHub - keras-team/keras: Deep Learning for humans](https://github.com/keras-team/keras) ⭐ 64k
 - [Keras: The high-level API for TensorFlow  |  TensorFlow Core](https://www.tensorflow.org/guide/keras)
 - [Keras: Deep Learning for humans](https://keras.io/)
 - [Keras 3 Release](https://keras.io/keras_3/)

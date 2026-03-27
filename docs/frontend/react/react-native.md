@@ -41,4 +41,4 @@ https://medium.com/corebuild-software/easily-optimise-your-react-native-componen
 
 [Why We Built Our Very Own Phoenix, an In-House React Native CodePush \| by Kushagra Gupta \| Apr, 2025 \| Zepto TechXPress](https://blog.zeptonow.com/why-we-built-our-very-own-in-house-react-native-codepush-platform-db0c195e4603)
 
-- [GitHub - microsoft/code-push: A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.](https://github.com/microsoft/code-push)
+- [GitHub - microsoft/code-push: A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.](https://github.com/microsoft/code-push) ⭐ 4.4k

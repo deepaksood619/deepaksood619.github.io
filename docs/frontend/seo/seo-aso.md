@@ -276,7 +276,7 @@ Different content on slash and non-slash URLs is okay for Google, but often is l
 - Trailing slashes after the domain name don’t matter
 - [Should You Have a Trailing Slash at the End of URLs?](https://ahrefs.com/blog/trailing-slash/)
 - [Trailing Slashes and SEO - Best Practice Guide | Safari Digital](https://www.safaridigital.com.au/blog/trailing-slash-seo/)
-- [GitHub - slorber/trailing-slash-guide: Understand and fix your static website trailing slash issues!](https://github.com/slorber/trailing-slash-guide)
+- [GitHub - slorber/trailing-slash-guide: Understand and fix your static website trailing slash issues!](https://github.com/slorber/trailing-slash-guide) ⭐ 404
 - [To slash or not to slash  |  Google Search Central Blog  |  Google Developers](https://developers.google.com/search/blog/2010/04/to-slash-or-not-to-slash)
 
 ## Google Search Algorithms
@@ -287,7 +287,7 @@ Different content on slash and non-slash URLs is okay for Google, but often is l
 
 - [The 7 Best SEO Courses & Certifications in 2024](https://backlinko.com/seo-certification-guide)
 - [Beginner's Guide to SEO (Search Engine Optimization) - Moz](https://moz.com/beginners-guide-to-seo)
-- [GitHub - bmpi-dev/awesome-seo: Google SEO Research and Web Traffic Monetization](https://github.com/bmpi-dev/awesome-seo)
+- [GitHub - bmpi-dev/awesome-seo: Google SEO Research and Web Traffic Monetization](https://github.com/bmpi-dev/awesome-seo) ⭐ 2.6k
 
 ## References
 

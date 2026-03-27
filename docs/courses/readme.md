@@ -134,7 +134,7 @@
 - Advanced Microsoft Excel
 - Advanced Statistical Methods
 
-[GitHub - deepaksood619/365-Data-Science: 365 Data Science Courses](https://github.com/deepaksood619/365-Data-Science)
+[GitHub - deepaksood619/365-Data-Science: 365 Data Science Courses](https://github.com/deepaksood619/365-Data-Science) ⭐ 11
 
 ### Coursera (Jun 2018 - Oct 2018)
 

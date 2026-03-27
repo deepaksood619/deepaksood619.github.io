@@ -98,16 +98,16 @@ Dragonfly is a drop-in Redis replacement, designed to meet the performance and e
 
 - [Dragonfly - The Fastest In-Memory Data Store](https://www.dragonflydb.io/)
 - [Redis vs. Dragonfly Scalability and Performance](https://www.dragonflydb.io/blog/scaling-performance-redis-vs-dragonfly)
-- [GitHub - dragonflydb/dragonfly: A modern replacement for Redis and Memcached](https://github.com/dragonflydb/dragonfly)
+- [GitHub - dragonflydb/dragonfly: A modern replacement for Redis and Memcached](https://github.com/dragonflydb/dragonfly) ⭐ 30k
 - [DragonflyDB Architecture Overview, Internals, and Trade-offs - hitting 6.43 million ops/sec - YouTube](https://www.youtube.com/watch?v=XbV1LoVsbME&ab_channel=ArpitBhayani)
 
 ## Other in-memory database
 
 1. facebook rocksdb
 2. memcached - [Memcached Architecture - Crash Course with Docker, Telnet, NodeJS - YouTube](https://www.youtube.com/watch?v=NCePGsRZFus)
-3. [GitHub - paypal/junodb: JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.](https://github.com/paypal/junodb)
+3. [GitHub - paypal/junodb: JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.](https://github.com/paypal/junodb) ⭐ 2.6k
 4. [Dissecting Juno DB - YouTube](https://www.youtube.com/playlist?list=PLsdq-3Z1EPT3s3nghXpr0NDpgN3ZIoK4O)
 5. Aerospike
-6. [GitHub - DiceDB/dice: A drop-in replacement of Redis with SQL-based realtime reactivity.](https://github.com/dicedb/dice)
+6. [GitHub - DiceDB/dice: A drop-in replacement of Redis with SQL-based realtime reactivity.](https://github.com/dicedb/dice) ⭐ 11k
 
 ![Cheatsheet on comparigin key-value stores](../../media/Pasted%20image%2020250327225921.png)

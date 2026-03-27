@@ -145,7 +145,7 @@ The best way to have more impact is not to invest more time but to think about h
 ### Tools
 
 - [RepoSense - Home](https://reposense.org/)
-- [GitHub - bloombar/gitlogstats: A command line tool to report statistics on the contributions of developer to a project.](https://github.com/bloombar/gitlogstats)
+- [GitHub - bloombar/gitlogstats: A command line tool to report statistics on the contributions of developer to a project.](https://github.com/bloombar/gitlogstats) ⭐ 21
 - [DevDynamics - Ship Better Quality Software, Faster.](https://devdynamics.ai/)
 
 ## Others

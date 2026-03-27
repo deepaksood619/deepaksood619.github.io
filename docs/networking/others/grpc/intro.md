@@ -116,8 +116,8 @@ https://kubernetes.io/blog/2018/11/07/grpc-load-balancing-on-kubernetes-without-
 
 Two main components needed for the gRPC client-side load balancing to work
 
-- [name resolver](https://github.com/grpc/grpc/blob/master/doc/naming)
-- [load balancing policy](https://github.com/grpc/grpc/blob/master/doc/load-balancing).
+- [name resolver](https://github.com/grpc/grpc/blob/master/doc/naming) ⭐ 45k
+- [load balancing policy](https://github.com/grpc/grpc/blob/master/doc/load-balancing) ⭐ 45k.
 
 ![image](../../../media/gRPC-image3.jpg)
 

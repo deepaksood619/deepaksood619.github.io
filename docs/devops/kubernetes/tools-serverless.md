@@ -24,7 +24,7 @@ https://github.com/knative/docs
 
 Apache OpenWhisk (Incubating) is an open source, distributed [Serverless](https://en.wikipedia.org/wiki/Serverless_computing) platform that executes functions (fx) in response to events at any scale. OpenWhisk manages the infrastructure, servers and scaling using Docker containers so you can focus on building amazing and efficient applications.
 
-The OpenWhisk platform supports a programming model in which developers write functional logic (called [Actions](https://github.com/apache/incubator-openwhisk/blob/master/docs/actions#openwhisk-actions)), in any supported programming language, that can be dynamically scheduled and run in response to associated events (via [Triggers](https://github.com/apache/incubator-openwhisk/blob/master/docs/triggers_rules#creating-triggers-and-rules)) from external sources ([Feeds](https://github.com/apache/incubator-openwhisk/blob/master/docs/feeds#implementing-feeds)) or from HTTP requests. The project includes a REST API-based Command Line Interface (CLI) along with other tooling to support packaging, catalog services and many popular container deployment options.
+The OpenWhisk platform supports a programming model in which developers write functional logic (called [Actions](https://github.com/apache/incubator-openwhisk/blob/master/docs/actions#openwhisk-actions) ⭐ 6.8k), in any supported programming language, that can be dynamically scheduled and run in response to associated events (via [Triggers](https://github.com/apache/incubator-openwhisk/blob/master/docs/triggers_rules#creating-triggers-and-rules) ⭐ 6.8k) from external sources ([Feeds](https://github.com/apache/incubator-openwhisk/blob/master/docs/feeds#implementing-feeds) ⭐ 6.8k) or from HTTP requests. The project includes a REST API-based Command Line Interface (CLI) along with other tooling to support packaging, catalog services and many popular container deployment options.
 
 ### Architecture
 
@@ -126,7 +126,7 @@ serverless dynamodb install
 serverless dev
 ```
 
-[GitHub - serverless/serverless: ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.](https://github.com/serverless/serverless)
+[GitHub - serverless/serverless: ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.](https://github.com/serverless/serverless) ⭐ 47k
 
 [Getting Started with Serverless Framework - YouTube](https://www.youtube.com/watch?v=KQRGM9_eqIw)
 
@@ -142,4 +142,4 @@ serverless dev
 
 ## Others
 
-- [GitHub - zappa/Zappa: Serverless Python](https://github.com/zappa/Zappa)
+- [GitHub - zappa/Zappa: Serverless Python](https://github.com/zappa/Zappa) ⭐ 3.7k

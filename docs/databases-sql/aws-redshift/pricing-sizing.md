@@ -1,6 +1,6 @@
 # Pricing / Sizing
 
-[GitHub - aws-samples/amazon-redshift-config-compare](https://github.com/aws-samples/amazon-redshift-config-compare)
+[GitHub - aws-samples/amazon-redshift-config-compare](https://github.com/aws-samples/amazon-redshift-config-compare) ⭐ 25
 
 - Amazon Redshift Node Configuration Comparison utility answers a very common question on which instance type and number of nodes should we choose for your workload on Amazon Redshift
 

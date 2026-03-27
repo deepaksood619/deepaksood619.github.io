@@ -61,7 +61,7 @@ Distributed SQL query engine for big data, formerly known as PrestoSQL.
 
 Trino is a distributed query engine that processes data in parallel across multiple servers. There are two types of Trino servers, [coordinators](https://trino.io/docs/current/overview/concepts.html#trino-concept-coordinator) and [workers](https://trino.io/docs/current/overview/concepts.html#trino-concept-worker).
 
-[GitHub - trinodb/trino: Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)](https://github.com/trinodb/trino)
+[GitHub - trinodb/trino: Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)](https://github.com/trinodb/trino) ⭐ 13k
 
 [Trino concepts - Trino 435 Documentation](https://trino.io/docs/current/overview/concepts.html)
 

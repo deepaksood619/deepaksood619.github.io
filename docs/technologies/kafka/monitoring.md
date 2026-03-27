@@ -10,16 +10,16 @@
     1. https://github.com/lightbend/kafka-lag-exporter
     2. https://www.lightbend.com/blog/monitor-kafka-consumer-group-latency-with-kafka-lag-exporter
 4. Burrow
-5. [GitHub - obsidiandynamics/kafdrop: Kafka Web UI](https://github.com/obsidiandynamics/kafdrop)
+5. [GitHub - obsidiandynamics/kafdrop: Kafka Web UI](https://github.com/obsidiandynamics/kafdrop) ⭐ 6.1k
     1. [About | UI for Apache Kafka](https://docs.kafka-ui.provectus.io/)
 6. Kafka-UI
-    1. [GitHub - provectus/kafka-ui: Open-Source Web UI for Apache Kafka Management](https://github.com/provectus/kafka-ui)
+    1. [GitHub - provectus/kafka-ui: Open-Source Web UI for Apache Kafka Management](https://github.com/provectus/kafka-ui) ⭐ 12k
     2. [About | UI for Apache Kafka](https://docs.kafka-ui.provectus.io/)
 7. Kafka Tool
 8. Kafka Cruise Control
 9. Kakfa-monitor https://github.com/linkedin/kafka-monitor
 10. [kadeck | ‍Kafka UI - Your team's Apache Kafka tool belt](https://www.kadeck.com/)
-11. [GitHub - **confluentinc/jmx-monitoring-stacks**: 📊 Monitoring examples for Confluent Cloud and Confluent Platform](https://github.com/confluentinc/jmx-monitoring-stacks)
+11. [GitHub - **confluentinc/jmx-monitoring-stacks**: 📊 Monitoring examples for Confluent Cloud and Confluent Platform](https://github.com/confluentinc/jmx-monitoring-stacks) ⭐ 122
 
 [Kafka Administration and Monitoring UI Tools](https://dzone.com/articles/kafka-administration-and-monitoring-ui-tools)
 
@@ -53,7 +53,7 @@ Kafka Cruise Control is designed to address this operational scalability issue.
 - **check** - check the situation again after a configurable delay (e.g. adopt a grace period before fixing broker failures)
 - **ignore** - ignore the anomaly (e.g. self-healing is disabled)
 
-- [GitHub - linkedin/cruise-control: Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters.](https://github.com/linkedin/cruise-control)
+- [GitHub - linkedin/cruise-control: Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters.](https://github.com/linkedin/cruise-control) ⭐ 3.0k
 - [Introducing Kafka Cruise Control Frontend](https://engineering.linkedin.com/blog/2019/02/introducing-kafka-cruise-control-frontend)
 
 ## Tips

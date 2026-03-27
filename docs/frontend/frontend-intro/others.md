@@ -123,7 +123,7 @@ done
 
 [imagemagick](ai/computer-vision-cv/imagemagick.md)
 
-[GitHub - kornelski/pngquant: Lossy PNG compressor - pngquant command based on libimagequant library](https://github.com/kornelski/pngquant)
+[GitHub - kornelski/pngquant: Lossy PNG compressor - pngquant command based on libimagequant library](https://github.com/kornelski/pngquant) ⭐ 5.6k
 
 ### jpegoptim
 
@@ -143,7 +143,7 @@ jpegoptim --max=75 *.jpg
 jpegoptim --max=75 --strip-all --all-progressive *.jpg
 ```
 
-[GitHub - tjko/jpegoptim: jpegoptim - utility to optimize/compress JPEG files](https://github.com/tjko/jpegoptim)
+[GitHub - tjko/jpegoptim: jpegoptim - utility to optimize/compress JPEG files](https://github.com/tjko/jpegoptim) ⭐ 1.8k
 
 ### mozjpeg (via `cjpeg`)
 
@@ -161,7 +161,7 @@ cjpeg -quality 75 -outfile compressed.jpg original.jpg
 cjpeg -quality 85 -progressive -optimize -tune-psnr -outfile temp.jpg
 ```
 
-[GitHub - mozilla/mozjpeg: Improved JPEG encoder.](https://github.com/mozilla/mozjpeg)
+[GitHub - mozilla/mozjpeg: Improved JPEG encoder.](https://github.com/mozilla/mozjpeg) ⭐ 5.7k
 
 ### ImageOptim CLI
 
@@ -176,7 +176,7 @@ brew install imageoptim-cli
 imageoptim --quality-low *.jpg
 ```
 
-[GitHub - mozilla/mozjpeg: Improved JPEG encoder.](https://github.com/mozilla/mozjpeg)
+[GitHub - mozilla/mozjpeg: Improved JPEG encoder.](https://github.com/mozilla/mozjpeg) ⭐ 5.7k
 
 [MozJpeg - Compress/edit images online.](https://mozjpeg.com/)
 

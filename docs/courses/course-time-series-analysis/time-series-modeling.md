@@ -470,7 +470,7 @@ The Prophet model is an open-source tool developed by Facebook for time series f
 - [ELI5: Prophet - YouTube](https://www.youtube.com/watch?v=eJrbKU09h-0)
 - [Prophet \| Forecasting at scale.](https://facebook.github.io/prophet/)
 - [Time Series Analysis using Facebook Prophet - GeeksforGeeks](https://www.geeksforgeeks.org/data-science/time-series-analysis-using-facebook-prophet/)
-- [GitHub - facebook/prophet: Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.](https://github.com/facebook/prophet)
+- [GitHub - facebook/prophet: Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.](https://github.com/facebook/prophet) ⭐ 20k
 - [facebook-prophet-in-2023-and-beyond](https://medium.com/@cuongduong_35162/facebook-prophet-in-2023-and-beyond-c5086151c138)
 
 ## Links

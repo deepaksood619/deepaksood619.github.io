@@ -121,11 +121,11 @@ The most important difference: **Cluster Linking is a broker-level, real-time, b
 - [Apache Kafka Migration: How to Migrate to Apache Kafka by Rafe Colburn (Etsy) - YouTube](https://www.youtube.com/watch?v=Q0eH9xhZUjg&ab_channel=DataCouncil)
 - [AWS re:Invent 2020: Guide to Apache Kafka replication and migration with Amazon MSK - YouTube](https://www.youtube.com/watch?v=CmcJb9Ge3jI&ab_channel=AWSEvents)
 
-### [GitHub - confluentinc/kafka-metrics-extractor](https://github.com/confluentinc/kafka-metrics-extractor)
+### [GitHub - confluentinc/kafka-metrics-extractor](https://github.com/confluentinc/kafka-metrics-extractor) ⭐ 6
 
 `kafka-metrics-extractor` is a tool designed to pull raw usage from Kafka providers such as MSK, OSK and others (currently supports MSK clusters only). The script for extracting MSK usage, it uses MSK permissions to list and describe the clusters only and then collects the usage data from CloudWatch and CostExplorer in order to avoid any cluster disruption.
 
-### [GitHub - confluentinc/kcp](https://github.com/confluentinc/kcp) (Kafka Copy Paste)
+### [GitHub - confluentinc/kcp](https://github.com/confluentinc/kcp) ⭐ 25 (Kafka Copy Paste)
 
 - Simplify and streamline your Kafka migration journey to Confluent Cloud!
 - kcp helps you migrate your Kafka setups to Confluent Cloud by providing tools to:

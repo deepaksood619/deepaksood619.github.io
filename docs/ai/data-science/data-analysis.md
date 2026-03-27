@@ -42,11 +42,11 @@ https://towardsdatascience.com/5-advanced-visualisation-for-exploratory-data-ana
 ## Tools
 
 - [Orange Data Mining](https://orangedatamining.com/)
-	- [GitHub - biolab/orange3: 🍊 :bulb: Orange: Interactive data analysis](https://github.com/biolab/orange3)
+	- [GitHub - biolab/orange3: 🍊 :bulb: Orange: Interactive data analysis](https://github.com/biolab/orange3) ⭐ 5.6k
 
 ## Data Analyst Roadmap
 
 - [Data Analyst Roadmap](https://roadmap.sh/data-analyst)
 - [Solve Python | HackerRank](https://www.hackerrank.com/domains/python)
-- [GitHub - alfarias/awesome-kaggle-kernels: Compilation of good Kaggle Kernels.](https://github.com/alfarias/awesome-kaggle-kernels)
+- [GitHub - alfarias/awesome-kaggle-kernels: Compilation of good Kaggle Kernels.](https://github.com/alfarias/awesome-kaggle-kernels) ⭐ 63
 - [Meta Data Analyst Professional Certificate | Coursera](https://www.coursera.org/professional-certificates/meta-data-analyst)

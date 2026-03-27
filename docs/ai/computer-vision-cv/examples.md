@@ -154,8 +154,8 @@ value `y_pred` gives a probabilistic value, close to 0 means it's 1st class i.e.
 ## Cat vs Dog Classifier
 
 - [Convolutional Neural Networks (CNN) — Architecture Explained | by Dharmaraj | Medium](https://medium.com/@draj0718/convolutional-neural-networks-cnn-architectures-explained-716fb197b243)
-- [GitHub - girishkuniyal/Cat-Dog-CNN-Classifier: This classifier use Convolution Neural Network approch for kaggle problem to classify Cat vs Dog images.](https://github.com/girishkuniyal/Cat-Dog-CNN-Classifier)
-- [GitHub - mohamedamine99/Keras-CNN-cats-vs-dogs-image-classification: This project is an image classification project using a deep-learning based on Convolutional Neural Networks (CNNs) with Keras. The Dogs vs. Cats is a classic problem for anyone who wants to dive deeper into deep-learning.](https://github.com/mohamedamine99/Keras-CNN-cats-vs-dogs-image-classification)
+- [GitHub - girishkuniyal/Cat-Dog-CNN-Classifier: This classifier use Convolution Neural Network approch for kaggle problem to classify Cat vs Dog images.](https://github.com/girishkuniyal/Cat-Dog-CNN-Classifier) ⭐ 68
+- [GitHub - mohamedamine99/Keras-CNN-cats-vs-dogs-image-classification: This project is an image classification project using a deep-learning based on Convolutional Neural Networks (CNNs) with Keras. The Dogs vs. Cats is a classic problem for anyone who wants to dive deeper into deep-learning.](https://github.com/mohamedamine99/Keras-CNN-cats-vs-dogs-image-classification) ⭐ 12
 - [How to Classify Photos of Dogs and Cats (with 97% accuracy) - MachineLearningMastery.com](https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/)
 - [Dog Cat Classification | Kaggle](https://www.kaggle.com/code/williamkempson/dog-cat-classification)
 

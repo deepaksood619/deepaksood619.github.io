@@ -22,7 +22,7 @@ https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layou
 2. https://medium.com
 3. Awesome Repositories -https://github.com/ossu/computer-science
 4. [daily.dev | Where developers grow together](https://daily.dev/)
-5. [GitHub - jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
+5. [GitHub - jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university) ⭐ 338k
 
 ## Youtube channels worth subscribing
 
@@ -75,13 +75,13 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 - [**https://www.freecodecamp.org/news/tech-talks-software-development-conferences/**](https://www.freecodecamp.org/news/tech-talks-software-development-conferences/)
 - https://roadmap.sh/backend
 - [Back End Developer Roadmap 2024 - YouTube](https://www.youtube.com/watch?v=tN6oJu2DqCM&ab_channel=freeCodeCamp.org)
-- [**https://github.com/yangshun/tech-interview-handbook**](https://github.com/yangshun/tech-interview-handbook)
-- [**https://github.com/kdn251/interviews**](https://github.com/kdn251/interviews)
+- [**https://github.com/yangshun/tech-interview-handbook**](https://github.com/yangshun/tech-interview-handbook) ⭐ 138k
+- [**https://github.com/kdn251/interviews**](https://github.com/kdn251/interviews) ⭐ 65k
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 - [10 GitHub repositories to advance your career as a Developer 📚 - DEV Community](https://dev.to/iarchitsharma/10-as-a-developer-egn)
 - [Saylor Academy | Saylor Academy](https://learn.saylor.org/?redirect=0)
 - [Speaker Deck | Easily Share Your Presentations Online](https://speakerdeck.com/)
-- [GitHub - practical-tutorials/project-based-learning: Curated list of project-based tutorials](https://github.com/practical-tutorials/project-based-learning)
+- [GitHub - practical-tutorials/project-based-learning: Curated list of project-based tutorials](https://github.com/practical-tutorials/project-based-learning) ⭐ 262k
 
 ## Blogs
 
@@ -115,20 +115,20 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 - https://github.com/danistefanovic/build-your-own-x
 - https://github.com/gothinkster/realworld
 - https://codebase.show/projects/realworld
-- [GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted)
-- [GitHub - trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.](https://github.com/trimstray/the-book-of-secret-knowledge)
-- [GitHub - chubin/cheat.sh: the only cheat sheet you need](https://github.com/chubin/cheat.sh)
-- [GitHub - papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.](https://github.com/papers-we-love/papers-we-love)
-- [GitHub - tycrek/degoogle: A huge list of alternatives to Google products. Privacy tips, tricks, and links.](https://github.com/tycrek/degoogle)
-- [GitHub - cloudcommunity/Cloud-Free-Tier-Comparison: Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison)
+- [GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 282k
+- [GitHub - trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 212k
+- [GitHub - chubin/cheat.sh: the only cheat sheet you need](https://github.com/chubin/cheat.sh) ⭐ 41k
+- [GitHub - papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.](https://github.com/papers-we-love/papers-we-love) ⭐ 105k
+- [GitHub - tycrek/degoogle: A huge list of alternatives to Google products. Privacy tips, tricks, and links.](https://github.com/tycrek/degoogle) ⭐ 8.5k
+- [GitHub - cloudcommunity/Cloud-Free-Tier-Comparison: Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) ⭐ 6.8k
 - [17 Mindblowing Github Repositories You Never Knew Existed - DEV Community](https://dev.to/kafeel_ahmad/17-mindblowing-github-repositories-you-never-knew-existed-555g)
 - [Community Strikes Back: 12 Open Source Projects Born from Resistance](https://itsfoss.com/community-strikes-back-with-forks/)
 
 ### Example Repositories
 
-- [GitHub - getsentry/sentry: Developer-first error tracking and performance monitoring](https://github.com/getsentry/sentry)
-- [GitHub - django/django: The Web framework for perfectionists with deadlines.](https://github.com/django/django)
-- [GitHub - reposense/RepoSense: Contribution analysis tool for Git repositories](https://github.com/reposense/RepoSense)
+- [GitHub - getsentry/sentry: Developer-first error tracking and performance monitoring](https://github.com/getsentry/sentry) ⭐ 43k
+- [GitHub - django/django: The Web framework for perfectionists with deadlines.](https://github.com/django/django) ⭐ 87k
+- [GitHub - reposense/RepoSense: Contribution analysis tool for Git repositories](https://github.com/reposense/RepoSense) ⭐ 322
 
 ## Fundamental Tech
 
@@ -184,6 +184,6 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 ## Others
 
 - [Developer Learning, Trainings, Courses, and Resources - AWS](https://aws.amazon.com/developer/learning/)
-- [GitHub - cloudcommunity/Free-Certifications: A curated list of free courses with certifications. Also available at https://free-certifications.com/](https://github.com/cloudcommunity/Free-Certifications)
+- [GitHub - cloudcommunity/Free-Certifications: A curated list of free courses with certifications. Also available at https://free-certifications.com/](https://github.com/cloudcommunity/Free-Certifications) ⭐ 53k
 	- [Free Certifications - Find Free Professional Certifications Online](https://free-certifications.com/)
-- [GitHub - gabe565/ascii-movie: Star Wars SSH + Telnet server written in Go.](https://github.com/gabe565/ascii-movie)
+- [GitHub - gabe565/ascii-movie: Star Wars SSH + Telnet server written in Go.](https://github.com/gabe565/ascii-movie) ⭐ 555

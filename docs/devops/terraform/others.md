@@ -17,7 +17,7 @@ Terragrunt is a thin wrapper that provides extra tools for keeping your configur
 
 [Terragrunt | Terraform wrapper](https://terragrunt.gruntwork.io/)
 
-Terraform Modules - [GitHub - asyrafnorafandi/terraform-modules-template: This repository is to be used as a Terraform Module Boilerplate to quickly get started in writing your own Terraform Modules](https://github.com/asyrafnorafandi/terraform-modules-template)
+Terraform Modules - [GitHub - asyrafnorafandi/terraform-modules-template: This repository is to be used as a Terraform Module Boilerplate to quickly get started in writing your own Terraform Modules](https://github.com/asyrafnorafandi/terraform-modules-template) ⭐ 1
 
 ### Gruntwork
 
@@ -49,7 +49,7 @@ The key features of OpenTofu are:
 #### Links
 
 - [OpenTofu](https://opentofu.org/)
-- [GitHub - opentofu/opentofu: OpenTofu lets you declaratively manage your cloud infrastructure.](https://github.com/opentofu/opentofu)
+- [GitHub - opentofu/opentofu: OpenTofu lets you declaratively manage your cloud infrastructure.](https://github.com/opentofu/opentofu) ⭐ 28k
 - [OpenTofu Joins CNCF: New Home for Open Source IaC Project - The New Stack](https://thenewstack.io/opentofu-joins-cncf-new-home-for-open-source-iac-project/)
 
 ## Terraform vs CloudFormation

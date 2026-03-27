@@ -44,7 +44,7 @@ DynamoDB does not natively support foreign keys as it is not a relational databa
 
 [Read Uncommitted](https://dbdb.io/browse?isolation-levels=read-uncommitted)[Read Committed](https://dbdb.io/browse?isolation-levels=read-committed)[Repeatable Read](https://dbdb.io/browse?isolation-levels=repeatable-read)
 
-Although DynamoDB was originally not designed for transactions, AWS has subsequently published a [library](https://github.com/awslabs/dynamodb-transactions) that supports them. With the library, DynamoDB has three configurable isolation levels for transactions: Read Uncommitted, Read Committed, and Repeatable Reads. However, neither DynamoDB nor the library support locking for range queries, thus phantom reads can potentially result in phantom reads.
+Although DynamoDB was originally not designed for transactions, AWS has subsequently published a [library](https://github.com/awslabs/dynamodb-transactions) ⭐ 358 that supports them. With the library, DynamoDB has three configurable isolation levels for transactions: Read Uncommitted, Read Committed, and Repeatable Reads. However, neither DynamoDB nor the library support locking for range queries, thus phantom reads can potentially result in phantom reads.
 
 ## Joins
 

@@ -37,7 +37,7 @@ Amazon Transcribe Call Analytics is a tool that can transcribe call audio, analy
 
 ## Post-call insights / Analytics
 
-[GitHub - aws-samples/amazon-transcribe-post-call-analytics](https://github.com/aws-samples/amazon-transcribe-post-call-analytics)
+[GitHub - aws-samples/amazon-transcribe-post-call-analytics](https://github.com/aws-samples/amazon-transcribe-post-call-analytics) ⭐ 107
 
 Call Analytics provides post-call analyses, which are useful for monitoring customer service trends.
 

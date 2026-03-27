@@ -2,7 +2,7 @@
 
 [It just got easier to discover and compare EC2 instance types | AWS Compute Blog](https://aws.amazon.com/blogs/compute/it-just-got-easier-to-discover-and-compare-ec2-instance-types)
 
-[GitHub - aws/amazon-ec2-instance-selector: A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory](https://github.com/aws/amazon-ec2-instance-selector)
+[GitHub - aws/amazon-ec2-instance-selector: A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory](https://github.com/aws/amazon-ec2-instance-selector) ⭐ 929
 
 [Amazon EC2 Instance Comparison](https://instances.vantage.sh/)
 
@@ -198,7 +198,7 @@ Intel, AMD, and Graviton each come with tradeoffs:
 ### Graviton
 
 - [GitHub - aws/aws-graviton-getting-started: Helping developers to use AWS Graviton2, Graviton3, and Graviton4 processors which power the 6th, 7th, and 8th generation of Amazon EC2 instances (C6g\[d\], M6g\[d\], R6g\[d\], T4g, X2gd, C6gn, I4g, Im4gn, Is4gen, G5g, C7g\[d\]\[n\], M7g\[d\], R7g\[d\], R8g).](https://github.com/aws/aws-graviton-getting-started)
-- [aws-graviton-getting-started/transition-guide.md at main · aws/aws-graviton-getting-started · GitHub](https://github.com/aws/aws-graviton-getting-started/blob/main/transition-guide.md)
+- [aws-graviton-getting-started/transition-guide.md at main · aws/aws-graviton-getting-started · GitHub](https://github.com/aws/aws-graviton-getting-started/blob/main/transition-guide.md) ⭐ 1.0k
 
 ## AWS Systems Manager
 

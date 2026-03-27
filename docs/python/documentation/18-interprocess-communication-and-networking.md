@@ -35,7 +35,7 @@ https://geekflare.com/python-asynchronous-web-frameworks
 
 https://blog.miguelgrinberg.com/post/sync-vs-async-python-what-is-the-difference
 
-[**https://github.com/timofurrer/awesome-asyncio**](https://github.com/timofurrer/awesome-asyncio)
+[**https://github.com/timofurrer/awesome-asyncio**](https://github.com/timofurrer/awesome-asyncio) ⭐ 5.0k
 
 https://yeray.dev/python/asyncio/asyncio-for-the-working-python-developer
 

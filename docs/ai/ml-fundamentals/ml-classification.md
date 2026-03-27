@@ -165,14 +165,14 @@ Applications
 - Computer Vision
     - Image recognition
     - Optical Character Recognition (OCR)
-        - [GitHub - PaddlePaddle/PaddleOCR: Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)](https://github.com/PaddlePaddle/PaddleOCR)
+        - [GitHub - PaddlePaddle/PaddleOCR: Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 73k
         - [Cracking OCR at Scale: Lessons from Real-World Document Processing \| by Pritishrv \| CARS24 Data Science Blog \| Jul, 2025 \| Medium](https://medium.com/cars24-data-science-blog/cracking-ocr-at-scale-lessons-from-real-world-document-processing-dbaf38485a39)
         - IDP - Intelligent Document Processing
         - Intelligent Document Processing (IDP) is a workflow automation technology that uses AI and other technologies to extract, categorize, and organize information from various document types, including structured, unstructured, and semi-structured data. It automates the process of scanning, extracting, and processing data from documents, reducing manual effort and improving efficiency.
         - [Introducing dots-ocr: A New Multilingual OCR Model \| Akshay Pachaar posted on the topic \| LinkedIn](https://www.linkedin.com/posts/akshay-pachaar_everyone-is-sleeping-on-this-new-ocr-model-ugcPost-7362462915485995009-rUMB/)
             - dots-ocr is a new 1.7B vision-language model that achieves SOTA performance on multilingual document parsing.
-            - [GitHub - rednote-hilab/dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model](https://github.com/rednote-hilab/dots.ocr)
-        - [GitHub - landing-ai/agentic-doc: Python library for Agentic Document Extraction from LandingAI](https://github.com/landing-ai/agentic-doc)
+            - [GitHub - rednote-hilab/dots.ocr: Multilingual Document Layout Parsing in a Single Vision-Language Model](https://github.com/rednote-hilab/dots.ocr) ⭐ 8.1k
+        - [GitHub - landing-ai/agentic-doc: Python library for Agentic Document Extraction from LandingAI](https://github.com/landing-ai/agentic-doc) ⭐ 2.4k
 
 https://opensource.google/projects/tesseract
 

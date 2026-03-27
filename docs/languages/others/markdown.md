@@ -258,4 +258,4 @@ https://www.markdownguide.org/basic-syntax
 
 https://markdown-it.github.io
 
-[GitHub - igorshubovych/markdownlint-cli: MarkdownLint Command Line Interface](https://github.com/igorshubovych/markdownlint-cli)
+[GitHub - igorshubovych/markdownlint-cli: MarkdownLint Command Line Interface](https://github.com/igorshubovych/markdownlint-cli) ⭐ 1.0k

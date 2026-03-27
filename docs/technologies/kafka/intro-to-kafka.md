@@ -195,8 +195,8 @@ In-sync replicas is the subset of the replicas list that is currently alive and 
 
 ## Learning
 
-- [GitHub - deepaksood619/cp-sandbox: Docker-compose file for Confluent Kafka with configuration mounted as properties files. Brings up Kafka and components with JMX metrics exposed and visualized using Prometheus and Grafana](https://github.com/deepaksood619/cp-sandbox)
-- [GitHub - Irtebat/cfk-reference-deployments](https://github.com/Irtebat/cfk-reference-deployments)
+- [GitHub - deepaksood619/cp-sandbox: Docker-compose file for Confluent Kafka with configuration mounted as properties files. Brings up Kafka and components with JMX metrics exposed and visualized using Prometheus and Grafana](https://github.com/deepaksood619/cp-sandbox) ⭐ 0
+- [GitHub - Irtebat/cfk-reference-deployments](https://github.com/Irtebat/cfk-reference-deployments) ⭐ 0
 
 ## References
 

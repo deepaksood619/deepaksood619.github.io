@@ -31,7 +31,7 @@ Standard IO takes a user space buffer and then copies it's content to the page c
 
 ## Page Cache
 
-[Page Cache](https://github.com/torvalds/linux/blob/master/include/linux/buffer_head.h) stores the recently accessed fragments of files that are more likely to be accessed in the nearest time. When working with disk files, read() andwrite() calls do not initiate disk accesses directly and go through Page Cache instead.
+[Page Cache](https://github.com/torvalds/linux/blob/master/include/linux/buffer_head.h) ⭐ 225k stores the recently accessed fragments of files that are more likely to be accessed in the nearest time. When working with disk files, read() andwrite() calls do not initiate disk accesses directly and go through Page Cache instead.
 
 ![image](../../media/Disk-IO-image2.jpg)
 
@@ -87,7 +87,7 @@ In other words, every operation has to have a starting offset of a multiple of 5
 
 Examples of aligned writes (highlighted). Left to right: the write starts and ends on the block boundary and is exactly the size of the block; the write starts and ends on the block boundary and has a size that is a multiple of the blocksize.
 
-For example, RocksDB is making sure that the operations are block-aligned [by checking it upfront](https://github.com/facebook/rocksdb/blob/master/env/io_posix.cc#L312-L316)(older versions were allowing unaligned access by aligning in the background).
+For example, RocksDB is making sure that the operations are block-aligned [by checking it upfront](https://github.com/facebook/rocksdb/blob/master/env/io_posix.cc#L312-L316) ⭐ 32k(older versions were allowing unaligned access by aligning in the background).
 
 Whether or not O_DIRECT flag is used, it is always a good idea to make sure your reads and writes are block aligned. Crossing segment boundary will cause multiple sectors to be loaded from (or written back on) disk as shown on images above. Using the block size or a value that fits neatly inside of a block guarantees block-aligned I/O requests, and prevents extraneous work inside the kernel.
 

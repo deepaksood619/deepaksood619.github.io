@@ -55,7 +55,7 @@ AIRFLOW__SCHEDULER__USE_ROW_LEVEL_LOCKING: True
 ## Deployments - Helm
 
 - [Helm Chart for Apache Airflow — helm-chart Documentation](https://airflow.apache.org/docs/helm-chart/stable/index.html)
-- [GitHub - airflow-helm/charts: The User-Community Airflow Helm Chart is the standard way to deploy Apache Airflow on Kubernetes with Helm. Originally created in 2017, it has since helped thousands of companies create production-ready deployments of Airflow on Kubernetes.](https://github.com/airflow-helm/charts)
+- [GitHub - airflow-helm/charts: The User-Community Airflow Helm Chart is the standard way to deploy Apache Airflow on Kubernetes with Helm. Originally created in 2017, it has since helped thousands of companies create production-ready deployments of Airflow on Kubernetes.](https://github.com/airflow-helm/charts) ⭐ 709
 
 ## Links
 

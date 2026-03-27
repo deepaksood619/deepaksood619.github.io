@@ -22,20 +22,20 @@ A Vector DB lets you find "closest meaning" instead of exact keyword matches by 
 ### Databases
 
 - pinecone
-- [**LanceDB**](https://github.com/lancedb/lancedb)
-- [**Epsilla**](https://github.com/epsilla-cloud/vectordb)
+- [**LanceDB**](https://github.com/lancedb/lancedb) ⭐ 9.7k
+- [**Epsilla**](https://github.com/epsilla-cloud/vectordb) ⭐ 870
 - [Welcome | Weaviate - Vector Database](https://weaviate.io/)
 - [PostgresML: Leveraging Postgres as a Vector Database for AI](https://youtu.be/D8YMMOhAeBs?si=ug5uc3LhFPDIlpcF)
 - [Learn Vector Database in 10 Mins - Hottest AI Apps DB!](https://youtu.be/sVNrXXM1txo?si=xc1nFrwmRzD2f9CO)
 - [What Are Vector Databases? | MongoDB](https://www.mongodb.com/basics/vector-databases)
 - [Chroma](https://www.trychroma.com/) - the AI-native open-source embedding database
-    - [GitHub - chroma-core/chroma: the AI-native open-source embedding database](https://github.com/chroma-core/chroma)
+    - [GitHub - chroma-core/chroma: the AI-native open-source embedding database](https://github.com/chroma-core/chroma) ⭐ 27k
     - [Chroma Vector Database: Retrieval for LLMs (Hammad Bashir + Liquan Pei)](https://youtu.be/E4ot5d79jdA?si=6apWFfCdKbi7_yFK)
-- [GitHub - milvus-io/milvus: A cloud-native vector database, storage for next generation AI applications](https://github.com/milvus-io/milvus)
+- [GitHub - milvus-io/milvus: A cloud-native vector database, storage for next generation AI applications](https://github.com/milvus-io/milvus) ⭐ 43k
     - [Vector database - Milvus](https://milvus.io/)
 - [Qdrant - Vector Database - Qdrant](https://qdrant.tech/)
-	- [GitHub - qdrant/qdrant: Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/](https://github.com/qdrant/qdrant)
-- [GitHub - kuzudb/kuzu: Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.](https://github.com/kuzudb/kuzu)
+	- [GitHub - qdrant/qdrant: Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/](https://github.com/qdrant/qdrant) ⭐ 30k
+- [GitHub - kuzudb/kuzu: Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.](https://github.com/kuzudb/kuzu) ⭐ 3.8k
 
 ## Working
 

@@ -50,7 +50,7 @@ AWS CloudFormation utilizes templates, stacks, and stack sets to manage infrastr
     - You define a StackSet in an administrator account, specifying target accounts and regions where stack instances will be created based on the same template.
     - This enables centralized management of infrastructure deployments across an organization.
 
-[GitHub - stelligent/cfn\_nag: Linting tool for CloudFormation templates](https://github.com/stelligent/cfn_nag)
+[GitHub - stelligent/cfn\_nag: Linting tool for CloudFormation templates](https://github.com/stelligent/cfn_nag) ⭐ 1.3k
 
 ### Others
 

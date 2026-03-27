@@ -14,7 +14,7 @@ https://docs.dgl.ai/index.html
 
 https://github.com/dmlc/dgl
 
-[**https://github.com/dmlc/dgl/tree/master/examples**](https://github.com/dmlc/dgl/tree/master/examples)
+[**https://github.com/dmlc/dgl/tree/master/examples**](https://github.com/dmlc/dgl/tree/master/examples) ⭐ 14k
 
 ## Libraries
 
@@ -122,7 +122,7 @@ Polars is a blazingly fast DataFrames library implemented in Rust using [Apache 
 - Powerful expression API
 - Hybrid Streaming (larger than RAM datasets)
 
-[GitHub - pola-rs/polars: Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js](https://github.com/pola-rs/polars)
+[GitHub - pola-rs/polars: Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js](https://github.com/pola-rs/polars) ⭐ 38k
 
 [Polars](https://www.pola.rs/)
 
@@ -169,7 +169,7 @@ https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f560
 
 [https://meltano.com](https://meltano.com/)
 
-[GitHub - meltano/meltano: Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.](https://github.com/meltano/meltano)
+[GitHub - meltano/meltano: Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.](https://github.com/meltano/meltano) ⭐ 2.4k
 
 ## Generative Art
 
@@ -200,4 +200,4 @@ https://github.com/jina-ai/jina
 
 ## Others
 
-- [GitHub - h2oai/h2o-3: H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Means, PCA, Generalized Additive Models (GAM), RuleFit, Support Vector Machine (SVM), Stacked Ensembles, Automatic Machine Learning (AutoML), etc.](https://github.com/h2oai/h2o-3)
+- [GitHub - h2oai/h2o-3: H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Means, PCA, Generalized Additive Models (GAM), RuleFit, Support Vector Machine (SVM), Stacked Ensembles, Automatic Machine Learning (AutoML), etc.](https://github.com/h2oai/h2o-3) ⭐ 7.5k

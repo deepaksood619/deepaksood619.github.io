@@ -38,13 +38,13 @@ Security policies also contain notable differences between the various cloud pro
 - CloudFormation
 - Ansible
 - [Terratest \| Automated tests for your infrastructure code.](https://terratest.gruntwork.io/)
-- [GitHub - pulumi/pulumi: Pulumi - Infrastructure as Code in any programming language 🚀](https://github.com/pulumi/pulumi)
+- [GitHub - pulumi/pulumi: Pulumi - Infrastructure as Code in any programming language 🚀](https://github.com/pulumi/pulumi) ⭐ 25k
 	- [Pulumi - Infrastructure as Code in Any Programming Language](https://www.pulumi.com/)
 	- [OpenTofu vs. Terraform \| Pulumi Docs](https://www.pulumi.com/docs/iac/concepts/vs/terraform/opentofu/)
 - [System Initiative](https://www.systeminit.com/)
 	- [System Initiative is the Future](https://www.systeminit.com/blog/system-initiative-is-the-future)
 	- [System Initiative Getting Started Tutorial - YouTube](https://www.youtube.com/watch?v=7vrIJmP49IE)
-	- [GitHub - systeminit/si: The System Initiative software](https://github.com/systeminit/si)
+	- [GitHub - systeminit/si: The System Initiative software](https://github.com/systeminit/si) ⭐ 1.8k
 	- [Getting Started \| System Initiative Docs](https://docs.systeminit.com/tutorials/getting-started)
 	- [Getting Started \| System Initiative Docs](https://docs.systeminit.com/tutorials/getting-started)
 - [AI-Driven DevOps Platform \| Scoutflo - Fast, Secure Infrastructure Delivery](https://scoutflo.com/)

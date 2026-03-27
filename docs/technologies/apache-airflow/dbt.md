@@ -13,7 +13,7 @@ dbt is a SQL-first transformation workflow that lets teams quickly and collabora
 - https://www.getdbt.com
 - [What is dbt?](https://www.getdbt.com/product/what-is-dbt/)
 - [What is Analytics Engineering?](https://www.getdbt.com/what-is-analytics-engineering/)
-- [GitHub - dbt-labs/dbt-core: dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.](https://github.com/dbt-labs/dbt-core)
+- [GitHub - dbt-labs/dbt-core: dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.](https://github.com/dbt-labs/dbt-core) ⭐ 12k
 - [Setting Up dbt and Connecting to Snowflake](https://vivekbattul.notion.site/Setting-Up-dbt-and-Connecting-to-Snowflake-0c8dc5fae7df4d71aca1fabdad38b3f7)
 - [How we structure our dbt projects \| dbt Developer Hub](https://docs.getdbt.com/best-practices/how-we-structure/1-guide-overview)
 - Comparision
@@ -81,6 +81,6 @@ dbt provides different ways to persist your model's results:
 ## Learning
 
 - [Getting Started with dbt (Data Build Tool): A Beginner’s Guide to Building Data Transformations | by Suffyan Asad | Medium](https://medium.com/@suffyan.asad1/getting-started-with-dbt-data-build-tool-a-beginners-guide-to-building-data-transformations-28e335be5f7e)
-	- [GitHub - SA01/dbt-tutorial: This repository contains the code and project files for my article on Medium, which serves as an introduction to DBT (Data Build Tool) and how to build data transformations with it.](https://github.com/SA01/dbt-tutorial/tree/main)
-	- [GitHub - lorint/AdventureWorks-for-Postgres: Set up the AdventureWorks sample database for use with Postgres](https://github.com/lorint/AdventureWorks-for-Postgres?tab=readme-ov-file)
+	- [GitHub - SA01/dbt-tutorial: This repository contains the code and project files for my article on Medium, which serves as an introduction to DBT (Data Build Tool) and how to build data transformations with it.](https://github.com/SA01/dbt-tutorial/tree/main) ⭐ 7
+	- [GitHub - lorint/AdventureWorks-for-Postgres: Set up the AdventureWorks sample database for use with Postgres](https://github.com/lorint/AdventureWorks-for-Postgres?tab=readme-ov-file) ⭐ 467
 - [Ten years late to the dbt party (DuckDB edition)](https://rmoff.net/2026/02/19/ten-years-late-to-the-dbt-party-duckdb-edition/)

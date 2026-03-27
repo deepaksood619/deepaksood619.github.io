@@ -88,7 +88,7 @@ Geth is an Ethereum execution client meaning it handles transactions, deployment
 
 Running Geth alongside a consensus client turns a computer into an Ethereum node.
 
-Codebase - [GitHub - ethereum/go-ethereum: Official Go implementation of the Ethereum protocol](https://github.com/ethereum/go-ethereum)
+Codebase - [GitHub - ethereum/go-ethereum: Official Go implementation of the Ethereum protocol](https://github.com/ethereum/go-ethereum) ⭐ 51k
 
 [Home | go-ethereum](https://geth.ethereum.org/)
 
@@ -142,7 +142,7 @@ Maximal extractable value was first applied in the context of proof-of-work, and
 
 [Relays in a post-ePBS world - Proof-of-Stake - Ethereum Research](https://ethresear.ch/t/relays-in-a-post-epbs-world/16278)
 
-[GitHub - skip-mev/pob: Skip's protocol-owned MEV builder implementation](https://github.com/skip-mev/pob)
+[GitHub - skip-mev/pob: Skip's protocol-owned MEV builder implementation](https://github.com/skip-mev/pob) ⭐ 54
 
 ## Testing
 
@@ -170,7 +170,7 @@ Testnet tokens are a test currency that allows you to test your Ethereum applica
 
 - A messaging platform for users to simply and instantly message each other wallet-to-wallet, powered by  Log-in With Ethereum
 
-[GitHub - graphprotocol/graph-node: Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL](https://github.com/graphprotocol/graph-node)
+[GitHub - graphprotocol/graph-node: Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL](https://github.com/graphprotocol/graph-node) ⭐ 3.1k
 
 [Remix - Ethereum IDE](https://remix.ethereum.org/)
 

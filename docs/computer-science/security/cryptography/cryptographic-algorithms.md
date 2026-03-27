@@ -64,7 +64,7 @@ https://hackernoon.com/very-basic-intro-to-aes-256-cipher-qxr32yk
 
 ## Fernet (symmetric encryption)
 
-Fernet guarantees that a message encrypted using it cannot be manipulated or read without the key.[Fernet](https://github.com/fernet/spec/) is an implementation of symmetric (also known as "secret key") authenticated cryptography. Fernet also has support for implementing key rotation via [MultiFernet](https://cryptography.io/en/latest/fernet/#cryptography.fernet.MultiFernet).
+Fernet guarantees that a message encrypted using it cannot be manipulated or read without the key.[Fernet](https://github.com/fernet/spec/) ⭐ 453 is an implementation of symmetric (also known as "secret key") authenticated cryptography. Fernet also has support for implementing key rotation via [MultiFernet](https://cryptography.io/en/latest/fernet/#cryptography.fernet.MultiFernet).
 
 Fernet is a symmetric encryption method which makes sure that the message encrypted cannot be manipulated/read without the key. It uses URL safe encoding for the keys. Fernet also uses 128-bit AES in CBC mode and PKCS7 padding, with HMAC using SHA256 for authentication. The IV is created from os.random().
 

@@ -111,7 +111,7 @@ failing.set_upstream(start)
 - delete-broken-dags
     - A maintenance workflow that you can deploy into Airflow to periodically delete DAG files and clean out entries in the ImportError table for DAGs which Airflow cannot parse or import properly. This ensures that the ImportError table is cleaned every day.
 
-[https://github.com/teamclairvoyant/airflow-maintenance-dags](https://github.com/teamclairvoyant/airflow-maintenance-dags)
+[https://github.com/teamclairvoyant/airflow-maintenance-dags](https://github.com/teamclairvoyant/airflow-maintenance-dags) ⭐ 1.8k
 
 https://github.com/teamclairvoyant/airflow-maintenance-dags/tree/master/log-cleanup
 
@@ -383,6 +383,6 @@ passing
 
 ### Others
 
-[GitHub - EcZachly/microbatch-hourly-deduped-tutorial](https://github.com/EcZachly/microbatch-hourly-deduped-tutorial)
+[GitHub - EcZachly/microbatch-hourly-deduped-tutorial](https://github.com/EcZachly/microbatch-hourly-deduped-tutorial) ⭐ 123
 
-[GitHub - EcZachly/little-book-of-pipelines: This repository goes over how to handle massive variety in data engineering](https://github.com/EcZachly/little-book-of-pipelines)
+[GitHub - EcZachly/little-book-of-pipelines: This repository goes over how to handle massive variety in data engineering](https://github.com/EcZachly/little-book-of-pipelines) ⭐ 317

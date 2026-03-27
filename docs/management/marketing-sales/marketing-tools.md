@@ -46,8 +46,8 @@ In short, if you want to stay on top of the latest trends and **see what people 
 
 ## Social Media Posts Tools
 
-- [GitHub - gitroomhq/postiz-app: 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖](https://github.com/gitroomhq/postiz-app) (19.7K Stars)
-- [GitHub - inovector/mixpost: 📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative)](https://github.com/inovector/mixpost) (1.7K Stars)
+- [GitHub - gitroomhq/postiz-app: 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖](https://github.com/gitroomhq/postiz-app) ⭐ 28k (19.7K Stars)
+- [GitHub - inovector/mixpost: 📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative)](https://github.com/inovector/mixpost) ⭐ 3.1k (1.7K Stars)
 
 ## SAAS
 
@@ -79,7 +79,7 @@ In short, if you want to stay on top of the latest trends and **see what people 
     - Words Lead - Voice Over and Dubbing services
 - SAAS
     - Josh Digital
-- [GitHub - mautic/mautic: Mautic: Open Source Marketing Automation Software.](https://github.com/mautic/mautic)
+- [GitHub - mautic/mautic: Mautic: Open Source Marketing Automation Software.](https://github.com/mautic/mautic) ⭐ 9.4k
 	- [Open Source Marketing Automation - Mautic](https://mautic.org/)
 - Emails
 	- [#1 Linkedin Automation Tool](https://expandi.io/)

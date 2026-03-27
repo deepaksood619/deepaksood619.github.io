@@ -70,7 +70,7 @@ https://medium.com/flant-com/comparing-ingress-controllers-for-kubernetes-9b3974
 AWS ALB Ingress controller supports two traffic modes: instance mode and ip mode. Users can explicitly specify these traffic modes by declaring the alb.ingress.kubernetes.io/target-type annotation on the Ingress and the service definitions.
 
 - **instance mode:** Ingress traffic starts from the ALB and reaches the [NodePort](https://kubernetes.io/docs/concepts/services-networking/service/#nodeport) opened for your service. Traffic is then routed to the pods within the cluster. The number of hops for the packet to reach its destination in this mode is always two.
-- **ip mode:** Ingress traffic starts from the ALB and reaches the pods within the cluster directly. To use this mode, the networking plugin for the Kubernetes cluster must use a secondary IP address on ENI as pod IP, also known as the [AWS CNI plugin for Kubernetes](https://github.com/aws/amazon-vpc-cni-k8s). The number of hops for the packet to reach its destination in this mode is always one.
+- **ip mode:** Ingress traffic starts from the ALB and reaches the pods within the cluster directly. To use this mode, the networking plugin for the Kubernetes cluster must use a secondary IP address on ENI as pod IP, also known as the [AWS CNI plugin for Kubernetes](https://github.com/aws/amazon-vpc-cni-k8s) ⭐ 2.4k. The number of hops for the packet to reach its destination in this mode is always one.
 
 https://github.com/kubernetes-sigs/aws-alb-ingress-controller
 

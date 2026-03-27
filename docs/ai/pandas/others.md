@@ -52,11 +52,11 @@ https://towardsdatascience.com/introducing-bamboolib-a-gui-for-pandas-4f6c091089
     - https://www.kdnuggets.com/2020/04/dask-big-data.html
 2. https://rapids.ai  https://github.com/rapidsai
 3. [Vaex: A Fast DataFrame for Python 🚀](https://vaex.io/)
-4. [GitHub - pola-rs/polars: Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js](https://github.com/pola-rs/polars)
+4. [GitHub - pola-rs/polars: Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js](https://github.com/pola-rs/polars) ⭐ 38k
 5. [Querying 1TB on a laptop with Python dataframes – Ibis](https://ibis-project.org/posts/1tbc/)
-	1. [GitHub - ibis-project/ibis: the portable Python dataframe library](https://github.com/ibis-project/ibis)
+	1. [GitHub - ibis-project/ibis: the portable Python dataframe library](https://github.com/ibis-project/ibis) ⭐ 6.5k
 6. DuckDB
-7. [GitHub - modin-project/modin: Modin: Scale your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
+7. [GitHub - modin-project/modin: Modin: Scale your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin) ⭐ 10k
 	1. `import modin.pandas as pd`
 
 ### Tricks
@@ -94,7 +94,7 @@ for chunk in chunk_iter:
 
 ## Others
 
-- [GitHub - sinaptik-ai/pandas-ai: Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.](https://github.com/sinaptik-ai/pandas-ai)
+- [GitHub - sinaptik-ai/pandas-ai: Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.](https://github.com/sinaptik-ai/pandas-ai) ⭐ 23k
 - [PandasAI - Dev Tools for AI Builders](https://pandas-ai.com/)
-- [GitHub - ibis-project/ibis: the portable Python dataframe library](https://github.com/ibis-project/ibis)
-- [GitHub - man-group/dtale: Visualizer for pandas data structures](https://github.com/man-group/dtale)
+- [GitHub - ibis-project/ibis: the portable Python dataframe library](https://github.com/ibis-project/ibis) ⭐ 6.5k
+- [GitHub - man-group/dtale: Visualizer for pandas data structures](https://github.com/man-group/dtale) ⭐ 5.1k

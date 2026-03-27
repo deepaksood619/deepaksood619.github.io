@@ -102,7 +102,7 @@ Alembic is a lightweight, powerful database migration tool designed for Python, 
 - `alembic upgrade head`: Apply all migrations to the database.
 - `alembic downgrade -1`: Roll back the last applied migration.
 
-[GitHub - sqlalchemy/alembic: A database migrations tool for SQLAlchemy.](https://github.com/sqlalchemy/alembic)
+[GitHub - sqlalchemy/alembic: A database migrations tool for SQLAlchemy.](https://github.com/sqlalchemy/alembic) ⭐ 4.0k
 
 ## Others
 

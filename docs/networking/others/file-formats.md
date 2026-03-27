@@ -303,7 +303,7 @@ https://www.geeksforgeeks.org/hdf5-files-in-python
 
 [**https://realpython.com/storing-images-in-python/**](https://realpython.com/storing-images-in-python/)
 
-[**https://github.com/realpython/materials/blob/storing-images/storing-images/storing_images.ipynb**](https://github.com/realpython/materials/blob/storing-images/storing-images/storing_images.ipynb)
+[**https://github.com/realpython/materials/blob/storing-images/storing-images/storing_images.ipynb**](https://github.com/realpython/materials/blob/storing-images/storing-images/storing_images.ipynb) ⭐ 5.1k
 
 ## HAR File
 

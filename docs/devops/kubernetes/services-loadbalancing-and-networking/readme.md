@@ -151,7 +151,7 @@ https://docs.google.com/drawings/d/1MtWL8qRTs6PlnJrW4dh8135_S9e2SaawT410bJuoBPk/
 
 ## CNI
 
-The [Container Network Interface](https://github.com/containernetworking/cni)(CNI) is an API specification that is focused around the creation and connection of container workloads.
+The [Container Network Interface](https://github.com/containernetworking/cni) ⭐ 6.0k(CNI) is an API specification that is focused around the creation and connection of container workloads.
 
 CNI has two main commands: add and delete. Configuration is passed in as JSON data.
 

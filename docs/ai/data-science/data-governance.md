@@ -95,7 +95,7 @@ DataHub is a modern data catalog designed to streamline metadata management, dat
 
 [docker-compose-without-neo4j-m1.quickstart.yml](https://raw.githubusercontent.com/datahub-project/datahub/master/docker/quickstart/docker-compose-without-neo4j-m1.quickstart.yml)
 
-[GitHub - datahub-project/datahub: The Metadata Platform for your Data and AI Stack](https://github.com/datahub-project/datahub) - 10.5k stars
+[GitHub - datahub-project/datahub: The Metadata Platform for your Data and AI Stack](https://github.com/datahub-project/datahub) ⭐ 12k - 10.5k stars
 
 ```bash
 # use python 3.11

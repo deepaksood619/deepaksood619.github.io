@@ -86,7 +86,7 @@ Create a cloud vpn with complex site-to-site links, gateway links and provide lo
 
 Pritunl provides innovative security features not available from any other provider. Including TPM and Apple Secure Enclave device authentication, a dynamic firewall, SELinux policies, dual web server design and self shutdown notification system
 
-- [GitHub - pritunl/pritunl: Enterprise VPN server](https://github.com/pritunl/pritunl)
+- [GitHub - pritunl/pritunl: Enterprise VPN server](https://github.com/pritunl/pritunl) ⭐ 4.9k
 - [Pritunl - Open Source Enterprise Distributed OpenVPN, IPsec and WireGuard Server](https://pritunl.com/)
 - [Pritunl, a free, self-hosted, open source VPN tunnel with a simple web ui and cross platform clients - YouTube](https://www.youtube.com/watch?v=-okuLsMqnWo)
 - [Create your own VPN using Pritunl on Linux VPS 🔥 - YouTube](https://www.youtube.com/watch?v=8Wq7Re3LG5k)
@@ -113,7 +113,7 @@ DevOps teams use Teleport to access SSH and Windows servers, Kubernetes, databas
 
 ## Sshuttle
 
-[GitHub - sshuttle/sshuttle: Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.](https://github.com/sshuttle/sshuttle)
+[GitHub - sshuttle/sshuttle: Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.](https://github.com/sshuttle/sshuttle) ⭐ 13k
 
 ## Others
 

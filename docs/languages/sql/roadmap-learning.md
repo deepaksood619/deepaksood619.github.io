@@ -307,7 +307,7 @@
 	- https://www.w3schools.com/sql/trysql.asp?filename=trysql_asc
 	- https://www.w3schools.com/mysql/trymysql.asp?filename=trysql_select_where_and_or
 	- Terraria
-	- [GitHub - WebDevSimplified/Learn-SQL: Exercises for beginners to learn SQL](https://github.com/WebDevSimplified/Learn-SQL)
+	- [GitHub - WebDevSimplified/Learn-SQL: Exercises for beginners to learn SQL](https://github.com/WebDevSimplified/Learn-SQL) ⭐ 1.7k
 	- [SQuizL - Guess the SQL Statement](https://devgym.oracle.com/pls/apex/f?p=10001:4242::::4242::)
 
 ### Others

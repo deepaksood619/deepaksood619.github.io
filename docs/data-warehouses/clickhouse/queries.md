@@ -16,7 +16,7 @@ echo 'SELECT version()' | curl 'http://localhost:8123/' --data-binary @-
 
 [Visual Interfaces from Third-party Developers | ClickHouse Docs](https://clickhouse.com/docs/en/interfaces/third-party/gui)
 
-[GitHub - ClickHouse/metabase-clickhouse-driver: ClickHouse database driver for the Metabase business intelligence front-end](https://github.com/ClickHouse/metabase-clickhouse-driver)
+[GitHub - ClickHouse/metabase-clickhouse-driver: ClickHouse database driver for the Metabase business intelligence front-end](https://github.com/ClickHouse/metabase-clickhouse-driver) ⭐ 511
 
 ```sql
 -- https://clickhouse.com/docs/en/getting-started/quick-start

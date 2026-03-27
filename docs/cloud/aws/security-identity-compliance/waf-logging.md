@@ -56,7 +56,7 @@ You can add filtering to specify which web requests are kept in the logs and whi
 - [Analyze AWS WAF logs in Amazon Athena \| AWS re:Post](https://repost.aws/knowledge-center/aws-waf-logs-athena)
 - [Query AWS WAF logs - Amazon Athena](https://docs.aws.amazon.com/athena/latest/ug/waf-logs.html)
 	- [Create a table for AWS WAF S3 logs in Athena using partition projection - Amazon Athena](https://docs.aws.amazon.com/athena/latest/ug/create-waf-table-partition-projection.html)
-- [GitHub - aws-samples/waf-log-sample-athena-queries](https://github.com/aws-samples/waf-log-sample-athena-queries)
+- [GitHub - aws-samples/waf-log-sample-athena-queries](https://github.com/aws-samples/waf-log-sample-athena-queries) ⭐ 25
 
 ## Opensearch Logging
 

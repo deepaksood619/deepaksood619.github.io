@@ -50,4 +50,4 @@ Dimensions will be something used in a GROUP BY in analytics, whereas facts will
 
 https://www.geeksforgeeks.org/difference-between-fact-table-and-dimension-table
 
-[databricks-lakehouse/E2E-Dimensional-Modeling-DLT.sql at main · dbsys21/databricks-lakehouse · GitHub](https://github.com/dbsys21/databricks-lakehouse/blob/main/lakehouse-buildout/dimensional-modeling/E2E-Dimensional-Modeling-DLT.sql)
+[databricks-lakehouse/E2E-Dimensional-Modeling-DLT.sql at main · dbsys21/databricks-lakehouse · GitHub](https://github.com/dbsys21/databricks-lakehouse/blob/main/lakehouse-buildout/dimensional-modeling/E2E-Dimensional-Modeling-DLT.sql) ⭐ 23

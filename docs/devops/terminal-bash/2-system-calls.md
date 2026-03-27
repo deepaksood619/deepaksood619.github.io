@@ -26,4 +26,4 @@ https://en.wikipedia.org/wiki/Berkeley_Packet_Filter
 
 https://blog.cloudflare.com/cloudflare-architecture-and-how-bpf-eats-the-world
 
-[GitHub - cilium/hubble: Hubble - Network, Service & Security Observability for Kubernetes using eBPF](https://github.com/cilium/hubble)
+[GitHub - cilium/hubble: Hubble - Network, Service & Security Observability for Kubernetes using eBPF](https://github.com/cilium/hubble) ⭐ 4.1k

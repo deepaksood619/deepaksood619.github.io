@@ -89,11 +89,11 @@ source my_project/bin/activate
 
 ### pyenv
 
-[**pyenv**](https://github.com/yyuu/pyenv) is used to isolate Python versions. For example, you may want to test your code against Python 2.6, 2.7, 3.3, 3.4 and 3.5, so you'll need a way to switch between them. Once activated, it prefixes the PATH environment variable with `~/.pyenv/shims`, where there are special files matching the Python commands (python, pip). These are not copies of the Python-shipped commands; they are special scripts that decide on the fly which version of Python to run based on the PYENV_VERSION environment variable, or the.python-version file, or the `~/.pyenv/versionfile.py` env also makes the process of downloading and installing multiple Python versions easier, using the command pyenv install.
+[**pyenv**](https://github.com/yyuu/pyenv) ⭐ 44k is used to isolate Python versions. For example, you may want to test your code against Python 2.6, 2.7, 3.3, 3.4 and 3.5, so you'll need a way to switch between them. Once activated, it prefixes the PATH environment variable with `~/.pyenv/shims`, where there are special files matching the Python commands (python, pip). These are not copies of the Python-shipped commands; they are special scripts that decide on the fly which version of Python to run based on the PYENV_VERSION environment variable, or the.python-version file, or the `~/.pyenv/versionfile.py` env also makes the process of downloading and installing multiple Python versions easier, using the command pyenv install.
 
 ### pyenv-virtualenv
 
-[**pyenv-virtualenv**](https://github.com/yyuu/pyenv-virtualenv) is a plugin for pyenv by the same author as pyenv, to allow you to use pyenv and virtualenv at the same time conveniently. However, if you're using Python 3.3 or later, pyenv-virtualenv will try to run python -m venv if it is available, instead of virtualenv. You can use virtualenv and pyenv together without pyenv-virtualenv, if you don't want the convenience features.
+[**pyenv-virtualenv**](https://github.com/yyuu/pyenv-virtualenv) ⭐ 6.7k is a plugin for pyenv by the same author as pyenv, to allow you to use pyenv and virtualenv at the same time conveniently. However, if you're using Python 3.3 or later, pyenv-virtualenv will try to run python -m venv if it is available, instead of virtualenv. You can use virtualenv and pyenv together without pyenv-virtualenv, if you don't want the convenience features.
 
 ### virtualenvwrapper
 
@@ -101,7 +101,7 @@ source my_project/bin/activate
 
 ### pyenv-virtualenvwrapper
 
-[**pyenv-virtualenvwrapper**](https://github.com/yyuu/pyenv-virtualenvwrapper) is a plugin for pyenv by the same author as pyenv, to conveniently integrate virtualenv wrapper into pyenv.
+[**pyenv-virtualenvwrapper**](https://github.com/yyuu/pyenv-virtualenvwrapper) ⭐ 676 is a plugin for pyenv by the same author as pyenv, to conveniently integrate virtualenv wrapper into pyenv.
 
 ### pipenv
 
@@ -143,7 +143,7 @@ pipx completions
 
 [pipx](https://pypa.github.io/pipx/)
 
-[GitHub - pypa/pipx: Install and Run Python Applications in Isolated Environments](https://github.com/pypa/pipx)
+[GitHub - pypa/pipx: Install and Run Python Applications in Isolated Environments](https://github.com/pypa/pipx) ⭐ 13k
 
 [Installation - pipx](https://pipx.pypa.io/stable/installation/)
 

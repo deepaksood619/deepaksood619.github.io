@@ -96,12 +96,12 @@ The following CMSs have high popularity among Gatsby users and support key funct
 | [Contentful](https://www.contentful.com/) | [guide](https://www.gatsbyjs.com/docs/how-to/sourcing-data/sourcing-from-contentful/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-contentful) | [starter](https://www.gatsbyjs.com/starters/contentful/starter-gatsby-blog/) |
 | [WordPress](https://www.wordpress.com/) | [guide](https://www.gatsbyjs.com/docs/how-to/sourcing-data/sourcing-from-wordpress/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-wordpress) | [starter](https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-wordpress-blog) |
 | [Shopify](https://www.shopify.com/) | [guide](https://www.gatsbyjs.com/docs/building-an-ecommerce-site-with-shopify/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-shopify) | [starter](https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-shopify/) |
-| [Sanity](https://www.sanity.io/) | [guide](https://www.gatsbyjs.com/docs/sourcing-from-sanity) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-sanity/) | [starter](https://github.com/sanity-io/sanity-template-gatsby-portfolio) |
+| [Sanity](https://www.sanity.io/) | [guide](https://www.gatsbyjs.com/docs/sourcing-from-sanity) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-sanity/) | [starter](https://github.com/sanity-io/sanity-template-gatsby-portfolio) ⭐ 70 |
 | [Strapi](https://strapi.io/) | [guide](https://www.gatsbyjs.com/guides/strapi/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-strapi) |  |
 | [Contentstack](https://www.contentstack.com/) | [guide](https://www.gatsbyjs.com/docs/sourcing-from-contentstack) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-contentstack) |  |
 | [DatoCMS](https://www.datocms.com/) | [guide](https://www.gatsbyjs.com/guides/datocms/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-datocms) | [starter](https://www.gatsbyjs.com/starters/datocms/gatsby-blog-demo/) |
 | [Drupal](https://www.drupal.com/) | [guide](https://www.gatsbyjs.com/docs/how-to/sourcing-data/sourcing-from-drupal/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-drupal) |  |
-| [Prismic](https://www.prismic.io/) | [guide](https://www.gatsbyjs.com/docs/how-to/sourcing-data/sourcing-from-prismic/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-prismic) | [starter](https://github.com/prismicio/gatsby-blog) |
+| [Prismic](https://www.prismic.io/) | [guide](https://www.gatsbyjs.com/docs/how-to/sourcing-data/sourcing-from-prismic/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-prismic) | [starter](https://github.com/prismicio/gatsby-blog) ⭐ 38 |
 | [NetlifyCMS](https://www.netlifycms.org/) | [guide](https://www.gatsbyjs.com/docs/how-to/sourcing-data/sourcing-from-netlify-cms/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-plugin-netlify-cms) | [starter](https://www.gatsbyjs.com/starters/netlify-templates/gatsby-starter-netlify-cms/) |
 | Plone (Open Source Enterprise CMS) |  |  |  |
 | **Wagtail (Open Source Django CMS) https://wagtail.io** |  |  |  |
@@ -110,7 +110,7 @@ The following CMSs have high popularity among Gatsby users and support key funct
 
 | CMS | Guides | Plugin Docs | Official Starter |
 |---|---|---|---|
-| [Cosmic](https://cosmicjs.com/) | [guide](https://docs.cosmicjs.com/guides/gatsby) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-cosmicjs) | [starter](https://github.com/cosmicjs/gatsby-blog-cosmicjs) |
+| [Cosmic](https://cosmicjs.com/) | [guide](https://docs.cosmicjs.com/guides/gatsby) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-cosmicjs) | [starter](https://github.com/cosmicjs/gatsby-blog-cosmicjs) ⭐ 25 |
 | [ButterCMS](https://buttercms.com/) | [guide](https://www.gatsbyjs.com/docs/sourcing-from-buttercms/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-buttercms) |  |
 | [Ghost](https://ghost.org/) | [guide](https://www.gatsbyjs.com/docs/sourcing-from-ghost/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-ghost/) | [starter](https://www.gatsbyjs.com/starters/TryGhost/gatsby-starter-ghost/) |
 | [Kontent by Kentico](https://kontent.ai/) | [guide](https://www.gatsbyjs.com/docs/sourcing-from-kentico-kontent) | [docs](https://www.gatsbyjs.com/plugins/@kentico/gatsby-source-kontent) |  |
@@ -127,7 +127,7 @@ The following CMSs have high popularity among Gatsby users and support key funct
 | [Builder.io](https://www.builder.io/) | [guide](https://www.gatsbyjs.com/docs/sourcing-from-builder-io/) | [docs](https://www.gatsbyjs.com/plugins/@builder.io/gatsby/) | |
 |[Flotiq](https://flotiq.com/) | [guide](https://www.gatsbyjs.com/docs/sourcing-from-flotiq/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-flotiq) | |
 
-[GitHub - outline/outline: The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.](https://github.com/outline/outline)
+[GitHub - outline/outline: The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.](https://github.com/outline/outline) ⭐ 38k
 
 [Decap CMS | Open-Source Content Management System](https://decapcms.org/)
 

@@ -41,7 +41,7 @@ One of the ways of informing the kernel about your intentions is using [fadvise]
 
 Just as the name suggests, fadviseis only acting advisory. The kernel is not obligated to do exactly as fadvise suggests.
 
-Since database developers often can predict accesses, fadvise issuch a useful tool. For example, [RocksDB uses](https://github.com/facebook/rocksdb/blob/master/env/io_posix.cc#L377-L401) it for notifying the kernel about access patterns, depending on the file type (SSTable or HintFile), mode (Random or Sequential) and operation (Write or Compaction).
+Since database developers often can predict accesses, fadvise issuch a useful tool. For example, [RocksDB uses](https://github.com/facebook/rocksdb/blob/master/env/io_posix.cc#L377-L401) ⭐ 32k it for notifying the kernel about access patterns, depending on the file type (SSTable or HintFile), mode (Random or Sequential) and operation (Write or Compaction).
 
 Another useful call is [mlock](https://linux.die.net/man/2/mlock).It allows you to force pages to be held in memory. This means that once the page is loaded into memory, all subsequent operations will be served from the page cache. It has to be used with caution, since calling it on every page will simply exhaust the system resources.
 
@@ -69,7 +69,7 @@ Such an approach can help by allowing reading smaller chunks (therefore avoiding
 
 From the development perspective, if data is laid out in a certain way in the file (say, it's split out into a fixed-size header and multiple fixed size blocks), it is possible to issue a single call that will fill up separate buffers allocated for these parts.
 
-This sounds rather useful but, somehow, just a few databases use the Vectored IO. This might be because general purpose databases work with a bunch of files simultaneously, trying to guarantee liveness for each running operation and reduce their latencies, so and data is accessed and cached block-wise. Vectored IO is more useful for analytics workloads and/or columnar databases, where the data is stored on disk contiguously, and its processing can be done in parallel in sparse blocks. One of the examples is [Apache Arrow](https://github.com/apache/arrow/blob/master/java/memory/src/main/java/io/netty/buffer/ArrowBuf.java#L26-L27).
+This sounds rather useful but, somehow, just a few databases use the Vectored IO. This might be because general purpose databases work with a bunch of files simultaneously, trying to guarantee liveness for each running operation and reduce their latencies, so and data is accessed and cached block-wise. Vectored IO is more useful for analytics workloads and/or columnar databases, where the data is stored on disk contiguously, and its processing can be done in parallel in sparse blocks. One of the examples is [Apache Arrow](https://github.com/apache/arrow/blob/master/java/memory/src/main/java/io/netty/buffer/ArrowBuf.java#L26-L27) ⭐ 17k.
 
 ## Demand Paging
 

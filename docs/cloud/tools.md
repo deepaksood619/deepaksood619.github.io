@@ -45,8 +45,8 @@
     1. [Top Alternatives for Dependabot](https://devdojo.com/yoda/top-dependabot-alternatives)
     2. [Dependency Management with Renovate: Beyond the Limits of Dependabot](https://blog.opstree.com/2024/03/12/dependency-management-with-renovate-beyond-the-limits-of-dependabot/)
     3. [Renovate Docs](https://docs.renovatebot.com/)
-    4. [GitHub - renovatebot/tutorial: Renovate Bot Tutorial source](https://github.com/renovatebot/tutorial)
-    5. [GitHub - renovatebot/renovate: Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io](https://github.com/renovatebot/renovate)
+    4. [GitHub - renovatebot/tutorial: Renovate Bot Tutorial source](https://github.com/renovatebot/tutorial) ⭐ 168
+    5. [GitHub - renovatebot/renovate: Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io](https://github.com/renovatebot/renovate) ⭐ 21k
 
 ### CI Tools
 
@@ -149,4 +149,4 @@
 
 [🏆 The Top 100 Developer Tools of 2023 | StackShare](https://stackshare.io/posts/top-developer-tools-2023)
 
-[GitHub - one2nc/cloudlens: k9s like CLI for AWS and GCP](https://github.com/one2nc/cloudlens)
+[GitHub - one2nc/cloudlens: k9s like CLI for AWS and GCP](https://github.com/one2nc/cloudlens) ⭐ 587

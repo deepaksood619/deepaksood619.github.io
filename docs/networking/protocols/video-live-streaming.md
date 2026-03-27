@@ -11,7 +11,7 @@
 - Skype
 - https://goodmeetings.ai
 - [Video Meetings, Video Conferencing and Video Call API](https://whereby.com/)
-- [GitHub - 0x5eba/Video-Meeting: Google Meet / Zoom clone in a few lines of code](https://github.com/0x5eba/Video-Meeting)
+- [GitHub - 0x5eba/Video-Meeting: Google Meet / Zoom clone in a few lines of code](https://github.com/0x5eba/Video-Meeting) ⭐ 622
 
 RTMP - Real-Time Messaging Protocol
 
@@ -60,7 +60,7 @@ Peer to peer live streaming protocol
 
 [WebRTC Crash Course](https://youtu.be/FExZvpVvYxA)
 
-[GitHub - Jaideep25/Videolify: Peer-peer calling, with screensharing, whiteboard, amazing themes, easy to read the code, etc !!](https://github.com/Jaideep25/Videolify)
+[GitHub - Jaideep25/Videolify: Peer-peer calling, with screensharing, whiteboard, amazing themes, easy to read the code, etc !!](https://github.com/Jaideep25/Videolify) ⭐ 84
 
 ## FFMPEG Streaming
 
@@ -95,7 +95,7 @@ https://trac.ffmpeg.org/wiki/Concatenate
 
 [Bringing HDR video to Reels - Engineering at Meta](https://engineering.fb.com/2023/07/17/video-engineering/hdr-video-reels-meta/)
 
-[GitHub - google-ai-edge/mediapipe: Cross-platform, customizable ML solutions for live and streaming media.](https://github.com/google-ai-edge/mediapipe)
+[GitHub - google-ai-edge/mediapipe: Cross-platform, customizable ML solutions for live and streaming media.](https://github.com/google-ai-edge/mediapipe) ⭐ 34k
 
 ## References
 

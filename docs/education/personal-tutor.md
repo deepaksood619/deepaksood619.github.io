@@ -222,7 +222,7 @@ The cognitive core and memory system in effect can give us an infinite context w
 - [Outskill: AI Upskilling for Modern Careers](https://www.outskill.com/)
 - [Let Grow - When Adults Step Back, Kids Step Up.](https://letgrow.org/)
 - [IIT Factory: A small village in Bihar sends more students to IIT than most big cities](https://www.moneycontrol.com/education/iit-factory-of-india-this-small-village-sends-more-students-to-iit-than-most-big-cities-article-13664389.html)
-- [GitHub - DrCatHicks/learning-opportunities: A Claude Code skill for deliberate skill development during AI-assisted coding](https://github.com/DrCatHicks/learning-opportunities)
+- [GitHub - DrCatHicks/learning-opportunities: A Claude Code skill for deliberate skill development during AI-assisted coding](https://github.com/DrCatHicks/learning-opportunities) ⭐ 691
 
 ### People
 

@@ -117,7 +117,7 @@ The daemon accepts incoming traffic from *MySQL* clients and forwards it to back
 
 The proxy is designed to run continuously without needing to be restarted. Most configuration can be done at runtime using queries similar to SQL statements. These include runtime parameters, server grouping, and traffic-related settings.
 
-[GitHub - sysown/proxysql: High-performance MySQL proxy with a GPL license.](https://github.com/sysown/proxysql)
+[GitHub - sysown/proxysql: High-performance MySQL proxy with a GPL license.](https://github.com/sysown/proxysql) ⭐ 6.7k
 
 [ProxySQL - A High Performance Open Source MySQL Proxy](https://proxysql.com/)
 
@@ -129,6 +129,6 @@ https://dev.mysql.com/doc/refman/5.7/en/glossary.html
 
 https://github.com/shlomi-noach/awesome-mysql
 
-[GitHub - MyCATApache/Mycat2: MySQL Proxy using Java NIO based on Sharding SQL,Calcite ,simple and fast](https://github.com/MyCATApache/Mycat2)
+[GitHub - MyCATApache/Mycat2: MySQL Proxy using Java NIO based on Sharding SQL,Calcite ,simple and fast](https://github.com/MyCATApache/Mycat2) ⭐ 1.7k
 
 [Schema migrations — MySQL for Developers — PlanetScale](https://planetscale.com/learn/courses/mysql-for-developers/schema/schema-migrations)

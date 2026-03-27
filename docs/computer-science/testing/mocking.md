@@ -50,7 +50,7 @@ def generate_filename():
 
 Similarly, you could imagine a function which returns the weather in an English sentence and uses an API to get the actual weather ([example](https://gist.github.com/MartinThoma/5c7224ceae47e74645e0145d26dc03ec)).
 
-Example 3: In my project [edapy](https://github.com/MartinThoma/edapy) I looked at metadata from PDF files. I use the dependency PdfFileReader and have the file itself as an dependency. As the PDF file could be broken, PyPDF2 might throw an exception. So you can imagine code like this:
+Example 3: In my project [edapy](https://github.com/MartinThoma/edapy) ⭐ 22 I looked at metadata from PDF files. I use the dependency PdfFileReader and have the file itself as an dependency. As the PDF file could be broken, PyPDF2 might throw an exception. So you can imagine code like this:
 
 ```python
 import PyPDF2.utils
@@ -290,7 +290,7 @@ It depends very much on the details, but I like to mock as little as possible. S
 
 In an ideal world, you would have both: Unit tests which are very controlled and in case of failure make it easy to narrow down the source of the error. And integration / end-to-end tests which show that the complete system works.
 
-There are also people who think that the need to mock is an indicator for a need to refactor ([discussion](https://github.com/pytest-dev/pytest/issues/4576#issuecomment-449865322)). Harry Percival gave the talk [Stop Using Mocks (for a while)](https://www.youtube.com/watch?v=rk-f3B-eMkI) at PyCon 2020 and pointed out that testing code which is using mocks tends to be brittle as it is tightly coupled to implementation details.
+There are also people who think that the need to mock is an indicator for a need to refactor ([discussion](https://github.com/pytest-dev/pytest/issues/4576#issuecomment-449865322) ⭐ 14k). Harry Percival gave the talk [Stop Using Mocks (for a while)](https://www.youtube.com/watch?v=rk-f3B-eMkI) at PyCon 2020 and pointed out that testing code which is using mocks tends to be brittle as it is tightly coupled to implementation details.
 
 A good example where I usually don't mock anything are file system interactions. If possible, I write the file just like it would be in the real application. When the test is finished, the test needs to clean up as well. I use the [tempfile](https://docs.python.org/3/library/tempfile.html) module for that.
 

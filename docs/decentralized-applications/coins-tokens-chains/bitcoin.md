@@ -157,7 +157,7 @@ Native SegWit (bech32) and Taproot (bech32m) are both advanced Bitcoin addres
 
 ### Variants: Bech32 vs. Bech32m
 
-While original Bech32 is used for **SegWit v0** (starting with `bc1q`), an updated version called **Bech32m** (standardized in [BIP-0350](https://github.com/bitcoin/bips/blob/master/bip-0350.mediawiki)) was introduced for **Taproot** and future upgrades.
+While original Bech32 is used for **SegWit v0** (starting with `bc1q`), an updated version called **Bech32m** (standardized in [BIP-0350](https://github.com/bitcoin/bips/blob/master/bip-0350.mediawiki) ⭐ 11k) was introduced for **Taproot** and future upgrades.
 
 - **Bech32 (v0)**: Used for P2WPKH and P2WSH; addresses typically start with **`bc1q`**.
 - **Bech32m (v1+)**: Used for Taproot (P2TR); addresses typically start with **`bc1p`**.
@@ -188,8 +188,8 @@ POX - Proof of Transfer
 
 - [Bitcoin price today, BTC to USD live, marketcap and chart | CoinMarketCap](https://coinmarketcap.com/currencies/bitcoin/)
 - [What Is Bitcoin Halving | The Code Behind Bitcoin Halving Explained - YouTube](https://www.youtube.com/watch?v=OWeGcD6zJhA&ab_channel=Finematics)
-- [GitHub - bitcoinbook/bitcoinbook: Mastering Bitcoin 2nd Edition - Programming the Open Blockchain](https://github.com/bitcoinbook/bitcoinbook)
-- [GitHub - BlockchainCommons/Learning-Bitcoin-from-the-Command-Line: A complete course for learning Bitcoin programming and usage from the command](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
+- [GitHub - bitcoinbook/bitcoinbook: Mastering Bitcoin 2nd Edition - Programming the Open Blockchain](https://github.com/bitcoinbook/bitcoinbook) ⭐ 25k
+- [GitHub - BlockchainCommons/Learning-Bitcoin-from-the-Command-Line: A complete course for learning Bitcoin programming and usage from the command](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) ⭐ 3.4k
 - [Modeling Bitcoin Value with Scarcity | Medium](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25)
 - [Will BITCOIN Collapse At The 21 Million Limit?? 😰 - YouTube](https://www.youtube.com/watch?v=rnKdpf-P1TI)
 - [The Crypto Catch-22: Why Bitcoin Only - by Jesse Myers](https://www.onceinaspecies.com/p/the-crypto-catch-22-why-bitcoin-only)

@@ -117,7 +117,7 @@ All customers can make 1 million Amazon SQS requests for free each month.
 | FIFO Requests              | API actions for sending, receiving, deleting, and changing visibility of messages from FIFO queues are charged at FIFO rates. All other API requests are charged at standard rates.                                                                                                |
 | Contents of Requests       | A single request can have from 1 to 10 messages, up to a maximum total payload of 256 KB.                                                                                                                                                                                           |
 | Size of Payloads           | Each 64 KB chunk of a payload is billed as 1 request (for example, an API action with a 256 KB payload is billed as 4 requests).                                                                                                                                                    |
-| Interaction with Amazon S3 | When using the [Amazon SQS Extended Client Library](https://github.com/awslabs/amazon-sqs-java-extended-client-lib) to send payloads using Amazon S3, you incur [Amazon S3 charges](https://aws.amazon.com/s3/pricing/) for any Amazon S3 storage you use to send message payloads. |
+| Interaction with Amazon S3 | When using the [Amazon SQS Extended Client Library](https://github.com/awslabs/amazon-sqs-java-extended-client-lib) ⭐ 228 to send payloads using Amazon S3, you incur [Amazon S3 charges](https://aws.amazon.com/s3/pricing/) for any Amazon S3 storage you use to send message payloads. |
 
 https://aws.amazon.com/sqs
 

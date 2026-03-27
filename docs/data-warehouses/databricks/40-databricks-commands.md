@@ -39,7 +39,7 @@ databricks secrets put-secret abc-scope abc
 
 [Databricks CLI | Databricks on AWS](https://docs.databricks.com/dev-tools/cli/databricks-cli.html)
 
-[GitHub - databricks/databricks-cli: Command Line Interface for Databricks](https://github.com/databricks/databricks-cli)
+[GitHub - databricks/databricks-cli: Command Line Interface for Databricks](https://github.com/databricks/databricks-cli) ⭐ 396
 
 [Secrets | Databricks on AWS](https://docs.databricks.com/security/secrets/secrets.html)
 
@@ -63,4 +63,4 @@ blackbricks --remote /Repos/username/folder/test_repo_pipeline.py
 blackbricks --remote --profile OTHERPROFILE /Users/name.user@example.com/notebook.py
 ```
 
-[GitHub - inspera/blackbricks: Black for Databricks notebooks](https://github.com/inspera/blackbricks)
+[GitHub - inspera/blackbricks: Black for Databricks notebooks](https://github.com/inspera/blackbricks) ⭐ 48

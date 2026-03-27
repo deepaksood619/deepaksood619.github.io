@@ -23,11 +23,11 @@ Time Series Databases have key architectural design properties that make them ve
 - [InfluxDB](https://www.influxdata.com/)
 - [Kdb+](https://kx.com/discover/)
 - [RRDTool](https://oss.oetiker.ch/rrdtool/)
-- [Graphite](https://github.com/graphite-project/graphite-web)
+- [Graphite](https://github.com/graphite-project/graphite-web) ⭐ 6.1k
 - [OpenTSDB](http://opentsdb.net/)
 - [Prometheus](https://prometheus.io/)
 - [Druid](http://druid.io/)
-- [KairosDB](https://github.com/kairosdb/kairosdb)
+- [KairosDB](https://github.com/kairosdb/kairosdb) ⭐ 1.8k
 - [eXtremeDB](http://www.mcobject.com/extremedbfamily.shtml)
 - [Riak TS](http://basho.com/products/riak-ts/)
 - [Axibase](https://axibase.com/products/axibase-time-series-database/)

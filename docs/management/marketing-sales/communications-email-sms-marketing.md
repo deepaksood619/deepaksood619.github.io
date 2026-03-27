@@ -74,7 +74,7 @@ On the available statistics reports, you will find that your deliverability is b
 ## Tools
 
 - [Novu - The open-source notification infrastructure](https://novu.co/)
-- [GitHub - knadh/listmonk: High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.](https://github.com/knadh/listmonk)
+- [GitHub - knadh/listmonk: High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.](https://github.com/knadh/listmonk) ⭐ 19k
     - [listmonk - Free and open source self-hosted newsletter, mailing list manager, and transactional mails](https://listmonk.app/)
     - [listmonk](https://demo.listmonk.app/admin/)
-- [GitHub - dittofeed/dittofeed: Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨](https://github.com/dittofeed/dittofeed)
+- [GitHub - dittofeed/dittofeed: Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨](https://github.com/dittofeed/dittofeed) ⭐ 2.7k

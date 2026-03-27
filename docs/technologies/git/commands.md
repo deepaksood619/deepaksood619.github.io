@@ -476,13 +476,13 @@ git rev-list --objects --all \
 
 https://passingcuriosity.com/2017/truncating-git-history
 
-[**https://github.com/newren/git-filter-repo**](https://github.com/newren/git-filter-repo)
+[**https://github.com/newren/git-filter-repo**](https://github.com/newren/git-filter-repo) ⭐ 12k
 
 `brew install git-filter-repo`
 
 ### Rewrite history of entire branch (git-filter-branch) (Old - Deprecated)
 
-IMP - _git filter-branch_ has a plethora of pitfalls that can produce non-obvious manglings of the intended history rewrite (and can leave you with little time to investigate such problems since it has such abysmal performance). These safety and performance issues cannot be backward compatibly fixed and as such, its use is not recommended. Please use an alternative history filtering tool such as [git filter-repo](https://github.com/newren/git-filter-repo/).
+IMP - _git filter-branch_ has a plethora of pitfalls that can produce non-obvious manglings of the intended history rewrite (and can leave you with little time to investigate such problems since it has such abysmal performance). These safety and performance issues cannot be backward compatibly fixed and as such, its use is not recommended. Please use an alternative history filtering tool such as [git filter-repo](https://github.com/newren/git-filter-repo/) ⭐ 12k.
 
 One common use case for this is removing sensitive data (e.g. login credentials for production systems) that were committed to a public repository.
 
@@ -532,7 +532,7 @@ rm -rf .git/refs/original/ && git reflog expire --expire=now --all && git gc --p
 - **Impact on branches**: All branches will have the file removed from their history.
 - **Consider using `gitignore`**: After removing the file from history, ensure it’s added to `.gitignore` if it should no longer be tracked.
 
-[GitHub - newren/git-filter-repo: Quickly rewrite git repository history (filter-branch replacement)](https://github.com/newren/git-filter-repo/)
+[GitHub - newren/git-filter-repo: Quickly rewrite git repository history (filter-branch replacement)](https://github.com/newren/git-filter-repo/) ⭐ 12k
 
 ## git cherry-pick
 
@@ -616,4 +616,4 @@ tokei: 5.3 seconds
 cloc: 1 minute, 50 seconds
 ```
 
-[GitHub - cgag/loc: Count lines of code quickly.](https://github.com/cgag/loc)
+[GitHub - cgag/loc: Count lines of code quickly.](https://github.com/cgag/loc) ⭐ 2.4k

@@ -49,7 +49,7 @@ https://spacy.io/usage/models
 
 [spaCy · Industrial-strength Natural Language Processing in Python](https://spacy.io/)
 
-[GitHub - explosion/spaCy: 💫 Industrial-strength Natural Language Processing (NLP) in Python](https://github.com/explosion/spaCy)
+[GitHub - explosion/spaCy: 💫 Industrial-strength Natural Language Processing (NLP) in Python](https://github.com/explosion/spaCy) ⭐ 33k
 
 ## Gensim (Topic Modeling for Humans)
 
@@ -66,7 +66,7 @@ https://www.toptal.com/python/topic-modeling-python
 [Topic modeling](https://en.wikipedia.org/wiki/Topic_modeling) is a related problem, where a program is given a list of [human language](https://en.wikipedia.org/wiki/Natural_language) documents and is tasked with finding out which documents cover similar topics.
 
 - [Extract Topics From Video/Audio With LLMs (Topic Modeling w/ LangChain) - YouTube](https://www.youtube.com/watch?v=pEkxRQFNAs4)
-- [langchain-tutorials/data\_generation/Topic Modeling With Language Models.ipynb at main · gkamradt/langchain-tutorials · GitHub](https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/Topic%20Modeling%20With%20Language%20Models.ipynb)
+- [langchain-tutorials/data\_generation/Topic Modeling With Language Models.ipynb at main · gkamradt/langchain-tutorials · GitHub](https://github.com/gkamradt/langchain-tutorials/blob/main/data_generation/Topic%20Modeling%20With%20Language%20Models.ipynb) ⭐ 7.4k
 
 ## Text Similarity Methods
 
@@ -111,7 +111,7 @@ https://developers.google.com/ml-kit
 
 Haystack is the open source Python framework by deepset for building custom apps with large language models (LLMs). It lets you quickly try out the latest models in natural language processing (NLP) while being flexible and easy to use. Our inspiring community of users and builders has helped shape Haystack into what it is today: a complete framework for building production-ready NLP apps.
 
-[GitHub - deepset-ai/haystack](https://github.com/deepset-ai/haystack)
+[GitHub - deepset-ai/haystack](https://github.com/deepset-ai/haystack) ⭐ 25k
 
 [What is Haystack? | Haystack](https://haystack.deepset.ai/overview/intro)
 

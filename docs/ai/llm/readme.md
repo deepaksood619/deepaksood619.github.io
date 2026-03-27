@@ -8,6 +8,7 @@
 - [LLM Building](ai/llm/building.md)
 	- [Langchain](ai/llm/langchain.md)
 - [LLM Agents](ai/llm/agents.md)
+	- [Agentic Frameworks Deep Dive Analysis](ai/llm/agentic-frameworks-deep-dive-analysis.md)
 - [LLM Tuning](ai/llm/tuning.md)
 - [Evaluation / Benchmarking](ai/llm/evaluation-benchmarking-monitoring.md)
 - [Pricing / Costs](ai/llm/pricing-costs.md)

@@ -232,11 +232,11 @@ black .
 https://medium.com/staqu-dev-logs/keeping-python-code-clean-with-pre-commit-hooks-black-flake8-and-isort-cac8b01e0ea1
 
 [https://pre-commit.com/hooks.html](https://pre-commit.com/hooks.html)
- [GitHub - igorshubovych/markdownlint-cli: MarkdownLint Command Line Interface](https://github.com/igorshubovych/markdownlint-cli)
+ [GitHub - igorshubovych/markdownlint-cli: MarkdownLint Command Line Interface](https://github.com/igorshubovych/markdownlint-cli) ⭐ 1.0k
 
 [https://pre-commit.com/](https://pre-commit.com/)
 
-[https://github.com/pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks)
+[https://github.com/pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) ⭐ 6.4k
 
 ## flake8
 
@@ -272,13 +272,13 @@ select = B,C,E,F,W,T4,B9,N8
 
 Here are some of the interesting flake8 plugins:
 
-- [cohesion](https://github.com/mschwager/cohesion): Check if class cohesion is below a threshold. This indicates that functionality should be split out of a class.
+- [cohesion](https://github.com/mschwager/cohesion) ⭐ 256: Check if class cohesion is below a threshold. This indicates that functionality should be split out of a class.
 - [flake8-assert-msg](https://pypi.org/project/flake8-assert-msg/): Make sure assert statements have messages
 - [flake8-blind-except](https://pypi.org/project/flake8-blind-except/): Prevent Pokemon exception catching
 - [flake8-builtins](https://pypi.org/project/flake8-builtins/): Check for python builtins being used as variables or parameters.
 - [flake8-docstrings](https://pypi.org/project/flake8-docstrings/): Adds pydocstyle support
 - [flake8-isort](https://pypi.org/project/flake8-isort/): Use [isort](https://pypi.python.org/pypi/isort) to check if the imports on your python files are sorted the way you expect
-- [flake8-logging-format](https://github.com/globality-corp/flake8-logging-format): Validate (lack of) logging format strings
+- [flake8-logging-format](https://github.com/globality-corp/flake8-logging-format) ⭐ 137: Validate (lack of) logging format strings
 - [flake8-pytest-style](https://pypi.org/project/flake8-pytest-style/): Checking common style issues or inconsistencies with pytest-based tests
 - [flake8-requirements](https://pypi.org/project/flake8-requirements/): Checks/validates package import requirements. It reports missing and/or not used project direct dependencies
 - [flake8-graphql](https://pypi.org/project/flake8-graphql/): Lint GraphQL query strings
@@ -343,8 +343,8 @@ https://github.com/jendrikseipp/vulture
 ### Autoformatters
 
 - [Prettier](https://prettier.io/docs/en/precommit.html#option-3-pre-commithttpsgithubcompre-commitpre-commit): HTML, CSS, JavaScript, GraphQL, and many more.
-- [Clang-format](https://github.com/andrewseidl/githook-clang-format): C, C++, Java, JavaScript, Objective-C, Protobuf, C#
-- [Rustfmt](https://github.com/doublify/pre-commit-rust): Rust
+- [Clang-format](https://github.com/andrewseidl/githook-clang-format) ⭐ 90: C, C++, Java, JavaScript, Objective-C, Protobuf, C#
+- [Rustfmt](https://github.com/doublify/pre-commit-rust) ⭐ 204: Rust
 
 ## Bandit
 
@@ -374,7 +374,7 @@ F 141:0 s3_upload - A (1)
 C 77:0 ExistsStrategy - A (1)
 ```
 
-The first letter shows the type of block (F for function, C for class). Then radon gives theline number, thenameof the class/function, agrade(A, B, C, D, E, or F), and the actualcomplexity as a number. Typically, a complexity below 10 is ok.[The most complex part of scipy](https://github.com/scipy/scipy/blob/master/scipy/sparse/linalg/eigen/lobpcg/lobpcg.py#L127) has a complexity of 61.
+The first letter shows the type of block (F for function, C for class). Then radon gives theline number, thenameof the class/function, agrade(A, B, C, D, E, or F), and the actualcomplexity as a number. Typically, a complexity below 10 is ok.[The most complex part of scipy](https://github.com/scipy/scipy/blob/master/scipy/sparse/linalg/eigen/lobpcg/lobpcg.py#L127) ⭐ 15k has a complexity of 61.
 
 Besides radon, there are various other packages and Flake8 plugins:
 
@@ -383,7 +383,7 @@ Besides radon, there are various other packages and Flake8 plugins:
 - [flake8-expression-complexity](https://pypi.org/project/flake8-expression-complexity/): Make sure that single expressions are not too complicated; similar to cyclomatic complexity for functions / classes.
 - [flake8-functions](https://pypi.org/project/flake8-functions/): Report too long functions and functions with too many arguments
 - [mccabe](https://pypi.org/project/mccabe/): This is used by a couple of other tools and projects
-    - [GitHub - PyCQA/mccabe: McCabe complexity checker for Python](https://github.com/PyCQA/mccabe)
+    - [GitHub - PyCQA/mccabe: McCabe complexity checker for Python](https://github.com/PyCQA/mccabe) ⭐ 675
 - [wily](https://pypi.org/project/wily/): A command-line application for tracking, reporting on the complexity of Python tests and applications.
 - [xenon](https://pypi.org/project/xenon/): Relies on radon
 
@@ -401,6 +401,6 @@ https://www.youtube.com/watch?v=4klj8UYPZxY&ab_channel=freeCodeCampTalks
 
 ## Others
 
-[GitHub - Instagram/Fixit: Advanced Python linting framework with auto-fixes and hierarchical configuration that makes it easy to write custom in-repo lint rules.](https://github.com/Instagram/Fixit)
+[GitHub - Instagram/Fixit: Advanced Python linting framework with auto-fixes and hierarchical configuration that makes it easy to write custom in-repo lint rules.](https://github.com/Instagram/Fixit) ⭐ 701
 
 [Fixit: linting framework with auto-fixes - Fixit documentation](https://fixit.readthedocs.io/en/latest/)

@@ -132,7 +132,7 @@ Finally if in the same millisecond, if the sequence number also reaches its max 
 
 [Snowflake ID: Generating Unique IDs for Distributed Systems | Akash Rajpurohit](https://akashrajpurohit.com/blog/snowflake-id-generating-unique-ids-for-distributed-systems/)
 
-[GitHub - erans/pysnowflake: Python implementation of Twitter's Snowflake Unique ID generation service](https://github.com/erans/pysnowflake)
+[GitHub - erans/pysnowflake: Python implementation of Twitter's Snowflake Unique ID generation service](https://github.com/erans/pysnowflake) ⭐ 210
 
 ## Links
 

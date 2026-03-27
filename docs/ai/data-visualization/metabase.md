@@ -68,7 +68,7 @@ docker run -d -p 3000:3000 \
   metabase/metabase:$METABASE_DOCKER_VERSION
 ```
 
-[GitHub - nobuyo/metastasis: DaC(Dashboard as Code) for Metabase.](https://github.com/nobuyo/metastasis)
+[GitHub - nobuyo/metastasis: DaC(Dashboard as Code) for Metabase.](https://github.com/nobuyo/metastasis) ⭐ 4
 
 ## Dashboards
 

@@ -39,7 +39,7 @@ On a high level, the software architecture choices for IoT client devices fall i
 - RTOS (real-time OS) architectures
     - [About the Zephyr Project – Zephyr Project](https://zephyrproject.org/learn-about/)
     - [FreeRTOS - Market leading RTOS (Real Time Operating System) for embedded systems with Internet of Things extensions](https://www.freertos.org/index.html)
-    - [GitHub - mbed-ce/mbed-os: Arm Mbed OS is a platform operating system designed for the internet of things](https://github.com/mbed-ce/mbed-os)
+    - [GitHub - mbed-ce/mbed-os: Arm Mbed OS is a platform operating system designed for the internet of things](https://github.com/mbed-ce/mbed-os) ⭐ 141
 - language-runtime architectures
 - full-OS architectures
 - app-OS architectures

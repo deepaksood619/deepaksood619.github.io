@@ -89,7 +89,7 @@ abis a tool for benchmarking your Apache Hypertext Transfer Protocol (HTTP) serv
 
 ## HTTP Load Testing Tools
 
-### - [wrk](https://github.com/wg/wrk)
+### - [wrk](https://github.com/wg/wrk) ⭐ 40k
 
 ```bash
 wrk --duration 20s --threads 10 --connections 200 [URL]
@@ -126,7 +126,7 @@ ab -c 50 -n 5000 -s 90 -p data.json -T application/json -rk https://staff.lenden
 
 ```
 
-### - [Siege](https://github.com/JoeDog/siege) (for constant load)
+### - [Siege](https://github.com/JoeDog/siege) ⭐ 6.2k (for constant load)
 
 ```bash
 apt-get install -y siege
@@ -285,4 +285,4 @@ Selenium
 
 QAOps - [What is QAOps? (With Methodologies) | BrowserStack](https://www.browserstack.com/guide/what-is-qaops)
 
-[GitHub - Nikhil-Kulkarni/qa-gpt: Automate UI testing + functionality testing with GPT-4 Vision](https://github.com/Nikhil-Kulkarni/qa-gpt)
+[GitHub - Nikhil-Kulkarni/qa-gpt: Automate UI testing + functionality testing with GPT-4 Vision](https://github.com/Nikhil-Kulkarni/qa-gpt) ⭐ 45

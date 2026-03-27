@@ -26,7 +26,7 @@ ScyllaDB is an open-source distributed wide-column NoSQL database offering high 
 ### Links
 
 - [ScyllaDB | Monstrously Fast + Scalable NoSQL](https://www.scylladb.com)
-- [GitHub - scylladb/scylladb: NoSQL data store using the seastar framework, compatible with Apache Cassandra](https://github.com/scylladb/scylladb)
+- [GitHub - scylladb/scylladb: NoSQL data store using the seastar framework, compatible with Apache Cassandra](https://github.com/scylladb/scylladb) ⭐ 15k
 - [Scylla - Database of Databases](https://dbdb.io/db/scylla)
 - [ScyllaDB is better than Cassandra, and here’s why.](https://www.freecodecamp.org/news/scylladb-its-cassandra-but-better-76e3d83a4f81/)
 - [Getting the Most out of Lightweight Transactions in ScyllaDB - ScyllaDB](https://www.scylladb.com/2020/07/15/getting-the-most-out-of-lightweight-transactions-in-scylla/)
@@ -43,10 +43,10 @@ This code is a library that forms the core building block for a fast key value s
 
 1. **High Performance** - RocksDB uses a log structured database engine, written entirely in C++, for maximum performance. Keys and values are just arbitrarily-sized byte streams.
 2. **Optimized for Fast Storage** - RocksDB is optimized for fast, low latency storage such as flash drives and high-speed disk drives. RocksDB exploits the full potential of high read/write rates offered by flash or RAM.
-3. **Adaptable** - RocksDB is adaptable to different workloads. From database storage engines such as [MyRocks](https://github.com/facebook/mysql-5.6) to [application data caching](http://techblog.netflix.com/2016/05/application-data-caching-using-ssds.html) to embedded workloads, RocksDB can be used for a variety of data needs.
+3. **Adaptable** - RocksDB is adaptable to different workloads. From database storage engines such as [MyRocks](https://github.com/facebook/mysql-5.6) ⭐ 2.6k to [application data caching](http://techblog.netflix.com/2016/05/application-data-caching-using-ssds.html) to embedded workloads, RocksDB can be used for a variety of data needs.
 4. **Basic and Advanced Database Operations** - RocksDB provides basic operations such as opening and closing a database, reading and writing to more advanced operations such as merging and compaction filters.
 
-[GitHub - facebook/rocksdb: A library that provides an embeddable, persistent key-value store for fast storage.](https://github.com/facebook/rocksdb)
+[GitHub - facebook/rocksdb: A library that provides an embeddable, persistent key-value store for fast storage.](https://github.com/facebook/rocksdb) ⭐ 32k
 
 [RocksDB \| A persistent key-value store \| RocksDB](https://rocksdb.org/)
 
@@ -205,7 +205,7 @@ https://realpython.com/data-engineer-interview-questions-python
 
 ## Supersqllite
 
-A feature-packed Python package and for utilizing SQLite in Python by [Plasticity](https://www.plasticity.ai/). It is intended to be a drop-in replacement to Python's built-in [SQLite API](https://docs.python.org/3/library/sqlite3.html), but without any limitations. It offers unique features like [remote streaming over HTTP](https://github.com/plasticityai/supersqlite#remote-streaming-over-http) and [bundling of extensions like JSON, R-Trees (geospatial indexing), and Full Text Search](https://github.com/plasticityai/supersqlite#extensions). SuperSQLite is also packaged with pre-compiled native binaries for SQLite and all of its extensions for nearly every platform as to avoid any C/C++ compiler errors during install.
+A feature-packed Python package and for utilizing SQLite in Python by [Plasticity](https://www.plasticity.ai/). It is intended to be a drop-in replacement to Python's built-in [SQLite API](https://docs.python.org/3/library/sqlite3.html), but without any limitations. It offers unique features like [remote streaming over HTTP](https://github.com/plasticityai/supersqlite#remote-streaming-over-http) ⭐ 712 and [bundling of extensions like JSON, R-Trees (geospatial indexing), and Full Text Search](https://github.com/plasticityai/supersqlite#extensions) ⭐ 712. SuperSQLite is also packaged with pre-compiled native binaries for SQLite and all of its extensions for nearly every platform as to avoid any C/C++ compiler errors during install.
 
 https://github.com/plasticityai/supersqlite
 
@@ -271,11 +271,11 @@ MinIO is a high performance distributed object storage server, designed for larg
 
 https://minio.io
 
-[GitHub - minio/minio: High Performance Object Storage for AI](https://github.com/minio/minio)
+[GitHub - minio/minio: High Performance Object Storage for AI](https://github.com/minio/minio) ⭐ 61k
 
 - Others - GlusterFS
 - [Alternatives to MinIO for single-node local S3](https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/)
-- [GitHub - rmoff/minio-alternatives: Exploration of alternatives to MinIO for local S3 on a single-node](https://github.com/rmoff/minio-alternatives)
+- [GitHub - rmoff/minio-alternatives: Exploration of alternatives to MinIO for local S3 on a single-node](https://github.com/rmoff/minio-alternatives) ⭐ 18
 
 ## Ehcache
 
@@ -317,7 +317,7 @@ FoundationDB is a distributed database designed to handle large volumes of struc
 - **Ready for production.** FoundationDB has been running in production for years and been hardened with lessons learned. Backing FoundationDB up is an unmatched testing system based on a deterministic simulation engine.
 - **Open source.**
 
-[GitHub - apple/foundationdb: FoundationDB - the open source, distributed, transactional key-value store](https://github.com/apple/foundationdb)
+[GitHub - apple/foundationdb: FoundationDB - the open source, distributed, transactional key-value store](https://github.com/apple/foundationdb) ⭐ 16k
 
 [FoundationDB | Home](https://www.foundationdb.org/)
 

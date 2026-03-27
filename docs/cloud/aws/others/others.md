@@ -74,5 +74,5 @@ Data Lab has three offerings - the Build Lab, the Design Lab, and Resident Archi
 
 ### Alerting
 
-- [GitHub - abdullahkhawer/aws-alerts: AWS Alerts is a monitoring and alerting solution for AWS cloud to monitor resources for 30+ AWS services and send alerts related to failures, errors, warnings and terminations on Slack.](https://github.com/abdullahkhawer/aws-alerts)
-- [GitHub - aws-samples/amazon-cloudwatch-auto-alarms: Automatically create and configure Amazon CloudWatch alarms for EC2 instances, RDS, and AWS Lambda using tags for standard and custom CloudWatch Metrics.](https://github.com/aws-samples/amazon-cloudwatch-auto-alarms)
+- [GitHub - abdullahkhawer/aws-alerts: AWS Alerts is a monitoring and alerting solution for AWS cloud to monitor resources for 30+ AWS services and send alerts related to failures, errors, warnings and terminations on Slack.](https://github.com/abdullahkhawer/aws-alerts) ⭐ 11
+- [GitHub - aws-samples/amazon-cloudwatch-auto-alarms: Automatically create and configure Amazon CloudWatch alarms for EC2 instances, RDS, and AWS Lambda using tags for standard and custom CloudWatch Metrics.](https://github.com/aws-samples/amazon-cloudwatch-auto-alarms) ⭐ 108

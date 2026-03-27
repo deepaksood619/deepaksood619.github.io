@@ -17,7 +17,7 @@
 
 [How to automatically maintain a MySQL Table’s Partitions? | by Sanyam Aggarwal | Medium](https://sanyamaggarwal.medium.com/how-to-automatically-maintain-a-mysql-tables-partitions-with-mysqlpartitionkeeper-f9923f973135)
 
-[GitHub - i-sanyam/MySQLPartitionKeeper: Automatically creates new monthly partition and removes oldest partition](https://github.com/i-sanyam/MySQLPartitionKeeper/)
+[GitHub - i-sanyam/MySQLPartitionKeeper: Automatically creates new monthly partition and removes oldest partition](https://github.com/i-sanyam/MySQLPartitionKeeper/) ⭐ 4
 
 [26.6.2 Partitioning Limitations Relating to Storage Engines](https://dev.mysql.com/doc/refman/8.4/en/partitioning-limitations-storage-engines.html)
 

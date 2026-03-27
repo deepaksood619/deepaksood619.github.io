@@ -149,7 +149,7 @@ Let us look at some key features that make hapiJs promising:
 
 According to the [Derby.js](https://derbyjs.com/) site, it is a full stack Node.js framework for writing modern web applications. Derby has been around a little while, quite long enough to have proven itself to hop into 2019 and rock some chords.
 
-DerbyJs provides you with seamless data synchronisation between your server and client with an automatic conflict resolution powered by [ShareDB's](https://github.com/share/sharedb) operational transformation of JSON and text. It permits you the opportunity to add customised codes to build highly efficient web applications.
+DerbyJs provides you with seamless data synchronisation between your server and client with an automatic conflict resolution powered by [ShareDB's](https://github.com/share/sharedb) ⭐ 6.5k operational transformation of JSON and text. It permits you the opportunity to add customised codes to build highly efficient web applications.
 
 ### Totaljs
 
@@ -183,9 +183,9 @@ Moleculer is a fault tolerant framework. It has built-in load balancer, circuit 
 - pluggable validator
 - multiple services on a node/server
 - all nodes are equal, no master/leader node
-- parameter validation with [fastest-validator](https://github.com/icebob/fastest-validator)
+- parameter validation with [fastest-validator](https://github.com/icebob/fastest-validator) ⭐ 1.5k
 - built-in health monitoring & metrics
-- official [API gateway module](https://github.com/moleculerjs/moleculer-web) and many other modules...
+- official [API gateway module](https://github.com/moleculerjs/moleculer-web) ⭐ 302 and many other modules...
 
 https://moleculer.services
 

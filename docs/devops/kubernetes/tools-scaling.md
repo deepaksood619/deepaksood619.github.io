@@ -2,15 +2,15 @@
 
 ## Kubernetes Autoscaler
 
-[Cluster Autoscaler](https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler)- a component that automatically adjusts the size of a Kubernetes Cluster so that all pods have a place to run and there are no unneeded nodes. Works with GCP, AWS and Azure. Version 1.0 (GA) was released with kubernetes 1.8.
+[Cluster Autoscaler](https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler) ⭐ 8.8k- a component that automatically adjusts the size of a Kubernetes Cluster so that all pods have a place to run and there are no unneeded nodes. Works with GCP, AWS and Azure. Version 1.0 (GA) was released with kubernetes 1.8.
 
 https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler
 
 https://github.com/helm/charts/tree/master/stable/cluster-autoscaler
 
-[GitHub - kubernetes/autoscaler: Autoscaling components for Kubernetes](https://github.com/kubernetes/autoscaler)
+[GitHub - kubernetes/autoscaler: Autoscaling components for Kubernetes](https://github.com/kubernetes/autoscaler) ⭐ 8.8k
 
-## [Vertical Pod Autoscaler](https://github.com/kubernetes/autoscaler/tree/master/vertical-pod-autoscaler) / VPA
+## [Vertical Pod Autoscaler](https://github.com/kubernetes/autoscaler/tree/master/vertical-pod-autoscaler) ⭐ 8.8k / VPA
 
 A set of components that automatically adjust the amount of CPU and memory requested by pods running in the Kubernetes Cluster. Current state - beta
 
@@ -28,7 +28,7 @@ Goldilocks is a utility that can help you identify a starting point for resource
 
 [goldilocks Documentation](https://goldilocks.docs.fairwinds.com/)
 
-[Addon Resizer](https://github.com/kubernetes/autoscaler/tree/master/addon-resizer)- a simplified version of vertical pod autoscaler that modifies resource requests of a deployment based on the number of nodes in the Kubernetes Cluster. Current state - beta.
+[Addon Resizer](https://github.com/kubernetes/autoscaler/tree/master/addon-resizer) ⭐ 8.8k- a simplified version of vertical pod autoscaler that modifies resource requests of a deployment based on the number of nodes in the Kubernetes Cluster. Current state - beta.
 
 https://github.com/kubernetes/autoscaler
 
@@ -43,7 +43,7 @@ Karpenter automatically launches just the right compute resources to handle your
 - **Provisioning** nodes that meet the requirements of the pods
 - **Removing** the nodes when the nodes are no longer needed
 
-[GitHub - aws/karpenter-provider-aws: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.](https://github.com/aws/karpenter-provider-aws)
+[GitHub - aws/karpenter-provider-aws: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.](https://github.com/aws/karpenter-provider-aws) ⭐ 7.6k
 
 ## Others
 

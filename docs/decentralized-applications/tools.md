@@ -102,11 +102,11 @@ Below are some of the key features of Hyperledger Fabric and what differentiates
 
 ## Brute Force Phrase
 
-- [GitHub - Xeift/Metamask-Mnemonic-Brute-Force: A js program generate random 12 words metamask mnemonic and check the balance in the account.](https://github.com/Xeift/Metamask-Mnemonic-Brute-Force)
+- [GitHub - Xeift/Metamask-Mnemonic-Brute-Force: A js program generate random 12 words metamask mnemonic and check the balance in the account.](https://github.com/Xeift/Metamask-Mnemonic-Brute-Force) ⭐ 65
 - [Is 12-word seed phrase safe enough?](https://bitcoin.stackexchange.com/questions/38512/is-12-word-seed-phrase-safe-enough)
 - [How long would it take to brute force a bitcoin wallet seed phrase with one word missing? I know there are 2048 options, but how long wou...](https://www.quora.com/How-long-would-it-take-to-brute-force-a-bitcoin-wallet-seed-phrase-with-one-word-missing-I-know-there-are-2048-options-but-how-long-would-it-take-for-a-wallet-to-query-the-blockchain-for-each-one)
 - [Implement a brute force algorithm to find three missing word from BIP39 seed](https://stackoverflow.com/questions/67416082/implement-a-brute-force-algorithm-to-find-three-missing-word-from-bip39-seed)
-- [GitHub - 3rdIteration/btcrecover: BTCRecover is an open source wallet password and seed recovery tool. For seed based recovery, this is primarily useful in situations where you have lost/forgotten parts of your mnemonic, or have made an error transcribing it. (So you are either seeing an empty wallet or gettign an error that your seed is invalid) For wallet password or passphrase recovery, it is primarily useful if you have a reasonable idea about what your password might be.](https://github.com/3rdIteration/btcrecover)
+- [GitHub - 3rdIteration/btcrecover: BTCRecover is an open source wallet password and seed recovery tool. For seed based recovery, this is primarily useful in situations where you have lost/forgotten parts of your mnemonic, or have made an error transcribing it. (So you are either seeing an empty wallet or gettign an error that your seed is invalid) For wallet password or passphrase recovery, it is primarily useful if you have a reasonable idea about what your password might be.](https://github.com/3rdIteration/btcrecover) ⭐ 833
 
 ## Links
 

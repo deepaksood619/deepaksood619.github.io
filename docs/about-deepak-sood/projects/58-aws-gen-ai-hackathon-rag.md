@@ -52,16 +52,16 @@
 
 ## Links
 
-- [GitHub - jossai87/bedrock-agents-streamlit: Creating Bedrock Agents with Streamlit Framework](https://github.com/jossai87/bedrock-agents-streamlit)
+- [GitHub - jossai87/bedrock-agents-streamlit: Creating Bedrock Agents with Streamlit Framework](https://github.com/jossai87/bedrock-agents-streamlit) ⭐ 7
 - [Implementing RAG App Using Knowledge Base from Amazon Bedrock and Streamlit | by Saikat Mukherjee | Mar, 2024 | Medium](https://medium.com/@saikatm.courses/implementing-rag-app-using-knowledge-base-from-amazon-bedrock-and-streamlit-e52f8300f01d)
-- [GitHub - build-on-aws/bedrock-agents-streamlit: Creating Amazon Bedrock agents with Streamlit Framework](https://github.com/build-on-aws/bedrock-agents-streamlit)
-- [GitHub - build-on-aws/amazon-bedrock-agents-quickstart: Learn how to quickly build Agents with Amazon Bedrock](https://github.com/build-on-aws/amazon-bedrock-agents-quickstart)
+- [GitHub - build-on-aws/bedrock-agents-streamlit: Creating Amazon Bedrock agents with Streamlit Framework](https://github.com/build-on-aws/bedrock-agents-streamlit) ⭐ 131
+- [GitHub - build-on-aws/amazon-bedrock-agents-quickstart: Learn how to quickly build Agents with Amazon Bedrock](https://github.com/build-on-aws/amazon-bedrock-agents-quickstart) ⭐ 104
 - [Build a contextual chatbot application using Knowledge Bases for Amazon Bedrock | AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/build-a-contextual-chatbot-application-using-knowledge-bases-for-amazon-bedrock/#:~:text=On%20the%20Amazon%20Bedrock%20console,a%20name%20for%20the%20role.)
 - [Preview – Connect Foundation Models to Your Company Data Sources with Agents for Amazon Bedrock | AWS News Blog](https://aws.amazon.com/blogs/aws/preview-connect-foundation-models-to-your-company-data-sources-with-agents-for-amazon-bedrock/)
 - [Invoking LLM models using Bedrock from AWS. | by Sanjeeb Panda | Medium](https://medium.com/@sanjeebmeister/invoking-llm-models-using-bedrock-from-aws-37ee5d692819)
 - [How to build your own RAG chatbot using LangChain and Streamlit](https://www.linkedin.com/pulse/how-build-your-own-rag-chatbot-using-langchain-streamlit-sri-laxmi-fktbc/)
 - [Build a real-time RAG chatbot using Google Drive and Sharepoint](https://blog.streamlit.io/build-a-real-time-rag-chatbot-google-drive-sharepoint/)
-- [GitHub - PatrickPT/RAG\_LLM\_example: Streamlit powered Python Chatbot with Retrieval Augmented Generation on LLMs](https://github.com/PatrickPT/RAG_LLM_example)
+- [GitHub - PatrickPT/RAG\_LLM\_example: Streamlit powered Python Chatbot with Retrieval Augmented Generation on LLMs](https://github.com/PatrickPT/RAG_LLM_example) ⭐ 2
 - [Hands on with Retrieval Augmented Generation | Notes on AI](https://patrickpt.github.io/posts/hands-on-rag/)
 
 ## Code

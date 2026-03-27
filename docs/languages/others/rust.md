@@ -63,7 +63,7 @@ Most data scientists use Python, but Python is slow. Historically, we built engi
 
 The RBIR movement is heavily aligned with **Apache Arrow**, a columnar memory format. Rust’s memory model is a perfect fit for Arrow, allowing different tools (like a Rust database and a Rust query engine) to share data in memory without "copying" it, which is a massive speed advantage.
 
-[GitHub - rewrite-bigdata-in-rust/RBIR: A collection of RBIR projects and posts for anyone interested in joining this journey.](https://github.com/rewrite-bigdata-in-rust/RBIR)
+[GitHub - rewrite-bigdata-in-rust/RBIR: A collection of RBIR projects and posts for anyone interested in joining this journey.](https://github.com/rewrite-bigdata-in-rust/RBIR) ⭐ 318
 
 ## Links
 
@@ -78,9 +78,9 @@ The RBIR movement is heavily aligned with **Apache Arrow**, a columnar memory fo
 - https://www.freecodecamp.org/news/rust-in-replit
 - [10 Videos on Rust that accelerate my learning](https://www.linkedin.com/pulse/10-videos-rust-accelerate-my-learning-chun-yin-vincent-lau/)
 - [RustEdu Workshop 2022 - RustViz: Interactively Visualizing Ownership and Borrowing - YouTube](https://www.youtube.com/watch?v=zCF8QVkc6IY)
-- [GitHub - rustviz/rustviz: Interactively Visualizing Ownership and Borrowing for Rust](https://github.com/rustviz/rustviz)
+- [GitHub - rustviz/rustviz: Interactively Visualizing Ownership and Borrowing for Rust](https://github.com/rustviz/rustviz) ⭐ 2.8k
 - [Rust for Rustaceans by Jon Gjengset](https://rust-for-rustaceans.com/)
 - [Welcome to Comprehensive Rust 🦀 - Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/welcome.html)
 - [Effective Rust](https://www.lurklurk.org/effective-rust/)
 - [Rust is easy... (we make it hard) - YouTube](https://www.youtube.com/watch?v=06CVZKbNvgE)
-- [GitHub - emilk/egui: egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native](https://github.com/emilk/egui)
+- [GitHub - emilk/egui: egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native](https://github.com/emilk/egui) ⭐ 29k

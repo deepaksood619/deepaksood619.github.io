@@ -51,7 +51,7 @@ https://azure.microsoft.com/en-us/products/data-studio
 - [Download SQL Server Management Studio (SSMS) \| Microsoft Learn](https://learn.microsoft.com/en-us/ssms/download-sql-server-management-studio-ssms)
 - [.NET Interactive with SQL!\| .NET Notebooks in Visual Studio Code - .NET Blog](https://devblogs.microsoft.com/dotnet/net-interactive-with-sql-net-notebooks-in-visual-studio-code/?hide_banner=true)
 - [Polyglot Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode)
-	- [interactive/docs/working-with-data.md at main · dotnet/interactive · GitHub](https://github.com/dotnet/interactive/blob/main/docs/working-with-data.md)
+	- [interactive/docs/working-with-data.md at main · dotnet/interactive · GitHub](https://github.com/dotnet/interactive/blob/main/docs/working-with-data.md) ⭐ 3.2k
 	- `#r "nuget: Microsoft.DotNet.Interactive.SqlServer, *-*"`
 
 ## Links

@@ -85,7 +85,7 @@ https://www.freecodecamp.org/news/have-an-idea-want-to-build-a-product-from-scra
 
 ## Notification System
 
-- APNS - Apple Push Notification System - [GitHub - samuraisam/pyapns: An APNS provider with multi-app support.](https://github.com/samuraisam/pyapns)
+- APNS - Apple Push Notification System - [GitHub - samuraisam/pyapns: An APNS provider with multi-app support.](https://github.com/samuraisam/pyapns) ⭐ 2.0k
 - FCM - Firebase Cloud Messaging
 
 ## Callbacks and Webhooks

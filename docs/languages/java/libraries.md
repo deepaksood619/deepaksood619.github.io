@@ -30,8 +30,8 @@ https://vertx.io/docs/vertx-core/java
 
 ## Jackson Annotations
 
-Jackson Annotations is a Java library (`com.fasterxml.jackson.core:jackson-annotations`) providing annotations to customize JSON serialization and deserialization. Part of the [FasterXML Jackson data processor](https://github.com/FasterXML/jackson-annotations), it simplifies mapping Java objects to JSON using tags like `@JsonProperty`, `@JsonIgnore`, and `@JsonTypeInfo` to control field handling.
+Jackson Annotations is a Java library (`com.fasterxml.jackson.core:jackson-annotations`) providing annotations to customize JSON serialization and deserialization. Part of the [FasterXML Jackson data processor](https://github.com/FasterXML/jackson-annotations) ⭐ 1.1k, it simplifies mapping Java objects to JSON using tags like `@JsonProperty`, `@JsonIgnore`, and `@JsonTypeInfo` to control field handling.
 
-- [GitHub - FasterXML/jackson-annotations: Core annotations (annotations that only depend on jackson-core) for Jackson data processor](https://github.com/FasterXML/jackson-annotations)
+- [GitHub - FasterXML/jackson-annotations: Core annotations (annotations that only depend on jackson-core) for Jackson data processor](https://github.com/FasterXML/jackson-annotations) ⭐ 1.1k
 - [Maven Repository: com.fasterxml.jackson.core » jackson-annotations](https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-annotations)
 - Jackson, the heavily used Java JSON library, is not the fastest out there. If you’re dealing with JSON in a high-performance Java system, check fastjson2 and simdjson-java.

@@ -18,7 +18,7 @@ Celery communicates via messages, usually using a broker to mediate between clie
 
 A Celery system can consist of multiple workers and brokers, giving way to high availability and horizontal scaling.
 
-Celery is written in Python, but the protocol can be implemented in any language. In addition to Python there's [node-celery](https://github.com/mher/node-celery) for Node.js, and a [PHP client](https://github.com/gjedeer/celery-php).
+Celery is written in Python, but the protocol can be implemented in any language. In addition to Python there's [node-celery](https://github.com/mher/node-celery) ⭐ 658 for Node.js, and a [PHP client](https://github.com/gjedeer/celery-php) ⭐ 420.
 
 Language interoperability can also be achieved by using webhooks in such a way that the client enqueues an URL to be requested by a worker.
 
@@ -133,7 +133,7 @@ https://testdriven.io/blog/django-celery-periodic-tasks
 
 ## Example
 
-[**https://github.com/yolossn/flask-celery-microservice**](https://github.com/yolossn/flask-celery-microservice)
+[**https://github.com/yolossn/flask-celery-microservice**](https://github.com/yolossn/flask-celery-microservice) ⭐ 74
 
 [**https://learnk8s.io/scaling-celery-rabbitmq-kubernetes**](https://learnk8s.io/scaling-celery-rabbitmq-kubernetes)
 
@@ -154,7 +154,7 @@ Full journey for a single request is:
 - https://medium.com/squad-engineering/two-years-with-celery-in-production-bug-fix-edition-22238669601d
 - https://docs.celeryproject.org/projects/celery-enhancement-proposals/en/latest/draft/high-level-architecture.html
 - [The Many Problems with Celery | Log Blog Kebab](https://steve.dignam.xyz/2023/05/20/many-problems-with-celery/)
-- [task-aware celery worker autoscaling (+ \`pod-deletion-cost\`) · Issue #339 · airflow-helm/charts · GitHub](https://github.com/airflow-helm/charts/issues/339)
+- [task-aware celery worker autoscaling (+ \`pod-deletion-cost\`) · Issue #339 · airflow-helm/charts · GitHub](https://github.com/airflow-helm/charts/issues/339) ⭐ 709
 - [Asynchronous Tasks With Django and Celery – Real Python](https://realpython.com/asynchronous-tasks-with-django-and-celery/)
 - [Celery Integration With Django - GeeksforGeeks](https://www.geeksforgeeks.org/celery-integration-with-django/)
 - [Docker compose with Django 4, Celery, Redis and Postgres | React and Django Tutorial](https://saasitive.com/tutorial/django-celery-redis-postgres-docker-compose/)

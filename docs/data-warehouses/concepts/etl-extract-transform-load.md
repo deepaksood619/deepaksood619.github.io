@@ -30,4 +30,4 @@ https://www.guru99.com/datastage-tutorial.html
 
 ## Others
 
-- [GitHub - supabase/etl: Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines.](https://github.com/supabase/etl)
+- [GitHub - supabase/etl: Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines.](https://github.com/supabase/etl) ⭐ 2.2k

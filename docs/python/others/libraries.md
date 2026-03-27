@@ -43,9 +43,9 @@ This manager should be attached to a base model class in a model-inheritance tre
 - https://medium.com/build-smarter/blazing-fast-python-40a2b25b0495
 - https://github.com/uber-archive/pyflame
 - Profiler - [Diagnose slow Python code. (Feat. async/await) - YouTube](https://www.youtube.com/watch?v=m_a0fN48Alw)
-- [GitHub - jjnanthakumar/django-flames: This is simple site created in Django framework.. If any issues ping me.](https://github.com/jjnanthakumar/django-flames)
-- [GitHub - blopker/djdt-flamegraph: Flamegraphs for Django Debug Toolbar](https://github.com/blopker/djdt-flamegraph)
-- [GitHub - brendangregg/FlameGraph: Stack trace visualizer](https://github.com/brendangregg/FlameGraph)
+- [GitHub - jjnanthakumar/django-flames: This is simple site created in Django framework.. If any issues ping me.](https://github.com/jjnanthakumar/django-flames) ⭐ 2
+- [GitHub - blopker/djdt-flamegraph: Flamegraphs for Django Debug Toolbar](https://github.com/blopker/djdt-flamegraph) ⭐ 186
+- [GitHub - brendangregg/FlameGraph: Stack trace visualizer](https://github.com/brendangregg/FlameGraph) ⭐ 19k
 
 ## py-spy
 
@@ -151,17 +151,17 @@ https://palletsprojects.com/p/jinja
 
 ## Tenacity
 
-Tenacity is an Apache 2.0 licensed general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything. It originates from [a fork of retrying](https://github.com/rholder/retrying/issues/65) which is sadly no longer [maintained](https://julien.danjou.info/python-tenacity/). Tenacity isn’t api compatible with retrying but adds significant new functionality and fixes a number of longstanding bugs.
+Tenacity is an Apache 2.0 licensed general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything. It originates from [a fork of retrying](https://github.com/rholder/retrying/issues/65) ⭐ 1.9k which is sadly no longer [maintained](https://julien.danjou.info/python-tenacity/). Tenacity isn’t api compatible with retrying but adds significant new functionality and fixes a number of longstanding bugs.
 
 - [Tenacity — Tenacity documentation](https://tenacity.readthedocs.io/en/latest/)
-- [GitHub - jd/tenacity: Retrying library for Python](https://github.com/jd/tenacity)
+- [GitHub - jd/tenacity: Retrying library for Python](https://github.com/jd/tenacity) ⭐ 8.5k
 - [Awesome Python Library: Tenacity](https://new.pythonforengineers.com/blog/awesome-python-library-tenacity/)
 - [Retry flaky task in Python using Tenacity | by Parag Kamble | Medium](https://paragkamble.medium.com/retry-flaky-task-in-python-using-tenacity-c6fabcf9a3be)
 
 ## Serializers
 
-- [ujson](https://github.com/ultrajson/ultrajson) (UltraJSON) is an ultra fast JSON encoder and decoder written in pure C with bindings for Python 3.7+.
-- [orjson](https://github.com/ijl/orjson) is a fast, correct JSON library for Python. It is the fastest python library for json encoding & decoding. It serializes dataclass, datetime, numpy, and UUID instances natively.
+- [ujson](https://github.com/ultrajson/ultrajson) ⭐ 4.5k (UltraJSON) is an ultra fast JSON encoder and decoder written in pure C with bindings for Python 3.7+.
+- [orjson](https://github.com/ijl/orjson) ⭐ 8.0k is a fast, correct JSON library for Python. It is the fastest python library for json encoding & decoding. It serializes dataclass, datetime, numpy, and UUID instances natively.
 
 ### Benchmarking
 
@@ -171,16 +171,16 @@ Tenacity is an Apache 2.0 licensed general-purpose retrying library, written in 
 # orjson 2.3136467933654785
 ```
 
-- [ujson](https://github.com/ultrajson/ultrajson) is 3 times faster than the standard json library
-- [orjson](https://github.com/ijl/orjson) is over 6 times faster than the standard json library
+- [ujson](https://github.com/ultrajson/ultrajson) ⭐ 4.5k is 3 times faster than the standard json library
+- [orjson](https://github.com/ijl/orjson) ⭐ 8.0k is over 6 times faster than the standard json library
 
 #### Conclusion
 
-For most cases, you would want to go with python’s standard json library which removes dependencies on other libraries. On other hand you could try out [ujson](https://github.com/ultrajson/ultrajson) which is simple replacement for python’s json library. If you want more speed and also want dataclass, datetime, numpy, and UUID instances and you are ready to deal with more complex code, then you can try your hands on [orjson](https://github.com/ijl/orjson)
+For most cases, you would want to go with python’s standard json library which removes dependencies on other libraries. On other hand you could try out [ujson](https://github.com/ultrajson/ultrajson) ⭐ 4.5k which is simple replacement for python’s json library. If you want more speed and also want dataclass, datetime, numpy, and UUID instances and you are ready to deal with more complex code, then you can try your hands on [orjson](https://github.com/ijl/orjson) ⭐ 8.0k
 
 [Benchmarking Python JSON serializers - json vs ujson vs orjson - Dollar Dhingra’s Blog](https://dollardhingra.com/blog/python-json-benchmarking/)
 
-[GitHub - ultrajson/ultrajson: Ultra fast JSON decoder and encoder written in C with Python bindings](https://github.com/ultrajson/ultrajson?tab=readme-ov-file#benchmarks)
+[GitHub - ultrajson/ultrajson: Ultra fast JSON decoder and encoder written in C with Python bindings](https://github.com/ultrajson/ultrajson?tab=readme-ov-file#benchmarks) ⭐ 4.5k
 
 ## Visualization
 
@@ -215,4 +215,4 @@ For most cases, you would want to go with python’s standard json library which
 - Babel - the Python Internationalization Library - https://github.com/python-babel/babel
 - https://tryolabs.com/blog/2019/12/10/top-10-python-libraries-of-2019
 - https://dev.to/squash/16-amazing-python-libraries-you-should-be-using-now-2020-updated-2aja
-- [GitHub - pyauth/pyotp: Python One-Time Password Library](https://github.com/pyauth/pyotp)
+- [GitHub - pyauth/pyotp: Python One-Time Password Library](https://github.com/pyauth/pyotp) ⭐ 3.3k

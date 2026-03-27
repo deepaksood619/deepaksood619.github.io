@@ -89,7 +89,7 @@ https://github.com/webtorrent/webtorrent
 - [The HUSL | Music, NFT's & Entertainment in the Metaverse](https://thehusl.io/)
 - [FanTiger - Invest in Songs](https://www.fantiger.com/)
 - [Mirror](https://mirror.xyz/)
-- [GitHub - district0x/ethlance: Ethlance is the first job market platform built entirely on the Ethereum blockchain. Free to use forever!](https://github.com/district0x/ethlance)
+- [GitHub - district0x/ethlance: Ethlance is the first job market platform built entirely on the Ethereum blockchain. Free to use forever!](https://github.com/district0x/ethlance) ⭐ 721
 - [Snyper - The first Web3 Social Marketplace](https://snyper.notion.site/Snyper-Angel-Memo-V1-3-73117de4d4cf44b7bcc6208b5e915cc0)
 - [Link3.to | A Web3 Social Network of Verifiable Identities](https://link3.to/)
 - [CyberConnect | Web3's Earliest & Biggest Decentralized Social Network](https://cyberconnect.me/)
@@ -102,7 +102,7 @@ https://gun.eco
 
 ### Decentralized Social Network (Social Media Platforms)
 
-- [GitHub - mastodon/mastodon: Your self-hosted, globally interconnected microblogging community](https://github.com/mastodon/mastodon)
+- [GitHub - mastodon/mastodon: Your self-hosted, globally interconnected microblogging community](https://github.com/mastodon/mastodon) ⭐ 50k
 	- [Mastodon - Decentralized social media](https://joinmastodon.org/)
 	- [Mastodon (social network) - Wikipedia](https://en.wikipedia.org/wiki/Mastodon_(social_network))
 	- [What is Mastodon? - YouTube](https://www.youtube.com/watch?v=IPSbNdBmWKE&ab_channel=Mastodon)
@@ -140,8 +140,8 @@ https://gun.eco
 
 - [What Is The Best Attempt At A Truly Decentralized Internet? : r/Rad\_Decentralization](https://www.reddit.com/r/Rad_Decentralization/comments/mwg376/what_is_the_best_attempt_at_a_truly_decentralized/)
 - [Bitchat Bluetooth Mesh Encrypted Chat App Download](https://bit-chats.com/)
-	- [GitHub - jackjackbits/bitchat: bluetooth mesh chat, IRC vibes](https://github.com/jackjackbits/bitchat)
-	- [GitHub - callebtc/bitchat-android: bluetooth mesh chat, IRC vibes](https://github.com/callebtc/bitchat-android)
+	- [GitHub - jackjackbits/bitchat: bluetooth mesh chat, IRC vibes](https://github.com/jackjackbits/bitchat) ⭐ 26k
+	- [GitHub - callebtc/bitchat-android: bluetooth mesh chat, IRC vibes](https://github.com/callebtc/bitchat-android) ⭐ 5.3k
 	- [This Chat app lets You Send Messages Without Wi-Fi - YouTube](https://www.youtube.com/shorts/nsJehGf-l5w)
 
 ## Others

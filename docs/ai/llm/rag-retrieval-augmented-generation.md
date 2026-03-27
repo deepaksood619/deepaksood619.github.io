@@ -19,11 +19,11 @@ RAG is an AI framework for retrieving facts from an external knowledge base to g
 
 ## Codes
 
-- [generative-ai/gemini/use-cases/retrieval-augmented-generation/multimodal\_rag\_langchain.ipynb at main · GoogleCloudPlatform/generative-ai · GitHub](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/use-cases/retrieval-augmented-generation/multimodal_rag_langchain.ipynb)
-- [GitHub - Farzad-R/Advanced-QA-and-RAG-Series: This repository contains advanced LLM-based chatbots for Q&A using LLM agents, and Retrieval Augmented Generation (RAG) and with different databases. (VectorDB, GraphDB, SQLite, CSV, XLSX, etc.)](https://github.com/Farzad-R/Advanced-QA-and-RAG-Series)
-- [example-app-langchain-rag/rag\_chain.py at main · streamlit/example-app-langchain-rag · GitHub](https://github.com/streamlit/example-app-langchain-rag/blob/main/rag_chain.py)
-- [GitHub - langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch)
-- [generative-ai/gemini/qa-ops/building\_DIY\_multimodal\_qa\_system\_with\_mRAG.ipynb at main · GoogleCloudPlatform/generative-ai · GitHub](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/qa-ops/building_DIY_multimodal_qa_system_with_mRAG.ipynb)
+- [generative-ai/gemini/use-cases/retrieval-augmented-generation/multimodal\_rag\_langchain.ipynb at main · GoogleCloudPlatform/generative-ai · GitHub](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/use-cases/retrieval-augmented-generation/multimodal_rag_langchain.ipynb) ⭐ 16k
+- [GitHub - Farzad-R/Advanced-QA-and-RAG-Series: This repository contains advanced LLM-based chatbots for Q&A using LLM agents, and Retrieval Augmented Generation (RAG) and with different databases. (VectorDB, GraphDB, SQLite, CSV, XLSX, etc.)](https://github.com/Farzad-R/Advanced-QA-and-RAG-Series) ⭐ 439
+- [example-app-langchain-rag/rag\_chain.py at main · streamlit/example-app-langchain-rag · GitHub](https://github.com/streamlit/example-app-langchain-rag/blob/main/rag_chain.py) ⭐ 146
+- [GitHub - langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch) ⭐ 7.9k
+- [generative-ai/gemini/qa-ops/building\_DIY\_multimodal\_qa\_system\_with\_mRAG.ipynb at main · GoogleCloudPlatform/generative-ai · GitHub](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/qa-ops/building_DIY_multimodal_qa_system_with_mRAG.ipynb) ⭐ 16k
 - [Building A RAG System with Gemma, MongoDB and Open Source Models - Hugging Face Open-Source AI Cookbook](https://huggingface.co/learn/cookbook/en/rag_with_hugging_face_gemma_mongodb)
 
 ## Types of RAG
@@ -43,7 +43,7 @@ RAG is an AI framework for retrieving facts from an external knowledge base to g
 ### Advanced RAG Techniques
 
 - Query Expansion (with multiple queries)
-    - [GitHub - pdichone/advanced-rag-techniques](https://github.com/pdichone/advanced-rag-techniques)
+    - [GitHub - pdichone/advanced-rag-techniques](https://github.com/pdichone/advanced-rag-techniques) ⭐ 132
     - Downsides
 		- Lots of results
 			 - queries might not always be relevant or useful
@@ -79,7 +79,7 @@ Contextual Retrieval enhances each chunk by adding specific, explanatory context
 
 - [Rerankers and Two-Stage Retrieval \| Pinecone](https://www.pinecone.io/learn/series/rag/rerankers/)
 - [What is a reranker and do I need one? - ZeroEntropy](https://www.zeroentropy.dev/articles/what-is-a-reranker-and-do-i-need-one)
-- [zcookbook/guides/rerank\_llamaparsed\_pdfs/rerank\_llamaparsed\_pdfs.ipynb at main · zeroentropy-ai/zcookbook · GitHub](https://github.com/zeroentropy-ai/zcookbook/blob/main/guides/rerank_llamaparsed_pdfs/rerank_llamaparsed_pdfs.ipynb)
+- [zcookbook/guides/rerank\_llamaparsed\_pdfs/rerank\_llamaparsed\_pdfs.ipynb at main · zeroentropy-ai/zcookbook · GitHub](https://github.com/zeroentropy-ai/zcookbook/blob/main/guides/rerank_llamaparsed_pdfs/rerank_llamaparsed_pdfs.ipynb) ⭐ 17
 
 #### Others
 
@@ -99,7 +99,7 @@ Contextual Retrieval enhances each chunk by adding specific, explanatory context
 
 - Neo4j
 - [FalkorDB Graph Database with GraphRAG for AI/ML and GenAI](https://www.falkordb.com/)
-	- [GitHub - FalkorDB/FalkorDB: A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).](https://github.com/FalkorDB/FalkorDB)
+	- [GitHub - FalkorDB/FalkorDB: A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).](https://github.com/FalkorDB/FalkorDB) ⭐ 3.8k
 
 ![Graph RAG](../../media/Screenshot%202024-12-27%20at%2011.34.53%20AM.jpg)
 
@@ -107,40 +107,40 @@ Contextual Retrieval enhances each chunk by adding specific, explanatory context
 
 [RAG vs. CAG: Solving Knowledge Gaps in AI Models - YouTube](https://www.youtube.com/watch?v=HdafI0t3sEY)
 
-[GitHub - hhhuang/CAG: Cache-Augmented Generation: A Simple, Efficient Alternative to RAG](https://github.com/hhhuang/CAG)
+[GitHub - hhhuang/CAG: Cache-Augmented Generation: A Simple, Efficient Alternative to RAG](https://github.com/hhhuang/CAG) ⭐ 1.5k
 
 ## Tools
 
-- [GitHub - bitswired/website-to-knowledge-base](https://github.com/bitswired/website-to-knowledge-base)
-- [GitHub - weaviate/Verba: Retrieval Augmented Generation (RAG) chatbot powered by Weaviate](https://github.com/weaviate/Verba)
-- [GitHub - deepsense-ai/ragbits: Building blocks for rapid development of GenAI applications](https://github.com/deepsense-ai/ragbits)
-- [GitHub - vitali87/code-graph-rag: Search Monorepos and get relevant answers](https://github.com/vitali87/code-graph-rag)
-- [GitHub - microsoft/markitdown: Python tool for converting files and office documents to Markdown.](https://github.com/microsoft/markitdown)
-- **[GitHub - HKUDS/RAG-Anything: "RAG-Anything: All-in-One RAG System"](https://github.com/HKUDS/RAG-Anything)**
-- [GitHub - yichuan-w/LEANN: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.](https://github.com/yichuan-w/LEANN)
+- [GitHub - bitswired/website-to-knowledge-base](https://github.com/bitswired/website-to-knowledge-base) ⭐ 82
+- [GitHub - weaviate/Verba: Retrieval Augmented Generation (RAG) chatbot powered by Weaviate](https://github.com/weaviate/Verba) ⭐ 7.6k
+- [GitHub - deepsense-ai/ragbits: Building blocks for rapid development of GenAI applications](https://github.com/deepsense-ai/ragbits) ⭐ 1.6k
+- [GitHub - vitali87/code-graph-rag: Search Monorepos and get relevant answers](https://github.com/vitali87/code-graph-rag) ⭐ 2.3k
+- [GitHub - microsoft/markitdown: Python tool for converting files and office documents to Markdown.](https://github.com/microsoft/markitdown) ⭐ 93k
+- **[GitHub - HKUDS/RAG-Anything: "RAG-Anything: All-in-One RAG System"](https://github.com/HKUDS/RAG-Anything) ⭐ 15k**
+- [GitHub - yichuan-w/LEANN: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.](https://github.com/yichuan-w/LEANN) ⭐ 10k
 	- Our evaluation shows that LEANN reduces index size to under 5% of the original raw data, achieving up to 50 times smaller storage than standard indexes, while maintaining 90% top-3 recall in under 2 seconds on real-world question answering benchmarks.
 
 ### NoCode Tools
 
 - **RAGFlow** - RAGFlow is a RAG engine for deep document understanding! It lets you build enterprise-grade RAG workflows on complex docs with well-founded citations. Supports multimodal data understanding, web search, deep research, etc. 100% open-source with 59k+ stars!
-	- [GitHub - infiniflow/ragflow: RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.](https://github.com/infiniflow/ragflow)
+	- [GitHub - infiniflow/ragflow: RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.](https://github.com/infiniflow/ragflow) ⭐ 76k
 - **xpander** - xpander is a framework-agnostic backend for agents that manages memory, tools, multi-user states, events, guardrails, etc. While it is not a core no-code tool, you can build, test, and deploy Agents by primarily using the UI. Compatible with LlamaIndex, CrewAI, etc.
 	- https://github.com/xpander-ai/xpander.ai
 - **Transformer Lab** - Transformer Lab is an app to experiment with LLMs: - Train, fine-tune, or chat.
 	- One-click LLM download (DeepSeek, Gemma, etc.)
 	- Drag-n-drop UI for RAG.
 	- Built-in logging, and more. A 100% open-source and local!
-	- [GitHub - transformerlab/transformerlab-app: Open Source Application for Advanced LLM + Diffusion Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.](https://github.com/transformerlab/transformerlab-app)
+	- [GitHub - transformerlab/transformerlab-app: Open Source Application for Advanced LLM + Diffusion Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.](https://github.com/transformerlab/transformerlab-app) ⭐ 4.8k
 - **Llama Factory** - LLaMA-Factory lets you train and fine-tune open-source LLMs and VLMs without writing any code. Supports 100+ models, multimodal fine-tuning, PPO, DPO, experiment tracking, and much more! 100% open-source with 50k stars!
-	- [GitHub - hiyouga/LLaMA-Factory: Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)](https://github.com/hiyouga/LLaMA-Factory)
+	- [GitHub - hiyouga/LLaMA-Factory: Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)](https://github.com/hiyouga/LLaMA-Factory) ⭐ 69k
 - **Langflow** - Langflow is a drag-and-drop visual tool to build AI agents. It lets you build and deploy AI-powered agents and workflows. Supports all major LLMs, vector DBs, etc. 100% open-source with 82k+ stars!
-	- [GitHub - langflow-ai/langflow: Langflow is a powerful tool for building and deploying AI-powered agents and workflows.](https://github.com/langflow-ai/langflow)
+	- [GitHub - langflow-ai/langflow: Langflow is a powerful tool for building and deploying AI-powered agents and workflows.](https://github.com/langflow-ai/langflow) ⭐ 146k
 - **AutoAgent** - AutoAgent is a zero-code framework that lets you build and deploy Agents using natural language. It comes with: - Universal LLM support
 	- Native self-managing Vector DB
 	- Function-calling and ReAct interaction modes.
 	- 100% open-source with 5k stars!
-	- [GitHub - HKUDS/AutoAgent: "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"](https://github.com/HKUDS/AutoAgent)
-- [GitHub - truefoundry/cognita: RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry](https://github.com/truefoundry/cognita)
+	- [GitHub - HKUDS/AutoAgent: "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"](https://github.com/HKUDS/AutoAgent) ⭐ 8.7k
+- [GitHub - truefoundry/cognita: RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry](https://github.com/truefoundry/cognita) ⭐ 4.4k
 
 ## Links
 
@@ -154,9 +154,9 @@ Contextual Retrieval enhances each chunk by adding specific, explanatory context
 - [What is Retrieval-Augmented Generation (RAG)? - YouTube](https://youtu.be/T-D1OfcDW1M?si=KoUb-NXATK50d3i7)
 - [**Vector Search RAG Tutorial - Combine Your Data with LLMs with Advanced Search - YouTube**](https://www.youtube.com/watch?v=JEBDfGqrAUA)
 - [RAG - Retrieval-Augmented Generation - Full Guide - Build a RAG System to Chat with Your Documents - YouTube](https://www.youtube.com/watch?v=vdLquGgg28A&ab_channel=VinciBits)
-- [GitHub - beaucarnes/vector-search-tutorial](https://github.com/beaucarnes/vector-search-tutorial)
+- [GitHub - beaucarnes/vector-search-tutorial](https://github.com/beaucarnes/vector-search-tutorial) ⭐ 86
 - [DSPy: Not Your Average Prompt Engineering](https://jina.ai/news/dspy-not-your-average-prompt-engineering/)
-- [langchain/cookbook/RAPTOR.ipynb at master · langchain-ai/langchain · GitHub](https://github.com/langchain-ai/langchain/blob/master/cookbook/RAPTOR.ipynb)
+- [langchain/cookbook/RAPTOR.ipynb at master · langchain-ai/langchain · GitHub](https://github.com/langchain-ai/langchain/blob/master/cookbook/RAPTOR.ipynb) ⭐ 131k
 - [Introduction to Retrieval Augmented Generation (RAG)](https://www.coursera.org/projects/introduction-to-rag)
 - [A beginner's guide to building a Retrieval Augmented Generation (RAG) application from scratch](https://learnbybuilding.ai/tutorials/rag-from-scratch)
 - [Building RAG with Open-Source and Custom AI Models](https://www.bentoml.com/blog/building-rag-with-open-source-and-custom-ai-models)

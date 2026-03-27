@@ -100,7 +100,7 @@ This is **Maxwell's daemon**, a [change data capture](https://www.confluent.io/b
 - search indexing
 - inter-service communication
 
-[GitHub - zendesk/maxwell: Maxwell's daemon, a mysql-to-json kafka producer](https://github.com/zendesk/maxwell)
+[GitHub - zendesk/maxwell: Maxwell's daemon, a mysql-to-json kafka producer](https://github.com/zendesk/maxwell) ⭐ 4.2k
 
 [Maxwell's Daemon](https://maxwells-daemon.io/)
 

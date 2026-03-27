@@ -4,7 +4,7 @@
 
 https://free-for.dev
 
-[GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted)
+[GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 282k
 
 [Google Open Source](https://opensource.google/)
 
@@ -131,11 +131,11 @@ Palantir Foundry is a software platform that serves as an operating system for m
 - Danfo.js - pandas in js
 - Mantin.js
 - Amplication
-- [GitHub - hoophq/sequence: Immutable, scalable, and easy to use ledger service.](https://github.com/hoophq/sequence)
+- [GitHub - hoophq/sequence: Immutable, scalable, and easy to use ledger service.](https://github.com/hoophq/sequence) ⭐ 507
 - [Free Webmail and Email by GMX | Sign Up Now!](https://signup.gmx.com/)
 - [**Stirling PDF**](https://stirlingpdf.io/)
-	- [GitHub - Stirling-Tools/Stirling-PDF: #1 Locally hosted web application that allows you to perform various operations on PDF files](https://github.com/Stirling-Tools/Stirling-PDF) 61.7K stars
+	- [GitHub - Stirling-Tools/Stirling-PDF: #1 Locally hosted web application that allows you to perform various operations on PDF files](https://github.com/Stirling-Tools/Stirling-PDF) ⭐ 76k 61.7K stars
 	- [I started editing all my PDF files with this free, self-hosted tool, and I’m not going back](https://www.xda-developers.com/started-editing-all-pdf-files-with-this-free-self-hosted-tool/)
-- [GitHub - sherlock-project/sherlock: Hunt down social media accounts by username across social networks](https://github.com/sherlock-project/sherlock)
+- [GitHub - sherlock-project/sherlock: Hunt down social media accounts by username across social networks](https://github.com/sherlock-project/sherlock) ⭐ 74k
 - [ezmlm - Wikipedia](https://en.wikipedia.org/wiki/Ezmlm)
 	- [ezmlm-idx Home](http://www.ezmlm.org/)

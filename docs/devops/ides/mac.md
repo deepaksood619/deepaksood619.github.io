@@ -130,7 +130,7 @@ Open two instance of same application - **open -n MQTT.fx.app**
 	- https://jfper.link/
 	- https://uxert.link/
 	- https://yrkde.link/
-- **VLC** or [GitHub - iina/iina: The modern video player for macOS.](https://github.com/iina/iina)
+- **VLC** or [GitHub - iina/iina: The modern video player for macOS.](https://github.com/iina/iina) ⭐ 44k
 - ~~Anki Flash Cards~~ -
 - ~~Anaconda navigator~~ - [~~https://conda.anaconda.org/conda-forge/~~](https://conda.anaconda.org/conda-forge/)
 - **Bombsquad**
@@ -149,8 +149,8 @@ Open two instance of same application - **open -n MQTT.fx.app**
 - Cmd + Shift + G in Finder
 - Alfred - [Alfred - Productivity App for macOS](https://www.alfredapp.com/)
 - [Raycast - Supercharged productivity](https://www.raycast.com/)
-	- [GitHub - raycast/extensions: Everything you need to extend Raycast.](https://github.com/raycast/extensions)
-	- [GitHub - raycast/script-commands: Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.](https://github.com/raycast/script-commands)
+	- [GitHub - raycast/extensions: Everything you need to extend Raycast.](https://github.com/raycast/extensions) ⭐ 7.3k
+	- [GitHub - raycast/script-commands: Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.](https://github.com/raycast/script-commands) ⭐ 6.7k
 	- [A love letter to Raycast ❤️](https://rmoff.net/2025/12/18/a-love-letter-to-raycast/)
 
 #### Comparison
@@ -210,7 +210,7 @@ https://www.google.com/inputtools
 
 - Nimbus Screenshot & Screen Video
 - [Screen Recorder](https://chromewebstore.google.com/detail/screen-recorder/hniebljpgcogalllopnjokppmgbhaden)
-- Best alternative to loom - [GitHub - alyssaxuu/screenity: The free and privacy-friendly screen recorder with no limits 🎥](https://github.com/alyssaxuu/screenity)
+- Best alternative to loom - [GitHub - alyssaxuu/screenity: The free and privacy-friendly screen recorder with no limits 🎥](https://github.com/alyssaxuu/screenity) ⭐ 18k
 - Loom (cannot download with free version)
 	- [Loom Video Downloader](https://getof.net/en/loom-video-downloader/)
 - CloudApp
@@ -279,7 +279,7 @@ brew services cleanup
 - bat
 - ~~neovim~~ - https://github.com/neovim/neovim
 - ~~fzf (A command-line fuzzy finder) - ~~https://github.com/junegunn/fzf
-- [GitHub - ellie/atuin: 🐢 Magical shell history](https://github.com/ellie/atuin)
+- [GitHub - ellie/atuin: 🐢 Magical shell history](https://github.com/ellie/atuin) ⭐ 7
 - ~~the_silver_searcher (command ag "services") - ~~https://github.com/ggreer/the_silver_searcher
 - **awscli**
 - **python3**
@@ -293,7 +293,7 @@ brew services cleanup
 #### Clipboard Manager
 
 - brew install maccy
-- [GitHub - p0deje/Maccy: Lightweight clipboard manager for macOS](https://github.com/p0deje/Maccy)
+- [GitHub - p0deje/Maccy: Lightweight clipboard manager for macOS](https://github.com/p0deje/Maccy) ⭐ 19k
 	- Settings
 		- Launch at login
 		- Check for updates automatically
@@ -301,15 +301,15 @@ brew services cleanup
 	- SHIFT (⇧) + COMMAND (⌘) + C to popup Maccy or click on its icon in the menu bar.
 	- To disable Maccy and ignore new copies, click on the menu icon with OPTION (⌥) pressed.
 	- To ignore only the next copy, click on the menu icon with OPTION (⌥) + SHIFT (⇧) pressed.
-- [GitHub - PasteBar/PasteBarApp: PasteBar - Limitless, Free Clipboard Manager for Mac and Windows](https://github.com/PasteBar/PasteBarApp)
-- [GitHub - hluk/CopyQ: Clipboard manager with advanced features](https://github.com/hluk/CopyQ)
-- [GitHub - Slackadays/Clipboard: 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager](https://github.com/Slackadays/Clipboard)
-- [GitHub - TermiT/Flycut: Clean and simple clipboard manager for developers](https://github.com/TermiT/Flycut)
+- [GitHub - PasteBar/PasteBarApp: PasteBar - Limitless, Free Clipboard Manager for Mac and Windows](https://github.com/PasteBar/PasteBarApp) ⭐ 2.0k
+- [GitHub - hluk/CopyQ: Clipboard manager with advanced features](https://github.com/hluk/CopyQ) ⭐ 11k
+- [GitHub - Slackadays/Clipboard: 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager](https://github.com/Slackadays/Clipboard) ⭐ 5.7k
+- [GitHub - TermiT/Flycut: Clean and simple clipboard manager for developers](https://github.com/TermiT/Flycut) ⭐ 2.7k
 - [The 5 best clipboard managers in 2025 \| Zapier](https://zapier.com/blog/best-clipboard-managers/)
 
 #### hstr (reverse search)
 
-[GitHub - dvorka/hstr: bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.](https://github.com/dvorka/hstr)
+[GitHub - dvorka/hstr: bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.](https://github.com/dvorka/hstr) ⭐ 4.5k
 
 ```bash
 brew install hstr

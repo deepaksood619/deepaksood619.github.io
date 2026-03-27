@@ -60,8 +60,8 @@ swizzling permits to **swap a theme component with your own implementation**, an
 	- [Docusaurus test diagrams](https://docusaurus.io/tests/pages/diagrams)
 - [Serving Optimized Docusaurus Images with Rehype, Markdown and Cloudinary - DevJams Episode #21 - YouTube](https://www.youtube.com/watch?v=9oBWMDK0Av4)
 - [Docusaurus](https://docusaurus.io/docs/api/themes/@docusaurus/theme-live-codeblock)
-- [GitHub - Arsero/docusaurus-graph: The Docusaurus GraphView Plugin is an open source plugin designed to generate a graph view from your Docusaurus documentation files.](https://github.com/Arsero/docusaurus-graph)
-- [GitHub - Jim876633/docusaurus-plugin-get-doc-create-date: A Docusaurus plugin to get the create date of all docs](https://github.com/Jim876633/docusaurus-plugin-get-doc-create-date)
+- [GitHub - Arsero/docusaurus-graph: The Docusaurus GraphView Plugin is an open source plugin designed to generate a graph view from your Docusaurus documentation files.](https://github.com/Arsero/docusaurus-graph) ⭐ 16
+- [GitHub - Jim876633/docusaurus-plugin-get-doc-create-date: A Docusaurus plugin to get the create date of all docs](https://github.com/Jim876633/docusaurus-plugin-get-doc-create-date) ⭐ 1
 
 ### Upgrading from v2 to v3
 
@@ -101,7 +101,7 @@ themes: [
 ],
 ```
 
-[Releases · cmfcmf/docusaurus-search-local](https://github.com/cmfcmf/docusaurus-search-local/releases)
+[Releases · cmfcmf/docusaurus-search-local](https://github.com/cmfcmf/docusaurus-search-local/releases) ⭐ 496
 
 ### Algolia
 
@@ -151,13 +151,13 @@ algolia: {
 
 ## Compilation Errors Fixes
 
-- [How can I break a line in a cell in a markdown table? · facebook/docusaurus · Discussion #9085 · GitHub](https://github.com/facebook/docusaurus/discussions/9085)
+- [How can I break a line in a cell in a markdown table? · facebook/docusaurus · Discussion #9085 · GitHub](https://github.com/facebook/docusaurus/discussions/9085) ⭐ 64k
 	- Use `<br/>` tag instead of `<br>` and there should be no indentation or spaces before or after the `<br/>` tag
 - Don't use `<` and `>` symbols
 
 ## Links
 
 - [Docusaurus](https://docusaurus.io/docs/blog)
-- [GitHub - webbertakken/awesome-docusaurus: A curated list of awesome Docusaurus resources.](https://github.com/webbertakken/awesome-docusaurus)
+- [GitHub - webbertakken/awesome-docusaurus: A curated list of awesome Docusaurus resources.](https://github.com/webbertakken/awesome-docusaurus) ⭐ 159
 - [Docusaurus](https://docusaurus.io/docs/seo)
 - [johnnyreilly | johnnyreilly](https://johnnyreilly.com/)

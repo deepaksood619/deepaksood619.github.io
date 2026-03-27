@@ -17,9 +17,9 @@
     - https://www.kdnuggets.com/2020/04/dask-big-data.html
 7. https://rapids.ai  https://github.com/rapidsai
 8. [Vaex: A Fast DataFrame for Python 🚀](https://vaex.io/)
-9. [GitHub - pola-rs/polars: Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js](https://github.com/pola-rs/polars)
+9. [GitHub - pola-rs/polars: Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js](https://github.com/pola-rs/polars) ⭐ 38k
 10. [Querying 1TB on a laptop with Python dataframes – Ibis](https://ibis-project.org/posts/1tbc/)
-11. [GitHub - ibis-project/ibis: the portable Python dataframe library](https://github.com/ibis-project/ibis)
+11. [GitHub - ibis-project/ibis: the portable Python dataframe library](https://github.com/ibis-project/ibis) ⭐ 6.5k
 
 ## Optimizing Python Memory Objects
 

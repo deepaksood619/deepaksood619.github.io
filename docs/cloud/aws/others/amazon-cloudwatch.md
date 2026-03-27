@@ -2,7 +2,7 @@
 
 Monitor Resources and Applications
 
-[GitHub - monitoringartist/grafana-aws-cloudwatch-dashboards: :cloud: 40+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...](https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards)
+[GitHub - monitoringartist/grafana-aws-cloudwatch-dashboards: :cloud: 40+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...](https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards) ⭐ 2.2k
 
 ## Queries
 

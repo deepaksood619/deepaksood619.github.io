@@ -2,7 +2,7 @@
 
 [The Top 100 Gen AI Consumer Apps — 6th Edition \| Andreessen Horowitz](https://a16z.com/100-gen-ai-apps-6/)
 
-[GitHub - Shubhamsaboo/awesome-llm-apps: Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 103k
+[GitHub - Shubhamsaboo/awesome-llm-apps: Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 104k
 
 [GitHub - give-me/bookmarklets: Bookmarklet to export the content from chatbots to a PDF with a single click. Supports Claude, ChatGPT, Grok and Gemini.](https://github.com/give-me/bookmarklets) ⭐ 140
 
@@ -111,7 +111,7 @@
 - [GitHub - RamiKrispin/lang2sql: A tutorial for setting an SQL code generator with the OpenAI API](https://github.com/RamiKrispin/lang2sql) ⭐ 246
 - [fal.ai/camera](https://www.fal.ai/camera)
 - [GitHub - lxe/llm-companion: Mobile web app for audio "push-to-talk" + TTS chat interface with OpenAI-like APIs](https://github.com/lxe/llm-companion) ⭐ 43
-- [GitHub - adithya-s-k/CompanionLLM: CompanionLLM - A framework to finetune LLMs to be your own sentient conversational companion](https://github.com/adithya-s-k/CompanionLLM) ⭐ 50
+- [GitHub - adithya-s-k/CompanionLLM: CompanionLLM - A framework to finetune LLMs to be your own sentient conversational companion](https://github.com/adithya-s-k/CompanionLLM) ⭐ 51
 - [Waii - World's most powerful SQL API built with generative AI](https://www.waii.ai/)
 - [Introducing Devin, the first AI software engineer](https://www.cognition-labs.com/introducing-devin)
 - [Tabnine is an AI assistant that speeds up delivery and keeps your code safe](https://www.tabnine.com/)
@@ -180,12 +180,12 @@
 - [AI4Finance Foundation · GitHub](https://github.com/AI4Finance-Foundation)
 	- [AI4Finance-Foundation.org - FinGPT, FinRobot, FinRL, AI Agent, FinLLMs, Open-Source Libraries](https://ai4finance.org/)
 	- [GitHub - AI4Finance-Foundation/FinGPT: FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.](https://github.com/AI4Finance-Foundation/FinGPT) ⭐ 19k
-	- [GitHub - AI4Finance-Foundation/FinRobot: FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀](https://github.com/AI4Finance-Foundation/FinRobot) ⭐ 6.4k
+	- [GitHub - AI4Finance-Foundation/FinRobot: FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀](https://github.com/AI4Finance-Foundation/FinRobot) ⭐ 6.5k
 
 ## DeepFakes
 
 - [Deep Live Cam \| Free online Real-time AI Face Swap & Deepfake with One Image](https://deeplivecam.org/)
-	- [GitHub - hacksider/Deep-Live-Cam: real time face swap and one-click video deepfake with only a single image](https://github.com/hacksider/Deep-Live-Cam) ⭐ 80k
+	- [GitHub - hacksider/Deep-Live-Cam: real time face swap and one-click video deepfake with only a single image](https://github.com/hacksider/Deep-Live-Cam) ⭐ 81k
 - [Magicam, The Ultimate Real-Time Face Swap Solution](https://magicam.ai/)
 
 ```bash

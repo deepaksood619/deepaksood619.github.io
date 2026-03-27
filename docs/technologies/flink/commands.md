@@ -44,4 +44,4 @@ SELECT * FROM bounded_pageviews LIMIT 10;
 
 ## Links
 
-- [GitHub - confluentinc/learn-apache-flink-101-exercises](https://github.com/confluentinc/learn-apache-flink-101-exercises)
+- [GitHub - confluentinc/learn-apache-flink-101-exercises](https://github.com/confluentinc/learn-apache-flink-101-exercises) ⭐ 12

@@ -237,7 +237,7 @@ https://vlang.io
 
 [Home ⚡ Zig Programming Language](https://ziglang.org/)
 
-[GitHub - zigzap/zap: blazingly fast backends in zig](https://github.com/zigzap/zap)
+[GitHub - zigzap/zap: blazingly fast backends in zig](https://github.com/zigzap/zap) ⭐ 3.3k
 
 ## .net / dotnet
 
@@ -249,7 +249,7 @@ https://vlang.io
 
 [ASP.NET Core Tutorial – Beginner to Advanced Projects - YouTube](https://www.youtube.com/watch?v=6SAFgcMie4U&ab_channel=freeCodeCamp.org)
 
-[GitHub - nunit/nunit: NUnit Framework](https://github.com/nunit/nunit)
+[GitHub - nunit/nunit: NUnit Framework](https://github.com/nunit/nunit) ⭐ 2.6k
 
 [NUnit.org](https://nunit.org/)
 
@@ -257,7 +257,7 @@ https://vlang.io
 
 ### Libraries
 
-- [GitHub - serilog/serilog: Simple .NET logging with fully-structured events](https://github.com/serilog/serilog)
+- [GitHub - serilog/serilog: Simple .NET logging with fully-structured events](https://github.com/serilog/serilog) ⭐ 7.9k
 - [Serilog — simple .NET logging with fully-structured events](https://serilog.net/)
 
 ## CEL
@@ -291,14 +291,14 @@ CEL is ideal for performance-critical applications because it was designed to ev
 
 CEL is used most efficiently in applications where expressions are evaluated frequently, but modified infrequently. For example, evaluating an HTTP request against a security policy is an excellent use case for CEL. A CEL security policy expression w
 
-[GitHub - google/cel-spec: Common Expression Language -- specification and binary representation](https://github.com/google/cel-spec)
+[GitHub - google/cel-spec: Common Expression Language -- specification and binary representation](https://github.com/google/cel-spec) ⭐ 3.7k
 
 [CEL  \|  Common Expression Language](https://cel.dev/)
 
 ## Others
 
 - [Solidity](decentralized-applications/ethereum/solidity.md)
-- [GitHub - move-language/move](https://github.com/move-language/move)
+- [GitHub - move-language/move](https://github.com/move-language/move) ⭐ 2.3k
     - [Introduction - The Move Book](https://move-language.github.io/move/)
-- [GitHub - HigherOrderCO/Bend: A massively parallel, high-level programming language](https://github.com/HigherOrderCO/Bend)
+- [GitHub - HigherOrderCO/Bend: A massively parallel, high-level programming language](https://github.com/HigherOrderCO/Bend) ⭐ 19k
     - [Mind-bending new programming language for GPUs just dropped... - YouTube](https://www.youtube.com/watch?v=HCOQmKTFzYY)

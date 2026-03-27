@@ -14,7 +14,7 @@
 
 Base Prompt, Knowledge Prompt, System Prompt
 
-- [GitHub - x1xhlol/system-prompts-and-models-of-ai-tools: FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+- [GitHub - x1xhlol/system-prompts-and-models-of-ai-tools: FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ⭐ 133k
 
 ## Prompting Principles
 
@@ -319,4 +319,4 @@ Knowledge based retrieval tool -
 - [Prompt Engineering Tutorial - Master ChatGPT and LLM Responses - YouTube](https://www.youtube.com/watch?v=_ZvnD73m40o)
 - [Advanced Prompt Engineering for Content Creators - Full Handbook](https://www.freecodecamp.org/news/advanced-prompt-engineering-handbook/)
 - [Prompt Engineering with Llama 2 - DeepLearning.AI](https://www.deeplearning.ai/short-courses/prompt-engineering-with-llama-2)
-- [GitHub - dair-ai/Prompt-Engineering-Guide: 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- [GitHub - dair-ai/Prompt-Engineering-Guide: 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 72k

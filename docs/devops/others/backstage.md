@@ -21,7 +21,7 @@ Powered by a centralized software catalog, Backstage restores order to your infr
 
 - [Backstage Software Catalog and Developer Platform](https://backstage.io/)
 - [What is Backstage? | Backstage Software Catalog and Developer Platform](https://backstage.io/docs/overview/what-is-backstage/)
-- [GitHub - backstage/backstage: Backstage is an open platform for building developer portals](https://github.com/backstage/backstage)
+- [GitHub - backstage/backstage: Backstage is an open platform for building developer portals](https://github.com/backstage/backstage) ⭐ 33k
 - [Developer Productivity with Spotify Backstage in 5 Minutes • Lee Mills • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=8kqw3JYFL18)
 - [Shaping The Future of Developer Productivity with Spotify Backstage • Lee Mills • GOTO 2023 - YouTube](https://www.youtube.com/watch?v=ptknWtmqrZM&ab_channel=GOTOConferences)
 - [Demystifying Kubernetes Platforms with Backstage - YouTube](https://www.youtube.com/watch?v=g453ioC64Bw)

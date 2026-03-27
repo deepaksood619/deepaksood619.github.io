@@ -28,12 +28,12 @@ One of the biggest questions around in-context learning is: What happens if we j
 
 - [Mastering Low-Rank Adaptation (LoRA): Enhancing Large Language Models for Efficient Adaptation | DataCamp](https://www.datacamp.com/tutorial/mastering-low-rank-adaptation-lora-enhancing-large-language-models-for-efficient-adaptation)
 - [LoRA](https://huggingface.co/docs/diffusers/main/en/training/lora)
-- [GitHub - microsoft/LoRA: Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"](https://github.com/microsoft/LoRA)
+- [GitHub - microsoft/LoRA: Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"](https://github.com/microsoft/LoRA) ⭐ 13k
 - [LoRA - Explained! - YouTube](https://www.youtube.com/watch?v=Bq9zqTJDsjg)
 
 ## Context Window / Tokens
 
-- [GitHub - NVIDIA/RULER: This repo contains the source code for RULER: What’s the Real Context Size of Your Long-Context Language Models?](https://github.com/NVIDIA/RULER)
+- [GitHub - NVIDIA/RULER: This repo contains the source code for RULER: What’s the Real Context Size of Your Long-Context Language Models?](https://github.com/NVIDIA/RULER) ⭐ 1.5k
 	- RULER - Real Context Size of Your Long-Context Language Models
 - [What is the current largest context window for an open LLM? : r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1eplndh/what_is_the_current_largest_context_window_for_an/)
 - [LLMs with largest context windows](https://codingscape.com/blog/llms-with-largest-context-windows)

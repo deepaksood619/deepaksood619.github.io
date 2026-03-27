@@ -23,8 +23,8 @@
 	- [Miha Rekar - What Are Flame Graphs and How to Read Them, RubyConfBY 2017](https://www.youtube.com/watch?v=6uKZXIwd6M0)
 	- [USENIX ATC '17: Visualizing Performance with Flame Graphs](https://www.youtube.com/watch?v=D53T1Ejig1Q)
 	- Django
-		- [GitHub - jjnanthakumar/django-flames: This is simple site created in Django framework.. If any issues ping me.](https://github.com/jjnanthakumar/django-flames)
-		- [GitHub - blopker/djdt-flamegraph: Flamegraphs for Django Debug Toolbar](https://github.com/blopker/djdt-flamegraph)
+		- [GitHub - jjnanthakumar/django-flames: This is simple site created in Django framework.. If any issues ping me.](https://github.com/jjnanthakumar/django-flames) ⭐ 2
+		- [GitHub - blopker/djdt-flamegraph: Flamegraphs for Django Debug Toolbar](https://github.com/blopker/djdt-flamegraph) ⭐ 186
 
 17. Sparklines
 
@@ -162,6 +162,6 @@
 
 ## Libraries
 
-- [GitHub - highcharts/highcharts: Highcharts JS, the JavaScript charting framework](https://github.com/highcharts/highcharts)
+- [GitHub - highcharts/highcharts: Highcharts JS, the JavaScript charting framework](https://github.com/highcharts/highcharts) ⭐ 12k
 - [Chart.js | Open source HTML5 Charts for your website](https://www.chartjs.org/)
 - [10+ Free JavaScript Chart Library📊you must use in 2023. - DEV Community](https://dev.to/themeselection/10-javascript-chart-library-you-must-use-k20)

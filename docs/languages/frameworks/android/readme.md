@@ -111,7 +111,7 @@ https://developer.android.com/codelabs/android-hilt
 
 - https://medium.com/snapp-mobile/android-keeping-release-and-debug-installed-all-the-time-43f5812d6637
 - https://www.toptal.com/android/functional-reactive-programming-part-2
-- [GitHub - Genymobile/scrcpy: Display and control your Android device](https://github.com/Genymobile/scrcpy)
+- [GitHub - Genymobile/scrcpy: Display and control your Android device](https://github.com/Genymobile/scrcpy) ⭐ 138k
 - Deployment Patterns
     - [Soft Launch, Dark Launch, and Canary Release for Mobile Apps | Instabug](https://www.instabug.com/blog/soft-launch-dark-launch-and-canary-release-for-mobile-apps)
     - [Gradually roll out Firebase App Check using Firebase Remote Config](https://firebase.google.com/codelabs/app-attest-remote-config#0)

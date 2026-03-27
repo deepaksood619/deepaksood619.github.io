@@ -344,7 +344,7 @@ Total with Duplicates - 331 services
 7. **AWS Snow Family** - Physical devices to migrate data into and out of AWS
 8. **AWS Transfer Family** - Fully managed SFTP, FTPS, and FTP service
 	1. [FileZilla - The free FTP solution](https://filezilla-project.org/)
-	2. [GitHub - iterate-ch/cyberduck: Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.](https://github.com/iterate-ch/cyberduck)
+	2. [GitHub - iterate-ch/cyberduck: Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.](https://github.com/iterate-ch/cyberduck) ⭐ 4.3k
 		1. [Cyberduck \| Libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox](https://cyberduck.io/)
 9. **Migration Evaluator (formerly TSO Logic)** - Create a business case for cloud migration
 

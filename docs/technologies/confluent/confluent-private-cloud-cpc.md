@@ -88,7 +88,7 @@ The following features are supported in the current release of Confluent Gateway
 
 [Deploy and Manage Confluent Private Cloud Gateway \| Confluent Documentation](https://docs.confluent.io/private-cloud-gateway/current/overview.html)
 
-[gateway-images/examples at master · confluentinc/gateway-images · GitHub](https://github.com/confluentinc/gateway-images/tree/master/examples)
+[gateway-images/examples at master · confluentinc/gateway-images · GitHub](https://github.com/confluentinc/gateway-images/tree/master/examples) ⭐ 2
 
 ## Unified Stream Manager in Confluent Platform
 

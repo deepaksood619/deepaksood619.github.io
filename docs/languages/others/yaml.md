@@ -53,7 +53,7 @@ args:
 
 As you can see here, you can have virtually any number of items in a list, which is defined as items that start with a dash (-) indented from the parent.
 
-YAML Front Matter, which can be parsed using a library called [gray-matter](https://github.com/jonschlinkert/gray-matter).
+YAML Front Matter, which can be parsed using a library called [gray-matter](https://github.com/jonschlinkert/gray-matter) ⭐ 4.4k.
 
 ```yaml
 ---

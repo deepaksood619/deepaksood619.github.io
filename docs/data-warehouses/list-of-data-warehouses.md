@@ -24,7 +24,7 @@ Firebolt's serverless architecture connects to your S3 data lake as its data sou
 
 ![image](../media/Data-Warehousing_Databases-image1.jpg)
 
-- [GitHub - firebolt-db/firebolt-core: Firebolt Core is a free, self-hosted edition of Firebolt's distributed query engine (https://www.firebolt.io/); it provides high-performance data warehousing capabilities that can be deployed anywhere from a single laptop to enterprise datacenters.](https://github.com/firebolt-db/firebolt-core)
+- [GitHub - firebolt-db/firebolt-core: Firebolt Core is a free, self-hosted edition of Firebolt's distributed query engine (https://www.firebolt.io/); it provides high-performance data warehousing capabilities that can be deployed anywhere from a single laptop to enterprise datacenters.](https://github.com/firebolt-db/firebolt-core) ⭐ 195
 - [The Data Warehouse for Data and AI Apps](https://www.firebolt.io/)
 - [Firebolt: Why Powering User Facing Applications on Iceberg is Hard (Benjamin Wagner) - YouTube](https://www.youtube.com/watch?v=Vf-N3JzWz0g)
 
@@ -42,7 +42,7 @@ All this makes Apache Doris an ideal tool for scenarios including report analysi
 
 [Apache Doris: Open source data warehouse for real time data analytics - Apache Doris](https://doris.apache.org/)
 
-[GitHub - apache/doris: Apache Doris is an easy-to-use, high performance and unified analytics database.](https://github.com/apache/doris)
+[GitHub - apache/doris: Apache Doris is an easy-to-use, high performance and unified analytics database.](https://github.com/apache/doris) ⭐ 15k
 
 [Is Apache Doris the next big thing? : r/dataengineering](https://www.reddit.com/r/dataengineering/comments/141eswm/is_apache_doris_the_next_big_thing/)
 

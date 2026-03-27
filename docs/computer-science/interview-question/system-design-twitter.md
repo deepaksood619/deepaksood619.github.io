@@ -103,7 +103,7 @@ Problem with this structure is that to get a tweet corresponding to user, if wou
 I have found the issue. I got this error because although I had the Twitter developer App, but it was a STANDALONE app without attaching to any projects.
 So, creating a project first and then link to the app is essential to use Twitter API v2.
 
-[When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project · Issue #58 · twitterdev/Twitter-API-v2-sample-code · GitHub](https://github.com/twitterdev/Twitter-API-v2-sample-code/issues/58)
+[When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project · Issue #58 · twitterdev/Twitter-API-v2-sample-code · GitHub](https://github.com/twitterdev/Twitter-API-v2-sample-code/issues/58) ⭐ 3.2k
 
 ### Docs
 
@@ -112,8 +112,8 @@ So, creating a project first and then link to the app is essential to use Twitte
 
 ### Links
 
-- [GitHub - twitterdev/search-tweets-python at v2](https://github.com/twitterdev/search-tweets-python/tree/v2)
+- [GitHub - twitterdev/search-tweets-python at v2](https://github.com/twitterdev/search-tweets-python/tree/v2) ⭐ 898
 - https://www.labnol.org/twitter-bots-tutorial-4796
 - https://www.labnol.org/twitter-search-examples-203
-- [GitHub - twitterdev/Twitter-API-v2-sample-code: Sample code for the Twitter API v2 endpoints](https://github.com/twitterdev/Twitter-API-v2-sample-code)
-- [GitHub - tweepy/tweepy: Twitter for Python!](https://github.com/tweepy/tweepy)
+- [GitHub - twitterdev/Twitter-API-v2-sample-code: Sample code for the Twitter API v2 endpoints](https://github.com/twitterdev/Twitter-API-v2-sample-code) ⭐ 3.2k
+- [GitHub - tweepy/tweepy: Twitter for Python!](https://github.com/tweepy/tweepy) ⭐ 11k

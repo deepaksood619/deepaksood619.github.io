@@ -52,12 +52,12 @@
 - markdownlint
 - markdown-link-expander
   [markdown-link-expander - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=skn0tt.markdown-link-expander)
-- [GitHub - svsool/memo: Markdown knowledge base with bidirectional links built on top of VSCode](https://github.com/svsool/memo)
+- [GitHub - svsool/memo: Markdown knowledge base with bidirectional links built on top of VSCode](https://github.com/svsool/memo) ⭐ 877
 - [Paste URL](https://marketplace.visualstudio.com/items?itemName=kukushi.pasteurl)
-- [GitHub - cweijan/vscode-office - markdown WYSIWYG](https://github.com/cweijan/vscode-office)
-- [GitHub - zaaack/vscode-markdown-editor: A vscode extension to make your vscode become a  full-featured WYSIWYG markdown editor](https://github.com/zaaack/vscode-markdown-editor)
+- [GitHub - cweijan/vscode-office - markdown WYSIWYG](https://github.com/cweijan/vscode-office) ⭐ 1.3k
+- [GitHub - zaaack/vscode-markdown-editor: A vscode extension to make your vscode become a  full-featured WYSIWYG markdown editor](https://github.com/zaaack/vscode-markdown-editor) ⭐ 555
 - [GitDoc - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gitdoc)
-- [GitHub - ckeditor/ckeditor5: Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing. WYSIWYG](https://github.com/ckeditor/ckeditor5)
+- [GitHub - ckeditor/ckeditor5: Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing. WYSIWYG](https://github.com/ckeditor/ckeditor5) ⭐ 10k
 
 ## Markdown shortcuts in VSCode
 

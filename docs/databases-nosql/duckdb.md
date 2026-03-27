@@ -50,9 +50,9 @@ Available in C, C++, Go, Java, and Rust. For batch ETL or small datasets, regula
 - [How fast is DuckDB really? | Blog | Fivetran](https://www.fivetran.com/blog/how-fast-is-duckdb-really)
 - [Benchmarking Ourselves over Time at DuckDB – DuckDB](https://duckdb.org/2024/06/26/benchmarks-over-time.html)
 - "One Size Fits All": An Idea Whose Time Has Come and Gone - [stonebraker-centintemel-one-size-fits-all-icde-2015.pdf](https://blobs.duckdb.org/papers/stonebraker-centintemel-one-size-fits-all-icde-2015.pdf)
-- [GitHub - duckdb/duckdb: DuckDB is an analytical in-process SQL database management system](https://github.com/duckdb/duckdb)
+- [GitHub - duckdb/duckdb: DuckDB is an analytical in-process SQL database management system](https://github.com/duckdb/duckdb) ⭐ 37k
 - [DuckDB – An in-process SQL OLAP database management system](https://duckdb.org/)
-- [GitHub - duckdb-in-action/examples](https://github.com/duckdb-in-action/examples)
+- [GitHub - duckdb-in-action/examples](https://github.com/duckdb-in-action/examples) ⭐ 175
 - [Introduction to DuckDB: A Guide for Data Analysis | DataCamp](https://www.datacamp.com/blog/an-introduction-to-duckdb-what-is-it-and-why-should-you-use-it)
 - [Handling Billions of Rows with SQL in Minutes Using DuckDB | Towards Data Science](https://towardsdatascience.com/handling-billions-of-records-in-minutes-with-sql-%EF%B8%8F-484d2d6027bc)
 - [QuackETL\| DuckDB-Powered Lightweight ETL: An Extensible Framework for Seamless Data Integration - YouTube](https://youtu.be/fo7-rRRVHf8)

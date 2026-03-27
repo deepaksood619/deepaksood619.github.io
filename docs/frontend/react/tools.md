@@ -6,7 +6,7 @@ https://prettier.io
 
 https://github.com/jaredpalmer/tsdx
 
-Despite all the recent hype, setting up a new TypeScript (x React) library can be tough. Between [Rollup](https://github.com/rollup/rollup), [Jest](https://github.com/facebook/jest), tsconfig, [Yarn resolutions](https://yarnpkg.com/en/docs/selective-version-resolutions), ESLint, and getting VSCode to play nicely....there is just a whole lot of stuff to do (and things to screw up). TSDX is a zero-config CLI that helps you develop, test, and publish modern TypeScript packages with ease--so you can focus on your awesome new library and not waste another afternoon on the configuration.
+Despite all the recent hype, setting up a new TypeScript (x React) library can be tough. Between [Rollup](https://github.com/rollup/rollup) ⭐ 26k, [Jest](https://github.com/facebook/jest) ⭐ 45k, tsconfig, [Yarn resolutions](https://yarnpkg.com/en/docs/selective-version-resolutions), ESLint, and getting VSCode to play nicely....there is just a whole lot of stuff to do (and things to screw up). TSDX is a zero-config CLI that helps you develop, test, and publish modern TypeScript packages with ease--so you can focus on your awesome new library and not waste another afternoon on the configuration.
 
 ## npx tsdx create mylib
 
@@ -46,7 +46,7 @@ Next Generation Frontend Tooling
 5. Universal Plugin Interface
 6. Fully Typed APIs
 
-- [GitHub - vitejs/vite: Next generation frontend tooling. It's fast!](https://github.com/vitejs/vite)
+- [GitHub - vitejs/vite: Next generation frontend tooling. It's fast!](https://github.com/vitejs/vite) ⭐ 79k
 - [Vite \| Next Generation Frontend Tooling](https://vite.dev/)
 
 ## Webpack
@@ -95,7 +95,7 @@ you can use a tool like ESLint to enforce rules in the code. For example, you ca
 
 Linters can be used to enforce standards by writing custom rules. But you can also use the pre-made ESLint configs established by big tech companies to help devs get into the habit of writing clean code.
 
-You can take a look at Google's ESLint config [here](https://github.com/google/eslint-config-google)-- it is the one I prefer.
+You can take a look at Google's ESLint config [here](https://github.com/google/eslint-config-google) ⭐ 1.8k-- it is the one I prefer.
 
 ESLint helps you get used to best practices, but that's not its only benefit. ESLint also warns you about possible bugs/errors in your code so you can avoid common mistakes.
 

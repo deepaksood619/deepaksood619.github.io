@@ -16,13 +16,13 @@ When starting a new wallet, the instructions will typically advise you to write 
 
 Each of these BIPs are designated by a number.
 
-[**BIP39**](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki "bip39") or Bitcoin Improvement Proposal: 39 is one of the many design ideas that was approved by an economic majority of the Bitcoin community and became a standard for many popular wallets.
+[**BIP39**](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki "bip39") ⭐ 11k or Bitcoin Improvement Proposal: 39 is one of the many design ideas that was approved by an economic majority of the Bitcoin community and became a standard for many popular wallets.
 
 Again, BIP39 is the use of a mnemonic phrase -- a group of easy to remember words -- to serve as a back up to recover your wallet and coins in the event your wallet becomes compromised, lost, or destroyed.
 
-The [BIP39 documentation](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki "bip39") describes the specific steps a wallet must take (i.e. algorithm) to generate this mnemonic phrase. This includes specific requirements, structure, practices, words, etc.
+The [BIP39 documentation](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki "bip39") ⭐ 11k describes the specific steps a wallet must take (i.e. algorithm) to generate this mnemonic phrase. This includes specific requirements, structure, practices, words, etc.
 
-In addition to [its specific structure](https://www.blockplate.com/blogs/blockplate/how-a-seed-phrase-is-created "how a bip39 seed phrase is created"), it must utilize a specific list of words when generating your mnemonic phrase. That is known as the [BIP39 wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt "bip 39 word list").
+In addition to [its specific structure](https://www.blockplate.com/blogs/blockplate/how-a-seed-phrase-is-created "how a bip39 seed phrase is created"), it must utilize a specific list of words when generating your mnemonic phrase. That is known as the [BIP39 wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt "bip 39 word list") ⭐ 11k.
 
 ## BIP39 Word List
 
@@ -101,7 +101,7 @@ You need some sort of "map" on to traverse through the branches and find those l
 
 _Derivation paths_ tell your wallet how to find your coins guiding it through the tree and are described in Bitcoin Improvement Proposals (BIP).
 
-The most common _derivation paths_ are described in [BIP44](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki "bip44"), [BIP49](https://github.com/bitcoin/bips/blob/master/bip-0049.mediawiki "bip49"), and [BIP84](https://github.com/bitcoin/bips/blob/master/bip-0084.mediawiki "bip84").
+The most common _derivation paths_ are described in [BIP44](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki "bip44") ⭐ 11k, [BIP49](https://github.com/bitcoin/bips/blob/master/bip-0049.mediawiki "bip49") ⭐ 11k, and [BIP84](https://github.com/bitcoin/bips/blob/master/bip-0084.mediawiki "bip84") ⭐ 11k.
 
 A _derivation path_ has a specific notation where each level is designated by a "/" beginning with **m**:
 
@@ -131,9 +131,9 @@ Coin support should be well documented or referenced on the wallet developer's w
 
 There are other standards such as:
 
-- Lighting Network Daemon (AEZeed): If you're using the Lightning Network Daemon wallet, it uses a different seed scheme known as [AEZeed](https://github.com/lightningnetwork/lnd/tree/master/aezeed "lightning network lnd aezeed").
+- Lighting Network Daemon (AEZeed): If you're using the Lightning Network Daemon wallet, it uses a different seed scheme known as [AEZeed](https://github.com/lightningnetwork/lnd/tree/master/aezeed "lightning network lnd aezeed") ⭐ 8.1k.
 - Electrum: If you're using the [Electrum Wallet](https://electrum.org/#home "electrum"), it also uses a [unique seed scheme](https://electrum.readthedocs.io/en/latest/seedphrase.html "electrum seed").
-- Satoshi Labs Improvement Proposal (SLIP 39): If you're using [Trezor's](https://trezor.io/) parent company, [Satoshi Labs](https://satoshilabs.com/), unique seed standard of Shamir Secret Shares, [SLIP 39](https://github.com/satoshilabs/slips/blob/master/slip-0039 "SLIP 39").
+- Satoshi Labs Improvement Proposal (SLIP 39): If you're using [Trezor's](https://trezor.io/) parent company, [Satoshi Labs](https://satoshilabs.com/), unique seed standard of Shamir Secret Shares, [SLIP 39](https://github.com/satoshilabs/slips/blob/master/slip-0039 "SLIP 39") ⭐ 1.7k.
 
 For these unique standards, they can only be recovered on wallets that support that standard. If your wallet does not "understand" how your seed phrase created, it will not understand how to recover it either.
 
@@ -157,6 +157,6 @@ Furthermore, an extended private key can have a corresponding extended public ke
 
 - [BIP39 Wallet List - Mnemonic Seed Phrase (Updated 2023)](https://www.blockplate.com/blogs/blockplate/list-of-bip39-wallets-mnemonic-seed)
 - [How To Get Your Trust Wallet Private Key (And Export) - IsItCrypto](https://isitcrypto.com/get-trust-wallet-private-key/)
-- [GitHub - iancoleman/bip39: A web tool for converting BIP39 mnemonic codes](https://github.com/iancoleman/bip39)
+- [GitHub - iancoleman/bip39: A web tool for converting BIP39 mnemonic codes](https://github.com/iancoleman/bip39) ⭐ 4.1k
 - [All bitcoin private keys](https://lbc.cryptoguru.org/dio/1)
 - [User Guide: Secret Recovery Phrase, password, and private keys - MetaMask](https://support.metamask.io/hc/en-us/articles/4404722782107-User-Guide-Secret-Recovery-Phrase-password-and-private-keys)

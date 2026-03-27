@@ -171,9 +171,9 @@ How do certificates get validated?
 
 https://howhttps.works/certificate-authorities
 
-[GitHub - letsencrypt/boulder: An ACME-based certificate authority, written in Go.](https://github.com/letsencrypt/boulder)
+[GitHub - letsencrypt/boulder: An ACME-based certificate authority, written in Go.](https://github.com/letsencrypt/boulder) ⭐ 5.7k
 
-- This is an implementation of an ACME-based CA. The [ACME protocol](https://github.com/ietf-wg-acme/acme/) allows the CA to automatically verify that an applicant for a certificate actually controls an identifier, and allows domain holders to issue and revoke certificates for their domains. Boulder is the software that runs [Let's Encrypt](https://letsencrypt.org/).
+- This is an implementation of an ACME-based CA. The [ACME protocol](https://github.com/ietf-wg-acme/acme/) ⭐ 943 allows the CA to automatically verify that an applicant for a certificate actually controls an identifier, and allows domain holders to issue and revoke certificates for their domains. Boulder is the software that runs [Let's Encrypt](https://letsencrypt.org/).
 
 ## CSR (Certificate Signing Request)
 

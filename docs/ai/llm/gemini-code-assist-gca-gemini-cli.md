@@ -7,7 +7,7 @@
 - [How I Turned Gemini CLI into a Multi-Agent System with Just Prompts](https://aipositive.substack.com/p/how-i-turned-gemini-cli-into-a-multi)
 - [Gemini CLI's Public Roadmap: A Glimpse into the Future of AI in the Terminal \[July'25\]](https://aipositive.substack.com/p/gemini-clis-public-roadmap-a-glimpse)
 - [From Tool to Teammate: Crafting AI Personas with Gemini CLI Extensions](https://aipositive.substack.com/p/from-tool-to-teammate-crafting-ai)
-- [GitHub - pauldatta/gemini-cli-figma-to-code-demo](https://github.com/pauldatta/gemini-cli-figma-to-code-demo)
+- [GitHub - pauldatta/gemini-cli-figma-to-code-demo](https://github.com/pauldatta/gemini-cli-figma-to-code-demo) ⭐ 2
 - [Google Gemini CLI Cheatsheet](https://www.philschmid.de/gemini-cli-cheatsheet)
 - [Gemini Code Assist Standard and Enterprise overview  \|  Gemini for Google Cloud](https://cloud.google.com/gemini/docs/codeassist/overview)
 - [Gemini Code Assist release notes  \|  Gemini for Google Cloud](https://cloud.google.com/gemini/docs/codeassist/release-notes)

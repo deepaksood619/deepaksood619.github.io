@@ -1,8 +1,8 @@
 # SEO Tools
 
-- [GitHub - serpapi/awesome-seo-tools: Curated list of awesome SEO tools](https://github.com/serpapi/awesome-seo-tools)
+- [GitHub - serpapi/awesome-seo-tools: Curated list of awesome SEO tools](https://github.com/serpapi/awesome-seo-tools) ⭐ 885
 	- [Awesome SEO tools list](https://seotoolslist.org/#/)
-- [GitHub - madawei2699/awesome-seo: Google SEO Research and Web Traffic Monetization](https://github.com/madawei2699/awesome-seo)
+- [GitHub - madawei2699/awesome-seo: Google SEO Research and Web Traffic Monetization](https://github.com/madawei2699/awesome-seo) ⭐ 2.6k
 - [Moz - Google Algorithm Update History](https://moz.com/google-algorithm-change)
 
 ## Google Tools

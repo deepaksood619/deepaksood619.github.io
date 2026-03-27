@@ -79,30 +79,30 @@ https://rethinkdb.com
 - [Alibaba Graph Database](https://cn.aliyun.com/product/gdb)- A real-time, reliable, cloud-native graph database service that supports property graph model.
 - [Amazon Neptune](https://aws.amazon.com/neptune/)- Fully-managed graph database service.
 - [Ultimate Scalable Graph Database: ArangoDB for Real-World Use Cases](https://arangodb.com/)
-    - [GitHub - arangodb/arangodb: 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.](https://github.com/arangodb/arangodb)
-- [Bitsy](https://github.com/lambdazen/bitsy/wiki)- A small, fast, embeddable, durable in-memory graph database.
-- [Blazegraph](https://github.com/blazegraph/tinkerpop3)- RDF graph database with OLTP support.
+    - [GitHub - arangodb/arangodb: 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.](https://github.com/arangodb/arangodb) ⭐ 14k
+- [Bitsy](https://github.com/lambdazen/bitsy/wiki) ⭐ 149- A small, fast, embeddable, durable in-memory graph database.
+- [Blazegraph](https://github.com/blazegraph/tinkerpop3) ⭐ 62- RDF graph database with OLTP support.
 - [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction)- Microsoft's distributed OLTP graph database.
-- [ChronoGraph](https://github.com/MartinHaeusler/chronos/tree/master/org.chronos.chronograph)- A versioned graph database.
+- [ChronoGraph](https://github.com/MartinHaeusler/chronos/tree/master/org.chronos.chronograph) ⭐ 53- A versioned graph database.
 - [DSEGraph](https://www.datastax.com/products/datastax-enterprise-graph)- DataStax graph database with OLTP and OLAP support.
 - [GRAKN.AI](https://grakn.ai/)- Distributed OLTP/OLAP knowledge graph system.
 - [Hadoop (Spark)](https://tinkerpop.apache.org/docs/current/reference/#sparkgraphcomputer)- OLAP graph processor using Spark.
-- [HGraphDB](https://github.com/rayokota/hgraphdb)- OLTP graph database running on Apache HBase.
+- [HGraphDB](https://github.com/rayokota/hgraphdb) ⭐ 263- OLTP graph database running on Apache HBase.
 - [Huawei Graph Engine Service](https://www.huaweicloud.com/en-us/product/ges.html)- Fully-managed, distributed, at-scale graph query and analysis service that provides a visualized interactive analytics platform.
 - IBM Graph- OLTP graph database as a service.
 - [JanusGraph](http://janusgraph.org/)- Distributed OLTP and OLAP graph database with BerkeleyDB, Apache Cassandra and Apache HBase support.
-- [JanusGraph (Amazon)](https://github.com/awslabs/dynamodb-janusgraph-storage-backend/)- The Amazon DynamoDB Storage Backend for JanusGraph.
+- [JanusGraph (Amazon)](https://github.com/awslabs/dynamodb-janusgraph-storage-backend/) ⭐ 446- The Amazon DynamoDB Storage Backend for JanusGraph.
 	- https://medium.com/terminusdb/graph-fundamentals-part-1-rdf-60dcf8d0c459
-- [neo4j-gremlin-bolt](https://github.com/SteelBridgeLabs/neo4j-gremlin-bolt)- OLTP graph database (using Bolt Protocol).
-- [OrientDB](https://github.com/orientechnologies/orientdb-gremlin)- OLTP graph database
+- [neo4j-gremlin-bolt](https://github.com/SteelBridgeLabs/neo4j-gremlin-bolt) ⭐ 0- OLTP graph database (using Bolt Protocol).
+- [OrientDB](https://github.com/orientechnologies/orientdb-gremlin) ⭐ 96- OLTP graph database
 - [Apache S2Graph](https://s2graph.apache.org/)- OLTP graph database running on Apache HBase.
-- [Sqlg](https://github.com/pietermartin/sqlg)- OLTP implementation on SQL databases.
+- [Sqlg](https://github.com/pietermartin/sqlg) ⭐ 257- OLTP implementation on SQL databases.
 - [Stardog](https://stardog.com/)- RDF graph database with OLTP and OLAP support.
 - [TinkerGraph](https://tinkerpop.apache.org/docs/current/reference/#tinkergraph-gremlin)- In-memory OLTP and OLAP reference implementation.
 - Titan - Distributed OLTP and OLAP graph database with BerkeleyDB, Apache Cassandra and Apache HBase support.
-- [Titan (Amazon)](https://github.com/awslabs/dynamodb-titan-storage-backend)- The Amazon DynamoDB storage backend for Titan.
-- [Titan (Tupl)](https://github.com/classmethod/tupl-titan-storage-backend)- The Tupl storage backend for Titan.
-- [Unipop](https://github.com/rmagen/unipop)- OLTP Elasticsearch and JDBC backed graph.
+- [Titan (Amazon)](https://github.com/awslabs/dynamodb-titan-storage-backend) ⭐ 446- The Amazon DynamoDB storage backend for Titan.
+- [Titan (Tupl)](https://github.com/classmethod/tupl-titan-storage-backend) ⭐ 29- The Tupl storage backend for Titan.
+- [Unipop](https://github.com/rmagen/unipop) ⭐ 208- OLTP Elasticsearch and JDBC backed graph.
 - http://tinkerpop.apache.org
 
 Examples

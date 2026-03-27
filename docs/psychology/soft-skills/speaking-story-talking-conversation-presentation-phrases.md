@@ -74,7 +74,7 @@ Always tell stories, most visual stories are the best, and simple
 ## Presentation Tools
 
 - [The HTML presentation framework | reveal.js](https://revealjs.com/)
-    - [GitHub - hakimel/reveal.js: The HTML Presentation Framework](https://github.com/hakimel/reveal.js)
+    - [GitHub - hakimel/reveal.js: The HTML Presentation Framework](https://github.com/hakimel/reveal.js) ⭐ 71k
     - [Slides for Developers](https://slides.com/news/developers)
     - [Demo \| reveal.js](https://revealjs.com/demo/)
     - [Installation \| reveal.js](https://revealjs.com/installation/)
@@ -87,13 +87,13 @@ Always tell stories, most visual stories are the best, and simple
     - [Interactive presentation software - Mentimeter](https://www.mentimeter.com)
     - [AhaSlides - The Joy of Engagement](https://ahaslides.com/)
     - [Claper - The ultimate tool to interact with your audience](https://claper.co/)
-        - [GitHub - ClaperCo/Claper: The ultimate tool to interact with your audience](https://github.com/ClaperCo/Claper)
+        - [GitHub - ClaperCo/Claper: The ultimate tool to interact with your audience](https://github.com/ClaperCo/Claper) ⭐ 718
     - [Menti - Mentimeter - Interactive presentation software](https://www.mentimeter.com/)
     - [Kahoot! \| Learning games \| Make learning awesome!](https://kahoot.com/)
 - [Piggy | Mobile Content Creator 🐷](https://piggy.to/)
 - [Marp: Markdown Presentation Ecosystem](https://marp.app/)
-- [GitHub - googleworkspace/md2googleslides: Generate Google Slides from markdown · GitHub](https://github.com/googleworkspace/md2googleslides)
-- [GitHub - gnab/remark: A simple, in-browser, markdown-driven slideshow tool. · GitHub](https://github.com/gnab/remark)
+- [GitHub - googleworkspace/md2googleslides: Generate Google Slides from markdown · GitHub](https://github.com/googleworkspace/md2googleslides) ⭐ 4.7k
+- [GitHub - gnab/remark: A simple, in-browser, markdown-driven slideshow tool. · GitHub](https://github.com/gnab/remark) ⭐ 13k
 
 ### Ideas
 

@@ -16,7 +16,7 @@ https://www.toptal.com/kubernetes/k8s-aws-vs-gcp-vs-azure-aks-eks-gke
 
 ## Kaniko
 
-[Kaniko](https://github.com/GoogleContainerTools/kaniko) is an open source tool to build container images within Kubernetes
+[Kaniko](https://github.com/GoogleContainerTools/kaniko) ⭐ 16k is an open source tool to build container images within Kubernetes
 
 It can build an image using any standard Dockerfile
 
@@ -64,7 +64,7 @@ So Virtual Kubelet looks like a regular cluster node (it shows up in the output 
 
 https://jpetazzo.github.io/2019/02/13/running-kubernetes-without-nodes-with-kiyot
 
-Virtual Kubelet is an open source [Kubernetes kubelet](https://kubernetes.io/docs/reference/generated/kubelet/) implementation that masquerades as a kubelet for the purposes of connecting Kubernetes to other APIs. This allows the nodes to be backed by other services like ACI, AWS Fargate, [IoT Edge](https://github.com/Azure/iot-edge-virtual-kubelet-provider) etc. The primary scenario for VK is enabling the extension of the Kubernetes API into serverless container platforms like ACI and Fargate, though we are open to others. However, it should be noted that VK is explicitly not intended to be an alternative to Kubernetes federation.
+Virtual Kubelet is an open source [Kubernetes kubelet](https://kubernetes.io/docs/reference/generated/kubelet/) implementation that masquerades as a kubelet for the purposes of connecting Kubernetes to other APIs. This allows the nodes to be backed by other services like ACI, AWS Fargate, [IoT Edge](https://github.com/Azure/iot-edge-virtual-kubelet-provider) ⭐ 91 etc. The primary scenario for VK is enabling the extension of the Kubernetes API into serverless container platforms like ACI and Fargate, though we are open to others. However, it should be noted that VK is explicitly not intended to be an alternative to Kubernetes federation.
 
 Virtual Kubelet features a pluggable architecture and direct use of Kubernetes primitives, making it much easier to build on.
 
@@ -94,7 +94,7 @@ Benefits are broad and significant. Teams with a reliance on existing virtual ma
 
 https://github.com/kubemove/kubemove
 
-[**https://github.com/heptio/velero**](https://github.com/heptio/velero)
+[**https://github.com/heptio/velero**](https://github.com/heptio/velero) ⭐ 9.9k
 
 https://heptio.github.io/velero/master/migration-case.html
 
@@ -104,7 +104,7 @@ https://akomljen.com/kubernetes-backup-and-restore-with-velero
 
 ExternalDNS synchronizes exposed Kubernetes Services and Ingresses with DNS providers.
 
-Inspired by [Kubernetes DNS](https://github.com/kubernetes/dns), Kubernetes' cluster-internal DNS server, ExternalDNS makes Kubernetes resources discoverable via public DNS servers. Like KubeDNS, it retrieves a list of resources (Services, Ingresses, etc.) from the [Kubernetes API](https://kubernetes.io/docs/api/) to determine a desired list of DNS records.UnlikeKubeDNS, however, it's not a DNS server itself, but merely configures other DNS providers accordingly - e.g.[AWS Route 53](https://aws.amazon.com/route53/) or [Google Cloud DNS](https://cloud.google.com/dns/docs/).
+Inspired by [Kubernetes DNS](https://github.com/kubernetes/dns) ⭐ 1.0k, Kubernetes' cluster-internal DNS server, ExternalDNS makes Kubernetes resources discoverable via public DNS servers. Like KubeDNS, it retrieves a list of resources (Services, Ingresses, etc.) from the [Kubernetes API](https://kubernetes.io/docs/api/) to determine a desired list of DNS records.UnlikeKubeDNS, however, it's not a DNS server itself, but merely configures other DNS providers accordingly - e.g.[AWS Route 53](https://aws.amazon.com/route53/) or [Google Cloud DNS](https://cloud.google.com/dns/docs/).
 
 In a broader sense, ExternalDNS allows you to control DNS records dynamically via Kubernetes resources in a DNS provider-agnostic way.
 
@@ -153,7 +153,7 @@ https://forge.sh
 
 ## Sonobuoy
 
-Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of plugins (including [Kubernetes](https://github.com/kubernetes/kubernetes) conformance tests) in an accessible and non-destructive manner. It is a customizable, extendable, and cluster-agnostic way to generate clear, informative reports about your cluster.
+Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of plugins (including [Kubernetes](https://github.com/kubernetes/kubernetes) ⭐ 121k conformance tests) in an accessible and non-destructive manner. It is a customizable, extendable, and cluster-agnostic way to generate clear, informative reports about your cluster.
 
 Cluster operators
 

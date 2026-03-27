@@ -288,7 +288,7 @@ https://www.indiratrade.com/algo-trading
 
 https://www.trality.com
 
-[GitHub - JerBouma/AlgorithmicTrading: This repository contains three ways to obtain arbitrage which are Dual Listing, Options and Statistical Arbitrage. These are projects in collaboration with Optiver and have been peer-reviewed by staff members of Optiver.](https://github.com/JerBouma/AlgorithmicTrading)
+[GitHub - JerBouma/AlgorithmicTrading: This repository contains three ways to obtain arbitrage which are Dual Listing, Options and Statistical Arbitrage. These are projects in collaboration with Optiver and have been peer-reviewed by staff members of Optiver.](https://github.com/JerBouma/AlgorithmicTrading) ⭐ 1.1k
 
 ## Price action strategy
 

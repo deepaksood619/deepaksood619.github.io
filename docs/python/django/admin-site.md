@@ -114,10 +114,10 @@ Custom admin actions can be created for bulk operations in change list page
 ## Admin alternatives
 
 - [**https://djangopackages.org/grids/g/admin-interface/**](https://djangopackages.org/grids/g/admin-interface/)
-- [GitHub - saleor/saleor: Saleor Core: the high performance, composable, headless commerce API.](https://github.com/saleor/saleor) (21.7k stars)
+- [GitHub - saleor/saleor: Saleor Core: the high performance, composable, headless commerce API.](https://github.com/saleor/saleor) ⭐ 23k (21.7k stars)
 	- Customer-centric e-commerce on a modern stack
 	- A headless, GraphQL commerce platform delivering ultra-fast, dynamic, personalized shopping experiences. Beautiful online stores, anywhere, on any device.
-- **[GitHub - farridav/django-jazzmin: Jazzy theme for Django](https://github.com/farridav/django-jazzmin)**
+- **[GitHub - farridav/django-jazzmin: Jazzy theme for Django](https://github.com/farridav/django-jazzmin) ⭐ 1.9k**
 - https://github.com/sehmaschine/django-grappelli
 - https://github.com/darklow/django-suit
 - https://github.com/geex-arts/django-jet
@@ -126,7 +126,7 @@ Custom admin actions can be created for bulk operations in change list page
 - https://dev.to/sm0ke/django-boilerplate-code-open-source-and-free-2aa5
 - https://appseed.us/admin-dashboards/django-datta-able
 - React admin - https://github.com/marmelab/react-admin
-- [GitHub - iommirocks/iommi: Your first pick for a django power cord](https://github.com/iommirocks/iommi)
+- [GitHub - iommirocks/iommi: Your first pick for a django power cord](https://github.com/iommirocks/iommi) ⭐ 1.1k
 - [React Admin Demo - Posters Galore Administration](https://marmelab.com/react-admin-demo/#/)
 	- [React-Admin - The Open-Source Framework For B2B Apps](https://marmelab.com/react-admin/)
 

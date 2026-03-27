@@ -28,12 +28,12 @@ https://github.com/theonedev/onedev
 ### Github Actions - [Marketplace](https://github.com/marketplace)
 
 - [Setup Node.js environment - GitHub Marketplace](https://github.com/marketplace/actions/setup-node-js-environment)
-- [GitHub - peaceiris/actions-gh-pages: GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.](https://github.com/peaceiris/actions-gh-pages)
+- [GitHub - peaceiris/actions-gh-pages: GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.](https://github.com/peaceiris/actions-gh-pages) ⭐ 5.3k
 - [Checkout - GitHub Marketplace](https://github.com/marketplace/actions/checkout)
 - [Retry Step - GitHub Marketplace](https://github.com/marketplace/actions/retry-step)
 - [retry action - GitHub Marketplace](https://github.com/marketplace/actions/retry-action)
 - [Lighthouse CI Action · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/lighthouse-ci-action)
-- [GitHub - anishathalye/proof-html: A GitHub Action to validate HTML, check links, and more ✅](https://github.com/anishathalye/proof-html)
+- [GitHub - anishathalye/proof-html: A GitHub Action to validate HTML, check links, and more ✅](https://github.com/anishathalye/proof-html) ⭐ 117
 
 **Run github actions locally**
 
@@ -63,7 +63,7 @@ https://jenkinsci.github.io/kubernetes-operator
 
 ## Weave Flux
 
-Weaveworks are originally known for creating Weave Net, a container SDN now available as both a Docker plugin and Kubernetes CNI option. Today, the company offers an extensive and eye-candy dashboard and a cloud offering, Weave Cloud.[The Flux Operator](https://github.com/weaveworks/flux) for Kubernetes allows GitOps style CD & release management where operator fetches the changes from git push events and handles the deployments gracefully. It continuously tries to match the declaritive configuration to the actualy deployment in Kubernetes. The cloud offering also has nice UI and Prometheus integration which aims to help your Continuous Delivery pipelines.
+Weaveworks are originally known for creating Weave Net, a container SDN now available as both a Docker plugin and Kubernetes CNI option. Today, the company offers an extensive and eye-candy dashboard and a cloud offering, Weave Cloud.[The Flux Operator](https://github.com/weaveworks/flux) ⭐ 6.9k for Kubernetes allows GitOps style CD & release management where operator fetches the changes from git push events and handles the deployments gracefully. It continuously tries to match the declaritive configuration to the actualy deployment in Kubernetes. The cloud offering also has nice UI and Prometheus integration which aims to help your Continuous Delivery pipelines.
 
 ![image](../../media/DevOps-Others-Other-CICD-image2.jpg)
 
@@ -182,7 +182,7 @@ https://argoproj.github.io/argo-events/setup/kafka
 
 ## Semaphore
 
-- [GitHub - semaphoreio/semaphore: All-in-one delivery platform for AI-driven development.](https://github.com/semaphoreio/semaphore?tab=readme-ov-file)
+- [GitHub - semaphoreio/semaphore: All-in-one delivery platform for AI-driven development.](https://github.com/semaphoreio/semaphore?tab=readme-ov-file) ⭐ 1.5k
 - [About Semaphore \| Semaphore](https://docs.semaphore.io/CE/getting-started/about-semaphore)
 - [Continuous Integration & Delivery - Semaphore](https://semaphore.io/)
 - [Confluent Migrates from Jenkins to Semaphore - YouTube](https://www.youtube.com/watch?v=YSyv3fWpy_A)

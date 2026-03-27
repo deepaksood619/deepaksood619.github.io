@@ -4,7 +4,7 @@
 - Videos - https://animoto.com
 - Stock Photos - https://unsplash.com
 - https://nimbletext.com/Live
-- [GitHub - ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev)
+- [GitHub - ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev) ⭐ 120k
 	- [Free for Developers](https://free-for.dev)
 - [Open Source Alternatives to Proprietary Software](https://www.opensourcealternative.to/)
 - [Business Software and Services Reviews | G2](https://www.g2.com/)
@@ -77,7 +77,7 @@ A warehouse management system is software that helps companies manage and contro
 - https://wperp.com/81080/7-most-popular-open-source-hris-software-to-look-for-now-an-easy-comparison
 - https://www.lever.co
 - [sap](cloud/others/sap.md)
-- Best - **[GitHub - frappe/hrms: Open Source HR and Payroll Software](https://github.com/frappe/hrms)**
+- Best - **[GitHub - frappe/hrms: Open Source HR and Payroll Software](https://github.com/frappe/hrms) ⭐ 7.7k**
 - [Cadana \| Payroll Infrastructure for Emerging Markets](https://cadanapay.com/)
 - [Keka \| The HR Payroll software loved by businesses like yours](https://www.keka.com)
 - [Multiplier \| The World's Leading Global Human Platform](https://www.usemultiplier.com/)
@@ -85,7 +85,7 @@ A warehouse management system is software that helps companies manage and contro
 ## Education
 
 - [Superset | Automate Campus Placement and Campus Recruitment](https://joinsuperset.com/) - For Colleges
-- moodle - [GitHub - moodle/moodle: Moodle - the world's open source learning platform](https://github.com/moodle/moodle) - [Home | Moodle.org](https://moodle.org/)
+- moodle - [GitHub - moodle/moodle: Moodle - the world's open source learning platform](https://github.com/moodle/moodle) ⭐ 6.9k - [Home | Moodle.org](https://moodle.org/)
 - [Ethos Open Software | Ellucian](https://www.ellucian.com/solutions/ellucian-ethos)
 
 ## Telegram
@@ -172,7 +172,7 @@ If someone accidentally adds dots to your address when emailing you, you'll sti
 
 ## Google Photos Alternative
 
-- [GitHub - immich-app/immich: High performance self-hosted photo and video management solution.](https://github.com/immich-app/immich)
+- [GitHub - immich-app/immich: High performance self-hosted photo and video management solution.](https://github.com/immich-app/immich) ⭐ 96k
 	- [Home \| Immich](https://immich.app/)
 	- [Do you use immich as a primary backup? : r/immich](https://www.reddit.com/r/immich/comments/15w8o1e/do_you_use_immich_as_a_primary_backup/)
 	- [Backup Script \| Immich](https://immich.app/docs/guides/template-backup-script/)
@@ -239,7 +239,7 @@ MuleSoft is a platform that gives IT the tools to automate everything. This incl
 
 - [Shopflo · A checkout that converts](https://shopflo.com/)
 - Stripe
-	- [GitHub - dj-stripe/dj-stripe: dj-stripe automatically syncs your Stripe Data to your local database as pre-implemented Django Models allowing you to use the Django ORM, in your code, to work with the data making it easier and faster.](https://github.com/dj-stripe/dj-stripe)
+	- [GitHub - dj-stripe/dj-stripe: dj-stripe automatically syncs your Stripe Data to your local database as pre-implemented Django Models allowing you to use the Django ORM, in your code, to work with the data making it easier and faster.](https://github.com/dj-stripe/dj-stripe) ⭐ 1.8k
 - [Social media makes you famous. Nas.io helps you pay rent.](https://nas.io/india)
 - Razorpay
 - Lotuspay
@@ -260,7 +260,7 @@ MuleSoft is a platform that gives IT the tools to automate everything. This incl
 - Intuit - QuickBooks
 	- [Use workflows to automate your business processes](https://quickbooks.intuit.com/learn-support/en-us/help-article/feature-preferences/use-workflows-quickbooks-online-advanced-send/L6uaB8H5G_US_en_US)
 - [Paying for software is stupid… 10 free and open-source SaaS replacements - YouTube](https://www.youtube.com/watch?v=e5dhaQm_J6U)
-- [GitHub - 738/awesome-url-shortener: 🔗 A curated list of awesome url shortener](https://github.com/738/awesome-url-shortener)
+- [GitHub - 738/awesome-url-shortener: 🔗 A curated list of awesome url shortener](https://github.com/738/awesome-url-shortener) ⭐ 994
 	- [Bitly Connections Platform \| Short URLs, QR Codes, and More](https://bitly.com/)
 		- [The Bitly QR Code Inspiration Gallery](https://bitly.com/pages/resources/qr-code-inspiration-gallery/)
 	- [Dub.co - Link Management for Modern Marketing Teams](https://dub.co/)

@@ -46,9 +46,9 @@ The following cloud providers are currently supported/planned:
 - Alibaba Cloud (alpha)
 - Oracle Cloud Infrastructure (alpha)
 
-[GitHub - nccgroup/ScoutSuite: Multi-Cloud Security Auditing Tool](https://github.com/nccgroup/ScoutSuite)
+[GitHub - nccgroup/ScoutSuite: Multi-Cloud Security Auditing Tool](https://github.com/nccgroup/ScoutSuite) ⭐ 7.6k
 
-[Docker Image · nccgroup/ScoutSuite Wiki · GitHub](https://github.com/nccgroup/ScoutSuite/wiki/Docker-Image)
+[Docker Image · nccgroup/ScoutSuite Wiki · GitHub](https://github.com/nccgroup/ScoutSuite/wiki/Docker-Image) ⭐ 7.6k
 
 ### Running scoutsuite (Download scoutsuite repo)
 
@@ -79,7 +79,7 @@ https://cloudcustodian.io
 
 Security Content Automation Protocol ([SCAP](https://www.open-scap.org/#)) is U.S. standard maintained by National Institute of Standards and Technology ([NIST](https://www.open-scap.org/#)).
 
-[GitHub - OpenSCAP/openscap: NIST Certified SCAP 1.2 toolkit](https://github.com/OpenSCAP/openscap)
+[GitHub - OpenSCAP/openscap: NIST Certified SCAP 1.2 toolkit](https://github.com/OpenSCAP/openscap) ⭐ 1.7k
 
 ## Trivy
 
@@ -102,7 +102,7 @@ Scanners (what Trivy can find there):
 - Sensitive information and secrets
 - Software licenses
 
-[GitHub - aquasecurity/trivy: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more](https://github.com/aquasecurity/trivy)
+[GitHub - aquasecurity/trivy: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more](https://github.com/aquasecurity/trivy) ⭐ 34k
 
 [Trivy Home - Trivy](https://trivy.dev/)
 
@@ -118,7 +118,7 @@ As you embrace Infrastructure as Code (IaC) such as [Terraform](https://www.terr
 
 [runterrascan.io](https://runterrascan.io/)
 
-[GitHub - tenable/terrascan: Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.](https://github.com/tenable/terrascan)
+[GitHub - tenable/terrascan: Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.](https://github.com/tenable/terrascan) ⭐ 5.2k
 
 [What is Terrascan: Benefits, Key Features, and Examples | env0](https://www.env0.com/blog/best-iac-scan-tools-what-is-terrascan)
 
@@ -130,7 +130,7 @@ Gitleaks is a SAST tool for **detecting** and **preventing** hardcoded secrets l
 
 [Gitleaks](https://gitleaks.io/)
 
-[GitHub - gitleaks/gitleaks: Protect and discover secrets using Gitleaks 🔑](https://github.com/gitleaks/gitleaks)
+[GitHub - gitleaks/gitleaks: Protect and discover secrets using Gitleaks 🔑](https://github.com/gitleaks/gitleaks) ⭐ 26k
 
 ## Others
 

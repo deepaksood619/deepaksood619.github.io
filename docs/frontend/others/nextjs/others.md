@@ -46,11 +46,11 @@ SWR has you covered in all aspects of speed, correctness, and stability to help 
 
 [Next.js 11 - JWT Authentication Tutorial with Example App | Jason Watmore's Blog](https://jasonwatmore.com/post/2021/08/04/next-js-11-jwt-authentication-tutorial-with-example-app)
 
-[next.js/examples/with-passport-and-next-connect at canary · vercel/next.js · GitHub](https://github.com/vercel/next.js/tree/canary/examples/with-passport-and-next-connect)
+[next.js/examples/with-passport-and-next-connect at canary · vercel/next.js · GitHub](https://github.com/vercel/next.js/tree/canary/examples/with-passport-and-next-connect) ⭐ 139k
 
-[next.js/examples/with-next-auth at canary · vercel/next.js · GitHub](https://github.com/vercel/next.js/tree/canary/examples/with-next-auth)
+[next.js/examples/with-next-auth at canary · vercel/next.js · GitHub](https://github.com/vercel/next.js/tree/canary/examples/with-next-auth) ⭐ 139k
 
-[next.js/examples/with-graphql-react at canary · vercel/next.js · GitHub](https://github.com/vercel/next.js/tree/canary/examples/with-graphql-react)
+[next.js/examples/with-graphql-react at canary · vercel/next.js · GitHub](https://github.com/vercel/next.js/tree/canary/examples/with-graphql-react) ⭐ 139k
 
 [Introducing Next.js Commerce 2.0 - Vercel](https://vercel.com/blog/introducing-next-js-commerce-2-0)
 

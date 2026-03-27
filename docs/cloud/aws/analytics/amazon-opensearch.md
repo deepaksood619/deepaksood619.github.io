@@ -75,7 +75,7 @@ This is the most direct and modern approach for analyzing Parquet data in S3 wit
 - **Direct Querying:** OpenSearch Service can be configured to directly query data stored in S3 buckets, including Parquet files. This allows you to run analytical queries and visualize insights on your S3 data directly within OpenSearch Dashboards without having to index the entire dataset.
 - **Configuration:** You configure an S3 data source within OpenSearch Service, defining tables and optionally setting up query acceleration. You then use OpenSearch Dashboards to query and visualize the data.
 
-[GitHub - aws-samples/aws-s3-to-opensearch-pipeline](https://github.com/aws-samples/aws-s3-to-opensearch-pipeline)
+[GitHub - aws-samples/aws-s3-to-opensearch-pipeline](https://github.com/aws-samples/aws-s3-to-opensearch-pipeline) ⭐ 10
 
 [Configuring and querying an S3 data source in OpenSearch Dashboards - Amazon OpenSearch Service](https://docs.aws.amazon.com/opensearch-service/latest/developerguide/direct-query-s3-configure.html)
 
@@ -112,7 +112,7 @@ If you require the full indexing capabilities of OpenSearch for faster search an
 ## OpenSearch Data Prepper
 
 - [OpenSearch Data Prepper - OpenSearch Documentation](https://opensearch.org/docs/latest/data-prepper/)
-- [GitHub - opensearch-project/data-prepper: OpenSearch Data Prepper is a component of the OpenSearch project that accepts, filters, transforms, enriches, and routes data at scale.](https://github.com/opensearch-project/data-prepper)
+- [GitHub - opensearch-project/data-prepper: OpenSearch Data Prepper is a component of the OpenSearch project that accepts, filters, transforms, enriches, and routes data at scale.](https://github.com/opensearch-project/data-prepper) ⭐ 359
 - [Overview of Amazon OpenSearch Ingestion - Amazon OpenSearch Service](https://docs.aws.amazon.com/opensearch-service/latest/developerguide/ingestion.html)
 
 ## Links

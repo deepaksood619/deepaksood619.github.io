@@ -64,7 +64,7 @@ https://www.tidio.com/blog/chatbot-framework
 
 ### Botpress
 
-[GitHub - botpress/botpress: The open-source hub to build & deploy GPT/LLM Agents ⚡️](https://github.com/botpress/botpress)
+[GitHub - botpress/botpress: The open-source hub to build & deploy GPT/LLM Agents ⚡️](https://github.com/botpress/botpress) ⭐ 15k
 
 `docker run -d --name=botpress -p 3000:3000 botpress/server`
 

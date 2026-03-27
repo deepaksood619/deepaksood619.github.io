@@ -13,7 +13,7 @@
 - https://anapioficeandfire.com
 - Twitter Developer APIs
 - [Pushshift | Guide](https://api.pushshift.io/guide)
-    - [GitHub - mattpodolak/pmaw: A multithread Pushshift.io API Wrapper for reddit.com comment and submission searches.](https://github.com/mattpodolak/pmaw)
+    - [GitHub - mattpodolak/pmaw: A multithread Pushshift.io API Wrapper for reddit.com comment and submission searches.](https://github.com/mattpodolak/pmaw) ⭐ 220
 - News API
     - [News API - Search News and Blog Articles on the Web](https://newsapi.org/)
     - [Free News API](https://www.newscatcherapi.com/free-news-api)
@@ -40,7 +40,7 @@
 
 [LocalStack - A fully functional local cloud stack](https://localstack.cloud/)
 
-[GitHub - localstack/localstack: 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline](https://github.com/localstack/localstack)
+[GitHub - localstack/localstack: 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline](https://github.com/localstack/localstack) ⭐ 65k
 
 **Fake S3 storage on Local - For local testing**
 

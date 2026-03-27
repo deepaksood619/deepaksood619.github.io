@@ -179,4 +179,4 @@ https://medium.com/containers-101/kubernetes-deployment-antipatterns-part-1-9e7b
 - https://github.com/jpetazzo/container.training
 - https://collabnix.github.io/kubelabs
 - https://www.infracloud.io/kubernetes-school
-- [GitHub - vijay2181/k8s-500-prod-issues](https://github.com/vijay2181/k8s-500-prod-issues/tree/main)
+- [GitHub - vijay2181/k8s-500-prod-issues](https://github.com/vijay2181/k8s-500-prod-issues/tree/main) ⭐ 730

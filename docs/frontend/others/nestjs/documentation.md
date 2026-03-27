@@ -120,6 +120,6 @@ https://github.com/typeorm/typeorm
 - [Hybrid application](https://docs.nestjs.com/faq/hybrid-application)
 - [HTTPS & multiple servers](https://docs.nestjs.com/faq/multiple-servers)
 - [Request lifecycle](https://docs.nestjs.com/faq/request-lifecycle)
-- [Examples](https://github.com/nestjs/nest/tree/master/sample)
+- [Examples](https://github.com/nestjs/nest/tree/master/sample) ⭐ 75k
 
 [**MIGRATION GUIDE**](https://docs.nestjs.com/migration-guide)

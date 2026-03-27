@@ -32,6 +32,6 @@ Recognizing the diversity in IaC languages, Checkov supports multiple syntaxes, 
 
 [checkov](https://www.checkov.io/)
 
-[GitHub - bridgecrewio/checkov: Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.](https://github.com/bridgecrewio/checkov)
+[GitHub - bridgecrewio/checkov: Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.](https://github.com/bridgecrewio/checkov) ⭐ 8.6k
 
 [Announcing Checkov 2.0: Deepening Open Source IaC Security](https://www.paloaltonetworks.com/blog/prisma-cloud/checkov-2-deepening-open-source-iac-security/)

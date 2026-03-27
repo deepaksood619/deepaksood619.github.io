@@ -36,8 +36,8 @@ In this way the curriculum itself has more creative learning through arts, cooki
 - [Free Homeschool Technology Curriculum](https://freedomhomeschooling.com/technology/)
 - [YAPA Kids](https://www.yapakids.org/)
 - [Homeschooling Curriculum: What You Need to Know - 21K School India](https://www.21kschool.com/in/blog/homeschooling-curriculum/)
-- [GitHub - muriloime/awesome-homeschooling](https://github.com/muriloime/awesome-homeschooling)
-- [GitHub - mblayman/homeschool: An app for homeschool planning](https://github.com/mblayman/homeschool)
+- [GitHub - muriloime/awesome-homeschooling](https://github.com/muriloime/awesome-homeschooling) ⭐ 21
+- [GitHub - mblayman/homeschool: An app for homeschool planning](https://github.com/mblayman/homeschool) ⭐ 241
 	- [The Best Homeschool Planner - Homeschool Planet](https://homeschoolplanet.com/)
 
 ## Homeschooling India

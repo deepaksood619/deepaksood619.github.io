@@ -28,7 +28,7 @@ A suite of 23 challenging BIG-Bench tasks which we call BIG-Bench Hard (BBH). Th
 
 The Beyond the Imitation Game Benchmark (BIG-bench) is a _collaborative_ benchmark intended to probe large language models and extrapolate their future capabilities.
 
-[GitHub - google/BIG-bench: Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models](https://github.com/google/BIG-bench)
+[GitHub - google/BIG-bench: Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models](https://github.com/google/BIG-bench) ⭐ 3.2k
 
 [Common Crawl - Blog - October 2024 Crawl Archive Now Available](https://www.commoncrawl.org/blog/october-2024-crawl-archive-now-available)
 
@@ -73,7 +73,7 @@ H and DS use similar datasets, and DS is basically the next-gen version of H. Wh
 
 [What is the difference between TPC-H and TPC-DS benchmarks? | by Albert Wong | Oct, 2023 | Medium](https://atwong.medium.com/what-is-the-difference-between-tpc-h-and-tpc-ds-benchmarks-cb92fc104c32)
 
-[GitHub - gregrahn/tpcds-kit: TPC-DS benchmark kit with some modifications/fixes](https://github.com/gregrahn/tpcds-kit)
+[GitHub - gregrahn/tpcds-kit: TPC-DS benchmark kit with some modifications/fixes](https://github.com/gregrahn/tpcds-kit) ⭐ 359
 
 ## Others
 
@@ -81,17 +81,17 @@ H and DS use similar datasets, and DS is basically the next-gen version of H. Wh
 	- This small database consists of seven tables: two fact tables and five dimensions
 - [miriad/miriad-4.4M · Datasets at Hugging Face](https://huggingface.co/datasets/miriad/miriad-4.4M)
 - [Stock Market Dataset \| Kaggle](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset)
-- [GitHub - lorint/AdventureWorks-for-Postgres: Set up the AdventureWorks sample database for use with Postgres](https://github.com/lorint/AdventureWorks-for-Postgres)
+- [GitHub - lorint/AdventureWorks-for-Postgres: Set up the AdventureWorks sample database for use with Postgres](https://github.com/lorint/AdventureWorks-for-Postgres) ⭐ 467
 	- [AdventureWorks Sample Databases - SQL Server \| Microsoft Learn](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure)
 
 ## Tools
 
 - Croissant
     - [Croissant: a metadata format for ML-ready datasets](https://research.google/blog/croissant-a-metadata-format-for-ml-ready-datasets/)
-    - [GitHub - mlcommons/croissant: Croissant is a high-level format for machine learning datasets that brings together four rich layers.](https://github.com/mlcommons/croissant)
+    - [GitHub - mlcommons/croissant: Croissant is a high-level format for machine learning datasets that brings together four rich layers.](https://github.com/mlcommons/croissant) ⭐ 804
 - Cat / Dog - https://bit.ly/ImgClsKeras
 
 ## Links
 
 - [5 Free Datasets to Kickstart Your Machine Learning Projects Today - MachineLearningMastery.com](https://machinelearningmastery.com/5-free-datasets-to-kickstart-your-machine-learning-projects-today/)
-- [GitHub - zhukovyuri/VIINA: VIINA: Violent Incident Information from News Articles on the 2022 Russian Invasion of Ukraine](https://github.com/zhukovyuri/VIINA)
+- [GitHub - zhukovyuri/VIINA: VIINA: Violent Incident Information from News Articles on the 2022 Russian Invasion of Ukraine](https://github.com/zhukovyuri/VIINA) ⭐ 339

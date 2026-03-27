@@ -32,7 +32,7 @@ If you export a function called `getStaticProps` (Static Site Generation) from a
 
 ### Prisma ORM
 
-[GitHub - prisma/prisma: Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB](https://github.com/prisma/prisma)
+[GitHub - prisma/prisma: Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB](https://github.com/prisma/prisma) ⭐ 46k
 
 [Using Prisma ORM with MongoDB in Next.js | by Eshwaren M | ITNEXT](https://itnext.io/using-prisma-orm-with-mongodb-in-next-js-e42b1f7543e6)
 
@@ -42,13 +42,13 @@ If you export a function called `getStaticProps` (Static Site Generation) from a
 
 ### Mongoose
 
-[GitHub - Automattic/mongoose: MongoDB object modeling designed to work in an asynchronous environment.](https://github.com/Automattic/mongoose)
+[GitHub - Automattic/mongoose: MongoDB object modeling designed to work in an asynchronous environment.](https://github.com/Automattic/mongoose) ⭐ 27k
 
 [Using Mongoose with Next.js 11. A simple guide on how to use the… | by Eshwaren M | ITNEXT](https://itnext.io/using-mongoose-with-next-js-11-b2a08ff2dd3c)
 
 ### TypeORM
 
-[GitHub - typeorm/typeorm: ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.](https://github.com/typeorm/typeorm)
+[GitHub - typeorm/typeorm: ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.](https://github.com/typeorm/typeorm) ⭐ 36k
 
 ## Caching
 

@@ -11,7 +11,7 @@
 
 ## References
 
-[GitHub - heartexlabs/awesome-data-labeling: A curated list of awesome data labeling tools](https://github.com/heartexlabs/awesome-data-labeling)
+[GitHub - heartexlabs/awesome-data-labeling: A curated list of awesome data labeling tools](https://github.com/heartexlabs/awesome-data-labeling) ⭐ 4.3k
 
 [Data Labeling Software: Best Tools for Data Labeling - neptune.ai](https://neptune.ai/blog/data-labeling-software)
 

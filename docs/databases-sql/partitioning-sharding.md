@@ -109,7 +109,7 @@ Contrary to range-based sharding, where all keys can be put in order, hash-based
 
 ![image](../media/Partitioning-Sharding-image6.jpg)
 
-Some typical examples of hash-based sharding are [Cassandra Consistent hashing](https://docs.datastax.com/en/archived/cassandra/2.1/cassandra/architecture/architectureDataDistributeHashing_c.html), presharding of Redis Cluster and [Codis](https://github.com/CodisLabs/codis), and [Twemproxy consistent hashing](https://github.com/twitter/twemproxy/blob/master/README#features).
+Some typical examples of hash-based sharding are [Cassandra Consistent hashing](https://docs.datastax.com/en/archived/cassandra/2.1/cassandra/architecture/architectureDataDistributeHashing_c.html), presharding of Redis Cluster and [Codis](https://github.com/CodisLabs/codis) ⭐ 13k, and [Twemproxy consistent hashing](https://github.com/twitter/twemproxy/blob/master/README#features) ⭐ 12k.
 
 ### Range based sharding
 

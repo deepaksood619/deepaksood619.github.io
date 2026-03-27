@@ -60,7 +60,7 @@ Below are my 2400+ notes & their relations visualized using Obsidian.
 
 ![All Notes Visualized Zoomed in an Obsidian Graph](media/notes-visualized-zoom.jpg)
 
-This wiki is large. 280,000+ lines of markdown (calculated with [loc](https://github.com/cgag/loc))
+This wiki is large. 280,000+ lines of markdown (calculated with [loc](https://github.com/cgag/loc) ⭐ 2.4k)
 
 ```bash
 loc
@@ -84,7 +84,7 @@ loc
 
 This garden is quite literally my digital brain. It includes my thoughts, notes and links on topics I care about.
 
-I update the notes daily in my [github repo](https://github.com/deepaksood619/deepaksood619.github.io/), and build it few times in a month using Github Actions and Docusaurus.
+I update the notes daily in my [github repo](https://github.com/deepaksood619/deepaksood619.github.io/) ⭐ 34, and build it few times in a month using Github Actions and Docusaurus.
 
 The content being [markdown](languages/others/markdown) files, which after every commit to the builds the website using Docusaurus and publishes it to [deepaksood619.github.io](https://deepaksood619.github.io/) from which you are likely reading this page.
 

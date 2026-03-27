@@ -46,7 +46,7 @@ dbutils.jobs.taskValues.get(taskKey = "Get_user_data", key = "name", default = "
 
 Databricks CLI eXtensions - aka `dbx` is a CLI tool for development and advanced Databricks workflows management.
 
-[GitHub - databrickslabs/dbx: 🧱 Databricks CLI eXtensions - aka dbx is a CLI tool for development and advanced Databricks workflows management.](https://github.com/databrickslabs/dbx)
+[GitHub - databrickslabs/dbx: 🧱 Databricks CLI eXtensions - aka dbx is a CLI tool for development and advanced Databricks workflows management.](https://github.com/databrickslabs/dbx) ⭐ 455
 
 [dbx | github](https://dbx.readthedocs.io/en/latest/)
 
@@ -162,6 +162,6 @@ workflow = Workflow(
 - Add NotebookTask for running notebooks
 - Add source to GIT
 
-[GitHub - rafaelpierre/pyjaws: PyJaws: A Pythonic Way to Define Databricks Jobs and Workflows](https://github.com/rafaelpierre/pyjaws)
+[GitHub - rafaelpierre/pyjaws: PyJaws: A Pythonic Way to Define Databricks Jobs and Workflows](https://github.com/rafaelpierre/pyjaws) ⭐ 45
 
-[pyjaws/pyjaws/pyjaws/api/tasks.py at main · rafaelpierre/pyjaws · GitHub](https://github.com/rafaelpierre/pyjaws/blob/main/pyjaws/pyjaws/api/tasks.py)
+[pyjaws/pyjaws/pyjaws/api/tasks.py at main · rafaelpierre/pyjaws · GitHub](https://github.com/rafaelpierre/pyjaws/blob/main/pyjaws/pyjaws/api/tasks.py) ⭐ 45

@@ -108,7 +108,7 @@ Just add a module of UPSC in khan academy. It has everything.
 
 ## LMS (Learning Management System)
 
-- [GitHub - frappe/lms: Easy to Use, 100% Open Source Learning Management System](https://github.com/frappe/lms)
+- [GitHub - frappe/lms: Easy to Use, 100% Open Source Learning Management System](https://github.com/frappe/lms) ⭐ 2.8k
 	- [mon school - Free and open access online coding lessons.](https://mon.school/)
 - [Monetise your expertise - Graphy](https://graphy.com/)
 - [Edmingle - Build, Manage & Scale Your Online Academy](https://edmingle.com)

@@ -186,7 +186,7 @@ Preprocess datasets, run inference when you don't need a persistent endpoint, an
 ## Sagemaker Lifecycle configurations (Auto shutdown)
 
 - https://aws.amazon.com/blogs/machine-learning/save-costs-by-automatically-shutting-down-idle-resources-within-amazon-sagemaker-studio
-- [**https://github.com/aws-samples/sagemaker-studio-auto-shutdown-extension**](https://github.com/aws-samples/sagemaker-studio-auto-shutdown-extension)
+- [**https://github.com/aws-samples/sagemaker-studio-auto-shutdown-extension**](https://github.com/aws-samples/sagemaker-studio-auto-shutdown-extension) ⭐ 145
 - https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples
 - https://github.com/aws-samples/sagemaker-studio-auto-shutdown-extension/tree/main/auto-installer
 

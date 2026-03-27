@@ -2,9 +2,9 @@
 
 [Google Cloud Developer Cheat Sheet](https://googlecloudcheatsheet.withgoogle.com/)
 
-[GitHub - priyankavergadia/google-cloud-4-words: The Google Cloud Developer's Cheat Sheet](https://github.com/priyankavergadia/google-cloud-4-words)
+[GitHub - priyankavergadia/google-cloud-4-words: The Google Cloud Developer's Cheat Sheet](https://github.com/priyankavergadia/google-cloud-4-words) ⭐ 8.2k
 
-[GitHub - priyankavergadia/GCPSketchnote: If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.](https://github.com/priyankavergadia/GCPSketchnote)
+[GitHub - priyankavergadia/GCPSketchnote: If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.](https://github.com/priyankavergadia/GCPSketchnote) ⭐ 5.1k
 
 [Cloud Architecture Guidance and Topologies  |  Cloud Architecture Center  |  Google Cloud](https://cloud.google.com/architecture)
 
@@ -389,4 +389,4 @@ https://medium.com/google-cloud/13-most-common-google-cloud-reference-architectu
 
 ![image](../../media/Cloud-Others-Google-Cloud-Platform-Managed-Services-image5.jpg)
 
-[GitHub - GoogleCloudPlatform/data-analytics-golden-demo: An end to end demo of Google's Cloud data and analytic stack.](https://github.com/GoogleCloudPlatform/data-analytics-golden-demo)
+[GitHub - GoogleCloudPlatform/data-analytics-golden-demo: An end to end demo of Google's Cloud data and analytic stack.](https://github.com/GoogleCloudPlatform/data-analytics-golden-demo) ⭐ 286

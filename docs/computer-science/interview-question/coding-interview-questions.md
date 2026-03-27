@@ -102,7 +102,7 @@ len(list(permutations('abcde', 5)))
 
 - https://www.geeksforgeeks.org/must-coding-questions-company-wise
 - https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview
-- [hackerrank-solutions: A collection of solutions to competitive programming exercises on HackerRank.](https://github.com/kilian-hu/hackerrank-solutions/)
+- [hackerrank-solutions: A collection of solutions to competitive programming exercises on HackerRank.](https://github.com/kilian-hu/hackerrank-solutions/) ⭐ 426
 
 ## Interview
 

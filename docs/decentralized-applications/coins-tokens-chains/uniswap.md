@@ -37,6 +37,6 @@ Uniswap's **oracles are now far easier and cheaper to integrate**. V3 oracles ar
 
 #### Uniswap v4
 
-[GitHub - Uniswap/v4-core: 🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4](https://github.com/Uniswap/v4-core)
+[GitHub - Uniswap/v4-core: 🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4](https://github.com/Uniswap/v4-core) ⭐ 2.5k
 
 [Our Vision for Uniswap v4](https://blog.uniswap.org/uniswap-v4)

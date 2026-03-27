@@ -176,7 +176,7 @@ Apache Helix is a generic cluster management framework used for the automatic ma
 - [Ignite](http://ignite.apache.org/) - In-memory data fabric
 	- Distributed Database For High‑Performance Applications With In‑Memory Speed
 	- Apache Ignite is **an open-source, in-memory computing platform and distributed database** that provides high-performance caching, data storage, and processing for large-scale datasets, supporting SQL, key-value, and compute APIs for real-time analytics and transactions (HTAP) with features like ACID compliance and multi-tier storage. It functions as an in-memory data grid, accelerator for existing databases, or a standalone distributed database, offering horizontal scalability across on-premises, cloud, or hybrid environments.
-	- [GitHub - apache/ignite: Apache Ignite](https://github.com/apache/ignite)
+	- [GitHub - apache/ignite: Apache Ignite](https://github.com/apache/ignite) ⭐ 5.1k
 - [Impala](http://impala.apache.org/) - Distributed SQL on YARN
 - [Iceberg](technologies/apache/apache-iceberg.md)
 
@@ -352,7 +352,7 @@ https://engineering.linkedin.com/blog/2019/03/pinot-joins-apache-incubator
 ### Polaris
 
 - [Apache Polaris Graduates to Top-Level Project](https://www.snowflake.com/en/blog/apache-polaris-top-level-project/)
-- [GitHub - apache/polaris: Apache Polaris, the interoperable, open source catalog for Apache Iceberg](https://github.com/apache/polaris)
+- [GitHub - apache/polaris: Apache Polaris, the interoperable, open source catalog for Apache Iceberg](https://github.com/apache/polaris) ⭐ 1.9k
 - [Apache Polaris](https://polaris.apache.org/)
 - [What does Polaris mean for Apache Iceberg? : r/dataengineering](https://www.reddit.com/r/dataengineering/comments/1ekzwas/what_does_polaris_mean_for_apache_iceberg/)
 

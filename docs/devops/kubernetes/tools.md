@@ -53,7 +53,7 @@ Minikube supports Kubernetes features such as
 - NodePorts
 - ConfigMaps and Secrets
 - Dashboards
-- Container Runtime: Docker, [rkt](https://github.com/rkt/rkt), [CRI-O](https://github.com/kubernetes-incubator/cri-o) and [containerd](https://github.com/containerd/containerd)
+- Container Runtime: Docker, [rkt](https://github.com/rkt/rkt) ⭐ 8.8k, [CRI-O](https://github.com/kubernetes-incubator/cri-o) ⭐ 5.6k and [containerd](https://github.com/containerd/containerd) ⭐ 21k
 - Enabling CNI (Container Network Interface)
 - Ingress
 
@@ -363,9 +363,9 @@ Lens is the only IDE you'll ever need to take control of your Kubernetes cluster
 
 [Lens \| The Kubernetes IDE](https://k8slens.dev)
 
-[GitHub - lensapp/lens: Lens - The way the world runs Kubernetes](https://github.com/lensapp/lens)
+[GitHub - lensapp/lens: Lens - The way the world runs Kubernetes](https://github.com/lensapp/lens) ⭐ 23k
 
-Others - [GitHub - MuhammedKalkan/OpenLens: OpenLens Binary Build Repository](https://github.com/MuhammedKalkan/OpenLens)
+Others - [GitHub - MuhammedKalkan/OpenLens: OpenLens Binary Build Repository](https://github.com/MuhammedKalkan/OpenLens) ⭐ 4.4k
 
 ## Kind
 
@@ -417,7 +417,7 @@ https://www.youtube.com/watch?v=PW44JaAlI_8
 ## Kubecost
 
 - https://www.infracloud.io/blogs/kubernetes-cost-reporting-using-kubecost
-- Others - [GitHub - robscott/kube-capacity: A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster](https://github.com/robscott/kube-capacity)
+- Others - [GitHub - robscott/kube-capacity: A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster](https://github.com/robscott/kube-capacity) ⭐ 2.6k
 - [Kubernetes Requests and Limits: A Practical Guide and Solutions](https://blog.kubecost.com/blog/requests-and-limits/)
 - [Kubecost | Kubernetes cost monitoring and management](https://www.kubecost.com/)
 - [OpenCost — open source cost monitoring for cloud native environments](https://www.opencost.io/)
@@ -435,12 +435,12 @@ External Secrets Operator reads information from a third-party service like AWS 
 
 [Introduction - External Secrets Operator](https://external-secrets.io/latest/)
 
-[GitHub - external-secrets/external-secrets - GitHub](https://github.com/external-secrets/external-secrets)
+[GitHub - external-secrets/external-secrets - GitHub](https://github.com/external-secrets/external-secrets) ⭐ 6.5k
 
 ## Others
 
 - https://www.getporter.dev
 - https://spot.io/products/ocean
-- [GitHub - spekt8/spekt8: Visualize your Kubernetes cluster in real time](https://github.com/spekt8/spekt8)
-- [GitHub - aquasecurity/kube-bench: Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark](https://github.com/aquasecurity/kube-bench)
-- [GitHub - kubeshark/kubeshark: The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes](https://github.com/kubeshark/kubeshark)
+- [GitHub - spekt8/spekt8: Visualize your Kubernetes cluster in real time](https://github.com/spekt8/spekt8) ⭐ 740
+- [GitHub - aquasecurity/kube-bench: Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark](https://github.com/aquasecurity/kube-bench) ⭐ 8.0k
+- [GitHub - kubeshark/kubeshark: The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes](https://github.com/kubeshark/kubeshark) ⭐ 12k

@@ -1,6 +1,6 @@
 # Dockerfile example
 
-[GitHub - irbigdata/data-dockerfiles: a curated list of docker-compose files prepared for testing  data engineering tools, databases and open source libraries.](https://github.com/irbigdata/data-dockerfiles)
+[GitHub - irbigdata/data-dockerfiles: a curated list of docker-compose files prepared for testing  data engineering tools, databases and open source libraries.](https://github.com/irbigdata/data-dockerfiles) ⭐ 584
 
 ## Example 1
 

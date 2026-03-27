@@ -4,8 +4,8 @@
 
 - [openai/whisper-large-v3 · Hugging Face](https://huggingface.co/openai/whisper-large-v3)
 - Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.
-- [GitHub - openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper)
-- [GitHub - petewarden/spchcat: Speech recognition tool to convert audio to text transcripts, for Linux and Raspberry Pi.](https://github.com/petewarden/spchcat)
+- [GitHub - openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper) ⭐ 97k
+- [GitHub - petewarden/spchcat: Speech recognition tool to convert audio to text transcripts, for Linux and Raspberry Pi.](https://github.com/petewarden/spchcat) ⭐ 482
 - [The best dictation and speech-to-text software \| Zapier](https://zapier.com/blog/best-text-dictation-software/)
 - [REGAL \| The AI Agent Platform](https://www.regal.ai/)
 - [LiveKit](https://livekit.io/)
@@ -17,7 +17,7 @@
 
 **Personaplex** is a real-time speech-to-speech conversational model that jointly performs streaming speech understanding and speech generation. The model operates on continuous audio encoded with a neural codec and predicts both text tokens and audio tokens autoregressively to produce its spoken responses. Incoming user audio is incrementally encoded and fed to the model while Personaplex simultaneously generates its own outgoing speech, enabling natural conversational dynamics such as interruptions, barge-ins, overlaps, and rapid turn-taking. Personaplex runs in a dual-stream configuration in which listening and speaking occur concurrently. This design allows the model to update its internal state based on the user’s ongoing speech while still producing fluent output audio, supporting highly interactive conversations. Before the conversation begins, Personaplex is conditioned on two prompts: a voice prompt and a text prompt. The voice prompt consists of a sequence of audio tokens that establish the target vocal characteristics and speaking style. The text prompt specifies persona attributes such as role, background, and scenario context. Together, these prompts define the model's conversational identity and guide its linguistic and acoustic behavior throughout the interaction.
 
-- [GitHub - NVIDIA/personaplex: PersonaPlex code.](https://github.com/NVIDIA/personaplex)
+- [GitHub - NVIDIA/personaplex: PersonaPlex code.](https://github.com/NVIDIA/personaplex) ⭐ 5.9k
 - [nvidia/personaplex-7b-v1 · Hugging Face](https://huggingface.co/nvidia/personaplex-7b-v1)
 
 ## Call Transcribing
@@ -68,7 +68,7 @@ This fast turnaround is particularly valuable in call quality monitoring, where 
 - [Call Quality Monitoring Software with 100% AI \| Chatterscore](https://trellissoft.ai/products/chatterscore/)
 - [AI-Powered Quality Management and Performance Monitoring in Call Centers 1](https://callcenterstudio.com/blog/ai-powered-quality-management-and-performance-monitoring-in-call-centers/)
 - [10 Best Call Monitoring Software in 2024 - Enthu AI](https://enthu.ai/blog/call-center-quality-monitoring-software/)
-- [GitHub - jiaaro/pydub: Manipulate audio with a simple and easy high level interface](https://github.com/jiaaro/pydub)
+- [GitHub - jiaaro/pydub: Manipulate audio with a simple and easy high level interface](https://github.com/jiaaro/pydub) ⭐ 9.8k
 
 ## Text to Voice
 
@@ -77,13 +77,13 @@ This fast turnaround is particularly valuable in call quality monitoring, where 
 
 ## Voice ChatBot / Voice AI
 
-- [GitHub - KoljaB/RealtimeVoiceChat: Have a natural, spoken conversation with AI!](https://github.com/KoljaB/RealtimeVoiceChat)
-- [GitHub - bigsk1/voice-chat-ai: 🎙️ Speak with AI - Run locally using Ollama, OpenAI, Anthropic or xAI - Speech uses SparkTTS, OpenAI, ElevenLabs or Kokoro](https://github.com/bigsk1/voice-chat-ai)
-- [GitHub - kaymen99/AI-Voice-assistant: AI Voice Assistant: Talk to an AI agent that helps you with event scheduling, contact management, accessing your knowledge base, and web searches using simple voice commands](https://github.com/kaymen99/AI-Voice-assistant)
-- [GitHub - alinaqi/AIVoiceBot: Complete AI Based Voice Bot service for both inbound and outbound calls.](https://github.com/alinaqi/AIVoiceBot)
-- [GitHub - iamaziz/llm-voice-bot: Speak (speech-to-text) to LLMs (Ollama) in any lanaguage - Streamlit app https://deepwiki.com/iamaziz/llm-voice-bot](https://github.com/iamaziz/llm-voice-bot)
+- [GitHub - KoljaB/RealtimeVoiceChat: Have a natural, spoken conversation with AI!](https://github.com/KoljaB/RealtimeVoiceChat) ⭐ 3.6k
+- [GitHub - bigsk1/voice-chat-ai: 🎙️ Speak with AI - Run locally using Ollama, OpenAI, Anthropic or xAI - Speech uses SparkTTS, OpenAI, ElevenLabs or Kokoro](https://github.com/bigsk1/voice-chat-ai) ⭐ 410
+- [GitHub - kaymen99/AI-Voice-assistant: AI Voice Assistant: Talk to an AI agent that helps you with event scheduling, contact management, accessing your knowledge base, and web searches using simple voice commands](https://github.com/kaymen99/AI-Voice-assistant) ⭐ 66
+- [GitHub - alinaqi/AIVoiceBot: Complete AI Based Voice Bot service for both inbound and outbound calls.](https://github.com/alinaqi/AIVoiceBot) ⭐ 24
+- [GitHub - iamaziz/llm-voice-bot: Speak (speech-to-text) to LLMs (Ollama) in any lanaguage - Streamlit app https://deepwiki.com/iamaziz/llm-voice-bot](https://github.com/iamaziz/llm-voice-bot) ⭐ 47
 
-### [GitHub - freddyaboulton/fastrtc: The python library for real-time communication](https://github.com/freddyaboulton/fastrtc)
+### [GitHub - freddyaboulton/fastrtc: The python library for real-time communication](https://github.com/freddyaboulton/fastrtc) ⭐ 4.6k
 
 Turn any python function into a real-time audio and video stream over WebRTC or WebSockets.
 

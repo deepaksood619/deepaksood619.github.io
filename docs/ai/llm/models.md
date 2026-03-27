@@ -82,15 +82,15 @@
 
 ### Others
 
-- [GitHub - Hannibal046/Awesome-LLM: Awesome-LLM: a curated list of Large Language Model](https://github.com/Hannibal046/Awesome-LLM)
+- [GitHub - Hannibal046/Awesome-LLM: Awesome-LLM: a curated list of Large Language Model](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27k
 - [Grok \| xAI](https://x.ai/grok)
 - Vicuna
 - Bloom
 - [PartyRock](https://partyrock.aws/)
 - [SQLCoder-2–7b: How to Reliably Query Data in Natural Language, on Consumer Hardware | by Sjoerd Tiemensma | Use AI | Medium](https://medium.com/use-ai/sqlcoder-2-7b-how-to-reliably-query-data-in-natural-language-on-consumer-hardware-cb352a3cf3ab)
 - [Improve performance of Falcon models with Amazon SageMaker \| AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/improve-performance-of-falcon-models-with-amazon-sagemaker/)
-- [GitHub - unslothai/notebooks: Fine-tune LLMs for free with guided Notebooks on Google Colab, Kaggle, and more.](https://github.com/unslothai/notebooks/)
-	- [GitHub - unslothai/unsloth: Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥](https://github.com/unslothai/unsloth)
+- [GitHub - unslothai/notebooks: Fine-tune LLMs for free with guided Notebooks on Google Colab, Kaggle, and more.](https://github.com/unslothai/notebooks/) ⭐ 5.0k
+	- [GitHub - unslothai/unsloth: Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥](https://github.com/unslothai/unsloth) ⭐ 58k
 	- [DeepSeek-R1-0528: How to Run Locally \| Unsloth Documentation](https://docs.unsloth.ai/basics/deepseek-r1-0528-how-to-run-locally#fine-tuning-deepseek-r1-0528-with-unsloth)
 - [Command Models: The AI-Powered Solution for the Enterprise](https://cohere.com/command)
 - [Kimi K2: Open Agentic Intelligence](https://moonshotai.github.io/Kimi-K2/)
@@ -104,8 +104,8 @@
 	- [Mistral AI](https://docs.mistral.ai/getting-started/models/models_overview/)
 	- Mistral and Mixtral are both language models developed by Mistral AI, but they differ significantly in architecture and performance. **Mistral 7B** is a smaller, more efficient model, while **Mixtral 8x7B** is a larger, more powerful "mixture of experts" model. Mixtral generally outperforms Mistral 7B in most tasks, especially those requiring reasoning and complex language understanding, but it also requires more computational resources.
 - [Introducing Nova-2: The Fastest, Most Accurate Speech-to-Text API | Deepgram](https://deepgram.com/learn/nova-2-speech-to-text-api)
-- [GitHub - QwenLM/Qwen3: Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.](https://github.com/QwenLM/Qwen3)
-	- [GitHub - QwenLM/Qwen: The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.](https://github.com/QwenLM/Qwen)
+- [GitHub - QwenLM/Qwen3: Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.](https://github.com/QwenLM/Qwen3) ⭐ 27k
+	- [GitHub - QwenLM/Qwen: The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.](https://github.com/QwenLM/Qwen) ⭐ 21k
 	- [Qwen (Qwen)](https://huggingface.co/Qwen)
 	- Alibaba
 	- Qwen3-Coder-Flash - The 30B model excels in coding & agentic tasks. Run locally with 1M context length & in full precision with just 33GB RAM.
@@ -211,7 +211,7 @@ So... what's the deal with TTMs?
 
 - [Introducing our latest image generation model in the API \| OpenAI](https://openai.com/index/image-generation-api/)
 - gpt-image-1
-- [GitHub - harry0703/MoneyPrinterTurbo: 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.](https://github.com/harry0703/MoneyPrinterTurbo)
+- [GitHub - harry0703/MoneyPrinterTurbo: 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.](https://github.com/harry0703/MoneyPrinterTurbo) ⭐ 53k
 - [Google Vids: AI-powered video creator and editor \| Google Workspace](https://workspace.google.com/products/vids/)
 
 ## HuggingFace
@@ -228,7 +228,7 @@ So... what's the deal with TTMs?
 
 ### Transformer Models
 
-- [GitHub - huggingface/transformers: 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.](https://github.com/huggingface/transformers)
+- [GitHub - huggingface/transformers: 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.](https://github.com/huggingface/transformers) ⭐ 158k
 - [Hugging Face - The AI community building the future.](https://huggingface.co/)
 - [sentence-transformers/all-MiniLM-L6-v2 · Hugging Face](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 
@@ -239,7 +239,7 @@ So... what's the deal with TTMs?
 - [Get Tabnine](https://www.tabnine.com/install)
 - [Cursor - The AI-first Code Editor](https://cursor.sh/)
 - [mutable.ai. AI Accelerated Software Development.](https://mutable.ai/)
-- [GitHub - pollinations/pollinations: Free Open-Source Image and Text Generation](https://github.com/pollinations/pollinations)
+- [GitHub - pollinations/pollinations: Free Open-Source Image and Text Generation](https://github.com/pollinations/pollinations) ⭐ 4.2k
 	- [Sur](https://sur.pollinations.ai/)
 	- [Pollinations.AI](https://pollinations.ai/)
 - [Groq is fast inference for AI builders](https://groq.com/)
@@ -257,8 +257,8 @@ So... what's the deal with TTMs?
 - [Explore GPTs](https://chatgpt.com/gpts)
 - [vector-embeddings](ai/ml-algorithms/vector-embeddings.md)
 - [Should You Use Open Source Large Language Models? - YouTube](https://www.youtube.com/watch?v=y9k-U9AuDeM&ab_channel=IBMTechnology)
-- [GitHub - nichtdax/awesome-totally-open-chatgpt: A list of totally open alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
-- [GitHub - yaodongC/awesome-instruction-dataset: A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)](https://github.com/yaodongC/awesome-instruction-dataset)
+- [GitHub - nichtdax/awesome-totally-open-chatgpt: A list of totally open alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt) ⭐ 4.8k
+- [GitHub - yaodongC/awesome-instruction-dataset: A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)](https://github.com/yaodongC/awesome-instruction-dataset) ⭐ 1.1k
 - [llama.ttf](https://fuglede.github.io/llama.ttf/)
 - [The Perfect Cheating Machine? - Cal Newport](https://calnewport.com/the-perfect-cheating-machine/)
 - [linkedin.com/company/soketlabs/?originalSubdomain=in](https://www.linkedin.com/company/soketlabs/?originalSubdomain=in)

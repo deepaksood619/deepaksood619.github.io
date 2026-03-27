@@ -56,7 +56,7 @@ Katalon Runtime Engine (KRE)is the test execution add-on of Katalon Studio. KRE 
 
 [Katalon AI-augmented Test Automation Platform](https://www.katalon.com)
 
-[GitHub - katalon-studio/katalon-studio](https://github.com/katalon-studio/katalon-studio)
+[GitHub - katalon-studio/katalon-studio](https://github.com/katalon-studio/katalon-studio) ⭐ 364
 
 ## Browserstack
 
@@ -108,7 +108,7 @@ Build and test software of any size, quickly and reliably.
 - [Applitools - AI-Powered Visual Test Automation](https://applitools.com/)
 - [AI Testing Tool | Automated AI Testing - Momentic](https://momentic.ai/) - No QA Required
 - [Playwright enables reliable end-to-end testing for modern web apps.](https://playwright.dev/)
-	- [GitHub - microsoft/playwright: Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.](https://github.com/microsoft/playwright) (72.2K Stars)
+	- [GitHub - microsoft/playwright: Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.](https://github.com/microsoft/playwright) ⭐ 85k (72.2K Stars)
 	- [Installation \| Playwright](https://playwright.dev/docs/intro)
 - [Allure TestOps - Full-stack Test Management](https://qameta.io/)
 	- [Allure Report — Open-source HTML test automation report tool](https://allurereport.org/)

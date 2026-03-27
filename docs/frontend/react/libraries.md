@@ -46,7 +46,7 @@ Underscore.js is a utility-belt library for JavaScript that provides support for
 - https://github.com/davidhu2000/react-spinners
 - https://www.npmjs.com/package/react-contentful
 - https://www.npmjs.com/package/contentful
-- [GitHub - ckeditor/ckeditor5: Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing. WYSIWYG](https://github.com/ckeditor/ckeditor5)
+- [GitHub - ckeditor/ckeditor5: Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing. WYSIWYG](https://github.com/ckeditor/ckeditor5) ⭐ 10k
 
 ## Select2
 
@@ -62,8 +62,8 @@ Modernizr(js library for feature detection)
 
 ## Forms
 
-- [**https://github.com/formium/formik**](https://github.com/formium/formik)
-- [**https://github.com/react-hook-form/react-hook-form**](https://github.com/react-hook-form/react-hook-form)
+- [**https://github.com/formium/formik**](https://github.com/formium/formik) ⭐ 34k
+- [**https://github.com/react-hook-form/react-hook-form**](https://github.com/react-hook-form/react-hook-form) ⭐ 45k
 	- [Form Builder](https://react-hook-form.com/form-builder)
 - https://github.com/final-form/react-final-form
 - https://github.com/redux-form/redux-form
@@ -138,9 +138,9 @@ End-to-end testing
 
 Using `classnames` library to toggle classes
 
-[classnames](https://github.com/JedWatson/classnames) is a simple library that lets you toggle class names easily. You can install it usingnpm install classnamesoryarn add classnames.
+[classnames](https://github.com/JedWatson/classnames) ⭐ 18k is a simple library that lets you toggle class names easily. You can install it usingnpm install classnamesoryarn add classnames.
 
-Please take a look at its [documentation](https://github.com/JedWatson/classnames) for more details, but here's the basic usage:
+Please take a look at its [documentation](https://github.com/JedWatson/classnames) ⭐ 18k for more details, but here's the basic usage:
 
 - Suppose that you want to create anAlertcomponent which acceptstype, which can be'success'or'error'.
 - If it's'success', you want the text color to be green. If it's'error', you want the text color to be red.

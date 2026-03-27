@@ -35,23 +35,23 @@ Every Git repository has a.git/hooksfolder with a script for each hook you can b
 
 Here's a full list of hooks you can attach scripts to:
 
-- [applypatch-msg](https://github.com/git/git/blob/master/templates/hooks--applypatch-msg.sample)
-- [pre-applypatch](https://github.com/git/git/blob/master/templates/hooks--pre-applypatch.sample)
-- [post-applypatch](https://github.com/git/git/blob/master/Documentation/githooks.txt#L74)
-- [pre-commit](https://github.com/git/git/blob/master/templates/hooks--pre-commit.sample)
-- [prepare-commit-msg](https://github.com/git/git/blob/master/templates/hooks--prepare-commit-msg.sample)
-- [commit-msg](https://github.com/git/git/blob/master/templates/hooks--commit-msg.sample)
-- [post-commit](https://github.com/git/git/blob/master/Documentation/githooks.txt#L142)
-- [pre-rebase](https://github.com/git/git/blob/master/templates/hooks--pre-rebase.sample)
-- [post-checkout](https://github.com/git/git/blob/master/Documentation/githooks.txt#L160)
-- [post-merge](https://github.com/git/git/blob/master/Documentation/githooks.txt#L178)
-- [pre-receive](https://github.com/git/git/blob/master/Documentation/githooks.txt#L221)
-- [update](https://github.com/git/git/blob/master/templates/hooks--update.sample)
-- [post-receive](https://github.com/git/git/blob/master/Documentation/githooks.txt#L295)
-- [post-update](https://github.com/git/git/blob/master/templates/hooks--post-update.sample)
-- [pre-auto-gc](https://github.com/git/git/blob/master/Documentation/githooks.txt#L387)
-- [post-rewrite](https://github.com/git/git/blob/master/Documentation/githooks.txt#L394)
-- [pre-push](https://github.com/git/git/blob/master/Documentation/githooks.txt#L192)
+- [applypatch-msg](https://github.com/git/git/blob/master/templates/hooks--applypatch-msg.sample) ⭐ 60k
+- [pre-applypatch](https://github.com/git/git/blob/master/templates/hooks--pre-applypatch.sample) ⭐ 60k
+- [post-applypatch](https://github.com/git/git/blob/master/Documentation/githooks.txt#L74) ⭐ 60k
+- [pre-commit](https://github.com/git/git/blob/master/templates/hooks--pre-commit.sample) ⭐ 60k
+- [prepare-commit-msg](https://github.com/git/git/blob/master/templates/hooks--prepare-commit-msg.sample) ⭐ 60k
+- [commit-msg](https://github.com/git/git/blob/master/templates/hooks--commit-msg.sample) ⭐ 60k
+- [post-commit](https://github.com/git/git/blob/master/Documentation/githooks.txt#L142) ⭐ 60k
+- [pre-rebase](https://github.com/git/git/blob/master/templates/hooks--pre-rebase.sample) ⭐ 60k
+- [post-checkout](https://github.com/git/git/blob/master/Documentation/githooks.txt#L160) ⭐ 60k
+- [post-merge](https://github.com/git/git/blob/master/Documentation/githooks.txt#L178) ⭐ 60k
+- [pre-receive](https://github.com/git/git/blob/master/Documentation/githooks.txt#L221) ⭐ 60k
+- [update](https://github.com/git/git/blob/master/templates/hooks--update.sample) ⭐ 60k
+- [post-receive](https://github.com/git/git/blob/master/Documentation/githooks.txt#L295) ⭐ 60k
+- [post-update](https://github.com/git/git/blob/master/templates/hooks--post-update.sample) ⭐ 60k
+- [pre-auto-gc](https://github.com/git/git/blob/master/Documentation/githooks.txt#L387) ⭐ 60k
+- [post-rewrite](https://github.com/git/git/blob/master/Documentation/githooks.txt#L394) ⭐ 60k
+- [pre-push](https://github.com/git/git/blob/master/Documentation/githooks.txt#L192) ⭐ 60k
 
 ## Projects
 
@@ -138,5 +138,5 @@ If you're using GitHub Free, you can add unlimited collaborators on public and p
 
 - BitBucket
 - Gitlab
-- [GitHub - gitbucket/gitbucket: A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility](https://github.com/gitbucket/gitbucket)
+- [GitHub - gitbucket/gitbucket: A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility](https://github.com/gitbucket/gitbucket) ⭐ 9.4k
 - [Why Google and Meta Put Billion Lines of Code In 1 Repository? - YouTube](https://www.youtube.com/watch?v=x3cANGNPyx0)

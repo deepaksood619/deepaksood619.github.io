@@ -23,7 +23,7 @@ Service Catalog is an extension API that enables applications running in Kuberne
 
 It provides a way to list, provision, and bind with external [Managed Services](https://kubernetes.io/docs/reference/glossary/?all=true#term-managed-service) from [Service Brokers](https://kubernetes.io/docs/reference/glossary/?all=true#term-service-broker) without needing detailed knowledge about how those services are created or managed.
 
-A service broker, as defined by the [Open service broker API spec](https://github.com/openservicebrokerapi/servicebroker/blob/v2.13/spec), is an endpoint for a set of managed services offered and maintained by a third-party, which could be a cloud provider such as AWS, GCP, or Azure. Some examples of managed services are Microsoft Azure Cloud Queue, Amazon Simple Queue Service, and Google Cloud Pub/Sub, but they can be any software offering that can be used by an application.
+A service broker, as defined by the [Open service broker API spec](https://github.com/openservicebrokerapi/servicebroker/blob/v2.13/spec) ⭐ 1.2k, is an endpoint for a set of managed services offered and maintained by a third-party, which could be a cloud provider such as AWS, GCP, or Azure. Some examples of managed services are Microsoft Azure Cloud Queue, Amazon Simple Queue Service, and Google Cloud Pub/Sub, but they can be any software offering that can be used by an application.
 
 Using Service Catalog, a [cluster operator](https://kubernetes.io/docs/reference/glossary/?all=true#term-cluster-operator) can browse the list of managed services offered by a service broker, provision an instance of a managed service, and bind with it to make it available to an application in the Kubernetes cluster.
 

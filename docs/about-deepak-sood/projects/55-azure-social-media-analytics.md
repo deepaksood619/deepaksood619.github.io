@@ -33,4 +33,4 @@ To achieve this, building a comprehensive social media monitoring platform is cr
 
 - [social-media-analytics-solution](ai/social-media-analytics-solution.md)
 - [Azure Synapse Social Media Analytics Solution - DEVOPS DONE RIGHT](https://opstree.com/blog/2024/05/07/azure-synapse-social-media-analytics-solution/)
-- [GitHub - microsoft/Azure-Social-Media-Analytics-Solution-Accelerator](https://github.com/microsoft/Azure-Social-Media-Analytics-Solution-Accelerator)
+- [GitHub - microsoft/Azure-Social-Media-Analytics-Solution-Accelerator](https://github.com/microsoft/Azure-Social-Media-Analytics-Solution-Accelerator) ⭐ 30

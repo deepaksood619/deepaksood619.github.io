@@ -102,7 +102,7 @@ A cloud native solution to streamline API management across **edge**, **middle**
 
 [Problem Statement | Tailcall](https://tailcall.run/docs/)
 
-[GitHub - tailcallhq/tailcall: A high-performance no-code GraphQL backend](https://github.com/tailcallhq/tailcall)
+[GitHub - tailcallhq/tailcall: A high-performance no-code GraphQL backend](https://github.com/tailcallhq/tailcall) ⭐ 1.4k
 
 ## API Security
 

@@ -41,5 +41,5 @@ https://dzone.com/articles/iot-live-demo-100000-connected-cars-with-kubernete
 - https://developers.home.google.com/matter
 - [Search Engine for the Internet of Everything](https://www.shodan.io/)
 - [KVM over IP - PiKVM](https://pikvm.org/)
-	- [GitHub - pikvm/pikvm: Open and inexpensive DIY IP-KVM based on Raspberry Pi](https://github.com/pikvm/pikvm)
+	- [GitHub - pikvm/pikvm: Open and inexpensive DIY IP-KVM based on Raspberry Pi](https://github.com/pikvm/pikvm) ⭐ 9.9k
 	- [I couldn’t do my job without this. - PiKVM - YouTube](https://www.youtube.com/watch?v=232opnNPGNo&ab_channel=LinusTechTips)

@@ -2,7 +2,7 @@
 
 A container runtime is the component which runs the containerized application upon request. Docker Engine remains the default for Kubernetes, though CRI-O and others are gaining community support.
 
-The containerized image is moving from Docker to one that is not bound to higher-level tools and that is more portable across operating systems and environments. The Open Container Initiative (OCI) was formed to help with this. Docker donated their libcontainer project to form a new codebase called runC to support these goals. More information about [runC](https://github.com/opencontainers/runc) can be found on GitHub.
+The containerized image is moving from Docker to one that is not bound to higher-level tools and that is more portable across operating systems and environments. The Open Container Initiative (OCI) was formed to help with this. Docker donated their libcontainer project to form a new codebase called runC to support these goals. More information about [runC](https://github.com/opencontainers/runc) ⭐ 13k can be found on GitHub.
 
 ## Container Runtime Interface (CRI)
 
@@ -16,7 +16,7 @@ CRI-O is an implementation of the Kubernetes CRI (Container Runtime Interface) t
 
 CRI-O supports OCI container images and can pull from any container registry. It is a lightweight alternative to using Docker, Moby or rkt as the runtime for Kubernetes.
 
-This project is currently in incubation as part of Kubernetes. It uses the Kubernetes Container Runtime Interface with OCI-compatible runtimes, thus the name [CRI-O](https://github.com/cri-o/cri-o). Currently, there is support for runC (default) and Clear Containers, but a stated goal of the project is to work with any OCI-compliant runtime.
+This project is currently in incubation as part of Kubernetes. It uses the Kubernetes Container Runtime Interface with OCI-compatible runtimes, thus the name [CRI-O](https://github.com/cri-o/cri-o) ⭐ 5.6k. Currently, there is support for runC (default) and Clear Containers, but a stated goal of the project is to work with any OCI-compliant runtime.
 
 While newer than Docker or rkt, this project has gained major vendor support due to its flexibility and compatibility.
 

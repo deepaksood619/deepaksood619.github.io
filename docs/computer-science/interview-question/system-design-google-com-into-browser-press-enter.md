@@ -108,5 +108,5 @@ After rendering has completed, the browser executes JavaScript code as a result 
 
 ## References
 
-- [GitHub - alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"](https://github.com/alex/what-happens-when)
+- [GitHub - alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"](https://github.com/alex/what-happens-when) ⭐ 43k
 - [Post from ByteByteGo - YouTube](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxJDvMpF4jVEn4aKuBqgYa3mjJay5k8g7r)

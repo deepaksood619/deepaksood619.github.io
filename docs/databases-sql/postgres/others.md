@@ -61,7 +61,7 @@ https://www.cybertec-postgresql.com/en/pg_timetable-advanced-postgresql-job-sche
 | ltree              | data type for hierarchical tree-like structures                      |
 | pg_visibility      | examine the visibility map (VM) and page-level visibility info       |
 
-[GitHub - timescale/pg\_textsearch: PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.](https://github.com/timescale/pg_textsearch)
+[GitHub - timescale/pg\_textsearch: PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.](https://github.com/timescale/pg_textsearch) ⭐ 3.2k
 
 ## pgagroal
 
@@ -79,7 +79,7 @@ pgagroal is a high-performance protocol-native connection pool for [PostgreSQL](
 - Daemon mode
 - User vault
 
-[GitHub - agroal/pgagroal: High-performance connection pool for PostgreSQL](https://github.com/agroal/pgagroal)
+[GitHub - agroal/pgagroal: High-performance connection pool for PostgreSQL](https://github.com/agroal/pgagroal) ⭐ 750
 
 [pgagroal](https://agroal.github.io/pgagroal/)
 
@@ -115,11 +115,11 @@ https://github.com/yandex/odyssey
 
 ## Postgres on Kubernetes - Patroni
 
-- [GitHub - zalando/patroni: A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes](https://github.com/zalando/patroni)
+- [GitHub - zalando/patroni: A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes](https://github.com/zalando/patroni) ⭐ 8.3k
 - [Introduction - Patroni 3.2.2 documentation](https://patroni.readthedocs.io/en/latest/)
 - [High Availability PostgreSQL Cluster using Patroni and HAProxy](https://jfrog.com/community/devops/highly-available-postgresql-cluster-using-patroni-and-haproxy/)
 
-**Others -** [GitHub - cloudnative-pg/cloudnative-pg: CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance](https://github.com/cloudnative-pg/cloudnative-pg)
+**Others -** [GitHub - cloudnative-pg/cloudnative-pg: CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance](https://github.com/cloudnative-pg/cloudnative-pg) ⭐ 8.3k
 
 ## pgbackrest
 
@@ -133,7 +133,7 @@ https://info.crunchydata.com/blog/how-to-get-started-with-pgbackrest-and-postgre
 
 ## Pgroll
 
-[GitHub - xataio/pgroll: PostgreSQL zero-downtime migrations made easy](https://github.com/xataio/pgroll)
+[GitHub - xataio/pgroll: PostgreSQL zero-downtime migrations made easy](https://github.com/xataio/pgroll) ⭐ 6.4k
 
 [Introducing pgroll: zero-downtime, reversible, schema migrations for Postgres](https://xata.io/blog/pgroll-schema-migrations-postgres)
 
@@ -147,7 +147,7 @@ A fast PostgreSQL Log Analyzer
 
 pgBadger is a PostgreSQL performance analyzer, built for speed with fully detailed reports based on your PostgreSQL log files.
 
-[GitHub - darold/pgbadger: A fast PostgreSQL Log Analyzer](https://github.com/darold/pgbadger)
+[GitHub - darold/pgbadger: A fast PostgreSQL Log Analyzer](https://github.com/darold/pgbadger) ⭐ 4.0k
 
 [PostgreSQL Log Analysis With pgBadger \| Severalnines](https://severalnines.com/blog/postgresql-log-analysis-pgbadger/)
 
@@ -155,10 +155,10 @@ pgBadger is a PostgreSQL performance analyzer, built for speed with fully detail
 
 ## Others
 
-- [GitHub - hydradatabase/hydra: Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes.](https://github.com/hydradatabase/hydra)
-- [GitHub - getretake/retake: Open-Source Hybrid Search for Postgres](https://github.com/getretake/retake)
-- [GitHub - pgschema/pgschema: Terraform-style, declarative schema migration for Postgres](https://github.com/pgschema/pgschema)
+- [GitHub - hydradatabase/hydra: Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes.](https://github.com/hydradatabase/hydra) ⭐ 3.0k
+- [GitHub - getretake/retake: Open-Source Hybrid Search for Postgres](https://github.com/getretake/retake) ⭐ 8.6k
+- [GitHub - pgschema/pgschema: Terraform-style, declarative schema migration for Postgres](https://github.com/pgschema/pgschema) ⭐ 854
 	- pgschema is a CLI tool that brings terraform-style declarative schema migration workflow to Postgres
-- [GitHub - neondatabase/neon: Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.](https://github.com/neondatabase/neon)
+- [GitHub - neondatabase/neon: Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.](https://github.com/neondatabase/neon) ⭐ 21k
 	- Neon is an open-source serverless Postgres database platform. It separates storage and compute and substitutes the PostgreSQL storage layer by redistributing data across a cluster of nodes.
 	- [Neon Serverless Postgres — Ship faster](https://neon.com/)

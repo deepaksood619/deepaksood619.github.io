@@ -28,5 +28,5 @@ User-Defined Aggregate Functions (UDAFs) are user-programmable routines that ope
 ## Links
 
 - [PyFlink Docs — pyflink-docs version master](https://pyflink.readthedocs.io/en/main/index.html)
-- [GitHub - diptimanr/kafka\_flink\_getting\_started: pyflink Table API and FLink SQL on Kafka](https://github.com/diptimanr/kafka_flink_getting_started)
-	- [kafka\_flink\_getting\_started/06\_kafka\_pyflink\_tableapi\_tumbling\_window.py at master · diptimanr/kafka\_flink\_getting\_started · GitHub](https://github.com/diptimanr/kafka_flink_getting_started/blob/master/06_kafka_pyflink_tableapi_tumbling_window.py)
+- [GitHub - diptimanr/kafka\_flink\_getting\_started: pyflink Table API and FLink SQL on Kafka](https://github.com/diptimanr/kafka_flink_getting_started) ⭐ 11
+	- [kafka\_flink\_getting\_started/06\_kafka\_pyflink\_tableapi\_tumbling\_window.py at master · diptimanr/kafka\_flink\_getting\_started · GitHub](https://github.com/diptimanr/kafka_flink_getting_started/blob/master/06_kafka_pyflink_tableapi_tumbling_window.py) ⭐ 11

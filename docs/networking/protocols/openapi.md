@@ -10,7 +10,7 @@ An **open API** (often referred to as a public API) is a publicly available [app
 
     - [Swagger Editor](http://editor.swagger.io/)-- browser-based editor where you can write OpenAPI specs.
     - [Swagger UI](https://swagger.io/swagger-ui/)-- renders OpenAPI specs as interactive API documentation.
-    - [Swagger Codegen](https://github.com/swagger-api/swagger-codegen)-- generates server stubs and client libraries from an OpenAPI spec.
+    - [Swagger Codegen](https://github.com/swagger-api/swagger-codegen) ⭐ 18k-- generates server stubs and client libraries from an OpenAPI spec.
 
 ### [Basic Structure](https://swagger.io/docs/specification/basic-structure/)
 

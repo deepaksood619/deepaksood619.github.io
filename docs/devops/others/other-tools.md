@@ -173,9 +173,9 @@ Secure and fast microVMs for serverless computing.
 
 Firecracker is an open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services that provide serverless operational models. Firecracker runs workloads in lightweight virtual machines, called microVMs, which combine the security and isolation properties provided by hardware virtualization technology with the speed and flexibility of containers.
 
-The main component of Firecracker is a virtual machine monitor (VMM) that uses the Linux Kernel Virtual Machine (KVM) to create and run microVMs. Firecracker has a minimalist design. It excludes unnecessary devices and guest-facing functionality to reduce the memory footprint and attack surface area of each microVM. This improves security, decreases the startup time, and increases hardware utilization. Firecracker currently supports Intel, AMD (preview) and Arm (preview) CPUs. Firecracker has also been integrated in container runtimes, for example [Kata Containers](https://github.com/kata-containers/documentation/wiki/Initial-release-of-Kata-Containers-with-Firecracker-support) and [Weaveworks Ignite](https://github.com/weaveworks/ignite).
+The main component of Firecracker is a virtual machine monitor (VMM) that uses the Linux Kernel Virtual Machine (KVM) to create and run microVMs. Firecracker has a minimalist design. It excludes unnecessary devices and guest-facing functionality to reduce the memory footprint and attack surface area of each microVM. This improves security, decreases the startup time, and increases hardware utilization. Firecracker currently supports Intel, AMD (preview) and Arm (preview) CPUs. Firecracker has also been integrated in container runtimes, for example [Kata Containers](https://github.com/kata-containers/documentation/wiki/Initial-release-of-Kata-Containers-with-Firecracker-support) ⭐ 493 and [Weaveworks Ignite](https://github.com/weaveworks/ignite) ⭐ 3.5k.
 
-Firecracker was developed at Amazon Web Services to accelerate the speed and efficiency of services like [AWS Lambda](https://aws.amazon.com/lambda/) and [AWS Fargate](https://aws.amazon.com/fargate/). Firecracker is open sourced under [Apache version 2.0](https://github.com/firecracker-microvm/firecracker/blob/master/LICENSE).
+Firecracker was developed at Amazon Web Services to accelerate the speed and efficiency of services like [AWS Lambda](https://aws.amazon.com/lambda/) and [AWS Fargate](https://aws.amazon.com/fargate/). Firecracker is open sourced under [Apache version 2.0](https://github.com/firecracker-microvm/firecracker/blob/master/LICENSE) ⭐ 33k.
 
 https://github.com/firecracker-microvm/firecracker
 
@@ -216,7 +216,7 @@ In most cases these will store individual application components that can later 
 Here are some of the most popular package managers that can be managed using a binary repository:
 
 - Java: jar, ear, war etc has [Maven](https://maven.apache.org/) and the official [MavenCentral](https://search.maven.org/). There are many other package managers that will use the maven binary repository format as well ([ivy](http://ant.apache.org/ivy/), [gradle](https://gradle.org/) etc).
-- .Net:[nuget](https://www.nuget.org/) for .NET components (DLL and EXE) but can also be used as a distribution mechanism under windows thorugh systems like [Chocolatey](https://chocolatey.org/). Newer versions of Powershell can also leverage this to distribute powershell modules though the [powershell gallery](https://www.powershellgallery.com/) of which one could build a local distribution with a binary repository and a repository in nuget format. Also check [OneGet](https://github.com/OneGet/oneget) if Windows distribution management is of interest to you.
+- .Net:[nuget](https://www.nuget.org/) for .NET components (DLL and EXE) but can also be used as a distribution mechanism under windows thorugh systems like [Chocolatey](https://chocolatey.org/). Newer versions of Powershell can also leverage this to distribute powershell modules though the [powershell gallery](https://www.powershellgallery.com/) of which one could build a local distribution with a binary repository and a repository in nuget format. Also check [OneGet](https://github.com/OneGet/oneget) ⭐ 2.4k if Windows distribution management is of interest to you.
 - In JavaScript: we have [npm](https://www.npmjs.com/) which is one of the most popular, will require [nodejs](https://nodejs.org/en/).
 - In python: there is [pip](https://pypi.python.org/pypi/pip) and the official package index [pypi](https://pypi.python.org/pypi), which one can also create a local instance through binary repository that will support the format.
 
@@ -254,7 +254,7 @@ Users looking for a zero maintenance, ready-to-go solution are encouraged to use
 - [Harbor](https://goharbor.io/)
     - [Manage Container (Docker) Images, Helm, CNAB, and Other Artifacts With Harbor - YouTube](https://www.youtube.com/watch?v=f931M4-my1k)
 - [CNCF Distribution](https://distribution.github.io/distribution/)
-    - [GitHub - distribution/distribution: The toolkit to pack, ship, store, and deliver container content](https://github.com/distribution/distribution)
+    - [GitHub - distribution/distribution: The toolkit to pack, ship, store, and deliver container content](https://github.com/distribution/distribution) ⭐ 10k
 - ECR - Elastic Container Registry
 - ACR - Azure Container Registry
 - [Using S3 as a container registry | Adolfo Ochagavía](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
@@ -267,4 +267,4 @@ Users looking for a zero maintenance, ready-to-go solution are encouraged to use
 docker run -d -p 5000:5000 --restart always --name registry registry:2
 ```
 
-[GitHub - distribution/distribution: The toolkit to pack, ship, store, and deliver container content](https://github.com/distribution/distribution)
+[GitHub - distribution/distribution: The toolkit to pack, ship, store, and deliver container content](https://github.com/distribution/distribution) ⭐ 10k

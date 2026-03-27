@@ -20,10 +20,10 @@
 
 ## The 10 main picks
 
-1. [LiteLLM](https://github.com/BerriAI/litellm) ⭐ 40k - call any LLM using OpenAI format, and more
+1. [LiteLLM](https://github.com/BerriAI/litellm) ⭐ 41k - call any LLM using OpenAI format, and more
 	1. [Bifrost - The fastest way to build AI applications that never go down](https://www.getmaxim.ai/bifrost)
 	2. [Getting Started - Bifrost](https://docs.getbifrost.ai/benchmarking/getting-started)
-2. [PyApp](https://github.com/ofek/pyapp) ⭐ 1.9k - deploy self contained Python applications anywhere
+2. [PyApp](https://github.com/ofek/pyapp) ⭐ 2.0k - deploy self contained Python applications anywhere
 3. [Taipy](https://github.com/Avaiga/taipy) ⭐ 19k - build UIs for data apps, even in production
 	1. [Unlocking the Power of What-If Analysis for BI, Data, and AI with Taipy - YouTube](https://youtu.be/lqBhJATrsiw?si=7a3MqcMph-v1UuQ6)
 	2. [Taipy — Build Python Data & BI web applications](https://taipy.io/)
@@ -33,8 +33,8 @@
 7. [WhisperX](https://github.com/m-bain/whisperX) ⭐ 21k - speech recognition with word-level timestamps & diarization
 8. [AutoGen](https://github.com/microsoft/autogen) ⭐ 56k - LLM conversational collaborative suite
 9. [Guardrails](https://github.com/guardrails-ai/guardrails) ⭐ 6.6k - babysit LLMs so they behave as intended
-10. [Temporian](https://github.com/google/temporian) ⭐ 710 - the "Pandas" built for preprocessing temporal data
-11. [GitHub - langgenius/dify: Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.](https://github.com/langgenius/dify) ⭐ 134k
+10. [Temporian](https://github.com/google/temporian) ⭐ 708 - the "Pandas" built for preprocessing temporal data
+11. [GitHub - langgenius/dify: Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.](https://github.com/langgenius/dify) ⭐ 135k
 	1. [Dify: Production-Ready AI Agent Builder](https://dify.ai/)
 
 ## Runner-ups
@@ -98,7 +98,7 @@ vLLM seamlessly supports most popular open-source models on HuggingFace, includi
 
 - [**CausalTune**](https://github.com/py-why/causaltune) ⭐ 237 - a library for automated tuning and selection for causal estimators.
 - [**CausalPy**](https://github.com/pymc-labs/CausalPy) ⭐ 1.1k - A Python package for causal inference in quasi-experimental settings.
-- [**PyWhy-LLM**](https://github.com/py-why/pywhy-llm) ⭐ 292 - experimental library integrating LLM capabilities to support causal analyses.
+- [**PyWhy-LLM**](https://github.com/py-why/pywhy-llm) ⭐ 297 - experimental library integrating LLM capabilities to support causal analyses.
 
 ## CLI LLM Tools
 
@@ -120,16 +120,16 @@ vLLM seamlessly supports most popular open-source models on HuggingFace, includi
 
 ## Computer vision
 
-- [**deepdoctection**](https://github.com/deepdoctection/deepdoctection) ⭐ 3.1k - orchestrates document extraction and document layout analysis tasks using deep learning models.
+- [**deepdoctection**](https://github.com/deepdoctection/deepdoctection) ⭐ 3.2k - orchestrates document extraction and document layout analysis tasks using deep learning models.
 - [**FaceFusion**](https://github.com/facefusion/facefusion) ⭐ 27k - Next generation face swapper and enhancer.
-- [**MetaSeg**](https://github.com/kadirnar/segment-anything-video) ⭐ 984 - packaged version of the [Segment Anything Model (SAM)](https://github.com/facebookresearch/segment-anything) ⭐ 54k.
-- [**VTracer**](https://github.com/visioncortex/vtracer) ⭐ 5.6k - open source software to convert raster images (like jpg & png) into vector graphics (svg)
+- [**MetaSeg**](https://github.com/kadirnar/segment-anything-video) ⭐ 983 - packaged version of the [Segment Anything Model (SAM)](https://github.com/facebookresearch/segment-anything) ⭐ 54k.
+- [**VTracer**](https://github.com/visioncortex/vtracer) ⭐ 5.7k - open source software to convert raster images (like jpg & png) into vector graphics (svg)
 
 ## Data and Features
 
 - [**Adala**](https://github.com/HumanSignal/Adala) ⭐ 1.4k - Adala - Autonomous DAta (Labeling) Agent framework.
 - [**Autolabel**](https://github.com/refuel-ai/autolabel) ⭐ 2.3k - Label, clean and enrich text datasets with LLMs.
-- [**balance**](https://github.com/facebookresearch/balance) ⭐ 740 - simple workflow and methods for dealing with biased data samples when looking to infer from them to some target population of interest. [See launch blog post](https://import-balance.org/blog/2023/01/09/bringing-balance-to-your-data/). By META.
+- [**balance**](https://github.com/facebookresearch/balance) ⭐ 741 - simple workflow and methods for dealing with biased data samples when looking to infer from them to some target population of interest. [See launch blog post](https://import-balance.org/blog/2023/01/09/bringing-balance-to-your-data/). By META.
 - [**Bytewax**](https://github.com/bytewax/bytewax) ⭐ 2.0k - Python framework that simplifies event and stream processing. Because Bytewax couples the stream and event processing capabilities of Flink, Spark, and Kafka Streams with the friendly and familiar interface of Python, you can re-use the Python libraries you already know and love.
 - [**Featureform**](https://github.com/featureform/featureform) ⭐ 2.0k - feature store. Turn your existing data infrastructure into a feature store.
 - [**Galactic**](https://github.com/taylorai/galactic) ⭐ 329 cleaning and curation tools for massive unstructured text datasets. [Ben (48/100) on X](https://x.com/andersonbcdefg/status/1703093978982400057?t=9O2R93Ok8Mp6KqFegZVHJQ&s=09)
@@ -145,13 +145,13 @@ vLLM seamlessly supports most popular open-source models on HuggingFace, includi
 ## Embeddings and Vector DBs
 
 - [**Epsilla**](https://github.com/epsilla-cloud/vectordb) ⭐ 870 - a high performance Vector Database Management System, focused on scalability, high performance, and cost-effectiveness of vector search.
-- [**LanceDB**](https://github.com/lancedb/lancedb) ⭐ 9.6k - open-source database for vector-search built with persistent storage, which greatly simplifies retrieval, filtering and management of embeddings.
+- [**LanceDB**](https://github.com/lancedb/lancedb) ⭐ 9.7k - open-source database for vector-search built with persistent storage, which greatly simplifies retrieval, filtering and management of embeddings.
 - [**SeaGOAT**](https://github.com/kantord/SeaGOAT) ⭐ 1.3k - local search tool that leverages vector embeddings to enable to search your codebase semantically.
 - [**Text Embeddings Inference**](https://github.com/huggingface/text-embeddings-inference) ⭐ 4.6k - A blazing fast inference solution for text embeddings models.
 
 ## Federated learning
 
-- [**Flower**](https://github.com/adap/flower) ⭐ 6.7k - A Friendly Federated Learning Framework.
+- [**Flower**](https://github.com/adap/flower) ⭐ 6.8k - A Friendly Federated Learning Framework.
 - [**MetisFL**](https://github.com/NevronAI/metisfl) ⭐ 521 - federated learning framework that allows developers to easily federate their machine learning workflows and train their models across distributed data silos without ever collecting the data in a centralized location.
 
 ## Generative AI
@@ -160,12 +160,12 @@ vLLM seamlessly supports most popular open-source models on HuggingFace, includi
 - [**Image Eval**](https://github.com/Storia-AI/image-eval) ⭐ 65 - A toolkit for evaluating your favorite image generation models. [LinkedIn Launch Post](https://www.linkedin.com/posts/mihaileric_github-storia-aiimage-eval-activity-7108125553634799616-Q21k?utm_source=share&utm_medium=).
 - [**imaginAIry**](https://github.com/brycedrennan/imaginAIry) ⭐ 8.1k - Pythonic generation of stable diffusion images.
 - [**Modular Diffusion**](https://github.com/cabralpinto/modular-diffusion) ⭐ 291 - Python library for designing and training your own Diffusion Models with PyTorch.
-- [**SapientML**](https://github.com/sapientml/sapientml) ⭐ 447 - Generative AutoML for Tabular Data.
+- [**SapientML**](https://github.com/sapientml/sapientml) ⭐ 448 - Generative AutoML for Tabular Data.
 
 ## RAG
 
 - [GitHub - infiniflow/**ragflow**: RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.](https://github.com/infiniflow/ragflow) ⭐ 76k
-- [GitHub - langchain-ai/langgraph: Build resilient language agents as graphs.](https://github.com/langchain-ai/langgraph) ⭐ 27k
+- [GitHub - langchain-ai/langgraph: Build resilient language agents as graphs.](https://github.com/langchain-ai/langgraph) ⭐ 28k
 - [GitHub - stanfordnlp/dspy: DSPy: The framework for programming—not prompting—language models](https://github.com/stanfordnlp/dspy) ⭐ 33k
 	- [DSPy](https://dspy.ai/)
 - [GitHub - run-llama/llama\_index: LlamaIndex is the leading framework for building LLM-powered agents over your data.](https://github.com/run-llama/llama_index) ⭐ 48k
@@ -195,12 +195,12 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [**Autotrain-Advanced**](https://github.com/huggingface/autotrain-advanced) ⭐ 4.6k - faster and easier training and deployments of state-of-the-art machine learning models.
 - [**DSPy**](https://github.com/stanfordnlp/dspy) ⭐ 33k - framework for solving advanced tasks with language models (LMs) and retrieval models (RMs). DSPy unifies techniques for prompting and fine-tuning LMs - and approaches for reasoning and tool/retrieval augmentation. By Stanford NLP.
 - [**GPTCache**](https://github.com/zilliztech/GPTCache) ⭐ 8.0k - GPTCache is a library for creating semantic cache to store responses from LLM queries.
-- [**Neural-Cherche**](https://github.com/raphaelsty/neural-cherche) ⭐ 366 - fine-tune neural search models such as Splade, ColBERT, and SparseEmbed on a specific dataset, and run efficient inference on a fine-tuned retriever or ranker.
+- [**Neural-Cherche**](https://github.com/raphaelsty/neural-cherche) ⭐ 367 - fine-tune neural search models such as Splade, ColBERT, and SparseEmbed on a specific dataset, and run efficient inference on a fine-tuned retriever or ranker.
 - [**MemGPT**](https://github.com/cpacker/MemGPT) ⭐ 22k - Teaching LLMs memory management for unbounded context 📚🦙.
-- [**nanoGPT**](https://github.com/karpathy/nanoGPT) ⭐ 55k - The simplest, fastest repository for training/finetuning medium-sized GPTs.
+- [**nanoGPT**](https://github.com/karpathy/nanoGPT) ⭐ 56k - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [**Promptify**](https://github.com/promptslab/Promptify) ⭐ 4.6k - common prompts that work well to leverage LLMs for a variety of scenarios.
 - [**SymbolicAI**](https://github.com/Xpitfire/symbolicai) ⭐ 1.7k - Compositional Differentiable Programming Library.
-- [GitHub - ComposioHQ/composio: Composio equips agents with well-crafted tools empowering them to tackle complex tasks](https://github.com/ComposioHQ/composio/) ⭐ 27k
+- [GitHub - ComposioHQ/composio: Composio equips agents with well-crafted tools empowering them to tackle complex tasks](https://github.com/ComposioHQ/composio/) ⭐ 28k
     - [Overview - Composio](https://docs.composio.dev/introduction/intro/overview)
     - [Composio - Access 250+ Apps in Just One Line of Code - Composio](https://composio.dev/)
 
@@ -209,7 +209,7 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [How to sync Context across AI Assistants (ChatGPT, Claude, Perplexity...) in your browser - DEV Community](https://dev.to/anmolbaranwal/how-to-sync-context-across-ai-assistants-chatgpt-claude-perplexity-in-your-browser-2k9l)
 - [**zep**](https://github.com/getzep/zep) ⭐ 4.3k - a long-term memory store for LLM / Chatbot applications. Easily add relevant documents, chat history memory & rich user data to your LLM app's prompts.
 	- [Zep - AI Agent Memory](https://www.getzep.com/)
-- [GitHub - mem0ai/mem0: Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research](https://github.com/mem0ai/mem0) ⭐ 50k
+- [GitHub - mem0ai/mem0: Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research](https://github.com/mem0ai/mem0) ⭐ 51k
 	- **Memory processing –** Uses LLMs to extract and store key facts from conversations while preserving full context
 	- **Memory management –** Automatically updates memories and resolves contradictions to maintain consistency
 	- **Dual storage architecture –** Combines vector search with graph-based relationship tracking
@@ -218,14 +218,14 @@ Traditional RAG approaches often rely on batch processing and static data summar
 	- **91% Faster Responses** than full-context, ensuring low-latency at scale
 	- **90% Lower Token Usage** than full-context, cutting costs without compromise
 	- [Mem0 - The Memory layer for your AI apps](https://mem0.ai/)
-- [GitHub - topoteretes/cognee: Memory for AI Agents in 5 lines of code](https://github.com/topoteretes/cognee) ⭐ 14k
+- [GitHub - topoteretes/cognee: Memory for AI Agents in 5 lines of code](https://github.com/topoteretes/cognee) ⭐ 15k
 	- [Cognee Documentation - Introduction](https://docs.cognee.ai/)
 - [Graphlit: Knowledge API Platform](https://www.graphlit.com/)
 - [GitHub - Olow304/memvid: Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.](https://github.com/Olow304/memvid) ⭐ 14k
-- [GitHub - toon-format/toon: 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks & reference implementation.](https://github.com/toon-format/toon) ⭐ 23k
+- [GitHub - toon-format/toon: 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks & reference implementation.](https://github.com/toon-format/toon) ⭐ 24k
 	- [TOON : Bye Bye JSON for LLMs. TOON is a new datatype, more efficient… \| by Mehul Gupta \| Data Science in Your Pocket \| Nov, 2025 \| Medium](https://medium.com/data-science-in-your-pocket/toon-bye-bye-json-for-llms-91e4fe521b14)
 - [Letta](https://www.letta.com/)
-- [GitHub - NateBJones-Projects/OB1: Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS. · GitHub](https://github.com/NateBJones-Projects/OB1) ⭐ 361
+- [GitHub - NateBJones-Projects/OB1: Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS. · GitHub](https://github.com/NateBJones-Projects/OB1) ⭐ 776
 	- [You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build) - YouTube](https://www.youtube.com/watch?v=2JiMmye2ezg)
 	- [One Simple System Gave All My AI Tools a Memory. Here's How. - YouTube](https://www.youtube.com/watch?v=japT66frdhM)
 
@@ -241,23 +241,23 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [**autollm**](https://github.com/safevideo/autollm) ⭐ 1.0k - Ship RAG based LLM web apps in seconds.
 - [**Chidoriv**](https://github.com/ThousandBirdsInc/chidori) ⭐ 1.3k - reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 - [**FastChat**](https://github.com/lm-sys/FastChat) ⭐ 39k - open platform for training, serving, and evaluating large language model based chatbots.
-- [**GPTRouter**](https://github.com/Writesonic/GPTRouter) ⭐ 455 - smoothly manage multiple LLMs and image models, speed up responses, and ensure non-stop reliability. Similar to [LiteLLM](https://github.com/BerriAI/litellm) ⭐ 40k, our top pick!
+- [**GPTRouter**](https://github.com/Writesonic/GPTRouter) ⭐ 455 - smoothly manage multiple LLMs and image models, speed up responses, and ensure non-stop reliability. Similar to [LiteLLM](https://github.com/BerriAI/litellm) ⭐ 41k, our top pick!
 - [**guidance**](https://github.com/microsoft/guidance) ⭐ 21k - a guidance language for controlling large language models.
 - [**haystack**](https://github.com/deepset-ai/haystack) ⭐ 25k - end-to-end NLP framework that enables you to build NLP applications powered by LLMs, Transformer models, vector search and more.
 - [**Instructor**](https://github.com/jxnl/instructor) ⭐ 13k - interact with OpenAI’s function call API from Python code, with Python structs / objects.
 - [**Jsonformer**](https://github.com/1rgs/jsonformer) ⭐ 4.9k - A Bulletproof Way to Generate Structured JSON from Language Models
 - [**Langroid**](https://github.com/langroid/langroid) ⭐ 3.9k - easily build LLM-powered applications. Set up Agents, equip them with optional components (LLM, vector-store and methods), assign them tasks, and have them collaboratively solve a problem by exchanging messages.
-- [**LLM App**](https://github.com/pathwaycom/llm-app) ⭐ 58k - build innovative AI applications by providing real-time human-like responses to user queries based on the most up-to-date knowledge available in your data sources.
+- [**LLM App**](https://github.com/pathwaycom/llm-app) ⭐ 59k - build innovative AI applications by providing real-time human-like responses to user queries based on the most up-to-date knowledge available in your data sources.
 - [**maccarone**](https://github.com/bsilverthorn/maccarone) ⭐ 466 - AI-managed code blocks in Python, lets you delegate sections of your Python program to AI ownership.
 - [**magentic**](https://github.com/jackmpcollins/magentic) ⭐ 2.4k - prompt LLMs as simple Python functions using decorators.
-- [**Semantic Kernel**](https://github.com/microsoft/semantic-kernel) ⭐ 28k - integrate cutting-edge LLM technology quickly and easily into your apps. Microsoft’s "version" of [LangChain](https://github.com/hwchase17/langchain) ⭐ 130k.
+- [**Semantic Kernel**](https://github.com/microsoft/semantic-kernel) ⭐ 28k - integrate cutting-edge LLM technology quickly and easily into your apps. Microsoft’s "version" of [LangChain](https://github.com/hwchase17/langchain) ⭐ 131k.
 - [ControlFlow](https://controlflow.ai/welcome)
 	- ControlFlow is a Python framework for building agentic AI workflows.
 
 ## LLM Code Tools
 
 - [**aider**](https://github.com/paul-gauthier/aider) ⭐ 42k - command line tool that lets you pair program with GPT-3.5/GPT-4, to edit code stored in your local git repository.
-- [**ChatGDB**](https://github.com/pgosar/ChatGDB) ⭐ 937 - Harness the power of ChatGPT inside the GDB debugger!
+- [**ChatGDB**](https://github.com/pgosar/ChatGDB) ⭐ 940 - Harness the power of ChatGPT inside the GDB debugger!
 - [**Dataherald**](https://github.com/Dataherald/dataherald) ⭐ 3.6k - natural language-to-SQL engine built for enterprise-level question answering over structured data. [HN launch post](https://news.ycombinator.com/item?id=37240363).
 - [**FauxPilot**](https://github.com/fauxpilot/fauxpilot) ⭐ 15k - open-source GitHub Copilot server.
 - [**GPT Engineer**](https://github.com/AntonOsika/gpt-engineer) ⭐ 55k - Specify what you want it to build, the AI asks for clarification, and then builds it.
@@ -269,7 +269,7 @@ Traditional RAG approaches often rely on batch processing and static data summar
 
 ## LLM Agent Tools
 
-- [GitHub - browser-use/browser-use: Make websites accessible for AI agents](https://github.com/browser-use/browser-use) ⭐ 81k
+- [GitHub - browser-use/browser-use: Make websites accessible for AI agents](https://github.com/browser-use/browser-use) ⭐ 85k
 - [GitHub - AgentDock/AgentDock: Build Anything with AI Agents](https://github.com/AgentDock/AgentDock) ⭐ 1.6k
 
 ## LLM Development
@@ -283,7 +283,7 @@ Traditional RAG approaches often rely on batch processing and static data summar
 ## LLM Experimentation
 
 - [**ChainForge**](https://github.com/ianarawjo/ChainForge) ⭐ 3.0k - open-source visual programming environment for battle-testing prompts to LLMs.
-- [**Langflow**](https://github.com/logspace-ai/langflow) ⭐ 146k - UI for [LangChain](https://github.com/hwchase17/langchain) ⭐ 130k, designed with react-flow to provide an effortless way to experiment and prototype flows.
+- [**Langflow**](https://github.com/logspace-ai/langflow) ⭐ 146k - UI for [LangChain](https://github.com/hwchase17/langchain) ⭐ 131k, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [**PromptTools**](https://github.com/hegelai/prompttools) ⭐ 3.0k - a set of open-source, self-hostable tools for experimenting with, testing, and evaluating LLMs, vector databases, and prompts. [HN launch post](https://news.ycombinator.com/item?id=36958175).
 
 ## LLM Serving
@@ -296,9 +296,9 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [**LLM Gateway**](https://github.com/wealthsimple/llm-gateway) - gateway for secure & reliable communications with OpenAI and other LLM providers.
 - [**punica**](https://github.com/punica-ai/punica) ⭐ 1.1k - Serving multiple LoRA finetuned LLM as one.
 - [**Ollama**](https://github.com/jmorganca/ollama) ⭐ 166k - Get up and running with Llama 2 and other large language models locally.
-- [**OnPrem.LLM**](https://github.com/amaiya/onprem) ⭐ 836 - tool for running on-premises large language models with non-public data.
+- [**OnPrem.LLM**](https://github.com/amaiya/onprem) ⭐ 838 - tool for running on-premises large language models with non-public data.
 - [**OpenLLM**](https://github.com/bentoml/OpenLLM) ⭐ 12k - An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease. By [BentoML](https://bentoml.com/).
-- [**OpenLLMetry**](https://github.com/traceloop/openllmetry) ⭐ 6.9k - Open-source observability for your LLM application, based on OpenTelemetry.
+- [**OpenLLMetry**](https://github.com/traceloop/openllmetry) ⭐ 7.0k - Open-source observability for your LLM application, based on OpenTelemetry.
 - [**privateGPT**](https://github.com/imartinez/privateGPT) ⭐ 57k - Interact privately with your documents using the power of GPT, 100% privately, no data leaks.
 
 ## LLM Tools
@@ -309,7 +309,7 @@ Traditional RAG approaches often rely on batch processing and static data summar
 
 ## MLOps, LLMOps, DevOps
 
-- [**phoenix**](https://github.com/Arize-ai/phoenix) ⭐ 8.9k - ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models.
+- [**phoenix**](https://github.com/Arize-ai/phoenix) ⭐ 9.1k - ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models.
 
 ## Multimodal AI Tools
 
@@ -320,7 +320,7 @@ Traditional RAG approaches often rely on batch processing and static data summar
 
 ## Python ML
 
-- [**difflogic**](https://github.com/Felix-Petersen/difflogic) ⭐ 766 - A Library for Differentiable Logic Gate Networks by [Felix Petersen](https://twitter.com/FHKPetersen).
+- [**difflogic**](https://github.com/Felix-Petersen/difflogic) ⭐ 768 - A Library for Differentiable Logic Gate Networks by [Felix Petersen](https://twitter.com/FHKPetersen).
 - [**TensorDict**](https://github.com/pytorch-labs/tensordict) ⭐ 1.0k - a dictionary-like class that inherits properties from tensors, such as indexing, shape operations, casting to device etc. The main purpose of TensorDict is to make code-bases more readable and modular by abstracting away tailored operations.
 
 ## Performance and scalability
@@ -329,11 +329,11 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [**AutoGPTQ**](https://github.com/PanQiWei/AutoGPTQ) ⭐ 5.0k - easy-to-use LLMs quantization package with user-friendly APIs, based on GPTQ algorithm.
 - [**composer**](https://github.com/mosaicml/composer) ⭐ 5.5k - PyTorch library that enables you to train neural networks faster, at lower cost, and to higher accuracy. Implements more than two dozen speedup methods that can be applied to your training loop in just a few lines of code.
 - [**fastLLaMa**](https://github.com/PotatoSpudowski/fastLLaMa) ⭐ 412 - Python wrapper to run Inference of LLaMA models using C++.
-- [**hidet**](https://github.com/hidet-org/hidet) ⭐ 738 - open-source deep learning compiler, written in Python. It supports end-to-end compilation of DNN models from PyTorch and ONNX to efficient cuda kernels.
+- [**hidet**](https://github.com/hidet-org/hidet) ⭐ 740 - open-source deep learning compiler, written in Python. It supports end-to-end compilation of DNN models from PyTorch and ONNX to efficient cuda kernels.
 - [**LPython**](https://github.com/lcompilers/lpython) ⭐ 1.6k - compiler that aggressively optimizes type-annotated Python code. It has several backends, including LLVM, C, C++, and WASM. LPython’s primary tenet is speed. [Launch blog post](https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/).
 - [**Petals**](https://github.com/bigscience-workshop/petals) ⭐ 10k - Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading.
-- [**TokenMonster**](https://github.com/alasdairforsythe/tokenmonster) ⭐ 618 - Determine the tokens that optimally represents a dataset at any specific vocabulary size
-- [GitHub - microsoft/LLMLingua: To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.](https://github.com/microsoft/LLMLingua) ⭐ 5.9k
+- [**TokenMonster**](https://github.com/alasdairforsythe/tokenmonster) ⭐ 620 - Determine the tokens that optimally represents a dataset at any specific vocabulary size
+- [GitHub - microsoft/LLMLingua: To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.](https://github.com/microsoft/LLMLingua) ⭐ 6.0k
 - On-Device Compute - [GitHub - cactus-compute/cactus: Framework for running AI locally on mobile devices and wearables. Hardware-aware C/C++ backend with wrappers for Flutter & React Native. Kotlin & Swift coming soon.](https://github.com/cactus-compute/cactus) ⭐ 4.5k
 
 ## Python Programming
@@ -341,8 +341,8 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [**Django Ninja CRUD**](https://github.com/hbakri/django-ninja-crud) ⭐ 635 - declarative CRUD Endpoints & Tests with Django Ninja.
 - [**DotDict**](https://github.com/nick-at-dave/DotDict) ⭐ 237 - A simple Python library to make chained attributes possible.
 - [**grai-core**](https://github.com/grai-io/grai-core) ⭐ 313 - Data lineage made simple. Grai makes it easy to understand and test how your data relates across databases, warehouses, APIs and dashboards. [HN launch blog post](https://news.ycombinator.com/item?id=36758122).
-- [**pypipe**](https://github.com/bugen/pypipe) ⭐ 804 - Python pipe command line tool.
-- [**ReactPy**](https://github.com/reactive-python/reactpy) ⭐ 8.1k - library for building user interfaces in Python without Javascript, made from [components](https://reactpy.dev/docs/guides/creating-interfaces/your-first-components/index.html#your-first-components) which look and behave similarly to those found in [ReactJS](https://reactjs.org/).
+- [**pypipe**](https://github.com/bugen/pypipe) ⭐ 807 - Python pipe command line tool.
+- [**ReactPy**](https://github.com/reactive-python/reactpy) ⭐ 8.2k - library for building user interfaces in Python without Javascript, made from [components](https://reactpy.dev/docs/guides/creating-interfaces/your-first-components/index.html#your-first-components) which look and behave similarly to those found in [ReactJS](https://reactjs.org/).
 - [**Reflex**](https://github.com/pynecone-io/pynecone) ⭐ 28k - open source framework to build web apps in pure Python. [Launch announcement](https://news.ycombinator.com/item?id=35136827).
 - [**scrat**](https://github.com/javiber/scrat) ⭐ 35 - caching of expensive function results, like `lru_cache` but with persistency to disk.
 - [**svcs**](https://github.com/hynek/svcs/) ⭐ 403 - a dependency container for Python [SVCS](https://svcs.hynek.me/en/latest/index.html)
@@ -350,7 +350,7 @@ Traditional RAG approaches often rely on batch processing and static data summar
 
 ## Optimization / Math
 
-- [**Lineax**](https://github.com/google/lineax) ⭐ 527 - a JAX library for linear solves and linear least squares. [Launch Tweet](https://twitter.com/PatrickKidger/status/1666451005901357062).
+- [**Lineax**](https://github.com/google/lineax) ⭐ 531 - a JAX library for linear solves and linear least squares. [Launch Tweet](https://twitter.com/PatrickKidger/status/1666451005901357062).
 - [**pyribs**](https://github.com/icaros-usc/pyribs/) ⭐ 255 - a bare-bones Python library for quality diversity optimization.
 - [Integrate Generative AI Into Your Applications Using LLMs - YouTube](https://www.youtube.com/watch?v=o5D6xBlDLC4&ab_channel=AWSDevelopers)
 
@@ -378,4 +378,4 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [GitHub - pixeltable/pixeltable: Pixeltable — AI Data infrastructure providing a declarative, incremental approach for multimodal workloads.](https://github.com/pixeltable/pixeltable) ⭐ 1.6k
 - [Announcing GenAI Processors: Build powerful and flexible Gemini applications - Google Developers Blog](https://developers.googleblog.com/en/genai-processors/)
 	- [GitHub - google-gemini/genai-processors: GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.](https://github.com/google-gemini/genai-processors) ⭐ 2.1k
-- [GitHub - maximhq/bifrost: The Fastest LLM Gateway with built in OTel observability and MCP gateway](https://github.com/maximhq/bifrost) ⭐ 3.0k
+- [GitHub - maximhq/bifrost: The Fastest LLM Gateway with built in OTel observability and MCP gateway](https://github.com/maximhq/bifrost) ⭐ 3.3k

@@ -17,7 +17,7 @@ JAX a library for array-oriented numerical computation (_à la_ [NumPy](https://
 
 ## Links
 
-- [GitHub - google/jax: Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more](https://github.com/google/jax)
+- [GitHub - google/jax: Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more](https://github.com/google/jax) ⭐ 35k
 - [JAX Quickstart — JAX documentation](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
 - [JAX in 100 Seconds](https://youtu.be/_0D5lXDjNpw)
 - [Google JAX - Wikipedia](https://en.wikipedia.org/wiki/Google_JAX)

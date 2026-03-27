@@ -40,11 +40,11 @@ A complete [Spring application](https://spring.io/):
 - [Maven](https://maven.apache.org/) or [Gradle](http://www.gradle.org/) configuration for building, testing and running the application
 - ["development" and "production" profiles](https://www.jhipster.tech/profiles/)(both for Maven and Gradle)
 - [Spring Security](https://docs.spring.io/spring-security/site/index.html)
-- [Spring MVC REST](https://spring.io/guides/gs/rest-service/)+[Jackson](https://github.com/FasterXML/jackson)
+- [Spring MVC REST](https://spring.io/guides/gs/rest-service/)+[Jackson](https://github.com/FasterXML/jackson) ⭐ 9.7k
 - Optional WebSocket support with Spring Websocket
 - [Spring Data JPA](https://projects.spring.io/spring-data-jpa/)+ Bean Validation
 - Database updates with [Liquibase](http://www.liquibase.org/)
-- [Elasticsearch](https://github.com/elastic/elasticsearch) support if you want to have search capabilities on top of your database
+- [Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 76k support if you want to have search capabilities on top of your database
 - [MongoDB](https://www.mongodb.org/) and [Couchbase](https://www.couchbase.com/) support if you'd rather use a document-oriented NoSQL database instead of JPA
 - [Cassandra](https://cassandra.apache.org/) support if you'd rather use a column-oriented NoSQL database instead of JPA
 - [Kafka](https://kafka.apache.org/) support if you want to use a publish-subscribe messaging system
@@ -53,8 +53,8 @@ A complete [Spring application](https://spring.io/):
 
 Microservices are optional, and fully supported:
 
-- HTTP routing using [Netflix Zuul](https://github.com/Netflix/zuul) or [Traefik](https://traefik.io/)
-- Service discovery using [Netflix Eureka](https://github.com/Netflix/eureka) or [HashiCorp Consul](https://www.consul.io/)
+- HTTP routing using [Netflix Zuul](https://github.com/Netflix/zuul) ⭐ 14k or [Traefik](https://traefik.io/)
+- Service discovery using [Netflix Eureka](https://github.com/Netflix/eureka) ⭐ 13k or [HashiCorp Consul](https://www.consul.io/)
 
 ### Ready to go into production
 
@@ -62,7 +62,7 @@ Microservices are optional, and fully supported:
 - Caching with [ehcache](http://ehcache.org/)(local cache), [hazelcast](http://www.hazelcast.com/) or [Infinispan](http://infinispan.org/)
 - Optimized static resources (gzip filter, HTTP cache headers)
 - Log management with [Logback](http://logback.qos.ch/), configurable at runtime
-- Connection pooling with [HikariCP](https://github.com/brettwooldridge/HikariCP) for optimum performance
+- Connection pooling with [HikariCP](https://github.com/brettwooldridge/HikariCP) ⭐ 21k for optimum performance
 - Builds a standard WAR file or an executable JAR file
 - Full Docker and Docker Compose support
 - Support for all major cloud providers: AWS, Cloud Foundry, Heroku, Kubernetes, OpenShift, Azure, Docker...

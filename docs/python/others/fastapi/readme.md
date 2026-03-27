@@ -11,7 +11,7 @@ FastAPI is a modern, fast (high-performance), web framework for building APIs wi
 - Easy: Designed to be easy to use and learn. Less time reading docs.
 - Short: Minimize code duplication. Multiple features from each parameter declaration. Fewer bugs.
 - Robust: Get production-ready code. With automatic interactive documentation.
-- Standards-based: Based on (and fully compatible with) the open standards for APIs:[OpenAPI](https://github.com/OAI/OpenAPI-Specification)(previously known as Swagger) and [JSON Schema](https://json-schema.org/).
+- Standards-based: Based on (and fully compatible with) the open standards for APIs:[OpenAPI](https://github.com/OAI/OpenAPI-Specification) ⭐ 31k(previously known as Swagger) and [JSON Schema](https://json-schema.org/).
 
 ## OpenAPI
 
@@ -23,7 +23,7 @@ A "schema" is a definition or description of something. Not the code that implem
 
 ### API "schema"
 
-In this case, [OpenAPI](https://github.com/OAI/OpenAPI-Specification) is a specification that dictates how to define a schema of your API.
+In this case, [OpenAPI](https://github.com/OAI/OpenAPI-Specification) ⭐ 31k is a specification that dictates how to define a schema of your API.
 
 This schema definition includes your API paths, the possible parameters they take, etc.
 
@@ -160,7 +160,7 @@ It is production-ready, and gives you the following:
 
 ### Admin
 
-[GitHub - fastapi-admin/fastapi-admin: A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin](https://github.com/fastapi-admin/fastapi-admin)
+[GitHub - fastapi-admin/fastapi-admin: A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin](https://github.com/fastapi-admin/fastapi-admin) ⭐ 3.7k
 
 [Starlette Admin](https://jowilf.github.io/starlette-admin/) (Supports mongoengine too)
 
@@ -177,7 +177,7 @@ async def foo() -> SomeModel:
     return create_some_model
 ```
 
-[GitHub - long2ice/fastapi-cache: fastapi-cache is a tool to cache fastapi response and function result, with backends support redis and memcached.](https://github.com/long2ice/fastapi-cache)
+[GitHub - long2ice/fastapi-cache: fastapi-cache is a tool to cache fastapi response and function result, with backends support redis and memcached.](https://github.com/long2ice/fastapi-cache) ⭐ 1.9k
 
 ## Links
 

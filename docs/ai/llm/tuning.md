@@ -49,7 +49,7 @@ Supervised fine-tuning means updating a pre-trained language model using labeled
 
 ## Performance Optimization
 
-### [GitHub - microsoft/BitNet: Official inference framework for 1-bit LLMs](https://github.com/microsoft/BitNet)
+### [GitHub - microsoft/BitNet: Official inference framework for 1-bit LLMs](https://github.com/microsoft/BitNet) ⭐ 37k
 
 bitnet.cpp is the official inference framework for 1-bit LLMs (e.g., BitNet b1.58). It offers a suite of optimized kernels, that support **fast** and **lossless** inference of 1.58-bit models on CPU (with NPU and GPU support coming next).
 
@@ -63,8 +63,8 @@ The first release of bitnet.cpp is to support inference on CPUs. bitnet.cpp achi
 ## Others
 
 - Instruct tuning / Instruction Tuning
-- [GitHub - ggml-org/ggml: Tensor library for machine learning](https://github.com/ggml-org/ggml)
-	- [ggml/docs/gguf.md at master · ggml-org/ggml · GitHub](https://github.com/ggml-org/ggml/blob/master/docs/gguf.md)
+- [GitHub - ggml-org/ggml: Tensor library for machine learning](https://github.com/ggml-org/ggml) ⭐ 14k
+	- [ggml/docs/gguf.md at master · ggml-org/ggml · GitHub](https://github.com/ggml-org/ggml/blob/master/docs/gguf.md) ⭐ 14k
 	- GGUF - A binary format that is optimized for quick loading and saving of models, making it highly efficient for inference purposes.
 
 ## Links
@@ -74,6 +74,6 @@ The first release of bitnet.cpp is to support inference on CPUs. bitnet.cpp achi
 - [Generative AI Fine Tuning LLM Models Crash Course - YouTube](https://www.youtube.com/watch?v=t-0s_2uZZU0)
 - [KV Caching in LLMs, explained visually](https://www.dailydoseofds.com/p/kv-caching-in-llms-explained-visually/)
 - [Inside CALM: Google DeepMind’s Unique Method to Augment LLMs with Other LLMs \| by Jesus Rodriguez \| Medium](https://jrodthoughts.medium.com/inside-calm-google-deepminds-unique-method-to-augment-llms-with-other-llms-92cb9526e66c)
-	- [GitHub - google-deepmind/calm](https://github.com/google-deepmind/calm)
+	- [GitHub - google-deepmind/calm](https://github.com/google-deepmind/calm) ⭐ 56
 	- [Accelerating text generation with Confident Adaptive Language Modeling (CALM)](https://research.google/blog/accelerating-text-generation-with-confident-adaptive-language-modeling-calm/)
 - [\[2408.13296v1\] The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs: An Exhaustive Review of Technologies, Research, Best Practices, Applied Research Challenges and Opportunities](https://arxiv.org/abs/2408.13296v1)

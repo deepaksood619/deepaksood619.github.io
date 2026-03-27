@@ -343,5 +343,5 @@ While there are different ways to add Google Analytics your WordPress site, here
 - https://www.freecodecamp.org/news/easily-create-a-website-using-elementor-and-wordpress
 - [Harness WordPress: Hooks, Actions and Filters  | Toptal](https://www.toptal.com/wordpress/power-of-wordpress-hooks-actions-and-filters)
 - [The Ultimate Guide to High Performance WordPress](https://www.freecodecamp.org/news/the-ultimate-guide-to-high-performance-wordpress/)
-- [GitHub - WordPress/mcp-adapter: An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically. · GitHub](https://github.com/WordPress/mcp-adapter)
+- [GitHub - WordPress/mcp-adapter: An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically. · GitHub](https://github.com/WordPress/mcp-adapter) ⭐ 748
 	- [Abilities API in WordPress 6.9 – Make WordPress Core](https://make.wordpress.org/core/2025/11/10/abilities-api-in-wordpress-6-9/)

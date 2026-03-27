@@ -52,7 +52,7 @@ Analyzes resource usage and performance characteristics of running containers.
 
 cAdvisor (Container Advisor) provides container users an understanding of the resource usage and performance characteristics of their running containers. It is a running daemon that collects, aggregates, processes, and exports information about running containers. Specifically, for each container it keeps resource isolation parameters, historical resource usage, histograms of complete historical resource usage and network statistics. This data is exported by container and machine-wide.
 
-cAdvisor has native support for [Docker](https://github.com/docker/docker) containers and should support just about any other container type out of the box. We strive for support across the board so feel free to open an issue if that is not the case. cAdvisor's container abstraction is based on [lmctfy](https://github.com/google/lmctfy)'s so containers are inherently nested hierarchically.
+cAdvisor has native support for [Docker](https://github.com/docker/docker) ⭐ 72k containers and should support just about any other container type out of the box. We strive for support across the board so feel free to open an issue if that is not the case. cAdvisor's container abstraction is based on [lmctfy](https://github.com/google/lmctfy) ⭐ 3.4k's so containers are inherently nested hierarchically.
 
 https://github.com/google/cadvisor
 
@@ -221,7 +221,7 @@ https://docs.docker.com/config/containers/logging/syslog
 
 ### syslog-ng
 
-- [GitHub - syslog-ng/syslog-ng: syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.](https://github.com/syslog-ng/syslog-ng)
+- [GitHub - syslog-ng/syslog-ng: syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.](https://github.com/syslog-ng/syslog-ng) ⭐ 2.3k
 - [syslog-ng - Log Management Solutions](https://www.syslog-ng.com/)
 
 ## DataDog
@@ -241,11 +241,11 @@ https://docs.docker.com/config/containers/logging/syslog
 - Demo Docs - Hackathon
 	- [OpenTelemetry Demo Docs \| OpenTelemetry](https://opentelemetry.io/docs/demo/)
 	- [Demo Architecture \| OpenTelemetry](https://opentelemetry.io/docs/demo/architecture/)
-	- [GitHub - open-telemetry/opentelemetry-demo: This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.](https://github.com/open-telemetry/opentelemetry-demo)
+	- [GitHub - open-telemetry/opentelemetry-demo: This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.](https://github.com/open-telemetry/opentelemetry-demo) ⭐ 3.0k
 
 ## signoz
 
-[GitHub - SigNoz/signoz: SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (APM) & Observability tool](https://github.com/SigNoz/signoz)
+[GitHub - SigNoz/signoz: SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (APM) & Observability tool](https://github.com/SigNoz/signoz) ⭐ 26k
 
 - Metrics
 - Traces
@@ -272,7 +272,7 @@ SigNoz stores both metrics and logs, along with traces, under a single pane of g
 - [No-code Enterprise Data Quality Monitoring Tool: Lightup](https://lightup.ai/)
 - [Kloudfuse](https://www.kloudfuse.com/)
     - AI-ENABLED UNIFIED OBSERVABILITY, Designed for 10X More Data At 1/10th of the Cost
-- [GitHub - vectordotdev/vector: A high-performance observability data pipeline.](https://github.com/vectordotdev/vector) (19.5K stars)
+- [GitHub - vectordotdev/vector: A high-performance observability data pipeline.](https://github.com/vectordotdev/vector) ⭐ 22k (19.5K stars)
 	- Vector is a high-performance, end-to-end (agent & aggregator) observability data pipeline that puts you in control of your observability data. [Collect](https://vector.dev/docs/reference/configuration/sources/), [transform](https://vector.dev/docs/reference/configuration/transforms/), and [route](https://vector.dev/docs/reference/configuration/sinks/) all your logs and metrics to any vendors you want today and any other vendors you may want tomorrow. Vector enables dramatic cost reduction, novel data enrichment, and data security where you need it, not where it is most convenient for your vendors. Additionally, it is open source and up to 10x faster than every alternative in the space.
 	- [Vector \| A lightweight, ultra-fast tool for building observability pipelines](https://vector.dev/)
 - [ClickHouse Docs](https://clickhouse.com/docs/use-cases/observability/clickstack)

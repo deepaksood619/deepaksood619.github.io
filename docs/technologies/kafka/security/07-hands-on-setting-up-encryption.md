@@ -2,7 +2,7 @@
 
 In this exercise, we’ll show you how to put a lot of the things we’ve talked about so far into practice. First, we’ll set up our Kafka environment to use SSL/TLS to encrypt our data in motion by creating certificates, and then we'll configure our brokers to use SSL.
 
-To follow along you’ll need to clone the GitHub repository for this course, so head to [https://github.com/confluentinc/learn-kafka-courses](https://github.com/confluentinc/learn-kafka-courses) and clone the repo. The files for this course are located in the fund-kafka-security folder.
+To follow along you’ll need to clone the GitHub repository for this course, so head to [https://github.com/confluentinc/learn-kafka-courses](https://github.com/confluentinc/learn-kafka-courses) ⭐ 48 and clone the repo. The files for this course are located in the fund-kafka-security folder.
 
 Before we start Kafka, there are a few changes we need to make to get things set up.
 

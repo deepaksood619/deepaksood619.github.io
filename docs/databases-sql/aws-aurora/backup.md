@@ -214,7 +214,7 @@ On the other hand, restoring from s3 is for restoring a XtraBackup created on yo
 
 [Amazon RDS Snapshot Export to S3 - YouTube](https://www.youtube.com/watch?v=lyNGeDg6EII)
 
-[GitHub - aws-samples/rds-snapshot-export-to-s3-pipeline: RDS Snapshot Export to S3 Pipeline](https://github.com/aws-samples/rds-snapshot-export-to-s3-pipeline)
+[GitHub - aws-samples/rds-snapshot-export-to-s3-pipeline: RDS Snapshot Export to S3 Pipeline](https://github.com/aws-samples/rds-snapshot-export-to-s3-pipeline) ⭐ 124
 
 [postgresql - How to restore exported RDS snapshot from S3 to RDS cluster - Stack Overflow](https://stackoverflow.com/questions/72547543/how-to-restore-exported-rds-snapshot-from-s3-to-rds-cluster)
 

@@ -12,7 +12,7 @@ PyTorch ( Tensors and Dynamic neural networks in Python with strong GPU accelera
 
 **Keras** is built on top of TensorFlow, which makes it a wrapper for deep learning purposes. It is incredibly user-friendly and easy to pick up. A solid asset is its neural network block modularity and the fact that it is written in Python, which makes it easy to debug.
 
-Keras is a high-level neural networks API, written in Python and capable of running on top of [TensorFlow](https://github.com/tensorflow/tensorflow), [CNTK](https://github.com/Microsoft/cntk), or [Theano](https://github.com/Theano/Theano). It was developed with a focus on enabling fast experimentation.Being able to go from idea to result with the least possible delay is key to doing good research.
+Keras is a high-level neural networks API, written in Python and capable of running on top of [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 194k, [CNTK](https://github.com/Microsoft/cntk) ⭐ 18k, or [Theano](https://github.com/Theano/Theano) ⭐ 10.0k. It was developed with a focus on enabling fast experimentation.Being able to go from idea to result with the least possible delay is key to doing good research.
 
 Use Keras if you need a deep learning library that:
 

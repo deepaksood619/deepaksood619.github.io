@@ -649,7 +649,7 @@ kubectl patch node/ip-172-30-17-201.ap-southeast-1.compute.internal -p '{"metada
 
 ## Requests and Limits
 
-[GitHub - robscott/kube-capacity: A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster](https://github.com/robscott/kube-capacity)
+[GitHub - robscott/kube-capacity: A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster](https://github.com/robscott/kube-capacity) ⭐ 2.6k
 
 ```bash
 curl -fsSLO https://github.com/robscott/kube-capacity/releases/download/v0.8.0/kube-capacity_v0.8.0_linux_x86_64.tar.gz
@@ -687,7 +687,7 @@ kube-capacity --pods --util --sort memory.util.percentage --namespace tidb-clust
 
 [Easy to list Kubernetes resource requests and limits with kube-capacity](https://viblo.asia/p/easy-to-list-kubernetes-resource-requests-and-limits-with-kube-capacity-english-Rk74avM6JeO)
 
-[Releases · robscott/kube-capacity](https://github.com/robscott/kube-capacity/releases)
+[Releases · robscott/kube-capacity](https://github.com/robscott/kube-capacity/releases) ⭐ 2.6k
 
 ```python
 import re

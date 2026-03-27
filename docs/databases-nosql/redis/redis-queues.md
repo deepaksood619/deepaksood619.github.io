@@ -141,7 +141,7 @@ https://python-rq.org/patterns/sentry
 
 1. https://github.com/rq/rq-scheduler
 
-[RQ Scheduler](https://github.com/rq/rq-scheduler) is a small package that adds job scheduling capabilities to [RQ](https://github.com/nvie/rq), a [Redis](http://redis.io/) based Python queuing library.
+[RQ Scheduler](https://github.com/rq/rq-scheduler) ⭐ 1.5k is a small package that adds job scheduling capabilities to [RQ](https://github.com/nvie/rq) ⭐ 11k, a [Redis](http://redis.io/) based Python queuing library.
 
 2. https://github.com/Parallels/rq-dashboard
 

@@ -39,8 +39,8 @@ OpenThread implements all Thread networking layers (IPv6, 6LoWPAN, IEEE 802.15.4
 
 [NCP SUPPORT](https://openthread.io/guides/ncp/)
 
-- [Spinel](https://github.com/openthread/openthread/tree/master/src/ncp), a general purpose NCP protocol
-- [wpantund](https://github.com/openthread/wpantund), a user-space NCP network interface driver/daemon
+- [Spinel](https://github.com/openthread/openthread/tree/master/src/ncp) ⭐ 3.9k, a general purpose NCP protocol
+- [wpantund](https://github.com/openthread/wpantund) ⭐ 179, a user-space NCP network interface driver/daemon
 - Sniffer support via NCP Spinel nodes
 
 [BORDER ROUTER](https://openthread.io/guides/border-router)

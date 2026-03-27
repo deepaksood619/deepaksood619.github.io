@@ -7,7 +7,7 @@ The Payment Card Industry Data Security Standard (PCI-DSS) is a set of requireme
 - Payment Card Industry-Data Security Standard (PCI-DSS)
 - Payment Application-Data Security Standard (PA-DSS)
 
-[GitHub - jivoi/offsec | your offsec knowledge](https://github.com/jivoi/offsec_pdfs)
+[GitHub - jivoi/offsec | your offsec knowledge](https://github.com/jivoi/offsec_pdfs) ⭐ 485
 
 ## SOC Compliance (Service Organization Control)
 
@@ -163,7 +163,7 @@ The role of compliance officers is crucial for any company to ensure that the bu
 ## Others
 
 - [Data Governance](ai/data-science/data-governance.md)
-- [GitHub - rkm-ravi94/awesome-it-compliance: This repo contains some details about the IT compliances available.](https://github.com/rkm-ravi94/awesome-it-compliance)
+- [GitHub - rkm-ravi94/awesome-it-compliance: This repo contains some details about the IT compliances available.](https://github.com/rkm-ravi94/awesome-it-compliance) ⭐ 22
 - CISA Certification - Certified Information Systems Auditor
 - CISO - Chief Information Security Officer
 - CMMI Level 3 - An appraisal at maturity level 3 **indicates an organization is performing at a "defined" level**. At this level, processes are well characterized and understood and are described in standards, procedures, tools, and methods.

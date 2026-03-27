@@ -38,13 +38,13 @@ MyDumper is Open Source and maintained by the community, it is not a Percona, Ma
 - Using mydumper to export the database can become read-intensive, and the process can impact overall performance of the production database. If you have a replica database instance, run the export process from the replica. Before you run the export from the replica, stop the replication SQL thread. This helps the export process run more quickly.
 - Don't export the database during peak business hours. Avoiding peak hours can stabilize the performance of your primary production database during the database export.
 
-[GitHub - mydumper/mydumper: Official MyDumper Project](https://github.com/mydumper/mydumper)
+[GitHub - mydumper/mydumper: Official MyDumper Project](https://github.com/mydumper/mydumper) ⭐ 3.1k
 
 [MyDumper - AWS Prescriptive Guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-large-mysql-mariadb-databases/mydumper.html)
 
 [Multi-threaded migration using mydumper and myloader - Amazon Aurora MySQL Migration Handbook](https://docs.aws.amazon.com/whitepapers/latest/amazon-aurora-mysql-migration-handbook/multi-threaded-migration-using-mydumper-and-myloader.html)
 
-[GitHub - DSB/MySQLDumper: Backup & Restore for MySQL databases](https://github.com/DSB/MySQLDumper)
+[GitHub - DSB/MySQLDumper: Backup & Restore for MySQL databases](https://github.com/DSB/MySQLDumper) ⭐ 174
 
 ## mydumper
 
@@ -61,7 +61,7 @@ You can decide not to use this tool if any of the following conditions are true:
 - You can’t use third-party software because of operating system limitations.
 - Your data transformation processes require intermediate dump files in a flat-file format and not an SQL format.
 
-For details and step-by-step instructions, see the [mydumper project](https://github.com/maxbube/mydumper).
+For details and step-by-step instructions, see the [mydumper project](https://github.com/maxbube/mydumper) ⭐ 3.1k.
 
 Follow these three steps to perform full data load using mydumper.
 
@@ -354,11 +354,11 @@ nohup time mydumper --no-locks --host=127.0.0.1 --port=1056 --clear --user=root 
 myloader -h target-rds-endpoint -u username -p password -d /path/to/dumpdir --threads 4
 ```
 
-[mydumper/docs/mydumper\_usage.rst at master · mydumper/mydumper · GitHub](https://github.com/mydumper/mydumper/blob/master/docs/mydumper_usage.rst)
+[mydumper/docs/mydumper\_usage.rst at master · mydumper/mydumper · GitHub](https://github.com/mydumper/mydumper/blob/master/docs/mydumper_usage.rst) ⭐ 3.1k
 
 [Migration MySQL to AWS RDS or Aurora | by Hala Aljomaat | Medium](https://medium.com/@halaaljomaat_78324/migration-mysql-to-aws-rds-or-aurora-d9f77c91b43b)
 
 ## Links
 
-- [Releases · mydumper/mydumper](https://github.com/mydumper/mydumper/releases)
+- [Releases · mydumper/mydumper](https://github.com/mydumper/mydumper/releases) ⭐ 3.1k
 - [hub.docker.com/layers/mydumper/mydumper/latest-zstd/images/sha256-b1aa2a37166bd1a2c7c368436105f0f90529b13e7a94cfe0efd36710e611aef0?context=explore](https://hub.docker.com/layers/mydumper/mydumper/latest-zstd/images/sha256-b1aa2a37166bd1a2c7c368436105f0f90529b13e7a94cfe0efd36710e611aef0?context=explore)

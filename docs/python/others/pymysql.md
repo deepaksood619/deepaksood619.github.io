@@ -202,7 +202,7 @@ https://medium.com/@vipinc.007/python-a-database-interaction-class-using-pymysql
 
 https://pypi.org/project/mysql-connector-python
 
-[GitHub - long2ice/asyncmy: A fast asyncio MySQL/MariaDB driver with replication protocol support](https://github.com/long2ice/asyncmy)
+[GitHub - long2ice/asyncmy: A fast asyncio MySQL/MariaDB driver with replication protocol support](https://github.com/long2ice/asyncmy) ⭐ 380
 
 ## psycopg2
 

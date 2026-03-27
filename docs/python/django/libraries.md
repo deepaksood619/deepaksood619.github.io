@@ -35,7 +35,7 @@ https://pinaxproject.com/pinax/what_is_pinax
 
 ## Daphne
 
-Daphne is a HTTP, HTTP2 and WebSocket protocol server for [ASGI](https://github.com/django/asgiref/blob/master/specs/asgi.rst) and [ASGI-HTTP](https://github.com/django/asgiref/blob/master/specs/www.rst), developed to power Django Channels.
+Daphne is a HTTP, HTTP2 and WebSocket protocol server for [ASGI](https://github.com/django/asgiref/blob/master/specs/asgi.rst) ⭐ 1.6k and [ASGI-HTTP](https://github.com/django/asgiref/blob/master/specs/www.rst) ⭐ 1.6k, developed to power Django Channels.
 
 It supports automatic negotiation of protocols; there's no need for URL prefixing to determine WebSocket endpoints versus HTTP endpoints.
 
@@ -53,7 +53,7 @@ https://github.com/pydanny/cookiecutter-django
 
 ## django-taggit
 
-[https://github.com/jazzband/django-taggit](https://github.com/jazzband/django-taggit)
+[https://github.com/jazzband/django-taggit](https://github.com/jazzband/django-taggit) ⭐ 3.4k
 
 django-taggit a simpler approach to tagging with Django. Add "taggit"to your INSTALLED_APPS then just add a TaggableManager to your model.
 
@@ -66,19 +66,19 @@ Comma seperate values
 
 ## Django River
 
-[https://github.com/javrasya/django-river](https://github.com/javrasya/django-river)
+[https://github.com/javrasya/django-river](https://github.com/javrasya/django-river) ⭐ 745
 
 Django workflow library that supports on the fly changes
 
 https://djangopackages.org/grids/g/workflow
 
-[**https://github.com/viewflow/viewflow**](https://github.com/viewflow/viewflow)
+[**https://github.com/viewflow/viewflow**](https://github.com/viewflow/viewflow) ⭐ 2.9k
 
 Reusable workflow library for Django
 
 ## Django Reversion
 
-[**https://github.com/etianen/django-reversion**](https://github.com/etianen/django-reversion)
+[**https://github.com/etianen/django-reversion**](https://github.com/etianen/django-reversion) ⭐ 3.2k
 
 django-reversion is an extension to the Django web framework that provides version control for model instances.
 
@@ -96,7 +96,7 @@ django-reversion is an extension to the Django web framework that provides versi
 # With no arguments, this command will delete your entire revision history! Read the command help for ways to limit which revisions should be deleted.
 ```
 
-[django-reversion/reversion/management/commands/deleterevisions.py at a781656740bcb0d998324cd3a8c11c8754e1e1b2 · etianen/django-reversion · GitHub](https://github.com/etianen/django-reversion/blob/a781656740bcb0d998324cd3a8c11c8754e1e1b2/reversion/management/commands/deleterevisions.py)
+[django-reversion/reversion/management/commands/deleterevisions.py at a781656740bcb0d998324cd3a8c11c8754e1e1b2 · etianen/django-reversion · GitHub](https://github.com/etianen/django-reversion/blob/a781656740bcb0d998324cd3a8c11c8754e1e1b2/reversion/management/commands/deleterevisions.py) ⭐ 3.2k
 
 ## Django Crispy Forms
 
@@ -131,8 +131,8 @@ def send_email_and_push(request):
 
 - [Documenting your API - Django REST framework](https://www.django-rest-framework.org/topics/documenting-your-api/)
 - [drf-yasg — drf-yasg 1.21.7 documentation](https://drf-yasg.readthedocs.io/)
-	- [GitHub - axnsan12/drf-yasg: Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.](https://github.com/axnsan12/drf-yasg)
-- [GitHub - tfranzel/drf-spectacular: Sane and flexible OpenAPI 3 schema generation for Django REST framework.](https://github.com/tfranzel/drf-spectacular)
+	- [GitHub - axnsan12/drf-yasg: Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.](https://github.com/axnsan12/drf-yasg) ⭐ 3.5k
+- [GitHub - tfranzel/drf-spectacular: Sane and flexible OpenAPI 3 schema generation for Django REST framework.](https://github.com/tfranzel/drf-spectacular) ⭐ 2.8k
 
 ## Others
 
@@ -162,7 +162,7 @@ http://whitenoise.evans.io/en/stable
 ## Tools
 
 - Django-debug-toolbar
-- [GitHub - jazzband/django-silk: Silky smooth profiling for Django](https://github.com/jazzband/django-silk)
+- [GitHub - jazzband/django-silk: Silky smooth profiling for Django](https://github.com/jazzband/django-silk) ⭐ 4.9k
 - django-extensions
 - django-import-export
 - django-rest-swagger

@@ -43,12 +43,12 @@ As MySQL is typically set up to purge binlogs after a specified period of time, 
 
 - [Debezium](https://debezium.io)
 - [Introduction to Debezium | Baeldung](https://www.baeldung.com/debezium-intro)
-- [GitHub - ivangfr/springboot-kafka-connect-debezium-ksqldb](https://github.com/ivangfr/springboot-kafka-connect-debezium-ksqldb)
+- [GitHub - ivangfr/springboot-kafka-connect-debezium-ksqldb](https://github.com/ivangfr/springboot-kafka-connect-debezium-ksqldb) ⭐ 82
 - [Deploying Debezium on Kubernetes | Debezium Documentation](https://debezium.io/documentation/reference/stable/operations/kubernetes.html)
 - [Tutorial | Debezium Documentation](https://debezium.io/documentation/reference/stable/tutorial.html)
 - [Incremental Snapshots in Debezium](https://debezium.io/blog/2021/10/07/incremental-snapshots/)
 - [A Quick Start Guide to Change Data Capture with Debezium | Hashmap, an NTT DATA Company](https://medium.com/hashmapinc/a-quick-start-guide-to-change-data-capture-with-debezium-aa1a2d0a9296)
 - [Streaming Data Changes from Your Database to Elasticsearch](https://debezium.io/blog/2018/01/17/streaming-to-elasticsearch/)
 - [Release Notes for Debezium 2.0](https://debezium.io/releases/2.0/release-notes)
-- [GitHub - bykvaadm/debezium-helm-chart](https://github.com/bykvaadm/debezium-helm-chart)
+- [GitHub - bykvaadm/debezium-helm-chart](https://github.com/bykvaadm/debezium-helm-chart) ⭐ 24
 - [Operational DB Migrations with Zero Downtime | The Write Ahead Log](https://platformatory.io/blog/Operational-db-Migration-Zero-Downtime/)

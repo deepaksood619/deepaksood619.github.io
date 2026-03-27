@@ -150,14 +150,14 @@ Presentation - [Building GenAI Workflow](https://drive.google.com/file/d/15iRh2u
 
 ![image](../media/WhatsApp%20Image%202025-07-02%20at%2023.14.51.jpeg)
 
-- [cookbook/examples - GitHub](https://github.com/google-gemini/cookbook/tree/main/examples)
-- [Talk to documents with embeddings](https://github.com/google-gemini/cookbook/blob/main/examples/Talk_to_documents_with_embeddings.ipynb)
-- [Pdf structured outputs on invoices and forms](https://github.com/google-gemini/cookbook/blob/main/examples/Pdf_structured_outputs_on_invoices_and_forms.ipynb)
-- [Story Writing with Prompt Chaining](https://github.com/google-gemini/cookbook/blob/main/examples/Story_Writing_with_Prompt_Chaining.ipynb)
-- [langchain examples - GitHub](https://github.com/google-gemini/cookbook/tree/main/examples/langchain)
-	- [Gemini LangChain Summarization WebLoad](https://github.com/google-gemini/cookbook/blob/main/examples/langchain/Gemini_LangChain_Summarization_WebLoad.ipynb)
-	- [Chat with SQL using langchain](https://github.com/google-gemini/cookbook/blob/main/examples/langchain/Chat_with_SQL_using_langchain.ipynb)
-	- [QA with Chroma DB](https://github.com/google-gemini/cookbook/blob/main/examples/langchain/Gemini_LangChain_QA_Chroma_WebLoad.ipynb)
+- [cookbook/examples - GitHub](https://github.com/google-gemini/cookbook/tree/main/examples) ⭐ 17k
+- [Talk to documents with embeddings](https://github.com/google-gemini/cookbook/blob/main/examples/Talk_to_documents_with_embeddings.ipynb) ⭐ 17k
+- [Pdf structured outputs on invoices and forms](https://github.com/google-gemini/cookbook/blob/main/examples/Pdf_structured_outputs_on_invoices_and_forms.ipynb) ⭐ 17k
+- [Story Writing with Prompt Chaining](https://github.com/google-gemini/cookbook/blob/main/examples/Story_Writing_with_Prompt_Chaining.ipynb) ⭐ 17k
+- [langchain examples - GitHub](https://github.com/google-gemini/cookbook/tree/main/examples/langchain) ⭐ 17k
+	- [Gemini LangChain Summarization WebLoad](https://github.com/google-gemini/cookbook/blob/main/examples/langchain/Gemini_LangChain_Summarization_WebLoad.ipynb) ⭐ 17k
+	- [Chat with SQL using langchain](https://github.com/google-gemini/cookbook/blob/main/examples/langchain/Chat_with_SQL_using_langchain.ipynb) ⭐ 17k
+	- [QA with Chroma DB](https://github.com/google-gemini/cookbook/blob/main/examples/langchain/Gemini_LangChain_QA_Chroma_WebLoad.ipynb) ⭐ 17k
 
 [#ai #summerinternship #unsaidtalks \| Raghav Chopra](https://www.linkedin.com/feed/update/urn:li:activity:7331725948083494912/)
 

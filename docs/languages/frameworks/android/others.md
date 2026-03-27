@@ -11,4 +11,4 @@
 - [Release notes for Android Studio preview  \|  Android Developers](https://developer.android.com/studio/preview/features#android-knowledge-base)
 - [Journeys for Android Studio  \|  Android Developers](https://developer.android.com/studio/gemini/journeys)
 - [What's new in Android development tools - YouTube](https://www.youtube.com/watch?v=KXKP2tDPW4Y)
-- [GitHub - android/compose-samples: Official Jetpack Compose samples.](https://github.com/android/compose-samples)
+- [GitHub - android/compose-samples: Official Jetpack Compose samples.](https://github.com/android/compose-samples) ⭐ 23k

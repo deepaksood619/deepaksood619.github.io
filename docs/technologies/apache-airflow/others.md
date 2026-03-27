@@ -150,7 +150,7 @@ While **Apache Kafka**, combined with stream processing, can act as a **workf
 ### Links
 
 - [Open Source Durable Execution | Temporal Technologies](https://temporal.io/)
-- [GitHub - temporalio/temporal: Temporal service](https://github.com/temporalio/temporal)
+- [GitHub - temporalio/temporal: Temporal service](https://github.com/temporalio/temporal) ⭐ 19k
 - [Getting to know Temporal - YouTube](https://www.youtube.com/watch?v=wIpz4ioK0gI)
 - [Documentation | Temporal Documentation](https://docs.temporal.io/)
 - [Temporal Web UI | Temporal Documentation](https://docs.temporal.io/web-ui)
@@ -165,10 +165,10 @@ While **Apache Kafka**, combined with stream processing, can act as a **workf
 
 ## Mage.ai
 
-- [GitHub - mage-ai/mage-ai: 🧙 Build, run, and manage data pipelines for integrating and transforming data.](https://github.com/mage-ai/mage-ai) - 8K stars
+- [GitHub - mage-ai/mage-ai: 🧙 Build, run, and manage data pipelines for integrating and transforming data.](https://github.com/mage-ai/mage-ai) ⭐ 8.7k - 8K stars
 - [Give your data team magical powers | Mage](https://www.mage.ai/)
 - [The Airflow alternative worth checking out: Mage.ai - YouTube](https://www.youtube.com/watch?v=3gXsFEC3aYA)
-- [mage-ai/mage\_integrations/mage\_integrations/destinations/bigquery/README.md at master · mage-ai/mage-ai · GitHub](https://github.com/mage-ai/mage-ai/blob/master/mage_integrations/mage_integrations/destinations/bigquery/README.md)
+- [mage-ai/mage\_integrations/mage\_integrations/destinations/bigquery/README.md at master · mage-ai/mage-ai · GitHub](https://github.com/mage-ai/mage-ai/blob/master/mage_integrations/mage_integrations/destinations/bigquery/README.md) ⭐ 8.7k
 - [\[BUG\] Pipelines stuck due to high CPU usage of Mage scheduler · Issue #5345 · mage-ai/mage-ai · GitHub](https://github.com/mage-ai/mage-ai/issues/5345)
 - [Multi-Tenant Foundation for Data Mesh Excellence in Mage Pro - Magical workflows for data engineering – Mage AI](https://www.mage.ai/events/multi-tenant-foundation-for-data-mesh-excellence-in-mage-pro)
 - [Mage tips & tricks - Mage AI](https://docs.mage.ai/guides/tips-and-tricks)
@@ -183,7 +183,7 @@ The infinitely scalable and flexible workflow orchestration platform that seamle
 Flyte is an open-source orchestrator that facilitates building production-grade data and ML pipelines. It is built for scalability and reproducibility, leveraging Kubernetes as its underlying platform. With Flyte, user teams can construct pipelines using the Python SDK, and seamlessly deploy them on both cloud and on-premises environments, enabling distributed processing and efficient resource utilization.
 
 - [Build production-grade data and ML workflows, hassle-free with Flyte](https://flyte.org/)
-- [GitHub - flyteorg/flyte: Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.](https://github.com/flyteorg/flyte)
+- [GitHub - flyteorg/flyte: Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.](https://github.com/flyteorg/flyte) ⭐ 6.9k
 - [Flyte School: A Practical Introduction to Machine Learning Orchestration - YouTube](https://www.youtube.com/watch?v=0cP9pLLeqT4)
 - [Self-serve Feature Engineering Platform Using Flyte and Feast - Ketan Umare, & Felix Wang, - YouTube](https://www.youtube.com/watch?v=Km2ii0F8Yl0)
 - [Flyte: Production-Grade Data and Machine Learning Orchestration - Shivay Lamba & Ekansh Gupta - YouTube](https://www.youtube.com/watch?v=7ZDFhZ4hut0)
@@ -201,7 +201,7 @@ Flyte simplifies building data and ML workflows with its user-friendly SDK. It a
 
 [DVC](https://dvc.org/) stands for "data version control". This project invites data scientists and engineers to a Git-inspired world, where all workflow versions are tracked, along with all the data artifacts and models, as well as associated metrics.
 
-**Data Version Control** or **DVC** is a command line tool and [VS Code Extension](https://github.com/iterative/dvc#vs-code-extension) to help you develop reproducible machine learning projects:
+**Data Version Control** or **DVC** is a command line tool and [VS Code Extension](https://github.com/iterative/dvc#vs-code-extension) ⭐ 15k to help you develop reproducible machine learning projects:
 
 1. **Version** your data and models. Store them in your cloud storage but keep their version info in your Git repo.
 2. **Iterate** fast with lightweight pipelines. When you make changes, only run the steps impacted by those changes.
@@ -211,7 +211,7 @@ Flyte simplifies building data and ML workflows with its user-friendly SDK. It a
 
 [Data Version Control · DVC](https://dvc.org)
 
-[GitHub - iterative/dvc: 🦉 ML Experiments Management with Git](https://github.com/iterative/dvc)
+[GitHub - iterative/dvc: 🦉 ML Experiments Management with Git](https://github.com/iterative/dvc) ⭐ 15k
 
 [Tracking ML Experiments With Data Version Control](https://www.analyticsvidhya.com/blog/2021/06/mlops-tracking-ml-experiments-with-data-version-control/)
 
@@ -223,7 +223,7 @@ The leading data integration platform for ETL / ELT data pipelines from APIs, da
 
 Ultimate vision is to help you move data from any source to any destination. Airbyte already provides the largest [catalog](https://docs.airbyte.com/integrations/) of 300+ connectors for APIs, databases, data warehouses, and data lakes.
 
-[GitHub - airbytehq/airbyte: The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.](https://github.com/airbytehq/airbyte)
+[GitHub - airbytehq/airbyte: The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.](https://github.com/airbytehq/airbyte) ⭐ 21k
 
 [Airbyte | Open-Source Data Integration Platform | ELT tool](https://airbyte.com/)
 
@@ -257,7 +257,7 @@ To support CDC, Airbyte uses [Debezium](https://debezium.io/) internally.
 
 ## Others
 
-[GitHub - alseambusher/crontab-ui: Easy and safe way to manage your crontab file](https://github.com/alseambusher/crontab-ui)
+[GitHub - alseambusher/crontab-ui: Easy and safe way to manage your crontab file](https://github.com/alseambusher/crontab-ui) ⭐ 3.2k
 
 Amazon Managed Workflows for Apache Airflow (MWAA) [What Is Amazon Managed Workflows for Apache Airflow? - Amazon Managed Workflows for Apache Airflow](https://docs.aws.amazon.com/mwaa/latest/userguide/what-is-mwaa.html)
 
@@ -265,6 +265,6 @@ Amazon Managed Workflows for Apache Airflow (MWAA) [What Is Amazon Managed Workf
 
 ![Amazon MWAA Architecture](../../media/Pasted%20image%2020240109123958.jpg)
 
-[GitHub - astronomer/airflow-ai-sdk: An SDK for working with LLMs and AI Agents from Apache Airflow, based on Pydantic AI](https://github.com/astronomer/airflow-ai-sdk)
+[GitHub - astronomer/airflow-ai-sdk: An SDK for working with LLMs and AI Agents from Apache Airflow, based on Pydantic AI](https://github.com/astronomer/airflow-ai-sdk) ⭐ 524
 
 [CloverDX Data Integration Platform](https://www.cloverdx.com/)

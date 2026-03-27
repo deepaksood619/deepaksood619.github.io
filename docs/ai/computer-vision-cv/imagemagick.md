@@ -1,6 +1,6 @@
 # ImageMagick
 
-[GitHub - ImageMagick/ImageMagick: 🧙‍♂️ ImageMagick 7](https://github.com/ImageMagick/ImageMagick)
+[GitHub - ImageMagick/ImageMagick: 🧙‍♂️ ImageMagick 7](https://github.com/ImageMagick/ImageMagick) ⭐ 16k
 
 ### Features
 

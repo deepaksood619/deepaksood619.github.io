@@ -85,4 +85,4 @@ Monad programming is a technique of composing different monadic values into one 
 
 - Lean is a functional programming language and interactive theorem prover. Our project strives to revolutionize mathematics by empowering anyone with an interest to grow in the field using Lean as their assistant. Lean was developed by Microsoft Research in 2013 as an initial effort to help mathematicians and engineers solve complex math problems. Lean is an open-source development environment for formal mathematics, also known as machine-checkable mathematics, used by and contributed to by an active community of mathematicians around the world.
 - [Programming Language and Theorem Prover — Lean](https://lean-lang.org/)
-- [GitHub - leanprover/lean4: Lean 4 programming language and theorem prover](https://github.com/leanprover/lean4)
+- [GitHub - leanprover/lean4: Lean 4 programming language and theorem prover](https://github.com/leanprover/lean4) ⭐ 7.7k

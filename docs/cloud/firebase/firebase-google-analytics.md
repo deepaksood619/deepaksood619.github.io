@@ -217,7 +217,7 @@ https://www.freecodecamp.org/news/how-to-use-google-tag-manager-to-maintain-goog
 - Send out fully customizable surveys to specific cohorts of users
 - Connect to external services and manage data flows with PostHog CDP
 
-[GitHub - PostHog/posthog: 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.](https://github.com/PostHog/posthog)
+[GitHub - PostHog/posthog: 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.](https://github.com/PostHog/posthog) ⭐ 32k
 
 - [Product analytics](https://posthog.com/product-analytics): Autocapture or manually instrument event-based analytics to understand user behavior and analyze data with visualization or SQL.
 - [Web analytics](https://posthog.com/web-analytics): Monitor web traffic and user sessions with a GA-like dashboard. Easily monitor conversion, web vitals, and revenue.

@@ -189,4 +189,4 @@ confluent flink application delete basic-example --environment env1 --url http:/
 
 - [Deploy and Manage Confluent Platform Using Confluent for Kubernetes \| Confluent Documentation](https://docs.confluent.io/operator/3.1/overview.html)
 - [Demo: Confluent for Kubernetes - YouTube](https://www.youtube.com/watch?v=3UUGrBK0BIQ)
-- [GitHub - confluentinc/confluent-kubernetes-examples: Example scenario workflows for Confluent for Kubernetes](https://github.com/confluentinc/confluent-kubernetes-examples)
+- [GitHub - confluentinc/confluent-kubernetes-examples: Example scenario workflows for Confluent for Kubernetes](https://github.com/confluentinc/confluent-kubernetes-examples) ⭐ 69

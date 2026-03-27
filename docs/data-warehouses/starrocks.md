@@ -13,7 +13,7 @@ StarRocks is the world's fastest open query engine for sub-second, ad-hoc analyt
 - **🎛️ Resource management**: This feature allows StarRocks to limit resource consumption for queries and implement isolation and efficient use of resources among tenants in the same cluster.
 - **💠 Easy to maintain**: Simple architecture makes StarRocks easy to deploy, maintain and scale out. StarRocks tunes its query plan agilely, balances the resources when the cluster is scaled in or out, and recovers the data replica under node failure automatically.
 
-[GitHub - StarRocks/starrocks](https://github.com/StarRocks/starrocks)
+[GitHub - StarRocks/starrocks](https://github.com/StarRocks/starrocks) ⭐ 12k
 
 [StarRocks \| A High-Performance Analytical Database](https://www.starrocks.io/)
 

@@ -9,6 +9,6 @@
 
 ## Links
 
-- [GitHub - frappe/lending: Open Source Lending software](https://github.com/frappe/lending)
+- [GitHub - frappe/lending: Open Source Lending software](https://github.com/frappe/lending) ⭐ 271
 	- [Loan Management](https://docs.erpnext.com/docs/v14/user/manual/en/loan-management)
 - [Best Free Open Source Loan Origination Software](https://www.goodfirms.co/loan-origination-software/blog/best-free-open-source-loan-origination-software)

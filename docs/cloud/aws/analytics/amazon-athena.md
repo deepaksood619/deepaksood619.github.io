@@ -590,7 +590,7 @@ https://aws.amazon.com/premiumsupport/knowledge-center/error-json-athena
 - [Visualize MongoDB data from Amazon QuickSight using Amazon Athena Federated Query | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/visualize-mongodb-data-from-amazon-quicksight-using-amazon-athena-federated-query/)
     - [Real Time: MongoDB data to AWS QuickSight - Working with Data / Connectors & Integrations - MongoDB Developer Community Forums](https://www.mongodb.com/community/forums/t/real-time-mongodb-data-to-aws-quicksight/2314)
 
-### [GitHub - quux00/hive-json-schema: Tool to generate a Hive schema from a JSON example doc](https://github.com/quux00/hive-json-schema)
+### [GitHub - quux00/hive-json-schema: Tool to generate a Hive schema from a JSON example doc](https://github.com/quux00/hive-json-schema) ⭐ 227
 
 `java -jar target/json-hive-schema-1.0-jar-with-dependencies.jar in.json TopQuark`
 

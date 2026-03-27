@@ -54,7 +54,7 @@ https://en.wikipedia.org/wiki/Web_accelerator
 
 ## Python Application Servers
 
-- [Bjoern](https://github.com/jonashaag/bjoern) describes itself as a "screamingly fast Python WSGI server" and boasts that is "the fastest, smallest and most lightweight WSGI server." We created [a small application](https://gist.github.com/omedhabib/c3c8ff74ec3993740e80d7235251e73a), using most of the library's defaults.
+- [Bjoern](https://github.com/jonashaag/bjoern) ⭐ 3.0k describes itself as a "screamingly fast Python WSGI server" and boasts that is "the fastest, smallest and most lightweight WSGI server." We created [a small application](https://gist.github.com/omedhabib/c3c8ff74ec3993740e80d7235251e73a), using most of the library's defaults.
 - [CherryPy](http://cherrypy.org/) is an extremely popular and stable WSGI framework and server.
 - [Gunicorn](http://gunicorn.org/) was inspired by Ruby's Unicorn server (hence the name). It modestly claims that it is "simply implemented, light on server resources, and fairly speedy." Unlike Bjoern and CerryPy, Gunicorn is a standalone server. "WORKER_COUNT" was set to be twice the number of available of processors, plus one. This was based on a recommendation from Gunicorn's documentation.
 - [Meinheld](http://meinheld.org/) is a "high-performance WSGI-compliant web server" that claims to be lightweight. Based on the example listed on its website, we constructed [this application](https://gist.github.com/omedhabib/d638e213af0f843580e5ca7724005ac6).
@@ -210,7 +210,7 @@ Gin is a HTTP web framework written in Go (Golang). It features a Martini-like A
 
 [Gin Web Framework \| Gin Web Framework](https://gin-gonic.com)
 
-[GitHub - gin-gonic/gin: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.](https://github.com/gin-gonic/gin)
+[GitHub - gin-gonic/gin: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.](https://github.com/gin-gonic/gin) ⭐ 88k
 
 ## Links
 

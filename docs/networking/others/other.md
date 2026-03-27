@@ -44,7 +44,7 @@ https://en.wikipedia.org/wiki/Zero-configuration_networking
 
 pmacct is a small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry]
 
-[pmacct](https://github.com/pmacct/pmacct) is a set of network monitoring tools that can collect network traffic via libpcap and export it to a variety of places. Can be used to do network flow analysis.
+[pmacct](https://github.com/pmacct/pmacct) ⭐ 1.2k is a set of network monitoring tools that can collect network traffic via libpcap and export it to a variety of places. Can be used to do network flow analysis.
 
 pmacct is a small set of multi-purpose passive network monitoring tools. It can account, classify, aggregate, replicate and export forwarding-plane data, ie. IPv4 and IPv6 traffic; collect and correlate control-plane data via BGP and BMP; collect and correlate RPKI data; collect infrastructure data via Streaming Telemetry. Each component works both as a standalone daemon and as a thread of execution for correlation purposes (ie. enrich NetFlow with BGP data). pmacct main features are:
 
@@ -52,7 +52,7 @@ pmacct is a small set of multi-purpose passive network monitoring tools. It can 
 - Runs on Linux, BSDs, Solaris and embedded systems
 - Support for both IPv4 and IPv6
 - Collects data through libpcap, Netlink/NFLOG, NetFlow v1/v5/v7/v8/v9, sFlow v2/v4/v5 and IPFIX
-- Collects Streaming Telemetry data. Read more [here](https://github.com/pmacct/pmacct/blob/master/telemetry/README.telemetry).
+- Collects Streaming Telemetry data. Read more [here](https://github.com/pmacct/pmacct/blob/master/telemetry/README.telemetry) ⭐ 1.2k.
 - Supports Cisco NEL for CGNAT scenarios and Cisco NSEL
 - Saves data to a number of backends including:
     - Relational databases: MySQL, PostgreSQL and SQLite

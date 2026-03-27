@@ -117,4 +117,4 @@ https://github.com/aws/jsii
 ## Others
 
 - [Elysia - Ergonomic Framework for Humans \| ElysiaJS](https://elysiajs.com/)
-	- [GitHub - elysiajs/elysia: Ergonomic Framework for Humans](https://github.com/elysiajs/elysia)
+	- [GitHub - elysiajs/elysia: Ergonomic Framework for Humans](https://github.com/elysiajs/elysia) ⭐ 18k

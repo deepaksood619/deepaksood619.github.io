@@ -12,7 +12,7 @@ Extensions that helps make obsidian better
 - Outliners (Outlines like Roam Research)
 - DataView - [How to use the Obsidian Dataview plugin](https://www.youtube.com/watch?v=JTObSymEvWA)
 - Kanban
-    - [GitHub - mgmeyers/obsidian-kanban: Create markdown-backed Kanban boards in Obsidian.](https://github.com/mgmeyers/obsidian-kanban)
+    - [GitHub - mgmeyers/obsidian-kanban: Create markdown-backed Kanban boards in Obsidian.](https://github.com/mgmeyers/obsidian-kanban) ⭐ 4.1k
     - [Obsidian Kanban Plugin - Obsidian Kanban Plugin - Obsidian Publish](https://publish.obsidian.md/kanban)
     - [Set a WIP Limit - Obsidian Kanban Plugin - Obsidian Publish](https://publish.obsidian.md/kanban/How+do+I/Set+a+WIP+Limit)
 - Calendar
@@ -34,27 +34,27 @@ Extensions that helps make obsidian better
 - Reading Time
 - Templater
 - Spaced Repetition (Flashcards)
-- [Regex Find/Replace](https://github.com/Gru80/obsidian-regex-replace)
-- [GitHub - zsviczian/excalibrain: A graph view to navigate your Obsidian vault](https://github.com/zsviczian/excalibrain)
-- [GitHub - valentine195/obsidian-leaflet-plugin: Adds interactive maps to Obsidian using Leaflet.js](https://github.com/valentine195/obsidian-leaflet-plugin)
-- [GitHub - SkepticMystic/breadcrumbs: Visualise a custom hierarchy in your Obsidian vault. API: https://skepticmystic.github.io/breadcrumbs/](https://github.com/SkepticMystic/breadcrumbs)
+- [Regex Find/Replace](https://github.com/Gru80/obsidian-regex-replace) ⭐ 88
+- [GitHub - zsviczian/excalibrain: A graph view to navigate your Obsidian vault](https://github.com/zsviczian/excalibrain) ⭐ 929
+- [GitHub - valentine195/obsidian-leaflet-plugin: Adds interactive maps to Obsidian using Leaflet.js](https://github.com/valentine195/obsidian-leaflet-plugin) ⭐ 686
+- [GitHub - SkepticMystic/breadcrumbs: Visualise a custom hierarchy in your Obsidian vault. API: https://skepticmystic.github.io/breadcrumbs/](https://github.com/SkepticMystic/breadcrumbs) ⭐ 743
 - [My Top 44 Obsidian Plugins RANKED](https://www.youtube.com/watch?v=xVQGrn9gQKI)
-- [GitHub - flyingnobita/obsidian-github-stars: Display the number of stars next to GitHub repository links in Obsidian.](https://github.com/flyingnobita/obsidian-github-stars)
+- [GitHub - flyingnobita/obsidian-github-stars: Display the number of stars next to GitHub repository links in Obsidian.](https://github.com/flyingnobita/obsidian-github-stars) ⭐ 5
 - [4 game-changing Obsidian workflows I wish I tried earlier](https://www.xda-developers.com/game-changing-obsidian-workflows/)
 - Make.md [Make.md is the best Obsidian plugin to help keep you organized and beautify your notes](https://www.xda-developers.com/makemd-best-obsidian-plugin-organize-beautify-notes/)
-- [GitHub - scambier/obsidian-omnisearch: A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.](https://github.com/scambier/obsidian-omnisearch)
-- [GitHub - OliverBalfour/obsidian-pandoc: Pandoc document export plugin for Obsidian (https://obsidian.md)](https://github.com/OliverBalfour/obsidian-pandoc)
-- [GitHub - meld-cp/obsidian-encrypt: Hide secrets in your Obsidian.md vault](https://github.com/meld-cp/obsidian-encrypt)
-- **[GitHub - logancyang/obsidian-copilot: THE Copilot in Obsidian](https://github.com/logancyang/obsidian-copilot)**
-- [GitHub - nhaouari/obsidian-textgenerator-plugin: Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.](https://github.com/nhaouari/obsidian-textgenerator-plugin)
+- [GitHub - scambier/obsidian-omnisearch: A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.](https://github.com/scambier/obsidian-omnisearch) ⭐ 1.9k
+- [GitHub - OliverBalfour/obsidian-pandoc: Pandoc document export plugin for Obsidian (https://obsidian.md)](https://github.com/OliverBalfour/obsidian-pandoc) ⭐ 870
+- [GitHub - meld-cp/obsidian-encrypt: Hide secrets in your Obsidian.md vault](https://github.com/meld-cp/obsidian-encrypt) ⭐ 904
+- **[GitHub - logancyang/obsidian-copilot: THE Copilot in Obsidian](https://github.com/logancyang/obsidian-copilot) ⭐ 6.5k**
+- [GitHub - nhaouari/obsidian-textgenerator-plugin: Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.](https://github.com/nhaouari/obsidian-textgenerator-plugin) ⭐ 1.9k
 	- [GPT in Obsidian: Text Generator Plugin - YouTube](https://www.youtube.com/watch?v=OergqWCdFKc)
 - TODO - [Use H1 or YAML property "title" instead of or in addition to filename as display name - Feature requests - Obsidian Forum](https://forum.obsidian.md/t/use-h1-or-yaml-property-title-instead-of-or-in-addition-to-filename-as-display-name/687/148)
 	- [Add option to display title instead of filename - Help - Obsidian Forum](https://forum.obsidian.md/t/add-option-to-display-title-instead-of-filename/40897/5)
-- [GitHub - javalent/admonitions: Adds admonition block-styled content to Obsidian.md](https://github.com/javalent/admonitions)
-- [GitHub - brianpetro/obsidian-smart-connections: Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3](https://github.com/brianpetro/obsidian-smart-connections)
+- [GitHub - javalent/admonitions: Adds admonition block-styled content to Obsidian.md](https://github.com/javalent/admonitions) ⭐ 1.2k
+- [GitHub - brianpetro/obsidian-smart-connections: Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3](https://github.com/brianpetro/obsidian-smart-connections) ⭐ 4.7k
 	- [Obsidian Smart Connections UPDATE 📝 Rediscover Notes With Obsidian AI - YouTube](https://www.youtube.com/watch?v=7Rvl9Sl29Jk)
-- [GitHub - mirnovov/obsidian-homepage: An Obsidian plugin that opens a specified note, canvas, or workspace on startup, instead of the most recent one.](https://github.com/mirnovov/obsidian-homepage)
-- [GitHub - PaulTreanor/notes-dater: Adds created\_on and updated\_on dates of the active note to status bar](https://github.com/PaulTreanor/notes-dater)
+- [GitHub - mirnovov/obsidian-homepage: An Obsidian plugin that opens a specified note, canvas, or workspace on startup, instead of the most recent one.](https://github.com/mirnovov/obsidian-homepage) ⭐ 635
+- [GitHub - PaulTreanor/notes-dater: Adds created\_on and updated\_on dates of the active note to status bar](https://github.com/PaulTreanor/notes-dater) ⭐ 17
 
 **Settings / Preferences**
 
@@ -65,8 +65,8 @@ Extensions that helps make obsidian better
 - [Ultimate guide to best Obsidian themes | Elizabeth Butler](https://elizabethbutlermd.com/5-of-the-best-custom-minimalist-digital-note-taking-themes-for-obsidian-in-2022/)
 - [7+ Obsidian Themes for a Drastic Design Facelift!](https://akshayhallur.com/blog/best-obsidian-themes)
 - Things (current)
-	- [GitHub - colineckert/obsidian-things: An Obsidian theme inspired by the beautifully-designed app, Things.](https://github.com/colineckert/obsidian-things)
-- [GitHub - aaaaalexis/obsidian-cupertino: A native look and feel Obsidian theme designed for a clean, focused, and mobile-friendly writing experience.](https://github.com/aaaaalexis/obsidian-cupertino)
+	- [GitHub - colineckert/obsidian-things: An Obsidian theme inspired by the beautifully-designed app, Things.](https://github.com/colineckert/obsidian-things) ⭐ 935
+- [GitHub - aaaaalexis/obsidian-cupertino: A native look and feel Obsidian theme designed for a clean, focused, and mobile-friendly writing experience.](https://github.com/aaaaalexis/obsidian-cupertino) ⭐ 947
 
 ## Obsidian Shortcuts
 
@@ -189,11 +189,11 @@ Toggle side bars
 - https://github.com/flowershow/flowershow - 156
 - https://forum.obsidian.md/t/obsidian-mkdocs-a-free-publish-alternative-workflow/29540
 - https://forum.obsidian.md/t/pubsidian-free-and-elegant-obsidian-publish-alternative/21825
-- [GitHub - nikitavoloboev/knowledge: Everything I know](https://github.com/nikitavoloboev/knowledge)
+- [GitHub - nikitavoloboev/knowledge: Everything I know](https://github.com/nikitavoloboev/knowledge) ⭐ 4.9k
 
 ## Publish / Examples / Showcases / Codex
 
-- [Second Brain Showcases Awesome](https://github.com/KasperZutterman/Second-Brain)
+- [Second Brain Showcases Awesome](https://github.com/KasperZutterman/Second-Brain) ⭐ 1.7k
 - https://publish.obsidian.md/chromatically/publish+homepage
 - https://www.nitinpai.in/
 - https://publish.obsidian.md/alexisrondeau/Welcome+to+my+digital+garden
@@ -221,7 +221,7 @@ Toggle side bars
 ## Company Knowledge Base
 
 - **Confluence**
-- **Outline** - [GitHub - outline/outline: The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.](https://github.com/outline/outline)
+- **Outline** - [GitHub - outline/outline: The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.](https://github.com/outline/outline) ⭐ 38k
     - [Outline – Team knowledge base & wiki](https://www.getoutline.com/)
 - [GitBook - Where technical teams document](https://www.gitbook.com/)
 - https://orgmode.org
@@ -231,17 +231,17 @@ Toggle side bars
 ## Open Source Alternatives
 
 - [GitHub Star History](https://www.star-history.com/#logseq/logseq&TriliumNext/Trilium&laurent22/joplin&Date)
-- [GitHub - laurent22/joplin: Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.](https://github.com/laurent22/joplin)
+- [GitHub - laurent22/joplin: Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.](https://github.com/laurent22/joplin) ⭐ 54k
 	- [Joplin](https://joplinapp.org/)
 	- [I switched from Obsidian to this actually open-source app and I’m not going back](https://www.makeuseof.com/switched-from-obsidian-to-joplin/)
-	- [GitHub - laurent22/joplin: Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.](https://github.com/laurent22/joplin)
-- [**https://github.com/logseq/logseq**](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration
-- [GitHub - TriliumNext/Trilium: Build your personal knowledge base with Trilium Notes](https://github.com/TriliumNext/Trilium)
+	- [GitHub - laurent22/joplin: Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.](https://github.com/laurent22/joplin) ⭐ 54k
+- [**https://github.com/logseq/logseq**](https://github.com/logseq/logseq) ⭐ 42k - A privacy-first, open-source platform for knowledge management and collaboration
+- [GitHub - TriliumNext/Trilium: Build your personal knowledge base with Trilium Notes](https://github.com/TriliumNext/Trilium) ⭐ 35k
 - [Obsidian alternatives that are open source (free) and sync feature as well : r/ObsidianMD](https://www.reddit.com/r/ObsidianMD/comments/x95y56/obsidian_alternatives_that_are_open_source_free/)
 
 ## Others
 
-- [**https://github.com/foambubble/foam**](https://github.com/foambubble/foam)
+- [**https://github.com/foambubble/foam**](https://github.com/foambubble/foam) ⭐ 17k
 - https://wiki.dendron.so
 - https://github.com/standardnotes/app
 - Roam Research
@@ -259,7 +259,7 @@ Toggle side bars
 - [TwinMind: Real-Time AI Notetaker to Summarize & Analyze Meetings](https://twinmind.com/)
 - [I wish I knew these before creating my Obsidian vault 3 years ago](https://www.makeuseof.com/i-wish-i-knew-these-before-creating-my-obsidian-vault/)
 - Zettlr - [I found an open-source app like Obsidian, except it's better](https://www.xda-developers.com/found-open-source-app-like-obsidian-except-its-better/)
-	- [GitHub - Zettlr/Zettlr: Your One-Stop Publication Workbench](https://github.com/Zettlr/Zettlr)
+	- [GitHub - Zettlr/Zettlr: Your One-Stop Publication Workbench](https://github.com/Zettlr/Zettlr) ⭐ 13k
 - Google Keep
 	- [Memos - Open Source, Self-hosted Note Taking - Memos](https://usememos.com/)
-	- [GitHub - usememos/memos: A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.](https://github.com/usememos/memos)
+	- [GitHub - usememos/memos: A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.](https://github.com/usememos/memos) ⭐ 58k

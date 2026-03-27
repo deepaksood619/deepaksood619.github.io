@@ -48,7 +48,7 @@ https://cloud.llamaindex.ai/
 - [Build Agentic Workflows Using LangGraph! - YouTube](https://www.youtube.com/watch?v=QblpBsipCwM)
 - [LangChain vs. LangGraph: Which AI Framwork Is Right for You?](https://www.curotec.com/insights/langchain-vs-langgraph-framework-comparison/)
 - [AI Agent Workflows: A Complete Guide on Whether to Build With LangGraph or LangChain | by Sandi Besen | Towards Data Science](https://towardsdatascience.com/ai-agent-workflows-a-complete-guide-on-whether-to-build-with-langgraph-or-langchain-117025509fa0)
-- [GitHub - neo4j-labs/llm-graph-builder: Neo4j graph construction from unstructured data using LLMs](https://github.com/neo4j-labs/llm-graph-builder)
+- [GitHub - neo4j-labs/llm-graph-builder: Neo4j graph construction from unstructured data using LLMs](https://github.com/neo4j-labs/llm-graph-builder) ⭐ 4.6k
 - [Neo4j LLM Knowledge Graph Builder - Extract Nodes and Relationships from Unstructured Text](https://neo4j.com/labs/genai-ecosystem/llm-graph-builder/)
 - [GraphRAG Python Package: Accelerating GenAI With Knowledge Graphs](https://neo4j.com/blog/graphrag-python-package/)
 - [User Guide: RAG — neo4j-graphrag-python documentation](https://neo4j.com/docs/neo4j-graphrag-python/current/user_guide_rag.html#retriever-configuration)

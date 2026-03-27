@@ -88,4 +88,4 @@ https://medium.com/building-the-system/gunicorn-3-means-of-concurrency-efbb54767
 
 ## Others
 
-- [GitHub - blueswen/gunicorn-monitoring: Monitor Gunicorn application (e.g. Flask) through build-in instrumentation feature using the statsD protocol over UDP with Prometheus and Grafana.](https://github.com/blueswen/gunicorn-monitoring/tree/main)
+- [GitHub - blueswen/gunicorn-monitoring: Monitor Gunicorn application (e.g. Flask) through build-in instrumentation feature using the statsD protocol over UDP with Prometheus and Grafana.](https://github.com/blueswen/gunicorn-monitoring/tree/main) ⭐ 35

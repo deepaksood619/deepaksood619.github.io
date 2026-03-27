@@ -41,22 +41,22 @@ A smart contract is code that lives on the Ethereum blockchain and runs exactly 
 
 **Scaffold-ETH _\- Quickly experiment with Solidity using a frontend that adapts to your smart contract._**
 
-- [GitHub](https://github.com/austintgriffith/scaffold-eth)
+- [GitHub](https://github.com/austintgriffith/scaffold-eth) ⭐ 9.1k
 - [Example dapp](https://punkwallet.io/)
 
 **Create Eth App _\- Create Ethereum-powered apps with one command._**
 
-- [GitHub](https://github.com/paulrberg/create-eth-app)
+- [GitHub](https://github.com/paulrberg/create-eth-app) ⭐ 2.8k
 
 **One Click Dapp _\- FOSS tool for generating dapp frontends from an [ABI](https://ethereum.org/en/glossary/#abi)._**
 
 - [oneclickdapp.com](https://oneclickdapp.com/)
-- [GitHub](https://github.com/oneclickdapp/oneclickdapp-v1)
+- [GitHub](https://github.com/oneclickdapp/oneclickdapp-v1) ⭐ 250
 
 **Etherflow _\- FOSS tool for Ethereum developers to test their node, and compose & debug RPC calls from the browser._**
 
 - [etherflow.quiknode.io](https://etherflow.quiknode.io/)
-- [GitHub](https://github.com/abunsen/etherflow)
+- [GitHub](https://github.com/abunsen/etherflow) ⭐ 96
 
 ## Further reading
 

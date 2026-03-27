@@ -26,7 +26,7 @@ to 's3://my_bucket/game_data'
 iam_role 'arn:aws:iam::123:role/RedshiftExport';
 ```
 
-There's also libraries for databases, such as the [spark-redshift](https://github.com/databricks/spark-redshift), that make this process easier to perform.
+There's also libraries for databases, such as the [spark-redshift](https://github.com/databricks/spark-redshift) ⭐ 609, that make this process easier to perform.
 
 ## Writing Data
 

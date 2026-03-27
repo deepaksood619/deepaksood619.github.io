@@ -142,7 +142,7 @@ Some additional challenges Google Search must solve include:
    	- Indexing is done in words consisting of documents order
    	- All the indexes are parallelized with each consisting some part of the web
 - [EP104: How do Search Engines Work?](https://blog.bytebytego.com/p/ep104-how-do-search-engines-work)
-- [system-design/notes/google-search-engine.md at master · jguamie/system-design · GitHub](https://github.com/jguamie/system-design/blob/master/notes/google-search-engine.md)
+- [system-design/notes/google-search-engine.md at master · jguamie/system-design · GitHub](https://github.com/jguamie/system-design/blob/master/notes/google-search-engine.md) ⭐ 729
 - [How I Would Design… A Search Engine! | by James Collerton | Medium](https://jc1175.medium.com/how-i-would-design-a-search-engine-9b423a18afe7)
 - [Designing Distributed Search System | by Jyoti | Medium](https://medium.com/@jyoti1308/designing-a-distributed-search-system-92039ecfd273)
 - [System Design: The Distributed Search - Grokking Modern System Design Interview for Engineers & Managers](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers/system-design-the-distributed-search)
