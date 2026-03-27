@@ -152,7 +152,7 @@ With **Zero-cut Migrations**, clients make one change: update the bootstrap URL 
 - Auth swap built in: unauthenticated clusters can migrate to Confluent cloud with minimal client changes
 - Works for any Kafka cluster migration that is Kafka compatible
 - Single bootstrap URL change for clients. That's the entire ask for clients.
-  
+
 One gap: IAM is not supported by CC gateway at the moment.
 
 ## Scaling
