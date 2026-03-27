@@ -1,0 +1,460 @@
+<!doctype html>
+<html lang="en" dir="ltr" class="docs-wrapper plugin-docs plugin-id-default docs-version-current docs-doc-page docs-doc-id-technologies/flink/interview-questions" data-has-hydrated="false">
+<head>
+<meta charset="UTF-8">
+<meta name="generator" content="Docusaurus v3.8.0">
+<title data-rh="true">Interview Questions | Deep Notes</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://deepaksood619.github.io/img/timeline_blurred.webp"><meta data-rh="true" name="twitter:image" content="https://deepaksood619.github.io/img/timeline_blurred.webp"><meta data-rh="true" property="og:url" content="https://deepaksood619.github.io/technologies/flink/interview-questions"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Interview Questions | Deep Notes"><meta data-rh="true" name="description" content="Question 1: Optimizing Flink Queries"><meta data-rh="true" property="og:description" content="Question 1: Optimizing Flink Queries"><link data-rh="true" rel="icon" href="/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://deepaksood619.github.io/technologies/flink/interview-questions"><link data-rh="true" rel="alternate" href="https://deepaksood619.github.io/technologies/flink/interview-questions" hreflang="en"><link data-rh="true" rel="alternate" href="https://deepaksood619.github.io/technologies/flink/interview-questions" hreflang="x-default"><link data-rh="true" rel="preconnect" href="https://X3OY8NGHVH-dsn.algolia.net" crossorigin="anonymous"><script data-rh="true" type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Technologies","item":"https://deepaksood619.github.io/technologies/"},{"@type":"ListItem","position":2,"name":"Apache Flink","item":"https://deepaksood619.github.io/technologies/flink/"},{"@type":"ListItem","position":3,"name":"Interview Questions","item":"https://deepaksood619.github.io/technologies/flink/interview-questions"}]}</script><link rel="preconnect" href="https://www.google-analytics.com">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZSZMJXWSH3"></script>
+<script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-ZSZMJXWSH3",{})</script>
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script>window.dataLayer=window.dataLayer||[]</script>
+<script>!function(e,t,a,n){e[n]=e[n]||[],e[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var g=t.getElementsByTagName(a)[0],m=t.createElement(a);m.async=!0,m.src="https://www.googletagmanager.com/gtm.js?id=GTM-TN3KBF4",g.parentNode.insertBefore(m,g)}(window,document,"script","dataLayer")</script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" title="Deep Notes" href="/opensearch.xml">
+<link rel="icon" href="/img/logo.webp">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="rgb(53, 120, 229)">
+
+
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.9f55d0bd.css">
+<script src="/assets/js/runtime~main.106329ec.js" defer="defer"></script>
+<script src="/assets/js/main.9160046c.js" defer="defer"></script>
+</head>
+<body class="navigation-with-keyboard">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;"><defs>
+<symbol id="theme-svg-external-link" viewBox="0 0 24 24"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"/></symbol>
+</defs></svg>
+<script>!function(){var t=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return window.localStorage.getItem("theme")}catch(t){}}();document.documentElement.setAttribute("data-theme",t||(window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light")),document.documentElement.setAttribute("data-theme-choice",t||"system")}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id="__docusaurus"><div role="region" aria-label="Skip to main content"><a class="skipToContent_fXgn" href="#__docusaurus_skipToContent_fallback">Skip to main content</a></div><nav aria-label="Main" class="theme-layout-navbar navbar navbar--fixed-top navbarHideable_m1mJ"><div class="navbar__inner"><div class="theme-layout-navbar-left navbar__items"><button aria-label="Toggle navigation bar" aria-expanded="false" class="navbar__toggle clean-btn" type="button"><svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path></svg></button><a class="navbar__brand" href="/"><div class="navbar__logo"><img src="/img/logo.webp" alt="Site Logo" class="themedComponent_mlkZ themedComponent--light_NVdE"><img src="/img/logo.webp" alt="Site Logo" class="themedComponent_mlkZ themedComponent--dark_xIcU"></div><b class="navbar__title text--truncate">Deep Notes</b></a></div><div class="theme-layout-navbar-right navbar__items navbar__items--right"><a href="https://github.com/deepaksood619" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">GitHub<svg width="13.5" height="13.5" aria-hidden="true" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a><a href="https://www.linkedin.com/in/deepaksood619/" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">LinkedIn<svg width="13.5" height="13.5" aria-hidden="true" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a><div class="toggle_vylO colorModeToggle_DEke"><button class="clean-btn toggleButton_gllP toggleButtonDisabled_aARS" type="button" disabled="" title="system mode" aria-label="Switch between dark and light mode (currently system mode)"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP lightToggleIcon_pyhR"><path fill="currentColor" d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP darkToggleIcon_wfgR"><path fill="currentColor" d="M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP systemToggleIcon_QzmC"><path fill="currentColor" d="m12 21c4.971 0 9-4.029 9-9s-4.029-9-9-9-9 4.029-9 9 4.029 9 9 9zm4.95-13.95c1.313 1.313 2.05 3.093 2.05 4.95s-0.738 3.637-2.05 4.95c-1.313 1.313-3.093 2.05-4.95 2.05v-14c1.857 0 3.637 0.737 4.95 2.05z"></path></svg></button></div><div class="navbarSearchContainer_Bca1"><button type="button" class="DocSearch DocSearch-Button" aria-label="Search (Command+K)"><span class="DocSearch-Button-Container"><svg width="20" height="20" class="DocSearch-Search-Icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M14.386 14.386l4.0877 4.0877-4.0877-4.0877c-2.9418 2.9419-7.7115 2.9419-10.6533 0-2.9419-2.9418-2.9419-7.7115 0-10.6533 2.9418-2.9419 7.7115-2.9419 10.6533 0 2.9419 2.9418 2.9419 7.7115 0 10.6533z" stroke="currentColor" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg><span class="DocSearch-Button-Placeholder">Search</span></span><span class="DocSearch-Button-Keys"></span></button></div></div></div><div role="presentation" class="navbar-sidebar__backdrop"></div></nav><div id="__docusaurus_skipToContent_fallback" class="theme-layout-main main-wrapper mainWrapper_z2l0"><div class="docsWrapper_hBAB"><button aria-label="Scroll back to top" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type="button"></button><div class="docRoot_UBD9"><aside class="theme-doc-sidebar-container docSidebarContainer_YfHR"><div class="sidebarViewport_aRkj"><div class="sidebar_njMd sidebarWithHideableNavbar_wUlq"><a tabindex="-1" class="sidebarLogo_isFc" href="/"><img src="/img/logo.webp" alt="Site Logo" class="themedComponent_mlkZ themedComponent--light_NVdE"><img src="/img/logo.webp" alt="Site Logo" class="themedComponent_mlkZ themedComponent--dark_xIcU"><b>Deep Notes</b></a><nav aria-label="Docs sidebar" class="menu thin-scrollbar menu_SIkG"><ul class="theme-doc-sidebar-menu menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/about-deepak-sood/">About Deepak Sood</a><button aria-label="Expand sidebar category &#x27;About Deepak Sood&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/ai/">AI</a><button aria-label="Expand sidebar category &#x27;AI&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/algorithms/">Algorithms</a><button aria-label="Expand sidebar category &#x27;Algorithms&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/book-summaries/">Book Summaries</a><button aria-label="Expand sidebar category &#x27;Book Summaries&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/cloud/">Cloud</a><button aria-label="Expand sidebar category &#x27;Cloud&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/computer-science/">Computer Science</a><button aria-label="Expand sidebar category &#x27;Computer Science&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/courses/">Courses / Certifications</a><button aria-label="Expand sidebar category &#x27;Courses / Certifications&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/data-structures/">Data Structures</a><button aria-label="Expand sidebar category &#x27;Data Structures&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/data-warehouses/">Data Warehouses</a><button aria-label="Expand sidebar category &#x27;Data Warehouses&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/databases/">Databases</a><button aria-label="Expand sidebar category &#x27;Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/databases-nosql/">NoSQL Databases</a><button aria-label="Expand sidebar category &#x27;NoSQL Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/databases-sql/">SQL Databases</a><button aria-label="Expand sidebar category &#x27;SQL Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/decentralized-applications/">Decentralized Applications</a><button aria-label="Expand sidebar category &#x27;Decentralized Applications&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/devops/">DevOps</a><button aria-label="Expand sidebar category &#x27;DevOps&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/economics/">Economics</a><button aria-label="Expand sidebar category &#x27;Economics&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/education/">Education</a><button aria-label="Expand sidebar category &#x27;Education&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/frontend/">Frontend</a><button aria-label="Expand sidebar category &#x27;Frontend&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/knowledge/">Knowledge</a><button aria-label="Expand sidebar category &#x27;Knowledge&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/languages/">Languages</a><button aria-label="Expand sidebar category &#x27;Languages&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/management/">Management</a><button aria-label="Expand sidebar category &#x27;Management&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/mathematics/">Mathematics</a><button aria-label="Expand sidebar category &#x27;Mathematics&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/networking/">Networking</a><button aria-label="Expand sidebar category &#x27;Networking&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/psychology/">Psychology</a><button aria-label="Expand sidebar category &#x27;Psychology&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" href="/python/">Python</a><button aria-label="Expand sidebar category &#x27;Python&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link" href="/">Deepak&#x27;s Wiki</a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--active" href="/technologies/">Technologies</a><button aria-label="Collapse sidebar category &#x27;Technologies&#x27;" aria-expanded="true" type="button" class="clean-btn menu__caret"></button></div><ul class="menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/technologies/apache/">Apache</a><button aria-label="Expand sidebar category &#x27;Apache&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/technologies/apache-airflow/">Airflow</a><button aria-label="Expand sidebar category &#x27;Airflow&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/technologies/apache-hadoop/">Apache Hadoop</a><button aria-label="Expand sidebar category &#x27;Apache Hadoop&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/technologies/apache-spark/">Apache Spark</a><button aria-label="Expand sidebar category &#x27;Apache Spark&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/technologies/brokers/">Brokers</a><button aria-label="Expand sidebar category &#x27;Brokers&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/technologies/celery/">Celery</a><button aria-label="Expand sidebar category &#x27;Celery&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/technologies/confluent/">Confluent</a><button aria-label="Expand sidebar category &#x27;Confluent&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/technologies/elasticsearch/">Elasticsearch</a><button aria-label="Expand sidebar category &#x27;Elasticsearch&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--active" tabindex="0" href="/technologies/flink/">Apache Flink</a><button aria-label="Collapse sidebar category &#x27;Apache Flink&#x27;" aria-expanded="true" type="button" class="clean-btn menu__caret"></button></div><ul class="menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/technologies/flink/architecture-key-components">Architecture and Key Components</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/technologies/flink/challenges">Challenges</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/technologies/flink/commands">Commands</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/technologies/flink/glossary">Glossary</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/technologies/flink/internals">Internals</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link menu__link--active" aria-current="page" tabindex="0" href="/technologies/flink/interview-questions">Interview Questions</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/technologies/flink/intro">Intro</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/technologies/flink/others">Others</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/technologies/flink/processing-model">Processing Model</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/technologies/flink/pyflink">PyFlink</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/technologies/flink/queries">Queries</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link" tabindex="0" href="/technologies/flink/watermarks">WaterMarks</a></li></ul></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/technologies/git/">Git</a><button aria-label="Expand sidebar category &#x27;Git&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/technologies/kafka/">Kafka</a><button aria-label="Expand sidebar category &#x27;Kafka&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/technologies/others/">Others</a><button aria-label="Expand sidebar category &#x27;Others&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li></ul></li></ul></nav><button type="button" title="Collapse sidebar" aria-label="Collapse sidebar" class="button button--secondary button--outline collapseSidebarButton_PEFL"><svg width="20" height="20" aria-hidden="true" class="collapseSidebarButtonIcon_kv0_"><g fill="#7a7a7a"><path d="M9.992 10.023c0 .2-.062.399-.172.547l-4.996 7.492a.982.982 0 01-.828.454H1c-.55 0-1-.453-1-1 0-.2.059-.403.168-.551l4.629-6.942L.168 3.078A.939.939 0 010 2.528c0-.548.45-.997 1-.997h2.996c.352 0 .649.18.828.45L9.82 9.472c.11.148.172.347.172.55zm0 0"></path><path d="M19.98 10.023c0 .2-.058.399-.168.547l-4.996 7.492a.987.987 0 01-.828.454h-3c-.547 0-.996-.453-.996-1 0-.2.059-.403.168-.551l4.625-6.942-4.625-6.945a.939.939 0 01-.168-.55 1 1 0 01.996-.997h3c.348 0 .649.18.828.45l4.996 7.492c.11.148.168.347.168.55zm0 0"></path></g></svg></button></div></div></aside><main class="docMainContainer_TBSr"><div class="container padding-top--md padding-bottom--lg"><div class="row"><div class="col docItemCol_VOVn"><div class="docItemContainer_Djhp"><article><nav class="theme-doc-breadcrumbs breadcrumbsContainer_Z_bl" aria-label="Breadcrumbs"><ul class="breadcrumbs"><li class="breadcrumbs__item"><a aria-label="Home page" class="breadcrumbs__link" href="/"><svg viewBox="0 0 24 24" class="breadcrumbHomeIcon_YNFT"><path d="M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z" fill="currentColor"></path></svg></a></li><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="/technologies/"><span>Technologies</span></a></li><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="/technologies/flink/"><span>Apache Flink</span></a></li><li class="breadcrumbs__item breadcrumbs__item--active"><span class="breadcrumbs__link">Interview Questions</span></li></ul></nav><div class="tocCollapsible_ETCw theme-doc-toc-mobile tocMobile_ITEo"><button type="button" class="clean-btn tocCollapsibleButton_TO0P">On this page</button></div><div class="theme-doc-markdown markdown"><header><h1>Interview Questions</h1></header>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-1-optimizing-flink-queries">Question 1: Optimizing Flink Queries<a href="#question-1-optimizing-flink-queries" class="hash-link" aria-label="Direct link to Question 1: Optimizing Flink Queries" title="Direct link to Question 1: Optimizing Flink Queries">​</a></h2>
+<p>Which of the following are distinct, effective, and commonly recommended ways to optimize a Flink query? (Select 2)</p>
+<ol>
+<li>Filter later on in the query to reduce data shuffling.</li>
+<li>Enable nested message grouping.</li>
+<li>Minimize retraction cost by preferring append-only sinks.</li>
+<li>Reduce data shuffling by filtering early.</li>
+</ol>
+<p><strong>Correct Answers: 3 and 4</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<ul>
+<li><strong>Filtering Early (4):</strong> This is a fundamental optimization known as &quot;Predicate Pushdown.&quot; By filtering data as close to the source as possible, you reduce the number of records that need to be serialized, sent over the network (shuffled), and processed by downstream operators.</li>
+<li><strong>Append-only Sinks (3):</strong> In Flink SQL/Table API, updates and deletes are handled via &quot;retractions.&quot; Processing retractions is computationally expensive and state-heavy. Using append-only streams/sinks avoids the overhead of managing these &quot;undo&quot; messages.</li>
+<li><strong>Why 1 is wrong:</strong> Filtering later is inefficient; you&#x27;ve already paid the &quot;cost&quot; of moving that data through the pipeline.</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-2-the-role-of-watermarks">Question 2: The Role of Watermarks<a href="#question-2-the-role-of-watermarks" class="hash-link" aria-label="Direct link to Question 2: The Role of Watermarks" title="Direct link to Question 2: The Role of Watermarks">​</a></h2>
+<p>What is the primary role of a watermark in Apache Flink?</p>
+<ol>
+<li>To calculate the latency between the source and the sink operators.</li>
+<li>To define the maximum throughput for a stream partition.</li>
+<li>To measure the progress of checkpointing.</li>
+<li>To measure the progress of event time and signal when time-based operations can be finalized.</li>
+</ol>
+<p><strong>Correct Answer: 4</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<p>In stream processing, events can arrive out of order. Watermarks are special markers embedded in the stream that act as a clock. A watermark with timestamp <code>T</code> tells Flink: <em>&quot;We are reasonably sure no more events with a timestamp older than T will arrive.&quot;</em> This allows Flink to close time windows and trigger computations for event-time operations.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-3-data-shuffling-strategies">Question 3: Data Shuffling Strategies<a href="#question-3-data-shuffling-strategies" class="hash-link" aria-label="Direct link to Question 3: Data Shuffling Strategies" title="Direct link to Question 3: Data Shuffling Strategies">​</a></h2>
+<p>When performing a stateful operation like a GROUP BY in Flink, which data shuffling strategy is required to ensure all related events are processed together by the same task?</p>
+<ol>
+<li>Broadcast</li>
+<li>Embarrassingly parallel (forwarded)</li>
+<li>Round-robin</li>
+<li>Key-partitioned</li>
+</ol>
+<p><strong>Correct Answer: 4</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<p>To perform an aggregation (like <code>SUM</code> or <code>COUNT</code>) on a specific key, all records sharing that key must reside on the same physical operator instance. Key-partitioning (triggered by <code>keyBy()</code> in DataStream or <code>GROUP BY</code> in SQL) uses a hash function to route data.</p>
+<ul>
+<li><strong>Key-partitioning Formula:</strong> <code>shard = hash(key) mod{parallelism}</code></li>
+</ul>
+<p>This ensures that &quot;User A&quot; always goes to &quot;Task 1,&quot; allowing &quot;Task 1&quot; to maintain an accurate running total in its local state.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-4-scalability-bottlenecks">Question 4: Scalability Bottlenecks<a href="#question-4-scalability-bottlenecks" class="hash-link" aria-label="Direct link to Question 4: Scalability Bottlenecks" title="Direct link to Question 4: Scalability Bottlenecks">​</a></h2>
+<p>What can prevent a key-partitioned Flink job from scaling effectively, even when parallelism is increased?</p>
+<ol>
+<li>High event latency</li>
+<li>Schema evolution</li>
+<li>High key cardinality</li>
+<li>Data skew</li>
+</ol>
+<p><strong>Correct Answer: 4</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<p>Data Skew occurs when a single key has significantly more events than others (e.g., in a social media app, a celebrity&#x27;s ID will have millions more interactions than an average user). Because Flink maps one key to exactly one parallel subtask, that specific subtask becomes a bottleneck. Even if you increase parallelism to 1,000, the one subtask handling the &quot;hot key&quot; will still be overwhelmed while the others sit idle.</p>
+<p><em>Note: High key cardinality (C) actually helps scaling, as it allows for a more even distribution across tasks.</em></p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-5-flink-apis">Question 5: Flink APIs<a href="#question-5-flink-apis" class="hash-link" aria-label="Direct link to Question 5: Flink APIs" title="Direct link to Question 5: Flink APIs">​</a></h2>
+<p>What are the different APIs exposed by Apache Flink? (Select 3)</p>
+<ol>
+<li>GraphStream API</li>
+<li>Flink SQL</li>
+<li>DataFrame API</li>
+<li>Table API</li>
+<li>DataStream API</li>
+</ol>
+<p><strong>Correct Answers: 2, 4, and 5</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<p>Apache Flink offers a layered API stack:</p>
+<ol>
+<li>SQL: The highest-level API, using standard SQL syntax.</li>
+<li>Table API: A declarative DSL (Domain Specific Language) that looks like SQL but is integrated into Java/Python/Scala code.</li>
+<li>DataStream API: The core API for low-level control over state and time.</li>
+<li><em>(Bonus)</em> ProcessFunction: The lowest level, providing the most granular control.</li>
+</ol>
+<p>DataFrame API is a Spark concept, and while Flink has a similar &quot;Table&quot; concept, it is not officially called the DataFrame API.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-6-stateful-vs-stateless-queries">Question 6: Stateful vs. Stateless Queries<a href="#question-6-stateful-vs-stateless-queries" class="hash-link" aria-label="Direct link to Question 6: Stateful vs. Stateless Queries" title="Direct link to Question 6: Stateful vs. Stateless Queries">​</a></h2>
+<p>What is the difference between a stateful and stateless Flink query?</p>
+<ol>
+<li>It is not possible to have a stateful Flink query; queries are always stateless.</li>
+<li>A stateful query has context about events that were processed previously while a stateless query does not.</li>
+<li>A stateless query has context about events that were processed previously while a stateful query does not.</li>
+<li>There are no differences between stateless and stateful Flink queries.</li>
+</ol>
+<p><strong>Correct Answer: 2</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<p>In stream processing, state is the &quot;memory&quot; of the application.</p>
+<ul>
+<li><strong>Stateless Operations:</strong> These process each event independently. For example, a <code>MAP</code> transformation that converts a string to uppercase doesn&#x27;t need to know what the previous string was.</li>
+<li><strong>Stateful Operations:</strong> These require information from previous events to produce a result. Examples include aggregations (SUM, COUNT), joining two streams, or detecting a pattern (CEP). Without state, Flink would &quot;forget&quot; the running total as soon as an event passed through.</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-7-event-time-vs-processing-time">Question 7: Event Time vs. Processing Time<a href="#question-7-event-time-vs-processing-time" class="hash-link" aria-label="Direct link to Question 7: Event Time vs. Processing Time" title="Direct link to Question 7: Event Time vs. Processing Time">​</a></h2>
+<p>How is event time different from processing time?</p>
+<ol>
+<li>Processing time is the system time of the machine that is executing the operation while event time is the time when each individual event occurred on its producing device.</li>
+<li>Event time is the system time of the machine that is executing the operation while processing time is the time when each individual event occurred on its producing device.</li>
+<li>Event time and processing time are always the same.</li>
+<li>None of the above.</li>
+</ol>
+<p><strong>Correct Answer: 1</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<ul>
+<li><strong>Event Time:</strong> This is the timestamp embedded in the data itself (e.g., when a user clicked a button on their phone). It is robust against out-of-order data or network delays.</li>
+<li><strong>Processing Time:</strong> This is the wall-clock time of the Flink operator&#x27;s machine. It is the simplest notion of time but results in non-deterministic behavior because if the system slows down, the windows will contain different data points.</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-8-delivery-semantics-select-2">Question 8: Delivery Semantics (Select 2)<a href="#question-8-delivery-semantics-select-2" class="hash-link" aria-label="Direct link to Question 8: Delivery Semantics (Select 2)" title="Direct link to Question 8: Delivery Semantics (Select 2)">​</a></h2>
+<p>What would you expect when switching from exactly-once to at-least-once semantics?</p>
+<ol>
+<li>Missing output</li>
+<li>Duplicate output</li>
+<li>Increased latency</li>
+<li>Reduced latency</li>
+</ol>
+<p><strong>Correct Answers: 2 and 4</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<p>Exactly-once processing ensures that even if a failure occurs, the final state reflects each record being processed exactly one time.</p>
+<ul>
+<li>Why Duplicate Output (B)? At-least-once ensures no data is lost, but during a failure/recovery, some records might be re-processed and re-emitted to the sink.</li>
+<li>Why Reduced Latency (D)? Exactly-once in Flink (especially with sinks) often requires a two-phase commit or buffering until a checkpoint completes. At-least-once removes these coordination constraints, allowing data to flow faster through the pipeline.</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-9-primary-key-vs-upsert-key-warning-select-2">Question 9: Primary Key vs. Upsert Key Warning (Select 2)<a href="#question-9-primary-key-vs-upsert-key-warning-select-2" class="hash-link" aria-label="Direct link to Question 9: Primary Key vs. Upsert Key Warning (Select 2)" title="Direct link to Question 9: Primary Key vs. Upsert Key Warning (Select 2)">​</a></h2>
+<p>What does the following warning indicate? <code>The primary key &lt;pk_column&gt; does not match the upsert key &lt;upsert_key_column&gt; that is derived from the query.</code></p>
+<ol>
+<li>Flink is going to automatically introduce an internal operator that will improve the query with no impact on performance.</li>
+<li>The query is inserting data into a table where the table&#x27;s defined PRIMARY KEY doesn&#x27;t align with the key columns derived from the INSERT INTO ... SELECT or CREATE TABLE ... AS SELECT query statements.</li>
+<li>Flink is going to introduce an expensive internal operator that will greatly increase resource utilization.</li>
+<li>Nothing, this warning should be ignored since there will be no performance impact.</li>
+</ol>
+<p><strong>Correct Answers: 2 and 3</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<p>This warning is common in Flink SQL.</p>
+<ul>
+<li><strong>Mismatch (B):</strong> Flink expects the stream of data to be keyed by the physical table&#x27;s Primary Key. If your query groups or joins by a different column, the &quot;upsert&quot; logic is broken.</li>
+<li><strong>Performance Impact (C):</strong> To resolve this mismatch and ensure the correct record is updated, Flink must inject a &quot;Changelog Normalize&quot; or a stateful operator to keep track of the keys. This adds significant state overhead and CPU usage.</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-10-purpose-of-checkpointing">Question 10: Purpose of Checkpointing<a href="#question-10-purpose-of-checkpointing" class="hash-link" aria-label="Direct link to Question 10: Purpose of Checkpointing" title="Direct link to Question 10: Purpose of Checkpointing">​</a></h2>
+<p>What is the primary purpose of Flink&#x27;s checkpointing mechanism?</p>
+<ol>
+<li>Validate the schema of incoming and outgoing data.</li>
+<li>Provide fault tolerance by capturing consistent snapshots of application state.</li>
+<li>Manage network data shuffles for key-partitioned operations.</li>
+<li>Improve query performance by caching intermediate results.</li>
+</ol>
+<p><strong>Correct Answer: 2</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<p>Checkpointing is Flink&#x27;s &quot;save game&quot; feature. It periodically takes a distributed, consistent snapshot of the state of all operators and the positions in the input streams (offsets). If a job fails, Flink restores the state from the last successful checkpoint and resumes, ensuring data integrity without manual intervention.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-11-parallelism-and-scaling">Question 11: Parallelism and Scaling<a href="#question-11-parallelism-and-scaling" class="hash-link" aria-label="Direct link to Question 11: Parallelism and Scaling" title="Direct link to Question 11: Parallelism and Scaling">​</a></h2>
+<p>Which type of Flink operation is considered &quot;embarrassingly parallel&quot; and can scale almost linearly with the addition of more resources?</p>
+<ol>
+<li>Tumbling window</li>
+<li>Temporal JOIN between two streams</li>
+<li>Stateful GROUP BY aggregation</li>
+<li>Stateless WHERE filter</li>
+</ol>
+<p><strong>Correct Answer: 4</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<ul>
+<li><strong>Stateless vs. Stateful:</strong> A <code>WHERE</code> filter is stateless. Each record is processed in isolation; the engine doesn&#x27;t need to know about previous records to decide if the current one passes the filter.</li>
+<li><strong>Scaling:</strong> Because there is no shared state or need for data shuffling (re-partitioning) between parallel instances, you can split the stream into <code>N</code> parts and process them independently. This leads to linear scaling, where doubling your resources nearly doubles your throughput.</li>
+<li><strong>Why the others differ:</strong> Operations like Windows, Joins, and Group Bys are stateful. They require &quot;shuffling&quot; data by a key so that all related records land on the same worker, which introduces network overhead and state management complexity.</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-12-storage-in-flink-sql">Question 12: Storage in Flink SQL<a href="#question-12-storage-in-flink-sql" class="hash-link" aria-label="Direct link to Question 12: Storage in Flink SQL" title="Direct link to Question 12: Storage in Flink SQL">​</a></h2>
+<p>When working with Flink SQL, where is the original data for your tables being stored?</p>
+<ol>
+<li>In an Apache Kafka cluster.</li>
+<li>In the Apache Flink cluster.</li>
+<li>In an external source such as Kafka or a database.</li>
+<li>In a relational database.</li>
+</ol>
+<p><strong>Correct Answer: 3</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<ul>
+<li><strong>Compute vs. Storage:</strong> Apache Flink is a compute engine, not a storage layer. When you define a <code>CREATE TABLE</code> in Flink SQL, you are actually creating a connector (a virtual mapping) to an external system.</li>
+<li><strong>The &quot;Catalog&quot;:</strong> Flink stores the <em>metadata</em> (schema and table name) in its Catalog, but the actual &quot;source of truth&quot; for the data remains in systems like Kafka, S3, Cassandra, or Postgres.</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-13-join-state-retention">Question 13: Join State Retention<a href="#question-13-join-state-retention" class="hash-link" aria-label="Direct link to Question 13: Join State Retention" title="Direct link to Question 13: Join State Retention">​</a></h2>
+<p>What is the state retention behavior of the join statement provided in the code? (Context: An INNER JOIN between <code>trades</code> and <code>settlements</code> on <code>trade_id</code>).</p>
+<ol>
+<li>State is cleaned up after each successful join.</li>
+<li>State grows in an unbounded way and is never cleaned up automatically.</li>
+<li>State is kept for as long as the retention is configured in Kafka.</li>
+<li>State is kept for 5 seconds based on the watermark interval.</li>
+</ol>
+<p><strong>Correct Answer: 2</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<ul>
+<li><strong>Regular Joins:</strong> The SQL provided is a Regular Join (<code>FROM trades t INNER JOIN settlements s ON t.trade_id = s.trade_id</code>). In Flink, regular joins require the engine to keep <em>all</em> historical data for both sides of the join forever because a matching record might arrive at any time in the future.</li>
+<li><strong>The Watermark Trap:</strong> Even though the tables have watermarks defined, a regular join does not automatically use them to &quot;expire&quot; state. To prevent unbounded state growth, you must either use an Interval Join (using time constraints in the <code>WHERE</code> clause) or configure a Table State Retention Time (TTL) in the Flink configuration.</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-14-continuous-vs-windowed-aggregation">Question 14: Continuous vs. Windowed Aggregation<a href="#question-14-continuous-vs-windowed-aggregation" class="hash-link" aria-label="Direct link to Question 14: Continuous vs. Windowed Aggregation" title="Direct link to Question 14: Continuous vs. Windowed Aggregation">​</a></h2>
+<p>What is the difference between these two streaming SQL statements? (1: Global Group By vs. 2: Tumble Window).</p>
+<ol>
+<li>The first statement executes on the orders table; the second executes on a table copied every minute.</li>
+<li>The first statement emits records continuously; the second statement emits on close of 1 minute tumbling windows.</li>
+<li>The first statement emits once; the second statement emits on close of 1 minute tumbling windows.</li>
+</ol>
+<p><strong>Correct Answer: 2</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<ul>
+<li><strong>Continuous Aggregation (Query 1):</strong> This is a &quot;Global&quot; aggregation. Every time a new record arrives, Flink updates the count for that <code>id</code> and immediately emits an update (an upsert) to the result table.</li>
+<li><strong>Windowed Aggregation (Query 2):</strong> This uses a <code>TUMBLE</code> window. Flink buffers the records in state and only triggers the calculation/emission when the watermark passes the end of the 1-minute window. It produces a single final result per window.</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-15-watermark-calculation">Question 15: Watermark Calculation<a href="#question-15-watermark-calculation" class="hash-link" aria-label="Direct link to Question 15: Watermark Calculation" title="Direct link to Question 15: Watermark Calculation">​</a></h2>
+<p>Watermarks are calculated from which of the following?</p>
+<ol>
+<li>The most recently seen event time.</li>
+<li>The largest event time that has been seen so far.</li>
+<li>The smallest event time that has been seen so far.</li>
+<li>The current processing time.</li>
+</ol>
+<p><strong>Correct Answer: 2</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<ul>
+<li><strong>Progress Tracking:</strong> A Watermark is a heuristic that tells Flink: <em>&quot;I am reasonably sure no more events with a timestamp earlier than this will arrive.&quot;</em></li>
+<li><strong>Calculation:</strong> It is typically calculated as <code>MaxEventTime - OutOfOrdernessAllowance</code>. If Flink sees timestamps 10, 15, 12, and 20, the watermark is derived from 20 (the maximum seen), not 12 (the most recent).</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-16">Question 16<a href="#question-16" class="hash-link" aria-label="Direct link to Question 16" title="Direct link to Question 16">​</a></h2>
+<p>If a Flink application is configured for at-least-once semantics, what behavior is expected upon recovery from a failure?</p>
+<ol>
+<li>The job will roll back its state and also roll back the duplicate records in the output sink.</li>
+<li>The job will restart from the last checkpoint and may re-process and emit duplicate results.</li>
+<li>Some data will be lost as the job skips the unprocessed data from the failure.</li>
+<li>The job will fail and require a manual restart from the beginning.</li>
+</ol>
+<p><strong>Correct Answer: 2</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<p>In at-least-once semantics, Flink guarantees that no data is lost, but it does not guarantee that data won&#x27;t be processed more than once. When a failure occurs, the job restarts from the last successful checkpoint. Any data that was processed <em>between</em> the last checkpoint and the time of failure will be read again from the source. Since the sink (output) in this configuration does not have a mechanism to &quot;undo&quot; or deduplicate previous writes, the external system may receive the same record twice. Achieving exactly-once would require a coordinated two-phase commit with the sink.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-17">Question 17<a href="#question-17" class="hash-link" aria-label="Direct link to Question 17" title="Direct link to Question 17">​</a></h2>
+<p>How does shifting a workload from periodic nightly batch processing to continuous stream processing typically impact infrastructure resource utilization?</p>
+<ol>
+<li>It smoothes out resource consumption, removing the need to over-provision for short bursts of peak activity.</li>
+<li>It eliminates the need for storage, as streaming data is never persisted to disk.</li>
+<li>It reduces network bandwidth usage by compressing data into large static files before transmission.</li>
+<li>It increases resource costs by requiring the cluster to be provisioned for peak load 24/7.</li>
+</ol>
+<p><strong>Correct Answer: 1</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<p>Batch processing is &quot;bursty&quot;—it requires a massive amount of CPU and Memory to process 24 hours of data in a short window (e.g., 2 hours), leading to &quot;spiky&quot; utilization. Stream processing spreads that same workload across the entire 24-hour period. By processing data as it arrives, you can provision smaller, more consistent instances rather than over-provisioning for a massive nightly peak.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-18">Question 18<a href="#question-18" class="hash-link" aria-label="Direct link to Question 18" title="Direct link to Question 18">​</a></h2>
+<p>While using the Flink <code>EXPLAIN</code> Statement, what is the purpose of the Physical Plan and Physical Details in the output?</p>
+<ol>
+<li>The physical plan provides the structure of the query while the physical details show the runtime specifics for each operator in the plan.</li>
+<li>The physical plan and physical details show and outline the optimal order of operations for the query to the user.</li>
+<li>The physical details provide the structure of the query while the physical plan shows the runtime specifics for each operator listed in the plan.</li>
+<li>The physical plan and physical details allow the user to see the total expected job execution time and the estimated resource cost for the entire query.</li>
+</ol>
+<p><strong>Correct Answer: 1</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<p>When you run <code>EXPLAIN</code>, Flink generates a multi-stage plan. The Physical Plan (often referred to as the ExecNode plan) describes the DAG (Directed Acyclic Graph) of how the query is structured into actual Flink operators. The Physical Details include the fine-grained implementation specifics, such as the exact serialization methods, join strategies (e.g., hash vs. sort-merge), and data distribution patterns.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-19">Question 19<a href="#question-19" class="hash-link" aria-label="Direct link to Question 19" title="Direct link to Question 19">​</a></h2>
+<p>Which of the following are examples of stateful Flink operations? (Select 2)</p>
+<ol>
+<li>Filtering orders with a price under `10.</li>
+<li>Keeping a running tally of the total price for all orders.</li>
+<li>Mapping an orders table to a new schema.</li>
+<li>Correlating a stream of orders with a stream of shipments.</li>
+</ol>
+<p><strong>Correct Answers: 2 and 4</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<ul>
+<li><strong>B (Aggregations):</strong> To keep a &quot;running tally,&quot; Flink must remember the current sum. This &quot;memory&quot; of previous events is the definition of State.</li>
+<li><strong>D (Joins):</strong> To correlate (Join) two streams, Flink must buffer records from one stream while waiting for the matching record to arrive on the other stream. This buffer is stored in Flink&#x27;s managed state.</li>
+<li><strong>_Note:</strong> Filtering (A) and Mapping (C) are stateless because they only look at one record at a time and don&#x27;t need to remember anything about the past._</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-20">Question 20<a href="#question-20" class="hash-link" aria-label="Direct link to Question 20" title="Direct link to Question 20">​</a></h2>
+<p>What is a specific challenge of managing state in an unbounded streaming application that does not apply to bounded batch processing?</p>
+<ol>
+<li>State must be stored on a separate external database to ensure persistence.</li>
+<li>The state size can grow indefinitely if a Time-to-Live (TTL) or windowing strategy is not implemented.</li>
+<li>Streaming state cannot be partitioned across multiple parallel tasks.</li>
+<li>State is distributed across the cluster, therefore accessing state is significantly slower in streaming due to network latency.</li>
+</ol>
+<p><strong>Correct Answer: 2</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<p>In batch processing, the dataset is finite; once the job ends, the state is cleared. In unbounded streaming, the job runs forever. If you are storing information about every user who visits a site, the state will grow every single day. Without a State TTL (Time-To-Live) or a windowing strategy to expire and &quot;garbage collect&quot; old data, the application will eventually run out of disk space (RocksDB) or memory (Heap).</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-21-watermarks-and-window-firing">Question 21: Watermarks and Window Firing<a href="#question-21-watermarks-and-window-firing" class="hash-link" aria-label="Direct link to Question 21: Watermarks and Window Firing" title="Direct link to Question 21: Watermarks and Window Firing">​</a></h2>
+<p>You have defined the watermark on your Flink table as follows:</p>
+<p><code>WATERMARK FOR event_time AS event_time - INTERVAL &#x27;5&#x27; SECONDS</code></p>
+<p>Assume that the watermarks are generated after every event. You are running a Flink job that counts the events in 10-minute tumbling windows. The events are ingested in this order:</p>
+<ul>
+<li>A: 12:20:35</li>
+<li>B: 12:09:35</li>
+<li>C: 12:10:15</li>
+<li>D: 12:20:00</li>
+</ul>
+<p>What happens after event D arrives?</p>
+<ol>
+<li>The window 12:10:00 - 12:20:00 fires with count = 3 (events A, B, and C).</li>
+<li>The window 12:10:00 - 12:20:00 fires with count = 1 (event B).</li>
+<li>The window 12:00:00 - 12:10:00 fires with count = 2 (events A and C).</li>
+<li>The window 12:10:00 - 12:20:00 fires with count = 2 (events C and D).</li>
+</ol>
+<p><strong>Correct Answer: 4</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<ol>
+<li>Watermark Calculation: The watermark is <code>EventTime - 5s</code>. After Event A (12:20:35) arrives, the watermark advances to 12:20:30.</li>
+<li>Window Boundaries: 10-minute tumbling windows align to the clock: <code>[12:00-12:10), [12:10-12:20), [12:20-12:30)</code>.</li>
+<li>Event Processing:<!-- -->
+<ul>
+<li>A (12:20:35): Belongs to <code>[12:20-12:30)</code>. Watermark is now <code>12:20:30</code>. This watermark is already <code>_past_</code> the end of the previous window <code>(12:20:00)</code>, so the <code>[12:10-12:20)</code> window is triggered.</li>
+<li>B (12:09:35): Belongs to <code>[12:00-12:10)</code>. However, the watermark is already <code>12:20:30</code>. Since <code>12:09:35 &lt; 12:20:30</code>, this is &quot;late&quot; and dropped (unless lateness is configured).</li>
+<li>C (12:10:15): Belongs to <code>[12:10-12:20).</code> But this window already fired when A arrived.</li>
+<li>D (12:20:00): Belongs to <code>[12:20-12:30)</code>.</li>
+</ul>
+</li>
+<li>Why D is the logic: In Flink, a window fires when <code>Watermark &gt;= WindowEnd</code>. When A arrives, the watermark becomes 12:20:30, which triggers the 12:10-12:20 window. At that exact moment, only events that arrived <em>before or with</em> A that fall in that range are counted. C and D are the only events in the 12:10-12:20 range that arrive before the watermark moves significantly further.</li>
+</ol>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-22-unnesting-arrays">Question 22: UNNESTing Arrays<a href="#question-22-unnesting-arrays" class="hash-link" aria-label="Direct link to Question 22: UNNESTing Arrays" title="Direct link to Question 22: UNNESTing Arrays">​</a></h2>
+<p>You have a table <code>Orders</code> with one row:</p>
+<p><code>order_id: 101, product_ids: ARRAY[50, 51, 52]</code></p>
+<p>Your Flink job is running this query:</p>
+<div class="language-sql codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-sql codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token keyword" style="color:#00009f">SELECT</span><span class="token plain"> order_id</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"> pid</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token keyword" style="color:#00009f">FROM</span><span class="token plain"> Orders</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token keyword" style="color:#00009f">CROSS</span><span class="token plain"> </span><span class="token keyword" style="color:#00009f">JOIN</span><span class="token plain"> UNNEST</span><span class="token punctuation" style="color:#393A34">(</span><span class="token plain">product_ids</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token keyword" style="color:#00009f">AS</span><span class="token plain"> t</span><span class="token punctuation" style="color:#393A34">(</span><span class="token plain">pid</span><span class="token punctuation" style="color:#393A34">)</span><br></span></code></pre></div></div>
+<p>What will be the result of this query?</p>
+<ol>
+<li>One row: (101, 50)</li>
+<li>Three rows: (101, 50), (101, 51), and (101, 52)</li>
+<li>One row: (101, [50, 51, 52])</li>
+<li>Three rows: (101, null), (101, null), and (101, null)</li>
+</ol>
+<p><strong>Correct Answer: 2</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<p>In Flink SQL, <code>UNNEST</code> is a table-generating function used to flatten complex types like Arrays or Maps into multiple rows. When you perform a <code>CROSS JOIN</code> with <code>UNNEST</code>, Flink takes each element in the array and joins it with the original row&#x27;s other columns. Since there are 3 elements in the array, the single original row is expanded into 3 distinct rows.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-23-production-deployment">Question 23: Production Deployment<a href="#question-23-production-deployment" class="hash-link" aria-label="Direct link to Question 23: Production Deployment" title="Direct link to Question 23: Production Deployment">​</a></h2>
+<p>How is a Flink streaming application typically deployed in production?</p>
+<ol>
+<li>By configuring a Kafka broker to directly execute the Flink application.</li>
+<li>By compiling the Flink runtime and the application into a single, self-executing binary.</li>
+<li>By submitting the application logic as a job to a long-running Flink cluster.</li>
+<li>By embedding the Flink engine as a library within a standalone application.</li>
+</ol>
+<p><strong>Correct Answer: 3</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<p>While Flink supports several deployment modes (Session, Job, Application), the standard production architecture involves a Flink Cluster (consisting of a JobManager and multiple TaskManagers). The developer packages their code into a JAR file and submits it to the JobManager, which then distributes the execution across the TaskManagers. Option D describes &quot;library&quot; mode (like Kafka Streams), which is not the typical way Flink is operated.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-24-left-outer-join-and-watermarks">Question 24: Left Outer Join and Watermarks<a href="#question-24-left-outer-join-and-watermarks" class="hash-link" aria-label="Direct link to Question 24: Left Outer Join and Watermarks" title="Direct link to Question 24: Left Outer Join and Watermarks">​</a></h2>
+<p>You have two tables <code>market_quotes</code> and <code>trade_executions</code>. A market quote arrives at 10:00:00.000. No matching execution arrives within 100ms.</p>
+<div class="language-sql codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-sql codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token keyword" style="color:#00009f">SELECT</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">.</span><span class="token punctuation" style="color:#393A34">.</span><span class="token punctuation" style="color:#393A34">.</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token keyword" style="color:#00009f">FROM</span><span class="token plain"> market_quotes q</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token keyword" style="color:#00009f">LEFT</span><span class="token plain"> </span><span class="token keyword" style="color:#00009f">JOIN</span><span class="token plain"> trade_executions e</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token keyword" style="color:#00009f">ON</span><span class="token plain"> q</span><span class="token punctuation" style="color:#393A34">.</span><span class="token plain">security_id </span><span class="token operator" style="color:#393A34">=</span><span class="token plain"> e</span><span class="token punctuation" style="color:#393A34">.</span><span class="token plain">security_id</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token operator" style="color:#393A34">AND</span><span class="token plain"> e</span><span class="token punctuation" style="color:#393A34">.</span><span class="token plain">execution_time </span><span class="token operator" style="color:#393A34">BETWEEN</span><span class="token plain"> q</span><span class="token punctuation" style="color:#393A34">.</span><span class="token plain">quote_time </span><span class="token operator" style="color:#393A34">AND</span><span class="token plain"> q</span><span class="token punctuation" style="color:#393A34">.</span><span class="token plain">quote_time </span><span class="token operator" style="color:#393A34">+</span><span class="token plain"> </span><span class="token keyword" style="color:#00009f">INTERVAL</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">&#x27;100&#x27;</span><span class="token plain"> MILLISECONDS</span><span class="token punctuation" style="color:#393A34">;</span><br></span></code></pre></div></div>
+<p>When will the result (the quote with a NULL execution) be emitted?</p>
+<ol>
+<li>Exactly 100 milliseconds after the quote arrives.</li>
+<li>When the watermark passes <code>quote_time + 100ms</code>.</li>
+<li>As soon as the market quote arrives.</li>
+<li>Never, left joins don&#x27;t emit results when there&#x27;s no match.</li>
+</ol>
+<p><strong>Correct Answer: 2</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<p>In a Time-Interval Join (Outer Join), Flink must wait to ensure that a matching event will <em>never</em> arrive before it can safely emit a row with a NULL value. Because Flink operates on Event Time, it doesn&#x27;t use the system clock; it uses Watermarks. Flink must wait until the Watermark for <code>trade_executions</code> exceeds the upper bound of the join interval (<code>10:00:00.000 + 100ms</code>) to guarantee that no late-arriving trade execution will satisfy the join condition.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-25-handling-late-data">Question 25: Handling Late Data<a href="#question-25-handling-late-data" class="hash-link" aria-label="Direct link to Question 25: Handling Late Data" title="Direct link to Question 25: Handling Late Data">​</a></h2>
+<p>You are building an application to process payment events for fraud detection. The logic aggregates events into 5-minute windows and must allow events to arrive late by up to 30 seconds. How would you implement this in Flink SQL?</p>
+<ol>
+<li>Ensure the retention on the Kafka topic is set to at least 5 minutes. Create a SQL windowing function to aggregate the events into 5-minute windows.</li>
+<li>Use a SQL windowing function to aggregate events into 5 minute 30 second windows.</li>
+<li>Set the checkpoint interval of the Flink job to 5 minutes. Then create a SQL windowing function to aggregate events into 5-minute windows.</li>
+<li>Configure a watermark strategy with bounded out-of-orderness of 30 seconds. Use a SQL windowing function to aggregate events into 5-minute windows.</li>
+</ol>
+<p><strong>Correct Answer: 4</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<p>In Flink, &quot;Lateness&quot; or &quot;Out-of-orderness&quot; is handled primarily via Watermarks.</p>
+<ul>
+<li><strong>Bounded Out-of-orderness:</strong> By setting this to 30 seconds, you are telling Flink: &quot;Don&#x27;t assume a window is finished until you see an event with a timestamp at least 30 seconds past the window end.&quot;</li>
+<li>The window size (5 minutes) remains the same, but the Watermark delay (<code>T - 30s</code>) ensures that events arriving up to 30 seconds late are still included in the correct window calculation before it closes.</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-26">Question 26<a href="#question-26" class="hash-link" aria-label="Direct link to Question 26" title="Direct link to Question 26">​</a></h2>
+<p>You have a Flink job doing event-time windowing. It is running with a parallelism of 2, consuming events from a topic with 2 partitions. The data arriving on one partition is continuous, but the data arriving in the other partition is sparse. How does that impact the window results?</p>
+<ol>
+<li>The window results are emitted for every event.</li>
+<li>The window results are only emitted when events from both the partitions cause the watermark to advance.</li>
+<li>The window results are emitted regularly based on the window length and system clock.</li>
+<li>The window results are emitted as soon as the triggering event arrives on either partition.</li>
+</ol>
+<p><strong>Correct Answer: 2</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<p>In Flink, the watermark of an operator with multiple input streams (or partitions) is defined as the minimum of the watermarks of its input streams.</p>
+<ul>
+<li>If one partition is &quot;sparse&quot; (idle), its watermark stops advancing.</li>
+<li>Because the operator tracks the minimum watermark, the overall event-time clock of the job will &quot;stall&quot; waiting for the slow partition.</li>
+<li>Windows are only triggered when the watermark passes the window end time. Therefore, if the sparse partition doesn&#x27;t provide updates, the watermark won&#x27;t advance, and the window results will be delayed or never emitted.</li>
+<li><strong>_Note:</strong>_ This is why Flink introduced <code>WatermarkStrategy.withIdleness()</code> to allow watermarks to advance even when a partition is temporarily inactive.</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-27">Question 27<a href="#question-27" class="hash-link" aria-label="Direct link to Question 27" title="Direct link to Question 27">​</a></h2>
+<p>What is the fundamental relationship between batch processing and stream processing in Apache Flink?</p>
+<ol>
+<li>They are unrelated processing paradigms that share a common API but use different runtime binaries.</li>
+<li>Batch processing is a distinct engine designed solely for static files, while streaming handles dynamic data.</li>
+<li>Batch processing is a special case of stream processing where the input data stream is bounded.</li>
+<li>Stream processing is a special case of batch processing where the micro-batches are extremely small.</li>
+</ol>
+<p><strong>Correct Answer: 3</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<p>Flink follows the &quot;Streaming First&quot; philosophy. It treats batch data as simply a stream that has a defined start and a defined end (bounded). This unified model allows Flink to use the same core engine for both use cases. Unlike Spark (which uses micro-batches for streaming), Flink is a native stream processor that treats batching as a subset of streaming logic.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-28">Question 28<a href="#question-28" class="hash-link" aria-label="Direct link to Question 28" title="Direct link to Question 28">​</a></h2>
+<p>Beyond infrastructure costs, what is the primary business value driver for adopting stream processing over batch processing?</p>
+<ol>
+<li>The simplification of the architecture by removing all time-based logic.</li>
+<li>The reduction in latency between data generation and actionable insight.</li>
+<li>The guarantee that results will always be perfectly accurate without late data.</li>
+<li>The ability to recover from failures without using checkpoints.</li>
+</ol>
+<p><strong>Correct Answer: 2</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<p>The core value proposition of stream processing is low latency. Batch processing introduces a &quot;waiting period&quot; (e.g., waiting for the hour or day to end) before data is processed. Stream processing allows businesses to react to events in real-time (fraud detection, dynamic pricing, or immediate alerts), significantly shortening the time-to-insight.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-29">Question 29<a href="#question-29" class="hash-link" aria-label="Direct link to Question 29" title="Direct link to Question 29">​</a></h2>
+<p>When a developer submits a batch job to a Flink cluster, how does the runtime engine process the data?</p>
+<ol>
+<li>It converts the bounded data into micro-batches and schedules them sequentially.</li>
+<li>It spins up a separate MapReduce engine optimized specifically for disk-based sorting.</li>
+<li>It processes the data as a bounded stream using the same operators available to streaming applications.</li>
+<li>It disables all state management features to maximize throughput for static files.</li>
+</ol>
+<p><strong>Correct Answer: 3</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<p>Flink uses a unified runtime. When a job is set to <code>BATCH</code> execution mode, Flink uses the same operator graph logic as <code>STREAMING</code> mode but applies optimizations specific to bounded data (like using sort-merge joins instead of hash joins or ignoring watermarks since all data is already &quot;present&quot;). It does not switch to a completely different engine like MapReduce.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="question-30">Question 30<a href="#question-30" class="hash-link" aria-label="Direct link to Question 30" title="Direct link to Question 30">​</a></h2>
+<p>In Apache Flink, Changelog streams can contain which of the following event types?</p>
+<ol>
+<li>+I (Insert)</li>
+<li>-U (Update Before)</li>
+<li>+U (Update After)</li>
+<li>-D (Delete)</li>
+<li>+C (Create)</li>
+</ol>
+<p><strong>Correct Answer: 1, 2, 3, 4</strong></p>
+<p><strong>Technical Explanation</strong></p>
+<p>Flink SQL and Table API use a retracted stream (Changelog) model to handle dynamic updates. The standard event types in a Flink Changelog stream are:</p>
+<ol>
+<li>+I (INSERT): A new record.</li>
+<li>-U (UPDATE_BEFORE): The state of a record before it was modified (used to retract the old value).</li>
+<li>+U (UPDATE_AFTER): The new state of a record after modification.</li>
+<li>-D (DELETE): Removal of a record. <em>Option E (+C) is not a standard Flink RowKind code.</em></li>
+</ol></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="row margin-top--sm theme-doc-footer-edit-meta-row"><div class="col"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/technologies/flink/interview-questions.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_JAkA"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2026-03-05T11:34:12.000Z" itemprop="dateModified">Mar 5, 2026</time></b> by <b>Deepak Sood</b></span></div></div></footer></article><nav class="docusaurus-mt-lg pagination-nav" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/technologies/flink/internals"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Internals</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/technologies/flink/intro"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Intro</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#question-1-optimizing-flink-queries" class="table-of-contents__link toc-highlight">Question 1: Optimizing Flink Queries</a></li><li><a href="#question-2-the-role-of-watermarks" class="table-of-contents__link toc-highlight">Question 2: The Role of Watermarks</a></li><li><a href="#question-3-data-shuffling-strategies" class="table-of-contents__link toc-highlight">Question 3: Data Shuffling Strategies</a></li><li><a href="#question-4-scalability-bottlenecks" class="table-of-contents__link toc-highlight">Question 4: Scalability Bottlenecks</a></li><li><a href="#question-5-flink-apis" class="table-of-contents__link toc-highlight">Question 5: Flink APIs</a></li><li><a href="#question-6-stateful-vs-stateless-queries" class="table-of-contents__link toc-highlight">Question 6: Stateful vs. Stateless Queries</a></li><li><a href="#question-7-event-time-vs-processing-time" class="table-of-contents__link toc-highlight">Question 7: Event Time vs. Processing Time</a></li><li><a href="#question-8-delivery-semantics-select-2" class="table-of-contents__link toc-highlight">Question 8: Delivery Semantics (Select 2)</a></li><li><a href="#question-9-primary-key-vs-upsert-key-warning-select-2" class="table-of-contents__link toc-highlight">Question 9: Primary Key vs. Upsert Key Warning (Select 2)</a></li><li><a href="#question-10-purpose-of-checkpointing" class="table-of-contents__link toc-highlight">Question 10: Purpose of Checkpointing</a></li><li><a href="#question-11-parallelism-and-scaling" class="table-of-contents__link toc-highlight">Question 11: Parallelism and Scaling</a></li><li><a href="#question-12-storage-in-flink-sql" class="table-of-contents__link toc-highlight">Question 12: Storage in Flink SQL</a></li><li><a href="#question-13-join-state-retention" class="table-of-contents__link toc-highlight">Question 13: Join State Retention</a></li><li><a href="#question-14-continuous-vs-windowed-aggregation" class="table-of-contents__link toc-highlight">Question 14: Continuous vs. Windowed Aggregation</a></li><li><a href="#question-15-watermark-calculation" class="table-of-contents__link toc-highlight">Question 15: Watermark Calculation</a></li><li><a href="#question-16" class="table-of-contents__link toc-highlight">Question 16</a></li><li><a href="#question-17" class="table-of-contents__link toc-highlight">Question 17</a></li><li><a href="#question-18" class="table-of-contents__link toc-highlight">Question 18</a></li><li><a href="#question-19" class="table-of-contents__link toc-highlight">Question 19</a></li><li><a href="#question-20" class="table-of-contents__link toc-highlight">Question 20</a></li><li><a href="#question-21-watermarks-and-window-firing" class="table-of-contents__link toc-highlight">Question 21: Watermarks and Window Firing</a></li><li><a href="#question-22-unnesting-arrays" class="table-of-contents__link toc-highlight">Question 22: UNNESTing Arrays</a></li><li><a href="#question-23-production-deployment" class="table-of-contents__link toc-highlight">Question 23: Production Deployment</a></li><li><a href="#question-24-left-outer-join-and-watermarks" class="table-of-contents__link toc-highlight">Question 24: Left Outer Join and Watermarks</a></li><li><a href="#question-25-handling-late-data" class="table-of-contents__link toc-highlight">Question 25: Handling Late Data</a></li><li><a href="#question-26" class="table-of-contents__link toc-highlight">Question 26</a></li><li><a href="#question-27" class="table-of-contents__link toc-highlight">Question 27</a></li><li><a href="#question-28" class="table-of-contents__link toc-highlight">Question 28</a></li><li><a href="#question-29" class="table-of-contents__link toc-highlight">Question 29</a></li><li><a href="#question-30" class="table-of-contents__link toc-highlight">Question 30</a></li></ul></div></div></div></div></main></div></div></div><footer class="theme-layout-footer footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2026 Deep Notes, Built with ❤️</div></div></div></footer></div>
+</body>
+</html>
