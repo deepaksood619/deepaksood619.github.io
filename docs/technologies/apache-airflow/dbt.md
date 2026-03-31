@@ -84,3 +84,13 @@ dbt provides different ways to persist your model's results:
 	- [GitHub - SA01/dbt-tutorial: This repository contains the code and project files for my article on Medium, which serves as an introduction to DBT (Data Build Tool) and how to build data transformations with it.](https://github.com/SA01/dbt-tutorial/tree/main) ⭐ 7
 	- [GitHub - lorint/AdventureWorks-for-Postgres: Set up the AdventureWorks sample database for use with Postgres](https://github.com/lorint/AdventureWorks-for-Postgres?tab=readme-ov-file) ⭐ 467
 - [Ten years late to the dbt party (DuckDB edition)](https://rmoff.net/2026/02/19/ten-years-late-to-the-dbt-party-duckdb-edition/)
+
+## Others
+
+### SQLMesh
+
+SQLMesh is a next-generation data transformation framework designed to ship data quickly, efficiently, and without error. Data teams can run and deploy data transformations written in SQL or Python with visibility and control at any size.
+
+[GitHub - SQLMesh/sqlmesh: Scalable and efficient data transformation framework - backwards compatible with dbt. · GitHub](https://github.com/SQLMesh/sqlmesh)
+
+[SQLMesh](https://sqlmesh.readthedocs.io/en/stable/)

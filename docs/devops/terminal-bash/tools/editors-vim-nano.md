@@ -1,4 +1,4 @@
-# Editors
+# Editors - VIM / NANO
 
 ## VIM
 

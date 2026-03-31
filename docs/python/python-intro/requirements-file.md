@@ -86,3 +86,10 @@ pur -r requirements.txt
 - 🖥️ Supports macOS, Linux, and Windows.
 - [GitHub - astral-sh/uv: An extremely fast Python package and project manager, written in Rust.](https://github.com/astral-sh/uv) ⭐ 82k
 - [Get started with uv.ipynb - Colab](https://colab.research.google.com/drive/1o0FJVhYaXAATe6ctgV2cfINhTC_JwxXL?usp=sharing)
+
+```bash
+# On macOS and Linux.
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+uv add requests
+```

@@ -51,7 +51,7 @@ The fix forward method works best when changes are broken into small chunks that
 
 ## Others
 
-- SQLAlchemy - [GitHub - sqlalchemy/alembic: A database migrations tool for SQLAlchemy.](https://github.com/sqlalchemy/alembic) ⭐ 4.0k
+- [alembic](python/others/sqlalchemy/alembic.md)
 - Flyway - [MySQL Database Migration Tool | Version Control | Flyway](https://flywaydb.org/mysql)
 	- Flyway is good and simpler than Liquibase
 - Dbmate (database migration tool, allowing users to keep its database schema in sync with multiple developers and the production servers - Supports MySQL, PostgreSQL, SQLite, and ClickHouse) - [GitHub - amacneil/dbmate: :rocket: A lightweight, framework-agnostic database migration tool.](https://github.com/amacneil/dbmate) ⭐ 6.8k

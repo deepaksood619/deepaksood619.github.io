@@ -1,6 +1,10 @@
 # Meetups / Talks / Sessions
 
-## Session: Building End-to-End Products using AI
+## Risk of AI in Fintech (25 April 2026)
+
+[GARiME (Governance, Assurance and Risk Management Excellence)](https://garime.org/)
+
+## Session: Building End-to-End Products using AI (23 Nov 2025)
 
 [Building End to End Product Using AI \| Building Personal Portfolio Website \| Draft Content - Google Docs](https://docs.google.com/document/d/1E0-iPwL15Si683ekUpzRlhyw9kCTglBcT3DpU6a1aMs/edit?usp=sharing)
 

@@ -252,16 +252,6 @@ Determining Important Metrics
 
 Metric Aggregation through the Kubenetes Hierarchy
 
-## cAdvisor
-
-- cAdvisor is embedded into the kubelet, so we scrape the kubelet to get container metrics
-- These are the so-called Kubernetes "core" metrics
-- For each container on the node:
-    - CPU Usage (user and system) and time throttled
-    - Filesystem read/writes/limits
-    - Memory usage and limits
-    - Network transmit/receive/dropped
-
 ## Kubernetes Metrics from the K8s API Server
 
 - Performance of controller work queues

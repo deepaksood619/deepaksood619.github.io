@@ -435,6 +435,19 @@ function kubectl() { echo "+ kubectl $@">&2; command kubectl $@; }
 # run command - setopt auto_cd
 
 # Set autocd, which means that rather than typing cd <foldername> you just type <foldername>
+
+# Randomize iTerm2 Tab Color
+if [[ "$TERM_PROGRAM" == "iTerm.app" ]]; then
+  # Generate random R, G, B values between 0-255
+  r=$((RANDOM % 256))
+  g=$((RANDOM % 256))
+  b=$((RANDOM % 256))
+
+  # Send escape sequence to iTerm2
+  printf "\e]6;1;bg;red;brightness;%d\a" $r
+  printf "\e]6;1;bg;green;brightness;%d\a" $g
+  printf "\e]6;1;bg;blue;brightness;%d\a" $b
+fi
 ```
 
 #### ~/.vimrc

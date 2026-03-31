@@ -75,6 +75,8 @@ git config --global user.name (seeing the current set username globally)
 git config user.email (seeing the set username for current project)
 git config --global user.name "deepaksood619" (set username globally)
 git config --global core.editor "vim" (Change git editor)
+
+git config --global credential.helper osxkeychain
 ```
 
 ```toml title=".gitconfig"

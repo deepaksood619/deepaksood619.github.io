@@ -43,8 +43,12 @@ No matter what AI framework you pick, I always recommend using a robust data pla
 
 https://cloud.llamaindex.ai/
 
-#### LangGraph
+## LangGraph
 
+- [GitHub - wassim249/fastapi-langgraph-agent-production-ready-template: A production-ready FastAPI template for building AI agent applications with LangGraph integration. This template provides a robust foundation for building scalable, secure, and maintainable AI agent services. · GitHub](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) ⭐ 2.1k
+	- Swagger UI - http://localhost:8000/docs
+	- Grafana dashboards - http://localhost:3000 - admin,admin
+	- Prometheus metrics - http://localhost:9090
 - [Build Agentic Workflows Using LangGraph! - YouTube](https://www.youtube.com/watch?v=QblpBsipCwM)
 - [LangChain vs. LangGraph: Which AI Framwork Is Right for You?](https://www.curotec.com/insights/langchain-vs-langgraph-framework-comparison/)
 - [AI Agent Workflows: A Complete Guide on Whether to Build With LangGraph or LangChain | by Sandi Besen | Towards Data Science](https://towardsdatascience.com/ai-agent-workflows-a-complete-guide-on-whether-to-build-with-langgraph-or-langchain-117025509fa0)
@@ -54,13 +58,14 @@ https://cloud.llamaindex.ai/
 - [User Guide: RAG — neo4j-graphrag-python documentation](https://neo4j.com/docs/neo4j-graphrag-python/current/user_guide_rag.html#retriever-configuration)
 - [GenAI Stack](https://neo4j.com/labs/genai-ecosystem/genai-stack/)
 - [Building LangGraph: Designing an Agent Runtime from first principles](https://blog.langchain.com/building-langgraph/)
+- [How to Build Effective Agentic Systems with LangGraph \| Towards Data Science](https://towardsdatascience.com/how-to-build-effective-agentic-systems-with-langgraph/)
 
-##### Courses
+### Courses
 
 - [GraphAcademy — Free, Self-Paced, Hands-on Online Training](https://graphacademy.neo4j.com/)
 - [Graph Data Modeling Fundamentals](https://graphacademy.neo4j.com/courses/modeling-fundamentals/)
 
-#### LangSmith
+## LangSmith
 
 - [LangSmith](https://www.langchain.com/langsmith)
 - [What is LangSmith and why should I care as a developer? | by Logan Kilpatrick | Around the Prompt | Medium](https://medium.com/around-the-prompt/what-is-langsmith-and-why-should-i-care-as-a-developer-e5921deb54b5)

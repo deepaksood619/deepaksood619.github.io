@@ -146,6 +146,7 @@ Knowledge Graph Memory Server - [servers/src/memory at main · modelcontextproto
 ```bash
 brew install postgresql
 brew services start postgresql
+brew services stop postgresql
 
 psql postgres
 psql pagila
@@ -277,6 +278,99 @@ claude mcp add mcp_server_mysql \
 - [kagent \| Bringing Agentic AI to cloud native](https://kagent.dev/)
 - [GitHub - pab1it0/prometheus-mcp-server: A Model Context Protocol (MCP) server that enables AI assistants to query and analyze Prometheus metrics through standardized interfaces.](https://github.com/pab1it0/prometheus-mcp-server) ⭐ 391
 
+## Elicitation
+
+**Elicitation** is how AI agents gather the right pieces of information from you, step by step, in order to complete a task. Instead of needing everything upfront, the agent engages in a back-and-forth conversation—filling in gaps, confirming choices, and adjusting as needed. It’s what makes modern AI feel interactive, guided, and helpful.
+
+### How Does Elicitation Work? (Technical Flow)
+
+Let’s break down the flow using our IT Support Ticket AI agent example:
+
+1. User initiates a ticket submission.
+2. Agent checks for missing/invalid fields.
+3. Agent sends an elicitation request for the missing field.
+4. Client prompts the user and collects the answer.
+5. Client sends the answer back to the agent.
+6. Agent validates and either continues or asks for more.
+7. Once all info is collected, the agent processes the request.
+
+### MCP Client with Elicitation Handler
+
+```python
+import asyncio
+from mcp.client.streamable_http import streamablehttp_client
+from mcp.client.session import ClientSession
+import mcp.types as types
+from mcp.shared.context import RequestContext
+import re
+import signal
+import sys
+
+MCP_SERVER_URL = "http://localhost:8000/mcp"
+
+def get_input(prompt, pattern=None, cast=str, allow_empty=False, choices=None, min_length=None):
+    while True:
+        try:
+            value = input(prompt).strip()
+            if allow_empty and not value:
+                return value
+            if choices and value not in choices:
+                print(f"Please choose from: {', '.join(choices)}")
+                continue
+            if min_length and len(value) < min_length:
+                print(f"Please enter at least {min_length} characters.")
+                continue
+            if pattern and not re.match(pattern, value):
+                print("Invalid format.")
+                continue
+            return cast(value)
+        except (ValueError, KeyboardInterrupt, EOFError):
+            print("Cancelled.")
+            raise KeyboardInterrupt
+
+async def smart_elicitation_callback(context: RequestContext["ClientSession", None], params: types.ElicitRequestParams):
+    msg = params.message.lower()
+    try:
+        if "type of issue" in msg:
+            return types.ElicitResult(action="accept", content={"issue_type": get_input("Issue type (Network/Hardware/Software/Other): ", choices=["Network", "Hardware", "Software", "Other"] )})
+        elif "describe your issue" in msg:
+            return types.ElicitResult(action="accept", content={"description": get_input("Describe your issue: ", min_length=10)})
+        elif "urgent" in msg:
+            return types.ElicitResult(action="accept", content={"urgency": get_input("Urgency (Low/Medium/High): ", choices=["Low", "Medium", "High"] )})
+        elif "submit ticket" in msg:
+            confirm = input("Submit this ticket? (y/n): ").lower().strip() in ['y', 'yes', '1', 'true']
+            notes = input("Any additional notes? (optional): ").strip() if confirm else ""
+            return types.ElicitResult(action="accept", content={"confirm": confirm, "notes": notes})
+        else:
+            value = input("Your response: ").strip()
+            return types.ElicitResult(action="accept", content={"response": value})
+    except KeyboardInterrupt:
+        return types.ElicitResult(action="cancel", content={})
+
+async def run():
+    try:
+        async with streamablehttp_client(url=MCP_SERVER_URL) as (read_stream, write_stream, _):
+            async with ClientSession(read_stream=read_stream, write_stream=write_stream, elicitation_callback=smart_elicitation_callback) as session:
+                await session.initialize()
+                tools = await session.list_tools()
+                print(f"Available tools: {[tool.name for tool in tools.tools]}")
+                print("\n--- Submit an IT Support Ticket ---")
+                result = await session.call_tool(name="submit_ticket", arguments={})
+                print(f"\nServer response:\n{result.content[0].text}")
+    except KeyboardInterrupt:
+        print("Demo cancelled.")
+
+def signal_handler(signum, frame):
+    print("\nShutting down...")
+    sys.exit(0)
+
+if __name__ == "__main__":
+    signal.signal(signal.SIGINT, signal_handler)
+    asyncio.run(run())
+```
+
+[Elicitation in Modern AI Agents: How Smart Agents Ask the Right Questions - DEV Community](https://dev.to/sreeni5018/elicitation-in-modern-ai-agents-how-smart-agents-ask-the-right-questions-j4h)
+
 ## Tools
 
 - [GitHub - jlowin/fastmcp: 🚀 The fast, Pythonic way to build MCP servers and clients](https://github.com/jlowin/fastmcp) ⭐ 24k
@@ -296,6 +390,9 @@ claude mcp add mcp_server_mysql \
 - [GitHub - wong2/awesome-mcp-servers: A curated list of Model Context Protocol (MCP) servers](https://github.com/wong2/awesome-mcp-servers) ⭐ 3.8k
 - Tools - [Inspector - Model Context Protocol](https://modelcontextprotocol.io/docs/tools/inspector)
 	- The [MCP Inspector](https://github.com/modelcontextprotocol/inspector) ⭐ 9.2k is an interactive developer tool for testing and debugging MCP servers. While the [Debugging Guide](https://modelcontextprotocol.io/docs/tools/debugging) covers the Inspector as part of the overall debugging toolkit, this document provides a detailed exploration of the Inspector’s features and capabilities.
+	- [MCP Inspector - Model Context Protocol](https://modelcontextprotocol.io/docs/tools/inspector)
+	- `npx @modelcontextprotocol/inspector`
+	- `http://localhost:6274/?MCP_PROXY_AUTH_TOKEN=`
 - [GitHub - mcp-ecosystem/mcp-gateway: 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications.](https://github.com/mcp-ecosystem/mcp-gateway) ⭐ 2.1k
 	- **MCP Gateway** is a lightweight and highly available gateway service written in Go. It enables individuals and organizations to convert their existing MCP Servers and APIs into services compliant with the [MCP Protocol](https://modelcontextprotocol.io/) — all through configuration, with **zero code changes**.
 	- [GitHub - lasso-security/mcp-gateway: A plugin-based gateway that orchestrates other MCPs and allows developers to build upon it enterprise-grade agents.](https://github.com/lasso-security/mcp-gateway) ⭐ 361

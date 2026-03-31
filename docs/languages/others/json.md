@@ -130,6 +130,12 @@ JSONata is powerful but it can take a while to get accustomed to its terse synta
 
 [Understanding JSONata – Robert Yokota](https://yokota.blog/2023/05/29/understanding-jsonata/)
 
+## Jsonlines / jsonl
+
+JSON Lines text format, also called newline-delimited JSON. JSON Lines is a convenient format for storing structured data that may be processed one record at a time. It works well with unix-style text processing tools and shell pipelines. It's a great format for log files. It's also a flexible format for passing messages between cooperating processes.
+
+[JSON Lines](https://jsonlines.org/)
+
 ## References
 
 http://json.org

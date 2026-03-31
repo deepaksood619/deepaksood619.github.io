@@ -66,6 +66,11 @@ Other areas of study for linguists include:
 - What's sizzling?
 - What's kicking
 
+## Acronyms / Abbreviations
+
+- EOD - End of Day
+- COB - Close of Business
+
 ## One word that solves all problems
 
 Panacea. Skeleton key. Magic feather. Silver bullet. Duck tape. God. Magic. Strong AI, Spooky free will. Hopeful monster. Wonder tissue. Sky hook. Genie wish. Evolution by natural selection. Creativity. Time. Wonder drug. "Clutch". Cure all. Life-saver. Hank Williams. The Philosopher's Stone. Miracles.

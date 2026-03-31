@@ -112,6 +112,7 @@ vLLM seamlessly supports most popular open-source models on HuggingFace, includi
 - [**Chainlit**](https://github.com/Chainlit/chainlit) ⭐ 12k - "the Streamlit for ChatGPT", create ChatGPT-like UIs on top of any Python code in minutes!
 - [**pydistcheck**](https://github.com/jameslamb/pydistcheck) ⭐ 44 - Linter that finds portability issues in Python package distributions (wheels and sdists).
 - [**pyxet**](https://github.com/xetdata/pyxet) ⭐ 61 - lightweight interface for the XetHub platform, a blob-store with a filesystem like interface and git capabilities.
+- [GitHub - e2b-dev/E2B: Open-source, secure environment with real-world tools for enterprise-grade agents. · GitHub](https://github.com/e2b-dev/e2b)
 
 ## Code Review
 
@@ -251,6 +252,12 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [**maccarone**](https://github.com/bsilverthorn/maccarone) ⭐ 466 - AI-managed code blocks in Python, lets you delegate sections of your Python program to AI ownership.
 - [**magentic**](https://github.com/jackmpcollins/magentic) ⭐ 2.4k - prompt LLMs as simple Python functions using decorators.
 - [**Semantic Kernel**](https://github.com/microsoft/semantic-kernel) ⭐ 28k - integrate cutting-edge LLM technology quickly and easily into your apps. Microsoft’s "version" of [LangChain](https://github.com/hwchase17/langchain) ⭐ 131k.
+	- [How to quickly start with Semantic Kernel \| Microsoft Learn](https://learn.microsoft.com/en-us/semantic-kernel/get-started/quick-start-guide)
+	- [Add chat completion services to Semantic Kernel \| Microsoft Learn](https://learn.microsoft.com/en-us/semantic-kernel/concepts/ai-services/chat-completion/)
+	- [In-depth Semantic Kernel Demos \| Microsoft Learn](https://learn.microsoft.com/en-us/semantic-kernel/get-started/detailed-samples)
+	- [Understanding the kernel in Semantic Kernel \| Microsoft Learn](https://learn.microsoft.com/en-us/semantic-kernel/concepts/kernel)
+	- [Semantic Kernel Agent Framework \| Microsoft Learn](https://learn.microsoft.com/en-us/semantic-kernel/frameworks/agent/)
+	- [Semantic Kernel Agent Architecture \| Microsoft Learn](https://learn.microsoft.com/en-us/semantic-kernel/frameworks/agent/agent-architecture)
 - [ControlFlow](https://controlflow.ai/welcome)
 	- ControlFlow is a Python framework for building agentic AI workflows.
 

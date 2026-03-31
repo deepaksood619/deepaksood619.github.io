@@ -91,6 +91,8 @@ The power of AI collaboration has too much to offer. CrewAI is a standalone fram
 
 - [GitHub - crewAIInc/crewAI: Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.](https://github.com/crewAIInc/crewAI) ⭐ 47k
 - [CrewAI](https://www.crewai.com/)
+- [GitHub - crewAIInc/crewAI-examples: A collection of examples that show how to use CrewAI framework to automate workflows. · GitHub](https://github.com/crewAIInc/crewAI-examples)
+	- [crewAI-examples/integrations/CrewAI-LangGraph at main · crewAIInc/crewAI-examples · GitHub](https://github.com/crewAIInc/crewAI-examples/tree/main/integrations/CrewAI-LangGraph)
 
 ## Agno
 
@@ -161,9 +163,10 @@ reasoning_agent = Agent(
 
 ![AI Agents Landscape](../../media/Pasted%20image%2020250114143214.jpg)
 
-## Examples
+## Examples / Learning
 
 - [I built an agent that tells you exactly how to sell to anyone - just from their name. Here's what it does: → Takes a name as input (provide company too if common name) → Finds their entire digital… \| Ethan Kinnan \| 1,490 comments](https://www.linkedin.com/posts/ethan-kinnan_i-built-an-agent-that-tells-you-exactly-how-ugcPost-7371962445747253248-bzCS/)
+- [GitHub - NirDiamant/agents-towards-production: This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.](https://github.com/NirDiamant/agents-towards-production) ⭐ 18k
 
 ## VertexAI
 
@@ -189,9 +192,7 @@ reasoning_agent = Agent(
 - [Real Terms for AI - YouTube](https://www.youtube.com/playlist?list=PLIivdWyY5sqLvGdVLJZh2EMax97_T-OIB)
 - [Multi-Agent Portfolio Collaboration with OpenAI Agents SDK](https://cookbook.openai.com/examples/agents_sdk/multi-agent-portfolio-collaboration/multi_agent_portfolio_collaboration)
 - [\[2505.10468\] AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges](https://arxiv.org/abs/2505.10468)
-- [GitHub - NirDiamant/agents-towards-production: This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.](https://github.com/NirDiamant/agents-towards-production) ⭐ 18k
 - [How we built our multi-agent research system \\ Anthropic](https://www.anthropic.com/engineering/built-multi-agent-research-system)
-- [ai-engineering-hub/agent-with-mcp-memory at main · patchy631/ai-engineering-hub · GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main/agent-with-mcp-memory) ⭐ 33k
 - [Enabling customers to deliver production-ready AI agents at scale \| Artificial Intelligence](https://aws.amazon.com/blogs/machine-learning/enabling-customers-to-deliver-production-ready-ai-agents-at-scale/)
 - [Mixture-of-Agents (MoA): A Breakthrough in LLM Performance - MarkTechPost](https://www.marktechpost.com/2025/08/09/mixture-of-agents-moa-a-breakthrough-in-llm-performance/)
 - [Design Systems And AI: Why MCP Servers Are The Unlock \| Figma Blog](https://www.figma.com/blog/design-systems-ai-mcp/)

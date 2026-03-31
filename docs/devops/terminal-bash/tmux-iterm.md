@@ -61,6 +61,9 @@ ctrl + w - delete one word back
 tmux attach -t <name>
 tmux attach -t 0
 tmux ls     #list all tmux sessions
+
+Save window arrangement - Shift + Cmd + S
+Restore window arrangement - Shift + Cmd + R
 ```
 
 ### Shell integration

@@ -54,7 +54,30 @@ cAdvisor (Container Advisor) provides container users an understanding of the re
 
 cAdvisor has native support for [Docker](https://github.com/docker/docker) ⭐ 72k containers and should support just about any other container type out of the box. We strive for support across the board so feel free to open an issue if that is not the case. cAdvisor's container abstraction is based on [lmctfy](https://github.com/google/lmctfy) ⭐ 3.4k's so containers are inherently nested hierarchically.
 
-https://github.com/google/cadvisor
+- cAdvisor is embedded into the kubelet, so we scrape the kubelet to get container metrics
+- These are the so-called Kubernetes "core" metrics
+- For each container on the node:
+    - CPU Usage (user and system) and time throttled
+    - Filesystem read/writes/limits
+    - Memory usage and limits
+    - Network transmit/receive/dropped
+
+```yaml
+cadvisor:
+	image: gcr.io/cadvisor/cadvisor:latest
+	ports:
+	  - "8080:8080"
+	volumes:
+	  - /:/rootfs:ro
+	  - /var/run:/var/run:rw
+	  - /sys:/sys:ro
+	  - /var/lib/docker/:/var/lib/docker:ro
+	networks:
+	  - monitoring
+	restart: always
+```
+
+[GitHub - google/cadvisor: Analyzes resource usage and performance characteristics of running containers. · GitHub](https://github.com/google/cadvisor)
 
 ## Zabbix
 

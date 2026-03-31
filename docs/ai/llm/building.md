@@ -173,6 +173,10 @@ OpenWebUI, it provides a universal chat like interface for using any models via 
 
 - [librechat.ai](https://www.librechat.ai/)
 	- [GitHub - danny-avila/LibreChat: Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.](https://github.com/danny-avila/LibreChat) ⭐ 35k
+- [GitHub - langchain-ai/agent-chat-ui: 🦜💬 Web app for interacting with any LangGraph agent (PY & TS) via a chat interface. · GitHub](https://github.com/langchain-ai/agent-chat-ui)
+- [GitHub - mckaywrigley/chatbot-ui: AI chat for any model. · GitHub](https://github.com/mckaywrigley/chatbot-ui)
+- [GitHub - bdeekshith066/Chatbot\_Hub: A collection of 10+ chatbot types, from keyword-based and rule-based to AI-powered models. Explore various implementations for building intelligent chat interfaces and virtual assistants. · GitHub](https://github.com/bdeekshith066/Chatbot_Hub)
+- [llm-examples.streamlit.app/Chat\_with\_user\_feedback](https://llm-examples.streamlit.app/Chat_with_user_feedback)
 
 ### oobabooga
 

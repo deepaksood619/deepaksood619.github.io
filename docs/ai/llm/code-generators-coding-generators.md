@@ -106,8 +106,11 @@ You can also ask me questions about your editor selection by starting an inline 
 	- [Advanced Claude Code Patterns That Move the Needle - Google Docs](https://docs.google.com/document/d/1agzmSskXcdMgJz_cf1KlWdy1kfY3n_XEhHrLU_ESTRk/edit?usp=sharing)
 - [Code Review for Claude Code \| Claude](https://claude.com/blog/code-review)
 - [Using Claude Code Remote Control - YouTube](https://www.youtube.com/watch?v=Ko7_tC1fMMM)
+	- `claude remote-control`
+	- Only available with `claude login` and not with VertexAI
 - [Auto mode for Claude Code \| Claude](https://claude.com/blog/auto-mode)
 	- Auto mode provides a safer long-running alternative to --dangerously-skip-permissions.
+- [Claude Code on Google Vertex AI - Claude Code Docs](https://code.claude.com/docs/en/google-vertex-ai)
 
 ### Commands
 
@@ -127,12 +130,67 @@ claude -p "query"
 - **/model**: Quickly switch between models (e.g., switching to `haiku` for fast tasks or `opus` for complex logic).
 - **/review**: Triggers a code review of your current changes or a specific file.
 - **/rewind**: (Double-tap `Esc` or type `/rewind`) Opens a menu to undo recent code changes or revert the conversation.
-- **/usage**: Displays your current token usage and rate limit status.
 - **/mcp**: Manages Model Context Protocol servers (connecting Claude to tools like Jira, Slack, or databases).
-- **/cost:** It will display a breakdown of **Input Tokens**, **Output Tokens**, and **Cache Hits/Misses**, along with a total USD estimate for the current session.
 - **/clear:** This wipes the old context
 
+### Monitoring
+
+- **/cost:** It will display a breakdown of **Input Tokens**, **Output Tokens**, and **Cache Hits/Misses**, along with a total USD estimate for the current session.
+- **/stats**: Displays your current token usage and rate limit status.
+
+[GitHub - Maciek-roboblog/Claude-Code-Usage-Monitor: Real-time Claude Code usage monitor with predictions and warnings · GitHub](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) ⭐ 7.2k
+
+```bash
+# Install directly from PyPI with uv (easiest)
+uv tool install claude-monitor
+
+# Run from anywhere
+claude-monitor  # or cmonitor, ccmonitor for short
+```
+
+[GitHub - hoangsonww/Claude-Code-Agent-Monitor: A real-time monitoring dashboard for Claude Code agents, built with Node.js, Express, React, and WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchestration through Claude Code hooks, providing live analytics, a Kanban status board, status notifications, and an interactive web interface. · GitHub](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) ⭐ 27
+
+Conversations - `~/.claude/projects/`
+
+[GitHub - d-kimuson/claude-code-viewer: A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects · GitHub](https://github.com/d-kimuson/claude-code-viewer) ⭐ 1.0k
+
+```bash
+npm install -g @kimuson/claude-code-viewer
+claude-code-viewer --port 3400
+```
+
 ### GSD
+
+#### GSD 2.0
+
+The original GSD was a collection of markdown prompts installed into `~/.claude/commands/`. It relied entirely on the LLM reading those prompts and doing the right thing. That worked surprisingly well — but it had hard limits:
+
+- **No context control.** The LLM accumulated garbage over a long session. Quality degraded.
+- **No real automation.** "Auto mode" was the LLM calling itself in a loop, burning context on orchestration overhead.
+- **No crash recovery.** If the session died mid-task, you started over.
+- **No observability.** No cost tracking, no progress dashboard, no stuck detection.
+
+GSD v2 solves all of these because it's not a prompt framework anymore — it's a TypeScript application that _controls_ the agent session.
+
+```bash
+npm install -g gsd-pi@latest
+
+# From within the project directory
+/gsd migrate
+
+# Or specify a path
+/gsd migrate ~/projects/my-old-project
+
+/gsd auto
+
+`/gsd` and `/gsd next` # — Step Mode
+```
+
+[GitHub - gsd-build/gsd-2: A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture · GitHub](https://github.com/gsd-build/gsd-2) ⭐ 3.4k
+
+[GSD - Get Shit Done \| AI Coding Framework](https://gsd.build/)
+
+#### GSD 1.0
 
 [GitHub - gsd-build/get-shit-done: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. · GitHub](https://github.com/gsd-build/get-shit-done) ⭐ 43k
 
@@ -150,9 +208,30 @@ claude --enable-auto-mode
 /gsd:verify-work 1
 /gsd:resume-work
 
+/gsd:do
+/gsd:quick
+
+/gsd:new-milestone
+
+/gsd:stats
+/gsd:progress
+
 # see all workflows of GSD
 ls ~/.claude/get-shit-done/workflows/
 ```
+
+[Agent System Overview - Get Shit Done](https://www.mintlify.com/gsd-build/get-shit-done/agents/overview)
+
+### Others / Agents / Skills
+
+- [GitHub - affaan-m/everything-claude-code: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. · GitHub](https://github.com/affaan-m/everything-claude-code) ⭐ 114k
+	- [ECC Tools - Open Agent Harness System for GitHub App Automation and Security](https://ecc.tools/)
+- [GitHub - garrytan/gstack: Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA · GitHub](https://github.com/garrytan/gstack) ⭐ 54k
+- [GitHub - obra/superpowers: An agentic skills framework & software development methodology that works. · GitHub](https://github.com/obra/superpowers) ⭐ 121k
+- [GitHub - bytedance/deer-flow: An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. · GitHub](https://github.com/bytedance/deer-flow) ⭐ 51k
+- [GitHub - openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 · GitHub](https://github.com/openclaw/openclaw) ⭐ 339k
+- [GitHub - msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. · GitHub](https://github.com/msitarzewski/agency-agents) ⭐ 65k
+- [GitHub - FujiwaraChoki/MoneyPrinterV2: Automate the process of making money online. · GitHub](https://github.com/FujiwaraChoki/MoneyPrinterV2) ⭐ 27k
 
 ## Others
 

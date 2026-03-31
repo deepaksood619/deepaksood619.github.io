@@ -82,34 +82,10 @@ sqlacodegen mysql+pymysql://user:pass@host.com:3306/sttash_website_LIVE --table 
 
 https://github.com/ksindi/flask-sqlacodegen
 
-## Migrations
-
-### Alembic
-
-Alembic is a lightweight, powerful database migration tool designed for Python, specifically working with the SQLAlchemy ORM. It manages database schema evolution by creating and running version-controlled migration scripts, allowing developers to upgrade or downgrade database structures safely.
-
-**Key Features & Capabilities:**
-
-- **Automatic Generation:** Detects changes in SQLAlchemy models and automatically generates migration scripts.
-- **Database Compatibility:** Supports PostgreSQL, MySQL, SQLite, Oracle, and MS-SQL.
-- **Migration Control:** Allows creating, applying, and rolling back database changes, including `ALTER` statements.
-- **Environment Management:** Maintains a history of migration files, ensuring consistency across team members' environments.
-
-**Commonly Used Commands:**
-
-- `alembic init <directory>`: Initialize a new migration environment.
-- `alembic revision --autogenerate -m "description"`: Create a new migration script based on model changes.
-- `alembic upgrade head`: Apply all migrations to the database.
-- `alembic downgrade -1`: Roll back the last applied migration.
-
-[GitHub - sqlalchemy/alembic: A database migrations tool for SQLAlchemy.](https://github.com/sqlalchemy/alembic) ⭐ 4.0k
-
 ## Others
 
-https://docs.sqlalchemy.org/en/13/faq/sessions.html#i-m-re-loading-data-with-my-session-but-it-isn-t-seeing-changes-that-i-committed-elsewhere
-
-https://stackoverflow.com/questions/19143345/about-refreshing-objects-in-sqlalchemy-session
-
-https://sqlmodel.tiangolo.com
-
-SQL databases in Python, designed for simplicity, compatibility, and robustness.
+- [alembic](python/others/sqlalchemy/alembic.md)
+- https://docs.sqlalchemy.org/en/13/faq/sessions.html#i-m-re-loading-data-with-my-session-but-it-isn-t-seeing-changes-that-i-committed-elsewhere
+- https://stackoverflow.com/questions/19143345/about-refreshing-objects-in-sqlalchemy-session
+- https://sqlmodel.tiangolo.com
+	- SQL databases in Python, designed for simplicity, compatibility, and robustness.

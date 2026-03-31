@@ -9,7 +9,7 @@
 
 ## Generalization and Overfitting
 
-## Errors in Classification
+### Errors in Classification
 
 - Recall that a machine learning model maps the input it receives to an output. For a classification model, the model's output is the predicted class label for the input variables and the true clas label is the target
 - Then if the classifier predicts the correct classes label for a sample, that is a success. If the predicted class label is different from the true class label, then that is an error.
@@ -19,26 +19,26 @@
 - The model is built using training data and evaluated on test data. The training and test data are two different data sets. The goal in building a ML model is to have the model perform well on training, as well as test data.
 - Error rate, or simply error, on the training data is referred to as training error, and the error on test data is referred to as test error. The error on the test data is an indication of how well the classifier will perform on new data.
 
-## Generalization
+### Generalization
 
 - Generalization refers to how well your model performs on new data, that is data not used to train the model
 - You want your model to generalize well to new data. If your model generalizes well, then it will perform on data sets that are similar in structure to the training data, but doesn't contain exactly the same samples as in the training set
 - Since the test error indicates how well your model generalizes to new data, note that the test error is also called generalization error
 
-## Overfitting
+### Overfitting
 
 - A related concept to generalization is overfitting. If your model has very low training error but high generalization error, then it is overfitting
 - This means that the model has learned to model the noise in the training data, instead of learning the underlying structure of the data
 
 ![image](../../media/Evaluation-image1.jpg)
 
-## Connection between overfitting and generalization
+### Connection between overfitting and generalization
 
 - A model that overfits will not generalize well to new data
 - So the model will do well on just the data it was trained on, but given a new data set, it will perform poorly
 - A classifier that performs well on just the training data set will not be very useful. So it is essential that the goal of good generalization performance is kept in mind when building a model
 
-Overfitting and Underfitting
+### Overfitting and Underfitting
 
 - Overfitting occurs when the model is fitting to the noise in the training data. This results in low training error and high test error
 - Underfitting on the other hand, occurs when the model has not learned the structure of the data. This results in high training error and high test error
@@ -66,13 +66,13 @@ Two methods
 
 ![image](../../media/Evaluation-image4.jpg)
 
-## Pre-pruning
+### Pre-pruning
 
 - With pre-pruning, the idea is to stop tree induction before a fully grown tree is built that perfectly fits the training data
 - To do this, restrictive stopping conditions for growing nodes must be used. For example, a nose stops expanding if the number of samples in the node is less than some minimum threshold
 - Another example is to stop expanding a note if the improvement in the impurity measure falls below a certain threshold
 
-## Post-pruning
+### Post-pruning
 
 - In post-pruning, the tree is grown to its maximum size, then the tree is pruned by removing nodes using a bottom up approach
 - That is, the tree is trimmed starting with the leaf nodes. The pruning is done by replacing a subtree with a leaf node if this improves the generalization error, or if there is no change to the generalizatoin error with his replacement

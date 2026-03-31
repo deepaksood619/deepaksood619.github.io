@@ -224,3 +224,5 @@ Even if the 26-year-old retires by 27 (naturally an unlikely event), the suggest
 - [Using safe withdrawal rates to judge retirement corpus health](https://freefincal.com/using-safe-withdrawal-rates-to-judge-retirement-corpus-health/)
 - [Three Numbers That Redefined My Survival, Comfort, and Freedom](https://freefincal.com/three-numbers-that-redefined-my-survival-comfort-and-freedom/)
 - [How to build the ideal retirement portfolio](https://freefincal.com/how-to-build-the-ideal-retirement-portfolio/)
+- [Determining the Optimal Equity Allocation in Retirement](https://freefincal.com/determining-the-optimal-equity-allocation-in-retirement/)
+- [Creating a Resilient Investment Strategy for Retirement](https://freefincal.com/creating-a-resilient-investment-strategy-for-retirement/)

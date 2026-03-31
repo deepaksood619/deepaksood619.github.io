@@ -49,12 +49,13 @@
 
 These settings apply to **both Producers and Consumers** (and Admin clients) to manage network connections and timeouts.
 
-| **Configuration**          | **Description**                                                                                              |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| **`client.id`**            | A logical identifier string passed to the server to track the source of requests in logs and metrics.        |
-| **`request.timeout.ms`**   | The maximum time the client waits for a response from the broker before giving up and retrying (or failing). |
-| **`receive.buffer.bytes`** | The size of the TCP receive buffer (SO_RCVBUF) to use when reading data.                                     |
-| **`send.buffer.bytes`**    | The size of the TCP send buffer (SO_SNDBUF) to use when sending data.                                        |
+| **Configuration**                            | **Description**                                                                                                                                                                                                                                                                  |
+| -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **`client.id`**                              | A logical identifier string passed to the server to track the source of requests in logs and metrics.                                                                                                                                                                            |
+| **`request.timeout.ms`**                     | The maximum time the client waits for a response from the broker before giving up and retrying (or failing).                                                                                                                                                                     |
+| **`receive.buffer.bytes`**                   | The size of the TCP receive buffer (SO_RCVBUF) to use when reading data.                                                                                                                                                                                                         |
+| **`send.buffer.bytes`**                      | The size of the TCP send buffer (SO_SNDBUF) to use when sending data.                                                                                                                                                                                                            |
+| **`metadata.recovery.strategy=rebootstrap`** | `metadata.recovery.strategy=rebootstrap` tells the Kafka client to **discard its current broker list and re-bootstrap from `bootstrap.servers` (and any programmatically added brokers) when metadata recovery is triggered**, instead of just retrying the existing broker set. |
 
 ## Best Practices
 

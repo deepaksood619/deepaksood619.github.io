@@ -162,6 +162,7 @@
 - https://www.momentum.io/
 - https://youraislopbores.me/
 - https://littlebird.ai/
+- [Gemini Storybook — for the stories only you could imagine](https://gemini.google/overview/storybook/)
 
 ## Purpose-built accelerators for generative AI
 

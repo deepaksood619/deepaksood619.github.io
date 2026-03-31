@@ -13,7 +13,7 @@
 - [Tmux Iterm](tmux-iterm)
 - [Bash Shortcuts](bash-shortcuts)
 - Tools
-    - [Editors](tools/editors)
+    - [Editors](devops/terminal-bash/tools/editors-vim-nano.md)
     - [Mosh](tools/mosh)
     - [Crontab](tools/crontab)
     - [AWK](tools/awk)
