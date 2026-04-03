@@ -149,6 +149,8 @@ scp -i ../ec2_ssh_key.pem ubuntu@15.206.94.125:/home/ubuntu/workspace/cred-stuff
 
 `scp -r ubuntu@energy.example.com:/home/ubuntu/sources/example/media /home/ubuntu/sources/example/media`
 
+`scp -i pem_file.pem -r ubuntu@energy.example.com:/home/ubuntu/sources/example/media /home/ubuntu/sources/example/media`
+
 ## Directory and user permissions
 
 ```bash

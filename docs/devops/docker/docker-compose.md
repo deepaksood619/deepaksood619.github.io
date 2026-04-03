@@ -138,6 +138,59 @@ However when you define **env_file** option to your service, the service will ge
     - [rollback_config](https://docs.docker.com/compose/compose-file/compose-versioning/#rollback_config) in deploy configurations
     - Support for extension fields at the root of service, network, volume, secret and config definitions
 
+## Preventing Duplicate Builds in Docker Compose
+
+When multiple services in a `docker-compose.yml` file (like an API and a UI) share the same Dockerfile, Docker Compose will try to build and export the image multiple times by default. Even though Docker's layer caching prevents rebuilding the actual steps, the metadata and export process still run twice, wasting time. To fix this, you designate one "primary" service to handle the `build` process and explicitly give it an `image` name. For the other services, you completely remove the `build` block, reference that exact same `image` name, and use `depends_on` to ensure the primary service builds it first.
+
+### The Code Pattern
+
+Here is the quick reference for how to structure your `docker-compose.yml`:
+
+**0. Using Shared builds if depends_on not possible**
+
+```yaml
+# 1. Define a reusable build block using a YAML anchor
+x-shared-image: &shared-image
+	context: .
+	args:
+		APP_ENV: ${APP_ENV:-development}
+
+services:
+	app:
+		build: *shared-build
+```
+
+**1. The Primary Service (Handles the Build)**
+
+```yaml
+services:
+  app:
+    container_name: app
+    build:
+      context: .
+      args:
+        APP_ENV: ${APP_ENV:-development}
+    # Explicitly name the image here
+    image: shared-image:${APP_ENV:-development}
+    ports:
+      - "8000:8000"
+```
+
+**2. The Dependent Service (Reuses the Image)**
+
+```yaml
+  ui:
+    container_name: ui
+    # NO build block here!
+    # Reuse the exact same image name from the app service
+    image: shared-image:${APP_ENV:-development}
+    depends_on:
+      app:
+        condition: service_started # or service_healthy
+    ports:
+      - "8501:8501"
+```
+
 ## Tips
 
 - No variable sustitution for keys in docker-compose
@@ -151,8 +204,6 @@ However when you define **env_file** option to your service, the service will ge
 
 ## References
 
-https://docs.docker.com/compose/compose-file
-
-https://docs.docker.com/compose/reference/up
-
-https://docs.docker.com/compose/compose-file/compose-versioning
+- https://docs.docker.com/compose/compose-file
+- https://docs.docker.com/compose/reference/up
+- https://docs.docker.com/compose/compose-file/compose-versioning

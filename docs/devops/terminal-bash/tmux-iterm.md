@@ -68,7 +68,8 @@ Restore window arrangement - Shift + Cmd + R
 
 ### Shell integration
 
-https://iterm2.com/documentation-shell-integration.html
+- [Shell Integration - Documentation - iTerm2 - macOS Terminal Replacement](https://iterm2.com/documentation-shell-integration.html)
+- [Beautify your iTerm2 and prompt 💋 \| by Steven Chim \| airfrance-klm \| Medium](https://medium.com/airfrance-klm/beautify-your-iterm2-and-prompt-40f148761a49)
 
 ## Others
 

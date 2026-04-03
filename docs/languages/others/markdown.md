@@ -252,10 +252,7 @@ https://markdown-here.com
 
 ## Others
 
-[Markdown vs. HTML - What Makes the Most Powerful Notes Editor?](https://www.thebrain.com/blog/markdown-vs-html)
-
-https://www.markdownguide.org/basic-syntax
-
-https://markdown-it.github.io
-
-[GitHub - igorshubovych/markdownlint-cli: MarkdownLint Command Line Interface](https://github.com/igorshubovych/markdownlint-cli) ⭐ 1.0k
+* [Markdown vs. HTML - What Makes the Most Powerful Notes Editor?](https://www.thebrain.com/blog/markdown-vs-html)
+* https://www.markdownguide.org/basic-syntax
+* https://markdown-it.github.io
+* [GitHub - igorshubovych/markdownlint-cli: MarkdownLint Command Line Interface](https://github.com/igorshubovych/markdownlint-cli) ⭐ 1.0k

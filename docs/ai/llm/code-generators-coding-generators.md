@@ -132,6 +132,7 @@ claude -p "query"
 - **/rewind**: (Double-tap `Esc` or type `/rewind`) Opens a menu to undo recent code changes or revert the conversation.
 - **/mcp**: Manages Model Context Protocol servers (connecting Claude to tools like Jira, Slack, or databases).
 - **/clear:** This wipes the old context
+- **/powerup:** interactive lessons teaching Claude Code features with animated demos
 
 ### Monitoring
 
@@ -210,14 +211,47 @@ claude --enable-auto-mode
 
 /gsd:do
 /gsd:quick
+/gsd:fast
 
 /gsd:new-milestone
 
 /gsd:stats
 /gsd:progress
+/gsd:settings
+
+/gsd:settings workflow.skip_discuss false
+/gsd:autonomous
 
 # see all workflows of GSD
 ls ~/.claude/get-shit-done/workflows/
+```
+
+```json title="~/.gsd/defaults.json"
+{
+  "mode": "yolo",
+  "granularity": "coarse",
+  "model_profile": "balanced",
+  "commit_docs": true,
+  "parallelization": true,
+  "git": {
+    "branching_strategy": "none",
+    "quick_branch_template": null
+  },
+  "workflow": {
+    "research": false,
+    "plan_check": false,
+    "verifier": false,
+    "auto_advance": true,
+    "nyquist_validation": false,
+    "ui_phase": false,
+    "ui_safety_gate": false,
+    "research_before_questions": true,
+    "skip_discuss": true
+  },
+  "hooks": {
+    "context_warnings": false
+  }
+}
 ```
 
 [Agent System Overview - Get Shit Done](https://www.mintlify.com/gsd-build/get-shit-done/agents/overview)
@@ -230,8 +264,28 @@ ls ~/.claude/get-shit-done/workflows/
 - [GitHub - obra/superpowers: An agentic skills framework & software development methodology that works. · GitHub](https://github.com/obra/superpowers) ⭐ 121k
 - [GitHub - bytedance/deer-flow: An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. · GitHub](https://github.com/bytedance/deer-flow) ⭐ 51k
 - [GitHub - openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 · GitHub](https://github.com/openclaw/openclaw) ⭐ 339k
+	- [The OpenClaw Effect: Why Every AI Company is Racing to Your Desktop](https://www.thetoolnerd.com/p/the-openclaw-effect-why-every-ai)
 - [GitHub - msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. · GitHub](https://github.com/msitarzewski/agency-agents) ⭐ 65k
 - [GitHub - FujiwaraChoki/MoneyPrinterV2: Automate the process of making money online. · GitHub](https://github.com/FujiwaraChoki/MoneyPrinterV2) ⭐ 27k
+- Documentations
+	- [Use docs programmatically - Docs by LangChain](https://docs.langchain.com/use-these-docs)
+	- [GitHub - langchain-ai/langchain-skills · GitHub](https://github.com/langchain-ai/langchain-skills)
+		- `npx skills add langchain-ai/langchain-skills --skill '*' --yes --global`
+- [Superpowers VS. GSD VS. Others.](https://www.reddit.com/r/ClaudeCode/comments/1qlsdjb/superpowers_vs_gsd_vs_others/)
+
+### Codebase
+
+- [GitHub - yasasbanukaofficial/claude-code: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. · GitHub](https://github.com/yasasbanukaofficial/claude-code) ⭐ 407
+- [GitHub - codeaashu/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. · GitHub](https://github.com/codeaashu/claude-code) ⭐ 746
+- [Reddit - Claude Code Source Leak Megathread](https://www.reddit.com/r/ClaudeAI/comments/1s9d9j9/claude_code_source_leak_megathread/)
+
+## ChatDev 2.0
+
+ChatDev has evolved from a specialized software development multi-agent system into a comprehensive multi-agent orchestration platform.
+
+- ChatDev 2.0 (DevAll) is a Zero-Code Multi-Agent Platform for "Developing Everything". It empowers users to rapidly build and execute customized multi-agent systems through simple configuration. No coding is required—users can define agents, workflows, and tasks to orchestrate complex scenarios such as data visualization, 3D generation, and deep research.
+
+[GitHub - OpenBMB/ChatDev: ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration · GitHub](https://github.com/OpenBMB/ChatDev) ⭐ 32k
 
 ## Others
 
@@ -243,14 +297,16 @@ ls ~/.claude/get-shit-done/workflows/
 	- [Jules - An Asynchronous Coding Agent](https://jules.google/)
 	- [Google AI Studio](https://aistudio.google.com/)
 	- [Firebase Studio](https://firebase.studio/) - Firebase AI Studio
-	- [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli) ⭐ 99k
+	- [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli) ⭐ 100k
 		- npx https://github.com/google-gemini/gemini-cli
 		- **npm install -g @google/gemini-cli**
 			- gemini
 	- Old - [Introducing Duet AI for Google Cloud – an AI-powered collaborator \| Google Cloud Blog](https://cloud.google.com/blog/products/application-modernization/introducing-duet-ai-for-google-cloud)
 - [Galileo AI · Copilot for interface design](https://www.usegalileo.ai/)
 - [GitHub - openai/codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex) ⭐ 68k
-- [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli) ⭐ 99k
+	- [GitHub - Yeachan-Heo/oh-my-codex: OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. · GitHub](https://github.com/Yeachan-Heo/oh-my-codex) ⭐ 9.3k
+	- **[GitHub - ultraworkers/claw-code: The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex. · GitHub](https://github.com/ultraworkers/claw-code) ⭐ 131k**
+- [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli) ⭐ 100k
 - [Warp: The Agentic Development Environment](https://www.warp.dev/)
 - [Kilo Code - Open source AI agent VS Code extension](https://kilocode.ai/)
 - [GitHub - Pythagora-io/gpt-pilot: The first real AI developer](https://github.com/Pythagora-io/gpt-pilot) ⭐ 34k

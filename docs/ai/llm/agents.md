@@ -91,8 +91,8 @@ The power of AI collaboration has too much to offer. CrewAI is a standalone fram
 
 - [GitHub - crewAIInc/crewAI: Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.](https://github.com/crewAIInc/crewAI) ⭐ 47k
 - [CrewAI](https://www.crewai.com/)
-- [GitHub - crewAIInc/crewAI-examples: A collection of examples that show how to use CrewAI framework to automate workflows. · GitHub](https://github.com/crewAIInc/crewAI-examples)
-	- [crewAI-examples/integrations/CrewAI-LangGraph at main · crewAIInc/crewAI-examples · GitHub](https://github.com/crewAIInc/crewAI-examples/tree/main/integrations/CrewAI-LangGraph)
+- [GitHub - crewAIInc/crewAI-examples: A collection of examples that show how to use CrewAI framework to automate workflows. · GitHub](https://github.com/crewAIInc/crewAI-examples) ⭐ 5.8k
+	- [crewAI-examples/integrations/CrewAI-LangGraph at main · crewAIInc/crewAI-examples · GitHub](https://github.com/crewAIInc/crewAI-examples/tree/main/integrations/CrewAI-LangGraph) ⭐ 5.8k
 
 ## Agno
 
@@ -132,6 +132,35 @@ reasoning_agent = Agent(
 [agno/cookbook/getting\_started/05\_agent\_team.py at main · agno-agi/agno · GitHub](https://github.com/agno-agi/agno/blob/main/cookbook/getting_started/05_agent_team.py) ⭐ 39k
 
 [Introducing Agno 2.0 and AgentOS: A High-Performance Runtime for Multi-Agent Systems \| Ashpreet B. posted on the topic \| LinkedIn](https://www.linkedin.com/posts/ashpreetbedi_today-were-releasing-agno-20-and-sharing-activity-7371241593552392192-x4pH)
+
+## AutoGen
+
+### Autogen Studio
+
+An web-based UI for prototyping with agents without writing code. Built on AgentChat.
+
+AutoGen Studio is a low-code interface built to help you rapidly prototype AI agents, enhance them with tools, compose them into teams and interact with them to accomplish tasks. It is built on [AutoGen AgentChat](https://microsoft.github.io/autogen) - a high-level API for building multi-agent applications.
+
+```bash
+pip install -U autogenstudio
+autogenstudio ui --port 8080 --appdir ./myapp
+
+autogenstudio serve --team=team-config.json --port=5000
+```
+
+[AutoGen — AutoGen](https://microsoft.github.io/autogen/stable/)
+
+## Frameworks
+
+- [GitHub - langchain-ai/langchain: The agent engineering platform · GitHub](https://github.com/langchain-ai/langchain) ⭐ 131k
+- [GitHub - microsoft/autogen: A programming framework for agentic AI · GitHub](https://github.com/microsoft/autogen) ⭐ 56k
+- [GitHub - agno-agi/agno: Build, run, manage agentic software at scale. · GitHub](https://github.com/agno-agi/agno) ⭐ 39k
+- [GitHub - OpenBMB/ChatDev: ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration · GitHub](https://github.com/OpenBMB/ChatDev) ⭐ 32k
+- [GitHub - langchain-ai/langgraph: Build resilient language agents as graphs. · GitHub](https://github.com/langchain-ai/langgraph) ⭐ 28k
+- [GitHub - huggingface/smolagents: 🤗 smolagents: a barebones library for agents that think in code. · GitHub](https://github.com/huggingface/smolagents) ⭐ 26k
+- [GitHub - mastra-ai/mastra: From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack. · GitHub](https://github.com/mastra-ai/mastra)
+	- [TypeScript AI Agent Framework & Platform \| Mastra](https://mastra.ai/)
+- [GitHub Star History](https://www.star-history.com/?repos=OpenBMB%2FChatDev%2CcrewAIInc%2FcrewAI%2Clangchain-ai%2Flanggraph%2Clangchain-ai%2Flangchain%2Chuggingface%2Fsmolagents%2Cagno-agi%2Fagno%2Cmicrosoft%2Fautogen&type=date&legend=top-left)
 
 ## AI Agents / Tools
 

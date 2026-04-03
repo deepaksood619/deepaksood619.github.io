@@ -187,6 +187,12 @@ Others - [RunWhen Home](https://www.runwhen.com/) - Help every engineer troubles
 
 ## NewRelic
 
+```bash
+newrelic-admin generate-config <license_key> newrelic.ini
+
+newrelic-admin validate-config newrelic.ini
+```
+
 ```python
 import newrelic.agent
 newrelic.agent.initialize('/path/to/newrelic.ini')

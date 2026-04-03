@@ -229,6 +229,8 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [GitHub - NateBJones-Projects/OB1: Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS. · GitHub](https://github.com/NateBJones-Projects/OB1) ⭐ 776
 	- [You Don't Need SaaS. The $0.10 System That Replaced My AI Workflow (45 Min No-Code Build) - YouTube](https://www.youtube.com/watch?v=2JiMmye2ezg)
 	- [One Simple System Gave All My AI Tools a Memory. Here's How. - YouTube](https://www.youtube.com/watch?v=japT66frdhM)
+- [7 Steps to Mastering Memory in Agentic AI Systems - MachineLearningMastery.com](https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/)
+- [The 6 Best AI Agent Memory Frameworks You Should Try in 2026 - MachineLearningMastery.com](https://machinelearningmastery.com/the-6-best-ai-agent-memory-frameworks-you-should-try-in-2026/)
 
 ### Comparision
 
@@ -307,6 +309,12 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [**OpenLLM**](https://github.com/bentoml/OpenLLM) ⭐ 12k - An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease. By [BentoML](https://bentoml.com/).
 - [**OpenLLMetry**](https://github.com/traceloop/openllmetry) ⭐ 7.0k - Open-source observability for your LLM application, based on OpenTelemetry.
 - [**privateGPT**](https://github.com/imartinez/privateGPT) ⭐ 57k - Interact privately with your documents using the power of GPT, 100% privately, no data leaks.
+- LLM Application Serving
+	- [Aegra - Open Source LangGraph Platform Alternative \| Self Host LangGraph Agents](https://www.aegra.dev/)
+		- [GitHub - ibbybuilds/aegra: Open source LangGraph Platform (now LangSmith Deployments) alternative - Self-hosted AI agent backend with FastAPI and PostgreSQL. Zero vendor lock-in, full control over your agent infrastructure. · GitHub](https://github.com/ibbybuilds/aegra)
+	- Old - [Introducing LangServe, the best way to deploy your LangChains](https://blog.langchain.com/introducing-langserve/)
+		- [GitHub - langchain-ai/langserve: LangServe 🦜️🏓 · GitHub](https://github.com/langchain-ai/langserve)
+	- [LangGraph Platform in beta: New deployment options for scalable agent infrastructure](https://blog.langchain.com/langgraph-platform-announce/)
 
 ## LLM Tools
 
@@ -386,3 +394,4 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [Announcing GenAI Processors: Build powerful and flexible Gemini applications - Google Developers Blog](https://developers.googleblog.com/en/genai-processors/)
 	- [GitHub - google-gemini/genai-processors: GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.](https://github.com/google-gemini/genai-processors) ⭐ 2.1k
 - [GitHub - maximhq/bifrost: The Fastest LLM Gateway with built in OTel observability and MCP gateway](https://github.com/maximhq/bifrost) ⭐ 3.3k
+- [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)

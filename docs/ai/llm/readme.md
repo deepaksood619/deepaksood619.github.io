@@ -9,6 +9,8 @@
 	- [Langchain](ai/llm/langchain.md)
 - [LLM Agents](ai/llm/agents.md)
 	- [Agentic Frameworks Deep Dive Analysis](ai/llm/agentic-frameworks-deep-dive-analysis.md)
+	- [langgraph-vs-semantic-kernel](ai/llm/langgraph-vs-semantic-kernel.md)
+	- [frontend-ui-frameworks-libraries](ai/llm/frontend-ui-frameworks-libraries.md)
 - [LLM Tuning](ai/llm/tuning.md)
 - [Benchmarking / Monitoring](ai/llm/benchmarking-monitoring.md)
 - [Evaluation](ai/llm/evaluation.md)

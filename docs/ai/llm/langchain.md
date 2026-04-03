@@ -60,10 +60,45 @@ https://cloud.llamaindex.ai/
 - [Building LangGraph: Designing an Agent Runtime from first principles](https://blog.langchain.com/building-langgraph/)
 - [How to Build Effective Agentic Systems with LangGraph \| Towards Data Science](https://towardsdatascience.com/how-to-build-effective-agentic-systems-with-langgraph/)
 
+### Getting Started
+
+[Quickstart - Docs by LangChain](https://docs.langchain.com/oss/python/langgraph/quickstart)
+
+1. Define tools and model
+2. Define state
+3. Define model node
+4. Define tool node
+5. Define end logic
+6. Build and compile the agent
+
+[Thinking in LangGraph - Docs by LangChain](https://docs.langchain.com/oss/python/langgraph/thinking-in-langgraph)
+
+Start with the process you want to automate
+
+1. Step 1: Map out your workflow as discrete steps
+2. Step 2: Identify what each step needs to do
+	1. LLM steps
+	2. Data steps
+	3. Action steps
+	4. User input steps
+3. Step 3: Design your state
+	1. What belongs in state?
+		1. Include in state - Does it need to persist across steps? If yes, it goes in state.
+		2. Don't store - Can you derive it from other data? If yes, compute it when needed instead of storing it in state.
+	2. Keep state raw, format prompts on-demand
+4. Step 4: Build your nodes
+	1. Handle errors appropriately
+	2. Implementing our email agent nodes
+5. Step 5: Wire it together
+
+![LangGraph workflow](../../media/Screenshot%202026-04-02%20at%201.12.55%20PM.png)
+
 ### Courses
 
 - [GraphAcademy — Free, Self-Paced, Hands-on Online Training](https://graphacademy.neo4j.com/)
 - [Graph Data Modeling Fundamentals](https://graphacademy.neo4j.com/courses/modeling-fundamentals/)
+- [Persistence - Docs by LangChain](https://docs.langchain.com/oss/python/langgraph/persistence)
+- [Durable execution - Docs by LangChain](https://docs.langchain.com/oss/python/langgraph/durable-execution)
 
 ## LangSmith
 

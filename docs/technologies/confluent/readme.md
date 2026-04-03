@@ -12,6 +12,7 @@
 	- [confluent-cloud-monitoring](technologies/confluent/confluent-cloud-monitoring.md)
 	- [confluent-cloud-flink](technologies/confluent/confluent-cloud-flink.md)
 	- [confluent-cloud-connect](technologies/confluent/confluent-cloud-connect.md)
+		- [oracle-xstream-cdc-source-connector](technologies/confluent/oracle-xstream-cdc-source-connector.md)
 - [platform-documentation](technologies/confluent/platform-documentation.md)
 	- [confluent-platform](technologies/confluent/confluent-platform.md)
 	- [confluent-for-kubernetes-cfk](technologies/confluent/confluent-for-kubernetes-cfk.md)

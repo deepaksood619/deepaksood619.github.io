@@ -70,8 +70,6 @@ https://www.docker.com/blog/intro-guide-to-dockerfile-best-practices
 
 ## Advanced
 
-https://www.docker.com/blog/advanced-dockerfiles-faster-builds-and-smaller-images-using-buildkit-and-multistage-builds
-
-https://sysdig.com/blog/dockerfile-best-practices
-
-[Building Small Containers (Kubernetes Best Practices)](https://www.youtube.com/watch?v=wGz_cbtCiEA)
+- https://www.docker.com/blog/advanced-dockerfiles-faster-builds-and-smaller-images-using-buildkit-and-multistage-builds
+- https://sysdig.com/blog/dockerfile-best-practices
+- [Building Small Containers (Kubernetes Best Practices)](https://www.youtube.com/watch?v=wGz_cbtCiEA)

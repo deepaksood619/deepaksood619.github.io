@@ -6,6 +6,10 @@
 
 [Bi-Directional Replication](https://docs.oracle.com/en/middleware/goldengate/core/21.3/coredoc/administer-configuring-bi-directional-replication.html)
 
+## Oracle Container Database (CDB)
+
+An Oracle Container Database (CDB) is **the cornerstone of Oracle's Multitenant Architecture** (introduced in 12c, mandatory from 21c), allowing a single database instance to host multiple, isolated **Pluggable Databases (PDBs)**. It centralizes management, backups, and patching, significantly improving resource efficiency, security, and portability for databases.
+
 ## Replication
 
 Debezium, including its connector for Oracle, does not replicate data at the block level. It relies on Change Data Capture (CDC) by streaming changes at the transaction log (redo log) level rather than capturing changes at the storage block level. In the case of Oracle, Debezium uses the Oracle LogMiner utility to extract changes from the Oracle redo logs, which focuses on data changes such as inserts, updates, and deletes, and operates at the row level.
@@ -72,3 +76,7 @@ For enterprises using SAP, SDI can handle Oracle-to-SAP replication, including t
 If you're looking for a more comprehensive solution for Oracle data replication, including the replication of structural objects (indexes, sequences, stored procedures, etc.), Oracle GoldenGate is likely your best option. It provides flexibility to replicate both logical and physical changes across Oracle databases, including schema changes.
 
 For simpler use cases, where you are primarily interested in data changes (without needing full schema replication), tools like Debezium or Confluent CDC can work well for Oracle using CDC. However, if schema replication is a critical requirement, you may need to combine these tools with more advanced solutions like GoldenGate or consider a hybrid approach.
+
+## Links
+
+- [oracle-xstream-cdc-source-connector](technologies/confluent/oracle-xstream-cdc-source-connector.md)

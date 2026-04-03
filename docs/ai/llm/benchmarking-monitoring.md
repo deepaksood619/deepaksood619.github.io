@@ -22,6 +22,7 @@
 
 ### Leaderboards
 
+- [Arena Leaderboard - a Hugging Face Space by lmarena-ai](https://huggingface.co/spaces/lmarena-ai/arena-leaderboard)
 - [LMSYS Chatbot Arena (Multimodal): Benchmarking LLMs and VLMs in the Wild](https://lmarena.ai/)
 - [Hugging Face Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 - [Alpaca Eval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/)
@@ -104,4 +105,3 @@ Understanding both metrics helps you right-size your infrastructure and avoid na
 ## Links
 
 - [Benchmarking LLMs: TPS, TTFT, GPU Usage \| Medium](https://rumn.medium.com/benchmarking-llm-performance-token-per-second-tps-time-to-first-token-ttft-and-gpu-usage-8c50ee8387fa)
-

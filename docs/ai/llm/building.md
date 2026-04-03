@@ -158,34 +158,6 @@ docker exec -it ollama ollama run mistral
 - **Jan.ai** – An open-source, privacy-focused assistant that provides a clean chat interface similar to ChatGPT but entirely offline. It is ideal for users who want organized chat history, file uploads, and a "set-it-and-forget-it" local workspace.
 - **GPT4All** – A beginner-friendly app designed to run efficiently on standard CPUs without needing a powerful graphics card. It features a built-in "LocalDocs" tool that lets you chat privately with your own PDF and text collections out of the box.
 
-#### open-webui / openwebui / open webui (103K stars)
-
-Open WebUI is an extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. It supports various LLM runners like Ollama and OpenAI-compatible APIs, with built-in inference engine for RAG, making it a powerful AI deployment solution.
-
-[GitHub - open-webui/open-webui: User-friendly AI Interface (Supports Ollama, OpenAI API, ...)](https://github.com/open-webui/open-webui) ⭐ 129k
-
-OpenWebUI, it provides a universal chat like interface for using any models via Ollama. We can add prompt templates and use the chat for our purpose. It is a solution for using LLMs but not allowing the parent companies to collect the data. It is based on Open-AI's api so integrating other models would be a challenge.
-
-- [Open WebUI](https://docs.openwebui.com/openapi-servers/mcp/)
-- [GitHub - open-webui/mcpo: A simple, secure MCP-to-OpenAPI proxy server](https://github.com/open-webui/mcpo) ⭐ 4.1k
-
-**Alternative**
-
-- [librechat.ai](https://www.librechat.ai/)
-	- [GitHub - danny-avila/LibreChat: Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.](https://github.com/danny-avila/LibreChat) ⭐ 35k
-- [GitHub - langchain-ai/agent-chat-ui: 🦜💬 Web app for interacting with any LangGraph agent (PY & TS) via a chat interface. · GitHub](https://github.com/langchain-ai/agent-chat-ui)
-- [GitHub - mckaywrigley/chatbot-ui: AI chat for any model. · GitHub](https://github.com/mckaywrigley/chatbot-ui)
-- [GitHub - bdeekshith066/Chatbot\_Hub: A collection of 10+ chatbot types, from keyword-based and rule-based to AI-powered models. Explore various implementations for building intelligent chat interfaces and virtual assistants. · GitHub](https://github.com/bdeekshith066/Chatbot_Hub)
-- [llm-examples.streamlit.app/Chat\_with\_user\_feedback](https://llm-examples.streamlit.app/Chat_with_user_feedback)
-
-### oobabooga
-
-A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
-
-[GitHub - oobabooga/text-generation-webui: A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.](https://github.com/oobabooga/text-generation-webui) ⭐ 46k
-
-[GitHub - oobabooga/text-generation-webui-extensions](https://github.com/oobabooga/text-generation-webui-extensions) ⭐ 676
-
 ### Ludwig
 
 Ludwig is an open-source, [declarative machine learning framework](https://ludwig.ai/latest/user_guide/what_is_ludwig/#why-declarative-machine-learning-systems) that makes it easy to define deep learning pipelines with a simple and flexible data-driven configuration system. Ludwig is suitable for a wide variety of AI tasks, and is hosted by the [Linux Foundation AI & Data](https://lfaidata.foundation/).
@@ -210,9 +182,8 @@ Ludwig enables you to apply state-of-the-art tabular, natural language processin
 
 ## Resources
 
-**[LLM Visualization](https://bbycroft.net/llm)**
-
-[Development with Large Language Models Tutorial - OpenAI, Langchain, Agents, Chroma - YouTube](https://www.youtube.com/watch?v=xZDB1naRUlk&t=1032s)
+- **[LLM Visualization](https://bbycroft.net/llm)**
+- [Development with Large Language Models Tutorial - OpenAI, Langchain, Agents, Chroma - YouTube](https://www.youtube.com/watch?v=xZDB1naRUlk&t=1032s)
 
 ![document-based-question-answering-system](../../media/Screenshot%202023-12-28%20at%208.00.43.PM.jpg)
 

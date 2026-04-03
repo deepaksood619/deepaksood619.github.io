@@ -8,6 +8,9 @@
 - Each partition contains an ordered set of messages
 - Each message is identified by its offset in the partition
 - Messages are added at one end of the partition and consumed at the other
+- **Kafka topic names are case sensitive**.
+	- `Orders`, `orders`, and `ORDERS` are treated as **three different topics**.
+	- The same applies to consumer groups and other named resources.
 
 ## Kafka Topics Explained: How Events Are Organized
 

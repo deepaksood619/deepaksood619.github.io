@@ -187,7 +187,7 @@ https://www.google.com/inputtools
 
 [Logging in Outlook Account on Chrome Profile - Google Chrome Community](https://support.google.com/chrome/thread/153714697/logging-in-outlook-account-on-chrome-profile?hl=en)
 
-#### Chrome Extensions
+#### Chrome Extensions / Chrome Web Store
 
 - [Remove YouTube Shorts - Chrome Web Store](https://chromewebstore.google.com/detail/remove-youtube-shorts/mgngbgbhliflggkamjnpdmegbkidiapm?hl=en)
 - darkreader
@@ -198,6 +198,9 @@ https://www.google.com/inputtools
 - Keepa - Amazon Price Tracker
 - LINER: ChatGPT Google Assistant
 - MarkDownload - Markdown Web Clipper
+	- [WebInk: Intelligent Web to Markdown Converter - Chrome Web Store](https://chromewebstore.google.com/detail/webink-intelligent-web-to/lhifbnmampdmdadbhpeeoikkljhiaohn)
+	- [MarkdownIt - Markdown Web Clipper - Chrome Web Store](https://chromewebstore.google.com/detail/markdownit-markdown-web-c/iofmjgmjclmdokphppphfhnnjbcddaom)
+	- [Web2Markdown - Markdown Web Clipper - Chrome Web Store](https://chromewebstore.google.com/detail/web2markdown-markdown-web/olnlijgcdflbdkcmhomlnldhcobopeeh)
 - Moesif Origin & CORS Changer
 - **SpeedUp: Netflix, Prime videos**
 - YouTube NonStop
@@ -385,6 +388,26 @@ Unchecking the "**Play user interface sound effects**" doesn't disable all sound
    https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL
 
  add plugin to plugins in zshrc
+
+- AI Auto completion
+	- [GitHub - tom-doerr/zsh\_codex: This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line. · GitHub](https://github.com/tom-doerr/zsh_codex)
+
+```ini title="~/.config/zsh_codex.ini"
+[service]
+service = gemini_service
+
+[gemini_service]
+api_type = gemeni
+api_key = <api_key>
+model = gemini-2.5-flash
+```
+
+- Alternatives
+	- [GitHub - ekkinox/yai: Your AI powered terminal assistant. · GitHub](https://github.com/ekkinox/yai)
+	- [GitHub - dh1011/llm-term: A Rust-based CLI tool that generates and executes terminal commands using OpenAI's language models. · GitHub](https://github.com/dh1011/llm-term)
+	- [GitHub - AnswerDotAI/shell\_sage: ShellSage saves sysadmins’ sanity by solving shell script snafus super swiftly · GitHub](https://github.com/AnswerDotAI/shell_sage)
+	- [GitHub - kylesnowschwartz/zsh-ai-cmd: Zsh plugin: natural language to shell commands with AI · GitHub](https://github.com/kylesnowschwartz/zsh-ai-cmd)
+	- [GitHub - theNetworkChuck/ai-in-the-terminal: Complete companion guide for NetworkChuck's 'AI in the Terminal' video - Gemini CLI, Claude Code, Codex, and opencode workflows · GitHub](https://github.com/theNetworkChuck/ai-in-the-terminal)
 
 #### Settings
 

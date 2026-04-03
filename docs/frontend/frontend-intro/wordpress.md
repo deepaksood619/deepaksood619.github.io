@@ -338,6 +338,7 @@ While there are different ways to add Google Analytics your WordPress site, here
 
 - [Model Context Protocol (MCP) Integration \| WooCommerce developer docs](https://developer.woocommerce.com/docs/features/mcp/)
 - [GitHub - woocommerce/wc-mcp-ability: WooCommerce MCP and Ability Integration Demo Plugin · GitHub](https://github.com/woocommerce/wc-mcp-ability)
+- [GitHub - Automattic/mcp-wordpress-remote · GitHub](https://github.com/Automattic/mcp-wordpress-remote)
 	- **woocommerce-products-list -** Retrieve a paginated list of products with optional filters for status, category, price range, and other attributes.
 	- **woocommerce-products-get -** Retrieve detailed information about a single product by ID, including price, description, images, and metadata.
 	- **woocommerce-products-create -** Create a new product in WooCommerce with name, price, description, and other product attributes.
@@ -348,6 +349,7 @@ While there are different ways to add Google Analytics your WordPress site, here
 	- **woocommerce-orders-create -** Create a new order with customer information, line items, shipping details, and payment information.
 	- **woocommerce-orders-update -** Update an existing order by modifying status, customer information, line items, or other order details.
 - [GitHub - WordPress/mcp-adapter: An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically. · GitHub](https://github.com/wordpress/mcp-adapter)
+- [GitHub - techspawn/woocommerce-mcp-server: A WooCommerce (MCP) Model Context Protocol server · GitHub](https://github.com/techspawn/woocommerce-mcp-server)
 
 ## Others
 

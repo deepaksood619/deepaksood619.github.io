@@ -26,6 +26,11 @@ sudo apt-get update
 
 # installation
 sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+
+sudo usermod -aG docker $USER
+# log out of terminal and log back in
+
+docker run hello-world
 ```
 
 ```bash
@@ -36,6 +41,9 @@ sudo usermod -aG docker ubuntu
 # log out of terminal and log back in
 sudo systemctl start docker
 docker run hello-world
+
+echo "alias d='docker'" >> ~/.bashrc && source ~/.bashrc
+echo "alias dc='docker compose'" >> ~/.bashrc && source ~/.bashrc
 ```
 
 [Ubuntu | Docker Docs](https://docs.docker.com/engine/install/ubuntu/)

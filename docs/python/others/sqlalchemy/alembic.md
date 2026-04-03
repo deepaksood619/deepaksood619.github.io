@@ -34,6 +34,7 @@ alembic init alembic
 ```
 
 This creates:
+
 - `alembic/` directory with migration scripts
 - `alembic.ini` configuration file
 
