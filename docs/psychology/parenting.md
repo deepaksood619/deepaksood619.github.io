@@ -387,3 +387,8 @@ Why kicking out children after 18 years is important, let's say you are very wea
 - [5 Tiny Habits That Supercharge Your Child's Brain Development | Dr. Arif...](https://youtu.be/WJsiBOuXQvA)
 - [6 One-Minute Habits That Supercharge Your Baby's Brain (Science-Backed) - YouTube](https://youtu.be/EWJCUiDEPaY)
 - [Throwing \| BabyCentre](https://www.babycentre.co.uk/a1040569/throwing)
+- [7 Critical Windows You're Missing Before Your Baby Turns 1](https://youtu.be/V0FiSXyo5Js)[](https://youtube.com/shorts/NQA5zYxKPZI?si=usJTUocD97fip2tu)
+- [Spelling Help | How Parents Can Help Teach Struggling Spellers | The Goo...](https://youtu.be/UL7j4UT8lGw)
+- [I Ranked The Best and Worst Cartoons for Your Child’s Brain | Dr. Arif Khan](https://youtu.be/SqH_NWkJ7k0)
+- [The 3-Step System Behind Babies Who Hit Every Milestone](https://youtu.be/LAenyr7WT-U?si=g_gTlN_vLlsrV1MX)
+- [The 15-Min Scandi Rule for 1½ Hours More Sleep](https://youtu.be/0hmn4n3-rd4)

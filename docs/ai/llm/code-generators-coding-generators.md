@@ -1,5 +1,7 @@
 # Code Generators / Coding Generators
 
+- [claude-code](ai/llm/claude-code.md)
+
 ## Gemini Code Assist (GCA) / Gemini CLI
 
 - `/mcp`
@@ -7,7 +9,7 @@
 
 - CodeMod - 6-7 Million Lines of Code as context
 - [GitHub - pauldatta/build-adk-agent: Use Gemini CLI or Code Assist Agent Mode to generate working ADK Agents](https://github.com/pauldatta/build-adk-agent) ⭐ 4
-- Modernization - [GitHub - codemod-com/codemod: The command line tool for building, sharing, and running codemods. From quick cleanups to complex migrations. AI-friendly, and language-agnostic.](https://github.com/codemod-com/codemod) ⭐ 968
+- Modernization - [GitHub - codemod-com/codemod: The command line tool for building, sharing, and running codemods. From quick cleanups to complex migrations. AI-friendly, and language-agnostic.](https://github.com/codemod-com/codemod) ⭐ 972
 	- 6-7 Million Lines of Code as context
 
 ## Github Copilot
@@ -95,190 +97,6 @@ You can also ask me questions about your editor selection by starting an inline 
 
 [Claude Opus 4.5 vs Gemini 3, Nano Banana Pro and Google Antigravity IDE: Nov 2025 Mega Review](https://www.thetoolnerd.com/p/claude-opus-45-vs-gemini-3-nano-banana-anti-gravity)
 
-## Claude Code
-
-[Claude Code: Deep Coding at Terminal Velocity \\ Anthropic](https://www.anthropic.com/claude-code)
-
-- [I Tested Claude Code for a Week - Here's What I Found](https://www.thetoolnerd.com/p/i-tested-claude-code-for-a-week)
-- [GitHub - thedotmack/claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.](https://github.com/thedotmack/claude-mem) ⭐ 41k
-- [ccusage](https://ccusage.com/)
-- [I Spent 2000 Hours Coding With LLMs in 2025. Here are my Favorite Claude Code Usage Patterns : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1q3t579/comment/nxndpgn/)
-	- [Advanced Claude Code Patterns That Move the Needle - Google Docs](https://docs.google.com/document/d/1agzmSskXcdMgJz_cf1KlWdy1kfY3n_XEhHrLU_ESTRk/edit?usp=sharing)
-- [Code Review for Claude Code \| Claude](https://claude.com/blog/code-review)
-- [Using Claude Code Remote Control - YouTube](https://www.youtube.com/watch?v=Ko7_tC1fMMM)
-	- `claude remote-control`
-	- Only available with `claude login` and not with VertexAI
-- [Auto mode for Claude Code \| Claude](https://claude.com/blog/auto-mode)
-	- Auto mode provides a safer long-running alternative to --dangerously-skip-permissions.
-- [Claude Code on Google Vertex AI - Claude Code Docs](https://code.claude.com/docs/en/google-vertex-ai)
-
-### Commands
-
-```bash
-brew install --cask claude-code
-
-claude
-claude --login
-claude --think
-# Print Mode: Runs a one-off task (e.g., "fix tests") and exits.
-claude -p "query"
-```
-
-- **/compact**: Manually shrinks the conversation history to save tokens while preserving key context.
-- **/init**: Initializes a `CLAUDE.md` file in your project to store local coding standards and instructions.
-	- [Writing a good CLAUDE.md \| HumanLayer Blog](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
-- **/model**: Quickly switch between models (e.g., switching to `haiku` for fast tasks or `opus` for complex logic).
-- **/review**: Triggers a code review of your current changes or a specific file.
-- **/rewind**: (Double-tap `Esc` or type `/rewind`) Opens a menu to undo recent code changes or revert the conversation.
-- **/mcp**: Manages Model Context Protocol servers (connecting Claude to tools like Jira, Slack, or databases).
-- **/clear:** This wipes the old context
-- **/powerup:** interactive lessons teaching Claude Code features with animated demos
-
-### Monitoring
-
-- **/cost:** It will display a breakdown of **Input Tokens**, **Output Tokens**, and **Cache Hits/Misses**, along with a total USD estimate for the current session.
-- **/stats**: Displays your current token usage and rate limit status.
-
-[GitHub - Maciek-roboblog/Claude-Code-Usage-Monitor: Real-time Claude Code usage monitor with predictions and warnings · GitHub](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) ⭐ 7.2k
-
-```bash
-# Install directly from PyPI with uv (easiest)
-uv tool install claude-monitor
-
-# Run from anywhere
-claude-monitor  # or cmonitor, ccmonitor for short
-```
-
-[GitHub - hoangsonww/Claude-Code-Agent-Monitor: A real-time monitoring dashboard for Claude Code agents, built with Node.js, Express, React, and WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchestration through Claude Code hooks, providing live analytics, a Kanban status board, status notifications, and an interactive web interface. · GitHub](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) ⭐ 27
-
-Conversations - `~/.claude/projects/`
-
-[GitHub - d-kimuson/claude-code-viewer: A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects · GitHub](https://github.com/d-kimuson/claude-code-viewer) ⭐ 1.0k
-
-```bash
-npm install -g @kimuson/claude-code-viewer
-claude-code-viewer --port 3400
-```
-
-### GSD
-
-#### GSD 2.0
-
-The original GSD was a collection of markdown prompts installed into `~/.claude/commands/`. It relied entirely on the LLM reading those prompts and doing the right thing. That worked surprisingly well — but it had hard limits:
-
-- **No context control.** The LLM accumulated garbage over a long session. Quality degraded.
-- **No real automation.** "Auto mode" was the LLM calling itself in a loop, burning context on orchestration overhead.
-- **No crash recovery.** If the session died mid-task, you started over.
-- **No observability.** No cost tracking, no progress dashboard, no stuck detection.
-
-GSD v2 solves all of these because it's not a prompt framework anymore — it's a TypeScript application that _controls_ the agent session.
-
-```bash
-npm install -g gsd-pi@latest
-
-# From within the project directory
-/gsd migrate
-
-# Or specify a path
-/gsd migrate ~/projects/my-old-project
-
-/gsd auto
-
-`/gsd` and `/gsd next` # — Step Mode
-```
-
-[GitHub - gsd-build/gsd-2: A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture · GitHub](https://github.com/gsd-build/gsd-2) ⭐ 3.4k
-
-[GSD - Get Shit Done \| AI Coding Framework](https://gsd.build/)
-
-#### GSD 1.0
-
-[GitHub - gsd-build/get-shit-done: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. · GitHub](https://github.com/gsd-build/get-shit-done) ⭐ 43k
-
-```bash
-# start claude
-claude --dangerously-skip-permissions
-claude --enable-auto-mode
-
-/gsd:update
-/gsd:autonomous
-/gsd:new-project
-/gsd:discuss-phase 1
-/gsd:plan-phase 1
-/gsd:execute-phase 1
-/gsd:verify-work 1
-/gsd:resume-work
-
-/gsd:do
-/gsd:quick
-/gsd:fast
-
-/gsd:new-milestone
-
-/gsd:stats
-/gsd:progress
-/gsd:settings
-
-/gsd:settings workflow.skip_discuss false
-/gsd:autonomous
-
-# see all workflows of GSD
-ls ~/.claude/get-shit-done/workflows/
-```
-
-```json title="~/.gsd/defaults.json"
-{
-  "mode": "yolo",
-  "granularity": "coarse",
-  "model_profile": "balanced",
-  "commit_docs": true,
-  "parallelization": true,
-  "git": {
-    "branching_strategy": "none",
-    "quick_branch_template": null
-  },
-  "workflow": {
-    "research": false,
-    "plan_check": false,
-    "verifier": false,
-    "auto_advance": true,
-    "nyquist_validation": false,
-    "ui_phase": false,
-    "ui_safety_gate": false,
-    "research_before_questions": true,
-    "skip_discuss": true
-  },
-  "hooks": {
-    "context_warnings": false
-  }
-}
-```
-
-[Agent System Overview - Get Shit Done](https://www.mintlify.com/gsd-build/get-shit-done/agents/overview)
-
-### Others / Agents / Skills
-
-- [GitHub - affaan-m/everything-claude-code: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. · GitHub](https://github.com/affaan-m/everything-claude-code) ⭐ 114k
-	- [ECC Tools - Open Agent Harness System for GitHub App Automation and Security](https://ecc.tools/)
-- [GitHub - garrytan/gstack: Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA · GitHub](https://github.com/garrytan/gstack) ⭐ 54k
-- [GitHub - obra/superpowers: An agentic skills framework & software development methodology that works. · GitHub](https://github.com/obra/superpowers) ⭐ 121k
-- [GitHub - bytedance/deer-flow: An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. · GitHub](https://github.com/bytedance/deer-flow) ⭐ 51k
-- [GitHub - openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 · GitHub](https://github.com/openclaw/openclaw) ⭐ 339k
-	- [The OpenClaw Effect: Why Every AI Company is Racing to Your Desktop](https://www.thetoolnerd.com/p/the-openclaw-effect-why-every-ai)
-- [GitHub - msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. · GitHub](https://github.com/msitarzewski/agency-agents) ⭐ 65k
-- [GitHub - FujiwaraChoki/MoneyPrinterV2: Automate the process of making money online. · GitHub](https://github.com/FujiwaraChoki/MoneyPrinterV2) ⭐ 27k
-- Documentations
-	- [Use docs programmatically - Docs by LangChain](https://docs.langchain.com/use-these-docs)
-	- [GitHub - langchain-ai/langchain-skills · GitHub](https://github.com/langchain-ai/langchain-skills)
-		- `npx skills add langchain-ai/langchain-skills --skill '*' --yes --global`
-- [Superpowers VS. GSD VS. Others.](https://www.reddit.com/r/ClaudeCode/comments/1qlsdjb/superpowers_vs_gsd_vs_others/)
-
-### Codebase
-
-- [GitHub - yasasbanukaofficial/claude-code: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. · GitHub](https://github.com/yasasbanukaofficial/claude-code) ⭐ 407
-- [GitHub - codeaashu/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. · GitHub](https://github.com/codeaashu/claude-code) ⭐ 746
-- [Reddit - Claude Code Source Leak Megathread](https://www.reddit.com/r/ClaudeAI/comments/1s9d9j9/claude_code_source_leak_megathread/)
-
 ## ChatDev 2.0
 
 ChatDev has evolved from a specialized software development multi-agent system into a comprehensive multi-agent orchestration platform.
@@ -303,7 +121,7 @@ ChatDev has evolved from a specialized software development multi-agent system i
 			- gemini
 	- Old - [Introducing Duet AI for Google Cloud – an AI-powered collaborator \| Google Cloud Blog](https://cloud.google.com/blog/products/application-modernization/introducing-duet-ai-for-google-cloud)
 - [Galileo AI · Copilot for interface design](https://www.usegalileo.ai/)
-- [GitHub - openai/codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex) ⭐ 68k
+- [GitHub - openai/codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex) ⭐ 73k
 	- [GitHub - Yeachan-Heo/oh-my-codex: OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. · GitHub](https://github.com/Yeachan-Heo/oh-my-codex) ⭐ 9.3k
 	- **[GitHub - ultraworkers/claw-code: The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex. · GitHub](https://github.com/ultraworkers/claw-code) ⭐ 131k**
 - [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli) ⭐ 100k
@@ -313,7 +131,7 @@ ChatDev has evolved from a specialized software development multi-agent system i
 - [Kiro: The AI IDE for prototype to production](https://kiro.dev/)
 	- [Kiro - The New Agentic AI IDE from AWS - DEV Community](https://dev.to/aws-builders/kiro-the-new-agentic-ai-ide-from-aws-5311)
 	- [Kiro Documentation](https://aws.amazon.com/documentation-overview/kiro/)
-	- [GitHub - kirodotdev/Kiro: Kiro is an agentic IDE that works alongside you from prototype to production.](https://github.com/kirodotdev/Kiro) ⭐ 3.3k
+	- [GitHub - kirodotdev/Kiro: Kiro is an agentic IDE that works alongside you from prototype to production.](https://github.com/kirodotdev/Kiro) ⭐ 3.4k
 	- [👻 Kiro Agentic AI IDE: Beyond a Coding Assistant - Full Stack Software Development with Spec Driven AI \| AWS re:Post](https://repost.aws/articles/AROjWKtr5RTjy6T2HbFJD_Mw/%F0%9F%91%BB-kiro-agentic-ai-ide-beyond-a-coding-assistant-full-stack-software-development-with-spec-driven-ai)
 - [Codex \| OpenAI](https://openai.com/codex/)
 - [GitHub - QwenLM/Qwen3-Coder: Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.](https://github.com/QwenLM/Qwen3-Coder) ⭐ 16k
@@ -324,8 +142,8 @@ ChatDev has evolved from a specialized software development multi-agent system i
 	- [Compare Qwen 3 Coder vs. Sonnet 4 for Code Generation](https://blog.dailydoseofds.com/p/compare-qwen-3-coder-vs-sonnet-4)
 - [GitHub Spark: AI Tool That Builds & Deploys Full-Stack Apps in Minutes - YouTube](https://youtube.com/shorts/Ohi30MUcqsQ?si=EMWFPG02lpuTJ2Bo)
 - [Introducing Strands Agents, an Open Source AI Agents SDK \| AWS Open Source Blog](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/)
-- Modernization - [GitHub - codemod-com/codemod: The command line tool for building, sharing, and running codemods. From quick cleanups to complex migrations. AI-friendly, and language-agnostic.](https://github.com/codemod-com/codemod) ⭐ 968
-	- [GitHub - codemod-com/codemod: The command line tool for building, sharing, and running codemods. From quick cleanups to complex migrations. AI-friendly, and language-agnostic.](https://github.com/codemod-com/codemod) ⭐ 968
+- Modernization - [GitHub - codemod-com/codemod: The command line tool for building, sharing, and running codemods. From quick cleanups to complex migrations. AI-friendly, and language-agnostic.](https://github.com/codemod-com/codemod) ⭐ 972
+	- [GitHub - codemod-com/codemod: The command line tool for building, sharing, and running codemods. From quick cleanups to complex migrations. AI-friendly, and language-agnostic.](https://github.com/codemod-com/codemod) ⭐ 972
 - [Vibecode - AI Mobile App Builder](https://www.vibecodeapp.com/)
 - [GitHub - HKUDS/DeepCode: "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"](https://github.com/HKUDS/DeepCode) ⭐ 15k
 - [Genspark AI - The All-in-One Super Agent AI Workspace That Does Everything](https://www.genspark.im/)

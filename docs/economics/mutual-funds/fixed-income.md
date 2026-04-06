@@ -41,6 +41,7 @@ After 15 years
 
 - [Is Investing Rs. 1.5 Lakhs in PPF Before April 5th a Wise Choice?](https://freefincal.com/is-investing-rs-1-5-lakhs-in-ppf-before-april-5th-a-wise-choice/)
 - [Is Investing Rs. 1.5 Lakhs in PPF Before April 5th Still Sensible?](https://freefincal.com/is-investing-rs-1-5-lakhs-in-ppf-before-april-5th-still-sensible/)
+- [Should I invest Rs. 1.5 Lakhs in PPF before 5th April even with the new tax regime?](https://freefincal.com/should-i-invest-rs-1-5-lakhs-in-ppf-before-5th-april-even-with-the-new-tax-regime/)
 - [Ep5 -Public Provident Fund 8 Features | Good alternative to EPF?| Investing in Govt Schemes in Hindi - YouTube](https://www.youtube.com/watch?v=2vPquiS3wqE)
 - [National Pension System \| NPS vs PPF vs MFs \| Ultimate Guide - YouTube](https://youtu.be/jSF9kdYjiYY)
 - [How to use PPF as a portfolio de-risking tool](https://freefincal.com/how-to-use-ppf-as-a-portfolio-de-risking-tool/)

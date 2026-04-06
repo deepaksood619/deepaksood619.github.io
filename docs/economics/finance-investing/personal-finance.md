@@ -146,3 +146,5 @@ Use money to buy peace. And, use your peace to make (fewer but) better strategic
 - [How a 41-Year-Old Single Woman Built 30% of Her Retirement Corpus with 50K Freelance Income](https://freefincal.com/how-a-41-year-old-single-woman-built-30-of-her-retirement-corpus-with-50k-freelance-income/)
 - [Why Your Financial Plan "Failed" (And Why You Still Need One)](https://freefincal.com/why-your-financial-plan-failed-and-why-you-still-need-one/)
 - [Why we should use a personal inflation rate while planning for retirement](https://freefincal.com/why-we-should-use-a-personal-inflation-rate-while-planning-for-retirement/)
+- [The Wealth Evolution Framework: A 4-Quadrant Guide to Investing](https://freefincal.com/the-wealth-evolution-framework-a-4-quadrant-guide-to-investing/)
+- [The Psychology of Chasing the Extra 2% Returns](https://freefincal.com/the-psychology-of-chasing-the-extra-2-returns/)

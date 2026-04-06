@@ -1182,4 +1182,6 @@ To be happy you must eliminate two things: the fear of a bad future and the memo
 
 **The Sword of Damocles** is an ancient Greek parable representing the imminent, constant peril faced by those in positions of power, wealth, or high responsibility. Originating from a story by Cicero, it symbolizes that great fortune is often accompanied by the looming threat of sudden disaster or anxiety.
 
+Arguing with stupid people is like trying to kill the mosquito on your cheek. You may or may not kill it, but you will slap yourself.
+
 ## End

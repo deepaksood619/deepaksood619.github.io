@@ -47,3 +47,5 @@ https://www.atlassian.com/blog/quiz/find-your-leadership-style-examples
 ## Others
 
 - Turnover CEO (They come to a failing company and turnover to make it great, and then leave)
+- [Why good leaders make you feel safe | Simon Sinek | TED](https://youtu.be/lmyZMtPVodo)
+- [How Great Leaders Inspire Action | Simon Sinek | TED](https://youtu.be/qp0HIF3SfI4)

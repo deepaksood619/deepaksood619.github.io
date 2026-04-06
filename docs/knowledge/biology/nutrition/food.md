@@ -395,6 +395,7 @@ It can become toxic and inedible quickly; when stored for more than 20 minutes, 
 - [These Farmers Are Earning ₹250+ Crore Every Year \| Story From a Rajasthan Village - YouTube](https://youtu.be/0ClJa5ICJpY)
 - [Auto sinchai system \| Timer valve \| सिंचाई का आसान तरीका #irrigation #irrigationsystem #dehaat - YouTube](https://www.youtube.com/watch?v=mxMCVWe2bDA&ab_channel=DeHaat)
 - [Supporting organic animal health - The Livestock Project](https://www.cfsph.iastate.edu/thelivestockproject/)
+- [Soilless Turmeric and Ginger Farming: 45 Tons Per Acre & ₹2 Crore Profit...](https://youtu.be/Zwy4Su9AgZU)
 
 ### Playlist
 

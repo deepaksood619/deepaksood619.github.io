@@ -120,3 +120,6 @@ WHERE event_details:account_id::int = 12345
 
 - [Iceberg in the Browser – DuckDB](https://duckdb.org/2025/12/16/iceberg-in-the-browser)
 - [Simulating Catalog and Table Conflicts - Chris Douglas](https://cdouglas.github.io/posts/2026/03/catalog)
+- [Iceberg + Tableflow: Confluent's Course on Apache Iceberg™ ft. Tim Berglund](https://youtube.com/playlist?list=PLf38f5LhQthcLN84xP6JgQ-pEbAc8SbSi&si=RcTS0x5s0MnNIbsF)
+- [Table Maintenance | Apache Iceberg + Tableflow](https://youtu.be/DrqhimHIs08?si=AfQt6Y76-XzkWhlG)
+- [Tableflow Overview: Turn Kafka Topics into Analytics-Ready Tables](https://youtu.be/fJAq7PhoodU)

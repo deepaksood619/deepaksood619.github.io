@@ -329,6 +329,12 @@
 - India - [Lastly - YouTube](https://www.youtube.com/@lastlyy)
 - [Cogito - YouTube](https://www.youtube.com/@cogitoedu)
 
+### Entertainment
+
+- [Just For Laughs Gags - YouTube](https://www.youtube.com/@gags)
+- [Cleanwithbea - YouTube](https://www.youtube.com/@cleanwithbea)
+- [Bon Appétit - YouTube](https://www.youtube.com/@bonappetit)
+
 ### Others
 
 - RM Transit

@@ -110,6 +110,7 @@ https://docs.google.com/spreadsheets/d/1zl7adSoCYuWpuBnRPbkkhwT2RZ5hk3lUO4ud0NE7
 - [The Not So Polite Truth Behind Canada's Collapsing Economy - YouTube](https://www.youtube.com/watch?v=XomvuLPiTWM)
 	- [Will Canada Become America's 51st State?](https://youtu.be/Jox5DcBI2Hc)
 - [Demographics of the United States - Wikipedia](https://en.wikipedia.org/wiki/Demographics_of_the_United_States)
+- [How AMERICA Turned WAR Into a TRILLION-DOLLAR Business](https://youtu.be/HN8Aaq864Mk) - American hypocrisy
 
 ## South America
 

@@ -12,8 +12,8 @@
 - [Recommendations for Open Source AI Chat UI?](https://www.reddit.com/r/react/comments/1q6745g/recommendations_for_open_source_ai_chat_ui/)
 	- BotUI – lightweight, vanilla JS, easy to embed, good for simple sites
 	- Chat UI Kit (React) – polished, customizable, built for AI chat, works with LLM backends
-	- React Chat UI/Stream Chat UI – advanced React components, multi-conversation support. 
-	- Tails UI (Tailwind) – highly customizable for designers, needs manual setup. 
+	- React Chat UI/Stream Chat UI – advanced React components, multi-conversation support.
+	- Tails UI (Tailwind) – highly customizable for designers, needs manual setup.
 	- Chatwoot/CometChat UI Kits – good for multi-user or support chat setups
 	- **Choose based on your stack:** BotUI for plain JS, Chat UI Kit or React Chat UI for React, Tails UI for Tailwind-heavy custom design, and Stream/Chatwootmulti-user apps.
 - [GitHub - ag-ui-protocol/ag-ui: AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. · GitHub](https://github.com/ag-ui-protocol/ag-ui)

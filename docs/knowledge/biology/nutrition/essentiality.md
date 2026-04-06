@@ -71,3 +71,6 @@ By definition, [phytochemicals](https://en.wikipedia.org/wiki/Phytochemical) inc
 - **Egg protein:** Egg protein powders are made with pure egg white protein. They digest at a medium rate and are one of the most expensive protein supplements on the market.
 - **Soy protein:** Soy protein is one of the few plant proteins that contains all of the essential amino acids, making it a complete protein source for vegetarians.
 - **Rice and pea protein:** Rice and pea proteins do not contain all of the essential amino acids, but combining them makes them a complete protein. They are low-allergenic, making them appealing to those with egg, dairy or soy allergies.
+
+ Most people genuinely do not need **Whey Protein Isolate**. If whey concentrate suits your body, there is no reason to pay more for isolate. Isolate is simply more filtered, lower in lactose and calories, and because of that it is more expensive. Whey Isolate is specifically for people who may have a sensitive stomach or want lower calories in their protein shake. But if you can digest whey concentrate easily, or if 15 to 20 extra calories per scoop does not matter to you, you should save your money. I personally still consume whey concentrate.
+- [Post from Food Pharmer](https://www.youtube.com/post/UgkxJTn9G7nkEqByLLsFfFo5rSme557T2saO)

@@ -13,7 +13,7 @@
 	- [frontend-ui-frameworks-libraries](ai/llm/frontend-ui-frameworks-libraries.md)
 - [LLM Tuning](ai/llm/tuning.md)
 - [Benchmarking / Monitoring](ai/llm/benchmarking-monitoring.md)
-- [Evaluation](ai/llm/evaluation.md)
+	- [Evaluation](ai/llm/evaluation.md)
 - [Pricing / Costs](ai/llm/pricing-costs.md)
 - [Design Patterns](ai/llm/design-patterns.md)
 - [RAG Retrieval Augmented Generation](ai/llm/rag-retrieval-augmented-generation.md)
@@ -29,6 +29,7 @@
 - [Libraries](ai/llm/libraries.md)
 - [Tools](ai/llm/tools.md)
 - [Code Generators](ai/llm/code-generators-coding-generators.md)
+	- [claude-code](ai/llm/claude-code.md)
 - [LLM FinTech Use Cases](ai/llm/fintech-use-cases.md)
 - [Ethics](ai/llm/ethics.md)
 

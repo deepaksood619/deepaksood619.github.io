@@ -49,6 +49,12 @@
 - [10 Deep Lessons From The Book "Brave New Words: How AI Will Revolutionize Education" - YouTube](https://youtu.be/RjCUHCU4PY8)
 - [The real secret to lasting success: THE SLIGHT EDGE by Jeff Olson \| Core Animation - YouTube](https://youtu.be/dQH5WogQ8og)
 - [Be wealthy without getting lucky: THE ALMANACK OF NAVAL RAVIKANT by Eric Jorgenson - YouTube](https://youtu.be/r8K3ya8dwt8)
+- [SPEED READING by Kam Knight | Core Message](https://youtu.be/JA6CRfK89yQ)
+- [Get Things Done Using The 77% Rule](https://youtu.be/P_0vsN678y4)
+- [Make people feel heard (build better relationships): HOW TO LISTEN WITH ...](https://youtu.be/1UMUwgYqYP0?si=dBDKnLru-sycJZ5h)
+- [Measure What Matters by John Doerr Summary: The System Google Used to Gr...](https://youtu.be/Ld0foE_BPhM)
+- [Ask a better question: Who Not How by Dan Sullivan & Dr. Benjamin Hardy ...](https://youtu.be/vzFxoJJeXrs?si=eBdhJ7K0cUcEt3FU)
+- [MULTIPLIERS by Liz Wiseman | Core Message](https://youtu.be/qHhuFOF70CY)
 
 ### [Learn to lead: THE 21 IRREFUTABLE LAWS OF LEADERSHIP by John Maxwell | Core Message - YouTube](https://www.youtube.com/watch?v=QQhdiktL99w)
 

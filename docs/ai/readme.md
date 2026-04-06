@@ -81,3 +81,7 @@ An "intelligence explosion" refers to a hypothetical scenario where a self-impro
 - [More! More! More! Tech Workers Max Out Their A.I. Use. - The New York Times](https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html?unlocked_article_code=1.VVA.TIf-.w7a_lOli_XYv&amp;smid=url-share)
 - [State of the product job market in early 2026](https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-ee9)
 - Jevons paradox, but for software: **The cheaper it gets to generate code, the more code we produce.** And suddenly the bottleneck isn’t writing. it’s thinking: reviewing, designing, orchestrating, deciding what should exist.
+- [Will AI force code to evolve or make it extinct? - The New Stack](https://thenewstack.io/ai-programming-languages-future/)
+- [Fragments: April 2](https://martinfowler.com/fragments/2026-04-02.html)
+	- One the questions comes up when we think of LLMs-as-programmers is whether there is a future for source code. David Cassel on The New Stack has an article summarizing several views of the future of code. Some folks are experimenting with entirely new languages built with the LLM in mind, others think that existing languages, especially strictly typed languages like TypeScript and Rust will be the best fit for LLMs.
+- [Writing Doom – Award-Winning Short Film on Superintelligence (2024)](https://youtu.be/xfMQ7hzyFW4)

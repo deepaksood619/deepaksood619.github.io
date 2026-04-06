@@ -66,6 +66,10 @@ git push -u origin master
 git remote set-url origin git@gitlab.com:example-datascience/decision-engine.git (change remote repository origin)
 git remote rm destination
 git push -u origin --all (for pushing old repo to new place)
+
+git remote add origin https://username:github_pat_12345@github.com/deepaksood619/repo.git
+# - Read access to metadata (Metadata)
+# - Read and Write access to code (Contents)
 ```
 
 ## Git Config

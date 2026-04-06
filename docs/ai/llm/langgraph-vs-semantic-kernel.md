@@ -30,13 +30,13 @@ Developed by Microsoft, Semantic Kernel (SK) feels like a professional SDK. It i
 
 ## When to Choose Which?
 
-### Go with LangGraph if:
+### Go with LangGraph if
 
 - **You are a Python-first developer or data scientist.** The ecosystem is much larger in the AI research space.
 - **You need custom Agentic behavior.** If you want to define exactly how an agent loops, reflects on its work, and updates its memory, LangGraph is the gold standard.
 - **You want flexibility.** LangChain’s integration list is unrivaled; if a new vector database or API exists, LangChain usually has a wrapper for it within 48 hours.
 
-### Go with Semantic Kernel if:
+### Go with Semantic Kernel if
 
 - **You are building in a .NET environment.** It is the undisputed king for C# developers.
 - **You want "Copilot-like" features.** Since SK powers much of Microsoft’s own Copilots, it’s optimized for that specific "user asks, AI performs tasks" workflow.
@@ -44,5 +44,5 @@ Developed by Microsoft, Semantic Kernel (SK) feels like a professional SDK. It i
 
 ## The "Mental Model" Shift
 
-- **In LangGraph,** you are an **architect** drawing a blueprint. You define Node A, Node B, and the "edges" (paths) between them. You decide exactly when the agent should stop or loop.    
+- **In LangGraph,** you are an **architect** drawing a blueprint. You define Node A, Node B, and the "edges" (paths) between them. You decide exactly when the agent should stop or loop.
 - **In Semantic Kernel,** you are a **manager**. You give the "Kernel" a toolbox (Plugins) and a goal. The Planner looks at the tools and decides the path for you.
