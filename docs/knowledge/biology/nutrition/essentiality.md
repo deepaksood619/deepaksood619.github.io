@@ -14,31 +14,65 @@ Essential fatty acids (EFAs) are [fatty acids](https://en.wikipedia.org/wiki/Fat
 
 [Most Important Science & Technology Topics for UPSC Preparation \| Conquer Prelims 2025 \| Hima Bindu - YouTube](https://www.youtube.com/watch?v=WBHre_7SF1Y&ab_channel=UnacademyIAS%3AEnglish)
 
-## Vitamins
+## Vitamins (Total - 13)
 
 Vitamins are organic molecules essential for an organism that are not classified as [amino acids](https://en.wikipedia.org/wiki/Amino_acid) or [fatty acids](https://en.wikipedia.org/wiki/Fatty_acid). They commonly function as [enzymatic cofactors](https://en.wikipedia.org/wiki/Enzymatic_cofactor), metabolic regulators or [antioxidants](https://en.wikipedia.org/wiki/Antioxidant). Humans require **thirteen vitamins** in their diet.
 
-## Vitamins (Total - 13)
-
 1. Water Soluble - B's and C
-
 2. Fat Soluble - A, D, E, K (ADEK)
 
-Vitamin A
+### 1. Fat-Soluble Vitamins (A, D, E, K)
 
-Vitamin B (total - 8) - B1 (thiamine), B2 (riboflavin), B3 (niacin), B5 (pantothenic acid), B6 (pyridoxine), B7 (biotin), B9 (folate), B12 (cobalamin)
+These vitamins are absorbed along with fats in the diet and are stored in the body's fatty tissue and liver. Because they are stored, taking them in excess can lead to toxicity (hypervitaminosis).
 
-Vitamin C
+| **Vitamin** | **Scientific Name** | **Primary Function**                                  | **Food Sources**                           |
+| ----------- | ------------------- | ----------------------------------------------------- | ------------------------------------------ |
+| **A**       | Retinol             | Vision (night vision), immune function, skin health.  | Carrots, sweet potatoes, liver, spinach.   |
+| **D**       | Calciferol          | Calcium absorption, bone health, immune regulation.   | Sunlight, fatty fish, fortified milk.      |
+| **E**       | Tocopherol          | Powerful antioxidant; protects cells from damage.     | Nuts, seeds, vegetable oils, avocado.      |
+| **K**       | Phylloquinone       | Essential for **blood clotting** and bone metabolism. | Kale, spinach, broccoli, Brussels sprouts. |
 
-Vitamin D
+#### Vitamin D
 
 - Keeps bones healthy by increasing the absorption of calcium in the intestines. Without vitamin D, your body would only be able to absorb about 10% to 15% of the calcium from your diet.
-
 - The requirement for vitamin D is conditional, as people who get sufficient exposure to ultraviolet light, either from the sun or an artificial source, synthesize vitamin D in the skin.
+- [The Vitamin D Deficiency Trap 90% Fall Into - YouTube](https://youtu.be/miLOcBvtL_Y)
+- [Why You Should Not Take 60,000 IU of Vitamin D (Every Week) - YouTube](https://www.youtube.com/watch?v=NAY3e78rcKs)
+	- Daily - 2000-5000 IU
+	- Magnesium
+	- Vitamin K2
+	- Vitamin A from Diet
 
-Vitamin E (includes [tocopherols](https://en.wikipedia.org/wiki/Tocopherol) and [tocotrienols](https://en.wikipedia.org/wiki/Tocotrienol))
+### 2. Water-Soluble Vitamins (C and B-Complex)
 
-Vitamin K
+These vitamins dissolve in water and are carried to the body's tissues but are **not stored** in the body. Any excess is typically excreted through urine, meaning they need to be replenished daily.
+
+#### Vitamin C
+
+- **Scientific Name:** Ascorbic Acid
+- **Function:** Collagen synthesis (wound healing), antioxidant, iron absorption.
+- **Sources:** Citrus fruits, strawberries, bell peppers, broccoli.
+
+#### The B-Complex Vitamins (8 Total)
+
+The B vitamins primarily act as **coenzymes**, helping the body convert food (carbohydrates, fats, proteins) into energy (ATP).
+
+| **Vitamin** | **Name**         | **Role**                                                |
+| ----------- | ---------------- | ------------------------------------------------------- |
+| **B1**      | Thiamine         | Energy metabolism and nerve function.                   |
+| **B2**      | Riboflavin       | Energy production and skin/eye health.                  |
+| **B3**      | Niacin           | Nervous system function and digestive health.           |
+| **B5**      | Pantothenic Acid | Synthesis of hormones and cholesterol.                  |
+| **B6**      | Pyridoxine       | Amino acid metabolism and red blood cell production.    |
+| **B7**      | Biotin           | Synthesis of fatty acids and glucose; hair/nail health. |
+| **B9**      | Folate           | DNA synthesis and cell division (crucial in pregnancy). |
+| **B12**     | Cobalamin        | Nerve tissue health and red blood cell formation.       |
+
+### Quick Memory Tricks
+
+- **The "Fat" Friends:** Just remember **ADEK**. They like to stay in the "fat" (body storage).
+- **Water Waste:** **B and C** are "water-cooler" buddies; they pass through the system quickly and need constant refills.
+- **B-Complex Order:** If you need to memorize the B names in order, try: **T**he **R**omantic **N**iacin **P**anted **P**yramids **B**efore **F**inding **C**ookies (Thiamine, Riboflavin, Niacin, Pantothenic Acid, Pyridoxine, Biotin, Folate, Cobalamin).
 
 ## Minerals
 
@@ -73,4 +107,5 @@ By definition, [phytochemicals](https://en.wikipedia.org/wiki/Phytochemical) inc
 - **Rice and pea protein:** Rice and pea proteins do not contain all of the essential amino acids, but combining them makes them a complete protein. They are low-allergenic, making them appealing to those with egg, dairy or soy allergies.
 
  Most people genuinely do not need **Whey Protein Isolate**. If whey concentrate suits your body, there is no reason to pay more for isolate. Isolate is simply more filtered, lower in lactose and calories, and because of that it is more expensive. Whey Isolate is specifically for people who may have a sensitive stomach or want lower calories in their protein shake. But if you can digest whey concentrate easily, or if 15 to 20 extra calories per scoop does not matter to you, you should save your money. I personally still consume whey concentrate.
+
 - [Post from Food Pharmer](https://www.youtube.com/post/UgkxJTn9G7nkEqByLLsFfFo5rSme557T2saO)

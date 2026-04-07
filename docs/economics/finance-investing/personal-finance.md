@@ -148,3 +148,4 @@ Use money to buy peace. And, use your peace to make (fewer but) better strategic
 - [Why we should use a personal inflation rate while planning for retirement](https://freefincal.com/why-we-should-use-a-personal-inflation-rate-while-planning-for-retirement/)
 - [The Wealth Evolution Framework: A 4-Quadrant Guide to Investing](https://freefincal.com/the-wealth-evolution-framework-a-4-quadrant-guide-to-investing/)
 - [The Psychology of Chasing the Extra 2% Returns](https://freefincal.com/the-psychology-of-chasing-the-extra-2-returns/)
+- [Financial planning tips for couples before tying the knot](https://freefincal.com/financial-planning-tips-for-couples-before-tying-the-knot/)

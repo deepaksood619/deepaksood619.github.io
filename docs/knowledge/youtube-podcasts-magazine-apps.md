@@ -331,6 +331,7 @@
 
 ### Entertainment
 
+- [MrBeast - YouTube](https://www.youtube.com/@MrBeast)
 - [Just For Laughs Gags - YouTube](https://www.youtube.com/@gags)
 - [Cleanwithbea - YouTube](https://www.youtube.com/@cleanwithbea)
 - [Bon Appétit - YouTube](https://www.youtube.com/@bonappetit)

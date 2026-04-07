@@ -148,7 +148,6 @@ It has two main components -
     - [Vitamin D](https://en.wikipedia.org/wiki/Vitamin_D)
         - [Ergocalciferol](https://en.wikipedia.org/wiki/Ergocalciferol)
         - [Cholecalciferol](https://en.wikipedia.org/wiki/Cholecalciferol)
-        - [The Vitamin D Deficiency Trap 90% Fall Into - YouTube](https://youtu.be/miLOcBvtL_Y)
     - [Vitamin E (tocopherol)](https://en.wikipedia.org/wiki/Vitamin_E)
     - [Vitamin K](https://en.wikipedia.org/wiki/Vitamin_K)
         - [Phylloquinone](https://en.wikipedia.org/wiki/Phylloquinone)

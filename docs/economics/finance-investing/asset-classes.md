@@ -49,13 +49,12 @@ Traditionally, investing in real estate requires capital ranging from a few lakh
 
 - Strata for investment in commercial property
 
-#### REIT (Real Estate Investment Trusts) / Real Estate Mutual Funds
+#### REIT (Real Estate Investment Trusts) / REITs / Real Estate Mutual Funds
 
-https://cleartax.in/s/reit-funds
-
-[What are REITs? 5 Steps to analyse and invest in REITs? REIT investing for beginners - YouTube](https://youtu.be/XhCeX98vY28?si=rI5kfNdiq2R9UgiW)
-
-[What’s the Difference Between REIT and InVit? - The 1% News](https://news.onepercentclub.io/invest/whats-the-difference-between-reit-and-invit/5719/)
+- https://cleartax.in/s/reit-funds
+- [What are REITs? 5 Steps to analyse and invest in REITs? REIT investing for beginners - YouTube](https://youtu.be/XhCeX98vY28?si=rI5kfNdiq2R9UgiW)
+- [What’s the Difference Between REIT and InVit? - The 1% News](https://news.onepercentclub.io/invest/whats-the-difference-between-reit-and-invit/5719/)
+- [Do REITs Deserve a Place in Your Portfolio?](https://freefincal.com/do-reits-deserve-a-place-in-your-portfolio/)
 
 ![Indian REITs Returns](../../media/Screenshot%202025-03-02%20at%2010.45.30%20PM.jpg)
 
