@@ -276,20 +276,6 @@ Most people overestimate what they can do in a day, but underestimate what they 
 
 People tend to overestimate what can be done in one year and to underestimate what can be done in five or ten years. -- JCR Licklider, co-creator of the internet
 
-**Law of serendipity -** Lady luck favours the one who tries
-
-https://www.dwarkeshpatel.com/p/annus-mirabilis
-
-Luck favors the prepared Mind -- Pasteur
-
-We cannot control our luck - good or bad - but we can control our effort and preparation.
-
-Luck smiles on us all from time to time. And when it does, the way to honor your good luck is to work hard and make the most of it.
-
-Being pleasant and having a good attitude is a simple way to become luckier.
-
-Opportunities come through people, and people are more likely to bring opportunities to people they like.
-
 It's hard to win if your attitude adds friction to every interpersonal experience.
 
 If others would think as hard as I did, then they would get similar results -- Newton

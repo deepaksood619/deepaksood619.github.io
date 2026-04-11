@@ -2,8 +2,10 @@
 
 [Claude Code: Deep Coding at Terminal Velocity \\ Anthropic](https://www.anthropic.com/claude-code)
 
+[GitHub - luongnv89/claude-howto: A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. · GitHub](https://github.com/luongnv89/claude-howto) ⭐ 25k
+
 - [I Tested Claude Code for a Week - Here's What I Found](https://www.thetoolnerd.com/p/i-tested-claude-code-for-a-week)
-- [GitHub - thedotmack/claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.](https://github.com/thedotmack/claude-mem) ⭐ 45k
+- [GitHub - thedotmack/claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.](https://github.com/thedotmack/claude-mem) ⭐ 48k
 - [ccusage](https://ccusage.com/)
 - [I Spent 2000 Hours Coding With LLMs in 2025. Here are my Favorite Claude Code Usage Patterns : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1q3t579/comment/nxndpgn/)
 	- [Advanced Claude Code Patterns That Move the Needle - Google Docs](https://docs.google.com/document/d/1agzmSskXcdMgJz_cf1KlWdy1kfY3n_XEhHrLU_ESTRk/edit?usp=sharing)
@@ -14,6 +16,10 @@
 - [Auto mode for Claude Code \| Claude](https://claude.com/blog/auto-mode)
 	- Auto mode provides a safer long-running alternative to --dangerously-skip-permissions.
 - [Claude Code on Google Vertex AI - Claude Code Docs](https://code.claude.com/docs/en/google-vertex-ai)
+- **IMP - [The 2-Minute Claude Code Upgrade You're Probably Missing: LSP - Karan Bansal](https://karanbansal.in/blog/claude-code-lsp/)**
+	- By default, Claude Code navigates your codebase with text search tools: Grep, Glob, and Read. It's the same as having a very fast developer with grep and find at a terminal. Smart pattern matching, but fundamentally just matching text. The core problem: grep treats code as text. But code is not text. It has structure, meaning, and relationships. When you ask "where is getUserById defined?", you want the one function definition, not the 50 places that call it plus the 12 comments that mention it. Grep can't tell the difference.
+	- **Solution:** LSP, the Language Server Protocol. It's not enabled by default in Claude. Enabling it gives Claude the same code intelligence your IDE has: go-to-definition, find references, type info, real-time error detection.
+	- **Fun Fact:** Claude automatically installs LSP and uses it locally for specific project when you are dealing with large code bases and then completely forget about this. You would want to make LSP a permanent feature that Claude has to use.
 
 ## Claude Code Features
 
@@ -111,7 +117,7 @@ npm install -g gsd-pi@latest
 
 ### GSD 1.0
 
-[GitHub - gsd-build/get-shit-done: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. · GitHub](https://github.com/gsd-build/get-shit-done) ⭐ 47k
+[GitHub - gsd-build/get-shit-done: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. · GitHub](https://github.com/gsd-build/get-shit-done) ⭐ 50k
 
 ```bash
 # start claude
@@ -187,14 +193,41 @@ ls ~/.claude/get-shit-done/workflows/
 - [GitHub - FujiwaraChoki/MoneyPrinterV2: Automate the process of making money online. · GitHub](https://github.com/FujiwaraChoki/MoneyPrinterV2) ⭐ 29k
 - Documentations
 	- [Use docs programmatically - Docs by LangChain](https://docs.langchain.com/use-these-docs)
-	- [GitHub - langchain-ai/langchain-skills · GitHub](https://github.com/langchain-ai/langchain-skills) ⭐ 492
+	- [GitHub - langchain-ai/langchain-skills · GitHub](https://github.com/langchain-ai/langchain-skills) ⭐ 552
 		- `npx skills add langchain-ai/langchain-skills --skill '*' --yes --global`
 - [Superpowers VS. GSD VS. Others.](https://www.reddit.com/r/ClaudeCode/comments/1qlsdjb/superpowers_vs_gsd_vs_others/)
-- [GitHub - nidhinjs/prompt-master: A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention · GitHub](https://github.com/nidhinjs/prompt-master)
+- [GitHub - nidhinjs/prompt-master: A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention · GitHub](https://github.com/nidhinjs/prompt-master) ⭐ 4.7k
+- [GitHub - NeoLabHQ/context-engineering-kit: Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others. · GitHub](https://github.com/NeoLabHQ/context-engineering-kit) ⭐ 772
+
+### Skills
+
+- ​[**Superpowers**](https://fff97757.click.kit-mail3.com/68uxrkzg9gb8h5e27ezsohp4k39wkf9hnlpoo/7qh7h8h9ln8g6paz/aHR0cHM6Ly9naXRodWIuY29tL29icmEvc3VwZXJwb3dlcnM=)**:** A structured dev workflow that forces Claude to brainstorm, plan, and test before writing any code. Useful when you want rigor over speed.
+- ​[**InsForge**](https://fff97757.click.kit-mail3.com/68uxrkzg9gb8h5e27ezsohp4k39wkf9hnlpoo/owhkhqhw9qnz67bv/aHR0cHM6Ly9naXRodWIuY29tL0luc0ZvcmdlL0luc0Zvcmdl)**:** Semantic backend layer that exposes auth, database, storage, and functions through one agent-friendly API. Think of it as a unified backend for agents.
+- ​[**Bright Data Skills**](https://fff97757.click.kit-mail3.com/68uxrkzg9gb8h5e27ezsohp4k39wkf9hnlpoo/z2hghnhe6l7gkdap/aHR0cHM6Ly9naXRodWIuY29tL2JyaWdodGRhdGEvc2tpbGxz)**:** Teaches Claude to orchestrate 60+ MCP tools for web scraping and structured data extraction. Handles the messy parts of live web access.
+- ​[**Context7**](https://fff97757.click.kit-mail3.com/68uxrkzg9gb8h5e27ezsohp4k39wkf9hnlpoo/p8heh9h46qdv29iq/aHR0cHM6Ly9naXRodWIuY29tL3Vwc3Rhc2gvY29udGV4dDc=)**:** MCP server that feeds live, version-specific library docs directly into Claude's context. No more hallucinated APIs from outdated training data.
+- ​[**Claude-Mem**](https://fff97757.click.kit-mail3.com/68uxrkzg9gb8h5e27ezsohp4k39wkf9hnlpoo/x0hph6he2qzgpwh5/aHR0cHM6Ly9naXRodWIuY29tL3RoZWRvdG1hY2svY2xhdWRlLW1lbQ==)**:** Persistent memory plugin that auto-captures sessions and reinjects relevant context into future ones. Solves the "Claude forgot everything" problem between sessions.
+- ​[**Everything Claude Code**](https://fff97757.click.kit-mail3.com/68uxrkzg9gb8h5e27ezsohp4k39wkf9hnlpoo/6qheh8hlr9wq5lfo/aHR0cHM6Ly9naXRodWIuY29tL2FmZmFhbi1tL2V2ZXJ5dGhpbmctY2xhdWRlLWNvZGU=)**:** Curated skills and rules collection with smart token-saving compaction at logical breakpoints. A good starting point if you're building your own `.claude/` setup.
+- ​[**Planning with Files**](https://fff97757.click.kit-mail3.com/68uxrkzg9gb8h5e27ezsohp4k39wkf9hnlpoo/kkhmh6hnwxe756tl/aHR0cHM6Ly9naXRodWIuY29tL090aG1hbkFkaS9wbGFubmluZy13aXRoLWZpbGVz)**:** Persistent markdown files for planning, progress tracking, and knowledge storage across sessions. Simple approach, surprisingly effective for multi-session projects.
+- ​[**Sentry Security Review**](https://fff97757.click.kit-mail3.com/68uxrkzg9gb8h5e27ezsohp4k39wkf9hnlpoo/58hvh7hgx60en7s6/aHR0cHM6Ly9naXRodWIuY29tL2dldHNlbnRyeS9za2lsbHM=)**:** Security review skill built on 15 years of real Sentry patches and Django ORM pitfalls. Catches the kind of bugs that only show up in production.
+- ​[**Frontend Design**](https://fff97757.click.kit-mail3.com/68uxrkzg9gb8h5e27ezsohp4k39wkf9hnlpoo/25h2hoh39mg58ns3/aHR0cHM6Ly9naXRodWIuY29tL2FudGhyb3BpY3MvY2xhdWRlLXF1aWNrc3RhcnRz)**:** Official Anthropic skill for distinctive, non-generic UI output with bold design choices. Ships with Claude Code and pushes past the default "looks like every other AI-generated UI" problem.
+- ​[**Web Quality Skills**](https://fff97757.click.kit-mail3.com/68uxrkzg9gb8h5e27ezsohp4k39wkf9hnlpoo/qvh8h7hdwkvx4eil/aHR0cHM6Ly9naXRodWIuY29tL2FkZHlvc21hbmkvd2ViLXF1YWxpdHktc2tpbGxz)**:** Lighthouse and Core Web Vitals optimization for performance, accessibility, and SEO. Bakes web quality checks directly into the agent loop.
+- ​[**n8n-MCP**](https://fff97757.click.kit-mail3.com/68uxrkzg9gb8h5e27ezsohp4k39wkf9hnlpoo/g3hnh5hm9qnvlrtr/aHR0cHM6Ly9naXRodWIuY29tL2N6bG9ua293c2tpL244bi1tY3A=)**:** MCP server with docs and schemas for all 1,396 n8n automation nodes. If you're building automations with n8n, this gives Claude full visibility into the node catalog.
+- ​[**Claude-Reflect**](https://fff97757.click.kit-mail3.com/68uxrkzg9gb8h5e27ezsohp4k39wkf9hnlpoo/9qhzhnhdw5x76wt9/aHR0cHM6Ly9naXRodWIuY29tL0JheXJhbUFubmFrb3YvY2xhdWRlLXJlZmxlY3Q=)**:** Captures your repeated corrections and turns them into reusable commands with human review. The agent learns your preferences over time instead of making the same mistakes.
+- ​[**cc-DevOps Skills**](https://fff97757.click.kit-mail3.com/68uxrkzg9gb8h5e27ezsohp4k39wkf9hnlpoo/3ohphkh3mprw2gur/aHR0cHM6Ly9naXRodWIuY29tL2FraW4tb3plci9jYy1kZXZvcHMtc2tpbGxz)**:** Generator and validator loops for Terraform, Kubernetes, Docker, and CI/CD configs. Generates infra code, then validates it before you apply.
+- ​[**Agent Sandbox**](https://fff97757.click.kit-mail3.com/68uxrkzg9gb8h5e27ezsohp4k39wkf9hnlpoo/n2hohvhvq7gdxps6/aHR0cHM6Ly9naXRodWIuY29tL2Rpc2xlci9hZ2VudC1zYW5kYm94LXNraWxs)**:** Isolated E2B cloud sandboxes for building, hosting, and testing apps without touching local files. Good for when you want the agent to experiment freely without risk.
+- ​[**Agile Workflow**](https://fff97757.click.kit-mail3.com/68uxrkzg9gb8h5e27ezsohp4k39wkf9hnlpoo/48hvhehmlx9opdbx/aHR0cHM6Ly9naXRodWIuY29tL2xldm5pa29sYWV2aWNoL2NsYXVkZS1jb2RlLXNraWxscw==)**:** Full agile delivery pipeline with multi-model parallel review via Codex and Gemini agents. Brings structured software delivery practices into the agent workflow.
+- ​[**Claude Code Plugins+**](https://fff97757.click.kit-mail3.com/68uxrkzg9gb8h5e27ezsohp4k39wkf9hnlpoo/wnh2hghq704zkes7/aHR0cHM6Ly9naXRodWIuY29tL2plcmVteWxvbmdzaG9yZS9jbGF1ZGUtY29kZS1wbHVnaW5zLXBsdXMtc2tpbGxz)**:** Plugin directory with a CLI package manager for searching and installing niche skills. Think npm but for Claude Code skills.
+
+### Marketplace
+
+- [Agent Skills Marketplace - Claude, Codex & ChatGPT Skills \| SkillsMP](https://skillsmp.com/)
+- [GitHub - ComposioHQ/awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows · GitHub](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 52k
+- [GitHub - travisvn/awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code · GitHub](https://github.com/travisvn/awesome-claude-skills) ⭐ 11k
+- [GitHub - BehiSecc/awesome-claude-skills: A curated list of Claude Skills. · GitHub](https://github.com/BehiSecc/awesome-claude-skills) ⭐ 8.3k
 
 ### Frontend Agents
 
-- [GitHub - microsoft/playwright-mcp: Playwright MCP server · GitHub](https://github.com/microsoft/playwright-mcp) ⭐ 30k
+- [GitHub - microsoft/playwright-mcp: Playwright MCP server · GitHub](https://github.com/microsoft/playwright-mcp) ⭐ 31k
 	- `claude mcp add playwright npx @playwright/mcp@latest`
 - `claude plugin install frontend-design@claude-plugins-official`
 - `claude plugin install context7@claude-plugins-official`
@@ -203,11 +236,11 @@ ls ~/.claude/get-shit-done/workflows/
 - `/plugin marketplace add ChromeDevTools/chrome-devtools-mcp`
 	- `/plugin install chrome-devtools-mcp`
 	- Ex - Check the performance of https://developers.chrome.com
-- [GitHub - browserbase/skills: Claude Agent SDK with a web browsing tool · GitHub](https://github.com/browserbase/skills)
+- [GitHub - browserbase/skills: Claude Agent SDK with a web browsing tool · GitHub](https://github.com/browserbase/skills) ⭐ 498
 - [How frontend developer is using Claude Code for automated UI bug fixing and browser testing?](https://www.reddit.com/r/ClaudeCode/comments/1q5r5yz/how_frontend_developer_is_using_claude_code_for/)
 
 ## Codebase
 
-- [GitHub - yasasbanukaofficial/claude-code: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. · GitHub](https://github.com/yasasbanukaofficial/claude-code) ⭐ 407
-- [GitHub - codeaashu/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. · GitHub](https://github.com/codeaashu/claude-code) ⭐ 746
+- [GitHub - yasasbanukaofficial/claude-code: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. · GitHub](https://github.com/yasasbanukaofficial/claude-code) ⭐ 2.2k
+- [GitHub - codeaashu/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. · GitHub](https://github.com/codeaashu/claude-code) ⭐ 2.0k
 - [Reddit - Claude Code Source Leak Megathread](https://www.reddit.com/r/ClaudeAI/comments/1s9d9j9/claude_code_source_leak_megathread/)

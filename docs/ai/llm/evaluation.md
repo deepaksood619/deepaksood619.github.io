@@ -1,5 +1,6 @@
 # Evaluation
 
+- [GitHub - openai/evals: Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.](https://github.com/openai/evals) ⭐ 18k
 - [**DeepEval**](https://github.com/confident-ai/deepeval) ⭐ 14k - a simple-to-use, open-source evaluation framework for LLM applications.
 - [Galileo AI: The Generative AI Evaluation Company](https://galileo.ai/)
 - [Evaluating LLM Models: A Guide to Popular Frameworks](https://medium.com/@abhghoshsgp/evaluating-llm-models-a-guide-to-popular-frameworks-59f236542d46)
@@ -21,9 +22,9 @@
 	- Objective metrics, intelligent test generation, and data-driven insights for LLM apps
 	- [Evaluating RAG Applications with RAGAs | by Leonie Monigatti | Towards Data Science](https://towardsdatascience.com/evaluating-rag-applications-with-ragas-81d67b0ee31a)
 - [**tvalmetrics**](https://github.com/TonicAI/tvalmetrics) ⭐ 325 - Metrics to evaluate the quality of responses of your Retrieval Augmented Generation (RAG) applications.
-- [GitHub - openai/evals: Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.](https://github.com/openai/evals) ⭐ 18k
 - [GitHub - langchain-ai/openevals: Readymade evaluators for your LLM apps · GitHub](https://github.com/langchain-ai/openevals) ⭐ 1.0k
 - [GitHub - strands-agents/evals: A comprehensive evaluation framework for AI agents and LLM applications. · GitHub](https://github.com/strands-agents/evals)
+- [AutoEval](https://auto-eval.github.io/)
 
 ## Key Aspects of LLM Evaluation
 
@@ -34,6 +35,15 @@
 5. **Efficiency**: Checks the computational cost, memory usage, and inference time, ensuring scalability.
 6. **Interpretability**: Examines whether the model’s decision-making process is understandable, allowing developers to trace and reason about its outputs.
 7. **Alignment**: Verifies whether the model’s outputs align with human values and expected behaviors, particularly important for applications like conversational AI.
+
+### Others
+
+- correctness
+- completeness
+- tool_usage
+- data_accuracy
+- actionability
+- reasoning
 
 ## Benchmarks vs Evals vs Tests
 
@@ -59,11 +69,11 @@ Evaluation methods are the functions that score traces, observations, sessions, 
 |[Scores via UI](https://langfuse.com/docs/evaluation/evaluation-methods/scores-via-ui)|Manually add scores to traces directly in the Langfuse UI|Quick quality spot checks, reviewing individual traces|
 |[Annotation Queues](https://langfuse.com/docs/evaluation/evaluation-methods/annotation-queues)|Structured human review workflows with customizable queues|Building ground truth, systematic labeling, team collaboration|
 |[Scores via API/SDK](https://langfuse.com/docs/evaluation/evaluation-methods/scores-via-sdk)|Programmatically add scores using the Langfuse API or SDK|Custom evaluation pipelines, deterministic checks, automated workflows|
-[Concepts - Langfuse](https://langfuse.com/docs/evaluation/core-concepts)
 
-[Evaluation of LLM Applications - Langfuse](https://langfuse.com/docs/evaluation/overview)
-
-[Automated Evaluations of LLM Applications - Langfuse](https://langfuse.com/blog/2025-09-05-automated-evaluations)
+- [Concepts - Langfuse](https://langfuse.com/docs/evaluation/core-concepts)
+- [Evaluation of LLM Applications - Langfuse](https://langfuse.com/docs/evaluation/overview)
+- [Automated Evaluations of LLM Applications - Langfuse](https://langfuse.com/blog/2025-09-05-automated-evaluations)
+- [Langfuse Intro - Evaluations Deep Dive - YouTube](https://www.youtube.com/watch?v=hlgfW0IyREc)
 
 ## Links
 

@@ -1,18 +1,41 @@
 # Benchmarking / Monitoring
 
+- [evaluation](ai/llm/evaluation.md)
+
+## LangFuse
+
+[GitHub - langfuse/langfuse: 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23](https://github.com/langfuse/langfuse) ⭐ 24k
+
+- [Langfuse](https://langfuse.com/)
+- [10 min Walkthrough of Langfuse – Open Source LLM Observability, Evaluation, and Prompt Management - YouTube](https://www.youtube.com/watch?v=2E8iTvGo9Hs)
+- [LLM-as-a-Judge Evaluation - Langfuse](https://langfuse.com/docs/evaluation/evaluation-methods/llm-as-a-judge)
+- [LLM Monitoring and Observability: Hands-on with Langfuse \| Towards Data Science](https://towardsdatascience.com/llm-monitoring-and-observability-hands-on-with-langfuse/)
+- [Docker Compose Deployment (Self-Hosted) - Langfuse](https://langfuse.com/self-hosting/deployment/docker-compose)
+- [Open Source Prompt Management - Langfuse](https://langfuse.com/docs/prompt-management/overview)
+	- [Concepts - Langfuse](https://langfuse.com/docs/prompt-management/data-model)
+	- [Version Control - Langfuse](https://langfuse.com/docs/prompt-management/features/prompt-version-control)
+	- [Best way to manage prompts in both UI and code? · langfuse · Discussion #7739 · GitHub](https://github.com/orgs/langfuse/discussions/7739)
+- [Langfuse Intro - Evaluations Deep Dive - YouTube](https://www.youtube.com/watch?v=hlgfW0IyREc)
+
+### Observation Types
+
+-  `event` is the basic building block. An event is used to track discrete events in a trace.
+-  `span` represents durations of units of work in a trace.
+-  `generation` logs generations of AI models incl. prompts, [token usage and costs](https://langfuse.com/docs/observability/features/token-and-cost-tracking).
+-  `agent` decides on the application flow and can for example use tools with the guidance of a LLM.
+-  `tool` represents a tool call, for example to a weather API.
+-  `chain` is a link between different application steps, like passing context from a retriever to a LLM call.
+-  `retriever` represents data retrieval steps, such as a call to a vector store or a database.
+-  `evaluator` represents functions that assess relevance/correctness/helpfulness of a LLM's outputs.
+-  `embedding` is a call to a LLM to generate embeddings and can include model, [token usage and costs](https://langfuse.com/docs/observability/features/token-and-cost-tracking)
+-  `guardrail` is a component that protects against malicious content or jailbreaks.
+
+[Observation Types - Langfuse](https://langfuse.com/docs/observability/features/observation-types)
+
+[Trace complex LLM applications with the Langfuse decorator (Python) - Langfuse](https://langfuse.com/blog/2024-04-python-decorator)
+
 ## LLM Monitoring / LLMOps
 
-- [GitHub - langfuse/langfuse: 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23](https://github.com/langfuse/langfuse) ⭐ 24k
-	- [Langfuse](https://langfuse.com/)
-	- [10 min Walkthrough of Langfuse – Open Source LLM Observability, Evaluation, and Prompt Management - YouTube](https://www.youtube.com/watch?v=2E8iTvGo9Hs)
-	- [LLM-as-a-Judge Evaluation - Langfuse](https://langfuse.com/docs/evaluation/evaluation-methods/llm-as-a-judge)
-	- [LLM Monitoring and Observability: Hands-on with Langfuse \| Towards Data Science](https://towardsdatascience.com/llm-monitoring-and-observability-hands-on-with-langfuse/)
-	- [Docker Compose Deployment (Self-Hosted) - Langfuse](https://langfuse.com/self-hosting/deployment/docker-compose)
-	- [Open Source Prompt Management - Langfuse](https://langfuse.com/docs/prompt-management/overview)
-		- [Concepts - Langfuse](https://langfuse.com/docs/prompt-management/data-model)
-		- [Version Control - Langfuse](https://langfuse.com/docs/prompt-management/features/prompt-version-control)
-		- [Best way to manage prompts in both UI and code? · langfuse · Discussion #7739 · GitHub](https://github.com/orgs/langfuse/discussions/7739)
-	- [Langfuse Intro - Evaluations Deep Dive - YouTube](https://www.youtube.com/watch?v=hlgfW0IyREc)
 - [GitHub - pezzolabs/pezzo: 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more. · GitHub](https://github.com/pezzolabs/pezzo)
 - [GitHub - Agenta-AI/agenta: The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place. · GitHub](https://github.com/Agenta-AI/agenta)
 - [Langtrace](https://www.langtrace.ai/)
@@ -112,4 +135,5 @@ Understanding both metrics helps you right-size your infrastructure and avoid na
 
 ## Links
 
+- [evaluation](ai/llm/evaluation.md)
 - [Benchmarking LLMs: TPS, TTFT, GPU Usage \| Medium](https://rumn.medium.com/benchmarking-llm-performance-token-per-second-tps-time-to-first-token-ttft-and-gpu-usage-8c50ee8387fa)

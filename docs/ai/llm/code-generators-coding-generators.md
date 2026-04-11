@@ -115,7 +115,7 @@ ChatDev has evolved from a specialized software development multi-agent system i
 	- [Jules - An Asynchronous Coding Agent](https://jules.google/)
 	- [Google AI Studio](https://aistudio.google.com/)
 	- [Firebase Studio](https://firebase.studio/) - Firebase AI Studio
-	- [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli) ⭐ 100k
+	- [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli) ⭐ 101k
 		- npx https://github.com/google-gemini/gemini-cli
 		- **npm install -g @google/gemini-cli**
 			- gemini
@@ -124,7 +124,7 @@ ChatDev has evolved from a specialized software development multi-agent system i
 - [GitHub - openai/codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex) ⭐ 73k
 	- [GitHub - Yeachan-Heo/oh-my-codex: OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. · GitHub](https://github.com/Yeachan-Heo/oh-my-codex) ⭐ 9.3k
 	- **[GitHub - ultraworkers/claw-code: The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex. · GitHub](https://github.com/ultraworkers/claw-code) ⭐ 131k**
-- [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli) ⭐ 100k
+- [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli) ⭐ 101k
 - [Warp: The Agentic Development Environment](https://www.warp.dev/)
 - [Kilo Code - Open source AI agent VS Code extension](https://kilocode.ai/)
 - [GitHub - Pythagora-io/gpt-pilot: The first real AI developer](https://github.com/Pythagora-io/gpt-pilot) ⭐ 34k
@@ -169,3 +169,4 @@ ChatDev has evolved from a specialized software development multi-agent system i
 - [ai-engineering-hub/sonnet4-vs-qwen3-coder at main · patchy631/ai-engineering-hub · GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main/sonnet4-vs-qwen3-coder) ⭐ 33k
 - [The Roadmap for Mastering AI-Assisted Coding in 2025 - MachineLearningMastery.com](https://machinelearningmastery.com/the-roadmap-for-mastering-ai-assisted-coding-in-2025/)
 - [Replit vs Bolt vs Lovable (2025) — Hands‑On Review: What I’d Renew, What I’d Pause](https://www.thetoolnerd.com/p/replit-vs-bolt-vs-lovable-2025-handson-review-thetoolnerd)
+- [Agentic coding at ClickHouse](https://clickhouse.com/blog/agentic-coding)

@@ -1,5 +1,7 @@
 # Model Context Protocol (MCP)
 
+- [mcp-vs-restapi](ai/llm/mcp-vs-restapi.md)
+
 A protocol for seamless integration between LLM applications and external data sources.
 
 The Model Context Protocol (MCP) is an open protocol that enables seamless integration between LLM applications and external data sources and tools. Whether you're building an AI-powered IDE, enhancing a chat interface, or creating custom AI workflows, MCP provides a standardized way to connect LLMs with the context they need.
@@ -80,6 +82,13 @@ sequenceDiagram
 
 [How Model Context Protocol (MCP) Works](https://blog.bassemdy.com/2025/04/12/mcp/model-context-protocol/programming/llm/ai/how-model-context-protocol-mcp-works.html)
 
+## Concept
+
+- [Tools - Model Context Protocol](https://modelcontextprotocol.io/specification/2025-11-25/server/tools)
+	- Tools enable models to interact with external systems, such as querying databases, calling APIs, or performing computations. Each tool is uniquely identified by a name and includes metadata describing its schema.
+- [Resources - Model Context Protocol](https://modelcontextprotocol.io/specification/2025-11-25/server/resources)
+	- Resources allow servers to share data that provides context to language models, such as files, database schemas, or application-specific information. Each resource is uniquely identified by a URI.
+
 ## Getting Started
 
 [For Claude Desktop Users - Model Context Protocol](https://modelcontextprotocol.io/quickstart/user)
@@ -106,6 +115,94 @@ sequenceDiagram
   }
 }
 ```
+
+## Requests
+
+### Requesting Exact Columns (The Request)
+
+To specify which columns or fields you want, you should use **URI parameters** (for Resources) or **Argument properties** (for Tools).
+
+#### For Resources (URI Templates)
+
+When defining a resource in your MCP server, use a URI template that includes a `columns` or `fields` parameter.
+
+- **Template Example:** `database://{table_name}?columns={column_list}`
+- **Client Call:** The client requests `database://users?columns=id,email,username`.
+
+#### For Tools (Input Schema)
+
+If you are using a Tool to fetch data, you define the required columns in the `inputSchema`. This is the most "official" way to handle filtering.
+
+```json
+{
+  "name": "get_customer_data",
+  "description": "Fetch specific customer records",
+  "inputSchema": {
+    "type": "object",
+    "properties": {
+      "customer_id": { "type": "string" },
+      "fields": { 
+        "type": "array", 
+        "items": { "type": "string" },
+        "description": "List of specific columns to return" 
+      }
+    },
+    "required": ["customer_id", "fields"]
+  }
+}
+```
+
+### 2. Adding Filters
+
+Filtering is handled by passing query parameters or search criteria through the same request structure.
+
+#### Logical Filtering in Tools
+
+You can add complex filtering logic by defining a `filters` object in your tool's arguments:
+
+- **Criteria:** `status == 'active'`
+- **Range:** `date > '2023-01-01'`
+
+**Example Tool Argument:**
+
+```json
+"filters": {
+  "type": "object",
+  "properties": {
+    "status": { "type": "string", "enum": ["active", "inactive"] },
+    "min_spend": { "type": "number" }
+  }
+}
+```
+
+### 3. Shaping the Response
+
+MCP responses follow a strict structure. To ensure only the "exact columns" are returned, your server logic must prune the data before sending it back in the `content` array.
+
+#### The Response Structure
+
+Your MCP server should return a `CallToolResult` or `ReadResourceResult` containing only the requested keys.
+
+```json
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"id\": 101, \"email\": \"user@example.com\"}" 
+    }
+  ]
+}
+```
+
+**Pro Tip:** Even if your underlying database returns 50 columns, your MCP Server code should iterate through the `fields` array provided in the request and delete any keys from the JSON object that weren't requested. This keeps the LLM's context window clean and reduces token costs.
+
+### Summary Table
+
+| **Feature**        | **Resource Approach**                | **Tool Approach**                             |
+| ------------------ | ------------------------------------ | --------------------------------------------- |
+| **Selection**      | Use URI Query Params (`?select=a,b`) | Define a `fields` array in `inputSchema`      |
+| **Filtering**      | Use URI Query Params (`?id=123`)     | Define specific filter properties in Schema   |
+| **Implementation** | Parse the URI string in the server   | Access `arguments` object in the tool handler |
 
 ## Servers
 
@@ -371,6 +468,17 @@ if __name__ == "__main__":
 
 [Elicitation in Modern AI Agents: How Smart Agents Ask the Right Questions - DEV Community](https://dev.to/sreeni5018/elicitation-in-modern-ai-agents-how-smart-agents-ask-the-right-questions-j4h)
 
+## MCP Advanced Caching Strategies
+
+- Pattern 1: Data- Driven Cache policies
+- Pattern 2: Write behind caching for High — Throughput Operations
+- Pattern 3: Intelligent Cache Warming for Predictable performance
+- Pattern 4: Smarter Invalidation with Dependency Tracking
+- Pattern 5: Compliance-Ready Audit logging
+- Pattern 6: Performance monitoring with AI Recommendations
+
+[MCP: Advanced Caching strategies. The caching solution we built in our… \| by Parichay Pothepalli \| Medium](https://medium.com/@parichay2406/advanced-caching-strategies-for-mcp-servers-from-theory-to-production-1ff82a594177)
+
 ## Tools
 
 - [GitHub - jlowin/fastmcp: 🚀 The fast, Pythonic way to build MCP servers and clients](https://github.com/jlowin/fastmcp) ⭐ 24k
@@ -425,6 +533,7 @@ if __name__ == "__main__":
 
 ## Links
 
+- [mcp-vs-restapi](ai/llm/mcp-vs-restapi.md)
 - [The Model Context Protocol (MCP) Explained (and one cool code example.) - YouTube](https://www.youtube.com/watch?v=5ZWeCKY5WZE&ab_channel=Underfitted)
 - [Is MCP Becoming The Next BIG Thing in AI - YouTube](https://www.youtube.com/watch?v=japoGcdbZGw&ab_channel=RobShocks)
 - [What is MCP & why it's a big (huge) deal: Detailed explanation for both… \| John Rush \| 10 comments](https://www.linkedin.com/posts/johnrushx_what-is-mcp-why-its-a-big-huge-deal-activity-7303421262440112129-iJWV)

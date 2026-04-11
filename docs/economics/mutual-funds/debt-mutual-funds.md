@@ -181,6 +181,7 @@ This way, a portion of your money becomes available at regular intervals, giving
 ## Links
 
 - [**ELI5: How do debt mutual funds work?**](https://freefincal.com/eli5-how-do-debt-mutual-funds-work/)
+- [Introducing Fixed Deposits on Coin – Z-Connect by Zerodha](https://zerodha.com/z-connect/business-updates/introducing-fixed-deposits-on-coin)
 - Stable Money (Stablemoney)
 - https://www.thefixedincome.com
 - https://www.bharatbond.in

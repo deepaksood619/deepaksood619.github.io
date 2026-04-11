@@ -596,8 +596,6 @@ If everybody is thinking alike, then no one is thinking --Ben Franklin
 
 "Avoid Boring People." Three words, two meanings. The trope is a reminder to (1) stay away from people who aren't interesting and (2) to be interesting and avoid boring people when you're speaking with them.
 
-Luck is what happens when preparation meets opportunity.
-
 If you gain enough mastery over yourself and determine the nature of your experience of life, you can also largely determine when and how you shall die. -- Sadhguru
 
 If you want the truth to stand clear before you, never be for or against. The struggle between "for" and "against" is the mind's worst disease. -- Sent-ts'an, C. 700 C.E.
@@ -765,8 +763,6 @@ If you are feeling really pleasant and wonderful, you will have no issues with a
 Once you are flexible, you are willing to listen; not just to someone's talk -- you are willing to listen to life.
 
 Especially if unpleasant things have happened in your life, you should become wise, not wounded.
-
-You can attract luck simply by sharing your work publicly.
 
 We can only see a short distance ahead, but we can see plenty there that needs to be done. -- Alan Turing
 
@@ -1183,5 +1179,37 @@ To be happy you must eliminate two things: the fear of a bad future and the memo
 **The Sword of Damocles** is an ancient Greek parable representing the imminent, constant peril faced by those in positions of power, wealth, or high responsibility. Originating from a story by Cicero, it symbolizes that great fortune is often accompanied by the looming threat of sudden disaster or anxiety.
 
 Arguing with stupid people is like trying to kill the mosquito on your cheek. You may or may not kill it, but you will slap yourself.
+
+## Luck / Serendipity
+
+**Law of serendipity -** Lady luck favours the one who tries
+
+Serendipity Opposite - Zemblanity - the ability to make unhappy, unlucky, and expected discoveries by design
+
+https://www.dwarkeshpatel.com/p/annus-mirabilis
+
+- An interesting pattern recurs across the careers of great scientists: an annus mirabilis (miracle year) in which they make multiple, seemingly independent breakthroughs in the span of a single year or two.
+
+Luck favors the prepared Mind -- Pasteur
+
+We cannot control our luck - good or bad - but we can control our effort and preparation.
+
+Luck smiles on us all from time to time. And when it does, the way to honor your good luck is to work hard and make the most of it.
+
+Being pleasant and having a good attitude is a simple way to become luckier.
+
+Opportunities come through people, and people are more likely to bring opportunities to people they like.
+
+Luck is what happens when preparation meets opportunity.
+
+You can attract luck simply by sharing your work publicly.
+
+[Is Luck Random — or Can You Cultivate It? \| Christian Busch \| TED - YouTube](https://youtu.be/DWZzQI24Qhs)
+
+**The Luck Matrix**
+
+![The Luck Matrix](media/Screenshot%202026-04-11%20at%2011.45.05%20AM.png)
+
+[Zemblanity: When Bad Luck Is Built In \| Psychology Today](https://www.psychologytoday.com/us/blog/connect-the-dots/202603/zemblanity-when-bad-luck-is-built-in)
 
 ## End

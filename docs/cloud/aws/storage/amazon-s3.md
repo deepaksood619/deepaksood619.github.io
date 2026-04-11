@@ -11,6 +11,7 @@ S3: More than 235 distributed microservices
 - 6 Copies of 1 object are maintained in >=3 Az's
 - You can send [3,500 PUT/COPY/POST/DELETE and 5,500 GET/HEAD requests per second per partitioned prefix](https://docs.aws.amazon.com/AmazonS3/latest/dev/optimizing-performance.html) in an S3 bucket. When you have an increased request rate to your bucket, Amazon S3 might return **503 Slow Down errors** while it scales to support the request rate. This scaling process is called **partitioning**.
 - Pass through uploads
+- **[Launching S3 Files, making S3 buckets accessible as file systems \| AWS News Blog](https://aws.amazon.com/blogs/aws/launching-s3-files-making-s3-buckets-accessible-as-file-systems/)**
 
 ### Pre signed URL (max expiry 7 days)
 

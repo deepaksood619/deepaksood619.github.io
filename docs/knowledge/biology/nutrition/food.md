@@ -104,11 +104,19 @@ Recommended Calorie intake - 2800
 5. Melatonin
 6. St John's Wort (flower)
 7. [“Muscle Nectar Triple Strength Fish Oil Tested 🧪 Triple or Single?” - YouTube](https://youtu.be/mapMenzRFe4)
+8. [TOP 5 Health Supplements to take in 2026 - Doctors Guide - YouTube](https://www.youtube.com/watch?v=HgIrqauZuq8)
+9. Vitamin-D
+	1. [MUSCLEBLAZE BIOZYME MULTIVITAMIN LAB TEST REPORT \|\| LEAD FOUND ?? #review #fitness #health - YouTube](https://www.youtube.com/watch?v=BHiSZZPvv4s)
+	2. [TATA 1MG CALCIUM + VITAMIN D3 LAB TEST REPORT \|\| #review #fitness #health - YouTube](https://www.youtube.com/watch?v=YiflXK4lV4M)
+10. D3 Maintenance Dose - 1000-2000 units/per day
+11. Omega-3
+	1. [🚨 The BIG Omega-3 Supplement Scam 😱 \| 🔍 Trustified Journal - YouTube](https://www.youtube.com/watch?v=JHfmDdREyWQ)
+	2. [MUSCLEBLAZE OMEGA-3 FISH OIL 1000 MG || LAB TEST REPORT #review #fitness...](https://youtu.be/4oT_FHYUAu0)
 
 ### Nitin Kamath's Supplements
 
-1. Vitamin D
-2. Omega 3
+1. Vitamin-D
+2. Omega-3
 3. Shilajit
 4. Ashwagandha
 5. Magnesium

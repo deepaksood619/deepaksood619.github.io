@@ -128,7 +128,7 @@ https://freefincal.com/mutual-fund-faq-new-investors
 [**https://freefincal.com/how-rohits-early-struggles-defined-his-investment-journey/**](https://freefincal.com/how-rohits-early-struggles-defined-his-investment-journey/)
 [**https://freefincal.com/how-abhisek-funded-his-marriage-is-on-track-to-financial-freedom/**](https://freefincal.com/how-abhisek-funded-his-marriage-is-on-track-to-financial-freedom/)
 
-## National Pension Scheme (NPS)
+## NPS National Pension Scheme
 
 [How Much Monthly Pension Does NPS Give? | ET Money](https://youtu.be/908WbEQRG04)
 
@@ -141,6 +141,7 @@ Additional Tax Benefit is available to Subscribers under Corporate Sector, under
 - [New NPS Rules: Retirement Planning Just Got Easier, Flexible & More Rewarding - YouTube](https://www.youtube.com/watch?v=HZq7Y2o5Fig)
 - [NPS reduces annuity requirement to 20% - should you open an NPS account?](https://freefincal.com/nps-reduces-annuity-requirement-to-20-should-you-open-an-nps-account/)
 - [My NPS Wishlist: two changes to make it more user-friendly](https://freefincal.com/my-nps-wishlist-two-changes-to-make-it-more-user-friendly/)
+- [From Defined Benefit to Defined Risk: Taking Control of Your NPS Journey](https://freefincal.com/from-defined-benefit-to-defined-risk-taking-control-of-your-nps-journey/)
 
 ### NPS Vatsalya
 

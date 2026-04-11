@@ -107,5 +107,6 @@ Start with the process you want to automate
 
 ## Links
 
+- [Managing Threads and Conversation History in LangChain with Checkpoints \| by Muhammad Naufal Rizqullah \| Medium](https://medium.com/@m.naufalrizqullah17/managing-threads-and-conversation-history-in-langchain-with-checkpoints-df7b02beb321)
 - [Why Developers are Quitting LangChain](https://analyticsindiamag.com/ai-features/why-developers-are-quitting-langchain/)
 - [10 Python One-Liners for Calling LLMs from Your Code - MachineLearningMastery.com](https://machinelearningmastery.com/10-python-one-liners-for-calling-llms-from-your-code/)

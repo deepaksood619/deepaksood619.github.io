@@ -93,7 +93,10 @@ Based on March 2026 data, **GPT-5.4-mini is a newer, more advanced "small" mod
 		- Requests per minute: ~15
 		- daily limit also for free requests = 200 per day
 - [Advancing medical AI with Med-Gemini](https://research.google/blog/advancing-medical-ai-with-med-gemini/)
-- [Googles NEW "Med-Gemini" SURPRISES Doctors! (Googles New Medical AI) - YouTube](https://www.youtube.com/watch?v=SZS5WD1du3A&ab_channel=TheAIGRID)
+	- [GitHub - Google-Health/medgemma · GitHub](https://github.com/google-health/medgemma)
+	- [Googles NEW "Med-Gemini" SURPRISES Doctors! (Googles New Medical AI) - YouTube](https://www.youtube.com/watch?v=SZS5WD1du3A&ab_channel=TheAIGRID)
+	- [MedGemma — Google DeepMind](https://deepmind.google/models/gemma/medgemma/)
+	- [Intelligent-Internet/II-Medical-8B · Hugging Face](https://huggingface.co/Intelligent-Internet/II-Medical-8B)
 - [Google Gemini - YouTube](https://www.youtube.com/playlist?list=PLZoTAELRMXVNbDmGZlcgCA3a8mRQp5axb)
 - [Gemma: Google introduces new state-of-the-art open models](https://blog.google/technology/developers/gemma-open-models/) (2B, 7B parameters)
     - [Smaller, Safer, More Transparent: Advancing Responsible AI with Gemma - Google Developers Blog](https://developers.googleblog.com/en/smaller-safer-more-transparent-advancing-responsible-ai-with-gemma/)

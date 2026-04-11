@@ -13247,7 +13247,7 @@
 13204. [Batteries are the New Oil? | The Daily Brief #227](https://youtu.be/FIfgW-jJrVA)
 13205. [Bringing Holocaust Instruments Back to Life](https://youtu.be/ylYxB22qutk)
 13206. [Why Politicians Don't Care About Young People](https://youtu.be/1CQkrZI_vPk)
-13207. [MUSCLEBLAZE OMEGA 3 FISH OIL 1000 MG || LAB TEST REPORT #review #fitness...](https://youtu.be/4oT_FHYUAu0)
+13207. [MUSCLEBLAZE OMEGA-3 FISH OIL 1000 MG || LAB TEST REPORT #review #fitness...](https://youtu.be/4oT_FHYUAu0)
 13208. [Cryptocurrency Explained: 101 Beginner's Guide For 2025!!](https://youtu.be/h2zG0Roj9Bc)
 13209. [Space-Based Data Centers](https://youtu.be/BvsCZWx2OMw)
 13210. [SBI Contra Fund: 5 Things You Must Know Before Investing](https://youtu.be/k_f8NEtdPmQ)
@@ -17746,5 +17746,6 @@
 17703. [How the Fall of the Roman Empire Made Animals Smaller](https://youtu.be/ZSKZje0rebE)
 17704. [How the U.S. Moves Nuclear Weapons If Iran War Breaks Out?](https://youtu.be/4DkqgrnMaWY)
 17705. [Dealing with Amex Plat Travel and EPM devaluation - Hindi](https://youtu.be/K0G1v3WGRbU)
+17706. [Sudden Rise of Vulgar Content in India - YouTube](https://www.youtube.com/watch?v=rtwQuAYJ0_Y)
 
 ## End
