@@ -23,7 +23,7 @@
 
 ## Claude Code Features
 
-1. **CLAUDE.md:** A project memory file to define custom rules and conventions. Claude reads at the start of every session.
+1. **CLAUDE.md:** A project memory file to define custom rules and conventions. Claude reads at the start of every session. (run `/init` to create or update)
 2. **Permissions:** Control which tools Claude can and can't use.
 3. **Plan Mode:** Claude plans before it acts. You can review them before any code changes.
 4. **Checkpoints:** Automatic snapshots of your project to revert to if something goes wrong.
@@ -35,6 +35,7 @@
 10. **Slash Commands:** Create shortcuts for tasks you run often. Type / and pick from your saved commands.
 11. **Compaction:** Compress long conversations to save tokens.
 12. **Subagents:** Spawn parallel agents for complex tasks. Divide large multi-step workflows and run them simultaneously.
+13. [Claude Managed Agents: get to production 10x faster \| Claude](https://claude.com/blog/claude-managed-agents)
 
 ## Commands
 

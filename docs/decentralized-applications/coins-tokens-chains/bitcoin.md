@@ -4,6 +4,10 @@
 - Solves Byzantine agreemeent, permissionless, Sybil-proof, reasonable cryptographic assumptions
 - Elegant in its simplicity
 - Limited scripting for transaction confirmation
+- Inventor - Satoshi Nakamoto - Mr. Adam Back
+	- [Who Is Satoshi Nakamoto? My Quest to Unmask Bitcoin’s Creator - The New York Times](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
+	- [Adam Back - Wikipedia](https://en.wikipedia.org/wiki/Adam_Back)
+	- [4 Takeaways From Our Search for Satoshi Nakamoto, Bitcoin’s Creator - The New York Times](https://www.nytimes.com/2026/04/08/business/takeaways-satoshi-nakamoto-bitcoin-adam-back.html)
 
 ## Bitcoin Facts
 

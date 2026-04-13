@@ -98,7 +98,7 @@ My opinion: Context engineering is no longer optional, it's a key pillar in buil
 
 ![context-engineering](../../media/Screenshot%202025-09-13%20at%204.17.21%20PM.jpg)
 
-![](https://substackcdn.com/image/fetch/$s_!GjNA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9534a00d-5563-42ba-82e9-6c1a2aa1f04f_2526x1518.png)
+![context engineering](https://substackcdn.com/image/fetch/$s_!GjNA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9534a00d-5563-42ba-82e9-6c1a2aa1f04f_2526x1518.png)
 
 ## Core Strategies
 
@@ -119,7 +119,7 @@ The constraint it addresses is that more context isn’t better, and the model n
 
 The most important technique here is Retrieval-Augmented Generation, or RAG. Instead of stuffing all your knowledge into the context window, we store it externally in a searchable database. At query time, retrieve only the chunks most relevant to the current question and inject those into the context, giving the model targeted knowledge without the noise of everything else.
 
-![](https://substackcdn.com/image/fetch/$s_!Bdgk!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feadec10f-1ecc-4644-b35c-8627ddc69acb_2526x1518.png)
+![image](https://substackcdn.com/image/fetch/$s_!Bdgk!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feadec10f-1ecc-4644-b35c-8627ddc69acb_2526x1518.png)
 
 Selection also applies to tools. When an agent has dozens of available tools, listing every tool description in every prompt wastes tokens and confuses the model. A better approach is to retrieve only the tool descriptions relevant to the current task.
 

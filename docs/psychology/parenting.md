@@ -261,6 +261,7 @@ Why kicking out children after 18 years is important, let's say you are very wea
 ### Youtube
 
 - [Nitya Dance Playlist - YouTube](https://youtube.com/playlist?list=PLmZOzijcemEPsUfyMAdZ7uA9n4KTtZciq&si=ZAbSIiU0HkvZaNUD)
+- [Super Simple Songs - Kids Songs - YouTube](https://www.youtube.com/@SuperSimpleSongs)
 - [Emma Hubbard - YouTube](https://www.youtube.com/@EmmaHubbard)
 	- [Toddler Development (12 Months to 18 Months) - YouTube](https://www.youtube.com/playlist?list=PLEPQYw7MIUjbBw63r0nASZmbst1FF6sHv)
 	- Natural breaks

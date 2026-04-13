@@ -46,10 +46,10 @@ Three reasons:
 
 ### 1. Runtime Discovery vs Static Specs
 
-**API**: Ship new client code when endpoints change  
+**API**: Ship new client code when endpoints change
 **MCP**: Agents query capabilities dynamically and adapt automatically
 
-```
+```python
 // MCP discovery - works with any server
 client.request('tools/list')
 // Returns all available tools with schemas
@@ -57,14 +57,14 @@ client.request('tools/list')
 
 ### 2. Deterministic Execution vs LLM-Generated Calls
 
-**API**: LLM writes the HTTP request → hallucinated paths, wrong parameters  
+**API**: LLM writes the HTTP request → hallucinated paths, wrong parameters
 **MCP**: LLM picks which tool → wrapped code executes deterministically
 
 This distinction is critical for production safety. With MCP, you can test, sanitize inputs, and handle errors in actual code, not hope the LLM formats requests correctly.
 
 ### 3. Bidirectional Communication
 
-**API**: Server-push exists (WebSockets, SSE, GraphQL subscriptions) but lacks standardization  
+**API**: Server-push exists (WebSockets, SSE, GraphQL subscriptions) but lacks standardization
 **MCP**: Bidirectional communication as first-class feature:
 
 - Request LLM completions from server
@@ -83,7 +83,7 @@ MCP tools map to complete workflows. One tool, one human task.
 
 ### 5. Local-First by Design
 
-**API**: Requires HTTP server (port binding, CORS, auth headers)  
+**API**: Requires HTTP server (port binding, CORS, auth headers)
 **MCP**: Can run as local process via stdio—no network layer needed
 
 Why this matters: When MCP servers run locally via stdio, they inherit the host process's permissions.
@@ -108,7 +108,7 @@ MCP's standardization creates a future opportunity: models could be trained on a
 
 **Reduced cognitive load for models:**
 
-```
+```json
 // Every MCP tool follows the same pattern:
 {
   "method": "tools/call",
@@ -154,7 +154,7 @@ Consider a task: "Find all pull requests mentioning security issues and create a
 1. LLM calls: `github.search_issues_and_prs({query: "security", type: "pr"})`
 2. Deterministic code handles pagination, rate limits, error retry
 3. Returns structured data
-4. LLM focuses on analysis, not API mechanics    
+4. LLM focuses on analysis, not API mechanics
 
 ## The Bottom Line
 

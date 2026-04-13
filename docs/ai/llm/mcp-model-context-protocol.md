@@ -116,6 +116,8 @@ sequenceDiagram
 }
 ```
 
+**Debug Logs -** `tail -n 100 ~/Library/Logs/Claude/mcp-server-*.log`
+
 ## Requests
 
 ### Requesting Exact Columns (The Request)
@@ -141,10 +143,10 @@ If you are using a Tool to fetch data, you define the required columns in the `i
     "type": "object",
     "properties": {
       "customer_id": { "type": "string" },
-      "fields": { 
-        "type": "array", 
+      "fields": {
+        "type": "array",
         "items": { "type": "string" },
-        "description": "List of specific columns to return" 
+        "description": "List of specific columns to return"
       }
     },
     "required": ["customer_id", "fields"]
@@ -188,7 +190,7 @@ Your MCP server should return a `CallToolResult` or `ReadResourceResult` contain
   "content": [
     {
       "type": "text",
-      "text": "{\"id\": 101, \"email\": \"user@example.com\"}" 
+      "text": "{\"id\": 101, \"email\": \"user@example.com\"}"
     }
   ]
 }

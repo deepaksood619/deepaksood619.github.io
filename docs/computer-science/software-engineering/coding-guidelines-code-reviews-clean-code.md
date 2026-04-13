@@ -78,24 +78,18 @@ https://en.wikipedia.org/wiki/Not_invented_here
 
 ## Others
 
-https://www.fluentcpp.com/2019/08/27/extract-function-should-i-extract-the-condition-too
-
-https://www.fluentcpp.com/2016/12/15/respect-levels-of-abstraction
-
-[Reasons & Ways to Improve Code Quality - Venkat Subramaniam - GOTO 2021](https://www.youtube.com/watch?v=znZlF4uQBN0)
-
-[Writing Code You Won't Hate Tomorrow](https://www.youtube.com/watch?v=qjtMs7jQxEo)
-
-[What should a software developer not do? - YouTube](https://www.youtube.com/watch?v=rBUVdZRkd0A)
-
-[Why You Shouldn't Nest Your Code](https://www.youtube.com/watch?v=CFRhGnuXG-4)
-
-- Never Nester
-- If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program
-
-[Code Sexy Or Don’t Code At All!. Appearance matters a lot to everyone… | by Upnishad Deo | Medium](https://medium.com/@upanishaddeo/code-sexy-or-dont-code-at-all-53aa1488b92)
+- https://www.fluentcpp.com/2019/08/27/extract-function-should-i-extract-the-condition-too
+- https://www.fluentcpp.com/2016/12/15/respect-levels-of-abstraction
+- [Reasons & Ways to Improve Code Quality - Venkat Subramaniam - GOTO 2021](https://www.youtube.com/watch?v=znZlF4uQBN0)
+- [Writing Code You Won't Hate Tomorrow](https://www.youtube.com/watch?v=qjtMs7jQxEo)
+- [What should a software developer not do? - YouTube](https://www.youtube.com/watch?v=rBUVdZRkd0A)
+- [Why You Shouldn't Nest Your Code](https://www.youtube.com/watch?v=CFRhGnuXG-4)
+	- Never Nester
+	- If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program
+- [Code Sexy Or Don’t Code At All!. Appearance matters a lot to everyone… | by Upnishad Deo | Medium](https://medium.com/@upanishaddeo/code-sexy-or-dont-code-at-all-53aa1488b92)
 
 ## Links
 
+- [code-smell](computer-science/software-engineering/code-smell.md)
 - [GitHub - google/git-appraise: Distributed code review system for Git repos](https://github.com/google/git-appraise) ⭐ 5.3k
 - [TypeScript Won... Because of AI (GitHub 2025) - YouTube](https://www.youtube.com/watch?v=96pARvK83CA)

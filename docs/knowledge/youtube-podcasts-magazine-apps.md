@@ -423,6 +423,7 @@
 - [Hanselminutes Technology Podcast - Fresh Air and Fresh Perspectives for Developers - Coding while Blind with Dominic St Pierre](https://hanselminutes.com/)
 - [Lenny's Podcast - YouTube](https://www.youtube.com/@LennysPodcast)
 - [Lex Fridman - YouTube](https://www.youtube.com/@lexfridman)
+- [The Knowledge Project Podcast - YouTube](https://www.youtube.com/@tkppodcast)
 
 ### Others
 
