@@ -45,17 +45,20 @@ Please follow this strict process:
 Analyze all comments and docstrings in the repository against the following rules.
 
 **Identify for DELETION:**
+
 - **Commented-out Code:** Any blocks of dead code left behind from previous architectural versions.
 - **Tautological/Redundant Comments:** Comments that merely repeat what the code's syntax already makes obvious to an LLM (e.g., `// loop over users`, `// return true`).
 - **Stale/Outdated Comments:** Comments referencing old architectural patterns, deprecated libraries, or removed variables that contradict the current code.
 - **Overly Verbose History:** Change logs, author names, or old timestamped notes that should live in Git history, not the source code.
 
 **Identify for RETENTION (Do not delete these):**
+
 - **The "Why":** Comments explaining _why_ a specific, non-obvious approach was taken (e.g., business logic constraints, known bugs being worked around, external API quirks).
 - **Complex Logic Explanations:** Explanations for complex Regex, bitwise operations, or highly optimized mathematical algorithms.
 - **Public API Contracts:** Essential docstrings required for exported public methods or library generation, but you may rewrite them to be strictly concise if they are overly wordy.
 
 ### 2. The Audit Report (PAUSE HERE)
+
 - **DO NOT delete or modify anything yet.**
 - Generate a structured Audit Report grouped by file.
 - For each file, summarize the types of comments you plan to delete (e.g., "Removing 4 blocks of commented-out legacy code, 12 redundant syntax comments").
@@ -63,6 +66,7 @@ Analyze all comments and docstrings in the repository against the following rule
 - Wait for my explicit approval.
 
 ### 3. Safe Execution
+
 - Once I reply with "approved", proceed to delete the identified comments.
 - Ensure that the removal of comments does not leave behind awkward whitespace, broken formatting, or empty docstring blocks.
 - Do not alter any actual executable code during this process.
@@ -76,6 +80,7 @@ Please follow this strict, systematic process using best practices for code audi
 ### 1. Discovery & Definition
 
 Scan the repository to map out the test files and the source code they cover. Identify test cases that are "irrelevant" based strictly on the following criteria:
+
 - **Orphaned Tests:** Tests covering functions, classes, components, or endpoints that have been deleted, renamed, or officially deprecated.
 - **Tautological/Trivial Tests:** Tests that assert absolute truths (e.g., `expect(true).toBe(true)`), lack any actual assertions, or merely test the testing framework/standard library instead of our business logic.
 - **Redundant Duplicates:** Tests that exercise the exact same code paths and logical conditions as other existing tests without adding new edge-case coverage.
