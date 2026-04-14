@@ -1,5 +1,5 @@
 {
-  "lastVersion": "3.2.7",
+  "lastVersion": "4.0.4",
   "aestheticStyle": "default",
   "positionStyle": "top",
   "menuCommands": [
@@ -374,5 +374,37 @@
   "toolbarIconColor": "var(--text-normal)",
   "toolbarIconSize": 18,
   "useCurrentLineForRegex": false,
+  "ai": {
+    "enabled": false,
+    "consentAccepted": false,
+    "onboardingShown": false,
+    "providerMode": "pkmer-first",
+    "enableInlineCompletion": true,
+    "completionTrigger": "manual",
+    "completionDelay": 500,
+    "enableRewrite": true,
+    "showRewriteToolbarOnSelection": false,
+    "rewriteMinSelectionLength": 1,
+    "pkmerApiBaseUrl": "https://newapi.pkmer.cn",
+    "pkmerModel": "04-fast",
+    "pkmerModelRouting": {
+      "mode": "smart",
+      "completion": "04-fast",
+      "rewrite": "04-fast",
+      "reasoning": "03-agent",
+      "artifact": "03-agent"
+    },
+    "pkmer": {
+      "tokenExpiresAt": 0,
+      "userInfo": null
+    },
+    "enableCustomModel": false,
+    "customModel": {
+      "baseUrl": "",
+      "apiKey": "",
+      "model": "",
+      "temperature": 0.2
+    }
+  },
   "commandIdsFixed": true
 }
