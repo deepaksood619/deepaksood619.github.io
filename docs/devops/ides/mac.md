@@ -197,7 +197,8 @@ https://www.google.com/inputtools
 - JSON formatter
 - Keepa - Amazon Price Tracker
 - LINER: ChatGPT Google Assistant
-- MarkDownload - Markdown Web Clipper
+- [Obsidian Web Clipper - Chrome Web Store](https://chromewebstore.google.com/detail/obsidian-web-clipper/cnjifjpddelmedmihgijeibhnjfabmlf)
+	- MarkDownload - Markdown Web Clipper
 	- [WebInk: Intelligent Web to Markdown Converter - Chrome Web Store](https://chromewebstore.google.com/detail/webink-intelligent-web-to/lhifbnmampdmdadbhpeeoikkljhiaohn)
 	- [MarkdownIt - Markdown Web Clipper - Chrome Web Store](https://chromewebstore.google.com/detail/markdownit-markdown-web-c/iofmjgmjclmdokphppphfhnnjbcddaom)
 	- [Web2Markdown - Markdown Web Clipper - Chrome Web Store](https://chromewebstore.google.com/detail/web2markdown-markdown-web/olnlijgcdflbdkcmhomlnldhcobopeeh)

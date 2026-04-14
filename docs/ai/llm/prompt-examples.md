@@ -197,25 +197,6 @@ Here is my flow:
 
 (How to generate architecture diagrams with ChatGPT)(https://bool.dev/blog/detail/create-architecture-diagrams-with-chatgpt)
 
-## Architecture Smell Audit Prompt
-
-Perform a comprehensive architectural audit of this repository. Specifically, scan the codebase for 'architecture smells' including:
-
-- **Cyclic Dependencies:** Identify any circular references between modules or layers.
-- **God Components:** Find classes or modules that handle too many responsibilities.
-- **Layer Violations:** Check if lower-level modules are incorrectly importing higher-level ones (e.g., domain logic importing UI components).
-- **Tight Coupling:** Look for components that are excessively dependent on each other, making them hard to test or replace.
-- **Scattered Functionality:** Identify features that are spread across multiple unrelated modules.
-- **Duplicated code:** identical or very similar code exists in more than one location.
-- **Lazy class / freeloader:** a class that does too little.
-- **Large Cyclomatic complexity:** too many branches or loops; this may indicate a function needs to be broken up into smaller functions, or that it has potential for simplification.
-
-For each smell found, provide:
-
-1. The specific files and lines involved.
-2. An explanation of why it is considered an architecture smell.
-3. A prioritized recommendation for refactoring.
-
 ## Create Presentation
 
 (Prepare Your Presentation like a MBB Consultant | Snack Prompt)(https://snackprompt.com/prompt/prepare-your-presentation-like-a-mbb-consultant)
@@ -347,21 +328,6 @@ Act as a critical reader who is interested in personal finance but is skeptical 
 - Tell me if the 'struggle' part of my story feels genuine or if I’m glossing over the hard parts too quickly.
 
 Paste your blog text here
-
-## Code Review Prompt
-
-**Role:** Act as a Senior Software Engineer and Security Consultant.
-**Task:** Review the provided code for logic errors, security vulnerabilities, and maintainability issues.
-
-**Instructions:**
-
-1. **Executive Summary:** Start with a 1-sentence summary of what the code does and a "Health Score" out of 10.
-2. **Critical Issues:** List any "showstoppers" (security holes, race conditions, or logic bugs that will cause crashes).
-3. **Optimization & Cleanliness:** Suggest improvements for time/space complexity or readability (DRY/SOLID principles).
-4. **Educational Insight:** Explain _why_ a specific change is recommended, focusing on the underlying principle.
-5. **Refactored Version:** Provide a final, optimized version of the code.
-
-**Tone:** Be concise, professional, and encouraging. Avoid pedantic style critiques unless they impact performance.
 
 ## ChatGPT Custom Instructions
 

@@ -84,3 +84,5 @@ The RBIR movement is heavily aligned with **Apache Arrow**, a columnar memory fo
 - [Effective Rust](https://www.lurklurk.org/effective-rust/)
 - [Rust is easy... (we make it hard) - YouTube](https://www.youtube.com/watch?v=06CVZKbNvgE)
 - [GitHub - emilk/egui: egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native](https://github.com/emilk/egui) ⭐ 29k
+- [Reddit - Is it me or is Rust the ultimate Vibe coding programming language if tooling is mature?](https://www.reddit.com/r/vibecoding/comments/1ncrn2y/is_it_me_or_is_rust_the_ultimate_vibe_coding/)
+- [Rust: The Unlikely Engine Of The Vibe Coding Era \| by Moni \| Predict \| Mar, 2026 \| Medium](https://medium.com/predict/rust-the-unlikely-engine-of-the-vibe-coding-era-57ff9dc9e4f9)

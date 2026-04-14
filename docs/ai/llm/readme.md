@@ -22,6 +22,7 @@
 - [Model Context Protocol (MCP)](ai/llm/mcp-model-context-protocol.md)
 - [Natural Language to SQL](ai/llm/natural-language-to-sql-generative-bi-genbi.md)
 - [Prompt Engineering](ai/llm/prompt-engineering.md)
+	- [coding-software-engineering-prompts](ai/llm/coding-software-engineering-prompts.md)
 	- [personal-tutor-prompt](education/personal-tutor-prompt.md)
 	- [quiz-app-prompt](education/quiz-app-prompt.md)
 	- [lovable-prompt-portfolio-website](ai/llm/lovable-prompt-portfolio-website.md)

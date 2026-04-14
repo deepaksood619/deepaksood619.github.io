@@ -63,6 +63,8 @@
 
 ## AC
 
+Voltas AC - ADJ 12 - Refers to the 1.2 Ton capacity models within the adjustable inverter lineup.
+
 - It should show current temperature
 - Split AC only
 

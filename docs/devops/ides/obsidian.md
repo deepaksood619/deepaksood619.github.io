@@ -68,6 +68,25 @@ Extensions that helps make obsidian better
 	- [GitHub - colineckert/obsidian-things: An Obsidian theme inspired by the beautifully-designed app, Things.](https://github.com/colineckert/obsidian-things) ⭐ 935
 - [GitHub - aaaaalexis/obsidian-cupertino: A native look and feel Obsidian theme designed for a clean, focused, and mobile-friendly writing experience.](https://github.com/aaaaalexis/obsidian-cupertino) ⭐ 947
 
+## Obsidian MCP Servers
+
+- [Obsidian MCP server + VScode Agent + Claude - YouTube](https://www.youtube.com/watch?v=BPGsl62rV-c)
+- [Let Claude Automate Your Obsidian Notes: Second Brain AI Agent (MCP) - YouTube](https://www.youtube.com/watch?v=VeTnndXyJQI)
+- [GitHub - MarkusPfundstein/mcp-obsidian: MCP server that interacts with Obsidian via the Obsidian rest API community plugin](https://github.com/MarkusPfundstein/mcp-obsidian) ⭐ 3.1k
+- [Obsidian MCP servers: experiences and recommendations? - Help - Obsidian Forum](https://forum.obsidian.md/t/obsidian-mcp-servers-experiences-and-recommendations/99936/6)
+- [Automate Note Generation in Obsidian with Claude Desktop and MCP Servers - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/automate-note-generation-in-obsidian-with-claude-desktop-and-mcp-servers/99542)
+- [GitHub - StevenStavrakis/obsidian-mcp: A simple MCP server for Obsidian](https://github.com/StevenStavrakis/obsidian-mcp) ⭐ 667
+- [Mind blown: MCP + Obsidian : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1hdl0cl/mind_blown_mcp_obsidian/)
+- [Writing 2,000 words in 90 minutes with Obsidian + MCP + Claude.](https://www.haihai.ai/obsidian-mcp/)
+- [AI in Obsidian: Local LLM Setup Guide in CoPilot - YouTube](https://www.youtube.com/watch?v=hOaSO_e7MYs)
+- [I started using NotebookLM with Obsidian and it’s been a game-changer](https://www.xda-developers.com/using-notebooklm-with-obsidian/)
+- Claude Code
+	- [Reddit - Is Obsidian MCP actually worth it over just using Claude Code's file tools?](https://www.reddit.com/r/ClaudeAI/comments/1olrwr9/is_obsidian_mcp_actually_worth_it_over_just_using/)
+	- [How I Use Obsidian + Claude Code to Run My Life - YouTube](https://www.youtube.com/watch?v=6MBq1paspVU)
+	- `/trace-demo how i use obsidian`
+	- [Obsidian + AI: How to Do It The Right Way (Claude Code + Obsidian) - YouTube](https://www.youtube.com/watch?v=a1FDaoF8Jog)
+	- [Andrej Karpathy Just 10x’d Everyone’s Claude Code - YouTube](https://www.youtube.com/watch?v=sboNwYmH3AY)
+
 ## Obsidian Shortcuts
 
 | **Todo**                       | **Shortcut**                         |

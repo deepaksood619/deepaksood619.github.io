@@ -97,6 +97,8 @@
 
 ## Personal Projects
 
+- [28-woocommerce-ai-assistant-technical-deep-dive](about-deepak-sood/projects/28-woocommerce-ai-assistant-technical-deep-dive.md)
+- [29-woocommerce-ai-assistant-product-journey](about-deepak-sood/projects/29-woocommerce-ai-assistant-product-journey.md)
 - [Interview - Datainsight Alerting Engine](about-deepak-sood/projects/70-interview-datainsight-alerting-engine.md) (Nov'2023)
 - [GitHub - deepaksood619/react-shopping-cart](https://github.com/deepaksood619/react-shopping-cart) ⭐ 0 (May'21)
 - [GitHub - deepaksood619/FCC-Weather-App: FreeCodeCamp Weather Application Project](https://github.com/deepaksood619/FCC-Weather-App) ⭐ 0  [FCC-Weather-App](https://codepen.io/deepaksood619/full/rpyRbZ) (Jan'18)
