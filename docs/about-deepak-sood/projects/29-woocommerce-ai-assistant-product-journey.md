@@ -13,7 +13,9 @@ This project transforms complex e-commerce operations into natural dialogue. Ins
 Ask "add a new product called Vintage Camera for $299" - the AI creates it with proper metadata, pricing, and inventory setup. No forms, no fields, no documentation lookup.
 
 ### Intelligent Catalog Health Analysis
+
 Request "score my product catalog" - the AI analyzes every product across multiple quality dimensions:
+
 - **Sellable Score**: Can customers actually buy this? (price, stock, checkout readiness)
 - **Discovery Score**: Can customers find this? (SEO, categorization, descriptions)
 - **Operations Score**: Can you manage this? (SKU organization, variants, metadata quality)
@@ -21,9 +23,11 @@ Request "score my product catalog" - the AI analyzes every product across multip
 Each product gets a detailed health report with actionable recommendations.
 
 ### Platform Knowledge Assistant
+
 Ask "how do I set up WooCommerce subscriptions?" - the AI searches its knowledge base and returns step-by-step guides with direct deep links to the exact settings pages. No more hunting through docs.
 
 ### Real-Time Chat Experience
+
 - Token-by-token streaming for instant feedback
 - See tool execution in real-time (when AI is calling WooCommerce API)
 - Branching conversations - edit any message and regenerate from that point
@@ -45,41 +49,49 @@ Every feature emerged from conversational prompting with Claude Code. No traditi
 ## Milestone Timeline
 
 ### Week 1: Foundation Sprint
+
 **Goal:** Working chat with WooCommerce integration
 
 **Day 1-2: Multi-Agent Architecture**
+
 - Designed router/supervisor pattern through conversation
 - Claude Code scaffolded 4 specialist agents
 - Integrated WooCommerce API via MCP protocol
 - Result: AI could answer questions and execute product actions
 
 **Day 3-4: Memory & Context**
+
 - Added long-term memory via vector embeddings
 - Conversations became contextual (AI remembers past interactions)
 - State persistence enabled multi-session threads
 
 **Day 5-7: Real-Time Chat Interface**
+
 - WebSocket streaming for instant feedback
 - Tool call visualization (see what AI is doing)
 - Session management with JWT auth
 - Result: Production-ready chat experience
 
 ### Week 2: Intelligence & Polish
+
 **Goal:** Make it genuinely useful for merchants
 
 **Day 8-10: Catalog Health Agent**
+
 - Built LLM-driven product scoring system
 - Multi-dimensional analysis (Sellable, Discovery, Operations)
 - Actionable recommendations engine
 - Result: Unique product intelligence feature
 
 **Day 11-13: Knowledge Base (Agentic RAG)**
+
 - Ingested platform documentation into vector DB
 - Built retrieval agent with citation support
 - Deep link generation to exact help pages
 - Result: Instant platform expertise without leaving chat
 
 **Day 14: Advanced Chat Features**
+
 - Message branching UI (edit & regenerate)
 - Clarification question flow with suggested responses
 - Accessibility improvements (WCAG 2.1 AA)
@@ -90,6 +102,7 @@ Every feature emerged from conversational prompting with Claude Code. No traditi
 **Feature Request:** "Users should be able to edit any message and regenerate the conversation from that point"
 
 **Traditional Development Estimate:** 2-3 days
+
 - Design message tree data structure
 - Update backend state management
 - Build frontend branching UI
@@ -97,6 +110,7 @@ Every feature emerged from conversational prompting with Claude Code. No traditi
 - Test across scenarios
 
 **Vibe Coding Reality:** 4 hours
+
 1. **Describe to Claude Code:** "I want message branching like ChatGPT - edit any message and fork from there"
 2. **Claude generates plan:** State schema update, API changes, UI components
 3. **Execute plan:** Claude writes code, runs tests, creates atomic commits
@@ -104,6 +118,7 @@ Every feature emerged from conversational prompting with Claude Code. No traditi
 5. **Ship:** Feature live same day
 
 **Why so fast?**
+
 - No context switching (stayed in conversation)
 - Architecture decisions made by AI based on existing patterns
 - Implementation details handled automatically
@@ -124,11 +139,13 @@ Every feature emerged from conversational prompting with Claude Code. No traditi
 ### Iteration Philosophy
 
 **Product-First Thinking:**
+
 - Every technical decision started with "what does the user need?"
 - Architecture emerged from product requirements, not the other way around
 - GSD workflows kept focus on "does this solve the problem?" before "is this perfectly engineered?"
 
 **Fast Feedback Loops:**
+
 - Build → Test → Learn → Iterate cycles measured in hours, not sprints
 - Conversational development meant no context loss between iterations
 - Claude Code's memory meant incremental improvements built on previous context
@@ -137,7 +154,7 @@ Every feature emerged from conversational prompting with Claude Code. No traditi
 
 ### What "Vibe Coding" Meant in Practice
 
-**Traditional:** Write detailed spec → Architect solution → Implement → Debug → Refactor → Ship  
+**Traditional:** Write detailed spec → Architect solution → Implement → Debug → Refactor → Ship
 
 **Vibe Coding:** Describe what you want → Claude builds it → Test → Describe changes → Ship
 
@@ -156,6 +173,7 @@ No PRDs. No Jira tickets. No context switching. Just collaborative building.
 ### Quality Didn't Suffer
 
 **Built-in Best Practices:**
+
 - Type safety (Pydantic + TypeScript) from day 1
 - Structured logging for debugging
 - Error handling with user-friendly messages
@@ -166,16 +184,19 @@ GSD workflows enforced verification loops - Claude Code wouldn't move to the nex
 ## Impact Metrics (If This Were Production)
 
 **Developer Velocity:**
+
 - Traditional estimate: 6-8 weeks for MVP
 - Actual: 2 weeks to production-ready
 - 75% time savings through AI-assisted development
 
 **Code Quality:**
+
 - 100% type-safe (Pydantic + TypeScript)
 - Zero SQL injection vulnerabilities (parameterized queries)
 - Full observability from launch (Langfuse integration)
 
 **User Experience:**
+
 - Sub-second response times for most queries
 - 95%+ uptime (stateless design, connection pooling)
 - Accessible (WCAG 2.1 AA compliance)
@@ -198,11 +219,13 @@ GSD workflows enforced verification loops - Claude Code wouldn't move to the nex
 ### Why This Showcases Modern AI Development
 
 **It's a Meta Demonstration:**
+
 - AI system built by AI (Claude Code using GSD workflows)
 - Shows both the product (AI assistant) and the process (vibe coding)
 - Proves you can move fast without sacrificing quality
 
 **Transferable Learnings:**
+
 - Multi-agent patterns work for complex domains
 - Streaming UX is now table-stakes for AI products
 - Type safety + observability prevent "debug hell" at scale
@@ -210,6 +233,7 @@ GSD workflows enforced verification loops - Claude Code wouldn't move to the nex
 ## The Future (If We Kept Building)
 
 **Next Milestones:**
+
 - Voice interface (Deepgram + ElevenLabs)
 - Predictive analytics (AI notices trends in catalog)
 - Automated workflows (AI suggests and executes optimizations)
@@ -219,8 +243,8 @@ GSD workflows enforced verification loops - Claude Code wouldn't move to the nex
 
 ---
 
-- **Project Type:** Production-ready AI product  
+- **Project Type:** Production-ready AI product
 - **Development Time:** 2 weeks
-- **Methodology:** Vibe coding with GSD workflows via Claude Code  
-- **Key Innovation:** Merchant-first AI that acts, not just answers  
+- **Methodology:** Vibe coding with GSD workflows via Claude Code
+- **Key Innovation:** Merchant-first AI that acts, not just answers
 - **Showcase Value:** Demonstrates rapid AI product development without sacrificing quality

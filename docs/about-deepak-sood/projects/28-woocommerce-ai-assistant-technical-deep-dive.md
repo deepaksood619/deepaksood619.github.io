@@ -8,7 +8,7 @@ A production-ready, multi-agent AI system that brings conversational intelligenc
 
 ## Development Approach
 
-**Built with:** Claude Code + GSD Workflows (Get Stuff Done)  
+**Built with:** Claude Code + GSD Workflows (Get Stuff Done)
 
 **Methodology:** Vibe coding - product-first thinking with AI-assisted architecture
 
@@ -19,11 +19,13 @@ Every feature was developed through conversational prompting, leveraging GSD's s
 ### Multi-Agent System Design
 
 **Router/Supervisor Pattern**
+
 - Central orchestrator classifies user intent and delegates to specialist agents
 - Dynamic routing based on query analysis and conversation context
 - Automatic fallback chains for graceful degradation
 
 **Specialist Agents**
+
 - **Action Execution Agent**: Product/order CRUD operations via WooCommerce API
 - **Catalog Health Agent**: LLM-driven product quality scoring across multiple dimensions
 - **Knowledge Base Agent**: Agentic RAG system for platform documentation
@@ -32,11 +34,13 @@ Every feature was developed through conversational prompting, leveraging GSD's s
 ### State Management & Persistence
 
 **LangGraph Checkpointer + PostgreSQL**
+
 - Conversation state persisted per thread with automatic serialization
 - Resume conversations across sessions without context loss
 - Branching conversation support with message tree navigation
 
 **Long-Term Memory (mem0ai + pgvector)**
+
 - Semantic memory storage with vector embeddings
 - Automatic context retrieval based on conversation relevance
 - User preference learning over time
@@ -44,6 +48,7 @@ Every feature was developed through conversational prompting, leveraging GSD's s
 ### Real-Time Communication Stack
 
 **WebSocket + SSE Hybrid**
+
 - Token-by-token streaming for instant feedback
 - Tool call visualization during execution
 - Bidirectional events for clarification questions
@@ -53,16 +58,19 @@ Every feature was developed through conversational prompting, leveraging GSD's s
 ### LLM Resilience & Optimization
 
 **Multi-Model Fallback Strategy**
+
 - Circular fallback across OpenAI models (GPT-4 → GPT-4-Turbo → GPT-3.5-Turbo)
 - Automatic retry with exponential backoff via Tenacity
 - Rate limit handling with queue-based throttling
 
 **Prompt Engineering**
+
 - Langfuse-hosted prompt versioning with A/B testing capability
 - Structured output parsing with Pydantic validation
 - Context window optimization through dynamic summarization
 
 **Observability**
+
 - Full LLM trace collection via Langfuse
 - Token usage tracking per agent and tool call
 - Latency metrics for optimization feedback loops
@@ -70,6 +78,7 @@ Every feature was developed through conversational prompting, leveraging GSD's s
 ### Tech Stack
 
 **Backend Core**
+
 - **FastAPI** - High-performance async API framework
 - **LangGraph** - Agent workflow orchestration with state machines
 - **LangChain** - LLM abstraction and tool integration
@@ -79,12 +88,14 @@ Every feature was developed through conversational prompting, leveraging GSD's s
 - **Langfuse** - LLM observability platform
 
 **Frontend Core**
+
 - **Next.js 16** - React framework with app router
 - **assistant-ui** - Production-ready chat components
 - **TailwindCSS + Radix UI** - Accessible, composable UI system
 - **WebSocket Client** - Real-time bidirectional messaging
 
 **Infrastructure**
+
 - **Docker + Docker Compose** - Containerized deployment
 - **uv** - Blazing fast Python package manager
 - **structlog** - Structured JSON logging
@@ -93,26 +104,31 @@ Every feature was developed through conversational prompting, leveraging GSD's s
 ### Key Optimizations
 
 **1. Connection Pool Tuning**
+
 - PostgreSQL connection pool sized per environment (dev: 5, prod: 20)
 - Connection recycling every 30 minutes prevents stale connections
 - Graceful degradation when pool unavailable (logs warning, continues)
 
 **2. Async-First Architecture**
+
 - Fully async database operations with asyncpg
 - Non-blocking LLM calls with streaming
 - Background task processing with asyncio
 
 **3. Smart Memory Retrieval**
+
 - Semantic search limited to top-k relevant memories (default: 5)
 - Hybrid retrieval: vector similarity + recency weighting
 - Memory updates batched and async to avoid blocking chat
 
 **4. Streaming Optimizations**
+
 - Chunked token delivery (every 5-10 tokens for perceived speed)
 - Tool call streaming with partial result visualization
 - SSE keepalive prevents connection timeouts
 
 **5. Error Boundary Design**
+
 - Agent failures isolated per workflow node
 - Supervisor catches agent errors and routes to fallback
 - Frontend retry logic with user-visible status
@@ -134,21 +150,25 @@ Response Streaming → State Checkpoint → Client Update
 ### Security & Reliability
 
 **Authentication**
+
 - JWT-based auth with refresh token rotation
 - Session-scoped access control
 - Token expiry with automatic renewal
 
 **Input Validation**
+
 - Pydantic schema validation on all inputs
 - SQL injection prevention via parameterized queries
 - XSS protection through sanitization utilities
 
 **Rate Limiting**
+
 - Per-user request throttling via SlowAPI
 - Redis-backed distributed rate limiting
 - Configurable limits per endpoint
 
 **Error Handling**
+
 - Structured exception hierarchy with HTTPException
 - Context-aware logging with request tracing
 - User-friendly error messages (never expose internals)
@@ -156,17 +176,20 @@ Response Streaming → State Checkpoint → Client Update
 ## Development Velocity Highlights
 
 **Built with GSD Workflows:**
+
 - Phase-based development with automatic plan generation
 - Verification loops before merging (goal-backward validation)
 - Atomic git commits per task for clean history
 
 **Iteration Speed:**
+
 - Entire multi-agent system scaffolded in 2 days
 - WebSocket real-time chat added in 1 day
 - Frontend chat UI with branching in 2 days
 - Production optimizations iterated over 1 week
 
 **Quality Maintenance:**
+
 - Type safety enforced via Pydantic + TypeScript
 - Structured logging from day 1
 - Langfuse observability integrated early for debugging
@@ -183,7 +206,7 @@ Response Streaming → State Checkpoint → Client Update
 
 ---
 
-- **Tech Snapshot:** Python 3.13, FastAPI, LangGraph, Next.js 16, PostgreSQL 16, OpenAI GPT-4, WebSockets, Docker  
-- **Development Time:** ~2 weeks from zero to production-ready  
-- **Built By:** Developer + Claude Code (Opus 4.6) using GSD workflows  
+- **Tech Snapshot:** Python 3.13, FastAPI, LangGraph, Next.js 16, PostgreSQL 16, OpenAI GPT-4, WebSockets, Docker
+- **Development Time:** ~2 weeks from zero to production-ready
+- **Built By:** Developer + Claude Code (Opus 4.6) using GSD workflows
 - **Deployment:** Docker Compose → Cloud VM (single-command deploy)
