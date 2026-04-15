@@ -113,6 +113,26 @@ const config = {
         },
         items: [
           {
+            to: '/about-deepak-sood',
+            position: 'left',
+            label: 'About Me',
+          },
+          {
+            to: '/ai/llm',
+            position: 'left',
+            label: 'LLM Notes',
+          },
+          {
+            to: '/databases',
+            position: 'left',
+            label: 'Databases',
+          },
+          {
+            to: '/economics',
+            position: 'left',
+            label: 'Economics',
+          },
+          {
             href: 'https://github.com/deepaksood619',
             label: 'GitHub',
             position: 'right',

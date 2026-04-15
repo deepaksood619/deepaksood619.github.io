@@ -5,6 +5,7 @@ npx create-docusaurus@latest my-website classic
 
 cd my-website
 
+# Make sure to stop drive if sync is on, otherwise it will sync node_modules too
 npm start
 
 # npx docusaurus start
@@ -22,6 +23,7 @@ npm install --save @docusaurus/plugin-google-gtag
 
 npm install --save @docusaurus/plugin-ideal-image
 
+# Make sure to stop drive if sync is on, otherwise it will sync node_modules too
 # Build and serve
 npm run build
 npm run serve
@@ -75,6 +77,8 @@ npx docusaurus-mdx-checker
 ```
 
 ### Upgrading minor versions
+
+**Make sure to stop drive if sync is on, otherwise it will sync node_modules too**
 
 To upgrade a minor version in Docusaurus v3, simply open your `package.json` file, locate the `"@docusaurus/core"` dependency, and change the minor version number to the desired one, then run `npm install` or `yarn install` to install the updated version and its dependencies; ensure all "@docusaurus" packages are updated to the same minor version for consistency.
 
