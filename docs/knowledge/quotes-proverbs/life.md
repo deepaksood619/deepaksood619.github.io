@@ -1208,7 +1208,7 @@ You can attract luck simply by sharing your work publicly.
 
 **The Luck Matrix**
 
-![The Luck Matrix](media/Screenshot%202026-04-11%20at%2011.45.05%20AM.png)
+![The Luck Matrix](../../media/Screenshot%202026-04-11%20at%2011.45.05%20AM.png)
 
 [Zemblanity: When Bad Luck Is Built In \| Psychology Today](https://www.psychologytoday.com/us/blog/connect-the-dots/202603/zemblanity-when-bad-luck-is-built-in)
 
