@@ -58,3 +58,4 @@ Available in C, C++, Go, Java, and Rust. For batch ETL or small datasets, regula
 - [QuackETL\| DuckDB-Powered Lightweight ETL: An Extensible Framework for Seamless Data Integration - YouTube](https://youtu.be/fo7-rRRVHf8)
 - [DuckDB in 100 Seconds - YouTube](https://www.youtube.com/watch?v=uHm6FEb2Re4&ab_channel=Fireship)
 - [Announcing DuckDB 1.4.2 LTS – DuckDB](https://duckdb.org/2025/11/12/announcing-duckdb-142)
+- [Distributed DuckDB - dual execution and differential storage | Github - citguru/openduck](https://github.com/citguru/openduck)

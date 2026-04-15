@@ -162,6 +162,7 @@ workspace.json
 # git update-index --assume-unchanged docs/.obsidian/plugins/recent-files-obsidian/data.json
 data.json
 graph.json
+.claude
 
 # personal wikis
 office
