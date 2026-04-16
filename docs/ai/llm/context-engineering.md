@@ -143,7 +143,7 @@ Instead of one agent trying to handle everything in a single bloated context win
 
 [Anthropic demonstrated this with their multi-agent research system](https://www.anthropic.com/engineering/building-effective-agents), where a lead Opus 4 agent delegated sub-tasks to Sonnet 4 sub-agents. The system achieved a 90.2% improvement over a single Opus 4 agent on research tasks, despite using the same underlying model family. The entire performance gain came from how context was managed, not from a more powerful model.
 
-![](https://substackcdn.com/image/fetch/$s_!hrla!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ce09eed-d88b-456b-a7c3-3ee5929a6067_4002x2368.png)
+![image](https://substackcdn.com/image/fetch/$s_!hrla!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ce09eed-d88b-456b-a7c3-3ee5929a6067_4002x2368.png)
 
 ## Tradeoffs
 

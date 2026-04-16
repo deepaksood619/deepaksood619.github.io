@@ -135,7 +135,7 @@ Every feature was developed through conversational prompting, leveraging GSD's s
 
 ### Data Flow Architecture
 
-```
+```bash
 User → WebSocket/HTTP → Auth Middleware → Rate Limiter
   ↓
 Session Validation → Thread Retrieval → Memory Loading

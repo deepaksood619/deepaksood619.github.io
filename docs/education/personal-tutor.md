@@ -266,6 +266,39 @@ The cognitive core and memory system in effect can give us an infinite context w
 	- Human psychology is very important.
 - Teachers are very important part and you have to focus more on teaching teachers rather than teaching students.
 
+## Creating EdTech Startup Thoughts
+
+**Since if singularity is close, there is no point in making it**
+
+Start with market research, what exists, etc
+
+College killer, paid education killer, coaching killer
+
+Pay only what you use in infrastructure
+Like tokens etc
+Pay only if you like it
+
+Try this for 2 days, if you still think you need college then let's talk, we will fund your college, click bait
+
+Run google meta ads
+Raise VC funding
+Focus on getting job and skills, no degree etc required.
+Always focus on getting you interview ready, skill gap closure
+
+Start with question - how much you want to earn
+
+Notification
+Email
+Analytics
+
+Highly personalized
+
+What youwant to learn, what you will get paid upfront
+Motivate with money
+Learn everything about the student
+
+Problem with chatgpt, they don't remember everything about you long term
+
 ## Education Mobile phones
 
 - Give mobile phones / laptop to children, with all reports of usage gone back to teachers

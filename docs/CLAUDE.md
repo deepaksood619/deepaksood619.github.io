@@ -1,4 +1,4 @@
-# CLAUDE.md
+# claude.md
 
 Guidance for working with Obsidian vault in `/docs` using CLI.
 

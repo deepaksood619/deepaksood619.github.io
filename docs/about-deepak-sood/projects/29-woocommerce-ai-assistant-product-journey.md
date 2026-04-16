@@ -160,7 +160,7 @@ Every feature emerged from conversational prompting with Claude Code. No traditi
 
 **Example Conversation:**
 
-```
+```bash
 Me: "The chat should stream responses token by token like ChatGPT"
 Claude: "I'll implement SSE streaming with WebSocket fallback. Here's the plan..."
 [10 minutes later]
