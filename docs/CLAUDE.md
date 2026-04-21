@@ -273,6 +273,104 @@ Dual-purpose: Obsidian vault + Docusaurus site source.
 3. Validate: `npm run build` (fails on broken links)
 4. Commit → auto-deploy to GitHub Pages
 
+## Markdown Writing Guidelines for Docusaurus
+
+**CRITICAL:** Obsidian renders markdown differently than Docusaurus. Follow these rules to ensure proper rendering on the website.
+
+### Blank Lines & Spacing
+
+**Always use blank lines between:**
+
+- Paragraphs (two consecutive lines without blank line = single line in Docusaurus)
+- After headings (heading immediately followed by text may render incorrectly)
+- Before and after lists
+- Before and after code blocks
+- Before and after tables
+- Before and after blockquotes
+
+**Example:**
+
+```markdown
+# Heading
+
+Paragraph 1 here.
+
+Paragraph 2 here.
+
+- List item 1
+- List item 2
+
+More content.
+```
+
+❌ **Wrong (renders as single line):**
+
+```markdown
+Line 1
+Line 2
+```
+
+✅ **Correct (renders as two paragraphs):**
+
+```markdown
+Line 1
+
+Line 2
+```
+
+### Code Blocks
+
+**Always specify language for syntax highlighting:**
+
+```markdown
+# Good
+​```python
+def hello():
+    print("world")
+​```
+
+​```bash
+npm start
+​```
+
+​```javascript
+const x = 1;
+​```
+
+# Bad (no syntax highlighting)
+​```
+code here
+​```
+```
+
+**Supported languages:** python, bash, javascript, typescript, java, go, rust, sql, json, yaml, xml, markdown, jsx, tsx, shell, sh, etc.
+
+### MDX compatibility:
+
+- don't use `[]` square brackets without escape, since these are used by obsidian/html for links/anchor tags
+
+### Additional Best Practices
+
+**Links:**
+
+- Use relative paths for internal links
+- Standard markdown syntax only (no wikilinks)
+
+**Images:**
+
+- Store in `/docs/media/`
+- Use relative paths: `![alt](../media/image.png)`
+- Optimize size before committing
+
+**Mermaid diagrams:**
+
+```markdown
+​```mermaid
+graph TD
+    A[Start] --> B[End]
+​```
+```
+
 ## Preferences
 
 - **Link format:** Standard markdown only (never wikilinks)
@@ -280,6 +378,8 @@ Dual-purpose: Obsidian vault + Docusaurus site source.
 - **Frontmatter:** Optional (Docusaurus generates titles)
 - **Diagrams:** Mermaid syntax in code blocks
 - **Images:** Relative paths to `/docs/media/`
+- **Spacing:** Blank lines between all content blocks
+- **Code blocks:** Always specify language
 
 ## Important Guidelines
 

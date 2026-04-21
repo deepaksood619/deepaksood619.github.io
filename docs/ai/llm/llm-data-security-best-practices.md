@@ -11,6 +11,7 @@ With growing AI adoption, employees increasingly upload sensitive data to public
 **Solution:** Build/buy internal interface. Users interact with company-hosted web app that sends requests to LLM providers via Enterprise APIs (Azure OpenAI, AWS Bedrock) rather than consumer accounts.
 
 **Why it works:**
+
 - Enterprise APIs offer Zero Data Retention (ZDR) policies
 - Provider doesn't train models on your data
 - Centralizes data flow control
@@ -18,6 +19,7 @@ With growing AI adoption, employees increasingly upload sensitive data to public
 **Key principle:** "If you don't provide secure front door, employees climb through back window. Give them internal UI that looks like ChatGPT but uses secure API backend."
 
 **Architecture:**
+
 ```bash
 User → Internal Web App → Enterprise API (Azure OpenAI/AWS Bedrock) → LLM
          ↓
@@ -31,6 +33,7 @@ User → Internal Web App → Enterprise API (Azure OpenAI/AWS Bedrock) → LLM
 **Solution:** Use RAG. Keep sensitive documents in secure internal Vector Database (Pinecone, Milvus, Weaviate). When user asks question, system searches database first and sends only relevant snippet to LLM.
 
 **Why it works:**
+
 - Never upload entire knowledge base to cloud
 - Only send small contextual fragments per session
 - Keep data sovereignty
@@ -38,6 +41,7 @@ User → Internal Web App → Enterprise API (Azure OpenAI/AWS Bedrock) → LLM
 **Key principle:** "RAG is like giving AI a library card instead of making it memorize whole library. You keep library; AI just reads book you hand it."
 
 **Architecture:**
+
 ```bash
 User Query → Embedding → Vector DB Search → Relevant Docs → LLM Context → Response
                               ↓
@@ -51,34 +55,40 @@ User Query → Embedding → Vector DB Search → Relevant Docs → LLM Context 
 **Solution:** Implement automated middleware layer. Insert Redaction Service (Microsoft Presidio, Amazon Comprehend) into data pipeline. Before prompt leaves network, service scans for PII and masks it.
 
 **Example transformation:**
+
 - Before: "John Doe's salary is $100k"
 - After: `[PERSON]`'s salary is `[MONEY]`
 
 **Key principle:** "Architecture should assume users will make mistakes. Build 'scrubber' that catches sensitive strings before they leave environment."
 
 **Architecture:**
-```
+
+```bash
 User Input → PII Scanner → Masked Prompt → LLM → Response → Re-hydration (if needed) → User
 ```
 
 ## Data Protection Layers
 
 ### Deploy Private LLM Instances
+
 - On-prem or VPC deployment for sensitive data
 - Skip public APIs for customer/financial data
 - Separate instances per security zone (prod/dev isolation)
 
 ### Data Classification at Source
+
 - Tag PII/secrets at ingestion
 - Block classified data from LLM pipelines
 - Use synthetic data for testing/experimentation
 
 ### Access Controls (RBAC)
+
 - Role-based data access (sales team sees sales data only)
 - Verify permissions before RAG retrieval
 - No cross-department data leakage
 
 ### Masking & Tokenization
+
 - Replace SSNs, credit cards before LLM sees text
 - Reverse mapping on output if needed
 - Ephemeral contexts (clear conversation memory after session)
@@ -100,11 +110,13 @@ User Input → PII Scanner → Masked Prompt → LLM → Response → Re-hydrati
 ## Monitoring & Visibility
 
 ### Audit Everything
+
 - Log all prompts internally
 - Track: what data entered LLM, who submitted, when
 - Alert on anomalies (spike in sensitive uploads)
 
 ### DLP Integration
+
 - Desktop DLP agents block copy-paste to public ChatGPT
 - Flag uploads with regex patterns (card numbers, API keys)
 - Network-level monitoring
@@ -114,15 +126,18 @@ User Input → PII Scanner → Masked Prompt → LLM → Response → Re-hydrati
 ## Employee Controls
 
 ### Provide Approved Tools
+
 - Corporate LLM instances reduce shadow IT
 - Balance security vs usability
 - Make approved tool useful enough that employees prefer it
 
 ### Training & Examples
+
 - Bad: Pasting customer contract
 - Good: Anonymized query
 
 ### Desktop Security
+
 - DLP agents block classified doc uploads
 - Network segmentation (LLM infra on isolated subnet)
 - Cannot reach customer DB directly
@@ -159,12 +174,15 @@ Audit Log
 ## Common Pitfalls
 
 **Over-locking:** Employees use public ChatGPT because company LLM too restrictive.
+
 - **Fix:** Balance security with usability
 
 **No visibility:** Can't detect data leaks without logging.
+
 - **Fix:** Comprehensive audit trails
 
 **Wrong abstraction:** Fine-tuning instead of RAG.
+
 - **Fix:** Default to RAG unless specific need proven
 
 ## Summary Principles
