@@ -4,6 +4,86 @@
 
 With the growing use of Al tools like GPT and Claude, many employees - especially in smaller companies - end up uploading sensitive company data into these platforms from their desktops. From a data architecture perspective, what are some simple best practices organisations should follow when integrating LLMs into their systems so that sensitive data remains protected?
 
+[llm-data-security-best-practices](ai/llm/llm-data-security-best-practices.md)
+
+### 1. The "Internal Proxy" Pattern
+
+Instead of allowing employees to go directly to `chatgpt.com` or `claude.ai`, build or buy a simple internal interface (a "Private Playground").
+
+- **Architecture:** Users interact with a company-hosted web app. This app sends requests to LLM providers via **Enterprise APIs** (like Azure OpenAI or AWS Bedrock) rather than consumer accounts.
+- **Why it works:** Enterprise APIs typically offer "Zero Data Retention" (ZDR) policies, meaning the provider does not use your data to train their models. It centralizes where data goes.
+- **Talking Pointer:** _"If you don't provide a secure front door, employees will climb through the back window. Give them an internal UI that looks like ChatGPT but uses a secure API backend."_
+
+### 2. Retrieval-Augmented Generation (RAG) over Fine-Tuning
+
+Small companies often think they need to "train" a model on their data. From an architecture perspective, this is risky and expensive.
+
+- **Architecture:** Use **RAG**. Keep your sensitive documents in a secure, internal Vector Database (like Pinecone, Milvus, or Weaviate). When a user asks a question, the system searches your database first and sends only the relevant snippet to the LLM.
+- **Why it works:** You aren't "uploading" your entire knowledge base to the cloud. You are only sending small, contextual fragments for a single session.
+- **Talking Pointer:** _"RAG is like giving the AI a library card instead of making it memorize the whole library. You keep the library; the AI just reads the book you hand it."_
+
+### 3. The "Cleaning Station" (PII Redaction Layer)
+
+Implement an automated middleware layer between the user and the LLM.
+
+- **Architecture:** Insert a **Redaction Service** (like Microsoft Presidio or Amazon Comprehend) into your data pipeline. Before a prompt leaves your network, the service scans for PII (names, SSNs, credit card numbers) and masks them.
+- **Example:** "John Doe's salary is $100k" becomes "PERSON's salary is MONEY."
+- **Talking Pointer:** _"Architecture should assume users will make mistakes. Build a 'scrubber' that catches sensitive strings before they ever leave your environment."_
+
+### Talking Pointers
+
+- **The "API vs. App" Rule:** Most consumer apps (the websites) use your data to train; most enterprise APIs do not. **Architect for APIs.**
+- **Data Sovereignty:** Use "Regional Hosting." If you're a European company, ensure your API endpoint is in an EU region to avoid cross-border data transfer issues.
+- **RBAC (Role-Based Access Control):** Just because an AI _can_ read all company files doesn't mean it _should_. Your architecture must verify if "User A" has permission to see "File B" before the RAG system retrieves it for a prompt.
+- **Visibility is Security:** You cannot protect what you cannot see. Log all prompts (internally!) to audit for "prompt leakage" or risky employee behavior.
+
+### Others
+
+**Architecture Layer**
+
+- Deploy private LLM instances (on-prem/VPC). Skip public APIs for sensitive data.
+- Use data classification. Tag PII/secrets at source. Block from LLM ingestion.
+- Implement proxy layer. Sanitize prompts before LLM. Strip customer IDs, credentials, financials.
+- Enable prompt injection detection. Filter malicious inputs attempting data extraction.
+
+**Access Controls**
+
+- Role-based data access. Sales team LLM sees sales data only. No cross-department leakage.
+- Deploy separate LLM instances per security zone. Production data never touches dev LLM.
+- Use zero data retention agreements with vendors. Anthropic/OpenAI offer enterprise tiers with no training.
+
+**Data Handling**
+
+- Synthetic data for testing. Generate fake customer records for LLM experimentation.
+- Masking/tokenization. Replace SSNs, credit cards before LLM sees text. Reverse on output if needed.
+- Ephemeral contexts. Conversation memory cleared after session. No persistent storage.
+
+**Monitoring**
+
+- Audit logs. Track what data entered LLM, who submitted, when.
+- DLP (Data Loss Prevention) integration. Flag uploads containing regex patterns (card numbers, API keys).
+- Alert on anomalies. Spike in sensitive data uploads = investigation.
+
+**Employee Controls**
+
+- Desktop DLP agents. Block copy-paste of classified docs into ChatGPT/Claude web.
+- Corporate LLM instances. Give employees approved tool. Reduce shadow IT usage.
+- Training. Show examples of bad (pasting customer contract) vs good (anonymized query).
+
+**Simple Wins**
+
+- Start with read-only LLM. Retrieval/analysis only. No write-back to databases.
+- Use RAG over embeddings. Pre-filter documents before indexing. Exclude /office, /hr, /legal.
+- Network segmentation. LLM infra on isolated subnet. Cannot reach customer DB directly.
+
+**Real Example Pattern**
+
+User → Proxy (strips PII) → LLM → Response → Proxy (re-hydrates if needed) → User
+
+**Common Pitfall**
+
+Employees use public ChatGPT because company LLM too locked down. Balance security vs usability. Make approved tool useful enough.
+
 [GARiME (Governance, Assurance and Risk Management Excellence)](https://garime.org/)
 
 ## Session: Building End-to-End Products using AI (23 Nov 2025)

@@ -34,6 +34,7 @@
 - [Code Generators](ai/llm/code-generators-coding-generators.md)
 	- [claude-code](ai/llm/claude-code.md)
 - [LLM FinTech Use Cases](ai/llm/fintech-use-cases.md)
+- [llm-data-security-best-practices](ai/llm/llm-data-security-best-practices.md)
 - [Ethics](ai/llm/ethics.md)
 
 ## Questions / Problem Statements / Hackathons
