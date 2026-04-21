@@ -82,6 +82,19 @@ Based on March 2026 data, **GPT-5.4-mini is a newer, more advanced "small" mod
 	- [What's new in Claude 4.6 - Claude API Docs](https://platform.claude.com/docs/en/about-claude/models/whats-new-claude-4-6)
 	- [Claude Opus 4.6 Review: Is This the Best AI for Writing Books in 2026? - YouTube](https://www.youtube.com/watch?v=wYUBkgTHBEg)
 	- [Sonnet 4.6 Is Here—And It’s a Beast at Coding - YouTube](https://www.youtube.com/watch?v=9XFY8tB_8ZQ)
+- [Claude Mythos Preview \\ red.anthropic.com](https://red.anthropic.com/2026/mythos-preview/)
+	- [Claude Mythos is too dangerous for public consumption... - YouTube](https://www.youtube.com/watch?v=d3Qq-rkp_to)
+	- [Building AI defenses at scale: Before the threats emerge \| AWS Security Blog](https://aws.amazon.com/blogs/security/building-ai-defenses-at-scale-before-the-threats-emerge/)
+	- [Amazon Bedrock now offers Claude Mythos Preview (Gated Research Preview) - AWS](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-claude-mythos/)
+- [Introducing Claude Opus 4.7 \\ Anthropic](https://www.anthropic.com/news/claude-opus-4-7)
+	- [What's new in Claude Opus 4.7 - Claude API Docs](https://platform.claude.com/docs/en/about-claude/models/whats-new-claude-4-7)
+	- New Technical Features & Capabilities
+		- **Literal Prompt Interpretation:** 4.7 follows instructions more precisely than 4.6, which tended to "read between the lines." While this improves predictability, it may require re-tuning existing prompts.
+		- **Improved Memory:** Better at using file system-based memory to remember notes across long, multi-session workflows.
+		- **Self-Verification:** Demonstrates a new behavior of performing proofs on systems code and verifying its own output before reporting back.
+		- **Autonomy:** Solves **3x more production tasks**
+		- **Token Cost:** While pricing remains the same at $5/M input and $25/M output tokens, the model uses an updated tokenizer that increases the total token count by 1.0x to 1.35x for the same input text.
+	- Opus 4.7 is currently Anthropic's most capable _generally available_ model, but it is "broadly less capable" than the **Claude Mythos Preview**. Anthropic deliberately reduced 4.7's cybersecurity capabilities compared to Mythos to prevent high-risk autonomous exploits
 
 ## Gemini
 
@@ -148,6 +161,7 @@ Based on March 2026 data, **GPT-5.4-mini is a newer, more advanced "small" mod
 	- [Qwen3-Coder-Flash is here! \| Daniel Han \| 18 comments](https://www.linkedin.com/posts/danielhanchen_qwen3-coder-flash-is-here-the-30b-model-activity-7356701638931214337-8PgR/)
 - [snorTTS Indic V0](https://snorbyte.com/snortts-indic-v0)
 	- [Train a SoTA Multilingual Indic Text-to-Speech (TTS) Model for $6 in Less Than Three Hours](https://snorbyte.com/blog/train-sota-multilingual-indic-tts)
+- [krutrim-ai-labs/Krutrim-2-instruct · Hugging Face](https://huggingface.co/krutrim-ai-labs/Krutrim-2-instruct)
 
 | Model                                                                             | Parameters | Size  |
 | --------------------------------------------------------------------------------- | ---------- | ----- |

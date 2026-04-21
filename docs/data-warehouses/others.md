@@ -1,18 +1,4 @@
-# List of Data Warehouses
-
-1. [Snowflake](data-warehouses/snowflake/readme.md)
-2. [Databricks](data-warehouses/databricks/readme.md)
-3. [Clickhouse](data-warehouses/clickhouse/readme.md)
-4. [Amazon Redshift](databases-sql/aws-redshift/readme.md)
-5. [Amazon Athena](cloud/aws/analytics/amazon-athena.md)
-6. [GCP BigQuery](data-warehouses/bigquery/readme.md)
-7. [Elasticsearch](technologies/elasticsearch/readme.md)
-8. [Hadoop](technologies/apache-hadoop/readme.md)
-9. [Druid](databases-nosql/druid/readme.md)
-10. [MemSQL](databases-sql/memsql/readme.md)
-11. [Presto / Trino](technologies/others/presto.md)
-12. FireBolt
-13. [Real-Time Database for fast analytics and AI, powered by Apache Doris \| VeloDB](https://www.velodb.io/)
+# Others
 
 ## Firebolt
 
@@ -47,3 +33,9 @@ All this makes Apache Doris an ideal tool for scenarios including report analysi
 [Is Apache Doris the next big thing? : r/dataengineering](https://www.reddit.com/r/dataengineering/comments/141eswm/is_apache_doris_the_next_big_thing/)
 
 [Apache Doris: an alternative lakehouse solution for real-time analytics - YouTube](https://www.youtube.com/watch?v=QKtZfg5OA8g)
+
+[Real-Time Database for fast analytics and AI, powered by Apache Doris \| VeloDB](https://www.velodb.io/)
+
+## Others
+
+[Floe: A SQL Query Service for the Modern Data Lakehouse (Kurt Westerfeld + Mark Cusack) - Carnegie Mellon Database Group](https://db.cs.cmu.edu/events/floe-a-sql-query-service-for-the-data-lakehouse-kurt-westerfeld-mark-cusack/)

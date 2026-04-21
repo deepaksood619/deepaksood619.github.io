@@ -151,3 +151,5 @@ https://certbot.eff.org
 [Security / Identity / Compliance](cloud/aws/security-identity-compliance/intro.md)
 
 [Security Tools](cloud/aws/security-identity-compliance/tools.md)
+
+[GitHub - WerWolv/ImHex: 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. · GitHub](https://github.com/werwolv/imhex)

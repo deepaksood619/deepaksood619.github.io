@@ -37,3 +37,7 @@ MSK Provisioned offers two types of brokers:
 2. Standard brokers that offer maximum flexibility and choice for control.
 
 [Managed Apache Kafka – Amazon MSK pricing – AWS](https://aws.amazon.com/msk/pricing/)
+
+## MSK Replicator
+
+[Migrate third-party and self-managed Apache Kafka clusters to Amazon MSK Express brokers with Amazon MSK Replicator \| AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/migrate-third-party-and-self-managed-apache-kafka-clusters-to-amazon-msk-express-brokers-with-amazon-msk-replicator/)

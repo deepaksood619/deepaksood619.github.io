@@ -116,6 +116,10 @@ Just add a module of UPSC in khan academy. It has everything.
 
 Service based company for education, people don't know how to train teacher, etc. create a consolidation and centralisation in education sector, automate processes, learning, etc. give education as a service to b2b also
 
+## Parenting (app for parents to manage kids)
+
+Daily tasks that you can do with your kid with home items, etc
+
 ## Links
 
 - [He's helped THOUSANDS of people learn to code \[Leon Noel of #100devs on freeCodeCamp Podcast #117\] - YouTube](https://www.youtube.com/watch?v=KYAakLooVuE&ab_channel=freeCodeCamp.org)

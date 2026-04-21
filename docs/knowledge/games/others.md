@@ -37,15 +37,6 @@
 - [The Map of Board Games](https://youtu.be/fH4MaSJ8gXU)
 - [Mastermind (board game) - Wikipedia](https://en.wikipedia.org/wiki/Mastermind_(board_game))
 
-## Others
-
-- [World Chase Tag - The Most INTENSE Chases From WCT5](https://www.youtube.com/watch?v=bo8sSGwo1UY)
-- Ultimate frisbee
-- [Top 10 Best Table Tennis Points - YouTube](https://www.youtube.com/watch?v=dokC3iGTmSw)
-- [Formula 1, explained for rookies - YouTube](https://www.youtube.com/watch?v=SSdsncLXLYs)
-- [Formula E: The electric F1, explained - YouTube](https://www.youtube.com/watch?v=8foQERR0mc0)
-- [Stimpmeter - Wikipedia](https://en.wikipedia.org/wiki/Stimpmeter)
-
 ## Guitar
 
 [Barcelona Guitar Trio & Dance - Billie Jean (Homenaje a Paco de Lucía) New version - YouTube](https://www.youtube.com/watch?v=olHI-y3bDaM&ab_channel=MaestrosdelaGuitarra)
@@ -55,3 +46,13 @@
 ## Fitness
 
 [Can you be so fit...that you die early? - YouTube](https://www.youtube.com/watch?v=-3dt7rpvz4g)
+
+## Others
+
+- [World Chase Tag - The Most INTENSE Chases From WCT5](https://www.youtube.com/watch?v=bo8sSGwo1UY)
+- Ultimate frisbee
+- [Top 10 Best Table Tennis Points - YouTube](https://www.youtube.com/watch?v=dokC3iGTmSw)
+- [Formula 1, explained for rookies - YouTube](https://www.youtube.com/watch?v=SSdsncLXLYs)
+- [Formula E: The electric F1, explained - YouTube](https://www.youtube.com/watch?v=8foQERR0mc0)
+- [Stimpmeter - Wikipedia](https://en.wikipedia.org/wiki/Stimpmeter)
+- [GitHub - xsawyerx/curl-doom: DOOM, played over cURL · GitHub](https://github.com/xsawyerx/curl-doom)

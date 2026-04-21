@@ -260,3 +260,5 @@ https://towardsdatascience.com/understanding-locality-sensitive-hashing-49f6d1f6
 - Pigeonhole Principle
 
 https://en.wikipedia.org/wiki/Hash_function
+
+[Commitment scheme - Wikipedia](https://en.wikipedia.org/wiki/Commitment_scheme)

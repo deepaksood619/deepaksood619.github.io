@@ -2,6 +2,8 @@
 
 ## Risk of AI in Fintech (25 April 2026)
 
+With the growing use of Al tools like GPT and Claude, many employees - especially in smaller companies - end up uploading sensitive company data into these platforms from their desktops. From a data architecture perspective, what are some simple best practices organisations should follow when integrating LLMs into their systems so that sensitive data remains protected?
+
 [GARiME (Governance, Assurance and Risk Management Excellence)](https://garime.org/)
 
 ## Session: Building End-to-End Products using AI (23 Nov 2025)

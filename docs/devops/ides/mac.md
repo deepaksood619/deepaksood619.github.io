@@ -22,6 +22,17 @@ Exit Full Screen / Full screen - `^ + ⌘ + F (Ctrl + Cmd + F)`
 
 **Preview pdf shortcuts -** Command + 1 - continuous scroll
 
+```bash
+# open folder in vscode
+code .
+
+# open finder at certain folder location
+open .
+
+# open iterm2 at a certain folder
+open -a iTerm .
+```
+
 #### Create a new text file
 
 If you have the Finder window open, use Spotlight to open TextEdit. When you're ready to save the file, option+drag the text file icon from the title bar of TextEdit into the Finder window where you want to save it.

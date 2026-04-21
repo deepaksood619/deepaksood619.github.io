@@ -28,6 +28,8 @@ Tableflow automates **all** of the annoying parts about generating and maintai
 ## Others
 
 - [What is Bring Your Own Cloud (BYOC)? \| Confluent](https://www.confluent.io/learn/bring-your-own-cloud/)
+- [Ask Your Cluster Anything: The WarpStream MCP Server - WarpStream](https://www.warpstream.com/blog/ask-your-cluster-anything-the-warpstream-mcp-server)
+	- [MCP Server \| WarpStream](https://docs.warpstream.com/warpstream/reference/mcp-server)
 
 ## Links
 

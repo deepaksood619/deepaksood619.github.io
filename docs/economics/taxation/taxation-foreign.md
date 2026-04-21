@@ -267,3 +267,4 @@ An "I-9 meeting" or Form I-9 process involves completing the U.S. Citizenship an
 - [returns-tax-taxes-itr](economics/taxation/returns-tax-taxes-itr.md)
 - [Hidden clause in US budget bill could shatter investor confidence; foreign tax on investors proposed - Investing Abroad News \| The Financial Express](https://www.financialexpress.com/business/investing-abroad-trumps-budget-bill-proposes-foreign-tax-on-investors-in-american-equities-and-corporate-bonds-3862995/#google_vignette)
 - [Returning to India After Years Abroad: A Practical Checklist for NRIs](https://freefincal.com/returning-to-india-after-years-abroad-a-practical-checklist-for-nris/)
+- [A Tax Planning Mistake Many Middle East NRIs Make with Indian Mutual Funds](https://freefincal.com/a-tax-planning-mistake-many-middle-east-nris-make-with-indian-mutual-funds/)

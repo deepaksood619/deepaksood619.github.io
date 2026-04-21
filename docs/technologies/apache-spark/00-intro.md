@@ -112,6 +112,10 @@ spark-submit --master local --class GvaWeather target/scala-2.10/gva-weather_2.1
 - Generalized to a broad set of applications
 - Leverages coarse-grained nature of parallel algorithms for failure recovery
 
+## Releases
+
+[Spark Release 4.0.0 \| Apache Spark](https://spark.apache.org/releases/spark-release-4-0-0.html)
+
 ## References
 
 - Matei Zaharia, Mosharaf Chowdhury - Spark: Cluster Computing with Working Sets

@@ -87,7 +87,7 @@ As an aside - I still almost always recommend still using a columnar file format
 
 ## Tools
 
-https://github.com/apache/parquet-mr/tree/master/parquet-tools
+[GitHub - hangxie/parquet-tools: A utility to deal with Parquet data · GitHub](https://github.com/hangxie/parquet-tools)
 
 ## References
 
@@ -98,3 +98,5 @@ https://github.com/apache/parquet-mr/tree/master/parquet-tools
 - https://github.com/julienledem/redelm/wiki/The-striping-and-assembly-algorithms-from-the-Dremel-paper
 - https://blog.twitter.com/engineering/en_us/a/2013/dremel-made-simple-with-parquet.html
 - [Apache Parquet: Parquet file internals and inspecting Parquet file structure - YouTube](https://www.youtube.com/watch?v=rVC9F1y38oU)
+- [Preliminary Notes on Open-Source Variant Performance \| Q's Engineering notes: data & lakes](https://qlong.github.io/posts/2026-03-30-variant-early-results/)
+	- [Benchmarking Parquet Variants through Iceberg \| benchmarking-variants](https://steveloughran.github.io/benchmarking-variants/)

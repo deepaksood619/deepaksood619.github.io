@@ -236,6 +236,7 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - **white-glove -** In the context of business and customer service, "white gloves" (often referred to as "white-glove service") means providing a premium level of care, attention to detail, and luxury. The term originates from high-end hospitality and logistics. Think of a butler in a mansion or a delivery person wearing actual white gloves to ensure they don't leave fingerprints on expensive furniture.
 - **parable -** a simple story used to illustrate a moral or spiritual lesson, as told by Jesus in the Gospels.
 - **egged - egg -** to encourage somebody to do something that they should not do
+- **Cultural appropriation** is the adoption or use of elements from a minority or marginalized culture by members of a dominant culture, often in an exploitative, disrespectful, or stereotypical manner. It typically involves an imbalance of power, where elements like clothing, symbols, or traditions are used without understanding, respect, or acknowledgment.
 
 ### Shill / Shilling
 

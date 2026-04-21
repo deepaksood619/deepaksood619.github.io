@@ -41,3 +41,4 @@ Applications like "Deep Research", "Manus", and "Claude Code" have gotten around
 - [What is AI Harness Engineering? Your Guide to Controlling Autonomous Systems \| by Mohit Sewak, Ph.D. \| Be Open - Writers & Readers Pub \| Mar, 2026 \| Medium](https://medium.com/be-open/what-is-ai-harness-engineering-your-guide-to-controlling-autonomous-systems-30c9c8d2b489)
 - [Harness Engineering: Turning AI Agents Into Reliable Engineers](https://www.reddit.com/r/ArtificialInteligence/comments/1sc3m1t/harness_engineering_turning_ai_agents_into/)
 - [Harness capabilities - Docs by LangChain](https://docs.langchain.com/oss/python/deepagents/harness)
+- [GitHub - richardartoul/swarmd: \`swarmd\` is a multi-tenant runtime for running background Agents in a safe and secure manner. Agents are defined in YAML and run as goroutines in a multi-tenant server with a virtual shell and custom tools. · GitHub](https://github.com/richardartoul/swarmd)

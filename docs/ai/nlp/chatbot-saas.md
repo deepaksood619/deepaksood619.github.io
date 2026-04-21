@@ -26,6 +26,12 @@
 - https://www.tidio.com
 - Dialogflow
 
+### chatwoot
+
+[GitHub - chatwoot/chatwoot: Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 · GitHub](https://github.com/chatwoot/chatwoot)
+
+[Chatwoot: AI-powered, open-source customer support platform. Self-host or cloud. Alternative to Intercom & Zendesk.](https://www.chatwoot.com/)
+
 ### tawk.to (Free)
 
 Monitor and chat with the visitors on your website, respond to support tickets and create a help center to empower customers to help themselves -- all 100% Free

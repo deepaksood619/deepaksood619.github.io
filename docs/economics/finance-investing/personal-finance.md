@@ -150,3 +150,5 @@ Use money to buy peace. And, use your peace to make (fewer but) better strategic
 - [The Psychology of Chasing the Extra 2% Returns](https://freefincal.com/the-psychology-of-chasing-the-extra-2-returns/)
 - [Financial planning tips for couples before tying the knot](https://freefincal.com/financial-planning-tips-for-couples-before-tying-the-knot/)
 - [The Relationship Premium: The High Cost of Buying Financial Junk to Please Your Relatives](https://freefincal.com/the-relationship-premium-the-high-cost-of-buying-financial-junk-to-please-your-relatives/)
+- [How I learnt health is wealth the hard way](https://freefincal.com/how-i-learnt-health-is-wealth-the-hard-way/)
+- [A Different Kind of Inheritance: Why the most valuable gift to a child may be financial wisdom](https://freefincal.com/a-different-kind-of-inheritance-why-the-most-valuable-gift-to-a-child-may-be-financial-wisdom/)

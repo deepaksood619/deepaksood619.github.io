@@ -23,6 +23,10 @@
 
 ## Party
 
+- Uno
+- Jenga
+- Bday Popper
+- Lahori Jeera & Lahori Nimbuz (Chilled)
 - Polite
 - Host
     - Generous authority

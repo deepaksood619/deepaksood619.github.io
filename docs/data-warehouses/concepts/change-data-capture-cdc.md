@@ -134,6 +134,7 @@ This is **Maxwell's daemon**, a [change data capture](https://www.confluent.io/b
 	- Supermetal's architecture centers around three core principles: preserving data accuracy through Apache Arrow's type system, maintaining transactional consistency across the entire pipeline, and processing everything within a single process to massively reduce serialization overhead.
 	- Supermetal operates as a single, self-contained process that manages the entire data pipeline from source to target.
 	- Supermetal is built on two primary technologies: Rust and Apache Arrow
+	- [Postgres to Iceberg in 13 minutes: How Supermetal compares to Flink, Kafka Connect, and Spark - The New Stack](https://thenewstack.io/postgres-iceberg-cdc-benchmarks/)
 
 ## Links
 
@@ -143,3 +144,4 @@ This is **Maxwell's daemon**, a [change data capture](https://www.confluent.io/b
 - [The Missing Piece for Modern Data Stack Going Real-time](https://www.arcion.io/blog/the-missing-piece-for-modern-data-stack-going-real-time)
 - [dltHub: ELT as Python Code](https://dlthub.com/)
 - [Benchmarking CDC Tools: Supermetal vs Debezium vs Flink CDC](https://www.streamingdata.tech/p/benchmarking-cdc-tools)
+	- [Postgres to Iceberg in 13 minutes: How Supermetal compares to Flink, Kafka Connect, and Spark - The New Stack](https://thenewstack.io/postgres-iceberg-cdc-benchmarks/)

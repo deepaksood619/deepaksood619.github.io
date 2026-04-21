@@ -21,6 +21,7 @@
 - [confluent-intelligence](technologies/confluent/confluent-intelligence.md)
 - [warpstream](technologies/confluent/warpstream.md)
 - [cluster-linking](technologies/confluent/cluster-linking.md)
+- [disaster-recovery-dr-failover](technologies/confluent/disaster-recovery-dr-failover.md)
 - [replicator](technologies/confluent/replicator.md)
 - [commands](technologies/confluent/commands.md)
 - Terraform - [confluent-provider](devops/terraform/confluent-provider.md)

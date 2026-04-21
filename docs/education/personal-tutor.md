@@ -266,6 +266,43 @@ The cognitive core and memory system in effect can give us an infinite context w
 	- Human psychology is very important.
 - Teachers are very important part and you have to focus more on teaching teachers rather than teaching students.
 
+### Thoughts
+
+Digital teacher - copilot for teachers
+
+Start with today we are going to study about X
+Whole digital course added
+Just a TV with a remote with battery for backup
+
+But maybe teachers don't know how to use remote, just ask, single voice button
+
+Ask questions and create lessons
+
+Full self managed system
+Can work without wifi internet
+Ollama models
+
+Knows students
+Takes attendance
+Full daily routine embedded, on how many periods and interval
+
+Talk with Maheheswar Puri and vikash pinelabs
+
+Choose between small kids vs big college kids
+Small marginalized kids at govt school
+
+Peas in pod PIP - app and whole School management/college management
+
+I am good at software, create adtech software, with no to little margin
+
+WhatsApp is the competitor
+
+Analysis reports etc
+
+Free open source school or edtech software
+
+Move from pay per child to free software
+
 ## Creating EdTech Startup Thoughts
 
 **Since if singularity is close, there is no point in making it**
@@ -273,6 +310,10 @@ The cognitive core and memory system in effect can give us an infinite context w
 Start with market research, what exists, etc
 
 College killer, paid education killer, coaching killer
+
+English/Hindi (Same language as user) - Goal is learning and not teaching english atleast for first sessions, user should get into habit of learning and loving the art of studying, and move into growth mindset
+
+Gamification - Easy to use, do not overwhelm, Chat Interface
 
 Pay only what you use in infrastructure
 Like tokens etc

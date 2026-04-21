@@ -88,9 +88,12 @@ Extensions that helps make obsidian better
 	- [Obsidian + AI: How to Do It The Right Way (Claude Code + Obsidian) - YouTube](https://www.youtube.com/watch?v=a1FDaoF8Jog)
 	- [Andrej Karpathy Just 10x’d Everyone’s Claude Code - YouTube](https://www.youtube.com/watch?v=sboNwYmH3AY)
 		- [llm-wiki · GitHub](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
+		- [Step-by-Step Guide: Build Your Own AI Second Brain with Obsidian and Karpathy’s LLM Wiki Pattern](https://www.thetoolnerd.com/p/step-by-step-guide-build-your-own-second-brain-obsidian-kaparthy)
 	- **[Obsidian With Claude: The Setup I Said You Didn't Need - YouTube](https://www.youtube.com/watch?v=B35SWx_4BNM)**
 	- [How to Build an AI Second Brain with Claude Code and Obsidian \| MindStudio](https://www.mindstudio.ai/blog/build-ai-second-brain-claude-code-obsidian-2)
 	- [💎 How Claude + Obsidian + MCP Solved My Organizational Problems](https://www.eleanorkonik.com/p/how-claude-obsidian-mcp-solved-my)
+- [GitHub - memd-app/me.md: AI-guided personal knowledge system. Build a verified knowledge graph of yourself through interview-style sessions with Claude. All data stays local. · GitHub](https://github.com/memd-app/me.md)
+	- [me.md - Your Verified Personal Context](https://www.me.md/)
 
 ## Obsidian Shortcuts
 

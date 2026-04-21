@@ -177,6 +177,12 @@ PrivateLink endpoint appears as an elastic network interface (ENI) in the applic
 
 In summary, VPC endpoints are specific to certain AWS services, while AWS PrivateLink is a broader solution that provides a consistent and private way to access various services over the AWS network. You might use VPC endpoints for specific services and AWS PrivateLink for a more comprehensive approach to secure, private connectivity.
 
+[Introducing Cross-Region Connectivity for AWS PrivateLink \| Networking & Content Delivery](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-cross-region-connectivity-for-aws-privatelink/)
+
+- You can set up a private link between two regions using AWS PrivateLink. Native cross-region connectivity allows consumers to access VPC endpoint services hosted in different AWS regions within the same partition.
+- **Direct Access:** You can share and access VPC endpoint services across regions without traversing the public internet.
+- **Supported Services:** This includes select AWS services (such as S3, ECR, and Route 53) and custom services hosted on Network Load Balancers or Gateway Load Balancers.
+
 ## AWS site-to-site VPN
 
 Amazon VPC provides the facility to create an **IPsec VPN connection (also known as AWS site-to-site VPN)** between remote customer networks and their Amazon VPC over the internet. The following are the key concepts for a site-to-site VPN:

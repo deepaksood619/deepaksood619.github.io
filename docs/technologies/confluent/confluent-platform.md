@@ -151,3 +151,13 @@ docker compose ps
 `*` Reserve the Jolokia ports only when you deploy Confluent Platform using Ansible.
 
 [Confluent Platform System Requirements \| Confluent Documentation](https://docs.confluent.io/platform/current/installation/system-requirements.html)
+
+## Releases / Changelogs
+
+### Confluent Platform 8.2
+
+- **Run streaming and task-queue workloads side by side with** [**Queues for Kafka**](https://www.confluent.io/blog/kafka-queue-semantics-share-consumer-ga/), with native queue semantics and elastic consumer scaling built in.
+- **Simplify stream processing with Flink SQL, in General Availability (GA)**. Filter, join, aggregate, and transform data streams in [Confluent Platform for Apache Flink®](https://docs.confluent.io/platform/current/flink/overview.html) using data definition languages (DDLs), changelogs, and shared compute pools—providing a declarative way to manage Kafka topics directly through the Confluent CLI or the Control Center UI.
+- **Reduce operational complexity with Flink ease-of-use enhancements**, including multi-Kubernetes cluster support, a new savepoint management UI, and native support for Red Hat Enterprise Linux 10 (RHEL 10) and Red Hat OpenShift environments.
+
+[Introducing Confluent Platform 8.2: Queues for Kafka & Flink SQL](https://www.confluent.io/blog/introducing-confluent-platform-8-2/)

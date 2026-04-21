@@ -214,6 +214,27 @@ CNC is **Computerised Numerical Control**. CNC is a control system that controls
 
 [CNC Full Form - Computerized Numerical Control](https://byjus.com/full-form/cnc-full-form/)
 
+## AC Learnings and Delhi Maintenance Guide
+
+### 1. The "1-Degree Logic Gap"
+
+In inverter ACs, 27°C often keeps the compressor running at a low, steady speed, maintaining low humidity. At 28°C, the room is often already cool enough that the AC hits its "minimum frequency" and shuts the compressor off entirely. This results in a sudden spike in humidity, making the room feel "stuffy" or hot.
+
+### 2. "Dirty Sock Syndrome" (The Foul Smell)
+
+The smell at 28°C is caused by mold and bacteria (biofilm) on the cooling coils. When the compressor shuts off, the fan blows air over these damp, warming coils, which releases the odor into the room through "re-evaporation."
+
+### 3. Electricity & Delhi Slabs
+
+- **The 6% Rule:** Every 1°C increase saves ~6% power.
+- **The Slab Trap:** In Delhi/NCR, the jump from a 3-star to a 5-star AC can save you more than just unit costs—it can help you stay below the **400-unit subsidy threshold**, potentially saving thousands on your monthly bill.
+
+### 4. Pro-Tips for Maintenance & Comfort
+
+- **The 15-Minute Rule:** Always run the AC in **"Fan Only" mode** for 15 minutes before turning it off. This dries the internal coils and prevents the "dirty sock" bacteria from growing.
+- **Dry Mode (💧):** If 27°C is too cold but 28°C is too hot, use **Dry Mode at 27°C**. It prioritizes dehumidification, which often feels more comfortable (crisp) than the standard Cool mode.
+- **Ceiling Fan Synergy:** Keep your ceiling fan on a low setting (Speed 1 or 2). This creates a "wind chill" effect that makes 27°C feel like 25°C, allowing the AC to work less while you stay cooler.
+
 ## Links
 
 - [How Things are Made - YouTube](https://www.youtube.com/playlist?list=PL7Znhz30kcyJacbogUbZyBk4N5jX_DDos)

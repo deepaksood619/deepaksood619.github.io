@@ -71,6 +71,10 @@ In the context of vector embeddings, yes, embeddings and vectors are the same th
 	- This is unlike common chunk embedding models that embed chunks independently.
 	- This makes your embeddings semantically rich and context-aware, without the overhead of dealing with metadata and hence the speed.
 	- This embedding model cuts vectorDB costs by 200x.
+- [FremyCompany/BioLORD-2023 · Hugging Face](https://huggingface.co/FremyCompany/BioLORD-2023)
+- [sentence-transformers/all-mpnet-base-v2 · Hugging Face](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)
+	- [MPNet in Practice: Building Better Sentence Embeddings for Real-World AI Systems \| by Priya Singh \| Medium](https://medium.com/@PriyaSingh325/mpnet-in-practice-building-better-sentence-embeddings-for-real-world-ai-systems-32660557378b)
+	- **The all-mpnet-base-v2 is a high-performance sentence embedding model that maps sentences/paragraphs into a 768-dimensional dense vector space**. It is highly popular for semantic search, retrieval-augmented generation (RAG), and clustering due to its balance of high accuracy and reasonable speed, often outperforming older BERT/MiniLM models.
 
 ## Links
 

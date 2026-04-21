@@ -128,6 +128,8 @@ BAD DAYS don't undo THE PROGRESS YOU'VE MADE. Remember, PROGRESS ISN'T JUST ABOU
 
 That extra day you work, that extra hour you don't sleep, that extra effort you put in, the world keeps a score. And when you go the extra mile, it pays extra.
 
+One of my favorite lessons I've learnt from working with smart people: Action produces information. If you're unsure of what to do, just do anything, even if it's the wrong thing. This will give you information about what you should actually be doing. Sounds simple on the surface - the hard part is making it part of your every day working process.
+
 ## Others
 
 ### Antifragile
