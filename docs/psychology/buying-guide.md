@@ -239,7 +239,7 @@ So for a long haul international flight you can take middle aisle with aisle sid
 - [Can You Have Too Many WiFi Routers? - YouTube](https://www.youtube.com/watch?v=49JBYSv3Nig)
 - [Wireless Access Point vs. Wi-Fi Router – What’s the Difference? - YouTube](https://www.youtube.com/watch?v=_7-fmCeokUY)
 
-## Standing Desk
+## Standing Desk / Standing table
 
 - Rounded corners
 - Keyboard + Monitor + Mouse/Touchpad
@@ -251,6 +251,7 @@ So for a long haul international flight you can take middle aisle with aisle sid
 - [DisplayPort vs HDMI: What To Know And Which Should You Use? - YouTube](https://www.youtube.com/watch?v=c4LqUDfsj6A)
 - [Best Monitor for Programming \| BenQ India](https://www.benq.com/en-in/campaign/best-coding-monitor-for-programmers.html)
 - Ergonomic Electric Standing Desk
+	- Error - E02 - Remove plug, and remove both wires from motor and reinsert firmly, start the plug again.
 	- Reset - Hold down both up + down button till the bottom
 	- The desk may lower, rise slightly, and stop (or simply click/beep).
 

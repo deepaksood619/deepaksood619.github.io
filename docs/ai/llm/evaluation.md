@@ -45,6 +45,196 @@
 - actionability
 - reasoning
 
+## RAG Evaluation Metrics
+
+### Faithfulness
+
+Faithfulness in RAG evaluation measures if an LLM's answer is directly supported by retrieved context, preventing hallucinations. It calculates the proportion of truthful claims to total claims.
+
+**Key benefits:**
+
+- Prevents LLM hallucinations by grounding answers in retrieved documents
+- Ensures generated responses are factually accurate
+- Validates that claims made in answers are verifiable from source context
+
+### Key RAG Evaluation Metrics (Beyond Faithfulness)
+
+- **Answer Relevancy**: Assesses how pertinent the generated answer is to the original user query
+- **Contextual Precision**: Evaluates if the most relevant documents are ranked highest in retrieved results
+- **Contextual Recall**: Measures if all necessary information to answer the query was retrieved
+- **Answer Correctness**: Measures accuracy compared to a ground truth (golden dataset)
+- **Multi-modal Faithfulness**: Ensures answers are grounded in both text and visual context
+
+### Methods for Measuring Faithfulness
+
+- **LLM-based Evaluation**: Tools like DeepEval and Ragas use a second LLM to break down answers into claims and verify them against the context
+- **Semantic Similarity**: Comparing embedding vectors of the response and retrieved context to determine overlap
+- **Post-hoc Evaluation**: Analyzing input modifications to see if a model's prediction changes when provided with alternative (counterfactual) information
+- **RAGAS Framework**: Combines faithfulness, relevance, and precision into a single framework
+
+### Common RAG Evaluation Frameworks & Tools
+
+- [**Ragas**](https://github.com/explodinggradients/ragas) - Popular framework for evaluating RAG systems
+- [**DeepEval**](https://github.com/confident-ai/deepeval) - Tool for testing faithfulness and other metrics
+- [**Haystack**](https://docs.haystack.deepset.ai/) - Features a FaithfulnessEvaluator node
+- [**IBM Watsonx**](https://www.ibm.com/watsonx) - Provides tools for AI governance and evaluation
+
+## Text Generation Metrics
+
+- **BLEU** - Measures n-gram overlap between generated and reference text, widely used for translation
+- **ROUGE** - Recall-oriented metric comparing overlap of n-grams, commonly used for summarization
+- **METEOR** - Considers synonyms and stemming beyond exact matches, more human-correlated than BLEU
+- **BERTScore** - Uses contextual embeddings to measure semantic similarity between texts
+- **Perplexity** - Measures how well a probability model predicts a sample, lower is better
+- **Cross-Entropy Loss** - Quantifies difference between predicted and actual probability distributions
+
+## Retrieval & Ranking Metrics
+
+- **Precision@k** - Proportion of relevant items in top-k results
+- **Recall@k** - Proportion of total relevant items found in top-k results
+- **Mean Reciprocal Rank (MRR)** - Average of reciprocal ranks of first relevant result
+- **Normalized Discounted Cumulative Gain (NDCG)** - Measures ranking quality with position-based discount
+- **Mean Average Precision (MAP)** - Average precision across all queries
+- **Hit Rate** - Percentage of queries with at least one relevant result in top-k
+
+## Code Generation Metrics
+
+- **Pass@k** - Percentage of problems solved by at least one of k generated solutions
+- **Compilation Success Rate** - Percentage of generated code that compiles without errors
+- **Test Pass Rate** - Percentage of generated code passing unit tests
+- **Cyclomatic Complexity** - Measures code complexity through control flow paths
+- **Code Coverage** - Percentage of code paths exercised by tests
+- **Functional Correctness** - Whether code produces correct output for test cases
+
+## Safety & Security Evaluation
+
+- **Red Teaming** - Adversarial testing to find model vulnerabilities and unsafe behaviors
+- **Jailbreak Resistance** - Testing robustness against prompt injection and system message overrides
+- **Toxicity Detection** - Measuring harmful, offensive, or inappropriate content using tools like Perspective API
+- **Prompt Injection Testing** - Validating resistance to malicious prompts trying to override instructions
+- **Data Leakage Detection** - Checking if model exposes training data or sensitive information
+- **PII Exposure** - Testing for personally identifiable information in outputs
+- **Bias Testing** - Measuring demographic biases across protected attributes
+- **Adversarial Robustness** - Resilience to adversarial inputs designed to fool the model
+
+## Human Evaluation Methods
+
+- **Inter-Annotator Agreement** - Measures consistency between human raters using Cohen's kappa or Fleiss' kappa
+- **Pairwise Comparison** - Humans compare two outputs to select the better one
+- **ELO Ratings** - Chess-style ranking system for comparing model outputs
+- **Likert Scale Ratings** - Humans rate outputs on fixed scales (1-5, 1-7)
+- **Expert Domain Evaluation** - Domain experts assess specialized outputs
+- **Crowdsourcing Platforms** - Services like MTurk, Scale AI, Labelbox for large-scale human evaluation
+- **Think-Aloud Protocol** - Users verbalize thoughts while interacting with system
+
+## Agent-Specific Evaluation
+
+- **Tool Use Correctness** - Whether agent selects and invokes appropriate tools
+- **Multi-Step Reasoning** - Validates logical coherence across reasoning chains
+- **Planning Accuracy** - Measures quality of generated plans to achieve goals
+- **Goal Completion Rate** - Percentage of tasks successfully completed end-to-end
+- **Action Sequence Evaluation** - Assesses validity and efficiency of action sequences
+- **ReAct Evaluation** - Evaluates reasoning and acting patterns in agent workflows
+- **Trajectory Scoring** - Rates entire interaction paths from start to completion
+- **Subgoal Achievement** - Tracks completion of intermediate objectives
+
+## Production Monitoring Metrics
+
+- **Drift Detection** - Monitors changes in input/output distributions over time
+- **User Feedback Loops** - Collects thumbs up/down, ratings, corrections from users
+- **A/B Testing** - Compares model variants on real traffic
+- **Latency Metrics** - p50, p95, p99 response times
+- **Throughput** - Requests per second handled by system
+- **Cost Per Query** - Token usage and inference cost tracking
+- **Cache Hit Rate** - Percentage of requests served from cache
+- **Error Rates** - 4xx, 5xx, timeout, and model failure rates
+- **RLHF Metrics** - Reinforcement learning from human feedback quality scores
+
+## Task-Specific Metrics
+
+### Summarization
+
+- **Compression Ratio** - Ratio of summary length to source document length
+- **Coverage** - How much of source content is represented in summary
+- **Factual Consistency** - Whether summary contains only facts from source
+- **Abstractiveness** - Degree of novel phrasing vs copying from source
+
+### Translation
+
+- **chrF** - Character n-gram F-score, language-agnostic metric
+- **TER (Translation Edit Rate)** - Number of edits needed to match reference
+- **COMET** - Neural metric trained on human judgments
+- **BLEURT** - BERT-based learned metric for translation quality
+
+### Dialog & Conversation
+
+- **Turn Coherence** - Logical flow between conversation turns
+- **Context Retention** - Maintaining information across dialogue history
+- **Slot Filling Accuracy** - Correctly extracting task-relevant information
+- **Dialog Success Rate** - Percentage of conversations achieving user goal
+- **Average Turns to Completion** - Efficiency of task-oriented dialogs
+
+### Classification
+
+- **Confusion Matrix** - Grid showing predicted vs actual classes
+- **ROC-AUC** - Area under receiver operating characteristic curve
+- **Precision/Recall/F1** - Standard classification quality metrics
+- **Macro/Micro Averaging** - Aggregation methods for multi-class metrics
+
+## Statistical Rigor
+
+- **Confidence Intervals** - Range of plausible values for metrics with uncertainty
+- **Statistical Significance** - T-tests, bootstrap methods to validate improvements
+- **Sample Size Requirements** - Minimum data needed for reliable conclusions
+- **Train/Val/Test Splits** - Proper data partitioning to avoid overfitting
+- **Cross-Validation** - k-fold validation for robust evaluation on small datasets
+- **Multiple Comparison Correction** - Bonferroni, FDR for testing multiple hypotheses
+
+## Ground Truth & Dataset Creation
+
+- **Golden Datasets** - Curated high-quality reference sets for evaluation
+- **Synthetic Data Generation** - Programmatically creating evaluation examples
+- **Data Augmentation** - Expanding test sets through transformations
+- **Active Learning** - Selecting most informative examples to label
+- **Few-Shot Examples** - Small labeled sets for quick evaluation
+- **Adversarial Examples** - Edge cases and failure modes to test robustness
+
+## Cost & Efficiency Metrics
+
+- **Token Usage** - Input and output tokens consumed per request
+- **Model Size** - Parameter count and memory footprint
+- **Inference Time** - Time to generate response
+- **Dollar Cost** - Actual API or compute costs per query
+- **Energy Consumption** - Power usage for environmental impact
+- **Batch Efficiency** - Throughput when processing multiple requests
+
+## Multimodal Evaluation
+
+- **Image-Text Alignment** - Coherence between visual and textual content
+- **Visual Question Answering (VQA)** - Accuracy on questions about images
+- **Image Captioning Metrics** - BLEU, CIDEr, SPICE for caption quality
+- **OCR Accuracy** - Text extraction correctness from images
+- **Video Understanding** - Temporal reasoning and event detection
+- **Audio Transcription** - Word Error Rate (WER) for speech-to-text
+
+## Domain-Specific Benchmarks
+
+- **Medical**: MedQA, PubMedQA, USMLE - Clinical reasoning and medical knowledge
+- **Legal**: LegalBench - Legal reasoning and case analysis
+- **Code**: HumanEval, MBPP, CodeContests - Programming ability
+- **Math**: GSM8K, MATH - Mathematical reasoning
+- **Science**: MMLU, ARC - Scientific knowledge across domains
+- **Reasoning**: HellaSwag, PIQA, WinoGrande - Common sense reasoning
+
+## Emerging Evaluation Paradigms
+
+- **Constitutional AI** - Evaluating alignment with written principles
+- **Debate-Based Evaluation** - Two models debate answers, judge selects winner
+- **Self-Consistency** - Sampling multiple outputs and measuring agreement
+- **Chain-of-Thought Evaluation** - Assessing intermediate reasoning steps
+- **Calibration** - How well model confidence matches actual accuracy
+- **Uncertainty Quantification** - Measuring model confidence and ambiguity
+
 ## Benchmarks vs Evals vs Tests
 
 - **Benchmarks provide a consistent point of comparison**. They are standardized datasets and tasks used to measure the general capabilities of models across the industry. For example, benchmarks like SQuAD or WMT test LLMs on tasks like question-answering or translation, giving a sense of overall performance. However, benchmarks are static and limited — they likely won’t capture the unique challenges or context your specific application faces.

@@ -104,3 +104,17 @@ Google PSC also has these key differences from AWS PrivateLink and Azure Private
     - For a cluster in one region, you cannot provision a Private Service Connect endpoint in a different region.
     - If you have a Private Service Connect endpoint in one region, you cannot access that endpoint from a different region.
     - Access to PSC endpoints from on-premise over Google Cloud Interconnect is currently in Public Preview as of November 17, 2022 ([https://cloud.google.com/vpc/docs/configure-private-service-connect-services#on-premises](https://cloud.google.com/vpc/docs/configure-private-service-connect-services#on-premises)). Therefore, accessing PSC directly from on-premise is not recommended for production.
+
+## Egress PrivateLink
+
+Confluent Cloud, available through AWS Marketplace or directly from Confluent, supports outbound AWS PrivateLink connections using Egress PrivateLink Endpoints. Egress PrivateLink Endpoints are AWS interface VPC Endpoints, and they enable Confluent Cloud clusters to access supported AWS services and other endpoint services powered by AWS PrivateLink, such as AWS S3, a SaaS service, or a PrivateLink Service that you create yourself.
+
+**The high-level workflow to set up an Egress PrivateLink Endpoint from Confluent Cloud to an external system, such as for managed connectors:**
+
+1. Identify a Confluent Cloud network you want to use, or set up a new Confluent Cloud network.
+2. Obtain the AWS PrivateLink Service name.
+	1. For certain target systems, you can retrieve the service name as part of the guided workflow while creating an Egress PrivateLink Endpoint in the next step.
+3. Create an Egress PrivateLink Endpoint in Confluent Cloud.
+4. Optional - Create private DNS records for use with AWS VPC endpoints.
+
+[Create an outbound AWS PrivateLink connection from Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/networking/aws-egress-privatelink.html)

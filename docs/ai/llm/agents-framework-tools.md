@@ -159,5 +159,6 @@ autogenstudio serve --team=team-config.json --port=5000
 	- Model Agnostic - Works with any LLM provider without lock-in.
 	- Composable - Modular, LEGO-style components let developers mix and match agents.
 - [LlamaAgents Builder: From Prompt to Deployed AI Agent in Minutes - MachineLearningMastery.com](https://machinelearningmastery.com/llamaagents-builder-from-prompt-to-deployed-ai-agent-in-minutes/)
+- [GitHub - growthxai/output: The open-source TypeScript framework for building AI workflows and agents. Designed for Claude Code describe what you want, Claude builds it, with all the best practices already in place. · GitHub](https://github.com/growthxai/output)
 
 ![AI Agents Landscape](../../media/Pasted%20image%2020250114143214.jpg)

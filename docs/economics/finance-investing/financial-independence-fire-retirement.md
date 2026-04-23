@@ -227,3 +227,4 @@ Even if the 26-year-old retires by 27 (naturally an unlikely event), the suggest
 - [Determining the Optimal Equity Allocation in Retirement](https://freefincal.com/determining-the-optimal-equity-allocation-in-retirement/)
 - [Creating a Resilient Investment Strategy for Retirement](https://freefincal.com/creating-a-resilient-investment-strategy-for-retirement/)
 - [Can I start a monthly SWP for one Lakh if my retirement corpus is two Crores?](https://freefincal.com/can-i-start-a-monthly-swp-for-one-lakh-if-my-retirement-corpus-is-two-crores/)
+- [Why Indian Retirees Can’t Spend the Money They Sacrificed Their Lives to Save](https://freefincal.com/why-indian-retirees-cant-spend-the-money-they-sacrificed-their-lives-to-save/)

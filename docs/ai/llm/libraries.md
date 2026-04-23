@@ -20,28 +20,28 @@
 
 ## The 10 main picks
 
-1. [LiteLLM](https://github.com/BerriAI/litellm) ⭐ 41k - call any LLM using OpenAI format, and more
+1. [LiteLLM](https://github.com/BerriAI/litellm) ⭐ 44k - call any LLM using OpenAI format, and more
 	1. [Bifrost - The fastest way to build AI applications that never go down](https://www.getmaxim.ai/bifrost)
 	2. [Getting Started - Bifrost](https://docs.getbifrost.ai/benchmarking/getting-started)
 2. [PyApp](https://github.com/ofek/pyapp) ⭐ 2.0k - deploy self contained Python applications anywhere
 3. [Taipy](https://github.com/Avaiga/taipy) ⭐ 19k - build UIs for data apps, even in production
 	1. [Unlocking the Power of What-If Analysis for BI, Data, and AI with Taipy - YouTube](https://youtu.be/lqBhJATrsiw?si=7a3MqcMph-v1UuQ6)
 	2. [Taipy — Build Python Data & BI web applications](https://taipy.io/)
-4. [MLX](https://github.com/ml-explore/mlx) ⭐ 25k - machine learning on Apple silicon with NumPy-like API
-5. [Unstructured](https://github.com/Unstructured-IO/unstructured) ⭐ 14k - the ultimate toolkit for text preprocessing
-6. [ZenML](https://github.com/zenml-io/zenml) ⭐ 5.3k and [AutoMLOps](https://github.com/GoogleCloudPlatform/automlops) ⭐ 258 - portable, production-ready MLOps pipelines
+4. [MLX](https://github.com/ml-explore/mlx) ⭐ 26k - machine learning on Apple silicon with NumPy-like API
+5. [Unstructured](https://github.com/Unstructured-IO/unstructured) ⭐ 15k - the ultimate toolkit for text preprocessing
+6. [ZenML](https://github.com/zenml-io/zenml) ⭐ 5.4k and [AutoMLOps](https://github.com/GoogleCloudPlatform/automlops) ⭐ 259 - portable, production-ready MLOps pipelines
 7. [WhisperX](https://github.com/m-bain/whisperX) ⭐ 21k - speech recognition with word-level timestamps & diarization
-8. [AutoGen](https://github.com/microsoft/autogen) ⭐ 56k - LLM conversational collaborative suite
-9. [Guardrails](https://github.com/guardrails-ai/guardrails) ⭐ 6.6k - babysit LLMs so they behave as intended
+8. [AutoGen](https://github.com/microsoft/autogen) ⭐ 57k - LLM conversational collaborative suite
+9. [Guardrails](https://github.com/guardrails-ai/guardrails) ⭐ 6.7k - babysit LLMs so they behave as intended
 10. [Temporian](https://github.com/google/temporian) ⭐ 708 - the "Pandas" built for preprocessing temporal data
-11. [GitHub - langgenius/dify: Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.](https://github.com/langgenius/dify) ⭐ 135k
+11. [GitHub - langgenius/dify: Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.](https://github.com/langgenius/dify) ⭐ 139k
 	1. [Dify: Production-Ready AI Agent Builder](https://dify.ai/)
 
 ## Runner-ups
 
-1. [**DataGradients**](https://github.com/Deci-AI/data-gradients) ⭐ 312
+1. [**DataGradients**](https://github.com/Deci-AI/data-gradients) ⭐ 314
 2. [**functime**](https://github.com/descendant-ai/functime) ⭐ 1.2k
-3. [**LoRaX**](https://github.com/predibase/lorax) ⭐ 3.7k
+3. [**LoRaX**](https://github.com/predibase/lorax) ⭐ 3.8k
 4. [**outlines**](https://github.com/normal-computing/outlines) ⭐ 14k
 5. [**Pearl**](https://github.com/facebookresearch/Pearl) ⭐ 3.0k
 6. [**PEFT**](https://github.com/huggingface/peft) ⭐ 21k
@@ -166,7 +166,7 @@ vLLM seamlessly supports most popular open-source models on HuggingFace, includi
 ## RAG
 
 - [GitHub - infiniflow/**ragflow**: RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.](https://github.com/infiniflow/ragflow) ⭐ 76k
-- [GitHub - langchain-ai/langgraph: Build resilient language agents as graphs.](https://github.com/langchain-ai/langgraph) ⭐ 28k
+- [GitHub - langchain-ai/langgraph: Build resilient language agents as graphs.](https://github.com/langchain-ai/langgraph) ⭐ 30k
 - [GitHub - stanfordnlp/dspy: DSPy: The framework for programming—not prompting—language models](https://github.com/stanfordnlp/dspy) ⭐ 33k
 	- [DSPy](https://dspy.ai/)
 - [GitHub - run-llama/llama\_index: LlamaIndex is the leading framework for building LLM-powered agents over your data.](https://github.com/run-llama/llama_index) ⭐ 48k
@@ -245,7 +245,7 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [**autollm**](https://github.com/safevideo/autollm) ⭐ 1.0k - Ship RAG based LLM web apps in seconds.
 - [**Chidoriv**](https://github.com/ThousandBirdsInc/chidori) ⭐ 1.3k - reactive runtime for building AI agents. It provides a framework for building AI agents that are reactive, observable, and robust. It supports building agents with Node.js, Python, and Rust.
 - [**FastChat**](https://github.com/lm-sys/FastChat) ⭐ 39k - open platform for training, serving, and evaluating large language model based chatbots.
-- [**GPTRouter**](https://github.com/Writesonic/GPTRouter) ⭐ 455 - smoothly manage multiple LLMs and image models, speed up responses, and ensure non-stop reliability. Similar to [LiteLLM](https://github.com/BerriAI/litellm) ⭐ 41k, our top pick!
+- [**GPTRouter**](https://github.com/Writesonic/GPTRouter) ⭐ 455 - smoothly manage multiple LLMs and image models, speed up responses, and ensure non-stop reliability. Similar to [LiteLLM](https://github.com/BerriAI/litellm) ⭐ 44k, our top pick!
 - [**guidance**](https://github.com/microsoft/guidance) ⭐ 21k - a guidance language for controlling large language models.
 - [**haystack**](https://github.com/deepset-ai/haystack) ⭐ 25k - end-to-end NLP framework that enables you to build NLP applications powered by LLMs, Transformer models, vector search and more.
 - [**Instructor**](https://github.com/jxnl/instructor) ⭐ 13k - interact with OpenAI’s function call API from Python code, with Python structs / objects.
@@ -325,7 +325,7 @@ Traditional RAG approaches often rely on batch processing and static data summar
 
 ## MLOps, LLMOps, DevOps
 
-- [**phoenix**](https://github.com/Arize-ai/phoenix) ⭐ 9.1k - ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models.
+- [**phoenix**](https://github.com/Arize-ai/phoenix) ⭐ 9.4k - ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models.
 
 ## Multimodal AI Tools
 
@@ -396,3 +396,5 @@ Traditional RAG approaches often rely on batch processing and static data summar
 	- [GitHub - google-gemini/genai-processors: GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.](https://github.com/google-gemini/genai-processors) ⭐ 2.1k
 - [GitHub - maximhq/bifrost: The Fastest LLM Gateway with built in OTel observability and MCP gateway](https://github.com/maximhq/bifrost) ⭐ 3.3k
 - [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+- [GitHub - tobi/qmd: mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local · GitHub](https://github.com/tobi/qmd) ⭐ 23k
+

@@ -12,7 +12,7 @@ An Oracle Container Database (CDB) is **the cornerstone of Oracle's Multitenant
 
 ## Replication
 
-Debezium, including its connector for Oracle, does not replicate data at the block level. It relies on Change Data Capture (CDC) by streaming changes at the transaction log (redo log) level rather than capturing changes at the storage block level. In the case of Oracle, Debezium uses the Oracle LogMiner utility to extract changes from the Oracle redo logs, which focuses on data changes such as inserts, updates, and deletes, and operates at the row level.
+Debezium, including its connector for Oracle, does not replicate data at the block level. It relies on Change Data Capture (CDC) by streaming changes at the transaction log (redo log) level rather than capturing changes at the storage block level. In the case of Oracle, Debezium uses the **Oracle LogMiner** utility to extract changes from the Oracle redo logs, which focuses on data changes such as inserts, updates, and deletes, and operates at the row level.
 
 Regarding the gaps you mentioned with Confluent CDC and Oracle, this is a known issue. Tools like Debezium and Confluent's CDC (which also uses Debezium for some connectors) do not replicate database objects like indexes, sequences, stored procedures, functions, views, materialized views, or triggers. These tools are designed to capture data changes at the logical level (insert/update/delete operations), not to fully replicate the entire database schema or structural objects like the ones you mentioned.
 

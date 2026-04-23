@@ -109,7 +109,43 @@ You can send signals through one or more channels, such as a database table or a
 5. **Schema change handling:** Requires the database administrator to extract the log miner dictionary to the redo log files when a DDL statement is executed to change the schema.
 6. **Oracle Real Application Cluster support:** A 3 second delay is implemented in the mining process to ensure there is no data loss at high load.
 
+## Oracle GoldenGate vs Oracle XStream vs Oracle LogMiner
+
+Oracle GoldenGate is the premier, high-performance CDC solution, is a built-in, slower SQL-based utility. GoldenGate offers the best performance and features, XStream is ideal for third-party integration (e.g., Kafka), and LogMiner is a free but resource-intensive option for low-volume CDC.
+
+**Oracle GoldenGate (Premium Feature-Rich)**
+
+- **Best for:** High-volume, mission-critical, real-time data integration, replication, and high availability.
+- **Pros:** Extremely high performance, minimal source database overhead, comprehensive DDL/DML support, supports heterogeneous targets.
+- **Cons:** Expensive licensing costs.
+- **Use Case:** Large enterprise active-active replication or real-time data warehousing.
+
+**Oracle XStream (High-Speed API)**
+
+- **Best for:** Streaming changes to non-Oracle systems (e.g., Kafka, Big Data) with low latency.
+- **Pros:** Very high speed (faster than raw LogMiner), supported by Oracle GoldenGate licensing.
+- **Cons:** Requires additional Oracle GoldenGate licensing.
+- **Use Case:** ETL tools needing high-speed CDC without installing the full GoldenGate agent.
+
+**Oracle LogMiner (Built-in Diagnostic Tool)**
+
+- **Best for:** Low-cost, low-volume change data capture.
+- **Pros:** Included in Oracle Enterprise Edition, no additional licenses, allows SQL-based query of redo logs.
+- **Cons:** High impact on database performance, lower scalability, limited support for complex data types.
+- **Use Case:** Small, infrequent data syncs or debugging.
+
+**Summary Table**
+
+|Feature|GoldenGate|XStream|LogMiner|
+|---|---|---|---|
+|**Speed**|Extremely High|High|Low to Medium|
+|**Cost**|High (License)|High (w/ GoldenGate)|Free (Built-in)|
+|**Resource Usage**|Low Impact|Low-Medium Impact|High Impact|
+|**Best Use Case**|Real-time Replication|Kafka/Streaming|Low-volume CDC|
+|**Complexity**|High Setup|Moderate Setup|Simple Setup|
+
 ## Links
 
+- [GoldenGate - oracle-database](databases-sql/oracle-database.md)
 - [Examples for Oracle XStream CDC Source Connector for Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/connectors/cc-oracle-xstream-cdc-source/examples.html)
 - [Troubleshooting Oracle XStream CDC Source Connector for Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/connectors/cc-oracle-xstream-cdc-source/cc-oracle-xstream-cdc-source-troubleshoot.html)

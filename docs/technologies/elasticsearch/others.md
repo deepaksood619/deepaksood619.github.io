@@ -87,3 +87,7 @@ Please note that errors and transactions will only be sent to the APM Server if 
 https://www.elastic.co/guide/en/apm/agent/python/current/flask-support.html
 
 https://toptechtips.github.io/2019-07-08-add_python_code_to_apm
+
+## Others
+
+- [GitHub - tobi/qmd: mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local · GitHub](https://github.com/tobi/qmd)

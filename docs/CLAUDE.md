@@ -345,7 +345,7 @@ code here
 
 **Supported languages:** python, bash, javascript, typescript, java, go, rust, sql, json, yaml, xml, markdown, jsx, tsx, shell, sh, etc.
 
-### MDX compatibility:
+### MDX compatibility
 
 - don't use `[]` square brackets without escape, since these are used by obsidian/html for links/anchor tags
 

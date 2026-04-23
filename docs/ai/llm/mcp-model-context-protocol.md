@@ -540,3 +540,4 @@ if __name__ == "__main__":
 - [The Complete Guide to Model Context Protocol - MachineLearningMastery.com](https://machinelearningmastery.com/the-complete-guide-to-model-context-protocol/)
 - [Securing the AI agent supply chain with Cisco's open-source MCP Scanner - Cisco Blogs](https://blogs.cisco.com/ai/securing-the-ai-agent-supply-chain-with-ciscos-open-source-mcp-scanner)
 	- [GitHub - cisco-ai-defense/mcp-scanner: Scan MCP servers for potential threats & security findings.](https://github.com/cisco-ai-defense/mcp-scanner) ⭐ 861
+- [Is MCP dead? I don't think so](https://www.linkedin.com/pulse/mcp-dead-i-dont-think-so-viktor-gamov-w4efe/)

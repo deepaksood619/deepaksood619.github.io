@@ -106,3 +106,5 @@ SELECT r. movie_id,
 FROM avg_ratings r
 JOIN movies m ON r.movie_id = m.movie_id;
 ```
+
+[SQL Deduplication Queries in Confluent Cloud for Apache Flink \| Confluent Documentation](https://docs.confluent.io/cloud/current/flink/reference/queries/deduplication.html)

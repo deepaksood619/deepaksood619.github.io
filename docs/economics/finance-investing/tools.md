@@ -94,6 +94,7 @@
 - [Interactive brokers pricing for Indians? : r/IndianStreetBets](https://www.reddit.com/r/IndianStreetBets/comments/1654qk2/interactive_brokers_pricing_for_indians/)
 - [Anybody using interactive brokers for indian exchanges? : r/IndianStreetBets](https://www.reddit.com/r/IndianStreetBets/comments/1afn0a6/anybody_using_interactive_brokers_for_indian/)
 - [IBKR Trading Platforms \| Interactive Brokers LLC](https://www.interactivebrokers.com/en/trading/trading-platforms.php)
+- [Wire Transfer from ETrade to IBKR, Wise, or Revolut \| by Eski's data stories \| Medium](https://alexeskinasy.medium.com/wire-transfer-from-etrade-to-ibkr-wise-or-revolut-c080f5456b8b)
 
 ### Commissions
 
