@@ -221,6 +221,8 @@ An _interleaved table_ is a table that you declare to be an interleaved child of
 
 [About schemas  |  Cloud Spanner  |  Google Cloud](https://cloud.google.com/spanner/docs/schema-and-data-model)
 
+[Introducing Spanner Omni \| Google Cloud Blog](https://cloud.google.com/blog/products/databases/introducing-spanner-omni)
+
 ### Cloud Datastore
 
 Highly-scalable NoSQL database. It automatically handles sharding and replication, providing you with a highly available and durable database that scales automatically to handle your applications' load. Datastore provides a myriad of capabilities such as ACID transactions, SQL-like queries, and indexes

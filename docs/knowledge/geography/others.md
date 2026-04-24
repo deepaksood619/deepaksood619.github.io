@@ -56,6 +56,6 @@ https://lotusarise.com/koppen-climate-classification-system-upsc
 
 ## Others
 
-[Points of the compass - Wikipedia](https://en.m.wikipedia.org/wiki/Points_of_the_compass)
-
-[What's the Most Difficult Place to Get to In the World? - YouTube](https://www.youtube.com/watch?v=ap4eVlcYLww)
+- [Points of the compass - Wikipedia](https://en.m.wikipedia.org/wiki/Points_of_the_compass)
+- [What's the Most Difficult Place to Get to In the World? - YouTube](https://www.youtube.com/watch?v=ap4eVlcYLww)
+- [Your Name in Landsat 🛰️](https://science.nasa.gov/specials/your-name-in-landsat/)

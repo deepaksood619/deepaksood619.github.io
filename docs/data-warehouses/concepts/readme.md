@@ -10,7 +10,6 @@
 - [Data Lake](data-warehouses/concepts/08-data-lake.md)
 - [Kimball / Inmon Architecture](data-warehouses/concepts/09-kimball-inmon-architecture.md)
 - [Lambda Architecture](data-warehouses/concepts/10-lambda-architecture.md)
-- [Databases](data-warehouses/list-of-data-warehouses.md)
 - [ETL (Extract Transform Load)](data-warehouses/concepts/etl-extract-transform-load.md)
 - [Change Data Capture (CDC)](data-warehouses/concepts/change-data-capture-cdc.md)
 - [Debezium](data-warehouses/concepts/debezium.md)

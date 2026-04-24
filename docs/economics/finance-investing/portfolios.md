@@ -254,3 +254,4 @@ The balance 40% of the amount, which is Rs.200,000/- can be utilized for active 
 - [How do I invest a lump sum I don't need for the next 5-7 years?](https://freefincal.com/how-do-i-invest-a-lump-sum-i-dont-need-for-the-next-5-7-years/)
 - [How do you review a unified goal-based investment portfolio?](https://freefincal.com/how-do-you-review-a-unified-goal-based-investment-portfolio/)
 - [Using hybrid funds to build a retirement bucket strategy](https://freefincal.com/using-hybrid-funds-to-build-a-retirement-bucket-strategy/)
+- [Three-fund portfolio](https://www.bogleheads.org/wiki/Three-fund_portfolio)

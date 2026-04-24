@@ -397,4 +397,3 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [GitHub - maximhq/bifrost: The Fastest LLM Gateway with built in OTel observability and MCP gateway](https://github.com/maximhq/bifrost) ⭐ 3.3k
 - [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
 - [GitHub - tobi/qmd: mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local · GitHub](https://github.com/tobi/qmd) ⭐ 23k
-

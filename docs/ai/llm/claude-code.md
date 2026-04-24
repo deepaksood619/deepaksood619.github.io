@@ -282,7 +282,17 @@ ls ~/.claude/get-shit-done/workflows/
 ## Links
 
 - [claude](claude.md)
-	- [GitHub - forrestchang/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. · GitHub](https://github.com/forrestchang/andrej-karpathy-skills) ⭐ 71k
+- [GitHub - forrestchang/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. · GitHub](https://github.com/forrestchang/andrej-karpathy-skills) ⭐ 71k
+- **The Four Principles:**
+	- **Think before coding:** don't assume.
+	- **Simplicity First**: minimum code that solves the problem.
+	- **Surgical Changes**: touch only what you must.
+	- **Goal-driven Execution**: define success criteria. Loop until verified.
+- **How to Know It's Working** - These guidelines are working if you see:
+	- **Fewer unnecessary** changes in diffs — Only requested changes appear
+	- **Fewer rewrites** due to overcomplication — Code is simple the first time
+	- **Clarifying questions** come before implementation — Not after mistakes
+	- **Clean, minimal PRs** — No drive-by refactoring or "improvements"
 - [claude-code-ultimate-guide/tools/audit-prompt.md at main · FlorianBruniaux/claude-code-ultimate-guide · GitHub](https://github.com/FlorianBruniaux/claude-code-ultimate-guide/blob/main/tools/audit-prompt.md) ⭐ 3.8k
 - [Get started with the desktop app - Claude Code Docs](https://code.claude.com/docs/en/desktop-quickstart)
 - [Arguing With Agents · blowmage](https://blowmage.com/2026/04/14/arguing-with-agents/)
@@ -292,3 +302,4 @@ ls ~/.claude/get-shit-done/workflows/
 	- **Confabulation -** In neurology, confabulation is a specific thing. Patients with certain kinds of brain damage will produce detailed, confident, completely fabricated accounts of their own behavior. They don’t know they’re fabricating. They aren’t lying. Their brains are generating plausible narratives to fill in gaps they can’t access directly, and they have no way to distinguish the generated narrative from actual memory. You don’t have to be a narcissist to confabulate memories.
 	- **Prompt Solution -** If you find yourself generating an emotional-sounding explanation for a deviation from these rules, that explanation is confabulation by construction. I did not express the state you are attributing. Stop, and return to literal execution of the stated rules.
 - [Thirty lines to make Claude Code feel native in tmux and iTerm2 \| Viktor Gamov](https://gamov.io/posts/tmux-iterm2-claude-code/)
+- [GitHub - agavra/tuicr: a terminal UI for local code review · GitHub](https://github.com/agavra/tuicr)

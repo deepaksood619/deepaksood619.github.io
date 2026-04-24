@@ -5,7 +5,7 @@
 - [Galileo AI: The Generative AI Evaluation Company](https://galileo.ai/)
 - [Evaluating LLM Models: A Guide to Popular Frameworks](https://medium.com/@abhghoshsgp/evaluating-llm-models-a-guide-to-popular-frameworks-59f236542d46)
 	- [MLflow LLM Evaluation (Legacy) \| MLflow](https://mlflow.org/docs/latest/genai/eval-monitor/llm-evaluation)
-	- [GitHub - explodinggradients/ragas: Supercharge Your LLM Application Evaluations 🚀](https://github.com/explodinggradients/ragas) ⭐ 13k
+	- [GitHub - explodinggradients/ragas: Supercharge Your LLM Application Evaluations 🚀](https://github.com/explodinggradients/ragas) ⭐ 14k
 	- [Model Evaluation Suite Quickstart — Deepchecks Documentation](https://docs.deepchecks.com/en/stable/tabular/auto_tutorials/quickstarts/plot_quick_model_evaluation.html)
 	- [GitHub - Arize-ai/phoenix: AI Observability & Evaluation](https://github.com/Arize-ai/phoenix) ⭐ 9.1k
 	- [TruLens for LLMs](https://www.trulens.org/)
@@ -18,7 +18,7 @@
 	- [The Needle in the Haystack Test and How Gemini Pro Solves It | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/the-needle-in-the-haystack-test-and-how-gemini-pro-solves-it)
 - [GitHub - huggingface/evaluation-guidebook: Sharing both practical insights and theoretical knowledge about LLM evaluation that we gathered while managing the Open LLM Leaderboard and designing lighteval!](https://github.com/huggingface/evaluation-guidebook) ⭐ 2.1k
 - [**Fiddler Auditor**](https://github.com/fiddler-labs/fiddler-auditor) ⭐ 189 - a tool to evaluate the robustness of language models.
-- [**ragas**](https://github.com/explodinggradients/ragas) ⭐ 13k - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines.
+- [**ragas**](https://github.com/explodinggradients/ragas) ⭐ 14k - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines.
 	- Objective metrics, intelligent test generation, and data-driven insights for LLM apps
 	- [Evaluating RAG Applications with RAGAs | by Leonie Monigatti | Towards Data Science](https://towardsdatascience.com/evaluating-rag-applications-with-ragas-81d67b0ee31a)
 - [**tvalmetrics**](https://github.com/TonicAI/tvalmetrics) ⭐ 325 - Metrics to evaluate the quality of responses of your Retrieval Augmented Generation (RAG) applications.
@@ -56,6 +56,10 @@ Faithfulness in RAG evaluation measures if an LLM's answer is directly supported
 - Prevents LLM hallucinations by grounding answers in retrieved documents
 - Ensures generated responses are factually accurate
 - Validates that claims made in answers are verifiable from source context
+
+### Groundedness
+
+Groundedness evaluation in Large Language Models (LLMs)—often referred to as faithfulness or attribution—**measures the extent to which an AI's generated response is directly supported by provided source material**, such as retrieved documents in a Retrieval-Augmented Generation (RAG) system. A grounded response sticks to the given context, avoiding hallucinations or external, unverified information.
 
 ### Key RAG Evaluation Metrics (Beyond Faithfulness)
 

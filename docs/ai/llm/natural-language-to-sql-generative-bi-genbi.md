@@ -33,6 +33,7 @@ Unified NLQ (Natural Language Query)
 	- [Elysia: Building an end-to-end agentic RAG app \| Weaviate](https://weaviate.io/blog/elysia-agentic-rag)
 - [Thesys - The Generative UI Company](https://www.thesys.dev/)
 - [Sigma. Business Intelligence and Analytics Solution](https://www.sigmacomputing.com/)
+- [Cube Core](https://cube.dev/product/cube-core)
 
 ## Code
 
