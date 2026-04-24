@@ -281,7 +281,6 @@ ls ~/.claude/get-shit-done/workflows/
 
 ## Links
 
-- [claude](claude.md)
 - [GitHub - forrestchang/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. · GitHub](https://github.com/forrestchang/andrej-karpathy-skills) ⭐ 71k
 - **The Four Principles:**
 	- **Think before coding:** don't assume.
