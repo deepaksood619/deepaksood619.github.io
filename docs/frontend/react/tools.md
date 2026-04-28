@@ -46,7 +46,7 @@ Next Generation Frontend Tooling
 5. Universal Plugin Interface
 6. Fully Typed APIs
 
-- [GitHub - vitejs/vite: Next generation frontend tooling. It's fast!](https://github.com/vitejs/vite) ⭐ 79k
+- [GitHub - vitejs/vite: Next generation frontend tooling. It's fast!](https://github.com/vitejs/vite) ⭐ 80k
 - [Vite \| Next Generation Frontend Tooling](https://vite.dev/)
 
 ## Webpack

@@ -11,7 +11,7 @@
 - Skype
 - https://goodmeetings.ai
 - [Video Meetings, Video Conferencing and Video Call API](https://whereby.com/)
-- [GitHub - 0x5eba/Video-Meeting: Google Meet / Zoom clone in a few lines of code](https://github.com/0x5eba/Video-Meeting) ⭐ 622
+- [GitHub - 0x5eba/Video-Meeting: Google Meet / Zoom clone in a few lines of code](https://github.com/0x5eba/Video-Meeting) ⭐ 628
 
 RTMP - Real-Time Messaging Protocol
 
@@ -95,7 +95,7 @@ https://trac.ffmpeg.org/wiki/Concatenate
 
 [Bringing HDR video to Reels - Engineering at Meta](https://engineering.fb.com/2023/07/17/video-engineering/hdr-video-reels-meta/)
 
-[GitHub - google-ai-edge/mediapipe: Cross-platform, customizable ML solutions for live and streaming media.](https://github.com/google-ai-edge/mediapipe) ⭐ 34k
+[GitHub - google-ai-edge/mediapipe: Cross-platform, customizable ML solutions for live and streaming media.](https://github.com/google-ai-edge/mediapipe) ⭐ 35k
 
 ## References
 

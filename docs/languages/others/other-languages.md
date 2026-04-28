@@ -291,7 +291,7 @@ CEL is ideal for performance-critical applications because it was designed to ev
 
 CEL is used most efficiently in applications where expressions are evaluated frequently, but modified infrequently. For example, evaluating an HTTP request against a security policy is an excellent use case for CEL. A CEL security policy expression w
 
-[GitHub - google/cel-spec: Common Expression Language -- specification and binary representation](https://github.com/google/cel-spec) ⭐ 3.7k
+[GitHub - google/cel-spec: Common Expression Language -- specification and binary representation](https://github.com/google/cel-spec) ⭐ 3.8k
 
 [CEL  \|  Common Expression Language](https://cel.dev/)
 

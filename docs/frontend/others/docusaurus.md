@@ -105,7 +105,7 @@ themes: [
 ],
 ```
 
-[Releases · cmfcmf/docusaurus-search-local](https://github.com/cmfcmf/docusaurus-search-local/releases) ⭐ 496
+[Releases · cmfcmf/docusaurus-search-local](https://github.com/cmfcmf/docusaurus-search-local/releases) ⭐ 497
 
 ### Algolia
 
@@ -162,6 +162,6 @@ algolia: {
 ## Links
 
 - [Docusaurus](https://docusaurus.io/docs/blog)
-- [GitHub - webbertakken/awesome-docusaurus: A curated list of awesome Docusaurus resources.](https://github.com/webbertakken/awesome-docusaurus) ⭐ 159
+- [GitHub - webbertakken/awesome-docusaurus: A curated list of awesome Docusaurus resources.](https://github.com/webbertakken/awesome-docusaurus) ⭐ 161
 - [Docusaurus](https://docusaurus.io/docs/seo)
 - [johnnyreilly | johnnyreilly](https://johnnyreilly.com/)

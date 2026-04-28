@@ -236,7 +236,7 @@ https://medium.com/staqu-dev-logs/keeping-python-code-clean-with-pre-commit-hook
 
 [https://pre-commit.com/](https://pre-commit.com/)
 
-[https://github.com/pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) ⭐ 6.4k
+[https://github.com/pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) ⭐ 6.5k
 
 ## flake8
 
@@ -343,7 +343,7 @@ https://github.com/jendrikseipp/vulture
 ### Autoformatters
 
 - [Prettier](https://prettier.io/docs/en/precommit.html#option-3-pre-commithttpsgithubcompre-commitpre-commit): HTML, CSS, JavaScript, GraphQL, and many more.
-- [Clang-format](https://github.com/andrewseidl/githook-clang-format) ⭐ 90: C, C++, Java, JavaScript, Objective-C, Protobuf, C#
+- [Clang-format](https://github.com/andrewseidl/githook-clang-format) ⭐ 89: C, C++, Java, JavaScript, Objective-C, Protobuf, C#
 - [Rustfmt](https://github.com/doublify/pre-commit-rust) ⭐ 204: Rust
 
 ## Bandit
@@ -401,6 +401,6 @@ https://www.youtube.com/watch?v=4klj8UYPZxY&ab_channel=freeCodeCampTalks
 
 ## Others
 
-[GitHub - Instagram/Fixit: Advanced Python linting framework with auto-fixes and hierarchical configuration that makes it easy to write custom in-repo lint rules.](https://github.com/Instagram/Fixit) ⭐ 701
+[GitHub - Instagram/Fixit: Advanced Python linting framework with auto-fixes and hierarchical configuration that makes it easy to write custom in-repo lint rules.](https://github.com/Instagram/Fixit) ⭐ 704
 
 [Fixit: linting framework with auto-fixes - Fixit documentation](https://fixit.readthedocs.io/en/latest/)

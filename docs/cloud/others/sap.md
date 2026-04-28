@@ -67,7 +67,7 @@ SAP S/4HANA is SAP's current enterprise resource planning (ERP) suite, designed 
 ## ERPNext
 
 - [**https://erpnext.com/**](https://erpnext.com/)
-- Best - **[GitHub - frappe/hrms: Open Source HR and Payroll Software](https://github.com/frappe/hrms) ⭐ 7.7k**
+- Best - **[GitHub - frappe/hrms: Open Source HR and Payroll Software](https://github.com/frappe/hrms) ⭐ 7.8k**
    	- [Frappe HR](https://frappe.io/hr)
 - https://github.com/frappe/erpnext
 - [**https://github.com/frappe/frappe_docker**](https://github.com/frappe/frappe_docker) ⭐ 2.3k
@@ -75,7 +75,7 @@ SAP S/4HANA is SAP's current enterprise resource planning (ERP) suite, designed 
 - [Introduction](https://frappeframework.com/docs/user/en/guides/integration/rest_api)
 - [Exploring open-source with ERPNext - YouTube](https://www.youtube.com/watch?v=RjTipQpUvNQ&ab_channel=Frappe)
 - [ERPNext Product Demo by Frappe | Puneet Kumar ( Regional Director - Americas) - YouTube](https://www.youtube.com/watch?v=Sn6Bc8t22GI&ab_channel=Frappe)
-- [GitHub - frappe/lending: Open Source Lending software](https://github.com/frappe/lending) ⭐ 271
+- [GitHub - frappe/lending: Open Source Lending software](https://github.com/frappe/lending) ⭐ 279
 
 ## Other CRM / Workflow Management
 

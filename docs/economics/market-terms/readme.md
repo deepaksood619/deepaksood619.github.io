@@ -63,9 +63,9 @@ Bulls make money, bears make money, but pigs get slaughtered.
 
 ### Trading tools
 
-- [GitHub - OpenBB-finance/OpenBBTerminal: Investment Research for Everyone, Everywhere.](https://github.com/OpenBB-finance/OpenBBTerminal) ⭐ 64k
+- [GitHub - OpenBB-finance/OpenBBTerminal: Investment Research for Everyone, Everywhere.](https://github.com/OpenBB-finance/OpenBBTerminal) ⭐ 67k
 - [Finance Toolkit | Jeroen Bouma](https://www.jeroenbouma.com/projects/financetoolkit)
-- [GitHub - JerBouma/FinanceDatabase: This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.](https://github.com/JerBouma/FinanceDatabase) ⭐ 7.3k
+- [GitHub - JerBouma/FinanceDatabase: This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.](https://github.com/JerBouma/FinanceDatabase) ⭐ 7.5k
 - [GitHub - JerBouma/ThePassiveInvestor: Passive Investing for the Average Joe](https://github.com/JerBouma/ThePassiveInvestor) ⭐ 618
 
 ## Stock Market

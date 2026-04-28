@@ -43,7 +43,7 @@ As MySQL is typically set up to purge binlogs after a specified period of time, 
 
 - [Debezium](https://debezium.io)
 - [Introduction to Debezium | Baeldung](https://www.baeldung.com/debezium-intro)
-- [GitHub - ivangfr/springboot-kafka-connect-debezium-ksqldb](https://github.com/ivangfr/springboot-kafka-connect-debezium-ksqldb) ⭐ 82
+- [GitHub - ivangfr/springboot-kafka-connect-debezium-ksqldb](https://github.com/ivangfr/springboot-kafka-connect-debezium-ksqldb) ⭐ 84
 - [Deploying Debezium on Kubernetes | Debezium Documentation](https://debezium.io/documentation/reference/stable/operations/kubernetes.html)
 - [Tutorial | Debezium Documentation](https://debezium.io/documentation/reference/stable/tutorial.html)
 - [Incremental Snapshots in Debezium](https://debezium.io/blog/2021/10/07/incremental-snapshots/)

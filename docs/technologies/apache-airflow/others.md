@@ -150,7 +150,7 @@ While **Apache Kafka**, combined with stream processing, can act as a **workf
 ### Links
 
 - [Open Source Durable Execution | Temporal Technologies](https://temporal.io/)
-- [GitHub - temporalio/temporal: Temporal service](https://github.com/temporalio/temporal) ⭐ 19k
+- [GitHub - temporalio/temporal: Temporal service](https://github.com/temporalio/temporal) ⭐ 20k
 - [Getting to know Temporal - YouTube](https://www.youtube.com/watch?v=wIpz4ioK0gI)
 - [Documentation | Temporal Documentation](https://docs.temporal.io/)
 - [Temporal Web UI | Temporal Documentation](https://docs.temporal.io/web-ui)
@@ -183,7 +183,7 @@ The infinitely scalable and flexible workflow orchestration platform that seamle
 Flyte is an open-source orchestrator that facilitates building production-grade data and ML pipelines. It is built for scalability and reproducibility, leveraging Kubernetes as its underlying platform. With Flyte, user teams can construct pipelines using the Python SDK, and seamlessly deploy them on both cloud and on-premises environments, enabling distributed processing and efficient resource utilization.
 
 - [Build production-grade data and ML workflows, hassle-free with Flyte](https://flyte.org/)
-- [GitHub - flyteorg/flyte: Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.](https://github.com/flyteorg/flyte) ⭐ 6.9k
+- [GitHub - flyteorg/flyte: Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.](https://github.com/flyteorg/flyte) ⭐ 7.0k
 - [Flyte School: A Practical Introduction to Machine Learning Orchestration - YouTube](https://www.youtube.com/watch?v=0cP9pLLeqT4)
 - [Self-serve Feature Engineering Platform Using Flyte and Feast - Ketan Umare, & Felix Wang, - YouTube](https://www.youtube.com/watch?v=Km2ii0F8Yl0)
 - [Flyte: Production-Grade Data and Machine Learning Orchestration - Shivay Lamba & Ekansh Gupta - YouTube](https://www.youtube.com/watch?v=7ZDFhZ4hut0)
@@ -201,7 +201,7 @@ Flyte simplifies building data and ML workflows with its user-friendly SDK. It a
 
 [DVC](https://dvc.org/) stands for "data version control". This project invites data scientists and engineers to a Git-inspired world, where all workflow versions are tracked, along with all the data artifacts and models, as well as associated metrics.
 
-**Data Version Control** or **DVC** is a command line tool and [VS Code Extension](https://github.com/iterative/dvc#vs-code-extension) ⭐ 15k to help you develop reproducible machine learning projects:
+**Data Version Control** or **DVC** is a command line tool and [VS Code Extension](https://github.com/iterative/dvc#vs-code-extension) ⭐ 16k to help you develop reproducible machine learning projects:
 
 1. **Version** your data and models. Store them in your cloud storage but keep their version info in your Git repo.
 2. **Iterate** fast with lightweight pipelines. When you make changes, only run the steps impacted by those changes.
@@ -211,7 +211,7 @@ Flyte simplifies building data and ML workflows with its user-friendly SDK. It a
 
 [Data Version Control · DVC](https://dvc.org)
 
-[GitHub - iterative/dvc: 🦉 ML Experiments Management with Git](https://github.com/iterative/dvc) ⭐ 15k
+[GitHub - iterative/dvc: 🦉 ML Experiments Management with Git](https://github.com/iterative/dvc) ⭐ 16k
 
 [Tracking ML Experiments With Data Version Control](https://www.analyticsvidhya.com/blog/2021/06/mlops-tracking-ml-experiments-with-data-version-control/)
 
@@ -265,6 +265,6 @@ Amazon Managed Workflows for Apache Airflow (MWAA) [What Is Amazon Managed Workf
 
 ![Amazon MWAA Architecture](../../media/Pasted%20image%2020240109123958.jpg)
 
-[GitHub - astronomer/airflow-ai-sdk: An SDK for working with LLMs and AI Agents from Apache Airflow, based on Pydantic AI](https://github.com/astronomer/airflow-ai-sdk) ⭐ 524
+[GitHub - astronomer/airflow-ai-sdk: An SDK for working with LLMs and AI Agents from Apache Airflow, based on Pydantic AI](https://github.com/astronomer/airflow-ai-sdk) ⭐ 525
 
 [CloverDX Data Integration Platform](https://www.cloverdx.com/)

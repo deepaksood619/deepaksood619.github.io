@@ -26,7 +26,7 @@ ScyllaDB is an open-source distributed wide-column NoSQL database offering high 
 ### Links
 
 - [ScyllaDB | Monstrously Fast + Scalable NoSQL](https://www.scylladb.com)
-- [GitHub - scylladb/scylladb: NoSQL data store using the seastar framework, compatible with Apache Cassandra](https://github.com/scylladb/scylladb) ⭐ 15k
+- [GitHub - scylladb/scylladb: NoSQL data store using the seastar framework, compatible with Apache Cassandra](https://github.com/scylladb/scylladb) ⭐ 16k
 - [Scylla - Database of Databases](https://dbdb.io/db/scylla)
 - [ScyllaDB is better than Cassandra, and here’s why.](https://www.freecodecamp.org/news/scylladb-its-cassandra-but-better-76e3d83a4f81/)
 - [Getting the Most out of Lightweight Transactions in ScyllaDB - ScyllaDB](https://www.scylladb.com/2020/07/15/getting-the-most-out-of-lightweight-transactions-in-scylla/)
@@ -205,7 +205,7 @@ https://realpython.com/data-engineer-interview-questions-python
 
 ## Supersqllite
 
-A feature-packed Python package and for utilizing SQLite in Python by [Plasticity](https://www.plasticity.ai/). It is intended to be a drop-in replacement to Python's built-in [SQLite API](https://docs.python.org/3/library/sqlite3.html), but without any limitations. It offers unique features like [remote streaming over HTTP](https://github.com/plasticityai/supersqlite#remote-streaming-over-http) ⭐ 712 and [bundling of extensions like JSON, R-Trees (geospatial indexing), and Full Text Search](https://github.com/plasticityai/supersqlite#extensions) ⭐ 712. SuperSQLite is also packaged with pre-compiled native binaries for SQLite and all of its extensions for nearly every platform as to avoid any C/C++ compiler errors during install.
+A feature-packed Python package and for utilizing SQLite in Python by [Plasticity](https://www.plasticity.ai/). It is intended to be a drop-in replacement to Python's built-in [SQLite API](https://docs.python.org/3/library/sqlite3.html), but without any limitations. It offers unique features like [remote streaming over HTTP](https://github.com/plasticityai/supersqlite#remote-streaming-over-http) ⭐ 711 and [bundling of extensions like JSON, R-Trees (geospatial indexing), and Full Text Search](https://github.com/plasticityai/supersqlite#extensions) ⭐ 711 SuperSQLite is also packaged with pre-compiled native binaries for SQLite and all of its extensions for nearly every platform as to avoid any C/C++ compiler errors during install.
 
 https://github.com/plasticityai/supersqlite
 
@@ -275,7 +275,7 @@ https://minio.io
 
 - Others - GlusterFS
 - [Alternatives to MinIO for single-node local S3](https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/)
-- [GitHub - rmoff/minio-alternatives: Exploration of alternatives to MinIO for local S3 on a single-node](https://github.com/rmoff/minio-alternatives) ⭐ 18
+- [GitHub - rmoff/minio-alternatives: Exploration of alternatives to MinIO for local S3 on a single-node](https://github.com/rmoff/minio-alternatives) ⭐ 20
 
 ## Ehcache
 

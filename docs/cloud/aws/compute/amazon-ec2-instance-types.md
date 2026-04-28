@@ -2,7 +2,7 @@
 
 [It just got easier to discover and compare EC2 instance types | AWS Compute Blog](https://aws.amazon.com/blogs/compute/it-just-got-easier-to-discover-and-compare-ec2-instance-types)
 
-[GitHub - aws/amazon-ec2-instance-selector: A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory](https://github.com/aws/amazon-ec2-instance-selector) ⭐ 929
+[GitHub - aws/amazon-ec2-instance-selector: A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory](https://github.com/aws/amazon-ec2-instance-selector) ⭐ 931
 
 [Amazon EC2 Instance Comparison](https://instances.vantage.sh/)
 

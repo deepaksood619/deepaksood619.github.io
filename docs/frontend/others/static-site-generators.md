@@ -4,7 +4,7 @@
 
 ## Astro
 
-- [GitHub - withastro/astro: Build faster websites with Astro's next-gen island architecture](https://github.com/withastro/astro) ⭐ 58k
+- [GitHub - withastro/astro: Build faster websites with Astro's next-gen island architecture](https://github.com/withastro/astro) ⭐ 59k
 - [Astro UI Framework [Full Book]](https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/)
 - Island Architecture (Server Islands)
 - Zero-JS View Transitions
@@ -17,9 +17,9 @@
 
 - [10 Best Astro Themes In 2023 | Medium](https://medium.com/@lijonkhan/best-10-astro-themes-2023-1b9fdd4146c3)
 - [AstroWind — Free template for creating websites with Astro + Tailwind CSS](https://astrowind.vercel.app/)
-	- [GitHub - onwidget/astrowind: ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme.](https://github.com/onwidget/astrowind) ⭐ 5.5k
+	- [GitHub - onwidget/astrowind: ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme.](https://github.com/onwidget/astrowind) ⭐ 5.6k
 - [GitHub - surjithctly/astroship: Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS](https://github.com/surjithctly/astroship?tab=readme-ov-file) ⭐ 1.9k
-- [GitHub - zeon-studio/astroplate: Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of work!](https://github.com/zeon-studio/astroplate) ⭐ 1.0k
+- [GitHub - zeon-studio/astroplate: Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of work!](https://github.com/zeon-studio/astroplate) ⭐ 1.1k
 - [GitHub - themefisher/northendlab-light-astro: Northendlab is a highly customizable Astro theme designed specifically personal blog.](https://github.com/themefisher/northendlab-light-astro) ⭐ 37
 - Paid - [Andromeda - Astro landing page](https://themefisher.com/products/andromeda-astro)
 - [Themes | Astro](https://astro.build/themes/)

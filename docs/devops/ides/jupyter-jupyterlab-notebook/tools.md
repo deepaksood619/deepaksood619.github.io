@@ -6,17 +6,17 @@ https://sqlnotebook.com
 
 [Papermill](https://github.com/nteract/papermill) ⭐ 6.4k is a library for parameterizing, executing, and analyzing Jupyter notebooks. With it, you can spawn multiple notebooks with different parameter sets and execute them concurrently. Papermill can also help collect and summarize metrics from a collection of notebooks.
 
-[Commuter](https://github.com/nteract/nteract/blob/master/applications/commuter/README) ⭐ 13 is a lightweight, vertically-scalable service for viewing and sharing notebooks. It provides a Jupyter-compatible version of the contents API and makes it trivial to read notebooks stored locally or on Amazon S3. It also offers a directory explorer for finding and sharing notebooks.
+[Commuter](https://github.com/nteract/nteract/blob/master/applications/commuter/README) ⭐ 14 is a lightweight, vertically-scalable service for viewing and sharing notebooks. It provides a Jupyter-compatible version of the contents API and makes it trivial to read notebooks stored locally or on Amazon S3. It also offers a directory explorer for finding and sharing notebooks.
 
 [Titus](https://netflix.github.io/titus/) is a container management platform that provides scalable and reliable container execution and cloud-native integration with Amazon AWS. Titus was built internally at Netflix and is used in production to power Netflix streaming, recommendation, and content systems.
 
 ![image](../../../media/DevOps-IDEs-Tools-image1.jpg)
 
-[GitHub - ploomber/jupysql: Better SQL in Jupyter. 📊](https://github.com/ploomber/jupysql) ⭐ 843
+[GitHub - ploomber/jupysql: Better SQL in Jupyter. 📊](https://github.com/ploomber/jupysql) ⭐ 845
 
 ## Rshiny
 
-Shiny is an R package that makes it easy to build interactive web apps straight from R. You can host standalone apps on a webpage or embed them in [R Markdown](http://rmarkdown.rstudio.com/) documents or build [dashboards](http://rstudio.github.io/shinydashboard/). You can also extend your Shiny apps with [CSS themes](http://rstudio.github.io/shinythemes/), [htmlwidgets](http://www.htmlwidgets.org/), and JavaScript [actions](https://github.com/daattali/shinyjs/blob/master/README) ⭐ 751
+Shiny is an R package that makes it easy to build interactive web apps straight from R. You can host standalone apps on a webpage or embed them in [R Markdown](http://rmarkdown.rstudio.com/) documents or build [dashboards](http://rstudio.github.io/shinydashboard/). You can also extend your Shiny apps with [CSS themes](http://rstudio.github.io/shinythemes/), [htmlwidgets](http://www.htmlwidgets.org/), and JavaScript [actions](https://github.com/daattali/shinyjs/blob/master/README) ⭐ 749
 
 https://shiny.rstudio.com
 

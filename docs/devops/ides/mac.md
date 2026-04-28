@@ -141,7 +141,7 @@ Open two instance of same application - **open -n MQTT.fx.app**
 	- https://jfper.link/
 	- https://uxert.link/
 	- https://yrkde.link/
-- **VLC** or [GitHub - iina/iina: The modern video player for macOS.](https://github.com/iina/iina) ⭐ 44k
+- **VLC** or [GitHub - iina/iina: The modern video player for macOS.](https://github.com/iina/iina) ⭐ 45k
 - ~~Anki Flash Cards~~ -
 - ~~Anaconda navigator~~ - [~~https://conda.anaconda.org/conda-forge/~~](https://conda.anaconda.org/conda-forge/)
 - **Bombsquad**
@@ -160,7 +160,7 @@ Open two instance of same application - **open -n MQTT.fx.app**
 - Cmd + Shift + G in Finder
 - Alfred - [Alfred - Productivity App for macOS](https://www.alfredapp.com/)
 - [Raycast - Supercharged productivity](https://www.raycast.com/)
-	- [GitHub - raycast/extensions: Everything you need to extend Raycast.](https://github.com/raycast/extensions) ⭐ 7.3k
+	- [GitHub - raycast/extensions: Everything you need to extend Raycast.](https://github.com/raycast/extensions) ⭐ 7.4k
 	- [GitHub - raycast/script-commands: Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.](https://github.com/raycast/script-commands) ⭐ 6.7k
 	- [A love letter to Raycast ❤️](https://rmoff.net/2025/12/18/a-love-letter-to-raycast/)
 
@@ -294,7 +294,7 @@ brew services cleanup
 - bat
 - ~~neovim~~ - https://github.com/neovim/neovim
 - ~~fzf (A command-line fuzzy finder) - ~~https://github.com/junegunn/fzf
-- [GitHub - ellie/atuin: 🐢 Magical shell history](https://github.com/ellie/atuin) ⭐ 7
+- [GitHub - ellie/atuin: 🐢 Magical shell history](https://github.com/ellie/atuin) ⭐ 11
 - ~~the_silver_searcher (command ag "services") - ~~https://github.com/ggreer/the_silver_searcher
 - **awscli**
 - **python3**
@@ -308,7 +308,7 @@ brew services cleanup
 #### Clipboard Manager
 
 - brew install maccy
-- [GitHub - p0deje/Maccy: Lightweight clipboard manager for macOS](https://github.com/p0deje/Maccy) ⭐ 19k
+- [GitHub - p0deje/Maccy: Lightweight clipboard manager for macOS](https://github.com/p0deje/Maccy) ⭐ 20k
 	- Settings
 		- Launch at login
 		- Check for updates automatically
@@ -317,14 +317,14 @@ brew services cleanup
 	- To disable Maccy and ignore new copies, click on the menu icon with OPTION (⌥) pressed.
 	- To ignore only the next copy, click on the menu icon with OPTION (⌥) + SHIFT (⇧) pressed.
 - [GitHub - PasteBar/PasteBarApp: PasteBar - Limitless, Free Clipboard Manager for Mac and Windows](https://github.com/PasteBar/PasteBarApp) ⭐ 2.0k
-- [GitHub - hluk/CopyQ: Clipboard manager with advanced features](https://github.com/hluk/CopyQ) ⭐ 11k
-- [GitHub - Slackadays/Clipboard: 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager](https://github.com/Slackadays/Clipboard) ⭐ 5.7k
+- [GitHub - hluk/CopyQ: Clipboard manager with advanced features](https://github.com/hluk/CopyQ) ⭐ 12k
+- [GitHub - Slackadays/Clipboard: 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager](https://github.com/Slackadays/Clipboard) ⭐ 5.8k
 - [GitHub - TermiT/Flycut: Clean and simple clipboard manager for developers](https://github.com/TermiT/Flycut) ⭐ 2.7k
 - [The 5 best clipboard managers in 2025 \| Zapier](https://zapier.com/blog/best-clipboard-managers/)
 
 #### hstr (reverse search)
 
-[GitHub - dvorka/hstr: bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.](https://github.com/dvorka/hstr) ⭐ 4.5k
+[GitHub - dvorka/hstr: bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.](https://github.com/dvorka/hstr) ⭐ 4.4k
 
 ```bash
 brew install hstr
@@ -402,7 +402,7 @@ Unchecking the "**Play user interface sound effects**" doesn't disable all sound
  add plugin to plugins in zshrc
 
 - AI Auto completion
-	- [GitHub - tom-doerr/zsh\_codex: This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line. · GitHub](https://github.com/tom-doerr/zsh_codex)
+	- [GitHub - tom-doerr/zsh\_codex: This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line. · GitHub](https://github.com/tom-doerr/zsh_codex) ⭐ 1.7k
 
 ```ini title="~/.config/zsh_codex.ini"
 [service]
@@ -415,11 +415,11 @@ model = gemini-2.5-flash
 ```
 
 - Alternatives
-	- [GitHub - ekkinox/yai: Your AI powered terminal assistant. · GitHub](https://github.com/ekkinox/yai)
-	- [GitHub - dh1011/llm-term: A Rust-based CLI tool that generates and executes terminal commands using OpenAI's language models. · GitHub](https://github.com/dh1011/llm-term)
-	- [GitHub - AnswerDotAI/shell\_sage: ShellSage saves sysadmins’ sanity by solving shell script snafus super swiftly · GitHub](https://github.com/AnswerDotAI/shell_sage)
-	- [GitHub - kylesnowschwartz/zsh-ai-cmd: Zsh plugin: natural language to shell commands with AI · GitHub](https://github.com/kylesnowschwartz/zsh-ai-cmd)
-	- [GitHub - theNetworkChuck/ai-in-the-terminal: Complete companion guide for NetworkChuck's 'AI in the Terminal' video - Gemini CLI, Claude Code, Codex, and opencode workflows · GitHub](https://github.com/theNetworkChuck/ai-in-the-terminal)
+	- [GitHub - ekkinox/yai: Your AI powered terminal assistant. · GitHub](https://github.com/ekkinox/yai) ⭐ 869
+	- [GitHub - dh1011/llm-term: A Rust-based CLI tool that generates and executes terminal commands using OpenAI's language models. · GitHub](https://github.com/dh1011/llm-term) ⭐ 152
+	- [GitHub - AnswerDotAI/shell\_sage: ShellSage saves sysadmins’ sanity by solving shell script snafus super swiftly · GitHub](https://github.com/AnswerDotAI/shell_sage) ⭐ 399
+	- [GitHub - kylesnowschwartz/zsh-ai-cmd: Zsh plugin: natural language to shell commands with AI · GitHub](https://github.com/kylesnowschwartz/zsh-ai-cmd) ⭐ 92
+	- [GitHub - theNetworkChuck/ai-in-the-terminal: Complete companion guide for NetworkChuck's 'AI in the Terminal' video - Gemini CLI, Claude Code, Codex, and opencode workflows · GitHub](https://github.com/theNetworkChuck/ai-in-the-terminal) ⭐ 807
 
 #### Settings
 

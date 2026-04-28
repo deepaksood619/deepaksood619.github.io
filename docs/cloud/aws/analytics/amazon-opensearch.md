@@ -112,7 +112,7 @@ If you require the full indexing capabilities of OpenSearch for faster search an
 ## OpenSearch Data Prepper
 
 - [OpenSearch Data Prepper - OpenSearch Documentation](https://opensearch.org/docs/latest/data-prepper/)
-- [GitHub - opensearch-project/data-prepper: OpenSearch Data Prepper is a component of the OpenSearch project that accepts, filters, transforms, enriches, and routes data at scale.](https://github.com/opensearch-project/data-prepper) ⭐ 359
+- [GitHub - opensearch-project/data-prepper: OpenSearch Data Prepper is a component of the OpenSearch project that accepts, filters, transforms, enriches, and routes data at scale.](https://github.com/opensearch-project/data-prepper) ⭐ 364
 - [Overview of Amazon OpenSearch Ingestion - Amazon OpenSearch Service](https://docs.aws.amazon.com/opensearch-service/latest/developerguide/ingestion.html)
 
 ## Links

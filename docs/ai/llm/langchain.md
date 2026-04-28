@@ -45,7 +45,7 @@ https://cloud.llamaindex.ai/
 
 ## LangGraph
 
-- [GitHub - wassim249/fastapi-langgraph-agent-production-ready-template: A production-ready FastAPI template for building AI agent applications with LangGraph integration. This template provides a robust foundation for building scalable, secure, and maintainable AI agent services. · GitHub](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) ⭐ 2.1k
+- [GitHub - wassim249/fastapi-langgraph-agent-production-ready-template: A production-ready FastAPI template for building AI agent applications with LangGraph integration. This template provides a robust foundation for building scalable, secure, and maintainable AI agent services. · GitHub](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) ⭐ 2.2k
 	- Swagger UI - http://localhost:8000/docs
 	- Grafana dashboards - http://localhost:3000 - admin,admin
 	- Prometheus metrics - http://localhost:9090

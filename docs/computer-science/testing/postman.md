@@ -13,7 +13,7 @@
 - https://anapioficeandfire.com
 - Twitter Developer APIs
 - [Pushshift | Guide](https://api.pushshift.io/guide)
-    - [GitHub - mattpodolak/pmaw: A multithread Pushshift.io API Wrapper for reddit.com comment and submission searches.](https://github.com/mattpodolak/pmaw) ⭐ 220
+    - [GitHub - mattpodolak/pmaw: A multithread Pushshift.io API Wrapper for reddit.com comment and submission searches.](https://github.com/mattpodolak/pmaw) ⭐ 221
 - News API
     - [News API - Search News and Blog Articles on the Web](https://newsapi.org/)
     - [Free News API](https://www.newscatcherapi.com/free-news-api)

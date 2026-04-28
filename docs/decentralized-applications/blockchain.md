@@ -184,7 +184,7 @@ Layering - Tumblr / Mixers
 
 [Protect bitcoin privacy](https://bitcoinmagazine.com/culture/how-i-protect-my-bitcoin-privacy)
 
-[GitHub - ameensol/privacy-pools: Privacy 2.0 for Ethereum](https://github.com/ameensol/privacy-pools) ⭐ 302
+[GitHub - ameensol/privacy-pools: Privacy 2.0 for Ethereum](https://github.com/ameensol/privacy-pools) ⭐ 304
 
 ## Blockspace
 

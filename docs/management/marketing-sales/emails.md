@@ -29,7 +29,7 @@
 - [Pricing | Mailjet](https://www.mailjet.com/pricing/)
 - [Ecommerce Email Marketing and SMS Platform \| Omnisend](https://www.omnisend.com/)
 - [Postmark: Fast, Reliable Email Delivery Service \| SMTP \| API](https://postmarkapp.com/)
-- [GitHub - useplunk/plunk: The Open-Source Email Platform](https://github.com/useplunk/plunk) ⭐ 4.9k
+- [GitHub - useplunk/plunk: The Open-Source Email Platform](https://github.com/useplunk/plunk) ⭐ 5.0k
 
 ## [Resend](https://resend.com/home)
 
@@ -54,7 +54,7 @@ r = resend.Emails.send({
 
 It acts as an SMTP server, provides a modern web interface to view & test captured emails, and includes an API for automated integration testing.
 
-- [GitHub - axllent/mailpit: An email and SMTP testing tool with API for developers](https://github.com/axllent/mailpit) ⭐ 9.0k
+- [GitHub - axllent/mailpit: An email and SMTP testing tool with API for developers](https://github.com/axllent/mailpit) ⭐ 9.3k
 - [Mailpit - email & SMTP testing tool](https://mailpit.axllent.org/)
 
 ### Others

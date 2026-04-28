@@ -55,9 +55,9 @@ https://segment.com/blog/CRM-vs-CDP
 [CRM vs ERP - What's the Difference?](https://www.youtube.com/watch?v=YmRz8j66m7I)
 
 - [sap](cloud/others/sap.md)
-- [GitHub - frappe/erpnext: Free and Open Source Enterprise Resource Planning (ERP)](https://github.com/frappe/erpnext) ⭐ 32k
+- [GitHub - frappe/erpnext: Free and Open Source Enterprise Resource Planning (ERP)](https://github.com/frappe/erpnext) ⭐ 33k
     - [ERPNext: Free and Open Source Cloud ERP Software](https://erpnext.com/)
-- **[GitHub - twentyhq/twenty: Building a modern alternative to Salesforce, powered by the community.](https://github.com/twentyhq/twenty) ⭐ 41k**
+- **[GitHub - twentyhq/twenty: Building a modern alternative to Salesforce, powered by the community.](https://github.com/twentyhq/twenty) ⭐ 45k**
 - Microsoft Dynamics 365
 - Odoo
 - Workday

@@ -26,7 +26,7 @@
 ## KSQL
 
 - **ksql** - This tool runs ksqlDB. For more information, see [Configure ksqlDB CLI](https://docs.confluent.io/platform/current/ksqldb/operate-and-deploy/installation/cli-config.html#ksqldb-install-configure-cli).
-- **ksql-datagen** - This tool generates test data that complies with a custom schema that you define. For more information, see [kafka-connect-datagen](https://github.com/confluentinc/kafka-connect-datagen) ⭐ 48.
+- **ksql-datagen** - This tool generates test data that complies with a custom schema that you define. For more information, see [kafka-connect-datagen](https://github.com/confluentinc/kafka-connect-datagen) ⭐ 49
 - **ksql-migrations** - This tool manages metadata schemas for your ksqlDB clusters by applying statements from migration files to your ksqlDB clusters. For more info, see [Manage metadata schemas](https://docs.confluent.io/platform/current/ksqldb/operate-and-deploy/migrations-tool.html#ksqldb-manage-metadata-schemas).
 - **ksql-restore-command** - This tool restores the command topic.
 - **ksql-run-class** - This tool is a thin wrapper around the ksqlDB Java class. It is mainly used by the start and stop scripts and should not be run by itself.
@@ -112,7 +112,7 @@ kafka-producer-perf-test \
 	- Lab1 - Price Matching Orders With MCP Tool Calling
 	- Lab2 - Vector Search & RAG
 	- Lab3 - Agentic Fleet Management Using Confluent Intelligence
-- [GitHub - confluentinc/examples: Apache Kafka, Apache Flink and Confluent Platform examples and demos · GitHub](https://github.com/confluentinc/examples) ⭐ 2.0k
+- [GitHub - confluentinc/examples: Apache Kafka, Apache Flink and Confluent Platform examples and demos · GitHub](https://github.com/confluentinc/examples) ⭐ 2.1k
 
 ## Others
 

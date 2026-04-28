@@ -67,7 +67,7 @@ Monitoring means knowing what's going on inside your system, how much traffic it
 2. DevOps Interview Guide
 	- Cloud & DevOps specific scenarios
 	- Certification preparation resources
-	- [GitHub - ramanagali/Interview\_Guide: Interview, Certification preparation guide for Cloud DevOps professionals](https://github.com/ramanagali/Interview_Guide) ⭐ 604
+	- [GitHub - ramanagali/Interview\_Guide: Interview, Certification preparation guide for Cloud DevOps professionals](https://github.com/ramanagali/Interview_Guide) ⭐ 633
 
 3. DevOps Projects by NotHarshhaa
 	- Real-world project implementations

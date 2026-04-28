@@ -136,22 +136,22 @@ autogenstudio serve --team=team-config.json --port=5000
 - [agent.ai \| The Professional Network for AI Agents](https://agent.ai/agents)
 - [AI Agents Directory - Find and Compare AI Assistants \| AI Agents List](https://aiagentslist.com/)
 - [AI Agents Marketplace \| AI Agents Directory - Discover Best AI Agents](https://aiagentsdirectory.com/)
-- [GitHub - ashishpatel26/500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.](https://github.com/ashishpatel26/500-AI-Agents-Projects) ⭐ 27k
+- [GitHub - ashishpatel26/500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.](https://github.com/ashishpatel26/500-AI-Agents-Projects) ⭐ 29k
 - [GitHub - MotiaDev/motia: Event-based orchestration framework for agents and intelligent automations](https://github.com/MotiaDev/motia) ⭐ 15k
 	- [Motia - Unified Backend Framework for APIs, Events and AI Agents](https://www.motia.dev/)
 	- [Content Creation Workflow](https://api.filekitcdn.com/e/k7YHPN24SoxyM8nGKZnDxa/35EqtSRzEiZvk7Nw1G82iz/player)
 	- [ai-engineering-hub/motia-content-creation at main · patchy631/ai-engineering-hub · GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main/motia-content-creation) ⭐ 34k
-- [GitHub - strands-agents/sdk-python: A model-driven approach to building AI agents in just a few lines of code.](https://github.com/strands-agents/sdk-python) ⭐ 5.4k
+- [GitHub - strands-agents/sdk-python: A model-driven approach to building AI agents in just a few lines of code.](https://github.com/strands-agents/sdk-python) ⭐ 5.7k
 	- [Introducing Strands Agents, an Open Source AI Agents SDK \| AWS Open Source Blog](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/)
-- [GitHub - NirDiamant/GenAI\_Agents: This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.](https://github.com/NirDiamant/GenAI_Agents) ⭐ 21k
-- [GitHub - HKUDS/AutoAgent: "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"](https://github.com/HKUDS/AutoAgent) ⭐ 8.7k
+- [GitHub - NirDiamant/GenAI\_Agents: This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.](https://github.com/NirDiamant/GenAI_Agents) ⭐ 22k
+- [GitHub - HKUDS/AutoAgent: "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"](https://github.com/HKUDS/AutoAgent) ⭐ 9.2k
 - [GitHub - weaviate/elysia: Python package and backend for the Elysia platform app.](https://github.com/weaviate/elysia) ⭐ 1.9k
 	- [Elysia - Demo](https://elysia.weaviate.io/)
 	- [Elysia: Building an end-to-end agentic RAG app \| Weaviate](https://weaviate.io/blog/elysia-agentic-rag)
 	- [We built so much into our open source agentic RAG framework, Elysia, that our "bonus features" would be the main selling points of other apps 😅 Seriously - while other frameworks are celebrating… \| Victoria Slocum \| 18 comments](https://www.linkedin.com/posts/victorialslocum_we-built-so-much-into-our-open-source-agentic-activity-7371516549565825024-mXbu)
 - **[GitHub - emcie-co/parlant: LLM agents built for control. Designed for real-world use. Deployed in minutes.](https://github.com/emcie-co/parlant) ⭐ 18k**
-- [GitHub - openai/agents.md: AGENTS.md — a simple, open format for guiding coding agents](https://github.com/openai/agents.md) ⭐ 19k
-- [GitHub - agentscope-ai/agentscope: AgentScope: Agent-Oriented Programming for Building LLM Applications](https://github.com/agentscope-ai/agentscope) ⭐ 21k
+- [GitHub - openai/agents.md: AGENTS.md — a simple, open format for guiding coding agents](https://github.com/openai/agents.md) ⭐ 21k
+- [GitHub - agentscope-ai/agentscope: AgentScope: Agent-Oriented Programming for Building LLM Applications](https://github.com/agentscope-ai/agentscope) ⭐ 24k
 	- [AgentScope](https://doc.agentscope.io/)
 	- Transparency - Full visibility over prompts, reasoning chains, and agent interactions.
 	- Runtime Control - Native support for interruptions, overrides, and custom error handling.

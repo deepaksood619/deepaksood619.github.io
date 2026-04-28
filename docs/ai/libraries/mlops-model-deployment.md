@@ -122,7 +122,7 @@ https://www.seldon.io
 
 ## Roadmap
 
-[sig-mlops/roadmap/2022/MLOpsRoadmap2022.md at main · cdfoundation/sig-mlops · GitHub](https://github.com/cdfoundation/sig-mlops/blob/main/roadmap/2022/MLOpsRoadmap2022.md) ⭐ 629
+[sig-mlops/roadmap/2022/MLOpsRoadmap2022.md at main · cdfoundation/sig-mlops · GitHub](https://github.com/cdfoundation/sig-mlops/blob/main/roadmap/2022/MLOpsRoadmap2022.md) ⭐ 628
 
 [MLOps Roadmap](https://roadmap.sh/mlops)
 
@@ -140,7 +140,7 @@ https://www.seldon.io
 
 [MLOps Course - Made With ML](https://madewithml.com/courses/mlops/)
 
-**[GitHub - DataTalksClub/mlops-zoomcamp: Free MLOps course from DataTalks.Club](https://github.com/DataTalksClub/mlops-zoomcamp) ⭐ 14k**
+**[GitHub - DataTalksClub/mlops-zoomcamp: Free MLOps course from DataTalks.Club](https://github.com/DataTalksClub/mlops-zoomcamp) ⭐ 15k**
 
 - [MLOps Zoomcamp - YouTube](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK)
 - [MLOps Zoomcamp - DataTalks.Club](https://datatalks.club/blog/mlops-zoomcamp.html)
@@ -177,6 +177,6 @@ https://www.seldon.io
 	- ZenML
 	- MLflow
 	- KubeFlow
-- [GitHub - Meesho/BharatMLStack: BharatMLStack is an open-source, end-to-end machine learning infrastructure stack built at Meesho to support real-time and batch ML workloads at Bharat scale](https://github.com/Meesho/BharatMLStack) ⭐ 681
+- [GitHub - Meesho/BharatMLStack: BharatMLStack is an open-source, end-to-end machine learning infrastructure stack built at Meesho to support real-time and batch ML workloads at Bharat scale](https://github.com/Meesho/BharatMLStack) ⭐ 693
 - [The Full MLOps Blueprint: Background and Foundations for ML in Production](https://www.dailydoseofds.com/mlops-crash-course-part-1/)
 - [If you would like to start learning MLOps in 2025, start with this : Day 1: Intro to MLOps: ML Meets DevOps: https://lxop.in/day1 Day 2: MLOps Tools Landscape: https://lxop.in/day2 Day 3: Data… \| Sandip Das \| 54 comments](https://www.linkedin.com/posts/sandip-das-developer_if-you-would-like-to-start-learning-mlops-activity-7361968872574345218-6qxv/)

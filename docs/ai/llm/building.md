@@ -9,7 +9,7 @@
 - [LLM2 Module 1 - Transformers | 1.6 Base/Foundation Models - YouTube](https://www.youtube.com/watch?v=sJsPgRg883w)
 - [20 papers to master Language modeling? - YouTube](https://www.youtube.com/watch?v=QQIwfpOY-qA)
 - [Bringing Llama 3 to Life | Joe Spisak, Delia David, Kaushik Veeraraghavan & Ye (Charlotte) Qi - YouTube](https://www.youtube.com/watch?v=ELIcy6flgQI)
-- [GitHub - rasbt/reasoning-from-scratch: Implement a reasoning LLM in PyTorch from scratch, step by step](https://github.com/rasbt/reasoning-from-scratch) ⭐ 3.7k
+- [GitHub - rasbt/reasoning-from-scratch: Implement a reasoning LLM in PyTorch from scratch, step by step](https://github.com/rasbt/reasoning-from-scratch) ⭐ 4.2k
 
 ## Architecture
 
@@ -30,7 +30,7 @@
 
 ## Building
 
-- [GitHub - karpathy/nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs.](https://github.com/karpathy/nanoGPT) ⭐ 56k
+- [GitHub - karpathy/nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs.](https://github.com/karpathy/nanoGPT) ⭐ 57k
 
 ![LLM Working](../../media/llm-working.jpg)
 
@@ -97,12 +97,12 @@ Instead of copying parameters, the attacker copies behaviour by treating the tar
 - Langdock
 - LLM Spark
 
-- [GitHub - Significant-Gravitas/Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous.](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 183k
+- [GitHub - Significant-Gravitas/Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous.](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 184k
 - [Llama 2 - Meta AI](https://ai.meta.com/llama/)
 - [Introducing Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
-- [GitHub - jerryjliu/llama\_index: **LlamaIndex** (GPT Index) is a data framework for your LLM applications](https://github.com/jerryjliu/llama_index) ⭐ 48k
+- [GitHub - jerryjliu/llama\_index: **LlamaIndex** (GPT Index) is a data framework for your LLM applications](https://github.com/jerryjliu/llama_index) ⭐ 49k
 - [Building your Generative AI apps with Meta's Llama 2 and Databricks | Databricks Blog](https://www.databricks.com/blog/building-your-generative-ai-apps-metas-llama-2-and-databricks)
-- [GitHub - stoyan-stoyanov/llmflows: LLMFlows - Simple, Explicit and Transparent LLM Apps](https://github.com/stoyan-stoyanov/llmflows) ⭐ 707
+- [GitHub - stoyan-stoyanov/llmflows: LLMFlows - Simple, Explicit and Transparent LLM Apps](https://github.com/stoyan-stoyanov/llmflows) ⭐ 706
 - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
 - [GitHub - ShishirPatil/gorilla: Gorilla: An API store for LLMs](https://github.com/ShishirPatil/gorilla) ⭐ 13k
 - [gorilla-llm (Gorilla LLM (UC Berkeley))](https://huggingface.co/gorilla-llm)
@@ -112,14 +112,14 @@ Instead of copying parameters, the attacker copies behaviour by treating the tar
 - [GitHub - xtekky/gpt4free: The official gpt4free repository | various collection of powerful language models](https://github.com/xtekky/gpt4free) ⭐ 66k
 - [GitHub - yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) ⭐ 22k
 - [GitHub - coqui-ai/TTS: 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production](https://github.com/coqui-ai/TTS) ⭐ 45k
-- [GitHub - tensorchord/Awesome-LLMOps: An awesome & curated list of best LLMOps tools for developers](https://github.com/tensorchord/Awesome-LLMOps) ⭐ 5.7k
+- [GitHub - tensorchord/Awesome-LLMOps: An awesome & curated list of best LLMOps tools for developers](https://github.com/tensorchord/Awesome-LLMOps) ⭐ 5.8k
 - [AI Development Cloud Platform | Deploy & Manage AI Logic](https://mindsdb.com/)
 - [GitHub - microsoft/autogen: A programming framework for agentic AI. Join our Discord: https://discord.gg/pAbnFJrkgZ](https://github.com/microsoft/autogen) ⭐ 57k
-- [GitHub - comfyanonymous/ComfyUI: The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.](https://github.com/comfyanonymous/ComfyUI) ⭐ 107k
+- [GitHub - comfyanonymous/ComfyUI: The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.](https://github.com/comfyanonymous/ComfyUI) ⭐ 110k
     - [How to install and use ComfyUI - Stable Diffusion. - YouTube](https://www.youtube.com/watch?v=KTPLOqAMR0s)
 - [GitHub - bentoml/OpenLLM: Operating LLMs in production](https://github.com/bentoml/OpenLLM) ⭐ 12k
     - [BentoML: Build, Ship, Scale AI Applications](https://bentoml.com/)
-- [GitHub - agiresearch/AIOS: AIOS: LLM Agent Operating System](https://github.com/agiresearch/AIOS) ⭐ 5.4k
+- [GitHub - agiresearch/AIOS: AIOS: LLM Agent Operating System](https://github.com/agiresearch/AIOS) ⭐ 5.6k
     - [LLM agent operating system (AIOS) and the future of LLM-powered agents | by Simeon Emanuilov | Apr, 2024 | Medium](https://medium.com/@simeon.emanuilov/llm-agent-operating-system-aios-and-the-future-of-llm-powered-agents-3d08b4e91c34)
 - [AirLLM Unleashed. Efficiently Running 70B LLM Inference… | by Haribaskar Dhanabalan | Medium](https://medium.com/@haribaskar.dhanabalan/airllm-unleashed-2e32dae74c3d)
 - [GitHub - microsoft/TinyTroupe: LLM-powered multiagent persona simulation for imagination enhancement and business insights.](https://github.com/microsoft/TinyTroupe) ⭐ 7.4k
@@ -172,7 +172,7 @@ Ludwig enables you to apply state-of-the-art tabular, natural language processin
 
 ### Others
 
-- [GitHub - LMCache/LMCache: Supercharge Your LLM with the Fastest KV Cache Layer](https://github.com/LMCache/LMCache) ⭐ 7.8k
+- [GitHub - LMCache/LMCache: Supercharge Your LLM with the Fastest KV Cache Layer](https://github.com/LMCache/LMCache) ⭐ 8.1k
 
 ## SAAS
 
@@ -187,14 +187,14 @@ Ludwig enables you to apply state-of-the-art tabular, natural language processin
 
 ![document-based-question-answering-system](../../media/Screenshot%202023-12-28%20at%208.00.43.PM.jpg)
 
-- [GitHub - openai/openai-cookbook: Examples and guides for using the OpenAI API](https://github.com/openai/openai-cookbook) ⭐ 72k
+- [GitHub - openai/openai-cookbook: Examples and guides for using the OpenAI API](https://github.com/openai/openai-cookbook) ⭐ 73k
 - [Vector Embeddings Tutorial - Create an AI Assistant with GPT-4 & Natural Language Processing - YouTube](https://www.youtube.com/watch?v=yfHHvmaMkcA)
 - [This new AI is powerful and uncensored… Let’s run it - YouTube](https://www.youtube.com/watch?v=GyllRd2E6fg&ab_channel=Fireship)
 - [Learn Generative AI in 30 Hours](https://www.freecodecamp.org/news/learn-generative-ai-in/)
 - [AI Watermarking 101: Tools and Techniques](https://huggingface.co/blog/watermarking)
 - [Optimize generative AI applications with pgvector indexing: A deep dive into IVFFlat and HNSW techniques | AWS Database Blog](https://aws.amazon.com/blogs/database/optimize-generative-ai-applications-with-pgvector-indexing-a-deep-dive-into-ivfflat-and-hnsw-techniques/)
 - [V-JEPA: The next step toward advanced machine intelligence](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)
-- [GitHub - GoogleCloudPlatform/generative-ai: Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI](https://github.com/GoogleCloudPlatform/generative-ai) ⭐ 16k
+- [GitHub - GoogleCloudPlatform/generative-ai: Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI](https://github.com/GoogleCloudPlatform/generative-ai) ⭐ 17k
 - [ThunderKittens to make the GPUS go brr - by Bugra Akyildiz](https://mlops.substack.com/p/thunderkittens-to-make-the-gpus-go)
 - [RoCE networks for distributed AI training at scale - Engineering at Meta](https://engineering.fb.com/2024/08/05/data-center-engineering/roce-network-distributed-ai-training-at-scale/)
 - [GitHub - naklecha/llama3-from-scratch: llama3 implementation one matrix multiplication at a time](https://github.com/naklecha/llama3-from-scratch) ⭐ 15k

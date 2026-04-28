@@ -39,7 +39,7 @@ databricks secrets put-secret abc-scope abc
 
 [Databricks CLI | Databricks on AWS](https://docs.databricks.com/dev-tools/cli/databricks-cli.html)
 
-[GitHub - databricks/databricks-cli: Command Line Interface for Databricks](https://github.com/databricks/databricks-cli) ⭐ 396
+[GitHub - databricks/databricks-cli: Command Line Interface for Databricks](https://github.com/databricks/databricks-cli) ⭐ 397
 
 [Secrets | Databricks on AWS](https://docs.databricks.com/security/secrets/secrets.html)
 

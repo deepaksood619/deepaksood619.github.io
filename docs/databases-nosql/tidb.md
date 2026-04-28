@@ -8,7 +8,7 @@ Inside the TiDB platform, the main components are as follows:
 
 - [TiDB server](https://github.com/pingcap/tidb) ⭐ 40k is a stateless SQL layer that processes users' SQL queries, accesses data in the storage layer, and returns the corresponding results to the application. It is MySQL-compatible and sits on top of TiKV.
 - [TiKV server](https://github.com/pingcap/tikv) ⭐ 17k is the distributed transactional key-value storage layer where the data persists. It uses the [Raft](https://raft.github.io/) consensus protocol for replication to ensure strong data consistency and high availability.
-- [TiSpark](https://github.com/pingcap/tispark) ⭐ 892 cluster also sits on top of TiKV. It is an Apache Spark plugin that works with the TiDB platform to support complex Online Analytical Processing (OLAP) queries for business intelligence (BI) analysts and data scientists.
+- [TiSpark](https://github.com/pingcap/tispark) ⭐ 890 cluster also sits on top of TiKV. It is an Apache Spark plugin that works with the TiDB platform to support complex Online Analytical Processing (OLAP) queries for business intelligence (BI) analysts and data scientists.
 - [Placement Driver (PD) server](https://github.com/pingcap/pd) ⭐ 1.1k is a metadata cluster powered by [etcd](https://github.com/etcd-io/etcd) ⭐ 52k that manages and schedules TiKV.
 
 ## Key features

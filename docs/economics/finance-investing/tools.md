@@ -44,7 +44,7 @@
 - [markets.sh](https://markets.sh/)
 - [PortfolioPilot: Your Personal AI Financial Advisor](https://portfoliopilot.com/)
 - [Portfolio Performance](https://www.portfolio-performance.info/en/)
-- [GitHub - engineerinvestor/Portfolio-Analysis: Open-source portfolio analysis tools for DIY investors and finance enthusiasts.](https://github.com/engineerinvestor/Portfolio-Analysis?tab=readme-ov-file) ⭐ 33
+- [GitHub - engineerinvestor/Portfolio-Analysis: Open-source portfolio analysis tools for DIY investors and finance enthusiasts.](https://github.com/engineerinvestor/Portfolio-Analysis?tab=readme-ov-file) ⭐ 38
 - [GitHub - teddy8193/portfolio-analysis-tool: Virualizing efficient frontier for portfolio analysis](https://github.com/teddy8193/portfolio-analysis-tool) ⭐ 0
 - [Google sheet for Portfolio tracking : r/IndiaInvestments](https://www.reddit.com/r/IndiaInvestments/comments/ogem2j/google_sheet_for_portfolio_tracking/)
 	- [Portfolio Tracker (Public Version) v\_2.4 - Google Sheets](https://docs.google.com/spreadsheets/d/1gQMYtsffnWwwJHtZPk73ZSc9QLv0OU2Wu1pVQVzVOAA/edit?gid=1017136944#gid=1017136944)

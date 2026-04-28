@@ -36,7 +36,7 @@ It builds upon the basic Kubernetes **resource** and **controller** concepts but
 
 [Operator SDK](https://sdk.operatorframework.io/)
 
-[GitHub - kubernetes-sigs/kubebuilder: Kubebuilder - SDK for building Kubernetes APIs using CRDs](https://github.com/kubernetes-sigs/kubebuilder) ⭐ 9.0k
+[GitHub - kubernetes-sigs/kubebuilder: Kubebuilder - SDK for building Kubernetes APIs using CRDs](https://github.com/kubernetes-sigs/kubebuilder) ⭐ 9.1k
 
 ## Game Changer
 

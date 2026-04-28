@@ -94,7 +94,7 @@ Benefits are broad and significant. Teams with a reliance on existing virtual ma
 
 https://github.com/kubemove/kubemove
 
-[**https://github.com/heptio/velero**](https://github.com/heptio/velero) ⭐ 9.9k
+[**https://github.com/heptio/velero**](https://github.com/heptio/velero) ⭐ 10.0k
 
 https://heptio.github.io/velero/master/migration-case.html
 
@@ -153,7 +153,7 @@ https://forge.sh
 
 ## Sonobuoy
 
-Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of plugins (including [Kubernetes](https://github.com/kubernetes/kubernetes) ⭐ 121k conformance tests) in an accessible and non-destructive manner. It is a customizable, extendable, and cluster-agnostic way to generate clear, informative reports about your cluster.
+Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of plugins (including [Kubernetes](https://github.com/kubernetes/kubernetes) ⭐ 122k conformance tests) in an accessible and non-destructive manner. It is a customizable, extendable, and cluster-agnostic way to generate clear, informative reports about your cluster.
 
 Cluster operators
 

@@ -337,8 +337,8 @@ While there are different ways to add Google Analytics your WordPress site, here
 ## Woocommerce
 
 - [Model Context Protocol (MCP) Integration \| WooCommerce developer docs](https://developer.woocommerce.com/docs/features/mcp/)
-- [GitHub - woocommerce/wc-mcp-ability: WooCommerce MCP and Ability Integration Demo Plugin · GitHub](https://github.com/woocommerce/wc-mcp-ability)
-- [GitHub - Automattic/mcp-wordpress-remote · GitHub](https://github.com/Automattic/mcp-wordpress-remote)
+- [GitHub - woocommerce/wc-mcp-ability: WooCommerce MCP and Ability Integration Demo Plugin · GitHub](https://github.com/woocommerce/wc-mcp-ability) ⭐ 5
+- [GitHub - Automattic/mcp-wordpress-remote · GitHub](https://github.com/Automattic/mcp-wordpress-remote) ⭐ 139
 	- **woocommerce-products-list -** Retrieve a paginated list of products with optional filters for status, category, price range, and other attributes.
 	- **woocommerce-products-get -** Retrieve detailed information about a single product by ID, including price, description, images, and metadata.
 	- **woocommerce-products-create -** Create a new product in WooCommerce with name, price, description, and other product attributes.
@@ -348,8 +348,8 @@ While there are different ways to add Google Analytics your WordPress site, here
 	- **woocommerce-orders-get -** Retrieve detailed information about a single order by ID, including line items, customer details, and payment information.
 	- **woocommerce-orders-create -** Create a new order with customer information, line items, shipping details, and payment information.
 	- **woocommerce-orders-update -** Update an existing order by modifying status, customer information, line items, or other order details.
-- [GitHub - WordPress/mcp-adapter: An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically. · GitHub](https://github.com/wordpress/mcp-adapter)
-- [GitHub - techspawn/woocommerce-mcp-server: A WooCommerce (MCP) Model Context Protocol server · GitHub](https://github.com/techspawn/woocommerce-mcp-server)
+- [GitHub - WordPress/mcp-adapter: An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically. · GitHub](https://github.com/wordpress/mcp-adapter) ⭐ 962
+- [GitHub - techspawn/woocommerce-mcp-server: A WooCommerce (MCP) Model Context Protocol server · GitHub](https://github.com/techspawn/woocommerce-mcp-server) ⭐ 87
 
 ## Others
 
@@ -360,6 +360,6 @@ While there are different ways to add Google Analytics your WordPress site, here
 - https://www.freecodecamp.org/news/easily-create-a-website-using-elementor-and-wordpress
 - [Harness WordPress: Hooks, Actions and Filters  | Toptal](https://www.toptal.com/wordpress/power-of-wordpress-hooks-actions-and-filters)
 - [The Ultimate Guide to High Performance WordPress](https://www.freecodecamp.org/news/the-ultimate-guide-to-high-performance-wordpress/)
-- [GitHub - WordPress/mcp-adapter: An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically. · GitHub](https://github.com/WordPress/mcp-adapter) ⭐ 748
+- [GitHub - WordPress/mcp-adapter: An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically. · GitHub](https://github.com/WordPress/mcp-adapter) ⭐ 962
 	- [Abilities API in WordPress 6.9 – Make WordPress Core](https://make.wordpress.org/core/2025/11/10/abilities-api-in-wordpress-6-9/)
 - [WordPress 6.9 Is Coming Tomorrow - Are You Ready?](https://www.bluehost.com/blog/latest-wordpress-version-6-9/)

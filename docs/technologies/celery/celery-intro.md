@@ -14,7 +14,7 @@ Celery communicates via messages, usually using a broker to mediate between clie
 
 A Celery system can consist of multiple workers and brokers, giving way to high availability and horizontal scaling.
 
-Celery is written in Python, but the protocol can be implemented in any language. In addition to Python there's [node-celery](https://github.com/mher/node-celery) ⭐ 658 for Node.js, and a [PHP client](https://github.com/gjedeer/celery-php) ⭐ 420.
+Celery is written in Python, but the protocol can be implemented in any language. In addition to Python there's [node-celery](https://github.com/mher/node-celery) ⭐ 661 for Node.js, and a [PHP client](https://github.com/gjedeer/celery-php) ⭐ 420
 
 Language interoperability can also be achieved by using webhooks in such a way that the client enqueues an URL to be requested by a worker.
 

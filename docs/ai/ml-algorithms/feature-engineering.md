@@ -10,7 +10,7 @@
 
 ## Tools
 
-[GitHub - feast-dev/feast: The Open Source Feature Store for Machine Learning](https://github.com/feast-dev/feast) ⭐ 6.8k
+[GitHub - feast-dev/feast: The Open Source Feature Store for Machine Learning](https://github.com/feast-dev/feast) ⭐ 7.0k
 
 Feast (**Fea**ture **St**ore) is an open source feature store for machine learning. Feast is the fastest path to manage existing infrastructure to productionize analytic data for model training and online inference.
 

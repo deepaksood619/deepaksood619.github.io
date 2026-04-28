@@ -160,7 +160,7 @@ It is production-ready, and gives you the following:
 
 ### Admin
 
-[GitHub - fastapi-admin/fastapi-admin: A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin](https://github.com/fastapi-admin/fastapi-admin) ⭐ 3.7k
+[GitHub - fastapi-admin/fastapi-admin: A fast admin dashboard based on FastAPI and TortoiseORM with tabler ui, inspired by Django admin](https://github.com/fastapi-admin/fastapi-admin) ⭐ 3.8k
 
 [Starlette Admin](https://jowilf.github.io/starlette-admin/) (Supports mongoengine too)
 

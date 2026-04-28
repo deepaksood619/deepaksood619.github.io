@@ -49,7 +49,7 @@ https://spacy.io/usage/models
 
 [spaCy · Industrial-strength Natural Language Processing in Python](https://spacy.io/)
 
-[GitHub - explosion/spaCy: 💫 Industrial-strength Natural Language Processing (NLP) in Python](https://github.com/explosion/spaCy) ⭐ 33k
+[GitHub - explosion/spaCy: 💫 Industrial-strength Natural Language Processing (NLP) in Python](https://github.com/explosion/spaCy) ⭐ 34k
 
 ## Gensim (Topic Modeling for Humans)
 

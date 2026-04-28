@@ -154,7 +154,7 @@ https://palletsprojects.com/p/jinja
 Tenacity is an Apache 2.0 licensed general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything. It originates from [a fork of retrying](https://github.com/rholder/retrying/issues/65) ⭐ 1.9k which is sadly no longer [maintained](https://julien.danjou.info/python-tenacity/). Tenacity isn’t api compatible with retrying but adds significant new functionality and fixes a number of longstanding bugs.
 
 - [Tenacity — Tenacity documentation](https://tenacity.readthedocs.io/en/latest/)
-- [GitHub - jd/tenacity: Retrying library for Python](https://github.com/jd/tenacity) ⭐ 8.5k
+- [GitHub - jd/tenacity: Retrying library for Python](https://github.com/jd/tenacity) ⭐ 8.6k
 - [Awesome Python Library: Tenacity](https://new.pythonforengineers.com/blog/awesome-python-library-tenacity/)
 - [Retry flaky task in Python using Tenacity | by Parag Kamble | Medium](https://paragkamble.medium.com/retry-flaky-task-in-python-using-tenacity-c6fabcf9a3be)
 

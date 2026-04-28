@@ -169,7 +169,7 @@ https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f560
 
 [https://meltano.com](https://meltano.com/)
 
-[GitHub - meltano/meltano: Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.](https://github.com/meltano/meltano) ⭐ 2.4k
+[GitHub - meltano/meltano: Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.](https://github.com/meltano/meltano) ⭐ 2.5k
 
 ## Generative Art
 

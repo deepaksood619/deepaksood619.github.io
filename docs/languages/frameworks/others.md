@@ -44,7 +44,7 @@ A complete [Spring application](https://spring.io/):
 - Optional WebSocket support with Spring Websocket
 - [Spring Data JPA](https://projects.spring.io/spring-data-jpa/)+ Bean Validation
 - Database updates with [Liquibase](http://www.liquibase.org/)
-- [Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 76k support if you want to have search capabilities on top of your database
+- [Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 77k support if you want to have search capabilities on top of your database
 - [MongoDB](https://www.mongodb.org/) and [Couchbase](https://www.couchbase.com/) support if you'd rather use a document-oriented NoSQL database instead of JPA
 - [Cassandra](https://cassandra.apache.org/) support if you'd rather use a column-oriented NoSQL database instead of JPA
 - [Kafka](https://kafka.apache.org/) support if you want to use a publish-subscribe messaging system

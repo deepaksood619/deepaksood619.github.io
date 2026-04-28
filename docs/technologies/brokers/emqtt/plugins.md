@@ -10,7 +10,7 @@ TheEMQ Xbroker could be extended by Plugins. A plugin is an Erlang application t
 | [emqx_plugin_template](https://github.com/emqx/emqx-plugin-template) ⭐ 79 | Plugin template and demo                  |
 | [emqx_auth_ldap](https://github.com/emqx/emqx-auth-ldap) ⭐ 7             | LDAP Auth Plugin                          |
 | [emqx_auth_http](https://github.com/emqx/emqx-auth-http) ⭐ 46             | Authentication/ACL with HTTP API          |
-| [emqx_auth_mysql](https://github.com/emqx/emqx-auth-mysql) ⭐ 57           | Authentication with MySQL                 |
+| [emqx_auth_mysql](https://github.com/emqx/emqx-auth-mysql) ⭐ 56           | Authentication with MySQL                 |
 | [emqx_auth_pgsql](https://github.com/emqx/emqx-auth-pgsql) ⭐ 36           | Authentication with PostgreSQL            |
 | [emqx_auth_redis](https://github.com/emqx/emqx-auth-redis) ⭐ 33           | Authentication with Redis                 |
 | [emqx_auth_mongo](https://github.com/emqx/emqx-auth-mongo) ⭐ 21           | Authentication with MongoDB               |

@@ -8,7 +8,7 @@ Unified NLQ (Natural Language Query)
 
 - [**Dataherald**](https://github.com/Dataherald/dataherald) ⭐ 3.6k - natural language-to-SQL engine built for enterprise-level question answering over structured data. [HN launch post](https://news.ycombinator.com/item?id=37240363).
 - [SQLCoder-2–7b: How to Reliably Query Data in Natural Language, on Consumer Hardware | by Sjoerd Tiemensma | Use AI | Medium](https://medium.com/use-ai/sqlcoder-2-7b-how-to-reliably-query-data-in-natural-language-on-consumer-hardware-cb352a3cf3ab)
-- [GitHub - RamiKrispin/lang2sql: A tutorial for setting an SQL code generator with the OpenAI API](https://github.com/RamiKrispin/lang2sql) ⭐ 246
+- [GitHub - RamiKrispin/lang2sql: A tutorial for setting an SQL code generator with the OpenAI API](https://github.com/RamiKrispin/lang2sql) ⭐ 247
 - [Waii - World's most powerful SQL API built with generative AI](https://www.waii.ai/)
 - SAAS - [Text to SQL & AI Query Generator \| Text2SQL.ai](https://www.text2sql.ai/)
 - **Uber - QueryGPT**
@@ -17,7 +17,7 @@ Unified NLQ (Natural Language Query)
 	- [QueryGPT](https://querygpt.xyz/)
 - [Wren AI \| GenBI (Generative BI) & Embedded Analytics for Smarter Decisions](https://getwren.ai/)
 	- [GitHub - Canner/WrenAI: ⚡️Wren AI is your GenBI Agent, that you can query any database with natural language, get accurate SQL(Text-to-SQL), charts(Text-to-Charts) & AI-generated insights in seconds.](https://github.com/Canner/WrenAI) ⭐ 15k - 9.7K
-	- [GitHub - Canner/wren-engine: 🤖 The Semantic Engine for Model Context Protocol(MCP) Clients and AI Agents 🔥](https://github.com/Canner/wren-engine) ⭐ 603
+	- [GitHub - Canner/wren-engine: 🤖 The Semantic Engine for Model Context Protocol(MCP) Clients and AI Agents 🔥](https://github.com/Canner/wren-engine) ⭐ 655
 	- [Wrenai Cloud Api Demo - a Hugging Face Space by getWrenAI](https://huggingface.co/spaces/getWrenAI/wrenai-cloud-api-demo)
 	- [Wren AI](https://docs.getwren.ai/oss/overview/cloud_vs_self_host)
 	- [The Wren AI Blog - Wren AI vs. Vanna: The Enterprise Guide to Choosing a Text-to-SQL Solution](https://getwren.ai/post/wren-ai-vs-vanna-the-enterprise-guide-to-choosing-a-text-to-sql-solution)

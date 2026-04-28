@@ -95,7 +95,7 @@ The benefits are real — better output quality, independent improvability of ea
 ## Examples / Learning
 
 - [I built an agent that tells you exactly how to sell to anyone - just from their name. Here's what it does: → Takes a name as input (provide company too if common name) → Finds their entire digital… \| Ethan Kinnan \| 1,490 comments](https://www.linkedin.com/posts/ethan-kinnan_i-built-an-agent-that-tells-you-exactly-how-ugcPost-7371962445747253248-bzCS/)
-- [GitHub - NirDiamant/agents-towards-production: This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.](https://github.com/NirDiamant/agents-towards-production) ⭐ 18k
+- [GitHub - NirDiamant/agents-towards-production: This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.](https://github.com/NirDiamant/agents-towards-production) ⭐ 19k
 
 ## References
 

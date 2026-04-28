@@ -211,4 +211,4 @@ Spatial-level transforms will simultaneously change both an input image as well 
 
 ## Others
 
-- [GitHub - google-ai-edge/mediapipe: Cross-platform, customizable ML solutions for live and streaming media.](https://github.com/google-ai-edge/mediapipe) ⭐ 34k
+- [GitHub - google-ai-edge/mediapipe: Cross-platform, customizable ML solutions for live and streaming media.](https://github.com/google-ai-edge/mediapipe) ⭐ 35k

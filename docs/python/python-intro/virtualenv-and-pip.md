@@ -89,7 +89,7 @@ source my_project/bin/activate
 
 ### pyenv
 
-[**pyenv**](https://github.com/yyuu/pyenv) ⭐ 44k is used to isolate Python versions. For example, you may want to test your code against Python 2.6, 2.7, 3.3, 3.4 and 3.5, so you'll need a way to switch between them. Once activated, it prefixes the PATH environment variable with `~/.pyenv/shims`, where there are special files matching the Python commands (python, pip). These are not copies of the Python-shipped commands; they are special scripts that decide on the fly which version of Python to run based on the PYENV_VERSION environment variable, or the.python-version file, or the `~/.pyenv/versionfile.py` env also makes the process of downloading and installing multiple Python versions easier, using the command pyenv install.
+[**pyenv**](https://github.com/yyuu/pyenv) ⭐ 45k is used to isolate Python versions. For example, you may want to test your code against Python 2.6, 2.7, 3.3, 3.4 and 3.5, so you'll need a way to switch between them. Once activated, it prefixes the PATH environment variable with `~/.pyenv/shims`, where there are special files matching the Python commands (python, pip). These are not copies of the Python-shipped commands; they are special scripts that decide on the fly which version of Python to run based on the PYENV_VERSION environment variable, or the.python-version file, or the `~/.pyenv/versionfile.py` env also makes the process of downloading and installing multiple Python versions easier, using the command pyenv install.
 
 ### pyenv-virtualenv
 
@@ -101,7 +101,7 @@ source my_project/bin/activate
 
 ### pyenv-virtualenvwrapper
 
-[**pyenv-virtualenvwrapper**](https://github.com/yyuu/pyenv-virtualenvwrapper) ⭐ 676 is a plugin for pyenv by the same author as pyenv, to conveniently integrate virtualenv wrapper into pyenv.
+[**pyenv-virtualenvwrapper**](https://github.com/yyuu/pyenv-virtualenvwrapper) ⭐ 678 is a plugin for pyenv by the same author as pyenv, to conveniently integrate virtualenv wrapper into pyenv.
 
 ### pipenv
 

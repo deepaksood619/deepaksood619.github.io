@@ -76,7 +76,7 @@ This is a tool that analyzes the token’s smart contract, tokenomics, holders, 
 - [login.xyz](https://login.xyz/)
 - [Blockscout](https://www.blockscout.com/) - Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.
 - [Welcome to Substrate | Substrate\_ Docs](https://docs.substrate.io/learn/welcome-to-substrate/)
-- [GitHub - casey/ord: 👁‍🗨 Rare and exotic sats](https://github.com/casey/ord) ⭐ 95
+- [GitHub - casey/ord: 👁‍🗨 Rare and exotic sats](https://github.com/casey/ord) ⭐ 98
 - [Curvegrid 🛠 A 30 Minute DApp - Jeff Wentworth - YouTube](https://www.youtube.com/watch?v=PzmVzShojlM&ab_channel=ETHGlobal)
 - [The GRAPH - Google Of Blockchains? GRT Token Explained - YouTube](https://www.youtube.com/watch?v=7gC7xJ_98r8)
 - [WalletConnect](https://walletconnect.com/)

@@ -134,5 +134,5 @@ Ultrathink
 
 - **[Ultimate Prompts for Every Developer \| by Onix React \| Medium](https://medium.com/@onix_react/ultimate-prompts-for-every-developer-031a6d26a569)**
 - [Reddit - Please wait for verification](https://www.reddit.com/r/ClaudeAI/comments/1km9hhp/latest_rules_for_claude_code/)
-- [GitHub - PickleBoxer/dev-chatgpt-prompts: 📚 Personal collection of ChatGPT prompts for developers! · GitHub](https://github.com/PickleBoxer/dev-chatgpt-prompts)
+- [GitHub - PickleBoxer/dev-chatgpt-prompts: 📚 Personal collection of ChatGPT prompts for developers! · GitHub](https://github.com/PickleBoxer/dev-chatgpt-prompts) ⭐ 2.2k
 - [A collection of 200 Claude AI prompts for coding, research, and automation workflows.](https://mindwiredai.com/2026/04/07/best-claude-prompts-library/)

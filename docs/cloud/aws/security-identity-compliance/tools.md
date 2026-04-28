@@ -102,7 +102,7 @@ Scanners (what Trivy can find there):
 - Sensitive information and secrets
 - Software licenses
 
-[GitHub - aquasecurity/trivy: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more](https://github.com/aquasecurity/trivy) ⭐ 34k
+[GitHub - aquasecurity/trivy: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more](https://github.com/aquasecurity/trivy) ⭐ 35k
 
 [Trivy Home - Trivy](https://trivy.dev/)
 

@@ -66,7 +66,7 @@ Comma seperate values
 
 ## Django River
 
-[https://github.com/javrasya/django-river](https://github.com/javrasya/django-river) ⭐ 745
+[https://github.com/javrasya/django-river](https://github.com/javrasya/django-river) ⭐ 747
 
 Django workflow library that supports on the fly changes
 
@@ -162,7 +162,7 @@ http://whitenoise.evans.io/en/stable
 ## Tools
 
 - Django-debug-toolbar
-- [GitHub - jazzband/django-silk: Silky smooth profiling for Django](https://github.com/jazzband/django-silk) ⭐ 4.9k
+- [GitHub - jazzband/django-silk: Silky smooth profiling for Django](https://github.com/jazzband/django-silk) ⭐ 5.0k
 - django-extensions
 - django-import-export
 - django-rest-swagger

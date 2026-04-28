@@ -77,7 +77,7 @@ cadvisor:
 	restart: always
 ```
 
-[GitHub - google/cadvisor: Analyzes resource usage and performance characteristics of running containers. · GitHub](https://github.com/google/cadvisor)
+[GitHub - google/cadvisor: Analyzes resource usage and performance characteristics of running containers. · GitHub](https://github.com/google/cadvisor) ⭐ 19k
 
 ## Zabbix
 
@@ -274,7 +274,7 @@ https://docs.docker.com/config/containers/logging/syslog
 
 ## signoz
 
-[GitHub - SigNoz/signoz: SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (APM) & Observability tool](https://github.com/SigNoz/signoz) ⭐ 26k
+[GitHub - SigNoz/signoz: SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (APM) & Observability tool](https://github.com/SigNoz/signoz) ⭐ 27k
 
 - Metrics
 - Traces

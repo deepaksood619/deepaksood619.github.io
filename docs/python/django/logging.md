@@ -101,8 +101,18 @@ l.addHandler(logging.StreamHandler())
 
 ## Libraries
 
-- [GitHub - hynek/structlog: Simple, powerful, and fast logging for Python. · GitHub](https://github.com/hynek/structlog)
-- [GitHub - Delgan/loguru: Python logging made (stupidly) simple · GitHub](https://github.com/delgan/loguru)
+- [GitHub - hynek/structlog: Simple, powerful, and fast logging for Python. · GitHub](https://github.com/hynek/structlog) ⭐ 4.7k
+- [A Comprehensive Guide to Python Logging with Structlog \| Better Stack Community](https://betterstack.com/community/guides/logging/structlog/)
+
+### Loguru
+
+**Loguru** is a library which aims to bring enjoyable logging in Python.
+
+Did you ever feel lazy about configuring a logger and used `print()` instead?... I did, yet logging is fundamental to every application and eases the process of debugging. Using **Loguru** you have no excuse not to use logging from the start, this is as simple as `from loguru import logger`.
+
+Also, this library is intended to make Python logging less painful by adding a bunch of useful functionalities that solve caveats of the standard loggers. Using logs in your application should be an automatism, **Loguru** tries to make it both pleasant and powerful.
+
+[GitHub - Delgan/loguru: Python logging made (stupidly) simple · GitHub](https://github.com/delgan/loguru) ⭐ 24k
 
 ## Links
 

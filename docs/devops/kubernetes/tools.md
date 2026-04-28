@@ -435,7 +435,7 @@ External Secrets Operator reads information from a third-party service like AWS 
 
 [Introduction - External Secrets Operator](https://external-secrets.io/latest/)
 
-[GitHub - external-secrets/external-secrets - GitHub](https://github.com/external-secrets/external-secrets) ⭐ 6.5k
+[GitHub - external-secrets/external-secrets - GitHub](https://github.com/external-secrets/external-secrets) ⭐ 6.6k
 
 ## Others
 

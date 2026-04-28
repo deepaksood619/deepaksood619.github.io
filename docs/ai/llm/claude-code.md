@@ -287,7 +287,7 @@ ls ~/.claude/get-shit-done/workflows/
 		2. Grouping - Aggregates similar items (files by directory, errors by type)
 		3. Truncation - Keeps relevant context, cuts redundancy
 		4. Deduplication - Collapses repeated log lines with counts
-- [GitHub - snarktank/ralph: Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. · GitHub](https://github.com/snarktank/ralph)
+- [GitHub - snarktank/ralph: Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. · GitHub](https://github.com/snarktank/ralph) ⭐ 18k
 	- [Claude Code Testing: How to Make AI Verify (and Fix) Its Own Work](https://www.nathanonn.com/claude-code-testing-ralph-loop-verification/)
 
 ### Skills

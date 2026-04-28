@@ -8,7 +8,7 @@
 2. https://www.focalboard.com - Alternative to Asana / Trello / Notion
 3. Atlassian JIRA
     1. Free Open Source / Self hosted - https://www.taiga.io
-    2. [GitHub - makeplane/plane: 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.](https://github.com/makeplane/plane) ⭐ 47k
+    2. [GitHub - makeplane/plane: 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.](https://github.com/makeplane/plane) ⭐ 48k
 	    1. Free 12 seats on Plane Cloud
 4. Asana
 5. Clickup

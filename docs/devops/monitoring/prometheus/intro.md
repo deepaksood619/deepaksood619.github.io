@@ -15,7 +15,7 @@ A CNCF (Cloud Native Computing Foundation) project, is a systems and service mon
 
 ## Components
 
-- the main [Prometheus server](https://github.com/prometheus/prometheus) ⭐ 63k which scrapes and stores time series data
+- the main [Prometheus server](https://github.com/prometheus/prometheus) ⭐ 64k which scrapes and stores time series data
 - [client libraries](https://prometheus.io/docs/instrumenting/clientlibs/) for instrumenting application code
 - a [push gateway](https://github.com/prometheus/pushgateway) ⭐ 3.3k for supporting short-lived jobs
 - special-purpose [exporters](https://prometheus.io/docs/instrumenting/exporters/) for services like HAProxy, StatsD, Graphite, etc.
@@ -121,7 +121,7 @@ https://github.com/prometheus/pushgateway
 
 ## Deployment
 
-[helm-charts/charts/kube-prometheus-stack at main · prometheus-community/helm-charts · GitHub](https://github.com/prometheus-community/helm-charts/tree/main/charts/kube-prometheus-stack) ⭐ 6.0k
+[helm-charts/charts/kube-prometheus-stack at main · prometheus-community/helm-charts · GitHub](https://github.com/prometheus-community/helm-charts/tree/main/charts/kube-prometheus-stack) ⭐ 6.1k
 
 - [How to create a Monitoring Stack using Kube-Prometheus-stack (Part 1) | by Matan Amiel | Israeli Tech Radar | Medium](https://medium.com/israeli-tech-radar/how-to-create-a-monitoring-stack-using-kube-prometheus-stack-part-1-eff8bf7ba9a9)
 
