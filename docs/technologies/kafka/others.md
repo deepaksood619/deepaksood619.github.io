@@ -109,7 +109,7 @@ https://github.com/pinterest/secor
 - [GitHub - lensesio/kafka-autocomplete: Bash completion for Kafka command line utilities. · GitHub](https://github.com/lensesio/kafka-autocomplete) ⭐ 38
 - [Autocomplete functions for Apache Kafka CLI tools for Z-Shell](https://www.kineticedge.io/blog/kzsh-autocomplete/)
 - [kafka-docker-playground](https://kafka-docker-playground.io/#/)
-	- [kafka-docker-playground/connect/connect-aws-dynamodb-sink at master · vdesabou/kafka-docker-playground · GitHub](https://github.com/vdesabou/kafka-docker-playground/tree/master/connect/connect-aws-dynamodb-sink) ⭐ 777
+	- [kafka-docker-playground/connect/connect-aws-dynamodb-sink at master · vdesabou/kafka-docker-playground · GitHub](https://github.com/vdesabou/kafka-docker-playground/tree/master/connect/connect-aws-dynamodb-sink) ⭐ 778
 
 ### KeyTool
 

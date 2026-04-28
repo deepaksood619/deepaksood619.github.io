@@ -54,36 +54,6 @@ Amazon Mechanical Turk(MTurk) is a [crowdsourcing](https://en.wikipedia.org/wiki
 
 https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk
 
-## WSO2
-
-### WSO2 Integration Agile Platform
-
-The WSO2 Integration Agile Platform is a broad framework to develop, reuse, run and manage integrations. It's architected around a common code base of fully open source integration technologies. Components can be used individually, or as a cohesive integration-agile platform.
-
-![image](../../media/Technologies-Others-Others-image1.jpg)
-
-### WSO2 Stream Processor
-
-WSO2 Stream Processor is an open source, cloud native and lightweight stream processing platform that understands streaming SQL queries in order to capture, analyze, process and act on events in real time. This facilitates real-time streaming data integration and analytics. With the product's powerful streaming SQL, simple deployment, and ability to adapt to changes rapidly, enterprises can go to market faster and achieve greater ROI. Unlike other offerings, it provides a simple two-node deployment for high availability and scales beyond with its distributed deployment to cater to extremely high workloads.
-
-![image](../../media/Technologies-Others-Others-image2.jpg)
-
-### WSO2 API Manager
-
-WSO2 API Manager is an open source enterprise-class solution that supports API publishing, lifecycle management, application development, access control, rate limiting and analytics in one cleanly integrated system.
-
-![image](../../media/Technologies-Others-Others-image3.jpg)
-
-### WSO2 Identity Server
-
-WSO2 Identity Server is API-driven, is based on open standards with the deployment options of on-premise, cloud or hybrid. It supports complex IAM requirements given its high extensibility.
-
-WSO2 Identity Server helps you do single sign-on and identity federation backed by strong and adaptive authentication, securely expose APIs, and manage identities by connecting to heterogeneous user stores.
-
-Leverage the power of open-source IAM in your enterprise to innovate fast and build secure Customer IAM (CIAM) solutions to provide an experience your users will love.
-
-https://wso2.com
-
 ## Hypertrack
 
 HyperTrack is live [location](https://en.wikipedia.org/wiki/Location_(geography)) platform in the cloud offering [developer](https://en.wikipedia.org/wiki/Software_developer) tools for mobile application developers in companies of all sizes worldwide. Its toolset contains [iOS](https://en.wikipedia.org/wiki/IOS), and [Android](https://en.wikipedia.org/wiki/Android_(operating_system))[SDKs](https://en.wikipedia.org/wiki/Software_development_kit) which generate live location data, that is then consumed through webhooks, APIs or visual experiences on the web, iOS and Android. Developers have used HyperTrack to build applications like sales-force automation, service fleet efficiency, vehicle asset tracking, delivery tracking, gig economy, live location sharing, automated mileage tracking and expensing
@@ -124,6 +94,7 @@ Palantir Foundry is a software platform that serves as an operating system for m
 
 ## Others
 
+- [wso2](technologies/brokers/wso2.md)
 - Party town - offload js scripts to workers
 - Super tokens - open source authentication and authorisation SDK library
 - Millisearch, zinc search engine

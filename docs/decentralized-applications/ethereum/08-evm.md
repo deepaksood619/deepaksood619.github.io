@@ -53,9 +53,9 @@ Over Ethereum's nine year history, the EVM has undergone several revisions, and 
 [Ethereum execution clients](https://ethereum.org/en/developers/docs/nodes-and-clients/#execution-clients) include an EVM implementation. Additionally, there are multiple standalone implementations, including:
 
 - [Py-EVM](https://github.com/ethereum/py-evm) ⭐ 2.4k - _Python_
-- [evmone](https://github.com/ethereum/evmone) ⭐ 974 - _C++_
-- [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm) ⭐ 2.7k - _JavaScript_
-- [eEVM](https://github.com/microsoft/eevm) ⭐ 359 - _C++_
+- [evmone](https://github.com/ethereum/evmone) ⭐ 975 - _C++_
+- [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm) ⭐ 2.8k - _JavaScript_
+- [eEVM](https://github.com/microsoft/eevm) ⭐ 360 - _C++_
 
 ## Ethereum Contract ABI & EVM Bytecode
 

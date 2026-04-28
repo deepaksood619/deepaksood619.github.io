@@ -99,6 +99,11 @@ l.setLevel(logging.DEBUG)
 l.addHandler(logging.StreamHandler())
 ```
 
+## Libraries
+
+- [GitHub - hynek/structlog: Simple, powerful, and fast logging for Python. · GitHub](https://github.com/hynek/structlog)
+- [GitHub - Delgan/loguru: Python logging made (stupidly) simple · GitHub](https://github.com/delgan/loguru)
+
 ## Links
 
 - [16-generic-operating-system-services-logging](python/documentation/16-generic-operating-system-services-logging.md)

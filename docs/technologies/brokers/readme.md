@@ -10,4 +10,5 @@
     - [Commands](vernemq/commands)
 - [sMAP](smap)
 - [Volttron](volttron)
+- [wso2](technologies/brokers/wso2.md)
 - [Other](technologies/brokers/others.md)

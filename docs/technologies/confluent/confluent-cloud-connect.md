@@ -249,3 +249,7 @@ If you are on a non-dedicated cluster where the minimum interval is capped at 10
 - To hit 10,000 msg/sec, you will need **100 tasks**.
 
 [Datagen Source Connector for Confluent Cloud Quick Start \| Confluent Documentation](https://docs.confluent.io/cloud/current/connectors/cc-datagen-source.html)
+
+## Others
+
+- [AWS OpenSearch Ingestion Adds Confluent Blueprint, w/Pipeline Ex.](https://www.confluent.io/blog/amazon-opensearch-ingestion-adds-support-for-confluent-cloud/)

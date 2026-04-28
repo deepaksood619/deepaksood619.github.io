@@ -75,3 +75,11 @@ Data streaming experts should focus on helping their organizations:
 - Deliver **regional compliance** through sovereign deployment options
 - Guarantee **zero data loss** and rapid failover across regions **where needed**
 - **Power AI systems with contextual, real-time event data**
+
+[KIP-899: Allow producer and consumer clients to rebootstrap - Apache Kafka - Apache Software Foundation](https://cwiki.apache.org/confluence/display/KAFKA/KIP-899%3A+Allow+producer+and+consumer+clients+to+rebootstrap)
+
+- A Kafka client performs bootstrapping when it’s initialized, i.e. it connects to a server from `bootstrap.servers` and fetches the cluster metadata, including the addresses of online brokers. This list of brokers from the fetched metadata is used for the real work. The client periodically updates the metadata during the network client’s polls so even if the set of brokers change over time, this generally works well. However, brokers already known to the client are used for fetching the subsequent metadata updated instead of the bootstrap servers.
+- `metadata.recovery.strategy=rebootstrap`
+	- Enables the client to repeat the bootstrap process if all known brokers are unavailable.
+- `metadata.recovery.rebootstrap.trigger.ms=300000` (5 mins)
+	- The interval the client waits before re-bootstrapping if it cannot obtain metadata from any broker.

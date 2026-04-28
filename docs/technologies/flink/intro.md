@@ -73,7 +73,7 @@ Although built as a generic data processor, Flink’s native support of unbounde
 - [Consume Apache Kafka Messages using Apache Flink and Java](https://youtu.be/JfqoVuVDYUE)
 - [Apache Flink: What it is and how it works.](https://youtu.be/X1bhZZgAlCI)
 - [Mastering Production Data Streaming Systems with Apache Kafka® - YouTube](https://www.youtube.com/playlist?list=PLa7VYi0yPIH2MhaY0MeZRgrGnuN6uCzrc)
-- [GitHub - confluentinc/quickstart-streaming-agents at gko](https://github.com/confluentinc/quickstart-streaming-agents/tree/gko) ⭐ 66
+- [GitHub - confluentinc/quickstart-streaming-agents at gko](https://github.com/confluentinc/quickstart-streaming-agents/tree/gko) ⭐ 77
 	- Lab1 - Price Matching Orders With MCP Tool Calling
 	- Lab2 - Vector Search & RAG
 	- Lab3 - Agentic Fleet Management Using Confluent Intelligence

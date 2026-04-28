@@ -156,3 +156,7 @@ This journey wasn't about being the smartest person in the room. It was about be
 - **Personalized, Not "Perfect":** Some of my choices (like forgoing personal Term Insurance or my specific asset allocation) may not follow "standard" financial planning advice. These decisions work for my specific risk appetite and family structure _at this stage_ of my life and are not recommendations for others.
 
 - **Not Professional Advice:** I am a Software Architect, not a SEBI-registered investment advisor. Personal finance is deeply personal; please consult a professional before making major shifts in your own portfolio.
+
+## Links
+
+[From Fired at 25 to ₹12 Crore at 32: The Quiet Path to Financial Sovereignty](https://freefincal.com/from-fired-at-25-to-%e2%82%b912-crore-at-32-the-quiet-path-to-financial-sovereignty/)

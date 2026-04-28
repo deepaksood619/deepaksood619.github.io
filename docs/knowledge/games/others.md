@@ -55,4 +55,4 @@
 - [Formula 1, explained for rookies - YouTube](https://www.youtube.com/watch?v=SSdsncLXLYs)
 - [Formula E: The electric F1, explained - YouTube](https://www.youtube.com/watch?v=8foQERR0mc0)
 - [Stimpmeter - Wikipedia](https://en.wikipedia.org/wiki/Stimpmeter)
-- [GitHub - xsawyerx/curl-doom: DOOM, played over cURL · GitHub](https://github.com/xsawyerx/curl-doom)
+- [GitHub - xsawyerx/curl-doom: DOOM, played over cURL · GitHub](https://github.com/xsawyerx/curl-doom) ⭐ 178

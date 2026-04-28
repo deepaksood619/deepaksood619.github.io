@@ -68,6 +68,9 @@
 - [Agri Tech Digital Transformation Case Study](about-deepak-sood/projects/44-agri-tech-digital-transformation-case-study.md)
 - [Optimizing Real-time User Analytics Using ClickHouse](about-deepak-sood/projects/34-optimizing-real-time-user-analytics-using-clickhouse.md)
 - [Powering Granular Cloud Cost Analytics with ClickHouse](about-deepak-sood/projects/33-powering-granular-cloud-cost-analytics-with-clickhouse.md)
+- [27-wso2-case-studies](about-deepak-sood/projects/27-wso2-case-studies.md)
+- [26-wso2-real-time-fraud-detection](about-deepak-sood/projects/26-wso2-real-time-fraud-detection.md)
+- [25-wso2-automated-claims-processing](about-deepak-sood/projects/25-wso2-automated-claims-processing.md)
 
 ### Bake.io
 

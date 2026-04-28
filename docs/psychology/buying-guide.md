@@ -61,7 +61,7 @@
 
 ![image](../media/Personality-Life-Lessons-Buying-Guide-Travelling-Shopping-image3.jpg)
 
-## AC
+## AC / Air Conditioner
 
 Voltas AC - ADJ 12 - Refers to the 1.2 Ton capacity models within the adjustable inverter lineup.
 

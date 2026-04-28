@@ -38,6 +38,8 @@ This is arguably the most important, and the most overlooked, pillar. It encapsu
 
 [How to rebalance your portfolio? A guide - YouTube](https://www.youtube.com/watch?v=1fIxvUo44X4&ab_channel=freefincal-PrudentDIYInvesting%28freefincal%29)
 
+[Should I choose an outperformer or underperformer for rebalancing my portfolio?](https://freefincal.com/should-i-choose-an-outperformer-or-underperformer-for-rebalancing-my-portfolio/)
+
 ## Mindset
 
 [I Read over 100 Wealth-Building Books to Learn These 5 Lessons - New Trader U](https://www.newtraderu.com/2025/12/12/i-read-over-100-wealth-building-books-to-learn-these-5-lessons/)
@@ -153,3 +155,4 @@ Use money to buy peace. And, use your peace to make (fewer but) better strategic
 - [How I learnt health is wealth the hard way](https://freefincal.com/how-i-learnt-health-is-wealth-the-hard-way/)
 - [A Different Kind of Inheritance: Why the most valuable gift to a child may be financial wisdom](https://freefincal.com/a-different-kind-of-inheritance-why-the-most-valuable-gift-to-a-child-may-be-financial-wisdom/)
 - [Managing a windfall](https://www.bogleheads.org/wiki/Managing_a_windfall)
+- [Welcome to the Bogleheads® wiki](https://www.bogleheads.org/wiki/Main_Page)

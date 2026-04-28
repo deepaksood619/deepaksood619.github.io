@@ -109,6 +109,33 @@ Your body has two types of sweat glands:
 - eccrine glands, which secrete an odorless mixture of water and salt to cool your skin and lower your body temperature
 - apocrine glands, which produce the smelly substance we usually associate with sweating
 
+## AC-Induced Cold Symptoms & Relief
+
+### Why AC makes you feel sick
+
+- Dryness: Removes moisture, drying out protective nasal/throat membranes.
+- Thermal Shock: Rapid temperature changes stress the immune system.
+- Irritants: Dirty filters circulate dust, mold, and pollen.
+- Stagnant Air: Recirculates germs in enclosed spaces.
+
+### Immediate Relief
+
+- Hydrate: Drink water to re-moisten your throat.
+- Saline Rinse: Use a spray or Neti pot to flush irritants and hydrate nasal passages.
+- Humidity: Use a humidifier or place a bowl of water near the airflow.
+- Steam: Take a warm shower to soothe inflammation.
+
+### Medication (Cetirizine/Zyrtec)
+
+- **Short-term:** Effective for sneezing and runny nose. May cause drowsiness (10-15%) and dry mouth.
+- **Long-term:** Generally safe but can lead to tolerance or "withdrawal itch" if stopped abruptly after months of use. Use with extra water.
+
+### Prevention
+
+- Set AC to 24°C–26°C (75°F–79°F).
+- Clean filters every 1–2 months.
+- Ventilate the room with fresh air daily.
+
 ## Old Age / Ageing
 
 - How you age

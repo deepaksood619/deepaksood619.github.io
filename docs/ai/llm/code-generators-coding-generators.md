@@ -9,7 +9,7 @@
 
 - CodeMod - 6-7 Million Lines of Code as context
 - [GitHub - pauldatta/build-adk-agent: Use Gemini CLI or Code Assist Agent Mode to generate working ADK Agents](https://github.com/pauldatta/build-adk-agent) ⭐ 4
-- Modernization - [GitHub - codemod-com/codemod: The command line tool for building, sharing, and running codemods. From quick cleanups to complex migrations. AI-friendly, and language-agnostic.](https://github.com/codemod-com/codemod) ⭐ 972
+- Modernization - [GitHub - codemod-com/codemod: The command line tool for building, sharing, and running codemods. From quick cleanups to complex migrations. AI-friendly, and language-agnostic.](https://github.com/codemod-com/codemod) ⭐ 984
 	- 6-7 Million Lines of Code as context
 
 ## Github Copilot
@@ -85,7 +85,14 @@ You can also ask me questions about your editor selection by starting an inline 
 - [Cursor - The AI-first Code Editor](https://www.cursor.com/)
 - [Google Antigravity](https://antigravity.google/)
 - [Windsurf Editor](https://windsurf.com/)
-- [Zed - Code at the speed of thought](https://zed.dev/) - [GitHub - zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.](https://github.com/zed-industries/zed) ⭐ 78k
+- [Zed - Code at the speed of thought](https://zed.dev/) - [GitHub - zed-industries/zed: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.](https://github.com/zed-industries/zed) ⭐ 80k
+- [GitHub - cline/cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. · GitHub](https://github.com/cline/cline) ⭐ 61k
+- [GitHub - Aider-AI/aider: aider is AI pair programming in your terminal · GitHub](https://github.com/Aider-AI/aider) ⭐ 44k
+- [GitHub - HKUDS/OpenHarness: "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!" · GitHub](https://github.com/HKUDS/OpenHarness) ⭐ 11k
+
+### Google Antigravity vs Gemini Code Assist
+
+Google Antigravity is an agent-first IDE designed for autonomous, multi-step coding tasks, acting as an "agent manager". In contrast, Gemini Code Assist is an enterprise-focused AI assistant that integrates into existing IDEs (like VS Code) for code augmentation, using large-context (1M tokens) across repositories. **Antigravity is superior for AI-driven development; Gemini is better for augmenting traditional IDE workflows**.
 
 ## Comparisons
 
@@ -103,7 +110,7 @@ ChatDev has evolved from a specialized software development multi-agent system i
 
 - ChatDev 2.0 (DevAll) is a Zero-Code Multi-Agent Platform for "Developing Everything". It empowers users to rapidly build and execute customized multi-agent systems through simple configuration. No coding is required—users can define agents, workflows, and tasks to orchestrate complex scenarios such as data visualization, 3D generation, and deep research.
 
-[GitHub - OpenBMB/ChatDev: ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration · GitHub](https://github.com/OpenBMB/ChatDev) ⭐ 32k
+[GitHub - OpenBMB/ChatDev: ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration · GitHub](https://github.com/OpenBMB/ChatDev) ⭐ 33k
 
 ## Others
 
@@ -115,23 +122,23 @@ ChatDev has evolved from a specialized software development multi-agent system i
 	- [Jules - An Asynchronous Coding Agent](https://jules.google/)
 	- [Google AI Studio](https://aistudio.google.com/)
 	- [Firebase Studio](https://firebase.studio/) - Firebase AI Studio
-	- [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli) ⭐ 101k
+	- [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli) ⭐ 102k
 		- npx https://github.com/google-gemini/gemini-cli
 		- **npm install -g @google/gemini-cli**
 			- gemini
 	- Old - [Introducing Duet AI for Google Cloud – an AI-powered collaborator \| Google Cloud Blog](https://cloud.google.com/blog/products/application-modernization/introducing-duet-ai-for-google-cloud)
 - [Galileo AI · Copilot for interface design](https://www.usegalileo.ai/)
-- [GitHub - openai/codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex) ⭐ 73k
-	- [GitHub - Yeachan-Heo/oh-my-codex: OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. · GitHub](https://github.com/Yeachan-Heo/oh-my-codex) ⭐ 9.3k
-	- **[GitHub - ultraworkers/claw-code: The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex. · GitHub](https://github.com/ultraworkers/claw-code) ⭐ 131k**
-- [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli) ⭐ 101k
+- [GitHub - openai/codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex) ⭐ 78k
+	- [GitHub - Yeachan-Heo/oh-my-codex: OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. · GitHub](https://github.com/Yeachan-Heo/oh-my-codex) ⭐ 26k
+	- **[GitHub - ultraworkers/claw-code: The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex. · GitHub](https://github.com/ultraworkers/claw-code) ⭐ 189k**
+- [GitHub - google-gemini/gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal.](https://github.com/google-gemini/gemini-cli) ⭐ 102k
 - [Warp: The Agentic Development Environment](https://www.warp.dev/)
 - [Kilo Code - Open source AI agent VS Code extension](https://kilocode.ai/)
 - [GitHub - Pythagora-io/gpt-pilot: The first real AI developer](https://github.com/Pythagora-io/gpt-pilot) ⭐ 34k
 - [Kiro: The AI IDE for prototype to production](https://kiro.dev/)
 	- [Kiro - The New Agentic AI IDE from AWS - DEV Community](https://dev.to/aws-builders/kiro-the-new-agentic-ai-ide-from-aws-5311)
 	- [Kiro Documentation](https://aws.amazon.com/documentation-overview/kiro/)
-	- [GitHub - kirodotdev/Kiro: Kiro is an agentic IDE that works alongside you from prototype to production.](https://github.com/kirodotdev/Kiro) ⭐ 3.4k
+	- [GitHub - kirodotdev/Kiro: Kiro is an agentic IDE that works alongside you from prototype to production.](https://github.com/kirodotdev/Kiro) ⭐ 3.5k
 	- [👻 Kiro Agentic AI IDE: Beyond a Coding Assistant - Full Stack Software Development with Spec Driven AI \| AWS re:Post](https://repost.aws/articles/AROjWKtr5RTjy6T2HbFJD_Mw/%F0%9F%91%BB-kiro-agentic-ai-ide-beyond-a-coding-assistant-full-stack-software-development-with-spec-driven-ai)
 - [Codex \| OpenAI](https://openai.com/codex/)
 - [GitHub - QwenLM/Qwen3-Coder: Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.](https://github.com/QwenLM/Qwen3-Coder) ⭐ 16k
@@ -142,8 +149,8 @@ ChatDev has evolved from a specialized software development multi-agent system i
 	- [Compare Qwen 3 Coder vs. Sonnet 4 for Code Generation](https://blog.dailydoseofds.com/p/compare-qwen-3-coder-vs-sonnet-4)
 - [GitHub Spark: AI Tool That Builds & Deploys Full-Stack Apps in Minutes - YouTube](https://youtube.com/shorts/Ohi30MUcqsQ?si=EMWFPG02lpuTJ2Bo)
 - [Introducing Strands Agents, an Open Source AI Agents SDK \| AWS Open Source Blog](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/)
-- Modernization - [GitHub - codemod-com/codemod: The command line tool for building, sharing, and running codemods. From quick cleanups to complex migrations. AI-friendly, and language-agnostic.](https://github.com/codemod-com/codemod) ⭐ 972
-	- [GitHub - codemod-com/codemod: The command line tool for building, sharing, and running codemods. From quick cleanups to complex migrations. AI-friendly, and language-agnostic.](https://github.com/codemod-com/codemod) ⭐ 972
+- Modernization - [GitHub - codemod-com/codemod: The command line tool for building, sharing, and running codemods. From quick cleanups to complex migrations. AI-friendly, and language-agnostic.](https://github.com/codemod-com/codemod) ⭐ 984
+	- [GitHub - codemod-com/codemod: The command line tool for building, sharing, and running codemods. From quick cleanups to complex migrations. AI-friendly, and language-agnostic.](https://github.com/codemod-com/codemod) ⭐ 984
 - [Vibecode - AI Mobile App Builder](https://www.vibecodeapp.com/)
 - [GitHub - HKUDS/DeepCode: "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"](https://github.com/HKUDS/DeepCode) ⭐ 15k
 - [Genspark AI - The All-in-One Super Agent AI Workspace That Does Everything](https://www.genspark.im/)
@@ -166,7 +173,7 @@ ChatDev has evolved from a specialized software development multi-agent system i
 - [GitHub Copilot: The agent awakens - The GitHub Blog](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
 - [What I learned trying seven coding agents](https://www.understandingai.org/p/what-i-learned-trying-seven-coding)
 - [Era of Virtual Employees : Running Background Agents with Claude Code - Terragon, Conductor.build, Cursor](https://www.thetoolnerd.com/p/era-of-virtual-employees-running)
-- [ai-engineering-hub/sonnet4-vs-qwen3-coder at main · patchy631/ai-engineering-hub · GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main/sonnet4-vs-qwen3-coder) ⭐ 33k
+- [ai-engineering-hub/sonnet4-vs-qwen3-coder at main · patchy631/ai-engineering-hub · GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main/sonnet4-vs-qwen3-coder) ⭐ 34k
 - [The Roadmap for Mastering AI-Assisted Coding in 2025 - MachineLearningMastery.com](https://machinelearningmastery.com/the-roadmap-for-mastering-ai-assisted-coding-in-2025/)
 - [Replit vs Bolt vs Lovable (2025) — Hands‑On Review: What I’d Renew, What I’d Pause](https://www.thetoolnerd.com/p/replit-vs-bolt-vs-lovable-2025-handson-review-thetoolnerd)
 - [Agentic coding at ClickHouse](https://clickhouse.com/blog/agentic-coding)

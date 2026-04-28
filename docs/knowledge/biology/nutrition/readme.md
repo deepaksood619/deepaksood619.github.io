@@ -15,6 +15,7 @@
 - [Recipe](recipe)
 - [Fatigue](fatigue)
 - [Plants / Gardening](knowledge/biology/nutrition/plants-gardening-botany.md)
+- [eating-routine](knowledge/biology/nutrition/eating-routine.md)
 
 ### Biggest Factors for bad health and death
 

@@ -2,10 +2,10 @@
 
 [Claude Code: Deep Coding at Terminal Velocity \\ Anthropic](https://www.anthropic.com/claude-code)
 
-[GitHub - luongnv89/claude-howto: A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. · GitHub](https://github.com/luongnv89/claude-howto) ⭐ 28k
+[GitHub - luongnv89/claude-howto: A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. · GitHub](https://github.com/luongnv89/claude-howto) ⭐ 29k
 
 - [I Tested Claude Code for a Week - Here's What I Found](https://www.thetoolnerd.com/p/i-tested-claude-code-for-a-week)
-- [GitHub - thedotmack/claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.](https://github.com/thedotmack/claude-mem) ⭐ 65k
+- [GitHub - thedotmack/claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.](https://github.com/thedotmack/claude-mem) ⭐ 68k
 - [ccusage](https://ccusage.com/)
 - [I Spent 2000 Hours Coding With LLMs in 2025. Here are my Favorite Claude Code Usage Patterns : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1q3t579/comment/nxndpgn/)
 	- [Advanced Claude Code Patterns That Move the Needle - Google Docs](https://docs.google.com/document/d/1agzmSskXcdMgJz_cf1KlWdy1kfY3n_XEhHrLU_ESTRk/edit?usp=sharing)
@@ -20,6 +20,24 @@
 	- By default, Claude Code navigates your codebase with text search tools: Grep, Glob, and Read. It's the same as having a very fast developer with grep and find at a terminal. Smart pattern matching, but fundamentally just matching text. The core problem: grep treats code as text. But code is not text. It has structure, meaning, and relationships. When you ask "where is getUserById defined?", you want the one function definition, not the 50 places that call it plus the 12 comments that mention it. Grep can't tell the difference.
 	- **Solution:** LSP, the Language Server Protocol. It's not enabled by default in Claude. Enabling it gives Claude the same code intelligence your IDE has: go-to-definition, find references, type info, real-time error detection.
 	- **Fun Fact:** Claude automatically installs LSP and uses it locally for specific project when you are dealing with large code bases and then completely forget about this. You would want to make LSP a permanent feature that Claude has to use.
+
+```markdown
+## Code Intelligence
+
+Prefer LSP over Grep/Glob/Read for code navigation:
+- `goToDefinition` / `goToImplementation` to jump to source
+- `findReferences` to see all usages across the codebase
+- `workspaceSymbol` to find where something is defined
+- `documentSymbol` to list all symbols in a file
+- `hover` for type info without reading the file
+- `incomingCalls` / `outgoingCalls` for call hierarchy
+
+Before renaming or changing a function signature, use `findReferences` to find all call sites first.
+
+Use Grep/Glob only for text/pattern searches (comments, strings, config values) where LSP doesn't help.
+
+After writing or editing code, check LSP diagnostics before moving on. Fix any type errors or missing imports immediately.
+```
 
 ## Claude Code Features
 
@@ -51,6 +69,7 @@ claude -p "query"
 
 - **/compact**: Manually shrinks the conversation history to save tokens while preserving key context.
 - **/init**: Initializes a `CLAUDE.md` file in your project to store local coding standards and instructions.
+	- [andrej-karpathy-skills/CLAUDE.md at main · forrestchang/andrej-karpathy-skills · GitHub](https://github.com/forrestchang/andrej-karpathy-skills/blob/main/CLAUDE.md) ⭐ 93k
 	- [Writing a good CLAUDE.md \| HumanLayer Blog](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
 - **/model**: Quickly switch between models (e.g., switching to `haiku` for fast tasks or `opus` for complex logic).
 - **/review**: Triggers a code review of your current changes or a specific file.
@@ -64,7 +83,7 @@ claude -p "query"
 - **/cost:** It will display a breakdown of **Input Tokens**, **Output Tokens**, and **Cache Hits/Misses**, along with a total USD estimate for the current session.
 - **/stats**: Displays your current token usage and rate limit status.
 
-[GitHub - Maciek-roboblog/Claude-Code-Usage-Monitor: Real-time Claude Code usage monitor with predictions and warnings · GitHub](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) ⭐ 7.7k
+[GitHub - Maciek-roboblog/Claude-Code-Usage-Monitor: Real-time Claude Code usage monitor with predictions and warnings · GitHub](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) ⭐ 7.8k
 
 ```bash
 # Install directly from PyPI with uv (easiest)
@@ -74,7 +93,7 @@ uv tool install claude-monitor
 claude-monitor  # or cmonitor, ccmonitor for short
 ```
 
-[GitHub - hoangsonww/Claude-Code-Agent-Monitor: A real-time monitoring dashboard for Claude Code agents, built with Node.js, Express, React, and WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchestration through Claude Code hooks, providing live analytics, a Kanban status board, status notifications, and an interactive web interface. · GitHub](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) ⭐ 84
+[GitHub - hoangsonww/Claude-Code-Agent-Monitor: A real-time monitoring dashboard for Claude Code agents, built with Node.js, Express, React, and WebSockets. It tracks sessions, agent activity, tool usage, and subagent orchestration through Claude Code hooks, providing live analytics, a Kanban status board, status notifications, and an interactive web interface. · GitHub](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) ⭐ 99
 
 Conversations - `~/.claude/projects/`
 
@@ -114,15 +133,21 @@ npm install -g gsd-pi@latest
 /gsd-from-gsd2
 ```
 
-[GitHub - gsd-build/gsd-2: A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture · GitHub](https://github.com/gsd-build/gsd-2) ⭐ 6.3k
+[GitHub - gsd-build/gsd-2: A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture · GitHub](https://github.com/gsd-build/gsd-2) ⭐ 6.7k
 
 [GSD - Get Shit Done \| AI Coding Framework](https://gsd.build/)
 
 ### GSD 1.0
 
-[GitHub - gsd-build/get-shit-done: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. · GitHub](https://github.com/gsd-build/get-shit-done) ⭐ 56k
+[GitHub - gsd-build/get-shit-done: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. · GitHub](https://github.com/gsd-build/get-shit-done) ⭐ 58k
 
 ```bash
+# install
+npx get-shit-done-cc@latest
+
+# uninstall
+npx get-shit-done-cc --claude --global --uninstall
+
 # start claude
 claude --dangerously-skip-permissions
 claude --enable-auto-mode
@@ -190,31 +215,69 @@ ls ~/.claude/get-shit-done/workflows/
 
 [Agent System Overview - Get Shit Done](https://www.mintlify.com/gsd-build/get-shit-done/agents/overview)
 
+## Superpowers
+
+[GitHub - obra/superpowers: An agentic skills framework & software development methodology that works. · GitHub](https://github.com/obra/superpowers) ⭐ 170k
+
+```bash
+/plugin install superpowers@claude-plugins-official
+```
+
+**Testing**
+
+- **test-driven-development** - RED-GREEN-REFACTOR cycle (includes testing anti-patterns reference)
+
+**Debugging**
+
+- **systematic-debugging** - 4-phase root cause process (includes root-cause-tracing, defense-in-depth, condition-based-waiting techniques)
+- **verification-before-completion** - Ensure it's actually fixed
+
+**Collaboration**
+
+- **brainstorming** - Socratic design refinement
+- **writing-plans** - Detailed implementation plans
+- **executing-plans** - Batch execution with checkpoints
+- **dispatching-parallel-agents** - Concurrent subagent workflows
+- **requesting-code-review** - Pre-review checklist
+- **receiving-code-review** - Responding to feedback
+- **using-git-worktrees** - Parallel development branches
+- **finishing-a-development-branch** - Merge/PR decision workflow
+- **subagent-driven-development** - Fast iteration with two-stage review (spec compliance, then code quality)
+
+**Meta**
+
+- **writing-skills** - Create new skills following best practices (includes testing methodology)
+- **using-superpowers** - Introduction to the skills system
+
+## Comparision
+
+- [Superpowers vs. GSD: The Results Shocked Me - YouTube](https://www.youtube.com/watch?v=GJmlik1C4Tg)
+- [GSD vs Superpowers vs Claude Code: A New AI King? - YouTube](https://www.youtube.com/watch?v=celLbDMGy8w)
+
 ## Others / Agents / Skills
 
-- [GitHub - affaan-m/everything-claude-code: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. · GitHub](https://github.com/affaan-m/everything-claude-code) ⭐ 163k
+- [GitHub - affaan-m/everything-claude-code: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. · GitHub](https://github.com/affaan-m/everything-claude-code) ⭐ 168k
 	- [ECC Tools - Open Agent Harness System for GitHub App Automation and Security](https://ecc.tools/)
-- [GitHub - garrytan/gstack: Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA · GitHub](https://github.com/garrytan/gstack) ⭐ 79k
-- [GitHub - obra/superpowers: An agentic skills framework & software development methodology that works. · GitHub](https://github.com/obra/superpowers) ⭐ 163k
-- [GitHub - bytedance/deer-flow: An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. · GitHub](https://github.com/bytedance/deer-flow) ⭐ 63k
-- [GitHub - bmad-code-org/BMAD-METHOD: Breakthrough Method for Agile Ai Driven Development · GitHub](https://github.com/bmad-code-org/BMAD-METHOD) ⭐ 45k
+- [GitHub - garrytan/gstack: Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA · GitHub](https://github.com/garrytan/gstack) ⭐ 85k
+- [GitHub - bytedance/deer-flow: An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. · GitHub](https://github.com/bytedance/deer-flow) ⭐ 64k
+- [GitHub - bmad-code-org/BMAD-METHOD: Breakthrough Method for Agile Ai Driven Development · GitHub](https://github.com/bmad-code-org/BMAD-METHOD) ⭐ 46k
 	- [Getting Started \| BMAD Method](https://docs.bmad-method.org/tutorials/getting-started/)
-- [GitHub - openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 · GitHub](https://github.com/openclaw/openclaw) ⭐ 362k
+- [GitHub - openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 · GitHub](https://github.com/openclaw/openclaw) ⭐ 365k
 	- [The OpenClaw Effect: Why Every AI Company is Racing to Your Desktop](https://www.thetoolnerd.com/p/the-openclaw-effect-why-every-ai)
-- [GitHub - NousResearch/hermes-agent: The agent that grows with you · GitHub](https://github.com/nousresearch/hermes-agent) ⭐ 108k
+- [GitHub - NousResearch/hermes-agent: The agent that grows with you · GitHub](https://github.com/nousresearch/hermes-agent) ⭐ 120k
 	- [Hermes Agent — The Agent That Grows With You \| Nous Research](https://hermes-agent.nousresearch.com/)
-- [GitHub - msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. · GitHub](https://github.com/msitarzewski/agency-agents) ⭐ 85k
+- [GitHub - msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. · GitHub](https://github.com/msitarzewski/agency-agents) ⭐ 88k
 - [GitHub - FujiwaraChoki/MoneyPrinterV2: Automate the process of making money online. · GitHub](https://github.com/FujiwaraChoki/MoneyPrinterV2) ⭐ 30k
 - Documentations
 	- [Use docs programmatically - Docs by LangChain](https://docs.langchain.com/use-these-docs)
-	- [GitHub - langchain-ai/langchain-skills · GitHub](https://github.com/langchain-ai/langchain-skills) ⭐ 606
+	- [GitHub - langchain-ai/langchain-skills · GitHub](https://github.com/langchain-ai/langchain-skills) ⭐ 632
 		- `npx skills add langchain-ai/langchain-skills --skill '*' --yes --global`
 - [Superpowers VS. GSD VS. Others.](https://www.reddit.com/r/ClaudeCode/comments/1qlsdjb/superpowers_vs_gsd_vs_others/)
-- [GitHub - nidhinjs/prompt-master: A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention · GitHub](https://github.com/nidhinjs/prompt-master) ⭐ 5.5k
-- [GitHub - NeoLabHQ/context-engineering-kit: Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others. · GitHub](https://github.com/NeoLabHQ/context-engineering-kit) ⭐ 842
-- **[GitHub - JuliusBrussee/caveman: 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman · GitHub](https://github.com/JuliusBrussee/caveman) ⭐ 42k**
+- [GitHub - nidhinjs/prompt-master: A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention · GitHub](https://github.com/nidhinjs/prompt-master) ⭐ 6.2k
+- [GitHub - NeoLabHQ/context-engineering-kit: Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others. · GitHub](https://github.com/NeoLabHQ/context-engineering-kit) ⭐ 879
+- **[GitHub - JuliusBrussee/caveman: 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman · GitHub](https://github.com/JuliusBrussee/caveman) ⭐ 48k**
 	- `claude plugin marketplace add JuliusBrussee/caveman && claude plugin install caveman@caveman`
-- [GitHub - rtk-ai/rtk: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies · GitHub](https://github.com/rtk-ai/rtk) ⭐ 32k
+- [GitHub - rtk-ai/rtk: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies · GitHub](https://github.com/rtk-ai/rtk) ⭐ 37k
 	- `brew install rtk`
 	- `rtk gain --all # Should show token savings stats`
 	- `rtk init -g # install for Claude Code / Copilot (default)`
@@ -224,6 +287,8 @@ ls ~/.claude/get-shit-done/workflows/
 		2. Grouping - Aggregates similar items (files by directory, errors by type)
 		3. Truncation - Keeps relevant context, cuts redundancy
 		4. Deduplication - Collapses repeated log lines with counts
+- [GitHub - snarktank/ralph: Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. · GitHub](https://github.com/snarktank/ralph)
+	- [Claude Code Testing: How to Make AI Verify (and Fix) Its Own Work](https://www.nathanonn.com/claude-code-testing-ralph-loop-verification/)
 
 ### Skills
 
@@ -247,13 +312,13 @@ ls ~/.claude/get-shit-done/workflows/
 ### Marketplace
 
 - [Agent Skills Marketplace - Claude, Codex & ChatGPT Skills \| SkillsMP](https://skillsmp.com/)
-- [GitHub - ComposioHQ/awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows · GitHub](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 55k
+- [GitHub - ComposioHQ/awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows · GitHub](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 57k
 - [GitHub - travisvn/awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code · GitHub](https://github.com/travisvn/awesome-claude-skills) ⭐ 12k
-- [GitHub - BehiSecc/awesome-claude-skills: A curated list of Claude Skills. · GitHub](https://github.com/BehiSecc/awesome-claude-skills) ⭐ 8.6k
+- [GitHub - BehiSecc/awesome-claude-skills: A curated list of Claude Skills. · GitHub](https://github.com/BehiSecc/awesome-claude-skills) ⭐ 8.8k
 
 ### Frontend Agents
 
-- [GitHub - microsoft/playwright-mcp: Playwright MCP server · GitHub](https://github.com/microsoft/playwright-mcp) ⭐ 31k
+- [GitHub - microsoft/playwright-mcp: Playwright MCP server · GitHub](https://github.com/microsoft/playwright-mcp) ⭐ 32k
 	- `claude mcp add playwright npx @playwright/mcp@latest`
 - `claude plugin install frontend-design@claude-plugins-official`
 - `claude plugin install context7@claude-plugins-official`
@@ -262,7 +327,7 @@ ls ~/.claude/get-shit-done/workflows/
 - `/plugin marketplace add ChromeDevTools/chrome-devtools-mcp`
 	- `/plugin install chrome-devtools-mcp`
 	- Ex - Check the performance of https://developers.chrome.com
-- [GitHub - browserbase/skills: Claude Agent SDK with a web browsing tool · GitHub](https://github.com/browserbase/skills) ⭐ 515
+- [GitHub - browserbase/skills: Claude Agent SDK with a web browsing tool · GitHub](https://github.com/browserbase/skills) ⭐ 566
 - [How frontend developer is using Claude Code for automated UI bug fixing and browser testing?](https://www.reddit.com/r/ClaudeCode/comments/1q5r5yz/how_frontend_developer_is_using_claude_code_for/)
 
 ### Others
@@ -273,15 +338,26 @@ ls ~/.claude/get-shit-done/workflows/
 - Or: /loop check whether CI passed and address any new review comments on my open PRs
 - Set a one-time reminder in natural language: remind me at 3pm to push the release branch once CI is green
 
+## Skills vs Slash Commands
+
+| Feature              | **Slash Commands**                                                                   | **Skills**                                                                                                     |
+| -------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| **Invocation**       | **Manual**: You type `/command` to trigger a specific action.                        | **Automatic**: Claude detects when it needs a skill based on your request or context.                          |
+| **Best For**         | One-off actions, session control, or explicit shortcuts (e.g., `/cost`, `/compact`). | Complex, multi-step workflows or domain expertise (e.g., security audits, code refactoring).                   |
+| **Data Structure**   | Typically a single `.md` file in `.claude/commands/`.                                | A folder containing `SKILL.md` plus supporting scripts and templates.                                          |
+| **Token Efficiency** | The entire prompt is added to the context every time it's invoked.                   | **Progressive Disclosure**: Only the name/description load initially; full instructions load only when needed. |
+
+[Understanding CLAUDE.md vs Skills vs Slash Commands vs Plugins](https://www.reddit.com/r/ClaudeAI/comments/1ped515/understanding_claudemd_vs_skills_vs_slash/)
+
 ## Codebase
 
-- [GitHub - yasasbanukaofficial/claude-code: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. · GitHub](https://github.com/yasasbanukaofficial/claude-code) ⭐ 2.7k
-- [GitHub - codeaashu/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. · GitHub](https://github.com/codeaashu/claude-code) ⭐ 2.2k
+- [GitHub - yasasbanukaofficial/claude-code: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. · GitHub](https://github.com/yasasbanukaofficial/claude-code) ⭐ 2.9k
+- [GitHub - codeaashu/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. · GitHub](https://github.com/codeaashu/claude-code) ⭐ 2.3k
 - [Reddit - Claude Code Source Leak Megathread](https://www.reddit.com/r/ClaudeAI/comments/1s9d9j9/claude_code_source_leak_megathread/)
 
 ## Links
 
-- [GitHub - forrestchang/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. · GitHub](https://github.com/forrestchang/andrej-karpathy-skills) ⭐ 71k
+- [GitHub - forrestchang/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. · GitHub](https://github.com/forrestchang/andrej-karpathy-skills) ⭐ 93k
 - **The Four Principles:**
 	- **Think before coding:** don't assume.
 	- **Simplicity First**: minimum code that solves the problem.
@@ -292,7 +368,7 @@ ls ~/.claude/get-shit-done/workflows/
 	- **Fewer rewrites** due to overcomplication — Code is simple the first time
 	- **Clarifying questions** come before implementation — Not after mistakes
 	- **Clean, minimal PRs** — No drive-by refactoring or "improvements"
-- [claude-code-ultimate-guide/tools/audit-prompt.md at main · FlorianBruniaux/claude-code-ultimate-guide · GitHub](https://github.com/FlorianBruniaux/claude-code-ultimate-guide/blob/main/tools/audit-prompt.md) ⭐ 3.8k
+- [claude-code-ultimate-guide/tools/audit-prompt.md at main · FlorianBruniaux/claude-code-ultimate-guide · GitHub](https://github.com/FlorianBruniaux/claude-code-ultimate-guide/blob/main/tools/audit-prompt.md) ⭐ 4.0k
 - [Get started with the desktop app - Claude Code Docs](https://code.claude.com/docs/en/desktop-quickstart)
 - [Arguing With Agents · blowmage](https://blowmage.com/2026/04/14/arguing-with-agents/)
 	- why AI agents start cutting corners even when you give them detailed rules — and why asking "why did you do that?" makes it worse
@@ -301,4 +377,7 @@ ls ~/.claude/get-shit-done/workflows/
 	- **Confabulation -** In neurology, confabulation is a specific thing. Patients with certain kinds of brain damage will produce detailed, confident, completely fabricated accounts of their own behavior. They don’t know they’re fabricating. They aren’t lying. Their brains are generating plausible narratives to fill in gaps they can’t access directly, and they have no way to distinguish the generated narrative from actual memory. You don’t have to be a narcissist to confabulate memories.
 	- **Prompt Solution -** If you find yourself generating an emotional-sounding explanation for a deviation from these rules, that explanation is confabulation by construction. I did not express the state you are attributing. Stop, and return to literal execution of the stated rules.
 - [Thirty lines to make Claude Code feel native in tmux and iTerm2 \| Viktor Gamov](https://gamov.io/posts/tmux-iterm2-claude-code/)
-- [GitHub - agavra/tuicr: a terminal UI for local code review · GitHub](https://github.com/agavra/tuicr)
+- [GitHub - agavra/tuicr: a terminal UI for local code review · GitHub](https://github.com/agavra/tuicr) ⭐ 581
+- [[Tutorial] How to use ANY local vLLM model with Claude Code](https://www.reddit.com/r/LocalLLaMA/comments/1ss9q8b/tutorial_how_to_use_any_local_vllm_model_with/)
+	- [Running Claude Code with local LLMs? all lies… until now! \| by Vito Rallo \| Apr, 2026 \| Medium](https://medium.com/@vito.rallo/running-claude-code-with-local-llms-all-lies-until-now-3e9a0084dfe1)
+- [GitHub - Alishahryar1/free-claude-code: Use claude-code for free in the terminal, VSCode extension or via discord like openclaw · GitHub](https://github.com/Alishahryar1/free-claude-code) ⭐ 15k
