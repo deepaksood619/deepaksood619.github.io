@@ -73,15 +73,15 @@ Data from the population-based EAT 2010–2018 cohort study, which followed a di
 
 Beyond weight and psychology, the Academy of Nutrition and Dietetics has reviewed the impact of intuitive and mindful eating on broader cardiometabolic parameters. A systematic review of interventions measuring physiological parameters other than weight revealed that non-diet approaches successfully improved fasting glucose levels (particularly among pregnant women with gestational diabetes), optimized lipid profiles in adults with obesity, reduced systolic blood pressure, and decreased inflammatory markers in post-menopausal women. While these cardiometabolic benefits are sometimes mixed depending on the specific study design, they provide sufficient evidence that metabolic health can be decoupled from intentional caloric restriction, validating the Health at Every Size (HAES) and weight-inclusive models of care.
 
-|**Clinical Parameter**|**Outcomes of Structured Caloric Restriction**|**Outcomes of Intuitive / Mindful Eating**|
+|**Clinical Parameter**| **Outcomes of Structured Caloric Restriction**            |**Outcomes of Intuitive / Mindful Eating**|
 |---|---|---|
-|**Primary Mechanism**|Externally imposed mathematical energy deficit|Internally guided interoceptive attunement|
-|**Acute Weight Loss**|High initial efficacy; rapid reduction in mass|Minimal to moderate; primary outcome is weight stabilization|
-|**Long-Term Weight Trajectory**|High risk of complete weight regain (80% at 5 years)|Weight maintenance; successful prevention of weight cycling|
-|**Endocrine Response**|Decreases RMR; spikes ghrelin; suppresses leptin|Normalizes hormonal appetite signals; reduces cortisol from dietary stress|
-|**Psychological Impact**|High risk of disordered eating, guilt, anxiety, obsession|Improves body image, deeply reduces binge eating, fosters self-efficacy|
-|**Cardiometabolic Markers**|Acute improvements, often lost upon weight regain|Sustainable improvements in lipids, SBP, and inflammatory markers|
-|**Long-Term Adherence**|Extremely low (often <20% over 6+ months)|High longitudinal adherence (proven over 5-8 year cohort studies)|
+|**Primary Mechanism**| Externally imposed mathematical energy deficit            |Internally guided interoceptive attunement|
+|**Acute Weight Loss**| High initial efficacy; rapid reduction in mass            |Minimal to moderate; primary outcome is weight stabilization|
+|**Long-Term Weight Trajectory**| High risk of complete weight regain (80% at 5 years)      |Weight maintenance; successful prevention of weight cycling|
+|**Endocrine Response**| Decreases RMR; spikes ghrelin; suppresses leptin          |Normalizes hormonal appetite signals; reduces cortisol from dietary stress|
+|**Psychological Impact**| High risk of disordered eating, guilt, anxiety, obsession |Improves body image, deeply reduces binge eating, fosters self-efficacy|
+|**Cardiometabolic Markers**| Acute improvements, often lost upon weight regain         |Sustainable improvements in lipids, SBP, and inflammatory markers|
+|**Long-Term Adherence**| Extremely low (often `<20%` over 6+ months)               |High longitudinal adherence (proven over 5-8 year cohort studies)|
 
 ## The Disruption of Interoception: When Hunger Cues Fail
 
@@ -160,13 +160,12 @@ Within the broader intuitive eating framework, the pragmatic integration of obje
 This sophisticated concept is practically applied through clinical models such as the Nutrition Hierarchy of Needs, brilliantly adapted from Abraham Maslow's foundational psychological framework.
 
 1. **Adequacy (The Base):** The foundational tier ensures the individual is simply consuming enough total energy on a daily basis to support baseline physiological function, preventing the cascade of metabolic downregulation.
-    
+
 2. **Balance:** The second tier involves ensuring that most meals contain the necessary balance of vital macronutrients—complex carbohydrates, complete proteins, and dietary fats—to stabilize blood sugar, optimize cognitive function, and prolong postprandial satiety.
-    
+
 3. **Variety:** The third tier emphasizes prioritizing a diverse, colorful array of whole foods to secure essential micronutrient sufficiency, preventing deficiencies in vitamins and minerals.
-    
+
 4. **Individual Foods (The Apex):** Only at the absolute peak of the hierarchy are specific dietary adjustments made for precise clinical or athletic goals, such as carefully managing sodium to lower blood pressure, tracking protein to build muscle mass, or adjusting carbohydrates for an athletic taper.
-    
 
 By building a meal utilizing a highly flexible general template—often colloquially referred to by dietitians as "The Gang's All Here" approach, which ensures the presence of a protein source, complex carbohydrate, healthy fat, and fiber without rigorous calorie logging—individuals can achieve the metabolic stability and chrononutritional benefits of structured eating while perfectly maintaining the fluidity and psychological peace of intuitive eating.
 

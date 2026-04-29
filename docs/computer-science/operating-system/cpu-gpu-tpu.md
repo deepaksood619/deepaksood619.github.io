@@ -33,7 +33,16 @@ A single Nvidia server rack with 72 of their latest Blackwell GPUs costs around 
 - Each MXU is capable of performing 16K multiply-accumulate operations in each cycle.
 - While the MXU's inputs and outputs are 32-bit floating point values, the MXU performs multiplies at reduced bfloat16 precision.
 - Bfloat16 is a 16-bit floating point representation that provides better training and model accuracy than the IEEE half-precision representation. -From a software perspective, each of the 8 cores on a Cloud TPU can execute user computations (XLA ops) independently.
-- High-bandwidth interconnects allow the chips to communicate directly with each other.- ![image](../../media/CPU-GPU-TPU-image2.jpg)
+- High-bandwidth interconnects allow the chips to communicate directly with each other.
+
+![image](../../media/CPU-GPU-TPU-image2.jpg)
+
+- [Everything Announced at Google Cloud Next in Under 13 Minutes - YouTube](https://www.youtube.com/watch?v=dITPmrhNTzY)
+- [Google TPU 8t and TPU 8i: Purpose-built for the Agentic Era - YouTube](https://www.youtube.com/watch?v=3Qw_CZkiQQg)
+- [How Google's 8th Generation TPUs Power the Agentic Era - YouTube](https://www.youtube.com/watch?v=Ocf7EYHmmzo)
+- [The latest from Google's TPU roadmap: Architecting TPU 8t and TPU 8i for frontier AI - YouTube](https://www.youtube.com/watch?v=iNBqqfV6IAw)
+- [Two chips for the agentic era](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/)
+- [TPU 8t and TPU 8i technical deep dive \| Google Cloud Blog](https://cloud.google.com/blog/products/compute/tpu-8t-and-tpu-8i-technical-deep-dive)
 
 ## The Systolic Array
 
@@ -75,6 +84,5 @@ https://dzone.com/articles/nice-cpu-time-ni-time-in-top
 
 ## Links
 
-[Chasing Silicon: The Race for GPUs](https://www.youtube.com/watch?v=IPre5287P3I)
-
-[5 reasons why Google's Trillium could transform AI and cloud computing - and 2 obstacles | ZDNET](https://www.zdnet.com/article/5-reasons-why-googles-trillium-could-transform-ai-and-cloud-computing-and-2-obstacles/)
+- [Chasing Silicon: The Race for GPUs](https://www.youtube.com/watch?v=IPre5287P3I)
+- [5 reasons why Google's Trillium could transform AI and cloud computing - and 2 obstacles | ZDNET](https://www.zdnet.com/article/5-reasons-why-googles-trillium-could-transform-ai-and-cloud-computing-and-2-obstacles/)

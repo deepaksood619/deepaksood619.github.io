@@ -216,6 +216,29 @@ Controls the randomness of the model's output. A higher temperature makes the ou
 
 These parameters can be combined - for instance, using a moderate Temperature (0.7) with a low Top K (5) would give creative but controlled outputs that don't go too far off track.
 
+### Reasoning Effort
+
+Reasoning effort is a parameter for AI models (like **OpenAI o1** and **GPT-5**) that controls how much internal "thinking" a model does before providing a final response. It adjusts the **computational depth** or "mental bandwidth" the model allocates to a task by controlling the number of internal reasoning tokens it generates.
+
+**Core Functionality**
+
+When you adjust reasoning effort, the model changes its internal behavior:
+
+- **Token Usage**: Higher effort generates more hidden "reasoning tokens" (often called a [chain-of-thought](https://openai.com/index/openai-o1-system-card/) ) as the model explores multiple paths, verifies steps, and corrects errors internally.
+- **Latency**: Response time increases significantly with higher effort. Medium effort typically takes **3 times longer** than low effort, and high effort can take **3 times longer** than medium.
+- **Accuracy**: Increased effort generally improves performance on complex logical, mathematical, and coding tasks by allowing the model to "plan" its response.
+
+### Model Multiplier
+
+A model multiplier in the context of **GitHub Copilot's billing system** is **a numerical factor applied to the base rate of AI token usage to calculate the cost of using specific, advanced AI models**. It acts as a lens through which GitHub calculates the actual cost of a request based on the model's complexity and resource usage.
+
+**Key Takeaways on GitHub Model Multipliers:**
+
+- **Purpose:** Incentivize using the right tool for the job by charging more for advanced models and less for lighter ones.
+- **Cost Calculation:** A model with a 27x multiplier (e.g., Claude Opus 4.6) means you pay 27 times the base token price compared to a standard model.
+- **Impact:** Advanced models (e.g., Claude Opus, GPT-5 variants) can consume tokens significantly faster, reducing annual credit allowances much quicker.
+- **Examples:** As of late April 2026, Claude Haiku 4.5 had a low multiplier (0.33x), while Claude Opus 4.6/4.7 reached a 27x multiplier.
+
 ## Other Topics
 
 - Iterative

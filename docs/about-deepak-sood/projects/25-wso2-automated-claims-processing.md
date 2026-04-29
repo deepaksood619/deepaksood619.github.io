@@ -53,5 +53,5 @@ The topics were designed to represent the state machine of a claim's lifecycle:
 
 ### 5. Performance Metrics Achieved
 
-- **Straight-Through Processing (STP):** Reached **40%**, meaning nearly half of all minor claims bypassed human adjusters entirely.    
+- **Straight-Through Processing (STP):** Reached **40%**, meaning nearly half of all minor claims bypassed human adjusters entirely.
 - **Processing Time:** The time from customer submission to the mainframe payout trigger was reduced from an average of **3 days to under 2 minutes**.

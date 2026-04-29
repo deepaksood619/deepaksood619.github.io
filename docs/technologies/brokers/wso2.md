@@ -58,7 +58,7 @@ WSO2 can interact with Kafka in two primary ways: as a **Producer** (sending dat
 In this scenario, WSO2 MI receives data from an external source (like a REST API or a file) and publishes it to a Kafka topic.
 
 - **How it works:** You use the **Kafka Connector** within WSO2.
-- **The Flow:** 
+- **The Flow:**
 	1. A client sends a JSON payload to a WSO2 REST API.
     2. WSO2 processes or transforms the data (e.g., adding a timestamp).
     3. WSO2 uses the `publish` operation to push the message into a specific Kafka Topic.
