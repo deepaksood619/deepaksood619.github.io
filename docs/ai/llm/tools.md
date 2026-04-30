@@ -164,6 +164,7 @@
 - https://littlebird.ai/
 - [Gemini Storybook — for the stories only you could imagine](https://gemini.google/overview/storybook/)
 - [RentAHuman.ai - Hire Humans for AI Agents \| MCP Integration](https://rentahuman.ai/)
+- [Relevance AI \| AI Agents for Sales & GTM Teams](https://relevanceai.com/)
 
 ## Purpose-built accelerators for generative AI
 
