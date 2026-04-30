@@ -86,6 +86,8 @@ Employees use public ChatGPT because company LLM too locked down. Balance securi
 
 [GARiME (Governance, Assurance and Risk Management Excellence)](https://garime.org/)
 
+[#governance #dataprotection #governance #resilience #ai #ai #resilience #governance #risk #garime #beyondrisx #riskmanagement #governance #aigovernance #fintechrisk #machinelearning #datagovernance… \| GARiME](https://www.linkedin.com/posts/governance-dataprotection-governance-ugcPost-7455093773136711680-7jEf)
+
 ## Session: Building End-to-End Products using AI (23 Nov 2025)
 
 [Building End to End Product Using AI \| Building Personal Portfolio Website \| Draft Content - Google Docs](https://docs.google.com/document/d/1E0-iPwL15Si683ekUpzRlhyw9kCTglBcT3DpU6a1aMs/edit?usp=sharing)

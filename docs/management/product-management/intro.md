@@ -258,13 +258,10 @@ The ICE scoring model is **a prioritization framework in product management tha
 
 ## Others
 
-https://www.freecodecamp.org/news/why-understanding-software-requirements-matter-to-you-as-a-software-engineer
-
-https://rohankatyal.com/How-I-prepared-for-Facebook-PM-execution-metrics-interviews-24a8aff4830645389d4895bbe33ac801
-
-[What It Takes To Become A Great Product Manager](https://www.youtube.com/watch?v=SrAraT1q94c&ab_channel=CodingTech)
-
-https://www.lennysnewsletter.com/p/a-product-managers-guide-to-web3
+- https://www.freecodecamp.org/news/why-understanding-software-requirements-matter-to-you-as-a-software-engineer
+- https://rohankatyal.com/How-I-prepared-for-Facebook-PM-execution-metrics-interviews-24a8aff4830645389d4895bbe33ac801
+- [What It Takes To Become A Great Product Manager](https://www.youtube.com/watch?v=SrAraT1q94c&ab_channel=CodingTech)
+- https://www.lennysnewsletter.com/p/a-product-managers-guide-to-web3
 
 ## Resources
 
@@ -272,3 +269,4 @@ https://www.lennysnewsletter.com/p/a-product-managers-guide-to-web3
 - https://noidea.dog/glue
 - [Inside The Product](https://www.youtube.com/c/InsideTheProduct)
 - [The Product Model at Google - Silicon Valley Product Group : Silicon Valley Product Group](https://www.svpg.com/the-product-model-at-google/)
+- [Your product has a new user. It’s not human.](https://www.elenaverna.com/p/your-product-has-a-new-user-its-not)

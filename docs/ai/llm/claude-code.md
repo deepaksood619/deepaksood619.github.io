@@ -383,3 +383,4 @@ ls ~/.claude/get-shit-done/workflows/
 - [[Tutorial] How to use ANY local vLLM model with Claude Code](https://www.reddit.com/r/LocalLLaMA/comments/1ss9q8b/tutorial_how_to_use_any_local_vllm_model_with/)
 	- [Running Claude Code with local LLMs? all lies… until now! \| by Vito Rallo \| Apr, 2026 \| Medium](https://medium.com/@vito.rallo/running-claude-code-with-local-llms-all-lies-until-now-3e9a0084dfe1)
 - [GitHub - Alishahryar1/free-claude-code: Use claude-code for free in the terminal, VSCode extension or via discord like openclaw · GitHub](https://github.com/Alishahryar1/free-claude-code) ⭐ 15k
+- [Confessions of a Millennial in Tech - by Elena Verna](https://www.elenaverna.com/p/confessions-of-a-millennial-in-tech)

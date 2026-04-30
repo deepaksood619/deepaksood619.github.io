@@ -201,6 +201,10 @@ https://www.cortex.dev
 ## SAAS Tools
 
 - [Roboflow: Computer vision tools for developers and enterprises](https://roboflow.com/)
+- [Dataiku: The Platform for AI Success](https://www.dataiku.com/)
+	- [Introducing AI Agents With Dataiku - YouTube](https://www.youtube.com/watch?v=cgs4KhLUVSg)
+	- [Dataiku 3-Minute Demo - YouTube](https://www.youtube.com/watch?v=5_--My-B7Uw)
+	- [Dataiku - YouTube](https://www.youtube.com/playlist?list=PL4vFwlsy6ChHf5GqY-j_uP6ooTUJOlORl)
 
 ## Tools
 
