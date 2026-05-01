@@ -1,0 +1,15 @@
+# Ideas
+
+- [Intro](ideas/intro.md)
+- [Creating a Business / Startup](ideas/creating-a-business-startup.md)
+- [Founders Journey](ideas/founders-journey.md)
+- [Non Profit](ideas/non-profit.md)
+- [Donations](ideas/donations.md)
+- [Startup Ideas - SAAS](ideas/startups-ideas-saas.md)
+- [Education](education/education-ideas.md)
+- [Startup Ideas - Physical](ideas/startup-ideas-physical.md)
+- [Improvements / Feedbacks](ideas/improvements-feedbacks.md)
+- [Thoughts / Future / Ideas / Vision / Prediction](ideas/thoughts-future-ideas-vision-prediction.md)
+- [Society](ideas/society.md)
+- [Startup Quotes](knowledge/quotes-proverbs/startup-quotes.md)
+- [Others](ideas/others.md)

@@ -10,7 +10,7 @@
 - [Social Links](about-deepak-sood/social-links.md)
 - [FAQs](about-deepak-sood/faqs.md)
 - [Personality](about-deepak-sood/personality.md)
-- [Ideas](about-deepak-sood/ideas/readme.md)
+- [Ideas](ideas/readme.md)
 - [Ideals / Dreams](about-deepak-sood/ideals-dreams.md)
 - [Values](about-deepak-sood/values.md)
 - [Soft Skills](../psychology/soft-skills/readme.md)

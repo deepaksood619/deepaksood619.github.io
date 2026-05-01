@@ -5,7 +5,7 @@
 - [Static Code Analysis](static-code-analysis)
 - [Code Smell](code-smell)
 - [Development Approaches](development-approaches)
-- [Principles](principles)
+- [Principles](computer-science/software-engineering/principles-software-engineering.md)
 - [Types of code](types-of-code)
 - [Technical Debt](technical-debt)
 - [Software Complexity](complexity)

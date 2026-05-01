@@ -95,27 +95,18 @@ https://en.wikipedia.org/wiki/ISO_8601
 
 https://physics.nist.gov/cuu/Units/binary.html
 
-## shim in computing means application compatibility workaround
-
 ## IMP Coding Snippets
 
-Sweep Line Algorithm (Find intersection of two lines) - Using 1d range search - [smarty](http://www.pythonchallenge.com/pc/def/oxygen.html)
-
-Parameterization - https://www.toptal.com/python/python-parameterized-design-patterns
-
-https://slate.com/technology/2019/10/consequential-computer-code-software-history.html
-
-https://medium.com/the-atlantic/the-coming-software-apocalypse-4ffb43f3b288$1
-
-https://github.com/RockstarLang/rockstar
-
-[The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U)
-
-[MongoDB Database Skills (Sia Cheap Thrills Parody) - YouTube](https://www.youtube.com/watch?v=0vPt7GI-2kc)
-
-https://blog.codinghorror.com/new-programming-jargon
-
-[To the Moon • Russ Olsen • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=ntmkMLcveC0&ab_channel=GOTOConferences)
+- shim in computing means application compatibility workaround
+- Sweep Line Algorithm (Find intersection of two lines) - Using 1d range search - [smarty](http://www.pythonchallenge.com/pc/def/oxygen.html)
+- Parameterization - https://www.toptal.com/python/python-parameterized-design-patterns
+- https://slate.com/technology/2019/10/consequential-computer-code-software-history.html
+- https://medium.com/the-atlantic/the-coming-software-apocalypse-4ffb43f3b288$1
+- https://github.com/RockstarLang/rockstar
+- [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U)
+- [MongoDB Database Skills (Sia Cheap Thrills Parody) - YouTube](https://www.youtube.com/watch?v=0vPt7GI-2kc)
+- https://blog.codinghorror.com/new-programming-jargon
+- [To the Moon • Russ Olsen • GOTO 2024 - YouTube](https://www.youtube.com/watch?v=ntmkMLcveC0&ab_channel=GOTOConferences)
 
 ## Typosquatting
 
@@ -134,39 +125,3 @@ https://medium.com/@moocaholic/fp64-fp32-fp16-bfloat16-tf32-and-other-members-of
 ## Valid Emails
 
 [Can You Validate These Emails? - YouTube](https://www.youtube.com/watch?v=60BPETbra9U)
-
-## [Zawinski's Law](https://en.wikipedia.org/wiki/Jamie_Zawinski#Principles)
-
-"Every program attempts to expand until it can read mail. Those programs which cannot so expand are replaced by ones which can." (related:[Greenspun's tenth rule](https://en.wikipedia.org/wiki/Greenspun%27s_tenth_rule) - "any sufficiently complicated C or Fortran program contains an ad hoc, informally-specified, bug-ridden, slow implementation of half of Common Lisp.")
-
-## [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law)
-
-The observation that the number of transistors in a dense integrated circuit doubles approximately every two years.
-
-### Eroom's Law
-
-Eroom's law is the observation that drug discovery is becoming slower and more expensive over time, despite improvements in technology (such as [high-throughput screening](https://en.wikipedia.org/wiki/High-throughput_screening), [biotechnology](https://en.wikipedia.org/wiki/Biotechnology), [combinatorial chemistry](https://en.wikipedia.org/wiki/Combinatorial_chemistry), and computational [drug design](https://en.wikipedia.org/wiki/Drug_design)), a trend first observed in the 1980s. The cost of developing a new drug roughly doubles every nine years (inflation-adjusted).In order to highlight the contrast with the exponential advancements of other forms of technology (such as [transistors](https://en.wikipedia.org/wiki/Transistor)) over time, the law was deliberately spelled as [Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law) spelled backwards.
-
-Software also getting slower with improved processors because developers are writing inefficient code.
-
-## Haitz's law
-
-**Haitz's law** is an observation and forecast about the steady improvement, over many years, of [light-emitting diodes](https://en.wikipedia.org/wiki/Light-emitting_diode "Light-emitting diode") (LEDs).
-
-It claims that every decade, the cost per [lumen](https://en.wikipedia.org/wiki/Lumen_(unit) "Lumen (unit)") (unit of useful light emitted) falls by a factor of 10, and the amount of light generated per LED package increases by a factor of 20, for a given wavelength (color) of light. It is considered the LED counterpart to [Moore's law](https://en.wikipedia.org/wiki/Moore%27s_law "Moore's law"), which states that the number of transistors in a given integrated circuit doubles every 18 to 24 months. Both laws rely on the [process optimization](https://en.wikipedia.org/wiki/Process_optimization "Process optimization") of the production of [semiconductor devices](https://en.wikipedia.org/wiki/Semiconductor_device "Semiconductor device").
-
-[Haitz's law - Wikipedia](https://en.wikipedia.org/wiki/Haitz%27s_law)
-
-## Dennard scaling
-
-In [semiconductor electronics](https://en.wikipedia.org/wiki/Semiconductor_electronics "Semiconductor electronics"), **Dennard scaling**, also known as **MOSFET scaling**, is a [scaling law](https://en.wikipedia.org/wiki/Scaling_law "Scaling law") which states roughly that, as [transistors](https://en.wikipedia.org/wiki/Transistor "Transistor") get smaller, their [power density](https://en.wikipedia.org/wiki/Power_density "Power density") stays constant, so that the power use stays in proportion with area; both [voltage](https://en.wikipedia.org/wiki/Voltage "Voltage") and [current](https://en.wikipedia.org/wiki/Electric_current "Electric current") scale (downward) with length. The law, originally formulated for [MOSFETs](https://en.wikipedia.org/wiki/MOSFET "MOSFET"), is based on a 1974 paper co-authored by [Robert H. Dennard](https://en.wikipedia.org/wiki/Robert_H._Dennard "Robert H. Dennard"), after whom it is named.
-
-[Dennard scaling - Wikipedia](https://en.wikipedia.org/wiki/Dennard_scaling)
-
-## [Metcalfe's Law](https://en.wikipedia.org/wiki/Metcalfe%27s_law#Limitations)
-
-The value of a telecommunications network is proportional to the square of the number of connected users of the system...Within the context of social networks, many, including Metcalfe himself, have proposed modified models using (n× logn) proportionality rather than n^2 proportionality.
-
-## [Clarke's Third Law](https://en.wikipedia.org/wiki/Clarke%27s_three_laws)
-
-Any sufficiently advanced technology is indistinguishable from magic.

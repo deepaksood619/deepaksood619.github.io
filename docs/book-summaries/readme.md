@@ -38,7 +38,7 @@
 - [Organize tomorrow today](organize-tomorrow-today)
 - [The slight edge](the-slight-edge)
 - [The 4 hour workweek](the-4-hour-workweek)
-- [Principles](principles)
+- [Principles](book-summaries/principles.md)
 - [Primed to perform](primed-to-perform)
 - [Getting things done](getting-things-done)
 - [**Game changers**](game-changers)

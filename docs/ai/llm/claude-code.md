@@ -65,6 +65,10 @@ claude --login
 claude --think
 # Print Mode: Runs a one-off task (e.g., "fix tests") and exits.
 claude -p "query"
+
+claude mcp list
+claude update
+claude --help
 ```
 
 - **/compact**: Manually shrinks the conversation history to save tokens while preserving key context.
@@ -310,6 +314,16 @@ ls ~/.claude/get-shit-done/workflows/
 - ​[**Agent Sandbox**](https://fff97757.click.kit-mail3.com/68uxrkzg9gb8h5e27ezsohp4k39wkf9hnlpoo/n2hohvhvq7gdxps6/aHR0cHM6Ly9naXRodWIuY29tL2Rpc2xlci9hZ2VudC1zYW5kYm94LXNraWxs)**:** Isolated E2B cloud sandboxes for building, hosting, and testing apps without touching local files. Good for when you want the agent to experiment freely without risk.
 - ​[**Agile Workflow**](https://fff97757.click.kit-mail3.com/68uxrkzg9gb8h5e27ezsohp4k39wkf9hnlpoo/48hvhehmlx9opdbx/aHR0cHM6Ly9naXRodWIuY29tL2xldm5pa29sYWV2aWNoL2NsYXVkZS1jb2RlLXNraWxscw==)**:** Full agile delivery pipeline with multi-model parallel review via Codex and Gemini agents. Brings structured software delivery practices into the agent workflow.
 - ​[**Claude Code Plugins+**](https://fff97757.click.kit-mail3.com/68uxrkzg9gb8h5e27ezsohp4k39wkf9hnlpoo/wnh2hghq704zkes7/aHR0cHM6Ly9naXRodWIuY29tL2plcmVteWxvbmdzaG9yZS9jbGF1ZGUtY29kZS1wbHVnaW5zLXBsdXMtc2tpbGxz)**:** Plugin directory with a CLI package manager for searching and installing niche skills. Think npm but for Claude Code skills.
+
+### DeepResearch Agent
+
+- [GitHub - VoltAgent/awesome-claude-code-subagents: A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases · GitHub](https://github.com/VoltAgent/awesome-claude-code-subagents)
+	- [awesome-claude-code-subagents/categories/10-research-analysis/market-researcher.md at main · VoltAgent/awesome-claude-code-subagents · GitHub](https://github.com/VoltAgent/awesome-claude-code-subagents/blob/main/categories/10-research-analysis/market-researcher.md)
+- [The one-liner research agent \| Claude Cookbook](https://platform.claude.com/cookbook/claude-agent-sdk-00-the-one-liner-research-agent)
+- [Converting Claude Code into the most intelligent Deep Research Agent](https://www.reddit.com/r/ClaudeAI/comments/1sz9ib0/converting_claude_code_into_the_most_intelligent/)
+- [GitHub - jordan-gibbs/hyperresearch: Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki. · GitHub](https://github.com/jordan-gibbs/hyperresearch)
+- [DeepResearch Bench - a Hugging Face Space by muset-ai](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard)
+	- [GitHub - Ayanami0730/deep\_research\_bench: DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents · GitHub](https://github.com/Ayanami0730/deep_research_bench)
 
 ### Marketplace
 
