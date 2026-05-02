@@ -10,23 +10,16 @@ Give them bread and circus and they will never revolt
 
 ### Democracy
 
-[Is Democracy Doomed? The Global Fight for Our Future | Timothy Snyder | TED - YouTube](https://www.youtube.com/watch?v=YY6LCOJbve8)
-
-I disapprove of what you say, but will defend to the death your right to say it.
-
-[How to Build Democracy — in an Authoritarian Country | Tessza Udvarhelyi | TED - YouTube](https://www.youtube.com/watch?v=-QkDwqktaVk)
-
-Democracy is not a noun but a verb, it something you do
-
-A wicked citizen cannot do evil in a republic that is not corrupted
-
-Dictatorship are never as strong and people are never as weak as they think they are -- Gene Sharp
-
-Educate, agitate, organize -- Dr. B.r. Ambedkar
-
-[Democracy Lab | TED-Ed](https://ed.ted.com/democracy-lab)
-
-[Why Democracy Is Mathematically Impossible - YouTube](https://www.youtube.com/watch?v=qf7ws2DF-zk)
+- [Is Democracy Doomed? The Global Fight for Our Future | Timothy Snyder | TED - YouTube](https://www.youtube.com/watch?v=YY6LCOJbve8)
+- I disapprove of what you say, but will defend to the death your right to say it.
+- [How to Build Democracy — in an Authoritarian Country | Tessza Udvarhelyi | TED - YouTube](https://www.youtube.com/watch?v=-QkDwqktaVk)
+- Democracy is not a noun but a verb, it something you do
+- A wicked citizen cannot do evil in a republic that is not corrupted
+- Dictatorship are never as strong and people are never as weak as they think they are -- Gene Sharp
+- Educate, agitate, organize -- Dr. B.r. Ambedkar
+- [Democracy Lab | TED-Ed](https://ed.ted.com/democracy-lab)
+- [Why Democracy Is Mathematically Impossible - YouTube](https://www.youtube.com/watch?v=qf7ws2DF-zk)
+- If free speech is a threat to your government, then government is a threat to your nation
 
 #### Indian Democracy
 

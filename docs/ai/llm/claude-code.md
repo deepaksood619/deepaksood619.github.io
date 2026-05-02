@@ -270,6 +270,7 @@ ls ~/.claude/get-shit-done/workflows/
 	- [The OpenClaw Effect: Why Every AI Company is Racing to Your Desktop](https://www.thetoolnerd.com/p/the-openclaw-effect-why-every-ai)
 	- [Red Hat's OpenClaw maintainer just made enterprise Claw deployments a lot safer \| TechCrunch](https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/)
 	- [GitHub - NVIDIA/NemoClaw: Run OpenClaw more securely inside NVIDIA OpenShell with managed inference · GitHub](https://github.com/NVIDIA/NemoClaw)
+	- [Buda — Run Your Agent Company — Cloud-Native AI Workforce](https://buda.im/)
 - [GitHub - NousResearch/hermes-agent: The agent that grows with you · GitHub](https://github.com/nousresearch/hermes-agent) ⭐ 120k
 	- [Hermes Agent — The Agent That Grows With You \| Nous Research](https://hermes-agent.nousresearch.com/)
 - [GitHub - msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. · GitHub](https://github.com/msitarzewski/agency-agents) ⭐ 88k

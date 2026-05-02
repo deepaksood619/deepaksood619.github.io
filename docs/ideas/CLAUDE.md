@@ -1,25 +1,25 @@
 # claude.md
 
-**LLM-maintained wiki for education research** - Supporting education startup development through systematic knowledge organization.
+**LLM-maintained wiki for multi-domain startup research** - Supporting multiple startup ideas through systematic knowledge organization across different domains.
 
 ## Core Purpose
 
 This is NOT a passive document store. This is an **LLM-maintained wiki** where Claude actively:
 
-- Processes new research sources (papers, articles, videos, case studies)
+- Processes new research sources (papers, articles, videos, case studies, market reports)
 - Extracts key information and integrates it into existing knowledge
 - Maintains cross-references and links between concepts
 - Detects contradictions and updates claims
-- Builds a structured, queryable knowledge base
+- Builds a structured, queryable knowledge base across multiple startup domains
 
-**Human responsibility:** Curate sources, direct analysis, ask good questions.
+**Human responsibility:** Curate sources, direct analysis, ask good questions, prioritize startup ideas.
 
-**LLM responsibility:** Bookkeeping, cross-referencing, consistency maintenance, synthesis.
+**LLM responsibility:** Bookkeeping, cross-referencing, consistency maintenance, synthesis, domain-specific organization.
 
 ## Environment
 
-- **Vault type:** Education research wiki (LLM-maintained)
-- **Vault location:** `/docs/education` directory
+- **Vault type:** Multi-domain startup research wiki (LLM-maintained)
+- **Vault location:** `/docs/ideas` directory
 - **Obsidian CLI path:** `/Applications/Obsidian.app/Contents/MacOS/Obsidian`
 - **Primary editor:** Obsidian app (macOS)
 - **Secondary publishing:** Docusaurus 3.8 → GitHub Pages
@@ -58,24 +58,28 @@ Humans struggle with:
 
 - Research papers (PDFs, arXiv links)
 - Blog posts and articles
-- Video lectures and talks
-- Case studies and reports
-- Data files and datasets
-- Stored in `/docs/education/sources/` (if needed) or referenced via URLs
+- Video lectures, podcasts, and talks
+- Case studies and market reports
+- Industry data and competitive analysis
+- Customer interviews and surveys
+- Stored in `/docs/ideas/sources/` (if needed) or referenced via URLs
 
 **Layer 2: The Wiki** (LLM-maintained)
 
-- Topic pages (pedagogical theories, learning science, edtech tools)
-- Entity pages (researchers, institutions, frameworks, methodologies)
-- Concept summaries with cross-references
-- Synthesis documents connecting research findings
-- All markdown files in `/docs/education/`
+- **Startup domain pages** (education-tech, fintech, healthcare, AI/ML tools, developer tools, etc.)
+- **Topic pages** (market analysis, technology stack, business models, GTM strategies)
+- **Entity pages** (companies, founders, investors, frameworks, methodologies)
+- **Concept summaries** with cross-references across domains
+- **Synthesis documents** connecting research findings and insights
+- **Validation pages** (problem validation, solution validation, market sizing)
+- All markdown files in `/docs/ideas/`
 
 **Layer 3: The Schema** (this file)
 
 - Defines structure, conventions, workflows
 - Guides how Claude processes and organizes information
-- Sets taxonomy for education topics
+- Sets taxonomy for multiple startup domains
+- Maintains cross-domain connections and patterns
 
 ## Core Operations
 
@@ -104,25 +108,33 @@ When provided with new sources (paper, article, video, etc.):
 **Example ingestion:**
 
 ```bash
-# User provides paper on "Retrieval Practice in Learning"
+# User provides article on "AI Tutoring Market Trends"
 # Claude should:
 # 1. Read/analyze the source
-# 2. Update: learning-science.md, spaced-repetition.md, active-recall.md, cognitive-psychology.md
-# 3. Create entity page if prominent researcher
+# 2. Update: edtech/ai-tutoring.md, market-analysis/edtech-trends.md, competitors/list.md
+# 3. Create entity page if prominent company/founder mentioned
 # 4. Add entry to log.md with date and source
-# 5. Update index.md categories
+# 5. Update index.md categories and cross-domain links
+
+# User provides fintech startup case study
+# Claude should:
+# 1. Extract business model, GTM strategy, tech stack
+# 2. Update: fintech/neobanking.md, business-models/b2c-fintech.md, tech-stacks/fintech.md
+# 3. Create company profile page
+# 4. Link to related domains (e.g., regulatory considerations)
 ```
 
 ### Query: Synthesizing Knowledge
 
-When asked questions about education topics:
+When asked questions about any startup domain:
 
-1. Search wiki pages using Obsidian CLI
+1. Search wiki pages using Obsidian CLI across all domains
 2. Synthesize answer with citations
-3. If synthesis reveals valuable insights → save as new wiki page
-4. Update cross-references
+3. Identify cross-domain patterns and insights
+4. If synthesis reveals valuable insights → save as new wiki page
+5. Update cross-references within and across domains
 
-**Save valuable analyses as pages** (e.g., `comparison-montessori-vs-waldorf.md`)
+**Save valuable analyses as pages** (e.g., `comparison-stripe-vs-square.md`, `ai-tutoring-market-size-2026.md`)
 
 ### Lint: Health Checks
 
@@ -149,45 +161,72 @@ Periodically check for:
 
 ## Special Index Files
 
-**`index.md`** - Content-oriented catalog organized by category:
+**`index.md`** - Content-oriented catalog organized by startup domain:
 
-- Pedagogical theories (Constructivism, Behaviorism, Cognitivism)
-- Learning science (Spaced repetition, Active recall, Cognitive load)
-- Educational technology (LMS, adaptive learning, AI tutors)
-- Assessment methods (Formative, summative, authentic)
-- Curriculum design
-- Student engagement
-- Teacher training
+- **Active startup ideas** (by priority/stage)
+- **Education technology** (AI tutoring, LMS, assessment tools)
+- **Fintech** (neobanking, payments, lending)
+- **Healthcare** (telemedicine, health-tech, wellness)
+- **Developer tools** (AI coding assistants, infrastructure, productivity)
+- **Consumer apps** (social, productivity, entertainment)
+- **B2B SaaS** (vertical SaaS, horizontal tools, enterprise)
+- **Cross-cutting topics** (business models, GTM, tech stacks, market analysis)
 
 **`log.md`** - Chronological append-only record:
 
-Format: `[YYYY-MM-DD] <action> - <description> - <source>`
+Format: `[YYYY-MM-DD] [DOMAIN] <action> - <description> - <source>`
 
 Example:
 
 ```markdown
-[2026-04-30] INGEST - Processed Bjork paper on desirable difficulties - https://example.com/paper.pdf
-[2026-04-30] UPDATE - Updated spaced-repetition.md with new findings on optimal intervals
-[2026-04-29] CREATE - Added page on Bloom's taxonomy applications
-[2026-04-29] QUERY - Synthesized comparison of mastery learning vs traditional pacing
+[2026-05-01] [EDTECH] INGEST - Processed market report on AI tutoring - https://example.com/report.pdf
+[2026-05-01] [EDTECH] UPDATE - Updated ai-tutoring.md with market size projections
+[2026-04-30] [FINTECH] CREATE - Added comparison page for Stripe vs Square
+[2026-04-30] [CROSS-DOMAIN] QUERY - Synthesized B2C vs B2B GTM strategies across domains
+[2026-04-29] [DEVTOOLS] INGEST - GitHub Copilot case study on adoption metrics
 ```
 
-## Education Research Taxonomy
+## Multi-Domain Startup Research Taxonomy
 
 **Organize notes under these categories:**
 
-- **pedagogical-theories/** - Constructivism, Montessori, Waldorf, project-based learning
-- **learning-science/** - Cognitive load, spaced repetition, retrieval practice, metacognition
-- **edtech/** - LMS platforms, adaptive learning, AI tutors, assessment tools
-- **curriculum-design/** - Backward design, learning objectives, scaffolding
-- **assessment/** - Formative, summative, authentic assessment, rubrics
-- **student-engagement/** - Motivation, gamification, social learning
-- **teacher-development/** - Professional development, coaching, feedback
-- **equity-access/** - Digital divide, inclusive education, accessibility
-- **research-methods/** - RCTs, qualitative studies, meta-analyses
-- **institutions/** - Schools, universities, ed-tech companies
-- **researchers/** - Notable education researchers and their work
-- **frameworks/** - Bloom's taxonomy, Webb's DOK, SAMR model
+### Domain-Specific Folders
+
+- **edtech/** - Education technology startups and research
+  - ai-tutoring/, lms-platforms/, assessment-tools/, pedagogy/, learning-science/
+- **fintech/** - Financial technology and banking
+  - neobanking/, payments/, lending/, crypto/, regulatory/
+- **healthcare/** - Health and wellness technology
+  - telemedicine/, diagnostics/, wellness-apps/, health-records/, compliance/
+- **devtools/** - Developer tools and infrastructure
+  - ai-coding/, cicd/, cloud-tools/, monitoring/, productivity/
+- **consumer/** - Consumer-facing apps
+  - social/, productivity/, entertainment/, marketplace/, community/
+- **b2b-saas/** - Business software
+  - vertical-saas/, crm/, analytics/, collaboration/, automation/
+- **ai-ml/** - AI/ML products (cross-domain)
+  - llm-applications/, computer-vision/, recommendation-systems/, mlops/
+
+### Cross-Domain Categories
+
+- **business-models/** - Revenue models, pricing strategies, unit economics
+  - b2c/, b2b/, marketplace/, subscription/, freemium/, enterprise/
+- **market-analysis/** - Market sizing, trends, competitive landscape
+  - tam-sam-som/, market-trends/, competitive-analysis/, customer-segments/
+- **tech-stacks/** - Technology architectures by domain
+  - frontend/, backend/, infrastructure/, data/, ai-ml/
+- **gtm-strategies/** - Go-to-market approaches
+  - product-led/, sales-led/, community-led/, marketing-channels/, distribution/
+- **validation/** - Problem and solution validation
+  - problem-validation/, solution-validation/, mvp-approach/, customer-interviews/
+- **competitors/** - Competitive analysis and company profiles
+  - company-profiles/, feature-comparison/, pricing-comparison/, market-positioning/
+- **frameworks/** - Startup methodologies and mental models
+  - lean-startup/, jobs-to-be-done/, business-model-canvas/, value-proposition/
+- **investors/** - VC firms, angel investors, funding landscape
+  - vc-firms/, investment-thesis/, funding-stages/, pitch-decks/
+- **regulatory/** - Legal and compliance considerations
+  - data-privacy/, industry-regulations/, licensing/, ip-protection/
 
 ## Critical: Use CLI Over Direct File Operations
 
@@ -385,144 +424,321 @@ VAULT="/Users/deepaksood/Library/CloudStorage/GoogleDrive-dsood@confluent.io/.sh
 /Applications/Obsidian.app/Contents/MacOS/Obsidian reload vault="$VAULT"  # reload vault
 ```
 
-## Working with Education Research Wiki
+## Working with Multi-Domain Startup Research Wiki
 
 ### Content Organization
 
-- **LLM-maintained wiki** with systematic cross-linking
+- **LLM-maintained wiki** with systematic cross-linking within and across domains
 - **Zettelkasten method:** Atomic notes densely interconnected
-- **No number prefixes:** Filenames are semantic (`spaced-repetition.md`)
-- **Media storage:** `/docs/media/` for images/diagrams
+- **No number prefixes:** Filenames are semantic (`ai-tutoring-market-analysis.md`)
+- **Media storage:** `/docs/media/` for images/diagrams/charts
 - **Mermaid diagrams:** Use ```mermaid blocks (Docusaurus-compatible)
 - **Citation tracking:** Include sources in frontmatter or inline
+- **Domain tagging:** Use frontmatter to tag startup domain(s)
+- **Cross-domain linking:** Actively connect patterns across different startup domains
 
 ### Link Format Requirements
 
 **CRITICAL:** Use standard markdown links, NOT Obsidian wikilinks.
 
-❌ Wrong: `[[active-learning]]` (breaks Docusaurus)
-✅ Correct: `[Active Learning](pedagogical-theories/active-learning.md)`
+❌ Wrong: `[[ai-tutoring]]` (breaks Docusaurus)
+✅ Correct: `[AI Tutoring](edtech/ai-tutoring.md)`
 
-### Template: Research Paper Note
+### Template: Research/Source Note
 
 ```markdown
 ---
-title: Paper Title
-authors: Author Names
-year: 2024
-source: https://arxiv.org/abs/...
-type: research-paper
-tags: [learning-science, meta-analysis, cognitive-load]
+title: Source Title
+authors: Author Names / Company
+year: 2026
+source: https://example.com/source
+type: [research-paper | market-report | case-study | article | interview]
+domains: [edtech, fintech, healthcare, devtools, consumer, b2b-saas]
+tags: [market-analysis, business-model, tech-stack, gtm-strategy]
+relevance: [high | medium | low]
 ---
 
-# Paper Title
+# Source Title
 
-## Key Findings
+## Key Insights
 
-- Main finding 1
-- Main finding 2
+- Insight 1 (with data/evidence)
+- Insight 2
+- Insight 3
 
-## Methodology
+## Methodology / Context
 
-Description of research method, sample size, controls
+Description of research method, sample size, or context of case study
 
-## Evidence Quality
+## Evidence Quality / Credibility
 
-[Strong/Medium/Weak] - Explanation
+[Strong/Medium/Weak/Anecdotal] - Explanation
+
+## Market / Business Implications
+
+- Market size, growth, trends
+- Business model insights
+- Competitive dynamics
+- Customer behavior
+
+## Technical Implications
+
+- Technology stack considerations
+- Implementation challenges
+- Scalability considerations
 
 ## Connections
 
-- Related to: [Spaced Repetition](../learning-science/spaced-repetition.md)
-- Contradicts: [Previous claim in cognitive-load.md](../learning-science/cognitive-load.md#section)
-- Supports: [Active Recall](../learning-science/active-recall.md)
+- Related to: [Similar Market Analysis](../market-analysis/edtech-trends.md)
+- Contradicts: [Previous claim in ai-tutoring.md](../edtech/ai-tutoring.md#section)
+- Supports: [Business Model](../business-models/subscription.md)
+- Cross-domain: [Similar pattern in fintech](../fintech/neobanking-trends.md)
 
-## Implications for Startup
+## Startup Implications
 
-How this research informs product decisions
+Which startup idea(s) does this inform? How does it affect product, market, or GTM decisions?
+
+## Action Items
+
+- [ ] Validate with customer interviews
+- [ ] Update market sizing model
+- [ ] Research competitor X mentioned
 
 ## Citations
 
-Full citation in APA or preferred format
+Full citation and source URL
+```
+
+### Template: Startup Idea Page
+
+```markdown
+---
+title: Startup Idea Name
+domain: [edtech | fintech | healthcare | devtools | consumer | b2b-saas]
+status: [ideation | validation | mvp | launched | archived]
+priority: [high | medium | low]
+last_updated: 2026-05-01
+---
+
+# Startup Idea Name
+
+## Problem Statement
+
+Clear articulation of the problem being solved
+
+## Solution Overview
+
+High-level description of proposed solution
+
+## Target Customer
+
+- Customer segment(s)
+- Demographics/firmographics
+- Pain points
+- Current alternatives they use
+
+## Market Analysis
+
+- Market size (TAM/SAM/SOM)
+- Growth trends
+- Key players
+- Market gaps
+
+## Business Model
+
+- Revenue model
+- Pricing strategy
+- Unit economics (projected)
+- Monetization approach
+
+## Tech Stack
+
+- Frontend:
+- Backend:
+- Infrastructure:
+- AI/ML (if applicable):
+
+## GTM Strategy
+
+- Customer acquisition channels
+- Distribution strategy
+- Marketing approach
+- Sales motion
+
+## Validation Status
+
+- [ ] Problem validated (customer interviews)
+- [ ] Solution validated (prototype/mockups)
+- [ ] Willingness to pay validated
+- [ ] MVP defined
+
+## Competition
+
+- Competitor 1: [Link](../competitors/company1.md)
+- Competitor 2: [Link](../competitors/company2.md)
+- Differentiation:
+
+## Regulatory Considerations
+
+Any legal, compliance, or regulatory issues
+
+## Related Research
+
+- [Market Report](../market-analysis/relevant-report.md)
+- [Technology Analysis](../tech-stacks/relevant-tech.md)
+- [Case Study](../competitors/similar-company.md)
+
+## Open Questions
+
+- Question 1?
+- Question 2?
+
+## Next Steps
+
+1. Action item 1
+2. Action item 2
 ```
 
 ### Common Workflows
 
-**Workflow 1: Ingest New Research Paper**
+**Workflow 1: Ingest New Research/Source**
 
 ```bash
 VAULT="/Users/deepaksood/Library/CloudStorage/GoogleDrive-dsood@confluent.io/.shortcut-targets-by-id/1a1SooxwlvVEf843YfQKUVj04gJnPyMGO/deepaksood619.github.io/docs"
 
-# Step 1: Create note for the paper
-/Applications/Obsidian.app/Contents/MacOS/Obsidian create path="education/learning-science/paper-desirable-difficulties.md" content="[frontmatter + extracted content]" vault="$VAULT"
+# Example: Ingesting AI tutoring market report
+
+# Step 1: Create note for the source
+/Applications/Obsidian.app/Contents/MacOS/Obsidian create path="ideas/market-analysis/ai-tutoring-market-2026.md" content="[frontmatter + extracted content]" vault="$VAULT"
 
 # Step 2: Find related pages to update
-/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="cognitive load" path="education" vault="$VAULT"
+/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="ai tutoring" path="ideas" vault="$VAULT"
+/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="edtech market" path="ideas" vault="$VAULT"
 
 # Step 3: Add cross-references to related pages
-/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="education/learning-science/spaced-repetition.md" content="\n\n## Recent Research\n\nSee: [Desirable Difficulties](paper-desirable-difficulties.md)" vault="$VAULT"
+/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="ideas/edtech/ai-tutoring.md" content="\n\n## Recent Market Data\n\nSee: [AI Tutoring Market 2026](../market-analysis/ai-tutoring-market-2026.md)" vault="$VAULT"
 
-# Step 4: Update log
-/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="education/log.md" content="[2026-04-30] INGEST - Bjork paper on desirable difficulties - https://example.com\n" vault="$VAULT"
+# Step 4: Update startup idea page if relevant
+/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="ideas/startup-ideas/personalized-learning-platform.md" content="\n\n## Updated Market Analysis\n\n[Link and insights from new report]" vault="$VAULT"
 
-# Step 5: Update index if new category needed
-/Applications/Obsidian.app/Contents/MacOS/Obsidian read path="education/index.md" vault="$VAULT"
+# Step 5: Update log
+/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="ideas/log.md" content="[2026-05-02] [EDTECH] INGEST - Market report on AI tutoring - https://example.com\n" vault="$VAULT"
+
+# Step 6: Update index if new category needed
+/Applications/Obsidian.app/Contents/MacOS/Obsidian read path="ideas/index.md" vault="$VAULT"
 # (then append/edit as needed)
 ```
 
-**Workflow 2: Query and Synthesize**
+**Workflow 2: Create New Startup Idea**
 
 ```bash
-# User asks: "What does research say about optimal spacing intervals?"
+# User wants to explore new fintech startup idea
 
-# Step 1: Search existing knowledge
-/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="spacing interval" path="education" vault="$VAULT"
+# Step 1: Create startup idea page using template
+/Applications/Obsidian.app/Contents/MacOS/Obsidian create path="ideas/startup-ideas/embedded-finance-platform.md" content="[use startup idea template]" vault="$VAULT"
 
-# Step 2: Check cross-references
-/Applications/Obsidian.app/Contents/MacOS/Obsidian backlinks path="education/learning-science/spaced-repetition.md" vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian links path="education/learning-science/spaced-repetition.md" vault="$VAULT"
+# Step 2: Search for related research and competitors
+/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="embedded finance" path="ideas" vault="$VAULT"
+/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="banking api" path="ideas/fintech" vault="$VAULT"
 
-# Step 3: If synthesis is valuable, save as new page
-/Applications/Obsidian.app/Contents/MacOS/Obsidian create path="education/learning-science/optimal-spacing-intervals.md" content="[synthesis with citations]" open vault="$VAULT"
+# Step 3: Link to relevant domain pages
+/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="ideas/fintech/embedded-banking.md" content="\n\n## Related Startup Ideas\n\n- [Embedded Finance Platform](../startup-ideas/embedded-finance-platform.md)" vault="$VAULT"
 
-# Step 4: Update log
-/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="education/log.md" content="[2026-04-30] QUERY - Synthesized research on optimal spacing intervals\n" vault="$VAULT"
+# Step 4: Log the creation
+/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="ideas/log.md" content="[2026-05-02] [FINTECH] CREATE - New startup idea: Embedded Finance Platform\n" vault="$VAULT"
+
+# Step 5: Update index with new active idea
+/Applications/Obsidian.app/Contents/MacOS/Obsidian read path="ideas/index.md" vault="$VAULT"
+# (add to active ideas section)
 ```
 
-**Workflow 3: Link Discovery and Maintenance**
+**Workflow 3: Query and Synthesize Cross-Domain**
+
+```bash
+# User asks: "What are successful GTM strategies for B2B SaaS in edtech vs healthcare?"
+
+# Step 1: Search existing knowledge across domains
+/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="gtm strategy b2b" path="ideas" vault="$VAULT"
+/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="enterprise sales" path="ideas/edtech" vault="$VAULT"
+/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="enterprise sales" path="ideas/healthcare" vault="$VAULT"
+
+# Step 2: Check cross-references
+/Applications/Obsidian.app/Contents/MacOS/Obsidian backlinks path="ideas/gtm-strategies/sales-led.md" vault="$VAULT"
+/Applications/Obsidian.app/Contents/MacOS/Obsidian links path="ideas/gtm-strategies/sales-led.md" vault="$VAULT"
+
+# Step 3: Create synthesis page comparing domains
+/Applications/Obsidian.app/Contents/MacOS/Obsidian create path="ideas/gtm-strategies/b2b-saas-edtech-vs-healthcare.md" content="[synthesis with citations from both domains]" open vault="$VAULT"
+
+# Step 4: Link from both domain pages
+/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="ideas/edtech/enterprise-sales.md" content="\n\nSee: [Comparison with Healthcare](../gtm-strategies/b2b-saas-edtech-vs-healthcare.md)" vault="$VAULT"
+
+# Step 5: Update log
+/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="ideas/log.md" content="[2026-05-02] [CROSS-DOMAIN] QUERY - Synthesized GTM comparison: B2B SaaS edtech vs healthcare\n" vault="$VAULT"
+```
+
+**Workflow 4: Competitor Analysis Update**
+
+```bash
+# New competitor launches or gets funding
+
+# Step 1: Search for existing competitor page
+/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="CompanyName" path="ideas/competitors" vault="$VAULT"
+
+# Step 2: Create or update competitor profile
+/Applications/Obsidian.app/Contents/MacOS/Obsidian create path="ideas/competitors/new-competitor.md" content="[company profile with business model, tech stack, etc.]" vault="$VAULT"
+
+# Step 3: Find related startup ideas to update
+/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="ai tutoring" path="ideas/startup-ideas" vault="$VAULT"
+
+# Step 4: Update startup idea pages with new competitive intelligence
+/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="ideas/startup-ideas/ai-tutoring-platform.md" content="\n\n## Competitive Update\n\n- [New Competitor](../competitors/new-competitor.md) raised $10M Series A\n- Key differentiation: [analysis]" vault="$VAULT"
+
+# Step 5: Log the update
+/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="ideas/log.md" content="[2026-05-02] [EDTECH] UPDATE - Added new competitor analysis: New Competitor\n" vault="$VAULT"
+```
+
+**Workflow 5: Link Discovery and Cross-Domain Patterns**
 
 ```bash
 # Find pages that should be connected but aren't
-/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="retrieval practice" path="education" vault="$VAULT"
 
-# Check which pages mention a concept but don't link to it
-/Applications/Obsidian.app/Contents/MacOS/Obsidian backlinks path="education/learning-science/active-recall.md" vault="$VAULT"
+# Step 1: Search for common patterns across domains
+/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="subscription pricing" path="ideas" vault="$VAULT"
+/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="freemium model" path="ideas" vault="$VAULT"
 
-# Find orphaned pages (need more connections)
+# Step 2: Check which pages mention concepts but don't link
+/Applications/Obsidian.app/Contents/MacOS/Obsidian backlinks path="ideas/business-models/subscription.md" vault="$VAULT"
+
+# Step 3: Find orphaned pages (need more connections)
 /Applications/Obsidian.app/Contents/MacOS/Obsidian orphans vault="$VAULT"
 
-# Add bidirectional links
-/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="education/pedagogical-theories/constructivism.md" content="\n\nRelated: [Active Recall](../learning-science/active-recall.md)" vault="$VAULT"
+# Step 4: Add cross-domain links
+/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="ideas/edtech/pricing-strategies.md" content="\n\n## General Frameworks\n\nSee: [Subscription Models](../business-models/subscription.md)\nCompare: [Fintech Pricing](../fintech/pricing-models.md) - similar patterns" vault="$VAULT"
 ```
 
-**Workflow 4: Contradiction Detection**
+**Workflow 6: Validation Update**
 
 ```bash
-# When new research contradicts existing claims
+# After customer interviews or validation experiments
 
-# Step 1: Search for existing claims on the topic
-/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="learning styles" path="education" vault="$VAULT"
+# Step 1: Update startup idea page with validation results
+/Applications/Obsidian.app/Contents/MacOS/Obsidian read path="ideas/startup-ideas/ai-tutoring-platform.md" vault="$VAULT"
+# Use Edit tool to update validation status section
 
-# Step 2: Read the page making the claim
-/Applications/Obsidian.app/Contents/MacOS/Obsidian read path="education/pedagogical-theories/learning-styles.md" vault="$VAULT"
+# Step 2: Document customer insights
+/Applications/Obsidian.app/Contents/MacOS/Obsidian create path="ideas/validation/ai-tutoring-interviews-may-2026.md" content="[interview insights, quotes, learnings]" vault="$VAULT"
 
-# Step 3: Update with contradiction noted explicitly
-# Use Edit tool to add: "⚠️ **Contradiction:** Recent meta-analysis [link] finds..."
+# Step 3: Link validation doc to startup idea
+/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="ideas/startup-ideas/ai-tutoring-platform.md" content="\n\n## Validation Research\n\n- [Customer Interviews May 2026](../validation/ai-tutoring-interviews-may-2026.md)" vault="$VAULT"
 
-# Step 4: Log the update
-/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="education/log.md" content="[2026-04-30] UPDATE - Noted contradiction in learning-styles.md with 2024 meta-analysis\n" vault="$VAULT"
+# Step 4: Update problem/solution understanding if needed
+# Use Edit tool to refine problem statement or solution approach
+
+# Step 5: Log the update
+/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="ideas/log.md" content="[2026-05-02] [EDTECH] VALIDATION - Completed 10 customer interviews for AI tutoring platform\n" vault="$VAULT"
 ```
 
-**Workflow 5: Periodic Health Check (Lint)**
+**Workflow 7: Periodic Health Check (Lint)**
 
 ```bash
 # Run monthly or when asked
@@ -539,20 +755,11 @@ VAULT="/Users/deepaksood/Library/CloudStorage/GoogleDrive-dsood@confluent.io/.sh
 # Review recent changes
 /Applications/Obsidian.app/Contents/MacOS/Obsidian recents vault="$VAULT"
 
-# Check tag consistency
+# Check domain tag consistency
 /Applications/Obsidian.app/Contents/MacOS/Obsidian tags counts vault="$VAULT"
-```
 
-**Workflow 6: Cross-Domain Connections**
-
-```bash
-# Education research often connects to psychology, AI, economics, etc.
-
-# Example: Connecting spaced repetition to AI/ML concepts
-/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="education/learning-science/spaced-repetition.md" content="\n\n## Technical Implementation\n\nSee: [Recommendation Systems](../../ai/recommendation-systems.md) for algorithmic approaches to scheduling" vault="$VAULT"
-
-# Connection to psychology
-/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="education/learning-science/cognitive-load.md" content="\n\n## Psychological Foundations\n\nSee: [Working Memory](../../psychology/cognitive-psychology/working-memory.md)" vault="$VAULT"
+# Review startup idea statuses
+/Applications/Obsidian.app/Contents/MacOS/Obsidian search query="status: ideation" path="ideas/startup-ideas" vault="$VAULT"
 ```
 
 ## Integration with Docusaurus
@@ -670,37 +877,48 @@ graph TD
 ​```
 ```
 
-## Content Standards for Education Research
+## Content Standards for Startup Research
 
 **Research Quality Indicators:**
 
 - Always note evidence quality: [Strong/Medium/Weak/Anecdotal]
-- Include sample size for studies
-- Note replication status if available
+- Include sample size for market studies
+- Note data source and methodology (surveys, interviews, public data, etc.)
 - Flag contradictions explicitly with ⚠️
 - Distinguish correlation from causation
+- Track recency of data (market data from 2020 vs 2026 matters)
+
+**Source Credibility:**
+
+- Assess source credibility (VC report, academic research, blog post, case study)
+- Note potential biases (vendor report, competitor analysis, investor thesis)
+- Prefer primary sources over secondary summaries
+- Track company-reported vs third-party data
 
 **Citation Requirements:**
 
 - Include source URL or DOI in frontmatter
-- Use APA or consistent citation format
+- Use consistent citation format
 - Link to original sources when possible
 - Track author affiliations and potential conflicts
+- Note paywalled vs freely accessible sources
 
 **Cross-Referencing Discipline:**
 
-- When mentioning a concept, check if a page exists for it
+- When mentioning a concept, check if a page exists for it across ALL domains
 - If page exists, link to it
 - If no page exists but concept is important, create one
 - Update bidirectional links (not automatic in markdown)
 - Group related concepts in "See Also" sections
+- **Actively seek cross-domain patterns:** pricing models, GTM strategies, tech stacks, etc.
 
 **Maintaining Synthesis Quality:**
 
-- Distinguish between "established consensus" and "emerging research"
-- Note when findings are specific to certain contexts (age groups, subjects, settings)
-- Track temporal aspects (recent vs historical perspectives)
-- Highlight practical implications for startup development
+- Distinguish between "established patterns" and "emerging trends"
+- Note when findings are specific to certain contexts (B2B vs B2C, enterprise vs SMB, US vs global)
+- Track temporal aspects (2020 market dynamics vs 2026)
+- Highlight practical implications for specific startup ideas
+- Compare and contrast across domains (e.g., how fintech and edtech approach similar challenges)
 
 ## File Naming & Organization
 
@@ -714,14 +932,45 @@ graph TD
 
 ## Startup-Relevant Focus
 
-When processing research, always consider:
+When processing any research or source, always consider:
 
-- **Product implications:** How does this inform product decisions?
+### Product & Market Questions
+
+- **Product implications:** How does this inform product decisions for specific startup ideas?
+- **Market validation:** Does this support or challenge market assumptions?
+- **Competitive positioning:** How does this affect differentiation strategy?
+- **Target customer:** Which customer segments does this apply to?
+- **Willingness to pay:** What does this tell us about pricing/monetization?
+
+### Business Model Questions
+
+- **Revenue model:** What revenue models are proven in this domain?
+- **Unit economics:** What are typical CAC, LTV, margins, burn rates?
 - **Scalability:** Can this approach work at scale?
-- **Measurability:** Can we track this metric?
-- **Evidence strength:** Is this backed by rigorous research?
-- **Implementation cost:** What's required to implement this?
-- **Target audience:** Which learner demographics does this apply to?
+- **Distribution:** What are effective customer acquisition channels?
+- **Monetization timing:** Freemium → paid conversion patterns?
+
+### Technical Questions
+
+- **Implementation complexity:** What's required to build this?
+- **Tech stack patterns:** What technologies are standard in this domain?
+- **Infrastructure costs:** What are typical cloud/infra costs at scale?
+- **Build vs buy:** What can be outsourced vs built in-house?
+- **Technical moats:** What creates defensibility?
+
+### Market & Timing Questions
+
+- **Market timing:** Is this trend growing or plateauing?
+- **Market size:** TAM/SAM/SOM implications?
+- **Regulatory landscape:** Any legal/compliance considerations?
+- **Competitive dynamics:** Red ocean vs blue ocean?
+- **Evidence strength:** Is this backed by rigorous data?
+
+### Cross-Domain Patterns
+
+- **Similar patterns in other domains:** Has this been tried in fintech/edtech/healthcare?
+- **Transferable insights:** What learnings apply across industries?
+- **Domain-specific nuances:** What makes this domain unique?
 
 ## Important Guidelines
 
@@ -729,27 +978,75 @@ When processing research, always consider:
 
 ## Expected Behaviors
 
-**When given a new source:**
+**When given a new source (research, article, case study, market report):**
 
-1. Extract key findings
-2. Update 10-15 related pages
-3. Add entry to log.md
-4. Update index.md if needed
-5. Create cross-links
-6. Note contradictions
+1. **Identify domain(s):** edtech, fintech, healthcare, devtools, consumer, b2b-saas, or cross-domain
+2. **Extract key insights:**
+   - Market data (size, growth, trends)
+   - Business model insights
+   - Technical/product insights
+   - Competitive intelligence
+   - Customer behavior patterns
+3. **Update 10-15 related pages:**
+   - Domain-specific pages (e.g., `edtech/ai-tutoring.md`)
+   - Cross-domain pages (e.g., `business-models/subscription.md`)
+   - Startup idea pages that this impacts
+   - Competitor pages if mentioned
+   - Market analysis pages
+4. **Create cross-links:**
+   - Within domain (e.g., edtech → edtech)
+   - Across domains (e.g., edtech → business-models → fintech)
+   - To startup ideas
+   - To competitors
+5. **Add entry to log.md** with domain tag
+6. **Update index.md** if new category/startup idea needed
+7. **Note contradictions** with ⚠️ if data conflicts with existing claims
+8. **Update startup idea pages** with new validation data or market intelligence
+
+**When creating a new startup idea:**
+
+1. Use startup idea template
+2. Search for related research across all domains
+3. Link to competitors, market analysis, business models, tech stacks
+4. Identify validation gaps (what we don't know yet)
+5. Add to index.md under appropriate domain and priority
+6. Log the creation
+7. Create placeholder pages for missing research areas
 
 **When asked a question:**
 
-1. Search existing wiki pages
-2. Synthesize from multiple sources
-3. Include citations
-4. Save valuable syntheses as new pages
-5. Update log.md with query
+1. **Search broadly across domains:** Don't limit to one domain unless specified
+2. **Check for cross-domain patterns:** "Has this been done in fintech?" when asked about edtech
+3. **Synthesize from multiple sources:** Combine market data, case studies, research
+4. **Include citations:** Link to specific pages in the wiki
+5. **Save valuable syntheses as new pages:** Especially cross-domain comparisons
+6. **Update log.md with query**
+7. **Suggest related questions:** "You might also want to explore..."
 
-**Proactive maintenance:**
+**When analyzing competitors:**
 
-- Check for orphans monthly
-- Verify broken links
-- Update stale research
-- Consolidate duplicate content
-- Improve cross-linking density
+1. Create/update competitor profile page
+2. Extract: business model, pricing, tech stack, GTM, funding, traction
+3. Link from relevant startup idea pages
+4. Note differentiation opportunities
+5. Update competitive landscape summaries
+6. Cross-reference similar competitors in other domains
+
+**Proactive maintenance (monthly or on request):**
+
+- **Check for orphans:** Pages with no incoming links
+- **Check for dead-ends:** Pages with no outgoing links
+- **Verify broken links:** Especially external URLs
+- **Update stale data:** Flag market data >12 months old
+- **Consolidate duplicates:** Merge similar content
+- **Improve cross-linking density:** Especially cross-domain connections
+- **Review startup idea statuses:** Archive inactive ideas, promote validated ones
+- **Identify research gaps:** What domains/topics need more coverage?
+
+**Cross-domain thinking (always):**
+
+- When processing edtech research, consider: "How does fintech approach this?"
+- When analyzing pricing models, check all domains for patterns
+- When reviewing GTM strategies, identify transferable approaches
+- When documenting tech stacks, note common patterns across domains
+- Create explicit comparison pages for cross-domain insights

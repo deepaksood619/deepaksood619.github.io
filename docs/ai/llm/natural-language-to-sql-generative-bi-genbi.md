@@ -84,3 +84,5 @@ What are the rental patterns and lifetime value segments of customers, including
 	- [PandasAI - Dev Tools for AI Builders](https://pandas-ai.com/)
 - [The Future of Business Intelligence: The Generative BI (GenBI) \| by Howard Chi \| Wren AI \| Medium](https://medium.com/wrenai/the-future-of-business-intelligence-the-generative-bi-genbi-d5c18371a45f)
 - [How we made our internal data warehouse AI-first](https://clickhouse.com/blog/ai-first-data-warehouse)
+- [Livedocs - Advanced AI for Data \| Livedocs](https://livedocs.com/)
+- [Atlas \| The AI GIS for modern teams](https://atlas.co/)

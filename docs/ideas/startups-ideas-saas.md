@@ -92,6 +92,26 @@ Generate 1,00,000 book summaries
 
 Can we use astro instead of docusaurus
 
+### Thoughts
+
+- Why don't Google let you place order directly to restaurants
+- Agent that can order for you
+- Just say order chicken biryani from restaurant
+- No ui no coupons etc, everything automated
+- Build something great, that other companies can buy instead of build from scratch
+- Your core is software, but many company core is not software development, they can acquire your company instead of building their own.
+- Quick commerce stack
+- Software saas companies, that companies are paying in USD, but can pay in INR
+- Deeptech companies, etc
+- Project management is broken, ai project manager, with reports and deadlines, utilisation report, finding overwork and underwork, etc. most efficient utilisation of resources.
+- Most efficient tech saas company to build products, projects, etc, collaborate with other companies
+- Service based company can be easily done, but it never gets easier, get you take down giants like TCS, wipro, etc
+- Build for ultrarich, for whom time is far more important than money or discounts
+- Some hard problems
+	- Last mile delivery
+	- Drones
+- YouTube videos, research videos
+
 ## Economics of Data Business
 
 https://pivotal.substack.com/p/economics-of-data-biz
@@ -190,6 +210,18 @@ If the student chooses not to spend the money, it goes back to the school and it
 
 So programmability does not militate against fungibility but rather, just puts it on hold.
 
+### Thoughts
+
+- Voice to ai chat bot
+- Loan recovery agent
+- Build full end to end loan recovery agent
+- Fintech has the most money
+- 100 crore target
+- Fintech stack
+- Voice AI agents that can do multiple things, full stack on top of it, analytics
+- See what's the cutting edge
+- Hindi core - multilingual LLMs
+
 ## Others
 
 Redis for notification
@@ -284,6 +316,12 @@ Highlight all points that they have spoken contradictory
 - Follow twitter handles, news to update the project status, etc
 - https://www.newprojectstracker.com/
 - Others - Government corruption tracker
+
+### SaaS Apocalypse / SaaSApocalypse
+
+- Some saas productivity tool
+- Start with freemium
+- Take $20 per seat pricing to pay as you use model
 
 ## Tech
 
