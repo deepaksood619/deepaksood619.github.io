@@ -17,16 +17,19 @@ status: active
 ## Market Size
 
 **Global Technical Hiring Market:**
+
 - Total addressable market: $8-10B+ (2024-2026 estimates)
 - Developer assessment tools specifically: $2-3B
 - Growing at 15-20% CAGR
 
 **Breakdown:**
+
 - **Enterprise (500+ employees):** $4-5B (premium pricing, long contracts)
 - **Mid-market (50-500 employees):** $2-3B (sweet spot for new entrants)
 - **SMB (`<50` employees):** $1B (price-sensitive, self-serve)
 
 **Geographic Distribution:**
+
 - North America: 45-50% of market
 - Europe: 25-30%
 - Asia-Pacific (esp. India): 15-20%
@@ -66,11 +69,13 @@ status: active
 ### Enterprise (500+ employees)
 
 **Profile:**
+
 - Large tech companies, Fortune 500
 - Hiring 50+ developers/year
 - Budget: $50K-500K/year for assessment tools
 
 **Needs:**
+
 - ATS integration (Greenhouse, Lever, Workday)
 - Custom branding, white-label
 - Advanced analytics, reporting
@@ -78,12 +83,14 @@ status: active
 - Dedicated support
 
 **Buying Process:**
+
 - 3-6 month sales cycle
 - Multiple stakeholders (HR, Engineering, Legal)
 - RFP process common
 - Proof-of-concept required
 
 **Current Solutions:**
+
 - HackerRank, CodeSignal (market leaders)
 - Custom in-house solutions
 - Combination of tools
@@ -91,11 +98,13 @@ status: active
 ### Mid-Market (50-500 employees)
 
 **Profile:**
+
 - High-growth startups, scale-ups
 - Hiring 10-50 developers/year
 - Budget: $10K-50K/year
 
 **Needs:**
+
 - Quick setup, easy to use
 - Integration with common ATS
 - Good candidate experience
@@ -103,17 +112,20 @@ status: active
 - Self-serve with support option
 
 **Buying Process:**
+
 - 2-8 week sales cycle
 - Engineering manager or VP Eng decision
 - Free trial expected
 - References from similar companies
 
 **Current Solutions:**
+
 - HackerRank, HackerEarth
 - Switching from free tools (LeetCode)
 - Mix of paid and free
 
 **🎯 BEST TARGET for new entrant:**
+
 - Underserved by enterprise-focused tools
 - Price-sensitive but willing to pay
 - Faster decision-making
@@ -122,23 +134,27 @@ status: active
 ### SMB (`<50` employees)
 
 **Profile:**
+
 - Startups, agencies, small companies
 - Hiring `<10` developers/year
 - Budget: `<$5K/year`
 
 **Needs:**
+
 - Cheap or free
 - Very easy to use
 - No integration needed (manual process OK)
 - Pay-as-you-go preferred
 
 **Buying Process:**
+
 - Days to weeks
 - Individual contributor decides
 - Self-serve only
 - Credit card purchase
 
 **Current Solutions:**
+
 - Free tiers (LeetCode, HackerRank free)
 - Take-home assignments
 - Manual screening
@@ -254,31 +270,37 @@ status: active
 **Typical Market Pricing:**
 
 **Enterprise (HackerRank/CodeSignal):**
+
 - $10K-30K/year base
 - $100-300 per seat/year
 - OR $50-100 per assessment
 - Custom enterprise: $50K-500K/year
 
 **Mid-Market:**
+
 - $5K-15K/year
 - $50-150 per seat/year
 - OR $20-50 per assessment
 
 **SMB:**
+
 - $1K-5K/year flat rate
 - OR pay-per-assessment: $10-30
 
 **Free Tiers:**
+
 - Very limited (5-10 assessments/month)
 - Designed to convert to paid
 
 **What Customers Hate:**
+
 - Per-seat pricing (unpredictable)
 - Forced annual contracts
 - Hidden fees (ATS integration, support)
 - Minimum seats required
 
 **What Customers Want:**
+
 - Usage-based (pay per assessment)
 - Monthly plans (not annual lock-in)
 - All-inclusive pricing
@@ -295,6 +317,7 @@ status: active
 | **Credits/packages** | Flexibility, prepaid cash | Complex to explain | Mid-market |
 
 **Recommended for new entrant:**
+
 - Free tier: Generous (20-50 assessments/month) for viral growth
 - Starter: $99/month for 100 assessments
 - Growth: $499/month for unlimited
@@ -305,6 +328,7 @@ status: active
 **Go-to-Market Approaches:**
 
 **Bottom-Up (Recommended for Bootstrap):**
+
 1. Start with free tier (individual recruiters, small companies)
 2. Viral growth through candidate experience
 3. Upsell to paid as usage grows
@@ -312,6 +336,7 @@ status: active
 5. Eventually enterprise
 
 **Top-Down (Requires VC Funding):**
+
 1. Target enterprise from day one
 2. Expensive sales team
 3. Long sales cycles
@@ -319,6 +344,7 @@ status: active
 5. What HackerRank/CodeSignal did
 
 **Product-Led Growth (Best for Solo Founder):**
+
 1. Amazing free product
 2. Self-serve signup
 3. No sales team needed initially
@@ -356,18 +382,21 @@ status: active
 ## Key Insights
 
 **Market Maturity:**
+
 - Market is mature but not saturated
 - Incumbents focused on enterprise
 - Mid-market underserved
 - Room for innovation
 
 **Technology Trends:**
+
 - AI assessment generation (emerging)
 - Better cheating detection (AI-powered)
 - Skills-based hiring over credentials
 - Async assessments growing
 
 **Competitive Dynamics:**
+
 - Network effects exist but weak
 - Switching costs moderate
 - Quality of assessments matters most
@@ -384,21 +413,25 @@ status: active
 ## Risks & Challenges
 
 **Market Risks:**
+
 - Economic downturn → hiring freezes
 - Consolidation (acquisitions)
 - AI coding assistants (Copilot) change hiring needs
 
 **Competitive Risks:**
+
 - Incumbents lower prices
 - Free tier improvements
 - Feature parity quickly
 
 **Technology Risks:**
+
 - AI makes all coding tests obsolete?
 - Candidates using AI to cheat
 - Hard to differentiate on tech
 
 **Regulatory Risks:**
+
 - EEOC challenges (bias in algorithms)
 - Data privacy (GDPR, CCPA)
 - International compliance
@@ -408,24 +441,28 @@ status: active
 **Target Market:** Mid-market companies (50-500 employees)
 
 **Why:**
+
 - Underserved by enterprise tools
 - Faster sales cycles
 - More experimental with new tools
 - Meaningful revenue (not SMB small deals)
 
 **Differentiation Strategy:**
+
 1. **AI-generated unique questions** (prevent memorization)
 2. **10x better pricing** (usage-based, transparent)
 3. **10x better candidate UX** (makes companies look good)
 4. **10x faster** setup (30 mins vs weeks)
 
 **GTM Motion:**
+
 - Product-led growth
 - Free tier for viral acquisition
 - Self-serve paid conversion
 - Sales team only for $50K+ deals
 
 **Metrics to Track:**
+
 - Free → Paid conversion: 10%+ target
 - CAC: `<$500` (self-serve)
 - Churn: `<20%` annual
@@ -443,6 +480,7 @@ status: active
 ---
 
 **Next Actions:**
+
 - [ ] Deep-dive competitor analysis (HackerRank, CodeSignal, HackerEarth)
 - [ ] Customer interview research (10-20 hiring managers)
 - [ ] Pricing elasticity survey

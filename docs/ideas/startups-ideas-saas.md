@@ -109,6 +109,7 @@ Can we use astro instead of docusaurus
 - Build for ultrarich, for whom time is far more important than money or discounts
 - Some hard problems
 	- Last mile delivery
+		- [Autonomous Delivery Moves Into the Mainstream as Starship Technologies Passes 10 Million Deliveries - Starship Technologies: Autonomous robot delivery - The future of delivery - today!](https://www.starship.xyz/press/autonomous-delivery-moves-into-the-mainstream-as-starship-technologies-passes-10-million-deliveries/)
 	- Drones
 - YouTube videos, research videos
 
@@ -368,6 +369,9 @@ Hyperspectral imaging
 
 ### Others
 
+- Free One Click AI Chatbot for your website
+	- [Pricing \| Noupe](https://www.noupe.com/pricing)
+	- [Pricing \| Chatling](https://chatling.ai/pricing)
 - Standalone chatbot for android
     - AI generated models, CS representatives
 - Hyper-Casual games

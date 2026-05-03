@@ -34,6 +34,15 @@ People with lactose intolerance cannot metabolize lactose properly, because thei
 
 https://www.medicalnewstoday.com/articles/180120.php
 
+## Gas / Bloating
+
+[Understanding Gas and Abdominal Bloating: Dr. Pal Explains Causes and Solutions! - YouTube](https://www.youtube.com/watch?v=rRLtqZtEI7A&ab_channel=DrPal)
+
+## Pinworm
+
+- [CDC - Enterobiasis - General Information - Frequently Asked Questions](https://www.cdc.gov/parasites/pinworm/gen_info/faqs.html)
+- [Zentel Chewable Tablet: View Uses, Side Effects, Price and Substitutes | 1mg](https://www.1mg.com/drugs/zentel-chewable-tablet-137773)
+
 ## Others
 
 - **Short-chain fatty acids (SCFAs)** are primarily produced by gut bacteria through the fermentation of dietary fiber in the large intestine. These SCFAs, including acetate, propionate, and butyrate, are crucial for maintaining gut health and have implications for overall well-being.
@@ -41,6 +50,31 @@ https://www.medicalnewstoday.com/articles/180120.php
 	- **Metronidazole** is the first-line treatment for intestinal amebiasis and amebic liver abscess followed by a luminal agent. Typical dosing for metronidazole is 500 to 750 mg orally 3 times a day for 7 to 10 days in adults. Metronidazole can be safely used in children at a dosing of 35 mg/kg to 50 mg/kg per day divided into three doses. Luminal agents include the following: paromomycin, diiodohydroxyquin, or diloxanide furoate. Dosing for paromomycin is 25 mg/kg to 30 mg/kg per day divided into three doses for 7 days, diiodohydroxyquin is 650 mg orally for 20 days, diloxanide furoate is 500 mg orally three times a day for 10 days.
 	- Alternatives to metronidazole include **tinidazole**, ornidazole, and nitazoaxanide.
 	- [Entamoeba histolytica - Wikipedia](https://en.wikipedia.org/wiki/Entamoeba_histolytica)
+
+## Belly Fat
+
+1. Eat plenty of soluble fiber
+2. Avoid foods that contain trans fats
+3. Don't drink too much alcohol
+4. Eat a high protein diet
+5. Reduce your stress levels
+6. Don't eat a lot of sugary foods
+7. Do aerobic exercise (cardio)
+8. Cut back on carbs - especially refined carbs
+9. Replace some of your cooking fats with coconut oil
+10. Perform resistance training (lift weights)
+11. Avoid sugar-sweetened beverages
+12. Get plenty of restful sleep
+13. Track your food intake and exercise
+14. Eat fatty fish every week
+15. Stop drinking fruit juice
+16. Add apple cider vinegar to your diet
+17. Eat probiotic foods or take a probiotic supplement
+18. Try intermittent fasting
+19. Drink green tea
+20. Change your lifestyle and combine different methods
+
+https://www.healthline.com/nutrition/20-tips-to-lose-belly-fat
 
 ## Tests
 

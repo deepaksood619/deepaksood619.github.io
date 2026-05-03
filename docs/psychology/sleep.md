@@ -88,6 +88,40 @@ Sleep starts, also known as hypnic jerks, are sudden, involuntary muscle contrac
 
 Certain factors that increase the likelihood of experiencing sleep starts include excessive caffeine and stimulant consumption, vigorous exercise before sleep, emotional stress, and sleep deprivation. Researchers do not know for certain what causes sleep starts.
 
+## Sleepiness after lunch (Napping)
+
+- It's not because of lunch, it's related to natural circadian rhythm
+- This period will pass and you will find that you feel more alert again in a matter of hours as the circadian rhythm revs back up. This normally occurs, even without a cup of coffee or a nap.
+
+Improved heart health, especially good for people with high BP or those who have already done procedures on their heart
+
+- Improved hormonal balance (Diabetes, PCOD, Thyroid, also classical overeaters)
+- Improved digestion (IBS, constipation, acne and dandruff)
+- Improved sleep at night (insomnia, frequent travellers, shaadi goers and jet lag)
+- Improved recovery (from workouts, illnesses)
+- Improved fat loss (because of all the factors above)
+
+Its called Vamakukshi. Here are the steps
+
+When - right after lunch
+
+How - lie down in the foetal position on your left side (Vamakukshi)
+
+Length - 10 - 30 mins nap (about 90 mins for the very young, the very old, the very sick)
+
+Ideal time -- between 1-3 pm
+
+What to totally not do - Nap between 4-7pm
+
+- Have stimulants like tea, coffee, cigarettes, chocolate post lunch
+- Get on the phone and surf and excite your senses
+- Sleep beyond 30 mins
+- Sleep with TV on
+
+https://www.verywellhealth.com/why-am-i-sleepy-after-eating-lunch-3014827
+
+https://www.webmd.com/a-to-z-guides/ss/slideshow-health-benefits-of-napping
+
 ## Links
 
 [Brain](psychology/brain.md)

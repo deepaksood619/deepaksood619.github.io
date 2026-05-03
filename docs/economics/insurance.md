@@ -26,10 +26,9 @@ How much cover is needed
 - Till age 50/60
 - Build wealth more than the insurance
 - Don't buy single pay policy
-
-https://freefincal.com/re-assemble-step-3-buy-term-life-insurance
-
+- https://freefincal.com/re-assemble-step-3-buy-term-life-insurance
 - https://freefincal.com/what-you-need-to-know-before-buying-term-insurance
+- [The Games Life Insurers play!](https://freefincal.com/the-games-life-insurers-play/)
 - PNB met Life
     - Sum insured without tax detection
     - HLV (Human Life Value) - 9 crore
@@ -98,6 +97,7 @@ https://joinditto.in
 - [Does it make sense to buy a 25 Lakh base health insurance policy?](https://freefincal.com/does-it-make-sense-to-buy-a-25-lakh-base-health-insurance-policy/)
 - A **GIPSA package** refers to standardized, fixed-rate health insurance treatment plans set by the General Insurance Public Sector Association (GIPSA) in India, covering common procedures like cataract surgery or knee replacement for employees of member public sector insurers (like New India Assurance, National Insurance, United India Insurance, Oriental Insurance). These pre-negotiated rates allow for cashless treatments at GIPSA's Preferred Provider Network (PPN) hospitals, streamlining billing and controlling costs for standard medical events.
 - [The Hidden Cost of Reasonable & Customary (R&C) Clauses in Health Insurance Claims](https://freefincal.com/the-hidden-cost-of-reasonable-customary-rc-clauses-in-health-insurance-claims/)
+- [This simple act could make your cashless claim approval smoother](https://freefincal.com/this-simple-act-could-make-your-cashless-claim-approval-smoother/)
 
 ## Others
 

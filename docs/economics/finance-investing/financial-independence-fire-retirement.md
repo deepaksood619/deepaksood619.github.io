@@ -229,3 +229,4 @@ Even if the 26-year-old retires by 27 (naturally an unlikely event), the suggest
 - [Can I start a monthly SWP for one Lakh if my retirement corpus is two Crores?](https://freefincal.com/can-i-start-a-monthly-swp-for-one-lakh-if-my-retirement-corpus-is-two-crores/)
 - [Why Indian Retirees Can’t Spend the Money They Sacrificed Their Lives to Save](https://freefincal.com/why-indian-retirees-cant-spend-the-money-they-sacrificed-their-lives-to-save/)
 - [How beginners can plan for retirement in nine easy steps](https://freefincal.com/how-beginners-can-plan-for-retirement-in-nine-easy-steps/)
+- [Why financial independence will be hard to achieve even at normal retirement](https://freefincal.com/why-financial-independence-will-be-hard-to-achieve-even-at-normal-retirement/)

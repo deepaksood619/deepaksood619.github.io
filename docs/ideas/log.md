@@ -15,7 +15,7 @@ Format: `[YYYY-MM-DD] [DOMAIN] <action> - <description> - <source>`
 
 [2026-05-02] [EDTECH] CREATE - AI Coding Test Platform startup idea page - High priority
 [2026-05-02] [DEVTOOLS] CREATE - Postman Alternative API Testing Platform - High priority (recommended #1)
-[2026-05-02] [INFRASTRUCTURE] CREATE - Created comprehensive index.md for startup ideas organization
+[2026-05-02] [INFRASTRUCTURE] CREATE - Created comprehensive research-index.md for startup ideas organization
 [2026-05-02] [DOCUMENTATION] COMPLETE - Documented all research from analysis into structured wiki format
 
 [2026-05-03] [HR-TECH] ANALYSIS - Deep-dive research on AI Coding Test Platform B2B opportunity
@@ -26,3 +26,8 @@ Format: `[YYYY-MM-DD] [DOMAIN] <action> - <description> - <source>`
 [2026-05-03] [RESEARCH] INSIGHT - HackerRank weaknesses: pricing, UX, innovation pace
 
 [2026-05-02] [HR-TECH] COMPETITOR - HackerEarth competitor analysis completed - India dominant (40-50% share), US/Europe weak (3-5%)
+
+[2026-05-03] [MARTECH] MARKET - GenAI website chatbot market analysis completed - -7B market, 20+ competitors, crowded
+[2026-05-03] [MARTECH] STARTUP - GenAI Website Chatbot Widget idea created - /month positioning, solopreneur target
+[2026-05-03] [MARTECH] COMPETITOR - Chatling pricing analyzed - /bin/zsh// tiers, credit-based model
+[2026-05-03] [MARTECH] COMPETITOR - Noupe pricing analyzed - /bin/zsh// tiers, conversation-based model

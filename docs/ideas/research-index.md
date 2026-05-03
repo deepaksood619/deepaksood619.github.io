@@ -1,5 +1,7 @@
 # Startup Ideas Research Index
 
+**Startup Ideas Research Index**
+
 **LLM-maintained wiki for multi-domain startup research**
 
 Last updated: 2026-05-02

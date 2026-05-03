@@ -13,5 +13,5 @@
 - [Society](ideas/society.md)
 - [Startup Quotes](knowledge/quotes-proverbs/startup-quotes.md)
 - [Others](ideas/others.md)
-- [index](ideas/index.md)
+- [research-index](ideas/research-index.md)
 - [CLAUDE](ideas/CLAUDE.md)

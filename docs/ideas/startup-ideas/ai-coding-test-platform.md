@@ -312,3 +312,30 @@ AI-powered coding assessment platform that generates unique coding problems for 
 **Priority:** High (but more complex than AI Mock Interviews)
 
 **Reasoning:** Large market, clear problem, but higher competition and longer build time. Consider starting with AI Mock Interviews first, then expand to this.
+
+## Links
+
+- [GitHub - MrPeker/OpenRank: Free and Open Source alternative for HackerRank · GitHub](https://github.com/MrPeker/OpenRank)
+- [Top 10 HackerRank Alternatives for Hiring in 2025 \| CodeSignal](https://codesignal.com/blog/hackerrank-alternatives-10-options-for-improved-skills-testing-in-hiring/)
+- [Codility Pricing and Features \| Monthly, Annual, and Custom Plans](https://www.codility.com/pricing/)
+- [Compare Online Exam Software Prices & Try Our Free Demo - SpeedExam](https://www.speedexam.net/pricing/yearly/)
+- [Pricing \| CodeSignal AI Platform \| Skills-Based Assessments & Interviews](https://codesignal.com/pricing/)
+
+## Thoughts
+
+### Recruiter
+
+1. Upload or create a JD using AI (downloadable)
+2. Using JD Create Question Tests (Editable)
+	1. default num of questions (Editable)
+	2. default time, etc
+3. Login to save and send (to view Responses and Analytics)
+4. Enter email address to send tests to
+5. Once they respond back, see AI Evaluated results
+6. That's all
+
+### Student/Interviewee
+
+- What you want to study today?
+- Generate questions
+- Login to save results and see analytics and detailed feedback

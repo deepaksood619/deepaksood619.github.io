@@ -252,6 +252,106 @@ ADHD, or Attention-Deficit/Hyperactivity Disorder, is a neurodevelopmental condi
 
 **Sublingual immunotherapy (SLIT)** is a needle-free treatment for allergies that involves placing a dose of allergen extract, either as a tablet or drops, under the tongue to increase tolerance to the allergen over time. Approved for grass, ragweed, and dust mite allergies, SLIT works by gradually exposing the immune system to small amounts of allergens, which calms the allergic response and reduces symptoms like sneezing, runny nose, and itchy eyes. It's a convenient, at-home treatment for those who prefer to avoid allergy shots.
 
+## [Teeth grinding (bruxism)](https://www.nhs.uk/conditions/teeth-grinding/)
+
+- Sleep Bruxism
+- Dental guard
+- [Sleep bruxism: Current knowledge and contemporary management - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5026093/)
+- [Best Mouth Guards for Bruxism and Teeth Grinding - YouTube](https://www.youtube.com/watch?v=pM2t9G1Wlpw)
+- **[How to Stop Grinding Teeth: Effective Prevention Strategies](https://www.sleepfoundation.org/bruxism/tips)**
+
+### Exercise for Teeth Grinding
+
+One exercise that has been shown to relax the muscles involved in teeth grinding follows these steps:
+
+1. Close your lips gently while preventing your top and bottom teeth from touching
+2. Press your tongue against the roof of your mouth without it touching your teeth
+3. Hold this position for as long as you can
+
+Another exercise is designed to help with movement of the jaw:
+
+1. Put your hands on your TMJ joints (where the lower jaw connects)
+2. Slowly open your mouth
+3. Hold your mouth open for 5-10 seconds
+4. Slowly close your mouth
+5. Perform 3 times per day, exercising for 10 minutes each time
+
+## Restless legs syndrome
+
+- [Restless legs syndrome](https://www.webmd.com/brain/restless-legs-syndrome/default.htm)(RLS) is a[nervous system](https://www.webmd.com/brain/default.htm)disorderthat causes an overpowering urge to move your legs. It's also known as Willis-Ekbom disease.
+- Doctors consider it a sleep disorder because it usually happens or gets worse while you're at rest. You might have trouble sleeping or sitting for a long time, such as in a theater or a car. It may get worse if you don't get treatment. Over time, a lack of sleep can cause problems at work or home.
+- Doctors don't know what causes most cases of restless legs syndrome, but your genes might play a role. Nearly half of the people with RLS also have a family member with the condition.
+- The five basic criteria for a diagnosis of RLS are:
+	- An overwhelming urge to move your legs, especially along with uncomfortable or unusual feelings
+	- An urge that starts or gets worse while you're at rest
+	- An urge that goes away, either partly or totally, when you move
+	- An urge that starts or gets worse in the evening
+	- Another condition, such as leg cramps, arthritis, or muscle pains, isn't causing it
+- Other ways to treat RLS without drugs include:
+	- Hot baths
+	- Heating pads or ice packs on your legs
+	- A vibrating pad called Relaxis
+	- **Try baths and massages.** Soaking in a warm bath and massaging your legs can relax your muscles. (Leg massages)
+	- **Apply warm or cool packs.** Use of heat or cold, or alternating use of the two, may lessen your limb sensations.
+	- **Establish good sleep hygiene.** Fatigue tends to worsen symptoms ofRLS, so it's important that you practice good sleep hygiene. Ideally, have a cool, quiet, comfortable sleeping environment; go to bed and rise at the same time daily; and get at least seven hours of sleep nightly.
+	- **Exercise.** Getting moderate, regular exercise may relieve symptoms ofRLS, but overdoing it or working out too late in the day may intensify symptoms.
+	- **Avoid caffeine.** Sometimes cutting back on caffeine may help restless legs. Try to avoid caffeine-containing products, including chocolate, coffee, tea and soft drinks, for a few weeks to see if this helps.
+	- **Consider using a foot wrap.** A foot wrap specially designed for people with RLS puts pressure under your foot and may help relieve your symptoms.
+- Restless legs syndrome is a lifelong condition that might get worse with age. But some people go into remission and don't have symptoms for days to years.
+- There may be a connection between RLS and low levels of **iron in the brain**, even when blood tests show that your iron level is normal.
+- https://www.webmd.com/brain/restless-legs-syndrome/restless-legs-syndrome-rls
+- https://www.healthline.com/health/restless-leg-syndrome#facts-and-statistics-about-rls
+
+## gustatory rhinitis
+
+Runny nose after eating
+
+When a person's nose runs after eating without any other symptoms of an allergic reaction occurring, this is referred to as gustatory rhinitis.
+
+Gustatory rhinitis affects many people after they eat hot or spicy foods. When a person eats these foods, a nerve called the trigeminal sensory nerve is stimulated, which causes the nose to run.
+
+A person may prevent gustatory rhinitis by avoiding trigger foods. If their nose runs after eating any food, they can take certain medications to manage their symptoms. One such medication is topical intranasal atropine.
+
+https://www.medicalnewstoday.com/articles/321678#causes
+
+## Aerophagia
+
+Aerophagia is the medical term for excessive and repetitive air swallowing. We all ingest some air when we talk, eat, or laugh. People with aerophagia gulp so much air, it produces uncomfortable gastrointestinal symptoms. These symptoms include[abdominal distension](https://www.healthline.com/symptom/abdominal-swelling),[bloating](https://www.healthline.com/symptom/abdominal-bloating),[belching](https://www.healthline.com/symptom/burping), and [flatulence](https://www.healthline.com/symptom/flatulence).
+
+Aerophagia can be chronic (long term) or acute (short term), and can be related to physical as well as psychological factors.
+
+- taking small bites and chewing food thoroughly before taking another one
+- modifying how you swallow food or liquids
+- eating with your mouth closed
+- breathing slowly and deeply
+- being mindful of open-mouth breathing
+- Drink water using glass
+- https://www.healthline.com/health/aerophagia
+- Dry Mouth
+- Some doctors recommend you sleep with a humidifier; it moisturizes the room and can help keep you moisturized
+
+## Irritation in mouth
+
+[Sodium Lauryl Sulfate-Free Toothpastes from Sensodyne](https://www.sensodyne.com/en-us/products/product-results/sodium-lauryl-sulfate-free-toothpaste/)
+
+Sodium Lauryl Sulfate (SLS) is a common foaming agent that often causes a burning sensation because it is a powerful detergent that can be too aggressive for delicate oral tissues.
+
+**Core Mechanisms of Irritation**
+
+- **Mucosal Disruption:** SLS acts as a surfactant that can strip away the **protective mucin layer** (saliva coating) of your mouth. This leaves the sensitive underlying tissues exposed and vulnerable to chemical irritation.
+- **Protein Denaturation:** It can biochemically denature proteins in your mouth, causing the top layer of the oral lining to separate or peel—a process known as **oral mucosal desquamation**.
+- **Increased Permeability:** By weakening the oral barrier, SLS makes it easier for other irritants (like strong mint or alcohol-based mouthwashes) to penetrate and cause pain
+
+**Common Side Effects**
+
+- **Burning & Dryness:** Direct contact often results in a "scorched" feeling on the tongue, inner cheeks, or lips, often accompanied by a temporary dry mouth sensation.
+- **Canker Sores:** While not a cause for everyone, SLS is a known trigger that can increase the frequency and painfulness of recurrent mouth ulcers.
+- **Taste Distortion:** It can temporarily alter your taste buds—specifically by suppressing sweet receptors and enhancing bitter ones—which is why orange juice tastes bad after brushing.
+
+**Is it Necessary?**
+
+No. Foaming is primarily a psychological cue for "cleanliness" rather than a requirement for effective plaque removal. Many high-quality SLS-free toothpastes, like those from Sensodyne  or Curaprox, use gentler alternatives like cocamidopropyl betaine to clean just as effectively without the burn.
+
 ## Links
 
 [Bacterial vs. Viral Infections: What’s the Difference?](https://www.healthline.com/health/bacterial-vs-viral-infections)

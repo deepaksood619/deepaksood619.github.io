@@ -18,7 +18,7 @@ This is an **LLM-maintained research wiki** where Claude:
 
 ```bash
 ideas/
-├── index.md              # Master catalog by priority/domain
+├── research-index.md              # Master catalog by priority/domain
 ├── log.md                # Chronological activity log
 ├── raw/                  # Raw research & analysis
 │   └── YYYY-MM-DD-topic.md
@@ -47,7 +47,7 @@ ideas/
 
 ## Key Files
 
-**index.md** - Content catalog organized by:
+**research-index.md** - Content catalog organized by:
 
 - Active startup ideas (by priority)
 - Research domains
@@ -147,7 +147,7 @@ Which ideas does this inform? How?
 1. Create raw research file in `raw/YYYY-MM-DD-topic.md`
 2. Update 5-10 related pages (startup ideas, market analysis, competitors)
 3. Create cross-links across domains
-4. Update `index.md` and `log.md`
+4. Update `research-index.md` and `log.md`
 
 **When asked about startup opportunities:**
 
@@ -162,7 +162,7 @@ Which ideas does this inform? How?
 1. Use startup idea template
 2. Link to related research, competitors, market analysis
 3. Identify validation gaps
-4. Add to index.md
+4. Add to research-index.md
 5. Log the creation
 
 ## File Naming

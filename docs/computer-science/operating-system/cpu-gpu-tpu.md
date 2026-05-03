@@ -21,7 +21,10 @@ Specifically for matrix operations
 
 ### Nvidia GPUs
 
-A single Nvidia server rack with 72 of their latest Blackwell GPUs costs around $3 million. And Nvidia is shipping about 1,000 of these racks every week. That's $3 billion in revenue per week from a single product line.
+- A single Nvidia server rack with 72 of their latest Blackwell GPUs costs around $3 million. And Nvidia is shipping about 1,000 of these racks every week. That's $3 billion in revenue per week from a single product line.
+- NVIDIA's Vera Rubin NVL72 rack-scale systems are estimated to cost between $3.5 million and $8.8 million per unit, representing a premium of roughly 25% to over 100% more than the preceding Blackwell (GB200) racks. These systems are designed for high-end AI training and inference, utilizing next-generation Rubin GPUs (R100) and Vera CPUs.
+	- [Rack-Scale Agentic AI Supercomputer \| NVIDIA Vera Rubin NVL72](https://www.nvidia.com/en-us/data-center/vera-rubin-nvl72/)
+	- [NVIDIA Rubin at GTC 2026: Full Technical Breakdown](https://www.reddit.com/r/hardware/comments/1rvc8z8/nvidia_rubin_at_gtc_2026_full_technical_breakdown/)
 
 ## TPU
 
