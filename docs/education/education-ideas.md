@@ -39,6 +39,59 @@ Highly personalized education for each person
 - JEE Preparation
 - UPSC Preparation
 
+### Competitors
+
+- https://alpha.school/
+	- [2 Hour Learning: How Our Schools Work - YouTube](https://www.youtube.com/watch?v=ENdAWT6N0V4&t=4s)
+	- [2 Hour Learning: Revolutionizing K-12 Education in Just 2 Hours a Day](https://2hourlearning.com/)
+	- [Home \| Learn and Earn](https://www.learnandearn.school/)
+	- **[Alpha Anywhere - Alpha Anywhere](https://alphaanywhere.co/)**
+	- [Prequel](https://www.joinprequel.com/)
+	- [Unbound - The Future of Education is Unbound](https://www.unbound.school/)
+	- [Novatio](https://novatio.school/)
+	- [Your Review: Alpha School "The real value that comes from Alpha is not the performance uplift. The most important feature of Alpha is that they have found a way to learn more efficiently. Students condense all the required state-mandated material into ½ a day for 6 yrs instead of a full day for 13." : r/slatestarcodex](https://www.reddit.com/r/slatestarcodex/comments/1ln5ajr/your_review_alpha_school_the_real_value_that/)
+- **[app.youlearn.ai](https://app.youlearn.ai/)**
+- [linkedin.com/in/qudduspat/](https://www.linkedin.com/in/qudduspat/)- qp@asi.tech
+- [How a High Schooler in Dubai Built ASI, One of the Most Promising AI Edtech Startups](https://www.businessinsider.com/edtech-asi-ai-dubai-chatbot-tutoring-assistant-2023-9?IR=T)
+- [ASI | Home](https://www.asi.tech/)
+- [Tutor AI - Your personal AI tutor to learn anything](https://tutorai.me/)
+- [Meet Khanmigo, Khan Academy's AI-powered teaching assistant & tutor](https://www.khanmigo.ai/)
+- [Khan Academy | Free Online Courses, Lessons & Practice](https://www.khanacademy.org/)
+- Youtube Learning (Experimental)
+- [Sakshm AI](https://sakshm.com/)
+	- [Disha AI](https://getdisha.ai/)
+	- [Disha AI - Match Pairs](https://getdisha.ai/match-pairs)
+- [**Sensai**](https://sensai.hyperverge.org/)
+- [Cadmus](https://cadmus.io/)
+- [Infinity Learn: Your Pathway to Success in K-12, IIT-JEE & NEET Exams](https://infinitylearn.com/)
+- [Learn with OLL \| Live Online Activities for Skill Development \| Online Live Learning](https://www.oll.co/)
+- [Synthesis Tutor](https://www.synthesis.com/tutor)
+- [Seekho: Short Learning Videos on Tech, Money, Personal Growth, & More \| Seekho](https://seekho.in/)
+- [Certified AI & Machine Learning Courses \| Rabbitt Learning](https://learning.rabbitt.ai/)
+- [Unstop: Connecting talent, colleges, & recruiters!](https://unstop.com/)
+- [AI Chat - Your Personal AI Tutor \| Knowunity](https://knowunity.com/ai/chat)
+- Emeritus
+- Unacademy
+- Masai school
+- Edx
+- Coursera
+- Khan academy
+- Sparkl
+
+### New Age School
+
+- MasterUnion / MastersUnion / Master Union
+	- [Masters' Union: Learn Business by Running Business](https://mastersunion.org/)
+- GrowthX
+- [Hive School](https://hiveschool.co/curriculum#scholarship-avenues-fornav)
+
+### EdTech
+
+- [Spotlight On India's EdTech Industry, Opportunities & Challenges \| CNBC TV18 Mad About Markets - YouTube](https://www.youtube.com/watch?v=VQFZbchdTTI)
+- [Edtech 2.0: What's the Future of Indian Edtech after BYJU's fall? - YouTube](https://www.youtube.com/watch?v=ps4QlKnTMsk)
+- [Indian Ed-Tech Is NOT DEAD \| Opportunities for 2024 - YouTube](https://www.youtube.com/watch?v=UnGHwkoe764)
+	- [EdTech Landscape In India: What Changed In The Post Pandemic Years - Blume](https://blume.vc/reports/edtech-landscape-in-india-what-changed-in-the-post-pandemic-years)
+
 ## Global Education
 
 Free Open Source Education for all fields and all classes from nursery to college - same over all the world. Central database, updated constantly and regularly to create global best education.
@@ -120,6 +173,64 @@ Service based company for education, people don't know how to train teacher, etc
 
 Daily tasks that you can do with your kid with home items, etc
 
+## Adaptive Learning Platform
+
+- Edtech doesn't have too much money, not more than fintech or pure software play
+	- But have good moat, once you have captured the market
+	- Will not be a 100 crore exit
+	- Mostly Youtube content play
+	- For now AI cannot teach better than great humans, it can track and adapt, but not teach
+- Can we have something for people already in job (since they have spending power) - **Niche**
+	- Focus on salary, that you are earning x amount, but if you switch to this, or add these skills to your profile, you will earn y, create a full plan for them
+		- Targeted advertisement, directly for job salary increase
+		- Amalgamate job with skills
+			- Curate content, instead of creating content
+	- This is what helped me in my career, knowing about others salary, and then bridging gap to get to that salary
+- Have to work a lot in physical world
+- People problem
+- Too much diversity and fragmentation
+	- Separate coding platforms
+	- Separate quiz platforms
+	- Separate test taking platforms
+	- Separate news platforms
+	- From school to college to jobs
+	- Memory of everything that you have done
+	- Hardware problem too, since you have to give tabs to students to make them learn
+- Research market
+	- https://www.crackgovexam.com/ssc-polity-quiz/
+	- People search via youtube
+	- trends.google.com
+- Create presentation
+- Talk to competitors and people in same space
+	- Sanchit
+	- Raghav
+	- Maheshwar Puri
+	- Amarjeet
+	- Felix, Simmi
+	- Khan Sir
+	- Alakh pandey
+- Talk to other founders
+	- Mayank
+	- PC
+- Talk to target audience
+	- Govt job finders
+	- College students
+	- Job Seekers
+	- Learners
+	- Parents
+	- Colleges / Schools
+	- Youtube influencers
+	- Check
+		- See what is the paying potential
+		- How they use mobile/laptop
+			- Youtube/Google
+		- How do they get notification of job vacancies
+		- How they study
+		- How they search
+- Why byju's failed
+- Create POC / Pilot
+- [ai-as-mentor](education/ai-as-mentor.md)
+
 ## Links
 
 - [He's helped THOUSANDS of people learn to code \[Leon Noel of #100devs on freeCodeCamp Podcast #117\] - YouTube](https://www.youtube.com/watch?v=KYAakLooVuE&ab_channel=freeCodeCamp.org)
@@ -129,3 +240,4 @@ Daily tasks that you can do with your kid with home items, etc
 - [The 7 Pillars of Unlocking Potential \| Anirudh Krishna \| TED - YouTube](https://www.youtube.com/watch?v=OTIx-2udf6Y)
 - [This school only teaches for 2 hours a day—here’s why it works](https://youtu.be/Q0UaFZYntwc)
 - [What Makes Toppers Different, JEE vs NEET & Future of EdTech - Ujjwal Si...](https://youtu.be/4xg2FOscsVE)
+- Government Exams Crack, previous years exam

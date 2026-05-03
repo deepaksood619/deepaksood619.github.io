@@ -177,45 +177,6 @@ The cognitive core and memory system in effect can give us an infinite context w
 
 **DigiProctor** with a 360 degree camera with all AI
 
-## Competitors
-
-- https://alpha.school/
-	- [2 Hour Learning: How Our Schools Work - YouTube](https://www.youtube.com/watch?v=ENdAWT6N0V4&t=4s)
-	- [2 Hour Learning: Revolutionizing K-12 Education in Just 2 Hours a Day](https://2hourlearning.com/)
-	- [Home \| Learn and Earn](https://www.learnandearn.school/)
-	- **[Alpha Anywhere - Alpha Anywhere](https://alphaanywhere.co/)**
-	- [Prequel](https://www.joinprequel.com/)
-	- [Unbound - The Future of Education is Unbound](https://www.unbound.school/)
-	- [Novatio](https://novatio.school/)
-	- [Your Review: Alpha School "The real value that comes from Alpha is not the performance uplift. The most important feature of Alpha is that they have found a way to learn more efficiently. Students condense all the required state-mandated material into ½ a day for 6 yrs instead of a full day for 13." : r/slatestarcodex](https://www.reddit.com/r/slatestarcodex/comments/1ln5ajr/your_review_alpha_school_the_real_value_that/)
-- **[app.youlearn.ai](https://app.youlearn.ai/)**
-- [linkedin.com/in/qudduspat/](https://www.linkedin.com/in/qudduspat/)- qp@asi.tech
-- [How a High Schooler in Dubai Built ASI, One of the Most Promising AI Edtech Startups](https://www.businessinsider.com/edtech-asi-ai-dubai-chatbot-tutoring-assistant-2023-9?IR=T)
-- [ASI | Home](https://www.asi.tech/)
-- [Tutor AI - Your personal AI tutor to learn anything](https://tutorai.me/)
-- [Meet Khanmigo, Khan Academy's AI-powered teaching assistant & tutor](https://www.khanmigo.ai/)
-- [Khan Academy | Free Online Courses, Lessons & Practice](https://www.khanacademy.org/)
-- Youtube Learning (Experimental)
-- [Sakshm AI](https://sakshm.com/)
-	- [Disha AI](https://getdisha.ai/)
-	- [Disha AI - Match Pairs](https://getdisha.ai/match-pairs)
-- [**Sensai**](https://sensai.hyperverge.org/)
-- [Cadmus](https://cadmus.io/)
-- [Infinity Learn: Your Pathway to Success in K-12, IIT-JEE & NEET Exams](https://infinitylearn.com/)
-- [Learn with OLL \| Live Online Activities for Skill Development \| Online Live Learning](https://www.oll.co/)
-- [Synthesis Tutor](https://www.synthesis.com/tutor)
-- [Seekho: Short Learning Videos on Tech, Money, Personal Growth, & More \| Seekho](https://seekho.in/)
-- [Certified AI & Machine Learning Courses \| Rabbitt Learning](https://learning.rabbitt.ai/)
-- [Unstop: Connecting talent, colleges, & recruiters!](https://unstop.com/)
-- [AI Chat - Your Personal AI Tutor \| Knowunity](https://knowunity.com/ai/chat)
-
-### New Age School
-
-- MasterUnion / MastersUnion / Master Union
-	- [Masters' Union: Learn Business by Running Business](https://mastersunion.org/)
-- GrowthX
-- [Hive School](https://hiveschool.co/curriculum#scholarship-avenues-fornav)
-
 ### Others
 
 - [My Job Grow - Your Gateway to Career Success and Growth](https://www.myjobgrow.com/)

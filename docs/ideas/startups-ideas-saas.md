@@ -216,7 +216,6 @@ So programmability does not militate against fungibility but rather, just puts i
 - Loan recovery agent
 - Build full end to end loan recovery agent
 - Fintech has the most money
-- 100 crore target
 - Fintech stack
 - Voice AI agents that can do multiple things, full stack on top of it, analytics
 - See what's the cutting edge

@@ -63,17 +63,20 @@ Last updated: 2026-05-02
 ### DevTools (Developer Tools)
 
 **Active Ideas:**
+
 - [Postman Alternative](startup-ideas/postman-alternative-api-testing.md)
 - One-Click GitHub Demo Platform
 - Git + Docker Simplification Tool
 - CodeRabbit competitor (AI code review)
 
 **Market Research:**
+
 - API Tools Market (to be created)
 - Developer Tools Market Size
 - Open-source GTM strategies
 
 **Competitors:**
+
 - Postman, Bruno, Hoppscotch, Insomnia
 - StackBlitz, Gitpod, Replit
 - GitKraken, Tower
@@ -83,6 +86,7 @@ Last updated: 2026-05-02
 ### EdTech / HR Tech
 
 **Active Ideas:**
+
 - [AI Mock Interview Platform](startup-ideas/ai-mock-interview-platform.md)
 - [AI Coding Test Platform](startup-ideas/ai-coding-test-platform.md)
 - AI Subjective Grading Platform
@@ -90,11 +94,13 @@ Last updated: 2026-05-02
 - Domain-Specific Interview Prep
 
 **Market Research:**
+
 - [AI Assessment Platforms Analysis](raw/2026-05-02-ai-assessment-platforms.md)
 - Technical Interview Market
 - EdTech B2C Monetization
 
 **Competitors:**
+
 - HackerRank, LeetCode, HackerEarth
 - Interviewing.io, Pramp/Exponent
 - Gradescope, Turnitin
@@ -107,6 +113,7 @@ Last updated: 2026-05-02
 **Cross-cutting theme:** Many ideas leverage AI/LLMs
 
 **AI-First Products:**
+
 - AI Mock Interviews
 - AI Coding Tests
 - AI Subjective Grading
@@ -114,6 +121,7 @@ Last updated: 2026-05-02
 - AI Hiring Pipeline
 
 **Research Needed:**
+
 - LLM cost analysis at scale
 - Voice AI technology stack
 - Code execution sandboxing
@@ -124,11 +132,13 @@ Last updated: 2026-05-02
 ### Civic Tech / Government
 
 **Active Ideas:**
+
 - Government Projects Tracker
 - Fact-Checker Bot (Twitter/social media)
 - Politician Statement Tracker
 
 **Market Research:**
+
 - Civic tech funding models
 - Government data accessibility
 - Viral growth for public good
@@ -138,6 +148,7 @@ Last updated: 2026-05-02
 ## Cross-Domain Patterns
 
 ### Business Models
+
 - **Freemium SaaS:** Most developer tools, EdTech B2C
 - **Open-source + Premium:** Postman alternative
 - **Dual-sided marketplace:** Coding tests (B2C free, B2B paid)
@@ -145,11 +156,13 @@ Last updated: 2026-05-02
 - **Pay-as-you-go:** CodeRabbit alternative
 
 ### GTM Strategies
+
 - **Developer tools:** Open-source → Product Hunt → HN → GitHub stars
 - **EdTech B2C:** Free tier → viral → paid conversion
 - **B2B SaaS:** Start B2C, pivot to B2B once traction
 
 ### Tech Stacks
+
 - **Common:** LLMs (GPT-4, Claude), cloud infrastructure, modern web frameworks
 - **DevTools:** Native apps (Tauri), browser extensions, VS Code extensions
 - **AI Assessment:** Voice AI, code sandboxing, LLM evaluation
@@ -159,6 +172,7 @@ Last updated: 2026-05-02
 ## Solo Founder Suitability
 
 **Best fits (⭐⭐⭐⭐⭐):**
+
 1. Postman Alternative - Pure software, viral growth potential
 2. AI Mock Interviews - High value, clear monetization
 3. AI Subjective Grading - Fast to build, clear pain point
@@ -177,10 +191,12 @@ Last updated: 2026-05-02
 ## Raw Research & Analysis
 
 **Comprehensive Research Documents:**
+
 - [Software-Focused Solo Founder Analysis](raw/2026-05-02-software-startup-analysis.md)
 - [AI Assessment Platforms Deep Dive](raw/2026-05-02-ai-assessment-platforms.md)
 
 **To Be Created:**
+
 - Market sizing for each domain
 - Competitor deep dives
 - Technical architecture plans
@@ -192,6 +208,7 @@ Last updated: 2026-05-02
 ## Next Actions
 
 ### Immediate (This Week)
+
 1. [ ] Choose top idea (Postman Alternative or AI Mock Interviews)
 2. [ ] User interviews (10-20 target users)
 3. [ ] Competitor analysis deep dive
@@ -199,12 +216,14 @@ Last updated: 2026-05-02
 5. [ ] Technical spike (test core technology)
 
 ### Short-term (Month 1)
+
 1. [ ] Build MVP
 2. [ ] Beta testing with 10 users
 3. [ ] Landing page + waitlist
 4. [ ] Pricing research
 
 ### Medium-term (Months 2-3)
+
 1. [ ] Public launch (Product Hunt, HN, Reddit)
 2. [ ] Gather feedback, iterate
 3. [ ] Add monetization
@@ -215,12 +234,14 @@ Last updated: 2026-05-02
 ## Research Methodology
 
 **How this wiki works:**
+
 - **Human responsibility:** Curate sources, direct analysis, prioritize ideas
 - **LLM responsibility:** Cross-referencing, synthesis, maintaining consistency
 - **Process:** Ingest research → Update 10-15 pages → Link across domains → Track in log
 
 **When adding new research:**
-1. Create raw research file in 
+
+1. Create raw research file in
 2. Extract into relevant startup idea pages
 3. Create competitor/market analysis pages as needed
 4. Update this index
@@ -231,6 +252,7 @@ Last updated: 2026-05-02
 ## Original Idea Sources
 
 All ideas sourced from:
+
 - [Startup Ideas - SAAS](startups-ideas-saas.md)
 - [Creating a Business / Startup](creating-a-business-startup.md)
 - [Thoughts / Future / Ideas / Vision / Prediction](thoughts-future-ideas-vision-prediction.md)
@@ -243,6 +265,7 @@ All ideas sourced from:
 See [log.md](log.md) for chronological activity log.
 
 **Latest activities:**
+
 - 2026-05-02: Initial research on software-focused solo founder opportunities
 - 2026-05-02: Deep dive into AI assessment platforms
 - 2026-05-02: Created structured startup idea pages
@@ -252,6 +275,7 @@ See [log.md](log.md) for chronological activity log.
 ## Key Insights
 
 **What makes a good solo founder software startup:**
+
 1. Pure software (minimal human ops)
 2. AI amplification potential (LLMs reduce team needs)
 3. Clear willingness to pay (validated by competitors)
@@ -260,6 +284,7 @@ See [log.md](log.md) for chronological activity log.
 6. Global market (not geography-constrained)
 
 **Anti-patterns to avoid:**
+
 1. Marketplace (chicken-egg problem)
 2. Heavy sales cycle (enterprise sales)
 3. Physical fulfillment
