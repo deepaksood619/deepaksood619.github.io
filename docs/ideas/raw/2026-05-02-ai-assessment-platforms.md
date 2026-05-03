@@ -6,7 +6,6 @@ domains: [edtech, hr-tech, ai-ml]
 tags: [ai-assessment, interview-prep, coding-tests, education, hiring]
 status: active
 ---
-
 # AI-Powered Assessment & Education Platforms
 
 **Category Analysis for Solo Founders**

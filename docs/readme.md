@@ -1,7 +1,6 @@
 ---
 slug: /
 ---
-
 # Deepak's Wiki
 
 This is my personal wiki where I share everything I know about this world in form of an online wiki.
@@ -51,6 +50,7 @@ If this is your first time visiting this wiki, start from the outline below and 
     - [Management](management/readme.md)
     - [Psychology](psychology/readme.md)
     - [Education](education/readme.md)
+- [CLAUDE](CLAUDE.md)
 
 ## Size of Wiki
 

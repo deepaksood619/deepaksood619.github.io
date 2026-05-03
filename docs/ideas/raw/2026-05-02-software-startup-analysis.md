@@ -5,7 +5,6 @@ type: research-analysis
 tags: [startup-ideas, solo-founder, software, devtools, ai, edtech]
 status: active
 ---
-
 # Software-Focused Solo Founder Startup Analysis
 
 **Analysis Date:** 2026-05-02
@@ -68,11 +67,6 @@ status: active
 - Freemium model
 - Open source parts of stack
 
-**Related Research:**
-
-- [Link to competitor analysis]
-- [Link to pricing research]
-
 ---
 
 ### 2. Postman Alternative - API Testing Platform
@@ -124,11 +118,6 @@ status: active
 - Integrations
 - Enterprise features
 
-**Related Research:**
-
-- [Postman pricing analysis](../market-analysis/postman-competitors.md)
-- [API testing market size](../market-analysis/api-tools-market.md)
-
 ---
 
 ### 3. One-Click GitHub Repo Demo Platform
@@ -162,10 +151,6 @@ status: active
 - Target open-source maintainers
 - Add to README badges
 - Product Hunt launch
-
-**Related Research:**
-
-- [StackBlitz business model](../competitors/stackblitz.md)
 
 ---
 
@@ -305,8 +290,7 @@ status: active
 ## Cross-References
 
 - [AI Assessment Platforms Analysis](2026-05-02-ai-assessment-platforms.md)
-- [Developer Tools Market](../market-analysis/devtools-market.md) (to be created)
-- [Startup Ideas SaaS](../startups-ideas-saas.md)
+- [startups-ideas-saas](ideas/startups-ideas-saas.md)
 
 ---
 

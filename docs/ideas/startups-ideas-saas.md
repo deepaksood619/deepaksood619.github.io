@@ -116,7 +116,7 @@ Can we use astro instead of docusaurus
 
 https://pivotal.substack.com/p/economics-of-data-biz
 
-![image](../../media/Ideas-Startups-Ideas-SAAS-image1.jpg)
+![image](../media/Ideas-Startups-Ideas-SAAS-image1.jpg)
 
 - Geospatial data startup
 - Microfinance
@@ -321,6 +321,12 @@ Highlight all points that they have spoken contradictory
 - Some saas productivity tool
 - Start with freemium
 - Take $20 per seat pricing to pay as you use model
+- Niche SAAS Products
+	- Micro-SaaS
+	- https://www.reddit.com/r/SaaS/comments/plzw0u/examples_of_what_a_niche_saas_looks_like/
+	- [I Make $16K/Month... Even In A "Tiny" Niche - YouTube](https://www.youtube.com/watch?v=hYF4fQYlrso)
+	- [SaaS Niches That Print Money (And How to Find Them Quickly) - YouTube](https://www.youtube.com/watch?v=kxISf26KV4c)
+	- [How to Market a Niche SaaS Product (When No One’s Searching for It) - YouTube](https://www.youtube.com/watch?v=AcUuT1kwLWQ)
 
 ## Tech
 
@@ -362,7 +368,7 @@ Hyperspectral imaging
 
 ### Others
 
-- Standalone chat bot for android
+- Standalone chatbot for android
     - AI generated models, CS representatives
 - Hyper-Casual games
 - Zero-Profit Distributed stores
@@ -387,7 +393,7 @@ Lawyer / law - central knowledge base and marketplace
 
 ## Links
 
-- [The Grid](../../book-summaries/the-grid)
+- [The Grid](../book-summaries/the-grid)
 - [Top 100 Startup Ideas from Top 100 Entrepreneurs/VCs/Hackers! - YouTube](https://www.youtube.com/watch?v=XiXLti_Y_is&ab_channel=Breakdown)
 - [9 startups that stood out on YC Demo Day 2 | TechCrunch](https://techcrunch.com/2024/09/26/9-startups-that-stood-out-on-yc-demo-day-2/)
 - [Texts](https://texts.com/)

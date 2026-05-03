@@ -11,6 +11,8 @@ Once an idea has taken hold of the brain it's almost impossible to eradicate. An
 - https://github.com/florinpop17/app-ideas
 - [Portfolio - 100X.VC | Top Startups in India 2022](https://www.100x.vc/portfolio)
 - **Watch SharkTank for inspiration**
+- https://www.indiehackers.com/starting-up
+- https://www.indiehackers.com/ideas
 
 Startup time management in three simple steps:
 
@@ -18,7 +20,7 @@ Startup time management in three simple steps:
 2. Trash it
 3. Do the absolute most essential thing for the survival of the company
 
-![image](../../media/Ideas-Intro-image1.jpg)
+![image](../media/Ideas-Intro-image1.jpg)
 
 - Misjudging the market size, establishing unreasonable expectations, and chasing valuations.
 
@@ -104,7 +106,7 @@ There are three common ways to come up with an idea:
 2. **Experience ripe for improvement:** Look for areas where you believe there should be a better consumer experience than what currently exists, and iterate from there
 3. **Problem first:** Start with a problem you've experienced firsthand and figure out if enough other people have the same problem
 
-![image](../../media/Ideas-Intro-image2.jpg)
+![image](../media/Ideas-Intro-image2.jpg)
 
 ### Stealth Startup
 

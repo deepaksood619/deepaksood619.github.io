@@ -1,4 +1,4 @@
-## Automated "Straight-Through" Claims Processing
+# Automated "Straight-Through" Claims Processing
 
 ### 1. The Architecture Stack
 

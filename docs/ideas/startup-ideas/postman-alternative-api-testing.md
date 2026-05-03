@@ -6,7 +6,6 @@ priority: high
 last_updated: 2026-05-02
 tags: [developer-tools, api-testing, open-source, b2b-saas]
 ---
-
 # Postman Alternative - API Testing Platform
 
 ## Problem Statement
@@ -288,13 +287,6 @@ Open-source, lightweight API client with optional cloud sync. Core features free
 - Fair use policy for cloud sync
 - Data retention policy
 - Export your data anytime
-
-## Related Research
-
-- [Software Startup Analysis](../raw/2026-05-02-software-startup-analysis.md)
-- [API Tools Market](../market-analysis/api-tools-market.md) (to be created)
-- [Postman Pricing Analysis](../competitors/postman-pricing.md) (to be created)
-- [Developer Tools GTM](../gtm-strategies/devtools-open-source.md) (to be created)
 
 ## Open Questions
 

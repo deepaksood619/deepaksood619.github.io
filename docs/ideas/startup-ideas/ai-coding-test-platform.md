@@ -6,7 +6,6 @@ priority: high
 last_updated: 2026-05-02
 tags: [ai, coding-assessment, hiring, technical-interviews, b2b-saas]
 ---
-
 # AI Coding Test Platform
 
 ## Problem Statement
@@ -266,9 +265,9 @@ AI-powered coding assessment platform that generates unique coding problems for 
 ## Related Research
 
 - [AI Assessment Platforms Analysis](../raw/2026-05-02-ai-assessment-platforms.md)
-- [Technical Hiring Market](../market-analysis/tech-hiring-market.md) (to be created)
-- [HackerRank Competitor Analysis](../competitors/hackerrank.md) (to be created)
-- [Code Execution Security](../tech-stacks/code-sandboxing.md) (to be created)
+- Technical Hiring Market (to be created)
+- HackerRank Competitor Analysis (to be created)
+- Code Execution Security (to be created)
 
 ## Open Questions
 

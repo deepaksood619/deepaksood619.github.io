@@ -6,7 +6,6 @@ priority: high
 last_updated: 2026-05-02
 tags: [ai, interview-prep, job-seekers, voice-ai, hr-tech]
 ---
-
 # AI Mock Interview Platform
 
 ## Problem Statement
@@ -276,28 +275,6 @@ AI-powered interview platform that conducts realistic voice+video interviews acr
 - Clear usage limits
 - No cheating guarantees (for companies using platform)
 - Recording consent
-
-## Related Research
-
-**Market Analysis:**
-
-- [Technical Interview Market](../market-analysis/tech-interview-market.md) (to be created)
-- [AI Assessment Platforms](../raw/2026-05-02-ai-assessment-platforms.md)
-
-**Competitors:**
-
-- [Interviewing.io Analysis](../competitors/interviewing-io.md) (to be created)
-- [Pramp/Exponent](../competitors/pramp-exponent.md) (to be created)
-
-**Technology:**
-
-- [Voice AI Tech Stack](../tech-stacks/voice-ai-applications.md) (to be created)
-- [LLM Interview Generation](../tech-stacks/llm-evaluation.md) (to be created)
-
-**Business Model:**
-
-- [Freemium SaaS Pricing](../business-models/freemium-saas.md) (to be created)
-- [EdTech Monetization](../business-models/edtech-b2c.md) (to be created)
 
 ## Open Questions
 

@@ -16,7 +16,7 @@ This is an **LLM-maintained research wiki** where Claude:
 
 ## Folder Structure
 
-```
+```bash
 ideas/
 ├── index.md              # Master catalog by priority/domain
 ├── log.md                # Chronological activity log
@@ -55,7 +55,7 @@ ideas/
 
 **log.md** - Chronological record:
 
-```
+```bash
 [YYYY-MM-DD] [DOMAIN] ACTION - description - source
 ```
 

@@ -165,7 +165,7 @@ https://youtu.be/Ndp_NnztS8U
 
 [The single biggest reason why start-ups succeed | Bill Gross | TED - YouTube](https://www.youtube.com/watch?v=bNpx7gpSqbY&ab_channel=TED)
 
-![why-start-up-succeed](../../media/Screenshot%202023-12-24%20at%202.47.43.PM.jpg)
+![why-start-up-succeed](../media/Screenshot%202023-12-24%20at%202.47.43.PM.jpg)
 
 ## Startup / Company Culture
 
@@ -176,11 +176,11 @@ https://youtu.be/Ndp_NnztS8U
 
 ## Startup Journey Pyramid
 
-![image](../../media/Ideas-Creating-a-Business-Startup-image1.jpg)
+![image](../media/Ideas-Creating-a-Business-Startup-image1.jpg)
 
-![image](../../media/Ideas-Creating-a-Business-Startup-image1.jpg)
+![image](../media/Ideas-Creating-a-Business-Startup-image1.jpg)
 
-![image](../../media/Ideas-Creating-a-Business-Startup-image2.jpg)
+![image](../media/Ideas-Creating-a-Business-Startup-image2.jpg)
 
 - [Step 1: INSIGHT: Come up with your idea](https://substack.com/redirect/43f55649-3a4e-4d67-a897-cb95b997a73d?u=3531510)
 - [Step 2: AUDIENCE: Identify your super-specific who](https://substack.com/redirect/9818beb8-c13d-4822-83c7-6f3860c81364?u=3531510)
@@ -202,9 +202,9 @@ https://youtu.be/Ndp_NnztS8U
 
 https://marcellus.in/newsletter/little-champs/introducing-little-champs-our-small-cap-pms
 
-![image](../../media/Ideas-Creating-a-Business-Startup-image3.jpg)
+![image](../media/Ideas-Creating-a-Business-Startup-image3.jpg)
 
-![image](../../media/Ideas-Creating-a-Business-Startup-image4.jpg)
+![image](../media/Ideas-Creating-a-Business-Startup-image4.jpg)
 
 - Relaxo case study
 - India has 1 crore people leaving for less than 1 lakh rs per annum
@@ -221,15 +221,15 @@ https://marcellus.in/newsletter/little-champs/introducing-little-champs-our-smal
 
 1. Capturing Value
 
-    ![image](../../media/Ideas-Creating-a-Business-Startup-image5.jpg)
+    ![image](../media/Ideas-Creating-a-Business-Startup-image5.jpg)
 
     **Perfect competition**
 
-    ![image](../../media/Ideas-Creating-a-Business-Startup-image6.jpg)
+    ![image](../media/Ideas-Creating-a-Business-Startup-image6.jpg)
 
     **Monopoly**
 
-    ![image](../../media/Ideas-Creating-a-Business-Startup-image7.jpg)
+    ![image](../media/Ideas-Creating-a-Business-Startup-image7.jpg)
 
 2. Lies people tell
 3. How to build a monopoly
@@ -264,7 +264,7 @@ combine digital and physical
 - Social platform
 - Mobilization platform
 
-![image](../../media/Ideas-Creating-a-Business-Startup-image8.jpg)
+![image](../media/Ideas-Creating-a-Business-Startup-image8.jpg)
 
 The intensity of the signal each problem sends at any given time is determined by a bunch of factors, including:
 
@@ -279,7 +279,7 @@ The intensity of the signal each problem sends at any given time is determined b
 
 https://www.lennysnewsletter.com/p/what-is-a-good-growth-rate
 
-![image](../../media/Ideas-Creating-a-Business-Startup-image9.jpg)
+![image](../media/Ideas-Creating-a-Business-Startup-image9.jpg)
 
 - In the early stages, investors don't care about month-over-month growth
 - Instead,for early-stage B2B businesses, investors focus on how quickly they ramp to $1m ARR after going live
@@ -343,7 +343,7 @@ Discovery commerce is the equivalent of 'I'm feeling lucky' in Google searches. 
 
 The worst mistakes founders make
 
-![Worst mistakes founders make](../../media/Screenshot%202025-09-01%20at%2011.42.29%20PM.jpg)
+![Worst mistakes founders make](../media/Screenshot%202025-09-01%20at%2011.42.29%20PM.jpg)
 
 ## Tools
 
