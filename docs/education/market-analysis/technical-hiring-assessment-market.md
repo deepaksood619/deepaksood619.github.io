@@ -472,8 +472,8 @@ status: active
 
 ## Related Research
 
-- [AI Coding Test Platform Idea](../startup-ideas/ai-coding-test-platform.md)
-- [hackerrank-analysis](ideas/competitors/hackerrank-analysis.md)
+- [AI Coding Test Platform Idea](education/ai-coding-test-platform.md)
+- [hackerrank-analysis](education/competitors/hackerrank-analysis.md)
 - B2B SaaS GTM Strategies (to be created)
 - Technical Interview Market Trends (to be created)
 

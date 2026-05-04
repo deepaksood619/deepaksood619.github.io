@@ -383,10 +383,10 @@ tags: [hackerrank, technical-assessment, b2b-saas, market-leader]
 
 ## Related Research
 
-- [Technical Hiring Market Analysis](../market-analysis/technical-hiring-assessment-market.md)
+- [Technical Hiring Market Analysis](education/market-analysis/technical-hiring-assessment-market.md)
 - CodeSignal Analysis (to be created)
 - HackerEarth Analysis (to be created)
-- [AI Coding Test Platform Idea](../startup-ideas/ai-coding-test-platform.md)
+- [AI Coding Test Platform Idea](education/ai-coding-test-platform.md)
 - [Pricing \| Programming problems and challenges \| HackerRank](https://www.hackerrank.com/work/pricing)
 
 ---

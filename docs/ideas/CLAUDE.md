@@ -20,9 +20,6 @@ This is an **LLM-maintained research wiki** where Claude:
 ideas/
 ├── research-index.md     # Master catalog by priority/domain
 ├── log.md                # Chronological activity log
-├── startup-ideas/        # Startup idea pages + research analysis
-│   ├── idea-name.md                  # Structured startup idea pages
-│   └── topic-analysis.md             # Research & market analysis
 ├── market-analysis/      # Market sizing, trends, competitive landscape
 ├── competitors/          # Company profiles, comparisons
 ├── business-models/      # Revenue models, pricing, unit economics (to be created)
@@ -143,7 +140,7 @@ Which ideas does this inform? How?
 
 **When given new research:**
 
-1. Create research file in `startup-ideas/topic-analysis.md` (descriptive name, no dates)
+1. Create research file in `topic-analysis.md` (descriptive name, no dates)
 2. Update 5-10 related pages (startup ideas, market analysis, competitors)
 3. Create cross-links across domains
 4. Update `research-index.md` and `log.md`
@@ -166,8 +163,8 @@ Which ideas does this inform? How?
 
 ## File Naming
 
-- **Startup ideas:** `idea-name.md` (descriptive, lowercase, hyphens) - in `startup-ideas/`
-- **Research analysis:** `topic-analysis.md` (descriptive, no dates) - in `startup-ideas/`
+- **Startup ideas:** `idea-name.md` (descriptive, lowercase, hyphens)
+- **Research analysis:** `topic-analysis.md` (descriptive, no dates)
 - **Market analysis:** `domain-market-size.md`, `domain-trends.md` - in `market-analysis/`
 - **Competitors:** `company-name.md` - in `competitors/`
 - **Cross-domain:** `topic-comparison.md` - in relevant category folder
@@ -212,7 +209,7 @@ VAULT="/Users/deepaksood/Library/CloudStorage/GoogleDrive-dsood@confluent.io/.sh
 
 ```bash
 # Create new research file
-/Applications/Obsidian.app/Contents/MacOS/Obsidian create path="ideas/startup-ideas/topic-analysis.md" content="[markdown content]" vault="$VAULT"
+/Applications/Obsidian.app/Contents/MacOS/Obsidian create path="ideas/topic-analysis.md" content="[markdown content]" vault="$VAULT"
 
 # Append to existing file (like log.md)
 /Applications/Obsidian.app/Contents/MacOS/Obsidian append path="ideas/log.md" content="[2026-05-04] [DOMAIN] ACTION - description\n" vault="$VAULT"
@@ -225,10 +222,10 @@ VAULT="/Users/deepaksood/Library/CloudStorage/GoogleDrive-dsood@confluent.io/.sh
 /Applications/Obsidian.app/Contents/MacOS/Obsidian search query="market size" path="ideas" vault="$VAULT"
 
 # Find backlinks (what links TO this page)
-/Applications/Obsidian.app/Contents/MacOS/Obsidian backlinks path="ideas/startup-ideas/ai-mock-interview.md" vault="$VAULT"
+/Applications/Obsidian.app/Contents/MacOS/Obsidian backlinks path="ideas/ai-mock-interview.md" vault="$VAULT"
 
 # Find outgoing links (what this page links TO)
-/Applications/Obsidian.app/Contents/MacOS/Obsidian links path="ideas/startup-ideas/ai-mock-interview.md" vault="$VAULT"
+/Applications/Obsidian.app/Contents/MacOS/Obsidian links path="ideas/ai-mock-interview.md" vault="$VAULT"
 ```
 
 **Health Checks:**

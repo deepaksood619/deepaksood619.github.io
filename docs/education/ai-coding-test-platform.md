@@ -100,7 +100,7 @@ AI-powered coding assessment platform that generates unique coding problems for 
 
 ### Secondary: Startup Founder/CTO (SMB)
 
-**Demographics:** Age 25-40, 5-15 years experience, <50 employees, early-stage
+**Demographics:** Age 25-40, 5-15 years experience, `<50` employees, early-stage
 
 **Responsibilities:** Hire first 5-10 engineers, stay within budget, move fast
 
@@ -168,7 +168,7 @@ AI-powered coding assessment platform that generates unique coding problems for 
 |------|-------|----------|--------|-----|
 | **Free (Individual)** | $0 | Unlimited practice, ads, "Powered by" branding | Job seekers, students | $0 |
 | **Pro (Individual)** | $29/month | No ads, detailed analytics, interview prep, mock interviews | Serious preppers | $348 |
-| **Startup** | $99/month | 50 assessments/month, 3 users, basic analytics | Small companies (<50 employees) | $1,188 |
+| **Startup** | $99/month | 50 assessments/month, 3 users, basic analytics | Small companies (`<50` employees) | $1,188 |
 | **Growth** | $299/month | 200 assessments/month, 10 users, advanced analytics, ATS integration | Mid-market (50-500 employees) | $3,588 |
 | **Enterprise** | Custom ($999+/month) | Unlimited assessments, SSO, white-label, dedicated support | Large companies (500+) | $12K+ |
 
@@ -328,7 +328,7 @@ AI-powered coding assessment platform that generates unique coding problems for 
 
 - Google Ads: Competitor keywords ("HackerRank pricing", "CodeSignal alternative")
 - LinkedIn Ads: Job title targeting (Engineering Manager, Tech Recruiter)
-- Target CAC: <$500, acceptable if LTV/CAC >10x
+- Target CAC: `<$500`, acceptable if LTV/CAC `>10x`
 
 **Email Drip:**
 
@@ -485,11 +485,11 @@ AI-powered coding assessment platform that generates unique coding problems for 
 
 ## Related Research
 
-- [AI Assessment Platforms Analysis](ai-assessment-platforms.md) - Comparison of 7 AI assessment ideas
-- [Software Startup Analysis](software-startup-analysis.md) - Solo founder opportunities
-- [Technical Hiring Market](../market-analysis/technical-hiring-assessment-market.md) - Full market overview
-- [HackerRank Analysis](../competitors/hackerrank-analysis.md) - Market leader deep-dive
-- [HackerEarth Analysis](../competitors/hackerearth-analysis.md) - India competitor analysis
+- [AI Assessment Platforms Analysis](education/ai-assessment-platforms.md) - Comparison of 7 AI assessment ideas
+- [Software Startup Analysis](ideas/software-startup-analysis.md) - Solo founder opportunities
+- [Technical Hiring Market](education/market-analysis/technical-hiring-assessment-market.md) - Full market overview
+- [HackerRank Analysis](education/competitors/hackerrank-analysis.md) - Market leader deep-dive
+- [HackerEarth Analysis](education/competitors/hackerearth-analysis.md) - India competitor analysis
 
 ## Open Questions
 
@@ -533,7 +533,7 @@ AI-powered coding assessment platform that generates unique coding problems for 
 2. [ ] **Technical prototype** (2 weeks)
    - Build: GPT-4 problem generator (input: job description, difficulty → output: unique problem + test cases)
    - Test: Generate 50 problems, manually evaluate quality
-   - Measure: Cost per problem (<$0.50 target), generation time (<10s target)
+   - Measure: Cost per problem (`<$0.50` target), generation time (`<10s` target)
 
 ### Next Phase (Weeks 3-8)
 

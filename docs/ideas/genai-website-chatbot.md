@@ -40,7 +40,7 @@ One-click AI chatbot widget that trains on website content automatically. Zero c
 
 ## Target Customer
 
-**Primary: Solopreneurs & Micro-Businesses (<10 employees)**
+**Primary: Solopreneurs & Micro-Businesses (`<10` employees)**
 
 - **Who:** Freelancers, content creators, micro-SaaS, local service businesses, online course creators
 - **Demographics:** 1-5 person teams, $50K-500K annual revenue, tech-savvy enough to embed code
@@ -119,11 +119,11 @@ The $10-20/month price point is **underserved**. Competitors jump from free (100
 
 ### Pricing Strategy
 
-| Tier | Price | Features | Target |
+| Tier | Price | Features                                                                                         | Target |
 |------|-------|----------|--------|
-| **Free** | $0 | 50 conversations/month, 1 chatbot, "Powered by [Brand]" branding, GPT-3.5 | Trial users, personal blogs |
-| **Starter** | $15/month | 1,000 conversations, branding removal, GPT-4 Turbo, custom styling, basic analytics | **Solopreneurs** (primary target) |
-| **Pro** | $49/month | 10,000 conversations OR unlimited, 3 chatbots, API access, advanced analytics, priority support | Small businesses |
+| **Free** | $0 | 50 conversations/month, 1 chatbot, "Powered by Brand" branding, GPT-3.5                          | Trial users, personal blogs |
+| **Starter** | $15/month | 1,000 conversations, branding removal, GPT-4 Turbo, custom styling, basic analytics              | **Solopreneurs** (primary target) |
+| **Pro** | $49/month | 10,000 conversations OR unlimited, 3 chatbots, API access, advanced analytics, priority support  | Small businesses |
 | **Business** | $149/month | Unlimited conversations, 10 chatbots, white-label, custom domain, integrations (Shopify, Stripe) | Growing SMBs, agencies |
 
 **Add-ons (à la carte):**
@@ -265,7 +265,7 @@ The $10-20/month price point is **underserved**. Competitors jump from free (100
 
 **SEO:**
 
-- Target keywords: "best affordable chatbot", "Intercom alternative", "cheap AI chatbot for small business", "[competitor] alternative"
+- Target keywords: "best affordable chatbot", "Intercom alternative", "cheap AI chatbot for small business", "competitor alternative"
 - Content: Comparison posts (vs Chatling, vs Intercom, vs Tidio)
 - Tools: Free chatbot widget generator, chatbot ROI calculator
 
@@ -281,7 +281,7 @@ The $10-20/month price point is **underserved**. Competitors jump from free (100
 - Google Ads: Competitor keywords ("Intercom pricing", "cheap chatbot")
 - Facebook/Instagram: Target small business owners, e-commerce store owners
 - LinkedIn: B2B SaaS founders, customer success roles
-- **Target CAC:** <$50 via organic, <$150 via paid
+- **Target CAC:** `<$50 via organic, <$150 via paid`
 
 **Retention & upsell:**
 
@@ -297,7 +297,7 @@ The $10-20/month price point is **underserved**. Competitors jump from free (100
 **Product-led growth:**
 
 - Freemium conversion optimization (A/B test upgrade prompts)
-- Viral widget branding ("Powered by [Brand]" → clicks → signups)
+- Viral widget branding ("Powered by Brand" → clicks → signups)
 - Template marketplace (users share chatbot configs)
 
 **B2B sales:**
@@ -319,7 +319,7 @@ The $10-20/month price point is **underserved**. Competitors jump from free (100
 - [ ] 5 current chatbot user interviews
 - [ ] Competitor deep-dive (ChatBase, Tidio, Crisp)
 - [ ] Pricing survey (50 respondents, Van Westendorp)
-- [ ] Technical prototype (answer 10 test questions, <$0.05/conversation cost)
+- [ ] Technical prototype (answer 10 test questions, `<$0.05/conversation cost`)
 - [ ] Cost analysis (LLM optimization to hit 60%+ margin)
 - [ ] Landing page + waitlist (100 signups)
 
@@ -406,10 +406,10 @@ The $10-20/month price point is **underserved**. Competitors jump from free (100
 ## Related Research
 
 - [GenAI Chatbot Market Analysis](2026-05-03-genai-chatbot-market-analysis.md)
-- [Competitor: Chatling](../competitors/chatling.md) (to be created)
-- [Competitor: Noupe](../competitors/noupe.md) (to be created)
-- [Competitor: Intercom](../competitors/intercom.md) (to be created)
-- [Market Analysis: Customer Support Software](../market-analysis/customer-support-market.md) (to be created)
+- Competitor: Chatling
+- Competitor: Noupe
+- Competitor: Intercom
+- Market Analysis: Customer Support Software
 
 ## Open Questions
 
@@ -423,7 +423,7 @@ The $10-20/month price point is **underserved**. Competitors jump from free (100
 **Market:**
 
 - Is $15/month truly differentiated or race to bottom? (need strong retention to work)
-- Can we achieve <$0.05/conversation cost at scale? (critical for margins)
+- Can we achieve `<$0.05`/conversation cost at scale? (critical for margins)
 - Will solopreneurs convert at 10%+ rate? (typical freemium is 2-5%)
 - How to compete with "free" ChatGPT wrappers on GitHub? (open-source competition)
 
@@ -469,7 +469,7 @@ The $10-20/month price point is **underserved**. Competitors jump from free (100
    - Prompt engineering: Reduce tokens per conversation
    - Model selection: When to use GPT-3.5 vs GPT-4?
    - Caching: Reuse common responses, cache embeddings
-   - Goal: <$0.05/conversation to achieve 60%+ gross margin
+   - Goal: `<$0.05`/conversation to achieve 60%+ gross margin
 
 ---
 

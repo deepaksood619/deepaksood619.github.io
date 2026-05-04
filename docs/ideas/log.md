@@ -10,12 +10,9 @@ Format: `[YYYY-MM-DD] [DOMAIN] <action> - <description> - <source>`
 [2026-05-02] [DEVTOOLS] ANALYSIS - Evaluated developer tools market (Postman alternative, CodeRabbit competitor, GitHub demo platform)
 [2026-05-02] [EDTECH] ANALYSIS - Deep dive into AI assessment platforms category
 [2026-05-02] [EDTECH] CREATE - AI Mock Interview Platform startup idea page - High priority
-[2026-05-02] [INFRASTRUCTURE] CREATE - Created ideas/raw/ folder for research documentation
-[2026-05-02] [INFRASTRUCTURE] CREATE - Created ideas/startup-ideas/ folder for structured idea tracking
 
 [2026-05-02] [EDTECH] CREATE - AI Coding Test Platform startup idea page - High priority
 [2026-05-02] [DEVTOOLS] CREATE - Postman Alternative API Testing Platform - High priority (recommended #1)
-[2026-05-02] [INFRASTRUCTURE] CREATE - Created comprehensive research-index.md for startup ideas organization
 [2026-05-02] [DOCUMENTATION] COMPLETE - Documented all research from analysis into structured wiki format
 
 [2026-05-03] [HR-TECH] ANALYSIS - Deep-dive research on AI Coding Test Platform B2B opportunity
@@ -31,19 +28,4 @@ Format: `[YYYY-MM-DD] [DOMAIN] <action> - <description> - <source>`
 [2026-05-03] [MARTECH] STARTUP - GenAI Website Chatbot Widget idea created - /month positioning, solopreneur target
 [2026-05-03] [MARTECH] COMPETITOR - Chatling pricing analyzed - /bin/zsh// tiers, credit-based model
 [2026-05-03] [MARTECH] COMPETITOR - Noupe pricing analyzed - /bin/zsh// tiers, conversation-based model
-
-[2026-05-04] [ADMIN] REFACTOR - Moved all research files from raw/ to startup-ideas/ - consolidated folder structure
-
-[2026-05-04] [ADMIN] REFACTOR - Updated all references from raw/ to startup-ideas/ across all markdown files
-[2026-05-04] [ADMIN] UPDATE - Updated CLAUDE.md to reflect consolidated folder structure
-
-[2026-05-04] [ADMIN] MERGE - Merged B2B deep-dive + research summary into ai-coding-test-platform.md
-[2026-05-04] [ADMIN] DELETE - Removed duplicate research files: b2b-coding-assessment-deep-dive, ai-coding-tests-research-summary, genai-chatbot-market-analysis
-[2026-05-04] [ADMIN] CONSOLIDATE - Consolidated startup-ideas folder: 6 files total (4 idea pages + 2 reference analyses)
 [2026-05-04] [VALIDATION] COMPLETE - AI Coding Test Platform research validated (8/10 confidence, strong GO signal)
-
-[2026-05-04] [ADMIN] UPDATE - Updated research-index.md to reflect merged content structure
-
-[2026-05-04] [ADMIN] RENAME - Removed dates from filenames: ai-assessment-platforms.md, software-startup-analysis.md
-[2026-05-04] [ADMIN] UPDATE - Updated CLAUDE.md: research files should be topic.md (no dates)
-[2026-05-04] [ADMIN] UPDATE - Updated all cross-references to use new non-dated filenames

@@ -12,21 +12,21 @@ Last updated: 2026-05-02
 
 ### High Priority - Ready for Validation
 
-1. **[AI Mock Interview Platform](startup-ideas/ai-mock-interview-platform.md)** - EdTech/HR Tech
+1. **[AI Mock Interview Platform](education/ai-mock-interview-platform.md)** - EdTech/HR Tech
    - AI-powered interview practice (coding, system design, behavioral)
    - $29/month vs $100+ for human mock interviews
    - Market: $2B+ technical interview prep
    - Build time: 3-4 months
    - **Status:** Ideation → Validation needed
 
-2. **[Postman Alternative - API Testing Platform](startup-ideas/postman-alternative-api-testing.md)** - DevTools
+2. **[Postman Alternative - API Testing Platform](ideas/postman-alternative-api-testing.md)** - DevTools
    - Open-source API client with cloud sync
    - 70% cheaper than Postman ($10/mo vs $36/mo)
    - Market: $5.6B Postman valuation validates
    - Build time: 2-4 weeks MVP
    - **Status:** Recommended for immediate execution
 
-3. **[AI Coding Test Platform](startup-ideas/ai-coding-test-platform.md)** - EdTech/HR Tech
+3. **[AI Coding Test Platform](education/ai-coding-test-platform.md)** - EdTech/HR Tech
    - AI-generated unique coding assessments
    - Free for job seekers, paid for companies
    - Market: $8B technical hiring
@@ -66,7 +66,7 @@ Last updated: 2026-05-02
 
 **Active Ideas:**
 
-- [Postman Alternative](startup-ideas/postman-alternative-api-testing.md)
+- [Postman Alternative](ideas/postman-alternative-api-testing.md)
 - One-Click GitHub Demo Platform
 - Git + Docker Simplification Tool
 - CodeRabbit competitor (AI code review)
@@ -89,15 +89,15 @@ Last updated: 2026-05-02
 
 **Active Ideas:**
 
-- [AI Mock Interview Platform](startup-ideas/ai-mock-interview-platform.md)
-- [AI Coding Test Platform](startup-ideas/ai-coding-test-platform.md)
+- [AI Mock Interview Platform](education/ai-mock-interview-platform.md)
+- [AI Coding Test Platform](education/ai-coding-test-platform.md)
 - AI Subjective Grading Platform
 - 24/7 AI Coding Tutor
 - Domain-Specific Interview Prep
 
 **Market Research:**
 
-- [AI Assessment Platforms Analysis](startup-ideas/ai-assessment-platforms.md)
+- [AI Assessment Platforms Analysis](education/ai-assessment-platforms.md)
 - Technical Interview Market
 - EdTech B2C Monetization
 
@@ -194,13 +194,13 @@ Last updated: 2026-05-02
 
 **Comprehensive Research Documents:**
 
-- [Software-Focused Solo Founder Analysis](startup-ideas/software-startup-analysis.md) - Comparison of multiple startup opportunities
-- [AI Assessment Platforms Deep Dive](startup-ideas/ai-assessment-platforms.md) - Comparison of 7 AI assessment platform ideas
+- [Software-Focused Solo Founder Analysis](ideas/software-startup-analysis.md) - Comparison of multiple startup opportunities
+- [AI Assessment Platforms Deep Dive](education/ai-assessment-platforms.md) - Comparison of 7 AI assessment platform ideas
 
 **Research Merged into Idea Pages:**
 
-- B2B Coding Assessment research → merged into [AI Coding Test Platform](startup-ideas/ai-coding-test-platform.md)
-- GenAI Chatbot Market Analysis → merged into [GenAI Website Chatbot](startup-ideas/genai-website-chatbot.md)
+- B2B Coding Assessment research → merged into [AI Coding Test Platform](education/ai-coding-test-platform.md)
+- GenAI Chatbot Market Analysis → merged into [GenAI Website Chatbot](ideas/genai-website-chatbot.md)
 
 **To Be Created:**
 

@@ -1,4 +1,4 @@
-## Real-Time Fraud Detection & Transaction Routing
+# Real-Time Fraud Detection & Transaction Routing
 
 ### 1. The Architecture Stack
 
