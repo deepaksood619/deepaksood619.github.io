@@ -30,3 +30,5 @@ BigQuery is a serverless data analytics platform. You don't need to provision in
 - [How does BigQuery store data? - YouTube](https://youtu.be/0Hd23GnZ1bE)
 - [BigQuery Spotlight - YouTube](http://www.youtube.com/playlist?list=PLIivdWyY5sqLAbIdmcMwsxWg-w8Px34MS)
 - [GitHub - GoogleCloudPlatform/data-analytics-golden-demo: An end to end demo of Google's Cloud data and analytic stack.](https://github.com/GoogleCloudPlatform/data-analytics-golden-demo) ⭐ 291
+- [What’s New in the Agentic Data Cloud \| Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics/whats-new-in-the-agentic-data-cloud)
+- [Architecting the Agentic Data Cloud \| Google Cloud Blog](https://cloud.google.com/transform/shift-system-of-action-architecting-the-agentic-data-cloud-AI)

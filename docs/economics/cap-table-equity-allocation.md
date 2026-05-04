@@ -105,7 +105,7 @@ A capitalization table (cap table) is a spreadsheet or document that tracks all 
 
 **Example:**
 
-```
+```bash
 Founder gets 60% equity (600,000 shares out of 1M total)
 
 Year 0: 0 shares vested (still in cliff period)
@@ -325,7 +325,7 @@ Investors will reject companies with:
 
 **Example:**
 
-```
+```bash
 Founding member gets 30% equity (3M shares) at formation.
 Current 409A valuation: $0.01/share
 4-year vesting schedule
@@ -372,7 +372,7 @@ With 83(b):
 
 **Equity structure:**
 
-```
+```bash
 Founder A: 60% (6M shares)
 Founding Member B: 40% (4M shares)
 Both have 4-year vesting with 1-year cliff
@@ -389,7 +389,7 @@ Founder Agreement terms:
 
 **Vesting details:**
 
-```
+```bash
 A's vesting:
 - Cliff (12 months): 1.5M shares
 - Monthly thereafter: 125k shares/month
@@ -403,7 +403,7 @@ B's vesting:
 
 **What happens if B leaves at 18 months?**
 
-```
+```bash
 B's vested shares:
 - Cliff: 1M shares (25%)
 - Additional 6 months: 6 × 83.3k = 500k shares

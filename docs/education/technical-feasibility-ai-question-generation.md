@@ -76,7 +76,7 @@ tags: [ai, question-generation, technical-assessment, feasibility, architecture]
 
 **Architecture:**
 
-```
+```bash
 User Input (Topic, Difficulty, Language)
     ↓
 Prompt Engineering Layer (System Prompts + Context)
@@ -100,8 +100,8 @@ Serve to Candidate
 
 ```markdown
 System Prompt:
-"You are an expert coding interview question creator. Generate original, 
-high-quality coding problems suitable for technical interviews. Each question 
+"You are an expert coding interview question creator. Generate original,
+high-quality coding problems suitable for technical interviews. Each question
 must include:
 1. Clear problem statement
 2. Input/output examples
@@ -199,7 +199,7 @@ Provide 3-5 high-quality example questions in the prompt to guide the model.
 
 **Calibration Process:**
 
-```
+```bash
 1. Generate question with target difficulty
 2. Run through test candidates (or simulate)
 3. Measure:
@@ -213,6 +213,7 @@ Provide 3-5 high-quality example questions in the prompt to guide the model.
 **Automated Difficulty Estimation:**
 
 Use ML model trained on existing questions to predict difficulty based on:
+
 - Code complexity (cyclomatic complexity)
 - Number of test cases
 - Constraint ranges
@@ -285,7 +286,7 @@ quality_score = (
 
 **Example - Same Problem, 3 Variations:**
 
-```
+```bash
 Variation 1: "Find longest increasing subsequence in array of stock prices"
 Variation 2: "Find longest chain of friends where each friend is older than previous"
 Variation 3: "Find longest sequence of building heights that increase"
@@ -307,18 +308,21 @@ All require same algorithm (LIS), but context differs.
 **A. Pre-Generated Library (Recommended for MVP)**
 
 **Process:**
+
 1. Generate 10,000-50,000 questions offline
 2. Validate and score all questions
 3. Store in database with metadata
 4. Serve random question per candidate
 
 **Pros:**
+
 - Quality controlled upfront
 - Fast serving (no generation latency)
 - Lower cost (batch generation)
 - Predictable performance
 
 **Cons:**
+
 - Still finite set (though very large)
 - Need periodic regeneration
 - Storage costs
@@ -326,6 +330,7 @@ All require same algorithm (LIS), but context differs.
 **B. Real-Time Generation (Future State)**
 
 **Process:**
+
 1. Candidate starts assessment
 2. Generate question on-demand
 3. Quick validation (automated only)
@@ -333,17 +338,20 @@ All require same algorithm (LIS), but context differs.
 5. Store for future use if quality good
 
 **Pros:**
+
 - Truly infinite variations
 - Always fresh questions
 - No memorization possible
 
 **Cons:**
+
 - Generation latency (3-10 seconds)
 - Higher API costs
 - Quality variance risk
 - Requires robust automated validation
 
 **Recommended Hybrid:**
+
 - Start with pre-generated library (10K questions)
 - Generate new variations in real-time for repeated candidates
 - Continuously expand library with validated real-time generations
@@ -355,12 +363,14 @@ All require same algorithm (LIS), but context differs.
 **Option A: OpenAI GPT-4 / GPT-4 Turbo**
 
 **Pros:**
+
 - Excellent code generation quality
 - Good at following complex instructions
 - 128K context window
 - Relatively fast (2-5 sec response)
 
 **Cons:**
+
 - Expensive ($0.01-0.03 per request)
 - Rate limits (10K RPM on paid tier)
 - Privacy concerns (data sent to OpenAI)
@@ -370,12 +380,14 @@ All require same algorithm (LIS), but context differs.
 **Option B: Anthropic Claude 3.5 Sonnet / Opus**
 
 **Pros:**
+
 - Excellent reasoning and code quality
 - 200K context window
 - Better at following complex constraints
 - More nuanced responses
 
 **Cons:**
+
 - Similar pricing to GPT-4
 - Rate limits
 
@@ -384,12 +396,14 @@ All require same algorithm (LIS), but context differs.
 **Option C: Open-Source Models (Llama 3, Mixtral, CodeLlama)**
 
 **Pros:**
+
 - Self-hosted (data privacy)
 - No per-request cost after infrastructure
 - Customizable via fine-tuning
 - No rate limits
 
 **Cons:**
+
 - Lower quality than GPT-4/Claude initially
 - Requires GPU infrastructure ($500-2000/month)
 - Fine-tuning effort needed
@@ -400,18 +414,21 @@ All require same algorithm (LIS), but context differs.
 **Option D: Fine-Tuned Model**
 
 **Process:**
+
 1. Start with GPT-4/Claude to generate 10K questions
 2. Human review and curate best 1K-2K questions
 3. Fine-tune Llama 3 70B on curated dataset
 4. Use fine-tuned model for production
 
 **Pros:**
+
 - Best quality-to-cost ratio long-term
 - Full control over model
 - Data privacy
 - Can optimize for specific question types
 
 **Cons:**
+
 - Requires upfront investment (GPU, training time)
 - Need quality training data (1K+ examples)
 - Maintenance overhead
@@ -424,7 +441,7 @@ All require same algorithm (LIS), but context differs.
 
 **Question Generation Service:**
 
-```
+```bash
 ┌─────────────────────────────────────────┐
 │         Question Generation API         │
 ├─────────────────────────────────────────┤
@@ -477,6 +494,7 @@ All require same algorithm (LIS), but context differs.
 **Options:**
 
 **A. Judge0 (Recommended)**
+
 - Open-source online judge
 - 60+ languages supported
 - Docker-based sandboxing
@@ -484,6 +502,7 @@ All require same algorithm (LIS), but context differs.
 - $0.01-0.05 per execution (API) or $100-300/month (self-hosted)
 
 **B. Piston API**
+
 - Lightweight code execution engine
 - 45+ languages
 - Simple API
@@ -491,6 +510,7 @@ All require same algorithm (LIS), but context differs.
 - Paid: $20-100/month
 
 **C. AWS Lambda + Firecracker**
+
 - Build custom execution environment
 - Full control
 - Higher development cost
@@ -643,16 +663,19 @@ All require same algorithm (LIS), but context differs.
 ### ROI Analysis
 
 **Assumptions:**
+
 - Platform serves 100 companies
 - Average $500/month per company
 - Monthly revenue: $50K
 
 **Break-even:**
+
 - Phase 1: Month 1 (ROI positive immediately)
 - Phase 2: Month 3-4
 - Phase 3: Month 6-8
 
 **Unit Economics:**
+
 - Cost per assessment: $0.50-2.00 (including question generation, code execution)
 - Revenue per assessment: $10-50 (depending on pricing tier)
 - Gross margin: 80-96%
@@ -696,6 +719,7 @@ All require same algorithm (LIS), but context differs.
 - Adjust prompts based on results
 
 **Metrics to Compare:**
+
 - Candidate NPS (Net Promoter Score)
 - Completion rate
 - Time to solve
@@ -710,6 +734,7 @@ All require same algorithm (LIS), but context differs.
 **Probability:** Medium (30-40% without validation)
 
 **Mitigation:**
+
 - Multi-layer validation (syntax → execution → quality score → human review)
 - Start with human review on all questions
 - Build training dataset from good examples
@@ -725,6 +750,7 @@ All require same algorithm (LIS), but context differs.
 **Probability:** Medium-High (40-50%)
 
 **Mitigation:**
+
 - Test questions on sample candidates before production
 - Track success rates and adjust labels
 - Use ML model to predict difficulty from question features
@@ -739,6 +765,7 @@ All require same algorithm (LIS), but context differs.
 **Probability:** High (60%+, but not unique to AI-generated questions)
 
 **Mitigation:**
+
 - Proctoring (webcam, screen recording)
 - Time pressure (harder to copy-paste to ChatGPT)
 - Unique question variations (AI assistant gets different version)
@@ -753,6 +780,7 @@ All require same algorithm (LIS), but context differs.
 **Probability:** Low (10-20% with proper planning)
 
 **Mitigation:**
+
 - Set budget caps on API keys
 - Monitor usage closely
 - Batch generation (cheaper)
@@ -768,6 +796,7 @@ All require same algorithm (LIS), but context differs.
 **Probability:** Low (10-15% with GPT-4/Claude)
 
 **Mitigation:**
+
 - Use faster models (Claude Sonnet, GPT-4 Turbo)
 - Pre-generate questions during off-peak
 - Hybrid approach (serve from library, generate in background)
@@ -782,6 +811,7 @@ All require same algorithm (LIS), but context differs.
 **Probability:** Medium (30%, happens every 6-12 months)
 
 **Mitigation:**
+
 - Pin specific model versions in API calls
 - Test new models before migration
 - Have backup LLM provider (Claude + GPT-4)
@@ -818,6 +848,7 @@ All require same algorithm (LIS), but context differs.
 ### CodeSignal AI Approach
 
 **What They Do:**
+
 - AI Interviewer (conversational AI for screening)
 - AI Tutoring (Cosmo)
 - AI Proctoring
@@ -828,6 +859,7 @@ All require same algorithm (LIS), but context differs.
 ### HackerRank AI Approach
 
 **What They Do:**
+
 - AI-powered analytics
 - Some AI-assisted question creation (internal)
 - **NOT candidate-facing AI generation**
@@ -837,11 +869,13 @@ All require same algorithm (LIS), but context differs.
 ### Market Gap
 
 **Current State:**
+
 - All major players use static question libraries
 - Some variation (parameter tweaking) but not true generation
 - Question memorization still possible
 
 **Your Advantage:**
+
 - True AI generation = infinite questions
 - Impossible to memorize
 - First-to-market with this approach
@@ -875,18 +909,21 @@ All require same algorithm (LIS), but context differs.
 ### Phased Approach (Recommended)
 
 **Phase 1 (Months 1-3): Pre-Generated Library**
+
 - Generate 1K-10K questions offline
 - Human review and curate
 - Build assessment platform
 - Launch MVP with static (but AI-generated) library
 
 **Phase 2 (Months 4-6): Automated Quality**
+
 - Reduce human review to 10%
 - Scale to 10K+ questions
 - Implement anti-cheating
 - Beta test with real companies
 
 **Phase 3 (Months 7-12): Real-Time + Fine-Tuning**
+
 - Real-time generation for power users
 - Fine-tune custom model
 - Infinite variations
@@ -895,12 +932,14 @@ All require same algorithm (LIS), but context differs.
 ### Technology Choices
 
 **For MVP:**
+
 - ✅ Claude 3.5 Sonnet (best quality/cost balance)
 - ✅ Piston API (code execution)
 - ✅ PostgreSQL + MongoDB (database)
 - ✅ FastAPI or Express.js (backend)
 
 **For Scale:**
+
 - ✅ Fine-tuned Llama 3 70B (cost optimization)
 - ✅ Self-hosted Judge0 (scale code execution)
 - ✅ Vector DB for similarity search
@@ -910,6 +949,7 @@ All require same algorithm (LIS), but context differs.
 **Technical Feasibility: ✅ HIGHLY FEASIBLE**
 
 **Key Strengths:**
+
 1. **Technology Maturity** - LLMs (GPT-4, Claude) proven for code generation
 2. **Cost Effective** - $0.01-0.03 per question, decreasing to $0.001-0.005 with scale
 3. **Quality** - 80-90% quality achievable with good prompts
@@ -917,6 +957,7 @@ All require same algorithm (LIS), but context differs.
 5. **Scalability** - Can generate millions of questions
 
 **Key Challenges:**
+
 1. **Initial Quality Control** - Needs human review initially (100-200 hours)
 2. **Difficulty Calibration** - Requires testing and feedback loops
 3. **Anti-Cheating** - Need robust proctoring (but not unique to AI questions)
@@ -961,8 +1002,8 @@ All require same algorithm (LIS), but context differs.
 
 **Problem Statement:**
 
-Design and implement a cache system that stores key-value pairs with 
-a time-to-live (TTL) mechanism. The cache should automatically expire 
+Design and implement a cache system that stores key-value pairs with
+a time-to-live (TTL) mechanism. The cache should automatically expire
 entries after their TTL has passed.
 
 Implement the following operations:
@@ -999,4 +1040,3 @@ cache.get(1)  # returns -1 (expired)
 ```
 
 **Quality Assessment:** ✅ High quality, clear, solvable, original
-

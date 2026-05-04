@@ -77,6 +77,7 @@ Highly personalized education for each person
 - Coursera
 - Khan academy
 - Sparkl
+- Growth School
 
 ### New Age School
 
@@ -174,35 +175,6 @@ Service based company for education, people don't know how to train teacher, etc
 ## Parenting (app for parents to manage kids)
 
 Daily tasks that you can do with your kid with home items, etc
-
-## Adaptive Learning Platform
-
-- Edtech doesn't have too much money, not more than fintech or pure software play
-	- But have good moat, once you have captured the market
-	- Will not be a 100 crore exit
-	- Mostly Youtube content play
-	- For now AI cannot teach better than great humans, it can track and adapt, but not teach
-- Can we have something for people already in job (since they have spending power) - **Niche**
-	- Focus on salary, that you are earning x amount, but if you switch to this, or add these skills to your profile, you will earn y, create a full plan for them
-		- Targeted advertisement, directly for job salary increase
-		- Amalgamate job with skills
-			- Curate content, instead of creating content
-	- This is what helped me in my career, knowing about others salary, and then bridging gap to get to that salary
-- Have to work a lot in physical world
-- People problem
-- Too much diversity and fragmentation
-	- Separate coding platforms
-	- Separate quiz platforms
-	- Separate test taking platforms
-	- Separate news platforms
-	- From school to college to jobs
-	- Memory of everything that you have done
-	- Hardware problem too, since you have to give tabs to students to make them learn
-- Research market
-	- https://www.crackgovexam.com/ssc-polity-quiz/
-	- People search via youtube
-	- trends.google.com
-- [ai-as-mentor](education/ai-as-mentor.md)
 
 ## Links
 

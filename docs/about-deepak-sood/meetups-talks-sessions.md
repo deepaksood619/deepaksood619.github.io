@@ -171,6 +171,7 @@ This session will be a platform where cutting-edge ideas meet youthful curiosity
 - The orientation aims to provide students with insights into the practical and evolving landscape of AI, and your perspective would add immense value to this initiative. We believe your session would not only motivate the students but also help them understand the real-world relevance of their studies and the opportunities ahead.
 - Prof. Kamal Bijlani - Dean, School of Artificial Intelligence, Delhi NCR Faridabad Campus
 - Dr Divyanshu
+- Sri Mata Amritanandamayi Devi
 
 Deepak Sood
 

@@ -165,6 +165,11 @@
 - [Gemini Storybook — for the stories only you could imagine](https://gemini.google/overview/storybook/)
 - [RentAHuman.ai - Hire Humans for AI Agents \| MCP Integration](https://rentahuman.ai/)
 - [Relevance AI \| AI Agents for Sales & GTM Teams](https://relevanceai.com/)
+- HeyGen – for avatar-based video narration
+	- [Free AI Video Generator: Create Impressive Videos with AI](https://heygen.com)
+	- [The Best 6 HeyGen Alternatives to Consider in 2026 \| D-ID](https://www.d-id.com/blog/best-7-heygen-alternatives/)
+	- [HeyGen alternatives](https://www.reddit.com/r/generativeAI/comments/1ohcxyg/heygen_alternatives/)
+	- [Free HeyGen Alternative: Long-Form Storytelling without Avatars \| Crreo AI](https://www.crreo.ai/text-to-video/heygen-alternative)
 
 ## Purpose-built accelerators for generative AI
 

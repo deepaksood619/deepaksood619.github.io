@@ -561,15 +561,15 @@ tags: [sparkl, online-tutoring, k12, international-curriculum, india]
 
 **Unit Economics (Estimated):**
 
-| Metric | Estimate |
-|--------|----------|
-| **Price/student/month** | ₹15,000 ($180) |
-| **Tutor cost/session** | ₹500-1,000 ($6-12) |
-| **Sessions/month/student** | 8-12 |
-| **Gross margin** | 40-50% |
-| **CAC** | ₹5,000-10,000 ($60-120) |
-| **LTV (12 months)** | ₹1,80,000 ($2,160) |
-| **LTV/CAC** | 18-36x (if 12-month retention) |
+| Metric                     | Estimate                       |
+| -------------------------- | ------------------------------ |
+| **Price/student/month**    | ₹15,000 ($180)                 |
+| **Tutor cost/session**     | ₹500-1,000 ($6-12)             |
+| **Sessions/month/student** | 8-12                           |
+| **Gross margin**           | 40-50%                         |
+| **CAC**                    | ₹5,000-10,000 ($60-120)        |
+| **LTV (12 months)**        | ₹1,80,000 ($2,160)             |
+| **LTV/CAC**                | 18-36x (if 12-month retention) |
 
 **Challenges:**
 

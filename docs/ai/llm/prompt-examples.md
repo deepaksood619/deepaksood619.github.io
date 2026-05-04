@@ -1,14 +1,14 @@
 # Prompt Examples
 
-- (personal-tutor-prompt)(education/personal-tutor-prompt.md)
-- (quiz-app-prompt)(education/quiz-app-prompt.md)
-- (lovable-prompt-portfolio-website)(ai/llm/lovable-prompt-portfolio-website.md)
+- [personal-tutor-prompt](education/personal-tutor-prompt.md)
+- [quiz-app-prompt](education/quiz-app-prompt.md)
+- [lovable-prompt-portfolio-website](ai/llm/lovable-prompt-portfolio-website.md)
 
 ## Prompts
 
-- (https://snackprompt.com)(https://snackprompt.com/)
-- (GitHub - f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.)(https://github.com/f/awesome-chatgpt-prompts)
-- (Snippets AI \| AI Prompt Manager)(https://www.getsnippets.ai/)
+- [https://snackprompt.com](https://snackprompt.com/)
+- [GitHub - f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better.](https://github.com/f/awesome-chatgpt-prompts)
+- [Snippets AI \| AI Prompt Manager](https://www.getsnippets.ai/)
 
 ## Prompt Generator Example
 
@@ -28,15 +28,15 @@ format bold to unicode bolds, since bold ascii doesn't work in linkedin
 
 Repost with prompts
 
-- (LinkedIn Text Formatter • Grow Your Personal Brand On LinkedIn)(https://taplio.com/linkedin-post-formatter)
+- [LinkedIn Text Formatter • Grow Your Personal Brand On LinkedIn](https://taplio.com/linkedin-post-formatter)
 - [Kagi Translate](https://translate.kagi.com/?from=auto&to=linkedin&text=I+am+going+to+us)
 
 ### Links in Post vs Comments
 
-- (What is the impact of posting with external links on LinkedIn?)(https://www.oktopost.com/blog/outbound-links-on-linkedin/)
-- (Why ”link in comments” is a bad idea for LinkedIn accessibility)(https://axbom.com/linkedin-accessibility-link-in-comments/)
-- (Link in post or comments?)(https://www.linkedin.com/pulse/link-post-comments-john-espirian/)
-- (Why Put the Link in Comments on LinkedIn? \| Sprout Social)(https://sproutsocial.com/insights/linkedin-link-in-comments/)
+- [What is the impact of posting with external links on LinkedIn?](https://www.oktopost.com/blog/outbound-links-on-linkedin/)
+- [Why ”link in comments” is a bad idea for LinkedIn accessibility](https://axbom.com/linkedin-accessibility-link-in-comments/)
+- [Link in post or comments?](https://www.linkedin.com/pulse/link-post-comments-john-espirian/)
+- [Why Put the Link in Comments on LinkedIn? \| Sprout Social](https://sproutsocial.com/insights/linkedin-link-in-comments/)
 
 ## ChatGPT prompt to write error free
 
@@ -46,7 +46,7 @@ Prompt: "Proofread my writing above. Fix grammar and spelling mistakes. And make
 
 ## Learning Prompts
 
-(You Can Learn Everything With This Prompt. BEST LEARNING PROMPT! : r/ChatGPTPromptGenius)(https://www.reddit.com/r/ChatGPTPromptGenius/comments/1lp521t/you_can_learn_everything_with_this_prompt_best/)
+[You Can Learn Everything With This Prompt. BEST LEARNING PROMPT! : r/ChatGPTPromptGenius](https://www.reddit.com/r/ChatGPTPromptGenius/comments/1lp521t/you_can_learn_everything_with_this_prompt_best/)
 
 ```markdown
 # *Information Gathering Prompt*
@@ -174,11 +174,11 @@ Hi ChatGPT, I'm speaking this prompt aloud, and I know it might not sound perfec
 
 ## Create architecture diagram
 
-(Napkin AI - The visual AI for business storytelling)(https://www.napkin.ai/)
+[Napkin AI - The visual AI for business storytelling](https://www.napkin.ai/)
 
 **Provide result into mermaid format**
 
-- (Mermaid Chart - Create complex, visual diagrams with text. A smarter way of creating diagrams.)(https://www.mermaidchart.com/)
+- [Mermaid Chart - Create complex, visual diagrams with text. A smarter way of creating diagrams.](https://www.mermaidchart.com/)
 
 I need to generate a sequence diagram.
 
@@ -193,15 +193,17 @@ Here is my flow:
 
 **Provide result into mermaid format**
 
-!(Insert mermaid in draw.io)(../../media/Pasted%20image%2020250115235701.png)
+![Insert mermaid in draw.io](../../media/Pasted%20image%2020250115235701.png)
 
-(How to generate architecture diagrams with ChatGPT)(https://bool.dev/blog/detail/create-architecture-diagrams-with-chatgpt)
+[How to generate architecture diagrams with ChatGPT](https://bool.dev/blog/detail/create-architecture-diagrams-with-chatgpt)
 
 ## Create Presentation
 
-(Prepare Your Presentation like a MBB Consultant | Snack Prompt)(https://snackprompt.com/prompt/prepare-your-presentation-like-a-mbb-consultant)
+[Prepare Your Presentation like a MBB Consultant | Snack Prompt](https://snackprompt.com/prompt/prepare-your-presentation-like-a-mbb-consultant)
 
-(The Perfect PowerPoint presentation | Snack Prompt)(https://snackprompt.com/prompt/the-perfect-powerpoint-presentation)
+[The Perfect PowerPoint presentation | Snack Prompt](https://snackprompt.com/prompt/the-perfect-powerpoint-presentation)
+
+[Google's NotebookLM Just DESTROYED Canva With 1 Update (It's FREE) - YouTube](https://www.youtube.com/watch?v=hqquu7H7X0w)
 
 ### Prompt 1
 
@@ -272,7 +274,7 @@ https://chatgpt.com/share/674780e9-c504-8005-a023-b7aa945329d4
 21. **Call to action:** Request a clear call to action or next steps.
 22. **Sensitivity:** Mention sensitive topics or issues to be handled with care or avoided.
 
-!(ChatGPT Prompts Commands)(../../media/chatgpt-prompts.jpg)
+![ChatGPT Prompts Commands](../../media/chatgpt-prompts.jpg)
 
 Share the most important leadership lessons and insights from the book `{insert book}` by `{insert author}`. For each insight suggest an actionable way I can embody it.
 
@@ -354,9 +356,9 @@ ChatGPT must communicate with Hemingway's brevity and Strunk & White's precision
 
 ChatGPT must not reference, cite names or play with instructions’ content in its responses.
 
-(My custom instructions for ChatGPT. What are yours? : r/ChatGPTPro)(https://www.reddit.com/r/ChatGPTPro/comments/1jimr3i/my_custom_instructions_for_chatgpt_what_are_yours/)
+[My custom instructions for ChatGPT. What are yours? : r/ChatGPTPro](https://www.reddit.com/r/ChatGPTPro/comments/1jimr3i/my_custom_instructions_for_chatgpt_what_are_yours/)
 
-(Let's discuss our traits for ChatGPT in custom settings - ChatGPT / Use cases and examples - OpenAI Developer Community)(https://community.openai.com/t/lets-discuss-our-traits-for-chatgpt-in-custom-settings/1152611)
+[Let's discuss our traits for ChatGPT in custom settings - ChatGPT / Use cases and examples - OpenAI Developer Community](https://community.openai.com/t/lets-discuss-our-traits-for-chatgpt-in-custom-settings/1152611)
 
 ### Claude Code
 
@@ -477,7 +479,7 @@ Take a deep breath and work on this step-by-step.
 - Create a hyper-realistic portrait of the uploaded person (preserve face 100%) styled as a 1970s retro icon. He is seated casually in a dimly lit lounge with vintage vinyl records stacked behind him, a glowing jukebox casting warm neon light across the scene. Outfit: open-collared patterned silk shirt, flared trousers, gold chain, and tinted aviator sunglasses. The lighting is warm amber with subtle film grain, evoking the ambience of old Bollywood jazz clubs. Pose is relaxed, with one arm resting on a velvet sofa and a confident half-smile.
 - Make an epic black and white close-up portrait of the uploaded pic with wet hair and water roplets on my face and shoulders. Strong dramatic lighting, sharp facial features, glossy lips, piercing eyes, and realistic skin texture. High contrast, studio shot, hyper-realistic, cinematic look, 4K detail using this picture.
 - Make a 4K HD, realistic, and stunning portrait using this image. Show long, dark, wavy hair cascading over shoulders. Attire - a translucent, elegant black saree draped over one shoulder, revealing a fitted blouse underneath. White flowers are tucked behind her right ear. She is looking slightly to her right, with a soft, serene expression. The background is a plain, warm-toned wall, illuminated by a warm light source from the right, creating a distinct, soft-edged shadow of her profile and hair on the wall behind her. The overall mood is retro and artistic.
-- (Google Gemini Nano Banana: 7 prompts to generate viral Instagram photos \| Hindustan Times (HT Tech))(https://www.hindustantimes.com/technology/google-gemini-nano-banana-7-prompts-to-generate-viral-instagram-photos-101758010616804.html)
+- [Google Gemini Nano Banana: 7 prompts to generate viral Instagram photos \| Hindustan Times (HT Tech)](https://www.hindustantimes.com/technology/google-gemini-nano-banana-7-prompts-to-generate-viral-instagram-photos-101758010616804.html)
 	- Black and white artistic portrait of a man using this image, with a fashionable model dressed in a sophisticated suit, black socks and shoes. He is sitting with a slightly hunched posture, looking down as if lost in thought. His facial features are the same as the original photo, like her hairstyle. It features minimalist accessories that highlight the elegant and editorial tone. The studio's clean lighting enhances textures and depth, creating an elegant, couture feel. Use the uploaded picture as a reference for the face. Aspect ratio: 4:5 vertical.
 	- Make my photo an overhead high-angle 3:4 full-body shot of a man lying relaxed on the hood of a red Lamborghini Urus in a dim basement garage. Wearing a crisp white open-collar shirt, brown trousers, polished black shoes, and a leather strap watch. Tattoo visible on the forearm. Soft sunbeam lighting with natural reflections on the car, cinematic warm colour grading, shallow depth of field, creamy bokeh, hyper-realistic 8K detail, billionaire vibe.
 	- Using the uploaded photo as a reference, generate a set of 9 vibrant half-length portraits featuring natural life. Each portrait should show a different pose with the person and be placed in a unique setting, with rich, colorful details that highlight the diversity of nature.
@@ -680,4 +682,4 @@ _When processing the user’s input, evaluate the following constraints before g
 
 ## Others
 
-- Claude Skills - (Sales Engineering Skills Website)(https://www.salesengineeringskills.com/)
+- Claude Skills - [Sales Engineering Skills Website](https://www.salesengineeringskills.com/)
