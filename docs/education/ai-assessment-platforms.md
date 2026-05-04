@@ -483,7 +483,5 @@ status: active
 ## Cross-References
 
 - [Software Startup Analysis](ideas/software-startup-analysis.md)
-- [Startup Ideas SaaS](../startups-ideas-saas.md)
-- [AI/ChatGPT Ideas](../startups-ideas-saas.md#ai-chatgpt)
 - Market Analysis: To be created
 - Competitor Research: To be created
