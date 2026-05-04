@@ -405,7 +405,6 @@ The $10-20/month price point is **underserved**. Competitors jump from free (100
 
 ## Related Research
 
-- [GenAI Chatbot Market Analysis](2026-05-03-genai-chatbot-market-analysis.md)
 - Competitor: Chatling
 - Competitor: Noupe
 - Competitor: Intercom

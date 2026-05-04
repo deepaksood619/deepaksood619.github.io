@@ -9,18 +9,18 @@ tags: [hackerearth, technical-assessment, b2b-saas, india-market, asia-pacific]
 
 ## Company Overview
 
-**Founded:** 2012 (same year as HackerRank)
-**Headquarters:** San Francisco, USA & Bengaluru, India (dual HQ)
-**Founders:** Sachin Gupta, Vivek Prakash
+- **Founded:** 2012 (same year as HackerRank)
+- **Headquarters:** San Francisco, USA & Bengaluru, India (dual HQ)
+- **Founders:** Sachin Gupta, Vivek Prakash
 
-**Funding:** $26.8M raised (Series B, 2017: $12M)
-**Investors:** Beenext, Angelprime, DHI Group
+- **Funding:** $26.8M raised (Series B, 2017: $12M)
+- **Investors:** Beenext, Angelprime, DHI Group
 
-**Revenue:** $15-20M estimated (2024) - much smaller than HackerRank
-**Employees:** 200-300
-**Customers:** 1,000+ companies, 7M+ developers
+- **Revenue:** $15-20M estimated (2024) - much smaller than HackerRank
+- **Employees:** 200-300
+- **Customers:** 1,000+ companies, 7M+ developers
 
-**Public Status:** Private, bootstrapped initially, now VC-backed
+- **Public Status:** Private, bootstrapped initially, now VC-backed
 
 ## Market Position
 
@@ -716,9 +716,9 @@ tags: [hackerearth, technical-assessment, b2b-saas, india-market, asia-pacific]
 
 ## Related Research
 
+- [CodeSignal Analysis](education/competitors/codesignal-analysis.md) - AI-native challenger, premium pricing
 - [HackerRank Analysis](education/competitors/hackerrank-analysis.md) - Market leader analysis
 - [Technical Hiring Market](education/market-analysis/technical-hiring-assessment-market.md) - Full market overview
-- B2B Coding Assessment - Strategy deep-dive
 - [AI Coding Test Platform](education/ai-coding-test-platform.md) - Main idea page
 
 ---
