@@ -35,23 +35,30 @@ Education is broken and it's high time to fix it.
 - [Mistakes & Apology](learning/mistakes-apology.md)
 - [Learning Intro](learning/learning-intro.md)
 - [Conversational Interfaces](learning/conversational-interfaces.md)
+- [adaptive-learning-platform](education/learning/adaptive-learning-platform.md)
 
-### Market Research
+### Market Research & Technical Analysis
 
 **market-analysis/** folder:
 
 - [Technical Hiring Assessment Market](market-analysis/technical-hiring-assessment-market.md) - $8-10B TAM analysis
+
+**Technical Feasibility:**
+
+- [AI Question Generation Feasibility](technical-feasibility-ai-question-generation.md) - Architecture, costs, implementation phases, risk analysis
 
 ### Competitors
 
 **competitors/** folder:
 
 **Technical Assessment:**
+
 - [CodeSignal Analysis](competitors/codesignal-analysis.md) - AI-native enterprise leader, premium pricing
 - [HackerRank Analysis](competitors/hackerrank-analysis.md) - Market leader, 40% share, enterprise focus
 - [HackerEarth Analysis](competitors/hackerearth-analysis.md) - India/Asia leader, competitive pricing
 
 **K-12 Tutoring:**
+
 - [Sparkl Analysis](competitors/sparkl-analysis.md) - Premium 1:1 tutoring, IB/IGCSE focus, founder-led
 
 ### Strategic Context

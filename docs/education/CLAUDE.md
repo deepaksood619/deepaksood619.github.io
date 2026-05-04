@@ -12,7 +12,7 @@ This is an **LLM-maintained wiki** where Claude actively:
 - Detects contradictions and updates claims
 - Builds a structured, queryable knowledge base
 
-**Human:** Curate sources, direct analysis, ask questions.  
+**Human:** Curate sources, direct analysis, ask questions.
 **LLM:** Bookkeeping, cross-referencing, consistency, synthesis.
 
 ## Content Catalog
@@ -120,7 +120,7 @@ Format: `[YYYY-MM-DD] <action> - <description> - <source>`
 
 **CRITICAL:** Use standard markdown links, NOT Obsidian wikilinks.
 
-❌ Wrong: `[[active-learning]]` (breaks Docusaurus)  
+❌ Wrong: `[[active-learning]]` (breaks Docusaurus)
 ✅ Correct: `[Active Learning](education/pedagogical-theories/active-learning.md)`
 
 **Link Path Requirements:**
@@ -162,6 +162,7 @@ How this research informs product decisions
 ### Key Workflows
 
 **Ingest Research:**
+
 1. Create note with frontmatter
 2. Search & update 10-15 related pages
 3. Add cross-references
@@ -169,6 +170,7 @@ How this research informs product decisions
 5. Update content catalog in `readme.md`
 
 **Query & Synthesize:**
+
 1. Search wiki (CLI or grep)
 2. Check backlinks/outgoing links
 3. Synthesize with citations
@@ -176,12 +178,14 @@ How this research informs product decisions
 5. Log query
 
 **Link Maintenance:**
+
 - Search for concepts mentioned but not linked
 - Check backlinks to find connections
 - Find orphans, add cross-references
 - Note contradictions explicitly with ⚠️
 
 **Periodic Lint:**
+
 - Check orphans, dead-ends, broken links
 - Review recent changes, tag consistency
 - Update stale research, consolidate duplicates
@@ -191,12 +195,14 @@ How this research informs product decisions
 **See `/docs/CLAUDE.md`** for full Docusaurus markdown guidelines (blank lines, code blocks, MDX compatibility).
 
 **Key rules:**
+
 - Blank lines between all content blocks
 - Standard markdown links (no wikilinks)
 - Language specified for code blocks
 - Relative paths for links/images
 
 **MDX compatibility (CRITICAL):**
+
 - Escape `<` and `>` symbols with backticks: `<50` employees, `>100` users
 - Don't use `[]` square brackets without escape (used for links/anchor tags)
 - These symbols are parsed as JSX/HTML tags in MDX and will break the build

@@ -16,6 +16,7 @@ tags: [codesignal, technical-assessment, b2b-saas, ai-native, enterprise]
 **Founders:** Tigran Sloyan (CEO), Aram Shatakhtsyan
 
 **Funding:** $87M+ raised total
+
 - Series C (2021): $50M at $500M+ valuation
 - Led by Index Ventures, Menlo Ventures, Headline
 

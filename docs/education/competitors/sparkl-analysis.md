@@ -25,12 +25,12 @@ tags: [sparkl, online-tutoring, k12, international-curriculum, india]
   - Founder and Trustee of Plaksha University
   - MBA from Indian School of Business, Harvard Business School
   - Recognized as "Disruptive Leader" by Business World
-  
+
 - **Pavan Chauhan** - Co-founder
   - Founded Meritnation.com (2009) - India's first edtech platform
   - B.E. from NIT Karnataka, PGDM from IIM Bangalore
   - Extensive teaching and content creation experience
-  
+
 - **Ritesh Hemrajani** - Co-founder
   - Co-founder of Meritnation.com
   - 28+ years in K12 education, test prep, publishing
@@ -72,7 +72,7 @@ tags: [sparkl, online-tutoring, k12, international-curriculum, india]
    - Personalized 1:1 sessions
    - Subject-specific tutors
    - Real-time interaction
-   
+
 2. **Personalized Learning Paths**
    - Customized based on student performance
    - Adapted to learning style
@@ -90,7 +90,7 @@ tags: [sparkl, online-tutoring, k12, international-curriculum, india]
 **Subject Coverage:**
 
 - Mathematics
-- Physics  
+- Physics
 - Chemistry
 - Biology
 
@@ -129,7 +129,7 @@ tags: [sparkl, online-tutoring, k12, international-curriculum, india]
   - Allows teachers to see student work in real-time
   - Students write on paper, teacher sees it live
   - Bridges physical and digital learning
-  
+
 - Online platform (web-based, likely mobile app)
 - Video conferencing integration
 - Digital whiteboard
