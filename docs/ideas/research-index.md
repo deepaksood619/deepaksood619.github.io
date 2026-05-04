@@ -97,7 +97,7 @@ Last updated: 2026-05-02
 
 **Market Research:**
 
-- [AI Assessment Platforms Analysis](raw/2026-05-02-ai-assessment-platforms.md)
+- [AI Assessment Platforms Analysis](startup-ideas/ai-assessment-platforms.md)
 - Technical Interview Market
 - EdTech B2C Monetization
 
@@ -190,17 +190,22 @@ Last updated: 2026-05-02
 
 ---
 
-## Raw Research & Analysis
+## Research & Analysis
 
 **Comprehensive Research Documents:**
 
-- [Software-Focused Solo Founder Analysis](raw/2026-05-02-software-startup-analysis.md)
-- [AI Assessment Platforms Deep Dive](raw/2026-05-02-ai-assessment-platforms.md)
+- [Software-Focused Solo Founder Analysis](startup-ideas/software-startup-analysis.md) - Comparison of multiple startup opportunities
+- [AI Assessment Platforms Deep Dive](startup-ideas/ai-assessment-platforms.md) - Comparison of 7 AI assessment platform ideas
+
+**Research Merged into Idea Pages:**
+
+- B2B Coding Assessment research → merged into [AI Coding Test Platform](startup-ideas/ai-coding-test-platform.md)
+- GenAI Chatbot Market Analysis → merged into [GenAI Website Chatbot](startup-ideas/genai-website-chatbot.md)
 
 **To Be Created:**
 
-- Market sizing for each domain
-- Competitor deep dives
+- Market sizing for additional domains
+- More competitor deep dives
 - Technical architecture plans
 - Financial projections
 - GTM playbooks

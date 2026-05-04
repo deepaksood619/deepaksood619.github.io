@@ -70,13 +70,13 @@ Open-source, lightweight API client with optional cloud sync. Core features free
 
 **Competitive Landscape:**
 
-| Tool | Model | Users | Strengths | Weaknesses |
-|------|-------|-------|-----------|------------|
-| Postman | Freemium | 25M | Features, brand | Expensive, bloated |
-| Insomnia | Freemium | 1M+ | Clean UI | Kong acquisition, less focus |
-| Bruno | Open-source | Growing | Local-first, Git-friendly | Early stage, limited features |
-| Hoppscotch | Open-source | Growing | Web-based, fast | Lacks enterprise features |
-| Thunder Client | Freemium | 2M+ | VS Code native | Limited features |
+| Tool           | Model       | Users   | Strengths                 | Weaknesses                    |
+| -------------- | ----------- | ------- | ------------------------- | ----------------------------- |
+| Postman        | Freemium    | 25M     | Features, brand           | Expensive, bloated            |
+| Insomnia       | Freemium    | 1M+     | Clean UI                  | Kong acquisition, less focus  |
+| Bruno          | Open-source | Growing | Local-first, Git-friendly | Early stage, limited features |
+| Hoppscotch     | Open-source | Growing | Web-based, fast           | Lacks enterprise features     |
+| Thunder Client | Freemium    | 2M+     | VS Code native            | Limited features              |
 
 **Market Gap:**
 
@@ -110,12 +110,12 @@ Open-source, lightweight API client with optional cloud sync. Core features free
 
 **Pricing Strategy:**
 
-| Tier | Price | Features | Target |
-|------|-------|----------|--------|
-| Free | $0 | All core features, local-only | Individual devs |
-| Pro | $10/month | Cloud sync, 3 team members | Freelancers, small teams |
-| Team | $25/user/month | Unlimited team, SSO, admin | Growing companies |
-| Enterprise | Custom | On-premise, audit logs, SLA | Large enterprises |
+| Tier       | Price          | Features                      | Target                   |
+| ---------- | -------------- | ----------------------------- | ------------------------ |
+| Free       | $0             | All core features, local-only | Individual devs          |
+| Pro        | $10/month      | Cloud sync, 3 team members    | Freelancers, small teams |
+| Team       | $25/user/month | Unlimited team, SSO, admin    | Growing companies        |
+| Enterprise | Custom         | On-premise, audit logs, SLA   | Large enterprises        |
 
 **Comparison (vs Postman):**
 

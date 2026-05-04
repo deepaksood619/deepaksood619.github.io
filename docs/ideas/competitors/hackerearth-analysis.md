@@ -718,7 +718,7 @@ tags: [hackerearth, technical-assessment, b2b-saas, india-market, asia-pacific]
 
 - [HackerRank Analysis](./hackerrank-analysis.md) - Market leader analysis
 - [Technical Hiring Market](../market-analysis/technical-hiring-assessment-market.md) - Full market overview
-- [B2B Coding Assessment](../raw/2026-05-03-b2b-coding-assessment-deep-dive.md) - Strategy deep-dive
+- [B2B Coding Assessment](../startup-ideas/2026-05-03-b2b-coding-assessment-deep-dive.md) - Strategy deep-dive
 - [AI Coding Test Platform](../startup-ideas/ai-coding-test-platform.md) - Main idea page
 
 ---

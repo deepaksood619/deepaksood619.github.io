@@ -482,7 +482,7 @@ status: active
 
 ## Cross-References
 
-- [Software Startup Analysis](2026-05-02-software-startup-analysis.md)
+- [Software Startup Analysis](software-startup-analysis.md)
 - [Startup Ideas SaaS](../startups-ideas-saas.md)
 - [AI/ChatGPT Ideas](../startups-ideas-saas.md#ai-chatgpt)
 - Market Analysis: To be created

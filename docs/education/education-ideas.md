@@ -20,7 +20,7 @@ Highly personalized education for each person
 
 ## People
 
-- [linkedin.com/in/maheshwer-peri-1723ba3b/](https://www.linkedin.com/in/maheshwer-peri-1723ba3b/)
+- Maheshwer Peri - [linkedin.com/in/maheshwer-peri-1723ba3b/](https://www.linkedin.com/in/maheshwer-peri-1723ba3b/)
 - former president and publisher of the Outlook group
 - I am a dreamer. I dream of an equal world. A fair world. A world where every one has equal opportunities and a fair shot at fame. A world that is rational, questioning and has heaps of scientific temper co-existing with trust and faith. I want to create an enterprise that impacts, influences and transforms careers and lives.
 - I also believe that in a country like India, the only tool of empowerment is education. Good education can make billionaires out of paupers and bad education can do the opposite. If India has to claim its demographic dividend, we need to invest in our children, our youth through education. A misguided young population can quickly turn into a nightmare. I hope that I will be that spark that keeps fighting in small bits for India to be where it deserves. Dr. Man Mohan Singh and Dr.Kalam are my heroes – from how they were best students to become great leaders.
@@ -91,6 +91,8 @@ Highly personalized education for each person
 - [Edtech 2.0: What's the Future of Indian Edtech after BYJU's fall? - YouTube](https://www.youtube.com/watch?v=ps4QlKnTMsk)
 - [Indian Ed-Tech Is NOT DEAD \| Opportunities for 2024 - YouTube](https://www.youtube.com/watch?v=UnGHwkoe764)
 	- [EdTech Landscape In India: What Changed In The Post Pandemic Years - Blume](https://blume.vc/reports/edtech-landscape-in-india-what-changed-in-the-post-pandemic-years)
+- [Mad About Markets \| Future Of India's Ed-Tech Sector \| CNBC TV18 - YouTube](https://www.youtube.com/watch?v=bLN1IP-IUqc)
+- [Khan Academy to launch a new AI degree - YouTube](https://www.youtube.com/watch?v=aA5eoXPFcIg)
 
 ## Global Education
 
@@ -200,35 +202,6 @@ Daily tasks that you can do with your kid with home items, etc
 	- https://www.crackgovexam.com/ssc-polity-quiz/
 	- People search via youtube
 	- trends.google.com
-- Create presentation
-- Talk to competitors and people in same space
-	- Sanchit
-	- Raghav
-	- Maheshwar Puri
-	- Amarjeet
-	- Felix, Simmi
-	- Khan Sir
-	- Alakh pandey
-- Talk to other founders
-	- Mayank
-	- PC
-- Talk to target audience
-	- Govt job finders
-	- College students
-	- Job Seekers
-	- Learners
-	- Parents
-	- Colleges / Schools
-	- Youtube influencers
-	- Check
-		- See what is the paying potential
-		- How they use mobile/laptop
-			- Youtube/Google
-		- How do they get notification of job vacancies
-		- How they study
-		- How they search
-- Why byju's failed
-- Create POC / Pilot
 - [ai-as-mentor](education/ai-as-mentor.md)
 
 ## Links

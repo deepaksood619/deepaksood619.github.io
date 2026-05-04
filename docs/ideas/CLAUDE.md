@@ -18,14 +18,13 @@ This is an **LLM-maintained research wiki** where Claude:
 
 ```bash
 ideas/
-├── research-index.md              # Master catalog by priority/domain
+├── research-index.md     # Master catalog by priority/domain
 ├── log.md                # Chronological activity log
-├── raw/                  # Raw research & analysis
-│   └── YYYY-MM-DD-topic.md
-├── startup-ideas/        # Structured startup idea pages
-│   └── idea-name.md
-├── market-analysis/      # Market sizing, trends, competitive landscape (to be created)
-├── competitors/          # Company profiles, comparisons (to be created)
+├── startup-ideas/        # Startup idea pages + research analysis
+│   ├── idea-name.md                  # Structured startup idea pages
+│   └── topic-analysis.md             # Research & market analysis
+├── market-analysis/      # Market sizing, trends, competitive landscape
+├── competitors/          # Company profiles, comparisons
 ├── business-models/      # Revenue models, pricing, unit economics (to be created)
 ├── tech-stacks/          # Technology architectures (to be created)
 ├── gtm-strategies/       # Go-to-market approaches (to be created)
@@ -144,7 +143,7 @@ Which ideas does this inform? How?
 
 **When given new research:**
 
-1. Create raw research file in `raw/YYYY-MM-DD-topic.md`
+1. Create research file in `startup-ideas/topic-analysis.md` (descriptive name, no dates)
 2. Update 5-10 related pages (startup ideas, market analysis, competitors)
 3. Create cross-links across domains
 4. Update `research-index.md` and `log.md`
@@ -167,11 +166,11 @@ Which ideas does this inform? How?
 
 ## File Naming
 
-- **Startup ideas:** `idea-name.md` (descriptive, lowercase, hyphens)
-- **Raw research:** `YYYY-MM-DD-topic.md` (dated for chronology)
-- **Market analysis:** `domain-market-size.md`, `domain-trends.md`
-- **Competitors:** `company-name.md`
-- **Cross-domain:** `topic-comparison.md`
+- **Startup ideas:** `idea-name.md` (descriptive, lowercase, hyphens) - in `startup-ideas/`
+- **Research analysis:** `topic-analysis.md` (descriptive, no dates) - in `startup-ideas/`
+- **Market analysis:** `domain-market-size.md`, `domain-trends.md` - in `market-analysis/`
+- **Competitors:** `company-name.md` - in `competitors/`
+- **Cross-domain:** `topic-comparison.md` - in relevant category folder
 
 ## Research Standards
 
@@ -213,10 +212,10 @@ VAULT="/Users/deepaksood/Library/CloudStorage/GoogleDrive-dsood@confluent.io/.sh
 
 ```bash
 # Create new research file
-/Applications/Obsidian.app/Contents/MacOS/Obsidian create path="ideas/raw/2026-05-03-topic.md" content="[markdown content]" vault="$VAULT"
+/Applications/Obsidian.app/Contents/MacOS/Obsidian create path="ideas/startup-ideas/topic-analysis.md" content="[markdown content]" vault="$VAULT"
 
 # Append to existing file (like log.md)
-/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="ideas/log.md" content="[2026-05-03] [DOMAIN] ACTION - description\n" vault="$VAULT"
+/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="ideas/log.md" content="[2026-05-04] [DOMAIN] ACTION - description\n" vault="$VAULT"
 ```
 
 **Search & Discovery:**
