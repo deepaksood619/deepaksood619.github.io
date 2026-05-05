@@ -933,7 +933,7 @@ Due to research limitations (web search failures, expired SSL certificate on mya
 - [Alpha School Analysis](education/competitors/alpha-school-analysis.md) - $40K/year AI-powered microschool
 - [Technical Hiring Market](education/competitors/technical-hiring-assessment-market.md) - Market sizing for assessment platforms
 - [AI Question Generation Feasibility](education/technical-feasibility-ai-question-generation.md) - Technical architecture for AI-native platform
-- [Adaptive Learning Platform Concept](education/adaptive-learning-platform.md) - Working professional focus (differentiated segment)
+- [adaptive-learning-platform](education/pedagogy/adaptive-learning-platform.md) - Working professional focus (differentiated segment)
 
 ---
 
@@ -943,11 +943,6 @@ Due to research limitations (web search failures, expired SSL certificate on mya
 
 - LinkedIn Profile: https://www.linkedin.com/in/qudduspat/ (accessed via ae.linkedin.com redirect)
 - Website: https://asi.tech (redirects to myasi.com, SSL expired, inaccessible)
-- Business Insider: [Article referenced but inaccessible due to paywall/blocking]
-
-**Secondary Sources:**
-
-- education-ideas.md file (internal documentation with ASI references)
 
 **Sources Attempted (Failed):**
 

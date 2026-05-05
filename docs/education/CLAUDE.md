@@ -97,12 +97,7 @@ Format: `[YYYY-MM-DD] <action> - <description> - <source>`
 
 **Folder structure to organize research:**
 
-- **pedagogical-theories/** - Constructivism, Montessori, Waldorf, project-based learning
-- **learning-science/** - Cognitive load, spaced repetition, retrieval practice, metacognition
-- **edtech/** - LMS platforms, adaptive learning, AI tutors, assessment tools
-- **assessment/** - Formative, summative, authentic assessment, rubrics
-- **researchers/** - Notable researchers and their work
-- **frameworks/** - Bloom's taxonomy, Webb's DOK, SAMR model
+- **pedagogy/** - Constructivism, Montessori, Waldorf, project-based learning
 - **competitors/** - Platform analyses
 
 ## Obsidian CLI Usage

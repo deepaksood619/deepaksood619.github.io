@@ -640,7 +640,6 @@ tags: [sparkl, online-tutoring, k12, international-curriculum, india]
 - [HackerRank Analysis](education/competitors/hackerrank-analysis.md) - Market leader in tech assessment
 - [HackerEarth Analysis](education/competitors/hackerearth-analysis.md) - India/Asia assessment leader
 - [Personal Tutor Concept](education/personal-tutor.md) - AI tutor product idea
-- [Education Ideas](education/education-ideas.md) - Startup ideas and market landscape
 
 ---
 

@@ -12,4 +12,5 @@
 - [Exams](education/pedagogy/exams.md)
 - [Course - Learning how to Learn](education/pedagogy/course-learning-how-to-learn.md)
 - [adaptive-learning-platform](education/pedagogy/adaptive-learning-platform.md)
+- [adaptive-learning-algorithms](education/pedagogy/adaptive-learning-algorithms.md)
 - [note-taking-second-brain-pkm-zettelkasten](education/pedagogy/note-taking-second-brain-pkm-zettelkasten.md)

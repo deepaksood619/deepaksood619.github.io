@@ -27,19 +27,6 @@ ideas/
 └── validation/           # Problem/solution validation research (to be created)
 ```
 
-## Domain Taxonomy
-
-**Core Domains:**
-
-- **edtech/** - Education technology (AI tutoring, assessments, learning platforms)
-- **devtools/** - Developer tools (API testing, code review, productivity)
-- **hr-tech/** - Hiring, recruiting, interview platforms
-- **ai-ml/** - AI/ML applications (cross-domain)
-
-**Cross-Domain Topics:**
-
-- business-models/, tech-stacks/, gtm-strategies/, validation/, competitors/
-
 ## Key Files
 
 **research-index.md** - Content catalog organized by:

@@ -35,7 +35,8 @@ Education is broken and it's high time to fix it.
 - [Mistakes & Apology](education/pedagogy/mistakes-apology.md)
 - [Learning Intro](education/pedagogy/learning-intro.md)
 - [Conversational Interfaces](education/pedagogy/conversational-interfaces.md)
-- [adaptive-learning-platform](education/pedagogy/adaptive-learning-platform.md)
+- [Adaptive Learning Platform](education/pedagogy/adaptive-learning-platform.md) - Product concept
+- [Adaptive Learning Algorithms: IRT & BKT](education/pedagogy/adaptive-learning-algorithms.md) - Deep dive on Bayesian Knowledge Tracing and Item Response Theory: probabilistic student modeling, ability estimation, optimal question selection, mastery thresholds, why most "adaptive" systems fail
 
 ### Competitors
 

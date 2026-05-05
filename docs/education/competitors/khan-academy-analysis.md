@@ -867,6 +867,6 @@ Khan Academy originated from Sal Khan's informal YouTube tutoring videos for his
 
 - [CodeSignal Analysis](education/competitors/codesignal-analysis.md) - AI-native technical assessment
 - [Coursera Analysis](education/competitors/coursera-analysis.md) - MOOC enterprise leader
-- [Adaptive Learning Platform Concept](education/adaptive-learning-platform.md) - Working professional focus
+- [adaptive-learning-platform](education/pedagogy/adaptive-learning-platform.md) - Working professional focus
 - [Technical Hiring Market](education/competitors/technical-hiring-assessment-market.md) - Market sizing
 - [AI Question Generation Feasibility](education/technical-feasibility-ai-question-generation.md) - Technical architecture

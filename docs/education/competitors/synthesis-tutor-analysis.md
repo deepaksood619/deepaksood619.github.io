@@ -960,9 +960,8 @@ For our startup, Synthesis validates demand for premium AI tutoring but leaves m
 
 **Cross-References to Create:**
 
-- [Learning Science - Adaptive Learning](education/learning-science/adaptive-learning.md)
-- [EdTech - AI Tutoring](education/edtech/ai-tutoring.md)
-- [Neurodiversity in Education](education/learning-science/neurodiversity.md)
+- [adaptive-learning-platform](education/pedagogy/adaptive-learning-platform.md)
+- Neurodiversity in Education
 - [Khan Academy Analysis](education/competitors/khan-academy-analysis.md)
 - [Alpha School Analysis](education/competitors/alpha-school-analysis.md)
 - Josh Dahn Profile

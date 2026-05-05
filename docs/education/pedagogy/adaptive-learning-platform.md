@@ -1571,7 +1571,6 @@ Current: Frontend Dev, Bangalore, 4 YOE = ₹8L
 
 - [Personal Tutor Concept](education/personal-tutor.md) - AI tutor for K-12
 - [Sparkl Analysis](education/competitors/sparkl-analysis.md) - Premium 1:1 tutoring competitor
-- [Education Ideas](education/education-ideas.md) - Broader edtech concepts
 - [AI as Mentor](education/ai-as-mentor.md) - AI mentorship framework
 
 ---
@@ -1579,11 +1578,10 @@ Current: Frontend Dev, Bangalore, 4 YOE = ₹8L
 ## Sources
 
 - Smart Sparrow - Adaptive Learning Methodologies
-- Education-Ideas.md - Original concept notes
 - Market research (Coursera, Pluralsight, Degreed pricing/features)
 - Duolingo, Khan Academy adaptive approaches (general knowledge)
 
-**Note:** This is a comprehensive analysis based on existing research, market knowledge, and the original concept from education-ideas.md. Further primary research (user interviews, competitive deep-dives, technical prototyping) recommended before full development.
+**Note:** This is a comprehensive analysis based on existing research, market knowledge, and the original concept from internal docs. Further primary research (user interviews, competitive deep-dives, technical prototyping) recommended before full development.
 
 ## Adaptive Learning Platform
 
