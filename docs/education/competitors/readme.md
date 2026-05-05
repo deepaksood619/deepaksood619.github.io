@@ -33,3 +33,56 @@
 **Consolidated Platform Analysis:**
 
 - [Consolidated EdTech Platforms](competitors/consolidated-edtech-platforms.md) - 20+ platforms: AI tutors (YouLearn, Tutor AI, Disha AI, Knowunity), edtech (Infinity Learn, Seekho, Unstop), bootcamps (Emeritus, Masai School, GrowthX), LMS (Frappe, Graphy, Edmingle)
+
+## Business
+
+- JEE Preparation
+- UPSC Preparation
+
+### Competitors
+
+- **[app.youlearn.ai](https://app.youlearn.ai/)**
+- [linkedin.com/in/qudduspat/](https://www.linkedin.com/in/qudduspat/)- qp@asi.tech
+- [How a High Schooler in Dubai Built ASI, One of the Most Promising AI Edtech Startups](https://www.businessinsider.com/edtech-asi-ai-dubai-chatbot-tutoring-assistant-2023-9?IR=T)
+- [ASI | Home](https://www.asi.tech/)
+- [Tutor AI - Your personal AI tutor to learn anything](https://tutorai.me/)
+- [Meet Khanmigo, Khan Academy's AI-powered teaching assistant & tutor](https://www.khanmigo.ai/)
+- [Khan Academy | Free Online Courses, Lessons & Practice](https://www.khanacademy.org/)
+- Youtube Learning (Experimental)
+- [Sakshm AI](https://sakshm.com/)
+	- [Disha AI](https://getdisha.ai/)
+	- [Disha AI - Match Pairs](https://getdisha.ai/match-pairs)
+- [**Sensai**](https://sensai.hyperverge.org/)
+- [Cadmus](https://cadmus.io/)
+- [Infinity Learn: Your Pathway to Success in K-12, IIT-JEE & NEET Exams](https://infinitylearn.com/)
+- [Learn with OLL \| Live Online Activities for Skill Development \| Online Live Learning](https://www.oll.co/)
+- [Synthesis Tutor](https://www.synthesis.com/tutor)
+- [Seekho: Short Learning Videos on Tech, Money, Personal Growth, & More \| Seekho](https://seekho.in/)
+- [Certified AI & Machine Learning Courses \| Rabbitt Learning](https://learning.rabbitt.ai/)
+- [Unstop: Connecting talent, colleges, & recruiters!](https://unstop.com/)
+- [AI Chat - Your Personal AI Tutor \| Knowunity](https://knowunity.com/ai/chat)
+- Emeritus
+- Unacademy
+- Masai school
+- Edx
+- Coursera
+- Khan academy
+- Sparkl
+- Growth School
+
+### New Age School
+
+- MasterUnion / MastersUnion / Master Union
+	- [Masters' Union: Learn Business by Running Business](https://mastersunion.org/)
+- GrowthX
+- [Hive School](https://hiveschool.co/curriculum#scholarship-avenues-fornav)
+
+### EdTech
+
+- [Spotlight On India's EdTech Industry, Opportunities & Challenges \| CNBC TV18 Mad About Markets - YouTube](https://www.youtube.com/watch?v=VQFZbchdTTI)
+- [Edtech 2.0: What's the Future of Indian Edtech after BYJU's fall? - YouTube](https://www.youtube.com/watch?v=ps4QlKnTMsk)
+- [Indian Ed-Tech Is NOT DEAD \| Opportunities for 2024 - YouTube](https://www.youtube.com/watch?v=UnGHwkoe764)
+	- [EdTech Landscape In India: What Changed In The Post Pandemic Years - Blume](https://blume.vc/reports/edtech-landscape-in-india-what-changed-in-the-post-pandemic-years)
+- [Mad About Markets \| Future Of India's Ed-Tech Sector \| CNBC TV18 - YouTube](https://www.youtube.com/watch?v=bLN1IP-IUqc)
+- [Khan Academy to launch a new AI degree - YouTube](https://www.youtube.com/watch?v=aA5eoXPFcIg)
+- [Ep #5 \| EdTech What’s Broken, What’s Next? With Nikhil, Ronnie Screwvala , Gaurav Munjal & Jay Kotak - YouTube](https://www.youtube.com/watch?v=01qfxLY2rhQ)

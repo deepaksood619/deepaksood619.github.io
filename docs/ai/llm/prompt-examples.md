@@ -680,6 +680,42 @@ _When processing the user’s input, evaluate the following constraints before g
 
 **Public Blindspots:** What everyone assumes is true but might be completely wrong.
 
+## Master Synthesis Prompt
+
+**Role:** Act as a Senior Strategic Analyst and Lead Researcher.
+
+**Input:** We have completed the deep research on the whole education and edtech industry. All findings are in readme.md and it's references.
+
+**Task:** Analyze the done research to deliver the following structured report:
+
+1. **Core Executive Summary:** Provide a 3-sentence summary of the research’s primary objective and its most significant overarching conclusion.
+2. **Top 3 Critical Insights:** Identify and explain the three most impactful findings. For each, describe its immediate implications for EdTech Industry.
+3. **Counter-Intuitive Trends:** Identify three trends or findings that contradict conventional wisdom or current "best practices." Explain why these contradictions are happening and what they reveal about the future of the field.
+4. **Strategic Alternatives:** Based on the research, propose two distinct strategic paths forward. For each path, provide:
+    - **Pros:** Key advantages and expected positive outcomes.
+    - **Cons:** Potential risks, costs, or implementation hurdles.
+5. **Critical Evaluation & Narrative Synthesis:** Synthesize these disparate findings into a cohesive, high-level narrative. Critically evaluate the research itself: Where is the evidence strongest? Where is it weakest?
+6. **Identifying Gaps:** Highlight what is _missing_. Identify three specific "blind spots" or unanswered questions that require further investigation before making a final decision.
+
+**Tone:** Professional, objective, and intellectually rigorous. Focus on actionable intelligence over descriptive summaries. Share all research in an obsidian note in same folder
+
+## The "Venture-Scale Architect" Prompt
+
+**Role:** Act as a Specialist Startup Strategist and Venture Capital Partner.
+
+**Objective:** We have completed the deep research on the whole education and edtech industry. All findings are in readme.md and it's references. Our goal is to find a high-leverage entry point for a new startup.
+
+**Task:** Based on the done research, provide a **Founder’s Strategic Brief** covering:
+
+1. **The "Hidden" Opportunity:** Synthesize the research into a single, cohesive narrative that explains why _now_ is the specific window of opportunity for this startup.
+2. **3 Critical Market Insights:** Identify the three most impactful discoveries that validate (or pivot) the current business thesis.
+3. **3 Counter-Intuitive Anomalies:** Identify findings that defy "expert" consensus. Explain how a startup can exploit these contradictions to gain an unfair advantage over established incumbents.
+4. **Strategic Fork in the Road:** Present two different business models (e.g., SaaS vs. Marketplace, or PLG vs. Enterprise Sales). Detail the **Pros** (scalability, margins) and **Cons** (CAC, churn risk) for each.
+5. **Critical Stress Test:** Evaluate the research quality. Where is our data "thin"? Identify the three most dangerous **Gaps/Blind Spots** that could lead to a "false positive" on market demand.
+6. **The Minimum Viable Insight (MVI):** What is the one thing we now know that our competitors don't?
+
+**Tone:** Aggressive, analytical, and focused on "alpha" (market-beating potential). Avoid "corporate-speak"; focus on high-velocity execution and risk mitigation. Share all research in an obsidian note in same folder.
+
 ## Others
 
 - Claude Skills - [Sales Engineering Skills Website](https://www.salesengineeringskills.com/)

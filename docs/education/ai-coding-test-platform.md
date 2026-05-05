@@ -487,7 +487,7 @@ AI-powered coding assessment platform that generates unique coding problems for 
 
 - [AI Assessment Platforms Analysis](education/ai-assessment-platforms.md) - Comparison of 7 AI assessment ideas
 - [Software Startup Analysis](ideas/software-startup-analysis.md) - Solo founder opportunities
-- [Technical Hiring Market](education/market-analysis/technical-hiring-assessment-market.md) - Full market overview
+- [Technical Hiring Market](education/competitors/technical-hiring-assessment-market.md) - Full market overview
 - [HackerRank Analysis](education/competitors/hackerrank-analysis.md) - Market leader deep-dive
 - [HackerEarth Analysis](education/competitors/hackerearth-analysis.md) - India competitor analysis
 

@@ -718,7 +718,7 @@ tags: [hackerearth, technical-assessment, b2b-saas, india-market, asia-pacific]
 
 - [CodeSignal Analysis](education/competitors/codesignal-analysis.md) - AI-native challenger, premium pricing
 - [HackerRank Analysis](education/competitors/hackerrank-analysis.md) - Market leader analysis
-- [Technical Hiring Market](education/market-analysis/technical-hiring-assessment-market.md) - Full market overview
+- [Technical Hiring Market](education/competitors/technical-hiring-assessment-market.md) - Full market overview
 - [AI Coding Test Platform](education/ai-coding-test-platform.md) - Main idea page
 
 ---

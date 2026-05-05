@@ -1,9 +1,16 @@
 ---
 title: Technical Hiring Assessment Market Analysis
 date: 2026-05-03
-type: market-analysis
-domains: [hr-tech, edtech, b2b-saas]
-tags: [technical-hiring, developer-screening, market-size, b2b]
+type: competitor-analysis
+domains:
+  - hr-tech
+  - edtech
+  - b2b-saas
+tags:
+  - technical-hiring
+  - developer-screening
+  - market-size
+  - b2b
 status: active
 ---
 # Technical Hiring Assessment Market Analysis

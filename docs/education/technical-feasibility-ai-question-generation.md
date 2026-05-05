@@ -984,7 +984,7 @@ All require same algorithm (LIS), but context differs.
 
 - [CodeSignal Analysis](education/competitors/codesignal-analysis.md) - AI features competitive analysis
 - [HackerRank Analysis](education/competitors/hackerrank-analysis.md) - Market leader static library
-- [Technical Hiring Market](education/market-analysis/technical-hiring-assessment-market.md) - $8-10B TAM
+- [Technical Hiring Market](education/competitors/technical-hiring-assessment-market.md) - $8-10B TAM
 - [AI Coding Test Platform](education/ai-coding-test-platform.md) - Product concept
 
 ---

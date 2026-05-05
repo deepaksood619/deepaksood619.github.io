@@ -206,3 +206,33 @@ The deployment of the AI Life Recorder represents a profound evolutionary step i
 However, the realization of a perfectly preserved, instantly searchable human life introduces acute societal and psychological vulnerabilities. The phenomenon of Digital Hyperthymesia threatens the essential human capacity to forget, abstract, and continuously reinvent one's narrative identity. Furthermore, the persistent gaze of the machine generates immense social friction, colliding violently with established legal frameworks governing third-party consent, wiretapping, and the fundamental right to data erasure.
 
 Ultimately, the successful integration of the AI Life Recorder into global society will not be determined solely by advancements in hardware miniaturization, battery chemistry, or algorithmic efficiency. It will depend entirely on the deliberate architectural choice by developers to build systems that inherently respect the psychological necessity of human forgetting, rigorously preserve the sanctity of unrecorded physical spaces, and carefully navigate the highly delicate boundary between profound cognitive augmentation and dystopian total surveillance.
+
+## Brain Twin
+
+Brain twin, digital twin but for brains.
+
+It knows what you know and it knows how a brain looks like for becoming the best of yourself and it will help you get there.
+
+Vision - world's best tutor democratized
+
+The problem is how to add human intelligence to our LLM model like if you are bad at history and that is only 10% of the whole 100% marks in UPSC then LLM should decide that it should focus more on the remaining 90% rather than the 10% which you are not able to crack.
+
+First LLM should be trained on whole UPSC syllabus and should know everything about UPSC. It should have like 1 crore column and then for each candidate one row and it should know for each candidate what he/she knows.
+
+This whole 1 crore features now should be sent to the LLM to decide on the next plan of action. as to what should be taught today to the candidate so that he can reach the ultimate goal. Foundational things should be taught first.
+
+It should also get when you want to give the exam. And create a plan according to that along with probability of cracking the exam displayed each day.
+
+It should make sure you learn 8 or whatever allocated hours for that day, based on your plan.
+
+First judge the LLM what is its current capability for cracking UPSC exam.
+
+[https://chatgpt.com/g/g-qlEOchbSN-upsc-gpt-complete-notes-maker?utm_source=gptshunter.com](https://chatgpt.com/g/g-qlEOchbSN-upsc-gpt-complete-notes-maker?utm_source=gptshunter.com)
+
+[https://chatgpt.com/g/g-qlEOchbSN-upsc-gpt-complete-notes-maker](https://chatgpt.com/g/g-qlEOchbSN-upsc-gpt-complete-notes-maker)
+
+[https://chatgpt.com/g/g-jsLRUXjZp-gandhi](https://chatgpt.com/g/g-jsLRUXjZp-gandhi)
+
+Save 100+ hours in prelims note making. Notes based on psychological method of 'Active Recall'. Reduces time to memorize and revise. Best for NCERTs, IGNOU, RS Sharma, Satish Chandra, Spectrum etc. While revising, take up questions randomly for better retention in memory.
+
+Just add a module of UPSC in khan academy. It has everything.

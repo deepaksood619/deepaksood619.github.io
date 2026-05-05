@@ -808,7 +808,7 @@ tags: [codesignal, technical-assessment, b2b-saas, ai-native, enterprise]
 
 - [HackerRank Analysis](education/competitors/hackerrank-analysis.md) - Market leader analysis
 - [HackerEarth Analysis](education/competitors/hackerearth-analysis.md) - India/Asia competitor
-- [Technical Hiring Market](education/market-analysis/technical-hiring-assessment-market.md) - Market overview
+- [Technical Hiring Market](education/competitors/technical-hiring-assessment-market.md) - Market overview
 - [AI Coding Test Platform](education/ai-coding-test-platform.md) - Product concept
 
 ---

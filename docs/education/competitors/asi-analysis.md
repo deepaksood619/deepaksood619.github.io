@@ -17,6 +17,7 @@
 **Key Positioning:** "AI-native tutoring platform built by a teenager, using agentic architecture"
 
 **Competitive Advantages:**
+
 - **Young Founder Story:** High school student building AI education platform (strong narrative)
 - **Agentic AI Architecture:** Claims to use specialized agents with dynamic UI generation
 - **Prompt-less Operation:** System operates "without prompts" (unclear what this means)
@@ -24,6 +25,7 @@
 - **Media Coverage:** Featured in Business Insider (September 2023)
 
 **Weaknesses:**
+
 - **Extreme Information Scarcity:** Website has expired SSL certificate, minimal public information
 - **Unknown Business Metrics:** No disclosed user numbers, revenue, funding, or growth data
 - **Technology Details Unclear:** "Agentic architecture" and "prompt-less" claims lack technical explanation
@@ -42,9 +44,10 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 **Founder Background:**
 
 **Quddus Pativada** (LinkedIn: qp@asi.tech)
+
 - **Age at Founding:** High school student (~16-18 years old, estimated 2019-2020)
 - **Current Location:** United Arab Emirates
-- **Education:** 
+- **Education:**
   - MITx: Introduction to Computer Science and Programming Using Python (edX)
   - Tech Entrepreneur Nanodegree (Udacity, September 2015)
   - Product Psychology Masterclass (Humane.Design, January 2022)
@@ -60,6 +63,7 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 - **LinkedIn:** 2,000+ followers, 500+ connections
 
 **Notable Characteristics:**
+
 - Serial entrepreneur (multiple ventures before ASI)
 - Self-taught developer (online courses, no formal CS degree)
 - Strong marketing/growth background (qperformanceX reached 500K customers)
@@ -111,6 +115,7 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
    - Differentiation vs ChatGPT unclear
 
 **Technology Stack:**
+
 - **AI Models:** Unknown (OpenAI GPT? Anthropic Claude? Custom models?)
 - **Architecture:** Agentic (multi-agent system, details not disclosed)
 - **Frontend:** Unknown
@@ -179,20 +184,24 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 **Not Disclosed.** Likely scenarios:
 
 **Option A: Freemium**
+
 - Free basic tier (compete with Khan Academy)
 - Premium features at $5-20/month
 - Family plans for multiple children
 
 **Option B: Subscription Only**
+
 - $10-50/month per student
 - Positioned between Khan Academy ($4-9) and Synthesis ($45-70)
 
 **Option C: B2B Licensing**
+
 - Sell platform to schools/institutions
 - Institutional pricing model
 - UAE/Middle East schools as initial customers
 
 **Option D: Grant/Government Funded**
+
 - UAE government support for local tech innovation
 - Educational subsidies in Middle East markets
 - Non-commercial pilot phase
@@ -207,6 +216,7 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 4. **Pre-Seed VC:** Regional VC (MENA ecosystem)
 
 **Evidence of Funding:**
+
 - Zayed Inspirer Award (government recognition, potential funding?)
 - GITEX Global speaker (startup ecosystem engagement)
 - No public announcements on Crunchbase, TechCrunch, or VC databases
@@ -214,6 +224,7 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 ### Scale Metrics
 
 **All Unknown:**
+
 - Number of users
 - Monthly active users
 - Revenue
@@ -223,6 +234,7 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 - Market share
 
 **Estimated Scale (based on available evidence):**
+
 - **Users:** Likely `<10,000` (minimal public presence suggests early stage)
 - **Revenue:** `<$100K/year` (if early-stage SaaS)
 - **Team Size:** 1-5 people (founder + small team)
@@ -235,6 +247,7 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 ### Agentic AI Architecture
 
 **Claims (from LinkedIn):**
+
 - "Agentic architecture" with specialized agents
 - Agents generate "dynamic UI"
 - System operates "without prompts"
@@ -259,6 +272,7 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
    - **Possible Interpretation C:** Marketing language (all LLMs require prompts under the hood)
 
 **Skepticism:**
+
 - No technical documentation, whitepapers, or demos publicly available
 - "Agentic AI" is trendy terminology (may be overstated)
 - OpenAI, Anthropic, and major labs struggle with multi-agent coordination
@@ -275,6 +289,7 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 5. **Hybrid:** Multiple models for different agents (expensive)
 
 **Lack of Transparency:**
+
 - Cannot evaluate accuracy, safety, or cost-effectiveness without knowing models
 - Competitors (Khan Academy, Synthesis) disclose their AI providers
 - Opacity suggests either:
@@ -289,26 +304,31 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 ### Direct Competitors
 
 **1. Khan Academy (Khanmigo):**
+
 - **Advantages over ASI:** 150M users, brand trust, GPT-4, free for teachers, content library
 - **ASI's Potential Differentiation:** Agentic architecture, regional focus (UAE vs US)
 - **Verdict:** Khan Academy dominates free/affordable AI tutoring globally
 
 **2. ChatGPT (OpenAI):**
+
 - **Advantages over ASI:** 100M+ users, GPT-4/o1, $20/month, general-purpose
 - **ASI's Potential Differentiation:** Education-specific, agentic multi-agent, potentially cheaper
 - **Verdict:** ChatGPT is default AI tutor for most students; ASI must prove specialized value
 
 **3. Synthesis Tutor:**
+
 - **Advantages over ASI:** Expert educators + AI, $45-70/month premium positioning, proven pedagogy
 - **ASI's Potential Differentiation:** Lower price (if true), agentic AI, tech-first approach
 - **Verdict:** Synthesis targets premium market; ASI likely aims lower price tier
 
 **4. Tutor AI (tutorai.me):**
+
 - **Advantages over ASI:** Unknown (similar lack of information)
 - **ASI's Potential Differentiation:** Agentic architecture, founder story
 - **Verdict:** Both appear to be early-stage AI tutoring platforms
 
 **5. Knowunity AI Chat:**
+
 - **Advantages over ASI:** European market presence, social learning features
 - **ASI's Potential Differentiation:** Middle East focus, agentic architecture
 - **Verdict:** Different geographic markets, similar competitive positioning
@@ -316,16 +336,19 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 ### Indirect Competitors
 
 **6. Duolingo (Language Learning):**
+
 - Demonstrates AI can scale to 500M+ users with freemium model
 - ASI could learn from gamification, retention, and monetization strategies
 - Different domain (language vs general tutoring)
 
 **7. Photomath / Mathway (Math Tutoring):**
+
 - Mobile-first, narrow domain (math only)
 - ASI positioning appears broader (multi-subject)
 - Proof that AI tutoring can achieve scale (100M+ downloads)
 
 **8. Course Hero / Chegg:**
+
 - Homework help incumbents under threat from ChatGPT
 - ASI could capture students migrating from these platforms
 - Chegg lost 80% market value due to ChatGPT competition
@@ -337,12 +360,14 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 ### Published Coverage
 
 **1. Business Insider (September 2023):**
+
 - Title: "How a High Schooler in Dubai Built ASI, One of the Most Promising AI Edtech Startups"
 - **Article Not Accessible** (paywall/blocking issue during research)
 - Headline suggests positive/promotional tone
 - Published during AI hype cycle (Sept 2023 = peak GPT-4 excitement)
 
 **Analysis:**
+
 - Headline calls ASI "one of the most promising" (strong claim, unclear evidence)
 - "High schooler" angle is compelling human interest story
 - Business Insider education coverage tends toward promotional (not investigative)
@@ -351,23 +376,27 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 ### Public Perception
 
 **LinkedIn Presence:**
+
 - Quddus Pativada: 2,000+ followers (respectable for individual, not viral)
 - Company page: Not found or minimal presence
 - Engagement: Unknown (posts not accessible)
 
 **Online Reviews:**
+
 - No App Store / Google Play listings found
 - No reviews on ProductHunt, G2, Capterra, or other SaaS review sites
 - No student/parent testimonials publicly available
 - No case studies or success stories published
 
 **Academic/Research Community:**
+
 - No published research or whitepapers
 - No university partnerships announced
 - No peer-reviewed validation
 - No conference presentations (except GITEX, which is commercial)
 
 **Conclusion:** Minimal public visibility outside initial Business Insider article and founder's LinkedIn. Suggests either:
+
 1. Very early stage (pre-product-market fit)
 2. Stealth mode / limited release
 3. Pivot away from original concept
@@ -380,30 +409,35 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 ### Strengths
 
 **1. Founder Narrative**
+
 - High school student building AI edtech = powerful story
 - Overcomes age bias through technical execution
 - Appeals to youth/innovation narrative
 - Media-friendly angle (Business Insider coverage)
 
 **2. Regional Positioning**
+
 - Dubai/UAE market less saturated than US/Europe
 - Government support for local tech innovation (Zayed Award)
 - Growing Middle East edtech market ($3B+ by 2025)
 - English + Arabic bilingual potential
 
 **3. Technical Innovation (Claimed)**
+
 - Agentic AI architecture (if real, differentiating)
 - Multi-agent coordination (bleeding edge)
 - Dynamic UI generation (adaptive UX)
 - Early mover in AI-native tutoring (2019-2020 timeframe)
 
 **4. Operational Leanness**
+
 - Solo/small team = low burn rate
 - Can pivot quickly vs large competitors
 - Founder has growth marketing experience (qperformanceX 500K customers)
 - Multiple ventures = entrepreneurial resilience
 
 **5. Community Recognition**
+
 - Zayed Inspirer Award (government validation)
 - GITEX Global speaker (ecosystem credibility)
 - LinkedIn following (2,000+ engaged audience)
@@ -411,6 +445,7 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 ### Weaknesses
 
 **1. Information Opacity**
+
 - Website down (expired SSL certificate)
 - No public product demos or screenshots
 - No user metrics, revenue, or growth data
@@ -418,36 +453,42 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 - Minimal transparency vs competitors
 
 **2. Competitive Disadvantages**
+
 - Khan Academy: 150M users, free, brand trust, GPT-4
 - ChatGPT: 100M+ users, $20/month, GPT-4/o1, general-purpose
 - Synthesis: Premium positioning, expert educators, proven pedagogy
 - Limited differentiation unclear from public information
 
 **3. Resource Constraints**
+
 - Solo founder or small team vs well-funded competitors
 - No disclosed funding (likely bootstrapped or minimal angel)
 - Khan Academy: $150M+ raised, Synthesis: VC-backed, ChatGPT: $13B+ (OpenAI)
 - Cannot compete on content library, brand marketing, or R&D spend
 
 **4. Market Validation Gap**
+
 - No published user testimonials or reviews
 - No case studies or academic outcomes
 - No independent research or validation
 - Business Insider article is promotional, not investigative
 
 **5. Technical Uncertainty**
+
 - "Agentic architecture" claims lack detail
 - "Without prompts" statement unclear/potentially misleading
 - No evidence of technical moat (proprietary models, data, algorithms)
 - Multi-agent coordination extremely difficult (even OpenAI struggles)
 
 **6. Founder Experience**
+
 - Young age = limited operational/scaling experience
 - No formal education background (building education product)
 - No previous exits or proven track record at scale
 - qPerformanceX (e-commerce) ≠ ASI (AI education) domain expertise
 
 **7. Market Presence**
+
 - Low visibility outside UAE/Dubai
 - No viral growth or network effects evident
 - Minimal social media engagement (Twitter, Reddit, YouTube not found)
@@ -460,24 +501,28 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 ### Existential Risks
 
 **1. Commoditization by ChatGPT**
+
 - Students can use ChatGPT for free (or $20/month for GPT-4)
 - ASI must prove 10x better value vs general-purpose AI
 - OpenAI's resources dwarf any edtech startup
 - Risk: ASI becomes "ChatGPT wrapper" with minimal differentiation
 
 **2. Khan Academy's Free Model**
+
 - Khanmigo is $4-9/month (very low price)
 - Free for teachers in 44+ countries
 - Brand trust and content library ASI cannot match
 - Risk: Price-sensitive students default to Khan Academy
 
 **3. Funding/Runway Constraints**
+
 - No disclosed funding = limited runway
 - AI costs (API calls, infrastructure) are high
 - Competing against well-funded rivals requires capital
 - Risk: Runs out of money before achieving product-market fit
 
 **4. Technology Obsolescence**
+
 - GPT-5, Claude 4, Gemini 2 will outperform current models
 - Multi-agent coordination may be solved by OpenAI/Anthropic natively
 - Risk: "Agentic architecture" differentiation disappears with next-gen models
@@ -485,17 +530,20 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 ### Operational Risks
 
 **5. Solo Founder Scaling Challenges**
+
 - Building AI platform, sales, marketing, support alone = unsustainable
 - Needs team to scale (engineers, educators, marketers)
 - Risk: Founder burnout or inability to hire without funding
 
 **6. Regulatory/Compliance**
+
 - Student data privacy (FERPA in US, GDPR in EU, UAE laws)
 - AI safety in education (age-appropriate content, accuracy)
 - No legal/compliance team disclosed
 - Risk: Regulatory issues halt operations
 
 **7. Technology Accuracy**
+
 - AI hallucination in education = serious consequences
 - No disclosed accuracy metrics or safety guardrails
 - Khan Academy faced criticism for Khanmigo errors (WSJ 2024)
@@ -508,29 +556,34 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 ### Market Opportunities
 
 **1. Middle East Edtech Growth**
+
 - MENA edtech market: $3B+ by 2025, 16% CAGR
 - UAE government invests in education innovation
 - Arabic + English bilingual market underserved
 - Opportunity: Own regional market before global competitors enter
 
 **2. ChatGPT Disruption Window**
+
 - Traditional tutoring/homework help (Chegg, Course Hero) collapsing
 - Students migrating to AI tutoring at unprecedented rate
 - Khan Academy Khanmigo still early (low adoption)
 - Opportunity: Capture students experimenting with AI tutors
 
 **3. Premium Tier Above Khan Academy**
+
 - Khan Academy = $4-9/month (budget tier)
 - Synthesis = $45-70/month (premium tier)
 - Gap: $15-30/month for better-than-Khan, cheaper-than-Synthesis
 - Opportunity: Position ASI in middle tier with agentic AI differentiation
 
 **4. Subject Verticalization**
+
 - Broad AI tutors (ChatGPT, Khanmigo) lack domain depth
 - Opportunity: Specialize in high-value subjects (e.g., IB curriculum, AP subjects, university exam prep)
 - Build reputation as "best AI tutor for X" before expanding
 
 **5. B2B School Licensing**
+
 - UAE/Middle East schools adopting AI rapidly
 - Opportunity: License platform to private schools, international schools
 - Recurring revenue, less marketing-intensive than B2C
@@ -538,16 +591,19 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 ### Technical Opportunities
 
 **6. Multimodal Learning**
+
 - Text-only tutoring is table-stakes (ChatGPT, Khanmigo)
 - Opportunity: Voice tutoring, image-based problem solving, video explanations
 - GPT-4 Vision, Claude 3.7 multimodal APIs enable this
 
 **7. Adaptive Learning Algorithms**
+
 - Khan Academy's recommendations are basic (rule-based)
 - Opportunity: Algorithmic adaptivity (IRT, BKT, knowledge graphs)
 - Real-time difficulty adjustment based on responses
 
 **8. AI Question Generation**
+
 - Static content is limiting (Khan Academy's 10K videos)
 - Opportunity: Real-time question generation using Claude/GPT-4
 - Infinite practice problems tailored to student's weak areas
@@ -600,24 +656,28 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 **To Compete with ASI (and broader market):**
 
 **Option A: Transparency-First**
+
 - Publish all methodology, AI models, research
 - Open-source core technology (build trust)
 - Partner with universities for validation studies
 - Contrast ASI's opacity with radical transparency
 
 **Option B: Working Professionals (Not K-12)**
+
 - Target salary-increase motivated learners (vs students)
 - Clear ROI (skill → job → salary)
 - Different segment than ASI's apparent K-12 focus
 - Less competitive than student market
 
 **Option C: B2B Enterprise Focus**
+
 - Sell to schools/institutions (not individual students)
 - Corporate upskilling market ($300B+ vs K-12)
 - Recurring revenue, lower customer acquisition cost
 - ASI appears B2C focused (opportunity gap)
 
 **Option D: Subject Verticalization**
+
 - Deep expertise in one domain (coding, data science, finance)
 - "Best AI tutor for X" positioning
 - Build moat through domain-specific content and algorithms
@@ -630,6 +690,7 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 ### Positioning vs ASI
 
 **Direct Competition:** LOW RISK
+
 - ASI appears early-stage with limited traction
 - Minimal market presence outside UAE
 - Unclear product-market fit
@@ -638,6 +699,7 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 **Learning from ASI:**
 
 **Do This:**
+
 1. Explore agentic AI architecture (multi-agent systems)
 2. Build AI-native platform (not AI bolted onto traditional LMS)
 3. Focus on one region/market initially (depth before breadth)
@@ -645,6 +707,7 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 5. Keep operations lean until product-market fit
 
 **Avoid This:**
+
 1. Opacity (publish metrics, methodology, technical details)
 2. Website downtime (professional infrastructure critical)
 3. Vague claims ("without prompts" unclear/misleading)
@@ -685,16 +748,19 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 **Partnership Opportunities with ASI:**
 
 **Scenario A: Technology Licensing**
+
 - License ASI's agentic architecture (if proven effective)
 - ASI focuses on UAE market, we focus on working professionals
 - Revenue-share or licensing fee arrangement
 
 **Scenario B: Market Segmentation**
+
 - ASI owns K-12 students in Middle East
 - We own working professionals globally
 - Cross-promotion to respective audiences
 
 **Scenario C: Acqui-hire**
+
 - If ASI stalls, acquire technology + team
 - Integrate agentic AI into our platform
 - Founder becomes technical advisor or employee
@@ -710,30 +776,35 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 ### Key Takeaways
 
 **1. Limited Public Information:**
+
 - Website down (expired SSL), minimal product visibility
 - No disclosed metrics (users, revenue, funding, growth)
 - No technical documentation or research published
 - Business Insider article (Sept 2023) only significant coverage
 
 **2. Compelling Founder Story:**
+
 - High school student building AI edtech = strong narrative
 - Zayed Award, GITEX speaker = local credibility
 - Prior venture (qPerformanceX) shows execution capability
 - Limited operational experience in education
 
 **3. Unvalidated Technology Claims:**
+
 - "Agentic architecture" sounds innovative but lacks detail
 - "Without prompts" statement unclear/potentially misleading
 - No evidence of technical moat or proprietary advantage
 - Multi-agent coordination extremely difficult even for well-funded teams
 
 **4. Competitive Landscape:**
+
 - Khan Academy: 150M users, free, GPT-4, content library
 - ChatGPT: 100M+ users, general-purpose, $20/month
 - Synthesis: Premium positioning, expert educators
 - ASI differentiation unclear from public information
 
 **5. Market Opportunity:**
+
 - Middle East edtech growing (16% CAGR, $3B+ by 2025)
 - Students migrating to AI tutors from traditional homework help
 - Gap between Khan Academy ($4-9) and Synthesis ($45-70)
@@ -742,18 +813,21 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 ### Strategic Implications for Our Startup
 
 **Threat Level:** LOW
+
 - ASI appears early-stage with minimal traction
 - Limited resources vs well-funded competitors
 - Website down suggests operational challenges
 - Not a credible competitive threat currently
 
 **Learning Opportunity:** MEDIUM
+
 - Agentic AI architecture worth exploring (if technically sound)
 - Regional focus strategy (own one market deeply)
 - Founder story + media coverage (Business Insider template)
 - Lean operations until product-market fit
 
 **Differentiation Approach:**
+
 1. **Transparency:** Publish methodology, research, metrics (vs ASI opacity)
 2. **Working Professionals:** Target different segment than K-12 students
 3. **Distribution:** App Store, SEO, partnerships (vs minimal web presence)
@@ -773,6 +847,7 @@ ASI (formerly asi.tech, now myasi.com) was founded by **Quddus Pativada** while 
 Due to research limitations (web search failures, expired SSL certificate on myasi.com), the following critical information could not be obtained:
 
 **Product Details:**
+
 - Actual product features, UI/UX screenshots
 - Subject coverage and grade levels
 - AI models used (GPT-4, Claude, custom?)
@@ -780,6 +855,7 @@ Due to research limitations (web search failures, expired SSL certificate on mya
 - User testimonials or reviews
 
 **Business Metrics:**
+
 - Number of users (total and active)
 - Revenue and funding raised
 - Growth rate and retention
@@ -787,6 +863,7 @@ Due to research limitations (web search failures, expired SSL certificate on mya
 - Geographic distribution
 
 **Technology Validation:**
+
 - Technical architecture details
 - Agentic AI implementation specifics
 - Accuracy and safety metrics
@@ -794,6 +871,7 @@ Due to research limitations (web search failures, expired SSL certificate on mya
 - Published research or whitepapers
 
 **Market Positioning:**
+
 - Competitive differentiation specifics
 - Target customer personas
 - Go-to-market strategy
@@ -837,6 +915,7 @@ Due to research limitations (web search failures, expired SSL certificate on mya
 ### Update Triggers
 
 **Re-analyze ASI if:**
+
 - Website comes back online with functional product
 - Funding announcement (VC raise, government grant)
 - Significant user growth or viral adoption
@@ -852,7 +931,7 @@ Due to research limitations (web search failures, expired SSL certificate on mya
 - [Synthesis Tutor Analysis](education/competitors/synthesis-tutor-analysis.md) - Premium AI tutoring ($45-70/month)
 - [Coursera Analysis](education/competitors/coursera-analysis.md) - MOOC enterprise leader
 - [Alpha School Analysis](education/competitors/alpha-school-analysis.md) - $40K/year AI-powered microschool
-- [Technical Hiring Market](education/market-analysis/technical-hiring-assessment-market.md) - Market sizing for assessment platforms
+- [Technical Hiring Market](education/competitors/technical-hiring-assessment-market.md) - Market sizing for assessment platforms
 - [AI Question Generation Feasibility](education/technical-feasibility-ai-question-generation.md) - Technical architecture for AI-native platform
 - [Adaptive Learning Platform Concept](education/adaptive-learning-platform.md) - Working professional focus (differentiated segment)
 
@@ -861,14 +940,17 @@ Due to research limitations (web search failures, expired SSL certificate on mya
 ## Appendix: Information Sources
 
 **Primary Sources:**
+
 - LinkedIn Profile: https://www.linkedin.com/in/qudduspat/ (accessed via ae.linkedin.com redirect)
 - Website: https://asi.tech (redirects to myasi.com, SSL expired, inaccessible)
 - Business Insider: [Article referenced but inaccessible due to paywall/blocking]
 
 **Secondary Sources:**
+
 - education-ideas.md file (internal documentation with ASI references)
 
 **Sources Attempted (Failed):**
+
 - myasi.com (expired SSL certificate)
 - Business Insider article (paywall/access blocked)
 - Web Archive snapshots (service blocked)
@@ -877,12 +959,14 @@ Due to research limitations (web search failures, expired SSL certificate on mya
 
 **Limitations:**
 This analysis is based on extremely limited public information due to:
+
 1. Website unavailability (expired SSL)
 2. Web search API failures during research window
 3. Business Insider article paywall/access issues
 4. Minimal online presence (no app store, reviews, social media)
 
 **Reliability:** LOW TO MEDIUM
+
 - Founder LinkedIn profile data: HIGH confidence (direct source)
 - Product claims: LOW confidence (could not verify independently)
 - Market positioning: LOW confidence (inferred from fragments)

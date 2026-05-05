@@ -103,7 +103,6 @@ Format: `[YYYY-MM-DD] <action> - <description> - <source>`
 - **assessment/** - Formative, summative, authentic assessment, rubrics
 - **researchers/** - Notable researchers and their work
 - **frameworks/** - Bloom's taxonomy, Webb's DOK, SAMR model
-- **market-analysis/** - Market sizing, competitor research
 - **competitors/** - Platform analyses
 
 ## Obsidian CLI Usage
@@ -126,8 +125,8 @@ Format: `[YYYY-MM-DD] <action> - <description> - <source>`
 **Link Path Requirements:**
 
 - Use **full paths** starting with `education/` (not relative `../` paths)
-- Example: `[Market Analysis](education/market-analysis/technical-hiring-assessment-market.md)`
-- NOT: `[Market Analysis](../market-analysis/technical-hiring-assessment-market.md)`
+- Example: `[Market Analysis](education/competitors/technical-hiring-assessment-market.md)`
+- NOT: `[Market Analysis](../competitors/technical-hiring-assessment-market.md)`
 - Reason: Docusaurus builds work better with full paths from `/docs/` directory
 
 ### Research Paper Template

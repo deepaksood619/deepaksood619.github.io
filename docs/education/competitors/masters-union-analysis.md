@@ -61,11 +61,11 @@ The institution positions itself as a **"new category of school for a new catego
   - Young entrepreneur, exact background not fully disclosed
   - Appears to be primary public face of institution
   - Active on LinkedIn and social media promoting educational vision
-  
+
 - **Ankur Goyal (Co-Founder)**
   - Limited public information available
   - Likely operations/academic role
-  
+
 - **Raj Shamani (Co-Founder)**
   - Entrepreneur and content creator
   - Host of "Figuring Out" podcast
@@ -236,12 +236,12 @@ Unlike traditional business schools where students study theory first then apply
   - Teach specific domains (marketing → CMO, finance → CFO)
   - Bring real-world case studies from current work
   - Network connections for students
-  
+
 - **30% Full-Time Faculty with PhDs**
   - Academic rigor and research grounding
   - Curriculum design and assessment
   - Theoretical foundations
-  
+
 - **30% Visiting Faculty from Harvard, Stanford, Wharton**
   - Global best practices
   - International perspectives
@@ -400,19 +400,19 @@ What we DON'T know:
    - Masters' Union only shares average CTC
    - No median CTC (average can be skewed by outliers)
    - No sector/role/company breakdown
-   
+
 2. **Methodology Not Disclosed**
    - What counts as "placement"? (Internships? Full-time? Student ventures?)
    - Is average weighted or simple mean?
    - What % of cohort gets placed?
    - What % remain unemployed or pursue ventures?
-   
+
 3. **Selection Bias**
    - Premium tuition attracts affluent students
    - Affluent students have better networks, safety nets
    - May have family businesses or parental connections
    - Outcomes may reflect background, not education
-   
+
 4. **Comparison to Traditional B-Schools**
 
 | School | Average CTC | Median CTC | Top 10% | Placement % |
@@ -553,16 +553,16 @@ Exact partner names not fully disclosed, but likely include:
    - Companies define skills needed for industry
    - Masters' Union designs projects to build those skills
    - Students work on real company problems
-   
+
 2. **Consulting Projects**
    - 300+ projects annually
    - Students gain portfolio work
    - Companies get low-cost consulting
-   
+
 3. **Recruiting Pipeline**
    - Companies hire from student pool
    - Internships and full-time placements
-   
+
 4. **Guest Lectures & Mentorship**
    - 250+ CXO visits to campus
    - Industry practitioners teach modules
@@ -582,7 +582,7 @@ Exact partner names not fully disclosed, but likely include:
    - Study abroad opportunities
    - Dual degree possibilities
    - Located in Chicago, STEM-focused university
-   
+
 2. **Griffith University - Australia**
    - International pathway program
    - Dual degree options
@@ -602,7 +602,7 @@ Exact partner names not fully disclosed, but likely include:
    - Membership indicates international recognition
    - Access to global business school network
    - Quality standards alignment
-   
+
 2. **Business Education Alliance**
    - Collaboration with other business schools
    - Best practices sharing
@@ -637,22 +637,22 @@ Exact partner names not fully disclosed, but likely include:
    - Build businesses, not study case studies
    - Revenue generation, not exam scores
    - Real investor pitches, not simulations
-   
+
 2. **Industry-Designed Curriculum**
    - 30+ companies co-create programs
    - Skills taught are what companies actually need
    - Consulting projects are real client work
-   
+
 3. **Entrepreneurship Focus**
    - Every student builds ventures
    - Investment fund for hands-on finance learning
    - ₹60+ crore raised by student ventures
-   
+
 4. **Alternative Admissions**
    - No CAT/GMAT requirement
    - Focus on entrepreneurial mindset, not test scores
    - Video pitch showcases personality
-   
+
 5. **Practitioner Faculty**
    - 40% active industry leaders
    - Current case studies from their companies
@@ -664,22 +664,22 @@ Exact partner names not fully disclosed, but likely include:
    - 50+ year track record
    - Global recognition
    - Alumni network of 50,000+ (IIM-A)
-   
+
 2. **Accreditation**
    - AACSB, EQUIS, AMBA accredited
    - Government-recognized degrees
    - Accepted worldwide
-   
+
 3. **Transparency**
    - Detailed placement reports
    - Published research and rankings
    - Clear admissions data
-   
+
 4. **Selectivity**
    - 1-10% acceptance rates
    - 99th percentile test scores
    - Prestige signal
-   
+
 5. **Lower Cost (Public IIMs)**
    - IIM Ahmedabad: ₹33 lakhs (vs Masters' Union est. ₹40-60 lakhs)
    - Government subsidies for IIMs
@@ -697,17 +697,17 @@ Exact partner names not fully disclosed, but likely include:
    - Build real businesses during UG
    - Consulting projects with companies
    - Portfolio of work upon graduation
-   
+
 2. **Global Partnerships**
    - Dual degree with Illinois Tech, Griffith
    - International exposure
    - Study abroad pathways
-   
+
 3. **Industry Immersion**
    - 250+ CXO visitors
    - Company partnerships
    - Startup ecosystem access
-   
+
 4. **Placement Outcomes**
    - Claims competitive with top MBA programs
    - Entrepreneurship track record
@@ -717,12 +717,12 @@ Exact partner names not fully disclosed, but likely include:
 1. **Cost**
    - DU/Symbiosis: ₹2-10 lakhs total (vs Masters' Union ₹60-100 lakhs est.)
    - Government-subsidized options
-   
+
 2. **Established Reputation**
    - 50+ year history
    - Large alumni networks
    - Recognized by employers
-   
+
 3. **Broader Curriculum**
    - Liberal arts foundation
    - Theoretical depth
@@ -737,12 +737,12 @@ Exact partner names not fully disclosed, but likely include:
    - Multidisciplinary, not business-focused
    - Residential community
    - ₹10-12 lakhs tuition
-   
+
 2. **Flame University**
    - Liberal arts + business
    - Research-oriented
    - Lower cost than Masters' Union
-   
+
 3. **OP Jindal Global University**
    - Global orientation
    - Business + law combinations
@@ -762,7 +762,7 @@ Exact partner names not fully disclosed, but likely include:
    - Online + in-person hybrid
    - Active learning, no lectures
    - $30K/year tuition
-   
+
 2. **ESCP Europe**
    - Multi-campus European business school
    - Specialized masters programs
@@ -789,7 +789,7 @@ Exact partner names not fully disclosed, but likely include:
   - Dropshipping challenge (build e-commerce business)
   - Venture initiation (build startup)
   - Consulting projects (solve company problems)
-  
+
 **Strengths:** Motivation, retention, transfer to real-world
 
 **Limitations:** Requires expert facilitation, time-intensive, hard to standardize
@@ -800,7 +800,7 @@ Exact partner names not fully disclosed, but likely include:
 - **Evidence:** Well-established framework (Kolb 1984)
 - **Masters' Union Implementation:**
   - Do (launch business) → Reflect (what worked?) → Conceptualize (why?) → Apply (next venture)
-  
+
 **3. Mastery-Based Learning**
 
 - **Definition:** Students must demonstrate proficiency before advancing
@@ -808,7 +808,7 @@ Exact partner names not fully disclosed, but likely include:
 - **Masters' Union Implementation:**
   - Must hit revenue targets before progressing
   - Must secure customers before pitching investors
-  
+
 **Assumption:** Business outcomes (revenue, customers, funding) proxy for learning mastery
 
 **Question:** Does revenue generation guarantee learning? Or could students luck into sales without understanding marketing principles?
@@ -821,7 +821,7 @@ Exact partner names not fully disclosed, but likely include:
   - Term sheets from investors (not exam scores)
   - Customer acquisition metrics (not essays)
   - Consulting deliverables (not presentations)
-  
+
 **Strength:** Direct relevance to career outcomes
 
 **Limitation:** Harder to standardize, grade, compare across cohorts
@@ -833,14 +833,14 @@ Exact partner names not fully disclosed, but likely include:
 1. **Desirable Difficulties (Bjork & Bjork)**
    - Building real businesses is hard = deeper learning
    - Struggling with customer acquisition = better retention than reading about it
-   
+
 2. **Transfer of Learning**
    - Skills practiced in authentic contexts transfer better
    - Selling products online → translates to real marketing jobs
-   
+
 3. **Retrieval Practice**
    - Repeatedly applying concepts (multiple ventures, projects) = stronger encoding
-   
+
 4. **Spaced Practice**
    - 2-year program with multiple projects = distributed practice over time
 
@@ -850,12 +850,12 @@ Exact partner names not fully disclosed, but likely include:
    - Building business while learning fundamentals = high extraneous load
    - Students may be overwhelmed by execution demands
    - May miss theoretical foundations in rush to deliver
-   
+
 2. **Expertise Reversal Effect**
    - Novices need more structure/guidance than experts
    - Throwing students into businesses on Day 1 may exceed working memory
    - Traditional lectures may be more efficient for foundational knowledge
-   
+
 3. **Feedback Quality**
    - Business outcomes (revenue, funding) are noisy feedback signals
    - Many factors outside student control (market conditions, luck, timing)
@@ -1107,24 +1107,24 @@ Possible reasons:
    - Real revenue generation (₹1Cr+ dropshipping)
    - Real startup building (₹60Cr raised by student ventures)
    - Real investor validation (term sheets at Demo Day)
-   
+
 2. **Industry Integration**
    - 30+ corporate partners co-creating curriculum
    - 300+ consulting projects annually
    - 250+ CXO campus visits
-   
+
 3. **Competitive Placement Outcomes**
    - ₹33.39 LPA average CTC (competitive with IIM/ISB)
    - 35+ international placements
-   
+
 4. **Unique Faculty Model**
    - 40% industry practitioners (not just academics)
    - 30% global visiting faculty (Harvard/Stanford/Wharton)
-   
+
 5. **Global Partnerships**
    - Illinois Tech, Griffith University dual degree pathways
    - 50+ domestic/international immersions
-   
+
 6. **Entrepreneurship Ecosystem**
    - Investment fund (₹5Cr) for hands-on finance learning
    - Venture building integrated into curriculum
@@ -1137,27 +1137,27 @@ Possible reasons:
    - No detailed placement reports (median, top 10%, industry breakdown)
    - No attrition/completion rates
    - No independent validation of claims
-   
+
 2. **Young Institution**
    - 3-4 years old, limited track record
    - Small alumni network (`<2000` vs IIM's 50,000+)
    - No long-term graduate outcome data
-   
+
 3. **Unclear Accreditation**
    - EFMD member (not accredited)
    - Degree recognition unclear
    - May limit international portability
-   
+
 4. **High Cost (Estimated)**
    - ₹40-60 lakhs for PGP (50-80% more than IIM Ahmedabad)
    - Worse ROI than top traditional B-schools
    - Equity barrier
-   
+
 5. **Selection Bias**
    - Premium tuition attracts affluent students
    - Outcomes may reflect student quality, not teaching
    - No controls for socioeconomic factors
-   
+
 6. **Scalability Questions**
    - 500+ students after 4 years (modest growth)
    - Project-based model is human-intensive
@@ -1197,11 +1197,11 @@ However, **lack of transparency** (no tuition disclosure, minimal placement deta
 
 ## Cross-References
 
-- [MBA Alternatives - Market Analysis](education/market-analysis/mba-alternatives.md)
-- [Project-Based Learning - Pedagogy](education/pedagogical-theories/project-based-learning.md)
-- [Business Education - Market Trends](education/market-analysis/business-education-india.md)
-- [Working Professional Education - Target Market](education/market-analysis/working-professional-education.md)
-- [Learning by Doing - Experiential Learning](education/learning-science/experiential-learning.md)
+- MBA Alternatives - Market Analysis
+- Project-Based Learning - Pedagogy
+- Business Education - Market Trends
+- Working Professional Education - Target Market
+- Learning by Doing - Experiential Learning
 
 ---
 

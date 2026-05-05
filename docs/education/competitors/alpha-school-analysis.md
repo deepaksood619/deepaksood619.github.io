@@ -643,6 +643,14 @@ For our startup, Alpha demonstrates demand exists but leaves massive market oppo
 - **Joe Liemandt Wikipedia:** https://en.wikipedia.org/wiki/Joe_Liemandt
 - **Synthesis (competitor):** https://synthesis.com
 - **Primer (competitor):** https://www.primer.com
+- [2 Hour Learning: How Our Schools Work - YouTube](https://www.youtube.com/watch?v=ENdAWT6N0V4&t=4s)
+- [2 Hour Learning: Revolutionizing K-12 Education in Just 2 Hours a Day](https://2hourlearning.com/)
+- [Home \| Learn and Earn](https://www.learnandearn.school/)
+- **[Alpha Anywhere - Alpha Anywhere](https://alphaanywhere.co/)**
+- [Prequel](https://www.joinprequel.com/)
+- [Unbound - The Future of Education is Unbound](https://www.unbound.school/)
+- [Novatio](https://novatio.school/)
+- [Your Review: Alpha School "The real value that comes from Alpha is not the performance uplift. The most important feature of Alpha is that they have found a way to learn more efficiently. Students condense all the required state-mandated material into ½ a day for 6 yrs instead of a full day for 13." : r/slatestarcodex](https://www.reddit.com/r/slatestarcodex/comments/1ln5ajr/your_review_alpha_school_the_real_value_that/)
 
 **Note:** No white paper, peer-reviewed research, or independent evaluations found despite multiple references to these materials existing.
 
@@ -663,11 +671,11 @@ For our startup, Alpha demonstrates demand exists but leaves massive market oppo
 
 **Cross-References to Create:**
 
-- [Learning Science - Mastery Learning](education/learning-science/mastery-learning.md)
-- [EdTech - AI Tutoring](education/edtech/ai-tutoring.md)
-- [Microschools Overview](education/market-analysis/microschools.md)
-- [Private School Market](education/market-analysis/private-schools.md)
-- [Joe Liemandt Profile](education/researchers/joe-liemandt.md)
+- Learning Science - Mastery Learning
+- EdTech - AI Tutoring
+- Microschools Overview
+- Private School Market
+- Joe Liemandt Profile
 
 ---
 

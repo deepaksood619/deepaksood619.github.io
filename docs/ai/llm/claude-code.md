@@ -87,6 +87,10 @@ claude --help
 - **/cost:** It will display a breakdown of **Input Tokens**, **Output Tokens**, and **Cache Hits/Misses**, along with a total USD estimate for the current session.
 - **/stats**: Displays your current token usage and rate limit status.
 
+[GitHub - tddworks/ClaudeBar: A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude, Codex, Antigravity ,and Gemini usage at a glance. · GitHub](https://github.com/tddworks/ClaudeBar)
+
+- `brew install --cask claudebar`
+
 [GitHub - Maciek-roboblog/Claude-Code-Usage-Monitor: Real-time Claude Code usage monitor with predictions and warnings · GitHub](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) ⭐ 7.8k
 
 ```bash

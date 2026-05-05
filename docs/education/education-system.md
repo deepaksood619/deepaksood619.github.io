@@ -1,5 +1,18 @@
 # Education System
 
+## Global Education
+
+Free Open Source Education for all fields and all classes from nursery to college - same over all the world. Central database, updated constantly and regularly to create global best education.
+
+1. Should be comprehensive and also summarized - Summarized for lectures and comprehensive for students reading
+2. Should develop overall personality
+    - Develop growth mindset
+    - Create life long learners
+
+https://www.notboring.co/p/primer-the-ambitious-home-for-ambitious
+
+[How to Make Learning as Addictive as Social Media | Luis Von Ahn | TED - YouTube](https://www.youtube.com/watch?v=P6FORpg0KVo)
+
 ## Best Education System in the World
 
 [Which country has the best education in the world? - The Global Story podcast, BBC World Service - YouTube](https://www.youtube.com/watch?v=liyn5xWvx44)
@@ -75,6 +88,22 @@ The Heckman Curve shows that the highest rate of economic returns comes from the
 - [ICSE Vs CBSE Vs International Board – Which Board Is Best For Your Child...](https://youtu.be/-j6DVn-bOyE)
 - [Does WiFi Make Students Smarter? - Cal Newport](https://calnewport.com/does-wifi-make-students-smarter/)
 
+## Mandatory Subjects in School
+
+- Economics
+    - Taxes
+    - Insurance
+    - Personal finance
+- Coding - https://www.codedex.io/
+- Cooking
+- Basic home repair
+- Self defence
+- Survival skills
+- Social etiquette
+- Public speaking
+- Car maintenance
+- Stress management (emotions)
+
 ## Non Regrettable Minute
 
 In the context of learning, a "non-regrettable minute" refers to a moment where a learner makes a decision or chooses an action that, despite the uncertainty of the environment, leads to a beneficial outcome in terms of learning progress or knowledge gain. This concept is central to "no-regret learning," a field that focuses on online learning strategies where the learner can adapt their choices over time to minimize the cumulative loss, even when facing unpredictable or noisy feedback.
@@ -98,3 +127,25 @@ In the context of learning, a "non-regrettable minute" refers to a moment where 
 - **Robustness:** The strategies should be robust to uncertainty and variations in the environment.
 
 In essence, a "non-regrettable minute" is a moment where the learner makes a smart decision that contributes to their learning, even if the environment is uncertain or the consequences are not immediately apparent.
+
+## Interview Prep Model
+
+- Do mock interviews
+- Tell what's wrong with the candidate
+- Share the module / courses and full plan on how to be better
+
+## LMS (Learning Management System)
+
+- [GitHub - frappe/lms: Easy to Use, 100% Open Source Learning Management System](https://github.com/frappe/lms) ⭐ 2.9k
+	- [mon school - Free and open access online coding lessons.](https://mon.school/)
+- [Monetise your expertise - Graphy](https://graphy.com/)
+- [Edmingle - Build, Manage & Scale Your Online Academy](https://edmingle.com)
+	- [10 Best LMS for Coding Training & Tech Education](https://blog.edmingle.com/lms-for-coding/)
+
+## School Education facilities as a Service
+
+Service based company for education, people don't know how to train teacher, etc. create a consolidation and centralisation in education sector, automate processes, learning, etc. give education as a service to b2b also
+
+## Parenting (app for parents to manage kids)
+
+Daily tasks that you can do with your kid with home items, etc

@@ -55,3 +55,5 @@ And the vast majority of value creation actually exists in the optimization.
 Your startup won't succeed if you're burnt out. Take breaks. Spend time on your hobbies. Create balance.
 
 Overcommunicate at your startup. Your team cannot read your mind.
+
+"Do only the things you enjoy doing and find someone who'll pay you for it." - Kirill and Leonid of Mkdev.me ($12K/mo)

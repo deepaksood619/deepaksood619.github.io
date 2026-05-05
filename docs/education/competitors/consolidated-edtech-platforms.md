@@ -1,7 +1,11 @@
 ---
 title: Consolidated EdTech Competitor Analysis
 type: competitor-analysis
-tags: [edtech, ai-tutors, lms, upskilling, market-analysis]
+tags:
+  - edtech
+  - ai-tutors
+  - lms
+  - upskilling
 date: 2026-05-04
 ---
 

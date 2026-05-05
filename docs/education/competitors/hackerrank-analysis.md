@@ -385,7 +385,7 @@ tags: [hackerrank, technical-assessment, b2b-saas, market-leader]
 
 - [CodeSignal Analysis](education/competitors/codesignal-analysis.md) - AI-native challenger, premium pricing
 - [HackerEarth Analysis](education/competitors/hackerearth-analysis.md) - India/Asia leader, competitive pricing
-- [Technical Hiring Market Analysis](education/market-analysis/technical-hiring-assessment-market.md)
+- [Technical Hiring Market Analysis](education/competitors/technical-hiring-assessment-market.md)
 - [AI Coding Test Platform Idea](education/ai-coding-test-platform.md)
 - [Pricing \| Programming problems and challenges \| HackerRank](https://www.hackerrank.com/work/pricing)
 

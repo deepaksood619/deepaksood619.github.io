@@ -20,7 +20,6 @@ This is an **LLM-maintained research wiki** where Claude:
 ideas/
 ├── research-index.md     # Master catalog by priority/domain
 ├── log.md                # Chronological activity log
-├── market-analysis/      # Market sizing, trends, competitive landscape
 ├── competitors/          # Company profiles, comparisons
 ├── business-models/      # Revenue models, pricing, unit economics (to be created)
 ├── tech-stacks/          # Technology architectures (to be created)
@@ -39,7 +38,7 @@ ideas/
 
 **Cross-Domain Topics:**
 
-- business-models/, market-analysis/, tech-stacks/, gtm-strategies/, validation/, competitors/
+- business-models/, tech-stacks/, gtm-strategies/, validation/, competitors/
 
 ## Key Files
 
@@ -165,8 +164,7 @@ Which ideas does this inform? How?
 
 - **Startup ideas:** `idea-name.md` (descriptive, lowercase, hyphens)
 - **Research analysis:** `topic-analysis.md` (descriptive, no dates)
-- **Market analysis:** `domain-market-size.md`, `domain-trends.md` - in `market-analysis/`
-- **Competitors:** `company-name.md` - in `competitors/`
+- **Competitors and Market analysis:** `domain-market-size.md`, `domain-trends.md`, `company-name.md` - in `competitors/`
 - **Cross-domain:** `topic-comparison.md` - in relevant category folder
 
 ## Research Standards
