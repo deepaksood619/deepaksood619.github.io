@@ -24,6 +24,7 @@
 
 **India EdTech / Test Prep:**
 
+- [PhysicsWallah Analysis](education/competitors/physicswallah-analysis.md) - Only profitable Indian edtech unicorn, $2.8B valuation, bootstrap-to-IPO, ₹3K-10K/year pricing (3-5x cheaper)
 - [Unacademy Analysis](education/competitors/unacademy-analysis.md) - India's largest edtech, 60M users, 85% valuation decline, upGrad acquisition
 
 **New Age Schools & Alternative Education:**
@@ -69,6 +70,14 @@
 - Khan academy
 - Sparkl
 - Growth School
+- [Mercor \| Advance the frontier of AI](https://www.mercor.com/)
+	- [Mercor AI - what the actual hell is going on?](https://www.reddit.com/r/ArtificialInteligence/comments/1onvdcp/mercor_ai_what_the_actual_hell_is_going_on/)
+- [Testbook.com - India's No.1 Govt Exam Preparation Site \| Online Course \| Mock Test](https://testbook.com/)
+	- [SSC CGL Notification 2026, Exam Date, Vacancy, Selection Process and Eligibility](https://testbook.com/ssc-cgl-exam)
+	- [SSC CGL Previous Year Question Paper, Practice Last 10 Year Papers](https://testbook.com/ssc-cgl-exam/previous-year-papers)
+- [reMarkable: The Paper Tablets for Focused Work \| reMarkable](https://remarkable.com/)
+- [Careers360: Explore Exams, Colleges, Courses and Latest News about Education](http://careers360.com/)
+- [Discover Colleges, Courses & Exams for Higher Education in India](http://shiksha.com/)
 
 ### New Age School
 

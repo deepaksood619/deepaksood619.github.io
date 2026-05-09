@@ -269,3 +269,6 @@ So for a long haul international flight you can take middle aisle with aisle sid
 - Camera - PTZ - Pan, Tilt, Zoom
 	- Enviz
 	- Hikvision
+- ⁠⁠Meeting hardware office (google meet camera hardware)
+	- [Logitech MeetUp HD Video and Audio Conferencing System](https://www.amazon.in/Logitech-960-001101-MeetUp-Conferencing-Meeting/dp/B072JQ98DF)
+	- [Series One Small Kit Setup Resources - Google Meet Hardware](https://meetingdevices.withgoogle.com/getstarted/products/series-one-small-room-solution/)

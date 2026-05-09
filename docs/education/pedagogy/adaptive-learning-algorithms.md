@@ -66,6 +66,7 @@
 ### 1.2 How BKT Updates Beliefs
 
 **Initial State:**
+
 - Student has P(L₀) = 0.10 probability of knowing "React Hooks"
 - Student encounters first question about useState
 
@@ -176,14 +177,17 @@ Example:
 **Advanced Variants:**
 
 **Contextualized BKT:**
+
 - Different parameters per student (personalized learn rate, slip rate)
 - Estimated from student's historical data across all skills
 
 **Multi-Skill BKT:**
+
 - Models skill dependencies (knowing loops → easier to learn arrays)
 - Conditional probabilities: P(Learn Arrays | Know Loops) `>` P(Learn Arrays | Don't Know Loops)
 
 **Deep Knowledge Tracing (DKT):**
+
 - Replace fixed parameters with deep neural network
 - LSTM/Transformer learns optimal parameters from millions of student interactions
 - Used by Duolingo (2019+), outperforms BKT by 5-10% AUC
@@ -249,11 +253,13 @@ Where:
 - Higher a = better at separating students of different abilities
 
 **Low Discrimination (a = 0.5):**
+
 - Probability rises slowly from 0 to 1 across wide ability range
 - Question doesn't distinguish well between skill levels
 - Example: Ambiguous wording, multiple interpretations
 
 **High Discrimination (a = 2.0):**
+
 - Probability rises sharply around difficulty threshold
 - Excellent at identifying students just above/below mastery
 - Example: Clear, focused question testing specific concept
@@ -313,7 +319,7 @@ For each response:
 Example:
 Student attempts 3 questions:
 - Q1 (b=-1, a=1.5, c=0.2): CORRECT
-- Q2 (b=0, a=1.8, c=0.15): CORRECT  
+- Q2 (b=0, a=1.8, c=0.15): CORRECT
 - Q3 (b=+1, a=2.0, c=0.1): INCORRECT
 
 For θ = 0 (average ability):
@@ -363,10 +369,10 @@ Where:
 
 **Key Property:** Information is maximized when P(θ) ≈ 0.5 (50% chance of correct)
 
-**Why?** 
+**Why?**
 
 - If P(θ) = 0.90: We already know student can answer this → low information
-- If P(θ) = 0.10: We already know student can't answer this → low information  
+- If P(θ) = 0.10: We already know student can't answer this → low information
 - If P(θ) = 0.50: Maximum uncertainty → answer reveals most about true ability
 
 **Adaptive Algorithm:**
@@ -470,6 +476,7 @@ RH_Q4       | useCallback      | 0.6      | +0.2     | 0.25      | Medium, poor 
 **Complementary Strengths:**
 
 **BKT:**
+
 - ✅ Models knowledge evolution over time (learning trajectory)
 - ✅ Captures forgetting and decay
 - ✅ Skill-specific mastery tracking
@@ -477,6 +484,7 @@ RH_Q4       | useCallback      | 0.6      | +0.2     | 0.25      | Medium, poor 
 - ❌ Doesn't quantify item difficulty precisely
 
 **IRT:**
+
 - ✅ Continuous ability scale (very granular)
 - ✅ Precisely calibrated item difficulty
 - ✅ Optimal question selection (maximize information)

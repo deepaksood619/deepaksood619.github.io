@@ -22,6 +22,8 @@ It's about people and not place where you live, you enjoy places with people and
 
 [**Where on Earth Will People Live in the Future? | Parag Khanna | TED**](https://www.youtube.com/watch?v=MSevAi_YarQ)
 
+- Places you can live after Amoc collapse or which places will be disaster proof or resilient
+
 **20-30 degrees Celsius with no humidity throughout year i.e dry climate**
 
 ### Elevation / Altitude

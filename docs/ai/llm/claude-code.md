@@ -301,6 +301,7 @@ ls ~/.claude/get-shit-done/workflows/
 		4. Deduplication - Collapses repeated log lines with counts
 - [GitHub - snarktank/ralph: Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. · GitHub](https://github.com/snarktank/ralph) ⭐ 18k
 	- [Claude Code Testing: How to Make AI Verify (and Fix) Its Own Work](https://www.nathanonn.com/claude-code-testing-ralph-loop-verification/)
+- [OpenCode \| The open source AI coding agent](https://opencode.ai/)
 
 ### Skills
 

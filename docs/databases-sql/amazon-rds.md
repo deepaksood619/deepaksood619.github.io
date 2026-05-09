@@ -172,3 +172,4 @@ Multi-AZ deployments provide increased availability, data durability, and fault 
 - [Resolve an Amazon RDS instance that is in an incompatible-parameters state | AWS re:Post](https://repost.aws/knowledge-center/rds-incompatible-parameters)
 - [Troubleshoot high replica lag with Amazon RDS for MySQL \| AWS re:Post](https://repost.aws/knowledge-center/rds-mysql-high-replica-lag)
 - [Deploy multi-Region Amazon RDS for SQL Server using cross-Region read replicas with a disaster recovery blueprint – Part 1 \| AWS Database Blog](https://aws.amazon.com/blogs/database/deploy-multi-region-amazon-rds-for-sql-server-using-cross-region-read-replicas-with-a-disaster-recovery-blueprint-part-1/)
+- [Amazon RDS for PostgreSQL now supports pgvector for simplified ML model integration - AWS](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-postgresql-pgvector-ml-model-integration/)

@@ -353,9 +353,11 @@ Great for
 - ARM
 - Situations where a PhD in k8s clusterology is infeasible
 
-https://github.com/rancher/k3s
+### Links
 
-https://containerjournal.com/2019/08/01/powering-edge-with-kubernetes-a-primer
+- [GitHub - k3s-io/k3s: Lightweight Kubernetes · GitHub](https://github.com/rancher/k3s) ⭐ 33k
+- [Can we take a moment to appreciate k3s and how easy it makes standing up a k8s cluster?](https://www.reddit.com/r/kubernetes/comments/xb6uf5/can_we_take_a_moment_to_appreciate_k3s_and_how/)
+- [Powering Edge With Kubernetes: A Primer - Cloud Native Now](https://containerjournal.com/2019/08/01/powering-edge-with-kubernetes-a-primer)
 
 ## Lens (Kubelens)
 

@@ -110,19 +110,15 @@ How we want the things to be
 
 ## Other Tools
 
-Mesos
-
-Docker Swarm
-
-Skaffold
+- Mesos
+- Docker Swarm
+- Skaffold
 
 ## Managed Service
 
-EKS - Amazon Elastic Container Service
-
-GKE - Google Kubernetes Engine
-
-PKS - https://pivotal.io/platform/pivotal-container-service
+- EKS - Amazon Elastic Container Service
+- GKE - Google Kubernetes Engine
+- PKS - https://pivotal.io/platform/pivotal-container-service
 
 ## Advanced
 

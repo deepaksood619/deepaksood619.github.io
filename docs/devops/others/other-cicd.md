@@ -176,9 +176,8 @@ https://argoproj.github.io
 
 ### Others
 
-https://argoproj.github.io/argo-rollouts
-
-https://argoproj.github.io/argo-events/setup/kafka
+- https://argoproj.github.io/argo-rollouts
+- https://argoproj.github.io/argo-events/setup/kafka
 
 ## Semaphore
 
@@ -195,21 +194,14 @@ https://medium.com/axons/ci-cd-with-argo-on-kubernetes-28c1a99616a9
 
 ## GitlabCI
 
-[**https://docs.gitlab.com/ee/ci/yaml/index.html**](https://docs.gitlab.com/ee/ci/yaml/index.html)
-
-https://www.youtube.com/watch?v=LSdZj9X4MCM
-
-https://www.freecodecamp.org/news/devops-with-gitlab-ci-course
-
-[**https://dev.to/codicacom/how-to-deploy-a-static-website-to-aws-with-gitlab-ci-4g32**](https://dev.to/codicacom/how-to-deploy-a-static-website-to-aws-with-gitlab-ci-4g32)
-
-https://about.gitlab.com/blog/2021/02/05/ci-deployment-and-environments
-
-[**https://docs.gitlab.com/ee/ci/cloud_deployment/index.html#aws**](https://docs.gitlab.com/ee/ci/cloud_deployment/index.html#aws)
-
-https://docs.gitlab.com/ee/ci/variables
-
-[**https://docs.gitlab.com/ee/ci/variables/predefined_variables.html**](https://docs.gitlab.com/ee/ci/variables/predefined_variables.html)
+- [**https://docs.gitlab.com/ee/ci/yaml/index.html**](https://docs.gitlab.com/ee/ci/yaml/index.html)
+- https://www.youtube.com/watch?v=LSdZj9X4MCM
+- https://www.freecodecamp.org/news/devops-with-gitlab-ci-course
+- [**https://dev.to/codicacom/how-to-deploy-a-static-website-to-aws-with-gitlab-ci-4g32**](https://dev.to/codicacom/how-to-deploy-a-static-website-to-aws-with-gitlab-ci-4g32)
+- https://about.gitlab.com/blog/2021/02/05/ci-deployment-and-environments
+- [**https://docs.gitlab.com/ee/ci/cloud_deployment/index.html#aws**](https://docs.gitlab.com/ee/ci/cloud_deployment/index.html#aws)
+- https://docs.gitlab.com/ee/ci/variables
+- [**https://docs.gitlab.com/ee/ci/variables/predefined_variables.html**](https://docs.gitlab.com/ee/ci/variables/predefined_variables.html)
 
 ### Example
 

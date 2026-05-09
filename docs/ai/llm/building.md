@@ -89,6 +89,12 @@ A distillation attack occurs when someone systematically queries a proprietary A
 
 Instead of copying parameters, the attacker copies behaviour by treating the target model as a teacher and learning from its responses at scale. For developers building AI products, this raises serious concerns around API exposure, rate limits, watermarking, and model output monitoring.
 
+## Others
+
+People have a lot of implicit knowledge — things we know but struggle to fully explain. People often use body-oriented metaphors for this phenomenon. We say that an insight is “on the tip of our tongue,” that we “can’t put our finger on” an idea, or that we know something “in our gut.”
+
+Something similar is true of LLMs: their ability to perform cognitive tasks greatly exceeds their ability to explicitly explain how and why they’re able to perform them.
+
 ## Dev Tools
 
 - LangChain

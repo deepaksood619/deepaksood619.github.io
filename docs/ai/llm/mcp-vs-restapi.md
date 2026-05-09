@@ -172,19 +172,19 @@ You’re right that an LLM can technically call a REST API if you provide it wit
 
 While REST is a general-purpose communication pattern, MCP is an **AI-orchestration protocol**. Here is how they differ in practice:
 
-## 1. Discovery vs. Documentation
+### 1. Discovery vs. Documentation
 
 - **REST API:** Discovery is **manual**. Even with `/docs`, a human developer usually has to read the Swagger UI, understand the auth headers, and then write "glue code" or a specific prompt to tell the LLM how to use it.
 - **MCP:** Discovery is **native and automatic**. When an MCP client connects to a server, the server immediately sends a structured list of every tool, resource, and prompt template it has. The LLM doesn't just "see" an endpoint; it receives a strictly typed schema that it is pre-trained to understand as a function call.
 
-## 2. The "M × N" Problem
+### 2. The "M × N" Problem
 
 This is the strongest argument for MCP.
 
 - **REST:** If you have **5 LLMs** and **10 internal tools**, you might have to write and maintain **50 different integrations** (because each LLM provider handles "tool use" slightly differently in their SDKs).
 - **MCP:** You build **one MCP Server** for your tool. Any MCP-compatible LLM (Claude, IDEs like Cursor/Windsurf, or custom agents) can plug into it instantly. It standardizes the "handshake" between the model and the data.
 
-## 3. Beyond "Request-Response" (State & Context)
+### 3. Beyond "Request-Response" (State & Context)
 
 REST is stateless by design. MCP introduces concepts specifically for the "brain" of the AI:
 
@@ -192,7 +192,7 @@ REST is stateless by design. MCP introduces concepts specifically for the "brain
 - **Prompts:** MCP servers can serve **Prompt Templates**. A server doesn't just give the LLM data; it can give the LLM "instructions" on how to think about that data (e.g., a "Security Review" prompt template stored on the server).
 - **Sampling:** MCP allows for "Sampling," where the **Server** can actually ask the **LLM** to perform a task. In REST, the server is passive; in MCP, it's a bidirectional conversation.
 
-## 4. Architectural Layering
+### 4. Architectural Layering
 
 It’s helpful to view them as layers rather than competitors:
 
@@ -207,6 +207,38 @@ It’s helpful to view them as layers rather than competitors:
 | **Contract**         | OpenAPI / Swagger (optional)     | JSON-RPC 2.0 (mandatory)     |
 | **State**            | Stateless                        | Stateful (Context-aware)     |
 | **Integration**      | Custom "glue code" for every app | Plug-and-play via MCP Client |
+
+## MCP vs REST for CronJobs
+
+**A REST API is the better choice for a cronjob running exact, predetermined filters with exact tools.** Here is why a REST API is more suitable for this specific scenario, based on the fundamental differences between the two protocols:
+
+### 1. No Need for AI Orchestration
+
+REST APIs are designed for _human developers writing code_, whereas MCP is an _AI-orchestration protocol_ designed for _AI agents making decisions_. A cronjob running the exact same filters every time is a static, deterministic automation task. It doesn't need an AI's "cognitive layer" to decide which tool to use or how to use it.
+
+### 2. Discovery Overhead is Unnecessary
+
+A core feature of MCP is **runtime discovery** (automatically returning lists of available tools, resources, and schemas via endpoints like `tools/list`). If your cronjob always runs the exact same predetermined workflow, you don't need dynamic discovery. You already know the exact endpoints and payloads, making the direct REST API faster and leaner.
+
+### 3. Architectural Layers
+
+REST is the **"Infrastructure Layer"** (where the data actually lives) and MCP as the **"Translation Layer"** (the smart wrapper for LLMs). If you don't have an LLM in the loop dynamically figuring out what to do, wrapping your services in MCP simply adds unnecessary overhead. Your cronjob can just talk directly to the infrastructure layer (the REST API).
+
+### 4. Deterministic Code vs LLM Variations
+
+The main reason MCP wrappers are built is to solve the problem of LLMs hallucinating HTTP paths or getting parameters wrong when querying a REST API. In your cronjob scenario, a developer has already written the deterministic code to execute the HTTP requests perfectly. You don't suffer from the "combinatorial chaos" of APIs because your inputs and parameters are hardcoded and static.
+
+### Summary
+
+Think of MCP as the universal adapter that lets an AI model figure out how to talk to your system. If an AI model isn't doing the talking—and instead, it's a scheduled script running a fixed, repetitive task—using the REST API directly is exactly what it was designed for.
+
+| **Feature**     | **REST API / Standard Script**                                                     | **MCP (Model Context Protocol)**                                                   |
+| --------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| **Execution**   | **Deterministic.** It does exactly what the code says every single time.           | **Reasoning-based.** The model "decides" which tool to call based on the prompt.   |
+| **Overhead**    | **Minimal.** Direct HTTP requests or system calls.                                 | **High.** Requires an LLM to "think," parse tool schemas, and generate a call.     |
+| **Cost**        | **Free/Fixed.** Costs only the server compute to run the script.                   | **Token Costs.** You pay for the LLM tokens used to process the tools and filters. |
+| **Reliability** | **High.** If the endpoint is up, it works. No "hallucinations" on tool parameters. | **Variable.** The LLM might occasionally misinterpret a filter or skip a step.     |
+| **Speed**       | **Milliseconds.** Instant execution of the logic.                                  | **Seconds.** Latency from the LLM's inference and "reasoning" time.                |
 
 ## Links
 

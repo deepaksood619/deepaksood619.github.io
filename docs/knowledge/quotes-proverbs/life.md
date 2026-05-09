@@ -1180,6 +1180,8 @@ To be happy you must eliminate two things: the fear of a bad future and the memo
 
 Arguing with stupid people is like trying to kill the mosquito on your cheek. You may or may not kill it, but you will slap yourself.
 
+Never blame anyone in your Life. Good people give you Happiness. Bad people give you Experience. Worst people give you a Lesson and Best people give you Memories.
+
 ## Luck / Serendipity
 
 **Law of serendipity -** Lady luck favours the one who tries

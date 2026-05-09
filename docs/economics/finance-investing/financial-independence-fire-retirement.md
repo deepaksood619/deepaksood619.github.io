@@ -230,3 +230,4 @@ Even if the 26-year-old retires by 27 (naturally an unlikely event), the suggest
 - [Why Indian Retirees Can’t Spend the Money They Sacrificed Their Lives to Save](https://freefincal.com/why-indian-retirees-cant-spend-the-money-they-sacrificed-their-lives-to-save/)
 - [How beginners can plan for retirement in nine easy steps](https://freefincal.com/how-beginners-can-plan-for-retirement-in-nine-easy-steps/)
 - [Why financial independence will be hard to achieve even at normal retirement](https://freefincal.com/why-financial-independence-will-be-hard-to-achieve-even-at-normal-retirement/)
+- [The King Lear Dilemma: The Heavy Price of Giving Your Wealth to Your Children Too Soon](https://freefincal.com/the-king-lear-dilemma-the-heavy-price-of-giving-your-wealth-to-your-children-too-soon/)

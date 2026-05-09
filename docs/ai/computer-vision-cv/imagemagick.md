@@ -42,3 +42,9 @@
 - [Transform](https://imagemagick.org/Usage/resize/): resize, rotate, deskew, crop, flip or trim an image.
 - [Transparency](https://imagemagick.org/Usage/masking/): render portions of an image invisible.
 - [Virtual pixel support](https://imagemagick.org/script/architecture.php#virtual-pixels): convenient access to pixels outside the image region.
+
+## Merge PDF
+
+```bash
+magick *.jpg *.pdf combined_output.pdf
+```

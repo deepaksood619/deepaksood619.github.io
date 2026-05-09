@@ -160,6 +160,27 @@ Hosting Llama 3 Billion parameters or similar other multimodal  and used the exp
 - Consider Using Managed Services
 - [How Knowunity used distil labs to cut their LLM bill by 50%](https://www.distillabs.ai/blog/how-knowunity-used-distil-labs-cut-llm-bill-50-percent)
 
+## Batch Processing
+
+Batch processing is a powerful approach for handling large volumes of requests efficiently. Instead of processing requests one at a time with immediate responses, batch processing allows you to submit multiple requests together for asynchronous processing. This pattern is particularly useful when:
+
+- You need to process large volumes of data
+- Immediate responses are not required
+- You want to optimize for cost efficiency
+- You're running large-scale evaluations or analyses
+
+The Message Batches API is Anthropic's first implementation of this pattern.
+
+Compared to using standard endpoints directly, Batch API has:
+
+1. **Better cost efficiency:** 50% cost discount compared to synchronous APIs
+2. **Higher rate limits:** [Substantially more headroom](https://platform.openai.com/settings/organization/limits) compared to the synchronous APIs
+3. **Fast completion times:** Each batch completes within 24 hours (and often more quickly)
+
+[Batch processing - Claude API Docs](https://platform.claude.com/docs/en/build-with-claude/batch-processing)
+
+[Batch API \| OpenAI API](https://developers.openai.com/api/docs/guides/batch)
+
 ## Links
 
 - [Cost of self hosting Llama-3 8B-Instruct \| Hacker News](https://news.ycombinator.com/item?id=40681784)

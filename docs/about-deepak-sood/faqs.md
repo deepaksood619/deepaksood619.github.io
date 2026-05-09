@@ -219,6 +219,7 @@ What matters is
 
 ## Two Truth and a lie
 
-- Bike Crash
+- Was in a bike crash and crashed into police station board
 - Had 2 girlfriend at one time
 - Have seen live shooting
+- Obsessive writer, and maintain a lot of notes about everything

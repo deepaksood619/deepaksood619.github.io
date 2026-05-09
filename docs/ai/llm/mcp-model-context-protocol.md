@@ -468,6 +468,37 @@ if __name__ == "__main__":
 
 [MCP: Advanced Caching strategies. The caching solution we built in our… \| by Parichay Pothepalli \| Medium](https://medium.com/@parichay2406/advanced-caching-strategies-for-mcp-servers-from-theory-to-production-1ff82a594177)
 
+## The Costs and Tradeoffs of Tool Use
+
+That rapid growth, however, has surfaced real costs and risks that are important to understand.
+
+The most significant is security. Every tool exposed to an LLM expands the system’s attack surface. In September 2025, this became concrete. A developer published an npm package that looked like an official email integration for MCP, mimicking the name and structure of a legitimate library from Postmark, a well-known email service. Hundreds of developers installed it. Later, it was found that a hidden code in the package was silently forwarding copies of every outgoing email to the attacker. This was a supply chain attack, where malicious code is hidden inside a dependency that looks trustworthy, and it was described as the first such attack targeting MCP servers.
+
+Security challenges go beyond individual attacks. The protocol initially prioritized ease of adoption over robust security, and the authentication specifications went through multiple revisions as the community worked to close gaps. This is a familiar pattern in technology standards: interoperability and adoption come first, and security matures with time. The MCP specification continues to evolve, with recent revisions addressing authentication, server identity, and governance.
+
+Beyond security, there is a subtler cost. Every tool definition exposed to the model consumes tokens in the context window. The name, description, and parameter schema of each tool all occupy space in the same finite context that holds the conversation history and task instructions. A handful of tools creates negligible overhead. Dozens or hundreds start crowding out the room the model needs to reason about the task. An agent with access to hundreds of tools sounds powerful in theory, but in practice, each additional tool slightly degrades the model’s ability to focus on the actual problem.
+
+Tool use also does not make LLMs deterministic. The model can still hallucinate function names, pass malformed arguments, or chain tools in unexpected ways. Validation, error handling, and human approval steps are essential parts of any production system that gives an LLM access to real-world capabilities.
+
+## UCP
+
+The [Universal Commerce Protocol (UCP)](http://ucp.dev/) is an open-source standard designed to power the next generation of agentic commerce. By establishing a common language and functional primitives, UCP enables seamless commerce journeys between consumer surfaces, businesses, and payment providers. It is built to work with existing retail infrastructure, and is compatible with Agent Payments Protocol ([AP2](https://ap2-protocol.org/)) to provide secure agentic payments support. It also provides businesses flexible ways to integrate via APIs, Agent2Agent ([A2A](https://a2a-protocol.org/latest/)), and the Model Context Protocol ([MCP](https://modelcontextprotocol.io/docs/getting-started/intro)).
+
+- [Under the Hood: Universal Commerce Protocol (UCP) - Google Developers Blog](https://developers.googleblog.com/under-the-hood-universal-commerce-protocol-ucp/)
+- http://0.0.0.0:8182/.well-known/ucp
+- [GitHub - Universal-Commerce-Protocol/samples: Samples for UCP · GitHub](https://github.com/Universal-Commerce-Protocol/samples) ⭐ 200
+
+### Google Merchant Center Next
+
+- Add products from a file (Automatically updates)
+	- Create a file that contains all your product details (title, description, price, and more). This method may require some technical knowledge.
+- Use Google Sheets (Automatically updates)
+	- Add your product details (title, description, price, and more) using a Google Sheets spreadsheet.
+- Add products one by one (Requires manual updates)
+	- Use this option if you want to add one or just a few products. Just fill in a form with all the details about your product. After you add your products, you can edit, delete or add more at any later time.
+- Add products using API (Scheduled updates)
+	- Use the Merchant API to upload a large number of products or if you plan to make frequent changes to your product details. This method requires technical knowledge.
+
 ## Tools
 
 - [GitHub - jlowin/fastmcp: 🚀 The fast, Pythonic way to build MCP servers and clients](https://github.com/jlowin/fastmcp) ⭐ 25k
@@ -506,19 +537,6 @@ if __name__ == "__main__":
 	- The **Agent Communication Protocol (ACP)** is an open protocol for agent interoperability that solves the growing challenge of connecting AI agents, applications, and humans. Modern AI agents are often built in isolation, across different frameworks, teams, and infrastructures. This fragmentation slows innovation and makes it harder for agents to work together effectively.
 - Google - Agent Payments Protocol (AP2)
 - Claude Skills - [Antropic - Claude Skills](https://api.filekitcdn.com/e/k7YHPN24SoxyM8nGKZnDxa/a4xJgHQ8Nbk8g4A8riZomz/player)
-- [Under the Hood: Universal Commerce Protocol (UCP) - Google Developers Blog](https://developers.googleblog.com/under-the-hood-universal-commerce-protocol-ucp/)
-	- The [Universal Commerce Protocol (UCP)](http://ucp.dev/) is an open-source standard designed to power the next generation of agentic commerce. By establishing a common language and functional primitives, UCP enables seamless commerce journeys between consumer surfaces, businesses, and payment providers. It is built to work with existing retail infrastructure, and is compatible with Agent Payments Protocol ([AP2](https://ap2-protocol.org/)) to provide secure agentic payments support. It also provides businesses flexible ways to integrate via APIs, Agent2Agent ([A2A](https://a2a-protocol.org/latest/)), and the Model Context Protocol ([MCP](https://modelcontextprotocol.io/docs/getting-started/intro)).
-	- http://0.0.0.0:8182/.well-known/ucp
-	- [GitHub - Universal-Commerce-Protocol/samples: Samples for UCP · GitHub](https://github.com/Universal-Commerce-Protocol/samples) ⭐ 200
-	- Google Merchant Center Next
-		- Add products from a file (Automatically updates)
-			- Create a file that contains all your product details (title, description, price, and more). This method may require some technical knowledge.
-		- Use Google Sheets (Automatically updates)
-			- Add your product details (title, description, price, and more) using a Google Sheets spreadsheet.
-		- Add products one by one (Requires manual updates)
-			- Use this option if you want to add one or just a few products. Just fill in a form with all the details about your product. After you add your products, you can edit, delete or add more at any later time.
-		- Add products using API (Scheduled updates)
-			- Use the Merchant API to upload a large number of products or if you plan to make frequent changes to your product details. This method requires technical knowledge.
 
 ## Links
 
@@ -541,3 +559,4 @@ if __name__ == "__main__":
 - [Securing the AI agent supply chain with Cisco's open-source MCP Scanner - Cisco Blogs](https://blogs.cisco.com/ai/securing-the-ai-agent-supply-chain-with-ciscos-open-source-mcp-scanner)
 	- [GitHub - cisco-ai-defense/mcp-scanner: Scan MCP servers for potential threats & security findings.](https://github.com/cisco-ai-defense/mcp-scanner) ⭐ 901
 - [Is MCP dead? I don't think so](https://www.linkedin.com/pulse/mcp-dead-i-dont-think-so-viktor-gamov-w4efe/)
+- [Connecting LLMs to the Real World: Tool Use, Function Calling, and MCP](https://blog.bytebytego.com/p/connecting-llms-to-the-real-world)

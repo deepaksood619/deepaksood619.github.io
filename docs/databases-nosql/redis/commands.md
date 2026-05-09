@@ -53,7 +53,13 @@ https://raw.githubusercontent.com/bitnami/charts/master/bitnami/redis/values-pro
 ### Commands
 
 ```bash
+sudo apt update
+sudo apt install -y redis-tools
+
 redis-cli ping
+
+# without password
+redis-cli
 
 # staging decision-engine
 redis-cli -h localhost -p 6379 -a 'a6ad92769ef04b711eea18dccfff85ea' ping
@@ -72,12 +78,14 @@ redis-cli -a a6ad92769ef04b711eea18dccfff85ea --no-auth-warning --scan | while r
 # DML
 CONFIG GET *
 info # https://redis.io/commands/info
+# section - Memory
 config set maxmemory <value>
 config set maxmemory 2gb
 config set maxmemory 5gb
 config set maxmemory 48gb
 config set maxmemory 80gb
-maxmemory-policy
+
+maxmemory_policy:noeviction
 
 # Cleanups
 BGREWRITEAOF #Compress AOF

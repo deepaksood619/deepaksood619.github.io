@@ -162,4 +162,5 @@ These strategies are powerful, but they involve trade-offs with no universal rig
 
 ## Links
 
-[A Guide to Context Engineering for LLMs](https://blog.bytebytego.com/p/a-guide-to-context-engineering-for)
+- [A Guide to Context Engineering for LLMs](https://blog.bytebytego.com/p/a-guide-to-context-engineering-for)
+- [Context rot: the emerging challenge that could hold back LLM progress](https://www.understandingai.org/p/context-rot-the-emerging-challenge)

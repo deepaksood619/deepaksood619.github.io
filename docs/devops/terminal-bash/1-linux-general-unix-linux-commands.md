@@ -846,6 +846,8 @@ brew install rar
 brew install qpdf
 
 qpdf --password=YOUR_PASSWORD --decrypt input.pdf output.pdf
+
+# magick - [imagemagick](ai/computer-vision-cv/imagemagick.md)
 ```
 
 ## df - report file system disk space usage

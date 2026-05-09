@@ -142,6 +142,16 @@ https://trac.ffmpeg.org/wiki/Concatenate
 - Compressions
 - Rarefactions
 
+## AV1
+
+AV1 (AOMedia Video 1) is **a modern, open-source, and royalty-free video codec designed for high-efficiency streaming over the internet**. Developed by the Alliance for Open Media (AOMedia), it provides roughly 30–50% better compression than HEVC/H.265, enabling higher quality video (4K/8K) at lower bitrates and faster streaming with less buffering
+
+Others
+
+- **H.264 (AVC):** The industry standard for over a decade, known for near-universal compatibility across almost every device, browser, and legacy hardware. While it has lower compression efficiency compared to newer standards, it remains the most reliable for general web video and social media.
+- **H.265 (HEVC):** The successor to H.264, offering about 50% better compression. It is the primary codec for **4K and HDR** content, especially on physical media like Blu-ray and in high-end cameras, though its adoption was slowed by complex licensing fees.
+- **VP9:** Developed by **Google** as a royalty-free alternative to H.265. It is heavily used by YouTube and is widely supported by web browsers for high-definition streaming.
+
 ## Links
 
 - [Video Streaming With the AV1 Video Codec in Mobile Devices - Engineering at Meta](https://engineering.fb.com/2025/09/24/video-engineering/video-streaming-with-av1-video-codec-mobile-devices-meta-white-paper/)

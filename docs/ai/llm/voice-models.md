@@ -12,6 +12,8 @@
 - [Demo \| GigaML](https://demo.gigaml.com/)
 - [Teneo.ai \| Make Your AI Agent the Smartest](https://www.teneo.ai/)
 - [Build Chat and Voice AI Agents Without Code \| Voiceflow](https://www.voiceflow.com/)
+- [GitHub - TEN-framework/ten-framework: Open-source framework for conversational voice AI agents · GitHub](https://github.com/TEN-framework/ten-framework)
+	- [TEN Agent](https://agent.theten.ai/)
 
 ### Speech to Speech
 

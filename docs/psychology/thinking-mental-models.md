@@ -184,6 +184,18 @@ Upward counterfactuals are **thoughts about how the situation could have been be
 
 [Four stages of competence. The Four Stages of Competence was… \| by Minh Do \| Medium](https://medium.com/@anhminhdo/4-levels-of-competence-fb1bbddd945d)
 
+## Blue Sky Thinking
+
+Coming up with ideal or imaginative ideas without worrying about whether they'll actually happen in the real world.
+
+Blue sky thinking is a brainstorming approach that encourages unlimited, creative, and "out-of-the-box" ideas without immediate regard for practical constraints, feasibility, or budget. It aims to foster innovation by removing self-imposed limits and fostering a "what if" mindset to break through conventional thinking.
+
+**Techniques**
+
+- **"What If" Scenarios:** Asking questions that remove constraints (e.g., "What if we had an unlimited budget?").
+- **Encouraging Wild Ideas:** Actively encouraging ideas that seem impossible, to break the mental "how will this make me look" test, as explained on [Wazoku](https://www.wazoku.com/blog/the-beauty-of-blue-sky-thinking/).
+- **Deferring Judgment:** Separating the generation of ideas from the evaluation phase.
+
 ## Links
 
 https://system.com

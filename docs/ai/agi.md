@@ -39,6 +39,8 @@ One day, frontier AI research used to be done by meat computers in between eatin
 
 [GitHub - karpathy/nanochat: The best ChatGPT that $100 can buy. · GitHub](https://github.com/karpathy/nanochat) ⭐ 53k
 
+[I don’t think we are close to “AI scientists”](https://www.understandingai.org/p/i-dont-think-we-are-close-to-ai-scientists)
+
 ## Links
 
 - [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
