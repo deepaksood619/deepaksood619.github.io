@@ -41,6 +41,7 @@ Comprehensive comparison of CI/CD tools for modern software delivery, with focus
 | **Cost** | Free | Free | Free | Free | Free/Paid | Free/Paid | Free | Paid |
 
 **Legend:**
+
 - ✅ = Native support
 - ⚠️ = Limited/partial support or requires plugins
 - ❌ = Not supported or requires significant custom work
@@ -54,6 +55,7 @@ Comprehensive comparison of CI/CD tools for modern software delivery, with focus
 **Type:** Continuous Delivery (GitOps)
 
 **Strengths:**
+
 - Declarative GitOps approach
 - Automatic sync and drift detection
 - Multi-cluster management
@@ -63,6 +65,7 @@ Comprehensive comparison of CI/CD tools for modern software delivery, with focus
 - SSO integration (SAML, OIDC)
 
 **Weaknesses:**
+
 - Primarily CD only (needs CI tool)
 - Steeper learning curve for GitOps concepts
 - Can be resource-intensive at scale
@@ -78,6 +81,7 @@ Comprehensive comparison of CI/CD tools for modern software delivery, with focus
 **Type:** Continuous Delivery (GitOps)
 
 **Strengths:**
+
 - Lightweight, pure Kubernetes operator
 - CNCF graduated project
 - Image automation policies
@@ -86,6 +90,7 @@ Comprehensive comparison of CI/CD tools for modern software delivery, with focus
 - Native Helm and Kustomize support
 
 **Weaknesses:**
+
 - Less mature UI compared to ArgoCD
 - Smaller ecosystem/community
 - Primarily CD-focused
@@ -101,6 +106,7 @@ Comprehensive comparison of CI/CD tools for modern software delivery, with focus
 **Type:** CI/CD Framework
 
 **Strengths:**
+
 - Cloud-native, Kubernetes CRDs
 - Vendor-neutral (CD Foundation)
 - Highly composable and reusable
@@ -108,6 +114,7 @@ Comprehensive comparison of CI/CD tools for modern software delivery, with focus
 - Event-driven architecture
 
 **Weaknesses:**
+
 - More complex to set up
 - Requires building pipelines from scratch
 - Smaller out-of-the-box integrations
@@ -126,6 +133,7 @@ Comprehensive comparison of CI/CD tools for modern software delivery, with focus
 **Type:** CI/CD Platform
 
 **Jenkins Strengths:**
+
 - Massive plugin ecosystem (1800+)
 - Highly customizable
 - Self-hosted, full control
@@ -133,12 +141,14 @@ Comprehensive comparison of CI/CD tools for modern software delivery, with focus
 - Kubernetes plugin for dynamic agents
 
 **Jenkins Weaknesses:**
+
 - Legacy UI/UX
 - Complex maintenance
 - Plugin compatibility issues
 - Not cloud-native
 
 **Jenkins X:**
+
 - Kubernetes-native Jenkins
 - GitOps promotion, preview environments
 - Automated CI/CD for K8s
@@ -155,6 +165,7 @@ Comprehensive comparison of CI/CD tools for modern software delivery, with focus
 **Type:** All-in-one DevOps Platform
 
 **Strengths:**
+
 - Integrated SCM + CI/CD + registry + security scanning
 - Auto DevOps for K8s
 - Built-in container registry
@@ -164,6 +175,7 @@ Comprehensive comparison of CI/CD tools for modern software delivery, with focus
 - Self-hosted or SaaS
 
 **Weaknesses:**
+
 - Can be resource-heavy
 - Some features locked behind paid tiers
 - Less flexible than pure CI tools
@@ -179,6 +191,7 @@ Comprehensive comparison of CI/CD tools for modern software delivery, with focus
 **Type:** CI/CD Service
 
 **Strengths:**
+
 - Tight GitHub integration
 - Huge marketplace of actions
 - Simple YAML syntax
@@ -187,6 +200,7 @@ Comprehensive comparison of CI/CD tools for modern software delivery, with focus
 - Matrix builds, caching
 
 **Weaknesses:**
+
 - Tied to GitHub ecosystem
 - Limited self-hosted features vs SaaS
 - Minutes-based pricing can get expensive
@@ -202,6 +216,7 @@ Comprehensive comparison of CI/CD tools for modern software delivery, with focus
 **Type:** CI/CD Service
 
 **Strengths:**
+
 - Fast build times
 - Docker-native
 - Orbs (reusable config packages)
@@ -209,6 +224,7 @@ Comprehensive comparison of CI/CD tools for modern software delivery, with focus
 - K8s deployments via kubectl/Helm
 
 **Weaknesses:**
+
 - SaaS-focused (limited self-hosted)
 - Can be expensive at scale
 - Less K8s-native than ArgoCD/Flux
@@ -224,6 +240,7 @@ Comprehensive comparison of CI/CD tools for modern software delivery, with focus
 **Type:** CI Platform
 
 **Strengths:**
+
 - Container-native
 - Lightweight, simple YAML
 - Self-hosted, open source
@@ -231,6 +248,7 @@ Comprehensive comparison of CI/CD tools for modern software delivery, with focus
 - Easy K8s integration
 
 **Weaknesses:**
+
 - Smaller ecosystem vs Jenkins/GitLab
 - Less mature enterprise features
 - Limited built-in K8s deployment tools
@@ -248,6 +266,7 @@ Comprehensive comparison of CI/CD tools for modern software delivery, with focus
 **Type:** Multi-Cloud CD Platform
 
 **Strengths:**
+
 - Advanced deployment strategies (canary, blue/green, rolling)
 - Multi-cloud support (K8s, AWS, GCP, Azure)
 - Built-in deployment safety (manual approvals, automated rollbacks)
@@ -255,6 +274,7 @@ Comprehensive comparison of CI/CD tools for modern software delivery, with focus
 - Flexible pipeline engine
 
 **Weaknesses:**
+
 - Complex setup and maintenance
 - Steep learning curve
 - Resource-intensive
@@ -271,6 +291,7 @@ Comprehensive comparison of CI/CD tools for modern software delivery, with focus
 **Type:** Commercial CD Platform
 
 **Strengths:**
+
 - AI-powered deployment verification
 - Advanced canary/blue-green deployments
 - Multi-cloud, K8s-native
@@ -278,6 +299,7 @@ Comprehensive comparison of CI/CD tools for modern software delivery, with focus
 - GitOps support
 
 **Weaknesses:**
+
 - Commercial (expensive)
 - Vendor lock-in
 - Less community vs open-source tools
@@ -320,7 +342,7 @@ Comprehensive comparison of CI/CD tools for modern software delivery, with focus
 **Separation of Concerns (Recommended):**
 
 ```
-[Code Push] 
+[Code Push]
     → [CI Tool: GitHub Actions/GitLab/Jenkins]
         → Build, Test, Create Container
         → Push to Registry
@@ -330,7 +352,8 @@ Comprehensive comparison of CI/CD tools for modern software delivery, with focus
         → Deploy to Cluster
 ```
 
-**Why:** 
+**Why:**
+
 - CI tools excel at builds/tests
 - GitOps tools excel at K8s deployments
 - Clear separation, specialized tools

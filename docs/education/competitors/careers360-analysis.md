@@ -715,7 +715,7 @@ Unlike exam prep platforms (Unacademy, PhysicsWallah) with instructor marketplac
 4. **Bootstrapped Profitability is Viable:**
    - Edtech can be profitable without VC (vs Unacademy/BYJU'S failures)
    - High margins: Content reuse, organic traffic
-   - Sustainable growth > blitzscaling
+   - Sustainable growth `>` blitzscaling
 
 5. **Data Network Effect:**
    - More data → better recommendations → more users → more data
@@ -779,7 +779,7 @@ Unlike exam prep platforms (Unacademy, PhysicsWallah) with instructor marketplac
    - Adaptive learning based on student profile
    - Real-time personalization (not annual cutoff updates)
 
-3. **Outcomes > Information:**
+3. **Outcomes `>` Information:**
    - Focus on skill development and career outcomes
    - Track salaries, job placements, skill-to-income correlation
    - Measure impact (not just information access)
@@ -816,7 +816,7 @@ Unlike exam prep platforms (Unacademy, PhysicsWallah) with instructor marketplac
 
 - [Unacademy Analysis](education/competitors/unacademy-analysis.md) - India edtech collapse, 85% valuation decline, what went wrong
 - [PhysicsWallah Analysis](education/competitors/physicswallah-analysis.md) - Only profitable edtech unicorn, bootstrap success
-- [CollegeDunia Analysis](education/competitors/collegedunia-analysis.md) - Direct competitor (if available)
+- CollegeDunia Analysis
 - [Shiksha Analysis](education/competitors/shiksha-analysis.md) - Info Edge-backed competitor (if available)
 - [Technical Hiring Assessment Market](education/competitors/technical-hiring-assessment-market.md) - Adjacent market analysis
 - [Consolidated EdTech Platforms](education/competitors/consolidated-edtech-platforms.md) - India edtech landscape

@@ -5,6 +5,7 @@
 **GitHub Actions** is GitHub's built-in CI/CD and workflow automation platform that enables you to build, test, and deploy code directly from your GitHub repository.
 
 **Key Features:**
+
 - Workflow automation triggered by GitHub events
 - YAML-based configuration (`.github/workflows/`)
 - Massive marketplace of reusable actions (10,000+ actions)
@@ -18,38 +19,44 @@
 ### Components
 
 **Workflows:**
+
 - YAML files in `.github/workflows/` directory
 - Define automation triggered by events
 - Can contain one or more jobs
 
 **Jobs:**
+
 - Set of steps executed on a runner
 - Run in parallel by default (configurable)
 - Each job runs in fresh virtual environment
 
 **Steps:**
+
 - Individual tasks within a job
 - Can run commands or actions
 - Execute sequentially within a job
 
 **Actions:**
+
 - Reusable units of code
 - From Marketplace or custom-built
 - Can be referenced in workflow steps
 
 **Runners:**
+
 - Servers that execute workflows
 - GitHub-hosted (Ubuntu, Windows, macOS)
 - Self-hosted on your infrastructure
 
 **Events:**
+
 - Triggers for workflows (push, pull_request, schedule, etc.)
 - 40+ event types available
 
 ### Workflow Execution Model
 
 ```
-[GitHub Event] 
+[GitHub Event]
     → [Workflow Triggered]
         → [Job 1] → [Step 1] → [Step 2] → [Step 3]
         → [Job 2] → [Step 1] → [Step 2]
@@ -72,23 +79,23 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
-      
+
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
         node-version: '20'
         cache: 'npm'
-        
+
     - name: Install dependencies
       run: npm ci
-      
+
     - name: Run tests
       run: npm test
-      
+
     - name: Build
       run: npm run build
 ```
@@ -109,7 +116,7 @@ jobs:
       matrix:
         os: [ubuntu-latest, windows-latest, macos-latest]
         node-version: [18, 20, 22]
-        
+
     steps:
     - uses: actions/checkout@v4
     - name: Setup Node ${{ matrix.node-version }}
@@ -127,7 +134,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main' && github.event_name == 'push'
-    
+
     steps:
     - name: Deploy to production
       run: ./deploy.sh
@@ -139,10 +146,10 @@ jobs:
 on:
   # Single event
   push:
-  
+
   # Multiple events
   [push, pull_request]
-  
+
   # Event with filters
   push:
     branches:
@@ -153,15 +160,15 @@ on:
       - '!docs/**'
     tags:
       - v*
-      
+
   # Pull request events
   pull_request:
     types: [opened, synchronize, reopened]
-    
+
   # Scheduled (cron)
   schedule:
     - cron: '0 2 * * *'  # Daily at 2 AM UTC
-    
+
   # Manual trigger
   workflow_dispatch:
     inputs:
@@ -169,7 +176,7 @@ on:
         description: 'Deployment environment'
         required: true
         default: 'staging'
-        
+
   # Repository dispatch (API-triggered)
   repository_dispatch:
     types: [deploy-event]
@@ -317,29 +324,29 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    
+
     steps:
     - uses: actions/checkout@v4
-    
+
     - name: Build Docker image
       run: |
         docker build -t myapp:${{ github.sha }} .
-        
+
     - name: Push to registry
       run: |
         echo ${{ secrets.DOCKER_PASSWORD }} | docker login -u ${{ secrets.DOCKER_USERNAME }} --password-stdin
         docker push myapp:${{ github.sha }}
-        
+
     - name: Setup kubectl
       uses: azure/setup-kubectl@v4
       with:
         version: 'v1.28.0'
-        
+
     - name: Configure kubeconfig
       run: |
         echo "${{ secrets.KUBECONFIG }}" > kubeconfig
         export KUBECONFIG=kubeconfig
-        
+
     - name: Deploy to K8s
       run: |
         kubectl set image deployment/myapp myapp=myapp:${{ github.sha }}
@@ -353,7 +360,7 @@ jobs:
   uses: azure/setup-helm@v4
   with:
     version: 'v3.13.0'
-    
+
 - name: Deploy with Helm
   run: |
     helm upgrade --install myapp ./helm-chart \
@@ -368,7 +375,7 @@ jobs:
 - uses: azure/k8s-set-context@v4
   with:
     kubeconfig: ${{ secrets.KUBECONFIG }}
-    
+
 - uses: azure/k8s-deploy@v5
   with:
     namespace: production
@@ -565,13 +572,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: npm run build
-      
+
   test:
     needs: build
     runs-on: ubuntu-latest
     steps:
       - run: npm test
-      
+
   deploy:
     needs: [build, test]
     runs-on: ubuntu-latest
@@ -741,16 +748,16 @@ jobs:
     permissions:
       contents: read
       packages: write
-      
+
     steps:
       - uses: actions/checkout@v4
-      
+
       - uses: docker/login-action@v3
         with:
           registry: ${{ env.REGISTRY }}
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
-          
+
       - uses: docker/metadata-action@v5
         id: meta
         with:
@@ -759,7 +766,7 @@ jobs:
             type=semver,pattern={{version}}
             type=semver,pattern={{major}}.{{minor}}
             type=sha
-            
+
       - uses: docker/build-push-action@v5
         with:
           context: .
@@ -838,6 +845,50 @@ jobs:
 - [Blacksmith - Faster runners](https://blacksmith.sh/)
 - [Actions Toolkit](https://github.com/actions/toolkit)
 - [Azure K8s Actions](https://github.com/Azure/k8s-actions)
+
+## Github Actions - Workflow automation
+
+- https://github.com/marketplace
+- https://github.blog/2019-08-08-github-actions-now-supports-ci-cd
+- Sign up for beta - https://github.com/features/actions
+- https://dev.to/bnb/an-unintentionally-comprehensive-introduction-to-github-actions-ci-blm
+- https://blog.kontena.io/deploying-to-kubernetes-from-github-actions
+- https://help.github.com/en/categories/automating-your-workflow-with-github-actions
+- https://github.com/Azure/k8s-actions
+- https://dev.to/bnb/an-unintentionally-comprehensive-introduction-to-github-actions-ci-blm
+- [Continuous Delivery: GitHub Actions (Developer Workflow Automation with GitHub Actions CICD)](https://www.youtube.com/watch?v=cKMO0aeh8GI&ab_channel=CodingTech)
+
+### Blacksmith
+
+- [Blacksmith](https://blacksmith.sh/)
+- [Blacksmith - Overview + Get Started - YouTube](https://www.youtube.com/watch?v=lZO1HExEvtE)
+- [Why Blacksmith?](https://docs.blacksmith.sh/getting-started/why-blacksmith)
+
+### Github Actions - [Marketplace](https://github.com/marketplace)
+
+- [Setup Node.js environment - GitHub Marketplace](https://github.com/marketplace/actions/setup-node-js-environment)
+- [GitHub - peaceiris/actions-gh-pages: GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.](https://github.com/peaceiris/actions-gh-pages) ⭐ 5.3k
+- [Checkout - GitHub Marketplace](https://github.com/marketplace/actions/checkout)
+- [Retry Step - GitHub Marketplace](https://github.com/marketplace/actions/retry-step)
+- [retry action - GitHub Marketplace](https://github.com/marketplace/actions/retry-action)
+- [Lighthouse CI Action · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/lighthouse-ci-action)
+- [GitHub - anishathalye/proof-html: A GitHub Action to validate HTML, check links, and more ✅](https://github.com/anishathalye/proof-html) ⭐ 117
+
+**Run github actions locally**
+
+```bash
+brew install act
+```
+
+https://github.com/nektos/act
+
+**Run github actions on K8s cluster**
+
+https://medium.com/nerd-for-tech/github-actions-self-hosted-runner-on-kubernetes-55d077520a31
+
+**Github Secrets**
+
+[Using secrets in GitHub Actions - GitHub Docs](https://docs.github.com/en/actions/security-guides/using-secrets-in-github-actions)
 
 ## See Also
 

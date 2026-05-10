@@ -1,5 +1,39 @@
 # ArgoCD
 
+### Workflows and Pipelines
+
+Container native workflow engine for Kubernetes supporting both DAG and step based workflows
+
+Argo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes. Argo Workflows is implemented as a Kubernetes CRD.
+
+- Define workflows where each step in the workflow is a container.
+- Model multi-step workflows as a sequence of tasks or capture the dependencies between tasks using a graph (DAG).
+- Easily run compute intensive jobs for machine learning or data processing in a fraction of the time using Argo Workflows on Kubernetes.
+- Run CI/CD pipelines natively on Kubernetes without configuring complex software development products.
+
+### Continuous Delivery
+
+Declarative Continuous Delivery following Gitops
+
+Application definitions, configurations, and environments should be declarative and version controlled. Application deployment and lifecycle management should be automated, auditable, and easy to understand.
+
+### Advanced Deployment Controller
+
+Additional Kubernetes deployment strategies such as Blue-Green and Canary
+
+### Events
+
+Event based dependency manager for Kubernetes
+
+What Argo does differently is how they manage the actual CI/CD. It is specifically developed for Kubernetes and integrates with it through CRD's (Custom Resource Definitions). It defines a new CRD which is the 'Workflow'. In this workflow you define what needs to happen by laying out steps in a yaml format. Each step runs inits own Docker containeron your own Kubernetes cluster.
+
+### Others
+
+- [GitHub - argoproj/argo-workflows: Workflow Engine for Kubernetes · GitHub](https://github.com/argoproj/argo)
+- [Home \| Argo](https://argoproj.github.io)
+- https://argoproj.github.io/argo-rollouts
+- https://argoproj.github.io/argo-events/setup/kafka
+
 ## Overview
 
 **ArgoCD** is a declarative, GitOps continuous delivery tool for Kubernetes. It automatically syncs your K8s cluster state with Git repository configurations.
@@ -7,6 +41,7 @@
 **Type:** Continuous Delivery (GitOps)
 
 **Key Features:**
+
 - Declarative GitOps-based continuous delivery
 - Automated deployment and lifecycle management
 - Multi-cluster, multi-tenant support
@@ -155,12 +190,12 @@ spec:
     repoURL: https://github.com/myorg/myapp
     targetRevision: HEAD
     path: k8s/overlays/production
-    
+
   # Destination cluster
   destination:
     server: https://kubernetes.default.svc
     namespace: production
-    
+
   # Sync policy
   syncPolicy:
     automated:
@@ -199,11 +234,11 @@ spec:
       parameters:
         - name: service.type
           value: LoadBalancer
-          
+
   destination:
     server: https://kubernetes.default.svc
     namespace: production
-    
+
   syncPolicy:
     automated:
       prune: true
@@ -229,7 +264,7 @@ spec:
       commonLabels:
         environment: production
       namePrefix: prod-
-      
+
   destination:
     server: https://kubernetes.default.svc
     namespace: production
@@ -399,7 +434,7 @@ spec:
           - cluster: production
             url: https://prod.k8s.local
             namespace: production
-            
+
   template:
     metadata:
       name: '{{cluster}}-myapp'
@@ -431,28 +466,28 @@ metadata:
   namespace: argocd
 spec:
   description: My Project
-  
+
   # Source repos
   sourceRepos:
     - 'https://github.com/myorg/*'
-    
+
   # Destination clusters/namespaces
   destinations:
     - namespace: 'production'
       server: https://kubernetes.default.svc
     - namespace: 'staging'
       server: https://kubernetes.default.svc
-      
+
   # Cluster resource whitelist
   clusterResourceWhitelist:
     - group: '*'
       kind: '*'
-      
+
   # Namespace resource blacklist
   namespaceResourceBlacklist:
     - group: ''
       kind: ResourceQuota
-      
+
   # Roles
   roles:
     - name: developer
@@ -570,7 +605,7 @@ jobs:
         run: |
           docker build -t myapp:${{ github.sha }} .
           docker push myapp:${{ github.sha }}
-          
+
       # Update K8s manifest in Git
       - name: Update manifest
         run: |
@@ -579,7 +614,7 @@ jobs:
           sed -i "s|image: myapp:.*|image: myapp:${{ github.sha }}|" deployment.yaml
           git commit -am "Update image to ${{ github.sha }}"
           git push
-          
+
       # ArgoCD automatically syncs the change
 ```
 
@@ -636,13 +671,13 @@ data:
     p, role:developer, applications, get, */*, allow
     p, role:developer, applications, sync, */*, allow
     p, role:developer, repositories, get, *, allow
-    
+
     # DevOps can do everything
     p, role:devops, applications, *, */*, allow
     p, role:devops, clusters, *, *, allow
     p, role:devops, repositories, *, *, allow
     p, role:devops, projects, *, *, allow
-    
+
     # Group mappings (from SSO)
     g, developers, role:developer
     g, devops-team, role:devops

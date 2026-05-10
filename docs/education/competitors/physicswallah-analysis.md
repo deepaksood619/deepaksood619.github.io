@@ -15,6 +15,7 @@ tags: [physicswallah, test-prep, india-edtech, profitable-edtech, bootstrap-to-i
 **Founders:** Alakh Pandey (Founder & CEO), Prateek Maheshwari (Co-founder)
 
 **Funding:**
+
 - Bootstrapped 2016-2022 (6 years)
 - June 2022: $100M at $1.1B valuation (unicorn status)
 - September 2024: $210M at $2.8B valuation
@@ -173,6 +174,7 @@ tags: [physicswallah, test-prep, india-edtech, profitable-edtech, bootstrap-to-i
 **Core Platform:**
 
 **Live Classes:**
+
 - Daily live interactive sessions
 - Real-time doubt solving (24x7)
 - Screen sharing, polls, quizzes
@@ -181,6 +183,7 @@ tags: [physicswallah, test-prep, india-edtech, profitable-edtech, bootstrap-to-i
 - Multi-language support (Hindi, English, regional languages)
 
 **Recorded Content:**
+
 - Comprehensive video lecture library
 - Organized by exam category and topic
 - Quality-controlled (not marketplace chaos like Unacademy)
@@ -188,6 +191,7 @@ tags: [physicswallah, test-prep, india-edtech, profitable-edtech, bootstrap-to-i
 - Downloadable for offline viewing (app)
 
 **Practice & Assessment:**
+
 - 10M+ tests, sample papers, notes
 - Mock tests for all major exams
 - Previous year question papers (PYQ)
@@ -196,6 +200,7 @@ tags: [physicswallah, test-prep, india-edtech, profitable-edtech, bootstrap-to-i
 - Leaderboards and gamification
 
 **Study Materials:**
+
 - NCERT solutions (Classes 6-12)
 - Reference books and study notes
 - PDF downloads
@@ -203,6 +208,7 @@ tags: [physicswallah, test-prep, india-edtech, profitable-edtech, bootstrap-to-i
 - Formulae sheets, quick revision notes
 
 **App Features (4.6/5 rating):**
+
 - 10M+ downloads
 - Offline video download
 - Low bandwidth optimization
@@ -212,6 +218,7 @@ tags: [physicswallah, test-prep, india-edtech, profitable-edtech, bootstrap-to-i
 - Doubt solving chat
 
 **Offline Centers (Vidyapeeth):**
+
 - 180 centers across 105+ cities
 - Hybrid learning model
 - Personal interaction, peer learning
@@ -219,6 +226,7 @@ tags: [physicswallah, test-prep, india-edtech, profitable-edtech, bootstrap-to-i
 - Library and study facilities
 
 **Additional Products:**
+
 - PW Skills: Professional upskilling (coding, data science, etc.)
 - PW MedEd: Medical entrance and education
 - PW OnlyIAS: UPSC/civil services prep
@@ -1202,7 +1210,7 @@ tags: [physicswallah, test-prep, india-edtech, profitable-edtech, bootstrap-to-i
 
 ## Strategic Lessons from PhysicsWallah's Success
 
-### What TO Do:
+### What TO Do
 
 **1. Start with Profitability, Not Vanity Metrics**
 
@@ -1295,7 +1303,7 @@ tags: [physicswallah, test-prep, india-edtech, profitable-edtech, bootstrap-to-i
 
 **Lesson:** Strategy matters, but execution differentiates. PW executed flawlessly.
 
-### What NOT to Do (Learned from Competitors' Failures):
+### What NOT to Do (Learned from Competitors' Failures)
 
 **1. Don't Overfund Early (Unacademy's Mistake)**
 
@@ -1361,7 +1369,7 @@ tags: [physicswallah, test-prep, india-edtech, profitable-edtech, bootstrap-to-i
 
 **Lesson:** Mission alignment builds trust. Don't abandon mission for short-term profit.
 
-### Competitive Positioning Lessons:
+### Competitive Positioning Lessons
 
 **How PW Differentiated in Crowded Market:**
 
@@ -1407,7 +1415,7 @@ tags: [physicswallah, test-prep, india-edtech, profitable-edtech, bootstrap-to-i
    - You: Free tier, viral loops, referral incentives
    - Low CAC through product (not marketing spend)
 
-### Strategic Recommendations:
+### Strategic Recommendations
 
 **How to Compete (Indirectly) with PW:**
 

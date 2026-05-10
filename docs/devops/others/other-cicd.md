@@ -7,50 +7,6 @@
 
 https://github.com/theonedev/onedev
 
-## Github Actions - Workflow automation
-
-- https://github.com/marketplace
-- https://github.blog/2019-08-08-github-actions-now-supports-ci-cd
-- Sign up for beta - https://github.com/features/actions
-- https://dev.to/bnb/an-unintentionally-comprehensive-introduction-to-github-actions-ci-blm
-- https://blog.kontena.io/deploying-to-kubernetes-from-github-actions
-- https://help.github.com/en/categories/automating-your-workflow-with-github-actions
-- https://github.com/Azure/k8s-actions
-- https://dev.to/bnb/an-unintentionally-comprehensive-introduction-to-github-actions-ci-blm
-- [Continuous Delivery: GitHub Actions (Developer Workflow Automation with GitHub Actions CICD)](https://www.youtube.com/watch?v=cKMO0aeh8GI&ab_channel=CodingTech)
-
-### Blacksmith
-
-- [Blacksmith](https://blacksmith.sh/)
-- [Blacksmith - Overview + Get Started - YouTube](https://www.youtube.com/watch?v=lZO1HExEvtE)
-- [Why Blacksmith?](https://docs.blacksmith.sh/getting-started/why-blacksmith)
-
-### Github Actions - [Marketplace](https://github.com/marketplace)
-
-- [Setup Node.js environment - GitHub Marketplace](https://github.com/marketplace/actions/setup-node-js-environment)
-- [GitHub - peaceiris/actions-gh-pages: GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.](https://github.com/peaceiris/actions-gh-pages) ⭐ 5.3k
-- [Checkout - GitHub Marketplace](https://github.com/marketplace/actions/checkout)
-- [Retry Step - GitHub Marketplace](https://github.com/marketplace/actions/retry-step)
-- [retry action - GitHub Marketplace](https://github.com/marketplace/actions/retry-action)
-- [Lighthouse CI Action · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/lighthouse-ci-action)
-- [GitHub - anishathalye/proof-html: A GitHub Action to validate HTML, check links, and more ✅](https://github.com/anishathalye/proof-html) ⭐ 117
-
-**Run github actions locally**
-
-```bash
-brew install act
-```
-
-https://github.com/nektos/act
-
-**Run github actions on K8s cluster**
-
-https://medium.com/nerd-for-tech/github-actions-self-hosted-runner-on-kubernetes-55d077520a31
-
-**Github Secrets**
-
-[Using secrets in GitHub Actions - GitHub Docs](https://docs.github.com/en/actions/security-guides/using-secrets-in-github-actions)
-
 ## Spinnaker
 
 https://www.spinnaker.io/concepts
@@ -140,44 +96,6 @@ https://concourse-ci.org
 ## CicleCI
 
 https://www.youtube.com/watch?v=kDWHPlrEgEY
-
-## Argo
-
-### Workflows and Pipelines
-
-Container native workflow engine for Kubernetes supporting both DAG and step based workflows
-
-Argo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes. Argo Workflows is implemented as a Kubernetes CRD.
-
-- Define workflows where each step in the workflow is a container.
-- Model multi-step workflows as a sequence of tasks or capture the dependencies between tasks using a graph (DAG).
-- Easily run compute intensive jobs for machine learning or data processing in a fraction of the time using Argo Workflows on Kubernetes.
-- Run CI/CD pipelines natively on Kubernetes without configuring complex software development products.
-
-### Continuous Delivery
-
-Declarative Continuous Delivery following Gitops
-
-Application definitions, configurations, and environments should be declarative and version controlled. Application deployment and lifecycle management should be automated, auditable, and easy to understand.
-
-### Advanced Deployment Controller
-
-Additional Kubernetes deployment strategies such as Blue-Green and Canary
-
-### Events
-
-Event based dependency manager for Kubernetes
-
-What Argo does differently is how they manage the actual CI/CD. It is specifically developed for Kubernetes and integrates with it through CRD's (Custom Resource Definitions). It defines a new CRD which is the 'Workflow'. In this workflow you define what needs to happen by laying out steps in a yaml format. Each step runs inits own Docker containeron your own Kubernetes cluster.
-
-https://github.com/argoproj/argo
-
-https://argoproj.github.io
-
-### Others
-
-- https://argoproj.github.io/argo-rollouts
-- https://argoproj.github.io/argo-events/setup/kafka
 
 ## Semaphore
 

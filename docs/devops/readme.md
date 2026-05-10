@@ -10,4 +10,8 @@
     - [Ansible Commands](devops/ansible/commands.md)
 - [Servers](devops/servers/readme.md)
 - [IDEs](ides/readme.md)
+- CICD
+	- [argocd](devops/cicd/argocd.md)
+	- [github-actions](devops/cicd/github-actions.md)
+	- [comparison](devops/cicd/comparison.md)
 - [Others](devops/others/readme.md)

@@ -696,7 +696,7 @@ tags: [shiksha, career-counseling, college-information, india-edtech, info-edge,
    - Students targeting US, UK, Canada, Australia, Europe universities
    - Age: 18-25 years old (undergrad + postgrad)
    - Geography: Metro cities (Delhi, Mumbai, Bangalore, Hyderabad, Chennai)
-   - Income: Upper-middle class (family income `>₹10L/year, can afford ₹50L+ education abroad)
+   - Income: Upper-middle class (family income `>₹10L/year`, can afford ₹50L+ education abroad)
    - Pain point: Complex application process, visa uncertainty, scholarship guidance
 
 3. **Parents Seeking Career Counseling:**
@@ -1059,7 +1059,7 @@ tags: [shiksha, career-counseling, college-information, india-edtech, info-edge,
    - Real-time personalization (vs annual database updates)
    - Speed advantage: Ship AI features before Shiksha's corporate bureaucracy can respond
 
-3. **Outcomes > Information:**
+3. **Outcomes `>` Information:**
    - Focus on skill development and career outcomes (not just college access)
    - Track: Admissions, placements, salaries, skill-to-income correlation
    - Measure impact: Verified outcomes data (not self-reported)
