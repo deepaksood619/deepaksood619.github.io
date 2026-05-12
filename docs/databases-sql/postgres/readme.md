@@ -3,6 +3,7 @@
 - [Intro](databases-sql/postgres/intro.md)
 - [Documentation](databases-sql/postgres/documentation.md)
 - [Architecture](databases-sql/postgres/architecture.md)
+- [PostgreSQL 17 vs 18](databases-sql/postgres/postgres17-vs-postgres18.md)
 - [Table Partitioning](databases-sql/postgres/table-partitioning.md)
 - [Postgres Indexes](databases-sql/postgres/indexes.md)
 - [parameters-configuration-optimization](databases-sql/postgres/parameters-configuration-optimization.md)
