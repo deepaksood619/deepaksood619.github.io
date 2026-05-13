@@ -31,6 +31,7 @@ Create a 1-page quick reference document comparing PostgreSQL 17 (released Septe
 ## Document Structure
 
 ### Section 1: Header (5 lines)
+
 ```markdown
 # PostgreSQL 17 vs 18
 
@@ -43,6 +44,7 @@ PostgreSQL 18 focuses on performance optimization (async I/O, index improvements
 ### Section 2: Performance Comparison Table (60-70 lines)
 
 A markdown table with columns:
+
 - **Feature Area** - Category name
 - **PostgreSQL 17** - What PG17 offered
 - **PostgreSQL 18** - What changed/added in PG18
@@ -120,6 +122,7 @@ A markdown table with columns:
 **Critical Breaking Changes:**
 
 **PG18 Specific:**
+
 - **Data checksums enabled by default** - Adds overhead; use `--no-data-checksums` if not needed
 - **MD5 password authentication deprecated** - Warnings emitted; migrate to SCRAM-SHA-256
 - **VACUUM/ANALYZE inheritance changes** - Now process children by default; use `ONLY` for old behavior
@@ -130,6 +133,7 @@ A markdown table with columns:
 - **Memory context level now one-based** - Previously zero-based
 
 **PG17 Removed Features:**
+
 - `old_snapshot_threshold` removed
 - `db_user_namespace` feature removed
 - `adminpack` extension removed
@@ -137,6 +141,7 @@ A markdown table with columns:
 - AIX support dropped
 
 **PG18 Removed Features:**
+
 - HPPA/PA-RISC platform support removed
 - 32-bit atomic operations now mandatory
 
@@ -206,6 +211,7 @@ A markdown table with columns:
 ## Content Sources
 
 All information sourced from:
+
 - https://www.postgresql.org/about/news/postgresql-18-released-3142/
 - https://www.postgresql.org/docs/release/18.0/
 - https://www.postgresql.org/docs/release/17.0/

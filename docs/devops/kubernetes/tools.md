@@ -201,16 +201,17 @@ https://github.com/kubenav/kubenav
 Switch faster between clusters and namespaces in kubectl
 
 ```bash
+# for mac
+brew install kubectx
+
+kubectl krew install ctx
+kubectl krew install ns
+
 # for arm
 curl -fsSLO https://github.com/ahmetb/kubectx/releases/download/v0.9.5/kubectx_v0.9.5_linux_arm64.tar.gz
 
 tar -xzvf kubectx_v0.9.5_linux_arm64.tar.gz
 mv kubectx /usr/bin
-
-brew install kubectx
-
-kubectl krew install ctx
-kubectl krew install ns
 ```
 
 https://github.com/ahmetb/kubectx

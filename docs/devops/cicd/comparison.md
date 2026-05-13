@@ -390,3 +390,4 @@ Comprehensive comparison of CI/CD tools for modern software delivery, with focus
 - [Kubernetes Tools](devops/kubernetes/tools.md)
 - [Docker Stack/Swarm](devops/docker/stack-swarm.md)
 - [Other CI/CD](devops/others/other-cicd.md)
+- [CI/CD on Amazon EKS Using GitHub Actions — An End‑to‑End Guide for DevOps Engineers \| by Meet2sudhakar \| Medium](https://medium.com/@meet2sudhakar/ci-cd-on-amazon-eks-using-github-actions-an-end-to-end-guide-for-devops-engineers-c707d5919629)

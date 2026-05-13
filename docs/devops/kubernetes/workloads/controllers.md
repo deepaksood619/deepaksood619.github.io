@@ -128,7 +128,7 @@ activeDeadlineSeconds: 15
 
 ## CronJob
 
-ACron Jobcreates [Jobs](https://kubernetes.io/docs/concepts/workloads/controllers/jobs-run-to-completion/) on a time-based schedule.
+A Cron Job creates [Jobs](https://kubernetes.io/docs/concepts/workloads/controllers/jobs-run-to-completion/) on a time-based schedule.
 
 A CronJob creates a watch loop which will create a batch job on your behalf when the time becomes true.
 
@@ -137,3 +137,7 @@ One CronJob object is like one line of acrontab(cron table) file. It runs a job 
 A CronJob is basically a Kubernetes Job with time-based scheduling and some specific parameters to handle failure. Each Kubernetes Job creates 1 to n pod. Those pods run a program defined for the task and exit when the task is over.
 
 https://kubernetes.io/docs/concepts/architecture/controller
+
+```bash
+kubectl create job --from=cronjob/<your-cronjob-name> <new-job-name>
+```

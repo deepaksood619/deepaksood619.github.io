@@ -87,7 +87,7 @@ claude --help
 - **/cost:** It will display a breakdown of **Input Tokens**, **Output Tokens**, and **Cache Hits/Misses**, along with a total USD estimate for the current session.
 - **/stats**: Displays your current token usage and rate limit status.
 
-[GitHub - tddworks/ClaudeBar: A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude, Codex, Antigravity ,and Gemini usage at a glance. · GitHub](https://github.com/tddworks/ClaudeBar)
+[GitHub - tddworks/ClaudeBar: A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude, Codex, Antigravity ,and Gemini usage at a glance. · GitHub](https://github.com/tddworks/ClaudeBar) ⭐ 1.1k
 
 - `brew install --cask claudebar`
 
@@ -274,7 +274,7 @@ ls ~/.claude/get-shit-done/workflows/
 	- `openclaw dashboard`
 	- [The OpenClaw Effect: Why Every AI Company is Racing to Your Desktop](https://www.thetoolnerd.com/p/the-openclaw-effect-why-every-ai)
 	- [Red Hat's OpenClaw maintainer just made enterprise Claw deployments a lot safer \| TechCrunch](https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/)
-	- [GitHub - NVIDIA/NemoClaw: Run OpenClaw more securely inside NVIDIA OpenShell with managed inference · GitHub](https://github.com/NVIDIA/NemoClaw)
+	- [GitHub - NVIDIA/NemoClaw: Run OpenClaw more securely inside NVIDIA OpenShell with managed inference · GitHub](https://github.com/NVIDIA/NemoClaw) ⭐ 20k
 	- [Buda — Run Your Agent Company — Cloud-Native AI Workforce](https://buda.im/)
 - [GitHub - NousResearch/hermes-agent: The agent that grows with you · GitHub](https://github.com/nousresearch/hermes-agent) ⭐ 120k
 	- [Hermes Agent — The Agent That Grows With You \| Nous Research](https://hermes-agent.nousresearch.com/)
@@ -324,13 +324,13 @@ ls ~/.claude/get-shit-done/workflows/
 
 ### DeepResearch Agent
 
-- [GitHub - VoltAgent/awesome-claude-code-subagents: A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases · GitHub](https://github.com/VoltAgent/awesome-claude-code-subagents)
-	- [awesome-claude-code-subagents/categories/10-research-analysis/market-researcher.md at main · VoltAgent/awesome-claude-code-subagents · GitHub](https://github.com/VoltAgent/awesome-claude-code-subagents/blob/main/categories/10-research-analysis/market-researcher.md)
+- [GitHub - VoltAgent/awesome-claude-code-subagents: A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases · GitHub](https://github.com/VoltAgent/awesome-claude-code-subagents) ⭐ 19k
+	- [awesome-claude-code-subagents/categories/10-research-analysis/market-researcher.md at main · VoltAgent/awesome-claude-code-subagents · GitHub](https://github.com/VoltAgent/awesome-claude-code-subagents/blob/main/categories/10-research-analysis/market-researcher.md) ⭐ 19k
 - [The one-liner research agent \| Claude Cookbook](https://platform.claude.com/cookbook/claude-agent-sdk-00-the-one-liner-research-agent)
 - [Converting Claude Code into the most intelligent Deep Research Agent](https://www.reddit.com/r/ClaudeAI/comments/1sz9ib0/converting_claude_code_into_the_most_intelligent/)
-- [GitHub - jordan-gibbs/hyperresearch: Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki. · GitHub](https://github.com/jordan-gibbs/hyperresearch)
+- [GitHub - jordan-gibbs/hyperresearch: Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki. · GitHub](https://github.com/jordan-gibbs/hyperresearch) ⭐ 84
 - [DeepResearch Bench - a Hugging Face Space by muset-ai](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard)
-	- [GitHub - Ayanami0730/deep\_research\_bench: DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents · GitHub](https://github.com/Ayanami0730/deep_research_bench)
+	- [GitHub - Ayanami0730/deep\_research\_bench: DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents · GitHub](https://github.com/Ayanami0730/deep_research_bench) ⭐ 703
 
 ### Marketplace
 

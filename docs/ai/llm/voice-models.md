@@ -12,7 +12,7 @@
 - [Demo \| GigaML](https://demo.gigaml.com/)
 - [Teneo.ai \| Make Your AI Agent the Smartest](https://www.teneo.ai/)
 - [Build Chat and Voice AI Agents Without Code \| Voiceflow](https://www.voiceflow.com/)
-- [GitHub - TEN-framework/ten-framework: Open-source framework for conversational voice AI agents · GitHub](https://github.com/TEN-framework/ten-framework)
+- [GitHub - TEN-framework/ten-framework: Open-source framework for conversational voice AI agents · GitHub](https://github.com/TEN-framework/ten-framework) ⭐ 11k
 	- [TEN Agent](https://agent.theten.ai/)
 
 ### Speech to Speech
@@ -71,7 +71,7 @@ This fast turnaround is particularly valuable in call quality monitoring, where 
 - [AI-Powered Quality Management and Performance Monitoring in Call Centers 1](https://callcenterstudio.com/blog/ai-powered-quality-management-and-performance-monitoring-in-call-centers/)
 - [10 Best Call Monitoring Software in 2024 - Enthu AI](https://enthu.ai/blog/call-center-quality-monitoring-software/)
 - [GitHub - jiaaro/pydub: Manipulate audio with a simple and easy high level interface](https://github.com/jiaaro/pydub) ⭐ 9.8k
-- [GitHub - KoljaB/RealtimeSTT: A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription. · GitHub](https://github.com/KoljaB/RealtimeSTT)
+- [GitHub - KoljaB/RealtimeSTT: A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription. · GitHub](https://github.com/KoljaB/RealtimeSTT) ⭐ 9.8k
 
 ## Text to Voice
 

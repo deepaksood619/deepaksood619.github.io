@@ -29,7 +29,7 @@ What Argo does differently is how they manage the actual CI/CD. It is specifical
 
 ### Others
 
-- [GitHub - argoproj/argo-workflows: Workflow Engine for Kubernetes · GitHub](https://github.com/argoproj/argo)
+- [GitHub - argoproj/argo-workflows: Workflow Engine for Kubernetes · GitHub](https://github.com/argoproj/argo) ⭐ 17k
 - [Home \| Argo](https://argoproj.github.io)
 - https://argoproj.github.io/argo-rollouts
 - https://argoproj.github.io/argo-events/setup/kafka
@@ -983,7 +983,7 @@ spec:
 
 ### Community
 
-- [GitHub](https://github.com/argoproj/argo-cd)
+- [GitHub](https://github.com/argoproj/argo-cd) ⭐ 23k
 - [Slack](https://argoproj.github.io/community/join-slack)
 - [CNCF Landscape](https://landscape.cncf.io/)
 

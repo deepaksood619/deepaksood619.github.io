@@ -244,11 +244,47 @@ https://mdxjs.com
 
 ## Markdown here
 
-https://github.com/adam-p/markdown-here
+[GitHub - adam-p/markdown-here: Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending. · GitHub](https://github.com/adam-p/markdown-here) ⭐ 60k
 
 Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 
 https://markdown-here.com
+
+## Pdf to markdown
+
+* [GitHub - Stirling-Tools/Stirling-PDF: #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere · GitHub](https://github.com/Stirling-Tools/Stirling-PDF) ⭐ 78k
+	* [**Stirling PDF**](https://stirlingpdf.io/)
+	* [I started editing all my PDF files with this free, self-hosted tool, and I’m not going back](https://www.xda-developers.com/started-editing-all-pdf-files-with-this-free-self-hosted-tool/)
+* [GitHub - opendatalab/MinerU: Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. · GitHub](https://github.com/opendatalab/MinerU) ⭐ 63k
+* [GitHub - docling-project/docling: Get your documents ready for gen AI · GitHub](https://github.com/docling-project/docling) ⭐ 60k
+* [GitHub - jgm/pandoc: Universal markup converter · GitHub](https://github.com/jgm/pandoc) ⭐ 44k
+* [GitHub - facebookresearch/nougat: Implementation of Nougat Neural Optical Understanding for Academic Documents · GitHub](https://github.com/facebookresearch/nougat) ⭐ 9.9k
+* [GitHub - datalab-to/marker: Convert PDF to markdown + JSON quickly with high accuracy · GitHub](https://github.com/datalab-to/marker) ⭐ 35k
+
+```bash
+pip install marker-pdf
+
+# if required
+pip install psutil
+pip install weasyprint
+
+marker --version
+
+marker /path/to/input/folder
+
+# dockling - working
+pip install docling
+docling abc.pdf
+docling input_dir --output output_dir --to md
+
+# pandoc
+brew install pandoc
+# Pandoc can convert to PDF, but not from PDF.
+
+# poppler - just to copy text from pdfs
+brew install poppler
+find form_10 -name "*.pdf" -exec sh -c 'mkdir -p "form_10_txt/$(dirname "{}")" && pdftotext -layout "{}" "form_10_txt/{}.txt"' \;
+```
 
 ## Others
 

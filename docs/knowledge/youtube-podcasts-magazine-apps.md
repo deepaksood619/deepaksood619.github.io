@@ -262,6 +262,7 @@
 - [Sonia Shenoy - YouTube](https://www.youtube.com/@soniashenoyofficial)
 - [Dezerv - YouTube](https://www.youtube.com/@dezerv)
 - [Wint Wealth - YouTube](https://www.youtube.com/@wintwealthyt)
+- [Coin Bureau Finance - YouTube](https://youtube.com/@coinbureaufinance)
 
 #### Trading
 

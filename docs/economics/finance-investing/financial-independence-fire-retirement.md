@@ -66,17 +66,17 @@ https://networthify.com/calculator/earlyretirement
 
 [Retirement Planner Calculator India | Retirement Planning Calculator Online](https://www.moneycontrol.com/personal-finance/tools/retirement-planning-calculator.html)
 
-Current Age (15-60 Years) - 30 YEARS
-Desired Retirement Age (Upto 70 Years) - 40 YEARS
-Life Expectancy (Upto 100 Years) - 100 YEARS
-Monthly Income Required In Retirement Years - ₹1,00,000
-Expected Inflation Rate (%) - 6%
-Expected Return On Investment (Pre-retirement) - 10 %
-Expected Return On Investment (Post-retirement) - 5 %
-Existing Retirement Fund - ₹1,00,00,000
-Annual Income Required Immediately After Retirement - ₹21,49,017
-Additional Retirement Fund Which Needs To Be Accumulated Is - ₹14,85,57,191
-Monthly Savings Required To Accumulate The Fund Is - **₹7,25,218**
+- Current Age (15-60 Years) - 30 YEARS
+- Desired Retirement Age (Upto 70 Years) - 40 YEARS
+- Life Expectancy (Upto 100 Years) - 100 YEARS
+- Monthly Income Required In Retirement Years - ₹1,00,000
+- Expected Inflation Rate (%) - 6%
+- Expected Return On Investment (Pre-retirement) - 10 %
+- Expected Return On Investment (Post-retirement) - 5 %
+- Existing Retirement Fund - ₹1,00,00,000
+- Annual Income Required Immediately After Retirement - ₹21,49,017
+- Additional Retirement Fund Which Needs To Be Accumulated Is - ₹14,85,57,191
+- Monthly Savings Required To Accumulate The Fund Is - **₹7,25,218**
 
 [Retirement Planning Calculator - Plan your Savings Online](https://cleartax.in/s/retirement-planning-calculator)
 
@@ -93,6 +93,10 @@ Monthly Savings Required To Accumulate The Fund Is - **₹7,25,218**
 [How can we be sure of the assumptions used in retirement planning?](https://freefincal.com/how-can-we-be-sure-of-the-assumptions-used-in-retirement-planning/)
 
 [Equity Glide Paths for Retirement Buckets: Freefincal Robo Advisor Update](https://freefincal.com/equity-glide-paths-for-retirement-buckets-freefincal-robo-advisor-update/)
+
+[What if you outlive your retirement corpus? – Dezerv](https://www.dezerv.in/blog/what-if-you-outlive-your-retirement-corpus/)
+
+- ₹40 crore is not a number for every Indian. It is the approximate corpus that someone who is 40 today, spending ₹2 lakh a month, retiring at 60 in 2046 and planning to live until 90, would need to sustain their current lifestyle across a 30-year retirement
 
 ## Lifestyle upgrades
 

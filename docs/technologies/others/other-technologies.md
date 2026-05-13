@@ -104,9 +104,6 @@ Palantir Foundry is a software platform that serves as an operating system for m
 - Amplication
 - [GitHub - hoophq/sequence: Immutable, scalable, and easy to use ledger service.](https://github.com/hoophq/sequence) ⭐ 508
 - [Free Webmail and Email by GMX | Sign Up Now!](https://signup.gmx.com/)
-- [**Stirling PDF**](https://stirlingpdf.io/)
-	- [GitHub - Stirling-Tools/Stirling-PDF: #1 Locally hosted web application that allows you to perform various operations on PDF files](https://github.com/Stirling-Tools/Stirling-PDF) ⭐ 78k 61.7K stars
-	- [I started editing all my PDF files with this free, self-hosted tool, and I’m not going back](https://www.xda-developers.com/started-editing-all-pdf-files-with-this-free-self-hosted-tool/)
 - [GitHub - sherlock-project/sherlock: Hunt down social media accounts by username across social networks](https://github.com/sherlock-project/sherlock) ⭐ 83k
 - [ezmlm - Wikipedia](https://en.wikipedia.org/wiki/Ezmlm)
 	- [ezmlm-idx Home](http://www.ezmlm.org/)

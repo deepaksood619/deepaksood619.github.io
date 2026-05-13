@@ -446,3 +446,5 @@ It's nearly impossible to completely eliminate insect fragments during large-sca
 - [Diet Expert: Weight Loss, Calories, Digestion, Sugar & Belly Fat \| Pooja Makhija \| FO433 Raj Shamani - YouTube](https://www.youtube.com/watch?v=xi-zHJL5bnI)
 - [Rice morning, noon, and night: why the Japanese don’t gain weight - Futura-Sciences](https://www.futura-sciences.com/en/rice-morning-noon-and-night-why-the-japanese-dont-gain-weight_22716/)
 - [Exposing Indian Diet: Roti, Rice, Morning Energy & Night Habits \| Sonia Narang \| FO456 Raj Shamani - YouTube](https://youtu.be/z1lPXO0pv_4)
+- [Why Is Eating So Confusing? - Truth Be Told](https://tbthealth.substack.com/p/why-is-eating-so-confusing)
+	- [Read This, Not That: The Hidden Cost of Nutrition Misinformation—Asterisk](https://asteriskmag.com/issues/02/read-this-not-that-the-hidden-cost-of-nutrition-misinformation)

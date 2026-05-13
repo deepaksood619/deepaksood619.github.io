@@ -23,6 +23,7 @@
 - Direct Stocks
 - Multiple zerodha account
 - Sector, Instrument
+- Crypto
 
 ### Metrics
 
@@ -52,6 +53,7 @@
 - [The best stock tracker templates for Google Sheets](https://www.spreadsheetclass.com/google-sheets-stock-tracker-templates/)
 - [Stock Portfolio Tracking Spreadsheet - Google Sheets](https://docs.google.com/spreadsheets/d/1Ajox_mGj_prTqfIWSSF1xcaDEBm6ZuZZDInZ1Es-_bM/edit#gid=4)
 - Finshots Money Financial Planning Calculator - https://docs.google.com/spreadsheets/d/13LUIThaOS_QLXAtQz4gxEA7v5UaZQsp3/edit#gid=262879150
+-
 
 ## Personal Finance Tools
 

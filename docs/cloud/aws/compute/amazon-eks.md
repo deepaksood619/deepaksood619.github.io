@@ -62,14 +62,14 @@ mapUsers:
 
     https://docs.aws.amazon.com/eks/latest/userguide/add-user-role.html
 
-#get kubeconfig credentials from eks to local
+# get kubeconfig credentials from eks to local
 aws eks --region ap-south-1 list-clusters
 aws eks --region ap-southeast-1 list-clusters
 aws eks --region ap-southeast-1 update-kubeconfig --name cnext-staging-eks
 aws eks --region ap-south-1 update-kubeconfig --name cnext-beta-cluster
 aws eks --region ap-south-1 update-kubeconfig --name prod-cluster-cnext
 
-#login to AWS ECR
+# login to AWS ECR
 aws ecr get-login-password | docker login --username AWS --password-stdin 331916247734.dkr.ecr.ap-south-1.amazonaws.com
 ```
 
@@ -184,11 +184,17 @@ The CNI metrics helper is a tool that you can use to scrape network interface an
 
 https://docs.aws.amazon.com/eks/latest/userguide/cni-metrics-helper.html
 
+## Auto Mode
+
+- [Streamline Kubernetes cluster management with new Amazon EKS Auto Mode | AWS News Blog](https://aws.amazon.com/blogs/aws/streamline-kubernetes-cluster-management-with-new-amazon-eks-auto-mode/)
+- [Amazon EKS Auto Mode Explained \| Amazon Web Services - YouTube](https://youtu.be/XeRgIo9XM5w)
+- [Automate cluster infrastructure with EKS Auto Mode - Amazon EKS](https://docs.aws.amazon.com/eks/latest/userguide/automode.html)
+- [👋 AWS EKS Auto Mode: A Game-Changer or Just Hype? My Unbiased Take 👋 \| by Prashant Lakhera \| Medium](https://devopslearning.medium.com/aws-eks-auto-mode-a-game-changer-or-just-hype-my-unbiased-take-18de17c4484a)
+- [EKS Auto Mode - Amazon EKS](https://docs.aws.amazon.com/eks/latest/best-practices/automode.html)
+
 ## Others
 
 - [Cost monitoring - Amazon EKS](https://docs.aws.amazon.com/eks/latest/userguide/cost-monitoring.html)
 - KubeCost / OpenCost
-- [Streamline Kubernetes cluster management with new Amazon EKS Auto Mode | AWS News Blog](https://aws.amazon.com/blogs/aws/streamline-kubernetes-cluster-management-with-new-amazon-eks-auto-mode/)
 - [Use your on-premises infrastructure in Amazon EKS clusters with Amazon EKS Hybrid Nodes | AWS News Blog](https://aws.amazon.com/blogs/aws/use-your-on-premises-infrastructure-in-amazon-eks-clusters-with-amazon-eks-hybrid-nodes/)
 - [Amazon EKS Hybrid Nodes Explained \| Amazon Web Services - YouTube](https://youtu.be/xHbGTmaRYK4)
-- [Amazon EKS Auto Mode Explained \| Amazon Web Services - YouTube](https://youtu.be/XeRgIo9XM5w)

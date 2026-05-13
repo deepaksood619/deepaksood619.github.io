@@ -119,3 +119,4 @@ PostgreSQL 18 focuses on performance optimization (async I/O, index improvements
 - [PostgreSQL 18 Release Announcement](https://www.postgresql.org/about/news/postgresql-18-released-3142/)
 - [PostgreSQL 18.0 Release Notes](https://www.postgresql.org/docs/release/18.0/)
 - [PostgreSQL 17.0 Release Notes](https://www.postgresql.org/docs/release/17.0/)
+- [Amazon RDS for PostgreSQL updates - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/PostgreSQLReleaseNotes/postgresql-versions.html)

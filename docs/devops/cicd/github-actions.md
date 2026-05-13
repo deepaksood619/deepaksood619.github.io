@@ -610,7 +610,7 @@ act -s GITHUB_TOKEN=$GITHUB_TOKEN
 act workflow_dispatch -e event.json
 ```
 
-**Reference:** [nektos/act](https://github.com/nektos/act)
+**Reference:** [nektos/act](https://github.com/nektos/act) ⭐ 70k
 
 ## Performance Optimization
 
@@ -833,18 +833,18 @@ jobs:
 ### Marketplace Actions
 
 - [Setup Node.js](https://github.com/marketplace/actions/setup-node-js-environment)
-- [GitHub Pages Deploy](https://github.com/peaceiris/actions-gh-pages)
+- [GitHub Pages Deploy](https://github.com/peaceiris/actions-gh-pages) ⭐ 5.3k
 - [Checkout](https://github.com/marketplace/actions/checkout)
 - [Retry Step](https://github.com/marketplace/actions/retry-step)
 - [Lighthouse CI](https://github.com/marketplace/actions/lighthouse-ci-action)
-- [Proof HTML](https://github.com/anishathalye/proof-html)
+- [Proof HTML](https://github.com/anishathalye/proof-html) ⭐ 117
 
 ### Tools
 
-- [act - Run locally](https://github.com/nektos/act)
+- [act - Run locally](https://github.com/nektos/act) ⭐ 70k
 - [Blacksmith - Faster runners](https://blacksmith.sh/)
-- [Actions Toolkit](https://github.com/actions/toolkit)
-- [Azure K8s Actions](https://github.com/Azure/k8s-actions)
+- [Actions Toolkit](https://github.com/actions/toolkit) ⭐ 5.7k
+- [Azure K8s Actions](https://github.com/Azure/k8s-actions) ⭐ 114
 
 ## Github Actions - Workflow automation
 
