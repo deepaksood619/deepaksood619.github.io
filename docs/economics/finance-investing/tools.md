@@ -45,6 +45,7 @@
 - [markets.sh](https://markets.sh/)
 - [PortfolioPilot: Your Personal AI Financial Advisor](https://portfoliopilot.com/)
 - [Portfolio Performance](https://www.portfolio-performance.info/en/)
+	- [GitHub - portfolio-performance/portfolio: Track and evaluate the performance of your investment portfolio across stocks, cryptocurrencies, and other assets. · GitHub](https://github.com/portfolio-performance/portfolio)
 - [GitHub - engineerinvestor/Portfolio-Analysis: Open-source portfolio analysis tools for DIY investors and finance enthusiasts.](https://github.com/engineerinvestor/Portfolio-Analysis?tab=readme-ov-file) ⭐ 38
 - [GitHub - teddy8193/portfolio-analysis-tool: Virualizing efficient frontier for portfolio analysis](https://github.com/teddy8193/portfolio-analysis-tool) ⭐ 0
 - [Google sheet for Portfolio tracking : r/IndiaInvestments](https://www.reddit.com/r/IndiaInvestments/comments/ogem2j/google_sheet_for_portfolio_tracking/)
@@ -53,7 +54,15 @@
 - [The best stock tracker templates for Google Sheets](https://www.spreadsheetclass.com/google-sheets-stock-tracker-templates/)
 - [Stock Portfolio Tracking Spreadsheet - Google Sheets](https://docs.google.com/spreadsheets/d/1Ajox_mGj_prTqfIWSSF1xcaDEBm6ZuZZDInZ1Es-_bM/edit#gid=4)
 - Finshots Money Financial Planning Calculator - https://docs.google.com/spreadsheets/d/13LUIThaOS_QLXAtQz4gxEA7v5UaZQsp3/edit#gid=262879150
--
+- [GitHub - rotki/rotki: A portfolio tracking, analytics, accounting and management application that protects your privacy · GitHub](https://github.com/rotki/rotki)
+- [Investbrain » Open source AI-powered investment portfolio tracker](https://investbra.in/)
+	- [GitHub - investbrainapp/investbrain: Smart LLM-enabled investment tracker that consolidates and monitors market performance across your different brokerages · GitHub](https://github.com/investbrainapp/investbrain)
+- [TradeTally - Free Trading Journal and Investment Tracker](https://tradetally.io/dashboard)
+	- [GitHub - GeneBO98/tradetally: Advanced trade tracking and analytics (TraderVue alternative) · GitHub](https://github.com/GeneBO98/tradetally)
+- [Best self-hosted portfolio management tool for investments?](https://www.reddit.com/r/selfhosted/comments/1nl4xf4/best_selfhosted_portfolio_management_tool_for/)
+- [GitHub - ghostfolio/ghostfolio: Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍 · GitHub](https://github.com/ghostfolio/ghostfolio)
+- [GitHub - wealthfolio/wealthfolio: A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations. · GitHub](https://github.com/wealthfolio/wealthfolio)
+	- [Wealthfolio \| Open-Source, Offline & Private Portfolio Tracker](https://wealthfolio.app/)
 
 ## Personal Finance Tools
 

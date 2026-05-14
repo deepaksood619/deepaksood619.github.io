@@ -14,103 +14,12 @@ Housing isn’t a great investment but for most people, it’s the best investme
 
 It's about people and not place where you live, you enjoy places with people and not place
 
-## Questions
-
-- Why people have false ceilings
-
-## Places/Place to live
-
-[**Where on Earth Will People Live in the Future? | Parag Khanna | TED**](https://www.youtube.com/watch?v=MSevAi_YarQ)
-
-- Places you can live after Amoc collapse or which places will be disaster proof or resilient
-
-**20-30 degrees Celsius with no humidity throughout year i.e dry climate**
-
-### Elevation / Altitude
-
-One of the factor is Elevation
-
-- 500 mtr+ is good weather like bangalore (964m), pune (565m), jagdalpur (570m), nainital (1990m)
-- 300 mtr is bad - delhi (246m), dantewada (370m), ramnagar (388m)
-
-As we increase elevation, there is less air above us thus the pressure decreases. As the pressure decreases, air molecules spread out further (i.e. air expands) and the temperature decreases.
-
-[As we go to higher altitudes, what happens to the temperature?](https://byjus.com/question-answer/as-we-go-to-higher-altitudes-what-happens-to-the-temperature-it-increasesit-remains-constantit/)
-
-When we move up a hill, we notice a fall in temperature. This fall in temperature with elevation is primarily due to two reasons.
-
-1. With the increase in elevation, the atmospheric **pressure falls**. Fall in pressure implies that the temperature also falls (Pressure is directly proportional to Temperature and vice versa)
-2. With the increase in elevation, the **concentration of greenhouse gases decreases** (Water vapor and carbon dioxide fall sharply with elevation). Hence the heat absorption capacity of the atmosphere will also decrease.
-
-[why temperature decreases with altitude?](https://byjus.com/question-answer/why-temperature-decreases-with-altitude/)
-
-[If heat rises, why does the temperature decrease at higher elevations? | Scientific American](https://www.scientificamerican.com/article/if-heat-rises-why-does-th/)
-
-[Why does temperature decrease with increase in altitude? - Quora](https://www.quora.com/Why-does-temperature-decrease-with-increase-in-altitude)
-
-### Places
-
-- **Pune**
-- Bangalore
-- **Mysore**
-- Nashik
-- Nainital (15-25)
-- Shillong (15-25)
-- Hyderabad - [Planning to Buy a Flat in Hyderabad? Here Are Top trends of 2024 You Should Know - The 1% News](https://news.onepercentclub.io/invest/planning-to-buy-a-flat-in-hyderabad-here-are-top-trends-of-2024-you-should-know/12849/)
-- Chandigarh
-
-[Which is the best city to live in North India? - Quora](https://www.quora.com/Which-is-the-best-city-to-live-in-North-India)
-
-[Best cities in India with pleasant weather all year round | EconomicTimes](https://economictimes.indiatimes.com/news/web-stories/best-cities-in-india-with-pleasant-weather-all-year-round/slideshow/103212353.cms)
-
-https://zolostays.com/blog/cities-with-best-weather-in-india
-
-[Want to Go Abroad? Immigration Advisor on Which Countries Are Preferable for Indians and Why](https://www.youtube.com/watch?v=FLBEhyzYHUQ)
-
-[iVisa Plus: Free Standard Processing of Unlimited Travel Docs](https://www.ivisa.com/plus)
-
-### Foreign
-
-- Finland
-- Norway
-- Denmark
-- Switzerland (HNWIs)
-- Canada
-- Australia (HNWIs)
-- UAE (HNWIs)
-- New Zealand
-- Portugal (invest less than 3 crore and be a citizen)
-- Japan
-- [Aberdeen - Wikipedia](https://en.wikipedia.org/wiki/Aberdeen)
-- Temperature - 23-25 degree Celsius
-- Humidity - 30-50%
-- [Is there a country/region in the world where the temperature is year round around 23-25 degrees Celsius?](https://www.quora.com/Is-there-a-country-region-in-the-world-where-the-temperature-is-year-round-around-23-25-degrees-Celsius)
-- [Best Countries to Live In 2023](https://worldpopulationreview.com/country-rankings/best-countries-to-live-in)
-- [The Best Countries to Live in the World: Top-9 Places to Immigrate](https://immigrantinvest.com/blog/top-9-countries-for-comfortable-life-en/)
-    - Singapore
-    - New Zealand
-    - Germany
-    - Spain
-    - Canada
-    - Austria
-    - Finland
-- [4,300 millionaires may leave India this year. Here's where they are moving to](https://economictimes.indiatimes.com/nri/migrate/4300-millionaires-may-leave-india-this-year-heres-where-they-are-moving-to/articleshow/111109899.cms)
-    - UAE (Land Ownership)
-    - Top 5 affordable countries where Indians can buy citizenship
-    - ​Dominica - Rs 76,46,000​
-    - ​St. Lucia - Rs 76,46,000​
-    - ​Grenada - Rs 1,14,69,000​
-    - ​Antigua and Barbuda - Rs 76,46,000​
-    - Vanuatu - Rs 91,05,000
-- India has taxes like Europe/England services like Somalia or any other African countries
-- [14 countries offering golden visas for Indians \| Condé Nast Traveller India](https://www.cntraveller.in/story/countries-that-offer-golden-visas-to-indians/)
-
-### Renting
+## Renting
 
 - Never ever buy a second hand AC
 - Never get a top floor apartment
 
-### New Home
+## New Home
 
 - Buy home where new metro stations are coming up
 - Study Room / Office Room / GYM (2 desks for WFH - no bed or people or clutter in study room)
@@ -163,15 +72,16 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
     - Sliding door better
     - Add door plastic below adder so cold AC air doesn't leak from below door
 - Drain - smell will be awful closer to drain
+- Why people have false ceilings
 
-#### Tools / Sites
+### Tools / Sites
 
 - Facebook chapters
 - MagicBricks
 - 99acres
 - nobroker
 
-#### Priorities
+### Priorities
 
 - Double your salary and knowledge in next 2 years
 - Budget - 25-40K
@@ -218,7 +128,7 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 	- [What do Food Recyclers actually do, and why do they matter?](https://www.mill.com/blog/what-do-food-recyclers-actually-do-and-why-do-they-matter)
 - Not near airport, or noisy place
 
-### Thoughts
+## Thoughts
 
 - Don't live in tier 2 cities
 - Surround yourself with highly motivated and highly talented people
@@ -232,7 +142,7 @@ https://freefincal.com/real-estate-investing-practical-aspects-retail-investors-
 
 [Why will I NOT buy a house?](https://youtu.be/IwBu_YYXGzY)
 
-#### Thoughts 1
+### Thoughts 1
 
 Life is currently too dynamic to plan very super long term, so live short term happy cycles
 
@@ -292,7 +202,7 @@ For maa - find hobby
 - Slowly takeover the education full time
 - Close or tieup with other schools
 
-### New Flats
+## New Flats
 
 - **> 3000 sq ft**
 - **Running balcony**
@@ -307,7 +217,7 @@ For maa - find hobby
 
 [The Brick Canopy #allaboutarchitecture #architectureanddesign #Pune](https://youtu.be/RKIgjI3DiVQ)
 
-### Carpet Area, Built-up Area and Super Built-up Area
+## Carpet Area, Built-up Area and Super Built-up Area
 
 - carpet area / floor space / usable floor space
 - [Watch this before buying a FLAT | How to find fair market value of property - YouTube](https://www.youtube.com/watch?v=qCMFlfBTWks&ab_channel=LabourLawAdvisor)
@@ -315,7 +225,7 @@ For maa - find hobby
 - Built up area (10-15% more than carpet area)
 - Super built up area - 20-50% more than built up area
 
-#### Key Considerations
+### Key Considerations
 
 - **Focus on carpet area**: Prioritize the carpet area as it represents the actual usable space within the property.
 - **Comparison based on carpet area**: When comparing properties, rely on carpet area measurements to get a clear understanding of the usable space.
@@ -394,44 +304,6 @@ For maa - find hobby
 
 [Are Indian homebuyers building wealth or just buying liabilities? Explains consultant - India Today](https://www.indiatoday.in/amp/business/personal-finance/story/are-indian-homebuyers-growing-wealth-or-buying-liabilities-explains-consultant-2759436-2025-07-22)
 
-## Climate resilient
-
-[World Risk Report 2022](https://repository.gheli.harvard.edu/repository/10930/)
-
-[WeltRisikoBericht - WeltRisikoIndex](https://weltrisikobericht.de/weltrisikobericht-2022-e/#worldriskindex)
-
-Air pollution in Delhi reduces life expectancy by 10 years
-
-- [They came to start a new life; now every breath they take is a struggle](https://timesofindia.indiatimes.com/city/gurgaon/they-came-to-start-a-new-life-now-every-breath-they-take-is-a-struggle/articleshow/109066285.cms)
-
-### Factors
-
-- access to freshwater
-- availability of food
-- proximity to healthcare facilities
-- withstand extreme weather events
-- Areas that are less prone to extreme weather events, such as inland areas or regions at higher elevations, may be more resilient to climate change impacts than coastal regions or low-lying areas that are vulnerable to sea-level rise and flooding
-
-### India
-
-1. The Himalayan region: This region includes states like Uttarakhand, Himachal Pradesh, Sikkim, and Arunachal Pradesh, which are at higher elevations and have access to freshwater sources. These areas are also less prone to extreme weather events, such as cyclones and floods, that can impact coastal regions. Additionally, these states have a strong tradition of organic farming and have relatively better healthcare facilities compared to other parts of the country.
-2. The Deccan Plateau: This region covers a large part of central and southern India, including states like Maharashtra, Karnataka, Andhra Pradesh, and Telangana. This area is relatively more stable climatically and has access to groundwater sources. The Deccan Plateau is also known for its agriculture and food production, including the cultivation of crops such as rice, wheat, and pulses.
-3. The North-Eastern region: This region includes states like Assam, Meghalaya, and Nagaland and has access to water resources such as the Brahmaputra and Barak rivers. This region is less prone to extreme weather events, although some areas are prone to landslides and floods. Additionally, the region has a high biodiversity and a rich cultural heritage.
-
-### International
-
-1. Iceland, which is relatively less vulnerable to the impacts of climate change compared to many other countries. Iceland has a small population, abundant renewable energy resources, and access to freshwater. Additionally, Iceland has a strong focus on environmental conservation and sustainable practices, which have helped to mitigate the impacts of climate change in the country.
-2. Canada, which has a vast land area and diverse geography that may provide some resilience to climate change impacts. Canada has a relatively small population and abundant freshwater resources, which may be crucial as water scarcity becomes a more significant problem in other parts of the world. Additionally, Canada has taken steps to reduce greenhouse gas emissions and invest in renewable energy sources, which may help to mitigate the impacts of climate change.
-3. ~~Australia, New Zealand,~~ and certain countries in Europe such as Germany or Denmark
-4. Dubai - [Moving to Dubai for Tax Free Crypto? Read Our Guide!](https://www.coinbureau.com/analysis/dubai-crypto-tax/)
-	1. [India vs Dubai: Where to live? (Jobs, Cost of Living, Opportunities...) ...](https://youtu.be/TlNR8JRUgHk)
-	2. [Why This Investor Doesn’t Keep His Money in India \| Currency, Taxes & More \| Paritosh Mukhija, FWS89 - YouTube](https://youtu.be/j9vlMfSx-kw)
-5. Newzealand Japan Pacific ring of fire earthquake prone areas
-
-[The Best Citizenship in a New World Order - YouTube](https://www.youtube.com/watch?v=CAiW7HOwiaQ)
-
-[Human Development Index - Wikipedia](https://en.wikipedia.org/wiki/Human_Development_Index)
-
 ## Land
 
 **1 hectacre (2.47 acre) land to be self sufficient**
@@ -483,7 +355,7 @@ A person feeding themselves a vegetarian diet would need about an acre of land a
 
 ![Largest Real Estate Players in India](../../media/largest-real-estate-players-in-india.jpg)
 
-### Noida Property Market
+## Noida Property Market
 
 - [The Shocking Truth About Noida Real Estate 2025 – Don’t Make These Mistakes! @propertyduniya - YouTube](https://www.youtube.com/watch?v=qykwBt1kQsk)
 - [Inside an Ultra Luxury 17,000 sq ft Villa in Hyderabad (House Tour).](https://youtu.be/kHmNT9sRT1M)
@@ -501,7 +373,7 @@ A person feeding themselves a vegetarian diet would need about an acre of land a
 - [Monsoon Report Card: Noida Passes, Gurugram Fails. 5 Major Reasons Why \| Explainers News - News18](https://www.news18.com/amp/explainers/monsoon-report-card-noida-passes-gurugram-fails-5-major-reasons-why-ws-l-9544394.html)
 - ['If you own a flat in Noida, sell it and run': Finfluencer on UP govt's plans to scrap ground coverage limits - BusinessToday](https://www.businesstoday.in/amp/personal-finance/real-estate/story/if-you-own-a-flat-in-noida-sell-it-and-run-finfluencer-on-up-govts-plans-to-scrap-ground-coverage-limits-494074-2025-09-15)
 
-#### 2025-01-18 - Locations - Buy
+### 2025-01-18 - Locations - Buy
 
 **Requirement -** We are looking for a residential plot, in a 1 hour travelling distance from sector 18. The budget is 2-3 cr. It should be from a reputed developer in a gated already built-up society, where people are already living. Loan should be available for due diligence. Not looking for a farm house. Something like chhattarpur farms, or ansal villas. It can be either be new or resell.
 
@@ -525,14 +397,14 @@ A person feeding themselves a vegetarian diet would need about an acre of land a
 - +919973136791 farm house lake view - Residential plot - [Rise Resorts Residency Villa - Google Maps](https://www.google.com/maps/place/Rise+Resorts+Residency+Villa/@28.5800944,77.4317573,17z/data=!3m1!4b1!4m6!3m5!1s0x390cef0301f8bfb7:0xabc2d83d549b4e46!8m2!3d28.5800944!4d77.4317573!16s%2Fg%2F11k547hlpn?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D)
 - Lotus Panache
 
-#### 2025-01-17 - Rent
+### 2025-01-17 - Rent
 
 - +919990086104 sector 26, 3rd floor, 45000, 3 bhk, 2 bathroom
 - 078275 71239 sector 26 rent broker
 - +918077095384 sector 26 (17 jan)
 - Manoj broker - sector 26 - +91 98181 09460 (17 jan)
 
-#### Rates
+### Rates
 
 1.25 - 1140 sq ft, 6th
 1390 sq ft - 20%, - 3 bhk - 1.35 lower, 3rd, 3.30
@@ -560,4 +432,5 @@ Ravi - amrapali -
 - [Living](knowledge/geography/living.md)
 - [home-house-building](knowledge/geography/home-house-building.md)
 - [countries-metrics](knowledge/geography/countries-metrics.md)
+- [places-to-live](knowledge/geography/places-to-live.md)
 - Best country for kids/primary education

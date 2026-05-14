@@ -233,6 +233,8 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [7 Steps to Mastering Memory in Agentic AI Systems - MachineLearningMastery.com](https://machinelearningmastery.com/7-steps-to-mastering-memory-in-agentic-ai-systems/)
 - [The 6 Best AI Agent Memory Frameworks You Should Try in 2026 - MachineLearningMastery.com](https://machinelearningmastery.com/the-6-best-ai-agent-memory-frameworks-you-should-try-in-2026/)
 - [GitHub - codejunkie99/agentic-stack: One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch. · GitHub](https://github.com/codejunkie99/agentic-stack) ⭐ 1.7k
+- [GitHub - iii-hq/iii: Effortlessly compose, extend, and observe every service in real-time for the first time ever. · GitHub](https://github.com/iii-hq/iii) ⭐ 16k
+	- [GitHub - rohitg00/agentmemory: #1 Persistent memory for AI coding agents based on real-world benchmarks · GitHub](https://github.com/rohitg00/agentmemory) ⭐ 8.5k
 
 ### Comparision
 

@@ -2,6 +2,7 @@
 
 - [living](knowledge/geography/living.md)
 - [new-home-place-house](knowledge/geography/new-home-place-house.md)
+- [places-to-live](knowledge/geography/places-to-live.md)
 
 ## Architectures
 

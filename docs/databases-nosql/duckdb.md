@@ -59,3 +59,4 @@ Available in C, C++, Go, Java, and Rust. For batch ETL or small datasets, regula
 - [DuckDB in 100 Seconds - YouTube](https://www.youtube.com/watch?v=uHm6FEb2Re4&ab_channel=Fireship)
 - [Announcing DuckDB 1.4.2 LTS – DuckDB](https://duckdb.org/2025/11/12/announcing-duckdb-142)
 - [Distributed DuckDB - dual execution and differential storage | Github - citguru/openduck](https://github.com/citguru/openduck) ⭐ 512
+- [Quack: The DuckDB Client-Server Protocol – DuckDB](https://duckdb.org/2026/05/12/quack-remote-protocol)

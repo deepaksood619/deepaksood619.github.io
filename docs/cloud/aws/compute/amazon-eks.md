@@ -192,6 +192,63 @@ https://docs.aws.amazon.com/eks/latest/userguide/cni-metrics-helper.html
 - [👋 AWS EKS Auto Mode: A Game-Changer or Just Hype? My Unbiased Take 👋 \| by Prashant Lakhera \| Medium](https://devopslearning.medium.com/aws-eks-auto-mode-a-game-changer-or-just-hype-my-unbiased-take-18de17c4484a)
 - [EKS Auto Mode - Amazon EKS](https://docs.aws.amazon.com/eks/latest/best-practices/automode.html)
 
+## Networking - EKS Static Egress IP Learnings
+
+**Core Method:** NAT Gateway + Elastic IP
+
+To get a static IP for outbound traffic in EKS:
+
+1. **Allocate Elastic IP (EIP)** in the EC2 Console.
+2. **Create NAT Gateway** in a public subnet and attach the EIP.
+3. **Configure Routing:** Set the default route (0.0.0.0/0) of your private subnets to point to the NAT Gateway.
+4. **Deploy EKS Nodes** into these private subnets.
+
+### Alternative Granular Solutions
+
+- **Cilium/Calico Egress Gateway:** Assign static IPs per namespace or application.
+- **Istio Egress Gateway:** Direct traffic through a central gateway pod for fine-grained routing.
+
+### EC2 vs. NAT Gateway
+
+Traffic path depends on the Subnet and Route Table:
+
+- **Private Subnet:** Traffic goes through NAT Gateway (Static IP).
+- **Public Subnet:** Traffic goes through Internet Gateway (Dynamic/Individual Public IP).
+- **Internal Traffic:** Stays within VPC or Peering; does not use NAT Gateway.
+
+### Implementation in Default VPC (Hybrid Approach)
+
+Since a Default VPC consists of public subnets:
+
+1. Create NAT Gateway in an existing public subnet.
+2. Create New Private Subnets (one per AZ).
+3. New Route Table: Route 0.0.0.0/0 to the NAT Gateway.
+4. Associate: Link the new private subnets to this route table.
+5. Deploy EKS Nodes: Place them only in the new private subnets. This allows EKS to have a static IP while existing EC2s remain untouched.
+
+### IGW vs. NAT Gateway
+
+- **Internet Gateway (IGW):**
+	  - Facilitates bi-directional (inbound/outbound) traffic.
+	  - Used in public subnets.
+	  - Performs 1:1 NAT; each instance uses its own unique public IP.
+	  - No cost for the gateway itself.
+- **NAT Gateway:**
+	- Facilitates outbound-only traffic for private subnets.
+	- Hides internal private IPs; traffic appears to come from a single static Elastic IP.
+	- Incurs hourly charges and data processing fees.
+
+### EKS Subnet Strategy
+
+- **Production Standard:** Use a hybrid of Public and Private subnets.
+- **Worker Nodes:** Should be placed in private subnets for security. This allows pods to access the internet (for updates/APIs) via a NAT Gateway while remaining unreachable from the public internet.
+- **Public Subnets:** Should host the NAT Gateways and internet-facing Load Balancers (ALB/NLB).
+
+### Facilitating Static Outbound IPs
+
+- To ensure all EKS traffic has a single static source IP (for whitelisting), nodes must be in a private subnet.
+- Instances in a public subnet cannot route through a NAT Gateway; they are forced to use the IGW and their own public IPs.
+
 ## Others
 
 - [Cost monitoring - Amazon EKS](https://docs.aws.amazon.com/eks/latest/userguide/cost-monitoring.html)

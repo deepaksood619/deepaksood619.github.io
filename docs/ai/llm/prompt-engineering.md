@@ -343,3 +343,7 @@ Knowledge based retrieval tool -
 - [Advanced Prompt Engineering for Content Creators - Full Handbook](https://www.freecodecamp.org/news/advanced-prompt-engineering-handbook/)
 - [Prompt Engineering with Llama 2 - DeepLearning.AI](https://www.deeplearning.ai/short-courses/prompt-engineering-with-llama-2)
 - [GitHub - dair-ai/Prompt-Engineering-Guide: 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 74k
+
+## Links
+
+- [Prompt 4.7 - by Ruben Hassid - How to AI](https://ruben.substack.com/p/prompt-47)

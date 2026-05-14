@@ -272,3 +272,8 @@ So for a long haul international flight you can take middle aisle with aisle sid
 - ⁠⁠Meeting hardware office (google meet camera hardware)
 	- [Logitech MeetUp HD Video and Audio Conferencing System](https://www.amazon.in/Logitech-960-001101-MeetUp-Conferencing-Meeting/dp/B072JQ98DF)
 	- [Series One Small Kit Setup Resources - Google Meet Hardware](https://meetingdevices.withgoogle.com/getstarted/products/series-one-small-room-solution/)
+- Weight Machine
+	- [Which Is The Best Body Fat Scale? 8 Electrode Edition (vs DEXA!) - YouTube](https://www.youtube.com/watch?v=yXmMvDzUhD8)
+	- [\[TOP 3\]🔥Best Weight Machine For Home🔥Best Weight Machine🔥Best Weighing Machine Under 500-1000 - YouTube](https://www.youtube.com/watch?v=qDTH_P6WYb4)
+	- [Best body composition scale 2026 \| Best body fat scale 2026 \| Best smart scale 2027 \| smart scale - YouTube](https://www.youtube.com/watch?v=L1NgFFZMFWM)
+	- [Best Weight Machine for Home \| Under 500, 1000 and 1500 \| Best Weighing Scale 2026 - YouTube](https://www.youtube.com/watch?v=8G1IZGHpv7c)
