@@ -1,0 +1,264 @@
+<!doctype html>
+<html lang="en" dir="ltr" class="docs-wrapper plugin-docs plugin-id-default docs-version-current docs-doc-page docs-doc-id-superpowers/specs/2026-05-12-postgres17-vs-18-design" data-has-hydrated="false">
+<head>
+<meta charset="UTF-8">
+<meta name="generator" content="Docusaurus v3.10.0">
+<title data-rh="true">PostgreSQL 17 vs 18 Comparison - Design Specification | Deep Notes</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://deepaksood619.github.io/img/timeline_blurred.webp"><meta data-rh="true" name="twitter:image" content="https://deepaksood619.github.io/img/timeline_blurred.webp"><meta data-rh="true" property="og:url" content="https://deepaksood619.github.io/superpowers/specs/2026-05-12-postgres17-vs-18-design"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="PostgreSQL 17 vs 18 Comparison - Design Specification | Deep Notes"><meta data-rh="true" name="description" content="Quick reference guide comparing PostgreSQL 17 vs 18 features, performance, and migration considerations"><meta data-rh="true" property="og:description" content="Quick reference guide comparing PostgreSQL 17 vs 18 features, performance, and migration considerations"><link data-rh="true" rel="icon" href="/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://deepaksood619.github.io/superpowers/specs/2026-05-12-postgres17-vs-18-design"><link data-rh="true" rel="alternate" href="https://deepaksood619.github.io/superpowers/specs/2026-05-12-postgres17-vs-18-design" hreflang="en"><link data-rh="true" rel="alternate" href="https://deepaksood619.github.io/superpowers/specs/2026-05-12-postgres17-vs-18-design" hreflang="x-default"><link data-rh="true" rel="preconnect" href="https://X3OY8NGHVH-dsn.algolia.net" crossorigin="anonymous"><script data-rh="true" type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"PostgreSQL 17 vs 18 Comparison - Design Specification","item":"https://deepaksood619.github.io/superpowers/specs/2026-05-12-postgres17-vs-18-design"}]}</script><link rel="preconnect" href="https://www.google-analytics.com">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZSZMJXWSH3"></script>
+<script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-ZSZMJXWSH3",{})</script>
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script>window.dataLayer=window.dataLayer||[]</script>
+<script>!function(e,t,a,n){e[n]=e[n]||[],e[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var g=t.getElementsByTagName(a)[0],m=t.createElement(a);m.async=!0,m.src="https://www.googletagmanager.com/gtm.js?id=GTM-TN3KBF4",g.parentNode.insertBefore(m,g)}(window,document,"script","dataLayer")</script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" title="Deep Notes" href="/opensearch.xml">
+<link rel="icon" href="/img/logo.webp">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="rgb(53, 120, 229)">
+
+
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5616865131274062" async crossorigin="anonymous"></script><link rel="stylesheet" href="/assets/css/styles.b7640323.css">
+<script src="/assets/js/runtime~main.4c86ca81.js" defer="defer"></script>
+<script src="/assets/js/main.78600478.js" defer="defer"></script>
+</head>
+<body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3KBF4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<svg style="display: none;"><defs>
+<symbol id="theme-svg-external-link" viewBox="0 0 24 24"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"/></symbol>
+</defs></svg>
+<script>!function(){var t=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return window.localStorage.getItem("theme")}catch(t){}}();document.documentElement.setAttribute("data-theme",t||(window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light")),document.documentElement.setAttribute("data-theme-choice",t||"system")}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id="__docusaurus"><div role="region" aria-label="Skip to main content"><a class="skipToContent_fXgn" href="#__docusaurus_skipToContent_fallback">Skip to main content</a></div><nav aria-label="Main" class="theme-layout-navbar navbar navbar--fixed-top navbarHideable_m1mJ"><div class="navbar__inner"><div class="theme-layout-navbar-left navbar__items"><button aria-label="Toggle navigation bar" aria-expanded="false" class="navbar__toggle clean-btn" type="button"><svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path></svg></button><a class="navbar__brand" href="/"><div class="navbar__logo"><img src="/img/logo.webp" alt="Site Logo" class="themedComponent_mlkZ themedComponent--light_NVdE"><img src="/img/logo.webp" alt="Site Logo" class="themedComponent_mlkZ themedComponent--dark_xIcU"></div><b class="navbar__title text--truncate">Deep Notes</b></a><a class="navbar__item navbar__link" href="/about-deepak-sood">About Me</a><a class="navbar__item navbar__link" href="/ai/llm">LLM Notes</a><a class="navbar__item navbar__link" href="/databases">Databases</a><a class="navbar__item navbar__link" href="/economics">Economics</a></div><div class="theme-layout-navbar-right navbar__items navbar__items--right"><a href="https://github.com/deepaksood619" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">GitHub<svg width="13.5" height="13.5" aria-label="(opens in new tab)" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a><a href="https://www.linkedin.com/in/deepaksood619/" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">LinkedIn<svg width="13.5" height="13.5" aria-label="(opens in new tab)" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a><div class="toggle_vylO colorModeToggle_DEke"><button class="clean-btn toggleButton_gllP toggleButtonDisabled_aARS" type="button" disabled="" title="system mode" aria-label="Switch between dark and light mode (currently system mode)"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP lightToggleIcon_pyhR"><path fill="currentColor" d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP darkToggleIcon_wfgR"><path fill="currentColor" d="M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP systemToggleIcon_QzmC"><path fill="currentColor" d="m12 21c4.971 0 9-4.029 9-9s-4.029-9-9-9-9 4.029-9 9 4.029 9 9 9zm4.95-13.95c1.313 1.313 2.05 3.093 2.05 4.95s-0.738 3.637-2.05 4.95c-1.313 1.313-3.093 2.05-4.95 2.05v-14c1.857 0 3.637 0.737 4.95 2.05z"></path></svg></button></div><div class="navbarSearchContainer_Bca1"><button type="button" class="DocSearch DocSearch-Button" aria-label="Search (Meta+k)" aria-keyshortcuts="Meta+k"><span class="DocSearch-Button-Container"><svg width="20" height="20" class="DocSearch-Search-Icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="8" stroke="currentColor" fill="none" stroke-width="1.4"></circle><path d="m21 21-4.3-4.3" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"></path></svg><span class="DocSearch-Button-Placeholder">Search</span></span><span class="DocSearch-Button-Keys"></span></button></div></div></div><div role="presentation" class="navbar-sidebar__backdrop"></div></nav><div id="__docusaurus_skipToContent_fallback" class="theme-layout-main main-wrapper mainWrapper_z2l0"><div class="docsWrapper_hBAB"><button aria-label="Scroll back to top" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type="button"></button><div class="docRoot_UBD9"><aside class="theme-doc-sidebar-container docSidebarContainer_YfHR"><div class="sidebarViewport_aRkj"><div class="sidebar_njMd sidebarWithHideableNavbar_wUlq"><a tabindex="-1" class="sidebarLogo_isFc" href="/"><img src="/img/logo.webp" alt="Site Logo" class="themedComponent_mlkZ themedComponent--light_NVdE"><img src="/img/logo.webp" alt="Site Logo" class="themedComponent_mlkZ themedComponent--dark_xIcU"><b>Deep Notes</b></a><nav aria-label="Docs sidebar" class="menu thin-scrollbar menu_SIkG"><ul class="theme-doc-sidebar-menu menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link" href="/CLAUDE"><span title="claude.md" class="linkLabel_WmDU">claude.md</span></a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/about-deepak-sood/"><span title="About Deepak Sood" class="categoryLinkLabel_W154">About Deepak Sood</span></a><button aria-label="Expand sidebar category &#x27;About Deepak Sood&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/ai/"><span title="AI" class="categoryLinkLabel_W154">AI</span></a><button aria-label="Expand sidebar category &#x27;AI&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/algorithms/"><span title="Algorithms" class="categoryLinkLabel_W154">Algorithms</span></a><button aria-label="Expand sidebar category &#x27;Algorithms&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/book-summaries/"><span title="Book Summaries" class="categoryLinkLabel_W154">Book Summaries</span></a><button aria-label="Expand sidebar category &#x27;Book Summaries&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/cloud/"><span title="Cloud" class="categoryLinkLabel_W154">Cloud</span></a><button aria-label="Expand sidebar category &#x27;Cloud&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/computer-science/"><span title="Computer Science" class="categoryLinkLabel_W154">Computer Science</span></a><button aria-label="Expand sidebar category &#x27;Computer Science&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/courses/"><span title="Courses / Certifications" class="categoryLinkLabel_W154">Courses / Certifications</span></a><button aria-label="Expand sidebar category &#x27;Courses / Certifications&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/data-structures/"><span title="Data Structures" class="categoryLinkLabel_W154">Data Structures</span></a><button aria-label="Expand sidebar category &#x27;Data Structures&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/data-warehouses/"><span title="Data Warehouses" class="categoryLinkLabel_W154">Data Warehouses</span></a><button aria-label="Expand sidebar category &#x27;Data Warehouses&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/databases/"><span title="Databases" class="categoryLinkLabel_W154">Databases</span></a><button aria-label="Expand sidebar category &#x27;Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/databases-nosql/"><span title="NoSQL Databases" class="categoryLinkLabel_W154">NoSQL Databases</span></a><button aria-label="Expand sidebar category &#x27;NoSQL Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/databases-sql/"><span title="SQL Databases" class="categoryLinkLabel_W154">SQL Databases</span></a><button aria-label="Expand sidebar category &#x27;SQL Databases&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/decentralized-applications/"><span title="Decentralized Applications" class="categoryLinkLabel_W154">Decentralized Applications</span></a><button aria-label="Expand sidebar category &#x27;Decentralized Applications&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/devops/"><span title="DevOps" class="categoryLinkLabel_W154">DevOps</span></a><button aria-label="Expand sidebar category &#x27;DevOps&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/economics/"><span title="Economics" class="categoryLinkLabel_W154">Economics</span></a><button aria-label="Expand sidebar category &#x27;Economics&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/education/"><span title="Education" class="categoryLinkLabel_W154">Education</span></a><button aria-label="Expand sidebar category &#x27;Education&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/frontend/"><span title="Frontend" class="categoryLinkLabel_W154">Frontend</span></a><button aria-label="Expand sidebar category &#x27;Frontend&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/ideas/"><span title="Ideas" class="categoryLinkLabel_W154">Ideas</span></a><button aria-label="Expand sidebar category &#x27;Ideas&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/knowledge/"><span title="Knowledge" class="categoryLinkLabel_W154">Knowledge</span></a><button aria-label="Expand sidebar category &#x27;Knowledge&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/languages/"><span title="Languages" class="categoryLinkLabel_W154">Languages</span></a><button aria-label="Expand sidebar category &#x27;Languages&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/management/"><span title="Management" class="categoryLinkLabel_W154">Management</span></a><button aria-label="Expand sidebar category &#x27;Management&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/mathematics/"><span title="Mathematics" class="categoryLinkLabel_W154">Mathematics</span></a><button aria-label="Expand sidebar category &#x27;Mathematics&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/networking/"><span title="Networking" class="categoryLinkLabel_W154">Networking</span></a><button aria-label="Expand sidebar category &#x27;Networking&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/psychology/"><span title="Psychology" class="categoryLinkLabel_W154">Psychology</span></a><button aria-label="Expand sidebar category &#x27;Psychology&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/python/"><span title="Python" class="categoryLinkLabel_W154">Python</span></a><button aria-label="Expand sidebar category &#x27;Python&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link" href="/"><span title="Deepak&#x27;s Wiki" class="linkLabel_WmDU">Deepak&#x27;s Wiki</span></a></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--sublist-caret menu__link--active" role="button" aria-expanded="true" href="/superpowers/specs/2026-05-12-postgres17-vs-18-design"><span title="superpowers" class="categoryLinkLabel_W154">superpowers</span></a></div><ul class="menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--sublist-caret menu__link--active" role="button" aria-expanded="true" tabindex="0" href="/superpowers/specs/2026-05-12-postgres17-vs-18-design"><span title="specs" class="categoryLinkLabel_W154">specs</span></a></div><ul class="menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link menu__link--active" aria-current="page" tabindex="0" href="/superpowers/specs/2026-05-12-postgres17-vs-18-design"><span title="PostgreSQL 17 vs 18 Comparison - Design Specification" class="linkLabel_WmDU">PostgreSQL 17 vs 18 Comparison - Design Specification</span></a></li></ul></li></ul></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/technologies/"><span title="Technologies" class="categoryLinkLabel_W154">Technologies</span></a><button aria-label="Expand sidebar category &#x27;Technologies&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li></ul></nav><button type="button" title="Collapse sidebar" aria-label="Collapse sidebar" class="button button--secondary button--outline collapseSidebarButton_PEFL"><svg width="20" height="20" aria-hidden="true" class="collapseSidebarButtonIcon_kv0_"><g fill="#7a7a7a"><path d="M9.992 10.023c0 .2-.062.399-.172.547l-4.996 7.492a.982.982 0 01-.828.454H1c-.55 0-1-.453-1-1 0-.2.059-.403.168-.551l4.629-6.942L.168 3.078A.939.939 0 010 2.528c0-.548.45-.997 1-.997h2.996c.352 0 .649.18.828.45L9.82 9.472c.11.148.172.347.172.55zm0 0"></path><path d="M19.98 10.023c0 .2-.058.399-.168.547l-4.996 7.492a.987.987 0 01-.828.454h-3c-.547 0-.996-.453-.996-1 0-.2.059-.403.168-.551l4.625-6.942-4.625-6.945a.939.939 0 01-.168-.55 1 1 0 01.996-.997h3c.348 0 .649.18.828.45l4.996 7.492c.11.148.168.347.168.55zm0 0"></path></g></svg></button></div></div></aside><main class="docMainContainer_TBSr"><div class="container padding-top--md padding-bottom--lg"><div class="row"><div class="col docItemCol_VOVn"><div class="docItemContainer_Djhp"><article><nav class="theme-doc-breadcrumbs breadcrumbsContainer_Z_bl" aria-label="Breadcrumbs"><ul class="breadcrumbs"><li class="breadcrumbs__item"><a aria-label="Home page" class="breadcrumbs__link" href="/"><svg viewBox="0 0 24 24" class="breadcrumbHomeIcon_YNFT"><path d="M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z" fill="currentColor"></path></svg></a></li><li class="breadcrumbs__item"><span class="breadcrumbs__link">superpowers</span></li><li class="breadcrumbs__item"><span class="breadcrumbs__link">specs</span></li><li class="breadcrumbs__item breadcrumbs__item--active"><span class="breadcrumbs__link">PostgreSQL 17 vs 18 Comparison - Design Specification</span></li></ul></nav><div class="tocCollapsible_ETCw theme-doc-toc-mobile tocMobile_ITEo"><button type="button" class="clean-btn tocCollapsibleButton_TO0P">On this page</button></div><div class="theme-doc-markdown markdown"><header><h1>PostgreSQL 17 vs 18 Comparison - Design Specification</h1></header>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="overview">Overview<a href="#overview" class="hash-link" aria-label="Direct link to Overview" title="Direct link to Overview" translate="no">​</a></h2>
+<p>Create a 1-page quick reference document comparing PostgreSQL 17 (released September 2024) and PostgreSQL 18 (released 2026), focusing on key differences, performance metrics, and upgrade decision guidance.</p>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="goals">Goals<a href="#goals" class="hash-link" aria-label="Direct link to Goals" title="Direct link to Goals" translate="no">​</a></h2>
+<ol>
+<li class="">Provide scannable comparison of major features and changes</li>
+<li class="">Highlight performance improvements with specific metrics</li>
+<li class="">Identify breaking changes and migration gotchas</li>
+<li class="">Help readers quickly decide if/when to upgrade</li>
+<li class="">Keep document to ~200 lines maximum (1 page)</li>
+</ol>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="target-audience">Target Audience<a href="#target-audience" class="hash-link" aria-label="Direct link to Target Audience" title="Direct link to Target Audience" translate="no">​</a></h2>
+<ul>
+<li class="">Database administrators evaluating upgrade paths</li>
+<li class="">Developers working with PostgreSQL</li>
+<li class="">Technical decision-makers assessing version migration</li>
+<li class="">Users of the knowledge base seeking quick PostgreSQL version comparison</li>
+</ul>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="document-structure">Document Structure<a href="#document-structure" class="hash-link" aria-label="Direct link to Document Structure" title="Direct link to Document Structure" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="section-1-header-5-lines">Section 1: Header (5 lines)<a href="#section-1-header-5-lines" class="hash-link" aria-label="Direct link to Section 1: Header (5 lines)" title="Direct link to Section 1: Header (5 lines)" translate="no">​</a></h3>
+<div class="language-markdown codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-markdown codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token title important punctuation" style="color:#393A34">#</span><span class="token title important"> PostgreSQL 17 vs 18</span><span class="token plain"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token bold punctuation" style="color:#393A34">**</span><span class="token bold content">PostgreSQL 17:</span><span class="token bold punctuation" style="color:#393A34">**</span><span class="token plain"> Released September 26, 2024</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token bold punctuation" style="color:#393A34">**</span><span class="token bold content">PostgreSQL 18:</span><span class="token bold punctuation" style="color:#393A34">**</span><span class="token plain"> Released 2026</span><br></div><div class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">PostgreSQL 18 focuses on performance optimization (async I/O, index improvements), enterprise features (OAuth, temporal constraints), and enhanced logical replication.</span><br></div></code></pre></div></div>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="section-2-performance-comparison-table-60-70-lines">Section 2: Performance Comparison Table (60-70 lines)<a href="#section-2-performance-comparison-table-60-70-lines" class="hash-link" aria-label="Direct link to Section 2: Performance Comparison Table (60-70 lines)" title="Direct link to Section 2: Performance Comparison Table (60-70 lines)" translate="no">​</a></h3>
+<p>A markdown table with columns:</p>
+<ul>
+<li class=""><strong>Feature Area</strong> - Category name</li>
+<li class=""><strong>PostgreSQL 17</strong> - What PG17 offered</li>
+<li class=""><strong>PostgreSQL 18</strong> - What changed/added in PG18</li>
+<li class=""><strong>Performance Impact</strong> - Measured improvements with metrics</li>
+</ul>
+<p><strong>Categories to include:</strong></p>
+<ol>
+<li class="">
+<p><strong>I/O &amp; Storage Performance</strong></p>
+<ul>
+<li class="">PG17: Standard synchronous I/O</li>
+<li class="">PG18: Async I/O subsystem (AIO), configurable via <code>io_method</code></li>
+<li class="">Impact: Up to 3× faster sequential scans, bitmap heap scans, vacuum</li>
+</ul>
+</li>
+<li class="">
+<p><strong>Index Optimization</strong></p>
+<ul>
+<li class="">PG17: BRIN parallel creation, hash indexes for ltree</li>
+<li class="">PG18: Skip scans for multicolumn B-tree indexes, parallel GIN index builds, ARM NEON/SVE support</li>
+<li class="">Impact: Queries without prefix columns can use indexes</li>
+</ul>
+</li>
+<li class="">
+<p><strong>Query Optimizer</strong></p>
+<ul>
+<li class="">PG17: CTE improvements, correlated IN subqueries → joins, partition pruning</li>
+<li class="">PG18: OR condition optimization, self-join elimination, incremental sorts with merge joins</li>
+<li class="">Impact: Better hash join performance, reduced memory usage</li>
+</ul>
+</li>
+<li class="">
+<p><strong>SQL Features</strong></p>
+<ul>
+<li class="">PG17: SQL/JSON (JSON_TABLE, JSON_EXISTS, JSON_QUERY, JSON_VALUE)</li>
+<li class="">PG18: Virtual generated columns (default), temporal constraints (WITHOUT OVERLAPS), OLD/NEW in RETURNING</li>
+<li class="">Impact: Computed columns at query time, temporal validity constraints</li>
+</ul>
+</li>
+<li class="">
+<p><strong>Data Types &amp; Functions</strong></p>
+<ul>
+<li class="">PG17: uuid_extract_timestamp(), random(min, max), to_bin(), to_oct()</li>
+<li class="">PG18: uuidv7() (timestamp-ordered), casefold(), array_sort(), array_reverse(), crc32(), gamma()</li>
+<li class="">Impact: Better UUID indexing performance with v7</li>
+</ul>
+</li>
+<li class="">
+<p><strong>Security &amp; Authentication</strong></p>
+<ul>
+<li class="">PG17: Improved client connection with sslnegotiation=direct</li>
+<li class="">PG18: OAuth 2.0 support, MD5 deprecation warnings, FIPS mode, TLS 1.3 cipher control</li>
+<li class="">Impact: SSO integration, enhanced security posture</li>
+</ul>
+</li>
+<li class="">
+<p><strong>Logical Replication</strong></p>
+<ul>
+<li class="">PG17: pg_createsubscriber, failover control, hash index support</li>
+<li class="">PG18: Generated column replication, conflict logging, default parallel streaming, automatic idle slot cleanup</li>
+<li class="">Impact: Better conflict visibility via pg_stat_subscription_stats</li>
+</ul>
+</li>
+<li class="">
+<p><strong>Backup &amp; Recovery</strong></p>
+<ul>
+<li class="">PG17: Incremental backup support (pg_basebackup --incremental, pg_combinebackup)</li>
+<li class="">PG18: pg_upgrade preserves statistics (faster post-upgrade), parallel checks, --swap flag</li>
+<li class="">Impact: Faster major version upgrades</li>
+</ul>
+</li>
+<li class="">
+<p><strong>Monitoring &amp; Observability</strong></p>
+<ul>
+<li class="">PG17: pg_stat_checkpointer, pg_wait_events, VACUUM progress with index stats</li>
+<li class="">PG18: Enhanced EXPLAIN with auto buffer display, CPU/WAL stats, per-connection I/O stats</li>
+<li class="">Impact: Better performance troubleshooting visibility</li>
+</ul>
+</li>
+<li class="">
+<p><strong>Configuration &amp; Defaults</strong></p>
+<ul>
+<li class="">PG17: transaction_timeout, builtin collation provider, SLRU cache configs</li>
+<li class="">PG18: Page checksums default ON, io_combine_limit, effective_io_concurrency default=16, autovacuum_worker_slots</li>
+<li class="">Impact: Better out-of-box performance, data integrity default</li>
+</ul>
+</li>
+</ol>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="section-3-top-performance-wins-20-30-lines">Section 3: Top Performance Wins (20-30 lines)<a href="#section-3-top-performance-wins-20-30-lines" class="hash-link" aria-label="Direct link to Section 3: Top Performance Wins (20-30 lines)" title="Direct link to Section 3: Top Performance Wins (20-30 lines)" translate="no">​</a></h3>
+<p><strong>Biggest Performance Improvements in PG18:</strong></p>
+<ul>
+<li class=""><strong>Async I/O:</strong> 3× performance improvement for sequential scans and vacuum operations</li>
+<li class=""><strong>Skip Scans:</strong> Multicolumn indexes usable even when first column not in WHERE clause</li>
+<li class=""><strong>Hash Join Memory:</strong> Reduced memory consumption and better performance</li>
+<li class=""><strong>Parallel GIN Builds:</strong> Index creation parallelized for GIN indexes</li>
+<li class=""><strong>Page Checksums Default:</strong> Data corruption detection enabled by default (use --no-data-checksums to disable)</li>
+<li class=""><strong>Higher I/O Concurrency:</strong> Default effective_io_concurrency increased from 1 to 16</li>
+<li class=""><strong>Statistics Preservation:</strong> pg_upgrade keeps optimizer stats for faster post-upgrade performance</li>
+<li class=""><strong>Virtual Generated Columns:</strong> Now default, compute at query time without storage overhead</li>
+<li class=""><strong>Self-Join Elimination:</strong> Optimizer automatically removes unnecessary table self-joins</li>
+<li class=""><strong>Better Index Utilization:</strong> OR conditions optimized to use indexes more effectively</li>
+</ul>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="section-4-breaking-changes--migration-gotchas-30-40-lines">Section 4: Breaking Changes &amp; Migration Gotchas (30-40 lines)<a href="#section-4-breaking-changes--migration-gotchas-30-40-lines" class="hash-link" aria-label="Direct link to Section 4: Breaking Changes &amp; Migration Gotchas (30-40 lines)" title="Direct link to Section 4: Breaking Changes &amp; Migration Gotchas (30-40 lines)" translate="no">​</a></h3>
+<p><strong>Critical Breaking Changes:</strong></p>
+<p><strong>PG18 Specific:</strong></p>
+<ul>
+<li class=""><strong>Data checksums enabled by default</strong> - Adds overhead; use <code>--no-data-checksums</code> if not needed</li>
+<li class=""><strong>MD5 password authentication deprecated</strong> - Warnings emitted; migrate to SCRAM-SHA-256</li>
+<li class=""><strong>VACUUM/ANALYZE inheritance changes</strong> - Now process children by default; use <code>ONLY</code> for old behavior</li>
+<li class=""><strong>Time zone abbreviation precedence</strong> - Session TZ abbreviations checked before <code>timezone_abbreviations</code> variable</li>
+<li class=""><strong>COPY FROM <code>\.</code> handling</strong> - In CSV mode, <code>\.</code> must be alone on line to signal EOF</li>
+<li class=""><strong>Unlogged partitioned tables disallowed</strong> - Previously allowed but non-functional</li>
+<li class=""><strong>AFTER trigger execution role</strong> - Uses role active at queue time, not execution time</li>
+<li class=""><strong>Memory context level now one-based</strong> - Previously zero-based</li>
+</ul>
+<p><strong>PG17 Removed Features:</strong></p>
+<ul>
+<li class=""><code>old_snapshot_threshold</code> removed</li>
+<li class=""><code>db_user_namespace</code> feature removed</li>
+<li class=""><code>adminpack</code> extension removed</li>
+<li class="">OpenSSL 1.0.1 support dropped</li>
+<li class="">AIX support dropped</li>
+</ul>
+<p><strong>PG18 Removed Features:</strong></p>
+<ul>
+<li class="">HPPA/PA-RISC platform support removed</li>
+<li class="">32-bit atomic operations now mandatory</li>
+</ul>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="section-5-should-i-upgrade-decision-matrix-20-30-lines">Section 5: Should I Upgrade Decision Matrix (20-30 lines)<a href="#section-5-should-i-upgrade-decision-matrix-20-30-lines" class="hash-link" aria-label="Direct link to Section 5: Should I Upgrade Decision Matrix (20-30 lines)" title="Direct link to Section 5: Should I Upgrade Decision Matrix (20-30 lines)" translate="no">​</a></h3>
+<p><strong>Upgrade Priority by Use Case:</strong></p>
+<table><thead><tr><th>Use Case</th><th>Upgrade Priority</th><th>Key Benefits</th></tr></thead><tbody><tr><td>High I/O workloads (analytics, reporting)</td><td><strong>High</strong></td><td>3× async I/O performance gains</td></tr><tr><td>OAuth/SSO integration needs</td><td><strong>High</strong></td><td>Native OAuth authentication</td></tr><tr><td>Logical replication users</td><td><strong>Medium-High</strong></td><td>Better conflict visibility, parallel streaming default</td></tr><tr><td>Multicolumn index queries</td><td><strong>Medium-High</strong></td><td>Skip scans enable index usage</td></tr><tr><td>General OLTP applications</td><td><strong>Medium</strong></td><td>Incremental performance improvements</td></tr><tr><td>Development/testing environments</td><td><strong>Medium</strong></td><td>Virtual generated columns, temporal constraints</td></tr><tr><td>Legacy MD5 authentication</td><td><strong>High</strong></td><td>Deprecation warnings, migration required</td></tr></tbody></table>
+<p><strong>Migration Readiness Checklist:</strong></p>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Test with <code>--no-data-checksums</code> if checksum overhead is concern</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Migrate MD5 authentication to SCRAM-SHA-256</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Review VACUUM/ANALYZE scripts for inheritance behavior changes</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Test COPY operations with <code>\.</code> markers in CSV files</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Verify time zone abbreviation handling</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Check for unlogged partitioned tables</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Review AFTER trigger execution contexts</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Update monitoring scripts for new pg_stat columns</li>
+</ul>
+<h3 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="section-6-key-configuration-changes-20-30-lines">Section 6: Key Configuration Changes (20-30 lines)<a href="#section-6-key-configuration-changes-20-30-lines" class="hash-link" aria-label="Direct link to Section 6: Key Configuration Changes (20-30 lines)" title="Direct link to Section 6: Key Configuration Changes (20-30 lines)" translate="no">​</a></h3>
+<p><strong>New Important Parameters in PG18:</strong></p>
+<ul>
+<li class=""><code>io_method</code> - Controls async I/O (<code>worker</code>, <code>io_uring</code>, <code>sync</code>)</li>
+<li class=""><code>io_combine_limit</code> / <code>io_max_combine_limit</code> - I/O operation combining</li>
+<li class=""><code>ssl_tls13_ciphers</code> - TLS v1.3 cipher suite control</li>
+<li class=""><code>autovacuum_worker_slots</code> - Maximum background autovacuum workers</li>
+<li class=""><code>autovacuum_vacuum_max_threshold</code> - Fixed dead tuple threshold</li>
+<li class=""><code>vacuum_truncate</code> - Control file truncation during vacuum</li>
+<li class=""><code>idle_replication_slot_timeout</code> - Auto-invalidate idle slots</li>
+<li class=""><code>md5_password_warnings</code> - Control MD5 deprecation warning frequency</li>
+</ul>
+<p><strong>Changed Defaults in PG18:</strong></p>
+<ul>
+<li class=""><code>effective_io_concurrency</code>: 1 → 16</li>
+<li class=""><code>maintenance_io_concurrency</code>: 1 → 16</li>
+<li class="">Page checksums: OFF → ON</li>
+<li class="">Logical replication streaming: <code>off</code> → <code>parallel</code></li>
+</ul>
+<p><strong>PG17 Important Parameters:</strong></p>
+<ul>
+<li class=""><code>transaction_timeout</code> - Restrict maximum transaction duration</li>
+<li class=""><code>allow_alter_system</code> - Can disable ALTER SYSTEM command</li>
+<li class=""><code>huge_pages_status</code> - Report huge page usage</li>
+<li class=""><code>summarize_wal</code> - Enable WAL summarization for incremental backups</li>
+<li class=""><code>sync_replication_slots</code> - Enable failover slot synchronization</li>
+</ul>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="document-format">Document Format<a href="#document-format" class="hash-link" aria-label="Direct link to Document Format" title="Direct link to Document Format" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>File location:</strong> <code>databases-sql/postgres/postgres17-vs-postgres18.md</code></li>
+<li class=""><strong>Markdown format</strong> - Compatible with Docusaurus</li>
+<li class=""><strong>Blank lines</strong> - Between all sections for proper rendering</li>
+<li class=""><strong>Tables</strong> - Use markdown table syntax</li>
+<li class=""><strong>Code blocks</strong> - Specify language for syntax highlighting where applicable</li>
+<li class=""><strong>Lists</strong> - Use bullet points and checkboxes for scannable content</li>
+<li class=""><strong>Links</strong> - Use standard markdown links (not wikilinks)</li>
+</ul>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="content-sources">Content Sources<a href="#content-sources" class="hash-link" aria-label="Direct link to Content Sources" title="Direct link to Content Sources" translate="no">​</a></h2>
+<p>All information sourced from:</p>
+<ul>
+<li class=""><a href="https://www.postgresql.org/about/news/postgresql-18-released-3142/" target="_blank" rel="noopener noreferrer" class="">https://www.postgresql.org/about/news/postgresql-18-released-3142/</a></li>
+<li class=""><a href="https://www.postgresql.org/docs/release/18.0/" target="_blank" rel="noopener noreferrer" class="">https://www.postgresql.org/docs/release/18.0/</a></li>
+<li class=""><a href="https://www.postgresql.org/docs/release/17.0/" target="_blank" rel="noopener noreferrer" class="">https://www.postgresql.org/docs/release/17.0/</a></li>
+</ul>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="why-this-design">Why This Design<a href="#why-this-design" class="hash-link" aria-label="Direct link to Why This Design" title="Direct link to Why This Design" translate="no">​</a></h2>
+<ol>
+<li class=""><strong>Combination of approaches</strong> - Table format (Approach C) for direct comparison + Feature categories (Approach A) for logical grouping</li>
+<li class=""><strong>Scannable</strong> - Bulleted lists, tables, clear headers</li>
+<li class=""><strong>Decision-focused</strong> - Upgrade decision matrix helps readers act</li>
+<li class=""><strong>Complete</strong> - Covers performance, features, breaking changes, configuration</li>
+<li class=""><strong>Compact</strong> - ~200 lines fits on one page</li>
+<li class=""><strong>Docusaurus-compatible</strong> - Follows markdown best practices for proper rendering</li>
+</ol>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="success-criteria">Success Criteria<a href="#success-criteria" class="hash-link" aria-label="Direct link to Success Criteria" title="Direct link to Success Criteria" translate="no">​</a></h2>
+<ul class="contains-task-list containsTaskList_mC6p">
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Document is ~200 lines or less</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->All major PG18 features compared to PG17</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Performance metrics included with specific numbers</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Breaking changes clearly highlighted</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Upgrade decision guidance provided</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Follows Docusaurus markdown formatting rules</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->Renders correctly in npm start preview</li>
+<li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->No broken links when built</li>
+</ul></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="row margin-top--sm theme-doc-footer-edit-meta-row"><div class="col noPrint_WFHX"><a href="https://github.com/deepaksood619/deepaksood619.github.io/tree/master/docs/superpowers/specs/2026-05-12-postgres17-vs-18-design.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_JAkA"><span class="theme-last-updated">Last updated<!-- --> on <b><time datetime="2026-05-13T07:38:04.000Z" itemprop="dateModified">May 13, 2026</time></b> by <b>Deepak Sood</b></span></div></div></footer></article><nav class="docusaurus-mt-lg pagination-nav" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Deepak&#x27;s Wiki</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/technologies/"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Technologies</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#overview" class="table-of-contents__link toc-highlight">Overview</a></li><li><a href="#goals" class="table-of-contents__link toc-highlight">Goals</a></li><li><a href="#target-audience" class="table-of-contents__link toc-highlight">Target Audience</a></li><li><a href="#document-structure" class="table-of-contents__link toc-highlight">Document Structure</a><ul><li><a href="#section-1-header-5-lines" class="table-of-contents__link toc-highlight">Section 1: Header (5 lines)</a></li><li><a href="#section-2-performance-comparison-table-60-70-lines" class="table-of-contents__link toc-highlight">Section 2: Performance Comparison Table (60-70 lines)</a></li><li><a href="#section-3-top-performance-wins-20-30-lines" class="table-of-contents__link toc-highlight">Section 3: Top Performance Wins (20-30 lines)</a></li><li><a href="#section-4-breaking-changes--migration-gotchas-30-40-lines" class="table-of-contents__link toc-highlight">Section 4: Breaking Changes &amp; Migration Gotchas (30-40 lines)</a></li><li><a href="#section-5-should-i-upgrade-decision-matrix-20-30-lines" class="table-of-contents__link toc-highlight">Section 5: Should I Upgrade Decision Matrix (20-30 lines)</a></li><li><a href="#section-6-key-configuration-changes-20-30-lines" class="table-of-contents__link toc-highlight">Section 6: Key Configuration Changes (20-30 lines)</a></li></ul></li><li><a href="#document-format" class="table-of-contents__link toc-highlight">Document Format</a></li><li><a href="#content-sources" class="table-of-contents__link toc-highlight">Content Sources</a></li><li><a href="#why-this-design" class="table-of-contents__link toc-highlight">Why This Design</a></li><li><a href="#success-criteria" class="table-of-contents__link toc-highlight">Success Criteria</a></li></ul></div></div></div></div></main></div></div></div><footer class="theme-layout-footer footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2026 Deep Notes, Built with ❤️</div></div></div></footer></div>
+</body>
+</html>
