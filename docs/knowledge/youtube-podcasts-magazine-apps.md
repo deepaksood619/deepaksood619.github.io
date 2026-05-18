@@ -30,6 +30,7 @@
 - [PBS Space Time - YouTube](https://youtube.com/@pbsspacetime)
 - [Today I Found Out - YouTube](https://youtube.com/@todayifoundout)
 - MinuteEarth
+- [The Knowledge Project Podcast](https://youtube.com/@tkppodcast)
 
 ### Inventions and Building Stuff / Engineering
 
@@ -86,6 +87,7 @@
 - [The Linux Foundation - YouTube](https://youtube.com/@linuxfoundationorg)
 - [Arpit Bhayani - YouTube](https://www.youtube.com/@asliengineering)
 - [Gaurav Sen - YouTube](https://www.youtube.com/@gkcs)
+- [CMU Database Group](https://youtube.com/@cmudatabasegroup)
 
 ### Math
 
@@ -213,6 +215,7 @@
 - [4PM - YouTube](https://www.youtube.com/@4PMNewsNetwork)
 - [Detox Traveller - YouTube](https://www.youtube.com/@detoxtraveller)
 - [60 Minutes - YouTube](https://www.youtube.com/@60minutes)
+- [VOGS - Voice Of Global South](https://youtube.com/@vogsmedia)
 
 #### Economics News
 

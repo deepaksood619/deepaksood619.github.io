@@ -98,3 +98,4 @@
 - [Please Stop Blaming People For Civic Sense](https://youtu.be/HVQfhr3S20Q)
 - [Can You Be Arrested for Hugging or Kissing in Public? ft. Sonal | Jist](https://youtu.be/XYqeYlSHuCU)
 - [Reality of Civic Sense in India | The Problem is NOT What You Think | Dh...](https://youtu.be/ZZMgt5SMPEQ)
+- [Modi Govt. To Silence News Creators? | India Slips Below Pakistan In Pre...](https://youtu.be/SzfHgHoSaj0)

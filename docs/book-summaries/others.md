@@ -55,6 +55,8 @@
 - [Measure What Matters by John Doerr Summary: The System Google Used to Gr...](https://youtu.be/Ld0foE_BPhM)
 - [Ask a better question: Who Not How by Dan Sullivan & Dr. Benjamin Hardy ...](https://youtu.be/vzFxoJJeXrs?si=eBdhJ7K0cUcEt3FU)
 - [MULTIPLIERS by Liz Wiseman | Core Message](https://youtu.be/qHhuFOF70CY)
+- [Nexus by Yuval Noah Harari - Book Summary](https://youtu.be/dMvNqmJ4XpQ)
+- [Increase Performance AND Fulfillment at the Same Time: INNER EXCELLENCE ...](https://youtu.be/hFcCMXyJ3Ng)
 
 ### [Learn to lead: THE 21 IRREFUTABLE LAWS OF LEADERSHIP by John Maxwell | Core Message - YouTube](https://www.youtube.com/watch?v=QQhdiktL99w)
 

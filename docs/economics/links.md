@@ -224,5 +224,8 @@
 222. [Coast Fire Calculator – an update to the freefincal robo advisor](https://youtu.be/3it_KuQ_dAo)
 223. [From 5000 Stocks to 10: A Simple 3 Step Filtering Process](https://youtu.be/kt_5MZZnogI)
 224. [Vinod Khosla’s Brutal Career Advice For Every 20 Year Old](https://youtu.be/eE6eSyHND2c)
+225. [Which US Broker Should You Use? Honest Review 2026 | Interactive, Vested...](https://youtu.be/tKf_7NAhMDc)
+226. [We Tested "Buy the Dip" for 25 Years. Here’s the Result.](https://youtu.be/eLP53uZFtX8)
+227. [Ankur Warikoo on People Living a Fake Life, Societal Pressure & Staying ...](https://youtu.be/vFrkf8WyJVc)
 
 ## End

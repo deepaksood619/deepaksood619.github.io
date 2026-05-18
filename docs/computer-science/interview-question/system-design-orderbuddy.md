@@ -14,7 +14,7 @@ This document presents a **zero-loss, real-time analytics architecture** for Ord
 | **Analytics Database** | ClickHouse                 | Sub-second queries, real-time inserts, 100x faster than PostgreSQL |
 | **Stream Processing**  | Kafka Streams              | Real-time hallucination detection, claim extraction                |
 
-**Zero-Loss Guarantee:**  
+**Zero-Loss Guarantee:**
 
 3-layer durability (MongoDB replica set → Kafka 3x replication → ClickHouse) ensures no data loss under crashes, network failures, or infrastructure outages.
 
@@ -124,6 +124,7 @@ This document presents a **zero-loss, real-time analytics architecture** for Ord
 ```
 
 **Data Flow Latency:**
+
 - MongoDB write → Debezium capture: < 100ms
 - Debezium → Kafka publish: < 50ms
 - Kafka → Stream processing: < 500ms
@@ -179,6 +180,7 @@ This document presents a **zero-loss, real-time analytics architecture** for Ord
 ```
 
 **Critical Design: Server-Side Price Validation**
+
 - Client sends item selections, NOT prices
 - Server recalculates from authoritative menu data
 - Prevents price manipulation attacks
@@ -269,6 +271,7 @@ db.getReplicationInfo().timeDiff
 ### Exactly-Once Processing
 
 **Kafka → ClickHouse:**
+
 ```
 1. Consumer reads batch (100 messages) from Kafka
 2. Inserts to ClickHouse with _version = kafka_offset
@@ -314,6 +317,7 @@ Kafka ai_conversations.messages
 | **dim_locations** | Location details | Type 1 | `location_id`, `working_hours[]`, `features[]` |
 
 **Why SCD Type 2 for Menu Items:**
+
 - Track menu price changes over time
 - Validate AI claims against menu state at conversation time
 - Detect when AI references outdated prices (hallucination type: `outdated_info`)
@@ -327,8 +331,9 @@ Kafka ai_conversations.messages
 | **agg_order_accuracy_daily** | Daily (2 AM) | Per day, per restaurant | Historical reporting |
 
 **Materialized View (Auto-Update):**
+
 ```sql
-CREATE MATERIALIZED VIEW mv_ai_performance_realtime 
+CREATE MATERIALIZED VIEW mv_ai_performance_realtime
 TO agg_ai_performance_realtime AS
 SELECT
     toStartOfMinute(timestamp) as time_bucket,
@@ -343,6 +348,7 @@ GROUP BY time_bucket, restaurant_id, ai_model;
 ```
 
 **Query Performance:**
+
 - Pre-aggregated queries: < 50ms
 - Raw fact table queries: < 500ms (with proper indexes)
 
@@ -380,15 +386,15 @@ PARTITION BY toYYYYMM(timestamp)
 ```
 For each claim:
   1. Query ClickHouse dimension table
-     SELECT * FROM dim_menu_items 
-     WHERE item_name = extracted_entity 
+     SELECT * FROM dim_menu_items
+     WHERE item_name = extracted_entity
        AND is_current = 1
-  
+
   2. Compare claimed value vs ground truth
      - Item exists? YES ✅ / NO ❌ (phantom_item)
      - Price matches? YES ✅ / NO ❌ (wrong_price)
      - Modifier valid? YES ✅ / NO ❌ (invalid_modifier)
-  
+
   3. Classify hallucination severity
      - Critical: wrong_price, phantom_item
      - Major: invalid_modifier, false_availability
@@ -400,6 +406,7 @@ For each claim:
 ### Key Metric Formulas
 
 **Hallucination Rate:**
+
 ```
 Simple Rate = (Messages with hallucinations) / (Total AI messages)
 
@@ -412,6 +419,7 @@ Where severity_weight:
 ```
 
 **Order Accuracy:**
+
 ```
 Order Accuracy = (Accurate orders) / (Total AI-assisted orders)
 
@@ -424,6 +432,7 @@ Where "Accurate order" = ALL of:
 ```
 
 **Component Scores:**
+
 ```
 Intent Match Score = (Recommended items in final order) / (Total items in order)
 Price Accuracy = (Correct prices quoted) / (Total prices quoted)
@@ -433,8 +442,9 @@ Modifier Accuracy = (Valid modifiers suggested) / (Total modifiers suggested)
 ### Real-Time Dashboard Queries
 
 **1. Current Hallucination Rate (Last Hour):**
+
 ```sql
-SELECT 
+SELECT
     sum(messages_with_hallucinations) / sum(total_messages) as rate,
     sum(weighted_hallucination_rate * total_messages) / sum(total_messages) as weighted_rate
 FROM agg_ai_performance_realtime
@@ -442,8 +452,9 @@ WHERE time_bucket >= now() - INTERVAL 1 HOUR;
 ```
 
 **2. Order Accuracy Breakdown:**
+
 ```sql
-SELECT 
+SELECT
     countIf(is_accurate_order = 1) / count() as accuracy_rate,
     avg(intent_match_score) as avg_intent,
     avg(price_accuracy) as avg_price,
@@ -453,8 +464,9 @@ WHERE order_timestamp >= now() - INTERVAL 24 HOUR;
 ```
 
 **3. Critical Hallucinations (Alert Feed):**
+
 ```sql
-SELECT 
+SELECT
     timestamp,
     restaurant_id,
     conversation_id,
@@ -557,12 +569,12 @@ LIMIT 10;
 
 This architecture delivers:
 
-- ✅ **Zero-Loss Guarantee** through 3-layer durability (MongoDB → Kafka → ClickHouse)  
-- ✅ **Real-Time Analytics** with sub-second hallucination detection and order accuracy scoring  
-- ✅ **Separation of Concerns** via CDC (no application changes, infrastructure handles ETL)  
-- ✅ **Production-Ready** using battle-tested components (Debezium, Kafka, ClickHouse)  
-- ✅ **Cost-Efficient** at $0.001 per conversation ($3,370/mo for 100K/day)  
+- ✅ **Zero-Loss Guarantee** through 3-layer durability (MongoDB → Kafka → ClickHouse)
+- ✅ **Real-Time Analytics** with sub-second hallucination detection and order accuracy scoring
+- ✅ **Separation of Concerns** via CDC (no application changes, infrastructure handles ETL)
+- ✅ **Production-Ready** using battle-tested components (Debezium, Kafka, ClickHouse)
+- ✅ **Cost-Efficient** at $0.001 per conversation ($3,370/mo for 100K/day)
 - ✅ **Scalable** to 10x volume with horizontal scaling
 
-**Key Innovation:**  
+**Key Innovation:**
 Stream processing (Kafka Streams) validates every AI claim against ground truth in real-time, enabling immediate detection of hallucinations and automatic alerting before customers are affected.

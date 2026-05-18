@@ -149,3 +149,5 @@ Highly personalized education for each person
 - Government Exams Crack, previous years exam
 - [I’m starting a college - YouTube](https://www.youtube.com/watch?v=K-neiW-St-k)
 - [100xDevs](https://100xdevs.com/)
+- [Exposing 15 Education Scams in Under 15 Minutes!](https://youtu.be/wlCYE2un1dQ)
+- [⁠Inside The IIT Race: JEE, Placements & Future Of Engineering | Vishwa M...](https://youtu.be/Zmz5gE9nJqY)

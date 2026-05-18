@@ -65,3 +65,7 @@ One day, frontier AI research used to be done by meat computers in between eatin
 	- One the questions comes up when we think of LLMs-as-programmers is whether there is a future for source code. David Cassel on The New Stack has an article summarizing several views of the future of code. Some folks are experimenting with entirely new languages built with the LLM in mind, others think that existing languages, especially strictly typed languages like TypeScript and Rust will be the best fit for LLMs.
 - [Writing Doom – Award-Winning Short Film on Superintelligence (2024)](https://youtu.be/xfMQ7hzyFW4)
 - [AI 2027](https://ai-2027.com/)
+- [How AI Is Making Us All Dumber](https://youtu.be/eSABedBwZjQ)
+- [Google's FREE AI Just Replaced LinkedIn, Naukri, and Indeed (Complete Jo...](https://youtu.be/L110osBj5Kk)
+- [Why Everyone Should Know About AI Evals: The Fundamentals Explained](https://youtu.be/EN8jVkv0kiw)
+- [Coding Agents Explained: How Claude Code, Codex & Cursor Actually Work](https://youtu.be/nvGqzQ47FTM)

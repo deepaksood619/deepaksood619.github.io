@@ -26,20 +26,18 @@ To run analytics on this data without dragging down your production Postgres dat
 Because LangGraph checkpoints update constantly as agents loop, you should replicate the data using either batch or streaming ingestion:
 
 - **Change Data Capture (CDC):** This is the best approach for near real-time analytics. Tools like **Debezium**, **Fivetran**, or **Airbyte** read the Postgres Write-Ahead Log (WAL) and stream every insert/update from the `checkpoints` and `checkpoint_blobs` tables directly into your DWH.
-    
+
 - **Batch Pipelines:** If you only need daily reports, you can run a nightly batch job via Airbyte, dbt, or Apache Airflow to copy newly created checkpoints over to the DWH.
-    
 
 #### 2. Transformation: Unnesting the JSON (T)
 
 Once the raw tables are in your DWH, you must transform the raw JSONB logs into clean, queryable analytical tables. Using a tool like **dbt (data build tool)** or your warehouse's native JSON parsing SQL functions, you will need to parse the JSON to build a dimensional model:
 
 - **`dim_conversations` (from `thread_id`):** Group by the unique thread ID to create a table of distinct user sessions. Extract the first checkpoint's timestamp as the start time, and the final checkpoint as the end time.
-    
+
 - **`fct_agent_steps` (from `checkpoints`):** Every row in the checkpoints table is a "turn" or "super-step." You can extract the `node_name` from the JSON metadata to track which agent/node executed, how long it took, and whether it succeeded.
-    
+
 - **`fct_tool_calls` (from `checkpoint_blobs`):** Parse the complex blob data to extract the exact names of tools your agents invoked, the arguments passed to them, and the resulting outputs.
-    
 
 #### 3. Analyzing the Data
 
@@ -48,7 +46,7 @@ Once your pipeline is parsing the LangGraph state into relational tables, you ca
 Key metrics you can now track include:
 
 - **Agent Loop Counts:** How many super-steps does it take an agent to resolve an average query?
-    
+
 - **Tool Failure Rates:** Which specific tools are returning errors or forcing the graph to retry?
-    
+
 - **Token Optimization:** By parsing the LLM response metadata stored in the checkpoints, you can aggregate token costs per `thread_id` to see exactly how much specific user workflows are costing you in API calls.

@@ -429,3 +429,16 @@ Mahugan modern - 1550 - 2cr
 Hyde park - 2bhk - 1010, 3bhk - 1320 - 1.55 (6-8)
 
 Ravi - amrapali -
+
+## Links
+
+- [If I Had 1 Acre… This Is the Farm I Would Build](https://youtu.be/BnMQDlc-ujA)
+- ["Pakka Makaan = RCC" — India's Most Expensive Construction Myth, Broken ...](https://youtu.be/Bcck4yVUjGA)
+- [Nobody understands the point of hybrid cars](https://youtu.be/KnUFH5GX_fI)
+- [My Rooftop Solar Experience!](https://youtu.be/0D5AZcwK3I8)
+	- SolarSquare
+- [Can you really afford a house in India?](https://youtu.be/q2rdW4DqUMo)
+- [the hidden psychology of beautiful homes](https://youtu.be/ngp3oxDqngc)
+- [This Kerala Home is Built Around a Mango Tree (House Tour)](https://youtu.be/OdpmOmPa6xY)
+- [Experience Soothing Nature in THIS 1,400 sq. ft. Tamil Nadu House (House...](https://youtu.be/6XjfuFAq-5U)
+- [₹3 Cr में Golf Facing Luxury Apartment 🔥](https://youtu.be/Ytfg830WLz0)
