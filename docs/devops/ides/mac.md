@@ -86,6 +86,9 @@ Open two instance of same application - **open -n MQTT.fx.app**
 - Date & Time settings
 	- show seconds in system tray
 	- [How do I show the day of the week in the taskbar? - Microsoft Q&A](https://learn.microsoft.com/en-us/answers/questions/4367502/how-do-i-show-the-day-of-the-week-in-the-taskbar)
+- Dock and Menu Bar - Auto Hide
+	- Desktop & Dock - Automatically hide and show the Dock
+	- Menu Bar - Automatically hide and show the menu bar
 - Install apps
 	- chrome
 		- dark mode - I use both of dark reader extension and Chrome://flags. It can be interchangeable if the website has the problem with dark mode

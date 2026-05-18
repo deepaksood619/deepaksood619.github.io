@@ -34,7 +34,15 @@ redis:
 
 ## Redis Insight
 
-`docker run -rm -it -v redisinsight:/db -p 8001:8001 redislabs/redisinsight`
+```bash
+sudo docker run -d \
+  --name redisinsight \
+  --network crm_apis_default \
+  -p 5540:5540 \
+  redis/redisinsight:latest
+
+docker run -d --name redisinsight -p 5540:5540 redis/redisinsight:latest
+```
 
 ## Kubernetes
 

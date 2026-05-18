@@ -27,6 +27,10 @@ Used for setting, communicating and monitoring quarterly goals and results in or
 	- RAT - Riskiest Assumption Test
 - [Performance Management Platform Built for Business - 15Five](https://www.15five.com/)
 
+### MBO (Management by Objectives)
+
+**MBO (Management by Objectives)** in salary is a performance-based bonus or incentive, usually paid as a lump sum, based on achieving specific, measurable goals agreed upon between an employee and manager. It aligns individual actions with company strategy, often rewarding non-revenue goals like client retention, project completion, or CRM usage.
+
 ## Yak Shaving
 
 Yak shaving is programming lingo for the seemingly endless series of small tasks that have to be completed before the next step in a project can move forward.

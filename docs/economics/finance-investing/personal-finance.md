@@ -156,3 +156,5 @@ Use money to buy peace. And, use your peace to make (fewer but) better strategic
 - [A Different Kind of Inheritance: Why the most valuable gift to a child may be financial wisdom](https://freefincal.com/a-different-kind-of-inheritance-why-the-most-valuable-gift-to-a-child-may-be-financial-wisdom/)
 - [Managing a windfall](https://www.bogleheads.org/wiki/Managing_a_windfall)
 - [Welcome to the Bogleheads® wiki](https://www.bogleheads.org/wiki/Main_Page)
+- [All the financial advice you need can fit in a post-it note!](https://freefincal.com/all-the-financial-advice-you-need-can-fit-in-a-post-it-note/)
+- [Why Hitting ₹1 Crore Doesn’t Change the Game](https://freefincal.com/why-hitting-%e2%82%b91-crore-doesnt-change-the-game/)

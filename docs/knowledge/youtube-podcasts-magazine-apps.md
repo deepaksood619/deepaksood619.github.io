@@ -29,6 +29,7 @@
 - [Mission Unstoppable - YouTube](https://youtube.com/@cbsunstoppable)
 - [PBS Space Time - YouTube](https://youtube.com/@pbsspacetime)
 - [Today I Found Out - YouTube](https://youtube.com/@todayifoundout)
+- MinuteEarth
 
 ### Inventions and Building Stuff / Engineering
 

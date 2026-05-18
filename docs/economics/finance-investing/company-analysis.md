@@ -73,6 +73,7 @@ NSE: RAYMONDLSL
 	- Shaily Engineering Plastics Ltd (SEPL)
 - Avenue Supermarts - Dmart - [Dmart is dead. Long live Dmart. - Stock Insights News \| The Financial Express](https://www.financialexpress.com/market/stock-insights/dmart-is-dead-long-live-dmart/3951370/)
 - [Micron Stock Soars 91% YTD – Is the Rally Just Getting Started?](https://www.linkedin.com/pulse/micron-stock-soars-91-ytd-rally-just-getting-started-vestedfinance-l7aic/)
+- [Bloom Energy Is Up 1,364% in a Year — Is It Too Late to Buy?](https://www.linkedin.com/pulse/bloom-energy-up-1364-year-too-late-buy-vestedfinance-44s7e/)
 
 ## Links
 

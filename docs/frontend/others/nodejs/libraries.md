@@ -107,6 +107,6 @@ Message Queue and Batch processing for NodeJS and Python based on Redis
 
 ## Others
 
-[responsive-images-generator - npm](https://www.npmjs.com/package/responsive-images-generator)
-
-[gulp-responsive - npm](https://www.npmjs.com/package/gulp-responsive)
+- [responsive-images-generator - npm](https://www.npmjs.com/package/responsive-images-generator)
+- [gulp-responsive - npm](https://www.npmjs.com/package/gulp-responsive)
+- [GitHub - OptimalBits/bull: Premium Queue package for handling distributed jobs and messages in NodeJS. · GitHub](https://github.com/OptimalBits/bull)

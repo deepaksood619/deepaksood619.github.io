@@ -164,6 +164,7 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 - [Talk to Books](https://books.google.com/talktobooks/)
 - ChatGPT
 - [Consensus - Evidence-Based Answers, Faster](https://consensus.app/)
+- [alphasignal.ai](https://alphasignal.ai/)
 
 ## Computer science + Coding for Kids / Teens
 

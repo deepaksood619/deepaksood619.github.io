@@ -29,7 +29,7 @@ RedisEdge from Redis Labs is a purpose-built, multi-model database for the deman
 
 Inspect your Redis data, monitor health, and perform runtime server configuration with a browser-based management interface for your Redis deployment
 
-`docker run -v redisinsight:/db -p 8001:8001 redislabs/redisinsight`
+`docker run -d --name redisinsight -p 5540:5540 redis/redisinsight:latest`
 
 https://redislabs.com/redisinsight
 

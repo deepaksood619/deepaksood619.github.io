@@ -7,6 +7,7 @@
 - [Limitations / Problems](ai/llm/limitations-problems.md)
 - [LLM Building](ai/llm/building.md)
 	- [Langchain](ai/llm/langchain.md)
+	- [langgraph-to-data-warehouse](ai/llm/langgraph-to-data-warehouse.md)
 - [LLM Agents](ai/llm/agents.md)
 	- [agents-framework-tools](ai/llm/agents-framework-tools.md)
 	- [Agentic Frameworks Deep Dive Analysis](ai/llm/agentic-frameworks-deep-dive-analysis.md)

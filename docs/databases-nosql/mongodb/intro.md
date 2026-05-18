@@ -129,10 +129,13 @@ https://www.ferretdb.io - A truly Open Source MongoDB alternative
 ## References
 
 - https://www.tutorialspoint.com/mongodb
-- https://github.com/mongodb/mongo
+- [GitHub - mongodb/mongo: The MongoDB Database · GitHub](https://github.com/mongodb/mongo) ⭐ 28k
 - https://www.toptal.com/mongodb/interview-questions
-- https://github.com/ramnes/awesome-mongodb
+- [GitHub - ramnes/awesome-mongodb: :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications · GitHub](https://github.com/ramnes/awesome-mongodb) ⭐ 2.6k
 - [**https://university.mongodb.com/**](https://university.mongodb.com/)
 - [**https://medium.com/swlh/mongodb-developer-roadmap-for-2021-bec3eb10891d**](https://medium.com/swlh/mongodb-developer-roadmap-for-2021-bec3eb10891d)
 - [MongoDB Internal Architecture](https://www.youtube.com/watch?v=ONzdr4SmOng)
 - [Building with Patterns: The Document Versioning Pattern | MongoDB](https://www.mongodb.com/blog/post/building-with-patterns-the-document-versioning-pattern)
+- [MongoDB Is Great For Analytics; Until It's Not](https://seattledataguy.substack.com/p/mongodb-is-great-for-analytics-until)
+	- [Real-time Data Analytics On MongoDB Atlas \| MongoDB](https://www.mongodb.com/solutions/use-cases/analytics/real-time-analytics)
+	- [Analytics Driven By MongoDB \| MongoDB](https://www.mongodb.com/solutions/use-cases/analytics)

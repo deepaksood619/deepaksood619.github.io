@@ -28,6 +28,10 @@ Unified Ingress Platform for developers
 
 ngrok combines your reverse proxy, firewall, API gateway, and global load balancing to deliver apps and APIs.
 
+```bash
+ngrok http 8000
+```
+
 [ngrok: AI & API Gateway \| Secure Tunnels & Traffic](https://ngrok.com/)
 
 https://github.com/inconshreveable/ngrok

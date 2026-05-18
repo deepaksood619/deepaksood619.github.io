@@ -41,6 +41,11 @@
 - [mPulse — Real User Performance Monitoring and Real-Time Analytics | Akamai](https://www.akamai.com/products/mpulse-real-user-monitoring)
 - [Rank Math - Best Free WordPress SEO Tools in 2025](https://rankmath.com/)
 
+## AEO / GEO Sites
+
+- [Magnent \| AI Search Engine Optimization](https://magnent.co/)
+- [OptimizeGEO: AI Search Visibility & Generative Engine Optimization Platform](https://www.optimizegeo.ai/)
+
 ## Website Speed Test
 
 - [Free Website Speed Test | Testing And Monitoring](https://www.debugbear.com/test/website-speed)

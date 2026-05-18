@@ -1,6 +1,9 @@
 # New Home / Place Buying / House
 
-[Living](knowledge/geography/living.md)
+- [Living](knowledge/geography/living.md)
+- [home-house-building](knowledge/geography/home-house-building.md)
+- [countries-metrics](knowledge/geography/countries-metrics.md)
+- [places-to-live](knowledge/geography/places-to-live.md)
 
 [Architectural Digest - YouTube](https://www.youtube.com/@Archdigest)
 
@@ -426,11 +429,3 @@ Mahugan modern - 1550 - 2cr
 Hyde park - 2bhk - 1010, 3bhk - 1320 - 1.55 (6-8)
 
 Ravi - amrapali -
-
-## Links
-
-- [Living](knowledge/geography/living.md)
-- [home-house-building](knowledge/geography/home-house-building.md)
-- [countries-metrics](knowledge/geography/countries-metrics.md)
-- [places-to-live](knowledge/geography/places-to-live.md)
-- Best country for kids/primary education

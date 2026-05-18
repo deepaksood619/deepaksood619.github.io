@@ -267,6 +267,26 @@ Parental role abdication refers to **a dysfunction where parents relinquish thei
 - Youtube - Seeker baby
 - [13 Things Mentally Strong Parents Don't Do](../book-summaries/13-things-mentally-strong-parents-dont-do)
 
+#### 🎨 Free Drawing & Tracing Resources
+
+- **[AtoZ Worksheets - Nursery Drawing Bundle](https://atozworksheet.com/nursery-drawing-worksheets/)**: This collection is specifically tailored for toddlers and preschoolers. It includes excellent beginner PDFs for pencil control, basic shape tracing, and "join-the-dots" drawings that help kids learn to draw step-by-step.
+- **[Canva Preschool Worksheets](https://www.canva.com/worksheets/templates/preschool/)**: Offers highly visual, customizable templates. You can find and download simple "I Can Draw Circles" sheets, pattern matching, and basic coloring layouts.
+- **[Kids Academy Preschool Printables](https://www.kidsacademy.mobi/free-preschool-kindergarten-worksheets/)**: Features downloadable PDFs for early learners, combining simple drawings with trace-and-color activities (like funny robots made of basic shapes).
+
+#### 🖍️ Simple Coloring & Big Outline Pages
+
+- **[Crayola Free Coloring Pages](https://www.crayola.com/free-coloring-pages)**: A massive library of completely free, high-quality outlines. For 3-5 year olds, look at their "Plants & Animals" or "Vehicles" categories, which feature large, simple shapes that are easy for tiny hands to practice staying inside the lines.
+- **[HP Printables - Kids' Coloring](https://printables.hp.com/us/en/collections/kid-s-coloring-pages)**: Free, screen-free activity sheets designed to be printed at home, featuring simple themes like animals, butterflies, and easy shapes to build confidence and pencil grip.
+- **[ABCmouse Free Coloring Library](https://www.abcmouse.com/learn/category-coloring-pages)**: Offers clean, educational coloring pages divided by categories like alphabet letters, basic shapes, and zoo animals, which are ideal for early childhood development.
+- [**Free Coloring Pages** \| ABCmouse](https://www.abcmouse.com/learn/category-coloring-pages)
+	- [abcmouse.com/learn/wp-content/uploads/2024/09/ABCmouse-Combined-Bird-Coloring-Pages.pdf](https://www.abcmouse.com/learn/wp-content/uploads/2024/09/ABCmouse-Combined-Bird-Coloring-Pages.pdf)
+	- [abcmouse.com/learn/wp-content/uploads/2026/02/Easy-Dino-Coloring-Pages-Packet.pdf](https://www.abcmouse.com/learn/wp-content/uploads/2026/02/Easy-Dino-Coloring-Pages-Packet.pdf)
+	- [abcmouse.com/learn/wp-content/uploads/2024/06/ABCmouse-combined-sea-turtle-coloring-pages.pdf](https://www.abcmouse.com/learn/wp-content/uploads/2024/06/ABCmouse-combined-sea-turtle-coloring-pages.pdf)
+	- [abcmouse.com/learn/wp-content/uploads/2024/02/Bundled-Butterfly-Coloring-Pages.pdf](https://www.abcmouse.com/learn/wp-content/uploads/2024/02/Bundled-Butterfly-Coloring-Pages.pdf)
+	- [atozworksheet.com/wp-content/uploads/pencil-control-worksheets-for-lkg-ukg-and-nursery-free-pdf-bundle.pdf](https://atozworksheet.com/wp-content/uploads/pencil-control-worksheets-for-lkg-ukg-and-nursery-free-pdf-bundle.pdf)
+- https://effling.com/product/capital-letter-a-to-z/
+- Google Search - filetype:pdf 100 Nursery Drawing Worksheets and PDF Bundle For Kids
+
 ### Apps
 
 - [What are the best mobile apps for 2 or 3-year-old kids? - Quora](https://www.quora.com/What-are-the-best-mobile-apps-for-2-or-3-year-old-kids)
@@ -411,3 +431,5 @@ Parental role abdication refers to **a dysfunction where parents relinquish thei
 - [The 3-Step System Behind Babies Who Hit Every Milestone](https://youtu.be/LAenyr7WT-U?si=g_gTlN_vLlsrV1MX)
 - [The 15-Min Scandi Rule for 1½ Hours More Sleep](https://youtu.be/0hmn4n3-rd4)
 - [When your toddler bites \| BabyCentre](https://www.babycentre.co.uk/a1022215/when-your-toddler-bites)
+- [How to do \| Front Wrap Cross Carry - Plus an intro to woven wraps - YouTube](https://www.youtube.com/watch?v=uAVWQ1rN9Yo)
+	- [Beginners Baby Wrap Tutorial (FWCC) \| PLUS 2 x Newborn Baby Options \| How to Use a Baby Carrier Wrap - YouTube](https://www.youtube.com/watch?v=7QMULiCGJV8)

@@ -92,6 +92,9 @@ https://docs.google.com/spreadsheets/d/1zl7adSoCYuWpuBnRPbkkhwT2RZ5hk3lUO4ud0NE7
 	- [Social Media Influencer Sachin Awasthi को South Korea,China में 38 घंटे तक हिरासत में क्यों रखा गया? - YouTube](https://youtu.be/aqsX3CwCKmA)
 	- [Indian YouTuber Claims Criminal-Like Detention in South Korea's Jeju, China \| Spotlight \| N18G - YouTube](https://youtu.be/xqRlh9Indxc)
 	- [Our Response to Indian Embassy Advisory after 38 hour detention in Jeju Island, South Korea & China - YouTube](https://youtu.be/SVKfTjC6gu8)
+	- **Sembavalam, often referred to as Queen Heo Hwang-ok, is a legendary Tamil princess from ancient India who traveled to Korea in 48 CE to marry King Kim Suro of the Gaya Kingdom**. Her story, originating from Ayuta (believed to be Kanyakumari or Ayodhya), is recorded in the 13th-century Korean text _Samguk Yusa_, cementing a 2,000-year-old cultural link between India and Korea.
+	- [Heo Hwang-ok - Wikipedia](https://en.wikipedia.org/wiki/Heo_Hwang-ok)
+	- [Made in Korea (film) - Wikipedia](https://en.wikipedia.org/wiki/Made_in_Korea_(film))
 
 ## Europe
 

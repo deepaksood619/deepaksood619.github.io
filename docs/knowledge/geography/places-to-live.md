@@ -2,23 +2,23 @@
 
 ## Things needed for a new country
 
-1. Developed country 
+1. Developed country
 2. Good people accepting different races, specially good for accepting indians
-3. Have a good Indian community 
+3. Have a good Indian community
 4. Good climate, not too cold, not hot, of possible closer to beach
-5. Good infrastructure 
-6. No corruption 
+5. Good infrastructure
+6. No corruption
 7. Good medical care
 8. Good governance, and police not hostile towards indians or other races
 9. Faster PR, so don't have to apply for Visa
-10. Can buy land and setup business 
+10. Can buy land and setup business
 11. Maybe naturalization so eventually get a voting right and be a citizen of that country and get all the rights
-12. No state enemies 
+12. No state enemies
 13. Simpler life
 14. Opportunities for ourselves and kids
 15. Good neighbour countries
 16. Not too high Genie index
- 
+17. Best country for kids/primary education
 
 [**Where on Earth Will People Live in the Future? | Parag Khanna | TED**](https://www.youtube.com/watch?v=MSevAi_YarQ)
 
@@ -104,6 +104,7 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
     - Vanuatu - Rs 91,05,000
 - India has taxes like Europe/England services like Somalia or any other African countries
 - [14 countries offering golden visas for Indians \| Condé Nast Traveller India](https://www.cntraveller.in/story/countries-that-offer-golden-visas-to-indians/)
+
 ## Climate resilient
 
 - [World Risk Report 2022](https://repository.gheli.harvard.edu/repository/10930/)
@@ -138,6 +139,22 @@ https://zolostays.com/blog/cities-with-best-weather-in-india
 [The Best Citizenship in a New World Order - YouTube](https://www.youtube.com/watch?v=CAiW7HOwiaQ)
 
 [Human Development Index - Wikipedia](https://en.wikipedia.org/wiki/Human_Development_Index)
+
+## Foreign - Canada
+
+I moved from India to Canada in 2017 with no job and a one-way ticket.
+Here's what I wish someone had told me in those first 90 days.
+
+1. Your degree is not as transferable as you think it is. Canadian recruiters care about Canadian experience even when they say they don't. Budget 6 months to be told no.
+2. Open a bank account on day one. not day five. It's the precondition for everything: a phone, a lease, even a laptop on EMI. Go with any of the top 5 banks: RBC, CIBC, TD, Scotia, or BMO.
+3. Rent in Toronto/Vancouver eats 50% of your first job's salary. I know everyone says "pick a smaller city." Some of us came for the jobs. Learn to live with roommates again.
+4. Certifications close more doors than they open in Canada. But they buy you interview slots when you have zero local references. I did 3 cloud certs in 6 months. It bought me multiple interviews.
+5. Apply to companies that have shipped immigrants before. Their process is built for it. Their managers won't ask you to "explain the gap on your resume." But beware of the scam; do your own research related to the company, salary, etc.
+6. Get a credit card the day you're eligible. Canadian credit history is its own currency. Mine took 3 years to get to "excellent." I'd start day one if I did it again.
+7. Keep one ear on India. The founder you'll partner with, the friend who'll vouch for your visa, the cousin who'll co-sign your apartment, they're all in your old WhatsApp groups. Don't ghost them.
+8. The loneliness is a phase. It ends when you build a small group of 4–5 people who'd show up to your apartment if you called at 2am. That's the new home.
+
+Finally, stay positive; things will happen soon, and your future self will be proud of you.
 
 ## Links
 

@@ -63,3 +63,8 @@ https://en.wikipedia.org/wiki/VO2_max
 - Achilles tendinopathy
 - Patellofemoral pain syndrome
 - Compartment syndrome
+
+## Links
+
+- [GetFast - Where Running Meets Data](https://getfast.ai/)
+- Strava

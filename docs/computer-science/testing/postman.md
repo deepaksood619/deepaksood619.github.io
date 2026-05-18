@@ -38,6 +38,10 @@
 
 ## Local Infra Mock
 
+[GitHub - floci-io/floci: Light, fluffy, and always free - The AWS Local Emulator alternative · GitHub](https://github.com/floci-io/floci) ⭐ 10k
+
+- [Floci — Fast, Free AWS Emulator](https://floci.io/)
+
 [LocalStack - A fully functional local cloud stack](https://localstack.cloud/)
 
 [GitHub - localstack/localstack: 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline](https://github.com/localstack/localstack) ⭐ 65k

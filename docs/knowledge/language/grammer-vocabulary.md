@@ -157,18 +157,18 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - temperament - a person's or animal's nature, especially as it permanently affects their behaviour
 - **hypocrisy** - the practice of claiming to have higher standards or more noble beliefs than is the case
 	- **hypocrite** - A person who shows double standards, such as considering others' mistakes as significant while dismissing their own.
-- Heuristic
+- **Heuristic**
     - enabling someone to discover or learn something for themselves.
     - proceeding to a solution by trial and error or by rules that are only loosely defined.
-- Catnip - someone or something that is very attractive or appealing to a particular person or group.
+- **Catnip** - someone or something that is very attractive or appealing to a particular person or group.
     - both men are aggressive self-promoters and catnip for the media
-- dire straits - in a very bad situation that is difficult to fix
-- Volition - the faculty or power of using one's will.
-- one-upmanship - the technique or practice of gaining an advantage or feeling of superiority over another person.
+- **dire straits** - in a very bad situation that is difficult to fix
+- **Volition** - the faculty or power of using one's will.
+- **one-upmanship** - the technique or practice of gaining an advantage or feeling of superiority over another person.
     - "the one-upmanship of who can get the best presents"
 - **prescient** - having or showing knowledge of events before they take place. "a prescient warning"
 - **Midas Touch** - the ability to make money out of anything one undertakes.
-- autodidact - a self-taught person
+- **autodidact** - a self-taught person
 - BYOD - Bring Your Own Device
 - BYOB - Bring Your Own Booze
 - An axe to grind
@@ -188,46 +188,46 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - WGMI - We are Gonna Make It
 - WAGMI - We All are Gonna Make It
 - NGMI - not gonna make it
-- Shilling is when a person or group of persons promotes a particular cryptocurrency to create excitement for it
+- **Shilling** is when a person or group of persons promotes a particular cryptocurrency to create excitement for it
 - Phenomenon (singular) vs Phenomena (plural)
-- Iconoclastic - criticizing or attacking cherished beliefs or institutions.
-- Plenitude - abundance
-- Gordian knot - an extremely difficult or involved problem
-- polemicist - a person who engages in controversial debate
-- Anachronism - a thing belonging or appropriate to a period other than that in which it exists, especially a thing that is conspicuously old-fashioned.
-- compendium - a collection of concise but detailed information about a particular subject, especially in a book or other publication.
-- A magnum opus is a noun that means a great work, especially the greatest achievement of an artist or writer.
-- avunculate - any social institution where a special relationship exists between an uncle and his sisters' children.
-- enigma - something that is mysterious and seems impossible to understand completely
-- Venture - a project or activity which is new, exciting, and difficult because it involves the risk of failure
-- slog - work hard over a period of time
-- kayfabe - (in professional wrestling) the fact or convention of presenting staged performances as genuine or authentic.
+- **Iconoclastic** - criticizing or attacking cherished beliefs or institutions.
+- **Plenitude** - abundance
+- **Gordian knot** - an extremely difficult or involved problem
+- **polemicist** - a person who engages in controversial debate
+- **Anachronism** - a thing belonging or appropriate to a period other than that in which it exists, especially a thing that is conspicuously old-fashioned.
+- **compendium** - a collection of concise but detailed information about a particular subject, especially in a book or other publication.
+- A **magnum opus** is a noun that means a great work, especially the greatest achievement of an artist or writer.
+- **avunculate** - any social institution where a special relationship exists between an uncle and his sisters' children.
+- **enigma** - something that is mysterious and seems impossible to understand completely
+- **Venture** - a project or activity which is new, exciting, and difficult because it involves the risk of failure
+- **slog** - work hard over a period of time
+- **kayfabe** - (in professional wrestling) the fact or convention of presenting staged performances as genuine or authentic.
 - Spray and pray
-- Idiopathic - Relating to or denoting any disease or condition which arises spontaneously or for which the cause is unknown. -- "idiopathic epilepsy"
-- Shrewd - able to make good decisions because you understand a situation well
-- xenophobia - a fear or hatred of foreign people and cultures
-- orthodoxy - authorized or generally accepted theory, doctrine, or practice.
+- **Idiopathic** - Relating to or denoting any disease or condition which arises spontaneously or for which the cause is unknown. -- "idiopathic epilepsy"
+- **Shrewd** - able to make good decisions because you understand a situation well
+- **xenophobia** - a fear or hatred of foreign people and cultures
+- **orthodoxy** - authorized or generally accepted theory, doctrine, or practice.
 - Incumbents - a person who is currently in an official position
-- Probity - Probity means complete honesty or the quality of being honest and behaving correctly. It's a formal word that implies tried and proven honesty or integrity. For example, you might describe someone as a person of probity. The word probity comes from the Latin word probus, which means "honest"
-- Putting legs on a snake - doing unnecessary work that can ruin the result
-- Skimpily - is an adverb that means lacking in supply or execution, or scanty. It can also mean made of too little material, or excessively thrifty. For example, you might describe someone as "**skimpily dressed**" if their clothing shows a lot of their body.
-- adjudicate - to act as an official judge in a competition or to decide who is right when two people or groups disagree about something
-- Scroll stopper - A scroll stopper is a visual element that draws viewers' attention to a specific part of a social media feed. Scroll stoppers can be used in videos and images to help grab the attention of viewers
-- Ostensibly - as appears or is stated to be true, though not necessarily so; apparently.
-- Peruse - read (something), typically in a thorough or careful way.
-- debauchery - extreme indulgence in bodily pleasures and especially sexual pleasures : behavior involving sex, drugs, alcohol, etc. that is often considered immoral. … he was glad when others joined them, men and women; and they had more drink and spent the night in wild rioting and debauchery.
-- tout - to try to persuade people that somebody/something is important or valuable by praising them/it
-- Whinger - a person who complains a lot, especially about trivial matters
-- vehemently - in a forceful, passionate, or intense manner; with great feeling
+- **Probity** - Probity means complete honesty or the quality of being honest and behaving correctly. It's a formal word that implies tried and proven honesty or integrity. For example, you might describe someone as a person of probity. The word probity comes from the Latin word probus, which means "honest"
+- **Putting legs on a snake** - doing unnecessary work that can ruin the result
+- **Skimpily** - is an adverb that means lacking in supply or execution, or scanty. It can also mean made of too little material, or excessively thrifty. For example, you might describe someone as "**skimpily dressed**" if their clothing shows a lot of their body.
+- **adjudicate** - to act as an official judge in a competition or to decide who is right when two people or groups disagree about something
+- **Scroll stopper** - A scroll stopper is a visual element that draws viewers' attention to a specific part of a social media feed. Scroll stoppers can be used in videos and images to help grab the attention of viewers
+- **Ostensibly** - as appears or is stated to be true, though not necessarily so; apparently.
+- **Peruse** - read (something), typically in a thorough or careful way.
+- **debauchery** - extreme indulgence in bodily pleasures and especially sexual pleasures : behavior involving sex, drugs, alcohol, etc. that is often considered immoral. … he was glad when others joined them, men and women; and they had more drink and spent the night in wild rioting and debauchery.
+- **tout** - to try to persuade people that somebody/something is important or valuable by praising them/it
+- **Whinger** - a person who complains a lot, especially about trivial matters
+- **vehemently** - in a forceful, passionate, or intense manner; with great feeling
 - **Indentured labor** is a form of contract labor where individuals agree to work for a specified period or until a debt is repaid, often without immediate wages. It was a system used in British colonies, particularly after the abolition of slavery, to meet labor demands, especially in plantation economies. Indentured laborers were recruited from various regions, including India, and were sent to work in colonies like the Caribbean and Fiji.
-- sycophantic - behaving or done in an obsequious (obedient or attentive to an excessive or servile degree.) way in order to gain advantage.
-- impropriety - behaviour or actions that are morally wrong or not appropriate
-- Mollycoddle - to overprotect or treat someone with excessive care, often to the point of spoiling them
-- retribution - punishment for a crime
-- devil's advocate - a person who expresses a contentious opinion in order to provoke debate or test the strength of the opposing arguments.
-- rappel - descend a rock face or other near-vertical surface by using a doubled rope coiled around the body and fixed at a higher point; abseil.
-- atypical - not typical of a particular type, group, etc.
-- tenacity - Tenacity is the quality displayed by someone who just won't quit - who keeps trying until they reach their goal. - persistent determination
+- **sycophantic** - behaving or done in an obsequious (obedient or attentive to an excessive or servile degree.) way in order to gain advantage.
+- **impropriety** - behaviour or actions that are morally wrong or not appropriate
+- **Mollycoddle** - to overprotect or treat someone with excessive care, often to the point of spoiling them
+- **retribution** - punishment for a crime
+- **devil's advocate** - a person who expresses a contentious opinion in order to provoke debate or test the strength of the opposing arguments.
+- **rappel** - descend a rock face or other near-vertical surface by using a doubled rope coiled around the body and fixed at a higher point; abseil.
+- **atypical** - not typical of a particular type, group, etc.
+- **tenacity** - Tenacity is the quality displayed by someone who just won't quit - who keeps trying until they reach their goal. - persistent determination
 - **Asceticism** is a lifestyle characterized by self-denial and abstinence from worldly pleasures, often for spiritual or religious reasons. It involves practices like voluntary poverty, self-discipline, and a focus on spiritual goals over material comforts.
 - **Sanctimonious** refers to someone who pretends to be morally superior, often in an exaggerated or insincere way. It conveys a tone of criticism, highlighting behaviour that appears virtuous on the surface but lacks genuine sincerity. People who lecture others unnecessarily, boast about their ethical choices, or moralise constantly are often described as sanctimonious. The word is especially useful when you want to call out hypocrisy or preachy behaviour without being confrontational.
 - **mezzanine** is an intermediate floor in a building which is partly open to the double-height ceilinged floor below, or which does not extend over the whole floorspace of the building. However, the term is often used loosely for the floor above the ground floor, especially where a very high-ceilinged original ground floor has been split horizontally into two floors.
@@ -237,6 +237,7 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - **parable -** a simple story used to illustrate a moral or spiritual lesson, as told by Jesus in the Gospels.
 - **egged - egg -** to encourage somebody to do something that they should not do
 - **Cultural appropriation** is the adoption or use of elements from a minority or marginalized culture by members of a dominant culture, often in an exploitative, disrespectful, or stereotypical manner. It typically involves an imbalance of power, where elements like clothing, symbols, or traditions are used without understanding, respect, or acknowledgment.
+- **Discernment -** Discernment is the mental or spiritual ability to judge things clearly, perceive nuanced truths, and separate what is genuinely valuable or correct from what is obscure, deceptive, or inferior. It goes beyond simple black-and-white thinking, requiring wisdom, keen perception, and careful evaluation.
 
 ### Shill / Shilling
 

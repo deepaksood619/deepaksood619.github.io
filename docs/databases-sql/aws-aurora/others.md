@@ -82,3 +82,100 @@ Data filtering can be useful when you want to:
 - Filter out sensitive information—such as phone numbers, addresses, or credit card details—from certain tables.
 
 [Data filtering for Aurora zero-ETL integrations - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/zero-etl.filtering.html)
+
+### Data Persistance
+
+If Amazon Redshift is temporarily unavailable during a Zero-ETL integration from Aurora MySQL, **the data is not lost.**
+
+#### Data Persistence Mechanism
+
+The Zero-ETL integration uses a decoupled architecture with an intermediary storage layer :
+
+- Data is pushed from Aurora to an intermediary location (Amazon S3)
+- Redshift pulls data independently from this intermediary storage
+- This decoupling allows the source and target systems to operate independently
+
+#### How It Works During Redshift Downtime
+
+When Redshift is unavailable:
+
+1. Aurora continues capturing changes through Change Data Capture (CDC) mechanisms like binary log streaming
+2. Data is stored in S3 as an intermediary buffer
+3. Redshift processes the data when it becomes available again using COPY operations
+
+The integration uses **checkpoint mechanisms** that provide resume points if replication is interrupted, ensuring data consistency and preventing data loss.
+
+#### Recovery Considerations
+
+- The Zero-ETL service has built-in retry mechanisms for processing failures with exponential delays
+- Integrations in NEEDS_ATTENTION state can be recovered if the issue is resolved within 7 days
+- The system maintains data integrity through these checkpoints and retry mechanisms
+
+### Schema Change Replication in Zero-ETL
+
+With Amazon Zero-ETL integration from Aurora MySQL to Redshift, **schema changes are automatically replicated** through the binary log (binlog) or change data capture (CDC) mechanism.
+
+#### How DDL Operations Are Replicated
+
+**Automatic Schema Synchronization:** When you perform DDL operations like ALTER TABLE on your Aurora MySQL source, these changes are captured and replicated to Redshift.
+
+ The schema modifications flow through the integration pipeline along with your data changes.
+
+Supported Operations: The integration handles various DDL operations including:
+
+- ADD COLUMN: Adding new columns to tables
+- DROP COLUMN: Removing columns (with some conditions)
+- RENAME operations: Renaming tables or columns
+- ALTER TABLE modifications: Various table structure changes
+
+#### Important Limitations and Considerations
+
+Table Resynchronization: Certain DDL operations trigger a table resynchronization, which temporarily makes the table unavailable for querying in Redshift while it resyncs.
+
+**Operations that trigger resync include:**
+
+1. Adding columns in specific positions (using FIRST or AFTER keywords)
+2. Adding columns with default values like CURRENT_TIMESTAMP
+3. Performing multiple column operations in a single ALTER TABLE statement
+4. Dropping primary key columns
+5. Changing table schema assignments
+
+**Data Type Changes:**
+
+- Some data types aren't supported between Aurora MySQL and Redshift
+- Data type incompatibilities can cause DDL operations to fail
+- You should verify data type compatibility before making changes
+
+#### Best Practices to Avoid Resynchronization
+
+To minimize downtime during schema changes:
+
+1. Add columns to the end of tables instead of specific positions
+2. Use literal default values instead of functions like CURRENT_TIMESTAMP
+3. Split complex operations into separate ALTER TABLE statements
+4. Avoid modifying primary keys when possible
+
+#### Column Addition/Removal Specifics
+
+Adding Columns:
+
+- Simple column additions at the end of the table are replicated without resync
+- Columns added with complex defaults or in specific positions require resync
+
+Removing Columns:
+
+- Dropping non-primary key columns is supported
+- Dropping primary key columns triggers table resynchronization
+
+Data Type Modifications:
+
+- Changing column data types can be problematic due to differences between MySQL and Redshift type systems
+- Some type changes may require table resynchronization or fail entirely
+
+#### Monitoring Schema Changes
+
+You can monitor the status of schema changes using Redshift system views:
+
+- SVV_INTEGRATION_TABLE_STATE - Shows current table replication status
+- SYS_INTEGRATION_TABLE_STATE_CHANGE - Tracks table state changes
+- stl_integration_ddl - Shows DDL operations executed on the source

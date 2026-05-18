@@ -135,3 +135,26 @@ In [cryptography](https://en.wikipedia.org/wiki/Cryptography), anHMAC(sometimes 
 HMAC uses two passes of hash computation. The secret key is first used to derive two keys -- inner and outer. The first pass of the algorithm produces an internal hash derived from the message and the inner key. The second pass produces the final HMAC code derived from the inner hash result and the outer key. Thus the algorithm provides better immunity against [length extension attacks](https://en.wikipedia.org/wiki/Length_extension_attack).
 
 https://en.wikipedia.org/wiki/HMAC
+
+## Rekeying
+
+**Rekeying** in cryptography is **the process of replacing an active encryption key with a new one to limit the amount of data encrypted under a single key, enhancing security**. It is a proactive measure against attacks (e.g., brute force) and ensures that if a key is compromised, the attacker can only decrypt a small portion of data.
+
+### Key Aspects of Rekeying
+
+- **Purpose:** To prevent "key wear-out" or "key fatigue," where using a key for too long allows adversaries to deduce information.
+- **Mechanism:** It is often implemented via a separate, secure protocol like Internet Key Exchange (IKE) to generate new session keys.
+- **Frequency:** Keys can be changed after a specific time interval or after a certain volume of data is transmitted.
+- **Applications:**
+    - **Wi-Fi:** Wi-Fi Protected Access (WPA) uses the Temporal Key Integrity Protocol (TKIP) to frequently replace keys.
+    - **Data Storage:** Database systems (like Oracle) use rekeying to rotate Master Keys and Data Encryption Keys (DEKs).
+    - **Systems:** Storage arrays (like IBM FlashSystem) often handle this automatically every 24 hours.
+
+### Rekeying vs. Renewal
+
+- **Rekeying:** Generates a totally new key, often required after key compromise.
+- **Renewal (Re-key):** Frequently used in Public Key Infrastructure (PKI) to issue a new certificate for an existing key, which is generally not allowed, or creating a new key for an expiring certificate.
+
+[Rekeying (cryptography) - Wikipedia](https://en.wikipedia.org/wiki/Rekeying_(cryptography))
+
+**Rekeying** a lock means **changing its internal pins so that old keys no longer work**, allowing new keys to operate the same lock without replacing the hardware. This is a common, cost-effective security measure for new homeowners, lost keys, or following a security breach, usually performed by a locksmith.
