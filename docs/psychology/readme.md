@@ -26,6 +26,7 @@
 - [Emotions](psychology/emotions.md)
 - [Parenting](parenting)
 	- [parenting-physical](psychology/parenting-physical.md)
+	- [educational-youtube-curriculum-for-kids](psychology/educational-youtube-curriculum-for-kids.md)
 - [Pesonality](psychology/personality.md)
 - [Research](research)
 - [Brain](brain)

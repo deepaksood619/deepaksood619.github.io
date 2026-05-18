@@ -24,6 +24,7 @@
 - [List of globalization-related indices - Wikipedia](https://en.wikipedia.org/wiki/List_of_globalization-related_indices)
 - Rate of groundwater depletion by countries
 	- [Rapid groundwater decline and some cases of recovery in aquifers globally \| Nature](https://www.nature.com/articles/s41586-023-06879-8)
+- [List of countries by intentional homicide rate - Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_intentional_homicide_rate)
 
 ## Categories
 

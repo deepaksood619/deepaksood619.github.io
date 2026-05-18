@@ -5,7 +5,7 @@
 1. Developed country
 2. Good people accepting different races, specially good for accepting indians
 3. Have a good Indian community
-4. Good climate, not too cold, not hot, of possible closer to beach
+4. Good climate, not too cold, not hot, if possible closer to beach
 5. Good infrastructure
 6. No corruption
 7. Good medical care
@@ -19,6 +19,7 @@
 15. Good neighbour countries
 16. Not too high Genie index
 17. Best country for kids/primary education
+18. Tax should be justified for the taxes we are giving
 
 [**Where on Earth Will People Live in the Future? | Parag Khanna | TED**](https://www.youtube.com/watch?v=MSevAi_YarQ)
 
@@ -156,9 +157,20 @@ Here's what I wish someone had told me in those first 90 days.
 
 Finally, stay positive; things will happen soon, and your future self will be proud of you.
 
+## Prompt - Mon, 18 May 2026
+
+Based on these criterias and everything about me, do a deep research on where I can live next i.e. either a city, state in India or a country that fulfills all the criteria. Also what's the right time to move, what should be the process end to end at high level with timelines?
+
+- https://deepaksood619.github.io/knowledge/geography/places-to-live
+- https://deepaksood619.github.io/knowledge/geography/living
+- https://deepaksood619.github.io/knowledge/geography/new-home-place-house
+
+About me - https://deepaksood619.github.io/about-deepak-sood/ Father of 2 daughters (age 3 years, another 5 months) I am aged 32 and wife 31 both in IT.
+
 ## Links
 
 - [new-home-place-house](knowledge/geography/new-home-place-house.md)
 - [home-house-building](knowledge/geography/home-house-building.md)
 - [countries-metrics](knowledge/geography/countries-metrics.md)
 - [living](knowledge/geography/living.md)
+- [global-relocation-assessment](knowledge/geography/global-relocation-assessment.md)

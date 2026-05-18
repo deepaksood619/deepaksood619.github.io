@@ -11,4 +11,5 @@
 	- [new-home-place-house](knowledge/geography/new-home-place-house.md)
 	- [home-house-building](knowledge/geography/home-house-building.md)
 	- [places-to-live](knowledge/geography/places-to-live.md)
+	- [global-relocation-assessment](knowledge/geography/global-relocation-assessment.md)
 - [Others](knowledge/geography/others.md)

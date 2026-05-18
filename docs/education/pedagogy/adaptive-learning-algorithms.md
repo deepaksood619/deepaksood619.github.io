@@ -74,7 +74,7 @@
 
 **Bayesian Update (Posterior Probability):**
 
-```
+```text
 P(Learned | Correct) = P(Correct | Learned) × P(Learned) / P(Correct)
 
 Where:
@@ -95,7 +95,7 @@ P(Learned | Correct) = (0.90 × 0.10) / 0.27 = 0.09 / 0.27 = 0.33
 
 Even if student was in "not learned" state, they may have learned from this practice:
 
-```
+```text
 P(Learned after practice) = P(Learned | Correct) + (1 - P(Learned | Correct)) × P(T)
                           = 0.33 + (0.67 × 0.30)
                           = 0.33 + 0.20 = 0.53
@@ -105,7 +105,7 @@ P(Learned after practice) = P(Learned | Correct) + (1 - P(Learned | Correct)) ×
 
 **Observation: Student answers INCORRECTLY**
 
-```
+```text
 P(Learned | Incorrect) = P(Incorrect | Learned) × P(Learned) / P(Incorrect)
 
 Where:
@@ -151,7 +151,7 @@ Apply learning: 0.014 + (0.986 × 0.30) = 0.014 + 0.296 = 0.31
 
 Add time-based decay parameter:
 
-```
+```text
 P(Learned at time t) = P(Learned at last practice) × e^(-λ × Δt)
 
 Where:
@@ -206,7 +206,7 @@ Example:
 
 **Most Common IRT Model:**
 
-```
+```text
 P(correct) = c + (1 - c) / (1 + e^(-a(θ - b)))
 
 Where:
@@ -275,7 +275,7 @@ Where:
 
 **Easy Question (b = -1, a = 1.5, c = 0.20):**
 
-```
+```text
 Ability (θ)  | P(correct) | Interpretation
 ------------ | ---------- | --------------
 -3.0         | 0.23       | Even very weak students have 23% chance (mostly guessing)
@@ -288,7 +288,7 @@ Ability (θ)  | P(correct) | Interpretation
 
 **Hard Question (b = +1.5, a = 2.0, c = 0.15):**
 
-```
+```text
 Ability (θ)  | P(correct) | Interpretation
 ------------ | ---------- | --------------
 -2.0         | 0.15       | Weak students mostly guessing
@@ -309,7 +309,7 @@ Ability (θ)  | P(correct) | Interpretation
 
 **Likelihood Function:**
 
-```
+```text
 L(θ | responses) = Product of P(response_i | θ)
 
 For each response:
@@ -358,7 +358,7 @@ After each new question, recalculate θ using all responses. The estimate become
 
 **Information Function:**
 
-```
+```text
 I(θ) = a² × [P(θ) - c]² / [P(θ) × (1 - P(θ))]
 
 Where:
@@ -449,7 +449,7 @@ Both students answered ~15 questions correctly (50% accuracy), but Student 2 fac
 
 **Example Calibration Results:**
 
-```
+```text
 Question ID | Topic            | a (disc) | b (diff) | c (guess) | Interpretation
 ----------- | ---------------- | -------- | -------- | --------- | --------------
 RH_Q1       | useState basics  | 1.2      | -0.8     | 0.20      | Easy, moderate discrimination
@@ -558,7 +558,7 @@ Hints used: 1
 
 **IRT Update:**
 
-```
+```text
 Before: θ_hooks = 0.0
 After MLE with incorrect response: θ_hooks = -0.4
 (Shifted downward, student is below average in this skill)
@@ -566,7 +566,7 @@ After MLE with incorrect response: θ_hooks = -0.4
 
 **BKT Update:**
 
-```
+```text
 Before: P(L_hooks) = 0.20
 Observe: Incorrect answer on medium difficulty question
 Bayesian update: P(L | incorrect) = 0.12 (decreased slightly)
@@ -641,7 +641,7 @@ After 12 questions: P(L_hooks) = 0.87 ✓
 
 **Bad Example:**
 
-```
+```text
 IF student gets 3 questions wrong in a row:
     Show easier content
 ELSE IF student gets 5 questions right in a row:
@@ -708,7 +708,7 @@ ELSE IF student gets 5 questions right in a row:
 
 **Solution:** Model ability as vector instead of scalar
 
-```
+```text
 θ = [θ_programming, θ_algorithms, θ_web_dev]
 
 Each question loads on multiple dimensions:
@@ -729,7 +729,7 @@ Q1 (fizzbuzz): a_programming = 1.5, a_algorithms = 0.8, a_web_dev = 0.2
 
 **Architecture:**
 
-```
+```text
 Input: Sequence of (question_id, correct/incorrect)
 LSTM: Hidden state = learned representation of knowledge state
 Output: P(correct on next question)
@@ -757,7 +757,7 @@ Output: P(correct on next question)
 
 **Solution: Bayesian Networks**
 
-```
+```text
 Graph:
     Variables → Conditionals → Loops → Recursion → Dynamic Programming
                                 ↓
@@ -766,7 +766,7 @@ Graph:
 
 **BKT Extension:**
 
-```
+```text
 P(Learn_Recursion | Know_Loops=True, Know_Functions=True) = 0.40
 P(Learn_Recursion | Know_Loops=True, Know_Functions=False) = 0.25
 P(Learn_Recursion | Know_Loops=False) = 0.10
@@ -841,7 +841,7 @@ Adjust based on skill importance:
 
 **Implementation:**
 
-```
+```text
 For each question selection:
     With 70% probability:
         Select question where P(correct) ≈ 0.65-0.75 (slightly challenging, promotes learning)
