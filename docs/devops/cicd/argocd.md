@@ -57,7 +57,7 @@ What Argo does differently is how they manage the actual CI/CD. It is specifical
 
 ### GitOps Workflow
 
-```
+```text
 [Git Repository]
     ↓ (Git commit/push)
 [ArgoCD detects change]
@@ -749,7 +749,7 @@ data:
 
 **Option 1: Mono-repo**
 
-```
+```text
 my-app/
 ├── src/                 # Application code
 ├── k8s/
@@ -764,7 +764,7 @@ my-app/
 
 **Option 2: Separate repos**
 
-```
+```text
 app-code-repo/          # Application code + Dockerfile
 k8s-manifests-repo/     # Kubernetes manifests only
 ├── apps/
@@ -919,7 +919,7 @@ kubectl delete pod -n argocd -l app.kubernetes.io/name=argocd-repo-server
 
 ### Environment Promotion
 
-```
+```text
 [Dev] --manual sync--> [Staging] --manual sync--> [Production]
 ```
 

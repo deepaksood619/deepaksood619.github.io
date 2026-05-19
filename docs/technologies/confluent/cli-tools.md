@@ -118,6 +118,10 @@ kafka-producer-perf-test \
 
 - **security-plugins-run-class** - This tool is a thin wrapper around the Confluent Security Plugins Java class. It is mainly used by the start and stop scripts and should not be run by itself.
 - **sr-acl-cli** - This tool runs the Schema Registry ACL CLI tool. For more information, see [Schema Registry ACL Authorizer for Confluent Platform](https://docs.confluent.io/platform/current/confluent-security-plugins/schema-registry/authorization/sracl_authorizer.html#confluentsecurityplugins-sracl-authorizer).
+- MCP
+	- `npx @confluentinc/mcp-confluent --init-oauth-config`
+	- `npx @confluentinc/mcp-confluent@1.3.0 --init-oauth-config`
+	- `claude mcp add confluent -- npx -y @confluentinc/mcp-confluent --config ./config.yaml`
 
 ## Links
 

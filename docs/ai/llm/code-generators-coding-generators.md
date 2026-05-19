@@ -157,6 +157,8 @@ ChatDev has evolved from a specialized software development multi-agent system i
 	- [Genspark - Your All-in-One AI Workspace](https://www.genspark.ai/)
 - [Never Trust a Monkey: Introducing Intent Integrity Kit](https://www.linkedin.com/pulse/i-told-room-full-developers-never-trust-monkey-had-baruch-sadogursky-riule/)
 - [GitHub - rowboatlabs/rowboat: Open-source AI coworker, with memory · GitHub](https://github.com/rowboatlabs/rowboat) ⭐ 14k
+- [IBM Bob](https://bob.ibm.com/)
+	- `curl -fsSL https://bob.ibm.com/download/bobshell.sh | bash`
 
 ## SAAS
 

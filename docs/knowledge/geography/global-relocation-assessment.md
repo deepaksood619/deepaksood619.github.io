@@ -92,7 +92,7 @@ Auckland is uniquely positioned on a narrow isthmus situated between two major m
 
 New Zealand has actively restructured and streamlined its entire immigration apparatus to aggressively poach elite technology workers. Data Engineers, Software Architects, and AI specialists frequently qualify for the **Tier 1 Green List**.
 
-- **Straight to Residence Pathway:** If an applicant secures a legitimate contract of employment from an accredited New Zealand enterprise in a Tier 1 technology role, they can apply for Permanent Residency immediately upon arrival. This entirely bypasses any temporary visa holding periods, points-based lotteries, or bureaucratic uncertainty. 
+- **Straight to Residence Pathway:** If an applicant secures a legitimate contract of employment from an accredited New Zealand enterprise in a Tier 1 technology role, they can apply for Permanent Residency immediately upon arrival. This entirely bypasses any temporary visa holding periods, points-based lotteries, or bureaucratic uncertainty.
 - **Civic Naturalization:** Citizenship requires five years of continuous physical residence. The New Zealand passport is exceptionally powerful regarding global mobility. Furthermore, a unique geopolitical anomaly exists: New Zealand citizens automatically hold the legal right to live, work, and access Medicare indefinitely in Australia under the Trans-Tasman Travel Arrangement. This provides an unparalleled, multi-country geopolitical hedge for the family's future.
 
 ### Social Dynamics, Egalitarianism, and the Gini Index

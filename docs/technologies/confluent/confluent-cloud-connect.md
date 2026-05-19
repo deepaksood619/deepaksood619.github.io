@@ -250,6 +250,12 @@ If you are on a non-dedicated cluster where the minimum interval is capped at 10
 
 [Datagen Source Connector for Confluent Cloud Quick Start \| Confluent Documentation](https://docs.confluent.io/cloud/current/connectors/cc-datagen-source.html)
 
+## Amazon S3 Sink Connector
+
+- **`s3.elastic.buffer.enable`**: Set to `true` to allow the connector to allocate an elastic buffer for staging S3 parts, which helps save memory.
+- **`s3.elastic.buffer.init.capacity`**: Set to your desired value (e.g., `131072` for the 128KB default) to define the initial capacity of that elastic buffer.
+
 ## Others
 
 - [AWS OpenSearch Ingestion Adds Confluent Blueprint, w/Pipeline Ex.](https://www.confluent.io/blog/amazon-opensearch-ingestion-adds-support-for-confluent-cloud/)
+- [IBM MQ Source Connector for Confluent Platform \| Confluent Documentation](https://docs.confluent.io/kafka-connectors/ibmmq-source/current/overview.html)

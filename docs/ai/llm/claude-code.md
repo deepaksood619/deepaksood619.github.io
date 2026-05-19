@@ -405,3 +405,7 @@ ls ~/.claude/get-shit-done/workflows/
 	- [Running Claude Code with local LLMs? all lies… until now! \| by Vito Rallo \| Apr, 2026 \| Medium](https://medium.com/@vito.rallo/running-claude-code-with-local-llms-all-lies-until-now-3e9a0084dfe1)
 - [GitHub - Alishahryar1/free-claude-code: Use claude-code for free in the terminal, VSCode extension or via discord like openclaw · GitHub](https://github.com/Alishahryar1/free-claude-code) ⭐ 15k
 - [Confessions of a Millennial in Tech - by Elena Verna](https://www.elenaverna.com/p/confessions-of-a-millennial-in-tech)
+- [Output styles - Claude Code Docs](https://code.claude.com/docs/en/output-styles)
+	- **Proactive**: Claude executes immediately, makes reasonable assumptions instead of pausing for routine decisions, and prefers action over planning. This applies the same guidance as [auto mode](https://code.claude.com/docs/en/permission-modes#eliminate-prompts-with-auto-mode) without changing your permission mode, so you still see permission prompts before tools run.
+	- **Explanatory**: Provides educational “Insights” in between helping you complete software engineering tasks. Helps you understand implementation choices and codebase patterns.
+	- **Learning**: Collaborative, learn-by-doing mode where Claude will not only share “Insights” while coding, but also ask you to contribute small, strategic pieces of code yourself. Claude Code will add `TODO(human)` markers in your code for you to implement.

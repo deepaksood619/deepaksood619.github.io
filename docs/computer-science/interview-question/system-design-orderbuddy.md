@@ -28,7 +28,7 @@ This document presents a **zero-loss, real-time analytics architecture** for Ord
 
 ## Unified Architecture
 
-```
+```text
 ┌─────────────────────────────────────────────────────────────────────┐
 │                     Application Layer (NestJS)                      │
 │  Customer → AI Chat → MongoDB ai_conversations (direct write)       │
@@ -155,7 +155,7 @@ This document presents a **zero-loss, real-time analytics architecture** for Ord
 
 ### Data Flow: Cart → Order
 
-```
+```text
 1. Customer adds items to cart (client-side)
    └─ Zustand store calculates: subtotal + tax + discount
 
@@ -188,7 +188,7 @@ This document presents a **zero-loss, real-time analytics architecture** for Ord
 
 ### Key Relationships
 
-```
+```text
 Cart Items ──references──> Menu Items (by menuItemId)
          └──validates──> Variants (by variant.id)
          └──validates──> Modifiers (by modifier.id)
@@ -272,7 +272,7 @@ db.getReplicationInfo().timeDiff
 
 **Kafka → ClickHouse:**
 
-```
+```text
 1. Consumer reads batch (100 messages) from Kafka
 2. Inserts to ClickHouse with _version = kafka_offset
 3. ClickHouse ReplacingMergeTree auto-deduplicates on (message_id, _version)
@@ -284,7 +284,7 @@ db.getReplicationInfo().timeDiff
 
 ### Real-Time Dashboard Updates (Parallel Path)
 
-```
+```text
 Kafka ai_conversations.messages
       │
       ├──> ClickHouse consumer (analytics)
@@ -383,7 +383,7 @@ PARTITION BY toYYYYMM(timestamp)
 
 **Step 2: Ground Truth Validation (Stream-Table Join)**
 
-```
+```text
 For each claim:
   1. Query ClickHouse dimension table
      SELECT * FROM dim_menu_items
@@ -407,7 +407,7 @@ For each claim:
 
 **Hallucination Rate:**
 
-```
+```text
 Simple Rate = (Messages with hallucinations) / (Total AI messages)
 
 Weighted Rate = SUM(hallucinations × severity_weight) / (Total messages × 3)
@@ -420,7 +420,7 @@ Where severity_weight:
 
 **Order Accuracy:**
 
-```
+```text
 Order Accuracy = (Accurate orders) / (Total AI-assisted orders)
 
 Where "Accurate order" = ALL of:
@@ -433,7 +433,7 @@ Where "Accurate order" = ALL of:
 
 **Component Scores:**
 
-```
+```text
 Intent Match Score = (Recommended items in final order) / (Total items in order)
 Price Accuracy = (Correct prices quoted) / (Total prices quoted)
 Modifier Accuracy = (Valid modifiers suggested) / (Total modifiers suggested)

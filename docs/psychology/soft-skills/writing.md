@@ -25,6 +25,19 @@ Substack makes it simple for a writer to start an email newsletter that makes mo
 - https://www.dotdash.com
 - [beehiiv.com](https://www.beehiiv.com/)
 
+## Orwell’s 6 Rules
+
+From “Politics and the English Language”
+
+1. Never use a metaphor, simile, or other figure of speech which you are used to seeing in print.
+2. Never use a long word where a short one will do.
+3. If it is possible to cut a word out, always cut it out.
+4. Never use the passive where you can use the active.
+5. Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
+6. Break any of these rules sooner than say anything outright barbarous.
+
+[Orwell’s 6 Rules – Duke Graduate School Scientific Writing Resource](https://sites.duke.edu/scientificwriting/orwells-6-rules/)
+
 ## LinkedIn growth playbook
 
 1. How to pick a topic to write about
@@ -58,8 +71,6 @@ Substack makes it simple for a writer to start an email newsletter that makes mo
 
 ## Links
 
-[On Writing Well](../../book-summaries/on-writing-well)
-
-[How to Write Less but Say More | Jim VandeHei | TED](https://www.youtube.com/watch?v=v6BmurUpiN0)
-
-[How to Become a Youtuber? My Learnings as an Influencer and Finance Content Creator - YouTube](https://www.youtube.com/watch?v=CIbf84YHtSM)
+- [On Writing Well](../../book-summaries/on-writing-well)
+- [How to Write Less but Say More | Jim VandeHei | TED](https://www.youtube.com/watch?v=v6BmurUpiN0)
+- [How to Become a Youtuber? My Learnings as an Influencer and Finance Content Creator - YouTube](https://www.youtube.com/watch?v=CIbf84YHtSM)
