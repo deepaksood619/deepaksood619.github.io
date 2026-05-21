@@ -82,6 +82,8 @@ claude --help
 - **/clear:** This wipes the old context
 - **/powerup:** interactive lessons teaching Claude Code features with animated demos
 
+![Claude Command Cheatsheet](../../media/claude-commands-cheatsheet.png)
+
 ## Monitoring
 
 - **/cost:** It will display a breakdown of **Input Tokens**, **Output Tokens**, and **Cache Hits/Misses**, along with a total USD estimate for the current session.
@@ -409,3 +411,4 @@ ls ~/.claude/get-shit-done/workflows/
 	- **Proactive**: Claude executes immediately, makes reasonable assumptions instead of pausing for routine decisions, and prefers action over planning. This applies the same guidance as [auto mode](https://code.claude.com/docs/en/permission-modes#eliminate-prompts-with-auto-mode) without changing your permission mode, so you still see permission prompts before tools run.
 	- **Explanatory**: Provides educational “Insights” in between helping you complete software engineering tasks. Helps you understand implementation choices and codebase patterns.
 	- **Learning**: Collaborative, learn-by-doing mode where Claude will not only share “Insights” while coding, but also ask you to contribute small, strategic pieces of code yourself. Claude Code will add `TODO(human)` markers in your code for you to implement.
+- [Using Claude Code: The unreasonable effectiveness of HTML \| Claude](https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html)

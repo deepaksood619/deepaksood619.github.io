@@ -50,6 +50,17 @@ aws autoscaling update-auto-scaling-group --auto-scaling-group-name eks-applicat
 ## AWS EKS
 
 ```bash
+# create vpc both public and private for static IPs
+aws cloudformation create-stack \
+  --stack-name prod-eks-vpc \
+  --template-url https://s3.us-west-2.amazonaws.com/amazon-eks/cloudformation/2020-10-29/amazon-eks-vpc-private-subnets.yaml
+
+# connect with k8s
+aws eks update-kubeconfig --region ap-south-1 --name backend-cluster
+
+# replica scale down
+kubectl scale deployment metrics-server -n kube-system --replicas=1
+
 #Adding users to eks
 kubectl describe configmap -n kube-system aws-auth
 
@@ -192,7 +203,19 @@ https://docs.aws.amazon.com/eks/latest/userguide/cni-metrics-helper.html
 - [👋 AWS EKS Auto Mode: A Game-Changer or Just Hype? My Unbiased Take 👋 \| by Prashant Lakhera \| Medium](https://devopslearning.medium.com/aws-eks-auto-mode-a-game-changer-or-just-hype-my-unbiased-take-18de17c4484a)
 - [EKS Auto Mode - Amazon EKS](https://docs.aws.amazon.com/eks/latest/best-practices/automode.html)
 
+```bash
+kubectl scale deployment metrics-server -n kube-system --replicas=1
+```
+
 ## Networking - EKS Static Egress IP Learnings
+
+[Create an Amazon VPC for your Amazon EKS cluster - Amazon EKS](https://docs.aws.amazon.com/eks/latest/userguide/creating-a-vpc.html)
+
+```bash
+aws cloudformation create-stack \
+  --stack-name prod-eks-vpc \
+  --template-url https://s3.us-west-2.amazonaws.com/amazon-eks/cloudformation/2020-10-29/amazon-eks-vpc-private-subnets.yaml
+```
 
 **Core Method:** NAT Gateway + Elastic IP
 
@@ -248,6 +271,80 @@ Since a Default VPC consists of public subnets:
 
 - To ensure all EKS traffic has a single static source IP (for whitelisting), nodes must be in a private subnet.
 - Instances in a public subnet cannot route through a NAT Gateway; they are forced to use the IGW and their own public IPs.
+
+## Prod Auto EKS Setup with Minimal Config
+
+### 1. Networking & Egress Validation
+
+These commands were used to identify your NAT Gateways, audit your public network footprint, and confirm the static outbound IP path from within your cluster.
+
+#### Find your production static egress IPs
+
+Bash
+
+```bash
+aws ec2 describe-nat-gateways \
+  --filter "Name=vpc-id,Values=vpc-036fb867a88912692" \
+  --query "NatGateways[*].NatGatewayAddresses[*].PublicIp" \
+  --output table
+```
+
+#### Trace the owners of your Elastic Network Interfaces (ENIs)
+
+Bash
+
+```bash
+aws ec2 describe-network-interfaces \
+  --network-interface-ids eni-00a2db67c3f2cebd9 eni-07465856f032e6cc6 eni-04d8fceff1905951b eni-09bbac773719e8735 eni-054bf6136a445ad7f eni-000dd093b3270a1be eni-02ec75d1230707b79 eni-008e6ecef493f498d eni-0eec4782329864ee0 eni-0f63ec91dd3c42fe5 \
+  --query "NetworkInterfaces[*].{ENI:NetworkInterfaceId,Description:Description,VPC:VpcId,Status:Status}" \
+  --output table
+```
+
+#### Run an immediate outbound network "truth check"
+
+Bash
+
+```bash
+kubectl run egress-test -n prod --rm -i --image=badouralix/curl-jq --restart=Never -- curl -s icanhazip.com
+```
+
+### 2. Cluster Consolidation & Taint Removal
+
+These commands handled the structural reorganization of your worker node layer, wiping out isolation rules to allow high-density container packing onto a single node.
+
+#### Check current taints on a specific node
+
+Bash
+
+```bash
+kubectl get node i-0a0e2d78d5dd4abcd -o jsonpath='{.spec.taints}'
+```
+
+#### Patch the `system` NodePool to strip the `CriticalAddonsOnly` taint
+
+Bash
+
+```bash
+kubectl patch nodepool system --type merge -p '{"spec":{"template":{"spec":{"taints":null}}}}'
+```
+
+### 3. Restricting Compute to Private Subnets
+
+This crucial step reconfigured Karpenter / EKS Auto Mode's underlying compute routing rule, forcing all future worker instances out of public zones and cleanly into your private subnets.
+
+#### Patch the NodeClass to restrict network scope
+
+Bash
+
+```bash
+kubectl patch nodeclass default --type merge -p '{"spec":{"subnetSelectorTerms":[{"id":"subnet-abcd"},{"id":"subnet-abcd"}]}}'
+```
+
+### The Final Cluster State Achieved
+
+- **Zero Idle Waste:** Applications and system utilities gracefully share a consolidated compute footprint.
+- **Network Isolation:** Nodes live exclusively in private subnets with a zero public-ingress node profile.
+- **Deterministic Egress:** Every connection leaving your Kubernetes pods to the outside world lands on third-party firewalls with your explicit, static IP signatures.
 
 ## Others
 

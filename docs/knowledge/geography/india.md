@@ -77,6 +77,12 @@
 
 [What happened to Black money? Where is Indian Economy failing? \| IBP \| Prof. Arun Kumar - YouTube](https://www.youtube.com/watch?v=zt5uqErQysk)
 
+For India to become a booming economy only three things need to be at top priority
+
+1. Corruption has to be ended at every level.
+2. Big Education reforms
+3. Law, order and Justice system has to be efficient and trustworthy.
+
 ## Others
 
 - [India has a Big Stray Dogs Problem | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=tMsf6i7yID8)

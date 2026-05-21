@@ -206,6 +206,13 @@ Your MCP server should return a `CallToolResult` or `ReadResourceResult` contain
 | **Filtering**      | Use URI Query Params (`?id=123`)     | Define specific filter properties in Schema   |
 | **Implementation** | Parse the URI string in the server   | Access `arguments` object in the tool handler |
 
+## MCP with GraphQL
+
+- [GitHub - blurrah/mcp-graphql: Model Context Protocol server for GraphQL · GitHub](https://github.com/blurrah/mcp-graphql)
+- [Getting started with the Model Context Protocol and GraphQL - GraphQL Tutorials](https://www.apollographql.com/tutorials/intro-mcp-graphql/01-what-is-mcp)
+- [GraphQL and MCP - Reddit](https://www.reddit.com/r/mcp/comments/1jxg0jy/graphql_and_mcp/)
+- [Building Scalable MCP Servers Using Generic GraphQL: A Production-Ready Architecture \| by Shivansh Anand Srivastava \| Medium](https://medium.com/@shivanshanand2000/building-scalable-mcp-servers-using-generic-graphql-a-production-ready-architecture-e16f5e79f0de)
+
 ## Servers
 
 ### Memory

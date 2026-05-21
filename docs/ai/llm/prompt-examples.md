@@ -716,6 +716,27 @@ _When processing the user’s input, evaluate the following constraints before g
 
 **Tone:** Aggressive, analytical, and focused on "alpha" (market-beating potential). Avoid "corporate-speak"; focus on high-velocity execution and risk mitigation. Share all research in an obsidian note in same folder.
 
+## Asset Allocation Financial Advisor Deep Research Prompt
+
+Act as an expert wealth manager and quantitative financial analyst. I want you to perform a deep-dive analysis of my current asset allocation using the attached gsheet.
+
+Your objective is to evaluate my portfolio's diversification, identify concentration risks (sector, company, or asset class), assess liquidity, and determine if the current allocation aligns with my long-term financial goals and risk tolerance.
+
+Please rely on and specifically extract data from the following sheets for your analysis:
+
+1. **Macroscopic Asset Allocation**: Use `Asset Allocation | Investments | Portfolio - Total.csv` to analyze the high-level split between Debt, Equity, Crypto, Gold, and Property. Calculate the current ratios versus the target allocations.
+2. **Microscopic Equity Analysis**: Use `Asset Allocation | Investments | Portfolio - Equity.csv`, `Asset Allocation | Investments | Portfolio - Equity Dump - Pivot Sectors.csv`, and `Asset Allocation | Investments | Portfolio - Equity Dump - Pivot Companies.csv` to analyze sector concentrations, individual stock exposure (identifying any single-stock heavy biases), and the domestic vs. international equity balance.
+3. **Fixed Income & Liquidity**: Use `Asset Allocation | Investments | Portfolio - Debt.csv` to assess the liquidity profile, maturity timelines, and risk levels of the debt instruments.
+4. **Alternative Assets**: Refer to `Asset Allocation | Investments | Portfolio - Gold.csv`, `Asset Allocation | Investments | Portfolio - Crypto.csv`, and `Asset Allocation | Investments | Portfolio - Properties.csv` to evaluate the exposure, sizing, and utility of these non-traditional assets within the broader portfolio.
+
+Please structure your output as follows:
+
+- **Executive Summary**: A brief verdict on the overall health, efficiency, and risk profile of the current asset allocation.
+- **Macro Risk Assessment**: Highlight vulnerabilities at the asset class level (e.g., too much illiquid real estate, insufficient liquid debt).
+- **Micro Risk Assessment**: Highlight specific equity vulnerabilities (e.g., overexposure to the Technology sector, specific company RSUs/ESPPs, or overlapping mutual fund holdings).
+- **Actionable Recommendations**: Provide exact, tactical rebalancing suggestions (e.g., specific asset classes or sectors to trim, accumulate, or hold) to optimize the portfolio for better risk-adjusted returns without triggering unnecessary tax events.
+- **Everything else:** Any other thing that is relevant
+
 ## Others
 
 - Claude Skills - [Sales Engineering Skills Website](https://www.salesengineeringskills.com/)

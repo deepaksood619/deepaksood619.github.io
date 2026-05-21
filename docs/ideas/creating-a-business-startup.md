@@ -91,6 +91,7 @@ Change begets friction. This, according to me, is why so many purpose led busine
 - [Hall of Fame - Golden Kitty Awards Winners | Product Hunt](https://www.producthunt.com/golden-kitty-awards/hall-of-fame)
 - Demo Days
 - [Y Combinator - YouTube](https://www.youtube.com/@ycombinator)
+- [Requests for Startups \| Y Combinator](https://www.ycombinator.com/rfs)
 
 ## How to start startup
 
@@ -366,3 +367,5 @@ The worst mistakes founders make
 - **[The STARTUP Model is DEAD. This is replacing it. - YouTube](https://www.youtube.com/watch?v=Zzvso56HgGQ)**
 - [How to Think, Build & Grow a Startup - Skills & AI Advantage \| Varun Limaye \| FO469 Raj Shamani - YouTube](https://www.youtube.com/watch?v=J2GKwMI_J_I)
 - India 2,3 don't pay, and they use voice a lot
+- [Top 15 Business to Build in 2026 \| Business \| Sarthak Ahuja - YouTube](https://www.youtube.com/watch?v=TKl17I6BzEw)
+- [Requests for Startups \| Y Combinator](https://www.ycombinator.com/rfs)

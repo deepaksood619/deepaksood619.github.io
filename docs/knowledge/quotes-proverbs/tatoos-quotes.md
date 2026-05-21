@@ -91,3 +91,5 @@ _**Homo faber**_ ([Latin](https://en.wikipedia.org/wiki/Latin_language "Latin la
 de minimis non curat lex - which means that the law does not bother with small matters.
 
 ab initio - from the beginning
+
+yatha drishti tatha srishti - The way you think becomes the life you live

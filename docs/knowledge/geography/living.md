@@ -99,3 +99,4 @@ Studies have pointed out that Okinawans have lower rates of age-related conditio
 - [Why are Indians Leaving India?](https://youtu.be/Udl9nAP6ju0)
 - [Is It Worth Leaving India for a Better Life?](https://youtu.be/jMTz9j4YrmY)
 - [Top Countries to Make Money, Migration Secrets, New Policy, Visa & Jobs \| DSquare \|FO428 Raj Shamani - YouTube](https://youtu.be/gxzonqijbPA)
+- [Rayhaus Capital - Thoughtful investing, shared in public](https://rayhauscapital.vercel.app/)

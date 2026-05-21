@@ -78,6 +78,28 @@ Keeling's measurements showed the first significant evidence of rapidly increasi
 - [We Made Paneer, Cheese & Dahi Without a Drop of Cow Milk! - YouTube](https://www.youtube.com/watch?v=ec4rCrUgHi4)
 - Agar agar is a natural, gelatinous substance derived from red algae (seaweed), widely used as a plant-based, vegan alternative to gelatin. It is odorless, tasteless, and colorless, sold as flakes, powder, or bars. It sets firmly at room temperature, remains stable up to 85° C, and is used for jellies, puddings, and thickeners.
 
+## Water
+
+### What is the Expiry Date of Water? 🤔
+
+Often, we decide the 'expiry date' of water based on our own convenience and mindset, which has absolutely no scientific basis. Consider this paradox:
+
+- **🚰 In Cities:** Where tap water comes daily, yesterday's water is considered 'stale' and thrown away. _(Expiry date: 1 day)_
+- **⏳ Where water comes once in 2 to 8 days:** The exact same water is considered perfectly fresh and drinkable for those 2 to 8 days.
+- **🍾 At weddings and events:** The moment a fresh bottle of packaged water is placed in our hands, the older, half-filled bottle is instantly dismissed as 'useless' and discarded.
+
+#### The Reality on the Other Side
+
+- **🌵 In Deserts:** While traveling, every single drop of water remains life-giving and fresh until the next water source is found.
+- **🌧️ In Nature:** Water in dams and ponds remains perfectly usable until the next monsoon (and even up to 2-3 years during droughts).
+- **🕳️ In Borewells:** The water we pump from 50 to 500 feet below the ground has been sitting there for hundreds or thousands of years, yet it remains safe, pure, and healthy.
+
+#### The Conclusion (Food for Thought)
+
+In reality, water has no expiry date. Its expiration is determined only by our mindset and its availability. When water is easily accessible, we call it stale; when there is a scarcity, the same water becomes priceless.
+
+Therefore, use water wisely, responsibly, and with restraint. Otherwise, long before the water actually runs out, our careless mindset will leave us thirsty.
+
 ## Links
 
 - [The Uninhabitable Earth](book-summaries/the-uninhabitable-earth.md)

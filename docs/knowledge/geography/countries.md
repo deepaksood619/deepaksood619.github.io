@@ -13,6 +13,13 @@ https://docs.google.com/spreadsheets/d/1zl7adSoCYuWpuBnRPbkkhwT2RZ5hk3lUO4ud0NE7
 
 ## Asia
 
+In East Asia, beards are generally not considered "bad" but are culturally preferred to be **kept minimal or clean-shaven**. In professional settings, facial hair is often viewed as **untidy or unkempt**. However, this perception varies by age, context, and genetics:
+
+- **Professional Settings:** In corporate and formal environments in countries like Japan, South Korea, and China, a clean-shaven face is strongly preferred. Beards are sometimes associated with a lack of grooming or modesty.
+- **Cultural Context:** In traditional Chinese and Korean cultures, a well-groomed, long beard is traditionally associated with wisdom, nobility, and the elderly.
+- **Genetics:** East Asian men typically have less facial hair and fewer hair follicles sensitive to testosterone, which historically made full beards uncommon and unviable for many.
+- **Changing Trends:** Younger generations in major Asian cities are increasingly experimenting with stubble or neatly trimmed mustaches as fashion statements, though a clean, smooth face remains the societal baseline
+
 ### China
 
 - [Why China is Shrinking VERY Fast - YouTube](https://www.youtube.com/watch?v=KiaukPUV6Hg)

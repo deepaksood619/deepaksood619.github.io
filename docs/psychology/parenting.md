@@ -321,7 +321,6 @@ Parental role abdication refers to **a dysfunction where parents relinquish thei
 
 ### Links
 
-- [educational-youtube-curriculum-for-kids](psychology/educational-youtube-curriculum-for-kids.md)
 - [Games - Kids](knowledge/games/kid-games.md)
 - [Colin Powell: Kids need structure | TED - YouTube](https://www.youtube.com/watch?v=NhYnouvrG_8&ab_channel=TED)
 - [Indian Parents , Their Pravachan And An Important Parenting Tip - YouTube](https://www.youtube.com/watch?v=Sjttt-F2pXE)
@@ -434,10 +433,3 @@ Parental role abdication refers to **a dysfunction where parents relinquish thei
 - [When your toddler bites \| BabyCentre](https://www.babycentre.co.uk/a1022215/when-your-toddler-bites)
 - [How to do \| Front Wrap Cross Carry - Plus an intro to woven wraps - YouTube](https://www.youtube.com/watch?v=uAVWQ1rN9Yo)
 	- [Beginners Baby Wrap Tutorial (FWCC) \| PLUS 2 x Newborn Baby Options \| How to Use a Baby Carrier Wrap - YouTube](https://www.youtube.com/watch?v=7QMULiCGJV8)
-- [It's Brutal, But It Ends Tantrums Fast](https://youtu.be/yWB3suzg4zY?si=udq7a_7J7ZUlD4km)
-- [Toddler Tantrums Disappear When You Change This One Thing || Parenting H...](https://youtu.be/6f3OgPnPHds)
-- [Fix Your Child's Attention Span (Before It's Too Late)](https://youtu.be/8gtszunwr9M)
-- [Ten Things You Do Every Day That Your Baby Will Remember for the Rest of...](https://youtu.be/4NBMrPHPBAw)
-- [What screens really do to your child’s brain development | BBC News](https://youtu.be/yFc4yhZKP5U)
-- [The Japanese Parenting Routine That Stops Babies From Crying](https://youtu.be/75ucYYh3SMU?si=pFYWE1tEDKKQxYaH)
-- [The Simple Japanese Parenting Rule For Smarter Kids](https://youtu.be/OvlzuiOv3vU)

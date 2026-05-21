@@ -159,3 +159,11 @@ https://github.com/jorgebastida/awslogs
 - Set credentials at your env vars;
 - Logs in production: `awslogs get production-zf-backend ALL --aws-region sa-east-1`;
 - Logs in staging: `awslogs get staging-zf-backend ALL --aws-region us-east-1`.
+
+### MCP
+
+```bash
+claude mcp add-json aws-mcp --scope user '{"command":"uvx","args":["mcp-proxy-for-aws@latest","https://aws-mcp.us-east-1.api.aws/mcp","--metadata","AWS_REGION=us-west-2"]}'
+```
+
+[The AWS MCP Server is now generally available \| AWS News Blog](https://aws.amazon.com/blogs/aws/the-aws-mcp-server-is-now-generally-available/)

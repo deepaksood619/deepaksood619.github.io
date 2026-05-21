@@ -142,13 +142,13 @@ Kafka clients tend to be "thick" and have a lot of complexity. That is, they do 
 
 ### Availability
 
-|**Nines**|**Percent**|**Downtime/Year**|**σ Level**|
-|---|---|---|---|
-|4|99.99%|52.596 minutes|4σ|
-|5|99.999%|5.2596 minutes|-|
-|6|99.9999%|31.5576 seconds|5σ|
-|7|99.99999%|3.15576 seconds|-|
-|8|99.999999%|315.6 milliseconds|6σ|
+| Nines | Percent     | Percent    | Downtime/Year      | σ Level |
+| ----- | ----------- | ---------- | ------------------ | ------- |
+| 4     | Four Nines  | 99.99%     | 52.596 minutes     | 4σ      |
+| 5     | Five Nines  | 99.999%    | 5.2596 minutes     | -       |
+| 6     | Six Nines   | 99.9999%   | 31.5576 seconds    | 5σ      |
+| 7     | Seven Nines | 99.99999%  | 3.15576 seconds    | -       |
+| 8     | Eight Nines | 99.999999% | 315.6 milliseconds | 6σ      |
 
 [5 9s (99.999%) or higher scenario with a recovery time under one minute - Reliability Pillar](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/s-99.999-or-higher-scenario-with-a-recovery-time-under-1-minute.html)
 
