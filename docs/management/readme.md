@@ -9,6 +9,8 @@
     - [Service Based Model](management/business/service-based-model.md)
     - [franchise](management/business/franchise.md)
 	    - [preschool-franchise-investment-analysis](management/business/preschool-franchise-investment-analysis.md)
+	    - [footprints-daycare-franchise](management/business/footprints-daycare-franchise.md)
+	    - [other-preschool-daycare-franchise](management/business/other-preschool-daycare-franchise.md)
 - [Product Management](product-management/readme.md)
 - [Product Analytics](management/product-analytics/readme.md)
 - [Project Management](project-management/readme.md)

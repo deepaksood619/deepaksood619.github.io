@@ -25,11 +25,11 @@
 
 **India EdTech / Test Prep:**
 
-- [Unacademy Analysis](competitors/unacademy-analysis.md) - India's largest edtech, 60M users, 85% valuation decline, upGrad acquisition
-- [PhysicsWallah Analysis](competitors/physicswallah-analysis.md) - Only profitable edtech unicorn, ₹3K-10K/year (3-5x cheaper), bootstrap-to-IPO, $2.8B valuation, 10:1 to 80:1 LTV/CAC ratio
-- [Testbook Analysis](competitors/testbook-analysis.md) - Government exam test series specialist, 30M users, 4M paid, profitable since 2022, ~$42-48M revenue, 13-15% conversion, ₹500-2,999 pricing, 80+ languages, exam-realistic interface
-- [Careers360 Analysis](competitors/careers360-analysis.md) - Career counseling & college information leader, 400M sessions/year, 18.3M monthly visits, 68.8% organic search, SEO-dominant, bootstrapped profitable, IIPM scam expose credibility, free predictor tools, multiple revenue streams
-- [Shiksha Analysis](competitors/shiksha-analysis.md) - Info Edge owned career portal (Naukri.com sibling), 8-12M monthly visits, 2M+ users, 35K colleges, study abroad focus (₹50K-200K fees), ecosystem integration advantage, weaker SEO than Careers360, corporate-backed
+- [Unacademy Analysis](education/competitors/unacademy-analysis.md) - India's largest edtech, 60M users, 85% valuation decline, upGrad acquisition
+- [PhysicsWallah Analysis](education/competitors/physicswallah-analysis.md) - Only profitable edtech unicorn, ₹3K-10K/year (3-5x cheaper), bootstrap-to-IPO, $2.8B valuation, 10:1 to 80:1 LTV/CAC ratio
+- [Testbook Analysis](education/competitors/testbook-analysis.md) - Government exam test series specialist, 30M users, 4M paid, profitable since 2022, ~$42-48M revenue, 13-15% conversion, ₹500-2,999 pricing, 80+ languages, exam-realistic interface
+- [Careers360 Analysis](education/competitors/careers360-analysis.md) - Career counseling & college information leader, 400M sessions/year, 18.3M monthly visits, 68.8% organic search, SEO-dominant, bootstrapped profitable, IIPM scam expose credibility, free predictor tools, multiple revenue streams
+- [Shiksha Analysis](education/competitors/shiksha-analysis.md) - Info Edge owned career portal (Naukri.com sibling), 8-12M monthly visits, 2M+ users, 35K colleges, study abroad focus (₹50K-200K fees), ecosystem integration advantage, weaker SEO than Careers360, corporate-backed
 
 **New Age Schools & Alternative Education:**
 
