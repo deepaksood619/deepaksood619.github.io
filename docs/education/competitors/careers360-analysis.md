@@ -5,8 +5,6 @@ type: competitor-analysis
 domain: edtech-india
 tags: [careers360, career-counseling, college-information, india-edtech, seo-dominant, information-platform]
 ---
-# Careers360 Competitive Analysis
-
 ## Company Overview
 
 - **Founded:** 2008

@@ -6,8 +6,6 @@ priority: high
 last_updated: 2026-05-04
 tags: [ai, coding-assessment, hiring, technical-interviews, b2b-saas, validated]
 ---
-# AI Coding Test Platform
-
 ## Research Summary ✅
 
 **Status:** Research validated - Strong GO signal (8/10 confidence)

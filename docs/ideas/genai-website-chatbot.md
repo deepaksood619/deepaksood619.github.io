@@ -6,8 +6,6 @@ priority: medium
 last_updated: 2026-05-03
 tags: [ai, chatbot, customer-support, no-code, saas, genai]
 ---
-# GenAI Website Chatbot Widget
-
 ## Problem Statement
 
 **Businesses face:**

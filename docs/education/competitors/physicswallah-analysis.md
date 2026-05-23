@@ -5,9 +5,6 @@ type: competitor-analysis
 domain: edtech-india
 tags: [physicswallah, test-prep, india-edtech, profitable-edtech, bootstrap-to-ipo]
 ---
-
-# PhysicsWallah (PW) Competitive Analysis
-
 ## Company Overview
 
 **Founded:** 2016 (YouTube channel started 2014)

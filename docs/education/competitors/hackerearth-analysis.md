@@ -5,8 +5,6 @@ type: competitor-analysis
 domain: hr-tech
 tags: [hackerearth, technical-assessment, b2b-saas, india-market, asia-pacific]
 ---
-# HackerEarth Competitive Analysis
-
 ## Company Overview
 
 - **Founded:** 2012 (same year as HackerRank)

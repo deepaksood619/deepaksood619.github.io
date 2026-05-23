@@ -13,8 +13,6 @@ tags:
   - b2b
 status: active
 ---
-# Technical Hiring Assessment Market Analysis
-
 ## Market Overview
 
 **Market:** Technical hiring assessment and developer screening platforms

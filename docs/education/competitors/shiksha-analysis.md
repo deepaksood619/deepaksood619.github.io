@@ -5,8 +5,6 @@ type: competitor-analysis
 domain: edtech-india
 tags: [shiksha, career-counseling, college-information, india-edtech, info-edge, education-marketplace]
 ---
-# Shiksha.com Competitive Analysis
-
 ## Company Overview
 
 **Founded:** 2008

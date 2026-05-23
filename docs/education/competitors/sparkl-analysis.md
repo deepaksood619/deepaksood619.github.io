@@ -5,9 +5,6 @@ type: competitor-analysis
 domain: edtech
 tags: [sparkl, online-tutoring, k12, international-curriculum, india]
 ---
-
-# Sparkl Competitive Analysis
-
 ## Company Overview
 
 **Company Name:** Sparkl Edventure

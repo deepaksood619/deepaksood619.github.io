@@ -5,6 +5,7 @@
 - [Coursera Analysis](education/competitors/coursera-analysis.md) - MOOC leader, 168M learners, $695M revenue, enterprise-first pivot
 - [edX Analysis](education/competitors/edx-analysis.md) - MIT/Harvard platform, 86M learners, 2U acquisition, bankruptcy crisis
 - [Khan Academy Analysis](education/competitors/khan-academy-analysis.md) - Free education pioneer, 150M learners, GPT-4 powered Khanmigo
+- [freeCodeCamp Analysis](competitors/freecodecamp-analysis.md) - 100% free nonprofit coding education, 350K monthly users, 40K+ employed alumni, 11.3M YouTube subscribers, sustainable donation model
 
 **Technical Assessment:**
 
@@ -24,8 +25,11 @@
 
 **India EdTech / Test Prep:**
 
-- [PhysicsWallah Analysis](education/competitors/physicswallah-analysis.md) - Only profitable Indian edtech unicorn, $2.8B valuation, bootstrap-to-IPO, ₹3K-10K/year pricing (3-5x cheaper)
-- [Unacademy Analysis](education/competitors/unacademy-analysis.md) - India's largest edtech, 60M users, 85% valuation decline, upGrad acquisition
+- [Unacademy Analysis](competitors/unacademy-analysis.md) - India's largest edtech, 60M users, 85% valuation decline, upGrad acquisition
+- [PhysicsWallah Analysis](competitors/physicswallah-analysis.md) - Only profitable edtech unicorn, ₹3K-10K/year (3-5x cheaper), bootstrap-to-IPO, $2.8B valuation, 10:1 to 80:1 LTV/CAC ratio
+- [Testbook Analysis](competitors/testbook-analysis.md) - Government exam test series specialist, 30M users, 4M paid, profitable since 2022, ~$42-48M revenue, 13-15% conversion, ₹500-2,999 pricing, 80+ languages, exam-realistic interface
+- [Careers360 Analysis](competitors/careers360-analysis.md) - Career counseling & college information leader, 400M sessions/year, 18.3M monthly visits, 68.8% organic search, SEO-dominant, bootstrapped profitable, IIPM scam expose credibility, free predictor tools, multiple revenue streams
+- [Shiksha Analysis](competitors/shiksha-analysis.md) - Info Edge owned career portal (Naukri.com sibling), 8-12M monthly visits, 2M+ users, 35K colleges, study abroad focus (₹50K-200K fees), ecosystem integration advantage, weaker SEO than Careers360, corporate-backed
 
 **New Age Schools & Alternative Education:**
 
@@ -34,6 +38,15 @@
 **Consolidated Platform Analysis:**
 
 - [Consolidated EdTech Platforms](education/competitors/consolidated-edtech-platforms.md) - 20+ platforms: AI tutors (YouLearn, Tutor AI, Disha AI, Knowunity), edtech (Infinity Learn, Seekho, Unstop), bootcamps (Emeritus, Masai School, GrowthX), LMS (Frappe, Graphy, Edmingle)
+
+**Market Research**
+
+- [Technical Hiring Assessment Market](education/competitors/technical-hiring-assessment-market.md) - $8-10B TAM analysis
+
+**Technical Feasibility:**
+
+- [AI Question Generation Feasibility](technical-feasibility-ai-question-generation.md) - Architecture, costs, implementation phases, risk analysis
+- [Adaptive Learning Platform Technical Feasibility](technical-feasibility-adaptive-platform.md) - Complete 2026 implementation guide: Next.js 15/React 19 stack, BKT/IRT algorithms with code, database schemas, AI question generation (Claude 3.5 Sonnet), content curation, salary intelligence APIs, $494/month MVP, 18-month roadmap, ₹4 crore → ₹129 crore ARR projection
 
 ## Business
 

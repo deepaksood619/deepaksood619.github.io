@@ -6,8 +6,6 @@ priority: high
 last_updated: 2026-05-02
 tags: [ai, interview-prep, job-seekers, voice-ai, hr-tech]
 ---
-# AI Mock Interview Platform
-
 ## Problem Statement
 
 Job seekers preparing for technical interviews face several challenges:

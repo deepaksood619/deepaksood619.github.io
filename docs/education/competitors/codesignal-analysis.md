@@ -5,8 +5,6 @@ type: competitor-analysis
 domain: hr-tech
 tags: [codesignal, technical-assessment, b2b-saas, ai-native, enterprise]
 ---
-# CodeSignal Competitive Analysis
-
 ## Company Overview
 
 **Founded:** 2014 (originally as CodeFights, rebranded to CodeSignal in 2018)

@@ -341,7 +341,7 @@ Comprehensive comparison of CI/CD tools for modern software delivery, with focus
 
 **Separation of Concerns (Recommended):**
 
-```
+```text
 [Code Push]
     → [CI Tool: GitHub Actions/GitLab/Jenkins]
         → Build, Test, Create Container

@@ -8,9 +8,6 @@ tags:
   - upskilling
 date: 2026-05-04
 ---
-
-# Consolidated EdTech Competitor Analysis
-
 Comprehensive overview of edtech competitors across AI tutoring, learning platforms, upskilling, and LMS categories. Analysis based on publicly available information from company homepages and product pages.
 
 ## AI Tutors & Learning Assistants

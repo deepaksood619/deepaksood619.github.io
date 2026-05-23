@@ -5,8 +5,6 @@ type: competitor-analysis
 domain: coding-education
 tags: [freecodecamp, self-paced, nonprofit, open-source, web-development]
 ---
-# freeCodeCamp Competitive Analysis
-
 ## Company Overview
 
 - **Founded:** October 2014

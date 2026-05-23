@@ -5,8 +5,6 @@ type: competitor-analysis
 domain: hr-tech
 tags: [hackerrank, technical-assessment, b2b-saas, market-leader]
 ---
-# HackerRank Competitive Analysis
-
 ## Company Overview
 
 **Founded:** 2012

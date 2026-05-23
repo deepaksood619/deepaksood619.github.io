@@ -5,9 +5,6 @@ type: competitor-analysis
 domain: edtech-india
 tags: [unacademy, test-prep, india-edtech, b2c, marketplace]
 ---
-
-# Unacademy Competitive Analysis
-
 ## Company Overview
 
 **Founded:** 2015

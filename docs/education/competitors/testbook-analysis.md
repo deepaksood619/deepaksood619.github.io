@@ -5,7 +5,6 @@ type: competitor-analysis
 domain: edtech-india
 tags: [testbook, test-prep, government-exams, india-edtech, b2c, test-series]
 ---
-
 ## Company Overview
 
 - **Founded:** 2014

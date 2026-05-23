@@ -4,8 +4,6 @@ date: 2026-05-04
 type: concept-analysis
 tags: [adaptive-learning, personalization, ai-education, edtech, career-development]
 ---
-# Adaptive Learning Platform - Comprehensive Analysis
-
 **Core Concept:** AI-powered platform that personalizes learning paths based on individual knowledge gaps, learning pace, and career goals—focusing on working professionals seeking salary growth through skill development.
 
 ## Executive Summary

@@ -5,8 +5,6 @@ type: research-analysis
 tags: [startup-ideas, solo-founder, software, devtools, ai, edtech]
 status: active
 ---
-# Software-Focused Solo Founder Startup Analysis
-
 **Analysis Date:** 2026-05-02
 
 **Context:** Analyzing startup opportunities for solo founder with:
