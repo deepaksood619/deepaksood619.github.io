@@ -19,7 +19,6 @@ This is an **LLM-maintained research wiki** where Claude:
 ```bash
 ideas/
 ├── research-index.md     # Master catalog by priority/domain
-├── log.md                # Chronological activity log
 ├── competitors/          # Company profiles, comparisons
 ├── business-models/      # Revenue models, pricing, unit economics (to be created)
 ├── tech-stacks/          # Technology architectures (to be created)
@@ -34,12 +33,6 @@ ideas/
 - Active startup ideas (by priority)
 - Research domains
 - Cross-references
-
-**log.md** - Chronological record:
-
-```bash
-[YYYY-MM-DD] [DOMAIN] ACTION - description - source
-```
 
 ## Templates
 
@@ -129,7 +122,7 @@ Which ideas does this inform? How?
 1. Create research file in `topic-analysis.md` (descriptive name, no dates)
 2. Update 5-10 related pages (startup ideas, market analysis, competitors)
 3. Create cross-links across domains
-4. Update `research-index.md` and `log.md`
+4. Update `research-index.md`
 
 **When asked about startup opportunities:**
 
@@ -195,9 +188,6 @@ VAULT="/Users/deepaksood/Library/CloudStorage/GoogleDrive-dsood@confluent.io/.sh
 ```bash
 # Create new research file
 /Applications/Obsidian.app/Contents/MacOS/Obsidian create path="ideas/topic-analysis.md" content="[markdown content]" vault="$VAULT"
-
-# Append to existing file (like log.md)
-/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="ideas/log.md" content="[2026-05-04] [DOMAIN] ACTION - description\n" vault="$VAULT"
 ```
 
 **Search & Discovery:**

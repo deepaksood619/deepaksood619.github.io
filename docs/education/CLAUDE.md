@@ -65,8 +65,7 @@ When provided with new sources:
 
 1. **Extract:** Main findings, methodology, evidence quality, key concepts, contradictions
 2. **Update 10-15 related pages:** Topic pages, entity pages, cross-references
-3. **Log:** Add entry to `log.md` with date, action, source
-4. **Maintain:** Update `readme.md` content catalog, note contradictions, link concepts
+3. **Maintain:** Update `readme.md` content catalog, note contradictions, link concepts
 
 ### Query: Synthesizing Knowledge
 
@@ -80,18 +79,6 @@ When provided with new sources:
 Periodically check: contradictions, stale claims, orphans, broken links, dead-ends.
 
 **Commands:** See parent `/docs/CLAUDE.md` for Obsidian CLI reference (orphans, deadends, unresolved).
-
-## Activity Log
-
-**`log.md`** - Chronological append-only record:
-
-Format: `[YYYY-MM-DD] <action> - <description> - <source>`
-
-```markdown
-[2026-05-04] CATALOG - Streamlined CLAUDE.md, added content catalog
-[2026-04-30] INGEST - Processed Bjork paper on desirable difficulties
-[2026-04-30] UPDATE - Updated spaced-repetition.md with new findings
-```
 
 ## Target Taxonomy
 
@@ -160,8 +147,7 @@ How this research informs product decisions
 1. Create note with frontmatter
 2. Search & update 10-15 related pages
 3. Add cross-references
-4. Log entry in `log.md`
-5. Update content catalog in `readme.md`
+4. Update content catalog in `readme.md`
 
 **Query & Synthesize:**
 

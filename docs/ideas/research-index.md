@@ -252,7 +252,6 @@ Last updated: 2026-05-02
 2. Extract into relevant startup idea pages
 3. Create competitor/market analysis pages as needed
 4. Update this index
-5. Log activity in log.md
 
 ---
 
@@ -264,18 +263,6 @@ All ideas sourced from:
 - [Creating a Business / Startup](creating-a-business-startup.md)
 - [Thoughts / Future / Ideas / Vision / Prediction](thoughts-future-ideas-vision-prediction.md)
 - [Others](others.md)
-
----
-
-## Research Log
-
-See [log.md](log.md) for chronological activity log.
-
-**Latest activities:**
-
-- 2026-05-02: Initial research on software-focused solo founder opportunities
-- 2026-05-02: Deep dive into AI assessment platforms
-- 2026-05-02: Created structured startup idea pages
 
 ---
 

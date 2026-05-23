@@ -91,7 +91,6 @@ VAULT="/Users/deepaksood/Library/CloudStorage/GoogleDrive-dsood@confluent.io/.sh
 ```bash
 # Append content
 /Applications/Obsidian.app/Contents/MacOS/Obsidian append path="ai/notes.md" content="New section\n\nContent here" vault="$VAULT"
-/Applications/Obsidian.app/Contents/MacOS/Obsidian append path="log.md" content="Update" inline vault="$VAULT"  # no newline
 
 # Prepend content
 /Applications/Obsidian.app/Contents/MacOS/Obsidian prepend path="ai/readme.md" content="Updated: 2026-04-15\n" vault="$VAULT"

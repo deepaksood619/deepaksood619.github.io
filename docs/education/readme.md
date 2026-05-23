@@ -47,7 +47,7 @@ Education is broken and it's high time to fix it.
 - [Coursera Analysis](competitors/coursera-analysis.md) - MOOC leader, 168M learners, $695M revenue, enterprise-first pivot
 - [edX Analysis](competitors/edx-analysis.md) - MIT/Harvard platform, 86M learners, 2U acquisition, bankruptcy crisis
 - [Khan Academy Analysis](competitors/khan-academy-analysis.md) - Free education pioneer, 150M learners, GPT-4 powered Khanmigo
-- [freeCodeCamp Analysis](competitors/freecodecamp-analysis.md) - 100% free nonprofit coding education, 350K monthly users, 40K+ employed alumni, 11.3M YouTube subscribers, sustainable donation model
+- [freeCodeCamp Analysis](education/competitors/freecodecamp-analysis.md) - 100% free nonprofit coding education, 350K monthly users, 40K+ employed alumni, 11.3M YouTube subscribers, sustainable donation model
 
 **Technical Assessment:**
 
@@ -103,7 +103,6 @@ Education is broken and it's high time to fix it.
 ### Documentation
 
 - [CLAUDE.md](CLAUDE.md) - LLM wiki maintenance guide
-- [log.md](log.md) - Activity log (chronological record)
 
 ## People
 

@@ -17,5 +17,4 @@
 	- [postman-alternative-api-testing](ideas/postman-alternative-api-testing.md)
 	- [software-startup-analysis](ideas/software-startup-analysis.md)
 	- [Education](education/readme.md)
-	- [log](ideas/log.md)
 - [CLAUDE](ideas/CLAUDE.md)

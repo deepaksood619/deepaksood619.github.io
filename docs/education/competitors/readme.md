@@ -5,7 +5,7 @@
 - [Coursera Analysis](education/competitors/coursera-analysis.md) - MOOC leader, 168M learners, $695M revenue, enterprise-first pivot
 - [edX Analysis](education/competitors/edx-analysis.md) - MIT/Harvard platform, 86M learners, 2U acquisition, bankruptcy crisis
 - [Khan Academy Analysis](education/competitors/khan-academy-analysis.md) - Free education pioneer, 150M learners, GPT-4 powered Khanmigo
-- [freeCodeCamp Analysis](competitors/freecodecamp-analysis.md) - 100% free nonprofit coding education, 350K monthly users, 40K+ employed alumni, 11.3M YouTube subscribers, sustainable donation model
+- [freecodecamp-analysis](education/competitors/freecodecamp-analysis.md) - 100% free nonprofit coding education, 350K monthly users, 40K+ employed alumni, 11.3M YouTube subscribers, sustainable donation model
 
 **Technical Assessment:**
 
