@@ -39,6 +39,26 @@ One of the biggest questions around in-context learning is: What happens if we j
 - [LLMs with largest context windows](https://codingscape.com/blog/llms-with-largest-context-windows)
 - [RAG vs Large Context Window LLMs: When to use which one? — The Cloud Girl](https://www.thecloudgirl.dev/blog/rag-vs-large-context-window)
 
+## Tool Call / Tool Calling
+
+The tool layer is where agentic systems meet the real world.
+
+Most [AI agent](https://www.ibm.com/think/topics/ai-agents) failures do not trace back to bad reasoning. The model understands the task, then calls the wrong tool, passes malformed arguments, gets back an unhandled error, and produces a wrong answer anyway. The reasoning layer gets the attention; the tool layer is where production incidents actually happen.
+
+[Tool calling](https://www.ibm.com/think/topics/tool-calling) — also called [function calling](https://developers.openai.com/api/docs/guides/function-calling) — is what bridges a language model’s reasoning to real-world action. Without it, agents are capped by training data: no live queries, no external systems, no side effects. With it, an agent can search the web, call APIs, run code, retrieve documents, and trigger transactions in any system that exposes an interface.
+
+| Step                                        | Significance                                                                                                                                                                 |
+| ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Understanding the Tool Calling Protocol     | Establishes the separation between model reasoning and execution. Prevents silent failures by enforcing validation, structured inputs, and proper feedback loops.            |
+| Writing Tool Definitions as Contracts       | Ensures correct tool selection and argument formatting through precise descriptions, constrained inputs, and clear output schemas. Reduces ambiguity and misuse.             |
+| Building Error Handling Into the Tool Layer | Improves reliability by handling API failures, rate limits, and timeouts with structured errors, retries, and circuit breakers, enabling the model to respond intelligently. |
+| Parallelizing Tool Calls Strategically      | Reduces latency by executing independent tools concurrently while managing infrastructure constraints and ensuring proper result merging and conflict resolution.            |
+| Managing Tool Catalog Size                  | Maintains high selection accuracy by limiting tool choices, using dynamic loading, and eliminating redundancy to reduce confusion and token overhead.                        |
+| Designing for Security and Blast Radius     | Protects systems by enforcing least privilege, requiring human approval for critical actions, and mitigating prompt injection through output sanitization.                   |
+| Evaluating Tool Calls and Iteration         | Enables continuous improvement through metrics like tool accuracy, argument validity, and error handling, supported by step-level tracing and iterative refinement.          |
+
+[The Roadmap to Mastering Tool Calling in AI Agents](https://machinelearningmastery.com/the-roadmap-to-mastering-tool-calling-in-ai-agents/)
+
 ## Links
 
 - [AWS re:Invent 2023 - Generative AI: Architectures and applications in depth (BOA308) - YouTube](https://www.youtube.com/watch?v=aEA6X_IElpc)

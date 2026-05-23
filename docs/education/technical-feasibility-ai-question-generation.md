@@ -5,7 +5,7 @@ type: technical-analysis
 tags: [ai, question-generation, technical-assessment, feasibility, architecture]
 ---
 
-# Technical Feasibility: AI Question Generation
+**Technical Feasibility: AI Question Generation**
 
 **Context:** Building AI-powered technical assessment platform to compete with HackerRank/CodeSignal by generating unique coding questions on-demand.
 

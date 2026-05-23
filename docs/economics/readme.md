@@ -28,4 +28,5 @@
     - [Corporate Actions](economics/corporate-finance/corporate-actions.md)
 - [Accounting for Finance](accounting-for-finance/readme.md)
 - [cap-table-equity-allocation](economics/cap-table-equity-allocation.md)
+- [franchise](management/business/franchise.md)
 - [Links](economics/links.md)

@@ -1,5 +1,7 @@
 # Platforms
 
+- [Mercor \| Organizing human intelligence to power the AI economy](https://www.mercor.com/)
+	- https://www.reddit.com/r/ArtificialInteligence/comments/1onvdcp/mercor_ai_what_the_actual_hell_is_going_on/
 - [Jobs in Crypto & Web3 Companies | Crypto Jobs List](https://cryptojobslist.com/)
 - [Weekday - Hire top engineers vouched by other techies](https://www.weekday.works/)
 - [Find the best startup jobs and remote jobs curated by Y Combinator](https://www.ycombinator.com/jobs)

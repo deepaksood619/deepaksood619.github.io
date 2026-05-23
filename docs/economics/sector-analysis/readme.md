@@ -2,7 +2,8 @@
 
 - [Overview](economics/sector-analysis/overview.md)
 - [industry-sectors](economics/sector-analysis/industry-sectors.md)
-- [inr-exchange-rate-outlook-analysis](economics/sector-analysis/inr-exchange-rate-outlook-analysis.md)
+- [usd-inr-exchange-rate-outlook-analysis](economics/sector-analysis/usd-inr-exchange-rate-outlook-analysis.md)
+- [franchise](management/business/franchise.md)
 
 ### [1. Sector analysis overview](https://zerodha.com/varsity/chapter/sector-analysis-overview/)
 

@@ -61,6 +61,50 @@ https://grow.google/grow-your-career
 
 [Guide To Work In A Company 2024 | Must Watch | Salaries, Equity, Raises, Negotiations - YouTube](https://www.youtube.com/watch?v=0kgKMdSzVbE&ab_channel=VarunMayya)
 
+## Salary
+
+Story 1: High CTC, Wrong Age
+
+Aakash is 36
+Experience 12 years
+CTC: 60 LPA.
+The number came from one big jump at the right time.
+
+Good project. Urgent role. Aggressive offer.
+Now he’s interviewing.
+Most roles at his level pay 35–40 LPA.
+
+Hiring managers like him, then pause.
+“At 36, this CTC puts him too senior.”
+“At this cost, we expect leadership depth he hasn’t had a chance to build.”
+Aakash isn’t rejected for lack of skill.
+He’s rejected because his CTC aged him faster than his role.
+
+Story 2: Low CTC, Wrong Age
+
+Anjali is 35.
+Experience: 11 years
+CTC: 14 LPA.
+She started during a bad market.
+Took safe jobs. Stayed loyal. Missed corrections.
+
+Now she applies for mid-senior roles.
+
+Feedback is subtle:
+“At this age, we expect a higher CTC history.”
+“If she’s good, why is the number so low?”
+Anjali isn’t under-skilled.
+Her CTC froze while her age kept moving.
+
+CTC and age move together in the market’s head.
+
+When they fall out of sync, growth stalls.
+Too high → expectations spike.
+Too low → credibility drops.
+
+Both lead to the same place.
+Fewer calls. Fewer options. Longer waits.
+
 ## References
 
 - https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d

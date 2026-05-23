@@ -7,6 +7,8 @@
     - [Indian Market](business/indian-market)
     - [Business Case Studies](business/business-case-studies)
     - [Service Based Model](management/business/service-based-model.md)
+    - [franchise](management/business/franchise.md)
+	    - [preschool-franchise-investment-analysis](management/business/preschool-franchise-investment-analysis.md)
 - [Product Management](product-management/readme.md)
 - [Product Analytics](management/product-analytics/readme.md)
 - [Project Management](project-management/readme.md)

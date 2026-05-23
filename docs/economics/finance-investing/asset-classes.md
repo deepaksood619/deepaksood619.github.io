@@ -143,6 +143,7 @@ Additional Tax Benefit is available to Subscribers under Corporate Sector, under
 - [My NPS Wishlist: two changes to make it more user-friendly](https://freefincal.com/my-nps-wishlist-two-changes-to-make-it-more-user-friendly/)
 - [From Defined Benefit to Defined Risk: Taking Control of Your NPS Journey](https://freefincal.com/from-defined-benefit-to-defined-risk-taking-control-of-your-nps-journey/)
 - [Deductions Under Section 80CCD of Income Tax](https://cleartax.in/s/section-80ccd)
+- [The New NPS Retirement Income Scheme: Is it necessary?](https://freefincal.com/the-new-nps-retirement-income-scheme-is-it-necessary/)
 
 ### NPS Vatsalya
 

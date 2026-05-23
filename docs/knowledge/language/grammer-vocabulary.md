@@ -238,6 +238,7 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - **egged - egg -** to encourage somebody to do something that they should not do
 - **Cultural appropriation** is the adoption or use of elements from a minority or marginalized culture by members of a dominant culture, often in an exploitative, disrespectful, or stereotypical manner. It typically involves an imbalance of power, where elements like clothing, symbols, or traditions are used without understanding, respect, or acknowledgment.
 - **Discernment -** Discernment is the mental or spiritual ability to judge things clearly, perceive nuanced truths, and separate what is genuinely valuable or correct from what is obscure, deceptive, or inferior. It goes beyond simple black-and-white thinking, requiring wisdom, keen perception, and careful evaluation.
+- **Clarion -** A Clarion is **a brilliantly clear, ringing, and stirring sound**. It originated as a medieval, high-pitched trumpet used to signal battles or royal arrivals.
 
 ### Shill / Shilling
 

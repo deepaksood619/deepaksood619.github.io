@@ -116,6 +116,11 @@ Based on March 2026 data, **GPT-5.4-mini is a newer, more advanced "small" mod
     - Peligemma - [Google's New PaliGemma-Open Vision Language Model - YouTube](https://www.youtube.com/watch?v=un0SjUnHvvE)
     - VLM - Vision Language Model
     - [Introducing the Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
+- Gemini 3.5 Flash
+	- **Baseline (Gemini 3.1 Pro):** Terminal-Bench 2.1: ~68%, GDPval-AA: ~1,410 Elo, cost tier: premium flagship
+	- **After Optimization (Gemini 3.5 Flash):** Terminal-Bench 2.1: **76.2%** (+12% improvement), GDPval-AA: **1,656 Elo** (+17% improvement)
+	- **Business Impact:** API pricing at **$1.50/M input tokens** roughly 40% cheaper than Gemini 3.1 Pro at 4× the output speed; Macquarie Bank has already deployed it to process 100+ page customer onboarding documents autonomously
+	- [Google’s 4× Faster Bargain AI](https://businessanalytics.substack.com/p/googles-4-faster-bargain-ai)
 
 ## Llama
 

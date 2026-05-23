@@ -1,4 +1,4 @@
-# INR Exchange Rate Outlook Analysis
+# USD INR Exchange Rate Outlook Analysis
 
 **Macroeconomic Drivers and Future Trajectory of the Indian Rupee: An Exhaustive Analysis of the USD/INR Depreciation - Tue, 19 May 2026**
 
@@ -248,3 +248,11 @@ A stabilization or reversal of this severe depreciatory trend is largely outside
 3. The RBI must successfully operationalize the proposed 2013-style FCNR(B) deposit scheme, offering a sufficient risk premium to entice $20 to $25 billion in NRI capital to artificially bridge the gaping capital account deficit.
 
 Until these external fractures heal, the Indian Rupee remains fundamentally exposed. Market participants, corporate hedgers, and sovereign policymakers must immediately recalibrate their risk models to accommodate a structurally weaker domestic currency, with the 97 to 98 per dollar range serving as the highly probable base-case terminal target for the current 2026 crisis cycle.
+
+## Links
+
+- [How real is a ₹150 dollar?](https://finshots.in/markets/how-real-is-a-150-dollar/)
+	- Purchasing Power Parity (PPP) effect
+	- FDI (foreign direct investment) / FPI (foreign portfolio investment)
+	- Nominal Effective Exchange Rate (NEER)
+	- Real Effective Exchange Rate (REER)
