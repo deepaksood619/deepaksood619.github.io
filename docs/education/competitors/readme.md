@@ -43,11 +43,6 @@
 
 - [Technical Hiring Assessment Market](education/competitors/technical-hiring-assessment-market.md) - $8-10B TAM analysis
 
-**Technical Feasibility:**
-
-- [AI Question Generation Feasibility](technical-feasibility-ai-question-generation.md) - Architecture, costs, implementation phases, risk analysis
-- [Adaptive Learning Platform Technical Feasibility](technical-feasibility-adaptive-platform.md) - Complete 2026 implementation guide: Next.js 15/React 19 stack, BKT/IRT algorithms with code, database schemas, AI question generation (Claude 3.5 Sonnet), content curation, salary intelligence APIs, $494/month MVP, 18-month roadmap, ₹4 crore → ₹129 crore ARR projection
-
 ## Business
 
 - JEE Preparation

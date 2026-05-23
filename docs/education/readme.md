@@ -10,14 +10,14 @@ Education is broken and it's high time to fix it.
 
 ### Product Concepts
 
-- [Personal Tutor](personal-tutor.md) - AI-powered adaptive learning system
-- [AI as Mentor](ai-as-mentor.md) - AI mentorship framework
-- [AI Assessment Platforms](ai-assessment-platforms.md) - Testing infrastructure
-- [AI Mock Interview Platform](ai-mock-interview-platform.md) - Interview prep
-- [AI Coding Test Platform](ai-coding-test-platform.md) - Technical assessment
-- [Life Recorder](life-recorder.md) - Learning journal system
-- [Personal Tutor Prompt](personal-tutor-prompt.md) - System prompt template
-- [Quiz App Prompt](quiz-app-prompt.md) - Quiz generation prompt
+- [Personal Tutor](education/personal-tutor.md) - AI-powered adaptive learning system
+- [AI as Mentor](education/ai-as-mentor.md) - AI mentorship framework
+- [AI Assessment Platforms](education/ai-assessment-platforms.md) - Testing infrastructure
+- [AI Mock Interview Platform](education/ai-mock-interview-platform.md) - Interview prep
+- [AI Coding Test Platform](education/ai-coding-test-platform.md) - Technical assessment
+- [Life Recorder](education/life-recorder.md) - Learning journal system
+- [Personal Tutor Prompt](education/personal-tutor-prompt.md) - System prompt template
+- [Quiz App Prompt](education/quiz-app-prompt.md) - Quiz generation prompt
 
 ### Pedagogy & Learning Science
 
@@ -87,22 +87,15 @@ Education is broken and it's high time to fix it.
 
 **Technical Feasibility:**
 
-- [AI Question Generation Feasibility](technical-feasibility-ai-question-generation.md) - Architecture, costs, implementation phases, risk analysis
-- [Adaptive Learning Platform Technical Feasibility](technical-feasibility-adaptive-platform.md) - Complete 2026 implementation guide: Next.js 15/React 19 stack, BKT/IRT algorithms with code, database schemas, AI question generation (Claude 3.5 Sonnet), content curation, salary intelligence APIs, $494/month MVP, 18-month roadmap, ₹4 crore → ₹129 crore ARR projection
+- [AI Question Generation Feasibility](education/technical-feasibility-ai-question-generation.md) - Architecture, costs, implementation phases, risk analysis
+- [Adaptive Learning Platform Technical Feasibility](education/technical-feasibility-adaptive-platform.md) - Complete 2026 implementation guide: Next.js 15/React 19 stack, BKT/IRT algorithms with code, database schemas, AI question generation (Claude 3.5 Sonnet), content curation, salary intelligence APIs, $494/month MVP, 18-month roadmap, ₹4 crore → ₹129 crore ARR projection
 
 ### Strategic Context
 
-- [Education System](education-system.md) - System-level analysis
-- [Schooling](schooling.md) - Traditional schooling models
-- [Homeschooling](homeschooling.md) - Alternative education
-
-### Strategic Planning
-
-- [Founder's Strategic Brief](founders-strategic-brief.md) - **Market entry strategy**: Hidden opportunity (MOOC collapse + AI disruption), critical insights (enterprise B2B economics, real adaptivity vs AI wrappers, outcomes-based pricing), counter-intuitive anomalies (premium beats freemium, cheap+lean beats VC-backed, bold claims work), business model fork (PLG vs Enterprise), stress test (WTP validation, AI quality, skill-salary mapping), MVI (AI question generation + algorithmic adaptivity + salary tracking = 10x economics). Recommendation: $500K-1M seed, PLG-first hybrid, 18-month path to $12M ARR.
-
-### Documentation
-
-- [CLAUDE.md](CLAUDE.md) - LLM wiki maintenance guide
+- [Education System](education/education-system.md) - System-level analysis
+- [Schooling](education/schooling.md) - Traditional schooling models
+- [Homeschooling](education/homeschooling.md) - Alternative education
+- [Founder's Strategic Brief](education/founders-strategic-brief.md) - **Market entry strategy**: Hidden opportunity (MOOC collapse + AI disruption), critical insights (enterprise B2B economics, real adaptivity vs AI wrappers, outcomes-based pricing), counter-intuitive anomalies (premium beats freemium, cheap+lean beats VC-backed, bold claims work), business model fork (PLG vs Enterprise), stress test (WTP validation, AI quality, skill-salary mapping), MVI (AI question generation + algorithmic adaptivity + salary tracking = 10x economics). Recommendation: $500K-1M seed, PLG-first hybrid, 18-month path to $12M ARR.
 
 ## People
 

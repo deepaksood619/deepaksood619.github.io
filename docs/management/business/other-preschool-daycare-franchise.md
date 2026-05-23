@@ -12,26 +12,27 @@ I am exploring footprints foco model.
 - Monika - Peas in Pod - +91 98101 57796
 
 - Support :
-	- Property acquisition 
-	- Project management 
-	- Operational management 
-	- Academics Support 
-	- Recruitment support 
+	- Property acquisition
+	- Project management
+	- Operational management
+	- Academics Support
+	- Recruitment support
 	- Marketing support
 
 5 lakh (PIP), 6 lakh (song) (1 lakh discount)
+
 - support and services valid for 5 years
 - 1 lakh after 5 years for another 5 years
-- recruitment 
-- academic support 
-- teacher training 
-- marketing 
+- recruitment
+- academic support
+- teacher training
+- marketing
 
 One time setup costs - 7 lakh, 9 lakh
 
-Operation manager 
+Operation manager
 
-Any admission number commitment 
+Any admission number commitment
 Royalty - no
 Kit - 9500 from the office, 25k kit
 Exit clause
@@ -52,41 +53,41 @@ The Makoons International Play School is operated by K R S Educreations Pvt. Ltd
 
 ### 📔Preschool Market Opportunity in India📔
 
-Opening a Preschool is one of the most lucrative franchise opportunities in India, which offers high returns on investment (ROI). With the overwhelming demand for preschool education from parents and the dearth of quality preschool curriculum, this is the right time to explore the opportunity of opening your own preschool. The years ahead will witness significant growth in the preschool sector, with increase in demand for branded preschools over unorganized ones.  
+Opening a Preschool is one of the most lucrative franchise opportunities in India, which offers high returns on investment (ROI). With the overwhelming demand for preschool education from parents and the dearth of quality preschool curriculum, this is the right time to explore the opportunity of opening your own preschool. The years ahead will witness significant growth in the preschool sector, with increase in demand for branded preschools over unorganized ones.
 
 - 📔Preschool market in India is estimated to be a Rs.20000 cr market by 2025
-- 📔Organized preschool segment is rapidly growing at 45% YOY, one of the fastest growing segments in the education space 
+- 📔Organized preschool segment is rapidly growing at 45% YOY, one of the fastest growing segments in the education space
 - 📔Comparatively less investment required to start up a preschool as compared to other franchise businesses
-- 📔Expected ROI in a preschool business is more than 200% over a period of 5 years 
+- 📔Expected ROI in a preschool business is more than 200% over a period of 5 years
 
 ### 🌀 USP of Makoons🌀
 
-- 📔No Royalty  Business Model					
-- 📔India’s first IQ, EQ, PQ & SQ based Curriculum- ACMES					
-- 📔NEP 2020 compliance curriculum 					
-- 📔Personalized education programs					
-- 📔Proprietary content					
-- 📔Language Development 					
-- 📔App Based, 3D, (AR) and Digital learning 
-- 📔AR Books					
-- 📔Exclusive Digital Learning App					
-- 📔4 Tier Security System					
-- 📔World Class Premium Infrastructure in low Cost					
-- 📔Temperature controlled safe & Hygiene indoor environment					
-- 📔Member of Trinity College London (U.K.)					
-- 📔Member of Early Years Alliance (U.K.)					
-- 📔Member of High scope (U.S.)					
-- 📔Member of NAEYC (U.S.)					
-- 📔Provides Daily Food, menu planned by Nutritionist					
-- 📔Healthy & Fresh Fruits  includes in meal					
-- 📔Internationally Trained & Qualified Teachers					
-- 📔Real Time Updates					
-- 📔Barcode scanning & Face Recognition					
-- 📔Vehicle Tracking (GPRS & Barcode enabled Cabs)					
-- 📔Guaranteed Admission enquires *					
-- 📔Dedicated Admission Manager					
-- 📔Partner First Policy					
-- 📔Help to reach at quick breakeven & ROI					
+- 📔No Royalty  Business Model
+- 📔India’s first IQ, EQ, PQ & SQ based Curriculum- ACMES
+- 📔NEP 2020 compliance curriculum
+- 📔Personalized education programs
+- 📔Proprietary content
+- 📔Language Development
+- 📔App Based, 3D, (AR) and Digital learning
+- 📔AR Books
+- 📔Exclusive Digital Learning App
+- 📔4 Tier Security System
+- 📔World Class Premium Infrastructure in low Cost
+- 📔Temperature controlled safe & Hygiene indoor environment
+- 📔Member of Trinity College London (U.K.)
+- 📔Member of Early Years Alliance (U.K.)
+- 📔Member of High scope (U.S.)
+- 📔Member of NAEYC (U.S.)
+- 📔Provides Daily Food, menu planned by Nutritionist
+- 📔Healthy & Fresh Fruits  includes in meal
+- 📔Internationally Trained & Qualified Teachers
+- 📔Real Time Updates
+- 📔Barcode scanning & Face Recognition
+- 📔Vehicle Tracking (GPRS & Barcode enabled Cabs)
+- 📔Guaranteed Admission enquires *
+- 📔Dedicated Admission Manager
+- 📔Partner First Policy
+- 📔Help to reach at quick breakeven & ROI
 - 📔Proven and successful ROI model
 
 ## DPS Franchise

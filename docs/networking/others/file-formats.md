@@ -316,3 +316,7 @@ A HAR (HTTP Archive) file is **a JSON-formatted log of a web browser's network 
 **To create a HAR file in Chrome**, open DevTools (`F12`), navigate to the Network tab, ensure recording is active and "Preserve log" is checked, reproduce the website issue, right-click the requests list, and select **Save all as HAR with content**.
 
 [HAR (file format) - Wikipedia](https://en.wikipedia.org/wiki/HAR_(file_format))
+
+## Others
+
+- `.j2` - The **`.j2`** designation is the **standard file extension and convention used for Jinja2 templates**. It signifies that a file contains text mixed with Jinja syntax (such as variables like `{{ variable }}` and control structures like `{% if %}`) and is intended to be processed by a Jinja rendering engine.
