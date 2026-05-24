@@ -219,3 +219,4 @@ Ludwig enables you to apply state-of-the-art tabular, natural language processin
 	- [Reinforcement Learning (RL) Guide \| Unsloth Documentation](https://docs.unsloth.ai/basics/reinforcement-learning-rl-guide)
 - [How Meta animates AI-generated images at scale - Engineering at Meta](https://engineering.fb.com/2024/08/14/production-engineering/how-meta-animates-ai-generated-images-at-scale/)
 - [How LLMs Handle Infinite Context With Finite Memory \| Towards Data Science](https://towardsdatascience.com/llms-can-now-process-infinite-context-windows/)
+- [GitHub - OpenPipe/ART: Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.6, GPT-OSS, Llama, and more! · GitHub](https://github.com/OpenPipe/ART) ⭐ 9.8k

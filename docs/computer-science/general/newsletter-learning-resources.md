@@ -29,10 +29,9 @@ https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layou
 1. GotoConf - https://www.youtube.com/user/GotoConferences
 2. InfoQ - https://www.youtube.com/user/MarakanaTechTV
 3. Coding Tech - https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ
-4. Tech Dummies - https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA
-5. [AI Engineer - YouTube](https://www.youtube.com/@aidotengineer)
-6. [CodeEmporium - YouTube](https://www.youtube.com/@codeemporium)
-7. [Hussein Nasser - YouTube](https://www.youtube.com/@hnasr)
+4. [AI Engineer - YouTube](https://www.youtube.com/@aidotengineer)
+5. [CodeEmporium - YouTube](https://www.youtube.com/@codeemporium)
+6. [Hussein Nasser - YouTube](https://www.youtube.com/@hnasr)
 
 ## Coding
 
@@ -151,10 +150,6 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 
 - [Low Level Design | The Code Mate - YouTube](https://www.youtube.com/playlist?list=PLAC2AM9O1C5KioUMeH9qIjbAV_RMmX8rd)
 - [Tech Dummies Narendra L - YouTube](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
-    - [System Design - YouTube](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV)
-    - [System design tutorial - YouTube](https://www.youtube.com/playlist?list=PLkQkbY7JNJuAhePp7E_WSpfFqjQp6RniV)
-    - [Grokking System design - YouTube](https://www.youtube.com/playlist?list=PLkQkbY7JNJuC99VDJcpQdww-4aT3QhdJv)
-    - [Microservices for system design interview preparation - YouTube](https://www.youtube.com/playlist?list=PLkQkbY7JNJuDqCFncFdTzGm6cRYCF-kZO)
 - [System Design for Beginners - YouTube](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 - [System Designs - YouTube](https://www.youtube.com/playlist?list=PLQnljOFTspQXSevtRqvMNycWfHM7cXc3d)
 - [Complete the Design - Recommendation Engine | 8. Map Reduce and Stream Processing | System Design Simplified | InterviewReady](https://interviewready.io/learn/system-design-course/8-map-reduce-and-stream-processing/complete-the-design---recommendation-engine)

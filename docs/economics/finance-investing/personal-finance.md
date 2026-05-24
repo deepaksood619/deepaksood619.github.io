@@ -159,3 +159,4 @@ Use money to buy peace. And, use your peace to make (fewer but) better strategic
 - [All the financial advice you need can fit in a post-it note!](https://freefincal.com/all-the-financial-advice-you-need-can-fit-in-a-post-it-note/)
 - [Why Hitting ₹1 Crore Doesn’t Change the Game](https://freefincal.com/why-hitting-%e2%82%b91-crore-doesnt-change-the-game/)
 - [Is it unpatriotic to buy gold and international stocks now?](https://freefincal.com/is-it-unpatriotic-to-buy-gold-and-international-stocks-now/)
+- [Narayanan's journey to Financial Independence](https://freefincal.com/narayanans-journey-to-financial-independence/)

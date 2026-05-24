@@ -111,3 +111,7 @@ Step-by-Step Application Process
 6. **Final Agreement:** After construction and finalizing facilities, the final franchise agreement is signed to launch the school. [[1](https://scale100x.ai/blog/dps-franchise-cost-india-2026), [2](https://erocon.in/delhi-public-school-franchise-process/)]
 
 _Note: The DPS Society is highly selective and typically grants affiliations to experienced educational entrepreneurs, established trusts, or corporate groups with a strong track record_
+
+## Links
+
+- https://www.reddit.com/r/IndiaBusiness/comments/1mtkaz2/anyone_explored_preschool_franchise_opportunities/

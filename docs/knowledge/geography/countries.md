@@ -42,6 +42,7 @@ In East Asia, beards are generally not considered "bad" but are culturally prefe
 
 - [Why Taiwan is So Much Richer Than China - YouTube](https://www.youtube.com/watch?v=xT17zi_4Oas)
 - [Taiwan is More Than Microchips and Tensions With China | Economics Explained - YouTube](https://www.youtube.com/watch?v=pvqkehKfQsg)
+- [Dear President Trump, We Didn't Steal Your Chip Business](https://www.culpium.com/p/dear-president-trump-we-didnt-steal)
 
 ### Japan
 

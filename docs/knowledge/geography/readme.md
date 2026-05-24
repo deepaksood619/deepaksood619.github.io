@@ -12,4 +12,6 @@
 	- [home-house-building](knowledge/geography/home-house-building.md)
 	- [places-to-live](knowledge/geography/places-to-live.md)
 	- [global-relocation-assessment](knowledge/geography/global-relocation-assessment.md)
+	- [indian-city-selection-criteria-analysis](knowledge/geography/indian-city-selection-criteria-analysis.md)
+	- [rent-relocation-analysis-indias-it-hubs](knowledge/geography/rent-relocation-analysis-indias-it-hubs.md)
 - [Others](knowledge/geography/others.md)
