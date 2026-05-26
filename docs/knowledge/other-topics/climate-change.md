@@ -25,6 +25,7 @@
 	- [Best Cool Roof Paints \| Waterproofing Treatment On Terrace \| LuminX Cool Roof Paint \| Excel CoolCoat - YouTube](https://www.youtube.com/watch?v=zD3bMRopkP4)
 	- [LuminX Cool Roof Coating Is BETTER Than Traditional Methods For Terrace Waterproofing - YouTube](https://www.youtube.com/watch?v=SMU02R2rkBk)
 	- [How to Apply LuminX Cool Roof Coating \| Step-by-Step Guide - YouTube](https://www.youtube.com/watch?v=0UH3uJjovfg)
+- [Rising seas will swallow New Orleans. People need to start relocating now, scientists say](https://edition.cnn.com/2026/05/25/climate/new-orleans-sea-level-rise-relocation)
 
 ## Environmental Sciences
 

@@ -277,3 +277,7 @@ So for a long haul international flight you can take middle aisle with aisle sid
 	- [\[TOP 3\]🔥Best Weight Machine For Home🔥Best Weight Machine🔥Best Weighing Machine Under 500-1000 - YouTube](https://www.youtube.com/watch?v=qDTH_P6WYb4)
 	- [Best body composition scale 2026 \| Best body fat scale 2026 \| Best smart scale 2027 \| smart scale - YouTube](https://www.youtube.com/watch?v=L1NgFFZMFWM)
 	- [Best Weight Machine for Home \| Under 500, 1000 and 1500 \| Best Weighing Scale 2026 - YouTube](https://www.youtube.com/watch?v=8G1IZGHpv7c)
+- Monitor Arm
+	- [Portronics Aerolift Solo Gas Spring Monitor Arm, Desk Mount for 13–32 Inch Screens, VESA 75x75 & 100x100 mm, Full Motion Tilt/Swivel/Rotation, C-Clamp & Grommet Installation, Aluminium Build : Amazon.in: Computers & Accessories](https://www.amazon.in/Portronics-Aerolift-Rotation-Installation-Aluminium/dp/B0GRHW6JVL/)
+	- [Amazon Basics Monitor Stand Height Adjustable Arm Mount](https://www.amazon.in/amazon-basics-Monitor-Height-Adjustable/dp/B07DHK5DHN/)
+	- Could have bought Amazon one, since heigh adjustable is not required mostly, since height is mostly fixed, most of the time you need to move left right, or tilt up and down, and not have to do whole monitor up and down

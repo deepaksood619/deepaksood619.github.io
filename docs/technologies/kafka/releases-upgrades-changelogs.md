@@ -57,6 +57,49 @@ Additional highlights include external schema support in JsonConverter for reduc
 - [Apache Kafka 4.2 \| 38 KIPs, Kafka Streams, Observability Improvements, Rebalance Protocol, and more - YouTube](https://www.youtube.com/watch?v=4Yw1TzJe1Z8)
 - [Apache Kafka 4.2.0 Release Announcement \| Apache Kafka](https://kafka.apache.org/blog/2026/01/14/apache-kafka-4.2.0-release-announcement/)
 
+## Apache Kafka 4.3
+
+**Highlights**
+
+- **KIP-1271 + KIP-1285: Header-aware State Stores for Kafka Streams:** State stores in Kafka Streams can now carry headers alongside keys and values. Opt in via dsl.store.format=HEADERS to integrate with Confluent Schema Registry's new header-based schema ID format.
+- **KIP-1240: Share Group Production Tuning Controls:** Broker-side guardrails and per-group configs for delivery count limits, record lock limits, and RENEW acknowledgment toggles.
+- **KIP-1066: Broker Cordoning:**  Operators can now mark log directories or entire brokers off-limits for new partition placement during maintenance, a concept borrowed from k8s.
+- **KIP-1035: Managed Changelog Offsets:** Kafka Streams now stores changelog offsets inside RocksDB instead of in a separate checkpoint file, atomically flushed alongside data column families. This allows for better RocksDB behaviour and enables future transactional state store semantics.
+- **KIP-1274: Classic Rebalance Protocol Deprecation, Phase 1:** Three-phase deprecation of the classic rebalance protocol begins.
+    - Phase 1 in 4.3 is advance notice via a new INFO-level log message at consumer startup.
+    - Phase 2 in 5.0 flips the default to KIP-848's consumer protocol.
+    - Phase 3 in 6.0 removes the classic protocol.
+
+**Notable Callouts**
+
+- Storage percentage JMX metrics for retention monitoring (KIP-1257)
+- A common ConnectPlugin interface for connector and SMT discoverability (KIP-1273)
+- Coordinator buffer caps (KIP-1196) prevent OOM under heavy group churn.
+- KIP-1219 adds tunable byte-size limits for KRaft fetch and snapshot requests on large clusters.
+- MirrorMaker metrics align with KIP-877 naming via KIP-1280 (legacy names removed in 5.0).
+
+**Security**
+
+- KIP-1258: OAuth client assertion via RFC 7523. Stronger credential type for OAuth client_credentials grants. No new client configs; reuses the existing SASL/OAUTHBEARER configuration from KIP-1139.
+
+**Client-Side KIPs Available Now in Confluent Cloud**
+
+- KIP-1271 / KIP-1285: Header-aware state stores
+- KIP-1035: Managed Changelog Offsets
+- KIP-1247: Bytes class promoted to public API
+- KIP-1250: num-keys metric
+- KIP-1258: OAuth client assertion
+- KIP-1259: Stale state directory cleanup
+- KIP-1270: GlobalKTable error handling
+
+**Preparing for AK 5.0**
+
+  • KIP-1244: Kafka Streams Scala DSL deprecated, removed in 5.0. Migrate to the Java DSL.
+  • KIP-1237: group.coordinator.rebalance.protocols deprecated, removed in 5.0.
+  • KIP-1211: num.partitions / default.replication.factor on the broker role. Set these on the controller role; broker-role values will be ignored in 5.0.
+
+[Apache Kafka 4.3 \| 25 KIPs, Kafka Streams, Share Group Controls, Broker Isolation, and more - YouTube](https://www.youtube.com/watch?v=lePgrOiX11U)
+
 ## Others
 
 [Top Trends for Data Streaming with Apache Kafka and Flink in 2026 - Kai Waehner](https://www.kai-waehner.de/blog/2025/12/10/top-trends-for-data-streaming-with-apache-kafka-and-flink-in-2026/)

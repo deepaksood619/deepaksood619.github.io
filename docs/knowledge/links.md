@@ -18496,5 +18496,6 @@
 18447. [The diamond market doesn’t look so bright anymore | Who said what? S2E36](https://youtu.be/MnQpE2dU1jc)
 18448. [We are doing an Independents Jodo Yatra](https://youtu.be/_EsGIslZrjg)
 18449. [The Gulf economies are in BIG trouble](https://youtu.be/01V3IEn2MsY)
+18450. [Meet the factory workers training A.I. to replace themselves \| Ground Report - YouTube](https://www.youtube.com/watch?v=0nS6i5uZJp0)
 
 ## End

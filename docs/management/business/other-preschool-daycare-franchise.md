@@ -7,6 +7,43 @@ I am exploring footprints foco model.
 - Grow Inn Steps - Rinku - +91 92180 97116
 - Footprints - Intellitots
 
+## Tue, 26 May 2026 - Rinku - Grow Inn Steps
+
+- Vikas
+- Rohini Sector - 2016
+- 150 Admissions - 1 lakh per child P.A.
+- 30+ preschools
+	- Max are in Bangalore
+	- 16 Branches - 12 are fully operational
+- Montessari Education
+
+- Curriculum
+	-
+
+- Cost ?? - 3.5 lakh + 18%
+- Total - 33 - 35 lakh
+- Curriculum
+- Models - FOFO, FOCO, etc?
+- Commitment - 500 admissions in 5 years - cumulative
+	- fill up by paying 25K per student
+- Entire marketing is done specific to center
+	- Meta Ads
+	- Google Ads
+	- Online listing - whatsapp, justdial
+	- newspaper insertions
+	- canopy
+	- Community engagements
+- CAC - 10000
+- Student Kit - 10000
+- Royalty - 6% of Gross revenue
+	- preschool and daycare revenue
+- After school activities
+	- Tutition
+	- Outside kids revenue not included in royalty for after school activities
+	- 2500 sq ft - 100 admissions
+- Location and feasibility analysis
+	- On ground investigation?
+
 ## Sat, 23 May 2026 - PIP
 
 - Monika - Peas in Pod - +91 98101 57796

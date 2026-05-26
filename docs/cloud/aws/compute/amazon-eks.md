@@ -352,3 +352,4 @@ kubectl patch nodeclass default --type merge -p '{"spec":{"subnetSelectorTerms":
 - KubeCost / OpenCost
 - [Use your on-premises infrastructure in Amazon EKS clusters with Amazon EKS Hybrid Nodes | AWS News Blog](https://aws.amazon.com/blogs/aws/use-your-on-premises-infrastructure-in-amazon-eks-clusters-with-amazon-eks-hybrid-nodes/)
 - [Amazon EKS Hybrid Nodes Explained \| Amazon Web Services - YouTube](https://youtu.be/xHbGTmaRYK4)
+- [GitHub - geomge/aws-eks-poc-infra-terraform: terraform code for a poc aws infra · GitHub](https://github.com/geomge/aws-eks-poc-infra-terraform)
