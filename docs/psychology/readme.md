@@ -12,6 +12,7 @@
 - [Psychology](psychology/intro.md)
 - [Criticism / Criticizing / Criticize / Critic](criticism)
 - [Biases / Fallacies](biases-fallacies)
+	- [endowment-effect](psychology/endowment-effect.md)
 - [Paradox](psychology/paradox.md)
 - [Mental Models](mental-models)
 - [Thinking Mental Models](thinking-mental-models)

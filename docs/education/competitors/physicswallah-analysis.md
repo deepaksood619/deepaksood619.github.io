@@ -7,9 +7,9 @@ tags: [physicswallah, test-prep, india-edtech, profitable-edtech, bootstrap-to-i
 ---
 ## Company Overview
 
-**Founded:** 2016 (YouTube channel started 2014)
-**Headquarters:** Noida, Uttar Pradesh, India (Sector 62)
-**Founders:** Alakh Pandey (Founder & CEO), Prateek Maheshwari (Co-founder)
+- **Founded:** 2016 (YouTube channel started 2014)
+- **Headquarters:** Noida, Uttar Pradesh, India (Sector 62)
+- **Founders:** Alakh Pandey (Founder & CEO), Prateek Maheshwari (Co-founder)
 
 **Funding:**
 

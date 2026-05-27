@@ -35,14 +35,6 @@ Donor - finds a person and donate the required item or buy for him/her
 	- [Start this rewarding monthly investment on Gandhi Jayanti](https://freefincal.com/start-this-rewarding-monthly-investment-on-gandhi-jayanti/)
 	- [Kid’s Education and You: 260 children now benefit from this initiative of Melvin Joseph (SEBI RIA) - YouTube](https://www.youtube.com/watch?v=vgBpQI0Dvrg)
 
-[The life you can save](../book-summaries/the-life-you-can-save)
-
-[Doing Good Better](../book-summaries/doing-good-better)
-
-[Nudging to donate organs: do what you like or like what we do? | Medicine, Health Care and Philosophy](https://link.springer.com/article/10.1007/s11019-021-10007-6)
-
-[What’s the best way to lift people out of poverty? - YouTube](https://www.youtube.com/watch?v=_gTgloPR0Aw)
-
 ## Effective Altruism
 
 When you become rich don't increase your standard of living, increase your standard of giving.
@@ -69,3 +61,12 @@ The key problem is funding cannibalism. That $3 million in donations doesn’t a
 - [Are future humans really our problem? - YouTube](https://www.youtube.com/watch?v=FQss1IH3MFA)
 - [How can wealthy Indians give back? - Dezerv](https://www.dezerv.in/blog/how-can-wealthy-indians-give-back/)
 - [They Had No Hope... Until Now \| Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=xsjNGcevbT8)
+
+## Links
+
+- [The life you can save](../book-summaries/the-life-you-can-save)
+- [Doing Good Better](../book-summaries/doing-good-better)
+- [Nudging to donate organs: do what you like or like what we do? | Medicine, Health Care and Philosophy](https://link.springer.com/article/10.1007/s11019-021-10007-6)
+- [What’s the best way to lift people out of poverty? - YouTube](https://www.youtube.com/watch?v=_gTgloPR0Aw)
+- [The Problem with Billionaires — and the Debut of True Net Worth | Randal...](https://youtu.be/6McT9-EbEPw)
+- [How Rich Would Bill Gates and Warren Buffett Be If They Never Donated a Dollar?](https://www.forbesindia.com/article/billionaires/true-net-worth-billionaire-rankings-if-they-didnt-donate-to-charity/2994158/1)

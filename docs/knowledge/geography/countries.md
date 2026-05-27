@@ -37,6 +37,7 @@ In East Asia, beards are generally not considered "bad" but are culturally prefe
 - [Dictator vs Democracy: The rise of Xi Jinping and China? Explained - YouTube](https://www.youtube.com/watch?v=ieyzFXJk4e8)
 - [China Creates Its Own Bios to Break Free From Western Tech](https://indiandefencereview.com/the-u-s-and-its-allies-wont-be-happy-china-creates-its-own-bios-to-break-free-from-western-tech/)
 - [How Chinese view the world: over 90 percent of Chinese expect China to help shape a fairer global order - Global Times](https://www.globaltimes.cn/page/202512/1351147.shtml)
+- [Dance: Auspicious Rain #孟庆旸 #喜雨 #springfestival2026 #coolchina - YouTube](https://www.youtube.com/watch?v=2-OPy6VnVzw)
 
 ### Taiwan
 
@@ -82,6 +83,11 @@ In East Asia, beards are generally not considered "bad" but are culturally prefe
 - [Why Iraq is Dying - YouTube](https://www.youtube.com/watch?v=rkZfmySToZk)
 - [Why Iran is Rapidly Dying](https://youtu.be/n8kSGH4I8Ps)
 	- [How Far Can Iran's Missiles Reach? Inside Khamenei's Monstrous Firepower That Has West Concerned - YouTube](https://www.youtube.com/watch?v=DEVUmkgfprQ)
+
+#### Dubai/UAE/Saudi
+
+- [Dubai real estate is down 40% from peak. What actually happens now? I went through every crash this market has had. Here is what history says.](https://www.reddit.com/r/dubairealestate/comments/1s1be21/dubai_real_estate_is_down_40_from_peak_what/)
+- [Is Dubai Property Market Still on Fire in April-May 2026? What’s Really Happening?](https://www.reddit.com/r/dubairealestate/comments/1t55jcv/is_dubai_property_market_still_on_fire_in/)
 
 ### Others
 

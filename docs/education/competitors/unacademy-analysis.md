@@ -7,19 +7,19 @@ tags: [unacademy, test-prep, india-edtech, b2c, marketplace]
 ---
 ## Company Overview
 
-**Founded:** 2015
-**Headquarters:** Bangalore, India
-**Founders:** Gaurav Munjal (CEO), Hemesh Singh, Roman Saini
+- **Founded:** 2015
+- **Headquarters:** Bangalore, India
+- **Founders:** Gaurav Munjal (CEO), Hemesh Singh, Roman Saini
 
-**Funding:** $880M+ raised (Temasek, SoftBank, General Atlantic, Sequoia India)
-**Peak Valuation:** $3.44B (August 2021)
-**Current Valuation:** Below $500M (December 2025) - 85% decline
+- **Funding:** $880M+ raised (Temasek, SoftBank, General Atlantic, Sequoia India)
+- **Peak Valuation:** $3.44B (August 2021)
+- **Current Valuation:** Below $500M (December 2025) - 85% decline
 
-**Status:** Acquired by upGrad via share-swap deal (March 2026)
+- **Status:** Acquired by upGrad via share-swap deal (March 2026)
 
-**Revenue:** ~$100-150M estimated (2024)
-**Employees:** ~2,000 (down from ~3,500 peak after multiple layoffs)
-**Learners:** 60M+ registered users (claimed)
+- **Revenue:** ~$100-150M estimated (2024)
+- **Employees:** ~2,000 (down from ~3,500 peak after multiple layoffs)
+- **Learners:** 60M+ registered users (claimed)
 
 ## Market Position
 

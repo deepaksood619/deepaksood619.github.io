@@ -159,6 +159,7 @@ ChatDev has evolved from a specialized software development multi-agent system i
 - [GitHub - rowboatlabs/rowboat: Open-source AI coworker, with memory · GitHub](https://github.com/rowboatlabs/rowboat) ⭐ 14k
 - [IBM Bob](https://bob.ibm.com/)
 	- `curl -fsSL https://bob.ibm.com/download/bobshell.sh | bash`
+- [GitHub - InsForge/InsForge: The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end. · GitHub](https://github.com/InsForge/InsForge)
 
 ## SAAS
 

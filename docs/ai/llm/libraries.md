@@ -235,6 +235,7 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [GitHub - codejunkie99/agentic-stack: One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch. · GitHub](https://github.com/codejunkie99/agentic-stack) ⭐ 1.7k
 - [GitHub - iii-hq/iii: Effortlessly compose, extend, and observe every service in real-time for the first time ever. · GitHub](https://github.com/iii-hq/iii) ⭐ 16k
 	- [GitHub - rohitg00/agentmemory: #1 Persistent memory for AI coding agents based on real-world benchmarks · GitHub](https://github.com/rohitg00/agentmemory) ⭐ 8.5k
+- [GitHub - XortexAI/XMem: Xmem is a India's First open source multi-modal, multi-agentic long‑term memory layer for AI agents. · GitHub](https://github.com/XortexAI/Xmem) ⭐ 183
 
 ### Comparision
 

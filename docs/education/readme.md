@@ -47,6 +47,7 @@ Education is broken and it's high time to fix it.
 - [Coursera Analysis](education/competitors/coursera-analysis.md) - MOOC leader, 168M learners, $695M revenue, enterprise-first pivot
 - [edX Analysis](education/competitors/edx-analysis.md) - MIT/Harvard platform, 86M learners, 2U acquisition, bankruptcy crisis
 - [Khan Academy Analysis](education/competitors/khan-academy-analysis.md) - Free education pioneer, 150M learners, GPT-4 powered Khanmigo
+- [Brilliant Analysis](education/competitors/brilliant-analysis.md) - Interactive STEM learning, 10M users, $299.88/year, "learning by doing" (no videos), Koji AI tutor, K-12 + lifelong learners, $50M valuation (2019)
 - [freeCodeCamp Analysis](education/competitors/freecodecamp-analysis.md) - 100% free nonprofit coding education, 350K monthly users, 40K+ employed alumni, 11.3M YouTube subscribers, sustainable donation model
 
 **Technical Assessment:**
@@ -60,6 +61,7 @@ Education is broken and it's high time to fix it.
 - [Synthesis Tutor Analysis](education/competitors/synthesis-tutor-analysis.md) - Premium AI math tutor, $300-540/year, 25K families, neurodiversity focus
 - [ASI Analysis](education/competitors/asi-analysis.md) - Dubai AI-native startup, teenage founder, limited traction
 - [Alpha School Analysis](education/competitors/alpha-school-analysis.md) - 2-hour learning model, $40K/year, billionaire-backed, unvalidated claims
+- [Masters' Union Analysis](education/competitors/masters-union-analysis.md) - MBA alternative, ₹33.39L avg CTC, practical business education, ₹40-60L tuition
 
 **K-12 Tutoring:**
 
@@ -73,20 +75,19 @@ Education is broken and it's high time to fix it.
 - [Careers360 Analysis](education/competitors/careers360-analysis.md) - Career counseling & college information leader, 400M sessions/year, 18.3M monthly visits, 68.8% organic search, SEO-dominant, bootstrapped profitable, IIPM scam expose credibility, free predictor tools, multiple revenue streams
 - [Shiksha Analysis](education/competitors/shiksha-analysis.md) - Info Edge owned career portal (Naukri.com sibling), 8-12M monthly visits, 2M+ users, 35K colleges, study abroad focus (₹50K-200K fees), ecosystem integration advantage, weaker SEO than Careers360, corporate-backed
 
-**New Age Schools & Alternative Education:**
+**Working Professional Upskilling (India):**
 
-- [Masters' Union Analysis](education/competitors/masters-union-analysis.md) - MBA alternative, ₹33.39L avg CTC, practical business education, ₹40-60L tuition
+- [upGrad Analysis](education/competitors/upgrad-analysis.md) - Aggressive consolidator, acquired Unacademy (March 2026) + Internshala + 7 others, university-partnered online degrees (₹50K-5L/year), survived edtech winter, opaque pricing/outcomes
+- [GrowthSchool Analysis](education/competitors/growthschool-analysis.md) - "Become the Top 1%" premium upskilling, cohort-based programs, B2C/B2B, mentor-led, limited public data (⚠️ preliminary research)
+- [Outskill Analysis](education/competitors/outskill-analysis.md) - AI-focused fellowships/workshops/self-paced for professionals, riding ChatGPT boom, possibly same founder as GrowthSchool, limited public data (⚠️ preliminary research)
 
 **Consolidated Platform Analysis:**
 
 - [Consolidated EdTech Platforms](education/competitors/consolidated-edtech-platforms.md) - 20+ platforms: AI tutors (YouLearn, Tutor AI, Disha AI, Knowunity), edtech (Infinity Learn, Seekho, Unstop), bootcamps (Emeritus, Masai School, GrowthX), LMS (Frappe, Graphy, Edmingle)
 
-**Market Research**
+**Market Research & Technical Feasibility**
 
 - [Technical Hiring Assessment Market](education/competitors/technical-hiring-assessment-market.md) - $8-10B TAM analysis
-
-**Technical Feasibility:**
-
 - [AI Question Generation Feasibility](education/technical-feasibility-ai-question-generation.md) - Architecture, costs, implementation phases, risk analysis
 - [Adaptive Learning Platform Technical Feasibility](education/technical-feasibility-adaptive-platform.md) - Complete 2026 implementation guide: Next.js 15/React 19 stack, BKT/IRT algorithms with code, database schemas, AI question generation (Claude 3.5 Sonnet), content curation, salary intelligence APIs, $494/month MVP, 18-month roadmap, ₹4 crore → ₹129 crore ARR projection
 

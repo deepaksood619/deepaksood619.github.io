@@ -98,6 +98,7 @@ Use money to buy peace. And, use your peace to make (fewer but) better strategic
 
 ## Links
 
+- [endowment-effect](psychology/endowment-effect.md)
 - [Robert Kiyosaki From 'Rich Dad Poor Dad' Opens Up On Money, Personal Finance & More | TRS 337 - YouTube](https://www.youtube.com/watch?v=byJgRDFdUj0)
 - [The Psychology of Money : The Real Reasons You're Not Rich Yet - YouTube](https://www.youtube.com/watch?v=_5ecgEXLoCA)
 - [Can the middle-class build wealth across generations?](https://freefincal.com/can-the-middle-class-build-wealth-across-generations/)
@@ -160,3 +161,4 @@ Use money to buy peace. And, use your peace to make (fewer but) better strategic
 - [Why Hitting ₹1 Crore Doesn’t Change the Game](https://freefincal.com/why-hitting-%e2%82%b91-crore-doesnt-change-the-game/)
 - [Is it unpatriotic to buy gold and international stocks now?](https://freefincal.com/is-it-unpatriotic-to-buy-gold-and-international-stocks-now/)
 - [Narayanan's journey to Financial Independence](https://freefincal.com/narayanans-journey-to-financial-independence/)
+- [Monthly vs Annual Subscriptions: Is the Discount Really Worth It?](https://freefincal.com/monthly-vs-annual-subscriptions-is-the-discount-really-worth-it/)

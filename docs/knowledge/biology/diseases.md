@@ -352,6 +352,23 @@ Sodium Lauryl Sulfate (SLS) is a common foaming agent that often causes a burnin
 
 No. Foaming is primarily a psychological cue for "cleanliness" rather than a requirement for effective plaque removal. Many high-quality SLS-free toothpastes, like those from Sensodyne  or Curaprox, use gentler alternatives like cocamidopropyl betaine to clean just as effectively without the burn.
 
+## Ingrown Hair
+
+An ingrown hair **occurs when a shaved or waxed hair curls back or grows sideways into the skin**. It causes small, red, pimple-like bumps that may itch or hurt. Most clear up on their own, but you can speed healing and prevent them with simple care.
+
+**How to Treat an Ingrown Hair**
+
+- **Stop hair removal:** Avoid shaving, waxing, or tweezing the area until it is fully healed.
+- **Apply warmth:** Place a warm, damp washcloth over the bump for 5–10 minutes to soften the skin and help the hair loosen.
+- **Exfoliate gently:** Use a soft-bristled toothbrush or a mild scrub to gently remove dead skin cells over the bump.
+- **Guide the hair out:** If the hair tip is visible, use sterile tweezers to gently pull it out. **Do not dig** into the skin, as this can cause scarring or infection.
+
+Ingrown hairs can absolutely happen inside the nose. They usually occur when you pluck, tweeze, or wax your nasal hair, which causes the sharp edge of the remaining hair fragment to grow directly back into the delicate tissue of the nostril lining.
+
+**The Hidden Danger: The "Triangle of Death"**
+
+Medical professionals strictly warn against popping or aggressively picking at bumps inside the nose. The nose sits inside what is called the "danger triangle of the face". The veins in this specific area connect directly to the blood vessels leading to your brain. A deep bacterial infection here (like nasal vestibulitis or a furuncle) can travel backward and, in very rare cases, cause serious, life-threatening complications.
+
 ## Links
 
 [Bacterial vs. Viral Infections: What’s the Difference?](https://www.healthline.com/health/bacterial-vs-viral-infections)
