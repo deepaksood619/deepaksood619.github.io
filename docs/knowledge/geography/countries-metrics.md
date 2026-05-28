@@ -21,6 +21,11 @@
 - [List of international rankings - Wikipedia](https://en.wikipedia.org/wiki/List_of_international_rankings)
 - [Where-to-be-born Index - Wikipedia](https://en.wikipedia.org/wiki/Where-to-be-born_Index)
 - [Global Liveability Ranking - Wikipedia](https://en.wikipedia.org/wiki/Global_Liveability_Ranking)
+	- **Copenhagen** (Denmark) - Score: 98.0
+	- **Vienna** (Austria)
+	- **Zurich** (Switzerland)
+	- **Melbourne** (Australia)
+	- **Geneva** (Switzerland)
 - [List of globalization-related indices - Wikipedia](https://en.wikipedia.org/wiki/List_of_globalization-related_indices)
 - Rate of groundwater depletion by countries
 	- [Rapid groundwater decline and some cases of recovery in aquifers globally \| Nature](https://www.nature.com/articles/s41586-023-06879-8)

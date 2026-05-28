@@ -59,13 +59,13 @@ tags: [brilliant, stem-education, interactive-learning, freemium, problem-solvin
 - **Monthly:** $24.99/month ($299.88/year if paid monthly)
 - **Annual:** $299.88/year (billed as one payment, ~$25/month)
 - **Features:**
-  - Unlimited access to 90+ interactive courses
-  - No ads
-  - Personalized practice
-  - Jump ahead in courses
-  - Daily lessons
-  - New content added regularly
-  - One subscription across all devices (web, iOS, Android)
+	- Unlimited access to 90+ interactive courses
+	- No ads
+	- Personalized practice
+	- Jump ahead in courses
+	- Daily lessons
+	- New content added regularly
+	- One subscription across all devices (web, iOS, Android)
 
 **Additional Offerings:**
 
@@ -101,7 +101,7 @@ tags: [brilliant, stem-education, interactive-learning, freemium, problem-solvin
 
 ## Product Features
 
-**Course Catalog (90+ Courses):**
+### Course Catalog (90+ Courses)
 
 **Mathematics (33 courses):**
 
@@ -130,7 +130,7 @@ tags: [brilliant, stem-education, interactive-learning, freemium, problem-solvin
 - Circuits, Digital Circuits
 - Quantum Computing
 
-**Core Pedagogy: "Learn by Doing" (Not Passive Videos)**
+### Core Pedagogy: "Learn by Doing" (Not Passive Videos)
 
 **1. Interactive Visual Exercises:**
 
@@ -193,8 +193,8 @@ tags: [brilliant, stem-education, interactive-learning, freemium, problem-solvin
 **1. "Learning by Doing" Pedagogy (Unique in Market)**
 
 - Zero passive videos (vs Khan Academy, Coursera, Udemy all video-heavy)
-- Interactive problem-solving >> watching lectures
-- Research-backed: Active learning > passive learning (Bloom's 2 Sigma Problem)
+- Interactive problem-solving `>>` watching lectures
+- Research-backed: Active learning `>` passive learning (Bloom's 2 Sigma Problem)
 - Differentiator: Can't be easily copied by video-based platforms
 
 **2. Premium Brand & Educator Credibility**
@@ -229,7 +229,7 @@ tags: [brilliant, stem-education, interactive-learning, freemium, problem-solvin
 - Doesn't sell completion certificates (vs Coursera, Udacity)
 - Focus on mastery, not credentials
 - Reduces "certificate chasing" behavior
-- Pure learning motivation (intrinsic > extrinsic)
+- Pure learning motivation (intrinsic `>` extrinsic)
 
 **7. Freemium Conversion Funnel**
 
@@ -272,7 +272,7 @@ tags: [brilliant, stem-education, interactive-learning, freemium, problem-solvin
 - Leagues, streaks may alienate serious adult learners
 - Risk: Perceived as "game" not "education" by employers/universities
 - Completion != mastery (can game the system)
-- Over-optimization for engagement > learning outcomes
+- Over-optimization for engagement `>` learning outcomes
 
 **5. Expensive for Casual Learners**
 
@@ -306,18 +306,18 @@ tags: [brilliant, stem-education, interactive-learning, freemium, problem-solvin
 
 **vs Khan Academy (Closest Competitor):**
 
-| Metric | Brilliant | Khan Academy |
-|--------|-----------|--------------|
-| **Founded** | 2012 | 2008 |
-| **Users** | 10M | 150M |
-| **Pricing** | $299.88/year | Free (nonprofit) + Khanmigo $4-9/month |
-| **Format** | Interactive (no videos) | Videos + practice |
-| **Focus** | STEM depth | K-12 breadth |
-| **AI Tutor** | Koji (integrated) | Khanmigo (calculation errors per WSJ) |
-| **Gamification** | Strong (leagues, streaks) | Moderate (mastery, badges) |
-| **Outcomes** | Learning for learning | Mastery-based progression |
+| Metric           | Brilliant                 | Khan Academy                           |
+| ---------------- | ------------------------- | -------------------------------------- |
+| **Founded**      | 2012                      | 2008                                   |
+| **Users**        | 10M                       | 150M                                   |
+| **Pricing**      | $299.88/year              | Free (nonprofit) + Khanmigo $4-9/month |
+| **Format**       | Interactive (no videos)   | Videos + practice                      |
+| **Focus**        | STEM depth                | K-12 breadth                           |
+| **AI Tutor**     | Koji (integrated)         | Khanmigo (calculation errors per WSJ)  |
+| **Gamification** | Strong (leagues, streaks) | Moderate (mastery, badges)             |
+| **Outcomes**     | Learning for learning     | Mastery-based progression              |
 
-**Brilliant Advantage:** Premium positioning, interactive > passive, better AI tutor (no error reports)
+**Brilliant Advantage:** Premium positioning, interactive `>` passive, better AI tutor (no error reports)
 
 **Khan Academy Advantage:** Free, 15x user base, nonprofit trust, broader curriculum
 
@@ -334,7 +334,7 @@ tags: [brilliant, stem-education, interactive-learning, freemium, problem-solvin
 | **Credentials** | None | University certificates |
 | **Pedagogy** | Active learning | Passive watching |
 
-**Brilliant Advantage:** Interactive >> passive, higher engagement/completion, pure learning focus
+**Brilliant Advantage:** Interactive `>>` passive, higher engagement/completion, pure learning focus
 
 **MOOC Advantage:** University credentials, broader catalog, enterprise B2B, global reach
 
@@ -350,9 +350,9 @@ tags: [brilliant, stem-education, interactive-learning, freemium, problem-solvin
 | **Pedagogy** | Problem-solving | Spaced repetition |
 | **AI** | Koji tutor | GPT-4 integration |
 
-**Brilliant Advantage:** Deeper learning (problem-solving > vocabulary drills)
+**Brilliant Advantage:** Deeper learning (problem-solving `>` vocabulary drills)
 
-**Duolingo Advantage:** 2x cheaper, stronger habit formation, broader appeal (language > math)
+**Duolingo Advantage:** 2x cheaper, stronger habit formation, broader appeal (language `>` math)
 
 ---
 
@@ -388,7 +388,7 @@ tags: [brilliant, stem-education, interactive-learning, freemium, problem-solvin
 
 ## Market Strategy
 
-**Target Customer Segments:**
+### Target Customer Segments
 
 **1. Students (Grade 5 - College):**
 
@@ -413,7 +413,7 @@ tags: [brilliant, stem-education, interactive-learning, freemium, problem-solvin
 - Global English-speaking markets (US, EU, UK, Australia, India, Singapore)
 - No localized pricing (USD only) = targets developed markets primarily
 
-**Go-to-Market Channels:**
+### Go-to-Market Channels
 
 **1. Organic Growth:**
 
@@ -455,7 +455,7 @@ tags: [brilliant, stem-education, interactive-learning, freemium, problem-solvin
 
 **Common Positive Feedback (Inferred from Market Research):**
 
-- "More engaging than videos" (interactive > passive)
+- "More engaging than videos" (interactive `>` passive)
 - "Great for visual learners" (diagrams, simulations)
 - "Gamification keeps me motivated" (streaks, leagues work)
 - "Affordable vs tutoring" ($299/year vs $40-100/hr)
@@ -498,9 +498,9 @@ tags: [brilliant, stem-education, interactive-learning, freemium, problem-solvin
 
 **4. Algorithmic Adaptivity (Beyond Basic)**
 
-- Brilliant: Adaptive difficulty (basic: if correct → harder)
+- Brilliant: Adaptive difficulty (basic: if correct `→` harder)
 - You: IRT/BKT algorithms (model learner ability, question difficulty, real-time optimization)
-- **Advantage:** True personalization > rule-based adaptivity
+- **Advantage:** True personalization `>` rule-based adaptivity
 
 **5. Working Professional Focus (Not K-12)**
 
@@ -586,7 +586,7 @@ tags: [brilliant, stem-education, interactive-learning, freemium, problem-solvin
 **4. Premium Pricing Justified by Quality:**
 
 - $299/year = 3x Coursera Plus ($400/year but 1000s of courses vs 90)
-- Quality > quantity positioning works if pedagogy is superior
+- Quality `>` quantity positioning works if pedagogy is superior
 - You: $600-1,200/year = premium but justified by outcomes (salary increase)
 
 **5. STEM Focus = Niche Strength (Not Weakness):**
@@ -703,4 +703,6 @@ tags: [brilliant, stem-education, interactive-learning, freemium, problem-solvin
 
 ---
 
-**Key Takeaway:** Brilliant.org is a premium ($299.88/year) interactive STEM learning platform (10M users, $50M valuation 2019) targeting K-12 students and lifelong learners with "learning by doing" pedagogy (no videos, all interactive). Strengths: Superior engagement vs passive MOOCs, gamification, Koji AI tutor, expert-designed curriculum. Weaknesses: No outcomes tracking, K-12 focus (not working professionals), STEM-only, manual content creation bottleneck, expensive vs free alternatives. **Opportunity:** Don't compete in K-12 STEM (Brilliant's moat). Target working professionals (25-45yo) with AI-native adaptive platform, transparent salary outcomes, horizontal skills (not just STEM), enterprise B2B expansion. Brilliant moving YOUNGER (Hellosaurus acquisition) = validates they're NOT pursuing working professional market.
+**Key Takeaway:** Brilliant.org is a premium ($299.88/year) interactive STEM learning platform (10M users, $50M valuation 2019) targeting K-12 students and lifelong learners with "learning by doing" pedagogy (no videos, all interactive). Strengths: Superior engagement vs passive MOOCs, gamification, Koji AI tutor, expert-designed curriculum. Weaknesses: No outcomes tracking, K-12 focus (not working professionals), STEM-only, manual content creation bottleneck, expensive vs free alternatives.
+
+**Opportunity:** Don't compete in K-12 STEM (Brilliant's moat). Target working professionals (25-45yo) with AI-native adaptive platform, transparent salary outcomes, horizontal skills (not just STEM), enterprise B2B expansion. Brilliant moving YOUNGER (Hellosaurus acquisition) = validates they're NOT pursuing working professional market.

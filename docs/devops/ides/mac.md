@@ -148,7 +148,7 @@ Open two instance of same application - **open -n MQTT.fx.app**
 - ~~Anki Flash Cards~~ -
 - ~~Anaconda navigator~~ - [~~https://conda.anaconda.org/conda-forge/~~](https://conda.anaconda.org/conda-forge/)
 - **Bombsquad**
-- ~~Open MTP~~
+- ~~OpenMTP~~
 - ~~Android file transfer (doesn't work)~~
     - MacDroid - mac app for transfering mobile to macbook for free (not wise verse)
         - Use USB Debugging

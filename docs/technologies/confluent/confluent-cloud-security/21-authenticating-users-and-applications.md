@@ -102,3 +102,34 @@ In Confluent Cloud, the primary difference lies in the scope of access they prov
 |**Recommendation**|Use for administrative tasks|Use for production applications and services|
 
 For production use, the best practice is to use **resource-specific API keys** associated with dedicated [service accounts](https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/service-accounts/api-keys/best-practices-api-keys.html) to minimize security risks and align with the principle of least privilege. You can manage these keys via the Confluent Cloud Console, the Confluent CLI, or the Confluent Cloud APIs.
+
+## Global API Keys
+
+Global API keys simplify authentication across these Confluent Cloud resources:
+
+- Cloud Management API
+- Kafka clusters *[Enterprise](https://docs.confluent.io/cloud/current/clusters/cluster-types.html#enterprise-cluster) and [Freight](https://docs.confluent.io/cloud/current/clusters/cluster-types.html#freight-cluster) (currently private only)* [Dedicated](https://docs.confluent.io/cloud/current/clusters/cluster-types.html#dedicated-cluster) clusters (public and private)
+- Schema Registry (private networking)
+- Tableflow
+- Flink
+- ksqlDB
+
+With global API keys, you can streamline your development workflow whether you’re building new applications, managing infrastructure with Terraform, or implementing multi-cluster failover scenarios.
+
+### Note
+
+A global API key can be used across Confluent Cloud services, but it does not grant any permissions by itself. Whether the key is authorized to perform a given operation depends entirely on the [RBAC roles](https://docs.confluent.io/cloud/current/security/access-control/rbac/overview.html#cloud-rbac) and [ACLs](https://docs.confluent.io/cloud/current/security/access-control/acls/overview.html#acl-manage) assigned to the principal (user account or service account) that owns the key. Before using a global API key, ensure the owning principal has the appropriate permissions for each resource it needs to access.
+
+To reduce the scope of a global API key, create separate service accounts with only the permissions required for each use case, and create a global API key for each service account. For details, see [Service Accounts on Confluent Cloud](https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/service-accounts/overview.html#service-accounts).
+
+Each user account or service account can create only two global API keys. When only accessing a specific Confluent resource, use resource-scoped keys.
+
+### Use a global API key when
+
+- Your application accesses more than one Confluent Cloud resource type. For example, a service that reads from Kafka and queries Flink, or writes to Kafka and validates schemas against Schema Registry.
+- You are managing infrastructure with Terraform and want a single credential to configure the `confluent` provider across all resource types.
+- You are implementing multi-cluster failover and need the same key to work across multiple Kafka clusters without reconfiguration.
+- You are an admin running organization-wide workflows (for example, provisioning environments, clusters, and ACLs) and want to avoid juggling separate Cloud management and data-plane keys.
+- You are getting started with Confluent Cloud development and want to minimize the number of credentials to manage.
+
+[Use API keys on Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/security/authenticate/workload-identities/service-accounts/api-keys/overview.html)

@@ -9,7 +9,7 @@ tags: [upgrad, working-professionals, online-degrees, india-edtech, b2c, b2b, co
 ## Company Overview
 
 - **Founded:** 2015
-- **Headquarters:** Mumbai, India  
+- **Headquarters:** Mumbai, India
 - **Founder:** Ronnie Screwvala (media mogul, UTV founder)
 - **CEO:** Mayank Kumar
 

@@ -17,3 +17,4 @@
 	- [Firebolt](data-warehouses/others.md)
 	- [Doris](data-warehouses/others.md)
 - [Comparisons](data-warehouses/comparisons.md)
+- [redshift-to-snowflake-migration](data-warehouses/redshift-to-snowflake-migration.md)

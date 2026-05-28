@@ -94,8 +94,9 @@ Education is broken and it's high time to fix it.
 ### Strategic Context
 
 - [Education System](education/education-system.md) - System-level analysis
-- [Schooling](education/schooling.md) - Traditional schooling models
-- [Homeschooling](education/homeschooling.md) - Alternative education
+- [Schooling](education/pedagogy/schooling.md) - Traditional schooling models
+- [Homeschooling](education/pedagogy/homeschooling.md) - Alternative education
+- [schooling-vs-homeschooling](education/pedagogy/schooling-vs-homeschooling.md)
 - [Founder's Strategic Brief](education/founders-strategic-brief.md) - **Market entry strategy**: Hidden opportunity (MOOC collapse + AI disruption), critical insights (enterprise B2B economics, real adaptivity vs AI wrappers, outcomes-based pricing), counter-intuitive anomalies (premium beats freemium, cheap+lean beats VC-backed, bold claims work), business model fork (PLG vs Enterprise), stress test (WTP validation, AI quality, skill-salary mapping), MVI (AI question generation + algorithmic adaptivity + salary tracking = 10x economics). Recommendation: $500K-1M seed, PLG-first hybrid, 18-month path to $12M ARR.
 
 ## People
@@ -144,3 +145,5 @@ Highly personalized education for each person
 - [100xDevs](https://100xdevs.com/)
 - [Exposing 15 Education Scams in Under 15 Minutes!](https://youtu.be/wlCYE2un1dQ)
 - [⁠Inside The IIT Race: JEE, Placements & Future Of Engineering | Vishwa M...](https://youtu.be/Zmz5gE9nJqY)
+- [Mark Rober’s $60 Million Science Experiment \| TED - YouTube](https://www.youtube.com/watch?v=RDFGkBE2O50)
+	- [Class CrunchLabs: Curriculum](https://www.classcrunchlabs.org/curriculum)
