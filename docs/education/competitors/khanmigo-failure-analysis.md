@@ -297,8 +297,149 @@ Related analysis:
 
 **Duration:** ~3 years from launch to acknowledged pivot. Longer than typical startup pivot cycle, likely due to (a) nonprofit patience, (b) sunk cost (reputation bet), (c) Microsoft subsidy reducing urgency.
 
+## Teacher Perspective: Reddit r/Teachers Discussion
+
+**Source:** [Reddit thread](https://www.reddit.com/r/Teachers/comments/1squ1uh/sal_khan_admitted_khanmigo_was_a_nonevent_for/) (344 upvotes, 42 comments)
+
+### The Core Problem: "Students Aren't Great at Asking Questions Well"
+
+**Sal Khan's admission (via Chalkbeat):**
+
+> "Khanmigo was 'a non-event' for most students. They just didn't use it much."
+
+**His analogy:**
+
+> "Passive AI assistance is like a student sitting in the back of the classroom who won't raise their hand — no amount of availability changes the outcome if the kid isn't motivated or doesn't know what to ask."
+
+**Chief Learning Officer (Kristen DiCerbo):**
+
+> "Students aren't great at asking questions well."
+
+### Teacher Reactions: "We Already Knew This"
+
+**Top comment (246 upvotes):**
+
+> "So basically, kids have to be explicitly taught how to come up with and ask cogent research questions on a topic in order to effectively find information. Something I think most teachers know."
+
+**Key insight (73 upvotes):**
+
+> "'Nobody is talking about this' means 'We didn't actually ask the people who are experts in helping kids learn this what that process typically looks like.'"
+
+**The brutal truth (46 upvotes):**
+
+> "The problem with 75% of student facing ed-tech is that it assumes students are going to operate it in good faith, willing to learn. If students were willing to learn, 95% of education problems would be solved."
+
+### What Teachers Observed in Practice
+
+**Pattern 1: Self-Directed Students Don't Need It**
+
+> "The students who'd benefit most from tutoring tools are often the ones least equipped to use them independently. The kids who are already self-directed and curious? They're fine. They'll ask good questions and dig deeper. But the struggling students? They click around for two minutes, get a generic answer, and peace out."
+
+**Pattern 2: Students Use It Wrong**
+
+> "Most of these kids just copy and paste questions into ChatGPT and copy the answer word for word. Either that or they say 'I don't understand' instead of asking to be more specific."
+
+**Pattern 3: Metacognitive Skills Missing**
+
+> "You can give a kid access to the world's best AI tutor, but if they don't know what they don't understand, they won't ask. And if they do ask, it's usually surface-level."
+
+**Research validation:**
+
+> "When you ask students to formulate a question or discover a result all of their cognitive resources are expended on the search process. There's nothing left over for the learning target." - Paul Kirschner
+
+### Sal Khan Was Warned (And Ignored Teachers)
+
+**Teacher comment (17 upvotes):**
+
+> "Sal was told this multiple times from multiple experts in multiple meetings when he pushed Khanmigo on all students at his school 4 years ago."
+
+**Another teacher:**
+
+> "The bozos they sent to our campus to market it seemed like they secretly suspected this too."
+
+### The ONE Use Case That Actually Works
+
+**Teacher success story (92 upvotes):**
+
+> "The only positive use case I've found is on HW corrections. I go over common mistakes in class and leave some light annotation but some students really need a one on one back-and-forth. I tell them to take a picture of the problem and ask the AI what they did wrong and what they don't understand. **This rigid directive is the only way they actually use the AI effectively** and ensures the AI actually targets topics the student doesn't understand."
+
+**Why it works:**
+
+- **Rigid directive** (not open-ended "use AI to learn")
+- **Specific context** (HW correction, not general tutoring)
+- **Teacher scaffolding** (go over mistakes first, then AI for 1:1)
+- **Guaranteed relevance** (AI targets student's actual mistake)
+
+### What Teachers Say AI IS Good For
+
+**Working use cases:**
+
+1. **Leveling texts** - Making reading materials accessible
+2. **Breaking down syllabi** - Chunking complex requirements
+3. **Quiz/test generation** (with heavy editing) - Time saver if formatted correctly
+4. **Advanced spell check** - Grammar, clarity improvements
+
+**What doesn't work:**
+
+- Open-ended tutoring (students don't know what to ask)
+- Self-directed learning (assumes motivation exists)
+- Replacing teacher scaffolding (AI can't build metacognition)
+
+### Age-Specific Insight: Interface Barrier (6-8 Year Olds)
+
+**Parent comment:**
+
+> "My kids tried out Khanmigo story creation half a year ago, they loved it. The biggest problem, at 6 and 8, **they can't type and they don't like to use the speech interface**. So I became their 'interface' to the app. It's time consuming on my end, but I am glad to see their creativity flow."
+
+**Insight:** Even when content works, interface is barrier:
+
+- 6-8 year olds: Can't type fast enough
+- Don't like speech interface (unclear why - privacy? accuracy? awkwardness?)
+- Requires adult as "interface" (not scalable)
+
+### Teacher Sentiment on EdTech
+
+**The pattern (12 upvotes):**
+
+> "'Nobody is talking about this' equals 'nobody asked a teacher' about a program designed to teach students."
+
+**The frustration (22 upvotes):**
+
+> "I think my next job will be an education consultancy that's 100% focus groups and first-person surveys from accredited teachers who have been in a classroom in the past 5 years. Districts can pay me to ignore my research rather than ignore my bitching for free."
+
+**On Sal Khan specifically:**
+
+> "Khan, to me, has always had this tech-bro attitude and a 'saviour of the dying education system' Messiah complex. Stop blaming the system and the kids, Khan, and you'll figure out where the problem is."
+
+**The fundamental insight (46 upvotes):**
+
+> "So they discovered why the teaching profession exists?"
+
+### What This Means for Product Design
+
+**Teachers are telling us:**
+
+1. **Don't assume self-direction** - Struggling students won't use open-ended tools
+2. **Rigid `>` Flexible** - Specific directives work, open exploration fails
+3. **Scaffold, don't replace** - AI assists teacher-led instruction, doesn't replace it
+4. **Context-specific `>` General** - HW corrections work, generic tutoring doesn't
+5. **Interface matters** - Typing/speech barriers for young students
+6. **Ask teachers FIRST** - Not after product launch
+
+**The money quote:**
+
+> "If students were willing to learn, 95% of education problems would be solved."
+
+**Translation:** EdTech that assumes motivation/metacognition is DOA.
+
 ---
 
-**Evidence Quality:** Strong - Based on direct quotes from founder, leadership, and detailed NYT investigative reporting with insider access.
+**Evidence Quality:** Strong - Based on direct quotes from founder, leadership, detailed NYT investigative reporting with insider access, and frontline teacher experiences (r/Teachers community, 344 upvotes).
 
-**Last Updated:** 2026-05-29
+**Last Updated:** 2026-05-30
+
+## Links
+
+- https://www.reddit.com/r/Teachers/comments/1squ1uh/sal_khan_admitted_khanmigo_was_a_nonevent_for/
+- [Josh Tyrangiel book excerpt: How OpenAI and Khan Academy Made a Chatbot - The New York Times](https://www.nytimes.com/2026/05/16/business/tyrangiel-ai-book-openai-khan-academy-khanmigo.html)
+- [Why Sal Khan is rethinking how AI will change schools - Chalkbeat](https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/)

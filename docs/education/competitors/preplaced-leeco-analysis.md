@@ -614,8 +614,7 @@ tags: [preplaced, leeco, mentorship, job-search, ai-automation, india-market]
 
 **Other Relevant:**
 
-- [Scaler Analysis](education/competitors/scaler-analysis.md) - Mentorship + courses hybrid model (if exists)
-- [AI in Education](education/ai-in-education.md) - AI trends in edtech (if exists)
+- Scaler Analysis - Mentorship + courses hybrid model
 
 ## Key Takeaways:
 
