@@ -6,7 +6,7 @@ Education is broken and it's high time to fix it.
 
 ## Content Catalog
 
-**Current Status:** Growing (51+ files)
+**Current Status:** Growing (54+ files, 29 competitor analyses)
 
 ### Product Concepts
 
@@ -85,6 +85,8 @@ Education is broken and it's high time to fix it.
 
 **Working Professional Upskilling (India):**
 
+- **[Scaler Analysis](education/competitors/scaler-analysis.md)** - **NEW:** Premium tech upskilling, 100K+ alumni, 12-month programs (₹2-4L estimated), AI-native curriculum updated quarterly, ₹9 LPA median CTC increase, 1:1 FAANG mentors, lifelong learning model. **Lessons:** Premium positioning works (₹9L salary ROI), but 12-month commitment high barrier, opaque pricing trust issue, mentor model doesn't scale. We compete on affordability (₹50K-1L/year vs ₹2-4L), flexibility (self-paced vs 12-month), transparency (clear pricing vs opaque).
+- **[Udacity Analysis](education/competitors/udacity-analysis.md)** - **NEW (CRITICAL CASE STUDY):** Founded 2011 (Sebastian Thrun, Stanford/Google X), "lousy product" admission (2013) → pivoted MOOCs to vocational Nanodegrees, $163M funding + $1B valuation (2015) → **NEVER PROFITABLE in 13 years** → acquired by Accenture (May 2024). **Lessons:** Free → paid pivot death, self-paced = 20-40% completion → high churn, consumer → enterprise inevitable, acquisition = exit not success. Validates our thesis: MOOCs don't work, need paid-from-day-one + outcomes transparency + accountability.
 - [upGrad Analysis](education/competitors/upgrad-analysis.md) - Aggressive consolidator, acquired Unacademy (March 2026) + Internshala + 7 others, university-partnered online degrees (₹50K-5L/year), survived edtech winter, opaque pricing/outcomes
 - [GrowthSchool Analysis](education/competitors/growthschool-analysis.md) - "Become the Top 1%" premium upskilling, cohort-based programs, B2C/B2B, mentor-led, limited public data (⚠️ preliminary research)
 - [Outskill Analysis](education/competitors/outskill-analysis.md) - AI-focused fellowships/workshops/self-paced for professionals, riding ChatGPT boom, possibly same founder as GrowthSchool, limited public data (⚠️ preliminary research)
