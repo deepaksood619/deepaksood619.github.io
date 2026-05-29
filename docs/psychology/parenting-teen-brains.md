@@ -80,11 +80,10 @@ Under the CPS framework, defiant acts are categorized simply as forms of communi
 The parental intervention requires completely abandoning the use of "Plan A" (the unilateral imposition of adult will and reliance on reward/punishment procedures), which inevitably escalates conflict. Instead, parents are taught to utilize "Plan B," a structured, collaborative problem-solving approach consisting of three distinct steps :
 
 1. **The Empathy Step:** The parent gathers information without judgment or assumption to understand exactly what is making it difficult for the adolescent to meet a specific expectation. This requires active listening to validate the teenager's underlying concerns.
-    
+
 2. **Define Adult Concerns:** Once the teen's perspective is fully understood, the parent introduces their own rational concerns regarding the unsolved problem, focusing purely on how the behavior impacts the teen's health, safety, or the family system.
-    
+
 3. **The Invitation Step:** The parent and teenager brainstorm collaboratively to formulate a realistic, mutually satisfactory solution that addresses the concerns of both parties and is something the adolescent can actually perform.
-    
 
 By treating the teenager as a collaborator rather than a subordinate, the CPS model reduces power struggles, validates the adolescent's psychological need for autonomy (satisfying Erikson's developmental mandates), and proactively builds the executive functioning skills the adolescent currently lacks.
 
@@ -110,30 +109,28 @@ Validation serves a profound neurobiological function: it immediately reduces em
 To help teenagers weather emotional crises without resorting to impulsive defiance, self-harm, or destructive behavior, parents can coach them in specific Distress Tolerance and Emotion Regulation skills.
 
 - **TIPP:** This is a fast-acting, body-based intervention designed to rapidly down-regulate the nervous system when emotions spike dangerously high. It stands for **T**emperature (splashing cold water on the face or holding an ice pack to trigger the mammalian dive reflex, which instantly slows the heart rate), **I**ntense exercise (30-60 seconds of jumping jacks to burn off adrenaline), **P**aced breathing (inhaling for 4 seconds, exhaling for 6 seconds to activate the parasympathetic nervous system), and **P**rogressive muscle relaxation (tensing and releasing muscle groups).
-    
+
 - **Riding the Wave:** Teenagers frequently fear that a massive emotional wave will last forever, which causes panic and exacerbates the intensity of the feeling. Riding the Wave teaches the adolescent that emotions are not permanent states but biological waves that rise, peak, and inevitably fall. By naming the emotion, rating it on a scale of 0-10, and observing it for five minutes without acting on it, the teen builds resilience against impulsivity and learns they can survive discomfort.
-    
+
 - **Radical Acceptance:** This skill involves fully acknowledging reality exactly as it is, even when it is profoundly unfair or painful. It does not mean approving of the reality; it simply means stopping the futile fight against facts that cannot be changed (e.g., a poor grade, a friendship ending, a coach's decision). When adolescents fight reality, their suffering multiplies into anger and defiance. Radical acceptance lowers this intensity, freeing up cognitive energy for constructive problem-solving.
-    
 
 #### Interpersonal Effectiveness: The DEAR MAN Framework
 
 To transition teenagers away from adamant demands, explosions, or silent withdrawal, and toward mature negotiation, parents can teach and model the DEAR MAN framework. This interpersonal effectiveness skill provides a highly structured methodology for asserting needs respectfully and maintaining relationships during conflict.
 
 - **D**escribe the situation strictly using simple, non-judgmental facts, omitting any emotional accusations.
-    
+
 - **E**xpress feelings and opinions using "I" statements rather than assigning blame (e.g., "I feel overwhelmed when the kitchen is messy," rather than "You are a slob").
-    
+
 - **A**ssert the specific request or boundary clearly and directly, without expecting the other person to read minds.
-    
+
 - **R**einforce the request by explaining the mutual benefits to the other party, clarifying what is in it for them.
-    
+
 - **M**indful focus on the goal, ignoring distractions, provocations, or attempts by the other party to change the subject.
-    
+
 - **A**ppear confident through upright posture, steady eye contact, and an un-apologetic tone of voice.
-    
+
 - **N**egotiate by remaining flexible and willing to compromise if the exact request cannot be met.
-    
 
 ### Implementing Constructive Consequences and Selective Attention
 

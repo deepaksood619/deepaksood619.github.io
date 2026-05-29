@@ -22,6 +22,12 @@ repos:
         - id: markdownlint-fix
     - repo: local
       hooks:
+        - id: check-markdown-links
+          name: check-markdown-links
+          entry: check-markdown-links.sh
+          language: script
+          pass_filenames: false
+          files: \.md$
         - id: docusaurus-mdx-checker
           name: docusaurus-mdx-checker
           entry: docusaurus-mdx-checker.sh
