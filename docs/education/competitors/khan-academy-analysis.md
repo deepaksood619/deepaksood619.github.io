@@ -157,6 +157,12 @@ Khan Academy originated from Sal Khan's informal YouTube tutoring videos for his
 - Personalized to student's learning history
 - Seamless within existing Khan Academy interface
 
+**⚠️ UPDATE (May 2026): Khanmigo Pivot Announced**
+
+Sal Khan announced on LinkedIn that Khan Academy is "rebuilding" its platform based on the insight that "learning still happens through practice, with teachers at the center. AI can help when a student is stuck, but it works best as part of a broader instructional experience." This signals a strategic pivot away from standalone AI tutoring toward AI-enhanced practice systems.
+
+**See:** [Khanmigo Failure Analysis](education/competitors/khanmigo-failure-analysis.md) - Detailed post-mortem on why the standalone AI tutor model failed: product-market misfit (students wanted answers, not tutoring), wrong user focus (teachers were better users than students), technical instability, engagement failure. Khan Academy's new product launches "months away."
+
 ### 3. Khan Lab School (Physical School)
 
 **Opened:** 2014 | **Location:** Mountain View, California
@@ -414,12 +420,15 @@ Khan Academy originated from Sal Khan's informal YouTube tutoring videos for his
 - Technology stack aging vs modern startups
 - Limited marketing budget
 
-**3. AI Accuracy Issues**
+**3. AI Accuracy Issues & Product Pivot (2026)**
 
 - Khanmigo calculation errors (WSJ 2024 report)
 - GPT-4 hallucination risks in educational context
 - Teacher skepticism about AI reliability
-- Still experimental, not production-grade for all use cases
+- **Strategic pivot announced (May 2026):** Khan Academy "rebuilding" platform after recognizing standalone AI tutor model didn't work
+- Core failure: Students wanted quick answers, not Socratic tutoring; teachers were better users than students
+- New approach: AI embedded in practice systems, not separate chatbot
+- **See:** [Khanmigo Failure Analysis](education/competitors/khanmigo-failure-analysis.md) for detailed post-mortem
 
 **4. Teacher Tools Less Robust**
 
@@ -865,6 +874,7 @@ Khan Academy originated from Sal Khan's informal YouTube tutoring videos for his
 
 ## Related Research
 
+- [Khanmigo Failure Analysis](education/competitors/khanmigo-failure-analysis.md) - **NEW (May 2026):** Why Khan Academy's AI tutor failed and what they're building instead
 - [CodeSignal Analysis](education/competitors/codesignal-analysis.md) - AI-native technical assessment
 - [Coursera Analysis](education/competitors/coursera-analysis.md) - MOOC enterprise leader
 - [adaptive-learning-platform](education/pedagogy/adaptive-learning-platform.md) - Working professional focus

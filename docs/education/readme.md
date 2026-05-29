@@ -6,7 +6,7 @@ Education is broken and it's high time to fix it.
 
 ## Content Catalog
 
-**Current Status:** Growing (50+ files)
+**Current Status:** Growing (51+ files)
 
 ### Product Concepts
 
@@ -46,9 +46,13 @@ Education is broken and it's high time to fix it.
 
 - [Coursera Analysis](education/competitors/coursera-analysis.md) - MOOC leader, 168M learners, $695M revenue, enterprise-first pivot
 - [edX Analysis](education/competitors/edx-analysis.md) - MIT/Harvard platform, 86M learners, 2U acquisition, bankruptcy crisis
-- [Khan Academy Analysis](education/competitors/khan-academy-analysis.md) - Free education pioneer, 150M learners, GPT-4 powered Khanmigo
+- [Khan Academy Analysis](education/competitors/khan-academy-analysis.md) - Free education pioneer, 150M learners, GPT-4 powered Khanmigo (see Khanmigo failure analysis below)
 - [Brilliant Analysis](education/competitors/brilliant-analysis.md) - Interactive STEM learning, 10M users, $299.88/year, "learning by doing" (no videos), Koji AI tutor, K-12 + lifelong learners, $50M valuation (2019)
 - [freeCodeCamp Analysis](education/competitors/freecodecamp-analysis.md) - 100% free nonprofit coding education, 350K monthly users, 40K+ employed alumni, 11.3M YouTube subscribers, sustainable donation model
+
+**Online Degree Programs (India):**
+
+- [IIT Madras Online BS Degree Analysis](education/competitors/iit-madras-online-bs-degree.md) - India's first online BS degree from IIT, 36K+ students, Data Science focus, 4-tier stackable credentials (Foundation → Diploma → BSc → BS), asynchronous learning + in-person exams, 17-81 age range, 850+ to grad schools, 20+ in GATE top 100, ₹2-3L total cost, qualifier system, peer TAs, 2K+ free scholarships
 
 **Technical Assessment:**
 
@@ -62,6 +66,10 @@ Education is broken and it's high time to fix it.
 - [ASI Analysis](education/competitors/asi-analysis.md) - Dubai AI-native startup, teenage founder, limited traction
 - [Alpha School Analysis](education/competitors/alpha-school-analysis.md) - 2-hour learning model, $40K/year, billionaire-backed, unvalidated claims
 - [Masters' Union Analysis](education/competitors/masters-union-analysis.md) - MBA alternative, ₹33.39L avg CTC, practical business education, ₹40-60L tuition
+
+**Case Studies & Post-Mortems:**
+
+- [Khanmigo Failure Analysis](education/competitors/khanmigo-failure-analysis.md) - Why Khan Academy's AI tutor failed: product-market misfit (students want answers, not tutoring), wrong user focus (teachers `>` students), technical instability (GPT-4 hallucinations), partnership dysfunction (OpenAI chaos), engagement failure. Core insight: "Learning happens through practice, with teachers at center" - AI as complement, not replacement. Khan Academy rebuilding from scratch (2026). **Lessons:** User incentives trump pedagogy, standalone AI chatbots don't transform workflows, embed AI in practice systems not separate interfaces
 
 **K-12 Tutoring:**
 
@@ -80,6 +88,7 @@ Education is broken and it's high time to fix it.
 - [upGrad Analysis](education/competitors/upgrad-analysis.md) - Aggressive consolidator, acquired Unacademy (March 2026) + Internshala + 7 others, university-partnered online degrees (₹50K-5L/year), survived edtech winter, opaque pricing/outcomes
 - [GrowthSchool Analysis](education/competitors/growthschool-analysis.md) - "Become the Top 1%" premium upskilling, cohort-based programs, B2C/B2B, mentor-led, limited public data (⚠️ preliminary research)
 - [Outskill Analysis](education/competitors/outskill-analysis.md) - AI-focused fellowships/workshops/self-paced for professionals, riding ChatGPT boom, possibly same founder as GrowthSchool, limited public data (⚠️ preliminary research)
+- [Preplaced + Leeco Analysis](education/competitors/preplaced-leeco-analysis.md) - Two-product ecosystem: Preplaced (600+ MAANG mentors, 1:1 long-term mentorship, "30% cheaper, 4x better results") + Leeco.ai (AI job search autopilot, WhatsApp-based, referral automation claims 70% higher success), India-focused B2C, undisclosed funding/pricing, scalability challenges with 1:1 model
 
 **Consolidated Platform Analysis:**
 

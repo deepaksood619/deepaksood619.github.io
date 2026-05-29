@@ -2,17 +2,17 @@
 
 ## Broker Configurations
 
-|**Configuration**|**Description**|
-|---|---|
-|**`log.retention.hours`**|The number of hours to keep a log file before deleting it (default is 168 hours / 7 days).|
-|**`log.retention.bytes`**|The maximum size of the log before messages are deleted (applied per partition).|
-|**`default.replication.factor`**|The default number of replicas created for automatically created topics.|
-|**`num.partitions`**|The default number of log partitions per topic if not specified at creation.|
-|**`min.insync.replicas`**|The minimum number of replicas that must acknowledge a write for it to be considered successful (critical for durability).|
-|**`auto.create.topics.enable`**|If true, enables automatic creation of topics when producers write to them (often set to false in production).|
-|**`advertised.listeners`**|The hostname and port the broker advertises to clients (producers/consumers) to connect to.|
-|**`log.segment.bytes`**|The maximum size of a single log file segment; once reached, a new segment is created.|
-|**`unclean.leader.election.enable`**|Indicates whether out-of-sync replicas can become leaders, trading data consistency for availability (default is false).|
+| **Configuration**                    | **Description**                                                                                                            |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| **`log.retention.hours`**            | The number of hours to keep a log file before deleting it (default is 168 hours / 7 days).                                 |
+| **`log.retention.bytes`**            | The maximum size of the log before messages are deleted (applied per partition).                                           |
+| **`default.replication.factor`**     | The default number of replicas created for automatically created topics.                                                   |
+| **`num.partitions`**                 | The default number of log partitions per topic if not specified at creation.                                               |
+| **`min.insync.replicas`**            | The minimum number of replicas that must acknowledge a write for it to be considered successful (critical for durability). |
+| **`auto.create.topics.enable`**      | If true, enables automatic creation of topics when producers write to them (often set to false in production).             |
+| **`advertised.listeners`**           | The hostname and port the broker advertises to clients (producers/consumers) to connect to.                                |
+| **`log.segment.bytes`**              | The maximum size of a single log file segment; once reached, a new segment is created.                                     |
+| **`unclean.leader.election.enable`** | Indicates whether out-of-sync replicas can become leaders, trading data consistency for availability (default is false).   |
 
 ## Producer Configurations
 
@@ -34,16 +34,28 @@
 
 ## Consumer Configurations
 
-| **Configuration**           | **Description**                                                                                                                 |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| **`group.id`**              | A unique string that identifies the consumer group this consumer belongs to.                                                    |
-| **`auto.offset.reset`**     | What to do when there is no initial offset in Kafka or if the current offset does not exist (`earliest` or `latest`).           |
-| **`enable.auto.commit`**    | If true, the consumer's offset will be periodically committed in the background.                                                |
-| **`max.poll.records`**      | The maximum number of records returned in a single call to `poll()`.                                                            |
-| **`session.timeout.ms`**    | The maximum time the broker waits for a heartbeat before considering the consumer dead and rebalancing the group.               |
-| **`heartbeat.interval.ms`** | The expected time between heartbeats to the consumer coordinator (must be lower than `session.timeout.ms`).                     |
-| **`fetch.min.bytes`**       | The minimum amount of data the server should return for a fetch request (helps reduce request overhead).                        |
-| **`isolation.level`**       | Controls how transactional messages are read (`read_committed` skips aborted transactions, `read_uncommitted` sees everything). |
+| **Configuration**             | **Description**                                                                                                                                                                                                                                                                                                |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **`group.id`**                | A unique string that identifies the consumer group this consumer belongs to.                                                                                                                                                                                                                                   |
+| **`auto.offset.reset`**       | What to do when there is no initial offset in Kafka or if the current offset does not exist (`earliest` or `latest`).                                                                                                                                                                                          |
+| **`enable.auto.commit`**      | If true, the consumer's offset will be periodically committed in the background.                                                                                                                                                                                                                               |
+| **`auto.commit.interval.ms`** | sets the frequency in milliseconds at which a consumer automatically saves its processing position (offsets) back to the cluster. This configuration only takes effect if automatic offset management is enabled by setting enable.auto.commit to true. **Default Value**: **5,000 milliseconds (5 seconds)**. |
+| **`max.poll.records`**        | The maximum number of records returned in a single call to `poll()`.                                                                                                                                                                                                                                           |
+| **`session.timeout.ms`**      | The maximum time the broker waits for a heartbeat before considering the consumer dead and rebalancing the group.                                                                                                                                                                                              |
+| **`heartbeat.interval.ms`**   | The expected time between heartbeats to the consumer coordinator (must be lower than `session.timeout.ms`).                                                                                                                                                                                                    |
+| **`fetch.min.bytes`**         | The minimum amount of data the server should return for a fetch request (helps reduce request overhead).                                                                                                                                                                                                       |
+| **`isolation.level`**         | Controls how transactional messages are read (`read_committed` skips aborted transactions, `read_uncommitted` sees everything).                                                                                                                                                                                |
+
+- **`KAFKA_FETCH_MIN_BYTES` is effectively applied first.** It controls when the **broker responds to a fetch request**: the broker waits until at least that many bytes are available, or until `fetch.max.wait.ms` expires.
+- **`KAFKA_MAX_POLL_RECORDS` is applied later**, when your consumer calls `poll()`. It only limits how many records are **returned to your application in one poll call**.
+- Most importantly, **`max.poll.records` does not change the underlying fetch behavior**. Kafka can fetch more data, cache it on the consumer side, and then hand it back across multiple `poll()` calls incrementally.
+
+### Mental model
+
+1. Consumer sends **fetch** request
+2. Broker evaluates **`fetch.min.bytes`** (and `fetch.max.wait.ms`)
+3. Consumer receives/fetches data into its local buffer
+4. `poll()` returns up to **`max.poll.records`** to your app
 
 ## Common / Client Configurations
 

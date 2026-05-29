@@ -111,6 +111,14 @@ Periodically check: contradictions, stale claims, orphans, broken links, dead-en
 - NOT: `[Market Analysis](../competitors/technical-hiring-assessment-market.md)`
 - Reason: Docusaurus builds work better with full paths from `/docs/` directory
 
+**CRITICAL: Only Link to Existing Files:**
+
+- **Never create links to files that don't exist yet**
+- Before adding cross-reference links, verify the target file exists using `find`, `ls`, or Obsidian CLI
+- If a concept deserves a link but the file doesn't exist, then just add texts and inform in summary that these more files can be created
+- Broken links cause Docusaurus build failures (`onBrokenLinks: 'throw'`)
+- Use Obsidian CLI `unresolved` command to check for broken links: `/Applications/Obsidian.app/Contents/MacOS/Obsidian unresolved vault="$VAULT"`
+
 ### Research Paper Template
 
 ```markdown

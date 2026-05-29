@@ -65,4 +65,5 @@ The KafkaProducer can be used across threads without issue, unlike the KafkaCons
 
 ## Other Kafka Clients
 
-[Java Client for Apache Kafka | Confluent Documentation](https://docs.confluent.io/kafka-clients/java/current/overview.html)
+- [confluent-kafka](technologies/confluent/confluent-kafka.md)
+- [Java Client for Apache Kafka | Confluent Documentation](https://docs.confluent.io/kafka-clients/java/current/overview.html)

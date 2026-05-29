@@ -33,6 +33,13 @@
 - [Careers360 Analysis](education/competitors/careers360-analysis.md) - Career counseling & college information leader, 400M sessions/year, 18.3M monthly visits, 68.8% organic search, SEO-dominant, bootstrapped profitable, IIPM scam expose credibility, free predictor tools, multiple revenue streams
 - [Shiksha Analysis](education/competitors/shiksha-analysis.md) - Info Edge owned career portal (Naukri.com sibling), 8-12M monthly visits, 2M+ users, 35K colleges, study abroad focus (₹50K-200K fees), ecosystem integration advantage, weaker SEO than Careers360, corporate-backed
 
+## Working Professional Upskilling (India)
+
+- [upGrad Analysis](education/competitors/upgrad-analysis.md) - Aggressive consolidator, acquired Unacademy (March 2026) + Internshala + 7 others, university-partnered online degrees (₹50K-5L/year), survived edtech winter, opaque pricing/outcomes
+- [GrowthSchool Analysis](education/competitors/growthschool-analysis.md) - "Become the Top 1%" premium upskilling, cohort-based programs, B2C/B2B, mentor-led, limited public data (⚠️ preliminary research)
+- [Outskill Analysis](education/competitors/outskill-analysis.md) - AI-focused fellowships/workshops/self-paced for professionals, riding ChatGPT boom, possibly same founder as GrowthSchool, limited public data (⚠️ preliminary research)
+- [Preplaced + Leeco Analysis](education/competitors/preplaced-leeco-analysis.md) - Two-product ecosystem: Preplaced (600+ MAANG mentors, 1:1 long-term mentorship, "30% cheaper, 4x better results") + Leeco.ai (AI job search autopilot, WhatsApp-based, referral automation claims 70% higher success), India-focused B2C, undisclosed funding/pricing, scalability challenges with 1:1 model
+
 ## New Age Schools & Alternative Education
 
 - [Masters' Union Analysis](education/competitors/masters-union-analysis.md) - MBA alternative, ₹33.39L avg CTC, practical business education, ₹40-60L tuition

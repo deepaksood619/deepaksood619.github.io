@@ -23,6 +23,17 @@
 - hot vs cold storage in partitions
 - fetch from replica instead of leader
 
+## kafka-python vs confluent-kafka
+
+|Aspect|kafka-python|confluent-kafka|
+|---|---|---|
+|Core implementation|Pure Python (generally simpler to reason about)|Python bindings over **librdkafka**.|
+|Performance|Usually fine for low/moderate workloads|Better fit for **high-throughput / production** workloads.|
+|Confluent ecosystem|Basic Kafka client usage|Stronger fit for **Confluent Cloud**, **Confluent Platform**, **Schema Registry**, and admin APIs.|
+|Async support|Separate ecosystem choices often used|Has **AsyncIO** support in the client/examples.|
+|Advanced features|More limited|Docs/examples call out **transactions**, **exactly-once semantics**, and richer enterprise features.|
+|Install experience|Easier if you want no native client dependency|Uses bundled/prebuilt **librdkafka** wheels in normal installs.|
+
 ## Confluent kafka-python
 
 ```bash
@@ -136,6 +147,7 @@ p.flush()
 
 ## Resources
 
+- [kafka-python](technologies/kafka/kafka-python.md)
 - [Confluent Developer - YouTube](https://www.youtube.com/@ConfluentDeveloper)
 - [Confluent - YouTube](https://www.youtube.com/@Confluent)
 - https://github.com/confluentinc/confluent-kafka-python
