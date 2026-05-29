@@ -37,7 +37,24 @@
 - 9 am to 11.30 pm -- during day light savings time - March to November
 - 9 am to 11.55 pm -- November to March
 
+Commodity traders don’t wait for weekly government reports. By the time official inventory data is released, the smart money has already acted.
+So how do traders get ahead of the market? Alternative data, specifically, shadows from space.
+
+Most crude oil storage tanks have floating roofs that rest directly on top of the oil.
+
+When oil is withdrawn, the roof sinks lower.
+
+As the roof drops, the tank walls cast a longer internal shadow.
+Instead of relying on delayed public reports, hedge funds and trading firms use high-resolution satellites and AI to monitor thousands of tanks around the world in near real time.
+
+📉 Longer shadow = the tank is being emptied
+📈 Shorter shadow = the tank is being filled
+
+By tracking these shadow changes globally, they can estimate real oil inventories days before the broader market catches up.
+
 Bulls make money, bears make money, but pigs get slaughtered.
+
+[Commodity traders don’t wait for weekly government reports. By the time official inventory data is released, the smart money has already acted. So how do traders get ahead of the market? Alternative… \| Mario Munoz Serrano](https://www.linkedin.com/posts/mario-mu%C3%B1oz-serrano_commodity-traders-dont-wait-for-weekly-government-activity-7465723037145841664-TkRO)
 
 ## Apps / Tools
 

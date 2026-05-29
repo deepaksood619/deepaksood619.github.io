@@ -109,11 +109,10 @@ Because sociological researchers cannot ethically or practically assign children
 In their 2020 exhaustive literature review, researchers Robert Kunzman and Milton Gaither identified three persistent, fatal flaws in modern socialization studies that prevent broad generalization:
 
 1. **Volunteer Sampling Bias:** Studies almost exclusively rely on volunteer samples. This chronically overrepresents families who are highly motivated, successful, heavily engaged, and eager to prove the efficacy of the homeschooling movement to the broader public. Conversely, the families who are failing to socialize their children, or who are using homeschooling to mask neglect, are the least likely to voluntarily participate in sociological surveys.
-    
+
 2. **Reliance on Subjective Self-Reports:** The vast majority of available data relies entirely on the unverified self-reports of home educators and the students themselves, rather than utilizing neutral, objective third-party assessments of children's actual social behaviors in uncontrolled, real-world environments.
-    
+
 3. **The Binary Treatment of Attendance:** Research typically treats schooling as a strict, mutually exclusive binary—a child is categorized as either "homeschooled" or "public schooled". This gross oversimplification completely ignores the modern, nuanced reality of hybrid schooling, where a child may be homeschooled but take community college classes, participate in public school band and athletic programs, or attend part-time academic co-ops.
-    
 
 Because homeschooling is not a monolith, comparing "homeschoolers" as a unified cohort to "public schoolers" yields very little actionable data for policymakers or parents. A homeschooled student who is actively engaged in municipal sports, competitive debate, and a diverse academic cooperative has a fundamentally different socialization trajectory than a child isolated at home with zero extracurricular involvement.
 
@@ -144,13 +143,12 @@ When the Homeschool Alumni Reaching Out (HARO) organization conducted a comprehe
 The most scientifically rigorous and illuminating data emerges from the Cardus Education Survey (CES), conducted across multiple iterations (2011, 2014, 2018, 2023). Crucially, the CES utilized a randomly selected, nationally representative sample, largely bypassing the volunteer bias that plagues other studies. The CES disaggregated respondents into short-term (1-2 years), medium-term (3-7 years), and long-term (8+ years) homeschoolers, presenting a highly complex picture of adult outcomes, particularly regarding religious homeschoolers :
 
 - **Educational and Economic Attainment:** The CES found that medium-term homeschoolers had the highest likelihood of being unemployed and the highest likelihood of not pursuing post-secondary education compared to non-homeschoolers. Household incomes were also generally lower overall for adults who were ever homeschooled. Furthermore, though positive about their academic abilities, American religious homeschool graduates were less likely than public school graduates to obtain quality higher education.
-    
+
 - **Mental Health and Societal Outlook:** Compared to conventionally schooled peers, homeschool graduates were significantly more likely to report a "lack of clarity of goals and sense of direction" and "feelings of helplessness in dealing with life's problems". They also exhibited a strict, legalistic moral outlook and a deep, pervasive distrust of broader social institutions and secular organizations.
-    
+
 - **Family Formation and Relationships:** Conversely, despite their struggles with secular institutional integration, homeschool graduates reported feeling deeply "prepared for relationships". Long-term homeschoolers exhibited exceptionally strong family formation outcomes: they were significantly more likely to be married, had stable marriages with a divorce rate approximately half that of short-term homeschoolers, and had more children on average (1.23 children per respondent) than conventionally schooled adults (0.84 children).
-    
+
 - **Civic and Religious Life:** Homeschool graduates demonstrated incredibly vibrant religious lives. They were far more likely to espouse evangelical beliefs, believe in traditional gender roles, and heavily engage in religious practices. They demonstrated high group involvement at the local level and high rates of charitable giving, specifically being.75 points more willing to tithe and 1.25 points more likely to contribute to a religious congregation, while simultaneously being.7 points less likely to donate to any secular organization.
-    
 
 A separate study conducted by Hamlin and Cheng (2021) utilizing both qualitative and quantitative data found no statistical differences on four major social and life outcomes (college attendance, household income, marital status, and subjective wellbeing) between short-term homeschoolers and long-term/substantial homeschoolers. However, their qualitative interviews heavily underscored the importance of the homeschooling parent being fiercely intentional about facilitating social experiences, recognizing that indifferent parenting leads to severe social deprivation.
 

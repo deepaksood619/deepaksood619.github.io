@@ -108,7 +108,7 @@ For production use, the best practice is to use **resource-specific API keys**�
 Global API keys simplify authentication across these Confluent Cloud resources:
 
 - Cloud Management API
-- Kafka clusters *[Enterprise](https://docs.confluent.io/cloud/current/clusters/cluster-types.html#enterprise-cluster) and [Freight](https://docs.confluent.io/cloud/current/clusters/cluster-types.html#freight-cluster) (currently private only)* [Dedicated](https://docs.confluent.io/cloud/current/clusters/cluster-types.html#dedicated-cluster) clusters (public and private)
+- Kafka clusters _[Enterprise](https://docs.confluent.io/cloud/current/clusters/cluster-types.html#enterprise-cluster) and [Freight](https://docs.confluent.io/cloud/current/clusters/cluster-types.html#freight-cluster) (currently private only)_ [Dedicated](https://docs.confluent.io/cloud/current/clusters/cluster-types.html#dedicated-cluster) clusters (public and private)
 - Schema Registry (private networking)
 - Tableflow
 - Flink

@@ -1,9 +1,10 @@
 # Travelling
 
-Every weekend shouldn't be a party
-Once a year trip plan
+Every weekend shouldn't be a party. Once a year trip plan
 
 Slow thoughtful life, rather than party life
+
+For me experiences matter far more than anything else and that too experience is with people rather than just going somewhere and seeing places. Travel when younger kid turns 2 and above.
 
 ## Case Against Travel
 

@@ -28,6 +28,7 @@
 - [Parenting](parenting)
 	- [parenting-physical](psychology/parenting-physical.md)
 	- [educational-youtube-curriculum-for-kids](psychology/educational-youtube-curriculum-for-kids.md)
+	- [parenting-teen-brains](psychology/parenting-teen-brains.md)
 - [Pesonality](psychology/personality.md)
 - [Research](research)
 - [Brain](brain)

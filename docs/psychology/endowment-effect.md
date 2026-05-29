@@ -1,4 +1,4 @@
-## Endowment Effect
+# Endowment Effect
 
 You tend to value more if you own the item, then if you have to buy that item
 

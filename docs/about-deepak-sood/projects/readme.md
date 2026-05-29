@@ -88,6 +88,7 @@
 - [Stashfin Devops Overhaul](about-deepak-sood/projects/89-stashfin-devops-overhaul.md) (Feb'20 - Jan'21)
 - [Stashfin Tech Stack / Infra](about-deepak-sood/projects/90-stashfin-tech-stack-infra.md) (Feb'20 - Feb'23)
 - [Stashfin AIML Use Cases & Implementation](about-deepak-sood/projects/91-stashfin-aiml-use-cases.md) (Feb'20 - Feb'23)
+- [Stashfin: Redshift to Snowflake Migration](about-deepak-sood/projects/92-stashfin-redshift-to-snowflake-migration.md)
 
 ### Zenatix (Aug'17 - Jan'20)
 

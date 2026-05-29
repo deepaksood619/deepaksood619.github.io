@@ -38,7 +38,7 @@ Microproducts - [How I Sold My App For $30,000 In 4 Days | GrowthX Insider - You
 - Subjective Paper scoring using chatgpt
     - Coding using chatgpt and not only coding for functions but full repositories. Having context of whole repository and tell which file and what line to change
 - During interviews, automatic captions can be sent to chatgpt for giving answers directly
-- Ai hiring - Hiring Portal
+- AI hiring - Hiring Portal
     - Candidates agreement using ai
     - Coding test taking platform end to end, free of cost, very cost competitive
     - Something like Turing
@@ -48,6 +48,10 @@ Microproducts - [How I Sold My App For $30,000 In 4 Days | GrowthX Insider - You
     - [Interviews by AI \| AI-powered Interview Preparation](https://interviewsby.ai/)
     - [AI Resume Creation & Interview Preparation \| CareerElite](https://careerelite.ai/)
     - [UnchartedCareer](https://unchartedcareer.com/)
+    - hiring agent
+	    - sift through linkedin, naukri, etc
+	    - call to get expectations
+	    - do or setup interviews
 - One time payment ChatGPT (API sharing agreement)
 
 #### AI Manager

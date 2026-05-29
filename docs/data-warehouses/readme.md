@@ -17,4 +17,5 @@
 	- [Firebolt](data-warehouses/others.md)
 	- [Doris](data-warehouses/others.md)
 - [Comparisons](data-warehouses/comparisons.md)
+	- [databricks-vs-snowflake](data-warehouses/databricks-vs-snowflake.md)
 - [redshift-to-snowflake-migration](data-warehouses/redshift-to-snowflake-migration.md)

@@ -321,6 +321,8 @@ Parental role abdication refers to **a dysfunction where parents relinquish thei
 
 ### Links
 
+- [parenting-physical](psychology/parenting-physical.md)
+- [parenting-teen-brains](psychology/parenting-teen-brains.md)
 - [Games - Kids](knowledge/games/kid-games.md)
 - [Colin Powell: Kids need structure | TED - YouTube](https://www.youtube.com/watch?v=NhYnouvrG_8&ab_channel=TED)
 - [Indian Parents , Their Pravachan And An Important Parenting Tip - YouTube](https://www.youtube.com/watch?v=Sjttt-F2pXE)

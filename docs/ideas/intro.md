@@ -108,7 +108,7 @@ There are three common ways to come up with an idea:
 
 ![image](../media/Ideas-Intro-image2.jpg)
 
-### Stealth Startup
+## Stealth Startup
 
 A stealth startup is a startup company that operates in stealth mode, i.e. that avoids public attention. This may be done to hide information from competitors, or - as part of a marketing strategy - to manage public image. The phenomenon is well known in the venture capital (VC) community. Normally a company would only operate in stealth mode for the first couple of years. As investors may have to disclose funding a stealth startup, their names are made public, but often only a general summary description is known about the company. "Most entrepreneurs say they are in stealth because they are worried about competitors stealing their ideas. This can be a risk if you have such a simple idea that just by hearing it, someone can replicate it."​
 
