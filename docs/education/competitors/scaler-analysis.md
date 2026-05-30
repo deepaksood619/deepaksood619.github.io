@@ -943,6 +943,7 @@ Our founder must do the same: **Build credibility in public** (YouTube, Twitter,
 ## Sources
 
 - https://www.scaler.com
+- https://www.scaler.com/mentor/
 - Scaler Academy programs (accessed 2026-05-30)
 - Company ISO 27001 certification (mentioned on site)
 - Recent partnerships: IIT Roorkee (March 2026), ADGM Abu Dhabi, Google for Startups (April 2026)

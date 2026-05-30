@@ -191,7 +191,7 @@ How this research informs product decisions
 
 **MDX compatibility (CRITICAL):**
 
-- Escape `<`, `>` and `→` symbols with backticks: `<50` employees, `>100` users, A `→` B
+- Escape `<` and `>` symbols with backticks: `<50` employees, `>100` users
 - Don't use `[]` square brackets without escape (used for links/anchor tags)
 - These symbols are parsed as JSX/HTML tags in MDX and will break the build
 

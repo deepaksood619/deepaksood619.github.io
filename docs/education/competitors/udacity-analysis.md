@@ -6,19 +6,13 @@
 
 ## Executive Summary
 
-**Category:** Vocational Tech Training (Originally MOOC)
-
-**Founded:** June 2011 | **Founders:** Sebastian Thrun, David Stavens, Mike Sokolsky
-
-**Current Status:** Acquired by Accenture (May 2024) - now part of LearnVantage suite
-
-**Scale:** 16.9M enrolled learners, 240 countries
-
-**Revenue:** $100M+ (2018), **never profitable** despite $163M funding
-
-**Key Positioning:** "It's about outcomes, not optics" - project-based Nanodegrees for job-ready skills
-
-**Critical Pivot:** November 2013 - Sebastian Thrun admitted "lousy product" and shifted from free MOOCs to paid vocational training
+- **Category:** Vocational Tech Training (Originally MOOC)
+- **Founded:** June 2011 | **Founders:** Sebastian Thrun, David Stavens, Mike Sokolsky
+- **Current Status:** Acquired by Accenture (May 2024) - now part of LearnVantage suite
+- **Scale:** 16.9M enrolled learners, 240 countries
+- **Revenue:** $100M+ (2018), **never profitable** despite $163M funding
+- **Key Positioning:** "It's about outcomes, not optics" - project-based Nanodegrees for job-ready skills
+- **Critical Pivot:** November 2013 - Sebastian Thrun admitted "lousy product" and shifted from free MOOCs to paid vocational training
 
 **Competitive Advantages (Pre-Acquisition):**
 
@@ -226,7 +220,7 @@ This is one of edtech's most important case studies. **The founder of Google X, 
 **Reported Outcomes:**
 
 - "90% of students achieved their learning goal" (self-reported, not verified)
-- Career transformation stories (tire tech `→` Fortune 100 analyst)
+- Career transformation stories (tire tech → Fortune 100 analyst)
 - Portfolio building (3-5 projects per Nanodegree)
 
 **Completion Rates:** Not disclosed (red flag)
@@ -269,7 +263,7 @@ This is one of edtech's most important case studies. **The founder of Google X, 
 
 - **2017:** Revenue more than doubled YoY (from undisclosed base)
 - **2018:** $100M revenue
-- **2019-2023:** Not disclosed (likely flat or declining `→` acquisition signal)
+- **2019-2023:** Not disclosed (likely flat or declining → acquisition signal)
 
 **Profitability:**
 
@@ -280,7 +274,7 @@ This is one of edtech's most important case studies. **The founder of Google X, 
 **The Math Doesn't Work:**
 
 - $163M funding + never profitable in 13 years = **burn rate problem**
-- $1B valuation (2015) `→` acquisition (2024) at undisclosed terms = **down round** (likely `<$1B)
+- $1B valuation (2015) → acquisition (2024) at undisclosed terms = **down round** (likely `<$1B`)
 - **Implication:** MOOC-to-vocational model couldn't scale profitably despite perfect founder, perfect market timing, perfect execution
 
 ---
@@ -316,8 +310,8 @@ This is one of edtech's most important case studies. **The founder of Google X, 
 
 **Differentiator vs MOOCs:**
 
-- MOOCs: Watch videos `→` take quiz `→` get certificate (passive)
-- Udacity: Build projects `→` get feedback `→` showcase portfolio (active)
+- MOOCs: Watch videos → take quiz → get certificate (passive)
+- Udacity: Build projects → get feedback → showcase portfolio (active)
 
 ---
 
@@ -357,7 +351,7 @@ This is one of edtech's most important case studies. **The founder of Google X, 
 **1. Never Profitable (13 Years)**
 
 - $163M funding + $100M revenue (2018) + **still not profitable**
-- Burn rate unsustainable `→` forced acquisition
+- Burn rate unsustainable → forced acquisition
 - **Lesson:** Even perfect execution can't overcome bad unit economics
 
 **2. Program Cancellations (Broken Promises)**
@@ -371,7 +365,7 @@ This is one of edtech's most important case studies. **The founder of Google X, 
 
 - Completion rates not disclosed (likely 20-40%)
 - Self-paced = low accountability (similar to MOOC problem)
-- Students pay `→` drop out `→` bad ROI
+- Students pay → drop out → bad ROI
 
 **4. Acquisition = Failure to Scale**
 
@@ -409,12 +403,12 @@ Thrun had AI expertise but not edtech product sense.
 
 ---
 
-### Lesson #2: Free `→` Paid Pivot is Extremely Hard
+### Lesson #2: Free → Paid Pivot is Extremely Hard
 
 **The MOOC Trap:**
 
-- **2011-2013:** Free courses `→` millions of sign-ups `→` $0 revenue `→` unsustainable
-- **2014+:** Paid Nanodegrees `→` conversion from free users `<5%` `→` slow growth
+- **2011-2013:** Free courses → millions of sign-ups → $0 revenue → unsustainable
+- **2014+:** Paid Nanodegrees → conversion from free users `<5%` → slow growth
 
 **Why Conversion Failed:**
 
@@ -430,10 +424,10 @@ Start paid from day one (like Scaler, bootcamps). Freemium works for consumer ap
 
 **The Self-Paced Problem:**
 
-- No deadlines `→` procrastination
-- No accountability `→` dropout
-- No peer pressure `→` isolation
-- No cohort support `→` low motivation
+- No deadlines → procrastination
+- No accountability → dropout
+- No peer pressure → isolation
+- No cohort support → low motivation
 
 **Udacity's Completion Rates (estimated):**
 
@@ -444,9 +438,9 @@ Start paid from day one (like Scaler, bootcamps). Freemium works for consumer ap
 **Why This Kills Unit Economics:**
 
 - Student pays $1,200-4,800 (6-12 month Nanodegree)
-- Drops out after 2-3 months `→` partial refund or bad reviews
-- CAC = $100-200 `→` LTV = $400-1,200 (1 Nanodegree) `→` LTV:CAC = 2-6x (marginal)
-- Churn 50%/year `→` can't compound, can't scale
+- Drops out after 2-3 months → partial refund or bad reviews
+- CAC = $100-200 → LTV = $400-1,200 (1 Nanodegree) → LTV:CAC = 2-6x (marginal)
+- Churn 50%/year → can't compound, can't scale
 
 ---
 
@@ -457,7 +451,7 @@ Start paid from day one (like Scaler, bootcamps). Freemium works for consumer ap
 - **2011-2015:** Consumer-first (individual learners)
 - **2015-2020:** Mixed (consumer + enterprise partnerships)
 - **2020-2024:** Enterprise-heavy (Accenture clients)
-- **May 2024:** Acquired by Accenture `→` **fully enterprise now**
+- **May 2024:** Acquired by Accenture → **fully enterprise now**
 
 **Why Enterprise Works Better:**
 
@@ -485,8 +479,8 @@ Same as Coursera. Consumer edtech has **terrible economics**. Enterprise L&D has
 
 **This Is NOT a Success Story:**
 
-- If profitable `→` IPO (not acquisition)
-- If growing fast `→` raise Series C, D, E (not sell)
+- If profitable → IPO (not acquisition)
+- If growing fast → raise Series C, D, E (not sell)
 - Acquisition = **couldn't survive standalone** (exit strategy for investors)
 
 **Likely Scenario:**
@@ -554,7 +548,7 @@ This level of honesty is **extremely rare** in edtech. Most founders:
 
 ---
 
-**2. Free `→` Paid Pivot is Death (Start Paid from Day One)**
+**2. Free → Paid Pivot is Death (Start Paid from Day One)**
 
 Udacity's biggest mistake was starting free (2011-2013). Converting free users to paid (2014+) was **extremely hard** (`<5%` conversion).
 
@@ -566,13 +560,13 @@ Udacity's biggest mistake was starting free (2011-2013). Converting free users t
 - Paid users have clear expectations (outcomes, not entertainment)
 - Paid users don't churn on price (already committed)
 
-**Freemium Exception:** Free diagnostic test (lead gen) `→` paid full program. NOT free full program `→` paid premium features.
+**Freemium Exception:** Free diagnostic test (lead gen) → paid full program. NOT free full program → paid premium features.
 
 ---
 
 **3. Self-Paced = Low Completion (Need Accountability)**
 
-Udacity's self-paced model `→` 20-40% completion (estimate) `→` high churn `→` poor LTV.
+Udacity's self-paced model → 20-40% completion (estimate) → high churn → poor LTV.
 
 **Our Model:** Self-paced **with accountability structures**:
 
@@ -585,9 +579,9 @@ Udacity's self-paced model `→` 20-40% completion (estimate) `→` high churn `
 
 ---
 
-**4. Consumer `→` Enterprise is Inevitable (Design for B2B from Day One)**
+**4. Consumer → Enterprise is Inevitable (Design for B2B from Day One)**
 
-Udacity started B2C (2011-2015) `→` pivoted B2B (2015-2024) `→` acquired by Accenture (enterprise focus).
+Udacity started B2C (2011-2015) → pivoted B2B (2015-2024) → acquired by Accenture (enterprise focus).
 
 **Our Strategy:** Same trajectory, but **planned from day one**:
 
@@ -629,7 +623,7 @@ Udacity's acquisition by Accenture (2024) is NOT a success story. It's an exit a
 
 **Differentiation:**
 
-1. **Paid from Day One** (Udacity = free `→` paid pivot, Us = paid always)
+1. **Paid from Day One** (Udacity = free → paid pivot, Us = paid always)
    - "No freemium trap, motivated learners only"
 
 2. **Algorithmic Adaptivity** (Udacity = self-paced content, Us = adaptive AI)
@@ -648,7 +642,7 @@ Udacity's acquisition by Accenture (2024) is NOT a success story. It's an exit a
 
 ❌ Don't start free (conversion `<5%`, revenue delayed)
 ❌ Don't promise job guarantees you can't deliver (Nanodegree Plus canceled)
-❌ Don't ignore completion rates (20-40% `→` high churn `→` poor LTV)
+❌ Don't ignore completion rates (20-40% → high churn → poor LTV)
 ❌ Don't rely on founder pedigree (domain expertise ≠ product success)
 ❌ Don't aim for acquisition (aim for profitability or IPO)
 
@@ -665,10 +659,10 @@ Udacity's acquisition by Accenture (2024) is NOT a success story. It's an exit a
 **Key Takeaways:**
 
 1. **"Lousy Product" Admission (2013):** Rare honesty, enabled pivot from MOOCs to vocational training
-2. **Never Profitable (13 Years):** Despite $163M funding, $1B valuation, $100M revenue `→` couldn't scale
+2. **Never Profitable (13 Years):** Despite $163M funding, $1B valuation, $100M revenue → couldn't scale
 3. **Acquisition by Accenture (2024):** Exit strategy, not success (couldn't survive standalone)
-4. **Self-Paced Problem:** 20-40% completion (estimated) `→` high churn `→` poor unit economics
-5. **Consumer `→` Enterprise Trajectory:** B2C failed, B2B saved it (but too late)
+4. **Self-Paced Problem:** 20-40% completion (estimated) → high churn → poor unit economics
+5. **Consumer → Enterprise Trajectory:** B2C failed, B2B saved it (but too late)
 6. **Founder Pedigree ≠ Success:** Sebastian Thrun (Stanford, Google X) couldn't overcome bad business model
 
 **Strategic Implications for Our Startup:**
@@ -684,7 +678,7 @@ Udacity had everything: celebrity founder (Stanford professor, Google X), perfec
 
 **Why Our Model Will Win:**
 
-1. **Paid from day one** (no free `→` paid conversion trap)
+1. **Paid from day one** (no free → paid conversion trap)
 2. **AI-native economics** (infinite questions, algorithmic adaptivity = better unit economics)
 3. **Working professionals** (intrinsic motivation vs K-12 students)
 4. **Outcomes transparency** (salary tracking, not vague "learning goals")

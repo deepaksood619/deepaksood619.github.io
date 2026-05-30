@@ -498,7 +498,7 @@ tags: [brilliant, stem-education, interactive-learning, freemium, problem-solvin
 
 **4. Algorithmic Adaptivity (Beyond Basic)**
 
-- Brilliant: Adaptive difficulty (basic: if correct `→` harder)
+- Brilliant: Adaptive difficulty (basic: if correct → harder)
 - You: IRT/BKT algorithms (model learner ability, question difficulty, real-time optimization)
 - **Advantage:** True personalization `>` rule-based adaptivity
 
