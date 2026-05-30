@@ -6,7 +6,7 @@ Education is broken and it's high time to fix it.
 
 ## Content Catalog
 
-**Current Status:** Growing (54+ files, 29 competitor analyses)
+**Current Status:** Growing (55+ files, 30 competitor analyses)
 
 ### Product Concepts
 
@@ -49,6 +49,7 @@ Education is broken and it's high time to fix it.
 - [Khan Academy Analysis](education/competitors/khan-academy-analysis.md) - Free education pioneer, 150M learners, GPT-4 powered Khanmigo (see Khanmigo failure analysis below)
 - [Brilliant Analysis](education/competitors/brilliant-analysis.md) - Interactive STEM learning, 10M users, $299.88/year, "learning by doing" (no videos), Koji AI tutor, K-12 + lifelong learners, $50M valuation (2019)
 - [freeCodeCamp Analysis](education/competitors/freecodecamp-analysis.md) - 100% free nonprofit coding education, 350K monthly users, 40K+ employed alumni, 11.3M YouTube subscribers, sustainable donation model
+- **[Educative Analysis](education/competitors/educative-analysis.md)** - **NEW:** Text-based interactive platform, 3M developers, 2,300+ courses, $12M Series A (2021), in-browser coding, "Grokking" brand (system design/coding patterns), DevPath enterprise (Amazon, Netflix, Google, Stripe), SEO-driven growth (CAC $30-60). **Lessons:** Text `>` video for developers (3x faster, searchable, copy-paste), in-browser coding = non-negotiable (setup friction kills 20-30%), pattern-based `>` problem grinding (Grokking = category creation), AI should enhance not replace (mock interviews/code feedback embedded in practice). **Gaps:** No salary transparency (generic "land jobs"), slow outcomes (1-6 months/course), no public accountability, pricing opacity. **We compete:** 6-8 week sprints vs months, salary predictions (₹X outcome), build in public automation, transparent pricing.
 
 **Online Degree Programs (India):**
 

@@ -872,7 +872,7 @@ This is the **freemium playbook done right**:
 
 **The Meta-Lesson:**
 
-Scaler's founders (IIIT Hyderabad → Facebook → competitive programming) built **credibility first, product second**. 
+Scaler's founders (IIIT Hyderabad → Facebook → competitive programming) built **credibility first, product second**.
 
 Our founder must do the same: **Build credibility in public** (YouTube, Twitter, open source) **before launching** (waitlist from engaged audience, not cold ads).
 

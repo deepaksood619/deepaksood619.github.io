@@ -23,7 +23,7 @@
 - [The Generative AI Learning Roadmap](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxYe_AFXQm1B_7bLZ6iVzwr02YTsRbQHx6)
 - [Research papers for software engineers to transition to AI Engineering. - YouTube](http://youtube.com/post/UgkxzWqAeGgNwoB2qbqEDCsJwp_nOsK0C3qZ)
 - [Generative AI Bootcamp – Complete 65-Hour Course - YouTube](https://youtu.be/DOXJ7s1D6iE)
-- [GitHub - mlabonne/llm-course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.](https://github.com/mlabonne/llm-course) ⭐ 79k 55.4k stars
+- [GitHub - mlabonne/llm-course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.](https://github.com/mlabonne/llm-course) ⭐ 79k
 - [Reinforcement Learning Guide \| Unsloth Documentation](https://docs.unsloth.ai/basics/reinforcement-learning-guide)
 - [GitHub - afshinea/stanford-cme-295-transformers-large-language-models: VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models) ⭐ 4.4k
 - [GitHub - patchy631/ai-engineering-hub: In-depth tutorials on LLMs, RAGs and real-world AI agent applications.](https://github.com/patchy631/ai-engineering-hub) ⭐ 34k

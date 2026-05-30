@@ -616,7 +616,7 @@ tags: [preplaced, leeco, mentorship, job-search, ai-automation, india-market]
 
 - Scaler Analysis - Mentorship + courses hybrid model
 
-## Key Takeaways:
+## Key Takeaways
 
 1. **Unique Two-Product Strategy:** Preplaced (mentorship) + Leeco (job automation) covers full career development journey - but products not well integrated.
 2. **India Market Focus:** Deep understanding of Indian job seekers, WhatsApp-first, pricing optimized for local market - but limited global reach.

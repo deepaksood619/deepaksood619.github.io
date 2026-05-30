@@ -15,8 +15,8 @@ date_analyzed: 2026-05-29
 From his LinkedIn post, Khan explicitly acknowledged the pivot:
 
 ```text
-What's been clear is that learning still happens through practice, 
-with teachers at the center. AI can help when a student is stuck, 
+What's been clear is that learning still happens through practice,
+with teachers at the center. AI can help when a student is stuck,
 but it works best as part of a broader instructional experience.
 
 So we've been rebuilding Khan Academy to better support that.
@@ -36,7 +36,7 @@ So we've been rebuilding Khan Academy to better support that.
 **Evidence from NYT article:**
 
 ```text
-"Some students immediately found it helpful. Others lost interest 
+"Some students immediately found it helpful. Others lost interest
 upon discovering it would not simply hand over the answers."
 ```
 
@@ -51,8 +51,8 @@ upon discovering it would not simply hand over the answers."
 **Reality discovered:**
 
 ```text
-"Teachers tended to be more inspired users, and over time, 
-Khan Academy shifted its engineering focus to add more than 30 new 
+"Teachers tended to be more inspired users, and over time,
+Khan Academy shifted its engineering focus to add more than 30 new
 features for them"
 ```
 
@@ -69,7 +69,7 @@ features for them"
 **Math hallucinations:**
 
 ```text
-"GPT-4 was awful at math — inconsistent and easily bullied by 
+"GPT-4 was awful at math — inconsistent and easily bullied by
 users into making right answers wrong."
 ```
 
@@ -88,7 +88,7 @@ users into making right answers wrong."
 **Instability:**
 
 ```text
-"Each new update could, and often did, produce a fresh cascade of 
+"Each new update could, and often did, produce a fresh cascade of
 hallucinations and unpredictability, making the earlier progress obsolete."
 ```
 
@@ -145,7 +145,7 @@ hallucinations and unpredictability, making the earlier progress obsolete."
 **Sal Khan's core realization:**
 
 ```text
-Learning still happens through practice, with teachers at the center. 
+Learning still happens through practice, with teachers at the center.
 AI can help when a student is stuck, but it works best as part of a broader instructional experience.
 ```
 
