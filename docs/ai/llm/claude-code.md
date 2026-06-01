@@ -114,6 +114,37 @@ npm install -g @kimuson/claude-code-viewer
 claude-code-viewer --port 3400
 ```
 
+## Using Claude Code Effectively / Tips
+
+**Video 1:** **[Stop babysitting your agents](https://youtube.com/watch?v=wI0ptqCSL0I)**
+
+- **Autonomous Verification Circuits**
+    - **Automate the Playbook:** Translate backend debugging habits (API hits, DB checks, reading logs, running unit tests) directly into automated agent circuits using Playwright or your backend APIs.
+    - **Self-Healing Loops:** Instruct Claude to write code, catch execution log errors, fix its own bugs, and repeatedly iterate _before_ it bugs a human for a PR review.
+    - **Self-Improving Assets:** Have Claude dynamically update a shared `skill.md` file whenever it hits env blockers (like expired mock auth or data seeding issues) to build team-wide automation skills.
+- **Parallelization (Multi-Clauding)**
+    - **Isolate Context:** Use the `/rename` command immediately to categorize active agent threads and avoid mental overload from tracking multiple streams.
+    - **Terminal Multi-Tasking:** Combine Tmux panels with Git worktrees, and run `claude agents` to view active threads sorted by the level of human attention they require.
+    - **Desktop Interface:** Use the unified Claude Code Desktop GUI to cleanly manage tasks, tabs, worktrees, and active background jobs in one window.
+    - _Internal Note: The web code interface and mobile remote-control features are still in review at Confluent. Stick to local CLI/Desktop for now._
+- **Background Loops**
+    - **Delegate Chores:** Completely offload non-coding bookkeeping tasks (docs generation, ticket triaging, minor CI greening) to background loops.
+    - **Interval Triggers:** Use `/loop 10m` inside a active session to force Claude to check its own work, rebase, or resolve PR comments automatically every 10 minutes.
+    - **Persistent Routines:** Stand up persistent backend circuits triggered via cron, internal API endpoints, or GitHub Actions completely independent of your machine.
+
+**Video 2:** **[How we Claude Code](https://youtube.com/watch?v=IlqJqcl8ONE)**
+
+- **Model-Driven Requirement Extraction**
+    - **Interactive Interviewing:** Avoid typing massive specs upfront; use open-ended prompts + the `askUserQuestion` tool to let Claude interview you and surface hidden backend edge cases.
+    - **Architectural Critiques:** Task Claude to critique your existing schemas or specs to uncover hidden technical roadblocks and system alternatives.
+- **HTML Specs & Token Efficiency**
+    - **Structure Your Context:** Pack specification documentation into dense, structured HTML layouts instead of long, unstructured Markdown files.
+    - **The Token Math:** A comprehensive spec costs tokens upfront but dramatically cuts total token waste by preventing long, endless trial-and-error iteration loops later.
+    - **Dense Inputs:** Provide visual architecture diagrams, database schemas, or system flowcharts alongside text descriptions to feed it maximum context.
+- **Agent-Native Verification**
+    - **Multi-Surface Checks:** Ensure code successfully clears terminal test matrices, human dashboards, and automated headless CLI checkpoints (like `bun verify` in CI).
+    - **Frictionless Human Review:** Configure Claude to auto-upload video clips or recordings of its successful validation runs to S3 and link them in the PR description, giving human reviewers instant proof of logic success.
+
 ## GSD
 
 ### GSD 2.0

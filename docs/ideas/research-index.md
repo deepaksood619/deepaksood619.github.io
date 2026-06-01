@@ -194,6 +194,7 @@ Last updated: 2026-05-02
 
 **Comprehensive Research Documents:**
 
+- [SaaS Apocalypse Opportunities](ideas/saas-apocalypse-opportunities.md) - High-margin self-serve markets where solo founders can undercut overpriced incumbents 50-70% using AI-powered development
 - [Software-Focused Solo Founder Analysis](ideas/software-startup-analysis.md) - Comparison of multiple startup opportunities
 - [AI Assessment Platforms Deep Dive](education/ai-assessment-platforms.md) - Comparison of 7 AI assessment platform ideas
 

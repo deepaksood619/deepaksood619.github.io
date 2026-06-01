@@ -32,6 +32,8 @@
 
 ### Tools
 
+- [GitHub - georgezouq/awesome-ai-in-finance: 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market. · GitHub](https://github.com/georgezouq/awesome-ai-in-finance)
+- [GitHub - AI4Finance-Foundation/FinGPT: FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace. · GitHub](https://github.com/AI4Finance-Foundation/FinGPT)
 - MProfit
 - Simply Wall St (Best for International ETFs & Stocks)
 - TickerTape (Best for Indian ETFs & MFs)
@@ -40,7 +42,7 @@
 - INDmoney
 - TickerTape
 - [Hey r/IndiaInvestments, how do you track you finances(bank accounts, investments)? : r/IndiaInvestments](https://www.reddit.com/r/IndiaInvestments/comments/18bgshh/hey_rindiainvestments_how_do_you_track_you/)
-- [GitHub - serversideup/financial-freedom: 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.](https://github.com/serversideup/financial-freedom) ⭐ 2.8k
+- [GitHub - serversideup/financial-freedom: 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.](https://github.com/serversideup/financial-freedom) ⭐ 2.8k[]
 - [Portfolio Visualizer](https://www.portfoliovisualizer.com/)
 - [markets.sh](https://markets.sh/)
 - [PortfolioPilot: Your Personal AI Financial Advisor](https://portfoliopilot.com/)
@@ -60,9 +62,11 @@
 - [TradeTally - Free Trading Journal and Investment Tracker](https://tradetally.io/dashboard)
 	- [GitHub - GeneBO98/tradetally: Advanced trade tracking and analytics (TraderVue alternative) · GitHub](https://github.com/GeneBO98/tradetally)
 - [Best self-hosted portfolio management tool for investments?](https://www.reddit.com/r/selfhosted/comments/1nl4xf4/best_selfhosted_portfolio_management_tool_for/)
-- [GitHub - ghostfolio/ghostfolio: Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍 · GitHub](https://github.com/ghostfolio/ghostfolio)
+- [**GitHub - ghostfolio/ghostfolio: Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍 · GitHub**](https://github.com/ghostfolio/ghostfolio)
+	- [Reddit - Ghostfolio Alternatives](https://www.reddit.com/r/selfhosted/comments/18amwkw/ghostfolio_alternatives/)
 - [GitHub - wealthfolio/wealthfolio: A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations. · GitHub](https://github.com/wealthfolio/wealthfolio)
 	- [Wealthfolio \| Open-Source, Offline & Private Portfolio Tracker](https://wealthfolio.app/)
+- [GitHub - ananthakumaran/paisa: Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi · GitHub](https://github.com/ananthakumaran/paisa)
 
 ## Personal Finance Tools
 
@@ -154,6 +158,7 @@
 
 ## Links
 
+- [How I have used AI to become consistently profitable. Full guide + prompts below](https://www.reddit.com/r/Daytrading/comments/1k5kw97/how_i_have_used_ai_to_become_consistently/)
 - [Can YOU Trade in US MARKETS? DOs and DONT'S for INDIANS!](https://youtu.be/ENc-38mo2rM)
 - [Best App for US Stocks in India | Best 6 App to Invest in US Stocks From...](https://youtu.be/sMH1W_rFbbQ)
 - [Why I use Interactive Brokers from India and not Vested or INDMoney](https://youtu.be/AA-HvcZ5Qkg)

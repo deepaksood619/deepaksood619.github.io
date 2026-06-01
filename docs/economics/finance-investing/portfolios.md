@@ -233,8 +233,9 @@ The balance 40% of the amount, which is Rs.200,000/- can be utilized for active 
 
 [Vijay Kedia’s Rs 35,000 to Rs 1,800 Crore Journey: Secrets Behind 16,000x Returns ! - YouTube](https://youtu.be/sBrVejRrZBk)
 
-## Portfolios
+## Portfolios / Links
 
+- [tools](economics/finance-investing/tools.md)
 - [An insight on Motilal Oswal Hedged Equity Multi-factor Strategy - AIF - YouTube](https://www.youtube.com/watch?v=rOmibLlyH8Y)
 - [6 Steps to build momentum portfolio | What is a momentum portfolio? | How to measure momentum? - YouTube](https://www.youtube.com/watch?v=eMuGV8t3ejo)
 - [Saurabh Mukherjea & the Power of Consistent Compounders | Marcellus Investment Managers - YouTube](https://www.youtube.com/watch?v=qqw9lM1E3Fc)

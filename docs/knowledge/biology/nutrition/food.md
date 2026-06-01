@@ -93,7 +93,14 @@ Recommended Calorie intake - 2800
 12. Alcohol / Tobacco, etc
 	1. Prosecco (Prosecco is a popular Italian sparkling white wine made primarily from Glera grapes in the Veneto and Friuli-Venezia Giulia regions. Known for its light-bodied, crisp, and fruity profile with notes of green apple, pear, and citrus, it is produced using the Charmat (tank) method. Usually served as an affordable, refreshing aperitif or in cocktails like Aperol Spritz, it comes in _Spumante_ (fully sparkling) and _Frizzante_ (semi-sparkling) varieties.)
 
-## Supplements
+## Supplements / MultiVitamins
+
+**Ordered / Taking**
+
+1. Tata 1mg - 7X Strength Omega 3 | 2700 mg fish oil with vitamin E for heart & brain Health - 60 capsules - Rs. 740 - 17 Apr 2026
+2. Tata 1mg - Calcium and Vitamin D3 tablets with Zinc, Magnesium & Alfalfa | Citrate Malate Form - 120 tablets - Rs. 472.15 - 17 Apr 2026
+
+**Others**
 
 1. creatine
 2. beet juice
