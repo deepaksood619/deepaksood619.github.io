@@ -18,6 +18,7 @@ https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html
 
 aws configure list-profiles
 aws configure list
+export AWS_PROFILE=profile_name
 
 aws configure
 region - ap-south-1

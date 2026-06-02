@@ -1,13 +1,13 @@
 [
-  "table-editor-obsidian",
   "obsidian-auto-link-title",
   "obsidian-reveal-active-file",
+  "table-editor-obsidian",
   "editing-toolbar",
   "editor-width-slider",
+  "github-stars",
   "nldates-obsidian",
   "obsidian-pandoc",
-  "obsidian-reading-time",
   "recent-files-obsidian",
-  "obsidian-regex-replace",
-  "github-stars"
+  "obsidian-reading-time",
+  "obsidian-regex-replace"
 ]

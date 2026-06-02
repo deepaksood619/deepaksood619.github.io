@@ -52,6 +52,7 @@
 
 ## Assessment Platform
 
+- https://assess.knowvex.org
 - SpeedExam
     - Speedexam open-source alternative
     - Fraud detection in speedexam
@@ -66,11 +67,14 @@
 	- [Becoming an interview engineer · Hao's learning log](https://blog.hao.dev/becoming-an-interview-engineer)
 - [Zinterview.AI \| AI-powered Interviewer](https://zinterview.ai/)
 
-## Applicant tracking software/platforms
+## ATS - Applicant tracking software/platforms
 
 - https://www.greenhouse.com
 - freshteam from freshworks
 - http://www.careerist.in/contact-us.html
+- https://wellfound.com/recruit/pricing
+- https://www.reddit.com/r/Recruitment/comments/1mkb393/free_ats_to_use_on_the_side_of_my_companys/
+- Open source ATS Agent - https://github.com/interviewstreet/hiring-agent
 
 ## 16 Signs of a Highly Intelligent Employee
 

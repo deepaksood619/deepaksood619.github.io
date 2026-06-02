@@ -13,6 +13,7 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 **Target Market:** Self-serve software purchasers - individuals running companies and small startups (1-50 employees) who search for and buy tools online without requiring sales calls.
 
 **Key Opportunity Characteristics:**
+
 - Incumbents charging $50-500/month per seat
 - Self-serve purchase motion (no sales team required)
 - Product-led growth potential
@@ -27,18 +28,21 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 ### What Changed
 
 **Before (2020):**
+
 - Building SaaS required 3-6 month MVP with 3-5 engineers
 - Total cost: $200K-500K to get to market
 - High barrier to entry = sustainable moats
 - Justified high pricing ($99-299/user/month)
 
 **After (2024-2026):**
+
 - Solo founder + AI can build MVP in 2-6 weeks
-- Total cost: $5K-20K to get to market  
+- Total cost: $5K-20K to get to market
 - Low barrier to entry = pricing pressure
 - Opportunity: undercut by 50-80% and still have great margins
 
 **Result:** Mass disruption opportunity for motivated solo founders willing to:
+
 1. Build better UX than incumbents
 2. Price 50-70% lower
 3. Offer self-serve onboarding
@@ -51,6 +55,7 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 ### Ideal Target Characteristics
 
 **1. Pricing Red Flags (Overpriced Incumbents)**
+
 - Per-seat pricing: $40-200/user/month
 - Minimum seats: 5-10 users ($200-2000/month minimum)
 - "Contact sales" for pricing (hiding high prices)
@@ -58,6 +63,7 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 - Setup fees ($500-5000)
 
 **2. Distribution Green Flags (Self-Serve Friendly)**
+
 - Users search Google/Reddit/ProductHunt for solutions
 - Free trials convert without sales calls
 - Onboarding can be self-service
@@ -65,6 +71,7 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 - Community support `>` account managers
 
 **3. Market Structure Sweet Spots**
+
 - 5-20 competitors (fragmented = no dominant winner)
 - Incumbents focused on enterprise (ignoring SMB)
 - High switching costs but low lock-in (habits, not integrations)
@@ -72,6 +79,7 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 - Workflow tools (not platforms - too complex)
 
 **4. Technical Feasibility**
+
 - Core value is software, not human ops
 - API-first architecture
 - Modern tech stack rebuildable in weeks
@@ -85,6 +93,7 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 ### 1. Developer Tools ($10B+ market)
 
 **Why Opportunity Exists:**
+
 - Developers DIY everything (self-serve buyers)
 - Will pay for time savings
 - Viral adoption through communities
@@ -103,6 +112,7 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 | **Monitoring** | Datadog | $15-31/host/month | Open-source + managed |
 
 **Best Opportunities:**
+
 1. **Postman Alternative** - Already validated in research-index
 2. **Linear Alternative** - Issue tracking at $8/user vs $10-20/user
 3. **Figma Plugins Marketplace** - Take 30% vs selling direct
@@ -111,6 +121,7 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 ### 2. Productivity Tools ($50B+ market)
 
 **Why Opportunity Exists:**
+
 - Solopreneurs/small teams search online
 - Immediate pain point = fast decisions
 - Trial → paid conversion without sales
@@ -129,6 +140,7 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 | **Password Manager**   | 1Password   | $8/user/month                   | Family plan competitor       |
 
 **Best Opportunities:**
+
 1. **Notion Alternative (Fast)** - Notion is slow, build speed-first at $8/mo
 2. **Loom Alternative** - Unlimited recording at $10/mo vs $15/creator
 3. **Typeform Clone** - Beautiful forms, $15/mo vs $29-99/mo
@@ -137,6 +149,7 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 ### 3. Marketing/Sales Tools ($30B+ market)
 
 **Why Opportunity Exists:**
+
 - Marketers experiment with many tools
 - Monthly budgets $100-500/month (affordable)
 - Results-driven (will switch for ROI)
@@ -155,6 +168,7 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 | **CRM**             | HubSpot    | $50-3200/month       | Simplified $20/mo       |
 
 **Best Opportunities:**
+
 1. **Ahrefs Lite** - Backlink checker only, $29/mo vs $129/mo
 2. **Buffer Alternative** - Unlimited channels, $15/mo flat
 3. **Hotjar Lite** - Heatmaps + recordings, $20/mo vs $39/mo
@@ -163,6 +177,7 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 ### 4. Finance/Ops Tools ($20B+ market)
 
 **Why Opportunity Exists:**
+
 - Every business needs finance/ops tools
 - Switching costs high but worth it for savings
 - Solopreneurs DIY accounting/ops initially
@@ -180,14 +195,16 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 | **HR/Benefits** | Rippling | $35-80/month + $8/person | Simplified $25/mo |
 
 **Best Opportunities:**
+
 1. **DocuSign Alternative** - Unlimited signatures, $15/mo vs $40/mo
-2. **QuickBooks Lite** - Solopreneur accounting, $15/mo vs $30/mo  
+2. **QuickBooks Lite** - Solopreneur accounting, $15/mo vs $30/mo
 3. **Gusto for Micro-Business** - 1-5 employees, flat $30/mo
 4. **Expense App** - Receipt scanning + categorization, $10/mo
 
 ### 5. Design/Creative Tools ($15B+ market)
 
 **Why Opportunity Exists:**
+
 - Designers/creators search communities
 - Portfolio sharing = viral distribution
 - Subscriptions preferred over one-time
@@ -205,6 +222,7 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 | **Color Palettes** | Coolors Pro | $2.50-5/month | AI-powered, same price |
 
 **Best Opportunities:**
+
 1. **AI Stock Photos** - Generate on demand, $15/mo unlimited vs $29-249/mo
 2. **Browser Video Editor** - Simplified Premiere, $15/mo vs $23/mo
 3. **Design System Manager** - Component library host, $20/mo
@@ -217,18 +235,21 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 ### Phase 1: Undercut & Over-Deliver (Months 1-6)
 
 **Pricing Strategy:**
+
 - Price 50-70% below incumbent market leader
 - Flat-rate pricing (not per-seat for small teams)
 - Simple 3-tier: Free, $15/mo, $49/mo
 - Annual discount: 20% (2 months free)
 
 **Product Strategy:**
+
 - 80/20 features: Build only core value prop
 - Better UX than incumbent (they're bloated)
 - Faster performance (modern tech stack)
 - AI-enhanced where valuable (not gimmick)
 
 **Distribution Strategy:**
+
 - Open-source core (if possible) for GitHub stars
 - ProductHunt launch with founder story
 - SEO: "[Competitor] alternative" keywords
@@ -241,24 +262,28 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 ### Phase 2: Product-Led Growth (Months 6-18)
 
 **Freemium Conversion:**
+
 - Generous free tier (hook users)
 - Clear upgrade path (usage limits)
 - Time-based trials for premium features
 - Email nurture sequence
 
 **Viral Loops:**
+
 - Team invites (collaboration features)
 - Public sharing (galleries, profiles)
 - Embed/API (distribution to other tools)
 - Affiliate/referral program (30% recurring)
 
 **Content Marketing:**
+
 - Comparison posts: "[Incumbent] vs [You]"
 - Use cases: "How [Customer] saved $5K/year"
 - Tools: Free calculators, templates, generators
 - SEO: Long-tail keywords (less competitive)
 
 **Integrations:**
+
 - Zapier/Make (automation marketplaces)
 - Browser extensions (Chrome Web Store)
 - Slack/Discord bots (where users live)
@@ -267,18 +292,21 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 ### Phase 3: Scale Without Sales (Months 18-36)
 
 **Self-Serve Optimization:**
+
 - Instant onboarding ( minutes to value)
 - Interactive demos (not videos)
 - Chatbot for support (reduce human ops)
 - Knowledge base (reduce support tickets)
 
 **Usage-Based Upsells:**
+
 - "You hit 80% of limit" notifications
 - One-click upgrades (Stripe Billing)
 - Team plan suggestions (when 2+ users)
 - Feature discovery (in-app prompts)
 
 **Retention & Expansion:**
+
 - Usage emails: "You saved 10 hours this month"
 - NPS surveys at 30/90 days
 - Churn interviews (why they left)
@@ -291,30 +319,35 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 ### Don't Build
 
 **❌ Marketplaces (chicken-egg problem)**
+
 - Requires both supply AND demand
 - Network effects take years
 - Sales team needed for supply side
 - Example: Uber, Airbnb (billions to build)
 
 **❌ Enterprise-First SaaS**
+
 - Long sales cycles (6-18 months)
 - Requires sales team + legal
 - Custom contracts, security reviews
 - Example: Salesforce, Workday
 
 **❌ Deep Tech / Hardware**
+
 - High capital requirements
-- Manufacturing complexity  
+- Manufacturing complexity
 - Long development cycles
 - Example: Robotics, semiconductors
 
 **❌ Highly Regulated**
+
 - Legal overhead (fintech, healthcare)
 - Compliance costs (SOC2, HIPAA)
 - Licensing requirements
 - Example: Banking, medical devices
 
 **❌ Human-Ops Heavy**
+
 - Doesn't scale without hiring
 - Operations become bottleneck
 - Low gross margins
@@ -323,24 +356,28 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 ### Do Build
 
 **✅ Pure Software Plays**
+
 - Zero human ops in delivery
 - API-first architecture
 - Self-serve onboarding
 - Automated support (docs + AI)
 
 **✅ Workflow Tools (Not Platforms)**
+
 - Solve one job-to-be-done well
 - Clear before/after value
 - Fast time-to-value ( min)
 - Not trying to replace everything
 
 **✅ Developer-First Products**
+
 - Developers are early adopters
 - Technical documentation = sales
 - GitHub stars = distribution
 - APIs = extensibility
 
 **✅ Vertical SaaS (Niche)**
+
 - Smaller TAM but less competition
 - Specific workflow understanding
 - Easier to dominate niche
@@ -355,16 +392,19 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 **Who:** Productivity tools, collaboration software
 
 **Structure:**
+
 - Free: Core features, 1 user OR limited usage
 - $15/month: Unlimited use, 1-5 users, branding removal
 - $49/month: Advanced features, unlimited users, integrations
 
 **Advantages:**
+
 - Simple to understand (no pricing confusion)
 - Predictable revenue per customer
 - Easy to communicate ($15/mo vs complex tiers)
 
 **Disadvantages:**
+
 - Leaves money on table (power users underpay)
 - Doesn't scale with usage
 - Hard to justify $15/mo for light users
@@ -378,16 +418,19 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 **Who:** API tools, infrastructure, developer platforms
 
 **Structure:**
+
 - Free: 1K API calls/month or 1GB storage
 - $0.01 per API call after free tier
 - $10/month minimum for predictability
 
 **Advantages:**
+
 - Fair (pay for what you use)
 - Scales naturally with growth
 - Sticky (higher usage = higher value)
 
 **Disadvantages:**
+
 - Unpredictable bills (customer anxiety)
 - Harder to forecast revenue
 - Billing complexity (metering infrastructure)
@@ -401,16 +444,19 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 **Who:** Design tools, marketing software, analytics
 
 **Structure:**
+
 - Free: Basic features forever
 - $20/month: Premium features (exports, integrations)
 - $50/month: Advanced (white-label, API access, priority support)
 
 **Advantages:**
+
 - Easy to communicate value difference
 - Clear upgrade triggers
 - Sticky (users outgrow free tier)
 
 **Disadvantages:**
+
 - Requires clear feature differentiation
 - Free users may never convert
 - Support burden from free tier
@@ -424,17 +470,20 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 **Who:** Most SaaS products
 
 **Structure:**
+
 - Free: 50 uses/month + basic features
 - $15/month: 1,000 uses/month + premium features + branding removal
 - $49/month: Unlimited uses + advanced features + priority support
 - Add-ons: Extra seats ($5/user), integrations ($10/month), custom features
 
 **Advantages:**
+
 - Best of all models
 - Flexibility for different customer segments
 - Upsell opportunities (add-ons)
 
 **Disadvantages:**
+
 - Pricing page complexity
 - Requires usage tracking + feature flags
 - Billing logic more complex
@@ -448,6 +497,7 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 ### Step 1: Identify Overpriced Incumbents
 
 **Questions to ask:**
+
 1. What's the minimum monthly cost? (Look for $200+/month)
 2. Is pricing per-seat? (5-10 seat minimums = opportunity)
 3. Do they hide pricing? ("Contact sales" = overpriced)
@@ -455,6 +505,7 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 5. How old is the product? (10+ years = legacy tech stack)
 
 **Tools:**
+
 - BuiltWith.com (tech stack analysis)
 - SimilarWeb (traffic analysis)
 - Crunchbase (funding = expensive to maintain)
@@ -466,6 +517,7 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 ### Step 2: Validate Self-Serve Demand
 
 **Signals of self-serve market:**
+
 - ProductHunt launches succeed
 - Subreddits exist for tool category (r/productivity)
 - YouTube tutorials with 10K+ views
@@ -473,6 +525,7 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 - Open-source alternatives exist (demand validation)
 
 **Red flags (requires sales):**
+
 - Security questionnaires before trial
 - Custom contracts/MSAs
 - Procurement process (RFPs)
@@ -484,11 +537,13 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 ### Step 3: Assess Technical Feasibility
 
 **Can you build MVP in 4-8 weeks?**
+
 - Yes: Workflow tools, CRUD apps, dashboards
 - Maybe: Real-time collaboration, video processing
 - No: Databases, ML infrastructure, compilers
 
 **LLM enhancement multiplier:**
+
 - 10x: Code generation (GitHub Copilot pattern)
 - 5x: Content generation (writing, images)
 - 3x: Smart features (autocomplete, suggestions)
@@ -501,6 +556,7 @@ tags: [saas-apocalypse, pricing, product-led-growth, solo-founder, micro-saas]
 **Back-of-envelope math:**
 
 Revenue per customer/month: $15
+
 - LLM costs: $2-5/month (if AI-heavy)
 - Infrastructure: $0.50/month (cloud hosting)
 - Payment processing: $0.74 (Stripe 2.9% + $0.30 per $15)
@@ -509,11 +565,13 @@ Revenue per customer/month: $15
 - **Gross margin: 55-72%**
 
 Target LTV:CAC ratio: 3:1 minimum
+
 - CAC: $50 (organic SEO + community)
 - LTV: $180 (12 months retention * $15/month)
 - **LTV:CAC = 3.6x** ✅
 
 Path to $10K MRR:
+
 - 667 customers @ $15/month
 - Or: 200 @ $49/month
 - Or mix: 500 @ $15 + 100 @ $49 = $12.4K MRR
@@ -523,6 +581,7 @@ Path to $10K MRR:
 ## Tech Stack for Speed
 
 ### Principles
+
 1. **Boring tech** (proven, well-documented)
 2. **Managed services** (don't run infrastructure)
 3. **Ship fast** (perfect is enemy of good)
@@ -531,12 +590,14 @@ Path to $10K MRR:
 ### Recommended Stack
 
 **Frontend:**
+
 - **Framework:** Next.js 14 (React) or SvelteKit (faster)
 - **Styling:** Tailwind CSS (fast prototyping)
 - **Components:** shadcn/ui or Headless UI (beautiful defaults)
 - **State:** Zustand or Jotai (simpler than Redux)
 
 **Backend:**
+
 - **API:** Next.js API routes (monolith) or FastAPI (Python)
 - **Database:** PostgreSQL (Supabase or Neon for managed)
 - **Auth:** Clerk or Supabase Auth (don't build auth)
@@ -544,12 +605,14 @@ Path to $10K MRR:
 - **Cache:** Upstash Redis (serverless cache)
 
 **AI/LLM (if needed):**
+
 - **Models:** OpenAI GPT-4 Turbo (quality) or Claude Sonnet (speed)
 - **Embeddings:** OpenAI text-embedding-3-small
 - **Vector DB:** Pinecone (managed) or Qdrant (self-hosted)
 - **Frameworks:** LangChain (abstraction) or direct API (control)
 
 **Infrastructure:**
+
 - **Hosting:** Vercel (frontend + API) or Railway (full-stack)
 - **Database:** Supabase (Postgres + Auth + Storage)
 - **CDN:** Cloudflare (free tier excellent)
@@ -557,11 +620,13 @@ Path to $10K MRR:
 - **Email:** Resend or Loops (transactional + marketing)
 
 **Payments:**
+
 - **Billing:** Stripe Billing (subscriptions)
 - **Webhooks:** Stripe webhooks → database updates
 - **Dunning:** Stripe Smart Retries (recover failed payments)
 
 **Total infrastructure cost (0-100 customers):**
+
 - $0-50/month (free tiers cover most)
 - $50-200/month (100-1000 customers)
 - Scale from there
@@ -576,6 +641,7 @@ Path to $10K MRR:
 **Disruptor:** Plausible ($9-150/month, simple, privacy-first)
 
 **Strategy:**
+
 - Open-source core (GitHub stars)
 - Privacy angle (GDPR-compliant)
 - Simplicity (vs GA complexity)
@@ -593,6 +659,7 @@ Path to $10K MRR:
 **Disruptor:** Linear ($8-16/user/month, fast, beautiful)
 
 **Strategy:**
+
 - Better UX (10x faster load times)
 - Keyboard shortcuts (power users)
 - Integrations (GitHub, Slack)
@@ -610,6 +677,7 @@ Path to $10K MRR:
 **Disruptor:** Notion (Free → $10-18/user/month, beautiful)
 
 **Strategy:**
+
 - Freemium (generous free tier)
 - Templates (community-driven)
 - Multiplayer editing (collaboration)
@@ -627,6 +695,7 @@ Path to $10K MRR:
 **Disruptor:** Postman (Free → $36/user/month)
 
 **Strategy:**
+
 - Better UX (native apps)
 - Collections (shareable)
 - Collaboration (team features)
@@ -643,29 +712,34 @@ Path to $10K MRR:
 ## Red Ocean vs Blue Ocean
 
 ### Red Ocean (Avoid)
+
 - Highly competitive (50+ competitors)
 - Commoditized (no differentiation)
 - Price wars (race to bottom)
 - High CAC (expensive ads)
 
 **Examples:**
+
 - Generic CRM (Salesforce, HubSpot, Pipedrive, Zoho, +100 more)
 - Email marketing (Mailchimp, ConvertKit, ActiveCampaign, +200)
 - Project management (Asana, Monday, ClickUp, Trello, +300)
 
 ### Blue Ocean (Target)
+
 - Less competitive (5-20 competitors)
 - Clear differentiation possible
 - Underserved niches
 - Low CAC (organic growth)
 
 **Examples:**
+
 - Vertical SaaS (real estate CRM, dentist scheduling)
 - Workflow-specific (podcast editing, code review)
 - Geographic (India-first accounting, EU-privacy tools)
 - Demographic (solopreneur tools, student productivity)
 
 **Strategy:** Find intersection of:
+
 1. Overpriced incumbent
 2. Self-serve market
 3. Less than 20 competitors
@@ -678,6 +752,7 @@ Path to $10K MRR:
 ### Why Vertical SaaS Works
 
 **Advantages:**
+
 - Less competition (niche focus)
 - Higher willingness to pay (specialized)
 - Easier to dominate category
@@ -685,6 +760,7 @@ Path to $10K MRR:
 - Community-driven distribution
 
 **Disadvantages:**
+
 - Smaller TAM (but still $10M-100M)
 - Requires domain expertise
 - Harder to pivot (locked into vertical)
@@ -692,36 +768,42 @@ Path to $10K MRR:
 ### High-Opportunity Verticals
 
 **1. Real Estate ($15B+ software spend)**
+
 - Property management: Buildium ($50-400/month)
 - CRM: Follow Up Boss ($69-349/month)
 - Marketing: BoomTown ($1,000+/month)
 - Opportunity: Simple CRM for solo agents, $30/month
 
 **2. Healthcare ($30B+ software spend)**
+
 - EHR: Epic (enterprise, $1M+ contracts)
 - Scheduling: Zocdoc ($3,000+/year for doctors)
 - Telemedicine: Doxy.me ($35-79/month)
 - Opportunity: Micro-practice management, $50/month
 
 **3. Legal ($10B+ software spend)**
+
 - Case management: Clio ($49-129/user/month)
 - Document automation: HotDocs (enterprise)
 - Time tracking: Toggl ($10-20/user/month)
 - Opportunity: Solo lawyer toolkit, $40/month
 
 **4. Education ($20B+ software spend)**
+
 - LMS: Canvas (enterprise, $10K+/year)
 - Gradebook: PowerSchool (district contracts)
 - Assessment: Gradescope ($100M+ ARR)
 - Opportunity: Micro-school management, $30/month
 
 **5. Restaurants ($8B+ software spend)**
+
 - POS: Toast ($69-165/month + hardware)
 - Reservations: OpenTable ($25-449/month)
 - Online ordering: DoorDash (30% commission)
 - Opportunity: All-in-one for small restaurant, $50/month
 
 **6. E-commerce ($50B+ software spend)**
+
 - Platform: Shopify ($29-299/month + transaction fees)
 - Email: Klaviyo ($20-1,700/month)
 - Inventory: TradeGecko (acquired, gap exists)
@@ -734,6 +816,7 @@ Path to $10K MRR:
 ### India-First SaaS
 
 **Why Opportunity:**
+
 - 10M+ businesses digitizing
 - Paying in INR (not USD)
 - Compliance requirements (GST, Indian accounting)
@@ -741,6 +824,7 @@ Path to $10K MRR:
 - Lower price sensitivity (₹500-2000/month sweet spot)
 
 **Examples:**
+
 - Indian accounting (vs QuickBooks): ₹500/month = $6/month
 - GST compliance tools: ₹1000/month = $12/month
 - Hindi/regional language support
@@ -753,12 +837,14 @@ Path to $10K MRR:
 ### EU Privacy-First SaaS
 
 **Why Opportunity:**
+
 - GDPR compliance required
 - US tools = data sovereignty issues
 - Privacy-conscious users
 - Willingness to pay premium (20-30%)
 
 **Examples:**
+
 - EU-hosted analytics (vs Google Analytics)
 - GDPR-compliant forms (vs Typeform)
 - European email marketing (vs Mailchimp)
@@ -768,6 +854,7 @@ Path to $10K MRR:
 ## Next Steps Template
 
 ### Week 1: Market Research
+
 - [ ] Identify 10 overpriced incumbents in target category
 - [ ] Analyze pricing: Minimum cost, per-seat, hidden pricing?
 - [ ] Read 50 G2/Capterra reviews (filter 3-star for pain points)
@@ -775,6 +862,7 @@ Path to $10K MRR:
 - [ ] Validate self-serve: ProductHunt launches, free trials work?
 
 ### Week 2: Customer Interviews
+
 - [ ] Find 10 current users (Reddit, LinkedIn, Twitter DMs)
 - [ ] Ask: What do you love? What frustrates you? What's expensive?
 - [ ] Validate willingness to switch: "If 50% cheaper with better UX?"
@@ -782,6 +870,7 @@ Path to $10K MRR:
 - [ ] Pricing research: What's too cheap/expensive/bargain/optimal?
 
 ### Week 3: MVP Scoping
+
 - [ ] List 80/20 features (core value only)
 - [ ] Define three user flows (signup → aha moment → paid)
 - [ ] Tech stack selection (proven, boring, managed)
@@ -789,6 +878,7 @@ Path to $10K MRR:
 - [ ] Cost projection: Infrastructure, LLMs, payments
 
 ### Week 4-8: Build
+
 - [ ] Week 4: Auth + basic CRUD + database schema
 - [ ] Week 5: Core feature #1 (most important workflow)
 - [ ] Week 6: Core feature #2 + integrations (if needed)
@@ -796,6 +886,7 @@ Path to $10K MRR:
 - [ ] Week 8: Polish, docs, landing page, ProductHunt prep
 
 ### Week 9: Launch
+
 - [ ] ProductHunt launch (build in public beforehand)
 - [ ] Reddit: Post in 3-5 relevant communities
 - [ ] Twitter: Launch thread with founder story
@@ -803,6 +894,7 @@ Path to $10K MRR:
 - [ ] Email: Personal network (first 10 customers)
 
 ### Week 10-12: Iterate
+
 - [ ] Customer interviews (first 20 users)
 - [ ] Fix top 3 pain points
 - [ ] Add missing features (prioritize by votes)
@@ -814,21 +906,25 @@ Path to $10K MRR:
 ## Open Questions for Research
 
 **Product:**
+
 - What's optimal free tier? (generous = growth, stingy = revenue)
 - Self-serve vs sales-assisted? (when to add human touch)
 - Monolith vs microservices? (speed vs scale)
 
 **Market:**
+
 - How fragmented is too fragmented? (20 competitors vs 100)
 - Can solo founder compete with funded teams? (yes if better UX)
 - Vertical SaaS vs horizontal? (depends on domain expertise)
 
 **Pricing:**
+
 - Flat-rate vs usage-based? (depends on value metric)
 - Annual discount sweet spot? (20% = 2 months free)
 - Per-seat vs per-team? (team = simpler for small orgs)
 
 **Distribution:**
+
 - Open-source vs proprietary? (OS = distribution, $ = margins)
 - Freemium vs paid-only? (freemium wins for PLG)
 - Community vs ads? (community for developer tools)
@@ -850,6 +946,7 @@ Path to $10K MRR:
 **The SaaS Apocalypse is real.** AI-powered development has reduced costs 10-100x, creating unprecedented opportunities to undercut overpriced incumbents.
 
 **Best opportunities:**
+
 1. Self-serve markets (no sales team needed)
 2. Overpriced incumbents ($50-500/month per seat)
 3. Fragmented competition (5-20 competitors)
@@ -857,6 +954,7 @@ Path to $10K MRR:
 5. High margins (70%+ gross margin possible)
 
 **Success formula:**
+
 - Build in weeks (not months)
 - Price 50-70% below incumbent
 - Better UX (modern stack)

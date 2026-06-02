@@ -163,7 +163,6 @@ K9s provides a curses based terminal UI to interact with your Kubernetes cluster
 brew install derailed/k9s/k9s
 
 curl -fsSLO https://github.com/derailed/k9s/releases/download/v0.32.4/k9s_Linux_amd64.tar.gz
-
 tar -xzvf k9s_Linux_amd64.tar.gz
 mv k9s /usr/bin
 

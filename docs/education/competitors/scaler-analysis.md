@@ -6,15 +6,11 @@
 
 ## Executive Summary
 
-**Category:** Premium Working Professional Upskilling (Tech Focus)
-
-**Founded:** 2019 (InterviewBit Software Services) | **Location:** Bengaluru, India
-
-**Scale:** 100,000+ alumni, 25K+ ratings across programs
-
-**Business Model:** 12-month cohort programs (₹pricing undisclosed, estimated ₹2-4L/year based on premium positioning)
-
-**Key Positioning:** "AI-Native vs. Retrofitted" - rebuilt curriculum from scratch for AI era
+- **Category:** Premium Working Professional Upskilling (Tech Focus)
+- **Founded:** 2019 (InterviewBit Software Services) | **Location:** Bengaluru, India
+- **Scale:** 100,000+ alumni, 25K+ ratings across programs
+- **Business Model:** 12-month cohort programs (₹pricing undisclosed, estimated ₹2-4L/year based on premium positioning)
+- **Key Positioning:** "AI-Native vs. Retrofitted" - rebuilt curriculum from scratch for AI era
 
 **Competitive Advantages:**
 

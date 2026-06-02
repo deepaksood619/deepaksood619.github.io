@@ -19,6 +19,7 @@ dbt is a SQL-first transformation workflow that lets teams quickly and collabora
 - Comparision
 	- [dbt vs Airflow vs Keboola](https://www.keboola.com/blog/dbt-vs-airflow-vs-keboola)
 	- [dbt vs Airflow: Which data tool is best for your organization?](https://datacoves.com/post/dbt-vs-airflow)
+- [dbt Core v2 is here: still open source, now rebuilt for what's next \| dbt Developer Blog](https://docs.getdbt.com/blog/dbt-core-v2-is-here)
 
 ## What is DBT
 
