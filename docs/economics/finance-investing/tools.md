@@ -78,8 +78,57 @@
 	- Example Prompt - Analyze Reliance Industries stock fundamentals
 	- https://www.reddit.com/r/claudeskills/comments/1rsis62/claude_skills_for_indian_stock_trading_supports/
 - [GitHub - samyakjain0606/awesome-stock-skills: A curated collection of Claude Code skills for Indian stock market research — concall transcripts, equity analysis, and more. · GitHub](https://github.com/samyakjain0606/awesome-stock-skills)
-- https://www.reddit.com/r/ValueInvesting/comments/1tp8emx/i_built_an_ai_workflow_for_fundamental_analysis/
-- https://www.reddit.com/r/algotrading/comments/1l82has/ive_built_an_automated_research_agent_for_stock/
+- [Connect your Zerodha account to AI assistants with Kite MCP – Z-Connect by Zerodha](https://zerodha.com/z-connect/featured/connect-your-zerodha-account-to-ai-assistants-with-kite-mcp)
+- Links
+	- https://www.reddit.com/r/ValueInvesting/comments/1tp8emx/i_built_an_ai_workflow_for_fundamental_analysis/
+	- https://www.reddit.com/r/algotrading/comments/1l82has/ive_built_an_automated_research_agent_for_stock/
+	- https://www.reddit.com/r/IndianStockMarket/comments/1i0m9f4/just_gave_a_try_creating_my_own_prompt_for_stock/
+
+## Prompt
+
+```text
+Provide a comprehensive and up-to-date financial analysis of (Stock name). The analysis should cover the following aspects, with citations for data sources
+
+1. Current Stock Price and Performance
+	- Current stock price, recent trends, and historical comparison.
+2. Valuation and Metrics
+	- Price to Book Value (P/BV):
+	- P/BV < 1: Potential opportunity.
+	- P/BV < 3: Favorable.
+	- Pledge Percentage:
+	- Ideal: 0%.
+	- Acceptable: 0% < Pledge % ≤ 5%.
+	- Unfavorable: Pledge % > 5%.
+	- Interest Coverage Ratio (ICR):
+	- ICR > 3 is preferable.
+	- Cash Flow from Operations (CFO):
+	- Consistent increase in CFO and operating profits.
+	- Operating Profit Margin (OPM%):
+	- Stable or increasing by 1-2% annually.
+	- Price to Earnings (P/E):
+	- Flat or declining P/E is ideal.
+	- Quick Ratio:
+	- Should always be above 1.
+	- Return on Equity (ROE):
+	- Year-over-year improvement.
+	- Debt to Equity Ratio:
+	- Favorable range: 1-2 (below 1 is ideal).
+3. Technical Analysis
+	- Support and resistance levels.
+	- Analyze 20-day, 50-day, and 200-day SMAs.
+4. Earnings and Financial Reports
+	- Recent revenue and net income trends.
+	- EPS comparison with estimates.
+5. Industry Comparison
+	- How the stock performs relative to its peers.
+6. Analyst Ratings and Price Targets
+	- Analyst ratings, target prices, upgrades/downgrades.
+7. Recent News and Sentiment
+	- Key events like mergers, acquisitions, or legal issues affecting valuation.
+8. Investment Recommendation
+	- Final recommendation: 'buy', 'hold', or 'sell.'
+	- Suitable holding period: 1 month, 6 months, or longer.
+```
 
 ## Personal Finance Tools
 
