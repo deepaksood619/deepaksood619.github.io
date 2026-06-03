@@ -4,6 +4,14 @@
 
 ```bash
 sudo snap install kubectl --classic
+
+export AWS_DEFAULT_PROFILE=personal
+
+# check login
+aws sts get-caller-identity
+
+# get kubeconfig
+aws eks update-kubeconfig --region ap-south-1 --name backend-cluster
 ```
 
 ## Commands

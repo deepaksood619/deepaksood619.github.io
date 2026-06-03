@@ -53,6 +53,8 @@
 
 ### Leaderboards
 
+- [**LLM Leaderboard - Best Text & Chat AI Models Compared**](https://arena.ai/leaderboard/text)
+- [Comparison of AI Models across Intelligence, Performance, and Price](https://artificialanalysis.ai/models)
 - [Arena Leaderboard - a Hugging Face Space by lmarena-ai](https://huggingface.co/spaces/lmarena-ai/arena-leaderboard)
 - [LMSYS Chatbot Arena (Multimodal): Benchmarking LLMs and VLMs in the Wild](https://lmarena.ai/)
 - [Hugging Face Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)

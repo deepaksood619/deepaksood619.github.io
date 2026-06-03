@@ -16,13 +16,19 @@ sudo ./aws/install
 
 https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html
 
+# setup aws profile
+aws configure --profile profile_name
+# add AWS Access Key ID and secret
+
 aws configure list-profiles
 aws configure list
 export AWS_PROFILE=profile_name
 
 aws configure
-region - ap-south-1
-output - json
+
+cat ~/.aws/config
+region = ap-south-1
+output = json
 
 # adding new profile
 aws configure --profile zen

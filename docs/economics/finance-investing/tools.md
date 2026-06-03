@@ -67,6 +67,19 @@
 - [GitHub - wealthfolio/wealthfolio: A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations. · GitHub](https://github.com/wealthfolio/wealthfolio)
 	- [Wealthfolio \| Open-Source, Offline & Private Portfolio Tracker](https://wealthfolio.app/)
 - [GitHub - ananthakumaran/paisa: Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi · GitHub](https://github.com/ananthakumaran/paisa)
+- [Finviz - Stock Screener](https://finviz.com/)
+
+### AI Tools
+
+- [GitHub - tradermonty/claude-trading-skills: Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. · GitHub](https://github.com/tradermonty/claude-trading-skills)
+	- [Getting Started \| Claude Trading Skills](https://tradermonty.github.io/claude-trading-skills/en/getting-started/#claude-code-desktop--cli)
+	- Example prompt - Find stocks with EPS growth > 25% and price above SMA200
+- [GitHub - ajeeshworkspace/indian-trading-skills: Claude Skills for Indian equity investors and traders — NSE/BSE stocks, F&O derivatives, institutional flows, and market breadth analysis · GitHub](https://github.com/ajeeshworkspace/indian-trading-skills)
+	- Example Prompt - Analyze Reliance Industries stock fundamentals
+	- https://www.reddit.com/r/claudeskills/comments/1rsis62/claude_skills_for_indian_stock_trading_supports/
+- [GitHub - samyakjain0606/awesome-stock-skills: A curated collection of Claude Code skills for Indian stock market research — concall transcripts, equity analysis, and more. · GitHub](https://github.com/samyakjain0606/awesome-stock-skills)
+- https://www.reddit.com/r/ValueInvesting/comments/1tp8emx/i_built_an_ai_workflow_for_fundamental_analysis/
+- https://www.reddit.com/r/algotrading/comments/1l82has/ive_built_an_automated_research_agent_for_stock/
 
 ## Personal Finance Tools
 

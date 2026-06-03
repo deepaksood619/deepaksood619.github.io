@@ -53,6 +53,8 @@
 
 ## Problems
 
+- [Do Indian Tourists Really Deserve Their Bad Reputation? \| Vantage on Firstpost \| 4K - YouTube](https://www.youtube.com/watch?v=riZKl6L6XJc)
+
 ### Stampedes in India
 
 - Kumbh mela

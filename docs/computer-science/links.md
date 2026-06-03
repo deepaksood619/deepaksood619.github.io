@@ -2472,6 +2472,7 @@
 2468. [That's good Mojo - Creating a Programming Language for an AI world with ...](https://youtu.be/pTM2bnFxyf8)
 2469. [You're Building AI Agents on Layers That Won't Exist in 18 Months. (What...](https://youtu.be/7HP1jFJ9W1c)
 2470. [SpiralDB: Building a Machine-scale Database (Will Manning)](https://youtu.be/elLeyFMb7vU)
+2471. [Microsoft Build 2026: See All the Highlights in 15 Minutes - YouTube](https://www.youtube.com/watch?v=1PSHObgyJpw)
 
 ## Starred
 

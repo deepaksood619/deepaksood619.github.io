@@ -88,3 +88,5 @@ It is a non-invasive test used for the surveillance of high-risk pregnancies whe
 - [Why Babies Can't Drink Water - YouTube](https://www.youtube.com/watch?v=4DQv80biYbs&ab_channel=InsiderScience)
 - [Understand Your First Trimester Ultrasound \| Early Pregnancy Scan Guide - YouTube](https://youtu.be/N-njB2Gik2k)
 - [First Trimester Pregnancy: Everything You Need to Know from a Fertility Doctor - YouTube](https://youtu.be/-LHNfkaaMFA)
+- [How 3 Engineers Turned Period Struggles They Witnessed at Home Into a Solution for Lakhs of Women](https://thebetterindia.com/startup/reusable-period-panty-healthfab-gopadfree-bengaluru-assam-brothers-sisters-11886763/amp)
+	- [Buy Period Panty Online \| GoPadFree Heavy – Healthfab](https://www.healthfab.in/products/gopadfree-period-panty)

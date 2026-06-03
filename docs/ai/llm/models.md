@@ -320,6 +320,8 @@ So... what's the deal with TTMs?
 
 ## Links
 
+- [benchmarking-monitoring](ai/llm/benchmarking-monitoring.md)
+	- [**LLM Leaderboard - Best Text & Chat AI Models Compared**](https://arena.ai/leaderboard/text)
 - [Explore GPTs](https://chatgpt.com/gpts)
 - [vector-embeddings](ai/ml-algorithms/vector-embeddings.md)
 - [Should You Use Open Source Large Language Models? - YouTube](https://www.youtube.com/watch?v=y9k-U9AuDeM&ab_channel=IBMTechnology)

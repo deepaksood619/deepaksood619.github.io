@@ -79,3 +79,4 @@
 - [Villa at Asagaon, Goa. #allaboutarchitecture #architectureanddesign #goa - YouTube](https://www.youtube.com/watch?v=35lxloYuY1w)
 - [Why Indian Homes Feel Smaller: Space, Furniture, Design & Planning \| Sanjay Puri \| FO459 Raj Shamani - YouTube](https://youtu.be/U5JHNP3R3ME)
 - [When Architects Use 100% Of Their Brain - YouTube](https://youtu.be/QBY5bEreKVM)
+- [Two Brothers Moved to Remote Himalayan Town and Built a Mud House - Business Insider](https://www.businessinsider.com/architect-brothers-rishikesh-himalaya-airbnb-built-mud-house-2026-5)

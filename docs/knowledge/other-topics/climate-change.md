@@ -26,6 +26,11 @@
 	- [LuminX Cool Roof Coating Is BETTER Than Traditional Methods For Terrace Waterproofing - YouTube](https://www.youtube.com/watch?v=SMU02R2rkBk)
 	- [How to Apply LuminX Cool Roof Coating \| Step-by-Step Guide - YouTube](https://www.youtube.com/watch?v=0UH3uJjovfg)
 - [Rising seas will swallow New Orleans. People need to start relocating now, scientists say](https://edition.cnn.com/2026/05/25/climate/new-orleans-sea-level-rise-relocation)
+- [Not A Fan, Not AC: This Cheap Cooling System Works Without Using Electricity](https://www.bgr.com/2160481/sustainable-air-conditioner-alternative-nescod-ammonium-nitrate-cooling/)
+	- NESCOD (No Electricity and Sustainable Cooling On Demand) is a **breakthrough passive cooling technology developed by researchers at Saudi Arabia's King Abdullah University of Science and Technology (KAUST).** It cools environments entirely without electricity, compressors, or harmful refrigerants by utilizing natural chemical processes and solar energy.
+		- **Cooling:** The system uses a process called endothermic dissolution. When ammonium nitrate (a salt commonly used in fertilizers) is dissolved in water, it aggressively absorbs heat from the surrounding environment. Tests have shown this chemical reaction can rapidly drop temperatures from 25°C to 3.6°C in just 20 minutes.
+		- **Regeneration:** Once the salt has absorbed the heat and the cooling process is complete, solar thermal energy is used to evaporate the water. This causes the ammonium nitrate to naturally re-crystallize, recharging the system so it can be used again.
+		- **Water Conservation:** In arid regions, the system can capture the evaporated water vapor through solar distillation and reuse it, achieving a closed-loop cycle.
 
 ## Environmental Sciences
 

@@ -232,6 +232,8 @@ https://www.freecodecamp.org/news/how-to-use-google-tag-manager-to-maintain-goog
 
 [Sunsetting Kubernetes support for PostHog - PostHog](https://posthog.com/blog/sunsetting-helm-support-posthog)
 
+[How do you sell a forever-free product? PostHog's answer is 10 emails and a pet hedgehog.](https://www.linkedin.com/pulse/how-do-you-sell-forever-free-product-posthogs-answer-10-jovanovic-hjvmf/)
+
 ### MixPanel
 
 Mixpanel helps you learn how people use your app with mobile & web analytics. Instead of tracking page views, you can measure and see how people are actually using your app by tracking actions.

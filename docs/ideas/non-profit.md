@@ -17,7 +17,9 @@
 Any product listing, buying, delivery
 
 - Amazon
-- Zomato
+- Zomato / Swiggy (restaurants handle delivery)
+	- ["Why Restaurants are quietly leaving Swiggy & Zomato ? Owners Speak Out"- in Hindi - YouTube](https://www.youtube.com/watch?v=UCISgQfMifc)
+	- 35% margins
 - Uber
 
 **Zero Profit Kitchen**

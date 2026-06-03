@@ -138,6 +138,7 @@ To bait/expose customers to high cost - high margin products
 - [franchise](management/business/franchise.md)
 	- [footprints-daycare-franchise](management/business/footprints-daycare-franchise.md)
 	- [other-preschool-daycare-franchise](management/business/other-preschool-daycare-franchise.md)
+- [Presentations — Benedict Evans](https://www.ben-evans.com/presentations)
 - https://marcellus.in/blogs/staying-on-the-top-of-everest-is-harder-than-getting-there
 - https://marcellus.in/blogs/why-india-beats-china-hollow-on-consistent-compounding
 - [Geopolitical Series](https://www.youtube.com/playlist?list=PLGwmAEmjn4fkd3IgCnFZSbocpTnka87Pn)
