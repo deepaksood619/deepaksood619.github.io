@@ -199,12 +199,12 @@ Excellent shareholding structure with zero promoter pledge, strong promoter hold
 | Valuation Metric | Reliance | Industry/Sector Benchmark | Premium/Discount |
 |------------------|----------|---------------------------|-------------------|
 | **Current Price** | Rs. 1,309 | - | - |
-| **PE Ratio** | 22.7x | O&G Sector: 18-20x<br/>Retail: 35-40x<br/>Digital: 35-40x | Mixed (conglomerate discount) |
+| **PE Ratio** | 22.7x | O&G Sector: 18-20x Retail: 35-40x Digital: 35-40x | Mixed (conglomerate discount) |
 | **PB Ratio** | 1.96x | Historical: 2.5-3.5x | **Discount** |
 | **Market Cap** | Rs. 17,71,409 Cr | Largest in India | - |
 | **EPS (FY26)** | Rs. 59.69 | - | - |
 | **Book Value** | Rs. 668 | - | Price-to-Book: 1.96x |
-| **Dividend Yield** | **0.46%** | India avg: ~1.5%<br/>10Y G-Sec: ~7% | **Very Low** |
+| **Dividend Yield** | **0.46%** | India avg: ~1.5% 10Y G-Sec: ~7% | **Very Low** |
 
 ### Detailed Valuation Analysis
 
@@ -422,9 +422,9 @@ Valuation is **reasonable but not cheap**. Stock is fairly valued at current lev
 | Risk Category | Details | Impact on Reliance |
 |---------------|---------|---------------------|
 | **Oil & Gas Volatility** | Refining margins (GRM) are cyclical; crude price swings impact O2C segment profitability | Direct P&L impact. Downturns in O2C can offset growth in Retail/Digital. |
-| **Regulatory Changes** | **Telecom:** Spectrum pricing, adjusted gross revenue (AGR) disputes, net neutrality regulations<br/>**Retail:** FDI policy changes, e-commerce regulations, ONDC (Open Network for Digital Commerce) impact<br/>**New Energy:** Green hydrogen subsidies, carbon credit policies | Policy changes can impact profitability and growth trajectory. Regulatory uncertainty in telecom (AGR) has been ongoing. |
+| **Regulatory Changes** | **Telecom:** Spectrum pricing, adjusted gross revenue (AGR) disputes, net neutrality regulations **Retail:** FDI policy changes, e-commerce regulations, ONDC (Open Network for Digital Commerce) impact **New Energy:** Green hydrogen subsidies, carbon credit policies | Policy changes can impact profitability and growth trajectory. Regulatory uncertainty in telecom (AGR) has been ongoing. |
 | **Environmental Transition** | Stranded asset risk if fossil fuel demand declines faster than expected due to EV adoption, renewable energy shift | O2C business long-term value at risk. However, RIL's new energy pivot is strategic hedge. |
-| **Competition** | **Telecom:** Bharti Airtel (strong competitor), Vodafone Idea (weak but present)<br/>**Retail:** Amazon India, Flipkart, DMart, local players<br/>**O&G:** Indian Oil Corporation (IOC), BPCL, HPCL | Competitive intensity high in Retail and Telecom. O2C benefits from scale and integration advantages. |
+| **Competition** | **Telecom:** Bharti Airtel (strong competitor), Vodafone Idea (weak but present) **Retail:** Amazon India, Flipkart, DMart, local players **O&G:** Indian Oil Corporation (IOC), BPCL, HPCL | Competitive intensity high in Retail and Telecom. O2C benefits from scale and integration advantages. |
 
 ### Promoter-Related Risks
 

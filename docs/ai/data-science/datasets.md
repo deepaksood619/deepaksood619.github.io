@@ -83,6 +83,9 @@ H and DS use similar datasets, and DS is basically the next-gen version of H. Wh
 - [Stock Market Dataset \| Kaggle](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset)
 - [GitHub - lorint/AdventureWorks-for-Postgres: Set up the AdventureWorks sample database for use with Postgres](https://github.com/lorint/AdventureWorks-for-Postgres) ⭐ 471
 	- [AdventureWorks Sample Databases - SQL Server \| Microsoft Learn](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure)
+- [GitHub - Yuan-ManX/ai-audio-datasets: AI Audio Datasets (AI-ADS) 🎵, including Speech, Music, and Sound Effects, which can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development, and audio applications. · GitHub](https://github.com/Yuan-ManX/ai-audio-datasets)
+	- [Acappella](https://ipcv.github.io/Acappella/acappella/)
+	- _Acappella_ comprises of around **46 hours** of _a cappella_ solo singing videos sourced from YouTube, sampled across different singers and languages. These YouTube videos were all publicly available at the time of the dataset creation. The idea behind _Acappella_ is to provide a large-scale dataset to train audio-visual models for singing voice separation. Each video recording has been manually selected to exclude parts of the videos that do not satisfy any of the following characteristics: single frontal face view without occlusions, minimal background noise, no beatboxing, no snapping fingers, songs with lyrics (e.g. we avoid humming and yodelling). The dataset comprises of **1493** different video samples in total spanning four language categories: **English**, **Spanish**, **Hindi** and **Others**.
 
 ## Tools
 

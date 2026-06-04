@@ -622,7 +622,53 @@ I have an interview/deadline in 2 weeks for this role: **(Paste JD)**. Based on 
 2. **Credentialing:** Identify 2 fast-track certifications (from NPTEL, Coursera, or LinkedIn Learning) that carry weight with Indian recruiters for this specific niche.
 3. **The Script:** For each new project/cert, provide the exact resume line and a '30-second elevator pitch' for the interview to explain how this makes me the right fit.
 
-## Financial News Expert
+## Financial Prompts
+
+### Deep Research Stock Analysis Prompt
+
+Provide a comprehensive and up-to-date financial analysis of (Stock name). The analysis should cover the following aspects, with citations for data sources
+
+1. Current Stock Price and Performance
+	- Current stock price, recent trends, and historical comparison.
+2. Valuation and Metrics
+	- Price to Book Value (P/BV):
+	- P/BV < 1: Potential opportunity.
+	- P/BV < 3: Favorable.
+	- Pledge Percentage:
+	- Ideal: 0%.
+	- Acceptable: `0% < Pledge % ≤ 5%.`
+	- Unfavorable: `Pledge % > 5%.`
+	- Interest Coverage Ratio (ICR):
+	- ICR > 3 is preferable.
+	- Cash Flow from Operations (CFO):
+	- Consistent increase in CFO and operating profits.
+	- Operating Profit Margin (OPM%):
+	- Stable or increasing by 1-2% annually.
+	- Price to Earnings (P/E):
+	- Flat or declining P/E is ideal.
+	- Quick Ratio:
+	- Should always be above 1.
+	- Return on Equity (ROE):
+	- Year-over-year improvement.
+	- Debt to Equity Ratio:
+	- Favorable range: 1-2 (below 1 is ideal).
+3. Technical Analysis
+	- Support and resistance levels.
+	- Analyze 20-day, 50-day, and 200-day SMAs.
+4. Earnings and Financial Reports
+	- Recent revenue and net income trends.
+	- EPS comparison with estimates.
+5. Industry Comparison
+	- How the stock performs relative to its peers.
+6. Analyst Ratings and Price Targets
+	- Analyst ratings, target prices, upgrades/downgrades.
+7. Recent News and Sentiment
+	- Key events like mergers, acquisitions, or legal issues affecting valuation.
+8. Investment Recommendation
+	- Final recommendation: 'buy', 'hold', or 'sell.'
+	- Suitable holding period: 1 month, 6 months, or longer.
+
+### Financial News Expert
 
 **Role:** Act as an expert Intelligence Analyst and Sensemaker. Your goal is to separate signal from noise, assess event durability, evaluate second-order effects, and check narratives against historical “Base Rates.” You apply the mental models of value investing (inversion, margin of safety, skepticism) to modern news.
 
@@ -630,11 +676,9 @@ I have an interview/deadline in 2 weeks for this role: **(Paste JD)**. Based on 
 
 **Operational Constraints**
 
-**Active Verification:** Use web search to find primary sources (raw data, legislative texts, original research) to verify claims.
-
-**Skepticism First:** Treat press releases and sensationalism as spin. Assume narratives are incentive-driven until verified.
-
-**Strict Data Grounding:** If verifying data is missing, paywalled, or speculative, explicitly state “Data Unverified/Speculative.” Do not hallucinate.
+- **Active Verification:** Use web search to find primary sources (raw data, legislative texts, original research) to verify claims.
+- **Skepticism First:** Treat press releases and sensationalism as spin. Assume narratives are incentive-driven until verified.
+- **Strict Data Grounding:** If verifying data is missing, paywalled, or speculative, explicitly state “Data Unverified/Speculative.” Do not hallucinate.
 
 **The Analytical Engine**
 
@@ -680,6 +724,27 @@ _When processing the user’s input, evaluate the following constraints before g
 
 **Public Blindspots:** What everyone assumes is true but might be completely wrong.
 
+### Asset Allocation Financial Advisor Deep Research Prompt
+
+Act as an expert wealth manager and quantitative financial analyst. I want you to perform a deep-dive analysis of my current asset allocation using the attached gsheet.
+
+Your objective is to evaluate my portfolio's diversification, identify concentration risks (sector, company, or asset class), assess liquidity, and determine if the current allocation aligns with my long-term financial goals and risk tolerance.
+
+Please rely on and specifically extract data from the following sheets for your analysis:
+
+1. **Macroscopic Asset Allocation**: Use `Asset Allocation | Investments | Portfolio - Total.csv` to analyze the high-level split between Debt, Equity, Crypto, Gold, and Property. Calculate the current ratios versus the target allocations.
+2. **Microscopic Equity Analysis**: Use `Asset Allocation | Investments | Portfolio - Equity.csv`, `Asset Allocation | Investments | Portfolio - Equity Dump - Pivot Sectors.csv`, and `Asset Allocation | Investments | Portfolio - Equity Dump - Pivot Companies.csv` to analyze sector concentrations, individual stock exposure (identifying any single-stock heavy biases), and the domestic vs. international equity balance.
+3. **Fixed Income & Liquidity**: Use `Asset Allocation | Investments | Portfolio - Debt.csv` to assess the liquidity profile, maturity timelines, and risk levels of the debt instruments.
+4. **Alternative Assets**: Refer to `Asset Allocation | Investments | Portfolio - Gold.csv`, `Asset Allocation | Investments | Portfolio - Crypto.csv`, and `Asset Allocation | Investments | Portfolio - Properties.csv` to evaluate the exposure, sizing, and utility of these non-traditional assets within the broader portfolio.
+
+Please structure your output as follows:
+
+- **Executive Summary**: A brief verdict on the overall health, efficiency, and risk profile of the current asset allocation.
+- **Macro Risk Assessment**: Highlight vulnerabilities at the asset class level (e.g., too much illiquid real estate, insufficient liquid debt).
+- **Micro Risk Assessment**: Highlight specific equity vulnerabilities (e.g., overexposure to the Technology sector, specific company RSUs/ESPPs, or overlapping mutual fund holdings).
+- **Actionable Recommendations**: Provide exact, tactical rebalancing suggestions (e.g., specific asset classes or sectors to trim, accumulate, or hold) to optimize the portfolio for better risk-adjusted returns without triggering unnecessary tax events.
+- **Everything else:** Any other thing that is relevant
+
 ## Master Synthesis Prompt
 
 **Role:** Act as a Senior Strategic Analyst and Lead Researcher.
@@ -715,27 +780,6 @@ _When processing the user’s input, evaluate the following constraints before g
 6. **The Minimum Viable Insight (MVI):** What is the one thing we now know that our competitors don't?
 
 **Tone:** Aggressive, analytical, and focused on "alpha" (market-beating potential). Avoid "corporate-speak"; focus on high-velocity execution and risk mitigation. Share all research in an obsidian note in same folder.
-
-## Asset Allocation Financial Advisor Deep Research Prompt
-
-Act as an expert wealth manager and quantitative financial analyst. I want you to perform a deep-dive analysis of my current asset allocation using the attached gsheet.
-
-Your objective is to evaluate my portfolio's diversification, identify concentration risks (sector, company, or asset class), assess liquidity, and determine if the current allocation aligns with my long-term financial goals and risk tolerance.
-
-Please rely on and specifically extract data from the following sheets for your analysis:
-
-1. **Macroscopic Asset Allocation**: Use `Asset Allocation | Investments | Portfolio - Total.csv` to analyze the high-level split between Debt, Equity, Crypto, Gold, and Property. Calculate the current ratios versus the target allocations.
-2. **Microscopic Equity Analysis**: Use `Asset Allocation | Investments | Portfolio - Equity.csv`, `Asset Allocation | Investments | Portfolio - Equity Dump - Pivot Sectors.csv`, and `Asset Allocation | Investments | Portfolio - Equity Dump - Pivot Companies.csv` to analyze sector concentrations, individual stock exposure (identifying any single-stock heavy biases), and the domestic vs. international equity balance.
-3. **Fixed Income & Liquidity**: Use `Asset Allocation | Investments | Portfolio - Debt.csv` to assess the liquidity profile, maturity timelines, and risk levels of the debt instruments.
-4. **Alternative Assets**: Refer to `Asset Allocation | Investments | Portfolio - Gold.csv`, `Asset Allocation | Investments | Portfolio - Crypto.csv`, and `Asset Allocation | Investments | Portfolio - Properties.csv` to evaluate the exposure, sizing, and utility of these non-traditional assets within the broader portfolio.
-
-Please structure your output as follows:
-
-- **Executive Summary**: A brief verdict on the overall health, efficiency, and risk profile of the current asset allocation.
-- **Macro Risk Assessment**: Highlight vulnerabilities at the asset class level (e.g., too much illiquid real estate, insufficient liquid debt).
-- **Micro Risk Assessment**: Highlight specific equity vulnerabilities (e.g., overexposure to the Technology sector, specific company RSUs/ESPPs, or overlapping mutual fund holdings).
-- **Actionable Recommendations**: Provide exact, tactical rebalancing suggestions (e.g., specific asset classes or sectors to trim, accumulate, or hold) to optimize the portfolio for better risk-adjusted returns without triggering unnecessary tax events.
-- **Everything else:** Any other thing that is relevant
 
 ## Others
 

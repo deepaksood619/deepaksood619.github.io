@@ -323,6 +323,7 @@ Parental role abdication refers to **a dysfunction where parents relinquish thei
 
 - [parenting-physical](psychology/parenting-physical.md)
 - [parenting-teen-brains](psychology/parenting-teen-brains.md)
+- [homeschooling](education/pedagogy/homeschooling.md)
 - [Games - Kids](knowledge/games/kid-games.md)
 - [Colin Powell: Kids need structure | TED - YouTube](https://www.youtube.com/watch?v=NhYnouvrG_8&ab_channel=TED)
 - [Indian Parents , Their Pravachan And An Important Parenting Tip - YouTube](https://www.youtube.com/watch?v=Sjttt-F2pXE)
@@ -387,6 +388,7 @@ Parental role abdication refers to **a dysfunction where parents relinquish thei
 - [The Best Crafts for Toddlers](https://www.whattoexpect.com/toddler/playtime-tips/crafts-for-toddlers/)
 - [New Parents - You’ll Wish You Knew This Sooner...](https://youtu.be/wlOENvg92Mc)
 - [Avoid These Baby Care Mistakes - Diapers, Rashes & Best Products \| Dr Arpit Gupta \|FO324 Raj Shamani - YouTube](https://youtu.be/yP-fJMqWYCI)
+	- [🌸Everything about Cloth Diapers \| हम सर्दी में Baby के लिए कौन सा Cloth Diaper use कर रहे है? 👶 - YouTube](https://www.youtube.com/watch?v=yHR4IinVy54)
 - [8 Rules of Positive Parenting \| Riri trivedi - YouTube](https://youtu.be/22T-6duM9nI)
 - [This Is Why Your Baby Hates Tummy Time (And How To Fix It) - YouTube](https://www.youtube.com/watch?v=L4j34KDdx0Y)
 - [Parents should teach kids this No. 1 skill 'early,' says psychology expert](https://www.cnbc.com/2025/05/30/psychology-expert-the-no-1-skill-parents-should-teach-kids-as-early-as-possible-to-make-them-successful.html)
@@ -418,7 +420,6 @@ Parental role abdication refers to **a dysfunction where parents relinquish thei
 - [8 Secret Languages of Toddler Play - YouTube](https://youtu.be/QDotT8Be_Oc)
 - [Finnish Parenting Secrets: Raise Calm Kids Without Punishment - YouTube](https://youtu.be/p39qRvzhU6w)
 - [Brain Science Tips I Wish I Learned Before Yelling at Toddler - YouTube](https://youtu.be/vWFDaTabp90)
-- [Why Homeschool Parents Are So Effective Without Teaching Degrees \| The Good and the Beautiful - YouTube](https://youtu.be/7Af7MwSupEQ)
 - [Dyslexia - Wikipedia](https://en.wikipedia.org/wiki/Dyslexia)
 - [How to Stop a Baby Crying using the 'Dr Hamilton' technique. It works!! :) - YouTube](https://www.youtube.com/watch?v=4Xt-Yow_J8Q)
 - [Lying and 6 Other Things Babies Learn Early](https://youtu.be/f7FhKywXRGk)

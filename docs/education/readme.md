@@ -6,7 +6,7 @@ Education is broken and it's high time to fix it.
 
 ## Content Catalog
 
-**Current Status:** Growing (56+ files, 30 competitor analyses, 1 new product research)
+**Current Status:** Growing (60+ files, 30 competitor analyses, 5 pitch/strategy documents)
 
 ### Product Concepts
 
@@ -107,13 +107,26 @@ Education is broken and it's high time to fix it.
 
 - **[College Management Platform Analysis](education/college-management-platform-analysis.md)** - **COMPREHENSIVE MARKET RESEARCH:** End-to-end college SaaS/PaaS for Tier 2/3 institutions. **Market:** $15-20B global, ₹8,000-12,000 crore India, 45K colleges (90% manual/Excel). **Categories:** LMS (Canvas 10M users, Blackboard, D2L), SIS/ERP (Ellucian 3K institutions/21M students, Workday Student), Career Services (Handshake 1M employers, 12Twenty 55M students/alumni, Symplicity), All-in-One (Fedena 40K institutions, Classe365 6K institutions $100/month). **Critical Gaps:** (1) No affordable comprehensive platform for Tier 2/3 (Ellucian ₹50L-5 crore vs Fedena ₹50K-5L basic), (2) Skills tracking missing (no course→skill→job mapping anywhere), (3) No AI-native platform (all bolt-on AI), (4) Parent engagement weak (India-specific need), (5) NAAC/NBA compliance manual (colleges pay ₹10-50L to consultants). **Our Opportunity:** "EduStack" - LMS + SIS + Skills + Placements + AI Analytics for ₹5-50L/year. **10 Modules:** Admissions, SIS, LMS, Skills Taxonomy, Placement CRM, Finance, HR, Parent App, AI Analytics, NAAC/NBA Automation. **TAM:** 5-10K institutions × ₹10-30L avg = ₹5,000-30,000 crore ($600M-3.6B). **5-Year Goal:** 800 customers, ₹1,120 crore ARR ($134M), 10-15% market share. **Lessons:** Unified platform beats best-of-breed for mid-market, mobile-first critical for India, skills taxonomy is unique moat, NAAC/NBA is wedge product, don't chase Tier 1 (Ellucian locked), don't build via M&A (Anthology failure).
 
-### Strategic Context
+### Strategic Context & Pitch Documents
+
+**Core Documents:**
+
+- [Founder's Strategic Brief](education/founders-strategic-brief.md) - **Market entry strategy**: Hidden opportunity (MOOC collapse + AI disruption), critical insights (enterprise B2B economics, real adaptivity vs AI wrappers, outcomes-based pricing), counter-intuitive anomalies (premium beats freemium, cheap+lean beats VC-backed, bold claims work), business model fork (PLG vs Enterprise), stress test (WTP validation, AI quality, skill-salary mapping), MVI (AI question generation + algorithmic adaptivity + salary tracking = 10x economics). Recommendation: $500K-1M seed, PLG-first hybrid, 18-month path to $12M ARR.
+
+**Pitch Materials (Non-Profit Model):**
+
+- **[Pitch](education/pitch.md)** - **HIGH-LEVEL OVERVIEW (10,000 foot level)**: Vision, 1-min pitch, product strategy (FREE recruiter platform → candidate learning with 10 AI agents: tutor, mock interview, mentor, code review, resume, project guide, etc. → enterprise partnerships), why non-profit wins, impact goals (5M users, 50K scholarships, 10K salary increases), transparency commitments. References detailed docs below.
+- [Competitive Advantages](education/competitive-advantages.md) - **DETAILED ANALYSIS**: vs Scaler, Coursera, bootcamps, Khan Academy, HackerRank/CodeSignal, unfair moats (pricing, mission, capital, talent, lock-in), market validation, why for-profits can't copy
+- [Financial Sustainability Model](education/financial-sustainability.md) - **DETAILED FINANCIALS**: Cost-recovery pricing breakdown, revenue model, projections (Month 6 break-even → Month 24 ₹250 crore scale), AI cost optimization roadmap (18% → 5%), transparency commitments
+- [Technical Architecture](education/technical-architecture.md) - **DETAILED TECH**: 10 AI agents (tutor, interview, mentor, code review, resume, project guide, etc.), IRT/BKT algorithms, tech stack (Next.js, PostgreSQL, Claude/Llama), AI cost optimization (₹1.50 → ₹0.10/question), open-source strategy, scalability plan
+- [Funding Model](education/funding-model.md) - **DETAILED FUNDING**: No VC/equity/exits, grant sources (foundations, CSR, government, international aid), funding stages (₹2-100 crore over 3 years), tax benefits (80G India, 501c3 US), donor stewardship, reserve fund strategy, long-term sustainability
+
+**Context:**
 
 - [Education System](education/education-system.md) - System-level analysis
 - [Schooling](education/pedagogy/schooling.md) - Traditional schooling models
 - [Homeschooling](education/pedagogy/homeschooling.md) - Alternative education
 - [schooling-vs-homeschooling](education/pedagogy/schooling-vs-homeschooling.md)
-- [Founder's Strategic Brief](education/founders-strategic-brief.md) - **Market entry strategy**: Hidden opportunity (MOOC collapse + AI disruption), critical insights (enterprise B2B economics, real adaptivity vs AI wrappers, outcomes-based pricing), counter-intuitive anomalies (premium beats freemium, cheap+lean beats VC-backed, bold claims work), business model fork (PLG vs Enterprise), stress test (WTP validation, AI quality, skill-salary mapping), MVI (AI question generation + algorithmic adaptivity + salary tracking = 10x economics). Recommendation: $500K-1M seed, PLG-first hybrid, 18-month path to $12M ARR.
 
 ## People
 

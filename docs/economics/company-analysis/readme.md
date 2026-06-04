@@ -33,6 +33,47 @@ This directory contains comprehensive company analyses, sector reports, peer com
   - **Data Date:** June 3, 2026, 2:30 PM IST (Price: Rs. 1,028, Market Cap: Rs. 39,366 Cr)
   - **Next Update:** After Q1 FY27 earnings (July-August 2026) or operational breakeven announcement
 
+### US Stocks
+
+**Alphabet Inc. (Google)**
+
+- [Alphabet Inc. - Comprehensive Investment Analysis (June 3, 2026)](economics/company-analysis/companies/alphabet-google-comprehensive-analysis-2026-06-03.md)
+  - **Type:** Comprehensive Analysis (Fundamental + Technical + Valuation)
+  - **Ticker:** GOOGL/GOOG (NASDAQ)
+  - **Recommendation:** Buy (High Conviction)
+  - **Target Price:** $425 (18% upside from $360.60)
+  - **Score:** 9.0/10 ⭐⭐⭐⭐⭐
+  - **Key Highlights:**
+    - 🟢 **AI Monetization:** Explosive Q1 2026 results - Revenue +22% YoY ($109.90B), Net Income +81% YoY ($62.58B), Net Margin 57%
+    - 🟢 **Cloud Inflection:** Google Cloud reaching profitability with 30%+ growth
+    - 🟢 **Fortress Balance Sheet:** $127B cash, $183B annualized OCF, minimal debt
+    - 🟢 **Strategic Investment:** $80B equity raise for AI infrastructure signals aggressive market leadership
+    - 🟢 **Attractive Valuation:** P/E 27.5x for 20%+ growth with best-in-class margins (PEG `<1.3`)
+    - ⚠️ **Risks:** Regulatory (DOJ antitrust), AI competition (Microsoft/OpenAI), ad cyclicality
+  - **Position Sizing:** 5-8% for moderate investors (3-5% conservative, 8-12% aggressive)
+  - **Entry Strategy:** Current $358-365 acceptable, better at $350-355 support
+  - **Data Date:** June 3, 2026
+  - **Next Update:** Post Q2 2026 Earnings (Late July 2026)
+
+### Market Analysis
+
+**US Market Bubble Detection**
+
+- [US Market Bubble Evaluation (June 3, 2026)](economics/company-analysis/us-market-bubble-evaluation-2026-06-03.md)
+  - **Type:** Market-Wide Risk Assessment
+  - **Framework:** Bubble Detector v2.1 (Quantitative-First)
+  - **Score:** 6/15 points (CAUTION Phase)
+  - **Risk Level:** Medium
+  - **Risk Budget:** 70-80% of Normal Exposure
+  - **Key Findings:**
+    - 🔴 **Major Warning:** Margin debt +53.3% YoY ($1.30T) - historically precedes corrections within 6-18 months
+    - 🔴 **Price Acceleration:** 93.2nd percentile (unsustainable pace)
+    - ✅ **Mitigating:** VIX not extreme (16.07), IPO market restrained
+    - ⚠️ **Incomplete Data:** Missing Put/Call ratio, full breadth - true score could be 6-13 points
+  - **Recommendation:** Reduce exposure 20-30%, build cash reserves, tighten stops to ATR 1.8×
+  - **Data Date:** June 3, 2026
+  - **Next Review:** 2-4 weeks OR immediately if VIX spikes `>20` or market corrects `>5%`
+
 ### Investment Frameworks
 
 *Framework documents to be created.*
@@ -54,8 +95,9 @@ company-analysis/
 ├── CLAUDE.md                   # LLM workflow and standards
 ├── readme.md                   # This file - content catalog
 ├── companies/                  # Company-specific analyses
-│   │── reliance-industries-fundamental.md
-|   |── ather-energy-fundamental.md
+│   ├── reliance-industries-fundamental.md
+│   ├── ather-energy-fundamental.md
+│   └── alphabet-google-comprehensive-analysis-2026-06-03.md
 └── frameworks/                 # Investment methodologies
 ```
 
@@ -91,9 +133,12 @@ company-analysis/
 
 ## Statistics
 
-- **Total Company Analyses:** 2
-- **Company Score Range:** 4.5/10 to 7.8/10
-- **High-Risk Stocks:** 1 (Ather Energy)
+- **Total Company Analyses:** 3 (2 Indian, 1 US)
+- **Total Market Analyses:** 1
+- **Company Score Range:** 4.5/10 to 9.0/10
+- **High-Risk Stocks:** 1 (Ather Energy - 4.5/10)
+- **High-Conviction Buys:** 1 (Alphabet - 9.0/10)
+- **Market Risk Phase:** CAUTION (6/15 points, 70-80% risk budget)
 - **Last Updated:** June 3, 2026
 
 ## Quick Links

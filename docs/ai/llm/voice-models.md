@@ -44,6 +44,8 @@ Companies often record customer service calls for quality assurance, which invol
 - **Transcription:** The audio is converted into written text, ensuring accuracy and capturing key details like pauses and tone of voice.
 - **Review and evaluation:** Quality assurance specialists review the transcripts against established criteria, assessing aspects like agent greetings, problem-solving techniques, and overall professionalism.
 
+## Metrics
+
 ### Real-Time Factor (RTF)
 
 The **real-time factor (RTF)** is the ratio of the processing (or transcription) time to the actual duration of the audio. In other words, it measures how fast a system processes audio relative to real time. An RTF less than 1 means the system is faster than real time.
@@ -52,11 +54,23 @@ The **real-time factor (RTF)** is the ratio of the processing (or transcription)
 
 Suppose an AI tool transcribes a 1‑minute (60‑second) call in 1 second. Here, the RTF is:
 
-  RTF = Processing Time / Audio Duration = 1 sec / 60 sec = 1/60
+`RTF = Processing Time / Audio Duration = 1 sec / 60 sec = 1/60`
 
 This indicates that the system is 60 times faster than real time. If you have a call lasting x minutes and the system transcribes it in x seconds, the RTF remains 1/60, meaning it delivers the transcript at 60× real-time speed.
 
 This fast turnaround is particularly valuable in call quality monitoring, where near real‑time feedback can help promptly address issues or monitor performance.
+
+- **Latency:** Measures the delay between a user speaking a word and the system outputting the text. This is a critical metric for real-time captions and voice assistants.
+
+### Word Error Rate (WER)
+
+Word Error Rate (WER) is the standard metric used to evaluate the accuracy of speech-to-text (Automatic Speech Recognition or ASR) models. It measures how many errors a model makes when transcribing audio compared to an exact human reference
+
+### Information and Meaning Metrics
+
+- **Word Information Lost (WIL):** Measures the proportion of information lost between the reference and the hypothesis text. It offers a more stable reflection of overall transmission quality than WER.
+- **Word Information Preserved (WIP):** Calculates the inverse of WIL. It directly scores the percentage of contextual data correctly retained by the model.
+- **Semantic Error Rate (Ser):** Evaluates whether errors actually change the meaning of the sentence. For example, it penalizes "not good" vs "good" severely, but ignores "hi" vs "hello".
 
 ## Tools
 
@@ -72,6 +86,44 @@ This fast turnaround is particularly valuable in call quality monitoring, where 
 - [10 Best Call Monitoring Software in 2024 - Enthu AI](https://enthu.ai/blog/call-center-quality-monitoring-software/)
 - [GitHub - jiaaro/pydub: Manipulate audio with a simple and easy high level interface](https://github.com/jiaaro/pydub) ⭐ 9.8k
 - [GitHub - KoljaB/RealtimeSTT: A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription. · GitHub](https://github.com/KoljaB/RealtimeSTT) ⭐ 9.8k
+- [GitHub - Yuan-ManX/ai-audio-datasets: AI Audio Datasets (AI-ADS) 🎵, including Speech, Music, and Sound Effects, which can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development, and audio applications. · GitHub](https://github.com/Yuan-ManX/ai-audio-datasets)
+
+### Faster Whisper
+
+[GitHub - SYSTRAN/faster-whisper: Faster Whisper transcription with CTranslate2 · GitHub](https://github.com/SYSTRAN/faster-whisper)
+
+```bash
+pip install faster-whisper --break-system-package
+```
+
+```python title="whisper.py"
+from faster_whisper import WhisperModel
+
+model_size = "large-v3"
+
+# Run on GPU with FP16
+# model = WhisperModel(model_size, device="cuda", compute_type="float16")
+
+# or run on GPU with INT8
+# model = WhisperModel(model_size, device="cuda", compute_type="int8_float16")
+# or run on CPU with INT8
+model = WhisperModel(model_size, device="cpu", compute_type="int8")
+
+segments, info = model.transcribe("audio.mp3", beam_size=5)
+
+print("Detected language '%s' with probability %f" % (info.language, info.language_probability))
+
+for segment in segments:
+    print("[%.2fs -> %.2fs] %s" % (segment.start, segment.end, segment.text))
+```
+
+```bash
+python whisper.py
+```
+
+Dataset - [Acappella](https://ipcv.github.io/Acappella/acappella/)
+
+- _Acappella_ comprises of around **46 hours** of _a cappella_ solo singing videos sourced from YouTube, sampled across different singers and languages. These YouTube videos were all publicly available at the time of the dataset creation. The idea behind _Acappella_ is to provide a large-scale dataset to train audio-visual models for singing voice separation. Each video recording has been manually selected to exclude parts of the videos that do not satisfy any of the following characteristics: single frontal face view without occlusions, minimal background noise, no beatboxing, no snapping fingers, songs with lyrics (e.g. we avoid humming and yodelling). The dataset comprises of **1493** different video samples in total spanning four language categories: **English**, **Spanish**, **Hindi** and **Others**.
 
 ## Text to Voice
 
@@ -97,4 +149,10 @@ Turn any python function into a real-time audio and video stream over WebRTC or 
 - 📞 Automatic Telephone Support - Use the `fastphone()` method of the stream to launch the application and get a free temporary phone number!
 - 🤖 Completely customizable backend - A `Stream` can easily be mounted on a FastAPI app so you can easily extend it to fit your production application. See the [Talk To Claude](https://huggingface.co/spaces/fastrtc/talk-to-claude) demo for an example on how to serve a custom JS frontend.
 
+## Links
+
 - [39-ai-powered-call-quality-monitoring](about-deepak-sood/projects/39-ai-powered-call-quality-monitoring.md)
+- [Open ASR Leaderboard - a Hugging Face Space by hf-audio](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)
+- https://www.reddit.com/r/LocalLLaMA/comments/1mbny6o/100x_faster_and_100x_cheaper_transcription_with/
+- https://www.reddit.com/r/speechtech/comments/1kd9abp/i_benchmarked_12_speechtotext_apis_under_various/
+- https://www.reddit.com/r/OpenAI/comments/1eu79ir/looking_for_a_whisper_large_model_for_30x/

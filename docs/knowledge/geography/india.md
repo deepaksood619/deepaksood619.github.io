@@ -54,6 +54,7 @@
 ## Problems
 
 - [Do Indian Tourists Really Deserve Their Bad Reputation? \| Vantage on Firstpost \| 4K - YouTube](https://www.youtube.com/watch?v=riZKl6L6XJc)
+- [List of scandals in India - Wikipedia](https://en.wikipedia.org/wiki/List_of_scandals_in_India)
 
 ### Stampedes in India
 

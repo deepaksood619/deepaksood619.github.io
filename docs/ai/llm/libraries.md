@@ -389,6 +389,32 @@ Traditional RAG approaches often rely on batch processing and static data summar
 
 - [**VapourSynth**](https://github.com/vapoursynth/vapoursynth) ⭐ 2.0k - video processing framework with simplicity in mind. [Python docs](https://www.vapoursynth.com/doc/pythonreference.html).
 
+## Repositories
+
+10 GitHub repositories so good they shouldn't be free.
+
+1. **TradingAgents -** A full team of AI analysts that debates strategies and executes trades in real markets. 4 analysts in parallel: fundamental, sentiment, news, and technical. Then a risk manager and an executor agent. Like having a Wall Street team working 24 hours on your computer. repo - [GitHub - TauricResearch/TradingAgents: TradingAgents: Multi-Agents LLM Financial Trading Framework · GitHub](https://github.com/TauricResearch/TradingAgents) ⭐ 83k
+
+2. **LibreChat -** ChatGPT, Claude, Gemini, DeepSeek, and 20 more models in a single interface. Self-hosted. Native MCP support. Your history, your infrastructure, your data. OpenAI charges $20 a month for its interface. Here you use your own keys and don't pay a dime extra. repo - [GitHub - danny-avila/LibreChat: Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active. · GitHub](https://github.com/danny-avila/LibreChat) ⭐ 36k
+
+3. **HyperFrames -** HeyGen open-sourced its internal video engine. You write HTML. The agent renders MP4. No React, no JSX, no proprietary formats. GSAP, Lottie, and Three.js work out of the box. The same HTML always produces the same file. Used in production by HeyGen, tldraw, and TanStack. repo - [GitHub - heygen-com/hyperframes: Write HTML. Render video. Built for agents. · GitHub](https://github.com/heygen-com/hyperframes) ⭐ 24k
+
+4. **Fincept Terminal -** A Bloomberg terminal that runs on your laptop. CFA level 1, 2, and 3 analysis. Over 20 investor AI agents that reason like Buffett, Dalio, and Soros. Over 100 data connectors. Bloomberg charges $24,000 a year. This costs nothing. repo - [GitHub - Fincept-Corporation/FinceptTerminal: FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. · GitHub](https://github.com/Fincept-Corporation/FinceptTerminal) ⭐ 25k
+
+5. **MoneyPrinterTurbo -** You input a keyword. Out come the script, images, subtitles, music, and final high-quality video. Horizontal or vertical. No manual editing. What content creators do that they don't want you to know they use AI for. repo - [GitHub - harry0703/MoneyPrinterTurbo: 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. · GitHub](https://github.com/harry0703/MoneyPrinterTurbo) ⭐ 56k
+
+6. **Agentic Inbox -** Cloudflare just open-sourced an email client where an AI agent reads your inbox and drafts responses. 100% on Cloudflare Workers. Your email never leaves your account. No external servers. No subscription. repo - [GitHub - cloudflare/agentic-inbox: A self-hosted email client with an AI agent, running entirely on Cloudflare Workers · GitHub](https://github.com/cloudflare/agentic-inbox) ⭐ 3.9k
+
+7. **VoxCPM2 -** Clone any voice with 3 seconds of audio. 30 languages. Studio-quality 48kHz. Design voices from text: "deep male radio announcer voice." No paid API. No voice samples leaving your machine. ElevenLabs charges $22 a month. repo - [GitHub - OpenBMB/VoxCPM: VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning · GitHub](https://github.com/OpenBMB/VoxCPM) ⭐ 26k
+
+8. **Flowsint -** You enter a domain. The tool deploys a graph with all IPs, subdomains, emails, crypto wallets, and connected social profiles. All stored locally. Without anyone knowing what you're investigating. For OSINT, due diligence, and competitor analysis. repo - [GitHub - reconurge/flowsint: A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators. · GitHub](https://github.com/reconurge/flowsint) ⭐ 4.9k
+
+9. **addyosmani/agent-skills -** The Google engineer who's been teaching web performance to the entire industry for 15 years published his skills for Claude Code. 23 real workflows tested in production. API design, code review, debugging, CI/CD, and frontend. Installation with one command. repo - [GitHub - addyosmani/agent-skills: Production-grade engineering skills for AI coding agents. · GitHub](https://github.com/addyosmani/agent-skills) ⭐ 48k
+
+10. **Nango -** The integrations layer that companies pay $50k a year to rent. 700 ready APIs: Salesforce, HubSpot, Slack, Gmail, Stripe, Jira, and more. Managed OAuth. Your AI agent generates integration code from a prompt. Used in production by Replit, Ramp, and Mercor. repo - [GitHub - NangoHQ/nango: Build product integrations with AI. · GitHub](https://github.com/NangoHQ/nango) ⭐ 9.8k
+
+These aren't toys. Each one replaces a paid product that you're still being charged for. Pick one. Install it. Connect it to your workflow. 100% free. 100% open source.
+
 ## Others
 
 - [Tools](ai/llm/tools.md)

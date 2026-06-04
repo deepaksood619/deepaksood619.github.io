@@ -239,6 +239,9 @@ https://myenglishmatters.com/2018/06/28/whats-the-difference-between-has-been-ha
 - **Cultural appropriation** is the adoption or use of elements from a minority or marginalized culture by members of a dominant culture, often in an exploitative, disrespectful, or stereotypical manner. It typically involves an imbalance of power, where elements like clothing, symbols, or traditions are used without understanding, respect, or acknowledgment.
 - **Discernment -** Discernment is the mental or spiritual ability to judge things clearly, perceive nuanced truths, and separate what is genuinely valuable or correct from what is obscure, deceptive, or inferior. It goes beyond simple black-and-white thinking, requiring wisdom, keen perception, and careful evaluation.
 - **Clarion -** A Clarion is **a brilliantly clear, ringing, and stirring sound**. It originated as a medieval, high-pitched trumpet used to signal battles or royal arrivals.
+- **sandbagging -** sandbagging literally refers to the physical act of filling and stacking sandbags to protect against floods.
+	- **Legal Strategy -** In contract law, sandbagging refers to a buyer proceeding with an acquisition or deal despite knowing that the seller made false representations, with the intent to sue the seller for breach of contract immediately after the deal closes.
+	- **Business & Investing -** In the corporate world, sandbagging means deliberately setting low performance targets or issuing pessimistic earnings guidance. Managers do this to easily beat expectations later, which boosts investor confidence and helps secure performance bonuses.
 
 ### Shill / Shilling
 
