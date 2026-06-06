@@ -33,14 +33,17 @@
 
 ## Category 1: Established Algorithmic Adaptive Platforms (K-12 Focus)
 
-### 1. ALEKS (McGraw-Hill) - The IRT Pioneer
+### 1. ALEKS (McGraw-Hill) - The Knowledge Space Theory Pioneer
 
 **Technology:**
 
-- **Algorithm:** Item Response Theory (IRT) + Knowledge Space Theory
+- **Algorithm:** Knowledge Space Theory (KST) + Markovian procedures
+- **How KST Works:** Deconstructs subject (e.g., high school algebra) into ~350 basic concepts, models as mathematical structure of "knowledge states" (millions/trillions of possible states), uses stochastic elimination to pinpoint exact knowledge state in 20-30 questions
+- **Innovation:** Maps prerequisite relationships between concepts (can't learn X without mastering Y first), creates knowledge graph vs linear progression
 - **Approach:** Diagnostic assessments identify knowledge gaps → adaptive problem sets
 - **Content:** Static question bank (30K+ problems), NOT generative
 - **Subjects:** Math, chemistry, statistics (STEM only)
+- **Scale:** 50 million+ students have used this architecture (per academic research)
 
 **Business Model:**
 
@@ -65,12 +68,20 @@
 - **Expensive for individuals** ($240/year) without institutional discount
 - **No outcome tracking** (doesn't measure salary, job placement, career advancement)
 
+**Academic Research Validation:**
+
+- KST proven effective at scale (50M+ students)
+- Can identify exact knowledge state in 20-30 questions (highly efficient diagnostic)
+- Knowledge graph approach superior to linear IRT for complex curricula
+- Markovian procedures navigate massive state space efficiently
+
 **Why We Win:**
 
 - We generate infinite questions (vs 30K static)
 - Working professional focus (vs K-12)
 - Career outcomes (vs course completion)
 - Broader skills (coding, cloud, data science vs just math)
+- **We can combine KST knowledge graphs + LLM generation** (nobody doing this)
 
 ---
 
@@ -191,6 +202,36 @@
 - **Content:** Partner content + authoring tools (NOT generative)
 - **Innovation:** Measures confidence alongside correctness ("I know I don't know" vs "I think I know but I'm wrong")
 
+### 5. Sana Labs - Bayesian IRT + Deep Learning (Corporate L&D)
+
+**Technology:**
+
+- **Algorithm:** Bayesian IRT models (similar to GMAT/GRE algorithms) + proprietary deep learning search algorithms
+- **Approach:** Real-time personalized learning analytics, combines traditional psychometrics with modern deep learning
+- **Market:** Corporate training, enterprise L&D
+- **Innovation:** Merges proven IRT psychometrics with deep learning optimization
+
+**Business Model:**
+
+- **Market:** Enterprise corporate training, B2B
+- **Pricing:** Not publicly disclosed (enterprise custom pricing)
+- **Scale:** Not publicly disclosed
+- **Revenue:** Private company
+
+**Strengths:**
+
+- Proven psychometric foundation (Bayesian IRT = gold standard)
+- Deep learning enhancement (modern AI on classical algorithms)
+- Enterprise focus (aligns with our Phase 3 B2B strategy)
+- Real-time optimization (continuous learning analytics)
+
+**Weaknesses:**
+
+- **No generative AI** (requires content authoring, expensive to scale)
+- **Enterprise-only** (no consumer product, high entry barrier)
+- **Limited public information** (private company, minimal disclosures)
+- **No outcome tracking** (course completion, not salary/job placement)
+
 **Business Model:**
 
 - **Market:** Corporate training, higher ed (executive education)
@@ -229,7 +270,7 @@
 
 ---
 
-### 5. DreamBox Learning (Math, K-8) - Game-Based Adaptive
+### 6. DreamBox Learning (Math, K-8) - Game-Based Adaptive
 
 **Technology:**
 
@@ -269,7 +310,7 @@
 
 ---
 
-### 6. Smart Sparrow (Now Pearson+) - Adaptive Courseware Authoring
+### 7. Smart Sparrow (Now Pearson+) - Adaptive Courseware Authoring
 
 **Technology:**
 
@@ -980,7 +1021,7 @@
 
 ## Strategic Positioning: The Quadrants
 
-```
+```text
                     High Algorithmic Adaptivity
                               |
                               |

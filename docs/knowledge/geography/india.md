@@ -89,6 +89,7 @@ For India to become a booming economy only three things need to be at top priori
 
 ## Others
 
+- [indias-ethanol-policy-corruption-and-collusion](knowledge/other-topics/indias-ethanol-policy-corruption-and-collusion.md)
 - [India has a Big Stray Dogs Problem | Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=tMsf6i7yID8)
 - [INDIA is Doomed - YouTube](https://youtu.be/bJ8Mz_HZMN4) - **No civics sense in India**
 	- [Reason Why The World Hates Indians - YouTube](https://youtu.be/7HEezx6jrpc)

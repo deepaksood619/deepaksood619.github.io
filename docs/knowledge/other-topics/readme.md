@@ -4,6 +4,7 @@
     - [Types of Governments](knowledge/other-topics/politics/types-of-governments.md)
     - [Politics](knowledge/other-topics/politics/others.md)
     - [Indian Polity](knowledge/other-topics/politics/indian-polity.md)
+	    - [indias-ethanol-policy-corruption-and-collusion](knowledge/other-topics/indias-ethanol-policy-corruption-and-collusion.md)
     - [International Relations IR](knowledge/other-topics/politics/international-relations-ir.md)
 - [Environmental Sciences](knowledge/other-topics/climate-change.md)
 - [Philosophy](knowledge/other-topics/philosophy.md)

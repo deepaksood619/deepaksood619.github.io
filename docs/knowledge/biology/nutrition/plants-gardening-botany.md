@@ -38,7 +38,7 @@ Aloe vera, English ivy air purifying plants
 
 ## Links
 
-- [‎Gemini - Indian Home Gardening](https://gemini.google.com/share/224510f802fc)
+- [Gemini - Indian Home Gardening](https://gemini.google.com/share/224510f802fc)
 - [A Plant-Care & Self-Care Guide for the Modern Houseplant Parent | Kamili Bell Hill | Talks at Google - YouTube](https://www.youtube.com/watch?v=_JiWL16gfN8)
 - [How We ALL Get Our Energy (Plants & Ecosystems): Crash Course Botany #13 - YouTube](https://www.youtube.com/watch?v=oZtUFJAJ3lU)
 - [Pome - Wikipedia](https://en.wikipedia.org/wiki/Pome)

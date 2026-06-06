@@ -80,6 +80,9 @@
 ## Market Research
 
 - [Technical Hiring Assessment Market](education/competitors/technical-hiring-assessment-market.md) - $8-10B TAM analysis
+- [adaptive-learning-algorithms-competitors](education/competitors/adaptive-learning-algorithms-competitors.md)
+- [adaptive-learning-deep-dive-new-findings](education/competitors/adaptive-learning-deep-dive-new-findings.md)
+- [personalized-education-ai-research](education/competitors/personalized-education-ai-research.md)
 
 ## Links
 

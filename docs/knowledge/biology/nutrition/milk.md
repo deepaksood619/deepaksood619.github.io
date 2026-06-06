@@ -310,4 +310,4 @@ If you prefer to stick with the oat milk, you will need to proactively replace t
 
 ## Links
 
-[‎Gemini - Oat Milk vs Cow Milk for Toddlers](https://gemini.google.com/share/8233fb70d419)
+[Gemini - Oat Milk vs Cow Milk for Toddlers](https://gemini.google.com/share/8233fb70d419)

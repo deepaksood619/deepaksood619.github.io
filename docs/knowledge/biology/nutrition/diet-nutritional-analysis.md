@@ -251,4 +251,4 @@ Based on the exhaustive biochemical and epidemiological analysis of the provided
 
 ## Links
 
-[‎Gemini - Vegetarian Diet Plan Nutritional Analysis](https://gemini.google.com/share/cb7ab7c73f4d)
+[Gemini - Vegetarian Diet Plan Nutritional Analysis](https://gemini.google.com/share/cb7ab7c73f4d)

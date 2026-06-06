@@ -335,6 +335,7 @@ ls ~/.claude/get-shit-done/workflows/
 - [GitHub - snarktank/ralph: Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. · GitHub](https://github.com/snarktank/ralph) ⭐ 18k
 	- [Claude Code Testing: How to Make AI Verify (and Fix) Its Own Work](https://www.nathanonn.com/claude-code-testing-ralph-loop-verification/)
 - [OpenCode \| The open source AI coding agent](https://opencode.ai/)
+- [TradeUsage — Buy Claude credits without Max pricing](https://tradeusage.com/)
 
 ### Skills
 
@@ -394,6 +395,11 @@ ls ~/.claude/get-shit-done/workflows/
 - Or: /loop check whether CI passed and address any new review comments on my open PRs
 - Set a one-time reminder in natural language: remind me at 3pm to push the release branch once CI is green
 
+**WebSearch vs WebFetch**
+
+  - ❌ WebSearch - Blocked by VPCSC VPC Service Controls (Google Cloud security boundary)
+  - ✅ WebFetch - Works fine for specific URLs
+
 ## Skills vs Slash Commands
 
 | Feature              | **Slash Commands**                                                                   | **Skills**                                                                                                     |
@@ -410,6 +416,7 @@ ls ~/.claude/get-shit-done/workflows/
 - [GitHub - yasasbanukaofficial/claude-code: 🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. · GitHub](https://github.com/yasasbanukaofficial/claude-code) ⭐ 2.9k
 - [GitHub - codeaashu/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. · GitHub](https://github.com/codeaashu/claude-code) ⭐ 2.3k
 - [Reddit - Claude Code Source Leak Megathread](https://www.reddit.com/r/ClaudeAI/comments/1s9d9j9/claude_code_source_leak_megathread/)
+- [GitHub - anthropics/claude-code: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. · GitHub](https://github.com/anthropics/claude-code)
 
 ## Links
 

@@ -53,10 +53,8 @@ A **core catcher** is a device provided to catch the molten core material ([cori
 
 ## Others
 
-[Why do hurricane lanterns look like that?](https://www.youtube.com/watch?v=tURHTuKHBZs)
-
-["It’s Always About Oil": CIA & MI6 Staged Coup in Iran 70 Years Ago, Destroying Democracy in Iran - YouTube](https://www.youtube.com/watch?v=7coh9-MpFJo)
-
-[How is India CHALLENGING the Arab Countries in the Global Fuel War? : Geopolitical Case Study - YouTube](https://www.youtube.com/watch?v=sr7BIdpcG10)
-
-[Why CO2 Heat Pumps Are The Future Of Cooling - YouTube](https://www.youtube.com/watch?v=npqzHpeIvhM)
+- [indias-ethanol-policy-corruption-and-collusion](knowledge/other-topics/indias-ethanol-policy-corruption-and-collusion.md)
+- [Why do hurricane lanterns look like that?](https://www.youtube.com/watch?v=tURHTuKHBZs)
+- ["It’s Always About Oil": CIA & MI6 Staged Coup in Iran 70 Years Ago, Destroying Democracy in Iran - YouTube](https://www.youtube.com/watch?v=7coh9-MpFJo)
+- [How is India CHALLENGING the Arab Countries in the Global Fuel War? : Geopolitical Case Study - YouTube](https://www.youtube.com/watch?v=sr7BIdpcG10)
+- [Why CO2 Heat Pumps Are The Future Of Cooling - YouTube](https://www.youtube.com/watch?v=npqzHpeIvhM)

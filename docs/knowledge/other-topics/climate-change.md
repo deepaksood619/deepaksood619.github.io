@@ -109,6 +109,7 @@ Therefore, use water wisely, responsibly, and with restraint. Otherwise, long be
 ## Links
 
 - [The Uninhabitable Earth](book-summaries/the-uninhabitable-earth.md)
+- [indias-ethanol-policy-corruption-and-collusion](knowledge/other-topics/indias-ethanol-policy-corruption-and-collusion.md)
 - [The Fourth Big Force: Climate Change](https://www.linkedin.com/pulse/fourth-big-force-climate-change-ray-dalio-vmt5e/)
 - [What's happening to our water?](https://finshots.in/archive/whats-happening-to-our-water-atmospheric-water-generators-awg/)
 - [When Will Extreme Heat Become Unlivable?](https://youtu.be/7hBMbQ9de1g)
