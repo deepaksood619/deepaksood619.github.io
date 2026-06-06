@@ -418,6 +418,44 @@ It can become toxic and inedible quickly; when stored for more than 20 minutes, 
 - [Farming Engineer - YouTube](https://www.youtube.com/@FarmingEngineer)
 - [Honest food review - YouTube](https://www.youtube.com/playlist?list=PLWXBW2QXy3ul0W0ODOo3NdHU6w7COn8GP)
 - [DeHaat - YouTube](https://www.youtube.com/@DeHaat)
+- [Foodpharmer - YouTube](https://www.youtube.com/@Foodpharmer)
+- Minutefood
+- [MinuteEarth - YouTube](https://www.youtube.com/@MinuteEarth)
+- [Ajit Singh Bhatnagar - Quora](https://www.quora.com/profile/Ajit-Singh-Bhatnagar)
+- [AgriTalk By Abhinav Roy - YouTube](https://www.youtube.com/@agritalkbyabhinavroy)
+
+## Utensils
+
+[The pan you don't have (but should)](https://www.youtube.com/watch?v=yX4hXnyfozo)
+
+[I am SO done with Teflon - YouTube](https://www.youtube.com/watch?v=R1hbV3EzOD4)
+
+[4 Types of Toxic Cookware to Avoid and 4 Safe Alternatives - YouTube](https://www.youtube.com/watch?v=0uATfA_WoTA)
+
+#### Bad
+
+- non stick - Teflon
+- Aluminium cookware
+- Aluminium foil
+- Copper cookware
+- non stick - ceremic coated pans (not long lasting)
+
+#### Good
+
+- 100% ceremic cookware
+- **Stainless steel** (Food grade which doesn't contain nickel or chromium)
+    - [Avoid These Mistakes When Buying Stainless Steel Cookware (What to Look For) - YouTube](https://www.youtube.com/watch?v=zndEZkSQNAo)
+- Glass cookware
+- cast iron
+- **carbon steel**
+
+## PFAS (Forever Chemicals)
+
+[Polytetrafluoroethylene - Wikipedia](https://en.wikipedia.org/wiki/Polytetrafluoroethylene#Ecotoxicity)
+
+[PFAS: The secret toxins in your body - YouTube](https://www.youtube.com/watch?v=lVcOxZZGrBc)
+
+- PTFE / PFOA - All PFAS are carcinogenic
 
 ## Others
 

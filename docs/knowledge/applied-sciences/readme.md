@@ -8,4 +8,5 @@
 - [Chemical Engineering](chemical-engineering)
 - [Embedded Systems / Electronics](embedded-systems-electronics)
 - [Control Engineering](control-engineering)
+- [generator-vs-inverter](knowledge/applied-sciences/generator-vs-inverter.md)
 - [Others / Power / Energy](others-power-energy)

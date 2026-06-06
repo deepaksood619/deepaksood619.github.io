@@ -116,6 +116,8 @@ Based on March 2026 data, **GPT-5.4-mini is a newer, more advanced "small" mod
     - Peligemma - [Google's New PaliGemma-Open Vision Language Model - YouTube](https://www.youtube.com/watch?v=un0SjUnHvvE)
     - VLM - Vision Language Model
     - [Introducing the Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
+    - [Gemma 4 12B: The Developer Guide - Google Developers Blog](https://developers.googleblog.com/gemma-4-12b-the-developer-guide/)
+	    - [A Visual Guide to Gemma 4 12B - by Maarten Grootendorst](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-gemma-4-12b)
 - Gemini 3.5 Flash
 	- **Baseline (Gemini 3.1 Pro):** Terminal-Bench 2.1: ~68%, GDPval-AA: ~1,410 Elo, cost tier: premium flagship
 	- **After Optimization (Gemini 3.5 Flash):** Terminal-Bench 2.1: **76.2%** (+12% improvement), GDPval-AA: **1,656 Elo** (+17% improvement)

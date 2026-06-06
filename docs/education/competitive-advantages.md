@@ -78,26 +78,31 @@
 ## The Unfair Moat (For-Profits Can't Copy)
 
 ### 1. Pricing Moat
+
 - They must charge 60-85% margins (investor expectations)
 - We charge 10-15% (cost-recovery)
 - **They literally cannot match our prices without destroying business model**
 
 ### 2. Mission Moat
+
 - For-profit: "We care about learning" (but care about revenue)
 - Non-profit: Proven by 70% free tier, public financials
 - **Users trust us more → 15-20% conversion vs 1-10%**
 
 ### 3. Capital Moat
+
 - They raise VC → exit pressure, revenue targets
 - We raise grants → mission focus, impact targets
 - **Access to $10B+/year education grant capital**
 
 ### 4. Talent Moat
+
 - They pay market salaries (expensive)
 - We pay 50-70% market (mission-driven talent)
 - **"I want to change education" attracts best engineers**
 
 ### 5. Lock-in Moat
+
 - They're locked into profit maximization (investors)
 - **They can't pivot to non-profit (shareholder lawsuits)**
 
@@ -106,6 +111,7 @@
 ## Market Validation
 
 **MOOC Collapse (2024-2026):**
+
 - Coursera: Never profitable in 13 years
 - edX: Parent company bankrupt (July 2024)
 - Unacademy: 85% valuation crash
@@ -114,6 +120,7 @@
 **Lesson:** For-profit MOOCs chase revenue, not outcomes
 
 **Non-Profit Success Examples:**
+
 - Khan Academy: 150M users (sustainable via donations)
 - freeCodeCamp: 350K monthly users, 40K employed alumni
 - Wikipedia: Proof non-profits can scale with donations

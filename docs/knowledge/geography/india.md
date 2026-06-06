@@ -55,6 +55,7 @@
 
 - [Do Indian Tourists Really Deserve Their Bad Reputation? \| Vantage on Firstpost \| 4K - YouTube](https://www.youtube.com/watch?v=riZKl6L6XJc)
 - [List of scandals in India - Wikipedia](https://en.wikipedia.org/wiki/List_of_scandals_in_India)
+- [CBSE Row Blows Up: Board Finally Admits To Lapses After Exposés: But Where Does The Buck Stop? - YouTube](https://www.youtube.com/watch?v=x0SdEoCuT70)
 
 ### Stampedes in India
 

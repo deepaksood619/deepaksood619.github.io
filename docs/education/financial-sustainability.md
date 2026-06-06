@@ -20,6 +20,7 @@
 | Resume review | 500 | ₹50 | ₹20 AI + ₹5 infra | +₹25 ops |
 
 **Why charge more than direct costs:**
+
 - Direct costs: 20-30%
 - Platform operations: 40-50%
 - Sustainability buffer: 10-15%
@@ -32,6 +33,7 @@
 ### 2. Donations (30-40% of Funding)
 
 **Sources:**
+
 - Individual donors (HNIs, successful alumni)
 - Corporate CSR (2% mandate in India)
 - Foundations (Gates, Omidyar, Skoll, ACT, Azim Premji)
@@ -39,6 +41,7 @@
 - International aid (World Bank, USAID)
 
 **Tax Benefits:**
+
 - India: 80G (50% deduction)
 - US: 501(c)(3) (100% deduction)
 - Corporate CSR compliance
@@ -50,15 +53,18 @@
 ### Month 6: Break-Even
 
 **Operations:**
+
 - 10,000 recruiters
 - 100,000 candidates tested
 - 2,000 paying users
 
 **Revenue:**
+
 - Credits: ₹2L/month
 - Donations: ₹50L (one-time seed)
 
 **Costs:**
+
 - AI/Infrastructure: ₹8L
 - Team (2 people): ₹12L
 - Operations: ₹4L
@@ -71,16 +77,19 @@
 ### Month 12: Self-Sustaining
 
 **Operations:**
+
 - 500,000 registered
 - 100,000 free tier users
 - 10,000 paying users
 - 500 scholarship users
 
 **Revenue:**
+
 - Credits: ₹68L/month (₹8.16 crore ARR)
 - Donations: ₹2 crore
 
 **Costs:**
+
 - AI/Infrastructure: ₹2.4 crore
 - Team (5 people): ₹1.8 crore
 - Operations: ₹1.2 crore
@@ -93,16 +102,19 @@
 ### Month 18: Scholarship Expansion
 
 **Operations:**
+
 - 2M registered
 - 500,000 free tier
 - 50,000 paying
 - 5,000 scholarships
 
 **Revenue:**
+
 - Credits: ₹7.5 crore/month (₹90 crore ARR)
 - Donations: ₹10 crore
 
 **Costs:**
+
 - AI/Infrastructure: ₹18 crore (20%, down from 30%)
 - Team (15 people): ₹5.4 crore
 - Operations: ₹2.4 crore
@@ -116,17 +128,20 @@
 ### Month 24: Scale
 
 **Operations:**
+
 - 5M registered
 - 2M free tier
 - 100,000 paying
 - 50,000 scholarships
 
 **Revenue:**
+
 - Credits: ₹20 crore/month (₹240 crore ARR)
 - Enterprise: ₹14.4 crore ARR
 - Donations: ₹30 crore
 
 **Costs:**
+
 - AI/Infrastructure: ₹38.2 crore (15%, optimized)
 - Team (40 people): ₹12 crore
 - Operations: ₹5 crore
@@ -137,6 +152,7 @@
 **Surplus: ₹159.2 crore → 100% reinvested**
 
 **Reinvestment:**
+
 - ₹50 crore: Expand free tier (5,000 credits/month)
 - ₹50 crore: Geographic expansion (10 countries)
 - ₹30 crore: New verticals (marketing, design, product)
@@ -171,12 +187,14 @@
 ## Transparency Commitments
 
 **Public Annual Reports:**
+
 - Every rupee accounted for
 - Donation sources and uses
 - Operational surplus allocation
 - Impact metrics (not revenue metrics)
 
 **Real-Time Dashboard:**
+
 - Live donation counter
 - Users served (free vs paid)
 - Scholarship recipients

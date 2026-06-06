@@ -33,11 +33,59 @@ This directory contains comprehensive company analyses, sector reports, peer com
   - **Data Date:** June 3, 2026, 2:30 PM IST (Price: Rs. 1,028, Market Cap: Rs. 39,366 Cr)
   - **Next Update:** After Q1 FY27 earnings (July-August 2026) or operational breakeven announcement
 
+### Suzlon Energy Limited
+
+- [Suzlon Energy - Comprehensive Investment Analysis (June 4, 2026)](economics/company-analysis/companies/suzlon-energy-comprehensive.md)
+  - **Type:** Comprehensive Analysis (Fundamental + Technical + Valuation)
+  - **Ticker:** NSE:SUZLON / BSE:532667
+  - **Recommendation:** Buy (Medium to High Conviction)
+  - **Target Price:** Rs. 65-70 (17-26% upside from Rs. 55.60)
+  - **Score:** 7.5/10 ⭐⭐⭐⭐
+  - **Key Highlights:**
+    - 🟢 **Successful Turnaround:** From Rs. 913 Cr loss (FY22) to Rs. 4,111 Cr profit (FY26) in 4 years
+    - 🟢 **Exceptional Growth:** Revenue CAGR 65% (5Y), Profit CAGR 114% (3Y)
+    - 🟢 **Superior Returns:** ROE 38.2%, ROCE 35.6% (industry-leading)
+    - 🟢 **Debt-Free:** Borrowings just Rs. 269 Cr vs Rs. 7,083 Cr reserves
+    - 🟢 **Attractive Valuation:** PE 24-26x vs peers at 35-146x, despite higher growth
+    - 🟢 **Sector Tailwinds:** India's 500 GW renewable target by 2030 creates massive runway
+    - 🟢 **Technical Setup:** Above all moving averages, RSI 57 (room for upside)
+    - ⚠️ **Key Risk:** Low promoter holding (11.73%, declining from 14.50%) - governance concern
+  - **Position Sizing:** 2-3% portfolio (limit due to promoter holding concern)
+  - **Entry Strategy:** Rs. 52-56 accumulation zone, add more at Rs. 48-51
+  - **Data Date:** June 4, 2026, 4:14 PM IST (Price: Rs. 55.60, Market Cap: Rs. 75,700 Cr)
+  - **Next Update:** After Q1 FY27 earnings (July 2026) or significant promoter holding change
+
+### Physicswallah Limited
+
+- [Physicswallah - Comprehensive Investment Analysis (June 4, 2026)](economics/company-analysis/companies/physicswallah-comprehensive.md)
+  - **Type:** Comprehensive Analysis (Fundamental + Technical + Valuation)
+  - **Ticker:** NSE:PWL / BSE:544256
+  - **Recommendation:** Hold / Speculative Buy (High Risk - Only for Aggressive Investors)
+  - **Target Price:** Rs. 120-130 (13-22% upside from Rs. 106.46)
+  - **Score:** 5.5/10 ⭐⭐⭐ (High Risk)
+  - **IPO Status:** Listed Nov 18, 2025 (6 months ago) - Down 27% from listing price Rs. 145
+  - **Key Highlights:**
+    - 🟢 **Impressive Revenue Growth:** 39% CAGR, revenue Rs. 3,245 Cr (FY26)
+    - 🟢 **Margin Transformation:** Operating margin from -57% (FY24) to +8% (FY26) in 2 years
+    - 🟢 **Cash Flow Positive:** Rs. 821 Cr operating cash flow despite Rs. 40 Cr accounting loss
+    - 🟢 **Debt Reduction:** Borrowings from Rs. 2,389 Cr to Rs. 985 Cr (post-IPO cleanup)
+    - 🟢 **Strong Promoter Holding:** 72.30% (0% pledge)
+    - ⚠️ **Still Loss-Making:** Net loss Rs. 40 Cr (FY26); not consistently profitable yet
+    - 🔴 **Seasonal Business:** Q4 March quarter always loss-making (structural issue)
+    - 🔴 **Extreme Valuation:** P/S 9-10x (vs global EdTech peers at 2-3x)
+    - 🔴 **High Volatility:** 56% annualized volatility; down 27% from IPO
+    - 🔴 **EdTech Headwinds:** Byju's crisis, offline coaching revival, regulatory scrutiny
+  - **Risk Level:** Very High - Suitable only for `<2-3%` portfolio allocation
+  - **Entry Strategy:** Wait for Rs. 90-95 (near 52-week low Rs. 77.72), avoid current Rs. 106
+  - **Stop Loss:** Rs. 70 (below 52-week low)
+  - **Data Date:** June 4, 2026 (Price: Rs. 106.46, Market Cap: Rs. 30,424 Cr, Volume: 7.54x avg)
+  - **Next Update:** After Q1 FY27 earnings (July 2026) or profitability achievement
+
 ### US Stocks
 
-**Alphabet Inc. (Google)**
+#### Alphabet Inc. (Google)
 
-- [Alphabet Inc. - Comprehensive Investment Analysis (June 3, 2026)](economics/company-analysis/companies/alphabet-google-comprehensive-analysis-2026-06-03.md)
+- [Alphabet Inc. - Comprehensive Investment Analysis (June 3, 2026)](economics/company-analysis/companies/alphabet-google-comprehensive-analysis.md)
   - **Type:** Comprehensive Analysis (Fundamental + Technical + Valuation)
   - **Ticker:** GOOGL/GOOG (NASDAQ)
   - **Recommendation:** Buy (High Conviction)
@@ -54,6 +102,10 @@ This directory contains comprehensive company analyses, sector reports, peer com
   - **Entry Strategy:** Current $358-365 acceptable, better at $350-355 support
   - **Data Date:** June 3, 2026
   - **Next Update:** Post Q2 2026 Earnings (Late July 2026)
+
+#### Others
+
+- [amazon-comprehensive-analysis](economics/company-analysis/companies/amazon-comprehensive-analysis.md)
 
 ### Market Analysis
 
@@ -95,6 +147,8 @@ company-analysis/
 ├── CLAUDE.md                   # LLM workflow and standards
 ├── readme.md                   # This file - content catalog
 ├── companies/                  # Company-specific analyses
+│   ├── suzlon-energy-comprehensive.md
+│   ├── physicswallah-comprehensive.md
 │   ├── reliance-industries-fundamental.md
 │   ├── ather-energy-fundamental.md
 │   └── alphabet-google-comprehensive-analysis-2026-06-03.md
@@ -133,13 +187,15 @@ company-analysis/
 
 ## Statistics
 
-- **Total Company Analyses:** 3 (2 Indian, 1 US)
+- **Total Company Analyses:** 5 (4 Indian, 1 US)
 - **Total Market Analyses:** 1
 - **Company Score Range:** 4.5/10 to 9.0/10
-- **High-Risk Stocks:** 1 (Ather Energy - 4.5/10)
-- **High-Conviction Buys:** 1 (Alphabet - 9.0/10)
+- **High-Risk Stocks:** 2 (Ather Energy - 4.5/10, Physicswallah - 5.5/10)
+- **High-Conviction Buys:** 2 (Alphabet - 9.0/10, Suzlon Energy - 7.5/10)
+- **Sector Coverage:** EdTech (1), Renewable Energy (1), Oil & Gas (1), EV (1), Technology (1)
+- **IPO Stocks Covered:** 1 (Physicswallah - listed Nov 2025)
 - **Market Risk Phase:** CAUTION (6/15 points, 70-80% risk budget)
-- **Last Updated:** June 3, 2026
+- **Last Updated:** June 4, 2026
 
 ## Quick Links
 

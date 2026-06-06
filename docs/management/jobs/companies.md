@@ -187,6 +187,7 @@
 	- [G-P \| Hire, Onboard, Manage, and Pay Global Teams](https://www.globalization-partners.com/)
 	- [Deel \| Global Payroll, Compliance & HR Solutions \| HRIS](https://www.deel.com/)
 - [ADP (company) - Wikipedia](https://en.wikipedia.org/wiki/ADP_(company))
+- [Products That Advance Your Platform's Performance \| Grazitti Interactive](https://www.grazitti.com/products/)
 
 ## Good companies
 
@@ -307,3 +308,4 @@
 
 - [LinkedIn Top Companies 2024: The 25 workplaces in India to grow your career (\>5K employees)](https://www.linkedin.com/pulse/linkedin-top-companies-2024-25-workplaces-india-grow-your-gs-kumar-uv3wc/)
 - Sova health - [The Sova Health Story - by Priyadarshan Banjan - tal64](https://www.tal64.com/p/the-sova-health-story)
+- [The AI Consulting: Get Paid $3K–$10K to Install AI Into Other Businesses](https://businessanalytics.substack.com/p/the-ai-consulting-get-paid-3k10k)

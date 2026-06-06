@@ -2,6 +2,8 @@
 
 Create best software companies with Indian labour, since labour is cheap in India like Zoho
 
+**Don't pay for bits, pay for atoms.** Software is free open source, pay for physical infrastructure, and usage
+
 Problem with current SAAS pricing
 
 - It's per user based

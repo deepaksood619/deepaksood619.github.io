@@ -31,6 +31,7 @@ Confirms the validity and legitimacy of a message, and binds an entity to a tran
 3. Sharing Over Email
 4. Sharing Over Slack, Skype, SMS, iMessage, Whatsapp, etc.
 5. Web-based Pastebin, Exploding Message, and Encrypted Chat Services
+	1. privatebin.net
 6. The Git Repo, Unencrypted
 7. Gitignored Files and Environment Variables (The 12-Factor App Methodology)
 8. The Git Repo, Encrypted

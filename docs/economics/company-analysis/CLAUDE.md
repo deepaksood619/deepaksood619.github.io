@@ -142,7 +142,7 @@ Periodically verify: stale analyses (`>3` months old), broken cross-references, 
 ```bash
 # After completing analysis, ALWAYS create the file:
 /Applications/Obsidian.app/Contents/MacOS/Obsidian create \
-  path="economics/company-analysis/companies/{sector}/{company-name}-{analysis-type}-{date}.md" \
+  path="economics/company-analysis/companies/{company-name}-{analysis-type}.md" \
   content="[Full analysis content with frontmatter]" \
   vault="$VAULT"
 ```
@@ -188,10 +188,10 @@ tags: [fundamental-analysis, indian-stocks, {sector}]
 
 # Company Name - Fundamental Analysis
 
-**Analysis Date:** June 3, 2026
-**Exchange:** NSE/BSE
-**Sector:** Oil & Gas / Banking / IT Services / etc.
-**Market Cap:** Large Cap / Mid Cap / Small Cap
+- **Analysis Date:** June 3, 2026
+- **Exchange:** NSE/BSE
+- **Sector:** Oil & Gas / Banking / IT Services / etc.
+- **Market Cap:** Large Cap / Mid Cap / Small Cap
 
 ## Executive Summary
 

@@ -26,8 +26,19 @@ Aloe vera, English ivy air purifying plants
 - Pancake plant (Pilea peperomioides)
 - ZZ plant (Zamioculcas zamiifolia)
 
+## Home Gardening
+
+| Botanical Classification | Recommended Species                 | Time to Harvest/Establish | Optimal Sunlight | Specific Agronomic Benefit                                                                    |
+| ------------------------ | ----------------------------------- | ------------------------- | ---------------- | --------------------------------------------------------------------------------------------- |
+| **Leafy Greens**         | Lettuce, Spinach, Fenugreek (Methi) | 35 – 45 Days              | 3 – 5 Hours      | Extremely fast continuous yield; shallow root systems ideal for small trays.                  |
+| **Culinary Herbs**       | Coriander, Mint, Holy Basil (Tulsi) | 20 – 30 Days              | 3 – 5 Hours      | High household utility; excellent medicinal properties; adapted to partial shade.             |
+| **Ornamental Florals**   | Zinnia, Marigold, Petunia           | 60 – 80 Days              | 5 – 6 Hours      | Neon-bright blooms; attracts vital pollinators (bees/butterflies); excellent for cut flowers. |
+| **Indoor/Foliage**       | Snake Plant, Aloe Vera, Money Plant | Immediate                 | Bright Indirect  | High drought tolerance; supreme air purification; extreme low-maintenance requirements.       |
+| **Dwarf Fruiting**       | Dwarf Lemon (Nimbu), Chillies       | 6 – 12 Months             | 6+ Hours         | High value yield; requires deeper pots but offers sustained multi-year production.            |
+
 ## Links
 
+- [‎Gemini - Indian Home Gardening](https://gemini.google.com/share/224510f802fc)
 - [A Plant-Care & Self-Care Guide for the Modern Houseplant Parent | Kamili Bell Hill | Talks at Google - YouTube](https://www.youtube.com/watch?v=_JiWL16gfN8)
 - [How We ALL Get Our Energy (Plants & Ecosystems): Crash Course Botany #13 - YouTube](https://www.youtube.com/watch?v=oZtUFJAJ3lU)
 - [Pome - Wikipedia](https://en.wikipedia.org/wiki/Pome)

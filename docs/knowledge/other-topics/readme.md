@@ -11,6 +11,7 @@
 - [Chemistry Outline](knowledge/other-topics/chemistry-outline.md)
 - [Clothes / Textiles](knowledge/other-topics/clothes-textiles.md)
 - [Mythology](knowledge/other-topics/mythology.md)
+- [gendered-fashion-sociological-historical-economic-analysis](knowledge/other-topics/gendered-fashion-sociological-historical-economic-analysis.md)
 - [Others](knowledge/other-topics/others.md)
 
 ## Art

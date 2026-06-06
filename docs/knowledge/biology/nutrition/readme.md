@@ -2,10 +2,12 @@
 
 - [Nutrition](knowledge/biology/nutrition/intro.md)
 - [Diet](knowledge/biology/nutrition/diet.md)
+	- [diet-nutritional-analysis](knowledge/biology/nutrition/diet-nutritional-analysis.md)
 - [Essentiality](essentiality)
 - [Daily Requirements](daily-requirements)
 - [Chart](chart)
 - [Food](food)
+	- [nano-urea](knowledge/biology/nutrition/nano-urea.md)
 - [Milk](knowledge/biology/nutrition/milk.md)
 - [Pulses / Daal / Lentils](pulses-daal-lentils)
 - [Grains](knowledge/biology/nutrition/grains.md)

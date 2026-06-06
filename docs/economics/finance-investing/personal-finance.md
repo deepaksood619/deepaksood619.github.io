@@ -163,3 +163,4 @@ Use money to buy peace. And, use your peace to make (fewer but) better strategic
 - [Narayanan's journey to Financial Independence](https://freefincal.com/narayanans-journey-to-financial-independence/)
 - [Monthly vs Annual Subscriptions: Is the Discount Really Worth It?](https://freefincal.com/monthly-vs-annual-subscriptions-is-the-discount-really-worth-it/)
 - [The Stability Illusion: Why waiting for the “right time” to invest keeps you stuck longer than you realize!](https://freefincal.com/the-stability-illusion-why-waiting-for-the-right-time-to-invest-keeps-you-stuck-longer-than-you-realize/)
+- [What return should I use while planning for retirement 20 year away?](https://freefincal.com/what-return-should-i-use-while-planning-for-retirement-20-year-away/)

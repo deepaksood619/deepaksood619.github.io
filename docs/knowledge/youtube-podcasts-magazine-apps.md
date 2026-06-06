@@ -168,15 +168,6 @@
 - [Smarter While You Sleep - YouTube](https://youtube.com/@smarterwhileyousleep)
 - [EO - YouTube](https://www.youtube.com/@eoglobal)
 
-### Food / Farming
-
-- [Foodpharmer - YouTube](https://www.youtube.com/@Foodpharmer)
-- Minutefood
-- [MinuteEarth - YouTube](https://www.youtube.com/@MinuteEarth)
-- [Ajit Singh Bhatnagar - Quora](https://www.quora.com/profile/Ajit-Singh-Bhatnagar)
-- [Farming Engineer - YouTube](https://www.youtube.com/@farmingengineer)
-- [AgriTalk By Abhinav Roy - YouTube](https://www.youtube.com/@agritalkbyabhinavroy)
-
 ### News
 
 - Top U.S. & World Headlines - Democracy Now
@@ -328,6 +319,10 @@
 - Healthcare triage
 - [Dr Pal - YouTube](https://www.youtube.com/@DrPal)
 - [Bryan Johnson - YouTube](https://www.youtube.com/@bryanjohnson)
+
+### Health / Diet
+
+- [Saurabh Bothra - YouTube](https://www.youtube.com/@saurabhbothra)
 
 ### Countries / Macro
 

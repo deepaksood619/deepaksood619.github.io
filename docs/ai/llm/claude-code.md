@@ -443,3 +443,4 @@ ls ~/.claude/get-shit-done/workflows/
 	- **Explanatory**: Provides educational “Insights” in between helping you complete software engineering tasks. Helps you understand implementation choices and codebase patterns.
 	- **Learning**: Collaborative, learn-by-doing mode where Claude will not only share “Insights” while coding, but also ask you to contribute small, strategic pieces of code yourself. Claude Code will add `TODO(human)` markers in your code for you to implement.
 - [Using Claude Code: The unreasonable effectiveness of HTML \| Claude](https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html)
+- [The Only Claude Code Masterclass You'll Ever Need (No Coding) - YouTube](https://www.youtube.com/watch?v=cSOpT-vCXck)

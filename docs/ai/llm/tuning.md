@@ -64,8 +64,41 @@ The first release of bitnet.cpp is to support inference on CPUs. bitnet.cpp achi
 
 - Instruct tuning / Instruction Tuning
 - [GitHub - ggml-org/ggml: Tensor library for machine learning](https://github.com/ggml-org/ggml) ⭐ 15k
+	- **GGUF - GPT-Generated Unified Format**
 	- [ggml/docs/gguf.md at master · ggml-org/ggml · GitHub](https://github.com/ggml-org/ggml/blob/master/docs/gguf.md) ⭐ 15k
-	- GGUF - A binary format that is optimized for quick loading and saving of models, making it highly efficient for inference purposes.
+	- GGUF - A binary format that is optimized for quick loading and saving of models, making it highly efficient for inference purposes. Developed by the `llama.cpp` team, it is the industry standard for running AI models locally on consumer hardware like laptops and mobile devices.
+
+### Quantization - GGUF
+
+**Q4_K_M** is a **K-Quant** method, a smart, mixed-precision compression technique developed by the [llama.cpp](https://github.com/ggml-org/llama.cpp) team. Instead of crushing every single parameter down to 4 bits uniformly, K-Quants identify which layers are highly sensitive and keep them at a higher precision while aggressively compressing the less important layers.
+
+The GGUF naming convention acts as a code: **Q[Target Bits] _ [Algorithm] _ [Size Suffix]**.
+
+#### Deciphering the K-Quant Suffixes (S, M, L)
+
+When looking at 4-bit or 5-bit classes, you will typically see three options that dictate the trade-off between file size and model accuracy:
+
+- **`_S` (Small):** Compresses nearly everything down to the target bit depth. It yields the smallest file size and fastest speeds but suffers from the highest quality loss in its class.
+- **`_M` (Medium):** The **gold standard** for local AI. It selectively protects critical layers (like the attention mechanism's value projections and final layers) using 5-bit or 6-bit precision while keeping standard layers at 4 bits. This recovers most of the brainpower lost to compression.
+- **`_L` (Large):** Retains even more layers at a higher bit depth. It results in a larger file size, but the actual quality improvement over `_M` is usually unnoticeable.
+
+#### Head-to-Head GGUF Compression Comparison
+
+The following data outlines how the most popular GGUF types perform on a typical **8 Billion parameter model** (assuming the baseline unquantized FP16 version is ~16 GB):
+
+| GGUF Quant Type     | Effective Bits/Weight | Approx. File Size | Perplexity Increase (Quality Loss) | Best For                                              |
+| ------------------- | --------------------- | ----------------- | ---------------------------------- | ----------------------------------------------------- |
+| **IQ4_NL / IQ4_XS** | ~4.0 bits             | ~4.3 GB           | Low-Medium                         | Squeezing every megabyte out of tight VRAM.           |
+| **Q4_K_S**          | ~4.2 bits             | ~4.5 GB           | Medium                             | Old or slow hardware where speed is top priority.     |
+| **Q4_K_M**          | **~4.5 bits**         | **~4.8 GB**       | **Very Low**                       | **The default recommendation for balance**.           |
+| **Q5_K_S**          | ~5.3 bits             | ~5.5 GB           | Negligible                         | Getting high quality when Q5_K_M is slightly too big. |
+| **Q5_K_M**          | ~5.5 bits             | ~5.7 GB           | Near Zero                          | Small models (`<8B`) where precision matters.           |
+| **Q8_0**            | ~8.5 bits             | ~8.5 GB           | Virtually None                     | PCs with large amounts of RAM/VRAM.                   |
+
+#### The Two Golden Rules of GGUF Selection
+
+1. **Model Size Dictates the Impact:** The larger the model's base parameters, the more resilient it is to compression. A massive **70B model** quantized to `Q4_K_M` will retain almost 99% of its original capabilities. However, a smaller **7B or 8B model** has less redundancy and will show a noticeable drop in coding and logic at 4 bits; choose `Q5_K_M` or higher for small models if your hardware allows.
+2. **Beware of the "Zip" Effect:** You might assume a 2-bit or 3-bit model (`Q2_K` or `Q3_K_M`) will run significantly faster because the file is smaller. In reality, extreme compression requires the CPU/GPU to perform complex math to "dequantize" the weights back into a readable state during text generation. This computation bottleneck means 2-bit models are often slower than 4-bit models while being much less coherent.
 
 ## Links
 

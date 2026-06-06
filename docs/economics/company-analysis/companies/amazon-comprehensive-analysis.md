@@ -346,6 +346,7 @@ Managing a $2.8T market cap company across diverse businesses creates risks:
 **3. DCF Valuation (Simplified):**
 
 Assumptions:
+
 - Revenue growth: 13% (2026-2028), 11% (2029-2030), 8% terminal
 - Operating margin expansion: 11.5% → 15% by 2030 (AWS mix shift, retail leverage)
 - FCF margin: Negative → 3% (2027) → 6% by 2030
