@@ -10,6 +10,10 @@ Virtual Servers in the Cloud
 [Ubuntu \| Docker Docs](https://docs.docker.com/engine/install/ubuntu/)
 
 ```bash
+# via snap
+sudo snap install docker
+
+# via official docs
 # Add Docker's official GPG key:
 sudo apt-get update
 sudo apt-get install ca-certificates curl
@@ -214,6 +218,38 @@ tmpfs          tmpfs  5.0M     0  5.0M   0% /run/lock
 /dev/xvda16    ext4   881M  148M  672M  18% /boot
 /dev/xvda15    vfat   105M  6.2M   99M   6% /boot/efi
 tmpfs          tmpfs  392M   12K  392M   1% /run/user/1000
+```
+
+## Setup Logging limits
+
+```bash
+# journald.conf
+sudo nano /etc/systemd/journald.conf
+
+SystemMaxUse=200M
+
+sudo systemctl restart systemd-journald
+
+# docker
+sudo nano /etc/docker/daemon.json
+# or
+sudo nano /var/snap/docker/current/config/daemon.json
+# or set directly
+sudo snap set docker daemon-json='{"log-driver":"json-file","log-opts":{"max-size":"10m","max-file":"3"}}'
+
+
+
+{
+  "log-driver": "json-file",
+  "log-opts": {
+    "max-size": "10m",
+    "max-file": "3"
+  }
+}
+
+sudo systemctl restart
+# or
+sudo snap restart docker
 ```
 
 ## EC2 > Networking > Elastic IP Addresses

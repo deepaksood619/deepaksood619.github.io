@@ -69,13 +69,12 @@ Lithium-Iron-Phosphate technology has entirely revolutionized the residential in
 The upfront capital cost of a lithium battery remains higher than lead-acid; a 1.5 kWh LFP module from an Indian brand sits between ₹22,000 and ₹30,000, while the massive 5 kWh banks required for heavy air conditioning loads retail between ₹1,08,000 and ₹1,15,000. Advanced units featuring Smart Battery Management Systems (BMS) with Bluetooth logic monitoring command even higher premiums, with highly specialized 50Amp-rated smart units retailing for over ₹77,000 to ₹1,81,000. Despite this higher initial capital expenditure (CAPEX), the technical advantages of lithium intercalation physics are overwhelming:
 
 1. **Cycle Life and Unmatched Longevity:** LFP batteries are immensely resilient, reliably delivering 2,000 to 4,000 charge and discharge cycles even at a punishing 80% Depth of Discharge. In a standard home inverter application, this translates to a functional operational lifespan of 10 to 15 years, completely eliminating the recurring expense of battery replacement.
-    
+
 2. **Rapid Charge Acceptance:** Unlike lead-acid, LFP modules boast extremely low internal resistance and can safely accept rapid charge rates of 0.5C or even 1.0C. This allows a completely dead lithium battery to reach a 100% state of charge in just 2 to 4 hours. This metric is a game-changer in rural or semi-urban areas where grid power is only available in short, intermittent windows.
-    
+
 3. **Round-Trip Electrochemical Efficiency:** Lithium batteries boast an extraordinary electrochemical efficiency ranging from 95% to 98%, compared to the dismal 70% to 80% efficiency of lead-acid. This means that significantly less grid electricity is wasted as dissipated thermal heat during the charging phase, which visibly lowers the homeowner's monthly utility bills over the system's lifespan.
-    
+
 4. **Energy Density and Compact Form Factor:** LFP batteries are profoundly energy-dense, making them roughly 60% lighter and considerably smaller than their lead-acid counterparts. A standard 150Ah lead-acid battery is a cumbersome monolith weighing around 55 kilograms and occupying significant floor space. In stark contrast, a comparable lithium module yielding the exact same usable energy weighs a mere 15 to 18 kilograms and can be mounted on a wall.
-    
 
 Integrated systems, such as the Luminous Li-On 1250, capitalize on this by combining the pure sine wave inverter circuitry and the LFP battery cells into a single, compact, aesthetically pleasing chassis. This eliminates the need for external battery trolleys, removes all protruding live wires, and eradicates the risk of highly corrosive acid spills, finally allowing homeowners to safely install high-capacity power backup systems directly inside their living rooms or bedrooms.
 
@@ -155,11 +154,10 @@ In major urban agglomerations, particularly the highly polluted Delhi National C
 The Graded Response Action Plan (GRAP) is an emergency pollution control framework legally invoked by the Commission for Air Quality Management (CAQM). Its implementation is dynamically linked to real-time daily fluctuations in the regional Air Quality Index (AQI). The framework operates in escalating tiers of severity:
 
 - **GRAP Stage 1 (AQI 201–300 - Poor):** Regulatory agencies impose strict restrictions, banning the use of coal and firewood, and heavily scrutinizing diesel generators, severely limiting their use to only medical emergencies or absolute essential services.
-    
+
 - **GRAP Stage 2 (AQI 301–400 - Very Poor):** A blanket, uncompromising ban on the operation of all standard diesel generator sets is aggressively enforced across the entire territory.
-    
+
 - **GRAP Stage 3 and Stage 4 (AQI 401+ - Severe / Emergency):** Draconian measures are implemented, including bans on the entry of BS-III petrol and BS-IV diesel commercial vehicles into the city limits.
-    
 
 Under these strict, heavily monitored protocols, residential societies, commercial properties, and individual homeowners are legally prohibited from starting their conventional DG sets during the peak winter pollution months—precisely when grid stability often wavers due to heating loads. The only legal workaround to this ban is for generator owners to retrofit their existing engines with highly expensive, state-approved Emission Control Devices (ECDs) or physically convert the engines to operate in a dual-fuel configuration (combusting a mixture of Diesel and piped Compressed Natural Gas).
 

@@ -8,6 +8,8 @@
 
 **Democratize skill development and career advancement through AI-powered learning**
 
+**Learning SuperApp**
+
 **Mission:**
 
 - Equal access to quality upskilling (regardless of ability to pay)
@@ -22,6 +24,10 @@
 - Mission over money (non-profit, donation-funded)
 - Open by default (open-source algorithms, publish research)
 - Outcomes focused (track salary increases, not completion rates)
+
+**Market Validation:** Students are desperate for **structured, personalized, outcome-focused learning** - exactly what our platform delivers through AI agents, adaptive assessments, and verifiable credentials.
+
+- [placement-challenges-analysis](education/placement-challenges-analysis.md)
 
 ---
 

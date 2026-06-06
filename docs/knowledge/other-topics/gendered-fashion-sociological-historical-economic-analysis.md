@@ -39,13 +39,12 @@ Veblen traced the psychological need for luxury consumption back to what he term
 Crucially, Veblen applied this theory directly to women's fashion. Veblen argued that female dress was engineered to be an extreme demonstration of "conspicuous leisure"—proving irrefutably that the wearer was entirely exempt from productive, manual labor. Because physical labor was deemed the domain of the lower classes, affluent women were relegated to the role of "chief ornament" of the household, expected to engage only in "pecuniary emulation" (keeping up with the Joneses). The garments forced upon them were deliberately restrictive to broadcast their total inability to work. Veblen highlighted several key components of this phenomenon:
 
 - **The French Heel:** The addition of high heels to women's shoes obviously made even the simplest and most necessary manual work extremely difficult, rendering the woman visibly infirm and thus elevating her social status.
-    
+
 - **Skirts and Drapery:** Society’s tenacious attachment to long, heavy skirts existed precisely because the fabric was expensive, hampered the wearer at every turn, and utterly incapacitated her for useful exertion.
-    
+
 - **Excessively Long Hair:** Like the skirt, wearing the hair excessively long served to show a physical hindrance to useful labor.
-    
+
 - **The Corset:** Veblen viewed the corset as a literal form of physical mutilation, undergone for the specific purpose of lowering the subject's vitality and rendering her permanently unfit for work. While it impaired the wearer's physical well-being, this physical loss was offset by the gain in social reputability, as her infirmity proved her high status.
-    
 
 Veblen linked this restrictive fashion architecture to the history of patriarchal ownership. Because women were historically treated in the full sense as the property of men (fathers or husbands), any obvious expenditure and leisure on their part did not redound to their own credit, but rather to the credit of their "master". Women became vehicles for "vicarious consumption". There existed a marked similarity between the apparel of women and that of domestic liveried servants; in both cases, there was an elaborate show of unnecessary expensiveness and a notable disregard for physical comfort. The more expensive, unproductive, and physically disabled the women of a household were due to their clothing, the more powerful and wealthy the male head of the household appeared to his peers.
 

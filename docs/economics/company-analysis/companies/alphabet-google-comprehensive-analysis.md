@@ -43,7 +43,7 @@ tags: [comprehensive-analysis, us-stocks, technology, ai, cloud, advertising]
 Alphabet Inc. operates as a global technology conglomerate with dominant positions in internet search, digital advertising, video streaming, cloud computing, and emerging technologies. The company generates revenue primarily through:
 
 1. **Google Search & Advertising** (~58% of revenue) - Search ads, display ads, YouTube ads
-2. **Google Cloud** (~10% of revenue) - Infrastructure (GCP), Workspace, AI/ML services  
+2. **Google Cloud** (~10% of revenue) - Infrastructure (GCP), Workspace, AI/ML services
 3. **YouTube** (~12% of revenue, embedded in advertising) - Ad revenue and subscriptions
 4. **Other Bets** (~1% of revenue) - Waymo, Verily, emerging technologies
 5. **Other Google Services** - Play Store, Pixel hardware, subscriptions
@@ -365,12 +365,14 @@ Wait, this seems too high. Let me recalculate using forward earnings:
 **Method 3: Discounted Cash Flow (Simplified)**
 
 *Assumptions:*
+
 - Base OCF: $183B (Q1 × 4)
 - Growth Rate: 20% years 1-3, 15% years 4-5, 10% terminal
 - Discount Rate: 9% (WACC for large-cap tech)
 - Terminal FCF Margin: 25% (currently depressed by AI capex)
 
 *Calculation (simplified):*
+
 - Year 1-3 OCF: $183B → $220B → $264B (20% CAGR)
 - Year 4-5 OCF: $304B → $349B (15% growth)
 - Terminal Value: $349B × 1.10 / (0.09 - 0.10) = $3.84T (at Year 5)
@@ -856,7 +858,7 @@ Alphabet represents a **compelling long-term investment** at current valuations,
 The **bull case significantly outweighs the bear case** at current prices. While regulatory and competitive risks are real, Alphabet's:
 
 - AI leadership and monetization proof points
-- Financial strength to out-invest competitors  
+- Financial strength to out-invest competitors
 - Diversified revenue streams (Cloud, YouTube, emerging bets)
 - Underappreciated valuation relative to growth and quality
 
@@ -969,7 +971,7 @@ Alphabet Inc. (GOOGL) presents a **compelling BUY opportunity** for long-term in
 **Key Risks to Monitor:**
 
 1. Regulatory headwinds (DOJ antitrust, EU DMA restrictions) - 30-40% probability of impact
-2. AI competition from Microsoft/OpenAI and emerging search alternatives  
+2. AI competition from Microsoft/OpenAI and emerging search alternatives
 3. Advertising market cyclicality and economic sensitivity
 4. Execution risk on $80B+ AI capex program
 

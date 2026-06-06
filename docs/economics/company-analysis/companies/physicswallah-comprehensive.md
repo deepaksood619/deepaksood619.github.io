@@ -292,6 +292,7 @@ Physicswallah continues revenue growth at 25-30% annually through FY28 driven by
 | 2U (US) | ~$500M | EdTech | 0.5-1x | Distressed |
 
 **Assessment:** Physicswallah trades at premium P/S vs global EdTech peers, likely due to:
+
 - Higher growth (39% vs 10-15% for US peers)
 - India market growth potential
 - IPO premium (recently listed)
@@ -686,7 +687,7 @@ At Rs. 106 current price:
 
 Physicswallah represents a **high-risk, high-reward** EdTech growth story that is **NOT suitable for conservative investors**. The company has demonstrated impressive revenue growth (39% CAGR) and remarkable margin expansion (from -57% to +8% OPM in 2 years), but remains loss-making with significant seasonal volatility and extreme valuation.
 
-### Why Consider (Speculative Buy):
+### Why Consider (Speculative Buy)
 
 ✅ **Margin Transformation:** -57% to +8% OPM in 2 years proves management can execute
 ✅ **Cash Flow Positive:** Rs. 821 Cr operating cash flow despite Rs. 40 Cr accounting loss shows real cash generation
@@ -696,7 +697,7 @@ Physicswallah represents a **high-risk, high-reward** EdTech growth story that i
 ✅ **Byju's Collapse:** Market share up for grabs as largest competitor implodes
 ✅ **Scarcity Value:** Only listed EdTech in India gives it premium
 
-### Why Avoid (Hold/Sell):
+### Why Avoid (Hold/Sell)
 
 ❌ **Still Loss-Making:** Net loss of Rs. 40 Cr (FY26); not proven profitability model yet
 ❌ **Seasonal Curse:** Q4 March quarter always loss-making (5 of last 6 quarters) - structural issue
@@ -711,7 +712,7 @@ Physicswallah represents a **high-risk, high-reward** EdTech growth story that i
 **For Aggressive Growth Investors (High Risk Tolerance):**
 
 - **Position Size:** Maximum 2-3% of portfolio (high risk, high volatility)
-- **Entry Strategy:** 
+- **Entry Strategy:**
   - **Current Rs. 106:** Avoid; wait for clarity on today's volume spike
   - **Rs. 90-95:** Start accumulating (near 52-week low support)
   - **Rs. 75-80:** Aggressive buy (if 52-week low breaks, strong value)

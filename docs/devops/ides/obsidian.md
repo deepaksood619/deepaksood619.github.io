@@ -56,7 +56,7 @@ Extensions that helps make obsidian better
 - [GitHub - mirnovov/obsidian-homepage: An Obsidian plugin that opens a specified note, canvas, or workspace on startup, instead of the most recent one.](https://github.com/mirnovov/obsidian-homepage) ⭐ 651
 - [GitHub - PaulTreanor/notes-dater: Adds created\_on and updated\_on dates of the active note to status bar](https://github.com/PaulTreanor/notes-dater) ⭐ 17
 - [GitHub - polyipseity/obsidian-terminal: Integrate consoles, shells, and terminals. · GitHub](https://github.com/polyipseity/obsidian-terminal) ⭐ 749
-- [GitHub - obsidian-community/obsidian-style-settings: A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian · GitHub](https://github.com/obsidian-community/obsidian-style-settings)
+- [GitHub - obsidian-community/obsidian-style-settings: A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian · GitHub](https://github.com/obsidian-community/obsidian-style-settings) ⭐ 2.3k
 
 **Settings / Preferences**
 
@@ -252,6 +252,7 @@ Toggle side bars
 - **Confluence**
 - **Outline** - [GitHub - outline/outline: The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.](https://github.com/outline/outline) ⭐ 38k
     - [Outline – Team knowledge base & wiki](https://www.getoutline.com/)
+- [GitHub - requarks/wiki: Wiki.js \| A modern and powerful wiki app built on Node.js · GitHub](https://github.com/Requarks/wiki) ⭐ 28k
 - [GitBook - Where technical teams document](https://www.gitbook.com/)
 - https://orgmode.org
 - https://www.orgroam.com

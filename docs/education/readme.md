@@ -120,6 +120,7 @@ Education is broken and it's high time to fix it.
 - [Financial Sustainability Model](education/financial-sustainability.md) - **DETAILED FINANCIALS**: Cost-recovery pricing breakdown, revenue model, projections (Month 6 break-even → Month 24 ₹250 crore scale), AI cost optimization roadmap (18% → 5%), transparency commitments
 - [Technical Architecture](education/technical-architecture.md) - **DETAILED TECH**: 10 AI agents (tutor, interview, mentor, code review, resume, project guide, etc.), IRT/BKT algorithms, tech stack (Next.js, PostgreSQL, Claude/Llama), AI cost optimization (₹1.50 → ₹0.10/question), open-source strategy, scalability plan
 - [Funding Model](education/funding-model.md) - **DETAILED FUNDING**: No VC/equity/exits, grant sources (foundations, CSR, government, international aid), funding stages (₹2-100 crore over 3 years), tax benefits (80G India, 501c3 US), donor stewardship, reserve fund strategy, long-term sustainability
+- [placement-challenges-analysis](education/placement-challenges-analysis.md)
 
 **Context:**
 

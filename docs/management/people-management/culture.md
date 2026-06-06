@@ -115,11 +115,9 @@ https://jobs.netflix.com/culture
 
 ## Links
 
-[THE CULTURE CODE by Daniel Coyle | Core Message](https://youtu.be/XHMGd6VR2cQ)
-
-- You belong. It's safe to speak up here. We have a purpose.
-- Culture is not something you are, it's something you do
-
-[The Secrets of Highly Successful Groups | Daniel Coyle | RSA Replay](https://www.youtube.com/watch?v=5T9tRvkXtns)
-
-[Sharing Vs Secrecy - by Shashank Mehta](https://midlifeentrepreneur.substack.com/p/sharing-vs-secrecy)
+- [THE CULTURE CODE by Daniel Coyle | Core Message](https://youtu.be/XHMGd6VR2cQ)
+	- You belong. It's safe to speak up here. We have a purpose.
+	- Culture is not something you are, it's something you do
+- [The Secrets of Highly Successful Groups | Daniel Coyle | RSA Replay](https://www.youtube.com/watch?v=5T9tRvkXtns)
+- [Sharing Vs Secrecy - by Shashank Mehta](https://midlifeentrepreneur.substack.com/p/sharing-vs-secrecy)
+- [Inside the Duolingo Company Handbook](https://blog.duolingo.com/handbook/)

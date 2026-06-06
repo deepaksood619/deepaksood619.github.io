@@ -220,33 +220,33 @@ The clinical stratification of the Indian dietary components in Table 2 is not a
 Based on the exhaustive biochemical and epidemiological analysis of the provided dietary framework, the following strategic interventions are clinically mandated to optimize metabolic health, rectify subclinical micronutrient deficiencies, and stabilize hormonal profiles.
 
 - **Eradication of the Breakfast Protein Deficit:**
-    
+
     - _The Clinical Gap:_ Traditional morning meals within this planner, specifically Veg Suji Upma, Sabudana Poha, Macaroni, and standard Veg Poha, are fundamentally carbohydrate-dominant. This macronutrient asymmetry triggers a rapid postprandial insulin spike, leading to mid-morning hypoglycemia, while simultaneously failing to provide the specific amino acids (like leucine) requisite for triggering the mTOR pathway for muscle preservation.
-        
+
     - _Actionable Intervention:_ Utilize the hierarchy established in Table 2 to enforce protein density at the start of the day. Sabudana Poha (Rank 63) and Macaroni (Rank 55) must be replaced with Moong Dal Chilla (Rank 14) or Besan Paneer Chila (Rank 15). If consuming Poha or Upma is culturally non-negotiable, it must be clinically modified: mandate the integration of 30g of roasted peanuts, or a side of sprouted moong salad to introduce fat and protein, thereby lowering the overall glycemic index of the meal and delaying gastric emptying.
-        
+
 - **Resolving the Iron-Vitamin C Bioavailability Conundrum:**
-    
+
     - _The Clinical Gap:_ The planner includes excellent sources of plant-based (non-heme) iron, particularly Drumsticks (Moringa), Palak (Spinach), and dark leafy greens. However, the intrinsic phytic acid in the accompanying whole wheat rotis, combined with the polyphenols in dietary staples, chemically bind to this iron in the intestinal lumen, preventing its absorption. This drives the pervasive anemia observed in the Indian demographic.
-        
+
     - _Actionable Intervention:_ Systematically pair iron-rich meals with potent, raw Vitamin C sources. The current planner features a "Radish & Lemon Salad"; this should be elevated to a mandatory accompaniment whenever Palak Paneer, Drumsticks, or Daal Makhani are consumed. Squeezing fresh citrus over these dishes directly at the time of consumption biochemically forces the iron into a highly absorbable ferrous state.
-        
+
 - **Mitigation of Sabudana and Ultra-Processed Carbohydrate Liabilities:**
-    
+
     - _The Clinical Gap:_ Sabudana (sago) is frequently misunderstood as a "light" food. Clinically, it represents one of the most metabolically disruptive items on the menu, delivering up to 135g of carbohydrates per cup with a mere 0.29g of protein. Similarly, White Sauce Pasta and Maggi represent ultra-processed, refined flour vectors that contribute solely to rapid lipogenesis.
-        
+
     - _Actionable Intervention:_ Eradicate Maggi and Sabudana from routine, non-fasting consumption. When a carbohydrate-dense comfort food is desired, replace Sabudana with parboiled quinoa or foxtail millet, which mimic the texture but provide complex fibers and necessary protein. Replace White Sauce Pasta with whole-wheat or chickpea-based pasta, substituting heavy cream with a cashew or cauliflower-based puree to maintain the sensory experience without the atherogenic saturated fat burden.
-        
+
 - **Correction of Lipid Imbalances and Saturated Fat Overload:**
-    
+
     - _The Clinical Gap:_ The frequent pairing of Paneer (Palak Paneer, Shahi Paneer, Paneer Bhurji) with rich pulse dishes (Daal Makhani) introduces a formidable, compounding load of saturated fat. While dairy fats are culturally revered, their overconsumption in a predominantly sedentary demographic heavily correlates with the dysregulation of the lipid profile and the promotion of hepatic steatosis (fatty liver).
-        
+
     - _Actionable Intervention:_ Relegate Shahi Paneer and Daal Makhani to bi-weekly "Indulgent" status rather than standard rotation. For routine dinners, substitute standard full-fat Paneer with Tofu (which absorbs Indian gravies exceptionally well and offers a cardioprotective lipid profile devoid of saturated fat) or low-fat, home-curdled paneer. Strictly limit culinary oil (ghee/mustard oil) to precisely measured volumes (maximum 3-4 teaspoons per person, per day) specifically during the _tadka_ (tempering) phase.
-        
+
 - **Addressing the Silent Epidemic of Vitamin D and B12 Voids:**
-    
+
     - _The Clinical Gap:_ The entirely vegetarian nature of this planner means it is functionally devoid of Vitamin B12 (which is exclusively synthesized by microorganisms and found in animal tissues) and practically devoid of Vitamin D (unless milk/curd is specifically fortified at the industrial level). The clinical ramifications of these insidious deficiencies include megaloblastic anemia, peripheral neuropathy, and osteomalacia. High calcium intake from Ragi or Paneer is biologically useless without Vitamin D to facilitate its transport across the gut wall.
-        
+
     - _Actionable Intervention:_ Dietary manipulation alone cannot safely or reliably rectify these specific biochemical gaps within a strict vegetarian paradigm. It is a clinical imperative to integrate a high-quality, biologically active Vitamin B12 (Methylcobalamin) and Vitamin D3 (Cholecalciferol) supplementation protocol, guided by serum biomarker testing. Concurrently, actively seek out fortified dairy products or fortified plant-milks to serve as the base for the morning Dahi, ensuring a baseline prophylactic intake of these critical metabolic regulators.
 
 ## Links

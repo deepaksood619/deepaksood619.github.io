@@ -70,4 +70,4 @@ In this way the curriculum itself has more creative learning through arts, cooki
 - [5 Tips: Homeschool Planning Over the Summer | The Good and the Beautiful](https://youtu.be/AEzClNkbmXQ)
 - [Why Homeschoolers Are So Socially Confident | The Good and the Beautiful](https://youtu.be/Wk2V8J43Uq0)
 - [Why Homeschool Parents Are So Effective Without Teaching Degrees \| The Good and the Beautiful - YouTube](https://youtu.be/7Af7MwSupEQ)
-- [Building Agents at Home: Homeschooling, Parenting and More \| The a16z Show - YouTube](https://www.youtube.com/watch?v=yiJOTCRVWjc)
+- **[Building Agents at Home: Homeschooling, Parenting and More \| The a16z Show - YouTube](https://www.youtube.com/watch?v=yiJOTCRVWjc)**
