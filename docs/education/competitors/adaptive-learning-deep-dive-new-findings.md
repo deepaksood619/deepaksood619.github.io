@@ -33,6 +33,7 @@ From academic research analyzing the architecture of adaptive learning platforms
 **Algorithm:** "Birdbrain" proprietary deep learning model
 
 **Scale:**
+
 - 1 billion+ educational exercises processed daily
 - 14 milliseconds prediction time per exercise
 - 500M+ registered users
@@ -294,11 +295,13 @@ From academic research analyzing the architecture of adaptive learning platforms
 ### 1. Deep Learning Works at Billion-Scale (Duolingo Proof)
 
 **Validation:**
+
 - Birdbrain processes 1B exercises/day in production
 - 14ms latency = real-time adaptivity is feasible
 - Deep learning enables precision impossible with classical models
 
 **Implication for Us:**
+
 - Don't fear scale complexity (Duolingo proves it works)
 - Continuous behavioral features (time on question, hesitation) matter
 - Real-time prediction (14ms) is achievable with proper architecture
@@ -308,11 +311,13 @@ From academic research analyzing the architecture of adaptive learning platforms
 ### 2. Massive Datasets Enable Deep Learning (EdNet Proof)
 
 **Validation:**
+
 - 130M+ interactions required for research-grade DKT
 - Continuous features (time, timestamps, explanations) critical
 - Public datasets accelerate innovation (EdNet enabled 100+ papers)
 
 **Implication for Us:**
+
 - Start with IRT (works with smaller data), transition to DKT at scale
 - Collect continuous behavioral data from day 1 (not just right/wrong)
 - Consider open-sourcing anonymized dataset (Year 3) for academic credibility
@@ -322,11 +327,13 @@ From academic research analyzing the architecture of adaptive learning platforms
 ### 3. Knowledge Space Theory `>` IRT for Structured Domains
 
 **Validation:**
+
 - KST explicitly models prerequisite relationships (can't learn Y without X)
 - 20-30 questions to pinpoint knowledge state (vs 100+ in IRT)
 - 50M students validated KST for math/science
 
 **Implication for Us:**
+
 - Coding/data science are structured domains (Python before pandas, SQL before JOIN)
 - Build knowledge graph of prerequisite relationships
 - **Hybrid approach:** KST for diagnostics, DKT for tracking, IRT for difficulty calibration
@@ -336,11 +343,13 @@ From academic research analyzing the architecture of adaptive learning platforms
 ### 4. Classical Psychometrics + Deep Learning = Winning Combination
 
 **Validation:**
+
 - Sana Labs combines Bayesian IRT (proven) with deep learning (modern)
 - Duolingo likely uses classical spaced repetition + deep learning enhancements
 - Riiid validates pure deep learning works, but research ongoing
 
 **Implication for Us:**
+
 - **Don't abandon classical algorithms** (IRT, BKT, KST) - they're proven
 - **Enhance with deep learning** (DKT, transformers, GNNs)
 - **Hybrid architecture:** IRT for cold start, DKT once sufficient data, KST for knowledge graph
@@ -354,6 +363,7 @@ From academic research analyzing the architecture of adaptive learning platforms
 **Why:** Works with small data, proven effective, faster to implement
 
 **Stack:**
+
 - **Diagnostic:** Knowledge Space Theory (KST) - 20-30 questions to pinpoint knowledge state
 - **Difficulty calibration:** Item Response Theory (IRT) - match questions to learner ability
 - **Mastery tracking:** Bayesian Knowledge Tracing (BKT) - predict concept mastery
@@ -369,6 +379,7 @@ From academic research analyzing the architecture of adaptive learning platforms
 **Why:** Sufficient data for neural networks, improve prediction accuracy
 
 **Enhancements:**
+
 - **Add Deep Knowledge Tracing (DKT):** RNN/LSTM for temporal knowledge modeling
 - **Continuous features:** Track time on question, hesitation, explanation views
 - **Self-Attentive Knowledge Tracing (SAKT):** Transformer-based (if data `>` 1M interactions)
@@ -383,6 +394,7 @@ From academic research analyzing the architecture of adaptive learning platforms
 **Why:** Massive scale enables Duolingo-level precision
 
 **Full Stack:**
+
 - **Birdbrain-style model:** Real-time prediction (target `<` 50ms latency)
 - **Knowledge graphs:** KST prerequisite mapping + GNN concept relationships
 - **Hybrid IRT + DKT:** Best of classical psychometrics + modern deep learning
@@ -443,6 +455,7 @@ From academic research analyzing the architecture of adaptive learning platforms
 **Our Unique Position:**
 
 We can be the first platform to combine:
+
 - Knowledge Space Theory (KST) for prerequisite mapping
 - Item Response Theory (IRT) for difficulty calibration
 - Deep Knowledge Tracing (DKT) for temporal modeling

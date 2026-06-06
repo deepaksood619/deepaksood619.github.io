@@ -20,12 +20,33 @@
 - [ASI Analysis](education/competitors/asi-analysis.md) - Dubai AI-native startup, teenage founder, limited traction
 - [Alpha School Analysis](education/competitors/alpha-school-analysis.md) - 2-hour learning model, $40K/year, billionaire-backed, unvalidated claims
 - [Sparkl Analysis](education/competitors/sparkl-analysis.md) - Premium 1:1 tutoring, IB/IGCSE focus, founder-led
+- [Brilliant Analysis](education/competitors/brilliant-analysis.md) - Interactive STEM problem-solving, $299/year, 10M users, MIT/Harvard experts
 - [Fermi](https://fermi.ai/)
+
+## Adaptive & Personalized Learning — Deep Dives
+
+### Global Platforms
+
+- [Duolingo Analysis](education/competitors/duolingo-analysis.md) - World's #1 language app, 500M users, "Birdbrain" DL model, IRT + Half-Life Regression, GPT-4 Max features, $531M revenue (FY2024)
+- [ALEKS Analysis](education/competitors/aleks-analysis.md) - McGraw-Hill's Knowledge Space Theory platform, 50M+ students, KST/Markovian engine, gold standard for US college math placement (PPL)
+- [Knewton Alta Analysis](education/competitors/knewton-alta-analysis.md) - Wiley's adaptive higher-ed courseware, 1,200+ institutions, just-in-time prerequisite remediation; cautionary tale: API-to-product pivot
+- [Sana Labs Analysis](education/competitors/sana-labs-analysis.md) - Stockholm enterprise AI-LMS, Bayesian IRT + knowledge decay modeling, acquired by Workday for $1.1B (Nov 2025)
+- [CENTURY Tech Analysis](education/competitors/century-tech-analysis.md) - UK school platform, "Anastasia" AI (cognitive neuroscience), EEF research validated, teacher-workload-reduction focus
+- [Riiid Analysis](education/competitors/riiid-analysis.md) - Korea's Deep Knowledge Tracing pioneer, EdNet dataset (131M interactions), Santa TOEIC score prediction, SoftBank-backed
+
+### China
+
+- [Squirrel AI Analysis](education/competitors/squirrel-ai-analysis.md) - 30,000-point micro-granularity, DIKW + RL engine, 52M+ students, 3,000+ centers, Tom Mitchell (CMU) as Chief AI Officer; TIME100 Most Influential Companies 2026
+
+### India — Adaptive Platforms
+
+- [Embibe Analysis](education/competitors/embibe-analysis.md) - Reliance-backed, 93,659-node knowledge graph, DKT + ESQ score prediction, 40M students across 24 state governments; absorbed into Jio Platforms (April 2025)
+- [Ei Mindspark Analysis](education/competitors/ei-mindspark-analysis.md) - Educational Initiatives, misconception-diagnosis AI, TARL methodology, J-PAL RCT evidence (0.37 SD gains in AER), 500K+ government school students
 
 ## India EdTech / Test Prep
 
 - [Unacademy Analysis](education/competitors/unacademy-analysis.md) - India's largest edtech, 60M users, 85% valuation decline, upGrad acquisition
-- [PhysicsWallah Analysis](education/competitors/physicswallah-analysis.md) - Only profitable edtech unicorn, ₹3K-10K/year (3-5x cheaper), bootstrap-to-IPO, $2.8B valuation, 10:1 to 80:1 LTV/CAC ratio
+- [PhysicsWallah Analysis](education/competitors/physicswallah-analysis.md) - Only profitable edtech unicorn, ₹3K-10K/year (3-5x cheaper), bootstrap-to-IPO, $2.8B valuation; Aryabhata 1.0 SLM (90.2% JEE Math), Alakh AI suite, Project Bharat multilingual AI
 - [Testbook Analysis](education/competitors/testbook-analysis.md) - Government exam test series specialist, 30M users, 4M paid, profitable since 2022, ~$42-48M revenue, 13-15% conversion, ₹500-2,999 pricing, 80+ languages, exam-realistic interface
 	- [Testbook.com - India's No.1 Govt Exam Preparation Site \| Online Course \| Mock Test](https://testbook.com/)
 	- [SSC CGL Notification 2026, Exam Date, Vacancy, Selection Process and Eligibility](https://testbook.com/ssc-cgl-exam)
@@ -80,9 +101,9 @@
 ## Market Research
 
 - [Technical Hiring Assessment Market](education/competitors/technical-hiring-assessment-market.md) - $8-10B TAM analysis
-- [adaptive-learning-algorithms-competitors](education/competitors/adaptive-learning-algorithms-competitors.md)
-- [adaptive-learning-deep-dive-new-findings](education/competitors/adaptive-learning-deep-dive-new-findings.md)
-- [personalized-education-ai-research](education/competitors/personalized-education-ai-research.md)
+- [Personalized Education AI Research](education/competitors/personalized-education-ai-research.md) - Exhaustive analysis of AI-driven adaptive learning: KST, IRT, DKT, Bayesian frameworks, generative AI for question generation, comparative algorithm table
+- [Adaptive Learning Algorithms Competitors](education/competitors/adaptive-learning-algorithms-competitors.md)
+- [Adaptive Learning Deep Dive New Findings](education/competitors/adaptive-learning-deep-dive-new-findings.md)
 
 ## Links
 
