@@ -927,12 +927,12 @@ Due to research limitations (web search failures, expired SSL certificate on mya
 
 ## Related Research
 
-- [Khan Academy Analysis](education/competitors/khan-academy-analysis.md) - Free education leader with Khanmigo AI tutor
-- [Synthesis Tutor Analysis](education/competitors/synthesis-tutor-analysis.md) - Premium AI tutoring ($45-70/month)
-- [Coursera Analysis](education/competitors/coursera-analysis.md) - MOOC enterprise leader
-- [Alpha School Analysis](education/competitors/alpha-school-analysis.md) - $40K/year AI-powered microschool
+- [Khan Academy Analysis](education/competitors/moocs/khan-academy-analysis.md) - Free education leader with Khanmigo AI tutor
+- [Synthesis Tutor Analysis](education/competitors/adaptive-ai-platforms/synthesis-tutor-analysis.md) - Premium AI tutoring ($45-70/month)
+- [Coursera Analysis](education/competitors/moocs/coursera-analysis.md) - MOOC enterprise leader
+- [Alpha School Analysis](education/competitors/technical-skills/alpha-school-analysis.md) - $40K/year AI-powered microschool
 - [Technical Hiring Market](education/competitors/technical-hiring-assessment-market.md) - Market sizing for assessment platforms
-- [AI Question Generation Feasibility](education/technical-feasibility-ai-question-generation.md) - Technical architecture for AI-native platform
+- [AI Question Generation Feasibility](education/technical/technical-feasibility-ai-question-generation.md) - Technical architecture for AI-native platform
 - [adaptive-learning-platform](education/pedagogy/adaptive-learning-platform.md) - Working professional focus (differentiated segment)
 
 ---

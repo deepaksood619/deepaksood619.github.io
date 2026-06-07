@@ -603,13 +603,13 @@ tags: [preplaced, leeco, mentorship, job-search, ai-automation, india-market]
 
 **Working Professional Upskilling (India):**
 
-- [upGrad Analysis](education/competitors/upgrad-analysis.md) - Aggressive consolidator, university-partnered degrees, higher price point (₹50K-5L/year)
-- [GrowthSchool Analysis](education/competitors/growthschool-analysis.md) - Premium upskilling with mentor-led cohorts (similar positioning to Preplaced)
-- [Outskill Analysis](education/competitors/outskill-analysis.md) - AI-focused upskilling (possibly related to GrowthSchool)
+- [upGrad Analysis](education/competitors/india-edtech/upgrad-analysis.md) - Aggressive consolidator, university-partnered degrees, higher price point (₹50K-5L/year)
+- [GrowthSchool Analysis](education/competitors/india-edtech/growthschool-analysis.md) - Premium upskilling with mentor-led cohorts (similar positioning to Preplaced)
+- [Outskill Analysis](education/competitors/india-edtech/outskill-analysis.md) - AI-focused upskilling (possibly related to GrowthSchool)
 
 **Technical Assessment & Hiring:**
 
-- [HackerRank Analysis](education/competitors/hackerrank-analysis.md) - Technical assessment platform (downstream from Preplaced mentorship)
+- [HackerRank Analysis](education/competitors/technical-skills/hackerrank-analysis.md) - Technical assessment platform (downstream from Preplaced mentorship)
 - [Technical Hiring Assessment Market](education/competitors/technical-hiring-assessment-market.md) - $8-10B market overview
 
 **Other Relevant:**

@@ -633,10 +633,10 @@ tags: [sparkl, online-tutoring, k12, international-curriculum, india]
 
 ## Related Research
 
-- [CodeSignal Analysis](education/competitors/codesignal-analysis.md) - Technical assessment competitor
-- [HackerRank Analysis](education/competitors/hackerrank-analysis.md) - Market leader in tech assessment
-- [HackerEarth Analysis](education/competitors/hackerearth-analysis.md) - India/Asia assessment leader
-- [Personal Tutor Concept](education/personal-tutor.md) - AI tutor product idea
+- [CodeSignal Analysis](education/competitors/technical-skills/codesignal-analysis.md) - Technical assessment competitor
+- [HackerRank Analysis](education/competitors/technical-skills/hackerrank-analysis.md) - Market leader in tech assessment
+- [HackerEarth Analysis](education/competitors/technical-skills/hackerearth-analysis.md) - India/Asia assessment leader
+- [Personal Tutor Concept](education/product-concepts/personal-tutor.md) - AI tutor product idea
 
 ---
 

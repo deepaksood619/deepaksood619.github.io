@@ -982,10 +982,10 @@ All require same algorithm (LIS), but context differs.
 
 ## Related Research
 
-- [CodeSignal Analysis](education/competitors/codesignal-analysis.md) - AI features competitive analysis
-- [HackerRank Analysis](education/competitors/hackerrank-analysis.md) - Market leader static library
+- [CodeSignal Analysis](education/competitors/technical-skills/codesignal-analysis.md) - AI features competitive analysis
+- [HackerRank Analysis](education/competitors/technical-skills/hackerrank-analysis.md) - Market leader static library
 - [Technical Hiring Market](education/competitors/technical-hiring-assessment-market.md) - $8-10B TAM
-- [AI Coding Test Platform](education/ai-coding-test-platform.md) - Product concept
+- [AI Coding Test Platform](education/product-concepts/ai-coding-test-platform.md) - Product concept
 
 ---
 

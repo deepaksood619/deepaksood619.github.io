@@ -351,11 +351,11 @@ status: preliminary-research
 
 ## Related Research
 
-- [GrowthSchool Analysis](education/competitors/growthschool-analysis.md) - Possibly same founder, broader upskilling
-- [upGrad Analysis](education/competitors/upgrad-analysis.md) - India edtech consolidator
-- [Coursera Analysis](education/competitors/coursera-analysis.md) - MOOC comparison
-- [Founder's Strategic Brief](education/founders-strategic-brief.md) - AI-native platform strategy
-- [Technical Feasibility: AI Question Generation](education/technical-feasibility-ai-question-generation.md) - How AI-native works
+- [GrowthSchool Analysis](education/competitors/india-edtech/growthschool-analysis.md) - Possibly same founder, broader upskilling
+- [upGrad Analysis](education/competitors/india-edtech/upgrad-analysis.md) - India edtech consolidator
+- [Coursera Analysis](education/competitors/moocs/coursera-analysis.md) - MOOC comparison
+- [Founder's Strategic Brief](education/strategy/founders-strategic-brief.md) - AI-native platform strategy
+- [Technical Feasibility: AI Question Generation](education/technical/technical-feasibility-ai-question-generation.md) - How AI-native works
 
 **Sources:**
 

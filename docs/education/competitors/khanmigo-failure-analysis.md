@@ -240,7 +240,7 @@ We shared some of this last fall, and the full launch is just months away.
 
 Related analysis:
 
-- [Khan Academy Analysis](education/competitors/khan-academy-analysis.md) - Broader organizational strategy
+- [Khan Academy Analysis](education/competitors/moocs/khan-academy-analysis.md) - Broader organizational strategy
 - AI Tutoring Market - Category analysis needed
 - Personalized Learning - Pedagogical theory vs implementation reality
 

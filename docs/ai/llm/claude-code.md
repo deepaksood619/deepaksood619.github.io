@@ -295,6 +295,31 @@ ls ~/.claude/get-shit-done/workflows/
 - [Superpowers vs. GSD: The Results Shocked Me - YouTube](https://www.youtube.com/watch?v=GJmlik1C4Tg)
 - [GSD vs Superpowers vs Claude Code: A New AI King? - YouTube](https://www.youtube.com/watch?v=celLbDMGy8w)
 
+## OpenClaw
+
+[GitHub - openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 · GitHub](https://github.com/openclaw/openclaw) ⭐ 365k
+
+- `openclaw dashboard`
+- [The OpenClaw Effect: Why Every AI Company is Racing to Your Desktop](https://www.thetoolnerd.com/p/the-openclaw-effect-why-every-ai)
+- [Red Hat's OpenClaw maintainer just made enterprise Claw deployments a lot safer \| TechCrunch](https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/)
+- [GitHub - NVIDIA/NemoClaw: Run OpenClaw more securely inside NVIDIA OpenShell with managed inference · GitHub](https://github.com/NVIDIA/NemoClaw) ⭐ 20k
+- [Buda — Run Your Agent Company — Cloud-Native AI Workforce](https://buda.im/)
+
+```bash
+# windows - powershell
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+
+openclaw update
+
+openclaw dashboard
+openclaw doctor --generate-gateway-token
+openclaw doctor --fix
+
+openclaw gateway stop
+openclaw reset
+openclaw onboard --install-daemon
+```
+
 ## Others / Agents / Skills
 
 - [GitHub - affaan-m/everything-claude-code: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. · GitHub](https://github.com/affaan-m/everything-claude-code) ⭐ 168k
@@ -303,12 +328,6 @@ ls ~/.claude/get-shit-done/workflows/
 - [GitHub - bytedance/deer-flow: An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. · GitHub](https://github.com/bytedance/deer-flow) ⭐ 64k
 - [GitHub - bmad-code-org/BMAD-METHOD: Breakthrough Method for Agile Ai Driven Development · GitHub](https://github.com/bmad-code-org/BMAD-METHOD) ⭐ 46k
 	- [Getting Started \| BMAD Method](https://docs.bmad-method.org/tutorials/getting-started/)
-- [GitHub - openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 · GitHub](https://github.com/openclaw/openclaw) ⭐ 365k
-	- `openclaw dashboard`
-	- [The OpenClaw Effect: Why Every AI Company is Racing to Your Desktop](https://www.thetoolnerd.com/p/the-openclaw-effect-why-every-ai)
-	- [Red Hat's OpenClaw maintainer just made enterprise Claw deployments a lot safer \| TechCrunch](https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/)
-	- [GitHub - NVIDIA/NemoClaw: Run OpenClaw more securely inside NVIDIA OpenShell with managed inference · GitHub](https://github.com/NVIDIA/NemoClaw) ⭐ 20k
-	- [Buda — Run Your Agent Company — Cloud-Native AI Workforce](https://buda.im/)
 - [GitHub - NousResearch/hermes-agent: The agent that grows with you · GitHub](https://github.com/nousresearch/hermes-agent) ⭐ 120k
 	- [Hermes Agent — The Agent That Grows With You \| Nous Research](https://hermes-agent.nousresearch.com/)
 - [GitHub - msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. · GitHub](https://github.com/msitarzewski/agency-agents) ⭐ 88k

@@ -12,7 +12,7 @@ Last updated: 2026-05-02
 
 ### High Priority - Ready for Validation
 
-1. **[AI Mock Interview Platform](education/ai-mock-interview-platform.md)** - EdTech/HR Tech
+1. **[AI Mock Interview Platform](education/product-concepts/ai-mock-interview-platform.md)** - EdTech/HR Tech
    - AI-powered interview practice (coding, system design, behavioral)
    - $29/month vs $100+ for human mock interviews
    - Market: $2B+ technical interview prep
@@ -26,7 +26,7 @@ Last updated: 2026-05-02
    - Build time: 2-4 weeks MVP
    - **Status:** Recommended for immediate execution
 
-3. **[AI Coding Test Platform](education/ai-coding-test-platform.md)** - EdTech/HR Tech
+3. **[AI Coding Test Platform](education/product-concepts/ai-coding-test-platform.md)** - EdTech/HR Tech
    - AI-generated unique coding assessments
    - Free for job seekers, paid for companies
    - Market: $8B technical hiring
@@ -89,15 +89,15 @@ Last updated: 2026-05-02
 
 **Active Ideas:**
 
-- [AI Mock Interview Platform](education/ai-mock-interview-platform.md)
-- [AI Coding Test Platform](education/ai-coding-test-platform.md)
+- [AI Mock Interview Platform](education/product-concepts/ai-mock-interview-platform.md)
+- [AI Coding Test Platform](education/product-concepts/ai-coding-test-platform.md)
 - AI Subjective Grading Platform
 - 24/7 AI Coding Tutor
 - Domain-Specific Interview Prep
 
 **Market Research:**
 
-- [AI Assessment Platforms Analysis](education/ai-assessment-platforms.md)
+- [AI Assessment Platforms Analysis](education/product-concepts/ai-assessment-platforms.md)
 - Technical Interview Market
 - EdTech B2C Monetization
 
@@ -196,11 +196,11 @@ Last updated: 2026-05-02
 
 - [SaaS Apocalypse Opportunities](ideas/saas-apocalypse-opportunities.md) - High-margin self-serve markets where solo founders can undercut overpriced incumbents 50-70% using AI-powered development
 - [Software-Focused Solo Founder Analysis](ideas/software-startup-analysis.md) - Comparison of multiple startup opportunities
-- [AI Assessment Platforms Deep Dive](education/ai-assessment-platforms.md) - Comparison of 7 AI assessment platform ideas
+- [AI Assessment Platforms Deep Dive](education/product-concepts/ai-assessment-platforms.md) - Comparison of 7 AI assessment platform ideas
 
 **Research Merged into Idea Pages:**
 
-- B2B Coding Assessment research → merged into [AI Coding Test Platform](education/ai-coding-test-platform.md)
+- B2B Coding Assessment research → merged into [AI Coding Test Platform](education/product-concepts/ai-coding-test-platform.md)
 - GenAI Chatbot Market Analysis → merged into [GenAI Website Chatbot](ideas/genai-website-chatbot.md)
 
 **To Be Created:**

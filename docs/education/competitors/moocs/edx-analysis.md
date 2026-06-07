@@ -1192,8 +1192,8 @@ edX was founded in **May 2012** as a **nonprofit initiative** by **MIT and Harva
 
 ## Related Research
 
-- [Coursera Analysis](education/competitors/coursera-analysis.md) - MOOC enterprise leader, primary edX rival
-- [Khan Academy Analysis](education/competitors/khan-academy-analysis.md) - Free K-12 education leader with AI tutor
+- [Coursera Analysis](education/competitors/moocs/coursera-analysis.md) - MOOC enterprise leader, primary edX rival
+- [Khan Academy Analysis](education/competitors/moocs/khan-academy-analysis.md) - Free K-12 education leader with AI tutor
 - 2U Bankruptcy Impact - Market context for 2U crisis
 - [adaptive-learning-platform](education/pedagogy/adaptive-learning-platform.md) - Working professional upskilling
 - [Technical Hiring Market](education/competitors/technical-hiring-assessment-market.md) - Market sizing

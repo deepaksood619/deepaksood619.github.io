@@ -13,7 +13,7 @@
 **Mission:**
 
 - Equal access to quality upskilling (regardless of ability to pay)
-- Working professionals increase salary by ₹5-10L through verified outcomes
+- Working professionals increase salary by 50-100% through verified outcomes
 - Free assessment tools for recruiters (democratize hiring)
 - All surplus reinvested - no profit extraction
 
@@ -27,7 +27,7 @@
 
 **Market Validation:** Students are desperate for **structured, personalized, outcome-focused learning** - exactly what our platform delivers through AI agents, adaptive assessments, and verifiable credentials.
 
-- [placement-challenges-analysis](education/placement-challenges-analysis.md)
+- [placement-challenges-analysis](education/market-analysis/placement-challenges-analysis.md)
 
 ---
 
@@ -237,7 +237,7 @@
 - Can't pivot to non-profit (shareholder lawsuits)
 - Can't offer massive free tier (unsustainable without donations)
 
-**See detailed analysis:** [competitive-advantages.md](education/competitive-advantages.md)
+**See detailed analysis:** [competitive-advantages.md](education/strategy/competitive-advantages.md)
 
 ---
 
@@ -268,7 +268,7 @@
 - Cost-recovery credits cover 60-70% of costs
 - Donations fund scholarships + expansion
 
-**See financial model:** [financial-sustainability.md](education/financial-sustainability.md)
+**See financial model:** [financial-sustainability.md](education/strategy/financial-sustainability.md)
 
 ---
 
@@ -293,7 +293,7 @@
 - Question generation prompts (Year 2)
 - Platform code (Year 3, selective modules)
 
-**See technical details:** [technical-architecture.md](education/technical-architecture.md)
+**See technical details:** [technical-architecture.md](education/technical/technical-architecture.md)
 
 ---
 
@@ -323,7 +323,7 @@
 - All surplus reinvested
 - Tax-deductible for donors
 
-**See funding strategy:** [funding-model.md](education/funding-model.md)
+**See funding strategy:** [funding-model.md](education/strategy/funding-model.md)
 
 ---
 
@@ -349,7 +349,7 @@
 
 **See full details:**
 
-- [Competitive Advantages](education/competitive-advantages.md)
-- [Financial Sustainability Model](education/financial-sustainability.md)
-- [Technical Architecture](education/technical-architecture.md)
-- [Funding Strategy](education/funding-model.md)
+- [Competitive Advantages](education/strategy/competitive-advantages.md)
+- [Financial Sustainability Model](education/strategy/financial-sustainability.md)
+- [Technical Architecture](education/technical/technical-architecture.md)
+- [Funding Strategy](education/strategy/funding-model.md)

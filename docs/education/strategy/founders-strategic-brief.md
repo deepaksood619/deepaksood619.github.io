@@ -1,7 +1,7 @@
 # Founder's Strategic Brief - Education Startup
 
-- **Date:** 2026-05-30 (Updated)
-- **Status:** Post-Research Phase - Market Entry Decision
+- **Date:** 2026-06-07 (Updated)
+- **Status:** Operating model decided — **Non-Profit**. Post-Research Phase, building toward first release.
 - **Research Base:** 55+ files, 30 competitor analyses, 3 market reports, technical feasibility study
 - **Major Update:** Khanmigo failure analysis (May 2026) confirms standalone AI tutoring chatbots don't work
 
@@ -9,15 +9,34 @@
 
 ## Executive Summary
 
-After deep research across MOOCs, AI tutoring, test prep, bootcamps, and alternative education, we've identified a **high-conviction opportunity**: An AI-native adaptive learning platform for **working professionals (25-45yo) seeking measurable salary increases** through skill development.
+After deep research across MOOCs, AI tutoring, test prep, bootcamps, and alternative education, we've identified a **high-conviction opportunity**: An AI-native adaptive learning platform for **working professionals (25-45yo) seeking measurable salary increases** through skill development — built and operated as a **non-profit**.
 
-**The Thesis:** Combine real-time AI question generation + algorithmic adaptivity (IRT/BKT) + salary outcome tracking to create the first platform that guarantees ROI for career upskilling. Target B2C initially (PLG motion), pivot to enterprise B2B at scale.
+**The Thesis:** Combine real-time AI question generation + algorithmic adaptivity (IRT/BKT) + salary outcome tracking to create the first platform that *guarantees ROI for career upskilling and keeps it accessible* — a free recruiter-assessment wedge plus AI learning agents, run on cost-recovery economics so 70-90% of users never pay.
 
 **Market Timing:** The window is NOW (2026-2027). ChatGPT has disrupted passive video learning, MOOCs are dying (Coursera never profitable, edX parent bankrupt, Unacademy down 85%), and working professionals are desperate for outcome-focused education (not entertainment or completion certificates).
 
-**Required Capital:** $500K-1M seed round (12-18 month runway to Series A).
+**Funding Model:** Grants + CSR + donations, zero equity. Target ₹2-100 crore over 3 years. Not raising venture capital; not chasing financial returns.
 
-**Expected Outcome:** $10M ARR at 24 months, path to $100M+ revenue within 5 years via enterprise expansion.
+**Expected Outcome (24 months):** Impact, not ARR — ~5M users, 2M on the free tier, 50K scholarships, 10K verified salary increases, with all surplus reinvested.
+
+---
+
+> ## ⚠️ Operating Model — Current Direction (decided 2026-06-07)
+>
+> **This is a non-profit (Section 8 / 501(c)(3)). We are NOT raising venture capital and NOT chasing financial returns.** Funding is grants + CSR + donations. Pricing is cost-recovery, not profit-maximizing. See [pitch.md](education/strategy/pitch.md) and [funding-model.md](education/strategy/funding-model.md) for the current canonical framing.
+>
+> **How to read the rest of this brief.** Most of it is still valid — the product design, competitive teardown, pedagogy, market-timing, and risk analysis all hold for a non-profit. But this document was originally drafted in a for-profit/VC frame, so reinterpret the financial language as follows:
+>
+> | Original (for-profit) framing | Read it as (non-profit) |
+> |---|---|
+> | "ARR / revenue targets / monetization" | Cost-recovery + sustainability; surplus reinvested |
+> | "Placement fees = ₹21 crore/year revenue" | Optional sustainability stream; funds free tier, not profit |
+> | "Seed round / Series A-C / valuation / equity / exit / IPO" | **N/A** — donation/grant/CSR funded, zero equity |
+> | "LTV:CAC, ARPU, burn, profitability" | Unit *cost* discipline so the free tier stays funded |
+> | "PLG B2C → enterprise B2B upsell" (Section 7) | Sequencing of free recruiter wedge → learner agents; enterprise/CSR as a *funding* channel, not an exit path |
+> | "Raise VC, not donations" (Anomalies in Section 6) | **Superseded** — we chose the donation/grant path deliberately |
+>
+> Sections that are now **superseded** as strategy (kept only as research/market reference): the funding/valuation math in §6 anomalies, the two for-profit business models in §7, and the Series-A capital plan in §10. The non-profit equivalents live in the rewritten §10 and §11 below.
 
 ---
 
@@ -1450,11 +1469,13 @@ Analyzing willingness-to-pay across segments reveals **outcomes-based pricing wo
 - Us: **Tech skills only** (coding, data science, cloud, AI/ML), **working professionals only** (25-45yo)
 - NOT: K-12, test prep, general upskilling, hobbies, certifications (avoid dilution)
 
-**For-Profit Structure:**
+**Structure (revised — Non-Profit, 2026-06-07):**
 
-- Raise VC (not donations) → faster R&D, aggressive hiring, marketing spend
-- No mission drift (nonprofit Khan Academy can't charge premium without backlash)
-- Exit optionality (acquisition, IPO) → attract top talent with equity
+> The original brief argued for a for-profit/VC structure here. **Superseded.** We chose non-profit deliberately. The Khan-Academy lesson is real (donor dependency, slow R&D), so our mitigation is *diversified* funding — grants + CSR + cost-recovery credits + community donations (freeCodeCamp proves this is sustainable) — not VC.
+
+- ~~Raise VC (not donations)~~ → **Diversified non-VC funding** (grants + CSR + donations + cost-recovery), no single source >50%
+- Mission is the moat, not a constraint — non-profit transparency builds trust for-profits can't match
+- ~~Exit optionality (acquisition, IPO)~~ → **No exit.** Attract talent with mission + impact, not equity
 
 **Validation:**
 
@@ -1524,10 +1545,10 @@ PhysicsWallah's advantages:
 
 **How to Exploit:**
 
-**Option A: Don't Overfund Early (Lean First 2-3 Years)**
+**Option A: Stay Lean (First 2-3 Years)** — *non-profit reframe: the "don't overfund" lesson still applies; substitute grants/CSR/donations for "seed."*
 
-- Raise $500K-1M seed (NOT $5-10M Series A too early)
-- Prove unit economics: CAC `<` LTV, path to profitability
+- ~~Raise $500K-1M seed (NOT $5-10M Series A too early)~~ → **Cover a lean 18-month operating budget from grants + CSR + donations; don't over-scale spend early**
+- Prove unit *cost* discipline: cost-per-active-user low enough that donations/grants cover the free tier
 - Avoid "grow at all costs" trap (Coursera, BYJU'S, Unacademy all burned cash)
 
 **Option B: Celebrity Founder / Influencer Strategy**
@@ -1554,12 +1575,12 @@ PhysicsWallah's advantages:
 - Coursera: Unprofitable at $400/year (bloated, high CAC)
 - Lesson: **Lean + outcomes + affordable `>` VC-funded + premium + no outcomes**
 
-**Action:**
+**Action (non-profit):**
 
-1. Raise $500K-1M seed (not $5-10M too early)
-2. Prove CAC `<` LTV within 12 months
-3. Build in public (founder teaches on YouTube/Twitter → organic CAC)
-4. Price undercuts MOOCs ($600-1,200/year vs Coursera $400/year, but BETTER outcomes)
+1. ~~Raise $500K-1M seed~~ → Secure 18-month operating budget via grants + CSR + donations (zero equity)
+2. Prove cost-per-active-user is low enough for donations/grants to cover the free tier (within 12 months)
+3. Build in public (founder teaches on YouTube/Twitter → organic reach)
+4. Cost-recovery pricing for the paying minority (₹100 = 2,000 credits); free for 70-90%
 
 ---
 
@@ -1673,6 +1694,8 @@ Why do traditional schools lose despite proof?
 ---
 
 ## 7. Strategic Fork in the Road: Two Business Models
+
+> **⚠️ Superseded (2026-06-07).** Both models below are for-profit (VC/ARR/exit). We've chosen a **non-profit** path — see the Operating Model banner at the top and the rewritten §10/§11. Keep this section only as analysis of go-to-market *sequencing* (free recruiter wedge first, learner agents second). Ignore the equity/ARR/valuation framing.
 
 ### Model A: PLG (Product-Led Growth) → B2C Self-Serve → Enterprise Upsell
 
@@ -2340,44 +2363,50 @@ Why do traditional schools lose despite proof?
 
 ---
 
-### Capital Requirements (18-Month Runway to Series A)
+### Funding & Budget (Non-Profit, Year 1)
+
+> Non-profit framing. We are not raising a seed round or running to Series A. We cover an 18-month operating budget from grants + CSR + donations, keep costs lean, and reinvest any surplus.
 
 **Team (Year 1):**
 
-- Founder (CEO): $0 salary (equity only, lean mentality)
-- Engineer (Full-Stack): $120K-150K/year
-- Product Designer: $100K-120K/year
-- **Total: $220K-270K/year**
+- Founder: minimal / cost-of-living stipend (mission-driven, lean)
+- Engineer (Full-Stack): $120K-150K/year (or India-cost equivalent ₹25-40L)
+- Product Designer: $100K-120K/year (or contractor / part-time to start)
+- **Total: keep under $150K-250K/year; favor India-cost hiring + volunteers/contributors**
 
 **Infrastructure (Year 1):**
 
-- Cloud (AWS/GCP): $10K-20K/year (scales with users)
-- AI APIs (Claude/GPT-4): $15K-30K/year (1M questions/month)
-- Tools (Notion, Figma, GitHub, Vercel): $5K-10K/year
-- **Total: $30K-60K/year**
+- Cloud (AWS/GCP): $10K-20K/year (scales with users; pursue non-profit cloud credits — AWS/GCP/Azure non-profit programs)
+- AI APIs (Claude/GPT-4): $15K-30K/year (1M questions/month) — offset by BYOK/BYOM and free-tier credit caps
+- Tools (Notion, Figma, GitHub, Vercel): $5K-10K/year (most offer free non-profit tiers)
+- **Total: $30K-60K/year, reducible via non-profit credits**
 
-**Marketing (Year 1):**
+**Outreach (Year 1):**
 
-- Paid ads (LinkedIn, Facebook, Google): $50K-100K/year
-- Content (YouTube, blog, SEO): $20K-40K/year (contractor)
-- **Total: $70K-140K/year**
+- No paid-ads burn. Growth via the free recruiter wedge, build-in-public, content/SEO, and community.
+- Content (YouTube, blog, SEO): $20K-40K/year (contractor) — optional
+- **Total: ~$0-40K/year**
 
-**Legal, Accounting, Misc:**
+**Legal, Accounting, Compliance (non-profit registration, 80G/FCRA or 501(c)(3)):**
 
-- $20K-30K/year
+- $20K-40K/year (higher early due to entity setup + grant compliance)
 
-**Year 1 Total Burn:** $340K-500K
+**Year 1 Operating Budget:** ~$230K-390K (lean; lower with India-cost team + non-profit credits)
 
-**Seed Round:** $500K-1M (12-18 month runway + buffer)
+**Funding Sources (not equity):**
 
-**Milestones for Series A (18 Months):**
+- Grants (education / digital-public-goods / foundation)
+- CSR partnerships (Indian CSR mandate — companies fund skilling)
+- Individual + community donations (freeCodeCamp model)
+- Cost-recovery credits from the minority of users who pay (₹100 = 2,000 credits)
 
-- $3M ARR (5,000 users × $600/year or 10,000 users × $300/year)
+**18-Month Sustainability Milestones (replaces Series-A milestones):**
+
+- Operating budget covered by diversified funding (no single source >50%)
 - 30-50% completion rate (2-3x MOOC)
-- 200-500 learners with proven salary increase (avg ₹4-5L)
-- CAC `<` $50, LTV `>` $900 (LTV:CAC 18x+)
-
-**Series A:** $5-10M at $20-30M pre-money valuation (based on $3M ARR, 10x revenue multiple)
+- 200-500 learners with verified salary increase (avg ₹4-5L)
+- Unit *cost* per active free user low enough that donations/grants comfortably cover the free tier
+- Transparent public financials published (trust = fundraising engine)
 
 ---
 
@@ -2390,7 +2419,7 @@ Why do traditional schools lose despite proof?
 - Standalone AI chatbot = wrong form factor (students wanted answers, not tutoring)
 - AI must be embedded in practice systems (not separate interface)
 - Working professionals `>` students (teachers were better Khanmigo users)
-- B2B enterprise `>` B2C consumer (Khan Academy adding 30+ teacher features)
+- Institutional users (recruiters/teachers/orgs) engage more than casual learners — our free recruiter wedge leans into this
 - Outcomes `>` pedagogy (engagement failed without clear ROI)
 
 **The 10x Differentiation:** Not just cheaper (₹50K-1L vs Scaler's ₹2-4L), but **fundamentally better**:
@@ -2400,21 +2429,21 @@ Why do traditional schools lose despite proof?
 - **100% practice, zero lectures** (vs 60% lectures) = 10x retention through active learning
 - **GitHub portfolio + public rankings** (vs PDF certificates) = 10x verifiability
 - **Real-time salary predictions** (vs opaque claims) = personalized ROI transparency
-- **Build in public automation** (vs 1:1 mentors) = infinite scalability + network effects + ₹21 crore/year placement fees
+- **Build in public automation** (vs 1:1 mentors) = infinite scalability + network effects (and an optional placement stream that funds the free tier, never profit)
 
-**The Moat:** Competitors can't copy without abandoning core business models. Scaler can't kill 1:1 mentors. Coursera can't abandon university partnerships. We own "Build in Public" + "AI-Native Practice Systems" category.
+**The Moat:** A for-profit can't copy a non-profit's structure without killing its own margins. Scaler can't kill 1:1 mentors. Coursera can't abandon university partnerships. Incumbents are locked into profit maximization; we own "Build in Public" + "AI-Native Practice Systems" + *mission-aligned cost-recovery* as a combined category.
 
-**The Insight:** Real-time AI question generation + algorithmic adaptivity (IRT/BKT) + salary outcome tracking + automated public accountability = **10x better economics** than MOOCs (higher ARPU, completion, retention) and bootcamps (scalable, not human-constrained). Khanmigo spent 3 years proving what NOT to build. We know what TO build.
+**The Insight:** Real-time AI question generation + algorithmic adaptivity (IRT/BKT) + salary outcome tracking + automated public accountability = **dramatically better unit cost** than MOOCs (completion, retention) and bootcamps (scalable, not human-constrained) — which is exactly what lets a donation-funded free tier reach millions. Khanmigo spent 3 years proving what NOT to build. We know what TO build.
 
-**The Strategy:** PLG-first (B2C working professionals, $50-100/month, 10,000 users = $9M ARR in 18 months) → Enterprise upsell (B2B L&D, $200-400/employee, 20 companies = $3M ARR) → Enterprise-first (hire sales team, 60% revenue from B2B by Year 3).
+**The Strategy (Non-Profit):** Free recruiter-assessment wedge → learner-side AI agents (tutor / mock-interview / mentor / project review) with a generous free credit tier → cost-recovery + CSR/grants/donations for sustainability. Enterprise/CSR is a *funding* channel, not an exit path.
 
-**The Risk:** Willingness to pay unvalidated, AI question quality unproven, skill-to-salary causation unclear. **Mitigation:** Pre-sell landing page (validate WTP), A/B test AI vs human questions (validate quality), partner with employers for hiring pipeline (validate outcomes).
+**The Risk:** Willingness to *donate/fund* unvalidated, AI question quality unproven, skill-to-salary causation unclear, free-tier cost discipline unproven. **Mitigation:** Validate funding (grant/CSR conversations + landing page), A/B test AI vs human questions (validate quality), partner with employers for hiring pipeline (validate outcomes), cap free-tier credits + BYOK (control cost).
 
-**The Ask:** $500K-1M seed round, 12-18 month runway to $3M ARR. Series A at $20-30M valuation (10x revenue multiple).
+**The Ask:** Secure an 18-month operating budget from grants + CSR + donations (₹2-100 crore over 3 years), zero equity. No seed round, no Series A, no valuation.
 
-**The Bet:** If we move NOW, we have 18-24 month first-mover advantage before incumbents catch up. Speed is moat. Execution is everything.
+**The Bet:** If we move NOW, we have an 18-24 month window before incumbents adapt — and as a non-profit the moat compounds (trust, transparency, accessibility) where for-profits structurally can't follow. Speed + mission is the moat. Execution is everything.
 
-**Decision:** Validate willingness to pay + AI quality in next 30 days. If validated → raise seed → build MVP → launch in 6 months. If not validated → pivot or shelf.
+**Decision:** Validate AI quality + initial funding interest in the next 30 days. If validated → build MVP → launch in 6 months. If not → reassess scope.
 
 **This is the alpha. Go win.**
 
@@ -2426,57 +2455,57 @@ Why do traditional schools lose despite proof?
 
 1. [Technical Hiring Assessment Market](education/competitors/technical-hiring-assessment-market.md) - $8-10B TAM, 20%+ CAGR
 2. [adaptive-learning-platform](education/pedagogy/adaptive-learning-platform.md) - $2-3B market, 300M+ working professionals
-3. [AI Question Generation Feasibility](education/technical-feasibility-ai-question-generation.md) - $80K-170K, 6-12 months, HIGHLY FEASIBLE
+3. [AI Question Generation Feasibility](education/technical/technical-feasibility-ai-question-generation.md) - $80K-170K, 6-12 months, HIGHLY FEASIBLE
 
 **Competitor Analyses (27 files):**
 
 **MOOCs:**
 
-4. [Coursera](education/competitors/coursera-analysis.md) - 168M learners, $695M revenue, never profitable
-5. [edX](education/competitors/edx-analysis.md) - 86M learners, 2U bankruptcy
-6. [Khan Academy](education/competitors/khan-academy-analysis.md) - 150M users, nonprofit constraints
+4. [Coursera](education/competitors/moocs/coursera-analysis.md) - 168M learners, $695M revenue, never profitable
+5. [edX](education/competitors/moocs/edx-analysis.md) - 86M learners, 2U bankruptcy
+6. [Khan Academy](education/competitors/moocs/khan-academy-analysis.md) - 150M users, nonprofit constraints
 7. **[Khanmigo Failure Analysis](education/competitors/khanmigo-failure-analysis.md)** - **NEW (May 2026):** Why Khan Academy's AI tutor failed after 3 years, what they're building instead, critical lessons for AI in education
-8. [Brilliant](education/competitors/brilliant-analysis.md) - 10M users, $299.88/year, "learning by doing" model, Koji AI tutor
+8. [Brilliant](education/competitors/adaptive-ai-platforms/brilliant-analysis.md) - 10M users, $299.88/year, "learning by doing" model, Koji AI tutor
 
 **Technical Assessment:**
 
-9. [CodeSignal](education/competitors/codesignal-analysis.md) - AI-native, $50-70M revenue
-10. [HackerRank](education/competitors/hackerrank-analysis.md) - Market leader, 40% share
-11. [HackerEarth](education/competitors/hackerearth-analysis.md) - India/Asia focus
+9. [CodeSignal](education/competitors/technical-skills/codesignal-analysis.md) - AI-native, $50-70M revenue
+10. [HackerRank](education/competitors/technical-skills/hackerrank-analysis.md) - Market leader, 40% share
+11. [HackerEarth](education/competitors/technical-skills/hackerearth-analysis.md) - India/Asia focus
 
 **AI Tutoring:**
 
-12. [Synthesis Tutor](education/competitors/synthesis-tutor-analysis.md) - $300-540/year, 25K families, neurodiversity
-13. [ASI](education/competitors/asi-analysis.md) - Dubai startup, limited traction
-14. [Alpha School](education/competitors/alpha-school-analysis.md) - $40K/year, unvalidated claims
+12. [Synthesis Tutor](education/competitors/adaptive-ai-platforms/synthesis-tutor-analysis.md) - $300-540/year, 25K families, neurodiversity
+13. [ASI](education/competitors/adaptive-ai-platforms/asi-analysis.md) - Dubai startup, limited traction
+14. [Alpha School](education/competitors/technical-skills/alpha-school-analysis.md) - $40K/year, unvalidated claims
 
 **India EdTech / Test Prep:**
 
-15. [Unacademy](education/competitors/unacademy-analysis.md) - 60M users, 85% valuation crash, upGrad acquisition
-16. [PhysicsWallah](education/competitors/physicswallah-analysis.md) - Only profitable edtech unicorn, ₹3K-10K/year
-17. [Testbook](education/competitors/testbook-analysis.md) - Government exam test series, 30M users, profitable
-18. [Careers360](education/competitors/careers360-analysis.md) - Career counseling leader, 400M sessions/year
-19. [Shiksha](education/competitors/shiksha-analysis.md) - Info Edge owned, 8-12M monthly visits
+15. [Unacademy](education/competitors/india-edtech/unacademy-analysis.md) - 60M users, 85% valuation crash, upGrad acquisition
+16. [PhysicsWallah](education/competitors/india-edtech/physicswallah-analysis.md) - Only profitable edtech unicorn, ₹3K-10K/year
+17. [Testbook](education/competitors/india-edtech/testbook-analysis.md) - Government exam test series, 30M users, profitable
+18. [Careers360](education/competitors/india-edtech/careers360-analysis.md) - Career counseling leader, 400M sessions/year
+19. [Shiksha](education/competitors/india-edtech/shiksha-analysis.md) - Info Edge owned, 8-12M monthly visits
 
 **Working Professional Upskilling (India):**
 
-20. **[upGrad](education/competitors/upgrad-analysis.md)** - **NEW:** Acquired Unacademy (March 2026), aggressive consolidator, 7+ acquisitions
-21. **[GrowthSchool](education/competitors/growthschool-analysis.md)** - **NEW:** Premium upskilling, cohort-based, "Top 1%" positioning
-22. **[Outskill](education/competitors/outskill-analysis.md)** - **NEW:** AI-focused fellowships, riding ChatGPT boom
-23. **[Preplaced + Leeco](education/competitors/preplaced-leeco-analysis.md)** - **NEW:** 1:1 mentorship + AI job search, scalability challenges
+20. **[upGrad](education/competitors/india-edtech/upgrad-analysis.md)** - **NEW:** Acquired Unacademy (March 2026), aggressive consolidator, 7+ acquisitions
+21. **[GrowthSchool](education/competitors/india-edtech/growthschool-analysis.md)** - **NEW:** Premium upskilling, cohort-based, "Top 1%" positioning
+22. **[Outskill](education/competitors/india-edtech/outskill-analysis.md)** - **NEW:** AI-focused fellowships, riding ChatGPT boom
+23. **[Preplaced + Leeco](education/competitors/india-edtech/preplaced-leeco-analysis.md)** - **NEW:** 1:1 mentorship + AI job search, scalability challenges
 
 **Online Degree Programs (India):**
 
-24. **[IIT Madras Online BS Degree](education/competitors/iit-madras-online-bs-degree.md)** - **NEW:** 36K+ students, ₹2-3L total cost, 4-tier credentials
+24. **[IIT Madras Online BS Degree](education/competitors/india-edtech/iit-madras-online-bs-degree.md)** - **NEW:** 36K+ students, ₹2-3L total cost, 4-tier credentials
 
 **K-12 Tutoring:**
 
-25. [Sparkl](education/competitors/sparkl-analysis.md) - Premium 1:1, IB/IGCSE focus
-26. [freeCodeCamp](education/competitors/freecodecamp-analysis.md) - 100% free nonprofit coding, 350K monthly users
+25. [Sparkl](education/competitors/adaptive-ai-platforms/sparkl-analysis.md) - Premium 1:1, IB/IGCSE focus
+26. [freeCodeCamp](education/competitors/technical-skills/freecodecamp-analysis.md) - 100% free nonprofit coding, 350K monthly users
 
 **Alternative Education:**
 
-27. [Masters' Union](education/competitors/masters-union-analysis.md) - MBA alternative, ₹33.39L avg CTC
+27. [Masters' Union](education/competitors/india-edtech/masters-union-analysis.md) - MBA alternative, ₹33.39L avg CTC
 
 **Consolidated:**
 

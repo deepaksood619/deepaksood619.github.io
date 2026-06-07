@@ -627,12 +627,12 @@ tags: [upgrad, working-professionals, online-degrees, india-edtech, b2c, b2b, co
 
 ## Related Research
 
-- [Unacademy Analysis](education/competitors/unacademy-analysis.md) - Acquired by upGrad March 2026, 85% valuation crash
-- [PhysicsWallah Analysis](education/competitors/physicswallah-analysis.md) - Profitable edtech unicorn, bootstrap model
-- [Coursera Analysis](education/competitors/coursera-analysis.md) - MOOC enterprise pivot
+- [Unacademy Analysis](education/competitors/india-edtech/unacademy-analysis.md) - Acquired by upGrad March 2026, 85% valuation crash
+- [PhysicsWallah Analysis](education/competitors/india-edtech/physicswallah-analysis.md) - Profitable edtech unicorn, bootstrap model
+- [Coursera Analysis](education/competitors/moocs/coursera-analysis.md) - MOOC enterprise pivot
 - [Emeritus Analysis](education/competitors/consolidated-edtech-platforms.md#emeritus) - Global executive education competitor
-- [Founder's Strategic Brief](education/founders-strategic-brief.md) - Market entry strategy for AI-native platform
-- [Technical Feasibility: Adaptive Platform](education/technical-feasibility-adaptive-platform.md) - AI-native architecture
+- [Founder's Strategic Brief](education/strategy/founders-strategic-brief.md) - Market entry strategy for AI-native platform
+- [Technical Feasibility: Adaptive Platform](education/technical/technical-feasibility-adaptive-platform.md) - AI-native architecture
 
 **Sources:**
 

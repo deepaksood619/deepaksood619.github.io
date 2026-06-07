@@ -1104,9 +1104,9 @@ tags: [shiksha, career-counseling, college-information, india-edtech, info-edge,
 
 ## Related Research
 
-- [Careers360 Analysis](education/competitors/careers360-analysis.md) - Bootstrapped competitor, SEO-dominant, editorial credibility
-- [Unacademy Analysis](education/competitors/unacademy-analysis.md) - India edtech collapse, 85% valuation decline
-- [PhysicsWallah Analysis](education/competitors/physicswallah-analysis.md) - Only profitable edtech unicorn
+- [Careers360 Analysis](education/competitors/india-edtech/careers360-analysis.md) - Bootstrapped competitor, SEO-dominant, editorial credibility
+- [Unacademy Analysis](education/competitors/india-edtech/unacademy-analysis.md) - India edtech collapse, 85% valuation decline
+- [PhysicsWallah Analysis](education/competitors/india-edtech/physicswallah-analysis.md) - Only profitable edtech unicorn
 - CollegeDunia Analysis - Third competitor in college info space (if available)
 - [Technical Hiring Assessment Market](education/competitors/technical-hiring-assessment-market.md) - Adjacent market
 - [Consolidated EdTech Platforms](education/competitors/consolidated-edtech-platforms.md) - India edtech landscape

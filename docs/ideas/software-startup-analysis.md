@@ -156,7 +156,7 @@ status: active
 
 ### 4. AI Coding Test Platform
 
-**See:** [AI Assessment Platforms Analysis](education/ai-assessment-platforms.md)
+**See:** [AI Assessment Platforms Analysis](education/product-concepts/ai-assessment-platforms.md)
 
 **Competing with:** HackerRank ($230M revenue), LeetCode, HackerEarth
 
@@ -278,7 +278,7 @@ status: active
 
 **If prefer AI-first product:**
 
-- See [AI Assessment Platforms](education/ai-assessment-platforms.md)
+- See [AI Assessment Platforms](education/product-concepts/ai-assessment-platforms.md)
 - Smaller MVP scope
 - Desperate buyers (job seekers)
 - Clear willingness to pay
@@ -287,7 +287,7 @@ status: active
 
 ## Cross-References
 
-- [AI Assessment Platforms Analysis](education/ai-assessment-platforms.md)
+- [AI Assessment Platforms Analysis](education/product-concepts/ai-assessment-platforms.md)
 - [startups-ideas-saas](ideas/startups-ideas-saas.md)
 
 ---

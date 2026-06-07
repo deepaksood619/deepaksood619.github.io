@@ -1226,7 +1226,7 @@ Nobody combines:
 
 **Related Documents:**
 
-- [Founder's Strategic Brief](education/founders-strategic-brief.md)
+- [Founder's Strategic Brief](education/strategy/founders-strategic-brief.md)
 - [Khanmigo Failure Analysis](education/competitors/khanmigo-failure-analysis.md)
-- [Placement Challenges Analysis](education/placement-challenges-analysis.md)
-- [Technical Architecture](education/technical-architecture.md)
+- [Placement Challenges Analysis](education/market-analysis/placement-challenges-analysis.md)
+- [Technical Architecture](education/technical/technical-architecture.md)

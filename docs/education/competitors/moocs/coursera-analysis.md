@@ -1078,7 +1078,7 @@ Coursera launched during the "Year of the MOOC" (2012) alongside competitors edX
 
 ## Related Research
 
-- [Khan Academy Analysis](education/competitors/khan-academy-analysis.md) - Free K-12 education leader
-- [CodeSignal Analysis](education/competitors/codesignal-analysis.md) - AI-native technical assessment
+- [Khan Academy Analysis](education/competitors/moocs/khan-academy-analysis.md) - Free K-12 education leader
+- [CodeSignal Analysis](education/competitors/technical-skills/codesignal-analysis.md) - AI-native technical assessment
 - [adaptive-learning-platform](education/pedagogy/adaptive-learning-platform.md) - Working professional upskilling
 - [Technical Hiring Market](education/competitors/technical-hiring-assessment-market.md) - Market sizing

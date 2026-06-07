@@ -812,10 +812,10 @@ Unlike exam prep platforms (Unacademy, PhysicsWallah) with instructor marketplac
 
 ## Related Research
 
-- [Unacademy Analysis](education/competitors/unacademy-analysis.md) - India edtech collapse, 85% valuation decline, what went wrong
-- [PhysicsWallah Analysis](education/competitors/physicswallah-analysis.md) - Only profitable edtech unicorn, bootstrap success
+- [Unacademy Analysis](education/competitors/india-edtech/unacademy-analysis.md) - India edtech collapse, 85% valuation decline, what went wrong
+- [PhysicsWallah Analysis](education/competitors/india-edtech/physicswallah-analysis.md) - Only profitable edtech unicorn, bootstrap success
 - CollegeDunia Analysis
-- [Shiksha Analysis](education/competitors/shiksha-analysis.md) - Info Edge-backed competitor (if available)
+- [Shiksha Analysis](education/competitors/india-edtech/shiksha-analysis.md) - Info Edge-backed competitor (if available)
 - [Technical Hiring Assessment Market](education/competitors/technical-hiring-assessment-market.md) - Adjacent market analysis
 - [Consolidated EdTech Platforms](education/competitors/consolidated-edtech-platforms.md) - India edtech landscape
 

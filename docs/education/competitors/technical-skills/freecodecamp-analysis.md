@@ -954,11 +954,11 @@ freeCodeCamp proves demand for free coding education (350K monthly users, 40K em
 
 ## Related Research
 
-- [Khan Academy Analysis](education/competitors/khan-academy-analysis.md) - Nonprofit K-12 education leader, adaptive learning
-- [Unacademy Analysis](education/competitors/unacademy-analysis.md) - Freemium edtech collapse, low-ARPU market risks
-- [PhysicsWallah Analysis](education/competitors/physicswallah-analysis.md) - Profitable India edtech, affordable pricing
-- [Coursera Analysis](education/competitors/coursera-analysis.md) - MOOC enterprise model, university partnerships
-- [Personal Tutor Concept](education/personal-tutor.md) - AI-powered adaptive learning alternative
+- [Khan Academy Analysis](education/competitors/moocs/khan-academy-analysis.md) - Nonprofit K-12 education leader, adaptive learning
+- [Unacademy Analysis](education/competitors/india-edtech/unacademy-analysis.md) - Freemium edtech collapse, low-ARPU market risks
+- [PhysicsWallah Analysis](education/competitors/india-edtech/physicswallah-analysis.md) - Profitable India edtech, affordable pricing
+- [Coursera Analysis](education/competitors/moocs/coursera-analysis.md) - MOOC enterprise model, university partnerships
+- [Personal Tutor Concept](education/product-concepts/personal-tutor.md) - AI-powered adaptive learning alternative
 
 **Information Sources:**
 

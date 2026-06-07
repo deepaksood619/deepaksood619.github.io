@@ -687,12 +687,12 @@ tags: [brilliant, stem-education, interactive-learning, freemium, problem-solvin
 
 ## Related Research
 
-- [Khan Academy Analysis](education/competitors/khan-academy-analysis.md) - Nonprofit STEM learning, video-based, free + Khanmigo $4-9/month
-- [Coursera Analysis](education/competitors/coursera-analysis.md) - MOOC enterprise pivot, passive videos
-- [Synthesis Tutor Analysis](education/competitors/synthesis-tutor-analysis.md) - Premium AI math tutor, $300-540/year, neurodiversity focus
-- [Alpha School Analysis](education/competitors/alpha-school-analysis.md) - 2-hour learning model, $40K/year, unvalidated claims
-- [Founder's Strategic Brief](education/founders-strategic-brief.md) - AI-native platform strategy for working professionals
-- [Technical Feasibility: Adaptive Platform](education/technical-feasibility-adaptive-platform.md) - IRT/BKT algorithms, AI question generation
+- [Khan Academy Analysis](education/competitors/moocs/khan-academy-analysis.md) - Nonprofit STEM learning, video-based, free + Khanmigo $4-9/month
+- [Coursera Analysis](education/competitors/moocs/coursera-analysis.md) - MOOC enterprise pivot, passive videos
+- [Synthesis Tutor Analysis](education/competitors/adaptive-ai-platforms/synthesis-tutor-analysis.md) - Premium AI math tutor, $300-540/year, neurodiversity focus
+- [Alpha School Analysis](education/competitors/technical-skills/alpha-school-analysis.md) - 2-hour learning model, $40K/year, unvalidated claims
+- [Founder's Strategic Brief](education/strategy/founders-strategic-brief.md) - AI-native platform strategy for working professionals
+- [Technical Feasibility: Adaptive Platform](education/technical/technical-feasibility-adaptive-platform.md) - IRT/BKT algorithms, AI question generation
 
 **Sources:**
 

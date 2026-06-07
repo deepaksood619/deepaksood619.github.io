@@ -244,9 +244,9 @@ User mentioned "both are run by Vaibhav" - suggesting:
 
 ## Related Research
 
-- [Outskill Analysis](education/competitors/outskill-analysis.md) - AI-focused platform, possibly same founder
-- [upGrad Analysis](education/competitors/upgrad-analysis.md) - India edtech consolidator, university degrees
-- [Coursera Analysis](education/competitors/coursera-analysis.md) - MOOC comparison
+- [Outskill Analysis](education/competitors/india-edtech/outskill-analysis.md) - AI-focused platform, possibly same founder
+- [upGrad Analysis](education/competitors/india-edtech/upgrad-analysis.md) - India edtech consolidator, university degrees
+- [Coursera Analysis](education/competitors/moocs/coursera-analysis.md) - MOOC comparison
 - [Consolidated EdTech Platforms](education/competitors/consolidated-edtech-platforms.md) - Market overview
 
 **Sources:**

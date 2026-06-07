@@ -17,7 +17,22 @@ This is an **LLM-maintained wiki** where Claude actively:
 
 ## Content Catalog
 
-**See [readme.md](readme.md) for full content catalog** (30 files: product concepts, learning science, market research, competitors, strategic context).
+**See [readme.md](readme.md) for full content catalog** (77+ files organized into 6 thematic folders).
+
+## Folder Organization
+
+The education wiki is organized into 6 main folders:
+
+- **strategy/** - Business strategy, pitch materials, funding model (5 files)
+- **product-concepts/** - Product ideas, features, AI agent prompts (8 files)
+- **market-analysis/** - Market research, education system analysis (3 files)
+- **technical/** - Technical architecture, feasibility studies (3 files)
+- **pedagogy/** - Learning science, memory, adaptive learning (17 files)
+- **competitors/** - Platform analyses organized by category (41 files)
+  - moocs/ - MOOC platforms (4 files)
+  - india-edtech/ - Indian edtech companies (12 files)
+  - technical-skills/ - Coding/tech upskilling (6 files)
+  - adaptive-ai-platforms/ - AI-powered learning platforms (13 files)
 
 ## Why LLM-Maintained Wiki?
 
@@ -80,12 +95,45 @@ Periodically check: contradictions, stale claims, orphans, broken links, dead-en
 
 **Commands:** See parent `/docs/CLAUDE.md` for Obsidian CLI reference (orphans, deadends, unresolved).
 
-## Target Taxonomy
+## File Placement Guidelines
 
-**Folder structure to organize research:**
+When creating new content, place files in the appropriate folder:
 
-- **pedagogy/** - Constructivism, Montessori, Waldorf, project-based learning
-- **competitors/** - Platform analyses
+**strategy/** - Business planning documents
+
+- Business models, funding approaches, competitive positioning
+- Pitch decks, investor materials, strategic briefs
+- Example: `founders-strategic-brief.md`, `pitch.md`
+
+**product-concepts/** - Product ideas and features
+
+- AI agent designs, feature specifications, system prompts
+- Product prototypes, user workflows, feature proposals
+- Example: `ai-as-mentor.md`, `personal-tutor-prompt.md`
+
+**market-analysis/** - Market research and analysis
+
+- Market sizing, competitive landscape, user research
+- Education system critiques, placement trends, demographic studies
+- Example: `placement-challenges-analysis.md`, `education-system.md`
+
+**technical/** - Technical architecture and feasibility
+
+- System architecture, tech stack decisions, cost analysis
+- Implementation plans, API designs, infrastructure planning
+- Example: `technical-architecture.md`, `technical-feasibility-adaptive-platform.md`
+
+**pedagogy/** - Learning science and educational theory
+
+- Cognitive science, memory systems, learning methodologies
+- Pedagogical frameworks, teaching strategies, educational psychology
+- Example: `adaptive-learning-algorithms.md`, `memory.md`
+
+**competitors/** - Competitor platform analyses
+
+- Place in subcategory: moocs/, india-edtech/, technical-skills/, adaptive-ai-platforms/
+- Follow naming: `[company-name]-analysis.md`
+- Example: `competitors/india-edtech/scaler-analysis.md`
 
 ## Obsidian CLI Usage
 

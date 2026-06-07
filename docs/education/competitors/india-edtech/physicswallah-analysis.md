@@ -1558,10 +1558,10 @@ This represents a significant differentiation opportunity for learning-science-f
 
 ## Related Research
 
-- [Unacademy Analysis](education/competitors/unacademy-analysis.md) - Failed competitor, 85% valuation crash, acquired
-- [Khan Academy Analysis](education/competitors/khan-academy-analysis.md) - Free education leader, non-profit model
-- [Coursera Analysis](education/competitors/coursera-analysis.md) - MOOC enterprise model, higher ARPU
-- [Personal Tutor Concept](education/personal-tutor.md) - AI-powered adaptive learning alternative
+- [Unacademy Analysis](education/competitors/india-edtech/unacademy-analysis.md) - Failed competitor, 85% valuation crash, acquired
+- [Khan Academy Analysis](education/competitors/moocs/khan-academy-analysis.md) - Free education leader, non-profit model
+- [Coursera Analysis](education/competitors/moocs/coursera-analysis.md) - MOOC enterprise model, higher ARPU
+- [Personal Tutor Concept](education/product-concepts/personal-tutor.md) - AI-powered adaptive learning alternative
 - [Consolidated Edtech Platforms](education/competitors/consolidated-edtech-platforms.md) - India edtech market overview
 
 **Sources:**

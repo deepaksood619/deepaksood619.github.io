@@ -774,11 +774,11 @@ tags: [testbook, test-prep, government-exams, india-edtech, b2c, test-series]
 
 ## Related Research
 
-- [Unacademy Analysis](education/competitors/unacademy-analysis.md) - India edtech marketplace collapse, strategic lessons
-- [PhysicsWallah Analysis](education/competitors/physicswallah-analysis.md) - Profitable India edtech, bootstrap success
-- [Khan Academy Analysis](education/competitors/khan-academy-analysis.md) - Free education platform, non-profit model
+- [Unacademy Analysis](education/competitors/india-edtech/unacademy-analysis.md) - India edtech marketplace collapse, strategic lessons
+- [PhysicsWallah Analysis](education/competitors/india-edtech/physicswallah-analysis.md) - Profitable India edtech, bootstrap success
+- [Khan Academy Analysis](education/competitors/moocs/khan-academy-analysis.md) - Free education platform, non-profit model
 - [Technical Hiring Assessment Market](education/competitors/technical-hiring-assessment-market.md) - Assessment platforms in hiring context
-- [Personal Tutor Concept](education/personal-tutor.md) - AI-powered adaptive learning alternative
+- [Personal Tutor Concept](education/product-concepts/personal-tutor.md) - AI-powered adaptive learning alternative
 
 **Sources:**
 

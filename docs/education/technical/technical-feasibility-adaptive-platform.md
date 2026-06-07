@@ -13,7 +13,7 @@
 **Key Findings:**
 
 - **Adaptive Learning:** IRT/BKT algorithms proven (open-source libraries available), can be implemented in 2-3 months
-- **AI Question Generation:** GPT-4/Claude 3.5 generate quality coding problems at $0.015-0.02/question (see [AI Question Generation Study](education/technical-feasibility-ai-question-generation.md))
+- **AI Question Generation:** GPT-4/Claude 3.5 generate quality coding problems at $0.015-0.02/question (see [AI Question Generation Study](education/technical/technical-feasibility-ai-question-generation.md))
 - **Content Curation:** YouTube Data API + web scraping achievable, ML tagging with existing models
 - **Salary Tracking:** Job APIs available (LinkedIn, Naukri, Indeed), salary data accessible
 - **Cost:** $80K-170K total investment for MVP → Scale → Production (12-18 months)
@@ -550,7 +550,7 @@ Sorts all candidate items by score descending, returns top N (typically 5-10 rec
 
 ## 3. AI Question Generation (Production Implementation)
 
-**Reference:** [AI Question Generation Feasibility Study](education/technical-feasibility-ai-question-generation.md)
+**Reference:** [AI Question Generation Feasibility Study](education/technical/technical-feasibility-ai-question-generation.md)
 
 ### 3.1 Question Generation Service (FastAPI)
 

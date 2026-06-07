@@ -1567,9 +1567,9 @@ Current: Frontend Dev, Bangalore, 4 YOE = ₹8L
 
 ## Related Research
 
-- [Personal Tutor Concept](education/personal-tutor.md) - AI tutor for K-12
-- [Sparkl Analysis](education/competitors/sparkl-analysis.md) - Premium 1:1 tutoring competitor
-- [AI as Mentor](education/ai-as-mentor.md) - AI mentorship framework
+- [Personal Tutor Concept](education/product-concepts/personal-tutor.md) - AI tutor for K-12
+- [Sparkl Analysis](education/competitors/adaptive-ai-platforms/sparkl-analysis.md) - Premium 1:1 tutoring competitor
+- [AI as Mentor](education/product-concepts/ai-as-mentor.md) - AI mentorship framework
 
 ---
 
@@ -1608,4 +1608,4 @@ Current: Frontend Dev, Bangalore, 4 YOE = ₹8L
 	- https://www.crackgovexam.com/ssc-polity-quiz/
 	- People search via youtube
 	- trends.google.com
-- [ai-as-mentor](education/ai-as-mentor.md)
+- [ai-as-mentor](education/product-concepts/ai-as-mentor.md)

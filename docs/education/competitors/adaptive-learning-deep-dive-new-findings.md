@@ -471,4 +471,4 @@ We can be the first platform to combine:
 - [Adaptive Learning Algorithms Competitors](education/competitors/adaptive-learning-algorithms-competitors.md)
 - [personalized-education-ai-research](education/competitors/personalized-education-ai-research.md)
 - [Khanmigo Failure Analysis](education/competitors/khanmigo-failure-analysis.md)
-- [Technical Architecture](education/technical-architecture.md)
+- [Technical Architecture](education/technical/technical-architecture.md)

@@ -875,8 +875,8 @@ Sal Khan announced on LinkedIn that Khan Academy is "rebuilding" its platform ba
 ## Related Research
 
 - [Khanmigo Failure Analysis](education/competitors/khanmigo-failure-analysis.md) - **NEW (May 2026):** Why Khan Academy's AI tutor failed and what they're building instead
-- [CodeSignal Analysis](education/competitors/codesignal-analysis.md) - AI-native technical assessment
-- [Coursera Analysis](education/competitors/coursera-analysis.md) - MOOC enterprise leader
+- [CodeSignal Analysis](education/competitors/technical-skills/codesignal-analysis.md) - AI-native technical assessment
+- [Coursera Analysis](education/competitors/moocs/coursera-analysis.md) - MOOC enterprise leader
 - [adaptive-learning-platform](education/pedagogy/adaptive-learning-platform.md) - Working professional focus
 - [Technical Hiring Market](education/competitors/technical-hiring-assessment-market.md) - Market sizing
-- [AI Question Generation Feasibility](education/technical-feasibility-ai-question-generation.md) - Technical architecture
+- [AI Question Generation Feasibility](education/technical/technical-feasibility-ai-question-generation.md) - Technical architecture

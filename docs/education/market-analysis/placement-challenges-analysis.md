@@ -848,7 +848,7 @@ Analysis of 500+ student responses reveals **10 critical pain points** that alig
 
 **Related Documents:**
 
-- [Founder's Strategic Brief](education/founders-strategic-brief.md)
-- [Pitch Deck](education/pitch.md)
-- [Competitive Advantages](education/competitive-advantages.md)
-- [Technical Architecture](education/technical-architecture.md)
+- [Founder's Strategic Brief](education/strategy/founders-strategic-brief.md)
+- [Pitch Deck](education/strategy/pitch.md)
+- [Competitive Advantages](education/strategy/competitive-advantages.md)
+- [Technical Architecture](education/technical/technical-architecture.md)

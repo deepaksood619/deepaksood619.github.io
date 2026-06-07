@@ -478,8 +478,8 @@ status: active
 ## Related Research
 
 - [hiring-plan-hr-recruiting](management/jobs/hiring-plan-hr-recruiting.md)
-- [AI Coding Test Platform Idea](education/ai-coding-test-platform.md)
-- [hackerrank-analysis](education/competitors/hackerrank-analysis.md)
+- [AI Coding Test Platform Idea](education/product-concepts/ai-coding-test-platform.md)
+- [hackerrank-analysis](education/competitors/technical-skills/hackerrank-analysis.md)
 - B2B SaaS GTM Strategies (to be created)
 - Technical Interview Market Trends (to be created)
 

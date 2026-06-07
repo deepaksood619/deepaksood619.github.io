@@ -508,10 +508,10 @@ tags: [unacademy, test-prep, india-edtech, b2c, marketplace]
 
 ## Related Research
 
-- [PhysicsWallah Analysis](education/competitors/physicswallah-analysis.md) - Profitable India edtech unicorn, bootstrap-to-IPO, 3-5x cheaper pricing, why they won
-- [Khan Academy Analysis](education/competitors/khan-academy-analysis.md) - Free education leader, non-profit model
-- [Coursera Analysis](education/competitors/coursera-analysis.md) - MOOC enterprise model
-- [Personal Tutor Concept](education/personal-tutor.md) - AI-powered adaptive learning alternative
+- [PhysicsWallah Analysis](education/competitors/india-edtech/physicswallah-analysis.md) - Profitable India edtech unicorn, bootstrap-to-IPO, 3-5x cheaper pricing, why they won
+- [Khan Academy Analysis](education/competitors/moocs/khan-academy-analysis.md) - Free education leader, non-profit model
+- [Coursera Analysis](education/competitors/moocs/coursera-analysis.md) - MOOC enterprise model
+- [Personal Tutor Concept](education/product-concepts/personal-tutor.md) - AI-powered adaptive learning alternative
 - [Consolidated Edtech Platforms](education/competitors/consolidated-edtech-platforms.md) - India edtech market overview
 
 **Sources:**

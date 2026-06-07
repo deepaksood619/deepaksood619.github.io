@@ -962,8 +962,8 @@ For our startup, Synthesis validates demand for premium AI tutoring but leaves m
 
 - [adaptive-learning-platform](education/pedagogy/adaptive-learning-platform.md)
 - Neurodiversity in Education
-- [Khan Academy Analysis](education/competitors/khan-academy-analysis.md)
-- [Alpha School Analysis](education/competitors/alpha-school-analysis.md)
+- [Khan Academy Analysis](education/competitors/moocs/khan-academy-analysis.md)
+- [Alpha School Analysis](education/competitors/technical-skills/alpha-school-analysis.md)
 - Josh Dahn Profile
 - SpaceX Experimental School / Ad Astra History
 

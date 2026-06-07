@@ -440,6 +440,7 @@ model = gemini-2.5-flash
 		- Go to System Preferences > General and turn off "Close windows when quitting an app.".
 		- Already - In iTerm2 preferences, go to General and set Startup to "Use system window restoration settings".
 		- When you quit iTerm2, the OS should save your windows. You can then reopen them from the Dock or by using the System Preferences > Recent Items menu.
+	- **Preferences - Profile - Session (can search for unod)** - Undo can revive a session that has closed up to (default is 5 sec) increase to 60 seconds
 
 #### Natural Text Editing
 
