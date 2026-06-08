@@ -19,11 +19,13 @@
 Instahyre is an **employer-paid B2B hiring platform** focused on tech talent in India. Unlike Naukri's high-volume, all-jobs approach, Instahyre uses AI matching to reduce recruiter time and improve candidate quality for mid-to-senior tech hires.
 
 **Revenue Model (Employer-Paid):**
+
 - Subscription-based access for recruiters to candidate database
 - AI-matching services (InstaMatch algorithm)
 - Sourcing automation for tech roles
 
 **Target Segments:**
+
 - Engineering roles (software engineering, data science, product, design)
 - Mid-to-senior tech professionals (not entry-level focused)
 - Tech companies (10,000+ including FAANG-tier and Indian unicorns)

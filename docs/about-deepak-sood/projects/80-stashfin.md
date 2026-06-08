@@ -2,7 +2,7 @@
 
 ## Product
 
-[NBFC / Banking Terms](economics/fintech-nbfc-banking-terms.md)
+[NBFC / Banking Terms](economics/glossary/fintech-banking-terms.md)
 
 ![stashfin-product-architecture](../../media/Pasted%20image%2020231201172554.jpg)
 

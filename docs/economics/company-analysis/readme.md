@@ -12,9 +12,11 @@ This directory contains comprehensive company analyses, sector reports, peer com
 
 ## Content Catalog
 
-### Reliance Industries Limited
+### Indian Stocks (NSE/BSE)
 
-- [Reliance Industries - Fundamental Analysis (June 3, 2026)](economics/company-analysis/companies/reliance-industries-fundamental.md)
+#### Reliance Industries Limited
+
+- [Reliance Industries - Fundamental Analysis (June 3, 2026)](economics/company-analysis/companies/energy/reliance-industries-fundamental.md)
   - **Type:** Fundamental Analysis
   - **Score:** 7.8/10 ⭐⭐⭐⭐
   - **Recommendation:** Buy (medium-term horizon)
@@ -24,7 +26,7 @@ This directory contains comprehensive company analyses, sector reports, peer com
 
 ### Ather Energy Limited
 
-- [Ather Energy - Fundamental Analysis (June 3, 2026)](economics/company-analysis/companies/ather-energy-fundamental.md)
+- [Ather Energy - Fundamental Analysis (June 3, 2026)](economics/company-analysis/companies/energy/ather-energy-fundamental.md)
   - **Type:** Fundamental Analysis
   - **Score:** 4.5/10 ⭐⭐ (High Risk)
   - **Recommendation:** Speculative Buy (Only for Risk-Tolerant Investors)
@@ -35,7 +37,7 @@ This directory contains comprehensive company analyses, sector reports, peer com
 
 ### Suzlon Energy Limited
 
-- [Suzlon Energy - Comprehensive Investment Analysis (June 4, 2026)](economics/company-analysis/companies/suzlon-energy-comprehensive.md)
+- [Suzlon Energy - Comprehensive Investment Analysis (June 4, 2026)](economics/company-analysis/companies/energy/suzlon-energy-comprehensive.md)
   - **Type:** Comprehensive Analysis (Fundamental + Technical + Valuation)
   - **Ticker:** NSE:SUZLON / BSE:532667
   - **Recommendation:** Buy (Medium to High Conviction)
@@ -57,7 +59,7 @@ This directory contains comprehensive company analyses, sector reports, peer com
 
 ### Physicswallah Limited
 
-- [Physicswallah - Comprehensive Investment Analysis (June 4, 2026)](economics/company-analysis/companies/physicswallah-comprehensive.md)
+- [Physicswallah - Comprehensive Investment Analysis (June 4, 2026)](economics/company-analysis/companies/technology/physicswallah-comprehensive.md)
   - **Type:** Comprehensive Analysis (Fundamental + Technical + Valuation)
   - **Ticker:** NSE:PWL / BSE:544256
   - **Recommendation:** Hold / Speculative Buy (High Risk - Only for Aggressive Investors)
@@ -85,7 +87,7 @@ This directory contains comprehensive company analyses, sector reports, peer com
 
 #### Alphabet Inc. (Google)
 
-- [Alphabet Inc. - Comprehensive Investment Analysis (June 3, 2026)](economics/company-analysis/companies/alphabet-google-comprehensive-analysis.md)
+- [Alphabet Inc. - Comprehensive Investment Analysis (June 3, 2026)](economics/company-analysis/companies/technology/alphabet-google-comprehensive-analysis.md)
   - **Type:** Comprehensive Analysis (Fundamental + Technical + Valuation)
   - **Ticker:** GOOGL/GOOG (NASDAQ)
   - **Recommendation:** Buy (High Conviction)
@@ -103,9 +105,102 @@ This directory contains comprehensive company analyses, sector reports, peer com
   - **Data Date:** June 3, 2026
   - **Next Update:** Post Q2 2026 Earnings (Late July 2026)
 
+#### NVIDIA Corporation
+
+- [NVIDIA Corporation - Comprehensive Investment Analysis (June 9, 2026)](economics/company-analysis/companies/semiconductors/nvidia-comprehensive-2026-06-09.md)
+  - **Type:** Comprehensive Analysis (Fundamental + Technical + Valuation + Competitive)
+  - **Ticker:** NASDAQ:NVDA
+  - **Recommendation:** BUY (Strong Buy - Top Pick)
+  - **Target Price:** $280 (35% upside from $207.46)
+  - **Score:** 9.5/10 ⭐⭐⭐⭐⭐ (Best-in-Class)
+  - **Market Cap:** $5.06 Trillion (World's #1)
+  - **Key Highlights:**
+    - 🟢 **AI Infrastructure King:** 90%+ market share in AI training, 80% in inference - dominant platform
+    - 🟢 **Exceptional Fundamentals:** Revenue +85% YoY ($81.6B Q1), Net margin 71.5%, ROE 114.3%
+    - 🟢 **Unassailable Moat:** CUDA software ecosystem (15+ years, millions of developers), impossible to replicate
+    - 🟢 **Technology Leadership:** Hopper (H100/H200) → Blackwell (B100/B200, H2 2026) → Rubin (2027)
+    - 🟢 **Attractive Valuation:** Forward P/E 23.4x (cheapest mega-cap tech), PEG 0.63 (extreme value)
+    - 🟢 **Fortress Balance:** $53B cash, 6% debt-to-equity, $190B annualized FCF
+    - 🟢 **Multi-Year Runway:** AI infrastructure $300-600B TAM by 2030, NVIDIA captures 60-70%
+    - ⚠️ **High Expectations:** Any Q2 earnings miss (August 2026) triggers 15-30% selloff
+    - ⚠️ **Competitive Threats:** AMD MI300X gaining share, hyperscalers building custom chips (TPU, Trainium)
+    - ⚠️ **AI Spending Risk:** 20-30% probability of plateau if ROI doesn't materialize
+    - ⚠️ **Valuation Premium:** P/S 19.8x, P/B 25.4x elevated (justified by 71% margins but vulnerable)
+    - ⚠️ **High Volatility:** Beta 2.20, stock swings ±20-40%, April correction $236 → $140 (-40%)
+  - **Investment Stance:**
+    - **New Investors:** BUY 60-70% now, reserve 30-40% for dips to $180-190, DCA recommended
+    - **Current Holders:** HOLD with conviction, trailing stop $180, target $280
+    - **Cost Basis `<$150`:** Take 10-20% profits, hold rest long-term
+  - **Position Sizing:** 5-12% of portfolio (8-12% aggressive, 5-8% moderate, 3-5% conservative)
+  - **Risk Level:** High (Beta 2.20) but manageable with CUDA moat and technology leadership
+  - **Investment Horizon:** 12-24 months (medium-term), extendable to 3-5 years
+  - **Critical Catalyst:** Q2 FY2027 earnings August 2026 - Blackwell launch update critical
+  - **Fair Value:** $260-320 range (current $207 is 28% below blended $288 fair value)
+  - **Stop Loss:** $180 (13% risk) for new positions
+  - **Data Date:** June 8, 2026 (Price: $207.46 after recovering from April $140 low)
+  - **Next Review:** August 30, 2026 (post Q2 earnings)
+  - **Comparison:** **Best semiconductor investment** - NVDA `>` MU `>` MRVL. Higher quality moat than Micron, vastly superior to Marvell.
+
+#### Micron Technology Inc
+
+- [Micron Technology - Comprehensive Investment Analysis (June 9, 2026)](economics/company-analysis/companies/semiconductors/micron-technology-comprehensive-2026-06-09.md)
+  - **Type:** Comprehensive Analysis (Fundamental + Technical + Valuation)
+  - **Ticker:** NASDAQ:MU
+  - **Recommendation:** BUY (High Conviction with Caveats)
+  - **Target Price:** $1,050-1,200 (11-27% upside from $946.96)
+  - **Score:** 8.5/10 ⭐⭐⭐⭐ (Exceptional Fundamentals, Reasonable Valuation, Cyclical Risk)
+  - **Key Highlights:**
+    - 🟢 **Explosive Growth:** Revenue +196% YoY to $23.86B (Q2 FY2026), nearly tripled
+    - 🟢 **Best-in-Class Profitability:** Net margin 57.8%, ROE 39.8%, ROA 20.2% (industry-leading)
+    - 🟢 **Attractive Valuation:** Forward P/E 8.8x vs peer avg 35x, PEG ratio 0.30 (extreme value)
+    - 🟢 **AI Memory Supercycle:** HBM shortage to persist "several years" per Nvidia CEO
+    - 🟢 **Fortress Balance Sheet:** $14.6B cash, 14.9% debt-to-equity, $32-36B annualized FCF
+    - 🟢 **Oligopoly Pricing Power:** Only 3 DRAM suppliers control 95%+ market, high barriers to entry
+    - 🟢 **Momentum & Catalyst:** Stock up 779% in 12 months, Q3 earnings June 24 critical catalyst
+    - ⚠️ **Cyclical Peak Risk:** 58% net margin unsustainable (historical peak 40-45%), memory cycles always turn
+    - ⚠️ **Valuation Paradox:** Cheap forward (8.8x P/E) but expensive backward (45x TTM P/E, 16.9x P/S)
+    - ⚠️ **High Volatility:** Beta 2.17, stock near 52-week high ($1,089), 40-60% downside in cycle downturn
+    - 🔴 **China Risk:** ~25% revenue exposure, geopolitical tensions
+    - 🔴 **Timing Uncertainty:** Could be inning 3 or inning 7 of memory upcycle
+  - **Investment Stance:**
+    - **New Investors:** BUY 50-60% position now, reserve 40-50% for pullback to $750-800
+    - **Current Holders:** HOLD with trailing stop at $850, take partial profits at $1,100-1,200
+    - **Risk-Averse:** WAIT for pullback to $800-850 (better risk/reward)
+  - **Position Sizing:** 3-8% of portfolio (5-8% aggressive, 3-5% moderate, 1-3% conservative)
+  - **Risk Level:** High (Beta 2.17, cyclical industry, extreme volatility)
+  - **Critical Catalyst:** Q3 FY2026 earnings June 24, 2026 - make-or-break event
+  - **Stop Loss:** $850 (10% risk) for new positions
+  - **Data Date:** June 8, 2026 (Price: $946.96, Market Cap: $1.07T, after +9.6% surge)
+  - **Next Review:** June 25, 2026 (post Q3 earnings)
+  - **Comparison to Marvell:** Micron FAR more attractive - 8.8x forward P/E vs MRVL 64.9x, 57.8% net margin vs MRVL 1.4%, PEG 0.30 vs 1.49
+
+#### Marvell Technology Inc
+
+- [Marvell Technology - Comprehensive Investment Analysis (June 9, 2026)](economics/company-analysis/companies/semiconductors/marvell-technology-comprehensive-2026-06-09.md)
+  - **Type:** Comprehensive Analysis (Fundamental + Technical + Valuation)
+  - **Ticker:** NASDAQ:MRVL
+  - **Recommendation:** HOLD (Current Shareholders) / WAIT (New Investors)
+  - **Target Price:** $220-240 (12-month horizon, -20% to -26% from current)
+  - **Score:** 6.5/10 ⭐⭐⭐ (Great Business, Wrong Price)
+  - **Key Highlights:**
+    - 🟢 **Strong Growth:** Revenue +27.6% YoY to $2.42B (Q1 FY2027), AI chip momentum
+    - 🟢 **AI Infrastructure Leader:** Endorsed by Nvidia CEO Jensen Huang as "next trillion-dollar firm"
+    - 🟢 **S&P 500 Inclusion:** Added June 2026, driving passive fund inflows
+    - 🟢 **Solid Balance Sheet:** $3.84B cash, debt-to-equity 14.9%, improving cash flow
+    - 🔴 **EXTREME Valuation:** P/E 103x, P/S 26x, EV/EBITDA 50x - pricing in multiple years of perfection
+    - 🔴 **Profitability Red Flag:** Net income DOWN 80% YoY (Q1 FY2027) despite revenue growth
+    - 🔴 **Parabolic Price Action:** +210% YTD, +387% from 52-week low - unsustainable technical setup
+    - 🔴 **High Beta Risk:** Beta 2.28 amplifies corrections (20-30% drop in 10% market decline)
+    - ⚠️ **Post-Index Inclusion Risk:** Historical pattern shows reversals after S&P 500 buying completes
+  - **Risk Level:** Very High at current levels - 25-35% overvalued vs fair value ($157-225)
+  - **Entry Strategy:** WAIT for 25-35% pullback to $195-225 range; Current price $299 offers negative risk/reward
+  - **Position Sizing:** 2-3% max (if entering on pullback); small speculative allocation only
+  - **Data Date:** June 9, 2026 (Price: $299.30, Market Cap: $262.05B)
+  - **Next Update:** August 27, 2026 (Q2 FY2027 earnings) - critical to assess profitability recovery
+
 #### Others
 
-- [amazon-comprehensive-analysis](economics/company-analysis/companies/amazon-comprehensive-analysis.md)
+- [amazon-comprehensive-analysis](economics/company-analysis/companies/technology/amazon-comprehensive-analysis.md)
 
 ### Market Analysis
 
@@ -138,39 +233,7 @@ This directory contains comprehensive company analyses, sector reports, peer com
 - Shareholding Pattern Evaluation Guide
 - Risk Assessment Matrix
 
----
-
-## Directory Structure
-
-```text
-company-analysis/
-├── CLAUDE.md                   # LLM workflow and standards
-├── readme.md                   # This file - content catalog
-├── companies/                  # Company-specific analyses
-│   ├── suzlon-energy-comprehensive.md
-│   ├── physicswallah-comprehensive.md
-│   ├── reliance-industries-fundamental.md
-│   ├── ather-energy-fundamental.md
-│   └── alphabet-google-comprehensive-analysis-2026-06-03.md
-└── frameworks/                 # Investment methodologies
-```
-
----
-
 ## Usage Guidelines
-
-### For Users
-
-**Request Analysis:**
-
-- "Analyze [Company Name] fundamentals"
-- "Compare [Company A] vs [Company B]"
-- "Provide sector overview for [Sector]"
-
-**Update Existing Analysis:**
-
-- "Update Reliance Industries analysis with latest data"
-- "Refresh Q1 FY27 earnings for [Company]"
 
 ### For Claude (LLM)
 
@@ -184,18 +247,6 @@ company-analysis/
 6. **Include data timestamps** - Note when data was fetched and when next update is recommended
 
 **See [CLAUDE.md](CLAUDE.md) for complete workflow, templates, and quality standards.**
-
-## Statistics
-
-- **Total Company Analyses:** 5 (4 Indian, 1 US)
-- **Total Market Analyses:** 1
-- **Company Score Range:** 4.5/10 to 9.0/10
-- **High-Risk Stocks:** 2 (Ather Energy - 4.5/10, Physicswallah - 5.5/10)
-- **High-Conviction Buys:** 2 (Alphabet - 9.0/10, Suzlon Energy - 7.5/10)
-- **Sector Coverage:** EdTech (1), Renewable Energy (1), Oil & Gas (1), EV (1), Technology (1)
-- **IPO Stocks Covered:** 1 (Physicswallah - listed Nov 2025)
-- **Market Risk Phase:** CAUTION (6/15 points, 70-80% risk budget)
-- **Last Updated:** June 4, 2026
 
 ## Quick Links
 

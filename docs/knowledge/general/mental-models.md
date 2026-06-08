@@ -3,7 +3,7 @@
 ## Links
 
 - [Psychology Mental Models](../../psychology/mental-models)
-- [Economics Mental Models](../../economics/mental-models/economics-mental-models)
+- [Economics Mental Models](economics/investment-frameworks/mental-models/investment-mental-models.md)
 - [Management Mental Models](../../management/mental-models)
 - [Thinking Mental Models](../../psychology/thinking-mental-models)
 

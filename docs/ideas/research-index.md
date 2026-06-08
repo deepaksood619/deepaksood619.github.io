@@ -263,7 +263,7 @@ All ideas sourced from:
 - [Startup Ideas - SAAS](startups-ideas-saas.md)
 - [Creating a Business / Startup](creating-a-business-startup.md)
 - [Thoughts / Future / Ideas / Vision / Prediction](thoughts-future-ideas-vision-prediction.md)
-- [Others](others.md)
+- [Others](ideas/others.md)
 
 ---
 

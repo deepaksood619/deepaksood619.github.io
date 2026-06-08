@@ -1,16 +1,16 @@
 # Mutual Funds
 
-- [Fixed Income](economics/mutual-funds/fixed-income.md)
-- [Debt Mutual Funds](economics/mutual-funds/debt-mutual-funds.md)
-- [Debt Mutual Funds Analysis](economics/mutual-funds/debt-mutual-funds-analysis.md)
-- [Debt Mutual Funds Risks](economics/mutual-funds/debt-mutual-funds-risks.md)
-- [Mutual Fund Indicators](economics/mutual-funds/mutual-funds-indicators.md)
-- [Debentures / Bonds](economics/mutual-funds/debentures-bonds.md)
-- [Index Investing / ETF](economics/mutual-funds/index-investing-etf.md)
-- [International ETFs](economics/mutual-funds/international-etfs.md)
-- [Nifty Indexes](economics/mutual-funds/nifty-indexes-indices.md)
-- [Equity Mutual Funds](economics/mutual-funds/equity-mutual-funds.md)
-- [Others](economics/mutual-funds/others.md)
+- [Fixed Income](economics/investment-products/debt-funds/fixed-income-instruments.md)
+- [Debt Mutual Funds](economics/investment-products/debt-funds/debt-mutual-funds-overview.md)
+- [Debt Mutual Funds Analysis](economics/investment-products/debt-funds/debt-fund-analysis-framework.md)
+- [Debt Mutual Funds Risks](economics/investment-products/debt-funds/debt-fund-risks.md)
+- [Mutual Fund Indicators](economics/investment-products/fund-analysis/mutual-fund-indicators.md)
+- [Debentures / Bonds](economics/investment-products/hybrid-alternative/debentures-bonds.md)
+- [Index Investing / ETF](economics/investment-products/equity-funds/index-investing-etf.md)
+- [International ETFs](economics/investment-products/equity-funds/international-etfs.md)
+- [Nifty Indexes](economics/investment-products/equity-funds/nifty-indexes-indices.md)
+- [Equity Mutual Funds](economics/investment-products/equity-funds/equity-mutual-funds.md)
+- [Others](economics/investment-products/fund-analysis/others.md)
 
 ## Portfolios
 

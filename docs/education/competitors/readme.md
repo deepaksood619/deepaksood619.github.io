@@ -97,6 +97,7 @@
 
 	- [Mirai School of Technology: AI First Engineering College \| B.Tech in CSE (AI)](https://miraisot.com/)
 	- [Outskill: AI Upskilling for Modern Careers](https://www.outskill.com/)
+	- [Samyak Computer Classes - YouTube](https://www.youtube.com/@samyakcomputerclasses)
 
 ## Market Research
 

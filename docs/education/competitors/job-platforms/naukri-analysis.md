@@ -87,6 +87,7 @@ Naukri uses classic marketplace freemium: keep job seekers free to maximize supp
 - **Market Capitalization:** ~₹1,04,013 crore (~$12.38 billion) - entire Info Edge
 
 **Other Info Edge Segments (Non-Naukri):**
+
 - 99acres (real estate): ₹107.4 crore Q2 FY25
 - Jeevansathi + Shiksha: ₹50.9 crore Q2 FY25
 
@@ -103,6 +104,7 @@ Naukri uses classic marketplace freemium: keep job seekers free to maximize supp
 Naukri operates a separate fresher-focused product to address the entry-level segment:
 
 **Features:**
+
 - Dedicated fresher job portal (naukri.com/campus)
 - NCAT - National Coding Aptitude Test: nationwide coding challenge for engineering graduates
   - Round 1: All-day nationwide aptitude test
@@ -116,17 +118,20 @@ Naukri operates a separate fresher-focused product to address the entry-level se
 ### Entry-Level Challenges on Naukri
 
 **ATS Barrier:**
+
 - 95% of mid-to-large companies in India use ATS to filter applications
 - ATS keyword matching threshold has risen from 65% to 75-80%
 - Freshers with limited work experience struggle to match keywords vs. experienced candidates
 - Generic freshman resumes filtered out before human review
 
 **Volume Competition:**
+
 - 3 million+ applications daily across platform
 - Popular fresher roles may receive 500-1,000+ applications
 - Signal-to-noise problem: hard for any individual fresher to stand out
 
 **Fresher Hiring Trend:**
+
 - New fresher jobs created were **down 10%** in January 2024 vs January 2023 (Naukri JobSpeak data)
 - IT majors (TCS, Infosys, HCLTech, Wipro) still plan to onboard 82,000 graduates in FY2026
 

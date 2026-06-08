@@ -19,10 +19,12 @@
 LinkedIn's revenue is not broken down by country in public disclosures. The following covers verified global metrics with India-specific context where available.
 
 **LinkedIn Global Revenue FY2024:**
+
 - **Total Revenue:** $17.1 billion (8.6% YoY growth)
 - **Segments:** Talent Solutions (largest), Marketing Solutions, Premium Subscriptions, Learning Solutions
 
 **Talent Solutions (Primary Recruiter Revenue):**
+
 - Recruiter licenses: LinkedIn Recruiter (teams) and LinkedIn Recruiter Lite (individual)
 - Job slots: Pay-per-job-posting for companies
 - InMail credits: Direct outreach to candidates
@@ -30,6 +32,7 @@ LinkedIn's revenue is not broken down by country in public disclosures. The foll
 - LinkedIn Recruiter Lite: Cheaper per month, but fewer direct candidate contacts
 
 **Premium Subscriptions (Job Seeker + Professional):**
+
 - 120 million global Premium subscribers (9.2% of user base)
 - Premium subscription growth: 23% YoY (fastest-growing product)
 - Job seekers can pay for Premium Career to get "Featured Applicant" status and InMail credits
@@ -88,6 +91,7 @@ LinkedIn maintains deliberate separation between its Jobs product (Talent Soluti
 **No - and by design.**
 
 LinkedIn provides the marketplace (jobs + candidate profiles) but explicitly does NOT offer:
+
 - Structured training to fill skill gaps
 - Placement guarantees
 - Career switch bootcamps

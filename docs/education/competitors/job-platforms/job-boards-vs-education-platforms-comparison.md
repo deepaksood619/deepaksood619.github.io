@@ -98,11 +98,13 @@ Job boards and education-to-employment platforms serve fundamentally different v
 ### Job Board Effectiveness for Freshers
 
 **What Works:**
+
 - Naukri Campus: 60M+ registered users, 200,000 active listings daily, serves freshers
 - Naukri NCAT tests: National coding aptitude test for engineering graduates
 - Volume advantage: Largest candidate pool in India
 
 **What Doesn't Work:**
+
 - ATS barrier: 95% of mid-to-large companies use ATS; freshers struggle with keyword matching vs. experienced candidates
 - ATS threshold rising: Companies now filter at 75-80% keyword match (up from 65%)
 - Signal-to-noise: High application volume per role means freshers compete against 500-1,000 applications
@@ -113,12 +115,14 @@ Job boards and education-to-employment platforms serve fundamentally different v
 ### Education Platform Effectiveness for Freshers
 
 **What Works:**
+
 - Curated candidate pool: Bootcamp graduates pre-screened and trained
 - Skill verification: Project portfolios, assessed curriculum, bootcamp certificates
 - Placement guarantee: Masai's PAP model creates strong platform incentive to place students
 - Employer trust building: Bootcamp certifications increasingly credible
 
 **Evidence:**
+
 - 86% of 1,000 surveyed employers felt confident hiring bootcamp graduates (Course Report 2024 survey)
 - 93% of tech hiring professionals confident in bootcamp alumni (2024 survey)
 - 72% of employers think bootcamp grads as prepared as CS degree holders (Indeed research, US-centric)

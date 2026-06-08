@@ -30,6 +30,7 @@ However, most mid-to-large companies still use job boards as the primary sourcin
 | Indeed Research | 12% of employers think bootcamp graduates MORE prepared than CS degree holders | Same survey | Indeed (US) | Medium |
 
 **Key Caveat:** Most employer confidence surveys are US-centric or global without India-specific breakdowns. India employer attitudes toward bootcamp graduates may differ given:
+
 - Stronger cultural preference for formal degrees in India vs US
 - Different bootcamp maturity (India market younger than US market)
 - Different employer types (India has larger MNC presence, traditional IT services)

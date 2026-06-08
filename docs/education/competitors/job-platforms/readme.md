@@ -105,7 +105,6 @@ The job platform ecosystem spans three distinct categories:
 - [Cutshort Analysis](education/competitors/job-platforms/cutshort-analysis.md) - 3.5M users, 25,000+ companies, 3.5-6.99% CTC pricing, AI Screener with 40K+ interviews in 2024
 - [AngelList India Analysis](education/competitors/job-platforms/angellist-india-analysis.md) - Wellfound (rebranded), startup/equity focus, 15,000+ India companies, not entry-level relevant
 
-
 ## Relevance to Our Startup
 
 ### Strategic Positioning Questions
@@ -189,7 +188,7 @@ The job platform ecosystem spans three distinct categories:
 
 ## Related Wiki Pages
 
-- [India Edtech Competitors](education/competitors/india-edtech/readme.md) - Broader edtech landscape
+- [India Edtech Competitors](education/competitors/india-edtech/readme) - Broader edtech landscape
 - [Technical Skills Platforms](education/competitors/technical-skills/readme.md) - Coding bootcamps and upskilling
 - [Adaptive AI Platforms](education/competitors/adaptive-ai-platforms/readme.md) - AI-powered learning systems
 - [Placement Challenges Analysis](education/market-analysis/placement-challenges-analysis.md) - Job market context

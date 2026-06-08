@@ -1,16 +1,16 @@
 # Market Terms
 
-- [Order Types](economics/market-terms/order-types.md)
-- [IPO](economics/market-terms/ipo.md)
-- [Technical Analysis](economics/market-terms/technical-analysis.md)
-- [Technical Indicators](economics/market-terms/technical-indicators.md)
-- [Fundamental Analysis](economics/market-terms/fundamental-analysis.md)
-- [Valuation Metrics](economics/market-terms/valuation-metrics.md)
-- [Futures / Options / Trading](economics/market-terms/futures-options-trading.md)
-- [Swing Trading](economics/market-terms/swing-trading.md)
-- [Wyckoff Method](economics/market-terms/wyckoff-method.md)
-- [Trading Systems](economics/market-terms/trading-systems.md)
-- [Others](economics/market-terms/others.md)
+- [Order Types](economics/market-mechanics/market-structure/order-types.md)
+- [IPO](economics/market-mechanics/market-structure/ipo-process.md)
+- [Technical Analysis](economics/market-mechanics/technical-analysis/technical-analysis-basics.md)
+- [Technical Indicators](economics/market-mechanics/technical-analysis/technical-indicators.md)
+- [Fundamental Analysis](economics/market-mechanics/fundamental-valuation/fundamental-analysis-framework.md)
+- [Valuation Metrics](economics/market-mechanics/fundamental-valuation/valuation-metrics.md)
+- [Futures / Options / Trading](economics/market-mechanics/trading-derivatives/futures-options-basics.md)
+- [Swing Trading](economics/market-mechanics/trading-derivatives/swing-trading.md)
+- [Wyckoff Method](economics/market-mechanics/technical-analysis/wyckoff-method.md)
+- [Trading Systems](economics/learning-resources/charting-systems.md)
+- [Others](economics/market-mechanics/market-structure/market-indicators.md)
 
 ## Market timings
 

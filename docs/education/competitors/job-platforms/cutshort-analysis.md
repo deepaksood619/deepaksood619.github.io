@@ -19,11 +19,13 @@
 Cutshort operates as a **B2B employer-paid platform** with two main pricing models:
 
 **1. Agency/Placement Fee Model:**
+
 - Full agency service: **6.99% of CTC** (vs 8.33-15% from traditional manual recruitment agencies)
 - Sourcing only (Sourcing Assistant): **3.5% of CTC** - lowest-cost positioning
 - Non-tech hiring: **FREE** (launched as a growth initiative)
 
 **2. Subscription Model:**
+
 - Self-serve subscription for recruiters
 - Vendor model where Cutshort team helps find candidates
 
@@ -54,6 +56,7 @@ Cutshort operates as a **B2B employer-paid platform** with two main pricing mode
 ### Company Clients
 
 Cutshort's 25,000+ companies range from:
+
 - Fast-growing startups: Shiprocket, Sprinto
 - Enterprises/GCCs: Fractal, Zinnov
 - Broad tech ecosystem: Engineering, product, data, design roles
@@ -69,12 +72,14 @@ Cutshort's 25,000+ companies range from:
 In 2024, Cutshort described itself as a "Recruiting 2.0" platform centered on AI automation:
 
 **AI Screener:**
+
 - Conducts structured screening interviews (video recording)
 - Asks screening questions to candidates autonomously
 - Completed 40,000+ AI-powered interviews in 2024
 - Reduces recruiter time by automating first-round screening
 
 **AI Search:**
+
 - Finds the most relevant candidates from the 3.5M+ user base
 - Goes beyond keyword matching to skills and experience matching
 
@@ -87,6 +92,7 @@ In 2024, Cutshort described itself as a "Recruiting 2.0" platform centered on AI
 ### 2024 Market Observations (Cutshort Data)
 
 Cutshort published in-house research from its platform data:
+
 - **Sharp hiring pickup from July 2024 onward** - after a slow H1 2024
 - "Recruiting 2.0" trend: AI automation of screening becoming mainstream among tech hiring managers
 
@@ -127,6 +133,7 @@ Cutshort published in-house research from its platform data:
 ## Entry-Level Relevance
 
 **Cutshort's entry-level position is ambiguous:**
+
 - Platform focuses on 3.5M "software developers, product managers, UX/UI designers" - not specifically freshers
 - Company clients (Shiprocket, Sprinto, enterprise GCCs) typically hire 1-5+ years experience
 - Non-tech hiring being made free suggests an expansion beyond pure mid-senior tech roles

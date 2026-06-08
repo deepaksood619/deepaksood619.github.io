@@ -55,12 +55,14 @@ AngelList originally started as a platform for connecting startups with investor
 ### Who Uses Wellfound in India
 
 **Candidate Profile:**
+
 - Tech professionals seeking startup/growth-stage company roles
 - Equity-minded candidates (interested in stock options, early-stage upside)
 - Mid-career professionals (2-8 years experience) making startup moves
 - International candidates seeking India startup roles or Indian candidates seeking global startup roles
 
 **NOT well-served by Wellfound:**
+
 - Fresh graduates seeking first jobs (no campus/fresher product)
 - Non-tech professionals (platform is tech-skewed)
 - Job seekers targeting Tier 2/3 India companies (platform skews Tier 1 urban)

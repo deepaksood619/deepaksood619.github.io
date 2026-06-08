@@ -21,6 +21,7 @@ Monster.com was a US-born global job portal that had operated in India since ear
 In November 2022, Quess Corp rebranded Monster India (and its APAC/Middle East operations) as **Foundit**, with a new brand identity and strategic repositioning.
 
 **Why Rebrand:**
+
 - Monster brand had aging perception ("legacy job board")
 - Quess Corp wanted to signal a new direction toward AI-first, talent management platform (beyond job listings)
 - Competitive differentiation from Naukri (India-first, 25-year brand) and LinkedIn (global professional network)
@@ -42,6 +43,7 @@ In November 2022, Quess Corp rebranded Monster India (and its APAC/Middle East o
 Foundit operates on a similar freemium model to Naukri: free for job seekers (with optional premium), employer-paid for database access and listings.
 
 **Revenue Streams (Inferred, Not Verified):**
+
 - Job listings (employer-paid)
 - Resume database access (employer-paid subscriptions)
 - Talent management services (expanding from Quess Corp's workforce management expertise)
@@ -101,6 +103,7 @@ Foundit's challenge: Monster India was never able to displace Naukri's dominance
 ## AI-First Repositioning (Post-2022)
 
 **What Changed After Rebrand:**
+
 - Platform 2.0 launched 2023: Next-generation recruitment solution
 - Integrated Gen-AI technology into candidate matching
 - Focus on matching skills and behavioral signals, not just keyword/resume matching
@@ -140,6 +143,7 @@ Foundit's challenge: Monster India was never able to displace Naukri's dominance
 ## Strategic Implications for Our Startup
 
 **Foundit is a minor strategic consideration.** Our graduates should be aware of it as a job search channel, but:
+
 - Primary job board strategy should focus on Naukri + LinkedIn
 - Foundit's 70M cross-APAC user base is a POTENTIAL partnership channel if we expand regionally beyond India
 - Quess Corp's workforce management business is a potential enterprise partner (hiring our graduates at scale)

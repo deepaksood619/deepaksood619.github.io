@@ -33,13 +33,15 @@ Product ideas, features, and AI agent designs:
 - [Personal Tutor Prompt](education/product-concepts/personal-tutor-prompt.md) - System prompt template
 - [Quiz App Prompt](education/product-concepts/quiz-app-prompt.md) - Quiz generation prompt
 
-### Market Analysis (3 files)
+### Market Analysis (5 files)
 
 Market research, education system analysis, and user research:
 
 - [College Management Platform Analysis](education/market-analysis/college-management-platform-analysis.md) - Comprehensive B2B SaaS market research
 - [Placement Challenges Analysis](education/market-analysis/placement-challenges-analysis.md) - Indian placement landscape
 - [Education System](education/market-analysis/education-system.md) - System-level education analysis
+- **[Income Sharing Agreements & PAP Analysis](education/market-analysis/income-sharing-agreements-pap-analysis.md)** - **NEW (BUSINESS MODEL CRITICAL):** ISA vs PAP models, how they work, Masai School verified mechanics (₹0 upfront, ₹3.5 LPA trigger, 36 months), Lambda School failure case ($74M → bankruptcy), break-even economics, payment default risks, cash flow challenges, regulatory landscape, student experience, strategic implications for adaptive learning platform. **Includes:** Unit economics formula, PAP vs traditional comparison, hybrid model options, research gaps (efficacy, enforcement, viability).
+- **[ISA/PAP Research Prompts](education/market-analysis/isa-pap-research-prompts.md)** - ⚠️ **RESEARCH BLOCKED:** 6 detailed prompts for external research (Lambda failure forensics, break-even analysis, Masai financials, regulatory landscape, student behavior, alternative models). **Priority:** Run in unrestricted environment before finalizing business model.
 
 ### Technical (3 files)
 

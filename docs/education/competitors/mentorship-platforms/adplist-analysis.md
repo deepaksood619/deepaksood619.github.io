@@ -17,17 +17,20 @@
 ## Business Model
 
 **Pricing:**
+
 - **100% FREE for mentees** (all sessions, no limit)
 - **FREE for mentors** (volunteer-driven community)
 - **Revenue model:** Unclear/evolving (raised $1.3M seed 2022, likely monetizing via premium features or enterprise)
 
 **How It Works:**
+
 1. Browse 20K+ mentor profiles (designers, PMs, engineers, researchers)
 2. Book 30-45 min session (async calendar booking)
 3. Video call on Zoom/Google Meet
 4. Leave review after session
 
 **Value Proposition:**
+
 - **For mentees:** Free access to experienced mentors (FAANG, top startups)
 - **For mentors:** Give back to community, build personal brand, networking
 
@@ -36,18 +39,21 @@
 ## Scale & Traction
 
 **Metrics:**
+
 - 20,000+ mentors globally (as of 2024)
 - 100K+ mentees
 - 500K+ mentorship sessions completed
 - 180+ countries
 
 **Growth:**
+
 - 2021: Launched as Google Sheet (Felix Lee's side project)
 - 2022: Raised $1.3M seed (YC, others)
 - 2023: 10K+ mentors, fastest-growing mentorship platform
 - 2024: 20K+ mentors, expanding beyond design to eng/product/data
 
 **Community:**
+
 - Active Slack community (10K+ members)
 - Monthly virtual events (portfolio reviews, career panels)
 - Newsletter (50K+ subscribers)
@@ -81,11 +87,13 @@
 ## Competitive Positioning
 
 **vs MentorCruise (paid subscriptions):**
+
 - ADPList: Free, one-off sessions, volunteer mentors
 - MentorCruise: Paid, ongoing relationships, professional mentors
 - **ADPList wins on accessibility, MentorCruise on commitment**
 
 **vs us (AI mentor agents):**
+
 - ADPList: Human connection, networking, industry insights, free
 - Us: AI-powered, 24/7 availability, structured learning, outcome tracking
 - **Not competitive, complementary** (humans for networking, AI for skill-building)
@@ -97,35 +105,42 @@
 ### What They Do Well (Lessons for Us)
 
 **1. Free = Growth**
+
 - ADPList proves free model drives adoption (100K+ users in 3 years)
 - Validates our massive free tier strategy (70-90% never pay)
 
 **2. Community > Product**
+
 - Slack, events, newsletter build engagement beyond platform
 - We should add community features (forums, study groups, events)
 
 **3. Mission-Driven Brand**
+
 - Felix Lee's authentic "give back" story resonates
 - Our non-profit mission can be even stronger ("democratize education")
 
 ### What They Struggle With (Opportunities for Us)
 
 **1. Monetization**
+
 - Free model is great for growth, bad for sustainability
 - They raised $1.3M but unclear how they'll monetize without alienating community
 - **Our advantage:** Cost-recovery model from day 1 (transparent, sustainable)
 
 **2. Mentor Burnout**
+
 - Volunteers get overwhelmed (1 mentor can't handle 100 mentees)
 - Ghosting, cancellations common
 - **Our advantage:** AI mentors never burn out, always available
 
 **3. No Structure**
+
 - Ad-hoc sessions (random advice, no learning path)
 - Mentees don't know what to ask
 - **Our advantage:** Structured learning roadmaps, AI knows what you need
 
 **4. No Outcomes**
+
 - Track sessions completed, not salary increases or job placements
 - **Our advantage:** Outcome-focused (salary tracking, verifiable results)
 
@@ -136,23 +151,27 @@
 **Not Competitor, Potential Partner:**
 
 ADPList focuses on:
+
 - Human connection
 - Networking (mentor introductions)
 - Industry-specific career advice (UX design, product strategy)
 - Soft skills (portfolio reviews, resume feedback)
 
 We focus on:
+
 - Structured technical skill development (coding, data, cloud)
 - Adaptive learning algorithms (IRT/BKT)
 - Practice-heavy (100 problems/week)
 - Salary outcome tracking
 
 **Win-Win Integration:**
+
 - **Us → ADPList:** "You've mastered Python. Now book a mentor on ADPList for career guidance."
 - **ADPList → Us:** "Your mentor suggested learning React. Use [our platform] for structured practice."
 - **Joint offering:** "Learn technical skills on [our platform], get career advice from ADPList mentors"
 
 **Why Partnership Works:**
+
 - Non-overlapping value propositions (skills vs career advice)
 - ADPList has no monetization → we could pay referral fees
 - Our users need networking (ADPList's strength)
@@ -199,6 +218,7 @@ We focus on:
 | **Technical Skill Building** | ⚠️ Medium (mentor-dependent) | ✅ High (adaptive algorithms) |
 
 **Our Moat:**
+
 - ADPList can't add AI mentors without alienating volunteer mentor community
 - We can add human mentor marketplace (partner with ADPList)
 - We win on structure, outcomes, scalability
@@ -209,6 +229,7 @@ We focus on:
 ## Monitoring & Updates
 
 **Watch For:**
+
 - How they monetize (premium features? enterprise? ads?)
 - Mentor burnout trends (quality degradation signal)
 - Expansion beyond design/product (into tech skills = competitive)

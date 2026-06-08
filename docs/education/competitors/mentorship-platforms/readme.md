@@ -11,17 +11,20 @@
 ## Market Overview
 
 **Market Size:**
+
 - Global career coaching market: $15B+ (2024)
 - Online mentorship platforms: $2-3B subset
 - Growing 15-20% annually (remote work acceleration)
 
 **Business Models:**
+
 1. **Marketplace (B2C):** Connect mentees with mentors, take 20-30% commission
 2. **Subscription (B2C):** Monthly fee for unlimited mentor access
 3. **Enterprise (B2B):** Companies pay for employee mentorship programs
 4. **Freemium:** Free basic matching, paid premium features
 
 **Key Challenges:**
+
 - **Supply-constrained:** Good mentors are scarce, expensive
 - **Quality variance:** Mentor quality wildly inconsistent
 - **Scalability:** Human 1:1 doesn't scale (10,000 mentees need 500-1,000 mentors)
@@ -35,6 +38,7 @@
 ### Tier 1: Significant Platforms (Individual MD Files)
 
 **Tech/Career Mentorship:**
+
 1. **ADPList** - Design/product mentorship, 20K+ mentors, fastest-growing
 2. **MentorCruise** - Tech career mentorship, $99-500/month subscriptions
 3. **GrowthMentor** - Startup/marketing mentorship, $99/month unlimited
@@ -73,6 +77,7 @@
 | **Knowledge Breadth** | Mentor's domain only | Cross-domain (coding + career + interview) |
 
 **Our Advantage:**
+
 - **AI mentor agents** = human-quality guidance at machine scalability
 - **Cost-recovery pricing** = 10-20x cheaper than human mentors
 - **Always available** = no scheduling, no waiting
@@ -80,11 +85,13 @@
 - **Outcome-focused** = tracks salary increases, not just "mentor sessions completed"
 
 **Where Human Mentors Still Win:**
+
 - Emotional connection (AI can't replace human empathy)
 - Network effects (mentor introduces you to their connections)
 - Industry-specific insider knowledge (AI lacks real-world experience)
 
 **Our Hybrid Approach:**
+
 - AI mentor agents for 90% of guidance (skill gaps, learning paths, interview prep)
 - Human mentors for 10% critical moments (salary negotiation, career pivots, networking)
 - Partner with platforms like ADPList for human mentor marketplace (not compete)
@@ -94,32 +101,16 @@
 ## Strategic Positioning
 
 **Not Competitors, Complementary:**
+
 - Mentorship platforms focus on human connection, networking, industry insights
 - We focus on structured learning, skill development, outcome tracking
 - **Opportunity:** Partner with ADPList/MentorCruise (they send students to us for skill-building, we send to them for career guidance)
 
 **Our Differentiation:**
+
 - We're not a "mentorship platform" - we're an AI-native learning platform with mentor agents
 - Mentor agents are ONE feature (among 10 AI agents: tutor, interview, code review, resume, etc.)
 - Focus on measurable outcomes (salary increases) vs mentorship platforms (session counts)
-
----
-
-## Files in This Folder
-
-### Detailed Analyses (Individual MD Files):
-1. [adplist-analysis.md](education/competitors/mentorship-platforms/adplist-analysis.md) - Design/product mentorship, 20K+ mentors
-2. [mentorcruise-analysis.md](education/competitors/mentorship-platforms/mentorcruise-analysis.md) - Tech career mentorship, subscription model
-3. [growthmentor-analysis.md](education/competitors/mentorship-platforms/growthmentor-analysis.md) - Startup/marketing mentorship
-4. [topmate-analysis.md](education/competitors/mentorship-platforms/topmate-analysis.md) - India creator economy + mentorship
-5. [preplaced-leeco-analysis.md](education/competitors/mentorship-platforms/preplaced-leeco-analysis.md) - MAANG prep with 1:1 mentors
-6. [plato-analysis.md](education/competitors/mentorship-platforms/plato-analysis.md) - Engineering leadership mentorship
-7. [springboard-analysis.md](education/competitors/mentorship-platforms/springboard-analysis.md) - Bootcamp + mentor model
-
-### Consolidated Review:
-8. [smaller-platforms-review.md](education/competitors/mentorship-platforms/smaller-platforms-review.md) - 10+ smaller players in one document
-
----
 
 ## Key Takeaways
 
@@ -130,6 +121,11 @@
 5. **We're not competing, we're complementing** (different value propositions)
 
 **Next Steps:**
+
 - Build AI mentor agent (prototype in Month 1-3)
 - Partner with ADPList/MentorCruise (not compete)
 - Position as "AI-powered skill development, human mentorship for networking"
+
+## Links
+
+- [smaller-platforms-review.md](education/competitors/mentorship-platforms/smaller-platforms-review.md) - 10+ smaller players in one document

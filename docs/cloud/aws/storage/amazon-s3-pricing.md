@@ -24,6 +24,33 @@ S3 Intelligent-Tiering is the ideal storage class for data with unknown, changin
 
 [Amazon S3 Simple Storage Service Pricing - Amazon Web Services](https://aws.amazon.com/s3/pricing/?nc=sn&loc=4)
 
+| **Storage Class**                 | **Data Durability**    | **Cost Reduction (Approx. vs Standard)** | **Availability SLA** | **Retrieval Response Time**                                   | **Minimum Storage Duration** |
+| --------------------------------- | ---------------------- | ---------------------------------------- | -------------------- | ------------------------------------------------------------- | ---------------------------- |
+| **S3 Standard**                   | 99.999999999% (11 9s)  | Baseline ($0.023/GB)                     | 99.99%               | Milliseconds                                                  | None                         |
+| **S3 Intelligent-Tiering**        | 99.999999999% (11 9s)  | Up to 68% (Auto-optimized)               | 99.9%                | Milliseconds                                                  | None                         |
+| **S3 Standard-IA**                | 99.999999999% (11 9s)  | ~45% savings                             | 99.9%                | Milliseconds                                                  | 30 days                      |
+| **S3 One Zone-IA**                | 99.999999999% (11 9s)* | ~56% savings                             | 99.5%                | Milliseconds                                                  | 30 days                      |
+| **S3 Glacier Instant Retrieval**  | 99.999999999% (11 9s)  | ~80% savings                             | 99.9%                | Milliseconds                                                  | 90 days                      |
+| **S3 Glacier Flexible Retrieval** | 99.999999999% (11 9s)  | ~84% savings                             | 99.9%                | 1–5 mins (Expedited), 3–5 hours (Standard), 5–12 hours (Bulk) | 90 days                      |
+| **S3 Glacier Deep Archive**       | 99.999999999% (11 9s)  | ~95% savings                             | 99.9%                | 12 hours (Standard), 48 hours (Bulk)                          | 180 days                     |
+
+***Important Exception for S3 One Zone-IA:** While it is engineered to meet 11 9s of durability, it does so **within a single Availability Zone**. If that specific facility experiences a major physical disaster (like a flood or fire), data stored in this class could be permanently destroyed. It is highly cost-effective but should only be used for reproducible data, such as secondary image thumbnails or easily regenerated build artifacts.
+
+**Data Retrieval Fees (The Break-Even Point)**
+
+- **S3 Standard:** You pay ~$0.023 per GB/month for storage. Retrieving data is **free**.
+- **Glacier Instant Retrieval:** You pay only ~$0.004 per GB/month for storage. However, you pay a **$0.03 per GB retrieval fee**.
+
+**S3 TCO Calculator**
+
+|Cost Component|S3 Standard|Glacier Instant Retrieval|
+|---|---|---|
+|Capacity Managed|10,240 GB|10,240 GB|
+|Monthly Storage Fee|$235.52|$40.96|
+|Data Retrieval Fee|$0.00|$46.08|
+|Request Fees|$0.13|$3.15|
+|Total Monthly TCO|$235.65|$90.19|
+
 | Storage Class                                                                                                                               | Storage pricing           |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
 | **S3 Standard** - General purpose storage for any type of data, typically used for frequently accessed data                                 |                           |

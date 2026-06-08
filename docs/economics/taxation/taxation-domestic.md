@@ -69,7 +69,7 @@ https://www.investopedia.com/terms/u/unrealizedgain.asp
 - Purchase of the plot by you in your wife’s name will be treated as gift to your wife. As per the provisions of Section 64 of Income Tax Act, all the income arising on property gifted to your spouse is required to be added in your hands.
 - Any gift given to a spouse is exempt from tax. However, if the spouse has no income and the gift is an income generating asset, the income from that asset may be clubbed with the income of the spouse who gifted the asset under clubbing provisions. If both husband and wife wish to claim tax benefit for their joint investments, they may have to enter into a simple agreement bifurcating proportionate ownership for housing loan repayment to reflect in their respective tax returns.
 - [How buying a new home can save you capital gains tax on shares, mutual funds | Mint](https://www.livemint.com/money/personal-finance/how-buying-a-new-home-can-save-you-capital-gains-tax-on-shares-mf/amp-11696266337863.html)
-- [Taxes on ETF / Equity Mutual Funds](economics/finance-investing/stocks-equity.md)
+- [Taxes on ETF / Equity Mutual Funds](economics/investment-frameworks/stock-selection/stocks-equity-basics.md)
 - [I plan to buy house by selling shares. Can some income tax exemption be claimed? | Mint](https://www.livemint.com/money/personal-finance/i-plan-to-buy-house-by-selling-shares-can-some-income-tax-exemption-be-claimed-11648266159497.html)
 - [Bought plot in wife's name who is a homemaker. On sale, how income tax is calculated | Mint](https://www.livemint.com/money/personal-finance/bought-plot-in-wife-s-name-who-is-a-homemaker-on-sale-how-income-tax-is-calculated-11666516847336.html)
 - [Section 54EC- Deduction on LTCG Through Capital Gain Bonds](https://cleartax.in/s/section-54ec-bonds)
@@ -148,7 +148,7 @@ In this system, the tax is levied on the per unit price of the built-up area of 
 ## Others
 
 - [returns-tax-taxes-itr](economics/taxation/returns-tax-taxes-itr.md)
-- [indian-company-types](economics/finance-investing/indian-company-types.md)
+- [indian-company-types](economics/corporate-finance/indian-company-types.md)
 - [Cash Deposit Limit in Saving Account as Per Income Tax Act 2025 Updated TAXCONCEPT](https://taxconcept.net/income-tax/cash-deposit-limit-in-saving-account-as-per-income-tax-act-2025-updated/)
 - ['Don’t just gift it, loan it': CA shares high income tax hack to cut tax outgo - BusinessToday](https://www.businesstoday.in/personal-finance/tax/story/dont-just-gift-it-loan-it-ca-shares-high-income-tax-hack-to-cut-tax-outgo-482478-2025-06-30)
 - [Should we report domestic mutual funds holding foreign shares in Schedule FA/FSI?](https://freefincal.com/should-we-report-domestic-mutual-funds-holding-foreign-shares-in-schedule-fa-fsi/)

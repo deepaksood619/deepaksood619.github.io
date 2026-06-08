@@ -49,6 +49,7 @@ Indeed does not break out India-specific metrics in public disclosures. Recruit 
 - Career advice content: Indeed India publishes guides (ATS resumes, cover letters) indicating active content marketing for India market
 
 **Market Position Estimate (Unverified):**
+
 - Naukri: India market leader (~80% traffic share)
 - LinkedIn Jobs: Strong for professional/senior roles
 - Indeed India: Significant but secondary player; strong as an aggregator for completeness
@@ -69,6 +70,7 @@ Indeed does not break out India-specific metrics in public disclosures. Recruit 
 ### Aggregator Advantage
 
 Indeed's aggregator model is uniquely valuable for India because:
+
 1. Many Indian companies post jobs on their own career pages (not just Naukri/LinkedIn)
 2. Government and PSU jobs not always on job boards; Indeed's crawling surfaces them
 3. International companies with India offices often post first on global career sites; Indeed surfaces these
