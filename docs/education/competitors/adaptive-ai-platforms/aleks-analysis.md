@@ -5,7 +5,6 @@ type: competitor-analysis
 domain: edtech-global
 tags: [aleks, adaptive-learning, knowledge-space-theory, stem-education, mcgraw-hill, personalized-learning, higher-ed, k12, cat]
 ---
-
 ## Company Overview
 
 - **Full name:** Assessment and LEarning in Knowledge Spaces

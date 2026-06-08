@@ -68,7 +68,7 @@ Learning science, cognitive psychology, and educational methodologies:
 - [Adaptive Learning Platform](education/pedagogy/adaptive-learning-platform.md) - Product concept
 - [Adaptive Learning Algorithms: IRT & BKT](education/pedagogy/adaptive-learning-algorithms.md) - Deep dive on Bayesian Knowledge Tracing and Item Response Theory: probabilistic student modeling, ability estimation, optimal question selection, mastery thresholds, why most "adaptive" systems fail
 
-### Competitors (41 files in 4 categories)
+### Competitors (47 files in 5 categories)
 
 Comprehensive competitive analysis organized by platform type. See [Competitors Index](education/competitors/readme.md) for full details.
 
@@ -84,6 +84,13 @@ Comprehensive competitive analysis organized by platform type. See [Competitors 
 **Online Degree Programs (India):**
 
 - [IIT Madras Online BS Degree Analysis](education/competitors/india-edtech/iit-madras-online-bs-degree.md) - India's first online BS degree from IIT, 36K+ students, Data Science focus, 4-tier stackable credentials (Foundation → Diploma → BSc → BS), asynchronous learning + in-person exams, 17-81 age range, 850+ to grad schools, 20+ in GATE top 100, ₹2-3L total cost, qualifier system, peer TAs, 2K+ free scholarships
+
+**Tech Bootcamps & Training:**
+
+- **[Springboard Analysis](education/competitors/technical-skills/springboard-analysis.md)** - **NEW:** Mentor-supported bootcamp ($7,190-$10,900, 24-39 weeks) with job guarantee (select Career Track programs), **curated third-party content model** (LinkedIn Learning, DataCamp, YouTube - students report materials 5-10 years old), 4.6-4.67/5 satisfaction (1,767-1,840 reviews), **NO CIRR outcomes reporting** (all placement/salary claims failed adversarial verification), inconsistent mentor quality documented, job guarantee requires extensive compliance (weekly applications, networking quotas) with disputed refund practices. **Lessons:** Outcomes transparency matters (CIRR absence notable), job guarantees need careful design (don't optimize for disqualification), mentor quality consistency hard at scale, curated content has hidden maintenance costs. **We compete:** Original curriculum vs aging third-party content, transparent verified outcomes vs unverifiable self-reports, guarantees that align our incentives with student success.
+- **[HyperVerge Academy Analysis](education/competitors/technical-skills/hyperverge-academy-analysis.md)** - **NEW:** 100% free CSR-funded tech bootcamp, 1:7 mentor ratio (130+ mentors), 100% placement rate (first cohort), ₹4 LPA avg salary (4x uplift), targets under-resourced first-gen graduates, SensAI AI platform, ~50 learners/year (quality over scale), 6-year track record. **Model:** HyperVerge profits fund "contribution engine," warm referrals to Amazon/TCS/Infosys. **Weaknesses:** Limited scale, single-source funding, opaque selection. **Lessons:** 1:7 mentorship drives outcomes, CSR-funded free education viable, strategic reset (300→50 learners) prioritized quality. **We compete:** Scale via open curriculum (HVA 50/year), transparent metrics, self-paced + cohort options, multi-company funding, higher salary targets (₹8-15 LPA vs ₹4 LPA).
+- [Alpha School Analysis](education/competitors/technical-skills/alpha-school-analysis.md) - 2-hour learning model, $40K/year, billionaire-backed, unvalidated claims
+- [freeCodeCamp Analysis](education/competitors/technical-skills/freecodecamp-analysis.md) - 100% free nonprofit coding education, 350K monthly users, 40K+ employed alumni, 11.3M YouTube subscribers, sustainable donation model
 
 **Technical Assessment:**
 
@@ -106,6 +113,17 @@ Comprehensive competitive analysis organized by platform type. See [Competitors 
 
 - [Sparkl Analysis](education/competitors/adaptive-ai-platforms/sparkl-analysis.md) - Premium 1:1 tutoring, IB/IGCSE focus, founder-led
 
+**Job Platforms & Placement:**
+
+- [Job Platforms Overview](education/competitors/job-platforms/readme.md) - India + US market, education-to-employment bridges, recruitment platforms, business models, placement guarantees
+- [Masai School Analysis](education/competitors/job-platforms/masai-school-analysis.md) - Pay-after-placement bootcamp, ₹0 upfront, ₹3.5 LPA trigger, 1-year guarantee, risk-shifted model
+- [upGrad Job Placement Analysis](education/competitors/job-platforms/upgrad-job-placement-analysis.md) - Hybrid online-offline, selective placement (not universal), physical learning centers
+- [Preplaced Analysis](education/competitors/job-platforms/preplaced-analysis.md) - Mentorship-driven referrals, 4-8 sessions, mentor network, no guarantee (7-day refund only)
+- **[TechKareer Analysis](education/competitors/job-platforms/techkareer-analysis.md)** - **NEW:** Curated tech recruitment, 70K engineers, 5% fee (vs 10-20%), 14-day hire, US-India corridor, top 1% filtering, Google/YC team. **Lessons:** Premium curation at discount viable but needs AI to scale.
+- **[TheJobsMap Analysis](education/competitors/job-platforms/thejobsmap-analysis.md)** - **NEW:** Global tech job aggregator (preliminary - minimal public data)
+- [Coursera Degrees India Analysis](education/competitors/job-platforms/coursera-degrees-india-analysis.md) - IIT/BITS partnerships, pay-as-you-go, no placement support
+- [LinkedIn Learning Analysis](education/competitors/job-platforms/linkedin-learning-analysis.md) - B2B enterprise focus, 25.7K courses, talent marketplace integration, no job placement
+
 **India EdTech / Test Prep:**
 
 - [Unacademy Analysis](education/competitors/india-edtech/unacademy-analysis.md) - India's largest edtech, 60M users, 85% valuation decline, upGrad acquisition
@@ -118,6 +136,7 @@ Comprehensive competitive analysis organized by platform type. See [Competitors 
 
 - **[Scaler Analysis](education/competitors/india-edtech/scaler-analysis.md)** - **NEW:** Premium tech upskilling, 100K+ alumni, 12-month programs (₹2-4L estimated), AI-native curriculum updated quarterly, ₹9 LPA median CTC increase, 1:1 FAANG mentors, lifelong learning model. **Lessons:** Premium positioning works (₹9L salary ROI), but 12-month commitment high barrier, opaque pricing trust issue, mentor model doesn't scale. We compete on affordability (₹50K-1L/year vs ₹2-4L), flexibility (self-paced vs 12-month), transparency (clear pricing vs opaque).
 - **[Udacity Analysis](education/competitors/moocs/udacity-analysis.md)** - **NEW (CRITICAL CASE STUDY):** Founded 2011 (Sebastian Thrun, Stanford/Google X), "lousy product" admission (2013) → pivoted MOOCs to vocational Nanodegrees, $163M funding + $1B valuation (2015) → **NEVER PROFITABLE in 13 years** → acquired by Accenture (May 2024). **Lessons:** Free → paid pivot death, self-paced = 20-40% completion → high churn, consumer → enterprise inevitable, acquisition = exit not success. Validates our thesis: MOOCs don't work, need paid-from-day-one + outcomes transparency + accountability.
+- **[PW Skills Analysis](education/competitors/technical-skills/pwskills-analysis.md)** - **NEW:** PhysicsWallah's professional upskilling vertical, leverages 15M+ parent user base for cross-sell, ₹30K-1.2L pricing (estimated) vs ₹2.5L-3.5L bootcamp competitors, unproven placement track record (new vertical), quality perception gap ("newer courses lower quality than JEE/NEET"), crowded market (Scaler, Masai, Newton, upGrad). **Key differentiation:** Affordability + PW brand trust. **Weaknesses:** No disclosed placements, upfront payment vs competitors' ISA models, platform not optimized for coding education. **Opportunities:** College partnerships, corporate B2B, ISA adoption, AI-native features. **For competitors:** Focus on proven outcomes, pay-after-placement, mid-career professionals, AI differentiation.
 - [upGrad Analysis](education/competitors/india-edtech/upgrad-analysis.md) - Aggressive consolidator, acquired Unacademy (March 2026) + Internshala + 7 others, university-partnered online degrees (₹50K-5L/year), survived edtech winter, opaque pricing/outcomes
 - [GrowthSchool Analysis](education/competitors/india-edtech/growthschool-analysis.md) - "Become the Top 1%" premium upskilling, cohort-based programs, B2C/B2B, mentor-led, limited public data (⚠️ preliminary research)
 - [Outskill Analysis](education/competitors/india-edtech/outskill-analysis.md) - AI-focused fellowships/workshops/self-paced for professionals, riding ChatGPT boom, possibly same founder as GrowthSchool, limited public data (⚠️ preliminary research)

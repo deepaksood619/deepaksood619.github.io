@@ -5,8 +5,6 @@
 - **Research Base:** 55+ files, 30 competitor analyses, 3 market reports, technical feasibility study
 - **Major Update:** Khanmigo failure analysis (May 2026) confirms standalone AI tutoring chatbots don't work
 
----
-
 ## Executive Summary
 
 After deep research across MOOCs, AI tutoring, test prep, bootcamps, and alternative education, we've identified a **high-conviction opportunity**: An AI-native adaptive learning platform for **working professionals (25-45yo) seeking measurable salary increases** through skill development — built and operated as a **non-profit**.
@@ -26,16 +24,16 @@ After deep research across MOOCs, AI tutoring, test prep, bootcamps, and alterna
 > **This is a non-profit (Section 8 / 501(c)(3)). We are NOT raising venture capital and NOT chasing financial returns.** Funding is grants + CSR + donations. Pricing is cost-recovery, not profit-maximizing. See [pitch.md](education/strategy/pitch.md) and [funding-model.md](education/strategy/funding-model.md) for the current canonical framing.
 >
 > **How to read the rest of this brief.** Most of it is still valid — the product design, competitive teardown, pedagogy, market-timing, and risk analysis all hold for a non-profit. But this document was originally drafted in a for-profit/VC frame, so reinterpret the financial language as follows:
->
-> | Original (for-profit) framing | Read it as (non-profit) |
-> |---|---|
-> | "ARR / revenue targets / monetization" | Cost-recovery + sustainability; surplus reinvested |
-> | "Placement fees = ₹21 crore/year revenue" | Optional sustainability stream; funds free tier, not profit |
-> | "Seed round / Series A-C / valuation / equity / exit / IPO" | **N/A** — donation/grant/CSR funded, zero equity |
-> | "LTV:CAC, ARPU, burn, profitability" | Unit *cost* discipline so the free tier stays funded |
-> | "PLG B2C → enterprise B2B upsell" (Section 7) | Sequencing of free recruiter wedge → learner agents; enterprise/CSR as a *funding* channel, not an exit path |
-> | "Raise VC, not donations" (Anomalies in Section 6) | **Superseded** — we chose the donation/grant path deliberately |
->
+
+| Original (for-profit) framing                               | Read it as (non-profit)                                                                                      |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| "ARR / revenue targets / monetization"                      | Cost-recovery + sustainability; surplus reinvested                                                           |
+| "Placement fees = ₹21 crore/year revenue"                   | Optional sustainability stream; funds free tier, not profit                                                  |
+| "Seed round / Series A-C / valuation / equity / exit / IPO" | **N/A** — donation/grant/CSR funded, zero equity                                                             |
+| "LTV:CAC, ARPU, burn, profitability"                        | Unit *cost* discipline so the free tier stays funded                                                         |
+| "PLG B2C → enterprise B2B upsell" (Section 7)               | Sequencing of free recruiter wedge → learner agents; enterprise/CSR as a *funding* channel, not an exit path |
+| "Raise VC, not donations" (Anomalies in Section 6)          | **Superseded** — we chose the donation/grant path deliberately                                               |
+
 > Sections that are now **superseded** as strategy (kept only as research/market reference): the funding/valuation math in §6 anomalies, the two for-profit business models in §7, and the Series-A capital plan in §10. The non-profit equivalents live in the rewritten §10 and §11 below.
 
 ---

@@ -316,8 +316,12 @@ openclaw doctor --generate-gateway-token
 openclaw doctor --fix
 
 openclaw gateway stop
+openclaw gateway run
 openclaw reset
 openclaw onboard --install-daemon
+# hatch in browser
+
+# In your agent's system prompt (or `SOUL.md`), explicitly instruct the AI to only respond when `@openclaw` is type
 ```
 
 ## Others / Agents / Skills
