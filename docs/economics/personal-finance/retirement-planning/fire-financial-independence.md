@@ -238,3 +238,5 @@ Even if the 26-year-old retires by 27 (naturally an unlikely event), the suggest
 - [Can I use a single bucket to manage inflation-indexed income?](https://freefincal.com/can-i-use-a-single-bucket-to-manage-inflation-indexed-income/)
 - [What’s your retirement SWP strategy going to be? A 2005 vs. 2008 Case Study](https://freefincal.com/whats-your-retirement-swp-strategy-going-to-be-a-2005-vs-2008-case-study/)
 - [What withdrawal rate do you recommend for retirement planning?](https://freefincal.com/what-withdrawal-rate-do-you-recommend-for-retirement-planning/)
+- [How to review a retirement portfolio](https://freefincal.com/how-to-review-a-retirement-portfolio/)
+- [The Retirement Number Nobody Talks About](https://freefincal.com/the-retirement-number-nobody-talks-about/)

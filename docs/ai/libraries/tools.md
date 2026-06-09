@@ -197,6 +197,7 @@ https://www.cortex.dev
 	- FastAPI
 	- Docker
 - [GitHub - feast-dev/feast: The Open Source Feature Store for Machine Learning](https://github.com/feast-dev/feast) ⭐ 7.0k
+- [GitHub - pycaret/pycaret: Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native engine + React control plane. · GitHub](https://github.com/pycaret/pycaret)
 
 ## SAAS Tools
 

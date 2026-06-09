@@ -5,7 +5,6 @@ type: competitor-analysis
 domain: technical-skills-india
 tags: [pwskills, physicswallah, coding-bootcamp, data-science, india-edtech, professional-upskilling]
 ---
-
 ## Overview
 
 **PW Skills** is the professional upskilling and technical education vertical of PhysicsWallah (PW), India's largest profitable edtech company. Launched as part of PW's diversification strategy beyond test preparation (JEE/NEET), PW Skills targets job-ready technical training in software development, data science, AI/ML, and other professional skills.
@@ -879,9 +878,9 @@ PW Skills enters a crowded Indian professional upskilling market dominated by es
 ## Related Research
 
 - [PhysicsWallah (Parent Company) Analysis](education/competitors/india-edtech/physicswallah-analysis.md) - Comprehensive analysis of PW's core test prep business, business model, profitability, IPO success
-- [Scaler Academy Analysis](education/competitors/technical-skills/scaler-analysis.md) - Premium coding bootcamp competitor (if analysis exists)
-- [Masai School Analysis](education/competitors/technical-skills/masai-analysis.md) - Pay-after-placement competitor (if analysis exists)
-- [Technical Skills Market Analysis](education/market-analysis/technical-hiring-assessment-market.md) - Overview of technical upskilling market in India
+- [Scaler Academy Analysis](education/competitors/india-edtech/scaler-analysis.md)- Premium coding bootcamp competitor (if analysis exists)
+- [Masai School Analysis](education/competitors/job-platforms/masai-school-analysis.md) - Pay-after-placement competitor (if analysis exists)
+- [Technical Skills Market Analysis](education/competitors/technical-hiring-assessment-market.md) - Overview of technical upskilling market in India
 - [Consolidated Edtech Platforms](education/competitors/consolidated-edtech-platforms.md) - India edtech market overview
 
 ## Key Takeaways

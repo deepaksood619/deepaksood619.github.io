@@ -33,7 +33,7 @@ Product ideas, features, and AI agent designs:
 - [Personal Tutor Prompt](education/product-concepts/personal-tutor-prompt.md) - System prompt template
 - [Quiz App Prompt](education/product-concepts/quiz-app-prompt.md) - Quiz generation prompt
 
-### Market Analysis (5 files)
+### Market Analysis (10 files)
 
 Market research, education system analysis, and user research:
 
@@ -41,7 +41,6 @@ Market research, education system analysis, and user research:
 - [Placement Challenges Analysis](education/market-analysis/placement-challenges-analysis.md) - Indian placement landscape
 - [Education System](education/market-analysis/education-system.md) - System-level education analysis
 - **[Income Sharing Agreements & PAP Analysis](education/market-analysis/income-sharing-agreements-pap-analysis.md)** - **NEW (BUSINESS MODEL CRITICAL):** ISA vs PAP models, how they work, Masai School verified mechanics (₹0 upfront, ₹3.5 LPA trigger, 36 months), Lambda School failure case ($74M → bankruptcy), break-even economics, payment default risks, cash flow challenges, regulatory landscape, student experience, strategic implications for adaptive learning platform. **Includes:** Unit economics formula, PAP vs traditional comparison, hybrid model options, research gaps (efficacy, enforcement, viability).
-- **[ISA/PAP Research Prompts](education/market-analysis/isa-pap-research-prompts.md)** - ⚠️ **RESEARCH BLOCKED:** 6 detailed prompts for external research (Lambda failure forensics, break-even analysis, Masai financials, regulatory landscape, student behavior, alternative models). **Priority:** Run in unrestricted environment before finalizing business model.
 
 ### Technical (3 files)
 
@@ -86,6 +85,18 @@ Comprehensive competitive analysis organized by platform type. See [Competitors 
 **Online Degree Programs (India):**
 
 - [IIT Madras Online BS Degree Analysis](education/competitors/india-edtech/iit-madras-online-bs-degree.md) - India's first online BS degree from IIT, 36K+ students, Data Science focus, 4-tier stackable credentials (Foundation → Diploma → BSc → BS), asynchronous learning + in-person exams, 17-81 age range, 850+ to grad schools, 20+ in GATE top 100, ₹2-3L total cost, qualifier system, peer TAs, 2K+ free scholarships
+
+**LMS Platform Deep Dives (New Section):**
+
+- **[LMS Market Summary + Gaps](education/competitors/lms-platforms/summary.md)** - **NEW:** Cross-market synthesis of 14 LMS platforms (global + India). Key finding: zero LMS platforms are learner-outcome-focused — all serve institutional/creator/HR buyers. Global market $28.58B (2025) → $123.78B (2033). India $882M → $5.15B. 6 strategic gaps mapped. Competitive landscape visual. Must-read for product positioning.
+- [Moodle Analysis](education/competitors/lms-platforms/global/moodle-analysis.md) - Open-source leader, 145K+ sites, free to use, 73% LATAM / 25% Europe, declining North America; UX debt, plugin chaos
+- [Canvas / Instructure Analysis](education/competitors/lms-platforms/global/canvas-instructure-analysis.md) - #1 North America higher-ed (39% institutions, 50% enrollment), KKR acquisition Jan 2025; beats Moodle + Blackboard + Brightspace combined
+- [Blackboard / Anthology Analysis](education/competitors/lms-platforms/global/blackboard-anthology-analysis.md) - 25-year market leader → Chapter 11 bankruptcy Sep 2025 → emerged debt-free Feb 2026. EBITDA $33M→$4M. UX debt + wrong M&A thesis = collapse. Critical cautionary tale.
+- [Creator LMS Analysis](education/competitors/lms-platforms/global/creator-lms-analysis.md) - Kajabi ($2B, $10B creator payouts, $179-399/month), Thinkific (TSX listed, $49-499/month, no fees), Teachable (Hotmart-owned, $29/month+fees). All serve creators, not learner outcomes. India barely served.
+- [Enterprise LMS Analysis](education/competitors/lms-platforms/global/enterprise-lms-analysis.md) - TalentLMS ($299-359/month, 70 users), Docebo ($25K+/year, AI-first, $165-180M ARR), Cornerstone (100M+ users, $50K+ min). Corporate compliance focus, not learning effectiveness.
+- **[Testpress + Fermion Analysis](education/competitors/lms-platforms/india/testpress-fermion-analysis.md)** - Bootstrapped B2B LMS for coaching institutes (1,000+ clients). Fermion acquisition adds live classes + coding sandbox. 10-year survivor in brutal India B2B LMS market. Only India LMS with exams + live classes + coding labs combined.
+- **[Classplus + Teachmint Analysis](education/competitors/lms-platforms/india/classplus-teachmint-analysis.md)** - **NEW:** Two $100M+ funded India LMS failures. Classplus (₹163M raised, ₹110 Cr FY24 losses, pivoting physical schools). Teachmint ($118M raised, abandoned SaaS → selling hardware). Root causes: free-tier trap, Google Classroom commoditization, price-sensitive SMBs. Proves India coaching B2B SaaS is extremely hard.
+- **[Learnyst + Graphy Analysis](education/competitors/lms-platforms/india/learnyst-graphy-analysis.md)** - **NEW:** India creator LMS niche. Learnyst (₹3,499/month, DRM + exam series, 3,000+ educators, bootstrapped). Graphy/Spayee (Unacademy-owned, WhatsApp integration, influencer focus, uncertain post-upGrad acquisition). Both serve educators (supply), not learner outcomes (demand).
 
 **Tech Bootcamps & Training:**
 

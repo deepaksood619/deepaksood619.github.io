@@ -28,6 +28,7 @@ Time Series Databases have key architectural design properties that make them ve
 - [Prometheus](https://prometheus.io/)
 - [Druid](http://druid.io/)
 - [KairosDB](https://github.com/kairosdb/kairosdb) ⭐ 1.8k
+	- KairosDB is a fast distributed scalable time series database written on top of Cassandra.
 - [eXtremeDB](http://www.mcobject.com/extremedbfamily.shtml)
 - [Riak TS](http://basho.com/products/riak-ts/)
 - [Axibase](https://axibase.com/products/axibase-time-series-database/)

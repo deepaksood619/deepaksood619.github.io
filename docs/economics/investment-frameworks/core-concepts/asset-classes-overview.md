@@ -44,7 +44,7 @@ Physical property investments.
 - REITs (Real Estate Investment Trusts)
 - Fractional real estate ownership
 
-See: [REITs and InVITs](economics/investment-products/hybrid-alternative/reits-invits.md)
+See: [REITs and InVITs](economics/investment-products/hybrid-alternative/reits-alternative-investments.md)
 
 ### 4. Commodities
 

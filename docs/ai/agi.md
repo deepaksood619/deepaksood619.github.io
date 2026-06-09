@@ -69,3 +69,4 @@ One day, frontier AI research used to be done by meat computers in between eatin
 - [Google's FREE AI Just Replaced LinkedIn, Naukri, and Indeed (Complete Jo...](https://youtu.be/L110osBj5Kk)
 - [Why Everyone Should Know About AI Evals: The Fundamentals Explained](https://youtu.be/EN8jVkv0kiw)
 - [Coding Agents Explained: How Claude Code, Codex & Cursor Actually Work](https://youtu.be/nvGqzQ47FTM)
+- [Why Isn’t AI Taking Our Jobs? - Cal Newport](https://calnewport.com/why-isnt-ai-taking-our-jobs/)

@@ -1,7 +1,7 @@
 # Finance / Investing
 
 - [Financial Independence (FIRE)](economics/personal-finance/retirement-planning/fire-financial-independence.md)
-- [Asset Classes](economics/finance-investing/asset-classes.md)
+- [asset-classes-overview](economics/investment-frameworks/core-concepts/asset-classes-overview.md)
 	- [gold-physical-digital](economics/personal-finance/alternative-assets/gold-physical-digital.md)
 - [Portfolios](economics/finance-investing/portfolios.md)
 - [Personal Finance](economics/finance-investing/personal-finance.md)

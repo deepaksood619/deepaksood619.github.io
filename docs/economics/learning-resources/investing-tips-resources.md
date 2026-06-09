@@ -155,4 +155,4 @@ See: [Tools & Platforms](economics/learning-resources/tools-platforms.md)
 
 ## Image Reference
 
-![Investment Principles](../../../media/TODO-Financial-Finance-Investing-image1.jpg)
+![Investment Principles](../../media/TODO-Financial-Finance-Investing-image1.jpg)

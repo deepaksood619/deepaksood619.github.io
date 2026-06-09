@@ -81,13 +81,13 @@ Here is my current weekly meal schedule:
 | **1 - Tues**  | Moong daal chilla + Imli + Peanut Chutney          | Daal Makhni + Pyaaz tomato sabzi               | Cucumber                              | Watermelon & Apple slices          | Palak Paneer                                               |
 | **1 - Wed**   | Veg Suji / Oats Upma with peanuts & veggies + dahi | Rajma + Mix Veg Raita                          | Kachumber (Cucumber, tomato, onion)   | Fresh Mango & Papaya               | Drumsticks (moringa)                                       |
 | **1 - Thurs** | Veg poha with peanuts & veggies + dahi             | Daal Palak + Barbatti / Beans aloo             | Peanut                                | Bananas & Grapes                   | Mushroom do pyaaza                                         |
-| **1 - Fri**   | Chana daal dhokla + Peanut Chutney                 | Raungi (Lobia) + Torai                         | Carrot & Radish                       | Muskmelon (Kharbuja) & Pomegranate | MultiGrain Aata Samosa                                     |
+| **1 - Fri**   | Chana daal dhokla + Peanut Chutney                 | Raungi (Lobia) + Torai                         | Carrot & Radish                       | Muskmelon (Kharbuja) & Pomegranate | MultiGrain Aata Aalo Samosa                                |
 | **1 - Sat**   | Stuffed Paratha (broccoli/gobhi)                   | Dal + Mix Veg                                  | Mixed Green Leaves Salad              | Litchi & Apple                     | Pau bhaji (aata/whole wheat pau)                           |
 | **1 - Sun**   | Idle Sambhar                                       | Sambhar + Bhindi                               | Beetroot & Corn Salad                 | Papaya & Bananas                   | Soyabean aloo gravy                                        |
 |               |                                                    |                                                |                                       |                                    |                                                            |
 | **2 - Mon**   | Whole Wheat Macroni + dahi                         | Mix Veg Kadhi                                  | Sprouted Moong Onion Tomato           | Watermelon & Apple slices          | Lauki kofta / Kela kofta                                   |
 | **2 - Tues**  | Mix Veg Sandwich (Aata Bread)                      | Yellow Daal + Green Onion                      | Cucumber                              | Muskmelon & Grapes                 | Shahi Paneer                                               |
-| **2 - Wed**   | Stuffed paratha + dahi                             | Daal Palak + Vegetable                         | Kachumber Salad                       | Fresh Mango & Litchi               | Baingan Barta                                              |
+| **2 - Wed**   | Stuffed paratha + dahi                             | Daal Palak + Vegetable                         | Kachumber Salad                       | Fresh Mango & Litchi               | Baingan Barta (Baigan Bharta)                              |
 | **2 - Thurs** | Besan Paneer Chila + Imli + Peanut Chutney         | Mix Daal + Lauki                               | Cucumber Stick & Lemon Salad          | Watermelon & Pomegranate           | Paneer bhurji + Pyaaz Tomato                               |
 | **2 - Fri**   | Sabudana/veg/foxtail poha + dahi                   | Mix Daal + Patta gobhi                         | Corn Salad                            | Papaya & Guava                     | White Matar + aata/whole wheat Kulcha                      |
 | **2 - Sat**   | Stuffed paratha + dahi                             | Raungi + Barbatti aloo                         | Radish & Lemon Salad                  | Bananas & Apple                    | HomeMade Pani Puri Party with white matar and aloo filling |
@@ -105,7 +105,7 @@ Here is my current weekly meal schedule:
 - sabudana bada / Matar paneer / gajar matar / kela kofta / Shimla mirch aloo / Gobhi Aloo
 - Paratha - Brocoli / Mooli / Gobhi / Paneer
 - Puri sabzi (aloo tomato) / chole bhature / maggi / sambhar vada / Momos / Appe
-- Karela / Kundru / Kamal Kakdi / parwal / tinda / Zucchini / Baby corn / Fresh Yam (Suran / Jimikand / Elephant Foot Yam) / Arbi / Kathal / Asparagus / Semi (Sem)
+- Karela / Kundru / Kamal Kakdi / parwal / tinda / Zucchini / Baby corn / Fresh Yam (Suran / Jimikand / Elephant Foot Yam) / Arbi / Kathal / Asparagus / Semi (Sem / Cluster Beans)
 - parboiled quinoa or foxtail millet
 - Tofu
 - Multivitamins Daily

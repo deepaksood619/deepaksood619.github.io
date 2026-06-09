@@ -152,6 +152,10 @@ The residuals should be normally distributed
     - Run individual simple regressions against the indepedent variables
     - Do nothing, use the multiple regression for predictions, and don't over read the coefficients on variables
 
+### Variance Inflation Factor (VIF)
+
+Variance Inflation Factor (VIF) is a powerful feature selection and diagnostic metric used in regression analysis to detect and measure multicollinearity (the extent to which independent variables are correlated with each other). It identifies redundant features, allowing you to drop them and improve model stability.
+
 ## Prediction Errors from Regression: Homoskedasticity and Heteroskedasticity
 
 ![image](../../media/Linear-regression-image10.jpg)

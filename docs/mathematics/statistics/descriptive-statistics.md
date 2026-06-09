@@ -82,7 +82,7 @@ Standard deviation and coefficient of variation
 
 - Range takes the largest number in our dataset and subtracts the smallest number in the set to give us the distance between the two extremes. The larger the distance, the more spread out our data is.
 
-- Interquartile range - Doesn't consider extreme values, the IQR looks at the spread of the middle 50% of your data
+- **Interquartile range (IQR) -** Doesn't consider extreme values, the IQR looks at the spread of the middle 50% of your data. It is highly useful in statistics because it ignores extreme outliers, focusing only on the values between the 25th percentile (Q₁) and the 75th percentile (Q₃).
 
 ![image](../../media/Descriptive-Statistics-image11.jpg)
 
