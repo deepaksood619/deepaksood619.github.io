@@ -145,7 +145,7 @@ See: [Candlestick Patterns](economics/market-mechanics/technical-analysis/techni
 
 **Calculation:**
 
-```
+```text
 RRR = Potential Profit / Potential Loss
 RRR = (Target - Entry) / (Entry - Stop Loss)
 ```

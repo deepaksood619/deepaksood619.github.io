@@ -10,7 +10,7 @@
 
 ## Break-Even Formula
 
-```
+```text
 Break-Even Placement Rate = Training Cost per Student (C) ÷ Revenue per Placed Student (R)
 
 Adjusted for defaults:
@@ -59,7 +59,7 @@ Required Gross Placement Rate = C ÷ (R × (1 - Default Rate))
 
 PAP/ISA creates a **structural funding gap**: costs are immediate, revenue arrives 12-48 months later.
 
-```
+```text
 Year 0: Enroll 100 students. Cost = Rs 2.5L × 100 = Rs 2.5 crore. Revenue = Rs 0.
 Year 1: Students training. Cost continues. Revenue = Rs 0.
 Year 2: Students placed (assumes 9-12mo training + 3mo job search).

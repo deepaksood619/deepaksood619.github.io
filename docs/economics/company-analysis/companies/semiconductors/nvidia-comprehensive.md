@@ -15,8 +15,6 @@ tags: [comprehensive-analysis, us-stocks, semiconductors, ai-chips, gpu, data-ce
 - **Sector:** Technology - Semiconductors (AI/GPU)
 - **Market Cap:** $5.06 Trillion
 
----
-
 ## Executive Summary
 
 - **Investment Recommendation:** BUY (Maintain Strong Buy)

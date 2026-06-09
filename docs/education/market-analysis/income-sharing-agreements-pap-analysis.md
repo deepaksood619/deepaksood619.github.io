@@ -130,7 +130,7 @@ Income Sharing Agreements (ISA) and Pay After Placement (PAP) are deferred tuiti
 
 **Break-Even Formula:**
 
-```
+```text
 Total Cost = C × N
 Total Revenue = R × (N × P%)
 

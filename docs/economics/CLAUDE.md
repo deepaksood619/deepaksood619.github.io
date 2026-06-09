@@ -331,7 +331,7 @@ Calculation steps:
 2. Step 2
 3. Total Tax: Rs. XXX
 
-```
+```markdown
 
 ## Exemptions & Deductions
 

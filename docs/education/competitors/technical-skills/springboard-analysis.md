@@ -8,13 +8,9 @@ verified: 2026-06-08
 tags: [bootcamp, mentorship, job-guarantee, curated-content]
 ---
 
-# Springboard Analysis
-
-**Category:** Technical Skills Bootcamp with 1:1 Mentorship
-
-**Business Model:** Curated third-party content + mentor pairing + job guarantee for Career Track programs
-
-**Key Differentiator:** Job guarantee with full tuition refund (select programs only)
+- **Category:** Technical Skills Bootcamp with 1:1 Mentorship
+- **Business Model:** Curated third-party content + mentor pairing + job guarantee for Career Track programs
+- **Key Differentiator:** Job guarantee with full tuition refund (select programs only)
 
 ## Research Methodology
 

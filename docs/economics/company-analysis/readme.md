@@ -107,7 +107,7 @@ This directory contains comprehensive company analyses, sector reports, peer com
 
 #### NVIDIA Corporation
 
-- [NVIDIA Corporation - Comprehensive Investment Analysis (June 9, 2026)](economics/company-analysis/companies/semiconductors/nvidia-comprehensive-2026-06-09.md)
+- [NVIDIA Corporation - Comprehensive Investment Analysis (June 9, 2026)](economics/company-analysis/companies/semiconductors/nvidia-comprehensive.md)
   - **Type:** Comprehensive Analysis (Fundamental + Technical + Valuation + Competitive)
   - **Ticker:** NASDAQ:NVDA
   - **Recommendation:** BUY (Strong Buy - Top Pick)
@@ -143,7 +143,7 @@ This directory contains comprehensive company analyses, sector reports, peer com
 
 #### Micron Technology Inc
 
-- [Micron Technology - Comprehensive Investment Analysis (June 9, 2026)](economics/company-analysis/companies/semiconductors/micron-technology-comprehensive-2026-06-09.md)
+- [Micron Technology - Comprehensive Investment Analysis (June 9, 2026)](economics/company-analysis/companies/semiconductors/micron-technology-comprehensive.md)
   - **Type:** Comprehensive Analysis (Fundamental + Technical + Valuation)
   - **Ticker:** NASDAQ:MU
   - **Recommendation:** BUY (High Conviction with Caveats)
