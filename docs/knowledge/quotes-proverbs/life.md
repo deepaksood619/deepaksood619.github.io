@@ -1214,4 +1214,6 @@ You can attract luck simply by sharing your work publicly.
 
 [Zemblanity: When Bad Luck Is Built In \| Psychology Today](https://www.psychologytoday.com/us/blog/connect-the-dots/202603/zemblanity-when-bad-luck-is-built-in)
 
+“How we spend our non-working hours determines very largely how capably or incapably we spend our working hours.” – Charles Forbes
+
 ## End

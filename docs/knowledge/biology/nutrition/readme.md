@@ -16,6 +16,7 @@
 - [Ecology](ecology)
 - [Recipe](recipe)
 - [Fatigue](fatigue)
+- [drinking-water-with-meal](knowledge/biology/nutrition/drinking-water-with-meal.md)
 - [Plants / Gardening](knowledge/biology/nutrition/plants-gardening-botany.md)
 - [eating-routine](knowledge/biology/nutrition/eating-routine.md)
 

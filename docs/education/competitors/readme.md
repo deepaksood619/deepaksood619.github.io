@@ -108,6 +108,8 @@
 
 ## Links
 
+- [Mentorship Platforms](education/competitors/mentorship-platforms/readme.md)
+- [LMS Platforms](education/competitors/lms-platforms/summary.md)
 - JEE Preparation
 - UPSC Preparation
 - [Spotlight On India's EdTech Industry, Opportunities & Challenges \| CNBC TV18 Mad About Markets - YouTube](https://www.youtube.com/watch?v=VQFZbchdTTI)

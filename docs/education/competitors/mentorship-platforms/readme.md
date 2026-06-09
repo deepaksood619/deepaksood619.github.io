@@ -129,3 +129,4 @@
 ## Links
 
 - [smaller-platforms-review.md](education/competitors/mentorship-platforms/smaller-platforms-review.md) - 10+ smaller players in one document
+- [adplist-analysis](education/competitors/mentorship-platforms/adplist-analysis.md)

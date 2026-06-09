@@ -9,3 +9,4 @@ Core economic theory and foundational knowledge.
 - [GDP](economics/fundamentals/gross-domestic-product-gdp.md)
 - [Inflation](economics/fundamentals/inflation-indexes.md)
 - [Monetary Policies](economics/fundamentals/monetary-policies.md)
+- [government-terms](economics/fundamentals/government-terms.md)

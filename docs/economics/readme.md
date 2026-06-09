@@ -2,6 +2,8 @@
 
 Comprehensive knowledge base covering economic theory, finance, investing, and personal financial planning.
 
+- [CLAUDE](economics/CLAUDE.md)
+
 ## 📚 Folder Structure
 
 ### Fundamentals
@@ -75,6 +77,7 @@ Individual financial planning.
 
 ### Corporate Finance
 
+- [Corporate Finance](economics/corporate-finance/readme.md)
 - [Capital Budgeting](economics/corporate-finance/capital-budgeting.md)
 - [Corporate Actions](economics/corporate-finance/corporate-actions.md)
 - [Cap Table](economics/corporate-finance/cap-table-equity-allocation.md)
