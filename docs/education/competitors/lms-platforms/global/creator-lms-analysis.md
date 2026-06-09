@@ -76,6 +76,7 @@ These three platforms dominate the individual creator / online course market. Un
 | Free | $0 | 0% |
 | Basic | $49/month | 0% |
 | Start | $99/month | 0% |
+
 - Plus | $199/month | 0% |
 | Expand | $499/month | 0% |
 

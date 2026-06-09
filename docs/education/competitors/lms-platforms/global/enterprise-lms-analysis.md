@@ -164,6 +164,7 @@ Custom enterprise pricing only. Estimated $8-12/user/month for large deployments
 ### Unique Position
 
 Bridges academic and corporate LMS markets. Strong in:
+
 - Canadian higher education (dominant)
 - K-12 (strong growth post-pandemic)
 - Corporate upskilling (leveraging academic credibility)

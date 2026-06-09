@@ -107,7 +107,6 @@ Investing in companies with strong growth potential.
 
 - [Passive vs Active Income](economics/investment-frameworks/core-concepts/passive-vs-active-income.md)
 - [Portfolio Allocation Models](economics/investment-frameworks/portfolio-construction/asset-allocation-models.md)
-- [Diversification & Hedging](economics/investment-frameworks/core-concepts/diversification-hedging.md)
 
 ## References
 

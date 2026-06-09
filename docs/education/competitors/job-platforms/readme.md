@@ -188,9 +188,6 @@ The job platform ecosystem spans three distinct categories:
 
 ## Related Wiki Pages
 
-- [India Edtech Competitors](education/competitors/india-edtech/readme) - Broader edtech landscape
-- [Technical Skills Platforms](education/competitors/technical-skills/readme.md) - Coding bootcamps and upskilling
-- [Adaptive AI Platforms](education/competitors/adaptive-ai-platforms/readme.md) - AI-powered learning systems
 - [Placement Challenges Analysis](education/market-analysis/placement-challenges-analysis.md) - Job market context
 - [Founders Strategic Brief](education/strategy/founders-strategic-brief.md) - Startup positioning
 

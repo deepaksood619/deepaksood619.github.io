@@ -127,6 +127,7 @@ Every platform tracks completion (did the learner finish?) not competency (can t
 ### Gap 2: India Learner Experience is Completely Underserved
 
 All India LMS platforms are B2B — they sell to institutes and creators. The learner UX is whatever the institute/creator configures. No Indian platform:
+
 - Adapts content based on learning pace
 - Provides career pathway guidance
 - Shows salary outcomes for past learners
@@ -147,6 +148,7 @@ Global adaptive platforms (Brilliant, Smart Sparrow) cost $15-30/month — still
 ### Gap 4: Coding Education Infrastructure Gap in India
 
 Fermion brought coding sandbox capability to Testpress — but only B2B for institutes. No India platform offers:
+
 - In-browser coding practice tied to curriculum
 - Automated code assessment and feedback
 - Interview prep within learning flow (without switching to HackerRank)
@@ -159,6 +161,7 @@ Fermion brought coding sandbox capability to Testpress — but only B2B for inst
 ### Gap 5: Creator → Learner Outcome Disconnect
 
 Kajabi/Teachable/Thinkific creators are incentivized to sell courses, not to ensure learners succeed. No accountability mechanism:
+
 - No refund for non-outcomes
 - No success rate transparency
 - No alumni salary data
@@ -171,6 +174,7 @@ Kajabi/Teachable/Thinkific creators are incentivized to sell courses, not to ens
 ### Gap 6: B2B2C Bridge Missing in India
 
 India has:
+
 - Strong B2B coaching institute tech (Testpress, Learnyst) — institute buys
 - Strong B2C content platforms (PW, Unacademy) — learner buys
 
@@ -182,7 +186,7 @@ Missing: A platform where institutes enroll learners → platform tracks outcome
 
 ## Competitive Landscape Map
 
-```
+```text
                     INSTITUTIONAL BUYER
                            |
                ┌───────────┴───────────┐

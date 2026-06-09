@@ -1,8 +1,15 @@
 #!/usr/bin/env node
 
 /**
- * Pre-commit hook to check for broken markdown links in Docusaurus
- * Mimics Docusaurus link resolution to catch errors before GitHub Actions
+ * Markdown link checker for Docusaurus
+ *
+ * Checks all modified markdown files (staged + unstaged + untracked) for broken links.
+ * Mimics Docusaurus link resolution to catch errors before GitHub Actions build.
+ *
+ * Can be run:
+ * - Manually: `node check-markdown-links.js`
+ * - Via pre-commit hook (if commits don't use --no-verify)
+ * - Via pre-push hook (recommended for workflows using gdon/--no-verify)
  */
 
 const fs = require('fs');
@@ -13,23 +20,42 @@ const DOCS_DIR = path.join(__dirname, 'docs');
 const errors = [];
 
 /**
- * Get list of staged markdown files
+ * Get list of modified markdown files (staged + unstaged + untracked)
  */
-function getStagedMarkdownFiles() {
+function getModifiedMarkdownFiles() {
   try {
-    const output = execSync('git diff --cached --name-only --diff-filter=ACM', {
+    const files = new Set();
+
+    // Get modified tracked files (staged + unstaged)
+    const modifiedOutput = execSync('git ls-files -m', {
       encoding: 'utf-8',
     }).trim();
 
-    if (!output) return [];
+    if (modifiedOutput) {
+      modifiedOutput.split('\n').forEach(file => {
+        if (file.startsWith('docs/') && file.endsWith('.md')) {
+          files.add(path.join(__dirname, file));
+        }
+      });
+    }
 
-    return output
-      .split('\n')
-      .filter(file => file.startsWith('docs/') && file.endsWith('.md'))
-      .map(file => path.join(__dirname, file));
+    // Get untracked files
+    const untrackedOutput = execSync('git ls-files -o --exclude-standard', {
+      encoding: 'utf-8',
+    }).trim();
+
+    if (untrackedOutput) {
+      untrackedOutput.split('\n').forEach(file => {
+        if (file.startsWith('docs/') && file.endsWith('.md')) {
+          files.add(path.join(__dirname, file));
+        }
+      });
+    }
+
+    return Array.from(files);
   } catch (error) {
-    // If not in a git repo or no staged files, check all files
-    console.warn('Warning: Could not get staged files, checking all markdown files...');
+    // If not in a git repo, check all files
+    console.warn('Warning: Could not get modified files, checking all markdown files...');
     return getAllMarkdownFiles();
   }
 }
@@ -123,8 +149,8 @@ function resolveLinkPath(sourceFile, linkUrl) {
   if (linkUrl.startsWith('/')) {
     // Absolute path from docs root
     resolved = path.join(DOCS_DIR, urlWithoutAnchor.substring(1));
-  } else if (linkUrl.startsWith('education/')) {
-    // Full path starting with education/ (common pattern in this repo)
+  } else if (linkUrl.startsWith('education/') || linkUrl.startsWith('economics/') || linkUrl.startsWith('knowledge/')) {
+    // Full path starting with top-level directory (common pattern in this repo)
     resolved = path.join(DOCS_DIR, urlWithoutAnchor);
   } else {
     // Relative path
@@ -192,14 +218,14 @@ function checkFile(filePath) {
 function main() {
   console.log('🔍 Checking markdown links...\n');
 
-  const filesToCheck = getStagedMarkdownFiles();
+  const filesToCheck = getModifiedMarkdownFiles();
 
   if (filesToCheck.length === 0) {
-    console.log('✅ No markdown files to check');
+    console.log('✅ No modified markdown files to check');
     return;
   }
 
-  console.log(`Checking ${filesToCheck.length} file(s)...\n`);
+  console.log(`Checking ${filesToCheck.length} modified file(s)...\n`);
 
   for (const file of filesToCheck) {
     checkFile(file);
