@@ -1,22 +1,22 @@
 # Recession shapes (Recovery types)
 
-![image](media/Mental-Models-image3-recession.jpg)
+![image](../../../media/Mental-Models-image3-recession.jpg)
 
 ## V-shaped recession
 
-![image](media/Mental-Models-eco-image4.jpg)
+![image](../../../media/Mental-Models-eco-image4.jpg)
 
 ## U-shaped recession
 
-![image](media/Mental-Models-eco-image5.jpg)
+![image](../../../media/Mental-Models-eco-image5.jpg)
 
 ## W-shaped recession (double-dip recession)
 
-![image](media/Mental-Models-eco-image6.jpg)
+![image](../../../media/Mental-Models-eco-image6.jpg)
 
 ## L-shaped recession
 
-![image](media/Mental-Models-eco-image7.jpg)
+![image](../../../media/Mental-Models-eco-image7.jpg)
 
 ## K Shaped recovery
 

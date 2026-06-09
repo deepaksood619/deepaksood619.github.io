@@ -31,7 +31,7 @@ You can claim exemption against any long-term capital gains tax liability if you
 
 ## NiftyETF
 
-![image](media/TODO-Financial-Finance-Investing_Stocks-image1.jpg)
+![image](../../../media/TODO-Financial-Finance-Investing_Stocks-image1.jpg)
 
 ## Company / Companies
 
@@ -53,19 +53,19 @@ You can claim exemption against any long-term capital gains tax liability if you
 - WIPRO
 - DABUR
 
-![image](media/TODO-Financial-Finance-Investing_Stocks-image2.jpg)
+![image](../../../media/TODO-Financial-Finance-Investing_Stocks-image2.jpg)
 
-![image](media/TODO-Financial-Finance-Investing_Stocks-image3.jpg)
+![image](../../../media/TODO-Financial-Finance-Investing_Stocks-image3.jpg)
 
-![image](media/TODO-Financial-Finance-Investing_Stocks-image4.jpg)
+![image](../../../media/TODO-Financial-Finance-Investing_Stocks-image4.jpg)
 
-![image](media/TODO-Financial-Finance-Investing_Stocks-image5.jpg)
+![image](../../../media/TODO-Financial-Finance-Investing_Stocks-image5.jpg)
 
-![image](media/TODO-Financial-Finance-Investing_Stocks-image6.jpg)
+![image](../../../media/TODO-Financial-Finance-Investing_Stocks-image6.jpg)
 
 ## Freefincal direct equity list
 
-![image](media/TODO-Financial-Finance-Investing_Stocks-image7.jpg)
+![image](../../../media/TODO-Financial-Finance-Investing_Stocks-image7.jpg)
 
 [My Stock Portfolio Analysis: July 2025](https://freefincal.com/my-stock-portfolio-analysis-july-2025/)
 
@@ -87,7 +87,7 @@ You can claim exemption against any long-term capital gains tax liability if you
 
 2. Asian Paints and Berger Paints (the most efficient paint manufacturers), Astral Poly (the most efficient CPVC pipe manufacturer), Pidilite (the most efficient adhesives and waterproofing manufacturer) and Titan (the most efficient jeweler).
 
-![image](media/TODO-Financial-Finance-Investing_Stocks-image8.jpg)
+![image](../../../media/TODO-Financial-Finance-Investing_Stocks-image8.jpg)
 
 - HDFC Bank
 - Dr Lal PathLabs

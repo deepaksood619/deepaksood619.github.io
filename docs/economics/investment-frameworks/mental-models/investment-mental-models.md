@@ -135,7 +135,7 @@ I prefer a slightly different variant. Jagdish Sheth and Rajendra Sisodia, in 20
 
 ## Industry consolidation life cycle
 
-![image](media/Mental-Models-image1.gif)
+![image](../../../media/Mental-Models-image1.gif)
 
 ## Cantillon effect
 
@@ -291,7 +291,7 @@ The rise of wages in jobs without productivity gains derives from the requiremen
 
 Baumol helps us understand not only today’s economy but also a likely path for the economy’s future. He explained why labor-intensive services get more and more expensive as the economy grows. And those kinds of services are likely to be the future of the global economy.
 
-![baumol-effect](media/Pasted%20image%2020230623092653.jpg)
+![baumol-effect](../../../media/Pasted%20image%2020230623092653.jpg)
 
 [Baumol effect - Wikipedia](https://en.wikipedia.org/wiki/Baumol_effect)
 
@@ -345,7 +345,7 @@ The **Sam Vimes theory of socioeconomic unfairness**, often called simply the 
 
 The Laffer curve is **a theoretical concept that illustrates the relationship between tax rates and government revenue, suggesting that revenue will first increase with tax rates, then decrease after reaching a peak**. At a 0% tax rate, revenue is zero, and at a 100% tax rate, revenue is also zero, with an optimal tax rate somewhere in between that maximizes revenue collection. This theory is used to argue that cutting taxes could potentially increase revenue if the current rate is in the "prohibitive range" beyond the revenue-maximizing point.
 
-![Laffer Curve](media/Screenshot%202025-10-16%20at%2010.54.02%20AM.jpg)
+![Laffer Curve](../../../media/Screenshot%202025-10-16%20at%2010.54.02%20AM.jpg)
 
 ### How it works
 

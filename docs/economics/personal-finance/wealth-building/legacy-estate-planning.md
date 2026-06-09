@@ -19,6 +19,7 @@ Planning for fair and practical distribution of assets among heirs.
 *"We do not want a situation where a rich child living abroad has equal share in your house where a not-so-rich 2nd child lives. This can lead to hardship for the 2nd child."*
 
 **What to Consider:**
+
 - Different financial situations of heirs
 - Practical usage of assets (primary residence, business assets)
 - Tax implications for heirs
@@ -26,6 +27,7 @@ Planning for fair and practical distribution of assets among heirs.
 - Long-term sustainability for each heir
 
 **Vision Required:**
+
 - How will assets be used by heirs?
 - Will equal distribution be fair or create hardship?
 - Should distribution be based on need vs equality?
@@ -38,18 +40,21 @@ Formal legal process of arranging management and disposal of your estate.
 **Components:**
 
 **Will (Testament):**
+
 - Legal document specifying asset distribution
 - Appointment of executor
 - Guardian for minor children
 - Specific bequests
 
 **Trust:**
+
 - Legal arrangement for managing assets
 - Can provide tax benefits
 - Controls how and when heirs receive assets
 - Protection from creditors/lawsuits
 
 **Nomination:**
+
 - Bank accounts
 - Mutual funds
 - Insurance policies
@@ -61,6 +66,7 @@ Formal legal process of arranging management and disposal of your estate.
 Medical directive specifying end-of-life care preferences.
 
 **Includes:**
+
 - Medical treatment preferences
 - Life support decisions
 - Organ donation wishes
@@ -71,6 +77,7 @@ Medical directive specifying end-of-life care preferences.
 ### Financial Security for Dependents
 
 **Without Planning:**
+
 - Legal disputes among heirs
 - Frozen assets during probate
 - Unintended beneficiaries
@@ -78,6 +85,7 @@ Medical directive specifying end-of-life care preferences.
 - Family conflict
 
 **With Planning:**
+
 - Clear asset distribution
 - Reduced legal costs
 - Tax optimization
@@ -96,6 +104,7 @@ Medical directive specifying end-of-life care preferences.
 ### Step 1: Inventory Assets
 
 **List Everything:**
+
 - Real estate (primary, secondary, commercial)
 - Bank accounts (savings, FD, RD)
 - Investments (stocks, MF, bonds, PPF, EPF)
@@ -108,6 +117,7 @@ Medical directive specifying end-of-life care preferences.
 ### Step 2: Determine Beneficiaries
 
 **Decide Who Gets What:**
+
 - Spouse
 - Children
 - Parents
@@ -121,6 +131,7 @@ Medical directive specifying end-of-life care preferences.
 **Trustee:** Person who manages trust assets
 
 **Qualities to Look For:**
+
 - Trustworthy and responsible
 - Financial knowledge
 - Willing to serve
@@ -130,11 +141,13 @@ Medical directive specifying end-of-life care preferences.
 ### Step 4: Draft Legal Documents
 
 **Work with professionals:**
+
 - Lawyer for will drafting
 - CA for tax planning
 - Financial planner for wealth transfer strategy
 
 **Documents Needed:**
+
 - Last Will and Testament
 - Trust Deed (if applicable)
 - Living Will / Healthcare Directive
@@ -143,6 +156,7 @@ Medical directive specifying end-of-life care preferences.
 ### Step 5: Update Nominations
 
 **Critical for smooth transfer:**
+
 - Bank accounts → Add nominees
 - Demat accounts → Update nomination
 - Insurance policies → Verify beneficiaries
@@ -154,6 +168,7 @@ Medical directive specifying end-of-life care preferences.
 ### Step 6: Communicate with Family
 
 **Transparency Helps:**
+
 - Inform family about will existence
 - Explain reasoning (if appropriate)
 - Share executor contact information
@@ -164,16 +179,19 @@ Medical directive specifying end-of-life care preferences.
 ### Inheritance Tax in India
 
 **Current Status (2026):**
+
 - No federal inheritance tax in India
 - No estate tax (abolished in 1985)
 - Gifts above Rs 50,000 from non-relatives taxable as income
 
 **Exceptions:**
+
 - Gifts from close relatives tax-free
 - Gifts on special occasions (marriage) tax-free
 - Inheritance through will tax-free
 
 **Capital Gains on Inherited Property:**
+
 - Cost of acquisition = cost to previous owner
 - Holding period = previous owner's holding period
 - LTCG/STCG rules apply when heir sells
@@ -199,12 +217,14 @@ Medical directive specifying end-of-life care preferences.
 ## Continuity Planning
 
 **For Business Owners:**
+
 - Succession plan for business
 - Buy-sell agreement with partners
 - Key person insurance
 - Training successors
 
 **For Families:**
+
 - Document important contacts (lawyer, CA, financial advisor)
 - Centralized file with passwords (use password manager)
 - Letter of instruction (funeral wishes, asset locations)
@@ -215,6 +235,7 @@ Medical directive specifying end-of-life care preferences.
 Estate planning is part of the **Administration Pillar** - ensuring dependents can continue in case of your demise.
 
 **Includes:**
+
 - Will creation
 - Nominations updated
 - Important documents shared
@@ -226,6 +247,7 @@ See: [Personal Finance Framework - 4 Pillars](economics/personal-finance/wealth-
 ## Review and Update
 
 **Review Estate Plan:**
+
 - Every 3-5 years
 - After major life events (marriage, divorce, birth, death)
 - When acquiring major assets

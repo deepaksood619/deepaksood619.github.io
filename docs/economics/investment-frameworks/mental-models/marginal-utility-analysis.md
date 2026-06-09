@@ -28,7 +28,7 @@ Ex - For instance, you like eating pizza, the second piece of pizza brings you m
 - **Positive marginal utility**is when buying extra versions of an item is satisfying. One such example would be a store promotion where customers can walk out with a free pair of shoes if they buy two pairs up front.
 - **Negative marginal utility**is where too much of an item is actually detrimental. For example, while the correct dose of antibiotics can kill harmful bacteria, too much can harm a person's body.
 
-![image](media/Mental-Models-image2-dimini.jpg)
+![image](../../../media/Mental-Models-image2-dimini.jpg)
 
 Diminishing Marginal Utility (DMU)
 

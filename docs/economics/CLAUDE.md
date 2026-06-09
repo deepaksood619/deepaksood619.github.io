@@ -324,10 +324,13 @@ tags: [taxation, india, income-tax]
 **Example 1:** [Scenario]
 
 ```
+
 Calculation steps:
+
 1. Step 1
 2. Step 2
 3. Total Tax: Rs. XXX
+
 ```
 
 ## Exemptions & Deductions

@@ -46,6 +46,7 @@
 | FY26 (target) | Rs 195-220 crore (~$25M) | Expected profit ~Rs 35 crore | Projected first full-year profit |
 
 **Key Inflection Points:**
+
 - **April 2024:** Achieved cash flow positivity
 - **January 2025:** Achieved EBITDA profitability
 
@@ -60,6 +61,7 @@
 ### The Problem
 
 India's tech hiring market contracted sharply in 2022-2024:
+
 - Global tech layoffs (Meta, Google, Amazon, Byju's, startup layoffs)
 - Indian startup funding winter (2022-2023)
 - IT services sector slowdown
@@ -68,6 +70,7 @@ India's tech hiring market contracted sharply in 2022-2024:
 **Impact on Masai:** Pure PAP model = revenue **entirely dependent on student placements**. When employers stopped hiring, Masai's revenue cratered even as training costs continued.
 
 This is the **same structural flaw that killed Lambda School** — but Masai navigated it because:
+
 1. India's market recovered faster than expected
 2. Masai took corrective action before cash ran out
 3. PAP payments from pre-crisis cohorts continued flowing in during the crisis
@@ -83,17 +86,20 @@ FY24: Rs 33 crore revenue vs Rs 42 crore loss = burning more than it earned. Wit
 Masai shifted from **pure PAP** to a **three-pillar model** starting ~2023-2024:
 
 **Pillar 1: Recalibrated ISAs (Retained PAP)**
+
 - Adjusted repayment structures so payments scale with actual graduate salaries
 - Maintained outcome-linked education as core differentiator
 - Continued 1-year placement guarantee
 
 **Pillar 2: Upfront Tuition Programs (New Revenue)**
+
 - Prepaid courses starting at Rs 60,000
 - Partnerships with IIT and IIM for working professionals (branded credentialing)
 - Launched "Misogi AI" program targeting higher-income professionals who can pay upfront
 - This generates immediate cash vs 3-year deferred PAP collection
 
 **Pillar 3: Employer-Linked Services (B2B Revenue)**
+
 - "Placed" — AI-powered recruitment platform serving non-Masai candidates
 - AI upskilling programs for enterprise clients
 - B2B became "key driver" in FY26 growth (60-70% overall growth)
@@ -145,11 +151,13 @@ Masai does not publish cost breakdowns. Rough estimates:
 ### Break-Even Estimate
 
 Using mid-range estimates:
+
 - Training + placement cost: Rs 2.5 lakh/student
 - PAP Revenue per placed student: Rs 3.6 lakh
 - **Break-even placement rate: Rs 2.5L ÷ Rs 3.6L = 69%**
 
 With ~25,000 total students and Rs 100 crore revenue:
+
 - Average revenue per student (total, not just placed): Rs 4,000 (Rs 100 crore ÷ 25,000)
 - This suggests NOT all students are in PAP — significant portion in upfront/B2B
 - Consistent with diversified three-pillar model
@@ -185,11 +193,13 @@ Masai's previous marketing claims (40,000+ learners, 10,000+ placements, 300% gr
 ## Refuted Claims ❌
 
 **From earlier research (June 2026 adversarial verification):**
+
 - ❌ "40,000+ active learners currently enrolled" — **Updated:** ~25,000 total program participants (cumulative, not concurrent). The "40,000" figure appears to include non-program participants.
 - ❌ "10,000+ graduates placed" — **Updated to:** 94% of ~25,000 = ~23,500 implied. But 94% claim itself is unverified (marketing claim, no independent audit).
 - ❌ "300% placement growth" — **Refuted:** Not found on current website; lacks baseline and verification.
 
 **New confirmed data updates earlier file:**
+
 - ✅ Masai IS profitable (EBITDA positive Jan 2025) — validates PAP model survival
 - ✅ Masai DID pivot away from pure PAP — validates our concern about pure PAP fragility
 

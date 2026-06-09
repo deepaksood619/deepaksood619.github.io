@@ -20,6 +20,7 @@ Asset allocation is the process of dividing investments among different asset cl
 ### Permanent Portfolio (Harry Browne)
 
 **Equal Weight Across 4 Asset Classes:**
+
 - 25% Stocks - for prosperity
 - 25% Bonds - for deflation
 - 25% Gold - for inflation
@@ -30,6 +31,7 @@ Asset allocation is the process of dividing investments among different asset cl
 ### Sample Portfolio for Young Professionals
 
 **Age 25-40:**
+
 - 70% Equity
   - 30% Nifty 50
   - 40% Nifty Next 50
@@ -45,6 +47,7 @@ Asset allocation is the process of dividing investments among different asset cl
 ### Sample Portfolio for Retirees
 
 **Age 60+:**
+
 - 30% Equity (for inflation protection)
 - 60% Debt (for stability and income)
 - 10% Gold (hedge)
@@ -52,11 +55,13 @@ Asset allocation is the process of dividing investments among different asset cl
 ## 3-Bucket Strategy for Retirement
 
 **Bucket 1 - Immediate Needs (2-3 years):**
+
 - 90% Short-term debt funds
 - 10% Savings account
 - **Purpose:** Current expenses, market downturns
 
 **Bucket 2 - Growth (Long-term):**
+
 - 30% Nifty 50
 - 20% NASDAQ
 - 15% Hybrid funds
@@ -64,6 +69,7 @@ Asset allocation is the process of dividing investments among different asset cl
 - 5% Commodities
 
 **Bucket 3 - Stable Long-Term:**
+
 - Government bonds
 - PPF
 - Long-term FDs
@@ -91,16 +97,19 @@ Minimal complexity, maximum coverage:
 ## Asset Allocation Types
 
 **Strategic Asset Allocation:**
+
 - Long-term target allocation
 - Set and forget
 - Rebalance annually
 
 **Tactical Asset Allocation:**
+
 - Short-term deviations from strategy
 - Based on market conditions
 - Return to strategic allocation
 
 **Dynamic Asset Allocation:**
+
 - Allocation changes with market valuation
 - Rules-based adjustments
 

@@ -28,6 +28,7 @@
 - PAP agreements (deferred tuition for educational service) meet all three requirements
 
 **Practical Challenge:** Litigation is slow (Indian courts), expensive, and often disproportionate to amounts owed (Rs 2-3L). Most platforms rely on:
+
 - Moral pressure (alumni community, reference checks)
 - Reporting to employer (employer may not rehire through platform)
 - Nominal legal action as deterrent
@@ -67,11 +68,13 @@
 **Status:** Applicable to education services. PRIMARY RISK AREA.
 
 The Consumer Protection Act 2019 covers:
+
 - Deficiency in service (failing to deliver promised placement)
 - Misleading advertisements (false placement rate claims)
 - Unfair trade practices
 
 **Key risk:** If a platform claims "94% placement rate" and actual rate is 50%, students could file consumer complaints. Consumer courts can award:
+
 - Refund of fees paid
 - Compensation for damages
 - Directions to cease misleading advertising
@@ -83,6 +86,7 @@ The Consumer Protection Act 2019 covers:
 ### Tax Treatment (India)
 
 **PAP/ISA payment status:**
+
 - Masai explicitly states: "It is not an education loan, as you do not have to pay any interest"
 - PAP is structured as deferred payment for services rendered, not a loan
 - Section 80E of Income Tax Act: Deduction for education loan **interest** — PAP has no interest, so this deduction likely does not apply
@@ -97,11 +101,13 @@ The Consumer Protection Act 2019 covers:
 ### CFPB Classification (2024 — Definitive)
 
 **April 2024 consent order (BloomTech):** CFPB classified ISAs as **consumer credit products** subject to:
+
 - Truth in Lending Act (TILA) — must disclose APR equivalent
 - Consumer Financial Protection Act — prohibits unfair/deceptive practices
 - Ban on misrepresenting ISA as "not a loan"
 
 **What this means for any US operations:** ISAs in the US now require:
+
 1. APR disclosure (calculate implied interest rate of the payment structure)
 2. Truthful placement rate disclosures (audited, not self-reported)
 3. Clear description of financial obligation (treat as a loan, not "partnership")

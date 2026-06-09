@@ -59,7 +59,7 @@ Hence, candlesticks can be broken down into single candlestick pattern and multi
 
 In Japanese, Doji means blunder or mistake
 
-![image](media/Market-Terms_Technical-Analysis-image1.jpg)
+![image](../../../media/Market-Terms_Technical-Analysis-image1.jpg)
 
 ### 3. Spinning Tops
 
@@ -93,9 +93,9 @@ Multiple candlestick patterns are a combination of multiple candles.
 
 ## Multiple Candlestick Patterns
 
-![image](media/Market-Terms_Technical-Analysis-image2.jpg)
+![image](../../../media/Market-Terms_Technical-Analysis-image2.jpg)
 
-![image](media/Market-Terms_Technical-Analysis-image3.jpg)
+![image](../../../media/Market-Terms_Technical-Analysis-image3.jpg)
 
 25. Engulfing pattern
 	- Bullish Engulfing
@@ -242,7 +242,7 @@ Remember a good trading system gives you a signal to enter a trade and a signal 
 
 - Exit the long position (square off) when the current market price turns lesser than the 50 day EMA
 
-![image](media/Market-Terms_Technical-Analysis-image4.jpg)
+![image](../../../media/Market-Terms_Technical-Analysis-image4.jpg)
 
 Moving averages works brilliantly when there is a trend and fails to perform when the stock moves sideways. This basically means the 'Moving average' in its simplest form is a trend following system.
 
@@ -317,7 +317,7 @@ The Dow Theory is built on a few beliefs. These are called the Dow Theory tenets
 
 ### Different phases of the market
 
-![image](media/Market-Terms_Technical-Analysis-image5.jpg)
+![image](../../../media/Market-Terms_Technical-Analysis-image5.jpg)
 
 Dow Theory suggests the markets are made up of three distinct phases, which are self repeating. These are called the Accumulation phase, the Mark up phase, and the Distribution phase.
 
@@ -371,7 +371,7 @@ Average Directional Index (ADX) About: The Average Directional Index (ADX), Minu
 
 If you don't know already, then TradingView is now available on Kite. Here is the Trading Q&A post announcing the beta launch. Given this, I thought I could share a few of my favourite
 
-![image](media/Market-Terms_Technical-Analysis-image6.jpg)
+![image](../../../media/Market-Terms_Technical-Analysis-image6.jpg)
 
 ## Elliott Wave Theory
 

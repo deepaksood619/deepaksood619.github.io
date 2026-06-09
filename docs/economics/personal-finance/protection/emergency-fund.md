@@ -26,6 +26,7 @@ An emergency fund is liquid savings set aside for unexpected expenses or financi
 ### Calculation
 
 **Step 1: Calculate Monthly Essential Expenses**
+
 - Rent/EMI
 - Utilities (electricity, water, internet)
 - Groceries
@@ -35,6 +36,7 @@ An emergency fund is liquid savings set aside for unexpected expenses or financi
 - Medicine (regular)
 
 **Do NOT include:**
+
 - Entertainment
 - Dining out
 - Shopping
@@ -44,12 +46,14 @@ An emergency fund is liquid savings set aside for unexpected expenses or financi
 **Step 2: Multiply by 6-12**
 
 Example: Monthly essentials = Rs 40,000
+
 - 6 months = Rs 2.4 lakh
 - 12 months = Rs 4.8 lakh
 
 ### Who Needs More?
 
 **12+ months recommended for:**
+
 - Self-employed/business owners (irregular income)
 - Single income family
 - Unstable industry/job
@@ -57,6 +61,7 @@ Example: Monthly essentials = Rs 40,000
 - Elderly parents dependent on you
 
 **6 months sufficient for:**
+
 - Dual income family
 - Stable job/industry
 - Good health insurance
@@ -69,11 +74,13 @@ From Freefincal:
 Once emergency fund reaches **5-10% of net worth**, you can stop contributing and redirect to investments.
 
 **Why?**
+
 - At higher net worth, proportionally smaller emergency fund suffices
 - Liquidity available through other sources
 - Can tap credit if truly needed
 
 **Example:**
+
 - Net worth: Rs 50 lakh
 - 5-10% = Rs 2.5-5 lakh emergency fund
 - Once reached, stop adding, invest surplus
@@ -83,18 +90,21 @@ Once emergency fund reaches **5-10% of net worth**, you can stop contributing an
 ### Primary Options (High Liquidity)
 
 **1. Savings Account**
+
 - Amount: 1-2 months expenses
 - Interest: 3-4%
 - Liquidity: Instant
 - Best for: Immediate emergencies
 
 **2. Liquid Mutual Funds**
+
 - Amount: Remaining 4-10 months
 - Returns: 6-7%
 - Liquidity: T+1 day (instant redemption up to Rs 50K)
 - Best for: Most of emergency corpus
 
 **3. Sweep-in FD (linked to savings account)**
+
 - Automatic conversion when balance falls
 - 1-2% higher than savings rate
 - Quick access
@@ -112,16 +122,19 @@ Once emergency fund reaches **5-10% of net worth**, you can stop contributing an
 ### Step-by-Step
 
 **Month 1-3: Get to Rs 50K**
+
 - Aggressive savings
 - Pause investments temporarily
 - Build base quickly
 
 **Month 4-12: Build to 6 months**
+
 - Automate monthly transfer
 - 20-30% of salary to emergency fund
 - Continue until target reached
 
 **After Target:**
+
 - Stop contributions
 - Redirect to investments
 - Review and top-up annually
@@ -162,6 +175,7 @@ Once emergency fund reaches **5-10% of net worth**, you can stop contributing an
 4. **Resume investments** only after fund restored
 
 **Priority Order:**
+
 1. Emergency fund restoration
 2. Insurance premiums
 3. Loan EMIs
@@ -170,16 +184,19 @@ Once emergency fund reaches **5-10% of net worth**, you can stop contributing an
 ## Tips
 
 **Separate Account:**
+
 - Don't mix with regular savings
 - Out of sight, out of mind
 - Reduces temptation to use
 
 **Review Annually:**
+
 - Expenses increased? Top up fund
 - Salary increased? May need more
 - Life changes (marriage, kids)? Recalculate
 
 **Tell Your Partner:**
+
 - Both should know it exists
 - Agree on usage criteria
 - Joint access in case of emergency
@@ -187,16 +204,19 @@ Once emergency fund reaches **5-10% of net worth**, you can stop contributing an
 ## Related to Other Pillars
 
 **Protection Pillar:**
+
 - Emergency fund + Insurance = Complete protection
 - Fund handles immediate needs
 - Insurance handles large expenses
 
 **Investment Pillar:**
+
 - Build emergency fund FIRST
 - Then start investing
 - Never invest emergency fund
 
 **Administration Pillar:**
+
 - Document where fund is kept
 - Share access with spouse
 - Include in financial tracking

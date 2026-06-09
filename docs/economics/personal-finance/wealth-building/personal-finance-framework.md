@@ -19,24 +19,28 @@ Personal finance rests on four pillars. Most people focus only on investments wh
 **Components:**
 
 **Life Insurance:**
+
 - Adequate coverage to ensure dependents don't struggle in your absence
 - Term insurance (pure protection, no investment)
 - 20x annual income coverage
 - Review every 3-5 years or major life events
 
 **Health & Accident Insurance:**
+
 - Prevent medical expenses from causing financial strain
 - Avoid portfolio drawdown for emergencies
 - Family floater plans
 - Top-up/super top-up for additional coverage
 
 **Emergency Fund:**
+
 - 6-12 months of expenses in liquid instruments
 - Quick access in case of job loss, medical emergency
 - Held in savings account, liquid funds
 - First priority before investing
 
 **Medical Corpus:**
+
 - Separate fund for healthcare (beyond insurance)
 - Important for retirement years
 - Can be part of retirement corpus
@@ -51,16 +55,19 @@ See: [Emergency Fund](economics/personal-finance/protection/emergency-fund.md)
 **Components:**
 
 **Asset Allocation:**
+
 - Diversification across equity, debt, gold, real estate
 - Based on risk tolerance and time horizon
 - Rebalancing annually or when allocation drifts `>5%`
 
 **Risk Management:**
+
 - Don't put all eggs in one basket
 - Diversify across asset classes, sectors, geographies
 - Match risk to goals and life stage
 
 **Goal-Based Planning:**
+
 - Short-term (`<3` years): FD, liquid funds, debt funds
 - Medium-term (3-7 years): Hybrid funds, balanced allocation
 - Long-term (`>7` years): Equity funds, equity stocks
@@ -75,12 +82,14 @@ See: [Asset Allocation Models](economics/investment-frameworks/portfolio-constru
 **Components:**
 
 **Tax Minimization:**
+
 - Utilize deductions (80C, 80D, 80CCD, etc.)
 - Choose right investment structure
 - Harvest tax losses
 - Time capital gains strategically
 
 **Capital Gains vs Income Tax:**
+
 - **LTCG (Long-term Capital Gains):** More favorable rates
   - Equity: 12.5% on gains `>` Rs 1.25 lakh
   - Debt: 20% with indexation
@@ -90,6 +99,7 @@ See: [Asset Allocation Models](economics/investment-frameworks/portfolio-constru
 - **Income Tax:** Highest burden (up to 30% + cess)
 
 **Portfolio Impact:**
+
 - Tax-efficient withdrawal strategies
 - Prioritize LTCG over STCG or income
 - Location optimization (equity vs debt in different accounts)
@@ -106,24 +116,28 @@ See: [Taxation](economics/taxation/)
 **Components:**
 
 **Financial Tracking:**
+
 - Monthly income and expense tracking
 - Net worth calculation (quarterly/annually)
 - Budget vs actuals review
 - Portfolio performance monitoring
 
 **Continuity Plan:**
+
 - Ensure dependents can continue in case of your demise
 - Will and testament
 - Nominations on all accounts (bank, demat, insurance, MF, EPF/PPF)
 - Important documents shared with family
 
 **Document Management:**
+
 - Centralized file with all financial documents
 - Digital + physical backups
 - Password manager for online accounts
 - Letter of instruction (asset locations, contacts)
 
 **Estate Planning:**
+
 - Will drafted and registered
 - Right nominations selected and updated
 - Executor named
@@ -136,12 +150,14 @@ See: [Legacy and Estate Planning](economics/personal-finance/wealth-building/leg
 **Common Mistake:** Focus only on Pillar 2 (Investments)
 
 **Reality:**
+
 - No life insurance → Family struggles if you die
 - No health insurance → Medical emergency wipes out investments
 - Poor tax planning → Government takes 30%+ of returns
 - No administration → Family can't access assets after your death
 
 **Holistic Approach:**
+
 - **Protection first** - Build safety net
 - **Invest systematically** - Grow wealth
 - **Optimize taxes** - Keep more of your returns
@@ -152,20 +168,24 @@ See: [Legacy and Estate Planning](economics/personal-finance/wealth-building/leg
 ### For Young Professionals (20s-30s)
 
 **Protection:** 40%
+
 - Term insurance (20x income)
 - Health insurance
 - Emergency fund (6 months)
 
 **Investments:** 40%
+
 - Aggressive equity allocation (70-80%)
 - Start SIPs early
 - Goal-based planning
 
 **Taxation:** 10%
+
 - Use 80C efficiently
 - Tax-saving MFs
 
 **Administration:** 10%
+
 - Start tracking expenses
 - Create will
 - Update nominations
@@ -173,21 +193,25 @@ See: [Legacy and Estate Planning](economics/personal-finance/wealth-building/leg
 ### For Mid-Career (40s-50s)
 
 **Protection:** 30%
+
 - Increase health coverage
 - Increase emergency fund (12 months)
 - Top-up life insurance if needed
 
 **Investments:** 45%
+
 - Balanced allocation (50-60% equity)
 - Focus on goal achievement
 - Rebalancing regularly
 
 **Taxation:** 15%
+
 - Tax harvesting
 - Optimize structure
 - Plan for retirement taxation
 
 **Administration:** 10%
+
 - Regular net worth tracking
 - Estate planning
 - Teach children financial literacy
@@ -195,21 +219,25 @@ See: [Legacy and Estate Planning](economics/personal-finance/wealth-building/leg
 ### For Pre-Retirement (50s-60s)
 
 **Protection:** 25%
+
 - Maintain health insurance
 - Build medical corpus
 - Adequate emergency fund
 
 **Investments:** 40%
+
 - Shift to stability (30-40% equity)
 - Generate passive income
 - Preserve capital
 
 **Taxation:** 20%
+
 - Retirement withdrawal tax planning
 - Annuity vs SWP decision
 - Optimize tax on pension
 
 **Administration:** 15%
+
 - Complete estate planning
 - Financial independence for spouse
 - Detailed continuity plan
@@ -223,10 +251,12 @@ See: [Legacy and Estate Planning](economics/personal-finance/wealth-building/leg
 **0.01% Liquid Net Worth Rule:**
 
 Example with Rs 1 Cr liquid net worth:
+
 - 0.01% of Rs 1 Cr = Rs 1,000
 - Don't think about spending up to Rs 1,000 (max 2x/day)
 
 **Results:**
+
 - Stop looking at coffee prices
 - Stop checking restaurant menu prices
 - Don't worry about Uber costs
@@ -259,6 +289,7 @@ Middle-class thinks these are assets:
 ### Financial Discipline
 
 **When to Say No:**
+
 - "I've got big plans that will need money, so I'll skip this Goa trip. But let's hang out before you go!" ✅
 - Being honest about financial priorities
 - Peer pressure vs financial goals
@@ -266,6 +297,7 @@ Middle-class thinks these are assets:
 ### Money Decisions
 
 **Thinking Framework:**
+
 - Decisions while earning Rs 10-12K/month: Every rupee mattered
   - Can I afford auto if running late?
   - How to eat under Rs 60/meal?

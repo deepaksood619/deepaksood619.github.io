@@ -176,7 +176,7 @@ This directory contains comprehensive company analyses, sector reports, peer com
 
 #### Marvell Technology Inc
 
-- [Marvell Technology - Comprehensive Investment Analysis (June 9, 2026)](economics/company-analysis/companies/semiconductors/marvell-technology-comprehensive-2026-06-09.md)
+- [Marvell Technology - Comprehensive Investment Analysis (June 9, 2026)](economics/company-analysis/companies/semiconductors/marvell-technology-comprehensive.md)
   - **Type:** Comprehensive Analysis (Fundamental + Technical + Valuation)
   - **Ticker:** NASDAQ:MRVL
   - **Recommendation:** HOLD (Current Shareholders) / WAIT (New Investors)

@@ -109,9 +109,9 @@ GPD can be measured in several different ways.  The most common methods include:
 - China GDP - 14.7 lakh crore USD (14.7 trillion)
 - India GDP - 2.6 lakh crore USD (2.6 trillion)
 
-![image](media/richest-countries-by-gdp.jpg)
+![image](../../media/richest-countries-by-gdp.jpg)
 
-![The world's top economies and 10 years of growth](media/Screenshot%202025-03-06%20at%205.20.59%20PM.jpg)
+![The world's top economies and 10 years of growth](../../media/Screenshot%202025-03-06%20at%205.20.59%20PM.jpg)
 
 ## Links
 

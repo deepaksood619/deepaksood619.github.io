@@ -15,12 +15,14 @@ Understanding the difference between active and passive income is crucial for bu
 Income where the time and effort you put in pays for just that time.
 
 **Characteristics:**
+
 - Direct exchange: time/effort for money
 - Stops when you stop working
 - Linear relationship (work more = earn more)
 - Requires ongoing active participation
 
 **Examples:**
+
 - Salary from employment
 - Hourly wages
 - Freelance project fees
@@ -31,12 +33,14 @@ Income where the time and effort you put in pays for just that time.
 Income where past efforts make you money continuously (24/7), without requiring ongoing active work.
 
 **Characteristics:**
+
 - Decoupled from active time investment
 - Continues generating income with minimal ongoing effort
 - Scalable (same effort can generate increasing returns)
 - Builds long-term wealth
 
 **Examples:**
+
 - Dividend income from stocks
 - Interest from fixed deposits/bonds
 - Rental income from real estate
@@ -48,7 +52,7 @@ Income where past efforts make you money continuously (24/7), without requiring 
 
 *"Passive income is a crucial part of your retirement plan"*
 
-### Benefits:
+### Benefits
 
 1. **Financial Independence:** Reduces dependence on active work
 2. **Time Freedom:** Money works for you instead of you working for money
@@ -61,22 +65,26 @@ Income where past efforts make you money continuously (24/7), without requiring 
 ### Investment-Based Passive Income
 
 **Equity Investments:**
+
 - Dividend-paying stocks
 - Equity mutual funds (SWP - Systematic Withdrawal Plan)
 - Index funds with dividend reinvestment
 
 **Debt Investments:**
+
 - Fixed deposits
 - Bonds (government, corporate)
 - Debt mutual funds
 - High-yield fixed income instruments
 
 **Real Estate:**
+
 - Rental properties
 - REITs (Real Estate Investment Trusts)
 - Fractional real estate platforms
 
 **Alternative Investments:**
+
 - P2P lending platforms
 - Invoice discounting
 - Structured debt products
@@ -95,6 +103,7 @@ See: [Alternative Investments](economics/personal-finance/alternative-assets/)
 Achieving Rs 1 lakh monthly passive income requires systematic planning and disciplined investing.
 
 **Key Strategies:**
+
 - Start early (power of compounding)
 - Consistent investment through SIPs
 - Diversified portfolio across asset classes
@@ -105,7 +114,7 @@ Read: [Smart Investment: How to Get Rs 1 Lakh Monthly Passive Income](https://m.
 
 ## Transition from Active to Passive
 
-### Stages:
+### Stages
 
 1. **Accumulation Phase (Age 20-40):**
    - Maximize active income
@@ -128,18 +137,22 @@ Read: [Smart Investment: How to Get Rs 1 Lakh Monthly Passive Income](https://m.
 ## Balancing Active and Passive Income
 
 **Early Career (20s-30s):**
+
 - 90% active, 10% passive
 - Focus: Build active income, invest aggressively
 
 **Mid Career (40s-50s):**
+
 - 60% active, 40% passive
 - Focus: Grow passive income streams, reduce active work gradually
 
 **Pre-Retirement (50s-60s):**
+
 - 30% active, 70% passive
 - Focus: Transition to passive income dependence
 
 **Retirement (60s+):**
+
 - 0-10% active, 90-100% passive
 - Focus: Sustainable withdrawals, capital preservation
 

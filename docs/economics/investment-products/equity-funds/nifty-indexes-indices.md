@@ -1,8 +1,8 @@
 # Nifty Indexes / Indices
 
-![Sensex then versus now](media/Pasted%20image%2020241006231135.jpg)
+![Sensex then versus now](../../../media/Pasted%20image%2020241006231135.jpg)
 
-![Most profitable companies - nifty50](media/Screenshot%202025-09-28%20at%202.50.36%20PM.jpg)
+![Most profitable companies - nifty50](../../../media/Screenshot%202025-09-28%20at%202.50.36%20PM.jpg)
 
 ## Categories
 

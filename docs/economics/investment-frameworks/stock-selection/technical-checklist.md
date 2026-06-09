@@ -36,11 +36,13 @@ Use this 6-point checklist for every trade setup:
 ### 1. ✅ Recognizable Candlestick Pattern
 
 **The stock should form a recognizable pattern:**
+
 - Bullish: Hammer, Morning Star, Bullish Engulfing
 - Bearish: Shooting Star, Evening Star, Bearish Engulfing
 - Continuation: Doji, Spinning Top at support/resistance
 
 **Flexibility Principle:**
+
 - Textbook definitions are guidelines, not absolutes
 - Market conditions may create minor variations
 - Be flexible within limits - **quantify and verify**
@@ -53,16 +55,19 @@ See: [Candlestick Patterns](economics/market-mechanics/technical-analysis/techni
 **S&R should confirm the trade:**
 
 **For Long Trades:**
+
 - Low of the pattern should be **around support**
 - Stop loss below support level
 - Risk-reward favorable from support
 
 **For Short Trades:**
+
 - High of the pattern should be **around resistance**
 - Stop loss above resistance level
 - Risk-reward favorable from resistance
 
 **S&R Guidelines:**
+
 - Previous highs/lows
 - Psychological levels (round numbers)
 - Fibonacci retracement levels
@@ -77,6 +82,7 @@ See: [Candlestick Patterns](economics/market-mechanics/technical-analysis/techni
 - Volume precedes price - institutional activity shows in volume first
 
 **Volume Analysis:**
+
 - Compare to 30-day average volume
 - 2x average volume = strong confirmation
 - Declining volume in uptrend = warning
@@ -94,6 +100,7 @@ See: [Candlestick Patterns](economics/market-mechanics/technical-analysis/techni
   - Recognizable Dow formations
 
 **Trade Alignment:**
+
 - **Best:** Trade aligned with primary trend
 - **Caution:** Trade against secondary trend (counter to primary)
 - **Avoid:** Trade against strong primary trend
@@ -105,11 +112,13 @@ See: [Candlestick Patterns](economics/market-mechanics/technical-analysis/techni
 **Indicators should confirm:**
 
 **If Indicators Confirm:**
+
 - **Scale position size higher**
 - Increases conviction
 - Better risk-reward
 
 **If Indicators Don't Confirm:**
+
 - **Reduce position size** (e.g., 300 shares instead of 500)
 - Still take the trade if first 4 points are solid
 - Indicators are supporting evidence, not primary decision factor
@@ -121,6 +130,7 @@ See: [Candlestick Patterns](economics/market-mechanics/technical-analysis/techni
 *"I would NOT do this with the first three checklist points. For example, if the low of the bullish hammer does not coincide with support, I'll reconsider the plan or skip the opportunity."*
 
 **Indicator Hierarchy:**
+
 - **Critical:** Pattern, S&R, Volume
 - **Supporting:** Indicators (MACD, RSI, etc.)
 
@@ -129,16 +139,19 @@ See: [Candlestick Patterns](economics/market-mechanics/technical-analysis/techni
 **RRR should be satisfactory:**
 
 **Guidelines by Experience:**
+
 - **Complete Beginner:** RRR as high as possible (provides margin of safety)
 - **Active Trader:** Minimum RRR of 1.5
 
 **Calculation:**
+
 ```
 RRR = Potential Profit / Potential Loss
 RRR = (Target - Entry) / (Entry - Stop Loss)
 ```
 
 **Example:**
+
 - Entry: Rs 100
 - Target: Rs 115
 - Stop Loss: Rs 95
@@ -152,6 +165,7 @@ RRR = (Target - Entry) / (Entry - Stop Loss)
 - **Weakness** = Bearish (red) candle
 
 **Rules:**
+
 - When **buying**, ensure it's a blue candle day
 - When **selling**, ensure it's a red candle day
 - Don't buy on red days, don't sell on green days
@@ -159,10 +173,12 @@ RRR = (Target - Entry) / (Entry - Stop Loss)
 ### Look for Prior Trend
 
 **Reversal Setups:**
+
 - Bullish pattern → Prior trend should be **bearish**
 - Bearish pattern → Prior trend should be **bullish**
 
 **Continuation Setups:**
+
 - Pattern confirms existing trend
 - Trend is your friend
 
@@ -171,6 +187,7 @@ RRR = (Target - Entry) / (Entry - Stop Loss)
 **Karnataka Bank Limited - Bullish Trade:**
 
 **Checklist Review:**
+
 1. ✅ Bullish hammer (recognizable pattern)
 2. ✅ Low of hammer coincides with support
 3. ✅ Volumes above average
@@ -183,12 +200,14 @@ RRR = (Target - Entry) / (Entry - Stop Loss)
 **Scenario 2 - Missing Indicator Confirmation:**
 
 If first 3 points are met but no MACD crossover:
+
 - **Still buy**, but reduce to 300 shares (60% position)
 - First 3 points are more important than indicators
 
 **Scenario 3 - Missing S&R Confirmation:**
 
 If hammer low doesn't coincide with support:
+
 - **Reconsider the plan**
 - May skip opportunity entirely
 - Look for another setup
@@ -207,12 +226,14 @@ If hammer low doesn't coincide with support:
 ### Naval Ravikant - How to Get Rich
 
 **Wealth Creation:**
+
 - Seek **wealth**, not money or status
 - **Wealth** = assets that earn while you sleep
 - **Money** = transfer mechanism for time and wealth
 - **Status** = place in social hierarchy
 
 **Key Principles:**
+
 1. **Ethical wealth creation is possible** - Don't despise wealth
 2. **Ignore status games** - Focus on wealth creation
 3. **Don't rent out your time** - Must own equity for freedom
@@ -221,12 +242,14 @@ If hammer low doesn't coincide with support:
 6. **Leverage compound interest** - All returns come from compounding
 
 **Leverage:**
+
 - **Capital leverage:** Money working for you
 - **Labor leverage:** People working for you (hardest to get)
 - **Code & Media leverage:** Permissionless - software/content working 24/7
 - An **army of robots** is available - data centers working for you
 
 **Specific Knowledge:**
+
 - Cannot be trained (if trainable, you're replaceable)
 - Found by pursuing genuine curiosity and passion
 - Feels like play to you, looks like work to others
@@ -238,6 +261,7 @@ If hammer low doesn't coincide with support:
 ### Psychology of Money (Morgan Housel)
 
 **Key Lessons:**
+
 - **Being rich ≠ being wealthy**
 - **Staying wealthy** is different from getting wealthy
 - **Controlling your time** is the biggest wealth
@@ -258,6 +282,7 @@ If hammer low doesn't coincide with support:
 6. **Deep Specialization** in one thing
 
 **Market Crash Wisdom:**
+
 - Don't panic if portfolio is 50% down - it's natural
 - **Never panic sell**
 - **Take the opportunities** (buy the dip)
@@ -349,10 +374,12 @@ Value investing qualities:
 ## Tips
 
 **Market Timing:**
+
 - Buy long-term FDs during **high interest rate** environment
 - Don't buy too much mid/small/micro cap in bull run
 
 **Investment Philosophy:**
+
 - Max alpha (growth) with lowest beta (risk)
 - Positive risk-reward opportunity: Limited downside, unlimited upside
 - **Consumption smoothing:** Balance spending today vs saving for future

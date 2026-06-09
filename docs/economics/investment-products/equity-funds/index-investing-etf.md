@@ -23,7 +23,7 @@ This provides diversification in the rules. When an index house or fund house pr
 
 ## Strategic (smart beta) indices
 
-![image](media/Mutual-Funds-image2.jpg)
+![image](../../../media/Mutual-Funds-image2.jpg)
 
 ## NIFTY Alpha 30 Index
 
@@ -44,11 +44,11 @@ This provides diversification in the rules. When an index house or fund house pr
 - 30 least volatile stocks in the NIFTY 100
 - It is a 30 stock index selected from NIFTY 100 and NIFTY Midcap 50 based on 50% Jensen's alpha and 50% low volatility. The index weight is capped at 5%.
 
-![image](media/Mutual-Funds-image3.jpg)
+![image](../../../media/Mutual-Funds-image3.jpg)
 
-![image](media/Mutual-Funds-image4.jpg)
+![image](../../../media/Mutual-Funds-image4.jpg)
 
-![image](media/Mutual-Funds-image5.jpg)
+![image](../../../media/Mutual-Funds-image5.jpg)
 
 - Just get the stocks of the index from Nifty 100 Low Vol 30
 
@@ -101,9 +101,9 @@ Index funds benefit from price discovery by the collective wisdom of the market.
 
 Another big reason most actively managed funds underperform index funds is their higher expenses. Actively managed funds charge significantly higher expense compared to index funds (the expense ratio of HDFC Equity Fund-Direct Plan is 1.27% per annum as against 0.1% expense of HDFC Index Fund Nifty 50 Plan-Direct Plan).
 
-![image](media/Mutual-Funds-image6.jpg)
+![image](../../../media/Mutual-Funds-image6.jpg)
 
-![nifty-50-companies](media/Screenshot%202023-05-28%20at%209.57.42%20AM.jpg)
+![nifty-50-companies](../../../media/Screenshot%202023-05-28%20at%209.57.42%20AM.jpg)
 
 https://freefincal.com/build-equity-mutual-fund-portfolio
 
@@ -170,7 +170,7 @@ An ETF is called an exchange-traded fund since it's traded on an exchange just l
 
 [Low Tracking Error Doesn't Guarantee Index Fund Return Matches Benchmark Return](https://freefincal.com/low-tracking-error-doesnt-guarantee-index-fund-return-matches-benchmark-return/)
 
-![Beat Nifty](media/Screenshot%202024-08-07%20at%2012.22.20%20AM.jpg)
+![Beat Nifty](../../../media/Screenshot%202024-08-07%20at%2012.22.20%20AM.jpg)
 
 ## ETFs
 

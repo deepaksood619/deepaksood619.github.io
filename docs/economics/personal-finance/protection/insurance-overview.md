@@ -12,7 +12,7 @@ How much cover is needed
 
 [Term Insurance Plan Calculator 2024 | Ditto](https://joinditto.in/term-insurance/cover-calculator/)
 
-![How to select a term insurance plan](media/Pasted%20image%2020240913155100.jpg)
+![How to select a term insurance plan](../../../media/Pasted%20image%2020240913155100.jpg)
 
 ## Term life insurance
 

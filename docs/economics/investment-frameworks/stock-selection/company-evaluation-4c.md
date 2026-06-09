@@ -38,7 +38,7 @@ Finally, there is the compassionate side of management. And while this might com
 
 To put it differently, a compassionate management is like building a digital moat around one's business which not only attracts the best talents in the industry but also retains these happy-to-work employees.
 
-![image](media/Company's-Management-image1.jpg)
+![image](../../../media/Company's-Management-image1.jpg)
 
 ## Founder-led Companies vs Corporate Companies
 

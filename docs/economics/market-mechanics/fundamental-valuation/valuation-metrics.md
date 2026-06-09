@@ -7,7 +7,7 @@
 - **Price to Sales Ratio**
 - **EV to EBITDA**
 
-![image](media/Market-Terms_Valuation-Metrics-image1.jpg)
+![image](../../../media/Market-Terms_Valuation-Metrics-image1.jpg)
 
 [The invisible threat to portfolio performance \| Time correction - YouTube](https://www.youtube.com/watch?v=YqLJTfyPxcU)
 
@@ -139,13 +139,13 @@ EV = Market Capitalization + Debt - Cash
 
 - Ignores depreciation
 
-![image](media/Market-Terms_Valuation-Metrics-image1.jpg)
+![image](../../../media/Market-Terms_Valuation-Metrics-image1.jpg)
 
 ## Graham Number
 
 The Graham number or Benjamin Graham number is a figure used in [securities](https://en.wikipedia.org/wiki/Securities) investing that measures a stock's so-called fair value. Named after [Benjamin Graham](https://en.wikipedia.org/wiki/Benjamin_Graham), the founder of [value investing](https://en.wikipedia.org/wiki/Value_investing), the Graham number can be calculated as follows:
 
-![image](media/Market-Terms_Valuation-Metrics-image2.jpg)
+![image](../../../media/Market-Terms_Valuation-Metrics-image2.jpg)
 
 The final number is, theoretically, the maximum price that a defensive investor should pay for the given stock. Put another way, a stock priced below the Graham Number would be considered a good value, if it also meets a number of other criteria.
 

@@ -64,6 +64,6 @@ The United States holds the largest official gold reserves in the world, followe
 
 ## Largest sovereign wealth funds
 
-![image](media/TODO-Financial-Finance-Investing-image2.jpg)
+![image](../../media/TODO-Financial-Finance-Investing-image2.jpg)
 
-![image](media/largest-stock-markets.jpg)
+![image](../../media/largest-stock-markets.jpg)

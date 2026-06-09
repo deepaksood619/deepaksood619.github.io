@@ -53,7 +53,7 @@ The debt-to-income (DTI) ratio is a personal finance measure that compares an in
 - A DTI of 43% is typically the highest ratio a borrower can have and still get qualified for a mortgage, but lenders generally seek ratios of no more than 36%.
 - A low DTI ratio indicates sufficient income relative to debt servicing, and makes a borrower more attractive.
 
-![image](media/Finance-Terms-image1.jpg)
+![image](../../media/Finance-Terms-image1.jpg)
 
 https://www.investopedia.com/terms/d/dti.asp
 

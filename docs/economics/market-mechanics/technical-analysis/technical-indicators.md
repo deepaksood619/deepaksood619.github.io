@@ -84,7 +84,7 @@ The term "Relative Strength Index" can be a bit misleading as it does not compar
 
 The formula to calculate the RSI is as follows:
 
-![image](media/Market-Terms_Technical-Indicators-image1.jpg)
+![image](../../../media/Market-Terms_Technical-Indicators-image1.jpg)
 
 The objective of using RSI is to help the trader identify over sold and overbought price areas. Overbought implies that the positive momentum in the stock is so high that it may not be sustainable for long and hence there could be a correction. Likewise, an oversold position indicates that the negative momentum is high leading to a possible reversal.
 

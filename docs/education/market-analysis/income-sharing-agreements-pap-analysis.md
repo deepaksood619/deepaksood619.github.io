@@ -17,6 +17,7 @@ Income Sharing Agreements (ISA) and Pay After Placement (PAP) are deferred tuiti
 ### Income Sharing Agreement (ISA)
 
 **Structure:**
+
 - **Upfront Cost:** ₹0 (or minimal)
 - **Payment Trigger:** Employment above minimum salary threshold
 - **Payment Amount:** Fixed % of gross salary (e.g., 15% of monthly income)
@@ -24,12 +25,14 @@ Income Sharing Agreements (ISA) and Pay After Placement (PAP) are deferred tuiti
 - **Example:** Lambda School (US), Microverse (global)
 
 **Typical Terms (US Market):**
+
 - 10-17% of gross income
 - 24-48 month payment period
 - Salary threshold: $50,000/year (U.S.)
 - Payment cap: 1.5-2.5x tuition value
 
 **Typical Terms (India Market - Estimated, Unverified):**
+
 - 15-20% of gross monthly salary
 - 24-36 month payment period
 - Salary threshold: ₹3-5 LPA
@@ -38,6 +41,7 @@ Income Sharing Agreements (ISA) and Pay After Placement (PAP) are deferred tuiti
 ### Pay After Placement (PAP)
 
 **Structure:**
+
 - **Upfront Cost:** ₹0
 - **Payment Trigger:** Employment above minimum salary threshold
 - **Payment Amount:** Fixed monthly installments (not % of salary)
@@ -45,6 +49,7 @@ Income Sharing Agreements (ISA) and Pay After Placement (PAP) are deferred tuiti
 - **Example:** Masai School (India), some coding bootcamps
 
 **Verified Example - Masai School (High Confidence):**
+
 - ₹0 upfront cost
 - Payment trigger: Placement `>₹3.5 LPA`
 - Fixed installments: ₹6,944-₹15,000/month
@@ -73,6 +78,7 @@ Income Sharing Agreements (ISA) and Pay After Placement (PAP) are deferred tuiti
 - **PAP (Masai fixed):** ₹10,000/month × 36 = ₹3.6 lakhs total (same regardless of ₹10L or ₹5L salary)
 
 **Strategic Difference:**
+
 - ISA: Platform earns MORE from high-salary placements → incentive to maximize salary
 - PAP: Platform earns SAME from all placements above threshold → incentive to maximize placement volume
 
@@ -109,6 +115,7 @@ Income Sharing Agreements (ISA) and Pay After Placement (PAP) are deferred tuiti
 4. Agreement concludes after payment term or cap reached
 
 **Non-Placement Scenario:**
+
 - If student NOT placed within guarantee period (e.g., Masai's 1 year), payment obligation is WAIVED
 - Student owes ₹0 to platform
 
@@ -141,6 +148,7 @@ Or: Placement Rate (P%) ≥ C / R
 **Interpretation:** Masai needs `>55.6%` placement rate to break even (if assumptions are correct).
 
 **Reality Check (Unverified Assumptions):**
+
 - Actual training cost unknown (could be lower with scale, higher with 1:1 support)
 - Actual revenue unknown (Masai charges ₹6,944-₹15,000, not fixed ₹10K)
 - Payment default rate unknown (students may stop paying mid-term)
@@ -224,21 +232,25 @@ Or: Placement Rate (P%) ≥ C / R
 ### 1. Efficacy - Do PAP/ISA Models Deliver Better Outcomes?
 
 **Unverified Claims:**
+
 - Do PAP/ISA platforms achieve higher placement rates than traditional bootcamps?
 - Do students in PAP/ISA programs complete at higher rates (less churn)?
 - Do PAP/ISA students earn higher salaries (better outcomes)?
 
 **Research Questions:**
+
 - **Placement Rate Comparison:** Masai School (PAP) vs Scaler (upfront) vs upGrad (upfront) - who has higher verified placement %?
 - **Completion Rate:** Do students drop out less when they owe ₹0 upfront?
 - **Salary Outcomes:** Does outcome-alignment incentive lead to higher salaries?
 - **Student Satisfaction:** Do PAP/ISA students report higher satisfaction (NPS scores)?
 
 **Why This Matters:**
+
 - If PAP/ISA doesn't improve outcomes, it's just a financing gimmick
 - If PAP/ISA DOES improve outcomes, it validates our adaptive learning + placement guarantee strategy
 
 **Current Data (Unverified):**
+
 - Masai claims 40K learners, 10K placements (REFUTED by adversarial verification)
 - Scaler claims 78% career transition rate (REFUTED by adversarial verification)
 - No independent third-party audit of PAP vs traditional bootcamp outcomes
@@ -246,6 +258,7 @@ Or: Placement Rate (P%) ≥ C / R
 ### 2. Economics - Are PAP/ISA Models Financially Viable?
 
 **Unverified Questions:**
+
 - What placement rate is required for PAP/ISA to break even?
 - What % of placed students default on payments (stop paying mid-term)?
 - How long does it take to collect full revenue (cash flow delay = 3+ years)?
@@ -264,6 +277,7 @@ Or: Placement Rate (P%) ≥ C / R
 | LTV/CAC | Unknown | Unknown | ✅ Critical gap |
 
 **Research Questions:**
+
 - **Break-Even Placement Rate:** What % placement is required to cover training costs + operations?
 - **Payment Default Rate:** What % of students stop paying mid-term (e.g., job loss, emigration, refusal)?
 - **Collection Costs:** How much does it cost to track 10,000 students paying monthly for 3 years?
@@ -271,10 +285,12 @@ Or: Placement Rate (P%) ≥ C / R
 - **Venture Scalability:** Do PAP/ISA models generate enough margin to justify VC investment?
 
 **Why This Matters:**
+
 - If PAP/ISA models are financially unviable, they're unsustainable (see Lambda School bankruptcy 2024)
 - If they ARE viable, we need to understand break-even thresholds for our own model
 
 **Current Data (Red Flags):**
+
 - Lambda School (US): Raised $74M, valued at $150M (2019), filed bankruptcy/restructuring (2024)
 - Masai School: Claims 300% placement growth, but metrics unverified
 - No public P&L statements from any PAP/ISA platform
@@ -282,39 +298,46 @@ Or: Placement Rate (P%) ≥ C / R
 ### 3. Regulatory & Legal Risks
 
 **Unverified Questions:**
+
 - Are ISAs classified as loans (subject to lending regulations)?
 - Are PAP agreements enforceable in India (contract law)?
 - What happens if student emigrates (cross-border collection)?
 - Consumer protection issues: Can students discharge ISA/PAP in bankruptcy?
 
 **Known Issues (US Market):**
+
 - CFPB classified some ISAs as loans → Subject to Truth in Lending Act
 - State-level ISA regulations vary (California, Colorado have specific rules)
 - Lambda School settled with FTC over misleading placement claims
 
 **Unknown (India Market):**
+
 - Are PAP/ISA agreements governed by Contract Act 1872, or other laws?
 - Do consumer protection laws limit enforceability?
 - Tax treatment: Is PAP/ISA payment considered tuition (deductible) or debt service?
 
 **Why This Matters:**
+
 - Regulatory classification affects business model viability
 - If PAP/ISA is legally risky, we need alternative structures
 
 ### 4. Student Experience & Behavior
 
 **Unverified Questions:**
+
 - Do students feel "trapped" in jobs they dislike to avoid default?
 - Does payment obligation create stress/mental health issues?
 - Do students strategically under-report income to avoid payments?
 - How do students perceive PAP/ISA vs traditional loans (stigma, fairness)?
 
 **Hypotheses:**
+
 - **Positive:** Students appreciate risk-free upfront access
 - **Negative:** Students resent paying "forever" (even if only 3 years)
 - **Gaming:** Students hide income, switch to cash-only jobs, emigrate to avoid payment
 
 **Why This Matters:**
+
 - Student satisfaction affects brand, referrals, word-of-mouth growth
 - Gaming/evasion affects economics (higher default rate = higher break-even threshold)
 
@@ -323,21 +346,25 @@ Or: Placement Rate (P%) ≥ C / R
 ### Lambda School (US) - ISA Model FAILURE
 
 **Background:**
+
 - Founded 2017 by Austen Allred
 - Coding bootcamp with 17% ISA (% of salary for 2 years, $30K cap)
 - Raised $74M, valued at $150M (2019)
 
 **Claimed Success (2019):**
+
 - 71% placement rate (self-reported)
 - $75K average starting salary
 - Rapid growth to 3,000+ students
 
 **Reality (2020-2024):**
+
 - FTC settlement for misleading placement claims (actual rate much lower)
 - $30M debt restructuring (2024) - effectively bankruptcy
 - Rebranded to "BloomTech" and pivoted away from ISA model
 
 **Lessons:**
+
 - ISA model FAILED at venture scale (could not sustain growth + cash flow + placement quality)
 - Self-reported placement rates were inflated (FTC enforcement)
 - Long revenue collection period (2-3 years) created cash flow crisis
@@ -348,22 +375,26 @@ Or: Placement Rate (P%) ≥ C / R
 ### Masai School (India) - PAP Model STATUS UNKNOWN
 
 **Verified (High Confidence):**
+
 - Pay After Placement model operational: ₹0 upfront, pay after placement `>₹3.5 LPA`
 - Fixed monthly payments: ₹6,944-₹15,000 for 30-36 months
 - 1-year placement guarantee (full refund if no job)
 
 **Unverified (Refuted by Adversarial Verification):**
+
 - ❌ 40,000+ active learners
 - ❌ 10,000+ graduates placed
 - ❌ 300% placement growth
 
 **Unknown:**
+
 - Actual placement rate (no independent audit)
 - Financial health (revenue, profitability, burn rate)
 - Student satisfaction (NPS, completion rate)
 - Default rate (% of students who stop paying)
 
 **Why It Matters:**
+
 - If Masai is profitable at scale, PAP model is viable in India
 - If Masai is burning cash (like Lambda School did), model may be unsustainable
 - **We cannot assess viability without financial transparency**
@@ -371,26 +402,31 @@ Or: Placement Rate (P%) ≥ C / R
 ### Microverse (Global) - ISA Model CONTINUING
 
 **Background:**
+
 - Remote coding bootcamp for global students (primarily emerging markets)
 - ISA: 15% of income for 3 years OR $15K cap
 - No upfront tuition
 
 **Status (2024-2026):**
+
 - Still operational (unlike Lambda School)
 - Claimed 1,000+ graduates placed globally
 - Focused on remote-first jobs (Latin America, Africa, Eastern Europe)
 
 **Differentiation vs Lambda School:**
+
 - Lower cost structure (remote-only, no physical campus)
 - Global student base (not limited to US market)
 - Focus on remote jobs (higher placement flexibility)
 
 **Unknown:**
+
 - Profitability (not disclosed)
 - Actual placement rate and default rate
 - Revenue scale (estimated $5-15M annually?)
 
 **Why It Matters:**
+
 - Microverse's survival suggests ISA CAN work with right cost structure
 - Remote-first + global model may be more sustainable than US-only
 - **Implication:** PAP/ISA + remote/global might work for our model
@@ -417,15 +453,18 @@ Or: Placement Rate (P%) ≥ C / R
 ### Hybrid Model Option (PAP + Traditional)
 
 **Structure:**
+
 - **Track 1 (PAP):** ₹0 upfront, pay ₹X/month after placement `>₹Y LPA`, 1-year guarantee
 - **Track 2 (Upfront Discount):** ₹50K-1L upfront, lower monthly payment or shorter term
 
 **Rationale:**
+
 - PAP Track: Captures affordability-constrained students (Tier 2/3, first-gen)
 - Upfront Track: Captures students who can pay (better cash flow, lower risk)
 - Platform hedges: If PAP default rate is high, upfront track stabilizes revenue
 
 **Risk:**
+
 - Adverse selection: PAP track attracts only high-risk students (self-selection bias)
 - Upfront track may cannibalize PAP (students who COULD pay upfront choose PAP for zero-risk)
 
@@ -472,6 +511,7 @@ Or: Placement Rate (P%) ≥ C / R
 ---
 
 **Next Steps:**
+
 1. Execute deep research on PAP/ISA efficacy and economics (prompts in job-platforms/todo.md)
 2. Financial modeling: Break-even analysis for our specific cost structure
 3. Legal consultation: India enforceability of PAP/ISA agreements

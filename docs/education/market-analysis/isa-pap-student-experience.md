@@ -25,6 +25,7 @@
 - Students from low-income backgrounds describe PAP as "the only way I could access quality education"
 
 **Outcome alignment is trusted:**
+
 - Students generally believe platforms offering PAP are more invested in their success
 - The 1-year placement guarantee (Masai) is a strong trust signal
 
@@ -53,12 +54,14 @@
 ### Effective APR Can Be Higher Than Loans
 
 **US context:** ISAs compared unfavorably to federal student loans when:
+
 - Graduate earns high income → pays more than loan would have cost
 - ISA has no forgiveness provisions (unlike federal loans: income-driven repayment, PSLF)
 - ISA payments don't build credit history (unlike student loans reporting to credit bureaus)
 - Effective APR calculation: 15% of $80K for 3 years = $36K on $20K training cost → implied APR 25-30%
 
 **India context (PAP fixed model):**
+
 - Masai's fixed model AVOIDS high-earner penalty: same Rs 3.6L regardless of salary
 - No interest explicitly (unlike loan with 10-12% interest)
 - Masai PAP compares more favorably to Indian education loans than US ISAs compare to US federal loans
@@ -70,12 +73,14 @@
 ### Known Risk Behaviors (Documented for ISA; India Applicability Estimated)
 
 **Income Hiding (Medium Risk):**
+
 - Students may under-report income to delay payment trigger (if salary-based ISA)
 - Cash-based informal employment is hard to verify
 - Freelance income (consulting, gig economy) harder to monitor than salaried employment
 - **PAP mitigation (Masai model):** Fixed monthly payment (not % of salary) reduces income-hiding incentive — there's no advantage to claiming lower salary if amount is fixed anyway
 
 **Emigration (High Risk for India):**
+
 - Indian tech workers emigrate to US/Canada/Europe at significant rates
 - Once abroad, India PAP collection is practically impossible
 - No cross-border enforcement mechanism
@@ -84,6 +89,7 @@
 **Evidence Quality:** Medium — documented as theoretical risk in ISA literature; India-specific incidence rates unknown
 
 **Job Manipulation (Low-Medium Risk):**
+
 - In salary-threshold PAP (trigger at Rs 3.5 LPA): Students might accept Rs 3.4 LPA offers to delay obligation
 - Masai's current threshold (Rs 3.5 LPA) is quite low — most tech roles in India start at Rs 4-8 LPA — so this risk is low for Masai's target market
 - If threshold rises, manipulation risk rises
@@ -102,12 +108,14 @@
 ### Debt Stigma: India vs US
 
 **India cultural context:**
+
 - Education debt carries stigma in India (financial burden on family honor)
 - However, PAP is framed as "not a loan" (Masai's explicit positioning) — this framing matters culturally
 - Fixed monthly payments (Rs 6,944-15,000) are similar to EMI structure which is culturally familiar
 - **Net assessment:** PAP is likely perceived more favorably than education loans in India if framed as "success fee" not "debt"
 
 **US cultural context (for comparison):**
+
 - ISAs generated backlash ("indentured servitude" framing)
 - Lambda School's aggressive marketing created distrust when placement rates proved false
 - US students more accustomed to questioning financial instruments
@@ -117,6 +125,7 @@
 ### Masai Reddit/Quora Sentiment (India)
 
 Limited India-specific data found. General themes from searches:
+
 - Positive: Students from non-metro cities credit Masai as their only affordable path to tech careers
 - Negative: Placement quality complaints, some students didn't get jobs meeting the threshold
 - Mixed: Payment collection process concerns (unclear communication post-placement)

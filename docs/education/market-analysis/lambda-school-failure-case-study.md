@@ -52,6 +52,7 @@ Lambda School is the **canonical failure case for ISA-funded coding bootcamps**.
 ### ISA Misclassification
 
 CFPB found BloomTech falsely claimed:
+
 - ISAs were "not loans" (CFPB classified them as loans subject to consumer protection law)
 - ISAs carried "no finance charge" (false — high effective APR when calculated)
 - School's interests were "aligned with students" via ISA structure (false — school's incentive was enrollment volume, not placement quality)
@@ -90,6 +91,7 @@ CFPB found BloomTech falsely claimed:
 **The problem:** When Lambda had 100 students, hand-holding got 70% placed. When they scaled to 3,000+ students, placement rate dropped to 30-50%. The placement infrastructure (employer relationships, career coaches, mock interviews) could not scale proportionally.
 
 **Why this matters for economics:** With 30-50% placement rate:
+
 - Break-even formula: Training cost / Revenue per placed student = Min placement rate
 - If training = $10K, ISA revenue = $30K (cap), break-even = 33% — barely achievable at 30%
 - But actual costs were higher ($47-50M/year ÷ ~3,000 students = ~$16K/student) — so real break-even was higher than 33%
@@ -129,6 +131,7 @@ App Academy (founded 2012, also uses ISA model) is still operational while Lambd
 ## Post-Collapse State: BloomTech (2024-2026)
 
 After the CFPB enforcement:
+
 - February 2024: $14.6M new round (debt restructuring, not growth capital)
 - Model shifted away from pure ISA toward third-party loans (traditional lending product)
 - Full-time instructors removed (cost cutting)

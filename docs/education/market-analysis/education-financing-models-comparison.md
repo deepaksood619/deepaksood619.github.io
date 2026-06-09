@@ -28,11 +28,13 @@
 **Structure:** Student pays Rs 2-5 lakh before training starts.
 
 **Pros:**
+
 - Immediate cash flow for platform
 - No payment default risk
 - Simpler operations (no 3-year tracking)
 
 **Cons:**
+
 - Excludes Tier 2/3 students (80%+ of addressable market in India)
 - Incentive misalignment: Platform earns regardless of placement quality
 - Students bear all financial risk
@@ -46,11 +48,13 @@
 **Structure:** Rs 0 upfront; student pays fixed monthly installments (Rs 6,944-15,000) for 36 months after placement above Rs 3.5 LPA.
 
 **Pros:**
+
 - Removes affordability barrier (market expansion 5-10x)
 - Incentive alignment: Platform paid only when student placed
 - Strong marketing differentiation
 
 **Cons:**
+
 - 3-year revenue collection delay (cash flow management required)
 - Default risk (India: no income monitoring infrastructure)
 - Vulnerable to hiring market cycles (Masai FY23-24 crisis)
@@ -66,11 +70,13 @@
 **Structure:** Employer pays all training costs. Student commits to 2-year employment with employer's client network. Student receives salary during work ($50-65K/year US).
 
 **Pros:**
+
 - Zero cost to student AND zero cost to platform (employer bears all cost)
 - Guaranteed placement (built into contract)
 - No default risk
 
 **Cons:**
+
 - Student is "locked" to employer for 2 years — limited career choice
 - Revature acts as staffing agency (employer gets cheap labor; students feel like commodities)
 - Quality concern: Employer selects students based on their needs, not student aspirations
@@ -78,6 +84,7 @@
 - Revature recently **removed mandatory employment contracts** (likely due to negative press)
 
 **India applicability:**
+
 - India's Apprentices Act 1961 provides a legal framework for employer-funded apprenticeship
 - Large IT services companies (TCS, Infosys) already run employer-funded training → natural extension
 - Risk: Employer-funded model creates employer-first (not student-first) incentives
@@ -91,11 +98,13 @@
 **Structure:** Free training + paid salary ($50-70K/year US) while learning on-the-job at top companies. Government subsidizes employer training costs (UK Apprenticeship Levy).
 
 **Pros:**
+
 - Best of all worlds: free for student, paid to learn, guaranteed job
 - Government support makes economics viable
 - Real work experience during training = higher employability
 
 **Cons:**
+
 - Requires government policy support (UK Apprenticeship Levy → not available in India at same scale)
 - Multiverse shifted to **corporate training programs in July 2024** (scaled back the apprenticeship model)
 - India's National Apprenticeship Promotion Scheme (NAPS) exists but underfunded
@@ -107,6 +116,7 @@
 ### 5. Free Model (42 Network, freeCodeCamp)
 
 **42 Network:**
+
 - 100% free, no instructors — peer-to-peer learning only
 - Students must pass intensive 4-week "Piscine" (immersive test) to gain entry
 - Funded by corporate sponsors and government grants
@@ -114,6 +124,7 @@
 - **Quality signal:** Many 42 graduates work at major tech companies
 
 **freeCodeCamp:**
+
 - 100% free nonprofit
 - Online-only, self-paced
 - 40,000+ alumni employed globally
@@ -121,6 +132,7 @@
 - No placement guarantee, no instructor support
 
 **India applicability:**
+
 - Free model works for self-motivated learners with internet access
 - Does NOT serve India's primary problem: lack of structured guidance + placement support for Tier 2/3 students
 - freeCodeCamp's completion rate is low (self-paced, no accountability)
@@ -155,6 +167,7 @@ After the 2022-2024 crisis, Masai adopted what is now the most battle-tested Ind
 | B2B (year 2+) | Enterprise upskilling contracts; AI assessment licensing | Stabilizes revenue; decouples from hiring cycle |
 
 **Why this works:**
+
 - PAP reaches Tier 2/3 students (massive market)
 - Upfront provides bridge cash flow while PAP payments accumulate
 - B2B makes platform resilient to hiring freezes (Masai's FY23-24 lesson)

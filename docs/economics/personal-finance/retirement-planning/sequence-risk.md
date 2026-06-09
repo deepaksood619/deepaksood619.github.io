@@ -45,12 +45,14 @@ Two investors with identical portfolios and identical average returns can end up
 ### Scenario: Rs 1 Cr corpus, Rs 5 lakh/year withdrawal
 
 **Good Sequence (gains early):**
+
 - Year 1: +20% → Corpus grows even with withdrawal
 - Year 2: +15% → Still growing
 - Year 3: -10% → Some loss but on larger base
 - **Result:** Corpus sustains longer
 
 **Bad Sequence (losses early):**
+
 - Year 1: -10% → Withdrawal from reduced corpus
 - Year 2: -5% → Further depletion
 - Year 3: +20% → Gain on much smaller base
@@ -73,6 +75,7 @@ Two investors with identical portfolios and identical average returns can end up
 ### 1. Reduce Equity Exposure Near Retirement
 
 **10 years before retirement:**
+
 - Start shifting from equity to debt
 - Gradual transition (not sudden)
 - Target: 30-40% equity at retirement (not 70-80%)
@@ -84,15 +87,18 @@ Two investors with identical portfolios and identical average returns can end up
 **3 Buckets Approach:**
 
 **Bucket 1 - Cash (2-3 years expenses):**
+
 - Liquid funds, FDs, savings
 - Use first during market downturns
 - Allows equity to recover
 
 **Bucket 2 - Moderate Risk (3-7 years):**
+
 - Debt funds, balanced funds
 - Refill Bucket 1 when markets are good
 
 **Bucket 3 - Growth (7+ years):**
+
 - Equity funds
 - Only touch in stable/bull markets
 - Allows long-term growth
@@ -125,11 +131,13 @@ Two investors with identical portfolios and identical average returns can end up
 **Purpose:** Maintains asset allocation, manages sequence risk
 
 **How it helps:**
+
 - **Sell high (equity in good years)** → Lock in gains
 - **Buy low (equity in bad years)** → Accumulate when cheap
 - Automatically implements anti-sequence risk strategy
 
 **Frequency:**
+
 - Annually
 - Or when allocation drifts `>5%` from target
 
@@ -138,12 +146,14 @@ See: [Portfolio Rebalancing](economics/investment-frameworks/portfolio-construct
 ## Real-World Example: 2008 Crisis
 
 **Retiree A (retired 2007, bad sequence):**
+
 - Corpus Rs 1 Cr, 80% equity
 - 2008: -50% crash
 - Withdrew Rs 5 lakh from Rs 50 lakh remaining
 - Recovery insufficient, corpus depleted by 2015
 
 **Retiree B (retired 2010, good sequence):**
+
 - Corpus Rs 1 Cr, 60% equity (reduced pre-retirement)
 - Markets already recovered
 - Withdrawals from stable/growing corpus
@@ -158,6 +168,7 @@ From SEBI RIA Akshay Nayak:
 **Question:** Can I take equity risk in retirement?
 
 **Answer:**
+
 - **Yes,** but **lower exposure** (30-40% max)
 - **Never 100%** in withdrawal phase
 - Need debt cushion for downturns

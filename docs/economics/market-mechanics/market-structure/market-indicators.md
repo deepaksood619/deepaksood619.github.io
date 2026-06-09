@@ -31,7 +31,7 @@ https://www.investopedia.com/terms/e/equityriskpremium.asp
 
 The Capital Asset Pricing Model (CAPM) describes the relationship between systematic risk and [expected return](https://www.investopedia.com/terms/e/expectedreturn.asp) for assets, particularly stocks.CAPM is widely used throughout finance for pricing risky [securities](https://www.investopedia.com/terms/s/security.asp) and generating expected returns for assets given the risk of those assets and [cost of capital](https://www.investopedia.com/terms/c/costofcapital.asp).
 
-![image](media/Mutual-Funds-image1.jpg)
+![image](../../../media/Mutual-Funds-image1.jpg)
 
 https://www.investopedia.com/terms/c/capm.asp
 

@@ -51,9 +51,9 @@ The modified duration (measured in years) of a bond is essentially the sensitivi
 
 ## Conditional Probabilities: Bond Rating and Default Rates
 
-![image](media/Mutual-Funds-image8.jpg)
+![image](../../../media/Mutual-Funds-image8.jpg)
 
-![image](media/Mutual-Funds-image9.jpg)
+![image](../../../media/Mutual-Funds-image9.jpg)
 
 ## A Probit Model: Hostile Acquisitions
 

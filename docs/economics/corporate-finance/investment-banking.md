@@ -99,7 +99,7 @@ Best Startup Accelerators 🚀
 22. Founders Fellowship ($150k for 5-10%)
 23. SPC Fellowship ($400k for 7% + $600k)
 
-![image](media/Investment-Banking-image1.jpg)
+![image](../../media/Investment-Banking-image1.jpg)
 
 ## Most popular types of private equity funding
 

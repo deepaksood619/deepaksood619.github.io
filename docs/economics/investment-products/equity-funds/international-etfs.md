@@ -216,7 +216,7 @@ The composition of the NASDAQ Composite is heavily weighted towards companies in
 	- FOF route may be easier than the broker route
 	- we do not recommend using the Nasdaq 100 product, as it is a sectoral fund and significantly riskier than the S&P 500
 
-![Top International FoFs open for subscription](media/Screenshot%202025-06-09%20at%2011.38.44%20PM.jpg)
+![Top International FoFs open for subscription](../../../media/Screenshot%202025-06-09%20at%2011.38.44%20PM.jpg)
 
 ## Others
 

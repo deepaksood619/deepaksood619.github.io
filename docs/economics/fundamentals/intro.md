@@ -12,9 +12,9 @@ Yes, the planet got destroyed, but for a beautiful moment in time we created a l
 
 ## How the economic machine works
 
-![image](media/eco-Intro-image1.jpg)
+![image](../../media/eco-Intro-image1.jpg)
 
-![image](media/eco-Intro-image2.jpg)
+![image](../../media/eco-Intro-image2.jpg)
 
 ### 1. Transactions
 
@@ -127,7 +127,7 @@ Book - https://www.principles.com/big-debt-crises Free pdf
 - Corporate action planning
 - Investor relation
 
-![money capabilities](media/Screenshot%202024-03-02%20at%207.21.17%20PM.jpg)
+![money capabilities](../../media/Screenshot%202024-03-02%20at%207.21.17%20PM.jpg)
 
 ## Others
 

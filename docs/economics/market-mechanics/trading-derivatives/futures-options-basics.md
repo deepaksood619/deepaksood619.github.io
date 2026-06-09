@@ -91,13 +91,13 @@ To enter into an option contract, the buyer must pay an option [premium](https:/
 
 Calls give the buyer the right, but not the obligation, to buy the underlying [asset](https://corporatefinanceinstitute.com/resources/knowledge/finance/marketable-securities/) at the strike price specified in the option contract. Investors buy calls when they believe the price of the underlying asset will increase and sell calls if they believe it will decrease.
 
-![image](media/Market-Terms_Futures-Options-Trading-image1.jpg)
+![image](../../../media/Market-Terms_Futures-Options-Trading-image1.jpg)
 
 ### Put options (right to sell)
 
 Puts give the buyer the right, but not the obligation, to sell the underlying asset at the strike price specified in the contract. The writer (seller) of the put option is obligated to buy the asset if the put buyer exercises their option. Investors buy puts when they believe the price of the underlying asset will decrease and sell puts if they believe it will increase.
 
-![image](media/Market-Terms_Futures-Options-Trading-image2.jpg)
+![image](../../../media/Market-Terms_Futures-Options-Trading-image2.jpg)
 
 ## Payoffs for Options: Calls and Puts
 
@@ -117,7 +117,7 @@ The call option seller's downside is potentially unlimited. As the spot price of
 
 An example is portrayed below, indicating the potential payoff for a call option on RBC stock, with an option premium of $10 and a strike price of $100. In the example, the buyer incurs a $10 loss if the share price of RBC does not increase past $100. Conversely, the writer of the call is in-the-money as long as the share price remains below $100.
 
-![image](media/Market-Terms_Futures-Options-Trading-image3.jpg)
+![image](../../../media/Market-Terms_Futures-Options-Trading-image3.jpg)
 
 ### Puts
 
@@ -127,7 +127,7 @@ The writer of the put is "out-of-the-money" if the spot price of the underlying 
 
 Figure 2 below shows the payoff for a hypothetical 3-month RBC put option, with an option premium of $10 and a strike price of $90. The buyer's potential loss is limited to the cost of the put option contract ($10).
 
-![image](media/Market-Terms_Futures-Options-Trading-image4.jpg)
+![image](../../../media/Market-Terms_Futures-Options-Trading-image4.jpg)
 
 ## Applications of Options: Calls and Puts
 
@@ -149,7 +149,7 @@ For the seller of a put option, things are reversed. Their potential profit is l
 
 Investors can benefit from downward price movements by either selling calls or buying puts. The upside to the writer of a call is limited to the option premium. The buyer of a put faces a potentially unlimited upside but has a limited downside, equal to the option's price. If the market price of the underlying security falls, the put buyer profits to the extent the market price declines below the option strike price. If the investor's hunch was wrong and prices don't fall, the investor only loses the option premium.
 
-![image](media/Market-Terms_Futures-Options-Trading-image5.jpg)
+![image](../../../media/Market-Terms_Futures-Options-Trading-image5.jpg)
 
 https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/options-calls-and-puts
 
@@ -182,7 +182,7 @@ Option Delta = Rate of change in premium wrt Underlying
 - ITM option have a delta of close to 1
 - OTM options have a delta of close to 0
 
-![image](media/Market-Terms_Futures-Options-Trading-image6.jpg)
+![image](../../../media/Market-Terms_Futures-Options-Trading-image6.jpg)
 
 [The Option Greeks - Delta](https://www.youtube.com/watch?v=I7YWC_j1ocI)
 

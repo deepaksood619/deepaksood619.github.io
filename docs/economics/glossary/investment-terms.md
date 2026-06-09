@@ -16,7 +16,7 @@ Trailing returns measure the performance of an investment over a fixed period of
 
 Rolling returns is based on calculating returns for a particular period on a continuous basis
 
-![image](media/Investment-Terms-image1.jpg)
+![image](../../media/Investment-Terms-image1.jpg)
 
 **Annual and Rolling Returns, helps gauge performance consistency or volatility of a fund or portfolio**
 
@@ -63,7 +63,7 @@ An absolute return can be misleading if you want to compare two investments. CAG
 
 CAGR factors in the time component which we had ignored when we computed the absolute return.
 
-![image](media/Investment-Terms-image2.jpg)
+![image](../../media/Investment-Terms-image2.jpg)
 
 Applying this to answer the question..
 
@@ -129,7 +129,7 @@ https://www.investopedia.com/terms/n/npv.asp
 
 MOIC is a quick indicator of the return on your investment. Another way to think about this is that it shows the total value of a portfolio. In quantifying this return, the metric focuses onhow muchrather thanwhen.
 
-![image](media/Investment-Terms-image3.jpg)
+![image](../../media/Investment-Terms-image3.jpg)
 
 For example, using the equation above, if I invested $100 and my total value is $500, the MOIC is 5x. You'll notice that time was not factored into this calculation. Two deals with an MOIC of 5x have the same return regardless ofwhenthey achieve it.
 

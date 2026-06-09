@@ -15,6 +15,7 @@ Alternative investments provide diversification beyond traditional stocks and bo
 Real Estate Investment Trusts allow investors to own commercial real estate without large capital requirements.
 
 **Key Characteristics:**
+
 - Pooled investment in income-generating real estate
 - Regular rental income distribution
 - Professional management
@@ -35,11 +36,13 @@ Real Estate Investment Trusts allow investors to own commercial real estate with
 ### REIT vs InVIT
 
 **REITs (Real Estate Investment Trusts):**
+
 - Focus: Commercial real estate
 - Assets: Office buildings, malls, warehouses
 - Income: Rental income from tenants
 
 **InVITs (Infrastructure Investment Trusts):**
+
 - Focus: Infrastructure assets
 - Assets: Roads, power transmission, telecom towers
 - Income: User fees, tolls, lease rentals
@@ -49,12 +52,14 @@ Read: [REIT vs InVIT Difference](https://news.onepercentclub.io/invest/whats-the
 ### Should REITs Be in Your Portfolio?
 
 **Pros:**
+
 - Regular income (rental yields typically 6-8%)
 - Real estate exposure without property management hassle
 - Inflation hedge
 - Portfolio diversification
 
 **Cons:**
+
 - Interest rate sensitivity
 - Market volatility (though less than stocks)
 - Limited capital appreciation compared to direct property
@@ -73,15 +78,18 @@ Platforms enabling retail investors to own commercial real estate in smaller pro
 4. Monthly rental income + price appreciation over time
 
 **Platforms:**
+
 - Strata - Investment in commercial property
 - PropShare
 - Others
 
 **Fees:**
+
 - Annual asset management fee: ~1%
 - Share of profits above hurdle rate
 
 **Benefits:**
+
 - Low entry barrier (few lakhs vs crores for direct ownership)
 - Professional management
 - Monthly rental income with built-in escalations
@@ -99,17 +107,20 @@ Direct lending to borrowers through online platforms, bypassing traditional bank
 - Platform provides: onboarding, credit evaluation, disbursement, collections
 
 **Platforms:**
+
 - Faircent
 - Lendbox
 - LiquiLoans
 - RupeeCircle
 
 **Key Features:**
+
 - Select borrowers by: profile, location, loan reason, tenure (3-36 months)
 - Desired interest rate: 12-35%
 - Risk mitigation through diversification across multiple borrowers
 
 **Risks:**
+
 - Default risk (borrower non-payment)
 - Platform risk (platform shutdown)
 - Illiquidity (cannot exit mid-tenure)
@@ -127,11 +138,13 @@ Financing working capital by purchasing vendor receivables at a discount.
 4. Investors earn return when buyer pays full amount
 
 **Platforms:**
+
 - KredX
 - Jiraaf
 - TradeCred
 
 **Investment Details:**
+
 - Minimum: Rs 50,000 (varies by deal)
 - Tenure: 30-90 days (short-term)
 - Returns: Pre-tax IRR up to 15%
@@ -144,11 +157,13 @@ Financing working capital by purchasing vendor receivables at a discount.
 Alternative to traditional FDs with higher yields.
 
 **Platforms:**
+
 - Wint Wealth
 - BondsKart
 - AltiFi
 
 **Product Types:**
+
 - Government bonds
 - AAA rated papers from lending institutions
 - BBB rated corporate bonds (higher risk, higher return)
@@ -156,6 +171,7 @@ Alternative to traditional FDs with higher yields.
 - Structured debt
 
 **Features:**
+
 - Investment as low as Rs 10,000
 - Higher interest than FDs
 - Range of risk-return profiles
@@ -178,9 +194,11 @@ Website: [Masterworks](https://www.masterworks.com)
 ### Startup/Private Equity Platforms
 
 **Growpital:** [Growpital](https://www.growpital.com/)
+
 - Agricultural investment opportunities
 
 **Tyke Invest:** [Tyke](https://tykeinvest.com/)
+
 - Invest in Indian startups
 - Angel investing opportunities
 

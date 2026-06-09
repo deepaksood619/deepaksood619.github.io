@@ -74,11 +74,11 @@ Flexi-cap and multi-cap funds both invest across large, mid, and small-cap stock
 
 [Best midcap mutual fund 2023 | Detail Comparison of best performing midcap funds - YouTube](https://www.youtube.com/watch?v=gxPrsLCq0H4)
 
-![large & mid cap funds: best downside protection](media/Screenshot%202024-12-15%20at%204.56.03%20PM.jpg)
+![large & mid cap funds: best downside protection](../../../media/Screenshot%202024-12-15%20at%204.56.03%20PM.jpg)
 
-![mid-cap funds: best downside protection](media/Screenshot%202024-12-15%20at%204.56.35%20PM.jpg)
+![mid-cap funds: best downside protection](../../../media/Screenshot%202024-12-15%20at%204.56.35%20PM.jpg)
 
-![small-cap funds](media/Screenshot%202024-12-15%20at%205.01.43%20PM.jpg)
+![small-cap funds](../../../media/Screenshot%202024-12-15%20at%205.01.43%20PM.jpg)
 
 [The Rising Mid-Cap Star You Can’t Ignore | Edelweiss Mid Cap Fund Review - YouTube](https://www.youtube.com/watch?v=SUjCGbVUtnA)
 
@@ -88,13 +88,13 @@ Flexi-cap and multi-cap funds both invest across large, mid, and small-cap stock
 - Large & Midcap: Motilal Oswal Large & Midcap
 - Flexi Cap: Motilal Oswal Flexi Cap
 
-![motilal-oswal-mf](media/Screenshot%202024-12-18%20at%2010.45.33%20PM.jpg)
+![motilal-oswal-mf](../../../media/Screenshot%202024-12-18%20at%2010.45.33%20PM.jpg)
 
 ## Momentum Investing
 
-![Momentum Investing](media/Screenshot%202024-05-01%20at%2011.50.48%20AM.jpg)
+![Momentum Investing](../../../media/Screenshot%202024-05-01%20at%2011.50.48%20AM.jpg)
 
-![Momentum Funds](media/Screenshot%202024-05-01%20at%2011.52.36%20AM.jpg)
+![Momentum Funds](../../../media/Screenshot%202024-05-01%20at%2011.52.36%20AM.jpg)
 
 Active - Quant Momentum Fund
 
@@ -162,7 +162,7 @@ In the multicap category, the allocation decision is left to the fund manager wh
 - ELSS: At least 80% in equities, lock-in of 3 years and tax benefit under section 80C
 	- [What should I do with ELSS MFs after switching to the new tax regime?](https://freefincal.com/what-should-i-do-with-elss-mfs-after-switching-to-the-new-tax-regime/)
 
-![image](media/Mutual-Funds-image7.jpg)
+![image](../../../media/Mutual-Funds-image7.jpg)
 
 ## 10(10D) Funds
 

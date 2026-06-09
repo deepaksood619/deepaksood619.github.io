@@ -2,7 +2,7 @@
 
 [Atlas SOIC Market Temp check](https://chartink.com/dashboard/149096)
 
-![Are Indian Companies Overvalued](media/Screenshot%202025-10-11%20at%2012.25.28%20AM.jpg)
+![Are Indian Companies Overvalued](../../../../media/Screenshot%202025-10-11%20at%2012.25.28%20AM.jpg)
 
 ## Zaggle
 

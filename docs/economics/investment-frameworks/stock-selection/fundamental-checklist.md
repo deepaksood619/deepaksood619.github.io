@@ -46,21 +46,25 @@ Classic value investing criteria from "The Intelligent Investor":
 ### Business Quality
 
 **Simple and Understandable:**
+
 - Can you explain what the company does in one sentence?
 - Do you understand the revenue model?
 - Is the industry simple or complex?
 
 **Consistent & Predictable Operating History:**
+
 - Stable revenue growth over 10+ years
 - Predictable cash flows
 - No major business model changes
 
 **Favorable Long-Term Prospects:**
+
 - Growing industry
 - Sustainable competitive advantage
 - Future demand for products/services
 
 **Presence of Economic Moat:**
+
 - Brand value (e.g., Coca-Cola, Apple)
 - Network effects (e.g., Facebook, Visa)
 - Cost advantages (e.g., Walmart, Amazon)
@@ -70,12 +74,14 @@ Classic value investing criteria from "The Intelligent Investor":
 ### Management Quality
 
 **Candid and Honest Managers:**
+
 - Transparent in annual reports
 - Admits mistakes
 - Clear communication with shareholders
 - No accounting manipulation
 
 **Leaders, Not Followers:**
+
 - Innovative thinking
 - Strategic vision
 - Execution capability
@@ -86,22 +92,26 @@ See: [Company Evaluation - 4C Framework](economics/investment-frameworks/stock-s
 ### Financial Metrics
 
 **High Return on Equity (ROE):**
+
 - ROE `>` 15% consistently
 - Compare with industry peers
 - Trending upward over time
 
 **Strong Owner's Earnings:**
+
 - Operating Cash Flow - Maintenance CapEx
 - Growing owner's earnings
 - Consistent free cash flow generation
 
 **High and Stable Profit Margins:**
+
 - Gross margin `>` 40% (varies by industry)
 - Operating margin `>` 15%
 - Net margin `>` 10%
 - Stable or expanding margins
 
 **Discounted Cash Flow (DCF) Valuation:**
+
 - Calculate intrinsic value using future cash flows
 - Margin of safety: Buy at 30-50% discount to intrinsic value
 - Conservative growth assumptions
@@ -109,11 +119,13 @@ See: [Company Evaluation - 4C Framework](economics/investment-frameworks/stock-s
 ### Market Psychology
 
 **Use Conservative Estimates:**
+
 - Don't extrapolate recent growth indefinitely
 - Use historical averages for projections
 - Build in margin of safety
 
 **Greed and Fear:**
+
 - Buy when others are fearful (market corrections)
 - Be cautious when others are greedy (euphoria)
 
@@ -122,6 +134,7 @@ See: [Company Evaluation - 4C Framework](economics/investment-frameworks/stock-s
 ### 1. Annual Report Review
 
 **Documents to Read:**
+
 - Chairman's/MD's letter to shareholders
 - Management Discussion & Analysis (MD&A)
 - Financial statements (5-year trend)
@@ -129,6 +142,7 @@ See: [Company Evaluation - 4C Framework](economics/investment-frameworks/stock-s
 - Notes to accounts (hidden details)
 
 **What to Look For:**
+
 - Business overview and strategy
 - Revenue breakdown by segment/geography
 - Major initiatives and investments
@@ -138,6 +152,7 @@ See: [Company Evaluation - 4C Framework](economics/investment-frameworks/stock-s
 ### 2. Financial Statement Analysis
 
 **Profit & Loss Statement:**
+
 - Revenue growth trend (YoY, QoQ)
 - Operating leverage (EBIT growth `>` Revenue growth)
 - Margin trends (expanding or contracting?)
@@ -145,6 +160,7 @@ See: [Company Evaluation - 4C Framework](economics/investment-frameworks/stock-s
 - Tax rate (abnormal changes?)
 
 **Balance Sheet:**
+
 - Asset quality (tangible vs intangible)
 - Inventory turnover
 - Receivables days (increasing = warning sign)
@@ -152,6 +168,7 @@ See: [Company Evaluation - 4C Framework](economics/investment-frameworks/stock-s
 - Contingent liabilities
 
 **Cash Flow Statement:**
+
 - Operating cash flow (positive and growing?)
 - Investing activities (growth CapEx vs maintenance)
 - Financing activities (raising debt vs paying down?)
@@ -160,6 +177,7 @@ See: [Company Evaluation - 4C Framework](economics/investment-frameworks/stock-s
 ### 3. Ratio Analysis
 
 **Valuation Ratios:**
+
 - Price-to-Earnings (PE)
 - Price-to-Book (PB)
 - Price-to-Sales (PS)
@@ -167,22 +185,26 @@ See: [Company Evaluation - 4C Framework](economics/investment-frameworks/stock-s
 - Dividend Yield
 
 **Profitability Ratios:**
+
 - Return on Equity (ROE)
 - Return on Capital Employed (ROCE)
 - Return on Assets (ROA)
 - Gross, Operating, Net Margins
 
 **Liquidity Ratios:**
+
 - Current Ratio (CA / CL)
 - Quick Ratio ((CA - Inventory) / CL)
 - Cash Ratio
 
 **Leverage Ratios:**
+
 - Debt-to-Equity
 - Interest Coverage (EBIT / Interest)
 - Debt Service Coverage Ratio
 
 **Efficiency Ratios:**
+
 - Asset Turnover
 - Inventory Turnover
 - Receivables Turnover
@@ -192,6 +214,7 @@ See: [Valuation Metrics](economics/market-mechanics/fundamental-valuation/valuat
 ### 4. Industry Analysis
 
 **Competitive Position:**
+
 - Market share
 - Competitive advantages
 - Barriers to entry
@@ -199,6 +222,7 @@ See: [Valuation Metrics](economics/market-mechanics/fundamental-valuation/valuat
 - Supplier/buyer bargaining power
 
 **Industry Trends:**
+
 - Growing, mature, or declining?
 - Regulatory changes
 - Technological disruption
@@ -246,12 +270,14 @@ From Benjamin Graham:
 - **Digital entertainment** - Netflix, gaming (mobile `>` console)
 
 **Weak/Declining:**
+
 - Home ownership (prefer renting)
 - Gold/jewelry purchases
 - Home cooking (order out frequently)
 - Two-wheelers (prefer ride-sharing)
 
 **Investment Implications:**
+
 - Growing: Tech companies, food delivery, education, healthcare, co-living, daycare
 - Declining: Real estate developers, gold retailers, traditional FMCG
 

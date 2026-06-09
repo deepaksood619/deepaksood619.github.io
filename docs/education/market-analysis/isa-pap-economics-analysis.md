@@ -62,7 +62,7 @@ PAP/ISA creates a **structural funding gap**: costs are immediate, revenue arriv
 ```
 Year 0: Enroll 100 students. Cost = Rs 2.5L × 100 = Rs 2.5 crore. Revenue = Rs 0.
 Year 1: Students training. Cost continues. Revenue = Rs 0.
-Year 2: Students placed (assumes 9-12mo training + 3mo job search). 
+Year 2: Students placed (assumes 9-12mo training + 3mo job search).
         Revenue starts: 70 students × Rs 10K/month × 12 months = Rs 84 lakh (Yr 2 only)
 Year 3: Full year payments: 70 × Rs 10K × 12 = Rs 84 lakh
 Year 4: Final year: 70 × Rs 10K × 12 = Rs 84 lakh
