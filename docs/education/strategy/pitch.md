@@ -8,6 +8,8 @@
 
 **Democratize skill development and career advancement through AI-powered learning**
 
+**Building AI-native adaptive learning platform for working professionals (25-45yo) seeking measurable salary increases through personalized skill development**
+
 **Learning SuperApp**
 
 **Mission:**
@@ -251,8 +253,6 @@ We're a **gym with a personal trainer**.
 3. No proof (can't show they learned)
 
 **We solve all three.**
-
----
 
 ## 1-Minute Pitch
 

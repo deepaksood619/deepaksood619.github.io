@@ -64,8 +64,8 @@ That's why they have introduced the hierarchical namespaces which will work on p
 
 This concept of ownership enables two additional types of behaviours:
 
-- **Policy inheritance:** if one namespace is a child of another, policy objects such as RBAC RoleBindings are [copied from the parent to the child](https://github.com/kubernetes-sigs/multi-tenancy/blob/master/incubator/hnc/docs/user-guide/concepts#basic-propagation) ⭐ 944
-- **Delegated creation:** you usually need cluster-level privileges to create a namespace, but hierarchical namespaces adds an alternative: [subnamespaces](https://github.com/kubernetes-sigs/multi-tenancy/blob/master/incubator/hnc/docs/user-guide/concepts#basic-subns) ⭐ 944 which can be manipulated using only limited permissions in the parent namespace.
+- **Policy inheritance:** if one namespace is a child of another, policy objects such as RBAC RoleBindings are [copied from the parent to the child](https://github.com/kubernetes-sigs/multi-tenancy/blob/master/incubator/hnc/docs/user-guide/concepts#basic-propagation) ⭐ 943
+- **Delegated creation:** you usually need cluster-level privileges to create a namespace, but hierarchical namespaces adds an alternative: [subnamespaces](https://github.com/kubernetes-sigs/multi-tenancy/blob/master/incubator/hnc/docs/user-guide/concepts#basic-subns) ⭐ 943 which can be manipulated using only limited permissions in the parent namespace.
 
 https://kubernetes.io/blog/2020/08/14/introducing-hierarchical-namespaces
 

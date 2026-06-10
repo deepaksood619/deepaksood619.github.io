@@ -117,7 +117,7 @@ The daemon accepts incoming traffic from *MySQL* clients and forwards it to back
 
 The proxy is designed to run continuously without needing to be restarted. Most configuration can be done at runtime using queries similar to SQL statements. These include runtime parameters, server grouping, and traffic-related settings.
 
-[GitHub - sysown/proxysql: High-performance MySQL proxy with a GPL license.](https://github.com/sysown/proxysql) ⭐ 6.7k
+[GitHub - sysown/proxysql: High-performance MySQL proxy with a GPL license.](https://github.com/sysown/proxysql) ⭐ 6.8k
 
 [ProxySQL - A High Performance Open Source MySQL Proxy](https://proxysql.com/)
 

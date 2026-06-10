@@ -108,7 +108,7 @@ Based on March 2026 data, **GPT-5.4-mini is a newer, more advanced "small" mod
 		- Requests per minute: ~15
 		- daily limit also for free requests = 200 per day
 - [Advancing medical AI with Med-Gemini](https://research.google/blog/advancing-medical-ai-with-med-gemini/)
-	- [GitHub - Google-Health/medgemma · GitHub](https://github.com/google-health/medgemma) ⭐ 1.4k
+	- [GitHub - Google-Health/medgemma · GitHub](https://github.com/google-health/medgemma) ⭐ 1.5k
 	- [Googles NEW "Med-Gemini" SURPRISES Doctors! (Googles New Medical AI) - YouTube](https://www.youtube.com/watch?v=SZS5WD1du3A&ab_channel=TheAIGRID)
 	- [MedGemma — Google DeepMind](https://deepmind.google/models/gemma/medgemma/)
 	- [Intelligent-Internet/II-Medical-8B · Hugging Face](https://huggingface.co/Intelligent-Internet/II-Medical-8B)
@@ -146,8 +146,8 @@ Based on March 2026 data, **GPT-5.4-mini is a newer, more advanced "small" mod
 - [PartyRock](https://partyrock.aws/)
 - [SQLCoder-2–7b: How to Reliably Query Data in Natural Language, on Consumer Hardware | by Sjoerd Tiemensma | Use AI | Medium](https://medium.com/use-ai/sqlcoder-2-7b-how-to-reliably-query-data-in-natural-language-on-consumer-hardware-cb352a3cf3ab)
 - [Improve performance of Falcon models with Amazon SageMaker \| AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/improve-performance-of-falcon-models-with-amazon-sagemaker/)
-- [GitHub - unslothai/notebooks: Fine-tune LLMs for free with guided Notebooks on Google Colab, Kaggle, and more.](https://github.com/unslothai/notebooks/) ⭐ 5.3k
-	- [GitHub - unslothai/unsloth: Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥](https://github.com/unslothai/unsloth) ⭐ 63k
+- [GitHub - unslothai/notebooks: Fine-tune LLMs for free with guided Notebooks on Google Colab, Kaggle, and more.](https://github.com/unslothai/notebooks/) ⭐ 5.4k
+	- [GitHub - unslothai/unsloth: Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥](https://github.com/unslothai/unsloth) ⭐ 66k
 	- [DeepSeek-R1-0528: How to Run Locally \| Unsloth Documentation](https://docs.unsloth.ai/basics/deepseek-r1-0528-how-to-run-locally#fine-tuning-deepseek-r1-0528-with-unsloth)
 - [Command Models: The AI-Powered Solution for the Enterprise](https://cohere.com/command)
 - [Kimi K2: Open Agentic Intelligence](https://moonshotai.github.io/Kimi-K2/)
@@ -281,7 +281,7 @@ So... what's the deal with TTMs?
 
 - [Introducing our latest image generation model in the API \| OpenAI](https://openai.com/index/image-generation-api/)
 - gpt-image-1
-- [GitHub - harry0703/MoneyPrinterTurbo: 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.](https://github.com/harry0703/MoneyPrinterTurbo) ⭐ 56k
+- [GitHub - harry0703/MoneyPrinterTurbo: 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.](https://github.com/harry0703/MoneyPrinterTurbo) ⭐ 85k
 - [Google Vids: AI-powered video creator and editor \| Google Workspace](https://workspace.google.com/products/vids/)
 
 ## HuggingFace
@@ -298,7 +298,7 @@ So... what's the deal with TTMs?
 
 ### Transformer Models
 
-- [GitHub - huggingface/transformers: 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.](https://github.com/huggingface/transformers) ⭐ 160k
+- [GitHub - huggingface/transformers: 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.](https://github.com/huggingface/transformers) ⭐ 161k
 - [Hugging Face - The AI community building the future.](https://huggingface.co/)
 - [sentence-transformers/all-MiniLM-L6-v2 · Hugging Face](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 
@@ -309,7 +309,7 @@ So... what's the deal with TTMs?
 - [Get Tabnine](https://www.tabnine.com/install)
 - [Cursor - The AI-first Code Editor](https://cursor.sh/)
 - [mutable.ai. AI Accelerated Software Development.](https://mutable.ai/)
-- [GitHub - pollinations/pollinations: Free Open-Source Image and Text Generation](https://github.com/pollinations/pollinations) ⭐ 4.4k
+- [GitHub - pollinations/pollinations: Free Open-Source Image and Text Generation](https://github.com/pollinations/pollinations) ⭐ 4.6k
 	- [Sur](https://sur.pollinations.ai/)
 	- [Pollinations.AI](https://pollinations.ai/)
 - [Groq is fast inference for AI builders](https://groq.com/)

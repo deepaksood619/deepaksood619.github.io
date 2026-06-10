@@ -12,11 +12,11 @@ https://sqlnotebook.com
 
 ![image](../../../media/DevOps-IDEs-Tools-image1.jpg)
 
-[GitHub - ploomber/jupysql: Better SQL in Jupyter. 📊](https://github.com/ploomber/jupysql) ⭐ 845
+[GitHub - ploomber/jupysql: Better SQL in Jupyter. 📊](https://github.com/ploomber/jupysql) ⭐ 847
 
 ## Rshiny
 
-Shiny is an R package that makes it easy to build interactive web apps straight from R. You can host standalone apps on a webpage or embed them in [R Markdown](http://rmarkdown.rstudio.com/) documents or build [dashboards](http://rstudio.github.io/shinydashboard/). You can also extend your Shiny apps with [CSS themes](http://rstudio.github.io/shinythemes/), [htmlwidgets](http://www.htmlwidgets.org/), and JavaScript [actions](https://github.com/daattali/shinyjs/blob/master/README) ⭐ 749
+Shiny is an R package that makes it easy to build interactive web apps straight from R. You can host standalone apps on a webpage or embed them in [R Markdown](http://rmarkdown.rstudio.com/) documents or build [dashboards](http://rstudio.github.io/shinydashboard/). You can also extend your Shiny apps with [CSS themes](http://rstudio.github.io/shinythemes/), [htmlwidgets](http://www.htmlwidgets.org/), and JavaScript [actions](https://github.com/daattali/shinyjs/blob/master/README) ⭐ 750
 
 https://shiny.rstudio.com
 

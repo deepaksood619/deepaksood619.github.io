@@ -46,9 +46,9 @@ The following cloud providers are currently supported/planned:
 - Alibaba Cloud (alpha)
 - Oracle Cloud Infrastructure (alpha)
 
-[GitHub - nccgroup/ScoutSuite: Multi-Cloud Security Auditing Tool](https://github.com/nccgroup/ScoutSuite) ⭐ 7.6k
+[GitHub - nccgroup/ScoutSuite: Multi-Cloud Security Auditing Tool](https://github.com/nccgroup/ScoutSuite) ⭐ 7.7k
 
-[Docker Image · nccgroup/ScoutSuite Wiki · GitHub](https://github.com/nccgroup/ScoutSuite/wiki/Docker-Image) ⭐ 7.6k
+[Docker Image · nccgroup/ScoutSuite Wiki · GitHub](https://github.com/nccgroup/ScoutSuite/wiki/Docker-Image) ⭐ 7.7k
 
 ### Running scoutsuite (Download scoutsuite repo)
 
@@ -102,7 +102,7 @@ Scanners (what Trivy can find there):
 - Sensitive information and secrets
 - Software licenses
 
-[GitHub - aquasecurity/trivy: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more](https://github.com/aquasecurity/trivy) ⭐ 35k
+[GitHub - aquasecurity/trivy: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more](https://github.com/aquasecurity/trivy) ⭐ 36k
 
 [Trivy Home - Trivy](https://trivy.dev/)
 
@@ -130,7 +130,7 @@ Gitleaks is a SAST tool for **detecting** and **preventing** hardcoded secrets l
 
 [Gitleaks](https://gitleaks.io/)
 
-[GitHub - gitleaks/gitleaks: Protect and discover secrets using Gitleaks 🔑](https://github.com/gitleaks/gitleaks) ⭐ 26k
+[GitHub - gitleaks/gitleaks: Protect and discover secrets using Gitleaks 🔑](https://github.com/gitleaks/gitleaks) ⭐ 28k
 
 ## Others
 

@@ -14,6 +14,11 @@
 - [HackerRank Analysis](education/competitors/technical-skills/hackerrank-analysis.md) - Market leader, 40% share, enterprise focus
 - [HackerEarth Analysis](education/competitors/technical-skills/hackerearth-analysis.md) - India/Asia leader, competitive pricing
 
+## AI Foundation Models for Learning (ChatGPT vs Claude)
+
+- [ChatGPT vs Claude Learning Ecosystem Analysis](education/competitors/adaptive-ai-platforms/chatgpt-claude-learning-ecosystem-analysis.md) - Deep-dive comparison of GPTs, Canvas, Advanced Voice, Artifacts, Projects, Extended Thinking; feature matrix by learning style; critical gap analysis
+- [chatgpt-claude-learning-deep-research](education/competitors/adaptive-ai-platforms/chatgpt-claude-learning-deep-research.md)
+
 ## AI Tutoring & Personalized Learning
 
 - [Synthesis Tutor Analysis](education/competitors/adaptive-ai-platforms/synthesis-tutor-analysis.md) - Premium AI math tutor, $300-540/year, 25K families, neurodiversity focus

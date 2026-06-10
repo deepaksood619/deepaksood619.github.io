@@ -38,10 +38,10 @@ And with Confluent Platform 5.4 or newer, you have the additional option to [cen
 	- One endpoint. Infinite scale.
 	- Kafka-compatible streaming platform. Scale streaming and analytics cloud-native on S3. Automated.
 	- KafScale is a Kafka-protocol compatible streaming platform built around a simple premise: **durable logs belong in object storage, not in stateful brokers**.
-	- [GitHub - KafScale/platform: KafScale delivers Kafka-compatible data streaming on S3. Scale infinitely, stateless brokers and processors.](https://github.com/KafScale/platform) ⭐ 53
+	- [GitHub - KafScale/platform: KafScale delivers Kafka-compatible data streaming on S3. Scale infinitely, stateless brokers and processors.](https://github.com/KafScale/platform) ⭐ 56
 	- [KafScale Architecture Decisions](https://www.novatechflow.com/p/kafscale.html)
 	- [Comparison \| KafScale](https://kafscale.io/comparison/)
-- [GitHub - AutoMQ/automq: AutoMQ is a cloud-native alternative to Kafka by decoupling durability to cloud storage services like S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.](https://github.com/automq/automq) ⭐ 9.7k
+- [GitHub - AutoMQ/automq: AutoMQ is a cloud-native alternative to Kafka by decoupling durability to cloud storage services like S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.](https://github.com/automq/automq) ⭐ 10k
 
 [Co-Designing Raft + Thread-per-Core Execution Model for the Kafka-API](https://youtu.be/kz7R1mGrN9Q)
 
@@ -94,7 +94,7 @@ https://github.com/pinterest/secor
 
 ## Conduktor
 
-- [GitHub - conduktor/conduktor-platform: Streamline Apache Kafka with Conduktor Platform. 🚀](https://github.com/conduktor/conduktor-platform) ⭐ 157
+- [GitHub - conduktor/conduktor-platform: Streamline Apache Kafka with Conduktor Platform. 🚀](https://github.com/conduktor/conduktor-platform) ⭐ 156
 	- We take the complexity out of Kafka. Console gives you visibility into your Kafka ecosystem and concentrates all of the Kafka APIs into a single interface. Troubleshoot and debug Kafka, drill-down into topic data, and continuously monitor your streaming applications.
 	- Conduktor supports all Kafka providers (Apache Kafka, MSK, Confluent, Aiven, Redpanda, Strimzi etc.)
 - [Conduktor - The Streaming Data Hub](https://conduktor.io/)
@@ -104,12 +104,12 @@ https://github.com/pinterest/secor
 
 ## Tools
 
-- [GitHub - osodevops/k2i: K2I - Kafka to Iceberg streaming ingestion engine. A Rust CLI tool inspired by Moonlink architecture that consumes from Kafka, buffers with Apache Arrow for sub-second query freshness, and writes to Apache Iceberg tables.](https://github.com/osodevops/k2i) ⭐ 16
+- [GitHub - osodevops/k2i: K2I - Kafka to Iceberg streaming ingestion engine. A Rust CLI tool inspired by Moonlink architecture that consumes from Kafka, buffers with Apache Arrow for sub-second query freshness, and writes to Apache Iceberg tables.](https://github.com/osodevops/k2i) ⭐ 18
 	- [K2I - Real-time Streaming Ingestion for Apache Iceberg](https://k2i.dev/)
 - [GitHub - lensesio/kafka-autocomplete: Bash completion for Kafka command line utilities. · GitHub](https://github.com/lensesio/kafka-autocomplete) ⭐ 38
 - [Autocomplete functions for Apache Kafka CLI tools for Z-Shell](https://www.kineticedge.io/blog/kzsh-autocomplete/)
 - [kafka-docker-playground](https://kafka-docker-playground.io/#/)
-	- [kafka-docker-playground/connect/connect-aws-dynamodb-sink at master · vdesabou/kafka-docker-playground · GitHub](https://github.com/vdesabou/kafka-docker-playground/tree/master/connect/connect-aws-dynamodb-sink) ⭐ 778
+	- [kafka-docker-playground/connect/connect-aws-dynamodb-sink at master · vdesabou/kafka-docker-playground · GitHub](https://github.com/vdesabou/kafka-docker-playground/tree/master/connect/connect-aws-dynamodb-sink) ⭐ 782
 
 ### KeyTool
 

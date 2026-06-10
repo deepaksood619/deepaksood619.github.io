@@ -252,14 +252,14 @@ https://markdown-here.com
 
 ## Pdf to markdown
 
-* [GitHub - Stirling-Tools/Stirling-PDF: #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere · GitHub](https://github.com/Stirling-Tools/Stirling-PDF) ⭐ 78k
+* [GitHub - Stirling-Tools/Stirling-PDF: #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere · GitHub](https://github.com/Stirling-Tools/Stirling-PDF) ⭐ 81k
 	* [**Stirling PDF**](https://stirlingpdf.io/)
 	* [I started editing all my PDF files with this free, self-hosted tool, and I’m not going back](https://www.xda-developers.com/started-editing-all-pdf-files-with-this-free-self-hosted-tool/)
-* [GitHub - opendatalab/MinerU: Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. · GitHub](https://github.com/opendatalab/MinerU) ⭐ 63k
-* [GitHub - docling-project/docling: Get your documents ready for gen AI · GitHub](https://github.com/docling-project/docling) ⭐ 60k
-* [GitHub - jgm/pandoc: Universal markup converter · GitHub](https://github.com/jgm/pandoc) ⭐ 44k
-* [GitHub - facebookresearch/nougat: Implementation of Nougat Neural Optical Understanding for Academic Documents · GitHub](https://github.com/facebookresearch/nougat) ⭐ 9.9k
-* [GitHub - datalab-to/marker: Convert PDF to markdown + JSON quickly with high accuracy · GitHub](https://github.com/datalab-to/marker) ⭐ 35k
+* [GitHub - opendatalab/MinerU: Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. · GitHub](https://github.com/opendatalab/MinerU) ⭐ 67k
+* [GitHub - docling-project/docling: Get your documents ready for gen AI · GitHub](https://github.com/docling-project/docling) ⭐ 61k
+* [GitHub - jgm/pandoc: Universal markup converter · GitHub](https://github.com/jgm/pandoc) ⭐ 45k
+* [GitHub - facebookresearch/nougat: Implementation of Nougat Neural Optical Understanding for Academic Documents · GitHub](https://github.com/facebookresearch/nougat) ⭐ 10k
+* [GitHub - datalab-to/marker: Convert PDF to markdown + JSON quickly with high accuracy · GitHub](https://github.com/datalab-to/marker) ⭐ 36k
 
 ```bash
 pip install marker-pdf
@@ -291,4 +291,4 @@ find form_10 -name "*.pdf" -exec sh -c 'mkdir -p "form_10_txt/$(dirname "{}")" &
 * [Markdown vs. HTML - What Makes the Most Powerful Notes Editor?](https://www.thebrain.com/blog/markdown-vs-html)
 * https://www.markdownguide.org/basic-syntax
 * https://markdown-it.github.io
-* [GitHub - igorshubovych/markdownlint-cli: MarkdownLint Command Line Interface](https://github.com/igorshubovych/markdownlint-cli) ⭐ 1.0k
+* [GitHub - igorshubovych/markdownlint-cli: MarkdownLint Command Line Interface](https://github.com/igorshubovych/markdownlint-cli) ⭐ 1.1k

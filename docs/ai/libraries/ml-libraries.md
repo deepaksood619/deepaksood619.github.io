@@ -122,7 +122,7 @@ Polars is a blazingly fast DataFrames library implemented in Rust using [Apache 
 - Powerful expression API
 - Hybrid Streaming (larger than RAM datasets)
 
-[GitHub - pola-rs/polars: Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js](https://github.com/pola-rs/polars) ⭐ 38k
+[GitHub - pola-rs/polars: Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js](https://github.com/pola-rs/polars) ⭐ 39k
 
 [Polars](https://www.pola.rs/)
 

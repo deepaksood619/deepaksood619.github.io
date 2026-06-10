@@ -150,7 +150,7 @@ While **Apache Kafka**, combined with stream processing, can act as a **workf
 ### Links
 
 - [Open Source Durable Execution | Temporal Technologies](https://temporal.io/)
-- [GitHub - temporalio/temporal: Temporal service](https://github.com/temporalio/temporal) ⭐ 20k
+- [GitHub - temporalio/temporal: Temporal service](https://github.com/temporalio/temporal) ⭐ 21k
 - [Getting to know Temporal - YouTube](https://www.youtube.com/watch?v=wIpz4ioK0gI)
 - [Documentation | Temporal Documentation](https://docs.temporal.io/)
 - [Temporal Web UI | Temporal Documentation](https://docs.temporal.io/web-ui)
@@ -183,7 +183,7 @@ The infinitely scalable and flexible workflow orchestration platform that seamle
 Flyte is an open-source orchestrator that facilitates building production-grade data and ML pipelines. It is built for scalability and reproducibility, leveraging Kubernetes as its underlying platform. With Flyte, user teams can construct pipelines using the Python SDK, and seamlessly deploy them on both cloud and on-premises environments, enabling distributed processing and efficient resource utilization.
 
 - [Build production-grade data and ML workflows, hassle-free with Flyte](https://flyte.org/)
-- [GitHub - flyteorg/flyte: Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.](https://github.com/flyteorg/flyte) ⭐ 7.0k
+- [GitHub - flyteorg/flyte: Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.](https://github.com/flyteorg/flyte) ⭐ 7.1k
 - [Flyte School: A Practical Introduction to Machine Learning Orchestration - YouTube](https://www.youtube.com/watch?v=0cP9pLLeqT4)
 - [Self-serve Feature Engineering Platform Using Flyte and Feast - Ketan Umare, & Felix Wang, - YouTube](https://www.youtube.com/watch?v=Km2ii0F8Yl0)
 - [Flyte: Production-Grade Data and Machine Learning Orchestration - Shivay Lamba & Ekansh Gupta - YouTube](https://www.youtube.com/watch?v=7ZDFhZ4hut0)
@@ -257,7 +257,7 @@ To support CDC, Airbyte uses [Debezium](https://debezium.io/) internally.
 
 ## Others
 
-[GitHub - alseambusher/crontab-ui: Easy and safe way to manage your crontab file](https://github.com/alseambusher/crontab-ui) ⭐ 3.2k
+[GitHub - alseambusher/crontab-ui: Easy and safe way to manage your crontab file](https://github.com/alseambusher/crontab-ui) ⭐ 3.3k
 
 Amazon Managed Workflows for Apache Airflow (MWAA) [What Is Amazon Managed Workflows for Apache Airflow? - Amazon Managed Workflows for Apache Airflow](https://docs.aws.amazon.com/mwaa/latest/userguide/what-is-mwaa.html)
 
@@ -265,6 +265,6 @@ Amazon Managed Workflows for Apache Airflow (MWAA) [What Is Amazon Managed Workf
 
 ![Amazon MWAA Architecture](../../media/Pasted%20image%2020240109123958.jpg)
 
-[GitHub - astronomer/airflow-ai-sdk: An SDK for working with LLMs and AI Agents from Apache Airflow, based on Pydantic AI](https://github.com/astronomer/airflow-ai-sdk) ⭐ 525
+[GitHub - astronomer/airflow-ai-sdk: An SDK for working with LLMs and AI Agents from Apache Airflow, based on Pydantic AI](https://github.com/astronomer/airflow-ai-sdk) ⭐ 527
 
 [CloverDX Data Integration Platform](https://www.cloverdx.com/)

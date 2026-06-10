@@ -77,7 +77,7 @@ Application Performance Monitoring (APM) collects in-depth performance metrics a
 - Pagerduty
 - CubeAPM - [CubeAPM](https://docs.cubeapm.com/)
 	- CubeAPM is an Application Performance Monitoring (APM) platform. It collects telemetry data from applications and infrastructure, and provides a UI for users to visualize and query the data. It also provides the ability to set up alerts based on the telemetry data, and sending notifications to users over various channels like Email, Slack, PagerDuty, Google Chat, etc.
-- [GitHub - coroot/coroot: Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastructure effortlessly for peak reliability at any scale.](https://github.com/coroot/coroot) ⭐ 7.6k
+- [GitHub - coroot/coroot: Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastructure effortlessly for peak reliability at any scale.](https://github.com/coroot/coroot) ⭐ 7.7k
 	- [Coroot is an open-source observability platform built for simplicity - Coroot](https://coroot.com/)
 
 ## Flask
@@ -90,4 +90,4 @@ https://toptechtips.github.io/2019-07-08-add_python_code_to_apm
 
 ## Others
 
-- [GitHub - tobi/qmd: mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local · GitHub](https://github.com/tobi/qmd) ⭐ 23k
+- [GitHub - tobi/qmd: mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local · GitHub](https://github.com/tobi/qmd) ⭐ 26k

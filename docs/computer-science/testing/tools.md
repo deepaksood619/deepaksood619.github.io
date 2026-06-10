@@ -108,7 +108,7 @@ Build and test software of any size, quickly and reliably.
 - [Applitools - AI-Powered Visual Test Automation](https://applitools.com/)
 - [AI Testing Tool | Automated AI Testing - Momentic](https://momentic.ai/) - No QA Required
 - [Playwright enables reliable end-to-end testing for modern web apps.](https://playwright.dev/)
-	- [GitHub - microsoft/playwright: Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.](https://github.com/microsoft/playwright) ⭐ 87k (72.2K Stars)
+	- [GitHub - microsoft/playwright: Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.](https://github.com/microsoft/playwright) ⭐ 91k (72.2K Stars)
 	- [Installation \| Playwright](https://playwright.dev/docs/intro)
 - [Allure TestOps - Full-stack Test Management](https://qameta.io/)
 	- [Allure Report — Open-source HTML test automation report tool](https://allurereport.org/)

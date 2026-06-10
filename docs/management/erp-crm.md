@@ -55,9 +55,9 @@ https://segment.com/blog/CRM-vs-CDP
 [CRM vs ERP - What's the Difference?](https://www.youtube.com/watch?v=YmRz8j66m7I)
 
 - [sap](cloud/others/sap.md)
-- [GitHub - frappe/erpnext: Free and Open Source Enterprise Resource Planning (ERP)](https://github.com/frappe/erpnext) ⭐ 33k
+- [GitHub - frappe/erpnext: Free and Open Source Enterprise Resource Planning (ERP)](https://github.com/frappe/erpnext) ⭐ 35k
     - [ERPNext: Free and Open Source Cloud ERP Software](https://erpnext.com/)
-- **[GitHub - twentyhq/twenty: Building a modern alternative to Salesforce, powered by the community.](https://github.com/twentyhq/twenty) ⭐ 45k**
+- **[GitHub - twentyhq/twenty: Building a modern alternative to Salesforce, powered by the community.](https://github.com/twentyhq/twenty) ⭐ 50k**
 - Microsoft Dynamics 365
 - Odoo
 - Workday
@@ -109,7 +109,7 @@ Omnichannel customer support Helpdesk, ITSM solution, Chat solutions, Bot functi
 - [Kissmetrics: Event Analytics for Web, Mobile and More](https://www.kissmetrics.io)
 - [WebEngage \| Full-Stack Customer Engagement and Retention Platform](https://webengage.com/)
 - [Canny: Customer Feedback Management Tool](https://canny.io/) - _Canny_ helps you collect and organize feature requests to better understand customer needs and prioritize your roadmap.
-- [GitHub - dittofeed/dittofeed: Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨](https://github.com/dittofeed/dittofeed) ⭐ 2.7k
+- [GitHub - dittofeed/dittofeed: Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨](https://github.com/dittofeed/dittofeed) ⭐ 2.8k
 	- [Dittofeed \| Open-source Customer Engagement for Automated Messaging](https://www.dittofeed.com/)
 
 ## Links

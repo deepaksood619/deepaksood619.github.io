@@ -4,7 +4,7 @@
 
 ## LangFuse
 
-[GitHub - langfuse/langfuse: 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23](https://github.com/langfuse/langfuse) ⭐ 26k
+[GitHub - langfuse/langfuse: 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23](https://github.com/langfuse/langfuse) ⭐ 29k
 
 - [Langfuse](https://langfuse.com/)
 - [10 min Walkthrough of Langfuse – Open Source LLM Observability, Evaluation, and Prompt Management - YouTube](https://www.youtube.com/watch?v=2E8iTvGo9Hs)
@@ -37,18 +37,18 @@
 ## LLM Monitoring / LLMOps
 
 - [GitHub - pezzolabs/pezzo: 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more. · GitHub](https://github.com/pezzolabs/pezzo) ⭐ 3.2k
-- [GitHub - Agenta-AI/agenta: The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place. · GitHub](https://github.com/Agenta-AI/agenta) ⭐ 4.1k
+- [GitHub - Agenta-AI/agenta: The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place. · GitHub](https://github.com/Agenta-AI/agenta) ⭐ 4.2k
 - [Langtrace](https://www.langtrace.ai/)
 - [Adaline - Iterate, evaluate, deploy, and monitor prompts](https://www.adaline.ai/)
 - [LangSmith](https://www.langchain.com/langsmith)
 	- Not opensource like langfuse
-	- [GitHub - langchain-ai/langsmith-sdk: LangSmith Client SDK Implementations · GitHub](https://github.com/langchain-ai/langsmith-sdk) ⭐ 863
+	- [GitHub - langchain-ai/langsmith-sdk: LangSmith Client SDK Implementations · GitHub](https://github.com/langchain-ai/langsmith-sdk) ⭐ 923
 - [Keywords AI / LLM Observability platform for AI teams](https://www.keywordsai.co) - a full-stack LLM engineering platform for observability, prompt management, evals, and LLM inferencing.
 - [Helicone / LLM-Observability for Developers](https://www.helicone.ai/)
-- [GitHub - confident-ai/deepteam: The LLM Red Teaming Framework](https://github.com/confident-ai/deepteam) ⭐ 1.6k
-- [GitHub - comet-ml/opik: Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.](https://github.com/comet-ml/opik) ⭐ 19k
-- [GitHub - traceloop/openllmetry: Open-source observability for your LLM application, based on OpenTelemetry](https://github.com/traceloop/openllmetry) ⭐ 7.0k
-- [GitHub - evidentlyai/evidently: Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.](https://github.com/evidentlyai/evidently) ⭐ 7.4k
+- [GitHub - confident-ai/deepteam: The LLM Red Teaming Framework](https://github.com/confident-ai/deepteam) ⭐ 1.9k
+- [GitHub - comet-ml/opik: Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.](https://github.com/comet-ml/opik) ⭐ 20k
+- [GitHub - traceloop/openllmetry: Open-source observability for your LLM application, based on OpenTelemetry](https://github.com/traceloop/openllmetry) ⭐ 7.2k
+- [GitHub - evidentlyai/evidently: Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.](https://github.com/evidentlyai/evidently) ⭐ 7.6k
 - [3 Ways to Monitor Spending on Your OpenAI Account \| Torii](https://www.toriihq.com/articles/how-to-monitor-spending-openai)
 
 ### Leaderboards
@@ -60,7 +60,7 @@
 - [Hugging Face Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 - [Alpaca Eval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/)
 - [Overview Leaderboard \| LMArena](https://lmarena.ai/leaderboard)
-- [GitHub - protectai/llm-guard: The Security Toolkit for LLM Interactions](https://github.com/protectai/llm-guard) ⭐ 2.9k
+- [GitHub - protectai/llm-guard: The Security Toolkit for LLM Interactions](https://github.com/protectai/llm-guard) ⭐ 3.1k
 
 ## Metrics
 

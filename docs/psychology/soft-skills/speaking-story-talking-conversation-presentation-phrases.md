@@ -74,7 +74,7 @@ Always tell stories, most visual stories are the best, and simple
 ## Presentation Tools
 
 - [The HTML presentation framework | reveal.js](https://revealjs.com/)
-    - [GitHub - hakimel/reveal.js: The HTML Presentation Framework](https://github.com/hakimel/reveal.js) ⭐ 71k
+    - [GitHub - hakimel/reveal.js: The HTML Presentation Framework](https://github.com/hakimel/reveal.js) ⭐ 72k
     - [Slides for Developers](https://slides.com/news/developers)
     - [Demo \| reveal.js](https://revealjs.com/demo/)
     - [Installation \| reveal.js](https://revealjs.com/installation/)
@@ -87,7 +87,7 @@ Always tell stories, most visual stories are the best, and simple
     - [Interactive presentation software - Mentimeter](https://www.mentimeter.com)
     - [AhaSlides - The Joy of Engagement](https://ahaslides.com/)
     - [Claper - The ultimate tool to interact with your audience](https://claper.co/)
-        - [GitHub - ClaperCo/Claper: The ultimate tool to interact with your audience](https://github.com/ClaperCo/Claper) ⭐ 739
+        - [GitHub - ClaperCo/Claper: The ultimate tool to interact with your audience](https://github.com/ClaperCo/Claper) ⭐ 756
     - [Menti - Mentimeter - Interactive presentation software](https://www.mentimeter.com/)
     - [Kahoot! \| Learning games \| Make learning awesome!](https://kahoot.com/)
 - [Piggy | Mobile Content Creator 🐷](https://piggy.to/)

@@ -610,7 +610,7 @@ act -s GITHUB_TOKEN=$GITHUB_TOKEN
 act workflow_dispatch -e event.json
 ```
 
-**Reference:** [nektos/act](https://github.com/nektos/act) ⭐ 70k
+**Reference:** [nektos/act](https://github.com/nektos/act) ⭐ 71k
 
 ## Performance Optimization
 
@@ -837,13 +837,13 @@ jobs:
 - [Checkout](https://github.com/marketplace/actions/checkout)
 - [Retry Step](https://github.com/marketplace/actions/retry-step)
 - [Lighthouse CI](https://github.com/marketplace/actions/lighthouse-ci-action)
-- [Proof HTML](https://github.com/anishathalye/proof-html) ⭐ 117
+- [Proof HTML](https://github.com/anishathalye/proof-html) ⭐ 123
 
 ### Tools
 
-- [act - Run locally](https://github.com/nektos/act) ⭐ 70k
+- [act - Run locally](https://github.com/nektos/act) ⭐ 71k
 - [Blacksmith - Faster runners](https://blacksmith.sh/)
-- [Actions Toolkit](https://github.com/actions/toolkit) ⭐ 5.7k
+- [Actions Toolkit](https://github.com/actions/toolkit) ⭐ 5.8k
 - [Azure K8s Actions](https://github.com/Azure/k8s-actions) ⭐ 114
 
 ## Github Actions - Workflow automation
@@ -872,7 +872,7 @@ jobs:
 - [Retry Step - GitHub Marketplace](https://github.com/marketplace/actions/retry-step)
 - [retry action - GitHub Marketplace](https://github.com/marketplace/actions/retry-action)
 - [Lighthouse CI Action · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/lighthouse-ci-action)
-- [GitHub - anishathalye/proof-html: A GitHub Action to validate HTML, check links, and more ✅](https://github.com/anishathalye/proof-html) ⭐ 117
+- [GitHub - anishathalye/proof-html: A GitHub Action to validate HTML, check links, and more ✅](https://github.com/anishathalye/proof-html) ⭐ 123
 
 **Run github actions locally**
 

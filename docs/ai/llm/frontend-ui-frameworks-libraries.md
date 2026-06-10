@@ -1,12 +1,12 @@
 # Frontend / UI - Frameworks / Libraries
 
-- [GitHub - CopilotKit/CopilotKit: The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol · GitHub](https://github.com/copilotkit/copilotkit) ⭐ 30k
-- [GitHub - assistant-ui/assistant-ui: Typescript/React Library for AI Chat💬🚀 · GitHub](https://github.com/assistant-ui/assistant-ui) ⭐ 9.8k
+- [GitHub - CopilotKit/CopilotKit: The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol · GitHub](https://github.com/copilotkit/copilotkit) ⭐ 35k
+- [GitHub - assistant-ui/assistant-ui: Typescript/React Library for AI Chat💬🚀 · GitHub](https://github.com/assistant-ui/assistant-ui) ⭐ 11k
 	- [Chain of Thought \| assistant-ui](https://www.assistant-ui.com/docs/guides/chain-of-thought)
-- [GitHub - ibelick/prompt-kit: Core building blocks for AI apps. High-quality, accessible, and customizable components for AI interfaces. · GitHub](https://github.com/ibelick/prompt-kit) ⭐ 2.8k
+- [GitHub - ibelick/prompt-kit: Core building blocks for AI apps. High-quality, accessible, and customizable components for AI interfaces. · GitHub](https://github.com/ibelick/prompt-kit) ⭐ 2.9k
 	- [prompt-kit](https://www.prompt-kit.com/)
 	- [Chat UI components for React AI apps - prompt-kit](https://www.prompt-kit.com/chat-ui)
-- [GitHub - langchain-ai/agent-chat-ui: 🦜💬 Web app for interacting with any LangGraph agent (PY & TS) via a chat interface. · GitHub](https://github.com/langchain-ai/agent-chat-ui) ⭐ 2.8k
+- [GitHub - langchain-ai/agent-chat-ui: 🦜💬 Web app for interacting with any LangGraph agent (PY & TS) via a chat interface. · GitHub](https://github.com/langchain-ai/agent-chat-ui) ⭐ 2.9k
 	- [Introducing Agent Chat UI - YouTube](https://www.youtube.com/watch?v=lInrwVnZ83o)
 	- [Chat LangChain](https://chat.langchain.com/)
 - [Recommendations for Open Source AI Chat UI?](https://www.reddit.com/r/react/comments/1q6745g/recommendations_for_open_source_ai_chat_ui/)
@@ -16,7 +16,7 @@
 	- Tails UI (Tailwind) – highly customizable for designers, needs manual setup.
 	- Chatwoot/CometChat UI Kits – good for multi-user or support chat setups
 	- **Choose based on your stack:** BotUI for plain JS, Chat UI Kit or React Chat UI for React, Tails UI for Tailwind-heavy custom design, and Stream/Chatwootmulti-user apps.
-- [GitHub - ag-ui-protocol/ag-ui: AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. · GitHub](https://github.com/ag-ui-protocol/ag-ui) ⭐ 13k
+- [GitHub - ag-ui-protocol/ag-ui: AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. · GitHub](https://github.com/ag-ui-protocol/ag-ui) ⭐ 14k
 	- AG-UI is an open, lightweight, event-based protocol that standardizes how AI agents connect to user-facing applications. Built for simplicity and flexibility, it enables seamless integration between AI agents, real time user context, and user interfaces.
 	- [Demo Viewer by CopilotKit](https://dojo.ag-ui.com/)
 	- [Haiku Generator](https://agui-demo.vercel.app/)
@@ -25,7 +25,7 @@
 
 Open WebUI is an extensible, feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline. It supports various LLM runners like Ollama and OpenAI-compatible APIs, with built-in inference engine for RAG, making it a powerful AI deployment solution.
 
-[GitHub - open-webui/open-webui: User-friendly AI Interface (Supports Ollama, OpenAI API, ...)](https://github.com/open-webui/open-webui) ⭐ 135k
+[GitHub - open-webui/open-webui: User-friendly AI Interface (Supports Ollama, OpenAI API, ...)](https://github.com/open-webui/open-webui) ⭐ 141k
 
 OpenWebUI, it provides a universal chat like interface for using any models via Ollama. We can add prompt templates and use the chat for our purpose. It is a solution for using LLMs but not allowing the parent companies to collect the data. It is based on Open-AI's api so integrating other models would be a challenge.
 
@@ -35,11 +35,11 @@ OpenWebUI, it provides a universal chat like interface for using any models via 
 ### Alternative
 
 - [librechat.ai](https://www.librechat.ai/)
-	- [GitHub - danny-avila/LibreChat: Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.](https://github.com/danny-avila/LibreChat) ⭐ 36k
+	- [GitHub - danny-avila/LibreChat: Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.](https://github.com/danny-avila/LibreChat) ⭐ 39k
 - [GitHub - mckaywrigley/chatbot-ui: AI chat for any model. · GitHub](https://github.com/mckaywrigley/chatbot-ui) ⭐ 33k
 - [GitHub - bdeekshith066/Chatbot\_Hub: A collection of 10+ chatbot types, from keyword-based and rule-based to AI-powered models. Explore various implementations for building intelligent chat interfaces and virtual assistants. · GitHub](https://github.com/bdeekshith066/Chatbot_Hub) ⭐ 5
 - [llm-examples.streamlit.app/Chat\_with\_user\_feedback](https://llm-examples.streamlit.app/Chat_with_user_feedback)
-- [GitHub - CopilotKit/CopilotKit: The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol · GitHub](https://github.com/copilotkit/copilotkit) ⭐ 30k
+- [GitHub - CopilotKit/CopilotKit: The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol · GitHub](https://github.com/copilotkit/copilotkit) ⭐ 35k
 	- [How to add a frontend UI to your LangGraph agent with CopilotKit - YouTube](https://www.youtube.com/watch?v=oROihYsbXos)
 	- [CopilotKit \| The Agentic Framework for In-App AI Copilots](https://www.copilotkit.ai/)
 

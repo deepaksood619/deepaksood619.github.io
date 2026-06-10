@@ -270,7 +270,7 @@ https://docs.docker.com/config/containers/logging/syslog
 - Demo Docs - Hackathon
 	- [OpenTelemetry Demo Docs \| OpenTelemetry](https://opentelemetry.io/docs/demo/)
 	- [Demo Architecture \| OpenTelemetry](https://opentelemetry.io/docs/demo/architecture/)
-	- [GitHub - open-telemetry/opentelemetry-demo: This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.](https://github.com/open-telemetry/opentelemetry-demo) ⭐ 3.0k
+	- [GitHub - open-telemetry/opentelemetry-demo: This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.](https://github.com/open-telemetry/opentelemetry-demo) ⭐ 3.1k
 
 ## signoz
 

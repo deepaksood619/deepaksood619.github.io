@@ -104,11 +104,11 @@ kafka-producer-perf-test \
 ## Demos / Hands-on / Learning
 
 - [GitHub - confluentinc/demo-scene: Scripts and samples to support Confluent Demos, Talks, and Blogs. Not all of the examples in this repository are kept up to date. For automated tutorials and QA'd code, see https://github.com/confluentinc/tutorials/](https://github.com/confluentinc/demo-scene) ⭐ 1.6k
-- [GitHub - confluentinc/cp-demo: Confluent Platform Demo including Apache Kafka, ksqlDB, Control Center, Schema Registry, Security, Schema Linking, and Cluster Linking](https://github.com/confluentinc/cp-demo) ⭐ 75
+- [GitHub - confluentinc/cp-demo: Confluent Platform Demo including Apache Kafka, ksqlDB, Control Center, Schema Registry, Security, Schema Linking, and Cluster Linking](https://github.com/confluentinc/cp-demo) ⭐ 76
 - [GitHub - conflkrupa/F1-Racing-Leaderboard-POC: This is an application demonstrating how a real-time gaming leaderboard application can be built by leveraging Confluent cloud.](https://github.com/conflkrupa/F1-Racing-Leaderboard-POC/) ⭐ 9
 	- [GitHub - kos-conf/f1-leaderboard-workshop: This hands-on lab will guide you through building a real-time F1 racing leaderboard application. You'll learn how to implement real-time data streaming, performance analytics, and live dashboards.](https://github.com/kos-conf/f1-leaderboard-workshop) ⭐ 6
-- [GitHub - confluentinc/online-retailer-flink-demo at gko-2026](https://github.com/confluentinc/online-retailer-flink-demo/tree/gko-2026) ⭐ 24
-- [GitHub - confluentinc/quickstart-streaming-agents at gko](https://github.com/confluentinc/quickstart-streaming-agents/tree/gko) ⭐ 77
+- [GitHub - confluentinc/online-retailer-flink-demo at gko-2026](https://github.com/confluentinc/online-retailer-flink-demo/tree/gko-2026) ⭐ 23
+- [GitHub - confluentinc/quickstart-streaming-agents at gko](https://github.com/confluentinc/quickstart-streaming-agents/tree/gko) ⭐ 83
 	- Lab1 - Price Matching Orders With MCP Tool Calling
 	- Lab2 - Vector Search & RAG
 	- Lab3 - Agentic Fleet Management Using Confluent Intelligence

@@ -46,7 +46,7 @@ dbutils.jobs.taskValues.get(taskKey = "Get_user_data", key = "name", default = "
 
 Databricks CLI eXtensions - aka `dbx` is a CLI tool for development and advanced Databricks workflows management.
 
-[GitHub - databrickslabs/dbx: 🧱 Databricks CLI eXtensions - aka dbx is a CLI tool for development and advanced Databricks workflows management.](https://github.com/databrickslabs/dbx) ⭐ 455
+[GitHub - databrickslabs/dbx: 🧱 Databricks CLI eXtensions - aka dbx is a CLI tool for development and advanced Databricks workflows management.](https://github.com/databrickslabs/dbx) ⭐ 462
 
 [dbx | github](https://dbx.readthedocs.io/en/latest/)
 

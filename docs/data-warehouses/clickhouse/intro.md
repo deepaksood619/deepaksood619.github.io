@@ -150,7 +150,7 @@ ClickHouse supports both virtual views and materialized views. The materialized 
 ## Links
 
 - [Fast Open-Source OLAP DBMS - ClickHouse](https://clickhouse.com/)
-- [GitHub - ClickHouse/ClickHouse: ClickHouse is a free analytics DBMS for big data](https://github.com/ClickHouse/ClickHouse) ⭐ 47k
+- [GitHub - ClickHouse/ClickHouse: ClickHouse is a free analytics DBMS for big data](https://github.com/ClickHouse/ClickHouse) ⭐ 48k
 - [ClickHouse - YouTube](https://www.youtube.com/c/ClickHouseDB)
 - [What Is ClickHouse? | ClickHouse Docs](https://clickhouse.com/docs/en/intro)
 - [Getting Started with ClickHouse](https://clickhouse.com/company/events/getting-started-with-clickhouse?loc=getting-started)

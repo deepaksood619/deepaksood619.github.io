@@ -70,7 +70,7 @@ The first release of bitnet.cpp is to support inference on CPUs. bitnet.cpp achi
 
 ### Quantization - GGUF
 
-**Q4_K_M** is a **K-Quant** method, a smart, mixed-precision compression technique developed by the [llama.cpp](https://github.com/ggml-org/llama.cpp) team. Instead of crushing every single parameter down to 4 bits uniformly, K-Quants identify which layers are highly sensitive and keep them at a higher precision while aggressively compressing the less important layers.
+**Q4_K_M** is a **K-Quant** method, a smart, mixed-precision compression technique developed by the [llama.cpp](https://github.com/ggml-org/llama.cpp) ⭐ 116k team. Instead of crushing every single parameter down to 4 bits uniformly, K-Quants identify which layers are highly sensitive and keep them at a higher precision while aggressively compressing the less important layers.
 
 The GGUF naming convention acts as a code: **Q[Target Bits] _ [Algorithm] _ [Size Suffix]**.
 

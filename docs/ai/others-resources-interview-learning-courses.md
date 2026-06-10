@@ -12,31 +12,31 @@
 - LLM - [dbdemos Build your Chat Bot with Dolly - Databricks demos](https://www.dbdemos.ai/demo.html?demoName=llm-dolly-chatbot)
 - [CS 886: Recent Advances on Foundation Models](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)
 - [LLM Bootcamp - Spring 2023 - The Full Stack](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)
-- [GitHub - microsoft/generative-ai-for-beginners: 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/](https://github.com/microsoft/generative-ai-for-beginners) ⭐ 110k
+- [GitHub - microsoft/generative-ai-for-beginners: 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/](https://github.com/microsoft/generative-ai-for-beginners) ⭐ 112k
 - [**AI Skills Navigator**](https://aiskillsnavigator.microsoft.com/en-us)
 	- [Career Essentials in Generative AI by Microsoft and LinkedIn Learning Path | LinkedIn Learning, formerly Lynda.com](https://aka.ms/GenAILearningPathway)
 	- [Microsoft Launches New AI Skills Training and Resources as part of Skill for Jobs Initiative](https://www.linkedin.com/pulse/microsofts-launches-new-ai-skills-training-resources-part-behncken/)
 	- [Ignite Edition Challenge: Microsoft Learn Challenge | Microsoft Learn](https://learn.microsoft.com/en-us/training/topics/event-challenges)
 - [Hands-On Large Language Models](https://www.llm-book.com/)
 - [Jay Alammar – Visualizing machine learning one concept at a time.](https://jalammar.github.io/)
-- [GitHub - microsoft/ai-agents-for-beginners: 10 Lessons to Get Started Building AI Agents](https://github.com/microsoft/ai-agents-for-beginners) ⭐ 60k
+- [GitHub - microsoft/ai-agents-for-beginners: 10 Lessons to Get Started Building AI Agents](https://github.com/microsoft/ai-agents-for-beginners) ⭐ 67k
 - [The Generative AI Learning Roadmap](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxYe_AFXQm1B_7bLZ6iVzwr02YTsRbQHx6)
 - [Research papers for software engineers to transition to AI Engineering. - YouTube](http://youtube.com/post/UgkxzWqAeGgNwoB2qbqEDCsJwp_nOsK0C3qZ)
 - [Generative AI Bootcamp – Complete 65-Hour Course - YouTube](https://youtu.be/DOXJ7s1D6iE)
-- [GitHub - mlabonne/llm-course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.](https://github.com/mlabonne/llm-course) ⭐ 79k
+- [GitHub - mlabonne/llm-course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.](https://github.com/mlabonne/llm-course) ⭐ 80k
 - [Reinforcement Learning Guide \| Unsloth Documentation](https://docs.unsloth.ai/basics/reinforcement-learning-guide)
-- [GitHub - afshinea/stanford-cme-295-transformers-large-language-models: VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models) ⭐ 4.4k
-- [GitHub - patchy631/ai-engineering-hub: In-depth tutorials on LLMs, RAGs and real-world AI agent applications.](https://github.com/patchy631/ai-engineering-hub) ⭐ 34k
-- [GitHub - rasbt/LLMs-from-scratch: Implement a ChatGPT-like LLM in PyTorch from scratch, step by step](https://github.com/rasbt/LLMs-from-scratch) ⭐ 92k
+- [GitHub - afshinea/stanford-cme-295-transformers-large-language-models: VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models) ⭐ 4.5k
+- [GitHub - patchy631/ai-engineering-hub: In-depth tutorials on LLMs, RAGs and real-world AI agent applications.](https://github.com/patchy631/ai-engineering-hub) ⭐ 36k
+- [GitHub - rasbt/LLMs-from-scratch: Implement a ChatGPT-like LLM in PyTorch from scratch, step by step](https://github.com/rasbt/LLMs-from-scratch) ⭐ 97k
 - [I taught myself GenAI from scratch, and it made me the go-to AI expert in my org at Microsoft, and these are my favourite resources to set you up on the same path \| Shivani Virdi](https://www.linkedin.com/posts/shivanivirdi_i-taught-myself-genai-from-scratch-and-it-activity-7345678093744787457-eEIb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAh8m-QBlVNXzETVf_L6BwCJR0kZzlb4FfE)
 - Top 7
-	- [GitHub - HandsOnLLM/Hands-On-Large-Language-Models: Official code repo for the O'Reilly Book - "Hands-On Large Language Models"](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) ⭐ 25k
-	- [GitHub - punkpeye/awesome-mcp-servers: A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 86k
+	- [GitHub - HandsOnLLM/Hands-On-Large-Language-Models: Official code repo for the O'Reilly Book - "Hands-On Large Language Models"](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) ⭐ 27k
+	- [GitHub - punkpeye/awesome-mcp-servers: A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 89k
 	- [GitHub - NirDiamant/GenAI\_Agents: This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.](https://github.com/NirDiamant/GenAI_Agents) ⭐ 22k
-	- [GitHub - GokuMohandas/Made-With-ML: Learn how to design, develop, deploy and iterate on production-grade ML applications.](https://github.com/GokuMohandas/Made-With-ML) ⭐ 47k
-	- [GitHub - dair-ai/Prompt-Engineering-Guide: 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 74k
-	- [GitHub - microsoft/ai-agents-for-beginners: 11 Lessons to Get Started Building AI Agents](https://github.com/microsoft/ai-agents-for-beginners) ⭐ 60k
-	- [GitHub - punkpeye/awesome-mcp-clients: A collection of MCP clients.](https://github.com/punkpeye/awesome-mcp-clients) ⭐ 6.4k
+	- [GitHub - GokuMohandas/Made-With-ML: Learn how to design, develop, deploy and iterate on production-grade ML applications.](https://github.com/GokuMohandas/Made-With-ML) ⭐ 48k
+	- [GitHub - dair-ai/Prompt-Engineering-Guide: 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 76k
+	- [GitHub - microsoft/ai-agents-for-beginners: 11 Lessons to Get Started Building AI Agents](https://github.com/microsoft/ai-agents-for-beginners) ⭐ 67k
+	- [GitHub - punkpeye/awesome-mcp-clients: A collection of MCP clients.](https://github.com/punkpeye/awesome-mcp-clients) ⭐ 6.5k
 - Antropic - [X](https://x.com/heyshrutimishra/status/1950801812153581925)
 	- [Claude with the Anthropic API](https://anthropic.skilljar.com/claude-with-the-anthropic-api)
 	- [Claude with Amazon Bedrock](https://anthropic.skilljar.com/claude-in-amazon-bedrock)
@@ -77,13 +77,13 @@
 - [A Roadmap for Your Machine Learning Career - MachineLearningMastery.com](https://machinelearningmastery.com/a-roadmap-for-your-machine-learning-career/)
 - [AWS Certified AI Practitioner (AIF-C01) – Full Course to PASS the Certification Exam - YouTube](https://www.youtube.com/watch?v=WZeZZ8_W-M4)
 - [Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)
-- [GitHub - microsoft/ML-For-Beginners: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all](https://github.com/microsoft/ML-For-Beginners) ⭐ 86k 72.5K stars
-- [GitHub - GokuMohandas/Made-With-ML: Learn how to design, develop, deploy and iterate on production-grade ML applications.](https://github.com/GokuMohandas/Made-With-ML) ⭐ 47k
+- [GitHub - microsoft/ML-For-Beginners: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all](https://github.com/microsoft/ML-For-Beginners) ⭐ 87k 72.5K stars
+- [GitHub - GokuMohandas/Made-With-ML: Learn how to design, develop, deploy and iterate on production-grade ML applications.](https://github.com/GokuMohandas/Made-With-ML) ⭐ 48k
 
 ## DS (Data Science) + DA (Data Analytics) + DE (Data Engineering)
 
 - Tool - dbt, fivetran, Informatica
-- [GitHub - DataEngineer-io/data-engineer-handbook: This is a repo with links to everything you'd ever want to learn about data engineering](https://github.com/DataEngineer-io/data-engineer-handbook) ⭐ 41k
+- [GitHub - DataEngineer-io/data-engineer-handbook: This is a repo with links to everything you'd ever want to learn about data engineering](https://github.com/DataEngineer-io/data-engineer-handbook) ⭐ 42k
 - [IOT & Predictive maintenance](https://www.dbdemos.ai/minisite/lakehouse-iot-platform/index.html)
 - [Data Analysis with Python Certification | freeCodeCamp.org](https://www.freecodecamp.org/learn/data-analysis-with-python)
 - DS - Pandas and Numpy + Scipy + scikit-learn
@@ -97,7 +97,7 @@
 - [Learn Pandas & Python for Data Analysis - Full Course](https://www.freecodecamp.org/news/learn-pandas-for-data-science/)
 - [SQL Interview Prep With Zach Wilson - YouTube](https://www.youtube.com/watch?v=ycQ-wqlaEX8)
 - [Google Advanced Data Analytics Professional Certificate | Coursera](https://www.coursera.org/google-certificates/google-advanced-data-analytics)
-- [GitHub - alfarias/awesome-kaggle-kernels: Compilation of good Kaggle Kernels.](https://github.com/alfarias/awesome-kaggle-kernels) ⭐ 63
+- [GitHub - alfarias/awesome-kaggle-kernels: Compilation of good Kaggle Kernels.](https://github.com/alfarias/awesome-kaggle-kernels) ⭐ 62
 
 ## Courses ML & AI
 

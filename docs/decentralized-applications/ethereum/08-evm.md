@@ -55,7 +55,7 @@ Over Ethereum's nine year history, the EVM has undergone several revisions, and 
 - [Py-EVM](https://github.com/ethereum/py-evm) ⭐ 2.4k - _Python_
 - [evmone](https://github.com/ethereum/evmone) ⭐ 975 - _C++_
 - [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm) ⭐ 2.8k - _JavaScript_
-- [eEVM](https://github.com/microsoft/eevm) ⭐ 360 - _C++_
+- [eEVM](https://github.com/microsoft/eevm) ⭐ 361 - _C++_
 
 ## Ethereum Contract ABI & EVM Bytecode
 
@@ -87,7 +87,7 @@ solc --abi -o build -overwrite SampleToken.sol
 
 - [Ethereum Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf)
 - [Jellopaper aka KEVM: Semantics of EVM in K](https://jellopaper.org/)
-- [The Beigepaper](https://github.com/chronaeon/beigepaper) ⭐ 807
+- [The Beigepaper](https://github.com/chronaeon/beigepaper) ⭐ 805
 - [Ethereum Virtual Machine Opcodes](https://www.ethervm.io/)
 - [A short introduction in Solidity's documentation](https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html#index-6)
 - [Gas](https://ethereum.org/en/developers/docs/gas/)

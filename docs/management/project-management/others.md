@@ -2,7 +2,7 @@
 
 ## Tools
 
-- [GitHub - **makeplane/plane**: 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.](https://github.com/makeplane/plane) ⭐ 48k
+- [GitHub - **makeplane/plane**: 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.](https://github.com/makeplane/plane) ⭐ 51k
 - JIRA
 - [Linear](https://linear.app/)
     - [Linear Method - Practices for Building](https://linear.app/method)

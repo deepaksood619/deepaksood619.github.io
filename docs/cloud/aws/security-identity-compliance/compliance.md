@@ -7,7 +7,7 @@ The Payment Card Industry Data Security Standard (PCI-DSS) is a set of requireme
 - Payment Card Industry-Data Security Standard (PCI-DSS)
 - Payment Application-Data Security Standard (PA-DSS)
 
-[GitHub - jivoi/offsec | your offsec knowledge](https://github.com/jivoi/offsec_pdfs) ⭐ 486
+[GitHub - jivoi/offsec | your offsec knowledge](https://github.com/jivoi/offsec_pdfs) ⭐ 490
 
 ## SOC Compliance (Service Organization Control)
 

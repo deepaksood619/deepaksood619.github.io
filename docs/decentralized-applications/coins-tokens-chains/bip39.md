@@ -131,7 +131,7 @@ Coin support should be well documented or referenced on the wallet developer's w
 
 There are other standards such as:
 
-- Lighting Network Daemon (AEZeed): If you're using the Lightning Network Daemon wallet, it uses a different seed scheme known as [AEZeed](https://github.com/lightningnetwork/lnd/tree/master/aezeed "lightning network lnd aezeed") ⭐ 8.1k.
+- Lighting Network Daemon (AEZeed): If you're using the Lightning Network Daemon wallet, it uses a different seed scheme known as [AEZeed](https://github.com/lightningnetwork/lnd/tree/master/aezeed "lightning network lnd aezeed") ⭐ 8.2k.
 - Electrum: If you're using the [Electrum Wallet](https://electrum.org/#home "electrum"), it also uses a [unique seed scheme](https://electrum.readthedocs.io/en/latest/seedphrase.html "electrum seed").
 - Satoshi Labs Improvement Proposal (SLIP 39): If you're using [Trezor's](https://trezor.io/) parent company, [Satoshi Labs](https://satoshilabs.com/), unique seed standard of Shamir Secret Shares, [SLIP 39](https://github.com/satoshilabs/slips/blob/master/slip-0039 "SLIP 39") ⭐ 1.7k.
 

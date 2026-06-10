@@ -101,7 +101,7 @@ l.addHandler(logging.StreamHandler())
 
 ## Libraries
 
-- [GitHub - hynek/structlog: Simple, powerful, and fast logging for Python. · GitHub](https://github.com/hynek/structlog) ⭐ 4.7k
+- [GitHub - hynek/structlog: Simple, powerful, and fast logging for Python. · GitHub](https://github.com/hynek/structlog) ⭐ 4.8k
 - [A Comprehensive Guide to Python Logging with Structlog \| Better Stack Community](https://betterstack.com/community/guides/logging/structlog/)
 
 ### Loguru

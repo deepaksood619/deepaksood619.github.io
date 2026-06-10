@@ -42,12 +42,12 @@
 - INDmoney
 - TickerTape
 - [Hey r/IndiaInvestments, how do you track you finances(bank accounts, investments)? : r/IndiaInvestments](https://www.reddit.com/r/IndiaInvestments/comments/18bgshh/hey_rindiainvestments_how_do_you_track_you/)
-- [GitHub - serversideup/financial-freedom: 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.](https://github.com/serversideup/financial-freedom) ⭐ 2.8k[]
+- [GitHub - serversideup/financial-freedom: 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.](https://github.com/serversideup/financial-freedom) ⭐ 2.9k[]
 - [Portfolio Visualizer](https://www.portfoliovisualizer.com/)
 - [markets.sh](https://markets.sh/)
 - [PortfolioPilot: Your Personal AI Financial Advisor](https://portfoliopilot.com/)
 - [Portfolio Performance](https://www.portfolio-performance.info/en/)
-	- [GitHub - portfolio-performance/portfolio: Track and evaluate the performance of your investment portfolio across stocks, cryptocurrencies, and other assets. · GitHub](https://github.com/portfolio-performance/portfolio) ⭐ 3.8k
+	- [GitHub - portfolio-performance/portfolio: Track and evaluate the performance of your investment portfolio across stocks, cryptocurrencies, and other assets. · GitHub](https://github.com/portfolio-performance/portfolio) ⭐ 3.9k
 - [GitHub - engineerinvestor/Portfolio-Analysis: Open-source portfolio analysis tools for DIY investors and finance enthusiasts.](https://github.com/engineerinvestor/Portfolio-Analysis?tab=readme-ov-file) ⭐ 38
 - [GitHub - teddy8193/portfolio-analysis-tool: Virualizing efficient frontier for portfolio analysis](https://github.com/teddy8193/portfolio-analysis-tool) ⭐ 0
 - [Google sheet for Portfolio tracking : r/IndiaInvestments](https://www.reddit.com/r/IndiaInvestments/comments/ogem2j/google_sheet_for_portfolio_tracking/)
@@ -58,25 +58,25 @@
 - Finshots Money Financial Planning Calculator - https://docs.google.com/spreadsheets/d/13LUIThaOS_QLXAtQz4gxEA7v5UaZQsp3/edit#gid=262879150
 - [GitHub - rotki/rotki: A portfolio tracking, analytics, accounting and management application that protects your privacy · GitHub](https://github.com/rotki/rotki) ⭐ 3.9k
 - [Investbrain » Open source AI-powered investment portfolio tracker](https://investbra.in/)
-	- [GitHub - investbrainapp/investbrain: Smart LLM-enabled investment tracker that consolidates and monitors market performance across your different brokerages · GitHub](https://github.com/investbrainapp/investbrain) ⭐ 842
+	- [GitHub - investbrainapp/investbrain: Smart LLM-enabled investment tracker that consolidates and monitors market performance across your different brokerages · GitHub](https://github.com/investbrainapp/investbrain) ⭐ 853
 - [TradeTally - Free Trading Journal and Investment Tracker](https://tradetally.io/dashboard)
-	- [GitHub - GeneBO98/tradetally: Advanced trade tracking and analytics (TraderVue alternative) · GitHub](https://github.com/GeneBO98/tradetally) ⭐ 251
+	- [GitHub - GeneBO98/tradetally: Advanced trade tracking and analytics (TraderVue alternative) · GitHub](https://github.com/GeneBO98/tradetally) ⭐ 267
 - [Best self-hosted portfolio management tool for investments?](https://www.reddit.com/r/selfhosted/comments/1nl4xf4/best_selfhosted_portfolio_management_tool_for/)
-- [**GitHub - ghostfolio/ghostfolio: Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍 · GitHub**](https://github.com/ghostfolio/ghostfolio) ⭐ 8.4k
+- [**GitHub - ghostfolio/ghostfolio: Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍 · GitHub**](https://github.com/ghostfolio/ghostfolio) ⭐ 8.6k
 	- [Reddit - Ghostfolio Alternatives](https://www.reddit.com/r/selfhosted/comments/18amwkw/ghostfolio_alternatives/)
-- [GitHub - wealthfolio/wealthfolio: A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations. · GitHub](https://github.com/wealthfolio/wealthfolio) ⭐ 7.4k
+- [GitHub - wealthfolio/wealthfolio: A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations. · GitHub](https://github.com/wealthfolio/wealthfolio) ⭐ 7.6k
 	- [Wealthfolio \| Open-Source, Offline & Private Portfolio Tracker](https://wealthfolio.app/)
 - [GitHub - ananthakumaran/paisa: Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi · GitHub](https://github.com/ananthakumaran/paisa) ⭐ 3.2k
 - [Finviz - Stock Screener](https://finviz.com/)
 
 ### AI Tools
 
-- [GitHub - TauricResearch/TradingAgents: TradingAgents: Multi-Agents LLM Financial Trading Framework · GitHub](https://github.com/TauricResearch/TradingAgents) ⭐ 83k
-- [GitHub - Fincept-Corporation/FinceptTerminal: FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. · GitHub](https://github.com/Fincept-Corporation/FinceptTerminal) ⭐ 25k
-- [GitHub - tradermonty/claude-trading-skills: Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. · GitHub](https://github.com/tradermonty/claude-trading-skills) ⭐ 1.8k
+- [GitHub - TauricResearch/TradingAgents: TradingAgents: Multi-Agents LLM Financial Trading Framework · GitHub](https://github.com/TauricResearch/TradingAgents) ⭐ 85k
+- [GitHub - Fincept-Corporation/FinceptTerminal: FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. · GitHub](https://github.com/Fincept-Corporation/FinceptTerminal) ⭐ 26k
+- [GitHub - tradermonty/claude-trading-skills: Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. · GitHub](https://github.com/tradermonty/claude-trading-skills) ⭐ 1.9k
 	- [Getting Started \| Claude Trading Skills](https://tradermonty.github.io/claude-trading-skills/en/getting-started/#claude-code-desktop--cli)
 	- Example prompt - Find stocks with EPS growth > 25% and price above SMA200
-- [GitHub - ajeeshworkspace/indian-trading-skills: Claude Skills for Indian equity investors and traders — NSE/BSE stocks, F&O derivatives, institutional flows, and market breadth analysis · GitHub](https://github.com/ajeeshworkspace/indian-trading-skills) ⭐ 41
+- [GitHub - ajeeshworkspace/indian-trading-skills: Claude Skills for Indian equity investors and traders — NSE/BSE stocks, F&O derivatives, institutional flows, and market breadth analysis · GitHub](https://github.com/ajeeshworkspace/indian-trading-skills) ⭐ 42
 	- Example Prompt - Analyze Reliance Industries stock fundamentals
 	- https://www.reddit.com/r/claudeskills/comments/1rsis62/claude_skills_for_indian_stock_trading_supports/
 - [GitHub - samyakjain0606/awesome-stock-skills: A curated collection of Claude Code skills for Indian stock market research — concall transcripts, equity analysis, and more. · GitHub](https://github.com/samyakjain0606/awesome-stock-skills) ⭐ 15

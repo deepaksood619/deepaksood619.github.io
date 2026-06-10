@@ -103,10 +103,10 @@ Message Queue and Batch processing for NodeJS and Python based on Redis
 
 [BullMQ - Background Jobs processing and message queue for NodeJS | BullMQ](https://bullmq.io/)
 
-[GitHub - taskforcesh/bullmq: BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis](https://github.com/taskforcesh/bullmq) ⭐ 8.8k
+[GitHub - taskforcesh/bullmq: BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis](https://github.com/taskforcesh/bullmq) ⭐ 9.0k
 
 ## Others
 
 - [responsive-images-generator - npm](https://www.npmjs.com/package/responsive-images-generator)
 - [gulp-responsive - npm](https://www.npmjs.com/package/gulp-responsive)
-- [GitHub - OptimalBits/bull: Premium Queue package for handling distributed jobs and messages in NodeJS. · GitHub](https://github.com/OptimalBits/bull)
+- [GitHub - OptimalBits/bull: Premium Queue package for handling distributed jobs and messages in NodeJS. · GitHub](https://github.com/OptimalBits/bull) ⭐ 16k

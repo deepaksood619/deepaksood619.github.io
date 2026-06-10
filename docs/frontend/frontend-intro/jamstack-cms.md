@@ -101,7 +101,7 @@ The following CMSs have high popularity among Gatsby users and support key funct
 | [Contentstack](https://www.contentstack.com/) | [guide](https://www.gatsbyjs.com/docs/sourcing-from-contentstack) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-contentstack) |  |
 | [DatoCMS](https://www.datocms.com/) | [guide](https://www.gatsbyjs.com/guides/datocms/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-datocms) | [starter](https://www.gatsbyjs.com/starters/datocms/gatsby-blog-demo/) |
 | [Drupal](https://www.drupal.com/) | [guide](https://www.gatsbyjs.com/docs/how-to/sourcing-data/sourcing-from-drupal/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-drupal) |  |
-| [Prismic](https://www.prismic.io/) | [guide](https://www.gatsbyjs.com/docs/how-to/sourcing-data/sourcing-from-prismic/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-prismic) | [starter](https://github.com/prismicio/gatsby-blog) ⭐ 38 |
+| [Prismic](https://www.prismic.io/) | [guide](https://www.gatsbyjs.com/docs/how-to/sourcing-data/sourcing-from-prismic/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-prismic) | [starter](https://github.com/prismicio/gatsby-blog) ⭐ 37 |
 | [NetlifyCMS](https://www.netlifycms.org/) | [guide](https://www.gatsbyjs.com/docs/how-to/sourcing-data/sourcing-from-netlify-cms/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-plugin-netlify-cms) | [starter](https://www.gatsbyjs.com/starters/netlify-templates/gatsby-starter-netlify-cms/) |
 | Plone (Open Source Enterprise CMS) |  |  |  |
 | **Wagtail (Open Source Django CMS) https://wagtail.io** |  |  |  |
@@ -127,7 +127,7 @@ The following CMSs have high popularity among Gatsby users and support key funct
 | [Builder.io](https://www.builder.io/) | [guide](https://www.gatsbyjs.com/docs/sourcing-from-builder-io/) | [docs](https://www.gatsbyjs.com/plugins/@builder.io/gatsby/) | |
 |[Flotiq](https://flotiq.com/) | [guide](https://www.gatsbyjs.com/docs/sourcing-from-flotiq/) | [docs](https://www.gatsbyjs.com/plugins/gatsby-source-flotiq) | |
 
-[GitHub - outline/outline: The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.](https://github.com/outline/outline) ⭐ 38k
+[GitHub - outline/outline: The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.](https://github.com/outline/outline) ⭐ 39k
 
 [Decap CMS | Open-Source Content Management System](https://decapcms.org/)
 

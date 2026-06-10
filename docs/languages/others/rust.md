@@ -63,7 +63,7 @@ Most data scientists use Python, but Python is slow. Historically, we built engi
 
 The RBIR movement is heavily aligned with **Apache Arrow**, a columnar memory format. Rust’s memory model is a perfect fit for Arrow, allowing different tools (like a Rust database and a Rust query engine) to share data in memory without "copying" it, which is a massive speed advantage.
 
-[GitHub - rewrite-bigdata-in-rust/RBIR: A collection of RBIR projects and posts for anyone interested in joining this journey.](https://github.com/rewrite-bigdata-in-rust/RBIR) ⭐ 322
+[GitHub - rewrite-bigdata-in-rust/RBIR: A collection of RBIR projects and posts for anyone interested in joining this journey.](https://github.com/rewrite-bigdata-in-rust/RBIR) ⭐ 325
 
 ## Links
 

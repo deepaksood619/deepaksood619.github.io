@@ -2,7 +2,7 @@
 
 - Presentation - [Automating the Future: Build Powerful AI Agents - Google Slides](https://docs.google.com/presentation/d/1nRNP7h89k-8FTCP2kMSMbAa0zIJ6r0COm7voa1JT6Sc/edit?usp=sharing)
 - An LLM Agent is a software entity capable of reasoning and autonomously executing tasks.
-- [GitHub - viktoriasemaan/multi-agent: Examples of AI Multi-Agent Solutions](https://github.com/viktoriasemaan/multi-agent) ⭐ 204
+- [GitHub - viktoriasemaan/multi-agent: Examples of AI Multi-Agent Solutions](https://github.com/viktoriasemaan/multi-agent) ⭐ 208
 - [Building LLM Agents with Tool Use - YouTube](https://youtu.be/5drn2DO7gNY)
 - [AI Agents Are Changing AWS Cost Prediction - YouTube](https://youtu.be/_cjuQlc62uc)
 
@@ -95,7 +95,7 @@ The benefits are real — better output quality, independent improvability of ea
 ## Examples / Learning
 
 - [I built an agent that tells you exactly how to sell to anyone - just from their name. Here's what it does: → Takes a name as input (provide company too if common name) → Finds their entire digital… \| Ethan Kinnan \| 1,490 comments](https://www.linkedin.com/posts/ethan-kinnan_i-built-an-agent-that-tells-you-exactly-how-ugcPost-7371962445747253248-bzCS/)
-- [GitHub - NirDiamant/agents-towards-production: This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.](https://github.com/NirDiamant/agents-towards-production) ⭐ 19k
+- [GitHub - NirDiamant/agents-towards-production: This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.](https://github.com/NirDiamant/agents-towards-production) ⭐ 21k
 
 ## References
 
@@ -117,7 +117,7 @@ The benefits are real — better output quality, independent improvability of ea
 - [Mixture-of-Agents (MoA): A Breakthrough in LLM Performance - MarkTechPost](https://www.marktechpost.com/2025/08/09/mixture-of-agents-moa-a-breakthrough-in-llm-performance/)
 - [Design Systems And AI: Why MCP Servers Are The Unlock \| Figma Blog](https://www.figma.com/blog/design-systems-ai-mcp/)
 - [Agentic Systems 101: Fundamentals, Building Blocks, and How to Build Them (Part A)](https://www.dailydoseofds.com/ai-agents-crash-course-part-1-with-implementation/)
-	- [ai-engineering-hub/agent-with-mcp-memory at main · patchy631/ai-engineering-hub · GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main/agent-with-mcp-memory) ⭐ 34k
+	- [ai-engineering-hub/agent-with-mcp-memory at main · patchy631/ai-engineering-hub · GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main/agent-with-mcp-memory) ⭐ 36k
 
 ## Links
 

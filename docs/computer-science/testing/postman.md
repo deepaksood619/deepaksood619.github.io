@@ -38,7 +38,7 @@
 
 ## Local Infra Mock
 
-[GitHub - floci-io/floci: Light, fluffy, and always free - The AWS Local Emulator alternative · GitHub](https://github.com/floci-io/floci) ⭐ 10k
+[GitHub - floci-io/floci: Light, fluffy, and always free - The AWS Local Emulator alternative · GitHub](https://github.com/floci-io/floci) ⭐ 14k
 
 - [Floci — Fast, Free AWS Emulator](https://floci.io/)
 

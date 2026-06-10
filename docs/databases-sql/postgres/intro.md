@@ -117,7 +117,7 @@ https://www.postgresql.org/docs/current/storage.html
 
 ## Test Datasets
 
-[GitHub - devrimgunduz/pagila: PostgreSQL Sample Database](https://github.com/devrimgunduz/pagila) ⭐ 1.0k
+[GitHub - devrimgunduz/pagila: PostgreSQL Sample Database](https://github.com/devrimgunduz/pagila) ⭐ 1.1k
 
 ## SAAS
 

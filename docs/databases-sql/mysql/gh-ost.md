@@ -97,6 +97,6 @@ https://www.infoworld.com/article/3241730/top-5-open-source-tools-for-mysql-admi
 
 [How we Altered a MySQL Table with 50 Million Rows without Downtime using gh-ost - Browntape](https://browntape.com/how-we-altered-a-mysql-table-with-50m-rows-without-downtime-with-gh-ost/)
 
-Alternatives - [GitHub - cashapp/spirit: Online Schema Change Tool for MySQL 8.0+](https://github.com/cashapp/spirit) ⭐ 182
+Alternatives - [GitHub - cashapp/spirit: Online Schema Change Tool for MySQL 8.0+](https://github.com/cashapp/spirit) ⭐ 188
 
 [Alter Schema With gh-ost](https://dnisha.github.io/mynotes/Production-grade-MYSQL-DBA/Alter-Schema-With-gh-ost)

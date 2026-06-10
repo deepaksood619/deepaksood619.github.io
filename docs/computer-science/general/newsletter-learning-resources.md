@@ -22,7 +22,7 @@ https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layou
 2. https://medium.com
 3. Awesome Repositories -https://github.com/ossu/computer-science
 4. [daily.dev | Where developers grow together](https://daily.dev/)
-5. [GitHub - jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university) ⭐ 343k
+5. [GitHub - jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university) ⭐ 351k
 
 ## Youtube channels worth subscribing
 
@@ -80,7 +80,7 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 - [10 GitHub repositories to advance your career as a Developer 📚 - DEV Community](https://dev.to/iarchitsharma/10-as-a-developer-egn)
 - [Saylor Academy | Saylor Academy](https://learn.saylor.org/?redirect=0)
 - [Speaker Deck | Easily Share Your Presentations Online](https://speakerdeck.com/)
-- [GitHub - practical-tutorials/project-based-learning: Curated list of project-based tutorials](https://github.com/practical-tutorials/project-based-learning) ⭐ 264k
+- [GitHub - practical-tutorials/project-based-learning: Curated list of project-based tutorials](https://github.com/practical-tutorials/project-based-learning) ⭐ 268k
 
 ## Blogs
 
@@ -114,10 +114,10 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 - https://github.com/danistefanovic/build-your-own-x
 - https://github.com/gothinkster/realworld
 - https://codebase.show/projects/realworld
-- [GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 289k
-- [GitHub - trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 218k
+- [GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 298k
+- [GitHub - trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 228k
 - [GitHub - chubin/cheat.sh: the only cheat sheet you need](https://github.com/chubin/cheat.sh) ⭐ 41k
-- [GitHub - papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.](https://github.com/papers-we-love/papers-we-love) ⭐ 106k
+- [GitHub - papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.](https://github.com/papers-we-love/papers-we-love) ⭐ 107k
 - [GitHub - tycrek/degoogle: A huge list of alternatives to Google products. Privacy tips, tricks, and links.](https://github.com/tycrek/degoogle) ⭐ 8.5k
 - [GitHub - cloudcommunity/Cloud-Free-Tier-Comparison: Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) ⭐ 6.8k
 - [17 Mindblowing Github Repositories You Never Knew Existed - DEV Community](https://dev.to/kafeel_ahmad/17-mindblowing-github-repositories-you-never-knew-existed-555g)
@@ -126,8 +126,8 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 ### Example Repositories
 
 - [GitHub - getsentry/sentry: Developer-first error tracking and performance monitoring](https://github.com/getsentry/sentry) ⭐ 44k
-- [GitHub - django/django: The Web framework for perfectionists with deadlines.](https://github.com/django/django) ⭐ 87k
-- [GitHub - reposense/RepoSense: Contribution analysis tool for Git repositories](https://github.com/reposense/RepoSense) ⭐ 324
+- [GitHub - django/django: The Web framework for perfectionists with deadlines.](https://github.com/django/django) ⭐ 88k
+- [GitHub - reposense/RepoSense: Contribution analysis tool for Git repositories](https://github.com/reposense/RepoSense) ⭐ 326
 
 ## Fundamental Tech
 
@@ -182,4 +182,4 @@ Give tech talk - Learning + Note taking + Zettlekasten - Obsidian / Onenote + Do
 - [Developer Learning, Trainings, Courses, and Resources - AWS](https://aws.amazon.com/developer/learning/)
 - [GitHub - cloudcommunity/Free-Certifications: A curated list of free courses with certifications. Also available at https://free-certifications.com/](https://github.com/cloudcommunity/Free-Certifications) ⭐ 53k
 	- [Free Certifications - Find Free Professional Certifications Online](https://free-certifications.com/)
-- [GitHub - gabe565/ascii-movie: Star Wars SSH + Telnet server written in Go.](https://github.com/gabe565/ascii-movie) ⭐ 571
+- [GitHub - gabe565/ascii-movie: Star Wars SSH + Telnet server written in Go.](https://github.com/gabe565/ascii-movie) ⭐ 594

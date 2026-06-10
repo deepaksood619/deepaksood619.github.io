@@ -4,6 +4,12 @@
 
 Education is broken and it's high time to fix it.
 
+## Main
+
+- [adaptive-learning-platform](education/pedagogy/adaptive-learning-platform.md)
+- [adaptive-learning-algorithms](education/pedagogy/adaptive-learning-algorithms.md)
+- [technical-architecture](education/technical/technical-architecture.md)
+
 ## Content Catalog
 
 **Current Status:** 77+ files organized into 6 thematic folders
@@ -46,9 +52,10 @@ Market research, education system analysis, and user research:
 
 Technical architecture, feasibility studies, and implementation plans:
 
-- [Technical Architecture](education/technical/technical-architecture.md) - 10 AI agents, tech stack, cost optimization
+- [Technical Architecture](education/technical/technical-architecture.md) - 10 AI agents
 - [Technical Feasibility: Adaptive Platform](education/technical/technical-feasibility-adaptive-platform.md) - Complete 2026 implementation guide
 - [Technical Feasibility: AI Question Generation](education/technical/technical-feasibility-ai-question-generation.md) - Architecture, costs, phases
+- [tech-stack](education/technical/tech-stack.md)
 
 ### Pedagogy & Learning Science (17 files)
 

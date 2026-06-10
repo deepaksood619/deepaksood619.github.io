@@ -208,7 +208,7 @@ Your MCP server should return a `CallToolResult` or `ReadResourceResult` contain
 
 ## MCP with GraphQL
 
-- [GitHub - blurrah/mcp-graphql: Model Context Protocol server for GraphQL · GitHub](https://github.com/blurrah/mcp-graphql)
+- [GitHub - blurrah/mcp-graphql: Model Context Protocol server for GraphQL · GitHub](https://github.com/blurrah/mcp-graphql) ⭐ 392
 - [Getting started with the Model Context Protocol and GraphQL - GraphQL Tutorials](https://www.apollographql.com/tutorials/intro-mcp-graphql/01-what-is-mcp)
 - [GraphQL and MCP - Reddit](https://www.reddit.com/r/mcp/comments/1jxg0jy/graphql_and_mcp/)
 - [Building Scalable MCP Servers Using Generic GraphQL: A Production-Ready Architecture \| by Shivansh Anand Srivastava \| Medium](https://medium.com/@shivanshanand2000/building-scalable-mcp-servers-using-generic-graphql-a-production-ready-architecture-e16f5e79f0de)
@@ -217,7 +217,7 @@ Your MCP server should return a `CallToolResult` or `ReadResourceResult` contain
 
 ### Memory
 
-Knowledge Graph Memory Server - [servers/src/memory at main · modelcontextprotocol/servers · GitHub](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) ⭐ 85k
+Knowledge Graph Memory Server - [servers/src/memory at main · modelcontextprotocol/servers · GitHub](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) ⭐ 87k
 
 - A basic implementation of persistent memory using a local knowledge graph. This lets Claude remember information about the user across chats.
 - [Collaborate with Claude on Projects \\ Anthropic](https://www.anthropic.com/news/projects)
@@ -278,7 +278,7 @@ sudo service postgresql status
 sudo -u postgres psql
 ```
 
-[GitHub - crystaldba/postgres-mcp: Postgres MCP Pro provides configurable read/write access and performance analysis for you and your AI agents.](https://github.com/crystaldba/postgres-mcp) ⭐ 2.6k
+[GitHub - crystaldba/postgres-mcp: Postgres MCP Pro provides configurable read/write access and performance analysis for you and your AI agents.](https://github.com/crystaldba/postgres-mcp) ⭐ 2.9k
 
 ```sql
 What are the rental patterns and lifetime value segments of customers, including their geographic clustering and seasonal preferences? answer the above question using the database
@@ -292,9 +292,9 @@ Find the stocks that dropped more than 10% in a single day?
 
 #### MySQL
 
-- [GitHub - executeautomation/mcp-database-server: MCP Database Server is a new MCP Server which helps connect with Sqlite, SqlServer and Posgresql Databases](https://github.com/executeautomation/mcp-database-server) ⭐ 343
-- [GitHub - benborla/mcp-server-mysql: A Model Context Protocol server that provides read-only access to MySQL databases. This server enables LLMs to inspect database schemas and execute read-only queries.](https://github.com/benborla/mcp-server-mysql) ⭐ 1.6k - not working
-- [GitHub - designcomputer/mysql\_mcp\_server: A Model Context Protocol (MCP) server that enables secure interaction with MySQL databases](https://github.com/designcomputer/mysql_mcp_server) ⭐ 1.2k
+- [GitHub - executeautomation/mcp-database-server: MCP Database Server is a new MCP Server which helps connect with Sqlite, SqlServer and Posgresql Databases](https://github.com/executeautomation/mcp-database-server) ⭐ 355
+- [GitHub - benborla/mcp-server-mysql: A Model Context Protocol server that provides read-only access to MySQL databases. This server enables LLMs to inspect database schemas and execute read-only queries.](https://github.com/benborla/mcp-server-mysql) ⭐ 1.8k - not working
+- [GitHub - designcomputer/mysql\_mcp\_server: A Model Context Protocol (MCP) server that enables secure interaction with MySQL databases](https://github.com/designcomputer/mysql_mcp_server) ⭐ 1.3k
 
 ```json
 "mysql": {
@@ -339,7 +339,7 @@ claude mcp add mcp_server_mysql \
 
 #### Others
 
-- [GitHub - motherduckdb/mcp-server-motherduck: MCP server for DuckDB and MotherDuck](https://github.com/motherduckdb/mcp-server-motherduck) ⭐ 472
+- [GitHub - motherduckdb/mcp-server-motherduck: MCP server for DuckDB and MotherDuck](https://github.com/motherduckdb/mcp-server-motherduck) ⭐ 488
 - [Firebolt MCP Server: Connect Your Data Warehouse to AI](https://www.firebolt.io/blog/unlock-conversational-data-interaction-firebolt-mcp-server-for-advanced-llm-integration)
 - Context7, Task Master, GitHub
 
@@ -358,19 +358,19 @@ claude mcp add mcp_server_mysql \
 
 ### Others
 
-- [servers/src/sequentialthinking at main · modelcontextprotocol/servers · GitHub](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) ⭐ 85k
+- [servers/src/sequentialthinking at main · modelcontextprotocol/servers · GitHub](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) ⭐ 87k
 	- tell me in 1 sentence about me, that I don't know myself. think deeply before giving answer
-- [servers/src/everything at main · modelcontextprotocol/servers · GitHub](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) ⭐ 85k
-- [GitHub - airweave-ai/airweave: Airweave lets agents search any app](https://github.com/airweave-ai/airweave) ⭐ 6.3k 2.5K stars
+- [servers/src/everything at main · modelcontextprotocol/servers · GitHub](https://github.com/modelcontextprotocol/servers/tree/main/src/everything) ⭐ 87k
+- [GitHub - airweave-ai/airweave: Airweave lets agents search any app](https://github.com/airweave-ai/airweave) ⭐ 6.4k 2.5K stars
 - [5 Powerful MCP Servers](https://aiengineering.beehiiv.com/p/5-powerful-mcp-servers)
-- [GitHub - rohitg00/kubectl-mcp-server: Chat with your Kubernetes Cluster using AI tools and IDEs like Claude and Cursor!](https://github.com/rohitg00/kubectl-mcp-server) ⭐ 876
+- [GitHub - rohitg00/kubectl-mcp-server: Chat with your Kubernetes Cluster using AI tools and IDEs like Claude and Cursor!](https://github.com/rohitg00/kubectl-mcp-server) ⭐ 908
 - [GitHub - QuantGeekDev/mongo-mcp: A mongo db server for the model context protocol (MCP)](https://github.com/QuantGeekDev/mongo-mcp) ⭐ 173
 	- [Announcing the MongoDB MCP Server \| MongoDB](https://www.mongodb.com/blog/post/announcing-mongodb-mcp-server)
-- [GitHub - awslabs/mcp: AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.](https://github.com/awslabs/mcp) ⭐ 8.9k
-- [GitHub - punkpeye/awesome-mcp-clients: A collection of MCP clients.](https://github.com/punkpeye/awesome-mcp-clients) ⭐ 6.4k
+- [GitHub - awslabs/mcp: AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.](https://github.com/awslabs/mcp) ⭐ 9.2k
+- [GitHub - punkpeye/awesome-mcp-clients: A collection of MCP clients.](https://github.com/punkpeye/awesome-mcp-clients) ⭐ 6.5k
 - [kagent \| Bringing Agentic AI to cloud native](https://kagent.dev/)
-- [GitHub - pab1it0/prometheus-mcp-server: A Model Context Protocol (MCP) server that enables AI assistants to query and analyze Prometheus metrics through standardized interfaces.](https://github.com/pab1it0/prometheus-mcp-server) ⭐ 428
-- [GitHub - awslabs/mcp: Open source MCP Servers for AWS · GitHub](https://github.com/awslabs/mcp) ⭐ 8.9k
+- [GitHub - pab1it0/prometheus-mcp-server: A Model Context Protocol (MCP) server that enables AI assistants to query and analyze Prometheus metrics through standardized interfaces.](https://github.com/pab1it0/prometheus-mcp-server) ⭐ 455
+- [GitHub - awslabs/mcp: Open source MCP Servers for AWS · GitHub](https://github.com/awslabs/mcp) ⭐ 9.2k
 	- [The AWS MCP Server is now generally available \| AWS News Blog](https://aws.amazon.com/blogs/aws/the-aws-mcp-server-is-now-generally-available/)
 
 ## Elicitation
@@ -495,7 +495,7 @@ The [Universal Commerce Protocol (UCP)](http://ucp.dev/) is an open-source sta
 
 - [Under the Hood: Universal Commerce Protocol (UCP) - Google Developers Blog](https://developers.googleblog.com/under-the-hood-universal-commerce-protocol-ucp/)
 - http://0.0.0.0:8182/.well-known/ucp
-- [GitHub - Universal-Commerce-Protocol/samples: Samples for UCP · GitHub](https://github.com/Universal-Commerce-Protocol/samples) ⭐ 200
+- [GitHub - Universal-Commerce-Protocol/samples: Samples for UCP · GitHub](https://github.com/Universal-Commerce-Protocol/samples) ⭐ 211
 
 ### Google Merchant Center Next
 
@@ -510,37 +510,37 @@ The [Universal Commerce Protocol (UCP)](http://ucp.dev/) is an open-source sta
 
 ## Tools
 
-- [GitHub - jlowin/fastmcp: 🚀 The fast, Pythonic way to build MCP servers and clients](https://github.com/jlowin/fastmcp) ⭐ 25k
+- [GitHub - jlowin/fastmcp: 🚀 The fast, Pythonic way to build MCP servers and clients](https://github.com/jlowin/fastmcp) ⭐ 26k
 	- [Welcome to FastMCP 2.0! - FastMCP](https://gofastmcp.com/getting-started/welcome)
 - [🛰️ MCP Support \| Open WebUI](https://docs.openwebui.com/openapi-servers/mcp/)
 	- [WebMCP](https://webmcp.dev/)
-	- WebMCP is an [open source](https://github.com/jasonjmcghee/WebMCP) ⭐ 644 JavaScript library that allows any website to integrate with the Model Context Protocol. It provides a small blue widget in the bottom right corner of your page that allows users to connect to and interact with your webpage via LLM or agent.
-	- [GitHub - webmachinelearning/webmcp: 🤖 WebMCP](https://github.com/webmachinelearning/webmcp) ⭐ 2.3k
+	- WebMCP is an [open source](https://github.com/jasonjmcghee/WebMCP) ⭐ 687 JavaScript library that allows any website to integrate with the Model Context Protocol. It provides a small blue widget in the bottom right corner of your page that allows users to connect to and interact with your webpage via LLM or agent.
+	- [GitHub - webmachinelearning/webmcp: 🤖 WebMCP](https://github.com/webmachinelearning/webmcp) ⭐ 2.6k
 
 ## Resources
 
 - [Model Context Protocol · GitHub](https://github.com/modelcontextprotocol)
-- [GitHub - punkpeye/**awesome-mcp-servers**: A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 86k
+- [GitHub - punkpeye/**awesome-mcp-servers**: A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 89k
 - [Awesome MCP Servers](https://mcpservers.org/)
 	- [MCP servers \| Glama](https://glama.ai/mcp/servers)
 - [Top 5 MCP Servers to Automate Daily Tasks and Workflows with Prompts \| by Pedro Aquino \| Medium](https://medium.com/@pedro.aquino.se/top-5-mcp-servers-to-automate-daily-tasks-and-workflows-with-prompts-039fe50570fd)
-- [GitHub - wong2/awesome-mcp-servers: A curated list of Model Context Protocol (MCP) servers](https://github.com/wong2/awesome-mcp-servers) ⭐ 4.0k
+- [GitHub - wong2/awesome-mcp-servers: A curated list of Model Context Protocol (MCP) servers](https://github.com/wong2/awesome-mcp-servers) ⭐ 4.1k
 - Tools - [Inspector - Model Context Protocol](https://modelcontextprotocol.io/docs/tools/inspector)
-	- The [MCP Inspector](https://github.com/modelcontextprotocol/inspector) ⭐ 9.6k is an interactive developer tool for testing and debugging MCP servers. While the [Debugging Guide](https://modelcontextprotocol.io/docs/tools/debugging) covers the Inspector as part of the overall debugging toolkit, this document provides a detailed exploration of the Inspector’s features and capabilities.
+	- The [MCP Inspector](https://github.com/modelcontextprotocol/inspector) ⭐ 10k is an interactive developer tool for testing and debugging MCP servers. While the [Debugging Guide](https://modelcontextprotocol.io/docs/tools/debugging) covers the Inspector as part of the overall debugging toolkit, this document provides a detailed exploration of the Inspector’s features and capabilities.
 	- [MCP Inspector - Model Context Protocol](https://modelcontextprotocol.io/docs/tools/inspector)
 	- `npx @modelcontextprotocol/inspector`
 	- `http://localhost:6274/?MCP_PROXY_AUTH_TOKEN=`
 - [GitHub - mcp-ecosystem/mcp-gateway: 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications.](https://github.com/mcp-ecosystem/mcp-gateway) ⭐ 2.1k
 	- **MCP Gateway** is a lightweight and highly available gateway service written in Go. It enables individuals and organizations to convert their existing MCP Servers and APIs into services compliant with the [MCP Protocol](https://modelcontextprotocol.io/) — all through configuration, with **zero code changes**.
-	- [GitHub - lasso-security/mcp-gateway: A plugin-based gateway that orchestrates other MCPs and allows developers to build upon it enterprise-grade agents.](https://github.com/lasso-security/mcp-gateway) ⭐ 366
-- [GitHub - googleapis/genai-toolbox: MCP Toolbox for Databases is an open source MCP server for databases.](https://github.com/googleapis/genai-toolbox) ⭐ 15k
+	- [GitHub - lasso-security/mcp-gateway: A plugin-based gateway that orchestrates other MCPs and allows developers to build upon it enterprise-grade agents.](https://github.com/lasso-security/mcp-gateway) ⭐ 377
+- [GitHub - googleapis/genai-toolbox: MCP Toolbox for Databases is an open source MCP server for databases.](https://github.com/googleapis/genai-toolbox) ⭐ 16k
 
 ## Others
 
 - [Announcing the Agent2Agent Protocol (A2A) - Google Developers Blog](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
 - [Star History Monthly May 2025 \| Agent Protocol](https://www.star-history.com/blog/agent-protocol)
 	- X402 - Payment-Required Protocol by Coinbase
-- [GitHub - i-am-bee/acp: Open protocol for communication between AI agents, applications, and humans.](https://github.com/i-am-bee/acp) ⭐ 993
+- [GitHub - i-am-bee/acp: Open protocol for communication between AI agents, applications, and humans.](https://github.com/i-am-bee/acp) ⭐ 1.0k
 	- [A Hands-on Guide to Agent Communication Protocol](https://blog.dailydoseofds.com/p/a-hands-on-guide-to-agent-communication)
 	- [Welcome - Agent Communication Protocol](https://agentcommunicationprotocol.dev/introduction/welcome)
 	- The **Agent Communication Protocol (ACP)** is an open protocol for agent interoperability that solves the growing challenge of connecting AI agents, applications, and humans. Modern AI agents are often built in isolation, across different frameworks, teams, and infrastructures. This fragmentation slows innovation and makes it harder for agents to work together effectively.
@@ -566,6 +566,6 @@ The [Universal Commerce Protocol (UCP)](http://ucp.dev/) is an open-source sta
 - [The Full MCP Blueprint: Building a Full-Fledged Research Assistant with MCP and LangGraph](https://www.dailydoseofds.com/model-context-protocol-crash-course-part-9/)
 - [The Complete Guide to Model Context Protocol - MachineLearningMastery.com](https://machinelearningmastery.com/the-complete-guide-to-model-context-protocol/)
 - [Securing the AI agent supply chain with Cisco's open-source MCP Scanner - Cisco Blogs](https://blogs.cisco.com/ai/securing-the-ai-agent-supply-chain-with-ciscos-open-source-mcp-scanner)
-	- [GitHub - cisco-ai-defense/mcp-scanner: Scan MCP servers for potential threats & security findings.](https://github.com/cisco-ai-defense/mcp-scanner) ⭐ 901
+	- [GitHub - cisco-ai-defense/mcp-scanner: Scan MCP servers for potential threats & security findings.](https://github.com/cisco-ai-defense/mcp-scanner) ⭐ 961
 - [Is MCP dead? I don't think so](https://www.linkedin.com/pulse/mcp-dead-i-dont-think-so-viktor-gamov-w4efe/)
 - [Connecting LLMs to the Real World: Tool Use, Function Calling, and MCP](https://blog.bytebytego.com/p/connecting-llms-to-the-real-world)

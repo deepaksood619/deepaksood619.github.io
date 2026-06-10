@@ -232,11 +232,11 @@ black .
 https://medium.com/staqu-dev-logs/keeping-python-code-clean-with-pre-commit-hooks-black-flake8-and-isort-cac8b01e0ea1
 
 [https://pre-commit.com/hooks.html](https://pre-commit.com/hooks.html)
- [GitHub - igorshubovych/markdownlint-cli: MarkdownLint Command Line Interface](https://github.com/igorshubovych/markdownlint-cli) ⭐ 1.0k
+ [GitHub - igorshubovych/markdownlint-cli: MarkdownLint Command Line Interface](https://github.com/igorshubovych/markdownlint-cli) ⭐ 1.1k
 
 [https://pre-commit.com/](https://pre-commit.com/)
 
-[https://github.com/pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) ⭐ 6.5k
+[https://github.com/pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) ⭐ 6.6k
 
 ## flake8
 
@@ -272,7 +272,7 @@ select = B,C,E,F,W,T4,B9,N8
 
 Here are some of the interesting flake8 plugins:
 
-- [cohesion](https://github.com/mschwager/cohesion) ⭐ 256: Check if class cohesion is below a threshold. This indicates that functionality should be split out of a class.
+- [cohesion](https://github.com/mschwager/cohesion) ⭐ 273: Check if class cohesion is below a threshold. This indicates that functionality should be split out of a class.
 - [flake8-assert-msg](https://pypi.org/project/flake8-assert-msg/): Make sure assert statements have messages
 - [flake8-blind-except](https://pypi.org/project/flake8-blind-except/): Prevent Pokemon exception catching
 - [flake8-builtins](https://pypi.org/project/flake8-builtins/): Check for python builtins being used as variables or parameters.
@@ -383,7 +383,7 @@ Besides radon, there are various other packages and Flake8 plugins:
 - [flake8-expression-complexity](https://pypi.org/project/flake8-expression-complexity/): Make sure that single expressions are not too complicated; similar to cyclomatic complexity for functions / classes.
 - [flake8-functions](https://pypi.org/project/flake8-functions/): Report too long functions and functions with too many arguments
 - [mccabe](https://pypi.org/project/mccabe/): This is used by a couple of other tools and projects
-    - [GitHub - PyCQA/mccabe: McCabe complexity checker for Python](https://github.com/PyCQA/mccabe) ⭐ 675
+    - [GitHub - PyCQA/mccabe: McCabe complexity checker for Python](https://github.com/PyCQA/mccabe) ⭐ 680
 - [wily](https://pypi.org/project/wily/): A command-line application for tracking, reporting on the complexity of Python tests and applications.
 - [xenon](https://pypi.org/project/xenon/): Relies on radon
 
@@ -401,6 +401,6 @@ https://www.youtube.com/watch?v=4klj8UYPZxY&ab_channel=freeCodeCampTalks
 
 ## Others
 
-[GitHub - Instagram/Fixit: Advanced Python linting framework with auto-fixes and hierarchical configuration that makes it easy to write custom in-repo lint rules.](https://github.com/Instagram/Fixit) ⭐ 704
+[GitHub - Instagram/Fixit: Advanced Python linting framework with auto-fixes and hierarchical configuration that makes it easy to write custom in-repo lint rules.](https://github.com/Instagram/Fixit) ⭐ 706
 
 [Fixit: linting framework with auto-fixes - Fixit documentation](https://fixit.readthedocs.io/en/latest/)

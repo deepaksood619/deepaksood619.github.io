@@ -1,7 +1,7 @@
 # Low-Code / No-Code Platforms / LCNC
 
 - [n8n](technologies/others/n8n.md)
-- [GitHub - simstudioai/sim: Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.](https://github.com/simstudioai/sim) ⭐ 28k
+- [GitHub - simstudioai/sim: Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.](https://github.com/simstudioai/sim) ⭐ 29k
 	- [Sim](https://www.sim.ai/)
 - Medium Code
 - https://uxplanet.org/how-frontend-works-in-the-era-of-no-code-top-6-visual-development-tools-ae5c22b14f5d
@@ -53,7 +53,7 @@
 	- [6,000+ Webflow HTML website templates | Webflow](https://webflow.com/templates)
 - [Drag and Drop Website Builder - Create Websites with WebWave](https://webwave.me/)
 - [Locofy.ai - ship your products 5-10x faster - with low code](https://www.locofy.ai/)
-- [Plasmic | Build powerful apps fast- without the limits](https://www.plasmic.app/) - [GitHub - plasmicapp/plasmic: Visual builder for React. Build apps, websites, and content. Integrate with your codebase.](https://github.com/plasmicapp/plasmic) ⭐ 6.8k
+- [Plasmic | Build powerful apps fast- without the limits](https://www.plasmic.app/) - [GitHub - plasmicapp/plasmic: Visual builder for React. Build apps, websites, and content. Integrate with your codebase.](https://github.com/plasmicapp/plasmic) ⭐ 6.9k
 - [DhiWise: App Development Platform for High Productivity](https://www.dhiwise.com/)
 - [Dora AI - Generating powerful websites, one prompt at a time](https://www.dora.run/ai)
 - [Framer - Start your dream site with AI. Zero code, maximum speed.](https://www.framer.com/)

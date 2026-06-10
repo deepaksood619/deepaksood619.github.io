@@ -498,7 +498,7 @@ Indian History - https://www.anirudhkanisetti.com/podcasts
 - [YouTube Transcript - read YouTube videos](https://youtubetranscript.com/)
 - [12ft Ladder](https://12ft.io/)
 	- [Bypass Paywalls Clean - Wikipedia](https://en.m.wikipedia.org/wiki/Bypass_Paywalls_Clean)
-	- [GitHub - csns1/bypass-paywalls-chrome-clean-magnolia1234: Bypass Paywalls Clean for Chrome (no Google Analytics, lot of updates/bug-fixes and custom sites)](https://github.com/csns1/bypass-paywalls-chrome-clean-magnolia1234) ⭐ 713
+	- [GitHub - csns1/bypass-paywalls-chrome-clean-magnolia1234: Bypass Paywalls Clean for Chrome (no Google Analytics, lot of updates/bug-fixes and custom sites)](https://github.com/csns1/bypass-paywalls-chrome-clean-magnolia1234) ⭐ 943
 	- [Webpage archive](https://archive.ph/)
 - https://freedium.cfd/
 
@@ -532,7 +532,7 @@ Indian History - https://www.anirudhkanisetti.com/podcasts
 
 ### Torrents
 
-- [GitHub - iptv-org/iptv: Collection of publicly available IPTV channels from all over the world](https://github.com/iptv-org/iptv) ⭐ 116k
+- [GitHub - iptv-org/iptv: Collection of publicly available IPTV channels from all over the world](https://github.com/iptv-org/iptv) ⭐ 118k
     - [Checking Browser Services](https://old-gods.technorozen.workers.dev/1746434002950/home/)
     - https://www.highspeedcdnserver.workers.dev/1763392793140/top-100
     - https://thepiratebay.isworking.xyz/
@@ -579,7 +579,7 @@ Indian History - https://www.anirudhkanisetti.com/podcasts
     - Not working - [GitHub - ytdl-org/youtube-dl: Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl) ⭐ 140k
 	    - `youtube-dl --cookies cookies.txt https://www.udemy.com/aws-certified-developer-associate-dva-c01/ --verbose`
 	    - `youtube-dl -u user@domain.com -p P@ssw0rd https://www.udemy.com/the-ultimate-google-adwords-training-course/learn/lecture/12313178#content`
-    - Working - [GitHub - yt-dlp/yt-dlp: A feature-rich command-line audio/video downloader](https://github.com/yt-dlp/yt-dlp) ⭐ 159k
+    - Working - [GitHub - yt-dlp/yt-dlp: A feature-rich command-line audio/video downloader](https://github.com/yt-dlp/yt-dlp) ⭐ 170k
         - `brew install yt-dlp`
         - `yt-dlp https://www.youtube.com/watch?v=9NfX6tn7bXU`
 - [Watch Movies Streaming Online Free | TV Show Online HD](https://theflixer.tv/)

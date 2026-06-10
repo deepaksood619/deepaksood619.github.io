@@ -31,7 +31,7 @@ Standard IO takes a user space buffer and then copies it's content to the page c
 
 ## Page Cache
 
-[Page Cache](https://github.com/torvalds/linux/blob/master/include/linux/buffer_head.h) ⭐ 231k stores the recently accessed fragments of files that are more likely to be accessed in the nearest time. When working with disk files, read() andwrite() calls do not initiate disk accesses directly and go through Page Cache instead.
+[Page Cache](https://github.com/torvalds/linux/blob/master/include/linux/buffer_head.h) ⭐ 236k stores the recently accessed fragments of files that are more likely to be accessed in the nearest time. When working with disk files, read() andwrite() calls do not initiate disk accesses directly and go through Page Cache instead.
 
 ![image](../../media/Disk-IO-image2.jpg)
 

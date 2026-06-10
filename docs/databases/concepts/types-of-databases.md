@@ -80,14 +80,14 @@ https://rethinkdb.com
 - [Amazon Neptune](https://aws.amazon.com/neptune/)- Fully-managed graph database service.
 - [Ultimate Scalable Graph Database: ArangoDB for Real-World Use Cases](https://arangodb.com/)
     - [GitHub - arangodb/arangodb: 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.](https://github.com/arangodb/arangodb) ⭐ 14k
-- [Bitsy](https://github.com/lambdazen/bitsy/wiki) ⭐ 149- A small, fast, embeddable, durable in-memory graph database.
-- [Blazegraph](https://github.com/blazegraph/tinkerpop3) ⭐ 63- RDF graph database with OLTP support.
+- [Bitsy](https://github.com/lambdazen/bitsy/wiki) ⭐ 150- A small, fast, embeddable, durable in-memory graph database.
+- [Blazegraph](https://github.com/blazegraph/tinkerpop3) ⭐ 62- RDF graph database with OLTP support.
 - [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction)- Microsoft's distributed OLTP graph database.
-- [ChronoGraph](https://github.com/MartinHaeusler/chronos/tree/master/org.chronos.chronograph) ⭐ 53- A versioned graph database.
+- [ChronoGraph](https://github.com/MartinHaeusler/chronos/tree/master/org.chronos.chronograph) ⭐ 54- A versioned graph database.
 - [DSEGraph](https://www.datastax.com/products/datastax-enterprise-graph)- DataStax graph database with OLTP and OLAP support.
 - [GRAKN.AI](https://grakn.ai/)- Distributed OLTP/OLAP knowledge graph system.
 - [Hadoop (Spark)](https://tinkerpop.apache.org/docs/current/reference/#sparkgraphcomputer)- OLAP graph processor using Spark.
-- [HGraphDB](https://github.com/rayokota/hgraphdb) ⭐ 265- OLTP graph database running on Apache HBase.
+- [HGraphDB](https://github.com/rayokota/hgraphdb) ⭐ 264- OLTP graph database running on Apache HBase.
 - [Huawei Graph Engine Service](https://www.huaweicloud.com/en-us/product/ges.html)- Fully-managed, distributed, at-scale graph query and analysis service that provides a visualized interactive analytics platform.
 - IBM Graph- OLTP graph database as a service.
 - [JanusGraph](http://janusgraph.org/)- Distributed OLTP and OLAP graph database with BerkeleyDB, Apache Cassandra and Apache HBase support.

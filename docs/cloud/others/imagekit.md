@@ -143,7 +143,7 @@ If you update the time stamp on your URL to the one on newer version, you skip t
 ### Libraries / SDKs
 
 - [SDK - ImageKit.io Docs](https://docs.imagekit.io/api-reference/api-introduction/sdk)
-- [GitHub - imagekit-developer/imagekit-javascript: Javascript SDK for using ImageKit.io](https://github.com/imagekit-developer/imagekit-javascript) ⭐ 90
+- [GitHub - imagekit-developer/imagekit-javascript: Javascript SDK for using ImageKit.io](https://github.com/imagekit-developer/imagekit-javascript) ⭐ 91
 - [GitHub - imagekit-developer/imagekit-react: React SDK for using ImageKit.io](https://github.com/imagekit-developer/imagekit-react) ⭐ 111
 - [GitHub - imagekit-developer/imagekit-python: ImageKit.io Python SDK](https://github.com/imagekit-developer/imagekit-python) ⭐ 56
 

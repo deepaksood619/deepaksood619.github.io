@@ -385,4 +385,4 @@ passing
 
 [GitHub - EcZachly/microbatch-hourly-deduped-tutorial](https://github.com/EcZachly/microbatch-hourly-deduped-tutorial) ⭐ 124
 
-[GitHub - EcZachly/little-book-of-pipelines: This repository goes over how to handle massive variety in data engineering](https://github.com/EcZachly/little-book-of-pipelines) ⭐ 320
+[GitHub - EcZachly/little-book-of-pipelines: This repository goes over how to handle massive variety in data engineering](https://github.com/EcZachly/little-book-of-pipelines) ⭐ 322

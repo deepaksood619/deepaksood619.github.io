@@ -426,4 +426,4 @@ Value investing qualities:
 
 ### Tools
 
-- [Personal Finance Tracker - GitHub](https://github.com/JerBouma/PersonalFinance)
+- [Personal Finance Tracker - GitHub](https://github.com/JerBouma/PersonalFinance) ⭐ 127

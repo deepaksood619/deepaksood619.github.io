@@ -123,7 +123,7 @@ done
 
 [imagemagick](ai/computer-vision-cv/imagemagick.md)
 
-[GitHub - kornelski/pngquant: Lossy PNG compressor - pngquant command based on libimagequant library](https://github.com/kornelski/pngquant) ⭐ 5.6k
+[GitHub - kornelski/pngquant: Lossy PNG compressor - pngquant command based on libimagequant library](https://github.com/kornelski/pngquant) ⭐ 5.7k
 
 ### jpegoptim
 

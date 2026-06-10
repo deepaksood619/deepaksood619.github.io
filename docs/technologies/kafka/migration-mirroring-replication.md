@@ -125,7 +125,7 @@ The most important difference: **Cluster Linking is a broker-level, real-time, b
 
 `kafka-metrics-extractor` is a tool designed to pull raw usage from Kafka providers such as MSK, OSK and others (currently supports MSK clusters only). The script for extracting MSK usage, it uses MSK permissions to list and describe the clusters only and then collects the usage data from CloudWatch and CostExplorer in order to avoid any cluster disruption.
 
-### [GitHub - confluentinc/kcp](https://github.com/confluentinc/kcp) ⭐ 25 (Kafka Copy Paste)
+### [GitHub - confluentinc/kcp](https://github.com/confluentinc/kcp) ⭐ 27 (Kafka Copy Paste)
 
 - Simplify and streamline your Kafka migration journey to Confluent Cloud!
 - kcp helps you migrate your Kafka setups to Confluent Cloud by providing tools to:

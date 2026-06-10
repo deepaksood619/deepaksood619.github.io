@@ -163,8 +163,8 @@ Open two instance of same application - **open -n MQTT.fx.app**
 - Cmd + Shift + G in Finder
 - Alfred - [Alfred - Productivity App for macOS](https://www.alfredapp.com/)
 - [Raycast - Supercharged productivity](https://www.raycast.com/)
-	- [GitHub - raycast/extensions: Everything you need to extend Raycast.](https://github.com/raycast/extensions) ⭐ 7.4k
-	- [GitHub - raycast/script-commands: Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.](https://github.com/raycast/script-commands) ⭐ 6.7k
+	- [GitHub - raycast/extensions: Everything you need to extend Raycast.](https://github.com/raycast/extensions) ⭐ 7.5k
+	- [GitHub - raycast/script-commands: Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.](https://github.com/raycast/script-commands) ⭐ 6.8k
 	- [A love letter to Raycast ❤️](https://rmoff.net/2025/12/18/a-love-letter-to-raycast/)
 
 #### Comparison
@@ -297,7 +297,7 @@ brew services cleanup
 - bat
 - ~~neovim~~ - https://github.com/neovim/neovim
 - ~~fzf (A command-line fuzzy finder) - ~~https://github.com/junegunn/fzf
-- [GitHub - ellie/atuin: 🐢 Magical shell history](https://github.com/ellie/atuin) ⭐ 11
+- [GitHub - ellie/atuin: 🐢 Magical shell history](https://github.com/ellie/atuin) ⭐ 16
 - ~~the_silver_searcher (command ag "services") - ~~https://github.com/ggreer/the_silver_searcher
 - **awscli**
 - **python3**
@@ -319,7 +319,7 @@ brew services cleanup
 	- SHIFT (⇧) + COMMAND (⌘) + C to popup Maccy or click on its icon in the menu bar.
 	- To disable Maccy and ignore new copies, click on the menu icon with OPTION (⌥) pressed.
 	- To ignore only the next copy, click on the menu icon with OPTION (⌥) + SHIFT (⇧) pressed.
-- [GitHub - PasteBar/PasteBarApp: PasteBar - Limitless, Free Clipboard Manager for Mac and Windows](https://github.com/PasteBar/PasteBarApp) ⭐ 2.0k
+- [GitHub - PasteBar/PasteBarApp: PasteBar - Limitless, Free Clipboard Manager for Mac and Windows](https://github.com/PasteBar/PasteBarApp) ⭐ 2.1k
 - [GitHub - hluk/CopyQ: Clipboard manager with advanced features](https://github.com/hluk/CopyQ) ⭐ 12k
 - [GitHub - Slackadays/Clipboard: 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager](https://github.com/Slackadays/Clipboard) ⭐ 5.8k
 - [GitHub - TermiT/Flycut: Clean and simple clipboard manager for developers](https://github.com/TermiT/Flycut) ⭐ 2.7k
@@ -418,11 +418,11 @@ model = gemini-2.5-flash
 ```
 
 - Alternatives
-	- [GitHub - ekkinox/yai: Your AI powered terminal assistant. · GitHub](https://github.com/ekkinox/yai) ⭐ 869
+	- [GitHub - ekkinox/yai: Your AI powered terminal assistant. · GitHub](https://github.com/ekkinox/yai) ⭐ 867
 	- [GitHub - dh1011/llm-term: A Rust-based CLI tool that generates and executes terminal commands using OpenAI's language models. · GitHub](https://github.com/dh1011/llm-term) ⭐ 152
-	- [GitHub - AnswerDotAI/shell\_sage: ShellSage saves sysadmins’ sanity by solving shell script snafus super swiftly · GitHub](https://github.com/AnswerDotAI/shell_sage) ⭐ 399
-	- [GitHub - kylesnowschwartz/zsh-ai-cmd: Zsh plugin: natural language to shell commands with AI · GitHub](https://github.com/kylesnowschwartz/zsh-ai-cmd) ⭐ 92
-	- [GitHub - theNetworkChuck/ai-in-the-terminal: Complete companion guide for NetworkChuck's 'AI in the Terminal' video - Gemini CLI, Claude Code, Codex, and opencode workflows · GitHub](https://github.com/theNetworkChuck/ai-in-the-terminal) ⭐ 807
+	- [GitHub - AnswerDotAI/shell\_sage: ShellSage saves sysadmins’ sanity by solving shell script snafus super swiftly · GitHub](https://github.com/AnswerDotAI/shell_sage) ⭐ 403
+	- [GitHub - kylesnowschwartz/zsh-ai-cmd: Zsh plugin: natural language to shell commands with AI · GitHub](https://github.com/kylesnowschwartz/zsh-ai-cmd) ⭐ 95
+	- [GitHub - theNetworkChuck/ai-in-the-terminal: Complete companion guide for NetworkChuck's 'AI in the Terminal' video - Gemini CLI, Claude Code, Codex, and opencode workflows · GitHub](https://github.com/theNetworkChuck/ai-in-the-terminal) ⭐ 827
 
 #### Settings
 

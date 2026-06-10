@@ -111,7 +111,7 @@ https://developers.google.com/ml-kit
 
 Haystack is the open source Python framework by deepset for building custom apps with large language models (LLMs). It lets you quickly try out the latest models in natural language processing (NLP) while being flexible and easy to use. Our inspiring community of users and builders has helped shape Haystack into what it is today: a complete framework for building production-ready NLP apps.
 
-[GitHub - deepset-ai/haystack](https://github.com/deepset-ai/haystack) ⭐ 25k
+[GitHub - deepset-ai/haystack](https://github.com/deepset-ai/haystack) ⭐ 26k
 
 [What is Haystack? | Haystack](https://haystack.deepset.ai/overview/intro)
 

@@ -98,7 +98,7 @@ Dragonfly is a drop-in Redis replacement, designed to meet the performance and e
 
 - [Dragonfly - The Fastest In-Memory Data Store](https://www.dragonflydb.io/)
 - [Redis vs. Dragonfly Scalability and Performance](https://www.dragonflydb.io/blog/scaling-performance-redis-vs-dragonfly)
-- [GitHub - dragonflydb/dragonfly: A modern replacement for Redis and Memcached](https://github.com/dragonflydb/dragonfly) ⭐ 30k
+- [GitHub - dragonflydb/dragonfly: A modern replacement for Redis and Memcached](https://github.com/dragonflydb/dragonfly) ⭐ 31k
 - [DragonflyDB Architecture Overview, Internals, and Trade-offs - hitting 6.43 million ops/sec - YouTube](https://www.youtube.com/watch?v=XbV1LoVsbME&ab_channel=ArpitBhayani)
 
 ## Other in-memory database

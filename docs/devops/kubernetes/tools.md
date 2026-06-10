@@ -437,12 +437,12 @@ External Secrets Operator reads information from a third-party service like AWS 
 
 [Introduction - External Secrets Operator](https://external-secrets.io/latest/)
 
-[GitHub - external-secrets/external-secrets - GitHub](https://github.com/external-secrets/external-secrets) ⭐ 6.6k
+[GitHub - external-secrets/external-secrets - GitHub](https://github.com/external-secrets/external-secrets) ⭐ 6.7k
 
 ## Others
 
 - https://www.getporter.dev
 - https://spot.io/products/ocean
-- [GitHub - spekt8/spekt8: Visualize your Kubernetes cluster in real time](https://github.com/spekt8/spekt8) ⭐ 740
-- [GitHub - aquasecurity/kube-bench: Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark](https://github.com/aquasecurity/kube-bench) ⭐ 8.0k
+- [GitHub - spekt8/spekt8: Visualize your Kubernetes cluster in real time](https://github.com/spekt8/spekt8) ⭐ 738
+- [GitHub - aquasecurity/kube-bench: Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark](https://github.com/aquasecurity/kube-bench) ⭐ 8.1k
 - [GitHub - kubeshark/kubeshark: The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes](https://github.com/kubeshark/kubeshark) ⭐ 12k

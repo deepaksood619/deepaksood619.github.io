@@ -6,10 +6,10 @@ Design goals are to have a minimal memory footprint with a plugin system so that
 
 Telegraf is plugin-driven and has the concept of 4 distinct plugins:
 
-1. [Input Plugins](https://github.com/influxdata/telegraf#input-plugins) ⭐ 17k collect metrics from the system, services, or 3rd party APIs
-2. [Processor Plugins](https://github.com/influxdata/telegraf#processor-plugins) ⭐ 17k transform, decorate, and/or filter metrics
-3. [Aggregator Plugins](https://github.com/influxdata/telegraf#aggregator-plugins) ⭐ 17k create aggregate metrics (e.g. mean, min, max, quantiles, etc.)
-4. [Output Plugins](https://github.com/influxdata/telegraf#output-plugins) ⭐ 17k write metrics to various destinations
+1. [Input Plugins](https://github.com/influxdata/telegraf#input-plugins) ⭐ 18k collect metrics from the system, services, or 3rd party APIs
+2. [Processor Plugins](https://github.com/influxdata/telegraf#processor-plugins) ⭐ 18k transform, decorate, and/or filter metrics
+3. [Aggregator Plugins](https://github.com/influxdata/telegraf#aggregator-plugins) ⭐ 18k create aggregate metrics (e.g. mean, min, max, quantiles, etc.)
+4. [Output Plugins](https://github.com/influxdata/telegraf#output-plugins) ⭐ 18k write metrics to various destinations
 
 ## Architecture
 
@@ -17,19 +17,19 @@ Telegraf is plugin-driven and has the concept of 4 distinct plugins:
 
 ## Input Data Formats
 
-Telegraf contains many general purpose plugins that support parsing input data using a configurable parser into [metrics](https://github.com/influxdata/telegraf/blob/master/docs/METRICS) ⭐ 17k. This allows, for example, thekafka_consumerinput plugin to process messages in either InfluxDB Line Protocol or in JSON format.
+Telegraf contains many general purpose plugins that support parsing input data using a configurable parser into [metrics](https://github.com/influxdata/telegraf/blob/master/docs/METRICS) ⭐ 18k. This allows, for example, thekafka_consumerinput plugin to process messages in either InfluxDB Line Protocol or in JSON format.
 
-- [InfluxDB Line Protocol](https://github.com/influxdata/telegraf/blob/master/plugins/parsers/influx) ⭐ 17k
-- [Collectd](https://github.com/influxdata/telegraf/blob/master/plugins/parsers/collectd) ⭐ 17k
-- [CSV](https://github.com/influxdata/telegraf/blob/master/plugins/parsers/csv) ⭐ 17k
-- [Dropwizard](https://github.com/influxdata/telegraf/blob/master/plugins/parsers/dropwizard) ⭐ 17k
-- [Graphite](https://github.com/influxdata/telegraf/blob/master/plugins/parsers/graphite) ⭐ 17k
-- [Grok](https://github.com/influxdata/telegraf/blob/master/plugins/parsers/grok) ⭐ 17k
-- [JSON](https://github.com/influxdata/telegraf/blob/master/plugins/parsers/json) ⭐ 17k
-- [Logfmt](https://github.com/influxdata/telegraf/blob/master/plugins/parsers/logfmt) ⭐ 17k
-- [Nagios](https://github.com/influxdata/telegraf/blob/master/plugins/parsers/nagios) ⭐ 17k
-- [Value](https://github.com/influxdata/telegraf/blob/master/plugins/parsers/value) ⭐ 17k, ie: 45 or "booyah"
-- [Wavefront](https://github.com/influxdata/telegraf/blob/master/plugins/parsers/wavefront) ⭐ 17k
+- [InfluxDB Line Protocol](https://github.com/influxdata/telegraf/blob/master/plugins/parsers/influx) ⭐ 18k
+- [Collectd](https://github.com/influxdata/telegraf/blob/master/plugins/parsers/collectd) ⭐ 18k
+- [CSV](https://github.com/influxdata/telegraf/blob/master/plugins/parsers/csv) ⭐ 18k
+- [Dropwizard](https://github.com/influxdata/telegraf/blob/master/plugins/parsers/dropwizard) ⭐ 18k
+- [Graphite](https://github.com/influxdata/telegraf/blob/master/plugins/parsers/graphite) ⭐ 18k
+- [Grok](https://github.com/influxdata/telegraf/blob/master/plugins/parsers/grok) ⭐ 18k
+- [JSON](https://github.com/influxdata/telegraf/blob/master/plugins/parsers/json) ⭐ 18k
+- [Logfmt](https://github.com/influxdata/telegraf/blob/master/plugins/parsers/logfmt) ⭐ 18k
+- [Nagios](https://github.com/influxdata/telegraf/blob/master/plugins/parsers/nagios) ⭐ 18k
+- [Value](https://github.com/influxdata/telegraf/blob/master/plugins/parsers/value) ⭐ 18k, ie: 45 or "booyah"
+- [Wavefront](https://github.com/influxdata/telegraf/blob/master/plugins/parsers/wavefront) ⭐ 18k
 
 https://github.com/influxdata/telegraf/blob/master/docs/DATA_FORMATS_INPUT
 

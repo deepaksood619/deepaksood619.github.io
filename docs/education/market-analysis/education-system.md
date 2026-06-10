@@ -136,7 +136,7 @@ In essence, a "non-regrettable minute" is a moment where the learner makes a sma
 
 ## LMS (Learning Management System)
 
-- [GitHub - frappe/lms: Easy to Use, 100% Open Source Learning Management System](https://github.com/frappe/lms) ⭐ 2.9k
+- [GitHub - frappe/lms: Easy to Use, 100% Open Source Learning Management System](https://github.com/frappe/lms) ⭐ 3.0k
 	- [mon school - Free and open access online coding lessons.](https://mon.school/)
 - [Monetise your expertise - Graphy](https://graphy.com/)
 - [Edmingle - Build, Manage & Scale Your Online Academy](https://edmingle.com)

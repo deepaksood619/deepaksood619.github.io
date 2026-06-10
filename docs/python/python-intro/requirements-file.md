@@ -74,17 +74,17 @@ pur -r requirements.txt
 ### UV
 
 - 🚀 A single tool to replace `pip`, `pip-tools`, `pipx`, `poetry`, `pyenv`, `twine`, `virtualenv`, and more.
-- ⚡️ [10-100x faster](https://github.com/astral-sh/uv/blob/main/BENCHMARKS.md) ⭐ 84k than `pip`.
-- 🐍 [Installs and manages](https://github.com/astral-sh/uv#python-management) ⭐ 84k Python versions.
-- 🛠️ [Runs and installs](https://github.com/astral-sh/uv#tool-management) ⭐ 84k Python applications.
-- ❇️ [Runs single-file scripts](https://github.com/astral-sh/uv#script-support) ⭐ 84k, with support for [inline dependency metadata](https://docs.astral.sh/uv/guides/scripts#declaring-script-dependencies).
-- 🗂️ Provides [comprehensive project management](https://github.com/astral-sh/uv#project-management) ⭐ 84k, with a [universal lockfile](https://docs.astral.sh/uv/concepts/projects#project-lockfile).
-- 🔩 Includes a [pip-compatible interface](https://github.com/astral-sh/uv#a-pip-compatible-interface) ⭐ 84k for a performance boost with a familiar CLI.
+- ⚡️ [10-100x faster](https://github.com/astral-sh/uv/blob/main/BENCHMARKS.md) ⭐ 86k than `pip`.
+- 🐍 [Installs and manages](https://github.com/astral-sh/uv#python-management) ⭐ 86k Python versions.
+- 🛠️ [Runs and installs](https://github.com/astral-sh/uv#tool-management) ⭐ 86k Python applications.
+- ❇️ [Runs single-file scripts](https://github.com/astral-sh/uv#script-support) ⭐ 86k, with support for [inline dependency metadata](https://docs.astral.sh/uv/guides/scripts#declaring-script-dependencies).
+- 🗂️ Provides [comprehensive project management](https://github.com/astral-sh/uv#project-management) ⭐ 86k, with a [universal lockfile](https://docs.astral.sh/uv/concepts/projects#project-lockfile).
+- 🔩 Includes a [pip-compatible interface](https://github.com/astral-sh/uv#a-pip-compatible-interface) ⭐ 86k for a performance boost with a familiar CLI.
 - 🏢 Supports Cargo-style [workspaces](https://docs.astral.sh/uv/concepts/workspaces) for scalable projects.
 - 💾 Disk-space efficient, with a [global cache](https://docs.astral.sh/uv/concepts/cache) for dependency deduplication.
 - ⏬ Installable without Rust or Python via `curl` or `pip`.
 - 🖥️ Supports macOS, Linux, and Windows.
-- [GitHub - astral-sh/uv: An extremely fast Python package and project manager, written in Rust.](https://github.com/astral-sh/uv) ⭐ 84k
+- [GitHub - astral-sh/uv: An extremely fast Python package and project manager, written in Rust.](https://github.com/astral-sh/uv) ⭐ 86k
 - [Get started with uv.ipynb - Colab](https://colab.research.google.com/drive/1o0FJVhYaXAATe6ctgV2cfINhTC_JwxXL?usp=sharing)
 
 ```bash

@@ -196,8 +196,8 @@ https://www.cortex.dev
 	- SHAP (SHapley Additive exPlanations)
 	- FastAPI
 	- Docker
-- [GitHub - feast-dev/feast: The Open Source Feature Store for Machine Learning](https://github.com/feast-dev/feast) ⭐ 7.0k
-- [GitHub - pycaret/pycaret: Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native engine + React control plane. · GitHub](https://github.com/pycaret/pycaret)
+- [GitHub - feast-dev/feast: The Open Source Feature Store for Machine Learning](https://github.com/feast-dev/feast) ⭐ 7.1k
+- [GitHub - pycaret/pycaret: Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native engine + React control plane. · GitHub](https://github.com/pycaret/pycaret) ⭐ 9.8k
 
 ## SAAS Tools
 

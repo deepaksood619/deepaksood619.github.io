@@ -175,7 +175,7 @@ Firecracker is an open source virtualization technology that is purpose-built fo
 
 The main component of Firecracker is a virtual machine monitor (VMM) that uses the Linux Kernel Virtual Machine (KVM) to create and run microVMs. Firecracker has a minimalist design. It excludes unnecessary devices and guest-facing functionality to reduce the memory footprint and attack surface area of each microVM. This improves security, decreases the startup time, and increases hardware utilization. Firecracker currently supports Intel, AMD (preview) and Arm (preview) CPUs. Firecracker has also been integrated in container runtimes, for example [Kata Containers](https://github.com/kata-containers/documentation/wiki/Initial-release-of-Kata-Containers-with-Firecracker-support) ⭐ 492 and [Weaveworks Ignite](https://github.com/weaveworks/ignite) ⭐ 3.5k.
 
-Firecracker was developed at Amazon Web Services to accelerate the speed and efficiency of services like [AWS Lambda](https://aws.amazon.com/lambda/) and [AWS Fargate](https://aws.amazon.com/fargate/). Firecracker is open sourced under [Apache version 2.0](https://github.com/firecracker-microvm/firecracker/blob/master/LICENSE) ⭐ 34k.
+Firecracker was developed at Amazon Web Services to accelerate the speed and efficiency of services like [AWS Lambda](https://aws.amazon.com/lambda/) and [AWS Fargate](https://aws.amazon.com/fargate/). Firecracker is open sourced under [Apache version 2.0](https://github.com/firecracker-microvm/firecracker/blob/master/LICENSE) ⭐ 35k.
 
 https://github.com/firecracker-microvm/firecracker
 

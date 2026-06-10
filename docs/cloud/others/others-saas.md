@@ -4,7 +4,7 @@
 - Videos - https://animoto.com
 - Stock Photos - https://unsplash.com
 - https://nimbletext.com/Live
-- [GitHub - ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev) ⭐ 121k
+- [GitHub - ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev) ⭐ 123k
 	- [Free for Developers](https://free-for.dev)
 - [Open Source Alternatives to Proprietary Software](https://www.opensourcealternative.to/)
 - [Business Software and Services Reviews | G2](https://www.g2.com/)
@@ -77,7 +77,7 @@ A warehouse management system is software that helps companies manage and contro
 - https://wperp.com/81080/7-most-popular-open-source-hris-software-to-look-for-now-an-easy-comparison
 - https://www.lever.co
 - [sap](cloud/others/sap.md)
-- Best - **[GitHub - frappe/hrms: Open Source HR and Payroll Software](https://github.com/frappe/hrms) ⭐ 7.8k**
+- Best - **[GitHub - frappe/hrms: Open Source HR and Payroll Software](https://github.com/frappe/hrms) ⭐ 8.1k**
 - [Cadana \| Payroll Infrastructure for Emerging Markets](https://cadanapay.com/)
 - [Keka \| The HR Payroll software loved by businesses like yours](https://www.keka.com)
 - [Multiplier \| The World's Leading Global Human Platform](https://www.usemultiplier.com/)
@@ -85,7 +85,7 @@ A warehouse management system is software that helps companies manage and contro
 ## Education
 
 - [Superset | Automate Campus Placement and Campus Recruitment](https://joinsuperset.com/) - For Colleges
-- moodle - [GitHub - moodle/moodle: Moodle - the world's open source learning platform](https://github.com/moodle/moodle) ⭐ 7.0k - [Home | Moodle.org](https://moodle.org/)
+- moodle - [GitHub - moodle/moodle: Moodle - the world's open source learning platform](https://github.com/moodle/moodle) ⭐ 7.2k - [Home | Moodle.org](https://moodle.org/)
 - [Ethos Open Software | Ellucian](https://www.ellucian.com/solutions/ellucian-ethos)
 
 ## Telegram
@@ -172,7 +172,7 @@ If someone accidentally adds dots to your address when emailing you, you'll sti
 
 ## Google Photos Alternative
 
-- [GitHub - immich-app/immich: High performance self-hosted photo and video management solution.](https://github.com/immich-app/immich) ⭐ 99k
+- [GitHub - immich-app/immich: High performance self-hosted photo and video management solution.](https://github.com/immich-app/immich) ⭐ 103k
 	- [Home \| Immich](https://immich.app/)
 	- [Do you use immich as a primary backup? : r/immich](https://www.reddit.com/r/immich/comments/15w8o1e/do_you_use_immich_as_a_primary_backup/)
 	- [Backup Script \| Immich](https://immich.app/docs/guides/template-backup-script/)

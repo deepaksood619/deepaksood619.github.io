@@ -19,7 +19,7 @@ A CNCF (Cloud Native Computing Foundation) project, is a systems and service mon
 - [client libraries](https://prometheus.io/docs/instrumenting/clientlibs/) for instrumenting application code
 - a [push gateway](https://github.com/prometheus/pushgateway) ⭐ 3.3k for supporting short-lived jobs
 - special-purpose [exporters](https://prometheus.io/docs/instrumenting/exporters/) for services like HAProxy, StatsD, Graphite, etc.
-- an [alertmanager](https://github.com/prometheus/alertmanager) ⭐ 8.4k to handle alerts
+- an [alertmanager](https://github.com/prometheus/alertmanager) ⭐ 8.5k to handle alerts
 - various support tools
 
 ## Architecture Overview

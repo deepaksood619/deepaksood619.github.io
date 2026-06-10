@@ -237,7 +237,7 @@ https://vlang.io
 
 [Home ⚡ Zig Programming Language](https://ziglang.org/)
 
-[GitHub - zigzap/zap: blazingly fast backends in zig](https://github.com/zigzap/zap) ⭐ 3.3k
+[GitHub - zigzap/zap: blazingly fast backends in zig](https://github.com/zigzap/zap) ⭐ 3.4k
 
 ## .net / dotnet
 
@@ -257,7 +257,7 @@ https://vlang.io
 
 ### Libraries
 
-- [GitHub - serilog/serilog: Simple .NET logging with fully-structured events](https://github.com/serilog/serilog) ⭐ 7.9k
+- [GitHub - serilog/serilog: Simple .NET logging with fully-structured events](https://github.com/serilog/serilog) ⭐ 8.0k
 - [Serilog — simple .NET logging with fully-structured events](https://serilog.net/)
 
 ## CEL

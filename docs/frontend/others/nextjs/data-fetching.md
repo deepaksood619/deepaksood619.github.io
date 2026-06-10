@@ -48,7 +48,7 @@ If you export a function called `getStaticProps` (Static Site Generation) from a
 
 ### TypeORM
 
-[GitHub - typeorm/typeorm: ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.](https://github.com/typeorm/typeorm) ⭐ 36k
+[GitHub - typeorm/typeorm: ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.](https://github.com/typeorm/typeorm) ⭐ 37k
 
 ## Caching
 

@@ -1,7 +1,7 @@
 # Pedagogy
 
 - [Learning Intro](education/pedagogy/learning-intro.md)
-- [Learning Styles](education/pedagogy/learning-styles.md)
+- [Learning Styles & Archetypes](education/pedagogy/learning-styles.md) — Neuromyth debunking (VARK), 7 modern behavioral archetypes with evidence-based strategies, universal learning principles (CLT, testing effect, spaced repetition), andragogy, Brain-on-AI research
 - [Concentration / Mindfulness / Attention / Focus / Hard Work](education/pedagogy/concentration-mindfulness-attention-focus-hard-work.md)
 - [Speed Reading](education/pedagogy/speed-reading.md)
 - [The case against conversational interfaces](education/pedagogy/conversational-interfaces.md)

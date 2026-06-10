@@ -112,7 +112,7 @@ So, creating a project first and then link to the app is essential to use Twitte
 
 ### Links
 
-- [GitHub - twitterdev/search-tweets-python at v2](https://github.com/twitterdev/search-tweets-python/tree/v2) ⭐ 898
+- [GitHub - twitterdev/search-tweets-python at v2](https://github.com/twitterdev/search-tweets-python/tree/v2) ⭐ 900
 - https://www.labnol.org/twitter-bots-tutorial-4796
 - https://www.labnol.org/twitter-search-examples-203
 - [GitHub - twitterdev/Twitter-API-v2-sample-code: Sample code for the Twitter API v2 endpoints](https://github.com/twitterdev/Twitter-API-v2-sample-code) ⭐ 3.2k

@@ -60,7 +60,7 @@ Peer to peer live streaming protocol
 
 [WebRTC Crash Course](https://youtu.be/FExZvpVvYxA)
 
-[GitHub - Jaideep25/Videolify: Peer-peer calling, with screensharing, whiteboard, amazing themes, easy to read the code, etc !!](https://github.com/Jaideep25/Videolify) ⭐ 84
+[GitHub - Jaideep25/Videolify: Peer-peer calling, with screensharing, whiteboard, amazing themes, easy to read the code, etc !!](https://github.com/Jaideep25/Videolify) ⭐ 83
 
 ## FFMPEG Streaming
 
@@ -95,7 +95,7 @@ https://trac.ffmpeg.org/wiki/Concatenate
 
 [Bringing HDR video to Reels - Engineering at Meta](https://engineering.fb.com/2023/07/17/video-engineering/hdr-video-reels-meta/)
 
-[GitHub - google-ai-edge/mediapipe: Cross-platform, customizable ML solutions for live and streaming media.](https://github.com/google-ai-edge/mediapipe) ⭐ 35k
+[GitHub - google-ai-edge/mediapipe: Cross-platform, customizable ML solutions for live and streaming media.](https://github.com/google-ai-edge/mediapipe) ⭐ 36k
 
 ## References
 

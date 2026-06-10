@@ -2,9 +2,9 @@
 
 [The Top 100 Gen AI Consumer Apps — 6th Edition \| Andreessen Horowitz](https://a16z.com/100-gen-ai-apps-6/)
 
-[GitHub - Shubhamsaboo/awesome-llm-apps: Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 108k
+[GitHub - Shubhamsaboo/awesome-llm-apps: Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 114k
 
-[GitHub - give-me/bookmarklets: Bookmarklet to export the content from chatbots to a PDF with a single click. Supports Claude, ChatGPT, Grok and Gemini.](https://github.com/give-me/bookmarklets) ⭐ 141
+[GitHub - give-me/bookmarklets: Bookmarklet to export the content from chatbots to a PDF with a single click. Supports Claude, ChatGPT, Grok and Gemini.](https://github.com/give-me/bookmarklets) ⭐ 143
 
 ## ChatGPT / Bard
 
@@ -42,7 +42,7 @@
 - Amazon Titan - Amazon Titan FMs are a family of models built by Amazon that are pretrained on large datasets, which makes them powerful, general-purpose models
 - AI21 labs - Jurassic-2 - Multilingual LLMs for text generation in Spanish, French, German, Portuguese, Italian, and Dutch
 - Antropic - Claude - LLM for conversations, question answering, and workflow automation based on research into training honest and responsible AI systems
-- [GitHub - AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 163k
+- [GitHub - AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 164k
 - Dall E - https://openai.com/dall-e-2
 - [ClipDrop](https://clipdrop.co/)
 - Deep Nostalgia
@@ -65,7 +65,7 @@
 
 - **[Napkin AI - The visual AI for business storytelling](https://www.napkin.ai/)**
 - [Julius AI \| Your AI Data Analyst](https://julius.ai/)
-- [GitHub - mahseema/awesome-ai-tools: A curated list of Artificial Intelligence Top Tools](https://github.com/mahseema/awesome-ai-tools) ⭐ 5.0k
+- [GitHub - mahseema/awesome-ai-tools: A curated list of Artificial Intelligence Top Tools](https://github.com/mahseema/awesome-ai-tools) ⭐ 5.4k
 - Merlin Chrome Extension
 - [ElevenLabs - Prime AI Text to Speech | Voice Cloning](https://beta.elevenlabs.io/)
 - [Create Video](https://studio.d-id.com/editor)
@@ -108,17 +108,17 @@
 - [Harvey | Generative AI for Elite Law Firms](https://www.harvey.ai/)
 - [GitHub - mukulpatnaik/researchgpt: A LLM based research assistant that allows you to have a conversation with a research paper](https://github.com/mukulpatnaik/researchgpt) ⭐ 3.5k
 - [Kombai](https://kombai.com/)
-- [GitHub - RamiKrispin/lang2sql: A tutorial for setting an SQL code generator with the OpenAI API](https://github.com/RamiKrispin/lang2sql) ⭐ 247
+- [GitHub - RamiKrispin/lang2sql: A tutorial for setting an SQL code generator with the OpenAI API](https://github.com/RamiKrispin/lang2sql) ⭐ 245
 - [fal.ai/camera](https://www.fal.ai/camera)
 - [GitHub - lxe/llm-companion: Mobile web app for audio "push-to-talk" + TTS chat interface with OpenAI-like APIs](https://github.com/lxe/llm-companion) ⭐ 43
-- [GitHub - adithya-s-k/CompanionLLM: CompanionLLM - A framework to finetune LLMs to be your own sentient conversational companion](https://github.com/adithya-s-k/CompanionLLM) ⭐ 52
+- [GitHub - adithya-s-k/CompanionLLM: CompanionLLM - A framework to finetune LLMs to be your own sentient conversational companion](https://github.com/adithya-s-k/CompanionLLM) ⭐ 53
 - [Waii - World's most powerful SQL API built with generative AI](https://www.waii.ai/)
 - [Introducing Devin, the first AI software engineer](https://www.cognition-labs.com/introducing-devin)
 - [Tabnine is an AI assistant that speeds up delivery and keeps your code safe](https://www.tabnine.com/)
 - [GitHub - gofireflyio/aiac: Artificial Intelligence Infrastructure-as-Code Generator.](https://github.com/gofireflyio/aiac) ⭐ 3.8k
 - [Invideo AI - Turn ideas into videos - AI video creator](https://invideo.io/)
 - [\[2407.09025\] SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/abs/2407.09025)
-- [GitHub - WecoAI/aideml: AIDE: the Machine Learning CodeGen Agent](https://github.com/WecoAI/aideml) ⭐ 1.2k
+- [GitHub - WecoAI/aideml: AIDE: the Machine Learning CodeGen Agent](https://github.com/WecoAI/aideml) ⭐ 1.3k
 - [aiPDF - Your AI-Powered PDF Chat App](https://aipdf.ai/)
 - [Knorish Flow AI - Knorish](https://knorish.com/knorish-flow-ai.html)
 	- Clone yourself with AI using your content. Coach and mentor your audience 24/7 with an AI digital version of yourself, offering expert advice and insights.
@@ -126,7 +126,7 @@
 - [Seyhan Lee](https://seyhanlee.com/)
 - [Home - teachafy](https://assistant.teachafy.com/)
 	- [Teachafy Labs](https://teachafy.com/)
-- [GitHub - k8sgpt-ai/k8sgpt: Giving Kubernetes Superpowers to everyone](https://github.com/k8sgpt-ai/k8sgpt) ⭐ 7.7k
+- [GitHub - k8sgpt-ai/k8sgpt: Giving Kubernetes Superpowers to everyone](https://github.com/k8sgpt-ai/k8sgpt) ⭐ 7.9k
 - [Sensai](https://sensai.hyperverge.org/)
 - [Visily - AI-powered UI design software](https://www.visily.ai/)
 - [AI Automation Tool to Simplify Your Complex and Routine Tasks](https://omnimind.ai/)
@@ -189,12 +189,12 @@
 - [AI4Finance Foundation · GitHub](https://github.com/AI4Finance-Foundation)
 	- [AI4Finance-Foundation.org - FinGPT, FinRobot, FinRL, AI Agent, FinLLMs, Open-Source Libraries](https://ai4finance.org/)
 	- [GitHub - AI4Finance-Foundation/FinGPT: FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.](https://github.com/AI4Finance-Foundation/FinGPT) ⭐ 20k
-	- [GitHub - AI4Finance-Foundation/FinRobot: FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀](https://github.com/AI4Finance-Foundation/FinRobot) ⭐ 6.8k
+	- [GitHub - AI4Finance-Foundation/FinRobot: FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀](https://github.com/AI4Finance-Foundation/FinRobot) ⭐ 7.2k
 
 ## DeepFakes
 
 - [Deep Live Cam \| Free online Real-time AI Face Swap & Deepfake with One Image](https://deeplivecam.org/)
-	- [GitHub - hacksider/Deep-Live-Cam: real time face swap and one-click video deepfake with only a single image](https://github.com/hacksider/Deep-Live-Cam) ⭐ 92k
+	- [GitHub - hacksider/Deep-Live-Cam: real time face swap and one-click video deepfake with only a single image](https://github.com/hacksider/Deep-Live-Cam) ⭐ 94k
 - [Magicam, The Ultimate Real-Time Face Swap Solution](https://magicam.ai/)
 
 ```bash
