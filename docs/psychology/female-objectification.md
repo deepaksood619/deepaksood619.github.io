@@ -133,11 +133,11 @@ Safeguarding adolescent girls from the insidious effects of the male gaze requir
 The primary defense against the internalization of the male gaze begins within the familial unit, particularly during early childhood and early adolescence.
 
 1. **Redirection of Reinforcement:** Parents, particularly mothers who serve as highly influential role models, must actively dismantle the "Good Girl Script." This is achieved by systematically reinforcing young women's efforts and accomplishments in non-appearance-related domains. Praise must be aggressively redirected toward academic achievement, community activism, intellectual curiosity, and emotional resilience, thereby decoupling the girl's core sense of self-worth from her physical attractiveness.
-    
+
 2. **Valuing Body Functionality over Aesthetics:** Families and educational institutions must teach girls to evaluate their bodies based on physical capability and strength rather than visual appeal. Encouraging participation in sports and physical risk-taking from early childhood builds a robust, functional appreciation of the body. However, crucial caveats apply: parents must carefully vet activities, avoiding sports that heavily emphasize thinness, appearance, and sexualized performance (such as certain forms of competitive dance or cheerleading), as these can paradoxically heighten body surveillance and self-objectification.
-    
+
 3. **Comprehensive Sexual Education:** Implementing robust, biology- and consent-based sexual education equips girls with the vocabulary required to articulate their boundaries. This education fosters essential communication skills and a strong sense of sexual responsibility, fundamentally rooting respect in the self rather than in the perception of external male observers.
-    
+
 4. **Contextualization Schemas and Media Literacy:** Educational curricula must actively teach media literacy, exposing the economic and patriarchal drivers behind the male gaze in media. By dissecting the commercialization of women in Bollywood item songs, educators can provide girls with a cognitive "shield." Engaging girls in discussions that frame sexual objectification as a symptom of a maladaptive, toxic society—rather than a reflection of their own personal inadequacy—prevents the internalizing of body shame.
 
 ### Therapeutic and Embodiment Interventions

@@ -9,6 +9,7 @@
 - [Data Ingestion / Loading](data-warehouses/snowflake/ingestion.md)
 	- [data-loading-using-copy-into-from-aws-s3](data-warehouses/snowflake/data-loading-using-copy-into-from-aws-s3.md)
 	- [snowpipe-data-ingestion-from-aws-s3](data-warehouses/snowflake/snowpipe-data-ingestion-from-aws-s3.md)
+	- [redshift-to-snowflake-migration](data-warehouses/redshift-to-snowflake-migration.md)
 - [Commands](data-warehouses/snowflake/commands.md)
 - [Recovery](data-warehouses/snowflake/recovery.md)
 - [Documentation](data-warehouses/snowflake/documentation.md)

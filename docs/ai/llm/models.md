@@ -87,6 +87,7 @@ Based on March 2026 data, **GPT-5.4-mini is a newer, more advanced "small" mod
 	- [Building AI defenses at scale: Before the threats emerge \| AWS Security Blog](https://aws.amazon.com/blogs/security/building-ai-defenses-at-scale-before-the-threats-emerge/)
 	- [Amazon Bedrock now offers Claude Mythos Preview (Gated Research Preview) - AWS](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-claude-mythos/)
 	- [Anthropic's Claude Fable 5 is a version of Mythos the public can access today \| TechCrunch](https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/)
+	- [anthropic.com/news/claude-fable-5-mythos-5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
 - [Introducing Claude Opus 4.7 \\ Anthropic](https://www.anthropic.com/news/claude-opus-4-7)
 	- [What's new in Claude Opus 4.7 - Claude API Docs](https://platform.claude.com/docs/en/about-claude/models/whats-new-claude-4-7)
 	- New Technical Features & Capabilities

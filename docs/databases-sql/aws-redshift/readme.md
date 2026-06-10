@@ -9,3 +9,4 @@
 - [Pricing / Sizing](databases-sql/aws-redshift/pricing-sizing.md)
 - [Redshift SQL Queries / Commands](databases-sql/aws-redshift/redshift-sql-queries-commands.md)
 - [Others](databases-sql/aws-redshift/others.md)
+- [redshift-to-snowflake-migration](data-warehouses/redshift-to-snowflake-migration.md)

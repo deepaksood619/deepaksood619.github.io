@@ -126,6 +126,46 @@ Snowflake actually uses a multi-cluster, shared data architecture. The storage a
     - Sequences are used to generate unique numbers across sessions and statements, including concurrent statements. They can be used to generate values for a primary key or any column that requires a unique value.
 - Snowpark for Python, Java ans Scala - Runtimes and libraries that securely deploy and process non-SQL code in Snowflake.
 
+## Releases
+
+### Snowflake Summit 2026 Highlights
+
+Snowflake's 2026 highlights center entirely on transitioning from basic data storage into an **"Agentic Enterprise" platform**. Announced predominantly at the [Snowflake Summit 2026](https://snowflake.com) in early June, the major updates focus on bringing production-ready AI agents, semantic layers, and advanced infrastructure directly to governed corporate data.
+
+#### 🤖 AI Agents & Rebranding
+
+Snowflake streamlined its primary interfaces to shift focus toward automated AI workflows:
+- **Snowflake CoCo**: Formerly *Cortex Code*, CoCo is an AI coding agent for developers available across desktops, VS Code extensions, and Excel. It lets data teams build Python pipelines using a single conversational prompt.
+- **Snowflake CoWork**: Formerly *Snowflake Intelligence*, this surface is expanded for everyday knowledge workers to automate operational business processes.
+- **Cortex Sense**: An enterprise memory feature that analyzes query history and metadata to automatically learn an organization's business terms, boosting agent accuracy by 83%.
+
+#### 🔒 Security, Trust & Governance
+
+With AI agents executing autonomous actions, Snowflake added critical control mechanisms:
+- **AI Agent Identity**: Grants every AI agent a cryptographic identity with dedicated role-based access controls (RBAC) and audit trails.
+- **Data Movement Policies**: Protects sensitive environments by blocking unauthorized downloads or cloud-stage data transfers by autonomous systems.
+- **AI Security Posture Management**: Introduces native machine learning defenses within the Snowflake Trust Center to catch prompt injection attacks.
+
+#### 📊 Context & Semantic Layers
+
+To prevent AI hallucination, Snowflake rolled out features to deliver "one version of the truth" across data siloed environments:
+- **Horizon Context & Semantic Studio**: Tools allowing teams to map out business logic without deep SQL expertise.
+- **Open Semantics Initiative (OSI)**: A collaborative open standard adopted alongside dozens of external vendors to ensure seamless data interpretations across various software ecosystems.
+- **Multi-Party Data Clean Rooms**: Upgraded data collaboration letting multiple corporate parties, advertisers, and publishers safely analyze shared campaign data concurrently without exposing individual raw data sets.
+
+#### ⚙️ Core Performance & Infrastructure Substrate
+
+- **Apache Iceberg v3 (GA)**: Delivers major interoperability upgrades to open-source table formats.
+- **Adaptive Compute**: Automatically shifts software and hardware compute resources behind the scenes to optimize heavy AI processing workloads.
+- **Observe Acquisition**: Integrates a complete observability suite (logs, infrastructure, and application monitoring) directly into native Snowflake workflows following its earlier corporate acquisition.
+
+#### 🤝 Ecosystem Partnerships
+
+- **Anthropic Expansion**: Deepened integration to power Snowflake CoCo and CoWork natively using Anthropic's Claude models.
+- **AWS Alliance**: Broadened cloud infrastructure commitments to accommodate enterprise clients migrating highly regulated data estates over to Snowflake's AI stack.
+
+[Snowflake Summit 2026 Platform Keynote - YouTube](https://www.youtube.com/watch?v=NFTdHYp9uJo)
+
 ## Others
 
 - Streamlit

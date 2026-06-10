@@ -2,11 +2,11 @@
 
 ## Reinforcement learning
 
-RL is an area of [machine learning](https://en.wikipedia.org/wiki/Machine_learning) concerned with how [software agents](https://en.wikipedia.org/wiki/Software_agent) ought to take [*actions*](https://en.wikipedia.org/wiki/Action_selection) in an *environment*so as to maximize some notion of cumulative *reward*
+RL is an area of [machine learning](https://en.wikipedia.org/wiki/Machine_learning) concerned with how [software agents](https://en.wikipedia.org/wiki/Software_agent) ought to take [*actions*](https://en.wikipedia.org/wiki/Action_selection) in an *environment* so as to maximize some notion of cumulative *reward*
 
 In machine learning, the environment is typically formulated as a [Markov Decision Process](https://en.wikipedia.org/wiki/Markov_Decision_Process)(MDP), as many reinforcement learning algorithms for this context utilize [dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming) techniques. The main difference between the classical dynamic programming methods and reinforcement learning algorithms is that the latter do not assume knowledge of an exact mathematical model of the MDP and they target large MDPs where exact methods become infeasible.
 
-When the environment is fully observed, we call the reinforcement learning problem a**Markov decision process**. When the state does not depend on the previous actions, we call the problem a**contextual bandit problem**. When there is no state, just a set of available actions with initially unknown rewards, this problem is the classic**multi-armed bandit problem.**
+When the environment is fully observed, we call the reinforcement learning problem a **Markov decision process**. When the state does not depend on the previous actions, we call the problem a **contextual bandit problem**. When there is no state, just a set of available actions with initially unknown rewards, this problem is the classic **multi-armed bandit problem.**
 
 ## Categorizing Reinforcement Learning Agents
 
@@ -20,7 +20,42 @@ When the environment is fully observed, we call the reinforcement learning probl
 
 **Deterministic environment:** deterministic environment means that both state transition model and reward model are deterministic functions. If the agent while in a given state repeats a given action, it will always go the same next state and receive the same reward value
 
-**Stochastic environment:** In a stochastic environment there is uncertainity about the actions effect. When the agent repeats doing the same action in a given state, the new state and received reward may not be the same each time. For example, a robot which tries to move forward but because of the imperfection in the robot operation or other factors in the environment (e.g. slippery floor), sometimes the actionforwardwill make it move forward but in sometimes, it will move toleftorright
+**Stochastic environment:** In a stochastic environment there is uncertainity about the actions effect. When the agent repeats doing the same action in a given state, the new state and received reward may not be the same each time. For example, a robot which tries to move forward but because of the imperfection in the robot operation or other factors in the environment (e.g. slippery floor), sometimes the action forward will make it move forward but in sometimes, it will move to left or right
+
+## Metrics
+
+### Core Performance Metrics
+
+Traditional loss functions do not always correlate with task performance. Evaluate your agent using these categories:
+
+#### Primary Performance
+
+- **Cumulative Reward:** Total reward accumulated by the agent over an episode. It is the most direct measure of long-term goal success.
+- **Average Reward:** Mean reward calculated over a specified number of episodes. This helps track stability over time rather than single-episode spikes.
+- **Success Rate:** Proportion of evaluation episodes where the agent objectively completes the task (e.g., reaching a maze exit, compiling valid code).
+
+#### Learning Efficiency
+
+- **Learning Curve:** Plots performance (cumulative reward) against training episodes or environment steps. It reveals convergence rate and asymptotic performance limits.
+- **Sample Efficiency:** Measures how effectively an agent learns from collected data. High efficiency means reaching target performance with fewer environment interactions.
+
+#### Internal Diagnostics
+
+- **Entropy (Exploration Health):** Tracks the randomness of the agent's actions. High entropy encourages exploration; if it drops too fast, the agent exploits suboptimal actions prematurely.
+- **Value Error:** Evaluates the accuracy of the value function (e.g., Critic loss). This ensures the agent accurately estimates the long-term expected value of states.
+- **KL-Divergence:** Measures the policy shift between the old policy and the updated policy. Monitoring this ensures the agent does not update too drastically in a single step.
+
+### Reward Maximization & Optimization
+
+- **Optimization:** The core process in RL where an agent adjusts its policy to maximize the expected cumulative reward over time.
+- **Exploitation:** The act of choosing the best-known actions to maximize current reward, as opposed to exploring new strategies.
+- **Reward Hacking:** A phenomenon where an agent finds a loophole in the reward function to maximize its score without actually achieving the intended goal.
+
+### Learning by Failing
+
+- **Trial-and-Error:** The foundational mechanism of RL. The agent interacts with the environment, makes mistakes (fails), receives negative feedback, and updates its strategy to find the successful path.
+- **Exploration:** Intentionally taking sub-optimal or unknown actions. This often leads to immediate failure but provides vital data on what actions to avoid.
+- **Regret Minimization:** A mathematical framework tracking "regret"—the difference between the reward achieved and the reward that *could* have been obtained without making mistakes.
 
 ## References
 

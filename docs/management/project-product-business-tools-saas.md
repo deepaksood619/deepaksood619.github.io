@@ -10,6 +10,8 @@
     1. Free Open Source / Self hosted - https://www.taiga.io
     2. [GitHub - makeplane/plane: 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.](https://github.com/makeplane/plane) ⭐ 48k
 	    1. Free 12 seats on Plane Cloud
+	3. [Toggl Track: Time Tracking Software for Any Workflow](https://toggl.com/)
+		1. [GitHub - super-productivity/super-productivity: Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. · GitHub](https://github.com/super-productivity/super-productivity)
 4. Asana
 5. Clickup
 6. Orangescrum - https://github.com/Orangescrum/orangescrum

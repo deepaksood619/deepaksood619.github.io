@@ -131,11 +131,10 @@ Attempting to shift directly from prone to supine sleeping represents an extreme
 During the initial three weeks of the protocol, the primary therapeutic goal is simply to prevent the sleeper from completing the full roll onto their stomach.
 
 1. **Physical Barriers and Proprioceptive Satiation:** The sleeper must actively construct a physical barricade using large body pillows or densely rolled blankets. Embracing a large body pillow in front of the chest fulfills the nervous system's deep proprioceptive craving for physical contact and stability (satisfying the "Wrestler" reflex) while simultaneously physically obstructing the torso from rolling fully prone.
-    
+
 2. **Pelvic Anchoring:** A thick, firm pillow must be placed tightly between the knees and ankles. Beyond its role in aligning the pelvis to relieve lower back strain, this pillow acts as a critical anatomical anchor, making it mechanically awkward and highly difficult to roll the lower body flat against the mattress.
-    
+
 3. **Alternating Orientation:** If the sleeper struggles to maintain a true lateral position throughout the night, they should begin by consciously alternating the side of their face that touches the pillow or alternating the specific leg they cross. This incremental change slowly introduces novel biomechanical inputs to the nervous system, beginning the process of breaking the deeply ingrained habitual motor patterns.
-    
 
 ### Phase 2: Positional Deterrents and Feedback Mechanisms (Weeks 3-6)
 
