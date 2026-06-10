@@ -41,6 +41,9 @@ Retiring with a part-time job and minimal post-retirement corpus
 
 ## Retirement Calculation with Variables
 
+[Retirement Dashboard](https://retirementdashboard.vercel.app/)
+- [A Free Retirement Planning Simulation Dashboard](https://freefincal.com/a-free-retirement-planning-simulation-dashboard/)
+
 [How To RETIRE EARLY In Your 40s Using The F.I.R.E. METHOD? | Financial Independence | ET Money](https://youtu.be/A_PVV23MxJc)
 
 Financial Independence (FI) ratio - passive income/expenses
