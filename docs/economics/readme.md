@@ -70,7 +70,7 @@ Decision-making and strategy.
 Individual financial planning.
 
 - **Protection:** [Insurance](economics/personal-finance/protection/insurance-overview.md), [Emergency Fund](economics/personal-finance/protection/emergency-fund.md)
-- **Tax Planning:** [Tax-Efficient Investing](economics/personal-finance/tax-planning/tax-efficient-investing.md)
+- **Tax Planning:** [Tax-Efficient Investing](economics/taxation/tax-efficient-investing.md)
 - **Retirement:** [FIRE](economics/personal-finance/retirement-planning/fire-financial-independence.md), [Sequence Risk](economics/personal-finance/retirement-planning/sequence-risk.md)
 - **Wealth Building:** [Framework](economics/personal-finance/wealth-building/personal-finance-framework.md), [Estate Planning](economics/personal-finance/wealth-building/legacy-estate-planning.md)
 - **Alternative Assets:** [Gold](economics/personal-finance/alternative-assets/gold-physical-digital.md)
@@ -118,7 +118,7 @@ Individual financial planning.
 
 1. [Fundamental Checklist](economics/investment-frameworks/stock-selection/fundamental-checklist.md)
 2. [Asset Allocation Models](economics/investment-frameworks/portfolio-construction/asset-allocation-models.md)
-3. [Tax-Efficient Investing](economics/personal-finance/tax-planning/tax-efficient-investing.md)
+3. [Tax-Efficient Investing](economics/taxation/tax-efficient-investing.md)
 
 **Planning Retirement?** Check these:
 

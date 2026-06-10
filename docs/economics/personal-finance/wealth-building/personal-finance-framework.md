@@ -104,7 +104,7 @@ See: [Asset Allocation Models](economics/investment-frameworks/portfolio-constru
 - Prioritize LTCG over STCG or income
 - Location optimization (equity vs debt in different accounts)
 
-See: [Tax-Efficient Investing](economics/personal-finance/tax-planning/tax-efficient-investing.md)
+See: [Tax-Efficient Investing](economics/taxation/tax-efficient-investing.md)
 See: [Taxation](economics/taxation/)
 
 ### 4. Administration
@@ -341,7 +341,7 @@ From CA Rachana Ranade:
 
 - [Emergency Fund](economics/personal-finance/protection/emergency-fund.md)
 - [Insurance Overview](economics/personal-finance/protection/insurance-overview.md)
-- [Tax-Efficient Investing](economics/personal-finance/tax-planning/tax-efficient-investing.md)
+- [Tax-Efficient Investing](economics/taxation/tax-efficient-investing.md)
 - [Legacy Planning](economics/personal-finance/wealth-building/legacy-estate-planning.md)
 - [FIRE - Financial Independence](economics/personal-finance/retirement-planning/fire-financial-independence.md)
 

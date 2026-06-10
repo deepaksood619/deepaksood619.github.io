@@ -323,7 +323,3 @@ For detailed analysis, verify all of the following:
 - [How to Make Money in Stocks](../../../book-summaries/how-to-make-money-in-stocks.md)
 - [First Pillar of Investing - Fragility Score Card](https://www.budgetiger.in/p/introducing-the-fragility-score-card)
 - [500,000 Portfolios - 7 Costly Mistakes](https://www.dezerv.in/blog/500000-portfolios-revealed-these-7-costly-investment-mistakes/)
-
-## Disclaimer
-
-This checklist is for educational purposes. Always conduct your own due diligence and consult a qualified financial advisor before making investment decisions.

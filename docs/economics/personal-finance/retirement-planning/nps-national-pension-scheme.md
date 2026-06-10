@@ -185,7 +185,7 @@ See: [NPS Tier 2 Taxable - Freefincal](https://freefincal.com/gains-from-nps-tie
 ## Related Topics
 
 - [Tax Deductions](economics/taxation/deductions.md)
-- [Tax-Efficient Investing](economics/personal-finance/tax-planning/tax-efficient-investing.md)
+- [Tax-Efficient Investing](economics/taxation/tax-efficient-investing.md)
 - [Asset Allocation Models](economics/investment-frameworks/portfolio-construction/asset-allocation-models.md)
 - [Rebalancing Strategies](economics/investment-frameworks/portfolio-construction/rebalancing-strategies.md)
 - [Fixed Income Instruments](economics/investment-products/debt-funds/fixed-income-instruments.md)

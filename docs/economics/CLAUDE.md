@@ -32,13 +32,9 @@ This is an **LLM-maintained economics and finance knowledge base** where Claude 
 
 - **company-analysis/** - Individual company research and fundamental analysis (see `company-analysis/CLAUDE.md` for detailed guidelines)
 - **sector-analysis/** - Sector-level trends, comparisons, and industry dynamics
-- **mutual-funds/** - Fund analysis, SIP strategies, portfolio allocation
 - **taxation/** - Tax laws, compliance, optimization strategies (India-focused)
 - **accounting-for-finance/** - Financial accounting concepts for investors
 - **corporate-finance/** - Capital structure, valuation, M&A, corporate actions
-- **finance-investing/** - Investment strategies, portfolio management, risk management
-- **market-terms/** - Glossary of financial and market terminology
-- **mental-models/** - Investment frameworks and decision-making models
 
 ## Why LLM-Maintained Economics Knowledge Base?
 
@@ -130,13 +126,6 @@ Periodically verify: stale content (`>6` months for regulatory, `>12` months for
 - Sector rotation strategies
 - Competitive landscape studies
 
-**mutual-funds/**
-
-- Fund analysis and comparisons
-- SIP strategies and asset allocation
-- Fund selection frameworks
-- Tax implications of mutual fund investing
-
 **taxation/**
 
 - Income tax laws and compliance (India-focused)
@@ -158,26 +147,6 @@ Periodically verify: stale content (`>6` months for regulatory, `>12` months for
 - Capital structure decisions
 - M&A analysis frameworks
 - Dividend policy and shareholder returns
-
-**finance-investing/**
-
-- Investment philosophies (value, growth, momentum)
-- Portfolio construction and rebalancing
-- Risk management frameworks
-- Behavioral finance concepts
-
-**market-terms/**
-
-- Financial terminology and definitions
-- Market mechanics explanations
-- Trading concepts and strategies
-
-**mental-models/**
-
-- Investment decision frameworks
-- Cognitive biases in investing
-- Risk assessment models
-- Systematic thinking tools
 
 ## Obsidian CLI Usage
 
@@ -589,13 +558,6 @@ Before creating/updating any markdown file, verify:
 - Include worked examples with realistic assumptions
 - Note industry-specific variations
 - Reference academic literature where applicable
-
-**For mutual-funds/ subfolder:**
-
-- Specify fund category (equity, debt, hybrid, etc.)
-- Include expense ratio, AUM, manager tenure
-- Note tax treatment (LTCG, STCG)
-- Disclaimer about past performance
 
 ## Security & Access
 

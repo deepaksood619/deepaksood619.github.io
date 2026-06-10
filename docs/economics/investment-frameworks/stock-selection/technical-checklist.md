@@ -427,7 +427,3 @@ Value investing qualities:
 ### Tools
 
 - [Personal Finance Tracker - GitHub](https://github.com/JerBouma/PersonalFinance)
-
-## Disclaimer
-
-This checklist is for educational purposes. Technical analysis has limitations and should be combined with fundamental analysis for best results. Always do your own research and consult qualified advisors.

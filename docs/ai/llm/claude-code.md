@@ -322,6 +322,8 @@ openclaw onboard --install-daemon
 # hatch in browser
 
 # In your agent's system prompt (or `SOUL.md`), explicitly instruct the AI to only respond when `@openclaw` is type
+
+openclaw logs --follow
 ```
 
 ## Others / Agents / Skills

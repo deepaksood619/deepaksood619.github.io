@@ -135,6 +135,7 @@ Snowflake's 2026 highlights center entirely on transitioning from basic data sto
 #### 🤖 AI Agents & Rebranding
 
 Snowflake streamlined its primary interfaces to shift focus toward automated AI workflows:
+
 - **Snowflake CoCo**: Formerly *Cortex Code*, CoCo is an AI coding agent for developers available across desktops, VS Code extensions, and Excel. It lets data teams build Python pipelines using a single conversational prompt.
 - **Snowflake CoWork**: Formerly *Snowflake Intelligence*, this surface is expanded for everyday knowledge workers to automate operational business processes.
 - **Cortex Sense**: An enterprise memory feature that analyzes query history and metadata to automatically learn an organization's business terms, boosting agent accuracy by 83%.
@@ -142,6 +143,7 @@ Snowflake streamlined its primary interfaces to shift focus toward automated AI 
 #### 🔒 Security, Trust & Governance
 
 With AI agents executing autonomous actions, Snowflake added critical control mechanisms:
+
 - **AI Agent Identity**: Grants every AI agent a cryptographic identity with dedicated role-based access controls (RBAC) and audit trails.
 - **Data Movement Policies**: Protects sensitive environments by blocking unauthorized downloads or cloud-stage data transfers by autonomous systems.
 - **AI Security Posture Management**: Introduces native machine learning defenses within the Snowflake Trust Center to catch prompt injection attacks.
@@ -149,6 +151,7 @@ With AI agents executing autonomous actions, Snowflake added critical control me
 #### 📊 Context & Semantic Layers
 
 To prevent AI hallucination, Snowflake rolled out features to deliver "one version of the truth" across data siloed environments:
+
 - **Horizon Context & Semantic Studio**: Tools allowing teams to map out business logic without deep SQL expertise.
 - **Open Semantics Initiative (OSI)**: A collaborative open standard adopted alongside dozens of external vendors to ensure seamless data interpretations across various software ecosystems.
 - **Multi-Party Data Clean Rooms**: Upgraded data collaboration letting multiple corporate parties, advertisers, and publishers safely analyze shared campaign data concurrently without exposing individual raw data sets.

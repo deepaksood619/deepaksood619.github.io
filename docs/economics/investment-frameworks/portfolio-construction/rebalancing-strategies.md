@@ -104,7 +104,7 @@ Rebalancing is the process of bringing your portfolio back to your target asset 
 
 - If underperformer has losses, sell and buy back
 - Offset capital gains
-- See: [Tax Loss Harvesting](economics/personal-finance/tax-planning/tax-efficient-investing.md)
+- See: [Tax Loss Harvesting](economics/taxation/tax-efficient-investing.md)
 
 **Use LTCG Exemption:**
 
@@ -161,7 +161,7 @@ Rebalancing is the process of bringing your portfolio back to your target asset 
 
 - [Asset Allocation Models](economics/investment-frameworks/portfolio-construction/asset-allocation-models.md)
 - [Sequence Risk](economics/personal-finance/retirement-planning/sequence-risk.md)
-- [Tax-Efficient Investing](economics/personal-finance/tax-planning/tax-efficient-investing.md)
+- [Tax-Efficient Investing](economics/taxation/tax-efficient-investing.md)
 
 ## References
 
