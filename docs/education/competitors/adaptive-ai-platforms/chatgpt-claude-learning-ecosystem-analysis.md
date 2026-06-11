@@ -20,8 +20,6 @@ tags: [chatgpt, claude, openai, anthropic, ai-tutoring, learning-features, gpts,
 
 Both ChatGPT and Claude have evolved beyond chat interfaces into structured learning ecosystems. ChatGPT leads in **breadth** — a marketplace of 3M+ GPTs, voice, image generation, and real-time web access. Claude leads in **depth** — superior long-context reasoning, coding artifacts, and nuanced Socratic dialogue. Neither is definitively better for all learning styles; the edge depends on the learning task.
 
----
-
 ## Part 1: ChatGPT Learning Ecosystem (OpenAI)
 
 ### 1.1 GPTs (Custom AI Tutors)

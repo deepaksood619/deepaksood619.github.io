@@ -225,7 +225,6 @@ Once emergency fund reaches **5-10% of net worth**, you can stop contributing an
 
 - [Personal Finance Framework - 4 Pillars](economics/personal-finance/wealth-building/personal-finance-framework.md)
 - [Insurance Overview](economics/personal-finance/protection/insurance-overview.md)
-- [Liquid Funds](economics/investment-products/debt-funds/)
 
 ## References
 

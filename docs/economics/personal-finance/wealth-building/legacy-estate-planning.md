@@ -258,7 +258,6 @@ See: [Personal Finance Framework - 4 Pillars](economics/personal-finance/wealth-
 
 - [Personal Finance Framework](economics/personal-finance/wealth-building/personal-finance-framework.md)
 - [Insurance Planning](economics/personal-finance/protection/insurance-overview.md)
-- [Tax Planning](economics/personal-finance/tax-planning/)
 
 ## Resources
 

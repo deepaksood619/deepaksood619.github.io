@@ -288,9 +288,7 @@ If you're in 30% bracket, spouse in 10%:
 ## Related Topics
 
 - [Personal Finance Framework - 4 Pillars](economics/personal-finance/wealth-building/personal-finance-framework.md)
-- [Taxation Section](economics/taxation/)
 - [NPS Overview](economics/investment-frameworks/core-concepts/asset-classes-overview.md)
-- [Capital Gains Tax](economics/taxation/)
 
 ## Resources
 

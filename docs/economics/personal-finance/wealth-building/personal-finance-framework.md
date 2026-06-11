@@ -105,7 +105,6 @@ See: [Asset Allocation Models](economics/investment-frameworks/portfolio-constru
 - Location optimization (equity vs debt in different accounts)
 
 See: [Tax-Efficient Investing](economics/taxation/tax-efficient-investing.md)
-See: [Taxation](economics/taxation/)
 
 ### 4. Administration
 

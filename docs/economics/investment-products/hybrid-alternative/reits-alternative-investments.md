@@ -239,7 +239,6 @@ Consult tax professional for latest regulations.
 
 - [Asset Classes Overview](economics/investment-frameworks/core-concepts/asset-classes-overview.md)
 - [Portfolio Allocation](economics/investment-frameworks/portfolio-construction/asset-allocation-models.md)
-- [Personal Finance Alternative Assets](economics/personal-finance/alternative-assets/)
 
 ## References
 

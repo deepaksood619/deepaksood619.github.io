@@ -89,8 +89,6 @@ Income where past efforts make you money continuously (24/7), without requiring 
 - Invoice discounting
 - Structured debt products
 
-See: [Alternative Investments](economics/personal-finance/alternative-assets/)
-
 ### Business-Based Passive Income
 
 - Automated online businesses
