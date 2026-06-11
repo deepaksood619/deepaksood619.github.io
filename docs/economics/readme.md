@@ -42,19 +42,19 @@ Courses, tools, and educational materials.
 
 Mutual funds, ETFs, and structured products.
 
-- **Equity Funds:** [Overview](economics/investment-products/equity-funds/)
-- **Debt Funds:** [Overview](economics/investment-products/debt-funds/)
-- **Hybrid & Alternative:** [REITs, P2P, etc.](economics/investment-products/hybrid-alternative/)
-- **Structured Products:** [PMS](economics/investment-products/structured-products/)
+- Equity Funds
+- Debt Funds
+- Hybrid & Alternative
+- Structured Products
 
 ### Market Mechanics
 
 How markets work - technical details.
 
-- **Market Structure:** [Order Types](economics/market-mechanics/market-structure/), [IPO](economics/market-mechanics/market-structure/ipo-process.md)
-- **Trading & Derivatives:** [Futures/Options](economics/market-mechanics/trading-derivatives/)
-- **Technical Analysis:** [Basics](economics/market-mechanics/technical-analysis/), [Indicators](economics/market-mechanics/technical-analysis/technical-indicators.md)
-- **Fundamental & Valuation:** [Framework](economics/market-mechanics/fundamental-valuation/)
+- **Market Structure:** Order Types, [IPO](economics/market-mechanics/market-structure/ipo-process.md)
+- Trading & Derivatives
+- Technical Analysis - [Indicators](economics/market-mechanics/technical-analysis/technical-indicators.md)
+- Fundamental & Valuation
 
 ### Investment Frameworks
 
@@ -63,7 +63,7 @@ Decision-making and strategy.
 - **Core Concepts:** [Asset Classes](economics/investment-frameworks/core-concepts/asset-classes-overview.md), [Passive Income](economics/investment-frameworks/core-concepts/passive-vs-active-income.md)
 - **Stock Selection:** [Fundamental Checklist](economics/investment-frameworks/stock-selection/fundamental-checklist.md), [Technical Checklist](economics/investment-frameworks/stock-selection/technical-checklist.md)
 - **Portfolio Construction:** [Asset Allocation](economics/investment-frameworks/portfolio-construction/asset-allocation-models.md), [Rebalancing](economics/investment-frameworks/portfolio-construction/rebalancing-strategies.md)
-- **Mental Models:** [Investment Mental Models](economics/investment-frameworks/mental-models/)
+- Mental Models
 
 ### Personal Finance
 
@@ -87,8 +87,8 @@ Individual financial planning.
 ### Company Analysis
 
 - [Framework & Guidelines](economics/company-analysis/CLAUDE.md)
-- **Technology:** [Google](economics/company-analysis/companies/technology/), [Amazon](economics/company-analysis/companies/technology/), [PhysicsWallah](economics/company-analysis/companies/technology/)
-- **Energy:** [Reliance](economics/company-analysis/companies/energy/), [Suzlon](economics/company-analysis/companies/energy/), [Ather](economics/company-analysis/companies/energy/)
+- **Technology:** [alphabet-google-comprehensive-analysis](economics/company-analysis/companies/technology/alphabet-google-comprehensive-analysis.md), [amazon-comprehensive-analysis](economics/company-analysis/companies/technology/amazon-comprehensive-analysis.md)
+- **Energy:** [reliance-industries-fundamental](economics/company-analysis/companies/energy/reliance-industries-fundamental.md), [suzlon-energy-comprehensive](economics/company-analysis/companies/energy/suzlon-energy-comprehensive.md), [ather-energy-fundamental](economics/company-analysis/companies/energy/ather-energy-fundamental.md)
 
 ### Sector Analysis
 
@@ -125,9 +125,3 @@ Individual financial planning.
 1. [FIRE - Financial Independence](economics/personal-finance/retirement-planning/fire-financial-independence.md)
 2. [Sequence Risk](economics/personal-finance/retirement-planning/sequence-risk.md)
 3. [Portfolio Rebalancing](economics/investment-frameworks/portfolio-construction/rebalancing-strategies.md)
-
-## 📖 Related Sections
-
-- [Book Summaries](../book-summaries/) - Finance and investing books
-- [Psychology](../psychology/) - Behavioral finance and decision-making
-- [Management](../management/) - Business and leadership

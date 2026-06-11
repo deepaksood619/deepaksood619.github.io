@@ -320,6 +320,5 @@ For detailed analysis, verify all of the following:
 ## Resources
 
 - [Zerodha Varsity - Fundamental Analysis](https://zerodha.com/varsity/module/fundamental-analysis/)
-- [How to Make Money in Stocks](../../../book-summaries/how-to-make-money-in-stocks.md)
 - [First Pillar of Investing - Fragility Score Card](https://www.budgetiger.in/p/introducing-the-fragility-score-card)
 - [500,000 Portfolios - 7 Costly Mistakes](https://www.dezerv.in/blog/500000-portfolios-revealed-these-7-costly-investment-mistakes/)

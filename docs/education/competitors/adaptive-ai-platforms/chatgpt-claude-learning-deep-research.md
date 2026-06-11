@@ -101,13 +101,12 @@ Additionally, while Artifacts handles front-end visual rendering flawlessly, it 
 Anthropic expands upon this structural foundation with "Learning Mode," a specialized extension of Projects that utilizes expertly designed starting templates to automate educational best practices without requiring the user to write complex system instructions from scratch. When a user activates a Study Project, the system instructions are pre-configured by Anthropic to execute four critical pedagogical response patterns:
 
 - **Guided Discovery:** Asking leading questions that build toward understanding rather than stating facts directly.
-    
+
 - **Scaffolding:** Breaking complex problems into smaller, manageable pieces when a student is struggling.
-    
+
 - **Connection Building:** Forcing the student to link new concepts to previously uploaded material.
-    
+
 - **Metacognitive Prompts:** Asking the user to explicitly explain their reasoning (e.g., “Why did you choose that approach?”).
-    
 
 **2. Strongest Abilities (The "Superpowers"):** The combination of a 200,000-token context window and disciplined system prompting makes Claude Projects the ultimate tool for deep conceptual immersion and complex document analysis. A graduate student can upload dozens of dense academic papers into a single Project and ask Claude to synthesize overarching themes; the model will consistently remember the exact parameters of the user's research goals without experiencing the "context window decay" often observed in standard chat interfaces.
 
@@ -197,9 +196,8 @@ Based on the preceding architectural breakdown and benchmark analysis, the defin
 The edge in computer science and programming is bifurcated based on the learner's specific objective.
 
 - _For architectural mastery and deep debugging:_ Claude 3.7 Sonnet holds the definitive edge. Its massive context window and supremacy on the SWE-bench allow a computer science student to upload an entire software repository and receive highly accurate, system-wide architectural guidance.
-    
+
 - _For iterative refactoring and syntax learning:_ ChatGPT Canvas is superior. Its ability to provide inline critiques and execute targeted adjustments without rewriting the entire document allows a student to fix bugs incrementally, preserving the flow of their original logic and preventing the AI from taking over the entire project.
-    
 
 **4. Conceptual Deep-Dives & Long-Form Academic Literacy: Definitive Edge — Claude** When tasked with synthesizing massive amounts of qualitative data—such as reading ten peer-reviewed papers to identify overlapping themes or tracking a historical narrative across a semester—Claude Projects operates with unmatched discipline. Its 200,000-token context window ensures it does not forget earlier arguments, and its native system prompts keep its tone strictly academic without drifting into hyperbole. Furthermore, its Learning Mode specifically utilizes metacognitive prompting to ensure the student actually understands the synthesis rather than just mindlessly copying the generated text.
 
