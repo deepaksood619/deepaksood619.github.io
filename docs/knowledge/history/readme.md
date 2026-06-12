@@ -6,6 +6,7 @@
 - [Indian History Timeline](indian-history-timeline)
 - [Crash Course History of Science](crash-course-history-of-science)
 - [Religion](religion)
+	- [jainism](knowledge/history/jainism.md)
 - [Others](knowledge/history/others.md)
 
 ## Outline

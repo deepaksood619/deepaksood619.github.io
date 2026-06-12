@@ -7,6 +7,7 @@
 - [Augmented Analytics](ai/data-visualization/tableau/augmented-analytics.md)
 - [Dashboarding](ai/data-visualization/tableau/dashboarding.md)
 - [Administration](ai/data-visualization/tableau/administration.md)
+- [migration](ai/data-visualization/tableau/migration.md)
 - [Questions](ai/data-visualization/tableau/interview-questions.md)
 - [Others](ai/data-visualization/tableau/others.md)
 

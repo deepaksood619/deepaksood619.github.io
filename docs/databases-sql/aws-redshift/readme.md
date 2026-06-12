@@ -10,3 +10,4 @@
 - [Redshift SQL Queries / Commands](databases-sql/aws-redshift/redshift-sql-queries-commands.md)
 - [Others](databases-sql/aws-redshift/others.md)
 - [redshift-to-snowflake-migration](data-warehouses/redshift-to-snowflake-migration.md)
+	- [Tableau Migration](ai/data-visualization/tableau/migration.md)
