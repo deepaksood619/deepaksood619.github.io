@@ -1,9 +1,5 @@
 # Personal Finance Framework - The 4 Pillars
 
-**Category:** Personal Finance
-**Type:** Framework
-**Last Updated:** 2026-06-08
-
 ## Overview
 
 Personal finance rests on four pillars. Most people focus only on investments while neglecting the other three equally important pillars, leading to financial instability.
@@ -336,6 +332,76 @@ From CA Rachana Ranade:
 - [Wealth Evolution Framework - 4 Quadrant Guide](https://freefincal.com/the-wealth-evolution-framework-a-4-quadrant-guide-to-investing/)
 - [Why Hitting Rs 1 Crore Doesn't Change Game](https://freefincal.com/why-hitting-%e2%82%b91-crore-doesnt-change-the-game/)
 
+## Links
+
+- [endowment-effect](https://deepaksood619.github.io/psychology/endowment-effect)
+- [Robert Kiyosaki From 'Rich Dad Poor Dad' Opens Up On Money, Personal Finance & More | TRS 337 - YouTube](https://www.youtube.com/watch?v=byJgRDFdUj0)
+- [The Psychology of Money : The Real Reasons You're Not Rich Yet - YouTube](https://www.youtube.com/watch?v=_5ecgEXLoCA)
+- [Can the middle-class build wealth across generations?](https://freefincal.com/can-the-middle-class-build-wealth-across-generations/)
+- [At what percentage of net worth can I stop contributing to my emergency fund?](https://freefincal.com/at-what-percentage-of-net-worth-can-i-stop-contributing-to-my-emergency-fund/)
+- [How rupee cost averaging in Mutual Funds works - The 1% News](https://news.onepercentclub.io/invest/how-rupee-cost-averaging-in-mutual-funds-works/2570/)
+- [What is Kakeibo? Discover How This Japanese Technique Helps in Managing Your Money - The 1% News](https://news.onepercentclub.io/plan/what-is-kakeibo-discover-how-this-japanese-technique-helps-in-managing-your-money/13766/)
+- [5 Emotional Mistakes That Lead to Common Financial Mistakes](https://freefincal.com/5-emotional-mistakes-that-lead-to-common-financial-mistakes/)
+- [How to stay invested in equity without worrying about market falls](https://freefincal.com/how-to-stay-invested-in-equity-without-worrying-about-market-falls/)
+- [10 Timeless Investing Tips for Financial Freedom - The 1% News](https://news.onepercentclub.io/plan/10-timeless-investing-tips-to-become-a-successful-investor/5382/)
+- [Can I transfer Rs. 62 Lakhs from FDs to index funds and stay invested for 18 years?](https://freefincal.com/can-i-transfer-rs-62-lakhs-from-fds-to-index-funds-and-stay-invested-for-18-years/)
+- [Life Decisions that Affect an Indian's Bank Balance](https://freefincal.com/life-decisions-that-affect-an-indians-bank-balance/)
+- [5 Financial Habits that can Destroy Your Wealth in 2025 | CA Rachana Ranade](https://youtu.be/wE071sPR9CE)
+    - Just in case Hoarder - Minimalism
+    - Financial Illusionist - sab kuch thik ho jayega
+    - FOMO financier
+    - Gig economy syndrome
+    - Legacy builder syndrome
+- [Is 20% equity enough for retirement?](https://freefincal.com/is-20-equity-enough-for-retirement/)
+- [How Sahil aims to achieve a 30-40X corpus in the next 10 years](https://freefincal.com/how-sahil-aims-to-achieve-a-30-40x-corpus-in-the-next-10-years/)
+- [How to Become a SEBI Registered Investment Adviser in India](https://freefincal.com/how-to-become-a-sebi-registered-investment-adviser-in-india/)
+- [Why Looking Poor is Important](https://youtu.be/XjqUyKFMQCY)
+- [India’s #1 Business Coach Exposes Get-Rich-Quick Lies & Real Success | F...](https://youtu.be/6gU7j1Mehgo)
+- [Why are you recommending small equity exposure even to early retirees?](https://freefincal.com/why-are-you-recommending-small-equity-exposure-even-to-early-retirees/)
+- [Why should I diversify my investment portfolio?](https://freefincal.com/why-should-i-diversify-my-investment-portfolio/)
+- [How should I invest Rs. 10 lakhs in equity mutual funds?](https://freefincal.com/how-should-i-invest-rs-10-lakhs-in-equity-mutual-funds/)
+- [You don't need a SIP, SWP or STP to invest in mutual funds!](https://freefincal.com/you-dont-need-a-sip-swp-or-stp-to-invest-in-mutual-funds/)
+- [Stop worrying about market conditions and focus on goal-based risk management](https://freefincal.com/stop-worrying-about-market-conditions-and-focus-on-goal-based-risk-management/)
+- [What's a Reasonable Amount to Spend for a Wedding?](https://freefincal.com/whats-a-reasonable-amount-to-spend-for-a-wedding/)
+- [Unrealistic aspirations will make us poor even if we earn in Lakhs!](https://freefincal.com/unrealistic-aspirations-will-make-us-poor-even-if-we-earn-in-lakhs/)
+- [17 years of mutual fund investing: My Journey and lessons learned](https://freefincal.com/17-years-of-mutual-fund-investing-my-journey-and-lessons-learned/)
+- [My worst fear in personal finance: unexpected recurring expenses](https://freefincal.com/my-worst-fear-in-personal-finance-unexpected-recurring-expenses/)
+- [How I learned new skills with side hustles and advanced my career](https://freefincal.com/how-i-learned-new-skills-with-side-hustles-and-advanced-my-career/)
+- [The Money Tree: Branch Out Your Income](https://freefincal.com/the-money-tree-branch-out-your-income/)
+- [Here's a financial guide for couples in mid thirties with income of Rs 2.5 lakh per month - BusinessToday](https://www.businesstoday.in/magazine/money-today/investment/as-good-as-it-gets/story/256057.html)
+- [Reasonable and unreasonable risks in investing and money management](https://freefincal.com/reasonable-and-unreasonable-risks-in-investing-and-money-management/)
+- [Stop wasting Rs 40,000 on food delivery apps. CA shares the smarter switch that saves Rs 5.6 lakh](https://economictimes.indiatimes.com/magazines/panache/stop-wasting-rs-40000-on-food-delivery-apps-ca-shares-the-smarter-switch-that-saves-rs-5-6-lakh/articleshow/125649996.cms)
+- [Convenience and Comparison Trap: Why You Cannot Stay Invested in Equity for the Long Term](https://freefincal.com/convenience-and-comparison-trap-why-you-cannot-stay-invested-in-equity-for-the-long-term/)
+- [16 personal finance resolutions for 2026](https://freefincal.com/16-personal-finance-resolutions-for-2026/)
+- [Why You Feel Poor Even When You Have Money: The Silent Cost of Financial Trauma](https://freefincal.com/why-you-feel-poor-even-when-you-have-money-the-silent-cost-of-financial-trauma/)
+- [Which Debt Fund is Right for Your Goal?](https://youtu.be/GxGn61KumBM)
+- [Keep PPF account forever, Don't close after 15 years | Get 24000 rupees ...](https://youtu.be/aDOdD3dqXCw)
+- [Home Loan Mistakes That Cost You LAKHS - How to Pay Off Faster | Ankur W...](https://youtu.be/_6gcdQQTXa8)
+- [Movies Every Trader Should Watch | In The Money by Zerodha](https://youtu.be/dh-wR0crcs4)
+- [Education Loan for Higher Studies – Who Pays for the Borrowed Dream – Part 1?](https://freefincal.com/education-loan-for-higher-studies-who-pays-for-the-borrowed-dream-part-1/)
+- [Education Loan: Part 2 – The Two Faces of the Degree](https://freefincal.com/education-loan-part-2-the-two-faces-of-the-degree/)
+- [If you want to build wealth, don't wait for the right time to invest!](https://freefincal.com/if-you-want-to-build-wealth-dont-wait-for-the-right-time-to-invest/)
+- [The Free Advice Trap: Why We Hide from Financial Planners but Hug Insurance Agents](https://freefincal.com/the-free-advice-trap-why-we-hide-from-financial-planners-but-hug-insurance-agents/)
+- [How a 41-Year-Old Single Woman Built 30% of Her Retirement Corpus with 50K Freelance Income](https://freefincal.com/how-a-41-year-old-single-woman-built-30-of-her-retirement-corpus-with-50k-freelance-income/)
+- [Why Your Financial Plan "Failed" (And Why You Still Need One)](https://freefincal.com/why-your-financial-plan-failed-and-why-you-still-need-one/)
+- [Why we should use a personal inflation rate while planning for retirement](https://freefincal.com/why-we-should-use-a-personal-inflation-rate-while-planning-for-retirement/)
+- [The Wealth Evolution Framework: A 4-Quadrant Guide to Investing](https://freefincal.com/the-wealth-evolution-framework-a-4-quadrant-guide-to-investing/)
+- [The Psychology of Chasing the Extra 2% Returns](https://freefincal.com/the-psychology-of-chasing-the-extra-2-returns/)
+- [Financial planning tips for couples before tying the knot](https://freefincal.com/financial-planning-tips-for-couples-before-tying-the-knot/)
+- [The Relationship Premium: The High Cost of Buying Financial Junk to Please Your Relatives](https://freefincal.com/the-relationship-premium-the-high-cost-of-buying-financial-junk-to-please-your-relatives/)
+- [How I learnt health is wealth the hard way](https://freefincal.com/how-i-learnt-health-is-wealth-the-hard-way/)
+- [A Different Kind of Inheritance: Why the most valuable gift to a child may be financial wisdom](https://freefincal.com/a-different-kind-of-inheritance-why-the-most-valuable-gift-to-a-child-may-be-financial-wisdom/)
+- [Managing a windfall](https://www.bogleheads.org/wiki/Managing_a_windfall)
+- [Welcome to the Bogleheads® wiki](https://www.bogleheads.org/wiki/Main_Page)
+- [All the financial advice you need can fit in a post-it note!](https://freefincal.com/all-the-financial-advice-you-need-can-fit-in-a-post-it-note/)
+- [Why Hitting ₹1 Crore Doesn’t Change the Game](https://freefincal.com/why-hitting-%e2%82%b91-crore-doesnt-change-the-game/)
+- [Is it unpatriotic to buy gold and international stocks now?](https://freefincal.com/is-it-unpatriotic-to-buy-gold-and-international-stocks-now/)
+- [Narayanan's journey to Financial Independence](https://freefincal.com/narayanans-journey-to-financial-independence/)
+- [Monthly vs Annual Subscriptions: Is the Discount Really Worth It?](https://freefincal.com/monthly-vs-annual-subscriptions-is-the-discount-really-worth-it/)
+- [The Stability Illusion: Why waiting for the “right time” to invest keeps you stuck longer than you realize!](https://freefincal.com/the-stability-illusion-why-waiting-for-the-right-time-to-invest-keeps-you-stuck-longer-than-you-realize/)
+- [What return should I use while planning for retirement 20 year away?](https://freefincal.com/what-return-should-i-use-while-planning-for-retirement-20-year-away/)
+- [Doing Nothing with Your Investments: Superpower or Slow Trap?](https://freefincal.com/doing-nothing-with-your-investments-superpower-or-slow-trap/)
+
 ## Related Topics
 
 - [Emergency Fund](economics/personal-finance/protection/emergency-fund.md)
@@ -343,7 +409,3 @@ From CA Rachana Ranade:
 - [Tax-Efficient Investing](economics/taxation/tax-efficient-investing.md)
 - [Legacy Planning](economics/personal-finance/wealth-building/legacy-estate-planning.md)
 - [FIRE - Financial Independence](economics/personal-finance/retirement-planning/fire-financial-independence.md)
-
-## Disclaimer
-
-This framework is for educational purposes. Everyone's financial situation is unique. Consult qualified financial planners, tax advisors, and insurance experts for personalized advice.

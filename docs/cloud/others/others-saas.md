@@ -100,6 +100,7 @@ A warehouse management system is software that helps companies manage and contro
 
 ## Google Workspace Admin
 
+- [Email is Easy](https://e-mail.wtf/)
 - [Google Workspace Admin Help - YouTube](https://www.youtube.com/playlist?list=PLU8ezI8GYqs75-_nquHcR8F8qm7U6h4a6)
 - [Google Workspace Email Alias and How to Create One Email for a Group - YouTube](https://www.youtube.com/watch?v=afcWKdPcDGk)
 - [Google Workspace Email Alias and How to Create One Email for a Group - YouTube](https://www.youtube.com/watch?v=afcWKdPcDGk&ab_channel=StuffedBox)

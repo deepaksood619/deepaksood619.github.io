@@ -71,9 +71,27 @@ Below the tables, provide a concise, bulleted summary highlighting:
 
 **Context: My Weekly Planner**
 
-Here is my current weekly meal schedule:
+## Multigrain Atta Details - 10 kg
+
+| **Quantity** | **Item (Hindi on Receipt)** | **Item (English Equivalent)** | **Price (₹) - 14 Dec 2025** |
+| ------------ | --------------------------- | ----------------------------- | --------------------------- |
+| **1 kg**     | चना                         | Chana (Chickpeas)             | 120                         |
+| **1 kg**     | जौ                          | Jau (Barley)                  | 60                          |
+| **1 kg**     | रागी                        | Ragi (Finger Millet)          | 120                         |
+| **1 kg**     | ज्वार                       | Jowar (Sorghum)               | 60                          |
+| **500 g**    | बाजरा                       | Bajra (Pearl Millet)          | 30                          |
+| **500 g**    | मक्का                       | Makka (Maize / Corn)          | 30                          |
+| **500 g**    | सोया                        | Soya (Soybean)                | 70                          |
+| **4.5 kg**   | गेहूं                       | Gehu (Wheat)                  | 225                         |
+| **10 kg**    | **कुल योग**                 | **Sum of Ingredients**        | **715**                     |
+
+- 14 May 2026 - Rs. 790
+- 14 Feb 2026 - Rs. 650
+- 14 Dec 2025 - Rs. 715
 
 ## Indian Family Diet Chart - Vegetarian
+
+Here is my current weekly meal schedule:
 
 | **Day**       | **Breakfast (Carb + Protein Focus)**               | **Lunch (Daal + Dry Sabzi + MultiGrain Roti)** | **Salad**                             | **Evening Snack**                  | **Dinner (Gravy Sabzi + MultiGrain Roti)**                 |
 | ------------- | -------------------------------------------------- | ---------------------------------------------- | ------------------------------------- | ---------------------------------- | ---------------------------------------------------------- |
@@ -93,6 +111,14 @@ Here is my current weekly meal schedule:
 | **2 - Sat**   | Stuffed paratha + dahi                             | Raungi + Barbatti aloo                         | Radish & Lemon Salad                  | Bananas & Apple                    | HomeMade Pani Puri Party with white matar and aloo filling |
 | **2 - Sun**   | Kala Chana + Paratha + Dahi                        | Mix Daal + Torai                               | Cabbage & Carrot Slaw / Lettuce salad | Fresh Mango & Jamun                | Ragi Dosa                                                  |
 
+- Multivitamins Daily
+	1. Tata 1mg - 7X Strength Omega 3 | 2700 mg fish oil with vitamin E for heart & brain Health - 60 capsules - 1 capsule per day after breakfast - Rs. 740 - 17 Apr 2026
+		1. Alternative - TATA 1mg Triple Strength Omega 3 Fish Oil Capsules 1250mg | 560mg EPA & 400mg DHA - High Strength Omega 3 | For muscle recovery, heart & joints | Pack of 90 (dosage - 1 per day after breakfast) - Rs. 880 - Sat, 13 Jun 2026
+	2. Tata 1mg - Calcium and Vitamin D3 tablets with Zinc, Magnesium & Alfalfa | Citrate Malate Form - 120 tablets - (dosage - 1 capsule per day after dinner) - Rs. 472.15 - 17 Apr 2026
+		1. Alternative - Tata 1mg Vitamin D3 + K2 (MK-7) | Supports Stronger Bones, Immunity & Calcium Absorption | 600 IU Vitamin D3 + 55 mcg K2 | Lichen Sourced, 100% Veg (120 Tablets) - 440 - Sat, 13 Jun 2026
+
+- no tea, no coffee anytime - only water
+
 - Pizza (Cook on leave)
 - Rajma, Raungi, Chole - Red Chutney
 - Achar, Papad, Salad
@@ -104,13 +130,12 @@ Here is my current weekly meal schedule:
 - Oats idli + Sambhar / khichdi / pulav
 - sabudana bada / Matar paneer / gajar matar / kela kofta / Shimla mirch aloo / Gobhi Aloo
 - Paratha - Brocoli / Mooli / Gobhi / Paneer
-- Puri sabzi (aloo tomato) / chole bhature / maggi / sambhar vada / Momos / Appe
+- Puri sabzi (aloo tomato) / chole bhature / maggi / sambhar vada / Momos / Appe / Litti chokha / Pulao / Toast + Peanut Butter
 - Karela / Kundru / Kamal Kakdi / parwal / tinda / Zucchini / Baby corn / Fresh Yam (Suran / Jimikand / Elephant Foot Yam) / Arbi / Kathal / Asparagus / Semi (Sem / Cluster Beans)
 - parboiled quinoa or foxtail millet
 - Tofu
-- Multivitamins Daily
-	1. Tata 1mg - 7X Strength Omega 3 | 2700 mg fish oil with vitamin E for heart & brain Health - 60 capsules - Rs. 740 - 17 Apr 2026
-	2. Tata 1mg - Calcium and Vitamin D3 tablets with Zinc, Magnesium & Alfalfa | Citrate Malate Form - 120 tablets - Rs. 472.15 - 17 Apr 2026
+- Air fryer - Cutlet, Bhindi fry, Samosa, Potato pops, Chicken tikka, Paneer tikka, French frys
+- Non Veg - Fish, Chicken
 
 ### TODO
 
@@ -137,24 +162,6 @@ While this is a great dietary practice, there are a couple of potential side eff
 
 - **Tooth Enamel Erosion:** Lemon juice is highly acidic, possessing a pH between 2.0 and 3.0, which is below the critical threshold where tooth enamel begins to demineralize. Over time, frequent exposure to this acid can wear down your enamel, leading to tooth sensitivity and yellowing. To protect your teeth, rinse your mouth with plain water immediately after finishing your meal to neutralize the acid. Furthermore, wait at least 30 minutes before brushing your teeth; brushing immediately while the enamel is softened by the acid can cause physical damage.
 - **Acid Reflux (GERD) Triggers:** For some individuals, citrus can irritate the esophageal lining and trigger or worsen heartburn and acid reflux. If you experience a burning sensation in your chest, particularly when lying down to sleep after dinner, you may need to moderate how much lemon you add to your evening meals.
-
-### Multigrain Atta Details - 10 kg
-
-| **Quantity** | **Item (Hindi on Receipt)** | **Item (English Equivalent)** | **Price (₹) - 14 Dec 2025** |
-| ------------ | --------------------------- | ----------------------------- | --------------------------- |
-| **1 kg**     | चना                         | Chana (Chickpeas)             | 120                         |
-| **1 kg**     | जौ                          | Jau (Barley)                  | 60                          |
-| **1 kg**     | रागी                        | Ragi (Finger Millet)          | 120                         |
-| **1 kg**     | ज्वार                       | Jowar (Sorghum)               | 60                          |
-| **500 g**    | बाजरा                       | Bajra (Pearl Millet)          | 30                          |
-| **500 g**    | मक्का                       | Makka (Maize / Corn)          | 30                          |
-| **500 g**    | सोया                        | Soya (Soybean)                | 70                          |
-| **4.5 kg**   | गेहूं                       | Gehu (Wheat)                  | 225                         |
-| **10 kg**    | **कुल योग**                 | **Sum of Ingredients**        | **715**                     |
-
-- 14 May 2026 - Rs. 790
-- 14 Feb 2026 - Rs. 650
-- 14 Dec 2025 - Rs. 715
 
 ### Daily Accompaniments
 

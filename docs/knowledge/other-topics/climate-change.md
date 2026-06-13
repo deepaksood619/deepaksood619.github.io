@@ -86,6 +86,8 @@ Keeling's measurements showed the first significant evidence of rapidly increasi
 
 ## Water
 
+- [‘I fear people will go to war over water’: as wells run dry, farmers struggle to survive in Bangladesh \| Global development \| The Guardian](https://www.theguardian.com/global-development/2026/jun/09/i-fear-people-will-go-to-war-over-water-as-wells-run-dry-farmers-struggle-to-survive-in-bangladesh)
+
 ### What is the Expiry Date of Water? 🤔
 
 Often, we decide the 'expiry date' of water based on our own convenience and mindset, which has absolutely no scientific basis. Consider this paradox:

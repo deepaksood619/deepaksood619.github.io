@@ -1,5 +1,7 @@
 # AGI (Artificial General Intelligence)
 
+**Future of Jobs - You can outsource the thinking but not the understanding**
+
 - **Sentient / Intelligence Explosion / Technological singularity / Superintelligence**
 - Current - ANI - Artificial Narrow Intelligence
 - ASI — Artificial Super Intelligence

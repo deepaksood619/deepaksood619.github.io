@@ -8,8 +8,6 @@ Comprehensive knowledge base covering economic theory, finance, investing, and p
 
 ### Fundamentals
 
-Core economic theory and concepts.
-
 - [Introduction to Economics](economics/fundamentals/intro.md)
 - [Schools of Economic Thought](economics/fundamentals/schools-of-economic-thought.md)
 - [Microeconomics](economics/fundamentals/microeconomics.md)
@@ -21,16 +19,12 @@ Core economic theory and concepts.
 
 ### Glossary
 
-Quick reference for terminology.
-
 - [Finance Terms](economics/glossary/finance-terms.md)
 - [Investment Terms](economics/glossary/investment-terms.md)
 - [Fintech & Banking Terms](economics/glossary/fintech-banking-terms.md)
 - [Financial Facts](economics/glossary/financial-facts.md)
 
-### Learning Resources
-
-Courses, tools, and educational materials.
+### Learning Resources - Courses, tools, and educational materials
 
 - [Learning Guide](economics/learning-resources/learning.md)
 - [Links & Resources](economics/learning-resources/links.md)
@@ -38,18 +32,16 @@ Courses, tools, and educational materials.
 - [Tools & Platforms](economics/learning-resources/tools-platforms.md)
 - [Investing Tips](economics/learning-resources/investing-tips-resources.md)
 
-### Investment Products
-
-Mutual funds, ETFs, and structured products.
+### Investment Products - Mutual funds, ETFs, and structured products
 
 - Equity Funds
 - Debt Funds
 - Hybrid & Alternative
+	- [Gold](economics/investment-products/hybrid-alternative/gold-physical-digital.md)
 - Structured Products
+	- [portfolios](economics/investment-frameworks/portfolio-construction/portfolios.md)
 
 ### Market Mechanics
-
-How markets work - technical details.
 
 - **Market Structure:** Order Types, [IPO](economics/market-mechanics/market-structure/ipo-process.md)
 - Trading & Derivatives
@@ -58,8 +50,6 @@ How markets work - technical details.
 
 ### Investment Frameworks
 
-Decision-making and strategy.
-
 - **Core Concepts:** [Asset Classes](economics/investment-frameworks/core-concepts/asset-classes-overview.md), [Passive Income](economics/investment-frameworks/core-concepts/passive-vs-active-income.md)
 - **Stock Selection:** [Fundamental Checklist](economics/investment-frameworks/stock-selection/fundamental-checklist.md), [Technical Checklist](economics/investment-frameworks/stock-selection/technical-checklist.md)
 - **Portfolio Construction:** [Asset Allocation](economics/investment-frameworks/portfolio-construction/asset-allocation-models.md), [Rebalancing](economics/investment-frameworks/portfolio-construction/rebalancing-strategies.md)
@@ -67,13 +57,10 @@ Decision-making and strategy.
 
 ### Personal Finance
 
-Individual financial planning.
-
 - **Protection:** [Insurance](economics/personal-finance/protection/insurance-overview.md), [Emergency Fund](economics/personal-finance/protection/emergency-fund.md)
 - **Tax Planning:** [Tax-Efficient Investing](economics/taxation/tax-efficient-investing.md)
 - **Retirement:** [FIRE](economics/personal-finance/retirement-planning/fire-financial-independence.md), [Sequence Risk](economics/personal-finance/retirement-planning/sequence-risk.md)
 - **Wealth Building:** [Framework](economics/personal-finance/wealth-building/personal-finance-framework.md), [Estate Planning](economics/personal-finance/wealth-building/legacy-estate-planning.md)
-- **Alternative Assets:** [Gold](economics/personal-finance/alternative-assets/gold-physical-digital.md)
 
 ### Corporate Finance
 
@@ -105,23 +92,3 @@ Individual financial planning.
 ### Accounting for Finance
 
 - [Overview](economics/accounting-for-finance/readme.md)
-
-## 🎯 Quick Navigation
-
-**New to Finance?** Start here:
-
-1. [Fundamentals - Introduction](economics/fundamentals/intro.md)
-2. [Personal Finance Framework](economics/personal-finance/wealth-building/personal-finance-framework.md)
-3. [Asset Classes Overview](economics/investment-frameworks/core-concepts/asset-classes-overview.md)
-
-**Want to Invest?** Follow this path:
-
-1. [Fundamental Checklist](economics/investment-frameworks/stock-selection/fundamental-checklist.md)
-2. [Asset Allocation Models](economics/investment-frameworks/portfolio-construction/asset-allocation-models.md)
-3. [Tax-Efficient Investing](economics/taxation/tax-efficient-investing.md)
-
-**Planning Retirement?** Check these:
-
-1. [FIRE - Financial Independence](economics/personal-finance/retirement-planning/fire-financial-independence.md)
-2. [Sequence Risk](economics/personal-finance/retirement-planning/sequence-risk.md)
-3. [Portfolio Rebalancing](economics/investment-frameworks/portfolio-construction/rebalancing-strategies.md)

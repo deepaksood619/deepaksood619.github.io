@@ -57,7 +57,7 @@ Physical goods that are interchangeable with other goods of the same type.
 - Agricultural products
 - Base metals
 
-See: [Gold Investment Options](economics/personal-finance/alternative-assets/gold-physical-digital.md)
+See: [Gold Investment Options](economics/investment-products/hybrid-alternative/gold-physical-digital.md)
 
 ## Asset Class Allocation Strategy
 

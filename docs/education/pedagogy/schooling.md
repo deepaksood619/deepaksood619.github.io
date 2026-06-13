@@ -44,6 +44,11 @@ Please provide a comprehensive table of schools including (but not limited to) t
 24. **Meal Plans (Cafeteria/Meal Service Quality)**
 25. **After-School Programs / Extended Care**
 26. **Recent Inspection Reports (if available)**
+27. Others
+	1. Swimming Pools
+	2. School leaving fees
+	3. Transfer between different branches
+	4. Favouritism
 
 ✅ Highlight:
 

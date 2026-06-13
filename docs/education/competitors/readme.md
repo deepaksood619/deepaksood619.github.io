@@ -8,6 +8,10 @@
 	- [Meet Khanmigo, Khan Academy's AI-powered teaching assistant & tutor](https://www.khanmigo.ai/)
 - [freecodecamp-analysis](education/competitors/technical-skills/freecodecamp-analysis.md) - 100% free nonprofit coding education, 350K monthly users, 40K+ employed alumni, 11.3M YouTube subscribers, sustainable donation model
 
+## Data Analytics & BI Upskilling
+
+- [Maven Analytics Analysis](education/competitors/technical-skills/maven-analytics-analysis.md) - 1M+ students, $49/month all-access subscription, Excel/SQL/Power BI/Tableau/Python focus, B2B enterprise tier, bootstrapped; gaps in cloud/advanced AI
+
 ## Technical Assessment
 
 - [CodeSignal Analysis](education/competitors/technical-skills/codesignal-analysis.md) - AI-native enterprise leader, premium pricing

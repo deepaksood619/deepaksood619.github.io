@@ -180,7 +180,7 @@ An ETF is called an exchange-traded fund since it's traded on an exchange just l
 ## Links
 
 - [international-etfs](economics/investment-products/equity-funds/international-etfs.md)
-- [gold-physical-digital](economics/personal-finance/alternative-assets/gold-physical-digital.md)
+- [gold-physical-digital](economics/investment-products/hybrid-alternative/gold-physical-digital.md)
 - [Index Investing Options In India:](https://www.youtube.com/watch?v=IIV1Xt_rB3Y)
 - [What are the risks with index investing?](https://freefincal.com/what-are-the-risks-with-index-investing/)
 - [Can I continue investing in Parag Parikh Flexi Cap Fund plus UTI Nifty 50 Index fund?](https://freefincal.com/can-i-continue-investing-in-parag-parikh-flexi-cap-fund-plus-uti-nifty-50-index-fund/)

@@ -2447,6 +2447,25 @@ Why do traditional schools lose despite proof?
 
 ---
 
+## Others
+
+After speaking with both CPOs and L&D leaders, I believe there's a clear solution:
+
+1. We need L&D solutions that have high utilization AND engagement. Some employees may engage with videos, skills-based workshops or an Al chatbot. Others will want live learning in cohorts. L&D needs to provide multimodal learning solutions for diverse employees and focus heavily on utilization and engagement rates.
+
+2. Fresh sources of content. Instead of buying from the bigger players, L&D will need to find the niche companies that actually know Al natively, and have instructors who have their fingers on the pulse of what's changing week-to-week within Al tools.
+
+3. Specific AND broad. In addition to providing Al 101 training, L&D needs to offer training that is specific to every role (for example: Claude Code for PMs or Al-Powered User Research).
+
+This is a huge opportunity for L&D, but the moment is not guaranteed.
+
+If L&D professionals and L&D companies can meet the moment, then once again learning and development can grow its position in the Enterprise.
+
+P.S. Maven just started 2 enterprise pilots with 90% utilization rates (!) and engagement rates of 80-90% (!!!). We are starting to open up our next round of pilot customers
+
+- Udemy's Founder
+- [Maven Analytics \| Build Data Skills, Faster](https://mavenanalytics.io/)
+
 ## 12. Appendix: Research Inventory
 
 **Market Research (3 files):**
