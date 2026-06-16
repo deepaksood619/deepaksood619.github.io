@@ -95,13 +95,6 @@ Recommended Calorie intake - 2800
 
 ## Supplements / MultiVitamins
 
-**Ordered / Taking**
-
-1. Tata 1mg - 7X Strength Omega 3 | 2700 mg fish oil with vitamin E for heart & brain Health - 60 capsules - Rs. 740 - 17 Apr 2026
-2. Tata 1mg - Calcium and Vitamin D3 tablets with Zinc, Magnesium & Alfalfa | Citrate Malate Form - 120 tablets - Rs. 472.15 - 17 Apr 2026
-
-**Others**
-
 1. creatine
 2. beet juice
 3. antioxidant multivitamins
@@ -216,10 +209,6 @@ http://hrccatalog.hrrh.on.ca/InmagicGenie/DocumentFolder/healthy%20eating.pdf
 [Fed Up 2014](https://www.youtube.com/watch?v=Y647tNm8nTI)
 
 Smooth, bright, seedless, conveniently wrapped; the banana is the original fast food
-
-## Fruits
-
-![image](../../../media/Nutrition_Food-image4.jpg)
 
 ## Vitamins
 

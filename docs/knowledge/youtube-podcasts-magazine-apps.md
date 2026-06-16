@@ -185,7 +185,7 @@
 - BBC News
 - CNBC Television
 	- [CNBC International - YouTube](https://www.youtube.com/@cnbci)
-- Bloomberg
+- [Bloomberg Originals - YouTube](https://youtube.com/@business)
 - The Telegraph
 - NonStop 100 aajtak
 - Hindi - 1 Minute, 1 Khabar

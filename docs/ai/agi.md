@@ -48,6 +48,7 @@ One day, frontier AI research used to be done by meat computers in between eatin
 - [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
 - [When Machines Think Ahead: The Rise of Strategic AI | by Hans Christian Ekne | Nov, 2024 | Towards Data Science](https://towardsdatascience.com/when-machines-think-ahead-the-rise-of-strategic-ai-91052e4c5da9)
 - [AI Slop Is Killing Our Channel - YouTube](https://www.youtube.com/watch?v=_zfN9wnPvU0)
+	- Botsitting - [AI Isn’t Breaking Work. It’s Already Broken. - Cal Newport](https://calnewport.com/ai-isnt-breaking-work-its-already-broken/)
 - [Welcome to State of AI Report 2025](https://www.stateof.ai/)
 	- [Welcome to State of AI Report 2025](https://www.stateof.ai/2025-report-launch)
 	- [State of AI Report - 2025 ONLINE - Google Slides](https://docs.google.com/presentation/d/1xiLl0VdrlNMAei8pmaX4ojIOfej6lhvZbOIK7Z6C-Go/edit?usp=sharing)

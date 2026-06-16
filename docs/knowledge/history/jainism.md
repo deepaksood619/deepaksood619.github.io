@@ -27,6 +27,15 @@ Jains do not worship gods for favors; they venerate the **Tirthankaras**—human
 * There are 24 Tirthankaras in the current cosmic cycle.
 * **Mahavira (599–527 BCE):** The 24th and most recent Tirthankara. He was a contemporary of the Buddha and formalized the Jain religion into its current structure.
 
+### The Concept of God in Jainism
+
+Jainism is a non-theistic religion. It completely rejects the idea of a creator or ruler god.
+
+* **No Creator:** Jains believe the universe is eternal. It was never created by anyone, it cannot be destroyed, and it runs entirely on its own natural laws. No divine being hands out rewards, punishments, or answers prayers.
+* **What is "God" then?** In Jainism, "God" is not a person, but a **state of being**. Every single living soul (*Jiva*) has the inherent potential to become a god.
+* **The Tirthankaras:** When a human soul destroys all its karma through extreme meditation and asceticism, it achieves perfect knowledge (*Kevala Jnana*). These perfected, liberated human beings are called **Tirthankaras** (like Lord Mahavira or Lord Parshvanath).
+* **Purpose of Worship:** Jains do not pray to Tirthankaras to ask for money, health, or miracles. They worship them as role models. The prayer is a reminder: *"You achieved absolute freedom; I worship your virtues so that I may one day achieve the same freedom."*
+
 ## 5. The Five Great Vows (Mahavratas)
 
 To stop the influx of new Karma and burn off old Karma, Jain monks and nuns take five strict vows. Laypeople follow a less rigorous version of these vows (Anuvratas).
@@ -52,9 +61,31 @@ About 2,000 years ago, Jainism split into two main sects, primarily over the int
 | **Women and Liberation** | Believe women must be reborn as men to attain final liberation (*Moksha*).   | Believe women can attain final liberation (*Moksha*) directly in their current life. |
 | **Idol Adornment**       | Idols of Tirthankaras are completely unadorned with downcast eyes.           | Idols are adorned with glass eyes, jewels, and gold/silver foil.                     |
 
----
-
 *Summary:* Jainism is essentially a path of radical self-discipline and profound respect for all life. By practicing absolute non-violence (Ahimsa), acknowledging multiple truths (Anekantavada), and letting go of attachments (Aparigraha), a practitioner cleanses their soul of physical karmic particles to achieve eternal liberation.
+
+### The History of the Split Between Digambar and Shwetambar
+
+For the first few centuries after Lord Mahavira's liberation (around the 6th century BCE), the Jain community remained united. The division into two distinct sects happened gradually, driven by a major historical crisis.
+
+```text
+                     [ ONE UNITED JAIN SANGHA ]
+                                 │
+                 (~300 BCE: Great 12-Year Famine)
+                   /                           \
+                  /                             \
+     [ SOUTHWARD MIGRATION ]             [ REMAINED IN THE NORTH ]
+       Led by Bhadrabahu                   Led by Sthulabhadra
+       Kept strict vows;                   Adapted rules to survive;
+       remained naked.                     began wearing white cloth.
+                  \                             \
+                   ▼                             ▼
+          [ DIGAMBAR SECT ]               [ SHWETAMBAR SECT ]
+```
+
+* **The Great Famine (~300 BCE):** A devastating 12-year famine was predicted in Northern India (the Magadha region).
+* **The Migration:** The great Jain saint **Bhadrabahu** anticipated the famine and led a large group of monks south to Karnataka (Shravanabelagola) to maintain their strict vows in a stable environment. Another group of monks, led by **Sthulabhadra**, chose to stay behind in Magadha.
+* **The Adaptations:** To survive the harsh famine conditions, the monks who stayed in the north relaxed some strict rules. They began wearing unstitched white cloth to cover themselves as they entered villages for food.
+* **The Reunion and Final Split:** When the southern monks returned after 12 years, they found the northern monks wearing clothes and claimed it violated the core vow of absolute non-possession (*Aparigraha*). Furthermore, the northern monks had reconstructed parts of the oral scriptures, which the southern monks did not accept. By the 1st Century CE, the split was formalized into the **Digambar** (Sky-clad) and **Shwetambar** (White-clad) sects.
 
 ## People
 
@@ -178,7 +209,7 @@ While Digambar monks must walk constantly and are forbidden from staying in one 
 
 Jain monks do not use razors, scissors, or blades to remove their hair. Instead, they pluck every single strand of hair from their head and beard using their own hands.
 
-```
+```text
 [ Kesh Loch Process ] ──► Ash application ──► Manual plucking ──► Camphor/Almond oil healing
 ```
 
@@ -193,7 +224,7 @@ Jain monks do not use razors, scissors, or blades to remove their hair. Instead,
 
 *Sallekhana* (or *Santhara*) is the ancient Jain practice of a highly spiritual individual voluntarily, gradually, and peacefully giving up food and water at the end of their life.
 
-```
+```text
 [ Natural End Approaching ] ──► Gradual reduction of food ──► Pure liquids only ──► Total fast ──► Peaceful departure
 (Old age, incurable disease)
 ```
@@ -208,7 +239,7 @@ Jain monks do not use razors, scissors, or blades to remove their hair. Instead,
 
 Unlike other eastern philosophies where Karma is an unseen spiritual force or divine judgment, Jainism views Karma as physical, material science.
 
-```
+```text
 [ SOUL (Jiva) ] (Pure, light, radiant)   ◄── (Attracted by Passions: Anger, Greed, Pride) ──►  [ KARMA PARTICLES ] (Sticky, heavy matter)
 ```
 
@@ -230,3 +261,77 @@ Monks perform prayers (*Samayik* and *Pratikraman*) three times a day—at dawn,
     * *Namo Loe Savva Sahunam* (I bow to all monks in the world).
 * **The Iryavahiya Sutra:** This is a specific prayer recited immediately after walking anywhere. In it, the monk systematically asks for forgiveness from the universe for any accidental harm they might have caused to living beings while walking. They literally repent for stepping on ants, seeds, or microscopic organisms.
 * **The Logassa Sutra:** A beautiful hymn that praises the attributes of the 24 *Tirthankaras* (the founding spiritual teachers of Jainism, like Lord Mahavira). It is chanted to inspire the monk to cultivate the same inner peace, light, and total detachment that the Tirthankaras achieved.
+
+## Strict Vegetarian Dietary Rules
+
+Jain dietary laws are based on the absolute minimization of violence (*Ahimsa*) to all life forms, including plants and microscopic organisms. Both monks and strict laypeople follow these guidelines:
+
+* **No Meat, Fish, or Eggs:** This is the baseline, as it involves direct violence to mobile living beings (*Trasa Jivas*).
+* **Ban on Root Vegetables (Ananthkay):** Jains strictly avoid onions, garlic, potatoes, carrots, and radishes.
+* **Why?** Root vegetables grow underground. Jain texts state that these roots contain infinite microscopic life forms (*Ananthkaya*) in a single bulb. Pulling the plant from the earth kills the entire organism, destroying its roots and terminating future life. In contrast, picking an apple from a tree leaves the tree alive to grow more fruit.
+* **No Fermented Foods:** Foods like alcohol, vinegar, yeast-based breads, and stale food are avoided because the process of fermentation involves the rapid breeding and death of millions of microscopic organisms.
+* **Water Purification:** Water must be filtered using a clean cloth and then boiled. Boiling water immediately stops the growth of new microscopic organisms, ensuring that no further life is accidentally created and destroyed while the person drinks it
+
+## The 6 Cosmic Substances (Dravyas)
+
+Jain philosophy explains that the entire universe is uncreated and eternal, composed of six fundamental, indestructible substances (*Dravyas*). These substances constantly change their forms but their core nature remains the same.
+
+```text
+                  ┌─────────────── THE UNIVERSE ───────────────┐
+                  │                                            │
+        [ LIVING SUBSTANCE ]                         [ NON-LIVING SUBSTANCES ]
+         1. Jiva (Souls)                              2. Pudgala (Matter/Energy)
+                                                      3. Dharma (Medium of Motion)
+                                                      4. Adharma (Medium of Rest)
+                                                      5. Akasha (Space)
+                                                      6. Kala (Time)
+```
+
+1. **Jiva (Soul):** The only conscious substance. Every living being—humans, animals, plants, and microbes—possesses a soul. Its inherent qualities are infinite knowledge, bliss, and energy.
+2. **Pudgala (Matter and Energy):** Non-living matter that has color, taste, smell, and touch. It includes everything physical, from solid concrete objects to invisible light, sound, and energy waves.
+3. **Dharma (Medium of Motion):** An invisible, passive substance that fills the universe. It allows souls and matter to move. Think of it like water that allows a fish to swim; the water doesn't force the fish to move, but movement is impossible without it.
+4. **Adharma (Medium of Rest):** The opposite of Dharma. It is the passive medium that allows moving souls and matter to come to a stop or remain at rest, much like the shade of a tree invites a tired traveler to sit down.
+5. **Akasha (Space):** The infinite substance that provides accommodation, storage, and a place to exist for all other five substances.
+6. **Kala (Time):** The substance responsible for continuous change, aging, and modification in all other substances.
+
+## The Symbolism of the Jain Emblem
+
+Adopted by all sects of Jainism in 1974 (commemorating 2500 years of Lord Mahavira’s liberation), this universal symbol encapsulates the entire core philosophy of the religion.
+
+```text
+                 [  *  ]  <--- Siddhashila (Liberated Realm)
+                 [ o o o ] <--- Three Jewels (Right Faith, Knowledge, Conduct)
+
+                 |       |
+                 |  卐   | <--- Swastika (4 Realms of Rebirth)
+                 |       |
+                 (   ✋   ) <--- Abhaya Mudra (Fearlessness) & Wheel of Ahimsa
+
+         "Parasparopagraho Jivananam" <--- Motto (Mutual Interdependence)
+```
+
+* **The Overall Shape:** The outline represents the structure of the Jain universe (*Loka*), which looks like a standing person with legs apart and arms resting on hips.
+* **The Raised Hand (*Abhaya Mudra*):** Represents a blessing of peace and fearlessness.
+* **The Wheel (*Chakra*) in the Palm:** The wheel represents the cycle of birth and death. Inside it is written **Ahimsa** (Non-violence), reminding humans to stop the cycle of rebirth by practicing absolute harmlessness.
+* **The Swastika (卐):** The four arms represent the four realms where a soul can be reborn based on its karma: heavenly beings, humans, animal/plant life, or hellish beings.
+* **The Three Dots:** Represent the *Ratnatraya* (Three Jewels) required to break free from these four realms: Right Faith, Right Knowledge, and Right Conduct.
+* **The Arc and Top Dot:** The curved arc represents *Siddhashila*, the absolute top of the universe. The single dot inside it represents a fully liberated, weightless soul (*Siddha*) living in eternal bliss.
+* **The Motto at the Bottom:** Contains the Sanskrit phrase *"Parasparopagraho Jivananam"*, which translates to: **"All life is bound together by mutual support and interdependence."**
+
+## Anekantavada (The Philosophy of Multiple Viewpoints)
+
+*Anekantavada* is Jainism's most profound contribution to global philosophy. It states that truth and reality are highly complex and have infinite dimensions. No single human perspective can claim to know the absolute truth.
+
+To explain this, ancient Jain texts use the famous parable of the **Blind Men and the Elephant**:
+
+```text
+[ BLIND MAN 1 ] ── Touch Tail  ──► "An elephant is like a rope!"
+[ BLIND MAN 2 ] ── Touch Leg   ──► "An elephant is like a pillar!"
+[ BLIND MAN 3 ] ── Touch Trunk ──► "An elephant is like a thick branch!"
+                                         │
+               [ THE JAIN VIEW ] ────────┴──► "All are partially right,
+                                               but none see the whole truth."
+```
+
+* **Intellectual Non-Violence:** Just as *Ahimsa* is non-violence of the physical body, *Anekantavada* is **non-violence of the mind**. It teaches people to avoid religious fanaticism, stubborn dogmas, and arguments by accepting that other viewpoints can also contain elements of truth.
+* **The Doctrine of Syadvada:** To practice this philosophy in daily conversation, Jains use the prefixes *Syat* (meaning "from a certain perspective" or "perhaps"). Instead of making absolute statements like *"This room is hot"*, a practicing Jain would think or say, *"From my perspective, this room feels hot, though it may feel cool to someone else."* This single principle eliminates ego, anger, and social conflicts.

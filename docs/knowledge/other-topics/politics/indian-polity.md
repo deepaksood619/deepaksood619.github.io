@@ -76,6 +76,32 @@ Unko nazar lag gyi h, itna acha kaam krte the. Thoda unka is time me humko suppo
 - [PM Modi's Viral 'Teleprompter Fail' Video: AAP Takes DIG at PM Says 'Like BJP, Teleprompter Also...' - YouTube](https://www.youtube.com/watch?v=hJD57DSDQpY&ab_channel=OneindiaNews)
 - [Should RSS Be Banned? \| Nope w/ Kunal Kamra ft Shamsul Islam \| 044 - YouTube](https://www.youtube.com/watch?v=vk72_d4tfF0)
 
+## The Indian Prison System
+
+- **Administrative Control:** Jails come under the direct administration of the **State Government** (Executive branch), specifically the Prison/Correctional Services Department. They are governed by the _Prisons Act, 1894_, and state-specific prison manuals.
+- **Judicial Role:** The Judiciary does not run prisons. Its role is to decide guilt, hand down sentences, and act as a watchdog to protect inmates' fundamental human rights and prevent lawful custody violations.
+
+### Checks and Balances on Powerful Inmates (VIP Treatment)
+
+- **Medical Manipulation:** If a politician uses executive influence to stay in a luxury hospital under the guise of an illness, the Judiciary can appoint an **independent medical board** (like AIIMS) to verify the claim and order them back to a standard cell.
+- **Public Scrutiny:** Public Interest Litigations (PILs) allow activists or rivals to expose VIP treatment, prompting courts to demand CCTV footage or suspend colluding prison officials.
+- **Bail Loopholes:** Under strict federal laws (like PMLA or UAPA), the burden of proof is reversed, making bail exceptionally difficult to secure. The judiciary can instantly cancel bail if a politician tampers with evidence or intimidates witnesses.
+- **Governing Restrictions:**
+    - Under the **130th Constitutional Amendment Bill**, if a Minister/Chief Minister is arrested on serious charges and fails to get bail within **30 consecutive days**, they are automatically removed from office.
+    - Under the _Representation of the People Act, 1951_, any politician sentenced to **2 years or more** faces immediate disqualification from office and is barred from contesting elections for an additional 6 years after release.
+
+## The Governor vs. State Legislature Deadlock
+
+- **The Death of "Deemed Assent":** A 5-judge Supreme Court Constitution Bench (led by Justice B.R. Gavai in November 2025) ruled that a bill **cannot automatically become a law** just because a Governor delays signing it. The judiciary cannot pass a law on behalf of the executive due to the **separation of powers**.
+- **No Rigid Timelines:** Courts cannot judicially prescribe fixed deadlines (like a 3-month rule) for a Governor to act, as Articles 200 and 201 were intentionally framed with flexibility.
+- **The "Return and Re-Pass" Weapon:** Under Article 200, if a Governor rejects a bill and returns it, the State Assembly can **pass the exact same bill a second time**. Once re-passed, the Governor **is constitutionally bound to sign it** and cannot withhold assent again.
+
+### Shift in Law: "Before" vs. "After" (The Current Legal Landscape)
+
+- **The 2025 Shift:** The Supreme Court moved away from a strict "Stopwatch" approach (April 2025) to a "Gentle Nudge" approach (November 2025).
+- **Expanded Discretion:** The Governor's position was strengthened; they have independent discretion and are _not_ strictly bound by the State Cabinet's advice on whether to sign or reserve a bill.
+- **The "Presidential" Loophole:** A political deadlock is still highly possible. If the Supreme Court issues a _Mandamus_ forcing a stalling Governor to make a decision, the Governor can bypass the state by **"Reserving the Bill for the President"** (Article 201). Once it enters the Union Government's domain, the state's "Re-Passage" weapon is nullified, and the bill can stay pending indefinitely.
+
 ## Links
 
 - [indias-ethanol-policy-corruption-and-collusion](knowledge/other-topics/indias-ethanol-policy-corruption-and-collusion.md)

@@ -401,6 +401,7 @@ From CA Rachana Ranade:
 - [The Stability Illusion: Why waiting for the “right time” to invest keeps you stuck longer than you realize!](https://freefincal.com/the-stability-illusion-why-waiting-for-the-right-time-to-invest-keeps-you-stuck-longer-than-you-realize/)
 - [What return should I use while planning for retirement 20 year away?](https://freefincal.com/what-return-should-i-use-while-planning-for-retirement-20-year-away/)
 - [Doing Nothing with Your Investments: Superpower or Slow Trap?](https://freefincal.com/doing-nothing-with-your-investments-superpower-or-slow-trap/)
+- [How Your Risk Profile Evolves as Your Corpus Grows](https://freefincal.com/how-your-risk-profile-evolves-as-your-corpus-grows/)
 
 ## Related Topics
 

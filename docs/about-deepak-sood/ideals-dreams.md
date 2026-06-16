@@ -1,6 +1,8 @@
 # Ideals / Dreams
 
-Aim for the moon; even if you miss, you’ll land among the stars.”
+Aim for the moon; even if you miss, you’ll land among the stars.
+
+A dream is just a dream. A goal is a dream with a plan and a deadline -- Harvey Mackay
 
 ## Investment
 

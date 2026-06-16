@@ -40,6 +40,7 @@ Comprehensive knowledge base covering economic theory, finance, investing, and p
 	- [Gold](economics/investment-products/hybrid-alternative/gold-physical-digital.md)
 - Structured Products
 	- [portfolios](economics/investment-frameworks/portfolio-construction/portfolios.md)
+	- [portfolio-management-services-pms](economics/investment-products/structured-products/portfolio-management-services-pms.md)
 
 ### Market Mechanics
 

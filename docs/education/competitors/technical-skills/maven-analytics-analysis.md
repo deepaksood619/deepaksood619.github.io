@@ -6,8 +6,6 @@ source: https://mavenanalytics.io
 analyzed: 2026-06-13
 ---
 
-# Maven Analytics — Competitor Analysis
-
 ## Overview
 
 Maven Analytics is a specialized data analytics learning platform targeting working professionals who want to upskill in business intelligence and data tools. Founded by **Chris Dutton** (Founder & CPO), it has grown to **1,000,000+ students worldwide** and operates a dual B2C subscription + B2B enterprise model.

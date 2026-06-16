@@ -211,5 +211,6 @@ The trilemma suggests that achieving all three of these goals simultaneously is 
 	- [THE 2028 GLOBAL INTELLIGENCE CRISIS](https://www.citriniresearch.com/p/2028gic)
 - [It All Comes Down to Who Controls the Strait of Hormuz: The “Final Battle"](https://www.linkedin.com/pulse/all-comes-down-who-controls-strait-hormuz-final-battle-ray-dalio-ienne/)
 - https://www.linkedin.com/pulse/big-thing-we-world-war-isnt-going-end-anytime-soon-ray-dalio-sbrqe
+- [Investment Principles: What Should You Do Under Existing Conditions?](https://www.linkedin.com/pulse/investment-principles-what-should-you-do-under-existing-ray-dalio-kokac/)
 
 ## End

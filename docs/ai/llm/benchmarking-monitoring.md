@@ -121,6 +121,19 @@ Understanding both metrics helps you right-size your infrastructure and avoid na
 
 > Using these metrics (TTFT, TPS, and GPU usage) together helps us make a smart comparison between different GPUs and infrastructure options. This way, we can pick the setup that gives us the best performance for our specific use case without overspending.
 
+### [Understanding Rate Limits](https://console.groq.com/docs/rate-limits#understanding-rate-limits)
+
+Rate limits are measured in:
+
+- **RPM:** Requests per minute
+- **RPD:** Requests per day
+- **TPM:** Tokens per minute
+- **TPD:** Tokens per day
+- **ASH:** Audio seconds per hour
+- **ASD:** Audio seconds per day
+- **ITPM:** Input tokens per minute
+- **OTPM:** Output tokens per minute
+
 ## Benchmarks
 
 [Decoding AI Benchmarks: The 7 Essential LLM Benchmarks You Need to Understand](https://www.thetoolnerd.com/p/decoding-ai-benchmarks-the-7-essential-llm-benchmarks-thetoolnerd)

@@ -131,6 +131,8 @@ https://info.crunchydata.com/blog/how-to-get-started-with-pgbackrest-and-postgre
 
 [https://www.kubegres.io/](https://www.kubegres.io/)
 
+[pgBackRest - Reliable PostgreSQL Backup & Restore](https://pgbackrest.org/)
+
 ## Pgroll
 
 [GitHub - xataio/pgroll: PostgreSQL zero-downtime migrations made easy](https://github.com/xataio/pgroll) ⭐ 6.5k

@@ -8,13 +8,9 @@ This directory contains comprehensive company analyses, sector reports, peer com
 
 **Key Principle:** Every analysis must be saved as a standalone markdown file. See [CLAUDE.md](CLAUDE.md) for complete guidelines.
 
----
+## Indian Stocks (NSE/BSE)
 
-## Content Catalog
-
-### Indian Stocks (NSE/BSE)
-
-#### Reliance Industries Limited
+### Reliance Industries Limited
 
 - [Reliance Industries - Fundamental Analysis (June 3, 2026)](economics/company-analysis/companies/energy/reliance-industries-fundamental.md)
   - **Type:** Fundamental Analysis
@@ -83,9 +79,13 @@ This directory contains comprehensive company analyses, sector reports, peer com
   - **Data Date:** June 4, 2026 (Price: Rs. 106.46, Market Cap: Rs. 30,424 Cr, Volume: 7.54x avg)
   - **Next Update:** After Q1 FY27 earnings (July 2026) or profitability achievement
 
-### US Stocks
+### Others
 
-#### Alphabet Inc. (Google)
+- [zaggle-comprehensive](economics/company-analysis/companies/technology/zaggle-comprehensive.md)
+
+## US Stocks
+
+### Alphabet Inc. (Google)
 
 - [Alphabet Inc. - Comprehensive Investment Analysis (June 3, 2026)](economics/company-analysis/companies/technology/alphabet-google-comprehensive-analysis.md)
   - **Type:** Comprehensive Analysis (Fundamental + Technical + Valuation)
@@ -105,7 +105,7 @@ This directory contains comprehensive company analyses, sector reports, peer com
   - **Data Date:** June 3, 2026
   - **Next Update:** Post Q2 2026 Earnings (Late July 2026)
 
-#### NVIDIA Corporation
+### NVIDIA Corporation
 
 - [NVIDIA Corporation - Comprehensive Investment Analysis (June 9, 2026)](economics/company-analysis/companies/semiconductors/nvidia-comprehensive.md)
   - **Type:** Comprehensive Analysis (Fundamental + Technical + Valuation + Competitive)
@@ -141,7 +141,7 @@ This directory contains comprehensive company analyses, sector reports, peer com
   - **Next Review:** August 30, 2026 (post Q2 earnings)
   - **Comparison:** **Best semiconductor investment** - NVDA `>` MU `>` MRVL. Higher quality moat than Micron, vastly superior to Marvell.
 
-#### Micron Technology Inc
+### Micron Technology Inc
 
 - [Micron Technology - Comprehensive Investment Analysis (June 9, 2026)](economics/company-analysis/companies/semiconductors/micron-technology-comprehensive.md)
   - **Type:** Comprehensive Analysis (Fundamental + Technical + Valuation)
@@ -174,7 +174,7 @@ This directory contains comprehensive company analyses, sector reports, peer com
   - **Next Review:** June 25, 2026 (post Q3 earnings)
   - **Comparison to Marvell:** Micron FAR more attractive - 8.8x forward P/E vs MRVL 64.9x, 57.8% net margin vs MRVL 1.4%, PEG 0.30 vs 1.49
 
-#### Marvell Technology Inc
+### Marvell Technology Inc
 
 - [Marvell Technology - Comprehensive Investment Analysis (June 9, 2026)](economics/company-analysis/companies/semiconductors/marvell-technology-comprehensive.md)
   - **Type:** Comprehensive Analysis (Fundamental + Technical + Valuation)
@@ -198,13 +198,13 @@ This directory contains comprehensive company analyses, sector reports, peer com
   - **Data Date:** June 9, 2026 (Price: $299.30, Market Cap: $262.05B)
   - **Next Update:** August 27, 2026 (Q2 FY2027 earnings) - critical to assess profitability recovery
 
-#### Others
+### Others
 
 - [amazon-comprehensive-analysis](economics/company-analysis/companies/technology/amazon-comprehensive-analysis.md)
 
-### Market Analysis
+## Market Analysis
 
-**US Market Bubble Detection**
+### US Market Bubble Detection
 
 - [US Market Bubble Evaluation (June 3, 2026)](economics/company-analysis/us-market-bubble-evaluation-2026-06-03.md)
   - **Type:** Market-Wide Risk Assessment
