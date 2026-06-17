@@ -207,7 +207,7 @@ Neurons that fall out of sync lose their link
 
 - **Focused and Diffused Brain**
 - **Pomodoro Technique**
-- **Spaced Repitition**
+- [spaced-repetition](education/pedagogy/spaced-repetition.md)
 - **A Good Sleep**
 
 ### Introduction to Focused and Diffused Brain
@@ -231,12 +231,6 @@ Sometimes the first solution found prevents you from seeing a wider range of pos
 - Brain is highly flexible and always growing
 - We can tap in the power of unconsious mind and sleep to help us to learn something new.
 - There are a million billion synapses in our brain
-
-## Spaced repetition
-
-- repeating a vocabulary word or concept over days
-- Builds stronger neural structures by repeating them over a number of days
-- Recalling is very important part of learning and making it permanent
 
 ## Boost Learning Speed
 

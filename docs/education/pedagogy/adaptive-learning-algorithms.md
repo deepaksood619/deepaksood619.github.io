@@ -978,6 +978,6 @@ Most edtech platforms claim "adaptive" but use simple rules. Building true IRT/B
 - Created: 2026-05-05
 - Focus: Conceptual understanding of adaptive learning algorithms
 - Target Audience: Founders, product managers, learning scientists
-- See Also: 
+- See Also:
   - [Technical Feasibility - Adaptive Platform](education/technical/technical-feasibility-adaptive-platform.md) for implementation code
   - [Spaced Repetition](education/pedagogy/spaced-repetition.md) for SRS algorithms (SM-2, FSRS) and review scheduling optimization

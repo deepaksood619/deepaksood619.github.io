@@ -45,6 +45,7 @@ The foundational algorithm used by Anki and many other SRS platforms:
 - EF starts at 2.5 and adjusts based on performance (1.3 to 2.5 range)
 
 **Formula:**
+
 ```
 New Interval = Previous Interval × Easiness Factor
 ```
@@ -175,12 +176,14 @@ Most SRS platforms use a quality scale to adjust scheduling:
 
 ### Deck Organization
 
+```text
 **Deck:** Container for cards (e.g., "Spanish Vocabulary", "Medical School::Anatomy")
 
 **Subdeck:** Nested deck structure using `::` separator
 
 - Example: `Languages::Spanish::Verbs`
 - Subdecks inherit parent deck settings unless overridden
+```
 
 **Filtered Deck:** Temporary deck created by search query
 
