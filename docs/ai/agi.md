@@ -73,3 +73,4 @@ One day, frontier AI research used to be done by meat computers in between eatin
 - [Why Everyone Should Know About AI Evals: The Fundamentals Explained](https://youtu.be/EN8jVkv0kiw)
 - [Coding Agents Explained: How Claude Code, Codex & Cursor Actually Work](https://youtu.be/nvGqzQ47FTM)
 - [Why Isn’t AI Taking Our Jobs? - Cal Newport](https://calnewport.com/why-isnt-ai-taking-our-jobs/)
+- [Why AI hasn’t replaced software engineers, and won’t](https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers)

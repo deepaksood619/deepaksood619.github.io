@@ -107,6 +107,7 @@
 	- [Mirai School of Technology: AI First Engineering College \| B.Tech in CSE (AI)](https://miraisot.com/)
 	- [Outskill: AI Upskilling for Modern Careers](https://www.outskill.com/)
 	- [Samyak Computer Classes - YouTube](https://www.youtube.com/@samyakcomputerclasses)
+	- [GitHub - AntonioVFranco/openalgernon: A Claude Code-native study platform for AI engineers. Study playbooks, handbooks, and papers — entirely in your terminal. · GitHub](https://github.com/AntonioVFranco/openalgernon)
 
 ## Market Research
 

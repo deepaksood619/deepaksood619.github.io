@@ -610,6 +610,8 @@ grep -i -C 10 "my_regex" /var/log/syslog
 -E 'abc|*de': or with regex
 ```
 
+- Others - [GitHub - BurntSushi/ripgrep: ripgrep recursively searches directories for a regex pattern while respecting your gitignore · GitHub](https://github.com/burntsushi/ripgrep)
+
 ### cut
 
 cut out selected portions of each line of a file

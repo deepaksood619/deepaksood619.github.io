@@ -170,18 +170,16 @@ For learning: enables **longitudinal personalization**, approximate spaced repet
 
 ### 1.6 Top Learning-Focused GPTs (Marketplace)
 
-| GPT Name | Primary Learning Function | Pedagogical Strength |
-|---|---|---|
-| **Socratic Tutor** | Guides via questions, never direct answers | Active recall, productive struggle |
-| **Consensus** | Searches 200M+ research papers for evidence | Research literacy, source evaluation |
-| **Khan Academy Khanmigo** | K-12 tutoring across subjects | Curriculum alignment, hints-based guidance |
-| **Wolfram Alpha** | Computational math, step-by-step solutions | Procedural math mastery |
-| **Code Tutor (by Khan Academy)** | Python/JS tutoring with hints | Scaffolded coding education |
-| **Language Learning Pro** | Immersive foreign language dialogue | Conversational fluency |
-| **PDF Reader** | Socratic dialogue with uploaded textbooks | Active reading, comprehension checks |
-| **Scholar AI** | Academic paper synthesis | Graduate-level research skills |
-
----
+| GPT Name                         | Primary Learning Function                   | Pedagogical Strength                       |
+| -------------------------------- | ------------------------------------------- | ------------------------------------------ |
+| **Socratic Tutor**               | Guides via questions, never direct answers  | Active recall, productive struggle         |
+| **Consensus**                    | Searches 200M+ research papers for evidence | Research literacy, source evaluation       |
+| **Khan Academy Khanmigo**        | K-12 tutoring across subjects               | Curriculum alignment, hints-based guidance |
+| **Wolfram Alpha**                | Computational math, step-by-step solutions  | Procedural math mastery                    |
+| **Code Tutor (by Khan Academy)** | Python/JS tutoring with hints               | Scaffolded coding education                |
+| **Language Learning Pro**        | Immersive foreign language dialogue         | Conversational fluency                     |
+| **PDF Reader**                   | Socratic dialogue with uploaded textbooks   | Active reading, comprehension checks       |
+| **Scholar AI**                   | Academic paper synthesis                    | Graduate-level research skills             |
 
 ## Part 2: Claude Learning Ecosystem (Anthropic)
 
@@ -332,42 +330,38 @@ Claude's 200K token context window (vs. GPT-4o's ~128K) means:
 
 Claude lacks ChatGPT's mature GPT marketplace but has emerging education-specific integrations:
 
-| Integration/Use Case | Mechanism | Pedagogical Application |
-|---|---|---|
-| **API-based tutoring platforms** | Claude API with custom prompts | Khanmigo alternatives, custom LMS integrations |
-| **Cursor/IDE integration** | Code-focused Claude sessions | Programming education with real codebase context |
-| **Notebook integration (Jupyter)** | Claude in computational notebooks | Data science education with live code execution |
-| **Document Q&A (PDF upload)** | Direct file upload in Projects | Academic paper tutoring, textbook study |
-| **Research writing coach** | System-prompted via Projects | Academic writing tutoring, thesis support |
-
----
+| Integration/Use Case               | Mechanism                         | Pedagogical Application                          |
+| ---------------------------------- | --------------------------------- | ------------------------------------------------ |
+| **API-based tutoring platforms**   | Claude API with custom prompts    | Khanmigo alternatives, custom LMS integrations   |
+| **Cursor/IDE integration**         | Code-focused Claude sessions      | Programming education with real codebase context |
+| **Notebook integration (Jupyter)** | Claude in computational notebooks | Data science education with live code execution  |
+| **Document Q&A (PDF upload)**      | Direct file upload in Projects    | Academic paper tutoring, textbook study          |
+| **Research writing coach**         | System-prompted via Projects      | Academic writing tutoring, thesis support        |
 
 ## Part 3: Head-to-Head Feature Comparison
 
 ### Core Learning Feature Matrix
 
-| Feature | ChatGPT | Claude | Edge |
-|---|---|---|---|
-| **Persistent cross-session memory** | Yes (Memory system) | Partial (Projects) | ChatGPT |
-| **Custom tutor configuration** | GPT Builder (GUI) | System Prompts (text) | ChatGPT (accessibility) |
-| **Interactive artifacts/simulations** | Basic (Canvas, Code Interpreter) | Advanced (Artifacts) | **Claude** |
-| **Voice-based tutoring** | Advanced Voice Mode | None | ChatGPT |
-| **Context window for documents** | 128K tokens | 200K tokens | **Claude** |
-| **Socratic discipline** | Moderate | High | **Claude** |
-| **Real-time web knowledge** | Yes (browsing) | Limited | ChatGPT |
-| **Code execution environment** | Yes (Code Interpreter) | No native execution | ChatGPT |
-| **Long-context coherence** | Moderate | Strong | **Claude** |
-| **Marketplace / plugin ecosystem** | 3M+ GPTs | None public | ChatGPT |
-| **Multimodal (vision)** | Yes (GPT-4o) | Yes (Claude 3.5+) | Tie |
-| **Image generation** | Yes (DALL-E) | No | ChatGPT |
-| **Reasoning transparency** | Moderate | High (Extended Thinking) | **Claude** |
-| **Hallucination rate (technical)** | Moderate | Lower on average | **Claude** |
-| **Mobile / voice accessibility** | Strong | Limited | ChatGPT |
-| **Collaborative features** | Limited | Limited | Tie |
-| **Progress tracking / analytics** | None | None | Tie (both weak) |
-| **Spaced repetition system** | None native | None native | Tie (both weak) |
-
----
+| Feature                               | ChatGPT                          | Claude                   | Edge                    |
+| ------------------------------------- | -------------------------------- | ------------------------ | ----------------------- |
+| **Persistent cross-session memory**   | Yes (Memory system)              | Partial (Projects)       | ChatGPT                 |
+| **Custom tutor configuration**        | GPT Builder (GUI)                | System Prompts (text)    | ChatGPT (accessibility) |
+| **Interactive artifacts/simulations** | Basic (Canvas, Code Interpreter) | Advanced (Artifacts)     | **Claude**              |
+| **Voice-based tutoring**              | Advanced Voice Mode              | None                     | ChatGPT                 |
+| **Context window for documents**      | 128K tokens                      | 200K tokens              | **Claude**              |
+| **Socratic discipline**               | Moderate                         | High                     | **Claude**              |
+| **Real-time web knowledge**           | Yes (browsing)                   | Limited                  | ChatGPT                 |
+| **Code execution environment**        | Yes (Code Interpreter)           | No native execution      | ChatGPT                 |
+| **Long-context coherence**            | Moderate                         | Strong                   | **Claude**              |
+| **Marketplace / plugin ecosystem**    | 3M+ GPTs                         | None public              | ChatGPT                 |
+| **Multimodal (vision)**               | Yes (GPT-4o)                     | Yes (Claude 3.5+)        | Tie                     |
+| **Image generation**                  | Yes (DALL-E)                     | No                       | ChatGPT                 |
+| **Reasoning transparency**            | Moderate                         | High (Extended Thinking) | **Claude**              |
+| **Hallucination rate (technical)**    | Moderate                         | Lower on average         | **Claude**              |
+| **Mobile / voice accessibility**      | Strong                           | Limited                  | ChatGPT                 |
+| **Collaborative features**            | Limited                          | Limited                  | Tie                     |
+| **Progress tracking / analytics**     | None                             | None                     | Tie (both weak)         |
+| **Spaced repetition system**          | None native                      | None native              | Tie (both weak)         |
 
 ## Part 4: Learning Style × Platform Recommendation Matrix
 
@@ -479,14 +473,14 @@ No data dashboard exists for either platform showing knowledge gaps, time-on-tas
 
 For an Indian edtech startup building AI-powered learning tools:
 
-| Opportunity | Recommended Approach | Leverage |
-|---|---|---|
-| **Spaced repetition layer** | Build SRS scheduling on top of Claude API | Fill the biggest gap neither platform addresses |
-| **Mastery tracking** | Custom assessment engine + Claude for explanations | Neither platform does this; strong differentiation |
-| **Regional language tutoring** | ChatGPT AVM for Hindi/regional voice; Claude for text depth | Combine both APIs for language coverage |
-| **Socratic tutor for UPSC/JEE** | Claude Projects + custom Socratic system prompt | Claude's discipline superior to ChatGPT for exam prep |
-| **Interactive simulations for STEM** | Claude Artifacts API | Cheaper than building simulation libraries; instant generation |
-| **Placement prep** | Claude for case interviews (conceptual depth); ChatGPT for mock verbal interviews (AVM) | Task-specific platform selection |
+| Opportunity                          | Recommended Approach                                                                    | Leverage                                                       |
+| ------------------------------------ | --------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **Spaced repetition layer**          | Build SRS scheduling on top of Claude API                                               | Fill the biggest gap neither platform addresses                |
+| **Mastery tracking**                 | Custom assessment engine + Claude for explanations                                      | Neither platform does this; strong differentiation             |
+| **Regional language tutoring**       | ChatGPT AVM for Hindi/regional voice; Claude for text depth                             | Combine both APIs for language coverage                        |
+| **Socratic tutor for UPSC/JEE**      | Claude Projects + custom Socratic system prompt                                         | Claude's discipline superior to ChatGPT for exam prep          |
+| **Interactive simulations for STEM** | Claude Artifacts API                                                                    | Cheaper than building simulation libraries; instant generation |
+| **Placement prep**                   | Claude for case interviews (conceptual depth); ChatGPT for mock verbal interviews (AVM) | Task-specific platform selection                               |
 
 ---
 

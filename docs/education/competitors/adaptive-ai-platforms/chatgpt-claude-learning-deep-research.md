@@ -128,12 +128,12 @@ To visually synthesize the performance of these reasoning models across critical
 
 ### Table 1: High-Level STEM Benchmark Comparisons Across Reasoning Models
 
-|**Evaluation Benchmark**|**Domain Tested**|**Claude 3.7 Sonnet (Extended Thinking)**|**OpenAI o3-mini**|**Grok 3 Beta**|
-|---|---|---|---|---|
-|**GPQA Diamond**|Graduate-level Science (Physics, Chem, Bio)|**84.8%** (Overall) / **96.5%** (Physics)|79.7%|Not Reported|
-|**SWE-bench Verified**|Agentic Software Engineering|**70.3%**|49.3%|Not Reported|
-|**AIME 2024**|High School Competition Mathematics|80.0%|83.3%|**93.3%**|
-|**MMMU**|Multimodal Visual Reasoning|75.0%|78.2%|**78.0%**|
+| **Evaluation Benchmark** | **Domain Tested**                           | **Claude 3.7 Sonnet (Extended Thinking)** | **OpenAI o3-mini** | **Grok 3 Beta** |
+| ------------------------ | ------------------------------------------- | ----------------------------------------- | ------------------ | --------------- |
+| **GPQA Diamond**         | Graduate-level Science (Physics, Chem, Bio) | **84.8%** (Overall) / **96.5%** (Physics) | 79.7%              | Not Reported    |
+| **SWE-bench Verified**   | Agentic Software Engineering                | **70.3%**                                 | 49.3%              | Not Reported    |
+| **AIME 2024**            | High School Competition Mathematics         | 80.0%                                     | 83.3%              | **93.3%**       |
+| **MMMU**                 | Multimodal Visual Reasoning                 | 75.0%                                     | 78.2%              | **78.0%**       |
 
 Data aggregated from benchmark reports and technical analyses.
 

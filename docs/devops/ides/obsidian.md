@@ -58,6 +58,34 @@ Extensions that helps make obsidian better
 - [GitHub - polyipseity/obsidian-terminal: Integrate consoles, shells, and terminals. · GitHub](https://github.com/polyipseity/obsidian-terminal) ⭐ 846
 - [GitHub - obsidian-community/obsidian-style-settings: A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian · GitHub](https://github.com/obsidian-community/obsidian-style-settings) ⭐ 2.3k
 
+### LearnKit
+
+#### Key features
+
+- **FSRS scheduling** — adaptive spaced repetition so every review counts.
+- **Rich flashcard types** — cloze, basic, reversed, multiple choice, image occlusion, and more.
+- **Text-to-speech & audio** — built-in playback for language learning and listening practice.
+- **Study analytics** — charts, heatmaps, and retention trends at a glance.
+- **Markdown-first** — flashcards live inside your notes, linked to the knowledge they came from.
+- **Reading view customisation** — keep notes clean and distraction-free while studying.
+- **Note review mode** — spaced repetition for your notes, not just flashcards.
+- **Study coach** — personalised study plans and coaching for your exams.
+- **Test mode** — AI-generated quizzes straight from your notes.
+
+#### Companion — AI learning assistant
+
+Companion is LearnKit's built-in AI study assistant for working directly with the notes you already have.
+
+- **Ask anything** — get instant answers grounded in the note you're reading.
+- **Generate flashcards and tests** — turn any note into study-ready material in seconds.
+- **Review and improve** — get targeted feedback that makes your notes clearer and more complete.
+- **Edit with AI** — Companion can rewrite, restructure, and refine your notes for you, right where you work.
+
+Turn notes into study-ready material without leaving Obsidian.
+
+- [LearnKit - Obsidian Plugin](https://community.obsidian.md/plugins/learnkit)
+- [GitHub - ctrlaltwill/LearnKit: A native study system for your Obsidian vault. LearnKit turns notes into durable knowledge with flashcards, spaced repetition, reviews, tests, and AI tools. · GitHub](https://github.com/ctrlaltwill/LearnKit)
+
 **Settings / Preferences**
 
 - Templates - Date Format - `ddd, DD MMM YYYY`

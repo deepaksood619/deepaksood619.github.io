@@ -309,9 +309,27 @@ ls ~/.claude/get-shit-done/workflows/
 # windows - powershell
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 
+## Install (recommended)
+npm install -g openclaw@latest
+# or: pnpm add -g openclaw@latest
+
+openclaw onboard --install-daemon
+
+# Quick start (TL;DR)
+openclaw onboard --install-daemon
+openclaw gateway status
+nohup openclaw gateway run > /tmp/openclaw.log 2>&1 &
+
+
 openclaw update
 
 openclaw dashboard
+openclaw dashboard --no-open
+openclaw tui
+
+openclaw config get gateway.auth.token
+grep "token" ~/.openclaw/openclaw.json
+
 openclaw doctor --generate-gateway-token
 openclaw doctor --fix
 
@@ -324,7 +342,42 @@ openclaw onboard --install-daemon
 # In your agent's system prompt (or `SOUL.md`), explicitly instruct the AI to only respond when `@openclaw` is type
 
 openclaw logs --follow
+
+openclaw plugins enable workboard
+openclaw gateway restart
+
+openclaw hooks list
+openclaw hooks enable <name>
+openclaw hooks disable <name>
+
+export NODE_COMPILE_CACHE=/var/tmp/openclaw-compile-cache
+mkdir -p /var/tmp/openclaw-compile-cache
+export OPENCLAW_NO_RESPAWN=1
 ```
+
+- [OpenClaw Meets AWS: End-to-End Testing and Deployment - DEV Community](https://dev.to/aws-builders/openclaw-meets-aws-end-to-end-testing-and-deployment-1ig1)
+- [Mastering OpenClaw on AWS: Fine-Tuning Personality, Memory, and Soul - DEV Community](https://dev.to/aws-builders/mastering-openclaw-on-aws-fine-tuning-personality-memory-and-soul-37ig)
+
+## Hermes
+
+### Running
+
+- [Running OpenClaw and Hermes Agent on a Single Amazon EC2 - A Developer's Guide \| AWS Builder Center](https://builder.aws.com/content/3DIbUV5mwNgBWejPsUW3qw8hX8h/running-openclaw-and-hermes-agent-on-a-single-amazon-ec2-a-developers-guide)
+- https://www.reddit.com/r/hermesagent/comments/1slidff/how_are_you_all_deploying_hermes_agent_online_any/
+	- [Hermes Agent Setup on VPS - YouTube](https://www.youtube.com/watch?v=UbK2kXygPUY)
+	- [Run Hermes FREE 🤯 \| $0 VPS Setup \| Step By Step (Oracle Cloud) - YouTube](https://www.youtube.com/watch?v=x612jrGtDcA)
+
+### Links
+
+- [GitHub - NousResearch/hermes-agent: The agent that grows with you · GitHub](https://github.com/nousresearch/hermes-agent) ⭐ 194k
+- [Hermes Agent — The Agent That Grows With You \| Nous Research](https://hermes-agent.nousresearch.com/)
+- [GitHub - nesquena/hermes-webui: Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! · GitHub](https://github.com/nesquena/hermes-webui)
+
+## Hermes vs OpenClaw
+
+- [I Switched from OpenClaw to Hermes Agent. Here’s What Nobody Told Me | Medium](https://medium.com/@sathishkraju/i-switched-from-openclaw-to-hermes-agent-heres-what-nobody-told-me-5f33a746b6ca)
+- [OpenClaw vs Hermes Agent: The best agent harness in 2026 \| Composio](https://composio.dev/content/openclaw-vs-hermes-agent)
+- https://www.reddit.com/r/openclaw/comments/1sky2w1/openclaw_vs_hermes_agent_my_experience_after/
 
 ## Others / Agents / Skills
 
@@ -335,8 +388,6 @@ openclaw logs --follow
 - [GitHub - bytedance/deer-flow: An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. · GitHub](https://github.com/bytedance/deer-flow) ⭐ 71k
 - [GitHub - bmad-code-org/BMAD-METHOD: Breakthrough Method for Agile Ai Driven Development · GitHub](https://github.com/bmad-code-org/BMAD-METHOD) ⭐ 49k
 	- [Getting Started \| BMAD Method](https://docs.bmad-method.org/tutorials/getting-started/)
-- [GitHub - NousResearch/hermes-agent: The agent that grows with you · GitHub](https://github.com/nousresearch/hermes-agent) ⭐ 194k
-	- [Hermes Agent — The Agent That Grows With You \| Nous Research](https://hermes-agent.nousresearch.com/)
 - [GitHub - msitarzewski/agency-agents: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. · GitHub](https://github.com/msitarzewski/agency-agents) ⭐ 113k
 - [GitHub - FujiwaraChoki/MoneyPrinterV2: Automate the process of making money online. · GitHub](https://github.com/FujiwaraChoki/MoneyPrinterV2) ⭐ 31k
 - Documentations

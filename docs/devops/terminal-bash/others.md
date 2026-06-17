@@ -13,6 +13,26 @@
 
 ![Linux Boot Process](../../media/Pasted%20image%2020240219161748.jpg)
 
+### GRUB2
+
+GRUB2 (GRand Unified Bootloader version 2) is the **standard boot manager for most modern Linux distributions.** When you turn on your computer, GRUB2 initializes, displays an operating system selection menu (if you dual-boot), and loads the kernel to start your system.
+
+#### Configuration and Management
+
+The most important rule of managing GRUB2 is to **never edit the main configuration file directly**. Instead, you edit your preferences in a designated configuration file and tell GRUB2 to programmatically generate the main file for you.
+
+#### Key Locations
+
+- **/etc/default/grub**: The main file where you configure settings like the timeout duration and default OS.
+- **/etc/grub.d/**: A directory containing template scripts executed in alphanumeric order to build the boot menu.
+- **/boot/grub/grub.cfg** (or **/boot/grub2/grub.cfg**): The main, read-only configuration file.
+
+#### Basic Workflow for Making Changes
+
+1. Open the `/etc/default/grub` file in a text editor (like `nano`) using root/administrator privileges.
+2. Modify variables as needed (e.g., changing `GRUB_TIMEOUT=5` or `GRUB_DEFAULT=0`).
+3. Save the file and generate the updated menu using the appropriate command for your operating system.
+
 ## systemd / initd
 
 systemd is a collection of tools for a range of different tasks.Its primary purpose is initializing, managing and tracking system services and daemons in Fedora, both during startupand while the system is running.

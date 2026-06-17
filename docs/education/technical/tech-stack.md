@@ -144,3 +144,7 @@
 - Cost: ₹40-50L/month infra
 
 **Cost per user drops as we scale** (economies of scale)
+
+## Links
+
+- [GitHub - open-spaced-repetition/ts-fsrs: ts-fsrs is a versatile package written in TypeScript that supports ES modules, CommonJS, and UMD. · GitHub](https://github.com/open-spaced-repetition/ts-fsrs)

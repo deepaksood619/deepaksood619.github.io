@@ -79,7 +79,9 @@ Comparison of a variable across a map or layout, such as the unemployment rate b
 - https://deck.gl
 - https://github.com/emeeks/semiotic
 - Echarts - https://echarts.baidu.com
-- ggplot2
+- [Recharts](https://recharts.github.io/)
+
+### ggplot2
 
 ggplot2 is a system for declaratively creating graphics, based on [The Grammar of Graphics](http://amzn.to/2ef1eWp). You provide the data, tell ggplot2 how to map variables to aesthetics, what graphical primitives to use, and it takes care of the details.
 
