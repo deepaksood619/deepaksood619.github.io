@@ -515,10 +515,12 @@ A few other things of note: EC2 Instance Connect supports only Linux EC2 hosts w
 
 #### Networking Traps & Fixes
 
+```text
 - **VPC CIDR Splits:** A standard Amazon-provided VPC IPv6 block is a `/56`. Subnets must be carved out using a smaller **`/64`** block size [AWS IPv6 Subnet Sizing].
 - **Address Compression (`::`):** The double colon (`::`) in an IPv6 address compresses sequential zeros. Subnet blocks cannot overlap. If Subnet 1 takes `300::/64`, Subnet 2 must step up to `301::/64` to avoid collision conflicts.
 - **The Routing Gap:** Assigning an IP to a subnet is not enough. The VPC **Route Table** must explicitly route public IPv6 traffic (`::/0`) to the **Internet Gateway** (`igw-xxxx`).
 - **Existing OS Behavior:** Existing EC2 instances do not automatically recognize new IPv6 allocations on a simple reboot. The operating system's internal network interface controller must be forced to refresh using `dhclient -6 eth0`.
+```
 
 ### 🛠️ Step-by-Step Configuration Guide
 
@@ -528,8 +530,12 @@ A few other things of note: EC2 Instance Connect supports only Linux EC2 hosts w
 2. Go to **Your VPCs** > **Actions** > **Edit CIDRs**.
 3. Click **Add new IPv6 CIDR** and select **Amazon-provided IPv6 CIDR block**.
 4. Go to **Subnets** and configure your availability zones:
+
+```bash
     - **Subnet 1:** Edit IPv6 CIDR → Enter suffix `00` or use base `300::/64`.
     - **Subnet 2:** Edit IPv6 CIDR → Enter suffix to create `301::/64` to avoid conflicts.
+```
+
 5. For both subnets, click **Actions** > **Edit subnet settings** and check **"Enable auto-assign public IPv6 address"**. Uncheck the IPv4 equivalent.
 
 #### Step 2: Update Network Routing
@@ -537,17 +543,25 @@ A few other things of note: EC2 Instance Connect supports only Linux EC2 hosts w
 1. In the VPC Console, click **Route Tables**.
 2. Select your active route table and click **Edit routes**.
 3. Click **Add route**:
+
+```text
     - **Destination:** `::/0` (Anywhere IPv6)
     - **Target:** `Internet Gateway` → (Select your active `igw-xxxx`).
+```
+
 4. Save the changes.
 
 #### Step 3: Configure Security Groups (Firewall)
 
 1. Open the **EC2 Console** and find your **Security Group**.
 2. Click **Edit inbound rules** and add these rules for the public internet:
+
+```bash
     - **SSH (Port 22):** Source `::/0`
     - **HTTP (Port 80):** Source `::/0`
     - **HTTPS (Port 443):** Source `::/0`
+```
+
 3. Save the rules.
 
 #### Step 4: Adapt and Provision the Instance

@@ -141,7 +141,9 @@ ANALYZE TABLE MY_BIG_DIM COMPUTE STATISTICS FOR ALL COLUMNS
 
 ## Findings
 
+```text
 - using createdAtDate vs createdAt::date doesn't make any difference in run query
+```
 
 ## Compute
 

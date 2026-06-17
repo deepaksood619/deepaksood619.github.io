@@ -13,7 +13,7 @@ IPv6 does not implement broadcast addressing, and replaces it with multicast to 
 
 ### Multicast addressing
 
-A [multicast address](https://en.wikipedia.org/wiki/Multicast_address) is associated with a group of interested receivers. In IPv4, addresses224.0.0.0through239.255.255.255(the former [Class D](https://en.wikipedia.org/wiki/Classful_network) addresses) are designated as multicast addresses. IPv6 uses the address block with the prefixff00::/8for multicast. In either case, the sender sends a single datagram from its unicast address to the multicast group address and the intermediary routers take care of making copies and sending them to all interested receivers (those that have joined the corresponding multicast group).
+A [multicast address](https://en.wikipedia.org/wiki/Multicast_address) is associated with a group of interested receivers. In IPv4, addresses224.0.0.0through239.255.255.255(the former [Class D](https://en.wikipedia.org/wiki/Classful_network) addresses) are designated as multicast addresses. IPv6 uses the address block with the prefixff00:/8for multicast. In either case, the sender sends a single datagram from its unicast address to the multicast group address and the intermediary routers take care of making copies and sending them to all interested receivers (those that have joined the corresponding multicast group).
 
 ### Anycast addressing
 

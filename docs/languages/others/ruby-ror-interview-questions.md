@@ -10,9 +10,9 @@ Use `includes` when you want eager loading **and** potential filtering; use `pre
 
 ### 2. How does Rails manage database transactions, and how can you use them effectively?
 
-Rails provides `ActiveRecord::Base.transaction` to wrap operations in a DB transaction. If an exception occurs, changes are rolled back.
-
 ```ruby
+# Rails provides `ActiveRecord::Base.transaction` to wrap operations in a DB transaction. If an exception occurs, changes are rolled back.
+
 ActiveRecord::Base.transaction do
   user.save!
   order.save!

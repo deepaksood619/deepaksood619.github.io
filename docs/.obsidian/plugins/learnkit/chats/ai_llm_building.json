@@ -1,0 +1,15 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "text": "Generate flashcards"
+    },
+    {
+      "role": "assistant",
+      "text": "All flashcards inserted into the note."
+    }
+  ],
+  "reviewMessages": [],
+  "generateMessages": [],
+  "reviewDepth": "standard"
+}

@@ -10,9 +10,11 @@ C++ is a **statically typed language**. That is, the type of every entity (e.g.,
 
 The operator `<<` (''put to'') writes its second argument onto its first.
 
+```bash
 `std::cout << "Hello, World!n";`
 
 In this case, the string literal "Hello, World!n" is written onto the standard output stream std::cout.
+```
 
 ## `>>` - get from
 

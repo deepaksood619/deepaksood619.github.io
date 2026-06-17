@@ -23,11 +23,11 @@ Just like arrays, vectors use contiguous storage locations for their elements, w
 
 Internally, vectors use a dynamically allocated array to store their elements. This array may need to be reallocated in order to grow in size when new elements are inserted, which implies allocating a new array and moving all elements to it. This is a relatively expensive task in terms of processing time, and thus, vectors do not reallocate each time an element is added to the container.
 
-Instead, vector containers may allocate some extra storage to accommodate for possible growth, and thus the container may have an actual [capacity](http://www.cplusplus.com/vector::capacity) greater than the storage strictly needed to contain its elements (i.e., its [size](http://www.cplusplus.com/vector::size)). Libraries can implement different strategies for growth to balance between memory usage and reallocations, but in any case, reallocations should only happen at logarithmically growing intervals of [size](http://www.cplusplus.com/vector::size) so that the insertion of individual elements at the end of the vector can be provided withamortized constant timecomplexity (see [push_back](http://www.cplusplus.com/vector::push_back)).
+Instead, vector containers may allocate some extra storage to accommodate for possible growth, and thus the container may have an actual capacity greater than the storage strictly needed to contain its elements (i.e., its `size`). Libraries can implement different strategies for growth to balance between memory usage and reallocations, but in any case, reallocations should only happen at logarithmically growing intervals of `size` so that the insertion of individual elements at the end of the vector can be provided withamortized constant timecomplexity (see push_back).
 
 Therefore, compared to arrays, vectors consume more memory in exchange for the ability to manage storage and grow dynamically in an efficient way.
 
-Compared to the other dynamic sequence containers ([deques](http://www.cplusplus.com/deque), [lists](http://www.cplusplus.com/list) and [forward_lists](http://www.cplusplus.com/forward_list)), vectors are very efficient accessing its elements (just like arrays) and relatively efficient adding or removing elements from its [end](http://www.cplusplus.com/vector::end). For operations that involve inserting or removing elements at positions other than the end, they perform worse than the others, and have less consistent iterators and references than [lists](http://www.cplusplus.com/list) and [forward_lists](http://www.cplusplus.com/forward_list).
+Compared to the other dynamic sequence containers ([deques](http://www.cplusplus.com/deque), [lists](http://www.cplusplus.com/list) and [forward_lists](http://www.cplusplus.com/forward_list)), vectors are very efficient accessing its elements (just like arrays) and relatively efficient adding or removing elements from its end. For operations that involve inserting or removing elements at positions other than the end, they perform worse than the others, and have less consistent iterators and references than [lists](http://www.cplusplus.com/list) and [forward_lists](http://www.cplusplus.com/forward_list).
 
 Vector constructors
 Vector operators
@@ -250,7 +250,10 @@ value_comp
 Maps are a part of the C++ STL.Maps are associative containers that store elements formed by a combination of a key value and a mapped value, following a specific order.The mainly used member functions of maps are:
 
 - Map Template:
-    `std::map <key_type, data_type>`
+
+```bash
+std::map <key_type, data_type>
+```
 
 - Declaration:
     `map<string,int>m; //Creates a map m where key_type is of type string and data_type is of type int.`

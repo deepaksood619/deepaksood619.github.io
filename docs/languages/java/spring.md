@@ -34,4 +34,4 @@ spring jpa tutorial
 
 https://github.com/spring-projects/spring-petclinic
 
-[Model Context Protocol (MCP) :: Spring AI Reference](https://docs.spring.io/spring-ai/reference/api/mcp/mcp-overview.html)
+[Model Context Protocol (MCP) Spring AI Reference](https://docs.spring.io/spring-ai/reference/api/mcp/mcp-overview.html)

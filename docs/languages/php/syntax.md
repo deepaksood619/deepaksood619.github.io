@@ -12,7 +12,7 @@
 | **TRAIT**     | The trait name. The trait name includes the namespace it was declared in (e.g.FooBar).                                                                                                                                                       |
 | **METHOD**    | The class method name.                                                                                                                                                                                                                          |
 | **NAMESPACE** | The name of the current namespace.                                                                                                                                                                                                              |
-| **ClassName::class**  | The fully qualified class name. See also [::class](https://www.php.net/manual/en/language.oop5.basic.php#language.oop5.basic.class.class).                                                                                                      |
+| **ClassName:class**  | The fully qualified class name. See also class.                                                                                                      |
 
 https://www.php.net/manual/en/language.constants.predefined.php
 

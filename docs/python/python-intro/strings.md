@@ -436,7 +436,9 @@ Example
 
 What is the slice expression that gives every third character of strings, starting with the last character and proceeding backward to the first?
 
-`s[::-3]`
+```bash
+s[::-3]
+```
 
 #### DocString
 

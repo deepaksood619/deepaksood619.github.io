@@ -224,3 +224,9 @@ EdNet is the largest publicly released dataset of student-AI interactions in edu
 **B2B API ambition requires patience:** The "AWS of adaptive learning" vision requires 5-7 year sales cycle investment. Under-capitalized startups should focus B2C first, use revenue to fund B2B development.
 
 **DKT vs. IRT trade-off:** IRT is more interpretable and explainable to educators; DKT is more accurate but opaque. For K-12 school sales, explainability often matters more than marginal accuracy improvement. Choose based on customer.
+
+## Links
+
+- [GitHub - Riiid-Team/AI-Learning: Using knowledge states of 100K+ students to predict whether a student will answer a question correctly. · GitHub](https://github.com/Riiid-Team/AI-Learning)
+- [Riiid Answer Correctness Prediction \| Kaggle](https://www.kaggle.com/c/riiid-test-answer-prediction/overview)
+- TOEIC (Test of English for International Communication)

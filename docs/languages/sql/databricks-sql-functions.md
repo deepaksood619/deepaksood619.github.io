@@ -93,7 +93,7 @@
 - [`coalesce` function](https://docs.databricks.com/en/sql/language-manual/functions/coalesce.html)
 - [`collect_list` aggregate function](https://docs.databricks.com/en/sql/language-manual/functions/collect_list.html)
 - [`collect_set` aggregate function](https://docs.databricks.com/en/sql/language-manual/functions/collect_set.html)
-- [`::` (colon colon sign) operator](https://docs.databricks.com/en/sql/language-manual/functions/coloncolonsign.html)
+- [(colon colon sign) operator](https://docs.databricks.com/en/sql/language-manual/functions/coloncolonsign.html)
 - [`:` (colon sign) operator](https://docs.databricks.com/en/sql/language-manual/functions/colonsign.html)
 - [`concat` function](https://docs.databricks.com/en/sql/language-manual/functions/concat.html)
 - [`concat_ws` function](https://docs.databricks.com/en/sql/language-manual/functions/concat_ws.html)

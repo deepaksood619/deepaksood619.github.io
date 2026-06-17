@@ -151,9 +151,9 @@ While InnoDB primarily uses row-level locking, there can also be implicit table-
 
 [Pitfalls of Metadata Locking During DDL Execution in Production](https://www.linkedin.com/pulse/pitfalls-metadata-locking-during-ddl-execution-pranav-pandey/)
 
-[MySQL :: MySQL 8.0 Reference Manual :: 29.12.13.3 The metadata\_locks Table](https://dev.mysql.com/doc/refman/8.0/en/performance-schema-metadata-locks-table.html)
+[MySQL : MySQL 8.0 Reference Manual : 29.12.13.3 The metadata\_locks Table](https://dev.mysql.com/doc/refman/8.0/en/performance-schema-metadata-locks-table.html)
 
-[MySQL :: MySQL 8.4 Reference Manual :: 10.11.4 Metadata Locking](https://dev.mysql.com/doc/refman/8.4/en/metadata-locking.html)
+[MySQL : MySQL 8.4 Reference Manual : 10.11.4 Metadata Locking](https://dev.mysql.com/doc/refman/8.4/en/metadata-locking.html)
 
 ## Links
 

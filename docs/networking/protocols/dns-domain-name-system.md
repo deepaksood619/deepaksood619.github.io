@@ -78,7 +78,9 @@ Map domain name to IPv4 address. Ex: example.com => 127.0.0.1
 
 ### AAAA
 
+```text
 Map domain name to IPv6 address. Ex: example.com => ::1
+```
 
 ### CNAME
 

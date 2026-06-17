@@ -82,7 +82,7 @@ ALTER TABLE users ADD COLUMN enc_uid VARCHAR(225) DEFAULT NULL, ALGORITHM=INSTAN
 
 ### Alter table add column Algorithm Instant
 
-[MySQL :: MySQL 8.0 INSTANT ADD and DROP Column(s)](https://dev.mysql.com/blog-archive/mysql-8-0-instant-add-and-drop-columns/)
+[MySQL : MySQL 8.0 INSTANT ADD and DROP Column(s)](https://dev.mysql.com/blog-archive/mysql-8-0-instant-add-and-drop-columns/)
 
 - Adding a column cannot be combined in the same statement with other ALTER TABLE actions that do not support ALGORITHM=INSTANT.
 - A column can only be added as the last column of the table. Adding a column to any other position among other columns is not supported.
@@ -98,7 +98,7 @@ ALTER TABLE users ADD COLUMN enc_uid VARCHAR(225) DEFAULT NULL, ALGORITHM=INSTAN
 [amazon rds - MySQL 8.0 Alter Table Algorithm=INSTANT not working as expected (takes 40 secs) - Stack Overflow](https://stackoverflow.com/questions/63463566/mysql-8-0-alter-table-algorithm-instant-not-working-as-expected-takes-40-secs)
 
 - ALTER TABLE operations are processed using one of the following algorithms: COPY: ... INPLACE: ... INSTANT: Operations only modify metadata in the data dictionary. **An exclusive metadata lock on the table may be taken briefly during the execution phase of the operation.**
-- [MySQL :: MySQL 8.0 Reference Manual :: 15.1.9 ALTER TABLE Statement](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html)
+- [MySQL : MySQL 8.0 Reference Manual : 15.1.9 ALTER TABLE Statement](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html)
 
 ## Postgres ON UPDATE
 

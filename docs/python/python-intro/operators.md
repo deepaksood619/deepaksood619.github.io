@@ -33,7 +33,7 @@ Identity vs Equality Operators
 
 | **Operator** | **Description**                                                                                                   | **Example**                                         |
 | ------------ | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| ==           | If the values of two operands are equal, then the condition becomes true.                                         | `(a == b)` is not true.                             |
+| \=\=           | If the values of two operands are equal, then the condition becomes true.                                         | `(a \=\= b)` is not true.                             |
 | `!=`         | If values of two operands are not equal, then condition becomes true.                                             | `(a != b)` is true.                                 |
 | `<>`         | If values of two operands are not equal, then condition becomes true. (Deprecated)                                | `(a <> b)` is true. This is similar to != operator. |
 | `>`          | If the value of left operand is greater than the value of right operand, then condition becomes true.             | `(a > b)` is not true.                              |

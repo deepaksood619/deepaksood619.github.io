@@ -12,7 +12,7 @@ The book covers several different ideas, but ultimately it all comes down to the
 
 ## 1. Competence before confidence
 
-=="Insecurity leads to over-thinking and paralyses the ability to take action… If you want to get started, believe that you can do it or be good at something — but don’t expect yourself to be the best."==
+"Insecurity leads to over-thinking and paralyses the ability to take action… If you want to get started, believe that you can do it or be good at something — but don’t expect yourself to be the best."
 
 ## 2. The delusion of control
 

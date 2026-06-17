@@ -126,7 +126,6 @@ The process of node discovery and connection is often repeated several times unt
 #### For Ethereum
 
 - The Geth implementation of the Ethereum protocol maintains a set of bootnodes that can be used to bootstrap new nodes. These include enode://a24df51ba24fb4f28833a67a2db1ad346f87342dc61bdc9947e174d55c53e7f9fb6b66bd6de0b1773d3c8ca088f2720c7d76f0b562455ab8f2a1eafdd281b799@52.16.188.185:30303 and enode://enode://c9[1b8631fbdda623568c7b937d92d924408d8baae698fc988e7f2d2c13df05244cc2a735cc69e0d39ebd06c126fa8618b0a66b3d0de08b3c00da1b78a9e92a96@bootnode.ethdevops.io](mailto:1b8631fbdda623568c7b937d92d924408d8baae698fc988e7f2d2c13df05244cc2a735cc69e0d39ebd06c126fa8618b0a66b3d0de08b3c00da1b78a9e92a96@bootnode.ethdevops.io):30303
-- The Parity implementation of the Ethereum protocol also maintains a set of bootnodes, including enode://[::ffff:52.169.42.101]:30303 and enode://[::ffff:54.153.6.94]:30303.
 
 These are just a few examples, and the specific nodes used by different wallet software may vary. Additionally, some wallet software may allow users to configure their own set of preferred nodes to connect to.
 

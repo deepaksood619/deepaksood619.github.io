@@ -30,7 +30,7 @@ Assume variable A holds 10 and variable B holds 20 then −
 
 | Operator | Description                                                                                                                     | Example                 |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| ==       | Checks if the value of two operands are equal or not, if yes then condition becomes true.                                       | (A == B) is not true.   |
+| \=\=       | Checks if the value of two operands are equal or not, if yes then condition becomes true.                                       | (A \=\= B) is not true.   |
 | !=       | Checks if the value of two operands are equal or not, if values are not equal then condition becomes true.                      | (A != B) is true.       |
 | `>`      | Checks if the value of left operand is greater than the value of right operand, if yes then condition becomes true.             | `(A > B)` is not true.  |
 | `<`      | Checks if the value of left operand is less than the value of right operand, if yes then condition becomes true.                | `(A < B)` is true.      |
