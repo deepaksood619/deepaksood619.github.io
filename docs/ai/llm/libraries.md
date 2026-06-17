@@ -238,6 +238,7 @@ Traditional RAG approaches often rely on batch processing and static data summar
 - [GitHub - iii-hq/iii: Effortlessly compose, extend, and observe every service in real-time for the first time ever. · GitHub](https://github.com/iii-hq/iii) ⭐ 18k
 	- [GitHub - rohitg00/agentmemory: #1 Persistent memory for AI coding agents based on real-world benchmarks · GitHub](https://github.com/rohitg00/agentmemory) ⭐ 22k
 - [GitHub - XortexAI/XMem: Xmem is a India's First open source multi-modal, multi-agentic long‑term memory layer for AI agents. · GitHub](https://github.com/XortexAI/Xmem) ⭐ 233
+- [GitHub - buildingjoshbetter/TrueMemory: The memory your AI should have had from the start. Automatic capture, automatic recall, 100% local. One SQLite file, zero cloud. Works with Claude Code, Claude CLI, Cursor, Codex CLI, Gemini CLI. · GitHub](https://github.com/buildingjoshbetter/TrueMemory)
 
 ### Comparision
 

@@ -57,12 +57,13 @@ Technical architecture, feasibility studies, and implementation plans:
 - [Technical Feasibility: AI Question Generation](education/technical/technical-feasibility-ai-question-generation.md) - Architecture, costs, phases
 - [tech-stack](education/technical/tech-stack.md)
 
-### Pedagogy & Learning Science (17 files)
+### Pedagogy & Learning Science (18 files)
 
 Learning science, cognitive psychology, and educational methodologies:
 
 - [Course: Learning How to Learn](education/pedagogy/course-learning-how-to-learn.md) - Coursera course summary
 - [Memory](education/pedagogy/memory.md) - Memory systems and techniques
+- **[Spaced Repetition](education/pedagogy/spaced-repetition.md)** - **NEW:** Comprehensive guide to spaced repetition systems (SRS): forgetting curve, spacing effect, active recall, algorithms (SM-2, FSRS), terminology (bury/suspend/leech/ease), platforms (Anki/SuperMemo/RemNote), card design best practices, optimal intervals, evidence base, startup implications
 - [Learning Styles](education/pedagogy/learning-styles.md) - Learning style theories
 - [Concentration & Focus](education/pedagogy/concentration-mindfulness-attention-focus-hard-work.md)
 - [Note-Taking & PKM](education/pedagogy/note-taking-second-brain-pkm-zettelkasten.md)

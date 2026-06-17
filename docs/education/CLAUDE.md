@@ -179,8 +179,6 @@ type: research-paper
 tags: [learning-science, meta-analysis]
 ---
 
-# Paper Title
-
 ## Key Findings
 - Finding 1
 - Finding 2

@@ -6,7 +6,7 @@ Neuron hooks
 
 Use index cards
 
-Spaced repeatition (and then spacing the space between repeatition)
+**Spaced Repetition:** Review information at increasing intervals to combat forgetting curve and optimize long-term retention. See [Spaced Repetition](education/pedagogy/spaced-repetition.md) for comprehensive coverage of SRS algorithms, platforms (Anki, SuperMemo), card design, terminology (bury/suspend/leech), and evidence-based practices.
 
 Interleave your learning, mix concepts together so that new concepts can be formed
 

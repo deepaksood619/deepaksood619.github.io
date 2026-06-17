@@ -220,3 +220,32 @@ Ludwig enables you to apply state-of-the-art tabular, natural language processin
 - [How Meta animates AI-generated images at scale - Engineering at Meta](https://engineering.fb.com/2024/08/14/production-engineering/how-meta-animates-ai-generated-images-at-scale/)
 - [How LLMs Handle Infinite Context With Finite Memory \| Towards Data Science](https://towardsdatascience.com/llms-can-now-process-infinite-context-windows/)
 - [GitHub - OpenPipe/ART: Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.6, GPT-OSS, Llama, and more! · GitHub](https://github.com/OpenPipe/ART) ⭐ 10.0k
+
+^learnkit-923546737
+T | LLM Parameter Understanding |
+CQ | Billions of parameters in LLMs are dispersed through the network and we {{c1::know how to iteratively adjust them}} to make better predictions, but we {{c2::do not fully understand how these parameters collaborate}}. |
+I | This highlights the complexity and partial opacity of large language models despite their effectiveness. |
+
+^learnkit-339921152
+T | LLM 'Reversal Curse' Example |
+Q | What is the 'reversal curse' illustrated by the example involving Tom Cruise's mother? |
+A | An LLM knows the answer to 'Who is Tom Cruise's mother?' but fails to answer the reversed question 'Who is Mary Lee Pfeiffer's son?', showing imperfect knowledge representation. |
+I | This example demonstrates that LLMs may have knowledge but lack consistent relational understanding, leading to errors in reversed queries. |
+
+^learnkit-477801696
+T | LLM Decoding Strategy: Beam Search |
+Q | What is beam search in the context of Large Language Models? |
+A | A decoding strategy that explores multiple potential output sequences simultaneously, keeping track of the most promising sequences at each step to find the most likely output. |
+I | Beam search improves output quality by considering multiple candidate sequences rather than greedy selection of the single best token. |
+
+^learnkit-602070424
+T | LLM Training Stage 1: Pretraining |
+Q | What are the key steps involved in the pretraining stage of training a ChatGPT-like model? |
+A | Download ~10TB of text, use a cluster of ~6,000 GPUs, compress the text into a neural network over ~12 days, and obtain the base model. |
+I | Pretraining is the computationally intensive phase where the model learns general language patterns from massive text data. |
+
+^learnkit-812711929
+T | LLM Training Stage 2: Finetuning |
+Q | What happens during the finetuning stage of training a ChatGPT-like model? |
+A | Collect 100K high-quality Q&A or comparison data, finetune the base model on this data (~1 day), evaluate, deploy, and monitor for improvements. |
+I | Finetuning adapts the pretrained model to specific tasks or behaviors using labeled data to improve performance and safety. |
