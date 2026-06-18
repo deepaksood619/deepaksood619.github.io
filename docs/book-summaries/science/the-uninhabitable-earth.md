@@ -1,0 +1,65 @@
+# The Uninhabitable Earth
+
+By David Wallace-Wells - A Story of the Future
+
+- We are going to smash right through 2-degree celing (UN's IPCC 2018 report on Climate Change)
+- Worst case scenario by 2100, UN predicts 8 degrees increase
+    - Equatorial regions become completely uninhabitable
+    - Huge firestorms would devastate our forests
+    - Two-thirds of the world's cities would flood
+    - Tropical disease would trive in Arctic
+- Global warming has improbably compressed into two generations the entire story of human civilization
+- The destructive effects of climate change act as chain reactions, triggering further warming
+    - cascades - occurs when an effect of climate change warms the planet even more, causing more effects and more warming in a destructive feedback loop
+        - ex - Arctic ice sheets, act as reflector
+        - Arctic permafrost - frozen rock and soil contains up to 1.8 trillion tons of carbon
+        - Wildfires are another cascade
+- Severe weather conditions are becoming the new normal
+    - As air warms, it's able to hold more moisture. This increases the severity of storms by bringing heavier rainfalls and more severe flooding
+    - Hurricans are powered by warm seas. As our ocean surface temperature increase, so do hurricane wind speeds
+    - Number of storms has doubled since 1980
+    - 1 degree of warming increase the frequency of Category 4 and 5 hurricans by 25 to 30 percent globally
+- Rising sea levels will flood entire cities and countries
+    - Oceans will rise between 1.2 to 2.4 meters in next century
+    - Bangladesh - home to 164 million people - will be underwater
+    - Indonesian megacity of Jakarta will be entirely underwater by 2050
+    - Oceans 6 meters higher in the next few centuries
+    - Shanghai, Mumbai, Kolkata flooded or entirely underwater
+- Runaway warming will cause mass hunger and malnourishment
+    - UN estimates by 2050, the world will need twice as much food as today
+    - Huge challenge, since food production already accounts for a third of global emissions
+    - For every degree of warming, cereal crop yields decline by about 10 percent
+    - World's natural wheat belt moves 160 miles north every decade
+    - Since 1950, the nutrient content of agricultural plants has declined by up to 33 percent
+- The warmer it gets, the more disease there will be
+    - Diseases love hot and humid climates
+- Plummeting air quality is suffocating us
+    - In 2017, just breathing in New Delhi's air was equivalent of smoking two packs of cigarettes a day
+    - One in six deaths in the world are caused by air pollution - over 10,000 people die from air pollution everyday
+    - Pollution linked to mental illness in children, risk of developing dementia
+    - Carbon-dioxide level 930 parts per million causes congnitive ability decline by 21 percent. (we can hit this by 2100)
+- Freshwater is becoming an even-more scarce resource
+    - Natgeo calculated - Only 0.007 percent of Earth's water is needed to grow the crops and quench the thirst of seven billion people. 70-80 percent goes towards food production
+    - By 2030, global freshwater demand is expected to exceed supply by 40 percent.
+    - Many of the world's largest lakes started to dry up
+        - Lake Chad in Africa lost 95 percent of its volume since 1960s
+        - Aral Sea in Central Asia, 4th largest lake lost 90 percent volume
+    - Half of the world relies on spring melts from high-altitude snow for their freshwater. Global warming poses a huge threat to these snow deposits, threatening to turn snow-capped peaks into barren and dusty hills
+    - UN, five billion people could have inadequate access to freshwater by 2050
+- Human conflict increases on a hotter, dirtier globe
+    - Heat causes car drivers to honk their horns longer
+    - Baseball pitcher will hit an opposition batter with their throw
+    - Police officers likely to fire on suspects
+    - High air pollution correlates to increase car theft, assault, rape and murder
+    - Climate change would lead to additional 22000 murders and 3.5 million assaults in the US
+    - Increase the number of refugees and forced migrants, sparking social and political tensions, thereby increasing armed conflicts
+    - For every half degree of climate warming, the chance of an armed conflict erupting anywhere in the world increases by 10 to 20 percent
+    - By 2030, predicted temperatures on the continent would cause an extra 393000 deaths in battle
+- New technologies give us ways to softening these disasters, but they are currently impractical
+    - Negative emissions
+        - Bioenergy with Carbon Capture and Storage (BECCS)
+            - burning biomass to produce bioenergy
+            - Carbon Capture and Storage technologies (CCS)
+        - CCS by using machines to suck the carbon from the air
+- Actionable advice
+    - Put pressure on politicians to act
