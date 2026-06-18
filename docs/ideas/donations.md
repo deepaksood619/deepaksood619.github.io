@@ -57,15 +57,15 @@ The key problem is funding cannibalism. That $3 million in donations doesn’t a
 
 - [Effective altruism - Wikipedia](https://en.wikipedia.org/wiki/Effective_altruism)
 - [What is effective altruism? Philosopher Peter Singer explains. - YouTube](https://youtu.be/TdXKak-k6zw?si=0hkt0vT381d84_MK)
-- [How to live a good life](../book-summaries/how-to-live-a-good-life.md)
+- [How to live a good life](book-summaries/philosophy-relationships/how-to-live-a-good-life.md)
 - [Are future humans really our problem? - YouTube](https://www.youtube.com/watch?v=FQss1IH3MFA)
 - [How can wealthy Indians give back? - Dezerv](https://www.dezerv.in/blog/how-can-wealthy-indians-give-back/)
 - [They Had No Hope... Until Now \| Dhruv Rathee - YouTube](https://www.youtube.com/watch?v=xsjNGcevbT8)
 
 ## Links
 
-- [The life you can save](../book-summaries/the-life-you-can-save)
-- [Doing Good Better](../book-summaries/doing-good-better)
+- [The life you can save](book-summaries/science/the-life-you-can-save.md)
+- [Doing Good Better](book-summaries/science/doing-good-better.md)
 - [Nudging to donate organs: do what you like or like what we do? | Medicine, Health Care and Philosophy](https://link.springer.com/article/10.1007/s11019-021-10007-6)
 - [What’s the best way to lift people out of poverty? - YouTube](https://www.youtube.com/watch?v=_gTgloPR0Aw)
 - [The Problem with Billionaires — and the Debut of True Net Worth | Randal...](https://youtu.be/6McT9-EbEPw)

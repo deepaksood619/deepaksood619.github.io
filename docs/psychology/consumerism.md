@@ -90,4 +90,4 @@ In [economics](https://en.wikipedia.org/wiki/Economics "Economics") and [indu
 
 ## Links
 
-[The Almanack of Naval Ravikant](book-summaries/the-almanack-of-naval-ravikant.md)
+[The Almanack of Naval Ravikant](book-summaries/economics-finance/the-almanack-of-naval-ravikant.md)

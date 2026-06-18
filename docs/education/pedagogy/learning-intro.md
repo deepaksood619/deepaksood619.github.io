@@ -291,7 +291,7 @@ Due to the internet, our recall memory has become less necessary, because now we
 
 ![curve of forgetting](../../media/Pasted%20image%2020230716224959.jpg)
 
-[The Knowledge Illusion](../../book-summaries/the-knowledge-illusion)
+[The Knowledge Illusion](book-summaries/psychology/the-knowledge-illusion.md)
 
 [Japan's ancient secret to better cognitive memory - BBC REEL](https://youtu.be/s6OmqXCsYt8)
 
@@ -398,7 +398,7 @@ You understand an idea not when you've memorized it, but when you know why its s
 
 - [Marty Lobdell - Study Less Study Smart](https://youtu.be/IlU-zDU6aQ0)
 - [You're Not Slow: Become a Speed Learner in 20 Minutes](https://www.youtube.com/watch?v=_wzJnWCBWkI)
-- [Ultralearning](../../book-summaries/ultralearning)
+- [Ultralearning](book-summaries/productivity/ultralearning.md)
 - [When is Learning Worth the Effort? - Scott H Young](https://www.scotthyoung.com/blog/2023/05/30/learning-cost-benefit/)
 - [How to study for exams - Evidence-based revision tips - YouTube](https://www.youtube.com/watch?v=ukLnPbIffxE)
 - [Augmenting Long term Memory - Michael Nielsen (The Accelerated Learning Canon) - YouTube](https://www.youtube.com/watch?v=o0-iULLKlfA)

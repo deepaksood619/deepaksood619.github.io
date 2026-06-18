@@ -44,7 +44,7 @@ a Zettelkasten needs to adhere to the [Principle of Atomicity](https://zettelkas
 
 [https://zettelkasten.de/introduction](https://zettelkasten.de/introduction)
 
-[HOW TO TAKE SMART NOTES by Sönke Ahrens](../../book-summaries/how-to-take-smart-notes)
+[HOW TO TAKE SMART NOTES by Sönke Ahrens](book-summaries/productivity/how-to-take-smart-notes.md)
 
 ## Organizing Notes
 

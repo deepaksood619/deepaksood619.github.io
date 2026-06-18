@@ -265,7 +265,7 @@ Parental role abdication refers to **a dysfunction where parents relinquish thei
 
 - The Conscious Parent by Dr. Shefali Tsabary
 - Youtube - Seeker baby
-- [13 Things Mentally Strong Parents Don't Do](../book-summaries/13-things-mentally-strong-parents-dont-do)
+- [13 Things Mentally Strong Parents Don't Do](book-summaries/psychology/13-things-mentally-strong-parents-dont-do.md)
 
 #### 🎨 Free Drawing & Tracing Resources
 

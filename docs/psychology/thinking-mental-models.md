@@ -30,7 +30,7 @@ Combined two important systems thinking models - the Iceberg Model and Pace Laye
 
 ## Systems Thinking
 
-[Thinking in systems](../book-summaries/thinking-in-systems)
+[Thinking in systems](book-summaries/economics-finance/thinking-in-systems.md)
 
 "Systems thinking is a way of seeing the world as a series of **interconnected** and **interdependent** systems rather than lots of independent parts. As a thinking tool, it seeks to oppose the **reductionist view** - the idea that a system can be understood by the sum of its isolated parts - and replace it with **expansionism**, the view that everything is part of a larger whole and that the connections between all elements are critical."
 
@@ -200,7 +200,7 @@ Blue sky thinking is a brainstorming approach that encourages unlimited, creativ
 
 https://system.com
 
-[The Art of Logic](../book-summaries/the-art-of-logic)
+[The Art of Logic](book-summaries/psychology/the-art-of-logic.md)
 
 [How to articulate your thoughts effectively (like Steve Jobs) - YouTube](https://www.youtube.com/watch?v=PkPfdR80u_8)
 

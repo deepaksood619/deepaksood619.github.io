@@ -1,103 +1,153 @@
 # Book Summaries
 
-- [How to take smart notes](how-to-take-smart-notes)
-- [The grid](the-grid)
-- [Doing good better](doing-good-better)
-- [The life you can save](the-life-you-can-save)
-- [On writing well](on-writing-well)
-- [Secrets of power negotiating](secrets-of-power-negotiating)
-- [Talking across divide](talking-across-divide)
-- [How to have impossible conversations](how-to-have-impossible-conversations)
-- [Get it](get-it)
-- [Think again](think-again)
-- [The knowledge illusion](the-knowledge-illusion)
-- [The distraction addiction](the-distraction-addiction)
-- [Do hard things](do-hard-things)
-- [Collaborative intelligence](collaborative-intelligence)
-- [Deep Work](deep-work)
-- [Hyperfocus](hyperfocus)
-- [Switch on your brain](switch-on-your-brain)
-- [The Power of concentration](the-power-of-concentration)
-- [Think and grow rich](think-and-grow-rich)
-- [How to make money in stocks](how-to-make-money-in-stocks)
-- [Economics for the common good](economics-for-the-common-good)
-- [Dollars and sense](dollars-and-sense)
-- [Everyday Millionaires](everyday-millionaires)
-- [The elephant in the brain](the-elephant-in-the-brain)
-- [Who we are and how we got here](who-we-are-and-how-we-got-here)
-- [The tangled tree](the-tangled-tree)
-- [Power, sex, suicide](power-sex-suicide)
-- [The uninhabitable earth](the-uninhabitable-earth)
-- [Edge of Chaos](edge-of-chaos)
-- [Leadership and the rise of great powers](leadership-and-the-rise-of-great-powers)
-- [How to be a stoic](how-to-be-a-stoic)
-- [13 things mentally strong people don't do](13-things-mentally-strong-people-dont-do)
-- [The seven habits of highly effective people](the-seven-habits-of-highly-effective-people)
-- [Atomic habits](atomic-habits)
-- [The path between us](the-path-between-us)
-- [Organize tomorrow today](organize-tomorrow-today)
-- [The slight edge](the-slight-edge)
-- [The 4 hour workweek](the-4-hour-workweek)
-- [Principles](book-summaries/principles.md)
-- [Primed to perform](primed-to-perform)
-- [Getting things done](getting-things-done)
-- [**Game changers**](game-changers)
-- [The 5 AM club](the-5-am-club)
-- [The organized mind](the-organized-mind)
-- [Off the clock](off-the-clock)
-- [First things first](first-things-first)
-- [Thinking in systems](thinking-in-systems)
-- [The art of logic](the-art-of-logic)
-- [The power of regret](the-power-of-regret)
-- [Time and how to spend it](time-and-how-to-spend-it)
-- [Skin in the game](skin-in-the-game)
-- [The squiggly career](the-squiggly-career)
-- [What philosophy can teach you about being a better leader](what-philosophy-can-teach-you-about-being-a-better-leader)
-- [The 22 immutable laws of branding](the-22-immutable-laws-of-branding)
-- [The 3-minute rule](the-3-minute-rule)
-- [Leaders eat last](leaders-eat-last)
-- [The dip](the-dip)
-- [13 things mentally strong parents don't do](13-things-mentally-strong-parents-dont-do)
-- [The scince of selling](the-science-of-selling)
-- [Chasing excellence](chasing-excellence)
-- [The almanack of naval ravikant](the-almanack-of-naval-ravikant)
-- [48 laws of power](48-laws-of-power)
-- [David and goliath](david-and-goliath)
-- [Ultralearning](ultralearning)
-- [Predictably Irrational](predictably-irrational)
-- [How to be an adult in relationships](how-to-be-an-adult-in-relationships)
-- [From strength to strength](from-strength-to-strength)
-- [The art of impossible](the-art-of-impossible)
-- [Sell like crazy](book-summaries/sell-like-crazy.md)
-- [How to live a good life](book-summaries/how-to-live-a-good-life.md)
-- [The 4 Agreements](book-summaries/the-4-agreements.md)
-- [The Status Game](book-summaries/the-status-game.md)
-- [Thinking Fast and Slow](book-summaries/thinking-fast-and-slow.md)
-- [Didn't see it coming](book-summaries/didnt-see-it-coming.md)
-- [The Courage to be Happy](book-summaries/the-courage-to-be-happy.md)
-- [Life is in the Transitions](book-summaries/life-is-in-the-transitions.md)
-- [Power Relationships](book-summaries/power-relationships.md)
-- [How should we live?](book-summaries/how-should-we-live.md)
-- [Solve for Happy](book-summaries/solve-for-happy.md)
-- [Social Intelligence](book-summaries/social-intelligence.md)
-- [The Book of Joy](book-summaries/the-book-of-joy.md)
-- [Essentialism](book-summaries/essentialism.md)
-- [Find Your Element](book-summaries/find-your-element.md)
-- [Power and Prediction](book-summaries/power-and-prediction.md)
-- [7 Powers: The Foundations of Business Strategy](book-summaries/7-powers-the-foundations-of-business-strategy.md)
-- [Alchemy: The Surprising Power of Ideas That Don't Make Sense](book-summaries/alchemy-the-surprising-power-of-ideas-that-dont-make-sense.md)
-- [The Mom Test](book-summaries/the-mom-test.md)
-- [Others](book-summaries/others.md)
-- [Books / Blinkist - Productivity](book-summaries/books-blinkist-productivity.md)
-- [Books / Blinkist - Management](../management/books-blinkist-management)
-- [Product Book Summaries](management/product-management/product-book-summaries.md)
-- [Books To Read](books-to-read)
+A curated collection of book summaries organized by topic.
 
-## Economics
+## Categories
 
-- [Small is Beautiful](book-summaries/small-is-beautiful.md)
-- [Doughnut Economics](book-summaries/doughnut-economics.md)
-- [Good Economics for Hard Times](book-summaries/good-economics-for-hard-times.md)
+- [Business](#business) - Strategy, leadership, sales, and branding (21 books)
+- [Economics & Finance](#economics--finance) - Economics, investing, and financial wisdom (11 books)
+- [Personal Development](#personal-development) - Growth, habits, and life improvement (16 books)
+- [Productivity](#productivity) - Focus, time management, and learning (14 books)
+- [Psychology](#psychology) - How the mind works and mental strength (9 books)
+- [Philosophy & Relationships](#philosophy--relationships) - Living well and interpersonal skills (13 books)
+- [Science](#science) - Biology, evolution, climate, and social impact (7 books)
+
+---
+
+## Business
+
+Strategy, leadership, sales, negotiation, and business fundamentals.
+
+- [7 Powers: The Foundations of Business Strategy](business/7-powers-the-foundations-of-business-strategy.md)
+- [48 Laws of Power](business/48-laws-of-power.md)
+- [Alchemy: The Surprising Power of Ideas That Don't Make Sense](business/alchemy-the-surprising-power-of-ideas-that-dont-make-sense.md)
+- [Collaborative Intelligence](business/collaborative-intelligence.md)
+- [Edge of Chaos](business/edge-of-chaos.md)
+- [Get It](business/get-it.md)
+- [Leaders Eat Last](business/leaders-eat-last.md)
+- [Leadership and the Rise of Great Powers](business/leadership-and-the-rise-of-great-powers.md)
+- [Power and Prediction](business/power-and-prediction.md)
+- [Primed to Perform](business/primed-to-perform.md)
+- [Principles](business/principles.md)
+- [Secrets of Power Negotiating](business/secrets-of-power-negotiating.md)
+- [Sell Like Crazy](business/sell-like-crazy.md)
+- [Skin in the Game](business/skin-in-the-game.md)
+- [The 22 Immutable Laws of Branding](business/the-22-immutable-laws-of-branding.md)
+- [The 3-Minute Rule](business/the-3-minute-rule.md)
+- [The Dip](business/the-dip.md)
+- [The Grid](business/the-grid.md)
+- [The Mom Test](business/the-mom-test.md)
+- [The Science of Selling](business/the-science-of-selling.md)
+- [What Philosophy Can Teach You About Being a Better Leader](business/what-philosophy-can-teach-you-about-being-a-better-leader.md)
+
+## Economics & Finance
+
+Economic thinking, investing strategies, and wealth building.
+
+- [Dollars and Sense](economics-finance/dollars-and-sense.md)
+- [Doughnut Economics](economics-finance/doughnut-economics.md)
+- [Economics for the Common Good](economics-finance/economics-for-the-common-good.md)
+- [Everyday Millionaires](economics-finance/everyday-millionaires.md)
+- [Good Economics for Hard Times](economics-finance/good-economics-for-hard-times.md)
+- [How to Make Money in Stocks](economics-finance/how-to-make-money-in-stocks.md)
+- [Predictably Irrational](economics-finance/predictably-irrational.md)
+- [Small is Beautiful](economics-finance/small-is-beautiful.md)
+- [The Almanack of Naval Ravikant](economics-finance/the-almanack-of-naval-ravikant.md)
+- [Think and Grow Rich](economics-finance/think-and-grow-rich.md)
+- [Thinking in Systems](economics-finance/thinking-in-systems.md)
+
+## Personal Development
+
+Habits, growth mindset, career, and life transitions.
+
+- [Atomic Habits](personal-development/atomic-habits.md)
+- [Chasing Excellence](personal-development/chasing-excellence.md)
+- [David and Goliath](personal-development/david-and-goliath.md)
+- [Do Hard Things](personal-development/do-hard-things.md)
+- [Essentialism](personal-development/essentialism.md)
+- [Find Your Element](personal-development/find-your-element.md)
+- [From Strength to Strength](personal-development/from-strength-to-strength.md)
+- [Game Changers](personal-development/game-changers.md)
+- [Life is in the Transitions](personal-development/life-is-in-the-transitions.md)
+- [The 4 Hour Workweek](personal-development/the-4-hour-workweek.md)
+- [The 5 AM Club](personal-development/the-5-am-club.md)
+- [The Art of Impossible](personal-development/the-art-of-impossible.md)
+- [The Power of Regret](personal-development/the-power-of-regret.md)
+- [The Seven Habits of Highly Effective People](personal-development/the-seven-habits-of-highly-effective-people.md)
+- [The Slight Edge](personal-development/the-slight-edge.md)
+- [The Squiggly Career](personal-development/the-squiggly-career.md)
+
+## Productivity
+
+Focus, time management, note-taking, and learning systems.
+
+- [Books / Blinkist - Productivity](productivity/books-blinkist-productivity.md)
+- [Deep Work](productivity/deep-work.md)
+- [First Things First](productivity/first-things-first.md)
+- [Getting Things Done](productivity/getting-things-done.md)
+- [How to Take Smart Notes](productivity/how-to-take-smart-notes.md)
+- [Hyperfocus](productivity/hyperfocus.md)
+- [Off the Clock](productivity/off-the-clock.md)
+- [On Writing Well](productivity/on-writing-well.md)
+- [Organize Tomorrow Today](productivity/organize-tomorrow-today.md)
+- [The Distraction Addiction](productivity/the-distraction-addiction.md)
+- [The Organized Mind](productivity/the-organized-mind.md)
+- [The Power of Concentration](productivity/the-power-of-concentration.md)
+- [Time and How to Spend It](productivity/time-and-how-to-spend-it.md)
+- [Ultralearning](productivity/ultralearning.md)
+
+## Psychology
+
+How the mind works, cognitive biases, and mental strength.
+
+- [13 Things Mentally Strong Parents Don't Do](psychology/13-things-mentally-strong-parents-dont-do.md)
+- [13 Things Mentally Strong People Don't Do](psychology/13-things-mentally-strong-people-dont-do.md)
+- [Social Intelligence](psychology/social-intelligence.md)
+- [Switch on Your Brain](psychology/switch-on-your-brain.md)
+- [The Art of Logic](psychology/the-art-of-logic.md)
+- [The Elephant in the Brain](psychology/the-elephant-in-the-brain.md)
+- [The Knowledge Illusion](psychology/the-knowledge-illusion.md)
+- [The Status Game](psychology/the-status-game.md)
+- [Thinking Fast and Slow](psychology/thinking-fast-and-slow.md)
+
+## Philosophy & Relationships
+
+Living well, finding meaning, communication, and building relationships.
+
+- [How Should We Live?](philosophy-relationships/how-should-we-live.md)
+- [How to Be a Stoic](philosophy-relationships/how-to-be-a-stoic.md)
+- [How to Be an Adult in Relationships](philosophy-relationships/how-to-be-an-adult-in-relationships.md)
+- [How to Have Impossible Conversations](philosophy-relationships/how-to-have-impossible-conversations.md)
+- [How to Live a Good Life](philosophy-relationships/how-to-live-a-good-life.md)
+- [Power Relationships](philosophy-relationships/power-relationships.md)
+- [Solve for Happy](philosophy-relationships/solve-for-happy.md)
+- [Talking Across Divide](philosophy-relationships/talking-across-divide.md)
+- [The 4 Agreements](philosophy-relationships/the-4-agreements.md)
+- [The Book of Joy](philosophy-relationships/the-book-of-joy.md)
+- [The Courage to be Happy](philosophy-relationships/the-courage-to-be-happy.md)
+- [The Path Between Us](philosophy-relationships/the-path-between-us.md)
+- [Think Again](philosophy-relationships/think-again.md)
+
+## Science
+
+Biology, evolution, genetics, climate change, and social impact.
+
+- [Didn't See It Coming](science/didnt-see-it-coming.md)
+- [Doing Good Better](science/doing-good-better.md)
+- [Power, Sex, Suicide](science/power-sex-suicide.md)
+- [The Life You Can Save](science/the-life-you-can-save.md)
+- [The Tangled Tree](science/the-tangled-tree.md)
+- [The Uninhabitable Earth](science/the-uninhabitable-earth.md)
+- [Who We Are and How We Got Here](science/who-we-are-and-how-we-got-here.md)
+
+---
+
+## Additional Resources
+
+- [Others](others.md) - Video summaries and additional book recommendations
+- [Books to Read](books-to-read.md) - Reading list
+- [Books / Blinkist - Management](../management/books-blinkist-management.md)
+- [Product Book Summaries](../management/product-management/product-book-summaries.md)
 
 ## Books Read
 

@@ -4,7 +4,7 @@
 
 With the growing use of Al tools like GPT and Claude, many employees - especially in smaller companies - end up uploading sensitive company data into these platforms from their desktops. From a data architecture perspective, what are some simple best practices organisations should follow when integrating LLMs into their systems so that sensitive data remains protected?
 
-[llm-data-security-best-practices](ai/llm/llm-data-security-best-practices.md)
+[llm-data-security-best-practices](ai/llm/use-cases/llm-data-security-best-practices.md)
 
 ### 1. The "Internal Proxy" Pattern
 
@@ -92,7 +92,7 @@ Employees use public ChatGPT because company LLM too locked down. Balance securi
 
 [Building End to End Product Using AI \| Building Personal Portfolio Website \| Draft Content - Google Docs](https://docs.google.com/document/d/1E0-iPwL15Si683ekUpzRlhyw9kCTglBcT3DpU6a1aMs/edit?usp=sharing)
 
-- [lovable-prompt-portfolio-website](ai/llm/lovable-prompt-portfolio-website.md)
+- [lovable-prompt-portfolio-website](ai/llm/prompting/lovable-prompt-portfolio-website.md)
 
 ![session details](../media/WhatsApp%20Image%202025-11-22%20at%2016.01.36_7da8c367.png)
 

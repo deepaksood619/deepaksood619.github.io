@@ -68,6 +68,8 @@
 	- [Wealthfolio \| Open-Source, Offline & Private Portfolio Tracker](https://wealthfolio.app/)
 - [GitHub - ananthakumaran/paisa: Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi · GitHub](https://github.com/ananthakumaran/paisa) ⭐ 3.2k
 - [Finviz - Stock Screener](https://finviz.com/)
+- [fin.naviran.in](https://fin.naviran.in/)
+	- [NaviPlan: A Privacy-Focused Multi-asset Tracker and Goal Planner](https://freefincal.com/naviplan-a-privacy-focused-multi-asset-tracker-and-goal-planner/)
 
 ### AI Tools
 

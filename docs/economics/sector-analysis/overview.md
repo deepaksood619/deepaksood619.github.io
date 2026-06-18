@@ -104,6 +104,8 @@ These factors make the [PESTLE](https://pestleanalysis.com/what-is-pestle-analy
 
 ## Detailed Classification
 
+**GICS** is used significantly more than ICB on a global scale.
+
 - [Global Industry Classification Standard - Wikipedia](https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard)
 	- The GICS structure consists of 11 sectors, 25 industry groups, 74 industries and 163 sub-industries.
 - [Industry Classification Benchmark - Wikipedia](https://en.wikipedia.org/wiki/Industry_Classification_Benchmark)

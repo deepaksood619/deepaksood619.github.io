@@ -269,9 +269,9 @@ https://www.scotthyoung.com/blog/2020/10/26/foundation-practices
 
 ## Links
 
-- [13 Things Mentally Strong People Don't Do](../book-summaries/13-things-mentally-strong-people-dont-do)
-- [The Seven Habits of Highly Effective People](../book-summaries/the-seven-habits-of-highly-effective-people)
-- [Atomic Habits](../book-summaries/atomic-habits)
+- [13 Things Mentally Strong People Don't Do](book-summaries/psychology/13-things-mentally-strong-people-dont-do.md)
+- [The Seven Habits of Highly Effective People](book-summaries/personal-development/the-seven-habits-of-highly-effective-people.md)
+- [Atomic Habits](book-summaries/personal-development/atomic-habits.md)
 - [Procrastination](psychology/procrastination.md)
 - [Habits | Quotes](knowledge/quotes-proverbs/habits.md)
 - [When are Minimal Habits Useful for Learning? - Scott H Young](https://www.scotthyoung.com/blog/2023/06/20/minimal-habits-learning/)

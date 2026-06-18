@@ -689,11 +689,11 @@ The true mark of a pro - at anything - is that he understands, loves, and is goo
 
 [Six behaviors to increase your confidence | Emily Jaenson | TEDxReno](https://www.youtube.com/watch?v=IitIl2C3Iy8)
 
-[The Dip](../../book-summaries/the-dip)
+[The Dip](book-summaries/business/the-dip.md)
 
-[Chasing Excellence](../../book-summaries/chasing-excellence)
+[Chasing Excellence](book-summaries/personal-development/chasing-excellence.md)
 
-[The Art of Impossible](../../book-summaries/the-art-of-impossible)
+[The Art of Impossible](book-summaries/personal-development/the-art-of-impossible.md)
 
 [How One Small Idea Led to $1 Million of Paid Water Bills | Tiffani Ashley Bell | TED - YouTube](https://www.youtube.com/watch?v=bIBNebXhNuU) - You have to be that somebody who does something and just not curse and move on
 

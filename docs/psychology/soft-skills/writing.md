@@ -71,6 +71,6 @@ From “Politics and the English Language”
 
 ## Links
 
-- [On Writing Well](../../book-summaries/on-writing-well)
+- [On Writing Well](book-summaries/productivity/on-writing-well.md)
 - [How to Write Less but Say More | Jim VandeHei | TED](https://www.youtube.com/watch?v=v6BmurUpiN0)
 - [How to Become a Youtuber? My Learnings as an Influencer and Finance Content Creator - YouTube](https://www.youtube.com/watch?v=CIbf84YHtSM)

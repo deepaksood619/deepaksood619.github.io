@@ -182,8 +182,8 @@ For a hackathon in view of Generative computer based intelligence, here are some
 
 ## Questions / Problem Statements / Hackathons
 
-- [RAG Hackathon Questions](ai/llm/rag-hackathon-questions.md)
-- [GenAI Projects](ai/llm/genai-projects.md)
+- [RAG Hackathon Questions](ai/llm/rag/rag-hackathon-questions.md)
+- [GenAI Projects](ai/llm/use-cases/genai-projects.md)
 - [Practical AI Problems](ai/ml-fundamentals/practical-ai-problems.md)
 - [hackathon-hackhound](ai/hackathon-hackhound.md)
 - [hackathon-rabbittai](ai/hackathon-rabbittai.md)

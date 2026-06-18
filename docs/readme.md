@@ -103,7 +103,7 @@ There's 2000+ pages in here and lots of them I think are interesting. But these 
 - [Quotes](knowledge/quotes-proverbs/readme.md) small phrases that makes my day and help me to remember and revise simple rules in a fun way
 - [Mental Models](knowledge/general/mental-models) that I have compiled over the years and helps me learn concepts quickly of any domain and connect concepts across domains
 - [Learning how to learn](education/pedagogy/learning-intro.md) course that changed my learning approach and in turn my whole life, and the reason why I write and maintain these notes.
-- [Book - Principles by Ray Dalio](book-summaries/principles)
+- [Book - Principles by Ray Dalio](book-summaries/business/principles.md)
 - [Fallacies of Distributed Computing](computer-science/distributed-system/fallacies-and-problems) and [Biases / Fallacies](psychology/biases-fallacies) of Human Computing, which everyone should know and try to overcome in their lifetimes
 - [Types of Databases](databases/concepts/types-of-databases) to organize your data in the right database, since data has gravity, it becomes harder with quantity of data to migrate data over time to other databases
 - List of [YouTube / Podcasts](knowledge/youtube-podcasts-magazine-apps.md) that I follow and [YouTube Videos](knowledge/links.md) that I have watched. Also [Computer Science YouTube Videos](computer-science/links.md) that I have watched since keeping yourself updated with the field is a must.

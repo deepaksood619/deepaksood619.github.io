@@ -2,7 +2,7 @@
 
 ## Earth / Environment / Global warming
 
-- [the-uninhabitable-earth](book-summaries/the-uninhabitable-earth.md)
+- [the-uninhabitable-earth](book-summaries/science/the-uninhabitable-earth.md)
 - Earth overshoot day - 27 July
 - [10 years to transform the future of humanity -- or destabilize the planet | Johan Rockström - YouTube](https://www.youtube.com/watch?v=8Sl28fkrozE&ab_channel=TED)
 - [International Relations this Week by Prof Pushpesh Pant 36 | For UPSC/IAS - YouTube](https://www.youtube.com/watch?v=qEC4vfo9cn4)
@@ -110,7 +110,7 @@ Therefore, use water wisely, responsibly, and with restraint. Otherwise, long be
 
 ## Links
 
-- [The Uninhabitable Earth](book-summaries/the-uninhabitable-earth.md)
+- [The Uninhabitable Earth](book-summaries/science/the-uninhabitable-earth.md)
 - [indias-ethanol-policy-corruption-and-collusion](knowledge/other-topics/indias-ethanol-policy-corruption-and-collusion.md)
 - [The Fourth Big Force: Climate Change](https://www.linkedin.com/pulse/fourth-big-force-climate-change-ray-dalio-vmt5e/)
 - [What's happening to our water?](https://finshots.in/archive/whats-happening-to-our-water-atmospheric-water-generators-awg/)

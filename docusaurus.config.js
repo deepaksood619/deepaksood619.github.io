@@ -75,7 +75,7 @@ const config = {
           numberPrefixParser: false,
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
-          exclude: ['**/office/**'],
+          exclude: ['**/office/**', '**/*flashcards.md'],
           editUrl:
             'https://github.com/deepaksood619/deepaksood619.github.io/tree/master/',
         },

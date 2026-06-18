@@ -53,7 +53,7 @@ Share knowledge, expertise, and experiences using TensorFlow or any open-source 
 
 ## Links
 
-- [RAG (Retrieval Augmented Generation)](ai/llm/rag-retrieval-augmented-generation.md)
+- [RAG (Retrieval Augmented Generation)](ai/llm/rag/rag-retrieval-augmented-generation.md)
 - [Grounding for Gemini with Vertex AI Search and DIY RAG - YouTube](https://www.youtube.com/watch?v=v4s5eU2tfd4)
 - [How to build Multimodal Retrieval-Augmented Generation (RAG) with Gemini - YouTube](https://www.youtube.com/watch?v=LF7I6raAIL4)
 - [Natural Language to SQL using Google's Gemini Pro Model | SQL Database | Python - YouTube](https://www.youtube.com/watch?v=NUbYDCqojew)

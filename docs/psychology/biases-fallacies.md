@@ -42,7 +42,7 @@ Thinking we know more than we do
 
 ![image](../media/Biases-Fallacies-image1.jpg)
 
-[The Knowledge Illusion](../../book-summaries/the-knowledge-illusion)
+[The Knowledge Illusion](book-summaries/psychology/the-knowledge-illusion.md)
 
 ## Cognitive Dissonance
 

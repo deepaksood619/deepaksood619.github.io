@@ -262,6 +262,6 @@ https://deepstash.com/article/2260/seven-ways-to-feel-more-in-control-of-your-li
 
 - Rejection is just and opinion
 
-[The power of regret](../book-summaries/the-power-of-regret)
+[The power of regret](book-summaries/personal-development/the-power-of-regret.md)
 
 [How to manage your emotions](https://www.youtube.com/watch?v=Uew5BbvmLks)

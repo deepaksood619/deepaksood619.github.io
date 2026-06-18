@@ -95,6 +95,6 @@ https://deepstash.com/article/2273/how-to-increase-your-emotional-intelligence--
 
 [Workshop on 'Emotional Intelligence' with Rajeshwar Upadhyaya](https://youtu.be/t7ncfBoifHs)
 
-[Collaborative Intelligence](../book-summaries/collaborative-intelligence)
+[Collaborative Intelligence](book-summaries/business/collaborative-intelligence.md)
 
 ![4 domains & 12 competencies of EI](../media/Screenshot%202024-12-15%20at%209.21.20%20PM.jpg)

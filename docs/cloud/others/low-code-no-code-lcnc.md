@@ -85,5 +85,5 @@
 
 ## Links
 
-- [code-generators-coding-generators](ai/llm/code-generators-coding-generators.md)
+- [code-generators-coding-generators](ai/llm/code-generation/code-generators-coding-generators.md)
 - [The 8 best no-code app builders | Zapier](https://zapier.com/blog/best-no-code-app-builder/)

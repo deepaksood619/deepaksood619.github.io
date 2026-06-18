@@ -258,9 +258,9 @@ Around 18th Century BC lived a King named Hammurabi who instituted a social law 
 
 ## Links
 
-- [Time and how to spend it](../book-summaries/time-and-how-to-spend-it)
-- [Skin in the game](../book-summaries/skin-in-the-game)
-- [The squiggly career](../book-summaries/the-squiggly-career)
-- [What Philosophy Can Teach You About Being a Better Leader](../book-summaries/what-philosophy-can-teach-you-about-being-a-better-leader)
-- [The 22 Immutable Laws of Branding](../book-summaries/the-22-immutable-laws-of-branding)
-- [The 3-Minute Rule](../book-summaries/the-3-minute-rule)
+- [Time and how to spend it](book-summaries/productivity/time-and-how-to-spend-it.md)
+- [Skin in the game](book-summaries/business/skin-in-the-game.md)
+- [The squiggly career](book-summaries/personal-development/the-squiggly-career.md)
+- [What Philosophy Can Teach You About Being a Better Leader](book-summaries/business/what-philosophy-can-teach-you-about-being-a-better-leader.md)
+- [The 22 Immutable Laws of Branding](book-summaries/business/the-22-immutable-laws-of-branding.md)
+- [The 3-Minute Rule](book-summaries/business/the-3-minute-rule.md)

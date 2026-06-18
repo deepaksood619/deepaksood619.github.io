@@ -402,8 +402,8 @@ The trap occurs when a household builds its entire lifestyle—including high fi
 
 - [Marginal Utility / Analysis](economics/investment-frameworks/mental-models/marginal-utility-analysis.md)
 - [Recession Shapes / Recovery](economics/investment-frameworks/mental-models/recession-shapes-recovery.md)
-- [The elephant in the brain](book-summaries/the-elephant-in-the-brain.md)
-- [Economics for the common good](book-summaries/economics-for-the-common-good.md)
-- [Dollars and sense](book-summaries/dollars-and-sense.md)
-- [Everyday Millionaires](book-summaries/everyday-millionaires.md)
+- [The elephant in the brain](book-summaries/psychology/the-elephant-in-the-brain.md)
+- [Economics for the common good](book-summaries/economics-finance/economics-for-the-common-good.md)
+- [Dollars and sense](book-summaries/economics-finance/dollars-and-sense.md)
+- [Everyday Millionaires](book-summaries/economics-finance/everyday-millionaires.md)
 - [Consumerism](psychology/consumerism.md)

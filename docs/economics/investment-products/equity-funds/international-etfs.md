@@ -27,6 +27,7 @@
 	- Designed with a lower expense ratio than QQQ, QQQM provides the same exposure to the Nasdaq-100 but with slightly lower costs.
 	- QQQM is part of Invesco’s suite of “Q” products, offering a cost-effective way to gain access to high-growth, large-cap Nasdaq companies.
 	- [QQQ vs QQQM: Choosing the Best Nasdaq-100 ETF \| etf.com](https://www.etf.com/sections/etf-basics/qqq-vs-qqqm-choosing-best-nasdaq-100-etf)
+	- https://www.schwab.wallst.com/schwab/Prospect/research/etfs/schwabETF/index.asp?type=holdings&symbol=QQQM
 - VGT - Vanguard Information Technology ETF (AGT ARCA)
 	- Assets - $85.55B
 	- **Expense Ratio - 0.10%**
@@ -35,6 +36,7 @@
 	- Tracks - NASDAQ-Composite
 	- [VGT ETF Stock Price, Quote & Overview - Stock Analysis](https://stockanalysis.com/etf/vgt/)
 	- [QQQ vs. VGT — ETF Comparison - Stock Analysis](https://stockanalysis.com/etf/compare/qqq-vs-vgt/)
+	- https://www.schwab.wallst.com/schwab/Prospect/research/etfs/schwabETF/index.asp?type=holdings&symbol=VGT
 - Vanguard Growth ETF (VUG)
 	- Assets - $159.91B
 	- Expense Ratio - 0.04%

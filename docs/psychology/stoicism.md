@@ -1,6 +1,6 @@
 # Stoicism
 
-[How to be a stoic](../book-summaries/how-to-be-a-stoic)
+[How to be a stoic](book-summaries/philosophy-relationships/how-to-be-a-stoic.md)
 
 Itaka - Enjoy the road and journey, never say once I get their I will be happy since it's a never ending process
 

@@ -193,8 +193,8 @@ MLM, or Multi-Level Marketing, is a sales strategy where independent distributor
 
 ## Links
 
-- [The scince of selling](book-summaries/the-science-of-selling.md)
-- [Sell Like Crazy](book-summaries/sell-like-crazy.md)
+- [The scince of selling](book-summaries/business/the-science-of-selling.md)
+- [Sell Like Crazy](book-summaries/business/sell-like-crazy.md)
 - [The Marketing Secrets Apple & Tesla Always Use: Rory Sutherland | E165 - YouTube](https://www.youtube.com/watch?v=Hz3RWxJck68)
 - [How Brands Use Design & Marketing to Control Your Mind - YouTube](https://www.youtube.com/watch?v=p6aF5ma7BiM)
 - [The Digital Marketing Industry’s Biggest Myths Exposed - YouTube](https://www.youtube.com/watch?v=hIE9ckHT2NE)

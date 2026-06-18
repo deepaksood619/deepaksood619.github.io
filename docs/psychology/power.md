@@ -4,9 +4,9 @@ Power tends to corrupt, absolute power corrupts absolutely
 
 It is not power that corrupts but fear. Fear of losing power corrupts those who wield it and fear of the scourge of power corrupts those who are subject to it.
 
-[48 Laws of Power](../book-summaries/48-laws-of-power)
+[48 Laws of Power](book-summaries/business/48-laws-of-power.md)
 
-[David and Goliath](../book-summaries/david-and-goliath)
+[David and Goliath](book-summaries/personal-development/david-and-goliath.md)
 
 ## Persuasion and Authority
 

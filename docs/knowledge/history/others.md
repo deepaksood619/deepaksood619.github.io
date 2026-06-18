@@ -21,7 +21,7 @@ Life 3.2 billion years ago, but animals 1.1 billion years ago
 
 ## Links
 
-- [Who we are and how we got here](../../book-summaries/who-we-are-and-how-we-got-here)
-- [The tangled tree](../../book-summaries/the-tangled-tree)
-- [Power, Sex, Suicide](../../book-summaries/power-sex-suicide)
+- [Who we are and how we got here](book-summaries/science/who-we-are-and-how-we-got-here.md)
+- [The tangled tree](book-summaries/science/the-tangled-tree.md)
+- [Power, Sex, Suicide](book-summaries/science/power-sex-suicide.md)
 - [Industrial and chemical disasters - ClearIAS](https://www.clearias.com/industrial-and-chemical-disasters/)

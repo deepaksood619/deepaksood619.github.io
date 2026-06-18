@@ -1,55 +1,75 @@
 # LLM
 
-- [Intro](ai/llm/intro.md)
-- [Models](ai/llm/models.md)
-	- [Gemini Code Assist (gca) / Gemini CLI](ai/llm/gemini-code-assist-gca-gemini-cli.md)
-- [voice-models](ai/llm/voice-models.md)
-- [Limitations / Problems](ai/llm/limitations-problems.md)
-- [LLM Building](ai/llm/building.md)
-	- [Langchain](ai/llm/langchain.md)
-	- [langgraph-to-data-warehouse](ai/llm/langgraph-to-data-warehouse.md)
-- [LLM Agents](ai/llm/agents.md)
-	- [agents-framework-tools](ai/llm/agents-framework-tools.md)
-	- [Agentic Frameworks Deep Dive Analysis](ai/llm/agentic-frameworks-deep-dive-analysis.md)
-	- [langgraph-vs-semantic-kernel](ai/llm/langgraph-vs-semantic-kernel.md)
-	- [frontend-ui-frameworks-libraries](ai/llm/frontend-ui-frameworks-libraries.md)
-- [LLM Tuning](ai/llm/tuning.md)
-- [Benchmarking / Monitoring](ai/llm/benchmarking-monitoring.md)
-	- [Evaluation](ai/llm/evaluation.md)
-- [Pricing / Costs](ai/llm/pricing-costs.md)
-- [Design Patterns](ai/llm/design-patterns.md)
-	- [harness](ai/llm/harness.md)
-- [RAG Retrieval Augmented Generation](ai/llm/rag-retrieval-augmented-generation.md)
-- [Model Context Protocol (MCP)](ai/llm/mcp-model-context-protocol.md)
-- [Natural Language to SQL](ai/llm/natural-language-to-sql-generative-bi-genbi.md)
-- [Prompt Engineering](ai/llm/prompt-engineering.md)
-	- [coding-software-engineering-prompts](ai/llm/coding-software-engineering-prompts.md)
-	- [personal-tutor-prompt](education/product-concepts/personal-tutor-prompt.md)
-	- [quiz-app-prompt](education/product-concepts/quiz-app-prompt.md)
-	- [lovable-prompt-portfolio-website](ai/llm/lovable-prompt-portfolio-website.md)
-- [Prompt Examples](ai/llm/prompt-examples.md)
-- [context-engineering](ai/llm/context-engineering.md)
-- [low-code-no-code-lcnc](cloud/others/low-code-no-code-lcnc.md)
-- [Libraries](ai/llm/libraries.md)
-- [Tools](ai/llm/tools.md)
-- [Code Generators](ai/llm/code-generators-coding-generators.md)
-	- [claude-code](ai/llm/claude-code.md)
-- [LLM FinTech Use Cases](ai/llm/fintech-use-cases.md)
-- [llm-data-security-best-practices](ai/llm/llm-data-security-best-practices.md)
-- [Ethics](ai/llm/ethics.md)
+## Fundamentals
 
-## Questions / Problem Statements / Hackathons
+- [Intro](fundamentals/intro.md)
+- [Models](fundamentals/models.md)
+- [Voice Models](fundamentals/voice-models.md)
+- [Limitations & Problems](fundamentals/limitations-problems.md)
+- [Ethics](fundamentals/ethics.md)
+- [Pricing & Costs](fundamentals/pricing-costs.md)
 
-- [RAG Hackathon Questions](ai/llm/rag-hackathon-questions.md)
-- [GenAI Projects](ai/llm/genai-projects.md)
-- [AI Hackathons](ai/hackathons.md)
-- [Practical AI Problems](ai/ml-fundamentals/practical-ai-problems.md)
-- [Interview Questions](ai/llm/interview-questions.md)
-- [Top 50 Interview Questions](ai/llm/interview-questions-top-50.md)
-- [rag-interview-questions](ai/llm/rag-interview-questions.md)
-- [interview-questions-genai-engineer](ai/llm/interview-questions-genai-engineer.md)
-- [vector-db-interview-questions](databases-nosql/vector-databases/interview-questions.md)
-- [interview-questions-hr](ai/llm/interview-questions-hr.md)
+## Building LLM Apps
+
+- [Building](building-llm-apps/building.md)
+- [Libraries](building-llm-apps/libraries.md)
+- [Tools](building-llm-apps/tools.md)
+- [Langchain](building-llm-apps/langchain.md)
+- [LangGraph to Data Warehouse](building-llm-apps/langgraph-to-data-warehouse.md)
+- [Design Patterns](building-llm-apps/design-patterns.md)
+
+## Agents
+
+- [Agents Overview](agents/agents.md)
+- [Frameworks & Tools](agents/agents-framework-tools.md)
+- [Agentic Frameworks Deep Dive](agents/agentic-frameworks-deep-dive-analysis.md)
+- [LangGraph vs Semantic Kernel](agents/langgraph-vs-semantic-kernel.md)
+- [Frontend UI Frameworks](agents/frontend-ui-frameworks-libraries.md)
+
+## RAG
+
+- [RAG Overview](rag/rag-retrieval-augmented-generation.md)
+- [RAG Hackathon Questions](rag/rag-hackathon-questions.md)
+- [RAG Interview Questions](rag/rag-interview-questions.md)
+
+## Prompting
+
+- [Prompt Engineering](prompting/prompt-engineering.md)
+- [Prompt Examples](prompting/prompt-examples.md)
+- [Coding Prompts](prompting/coding-software-engineering-prompts.md)
+- [Context Engineering](prompting/context-engineering.md)
+
+## MCP
+
+- [Model Context Protocol](mcp/mcp-model-context-protocol.md)
+- [MCP vs REST API](mcp/mcp-vs-restapi.md)
+
+## Code Generation
+
+- [Code Generators](code-generation/code-generators-coding-generators.md)
+- [Claude Code](code-generation/claude-code.md)
+- [Gemini Code Assist](code-generation/gemini-code-assist-gca-gemini-cli.md)
+- [Harness](code-generation/harness.md)
+
+## Evaluation & Monitoring
+
+- [Benchmarking & Monitoring](evaluation-monitoring/benchmarking-monitoring.md)
+- [Evaluation](evaluation-monitoring/evaluation.md)
+- [Tuning](evaluation-monitoring/tuning.md)
+
+## Use Cases
+
+- [FinTech Use Cases](use-cases/fintech-use-cases.md)
+- [Natural Language to SQL](use-cases/natural-language-to-sql-generative-bi-genbi.md)
+- [GenAI Projects](use-cases/genai-projects.md)
+- [Data Security Best Practices](use-cases/llm-data-security-best-practices.md)
+
+## Interview Prep
+
+- [Interview Questions](interview-prep/interview-questions.md)
+- [Top 50 Questions](interview-prep/interview-questions-top-50.md)
+- [GenAI Engineer Questions](interview-prep/interview-questions-genai-engineer.md)
+- [HR Questions](interview-prep/interview-questions-hr.md)
 
 ## GenAI Landscape
 

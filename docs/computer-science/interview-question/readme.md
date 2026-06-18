@@ -18,9 +18,9 @@
 - AIML/Data
 	- [ML Fundamentals - questions](ai/ml-fundamentals/questions.md)
 	- [Data science - questions](ai/data-science/questions.md)
-	- [LLM - interview-questions](ai/llm/interview-questions.md)
-	- [LLM Top 50 - interview-questions-top-50](ai/llm/interview-questions-top-50.md)
-	- [interview-questions-hr](ai/llm/interview-questions-hr.md)
+	- [LLM - interview-questions](ai/llm/interview-prep/interview-questions.md)
+	- [LLM Top 50 - interview-questions-top-50](ai/llm/interview-prep/interview-questions-top-50.md)
+	- [interview-questions-hr](ai/llm/interview-prep/interview-questions-hr.md)
 	- [Tableau - interview-questions](ai/data-visualization/tableau/interview-questions.md)
 - System Design
 	- [System Design - Uber Lyft ride sharing services](system-design-uber-lyft-ride-sharing-services)

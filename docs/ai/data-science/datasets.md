@@ -20,6 +20,8 @@ The ARC Corpus contains 14M unordered, science-related sentences including knowl
 
 [WikiText-103 Dataset | Papers With Code](https://paperswithcode.com/dataset/wikitext-103)
 
+[MMLU Dataset | Papers With Code](https://paperswithcode.com/dataset/mmlu) - Massive Multitask Language Understanding
+
 ### BBH - [OpenCompass](https://opencompass.org.cn/dataset-detail/BBH)
 
 A suite of 23 challenging BIG-Bench tasks which we call BIG-Bench Hard (BBH). These are the task for which prior language model evaluations did not outperform the average human-rater.

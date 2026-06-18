@@ -51,7 +51,7 @@ How can we use smart hardware-driven solution to solve this issue?
 ## Others
 
 - [Hackathons](ai/hackathons.md)
-- [RAG Hackathon Questions](ai/llm/rag-hackathon-questions.md)
-- [GenAI Projects](ai/llm/genai-projects.md)
+- [RAG Hackathon Questions](ai/llm/rag/rag-hackathon-questions.md)
+- [GenAI Projects](ai/llm/use-cases/genai-projects.md)
 - [Practical AI Problems](ai/ml-fundamentals/practical-ai-problems.md)
 - [hackathon-rabbittai](ai/hackathon-rabbittai.md)

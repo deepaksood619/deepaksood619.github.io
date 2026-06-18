@@ -77,4 +77,4 @@ A nudge is a mechanism that influences the behavior of a group of individuals th
 ## Links
 
 - [Law of Triviality](soft-skills/prioritization-leverage#law-of-triviality)
-- [Predictably Irrational](../book-summaries/predictably-irrational)
+- [Predictably Irrational](book-summaries/economics-finance/predictably-irrational.md)

@@ -59,4 +59,4 @@ The law has been applied to software development and other activities. The terms
 
 ## Links
 
-[Secrets of Power Negotiating](../../book-summaries/secrets-of-power-negotiating)
+[Secrets of Power Negotiating](book-summaries/business/secrets-of-power-negotiating.md)

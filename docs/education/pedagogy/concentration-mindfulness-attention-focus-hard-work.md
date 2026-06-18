@@ -202,14 +202,14 @@ For this test to work, though, you have to be honest with yourself. Indeed, that
 
 ## Links
 
-- [The Distraction Addiction](../../book-summaries/the-distraction-addiction)
-- [Do Hard Things](../../book-summaries/do-hard-things)
-- [Deep Work](../../book-summaries/deep-work)
-- [Collaborative Intelligence](../../book-summaries/collaborative-intelligence)
-- [Hyperfocus](../../book-summaries/hyperfocus)
-- [Switch on your Brain](../../book-summaries/switch-on-your-brain)
-- [The Power of Concentration](../../book-summaries/the-power-of-concentration)
-- [Think and Grow Rich](../../book-summaries/think-and-grow-rich)
+- [The Distraction Addiction](book-summaries/productivity/the-distraction-addiction.md)
+- [Do Hard Things](book-summaries/personal-development/do-hard-things.md)
+- [Deep Work](book-summaries/productivity/deep-work.md)
+- [Collaborative Intelligence](book-summaries/business/collaborative-intelligence.md)
+- [Hyperfocus](book-summaries/productivity/hyperfocus.md)
+- [Switch on your Brain](book-summaries/psychology/switch-on-your-brain.md)
+- [The Power of Concentration](book-summaries/productivity/the-power-of-concentration.md)
+- [Think and Grow Rich](book-summaries/economics-finance/think-and-grow-rich.md)
 
 [STOLEN FOCUS by Johann Hari | Core Message - YouTube](https://www.youtube.com/watch?v=DqlywBxYELw&ab_channel=ProductivityGame)
 
