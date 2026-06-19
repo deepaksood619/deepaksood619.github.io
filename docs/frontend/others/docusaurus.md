@@ -6,6 +6,7 @@ npx create-docusaurus@latest my-website classic
 cd my-website
 
 # Make sure to stop drive if sync is on, otherwise it will sync node_modules too
+npm i
 npm start
 
 # npx docusaurus start

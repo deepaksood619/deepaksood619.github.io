@@ -5,6 +5,7 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import {themes as prismThemes} from 'prism-react-renderer';
+import obsidianImagePaths from './src/remark/obsidian-image-paths.js';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -24,7 +25,6 @@ const config = {
   projectName: 'deepaksood619.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'throw',
 
   // trailingSlash: undefined, # false, true, both doesn't work
   // false gives all page errors
@@ -40,6 +40,9 @@ const config = {
 
   markdown: {
     mermaid: true,
+    hooks: {
+      onBrokenMarkdownLinks: 'throw',
+    },
   },
   themes: ['@docusaurus/theme-mermaid'],
 
@@ -78,6 +81,7 @@ const config = {
           exclude: ['**/office/**', '**/*flashcards.md'],
           editUrl:
             'https://github.com/deepaksood619/deepaksood619.github.io/tree/master/',
+          beforeDefaultRemarkPlugins: [obsidianImagePaths],
         },
         blog: false,
         theme: {
