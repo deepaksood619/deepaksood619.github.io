@@ -18,5 +18,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "showLineNumber": false
+  "showLineNumber": false,
+  "strictLineBreaks": true
 }

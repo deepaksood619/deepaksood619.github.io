@@ -302,3 +302,6 @@ CEL is used most efficiently in applications where expressions are evaluated fre
     - [Introduction - The Move Book](https://move-language.github.io/move/)
 - [GitHub - HigherOrderCO/Bend: A massively parallel, high-level programming language](https://github.com/HigherOrderCO/Bend) ⭐ 19k
     - [Mind-bending new programming language for GPUs just dropped... - YouTube](https://www.youtube.com/watch?v=HCOQmKTFzYY)
+- [How the Open Knowledge Format can improve data sharing \| Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing)
+	- [knowledge-catalog/okf at main · GoogleCloudPlatform/knowledge-catalog · GitHub](https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf)
+	- [Introducing the Google Cloud Knowledge Catalog \| Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics/introducing-the-google-cloud-knowledge-catalog)

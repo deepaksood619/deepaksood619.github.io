@@ -46,7 +46,7 @@ The foundational algorithm used by Anki and many other SRS platforms:
 
 **Formula:**
 
-```
+```text
 New Interval = Previous Interval × Easiness Factor
 ```
 
@@ -227,7 +227,7 @@ Most SRS platforms use a quality scale to adjust scheduling:
 
 **Cloze Deletions:** Fill-in-the-blank format
 
-```
+```text
 The {{c1::mitochondria}} is the {{c2::powerhouse}} of the cell.
 ```
 

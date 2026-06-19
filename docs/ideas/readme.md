@@ -17,4 +17,5 @@
 	- [postman-alternative-api-testing](ideas/postman-alternative-api-testing.md)
 	- [software-startup-analysis](ideas/software-startup-analysis.md)
 	- [Education](education/readme.md)
+	- [conversational-reminder-assistant](ideas/conversational-reminder-assistant.md)
 - [CLAUDE](ideas/CLAUDE.md)

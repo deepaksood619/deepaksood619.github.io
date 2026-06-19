@@ -185,6 +185,8 @@ Diet chart + what should I eat today along with recipe
 
 **Programmable currency, you can program the currency in a way that it can only be used for a certain thing like buying fertilizer by a farmer**
 
+**Free privacy focused financial tracker, download or web** - https://fin.naviran.in/
+
 ### Smart Credit
 
 - Health Insurance money is paid by insurer directly to hospital (smart/programmable currency)

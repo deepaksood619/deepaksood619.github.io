@@ -317,8 +317,6 @@ openclaw onboard --install-daemon
 
 # Quick start (TL;DR)
 openclaw onboard --install-daemon
-openclaw gateway status
-nohup openclaw gateway run > /tmp/openclaw.log 2>&1 &
 
 
 openclaw update
@@ -333,6 +331,8 @@ grep "token" ~/.openclaw/openclaw.json
 openclaw doctor --generate-gateway-token
 openclaw doctor --fix
 
+openclaw gateway status
+nohup openclaw gateway run > /tmp/openclaw.log 2>&1 &
 openclaw gateway stop
 openclaw gateway run
 openclaw reset
@@ -353,12 +353,38 @@ openclaw hooks disable <name>
 export NODE_COMPILE_CACHE=/var/tmp/openclaw-compile-cache
 mkdir -p /var/tmp/openclaw-compile-cache
 export OPENCLAW_NO_RESPAWN=1
+
+openclaw uninstall
 ```
 
 - [OpenClaw Meets AWS: End-to-End Testing and Deployment - DEV Community](https://dev.to/aws-builders/openclaw-meets-aws-end-to-end-testing-and-deployment-1ig1)
 - [Mastering OpenClaw on AWS: Fine-Tuning Personality, Memory, and Soul - DEV Community](https://dev.to/aws-builders/mastering-openclaw-on-aws-fine-tuning-personality-memory-and-soul-37ig)
 
 ## Hermes
+
+```bash
+curl -fsSL https://hermes-agent.nousresearch.com/install.sh | bash
+
+source ~/.bashrc    # reload shell (or: source ~/.zshrc)
+hermes              # start chatting!
+
+hermes              # Interactive CLI — start a conversation
+hermes model        # Choose your LLM provider and model
+hermes tools        # Configure which tools are enabled
+hermes config set   # Set individual config values
+hermes gateway      # Start the messaging gateway (Telegram, Discord, etc.)
+hermes setup        # Run the full setup wizard (configures everything at once)
+hermes claw migrate # Migrate from OpenClaw (if coming from OpenClaw)
+hermes update       # Update to the latest version
+hermes doctor       # Diagnose any issues
+
+hermes gateway install
+hermes gateway start
+hermes logs gateway --follow
+
+hermes dashboard
+# http://127.0.0.1:9119
+```
 
 ### Running
 

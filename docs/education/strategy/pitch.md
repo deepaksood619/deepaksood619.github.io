@@ -558,3 +558,4 @@ We're a **gym with a personal trainer**.
 - [Financial Sustainability Model](education/strategy/financial-sustainability.md)
 - [Technical Architecture](education/technical/technical-architecture.md)
 - [Funding Strategy](education/strategy/funding-model.md)
+- Ideas - books to notes, hierarchy, graphs, flashcards, tests, mock, practice, full learning roadmap and modules

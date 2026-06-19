@@ -409,4 +409,6 @@ A Distributed System is one in which the failure of a computer you didn't even k
 
 A backup isn't a backup until you have successfully restored from it. Until then, it is just a very expensive file upload called 'Schrödinger's Data'
 
+There are two types of people who use LLM - one who use LLM to learn faster and the other who use LLM to skip learning all together.
+
 ## End

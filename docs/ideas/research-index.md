@@ -4,7 +4,7 @@
 
 **LLM-maintained wiki for multi-domain startup research**
 
-Last updated: 2026-05-02
+Last updated: 2026-06-18
 
 ---
 
@@ -32,6 +32,14 @@ Last updated: 2026-05-02
    - Market: $8B technical hiring
    - Build time: 2-3 months
    - **Status:** Ideation
+
+8. **[Conversational Reminder & Follow-up Assistant](ideas/conversational-reminder-assistant.md)** - Productivity/Personal AI
+   - WhatsApp/Telegram AI assistant — "remind me to call X tomorrow"
+   - Tracks people obligations, follow-ups, waiting-on lists via voice/text
+   - Market: $4.3B task management + $2.7B WhatsApp users
+   - Closest competitors: Memorae ($2.99/mo), Notis ($19/mo), Fhynix ($3.33/mo)
+   - Build time: 1-2 weeks Telegram MVP
+   - **Status:** Deep research complete, validation pending
 
 ### Medium Priority - Needs More Research
 
@@ -107,6 +115,29 @@ Last updated: 2026-05-02
 - Interviewing.io, Pramp/Exponent
 - Gradescope, Turnitin
 - Chegg, Coursera
+
+---
+
+### Productivity / Personal AI
+
+**Active Ideas:**
+
+- [Conversational Reminder & Follow-up Assistant](ideas/conversational-reminder-assistant.md)
+
+**Market Research:**
+
+- WhatsApp Business API ecosystem
+- Personal CRM tools landscape
+- Voice note → LLM task extraction
+- Notification channel effectiveness (WhatsApp vs push)
+
+**Competitors:**
+
+- Memorae, Fhynix, Zuno, Toki (WhatsApp-native reminders)
+- Notis, alfred_ (messaging-based AI agents)
+- Folk, Dex, Clay (personal CRM)
+- Todoist, TickTick, Motion, Reclaim (task management)
+- Fireflies, Otter, Fathom (meeting follow-ups)
 
 ---
 

@@ -74,3 +74,4 @@ Common use cases include:
 - [Confluent Intelligence - YouTube](https://www.youtube.com/watch?v=AcAxoF-Qj68)
 - [Detect Anomalies in Data with Confluent Cloud for Apache Flink \| Confluent Documentation](https://docs.confluent.io/cloud/current/ai/builtin-functions/detect-anomalies.html#evalwindowsize)
 - [Using Apache Flink for Model Inference: A Guide for Real-Time AI Applications \| Confluent](https://www.confluent.io/blog/using-flink-for-model-inference-a-guide-for-realtime-ai-applications/)
+- [GitHub - confluentinc/demo-confluent-fraud-agent · GitHub](https://github.com/confluentinc/demo-confluent-fraud-agent)
