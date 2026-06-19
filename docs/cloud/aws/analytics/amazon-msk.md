@@ -1,12 +1,10 @@
 ---
 slug: /cloud/aws/analytics/amazon-msk
 title: Amazon MSK
-description: Streamline your data with Amazon MSK, a fully managed Apache Kafka service
-  that simplifies deployment and scaling while ensuring enterprise-grade security.
-created: '2026-01-19'
-last_update: '2026-04-21'
+description: Streamline your data with Amazon MSK, a fully managed Apache Kafka service that simplifies deployment and scaling while ensuring enterprise-grade security.
+created: 2026-01-19
+last_update: 2026-04-21
 ---
-
 **Amazon Managed Streaming for Apache Kafka**
 
 Securely stream data with a fully managed, highly available Apache Kafka service

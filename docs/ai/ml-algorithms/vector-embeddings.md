@@ -1,12 +1,10 @@
 ---
 slug: /ai/ml-algorithms/vector-embeddings
 title: Vector Embeddings
-description: Discover how vector embeddings transform words and data into numerical
-  representations, enhancing machine understanding and enabling effective data processing.
-created: '2023-12-18'
-last_update: '2026-06-11'
+description: Discover how vector embeddings transform words and data into numerical representations, enhancing machine understanding and enabling effective data processing.
+created: 2023-12-18
+last_update: 2026-06-11
 ---
-
 **Vector embeddings are a way to convert words and sentences and other data into numbers that capture their meaning and relationships.** They represent different data types as points in a multidimensional space, where similar data points are clustered closer together. These numerical representations help machines understand and process this data more effectively.
 
 [Word](https://www.elastic.co/what-is/word-embedding) and sentence embeddings are two of the most common subtypes of vector embeddings, but there are others. Some vector embeddings can represent entire documents, as well as image vectors designed to match up visual content, user profile vectors to determine a user’s preferences, product vectors that help identify similar products and many others. Vector embeddings help [machine learning](https://www.elastic.co/what-is/machine-learning) algorithms find patterns in data and perform tasks such as [sentiment analysis](https://www.elastic.co/what-is/sentiment-analysis), language translation, recommendation systems, and many more.

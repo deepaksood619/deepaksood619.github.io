@@ -1,12 +1,10 @@
 ---
 slug: /mathematics/geometry/readme
 title: Geometry
-description: Explore the world of geometry, covering foundations, transformations,
-  congruence, similarity, right triangles, solid and analytic geometry, and circles.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Explore the world of geometry, covering foundations, transformations, congruence, similarity, right triangles, solid and analytic geometry, and circles.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
 - [Geometry Foundations](geometry-foundations)
 - [Transformations](transformations)
 - [Congruence](congruence)

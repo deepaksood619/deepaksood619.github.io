@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/software-engineering/change-management
 title: Effective Change Management Practices
-description: Explore essential Change Advisory Board (CAB) protocols for managing
-  database changes, risk assessment, and deployment strategies.
-created: '2024-05-12'
-last_update: '2024-08-12'
+description: Explore essential Change Advisory Board (CAB) protocols for managing database changes, risk assessment, and deployment strategies.
+created: 2024-05-12
+last_update: 2024-08-12
 ---
-
-# Change Management
-
 Change Advisory Board (CAB)
 
 ## CAB for Database Changes

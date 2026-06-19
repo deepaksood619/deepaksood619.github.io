@@ -1,14 +1,10 @@
 ---
 slug: /management/business/service-based-model
 title: Service Based Model Overview
-description: Explore the service-based model featuring dedicated teams and team augmentation
-  for efficient project delivery and flexible talent solutions.
-created: '2024-02-13'
-last_update: '2025-05-30'
+description: Explore the service-based model featuring dedicated teams and team augmentation for efficient project delivery and flexible talent solutions.
+created: 2024-02-13
+last_update: 2025-05-30
 ---
-
-# Service Based Model
-
 ## Dedicated Team
 
 It is an expert autonomous team comprising of different roles (e.g. project manager, software engineers, QA engineers, and other roles) capable of delivering technology solutions rapidly and efficiently. The roles are defined for each specific project and management is conducted jointly by a Scrum Master and the client's product owner.

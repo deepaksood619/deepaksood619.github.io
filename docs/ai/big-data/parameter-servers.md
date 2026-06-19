@@ -1,13 +1,10 @@
 ---
 slug: /ai/big-data/parameter-servers
 title: Parameter Servers
-description: Discover how parameter servers enhance machine learning by distributing
-  models across machines and enabling efficient push and pull operations for optimal
-  updates.
-created: '2024-02-26'
-last_update: '2024-02-26'
+description: Discover how parameter servers enhance machine learning by distributing models across machines and enabling efficient push and pull operations for optimal updates.
+created: 2024-02-26
+last_update: 2024-02-26
 ---
-
 ## Parameter Servers and Stale Synchronous Parallel Model
 
 ![image](../../media/Big-Data_Parameter-Servers-image1.jpg)

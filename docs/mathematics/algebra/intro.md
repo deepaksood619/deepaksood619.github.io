@@ -1,12 +1,10 @@
 ---
 slug: /mathematics/algebra/intro
 title: Intro
-description: Explore essential algebra concepts including equations, functions, polynomials,
-  and trigonometry to enhance your programming skills and problem-solving abilities.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore essential algebra concepts including equations, functions, polynomials, and trigonometry to enhance your programming skills and problem-solving abilities.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 ## Algebra - 1
 
 1. Solving equations

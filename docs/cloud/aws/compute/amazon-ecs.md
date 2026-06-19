@@ -1,12 +1,10 @@
 ---
 slug: /cloud/aws/compute/amazon-ecs
 title: Amazon ECS (Elastic Container Service)
-description: Discover how Amazon ECS simplifies container management, enhances resource
-  optimization, and enables efficient task placement for your applications.
-created: '2024-07-30'
-last_update: '2024-09-05'
+description: Discover how Amazon ECS simplifies container management, enhances resource optimization, and enables efficient task placement for your applications.
+created: 2024-07-30
+last_update: 2024-09-05
 ---
-
 ![image](../../../media/Cloud-AWS-Compute-image1.jpg)
 
 [Cost Optimization Checklist for Amazon ECS and AWS Fargate | Containers](https://aws.amazon.com/blogs/containers/cost-optimization-checklist-for-ecs-fargate/)

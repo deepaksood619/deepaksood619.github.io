@@ -1,14 +1,10 @@
 ---
 slug: /technologies/apache-spark/02-spark-modules
 title: Understanding Apache Spark Modules
-description: Explore the core framework of Apache Spark, its data management, and
-  resilience features in this comprehensive guide.
-created: '2023-03-05'
-last_update: '2024-12-12'
+description: Explore the core framework of Apache Spark, its data management, and resilience features in this comprehensive guide.
+created: 2023-03-05
+last_update: 2024-12-12
 ---
-
-# Spark Modules
-
 ## Apache Spark (Core)
 
 Spark consists of a core framework that manages the internal representation of data, including:

@@ -1,14 +1,10 @@
 ---
 slug: /networking/networking-concepts/cidr
-title: 'Understanding CIDR: Classless Inter-Domain Routing'
-description: Learn about CIDR, its role in IP address allocation, and how it revolutionized
-  Internet routing practices.
-created: '2023-03-05'
-last_update: '2026-06-17'
+title: "Understanding CIDR: Classless Inter-Domain Routing"
+description: Learn about CIDR, its role in IP address allocation, and how it revolutionized Internet routing practices.
+created: 2023-03-05
+last_update: 2026-06-17
 ---
-
-# CIDR
-
 ## Classless Inter-Domain Routing
 
 is a method for allocating [IP addresses](https://en.wikipedia.org/wiki/IP_address) and [IP routing](https://en.wikipedia.org/wiki/IP_routing). The [Internet Engineering Task Force](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force) introduced CIDR in 1993 to replace the previous addressing architecture of [classful network](https://en.wikipedia.org/wiki/Classful_network) design in the [Internet](https://en.wikipedia.org/wiki/Internet). Its goal was to slow the growth of [routing tables](https://en.wikipedia.org/wiki/Routing_table) on [routers](https://en.wikipedia.org/wiki/Router_(computing)) across the Internet, and to help slow the rapid [exhaustion of IPv4 addresses](https://en.wikipedia.org/wiki/IPv4_address_exhaustion).

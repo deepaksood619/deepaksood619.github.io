@@ -1,12 +1,10 @@
 ---
 slug: /decentralized-applications/ethereum/readme
 title: Ethereum
-description: Discover Ethereum's foundational concepts, upgrades, staking, layers,
-  and development tools to enhance your blockchain and decentralized application knowledge.
-created: '2023-03-05'
-last_update: '2026-01-25'
+description: Discover Ethereum's foundational concepts, upgrades, staking, layers, and development tools to enhance your blockchain and decentralized application knowledge.
+created: 2023-03-05
+last_update: 2026-01-25
 ---
-
 - [Ethereum Intro](ethereum-intro)
 - [Ethereum Upgrades](decentralized-applications/ethereum/upgrades.md)
 - [Solidity](solidity)

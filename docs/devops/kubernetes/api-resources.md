@@ -1,14 +1,10 @@
 ---
 slug: /devops/kubernetes/api-resources
 title: Essential Kubernetes API Resources
-description: Explore key Kubernetes API resources including namespaces, pods, StatefulSets,
-  ReplicaSets, roles, and load balancing strategies.
-created: '2023-03-05'
-last_update: '2026-03-27'
+description: Explore key Kubernetes API resources including namespaces, pods, StatefulSets, ReplicaSets, roles, and load balancing strategies.
+created: 2023-03-05
+last_update: 2026-03-27
 ---
-
-# api-resources
-
 ### Namespaces
 
 Kubernetes includes a means to segment a single physical cluster into separate logical clusters using namespacing.

@@ -1,12 +1,10 @@
 ---
 slug: /courses/course-big-data-computing-nptel
 title: Course - Big Data Computing - NPTEL
-description: Explore NPTEL's Big Data Computing course by Dr. Rajiv Mishra, covering
-  Hadoop, Spark, HBase, and advanced data strategies for data-driven insights.
-created: '2023-03-05'
-last_update: '2024-12-18'
+description: Explore NPTEL's Big Data Computing course by Dr. Rajiv Mishra, covering Hadoop, Spark, HBase, and advanced data strategies for data-driven insights.
+created: 2023-03-05
+last_update: 2024-12-18
 ---
-
 - Dr. Rajiv Mishra
 - CSE - IIT, Patna
 

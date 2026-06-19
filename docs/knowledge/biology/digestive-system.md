@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/biology/digestive-system
 title: Digestive System
-description: Explore the digestive system's role, understand the Bristol Stool Chart,
-  and learn how diet and lifestyle affect stool health and bowel habits.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the digestive system's role, understand the Bristol Stool Chart, and learn how diet and lifestyle affect stool health and bowel habits.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 ## Metabolic chart of the Human Body
 
 ![image](../../media/Digestive-System-image1.jpg)

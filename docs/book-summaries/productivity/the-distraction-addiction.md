@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/productivity/the-distraction-addiction
 title: The Distriction Addiction
-description: Explore how to enhance productivity by mastering multitasking, embracing
-  mindfulness, and minimizing distractions for a more focused life.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Explore how to enhance productivity by mastering multitasking, embracing mindfulness, and minimizing distractions for a more focused life.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Alex Soojung-Kim Pang
 
 - Boost your productivity by distinguishing betwen multitasking and "switch-tasking"

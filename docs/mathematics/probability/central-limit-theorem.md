@@ -1,12 +1,10 @@
 ---
 slug: /mathematics/probability/central-limit-theorem
 title: Central Limit Theorem
-description: Discover the Central Limit Theorem, a fundamental principle in probability
-  theory that explains how sums of independent variables converge to a normal distribution.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Discover the Central Limit Theorem, a fundamental principle in probability theory that explains how sums of independent variables converge to a normal distribution.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 In [probability theory](https://en.wikipedia.org/wiki/Probability_theory), thecentral limit theorem(CLT) establishes that, in some situations, when [independent random variables](https://en.wikipedia.org/wiki/Statistical_independence) are added, their properly normalized sum tends toward a [normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)(informally a "bell curve") even if the original variables themselves are not normally distributed. The theorem is a key concept in probability theory because it implies that probabilistic and statistical methods that work for normal distributions can be applicable to many problems involving other types of distributions.
 The distribution of sample means for an independent random variable, will get closer and closer to a normal distribution as the size of the sample gets bigger and bigger, even if the original population distribution isn't normal itself
 

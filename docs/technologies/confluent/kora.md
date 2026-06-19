@@ -1,14 +1,10 @@
 ---
 slug: /technologies/confluent/kora
-title: 'Kora: Cloud Native Kafka Engine'
-description: Discover Kora, the innovative cloud data service that enhances Apache
-  Kafka for thousands of customers and their clusters.
-created: '2025-12-01'
-last_update: '2026-02-15'
+title: "Kora: Cloud Native Kafka Engine"
+description: Discover Kora, the innovative cloud data service that enhances Apache Kafka for thousands of customers and their clusters.
+created: 2025-12-01
+last_update: 2026-02-15
 ---
-
-# Kora
-
 [Kora: The Cloud Native Engine for Apache Kafka](https://www.confluent.io/blog/cloud-native-data-streaming-kafka-engine/)
 
 Kora is a cloud data service that serves up the Kafka protocol for our thousands of customers and their tens of thousands of clusters.

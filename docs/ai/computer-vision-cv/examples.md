@@ -1,12 +1,10 @@
 ---
 slug: /ai/computer-vision-cv/examples
 title: Examples
-description: Discover how to build an image classifier using Python and TensorFlow,
-  with step-by-step examples, dataset downloads, and essential code snippets.
-created: '2024-09-19'
-last_update: '2026-06-11'
+description: Discover how to build an image classifier using Python and TensorFlow, with step-by-step examples, dataset downloads, and essential code snippets.
+created: 2024-09-19
+last_update: 2026-06-11
 ---
-
 - Image Classifier
 
 ## Import Libraries

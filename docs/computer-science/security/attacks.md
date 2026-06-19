@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/security/attacks
 title: Understanding Security Attacks
-description: Explore various types of security attacks, including passive and active
-  attacks, with an emphasis on buffer overflow vulnerabilities.
-created: '2023-03-05'
-last_update: '2025-02-14'
+description: Explore various types of security attacks, including passive and active attacks, with an emphasis on buffer overflow vulnerabilities.
+created: 2023-03-05
+last_update: 2025-02-14
 ---
-
-# Attacks
-
 ## Types of Security Attacks
 
 ### Passive Attack

@@ -1,12 +1,10 @@
 ---
 slug: /mathematics/statistics/ranking
 title: Ranking
-description: Explore effective strategies for assigning rankings in competitions,
-  addressing ties and ordinal measurements for precise and fair evaluations.
-created: '2023-03-07'
-last_update: '2023-06-22'
+description: Explore effective strategies for assigning rankings in competitions, addressing ties and ordinal measurements for precise and fair evaluations.
+created: 2023-03-07
+last_update: 2023-06-22
 ---
-
 ## Strategies for assigning rankings
 
 It is not always possible to assign rankings uniquely. For example, in a race or competition two (or more) entrants might tie for a place in the ranking. When computing an [ordinal measurement](https://en.wikipedia.org/wiki/Ordinal_measurement "Ordinal measurement"), two (or more) of the quantities being ranked might measure equal. In these cases, one of the strategies shown below for assigning the rankings may be adopted. A common shorthand way to distinguish these ranking strategies is by the ranking numbers that would be produced for four items, with the first item ranked ahead of the second and third (which compare equal) which are both ranked ahead of the fourth. These names are also shown below.

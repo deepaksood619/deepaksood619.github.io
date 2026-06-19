@@ -1,13 +1,10 @@
 ---
 slug: /book-summaries/economics-finance/predictably-irrational
 title: Predictably Irrational
-description: Discover how our predictable irrational behaviors influence decision-making
-  and challenge traditional economic theories in Dan Ariely's insightful work, "Predictably
-  Irrational."
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover how our predictable irrational behaviors influence decision-making and challenge traditional economic theories in Dan Ariely's insightful work, "Predictably Irrational."
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Dan Ariely
 
 We are all far less rational in our decision-making than standard economic theory assumes. Our irrational behaviors are neither random nor senseless: they are systematic and predictable. We all make the same types of mistakes over and over, because of the basic wiring of our brains.

@@ -1,14 +1,10 @@
 ---
 slug: /frontend/others/jquery
 title: Introduction to jQuery Basics
-description: Learn about jQuery, a powerful JavaScript library for DOM manipulation,
-  event handling, and animations with easy-to-use API examples.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Learn about jQuery, a powerful JavaScript library for DOM manipulation, event handling, and animations with easy-to-use API examples.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# JQuery
-
 ## Introduction
 
 jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.

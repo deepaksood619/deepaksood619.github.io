@@ -1,12 +1,10 @@
 ---
 slug: /management/growth-hacking
 title: Growth Hacking
-description: Discover the essence of growth hacking and how its unique focus drives
-  unparalleled growth strategies, distinguishing it from traditional marketing practices.
-created: '2023-03-05'
-last_update: '2026-01-25'
+description: Discover the essence of growth hacking and how its unique focus drives unparalleled growth strategies, distinguishing it from traditional marketing practices.
+created: 2023-03-05
+last_update: 2026-01-25
 ---
-
 A growth hacker is not a replacement for a marketer. A growth hacker is not better than marketer. A growth hacker is just different than a marketer. To use the most succinct definition from Sean's post,"A growth hacker is a person whose true north is growth."
 
 Every decision that a growth hacker makes is informed by growth. Every strategy, every tactic, and every initiative, is attempted in the hopes of growing. Growth is the sun that a growth hacker revolves around. Of course, traditional marketers care about growth too, but not to the same extent. Remember, the power of a growth hacker is in their obsessive focus on a singular goal. By ignoring almost everything, they can achieve the one task that matters most early on.

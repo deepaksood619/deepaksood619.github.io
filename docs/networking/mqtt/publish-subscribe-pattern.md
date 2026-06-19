@@ -1,14 +1,10 @@
 ---
 slug: /networking/mqtt/publish-subscribe-pattern
 title: Understanding Publish Subscribe Pattern
-description: Learn about the publish/subscribe pattern, a decoupled messaging model
-  that enhances communication in distributed systems.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Learn about the publish/subscribe pattern, a decoupled messaging model that enhances communication in distributed systems.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Publish Subscribe Pattern
-
 The publish/subscribe pattern (also known as pub/sub) provides an alternative to traditional client-server architecture. In the client-sever model, a client communicates directly with an endpoint.The pub/sub model **decouples the client that sends a message (the publisher) from the client or clients that receive the messages (the subscribers)**. The publishers and subscribers never contact each other directly. In fact, they are not even aware that the other exists. **The connection between them is handled by a third component (the broker)**. The job of the broker is to filter all incoming messages and distribute them correctly to subscribers.
 
 The most important aspect of pub/sub is the decoupling of the publisher of the message from the recipient (subscriber). This decoupling has several dimensions:

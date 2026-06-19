@@ -1,12 +1,10 @@
 ---
 slug: /ideas/genai-website-chatbot
 title: AI Chatbot for Websites
-description: Boost customer support with our one-click AI chatbot, designed for SMBs
-  to provide instant answers without coding or high costs.
-created: '2026-05-04'
-last_update: '2026-05-23'
+description: Boost customer support with our one-click AI chatbot, designed for SMBs to provide instant answers without coding or high costs.
+created: 2026-05-04
+last_update: 2026-05-23
 ---
-
 ## Problem Statement
 
 **Businesses face:**

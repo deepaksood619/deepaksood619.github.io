@@ -1,14 +1,10 @@
 ---
 slug: /education/strategy/financial-sustainability
 title: Non-Profit Financial Sustainability Model
-description: Explore an effective financial sustainability model for non-profits focusing
-  on revenue strategies and cost-recovery credits.
-created: '2026-06-04'
-last_update: '2026-06-08'
+description: Explore an effective financial sustainability model for non-profits focusing on revenue strategies and cost-recovery credits.
+created: 2026-06-04
+last_update: 2026-06-08
 ---
-
-# Financial Sustainability Model - Non-Profit
-
 **Last Updated:** 2026-06-04
 
 ---

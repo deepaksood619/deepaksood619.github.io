@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/security/authentication/siem
 title: Understanding SIEM Technology
-description: Discover how SIEM solutions enhance security by monitoring, analyzing,
-  and responding to threats in real-time.
-created: '2024-01-19'
-last_update: '2025-02-14'
+description: Discover how SIEM solutions enhance security by monitoring, analyzing, and responding to threats in real-time.
+created: 2024-01-19
+last_update: 2025-02-14
 ---
-
-# SIEM
-
 Security information and event management, SIEM for short, is a solution that helps organizations detect, analyze, and respond to security threats before they harm business operations.
 
 SIEM, pronounced "sim," combines both security information management (SIM) and security event management (SEM) into one security management system. SIEM technology collects event log data from a range of sources, identifies activity that deviates from the norm with real-time analysis, and takes appropriate action.

@@ -1,14 +1,10 @@
 ---
 slug: /networking/networking-concepts/network-sockets-ports
 title: Understanding Network Sockets and Ports
-description: Learn about network sockets and ports, their roles in data transmission,
-  and how they function in computer networks.
-created: '2023-03-05'
-last_update: '2024-02-26'
+description: Learn about network sockets and ports, their roles in data transmission, and how they function in computer networks.
+created: 2023-03-05
+last_update: 2024-02-26
 ---
-
-# Network Sockets/Ports
-
 ## Network Sockets
 
 A **network socket** is an internal endpoint for sending or receiving data within a [node](https://en.wikipedia.org/wiki/Node_(networking)) on a [computer network](https://en.wikipedia.org/wiki/Computer_network). Concretely, it is a representation of this endpoint in networking software ([protocol stack](https://en.wikipedia.org/wiki/Protocol_stack)), such as an entry in a table (listing communication protocol, destination, status, etc.), and is a form of [system resource](https://en.wikipedia.org/wiki/System_resource).

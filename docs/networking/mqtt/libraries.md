@@ -1,14 +1,10 @@
 ---
 slug: /networking/mqtt/libraries
 title: MQTT Broker Implementations Overview
-description: Explore various MQTT broker implementations including Mosquitto, ActiveMQ,
-  HiveMQ, and RabbitMQ to find the best fit for your project.
-created: '2023-03-05'
-last_update: '2024-12-23'
+description: Explore various MQTT broker implementations including Mosquitto, ActiveMQ, HiveMQ, and RabbitMQ to find the best fit for your project.
+created: 2023-03-05
+last_update: 2024-12-23
 ---
-
-# Libraries
-
 ## MQTT BROKER IMPLEMENTATIONS
 
 | **BROKER** | **DESCRIPTION** |

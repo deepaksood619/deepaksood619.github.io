@@ -1,12 +1,10 @@
 ---
 slug: /decentralized-applications/readme
 title: Decentralized Applications
-description: Explore decentralized applications, key concepts, blockchain, DeFi, tokenomics,
-  and on-chain analytics to understand the future of crypto technology and investing.
-created: '2023-03-05'
-last_update: '2023-11-22'
+description: Explore decentralized applications, key concepts, blockchain, DeFi, tokenomics, and on-chain analytics to understand the future of crypto technology and investing.
+created: 2023-03-05
+last_update: 2023-11-22
 ---
-
 - [Intro](decentralized-applications/intro.md)
 - [Blockchain](blockchain)
 - [Key Concepts](key-concepts)

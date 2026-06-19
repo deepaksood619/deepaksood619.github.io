@@ -1,14 +1,10 @@
 ---
 slug: /about-deepak-sood/projects/89-stashfin-devops-overhaul
 title: Stashfin DevOps Transformation
-description: Discover how Stashfin scaled operations and enhanced system resiliency,
-  achieving 99.99% uptime and automating deployment with Jenkins and Kubernetes.
-created: '2023-12-01'
-last_update: '2024-12-19'
+description: Discover how Stashfin scaled operations and enhanced system resiliency, achieving 99.99% uptime and automating deployment with Jenkins and Kubernetes.
+created: 2023-12-01
+last_update: 2024-12-19
 ---
-
-# Stashfin DevOps Overhaul
-
 - Scaled the stack and team to increase loan disbursals from 100K USD to 60M USD per month
 - Increased the resiliency and stability of the system many fold. Achieved 99.99% of infrastructure uptime
 - Moved all workloads to Kubernetes along with full monitoring, alerting and logging solution around applications

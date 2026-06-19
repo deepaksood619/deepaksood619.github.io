@@ -1,14 +1,10 @@
 ---
 slug: /python/django/others
 title: Using Fixtures and PostgreSQL ModelFields
-description: Learn how to pre-populate your Django database with fixtures and explore
-  PostgreSQL-specific ModelFields for enhanced data management.
-created: '2023-03-05'
-last_update: '2025-04-20'
+description: Learn how to pre-populate your Django database with fixtures and explore PostgreSQL-specific ModelFields for enhanced data management.
+created: 2023-03-05
+last_update: 2025-04-20
 ---
-
-# Others
-
 ## Fixtures
 
 It's sometimes useful to pre-populate your database with hard-coded data when you're first setting up an app. You can provide initial data with fixtures or migrations.

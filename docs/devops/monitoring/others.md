@@ -1,14 +1,10 @@
 ---
 slug: /devops/monitoring/others
 title: Essential Status Page Tools
-description: Explore top status page tools like Blackbox Exporter, Statuspage.io,
-  Uptime Robot, and more for effective website monitoring.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Explore top status page tools like Blackbox Exporter, Statuspage.io, Uptime Robot, and more for effective website monitoring.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
-# Others
-
 ## Status pages
 
 - blackbox exporter - [Prometheus Blackbox Exporter: Guide & Tutorial | Squadcast](https://www.squadcast.com/blog/prometheus-blackbox-exporter)

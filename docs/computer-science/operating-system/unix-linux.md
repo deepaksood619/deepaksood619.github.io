@@ -1,12 +1,10 @@
 ---
 slug: /computer-science/operating-system/unix-linux
 title: Understanding Unix/Linux Architecture
-description: 'Explore the three core components of Unix/Linux: Kernel, Shell, and
-  Programs, and how they interact in the operating system.'
-created: '2023-03-05'
-last_update: '2025-11-01'
+description: Explore the three core components of Unix/Linux: Kernel, Shell, and Programs, and how they interact in the operating system.
+created: 2023-03-05
+last_update: 2025-11-01
 ---
-
 # Unix / Linux
 
 ## A UNIX OS is made up of three parts

@@ -1,12 +1,10 @@
 ---
 slug: /cloud/aws/others/amazon-cloudwatch
 title: Amazon CloudWatch
-description: Explore Amazon CloudWatch, the essential monitoring tool for AWS resources
-  and applications, featuring over 40 Grafana dashboards for comprehensive visibility.
-created: '2025-11-19'
-last_update: '2026-04-28'
+description: Explore Amazon CloudWatch, the essential monitoring tool for AWS resources and applications, featuring over 40 Grafana dashboards for comprehensive visibility.
+created: 2025-11-19
+last_update: 2026-04-28
 ---
-
 Monitor Resources and Applications
 
 [GitHub - monitoringartist/grafana-aws-cloudwatch-dashboards: :cloud: 40+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...](https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards) ⭐ 2.3k

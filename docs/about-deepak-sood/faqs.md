@@ -1,12 +1,10 @@
 ---
 slug: /about-deepak-sood/faqs
 title: FAQs
-description: Explore FAQs about an seasoned AI, Data & DevOps Architect with 8+ years
-  of experience in scaling systems and leading innovative teams.
-created: '2023-03-05'
-last_update: '2026-05-09'
+description: Explore FAQs about an seasoned AI, Data & DevOps Architect with 8+ years of experience in scaling systems and leading innovative teams.
+created: 2023-03-05
+last_update: 2026-05-09
 ---
-
 ## Describe yourself in a short phrase
 
 Experienced AI, Data & DevOps Architect with 8+ years of expertise in scaling systems, leading multidisciplinary teams, and driving innovation across AI, data engineering, and infrastructure

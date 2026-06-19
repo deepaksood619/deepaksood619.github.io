@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/security/readme
 title: Comprehensive Security Resources Hub
-description: Explore essential security concepts, tools, and strategies for improving
-  your security posture and defending against cyber threats.
-created: '2023-03-05'
-last_update: '2026-02-15'
+description: Explore essential security concepts, tools, and strategies for improving your security posture and defending against cyber threats.
+created: 2023-03-05
+last_update: 2026-02-15
 ---
-
-# Security
-
 - [Improving Security Posture](computer-science/security/improving-security-posture.md)
 - [Concepts](computer-science/security/concepts.md)
 - [Cryptography](cryptography/readme.md)

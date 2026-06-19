@@ -1,14 +1,10 @@
 ---
 slug: /technologies/brokers/rabbitmq
 title: Understanding RabbitMQ and High Availability
-description: Explore RabbitMQ's capabilities as a distributed message broker with
-  high availability and interoperability features.
-created: '2024-05-31'
-last_update: '2024-06-04'
+description: Explore RabbitMQ's capabilities as a distributed message broker with high availability and interoperability features.
+created: 2024-05-31
+last_update: 2024-06-04
 ---
-
-# RabbitMQ
-
 The Polyglot Broker (Distributed Message Broker)
 
 All three protocols are supported by RabbitMQ broker, making it an ideal choice for interoperability between applications.

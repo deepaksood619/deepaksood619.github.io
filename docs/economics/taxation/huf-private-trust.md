@@ -1,12 +1,10 @@
 ---
 slug: /economics/taxation/huf-private-trust
 title: HUF / Private Trust
-description: Learn about HUF (Hindu Undivided Family) and its benefits, including
-  tax-free gifts, joint income management, and the role of the Karta.
-created: '2024-03-06'
-last_update: '2025-10-12'
+description: Learn about HUF (Hindu Undivided Family) and its benefits, including tax-free gifts, joint income management, and the role of the Karta.
+created: 2024-03-06
+last_update: 2025-10-12
 ---
-
 ## HUF
 
 **HUF stands for** Hindu Undivided family & governed by Hindu law board. The expression "Hindu Undivided Family" has not defined under the Income Tax Act or in any other statute. HUF could be formed by a married couple or by members of a joint family. To form a HUF minimum two members are required & at least one among whom should be a male member of the family. Senior most male member of the family would become ‘Karta’.

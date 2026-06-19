@@ -1,14 +1,10 @@
 ---
 slug: /devops/ides/vscode-vs-code
 title: Essential VSCode Resources and Tips
-description: Explore VSCode debugging, online environments, and tools for effective
-  coding and development in Python and beyond.
-created: '2023-03-05'
-last_update: '2025-02-15'
+description: Explore VSCode debugging, online environments, and tools for effective coding and development in Python and beyond.
+created: 2023-03-05
+last_update: 2025-02-15
 ---
-
-# VSCode / VS Code
-
  Remove empty lines - `Regex - ^(s)*$`
 
 ## Debugging Python

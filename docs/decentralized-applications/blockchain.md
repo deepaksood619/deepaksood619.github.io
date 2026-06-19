@@ -1,12 +1,10 @@
 ---
 slug: /decentralized-applications/blockchain
 title: Blockchain
-description: Discover how blockchain technology transforms transactions into a decentralized
-  network, enhancing trust and direct interactions without intermediaries.
-created: '2023-03-05'
-last_update: '2026-06-17'
+description: Discover how blockchain technology transforms transactions into a decentralized network, enhancing trust and direct interactions without intermediaries.
+created: 2023-03-05
+last_update: 2026-06-17
 ---
-
 Inventor - Satoshi Nakamoto
 
 "Most technologies tend to automate workers on the periphery who are doing menial tasks. But blockchains automate away the center. Instead of putting taxi drivers out of a job, blockchain puts Uber out of a job, and lets the taxi drivers work with the customer directly." - Vitalik Buterin, Creator of Ethereum

@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/philosophy-relationships/the-courage-to-be-happy
 title: The Courage to be Happy
-description: Discover how self-reliance, respect, and mindful parenting can cultivate
-  true contentment and happiness in your life and your child's journey.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover how self-reliance, respect, and mindful parenting can cultivate true contentment and happiness in your life and your child's journey.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 True Contentment Is In Your Power By Ichiro Kishimi
 
 - The purpose of education is to teach self-reliance

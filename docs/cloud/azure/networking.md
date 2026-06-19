@@ -1,13 +1,10 @@
 ---
 slug: /cloud/azure/networking
 title: Networking
-description: Discover Azure network foundation services like Azure Virtual Network,
-  Private Link, and DNS for seamless connectivity and robust infrastructure in the
-  cloud.
-created: '2025-12-12'
-last_update: '2026-01-21'
+description: Discover Azure network foundation services like Azure Virtual Network, Private Link, and DNS for seamless connectivity and robust infrastructure in the cloud.
+created: 2025-12-12
+last_update: 2026-01-21
 ---
-
 ## Azure network foundation services
 
 Azure network foundation services provide core connectivity for your resources in Azure. Network foundation services include **Azure Virtual Network**, **Azure Private Link**, and **Azure DNS**. Together, these core services build upon each other to provide the foundation for your Azure network.

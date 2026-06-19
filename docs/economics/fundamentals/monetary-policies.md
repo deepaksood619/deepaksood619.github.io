@@ -1,12 +1,10 @@
 ---
 slug: /economics/fundamentals/monetary-policies
 title: Monetary Policy
-description: Explore how monetary policy shapes economic stability by controlling
-  money supply and interest rates to achieve inflation targets and price stability.
-created: '2023-08-21'
-last_update: '2026-06-09'
+description: Explore how monetary policy shapes economic stability by controlling money supply and interest rates to achieve inflation targets and price stability.
+created: 2023-08-21
+last_update: 2026-06-09
 ---
-
 Monetary policy is the process by which the monetary authority of a country, typically the [central bank](https://en.wikipedia.org/wiki/Central_bank) or [currency board](https://en.wikipedia.org/wiki/Currency_board), controls either the [cost of very short-term borrowing](https://en.wikipedia.org/wiki/Federal_funds) or the [money supply](https://en.wikipedia.org/wiki/Money_supply), often targeting an [inflation rate](https://en.wikipedia.org/wiki/Inflation#Measures) or [interest rate](https://en.wikipedia.org/wiki/Interest_rate) to ensure [price stability](https://en.wikipedia.org/wiki/Price_stability) and general trust in the currency.
 
 Further goals of a monetary policy are usually to contribute to the stability of [gross domestic product](https://en.wikipedia.org/wiki/Gross_domestic_product), to achieve and maintain low [unemployment](https://en.wikipedia.org/wiki/Unemployment), and to maintain predictable [exchange rates](https://en.wikipedia.org/wiki/Exchange_rates) with other [currencies](https://en.wikipedia.org/wiki/Currencies).

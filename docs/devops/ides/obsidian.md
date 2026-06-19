@@ -1,14 +1,10 @@
 ---
 slug: /devops/ides/obsidian
 title: Exploring Obsidian Plugins and Extensions
-description: Discover essential plugins and extensions to enhance your Obsidian knowledge
-  base experience for better productivity.
-created: '2023-03-05'
-last_update: '2026-06-17'
+description: Discover essential plugins and extensions to enhance your Obsidian knowledge base experience for better productivity.
+created: 2023-03-05
+last_update: 2026-06-17
 ---
-
-# Obsidian
-
 Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files.
 
 ## Extensions / Plugins

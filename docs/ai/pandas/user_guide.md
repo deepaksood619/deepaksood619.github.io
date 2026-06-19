@@ -1,12 +1,10 @@
 ---
 slug: /ai/pandas/user_guide
 title: user_guide
-description: Explore the comprehensive user guide for pandas, featuring detailed instructions
-  on handling various file formats including CSV, JSON, Excel, and more.
-created: '2023-03-05'
-last_update: '2024-11-18'
+description: Explore the comprehensive user guide for pandas, featuring detailed instructions on handling various file formats including CSV, JSON, Excel, and more.
+created: 2023-03-05
+last_update: 2024-11-18
 ---
-
 https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html
 
 - [IO tools (text, CSV, HDF5, ...)](https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html)

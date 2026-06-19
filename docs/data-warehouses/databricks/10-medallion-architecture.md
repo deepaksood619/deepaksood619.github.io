@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/databricks/10-medallion-architecture
 title: Understanding Medallion Architecture
-description: Explore the medallion architecture, a data design pattern for optimizing
-  data flow in lakehouse environments.
-created: '2023-03-07'
-last_update: '2025-06-10'
+description: Explore the medallion architecture, a data design pattern for optimizing data flow in lakehouse environments.
+created: 2023-03-07
+last_update: 2025-06-10
 ---
-
-# Medallion Architecture
-
 ## What is a medallion architecture?
 
 A **medallion architecture** is a data design pattern used to logically organize data in a [lakehouse](https://www.databricks.com/glossary/data-lakehouse), with the goal of incrementally and progressively improving the structure and quality of data as it flows through each layer of the architecture (from Bronze ⇒ Silver ⇒ Gold layer tables). Medallion architectures are sometimes also referred to as "**multi-hop**" architectures.

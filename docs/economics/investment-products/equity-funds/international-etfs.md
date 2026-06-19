@@ -1,12 +1,10 @@
 ---
 slug: /economics/investment-products/equity-funds/international-etfs
 title: International ETFs
-description: Explore international ETFs with our comprehensive screener, including
-  US and Ireland domiciled options, to diversify and enhance your investment portfolio.
-created: '2025-04-08'
-last_update: '2026-06-18'
+description: Explore international ETFs with our comprehensive screener, including US and Ireland domiciled options, to diversify and enhance your investment portfolio.
+created: 2025-04-08
+last_update: 2026-06-18
 ---
-
 [Free ETF Screener - Search and Analyze ETFs - Stock Analysis](https://stockanalysis.com/etf/screener/)
 
 ## Technology

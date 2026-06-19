@@ -1,12 +1,10 @@
 ---
 slug: /databases-nosql/mongodb/intro
 title: MongoDB
-description: Discover MongoDB, the leading open-source NoSQL database that offers
-  scalable document storage with ACID properties and powerful utilities for data management.
-created: '2023-03-05'
-last_update: '2026-05-18'
+description: Discover MongoDB, the leading open-source NoSQL database that offers scalable document storage with ACID properties and powerful utilities for data management.
+created: 2023-03-05
+last_update: 2026-05-18
 ---
-
 ## MongoDB / CouchBase
 
 Json like structure and you want to persist that than mongodb works fine, provide ACID properties at a document level and scale pretty well

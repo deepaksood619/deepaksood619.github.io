@@ -1,13 +1,10 @@
 ---
 slug: /ai/computer-vision-cv/imagemagick
 title: ImageMagick
-description: Discover ImageMagick, the versatile tool for image manipulation offering
-  features like animation, color management, and bilateral blur for enhanced visual
-  effects.
-created: '2024-01-08'
-last_update: '2026-06-11'
+description: Discover ImageMagick, the versatile tool for image manipulation offering features like animation, color management, and bilateral blur for enhanced visual effects.
+created: 2024-01-08
+last_update: 2026-06-11
 ---
-
 [GitHub - ImageMagick/ImageMagick: 🧙‍♂️ ImageMagick 7](https://github.com/ImageMagick/ImageMagick) ⭐ 17k
 
 ### Features

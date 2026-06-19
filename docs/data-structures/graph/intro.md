@@ -1,14 +1,10 @@
 ---
 slug: /data-structures/graph/intro
 title: Introduction to Graph Representation
-description: Explore the basics of graph representation including adjacency matrices
-  and lists, and learn about sparse and dense graphs.
-created: '2023-03-05'
-last_update: '2025-05-03'
+description: Explore the basics of graph representation including adjacency matrices and lists, and learn about sparse and dense graphs.
+created: 2023-03-05
+last_update: 2025-05-03
 ---
-
-# Intro
-
 ## Representation
 
 1. Adjacency Matrix

@@ -1,13 +1,10 @@
 ---
 slug: /education/competitors/job-platforms/techkareer-analysis
 title: TechKareer Recruitment Analysis
-description: Discover how TechKareer connects top engineering talent with businesses
-  at lower costs and faster hiring times.
-created: '2026-06-08'
-last_update: '2026-06-08'
+description: Discover how TechKareer connects top engineering talent with businesses at lower costs and faster hiring times.
+created: 2026-06-08
+last_update: 2026-06-08
 ---
-
-
 ## Overview
 
 **TechKareer** is a curated technical recruitment platform positioning itself as "Hire like FAANG for 1/4th of the cost." The platform operates as both a **talent aggregator** (70,000+ engineer pool) and a **premium recruitment service**, connecting high-quality engineering talent with startups and growth-stage companies primarily in the US (SF, NYC) and India (Bangalore).

@@ -1,13 +1,10 @@
 ---
 slug: /economics/market-mechanics/readme
 title: Market Terms
-description: Explore essential market terms, including order types, IPOs, technical
-  and fundamental analysis, trading strategies, and valuation metrics for informed
-  investing.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Explore essential market terms, including order types, IPOs, technical and fundamental analysis, trading strategies, and valuation metrics for informed investing.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
 - [Order Types](economics/market-mechanics/market-structure/order-types.md)
 - [IPO](economics/market-mechanics/market-structure/ipo-process.md)
 - [Technical Analysis](economics/market-mechanics/technical-analysis/technical-analysis-basics.md)

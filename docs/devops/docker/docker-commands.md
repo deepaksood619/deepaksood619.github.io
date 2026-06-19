@@ -1,14 +1,10 @@
 ---
 slug: /devops/docker/docker-commands
 title: Essential Docker Commands Guide
-description: Explore essential Docker commands for installation, managing containers,
-  and understanding the lifecycle of Docker images.
-created: '2023-03-05'
-last_update: '2025-08-02'
+description: Explore essential Docker commands for installation, managing containers, and understanding the lifecycle of Docker images.
+created: 2023-03-05
+last_update: 2025-08-02
 ---
-
-# Docker Commands
-
 ## Installation
 
 ```bash

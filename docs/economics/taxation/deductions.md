@@ -1,12 +1,10 @@
 ---
 slug: /economics/taxation/deductions
 title: Deductions
-description: Explore the changes in income tax deductions from the IT Act 1961 to
-  the IT Act 2025, including key exemptions and their new sections.
-created: '2025-02-05'
-last_update: '2026-04-21'
+description: Explore the changes in income tax deductions from the IT Act 1961 to the IT Act 2025, including key exemptions and their new sections.
+created: 2025-02-05
+last_update: 2026-04-21
 ---
-
 ## Income Tax Act 2025 - Section Changes
 
 Mapping of old sections (IT Act 1961) to new sections (IT Act 2025)

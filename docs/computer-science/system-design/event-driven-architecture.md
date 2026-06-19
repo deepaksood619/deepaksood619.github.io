@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/system-design/event-driven-architecture
 title: Understanding Event Driven Architecture
-description: Explore event driven architecture and event sourcing, detailing how events
-  are recorded and processed in various applications.
-created: '2023-03-05'
-last_update: '2024-12-16'
+description: Explore event driven architecture and event sourcing, detailing how events are recorded and processed in various applications.
+created: 2023-03-05
+last_update: 2024-12-16
 ---
-
-# Event driven architecture
-
 ## Event Driven Architecture / Event Sourcing
 
 An event records the fact that "something happened" in the world.Conceptually, an event has a key, value, and timestamp. A concrete event could be a plain notification without any additional information, but it could also include the full details of what exactly happened to facilitate subsequent processing. For instance:

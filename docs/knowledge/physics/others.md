@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/physics/others
 title: Others
-description: Explore wave-particle duality, a cornerstone of quantum mechanics revealing
-  how particles and waves coexist in the behavior of quantum-scale entities.
-created: '2023-03-05'
-last_update: '2026-05-09'
+description: Explore wave-particle duality, a cornerstone of quantum mechanics revealing how particles and waves coexist in the behavior of quantum-scale entities.
+created: 2023-03-05
+last_update: 2026-05-09
 ---
-
 ## Wave-particle duality
 
 Wave-particle duality is the concept in [quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics) that every [particle](https://en.wikipedia.org/wiki/Particle) or [quantic](https://en.wikipedia.org/wiki/Quantum) entity may be partly described in terms not only of particles, but also of [waves](https://en.wikipedia.org/wiki/Wave). It expresses the inability of the [classical](https://en.wikipedia.org/wiki/Classical_physics) concepts "particle" or "wave" to fully describe the behavior of [quantum-scale](https://en.wikipedia.org/wiki/Quantum-scale) objects.

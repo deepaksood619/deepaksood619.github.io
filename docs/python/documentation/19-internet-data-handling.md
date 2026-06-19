@@ -1,14 +1,10 @@
 ---
 slug: /python/documentation/19-internet-data-handling
 title: Internet Data Handling in Python
-description: Explore essential Python modules for email, JSON, mailcap, and data encoding
-  to efficiently handle internet data.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Explore essential Python modules for email, JSON, mailcap, and data encoding to efficiently handle internet data.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
-# 19. Internet Data Handling
-
 - [19.1.email - An email and MIME handling package](https://docs.python.org/3/library/email.html)
 - [19.2.json - JSON encoder and decoder](https://docs.python.org/3/library/json.html)
 - [19.3.mailcap - Mailcap file handling](https://docs.python.org/3/library/mailcap.html)

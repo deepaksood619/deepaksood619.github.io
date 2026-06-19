@@ -1,14 +1,10 @@
 ---
 slug: /about-deepak-sood/projects/38-data-stack-evaluation-optimization
 title: Data Stack Evaluation and Optimization
-description: Discover key factors for evaluating data stack tools and optimizing performance,
-  including scalability, cost, and real-time data challenges.
-created: '2025-03-27'
-last_update: '2025-04-03'
+description: Discover key factors for evaluating data stack tools and optimizing performance, including scalability, cost, and real-time data challenges.
+created: 2025-03-27
+last_update: 2025-04-03
 ---
-
-# Data Stack Evaluation & Optimization
-
 ## How do you evaluate and select tools and technologies for your data stack?
 
 - Scalability

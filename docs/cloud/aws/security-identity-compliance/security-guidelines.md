@@ -1,12 +1,10 @@
 ---
 slug: /cloud/aws/security-identity-compliance/security-guidelines
 title: Security Guidelines
-description: Discover essential security guidelines for effective access management,
-  prioritizing safety and compliance in your organization.
-created: '2024-03-13'
-last_update: '2024-03-13'
+description: Discover essential security guidelines for effective access management, prioritizing safety and compliance in your organization.
+created: 2024-03-13
+last_update: 2024-03-13
 ---
-
 ## Access Management
 
 | S.No. | Checklist                                                    | Reason                                                                                                      | Priorities               | Comments                                                                                                                                                                                 |

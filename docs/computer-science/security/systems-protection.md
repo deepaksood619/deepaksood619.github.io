@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/security/systems-protection
 title: Comprehensive Systems Protection Techniques
-description: Explore essential systems protection methods against buffer overflow
-  attacks and access controls for enhanced security.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore essential systems protection methods against buffer overflow attacks and access controls for enhanced security.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
-# Systems Protection
-
 ### Protection against Buffer Overflow attacks / Stash smashing attacks
 
 1. NX bit protection

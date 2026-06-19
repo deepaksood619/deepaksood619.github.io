@@ -1,14 +1,10 @@
 ---
 slug: /technologies/confluent/confluent-cloud-security/22-authorizing-using-rbac-and-acls
 title: RBAC and ACLs Authorization Explained
-description: Learn how to effectively manage user access in Confluent Cloud using
-  RBAC and ACLs for enhanced security and efficiency.
-created: '2025-12-10'
-last_update: '2026-03-09'
+description: Learn how to effectively manage user access in Confluent Cloud using RBAC and ACLs for enhanced security and efficiency.
+created: 2025-12-10
+last_update: 2026-03-09
 ---
-
-# Authorizing Using RBAC and ACLs
-
 Your identities will need access to Confluent Cloud, whether it is to create applications or send and receive data. Allowing them to access your cluster as easily as possible is important to how well your business runs. At the same time, your access model needs to be structured in a way where you can easily add, remove, change, and verify permissions.
 
 Authorization is where you will make sure that your authenticated users have the access they should have, and no more or no less. It is not unheard of to have to authorize hundreds, thousands, or even tens of thousands of identities. If you’ve ever used the open source implementation of Kafka, you may be familiar with the burdensome process of having to create an LDAP store to configure your group, role, and user hierarchies, then applying ACL based on the group and role hierarchies, and finally implementing a custom authorizer that pairs the groups and users in LDAP with those in Kafka.

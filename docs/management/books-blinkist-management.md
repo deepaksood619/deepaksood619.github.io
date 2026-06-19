@@ -1,13 +1,10 @@
 ---
 slug: /management/books-blinkist-management
 title: Books / Blinkist Management
-description: Discover essential leadership insights and top management books like
-  "97 Things Every Engineering Manager Should Know" to enhance your skills and drive
-  success.
-created: '2023-03-05'
-last_update: '2026-06-18'
+description: Discover essential leadership insights and top management books like "97 Things Every Engineering Manager Should Know" to enhance your skills and drive success.
+created: 2023-03-05
+last_update: 2026-06-18
 ---
-
 ## Books
 
 - 97 Things every Engineering Manager should know - Camille Fournier

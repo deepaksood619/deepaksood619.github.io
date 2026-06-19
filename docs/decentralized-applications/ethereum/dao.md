@@ -1,13 +1,10 @@
 ---
 slug: /decentralized-applications/ethereum/dao
 title: DAO
-description: Discover the DAO, a decentralized autonomous organization on Ethereum,
-  which faced a major vulnerability leading to a historic hard fork and raised $150
-  million in crowdfunding.
-created: '2023-07-24'
-last_update: '2024-04-13'
+description: Discover the DAO, a decentralized autonomous organization on Ethereum, which faced a major vulnerability leading to a historic hard fork and raised $150 million in crowdfunding.
+created: 2023-07-24
+last_update: 2024-04-13
 ---
-
 - **DAO - Decentralized Autonomous Organization**
 - Governance implemented in Ethereum smart contracts. **Code is Law**, etc
 - Own token: DAO

@@ -1,14 +1,10 @@
 ---
 slug: /python/documentation/10-functional-programming-modules
 title: Exploring Python Functional Programming Modules
-description: Discover Python's itertools, functools, and operator modules for efficient
-  looping and higher-order functions.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Discover Python's itertools, functools, and operator modules for efficient looping and higher-order functions.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# 10. Functional Programming Modules
-
 10.1. itertools - Functions creating iterators for efficient looping
 
 10.2. functools - Higher order functions and operations on callable objects

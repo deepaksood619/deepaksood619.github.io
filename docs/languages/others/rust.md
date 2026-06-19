@@ -1,12 +1,10 @@
 ---
 slug: /languages/others/rust
 title: Rust
-description: Discover Rust, a multi-paradigm system programming language that prioritizes
-  memory safety and performance, making concurrency safe and efficient.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Discover Rust, a multi-paradigm system programming language that prioritizes memory safety and performance, making concurrency safe and efficient.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
 Rust is a [multi-paradigm](https://en.wikipedia.org/wiki/Multi-paradigm_programming_language)[system programming language](https://en.wikipedia.org/wiki/System_programming_language) focused on safety, especially safe [concurrency](https://en.wikipedia.org/wiki/Concurrency_(computer_science)).Rust is [syntactically](https://en.wikipedia.org/wiki/Syntax_(programming_languages)) similar to [C++](https://en.wikipedia.org/wiki/C%2B%2B), but is designed to provide better [memory safety](https://en.wikipedia.org/wiki/Memory_safety) while maintaining high [performance](https://en.wikipedia.org/wiki/Performance_(Computer)).
 
 Rust was originally designed by Graydon Hoare at [Mozilla](https://en.wikipedia.org/wiki/Mozilla) Research, with contributions from Dave Herman, [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich), and others.The designers refined the language while writing the [Servo](https://en.wikipedia.org/wiki/Servo_(layout_engine)) layout or [browser engine](https://en.wikipedia.org/wiki/Browser_engine), and the Rust [compiler](https://en.wikipedia.org/wiki/Compiler). The compiler is [free and open-source software](https://en.wikipedia.org/wiki/Free_and_open-source_software)[dual-licensed](https://en.wikipedia.org/wiki/Multi-licensing) under the [MIT License](https://en.wikipedia.org/wiki/MIT_License) and [Apache License 2.0](https://en.wikipedia.org/wiki/Apache_License_2.0).

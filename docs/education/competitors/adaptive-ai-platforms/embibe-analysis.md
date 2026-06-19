@@ -1,13 +1,10 @@
 ---
 slug: /education/competitors/adaptive-ai-platforms/embibe-analysis
 title: Embibe Company Analysis 2025
-description: Explore Embibe's evolution, its merger with Jio Platforms, and its mission
-  to personalize education using AI.
-created: '2026-06-07'
-last_update: '2026-06-08'
+description: Explore Embibe's evolution, its merger with Jio Platforms, and its mission to personalize education using AI.
+created: 2026-06-07
+last_update: 2026-06-08
 ---
-
-
 ## Company Overview
 
 - **Founded:** 2012

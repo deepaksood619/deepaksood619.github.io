@@ -1,13 +1,10 @@
 ---
 slug: /book-summaries/science/the-life-you-can-save
 title: The life you can save
-description: Discover how to effectively combat world poverty through ethical giving,
-  community-based solutions, and promoting a culture of generosity with Peter Singer's
-  insights.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover how to effectively combat world poverty through ethical giving, community-based solutions, and promoting a culture of generosity with Peter Singer's insights.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Peter Singer
 
 **How to do you part to end world poverty**

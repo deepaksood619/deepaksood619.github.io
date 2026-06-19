@@ -1,12 +1,10 @@
 ---
 slug: /economics/corporate-finance/corporate-actions
 title: Corporate Actions
-description: Learn about corporate actions, including dividends, their declaration
-  and record dates, and how they affect shareholders and investments.
-created: '2023-03-05'
-last_update: '2025-11-01'
+description: Learn about corporate actions, including dividends, their declaration and record dates, and how they affect shareholders and investments.
+created: 2023-03-05
+last_update: 2025-11-01
 ---
-
 A corporate action is initiated by the board of directors and approved by the company's shareholders.
 
 ## Dividends

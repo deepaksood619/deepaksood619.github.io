@@ -1,14 +1,10 @@
 ---
 slug: /devops/terraform/commands
 title: Essential Terraform Commands Guide
-description: Discover essential Terraform commands for managing infrastructure, including
-  init, plan, apply, and destroy for effective workflow operations.
-created: '2023-03-05'
-last_update: '2026-02-19'
+description: Discover essential Terraform commands for managing infrastructure, including init, plan, apply, and destroy for effective workflow operations.
+created: 2023-03-05
+last_update: 2026-02-19
 ---
-
-# Commands
-
 `Usage: terraform [-version] [-help] <command> [args]`
 
 The available commands for execution are listed below. The primary workflow commands are given first, followed by less common or more advanced commands.

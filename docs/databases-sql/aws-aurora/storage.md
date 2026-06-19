@@ -1,12 +1,10 @@
 ---
 slug: /databases-sql/aws-aurora/storage
 title: Storage
-description: Discover how Amazon Aurora storage works, its cost structure, and automatic
-  scalability to enhance your database performance effortlessly.
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Discover how Amazon Aurora storage works, its cost structure, and automatic scalability to enhance your database performance effortlessly.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
 [AWS re:Invent 2019: [REPEAT 1] Amazon Aurora storage demystified: How it all works (DAT309-R1)](https://www.youtube.com/watch?v=DrtwAOND1Pc)
 
 [Amazon Aurora storage and reliability - Amazon Aurora](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Overview.StorageReliability.html)

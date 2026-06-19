@@ -1,12 +1,10 @@
 ---
 slug: /economics/investment-products/equity-funds/index-investing-etf
 title: Index Investing / ETF
-description: Discover the advantages of index investing and ETFs, including factor-based
-  and multi-factor indices that blend active stock selection with passive strategies.
-created: '2023-08-11'
-last_update: '2026-06-13'
+description: Discover the advantages of index investing and ETFs, including factor-based and multi-factor indices that blend active stock selection with passive strategies.
+created: 2023-08-11
+last_update: 2026-06-13
 ---
-
 ## What is a factor-based index?
 
 An index created by active stock selection using conditions such as low volatility, momentum, alpha, quality, value etc. and not market capitalization is called a factor index. Stocks in the index are weighted using these factors -- for eg. lower volatility stock has a higher weight. So this combines active stock-picking -- quantitative, rule-based -with passive investing (if an ETF or index fund follows this index).

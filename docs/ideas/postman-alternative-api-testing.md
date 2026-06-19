@@ -1,12 +1,10 @@
 ---
 slug: /ideas/postman-alternative-api-testing
 title: Lightweight Postman Alternatives for API Testing
-description: Explore open-source API testing tools that provide essential features
-  without the cost and complexity of Postman.
-created: '2026-05-02'
-last_update: '2026-05-23'
+description: Explore open-source API testing tools that provide essential features without the cost and complexity of Postman.
+created: 2026-05-02
+last_update: 2026-05-23
 ---
-
 ## Problem Statement
 
 Developers using API testing tools face:

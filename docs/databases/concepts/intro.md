@@ -1,14 +1,10 @@
 ---
 slug: /databases/concepts/intro
 title: Understanding Database Selection and Transactions
-description: Explore key factors for choosing a database and learn about transaction
-  management in DBMS for optimal performance.
-created: '2023-03-05'
-last_update: '2026-01-10'
+description: Explore key factors for choosing a database and learn about transaction management in DBMS for optimal performance.
+created: 2023-03-05
+last_update: 2026-01-10
 ---
-
-# Intro
-
 ## Choosing the Database
 
 1. Instant performance (respond in less than 1ms)

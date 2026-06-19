@@ -1,14 +1,10 @@
 ---
 slug: /technologies/celery/workers
 title: Understanding Celery Workers
-description: Learn how Celery workers manage task execution pools for optimal performance
-  and concurrency in task processing.
-created: '2023-03-05'
-last_update: '2024-12-12'
+description: Learn how Celery workers manage task execution pools for optimal performance and concurrency in task processing.
+created: 2023-03-05
+last_update: 2024-12-12
 ---
-
-# Workers
-
 ## The Celery worker
 
 When you start a Celery worker on the command line via celery --app=..., you just start a supervisor process. The Celery worker itself does not process any tasks. It spawns child processes (or threads) and deals with all the book keeping stuff. The child processes (or threads) execute the actual tasks. These child processes (or threads) are also known as the execution pool.

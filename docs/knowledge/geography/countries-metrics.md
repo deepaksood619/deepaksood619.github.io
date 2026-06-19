@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/geography/countries-metrics
 title: Country / Countries Metrics
-description: Explore key metrics on countries, including life expectancy, healthcare
-  spending, crime rates, education quality, and economic factors for informed comparisons.
-created: '2026-03-11'
-last_update: '2026-05-28'
+description: Explore key metrics on countries, including life expectancy, healthcare spending, crime rates, education quality, and economic factors for informed comparisons.
+created: 2026-03-11
+last_update: 2026-05-28
 ---
-
 - Maximum life expectancy (if no accident or anything like that) vs life expectancy
 - Population Density
 - Spending on healthcare

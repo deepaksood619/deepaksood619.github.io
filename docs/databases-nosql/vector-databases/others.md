@@ -1,12 +1,10 @@
 ---
 slug: /databases-nosql/vector-databases/others
 title: Others
-description: Discover Elasticsearch, a powerful and scalable search engine for analyzing
-  large data volumes quickly, with rich querying and broad community support.
-created: '2025-06-23'
-last_update: '2025-08-28'
+description: Discover Elasticsearch, a powerful and scalable search engine for analyzing large data volumes quickly, with rich querying and broad community support.
+created: 2025-06-23
+last_update: 2025-08-28
 ---
-
 ## ElasticSearch
 
 a powerful search and analytics engine based on Apache Lucene. It's mainly used to store, search, and analyze large volumes of data quickly and in near real-time. Think of it as a super-fast, intelligent database specifically built to search through text, logs, documents, or even vector data.

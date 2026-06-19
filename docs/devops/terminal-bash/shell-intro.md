@@ -1,14 +1,10 @@
 ---
 slug: /devops/terminal-bash/shell-intro
 title: Introduction to Shell Interfaces
-description: Learn about shell environments in UNIX, including different types of
-  shells and their commands for executing programs.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Learn about shell environments in UNIX, including different types of shells and their commands for executing programs.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Shell - Intro
-
 ## Shell
 
 The shell provides you with an interface to the UNIX system. It gathers input from you and executes programs based on that input. When a program finishes executing, it displays that program's output.

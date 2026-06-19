@@ -1,12 +1,10 @@
 ---
 slug: /economics/taxation/taxation-domestic
 title: Taxation Domestic
-description: Discover essential strategies for domestic taxation, including capital
-  gains, tax loss harvesting, and optimizing your investments for maximum returns.
-created: '2025-02-05'
-last_update: '2026-06-09'
+description: Discover essential strategies for domestic taxation, including capital gains, tax loss harvesting, and optimizing your investments for maximum returns.
+created: 2025-02-05
+last_update: 2026-06-09
 ---
-
 [Capital Gains Taxation Rules Ready Reckoner](https://freefincal.com/capital-gains-taxation-rules-ready-reckoner/)
 
 ## LTCG / Tax Loss Harvesting

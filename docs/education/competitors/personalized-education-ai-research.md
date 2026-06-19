@@ -1,14 +1,10 @@
 ---
 slug: /education/competitors/personalized-education-ai-research
 title: AI-Driven Personalized Education Research
-description: Explore how AI transforms education through adaptive learning platforms
-  and dynamic assessments for hyper-personalized learning experiences.
-created: '2026-06-07'
-last_update: '2026-06-11'
+description: Explore how AI transforms education through adaptive learning platforms and dynamic assessments for hyper-personalized learning experiences.
+created: 2026-06-07
+last_update: 2026-06-11
 ---
-
-# Personalized Education AI Research
-
 **The Architecture of Personalized Education: An Exhaustive Analysis of AI-Driven Adaptive Learning and Dynamic Assessment Platforms**
 
 ## Introduction to the Paradigm of Algorithmic Tutelage

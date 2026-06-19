@@ -1,14 +1,10 @@
 ---
 slug: /management/product-management/product-market-fit-pmf
 title: Achieving Product Market Fit Successfully
-description: Learn essential strategies to achieve Product Market Fit and avoid common
-  pitfalls faced by startups and organizations.
-created: '2023-03-29'
-last_update: '2024-12-19'
+description: Learn essential strategies to achieve Product Market Fit and avoid common pitfalls faced by startups and organizations.
+created: 2023-03-29
+last_update: 2024-12-19
 ---
-
-# Product Market Fit (PMF)
-
 Finding product/market fit is the main objective of all new products. However, it's crucial to acknowledge that according to Harvard studies, the majority of startups and established organizations fail to achieve PMF. To ensure that we don't fall into the same trap with our product, or to achieve PMF quickly and efficiently, we need to take a purposeful approach. This means proactively addressing the six most common dimensions where new products fail and comprehensively focusing on all critical steps that ladder up to building a successful product.
 
 1. Problem to solve

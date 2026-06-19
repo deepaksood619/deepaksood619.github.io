@@ -1,14 +1,10 @@
 ---
 slug: /about-deepak-sood/projects/51-case-study-anomaly-detection
 title: Anomaly Detection Using Isolation Forest
-description: Explore how Isolation Forest detects anomalies in metric data, ensuring
-  data integrity and accurate predictions.
-created: '2024-07-17'
-last_update: '2025-02-14'
+description: Explore how Isolation Forest detects anomalies in metric data, ensuring data integrity and accurate predictions.
+created: 2024-07-17
+last_update: 2025-02-14
 ---
-
-# Case Study: Anomaly Detection in Metric Data using Isolation Forest
-
 ## Introduction
 
 In the realm of data analytics, detecting anomalies is crucial for maintaining the integrity of datasets and ensuring accurate predictions. Anomalies, or outliers, are data points that deviate significantly from the majority of the data and can indicate critical issues such as errors, fraud, or changes in a process. This case study demonstrates the application of Isolation Forest, an unsupervised machine learning algorithm, to detect anomalies in metric data.

@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/software-engineering/technical-debt
 title: Understanding Technical Debt in Software
-description: Explore technical debt concepts, symptoms of low code health, and strategies
-  for maintaining software quality and adaptability.
-created: '2023-03-05'
-last_update: '2025-02-14'
+description: Explore technical debt concepts, symptoms of low code health, and strategies for maintaining software quality and adaptability.
+created: 2023-03-05
+last_update: 2025-02-14
 ---
-
-# Technical Debt
-
 ## Lehman's Laws of Software Evolution
 
 ### Continuing Change

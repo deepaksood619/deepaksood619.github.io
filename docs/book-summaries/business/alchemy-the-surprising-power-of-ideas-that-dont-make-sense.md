@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/business/alchemy-the-surprising-power-of-ideas-that-dont-make-sense
-title: 'Alchemy: The Surprising Power of Ideas That Don''t Make Sense'
-description: Discover Rory Sutherland's insights in "Alchemy," exploring the power
-  of irrational ideas and "psycho-logic" in decision-making for brilliant outcomes.
-created: '2026-06-18'
-last_update: '2026-06-18'
+title: "Alchemy: The Surprising Power of Ideas That Don't Make Sense"
+description: Discover Rory Sutherland's insights in "Alchemy," exploring the power of irrational ideas and "psycho-logic" in decision-making for brilliant outcomes.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 Book by Rory Sutherland
 
 "To be brilliant, you have to be irrational."- Rory Sutherland

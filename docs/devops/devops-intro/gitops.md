@@ -1,14 +1,10 @@
 ---
 slug: /devops/devops-intro/gitops
 title: Understanding GitOps for Continuous Deployment
-description: Explore GitOps, a powerful approach to automate continuous deployment
-  for cloud native applications using familiar tools like Git.
-created: '2024-01-19'
-last_update: '2025-02-14'
+description: Explore GitOps, a powerful approach to automate continuous deployment for cloud native applications using familiar tools like Git.
+created: 2024-01-19
+last_update: 2025-02-14
 ---
-
-# GitOps
-
 GitOps is a way of implementing Continuous Deployment for cloud native applications. It focuses on a developer-centric experience when operating infrastructure, by using tools developers are already familiar with, including Git and Continuous Deployment tools.
 
 The core idea of GitOps is having a Git repository that always contains declarative descriptions of the infrastructure currently desired in the production environment and an automated process to make the production environment match the described state in the repository. If you want to deploy a new application or update an existing one, you only need to update the repository - the automated process handles everything else. It's like having cruise control for managing your applications in production

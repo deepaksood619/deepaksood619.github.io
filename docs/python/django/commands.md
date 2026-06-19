@@ -1,14 +1,10 @@
 ---
 slug: /python/django/commands
 title: Essential Django Commands Guide
-description: Explore key Django commands for project setup, development, and testing
-  in this comprehensive cheat sheet for Python developers.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore key Django commands for project setup, development, and testing in this comprehensive cheat sheet for Python developers.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Commands
-
 ```python
 python -m django --version
 

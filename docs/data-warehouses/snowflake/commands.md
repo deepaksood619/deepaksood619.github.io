@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/snowflake/commands
 title: Using SnowSQL Commands Guide
-description: Learn how to effectively use SnowSQL commands for executing SQL queries
-  and managing Snowflake database operations.
-created: '2024-01-04'
-last_update: '2025-06-10'
+description: Learn how to effectively use SnowSQL commands for executing SQL queries and managing Snowflake database operations.
+created: 2024-01-04
+last_update: 2025-06-10
 ---
-
-# Commands
-
 ## SnowSQL (CLI Client)
 
 SnowSQL is the command line client for connecting to Snowflake to execute SQL queries and perform all DDL and DML operations, including loading data into and unloading data out of database tables.

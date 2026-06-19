@@ -1,14 +1,10 @@
 ---
 slug: /psychology/soft-skills/listening
 title: Mastering the Art of Listening
-description: Discover essential listening techniques to enhance communication and
-  build deeper connections with others.
-created: '2023-03-05'
-last_update: '2026-03-11'
+description: Discover essential listening techniques to enhance communication and build deeper connections with others.
+created: 2023-03-05
+last_update: 2026-03-11
 ---
-
-# Listening
-
 When we listen, we hear someone into existence -- Laurie Buchanan, PhD
 
 You want to show the other person that you can step inside their world and see their experience from their point of view. - Patrick King

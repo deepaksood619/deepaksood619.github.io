@@ -1,12 +1,10 @@
 ---
 slug: /cloud/aws/networking-content-delivery/intro
 title: Networking and Content Delivery
-description: Explore AWS networking solutions like VPC, PrivateLink, and CloudFront
-  for secure connectivity and efficient global content delivery.
-created: '2023-03-05'
-last_update: '2025-11-14'
+description: Explore AWS networking solutions like VPC, PrivateLink, and CloudFront for secure connectivity and efficient global content delivery.
+created: 2023-03-05
+last_update: 2025-11-14
 ---
-
 ## 1. Amazon VPC - Isolated Cloud Resources
 
 ## 2. AWS PrivateLink

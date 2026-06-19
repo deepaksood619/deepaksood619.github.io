@@ -1,13 +1,10 @@
 ---
 slug: /ai/data-visualization/tableau/architecture-components
 title: Architecture and Components
-description: Explore the architecture and key components of Tableau Server, including
-  Data Connectors, Application Server, and Gateway, for enhanced data visualization
-  management.
-created: '2023-07-14'
-last_update: '2025-05-25'
+description: Explore the architecture and key components of Tableau Server, including Data Connectors, Application Server, and Gateway, for enhanced data visualization management.
+created: 2023-07-14
+last_update: 2025-05-25
 ---
-
 - Tableau Server Architecture
 - Data Server
 - Data Connectors

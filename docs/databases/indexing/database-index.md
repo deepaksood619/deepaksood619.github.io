@@ -1,14 +1,10 @@
 ---
 slug: /databases/indexing/database-index
 title: Understanding Database Indexing
-description: Learn how database indexes enhance data retrieval speed while managing
-  storage efficiency.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Learn how database indexes enhance data retrieval speed while managing storage efficiency.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Database Index
-
 A database index is a [data structure](https://en.wikipedia.org/wiki/Data_structure) that improves the speed of data retrieval operations on a [database table](https://en.wikipedia.org/wiki/Table_(database)) at the cost of additional writes and storage space to maintain the index data structure. Indexes are used to quickly locate data without having to search every row in a database table every time a database table is accessed. Indexes can be created using one or more [columns of a database table](https://en.wikipedia.org/wiki/Column_(database)), providing the basis for both rapid random [lookups](https://en.wikipedia.org/wiki/Lookup) and efficient access of ordered records.
 
 An index is a copy of selected columns of data from a table that can be searched very efficiently that also includes a low-level disk block address or direct link to the complete row of data it was copied from. Some databases extend the power of indexing by letting developers create indexes on functions or [expressions](https://en.wikipedia.org/wiki/Expression_(programming)). For example, an index could be created on upper(last_name), which would only store the upper-case versions of the last_name field in the index. Another option sometimes supported is the use of [partial indices](https://en.wikipedia.org/wiki/Partial_index), where index entries are created only for those records that satisfy some conditional expression. A further aspect of flexibility is to permit indexing on [user-defined functions](https://en.wikipedia.org/wiki/User-defined_function), as well as expressions formed from an assortment of built-in functions.

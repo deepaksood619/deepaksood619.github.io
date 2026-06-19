@@ -1,14 +1,10 @@
 ---
 slug: /data-structures/trie/readme
 title: Comprehensive Guide to Tries
-description: Explore various types of tries, including standard, compressed, and suffix
-  trees, along with related questions and resources.
-created: '2023-03-05'
-last_update: '2023-07-10'
+description: Explore various types of tries, including standard, compressed, and suffix trees, along with related questions and resources.
+created: 2023-03-05
+last_update: 2023-07-10
 ---
-
-# Trie
-
 - [Standard Trie](standard-trie)
 - [Compressed Trie](compressed-trie)
 - [R-way Tries](r-way-tries)

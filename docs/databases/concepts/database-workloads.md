@@ -1,14 +1,10 @@
 ---
 slug: /databases/concepts/database-workloads
 title: Understanding Database Workloads
-description: Explore OLTP and OLAP database workloads, their characteristics, and
-  how they impact transaction processing and data analysis.
-created: '2023-03-05'
-last_update: '2024-06-23'
+description: Explore OLTP and OLAP database workloads, their characteristics, and how they impact transaction processing and data analysis.
+created: 2023-03-05
+last_update: 2024-06-23
 ---
-
-# Database Workloads
-
 ## OLTP (On-line Transaction Processing)
 
 Transactions

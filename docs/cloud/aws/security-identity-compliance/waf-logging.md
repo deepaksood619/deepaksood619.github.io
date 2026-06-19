@@ -1,12 +1,10 @@
 ---
 slug: /cloud/aws/security-identity-compliance/waf-logging
 title: WAF Logging
-description: Enable AWS WAF logging to capture detailed web request data and send
-  logs to CloudWatch, S3, or Firehose for enhanced security and analysis.
-created: '2025-11-09'
-last_update: '2026-03-27'
+description: Enable AWS WAF logging to capture detailed web request data and send logs to CloudWatch, S3, or Firehose for enhanced security and analysis.
+created: 2025-11-09
+last_update: 2026-03-27
 ---
-
 You can enable logging to get detailed information about traffic that is analyzed by your web ACL. Logged information includes the time that AWS WAF received a web request from your AWS resource, detailed information about the request, and details about the rules that the request matched.
 
 You can send protection pack (web ACL) logs to

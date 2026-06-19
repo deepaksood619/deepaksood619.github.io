@@ -1,14 +1,10 @@
 ---
 slug: /psychology/soft-skills/disagreement-feedback
 title: Mastering Disagreement and Feedback
-description: Learn effective techniques for giving and receiving feedback, and how
-  to handle disagreements productively.
-created: '2023-03-05'
-last_update: '2025-02-14'
+description: Learn effective techniques for giving and receiving feedback, and how to handle disagreements productively.
+created: 2023-03-05
+last_update: 2025-02-14
 ---
-
-# Disagreement / Feedback
-
 ## Giving Feedback
 
 ![How to give feedback](../../media/Screenshot%202023-03-17%20at%203.16.48%20PM.jpg)

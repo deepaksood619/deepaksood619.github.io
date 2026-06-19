@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/databricks/20-delta-live-tables
 title: Delta Live Tables Overview
-description: Discover Delta Live Tables, a framework for building reliable data processing
-  pipelines with automated orchestration and data quality management.
-created: '2023-03-20'
-last_update: '2025-06-10'
+description: Discover Delta Live Tables, a framework for building reliable data processing pipelines with automated orchestration and data quality management.
+created: 2023-03-20
+last_update: 2025-06-10
 ---
-
-# Delta Live Tables
-
 Delta Live Tables is a declarative framework for building reliable, maintainable, and testable data processing pipelines. You define the transformations to perform on your data and Delta Live Tables manages task orchestration, cluster management, monitoring, data quality, and error handling.
 
 Instead of defining your data pipelines using a series of separate Apache Spark tasks, you define streaming tables and materialized views that the system should create and keep up to date. Delta Live Tables manages how your data is transformed based on queries you define for each processing step. You can also enforce data quality with Delta Live Tables _expectations_, which allow you to define expected data quality and specify how to handle records that fail those expectations.

@@ -1,14 +1,10 @@
 ---
 slug: /management/people-management/leadership-interview-questions
 title: Essential Leadership Interview Questions
-description: Discover key interview questions to assess leadership skills and capabilities
-  for successful team management.
-created: '2023-11-23'
-last_update: '2023-11-23'
+description: Discover key interview questions to assess leadership skills and capabilities for successful team management.
+created: 2023-11-23
+last_update: 2023-11-23
 ---
-
-# Leadership Interview Questions
-
 ### Can you tell me about a time when you demonstrated leadership capabilities on the job?
 
 While I was working for my last employer, I was given a special project to oversee. It was my responsibility to ensure it was a success, including coordinating the work of other team members. To keep things on target, I scheduled a strategy meeting to divvy up duties and create a timeline. While also working through my tasks, I reached out regularly to monitor the team's progress, offering guidance and support as necessary to ensure everyone stayed motivated and that deadlines would be met. Ultimately, the project was a success, finishing on time and with all deliverables meeting or exceeding expectations.

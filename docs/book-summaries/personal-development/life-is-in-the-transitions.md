@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/personal-development/life-is-in-the-transitions
 title: Life is in the Transitions
-description: Explore how to master life transitions and navigate disruptive events,
-  turning challenges into meaningful opportunities for growth and connection.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Explore how to master life transitions and navigate disruptive events, turning challenges into meaningful opportunities for growth and connection.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 Mastering Change at Any Age By Bruce Feiler
 
 - What shape has your life story taken?

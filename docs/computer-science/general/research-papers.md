@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/general/research-papers
 title: Comprehensive Research Papers on Distributed Systems
-description: Explore insightful research papers on distributed systems, databases,
-  and architectures from industry leaders like Amazon, Google, and Facebook.
-created: '2024-06-05'
-last_update: '2024-06-06'
+description: Explore insightful research papers on distributed systems, databases, and architectures from industry leaders like Amazon, Google, and Facebook.
+created: 2024-06-05
+last_update: 2024-06-06
 ---
-
-# Research Papers
-
 1. Dynamo - Amazon’s Highly Available Key Value Store
 2. Google File System: Insights into a highly scalable file system
 3. Scaling Memcached at Facebook: A look at the complexities of Caching

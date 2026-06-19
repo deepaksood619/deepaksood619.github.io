@@ -1,14 +1,10 @@
 ---
 slug: /devops/monitoring/istio/tasks
 title: Istio Traffic Management Overview
-description: Explore Istio's traffic management features and learn how to efficiently
-  control service traffic using Envoy proxies.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore Istio's traffic management features and learn how to efficiently control service traffic using Envoy proxies.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
-# Tasks
-
 ## Traffic Management
 
 Istio's traffic management model relies on theEnvoyproxies that are deployed along with your services. All traffic that your mesh services send and receive (data planetraffic) is proxied through Envoy, making it easy to direct and control traffic around your mesh without making any changes to your services.

@@ -1,14 +1,10 @@
 ---
 slug: /technologies/elasticsearch/architecture
 title: Understanding Elasticsearch Architecture
-description: Learn about Elasticsearch clusters and nodes, their roles, and how they
-  work together to manage data effectively.
-created: '2023-03-05'
-last_update: '2024-11-29'
+description: Learn about Elasticsearch clusters and nodes, their roles, and how they work together to manage data effectively.
+created: 2023-03-05
+last_update: 2024-11-29
 ---
-
-# Architecture
-
 ## Cluster and Node
 
 A node is a running instance of Elasticsearch, while a cluster consists of one or more nodes with the same cluster.name that are working together to share their data and workload. As nodes are added to or removed from the cluster, the cluster reorganizes itself to spread the data evenly.

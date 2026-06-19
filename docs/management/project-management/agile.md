@@ -1,14 +1,10 @@
 ---
 slug: /management/project-management/agile
 title: Agile Project Management Principles
-description: Discover agile project management principles that enable teams to deliver
-  value faster through iterative development and continuous adaptation to change.
-created: '2023-03-05'
-last_update: '2025-07-19'
+description: Discover agile project management principles that enable teams to deliver value faster through iterative development and continuous adaptation to change.
+created: 2023-03-05
+last_update: 2025-07-19
 ---
-
-# Agile
-
 https://www.atlassian.com/agile
 
 You cannot predict what happen in next 10 years, but if you are agile enough you can change accordingly

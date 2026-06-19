@@ -1,13 +1,10 @@
 ---
 slug: /cloud/gcp/gcp-anthos
 title: GCP Anthos
-description: Unlock efficient application modernization with GCP Anthos, enabling
-  seamless decoupling of infrastructure, teams, development, and security for enhanced
-  agility.
-created: '2023-03-05'
-last_update: '2025-11-09'
+description: Unlock efficient application modernization with GCP Anthos, enabling seamless decoupling of infrastructure, teams, development, and security for enhanced agility.
+created: 2023-03-05
+last_update: 2025-11-09
 ---
-
 Google has built Anthos (formerly known as Cloud Services Platform or CSP) to accelerate application modernization for SaaS providers, developers, IT operators and their end users. In order to balance developer agility, operational efficiency and platform governance, the Anthos framework enables decoupling across critical components:
 
 - Infrastructure is decoupled from the applications (via containers and Kubernetes)

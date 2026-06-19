@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/psychology/13-things-mentally-strong-people-dont-do
 title: 13 Things Mentally Strong People Don't Do
-description: Discover 13 things mentally strong people avoid, like self-pity and distraction,
-  to build resilience, embrace change, and foster personal growth.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover 13 things mentally strong people avoid, like self-pity and distraction, to build resilience, embrace change, and foster personal growth.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Amy Morin
 
 1. Replace self-pity with gratitude

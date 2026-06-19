@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/string-algorithms/brute-force
 title: Understanding Brute Force Attacks
-description: Learn about brute force attacks, their mechanisms, and how to protect
-  against them effectively.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Learn about brute force attacks, their mechanisms, and how to protect against them effectively.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
-# Brute Force
-
 ![image](../../media/Brute-Force-image1.jpg)
 
 ![image](../../media/Brute-Force-image2.jpg)

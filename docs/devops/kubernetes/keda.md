@@ -1,14 +1,10 @@
 ---
 slug: /devops/kubernetes/keda
-title: 'Introduction to KEDA: Event-Driven Autoscaling'
-description: Discover KEDA, a lightweight component for Kubernetes that enables event-driven
-  autoscaling alongside existing frameworks.
-created: '2024-05-31'
-last_update: '2026-03-27'
+title: "Introduction to KEDA: Event-Driven Autoscaling"
+description: Discover KEDA, a lightweight component for Kubernetes that enables event-driven autoscaling alongside existing frameworks.
+created: 2024-05-31
+last_update: 2026-03-27
 ---
-
-# KEDA
-
 Kubernetes Event-driven Autoscaling
 
 KEDA is a single-purpose and lightweight component that can be added into any Kubernetes cluster. KEDA works alongside standard Kubernetes components like the [Horizontal Pod Autoscaler](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/) and can extend functionality without overwriting or duplication. With KEDA you can explicitly map the apps you want to use event-driven scale, with other apps continuing to function. This makes KEDA a flexible and safe option to run alongside any number of any other Kubernetes applications or frameworks.

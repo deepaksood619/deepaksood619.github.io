@@ -1,12 +1,10 @@
 ---
 slug: /courses/course-time-series-analysis/intro-time-series
 title: Intro - Time Series
-description: Explore time series analysis with QQ-Plots, ACF, PACF, and more to assess
-  data distribution, seasonal decomposition, and model reliability.
-created: '2023-03-05'
-last_update: '2024-12-19'
+description: Explore time series analysis with QQ-Plots, ACF, PACF, and more to assess data distribution, seasonal decomposition, and model reliability.
+created: 2023-03-05
+last_update: 2024-12-19
 ---
-
 ### QQ-Plot (Quantile-Quantile Plot)
 
 - Used to determine whether a data set is distributed a certain way (To see if the values of a data set follow a given distribution?)

@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/operating-system/cpu-gpu-tpu
 title: Understanding CPU, GPU, and TPU Differences
-description: Explore the key differences between CPU, GPU, and TPU architectures for
-  efficient computing and faster neural network processing.
-created: '2023-03-05'
-last_update: '2026-05-04'
+description: Explore the key differences between CPU, GPU, and TPU architectures for efficient computing and faster neural network processing.
+created: 2023-03-05
+last_update: 2026-05-04
 ---
-
-# CPU | GPU | TPU
-
 MAC - Multiplier, Adder, Accumulator
 
 Tensor - n-dimensional array

@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/concepts/07-warehouse-schemas
 title: Essential Data Warehouse Schemas
-description: Explore key data warehouse schemas like Star, Snowflake, and Galaxy to
-  optimize analytical data modeling.
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Explore key data warehouse schemas like Star, Snowflake, and Galaxy to optimize analytical data modeling.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
-# Warehouse Schemas
-
 Multidimensional schema is especially designed to model data warehouse systems. The schemas are designed to address the unique needs of very large databases designed for the analytical purpose (OLAP).
 
 ## Types of Data Warehouse Schema

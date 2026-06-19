@@ -1,12 +1,10 @@
 ---
 slug: /technologies/confluent/platform-documentation
 title: Confluent Platform Documentation
-description: Explore the comprehensive Confluent Platform documentation for setup,
-  tutorials, and insights into Kafka and distributed data streaming.
-created: '2025-12-01'
-last_update: '2026-04-21'
+description: Explore the comprehensive Confluent Platform documentation for setup, tutorials, and insights into Kafka and distributed data streaming.
+created: 2025-12-01
+last_update: 2026-04-21
 ---
-
 [Confluent Platform \| Confluent Documentation](https://docs.confluent.io/platform/current/overview.html)
 
 - [Overview](https://docs.confluent.io/platform/current/overview.html)

@@ -1,13 +1,10 @@
 ---
 slug: /ai/ml-algorithms/linear-regression
 title: Linear regression
-description: Learn how linear regression predicts relationships between variables
-  using coefficients, optimizing models with techniques like least squares and gradient
-  descent.
-created: '2023-03-05'
-last_update: '2026-06-09'
+description: Learn how linear regression predicts relationships between variables using coefficients, optimizing models with techniques like least squares and gradient descent.
+created: 2023-03-05
+last_update: 2026-06-09
 ---
-
 Linear regressionis a method for finding the straight line or hyperplane that best fits a set of points
 
 The representation of linear regression is an equation that describes a line that best fits the relationship between the input variables (x) and the output variables (y), byfinding specific weightings for the input variables called coefficients (B).

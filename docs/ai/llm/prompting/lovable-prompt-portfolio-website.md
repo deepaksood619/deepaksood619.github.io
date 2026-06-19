@@ -1,12 +1,10 @@
 ---
 slug: /ai/llm/prompting/lovable-prompt-portfolio-website
 title: Lovable Prompt Portfolio Website
-description: Create a stunning offline portfolio website using React, showcasing your
-  work with sample content and hooks for future backend integration.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Create a stunning offline portfolio website using React, showcasing your work with sample content and hooks for future backend integration.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 https://lovable.dev/invite/3GWZN70
 
 ## Frontend

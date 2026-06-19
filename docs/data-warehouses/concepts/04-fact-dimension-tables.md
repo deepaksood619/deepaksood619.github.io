@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/concepts/04-fact-dimension-tables
 title: Understanding Fact and Dimension Tables
-description: Explore dimensional modeling concepts to optimize data warehouses for
-  analytics through fact and dimension tables.
-created: '2023-03-16'
-last_update: '2026-03-27'
+description: Explore dimensional modeling concepts to optimize data warehouses for analytics through fact and dimension tables.
+created: 2023-03-16
+last_update: 2026-03-27
 ---
-
-# Fact / Dimension Tables
-
 ## Dimensional Modeling?
 
 Dimensional modeling is a bottom-up approach to designing data warehouses in order to optimize them for analytics. Dimensional models are used to denormalize business data into **dimensions** (like time and product) and **facts** (like transactions in amounts and quantities), and different subject areas are connected via conformed dimensions to navigate to different fact tables.

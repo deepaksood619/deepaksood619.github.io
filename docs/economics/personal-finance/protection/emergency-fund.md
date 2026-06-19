@@ -1,12 +1,10 @@
 ---
 slug: /economics/personal-finance/protection/emergency-fund
 title: Emergency Fund Planning
-description: Plan your emergency fund to cover 3-12 months of essential expenses,
-  ensuring financial security during unexpected challenges and peace of mind.
-created: '2026-06-09'
-last_update: '2026-06-11'
+description: Plan your emergency fund to cover 3-12 months of essential expenses, ensuring financial security during unexpected challenges and peace of mind.
+created: 2026-06-09
+last_update: 2026-06-11
 ---
-
 **Category:** Personal Finance - Protection
 **Last Updated:** 2026-06-08
 

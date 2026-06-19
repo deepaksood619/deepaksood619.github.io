@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/history/jainism
 title: Jainsm
-description: 'Explore Jainism''s core principles: Ahimsa, Anekantavada, and Aparigraha,
-  promoting non-violence, tolerance, and non-attachment for spiritual growth.'
-created: '2026-06-12'
-last_update: '2026-06-16'
+description: Explore Jainism's core principles: Ahimsa, Anekantavada, and Aparigraha, promoting non-violence, tolerance, and non-attachment for spiritual growth.
+created: 2026-06-12
+last_update: 2026-06-16
 ---
-
 ## 1. The Three Core Pillars (The "Three A's")
 
 * **Ahimsa (Non-violence):** The supreme principle of Jainism. It goes far beyond not killing; it means minimizing intentional and unintentional harm to all living beings (humans, animals, insects, and even plants) in thought, word, and deed. This is why Jains are strictly vegetarian (often vegan) and avoid root vegetables like onions and potatoes (harvesting them kills the entire plant and micro-organisms).

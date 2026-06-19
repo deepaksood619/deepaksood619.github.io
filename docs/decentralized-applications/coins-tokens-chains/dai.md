@@ -1,13 +1,10 @@
 ---
 slug: /decentralized-applications/coins-tokens-chains/dai
 title: DAI
-description: Discover DAI, a decentralized stablecoin created through collateralized
-  debt positions (CDPs) within the MakerDAO ecosystem, ensuring secure and stable
-  transactions.
-created: '2023-07-23'
-last_update: '2025-02-14'
+description: Discover DAI, a decentralized stablecoin created through collateralized debt positions (CDPs) within the MakerDAO ecosystem, ensuring secure and stable transactions.
+created: 2023-07-23
+last_update: 2025-02-14
 ---
-
 Governed by the MakerDAO and Maker Protocol
 
 ## What Is a Collateralized Debt Position (CDP)?

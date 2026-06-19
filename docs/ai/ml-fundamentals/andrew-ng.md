@@ -1,12 +1,10 @@
 ---
 slug: /ai/ml-fundamentals/andrew-ng
 title: Andrew NG
-description: Explore Andrew NG's insights on linear regression, cost functions, and
-  the applications of Singular Value Decomposition in machine learning and statistics.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore Andrew NG's insights on linear regression, cost functions, and the applications of Singular Value Decomposition in machine learning and statistics.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
 ## Model and cost function
 
 1. Model representation - Linear regression using Training set

@@ -1,12 +1,10 @@
 ---
 slug: /databases-nosql/aws-dynamodb/working
 title: Working
-description: Learn how to calculate DynamoDB item sizes by understanding attribute
-  name lengths, data types, and encoding for efficient database management.
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Learn how to calculate DynamoDB item sizes by understanding attribute name lengths, data types, and encoding for efficient database management.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
 ## DynamoDB Item Sizes
 
 DynamoDB tables are schemaless, except for the primary key, so the items in a table can all have different attributes, sizes, and data types.

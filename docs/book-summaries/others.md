@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/others
 title: Others
-description: Explore insightful core messages from influential books on success, creativity,
-  and personal finance through engaging YouTube summaries and discussions.
-created: '2023-03-05'
-last_update: '2026-05-18'
+description: Explore insightful core messages from influential books on success, creativity, and personal finance through engaging YouTube summaries and discussions.
+created: 2023-03-05
+last_update: 2026-05-18
 ---
-
 - [THE LONG GAME by Dorie Clark | Core Message](https://www.youtube.com/watch?v=s5T-YLPTfiU)
 - [THE CREATIVE ACT by Rick Rubin | Core Message - YouTube](https://www.youtube.com/watch?v=eDwSiuTJ434)
 - [EXCELLENT ADVICE FOR LIVING by Kevin Kelly | Core Message - YouTube](https://www.youtube.com/watch?v=vywKzdaxXK8&ab_channel=ProductivityGame)

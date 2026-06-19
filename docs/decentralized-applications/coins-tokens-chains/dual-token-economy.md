@@ -1,13 +1,10 @@
 ---
 slug: /decentralized-applications/coins-tokens-chains/dual-token-economy
 title: Dual-Token Economy/Model
-description: Explore the dual-token economy model, where projects use two distinct
-  tokens for utility and security, enhancing usability and regulatory compliance in
-  blockchain.
-created: '2023-03-05'
-last_update: '2025-11-04'
+description: Explore the dual-token economy model, where projects use two distinct tokens for utility and security, enhancing usability and regulatory compliance in blockchain.
+created: 2023-03-05
+last_update: 2025-11-04
 ---
-
 ## Two-Token Economy
 
 In the world of blockchain, a dual-token economy or model means a project with two tokens, one of which is used for utility inside the network and the other one as security to raise funds for

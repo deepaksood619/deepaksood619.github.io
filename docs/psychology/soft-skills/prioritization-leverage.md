@@ -1,14 +1,10 @@
 ---
 slug: /psychology/soft-skills/prioritization-leverage
 title: Maximizing Prioritization and Leverage
-description: Discover how to focus on high-leverage tasks to amplify your impact and
-  productivity in both work and life.
-created: '2023-03-05'
-last_update: '2026-06-18'
+description: Discover how to focus on high-leverage tasks to amplify your impact and productivity in both work and life.
+created: 2023-03-05
+last_update: 2026-06-18
 ---
-
-# Prioritization / Leverage
-
 Many people work hard, but few people work on the highest and best thing.
 
 Usually, it takes no more effort to work on high leverage tasks than it does to work on low leverage ones.

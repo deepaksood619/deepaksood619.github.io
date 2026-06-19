@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/graphtheory/maximum-flow-and-minimum-cut
 title: Understanding Maximum Flow and Minimum Cut
-description: Explore the Maximum Flow and Minimum Cut concepts, algorithms, and their
-  applications in graph theory and network optimization.
-created: '2023-03-05'
-last_update: '2023-12-06'
+description: Explore the Maximum Flow and Minimum Cut concepts, algorithms, and their applications in graph theory and network optimization.
+created: 2023-03-05
+last_update: 2023-12-06
 ---
-
-# Maximum Flow and Minimum Cut
-
 1. Introduction to Maxflow
 2. Ford-Fulkerson Algorithm using the shortest augmenting path rule
 3. Maxflow-Mincut Theorem (bipartite matching & baseball elimination)

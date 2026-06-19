@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/other-topics/readme
 title: Other Topics
-description: Explore a wide range of topics including politics, environmental sciences,
-  philosophy, education, chemistry, and textiles to enhance your knowledge and understanding.
-created: '2024-12-18'
-last_update: '2026-06-07'
+description: Explore a wide range of topics including politics, environmental sciences, philosophy, education, chemistry, and textiles to enhance your knowledge and understanding.
+created: 2024-12-18
+last_update: 2026-06-07
 ---
-
 - [Politics](knowledge/other-topics/politics/readme.md)
     - [Types of Governments](knowledge/other-topics/politics/types-of-governments.md)
     - [Politics](knowledge/other-topics/politics/others.md)

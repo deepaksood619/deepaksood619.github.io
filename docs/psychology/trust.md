@@ -1,12 +1,10 @@
 ---
 slug: /psychology/trust
 title: Trust
-description: Explore the concept of trust, its ties to vulnerability and risk aversion,
-  and discover how generational factors shape trust levels in society.
-created: '2024-09-24'
-last_update: '2024-09-24'
+description: Explore the concept of trust, its ties to vulnerability and risk aversion, and discover how generational factors shape trust levels in society.
+created: 2024-09-24
+last_update: 2024-09-24
 ---
-
 Trust does not mean that others have to do things the way you expect them to. Trust means to become vulnerable.
 
 Trust involves vulnerability, which involves risk. So **Dispositional Trust,** is tied to an idea called **Risk Aversion**, or how much you avoid risks.

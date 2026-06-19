@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/security/authentication/ssl-tls-sasl
 title: Understanding SSL/TLS and SASL Security
-description: Learn about SSL/TLS and SASL cryptographic protocols that ensure secure
-  communications over networks for web browsing, email, and more.
-created: '2026-01-25'
-last_update: '2026-01-26'
+description: Learn about SSL/TLS and SASL cryptographic protocols that ensure secure communications over networks for web browsing, email, and more.
+created: 2026-01-25
+last_update: 2026-01-26
 ---
-
-# SSL/TLS / SASL
-
 ## SSL/TLS (Tranport Layer Security)
 
 Transport Layer Security (TLS), and its now-deprecated predecessor, Secure Sockets Layer(SSL), are [cryptographic protocols](https://en.wikipedia.org/wiki/Cryptographic_protocol) designed to provide [communications security](https://en.wikipedia.org/wiki/Communications_security) over a [computer network](https://en.wikipedia.org/wiki/Computer_network).Several versions of the protocols find widespread use in applications such as [web browsing](https://en.wikipedia.org/wiki/Web_navigation), [email](https://en.wikipedia.org/wiki/Email), [instant messaging](https://en.wikipedia.org/wiki/Instant_messaging), and [voice over IP](https://en.wikipedia.org/wiki/Voice_over_IP)(VoIP).[Websites](https://en.wikipedia.org/wiki/Website) can use TLS to secure all communications between their [servers](https://en.wikipedia.org/wiki/Server_(computing)) and [web browsers](https://en.wikipedia.org/wiki/Web_browser).

@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/programming-paradigms/behavioral-strategy
 title: Understanding Behavioral Strategy Pattern
-description: Explore the behavioral strategy pattern, its pros and cons, and how it
-  enables dynamic algorithm replacement in programming.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the behavioral strategy pattern, its pros and cons, and how it enables dynamic algorithm replacement in programming.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Behavioral - Strategy
-
 ![image](../../media/Behavioral-Strategy-image1.jpg)
 
 ![image](../../media/Behavioral-Strategy-image2.jpg)

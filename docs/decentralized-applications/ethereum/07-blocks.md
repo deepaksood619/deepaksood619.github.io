@@ -1,12 +1,10 @@
 ---
 slug: /decentralized-applications/ethereum/07-blocks
 title: Blocks
-description: Discover how blocks in Ethereum batch transactions to ensure synchronized
-  and secure blockchain records, preventing fraud through cryptographic linking.
-created: '2023-03-05'
-last_update: '2024-12-19'
+description: Discover how blocks in Ethereum batch transactions to ensure synchronized and secure blockchain records, preventing fraud through cryptographic linking.
+created: 2023-03-05
+last_update: 2024-12-19
 ---
-
 Blocks are batches of transactions with a hash of the previous block in the chain. This links blocks together (in a chain) because hashes are cryptographically derived from the block data. This prevents fraud, because one change in any block in history would invalidate all the following blocks as all subsequent hashes would change and everyone running the blockchain would notice.
 
 ## Why blocks?

@@ -1,12 +1,10 @@
 ---
 slug: /languages/java/questions
 title: Questions
-description: Explore essential Java concepts, design patterns, OOP principles, and
-  interview questions to enhance your programming skills and ace your next interview.
-created: '2023-03-05'
-last_update: '2024-04-10'
+description: Explore essential Java concepts, design patterns, OOP principles, and interview questions to enhance your programming skills and ace your next interview.
+created: 2023-03-05
+last_update: 2024-04-10
 ---
-
 ## Topics
 
 ### Java

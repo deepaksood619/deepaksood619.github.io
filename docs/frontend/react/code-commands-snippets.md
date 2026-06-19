@@ -1,14 +1,10 @@
 ---
 slug: /frontend/react/code-commands-snippets
 title: Understanding Dependencies and Commands in Code
-description: Explore the differences between dependencies, devDependencies, and peerDependencies
-  in code, along with essential commands for package management.
-created: '2023-03-05'
-last_update: '2023-11-20'
+description: Explore the differences between dependencies, devDependencies, and peerDependencies in code, along with essential commands for package management.
+created: 2023-03-05
+last_update: 2023-11-20
 ---
-
-# Code / Commands / Snippets
-
 dependencies are the packages your project depends on
 
 devDependencies are the packages that are needed during the development phase. Say a testing framework like [Jest](https://flaviocopes.com/jest/) or other utilities like [Babel](https://flaviocopes.com/babel/) or [ESLint](https://flaviocopes.com/eslint/)

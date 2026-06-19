@@ -1,14 +1,10 @@
 ---
 slug: /devops/kubernetes/helm
-title: 'Helm: Kubernetes Package Manager'
-description: Discover how Helm simplifies managing Kubernetes applications through
-  easy-to-use charts and streamlined deployment.
-created: '2023-03-05'
-last_update: '2026-03-27'
+title: "Helm: Kubernetes Package Manager"
+description: Discover how Helm simplifies managing Kubernetes applications through easy-to-use charts and streamlined deployment.
+created: 2023-03-05
+last_update: 2026-03-27
 ---
-
-# Helm
-
 ## The package manager for Kubernetes
 
 Helm is a tool for managing Kubernetes charts. Charts are packages of pre-configured Kubernetes resources.

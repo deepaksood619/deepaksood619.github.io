@@ -1,12 +1,10 @@
 ---
 slug: /ai/libraries/mlops-model-deployment
 title: MLOps / Model Deployment
-description: Discover MLOps and model deployment strategies for both offline and online
-  environments, optimizing predictions and enhancing data-driven decision-making.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Discover MLOps and model deployment strategies for both offline and online environments, optimizing predictions and enhancing data-driven decision-making.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
 ![image](../../media/ML-Model-Deployment-image1.jpg)
 
 ## Offline Deployment

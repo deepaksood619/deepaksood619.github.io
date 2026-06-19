@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/economics-finance/everyday-millionaires
 title: Everyday Millionaires
-description: Discover how ordinary people achieve extraordinary wealth by taking responsibility,
-  setting goals, and practicing intentionality with Chris Hogan's Everyday Millionaires.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover how ordinary people achieve extraordinary wealth by taking responsibility, setting goals, and practicing intentionality with Chris Hogan's Everyday Millionaires.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Chris Hogan
 
 How ordinary people build extraordinary wealth - and how you can too

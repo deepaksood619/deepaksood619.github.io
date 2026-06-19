@@ -1,13 +1,10 @@
 ---
 slug: /knowledge/biology/exercise-stretching/gym-nutrition
 title: GYM Nutrition
-description: Optimize your fitness with our comprehensive GYM Nutrition guide, featuring
-  essential proteins, meal plans, and effective supplements for muscle growth and
-  recovery.
-created: '2023-03-05'
-last_update: '2023-08-23'
+description: Optimize your fitness with our comprehensive GYM Nutrition guide, featuring essential proteins, meal plans, and effective supplements for muscle growth and recovery.
+created: 2023-03-05
+last_update: 2023-08-23
 ---
-
 ## Proteins
 
 - Eggs - 3 (breakfast) / 3 (evening snacks)

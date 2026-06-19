@@ -1,14 +1,10 @@
 ---
 slug: /about-deepak-sood/projects/42-document-data-extraction
 title: University Document Data Extraction
-description: Explore our comprehensive project for efficient document data extraction,
-  focusing on various formats and types for university records.
-created: '2025-01-10'
-last_update: '2025-01-10'
+description: Explore our comprehensive project for efficient document data extraction, focusing on various formats and types for university records.
+created: 2025-01-10
+last_update: 2025-01-10
 ---
-
-# Document Data Extraction
-
 Project of document data extraction for a university. Below are the questions that will help us understand the requirements more.
 
 ### 1. Types of Documents

@@ -1,14 +1,10 @@
 ---
 slug: /management/product-analytics/rfm-analysis
 title: Understanding RFM Analysis
-description: Discover how RFM analysis can enhance customer segmentation and drive
-  targeted marketing strategies for increased profitability.
-created: '2025-02-24'
-last_update: '2025-02-27'
+description: Discover how RFM analysis can enhance customer segmentation and drive targeted marketing strategies for increased profitability.
+created: 2025-02-24
+last_update: 2025-02-27
 ---
-
-# RFM Analysis
-
 Recency / Frequency / Monetary Value
 
 An RFM model is a customer segmentation technique that uses recency, frequency, and monetary value to categorize customers into groups. It's a data-driven way to understand customer behavior and predict future purchases.

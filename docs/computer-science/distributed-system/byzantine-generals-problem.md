@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/distributed-system/byzantine-generals-problem
 title: Understanding the Byzantine Generals' Problem
-description: Explore the Byzantine Generals' Problem and its implications for consensus
-  in distributed networks, ensuring resilience against faulty nodes.
-created: '2023-06-24'
-last_update: '2025-02-14'
+description: Explore the Byzantine Generals' Problem and its implications for consensus in distributed networks, ensuring resilience against faulty nodes.
+created: 2023-06-24
+last_update: 2025-02-14
 ---
-
-# Byzantine Generals' Problem
-
 ![image](../../media/Fallacies-and-Problems-image1.jpg)
 
 All participating nodes have to agree upon every message that is transmitted between the nodes. If a group of nodes is corrupt or the message that they transmit is corrupt then still the network as a whole should not be affected by it and should resist this 'Attack'. In short, the network in its entirety has to agree upon every message transmitted in the network. This agreement is called as **consensus**.

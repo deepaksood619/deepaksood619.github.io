@@ -1,14 +1,10 @@
 ---
 slug: /devops/kubernetes/outline-documentation
 title: Kubernetes Outline Documentation
-description: Explore detailed Kubernetes documentation covering components, objects,
-  architecture, and container management.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore detailed Kubernetes documentation covering components, objects, architecture, and container management.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
-# Outline Documentation
-
 1. Overview
 
    - What is kubernetes

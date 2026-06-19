@@ -1,14 +1,10 @@
 ---
 slug: /databases/concepts/readme
 title: Essential Database Concepts Overview
-description: Explore key database concepts including types, history, and concurrency
-  control for a comprehensive understanding.
-created: '2023-03-05'
-last_update: '2025-02-27'
+description: Explore key database concepts including types, history, and concurrency control for a comprehensive understanding.
+created: 2023-03-05
+last_update: 2025-02-27
 ---
-
-# Databases Concepts
-
 - [Intro](databases/concepts/intro.md)
 - [Types of Databases](types-of-databases)
 - [Comparisons](databases/concepts/comparisons.md)

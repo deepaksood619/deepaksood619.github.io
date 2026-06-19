@@ -1,14 +1,10 @@
 ---
 slug: /data-structures/trie/suffix-tree
 title: Understanding Suffix Trees in Computer Science
-description: Explore the concept of suffix trees, their construction, and their efficient
-  applications in string operations.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore the concept of suffix trees, their construction, and their efficient applications in string operations.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
-# Suffix Tree
-
 In [computer science](https://en.wikipedia.org/wiki/Computer_science), a suffix tree (also called PAT tree or, in an earlier form, position tree) is a compressed [trie](https://en.wikipedia.org/wiki/Trie) containing all the [suffixes](https://en.wikipedia.org/wiki/Suffix_(computer_science)) of the given text as their keys and positions in the text as their values. Suffix trees allow particularly fast implementations of many important string operations.
 
 The construction of such a tree for the string S takes time and space linear in the length of S. Once constructed, several operations can be performed quickly, for instance locating a [substring](https://en.wikipedia.org/wiki/Substring) in S, locating a substring if a certain number of mistakes are allowed, locating matches for a [regular expression](https://en.wikipedia.org/wiki/Regular_expression) pattern etc. Suffix trees also provide one of the first linear-time solutions for the [longest common substring problem](https://en.wikipedia.org/wiki/Longest_common_substring_problem). These speedups come at a cost: storing a string's suffix tree typically requires significantly more space than storing the string itself.

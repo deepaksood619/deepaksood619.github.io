@@ -1,12 +1,10 @@
 ---
 slug: /ai/data-science/intro
 title: Intro
-description: Explore essential steps in machine learning projects, including data
-  preparation, model evaluation, and predictive analytics for effective decision-making.
-created: '2023-03-05'
-last_update: '2025-12-10'
+description: Explore essential steps in machine learning projects, including data preparation, model evaluation, and predictive analytics for effective decision-making.
+created: 2023-03-05
+last_update: 2025-12-10
 ---
-
 1. Problem Framing
 2. Data Understanding
 3. Data Cleaning

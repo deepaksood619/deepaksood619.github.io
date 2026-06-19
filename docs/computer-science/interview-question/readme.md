@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/interview-question/readme
 title: Comprehensive Interview Questions Guide
-description: Explore our extensive collection of programming and database interview
-  questions across various languages and technologies.
-created: '2023-03-05'
-last_update: '2026-06-18'
+description: Explore our extensive collection of programming and database interview questions across various languages and technologies.
+created: 2023-03-05
+last_update: 2026-06-18
 ---
-
-# Interview Question
-
 - [Coding Interview Questions](coding-interview-questions)
 - Languages
 	- [Python - questions](python/python-intro/questions.md)

@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/algorithmic-complexity/computational-complexity-theory
 title: Understanding Computational Complexity Theory
-description: Explore computational complexity theory, which classifies problems by
-  difficulty and quantifies their complexity using mathematical models.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore computational complexity theory, which classifies problems by difficulty and quantifies their complexity using mathematical models.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Computational Complexity Theory
-
 Computational complexity theoryfocuses on classifying computational problems according to their inherent difficulty, and relating these classes to each other. A computational problem is a task solved by a computer. A computation problem is solvable by mechanical application of mathematical steps, such as an [algorithm](https://en.wikipedia.org/wiki/Algorithm).
 
 A problem is regarded as inherently difficult if its solution requires significant resources, whatever the algorithm used. The theory formalizes this intuition, by introducing mathematical [models of computation](https://en.wikipedia.org/wiki/Models_of_computation) to study these problems and quantifying their [computational complexity](https://en.wikipedia.org/wiki/Computational_complexity), i.e., the amount of resources needed to solve them, such as time and storage. Other measures of complexity are also used, such as the amount of communication (used in [communication complexity](https://en.wikipedia.org/wiki/Communication_complexity)), the number of [gates](https://en.wikipedia.org/wiki/Logic_gate) in a circuit (used in [circuit complexity](https://en.wikipedia.org/wiki/Circuit_complexity)) and the number of processors (used in [parallel computing](https://en.wikipedia.org/wiki/Parallel_computing)). One of the roles of computational complexity theory is to determine the practical limits on what computers can and cannot do. The [P versus NP problem](https://en.wikipedia.org/wiki/P_versus_NP_problem), one of the seven [Millennium Prize Problems](https://en.wikipedia.org/wiki/Millennium_Prize_Problems), is dedicated to the field of computational complexity.

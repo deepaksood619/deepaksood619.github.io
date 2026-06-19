@@ -1,12 +1,10 @@
 ---
 slug: /economics/personal-finance/protection/insurance-overview
 title: Insurance
-description: Explore essential insights on term insurance coverage, calculating needs
-  for inflation, and maximizing benefits for your loved ones.
-created: '2023-05-31'
-last_update: '2026-06-09'
+description: Explore essential insights on term insurance coverage, calculating needs for inflation, and maximizing benefits for your loved ones.
+created: 2023-05-31
+last_update: 2026-06-09
 ---
-
 ## Term Insurance
 
 How much cover is needed

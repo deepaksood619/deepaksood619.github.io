@@ -1,12 +1,10 @@
 ---
 slug: /economics/market-mechanics/market-structure/order-types
 title: Order Types
-description: Explore various order types such as market, limit, and stop loss orders
-  to optimize your trading strategy and manage risk effectively.
-created: '2025-02-24'
-last_update: '2026-06-09'
+description: Explore various order types such as market, limit, and stop loss orders to optimize your trading strategy and manage risk effectively.
+created: 2025-02-24
+last_update: 2026-06-09
 ---
-
 ### Market Order - No bargain, buy at market face value
 
 when you intend to buy at market available prices instead of a very specific price that you have in mind

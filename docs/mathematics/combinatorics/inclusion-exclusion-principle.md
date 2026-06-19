@@ -1,12 +1,10 @@
 ---
 slug: /mathematics/combinatorics/inclusion-exclusion-principle
 title: Inclusion-Exclusion Principle
-description: Explore the inclusion-exclusion principle, a vital combinatorial technique
-  for calculating the union of finite sets and their cardinalities effectively.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the inclusion-exclusion principle, a vital combinatorial technique for calculating the union of finite sets and their cardinalities effectively.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 In [combinatorics](https://en.wikipedia.org/wiki/Combinatorics)(combinatorial mathematics), the**inclusion--exclusion principle**is a counting technique which generalizes the familiar method of obtaining the number of elements in the [union](https://en.wikipedia.org/wiki/Union_(set_theory)) of two finite [sets](https://en.wikipedia.org/wiki/Set_(mathematics)); symbolically expressed as
 
 ![image](../../media/Inclusion-Exclusion-Principle-image1.jpg)

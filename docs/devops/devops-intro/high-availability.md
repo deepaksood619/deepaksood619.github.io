@@ -1,14 +1,10 @@
 ---
 slug: /devops/devops-intro/high-availability
 title: Understanding High Availability Concepts
-description: Explore the importance of high availability in digital applications and
-  its impact on user experience and business success.
-created: '2024-02-08'
-last_update: '2025-02-15'
+description: Explore the importance of high availability in digital applications and its impact on user experience and business success.
+created: 2024-02-08
+last_update: 2025-02-15
 ---
-
-# High Availability
-
 The concept of high availability originated in the 1960s and 1970s with early military and financial computing systems that needed to be reliable and fault tolerant.
 
 In the Internet age, there has been an explosion of digital applications for e-commerce, payments, delivery, finance, and more. Positive user experiences are crucial for business success. This escalated the need for systems with nearly 100% uptime to avoid losing thousands of users for even brief periods. For example, during a promotional flash sale event, just one minute of downtime could lead to complete failure and reputation damage.

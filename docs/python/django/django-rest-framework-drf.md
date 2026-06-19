@@ -1,14 +1,10 @@
 ---
 slug: /python/django/django-rest-framework-drf
 title: Django REST Framework Overview
-description: Discover Django REST framework's powerful features for building flexible
-  Web APIs, including serialization and authentication policies.
-created: '2023-03-05'
-last_update: '2025-04-20'
+description: Discover Django REST framework's powerful features for building flexible Web APIs, including serialization and authentication policies.
+created: 2023-03-05
+last_update: 2025-04-20
 ---
-
-# Django Rest Framework DRF
-
 Django REST framework is a powerful and flexible toolkit for building Web APIs.
 
 ## Features

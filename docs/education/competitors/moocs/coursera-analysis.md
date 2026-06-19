@@ -1,14 +1,10 @@
 ---
 slug: /education/competitors/moocs/coursera-analysis
-title: 'Coursera: Leader in MOOC & Enterprise Learning'
-description: Explore Coursera's extensive offerings, from MOOCs to enterprise solutions,
-  impacting 168M learners worldwide.
-created: '2026-05-04'
-last_update: '2026-06-08'
+title: "Coursera: Leader in MOOC & Enterprise Learning"
+description: Explore Coursera's extensive offerings, from MOOCs to enterprise solutions, impacting 168M learners worldwide.
+created: 2026-05-04
+last_update: 2026-06-08
 ---
-
-# Coursera - MOOC & Enterprise Learning Leader
-
 **Comprehensive Competitor Analysis**
 
 ---

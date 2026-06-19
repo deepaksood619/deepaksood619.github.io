@@ -1,14 +1,10 @@
 ---
 slug: /frontend/others/nodejs/readme
 title: Introduction to Node.js Overview
-description: Discover Node.js, the open-source JavaScript runtime for building server-side
-  applications and command line tools outside the browser.
-created: '2023-03-05'
-last_update: '2024-02-01'
+description: Discover Node.js, the open-source JavaScript runtime for building server-side applications and command line tools outside the browser.
+created: 2023-03-05
+last_update: 2024-02-01
 ---
-
-# Nodejs
-
 Node.js is an [open-source](https://en.wikipedia.org/wiki/Open-source_software), [cross-platform](https://en.wikipedia.org/wiki/Cross-platform)[JavaScript](https://en.wikipedia.org/wiki/JavaScript)[run-time environment](https://en.wikipedia.org/wiki/Runtime_system) that executes JavaScript code outside of a browser. JavaScript is used primarily for [client-side scripting](https://en.wikipedia.org/wiki/Client-side_scripting), in which scripts written in JavaScript are embedded in a webpage's HTML and run client-side by a JavaScript engine in the user's web browser. Node.js lets developers use JavaScript to write command line tools and for [server-side scripting](https://en.wikipedia.org/wiki/Server-side_scripting)-running scripts server-side to produce [dynamic web page](https://en.wikipedia.org/wiki/Dynamic_web_page) contentbeforethe page is sent to the user's web browser. Consequently, Node.js represents a "JavaScript everywhere" paradigm, unifying [web application](https://en.wikipedia.org/wiki/Web_application) development around a single programming language, rather than different languages for server side and client side scripts.
 
 Both your browser JavaScript and Node.js run on the V8 JavaScript runtime engine. This engine takes your JavaScript code and converts it into a faster machine code. Machine code is low-level code which the computer can run without needing to first interpret it.

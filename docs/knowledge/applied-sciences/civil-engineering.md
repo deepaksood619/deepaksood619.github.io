@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/applied-sciences/civil-engineering
 title: Civil Engineering
-description: Explore the fundamentals of civil engineering, from structural design
-  to sanitation, highlighting key figures and innovations that shaped the field.
-created: '2023-03-05'
-last_update: '2025-09-28'
+description: Explore the fundamentals of civil engineering, from structural design to sanitation, highlighting key figures and innovations that shaped the field.
+created: 2023-03-05
+last_update: 2025-09-28
 ---
-
 ## Civil Engineering
 
 - IMHOTEP - First engineering in Egypt

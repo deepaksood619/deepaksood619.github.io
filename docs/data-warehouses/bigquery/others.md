@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/bigquery/others
 title: Public Datasets Overview
-description: Explore diverse public datasets including ERA5 climate data, Sentinel-2
-  satellite imagery, and NEXRAD weather data.
-created: '2025-05-25'
-last_update: '2025-06-10'
+description: Explore diverse public datasets including ERA5 climate data, Sentinel-2 satellite imagery, and NEXRAD weather data.
+created: 2025-05-25
+last_update: 2025-06-10
 ---
-
-# Others
-
 ## Public Datasets
 
 - [ERA5](https://console.cloud.google.com/marketplace/product/bigquery-public-data/arco-era5): Datasets from the European Centre for Medium-Range Weather Forecasts (ECMWF) that provide worldwide, hourly estimates of numerous climate variables. Data available from 1940 to May 2023.

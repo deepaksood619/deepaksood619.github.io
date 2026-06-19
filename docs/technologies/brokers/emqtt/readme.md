@@ -1,14 +1,10 @@
 ---
 slug: /technologies/brokers/emqtt/readme
-title: 'EMQTT: Scalable MQTT Broker'
-description: Discover EMQTT, the open-source MQTT broker capable of handling tens
-  of millions of clients, ensuring scalability for IoT and M2M applications.
-created: '2023-03-05'
-last_update: '2023-12-05'
+title: "EMQTT: Scalable MQTT Broker"
+description: Discover EMQTT, the open-source MQTT broker capable of handling tens of millions of clients, ensuring scalability for IoT and M2M applications.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# EMQTT
-
 *EMQ X*broker is a fully open source, distributed, highly scalable, highly extensible, highly available distributed MQTT messaging broker for IoT, M2M and Mobile applications that can handle tens of millions of concurrent clients.
 
 Written in Erlang/OTP.

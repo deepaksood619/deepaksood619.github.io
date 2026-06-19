@@ -1,13 +1,10 @@
 ---
 slug: /decentralized-applications/development/readme
 title: Development Tools
-description: Discover essential development tools like Infura and Ganache for efficient,
-  fast, and safe Ethereum application development with advanced features and local
-  blockchain simulation.
-created: '2023-03-05'
-last_update: '2026-04-28'
+description: Discover essential development tools like Infura and Ganache for efficient, fast, and safe Ethereum application development with advanced features and local blockchain simulation.
+created: 2023-03-05
+last_update: 2026-04-28
 ---
-
 - [Infura](decentralized-applications/development/infura.md)
 - [Sample Code](decentralized-applications/development/sample-code.md)
 

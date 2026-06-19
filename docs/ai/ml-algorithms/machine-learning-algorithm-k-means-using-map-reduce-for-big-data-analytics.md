@@ -1,12 +1,10 @@
 ---
 slug: /ai/ml-algorithms/machine-learning-algorithm-k-means-using-map-reduce-for-big-data-analytics
 title: Machine Learning Algorithm K-means using Map Reduce for Big Data Analytics
-description: Discover how to leverage the K-means machine learning algorithm with
-  Map Reduce for effective big data analytics and insightful cluster analysis.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Discover how to leverage the K-means machine learning algorithm with Map Reduce for effective big data analytics and insightful cluster analysis.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
 ## Preface
 
 - In this lecture, we will discuss machine learning classification algorithm k-means using mapreduce for big data analytics

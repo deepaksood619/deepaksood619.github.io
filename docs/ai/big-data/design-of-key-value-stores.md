@@ -1,12 +1,10 @@
 ---
 slug: /ai/big-data/design-of-key-value-stores
 title: Design of Key-Value Stores
-description: Discover the design and functionality of key-value stores, including
-  Apache Cassandra and consistency solutions, for efficient cloud storage systems.
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Discover the design and functionality of key-value stores, including Apache Cassandra and consistency solutions, for efficient cloud storage systems.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
 - We will discuss the design and insight of key-value/NoSQL stores for today's cloud storage systems.
 - We will also discuss Apache Cassandra and different consistency solutions
 

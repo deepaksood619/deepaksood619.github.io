@@ -1,12 +1,10 @@
 ---
 slug: /management/growth-hacking-metrics
 title: Growth Hacking Metrics
-description: Discover essential growth hacking metrics like A.A.R.R.R. and KPIs to
-  boost your startup's performance and make data-driven decisions.
-created: '2023-09-20'
-last_update: '2024-09-01'
+description: Discover essential growth hacking metrics like A.A.R.R.R. and KPIs to boost your startup's performance and make data-driven decisions.
+created: 2023-09-20
+last_update: 2024-09-01
 ---
-
 ## Startup Metrics for Pirates
 
 A.A.R.R.R. which stood for Acquisition, Activation, Retention, Referral, and Revenue.

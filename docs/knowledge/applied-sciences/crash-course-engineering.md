@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/applied-sciences/crash-course-engineering
 title: Crash Course Engineering
-description: Explore the essentials of engineering, from civil and mechanical to thermodynamics
-  and materials, in our comprehensive Crash Course Engineering.
-created: '2023-03-05'
-last_update: '2023-05-11'
+description: Explore the essentials of engineering, from civil and mechanical to thermodynamics and materials, in our comprehensive Crash Course Engineering.
+created: 2023-03-05
+last_update: 2023-05-11
 ---
-
 1. What is engineering
 2. Civil engineering
 3. Mechanical engineering

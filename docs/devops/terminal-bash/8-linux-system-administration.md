@@ -1,14 +1,10 @@
 ---
 slug: /devops/terminal-bash/8-linux-system-administration
 title: Linux System Administration Basics
-description: Learn about Linux system administration and the sudo command for executing
-  tasks with different user privileges.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Learn about Linux system administration and the sudo command for executing tasks with different user privileges.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# (8) Linux System Administration
-
 ## sudo
 
 sudo, sudoedit - execute a command as another user

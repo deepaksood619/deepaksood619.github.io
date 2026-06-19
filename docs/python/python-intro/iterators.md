@@ -1,14 +1,10 @@
 ---
 slug: /python/python-intro/iterators
 title: Understanding Iterators in Python
-description: Learn about Python iterators, their protocol, benefits, and how they
-  enable efficient data handling with lazy evaluation.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Learn about Python iterators, their protocol, benefits, and how they enable efficient data handling with lazy evaluation.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Iterators
-
 An [iterator](https://en.wikipedia.org/wiki/Iterator) is an object that can be iterated (looped) upon. It is used to abstract a container of data to make it behave like an iterable object. You probably already use a few iterable objects every day: strings, lists, and dictionaries to name a few.
 
 An iterator is defined by a class that implements the [Iterator Protocol](https://docs.python.org/3/c-api/iter.html). This protocol looks for two methods within the class: `__iter__` and `__next__`.

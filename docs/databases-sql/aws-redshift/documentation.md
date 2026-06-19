@@ -1,12 +1,10 @@
 ---
 slug: /databases-sql/aws-redshift/documentation
 title: Documentation
-description: Explore various column compression types for designing tables in Redshift,
-  including Raw, AZ64, Delta, and more, to optimize data storage and performance.
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Explore various column compression types for designing tables in Redshift, including Raw, AZ64, Delta, and more, to optimize data storage and performance.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
 Designing Tables > Choosing a column compression type > Compression Encoding
 
 - [Raw Encoding](https://docs.aws.amazon.com/redshift/latest/dg/c_Raw_encoding.html)

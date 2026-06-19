@@ -1,12 +1,10 @@
 ---
 slug: /ai/big-data/data-quality
 title: Data Quality
-description: Explore common data quality issues like noise, outliers, and missing
-  values, along with detection methods and solutions to enhance data integrity.
-created: '2023-11-20'
-last_update: '2025-12-12'
+description: Explore common data quality issues like noise, outliers, and missing values, along with detection methods and solutions to enhance data integrity.
+created: 2023-11-20
+last_update: 2025-12-12
 ---
-
 - What kinds of data quality problems?
 - How can we detect problems with the data?
 - What can we do about these problems?

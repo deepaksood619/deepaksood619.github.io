@@ -1,12 +1,10 @@
 ---
 slug: /economics/investment-products/debt-funds/fixed-income-instruments
 title: Fixed income
-description: Explore fixed income investments where borrowers make scheduled payments,
-  contrasting them with equities to understand their role in financing and growth.
-created: '2023-08-11'
-last_update: '2026-06-09'
+description: Explore fixed income investments where borrowers make scheduled payments, contrasting them with equities to understand their role in financing and growth.
+created: 2023-08-11
+last_update: 2026-06-09
 ---
-
 Fixed income refers to any type of [investment](https://en.wikipedia.org/wiki/Investment) under which the borrower or issuer is obliged to make payments of a fixed amount on a fixed schedule. For example, the borrower may have to pay [interest](https://en.wikipedia.org/wiki/Interest) at a fixed rate once a year, and to repay the principal amount on maturity. Fixed-income [securities](https://en.wikipedia.org/wiki/Security_(finance)) can be contrasted with equity securities -- often referred to as stocks and shares -- that create no obligation to pay dividends or any other form of income.
 
 In order for a company to grow its business, it often must raise money -- for example, to finance an acquisition; to buy equipment or land; or to invest in new product development. The terms on which investors will finance the company will depend on the risk profile of the company. The company can give up [equity](https://en.wikipedia.org/wiki/Ownership_equity) by issuing stock, or can promise to pay regular [interest](https://en.wikipedia.org/wiki/Interest) and repay the principal on the loan (bonds or bank loans). Fixed-income securities also trade differently than equities. Whereas equities, such as common stock, trade on exchanges or other established trading venues, many fixed-income securities trade over-the-counter on a principal basis.

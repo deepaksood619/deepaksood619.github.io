@@ -1,14 +1,10 @@
 ---
 slug: /technologies/apache/apache-zookeeper
 title: Understanding Apache Zookeeper
-description: Explore Apache Zookeeper, a powerful tool for distributed coordination,
-  configuration management, and synchronization in distributed applications.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore Apache Zookeeper, a powerful tool for distributed coordination, configuration management, and synchronization in distributed applications.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
-# Apache Zookeeper
-
 Apache Zookeeper is a distributed, open-source configuration, synchronization service along with naming registry for distributed applications.
 
 - Centralized configuration management tool

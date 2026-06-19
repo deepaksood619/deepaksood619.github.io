@@ -1,14 +1,10 @@
 ---
 slug: /python/python-intro/readme
 title: Comprehensive Python Guide
-description: Explore essential Python concepts, from basics to advanced topics, including
-  data structures, OOP, and more.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore essential Python concepts, from basics to advanced topics, including data structures, OOP, and more.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
-# Python
-
 - [Basic](basic)
 - [Input Output Template](input-output-template)
 - [Keywords](keywords)

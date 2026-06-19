@@ -1,12 +1,10 @@
 ---
 slug: /languages/frameworks/ios
 title: iOS
-description: Explore the essentials of iOS development, from Swift and Objective-C
-  to UITableView concepts and asset management for creating seamless user experiences.
-created: '2023-03-05'
-last_update: '2025-01-04'
+description: Explore the essentials of iOS development, from Swift and Objective-C to UITableView concepts and asset management for creating seamless user experiences.
+created: 2023-03-05
+last_update: 2025-01-04
 ---
-
 - Swift, Objective-C
 - Cocoa and Cocoa touch
 - Foundation and UI kit

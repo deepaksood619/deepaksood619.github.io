@@ -1,12 +1,10 @@
 ---
 slug: /cloud/aws/security-identity-compliance/compliance-mcqs
 title: Compliance MCQs
-description: Explore our comprehensive Compliance MCQs covering Banking Regulation,
-  Compliance, and Legal Aspects with free PDF downloads for effective study and preparation.
-created: '2024-03-12'
-last_update: '2025-02-14'
+description: Explore our comprehensive Compliance MCQs covering Banking Regulation, Compliance, and Legal Aspects with free PDF downloads for effective study and preparation.
+created: 2024-03-12
+last_update: 2025-02-14
 ---
-
 [Banking Regulation & Compliance and Legal Aspects MCQ \[Free PDF\] - Objective Question Answer for Banking Regulation & Compliance and Legal Aspects Quiz - Download Now!](https://testbook.com/objective-questions/mcq-on-banking-regulation-compliance-and-legal-aspects--5eea6a0839140f30f369d867)
 
 #### Question 1

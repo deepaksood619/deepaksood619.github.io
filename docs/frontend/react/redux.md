@@ -1,14 +1,10 @@
 ---
 slug: /frontend/react/redux
 title: Understanding Redux for State Management
-description: Explore how Redux simplifies state management in JavaScript applications
-  with a unidirectional data flow and a centralized data store.
-created: '2023-03-05'
-last_update: '2024-12-16'
+description: Explore how Redux simplifies state management in JavaScript applications with a unidirectional data flow and a centralized data store.
+created: 2023-03-05
+last_update: 2024-12-16
 ---
-
-# Redux
-
 Redux is a library which controls the state of your JavaScript application. It provides a "unidirectional data flow" that helps to manage and organise data better and makes debugging a lot easier.
 
 Redux is a layer on top of React which helps in state management. Redux is mainly used in applications which rely on using class-based components. Redux has two tasks and they are

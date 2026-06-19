@@ -1,14 +1,10 @@
 ---
 slug: /devops/monitoring/linkerd
-title: 'Linkerd: Ultralight Service Mesh'
-description: Discover how Linkerd dynamically routes service requests in Kubernetes
-  for efficient traffic management and instance discovery.
-created: '2023-03-05'
-last_update: '2023-12-05'
+title: "Linkerd: Ultralight Service Mesh"
+description: Discover how Linkerd dynamically routes service requests in Kubernetes for efficient traffic management and instance discovery.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Linkerd
-
 ## Ultralight service mesh for Kubernetes
 
 For example, when a request is made to a service through Linkerd, a very simplified timeline of events is as follows:

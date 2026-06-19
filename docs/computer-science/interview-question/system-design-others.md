@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/interview-question/system-design-others
 title: Recipe Repository System Design
-description: Explore the system design for a subscription-based recipe repository
-  connecting creators and users.
-created: '2023-03-05'
-last_update: '2025-11-04'
+description: Explore the system design for a subscription-based recipe repository connecting creators and users.
+created: 2023-03-05
+last_update: 2025-11-04
 ---
-
-# System Design - Others
-
 ## System Design Exercise
 
 **Business Plan**

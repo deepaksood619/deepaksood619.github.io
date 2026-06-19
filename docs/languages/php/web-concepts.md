@@ -1,12 +1,10 @@
 ---
 slug: /languages/php/web-concepts
 title: Web Concepts
-description: Learn essential web concepts like browser redirection using PHP's header()
-  function and the differences between GET and POST methods for data transmission.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Learn essential web concepts like browser redirection using PHP's header() function and the differences between GET and POST methods for data transmission.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
 ## Browser Redirection
 
 The PHPheader()function supplies raw HTTP headers to the browser and can be used to redirect it to another location. The redirection script should be at the very top of the page to prevent any other part of the page from loading.

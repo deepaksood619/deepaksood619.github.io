@@ -1,13 +1,10 @@
 ---
 slug: /book-summaries/personal-development/the-seven-habits-of-highly-effective-people
 title: The Seven Habits of Highly Effective People
-description: Discover the transformative principles of Stephen Covey's "The Seven
-  Habits of Highly Effective People" to achieve personal growth and goal-oriented
-  success.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover the transformative principles of Stephen Covey's "The Seven Habits of Highly Effective People" to achieve personal growth and goal-oriented success.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Stephen Covey
 
 - Effectively integrating into the world means aligning personal paradigms with universal principles.

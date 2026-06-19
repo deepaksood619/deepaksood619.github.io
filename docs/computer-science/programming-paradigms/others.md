@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/programming-paradigms/others
 title: Behavior-Driven Development Overview
-description: Explore Behavior-Driven Development (BDD), a collaborative Agile process
-  enhancing software projects through shared understanding and concrete examples.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore Behavior-Driven Development (BDD), a collaborative Agile process enhancing software projects through shared understanding and concrete examples.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Others
-
 ## Behavior-driven development
 
 In [software engineering](https://en.wikipedia.org/wiki/Software_engineering), behavior-driven development(BDD) is an [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development) process that encourages collaboration among developers, QA and non-technical or business participants in a software project.It encourages teams to use conversation and concrete examples to formalize a shared understanding of how the application should behave.It emerged from [test-driven development](https://en.wikipedia.org/wiki/Test-driven_development)(TDD). Behavior-driven development combines the general techniques and principles of TDD with ideas from [domain-driven design](https://en.wikipedia.org/wiki/Domain-driven_design) and [object-oriented analysis and design](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design) to provide software development and management teams with shared tools and a shared process to collaborate on software development.

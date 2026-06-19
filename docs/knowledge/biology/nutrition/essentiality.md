@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/biology/nutrition/essentiality
 title: Essentiality
-description: Discover the importance of essential nutrients for optimal health, and
-  learn which nutrients your body needs from dietary sources to function effectively.
-created: '2023-03-05'
-last_update: '2026-04-07'
+description: Discover the importance of essential nutrients for optimal health, and learn which nutrients your body needs from dietary sources to function effectively.
+created: 2023-03-05
+last_update: 2026-04-07
 ---
-
 ## Essential nutrients
 
 An**essential nutrient** is a nutrient required for normal physiological function that cannot be synthesized in the body-- either at all or in sufficient quantities-- and thus must be obtained from a [dietary](https://en.wikipedia.org/wiki/Diet_(nutrition)) source.Apart from [water](https://en.wikipedia.org/wiki/Water), which is universally required for the maintenance of [homeostasis](https://en.wikipedia.org/wiki/Homeostasis) in mammals, essential nutrients are indispensable for various cellular [metabolic processes](https://en.wikipedia.org/wiki/Metabolic_process) and maintaining tissue and organ function.In the case of humans, there are nine [amino acids](https://en.wikipedia.org/wiki/Amino_acid), two [fatty acids](https://en.wikipedia.org/wiki/Fatty_acid), thirteen [vitamins](https://en.wikipedia.org/wiki/Vitamin) and fifteen [minerals](https://en.wikipedia.org/wiki/Mineral_(nutrient)) that are considered essential nutrients.In addition, there are several molecules that are considered conditionally essential nutrients since they are indispensable in certain developmental and pathological states.

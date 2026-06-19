@@ -1,12 +1,10 @@
 ---
 slug: /ai/llm/interview-prep/interview-questions-top-50
 title: Top 50 Large Language Model (LLM) Interview
-description: Explore key concepts of large language models (LLMs) in our top 50 interview,
-  covering tokenization, attention mechanisms, and more for enhanced understanding.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Explore key concepts of large language models (LLMs) in our top 50 interview, covering tokenization, attention mechanisms, and more for enhanced understanding.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 ## Question 1: What does tokenization entail, and why is it critical for LLMs?
 
 Tokenization involves breaking down text into smaller units, or tokens, such as words, subwords, or characters. For example, "artificial" might be split into "art," "ific," and "ial." This process is vital because LLMs process numerical representations of tokens, not raw text. Tokenization enables models to handle diverse languages, manage rare or unknown words, and optimize vocabulary size, enhancing computational efficiency and model performance.

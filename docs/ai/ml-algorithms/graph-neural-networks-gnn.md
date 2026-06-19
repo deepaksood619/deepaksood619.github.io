@@ -1,12 +1,10 @@
 ---
 slug: /ai/ml-algorithms/graph-neural-networks-gnn
 title: Graph Neural Networks (GNN)
-description: Explore the complexities of Graph Neural Networks (GNN) and learn why
-  analyzing graph data poses unique challenges compared to traditional datasets.
-created: '2023-03-05'
-last_update: '2025-08-02'
+description: Explore the complexities of Graph Neural Networks (GNN) and learn why analyzing graph data poses unique challenges compared to traditional datasets.
+created: 2023-03-05
+last_update: 2025-08-02
 ---
-
 ## Why Is a Graph Difficult To Analyze?
 
 1. A graph does not exist in a Euclidean space, which means it cannot be represented by any coordinate systems that we are familiar with. This makes the interpretation of graph data much harder as compared to other types of data such as waves, images, or time-series signals("text" can also be treated as time-series), which can be easily mapped to a 2-D or 3-D Euclidean space.

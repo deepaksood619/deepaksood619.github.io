@@ -1,14 +1,10 @@
 ---
 slug: /education/pedagogy/note-taking-second-brain-pkm-zettelkasten
 title: Mastering Note Taking Techniques
-description: Explore Personal Knowledge Management, Zettelkasten, and the Digital
-  Garden for effective note-taking and idea organization.
-created: '2023-03-05'
-last_update: '2026-06-18'
+description: Explore Personal Knowledge Management, Zettelkasten, and the Digital Garden for effective note-taking and idea organization.
+created: 2023-03-05
+last_update: 2026-06-18
 ---
-
-# Note Taking / Second Brain / PKM / Zettelkasten / Digital Garden
-
 Your brain is for having ideas not holding them
 
 I write to find out what I think -- Stephan King

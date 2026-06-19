@@ -1,12 +1,10 @@
 ---
 slug: /databases-nosql/druid/cheatsheet
 title: Cheatsheet
-description: Explore our comprehensive cheatsheet for quick access to Druid status,
-  health checks, and configuration properties for efficient management.
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Explore our comprehensive cheatsheet for quick access to Druid status, health checks, and configuration properties for efficient management.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
 | Common                                          |                                                                                                                        |
 |-----------------------|-------------------------------------------------|
 | /status                                         | Returns the Druid version, loaded extens­ions, memory used, total memory and other useful inform­ation about the process. |

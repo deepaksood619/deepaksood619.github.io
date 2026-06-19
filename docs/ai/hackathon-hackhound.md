@@ -1,12 +1,10 @@
 ---
 slug: /ai/hackathon-hackhound
 title: Hackathon HackHound
-description: Discover how Hackathon HackHound addresses fragmented healthcare systems
-  by integrating patient data for improved care and decision-making.
-created: '2025-03-02'
-last_update: '2026-06-18'
+description: Discover how Hackathon HackHound addresses fragmented healthcare systems by integrating patient data for improved care and decision-making.
+created: 2025-03-02
+last_update: 2026-06-18
 ---
-
 ## Problem 1
 
 Modern healthcare systems store patient information across multiple digital platforms, capturing everything from vital signs and medications to diagnoses and immune responses. While these systems are meant to support patient care, they often function in isolation, making it difficult for healthcare providers to access a complete, continuous view of a patient’s medical history.

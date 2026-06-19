@@ -1,12 +1,10 @@
 ---
 slug: /psychology/habits
 title: Habits
-description: Discover how your habits shape your identity and learn essential self-improvement
-  strategies to foster self-control, goal-setting, and personal growth.
-created: '2023-03-05'
-last_update: '2026-06-18'
+description: Discover how your habits shape your identity and learn essential self-improvement strategies to foster self-control, goal-setting, and personal growth.
+created: 2023-03-05
+last_update: 2026-06-18
 ---
-
 ## Self-Control
 
 Prime your environment to make the next action easy.

@@ -1,12 +1,10 @@
 ---
 slug: /courses/databricks-certified-data-engineer-associate
 title: Databricks Certified Data Engineer Associate
-description: Become a Databricks Certified Data Engineer Associate by mastering data
-  ingestion, processing, and governance in this comprehensive certification exam.
-created: '2025-09-28'
-last_update: '2025-10-12'
+description: Become a Databricks Certified Data Engineer Associate by mastering data ingestion, processing, and governance in this comprehensive certification exam.
+created: 2025-09-28
+last_update: 2025-10-12
 ---
-
 1. Databricks Intelligence Platform - 10%
 2. Development and Ingestion - 30%
 3. Data Processing & Transformations - 31%

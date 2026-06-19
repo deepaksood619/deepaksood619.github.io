@@ -1,14 +1,10 @@
 ---
 slug: /devops/kubernetes/reference/readme
 title: Understanding Kubernetes Admission Controllers
-description: Explore the role of admission controllers in Kubernetes and learn about
-  MutatingAdmissionWebhook and ValidatingAdmissionWebhook.
-created: '2023-03-05'
-last_update: '2024-07-05'
+description: Explore the role of admission controllers in Kubernetes and learn about MutatingAdmissionWebhook and ValidatingAdmissionWebhook.
+created: 2023-03-05
+last_update: 2024-07-05
 ---
-
-# Reference
-
 ## Admission Controllers
 
 An admission controller is a piece of code that intercepts requests to the Kubernetes API server prior to persistence of the object, but after the request is authenticated and authorized. The controllers consist of the[list](https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/#what-does-each-admission-controller-do) below, are compiled into thekube-apiserverbinary, and may only be configured by the cluster administrator. In that list, there are two special controllers: MutatingAdmissionWebhook and ValidatingAdmissionWebhook. These execute the mutating and validating (respectively)[admission control webhooks](https://kubernetes.io/docs/reference/access-authn-authz/extensible-admission-controllers/#admission-webhooks) which are configured in the API.

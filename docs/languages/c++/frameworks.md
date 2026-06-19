@@ -1,13 +1,10 @@
 ---
 slug: /languages/c++/frameworks
 title: Frameworks
-description: Discover Qt, the powerful cross-platform framework for developing industry-leading
-  software across multiple devices and operating systems, enhancing your development
-  process.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Discover Qt, the powerful cross-platform framework for developing industry-leading software across multiple devices and operating systems, enhancing your development process.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 ## Qt (pronounced cute)
 
 Everything you need for your entire software development life cycle. Qt is the fastest and smartest way to produce industry-leading software that users love.

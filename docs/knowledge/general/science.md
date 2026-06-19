@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/general/science
 title: Science
-description: Explore the essence of science as a systematic process for understanding
-  the universe through testable explanations and predictions, rooted in ancient knowledge.
-created: '2023-03-05'
-last_update: '2024-03-18'
+description: Explore the essence of science as a systematic process for understanding the universe through testable explanations and predictions, rooted in ancient knowledge.
+created: 2023-03-05
+last_update: 2024-03-18
 ---
-
 Science is not a collection of facts about the world. That is called **knowledge**.
 
 Rather, science is a **process - a way of thinking** and making sense of the world, which can then lead to new knowledge.

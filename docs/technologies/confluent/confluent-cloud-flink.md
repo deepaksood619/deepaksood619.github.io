@@ -1,14 +1,10 @@
 ---
 slug: /technologies/confluent/confluent-cloud-flink
 title: Confluent Cloud Flink Guide
-description: Discover how to process data using Flink on Confluent Cloud with our
-  comprehensive overview and quick start guides.
-created: '2026-01-28'
-last_update: '2026-03-20'
+description: Discover how to process data using Flink on Confluent Cloud with our comprehensive overview and quick start guides.
+created: 2026-01-28
+last_update: 2026-03-20
 ---
-
-# Confluent Cloud Flink
-
 - [Process Data with Flink](https://docs.confluent.io/cloud/current/flink/index.html)
 - [Overview](https://docs.confluent.io/cloud/current/flink/overview.html)
 - [Get Started](https://docs.confluent.io/cloud/current/flink/get-started/index.html)

@@ -1,14 +1,10 @@
 ---
 slug: /devops/kubernetes/tools-scaling
 title: Kubernetes Scaling Tools Overview
-description: Explore essential Kubernetes scaling tools like Cluster Autoscaler and
-  Vertical Pod Autoscaler for optimal resource management.
-created: '2024-07-24'
-last_update: '2026-06-11'
+description: Explore essential Kubernetes scaling tools like Cluster Autoscaler and Vertical Pod Autoscaler for optimal resource management.
+created: 2024-07-24
+last_update: 2026-06-11
 ---
-
-# Kubernetes Scaling Tools
-
 ## Kubernetes Autoscaler
 
 [Cluster Autoscaler](https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler) ⭐ 8.9k- a component that automatically adjusts the size of a Kubernetes Cluster so that all pods have a place to run and there are no unneeded nodes. Works with GCP, AWS and Azure. Version 1.0 (GA) was released with kubernetes 1.8.

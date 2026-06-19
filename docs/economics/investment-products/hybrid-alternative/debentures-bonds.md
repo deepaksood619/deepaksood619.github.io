@@ -1,12 +1,10 @@
 ---
 slug: /economics/investment-products/hybrid-alternative/debentures-bonds
 title: Debentures / Bonds
-description: Explore debentures and bonds, long-term securities providing fixed interest,
-  essential in corporate finance for companies to secure funding against assets.
-created: '2023-03-05'
-last_update: '2026-06-09'
+description: Explore debentures and bonds, long-term securities providing fixed interest, essential in corporate finance for companies to secure funding against assets.
+created: 2023-03-05
+last_update: 2026-06-09
 ---
-
 A long-term security yielding a fixed rate of interest, issued by a company and secured against assets.
 
 In [corporate finance](https://en.wikipedia.org/wiki/Corporate_finance), adebentureis a medium- to long-term debt [instrument](https://en.wikipedia.org/wiki/Financial_instrument) used by large companies to borrow money, at a fixed rate of interest. The legal term "debenture" originally referred to a document that either creates a debt or acknowledges it, but in some countries the term is now used interchangeably with [bond](https://en.wikipedia.org/wiki/Bond_(finance)), loan stockornote. A debenture is thus like a certificate of loan or a loan bond evidencing the fact that the company is liable to pay a specified amount with interest. Although the money raised by the debentures becomes a part of the company's [capital structure](https://en.wikipedia.org/wiki/Capital_structure), it does not become [share capital](https://en.wikipedia.org/wiki/Share_capital).Senior debentures get paid before subordinate debentures, and there are varying rates of risk and payoff for these categories.

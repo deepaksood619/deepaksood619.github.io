@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/quotes-proverbs/coding
 title: Coding
-description: Explore the world of coding, its impact on app development, and the rise
-  of no-code platforms shaping the future of technology.
-created: '2023-03-05'
-last_update: '2026-06-19'
+description: Explore the world of coding, its impact on app development, and the rise of no-code platforms shaping the future of technology.
+created: 2023-03-05
+last_update: 2026-06-19
 ---
-
 Only ~0.3% of the world's population today can code, and this small group has built all of the world's ~6.3 million mobile apps. Which means that 99.7% of the world fully depends on 0.3%, which is huge
 
 In the next 5 years, a total of ~500 million apps are likely to be built of which 450 million are likely to be built using no/low-code platforms.

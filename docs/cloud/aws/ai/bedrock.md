@@ -1,12 +1,10 @@
 ---
 slug: /cloud/aws/ai/bedrock
 title: Bedrock
-description: Explore Amazon Bedrock and its powerful agents, knowledge bases, and
-  RAG solutions for enhanced AI-driven applications and workflows.
-created: '2025-04-03'
-last_update: '2026-06-11'
+description: Explore Amazon Bedrock and its powerful agents, knowledge bases, and RAG solutions for enhanced AI-driven applications and workflows.
+created: 2025-04-03
+last_update: 2026-06-11
 ---
-
 - [Agents for Amazon Bedrock - Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/agents.html)
 - [How Agents for Amazon Bedrock works - Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/agents-how.html)
 - [amazon-bedrock-workshop/02\_KnowledgeBases\_and\_RAG/1\_managed-rag-kb-retrieve-generate-api.ipynb at a7e62b80669378de1bae414e0b646399c7934f8e · aws-samples/amazon-bedrock-workshop · GitHub](https://github.com/aws-samples/amazon-bedrock-workshop/blob/a7e62b80669378de1bae414e0b646399c7934f8e/02_KnowledgeBases_and_RAG/1_managed-rag-kb-retrieve-generate-api.ipynb) ⭐ 2.2k

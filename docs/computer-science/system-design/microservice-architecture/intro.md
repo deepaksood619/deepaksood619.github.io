@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/system-design/microservice-architecture/intro
 title: Understanding Microservice Architecture
-description: Explore microservice architecture, its benefits, and how it fosters independent
-  development and efficient business capabilities.
-created: '2023-03-05'
-last_update: '2025-04-20'
+description: Explore microservice architecture, its benefits, and how it fosters independent development and efficient business capabilities.
+created: 2023-03-05
+last_update: 2025-04-20
 ---
-
-# Microservice Architecture
-
 ## What is microservices architecture?
 
 A microservices‑based application is a distributed system running on multiple machines. Each service in the system communicates by passing messages to the others.

@@ -1,12 +1,10 @@
 ---
 slug: /cloud/aws/ai/sagemaker-unified-studio
 title: Sagemaker Unified Studio
-description: Discover Sagemaker Unified Studio for seamless data processing, AI model
-  development, and SQL analytics, empowering your business with advanced data insights.
-created: '2025-10-28'
-last_update: '2025-11-01'
+description: Discover Sagemaker Unified Studio for seamless data processing, AI model development, and SQL analytics, empowering your business with advanced data insights.
+created: 2025-10-28
+last_update: 2025-11-01
 ---
-
 - Unified Studio
 	- SQL Analytics (Amazon Redshift)
 	- Data Processing

@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/system-design/cloud-native
 title: Understanding Cloud Native Technologies
-description: Explore cloud native concepts, including containerization, microservices,
-  and agile DevOps for modern application development.
-created: '2023-03-05'
-last_update: '2024-12-19'
+description: Explore cloud native concepts, including containerization, microservices, and agile DevOps for modern application development.
+created: 2023-03-05
+last_update: 2024-12-19
 ---
-
-# Cloud Native
-
 Cloud native is a term used to describe **container-based environments.** Cloud-native technologies are used to develop applications built with services packaged in containers, deployed as microservices and managed on elastic infrastructure through agile DevOps processes and continuous delivery workflows.
 
 Where operations teams would manage the infrastructure resource allocations to traditional applications manually, cloud-native applications are deployed on infrastructure that abstracts the underlying compute, storage and networking primitives. Developers and operators dealing with this new breed of applications don't directly interact with application programming interfaces (APIs) exposed by infrastructure providers. Instead, the orchestrator handles resource allocation automatically, according to policies set out by DevOps teams. The controller and scheduler, which are essential components of the orchestration engine, handle resource allocation and the life cycle of applications.

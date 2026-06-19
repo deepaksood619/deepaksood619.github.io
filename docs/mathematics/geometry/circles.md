@@ -1,12 +1,10 @@
 ---
 slug: /mathematics/geometry/circles
 title: Circles
-description: Explore the fundamentals of circles, including arc measures, lengths
-  in degrees and radians, sectors, and inscribed angles for a comprehensive understanding.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Explore the fundamentals of circles, including arc measures, lengths in degrees and radians, sectors, and inscribed angles for a comprehensive understanding.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
 [Circle basics:Circles](https://www.khanacademy.org/math/geometry/hs-geo-circles#hs-geo-circle-basics)
 
 [Arc measure:Circles](https://www.khanacademy.org/math/geometry/hs-geo-circles#hs-geo-arc-measures)

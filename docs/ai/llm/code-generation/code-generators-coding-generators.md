@@ -1,12 +1,10 @@
 ---
 slug: /ai/llm/code-generation/code-generators-coding-generators
 title: Code Generators / Coding Generators
-description: Discover advanced code generators like Gemini Code Assist and GitHub
-  Copilot for efficient coding, modernization, and seamless integration in your projects.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover advanced code generators like Gemini Code Assist and GitHub Copilot for efficient coding, modernization, and seamless integration in your projects.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 - [claude-code](ai/llm/code-generation/claude-code.md)
 
 ## Gemini Code Assist (GCA) / Gemini CLI

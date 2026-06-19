@@ -1,12 +1,10 @@
 ---
 slug: /ideas/others
 title: Others
-description: Discover innovative products and solutions, from automated baby care
-  to climate-proof materials, designed to enhance everyday life and boost efficiency.
-created: '2023-03-05'
-last_update: '2026-05-01'
+description: Discover innovative products and solutions, from automated baby care to climate-proof materials, designed to enhance everyday life and boost efficiency.
+created: 2023-03-05
+last_update: 2026-05-01
 ---
-
 ## Examples / Products
 
 - [Trade On Your Opinion, Earn Profit - Probo](https://probo.in/)

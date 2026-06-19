@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/interview-question/system-design-genbi
-title: 'GenBI: AI-Powered Telecom Insights'
-description: Discover GenBI, the unified natural language business intelligence platform
-  designed to streamline telecom data analysis.
-created: '2025-11-04'
-last_update: '2025-11-04'
+title: "GenBI: AI-Powered Telecom Insights"
+description: Discover GenBI, the unified natural language business intelligence platform designed to streamline telecom data analysis.
+created: 2025-11-04
+last_update: 2025-11-04
 ---
-
-# System Design GenBI
-
 ## Problem Statement: GenBI — Unified Natural Language Business Intelligence Platform for Telecom
 
 The telecom enterprise maintains large volumes of operational, customer, and network data across multiple siloed systems—such as CRM (Customer Relationship Management), OSS/BSS (Operational/Business Support Systems), billing databases, network performance logs, and customer interaction platforms. Product and business analyst teams need quick insights spanning these heterogeneous data sources for decision-making, but current processes require technical mediation, SQL knowledge, and manual data joins, slowing down analysis and experimentation.

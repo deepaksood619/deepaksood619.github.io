@@ -1,12 +1,10 @@
 ---
 slug: /ai/ml-fundamentals/intro
 title: Intro
-description: Discover how machine learning, a key AI subset, enhances computer performance
-  through data-driven algorithms and statistical techniques.
-created: '2023-03-05'
-last_update: '2024-10-19'
+description: Discover how machine learning, a key AI subset, enhances computer performance through data-driven algorithms and statistical techniques.
+created: 2023-03-05
+last_update: 2024-10-19
 ---
-
 Machine learning is a subset of artificial intelligence in the field of [computer science](https://en.wikipedia.org/wiki/Computer_science) that often uses statistical techniques to give [computers](https://en.wikipedia.org/wiki/Computer) the ability to "learn" (i.e., progressively improve performance on a specific task) with [data](https://en.wikipedia.org/wiki/Data), without being explicitly programmed.
 
 Evolved from the study of [pattern recognition](https://en.wikipedia.org/wiki/Pattern_recognition) and [computational learning theory](https://en.wikipedia.org/wiki/Computational_learning_theory) in [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence), machine learning explores the study and construction of [algorithms](https://en.wikipedia.org/wiki/Algorithm) that can learn from and make predictions on [data](https://en.wikipedia.org/wiki/Data)- such algorithms overcome following strictly static [program instructions](https://en.wikipedia.org/wiki/Computer_program) by making data-driven predictions or decisions, through building a [model](https://en.wikipedia.org/wiki/Mathematical_model) from sample inputs.

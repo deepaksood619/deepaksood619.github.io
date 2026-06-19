@@ -1,15 +1,10 @@
 ---
 slug: /management/project-management/program-management
 title: Effective Program Management Strategies
-description: Discover effective program management strategies that align projects
-  with company goals, drive organizational change, and implement agile and DevOps
-  practices.
-created: '2023-12-18'
-last_update: '2025-02-14'
+description: Discover effective program management strategies that align projects with company goals, drive organizational change, and implement agile and DevOps practices.
+created: 2023-12-18
+last_update: 2025-02-14
 ---
-
-# Program Management
-
 Program management is the management of multiple related projects at the same time. A program is a set of interconnected projects overseen by a program manager whose main goal is to ensure that all work ties back into company-wide goals and objectives.
 
 Program managers also help to drive organizational change by helping with [agile](https://www.atlassian.com/agile) transformations, including helping to implement [DevOps](https://www.atlassian.com/devops/what-is-devops) practices and principles. Program managers may align program management practices and processes with agile values such as collaboration, team autonomy and empowerment, delivering value to customers, and adapting to change in the moment. A program manager can bring agile and DevOps to life for teams across large programs or individual projects by tailoring programs to the specific requirements and opportunities of the business.

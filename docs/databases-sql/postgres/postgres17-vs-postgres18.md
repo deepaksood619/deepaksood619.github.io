@@ -1,12 +1,10 @@
 ---
 slug: /databases-sql/postgres/postgres17-vs-postgres18
 title: PostgreSQL 17 vs 18
-description: Discover the key differences between PostgreSQL 17 and 18, focusing on
-  performance enhancements, enterprise features, and advanced index optimization techniques.
-created: '2026-05-12'
-last_update: '2026-05-13'
+description: Discover the key differences between PostgreSQL 17 and 18, focusing on performance enhancements, enterprise features, and advanced index optimization techniques.
+created: 2026-05-12
+last_update: 2026-05-13
 ---
-
 **PostgreSQL 17:** Released September 26, 2024
 
 **PostgreSQL 18:** Released 2026

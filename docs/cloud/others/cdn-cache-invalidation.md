@@ -1,12 +1,10 @@
 ---
 slug: /cloud/others/cdn-cache-invalidation
 title: Cache Invalidation
-description: Learn about cache invalidation and versioning techniques in CloudFront
-  to ensure users access the most up-to-date content without delays.
-created: '2024-10-19'
-last_update: '2025-02-14'
+description: Learn about cache invalidation and versioning techniques in CloudFront to ensure users access the most up-to-date content without delays.
+created: 2024-10-19
+last_update: 2025-02-14
 ---
-
 ## Cache Invalidation vs Object Versioning
 
 ### Understanding Versioning

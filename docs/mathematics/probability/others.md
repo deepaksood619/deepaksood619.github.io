@@ -1,12 +1,10 @@
 ---
 slug: /mathematics/probability/others
 title: Others
-description: 'Discover quantiles in statistics: key cut points that divide data into
-  equal groups, enhancing your understanding of probability distributions.'
-created: '2023-03-05'
-last_update: '2025-04-27'
+description: Discover quantiles in statistics: key cut points that divide data into equal groups, enhancing your understanding of probability distributions.
+created: 2023-03-05
+last_update: 2025-04-27
 ---
-
 ## Quantile
 
 Each of any set of values of a variate which divide a frequency distribution into equal groups, each containing the same fraction of the total population.

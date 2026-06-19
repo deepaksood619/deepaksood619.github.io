@@ -1,12 +1,10 @@
 ---
 slug: /economics/learning-resources/charting-systems
 title: Trading Systems
-description: Compare TradingView and ChartIQ to discover which trading system offers
-  superior technical indicators, drawing tools, and overall functionality for traders.
-created: '2025-03-04'
-last_update: '2026-06-09'
+description: Compare TradingView and ChartIQ to discover which trading system offers superior technical indicators, drawing tools, and overall functionality for traders.
+created: 2025-03-04
+last_update: 2026-06-09
 ---
-
 ## ChartIQ (ciq) vs TradingView (tvc)
 
 TradingView offers a significantly larger selection of technical indicators and studies compared to ChartIQ. Drawing tools: TradingView provides more advanced drawing tools, including custom shapes and Fibonacci retracements, which ChartIQ lacks.

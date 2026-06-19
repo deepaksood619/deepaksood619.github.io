@@ -1,12 +1,10 @@
 ---
 slug: /databases-nosql/mongodb/sharding-replication
 title: Sharding / Replication
-description: Discover how sharding and replication enhance data distribution and scalability
-  in MongoDB's sharded clusters for improved performance and reliability.
-created: '2024-01-15'
-last_update: '2025-06-10'
+description: Discover how sharding and replication enhance data distribution and scalability in MongoDB's sharded clusters for improved performance and reliability.
+created: 2024-01-15
+last_update: 2025-06-10
 ---
-
 ## Sharding
 
 [Sharding](https://www.mongodb.com/docs/manual/reference/glossary/#std-term-sharding) is a method for distributing data across multiple machines.

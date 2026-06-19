@@ -1,12 +1,10 @@
 ---
 slug: /computer-science/links
 title: Links
-description: Explore a curated list of insightful YouTube links covering AI in business,
-  microservices, performance analysis, and more for tech enthusiasts.
-created: '2023-11-22'
-last_update: '2026-06-04'
+description: Explore a curated list of insightful YouTube links covering AI in business, microservices, performance analysis, and more for tech enthusiasts.
+created: 2023-11-22
+last_update: 2026-06-04
 ---
-
 ## Youtube
 
 1. [Web Summit: Rise of AI in business](https://youtu.be/drvxQUbmeSI?si=PFqG9q4vWuq2Fsl8)

@@ -1,14 +1,10 @@
 ---
 slug: /data-structures/linear-data-structure/priority-queue
 title: Understanding Priority Queues
-description: Explore the concept of priority queues, their characteristics, and how
-  they differ from regular queues and stacks in data structures.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore the concept of priority queues, their characteristics, and how they differ from regular queues and stacks in data structures.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
-# Priority Queue
-
 A **priority queue** is an [abstract data type](https://en.wikipedia.org/wiki/Abstract_data_type) which is like a regular [queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type)) or [stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)) data structure, but where additionally each element has a "priority" associated with it. In a priority queue, an element with high priority is served before an element with low priority. If two elements have the same priority, they are served according to their order in the queue.
 While priority queues are often implemented with [heaps](https://en.wikipedia.org/wiki/Heap_(data_structure)), they are conceptually distinct from heaps. A priority queue is an abstract concept like "a [list](https://en.wikipedia.org/wiki/List_(abstract_data_type))" or "a [map](https://en.wikipedia.org/wiki/Associative_array)"; just as a list can be implemented with a [linked list](https://en.wikipedia.org/wiki/Linked_list) or an [array](https://en.wikipedia.org/wiki/Array_data_structure), a priority queue can be implemented with a heap or a variety of other methods such as an unordered array.
 

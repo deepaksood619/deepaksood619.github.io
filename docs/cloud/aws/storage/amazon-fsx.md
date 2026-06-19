@@ -1,12 +1,10 @@
 ---
 slug: /cloud/aws/storage/amazon-fsx
 title: Amazon FSx
-description: Experience fully managed, reliable file storage with Amazon FSx for Windows
-  File Server, featuring SMB protocol access, AD integration, and advanced replication.
-created: '2025-11-05'
-last_update: '2025-11-14'
+description: Experience fully managed, reliable file storage with Amazon FSx for Windows File Server, featuring SMB protocol access, AD integration, and advanced replication.
+created: 2025-11-05
+last_update: 2025-11-14
 ---
-
 ## Amazon FSx for Windows File Server
 
 Amazon FSx for Windows File Server provides fully managed, highly reliable file storage that is accessible over the industry-standard Service Message Block (SMB) protocol. It is built on Windows Server, delivering a wide range of administrative features such as user quotas, end-user file restore, and Microsoft Active Directory (AD) integration. The Distributed File System Replication (DFSR) service is a new multi-master replication engine that is used to keep folders synchronized on multiple servers. Amazon FSx supports the use of Microsoft’s Distributed File System (DFS) to organize shares into a single folder structure up to hundreds of PB in size.

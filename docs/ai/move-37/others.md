@@ -1,12 +1,10 @@
 ---
 slug: /ai/move-37/others
 title: Others
-description: Explore MCMC, Bayesian approaches, AlphaGo, and Deep Q Neural Networks
-  to enhance your understanding of advanced decision-making and AI algorithms.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore MCMC, Bayesian approaches, AlphaGo, and Deep Q Neural Networks to enhance your understanding of advanced decision-making and AI algorithms.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 MCMC - Markov Chain Monte Carlo
 
 https://skymind.ai/wiki/markov-chain-monte-carlo

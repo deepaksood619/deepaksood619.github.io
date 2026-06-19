@@ -1,14 +1,10 @@
 ---
 slug: /about-deepak-sood/projects/40-on-premise-mlops-platform
 title: On-Premise MLOps Platform Architecture
-description: Explore the architecture of an on-premise MLOps platform designed for
-  secure, scalable cell detection model training and deployment.
-created: '2025-01-23'
-last_update: '2025-01-23'
+description: Explore the architecture of an on-premise MLOps platform designed for secure, scalable cell detection model training and deployment.
+created: 2025-01-23
+last_update: 2025-01-23
 ---
-
-# On-Premise MLOps Platform
-
 This document outlines the architecture and components of an on-premise MLOps platform for a cell detection system. The platform is designed to enable multiple users to train, tune, and deploy machine learning (ML) models securely and efficiently using a shared dataset. The architecture supports secure isolation for users, incorporates guardrails for compliance and right resource usage, and leverages state-of-the-art tools and technologies to ensure scalability and performance.
 
 ## High-Level Requirements

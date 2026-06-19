@@ -1,12 +1,10 @@
 ---
 slug: /cloud/others/alibaba-cloud
 title: Alibaba Cloud
-description: Discover Alibaba Cloud's MaxCompute, a fully managed platform for efficient
-  large-scale data warehousing, enabling cost-effective querying and robust security.
-created: '2024-12-06'
-last_update: '2025-02-27'
+description: Discover Alibaba Cloud's MaxCompute, a fully managed platform for efficient large-scale data warehousing, enabling cost-effective querying and robust security.
+created: 2024-12-06
+last_update: 2025-02-27
 ---
-
 ## MaxCompute
 
 MaxCompute (previously known as ODPS) is a general purpose, fully managed, multi-tenancy data processing platform for large-scale data warehousing. MaxCompute supports various data importing solutions and distributed computing models, enabling users to effectively query massive datasets, reduce production costs, and ensure data security.

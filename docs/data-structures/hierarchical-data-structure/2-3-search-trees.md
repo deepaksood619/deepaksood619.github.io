@@ -1,14 +1,10 @@
 ---
 slug: /data-structures/hierarchical-data-structure/2-3-search-trees
-title: 'Understanding 2-3 Search Trees: Properties and Operations'
-description: Explore the structure and properties of 2-3 search trees, including search
-  and insertion methods for efficient data management.
-created: '2023-03-05'
-last_update: '2023-04-11'
+title: "Understanding 2-3 Search Trees: Properties and Operations"
+description: Explore the structure and properties of 2-3 search trees, including search and insertion methods for efficient data management.
+created: 2023-03-05
+last_update: 2023-04-11
 ---
-
-# 2-3 Search Trees
-
 ## Properties
 
 - Every non-leaf is a 2-node or a 3-node. A 2-node contains one data item and has two children. A 3-node contains two data items and has 3 children.

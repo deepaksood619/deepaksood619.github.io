@@ -1,12 +1,10 @@
 ---
 slug: /languages/frameworks/server-driven-mobile-uis
 title: Server Driven Mobile UIs
-description: Discover the benefits and challenges of server-driven mobile UIs, enabling
-  smart, personalized, and dynamic app experiences with efficient front-end design.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Discover the benefits and challenges of server-driven mobile UIs, enabling smart, personalized, and dynamic app experiences with efficient front-end design.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
 ## Apps
 
 - Personlized

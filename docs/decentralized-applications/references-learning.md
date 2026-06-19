@@ -1,12 +1,10 @@
 ---
 slug: /decentralized-applications/references-learning
 title: References / Learning
-description: Explore top resources and courses to master blockchain development, cryptocurrency
-  concepts, and decentralized applications for effective learning.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Explore top resources and courses to master blockchain development, cryptocurrency concepts, and decentralized applications for effective learning.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
 ## Courses / Learning
 
 - [Blockchain Developer Roadmap: Learn to become a blockchain developer](https://roadmap.sh/blockchain)

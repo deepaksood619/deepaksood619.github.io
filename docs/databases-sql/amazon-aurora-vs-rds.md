@@ -1,12 +1,10 @@
 ---
 slug: /databases-sql/amazon-aurora-vs-rds
 title: Amazon Aurora vs RDS
-description: Compare Amazon Aurora and RDS to determine the best AWS database solution
-  for your workload, considering performance, high availability, and benchmarking.
-created: '2024-05-08'
-last_update: '2025-06-10'
+description: Compare Amazon Aurora and RDS to determine the best AWS database solution for your workload, considering performance, high availability, and benchmarking.
+created: 2024-05-08
+last_update: 2025-06-10
 ---
-
 [Aurora vs RDS: How to Choose the Right AWS Database Solution](https://www.percona.com/blog/when-should-i-use-amazon-aurora-and-when-should-i-use-rds-mysql/)
 
 ## Should I Use Aurora or RDS?

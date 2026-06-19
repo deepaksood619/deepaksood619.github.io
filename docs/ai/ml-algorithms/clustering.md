@@ -1,12 +1,10 @@
 ---
 slug: /ai/ml-algorithms/clustering
 title: Clustering
-description: Explore clustering, an unsupervised method for organizing data into similar
-  groups, enhancing exploratory data analysis and applications like market segmentation.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore clustering, an unsupervised method for organizing data into similar groups, enhancing exploratory data analysis and applications like market segmentation.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
 https://www.toptal.com/clustering/clustering-metrics-for-comparison
 
 ## Clustering

@@ -1,12 +1,10 @@
 ---
 slug: /economics/fundamentals/inequality-metrics
 title: Inequality
-description: Explore the Gini coefficient, a key measure of income and wealth inequality,
-  developed by Italian statistician Corrado Gini, to understand economic disparities.
-created: '2023-03-14'
-last_update: '2026-06-09'
+description: Explore the Gini coefficient, a key measure of income and wealth inequality, developed by Italian statistician Corrado Gini, to understand economic disparities.
+created: 2023-03-14
+last_update: 2026-06-09
 ---
-
 ## Gini Coefficient
 
 In [economics](https://en.wikipedia.org/wiki/Economics), theGini coefficient, sometimes called theGini indexorGini ratio, is a [measure of statistical dispersion](https://en.wikipedia.org/wiki/Statistical_dispersion#Measures_of_statistical_dispersion) intended to represent the [income](https://en.wikipedia.org/wiki/Income_distribution) or [wealth distribution](https://en.wikipedia.org/wiki/Wealth_distribution) of a nation's residents, and is the most commonly used measurement of [inequality](https://en.wikipedia.org/wiki/Economic_inequality). It was developed by the Italian [statistician](https://en.wikipedia.org/wiki/Statistics) and [sociologist](https://en.wikipedia.org/wiki/Sociology) [Corrado Gini](https://en.wikipedia.org/wiki/Corrado_Gini) and published in his 1912 paper Variability and Mutability.

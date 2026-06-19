@@ -1,14 +1,10 @@
 ---
 slug: /technologies/apache/apache-storm
 title: Understanding Apache Storm Framework
-description: Explore Apache Storm, a powerful stream processing framework designed
-  for low-latency, near real-time data processing workflows.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Explore Apache Storm, a powerful stream processing framework designed for low-latency, near real-time data processing workflows.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
-# Apache Storm
-
 Apache Storm
 
 Apache Storm is a stream processing framework that focuses on extremely low latency and is perhaps the best option for workloads that require near real-time processing. It can handle very large quantities of data with and deliver results with less latency than other solutions.

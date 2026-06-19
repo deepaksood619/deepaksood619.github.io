@@ -1,14 +1,10 @@
 ---
 slug: /devops/others/jenkins
 title: Understanding Jenkins for CI/CD
-description: Learn how Jenkins can streamline your software development with customizable
-  pipelines, project types, and credential management.
-created: '2023-03-05'
-last_update: '2024-12-18'
+description: Learn how Jenkins can streamline your software development with customizable pipelines, project types, and credential management.
+created: 2023-03-05
+last_update: 2024-12-18
 ---
-
-# Jenkins
-
 ## What can you do with Jenkins?
 
 Jenkins is a continuous integration tool which enables software teams to build the integration pipelines for their projects. You can customize your Jenkins-powered pipelines to include different software development processes like building, testing, and staging as well as perform static analysis of your code.

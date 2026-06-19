@@ -1,12 +1,10 @@
 ---
 slug: /databases-nosql/druid/paper
 title: Paper
-description: Discover how real-time nodes optimize event stream ingestion and querying
-  in Druid, ensuring immediate data availability and efficient event handling.
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Discover how real-time nodes optimize event stream ingestion and querying in Druid, ensuring immediate data availability and efficient event handling.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
 ### 1. Realtime Node
 
 Real-time nodes encapsulate the functionality to ingest and query event streams. Events indexed via these nodes are immediately available for querying. The nodes are only concerned with events for some small time range and periodically hand off immutable batches of events they have collected over this small time range to other nodes in the Druid cluster that are specialized in dealing with batches of immutable events. Real-time nodes leverage Zookeeper for coordination with the rest of the Druid cluster. The nodes announce their online state and the data they serve in Zookeeper.

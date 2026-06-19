@@ -1,12 +1,10 @@
 ---
 slug: /economics/investment-frameworks/mental-models/investment-mental-models
 title: Economics Mental Models
-description: Explore essential economics mental models, including incentives, biases,
-  and growth theories, to enhance decision-making and understand market dynamics.
-created: '2023-03-05'
-last_update: '2026-06-18'
+description: Explore essential economics mental models, including incentives, biases, and growth theories, to enhance decision-making and understand market dynamics.
+created: 2023-03-05
+last_update: 2026-06-18
 ---
-
 ## To read
 
 - http://beyondthetechrevolution.com/technological-revolutions-and-financial-capital

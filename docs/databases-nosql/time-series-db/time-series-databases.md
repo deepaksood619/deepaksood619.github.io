@@ -1,12 +1,10 @@
 ---
 slug: /databases-nosql/time-series-db/time-series-databases
 title: Time Series Databases
-description: Discover how time series databases optimize storage and analysis of time-stamped
-  data for efficient monitoring of metrics and events over time.
-created: '2023-03-05'
-last_update: '2026-06-09'
+description: Discover how time series databases optimize storage and analysis of time-stamped data for efficient monitoring of metrics and events over time.
+created: 2023-03-05
+last_update: 2026-06-09
 ---
-
 - Optimized for time-stamped or time series data
 - built specifically for handling metrics and events or measurements that are time-stamped.
 - optimized for measuring change over time.

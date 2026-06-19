@@ -1,14 +1,10 @@
 ---
 slug: /python/django/django-template-language
 title: Understanding Django Template Language
-description: Explore the basics of Django Template Language, including placeholders,
-  template tags, and filters for dynamic content.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the basics of Django Template Language, including placeholders, template tags, and filters for dynamic content.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Django Template Language
-
 `{{ foo }}` - this is a placeholder in the template, for the variable *foo* that is passed to the template from a view.
 
 `{% %}` - when text is surrounded by these delimiters, it means that there is some special function or code running, and the result of that will be placed here. It is used when the text inside is not passed to the template from the view, but rather a function or feature of the template language itself that is being executed (like a for loop, or an if conditional). You can create your own extensions to the template language, which are called template *tags*.

@@ -1,14 +1,10 @@
 ---
 slug: /devops/ides/pycharm
 title: Essential PyCharm Shortcuts for Mac
-description: Discover key PyCharm shortcuts and multicursor commands for Mac users
-  to enhance coding efficiency.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Discover key PyCharm shortcuts and multicursor commands for Mac users to enhance coding efficiency.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# PyCharm
-
 ## Shortcuts Mac
 
 Push - command + shift + k

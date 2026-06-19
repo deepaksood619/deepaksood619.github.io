@@ -1,14 +1,10 @@
 ---
 slug: /technologies/elasticsearch/others
 title: Service Monitoring and Log Management Tools
-description: Explore Heartbeat for service uptime checks and Fluent Bit for log processing
-  and forwarding across various platforms.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Explore Heartbeat for service uptime checks and Fluent Bit for log processing and forwarding across various platforms.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
-# Others
-
 - [Amazon Opensearch](cloud/aws/analytics/amazon-opensearch.md)
 
 ## Heartbeat

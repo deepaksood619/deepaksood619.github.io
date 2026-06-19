@@ -1,14 +1,10 @@
 ---
 slug: /management/product-management/product-book-summaries
 title: Insightful Product Book Summaries
-description: Explore key insights from renowned marketing books to boost your product's
-  success and capture consumer attention effectively.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Explore key insights from renowned marketing books to boost your product's success and capture consumer attention effectively.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
-# Product Book Summaries
-
 ## Purple Cow by Seth Godin
 
 - Take risks at being remarkable, and don't worry about criticism.

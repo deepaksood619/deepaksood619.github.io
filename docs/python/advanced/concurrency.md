@@ -1,14 +1,10 @@
 ---
 slug: /python/advanced/concurrency
 title: Understanding Concurrency in Python
-description: Explore concurrency in Python, including the Global Interpreter Lock
-  (GIL) and effective multithreading strategies for performance enhancement.
-created: '2023-03-05'
-last_update: '2025-08-29'
+description: Explore concurrency in Python, including the Global Interpreter Lock (GIL) and effective multithreading strategies for performance enhancement.
+created: 2023-03-05
+last_update: 2025-08-29
 ---
-
-# Concurrency
-
 ## Global Interpreter Lock (GIL)
 
 GIL is a mutex that protects access to Python objects, preventing multiple threads from executing Python bytecodes at once. This lock is necessary mainly because CPython's memory management is not thread-safe.

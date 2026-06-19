@@ -1,14 +1,10 @@
 ---
 slug: /databases/indexing/heaped-storage
 title: Understanding Heaped Storage in Databases
-description: Learn about heaped storage, its characteristics, and how to manage data
-  without a clustered index effectively.
-created: '2025-05-29'
-last_update: '2025-05-29'
+description: Learn about heaped storage, its characteristics, and how to manage data without a clustered index effectively.
+created: 2025-05-29
+last_update: 2025-05-29
 ---
-
-# Heaped storage
-
 Heaped storage is a term for tables that live on the database with no clustered index. The data is stored in no particular order and new data simply gets added as it comes in.
 
 A heap is a table without a clustered index. One or more nonclustered indexes can be created on tables stored as a heap. Data is stored in the heap without specifying an order. Usually data is initially stored in the order in which the rows are inserted. However, the Database Engine can move data around in the heap to store the rows efficiently. In query results, data order cannot be predicted. To guarantee the order of rows returned from a heap, use the `ORDER BY` clause. To specify a permanent logical order for storing the rows, create a clustered index on the table, so that the table is not a heap.

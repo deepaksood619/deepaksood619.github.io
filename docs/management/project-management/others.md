@@ -1,14 +1,10 @@
 ---
 slug: /management/project-management/others
 title: Project Management Tools Overview
-description: Explore top project management tools like Plane, JIRA, Linear, and Redmine
-  for efficient issue tracking and team collaboration in one comprehensive overview.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Explore top project management tools like Plane, JIRA, Linear, and Redmine for efficient issue tracking and team collaboration in one comprehensive overview.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
-# Others
-
 ## Tools
 
 - [GitHub - **makeplane/plane**: 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.](https://github.com/makeplane/plane) ⭐ 51k

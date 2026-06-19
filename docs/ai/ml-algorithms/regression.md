@@ -1,12 +1,10 @@
 ---
 slug: /ai/ml-algorithms/regression
 title: Regression
-description: Explore regression techniques, including linear and logistic regression,
-  for predicting response variables using independent numeric variables effectively.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore regression techniques, including linear and logistic regression, for predicting response variables using independent numeric variables effectively.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
 Regression is a technique used to predict the value of a response (dependent) variables, from one or more predictor (independent) variables, where the variable are numeric. There are various forms of regression such as linear, multiple, logistic, polynomial, non-parametric, etc.
 
 Linear and Logistic regression are the most basic form of regression which are commonly used. The essential difference between these two is that Logistic regression is used when the dependent variable is binary in nature. In contrast, Linear regression is used when the dependent variable is continuous and nature of the regression line is linear.

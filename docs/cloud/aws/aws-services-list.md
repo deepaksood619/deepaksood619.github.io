@@ -1,13 +1,10 @@
 ---
 slug: /cloud/aws/aws-services-list
 title: AWS Services List
-description: Explore our comprehensive AWS services list featuring 322 solutions,
-  including analytics, database integrations, and managed services for seamless cloud
-  computing.
-created: '2024-03-18'
-last_update: '2026-06-11'
+description: Explore our comprehensive AWS services list featuring 322 solutions, including analytics, database integrations, and managed services for seamless cloud computing.
+created: 2024-03-18
+last_update: 2026-06-11
 ---
-
 Total - 322 services
 
 Total with Duplicates - 331 services

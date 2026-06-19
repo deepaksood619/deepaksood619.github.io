@@ -1,14 +1,10 @@
 ---
 slug: /technologies/apache-spark/04-key-points
 title: Understanding Spark Dataframes
-description: Learn the key features of Spark dataframes, including distributed computation
-  and the differences with Pandas dataframes.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Learn the key features of Spark dataframes, including distributed computation and the differences with Pandas dataframes.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
-# Key points
-
 ## Spark Dataframes
 
 The key data type used in PySpark is the Spark dataframe. This object can be thought of as a table distributed across a cluster and has functionality that is similar to dataframes in R and Pandas. If you want to do distributed computation using PySpark, then you'll need to perform operations on Spark dataframes, and not other python data types.

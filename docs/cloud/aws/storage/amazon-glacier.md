@@ -1,12 +1,10 @@
 ---
 slug: /cloud/aws/storage/amazon-glacier
 title: Amazon Glacier
-description: Discover Amazon Glacier, a low-cost, secure cloud storage solution for
-  data archiving and long-term backup with powerful query-in-place functionality.
-created: '2025-10-24'
-last_update: '2025-11-12'
+description: Discover Amazon Glacier, a low-cost, secure cloud storage solution for data archiving and long-term backup with powerful query-in-place functionality.
+created: 2025-10-24
+last_update: 2025-11-12
 ---
-
 ### Low-cost Archive Storage in the Cloud
 
 Amazon Glacier is a secure, durable, and extremely low-cost storage service for data archiving and long-term backup. Glacier provides 'query-in-place functionality', which allows you to run powerful analytics directly on archived data at rest. Glacier can make use of other AWS services such as S3, CloudFront etc. to move data in and out seamlessly for better and effective results.

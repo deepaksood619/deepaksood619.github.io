@@ -1,14 +1,10 @@
 ---
 slug: /devops/terminal-bash/readme
 title: Comprehensive Guide to Terminal Bash
-description: Explore our detailed guide on Terminal Bash, covering shell basics, scripting,
-  commands, and essential tools for efficient Linux and Unix usage.
-created: '2023-03-05'
-last_update: '2026-03-31'
+description: Explore our detailed guide on Terminal Bash, covering shell basics, scripting, commands, and essential tools for efficient Linux and Unix usage.
+created: 2023-03-05
+last_update: 2026-03-31
 ---
-
-# Terminal Bash
-
 - [Shell - Intro](shell-intro)
 - [Shell / Bash Script](shell-bash-script)
 - [Manual Pages](manual-pages)

@@ -1,14 +1,10 @@
 ---
 slug: /mathematics/probability/intro-to-probability/readme
 title: Probability Concepts and Techniques
-description: Explore essential probability concepts and techniques, including models,
-  independence, counting, mass functions, and expectations in our comprehensive guide.
-created: '2023-03-05'
-last_update: '2023-05-03'
+description: Explore essential probability concepts and techniques, including models, independence, counting, mass functions, and expectations in our comprehensive guide.
+created: 2023-03-05
+last_update: 2023-05-03
 ---
-
-# Intro to Probability
-
 - [Intro - Syllabus](intro-syllabus)
 - [1. Probability Models And Axioms](1.-probability-models-and-axioms)
 - [1.1-set-sequences-limits-and-series-un-countable-sets](1.1-set-sequences-limits-and-series-un-countable-sets)

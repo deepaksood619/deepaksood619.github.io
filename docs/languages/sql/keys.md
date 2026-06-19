@@ -1,13 +1,10 @@
 ---
 slug: /languages/sql/keys
 title: Keys
-description: Discover the essential role of DBMS keys in uniquely identifying rows
-  and establishing relationships between tables, including types like Primary and
-  Super Keys.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Discover the essential role of DBMS keys in uniquely identifying rows and establishing relationships between tables, including types like Primary and Super Keys.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 ## Keys
 
 A DBMS key is an attribute or set of an attribute which helps you to identify a row(tuple) in a relation (table). They allow you to find the relation between two tables. Keys help you uniquely identify a row in a table by a combination of one or more columns in that table.

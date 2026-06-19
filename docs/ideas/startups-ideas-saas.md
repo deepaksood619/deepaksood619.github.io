@@ -1,13 +1,10 @@
 ---
 slug: /ideas/startups-ideas-saas
 title: Startups Ideas - SAAS
-description: Explore innovative SaaS startup ideas leveraging affordable Indian labor,
-  embracing usage-based pricing, and tapping into developer tools for efficient software
-  solutions.
-created: '2023-03-05'
-last_update: '2026-06-19'
+description: Explore innovative SaaS startup ideas leveraging affordable Indian labor, embracing usage-based pricing, and tapping into developer tools for efficient software solutions.
+created: 2023-03-05
+last_update: 2026-06-19
 ---
-
 Create best software companies with Indian labour, since labour is cheap in India like Zoho
 
 **Don't pay for bits, pay for atoms.** Software is free open source, pay for physical infrastructure, and usage

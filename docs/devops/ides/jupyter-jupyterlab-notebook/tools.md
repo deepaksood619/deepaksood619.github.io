@@ -1,14 +1,10 @@
 ---
 slug: /devops/ides/jupyter-jupyterlab-notebook/tools
 title: Essential Tools for Jupyter Notebooks
-description: Discover powerful tools like nteract and Papermill to enhance your Jupyter
-  notebook experience and streamline data analysis.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Discover powerful tools like nteract and Papermill to enhance your Jupyter notebook experience and streamline data analysis.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
-# Tools
-
 https://sqlnotebook.com
 
 [**nteract**](https://github.com/nteract) is a next-gen React-based UI for Jupyter notebooks. It provides a simple, intuitive interface and offers several improvements over the classic Jupyter UI, such as inline cell toolbars, drag and droppable cells, and a built-in data explorer.

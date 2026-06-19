@@ -1,14 +1,10 @@
 ---
 slug: /devops/devops-intro/load-balancing-algorithms
 title: Load Balancing Algorithms Overview
-description: Explore various load balancing algorithms including Round Robin and Least
-  Connections to optimize server performance and resource allocation.
-created: '2024-01-19'
-last_update: '2024-01-19'
+description: Explore various load balancing algorithms including Round Robin and Least Connections to optimize server performance and resource allocation.
+created: 2024-01-19
+last_update: 2024-01-19
 ---
-
-# Load Balancing Algorithms
-
 ### Round Robin
 
 Requests are distributed across all the instances sequentially

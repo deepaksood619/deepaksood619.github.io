@@ -1,12 +1,10 @@
 ---
 slug: /technologies/apache/others
 title: Overview of Apache Tez and Spark
-description: 'Explore Apache Tez and Spark: application frameworks for efficient data
-  processing with a focus on performance and user empowerment.'
-created: '2023-03-05'
-last_update: '2025-02-20'
+description: Explore Apache Tez and Spark: application frameworks for efficient data processing with a focus on performance and user empowerment.
+created: 2023-03-05
+last_update: 2025-02-20
 ---
-
 # Others
 
 ## Apache Tez

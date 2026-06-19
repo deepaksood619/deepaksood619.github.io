@@ -1,13 +1,10 @@
 ---
 slug: /languages/c++/readme
 title: C++
-description: Explore essential C++ concepts including templates, storage classes,
-  STL containers, and frameworks to enhance your programming skills and build robust
-  applications.
-created: '2023-03-05'
-last_update: '2024-01-15'
+description: Explore essential C++ concepts including templates, storage classes, STL containers, and frameworks to enhance your programming skills and build robust applications.
+created: 2023-03-05
+last_update: 2024-01-15
 ---
-
 - [Intro](languages/c++/intro.md)
 - [Header files](header-files)
 - [printf](printf)

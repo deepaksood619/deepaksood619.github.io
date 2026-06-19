@@ -1,14 +1,10 @@
 ---
 slug: /networking/others/file-formats
 title: Understanding File Formats in Data Management
-description: Explore row-based and columnar file formats like CSV, Parquet, and Sequence
-  files used in data processing and storage.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Explore row-based and columnar file formats like CSV, Parquet, and Sequence files used in data processing and storage.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
-# File Formats
-
 CSV, TSV, JSON, and Avro, are traditional row-based file formats. Parquet, and ORC file are columnar file formats.
 
 ## SequenceFile

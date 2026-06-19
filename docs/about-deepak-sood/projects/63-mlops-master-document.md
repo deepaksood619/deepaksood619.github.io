@@ -1,14 +1,10 @@
 ---
 slug: /about-deepak-sood/projects/63-mlops-master-document
 title: MLOps Comprehensive Guide
-description: Explore MLOps practices and tools for efficient deployment, monitoring,
-  and management of machine learning models in production.
-created: '2024-03-17'
-last_update: '2024-12-18'
+description: Explore MLOps practices and tools for efficient deployment, monitoring, and management of machine learning models in production.
+created: 2024-03-17
+last_update: 2024-12-18
 ---
-
-# MLOps Master Document
-
 ## Introduction
 
 MLOps, short for Machine Learning Operations, refers to the practices and tools used to streamline and automate the deployment, monitoring, and management of machine learning models in production environments. It combines principles from DevOps, Data Engineering, and Machine Learning to ensure that machine learning models are deployed and maintained effectively, reliably, and efficiently.

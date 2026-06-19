@@ -1,12 +1,10 @@
 ---
 slug: /ai/ml-fundamentals/cheatsheet
 title: Cheatsheet
-description: Discover essential machine learning concepts like unsupervised and reinforcement
-  learning, outliers, and overfitting in this comprehensive cheatsheet.
-created: '2025-05-03'
-last_update: '2025-05-03'
+description: Discover essential machine learning concepts like unsupervised and reinforcement learning, outliers, and overfitting in this comprehensive cheatsheet.
+created: 2025-05-03
+last_update: 2025-05-03
 ---
-
 ## 1. Core Concepts & Learning Types
 
 This category covers foundational ideas and different paradigms of machine learning learning.

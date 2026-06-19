@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/operating-system/raid
 title: Understanding RAID Technology
-description: Learn about RAID, its levels, and how it enhances data redundancy and
-  performance in storage systems.
-created: '2023-03-05'
-last_update: '2025-02-14'
+description: Learn about RAID, its levels, and how it enhances data redundancy and performance in storage systems.
+created: 2023-03-05
+last_update: 2025-02-14
 ---
-
-# RAID
-
 RAID (Redundant Array of Inexpensive Disks or Drives, or Redundant Array of Independent Disks) is a data [storage virtualization](https://en.wikipedia.org/wiki/Storage_virtualization) technology that combines multiple physical [disk drive](https://en.wikipedia.org/wiki/Disk_drive) components into one or more logical units for the purposes of [data redundancy](https://en.wikipedia.org/wiki/Data_redundancy), performance improvement, or both. This was in contrast to the previous concept of highly reliable mainframe disk drives referred to as "single large expensive disk" (SLED).
 
 Data is distributed across the drives in one of several ways, referred to as RAID levels, depending on the required level of [redundancy](https://en.wikipedia.org/wiki/Redundancy_(engineering)) and performance. The different schemes, or data distribution layouts, are named by the word "RAID" followed by a number, for example RAID0 or RAID1. Each scheme, or RAID level, provides a different balance among the key goals:[reliability](https://en.wikipedia.org/wiki/Reliability_engineering), [availability](https://en.wikipedia.org/wiki/Availability), [performance](https://en.wikipedia.org/wiki/Computer_performance), and [capacity](https://en.wikipedia.org/wiki/Computer_data_storage#Capacity). RAID levels greater than RAID0 provide protection against unrecoverable [sector](https://en.wikipedia.org/wiki/Disk_sector) read errors, as well as against failures of whole physical drives.

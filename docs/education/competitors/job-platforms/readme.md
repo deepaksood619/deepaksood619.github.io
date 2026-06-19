@@ -1,14 +1,10 @@
 ---
 slug: /education/competitors/job-platforms/readme
 title: Job Platforms Market Analysis 2026
-description: Explore the evolution of job platforms in India and the US, focusing
-  on innovative models linking education and employment.
-created: '2026-06-08'
-last_update: '2026-06-09'
+description: Explore the evolution of job platforms in India and the US, focusing on innovative models linking education and employment.
+created: 2026-06-08
+last_update: 2026-06-09
 ---
-
-# Job Platforms Market Analysis
-
 **Last Updated:** June 2026
 
 **Research Scope:** India job platforms, US platforms with India operations, education-to-employment bridges, pure job boards, and hybrid models combining upskilling with placement.

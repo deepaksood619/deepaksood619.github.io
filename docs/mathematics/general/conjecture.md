@@ -1,13 +1,10 @@
 ---
 slug: /mathematics/general/conjecture
 title: Conjecture
-description: Explore the fascinating world of conjectures, including the Collatz Conjecture
-  and Riemann Hypothesis, phenomena centered on conclusions drawn from incomplete
-  data.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Explore the fascinating world of conjectures, including the Collatz Conjecture and Riemann Hypothesis, phenomena centered on conclusions drawn from incomplete data.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
 Conjecture - Is a conclusion or proposition based on incomplete information, for which no proof has been found.
 
 1. Collatz Conjecture

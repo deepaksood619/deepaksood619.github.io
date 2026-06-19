@@ -1,14 +1,10 @@
 ---
 slug: /education/technical/tech-stack
 title: Comprehensive Tech Stack Overview
-description: Explore our detailed tech stack, featuring frontend frameworks, backend
-  APIs, database solutions, and AI/ML technologies.
-created: '2026-06-11'
-last_update: '2026-06-17'
+description: Explore our detailed tech stack, featuring frontend frameworks, backend APIs, database solutions, and AI/ML technologies.
+created: 2026-06-11
+last_update: 2026-06-17
 ---
-
-# Tech Stack
-
 ## Technology Stack
 
 ### Frontend

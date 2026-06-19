@@ -1,12 +1,10 @@
 ---
 slug: /cloud/aws/storage/amazon-ebs
 title: Amazon EBS
-description: 'Discover Amazon EBS: network-attached storage for EC2 instances, offering
-  scalable capacity, performance tuning, and point-in-time snapshots for data management.'
-created: '2023-03-05'
-last_update: '2025-11-14'
+description: Discover Amazon EBS: network-attached storage for EC2 instances, offering scalable capacity, performance tuning, and point-in-time snapshots for data management.
+created: 2023-03-05
+last_update: 2025-11-14
 ---
-
 ## EBS Usage
 
 EBS volumes are network-attached storage that persists independently from the running life of a single EC2 instance. After an EBS volume is attached to an EC2 instance, you can use the EBS volume similar to a physical hard drive -- typically by formatting it with the file system of your choice and using the file I/O interface provided by the instance operating system. Multiple EBS volumes can be attached to a single EC2 instance and it allows you to dynamically increase capacity, tune performance, and change the type of any new or existing current generation volume with no downtime or performance impact. Furthermore EBS provides the ability to save point-in-time snapshots of your volumes. Each separate volume can be configured as EBS General Purpose (SSD), Provisioned IOPS (SSD), Throughput Optimized (HDD), or Cold (HDD) as needed

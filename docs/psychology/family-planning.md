@@ -1,12 +1,10 @@
 ---
 slug: /psychology/family-planning
 title: Family Planning
-description: Explore the psychological and developmental dynamics of single-child
-  versus multi-child families in our comprehensive family planning analysis.
-created: '2026-06-10'
-last_update: '2026-06-10'
+description: Explore the psychological and developmental dynamics of single-child versus multi-child families in our comprehensive family planning analysis.
+created: 2026-06-10
+last_update: 2026-06-10
 ---
-
 **Psychological and Developmental Dynamics of Family Constellations: An Exhaustive Analysis of Single-Child Versus Multi-Child Environments**
 
 ## Introduction to Family Structural Paradigms

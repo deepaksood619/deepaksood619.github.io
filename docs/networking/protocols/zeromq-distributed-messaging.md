@@ -1,14 +1,10 @@
 ---
 slug: /networking/protocols/zeromq-distributed-messaging
-title: 'ZeroMQ: Efficient Distributed Messaging'
-description: Discover how ZeroMQ enables scalable messaging with advanced patterns
-  and high-speed asynchronous I/O for concurrent applications.
-created: '2023-03-05'
-last_update: '2023-12-05'
+title: "ZeroMQ: Efficient Distributed Messaging"
+description: Discover how ZeroMQ enables scalable messaging with advanced patterns and high-speed asynchronous I/O for concurrent applications.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# ZeroMQ: Distributed Messaging
-
 ZeroMQ (also known as ØMQ, 0MQ, or zmq) looks like an embeddable networking library but acts like a concurrency framework. It gives you sockets that carry atomic messages across various transports like in-process, inter-process, TCP, and multicast. You can connect sockets N-to-N with patterns like fan-out, pub-sub, task distribution, and request-reply. It's fast enough to be the fabric for clustered products. Its asynchronous I/O model gives you scalable multicore applications, built as asynchronous message-processing tasks. It has a score of language APIs and runs on most operating systems.- Carries messages across inproc, IPC, TCP, TIPC, multicast.
 
 - Smart patterns like pub-sub, push-pull, and router-dealer.

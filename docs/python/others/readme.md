@@ -1,14 +1,10 @@
 ---
 slug: /python/others/readme
 title: Programming Libraries and Frameworks
-description: Explore various programming libraries and frameworks including Flask,
-  FastAPI, SQLAlchemy, and more.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore various programming libraries and frameworks including Flask, FastAPI, SQLAlchemy, and more.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
-# Others
-
 - [Requests](requests)
 - [PyMySQL](pymysql)
 - [SQLAlchemy](sqlalchemy/readme.md)

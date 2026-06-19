@@ -1,14 +1,10 @@
 ---
 slug: /devops/terminal-bash/tools/awk
 title: Introduction to AWK Programming Language
-description: Learn about AWK, a powerful text processing language widely used for
-  data extraction and reporting in Unix-like operating systems.
-created: '2023-03-05'
-last_update: '2023-12-06'
+description: Learn about AWK, a powerful text processing language widely used for data extraction and reporting in Unix-like operating systems.
+created: 2023-03-05
+last_update: 2023-12-06
 ---
-
-# AWK
-
 man awk - pattern-directed scanning and processing language
 
 AWK is a [programming language](https://en.wikipedia.org/wiki/Programming_language) designed for text processing and typically used as a [data extraction](https://en.wikipedia.org/wiki/Data_extraction) and reporting tool. It is a standard feature of most [Unix-like](https://en.wikipedia.org/wiki/Unix-like)[operating systems](https://en.wikipedia.org/wiki/Operating_system)

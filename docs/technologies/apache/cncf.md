@@ -1,14 +1,10 @@
 ---
 slug: /technologies/apache/cncf
 title: CNCF Landscape and TUF Overview
-description: Explore the CNCF landscape and learn about The Update Framework (TUF)
-  for secure software updates.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Explore the CNCF landscape and learn about The Update Framework (TUF) for secure software updates.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
-# CNCF
-
 ## CNCF Landscape
 
 [https://landscape.cncf.io](https://landscape.cncf.io/)

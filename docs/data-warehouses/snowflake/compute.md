@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/snowflake/compute
 title: Understanding Snowflake Virtual Warehouses
-description: Learn about Snowflake's Virtual Warehouses, their configurations, and
-  how to optimize SQL query performance.
-created: '2024-01-05'
-last_update: '2025-06-10'
+description: Learn about Snowflake's Virtual Warehouses, their configurations, and how to optimize SQL query performance.
+created: 2024-01-05
+last_update: 2025-06-10
 ---
-
-# Compute
-
 ## Virtual Warehouse
 
 - In Snowflake, a Virtual Warehouse is a unit of compute resources that is used to execute SQL queries. It is a cluster of compute nodes that work together to process queries submitted to Snowflake.

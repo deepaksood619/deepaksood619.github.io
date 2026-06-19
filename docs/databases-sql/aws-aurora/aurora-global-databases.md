@@ -1,13 +1,10 @@
 ---
 slug: /databases-sql/aws-aurora/aurora-global-databases
 title: Aurora Global Databases
-description: Discover Amazon Aurora global databases for low latency global reads
-  and fast recovery, supporting multiple AWS Regions and independent secondary cluster
-  scaling.
-created: '2024-05-04'
-last_update: '2025-10-25'
+description: Discover Amazon Aurora global databases for low latency global reads and fast recovery, supporting multiple AWS Regions and independent secondary cluster scaling.
+created: 2024-05-04
+last_update: 2025-10-25
 ---
-
 Amazon Aurora global databases span multiple AWS Regions, enabling low latency global reads and providing fast recovery from the rare outage that might affect an entire AWS Region. An Aurora global database has a primary DB cluster in one Region, and up to five secondary DB clusters in different Regions.
 
 You can scale up each secondary cluster independently, by adding one or more Aurora Replicas (read-only Aurora DB instances) to serve read-only workloads.

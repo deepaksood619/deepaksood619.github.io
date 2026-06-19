@@ -1,14 +1,10 @@
 ---
 slug: /education/market-analysis/masai-school-financial-analysis
 title: Masai School PAP Model Viability
-description: Explore the financial analysis of Masai School's PAP model and its successful
-  adaptation in the Indian market.
-created: '2026-06-09'
-last_update: '2026-06-09'
+description: Explore the financial analysis of Masai School's PAP model and its successful adaptation in the Indian market.
+created: 2026-06-09
+last_update: 2026-06-09
 ---
-
-# Masai School Financial Analysis: India PAP Model Viability
-
 **Last Updated:** June 2026
 
 **Category:** Market Analysis - India PAP Model Case Study

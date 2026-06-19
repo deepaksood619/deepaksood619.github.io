@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/law/constitution-of-india/constitution
 title: Constitution of India
-description: Explore the Constitution of India, featuring 448 articles, 25 parts,
-  and 12 schedules that shape the nation’s legal framework and democratic values.
-created: '2023-03-05'
-last_update: '2023-12-23'
+description: Explore the Constitution of India, featuring 448 articles, 25 parts, and 12 schedules that shape the nation’s legal framework and democratic values.
+created: 2023-03-05
+last_update: 2023-12-23
 ---
-
 ## Original
 
 - Articles - 395

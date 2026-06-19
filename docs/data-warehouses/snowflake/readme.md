@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/snowflake/readme
 title: Comprehensive Guide to Snowflake
-description: Explore Snowflake's architecture, compute, data governance, ingestion,
-  and optimizations for effective data warehousing.
-created: '2025-06-10'
-last_update: '2026-06-10'
+description: Explore Snowflake's architecture, compute, data governance, ingestion, and optimizations for effective data warehousing.
+created: 2025-06-10
+last_update: 2026-06-10
 ---
-
-# Snowflake
-
 - [Intro](data-warehouses/snowflake/intro.md)
 - [Architecture](data-warehouses/snowflake/architecture.md)
 - [Compute](data-warehouses/snowflake/compute.md)

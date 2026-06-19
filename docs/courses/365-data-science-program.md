@@ -1,12 +1,10 @@
 ---
 slug: /courses/365-data-science-program
 title: 365 Data Science Program
-description: Enhance your skills with the 365 Data Science Program, featuring courses
-  in Excel, SQL, Python, R, PowerBI, and deep learning for comprehensive data mastery.
-created: '2023-03-05'
-last_update: '2024-02-01'
+description: Enhance your skills with the 365 Data Science Program, featuring courses in Excel, SQL, Python, R, PowerBI, and deep learning for comprehensive data mastery.
+created: 2023-03-05
+last_update: 2024-02-01
 ---
-
 1. Intro to Data and Data Science
 2. Introduction to Microsoft Excel
 3. Advanced Microsoft Excel

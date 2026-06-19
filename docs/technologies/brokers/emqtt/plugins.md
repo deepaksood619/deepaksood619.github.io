@@ -1,14 +1,10 @@
 ---
 slug: /technologies/brokers/emqtt/plugins
 title: Extend EMQ Xbroker with Plugins
-description: Discover essential plugins for EMQ Xbroker including authentication,
-  dashboards, and message retention features.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Discover essential plugins for EMQ Xbroker including authentication, dashboards, and message retention features.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
-# Plugins
-
 TheEMQ Xbroker could be extended by Plugins. A plugin is an Erlang application that adds extra feature to theEMQ Xbroker:
 
 | [emqx_retainer](https://github.com/emqx/emqx-retainer) ⭐ 22               | Store Retained Messages                   |

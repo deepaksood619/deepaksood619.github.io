@@ -1,12 +1,10 @@
 ---
 slug: /about-deepak-sood/projects/92-stashfin-redshift-to-snowflake-migration
-title: 'Stashfin: Redshift to Snowflake Migration'
-description: Explore Stashfin's migration from Redshift to Snowflake to overcome BI
-  reporting delays and enhance data processing capabilities.
-created: '2026-05-29'
-last_update: '2026-05-29'
+title: "Stashfin: Redshift to Snowflake Migration"
+description: Explore Stashfin's migration from Redshift to Snowflake to overcome BI reporting delays and enhance data processing capabilities.
+created: 2026-05-29
+last_update: 2026-05-29
 ---
-
 ## Slide 1: Stashfin Context & Challenge
 
 ### About Stashfin

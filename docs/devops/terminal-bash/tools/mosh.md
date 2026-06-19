@@ -1,14 +1,10 @@
 ---
 slug: /devops/terminal-bash/tools/mosh
-title: 'Mosh: Advanced Remote Terminal Software'
-description: Discover Mosh, a robust terminal application that enhances SSH with seamless
-  roaming and reliable connections over various networks.
-created: '2023-03-05'
-last_update: '2023-12-05'
+title: "Mosh: Advanced Remote Terminal Software"
+description: Discover Mosh, a robust terminal application that enhances SSH with seamless roaming and reliable connections over various networks.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Mosh
-
 Remote terminal application that allowsroaming, supportsintermittent connectivity, and provides intelligentlocal echoand line editing of user keystrokes.
 
 Mosh is a replacement for interactive SSH terminals. It's more robust and responsive, especially over Wi-Fi, cellular, and long-distance links.

@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/system-design/serverless-architecture
 title: Understanding Serverless Architecture
-description: Explore serverless architecture, its benefits, and how it simplifies
-  development with containerization and microservices.
-created: '2023-03-05'
-last_update: '2025-06-04'
+description: Explore serverless architecture, its benefits, and how it simplifies development with containerization and microservices.
+created: 2023-03-05
+last_update: 2025-06-04
 ---
-
-# Serverless Architecture
-
 Serverless computing simply means using existing, auto-scaling cloud services to achieve system behaviours. In other words, I don't manage any servers or docker containers. I don't set up networks or manage operation (ops). I merely provide the serverless solution my recipe and it handles creation of any needed assets and performs the required computational process.
 
 1. Containerisation - Gives a uniform development environment that is independent of the systems the code is running on.

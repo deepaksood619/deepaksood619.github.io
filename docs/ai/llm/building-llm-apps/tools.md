@@ -1,12 +1,10 @@
 ---
 slug: /ai/llm/building-llm-apps/tools
 title: Tools
-description: Discover essential tools and apps for Gen AI, including top consumer
-  apps, LLM collections, and chatbot utilities to enhance your AI experience.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover essential tools and apps for Gen AI, including top consumer apps, LLM collections, and chatbot utilities to enhance your AI experience.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 [The Top 100 Gen AI Consumer Apps — 6th Edition \| Andreessen Horowitz](https://a16z.com/100-gen-ai-apps-6/)
 
 [GitHub - Shubhamsaboo/awesome-llm-apps: Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 114k

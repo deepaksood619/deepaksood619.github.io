@@ -1,14 +1,10 @@
 ---
 slug: /about-deepak-sood/projects/31-techie-talks-podcast-architecting-data-at-scale
-title: 'Techie Talks: Data Engineering Insights'
-description: Join us on Techie Talks as Deepak shares insights on architecting data
-  at scale and the evolving role of data engineers.
-created: '2025-08-02'
-last_update: '2025-08-04'
+title: "Techie Talks: Data Engineering Insights"
+description: Join us on Techie Talks as Deepak shares insights on architecting data at scale and the evolving role of data engineers.
+created: 2025-08-02
+last_update: 2025-08-04
 ---
-
-# Techie Talks Podcast - Architecting Data at Scale
-
 Hi Deepak,
 
 Thank you for agreeing to join me on the show. Your deep experience in data engineering and scaling complex systems is a topic our audience will find incredibly valuable.

@@ -1,14 +1,10 @@
 ---
 slug: /networking/others/grpc/guides
 title: Comprehensive gRPC Guides
-description: Explore essential gRPC guides covering authentication, error handling,
-  custom data types, and more for effective API development.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore essential gRPC guides covering authentication, error handling, custom data types, and more for effective API development.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
-# Guides
-
 - [Authentication](https://grpc.io/docs/guides/auth/)
 - [Benchmarking](https://grpc.io/docs/guides/benchmarking/)
 - [Contribution Guidelines](https://grpc.io/docs/guides/contributing/)

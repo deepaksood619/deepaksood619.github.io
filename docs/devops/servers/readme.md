@@ -1,14 +1,10 @@
 ---
 slug: /devops/servers/readme
 title: Overview of Web and Application Servers
-description: Explore various web and application servers, including Apache, NGINX,
-  and Gunicorn, with insights into HTTPD functionality.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Explore various web and application servers, including Apache, NGINX, and Gunicorn, with insights into HTTPD functionality.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
-# Servers
-
 - [Apache Server](devops/servers/apache-server.md)
 - [Gunicorn](devops/servers/gunicorn.md)
 - [NGINX](devops/servers/nginx/readme.md)

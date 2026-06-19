@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/operating-system/basic-computer-organization
 title: Understanding Basic Computer Organization
-description: Learn the fundamentals of computer organization, including the instruction
-  execution cycle and CPU memory interactions.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Learn the fundamentals of computer organization, including the instruction execution cycle and CPU memory interactions.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
-# Basic Computer Organization
-
 ## Instruction Execution Cycle
 
 1. Instruction Fetch - Obtain instruction from program store

@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/language/mistakes
 title: Mistakes
-description: Discover common usage mistakes in English, including affect vs. effect,
-  apart vs. a part, and assure vs. ensure, to improve your writing clarity.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Discover common usage mistakes in English, including affect vs. effect, apart vs. a part, and assure vs. ensure, to improve your writing clarity.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
 ## Usage Mistakes
 
 ### Affect vs. Effect

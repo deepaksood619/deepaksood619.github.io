@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/psychology/13-things-mentally-strong-parents-dont-do
 title: 13 Things Mentally Strong Parents Don't Do
-description: Discover the 13 essential habits of mentally strong parents who foster
-  resilience, responsibility, and emotional intelligence in their children.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover the 13 essential habits of mentally strong parents who foster resilience, responsibility, and emotional intelligence in their children.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 - Promote responsibility and perseverance over a victim mentality
 - Don't parent with a strategy of avoidance. Instead, teach you kids healthy ways to deal with guilt and fear
 - Set strong boundaries so your child doesn't think the world revolves around her or that she holds power over you

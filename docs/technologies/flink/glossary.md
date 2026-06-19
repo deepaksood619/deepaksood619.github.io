@@ -1,14 +1,10 @@
 ---
 slug: /technologies/flink/glossary
 title: Flink Glossary of Terms
-description: Explore key concepts of Apache Flink, including Checkpoint Storage and
-  Flink Application Clusters for better understanding.
-created: '2025-12-16'
-last_update: '2026-01-26'
+description: Explore key concepts of Apache Flink, including Checkpoint Storage and Flink Application Clusters for better understanding.
+created: 2025-12-16
+last_update: 2026-01-26
 ---
-
-# Glossary
-
 ## Checkpoint Storage
 
 The location where the [State Backend](https://nightlies.apache.org/flink/flink-docs-stable/docs/concepts/glossary/#state-backend) will store its snapshot during a checkpoint (Java Heap of [JobManager](https://nightlies.apache.org/flink/flink-docs-stable/docs/concepts/glossary/#flink-jobmanager) or Filesystem).

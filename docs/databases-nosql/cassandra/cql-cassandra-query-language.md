@@ -1,13 +1,10 @@
 ---
 slug: /databases-nosql/cassandra/cql-cassandra-query-language
 title: CQL (Cassandra Query Language)
-description: Discover CQL (Cassandra Query Language), a powerful SQL-like interface
-  for efficient data handling, schema management, and interoperability in Cassandra
-  databases.
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Discover CQL (Cassandra Query Language), a powerful SQL-like interface for efficient data handling, schema management, and interoperability in Cassandra databases.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
 ## CQL
 
 - CQL mapping to cassandra's internal data structure

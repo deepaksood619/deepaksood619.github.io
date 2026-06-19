@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/biology/nutrition/ecology
 title: Ecology
-description: Explore the fascinating world of ecology, including troglobites in caves
-  and the essential role of cereals and their components in our ecosystem.
-created: '2023-03-05'
-last_update: '2025-11-09'
+description: Explore the fascinating world of ecology, including troglobites in caves and the essential role of cereals and their components in our ecosystem.
+created: 2023-03-05
+last_update: 2025-11-09
 ---
-
 Troglobites - animals that live in cave
 
 [https://en.wikipedia.org/wiki/Evolutionary_history_of_plants](https://en.wikipedia.org/wiki/Evolutionary_history_of_plants#Seeds)

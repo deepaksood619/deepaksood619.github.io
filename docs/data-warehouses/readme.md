@@ -1,12 +1,10 @@
 ---
 slug: /data-warehouses/readme
 title: Data Warehouses
-description: Explore key concepts of data warehouses, including Databricks, Snowflake,
-  Amazon Redshift, and others, to enhance your data analytics strategy.
-created: '2025-06-10'
-last_update: '2026-05-29'
+description: Explore key concepts of data warehouses, including Databricks, Snowflake, Amazon Redshift, and others, to enhance your data analytics strategy.
+created: 2025-06-10
+last_update: 2026-05-29
 ---
-
 - [Concepts](data-warehouses/concepts/readme.md)
 - Data Warehouses
 	- [Databricks](data-warehouses/databricks/readme.md)

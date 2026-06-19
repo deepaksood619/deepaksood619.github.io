@@ -1,12 +1,10 @@
 ---
 slug: /ai/computer-vision-cv/model-building-stages
 title: Model Building Stages
-description: Learn the essential stages of model building for detecting aflatoxin
-  in corn images, from problem definition to data collection and labeling.
-created: '2024-09-17'
-last_update: '2024-09-17'
+description: Learn the essential stages of model building for detecting aflatoxin in corn images, from problem definition to data collection and labeling.
+created: 2024-09-17
+last_update: 2024-09-17
 ---
-
 ## 1. Define the Problem
 
 Clearly define the goal of the project: **to build a CV model that detects aflatoxin contamination levels in corn samples through image analysis**. The contamination levels will be categorized into predefined bands such as 0-30 ppb, 31-50 ppb, etc.

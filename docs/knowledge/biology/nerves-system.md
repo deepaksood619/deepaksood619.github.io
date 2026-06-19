@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/biology/nerves-system
 title: Nerves System
-description: Discover the 12 cranial nerves that connect your brain to the body, facilitating
-  sensory and motor functions for senses and muscle control.
-created: '2023-03-05'
-last_update: '2025-02-14'
+description: Discover the 12 cranial nerves that connect your brain to the body, facilitating sensory and motor functions for senses and muscle control.
+created: 2023-03-05
+last_update: 2025-02-14
 ---
-
 Your cranial nerves are pairs of nerves that connect your [brain](https://www.healthline.com/human-body-maps/brain) to different parts of your head, neck, and trunk. There are 12 of them, each named for their function or structure.
 
 Each nerve also has a corresponding Roman numeral between I and XII. This is based off their location from front to back. For example, your olfactory nerve is closest to the front of your head, so it's designated as I.

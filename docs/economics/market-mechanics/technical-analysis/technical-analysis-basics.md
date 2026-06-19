@@ -1,12 +1,10 @@
 ---
 slug: /economics/market-mechanics/technical-analysis/technical-analysis-basics
 title: Technical Analysis
-description: Discover how technical analysis utilizes charts and patterns, focusing
-  on candlestick charts to identify trading opportunities and market trends.
-created: '2023-03-05'
-last_update: '2026-06-09'
+description: Discover how technical analysis utilizes charts and patterns, focusing on candlestick charts to identify trading opportunities and market trends.
+created: 2023-03-05
+last_update: 2026-06-09
 ---
-
 Technical Analysis helps identify trading opportunities using actions of Market Participants through charts, patterns, and indicators.
 
 ## The Chart Types

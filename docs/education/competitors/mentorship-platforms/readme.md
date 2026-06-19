@@ -1,14 +1,10 @@
 ---
 slug: /education/competitors/mentorship-platforms/readme
 title: Mentorship Platforms Market Research
-description: Explore the booming mentorship platforms market, uncovering trends, insights,
-  and AI's role in scalable career coaching.
-created: '2026-06-08'
-last_update: '2026-06-10'
+description: Explore the booming mentorship platforms market, uncovering trends, insights, and AI's role in scalable career coaching.
+created: 2026-06-08
+last_update: 2026-06-10
 ---
-
-# Mentorship Platforms - Market Research
-
 **Date:** 2026-06-08
 
 **Category:** 1:1 Mentorship, Career Coaching, Expert Guidance

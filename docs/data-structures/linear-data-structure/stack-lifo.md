@@ -1,14 +1,10 @@
 ---
 slug: /data-structures/linear-data-structure/stack-lifo
 title: Understanding Stack LIFO Structures
-description: Explore the Stack LIFO data structure, its features, and functions like
-  push() and pop() for managing elements efficiently.
-created: '2023-03-05'
-last_update: '2023-04-11'
+description: Explore the Stack LIFO data structure, its features, and functions like push() and pop() for managing elements efficiently.
+created: 2023-03-05
+last_update: 2023-04-11
 ---
-
-# Stack LIFO
-
 Stack is an abstract data type with a bounded (predefined) capacity. It is a simple data structure that allows adding and removing elements in a particular order. Every time an element is added, it goes on the top of the stack, the only element that can be removed is the element that was at the top of the stack, just like a pile of objects.
 
 ## Basic features of Stack

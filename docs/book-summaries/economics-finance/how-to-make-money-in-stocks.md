@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/economics-finance/how-to-make-money-in-stocks
 title: How to Make Money in Stocks
-description: Discover strategies to profit in stocks by mastering essential chart
-  patterns like the Cup with Handle, which signals potential upward trends.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover strategies to profit in stocks by mastering essential chart patterns like the Cup with Handle, which signals potential upward trends.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By William J. O'Neil
 
 - You should learn stock chart patterns, and one pattern especially

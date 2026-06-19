@@ -1,12 +1,10 @@
 ---
 slug: /languages/java/intro
 title: Intro
-description: Explore the Java Memory Model and Jakarta EE, essential for concurrent
-  programming and enterprise features, to enhance your Java applications.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the Java Memory Model and Jakarta EE, essential for concurrent programming and enterprise features, to enhance your Java applications.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 ## Installation
 
 ## brew install java

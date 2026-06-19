@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/general/algo-ds
 title: Comprehensive Guide to Algorithms and Data Structures
-description: Explore essential algorithms and data structures, including sorting,
-  queues, and union-find techniques for efficient problem-solving.
-created: '2023-03-05'
-last_update: '2024-11-29'
+description: Explore essential algorithms and data structures, including sorting, queues, and union-find techniques for efficient problem-solving.
+created: 2023-03-05
+last_update: 2024-11-29
 ---
-
-# Algo + DS
-
 ## Algorithms
 
 1. Union-Find Algorithm

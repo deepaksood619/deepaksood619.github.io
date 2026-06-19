@@ -1,12 +1,10 @@
 ---
 slug: /courses/aws-certified-developer-associate
 title: AWS Certified Developer Associate
-description: Prepare for the AWS Certified Developer Associate exam with comprehensive
-  courses covering AWS services, security, deployment, and troubleshooting.
-created: '2024-01-11'
-last_update: '2024-02-01'
+description: Prepare for the AWS Certified Developer Associate exam with comprehensive courses covering AWS services, security, deployment, and troubleshooting.
+created: 2024-01-11
+last_update: 2024-02-01
 ---
-
 [AWS Certified Developer Associate](https://aws.amazon.com/certification/certified-developer-associate/)
 
 Date - Jan 2024

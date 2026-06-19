@@ -1,13 +1,10 @@
 ---
 slug: /education/product-concepts/ai-assessment-platforms
 title: AI Assessment Platforms for Founders
-description: Explore the benefits and competitive advantages of AI assessment platforms
-  for solo founders in the digital landscape.
-created: '2026-05-02'
-last_update: '2026-06-08'
+description: Explore the benefits and competitive advantages of AI assessment platforms for solo founders in the digital landscape.
+created: 2026-05-02
+last_update: 2026-06-08
 ---
-
-
 **Category Analysis for Solo Founders**
 
 ## Why This Category is Gold

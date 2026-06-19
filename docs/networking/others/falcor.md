@@ -1,14 +1,10 @@
 ---
 slug: /networking/others/falcor
 title: Efficient Data Fetching with Falcor
-description: Discover how Falcor simplifies data fetching in JavaScript by unifying
-  data sources into a virtual JSON graph.
-created: '2023-03-05'
-last_update: '2026-02-27'
+description: Discover how Falcor simplifies data fetching in JavaScript by unifying data sources into a virtual JSON graph.
+created: 2023-03-05
+last_update: 2026-02-27
 ---
-
-# Falcor
-
 A JavaScript library for efficient data fetching
 
 1. **One Model Everywhere -** Falcor lets you represent all your remote data sources as a single domain model via a virtual JSON graph. You code the same way no matter where the data is, whether in memory on the client or over the network on the server.

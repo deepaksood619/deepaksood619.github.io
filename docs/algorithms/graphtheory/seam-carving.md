@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/graphtheory/seam-carving
 title: Seam Carving for Image Resizing
-description: Learn about seam carving, a content-aware technique for resizing images
-  without distortion across various media.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Learn about seam carving, a content-aware technique for resizing images without distortion across various media.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
-# Seam Carving
-
 ## Seam Carving for Content-Aware Image Resizing
 
 - Also known as liquid rescaling

@@ -1,14 +1,10 @@
 ---
 slug: /frontend/html-css/html-intro/html-entities-attributes
 title: Understanding HTML Entities and Attributes
-description: Learn about HTML entities, reserved characters, and how to use character
-  entities for proper web display. Enhance your HTML knowledge now!
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Learn about HTML entities, reserved characters, and how to use character entities for proper web display. Enhance your HTML knowledge now!
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
-# HTML Entities / Attributes
-
 Reserved characters in HTML must be replaced with character entities.
 
 Characters that are not present on your keyboard can also be replaced by entities.

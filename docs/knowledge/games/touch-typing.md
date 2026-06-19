@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/games/touch-typing
 title: Touch Typing
-description: Master touch typing skills quickly and efficiently with resources and
-  practice tools from leading platforms to boost your typing speed and accuracy.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Master touch typing skills quickly and efficiently with resources and practice tools from leading platforms to boost your typing speed and accuracy.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 **Hunt and Peck Typing**
 
 ![image](../../media/Games-Touch-Typing-image1.jpg)

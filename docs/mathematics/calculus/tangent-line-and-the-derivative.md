@@ -1,13 +1,10 @@
 ---
 slug: /mathematics/calculus/tangent-line-and-the-derivative
 title: Tangent Line and the Derivative
-description: Explore the concepts of tangent lines and derivatives, understanding
-  their definitions, properties, and relationships in calculus for better mathematical
-  insight.
-created: '2023-03-05'
-last_update: '2023-11-20'
+description: Explore the concepts of tangent lines and derivatives, understanding their definitions, properties, and relationships in calculus for better mathematical insight.
+created: 2023-03-05
+last_update: 2023-11-20
 ---
-
 ## Tangent Line
 
 A line that touches the curve at only one point, and is perpendicular to the point it touches.

@@ -1,12 +1,10 @@
 ---
 slug: /ai/llm/rag/rag-hackathon-questions
 title: RAG Hackathon Questions
-description: Discover how a virtual recruiter uses generative AI to automate resume
-  matching and generate personalized interview questions, enhancing the hiring process.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover how a virtual recruiter uses generative AI to automate resume matching and generate personalized interview questions, enhancing the hiring process.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 ## Use case 1: Virtual recruiter
 
 The virtual recruiter, powered by generative Al, promises to revolutionize the recruitment process by automating tasks and personalizing interactions for both candidates and recruiters. Here's how it could work:

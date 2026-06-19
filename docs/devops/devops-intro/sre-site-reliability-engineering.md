@@ -1,14 +1,10 @@
 ---
 slug: /devops/devops-intro/sre-site-reliability-engineering
 title: Understanding SRE Principles
-description: Explore key Site Reliability Engineering principles that enhance customer
-  satisfaction and align with business goals.
-created: '2023-12-05'
-last_update: '2025-02-24'
+description: Explore key Site Reliability Engineering principles that enhance customer satisfaction and align with business goals.
+created: 2023-12-05
+last_update: 2025-02-24
 ---
-
-# SRE (Site Reliability Engineering)
-
 SRE is a method that operates through principles. Instead of prescribing specific solutions, it guides you with best practices. These SRE principles help organizations decide what's best for them. Once you understand the principles, you can apply them in many areas. When considering a new policy or procedure, you can judge it in the context of these principles.
 
 All SRE principles align on one ultimate goal: customer satisfaction. By following these SRE core tenets, your efforts will make a positive impact on customers. It’s important to maintain this focus on business value.

@@ -1,14 +1,10 @@
 ---
 slug: /technologies/confluent/confluent-cloud-networking/10-best-networking-options
 title: Choosing the Right Networking Option
-description: Explore essential factors for selecting the best networking architecture
-  for Confluent Cloud tailored to your requirements.
-created: '2025-12-10'
-last_update: '2026-01-28'
+description: Explore essential factors for selecting the best networking architecture for Confluent Cloud tailored to your requirements.
+created: 2025-12-10
+last_update: 2026-01-28
 ---
-
-# Which Networking Option Best Fits Your Requirements?
-
 ## What, Where, How?
 
 ![best-networking-option](https://images.ctfassets.net/gt6dp23g0g38/5PFNaIBQigOWqdq0qiDmxE/981391de69034468de7d064806689685/best-networking-option.jpg)

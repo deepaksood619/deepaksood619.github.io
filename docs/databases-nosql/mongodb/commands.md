@@ -1,12 +1,10 @@
 ---
 slug: /databases-nosql/mongodb/commands
 title: Commands
-description: Explore essential commands for setting up and managing MongoDB and Mongo
-  Express using Docker, Homebrew installation, and MongoDB shell access.
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Explore essential commands for setting up and managing MongoDB and Mongo Express using Docker, Homebrew installation, and MongoDB shell access.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
 ```yaml
 services:
   mongo:

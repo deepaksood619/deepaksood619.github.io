@@ -1,12 +1,10 @@
 ---
 slug: /languages/java/spring
 title: Spring
-description: Discover how Spring Boot simplifies Java application development with
-  embedded servers and seamless integration for microservices and RESTful APIs.
-created: '2023-03-05'
-last_update: '2026-06-17'
+description: Discover how Spring Boot simplifies Java application development with embedded servers and seamless integration for microservices and RESTful APIs.
+created: 2023-03-05
+last_update: 2026-06-17
 ---
-
 ## Spring Boot
 
 Spring Boot is a Java-based framework that makes it easier to implement standalone applications or microservices. It is commonly used because it greatly simplifies integration with various products and frameworks. It also contains an embedded web server so there is no need to deploy WAR files.

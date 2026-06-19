@@ -1,12 +1,10 @@
 ---
 slug: /databases-sql/aws-aurora/costs
 title: Costs
-description: Discover the costs of AWS Aurora Serverless, RDS MySQL, and more, with
-  detailed comparisons and pricing options for efficient database management.
-created: '2024-04-16'
-last_update: '2025-06-10'
+description: Discover the costs of AWS Aurora Serverless, RDS MySQL, and more, with detailed comparisons and pricing options for efficient database management.
+created: 2024-04-16
+last_update: 2025-06-10
 ---
-
 1. ⁠⁠Aurora Serverless V1
 2. ⁠⁠Aurora Serverless V2
 3. ⁠⁠Aurora IO Optimized MySQL

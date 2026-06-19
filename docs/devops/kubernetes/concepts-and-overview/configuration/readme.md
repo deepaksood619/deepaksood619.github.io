@@ -1,14 +1,10 @@
 ---
 slug: /devops/kubernetes/concepts-and-overview/configuration/readme
 title: Kubernetes Configuration Guide
-description: Explore essential Kubernetes configuration best practices, including
-  ConfigMaps, Secrets, and resource management techniques.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore essential Kubernetes configuration best practices, including ConfigMaps, Secrets, and resource management techniques.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Configuration
-
 - [Configuration Best Practices](https://kubernetes.io/docs/concepts/configuration/overview/)
 - [ConfigMaps](https://kubernetes.io/docs/concepts/configuration/configmap/)
 - [Secrets](https://kubernetes.io/docs/concepts/configuration/secret/)

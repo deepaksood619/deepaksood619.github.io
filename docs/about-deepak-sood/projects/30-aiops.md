@@ -1,14 +1,10 @@
 ---
 slug: /about-deepak-sood/projects/30-aiops
 title: AIOps Challenges and Solutions
-description: Explore the top challenges in managing IT infrastructure and effective
-  AIOps solutions for better visibility and performance.
-created: '2026-02-27'
-last_update: '2026-02-28'
+description: Explore the top challenges in managing IT infrastructure and effective AIOps solutions for better visibility and performance.
+created: 2026-02-27
+last_update: 2026-02-28
 ---
-
-# AIOps
-
 ## Top challenges organizations face when managing a complicated IT infrastructure
 
 Managing the additional complexity of a hybrid multicloud environment across multiple tools, systems and processes ranked among the top three primary challenges faced by IT leaders surveyed. It was cited as the primary challenge by 60% of respondents. The primary challenges indicated by the MD&I survey fall into three main areas:

@@ -1,14 +1,10 @@
 ---
 slug: /technologies/kafka/kafkacat-kcat
 title: Kafkacat / Kcat Overview
-description: Explore Kafkacat, a versatile producer and consumer for Apache Kafka
-  that simplifies message handling and cluster management.
-created: '2023-03-05'
-last_update: '2026-01-28'
+description: Explore Kafkacat, a versatile producer and consumer for Apache Kafka that simplifies message handling and cluster management.
+created: 2023-03-05
+last_update: 2026-01-28
 ---
-
-# kafkacat / kcat
-
 https://github.com/edenhill/kcat
 
 kafkacat is a generic non-JVM producer and consumer for Apache Kafka >=0.8, think of it as a netcat for Kafka.

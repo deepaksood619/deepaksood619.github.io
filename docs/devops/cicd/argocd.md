@@ -1,14 +1,10 @@
 ---
 slug: /devops/cicd/argocd
 title: ArgoCD Workflows and Pipelines
-description: Discover ArgoCD's container-native workflow engine for Kubernetes, enabling
-  efficient CI/CD and parallel job orchestration with GitOps.
-created: '2026-05-09'
-last_update: '2026-05-19'
+description: Discover ArgoCD's container-native workflow engine for Kubernetes, enabling efficient CI/CD and parallel job orchestration with GitOps.
+created: 2026-05-09
+last_update: 2026-05-19
 ---
-
-# ArgoCD
-
 ### Workflows and Pipelines
 
 Container native workflow engine for Kubernetes supporting both DAG and step based workflows

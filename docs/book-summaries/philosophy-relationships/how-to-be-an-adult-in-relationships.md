@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/philosophy-relationships/how-to-be-an-adult-in-relationships
 title: How to be an adult in relationships
-description: 'Discover the essential principles of adult relationships, focusing on
-  the five A''s: attention, acceptance, appreciation, affection, and allowing individuality.'
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover the essential principles of adult relationships, focusing on the five A's: attention, acceptance, appreciation, affection, and allowing individuality.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By David Richo
 
 - The emotional support we seek when we're young can be broken down into what the author callsthe five A's. They are attention, acceptance, appreciation, affection, and allowing others to be who they are.

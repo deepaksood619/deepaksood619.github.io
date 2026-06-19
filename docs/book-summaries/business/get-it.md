@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/business/get-it
 title: Get it
-description: Unlock your potential with "Get It" by Amy K Hutchens, featuring five
-  vital steps to enhance conversations, assertiveness, and achieve your desired success.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Unlock your potential with "Get It" by Amy K Hutchens, featuring five vital steps to enhance conversations, assertiveness, and achieve your desired success.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Amy K Hutchens
 
 Get It: Five Steps to the Sex, Salary and Success You Want

@@ -1,12 +1,10 @@
 ---
 slug: /databases-nosql/cassandra/working
 title: Working
-description: Learn how Cassandra's lock-free writing, coordinator nodes, and hinted
-  handoff mechanism ensure fast and reliable data management across replica nodes.
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Learn how Cassandra's lock-free writing, coordinator nodes, and hinted handoff mechanism ensure fast and reliable data management across replica nodes.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
 ## Writes
 
 - Need to be lock-free and fast (no reads or disk seeks)

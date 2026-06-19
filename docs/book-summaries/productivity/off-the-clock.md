@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/productivity/off-the-clock
 title: Off the Clock
-description: Discover how to reclaim your time and create memorable experiences with
-  practical tips from Laura Vanderkam in "Off the Clock."
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover how to reclaim your time and create memorable experiences with practical tips from Laura Vanderkam in "Off the Clock."
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Laura Vanderkam
 
 Feel less busy while getting more done

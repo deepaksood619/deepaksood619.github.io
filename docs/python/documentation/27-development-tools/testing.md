@@ -1,14 +1,10 @@
 ---
 slug: /python/documentation/27-development-tools/testing
 title: Python Function Testing Guide
-description: Learn how to create and run tests for Python functions with step-by-step
-  instructions and practical examples.
-created: '2023-03-05'
-last_update: '2025-08-28'
+description: Learn how to create and run tests for Python functions with step-by-step instructions and practical examples.
+created: 2023-03-05
+last_update: 2025-08-28
 ---
-
-# Testing
-
 1. Create your inputs
 2. Execute the code, capturing the output
 3. Compare the output with an expected result

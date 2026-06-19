@@ -1,14 +1,10 @@
 ---
 slug: /technologies/confluent/confluent-for-kubernetes-cfk
 title: Confluent for Kubernetes Overview
-description: Discover Confluent for Kubernetes (CFK), a cloud-native tool for deploying
-  and managing Confluent in Kubernetes environments efficiently.
-created: '2026-01-02'
-last_update: '2026-04-28'
+description: Discover Confluent for Kubernetes (CFK), a cloud-native tool for deploying and managing Confluent in Kubernetes environments efficiently.
+created: 2026-01-02
+last_update: 2026-04-28
 ---
-
-# Confluent for Kubernetes (CFK)
-
 Confluent for Kubernetes (CFK) is a cloud-native management control plane for deploying and managing Confluent in your Kubernetes private cloud environment. It provides a standard and simple interface to customize, deploy, and manage Confluent Platform through declarative API.
 
 CFK is a Kubernetes Deployment whose lifecycle is managed by Helm, but all the various Confluent components have their custom resource definitions (CRDs) that can be managed just like any other Kubernetes resource.

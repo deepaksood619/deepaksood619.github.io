@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/dynamic-programming/levenshtein-distance-or-edit-distance
 title: Understanding Levenshtein Distance
-description: Learn about Levenshtein Distance, or Edit Distance, and how to calculate
-  string differences using addition, deletion, and modification.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Learn about Levenshtein Distance, or Edit Distance, and how to calculate string differences using addition, deletion, and modification.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Levenshtein distance or Edit Distance
-
 The Levenshtein Distance, or Edit Distance, is the amount by which two strings differ.
 
 There are 3 possible actions that can be applied on a character:

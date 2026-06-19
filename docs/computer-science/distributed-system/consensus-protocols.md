@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/distributed-system/consensus-protocols
 title: Understanding Consensus Protocols in Distributed Systems
-description: Explore key consensus protocols like Paxos and Raft, essential for maintaining
-  strong consistency in distributed systems.
-created: '2023-03-05'
-last_update: '2026-03-27'
+description: Explore key consensus protocols like Paxos and Raft, essential for maintaining strong consistency in distributed systems.
+created: 2023-03-05
+last_update: 2026-03-27
 ---
-
-# Consensus Protocols
-
 There are a number of ways we can go about replicating the log data. Broadly speaking, we can group the techniques into two different categories:
 
 ### Gossip / Multicast Protocols

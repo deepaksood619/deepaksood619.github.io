@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/operating-system/memory-allocation
 title: Understanding Memory Allocation
-description: Explore dynamic and automatic memory allocation, including heap and stack
-  memory, to manage variable lifetimes in programming.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore dynamic and automatic memory allocation, including heap and stack memory, to manage variable lifetimes in programming.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Memory Allocation
-
 ## Dynamic memory allocation
 
 Is memory allocated at runtime usingcalloc(), malloc()and friends. It is sometimes also referred to as 'heap' memory, although it has nothing to do with the heap data-structure [ref](http://www.quora.com/Why-is-dynamic-memory-allocation-called-heap-memory-allocation).

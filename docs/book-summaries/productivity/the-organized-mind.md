@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/productivity/the-organized-mind
 title: The Organized Mind
-description: Discover how to enhance your focus and simplify decision-making in the
-  information age with insights from Daniel Levitin's "The Organized Mind."
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover how to enhance your focus and simplify decision-making in the information age with insights from Daniel Levitin's "The Organized Mind."
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Daniel Levitin
 
 Thinking straight in the age of information overload

@@ -1,14 +1,10 @@
 ---
 slug: /technologies/confluent/confluent-cloud-connect
 title: Confluent Cloud Connect Overview
-description: Explore Confluent Cloud Connect to seamlessly connect external services
-  with detailed installation guides for various connectors.
-created: '2026-02-19'
-last_update: '2026-05-19'
+description: Explore Confluent Cloud Connect to seamlessly connect external services with detailed installation guides for various connectors.
+created: 2026-02-19
+last_update: 2026-05-19
 ---
-
-# Confluent Cloud Connect
-
 ## [Connect to External Services](https://docs.confluent.io/cloud/current/connectors/index.html)
 
 - [Overview](https://docs.confluent.io/cloud/current/connectors/overview.html)

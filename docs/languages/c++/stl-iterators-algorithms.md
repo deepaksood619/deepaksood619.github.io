@@ -1,12 +1,10 @@
 ---
 slug: /languages/c++/stl-iterators-algorithms
 title: STL Iterators Algorithms
-description: Discover STL iterators in C++, their different types, and how to efficiently
-  access and manipulate container elements like vectors.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Discover STL iterators in C++, their different types, and how to efficiently access and manipulate container elements like vectors.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 ## C++ Iterators
 
 Iterators are used to access members of the container classes, and can be used in a similar manner to pointers. For example, one might use an iterator to step through the elements of a vector. There are several different types of iterators:

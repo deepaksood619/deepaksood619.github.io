@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/complex-systems/minimax-algorithm
 title: Understanding the MiniMax Algorithm
-description: Explore the MiniMax algorithm, a vital decision-making tool in game theory
-  for minimizing loss and maximizing gains in competitive scenarios.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the MiniMax algorithm, a vital decision-making tool in game theory for minimizing loss and maximizing gains in competitive scenarios.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# MiniMax Algorithm
-
 https://en.wikipedia.org/wiki/Minimax
 
 Minimax algorithm is a decision rule used in decision theory, game theory, statistics and philosophy for minimizing the possible loss for a worst case (maximum loss) scenario.

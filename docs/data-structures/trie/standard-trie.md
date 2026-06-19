@@ -1,14 +1,10 @@
 ---
 slug: /data-structures/trie/standard-trie
 title: Understanding Standard Trie Data Structure
-description: Explore the standard trie, its pros and cons, and its applications like
-  autocomplete functions in this informative guide.
-created: '2023-03-05'
-last_update: '2023-11-20'
+description: Explore the standard trie, its pros and cons, and its applications like autocomplete functions in this informative guide.
+created: 2023-03-05
+last_update: 2023-11-20
 ---
-
-# Standard Trie
-
 Radix Tree / Prefix Tree (Because pre-order traversal would give the nodes in lexicographical order)
 
 - Autocomplete function

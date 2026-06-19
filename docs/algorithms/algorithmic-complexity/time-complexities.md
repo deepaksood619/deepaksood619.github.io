@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/algorithmic-complexity/time-complexities
 title: Understanding Time Complexities in Algorithms
-description: Explore Big O notation and learn how to evaluate algorithm performance
-  based on time complexities for efficient programming.
-created: '2023-03-05'
-last_update: '2024-10-11'
+description: Explore Big O notation and learn how to evaluate algorithm performance based on time complexities for efficient programming.
+created: 2023-03-05
+last_update: 2024-10-11
 ---
-
-# Time Complexities
-
 [Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell](https://www.bigocheatsheet.com/)
 
 Big O notation (with a capital letter O, not a zero), also called **Landau's symbol,** is a symbolism used in complexity theory, computer science, and mathematics to describe the asymptotic behavior of functions. Basically, it tells you how fast a function grows or declines. It describes how the runtime or space requirement of a function grows as the input grows.

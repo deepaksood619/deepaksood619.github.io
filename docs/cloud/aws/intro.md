@@ -1,12 +1,10 @@
 ---
 slug: /cloud/aws/intro
 title: Intro
-description: Discover five AWS services to avoid and learn about regions, availability
-  zones, and local zones for optimized resource placement in your cloud strategy.
-created: '2023-03-05'
-last_update: '2025-10-24'
+description: Discover five AWS services to avoid and learn about regions, availability zones, and local zones for optimized resource placement in your cloud strategy.
+created: 2023-03-05
+last_update: 2025-10-24
 ---
-
 ## AWS services to avoid
 
 1. Cognito

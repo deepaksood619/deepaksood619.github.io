@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/others/other
 title: Performance Modelling and SDR Insights
-description: Explore performance modelling and the flexible applications of software-defined
-  radio for innovative radio technology.
-created: '2023-03-05'
-last_update: '2025-05-27'
+description: Explore performance modelling and the flexible applications of software-defined radio for innovative radio technology.
+created: 2023-03-05
+last_update: 2025-05-27
 ---
-
-# Other
-
 ## Performance Modelling
 
 ![image](../../media/others-Others-image1.jpg)

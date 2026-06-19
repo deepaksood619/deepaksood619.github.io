@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/distributed-system/clocks
 title: Understanding Clocks in Distributed Systems
-description: Explore atomic broadcast and message ordering in fault-tolerant distributed
-  computing for reliable system performance.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore atomic broadcast and message ordering in fault-tolerant distributed computing for reliable system performance.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Clocks
-
 ## Atomic Broadcast
 
 In [fault-tolerant](https://en.m.wikipedia.org/wiki/Fault-tolerant)[distributed computing](https://en.m.wikipedia.org/wiki/Distributed_systems), anatomic broadcastortotal order broadcastis a [broadcast](https://en.m.wikipedia.org/wiki/Broadcasting_(networking)) where all correct processes in a system of multiple processes receive the same set of messages in the same order; that is, the same sequence of messages.The broadcast is termed "[atomic](https://en.m.wikipedia.org/wiki/Atomic_(computer_science))" because it either eventually completes correctly at all participants, or all participants abort without side effects. Atomic broadcasts are an important distributed computing primitive.

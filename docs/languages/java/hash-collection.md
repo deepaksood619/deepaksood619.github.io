@@ -1,12 +1,10 @@
 ---
 slug: /languages/java/hash-collection
 title: Hash Collection
-description: Explore Hash Collections, including HashSet's unique element storage
-  and HashMap's key-value pair management, ideal for efficient data handling.
-created: '2023-03-05'
-last_update: '2023-12-06'
+description: Explore Hash Collections, including HashSet's unique element storage and HashMap's key-value pair management, ideal for efficient data handling.
+created: 2023-03-05
+last_update: 2023-12-06
 ---
-
 SparseArray
 
 ## HashSet

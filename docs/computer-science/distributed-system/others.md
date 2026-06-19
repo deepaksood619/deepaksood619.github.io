@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/distributed-system/others
 title: Understanding CRDTs and Their Applications
-description: Learn about Conflict-free Replicated Data Types (CRDTs), their types,
-  and how they ensure data consistency across distributed systems.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Learn about Conflict-free Replicated Data Types (CRDTs), their types, and how they ensure data consistency across distributed systems.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Others
-
 ## CRDTs (Conflict-free Replicated Data Types)
 
 A conflict-free replicated data type (CRDT) is an abstract data type, with a well defined interface, designed to be replicated at multiple processes and exhibiting the following properties

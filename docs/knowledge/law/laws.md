@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/law/laws
 title: Laws
-description: Explore the impact of unnecessary laws on entrepreneurship in India,
-  and understand key legal concepts like indemnification and contract term variations.
-created: '2023-03-05'
-last_update: '2025-02-14'
+description: Explore the impact of unnecessary laws on entrepreneurship in India, and understand key legal concepts like indemnification and contract term variations.
+created: 2023-03-05
+last_update: 2025-02-14
 ---
-
 ## Thoughts
 
 Useless laws weaken the necessary laws'. The maxim conceptualised by French historian and philosopher Baron de Montesquieu illuminates the legal landscape in India's political economy. The distinction between what is necessary and what is useless is trapped in a fog of perceived intent and perpetuation of fear. The result is: criminalisation of entrepreneurship and of business entities

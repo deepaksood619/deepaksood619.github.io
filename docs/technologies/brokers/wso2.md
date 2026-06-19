@@ -1,14 +1,10 @@
 ---
 slug: /technologies/brokers/wso2
 title: Overview of WSO2 Technology
-description: Discover WSO2, a leading provider of open-source solutions for enterprise
-  integration, API management, and identity management.
-created: '2026-04-28'
-last_update: '2026-04-29'
+description: Discover WSO2, a leading provider of open-source solutions for enterprise integration, API management, and identity management.
+created: 2026-04-28
+last_update: 2026-04-29
 ---
-
-# WSO2
-
 **WSO2** is a global technology company that provides an open-source platform for **enterprise integration**, **API management**, and **identity and access management (IAM)**.
 
 Founded in 2005, it is known for being one of the few vendors that offers a "complete" middleware stack where every component is released under an open-source license (specifically the **Apache License 2.0**). This allows businesses to build, connect, and secure their digital services without the initial heavy cost of proprietary licensing.

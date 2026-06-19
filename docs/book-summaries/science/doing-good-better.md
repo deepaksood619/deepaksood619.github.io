@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/science/doing-good-better
 title: Doing Good Better
-description: Explore effective philanthropy with William MacAskill's insights on maximizing
-  your charitable impact and making a meaningful difference in the world.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Explore effective philanthropy with William MacAskill's insights on maximizing your charitable impact and making a meaningful difference in the world.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By William MacAskill
 
 **A radical new way to make a difference**

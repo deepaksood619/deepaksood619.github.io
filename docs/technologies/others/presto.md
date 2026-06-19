@@ -1,14 +1,10 @@
 ---
 slug: /technologies/others/presto
-title: 'Presto: Distributed SQL Query Engine'
-description: Explore Presto, the open source distributed SQL query engine designed
-  for interactive analytics on data from gigabytes to petabytes.
-created: '2023-03-05'
-last_update: '2026-03-27'
+title: "Presto: Distributed SQL Query Engine"
+description: Explore Presto, the open source distributed SQL query engine designed for interactive analytics on data from gigabytes to petabytes.
+created: 2023-03-05
+last_update: 2026-03-27
 ---
-
-# Presto
-
 ## Distributed SQL Query Engine for BigData
 
 Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes.

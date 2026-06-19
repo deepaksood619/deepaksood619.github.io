@@ -1,12 +1,10 @@
 ---
 slug: /courses/course-art-and-science-of-ml
 title: Course - Art and Science of ML
-description: Explore the Art and Science of Machine Learning, mastering intuition,
-  model tuning, and experimentation to enhance your ML skills and performance.
-created: '2023-03-05'
-last_update: '2024-09-18'
+description: Explore the Art and Science of Machine Learning, mastering intuition, model tuning, and experimentation to enhance your ML skills and performance.
+created: 2023-03-05
+last_update: 2024-09-18
 ---
-
 ## Introduction
 
 Course overview highlighting the key objectives and modules. First, you will learn about aspects of Machine Learning that require some intuition, good judgment and experimentation. We call it the Art of ML. You will learn the many knobs and levers involved in training a model. You will manually adjust them to see their effects on model performance.

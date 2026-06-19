@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/security/ethical-hacking
 title: Understanding Ethical Hacking Basics
-description: Explore ethical hacking, including resources, CISSP certification, and
-  insights on white hat hackers for cybersecurity enthusiasts.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Explore ethical hacking, including resources, CISSP certification, and insights on white hat hackers for cybersecurity enthusiasts.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
-# Ethical Hacking
-
 - https://www.shodan.io/host/182.71.91.174
 - [jenkins - Shodan Search](https://www.shodan.io/search?query=jenkins)
 - https://github.com/arthaud/git-dumper/blob/master/git-dumper.py

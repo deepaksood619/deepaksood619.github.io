@@ -1,14 +1,10 @@
 ---
 slug: /frontend/seo/types-of-seo
 title: Understanding Black Hat SEO Practices
-description: Explore various Black Hat SEO tactics that can harm your site's reputation
-  and lead to search engine penalties.
-created: '2024-12-03'
-last_update: '2024-12-03'
+description: Explore various Black Hat SEO tactics that can harm your site's reputation and lead to search engine penalties.
+created: 2024-12-03
+last_update: 2024-12-03
 ---
-
-# Types of SEO
-
 ## Black Hat SEO
 
 Black hat SEO refers to a set of practices that are used to increases a site or page's rank in search engines through means that violate the search engines' terms of service.

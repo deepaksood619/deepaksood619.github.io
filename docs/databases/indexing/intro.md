@@ -1,14 +1,10 @@
 ---
 slug: /databases/indexing/intro
 title: Understanding Database Indexing
-description: Explore the benefits and techniques of indexing in databases to optimize
-  performance and enhance query efficiency.
-created: '2023-03-05'
-last_update: '2025-10-21'
+description: Explore the benefits and techniques of indexing in databases to optimize performance and enhance query efficiency.
+created: 2023-03-05
+last_update: 2025-10-21
 ---
-
-# Indexing
-
 Indexing is a data structure technique to efficiently retrieve records from the database files based on some attributes on which the indexing has been done. Indexing in database systems is similar to what we see in books i.e. Table of contents.
 
 Indexing is a way to optimize the performance of a database by minimizing the number of disk accesses required when a query is processed. It is a data structure technique which is used to quickly locate and access the data in a database.

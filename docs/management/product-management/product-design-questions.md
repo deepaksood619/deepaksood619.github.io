@@ -1,14 +1,10 @@
 ---
 slug: /management/product-management/product-design-questions
 title: Essential Product Design Questions
-description: Discover key product design questions and analytics tools to evaluate
-  and optimize user experiences effectively.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Discover key product design questions and analytics tools to evaluate and optimize user experiences effectively.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
-# Product Design / Questions
-
 https://www.toptal.com/designers/product-design/interview-questions
 
 https://www.toptal.com/designers/interactive/interview-questions

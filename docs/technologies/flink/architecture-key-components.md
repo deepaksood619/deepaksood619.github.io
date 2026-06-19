@@ -1,14 +1,10 @@
 ---
 slug: /technologies/flink/architecture-key-components
 title: Flink Architecture and Components Overview
-description: Explore the key components of Flink architecture and understand its runtime
-  flow for efficient streaming data processing.
-created: '2025-12-16'
-last_update: '2025-12-20'
+description: Explore the key components of Flink architecture and understand its runtime flow for efficient streaming data processing.
+created: 2025-12-16
+last_update: 2025-12-20
 ---
-
-# Architecture and Key Components
-
 The diagram below shows the [Flink components](https://docs.confluent.io/platform/current/flink/concepts/flink.html) as well as the Flink runtime flow. The program code or SQL query is composed into an operator graph which is then submitted by the client to a job manager. The job manager breaks the job into operators which execute as tasks on nodes that are running task managers. These tasks process streaming data and interact with various data sources, such as the Hadoop Distributed File System (HDFS) and Apache Kafka.
 
 ![Architecture and Key Components](../../media/Screenshot%202025-12-16%20at%2010.43.13%20PM.png)

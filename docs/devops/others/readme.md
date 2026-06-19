@@ -1,14 +1,10 @@
 ---
 slug: /devops/others/readme
 title: Other DevOps Tools Overview
-description: Explore various DevOps tools including Jenkins, Devtron, and KeyCloak
-  for enhancing your CI/CD processes.
-created: '2023-03-05'
-last_update: '2024-07-15'
+description: Explore various DevOps tools including Jenkins, Devtron, and KeyCloak for enhancing your CI/CD processes.
+created: 2023-03-05
+last_update: 2024-07-15
 ---
-
-# Other DevOps
-
 - [Jenkins](jenkins)
 - [Devtron](devops/others/devtron.md)
 - [Other - CICD](other-cicd)

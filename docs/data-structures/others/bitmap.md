@@ -1,14 +1,10 @@
 ---
 slug: /data-structures/others/bitmap
 title: Understanding Bitmap Data Structures
-description: Explore the concept of bitmap data structures, including bit arrays,
-  and their efficiency in storing and processing bits.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the concept of bitmap data structures, including bit arrays, and their efficiency in storing and processing bits.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Bitmap
-
 ## Bitmap / Bit Array / Bit Vector / Bitmap index / Bit set / Bit string
 
 A **bit array** (also known as **bit map**, **bit set**, **bit string**, or **bit vector**) is an [array data structure](https://en.wikipedia.org/wiki/Array_data_structure) that compactly stores [bits](https://en.wikipedia.org/wiki/Bit). It can be used to implement a simple [set data structure](https://en.wikipedia.org/wiki/Set_data_structure). A bit array is effective at exploiting bit-level parallelism in hardware to perform operations quickly. A typical bit array stores *kw* bits, where *w* is the number of bits in the unit of storage, such as a [byte](https://en.wikipedia.org/wiki/Byte) or [word](https://en.wikipedia.org/wiki/Word_(computer_architecture)), and *k* is some nonnegative integer. If *w* does not divide the number of bits to be stored, some space is wasted due to [internal fragmentation](https://en.wikipedia.org/wiki/Fragmentation_(computing)).

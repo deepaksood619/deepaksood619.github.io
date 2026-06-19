@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/software-engineering/developer-roles
 title: Essential Developer Roles Guide
-description: Explore key developer roles and training tips to enhance skills in software
-  development and testing.
-created: '2023-03-05'
-last_update: '2026-03-27'
+description: Explore key developer roles and training tips to enhance skills in software development and testing.
+created: 2023-03-05
+last_update: 2026-03-27
 ---
-
-# Developer Roles
-
 - SDET - Software Development Engineers in Test
 
 ## Junior developer training guide

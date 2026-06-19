@@ -1,12 +1,10 @@
 ---
 slug: /ai/big-data/readme
 title: Big Data
-description: Explore the world of Big Data, including its characteristics, types,
-  data quality, preprocessing, and essential tools to effectively manage vast datasets.
-created: '2024-02-26'
-last_update: '2024-11-18'
+description: Explore the world of Big Data, including its characteristics, types, data quality, preprocessing, and essential tools to effectively manage vast datasets.
+created: 2024-02-26
+last_update: 2024-11-18
 ---
-
 - [Big Data](ai/big-data/intro.md)
 - [Characteristics](ai/big-data/characteristics.md)
 - [Data](ai/big-data/data.md)

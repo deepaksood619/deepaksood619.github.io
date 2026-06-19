@@ -1,12 +1,10 @@
 ---
 slug: /ai/computer-vision-cv/image-formats
 title: Image Formats
-description: Explore various image formats including EXIF, JPG, JPEG-XL, and PNG,
-  and learn their features, uses, and advantages for digital photography.
-created: '2023-03-05'
-last_update: '2025-02-14'
+description: Explore various image formats including EXIF, JPG, JPEG-XL, and PNG, and learn their features, uses, and advantages for digital photography.
+created: 2023-03-05
+last_update: 2025-02-14
 ---
-
 ## Exchangeable image file format (EXIF)
 
 Exchangeable image file format(officiallyExif, according to JEIDA/JEITA/CIPA specifications) is a standard that specifies the [formats](https://en.wikipedia.org/wiki/File_format) for [images](https://en.wikipedia.org/wiki/Image), [sound](https://en.wikipedia.org/wiki/Sound), and ancillary tags used by [digital cameras](https://en.wikipedia.org/wiki/Digital_camera) (including [smartphones](https://en.wikipedia.org/wiki/Smartphone)), [scanners](https://en.wikipedia.org/wiki/Image_scanner) and other systems handling image and sound files recorded by digital cameras.

@@ -1,12 +1,10 @@
 ---
 slug: /databases-sql/mysql/scaling-optimizations
 title: Scaling / Optimizations
-description: Discover essential strategies for scaling and optimizing databases, including
-  indexing, caching, denormalization, and managing transactions for improved performance.
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Discover essential strategies for scaling and optimizing databases, including indexing, caching, denormalization, and managing transactions for improved performance.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
 ## What exactly needs to Scale?
 
 1. Tables (Data)

@@ -1,14 +1,10 @@
 ---
 slug: /devops/docker/dockerfiles
 title: Essential Dockerfile Guide
-description: Learn how to create portable Docker images with best practices for writing
-  efficient Dockerfiles and effective container management.
-created: '2023-03-05'
-last_update: '2026-04-03'
+description: Learn how to create portable Docker images with best practices for writing efficient Dockerfiles and effective container management.
+created: 2023-03-05
+last_update: 2026-04-03
 ---
-
-# Dockerfiles
-
 Creating portable images
 
 Dockerfile defines what goes on in the environment inside your container. Access to resources like networking interfaces and disk drives is virtualized inside this environment, which is isolated from the rest of your system, so you need to map ports to the outside world, and be specific about what files you want to "copy in" to that environment. However, after doing that, you can expect that the build of your app defined in thisDockerfilebehaves exactly the same wherever it runs.

@@ -1,12 +1,10 @@
 ---
 slug: /economics/learning-resources/links
 title: Links
-description: Explore essential links for stock fundamental analysis, market strategies,
-  and investment tips to navigate changing financial landscapes effectively.
-created: '2025-03-14'
-last_update: '2026-06-09'
+description: Explore essential links for stock fundamental analysis, market strategies, and investment tips to navigate changing financial landscapes effectively.
+created: 2025-03-14
+last_update: 2026-06-09
 ---
-
 1. [How to Perform Fundamental Analysis of Stock Using AI ?](https://youtu.be/qSrqYaERj6k)
 2. [Fundamental Analysis with ChatGPT](https://youtu.be/ZxcWIdb3jGk)
 3. [The markets are falling… | Here’s what YOU can do about it!](https://youtu.be/V36zYV3Kdm4)

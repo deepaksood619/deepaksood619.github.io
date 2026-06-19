@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/operating-system/swap-paging-caching
 title: Understanding Swap, Paging, and Caching
-description: Explore the concepts of swap, paging, and caching in memory management
-  for efficient system performance and memory allocation.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the concepts of swap, paging, and caching in memory management for efficient system performance and memory allocation.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Swap / Paging / Caching
-
 ## Paging
 
 Paging is a memory management scheme that eliminates the need for contiguous allocation of physical memory. This scheme permits the physical address space of a process to be non-contiguous.

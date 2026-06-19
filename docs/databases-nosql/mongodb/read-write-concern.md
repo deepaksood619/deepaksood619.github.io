@@ -1,12 +1,10 @@
 ---
 slug: /databases-nosql/mongodb/read-write-concern
 title: Read / Write Concern
-description: Explore MongoDB's read concern levels, including local and available,
-  to manage data consistency and isolation in replica sets effectively.
-created: '2024-01-15'
-last_update: '2025-06-10'
+description: Explore MongoDB's read concern levels, including local and available, to manage data consistency and isolation in replica sets effectively.
+created: 2024-01-15
+last_update: 2025-06-10
 ---
-
 ## Read Concern
 
 The `readConcern` option allows you to control the consistency and isolation properties of the data read from replica sets and replica set shards.

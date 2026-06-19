@@ -1,13 +1,10 @@
 ---
 slug: /education/competitors/adaptive-ai-platforms/knewton-alta-analysis
 title: Knewton Alta Analysis Overview
-description: Explore Knewton Alta's journey, product focus, and impact on higher education
-  STEM in this comprehensive analysis.
-created: '2026-06-07'
-last_update: '2026-06-08'
+description: Explore Knewton Alta's journey, product focus, and impact on higher education STEM in this comprehensive analysis.
+created: 2026-06-07
+last_update: 2026-06-08
 ---
-
-
 ## Company Overview
 
 - **Knewton founded:** 2008

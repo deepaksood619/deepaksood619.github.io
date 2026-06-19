@@ -1,13 +1,10 @@
 ---
 slug: /devops/readme
 title: DevOps
-description: Explore our comprehensive DevOps guide covering essential topics like
-  Docker, Kubernetes, CI/CD, monitoring, Ansible, Terraform, and more for efficient
-  software delivery.
-created: '2023-03-05'
-last_update: '2026-05-10'
+description: Explore our comprehensive DevOps guide covering essential topics like Docker, Kubernetes, CI/CD, monitoring, Ansible, Terraform, and more for efficient software delivery.
+created: 2023-03-05
+last_update: 2026-05-10
 ---
-
 - [DevOps Intro](devops-intro/readme.md)
 - [Monitoring](monitoring/readme.md)
 - [Docker](docker/readme.md)

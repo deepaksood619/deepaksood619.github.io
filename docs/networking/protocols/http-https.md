@@ -1,14 +1,10 @@
 ---
 slug: /networking/protocols/http-https
 title: Understanding HTTP and HTTPS
-description: Learn the differences between HTTP and HTTPS, key terms, and how they
-  facilitate communication on the web.
-created: '2023-03-05'
-last_update: '2026-01-25'
+description: Learn the differences between HTTP and HTTPS, key terms, and how they facilitate communication on the web.
+created: 2023-03-05
+last_update: 2026-01-25
 ---
-
-# HTTP / HTTPS
-
 - **URL - Uniform Resource Locator**
 - **URI - Uniform Resource Indicator**
 - **URN - Uniform Resource Name**

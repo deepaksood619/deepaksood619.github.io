@@ -1,12 +1,10 @@
 ---
 slug: /databases-nosql/redis/others
 title: Others
-description: Redis TimeSeries optimizes Redis for IoT and telemetry, enabling high-speed
-  data ingestion, downsampling, and effective monitoring with popular tools.
-created: '2023-03-05'
-last_update: '2026-05-18'
+description: Redis TimeSeries optimizes Redis for IoT and telemetry, enabling high-speed data ingestion, downsampling, and effective monitoring with popular tools.
+created: 2023-03-05
+last_update: 2026-05-18
 ---
-
 ## Redis Time Series
 
 Redis TimeSeries simplifies the use of Redis for time-series use cases like IoT, stock prices, and telemetry.

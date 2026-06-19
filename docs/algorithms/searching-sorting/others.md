@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/searching-sorting/others
 title: Advancements in Sorting Lower Bounds
-description: Explore efficient sorting techniques using the word RAM model and van
-  Embde Boas Trees to tackle the Predecessor Problem.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Explore efficient sorting techniques using the word RAM model and van Embde Boas Trees to tackle the Predecessor Problem.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
-# Others
-
 ## Beating sorting lower bounds
 
 There is an O(n*log(n)) sorting lower bound for comparison based sorts, however, in this talk we'll see a new model for computation, the word RAM model, and data structures based on this model, which solve the Predecessor Problem efficiently leading to O(n*sqrt(log(n))) and usage of bit tricks in manipulating numbers. The data structures that we'll primarily see include the van Embde Boas Trees (FOCS '75) and an introduction to Y-Fast Tries.

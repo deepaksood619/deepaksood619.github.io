@@ -1,12 +1,10 @@
 ---
 slug: /ai/llm/building-llm-apps/design-patterns
 title: Design patterns
-description: Explore design patterns in in-context learning, enhancing LLM performance
-  by optimizing prompts and leveraging contextual data for scalable AI applications.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Explore design patterns in in-context learning, enhancing LLM performance by optimizing prompts and leveraging contextual data for scalable AI applications.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 ## In-context learning
 
 The core idea of in-context learning is to use LLMs off the shelf (i.e., without any fine-tuning), then control their behavior through clever prompting and conditioning on private "contextual" data.

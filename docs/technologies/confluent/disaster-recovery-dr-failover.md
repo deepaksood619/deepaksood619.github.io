@@ -1,14 +1,10 @@
 ---
 slug: /technologies/confluent/disaster-recovery-dr-failover
 title: Disaster Recovery for Kafka Clients
-description: Learn how to implement effective disaster recovery and failover strategies
-  for Kafka clients to ensure data continuity.
-created: '2026-04-21'
-last_update: '2026-04-21'
+description: Learn how to implement effective disaster recovery and failover strategies for Kafka clients to ensure data continuity.
+created: 2026-04-21
+last_update: 2026-04-21
 ---
-
-# Disaster Recovery / DR / Failover
-
 ## DR Failover
 
 ### Disaster Recovery requirements for Kafka clients

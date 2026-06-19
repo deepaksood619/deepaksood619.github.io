@@ -1,14 +1,10 @@
 ---
 slug: /devops/kubernetes/others
 title: Cloud Cluster Pricing and Kaniko Overview
-description: Explore our pricing for GKE, AKS, and EKS clusters, plus learn about
-  Kaniko for building Kubernetes container images.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Explore our pricing for GKE, AKS, and EKS clusters, plus learn about Kaniko for building Kubernetes container images.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
-# Others
-
 ## Pricing
 
 Pricing table for a 8 node (1 core, 3.5gb) cluster:

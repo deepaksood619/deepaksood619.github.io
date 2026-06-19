@@ -1,14 +1,10 @@
 ---
 slug: /technologies/flink/challenges
 title: Data Processing Challenges in Streaming Ingestion
-description: Explore challenges in small file generation and partition skew during
-  real-time data streaming and ingestion.
-created: '2025-12-15'
-last_update: '2026-01-21'
+description: Explore challenges in small file generation and partition skew during real-time data streaming and ingestion.
+created: 2025-12-15
+last_update: 2026-01-21
 ---
-
-# Challenges
-
 ## Small file generation
 
 - Streaming ingestion often generates many small Apache Parquet™ files, which significantly degrade query performance and increase metadata and storage overhead. This is a common challenge when data arrives continuously and must be written in near real time.

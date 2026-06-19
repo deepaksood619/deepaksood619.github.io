@@ -1,14 +1,10 @@
 ---
 slug: /networking/protocols/protocols-intro
 title: Introduction to Communication Protocols
-description: Explore essential communication protocols like MAC and IP addresses,
-  key to device identification and internet functionality.
-created: '2023-03-05'
-last_update: '2024-01-04'
+description: Explore essential communication protocols like MAC and IP addresses, key to device identification and internet functionality.
+created: 2023-03-05
+last_update: 2024-01-04
 ---
-
-# Protocols Intro
-
 ## Media Access Control (MAC Address)
 
 Media access control is a communications protocol that is used to distinguish specific devices. Each device is supposed to get a unique MAC address during the manufacturing process that differentiates it from every other device on the internet.

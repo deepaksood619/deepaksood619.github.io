@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/programming-concepts/programming-styles
 title: Understanding Duck Typing in Programming
-description: Explore the concept of duck typing, emphasizing interfaces over types
-  for more flexible and polymorphic code design.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the concept of duck typing, emphasizing interfaces over types for more flexible and polymorphic code design.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Programming Styles
-
 ## duck-typing
 
 A programming style which does not look at an object's type to determine if it has the right interface; instead, the method or attribute is simply called or used ("If it looks like a duck and quacks like a duck, it must be a duck.") By emphasizing interfaces rather than specific types, well-designed code improves its flexibility by allowing polymorphic substitution. Duck-typing avoids tests using [type()](http://library/functions.html) or [isinstance()](http://library/functions.html). (Note, however, that duck-typing can be complemented with abstract base classes) Instead, it typically employs [hasattr()](http://library/functions.html) tests or EAFP programming.

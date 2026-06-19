@@ -1,14 +1,10 @@
 ---
 slug: /devops/ides/onenote
 title: Essential OneNote Shortcuts for Mac
-description: Discover essential keyboard shortcuts for OneNote on Mac to enhance your
-  note-taking efficiency and productivity.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Discover essential keyboard shortcuts for OneNote on Mac to enhance your note-taking efficiency and productivity.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# OneNote
-
 ## Shortcut Mac
 
 | todo | shortcut |

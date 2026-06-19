@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/clickhouse/architecture
 title: Understanding ClickHouse Architecture and Storage Systems
-description: Explore the architecture and storage layers of ClickHouse, including
-  data formats, pruning, transformations, and replication strategies.
-created: '2025-05-16'
-last_update: '2025-06-10'
+description: Explore the architecture and storage layers of ClickHouse, including data formats, pruning, transformations, and replication strategies.
+created: 2025-05-16
+last_update: 2025-06-10
 ---
-
-# Architecture
-
 - [1 INTRODUCTION](https://clickhouse.com/docs/academic_overview#1-introduction)
 - [2 ARCHITECTURE](https://clickhouse.com/docs/academic_overview#2-architecture)
 - [3 STORAGE LAYER](https://clickhouse.com/docs/academic_overview#3-storage-layer)

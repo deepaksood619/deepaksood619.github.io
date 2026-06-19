@@ -1,12 +1,10 @@
 ---
 slug: /management/customer-engagement-cx-metrics
 title: Customer Engagement / CX Metrics
-description: Discover essential CX metrics to measure customer engagement, such as
-  average time on site and open rates, to enhance your business strategy.
-created: '2025-07-17'
-last_update: '2026-03-05'
+description: Discover essential CX metrics to measure customer engagement, such as average time on site and open rates, to enhance your business strategy.
+created: 2025-07-17
+last_update: 2026-03-05
 ---
-
 ## How To Measure Customer Engagement
 
 While there is no absolute formula to calculate customer engagement, and it is literally indicated by almost every marketing KPI, the following metrics combinedly can be the most useful in estimating the engagement levels for your business:

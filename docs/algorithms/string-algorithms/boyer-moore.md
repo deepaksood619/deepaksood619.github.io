@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/string-algorithms/boyer-moore
 title: Boyer-Moore Searching Algorithm
-description: Explore the Boyer-Moore algorithm, its images, and its efficient string
-  searching techniques for improved performance in applications.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Explore the Boyer-Moore algorithm, its images, and its efficient string searching techniques for improved performance in applications.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
-# Boyer-Moore
-
 ![image](../../media/Boyer-Moore-image1.jpg)
 
 ![image](../../media/Boyer-Moore-image2.jpg)

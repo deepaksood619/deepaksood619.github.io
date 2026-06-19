@@ -1,12 +1,10 @@
 ---
 slug: /about-deepak-sood/financial-journey-till-2026
 title: Financial Journey Till 2026
-description: Discover my financial journey to 2026, exploring resilience, family values,
-  and strategic pivots towards achieving lasting financial independence.
-created: '2026-03-09'
-last_update: '2026-04-28'
+description: Discover my financial journey to 2026, exploring resilience, family values, and strategic pivots towards achieving lasting financial independence.
+created: 2026-03-09
+last_update: 2026-04-28
 ---
-
 The path to financial independence is rarely a straight line. For me, it has been a story of shifting mindsets, career pivots, and learning how to manage risk without losing my mind.
 
 I am 32 years old, married for four years, and a father to two daughters aged three years and two months. My perspective on career and family was shaped early on by my parents (66 and 61). Although they are now transitioning toward retirement, they continue to run their businesses more for the routine than the revenue. From them, I inherited a sense of **'Entrepreneurial Resilience'**—the understanding that you can build a legacy of your own while staying deeply committed to your family’s well-being.

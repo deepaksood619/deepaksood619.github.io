@@ -1,12 +1,10 @@
 ---
 slug: /economics/company-analysis/companies/technology/amazon-comprehensive-analysis
 title: In-Depth Amazon Financial Analysis
-description: Explore our comprehensive analysis of Amazon's market position, growth
-  potential, and investment recommendations.
-created: '2026-06-04'
-last_update: '2026-06-09'
+description: Explore our comprehensive analysis of Amazon's market position, growth potential, and investment recommendations.
+created: 2026-06-04
+last_update: 2026-06-09
 ---
-
 - **Analysis Date:** June 3, 2026
 - **Exchange:** NASDAQ
 - **Sector:** Technology / E-commerce / Cloud Computing

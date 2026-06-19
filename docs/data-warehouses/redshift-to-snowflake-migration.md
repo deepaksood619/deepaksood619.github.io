@@ -1,12 +1,10 @@
 ---
 slug: /data-warehouses/redshift-to-snowflake-migration
 title: Redshift to Snowflake Migration
-description: Effortlessly migrate from Redshift to Snowflake with our comprehensive
-  nine-phase framework, ensuring optimal planning, security, and performance.
-created: '2026-05-28'
-last_update: '2026-05-28'
+description: Effortlessly migrate from Redshift to Snowflake with our comprehensive nine-phase framework, ensuring optimal planning, security, and performance.
+created: 2026-05-28
+last_update: 2026-05-28
 ---
-
 ## Snowflake Migration Framework
 
 A typical Amazon Redshift-to-Snowflake migration can be broken down into nine key phases.

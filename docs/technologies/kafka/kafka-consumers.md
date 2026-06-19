@@ -1,14 +1,10 @@
 ---
 slug: /technologies/kafka/kafka-consumers
 title: Understanding Kafka Consumers
-description: Learn how Kafka consumers work, their role in consumer groups, and the
-  importance of heartbeats in maintaining message flow.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Learn how Kafka consumers work, their role in consumer groups, and the importance of heartbeats in maintaining message flow.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
-# Kafka Consumers
-
 The consumer is the receiver of the message in Kafka
 
 - Each consumer belongs to a consumer group

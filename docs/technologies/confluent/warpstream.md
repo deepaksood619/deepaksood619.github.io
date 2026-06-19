@@ -1,14 +1,10 @@
 ---
 slug: /technologies/confluent/warpstream
-title: 'WarpStream: Revolutionizing Data Streaming'
-description: Discover WarpStream, a cost-effective, Kafka-compatible data streaming
-  platform built on S3 for seamless, efficient data management.
-created: '2025-02-24'
-last_update: '2026-04-21'
+title: "WarpStream: Revolutionizing Data Streaming"
+description: Discover WarpStream, a cost-effective, Kafka-compatible data streaming platform built on S3 for seamless, efficient data management.
+created: 2025-02-24
+last_update: 2026-04-21
 ---
-
-# WarpStream
-
 [Kafka is dead, long live Kafka](https://www.warpstream.com/blog/kafka-is-dead-long-live-kafka)
 
 WarpStream is an Apache Kafka protocol **compatible data streaming platform** built directly on top of **S3**. It's delivered as a single, stateless Go binary, so there are no local disks to manage, no brokers to rebalance, and no ZooKeeper to operate. WarpStream is 5-10x cheaper than Kafka in the cloud because data streams directly to and from S3 instead of using inter-zone networking, which can be over 80% of the infrastructure cost of a Kafka deployment at scale.

@@ -1,12 +1,10 @@
 ---
 slug: /economics/personal-finance/wealth-building/buy-now-pay-later-bnpl
 title: Buy Now Pay Later (BNPL)
-description: Discover the growth of Buy Now Pay Later (BNPL) in India, as it reshapes
-  credit for younger generations and expands spending beyond retail shopping.
-created: '2023-03-05'
-last_update: '2026-06-09'
+description: Discover the growth of Buy Now Pay Later (BNPL) in India, as it reshapes credit for younger generations and expands spending beyond retail shopping.
+created: 2023-03-05
+last_update: 2026-06-09
 ---
-
 ## Facts
 
 - BNPL users will surpass 900 million globally by 2027, increasing from 360 million in 2022

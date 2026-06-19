@@ -1,12 +1,10 @@
 ---
 slug: /ideas/research-index
 title: Startup Ideas Research Index
-description: Explore innovative startup ideas with our comprehensive index, featuring
-  high-priority concepts for validation across various domains like EdTech and DevTools.
-created: '2026-05-02'
-last_update: '2026-06-19'
+description: Explore innovative startup ideas with our comprehensive index, featuring high-priority concepts for validation across various domains like EdTech and DevTools.
+created: 2026-05-02
+last_update: 2026-06-19
 ---
-
 **Startup Ideas Research Index**
 
 **LLM-maintained wiki for multi-domain startup research**

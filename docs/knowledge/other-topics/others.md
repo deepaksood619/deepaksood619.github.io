@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/other-topics/others
 title: Others
-description: Explore the impacts of poverty and hunger in India, global hunger statistics,
-  and understand the intelligence cycle model in this insightful analysis.
-created: '2023-07-10'
-last_update: '2026-05-01'
+description: Explore the impacts of poverty and hunger in India, global hunger statistics, and understand the intelligence cycle model in this insightful analysis.
+created: 2023-07-10
+last_update: 2026-05-01
 ---
-
 ## Poverty
 
 [Kya India me gareebi khatam ho gayi hai? | Markets by Zerodha Hindi - YouTube](https://www.youtube.com/watch?v=v65L8vekQq0)

@@ -1,13 +1,10 @@
 ---
 slug: /ai/data-science/questions
 title: Questions
-description: Explore essential data science questions covering linear regression,
-  SQL, Random Forest, model validation, and more to enhance your understanding and
-  skills.
-created: '2023-07-10'
-last_update: '2025-02-14'
+description: Explore essential data science questions covering linear regression, SQL, Random Forest, model validation, and more to enhance your understanding and skills.
+created: 2023-07-10
+last_update: 2025-02-14
 ---
-
 ## Data Science
 
 1. What are the assumptions of a linear regression?

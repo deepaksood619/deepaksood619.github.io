@@ -1,14 +1,10 @@
 ---
 slug: /data-structures/hashtable/hashing
 title: Understanding Hashing and Hash Functions
-description: Learn about hashing, hash functions, and consistent hashing techniques
-  for efficient data storage and retrieval.
-created: '2023-03-05'
-last_update: '2026-04-21'
+description: Learn about hashing, hash functions, and consistent hashing techniques for efficient data storage and retrieval.
+created: 2023-03-05
+last_update: 2026-04-21
 ---
-
-# Hashing
-
 https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial
 
 ## Hash Function

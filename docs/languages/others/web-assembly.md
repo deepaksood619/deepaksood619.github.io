@@ -1,12 +1,10 @@
 ---
 slug: /languages/others/web-assembly
 title: Web Assembly
-description: Discover how WebAssembly enables high-performance applications in modern
-  browsers, allowing C/C++ and Rust code to run seamlessly alongside JavaScript.
-created: '2023-03-05'
-last_update: '2024-06-11'
+description: Discover how WebAssembly enables high-performance applications in modern browsers, allowing C/C++ and Rust code to run seamlessly alongside JavaScript.
+created: 2023-03-05
+last_update: 2024-06-11
 ---
-
 https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6
 
 WebAssembly gives us access to a set of low level building blocks that we can use to construct just about anything you can imagine

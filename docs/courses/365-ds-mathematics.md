@@ -1,12 +1,10 @@
 ---
 slug: /courses/365-ds-mathematics
 title: 365 DS - Mathematics
-description: Explore Linear Algebra with 365 DS, covering matrices, vectors, tensors,
-  dot products, and their applications in geometry and Python.
-created: '2024-02-01'
-last_update: '2024-02-01'
+description: Explore Linear Algebra with 365 DS, covering matrices, vectors, tensors, dot products, and their applications in geometry and Python.
+created: 2024-02-01
+last_update: 2024-02-01
 ---
-
 ## Introduction to Linear Algebra
 
 - What is a Matrix

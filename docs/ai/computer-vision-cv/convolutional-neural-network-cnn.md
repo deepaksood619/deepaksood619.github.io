@@ -1,12 +1,10 @@
 ---
 slug: /ai/computer-vision-cv/convolutional-neural-network-cnn
 title: Convolutional Neural Network (CNN)
-description: Discover how Convolutional Neural Networks (CNNs) excel in image classification
-  and computer vision, revolutionizing deep learning applications since AlexNet.
-created: '2024-09-17'
-last_update: '2025-02-14'
+description: Discover how Convolutional Neural Networks (CNNs) excel in image classification and computer vision, revolutionizing deep learning applications since AlexNet.
+created: 2024-09-17
+last_update: 2025-02-14
 ---
-
 ## Neural Networks
 
 Among [deep neural networks (DNN)](https://viso.ai/deep-learning/deep-neural-network-three-popular-types/), the [convolutional neural network (CNN)](https://viso.ai/deep-learning/convolutional-neural-networks/) has demonstrated excellent results in computer vision tasks, especially in image classification. Convolutional Neural Networks (CNNs) are a special type of multi-layer neural network inspired by the mechanism of human optical and neural systems.

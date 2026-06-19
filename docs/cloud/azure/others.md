@@ -1,13 +1,10 @@
 ---
 slug: /cloud/azure/others
 title: Others
-description: Discover Azure Container Instances for effortless container deployment
-  without server management, and explore AKS Virtual Kubelet for enhanced Kubernetes
-  integration.
-created: '2025-05-16'
-last_update: '2025-12-04'
+description: Discover Azure Container Instances for effortless container deployment without server management, and explore AKS Virtual Kubelet for enhanced Kubernetes integration.
+created: 2025-05-16
+last_update: 2025-12-04
 ---
-
 ## ACI (Azure Container Instances)
 
 Easily run containers on Azure without managing servers

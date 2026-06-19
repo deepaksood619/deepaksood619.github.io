@@ -1,14 +1,10 @@
 ---
 slug: /frontend/html-css/css-intro/readme
 title: Introduction to CSS Basics
-description: Learn the fundamentals of CSS, its advantages, and how it enhances the
-  design and layout of web pages for an improved user experience.
-created: '2023-03-05'
-last_update: '2024-12-23'
+description: Learn the fundamentals of CSS, its advantages, and how it enhances the design and layout of web pages for an improved user experience.
+created: 2023-03-05
+last_update: 2024-12-23
 ---
-
-# CSS Intro
-
 Cascading Style Sheets, fondly referred to as CSS, is a simple design language intended to simplify the process of making web pages presentable.
 
 CSS handles the look and feel part of a web page. Using CSS, you can control the color of the text, the style of fonts, the spacing between paragraphs, how columns are sized and laid out, what background images or colors are used, layout designs, variations in display for different devices and screen sizes as well as a variety of other effects.

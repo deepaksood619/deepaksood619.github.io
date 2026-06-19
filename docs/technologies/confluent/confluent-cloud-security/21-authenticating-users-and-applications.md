@@ -1,14 +1,10 @@
 ---
 slug: /technologies/confluent/confluent-cloud-security/21-authenticating-users-and-applications
 title: User and Application Authentication
-description: Learn how to securely authenticate users and applications in Confluent
-  Cloud with SSO and best practices.
-created: '2025-12-10'
-last_update: '2026-05-29'
+description: Learn how to securely authenticate users and applications in Confluent Cloud with SSO and best practices.
+created: 2025-12-10
+last_update: 2026-05-29
 ---
-
-# Authenticating Users and Applications
-
 [Course: Introduction to Confluent Cloud Security](https://developer.confluent.io/courses/cloud-security/intro/)
 
 When using Confluent Cloud, two distinct interactions will need authentication:

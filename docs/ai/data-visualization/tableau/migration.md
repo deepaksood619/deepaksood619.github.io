@@ -1,12 +1,10 @@
 ---
 slug: /ai/data-visualization/tableau/migration
 title: Migration
-description: Learn how to successfully migrate Tableau dashboards from Amazon Redshift
-  to Snowflake, ensuring SQL compatibility, performance, and security are maintained.
-created: '2026-06-12'
-last_update: '2026-06-13'
+description: Learn how to successfully migrate Tableau dashboards from Amazon Redshift to Snowflake, ensuring SQL compatibility, performance, and security are maintained.
+created: 2026-06-12
+last_update: 2026-06-13
 ---
-
 Migrating Tableau dashboards from Amazon Redshift to Snowflake involves transitioning the underlying data connection while ensuring SQL compatibility, performance optimization, and security mapping remain intact.
 
 Here is the high-level step-by-step process to guide your migration strategy.

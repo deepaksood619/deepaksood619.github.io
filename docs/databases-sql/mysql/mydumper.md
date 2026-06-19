@@ -1,12 +1,10 @@
 ---
 slug: /databases-sql/mysql/mydumper
 title: MyDumper
-description: MyDumper is an open-source, high-performance MySQL backup tool that uses
-  multithreading to export and import databases faster than traditional methods.
-created: '2024-05-26'
-last_update: '2026-06-11'
+description: MyDumper is an open-source, high-performance MySQL backup tool that uses multithreading to export and import databases faster than traditional methods.
+created: 2024-05-26
+last_update: 2026-06-11
 ---
-
 MyDumper is a MySQL Logical Backup Tool. It has 2 tools:
 
 - `mydumper` which is responsible to export a consistent backup of MySQL databases

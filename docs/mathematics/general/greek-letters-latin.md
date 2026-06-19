@@ -1,12 +1,10 @@
 ---
 slug: /mathematics/general/greek-letters-latin
 title: Greek Letters / Latin
-description: Explore the vital connection between Greek letters and Latin symbols,
-  enhancing your understanding of their significance in language and science.
-created: '2023-03-05'
-last_update: '2025-12-16'
+description: Explore the vital connection between Greek letters and Latin symbols, enhancing your understanding of their significance in language and science.
+created: 2023-03-05
+last_update: 2025-12-16
 ---
-
 | **Name**                                                                                                                    | **Symbol** | **Name**                                                                                                                    | **Symbol** | **Name**                                                                                                                  | **Symbol** | **Name**                                                                                                                    | **Symbol** | **Name**                                                                                                                    | **Symbol** |
 |--------|-------|---------|-------|--------|-------|--------|-------|-------|-------|
 | [Alpha](https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering#%CE%91%CE%B1_(alpha))     | Α α        | [Digamma](https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering#%CF%9C%CF%9D_(digamma)) | Ϝ ϝ        | [Kappa](https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering#%CE%9A%CE%BA_(kappa))   | Κ κ ϰ      | [Omicron](https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering#%CE%9F%CE%BF_(omicron)) | Ο ο        | [Upsilon](https://en.wikipedia.org/wiki/Greek_letters_used_in_mathematics,_science,_and_engineering#%CE%A5%CF%85_(upsilon)) | Υ υ        |

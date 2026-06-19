@@ -1,14 +1,10 @@
 ---
 slug: /education/competitors/lms-platforms/global/enterprise-lms-analysis
 title: Top Enterprise LMS Platforms Overview
-description: Explore the best corporate LMS platforms like TalentLMS, Docebo, and
-  Cornerstone for effective employee training and development.
-created: '2026-06-09'
-last_update: '2026-06-09'
+description: Explore the best corporate LMS platforms like TalentLMS, Docebo, and Cornerstone for effective employee training and development.
+created: 2026-06-09
+last_update: 2026-06-09
 ---
-
-# Enterprise LMS Platforms — TalentLMS, Docebo, Cornerstone
-
 **Category:** Corporate / Enterprise Learning Management | Last updated: 2026-06-09
 
 ---

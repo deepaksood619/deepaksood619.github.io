@@ -1,14 +1,10 @@
 ---
 slug: /devops/monitoring/istio/observability
 title: Understanding Observability in Istio
-description: Explore how Istio's observability features enhance service performance
-  monitoring and control within your service mesh deployment.
-created: '2023-03-05'
-last_update: '2024-04-16'
+description: Explore how Istio's observability features enhance service performance monitoring and control within your service mesh deployment.
+created: 2023-03-05
+last_update: 2024-04-16
 ---
-
-# Observability
-
 O11Y - Observability
 
 Istio's robust tracing, monitoring, and logging features give you deep insights into your service mesh deployment. Gain a real understanding of how service performance impacts things upstream and downstream with Istio's monitoring features, while its custom dashboards provide visibility into the performance of all your services and let you see how that performance is affecting your other processes.

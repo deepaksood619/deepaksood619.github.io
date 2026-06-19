@@ -1,12 +1,10 @@
 ---
 slug: /databases-sql/mysql/documentation
 title: Documentation
-description: Explore comprehensive MySQL documentation covering its features, history,
-  updates, standards compliance, and community support for effective database management.
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Explore comprehensive MySQL documentation covering its features, history, updates, standards compliance, and community support for effective database management.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
 1.3 Overview of the MySQL Database Management System
 
 1.3.1 What is MySQL?

@@ -1,14 +1,10 @@
 ---
 slug: /data-structures/hierarchical-data-structure/left-leaning-red-black-bsts-llrb-tree
 title: Understanding Left Leaning Red-Black BSTs
-description: Explore the properties and operations of Left Leaning Red-Black BSTs
-  (LLRB tree) for efficient binary search tree implementations.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore the properties and operations of Left Leaning Red-Black BSTs (LLRB tree) for efficient binary search tree implementations.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
-# Left Leaning Red-Black BSTs (LLRB tree)
-
 ## Red-Black Tree
 
 - Represent 2-3 tree as a BST

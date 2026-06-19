@@ -1,12 +1,10 @@
 ---
 slug: /ai/nlp/nlp-concepts
 title: NLP Concepts
-description: Explore essential NLP concepts like tokens, word types, and frequency
-  distribution to enhance your understanding of lexical richness in text analysis.
-created: '2023-03-05'
-last_update: '2023-08-11'
+description: Explore essential NLP concepts like tokens, word types, and frequency distribution to enhance your understanding of lexical richness in text analysis.
+created: 2023-03-05
+last_update: 2023-08-11
 ---
-
 A **token** is the technical name for a sequence of characters - such as hairy, his, or :) - that we want to treat as a group. When we count the number of tokens in a text, say, the phrase *to be or not to be*, we are counting occurrences of these sequences
 
 A **word type** is the form or spelling of the word independently of its specific occurrences in a text - that is, the word considered as a unique item of vocabulary.

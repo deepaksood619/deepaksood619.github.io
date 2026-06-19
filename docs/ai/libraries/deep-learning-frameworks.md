@@ -1,12 +1,10 @@
 ---
 slug: /ai/libraries/deep-learning-frameworks
 title: Deep Learning Frameworks
-description: Explore top deep learning frameworks like PyTorch for dynamic neural
-  networks and Keras for user-friendly, high-level neural network development.
-created: '2024-09-18'
-last_update: '2026-06-11'
+description: Explore top deep learning frameworks like PyTorch for dynamic neural networks and Keras for user-friendly, high-level neural network development.
+created: 2024-09-18
+last_update: 2026-06-11
 ---
-
 ## Pytorch
 
 PyTorch ( Tensors and Dynamic neural networks in Python with strong GPU acceleration)

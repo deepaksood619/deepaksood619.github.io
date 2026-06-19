@@ -1,13 +1,10 @@
 ---
 slug: /economics/corporate-finance/cap-table-equity-allocation
 title: Cap Table and Equity Allocation for Startups
-description: Discover the essential guide to cap tables and equity allocation for
-  startups, understanding ownership, dilution, and funding implications for better
-  decision-making.
-created: '2026-05-04'
-last_update: '2026-06-09'
+description: Discover the essential guide to cap tables and equity allocation for startups, understanding ownership, dilution, and funding implications for better decision-making.
+created: 2026-05-04
+last_update: 2026-06-09
 ---
-
 ## What is a Cap Table?
 
 A capitalization table (cap table) is a spreadsheet or document that tracks all equity ownership, dilution, and value of equity in a company. It lists all securities (common stock, preferred stock, options, warrants, convertible notes) and shows who owns what percentage of the company.

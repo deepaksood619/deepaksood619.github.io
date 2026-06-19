@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/system-design/api-gateway
 title: Comprehensive API Gateway Overview
-description: Explore key features, benefits, and best practices of API gateways for
-  efficient API management and microservices integration.
-created: '2023-03-05'
-last_update: '2026-03-27'
+description: Explore key features, benefits, and best practices of API gateways for efficient API management and microservices integration.
+created: 2023-03-05
+last_update: 2026-03-27
 ---
-
-# API Gateway
-
 ## API Design
 
 [Designing APIs: Less Data is More || Damir Svrtan](https://www.youtube.com/watch?v=DC9032_nkyc)

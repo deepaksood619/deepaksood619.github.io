@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/personal-development/essentialism
 title: Essentialism
-description: Discover essentialism with Greg McKeown, a guide to improving well-being
-  by focusing on what truly matters and embracing less for greater impact.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover essentialism with Greg McKeown, a guide to improving well-being by focusing on what truly matters and embracing less for greater impact.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Greg McKeown
 
 - How to do better by doing less

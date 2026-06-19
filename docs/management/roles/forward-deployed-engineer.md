@@ -1,14 +1,10 @@
 ---
 slug: /management/roles/forward-deployed-engineer
 title: Understanding Forward Deployed Engineers
-description: Discover the role of Forward Deployed Engineers in enhancing product
-  success within client environments.
-created: '2026-01-10'
-last_update: '2026-01-10'
+description: Discover the role of Forward Deployed Engineers in enhancing product success within client environments.
+created: 2026-01-10
+last_update: 2026-01-10
 ---
-
-# Forward Deployed Engineer (FDE)
-
 ## Core principle
 
 A Forward Deployed Engineer (FDE) is an engineer whose primary job is to work _inside the customer’s environment_—organizationally and technically—to make a product succeed in real-world use. The “forward” part means close to the customer, not sitting behind a generic support queue.

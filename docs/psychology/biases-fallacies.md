@@ -1,12 +1,10 @@
 ---
 slug: /psychology/biases-fallacies
 title: Biases / Fallacies
-description: Explore logical fallacies, including formal and informal types, to enhance
-  your arguments and detect misleading information in discussions.
-created: '2023-03-05'
-last_update: '2026-06-18'
+description: Explore logical fallacies, including formal and informal types, to enhance your arguments and detect misleading information in discussions.
+created: 2023-03-05
+last_update: 2026-06-18
 ---
-
 There are two major types of **logical fallacies**
 
 1. **Formal fallacies**, there's a problem withhowyou structure your argument, and how you're making your points. You might be speaking the truth, but the logic breaks down because of the way you're putting your arguments together.

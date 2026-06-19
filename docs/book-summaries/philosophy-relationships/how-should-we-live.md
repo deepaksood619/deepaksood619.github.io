@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/philosophy-relationships/how-should-we-live
 title: How should we live?
-description: Explore diverse ways to embrace love, relationships, and self-care, inspired
-  by ancient Greek philosophy to enrich your daily life and connections.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Explore diverse ways to embrace love, relationships, and self-care, inspired by ancient Greek philosophy to enrich your daily life and connections.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Roman Krznaric
 
 - Love

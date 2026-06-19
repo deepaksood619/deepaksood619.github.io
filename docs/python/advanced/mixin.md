@@ -1,14 +1,10 @@
 ---
 slug: /python/advanced/mixin
 title: Understanding Mixins in Python
-description: Explore the concept of mixins in Python, their uses, and an example of
-  implementing clean_name functionality in classes.
-created: '2023-03-05'
-last_update: '2025-11-05'
+description: Explore the concept of mixins in Python, their uses, and an example of implementing clean_name functionality in classes.
+created: 2023-03-05
+last_update: 2025-11-05
 ---
-
-# Mixin
-
 A mixin is a special kind of multiple inheritance. There are two main situations where mixins are used:
 
 1. You want to provide a lot of optional features for a class.

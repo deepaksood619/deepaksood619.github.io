@@ -1,12 +1,10 @@
 ---
 slug: /economics/market-mechanics/trading-derivatives/futures-options-basics
 title: Futures / Options / Trading
-description: Explore futures, options, and trading strategies to maximize profit and
-  minimize risk, with insights on derivatives like swaps and forward contracts.
-created: '2023-03-05'
-last_update: '2026-06-09'
+description: Explore futures, options, and trading strategies to maximize profit and minimize risk, with insights on derivatives like swaps and forward contracts.
+created: 2023-03-05
+last_update: 2026-06-09
 ---
-
 Buy the rumor, sell the news
 
 ## Trading

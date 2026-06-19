@@ -1,12 +1,10 @@
 ---
 slug: /ai/computer-vision-cv/pre-trained-models
 title: Pre-Trained Models
-description: Discover the power of pre-trained models, which enhance image classification
-  accuracy and efficiency by utilizing extensive training on large datasets.
-created: '2024-09-17'
-last_update: '2025-02-14'
+description: Discover the power of pre-trained models, which enhance image classification accuracy and efficiency by utilizing extensive training on large datasets.
+created: 2024-09-17
+last_update: 2025-02-14
 ---
-
 Pre-trained models are neural networks trained on large datasets before being fine-tuned for specific tasks. These models capture intricate patterns and features, making them highly effective for image classification. By leveraging pre-trained models, developers can save time and computational resources. They can also achieve high accuracy with less data. Popular models like VGG, ResNet, and Inception have set benchmarks in the field.
 
 ## Overview of Pre-Trained Models

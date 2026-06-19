@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/economics-finance/dollars-and-sense
 title: Dollars and Sense
-description: Explore how irrational spending, opportunity costs, and mental accounting
-  impact our financial decisions in "Dollars and Sense" by Dan Ariely and Jeff Kreisler.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Explore how irrational spending, opportunity costs, and mental accounting impact our financial decisions in "Dollars and Sense" by Dan Ariely and Jeff Kreisler.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Dan Ariely and Jeff Kreisler
 
 How we misthink money and how to spend smarter

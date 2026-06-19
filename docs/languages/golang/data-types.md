@@ -1,12 +1,10 @@
 ---
 slug: /languages/golang/data-types
 title: Data Types
-description: Explore essential data types in programming, including boolean, numeric,
-  string, and derived types, to enhance your coding skills and understanding.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Explore essential data types in programming, including boolean, numeric, string, and derived types, to enhance your coding skills and understanding.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
 1. Boolean types
 
     They are boolean types and consists of the two predefined constants: (a) true (b) false

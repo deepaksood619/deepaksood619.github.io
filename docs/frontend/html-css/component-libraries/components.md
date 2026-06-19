@@ -1,14 +1,10 @@
 ---
 slug: /frontend/html-css/component-libraries/components
 title: Material UI Components Overview
-description: Explore a comprehensive list of Material UI components including buttons,
-  cards, and dialogs to enhance your web design.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore a comprehensive list of Material UI components including buttons, cards, and dialogs to enhance your web design.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
-# Components
-
 https://material.io/components
 
 https://mui.com/getting-started/supported-components

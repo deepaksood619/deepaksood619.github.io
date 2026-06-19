@@ -1,12 +1,10 @@
 ---
 slug: /economics/accounting-for-finance/5a-accounting-inconsistency-examples
-title: '5A: Accounting Inconsistency Examples'
-description: Explore key accounting inconsistency examples, including tax rates, non-debt
-  commitments, and their impacts on company balance sheets.
-created: '2023-03-05'
-last_update: '2024-02-05'
+title: "5A: Accounting Inconsistency Examples"
+description: Explore key accounting inconsistency examples, including tax rates, non-debt commitments, and their impacts on company balance sheets.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
 ## Tax Rates
 
 ![image](../../media/Accounting-for-Finance_5A-Accounting-Inconsistency-Examples-image1.jpg)

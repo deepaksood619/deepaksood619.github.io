@@ -1,12 +1,10 @@
 ---
 slug: /cloud/aws/ai/amazon-rekognition
 title: Amazon Rekognition
-description: Discover Amazon Rekognition, a cloud-based service that automates image
-  and video analysis with powerful AI, enabling seamless integration without ML expertise.
-created: '2023-03-05'
-last_update: '2025-10-28'
+description: Discover Amazon Rekognition, a cloud-based service that automates image and video analysis with powerful AI, enabling seamless integration without ML expertise.
+created: 2023-03-05
+last_update: 2025-10-28
 ---
-
 Automate and lower the cost of your image recognition and video analysis with ML
 
 Amazon Rekognition is a cloud-based image and video analysis service that makes it easy to add advanced computer vision capabilities to your applications. The service is powered by proven deep learning technology and it requires no machine learning expertise to use. Amazon Rekognition includes a simple, easy-to-use API that can quickly analyze any image or video file that’s stored in Amazon S3.

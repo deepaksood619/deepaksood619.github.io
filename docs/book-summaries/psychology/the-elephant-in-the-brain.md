@@ -1,13 +1,10 @@
 ---
 slug: /book-summaries/psychology/the-elephant-in-the-brain
 title: The Elephant in the Brain
-description: Discover how our everyday actions are driven by hidden selfish motives
-  and status signaling in "The Elephant in the Brain," revealing the truth behind
-  self-deception.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover how our everyday actions are driven by hidden selfish motives and status signaling in "The Elephant in the Brain," revealing the truth behind self-deception.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 - Most of our everyday actions can be traced back to some form of signaling or status seeking
 - Our brains deliberately hide this fact from us and others (self deception)
 

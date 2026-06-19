@@ -1,14 +1,10 @@
 ---
 slug: /devops/kubernetes/configuration
 title: Kubernetes Configuration Overview
-description: Explore Pod priority, preemption, and how to securely manage Secrets
-  with Sealed Secrets in Kubernetes.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore Pod priority, preemption, and how to securely manage Secrets with Sealed Secrets in Kubernetes.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Configuration
-
 ## Pod Priority and Preemtion
 
 [Pods](https://kubernetes.io/docs/user-guide/pods) can havepriority. Priority indicates the importance of a Pod relative to other Pods. If a Pod cannot be scheduled, the scheduler tries to preempt (evict) lower priority Pods to make scheduling of the pending Pod possible.

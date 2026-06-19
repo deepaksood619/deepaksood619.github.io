@@ -1,14 +1,10 @@
 ---
 slug: /networking/mqtt/mqtt-sn
 title: Understanding MQTT-SN Protocol
-description: Explore the MQTT-SN protocol for sensor networks, its transport mechanism,
-  QOS levels, and topic subscription details.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the MQTT-SN protocol for sensor networks, its transport mechanism, QOS levels, and topic subscription details.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# MQTT - SN
-
 MQTT for Sensor Networks
 
 - MQTT-SN uses UDP and not TCP for its transport.

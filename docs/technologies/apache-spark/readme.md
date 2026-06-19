@@ -1,14 +1,10 @@
 ---
 slug: /technologies/apache-spark/readme
 title: Comprehensive Guide to Apache Spark
-description: Explore Apache Spark's concepts, modules, and functions through this
-  in-depth guide for data processing and analytics.
-created: '2024-12-12'
-last_update: '2025-08-09'
+description: Explore Apache Spark's concepts, modules, and functions through this in-depth guide for data processing and analytics.
+created: 2024-12-12
+last_update: 2025-08-09
 ---
-
-# Apache Spark
-
 - [Intro](technologies/apache-spark/00-intro.md)
 - [Terms](technologies/apache-spark/01-terms.md)
 - [Spark Modules](technologies/apache-spark/02-spark-modules.md)

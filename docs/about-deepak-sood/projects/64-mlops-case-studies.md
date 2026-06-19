@@ -1,14 +1,10 @@
 ---
 slug: /about-deepak-sood/projects/64-mlops-case-studies
 title: MLOps Case Studies in FinTech
-description: Discover how MLOps solutions enhance fraud detection in FinTech, ensuring
-  accuracy and scalability in real-time transactions.
-created: '2024-03-17'
-last_update: '2024-12-18'
+description: Discover how MLOps solutions enhance fraud detection in FinTech, ensuring accuracy and scalability in real-time transactions.
+created: 2024-03-17
+last_update: 2024-12-18
 ---
-
-# MLOps Case Studies
-
 ## Financial Technology (FinTech) Fraud Detection Case Study
 
 ### Challenges

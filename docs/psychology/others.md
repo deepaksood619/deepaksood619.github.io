@@ -1,12 +1,10 @@
 ---
 slug: /psychology/others
 title: Others
-description: Explore classical conditioning through Pavlov's experiment, detailing
-  its processes, types, and significance in understanding learning behaviors.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore classical conditioning through Pavlov's experiment, detailing its processes, types, and significance in understanding learning behaviors.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
 ## Classical Conditioning (Pavlov's Experiment)
 
 Classical conditioning (also known as **Pavlovian** or **respondent conditioning**) refers to a [learning](https://en.wikipedia.org/wiki/Learning) procedure in which a biologically potent [stimulus](https://en.wikipedia.org/wiki/Stimulus_(physiology))(e.g. food) is paired with a previously neutral stimulus (e.g. a bell). It also refers to the learning process that results from this pairing, through which the neutral stimulus comes to elicit a response (e.g. salivation) that is usually similar to the one elicited by the potent stimulus

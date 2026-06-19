@@ -1,12 +1,10 @@
 ---
 slug: /courses/readme
 title: Courses / Certifications
-description: Explore a diverse range of AI and data courses and certifications, from
-  data storage to machine learning with TensorFlow, tailored for career advancement.
-created: '2024-02-01'
-last_update: '2026-06-18'
+description: Explore a diverse range of AI and data courses and certifications, from data storage to machine learning with TensorFlow, tailored for career advancement.
+created: 2024-02-01
+last_update: 2026-06-18
 ---
-
 ## AI / Data Courses
 
 1. [Data Storage and Processing](courses/course-data-storage-and-processing-edx.md)

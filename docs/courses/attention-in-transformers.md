@@ -1,12 +1,10 @@
 ---
 slug: /courses/attention-in-transformers
 title: Attention in Transformers
-description: Learn the attention mechanism in transformers and implement it in PyTorch
-  to build scalable AI applications and enhance your understanding of LLMs.
-created: '2025-02-24'
-last_update: '2025-05-03'
+description: Learn the attention mechanism in transformers and implement it in PyTorch to build scalable AI applications and enhance your understanding of LLMs.
+created: 2025-02-24
+last_update: 2025-05-03
 ---
-
 Attention in Transformers: Concepts and Code in PyTorch.
 
 The attention mechanism was a breakthrough that led to transformers, the architecture powering large language models like ChatGPT. Transformers, introduced in the 2017 paper: "Attention is All You Need" by Viswani and others, took off because of its highly scalable design.

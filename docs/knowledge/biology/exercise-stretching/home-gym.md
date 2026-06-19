@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/biology/exercise-stretching/home-gym
 title: Home + Gym
-description: Discover the benefits of home workouts vs. gym routines, including time
-  savings, cost-effectiveness, and flexibility for a healthier lifestyle.
-created: '2023-03-05'
-last_update: '2025-09-28'
+description: Discover the benefits of home workouts vs. gym routines, including time savings, cost-effectiveness, and flexibility for a healthier lifestyle.
+created: 2023-03-05
+last_update: 2025-09-28
 ---
-
 ### Gym
 
 - More equipments

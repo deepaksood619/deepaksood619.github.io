@@ -1,13 +1,10 @@
 ---
 slug: /psychology/parenting
 title: Parenting / children
-description: Explore effective parenting strategies to nurture your child's curiosity
-  and brain development in the formative years, fostering a positive environment for
-  growth.
-created: '2023-03-05'
-last_update: '2026-06-18'
+description: Explore effective parenting strategies to nurture your child's curiosity and brain development in the formative years, fostering a positive environment for growth.
+created: 2023-03-05
+last_update: 2026-06-18
 ---
-
 "The children are always ours, every single one of them, all over the globe; and I am beginning to suspect that whoever is incapable of recognizing this may be incapable of morality." -- James Baldwin
 
 When you come from nothing, you want to give your kids everything. Then you realize giving them everything teaches them nothing. -- Taylor Swift

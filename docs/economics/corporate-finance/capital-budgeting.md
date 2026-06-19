@@ -1,12 +1,10 @@
 ---
 slug: /economics/corporate-finance/capital-budgeting
 title: Capital budgeting
-description: Understand capital budgeting, a crucial process for evaluating significant
-  investments like equipment purchases and construction to maximize financial returns.
-created: '2023-03-05'
-last_update: '2025-02-14'
+description: Understand capital budgeting, a crucial process for evaluating significant investments like equipment purchases and construction to maximize financial returns.
+created: 2023-03-05
+last_update: 2025-02-14
 ---
-
 ## Definition of Capital Budgeting
 
 Capital budgeting is a process used by companies for evaluating and ranking potential [capital expenditures](https://www.accountingcoach.com/blog/what-are-capital-expenditures) or investments that are significant in amount. A few examples of capital expenditures include:

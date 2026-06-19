@@ -1,14 +1,10 @@
 ---
 slug: /devops/terraform/documentation
 title: AWS Provider Configuration Guide
-description: Learn how to configure the AWS provider in Terraform for effective resource
-  management and API interactions.
-created: '2023-03-05'
-last_update: '2026-02-19'
+description: Learn how to configure the AWS provider in Terraform for effective resource management and API interactions.
+created: 2023-03-05
+last_update: 2026-02-19
 ---
-
-# Documentation
-
 ## Providers
 
 The provider block is used to configure the named provider, in our case "aws". A provider is responsible for creating and managing resources. A provider is a plugin that Terraform uses to translate the API interactions with the service. A provider is responsible for understanding API interactions and exposing resources. Because Terraform can interact with any API, almost any infrastructure type can be represented as a resource in Terraform.

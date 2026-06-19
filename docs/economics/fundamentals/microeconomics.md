@@ -1,12 +1,10 @@
 ---
 slug: /economics/fundamentals/microeconomics
 title: Microeconomics
-description: Explore microeconomics, the study of individual and firm behavior in
-  resource allocation, market mechanisms, and price determination in competitive markets.
-created: '2023-03-05'
-last_update: '2026-06-09'
+description: Explore microeconomics, the study of individual and firm behavior in resource allocation, market mechanisms, and price determination in competitive markets.
+created: 2023-03-05
+last_update: 2026-06-09
 ---
-
 Microeconomics (from Greek prefixmikro-meaning "small" +economics) is a branch of [economics](https://en.wikipedia.org/wiki/Economics) that studies the behaviour of individuals and [firms](https://en.wikipedia.org/wiki/Theory_of_the_firm) in making decisions regarding the allocation of [scarce resources](https://en.wikipedia.org/wiki/Scarcity) and the interactions among these individuals and firms.
 
 One goal of microeconomics is to analyze the [market mechanisms](https://en.wikipedia.org/wiki/Market_mechanism) that establish [relative prices](https://en.wikipedia.org/wiki/Relative_price) among goods and services and allocate limited resources among alternative uses. Microeconomics shows conditions under which free markets lead to desirable allocations. It also analyzes [market failure](https://en.wikipedia.org/wiki/Market_failure), where markets fail to produce [efficient](https://en.wikipedia.org/wiki/Financial_market_efficiency) results.

@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/interview-question/system-design-google-search
 title: Google Search Engine System Design
-description: Explore the complex architecture of Google Search and master key concepts
-  for system design interviews.
-created: '2023-03-05'
-last_update: '2026-04-28'
+description: Explore the complex architecture of Google Search and master key concepts for system design interviews.
+created: 2023-03-05
+last_update: 2026-04-28
 ---
-
-# System Design of Google Search Engine
-
 ![System Design of Google Search](../../media/system-design-of-google-search.webp)
 
 Google Search is one of the most complex and powerful distributed systems ever created, handling billions of queries per day. Understanding its architecture can help you ace system design interviews and give you a solid grasp of how massive-scale systems operate. In this blog, we'll delve into the system design of Google Search, breaking it down into key components that will be especially useful for those preparing for interviews.

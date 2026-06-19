@@ -1,12 +1,10 @@
 ---
 slug: /ai/llm/agents/langgraph-vs-semantic-kernel
 title: LangGraph vs Semantic Kernel
-description: Compare LangGraph and Semantic Kernel to determine which framework better
-  supports your LLM-powered application needs based on ecosystem and flexibility.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Compare LangGraph and Semantic Kernel to determine which framework better supports your LLM-powered application needs based on ecosystem and flexibility.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 Choosing between **LangGraph/LangChain** and **Semantic Kernel** usually comes down to your preferred ecosystem (Python vs. .NET) and how much "hand-holding" you want from the framework. Both are designed to help you build LLM-powered applications, but they approach the problem from very different philosophies.
 
 ## The Core Philosophies

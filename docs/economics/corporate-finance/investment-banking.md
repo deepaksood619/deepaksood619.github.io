@@ -1,12 +1,10 @@
 ---
 slug: /economics/corporate-finance/investment-banking
 title: Investment Banking
-description: Explore investment banking, where professionals assist in capital creation,
-  securities underwriting, mergers, and acquisitions for companies and governments.
-created: '2023-03-05'
-last_update: '2026-06-09'
+description: Explore investment banking, where professionals assist in capital creation, securities underwriting, mergers, and acquisitions for companies and governments.
+created: 2023-03-05
+last_update: 2026-06-09
 ---
-
 [Careers in finance - Investment Banking (Part 2) - YouTube](https://www.youtube.com/watch?v=3ivP6-y8tN8&ab_channel=ZerodhaVarsity)
 
 [Careers in finance - Public and private markets (Part 3) - YouTube](https://www.youtube.com/watch?v=PjQSs621oII&ab_channel=ZerodhaVarsity)

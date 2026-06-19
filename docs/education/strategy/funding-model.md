@@ -1,14 +1,10 @@
 ---
 slug: /education/strategy/funding-model
 title: Non-Profit Funding Model Overview
-description: Discover the funding model for non-profits, focusing on mission-driven
-  approaches and sustainable financial strategies.
-created: '2026-06-04'
-last_update: '2026-06-08'
+description: Discover the funding model for non-profits, focusing on mission-driven approaches and sustainable financial strategies.
+created: 2026-06-04
+last_update: 2026-06-08
 ---
-
-# Funding Model - Non-Profit
-
 **Last Updated:** 2026-06-04
 
 **Organization Type:** Section 8 (India) / 501(c)(3) equivalent (US)

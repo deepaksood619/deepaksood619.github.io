@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/quotes-proverbs/tatoos-quotes
 title: Tatoos Quotes
-description: Discover meaningful tattoo quotes that inspire personal growth, reflect
-  life's complexities, and celebrate diverse languages and philosophies.
-created: '2023-03-05'
-last_update: '2026-05-21'
+description: Discover meaningful tattoo quotes that inspire personal growth, reflect life's complexities, and celebrate diverse languages and philosophies.
+created: 2023-03-05
+last_update: 2026-05-21
 ---
-
 ||||| (number of jobs you changed, getting new line when get a new job)
 
 Panta rhei - change is the only constant in life

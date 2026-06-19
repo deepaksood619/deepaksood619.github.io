@@ -1,12 +1,10 @@
 ---
 slug: /about-deepak-sood/values
 title: Values
-description: Explore our core values, emphasizing accomplishment, accountability,
-  creativity, and community to inspire growth and foster positive relationships.
-created: '2025-02-26'
-last_update: '2026-02-27'
+description: Explore our core values, emphasizing accomplishment, accountability, creativity, and community to inspire growth and foster positive relationships.
+created: 2025-02-26
+last_update: 2026-02-27
 ---
-
 ## Core Values
 
 1. Accomplishment

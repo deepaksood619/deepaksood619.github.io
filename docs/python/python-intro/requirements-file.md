@@ -1,14 +1,10 @@
 ---
 slug: /python/python-intro/requirements-file
 title: Understanding Pip Requirements Files
-description: Learn how to create and use pip requirements files for seamless package
-  installations in Python projects.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Learn how to create and use pip requirements files for seamless package installations in Python projects.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
-# Requirements file
-
 pip supports installing from [PyPI](http://pypi.python.org/pypi), version control, local projects, and directly from distribution files.
 
 The most common scenario is to install from [PyPI](http://pypi.python.org/pypi) using [Requirement Specifiers](https://pip.pypa.io/en/stable/reference/pip_install/#requirement-specifiers) "Requirements files" are files containing a list of items to be installed using [pip install](https://pip.pypa.io/en/stable/reference/pip_install/#pip-install) like so:

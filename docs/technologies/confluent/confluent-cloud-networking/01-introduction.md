@@ -1,14 +1,10 @@
 ---
 slug: /technologies/confluent/confluent-cloud-networking/01-introduction
 title: Confluent Cloud Networking Overview
-description: Explore connectivity options between your network and Confluent Cloud,
-  along with their benefits and trade-offs.
-created: '2025-12-10'
-last_update: '2026-01-28'
+description: Explore connectivity options between your network and Confluent Cloud, along with their benefits and trade-offs.
+created: 2025-12-10
+last_update: 2026-01-28
 ---
-
-# Introduction
-
 ![confluent-cloud-networking-intro](https://images.ctfassets.net/gt6dp23g0g38/1ntqDwcP1q5VgraE0XUdug/445158bc26777f83d1ac9911219a8ef0/confluent-cloud-networking-intro.jpg)
 
 Confluent Cloud runs in its own virtual network in one of three cloud providers: AWS, Google Cloud, or Azure. Your apps run in another network—in the cloud or on premises. During this course, you will learn about the available network connectivity options for connecting your network with the Confluent Cloud network. You will also learn about the benefits of each option as well as any trade-offs that need to be considered.

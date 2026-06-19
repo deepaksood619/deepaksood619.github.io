@@ -1,12 +1,10 @@
 ---
 slug: /languages/golang/testing
 title: Testing
-description: Explore essential testing tools for Go, including Testing Package, Testify,
-  and Ginkgo, to enhance test readability and efficiency in your projects.
-created: '2024-02-07'
-last_update: '2024-02-08'
+description: Explore essential testing tools for Go, including Testing Package, Testify, and Ginkgo, to enhance test readability and efficiency in your projects.
+created: 2024-02-07
+last_update: 2024-02-08
 ---
-
 |Tool|Description|Features|Pros|Cons|
 |---|---|---|---|---|
 |**Testing Package**|Lightweight and suitable for basic testing within the Go standard library, but lacks advanced features|Basic testing capabilities, no external dependencies|No additional dependencies, lightweight|Limited features, lacks advanced capabilities|

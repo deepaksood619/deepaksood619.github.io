@@ -1,14 +1,10 @@
 ---
 slug: /databases/indexing/indexing-questions
 title: Effective Indexing Questions for MySQL
-description: Explore key indexing questions and improve query performance with practical
-  examples in MySQL.
-created: '2024-03-30'
-last_update: '2025-02-14'
+description: Explore key indexing questions and improve query performance with practical examples in MySQL.
+created: 2024-03-30
+last_update: 2025-02-14
 ---
-
-# Indexing Questions
-
 [**https://use-the-index-luke.com/3-minute-test/mysql**](https://use-the-index-luke.com/3-minute-test/mysql)
 
 ## Question 1

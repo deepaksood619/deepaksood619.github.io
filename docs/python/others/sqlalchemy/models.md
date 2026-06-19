@@ -1,14 +1,10 @@
 ---
 slug: /python/others/sqlalchemy/models
 title: Understanding SQLAlchemy Models
-description: Learn how to define Declarative Mappings in SQLAlchemy to create Python
-  object models and their corresponding database structures.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Learn how to define Declarative Mappings in SQLAlchemy to create Python object models and their corresponding database structures.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Models
-
 https://docs.sqlalchemy.org/en/14/orm/quickstart.html
 
 Here, we define module-level constructs that will form the structures which we will be querying from the database. This structure, known as a Declarative Mapping, defines at once both a Python object model, as well as database metadata that describes real SQL tables that exist, or will exist, in a particular database

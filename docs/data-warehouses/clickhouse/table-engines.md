@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/clickhouse/table-engines
 title: Understanding Table Engines in ClickHouse
-description: Explore ClickHouse table engines, their features, and capabilities for
-  efficient data storage and processing.
-created: '2025-05-16'
-last_update: '2025-06-10'
+description: Explore ClickHouse table engines, their features, and capabilities for efficient data storage and processing.
+created: 2025-05-16
+last_update: 2025-06-10
 ---
-
-# Table Engines
-
 [Table Engines \ClickHouse Docs](https://clickhouse.com/docs/engines/table-engines
 
 The table engine (type of table) determines:

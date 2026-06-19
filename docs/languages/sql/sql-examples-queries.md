@@ -1,12 +1,10 @@
 ---
 slug: /languages/sql/sql-examples-queries
 title: SQL Examples / Queries
-description: Explore SQL examples and queries, including methods to check table sizes
-  and manage indexes effectively in MySQL for optimal database performance.
-created: '2023-03-05'
-last_update: '2025-06-22'
+description: Explore SQL examples and queries, including methods to check table sizes and manage indexes effectively in MySQL for optimal database performance.
+created: 2023-03-05
+last_update: 2025-06-22
 ---
-
 [Online SQL Playground with Data | W3 Schools](https://www.w3schools.com/sql/trysql.asp?filename=trysql_editor)
 
 - Alter table drop index in mysql locks the table, run it off-hours

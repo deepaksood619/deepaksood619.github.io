@@ -1,14 +1,10 @@
 ---
 slug: /readme
 title: Deepak's Personal Knowledge Wiki
-description: Explore Deepak's personal wiki for notes, insights, and curated must-read
-  pages on a variety of topics.
-created: '2023-03-05'
-last_update: '2026-06-18'
+description: Explore Deepak's personal wiki for notes, insights, and curated must-read pages on a variety of topics.
+created: 2023-03-05
+last_update: 2026-06-18
 ---
-
-# Deepak's Wiki
-
 This is my personal wiki where I share everything I know about this world in form of an online wiki.
 
 The purpose of this site is to force me to improve the quality of these notes, the prospect of being read by someone being motivating. It also allows me to access it everywhere.

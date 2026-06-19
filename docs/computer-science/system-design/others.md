@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/system-design/others
 title: Understanding GridFTP in Grid Computing
-description: Explore GridFTP, an advanced file transfer protocol designed for high
-  performance and reliability in grid computing applications.
-created: '2023-03-05'
-last_update: '2026-03-27'
+description: Explore GridFTP, an advanced file transfer protocol designed for high performance and reliability in grid computing applications.
+created: 2023-03-05
+last_update: 2026-03-27
 ---
-
-# Others
-
 ## Grid FTP
 
 GridFTPis an extension of the [File Transfer Protocol (FTP)](https://en.wikipedia.org/wiki/File_Transfer_Protocol) for [grid computing](https://en.wikipedia.org/wiki/Grid_computing).The protocol was defined within the GridFTP working group of the [Open Grid Forum](https://en.wikipedia.org/wiki/Open_Grid_Forum). There are multiple implementations of the protocol; the most widely used is that provided by the [Globus Toolkit](https://en.wikipedia.org/wiki/Globus_Toolkit).

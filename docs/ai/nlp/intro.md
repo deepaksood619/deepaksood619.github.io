@@ -1,13 +1,10 @@
 ---
 slug: /ai/nlp/intro
 title: NLP
-description: Explore Natural Language Processing with insights on word embeddings,
-  pretraining techniques, and key models like word2vec and GloVe for improved NLP
-  applications.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Explore Natural Language Processing with insights on word embeddings, pretraining techniques, and key models like word2vec and GloVe for improved NLP applications.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
 - [14. Natural Language Processing: Pretraining](https://d2l.ai/chapter_natural-language-processing-pretraining/index.html)
 - [14.1. Word Embedding (word2vec)](https://d2l.ai/chapter_natural-language-processing-pretraining/word2vec.html)
 - [14.2. Approximate Training](https://d2l.ai/chapter_natural-language-processing-pretraining/approx-training.html)

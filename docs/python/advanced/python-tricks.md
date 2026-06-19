@@ -1,14 +1,10 @@
 ---
 slug: /python/advanced/python-tricks
 title: Essential Python Tricks for Cleaner Code
-description: Discover essential Python tricks, including naming conventions and formatting
-  tips for cleaner and more maintainable code.
-created: '2023-03-05'
-last_update: '2025-10-01'
+description: Discover essential Python tricks, including naming conventions and formatting tips for cleaner and more maintainable code.
+created: 2023-03-05
+last_update: 2025-10-01
 ---
-
-# Python Tricks
-
 ## Patterns for Cleaner Python
 
 **Smart formatting and comma placement** can make your list, dict, or set constants easier to maintain.

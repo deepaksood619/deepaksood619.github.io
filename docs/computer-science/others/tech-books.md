@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/others/tech-books
 title: Essential Tech Books for Developers
-description: Explore top tech books covering algorithms, network programming, system
-  security, and data-intensive application design for developers.
-created: '2023-03-05'
-last_update: '2025-06-22'
+description: Explore top tech books covering algorithms, network programming, system security, and data-intensive application design for developers.
+created: 2023-03-05
+last_update: 2025-06-22
 ---
-
-# Tech Books
-
 Networks, Crowds, and Markets: Reasoning about a Highly Connected World
 
 - David Easley

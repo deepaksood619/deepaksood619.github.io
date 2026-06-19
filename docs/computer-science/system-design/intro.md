@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/system-design/intro
 title: Understanding Systems Design
-description: Explore the fundamentals of systems design, including architecture, modules,
-  and data to meet your project requirements.
-created: '2023-03-05'
-last_update: '2026-05-21'
+description: Explore the fundamentals of systems design, including architecture, modules, and data to meet your project requirements.
+created: 2023-03-05
+last_update: 2026-05-21
 ---
-
-# Intro
-
 **M**O**SC**O**W** : Must have, Should have, Could have, Would have
 
 Systems design is the process of defining the [architecture](https://en.wikipedia.org/wiki/Systems_architecture), modules, interfaces, and [data](https://en.wikipedia.org/wiki/Data) for a [system](https://en.wikipedia.org/wiki/System) to satisfy specified [requirements](https://en.wikipedia.org/wiki/Requirement). Systems design could be seen as the application of [systems theory](https://en.wikipedia.org/wiki/Systems_theory) to [product development](https://en.wikipedia.org/wiki/Product_development). There is some overlap with the disciplines of [systems analysis](https://en.wikipedia.org/wiki/Systems_analysis), [systems architecture](https://en.wikipedia.org/wiki/Systems_architecture) and [systems engineering](https://en.wikipedia.org/wiki/Systems_engineering)

@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/system-design/architecture-guide
 title: Comprehensive Architecture Guide
-description: Explore essential architecture styles like Big Data, Big Compute, and
-  more in this comprehensive guide for optimal application design.
-created: '2023-03-05'
-last_update: '2024-10-07'
+description: Explore essential architecture styles like Big Data, Big Compute, and more in this comprehensive guide for optimal application design.
+created: 2023-03-05
+last_update: 2024-10-07
 ---
-
-# Architecture Guide
-
 ## Application Architecture Guide
 
 - Architecture Styles

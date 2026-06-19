@@ -1,14 +1,10 @@
 ---
 slug: /about-deepak-sood/projects/58-aws-gen-ai-hackathon-rag
 title: AWS Gen AI Hackathon Resources
-description: Explore essential resources and links for the AWS Gen AI Hackathon, including
-  slides and training materials.
-created: '2024-03-30'
-last_update: '2026-06-18'
+description: Explore essential resources and links for the AWS Gen AI Hackathon, including slides and training materials.
+created: 2024-03-30
+last_update: 2026-06-18
 ---
-
-# AWS Gen AI Hackathon RAG
-
 [Virtual Recruiter | GenAI - RAG - Google Slides](https://docs.google.com/presentation/d/1PL-uccbMAo21G0YkorF-RGwG5tqr-Sxm72lLsLggF_M/edit?usp=sharing)
 
 [RAG Hackathon Questions](ai/llm/rag/rag-hackathon-questions.md)

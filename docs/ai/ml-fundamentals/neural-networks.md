@@ -1,12 +1,10 @@
 ---
 slug: /ai/ml-fundamentals/neural-networks
 title: Neural Networks
-description: Explore neural networks, a powerful machine learning approach that learns
-  to solve problems through examples by optimizing parameters across multiple layers.
-created: '2023-03-05'
-last_update: '2024-08-06'
+description: Explore neural networks, a powerful machine learning approach that learns to solve problems through examples by optimizing parameters across multiple layers.
+created: 2023-03-05
+last_update: 2024-08-06
 ---
-
 In computer programming, humans instruct a computer to solve a problem by specifying each step using many lines of code. With machine learning and neural networks, you instead get the computer to solve the problem through examples.
 
 A neural network is a mathematical function that can learn the expected output for a given input from training datasets.

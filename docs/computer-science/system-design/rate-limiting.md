@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/system-design/rate-limiting
 title: Understanding Rate Limiting in Networks
-description: Explore how rate limiting protects network endpoints and mitigates DoS
-  attacks through traffic control and hardware appliances.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore how rate limiting protects network endpoints and mitigates DoS attacks through traffic control and hardware appliances.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Rate Limiting
-
 ## Endpoint Protection
 
 In [computer networks](https://en.wikipedia.org/wiki/Computer_network), rate limiting is used to control the rate of traffic sent or received by a [network interface controller](https://en.wikipedia.org/wiki/Network_interface_controller) and is used to prevent [DoS attacks](https://en.wikipedia.org/wiki/Denial-of-service_attack).

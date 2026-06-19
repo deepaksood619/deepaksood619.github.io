@@ -1,13 +1,10 @@
 ---
 slug: /databases-nosql/druid/documentation
 title: Documentation
-description: Explore comprehensive Druid documentation to get started with design,
-  architecture, data sources, and query processing for efficient data ingestion and
-  analysis.
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Explore comprehensive Druid documentation to get started with design, architecture, data sources, and query processing for efficient data ingestion and analysis.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
 ### Getting Started
 
 - [Design](http://druid.io/docs/latest/design/index.html)

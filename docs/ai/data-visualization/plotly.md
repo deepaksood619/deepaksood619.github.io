@@ -1,12 +1,10 @@
 ---
 slug: /ai/data-visualization/plotly
 title: Plotly
-description: Discover Plotly, the Python graphing library that creates interactive,
-  high-quality visualizations including line plots, bar charts, heatmaps, and more.
-created: '2023-03-05'
-last_update: '2025-03-27'
+description: Discover Plotly, the Python graphing library that creates interactive, high-quality visualizations including line plots, bar charts, heatmaps, and more.
+created: 2023-03-05
+last_update: 2025-03-27
 ---
-
 similar to matplotlib
 
 https://plotly.com/python

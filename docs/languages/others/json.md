@@ -1,12 +1,10 @@
 ---
 slug: /languages/others/json
 title: JSON
-description: Discover JSON, a lightweight, human-readable data format ideal for data
-  interchange, compatible with multiple programming languages for easy integration.
-created: '2023-03-05'
-last_update: '2026-03-31'
+description: Discover JSON, a lightweight, human-readable data format ideal for data interchange, compatible with multiple programming languages for easy integration.
+created: 2023-03-05
+last_update: 2026-03-31
 ---
-
 JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. It is based on a subset of the [JavaScript Programming Language](http://javascript.crockford.com/), [Standard ECMA-262 3rd Edition - December 1999](http://www.ecma-international.org/publications/files/ecma-st/ECMA-262.pdf). JSON is a text format that is completely language independent but uses conventions that are familiar to programmers of the C-family of languages, including C, C++, C#, Java, JavaScript, Perl, Python, and many others. These properties make JSON an ideal data-interchange language.
 
 JSON is built on two structures:

@@ -1,14 +1,10 @@
 ---
 slug: /technologies/apache-airflow/concepts
 title: Understanding DAGs and Operators in Airflow
-description: Explore key concepts of DAGs and operators in Airflow, including scope,
-  default arguments, and context managers for efficient workflows.
-created: '2023-03-05'
-last_update: '2024-12-12'
+description: Explore key concepts of DAGs and operators in Airflow, including scope, default arguments, and context managers for efficient workflows.
+created: 2023-03-05
+last_update: 2024-12-12
 ---
-
-# Concepts
-
 ## DAGs
 
 In Airflow, a DAG -- or a Directed Acyclic Graph -- is a collection of all the tasks you want to run, organized in a way that reflects their relationships and dependencies.

@@ -1,13 +1,10 @@
 ---
 slug: /languages/others/ruby
 title: Ruby
-description: Discover Ruby gems for packaging functionality, enhancing projects with
-  features like JSON conversion, pagination, and API interactions, essential for Jekyll
-  sites.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Discover Ruby gems for packaging functionality, enhancing projects with features like JSON conversion, pagination, and API interactions, essential for Jekyll sites.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
 ## Gems
 
 A gem is code you can include in Ruby projects. It allows you to package up functionality and share it across other projects or with other people. Gems can perform functionality such as:

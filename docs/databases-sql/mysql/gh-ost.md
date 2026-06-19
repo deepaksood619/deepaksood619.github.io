@@ -1,12 +1,10 @@
 ---
 slug: /databases-sql/mysql/gh-ost
 title: Gh-ost (Ghost)
-description: Discover Gh-ost, the MySQL online schema migration tool that enables
-  seamless changes without blocking writes, enhancing your database management efficiency.
-created: '2025-03-27'
-last_update: '2026-06-11'
+description: Discover Gh-ost, the MySQL online schema migration tool that enables seamless changes without blocking writes, enhancing your database management efficiency.
+created: 2025-03-27
+last_update: 2026-06-11
 ---
-
 If like 99 percent of MySQL DBAs you have faced implementing a change to a MySQL table while fearing the impact on production, then you should consider [Gh-ost](https://github.com/github/gh-ost) ⭐ 13k (GitHub Online Schema Migration). Gh-ost provides MySQL schema changes without blocking writes, without using triggers, and with the ability to pause and resume the migration!
 
 Why is this so important? Since MySQL 5.6 shipped with new [ALTER TABLE ... ALGORITHM=INPLACE](https://dev.mysql.com/doc/refman/5.6/en/alter-table.html) DDL (Data Definition Language) functionality, it became possible to modify a table without blocking writes for common operations such as adding an index (B-tree). However, there remain a few conditions where [writes (DML statements) are blocked](https://dev.mysql.com/doc/refman/5.7/en/innodb-create-index-overview.html#innodb-online-ddl-summary-grid), most notably the addition of a `FULLTEXT` index, the encryption of the tablespace, and the conversion of a column type.

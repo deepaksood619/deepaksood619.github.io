@@ -1,13 +1,10 @@
 ---
 slug: /psychology/burnout
 title: Burnout
-description: Explore the causes of programmer burnout and discover effective tips
-  to manage stress, enhance productivity, and protect your energy for sustainable
-  growth.
-created: '2023-05-24'
-last_update: '2025-12-20'
+description: Explore the causes of programmer burnout and discover effective tips to manage stress, enhance productivity, and protect your energy for sustainable growth.
+created: 2023-05-24
+last_update: 2025-12-20
 ---
-
 ## Programmers Burnout
 
 [Why There’s so Much Burnout in Software and What To Do About It \| by Nemil Dalal \| HackerNoon.com \| Medium](https://medium.com/hackernoon/why-theres-so-much-burnout-in-software-and-what-to-do-about-it-4ef0297ca7cc)

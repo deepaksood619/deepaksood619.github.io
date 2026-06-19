@@ -1,12 +1,10 @@
 ---
 slug: /mathematics/combinatorics/conditional-probability
 title: Conditional Probability
-description: Explore conditional probability, including its definition, formula P(A|B),
-  and a practical example to understand how events influence outcomes in probability.
-created: '2023-03-05'
-last_update: '2023-11-20'
+description: Explore conditional probability, including its definition, formula P(A|B), and a practical example to understand how events influence outcomes in probability.
+created: 2023-03-05
+last_update: 2023-11-20
 ---
-
 Conditional probability is calculating the probability of an event given that another event has already occured .
 
 The formula for conditional probability P(A|B), read as P(A given B) is

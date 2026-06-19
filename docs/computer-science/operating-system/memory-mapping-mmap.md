@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/operating-system/memory-mapping-mmap
 title: Understanding Memory Mapping with mmap
-description: Discover how mmap allows efficient file access by mapping files directly
-  into memory, enhancing performance for developers.
-created: '2023-03-05'
-last_update: '2026-03-27'
+description: Discover how mmap allows efficient file access by mapping files directly into memory, enhancing performance for developers.
+created: 2023-03-05
+last_update: 2026-03-27
 ---
-
-# Memory Mapping mmap
-
 ## Memory Mapping (mmap)
 
 Memory mapping ([mmap](http://man7.org/linux/man-pages/man2/mmap.2.html)) allows you to access a file as if it was loaded in memory entirely.It simplies file access and is frequently used by database and application developers.

@@ -1,12 +1,10 @@
 ---
 slug: /data-warehouses/concepts/etl-extract-transform-load
 title: Understanding ETL Process
-description: 'Explore the ETL process: extract data, transform it for analysis, and
-  load into databases for effective data warehousing.'
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Explore the ETL process: extract data, transform it for analysis, and load into databases for effective data warehousing.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
 # ETL (Extract Transform Load)
 
 In [computing](https://en.wikipedia.org/wiki/Computing), **extract, transform, load** (**ETL**) refers to a process in [database](https://en.wikipedia.org/wiki/Database) usage and especially in [data warehousing](https://en.wikipedia.org/wiki/Data_warehouse).

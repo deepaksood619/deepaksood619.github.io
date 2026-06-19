@@ -1,13 +1,10 @@
 ---
 slug: /book-summaries/economics-finance/small-is-beautiful
-title: 'Small Is Beautiful: Economics as if People Mattered'
-description: Discover Ernst F. Schumacher's influential book "Small Is Beautiful,"
-  advocating for an economy that prioritizes people and environmental sustainability
-  over profit.
-created: '2026-06-18'
-last_update: '2026-06-18'
+title: "Small Is Beautiful: Economics as if People Mattered"
+description: Discover Ernst F. Schumacher's influential book "Small Is Beautiful," advocating for an economy that prioritizes people and environmental sustainability over profit.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By ERNST F. SCHUMACHER
 
 _Small Is Beautiful: Economics as if People Mattered_ is a political nonfiction book by Ernst F. Schumacher. Published in 1973 by Harper, the book centers on the premise that economics should serve us, the people, as opposed to the other way around. The book has been very well received for its unique take on politics and environmentalism. Before authoring _Small Is Beautiful_, Schumacher served as a leading statistician and economist. He worked as Chief Economic Advisor to the UK National Coal Board for more than twenty years. He’s still regarded as a highly influential economist.

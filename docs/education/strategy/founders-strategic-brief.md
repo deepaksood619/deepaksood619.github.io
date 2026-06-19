@@ -1,14 +1,10 @@
 ---
 slug: /education/strategy/founders-strategic-brief
 title: Founder's Strategic Brief for Education Startup
-description: Explore our education startup's strategic direction, focusing on AI-native
-  learning for professionals seeking skill development.
-created: '2026-05-05'
-last_update: '2026-06-13'
+description: Explore our education startup's strategic direction, focusing on AI-native learning for professionals seeking skill development.
+created: 2026-05-05
+last_update: 2026-06-13
 ---
-
-# Founder's Strategic Brief - Education Startup
-
 - **Date:** 2026-06-07 (Updated)
 - **Status:** Operating model decided — **Non-Profit**. Post-Research Phase, building toward first release.
 - **Research Base:** 55+ files, 30 competitor analyses, 3 market reports, technical feasibility study

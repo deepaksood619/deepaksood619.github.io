@@ -1,12 +1,10 @@
 ---
 slug: /decentralized-applications/crypto-future
 title: Crypto Future
-description: Explore the pros and cons of the crypto future, examining its potential
-  for huge gains alongside risks like volatility, speculation, and lack of regulation.
-created: '2023-07-23'
-last_update: '2024-02-05'
+description: Explore the pros and cons of the crypto future, examining its potential for huge gains alongside risks like volatility, speculation, and lack of regulation.
+created: 2023-07-23
+last_update: 2024-02-05
 ---
-
 ## Pros
 
 - Huge Upside

@@ -1,12 +1,10 @@
 ---
 slug: /ai/scikit-learn/others
 title: Others
-description: Explore various scikit-learn classifiers like KNN, SVM, and Logistic
-  Regression for effective classification tasks in data science.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore various scikit-learn classifiers like KNN, SVM, and Logistic Regression for effective classification tasks in data science.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 ## Some Classifiers in scikit-learn
 
 - K-nearest neighbors

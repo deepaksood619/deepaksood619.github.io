@@ -1,14 +1,10 @@
 ---
 slug: /technologies/apache-hadoop/readme
 title: Overview of Apache Hadoop Framework
-description: Explore Apache Hadoop, its components, and MapReduce examples for Big
-  Data processing and storage solutions.
-created: '2024-12-12'
-last_update: '2024-12-12'
+description: Explore Apache Hadoop, its components, and MapReduce examples for Big Data processing and storage solutions.
+created: 2024-12-12
+last_update: 2024-12-12
 ---
-
-# Apache Hadoop
-
 - [Apache Hadoop](technologies/apache-hadoop/about.md)
 - [Intro](technologies/apache-hadoop/intro.md)
 - [Big Data Hadoop Stack](technologies/apache-hadoop/big-data-hadoop-stack.md)

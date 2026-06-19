@@ -1,12 +1,10 @@
 ---
 slug: /databases-sql/mysql/percona-xtrabackup
 title: Percona XtraBackup
-description: Percona XtraBackup allows seamless hot backups for MySQL, incremental
-  backups, and easy replication without server load, ensuring data integrity and efficiency.
-created: '2024-05-26'
-last_update: '2025-06-10'
+description: Percona XtraBackup allows seamless hot backups for MySQL, incremental backups, and easy replication without server load, ensuring data integrity and efficiency.
+created: 2024-05-26
+last_update: 2025-06-10
 ---
-
 ## Features
 
 - Create hot InnoDB backups without pausing your database

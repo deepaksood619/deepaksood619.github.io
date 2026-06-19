@@ -1,12 +1,10 @@
 ---
 slug: /ai/deep-learning/diffusion-models
 title: Diffusion Models
-description: Discover diffusion models, a generative AI technique that creates new
-  data by adding and removing noise, reconstructing images and audio effectively.
-created: '2025-04-12'
-last_update: '2025-04-17'
+description: Discover diffusion models, a generative AI technique that creates new data by adding and removing noise, reconstructing images and audio effectively.
+created: 2025-04-12
+last_update: 2025-04-17
 ---
-
 Diffusion models are a type of generative AI that create new data, like images or audio, by gradually adding noise to existing data and then learning to reverse this process. They achieve this by training a neural network to predict and remove the added noise, effectively "denoising" the data to reconstruct or generate new content.
 
 ### Forward Diffusion Process

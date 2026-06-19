@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/applied-sciences/embedded-systems-electronics
 title: Embedded Systems / Electronics
-description: Explore the workings of Linear-Feedback Shift Registers (LFSR) in embedded
-  systems and electronics, essential for data encryption and error correction applications.
-created: '2023-03-05'
-last_update: '2025-09-15'
+description: Explore the workings of Linear-Feedback Shift Registers (LFSR) in embedded systems and electronics, essential for data encryption and error correction applications.
+created: 2023-03-05
+last_update: 2025-09-15
 ---
-
 ## Linear-feedback shift register (LSFR)
 
 In [computing](https://en.wikipedia.org/wiki/Computing), a linear-feedback shift register (LFSR) is a [shift register](https://en.wikipedia.org/wiki/Shift_register) whose input bit is a [linear function](https://en.wikipedia.org/wiki/Linear#Boolean_functions) of its previous state.

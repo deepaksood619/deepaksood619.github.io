@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/dynamic-programming/basic-gold-mines
 title: Dynamic Programming Approach to Basic Gold Mines
-description: Explore the basics of gold mines using dynamic programming for optimal
-  solutions in Python.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the basics of gold mines using dynamic programming for optimal solutions in Python.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Basic Gold Mines
-
 https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/gold-mines-10
 
 Used Dynamic Programming

@@ -1,12 +1,10 @@
 ---
 slug: /psychology/buying-guide-car
 title: Buying Guide Car
-description: Discover essential tips for buying a car, including tax savings, engine
-  specs, and considerations for choosing the right vehicle for your needs.
-created: '2026-01-10'
-last_update: '2026-01-10'
+description: Discover essential tips for buying a car, including tax savings, engine specs, and considerations for choosing the right vehicle for your needs.
+created: 2026-01-10
+last_update: 2026-01-10
 ---
-
 [How Employees Save 40% on Car using Tax Laws | Detailed Explanation by CA Sahil Jain - YouTube](https://www.youtube.com/watch?v=s4WRHfLckj8&ab_channel=TaxationwithCASahilJain)
 
 [Tax benefit on Car Loan Interest: Who Can Claim?  - The 1% News](https://news.onepercentclub.io/taxation/tax-benefit-on-car-loan-interest-who-can-claim/15196/)

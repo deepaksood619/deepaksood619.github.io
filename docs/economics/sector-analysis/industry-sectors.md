@@ -1,12 +1,10 @@
 ---
 slug: /economics/sector-analysis/industry-sectors
 title: Industry Sectors
-description: Explore diverse industry sectors, from manufacturing and healthcare to
-  e-commerce and tech startups, to understand market trends and opportunities.
-created: '2023-03-05'
-last_update: '2025-04-12'
+description: Explore diverse industry sectors, from manufacturing and healthcare to e-commerce and tech startups, to understand market trends and opportunities.
+created: 2023-03-05
+last_update: 2025-04-12
 ---
-
 ## Five Fusty Sectors
 
 - manufacturing, engineering and infrastructure

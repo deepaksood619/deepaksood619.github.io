@@ -1,13 +1,10 @@
 ---
 slug: /economics/glossary/investment-terms
 title: Investment Terms
-description: Explore key investment terms like annual, trailing, and rolling returns
-  to gauge performance consistency and understand the compounding effects on your
-  portfolio.
-created: '2023-03-05'
-last_update: '2026-06-09'
+description: Explore key investment terms like annual, trailing, and rolling returns to gauge performance consistency and understand the compounding effects on your portfolio.
+created: 2023-03-05
+last_update: 2026-06-09
 ---
-
 [Annual vs Trailing vs Rolling Returns Explained | ET Money](https://youtu.be/ncMwF6HQ92Y)
 
 ## Annual Returns

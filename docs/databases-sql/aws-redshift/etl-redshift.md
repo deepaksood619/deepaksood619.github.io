@@ -1,12 +1,10 @@
 ---
 slug: /databases-sql/aws-redshift/etl-redshift
 title: ETL in Redshift
-description: Discover how to efficiently use ETL in Redshift with AWS Data Pipeline
-  and RDS for seamless data integration and real-time synchronization.
-created: '2023-11-20'
-last_update: '2025-06-10'
+description: Discover how to efficiently use ETL in Redshift with AWS Data Pipeline and RDS for seamless data integration and real-time synchronization.
+created: 2023-11-20
+last_update: 2025-06-10
 ---
-
 ### AWS Data pipeline
 
 AWS data pipeline can integrate with all the available AWS services and provides templates with Redshift or S3 as a target. If you are imagining an ELT system, it would be worthwhile to use the Redshift target template directly so that the data is loaded directly to Redshift. That said, internally even this will use S3 as intermediate storage, but the end-user does not have to worry about that. One issue with AWS data pipeline is that it normally works in the batch mode as periodically scheduled jobs and this does not do a good job in case the data extraction needs to be in real-time or near-real-time.

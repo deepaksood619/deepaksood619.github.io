@@ -1,12 +1,10 @@
 ---
 slug: /ai/solutions
 title: Solutions
-description: Discover innovative AI solutions on Microsoft Learn, from document processing
-  to image and audio analytics, enhancing customer engagement and predictive insights.
-created: '2024-02-28'
-last_update: '2024-08-12'
+description: Discover innovative AI solutions on Microsoft Learn, from document processing to image and audio analytics, enhancing customer engagement and predictive insights.
+created: 2024-02-28
+last_update: 2024-08-12
 ---
-
 [Artificial intelligence (AI) architecture - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/)
 
 ### Explore ideas about

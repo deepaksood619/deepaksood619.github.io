@@ -1,13 +1,10 @@
 ---
 slug: /cloud/aws/analytics/differences-comparisons
 title: Differences / Comparisons
-description: Explore the key differences between Amazon Kinesis and Apache Kafka,
-  focusing on architecture, management, features, and use cases for real-time data
-  streaming.
-created: '2025-11-05'
-last_update: '2025-11-09'
+description: Explore the key differences between Amazon Kinesis and Apache Kafka, focusing on architecture, management, features, and use cases for real-time data streaming.
+created: 2025-11-05
+last_update: 2025-11-09
 ---
-
 ## Amazon Kinesis vs Apache Kafka
 
 Amazon Kinesis and Apache Kafka are both powerful platforms designed for handling real-time data streams, but they have different features, strengths, and use cases. Here’s a detailed comparison:

@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/databricks/readme
 title: Databricks Overview and Resources
-description: Explore comprehensive resources on Databricks, including guides on optimizations,
-  workflow, medallion architecture, and more.
-created: '2025-06-10'
-last_update: '2025-06-10'
+description: Explore comprehensive resources on Databricks, including guides on optimizations, workflow, medallion architecture, and more.
+created: 2025-06-10
+last_update: 2025-06-10
 ---
-
-# Databricks
-
 - [Databricks Intro](data-warehouses/databricks/01-databricks.md)
 - [Getting Started](data-warehouses/databricks/02-databricks-getting-started.md)
 - [Optimizations](data-warehouses/databricks/03-optimizations.md)

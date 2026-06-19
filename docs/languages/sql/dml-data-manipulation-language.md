@@ -1,12 +1,10 @@
 ---
 slug: /languages/sql/dml-data-manipulation-language
 title: DML - Data Manipulation Language
-description: Learn about Data Manipulation Language (DML) commands like INSERT, UPDATE,
-  and DELETE, essential for managing and modifying SQL database records efficiently.
-created: '2023-03-05'
-last_update: '2025-02-14'
+description: Learn about Data Manipulation Language (DML) commands like INSERT, UPDATE, and DELETE, essential for managing and modifying SQL database records efficiently.
+created: 2023-03-05
+last_update: 2025-02-14
 ---
-
 DML (Data Manipulation Language) commands [need to be](http://www.dba-oracle.com/t_dml_statements.htm) **commited/rolled back**
 
 ```sql

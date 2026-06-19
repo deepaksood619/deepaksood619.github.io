@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/snowflake/governance
 title: Snowflake Governance and Data Security
-description: Learn about Snowflake's governance features, including RBAC, privileges
-  management, and data masking for enhanced data security.
-created: '2024-01-05'
-last_update: '2025-06-10'
+description: Learn about Snowflake's governance features, including RBAC, privileges management, and data masking for enhanced data security.
+created: 2024-01-05
+last_update: 2025-06-10
 ---
-
-# Governance
-
 ## Data Security / governance
 
 ### Role-Based Access Control (RBAC)

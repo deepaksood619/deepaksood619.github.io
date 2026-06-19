@@ -1,12 +1,10 @@
 ---
 slug: /languages/golang/tools
 title: Tools
-description: Discover essential Go tools and frameworks for efficient dependency management,
-  fast logging, HTTP routing, and seamless application development.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Discover essential Go tools and frameworks for efficient dependency management, fast logging, HTTP routing, and seamless application development.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 ## dep
 
 Go dependency management tool

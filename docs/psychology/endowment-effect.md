@@ -1,12 +1,10 @@
 ---
 slug: /psychology/endowment-effect
 title: Endowment Effect
-description: Discover the Endowment Effect, where ownership skews perceived value,
-  impacting buying and selling decisions shaped by emotional pricing factors.
-created: '2026-05-27'
-last_update: '2026-05-29'
+description: Discover the Endowment Effect, where ownership skews perceived value, impacting buying and selling decisions shaped by emotional pricing factors.
+created: 2026-05-27
+last_update: 2026-05-29
 ---
-
 You tend to value more if you own the item, then if you have to buy that item
 
 Ex - If you own a rare pokemon card then you totally justify that it should be sold at $3000, but if you had to buy that card, you would think it's overpriced.

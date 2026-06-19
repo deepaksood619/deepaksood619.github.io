@@ -1,12 +1,10 @@
 ---
 slug: /education/competitors/india-edtech/preplaced-leeco-analysis
 title: Preplaced Leeco Analysis Overview
-description: Explore our analysis of Preplaced Education, focusing on the Leeco.ai
-  job search platform and its market positioning.
-created: '2026-05-30'
-last_update: '2026-06-08'
+description: Explore our analysis of Preplaced Education, focusing on the Leeco.ai job search platform and its market positioning.
+created: 2026-05-30
+last_update: 2026-06-08
 ---
-
 ## Company Overview
 
 - **Company Name:** Preplaced Education Private Limited

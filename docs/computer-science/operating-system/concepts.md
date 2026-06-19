@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/operating-system/concepts
 title: Understanding Processes and Management
-description: Explore the concept of processes in execution, including stack, heap,
-  text, and data sections essential for program management.
-created: '2023-03-05'
-last_update: '2024-08-23'
+description: Explore the concept of processes in execution, including stack, heap, text, and data sections essential for program management.
+created: 2023-03-05
+last_update: 2024-08-23
 ---
-
-# Concepts
-
 ## Processes and Process Management
 
 A process is basically a program in execution. The execution of a process must progress in a sequential fashion. To put it in simple terms, we write our computer programs in a text file, and when we execute this program, it becomes a process which performs all the tasks mentioned in the program.

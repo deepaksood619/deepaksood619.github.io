@@ -1,12 +1,10 @@
 ---
 slug: /technologies/readme
 title: Technologies
-description: Explore a comprehensive overview of essential technologies including
-  Git, Apache tools, Kafka, Flink, Elasticsearch, and more to enhance your projects.
-created: '2023-03-05'
-last_update: '2025-12-15'
+description: Explore a comprehensive overview of essential technologies including Git, Apache tools, Kafka, Flink, Elasticsearch, and more to enhance your projects.
+created: 2023-03-05
+last_update: 2025-12-15
 ---
-
 - [Git](git/readme.md)
 - [Apache](apache/readme.md)
 	- [Apache Airflow](technologies/apache-airflow/readme.md)

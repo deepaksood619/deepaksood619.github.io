@@ -1,13 +1,10 @@
 ---
 slug: /knowledge/applied-sciences/others-power-energy
 title: Others / Power / Energy
-description: Explore energy independence solutions, comparing solar in hot climates
-  to geothermal and solar in cold regions, plus insights on nuclear safety with core
-  catchers.
-created: '2023-03-05'
-last_update: '2026-06-07'
+description: Explore energy independence solutions, comparing solar in hot climates to geothermal and solar in cold regions, plus insights on nuclear safety with core catchers.
+created: 2023-03-05
+last_update: 2026-06-07
 ---
-
 ## Usage
 
 [Global Energy Use per Capita | Tableau Public](https://public.tableau.com/app/profile/serena.purslow/viz/MOM23Week33-GlobalEnergyUseperCapita/MOM23W33)

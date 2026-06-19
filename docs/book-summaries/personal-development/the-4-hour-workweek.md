@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/personal-development/the-4-hour-workweek
 title: The 4-Hour Workweek
-description: Discover how to maximize productivity, embrace remote work, and achieve
-  personal freedom with Tim Ferriss's "The 4-Hour Workweek" strategies.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover how to maximize productivity, embrace remote work, and achieve personal freedom with Tim Ferriss's "The 4-Hour Workweek" strategies.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Tim Ferriss
 
 - Aim high so you can create your own reality and write your own rules.

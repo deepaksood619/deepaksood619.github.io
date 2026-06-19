@@ -1,12 +1,10 @@
 ---
 slug: /management/customer-engagement-cx
 title: Customer Engagement / CX
-description: Enhance customer engagement and experience (CX) by optimizing every touchpoint
-  to build stronger relationships and address payment-related anxieties effectively.
-created: '2023-03-05'
-last_update: '2025-07-17'
+description: Enhance customer engagement and experience (CX) by optimizing every touchpoint to build stronger relationships and address payment-related anxieties effectively.
+created: 2023-03-05
+last_update: 2025-07-17
 ---
-
 When it comes to payments and finances, customers are anxious and impatient when they encounter issues.
 
 ## CX (Customer Experience)

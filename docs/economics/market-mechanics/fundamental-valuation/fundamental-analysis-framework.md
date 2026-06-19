@@ -1,12 +1,10 @@
 ---
 slug: /economics/market-mechanics/fundamental-valuation/fundamental-analysis-framework
 title: Fundamental Analysis
-description: Explore the essentials of Fundamental Analysis, including investor mindset,
-  annual reports, and key financial statements for informed stock evaluation.
-created: '2024-06-29'
-last_update: '2026-06-09'
+description: Explore the essentials of Fundamental Analysis, including investor mindset, annual reports, and key financial statements for informed stock evaluation.
+created: 2024-06-29
+last_update: 2026-06-09
 ---
-
 ### [1. Introduction to Fundamental Analysis](https://zerodha.com/varsity/chapter/introduction-fundamental-analysis/)
 
 The chapter lays a foundation to Fundamental Analysis, which is a holistic approach to study and analyze a business.

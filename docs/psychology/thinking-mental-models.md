@@ -1,12 +1,10 @@
 ---
 slug: /psychology/thinking-mental-models
 title: Thinking Mental Models
-description: Discover effective mental models like inversion, structured thinking,
-  and probabilistic thinking to enhance problem-solving and decision-making skills.
-created: '2023-03-05'
-last_update: '2026-06-18'
+description: Discover effective mental models like inversion, structured thinking, and probabilistic thinking to enhance problem-solving and decision-making skills.
+created: 2023-03-05
+last_update: 2026-06-18
 ---
-
 - [The Scientific Method](https://en.wikipedia.org/wiki/Scientific_method)
 - **[Inversion](https://jamesclear.com/inversion) / Reframing**
 - Surfing or "Riding the Wave"

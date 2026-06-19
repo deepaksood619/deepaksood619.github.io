@@ -1,14 +1,10 @@
 ---
 slug: /devops/devops-intro/load-balancer-features
 title: Key Load Balancer Features
-description: Explore essential load balancer features, including service discovery
-  methods and patterns for improved backend management.
-created: '2024-01-19'
-last_update: '2024-12-19'
+description: Explore essential load balancer features, including service discovery methods and patterns for improved backend management.
+created: 2024-01-19
+last_update: 2024-12-19
 ---
-
-# Load Balancer Features
-
 ## Service discovery
 
 Service discovery is the process by which a load balancer determines the set of available backends. The methods are quite varied and some examples include:

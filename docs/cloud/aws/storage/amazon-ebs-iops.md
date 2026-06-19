@@ -1,12 +1,10 @@
 ---
 slug: /cloud/aws/storage/amazon-ebs-iops
 title: Amazon EBS IOPS
-description: Discover how Amazon EBS IOPS works, including operation calculations
-  and limits, to optimize your cloud storage performance effectively.
-created: '2024-04-24'
-last_update: '2025-11-05'
+description: Discover how Amazon EBS IOPS works, including operation calculations and limits, to optimize your cloud storage performance effectively.
+created: 2024-04-24
+last_update: 2025-11-05
 ---
-
 [What You Need to Know About IOPS](https://cloudcasts.io/article/what-you-need-to-know-about-iops)
 
 **IOPS are Input / Output Operations per Second.**

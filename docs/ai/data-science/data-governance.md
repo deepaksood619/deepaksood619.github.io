@@ -1,12 +1,10 @@
 ---
 slug: /ai/data-science/data-governance
 title: Data Governance
-description: Discover the importance of data governance for managing data integrity,
-  security, and compliance with regulations while ensuring trust and effective decision-making.
-created: '2024-02-28'
-last_update: '2026-03-27'
+description: Discover the importance of data governance for managing data integrity, security, and compliance with regulations while ensuring trust and effective decision-making.
+created: 2024-02-28
+last_update: 2026-03-27
 ---
-
 Data governance (DG) is the process of managing the availability, usability, integrity and security of the [data](https://searchdatamanagement.techtarget.com/definition/data) in enterprise systems, based on internal data standards and policies that also control data usage. Effective data governance ensures that data is consistent and trustworthy and doesn't get misused. It's increasingly critical as organizations face new data privacy regulations and rely more and more on data analytics to help optimize operations and drive business decision-making.
 
 Ethical Principles around Data

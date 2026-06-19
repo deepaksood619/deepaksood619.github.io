@@ -1,12 +1,10 @@
 ---
 slug: /education/competitors/khanmigo-failure-analysis
 title: Khanmigo Failure Analysis Report
-description: Explore the reasons behind Khanmigo's failure in education and insights
-  on aligning AI with effective learning methods.
-created: '2026-05-30'
-last_update: '2026-06-08'
+description: Explore the reasons behind Khanmigo's failure in education and insights on aligning AI with effective learning methods.
+created: 2026-05-30
+last_update: 2026-06-08
 ---
-
 ## Why Khanmigo Failed - A Post-Mortem Analysis
 
 **TL;DR:** Khan Academy's AI tutor Khanmigo, launched in March 2023 via partnership with OpenAI, failed to revolutionize education despite significant technical achievement. The failure stemmed from misaligned user incentives, technical limitations, wrong target user focus, and the fundamental insight that **"learning still happens through practice, with teachers at the center"** - not through AI tutoring alone.

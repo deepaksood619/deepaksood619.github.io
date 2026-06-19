@@ -1,12 +1,10 @@
 ---
 slug: /databases-sql/aws-redshift/readme
 title: Redshift
-description: Discover Amazon Redshift's architecture, ETL processes, workload management,
-  pricing, and best practices for optimized data warehousing and query performance.
-created: '2025-06-10'
-last_update: '2026-06-12'
+description: Discover Amazon Redshift's architecture, ETL processes, workload management, pricing, and best practices for optimized data warehousing and query performance.
+created: 2025-06-10
+last_update: 2026-06-12
 ---
-
 - [Amazon Redshift](databases-sql/aws-redshift/intro.md)
 - [Architecture](databases-sql/aws-redshift/architecture.md)
 - [Documentation](databases-sql/aws-redshift/documentation.md)

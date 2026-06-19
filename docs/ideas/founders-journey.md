@@ -1,13 +1,10 @@
 ---
 slug: /ideas/founders-journey
 title: Founders Journey
-description: Discover how successful entrepreneurs like Steve Wozniak and Larry Page
-  started their companies while maintaining day jobs, proving the myth of "going all
-  in" is not the only path to success.
-created: '2025-09-25'
-last_update: '2026-05-01'
+description: Discover how successful entrepreneurs like Steve Wozniak and Larry Page started their companies while maintaining day jobs, proving the myth of "going all in" is not the only path to success.
+created: 2025-09-25
+last_update: 2026-05-01
 ---
-
 ## People who have started companies without leaving their jobs
 
 People who hedged their bets by starting companies while still working a day job. It’s more common than people think. The archetype of “quit everything, burn the boats, and go all in” is more myth than rule. Here are some well-known examples:

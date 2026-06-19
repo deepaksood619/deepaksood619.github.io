@@ -1,14 +1,10 @@
 ---
 slug: /devops/terminal-bash/tools/rsync-rclone
 title: Efficient File Transfer with Rsync and Rclone
-description: Discover how Rsync and Rclone streamline file transfers and synchronization
-  across systems, minimizing network usage effectively.
-created: '2023-03-05'
-last_update: '2024-10-08'
+description: Discover how Rsync and Rclone streamline file transfers and synchronization across systems, minimizing network usage effectively.
+created: 2023-03-05
+last_update: 2024-10-08
 ---
-
-# rsync / rclone
-
 ## Rsync Algorithm
 
 Used for reducing the cost of a file transfer by avoiding the transfer of blocks that are already at the destination.

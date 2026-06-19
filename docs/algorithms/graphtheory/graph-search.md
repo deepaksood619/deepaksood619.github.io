@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/graphtheory/graph-search
 title: Understanding Graph Search Algorithms
-description: Explore popular graph search algorithms like A*, Dijkstra's, and Greedy
-  Best First Search for efficient pathfinding in games.
-created: '2023-03-05'
-last_update: '2023-08-21'
+description: Explore popular graph search algorithms like A*, Dijkstra's, and Greedy Best First Search for efficient pathfinding in games.
+created: 2023-03-05
+last_update: 2023-08-21
 ---
-
-# Graph Search
-
 Graph search algorithms like A* are often used to find the shortest path from one point to another point. You can use this for each enemy to find a path to the goal. There are lots of different graph search algorithms we could use in this type of game. These are the classics:
 
 ### One source, one destination

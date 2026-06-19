@@ -1,12 +1,10 @@
 ---
 slug: /languages/frameworks/intro
 title: Intro
-description: Explore various web frameworks for server-side and frontend development,
-  including MVC and MVT patterns, to streamline your web application projects.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore various web frameworks for server-side and frontend development, including MVC and MVT patterns, to streamline your web application projects.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 ## Web Framework
 
 Web Application Framework or simply Web Framework represents a collection of libraries and modules that enables a web application developer to write applications without having to bother about low-level details such as protocols, thread management etc.

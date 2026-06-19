@@ -1,12 +1,10 @@
 ---
 slug: /computer-science/readme
 title: Computer Science
-description: Explore computer science with resources on software development, operating
-  systems, programming concepts, system design, security, and interview preparation.
-created: '2023-03-05'
-last_update: '2026-01-21'
+description: Explore computer science with resources on software development, operating systems, programming concepts, system design, security, and interview preparation.
+created: 2023-03-05
+last_update: 2026-01-21
 ---
-
 - [General](general/readme.md)
 - [Software / Coding / Development / Engineering](software-engineering/readme.md)
 - [Operating System](operating-system/readme.md)

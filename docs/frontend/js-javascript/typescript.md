@@ -1,14 +1,10 @@
 ---
 slug: /frontend/js-javascript/typescript
 title: Understanding TypeScript Features
-description: Explore TypeScript, a superset of JavaScript that offers static typing,
-  advanced tooling, and modern language features for efficient coding.
-created: '2023-03-05'
-last_update: '2026-01-10'
+description: Explore TypeScript, a superset of JavaScript that offers static typing, advanced tooling, and modern language features for efficient coding.
+created: 2023-03-05
+last_update: 2026-01-10
 ---
-
-# TypeScript
-
 TypeScript is an open source syntactic superset of javascript that compiles to JS. Allows to use optional static typing as well as support for the latest evolving features of ES2015.
 
 TypeScript offers type annotations which provide optional, static type checking at compile time. Since it is a superset of JavaScript, all JavaScript is syntactically valid TypeScript.

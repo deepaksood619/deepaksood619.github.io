@@ -1,13 +1,10 @@
 ---
 slug: /knowledge/other-topics/indias-ethanol-policy-corruption-and-collusion
-title: 'India''s Ethanol Policy: Corruption and Collusion?'
-description: Explore the complexities of India's ethanol policy, uncovering issues
-  of corruption, collusion, and its impact on the country's energy transition and
-  environment.
-created: '2026-06-07'
-last_update: '2026-06-07'
+title: "India's Ethanol Policy: Corruption and Collusion?"
+description: Explore the complexities of India's ethanol policy, uncovering issues of corruption, collusion, and its impact on the country's energy transition and environment.
+created: 2026-06-07
+last_update: 2026-06-07
 ---
-
 **India's Multi-Pathway Energy Transition: Analyzing the Strategic, Economic, and Political-Economy Drivers of the Ethanol Alternative**
 
 ## Introduction and Macroeconomic Context

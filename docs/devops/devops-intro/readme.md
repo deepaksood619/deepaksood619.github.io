@@ -1,14 +1,10 @@
 ---
 slug: /devops/devops-intro/readme
 title: Comprehensive Guide to DevOps Practices
-description: Explore essential DevOps concepts, tools, and strategies to streamline
-  software development and enhance system reliability.
-created: '2023-03-05'
-last_update: '2024-07-15'
+description: Explore essential DevOps concepts, tools, and strategies to streamline software development and enhance system reliability.
+created: 2023-03-05
+last_update: 2024-07-15
 ---
-
-# DevOps
-
 - [Intro](devops/devops-intro/intro.md)
 - [Concepts](devops/devops-intro/concepts.md)
 - [GitOps](devops/devops-intro/gitops.md)

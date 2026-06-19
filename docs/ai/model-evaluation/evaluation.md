@@ -1,12 +1,10 @@
 ---
 slug: /ai/model-evaluation/evaluation
 title: Evaluation
-description: Explore evaluation techniques in machine learning, focusing on generalization,
-  overfitting, validation sets, and metrics for assessing model performance.
-created: '2023-03-05'
-last_update: '2026-03-31'
+description: Explore evaluation techniques in machine learning, focusing on generalization, overfitting, validation sets, and metrics for assessing model performance.
+created: 2023-03-05
+last_update: 2026-03-31
 ---
-
 - Generalization and overfitting
 - Overfitting in decision trees
 - Validation set

@@ -1,14 +1,10 @@
 ---
 slug: /devops/devops-intro/platform-engineering
 title: Understanding Platform Engineering
-description: Explore platform engineering's role in creating internal developer platforms
-  for streamlined software development and self-service capabilities.
-created: '2024-07-15'
-last_update: '2025-04-24'
+description: Explore platform engineering's role in creating internal developer platforms for streamlined software development and self-service capabilities.
+created: 2024-07-15
+last_update: 2025-04-24
 ---
-
-# Platform Engineering
-
 Platform engineering is the discipline of designing and building toolchains and workflows that enable self-service capabilities for software engineering organizations in the cloud-native era. Platform engineers provide an integrated product most often referred to as an "Internal Developer Platform" covering the operational necessities of the entire lifecycle of an application. An [Internal Developer Platform (IDP)](https://internaldeveloperplatform.org/) encompasses a variety of technologies and tools, integrated in a manner that reduces cognitive load on developers while retaining essential context and underlying technologies. It helps operations structure their setup and enable developer self-service. Platform engineering done right means providing golden paths and paved roads that match the preferred abstraction level of the individual developer, who interacts with the IDP.
 
 ## What is an internal developer platform?

@@ -1,13 +1,10 @@
 ---
 slug: /economics/taxation/taxation-foreign-residency
 title: Taxation - Foreign Residency
-description: Explore effective strategies for minimizing taxes through foreign residency
-  and jurisdictional arbitrage for savvy investors looking to optimize their capital
-  gains.
-created: '2026-01-21'
-last_update: '2026-02-27'
+description: Explore effective strategies for minimizing taxes through foreign residency and jurisdictional arbitrage for savvy investors looking to optimize their capital gains.
+created: 2026-01-21
+last_update: 2026-02-27
 ---
-
 ## Tired of taxes?
 
 - **Low cost option:** open a brokerage account on global equities. Do not book any capital gains. When the account goes big, change your tax residency. And, book profits.

@@ -1,12 +1,10 @@
 ---
 slug: /databases-sql/memsql/intro
 title: Intro
-description: Discover MemSQL, the distributed in-memory relational database that excels
-  in both transactional and analytical workloads with multi-version concurrency control.
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Discover MemSQL, the distributed in-memory relational database that excels in both transactional and analytical workloads with multi-version concurrency control.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
 MemSQL is a distributed in-memory relational database designed for both transactional and analytical workloads.
 
 ## History

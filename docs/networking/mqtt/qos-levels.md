@@ -1,14 +1,10 @@
 ---
 slug: /networking/mqtt/qos-levels
 title: Understanding QoS Levels
-description: Explore the different QoS levels and their significance in message delivery
-  guarantees between senders and receivers.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the different QoS levels and their significance in message delivery guarantees between senders and receivers.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# QoS Levels
-
 ## What is Quality of Service?
 
 The Quality of Service(QoS) level is an agreement between the sender of a message and the receiver of a message that defines the guarantee of delivery for a specific message.

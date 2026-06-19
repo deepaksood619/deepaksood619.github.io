@@ -1,12 +1,10 @@
 ---
 slug: /databases-nosql/mongodb/questions
 title: Questions
-description: Explore essential MongoDB questions covering opslog, backups, replica
-  sets, user roles, sharding, and query optimization for effective database management.
-created: '2024-01-15'
-last_update: '2025-08-09'
+description: Explore essential MongoDB questions covering opslog, backups, replica sets, user roles, sharding, and query optimization for effective database management.
+created: 2024-01-15
+last_update: 2025-08-09
 ---
-
 - what is opslog in mongodb, location of opslog in mongodb
 - what is mongodump and if we take backup through mongodump so it will take backup of all the databases or particular databases
 - how do you create replicaset performance matrix in mongodb

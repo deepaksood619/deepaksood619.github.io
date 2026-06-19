@@ -1,12 +1,10 @@
 ---
 slug: /economics/company-analysis/companies/energy/reliance-industries-fundamental
 title: Reliance Industries Fundamental Analysis
-description: Discover Reliance Industries' investment potential with a fundamental
-  score of 7.8/10 and a medium-term buy recommendation.
-created: '2026-06-03'
-last_update: '2026-06-09'
+description: Discover Reliance Industries' investment potential with a fundamental score of 7.8/10 and a medium-term buy recommendation.
+created: 2026-06-03
+last_update: 2026-06-09
 ---
-
 - **Analysis Date:** June 3, 2026
 - **Exchange:** NSE/BSE
 - **Sector:** Oil & Gas / Conglomerate (Diversified across O2C, Retail, Digital Services, New Energy)

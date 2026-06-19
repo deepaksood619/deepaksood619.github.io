@@ -1,14 +1,10 @@
 ---
 slug: /about-deepak-sood/projects/88-stashfin-security-iam-apis
 title: Stashfin Security and IAM APIs
-description: Explore Stashfin's robust security protocols, IAM practices, and API
-  management to ensure safe and reliable operations.
-created: '2023-12-01'
-last_update: '2024-12-19'
+description: Explore Stashfin's robust security protocols, IAM practices, and API management to ensure safe and reliable operations.
+created: 2023-12-01
+last_update: 2024-12-19
 ---
-
-# Stashfin Security / IAM / APIs
-
 ## Security
 
 ### External + processes

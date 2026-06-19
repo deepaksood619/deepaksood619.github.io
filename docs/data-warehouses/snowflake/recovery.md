@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/snowflake/recovery
 title: Data Recovery with Time Travel
-description: Learn how to leverage Snowflake's Time Travel for efficient data recovery
-  and historical data analysis.
-created: '2024-01-05'
-last_update: '2025-06-10'
+description: Learn how to leverage Snowflake's Time Travel for efficient data recovery and historical data analysis.
+created: 2024-01-05
+last_update: 2025-06-10
 ---
-
-# Recovery
-
 ## Time Travel
 
 - Time Travel in Snowflake allows you to access historical versions of your data at specific points in time. It provides the ability to query and recover data as it existed in the past.

@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/software-engineering/coding-guidelines-code-reviews-clean-code
 title: Essential Coding Guidelines and Reviews
-description: Explore vital coding guidelines and effective code review practices to
-  enhance code quality and maintain clean, efficient code.
-created: '2023-03-05'
-last_update: '2026-04-13'
+description: Explore vital coding guidelines and effective code review practices to enhance code quality and maintain clean, efficient code.
+created: 2023-03-05
+last_update: 2026-04-13
 ---
-
-# Coding Guidelines / Code Reviews / Clean Code
-
 ![10 Good Coding Principles](../../media/Pasted%20image%2020240207000423.jpg)
 
 Code reviews are fundamental to the software development process, even when there's only one engineer.

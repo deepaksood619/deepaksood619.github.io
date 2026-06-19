@@ -1,12 +1,10 @@
 ---
 slug: /databases-sql/aws-redshift/wlm-qmr
 title: Workload management (WLM) and query monitoring rules (QMR)
-description: Optimize your database performance with Workload Management (WLM) and
-  Query Monitoring Rules (QMR) for prioritizing queries and managing resources effectively.
-created: '2023-11-20'
-last_update: '2025-06-10'
+description: Optimize your database performance with Workload Management (WLM) and Query Monitoring Rules (QMR) for prioritizing queries and managing resources effectively.
+created: 2023-11-20
+last_update: 2025-06-10
 ---
-
 ## Workload management (WLM)
 
 Allows for the separation of different query workloads

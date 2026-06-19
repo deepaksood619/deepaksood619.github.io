@@ -1,12 +1,10 @@
 ---
 slug: /courses/udemy-becoming-a-production-mysql-dba
 title: Udemy - Becoming a Production MySQL DBA
-description: Master MySQL database administration with Udemy's course, covering installation,
-  security, configuration, remote access, and upgrades for real-world applications.
-created: '2024-06-11'
-last_update: '2024-06-20'
+description: Master MySQL database administration with Udemy's course, covering installation, security, configuration, remote access, and upgrades for real-world applications.
+created: 2024-06-11
+last_update: 2024-06-20
 ---
-
 [Becoming a Production MySQL DBA](https://www.udemy.com/course/becoming-a-production-mysql-dba/)
 
 ## What you'll learn

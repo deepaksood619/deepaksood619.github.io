@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/psychology/the-art-of-logic
 title: The Art of Logic
-description: Discover the importance of logic in articulating beliefs and exploring
-  truth with Eugenia Cheng's insightful guide to reasoning and clarity.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover the importance of logic in articulating beliefs and exploring truth with Eugenia Cheng's insightful guide to reasoning and clarity.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Eugenia Cheng
 
 How to Make Sense in a World that Doesn't

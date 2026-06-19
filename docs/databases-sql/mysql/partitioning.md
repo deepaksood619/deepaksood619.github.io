@@ -1,12 +1,10 @@
 ---
 slug: /databases-sql/mysql/partitioning
 title: Partitioning
-description: Explore MySQL partitioning techniques including RANGE, LIST, COLUMNS,
-  HASH, and KEY to optimize your database performance and management.
-created: '2024-06-07'
-last_update: '2026-03-27'
+description: Explore MySQL partitioning techniques including RANGE, LIST, COLUMNS, HASH, and KEY to optimize your database performance and management.
+created: 2024-06-07
+last_update: 2026-03-27
 ---
-
 - [26 Partitioning](https://dev.mysql.com/doc/refman/8.4/en/partitioning.html)
 - [26.1 Overview of Partitioning in MySQL](https://dev.mysql.com/doc/refman/8.4/en/partitioning-overview.html)
 - [26.2 Partitioning Types](https://dev.mysql.com/doc/refman/8.4/en/partitioning-types.html)

@@ -1,14 +1,10 @@
 ---
 slug: /networking/networking-concepts/forward-error-correction
 title: Understanding Forward Error Correction
-description: Learn about Forward Error Correction, parity bits, and their role in
-  error detection and correction in digital communication.
-created: '2023-03-05'
-last_update: '2024-02-26'
+description: Learn about Forward Error Correction, parity bits, and their role in error detection and correction in digital communication.
+created: 2023-03-05
+last_update: 2024-02-26
 ---
-
-# Forward Error Correction
-
 ## Error Detection and Correction Codes
 
 ## Parity Bit

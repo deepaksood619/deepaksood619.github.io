@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/other-topics/chemistry-outline
 title: Chemistry
-description: Explore the diverse fields of chemistry, from biochemistry and agrochemistry
-  to analytical and atmospheric chemistry, unlocking the secrets of matter and reactions.
-created: '2023-03-05'
-last_update: '2025-06-09'
+description: Explore the diverse fields of chemistry, from biochemistry and agrochemistry to analytical and atmospheric chemistry, unlocking the secrets of matter and reactions.
+created: 2023-03-05
+last_update: 2025-06-09
 ---
-
 - [Agrochemistry](https://en.wikipedia.org/wiki/Agrochemistry)
 - [Analytical chemistry](https://en.wikipedia.org/wiki/Analytical_chemistry)
 - [Astrochemistry](https://en.wikipedia.org/wiki/Astrochemistry)

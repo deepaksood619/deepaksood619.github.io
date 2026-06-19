@@ -1,12 +1,10 @@
 ---
 slug: /cloud/aws/ai/sagemaker
 title: Amazon Sagemaker
-description: Discover Amazon SageMaker, a fully managed service that simplifies building,
-  training, and deploying machine learning models for developers and data scientists.
-created: '2023-03-05'
-last_update: '2026-03-27'
+description: Discover Amazon SageMaker, a fully managed service that simplifies building, training, and deploying machine learning models for developers and data scientists.
+created: 2023-03-05
+last_update: 2026-03-27
 ---
-
 - [sagemaker-unified-studio](cloud/aws/ai/sagemaker-unified-studio.md)
 - [sagemaker-lakehouse](cloud/aws/ai/sagemaker-lakehouse.md)
 

@@ -1,12 +1,10 @@
 ---
 slug: /languages/java/knowledge
 title: Knowledge
-description: Explore the relationship between parent and child classes in Java, including
-  typecasting limitations and references in object-oriented programming.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Explore the relationship between parent and child classes in Java, including typecasting limitations and references in object-oriented programming.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
 - Parent class can hold child class reference but not vice-versa
 
 ```java

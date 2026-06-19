@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/law/constitution-of-india/others
 title: Others
-description: Discover the diverse influences on the Constitution of India, showcasing
-  its borrowed features from Ireland and the UK that shape its unique legal framework.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Discover the diverse influences on the Constitution of India, showcasing its borrowed features from Ireland and the UK that shape its unique legal framework.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 ## 9 Dec 1946 - Started writing
 
 ## 26 Nov 1949 - Adoption

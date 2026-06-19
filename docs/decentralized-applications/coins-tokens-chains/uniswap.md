@@ -1,12 +1,10 @@
 ---
 slug: /decentralized-applications/coins-tokens-chains/uniswap
 title: Uniswap
-description: Explore Uniswap, the leading decentralized exchange, and learn about
-  its features, the UNI token, and automated market makers in our informative resources.
-created: '2023-06-23'
-last_update: '2026-03-27'
+description: Explore Uniswap, the leading decentralized exchange, and learn about its features, the UNI token, and automated market makers in our informative resources.
+created: 2023-06-23
+last_update: 2026-03-27
 ---
-
 [A Short Story of UNISWAP and UNI Token. DEFI Explained - YouTube](https://www.youtube.com/watch?v=LpjMgS4OVzs&ab_channel=Finematics)
 
 [Uniswap Exchange Review 2023: Is it safe to use?](https://milkroad.com/reviews/uniswap)

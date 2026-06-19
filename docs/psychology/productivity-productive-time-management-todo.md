@@ -1,12 +1,10 @@
 ---
 slug: /psychology/productivity-productive-time-management-todo
 title: Productivity / Productive / Time Management / TODO
-description: Boost your productivity and time management skills with effective strategies
-  and insights to prioritize tasks and enhance focus for better results.
-created: '2023-03-05'
-last_update: '2026-06-18'
+description: Boost your productivity and time management skills with effective strategies and insights to prioritize tasks and enhance focus for better results.
+created: 2023-03-05
+last_update: 2026-06-18
 ---
-
 Productivity isn't everything, but, in the long run, it is almost everything -- Economist Paul Krugman, in The Age of Diminished Expectations
 
 The most invisible form of wasted time is doing a good job on an unimportant task.

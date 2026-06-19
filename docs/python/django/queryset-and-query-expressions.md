@@ -1,14 +1,10 @@
 ---
 slug: /python/django/queryset-and-query-expressions
 title: Understanding QuerySets and Query Expressions
-description: Learn about QuerySets and query expressions, their evaluation methods,
-  and how to manipulate data in Django effectively.
-created: '2023-03-05'
-last_update: '2024-11-21'
+description: Learn about QuerySets and query expressions, their evaluation methods, and how to manipulate data in Django effectively.
+created: 2023-03-05
+last_update: 2024-11-21
 ---
-
-# QuerySet & Query Expressions
-
 A QuerySet is, in essence, a list of objects of a given Model. QuerySets allow you to read the data from the database, filter it and order it. Internally, a **QuerySet** can be constructed, filtered, sliced, and generally passed around without actually hitting the database. No database activity actually occurs until you do something to evaluate the queryset.
 
 ## When QuerySets are Evaluated

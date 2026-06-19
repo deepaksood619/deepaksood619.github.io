@@ -1,12 +1,10 @@
 ---
 slug: /economics/investment-products/equity-funds/nifty-indexes-indices
 title: Nifty Indexes / Indices
-description: Discover comprehensive insights into Nifty Indexes and Indices, covering
-  broad-based, sectoral, thematic, and strategy indices for informed investing.
-created: '2024-06-11'
-last_update: '2026-06-09'
+description: Discover comprehensive insights into Nifty Indexes and Indices, covering broad-based, sectoral, thematic, and strategy indices for informed investing.
+created: 2024-06-11
+last_update: 2026-06-09
 ---
-
 ![Sensex then versus now](../../../media/Pasted%20image%2020241006231135.jpg)
 
 ![Most profitable companies - nifty50](../../../media/Screenshot%202025-09-28%20at%202.50.36%20PM.jpg)

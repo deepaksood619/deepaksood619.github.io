@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/dynamic-programming/intro
 title: Understanding Dynamic Programming Basics
-description: Learn how Dynamic Programming optimizes recursion by storing results
-  of subproblems, reducing time complexity from exponential to polynomial.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Learn how Dynamic Programming optimizes recursion by storing results of subproblems, reducing time complexity from exponential to polynomial.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Intro
-
 Dynamic Programming is an algorithmic paradigm that solves a given complex problem by breaking it into subproblems and stores the results of subproblems to avoid computing the same results again.
 
 The idea is very simple, If you have solved a problem with the given input, then save the result for future reference, so as to avoid solving the same problem again. shortly **'Remember your Past'**

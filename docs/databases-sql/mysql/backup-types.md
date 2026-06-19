@@ -1,12 +1,10 @@
 ---
 slug: /databases-sql/mysql/backup-types
 title: Backup Types
-description: Discover the differences between physical and logical backups to choose
-  the best option for efficiently protecting and restoring your database data.
-created: '2024-05-26'
-last_update: '2025-06-10'
+description: Discover the differences between physical and logical backups to choose the best option for efficiently protecting and restoring your database data.
+created: 2024-05-26
+last_update: 2025-06-10
 ---
-
 ## Physical (Raw) Versus Logical Backups
 
 Physical backups consist of raw copies of the directories and files that store database contents. This type of backup is suitable for large, important databases that need to be recovered quickly when problems occur.

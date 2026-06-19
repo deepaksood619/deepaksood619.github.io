@@ -1,14 +1,10 @@
 ---
 slug: /devops/ides/jupyter-jupyterlab-notebook/readme
 title: Introduction to Jupyter Notebooks
-description: Learn the basics of Jupyter and JupyterLab, including components, commands,
-  and how to run a Django shell in a notebook.
-created: '2023-03-05'
-last_update: '2026-04-28'
+description: Learn the basics of Jupyter and JupyterLab, including components, commands, and how to run a Django shell in a notebook.
+created: 2023-03-05
+last_update: 2026-04-28
 ---
-
-# Jupyter / Jupyterlab / notebook
-
 ## Overview
 
 "Jupyter" is a loose acronym meaning Julia, Python, and R.

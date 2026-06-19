@@ -1,12 +1,10 @@
 ---
 slug: /ai/llm/fundamentals/ethics
 title: Ethics
-description: Explore key ethical dilemmas in generative AI, focusing on data privacy,
-  bias mitigation, transparency, and accountability in research and education.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Explore key ethical dilemmas in generative AI, focusing on data privacy, bias mitigation, transparency, and accountability in research and education.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 Presentation - [Ethics in GenAI](https://docs.google.com/presentation/d/1R-o8VoK926GisNSoHL6c2t52cOYUWyLjRyqtpC7-ecw/edit?usp=sharing)
 
 Navigating ethical dilemmas in AI and ML research and education within the field of generative AI requires a focused approach on issues like data privacy, bias mitigation, transparency, accountability, and addressing potential misuse, ensuring that these technologies are developed and used responsibly, especially in educational settings where student learning is impacted.

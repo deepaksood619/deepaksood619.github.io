@@ -1,13 +1,10 @@
 ---
 slug: /ai/nlp/nltk
 title: NLTK
-description: Discover NLTK, the powerful open-source Python toolkit for Natural Language
-  Processing, featuring essential tools for classification, tokenization, and semantic
-  reasoning.
-created: '2023-03-05'
-last_update: '2025-12-16'
+description: Discover NLTK, the powerful open-source Python toolkit for Natural Language Processing, featuring essential tools for classification, tokenization, and semantic reasoning.
+created: 2023-03-05
+last_update: 2025-12-16
 ---
-
 NLTK -- the Natural Language Toolkit -- is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing.
 
 NLTK supports classification, tokenization, stemming **(lemmatization better than stemming)**, tagging, parsing, and semantic reasoning functionalities.

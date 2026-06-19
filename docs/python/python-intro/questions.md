@@ -1,14 +1,10 @@
 ---
 slug: /python/python-intro/questions
 title: Understanding Python Methods and Variables
-description: Discover the differences between __str__ and __repr__ methods and learn
-  about Python variable references in this insightful guide.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Discover the differences between __str__ and __repr__ methods and learn about Python variable references in this insightful guide.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Questions
-
 ## What is the difference between the__str__and__repr__methods of a Python object
 
 In short__repr__goal is to be unambigous and__str__is to be readable.

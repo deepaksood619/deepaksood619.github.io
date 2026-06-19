@@ -1,12 +1,10 @@
 ---
 slug: /databases-sql/mysql/backup-comparisons
 title: Backup Comparisons
-description: Discover how Percona XtraBackup offers hot, incremental backups with
-  compression and encryption, ensuring minimal downtime and scalable database performance.
-created: '2024-05-26'
-last_update: '2025-06-10'
+description: Discover how Percona XtraBackup offers hot, incremental backups with compression and encryption, ensuring minimal downtime and scalable database performance.
+created: 2024-05-26
+last_update: 2025-06-10
 ---
-
 ### Percona XtraBackup
 
 #### Key Features

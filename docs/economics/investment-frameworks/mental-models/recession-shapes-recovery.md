@@ -1,12 +1,10 @@
 ---
 slug: /economics/investment-frameworks/mental-models/recession-shapes-recovery
 title: Recession shapes (Recovery types)
-description: Explore the different shapes of recessions and their recovery types,
-  including V, U, W, L, and K-shaped recoveries, to understand economic impacts.
-created: '2023-03-05'
-last_update: '2026-06-09'
+description: Explore the different shapes of recessions and their recovery types, including V, U, W, L, and K-shaped recoveries, to understand economic impacts.
+created: 2023-03-05
+last_update: 2026-06-09
 ---
-
 ![image](../../../media/Mental-Models-image3-recession.jpg)
 
 ## V-shaped recession

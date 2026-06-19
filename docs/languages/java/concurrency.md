@@ -1,12 +1,10 @@
 ---
 slug: /languages/java/concurrency
 title: Concurrency
-description: Explore concurrency, concurrent modification, and fail-fast iterators
-  to understand how structural changes in collections can lead to exceptions.
-created: '2023-03-05'
-last_update: '2025-06-14'
+description: Explore concurrency, concurrent modification, and fail-fast iterators to understand how structural changes in collections can lead to exceptions.
+created: 2023-03-05
+last_update: 2025-06-14
 ---
-
 ## Concurrent Modification
 
 When one or more thread is iterating over the collection, in between, one thread changes the structure of the collection (either adding the element to the collection or by deleting the element in the collection or by updating the value at particular position in the collection) is known as Concurrent Modification.

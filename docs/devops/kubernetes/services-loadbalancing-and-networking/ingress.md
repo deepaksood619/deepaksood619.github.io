@@ -1,14 +1,10 @@
 ---
 slug: /devops/kubernetes/services-loadbalancing-and-networking/ingress
 title: Understanding Kubernetes Ingress
-description: Learn how Kubernetes Ingress manages external access, traffic routing,
-  and TLS termination for cluster services.
-created: '2023-03-05'
-last_update: '2026-03-27'
+description: Learn how Kubernetes Ingress manages external access, traffic routing, and TLS termination for cluster services.
+created: 2023-03-05
+last_update: 2026-03-27
 ---
-
-# Ingress
-
 An API object that manages external access to the services in a cluster, typically HTTP.
 
 An ingress controller is a piece of software that provides reverse proxy, configurable traffic routing, and TLS termination for Kubernetes services.

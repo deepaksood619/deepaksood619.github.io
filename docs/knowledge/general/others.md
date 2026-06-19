@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/general/others
 title: Others
-description: Explore essential resources for competitive exams, including recent current
-  affairs, top indexes, and intriguing projects like the 10,000-year clock.
-created: '2023-03-29'
-last_update: '2026-06-11'
+description: Explore essential resources for competitive exams, including recent current affairs, top indexes, and intriguing projects like the 10,000-year clock.
+created: 2023-03-29
+last_update: 2026-06-11
 ---
-
 [Top 20 Indexes of 2022 | For all competitive exams - YouTube](https://www.youtube.com/watch?v=rYUecP1kAno)
 
 ## Current Affairs

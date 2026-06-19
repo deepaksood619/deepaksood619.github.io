@@ -1,12 +1,10 @@
 ---
 slug: /ai/agi
 title: AGI (Artificial General Intelligence)
-description: Explore AGI, the future of artificial intelligence, and its implications
-  for jobs, ethics, and the potential intelligence explosion beyond human capabilities.
-created: '2023-03-05'
-last_update: '2026-06-17'
+description: Explore AGI, the future of artificial intelligence, and its implications for jobs, ethics, and the potential intelligence explosion beyond human capabilities.
+created: 2023-03-05
+last_update: 2026-06-17
 ---
-
 **Future of Jobs - You can outsource the thinking but not the understanding**
 
 - **Sentient / Intelligence Explosion / Technological singularity / Superintelligence**

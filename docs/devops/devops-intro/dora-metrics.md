@@ -1,14 +1,10 @@
 ---
 slug: /devops/devops-intro/dora-metrics
 title: Understanding DORA Metrics for DevOps Success
-description: Explore DORA metrics to evaluate your DevOps team's performance in deployment
-  frequency, lead time, change failure rate, and service restoration.
-created: '2024-03-04'
-last_update: '2025-02-14'
+description: Explore DORA metrics to evaluate your DevOps team's performance in deployment frequency, lead time, change failure rate, and service restoration.
+created: 2024-03-04
+last_update: 2025-02-14
 ---
-
-# DORA Metrics
-
 The [DevOps Research and Assessment (DORA)](https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling) team has identified four key metrics that indicate the performance of a software development team:
 
 - **Deployment Frequency**—How often an organization successfully releases to production

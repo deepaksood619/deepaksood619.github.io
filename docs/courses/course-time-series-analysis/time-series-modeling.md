@@ -1,12 +1,10 @@
 ---
 slug: /courses/course-time-series-analysis/time-series-modeling
 title: Time-Series Modeling
-description: Explore time-series modeling to predict future patterns with significant
-  coefficients, optimal model simplicity, and essential criteria for evaluation.
-created: '2023-03-05'
-last_update: '2026-03-27'
+description: Explore time-series modeling to predict future patterns with significant coefficients, optimal model simplicity, and essential criteria for evaluation.
+created: 2023-03-05
+last_update: 2026-03-27
 ---
-
 ## Endogenous variable - The variable we are estimating
 
 Patterns in the past persist in the future

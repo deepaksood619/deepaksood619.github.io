@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/algorithmic-complexity/turing-vs-non-turing-machine
 title: Turing vs Non-Turing Machines
-description: Discover the key differences between Turing complete and incomplete machines,
-  and their implications in blockchain technology.
-created: '2023-03-08'
-last_update: '2023-09-13'
+description: Discover the key differences between Turing complete and incomplete machines, and their implications in blockchain technology.
+created: 2023-03-08
+last_update: 2023-09-13
 ---
-
-# Turing vs Non Turing Machine
-
 ## History
 
 Ethereum is Turing Complete and Bitcoin is Turing incomplete. Now before we think it as weakness of Bitcoin we have know that Bitcoin is turing incomplete because of choice and not because of anyone’s inability.

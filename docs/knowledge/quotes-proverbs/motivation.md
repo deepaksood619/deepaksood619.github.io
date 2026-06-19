@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/quotes-proverbs/motivation
 title: Motivation
-description: Explore powerful motivation quotes and insights from great leaders to
-  inspire you toward your goals and ignite your passion for success.
-created: '2023-03-05'
-last_update: '2026-06-18'
+description: Explore powerful motivation quotes and insights from great leaders to inspire you toward your goals and ignite your passion for success.
+created: 2023-03-05
+last_update: 2026-06-18
 ---
-
 ## Quotes
 
 **War Cry - Give up nahi karna hai**

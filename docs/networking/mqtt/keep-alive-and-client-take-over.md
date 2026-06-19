@@ -1,14 +1,10 @@
 ---
 slug: /networking/mqtt/keep-alive-and-client-take-over
 title: Understanding TCP Half-Open Connections
-description: Explore the concept of half-open TCP connections and their impact on
-  MQTT communication reliability.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the concept of half-open TCP connections and their impact on MQTT communication reliability.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Keep Alive & Client Take-Over
-
 ## The problem of half-open TCP connections
 
 [MQTT is based on the Transmission Control Protocol (TCP)](https://www.hivemq.com/blog/mqtt-essentials-part-3-client-broker-connection-establishment/). This protocol ensures that packets are transferred over the internet in a ["reliable, ordered, and error-checked"](http://en.wikipedia.org/wiki/Transmission_Control_Protocol) way. Nevertheless, from time to time, the transfer between communicating parties can get out of sync. For example, if one of the parties crashes or has transmission errors. In TCP, this state of incomplete connection is called a [half-open connection](http://en.wikipedia.org/wiki/TCP_half-open). The important point to remember is that one side of the communication continues to function and is not notified about the failure of the other side. The side that is still connected keeps trying to send messages and waits for acknowledgements.

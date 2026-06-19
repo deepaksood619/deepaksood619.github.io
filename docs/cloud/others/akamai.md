@@ -1,12 +1,10 @@
 ---
 slug: /cloud/others/akamai
 title: Akamai
-description: Discover how Akamai's offloading improves user experience by serving
-  content from edge servers, reducing costs, and enhancing delivery speed.
-created: '2025-02-13'
-last_update: '2025-06-14'
+description: Discover how Akamai's offloading improves user experience by serving content from edge servers, reducing costs, and enhancing delivery speed.
+created: 2025-02-13
+last_update: 2025-06-14
 ---
-
 ### Offload
 
 In Akamai, offload is the percentage of requests that are served from edge servers without needing to reach the origin server. It's a metric that helps improve user experience and reduce costs.

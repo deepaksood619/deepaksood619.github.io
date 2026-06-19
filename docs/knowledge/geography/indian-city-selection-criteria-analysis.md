@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/geography/indian-city-selection-criteria-analysis
 title: Indian City Selection Criteria Analysis
-description: Discover the ideal Tier-2 and Tier-3 cities in Central and North India,
-  focusing on safety, climate, connectivity, and essential urban infrastructure.
-created: '2026-05-25'
-last_update: '2026-05-26'
+description: Discover the ideal Tier-2 and Tier-3 cities in Central and North India, focusing on safety, climate, connectivity, and essential urban infrastructure.
+created: 2026-05-25
+last_update: 2026-05-26
 ---
-
 ## Prompt
 
 1. Identify Tier-2 and Tier-3 cities in Central and North India that are geographically safe and situated well away from sensitive international borders.

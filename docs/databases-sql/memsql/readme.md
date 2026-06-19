@@ -1,12 +1,10 @@
 ---
 slug: /databases-sql/memsql/readme
 title: MemSQL
-description: MemSQL is a powerful distributed, in-memory SQL database management system
-  that leverages real-time analytics and advanced data processing for optimal performance.
-created: '2023-03-05'
-last_update: '2025-06-14'
+description: MemSQL is a powerful distributed, in-memory SQL database management system that leverages real-time analytics and advanced data processing for optimal performance.
+created: 2023-03-05
+last_update: 2025-06-14
 ---
-
 MemSQL is a [distributed](https://en.wikipedia.org/wiki/Distributed_database), [in-memory](https://en.wikipedia.org/wiki/In-memory_database), [SQL](https://en.wikipedia.org/wiki/Structured_Query_Language)[database](https://en.wikipedia.org/wiki/Database) management system.
 
 It is a [relational database management system](https://en.wikipedia.org/wiki/Relational_database_management_system)(RDBMS). It [compiles](https://en.wikipedia.org/wiki/Compiler) Structured Query Language ([SQL](https://en.wikipedia.org/wiki/SQL)) into machine code, via [termed code generation](https://en.wikipedia.org/w/index.php?title=Termed_code_generation&action=edit&redlink=1).

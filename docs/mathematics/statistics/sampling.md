@@ -1,12 +1,10 @@
 ---
 slug: /mathematics/statistics/sampling
 title: Sampling
-description: Discover the importance of sampling in data selection, its types, and
-  how representative samples can streamline data analysis and mining processes.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Discover the importance of sampling in data selection, its types, and how representative samples can streamline data analysis and mining processes.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
 - Sampling is the main technique employed for data selection
     - It is often used for both the preliminary investigation of the data and the final data analysis
 - Statisticians samples because obtaining the entire set of data of interest is too expensive or time consuming

@@ -1,12 +1,10 @@
 ---
 slug: /mathematics/statistics/bivariate-analysis
 title: Bivariate Analysis
-description: Explore bivariate analysis to uncover relationships between two variables,
-  aiding hypothesis testing and enhancing predictions in quantitative research.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore bivariate analysis to uncover relationships between two variables, aiding hypothesis testing and enhancing predictions in quantitative research.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 Bivariate analysis is one of the simplest forms of [quantitative (statistical) analysis](https://en.wikipedia.org/wiki/Statistics).It involves the analysis of two [variables](https://en.wikipedia.org/wiki/Dependent_and_independent_variables)(often denoted as*X*,*Y*), for the purpose of determining the empirical relationship between them
 
 Bivariate analysis can be helpful in testing simple [hypotheses](https://en.wikipedia.org/wiki/Hypotheses) of [association](https://en.wikipedia.org/wiki/Association_(statistics)). Bivariate analysis can help determine to what extent it becomes easier to know and predict a value for one variable (possibly a [dependent variable](https://en.wikipedia.org/wiki/Dependent_variable)) if we know the value of the other variable (possibly the [independent variable](https://en.wikipedia.org/wiki/Independent_variable)) (see also [correlation](https://en.wikipedia.org/wiki/Correlation) and [simple linear regression](https://en.wikipedia.org/wiki/Simple_linear_regression)).

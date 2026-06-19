@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/snowflake/optimizations
 title: Understanding Snowflake Micro-partitions
-description: Explore how Snowflake's micro-partitions optimize data storage and enable
-  efficient querying with granular pruning capabilities.
-created: '2024-01-04'
-last_update: '2025-06-10'
+description: Explore how Snowflake's micro-partitions optimize data storage and enable efficient querying with granular pruning capabilities.
+created: 2024-01-04
+last_update: 2025-06-10
 ---
-
-# Optimizations
-
 ## Micro-partitions
 
 All data in Snowflake tables is automatically divided into micro-partitions, which are contiguous units of storage. Each micro-partition contains between 50 MB and 500 MB of uncompressed data (note that the actual size in Snowflake is smaller because data is always stored compressed). Groups of rows in tables are mapped into individual micro-partitions, organized in a columnar fashion. This size and structure allows for extremely granular pruning of very large tables, which can be comprised of millions, or even hundreds of millions, of micro-partitions.

@@ -1,14 +1,10 @@
 ---
 slug: /technologies/brokers/volttron
-title: 'Volttron: Open Source Control Platform'
-description: Discover Volttron, the open source platform for distributed sensing,
-  data collection, and application development for buildings and devices.
-created: '2023-03-05'
-last_update: '2024-02-05'
+title: "Volttron: Open Source Control Platform"
+description: Discover Volttron, the open source platform for distributed sensing, data collection, and application development for buildings and devices.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
-# Volttron
-
 VOLTTRON is an open source platform for distributed sensing and control. The platform provides services for collecting and storing data from buildings and devices and provides an environment for developing applications which interact with that data.
 
 ## Features

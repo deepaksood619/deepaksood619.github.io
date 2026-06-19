@@ -1,14 +1,10 @@
 ---
 slug: /technologies/kafka/migration-mirroring-replication
 title: Data Migration and Replication Strategies
-description: Explore effective cross-cluster data mirroring techniques, comparing
-  Confluent Replicator and MirrorMaker 2.0 for optimal architecture.
-created: '2024-02-23'
-last_update: '2026-06-11'
+description: Explore effective cross-cluster data mirroring techniques, comparing Confluent Replicator and MirrorMaker 2.0 for optimal architecture.
+created: 2024-02-23
+last_update: 2026-06-11
 ---
-
-# Migration / Mirroring / Replication
-
 [**20240425-EB-Migrating\_From\_Kafka\_To\_Confluent.pdf**](https://assets.confluent.io/m/2745775bbd1fa224/original/20240425-EB-Migrating_From_Kafka_To_Confluent.pdf)
 
 ## Cross-Cluster Data Mirroring

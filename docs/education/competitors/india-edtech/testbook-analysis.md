@@ -1,12 +1,10 @@
 ---
 slug: /education/competitors/india-edtech/testbook-analysis
 title: Testbook Analysis Overview
-description: Explore Testbook's journey, market position, and impressive growth as
-  India's largest government exam test series platform.
-created: '2026-05-09'
-last_update: '2026-06-08'
+description: Explore Testbook's journey, market position, and impressive growth as India's largest government exam test series platform.
+created: 2026-05-09
+last_update: 2026-06-08
 ---
-
 ## Company Overview
 
 - **Founded:** 2014

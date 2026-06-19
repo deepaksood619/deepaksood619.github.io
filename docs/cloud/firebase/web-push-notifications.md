@@ -1,12 +1,10 @@
 ---
 slug: /cloud/firebase/web-push-notifications
 title: Web Push Notifications
-description: Discover how web push notifications can boost customer engagement and
-  CTRs by optimizing opt-in strategies and delivering valuable updates and content.
-created: '2023-08-11'
-last_update: '2025-11-09'
+description: Discover how web push notifications can boost customer engagement and CTRs by optimizing opt-in strategies and delivering valuable updates and content.
+created: 2023-08-11
+last_update: 2025-11-09
 ---
-
 As opposed to emails, push notifications require an opt-in from customers and are proven to deliver better CTRs (Click Through Rates). Therefore, engaging customers through this highly-effective, rapidly growing channel could be challenging, but equally fruitful.
 
 To rest assured that your customers are, in fact, engaging well with your web push notifications and performing the desired actions, you need to first optimize your opt-in for maximum conversions. Make sure your opt-in copy is personalized and compelling and highlights your value proposition to make customers want to stay updated with your offerings.

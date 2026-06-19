@@ -1,14 +1,10 @@
 ---
 slug: /networking/others/grpc/commands
 title: Essential Commands for gRPC and Protobuf
-description: Learn key commands for installing and using gRPC and Protobuf with Go
-  and Python in this concise guide.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Learn key commands for installing and using gRPC and Protobuf with Go and Python in this concise guide.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Commands
-
 ```bash
 brew install protobuf
 protoc

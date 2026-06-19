@@ -1,12 +1,10 @@
 ---
 slug: /databases-sql/mysql/mysql-heatwave
 title: MySQL Heatwave
-description: Discover MySQL HeatWave, the fully managed database combining OLTP, OLAP,
-  and ML for unmatched performance, eliminating ETL complexity and costs.
-created: '2023-12-14'
-last_update: '2025-06-10'
+description: Discover MySQL HeatWave, the fully managed database combining OLTP, OLAP, and ML for unmatched performance, eliminating ETL complexity and costs.
+created: 2023-12-14
+last_update: 2025-06-10
 ---
-
 One Database for OLTP, OLAP, ML & Lakehouse
 
 MySQL HeatWave is the only fully managed database service that combines transactions, analytics, and machine learning services into one MySQL Database, without the complexity, latency, and cost of ETL duplication. MySQL HeatWave includes MySQL HeatWave Lakehouse, letting users query half a petabyte of data in object storage-in a variety of file formats, such as CSV, Parquet, and export files from other databases. Customers can leverage the benefits of HeatWave even when their data is stored outside a MySQL database.

@@ -1,14 +1,10 @@
 ---
 slug: /python/others/twisted
 title: Twisted Networking Engine Overview
-description: Explore the Twisted event-driven networking engine in Python, featuring
-  robust modules and easy deployment options.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the Twisted event-driven networking engine in Python, featuring robust modules and easy deployment options.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Twisted
-
 Twisted is an event-driven networking engine written in Python
 
 Twisted is a robust, cross-platform implementation of the Reactor Pattern with lots of extras.

@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/programming-paradigms/creational-abstract-factory
 title: Understanding the Abstract Factory Pattern
-description: Explore the Creational Abstract Factory pattern to create compatible
-  families of products without class dependency.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the Creational Abstract Factory pattern to create compatible families of products without class dependency.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Creational - Abstract Factory
-
 An abstract factory is a generative design pattern that allows you to create families of related objects without getting attached to specific classes of created objects. The pattern is being implemented by creating an abstract class (for example - Factory), which is represented as an interface for creating system components. Then the classes that implement this interface are being written.
 Pros:
 

@@ -1,12 +1,10 @@
 ---
 slug: /cloud/gcp/gcp-ml-services
 title: GCP ML Services
-description: Discover GCP's powerful ML services, including Gemini AI for advanced
-  language tasks and Vertex AI for seamless model building and deployment.
-created: '2024-08-02'
-last_update: '2025-11-09'
+description: Discover GCP's powerful ML services, including Gemini AI for advanced language tasks and Vertex AI for seamless model building and deployment.
+created: 2024-08-02
+last_update: 2025-11-09
 ---
-
 ## Gemini AI
 
 - **Description**: Gemini AI refers to Google's advanced AI model series, which includes powerful models like Gemini 1, 1.5, and Gemini 2. These models are designed to handle a variety of natural language processing (NLP) tasks, such as text generation, comprehension, translation, and more.

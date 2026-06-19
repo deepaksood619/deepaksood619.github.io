@@ -1,12 +1,10 @@
 ---
 slug: /ai/deep-learning/neural-network-and-deep-learning
 title: Neural network and deep learning
-description: Explore the fundamentals of neural networks and deep learning, focusing
-  on logistic regression, binary classification, and cost function analysis.
-created: '2023-03-05'
-last_update: '2025-12-16'
+description: Explore the fundamentals of neural networks and deep learning, focusing on logistic regression, binary classification, and cost function analysis.
+created: 2023-03-05
+last_update: 2025-12-16
 ---
-
 ## Logistic Regression - Binary Classification
 
 ![image](../../media/DL-Specialization_Neural-network-and-deep-learning-image1.jpg)

@@ -1,14 +1,10 @@
 ---
 slug: /devops/others/other-cicd
 title: CICD Tools and Concepts Overview
-description: Explore essential CICD concepts and tools like Spinnaker, Jenkins Operator,
-  and Weave Flux for efficient software delivery.
-created: '2023-03-05'
-last_update: '2026-05-10'
+description: Explore essential CICD concepts and tools like Spinnaker, Jenkins Operator, and Weave Flux for efficient software delivery.
+created: 2023-03-05
+last_update: 2026-05-10
 ---
-
-# Other - CICD
-
 - CI - Continuous Integration
 - CD - Continuous Delivery (building deployable artifacts / images)
 - CD - Continuous Deployment (deploying those artifacts / images)

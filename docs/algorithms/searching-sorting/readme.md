@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/searching-sorting/readme
 title: Comprehensive Guide to Searching and Sorting Algorithms
-description: Explore various searching and sorting algorithms, including Binary Search,
-  Quick Sort, and more, to enhance your programming skills.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Explore various searching and sorting algorithms, including Binary Search, Quick Sort, and more, to enhance your programming skills.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
-# Searching Sorting
-
 - [Intro](algorithms/searching-sorting/intro.md)
 - [Binary Search](binary-search)
 - [Selection Sort](selection-sort)

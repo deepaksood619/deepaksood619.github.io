@@ -1,12 +1,10 @@
 ---
 slug: /ideas/improvements-feedbacks
 title: Improvements / Feedbacks
-description: Explore essential improvements and user feedback for Android notifications,
-  government schemes, and YouTube functionality enhancements for a better experience.
-created: '2023-03-05'
-last_update: '2026-05-01'
+description: Explore essential improvements and user feedback for Android notifications, government schemes, and YouTube functionality enhancements for a better experience.
+created: 2023-03-05
+last_update: 2026-05-01
 ---
-
 ### Android
 
 Notification can be enabled for an app for a certain time/days like between working hours and days for some gmail account

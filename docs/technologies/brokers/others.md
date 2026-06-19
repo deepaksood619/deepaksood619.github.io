@@ -1,14 +1,10 @@
 ---
 slug: /technologies/brokers/others
 title: Distributed Messaging Platforms Overview
-description: Explore key distributed messaging platforms like NSQ, Scribe, and Brooklin
-  designed for high-performance data transfer and processing.
-created: '2023-03-05'
-last_update: '2024-08-23'
+description: Explore key distributed messaging platforms like NSQ, Scribe, and Brooklin designed for high-performance data transfer and processing.
+created: 2023-03-05
+last_update: 2024-08-23
 ---
-
-# Others
-
 ## NSQ - A realtime distributed messaging platform
 
 NSQ is a realtime distributed messaging platform designed to operate at scale, handling billions of messages per day. It promotes distributed and decentralized topologies without single points of failure, enabling fault tolerance and high availability coupled with a reliable message delivery guarantee.

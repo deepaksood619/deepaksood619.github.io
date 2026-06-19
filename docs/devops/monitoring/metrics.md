@@ -1,14 +1,10 @@
 ---
 slug: /devops/monitoring/metrics
 title: Essential Monitoring Metrics Guide
-description: Discover key metrics for effective monitoring, including goals, tools,
-  and alerts, to proactively manage performance and resolve issues.
-created: '2023-03-05'
-last_update: '2026-03-31'
+description: Discover key metrics for effective monitoring, including goals, tools, and alerts, to proactively manage performance and resolve issues.
+created: 2023-03-05
+last_update: 2026-03-31
 ---
-
-# Metrics
-
 ## Monitoring Introduction
 
 - What are your monitoring goals?

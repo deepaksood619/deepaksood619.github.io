@@ -1,14 +1,10 @@
 ---
 slug: /frontend/html-css/html-intro/tags
 title: Understanding HTML5 Semantic Tags
-description: Explore the importance of semantic HTML5 elements and discover various
-  HTML tags organized by category for effective web development.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the importance of semantic HTML5 elements and discover various HTML tags organized by category for effective web development.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Tags
-
 ## Semantic Elements in HTML5
 
 Semantic HTML elements clearly describe it's meaning in a human and machine readable way. Elements such as `<header>, <footer> and <article>` are all considered semantic because they accurately describe the purpose of the element and the type of content that is inside them.

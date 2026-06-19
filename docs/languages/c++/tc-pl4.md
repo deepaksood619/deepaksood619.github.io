@@ -1,12 +1,10 @@
 ---
 slug: /languages/c++/tc-pl4
 title: TC++PL4
-description: Explore TC++PL4 for a comprehensive guide to C++ basics, user-defined
-  types, modularity, and advanced abstraction mechanisms in programming.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Explore TC++PL4 for a comprehensive guide to C++ basics, user-defined types, modularity, and advanced abstraction mechanisms in programming.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
 ## Part I: Introductory Material
 
 1. Notes to the Reader

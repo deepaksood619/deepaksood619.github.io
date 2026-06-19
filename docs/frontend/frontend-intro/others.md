@@ -1,14 +1,10 @@
 ---
 slug: /frontend/frontend-intro/others
 title: Web Performance Optimization Techniques
-description: Learn about BFCache for instant navigation and discover top image compression
-  tools to enhance your website's performance.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Learn about BFCache for instant navigation and discover top image compression tools to enhance your website's performance.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
-# Others
-
 ## BFCache
 
 Back/forward cache (or bfcache) is a browser optimization that enables instant back and forward navigation. It significantly improves the browsing experience for users-especially those with slower networks or devices.

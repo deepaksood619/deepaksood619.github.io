@@ -1,13 +1,10 @@
 ---
 slug: /education/CLAUDE
 title: Education Research Wiki
-description: Explore our LLM-maintained Education Research Wiki, designed for education
-  startups to streamline knowledge, support product decisions, and enhance research
-  accuracy.
-created: '2026-04-15'
-last_update: '2026-06-17'
+description: Explore our LLM-maintained Education Research Wiki, designed for education startups to streamline knowledge, support product decisions, and enhance research accuracy.
+created: 2026-04-15
+last_update: 2026-06-17
 ---
-
 **LLM-maintained wiki for education startup development** - Systematic knowledge organization supporting product decisions with research evidence.
 
 ## Core Purpose

@@ -1,14 +1,10 @@
 ---
 slug: /technologies/flink/queries
 title: Understanding Flink Queries and Source Tables
-description: Learn how Flink queries operate on external source tables and the role
-  they play in continuous data processing.
-created: '2025-12-15'
-last_update: '2026-04-23'
+description: Learn how Flink queries operate on external source tables and the role they play in continuous data processing.
+created: 2025-12-15
+last_update: 2026-04-23
 ---
-
-# Queries
-
 ## Source Tables
 
 As with all SQL engines, Flink queries operate on top of tables. It differs from a traditional database because Flink does not manage data at rest locally; instead, its queries operate continuously over external tables.

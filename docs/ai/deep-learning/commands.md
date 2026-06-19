@@ -1,12 +1,10 @@
 ---
 slug: /ai/deep-learning/commands
 title: Commands
-description: Explore essential Python libraries like NumPy, H5py, and Matplotlib for
-  scientific computing, data manipulation, and data visualization in your projects.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Explore essential Python libraries like NumPy, H5py, and Matplotlib for scientific computing, data manipulation, and data visualization in your projects.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
 ## Libraries
 
 - [numpy](https://idrgfain.labs.coursera.org/notebooks/Week%202/Logistic%20Regression%20as%20a%20Neural%20Network/www.numpy.org) is the fundamental package for scientific computing with Python.

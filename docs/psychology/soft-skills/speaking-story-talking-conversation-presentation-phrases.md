@@ -1,14 +1,10 @@
 ---
 slug: /psychology/soft-skills/speaking-story-talking-conversation-presentation-phrases
 title: Effective Speaking and Presentation Tips
-description: Learn essential phrases and body language techniques for impactful storytelling
-  and presentations.
-created: '2023-03-05'
-last_update: '2026-06-18'
+description: Learn essential phrases and body language techniques for impactful storytelling and presentations.
+created: 2023-03-05
+last_update: 2026-06-18
 ---
-
-# Speaking / Story / Talking / Presentation / Phrases / Body Language
-
 Use english - Indians have a bias towards English
 
 Always tell stories, most visual stories are the best, and simple

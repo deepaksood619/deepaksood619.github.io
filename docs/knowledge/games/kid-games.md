@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/games/kid-games
 title: Kid Games / Kids
-description: Discover the best kid games and toys that enhance creativity and problem-solving,
-  focusing on open-ended, non-realistic options for quality playtime.
-created: '2025-09-12'
-last_update: '2026-03-16'
+description: Discover the best kid games and toys that enhance creativity and problem-solving, focusing on open-ended, non-realistic options for quality playtime.
+created: 2025-09-12
+last_update: 2026-03-16
 ---
-
 ## Toys
 
 - clapstore toys

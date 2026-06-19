@@ -1,12 +1,10 @@
 ---
 slug: /economics/accounting-for-finance/6a-ratio-analysis
-title: '6A: Ratio Analysis'
-description: Explore the nuances of ratio analysis, from profitability and leverage
-  effects to understanding financial performance throughout a company's life cycle.
-created: '2023-03-05'
-last_update: '2024-02-05'
+title: "6A: Ratio Analysis"
+description: Explore the nuances of ratio analysis, from profitability and leverage effects to understanding financial performance throughout a company's life cycle.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
 ## Financial Ratios: A Life Cycle Perspective
 
 ![image](../../media/Accounting-for-Finance_6A-Ratio-Analysis-image1.jpg)

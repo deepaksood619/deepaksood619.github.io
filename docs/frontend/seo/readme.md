@@ -1,14 +1,10 @@
 ---
 slug: /frontend/seo/readme
 title: Comprehensive SEO Guide
-description: Explore essential SEO topics including types, techniques, tools, and
-  optimization for better online visibility.
-created: '2024-12-03'
-last_update: '2024-12-03'
+description: Explore essential SEO topics including types, techniques, tools, and optimization for better online visibility.
+created: 2024-12-03
+last_update: 2024-12-03
 ---
-
-# SEO
-
 - [SEO / ASO](frontend/seo/seo-aso.md)
 - [Types of SEO](frontend/seo/types-of-seo.md)
 - [Core Web Vitals](frontend/seo/core-web-vitals.md)

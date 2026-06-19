@@ -1,13 +1,10 @@
 ---
 slug: /book-summaries/business/leadership-and-the-rise-of-great-powers
 title: Leadership and the Rise of Great Powers
-description: Discover the four leadership styles driving the rise of great powers,
-  including humane authority, hegemonic, anemocratic, and tyrannical in international
-  relations.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover the four leadership styles driving the rise of great powers, including humane authority, hegemonic, anemocratic, and tyrannical in international relations.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Yan Xuetong
 
 There are four types of international leadership: humane authority, hegemonic, anemocratic, and tyrannical.

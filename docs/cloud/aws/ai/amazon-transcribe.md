@@ -1,12 +1,10 @@
 ---
 slug: /cloud/aws/ai/amazon-transcribe
 title: Amazon Transcribe
-description: Discover Amazon Transcribe, an ASR service that effortlessly adds speech-to-text
-  capabilities, featuring customizable vocabulary filters for precise transcriptions.
-created: '2025-01-26'
-last_update: '2026-03-27'
+description: Discover Amazon Transcribe, an ASR service that effortlessly adds speech-to-text capabilities, featuring customizable vocabulary filters for precise transcriptions.
+created: 2025-01-26
+last_update: 2026-03-27
 ---
-
 [Amazon Transcribe](https://aws.amazon.com/transcribe/) is an automatic speech recognition (ASR) service that makes it easy for you to add speech-to-text capabilities to your applications. Starting today, when transcribing audio streams, you can instruct Amazon Transcribe to automatically mask, remove, or tag specific terms in the transcription results based on a vocabulary that you specify. For example, you can use a vocabulary filter to automatically remove profane words from the transcription results for content moderation or generating family-friendly captions. You can create a vocabulary filter once and use it when processing multiple audio streams. You can also create multiple vocabulary filters and choose which one should be used for a particular audio stream. With this launch, vocabulary filtering is now available for both Amazon Transcribe's batch and streaming transcription APIs.
 
 You can use streaming transcription to efficiently and accurately generate transcripts for diverse use cases, such as transcribing calls for contact centers, automatically generating captions for live media broadcasts, and capturing meeting notes for business productivity.

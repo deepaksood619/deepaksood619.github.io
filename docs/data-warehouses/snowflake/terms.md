@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/snowflake/terms
 title: Understanding Snowflake Terms
-description: Explore key terms in Snowflake, including clone, compute credits, and
-  data sharing for improved data management and performance.
-created: '2024-01-05'
-last_update: '2025-06-10'
+description: Explore key terms in Snowflake, including clone, compute credits, and data sharing for improved data management and performance.
+created: 2024-01-05
+last_update: 2025-06-10
 ---
-
-# Terms
-
 ### [**clone**](https://docs.snowflake.net/manuals/sql-reference/sql/create-clone.html)
 
 a clone is a copy of a storage object (database / schema / table). This is typically a zero-copy clone, meaning the underlying data exists only once but metadata creates 2 different entities on top of the base data.

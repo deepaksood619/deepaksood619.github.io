@@ -1,14 +1,10 @@
 ---
 slug: /technologies/confluent/govern-data-streams
 title: Data Stream Governance Guide
-description: Explore essential practices for governing data streams, including lineage
-  tracking, stream catalog management, and governance packages.
-created: '2026-01-21'
-last_update: '2026-02-27'
+description: Explore essential practices for governing data streams, including lineage tracking, stream catalog management, and governance packages.
+created: 2026-01-21
+last_update: 2026-02-27
 ---
-
-# Govern Data Streams
-
 [Govern Data Streams](https://docs.confluent.io/cloud/current/sr/overview.html)
 
 - [Overview](https://docs.confluent.io/cloud/current/stream-governance/index.html)

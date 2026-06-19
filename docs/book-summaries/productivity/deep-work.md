@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/productivity/deep-work
 title: Deep work
-description: Discover how cultivating deep work skills enhances focus, boosts creativity,
-  and allows you to thrive in today's fast-paced, technology-driven economy.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover how cultivating deep work skills enhances focus, boosts creativity, and allows you to thrive in today's fast-paced, technology-driven economy.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Cal Newport
 
 The few who cultivate this skill, and then make it the core of their working life, will thrive. - Cal Newport

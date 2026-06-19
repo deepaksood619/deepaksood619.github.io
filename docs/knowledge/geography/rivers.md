@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/geography/rivers
 title: Rivers
-description: Discover the significance of rivers and their geographical features,
-  including the Mahi River's journey through India to the Gulf of Cambay.
-created: '2023-03-05'
-last_update: '2023-11-05'
+description: Discover the significance of rivers and their geographical features, including the Mahi River's journey through India to the Gulf of Cambay.
+created: 2023-03-05
+last_update: 2023-11-05
 ---
-
 [Important Geographical Terms Features Landforms Of Earth](https://youtu.be/8McizDCj6qE)
 
 - Mountain

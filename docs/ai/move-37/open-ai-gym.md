@@ -1,12 +1,10 @@
 ---
 slug: /ai/move-37/open-ai-gym
 title: Open AI Gym
-description: Explore Open AI Gym's environments like FronzenLake-v0 and BipedalWalker-v2,
-  where agents navigate challenges for rewards and optimal performance.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore Open AI Gym's environments like FronzenLake-v0 and BipedalWalker-v2, where agents navigate challenges for rewards and optimal performance.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 ## FronzenLake-v0
 
 The agent controls the movement of a character in a grid world. Some tiles of the grid are walkable, and others lead to the agent falling into the water. Additionally, the movement direction of the agent is uncertain and only partially depends on the chosen direction. The agent is rewarded for finding a walkable path to a goal tile.

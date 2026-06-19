@@ -1,12 +1,10 @@
 ---
 slug: /languages/php/codeigniter/basic-concepts
 title: Basic Concepts
-description: Learn the basics of CodeIgniter's user-friendly URI routing system and
-  how to customize routing rules for your web application.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Learn the basics of CodeIgniter's user-friendly URI routing system and how to customize routing rules for your web application.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
 ## Routing
 
 CodeIgniter has user-friendly URI routing system, so that you can easily re-route URL. Typically, there is a one-to-one relationship between a URL string and its corresponding controller class/method. The segments in a URI normally follow this pattern −

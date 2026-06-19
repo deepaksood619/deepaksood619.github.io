@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/clickhouse/virtual-columns
 title: Understanding Virtual Columns in Databases
-description: Learn about virtual columns, their usage, and how to properly manage
-  them in your database tables.
-created: '2025-05-16'
-last_update: '2025-06-10'
+description: Learn about virtual columns, their usage, and how to properly manage them in your database tables.
+created: 2025-05-16
+last_update: 2025-06-10
 ---
-
-# Virtual Columns
-
 A virtual column is an integral table engine attribute that is defined in the engine source code.
 
 You shouldn't specify virtual columns in the `CREATE TABLE` query, and you can't see them in `SHOW CREATE TABLE` and `DESCRIBE TABLE` query results. Virtual columns are also read-only, so you can't insert data into virtual columns.

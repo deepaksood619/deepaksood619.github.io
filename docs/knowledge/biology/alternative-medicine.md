@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/biology/alternative-medicine
 title: Alternative Medicine
-description: Explore alternative medicine practices like homeopathy, focusing on holistic
-  healing and self-care for improved well-being and natural balance.
-created: '2023-06-26'
-last_update: '2025-02-14'
+description: Explore alternative medicine practices like homeopathy, focusing on holistic healing and self-care for improved well-being and natural balance.
+created: 2023-06-26
+last_update: 2025-02-14
 ---
-
 **Alternative medicine** is any practice that aims to achieve the healing effects of [medicine](https://en.wikipedia.org/wiki/Medicine "Medicine") despite lacking [biological plausibility](https://en.wikipedia.org/wiki/Biological_plausibility "Biological plausibility"), [testability](https://en.wikipedia.org/wiki/Testability "Testability"), [repeatability](https://en.wikipedia.org/wiki/Repeatability "Repeatability") or evidence of effectiveness.
 
 [Alternative medicine - Wikipedia](https://en.wikipedia.org/wiki/Alternative_medicine)

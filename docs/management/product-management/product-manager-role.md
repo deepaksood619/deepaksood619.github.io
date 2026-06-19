@@ -1,14 +1,10 @@
 ---
 slug: /management/product-management/product-manager-role
 title: Essential Product Manager Role
-description: Discover the key responsibilities and impact areas of a Product Manager
-  in driving business success and team collaboration.
-created: '2023-03-05'
-last_update: '2024-12-19'
+description: Discover the key responsibilities and impact areas of a Product Manager in driving business success and team collaboration.
+created: 2023-03-05
+last_update: 2024-12-19
 ---
-
-# Product Manager PM Role
-
 ![product-manager-skills](../../media/Pasted%20image%2020240723234521.jpg)
 
 ## Role

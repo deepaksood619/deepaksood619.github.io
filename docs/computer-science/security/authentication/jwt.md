@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/security/authentication/jwt
 title: Understanding JSON Web Tokens (JWT)
-description: Learn about JSON Web Tokens (JWT) for secure information transmission
-  and authentication in RESTful APIs.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Learn about JSON Web Tokens (JWT) for secure information transmission and authentication in RESTful APIs.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# JWT
-
 JSON Web Token (JWT) is an open standard ([RFC 7519](https://tools.ietf.org/html/rfc7519)) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be verified and trusted because it is digitally signed. JWTs can be signed using a secret (with theHMACalgorithm) or a public/private key pair usingRSAorECDSA
 
 JWT is a very modern, simple and secure approach which extends for Json Web Tokens. Json Web Tokens are a stateless solution for authentication. So there is no need to store any session state on the server, which of course is perfect for restful APIs. Restful APIs should always be stateless, and the most widely used alternative to authentication with JWTs is to just store the user's log-in state on the server using sessions. But then of course does not follow the principle that says that restful APIs should be stateless and that's why solutions like JWT became popular and effective.

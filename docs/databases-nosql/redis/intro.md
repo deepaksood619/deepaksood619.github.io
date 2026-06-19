@@ -1,13 +1,10 @@
 ---
 slug: /databases-nosql/redis/intro
 title: Redis
-description: Discover Redis, the fast, open-source in-memory data store that functions
-  as a database, cache, and message broker, supporting diverse data structures and
-  high availability.
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Discover Redis, the fast, open-source in-memory data store that functions as a database, cache, and message broker, supporting diverse data structures and high availability.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
 ## Redis (Remote Dictionary Service)
 
 Redis is an open source (BSD licensed), extremely fast, in-memory data structure store, used as a database, cache and message broker. It can optionally persist to a disk also. It supports different data structures like simple key-value pairs, sets, queues, strings, hashes, lists, sorted sets with range queries, bitmaps, hyprloglogs and geospatial indexes with radis queries. Redis has built-in replication, Lua scripting, LRU eviction, transactions and different levels of on-disk persistence, and provides high availability via Redis Sentinel and automatic partitioning with Redis Cluster

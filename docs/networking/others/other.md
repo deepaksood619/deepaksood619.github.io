@@ -1,14 +1,10 @@
 ---
 slug: /networking/others/other
 title: OpenConnect and OpenSSH Overview
-description: Explore OpenConnect and OpenSSH, two essential open-source tools for
-  secure VPN connections and networking utilities.
-created: '2023-03-05'
-last_update: '2026-03-27'
+description: Explore OpenConnect and OpenSSH, two essential open-source tools for secure VPN connections and networking utilities.
+created: 2023-03-05
+last_update: 2026-03-27
 ---
-
-# Others
-
 ## OpenConnect
 
 OpenConnect is an [open-source software](https://en.wikipedia.org/wiki/Open-source_software) application for connecting to [virtual private networks](https://en.wikipedia.org/wiki/Virtual_private_network)(VPN), which implement secure [point-to-point](https://en.wikipedia.org/wiki/Point-to-point_(telecommunications)) connections

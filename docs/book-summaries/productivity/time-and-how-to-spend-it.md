@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/productivity/time-and-how-to-spend-it
 title: Time and How to Spend it
-description: Discover how to enrich your life with the 7 rules for spending time wisely
-  through meaningful experiences that craft your personal heroic story.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover how to enrich your life with the 7 rules for spending time wisely through meaningful experiences that craft your personal heroic story.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By James Wallman
 
 The 7 rules for richer, happier days

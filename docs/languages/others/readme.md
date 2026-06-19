@@ -1,12 +1,10 @@
 ---
 slug: /languages/others/readme
 title: Other Languages
-description: Explore a comprehensive guide on various programming languages, including
-  Markdown, JSON, Rust, and more, along with interview questions and resources.
-created: '2023-03-05'
-last_update: '2025-07-17'
+description: Explore a comprehensive guide on various programming languages, including Markdown, JSON, Rust, and more, along with interview questions and resources.
+created: 2023-03-05
+last_update: 2025-07-17
 ---
-
 - [General](general)
 - [Markdown](markdown)
 - [YAML](yaml)

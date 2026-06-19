@@ -1,14 +1,10 @@
 ---
 slug: /networking/protocols/http-3-quic
 title: Understanding HTTP/3 QUIC Protocol
-description: Discover how HTTP/3 uses QUIC for efficient streaming and improved performance
-  over traditional TCP.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Discover how HTTP/3 uses QUIC for efficient streaming and improved performance over traditional TCP.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# HTTP/3 QUIC
-
 QUIC - Quick UDP Internet Connections
 
 HTTP/3 don't use TCP as the transport layer for the session, it uses [QUIC, a new Internet transport protocol](https://blog.cloudflare.com/the-road-to-quic/), which, among other things, introduces streams as first-class citizens at the transport layer. QUIC streams share the same QUIC connection, so no additional handshakes and slow starts are required to create new ones, but QUIC streams are delivered independently such that in most cases packet loss affecting one stream doesn't affect others. This is possible because QUIC packets are encapsulated on top of **UDP datagrams.**

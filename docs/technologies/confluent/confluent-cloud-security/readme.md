@@ -1,14 +1,10 @@
 ---
 slug: /technologies/confluent/confluent-cloud-security/readme
 title: Confluent Cloud Security Overview
-description: Explore Confluent Cloud Security with insights on authentication, authorization,
-  encryption, auditing, compliance, and IP filtering.
-created: '2026-01-28'
-last_update: '2026-01-29'
+description: Explore Confluent Cloud Security with insights on authentication, authorization, encryption, auditing, compliance, and IP filtering.
+created: 2026-01-28
+last_update: 2026-01-29
 ---
-
-# Confluent Cloud Security
-
 1. [21-authenticating-users-and-applications](technologies/confluent/confluent-cloud-security/21-authenticating-users-and-applications.md)
 2. [22-authorizing-using-rbac-and-acls](technologies/confluent/confluent-cloud-security/22-authorizing-using-rbac-and-acls.md)
 3. [23-understanding-encryption](technologies/confluent/confluent-cloud-security/23-understanding-encryption.md)

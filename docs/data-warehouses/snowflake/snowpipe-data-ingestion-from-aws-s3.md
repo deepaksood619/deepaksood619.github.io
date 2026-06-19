@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/snowflake/snowpipe-data-ingestion-from-aws-s3
 title: Snowpipe Data Ingestion from S3
-description: Learn how Snowpipe facilitates seamless data ingestion from AWS S3 into
-  Snowflake for real-time analytics.
-created: '2025-10-16'
-last_update: '2025-10-18'
+description: Learn how Snowpipe facilitates seamless data ingestion from AWS S3 into Snowflake for real-time analytics.
+created: 2025-10-16
+last_update: 2025-10-18
 ---
-
-# Snowpipe Data Ingestion from AWS S3
-
 ## 1. Introduction
 
 Snowpipe is Snowflake’s serverless, continuous data ingestion service. It allows you to load data automatically (or semi-automatically) from files as soon as they land in a stage (e.g. in Amazon S3) into a Snowflake table.

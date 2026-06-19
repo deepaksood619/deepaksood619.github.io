@@ -1,12 +1,10 @@
 ---
 slug: /mathematics/statistics/glossary
 title: Glossary
-description: Explore our comprehensive glossary, featuring key definitions for population,
-  sample, and other essential research concepts to enhance your understanding.
-created: '2023-03-05'
-last_update: '2024-04-13'
+description: Explore our comprehensive glossary, featuring key definitions for population, sample, and other essential research concepts to enhance your understanding.
+created: 2023-03-05
+last_update: 2024-04-13
 ---
-
 | **Word**                        | **Definition**                                                                                                                                                                                                                                                 |
 |---------------|---------------------------------------------------------|
 | Population                      | The collections of all items of interest to our study; denoted N.                                                                                                                                                                                              |

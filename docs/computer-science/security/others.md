@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/security/others
-title: 'Exploring Security: Encryption and Tor'
-description: Discover the essentials of end-to-end encryption and the Tor anonymity
-  network for secure online communication.
-created: '2023-03-05'
-last_update: '2026-02-15'
+title: "Exploring Security: Encryption and Tor"
+description: Discover the essentials of end-to-end encryption and the Tor anonymity network for secure online communication.
+created: 2023-03-05
+last_update: 2026-02-15
 ---
-
-# Others
-
 ## SE Radio - 321: End to End Encryption - Kim Carter with Peter Budai
 
 IM, Voice over IP, Email scenarios, as well as inter service communication scenarios such as securing data in use with full memory encryption, CPU-based key storage, enclaves, cryptographic protocols (Secure multi-party computation and Homomorphic encryption).

@@ -1,13 +1,10 @@
 ---
 slug: /economics/accounting-for-finance/2-income-statements-and-profitability-measures
 title: 2 Income Statements & Profitability Measures
-description: Explore key differences between accrual and cash accounting, and learn
-  how to analyze income statements and profitability measures for better financial
-  insights.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore key differences between accrual and cash accounting, and learn how to analyze income statements and profitability measures for better financial insights.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
 ## Measuring Income: Accrual versus Cash Accounting
 
 - In accrual accounting, you record the transactions when they occur, rather than when cash flows occur.

@@ -1,14 +1,10 @@
 ---
 slug: /python/documentation/27-development-tools/readme
 title: Essential Development Tools for Python
-description: Explore crucial development tools in Python, covering type hints, documentation
-  generation, and testing with doctests.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore crucial development tools in Python, covering type hints, documentation generation, and testing with doctests.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
-# 27. Development Tools
-
 ## 27.1. typing - Support for type hints
 
 - 27.1.1. Type aliases

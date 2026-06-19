@@ -1,14 +1,10 @@
 ---
 slug: /frontend/seo/core-web-vitals
 title: Understanding Core Web Vitals
-description: Explore Google’s Core Web Vitals initiative and learn how to improve
-  loading performance, interactivity, and user experience on your site.
-created: '2023-03-05'
-last_update: '2025-02-14'
+description: Explore Google’s Core Web Vitals initiative and learn how to improve loading performance, interactivity, and user experience on your site.
+created: 2023-03-05
+last_update: 2025-02-14
 ---
-
-# Core Web Vitals
-
 https://web.dev/vitals
 
 Web Vitals is an initiative by Google to provide unified guidance for quality signals that are essential to delivering a great user experience on the web.

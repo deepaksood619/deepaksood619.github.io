@@ -1,13 +1,10 @@
 ---
 slug: /mathematics/algebra/complex-numbers
 title: 2.2 Complex Numbers
-description: Explore complex numbers, their properties, addition, subtraction, multiplication,
-  and the complex plane, enhancing your understanding of number systems and imaginary
-  concepts.
-created: '2023-03-05'
-last_update: '2023-11-24'
+description: Explore complex numbers, their properties, addition, subtraction, multiplication, and the complex plane, enhancing your understanding of number systems and imaginary concepts.
+created: 2023-03-05
+last_update: 2023-11-24
 ---
-
 1. Principle Square root
 2. sq. root(a.b) = sq. root(a) * sq. root(b), iff a and b both are not negative
 3. **Complex Number => i^2^ = - 1**

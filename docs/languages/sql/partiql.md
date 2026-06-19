@@ -1,12 +1,10 @@
 ---
 slug: /languages/sql/partiql
 title: PartiQL
-description: Explore PartiQL, a versatile query language enabling seamless data access
-  across various formats and databases, enhancing agility in data lake environments.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore PartiQL, a versatile query language enabling seamless data access across various formats and databases, enhancing agility in data lake environments.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 Data may also reside in the data lake, stored in formats that may lack schema, or may involve nesting or multiple values (e.g., [Parquet](https://parquet.apache.org/), JSON). Every different type and flavor of data store may suit a particular use case, but each also comes with its own query language. The result is tight coupling between the query language and the format in which data is stored. Hence, if you want to change your data to another format, or change the database engine you use to access/process that data (which is not uncommon in a data lake world), or change the location of your data, you may also need to change your application and queries. This is a very large obstacle to the agility and flexibility needed to effectively use data lakes.
 
 Today we are happy to announce [PartiQL](https://partiql.org/), a SQL-compatible query language that makes it easy to efficiently query data, regardless of where or in what format it is stored. As long as your query engine supports PartiQL, you can process structured data from relational databases (both transactional and analytical), semi-structured and nested data in open data formats (such as an Amazon S3 data lake), and even schema-less data in NoSQL or document databases that allow different attributes for different rows. We are open sourcing the PartiQL [tutorial](https://partiql.org/tutorial.html), [specification](https://partiql.org/assets/PartiQL-Specification.pdf), and a [reference implementation](https://github.com/partiql/) of the language under the Apache2.0 license, so that everyone can participate, contribute, and use it to drive widespread adoption for this unifying query language.

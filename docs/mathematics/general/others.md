@@ -1,12 +1,10 @@
 ---
 slug: /mathematics/general/others
 title: Others
-description: Explore the concept of arity in logic, mathematics, and computer science,
-  focusing on the number of arguments or operands a function requires.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the concept of arity in logic, mathematics, and computer science, focusing on the number of arguments or operands a function requires.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 ## Arity
 
 In [logic](https://en.wikipedia.org/wiki/Logic), [mathematics](https://en.wikipedia.org/wiki/Mathematics), and [computer science](https://en.wikipedia.org/wiki/Computer_science), thearity of a [function](https://en.wikipedia.org/wiki/Function_(mathematics)) or [operation](https://en.wikipedia.org/wiki/Operation_(mathematics)) is the number of [arguments](https://en.wikipedia.org/wiki/Argument_of_a_function) or [operands](https://en.wikipedia.org/wiki/Operand) that the function takes. In mathematics, arity may also be namedrank, but this word can have many other meanings in mathematics. In logic and philosophy, it is also calledadicityanddegree.In [linguistics](https://en.wikipedia.org/wiki/Linguistics), it is usually named [valency](https://en.wikipedia.org/wiki/Valency_(linguistics)).

@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/advanced-algorithms/principle-of-deferred-decisions
 title: Understanding the Principle of Deferred Decisions
-description: Learn about the principle of deferred decisions and how it relates to
-  random choices in algorithms, ensuring effective randomness.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Learn about the principle of deferred decisions and how it relates to random choices in algorithms, ensuring effective randomness.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
-# Principle of Deferred Decisions
-
 The principle of deferred decisions is the concept that we have two ways to make a random choice both of which are equivalent.
 
 One way is that you can toss a coin yourself at the exact step when you need a random input in some algorithm. In the other way you can imagine that there is an oracle who has already tossed a coin infinitely many times and has some sequence of the formHTHTHH...HTHTHH..., and we query this oracle to tell us the next randomized outcome.

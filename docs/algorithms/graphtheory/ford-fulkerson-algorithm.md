@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/graphtheory/ford-fulkerson-algorithm
 title: Understanding the Ford-Fulkerson Algorithm
-description: Explore the Ford-Fulkerson algorithm for calculating maximum flow in
-  network flow problems and its relationship with the Max-Flow Min-Cut Theorem.
-created: '2023-03-05'
-last_update: '2023-12-06'
+description: Explore the Ford-Fulkerson algorithm for calculating maximum flow in network flow problems and its relationship with the Max-Flow Min-Cut Theorem.
+created: 2023-03-05
+last_update: 2023-12-06
 ---
-
-# Ford-Fulkerson Algorithm
-
 ## Maximum Flow (Max-Flow Min-Cut Theorem)
 
 ## Network Flow

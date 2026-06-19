@@ -1,14 +1,10 @@
 ---
 slug: /networking/networking-concepts/sockets
 title: Understanding Sockets in Network Programming
-description: Learn how to create and use sockets for network communication in Python
-  and UNIX with this comprehensive guide.
-created: '2023-03-05'
-last_update: '2024-02-26'
+description: Learn how to create and use sockets for network communication in Python and UNIX with this comprehensive guide.
+created: 2023-03-05
+last_update: 2024-02-26
 ---
-
-# Sockets
-
 ## Socket
 
 The first function is socket(), which creates an object called a socket. A socket is a number that a program can use to communicate with another program. In UNIX terms, it is no different from a file descriptor, which is a number that is used for reading or writing from an open file. Instead, with a socket, a program is reading (receiving) or writing (sending) from or to the network.

@@ -1,14 +1,10 @@
 ---
 slug: /education/pedagogy/tips
 title: Effective Study Tips for Better Learning
-description: Discover essential study tips including mind mapping, the Pomodoro Technique,
-  and cognitive fitness strategies to enhance your learning experience.
-created: '2023-03-05'
-last_update: '2026-05-05'
+description: Discover essential study tips including mind mapping, the Pomodoro Technique, and cognitive fitness strategies to enhance your learning experience.
+created: 2023-03-05
+last_update: 2026-05-05
 ---
-
-# Tips
-
 https://en.wikipedia.org/wiki/List_of_mnemonics
 
 [Why Flashcards Beat Mnemonics for Studying - Scott H Young](https://www.scotthyoung.com/blog/2023/06/06/flashcards-vs-mnemonics/)

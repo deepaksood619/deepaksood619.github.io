@@ -1,14 +1,10 @@
 ---
 slug: /management/people-management/remote-working-teams
 title: Effective Remote Teams Strategies
-description: Discover essential tips and strategies for building and managing successful
-  remote working teams.
-created: '2023-03-21'
-last_update: '2024-07-22'
+description: Discover essential tips and strategies for building and managing successful remote working teams.
+created: 2023-03-21
+last_update: 2024-07-22
 ---
-
-# Remote Working / Teams
-
 Teams of 1 are the best teams, and 1 of the most hard to create
 
 Remote is a strategic advantage to some companies and poison for others

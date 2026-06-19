@@ -1,13 +1,10 @@
 ---
 slug: /education/technical/technical-feasibility-ai-question-generation
 title: AI-Driven Coding Question Generation
-description: Explore the technical feasibility of AI for generating high-quality,
-  unique coding questions to enhance assessment platforms.
-created: '2026-05-04'
-last_update: '2026-06-08'
+description: Explore the technical feasibility of AI for generating high-quality, unique coding questions to enhance assessment platforms.
+created: 2026-05-04
+last_update: 2026-06-08
 ---
-
-
 **Technical Feasibility: AI Question Generation**
 
 **Context:** Building AI-powered technical assessment platform to compete with HackerRank/CodeSignal by generating unique coding questions on-demand.

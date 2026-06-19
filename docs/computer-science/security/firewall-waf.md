@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/security/firewall-waf
 title: Understanding Web Application Firewalls (WAF)
-description: Learn how a Web Application Firewall (WAF) protects web apps from common
-  attacks and secures HTTP traffic.
-created: '2023-03-05'
-last_update: '2025-02-14'
+description: Learn how a Web Application Firewall (WAF) protects web apps from common attacks and secures HTTP traffic.
+created: 2023-03-05
+last_update: 2025-02-14
 ---
-
-# Firewall WAF
-
 ## Web Application Firewall (WAF)
 
 A WAF creates a shield between a web app and the Internet; this shield can help mitigate many common attacks.

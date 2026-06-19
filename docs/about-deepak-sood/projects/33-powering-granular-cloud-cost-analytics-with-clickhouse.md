@@ -1,14 +1,10 @@
 ---
 slug: /about-deepak-sood/projects/33-powering-granular-cloud-cost-analytics-with-clickhouse
 title: ClickHouse for Cloud Cost Analytics
-description: Discover how ClickHouse powers real-time granular cloud cost analytics
-  in Opstree's Unit Econ Pro platform.
-created: '2025-05-16'
-last_update: '2025-05-21'
+description: Discover how ClickHouse powers real-time granular cloud cost analytics in Opstree's Unit Econ Pro platform.
+created: 2025-05-16
+last_update: 2025-05-21
 ---
-
-# Powering Granular Cloud Cost Analytics with ClickHouse
-
 - **Product:** Unit Econ Pro – Opstree’s internal FinOps observability and optimization platform
 - **Goal:** Real-time, high-scale storage and querying of time-series **cloud cost metrics**
 - **Technology Stack:** ClickHouse, Python (ETL), Prometheus Exporters, Kubernetes, Grafana

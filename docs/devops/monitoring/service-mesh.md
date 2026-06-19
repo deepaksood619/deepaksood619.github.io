@@ -1,14 +1,10 @@
 ---
 slug: /devops/monitoring/service-mesh
 title: Understanding Service Mesh Architecture
-description: Explore how service mesh enhances service-to-service communication in
-  cloud native applications for efficient development.
-created: '2023-03-05'
-last_update: '2024-03-16'
+description: Explore how service mesh enhances service-to-service communication in cloud native applications for efficient development.
+created: 2023-03-05
+last_update: 2024-03-16
 ---
-
-# Service Mesh
-
 A service mesh is a dedicated infrastructure layer for handling service-to-service communication. It's responsible for the reliable delivery of requests through the complex topology of services that comprise a modern, cloud native application. In practice, the service mesh is typically implemented as an array of lightweight network proxies that are deployed alongside application code, without the application needing to be aware.
 
 A service mesh allows applications to offload these capabilities from application-level libraries and allow developers to focus on differentiating business logic.

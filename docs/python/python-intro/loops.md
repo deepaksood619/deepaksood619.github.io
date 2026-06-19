@@ -1,14 +1,10 @@
 ---
 slug: /python/python-intro/loops
 title: Mastering Loops and Built-In Functions in Python
-description: Explore Python loops, any() and all() built-ins, and efficient coding
-  techniques for faster data processing.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore Python loops, any() and all() built-ins, and efficient coding techniques for faster data processing.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Loops
-
 http://www.geeksforgeeks.org/any-all-in-python
 
 http://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python

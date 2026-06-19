@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/general/euclidean-algorithm-gcd
 title: Understanding the Euclidean Algorithm for GCD
-description: Learn the Euclidean algorithm to efficiently calculate the greatest common
-  divisor (GCD) of two integers with practical examples.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Learn the Euclidean algorithm to efficiently calculate the greatest common divisor (GCD) of two integers with practical examples.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Euclidean Algorithm - Gcd
-
 ## Synonyms
 
 1. Greatest Common Divisor (GCD)

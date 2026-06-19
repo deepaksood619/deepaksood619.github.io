@@ -1,14 +1,10 @@
 ---
 slug: /education/competitors/moocs/udacity-analysis
 title: Udacity's Strategic Pivot and Acquisition
-description: Explore Udacity's transformation from MOOC to vocational training leader
-  and its acquisition by Accenture in 2024.
-created: '2026-05-30'
-last_update: '2026-06-08'
+description: Explore Udacity's transformation from MOOC to vocational training leader and its acquisition by Accenture in 2024.
+created: 2026-05-30
+last_update: 2026-06-08
 ---
-
-# Udacity - The MOOC That Pivoted (And Got Acquired)
-
 **Comprehensive Competitor Analysis**
 
 ---

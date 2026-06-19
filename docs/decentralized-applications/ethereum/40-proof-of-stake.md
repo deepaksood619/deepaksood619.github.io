@@ -1,12 +1,10 @@
 ---
 slug: /decentralized-applications/ethereum/40-proof-of-stake
 title: Proof of Stake
-description: Discover how Proof of Stake (PoS) enables Ethereum validators to secure
-  the network by depositing 32 ETH and participating in block validation.
-created: '2023-07-21'
-last_update: '2025-02-14'
+description: Discover how Proof of Stake (PoS) enables Ethereum validators to secure the network by depositing 32 ETH and participating in block validation.
+created: 2023-07-21
+last_update: 2025-02-14
 ---
-
 [Proof-of-stake (PoS) | ethereum.org](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
 
 ## VALIDATORS

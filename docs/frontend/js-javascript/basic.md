@@ -1,14 +1,10 @@
 ---
 slug: /frontend/js-javascript/basic
 title: Understanding JavaScript Data Types
-description: Explore the fundamental data types in JavaScript, including primitives,
-  objects, and their importance in coding.
-created: '2023-03-05'
-last_update: '2023-12-06'
+description: Explore the fundamental data types in JavaScript, including primitives, objects, and their importance in coding.
+created: 2023-03-05
+last_update: 2023-12-06
 ---
-
-# Basic
-
 https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e
 
 ## Datatypes

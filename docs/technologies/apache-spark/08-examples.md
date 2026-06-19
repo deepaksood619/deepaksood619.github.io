@@ -1,14 +1,10 @@
 ---
 slug: /technologies/apache-spark/08-examples
 title: Data Format Conversion Examples
-description: Explore practical examples on converting SQL tables and CSV files to
-  Parquet format using PySpark.
-created: '2023-03-05'
-last_update: '2024-12-12'
+description: Explore practical examples on converting SQL tables and CSV files to Parquet format using PySpark.
+created: 2023-03-05
+last_update: 2024-12-12
 ---
-
-# Examples
-
 ```python
 # SQL table to parquet
 from pyspark.sql import SparkSession

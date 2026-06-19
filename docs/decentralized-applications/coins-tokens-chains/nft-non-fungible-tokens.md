@@ -1,12 +1,10 @@
 ---
 slug: /decentralized-applications/coins-tokens-chains/nft-non-fungible-tokens
 title: NFT (Non Fungible Tokens)
-description: Explore the world of NFTs (Non-Fungible Tokens) including PFPs, generative
-  art, and essential tools for trading and creating unique digital assets.
-created: '2023-03-05'
-last_update: '2024-03-21'
+description: Explore the world of NFTs (Non-Fungible Tokens) including PFPs, generative art, and essential tools for trading and creating unique digital assets.
+created: 2023-03-05
+last_update: 2024-03-21
 ---
-
 ## Fungible
 
 Oil is fungible, which means one barrel of crude is interchangeable with another. Once it leaves its home country, it can be nearly impossible to know where a barrel of oil originated, if its handlers so desire.

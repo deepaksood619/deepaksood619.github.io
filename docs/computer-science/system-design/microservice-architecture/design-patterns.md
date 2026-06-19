@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/system-design/microservice-architecture/design-patterns
 title: Key Microservices Design Patterns
-description: Explore essential microservices design patterns including API Gateway,
-  Event Sourcing, and Asynchronous Messaging for effective architecture.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore essential microservices design patterns including API Gateway, Event Sourcing, and Asynchronous Messaging for effective architecture.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
-# Design Patterns
-
 ## Design Patterns of Microservices
 
 1. [Aggregator](https://www.edureka.co/blog/microservices-design-patterns#Aggregator)

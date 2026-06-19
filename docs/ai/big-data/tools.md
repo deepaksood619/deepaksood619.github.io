@@ -1,12 +1,10 @@
 ---
 slug: /ai/big-data/tools
 title: Tools
-description: Discover Dagster, a powerful system for building modern data applications
-  that enhances collaboration among engineers and scientists for reliable data management.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Discover Dagster, a powerful system for building modern data applications that enhances collaboration among engineers and scientists for reliable data management.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
 ## Dagster
 
 Dagster is a system for building modern data applications. Combining an elegant programming model and beautiful tools, Dagster allows infrastructure engineers, data engineers, and data scientists to seamlessly collaborate to process and produce the trusted, reliable data needed in today's world.

@@ -1,14 +1,10 @@
 ---
 slug: /devops/devops-intro/application-management
 title: Comprehensive Application Management Services
-description: Discover effective application management techniques for optimizing software
-  performance and integrating enterprise functions.
-created: '2024-01-30'
-last_update: '2025-02-14'
+description: Discover effective application management techniques for optimizing software performance and integrating enterprise functions.
+created: 2024-01-30
+last_update: 2025-02-14
 ---
-
-# Application Management
-
 Application management provides a wide variety of application services, processes and methodologies for maintaining, enhancing and managing custom applications, packaged software applications or network-delivered applications.
 
 **Application Management** (AM) is the lifecycle process for software applications, covering how an application operates, its maintenance, version control, and upgrades from cradle to grave. Application management services are an enterprise-wide endeavor providing governance designed to ensure applications run at peak performance and as efficiently as possible, from the end-user experience to integration with enterprise back office functions such as database, ERP, and SaaS cloud functions such as CRM.

@@ -1,12 +1,10 @@
 ---
 slug: /languages/frameworks/android/others
 title: Others
-description: Explore the differences between Android TV and Google TV, and discover
-  new features in Android Studio with our comprehensive resources and guides.
-created: '2025-05-13'
-last_update: '2026-03-27'
+description: Explore the differences between Android TV and Google TV, and discover new features in Android Studio with our comprehensive resources and guides.
+created: 2025-05-13
+last_update: 2026-03-27
 ---
-
 ## Android TV vs Google TV
 
 [Android Developers Blog: Everything you need to know about Google TV and Android TV OS](https://android-developers.googleblog.com/2024/05/android-14-and-compose-on-tv.html)

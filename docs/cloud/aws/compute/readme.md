@@ -1,12 +1,10 @@
 ---
 slug: /cloud/aws/compute/readme
 title: Compute
-description: Explore AWS Compute services, including EC2, Lambda, ECS, and EKS, to
-  efficiently manage computing resources, run containers, and automate batch jobs.
-created: '2023-03-05'
-last_update: '2026-02-15'
+description: Explore AWS Compute services, including EC2, Lambda, ECS, and EKS, to efficiently manage computing resources, run containers, and automate batch jobs.
+created: 2023-03-05
+last_update: 2026-02-15
 ---
-
 - [Amazon EC2](cloud/aws/compute/amazon-ec2.md)
 - [Amazon EC2 Instance Types](cloud/aws/compute/amazon-ec2-instance-types.md)
 	- [Burstable Instances](cloud/aws/compute/burstable-instances.md)

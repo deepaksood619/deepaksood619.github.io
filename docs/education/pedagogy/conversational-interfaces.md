@@ -1,12 +1,10 @@
 ---
 slug: /education/pedagogy/conversational-interfaces
 title: The Case Against Conversational Interfaces
-description: Explore the limitations of conversational interfaces and why they may
-  not be the future of computing as anticipated.
-created: '2025-04-03'
-last_update: '2026-05-05'
+description: Explore the limitations of conversational interfaces and why they may not be the future of computing as anticipated.
+created: 2025-04-03
+last_update: 2026-05-05
 ---
-
 [The case against conversational interfaces - julian.digital](https://julianlehr.substack.com/p/the-case-against-conversational-interfaces)
 
 ## Intro

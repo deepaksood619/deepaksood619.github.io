@@ -1,13 +1,10 @@
 ---
 slug: /economics/accounting-for-finance/readme
 title: Accounting for Finance
-description: Explore comprehensive accounting concepts for finance, including income
-  statements, balance sheets, and cash flow statements, to enhance your financial
-  understanding.
-created: '2023-03-05'
-last_update: '2025-02-27'
+description: Explore comprehensive accounting concepts for finance, including income statements, balance sheets, and cash flow statements, to enhance your financial understanding.
+created: 2023-03-05
+last_update: 2025-02-27
 ---
-
 - [Accounting for Finance](0-accounting-for-finance)
 - [Accounting first steps](1-accounting-first-steps)
 - [Income Statements and Profitability Measures](2-income-statements-and-profitability-measures)

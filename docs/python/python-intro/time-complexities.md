@@ -1,14 +1,10 @@
 ---
 slug: /python/python-intro/time-complexities
 title: Understanding Time Complexities of Lists
-description: Explore average case and amortized worst case time complexities for list
-  operations and improve your performance analysis skills.
-created: '2023-03-05'
-last_update: '2024-09-17'
+description: Explore average case and amortized worst case time complexities for list operations and improve your performance analysis skills.
+created: 2023-03-05
+last_update: 2024-09-17
 ---
-
-# Time complexities
-
 ## list
 
 The Average Case assumes parameters generated uniformly at random.

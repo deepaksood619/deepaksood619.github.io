@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/business/skin-in-the-game
 title: Skin in the Game
-description: Explore Nassim Nicholas Taleb's "Skin in the Game," examining asymmetries
-  in risk and knowledge that reveal how minority preferences can shape majorities.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Explore Nassim Nicholas Taleb's "Skin in the Game," examining asymmetries in risk and knowledge that reveal how minority preferences can shape majorities.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Nassim Nicholas Taleb
 
 Skin In The Game is an assessment of asymmetries in human interactions, aimed at helping you understand where and how gaps in uncertainty, risk, knowledge, and fairness emerge, and how to close them.

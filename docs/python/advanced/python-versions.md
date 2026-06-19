@@ -1,14 +1,10 @@
 ---
 slug: /python/advanced/python-versions
 title: Understanding Python Versions
-description: Explore the differences between Python 2 and 3.7, including new features,
-  migration libraries, and reasons to upgrade for better performance.
-created: '2023-03-05'
-last_update: '2025-10-08'
+description: Explore the differences between Python 2 and 3.7, including new features, migration libraries, and reasons to upgrade for better performance.
+created: 2023-03-05
+last_update: 2025-10-08
 ---
-
-# Python Versions
-
 ## Python2 vs Python3
 
 - Python 2 automatically performs integer arithmetic if both operands are integers

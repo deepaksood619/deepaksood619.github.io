@@ -1,12 +1,10 @@
 ---
 slug: /ai/ml-fundamentals/ml-process
 title: ML Process
-description: Discover the key steps in the ML process, from data acquisition to analysis
-  and application, all aimed at achieving clear goals and objectives.
-created: '2023-03-05'
-last_update: '2023-05-08'
+description: Discover the key steps in the ML process, from data acquisition to analysis and application, all aimed at achieving clear goals and objectives.
+created: 2023-03-05
+last_update: 2023-05-08
 ---
-
 ML Process
 
 1. Acquire data

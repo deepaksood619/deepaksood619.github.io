@@ -1,12 +1,10 @@
 ---
 slug: /ai/ml-fundamentals/table-of-contents
 title: Table of contents
-description: Explore the comprehensive table of contents for deep learning topics,
-  including linear networks, regression techniques, and implementation guides.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the comprehensive table of contents for deep learning topics, including linear networks, regression techniques, and implementation guides.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 ## Preface - https://d2l.ai/chapter_preface/index.html
 
 ## Notation - https://d2l.ai/chapter_notation/index.html

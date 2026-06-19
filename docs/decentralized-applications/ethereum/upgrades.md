@@ -1,12 +1,10 @@
 ---
 slug: /decentralized-applications/ethereum/upgrades
 title: Upgrades
-description: Discover Ethereum upgrades, including The Merge, which transitioned to
-  proof-of-stake, reducing energy consumption by 99.95% and enhancing blockchain efficiency.
-created: '2023-03-14'
-last_update: '2025-11-09'
+description: Discover Ethereum upgrades, including The Merge, which transitioned to proof-of-stake, reducing energy consumption by 99.95% and enhancing blockchain efficiency.
+created: 2023-03-14
+last_update: 2025-11-09
 ---
-
 [Ethereum vision | ethereum.org](https://ethereum.org/en/roadmap/vision/)
 
 [ETHEREUM 2.0 - A GAME CHANGER? Proof Of Stake, The Beacon Chain, Sharding, Docking Explained - YouTube](https://www.youtube.com/watch?v=ctzGr58_jeI)

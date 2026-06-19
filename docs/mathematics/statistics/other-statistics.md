@@ -1,12 +1,10 @@
 ---
 slug: /mathematics/statistics/other-statistics
 title: Other Statistics
-description: Explore key concepts of other statistics, including Gaussian noise and
-  monotonic functions, vital for data analysis and communication channel modeling.
-created: '2023-03-05'
-last_update: '2024-11-13'
+description: Explore key concepts of other statistics, including Gaussian noise and monotonic functions, vital for data analysis and communication channel modeling.
+created: 2023-03-05
+last_update: 2024-11-13
 ---
-
 ## Gaussian Noise
 
 Gaussian noise is statistical noise having a probability density function (PDF) equal to that of the normal distribution, which is also known as the Gaussian distribution. In other words, the values that the noise can take on are Gaussian-distributed

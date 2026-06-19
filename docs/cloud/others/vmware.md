@@ -1,12 +1,10 @@
 ---
 slug: /cloud/others/vmware
 title: VMware
-description: Discover VMware ESXi, the high-performance bare-metal hypervisor that
-  enhances virtualization efficiency and scalability for large-scale environments.
-created: '2023-12-23'
-last_update: '2025-02-14'
+description: Discover VMware ESXi, the high-performance bare-metal hypervisor that enhances virtualization efficiency and scalability for large-scale environments.
+created: 2023-12-23
+last_update: 2025-02-14
 ---
-
 ## VMware ESXi
 
 VMware ESXi is the bare-metal hypervisor in the VMware vSphere virtualization platform. As a bare-metal hypervisor for creating and running [virtual machines (VMs)](https://www.parallels.com/blogs/ras/virtual-machine/), VMware ESXi runs on top and [accesses the hardware directly](https://en.wikipedia.org/wiki/VMware_ESXi) without the need to install an operating system. This direct access to hardware allows it to perform better, run faster and be more scalable than other types of hypervisors. This makes VMware ESXi ideal for use in a large-scale [virtual desktop infrastructure (VDI)](https://www.parallels.com/products/ras/remote-application-server/), in conjunction with the other components in the VMware vSphere platform.

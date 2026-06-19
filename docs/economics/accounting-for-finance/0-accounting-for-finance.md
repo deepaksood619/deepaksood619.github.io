@@ -1,12 +1,10 @@
 ---
 slug: /economics/accounting-for-finance/0-accounting-for-finance
 title: 0 Accounting for Finance
-description: Explore the fundamentals of accounting for finance through engaging webcasts
-  that focus on financial statement analysis and valuation perspectives.
-created: '2023-03-05'
-last_update: '2025-08-20'
+description: Explore the fundamentals of accounting for finance through engaging webcasts that focus on financial statement analysis and valuation perspectives.
+created: 2023-03-05
+last_update: 2025-08-20
 ---
-
 [Accounting 101 (taught by a non-accountant)](https://www.youtube.com/playlist?list=PLUkh9m2BorqmKaLrNBjKtFDhpdFdi8f7C)
 
 This is a course of short webcasts (about 12-20 minutes apiece), designed to introduce you to the basics of accounting, but more from the perspective of a user of financial statements than from someone who cares about accounting rules and standards. So, be forewarned! I have no qualms about saying terrible things about accounting standards and rule writers, rewriting accounting rules to fit my perspectives on valuation and corporate finance, and ignoring vast segments of accounting statements as useless in financial analysis.

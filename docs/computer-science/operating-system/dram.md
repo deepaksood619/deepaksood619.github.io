@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/operating-system/dram
 title: Understanding DRAM Technology
-description: Explore dynamic random-access memory (DRAM) basics, its structure, and
-  function in modern electronic devices.
-created: '2023-03-05'
-last_update: '2024-02-13'
+description: Explore dynamic random-access memory (DRAM) basics, its structure, and function in modern electronic devices.
+created: 2023-03-05
+last_update: 2024-02-13
 ---
-
-# DRAM
-
 Dynamic random-access memory (DRAM) is a type of [random access](https://en.wikipedia.org/wiki/Random-access_memory)[semiconductor memory](https://en.wikipedia.org/wiki/Semiconductor_memory) that stores each [bit](https://en.wikipedia.org/wiki/Bit) of data in a [memory cell](https://en.wikipedia.org/wiki/Memory_cell_(computing)) consisting of a tiny [capacitor](https://en.wikipedia.org/wiki/Capacitor) and a [transistor](https://en.wikipedia.org/wiki/Transistor), both typically based on [metal-oxide-semiconductor](https://en.wikipedia.org/wiki/Metal-oxide-semiconductor)(MOS) technology. The capacitor can either be charged or discharged; these two states are taken to represent the two values of a bit, conventionally called 0 and 1. The [electric charge](https://en.wikipedia.org/wiki/Electric_charge) on the capacitors slowly leaks off, so without intervention the data on the chip would soon be lost. To prevent this, DRAM requires an external [memory refresh](https://en.wikipedia.org/wiki/Memory_refresh) circuit which periodically rewrites the data in the capacitors, restoring them to their original charge. This refresh process is the defining characteristic of dynamic random-access memory, in contrast to [static random-access memory](https://en.wikipedia.org/wiki/Static_random-access_memory)(SRAM) which does not require data to be refreshed. Unlike [flash memory](https://en.wikipedia.org/wiki/Flash_memory), DRAM is [volatile memory](https://en.wikipedia.org/wiki/Volatile_memory)(vs.[non-volatile memory](https://en.wikipedia.org/wiki/Non-volatile_memory)), since it loses its data quickly when power is removed. However, DRAM does exhibit limited [data remanence](https://en.wikipedia.org/wiki/Data_remanence).
 
 DRAM typically takes the form of an [integrated circuit](https://en.wikipedia.org/wiki/Integrated_circuit) chip, which can consist of dozens to billions of DRAM memory cells. DRAM chips are widely used in [digital electronics](https://en.wikipedia.org/wiki/Digital_electronics) where low-cost and high-capacity [computer memory](https://en.wikipedia.org/wiki/Computer_memory) is required. One of the largest applications for DRAM is the [main memory](https://en.wikipedia.org/wiki/Main_memory)(colloquially called the "RAM") in modern [computers](https://en.wikipedia.org/wiki/Computer) and [graphics cards](https://en.wikipedia.org/wiki/Graphics_card)(where the "main memory" is called thegraphics memory). It is also used in many portable devices and [video game](https://en.wikipedia.org/wiki/Video_game) consoles. In contrast, SRAM, which is faster and more expensive than DRAM, is typically used where speed is of greater concern than cost and size, such as the [cache memories](https://en.wikipedia.org/wiki/CPU_cache) in [processors](https://en.wikipedia.org/wiki/Central_processing_unit).

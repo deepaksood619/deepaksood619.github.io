@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/psychology/switch-on-your-brain
 title: Switch on your brain
-description: Unlock your potential with our 21-day brain detox plan to transform toxic
-  thoughts, enhance awareness, and foster a healthier mindset.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Unlock your potential with our 21-day brain detox plan to transform toxic thoughts, enhance awareness, and foster a healthier mindset.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 - Watch your thoughts - for they become your actions, which, in turn, become your character and destiny
 - Free will is not an illusion
 - Humans are the only one that can think about thinking - Multiple Perspective Advantage, MPA

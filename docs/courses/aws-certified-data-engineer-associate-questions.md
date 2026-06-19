@@ -1,12 +1,10 @@
 ---
 slug: /courses/aws-certified-data-engineer-associate-questions
 title: AWS Certified Data Engineer - Associate Questions
-description: Explore AWS Certified Data Engineer - Associate exam questions to enhance
-  your skills in data management, cloud solutions, and Amazon S3 integration.
-created: '2024-03-17'
-last_update: '2025-02-14'
+description: Explore AWS Certified Data Engineer - Associate exam questions to enhance your skills in data management, cloud solutions, and Amazon S3 integration.
+created: 2024-03-17
+last_update: 2025-02-14
 ---
-
 [AWS Certified Data Engineer - Associate DEA-C01 Exam - Free Exam Q&As, Page 1 | ExamTopics](https://www.examtopics.com/exams/amazon/aws-certified-data-engineer-associate-dea-c01/view/)
 
 ## Question 1

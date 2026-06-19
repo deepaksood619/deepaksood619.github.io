@@ -1,12 +1,10 @@
 ---
 slug: /ai/ml-algorithms/non-linear-regression
 title: Non linear regression
-description: Explore non-linear regression techniques, including optimization methods,
-  generalized models, and strategies like steepest descent and genetic algorithms.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore non-linear regression techniques, including optimization methods, generalized models, and strategies like steepest descent and genetic algorithms.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
 ## Non-linear Regression
 
 - We can generalize further to models that are nonlinear:

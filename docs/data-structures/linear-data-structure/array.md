@@ -1,14 +1,10 @@
 ---
 slug: /data-structures/linear-data-structure/array
 title: Understanding Arrays in Programming
-description: Learn about arrays, their structure, types of indexing, and how they
-  store data efficiently in programming.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Learn about arrays, their structure, types of indexing, and how they store data efficiently in programming.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
-# Array
-
 ## Points to remember
 
 1. Implicit Data Structure

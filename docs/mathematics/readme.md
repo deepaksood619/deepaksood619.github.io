@@ -1,12 +1,10 @@
 ---
 slug: /mathematics/readme
 title: Mathematics
-description: Explore the world of Mathematics, covering topics like Geometry, Algebra,
-  Calculus, and more, to enhance your understanding and skills in the subject.
-created: '2023-03-05'
-last_update: '2024-03-18'
+description: Explore the world of Mathematics, covering topics like Geometry, Algebra, Calculus, and more, to enhance your understanding and skills in the subject.
+created: 2023-03-05
+last_update: 2024-03-18
 ---
-
 - [Mahematics General](mathematics/general/readme.md)
 - [Geometry](geometry/readme.md)
 - [Algebra](algebra/readme.md)

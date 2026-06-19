@@ -1,12 +1,10 @@
 ---
 slug: /psychology/defence-mechanisms
 title: Defence Mechanisms
-description: Explore the fascinating world of Defence Mechanisms, uncovering how our
-  minds protect us from uncomfortable truths about ourselves and our identities.
-created: '2023-09-22'
-last_update: '2023-09-22'
+description: Explore the fascinating world of Defence Mechanisms, uncovering how our minds protect us from uncomfortable truths about ourselves and our identities.
+created: 2023-09-22
+last_update: 2023-09-22
 ---
-
 Getting to know ourselves better sounds, on the surface, like a project we might all buy into. But this is to underestimate the extent to which are, just below the surface, typically highly invested in not getting to know or feel a range of important but troubling things about who we are. Whatever lipservice we may pay to the project of self-knowledge, we would - it seems - very much like not to know a great deal about our identities.
 
 In order to shield us from ourselves, we rely on techniques known as Mechanisms of Defence, a range of astonishingly clever internal manoeuvres that subtly enable us to expel uncomfortable ideas from awareness without alerting our conscience and so return us to a blind placid equilibrium. It is thanks to Mechanisms of Defence that we’re able to convince ourselves that we hate someone we’re actually drawn to (but can’t have) or that we get depressed in lieu of getting angry with a person who has done us wrong but who we want to believe is good.

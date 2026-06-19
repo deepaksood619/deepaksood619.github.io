@@ -1,12 +1,10 @@
 ---
 slug: /ai/computer-vision-cv/mnist-for-ml-beginners-tensorflow
 title: MNIST For ML Beginners | TensorFlow
-description: Learn how to train a simple Softmax Regression model using the MNIST
-  dataset in TensorFlow to recognize handwritten digits efficiently.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Learn how to train a simple Softmax Regression model using the MNIST dataset in TensorFlow to recognize handwritten digits efficiently.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
 When one learns how to program, there's a tradition that the first thing you do is print "Hello World." Just like programming has Hello World, machine learning has MNIST.
 
 MNIST is a simple computer vision dataset. It consists of images of handwritten digits like these:

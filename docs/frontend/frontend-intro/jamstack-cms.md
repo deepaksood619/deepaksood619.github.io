@@ -1,14 +1,10 @@
 ---
 slug: /frontend/frontend-intro/jamstack-cms
 title: Understanding JAMstack and CMS
-description: Explore how JAMstack architecture enhances web development with improved
-  performance, security, and a streamlined developer experience.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Explore how JAMstack architecture enhances web development with improved performance, security, and a streamlined developer experience.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
-# JAMstack / CMS
-
 Modern Web-development architecture based on Client-side JavaScript, resuable APIs and prebuild Markup
 
 When we talk about "The Stack," we no longer talk about operating systems, specific web servers, backend programming languages, or databases.

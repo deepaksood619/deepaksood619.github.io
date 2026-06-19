@@ -1,13 +1,10 @@
 ---
 slug: /ai/data-visualization/intro
 title: Data Visualization
-description: Explore data visualization techniques, from exploratory to explanatory
-  graphics, to communicate complex information clearly and effectively through visual
-  means.
-created: '2023-03-05'
-last_update: '2026-06-17'
+description: Explore data visualization techniques, from exploratory to explanatory graphics, to communicate complex information clearly and effectively through visual means.
+created: 2023-03-05
+last_update: 2026-06-17
 ---
-
 ## Exploratory and Explanatory visualization
 
 Data visualizationis viewed by many disciplines as a modern equivalent of [visual communication](https://en.wikipedia.org/wiki/Visual_communication). It involves the creation and study of the [visual](https://en.wikipedia.org/wiki/Visual_system) representation of [data](https://en.wikipedia.org/wiki/Data).

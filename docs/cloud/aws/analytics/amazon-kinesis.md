@@ -1,12 +1,10 @@
 ---
 slug: /cloud/aws/analytics/amazon-kinesis
 title: Amazon Kinesis
-description: Discover Amazon Kinesis for real-time streaming data processing and analytics,
-  handling high volumes from various sources for immediate insights and actions.
-created: '2024-07-11'
-last_update: '2025-11-12'
+description: Discover Amazon Kinesis for real-time streaming data processing and analytics, handling high volumes from various sources for immediate insights and actions.
+created: 2024-07-11
+last_update: 2025-11-12
 ---
-
 Work with Real-time Streaming Data
 
 AWS Kinesis is a suite of services designed to handle real-time data streaming at scale. It allows you to collect, process, and analyze data as it is generated, enabling real-time insights and actions. AWS Kinesis includes several components, each tailored for different aspects of streaming data:

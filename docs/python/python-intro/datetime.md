@@ -1,14 +1,10 @@
 ---
 slug: /python/python-intro/datetime
 title: Understanding Python DateTime and Time
-description: Explore Python's DateTime module, including concepts like ticks and time
-  tuples, along with performance monitoring techniques.
-created: '2023-03-05'
-last_update: '2024-05-12'
+description: Explore Python's DateTime module, including concepts like ticks and time tuples, along with performance monitoring techniques.
+created: 2023-03-05
+last_update: 2024-05-12
 ---
-
-# DateTime
-
 ## Concepts
 
 1. Tick

@@ -1,13 +1,10 @@
 ---
 slug: /ideas/intro
 title: Intro
-description: Discover essential insights and inspirations for startups, focusing on
-  innovative ideas and effective time management strategies to boost your entrepreneurial
-  journey.
-created: '2023-03-05'
-last_update: '2026-05-29'
+description: Discover essential insights and inspirations for startups, focusing on innovative ideas and effective time management strategies to boost your entrepreneurial journey.
+created: 2023-03-05
+last_update: 2026-05-29
 ---
-
 Once an idea has taken hold of the brain it's almost impossible to eradicate. An idea that is fully formed - fully understood - that sticks; right in there somewhere. -- Inception
 
 ## Inspirations

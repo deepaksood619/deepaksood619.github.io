@@ -1,12 +1,10 @@
 ---
 slug: /ai/move-37/q-learning-algorithms
 title: Q-Learning Algorithms
-description: Discover Q-Learning algorithms, a key Reinforcement Learning approach
-  that evaluates state-action values for optimal decision-making.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Discover Q-Learning algorithms, a key Reinforcement Learning approach that evaluates state-action values for optimal decision-making.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
 Q-Learning algorithms are a family of Reinforcement Learning algorithms.
 
 Unlike policy gradient methods, which attempt to learn functions which directly map an observation to an action, Q-Learning attempts to learn the value of being in a given state, and taking a specific action there.

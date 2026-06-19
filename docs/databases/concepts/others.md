@@ -1,14 +1,10 @@
 ---
 slug: /databases/concepts/others
-title: 'Understanding JDBC: Java Database Connectivity'
-description: Explore JDBC, the API for Java that enables seamless database connectivity
-  and interaction with relational databases.
-created: '2023-03-05'
-last_update: '2023-12-05'
+title: "Understanding JDBC: Java Database Connectivity"
+description: Explore JDBC, the API for Java that enables seamless database connectivity and interaction with relational databases.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Others
-
 ## JDBC - Java Database Connectivity
 
 Java Database Connectivity (JDBC) is an [application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface)(API) for the programming language [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), which defines how a client may access a [database](https://en.wikipedia.org/wiki/Database). It is a Java-based data access technology used for Java database connectivity. It is part of the [Java Standard Edition](https://en.wikipedia.org/wiki/Java_Standard_Edition) platform, from [Oracle Corporation](https://en.wikipedia.org/wiki/Oracle_Corporation). It provides methods to query and update data in a database, and is oriented towards [relational databases](https://en.wikipedia.org/wiki/Relational_database). A JDBC-to-[ODBC](https://en.wikipedia.org/wiki/ODBC) bridge enables connections to any ODBC-accessible data source in the [Java virtual machine](https://en.wikipedia.org/wiki/Java_virtual_machine)(JVM) host environment

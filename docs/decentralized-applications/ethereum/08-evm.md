@@ -1,12 +1,10 @@
 ---
 slug: /decentralized-applications/ethereum/08-evm
 title: EVM - Ethereum Virtual Machine
-description: Discover the Ethereum Virtual Machine (EVM), the core component enabling
-  smart contracts and accounts within the immutable, distributed Ethereum ecosystem.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Discover the Ethereum Virtual Machine (EVM), the core component enabling smart contracts and accounts within the immutable, distributed Ethereum ecosystem.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
 The EVM’s physical instantiation can’t be described in the same way that one might point to a cloud or an ocean wave, but it does _exist_ as one single entity maintained by thousands of connected computers running an Ethereum client.
 
 The Ethereum protocol itself exists solely for the purpose of keeping the continuous, uninterrupted, and immutable operation of this special state machine. It's the environment in which all Ethereum accounts and smart contracts live. At any given block in the chain, Ethereum has one and only one 'canonical' state, and the EVM is what defines the rules for computing a new valid state from block to block.

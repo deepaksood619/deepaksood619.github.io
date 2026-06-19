@@ -1,12 +1,10 @@
 ---
 slug: /ideas/non-profit
 title: Non Profit
-description: Experience a community-driven nonprofit that offers free breakfast and
-  a transparent SAAS marketplace, empowering homeless individuals through pooled contributions.
-created: '2023-03-05'
-last_update: '2026-06-03'
+description: Experience a community-driven nonprofit that offers free breakfast and a transparent SAAS marketplace, empowering homeless individuals through pooled contributions.
+created: 2023-03-05
+last_update: 2026-06-03
 ---
-
 **Homeless shelter run by homeless people**
 
 **Free/Subsidised Breakfast Food using donations (Community Kitchen - Self funded)**

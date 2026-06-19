@@ -1,14 +1,10 @@
 ---
 slug: /management/marketing-sales/marketing-intro
 title: Marketing Essentials Overview
-description: Explore key marketing concepts like charm pricing, ORM, and the importance
-  of customer satisfaction for business success.
-created: '2025-04-29'
-last_update: '2026-06-18'
+description: Explore key marketing concepts like charm pricing, ORM, and the importance of customer satisfaction for business success.
+created: 2025-04-29
+last_update: 2026-06-18
 ---
-
-# Marketing Intro
-
 ## Consumer Immersion Exercise
 
 ## ORM - Online Reputation Management

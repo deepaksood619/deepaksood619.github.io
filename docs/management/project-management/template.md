@@ -1,14 +1,10 @@
 ---
 slug: /management/project-management/template
 title: Free Google Sheets Templates
-description: Discover 11 free Google Sheets templates for effective project management,
-  helping you streamline tasks, track progress, and boost productivity efficiently.
-created: '2023-06-07'
-last_update: '2025-12-16'
+description: Discover 11 free Google Sheets templates for effective project management, helping you streamline tasks, track progress, and boost productivity efficiently.
+created: 2023-06-07
+last_update: 2025-12-16
 ---
-
-# Template
-
 [11 Free Google Sheets Project Management Templates](https://www.smartsheet.com/content/google-sheets-project-management-templates)
 
 ### 1. Summary

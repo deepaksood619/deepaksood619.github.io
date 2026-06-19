@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/geography/mountains
 title: Mountains
-description: Discover Mount Kilimanjaro, Africa's highest peak, and explore scenic
-  routes like Machame and Lemosho for an unforgettable climbing adventure.
-created: '2026-06-06'
-last_update: '2026-06-06'
+description: Discover Mount Kilimanjaro, Africa's highest peak, and explore scenic routes like Machame and Lemosho for an unforgettable climbing adventure.
+created: 2026-06-06
+last_update: 2026-06-06
 ---
-
 ## MOUNT KILIMANJARO - Tanzania · 5,895 m · Roof of Africa
 
 Mount Kilimanjaro is Africa's highest peak and the world's tallest free-standing mountain, rising to 5,895 m above the Tanzanian plains. A non-technical climb, it demands no ropes or technical gear — but the altitude is serious. Proper acclimatisation is the single greatest factor in reaching Uhuru Peak. Two routes stand out for scenic beauty and summit success: Machame (the 'Whiskey Route') and Lemosho, our highest-recommended option for those with time. Both share the same summit push and descent via the Mweka trail

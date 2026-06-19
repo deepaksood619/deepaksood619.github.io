@@ -1,14 +1,10 @@
 ---
 slug: /python/python-intro/map-reduce-filter
 title: Map, Reduce, and Filter in Python
-description: Explore how to use map, reduce, and filter functions in Python for elegant
-  data manipulation and transformation.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Explore how to use map, reduce, and filter functions in Python for elegant data manipulation and transformation.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
-# Map, reduce, filter
-
 ## Map
 
 ```python

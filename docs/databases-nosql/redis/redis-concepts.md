@@ -1,13 +1,10 @@
 ---
 slug: /databases-nosql/redis/redis-concepts
 title: Redis Concepts
-description: Explore essential Redis concepts, including the importance of efficient
-  key design, key safety, and best practices for optimal performance in your data
-  management.
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Explore essential Redis concepts, including the importance of efficient key design, key safety, and best practices for optimal performance in your data management.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
 ## Redis keys
 
 Redis keys are binary safe, this means that you can use any binary sequence as a key, from a string like "foo" to the content of a JPEG file. The empty string is also a valid key.

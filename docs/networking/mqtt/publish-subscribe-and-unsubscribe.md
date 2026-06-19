@@ -1,14 +1,10 @@
 ---
 slug: /networking/mqtt/publish-subscribe-and-unsubscribe
 title: Understanding Publish-Subscribe in MQTT
-description: Learn how to effectively use publish, subscribe, and unsubscribe functions
-  in MQTT for seamless data communication.
-created: '2023-03-05'
-last_update: '2025-03-04'
+description: Learn how to effectively use publish, subscribe, and unsubscribe functions in MQTT for seamless data communication.
+created: 2023-03-05
+last_update: 2025-03-04
 ---
-
-# Publish, Subscribe & Unsubscribe
-
 ## Publish
 
 An MQTT client can publish messages as soon as it connects to a broker. MQTT utilizes topic-based filtering of the messages on the broker.Each message must contain a topic that the broker can use to forward the message to interested clients. Typically, each message has a payload which contains the data to transmit in byte format.MQTT is data-agnostic. The use case of the client determines how the payload is structured. The sending client (publisher) decides whether it wants to send binary data, text data, or even full-fledged XML or JSON.

@@ -1,12 +1,10 @@
 ---
 slug: /psychology/procrastination
 title: Procrastination
-description: Explore the challenges of procrastination and akrasia, uncovering strategies
-  to enhance productivity and overcome self-sabotage effectively.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the challenges of procrastination and akrasia, uncovering strategies to enhance productivity and overcome self-sabotage effectively.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 Procrastination and Lazyness are the biggest disability of all.
 
 Planning and preparation are useful until they become a form of procrastination.

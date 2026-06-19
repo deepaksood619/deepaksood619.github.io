@@ -1,13 +1,10 @@
 ---
 slug: /ai/model-evaluation/model-validation-monitoring
 title: Model Validation / Monitoring
-description: Ensure robust model performance with comprehensive validation techniques,
-  including in-time and out-of-time validation, for accurate predictions on unseen
-  data.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Ensure robust model performance with comprehensive validation techniques, including in-time and out-of-time validation, for accurate predictions on unseen data.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
 ### Poor model performance on unseen data
 
 If the model has not been validated properly then it would not be able to perform well on the unseen data which is the ultimate purpose of a predictive model. There are various model validation techniques, the most important categories would be In time validation and Out of time validation.

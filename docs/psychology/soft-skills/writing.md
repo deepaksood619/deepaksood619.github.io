@@ -1,14 +1,10 @@
 ---
 slug: /psychology/soft-skills/writing
 title: Effective Writing Tips for Newsletters
-description: Learn how to engage your audience with useful writing tips for newsletters
-  and enhance your communication skills.
-created: '2023-03-05'
-last_update: '2026-06-18'
+description: Learn how to engage your audience with useful writing tips for newsletters and enhance your communication skills.
+created: 2023-03-05
+last_update: 2026-06-18
 ---
-
-# Writing / Newsletter
-
 "Don't write to sound smart. Write to be useful.
 
 If you're useful over a long time period, you will end up looking smart anyway."

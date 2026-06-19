@@ -1,12 +1,10 @@
 ---
 slug: /about-deepak-sood/projects/71-opstree-standard-proposal-format
 title: Opstree Standard Proposal Format
-description: Explore the Opstree Standard Proposal Format, designed to clearly outline
-  service offerings and project management strategies.
-created: '2024-09-08'
-last_update: '2025-09-28'
+description: Explore the Opstree Standard Proposal Format, designed to clearly outline service offerings and project management strategies.
+created: 2024-09-08
+last_update: 2025-09-28
 ---
-
 Landing Page
 
 Who We Are

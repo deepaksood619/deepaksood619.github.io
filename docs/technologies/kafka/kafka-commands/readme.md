@@ -1,14 +1,10 @@
 ---
 slug: /technologies/kafka/kafka-commands/readme
 title: Essential Kafka Commands Guide
-description: Explore key Kafka commands for setup, topics, producers, and consumers
-  to enhance your streaming applications.
-created: '2026-03-21'
-last_update: '2026-03-21'
+description: Explore key Kafka commands for setup, topics, producers, and consumers to enhance your streaming applications.
+created: 2026-03-21
+last_update: 2026-03-21
 ---
-
-# Kafka Commands
-
 - [00-kafka-setup](technologies/kafka/kafka-commands/00-kafka-setup.md)
 - [01-kafka-topics](technologies/kafka/kafka-commands/01-kafka-topics.md)
 - [02-kafka-producers](technologies/kafka/kafka-commands/02-kafka-producers.md)

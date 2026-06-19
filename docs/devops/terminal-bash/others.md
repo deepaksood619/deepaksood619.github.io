@@ -1,14 +1,10 @@
 ---
 slug: /devops/terminal-bash/others
 title: Understanding Boot Process Steps
-description: Learn the essential steps of the boot process, from BIOS/UEFI initialization
-  to OS loading and system startup.
-created: '2023-03-05'
-last_update: '2026-06-17'
+description: Learn the essential steps of the boot process, from BIOS/UEFI initialization to OS loading and system startup.
+created: 2023-03-05
+last_update: 2026-06-17
 ---
-
-# Others
-
 ## Boot
 
 1. When we turn on the power, BIOS (Basic Input/Output System) or UEFI (Unified Extensible Firmware Interface) firmware is loaded from non-volatile memory, and executes POST (Power On Self Test).

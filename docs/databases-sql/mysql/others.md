@@ -1,12 +1,10 @@
 ---
 slug: /databases-sql/mysql/others
 title: Others
-description: Discover MySQL table limits, including maximum columns, row sizes, and
-  unique indexing with NULL values to optimize your database design and performance.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Discover MySQL table limits, including maximum columns, row sizes, and unique indexing with NULL values to optimize your database design and performance.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
 ## Facts
 
 MySQL has hard limit of **4096 columns per table**, but the effective maximum may be less for a given table. The exact column limit depends on several factors: The maximum row size for a table constrains the number (and possibly size) of columns because the total length of all columns cannot exceed this size

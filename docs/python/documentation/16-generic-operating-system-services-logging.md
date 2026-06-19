@@ -1,14 +1,10 @@
 ---
 slug: /python/documentation/16-generic-operating-system-services-logging
 title: Python Operating System Logging Services
-description: Explore Python's logging facility and core OS services for effective
-  application monitoring and management.
-created: '2023-03-05'
-last_update: '2024-07-30'
+description: Explore Python's logging facility and core OS services for effective application monitoring and management.
+created: 2023-03-05
+last_update: 2024-07-30
 ---
-
-# 16. Generic Operating System Services / Logging
-
 [16.1.os - Miscellaneous operating system interfaces](https://docs.python.org/3/library/os.html)
 
 [16.2.io - Core tools for working with streams](https://docs.python.org/3/library/io.html)

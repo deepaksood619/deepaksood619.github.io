@@ -1,14 +1,10 @@
 ---
 slug: /technologies/kafka/kafka-message-key
 title: Understanding Kafka Message Key
-description: Learn about Kafka message keys, their role in partitioning, message order,
-  and efficient load distribution in Kafka topics.
-created: '2026-01-02'
-last_update: '2026-01-25'
+description: Learn about Kafka message keys, their role in partitioning, message order, and efficient load distribution in Kafka topics.
+created: 2026-01-02
+last_update: 2026-01-25
 ---
-
-# Kafka Message Key
-
 Kafka message key is crucial for partitioning, ensuring message order, and distributing load.
 
 A Kafka message key is an attribute that you can assign to a message in a Kafka topic. Each Kafka message consists of two primary components: a **key** and a **value**. While the value is the actual data payload, the key determines which partition the message will go to. Kafka uses the key to generate a hash, which determines the specific partition to which the message will be routed.

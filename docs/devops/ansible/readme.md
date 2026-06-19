@@ -1,14 +1,10 @@
 ---
 slug: /devops/ansible/readme
 title: Ansible Automation Overview
-description: Explore Ansible's features for automation, including orchestration, configuration
-  management, and efficient application deployment.
-created: '2023-03-05'
-last_update: '2024-03-16'
+description: Explore Ansible's features for automation, including orchestration, configuration management, and efficient application deployment.
+created: 2023-03-05
+last_update: 2024-03-16
 ---
-
-# Ansible
-
 ## Features
 
 - Automation system

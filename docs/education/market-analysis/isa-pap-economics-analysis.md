@@ -1,14 +1,10 @@
 ---
 slug: /education/market-analysis/isa-pap-economics-analysis
 title: ISA/PAP Economics Analysis
-description: Explore the financial viability of deferred tuition models with insights
-  on break-even, unit economics, and cash flow.
-created: '2026-06-09'
-last_update: '2026-06-09'
+description: Explore the financial viability of deferred tuition models with insights on break-even, unit economics, and cash flow.
+created: 2026-06-09
+last_update: 2026-06-09
 ---
-
-# ISA/PAP Economics Analysis: Break-Even, Unit Economics, Cash Flow
-
 **Last Updated:** June 2026
 
 **Category:** Market Analysis - Financial Viability of Deferred Tuition Models

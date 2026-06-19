@@ -1,12 +1,10 @@
 ---
 slug: /cloud/azure/vms
 title: VMs
-description: Discover a range of Azure virtual machines (VMs) from entry-level A-Series
-  to optimized E-Series, catering to various performance and pricing needs.
-created: '2025-07-03'
-last_update: '2025-11-09'
+description: Discover a range of Azure virtual machines (VMs) from entry-level A-Series to optimized E-Series, catering to various performance and pricing needs.
+created: 2025-07-03
+last_update: 2025-11-09
 ---
-
 - A-Series - Entry-level VMs for dev/test - starting from $11.68 /per month
 - Bs-Series - Economical burstable VMs - starting from $3.80 /per month
 	- In Azure, CPU credits on B-series virtual machines (VMs) are consumed when a VM's CPU utilization exceeds its base performance level. These VMs accumulate credits when running below their base performance and spend them when running above it, allowing for short bursts of high CPU usage. If a VM runs out of credits, it's throttled back to its base CPU performance until it accumulates more.

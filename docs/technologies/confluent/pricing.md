@@ -1,14 +1,10 @@
 ---
 slug: /technologies/confluent/pricing
 title: Confluent Pricing Overview
-description: Explore Confluent's pricing plans for Cloud services, starting from $0/month.
-  Find the best option for your Apache Kafka needs.
-created: '2025-12-20'
-last_update: '2026-02-15'
+description: Explore Confluent's pricing plans for Cloud services, starting from $0/month. Find the best option for your Apache Kafka needs.
+created: 2025-12-20
+last_update: 2026-02-15
 ---
-
-# Pricing
-
 [Confluent’s Offerings \| Apache Kafka 101 (2025 Edition) - YouTube](https://www.youtube.com/watch?v=Nz9OmfQeM-Q)
 
 ![Confluent's Offerings](../../media/Screenshot%202025-12-18%20at%206.50.07%20PM.png)

@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/biology/nutrition/chart
 title: Chart
-description: Discover essential sodium intake guidelines and key vitamins and minerals
-  to maintain your health while preventing high blood pressure and related conditions.
-created: '2023-03-05'
-last_update: '2025-08-09'
+description: Discover essential sodium intake guidelines and key vitamins and minerals to maintain your health while preventing high blood pressure and related conditions.
+created: 2023-03-05
+last_update: 2025-08-09
 ---
-
 Sodium is a necessary mineral. But health organizations typically recommend that healthy adults limit sodium intake to less than 2,300 mg (about **one teaspoon** of salt) per day to prevent conditions like high blood pressure.
 
 ## Vitamins and minerals

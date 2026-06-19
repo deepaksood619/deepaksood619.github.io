@@ -1,12 +1,10 @@
 ---
 slug: /databases-sql/mysql/backup-policy
 title: Backup Policy
-description: Learn how to implement an effective backup policy for MySQL using mysqldump
-  for full backups of InnoDB tables and ensure data safety.
-created: '2024-05-26'
-last_update: '2025-07-25'
+description: Learn how to implement an effective backup policy for MySQL using mysqldump for full backups of InnoDB tables and ensure data safety.
+created: 2024-05-26
+last_update: 2025-07-25
 ---
-
 ## Full Backups
 
 To be useful, backups must be scheduled regularly. A full backup (a snapshot of the data at a point in time) can be done in MySQL with several tools. For example, [MySQL Enterprise Backup](https://dev.mysql.com/doc/refman/5.7/en/mysql-enterprise-backup.html) can perform a [physical backup](https://dev.mysql.com/doc/refman/5.7/en/glossary.html#glos_physical_backup) of an entire instance, with optimizations to minimize overhead and avoid disruption when backing up `InnoDB` data files; **mysqldump** provides online [logical backup](https://dev.mysql.com/doc/refman/5.7/en/glossary.html#glos_logical_backup). This discussion uses **mysqldump**.

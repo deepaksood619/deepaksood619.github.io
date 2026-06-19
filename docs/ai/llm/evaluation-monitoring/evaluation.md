@@ -1,12 +1,10 @@
 ---
 slug: /ai/llm/evaluation-monitoring/evaluation
 title: Evaluation
-description: Explore powerful frameworks and tools for evaluating LLMs, enhancing
-  performance, and benchmarking in our comprehensive guide to AI model assessment.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Explore powerful frameworks and tools for evaluating LLMs, enhancing performance, and benchmarking in our comprehensive guide to AI model assessment.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 - [GitHub - openai/evals: Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.](https://github.com/openai/evals) ⭐ 19k
 - [**DeepEval**](https://github.com/confident-ai/deepeval) ⭐ 16k - a simple-to-use, open-source evaluation framework for LLM applications.
 - [Galileo AI: The Generative AI Evaluation Company](https://galileo.ai/)

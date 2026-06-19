@@ -1,13 +1,10 @@
 ---
 slug: /knowledge/biology/exercise-stretching/home-exercise-routine
 title: Home Exercise Routine
-description: Discover an effective home exercise routine featuring treadmill workouts,
-  weight training, and essential stretching to boost your fitness from the comfort
-  of home.
-created: '2023-03-05'
-last_update: '2026-02-12'
+description: Discover an effective home exercise routine featuring treadmill workouts, weight training, and essential stretching to boost your fitness from the comfort of home.
+created: 2023-03-05
+last_update: 2026-02-12
 ---
-
 ## Fast Routine
 
 - Treadmill - 12 Km/h - 1.2 KM - 6 Mins

@@ -1,12 +1,10 @@
 ---
 slug: /economics/sector-analysis/overview
 title: Overview
-description: Explore sector analysis to understand unique factors influencing businesses,
-  with tailored approaches for banking, insurance, and airline industries.
-created: '2025-04-12'
-last_update: '2026-06-18'
+description: Explore sector analysis to understand unique factors influencing businesses, with tailored approaches for banking, insurance, and airline industries.
+created: 2025-04-12
+last_update: 2026-06-18
 ---
-
 ## What is sector analysis?
 
 Sector analysis involves looking for factors, features, events, and metrics that impact the businesses in a given sector. A factor might positively impact one sector while a negative impact on another. The idea of sector analysis hinges on the fact that certain aspects or events are specific to sectors and do not impact the overall market.

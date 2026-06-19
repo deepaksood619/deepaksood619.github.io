@@ -1,12 +1,10 @@
 ---
 slug: /education/competitors/technical-skills/hackerearth-analysis
 title: HackerEarth Company Analysis
-description: Explore HackerEarth's market position, funding, and customer base in
-  the global tech landscape.
-created: '2026-05-03'
-last_update: '2026-06-08'
+description: Explore HackerEarth's market position, funding, and customer base in the global tech landscape.
+created: 2026-05-03
+last_update: 2026-06-08
 ---
-
 ## Company Overview
 
 - **Founded:** 2012 (same year as HackerRank)

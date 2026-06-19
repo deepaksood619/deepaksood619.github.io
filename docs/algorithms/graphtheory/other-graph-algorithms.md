@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/graphtheory/other-graph-algorithms
 title: Exploring Dominating Set Algorithms
-description: Discover the dominating set problem in graph theory and its significance
-  in computational complexity and graph optimization.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Discover the dominating set problem in graph theory and its significance in computational complexity and graph optimization.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Other Graph Algorithms
-
 ## Dominating Set
 
 In [graph theory](https://en.wikipedia.org/wiki/Graph_theory), adominating setfor a [graph](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)) G=(V, E) is a [subset](https://en.wikipedia.org/wiki/Subset) DofVsuch that every vertex not inDis adjacent to at least one member ofD. Thedomination numberγ(G) is the number of vertices in a smallest dominating set forG.

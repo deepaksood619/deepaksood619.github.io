@@ -1,14 +1,10 @@
 ---
 slug: /networking/mqtt/last-will-and-testament
 title: Understanding Last Will and Testament in MQTT
-description: Learn how the Last Will and Testament feature in MQTT helps manage ungraceful
-  client disconnects effectively.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Learn how the Last Will and Testament feature in MQTT helps manage ungraceful client disconnects effectively.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Last Will and Testament
-
 Because MQTT is often used in scenarios that include unreliable networks, it's reasonable to assume that some of the MQTT clients in these scenarios will occasionally disconnect ungracefully. An ungraceful disconnect can occur due to loss of connection, empty batteries, or many other reasons. Knowing whether a client disconnected gracefully (with an MQTTDISCONNECT message) or ungracefully (without a disconnect message), helps you respond correctly. The Last Will and Testament feature provides a way for clients to respond to ungraceful disconnects in an appropriate way.
 
 In MQTT, you use the Last Will and Testament (LWT) feature to notify other clients about an ungracefully disconnected client. Each client can specify its last will message when it connects to a broker. The last will message is a normal MQTT message with a topic, retained message flag, QoS, and payload. The broker stores the message until it detects that the client has disconnected ungracefully. In response to the ungraceful disconnect, the broker sends the last-will message to all subscribed clients of the last-will message topic. If the client disconnects gracefully with a correct DISCONNECT message, the broker discards the stored LWT message.

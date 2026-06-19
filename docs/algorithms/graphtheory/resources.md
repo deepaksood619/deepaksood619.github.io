@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/graphtheory/resources
 title: Comprehensive Resource Gallery
-description: Explore our extensive gallery of resources featuring informative images
-  and materials to enhance your knowledge and skills.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Explore our extensive gallery of resources featuring informative images and materials to enhance your knowledge and skills.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
-# Resources
-
 ![image](../../media/Resources-image1.jpg)
 
 ![image](../../media/Resources-image2.jpg)

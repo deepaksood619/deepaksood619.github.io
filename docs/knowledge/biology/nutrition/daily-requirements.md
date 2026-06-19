@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/biology/nutrition/daily-requirements
 title: Daily Requirements
-description: Discover daily macronutrient requirements, including essential carbohydrates,
-  proteins, and fats, to fuel your energy and support a healthy lifestyle.
-created: '2023-03-05'
-last_update: '2026-04-07'
+description: Discover daily macronutrient requirements, including essential carbohydrates, proteins, and fats, to fuel your energy and support a healthy lifestyle.
+created: 2023-03-05
+last_update: 2026-04-07
 ---
-
 ## Macronutrients
 
 - **Providing energy (Carbs, Protein, Fats)**

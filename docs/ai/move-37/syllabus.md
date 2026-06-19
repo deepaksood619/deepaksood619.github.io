@@ -1,12 +1,10 @@
 ---
 slug: /ai/move-37/syllabus
 title: Syllabus
-description: Explore our comprehensive syllabus covering Markov Decision Processes,
-  Dynamic Programming, Monte Carlo Methods, and Model Free Learning in various applications.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Explore our comprehensive syllabus covering Markov Decision Processes, Dynamic Programming, Monte Carlo Methods, and Model Free Learning in various applications.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
 1. Markov Decision Processes
 
    - Introduction

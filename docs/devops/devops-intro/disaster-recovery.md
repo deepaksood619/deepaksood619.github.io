@@ -1,14 +1,10 @@
 ---
 slug: /devops/devops-intro/disaster-recovery
 title: Understanding Disaster Recovery Metrics
-description: Learn about RTO and RPO to effectively manage disaster recovery and minimize
-  downtime and data loss for your business.
-created: '2023-03-05'
-last_update: '2025-10-27'
+description: Learn about RTO and RPO to effectively manage disaster recovery and minimize downtime and data loss for your business.
+created: 2023-03-05
+last_update: 2025-10-27
 ---
-
-# Disaster Recovery
-
 ## RTO - Recovery Time Objective
 
 The time it takes after a disruption to restore a business process to its service level, as defined by the operational level agreement (OLA). For example, if a disaster occurs at 12:00 PM (noon) and the RTO is eight hours, the DR process should restore the business process to the acceptable service level by 8:00 PM.

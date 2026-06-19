@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/software-engineering/modeling-languages
 title: Understanding UML Modeling Language
-description: Explore UML, its types, and key diagrams to visualize software designs
-  effectively.
-created: '2023-03-05'
-last_update: '2025-02-02'
+description: Explore UML, its types, and key diagrams to visualize software designs effectively.
+created: 2023-03-05
+last_update: 2025-02-02
 ---
-
-# Modeling Language
-
 ## UML (Unified Modeling Language)
 
 Unified Modelling Language (UML) is a modeling language in the field of software engineering which aims to set standard ways to visualize the design of a system. UML guides the creation of multiple types of diagrams such as interaction , structure and behaviour diagrams.

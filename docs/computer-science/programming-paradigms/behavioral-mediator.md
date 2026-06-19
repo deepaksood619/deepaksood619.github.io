@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/programming-paradigms/behavioral-mediator
 title: Understanding Behavioral Mediator Pattern
-description: Learn how the Behavioral Mediator pattern improves class connectivity
-  and enhances code reusability in user interface development.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Learn how the Behavioral Mediator pattern improves class connectivity and enhances code reusability in user interface development.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Behavioral - Mediator
-
 A mediator is a behavioral design pattern that allows you to reduce the connectivity of multiple classes with each other, by moving these connections to the one mediation class.
 Suppose you have a dialog for creating a user profile. It consists of all possible controls - the text fields, checkboxes, buttons.
 

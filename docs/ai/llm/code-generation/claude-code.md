@@ -1,12 +1,10 @@
 ---
 slug: /ai/llm/code-generation/claude-code
 title: Claude Code
-description: Discover Claude Code for deep coding insights, plugins, and hands-on
-  tutorials that enhance productivity and streamline your development process.
-created: '2026-06-18'
-last_update: '2026-06-19'
+description: Discover Claude Code for deep coding insights, plugins, and hands-on tutorials that enhance productivity and streamline your development process.
+created: 2026-06-18
+last_update: 2026-06-19
 ---
-
 [Claude Code: Deep Coding at Terminal Velocity \\ Anthropic](https://www.anthropic.com/claude-code)
 
 [GitHub - luongnv89/claude-howto: A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. · GitHub](https://github.com/luongnv89/claude-howto) ⭐ 37k

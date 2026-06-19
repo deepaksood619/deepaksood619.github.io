@@ -1,14 +1,10 @@
 ---
 slug: /frontend/frontend-intro/gestalt-principles
 title: Understanding Gestalt Principles
-description: Explore the key Gestalt principles that shape human visual perception
-  and how we interpret visual information.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore the key Gestalt principles that shape human visual perception and how we interpret visual information.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
-# Gestalt Principles
-
 - Human visual system is optimized to see structure and relationships
 
 1. Common fate

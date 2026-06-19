@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/testing/tools
-title: 'Google Test: C++ Unit Testing'
-description: Explore Google Test, a powerful C++ unit testing and mocking framework,
-  ideal for robust software development.
-created: '2023-03-05'
-last_update: '2026-06-11'
+title: "Google Test: C++ Unit Testing"
+description: Explore Google Test, a powerful C++ unit testing and mocking framework, ideal for robust software development.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
-# Tools
-
 ## Google Test
 
 Google Testing and Mocking Framework

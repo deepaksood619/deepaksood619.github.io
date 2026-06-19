@@ -1,12 +1,10 @@
 ---
 slug: /psychology/power
 title: Power
-description: Explore the complex dynamics of power, fear, and authority, revealing
-  how perception shapes trust and influence in personal and business contexts.
-created: '2023-03-05'
-last_update: '2026-06-18'
+description: Explore the complex dynamics of power, fear, and authority, revealing how perception shapes trust and influence in personal and business contexts.
+created: 2023-03-05
+last_update: 2026-06-18
 ---
-
 Power tends to corrupt, absolute power corrupts absolutely
 
 It is not power that corrupts but fear. Fear of losing power corrupts those who wield it and fear of the scourge of power corrupts those who are subject to it.

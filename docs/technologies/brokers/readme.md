@@ -1,14 +1,10 @@
 ---
 slug: /technologies/brokers/readme
 title: Overview of Brokers in Messaging
-description: Explore various messaging brokers including RabbitMQ, EMQTT, VerneMQ,
-  and more, with deployment and command resources.
-created: '2023-03-05'
-last_update: '2026-04-28'
+description: Explore various messaging brokers including RabbitMQ, EMQTT, VerneMQ, and more, with deployment and command resources.
+created: 2023-03-05
+last_update: 2026-04-28
 ---
-
-# Brokers
-
 - [RabbitMQ](technologies/brokers/rabbitmq.md)
 - [EMQTT](emqtt/readme.md)
     - [Deployment and Installation](emqtt/deployment-and-installation)

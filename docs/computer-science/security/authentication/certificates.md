@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/security/authentication/certificates
 title: Understanding Different Types of Certificates
-description: Explore various certificate types, including domain-validated and EV
-  certificates, and learn about the X.509 standard used in secure communications.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore various certificate types, including domain-validated and EV certificates, and learn about the X.509 standard used in secure communications.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Certificates
-
 ## Types of certificates
 
 - Domain-validated certificates

@@ -1,14 +1,10 @@
 ---
 slug: /devops/docker/containers
 title: Understanding Container Runtimes
-description: Explore container runtimes like Docker and CRI-O, their integration with
-  Kubernetes, and the role of the Open Container Initiative.
-created: '2023-03-05'
-last_update: '2026-03-27'
+description: Explore container runtimes like Docker and CRI-O, their integration with Kubernetes, and the role of the Open Container Initiative.
+created: 2023-03-05
+last_update: 2026-03-27
 ---
-
-# Containers
-
 A container runtime is the component which runs the containerized application upon request. Docker Engine remains the default for Kubernetes, though CRI-O and others are gaining community support.
 
 The containerized image is moving from Docker to one that is not bound to higher-level tools and that is more portable across operating systems and environments. The Open Container Initiative (OCI) was formed to help with this. Docker donated their libcontainer project to form a new codebase called runC to support these goals. More information about [runC](https://github.com/opencontainers/runc) ⭐ 13k can be found on GitHub.

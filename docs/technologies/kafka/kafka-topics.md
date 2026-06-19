@@ -1,14 +1,10 @@
 ---
 slug: /technologies/kafka/kafka-topics
 title: Understanding Kafka Topics
-description: Learn about Kafka topics, their structure, and how producers and consumers
-  interact with data in the messaging system.
-created: '2025-12-15'
-last_update: '2026-04-03'
+description: Learn about Kafka topics, their structure, and how producers and consumers interact with data in the messaging system.
+created: 2025-12-15
+last_update: 2026-04-03
 ---
-
-# Kafka Topics
-
 - A topic is a category of messages in Kafka
 - The producers publish the messages into topics
 - The consumers read the messages from topics

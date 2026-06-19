@@ -1,12 +1,10 @@
 ---
 slug: /management/readme
 title: Management
-description: Discover essential management resources, including mental models, business
-  terms, project tools, and case studies to enhance your leadership skills.
-created: '2023-03-05'
-last_update: '2026-05-23'
+description: Discover essential management resources, including mental models, business terms, project tools, and case studies to enhance your leadership skills.
+created: 2023-03-05
+last_update: 2026-05-23
 ---
-
 - [Mental Models](mental-models)
 - [Project / Product / Business Tools / SAAS](project-product-business-tools-saas)
 - [Business](business/readme.md)

@@ -1,12 +1,10 @@
 ---
 slug: /databases-nosql/time-series-db/influxdb/administration
 title: Administration
-description: Explore essential administration topics for InfluxDB, including configuration,
-  upgrades, security management, and server monitoring for optimal performance.
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Explore essential administration topics for InfluxDB, including configuration, upgrades, security management, and server monitoring for optimal performance.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
 1. [Configuring InfluxDB](https://docs.influxdata.com/influxdb/v1.7/administration/config/)
 2. [Upgrading](https://docs.influxdata.com/influxdb/v1.7/administration/upgrading/)
 3. [Enabling HTTPS](https://docs.influxdata.com/influxdb/v1.7/administration/https_setup/)

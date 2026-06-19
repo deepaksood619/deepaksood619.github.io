@@ -1,12 +1,10 @@
 ---
 slug: /decentralized-applications/ethereum/42-block-proposals
 title: Block Proposals
-description: Learn how validators in Ethereum propose blocks through a pseudo-random
-  selection process, enhancing the blockchain's consensus and security.
-created: '2023-09-13'
-last_update: '2025-02-14'
+description: Learn how validators in Ethereum propose blocks through a pseudo-random selection process, enhancing the blockchain's consensus and security.
+created: 2023-09-13
+last_update: 2025-02-14
 ---
-
 ## WHO PRODUCES BLOCKS?
 
 Validator accounts propose blocks. Validator accounts are managed by node operators who run validator software as part of their execution and consensus clients and have deposited at least 32 ETH into the deposit contract. However, each validator is only occasionally responsible for proposing a block. Ethereum measures time in slots and epochs. Each slot is twelve seconds, and 32 slots (6.4 minutes) make up an epoch. Every slot is an opportunity to add a new block on Ethereum.

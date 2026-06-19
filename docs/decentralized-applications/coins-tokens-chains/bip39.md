@@ -1,12 +1,10 @@
 ---
 slug: /decentralized-applications/coins-tokens-chains/bip39
 title: BIP39
-description: Discover BIP39, the Bitcoin standard for secure wallet recovery using
-  easy-to-remember mnemonic phrases and safeguard your digital assets effectively.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Discover BIP39, the Bitcoin standard for secure wallet recovery using easy-to-remember mnemonic phrases and safeguard your digital assets effectively.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
 ## BIP39 Wallet
 
 Bitcoin Improvement Proposals or BIP's are design features, inputs, ideas, information, or changes for essentially how Bitcoin works (including storage i.e. wallets).

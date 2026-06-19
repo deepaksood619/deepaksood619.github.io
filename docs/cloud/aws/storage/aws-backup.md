@@ -1,12 +1,10 @@
 ---
 slug: /cloud/aws/storage/aws-backup
 title: AWS Backup
-description: AWS Backup simplifies and automates data protection across AWS services,
-  enabling centralized management of backup policies and monitoring for enhanced security.
-created: '2024-06-04'
-last_update: '2025-12-16'
+description: AWS Backup simplifies and automates data protection across AWS services, enabling centralized management of backup policies and monitoring for enhanced security.
+created: 2024-06-04
+last_update: 2025-12-16
 ---
-
 AWS Backup is a fully-managed service that makes it easy to centralize and automate data protection across AWS services, in the cloud, and on premises. Using this service, you can configure backup policies and monitor activity for your AWS resources in one place. It allows you to automate and consolidate backup tasks that were previously performed service-by-service, and removes the need to create custom scripts and manual processes. With a few clicks in the AWS Backup console, you can automate your data protection policies and schedules.
 
 - [What is AWS Backup? - AWS Backup](https://docs.aws.amazon.com/aws-backup/latest/devguide/whatisbackup.html)

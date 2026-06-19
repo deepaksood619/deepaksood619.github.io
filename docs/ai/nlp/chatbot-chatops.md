@@ -1,12 +1,10 @@
 ---
 slug: /ai/nlp/chatbot-chatops
 title: Chatbot / chatops
-description: Discover how to build effective chatbots and chatops with Rasa, covering
-  types of bots and their applications in customer service and e-commerce.
-created: '2023-03-05'
-last_update: '2024-08-06'
+description: Discover how to build effective chatbots and chatops with Rasa, covering types of bots and their applications in customer service and e-commerce.
+created: 2023-03-05
+last_update: 2024-08-06
 ---
-
 https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-redis-python-and-gpt
 
 ## Rasa

@@ -1,12 +1,10 @@
 ---
 slug: /ai/social-media-analytics-solution
 title: Social Media Analytics Solution
-description: Discover how to build and deploy a robust social media analytics solution
-  using Azure Synapse Analytics and Stream Analytics for insightful data analysis.
-created: '2024-02-28'
-last_update: '2026-03-27'
+description: Discover how to build and deploy a robust social media analytics solution using Azure Synapse Analytics and Stream Analytics for insightful data analysis.
+created: 2024-02-28
+last_update: 2026-03-27
 ---
-
 [Build and deploy a social media analytics solution - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/build-deploy-social-media-analytics-solution)
 
 [Social media analysis with Azure Stream Analytics - Azure Stream Analytics | Microsoft Learn](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-twitter-sentiment-analysis-trends)

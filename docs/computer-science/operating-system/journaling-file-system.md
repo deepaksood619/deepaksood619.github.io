@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/operating-system/journaling-file-system
 title: Understanding Journaling File Systems
-description: Learn how journaling file systems enhance data integrity and recovery
-  by tracking changes and minimizing corruption risks.
-created: '2023-03-05'
-last_update: '2025-10-14'
+description: Learn how journaling file systems enhance data integrity and recovery by tracking changes and minimizing corruption risks.
+created: 2023-03-05
+last_update: 2025-10-14
 ---
-
-# Journaling File System
-
 A journaling file system is a [file system](https://en.wikipedia.org/wiki/File_system) that keeps track of changes not yet committed to the file system's main part by recording the intentions of such changes in a data structure known as a "[journal](https://en.wikipedia.org/wiki/Journal_(computing))", which is usually a [circular log](https://en.wikipedia.org/wiki/Circular_log). In the event of a system crash or power failure, such file systems can be brought back online more quickly with a lower likelihood of becoming corrupted.
 
 Depending on the actual implementation, a journaling file system may only keep track of stored [metadata](https://en.wikipedia.org/wiki/Metadata), resulting in improved performance at the expense of increased possibility for data corruption. Alternatively, a journaling file system may track both stored data and related metadata, while some implementations allow selectable behavior in this regard.

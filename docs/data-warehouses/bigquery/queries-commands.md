@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/bigquery/queries-commands
 title: BigQuery Table Expiration Best Practices
-description: Learn how to optimize BigQuery storage costs by utilizing table expiration
-  settings for effective data lifecycle management.
-created: '2025-01-18'
-last_update: '2025-06-10'
+description: Learn how to optimize BigQuery storage costs by utilizing table expiration settings for effective data lifecycle management.
+created: 2025-01-18
+last_update: 2025-06-10
 ---
-
-# Queries / Commands
-
 ## BigQuery Table usage in a Query - Information Schema
 
 ### Best Practice: Utilize Expiration Settings

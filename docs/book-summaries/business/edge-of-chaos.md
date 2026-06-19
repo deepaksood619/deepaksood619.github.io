@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/business/edge-of-chaos
 title: Edge of Chaos
-description: Explore Dambisa Moyo's "Edge of Chaos" to understand the failures of
-  democracy in driving economic growth and find solutions for sustainable prosperity.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Explore Dambisa Moyo's "Edge of Chaos" to understand the failures of democracy in driving economic growth and find solutions for sustainable prosperity.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Dambisa Moyo
 
 Why democracy is failing to deliver economic growth - and how to fix it

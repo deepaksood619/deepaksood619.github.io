@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/geography/living
 title: Living
-description: Explore living strategies from thanatology and Blue Zones, focusing on
-  health, longevity, and the secrets of the world's oldest populations.
-created: '2023-03-05'
-last_update: '2026-05-21'
+description: Explore living strategies from thanatology and Blue Zones, focusing on health, longevity, and the secrets of the world's oldest populations.
+created: 2023-03-05
+last_update: 2026-05-21
 ---
-
 Digital Nomad
 
 **Thanatology:** the study of preventing death, radically extending human lifespan, and optimizing health and longevity. Encompassing biology, genetics, neuroscience, technology, psychology, and ethics.

@@ -1,12 +1,10 @@
 ---
 slug: /ai/big-data/data-preprocessing
 title: Data Preprocessing
-description: Enhance your data analysis skills with essential data preprocessing techniques
-  like aggregation, transformation, dimensionality reduction, and more.
-created: '2023-11-20'
-last_update: '2025-07-19'
+description: Enhance your data analysis skills with essential data preprocessing techniques like aggregation, transformation, dimensionality reduction, and more.
+created: 2023-11-20
+last_update: 2025-07-19
 ---
-
 ## Data Preprocessing
 
 1. Aggregation

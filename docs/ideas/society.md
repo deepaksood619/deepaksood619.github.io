@@ -1,12 +1,10 @@
 ---
 slug: /ideas/society
 title: Society
-description: Explore societal dynamics through gender equality, women's empowerment,
-  and the biases impacting perceptions of gender and sex in contemporary culture.
-created: '2023-12-23'
-last_update: '2026-05-01'
+description: Explore societal dynamics through gender equality, women's empowerment, and the biases impacting perceptions of gender and sex in contemporary culture.
+created: 2023-12-23
+last_update: 2026-05-01
 ---
-
 ## Gender Equality (Women Empowerment)
 
 [STOP THIS RUBBISH! Why Do Women's Wear Revealing Clothes? - Sadhguru](https://www.youtube.com/watch?v=VMcYh0Awh3k)

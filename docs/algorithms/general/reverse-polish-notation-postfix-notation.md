@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/general/reverse-polish-notation-postfix-notation
 title: Understanding Reverse Polish Notation
-description: Explore Reverse Polish Notation (RPN), its advantages, and applications
-  in stack-based languages and pipeline systems.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Explore Reverse Polish Notation (RPN), its advantages, and applications in stack-based languages and pipeline systems.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
-# Reverse Polish Notation / Postfix Notation
-
 Infix - (2+5)*3
 
 Polish Notation - *+253

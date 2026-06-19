@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/testing/intro
 title: Introduction to Testing Vocabulary
-description: Learn key terms in testing, the importance of tests, and how they enhance
-  trust in code quality.
-created: '2023-03-05'
-last_update: '2025-02-14'
+description: Learn key terms in testing, the importance of tests, and how they enhance trust in code quality.
+created: 2023-03-05
+last_update: 2025-02-14
 ---
-
-# Intro
-
 ## Testing Vocabulary
 
 - **units** - functions we are testing

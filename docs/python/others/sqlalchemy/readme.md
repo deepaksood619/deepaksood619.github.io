@@ -1,14 +1,10 @@
 ---
 slug: /python/others/sqlalchemy/readme
 title: Introduction to SQLAlchemy
-description: Learn about SQLAlchemy, a powerful toolkit for database and Python integration,
-  featuring ORM and SQL Expression Language.
-created: '2023-03-05'
-last_update: '2026-03-31'
+description: Learn about SQLAlchemy, a powerful toolkit for database and Python integration, featuring ORM and SQL Expression Language.
+created: 2023-03-05
+last_update: 2026-03-31
 ---
-
-# SQLAlchemy
-
 ## Alchemist
 
 The SQLAlchemy SQL Toolkit and Object Relational Mapper is a comprehensive set of tools for working with databases and Python. It has several distinct areas of functionality which can be used individually or combined together. Its major components are illustrated below, with component dependencies organized into layers:

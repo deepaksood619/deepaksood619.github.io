@@ -1,12 +1,10 @@
 ---
 slug: /databases-sql/aws-aurora/others
 title: Others
-description: Explore SSL/TLS encryption for secure DB connections, advanced auditing
-  techniques, and Aurora Auto Scaling to optimize your database performance seamlessly.
-created: '2023-03-05'
-last_update: '2026-05-18'
+description: Explore SSL/TLS encryption for secure DB connections, advanced auditing techniques, and Aurora Auto Scaling to optimize your database performance seamlessly.
+created: 2023-03-05
+last_update: 2026-05-18
 ---
-
 ## Connecting
 
 [Using SSL/TLS to encrypt a connection to a DB instance or cluster - Amazon Relational Database Service](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.SSL.html)

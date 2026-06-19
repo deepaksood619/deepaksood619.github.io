@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/biology/exercise-stretching/readme
 title: Exercise / Stretching
-description: Discover effective exercise and stretching routines to boost energy,
-  improve motivation, and enhance overall fitness for a healthier lifestyle.
-created: '2023-03-05'
-last_update: '2025-09-15'
+description: Discover effective exercise and stretching routines to boost energy, improve motivation, and enhance overall fitness for a healthier lifestyle.
+created: 2023-03-05
+last_update: 2025-09-15
 ---
-
 - [Exercise / Stretching](knowledge/biology/exercise-stretching/intro.md)
 - [Home Exercise Routine](home-exercise-routine)
 - [Home + Gym](home-gym)

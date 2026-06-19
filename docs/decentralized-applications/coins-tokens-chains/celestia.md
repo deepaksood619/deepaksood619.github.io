@@ -1,12 +1,10 @@
 ---
 slug: /decentralized-applications/coins-tokens-chains/celestia
 title: Celestia
-description: Discover Celestia, a scalable modular blockchain network designed to
-  enhance data availability and consensus, addressing the blockchain trilemma effectively.
-created: '2023-07-23'
-last_update: '2025-02-14'
+description: Discover Celestia, a scalable modular blockchain network designed to enhance data availability and consensus, addressing the blockchain trilemma effectively.
+created: 2023-07-23
+last_update: 2025-02-14
 ---
-
 A scalable modular blockchain network built for data availability and consensus
 
 The source of the blockchain trilemma is largely attributed to the [monolithic](https://coinmarketcap.com/alexandria/article/modular-vs-monolithic-blockchains-what-s-the-difference) structures of the traditional blockchain. In most blockchains, all of the core functions of a blockchain: execution, [settlement](https://coinmarketcap.com/alexandria/glossary/settlement-layer), [consensus](https://coinmarketcap.com/alexandria/glossary/consensus-mechanism) and [data availability](https://coinmarketcap.com/alexandria/article/what-is-data-availability), are handled by a single chain. However, with a single chain handling all functions, this led to the emergence of bottlenecks when chain usage surged.

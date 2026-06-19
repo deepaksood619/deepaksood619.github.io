@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/philosophy-relationships/how-to-be-a-stoic
 title: How to be a Stoic
-description: Discover how to be a Stoic by mastering desire, action, and assent, while
-  focusing on what you can control in life’s challenges and uncertainties.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover how to be a Stoic by mastering desire, action, and assent, while focusing on what you can control in life’s challenges and uncertainties.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Massimo Pigliucci
 
 - Stoicism offers a practical and sensible guide to tackling life's problems and challenges.

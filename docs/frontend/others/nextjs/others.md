@@ -1,14 +1,10 @@
 ---
 slug: /frontend/others/nextjs/others
 title: Essential Libraries for Next.js Development
-description: Discover key libraries like next-connect and SWR to enhance your Next.js
-  projects with efficient routing and data fetching.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Discover key libraries like next-connect and SWR to enhance your Next.js projects with efficient routing and data fetching.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
-# Others
-
 ## Libraries
 
 ### [next-connect - npm](https://www.npmjs.com/package/next-connect)

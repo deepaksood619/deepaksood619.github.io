@@ -1,14 +1,10 @@
 ---
 slug: /python/python-intro/data-structure/readme
 title: Overview of Python Data Structures
-description: Explore Python's built-in data structures, including lists, tuples, dictionaries,
-  sets, queues, and arrays for efficient data handling.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore Python's built-in data structures, including lists, tuples, dictionaries, sets, queues, and arrays for efficient data handling.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Data Structure
-
 ## Built-in data structures
 
 1. List

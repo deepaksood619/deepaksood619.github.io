@@ -1,12 +1,10 @@
 ---
 slug: /languages/sql/others
 title: Others
-description: Discover when to use a unique constraint versus a unique index in your
-  database for optimal performance and clear code documentation.
-created: '2023-03-05'
-last_update: '2025-02-14'
+description: Discover when to use a unique constraint versus a unique index in your database for optimal performance and clear code documentation.
+created: 2023-03-05
+last_update: 2025-02-14
 ---
-
 ## When should I use a unique constraint instead of a unique index
 
 Under the hood a unique constraint is implemented the same way as a unique index - an index is needed to efficiently fulfil the requirement to enforce the constraint. Even if the index is created as a result of a UNIQUE constraint, the query planner can use it like any other index if it sees it as the best way to approach a given query.

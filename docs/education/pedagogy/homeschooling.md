@@ -1,14 +1,10 @@
 ---
 slug: /education/pedagogy/homeschooling
 title: Comprehensive Guide to Homeschooling
-description: Explore effective homeschooling strategies, resources, and curriculum
-  options for ages 0-18 in our complete guide.
-created: '2025-06-01'
-last_update: '2026-06-11'
+description: Explore effective homeschooling strategies, resources, and curriculum options for ages 0-18 in our complete guide.
+created: 2025-06-01
+last_update: 2026-06-11
 ---
-
-# HomeSchooling
-
 - **Homeschooling / Home School / Homeschool**
 - Khan academy
 - https://primer.com

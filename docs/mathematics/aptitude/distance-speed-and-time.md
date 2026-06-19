@@ -1,12 +1,10 @@
 ---
 slug: /mathematics/aptitude/distance-speed-and-time
 title: Distance Speed and Time
-description: Learn how to calculate distance, speed, and time using acceleration and
-  velocity with our easy-to-follow guide and real-world examples.
-created: '2023-03-05'
-last_update: '2023-06-07'
+description: Learn how to calculate distance, speed, and time using acceleration and velocity with our easy-to-follow guide and real-world examples.
+created: 2023-03-05
+last_update: 2023-06-07
 ---
-
 ## HOW TO CALCULATE TIME AND DISTANCE FROM ACCELERATION AND VELOCITY
 
 In a physics equation, given a constant [acceleration](http://www.dummies.com/education/science/physics/how-to-calculate-acceleration/) and the change in velocity of an object, you can figure out both the [time involved and the distance traveled](http://www.dummies.com/education/math/basic-math/calculating-speed-time-and-distance/). For instance, imagine you're a drag racer. Your acceleration is 26.6 meters per second2, and your final speed is 146.3 meters per second. Now find the total distance traveled. Got you, huh? "Not at all," you say, supremely confident. "Just let me get my calculator."

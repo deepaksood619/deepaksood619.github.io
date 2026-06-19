@@ -1,14 +1,10 @@
 ---
 slug: /python/django/logging
 title: Understanding Django Logging Basics
-description: Learn the fundamentals of logging in Django using Python's built-in logging
-  module for effective system monitoring.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Learn the fundamentals of logging in Django using Python's built-in logging module for effective system monitoring.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
-# Logging
-
 Django uses Python's builtin logging module to perform system logging.
 
 A Python logging configuration consists of four parts:

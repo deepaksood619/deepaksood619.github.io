@@ -1,12 +1,10 @@
 ---
 slug: /databases-sql/mysql/mysql-triggers
 title: MySQL Triggers
-description: Discover MySQL triggers and event scheduling, including syntax, metadata,
-  and practical examples to streamline your database management effectively.
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Discover MySQL triggers and event scheduling, including syntax, metadata, and practical examples to streamline your database management effectively.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
 - 23.3 Using Triggers
 - 23.3.1 Trigger Syntax and Examples
 - 23.3.2 Trigger Metadata

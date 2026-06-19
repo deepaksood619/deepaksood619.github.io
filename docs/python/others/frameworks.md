@@ -1,14 +1,10 @@
 ---
 slug: /python/others/frameworks
 title: Popular Python Web Frameworks
-description: Explore Tornado and Pyramid, two powerful Python web frameworks for building
-  scalable and flexible web applications.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore Tornado and Pyramid, two powerful Python web frameworks for building scalable and flexible web applications.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Frameworks
-
 ## Tornado
 
 Tornado is a Python web framework and asynchronous networking library. By using non-blocking network I/O, Tornado can scale to tens of thousands of open connections, making it ideal for long polling, WebSockets, and other applications that require a long-lived connection to each user.

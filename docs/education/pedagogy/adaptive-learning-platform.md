@@ -1,12 +1,10 @@
 ---
 slug: /education/pedagogy/adaptive-learning-platform
 title: Adaptive Learning for Professionals
-description: Revolutionize your career with our AI-driven adaptive learning platform
-  tailored for skill development and salary growth.
-created: '2026-05-04'
-last_update: '2026-06-08'
+description: Revolutionize your career with our AI-driven adaptive learning platform tailored for skill development and salary growth.
+created: 2026-05-04
+last_update: 2026-06-08
 ---
-
 **Core Concept:** AI-powered platform that personalizes learning paths based on individual knowledge gaps, learning pace, and career goals—focusing on working professionals seeking salary growth through skill development.
 
 ## Executive Summary

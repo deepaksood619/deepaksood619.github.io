@@ -1,14 +1,10 @@
 ---
 slug: /data-structures/hierarchical-data-structure/interval-search-tree
 title: Interval Search Tree Operations Guide
-description: Explore interval search tree operations like insertion, deletion, and
-  intersection queries with efficient performance using a red-black BST.
-created: '2023-03-05'
-last_update: '2023-04-11'
+description: Explore interval search tree operations like insertion, deletion, and intersection queries with efficient performance using a red-black BST.
+created: 2023-03-05
+last_update: 2023-04-11
 ---
-
-# Interval Search Tree
-
 Operations
 
 - Insert an interval

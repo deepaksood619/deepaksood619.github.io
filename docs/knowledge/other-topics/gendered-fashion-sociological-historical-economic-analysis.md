@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/other-topics/gendered-fashion-sociological-historical-economic-analysis
-title: 'Gendered Fashion: Sociological, Historical, Economic Analysis'
-description: Explore the sociological, historical, and economic dimensions of gendered
-  fashion, revealing its impact on class, gender, and societal power dynamics.
-created: '2026-06-06'
-last_update: '2026-06-07'
+title: "Gendered Fashion: Sociological, Historical, Economic Analysis"
+description: Explore the sociological, historical, and economic dimensions of gendered fashion, revealing its impact on class, gender, and societal power dynamics.
+created: 2026-06-06
+last_update: 2026-06-07
 ---
-
 **The Gendered Fabric: A Comprehensive Sociological, Historical, and Economic Analysis of Female and Male Fashion Trends**
 
 ## 1. Introduction: The Sartorial Divide as a Sociological Apparatus

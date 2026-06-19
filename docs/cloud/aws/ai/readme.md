@@ -1,12 +1,10 @@
 ---
 slug: /cloud/aws/ai/readme
 title: AWS AI Services
-description: Explore AWS AI Services, including LLM, GenAI, and powerful machine learning
-  tools like Amazon SageMaker and Comprehend to enhance your data-driven solutions.
-created: '2025-09-17'
-last_update: '2025-10-28'
+description: Explore AWS AI Services, including LLM, GenAI, and powerful machine learning tools like Amazon SageMaker and Comprehend to enhance your data-driven solutions.
+created: 2025-09-17
+last_update: 2025-10-28
 ---
-
 ## LLM + GenAI
 
 - Amazon Q + Quicksight Implementation on top of existing data sources in AWS like S3 / RDS, etc

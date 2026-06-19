@@ -1,12 +1,10 @@
 ---
 slug: /ai/llm/mcp/mcp-vs-restapi
 title: MCP vs REST API
-description: Compare MCP and REST API to understand their differences in design, data
-  formats, and intended users for better decision-making in tech choices.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Compare MCP and REST API to understand their differences in design, data formats, and intended users for better decision-making in tech choices.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 | Aspect              | Traditional APIs (REST/GraphQL)                                                    | Model Context Protocol (MCP)                          |
 | ------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------- |
 | **What it is**      | Interface styles (REST, GraphQL) with optional spec formats (OpenAPI, GraphQL SDL) | Standardized protocol with enforced message structure |

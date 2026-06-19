@@ -1,12 +1,10 @@
 ---
 slug: /ai/big-data/processing-engine
 title: Processing Engine
-description: Explore processing engines like Apache Hadoop and Spark, which optimize
-  data tasks for efficient big data processing in distributed computing environments.
-created: '2023-03-05'
-last_update: '2024-02-26'
+description: Explore processing engines like Apache Hadoop and Spark, which optimize data tasks for efficient big data processing in distributed computing environments.
+created: 2023-03-05
+last_update: 2024-02-26
 ---
-
 A processing engine, sometimes called a processing framework, is responsible for performing data processing tasks. A comparison is probably the best way to understand this. Apache Hadoop is an open source software platform that also deals with "Big Data" and distributed computing. Hadoop has a processing engine, distinct from Spark, called MapReduce. MapReduce has its own particular way of optimizing tasks to be processed on multiple nodes and Spark has a different way. One of Sparks strengths is that it is a processing engine that can be used on its own, or used in place of Hadoop MapReduce, taking advantage of the other features of Hadoop.
 
 Processing frameworks compute over the data in the system, either by reading from non-volatile storage or as it is ingested into the system. Computing over data is the process of extracting information and insight from large quantities of individual data points.

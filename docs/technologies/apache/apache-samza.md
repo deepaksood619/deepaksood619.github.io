@@ -1,14 +1,10 @@
 ---
 slug: /technologies/apache/apache-samza
 title: Overview of Apache Samza
-description: Learn about Apache Samza, a stream processing framework that leverages
-  Apache Kafka for efficient data handling and fault tolerance.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Learn about Apache Samza, a stream processing framework that leverages Apache Kafka for efficient data handling and fault tolerance.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
-# Apache Samza
-
 Apache Samza
 
 Apache Samza is a stream processing framework that is tightly tied to the Apache Kafka messaging system. While Kafka can be used by many stream processing systems, Samza is designed specifically to take advantage of Kafka's unique architecture and guarantees. It uses Kafka to provide fault tolerance, buffering, and state storage.

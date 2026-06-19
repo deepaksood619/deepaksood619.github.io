@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/biology/genetics
 title: Genetics
-description: 'Explore genetics: understand phenotypes, observable traits, and how
-  an organism''s characteristics are shaped by genes and environmental interactions.'
-created: '2023-03-05'
-last_update: '2026-05-28'
+description: Explore genetics: understand phenotypes, observable traits, and how an organism's characteristics are shaped by genes and environmental interactions.
+created: 2023-03-05
+last_update: 2026-05-28
 ---
-
 ## Phenotype
 
 The pheno type(from [Greek](https://en.wikipedia.org/wiki/Greek_language) phainein, meaning 'to show', and typos, meaning 'type') of an organism is the composite of the [organism](https://en.wikipedia.org/wiki/Organism)'s observable characteristics or [traits](https://en.wikipedia.org/wiki/Trait_(biology)), including its [morphology](https://en.wikipedia.org/wiki/Morphology_(biology)) or physical form and structure; its [developmental](https://en.wikipedia.org/wiki/Developmental_biology) processes; its biochemical and physiological properties; its [behavior](https://en.wikipedia.org/wiki/Behavior), and the products of behavior, for example, a bird's nest. An organism's phenotype results from two basic factors: the [expression](https://en.wikipedia.org/wiki/Gene_expression) of an organism's genetic code, or its [genotype](https://en.wikipedia.org/wiki/Genotype), and the influence of environmental factors, which may interact, further affecting phenotype. When two or more clearly different phenotypes exist in the same population of a species, the species is called [polymorphic](https://en.wikipedia.org/wiki/Polymorphism_(biology)). A well-documented polymorphism is [Labrador Retriever coloring](https://en.wikipedia.org/wiki/Labrador_Retriever_coat_colour_genetics); while the coat color depends on many genes, it is clearly seen in the environment as yellow, black and brown.[Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins) in 1978and then again in his 1982 book [The Extended Phenotype](https://en.wikipedia.org/wiki/The_Extended_Phenotype) suggested that bird nests and other built structures such as [caddis fly](https://en.wikipedia.org/wiki/Caddis_fly) larvae cases and [beaver dams](https://en.wikipedia.org/wiki/Beaver_dam) can be considered as "extended phenotypes".

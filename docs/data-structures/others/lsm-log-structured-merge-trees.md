@@ -1,14 +1,10 @@
 ---
 slug: /data-structures/others/lsm-log-structured-merge-trees
 title: Understanding LSM Trees in Data Structures
-description: Explore LSM (Log Structured Merge Trees), a key data structure for efficient
-  indexed access in high insert volume scenarios.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Explore LSM (Log Structured Merge Trees), a key data structure for efficient indexed access in high insert volume scenarios.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
-# LSM (Log Structured Merge Trees)
-
 In [computer science](https://en.wikipedia.org/wiki/Computer_science), the log-structured merge-tree (or LSM tree) is a [data structure](https://en.wikipedia.org/wiki/Data_structure) with performance characteristics that make it attractive for providing [indexed](https://en.wikipedia.org/wiki/Database_index) access to files with high insert volume, such as [transactional log data](https://en.wikipedia.org/wiki/Transaction_log). LSM trees, like other [search trees](https://en.wikipedia.org/wiki/Search_tree), maintain key-value pairs. LSM trees maintain data in two or more separate structures, each of which is optimized for its respective underlying storage medium; data is synchronized between the two structures efficiently, in batches.
 
 One simple version of the LSM tree is a two-level LSM tree. As described by [Patrick O'Neil](https://en.wikipedia.org/wiki/Patrick_O%27Neil), a two-level LSM tree comprises two [tree-like](https://en.wikipedia.org/wiki/Tree_(data_structure)) structures, called C0and C1. C0 is smaller and entirely resident in memory, whereas C1 is resident on disk. New records are inserted into the memory-resident C0 component. If the insertion causes the C0 component to exceed a certain size threshold, a contiguous segment of entries is removed from C0 and merged into C1 on disk. The performance characteristics of LSM trees stem from the fact that each component is tuned to the characteristics of its underlying storage medium, and that data is efficiently migrated across media in rolling batches, using an algorithm reminiscent of [merge sort](https://en.wikipedia.org/wiki/Merge_sort).

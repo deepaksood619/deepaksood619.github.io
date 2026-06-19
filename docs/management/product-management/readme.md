@@ -1,14 +1,10 @@
 ---
 slug: /management/product-management/readme
 title: Comprehensive Guide to Product Management
-description: Explore essential product management topics, roles, and resources for
-  effective product development and market success.
-created: '2023-03-05'
-last_update: '2025-02-27'
+description: Explore essential product management topics, roles, and resources for effective product development and market success.
+created: 2023-03-05
+last_update: 2025-02-27
 ---
-
-# Product Management
-
 - [Intro](management/product-management/intro.md)
 - [Product Design Stages](management/product-management/product-design-stages.md)
 - [Product Manager Role](management/product-management/product-manager-role.md)

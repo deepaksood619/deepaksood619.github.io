@@ -1,14 +1,10 @@
 ---
 slug: /management/jobs/job-descriptions-jd
 title: Comprehensive Job Descriptions for Tech Roles
-description: Explore attractive job description templates and tools for software development
-  using AI solutions.
-created: '2025-07-10'
-last_update: '2025-11-14'
+description: Explore attractive job description templates and tools for software development using AI solutions.
+created: 2025-07-10
+last_update: 2025-11-14
 ---
-
-# Job Descriptions JD
-
 - **Professional working experience using Cursor, GitHub Copilot, or another agentic AI solution for software development**
 
 If we can share a linkedin job post from official Linkedin account, that would be great. I can reshare the post in my circles.

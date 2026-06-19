@@ -1,12 +1,10 @@
 ---
 slug: /computer-science/interview-question/system-design-orderbuddy
 title: OrderBuddy Data Infrastructure Design
-description: Explore OrderBuddy's zero-loss, real-time analytics architecture for
-  AI interaction with CDC pipeline and Apache Kafka.
-created: '2026-05-18'
-last_update: '2026-05-19'
+description: Explore OrderBuddy's zero-loss, real-time analytics architecture for AI interaction with CDC pipeline and Apache Kafka.
+created: 2026-05-18
+last_update: 2026-05-19
 ---
-
 ## Executive Summary
 
 This document presents a **zero-loss, real-time analytics architecture** for OrderBuddy's AI conversation platform. The design captures every AI interaction, streams data through a CDC pipeline, and enables real-time calculation of Order Accuracy and AI Hallucination Rates.

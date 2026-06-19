@@ -1,14 +1,10 @@
 ---
 slug: /education/competitors/job-platforms/linkedin-learning-analysis
 title: LinkedIn Learning B2B Skills Analysis
-description: Explore LinkedIn Learning's B2B enterprise model, targeting corporate,
-  educational, and government sectors for skills development.
-created: '2026-06-08'
-last_update: '2026-06-08'
+description: Explore LinkedIn Learning's B2B enterprise model, targeting corporate, educational, and government sectors for skills development.
+created: 2026-06-08
+last_update: 2026-06-08
 ---
-
-# LinkedIn Learning - B2B Skills Platform Analysis
-
 **Last Updated:** June 2026
 
 **Category:** MOOC Platform (B2B Enterprise Learning, No Job Placement)

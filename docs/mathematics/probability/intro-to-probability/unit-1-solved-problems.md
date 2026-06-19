@@ -1,14 +1,10 @@
 ---
 slug: /mathematics/probability/intro-to-probability/unit-1-solved-problems
 title: Probability of Set Differences
-description: Explore the probability of set differences, including real-world problems
-  involving geniuses, chocolate lovers, and uniform probability scenarios.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the probability of set differences, including real-world problems involving geniuses, chocolate lovers, and uniform probability scenarios.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Unit 1 - Solved Problems
-
 ## The probability of difference of two sets
 
 ![image](../../../media/Intro-Syllabus_Unit-1-Solved-Problems-image1.jpg)

@@ -1,14 +1,10 @@
 ---
 slug: /networking/others/rpc
 title: Understanding Remote Procedure Calls (RPC)
-description: Learn about Remote Procedure Call (RPC), its benefits, challenges, and
-  how it enables remote service interactions like local methods.
-created: '2023-03-05'
-last_update: '2024-12-15'
+description: Learn about Remote Procedure Call (RPC), its benefits, challenges, and how it enables remote service interactions like local methods.
+created: 2023-03-05
+last_update: 2024-12-15
 ---
-
-# RPC
-
 https://sbdevel.wordpress.com/2009/12/17/the-case-rpc-vs-messaging
 
 RPC stands for Remote Procedure Call

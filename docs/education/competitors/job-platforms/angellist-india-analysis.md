@@ -1,14 +1,10 @@
 ---
 slug: /education/competitors/job-platforms/angellist-india-analysis
 title: AngelList India Job Analysis
-description: Explore the evolution of AngelList into Wellfound and its impact on India's
-  startup job market.
-created: '2026-06-08'
-last_update: '2026-06-09'
+description: Explore the evolution of AngelList into Wellfound and its impact on India's startup job market.
+created: 2026-06-08
+last_update: 2026-06-09
 ---
-
-# AngelList / Wellfound India Analysis
-
 **Last Updated:** June 2026
 
 **Category:** Startup-Focused Job Platform (Global, India Operations)

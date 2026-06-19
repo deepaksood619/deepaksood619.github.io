@@ -1,12 +1,10 @@
 ---
 slug: /psychology/mental-models
 title: Mental Models
-description: Discover how the 80/20 Rule reveals that a small percentage of inputs
-  lead to the majority of outputs, enhancing productivity and focus in your life.
-created: '2023-03-05'
-last_update: '2026-06-18'
+description: Discover how the 80/20 Rule reveals that a small percentage of inputs lead to the majority of outputs, enhancing productivity and focus in your life.
+created: 2023-03-05
+last_update: 2026-06-18
 ---
-
 ## 80/20 Rule / Pareto Principle
 
 In 1906 there was an Italian economist named Vilfredo Pareto. One day Pareto noticed that every year, 20% of the pea pods in his garden produced approximately 80% of the peas.

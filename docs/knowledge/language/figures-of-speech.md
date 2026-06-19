@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/language/figures-of-speech
 title: Figures of Speech
-description: Explore the art of figures of speech, rhetoric, and the difference between
-  rhetorical and non-rhetorical questions for impactful communication.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore the art of figures of speech, rhetoric, and the difference between rhetorical and non-rhetorical questions for impactful communication.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
 A word or phrase used in a non-literal sense for rhetorical or vivid effect
 
 ## Rhetoric

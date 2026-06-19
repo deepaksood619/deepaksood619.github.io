@@ -1,13 +1,10 @@
 ---
 slug: /ai/numpy/cheatsheet
 title: Cheatsheet
-description: Discover essential NumPy commands for creating and manipulating arrays,
-  saving/loading data, and optimizing your Python projects with this comprehensive
-  cheatsheet.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Discover essential NumPy commands for creating and manipulating arrays, saving/loading data, and optimizing your Python projects with this comprehensive cheatsheet.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 ```python
 # Creating arrays
  np.array([1,2,3])

@@ -1,14 +1,10 @@
 ---
 slug: /databases/concepts/rum-conjecture
 title: Understanding RUM Conjecture in Databases
-description: Explore the RUM Conjecture, focusing on Read, Update, and Memory overhead
-  in database performance optimization.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the RUM Conjecture, focusing on Read, Update, and Memory overhead in database performance optimization.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# RUM Conjecture
-
 RUM - Read Update Memory
 
 There are many ways to read and write the data: data structures, access patterns, optimizations: all of it contributes to the performance of the resulting system. But it's hard to make system that'll be simultaneously optimized in all directions. In an ideal world we would have data structures that can guarantee the best read and write performance and have no storage overhead, but of course in practice this is not possible. Researchers from Harvard DB lab summarized the three parameters people working on database systems are trying to optimize for:**ReadOverhead, UpdateOverhead, and Memory Overhead**. Deciding which overhead to optimize for will influence the choice of data structures, access methods and even suitability for certain workloads. RUM Conjecture states that setting an upper bound for two of the mentioned overheads also sets a lower bound for the third one.

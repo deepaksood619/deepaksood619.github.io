@@ -1,14 +1,10 @@
 ---
 slug: /technologies/kafka/kafka-connect
 title: Understanding Kafka Connect Architecture
-description: Explore Kafka Connect's connectors, tasks, and worker processes for effective
-  data integration and management.
-created: '2023-03-05'
-last_update: '2026-01-11'
+description: Explore Kafka Connect's connectors, tasks, and worker processes for effective data integration and management.
+created: 2023-03-05
+last_update: 2026-01-11
 ---
-
-# Kafka Connect
-
 - Connectors and tasks
     - Connectors
         - Determining how many tasks will run for the connector

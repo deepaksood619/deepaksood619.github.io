@@ -1,13 +1,10 @@
 ---
 slug: /cloud/aws/storage/amazon-efs
 title: Amazon EFS
-description: Discover Amazon EFS, the scalable, serverless file storage solution designed
-  for diverse applications, supporting seamless data sharing and management without
-  disruption.
-created: '2024-04-24'
-last_update: '2025-11-09'
+description: Discover Amazon EFS, the scalable, serverless file storage solution designed for diverse applications, supporting seamless data sharing and management without disruption.
+created: 2024-04-24
+last_update: 2025-11-09
 ---
-
 Amazon Elastic File System (EFS) is designed to provide serverless, fully elastic file storage that lets you share file data without provisioning or managing storage capacity and performance. It can be used with AWS services and on-premises resources, and it's built to scale to petabytes on demand without disrupting applications.
 
 Amazon EFS is well suited to support a broad spectrum of use cases from home directories to business-critical applications. Use cases include storage for containerized and serverless applications, big data analytics, web serving and content management, application development and testing, media and entertainment workflows, and database backups.

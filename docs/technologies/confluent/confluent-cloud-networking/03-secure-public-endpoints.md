@@ -1,14 +1,10 @@
 ---
 slug: /technologies/confluent/confluent-cloud-networking/03-secure-public-endpoints
 title: Securing Public Endpoints in Confluent Cloud
-description: Learn how to securely access your Confluent Cloud cluster through public
-  endpoints, ensuring data protection and simplicity in architecture.
-created: '2025-12-10'
-last_update: '2026-01-28'
+description: Learn how to securely access your Confluent Cloud cluster through public endpoints, ensuring data protection and simplicity in architecture.
+created: 2025-12-10
+last_update: 2026-01-28
 ---
-
-# Secure Public Endpoints
-
 ## Secure Public Endpoints
 
 ![secure-public-endpoints](https://images.ctfassets.net/gt6dp23g0g38/1Jz1pm797k1HVMCesT6j5V/66e0124472f5b89a27f119a30907088d/secure-public-endpoints.jpg)

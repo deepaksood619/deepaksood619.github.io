@@ -1,12 +1,10 @@
 ---
 slug: /cloud/tools
 title: Tools
-description: Explore essential infrastructure and VCS tools like Terraform, Kubernetes,
-  Docker, GitHub, and more for efficient development and project management.
-created: '2024-01-30'
-last_update: '2026-06-11'
+description: Explore essential infrastructure and VCS tools like Terraform, Kubernetes, Docker, GitHub, and more for efficient development and project management.
+created: 2024-01-30
+last_update: 2026-06-11
 ---
-
 ### Infrastructure Tools
 
 1. Terraform and Ansible for IaC

@@ -1,14 +1,10 @@
 ---
 slug: /technologies/confluent/confluent-pitch
 title: Confluent Data in Motion Overview
-description: Discover how Confluent leverages Apache Kafka for real-time data streaming,
-  enabling efficient data in motion solutions.
-created: '2025-12-01'
-last_update: '2026-02-12'
+description: Discover how Confluent leverages Apache Kafka for real-time data streaming, enabling efficient data in motion solutions.
+created: 2025-12-01
+last_update: 2026-02-12
 ---
-
-# Confluent Pitch
-
 1. Data at Rest is no longer a complete solution to today's problems.
 2. Kafka allows you to use data as it's being created, allowing systems to operate in real time. This is Data in Motion.
 3. Confluent is pioneered Data in Motion, using Apache Kafka, Confluent has set the standard for Data in Motion by building a platform which is:

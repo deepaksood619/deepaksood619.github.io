@@ -1,12 +1,10 @@
 ---
 slug: /decentralized-applications/coins-tokens-chains/near-protocol
 title: Near Protocol
-description: Discover NEAR Protocol, a powerful layer-one blockchain designed for
-  seamless DApps with enhanced speed, interoperability, and user-friendly features.
-created: '2023-07-10'
-last_update: '2025-02-14'
+description: Discover NEAR Protocol, a powerful layer-one blockchain designed for seamless DApps with enhanced speed, interoperability, and user-friendly features.
+created: 2023-07-10
+last_update: 2025-02-14
 ---
-
 ## What Is NEAR Protocol (NEAR)?
 
 [NEAR Protocol](https://coinmarketcap.com/currencies/near-protocol/) is a [layer-one blockchain](https://coinmarketcap.com/alexandria/glossary/layer-1-blockchain) that was designed as a community-run cloud computing platform and that eliminates some of the limitations that have been bogging competing blockchains, such as low transaction speeds, low throughput and poor interoperability. This provides the ideal environment for [DApps](https://coinmarketcap.com/alexandria/de/glossary/decentralized-applications-dapps) and creates a developer and user-friendly platform. For instance, NEAR uses human-readable account names, unlike the cryptographic wallet addresses common to [Ethereum](https://coinmarketcap.com/currencies/ethereum/). NEAR also introduces unique solutions to scaling problems and has its own [consensus mechanism](https://coinmarketcap.com/alexandria/glossary/consensus-mechanism) called "Doomslug."

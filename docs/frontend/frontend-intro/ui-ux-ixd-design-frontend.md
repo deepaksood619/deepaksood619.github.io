@@ -1,14 +1,10 @@
 ---
 slug: /frontend/frontend-intro/ui-ux-ixd-design-frontend
 title: UI/UX Design Essentials Guide
-description: Explore core principles of UI/UX design, usability heuristics, and best
-  practices to enhance user experience in front-end development.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Explore core principles of UI/UX design, usability heuristics, and best practices to enhance user experience in front-end development.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
-# UI / UX / IxD / Design / Frontend
-
 "Design is not just what it looks like and feels like. Design is how it works."---[Steve Jobs, 2003](https://www.lukew.com/quotes/)
 
 https://www.freecodecamp.org/news/ui-ux-design-guide

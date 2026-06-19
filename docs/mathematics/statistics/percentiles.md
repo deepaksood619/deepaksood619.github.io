@@ -1,12 +1,10 @@
 ---
 slug: /mathematics/statistics/percentiles
 title: Percentiles
-description: Discover how percentiles help you understand your position within a dataset
-  by indicating what percentage of the population has scores lower than yours.
-created: '2023-06-24'
-last_update: '2025-02-14'
+description: Discover how percentiles help you understand your position within a dataset by indicating what percentage of the population has scores lower than yours.
+created: 2023-06-24
+last_update: 2025-02-14
 ---
-
 Tell you what percentage of the population has a score or value that's lower than yours.
 
 Percentile is a statistical concept used to describe a specific position or value in a distribution of data. It indicates the relative position of a particular data point within the entire dataset, expressing what percentage of the values are equal to or below that point.

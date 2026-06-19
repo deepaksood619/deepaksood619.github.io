@@ -1,14 +1,10 @@
 ---
 slug: /data-structures/hashtable/readme
 title: Comprehensive Guide to HashTables
-description: Explore hashing techniques, hash functions, and data structures in this
-  detailed HashTable guide for efficient data management.
-created: '2023-03-05'
-last_update: '2023-07-10'
+description: Explore hashing techniques, hash functions, and data structures in this detailed HashTable guide for efficient data management.
+created: 2023-03-05
+last_update: 2023-07-10
 ---
-
-# HashTable
-
 - [Hashing](hashing)
 - [Hashing Techniques](hashing-techniques)
 - [List of Hash Functions](list-of-hash-functions)

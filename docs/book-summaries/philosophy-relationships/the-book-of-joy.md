@@ -1,13 +1,10 @@
 ---
 slug: /book-summaries/philosophy-relationships/the-book-of-joy
 title: The Book of Joy
-description: Discover lasting happiness with "The Book of Joy" by Dalai Lama and Desmond
-  Tutu, exploring eight pillars like gratitude, humor, and acceptance for a joyful
-  life.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover lasting happiness with "The Book of Joy" by Dalai Lama and Desmond Tutu, exploring eight pillars like gratitude, humor, and acceptance for a joyful life.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Dalai Lama and Desmond Tutu (24 Dec 2018)
 
 Lasting Happiness in a changing world

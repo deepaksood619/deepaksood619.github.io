@@ -1,12 +1,10 @@
 ---
 slug: /psychology/sleep
 title: Sleep
-description: Explore the importance of natural sleep patterns, the connection between
-  ease and sleep quality, and the misconceptions about sleep duration in modern life.
-created: '2023-03-05'
-last_update: '2026-05-04'
+description: Explore the importance of natural sleep patterns, the connection between ease and sleep quality, and the misconceptions about sleep duration in modern life.
+created: 2023-03-05
+last_update: 2026-05-04
 ---
-
 Sleep is a question of ease. If you are totally at ease, your sleep quality will go up and your sleep quota will go down. -- Sadhguru
 
 If you can transition from wakefulness to sleep consciously, you will also be able to transition from life to death consciously.

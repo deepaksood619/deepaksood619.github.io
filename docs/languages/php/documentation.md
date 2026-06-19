@@ -1,13 +1,10 @@
 ---
 slug: /languages/php/documentation
 title: Documentation
-description: Explore comprehensive PHP documentation, covering syntax, variables,
-  control structures, functions, and object-oriented programming to enhance your coding
-  skills.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore comprehensive PHP documentation, covering syntax, variables, control structures, functions, and object-oriented programming to enhance your coding skills.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
 - [**Language Reference**](https://www.php.net/manual/en/langref.php)
     - [Basic syntax](https://www.php.net/manual/en/language.basic-syntax.php)
     - [Types](https://www.php.net/manual/en/language.types.php)

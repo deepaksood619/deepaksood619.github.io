@@ -1,14 +1,10 @@
 ---
 slug: /about-deepak-sood/projects/82-stashfin-metrics
 title: Stashfin Management Metrics Overview
-description: Explore essential Stashfin metrics including GitLab, Grafana insights,
-  CI/CD analytics, and more to optimize performance.
-created: '2023-12-06'
-last_update: '2025-02-14'
+description: Explore essential Stashfin metrics including GitLab, Grafana insights, CI/CD analytics, and more to optimize performance.
+created: 2023-12-06
+last_update: 2025-02-14
 ---
-
-# Stashfin Metrics
-
 ## Management Metrics / Tools
 
 ### Gitlab / Code

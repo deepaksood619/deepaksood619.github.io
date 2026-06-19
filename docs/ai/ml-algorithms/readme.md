@@ -1,13 +1,10 @@
 ---
 slug: /ai/ml-algorithms/readme
 title: ML Algorithms
-description: Explore essential ML algorithms including regression, classification,
-  clustering, and ensemble methods to enhance your data analysis and predictive modeling
-  skills.
-created: '2023-03-05'
-last_update: '2025-02-27'
+description: Explore essential ML algorithms including regression, classification, clustering, and ensemble methods to enhance your data analysis and predictive modeling skills.
+created: 2023-03-05
+last_update: 2025-02-27
 ---
-
 - [Regression](regression)
 - [Linear Regression](linear-regression)
 - [Logistic Regresssion](logistic-regression)

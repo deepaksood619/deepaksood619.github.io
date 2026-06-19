@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/geography/indian-states-and-uts
 title: Indian States and UTs
-description: Explore India's 28 states and 9 union territories, their unique administrative
-  divisions, and local titles for effective governance and cultural diversity.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Explore India's 28 states and 9 union territories, their unique administrative divisions, and local titles for effective governance and cultural diversity.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
 [India](https://en.wikipedia.org/wiki/India) is a [federal](https://en.wikipedia.org/wiki/Federalism) union comprising 28 [states](https://en.wikipedia.org/wiki/Federated_state) and 9 [union territories](https://en.wikipedia.org/wiki/Union_territory), for a total of 37 entities. The states and union territories are further subdivided into [districts](https://en.wikipedia.org/wiki/List_of_districts_in_India) and smaller [administrative divisions](https://en.wikipedia.org/wiki/Administrative_divisions_of_India).
 
 ## Adminstrative Divisions of India

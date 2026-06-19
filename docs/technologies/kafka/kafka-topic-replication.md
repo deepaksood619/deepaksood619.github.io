@@ -1,14 +1,10 @@
 ---
 slug: /technologies/kafka/kafka-topic-replication
 title: Understanding Kafka Topic Replication
-description: Learn how Kafka topic replication ensures data durability and fault-tolerance
-  through partition replication across multiple brokers.
-created: '2023-03-05'
-last_update: '2026-03-09'
+description: Learn how Kafka topic replication ensures data durability and fault-tolerance through partition replication across multiple brokers.
+created: 2023-03-05
+last_update: 2026-03-09
 ---
-
-# Kafka Topic/Replication
-
 In [Apache Kafka®](https://www.confluent.io/what-is-apache-kafka/?session_ref=https%3A%2F%2Fdeveloper.confluent.io%2Fcertification%2F%3Futm_medium%3Dsem%26utm_source%3Dgoogle%26utm_campaign%3Dch.sem_br.nonbrand_tp.prs_tgt.dsa_mt.dsa_rgn.apac_sbrgn.india_lng.eng_dv.all_con.confluent-developer%26utm_term%3D%26creative%3D%26device%3Dc%26placement%3D%26gad_source%3D1%26gad_campaignid%3D19560855030%26gbraid%3D0AAAAADRv2c1DOIOBAozJI6eYpioovMyoo%26gclid%3DCj0KCQiA9OnJBhD-ARIsAPV51xMQxq7e-jC0tkvQIDYfH3lARfj6MxXPSd6vORc94KGXIYCsASdOvvcaApazEALw_wcB), **replication** is how data remains durable and fault-tolerant. Each **partition** in a topic is copied across multiple **brokers** to protect against data loss if a broker fails. This is controlled by a **replication factor**, which defines the number of copies (replicas) Kafka maintains for each partition. For example, if the replication factor is set to **three**, Kafka will store three copies of each partition across different brokers.
 
 Among these replicas, one is designated as the **leader**, while the others are **followers**. All **writes and reads** are directed to the **leader**. The followers continuously **sync data** from the leader, ensuring they stay up-to-date. If the leader's broker fails, Kafka automatically **elects a new leader** from the remaining followers, keeping the system running without data loss. The cluster also restores the number of replicas by creating new copies as needed.

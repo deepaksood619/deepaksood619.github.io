@@ -1,14 +1,10 @@
 ---
 slug: /education/competitors/job-platforms/job-boards-vs-education-platforms-comparison
 title: Job Boards vs. Education Platforms
-description: Explore the differences and overlaps between job boards and education-to-employment
-  platforms in today's job market.
-created: '2026-06-08'
-last_update: '2026-06-09'
+description: Explore the differences and overlaps between job boards and education-to-employment platforms in today's job market.
+created: 2026-06-08
+last_update: 2026-06-09
 ---
-
-# Job Boards vs. Education-to-Employment Platforms: Comparative Analysis
-
 **Last Updated:** June 2026
 
 **Category:** Strategic Comparative Analysis

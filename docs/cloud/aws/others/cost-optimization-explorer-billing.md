@@ -1,12 +1,10 @@
 ---
 slug: /cloud/aws/others/cost-optimization-explorer-billing
 title: Cost Optimization / Explorer / Billing
-description: Discover effective cost optimization strategies with AWS, access billing
-  information, and manage cloud finances seamlessly through AWS Cost Explorer.
-created: '2024-04-13'
-last_update: '2026-06-11'
+description: Discover effective cost optimization strategies with AWS, access billing information, and manage cloud finances seamlessly through AWS Cost Explorer.
+created: 2024-04-13
+last_update: 2026-06-11
 ---
-
 [Cost Optimization with AWS](https://aws.amazon.com/aws-cost-management/cost-optimization/)
 
 [Cloud Financial Management with AWS](https://aws.amazon.com/aws-cost-management/)

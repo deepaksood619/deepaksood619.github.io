@@ -1,12 +1,10 @@
 ---
 slug: /decentralized-applications/coins-tokens-chains/usdt
 title: USDT
-description: Discover USDT, the pioneering stablecoin that bridges cryptocurrency
-  and fiat, offering high liquidity and low volatility for seamless digital transactions.
-created: '2023-03-05'
-last_update: '2025-10-08'
+description: Discover USDT, the pioneering stablecoin that bridges cryptocurrency and fiat, offering high liquidity and low volatility for seamless digital transactions.
+created: 2023-03-05
+last_update: 2025-10-08
 ---
-
 ## What is USDT?
 
 USDT or Tether was the earliest stablecoins issued in 2014 by Hong Kong-based company Tether Limited. The idea behind USDT was to bridge the gap between cryptocurrency and fiat currency, a goal that Tether achieved successfully. For the first time, Tether allowed crypto holders access to platform-specific, blockchain-based US dollars that had high liquidity as other cryptocurrencies (Bitcoin, Ethereum, and other crypto assets) but eliminated their price volatility.

@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/biology/muscles
 title: Muscles
-description: Discover the essential roles of muscles, joints, tendons, and ligaments
-  in movement and stability, enhancing your understanding of human anatomy.
-created: '2023-03-05'
-last_update: '2025-01-16'
+description: Discover the essential roles of muscles, joints, tendons, and ligaments in movement and stability, enhancing your understanding of human anatomy.
+created: 2023-03-05
+last_update: 2025-01-16
 ---
-
 ## Muscles
 
 ![image](../../media/Muscles-image1.jpg)

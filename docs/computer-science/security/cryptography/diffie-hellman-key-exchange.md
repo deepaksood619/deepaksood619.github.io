@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/security/cryptography/diffie-hellman-key-exchange
 title: Understanding Diffie-Hellman Key Exchange
-description: Learn how Diffie-Hellman key exchange enables secure cryptographic key
-  sharing over public channels.
-created: '2023-03-05'
-last_update: '2023-07-04'
+description: Learn how Diffie-Hellman key exchange enables secure cryptographic key sharing over public channels.
+created: 2023-03-05
+last_update: 2023-07-04
 ---
-
-# Diffie-Hellman Key Exchange
-
 Diffie-Hellman key exchange (DH)is a method of securely exchanging [cryptographic keys](https://en.wikipedia.org/wiki/Key_(cryptography)) over a public channel and was one of the first [public-key protocols](https://en.wikipedia.org/wiki/Public-key_cryptography) as originally conceptualized by [Ralph Merkle](https://en.wikipedia.org/wiki/Ralph_Merkle) and named after [Whitfield Diffie](https://en.wikipedia.org/wiki/Whitfield_Diffie) and [Martin Hellman](https://en.wikipedia.org/wiki/Martin_Hellman)
 
 The simplest and the original implementation of the protocol uses the [multiplicative group of integers modulo](https://en.wikipedia.org/wiki/Multiplicative_group_of_integers_modulo_n)*p*, where *p* is [prime](https://en.wikipedia.org/wiki/Prime_number), and *g* is a [primitive root](https://en.wikipedia.org/wiki/Primitive_root_modulo_n)[modulo](https://en.wikipedia.org/wiki/Modular_arithmetic) *p*. These two values are chosen in this way to ensure that the resulting shared secret can take on any value from 1 to *p* --1. Here is an example of the protocol, with non-secret values in blue, and secret values in **red**.

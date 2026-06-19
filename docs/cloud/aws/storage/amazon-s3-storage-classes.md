@@ -1,13 +1,10 @@
 ---
 slug: /cloud/aws/storage/amazon-s3-storage-classes
 title: Amazon S3 Storage Classes
-description: Discover Amazon S3 Storage Classes, including S3 Standard for high-performance
-  access and Intelligent-Tiering for changing data needs, ensuring optimal storage
-  solutions.
-created: '2024-04-13'
-last_update: '2026-04-28'
+description: Discover Amazon S3 Storage Classes, including S3 Standard for high-performance access and Intelligent-Tiering for changing data needs, ensuring optimal storage solutions.
+created: 2024-04-13
+last_update: 2026-04-28
 ---
-
 ## General purpose - Amazon S3 Standard (S3 Standard)
 
 S3 Standard offers high durability, availability, and performance object storage for frequently accessed data. Because it delivers low latency and high throughput, S3 Standard is appropriate for a wide variety of use cases, including cloud applications, dynamic websites, content distribution, mobile and gaming applications, and big data analytics.

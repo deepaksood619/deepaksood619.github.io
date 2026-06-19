@@ -1,12 +1,10 @@
 ---
 slug: /economics/investment-products/debt-funds/debt-mutual-funds-overview
 title: Debt Mutual Funds
-description: Explore debt mutual funds for portfolio stability, alongside EPF, PPF,
-  and SSY, to enhance long-term investments while maintaining liquidity.
-created: '2023-03-05'
-last_update: '2026-06-09'
+description: Explore debt mutual funds for portfolio stability, alongside EPF, PPF, and SSY, to enhance long-term investments while maintaining liquidity.
+created: 2023-03-05
+last_update: 2026-06-09
 ---
-
 - The debt part of the portfolio is to provide stability to the portfolio, not to generate a higher return. If investors want a higher return from their portfolio, they should ideally increase equity allocation in the portfolio.
 - Employee Provident Fund (EPF), Public Provident Fund (PPF) and Sukanya Samriddhi Yojana (SSY) are the best products for the debt part of the long-term portfolio for retail investors.
 - Investors should use debt mutual funds in their long-term portfolios only after the optimum use of EPF, PPF and SSY. Investors can use debt funds to maintain some liquidity in their long-term portfolios.

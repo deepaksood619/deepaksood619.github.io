@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/biology/nutrition/readme
 title: Nutrition
-description: Explore the fundamentals of nutrition, daily dietary requirements, essential
-  foods, and insightful recipes for a healthier lifestyle.
-created: '2023-03-05'
-last_update: '2026-06-16'
+description: Explore the fundamentals of nutrition, daily dietary requirements, essential foods, and insightful recipes for a healthier lifestyle.
+created: 2023-03-05
+last_update: 2026-06-16
 ---
-
 - [Nutrition](knowledge/biology/nutrition/intro.md)
 - [Diet](knowledge/biology/nutrition/diet.md)
 	- [diet-nutritional-analysis](knowledge/biology/nutrition/diet-nutritional-analysis.md)

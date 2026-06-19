@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/bigquery/modeling
 title: BigQuery Table Configuration Insights
-description: Explore how partitioning and clustering in BigQuery enhance performance
-  and reduce costs for managing large datasets.
-created: '2025-01-27'
-last_update: '2025-10-25'
+description: Explore how partitioning and clustering in BigQuery enhance performance and reduce costs for managing large datasets.
+created: 2025-01-27
+last_update: 2025-10-25
 ---
-
-# Modeling
-
 ## Dataset and table configurations
 
 BigQuery offers a number of ways to configure your data and tables such as partitioning, clustering, and data locality. These configurations can help maintain large tables and reduce the overall data load and response time for your queries, thereby increasing the operational efficiency of your data workloads.

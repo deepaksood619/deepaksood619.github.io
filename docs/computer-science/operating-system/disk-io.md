@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/operating-system/disk-io
 title: Understanding Disk IO Operations
-description: Explore essential disk IO system calls and functions, including standard,
-  vectored, and memory-mapped IO for efficient data handling.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Explore essential disk IO system calls and functions, including standard, vectored, and memory-mapped IO for efficient data handling.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
-# Disk IO
-
 ## IO
 
 - Syscalls: [open](http://man7.org/linux/man-pages/man2/open.2.html), [write](http://man7.org/linux/man-pages/man2/write.2.html), [read](http://man7.org/linux/man-pages/man2/read.2.html), [fsync](http://man7.org/linux/man-pages/man2/fsync.2.html), [sync](http://man7.org/linux/man-pages/man2/sync.2.html), [close](http://man7.org/linux/man-pages/man2/close.2.html)

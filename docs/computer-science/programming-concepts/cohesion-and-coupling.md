@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/programming-concepts/cohesion-and-coupling
 title: Understanding Cohesion and Coupling
-description: Explore the concepts of cohesion and coupling in software design, and
-  learn how to optimize module interconnections for better performance.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Explore the concepts of cohesion and coupling in software design, and learn how to optimize module interconnections for better performance.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
-# Cohesion and Coupling
-
 ## COUPLING - An indication of the strength of interconnections between program units
 
 Highly coupled have program units dependent on each other. Loosely coupled are made up of units that are independent or almost independent.

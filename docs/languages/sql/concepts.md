@@ -1,12 +1,10 @@
 ---
 slug: /languages/sql/concepts
 title: Concepts
-description: Learn about SQL predicates, which define logical conditions in queries,
-  affecting result sets through WHERE and HAVING clauses for effective data retrieval.
-created: '2023-03-05'
-last_update: '2026-06-17'
+description: Learn about SQL predicates, which define logical conditions in queries, affecting result sets through WHERE and HAVING clauses for effective data retrieval.
+created: 2023-03-05
+last_update: 2026-06-17
 ---
-
 ## Predicate
 
 A WHERE clause is a predicate. Retrieving records from a database using a projection statement like SELECT and combining it with any other clause that limits or filters your result set is considered to be a predicate. A predicate is an assertion which returns true or false. Only the true path affects the result set

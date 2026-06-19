@@ -1,13 +1,10 @@
 ---
 slug: /book-summaries/philosophy-relationships/talking-across-divide
 title: Talking Across the Divide
-description: Discover how to communicate effectively with those you disagree with
-  through strategic dialogues, listening techniques, and overcoming barriers to foster
-  understanding.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover how to communicate effectively with those you disagree with through strategic dialogues, listening techniques, and overcoming barriers to foster understanding.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Justin Lee
 
 How to communicate with people you disagree with and maybe even change the world

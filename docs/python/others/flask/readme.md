@@ -1,14 +1,10 @@
 ---
 slug: /python/others/flask/readme
 title: Introduction to Flask Framework
-description: Discover Flask, a lightweight Python web framework featuring easy setup,
-  modularity, and support for extensions.
-created: '2023-03-05'
-last_update: '2025-04-08'
+description: Discover Flask, a lightweight Python web framework featuring easy setup, modularity, and support for extensions.
+created: 2023-03-05
+last_update: 2025-04-08
 ---
-
-# Flask
-
 Flask is a micro web framework written in Python and based on the Werkzeug toolkit and Jinja2 template engine.
 
 Flask is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation. Flask supports extensions that can add application features as if they were implemented in Flask itself.

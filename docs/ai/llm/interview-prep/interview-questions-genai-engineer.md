@@ -1,12 +1,10 @@
 ---
 slug: /ai/llm/interview-prep/interview-questions-genai-engineer
 title: Interview Questions GenAI Engineer
-description: Discover essential interview questions for GenAI Engineers, covering
-  RAG strategies, semantic routing, agent architectures, and hybrid search metrics.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover essential interview questions for GenAI Engineers, covering RAG strategies, semantic routing, agent architectures, and hybrid search metrics.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 ## Top 10 Development & Agentic RAG Questions
 
 1. How do you implement **Semantic Router** logic to decide between multiple specialized RAG pipelines?

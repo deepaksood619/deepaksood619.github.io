@@ -1,13 +1,10 @@
 ---
 slug: /economics/taxation/tax-efficient-investing
 title: Tax-Efficient Investing Strategies
-description: Discover tax-efficient investing strategies to maximize your returns,
-  minimize tax liabilities, and enhance your personal finance management for long-term
-  success.
-created: '2026-06-09'
-last_update: '2026-06-11'
+description: Discover tax-efficient investing strategies to maximize your returns, minimize tax liabilities, and enhance your personal finance management for long-term success.
+created: 2026-06-09
+last_update: 2026-06-11
 ---
-
 **Category:** Personal Finance - Tax Planning
 **Last Updated:** 2026-06-08
 

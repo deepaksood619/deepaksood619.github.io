@@ -1,12 +1,10 @@
 ---
 slug: /economics/investment-products/equity-funds/equity-mutual-funds
 title: Equity Mutual Funds
-description: Explore equity mutual funds, including bluechip and ELSS options, and
-  learn how multi-asset funds differ from traditional hybrid funds for informed investing.
-created: '2023-08-11'
-last_update: '2026-06-09'
+description: Explore equity mutual funds, including bluechip and ELSS options, and learn how multi-asset funds differ from traditional hybrid funds for informed investing.
+created: 2023-08-11
+last_update: 2026-06-09
 ---
-
 ## Equity funds or growth funds
 
 ### Common Names

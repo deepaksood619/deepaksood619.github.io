@@ -1,14 +1,10 @@
 ---
 slug: /databases/modeling/er-diagrams-entity-relationships
 title: Understanding ER Diagrams and Models
-description: Explore the fundamentals of ER diagrams and entity-relationship models
-  crucial for effective software engineering and business processes.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the fundamentals of ER diagrams and entity-relationship models crucial for effective software engineering and business processes.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# ER Diagrams (Entity Relationships)
-
 An **entity--relationship model** (or **ER model**) describes interrelated things of interest in a specific domain of knowledge. A basic ER model is composed of entity types (which classify the things of interest) and specifies relationships that can exist between [entities](https://en.wiktionary.org/wiki/entity)(instances of those entity types).
 
 ![image](../../media/ER-Diagrams-(Entity-Relationships)-image1.jpg)

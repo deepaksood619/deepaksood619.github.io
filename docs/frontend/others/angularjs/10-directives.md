@@ -1,14 +1,10 @@
 ---
 slug: /frontend/others/angularjs/10-directives
 title: Understanding Angular Directives
-description: Learn about Angular directives, their types, and how they transform dynamic
-  templates in your applications.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Learn about Angular directives, their types, and how they transform dynamic templates in your applications.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
-# 10. Directives
-
 ![image](../../../media/AngularJS_10.-Directives-image1.jpg)
 
 Angular templates are *dynamic*. When Angular renders them, it transforms the DOM according to the instructions given bydirectives.

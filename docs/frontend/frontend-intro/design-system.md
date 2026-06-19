@@ -1,14 +1,10 @@
 ---
 slug: /frontend/frontend-intro/design-system
 title: Comprehensive Design System Guide
-description: Explore the essential components and methodology of a design system for
-  managing design efficiently at scale.
-created: '2023-03-05'
-last_update: '2025-05-13'
+description: Explore the essential components and methodology of a design system for managing design efficiently at scale.
+created: 2023-03-05
+last_update: 2025-05-13
 ---
-
-# Design System
-
 The complete set of design standards, documentation, UI patterns, and components. Design systems allow you to manage design at scale
 
 - Typography

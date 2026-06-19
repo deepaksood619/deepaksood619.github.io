@@ -1,14 +1,10 @@
 ---
 slug: /devops/kubernetes/workloads/controllers
 title: Understanding Kubernetes Controllers
-description: Explore the role of controllers in Kubernetes orchestration, including
-  their functions and how to create custom operators.
-created: '2023-03-05'
-last_update: '2026-05-13'
+description: Explore the role of controllers in Kubernetes orchestration, including their functions and how to create custom operators.
+created: 2023-03-05
+last_update: 2026-05-13
 ---
-
-# Controllers
-
 ## Controllers / Operators
 
 An important concept for orchestration is the use of controllers. These are also known as watch-loops and operators. They query the current state, compare it against the spec, and execute code based on how they differ.Various controllers ship with Kubernetes, and you can create your own, as well. A simplified view of a controller is an agent, or Informer, and a downstream store. Using a **DeltaFIFO** queue, the source and downstream are compared. A loop process receives anobjor object, which is an array of deltas from the FIFO queue. As long as the delta is not of the type **Deleted**, the logic of the controller is used to create or modify some object until it matches the specification.

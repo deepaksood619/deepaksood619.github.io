@@ -1,12 +1,10 @@
 ---
 slug: /courses/course-credit-risk-modeling/fraud-features
 title: Fraud Features
-description: Explore essential fraud features including data and SMS metrics to enhance
-  detection and prevention strategies for financial security.
-created: '2023-03-05'
-last_update: '2024-09-17'
+description: Explore essential fraud features including data and SMS metrics to enhance detection and prevention strategies for financial security.
+created: 2023-03-05
+last_update: 2024-09-17
 ---
-
 ## Data Features
 
 | Feature Name   | Description                            |

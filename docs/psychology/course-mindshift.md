@@ -1,12 +1,10 @@
 ---
 slug: /psychology/course-mindshift
 title: Course - Mindshift
-description: Unlock your potential with the Mindshift course, exploring hidden capabilities,
-  effective learning, and aligning your assets with new opportunities.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Unlock your potential with the Mindshift course, exploring hidden capabilities, effective learning, and aligning your assets with new opportunities.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
 ## Change is Possible
 
 In today's world, change is the only constant. This means that whatever stage you are in life, you need to keep yourself open and able to change. How can you do this? In three ways: Learn more about your hidden capabilities and assets. Learn more about learning effectively. Learn about matching your assets with the opportunities that face you. In this week, we'll dive into these three important areas!

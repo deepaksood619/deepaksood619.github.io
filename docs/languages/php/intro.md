@@ -1,12 +1,10 @@
 ---
 slug: /languages/php/intro
 title: Intro
-description: Discover PHP, a versatile programming language for web development, initially
-  created in 1994 by Rasmus Lerdorf, now pivotal in dynamic website creation.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Discover PHP, a versatile programming language for web development, initially created in 1994 by Rasmus Lerdorf, now pivotal in dynamic website creation.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 PHPis a [general-purpose programming language](https://en.wikipedia.org/wiki/General-purpose_programming_language) originally designed for [web development](https://en.wikipedia.org/wiki/Web_development). It was originally created by [Rasmus Lerdorf](https://en.wikipedia.org/wiki/Rasmus_Lerdorf) in 1994;the PHP [reference implementation](https://en.wikipedia.org/wiki/Reference_implementation) is now produced by The PHP Group.PHP originally stood forPersonal Home Page, but it now stands for the [recursive initialism](https://en.wikipedia.org/wiki/Recursive_initialism) PHP: Hypertext Preprocessor.
 
 PHP code may be executed with a [command line interface](https://en.wikipedia.org/wiki/Command-line_interface)(CLI), embedded into [HTML](https://en.wikipedia.org/wiki/HTML) code, or used in combination with various [web template systems](https://en.wikipedia.org/wiki/Web_template_system), web [content management systems](https://en.wikipedia.org/wiki/Content_management_system), and [web frameworks](https://en.wikipedia.org/wiki/Web_framework). PHP code is usually processed by a PHP [interpreter](https://en.wikipedia.org/wiki/Interpreter_(computing)) implemented as a [module](https://en.wikipedia.org/wiki/Plugin_(computing)) in a web server or as a [Common Gateway Interface](https://en.wikipedia.org/wiki/Common_Gateway_Interface)(CGI) executable. The web server outputs the results of the interpreted and executed PHP code, which may be any type of data, such as generated HTML code or binary image data. PHP can be used for many programming tasks outside of the web context, such as [standalone](https://en.wikipedia.org/wiki/Computer_software)[graphical applications](https://en.wikipedia.org/wiki/Graphical_user_interface) and robotic [drone](https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle) control.

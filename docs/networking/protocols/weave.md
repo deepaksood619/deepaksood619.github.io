@@ -1,14 +1,10 @@
 ---
 slug: /networking/protocols/weave
 title: Overview of Weave Protocols
-description: Discover Weave, the lightweight networking solution for IoT, enabling
-  secure, low-latency device communication across various platforms.
-created: '2023-03-05'
-last_update: '2024-02-01'
+description: Discover Weave, the lightweight networking solution for IoT, enabling secure, low-latency device communication across various platforms.
+created: 2023-03-05
+last_update: 2024-02-01
 ---
-
-# Weave
-
 Weave is a set of application-level networking protocols built around a common addressing and naming architecture with low overhead serialization protocols and modern security.
 Weave protocols deliver device-to-device, device-to-mobile, and device-to-cloud communication for both control and data in the Internet of Things (IoT) space. While Weave is architected around IPv6, it can utilize any IP network or point-to-point communication technology such as BLE.
 

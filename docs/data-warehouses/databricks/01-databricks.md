@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/databricks/01-databricks
 title: Exploring Databricks Solutions
-description: Discover Databricks' unified data platform, architecture, and resources
-  to enhance your data and AI applications.
-created: '2023-03-07'
-last_update: '2026-02-28'
+description: Discover Databricks' unified data platform, architecture, and resources to enhance your data and AI applications.
+created: 2023-03-07
+last_update: 2026-02-28
 ---
-
-# Databricks
-
 [https://www.databricks.com/wp-content/uploads/2021/11/The-Data-Lakehouse-Platform-For-Dummies-1.pdf](https://www.databricks.com/wp-content/uploads/2021/11/The-Data-Lakehouse-Platform-For-Dummies-1.pdf)
 
 [Lakehouse Fundamentals Accreditation - Databricks](https://www.databricks.com/learn/training/lakehouse-fundamentals-accreditation)

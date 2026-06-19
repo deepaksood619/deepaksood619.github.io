@@ -1,12 +1,10 @@
 ---
 slug: /economics/learning-resources/learning
 title: Learning
-description: Explore our corporate governance course, featuring lessons on its fundamentals,
-  accounting inconsistencies, and essential finance concepts for businesses.
-created: '2023-03-05'
-last_update: '2026-06-09'
+description: Explore our corporate governance course, featuring lessons on its fundamentals, accounting inconsistencies, and essential finance concepts for businesses.
+created: 2023-03-05
+last_update: 2026-06-09
 ---
-
 ## Course - Corporate Governance
 
 [Facebook (Meta) Lesson 1: Corporate Governance - The What, Why and What now?](https://www.youtube.com/watch?v=ouxmdkMWWmI)

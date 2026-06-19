@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/string-algorithms/rabin-karp
 title: Rabin Karp Algorithm Overview
-description: Explore the Rabin Karp algorithm for efficient string matching, complete
-  with informative images and insights.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Explore the Rabin Karp algorithm for efficient string matching, complete with informative images and insights.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
-# Rabin Karp
-
 ![image](../../media/Rabin-Karp-image1.jpg)
 
 ![image](../../media/Rabin-Karp-image2.jpg)

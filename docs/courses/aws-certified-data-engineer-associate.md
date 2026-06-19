@@ -1,12 +1,10 @@
 ---
 slug: /courses/aws-certified-data-engineer-associate
 title: AWS Certified Data Engineer - Associate
-description: Prepare for the AWS Certified Data Engineer - Associate exam by mastering
-  data pipelines, ingestion, orchestration, and optimization techniques.
-created: '2024-02-20'
-last_update: '2025-04-20'
+description: Prepare for the AWS Certified Data Engineer - Associate exam by mastering data pipelines, ingestion, orchestration, and optimization techniques.
+created: 2024-02-20
+last_update: 2025-04-20
 ---
-
 [AWS Certified Data Engineer - Associate](https://aws.amazon.com/certification/certified-data-engineer-associate/)
 
 [AWS-Certified-Data-Engineer-Associate\_Exam-Guide.pdf](https://d1.awsstatic.com/training-and-certification/docs-data-engineer-associate/AWS-Certified-Data-Engineer-Associate_Exam-Guide.pdf)

@@ -1,12 +1,10 @@
 ---
 slug: /languages/sql/sql-views
 title: SQL Views
-description: Discover how SQL views simplify complex queries and enhance database
-  security by acting as virtual tables, streamlining data access for users.
-created: '2023-03-05'
-last_update: '2024-12-18'
+description: Discover how SQL views simplify complex queries and enhance database security by acting as virtual tables, streamlining data access for users.
+created: 2023-03-05
+last_update: 2024-12-18
 ---
-
 Database Administrator and Database Users will face two challenges: writing complex SQL queries and securing database access. Sometimes SQL queries become more complicated due to the use of multiple joins, subqueries, and [GROUP BY](https://www.datacamp.com/community/tutorials/group-by-having-clause-sql) in a single query. To simplify such queries, you can use some proxy over the original table. Also, Sometimes from the security side, the database administrator wants to restrict direct access to the database. For example, if a table contains various columns but the user only needs 3 columns of data in such case DBA will create a virtual table of 3 columns. For both purposes, you can use the view. Views can act as a proxy or virtual table. Views reduce the complexity of SQL queries and provide secure access to underlying tables.
 
 The view is a query stored in the data dictionary, on which the user can query just like they do on tables. It does not use the physical memory, only the query is stored in the data dictionary. It is computed dynamically, whenever the user performs any query on it. Changes made at any point in view are reflected in the actual base table.

@@ -1,14 +1,10 @@
 ---
 slug: /education/market-analysis/education-financing-models-comparison
 title: Comparative Analysis of Education Financing Models
-description: Explore various education financing models, their risks, and payment
-  structures in this comprehensive market analysis.
-created: '2026-06-09'
-last_update: '2026-06-09'
+description: Explore various education financing models, their risks, and payment structures in this comprehensive market analysis.
+created: 2026-06-09
+last_update: 2026-06-09
 ---
-
-# Education Financing Models Comparison
-
 **Last Updated:** June 2026
 
 **Category:** Market Analysis - Business Model Decision

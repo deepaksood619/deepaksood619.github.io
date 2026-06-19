@@ -1,13 +1,10 @@
 ---
 slug: /databases-nosql/time-series-db/influxdb/influx
 title: Influx
-description: Discover Influx, the complete time series platform featuring the TICK
-  stack for efficient data collection, storage, and visualization with Telegraf and
-  InfluxDB.
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Discover Influx, the complete time series platform featuring the TICK stack for efficient data collection, storage, and visualization with Telegraf and InfluxDB.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
 The complete time series platform.
 
 ![image](../../../media/InfluxDB_Influx-image1.jpg)

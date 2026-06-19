@@ -1,14 +1,10 @@
 ---
 slug: /mathematics/probability/intro-to-probability/unit-3-solved-problems
 title: Birthday Problem Analysis
-description: Explore the birthday problem and rook placement on a chessboard, analyzing
-  probabilities of unique birthdays and safe arrangements in these classic scenarios.
-created: '2023-03-05'
-last_update: '2023-11-20'
+description: Explore the birthday problem and rook placement on a chessboard, analyzing probabilities of unique birthdays and safe arrangements in these classic scenarios.
+created: 2023-03-05
+last_update: 2023-11-20
 ---
-
-# Unit 3 - Solved Problems
-
 ## The birthday problem
 
 Considernpeople who are attending a party. We assume that every person has an equal probability of being born on any day during the year, independently of everyone else, and ignore the additional complication presented by leap years (i.e., nobody is born on February 29). What is the probability that each person has a distinct birthday?

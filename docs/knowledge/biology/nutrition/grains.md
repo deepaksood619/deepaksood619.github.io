@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/biology/nutrition/grains
 title: Grains
-description: Discover the versatile uses of semolina in dishes like upma, pasta, and
-  couscous, and learn about its varieties including rawa and its nutritional benefits.
-created: '2025-02-26'
-last_update: '2026-06-06'
+description: Discover the versatile uses of semolina in dishes like upma, pasta, and couscous, and learn about its varieties including rawa and its nutritional benefits.
+created: 2025-02-26
+last_update: 2026-06-06
 ---
-
 ## Semolina / Sooji
 
 Semolina is the coarse, purified [wheat middlings](https://en.wikipedia.org/wiki/Wheat_middlings) of [durum wheat](https://en.wikipedia.org/wiki/Durum) mainly used in making [upma](https://en.wikipedia.org/wiki/Upma), [pasta](https://en.wikipedia.org/wiki/Pasta), and [couscous](https://en.wikipedia.org/wiki/Couscous). The word semolina can also refer to sweet dessert made from semolina and milk.The term semolina is also used to designate coarse middlings from other varieties of wheat, and from other grains, such as [rice](https://en.wikipedia.org/wiki/Rice) and [maize](https://en.wikipedia.org/wiki/Maize).

@@ -1,14 +1,10 @@
 ---
 slug: /technologies/confluent/confluent-cloud-security/25-maintaining-compliance-and-privacy
 title: Compliance and Privacy Regulations
-description: Learn about essential compliance and privacy regulations in regulated
-  industries with Confluent Cloud's solutions.
-created: '2025-12-10'
-last_update: '2026-01-28'
+description: Learn about essential compliance and privacy regulations in regulated industries with Confluent Cloud's solutions.
+created: 2025-12-10
+last_update: 2026-01-28
 ---
-
-# Maintaining Compliance and Privacy
-
 Throughout this course, it has been noted that certain industries are highly regulated, in particular financial services, healthcare, government, energy, and more. Typically, these industries have certain regulations or specific mandates when it comes to customer, vendor, or confidential data.
 
 Tracking and being compliant can require a significant amount of time and effort on your part.

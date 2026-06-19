@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/games/rubix-rubics-cube
 title: Rubix Rubics Cube
-description: Master the Rubix Rubics Cube with essential formulas and strategies for
-  solving the middle and final layers efficiently and effectively.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Master the Rubix Rubics Cube with essential formulas and strategies for solving the middle and final layers efficiently and effectively.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 **Formulas**
 
 **Formula -**

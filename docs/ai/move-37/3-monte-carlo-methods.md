@@ -1,13 +1,10 @@
 ---
 slug: /ai/move-37/3-monte-carlo-methods
 title: 3. Monte Carlo Methods
-description: Discover Monte Carlo Methods for IoT optimization, exploring model-free
-  reinforcement learning, stochastic simulations, and the balance of exploration and
-  exploitation.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Discover Monte Carlo Methods for IoT optimization, exploring model-free reinforcement learning, stochastic simulations, and the balance of exploration and exploitation.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
 ## Internet of Things Optimization
 
 - Monte Carlo vs Dynamic Programming

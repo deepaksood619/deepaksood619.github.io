@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/searching-sorting/intro
 title: Introduction to Searching and Sorting Algorithms
-description: Explore various searching and sorting algorithms, including sequential,
-  binary, and external sorts, for efficient data organization and retrieval.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore various searching and sorting algorithms, including sequential, binary, and external sorts, for efficient data organization and retrieval.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Intro
-
 Searching
 
 - Sequential Search / Linear Search

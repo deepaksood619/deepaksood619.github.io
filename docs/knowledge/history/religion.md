@@ -1,13 +1,10 @@
 ---
 slug: /knowledge/history/religion
 title: Religion
-description: Explore the impact of religion on society, theological differences, and
-  the complexities of Islam, including Sunni and Shia branches, in this insightful
-  overview.
-created: '2023-03-05'
-last_update: '2025-11-04'
+description: Explore the impact of religion on society, theological differences, and the complexities of Islam, including Sunni and Shia branches, in this insightful overview.
+created: 2023-03-05
+last_update: 2025-11-04
 ---
-
 [What has religion done for this world? - Quora](https://www.quora.com/What-has-religion-done-for-this-world)
 
 Book - What has religion done for mankind?

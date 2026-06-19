@@ -1,14 +1,10 @@
 ---
 slug: /networking/protocols/intro
 title: Comprehensive Network Protocols Overview
-description: Explore key network protocols across application, transport, internet,
-  and link layers for enhanced understanding and application.
-created: '2023-03-05'
-last_update: '2025-02-09'
+description: Explore key network protocols across application, transport, internet, and link layers for enhanced understanding and application.
+created: 2023-03-05
+last_update: 2025-02-09
 ---
-
-# Protocols
-
 1. Application Layer
     - BGP
     - DHCP

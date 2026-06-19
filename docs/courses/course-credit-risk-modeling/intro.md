@@ -1,12 +1,10 @@
 ---
 slug: /courses/course-credit-risk-modeling/intro
 title: Intro
-description: Discover the essentials of credit risk, including default probability,
-  expected loss, and risk-based pricing, to effectively assess borrower reliability.
-created: '2023-03-05'
-last_update: '2025-10-18'
+description: Discover the essentials of credit risk, including default probability, expected loss, and risk-based pricing, to effectively assess borrower reliability.
+created: 2023-03-05
+last_update: 2025-10-18
 ---
-
 - Credit Risk - The likelihood that a borrower would not repay their loan to the lender (not receive owed principal and interest)
 - Collection costs
 - Default - A borrower not being able to repay their debt

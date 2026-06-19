@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/personal-development/david-and-goliath
 title: David and Goliath
-description: Explore the inspiring story of David and Goliath, highlighting how underdogs
-  achieve unexpected victories against giants through strategy and courage.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Explore the inspiring story of David and Goliath, highlighting how underdogs achieve unexpected victories against giants through strategy and courage.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 David, a shepherd boy carrying a wooden staff and sling, volunteers to fight a seven-foot giant named Goliath. Goliath is fully armored with a sword in one hand and a spear in the other. When he sees David approach him with a wooden staff, he laughs and says, "Am I a dog that you should come to me with sticks?"
 
 David quietly puts a stone in his sling and fires it at a tiny opening in Goliath's helmet. Goliath falls to the ground, stunned. David runs to Goliath, grabs his sword, and cuts his head off.

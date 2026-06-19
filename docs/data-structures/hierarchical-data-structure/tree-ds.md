@@ -1,14 +1,10 @@
 ---
 slug: /data-structures/hierarchical-data-structure/tree-ds
 title: Understanding Tree Data Structures
-description: Explore key properties of tree data structures, including node relationships,
-  degrees, and special types like complete binary and k-ary trees.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore key properties of tree data structures, including node relationships, degrees, and special types like complete binary and k-ary trees.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Tree DS
-
 1. A Tree with N vertices has N-1 Edges
 
 2. For a tree withnvertices andn -- 1edges, sum of all degrees should be2 * (n -- 1).3. ***In a k-ary tree where every node has either 0 or k children, following property is always true.***

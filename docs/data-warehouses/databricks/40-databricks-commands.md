@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/databricks/40-databricks-commands
 title: Essential Databricks Commands
-description: Discover key Databricks CLI commands for managing workflows, secret scopes,
-  and configurations in your Databricks environment.
-created: '2023-05-08'
-last_update: '2026-04-28'
+description: Discover key Databricks CLI commands for managing workflows, secret scopes, and configurations in your Databricks environment.
+created: 2023-05-08
+last_update: 2026-04-28
 ---
-
-# Databricks-commands
-
 ## Databricks CLI
 
 ```bash

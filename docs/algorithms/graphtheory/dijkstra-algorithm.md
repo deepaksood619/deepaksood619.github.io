@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/graphtheory/dijkstra-algorithm
 title: Understanding Dijkstra's Algorithm
-description: Explore Dijkstra's Algorithm for finding the shortest path in directed
-  graphs with non-negative weights. Learn its properties and time complexities.
-created: '2023-03-05'
-last_update: '2025-02-24'
+description: Explore Dijkstra's Algorithm for finding the shortest path in directed graphs with non-negative weights. Learn its properties and time complexities.
+created: 2023-03-05
+last_update: 2025-02-24
 ---
-
-# Dijkstra's Algorithm
-
 ## Properties
 
 - For directed graphs

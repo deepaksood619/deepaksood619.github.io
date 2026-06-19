@@ -1,12 +1,10 @@
 ---
 slug: /economics/accounting-for-finance/1-accounting-first-steps
 title: 1 Accounting First Steps
-description: Discover the essential roles of accounting, including transaction tracking,
-  consistent recording, and standardized reporting for effective business management.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Discover the essential roles of accounting, including transaction tracking, consistent recording, and standardized reporting for effective business management.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
 ## The Accountant's Role
 
 - To check transactions and operations, as they occur

@@ -1,14 +1,10 @@
 ---
 slug: /education/market-analysis/income-sharing-agreements-pap-analysis
 title: Income Sharing Agreements & PAP Models
-description: Explore Income Sharing Agreements and Pay After Placement models that
-  align education financing with student success in job outcomes.
-created: '2026-06-09'
-last_update: '2026-06-09'
+description: Explore Income Sharing Agreements and Pay After Placement models that align education financing with student success in job outcomes.
+created: 2026-06-09
+last_update: 2026-06-09
 ---
-
-# Income Sharing Agreements (ISA) & Pay After Placement (PAP) Models
-
 **Last Updated:** June 2026
 
 **Category:** Market Analysis - Alternative Education Financing Models

@@ -1,12 +1,10 @@
 ---
 slug: /ai/move-37/reinforcement-learning
 title: Reinforcement Learning
-description: Explore reinforcement learning, a machine learning approach where software
-  agents maximize cumulative rewards through actions in dynamic environments.
-created: '2023-03-05'
-last_update: '2026-06-10'
+description: Explore reinforcement learning, a machine learning approach where software agents maximize cumulative rewards through actions in dynamic environments.
+created: 2023-03-05
+last_update: 2026-06-10
 ---
-
 ## Reinforcement learning
 
 RL is an area of [machine learning](https://en.wikipedia.org/wiki/Machine_learning) concerned with how [software agents](https://en.wikipedia.org/wiki/Software_agent) ought to take [*actions*](https://en.wikipedia.org/wiki/Action_selection) in an *environment* so as to maximize some notion of cumulative *reward*

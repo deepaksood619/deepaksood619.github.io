@@ -1,12 +1,10 @@
 ---
 slug: /economics/investment-frameworks/portfolio-construction/rebalancing-strategies
 title: Portfolio Rebalancing Strategies
-description: Discover essential portfolio rebalancing strategies to maintain your
-  target asset allocation and manage risk effectively in fluctuating markets.
-created: '2026-06-09'
-last_update: '2026-06-10'
+description: Discover essential portfolio rebalancing strategies to maintain your target asset allocation and manage risk effectively in fluctuating markets.
+created: 2026-06-09
+last_update: 2026-06-10
 ---
-
 **Category:** Investment Frameworks - Portfolio Construction
 **Last Updated:** 2026-06-08
 

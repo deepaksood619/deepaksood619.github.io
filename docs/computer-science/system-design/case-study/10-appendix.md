@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/system-design/case-study/10-appendix
-title: 'Technical Appendix: Stream Processing Comparison'
-description: Explore the comparison of stream processing options including Apache
-  Flink, ksqlDB, Kafka Streams, and Spark Structured Streaming.
-created: '2026-01-29'
-last_update: '2026-01-29'
+title: "Technical Appendix: Stream Processing Comparison"
+description: Explore the comparison of stream processing options including Apache Flink, ksqlDB, Kafka Streams, and Spark Structured Streaming.
+created: 2026-01-29
+last_update: 2026-01-29
 ---
-
-# Appendix
-
 **Detailed Technical Appendix: Implementation Reference**
 
 ## A.1 Comparison of Stream Processing Options

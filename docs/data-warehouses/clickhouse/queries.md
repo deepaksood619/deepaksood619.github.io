@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/clickhouse/queries
 title: ClickHouse Docker Commands Guide
-description: Learn essential Docker commands for setting up and managing ClickHouse
-  database servers effectively.
-created: '2025-05-16'
-last_update: '2026-06-11'
+description: Learn essential Docker commands for setting up and managing ClickHouse database servers effectively.
+created: 2025-05-16
+last_update: 2026-06-11
 ---
-
-# Queries
-
 ## Commands
 
 ```bash

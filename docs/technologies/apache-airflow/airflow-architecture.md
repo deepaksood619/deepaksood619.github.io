@@ -1,14 +1,10 @@
 ---
 slug: /technologies/apache-airflow/airflow-architecture
 title: Understanding Airflow Architecture
-description: Explore the core components of Airflow architecture, focusing on its
-  queuing system and metadata database for efficient task management.
-created: '2023-03-05'
-last_update: '2025-02-14'
+description: Explore the core components of Airflow architecture, focusing on its queuing system and metadata database for efficient task management.
+created: 2023-03-05
+last_update: 2025-02-14
 ---
-
-# Airflow Architecture
-
 At its core, Airflow is simply a queuing system built on top of a metadata database. The database stores the state of queued tasks and a scheduler uses these states to prioritize how other tasks are added to the queue. This functionality is orchestrated by four primary components
 
 ![image](../../media/Technologies-Apache-Airflow-Architecture-image2.jpg)

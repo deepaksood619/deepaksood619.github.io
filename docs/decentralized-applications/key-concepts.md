@@ -1,12 +1,10 @@
 ---
 slug: /decentralized-applications/key-concepts
 title: Key Concepts
-description: Discover essential Web3 concepts like architecture, trapdoor functions
-  for encryption, and chain forks in blockchain technology for effective development.
-created: '2023-03-05'
-last_update: '2025-02-14'
+description: Discover essential Web3 concepts like architecture, trapdoor functions for encryption, and chain forks in blockchain technology for effective development.
+created: 2023-03-05
+last_update: 2025-02-14
 ---
-
 ## Web3 Architecture
 
 [The Architecture of a Web 3.0 application](https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application)

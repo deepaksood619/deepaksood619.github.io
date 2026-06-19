@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/general/intro
 title: Intro
-description: Discover the meanings, types, and significance of knowledge, encompassing
-  facts, skills, education, and experience for deeper understanding and growth.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Discover the meanings, types, and significance of knowledge, encompassing facts, skills, education, and experience for deeper understanding and growth.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 Knowledge is a familiarity, awareness, or understanding of someone or something, such as [facts](https://en.wikipedia.org/wiki/Fact), [information](https://en.wikipedia.org/wiki/Information), [descriptions](https://en.wikipedia.org/wiki/Description), or [skills](https://en.wikipedia.org/wiki/Skills), which is acquired through [experience](https://en.wikipedia.org/wiki/Experience) or [education](https://en.wikipedia.org/wiki/Education) by [perceiving](https://en.wikipedia.org/wiki/Perception), [discovering](https://en.wikipedia.org/wiki/Discovery_(observation)), or [learning](https://en.wikipedia.org/wiki/Learning).
 
 Knowledge can refer to a [theoretical](https://en.wikipedia.org/wiki/Theoretical) or [practical](https://en.wikipedia.org/wiki/Practical) understanding of a subject. It can be implicit (as with practical skill or expertise) or explicit (as with the theoretical understanding of a subject); it can be more or less formal or systematic.

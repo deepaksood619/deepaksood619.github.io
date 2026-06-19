@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/biology/nutrition/food
 title: Food
-description: Discover how mindful eating, zero oil cooking, and meal timing can transform
-  your health and enhance your overall well-being for a better quality of life.
-created: '2023-03-05'
-last_update: '2026-06-16'
+description: Discover how mindful eating, zero oil cooking, and meal timing can transform your health and enhance your overall well-being for a better quality of life.
+created: 2023-03-05
+last_update: 2026-06-16
 ---
-
 The way you eat not only decides your physical health, but the very way you think, feel, and experience life. -- Sadhguru
 
 Only eat till you are 80% full

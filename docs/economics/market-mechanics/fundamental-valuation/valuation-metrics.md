@@ -1,13 +1,10 @@
 ---
 slug: /economics/market-mechanics/fundamental-valuation/valuation-metrics
 title: Valuation Metrics
-description: Discover the top four essential valuation metrics every investor should
-  know, including Price to Book and Price to Earnings ratios, to enhance your investment
-  strategy.
-created: '2023-03-05'
-last_update: '2026-06-09'
+description: Discover the top four essential valuation metrics every investor should know, including Price to Book and Price to Earnings ratios, to enhance your investment strategy.
+created: 2023-03-05
+last_update: 2026-06-09
 ---
-
 [4 Most Popular Valuation Metrics That Every Investor Must Know | ET Money](https://www.youtube.com/watch?v=kqNaY3woTeE)
 
 - **Price to Book Ratio**

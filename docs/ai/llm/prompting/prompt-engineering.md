@@ -1,12 +1,10 @@
 ---
 slug: /ai/llm/prompting/prompt-engineering
 title: Prompt Engineering
-description: Discover the art of prompt engineering, focusing on tailored prompt design
-  to enhance AI model performance and user interaction on platforms like Kaggle.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover the art of prompt engineering, focusing on tailored prompt design to enhance AI model performance and user interaction on platforms like Kaggle.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 [Prompt Engineering \| Kaggle](https://www.kaggle.com/whitepaper-prompt-engineering)
 
 **Prompt design** is the process of creating a prompt that is tailored to the specific task that the system is being asked to perform.

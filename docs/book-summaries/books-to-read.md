@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/books-to-read
 title: Books
-description: Discover a curated collection of book resources, summaries, and diverse
-  genres including speculative fiction, magical realism, and essential marketing reads.
-created: '2023-03-05'
-last_update: '2026-01-25'
+description: Discover a curated collection of book resources, summaries, and diverse genres including speculative fiction, magical realism, and essential marketing reads.
+created: 2023-03-05
+last_update: 2026-01-25
 ---
-
 ## Resources
 
 - https://www.freecodecamp.org/news/free-textbooks-math-science-and-more-online-pdf-for-college-and-high-school

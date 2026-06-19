@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/software-engineering/principles-software-engineering
 title: Key Principles of Software Engineering
-description: Discover essential software engineering principles like YAGNI, KISS,
-  and DRY to enhance your development practices.
-created: '2026-05-01'
-last_update: '2026-05-18'
+description: Discover essential software engineering principles like YAGNI, KISS, and DRY to enhance your development practices.
+created: 2026-05-01
+last_update: 2026-05-18
 ---
-
-# Principles of Software Engineering
-
 ## YAGNI - You Ain't Gonna Need It. (For new features)
 
 "You aren't gonna need it" (YAGNI)is a principle of [extreme programming](https://en.wikipedia.org/wiki/Extreme_programming)(XP) that states a [programmer](https://en.wikipedia.org/wiki/Programmer) should not add functionality until deemed necessary.

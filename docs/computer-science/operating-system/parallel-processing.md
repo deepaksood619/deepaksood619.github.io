@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/operating-system/parallel-processing
 title: Understanding Parallel Processing Types
-description: Explore the differences between Symmetric Multi-Processing (SMP) and
-  Massively Parallel Processing (MPP) in this comprehensive guide.
-created: '2023-03-05'
-last_update: '2024-12-19'
+description: Explore the differences between Symmetric Multi-Processing (SMP) and Massively Parallel Processing (MPP) in this comprehensive guide.
+created: 2023-03-05
+last_update: 2024-12-19
 ---
-
-# Parallel Processing
-
 ## Parallel Processing, MPP (Massive Parallel Processing)
 
 **Symmetric Multi-Processing (SMP)** is a tightly coupled multiprocessor system where processors share resources -- single instances of the Operating System (OS), memory, I/O devices and connected using a common bus. SMP is the primary parallel architecture employed in servers and is depicted in the following image

@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/graphtheory/connected-components
 title: Understanding Connected Components in Graphs
-description: Explore the concept of connected components, union-find, and efficient
-  query handling in graph theory.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Explore the concept of connected components, union-find, and efficient query handling in graph theory.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
-# Connected Components
-
 ## Connected Components
 
 Definition: Vertices v and w are connected if there is a path between them.

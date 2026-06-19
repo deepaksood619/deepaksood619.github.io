@@ -1,12 +1,10 @@
 ---
 slug: /economics/personal-finance/retirement-planning/nps-national-pension-scheme
 title: NPS - National Pension Scheme
-description: Discover the National Pension Scheme (NPS) for secure retirement savings
-  with tax benefits, flexible investment options, and government-backed income security.
-created: '2026-06-09'
-last_update: '2026-06-10'
+description: Discover the National Pension Scheme (NPS) for secure retirement savings with tax benefits, flexible investment options, and government-backed income security.
+created: 2026-06-09
+last_update: 2026-06-10
 ---
-
 **Category:** Personal Finance - Retirement Planning
 **Last Updated:** 2026-06-09
 

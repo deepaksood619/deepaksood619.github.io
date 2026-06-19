@@ -1,14 +1,10 @@
 ---
 slug: /frontend/react/docs
 title: Essential React.js Documentation
-description: Explore key React.js concepts including JSX, components, state management,
-  and more in this comprehensive guide.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore key React.js concepts including JSX, components, state management, and more in this comprehensive guide.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
-# Docs
-
 ## MAIN CONCEPTS
 
 - [1. Hello World](https://reactjs.org/docs/hello-world.html)

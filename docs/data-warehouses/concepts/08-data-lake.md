@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/concepts/08-data-lake
 title: Understanding Data Lakes and Their Benefits
-description: Explore what data lakes are, their schemaless nature, and how they serve
-  as a single repository for raw data analysis.
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Explore what data lakes are, their schemaless nature, and how they serve as a single repository for raw data analysis.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
-# Data Lake
-
 Also called Data Swamp
 
 The idea is to have a single store for all of the raw data that anyone in an organization might need to analyze. Commonly people use Hadoop to work on the data in the lake.

@@ -1,12 +1,10 @@
 ---
 slug: /ai/llm/use-cases/fintech-use-cases
 title: Fintech Use Cases
-description: Explore key fintech use cases, including customer support chatbots, fraud
-  detection techniques, and personalized financial advice for enhanced user experience.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Explore key fintech use cases, including customer support chatbots, fraud detection techniques, and personalized financial advice for enhanced user experience.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 ### Customer Support and Chatbots
 
 - **24/7 Support**: Providing round-the-clock customer service through chatbots that can handle a wide range of queries.

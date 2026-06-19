@@ -1,12 +1,10 @@
 ---
 slug: /cloud/aws/analytics/aws-sns
 title: AWS SNS
-description: Discover AWS SNS, a fully managed Pub/Sub service for seamless A2A and
-  A2P messaging, enhancing application integration and customer communication.
-created: '2024-01-11'
-last_update: '2025-11-05'
+description: Discover AWS SNS, a fully managed Pub/Sub service for seamless A2A and A2P messaging, enhancing application integration and customer communication.
+created: 2024-01-11
+last_update: 2025-11-05
 ---
-
 Amazon Simple Notification Service
 
 Fully managed Pub/Sub service for A2A and A2P messaging

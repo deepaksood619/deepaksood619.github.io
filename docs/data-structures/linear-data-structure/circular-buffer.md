@@ -1,14 +1,10 @@
 ---
 slug: /data-structures/linear-data-structure/circular-buffer
 title: Understanding Circular Buffers
-description: Explore the circular buffer data structure, its applications, and how
-  it efficiently manages data streams without element shuffling.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the circular buffer data structure, its applications, and how it efficiently manages data streams without element shuffling.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Circular Buffer
-
 Acircular buffer, circular queue, cyclic bufferorring bufferis a [data structure](https://en.wikipedia.org/wiki/Data_structure) that uses a single, fixed-size [buffer](https://en.wikipedia.org/wiki/Buffer_(computer_science)) as if it were connected end-to-end. This structure lends itself easily to buffering [data streams](https://en.wikipedia.org/wiki/Data_stream).
 
 ![image](../../media/Circular-Buffer-image1.jpg)

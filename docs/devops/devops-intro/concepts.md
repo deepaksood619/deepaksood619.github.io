@@ -1,14 +1,10 @@
 ---
 slug: /devops/devops-intro/concepts
 title: Understanding Container Orchestration and Multitenancy
-description: Explore container orchestration systems and multitenancy concepts for
-  efficient deployment and application management.
-created: '2023-03-05'
-last_update: '2023-12-23'
+description: Explore container orchestration systems and multitenancy concepts for efficient deployment and application management.
+created: 2023-03-05
+last_update: 2023-12-23
 ---
-
-# Concepts
-
 Container Orchestration Systems - to provide a higher level of deployment infrastructure abstraction, and evolution of continuous delivery systems such as [GoCD](https://www.gocd.org/kubernetes/?gclid=EAIaIQobChMIwu-o1_3E2gIVjcVkCh3XUAkoEAAYASAAEgJPQ_D_BwE) to build, test and deploy microservices as containers
 
 ## Multitenancy

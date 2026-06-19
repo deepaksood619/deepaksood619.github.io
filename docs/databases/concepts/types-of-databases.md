@@ -1,14 +1,10 @@
 ---
 slug: /databases/concepts/types-of-databases
 title: Exploring Types of Databases
-description: Learn about different types of databases, including RDBMS and its features
-  like tables, rows, and SQL access.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Learn about different types of databases, including RDBMS and its features like tables, rows, and SQL access.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
-# Types of Databases
-
 ## RDBMS / Relational database (ACID)
 
 A relational database management system (RDBMS) is a program that allows you to create, update, and administer a relational database. Most relational database management systems use the SQL language to access the database.

@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/general/common
 title: Common Tech Acronyms Explained
-description: Explore essential tech acronyms like CAPTCHA, API, AJAX, and more, providing
-  clarity on common terms used in web development.
-created: '2023-03-05'
-last_update: '2026-05-01'
+description: Explore essential tech acronyms like CAPTCHA, API, AJAX, and more, providing clarity on common terms used in web development.
+created: 2023-03-05
+last_update: 2026-05-01
 ---
-
-# Common
-
 CAPTCHA - Completely Automated Public Turing test to tell Computers and Humans Apart
 
 API - Application Programming Interface - A set of subroutine definitions, protocols, and tools for building application software

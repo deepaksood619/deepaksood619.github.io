@@ -1,12 +1,10 @@
 ---
 slug: /courses/pcep-certified-entry-level-python-programmer
 title: PCEP™ – Certified Entry-Level Python Programmer
-description: Achieve the PCEP™ certification to validate your understanding of Python
-  programming, including data types, control flow, and fundamental concepts.
-created: '2025-09-28'
-last_update: '2025-10-01'
+description: Achieve the PCEP™ certification to validate your understanding of Python programming, including data types, control flow, and fundamental concepts.
+created: 2025-09-28
+last_update: 2025-10-01
 ---
-
 (Exam PCEP-30-0x)
 
 - 30 Questions

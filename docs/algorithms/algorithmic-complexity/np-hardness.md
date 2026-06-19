@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/algorithmic-complexity/np-hardness
 title: Understanding NP Hardness in Complexity Theory
-description: Explore NP hardness, its relation to P and NP classes, and the implications
-  for decision problems in computational complexity.
-created: '2023-03-05'
-last_update: '2026-06-07'
+description: Explore NP hardness, its relation to P and NP classes, and the implications for decision problems in computational complexity.
+created: 2023-03-05
+last_update: 2026-06-07
 ---
-
-# NP Hardness
-
 |  |  |
 |---------|---------------------------------------------------------------|
 | [**P**](https://en.wikipedia.org/wiki/P_(complexity))     | The [complexity class](https://en.wikipedia.org/wiki/Complexity_class) of [decision problems](https://en.wikipedia.org/wiki/Decision_problem) that can be solved on a [deterministic Turing machine](https://en.wikipedia.org/wiki/Deterministic_Turing_machine) in polynomial time |

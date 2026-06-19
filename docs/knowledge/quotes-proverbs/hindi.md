@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/quotes-proverbs/hindi
 title: Hindi
-description: Discover the profound wisdom of Kabir's dohas in Hindi, offering timeless
-  insights on love, action, and the human condition for inspiration and reflection.
-created: '2023-07-17'
-last_update: '2026-03-09'
+description: Discover the profound wisdom of Kabir's dohas in Hindi, offering timeless insights on love, action, and the human condition for inspiration and reflection.
+created: 2023-07-17
+last_update: 2026-03-09
 ---
-
 रहिमन धागा प्रेम का, मत तोरो चटकाय |टूटे पे फिर ना जुरे, जुरे गाँठ परी जाय || -- Kabir Doha
 
 काल करे सो आज कर,‌आज‌ करे सो अब, पल में प्रलय होएगा ,बहुरि करेगा कब!!

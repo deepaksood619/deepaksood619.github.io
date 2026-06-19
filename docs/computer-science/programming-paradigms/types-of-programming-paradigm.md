@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/programming-paradigms/types-of-programming-paradigm
 title: Types of Programming Paradigms
-description: Explore various programming paradigms including imperative, declarative,
-  and symbolic approaches, and understand their key concepts.
-created: '2023-03-05'
-last_update: '2025-02-14'
+description: Explore various programming paradigms including imperative, declarative, and symbolic approaches, and understand their key concepts.
+created: 2023-03-05
+last_update: 2025-02-14
 ---
-
-# Types of programming paradigm
-
 ## Imperative (allows side effect)
 
 Uses statements that change a program's state

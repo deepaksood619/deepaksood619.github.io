@@ -1,14 +1,10 @@
 ---
 slug: /networking/others/serialization-deserialization
 title: Understanding Serialization and Deserialization
-description: Learn the essentials of serialization and deserialization, including
-  key characteristics and forward compatibility in data formats.
-created: '2023-03-05'
-last_update: '2023-03-27'
+description: Learn the essentials of serialization and deserialization, including key characteristics and forward compatibility in data formats.
+created: 2023-03-05
+last_update: 2023-03-27
 ---
-
-# Serialization/Deserialization
-
 Serialization is the process of turning structured in-memory objects into a byte stream for transmission over a network or for writing to persistent storage
 
 Deserialization is the reverse process from a byte stream back to a series of structured in-memory objects

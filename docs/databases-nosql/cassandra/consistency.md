@@ -1,12 +1,10 @@
 ---
 slug: /databases-nosql/cassandra/consistency
 title: Consistency
-description: Explore the different consistency models in databases, including ANY,
-  ALL, ONE, and QUORUM, to understand how they impact performance and reliability.
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Explore the different consistency models in databases, including ANY, ALL, ONE, and QUORUM, to understand how they impact performance and reliability.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
 ## ANY
 
 - any server (may not be replica)

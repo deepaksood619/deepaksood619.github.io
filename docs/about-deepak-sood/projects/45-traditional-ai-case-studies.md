@@ -1,14 +1,10 @@
 ---
 slug: /about-deepak-sood/projects/45-traditional-ai-case-studies
 title: FinTech Fraud Detection Success
-description: Explore how Opstree transformed a FinTech company's fraud detection using
-  advanced AI solutions and Amazon tools.
-created: '2024-10-19'
-last_update: '2024-12-18'
+description: Explore how Opstree transformed a FinTech company's fraud detection using advanced AI solutions and Amazon tools.
+created: 2024-10-19
+last_update: 2024-12-18
 ---
-
-# Traditional AI Case study
-
 ## Financial Technology (FinTech) Fraud Detection Case Study
 
 ### Challenges

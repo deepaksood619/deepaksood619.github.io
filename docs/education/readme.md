@@ -1,12 +1,10 @@
 ---
 slug: /education/readme
 title: Education
-description: Discover a comprehensive LLM-maintained wiki designed for education startup
-  development, featuring adaptive learning strategies, algorithms, and technical insights.
-created: '2025-06-22'
-last_update: '2026-06-17'
+description: Discover a comprehensive LLM-maintained wiki designed for education startup development, featuring adaptive learning strategies, algorithms, and technical insights.
+created: 2025-06-22
+last_update: 2026-06-17
 ---
-
 **LLM-maintained wiki for education startup development**
 
 Education is broken and it's high time to fix it.

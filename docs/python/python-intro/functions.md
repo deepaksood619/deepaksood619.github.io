@@ -1,14 +1,10 @@
 ---
 slug: /python/python-intro/functions
 title: Understanding Python Functions
-description: Learn the basics of Python functions, including how to define them, pass
-  arguments, and use default parameter values for better code efficiency.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Learn the basics of Python functions, including how to define them, pass arguments, and use default parameter values for better code efficiency.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
-# Functions
-
 Functions are named blocks of code, designed to do one specific job.
 
 Information passed to a function is called an argument, and information received by a function is called a parameter.

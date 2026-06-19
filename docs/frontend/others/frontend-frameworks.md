@@ -1,14 +1,10 @@
 ---
 slug: /frontend/others/frontend-frameworks
 title: Essential Frontend Frameworks Overview
-description: Explore top frontend frameworks like React, Angular, and Vue to enhance
-  your web development skills efficiently.
-created: '2023-03-05'
-last_update: '2026-03-27'
+description: Explore top frontend frameworks like React, Angular, and Vue to enhance your web development skills efficiently.
+created: 2023-03-05
+last_update: 2026-03-27
 ---
-
-# Frontend Frameworks
-
 ## Frontend Frameworks
 
 1. jQuery

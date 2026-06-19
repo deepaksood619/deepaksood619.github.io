@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/interview-question/system-design-messenger-whatsapp
 title: System Design for Messaging Apps
-description: Explore the architecture and tech stack behind major messaging apps like
-  WhatsApp and Messenger to enhance your system design skills.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore the architecture and tech stack behind major messaging apps like WhatsApp and Messenger to enhance your system design skills.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
-# System Design - Messenger / WhatsApp
-
 [System Design : Design messaging/chat service like Facebook Messenger or Whatsapp](https://www.youtube.com/watch?v=zKPNUMkwOJE)
 
 [System Design: Messenger service like Whatsapp or WeChat - Interview Question](https://www.youtube.com/watch?v=5m0L0k8ZtEs)

@@ -1,14 +1,10 @@
 ---
 slug: /technologies/kafka/kafka-partitions
 title: Understanding Kafka Partitions
-description: Learn how Apache Kafka partitions enable scalability and distributed
-  processing in modern data systems.
-created: '2025-12-15'
-last_update: '2025-12-15'
+description: Learn how Apache Kafka partitions enable scalability and distributed processing in modern data systems.
+created: 2025-12-15
+last_update: 2025-12-15
 ---
-
-# Partitions
-
 In [Apache Kafka®](https://www.confluent.io/what-is-apache-kafka/?session_ref=https%3A%2F%2Fdeveloper.confluent.io%2Fcertification%2F%3Futm_medium%3Dsem%26utm_source%3Dgoogle%26utm_campaign%3Dch.sem_br.nonbrand_tp.prs_tgt.dsa_mt.dsa_rgn.apac_sbrgn.india_lng.eng_dv.all_con.confluent-developer%26utm_term%3D%26creative%3D%26device%3Dc%26placement%3D%26gad_source%3D1%26gad_campaignid%3D19560855030%26gbraid%3D0AAAAADRv2c1DOIOBAozJI6eYpioovMyoo%26gclid%3DCj0KCQiA9OnJBhD-ARIsAPV51xMQxq7e-jC0tkvQIDYfH3lARfj6MxXPSd6vORc94KGXIYCsASdOvvcaApazEALw_wcB), **partitions** are the key to scalability and distributed processing. Kafka is [designed as a **distributed system**](https://www.confluent.io/learn/distributed-systems/?session_ref=https%3A%2F%2Fdeveloper.confluent.io%2Fcertification%2F%3Futm_medium%3Dsem%26utm_source%3Dgoogle%26utm_campaign%3Dch.sem_br.nonbrand_tp.prs_tgt.dsa_mt.dsa_rgn.apac_sbrgn.india_lng.eng_dv.all_con.confluent-developer%26utm_term%3D%26creative%3D%26device%3Dc%26placement%3D%26gad_source%3D1%26gad_campaignid%3D19560855030%26gbraid%3D0AAAAADRv2c1DOIOBAozJI6eYpioovMyoo%26gclid%3DCj0KCQiA9OnJBhD-ARIsAPV51xMQxq7e-jC0tkvQIDYfH3lARfj6MxXPSd6vORc94KGXIYCsASdOvvcaApazEALw_wcB), meaning it runs across multiple machines but appears as a single, unified service. If a **topic** were stored entirely on one machine, it would be limited by that machine's storage and processing power, capping its scalability. **Partitioning** solves this by splitting a topic's log into multiple, smaller logs called **partitions**. Each partition is stored separately across different nodes, allowing Kafka to handle far larger amounts of data.
 
 This partitioning introduces some changes to **message ordering**. Within a single partition, message order is strictly maintained—messages are read in the exact sequence they were written. However, **global ordering** across all partitions is not guaranteed. Messages with the same **key** are always written to the same partition, ensuring order for that key. This is managed through a **hashing function**: Kafka hashes the key, applies modulo with the number of partitions, and assigns it accordingly. For example, all events from a thermostat with ID 42 would consistently go to the same partition, preserving their order.

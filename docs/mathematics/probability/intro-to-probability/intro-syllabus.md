@@ -1,12 +1,10 @@
 ---
 slug: /mathematics/probability/intro-to-probability/intro-syllabus
 title: Intro - Syllabus
-description: Explore MITx's Introduction to Probability course to master probabilistic
-  models, random variables, Bayesian inference, and key statistical concepts.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore MITx's Introduction to Probability course to master probabilistic models, random variables, Bayesian inference, and key statistical concepts.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
 Introduction to Probability - The Science of Uncertainty - MITx - 6.041x
 
 An introduction to probabilistic models, including random processes and the basic elements of statistical inference.

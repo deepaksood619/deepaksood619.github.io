@@ -1,12 +1,10 @@
 ---
 slug: /ai/deep-learning/resources
 title: Resources
-description: Discover essential deep learning resources, tutorials, and projects perfect
-  for enhancing your knowledge and skills in computer vision and AI development.
-created: '2024-09-18'
-last_update: '2026-03-27'
+description: Discover essential deep learning resources, tutorials, and projects perfect for enhancing your knowledge and skills in computer vision and AI development.
+created: 2024-09-18
+last_update: 2026-03-27
 ---
-
 - [GitHub - kjw0612/awesome-deep-vision: A curated list of deep learning resources for computer vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11k
 - [GitHub - ChristosChristofidis/awesome-deep-learning: A curated list of awesome Deep Learning tutorials, projects and communities.](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28k
 - https://www.freecodecamp.org/news/deep-learning-neural-networks-explained-in-plain-english

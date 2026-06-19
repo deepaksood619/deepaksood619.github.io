@@ -1,14 +1,10 @@
 ---
 slug: /networking/protocols/websockets
 title: Understanding WebSockets Protocol
-description: Explore WebSockets, a full-duplex communication protocol, and its role
-  in modern web applications.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore WebSockets, a full-duplex communication protocol, and its role in modern web applications.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# WebSockets
-
 WebSocket is a computer [communications protocol](https://en.wikipedia.org/wiki/Communications_protocol), providing [full-duplex](https://en.wikipedia.org/wiki/Full-duplex) communication channels over a single [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) connection. The WebSocket protocol was standardized by the [IETF](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force) as [RFC](https://en.wikipedia.org/wiki/Request_for_Comments) 6455 in 2011, and the WebSocket [API](https://en.wikipedia.org/wiki/Application_programming_interface) in [Web IDL](https://en.wikipedia.org/wiki/Web_IDL) is being standardized by the [W3C](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium).
 
 WebSocket is distinct from HTTP. Both protocols are located at layer 7 in the [OSI model](https://en.wikipedia.org/wiki/OSI_model) and depend on TCP at layer 4. Although they are different, [RFC 6455](https://tools.ietf.org/html/rfc6455) states that WebSocket "is designed to work over HTTP ports 80 and 443 as well as to support HTTP proxies and intermediaries," thus making it compatible with the HTTP protocol. To achieve compatibility, the **WebSocket [handshake](https://en.wikipedia.org/wiki/Handshaking) uses the [HTTP Upgrade header](https://en.wikipedia.org/wiki/HTTP/1.1_Upgrade_header) to change from the HTTP protocol to the WebSocket protocol.**

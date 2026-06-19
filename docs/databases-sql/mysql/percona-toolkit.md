@@ -1,12 +1,10 @@
 ---
 slug: /databases-sql/mysql/percona-toolkit
 title: Percona Toolkit
-description: Optimize your MySQL and MongoDB performance with Percona Toolkit for
-  data integrity checks, archiving, and query analysis to enhance database efficiency.
-created: '2024-05-26'
-last_update: '2025-06-10'
+description: Optimize your MySQL and MongoDB performance with Percona Toolkit for data integrity checks, archiving, and query analysis to enhance database efficiency.
+created: 2024-05-26
+last_update: 2025-06-10
 ---
-
 - Verify MySQL replication integrity by checking source and replica data consistency
 - Efficiently archive rows
 - Find duplicate indexes

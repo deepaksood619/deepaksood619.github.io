@@ -1,14 +1,10 @@
 ---
 slug: /devops/terminal-bash/tmux-iterm
 title: Using Tmux with iTerm
-description: Learn how to efficiently manage multiple terminal sessions with Tmux
-  and iTerm for enhanced productivity.
-created: '2023-03-05'
-last_update: '2026-04-03'
+description: Learn how to efficiently manage multiple terminal sessions with Tmux and iTerm for enhanced productivity.
+created: 2023-03-05
+last_update: 2026-04-03
 ---
-
-# Tmux Iterm
-
 Tmux is a terminal multiplexer.
 
 It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal.

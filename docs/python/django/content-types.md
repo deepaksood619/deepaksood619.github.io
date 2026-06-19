@@ -1,14 +1,10 @@
 ---
 slug: /python/django/content-types
 title: Understanding Django Content Types
-description: Explore Django's Content Types and how to use GenericForeignKey for efficient
-  model relationships, simplifying user activity tracking.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore Django's Content Types and how to use GenericForeignKey for efficient model relationships, simplifying user activity tracking.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Content Types
-
 ## Content Types
 
 it's a built in app that keeps track of models from the installed apps of your Django application. And one of the use cases of theContentTypesis to create generic relationships between models.

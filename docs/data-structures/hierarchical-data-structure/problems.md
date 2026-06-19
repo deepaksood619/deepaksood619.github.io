@@ -1,14 +1,10 @@
 ---
 slug: /data-structures/hierarchical-data-structure/problems
 title: Understanding Tree Traversals and BST Validation
-description: Explore tree traversals and learn how to validate a binary search tree
-  with effective techniques and algorithms.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore tree traversals and learn how to validate a binary search tree with effective techniques and algorithms.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Problems
-
 ## Tree Traversals
 
 1. Preorder

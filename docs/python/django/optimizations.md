@@ -1,14 +1,10 @@
 ---
 slug: /python/django/optimizations
 title: Django Queryset Optimizations
-description: Discover effective optimization techniques for Django, including caching
-  strategies and best practices for working with querysets.
-created: '2024-11-21'
-last_update: '2024-12-12'
+description: Discover effective optimization techniques for Django, including caching strategies and best practices for working with querysets.
+created: 2024-11-21
+last_update: 2024-12-12
 ---
-
-# Optimizations
-
 ## Caching
 
 [Django Caching 101: Understanding the Basics and Beyond - DEV Community](https://dev.to/pragativerma18/django-caching-101-understanding-the-basics-and-beyond-49p)

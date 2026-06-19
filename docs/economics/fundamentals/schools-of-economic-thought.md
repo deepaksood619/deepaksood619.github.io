@@ -1,13 +1,10 @@
 ---
 slug: /economics/fundamentals/schools-of-economic-thought
 title: Schools of Economic Thought
-description: Explore the diverse schools of economic thought, focusing on Marxian
-  economics and its critique of political economy, offering unique insights into economic
-  theory.
-created: '2023-03-05'
-last_update: '2026-06-09'
+description: Explore the diverse schools of economic thought, focusing on Marxian economics and its critique of political economy, offering unique insights into economic theory.
+created: 2023-03-05
+last_update: 2026-06-09
 ---
-
 [Schools of economic thought - Wikipedia](https://en.wikipedia.org/wiki/Schools_of_economic_thought)
 
 - Classical

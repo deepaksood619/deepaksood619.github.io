@@ -1,12 +1,10 @@
 ---
 slug: /economics/accounting-for-finance/2a-income-statement-comparisons
 title: 2A Income Statement Comparisons
-description: Explore the sector-specific differences in income statements, highlighting
-  unique challenges in revenue measurement for commodities and financial services.
-created: '2023-03-05'
-last_update: '2025-02-27'
+description: Explore the sector-specific differences in income statements, highlighting unique challenges in revenue measurement for commodities and financial services.
+created: 2023-03-05
+last_update: 2025-02-27
 ---
-
 ## Income Statement: A Life Cycle Perspective
 
 ![image](../../media/Accounting-for-Finance_2A-Income-Statement-Comparisons-image1.jpg)

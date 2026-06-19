@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/system-design/case-study/00-problem-statement
 title: Assessing Creditworthiness for POS Financing
-description: Big Friendly Bank seeks a real-time solution to evaluate creditworthiness
-  of unfamiliar applicants for seamless loan approval.
-created: '2026-01-29'
-last_update: '2026-01-29'
+description: Big Friendly Bank seeks a real-time solution to evaluate creditworthiness of unfamiliar applicants for seamless loan approval.
+created: 2026-01-29
+last_update: 2026-01-29
 ---
-
-# Problem Statement
-
 Big Friendly Bank (BFB) is a nationwide financial institution which provides banking solutions ranging from personal banking and wealth management, to Buy-Now-Pay-Later financing solutions for retail establishments.
 
 In order to underwrite these Point of Sale (POS) financing solutions, BFB needs a way to quickly evaluate the creditworthiness of their applicants in a near real-time manner, as to not impact the applicant experience, or risk the sale for BFB retail customers.

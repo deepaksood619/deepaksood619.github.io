@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/bigquery/biglake
 title: BigLake Unified Storage Engine
-description: Discover BigLake, the storage engine unifying analytics and AI queries
-  for multiformat, secure, and performant data management.
-created: '2025-05-25'
-last_update: '2025-06-10'
+description: Discover BigLake, the storage engine unifying analytics and AI queries for multiformat, secure, and performant data management.
+created: 2025-05-25
+last_update: 2025-06-10
 ---
-
-# BigLake
-
 BigLake is a storage engine that provides a unified interface for analytics and AI engines to query multiformat, multicloud, and multimodal data in a secure, governed, and performant manner. Build a single-copy AI lakehouse designed to reduce management of and need for custom data infrastructure.
 
 BigLake tables let you query structured data in external data stores with access delegation. Access delegation decouples access to the BigLake table from access to the underlying data store. An [external connection](https://cloud.google.com/bigquery/docs/connections-api-intro) associated with a service account is used to connect to the data store. Because the service account handles retrieving data from the data store, you only have to grant users access to the BigLake table. This lets you enforce fine-grained security at the table level, including [row-level](https://cloud.google.com/bigquery/docs/row-level-security-intro) and [column-level](https://cloud.google.com/bigquery/docs/column-level-security-intro) security. For BigLake tables based on Cloud Storage, you can also use [dynamic data masking](https://cloud.google.com/bigquery/docs/column-data-masking).

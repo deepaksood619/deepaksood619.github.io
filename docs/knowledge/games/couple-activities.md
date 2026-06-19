@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/games/couple-activities
 title: Couple Activities
-description: Explore exciting couple activities that strengthen bonds, from dancing
-  and photography to learning art, languages, and enjoying sports together.
-created: '2023-03-05'
-last_update: '2025-09-02'
+description: Explore exciting couple activities that strengthen bonds, from dancing and photography to learning art, languages, and enjoying sports together.
+created: 2023-03-05
+last_update: 2025-09-02
 ---
-
 ### Activities
 
 - Dancing

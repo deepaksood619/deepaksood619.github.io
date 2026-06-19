@@ -1,13 +1,10 @@
 ---
 slug: /education/competitors/adaptive-ai-platforms/century-tech-analysis
 title: Century Tech Company Overview
-description: Explore Century Tech, a B Corp certified edtech firm transforming education
-  with AI-driven solutions for over 1,000 schools globally.
-created: '2026-06-07'
-last_update: '2026-06-08'
+description: Explore Century Tech, a B Corp certified edtech firm transforming education with AI-driven solutions for over 1,000 schools globally.
+created: 2026-06-07
+last_update: 2026-06-08
 ---
-
-
 ## Company Overview
 
 - **Founded:** 2013

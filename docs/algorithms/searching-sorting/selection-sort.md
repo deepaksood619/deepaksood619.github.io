@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/searching-sorting/selection-sort
 title: Understanding Selection Sort Algorithm
-description: Learn about the Selection Sort algorithm, its operations, efficiency,
-  and performance characteristics in this concise guide.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Learn about the Selection Sort algorithm, its operations, efficiency, and performance characteristics in this concise guide.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
-# Selection Sort
-
 Not stable
 
 For all elements -

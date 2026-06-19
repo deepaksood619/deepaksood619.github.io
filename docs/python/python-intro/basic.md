@@ -1,14 +1,10 @@
 ---
 slug: /python/python-intro/basic
 title: Understanding Python Identifiers
-description: Learn about Python identifiers, naming conventions, and the significance
-  of expressiveness in programming.
-created: '2023-03-05'
-last_update: '2024-01-11'
+description: Learn about Python identifiers, naming conventions, and the significance of expressiveness in programming.
+created: 2023-03-05
+last_update: 2024-01-11
 ---
-
-# Basic
-
 Python is an experiment in how much freedom programmers need. Too much freedom and nobody can read another's code; too little and expressiveness is endangered. - Guido van Rossum, Creator of the Python programming language
 
 ## Identifier

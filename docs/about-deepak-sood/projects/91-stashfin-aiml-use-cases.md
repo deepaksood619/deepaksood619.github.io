@@ -1,14 +1,10 @@
 ---
 slug: /about-deepak-sood/projects/91-stashfin-aiml-use-cases
 title: Stashfin AIML Use Cases
-description: Explore Stashfin's AIML applications in credit scoring, risk assessment,
-  and fraud detection for enhanced financial solutions.
-created: '2024-07-17'
-last_update: '2024-12-18'
+description: Explore Stashfin's AIML applications in credit scoring, risk assessment, and fraud detection for enhanced financial solutions.
+created: 2024-07-17
+last_update: 2024-12-18
 ---
-
-# Stashfin AIML Use Cases & Implementation
-
 ### 1. Credit Scoring and Risk Assessment
 
 - **Predictive Modeling:** Use historical data to predict the likelihood of a borrower defaulting on a loan.

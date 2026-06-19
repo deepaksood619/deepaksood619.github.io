@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/general/mental-models
 title: Mental Models
-description: Explore a comprehensive guide to mental models across psychology, economics,
-  management, and science, enhancing decision-making and critical thinking skills.
-created: '2023-03-05'
-last_update: '2026-06-09'
+description: Explore a comprehensive guide to mental models across psychology, economics, management, and science, enhancing decision-making and critical thinking skills.
+created: 2023-03-05
+last_update: 2026-06-09
 ---
-
 ## Links
 
 - [Psychology Mental Models](../../psychology/mental-models)

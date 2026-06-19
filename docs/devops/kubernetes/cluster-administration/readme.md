@@ -1,14 +1,10 @@
 ---
 slug: /devops/kubernetes/cluster-administration/readme
 title: Kubernetes Cluster Administration Guide
-description: Explore cluster administration, federation, and resource management for
-  efficient Kubernetes operations.
-created: '2023-03-05'
-last_update: '2024-01-11'
+description: Explore cluster administration, federation, and resource management for efficient Kubernetes operations.
+created: 2023-03-05
+last_update: 2024-01-11
 ---
-
-# Cluster Administration
-
 1. Cluster Administration Overview
 2. Certificates
 3. Cloud Providers

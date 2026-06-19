@@ -1,14 +1,10 @@
 ---
 slug: /technologies/kafka/installing-kafka
-title: 'Installing Kafka: A Step-by-Step Guide'
-description: Learn how to install Kafka effectively, configure Zookeeper ensembles,
-  and optimize your Kafka setup for better performance.
-created: '2023-03-05'
-last_update: '2024-08-12'
+title: "Installing Kafka: A Step-by-Step Guide"
+description: Learn how to install Kafka effectively, configure Zookeeper ensembles, and optimize your Kafka setup for better performance.
+created: 2023-03-05
+last_update: 2024-08-12
 ---
-
-# Installing Kafka
-
 - A Zookeeper cluster is called an *ensemble*, it is recommended that ensembles contain an odd number of servers
 - Note: Consider running Zookeeper in a five-node ensemble. In order to make configuration changes to the ensemble, including swapping a node, you will need to reload nodes one at a time. If your ensemble cannot tolerate more than one node being down, doing maintenance work introduces additional risk. It is also not recommended to run more than seven nodes, as performance can start to degrade due to the nature of the consensus protocol.
 

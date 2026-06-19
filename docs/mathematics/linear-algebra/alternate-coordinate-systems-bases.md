@@ -1,12 +1,10 @@
 ---
 slug: /mathematics/linear-algebra/alternate-coordinate-systems-bases
 title: Alternate Coordinate systems (bases)
-description: Explore alternate coordinate systems in linear algebra, including orthogonal
-  complements, projections, change of basis, and orthonormal bases.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore alternate coordinate systems in linear algebra, including orthogonal complements, projections, change of basis, and orthonormal bases.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 1. [Orthogonal complements](https://www.khanacademy.org/math/linear-algebra/alternate-bases#othogonal-complements)
 
 2. [Orthogonal projections](https://www.khanacademy.org/math/linear-algebra/alternate-bases#orthogonal-projections)

@@ -1,14 +1,10 @@
 ---
 slug: /python/python-intro/data-structure/dictionary
 title: Understanding Python Dictionaries
-description: Learn how to create and access key-value pairs in Python dictionaries,
-  including examples of common methods and error handling.
-created: '2023-03-05'
-last_update: '2024-01-24'
+description: Learn how to create and access key-value pairs in Python dictionaries, including examples of common methods and error handling.
+created: 2023-03-05
+last_update: 2024-01-24
 ---
-
-# Dictionary
-
 Each piece of information in a dictionary is stored as a key-value pair. When we provide a key, Python returns the value associated with that key.
 
 ## Representation

@@ -1,12 +1,10 @@
 ---
 slug: /cloud/aws/security-identity-compliance/compliance
 title: Compliances
-description: Discover essential insights on PCI and SOC compliance to secure credit
-  card information and ensure service organization trust with standardized audits.
-created: '2024-02-05'
-last_update: '2026-06-11'
+description: Discover essential insights on PCI and SOC compliance to secure credit card information and ensure service organization trust with standardized audits.
+created: 2024-02-05
+last_update: 2026-06-11
 ---
-
 ## PCI Compliance
 
 The Payment Card Industry Data Security Standard (PCI-DSS) is a set of requirements intended to ensure that all companies that process, store, or transmit credit card information maintain a secure environment.

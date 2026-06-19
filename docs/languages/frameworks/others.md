@@ -1,13 +1,10 @@
 ---
 slug: /languages/frameworks/others
 title: Others
-description: Explore OpenCL, a versatile framework for programming on heterogeneous
-  platforms, enabling efficient execution on CPUs, GPUs, DSPs, and other hardware
-  accelerators.
-created: '2023-03-05'
-last_update: '2026-04-28'
+description: Explore OpenCL, a versatile framework for programming on heterogeneous platforms, enabling efficient execution on CPUs, GPUs, DSPs, and other hardware accelerators.
+created: 2023-03-05
+last_update: 2026-04-28
 ---
-
 ## OpenCL
 
 OpenCL (Open Computing Language) is a [framework](https://en.wikipedia.org/wiki/Software_framework) for writing programs that execute across [heterogeneous](https://en.wikipedia.org/wiki/Heterogeneous_computing) platforms consisting of [central processing units](https://en.wikipedia.org/wiki/Central_processing_unit)(CPUs), [graphics processing units](https://en.wikipedia.org/wiki/Graphics_processing_unit)(GPUs), [digital signal processors](https://en.wikipedia.org/wiki/Digital_signal_processor)(DSPs), [field-programmable gate arrays](https://en.wikipedia.org/wiki/Field-programmable_gate_array)(FPGAs) and other processors or [hardware accelerators](https://en.wikipedia.org/wiki/Hardware_accelerator). OpenCL specifies [programming languages](https://en.wikipedia.org/wiki/Programming_language)(based on [C99](https://en.wikipedia.org/wiki/C99) and [C++11](https://en.wikipedia.org/wiki/C%2B%2B11)) for programming these [devices](https://en.wikipedia.org/wiki/Personal_computer_hardware) and [application programming interfaces](https://en.wikipedia.org/wiki/Application_programming_interface)(APIs) to control the platform and execute programs on the [compute devices](https://en.wikipedia.org/wiki/OpenCL_compute_devices). OpenCL provides a standard interface for [parallel computing](https://en.wikipedia.org/wiki/Parallel_computing) using [task-](https://en.wikipedia.org/wiki/Task_parallelism) and [data-based parallelism](https://en.wikipedia.org/wiki/Data_parallelism)

@@ -1,14 +1,10 @@
 ---
 slug: /devops/devops-intro/proxy
 title: Understanding Proxy Load Balancing
-description: Explore how proxy load balancing enhances service availability, traffic
-  management, and supports A/B testing and canary releases.
-created: '2024-01-19'
-last_update: '2024-12-19'
+description: Explore how proxy load balancing enhances service availability, traffic management, and supports A/B testing and canary releases.
+created: 2024-01-19
+last_update: 2024-12-19
 ---
-
-# Proxy
-
 The initial use case for the proxy is just load balancing: spread the incoming requests across the active set of pods. In addition to making the service IP highly available, this also enables splitting traffic across versions for canary testing and more generally for A/B testing. It is also the mechanism used for a progressive rollout of a new version.
 
 As described thus far, the proxy operates at Layer 4 (L4), working at the level of TCP and IP. This is sufficient for basic services and works well with legacy applications that expect DNS, an IP address, and a port number. Services are at layer 7 (L7) typically use HTTPS requests, which provide more information and thus enable more sophisticated policies. Longer term, we expect L4 to be used for coarse-grained access control (to a cluster or a namespace within a cluster), and L7 to be used to implement the more complex policies required by modern enterprises and dynamic applications. These L7 policies can be managed using modern source control mechanisms that include explicit review and acceptance of source code changes (e.g. GitOps).

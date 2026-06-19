@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/productivity/first-things-first
 title: First Things First
-description: '"Discover effective time management strategies in ''First Things First''
-  by Covey, highlighting task lists, personal organizers, and values clarification."'
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover effective time management strategies in 'First Things First' by Covey, highlighting task lists, personal organizers, and values clarification.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Stephen Covey, A. Roger Merrill, and Rebecca R. Merrill
 
 The book asserts that there are three generations of [time management](https://en.wikipedia.org/wiki/Time_management): first-generation [task lists](https://en.wikipedia.org/wiki/Time_management#Task_list), second-generation [personal organizers](https://en.wikipedia.org/wiki/Personal_organizer) with deadlines and third-generation [values clarification](https://en.wikipedia.org/wiki/Value_(personal_and_cultural)) as incorporated in the [Franklin Planner](https://en.wikipedia.org/wiki/Franklin_Planner). Using the analogy of "the [clock](https://en.wikipedia.org/wiki/Clock) and the [compass](https://en.wikipedia.org/wiki/Compass)," the authors assert that identifying primary [roles](https://en.wikipedia.org/wiki/Role) and principles provides a "true north" and reference when deciding what activities are most important, so that decisions are guided not merely by the "clock" of scheduling but by the "compass" of purpose and values. Asserting that people have a need "to live, to love, to learn, and to leave a legacy" they propose moving beyond "urgency" (not the same as the [quadrant II](https://en.wikipedia.org/wiki/Cartesian_coordinate_system#Cartesian_coordinates_in_two_dimensions) in a Cartesian coordinate system).

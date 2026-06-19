@@ -1,12 +1,10 @@
 ---
 slug: /ai/content-moderation
 title: Content Moderation
-description: Explore effective content moderation services, including community moderation,
-  profanity detection, and toxicity detection to maintain a safe online environment.
-created: '2025-01-08'
-last_update: '2025-01-08'
+description: Explore effective content moderation services, including community moderation, profanity detection, and toxicity detection to maintain a safe online environment.
+created: 2025-01-08
+last_update: 2025-01-08
 ---
-
 Community Moderation / Profanity Detection (Profane) / Abusive / Toxicity Detection
 
 ## Categories

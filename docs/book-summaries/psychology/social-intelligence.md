@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/psychology/social-intelligence
 title: Social Intelligence
-description: Explore social intelligence through empathic accuracy, cultural nuances,
-  and human interactions, enhancing understanding of relationships and emotional dynamics.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Explore social intelligence through empathic accuracy, cultural nuances, and human interactions, enhancing understanding of relationships and emotional dynamics.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Daniel Goleman (27 Nov 2018)
 
 The new science of human relationships

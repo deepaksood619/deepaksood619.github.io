@@ -1,14 +1,10 @@
 ---
 slug: /networking/protocols/openapi
 title: Understanding OpenAPI Specifications
-description: Learn about OpenAPI, its features, and how to utilize Swagger tools for
-  designing and documenting REST APIs.
-created: '2023-03-05'
-last_update: '2026-03-27'
+description: Learn about OpenAPI, its features, and how to utilize Swagger tools for designing and documenting REST APIs.
+created: 2023-03-05
+last_update: 2026-03-27
 ---
-
-# OpenAPI
-
 ### [What Is OpenAPI?](https://swagger.io/docs/specification/about/)
 
 An **open API** (often referred to as a public API) is a publicly available [application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface) that provides developers with programmatic access to a proprietary software application or web service.- Writing API Specification

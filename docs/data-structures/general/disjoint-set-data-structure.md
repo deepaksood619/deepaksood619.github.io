@@ -1,14 +1,10 @@
 ---
 slug: /data-structures/general/disjoint-set-data-structure
 title: Understanding Disjoint-Set Data Structure
-description: Explore the disjoint-set data structure, also known as union-find, for
-  efficient set operations and partitioning of elements.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the disjoint-set data structure, also known as union-find, for efficient set operations and partitioning of elements.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Disjoint-Set Data Structure
-
 Also called as union-find data structure or merge-find set, is a DS that keeps track of set of elements partitioned into a number of disjoint (non-overlapping) subset. It provides near constant time operation (bounded by inverse- Ackermann function) to add new sets, to merge existing sets and to determine whether elements are in the same set.
 
 ## Representation

@@ -1,14 +1,10 @@
 ---
 slug: /technologies/kafka/security/09-securing-zookeeper
 title: Securing ZooKeeper in Kafka
-description: Learn how to secure ZooKeeper for Kafka setups using SSL and SASL to
-  protect critical cluster configurations and metadata.
-created: '2026-01-25'
-last_update: '2026-01-26'
+description: Learn how to secure ZooKeeper for Kafka setups using SSL and SASL to protect critical cluster configurations and metadata.
+created: 2026-01-25
+last_update: 2026-01-26
 ---
-
-# Securing ZooKeeper
-
 If you've chosen to run Kafka with ZooKeeper, you will also need to consider how to secure ZooKeeper, as it stores a lot of important cluster configuration and security information, such as ACLs, the list of a cluster's broker members, and partition metadata, and if you are using Kafka's SASL/SCRAM provider for authorization—encrypted versions of user passwords. (Note that if you are using KRaft, you can skip this module entirely.)
 
 Similar to Kafka, there are two ways to secure ZooKeeper: SSL and SASL. No matter which one you use, you’ll need to update your broker configuration with `zookeeper.set.acl=true`, which makes sure that secure ACLs in ZooKeeper are associated with the metadata in ZooKeeper. These ACLs specify that the metadata can be read by everyone but only changed by the brokers. Sensitive metadata, such as SCRAM credentials, is an exception: it can only be read by the brokers by default.

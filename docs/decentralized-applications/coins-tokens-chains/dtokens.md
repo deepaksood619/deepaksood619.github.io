@@ -1,13 +1,10 @@
 ---
 slug: /decentralized-applications/coins-tokens-chains/dtokens
 title: dtokens
-description: Explore how dTokens on DeFiChain enable decentralized asset creation
-  and investment through crypto collateralized loans, revolutionizing the investment
-  landscape.
-created: '2023-03-08'
-last_update: '2023-06-22'
+description: Explore how dTokens on DeFiChain enable decentralized asset creation and investment through crypto collateralized loans, revolutionizing the investment landscape.
+created: 2023-03-08
+last_update: 2023-06-22
 ---
-
 [What Are Decentralized Assets And How do They Work?](https://blog.defichain.com/what-are-decentralised-stock-tokens-and-how-do-they-work/)
 
 **Decentralized Assets (or dTokens) on DeFiChain are an entirely new and revolutionary form of crypto investment.** These dTokens can be created (minted) by anyone on the DeFiChain blockchain, simply by first locking a minimum of 50% DFI (with the option to add more in BTC, USDT and USDC) into a vault.

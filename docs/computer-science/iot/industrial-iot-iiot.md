@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/iot/industrial-iot-iiot
 title: Understanding Industrial IoT (IIoT)
-description: Explore Industrial IoT (IIoT) concepts, including process variables,
-  sensors, actuators, and control systems for automation.
-created: '2023-03-05'
-last_update: '2025-04-17'
+description: Explore Industrial IoT (IIoT) concepts, including process variables, sensors, actuators, and control systems for automation.
+created: 2023-03-05
+last_update: 2025-04-17
 ---
-
-# Industrial IoT (IIoT)
-
 In the context of process control, **PV (Process Variable)** refers to the current value of the parameter being measured and controlled, such as temperature or pressure. **SP (Set Point)** is the desired value the process variable should reach and maintain.
 
 ## Reference Architecure

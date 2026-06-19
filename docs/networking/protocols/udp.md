@@ -1,14 +1,10 @@
 ---
 slug: /networking/protocols/udp
 title: Understanding User Datagram Protocol (UDP)
-description: Explore the User Datagram Protocol (UDP), its design, and its role in
-  facilitating efficient message transmission in computer networking.
-created: '2023-03-05'
-last_update: '2023-05-03'
+description: Explore the User Datagram Protocol (UDP), its design, and its role in facilitating efficient message transmission in computer networking.
+created: 2023-03-05
+last_update: 2023-05-03
 ---
-
-# UDP
-
 In [computer networking](https://en.wikipedia.org/wiki/Computer_network), theUser Datagram Protocol(UDP) is one of the core members of the [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite). The protocol was designed by [David P. Reed](https://en.wikipedia.org/wiki/David_P._Reed) in 1980 and formally defined in [RFC](https://en.wikipedia.org/wiki/Request_for_Comments_(identifier)) [768](https://tools.ietf.org/html/rfc768). With UDP, computer applications can send messages, in this case referred to as [datagrams](https://en.wikipedia.org/wiki/Datagram), to other hosts on an [Internet Protocol](https://en.wikipedia.org/wiki/Internet_Protocol)(IP) network. Prior communications are not required in order to set up [communication channels](https://en.wikipedia.org/wiki/Communication_channel) or data paths.
 
 UDP uses a simple [connectionless communication](https://en.wikipedia.org/wiki/Connectionless_communication) model with a minimum of protocol mechanisms. UDP provides [checksums](https://en.wikipedia.org/wiki/Checksum) for data integrity, and [port numbers](https://en.wikipedia.org/wiki/Port_numbers) for addressing different functions at the source and destination of the datagram. It has no [handshaking](https://en.wikipedia.org/wiki/Handshaking) dialogues, and thus exposes the user's program to any [unreliability](https://en.wikipedia.org/wiki/Reliability_(computer_networking)) of the underlying network; there is no guarantee of delivery, ordering, or duplicate protection. If error-correction facilities are needed at the network interface level, an application may use [Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)(TCP) or [Stream Control Transmission Protocol](https://en.wikipedia.org/wiki/Stream_Control_Transmission_Protocol)(SCTP) which are designed for this purpose.

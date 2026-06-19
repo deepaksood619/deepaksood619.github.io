@@ -1,13 +1,10 @@
 ---
 slug: /economics/market-mechanics/technical-analysis/wyckoff-method
 title: Wyckoff Method
-description: Discover the Wyckoff Method for technical analysis, guiding investors
-  on stock buying decisions through its market cycle of accumulation, markup, distribution,
-  and markdown.
-created: '2023-07-17'
-last_update: '2026-06-09'
+description: Discover the Wyckoff Method for technical analysis, guiding investors on stock buying decisions through its market cycle of accumulation, markup, distribution, and markdown.
+created: 2023-07-17
+last_update: 2026-06-09
 ---
-
 - The Wyckoff Method is a technical analysis approach that can help investors decide what stocks to buy and when to buy them.
 - The Wyckoff market cycle reflects Wyckoff’s theory of what drives a stock’s price movement.
 - The four phases of the market cycle are accumulation, markup, distribution, and markdown.

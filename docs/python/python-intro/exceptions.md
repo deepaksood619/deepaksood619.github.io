@@ -1,14 +1,10 @@
 ---
 slug: /python/python-intro/exceptions
 title: Understanding Exceptions in Python
-description: Learn when to use exceptions versus conditional handling in Python for
-  efficient error management and code performance.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Learn when to use exceptions versus conditional handling in Python for efficient error management and code performance.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Exceptions
-
 ## Should I Use Exceptions of Conditional Handling?
 
 Python best practice is to use exceptions as a better way to handle "exceptional" cases. Unnecessary use ofif's may slow down your code. Although, keep in mind frequent "except" calls [are even slower](http://stackoverflow.com/questions/2522005/cost-of-exception-handlers-in-python) than plainifconditional handling, so you must use it wisely.

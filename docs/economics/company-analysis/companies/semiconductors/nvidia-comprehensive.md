@@ -1,12 +1,10 @@
 ---
 slug: /economics/company-analysis/companies/semiconductors/nvidia-comprehensive
-title: 'NVIDIA Stock Analysis: June 2026'
-description: Explore our comprehensive analysis of NVIDIA, highlighting its investment
-  recommendation, financial performance, and growth potential.
-created: '2026-06-09'
-last_update: '2026-06-09'
+title: "NVIDIA Stock Analysis: June 2026"
+description: Explore our comprehensive analysis of NVIDIA, highlighting its investment recommendation, financial performance, and growth potential.
+created: 2026-06-09
+last_update: 2026-06-09
 ---
-
 - **Analysis Date:** June 9, 2026
 - **Exchange:** NASDAQ
 - **Sector:** Technology - Semiconductors (AI/GPU)

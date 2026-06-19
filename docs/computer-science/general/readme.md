@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/general/readme
 title: General Resources for Computer Science
-description: Explore common standards, UUID/GUID info, newsletters, learning resources,
-  and research papers in computer science.
-created: '2023-03-05'
-last_update: '2024-06-05'
+description: Explore common standards, UUID/GUID info, newsletters, learning resources, and research papers in computer science.
+created: 2023-03-05
+last_update: 2024-06-05
 ---
-
-# General
-
 - [Common](common)
 - [Standards](standards)
 - [UUID / GUID](computer-science/general/uuid-guid.md)

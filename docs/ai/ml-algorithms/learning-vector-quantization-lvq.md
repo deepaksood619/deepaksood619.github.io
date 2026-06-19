@@ -1,12 +1,10 @@
 ---
 slug: /ai/ml-algorithms/learning-vector-quantization-lvq
 title: Learning Vector Quantization (LVQ)
-description: Discover Learning Vector Quantization (LVQ), an efficient neural network
-  algorithm that optimizes training data representation and enhances predictive accuracy.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Discover Learning Vector Quantization (LVQ), an efficient neural network algorithm that optimizes training data representation and enhances predictive accuracy.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
 Hi, adownside of K-Nearest Neighbors is that you need to hang on to your entire training dataset.
 
 The Learning Vector Quantization algorithm (or LVQ for short) is an artificial neural network algorithm that allows you to choose how many training instances to hang onto and learns exactly what those instances should look like.

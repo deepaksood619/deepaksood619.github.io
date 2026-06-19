@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/snowflake/intro
 title: Introduction to Snowflake Architecture
-description: Discover Snowflake's multi-cluster, shared storage architecture designed
-  for scalable cloud-based data management.
-created: '2024-01-04'
-last_update: '2026-06-10'
+description: Discover Snowflake's multi-cluster, shared storage architecture designed for scalable cloud-based data management.
+created: 2024-01-04
+last_update: 2026-06-10
 ---
-
-# Intro
-
 Multi-cluster, shared storage architecture
 
 Snowflake is a cloud-based database and is currently offered as a pay-as-you-go service in AWS, Azure and GCP cloud. It is developed by Snowflake Computing.

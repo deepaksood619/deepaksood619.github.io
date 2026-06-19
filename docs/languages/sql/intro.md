@@ -1,13 +1,10 @@
 ---
 slug: /languages/sql/intro
 title: Intro
-description: Learn the fundamentals of SQL, the declarative language for managing
-  relational databases, ensuring data integrity and efficient querying through structured
-  commands.
-created: '2023-03-05'
-last_update: '2025-01-30'
+description: Learn the fundamentals of SQL, the declarative language for managing relational databases, ensuring data integrity and efficient querying through structured commands.
+created: 2023-03-05
+last_update: 2025-01-30
 ---
-
 **SQL is a declarative language, you tell the system what do you want, and system figures it out how to give it to you**
 
 SQL (Structured Query Language) is a special-purpose programming language designed for managing information in a relational database management system (RDBMS). The word relational here is key; it specifies that the database management system is organized in such a way that there are clear relations defined between different sets of data. SQL operates through simple, declarative statements. This keeps data accurate and secure, and helps maintain the integrity of databases, regardless of size.

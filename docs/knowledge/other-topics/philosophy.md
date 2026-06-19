@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/other-topics/philosophy
 title: Philosophy
-description: Explore the essence of philosophy, covering aesthetics, applied philosophy,
-  and various branches like the philosophy of economics, education, and law.
-created: '2023-03-05'
-last_update: '2026-02-27'
+description: Explore the essence of philosophy, covering aesthetics, applied philosophy, and various branches like the philosophy of economics, education, and law.
+created: 2023-03-05
+last_update: 2026-02-27
 ---
-
 ## Outline
 
 - [Aesthetics](https://en.wikipedia.org/wiki/Aesthetics)([outline](https://en.wikipedia.org/wiki/Outline_of_aesthetics)) /[Philosophy of Art](https://en.wikipedia.org/wiki/Philosophy_of_Art)

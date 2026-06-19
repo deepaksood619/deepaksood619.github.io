@@ -1,12 +1,10 @@
 ---
 slug: /mathematics/general/godel-incompleteness-theorem
 title: Godel's Incompleteness Theorem
-description: Explore Gödel's incompleteness theorems, which reveal the inherent limitations
-  of formal axiomatic systems and their impact on mathematical logic and philosophy.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore Gödel's incompleteness theorems, which reveal the inherent limitations of formal axiomatic systems and their impact on mathematical logic and philosophy.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 Gödel's incompleteness theoremsare two [theorems](https://en.wikipedia.org/wiki/Theorem) of [mathematical logic](https://en.wikipedia.org/wiki/Mathematical_logic) that demonstrate the inherent limitations of every formal [axiomatic system](https://en.wikipedia.org/wiki/Axiomatic_system) containing basic [arithmetic](https://en.wikipedia.org/wiki/Arithmetic). These results, published by [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) in 1931, are important both in mathematical logic and in the [philosophy of mathematics](https://en.wikipedia.org/wiki/Philosophy_of_mathematics). The theorems are widely, but not universally, interpreted as showing that [Hilbert's program](https://en.wikipedia.org/wiki/Hilbert%27s_program) to find a complete and consistent set of [axioms](https://en.wikipedia.org/wiki/Axiom) for all [mathematics](https://en.wikipedia.org/wiki/Mathematics) is impossible.
 
 The first incompleteness theorem states that no [consistent system](https://en.wikipedia.org/wiki/Consistency) of axioms whose theorems can be listed by an [effective procedure](https://en.wikipedia.org/wiki/Effective_procedure)(i.e., an [algorithm](https://en.wikipedia.org/wiki/Algorithm)) is capable of proving all truths about the arithmetic of the [natural numbers](https://en.wikipedia.org/wiki/Natural_number). For any such formal system, there will always be statements about the natural numbers that are true, but that are unprovable within the system. The second incompleteness theorem, an extension of the first, shows that the system cannot demonstrate its own consistency.

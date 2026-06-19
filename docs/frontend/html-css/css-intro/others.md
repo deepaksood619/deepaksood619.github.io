@@ -1,14 +1,10 @@
 ---
 slug: /frontend/html-css/css-intro/others
 title: CSS Animations and Transitions Guide
-description: Learn about CSS keyframe animations, transition properties, and how media
-  queries enhance web design in this comprehensive guide.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Learn about CSS keyframe animations, transition properties, and how media queries enhance web design in this comprehensive guide.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Others
-
 ## CSS Keyframe Animation
 
 A CSS keyframe animation is 0-100% time representation of all the transitions that should occur on the selected element for a specified period of time. This way multiple transitions can be combined into a seamless visual representation.

@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/clickhouse/data-storage
 title: Understanding Data Storage Techniques
-description: Learn how data parts are organized and stored efficiently in tables,
-  using primary keys and formatted for optimal performance.
-created: '2025-05-16'
-last_update: '2025-06-10'
+description: Learn how data parts are organized and stored efficiently in tables, using primary keys and formatted for optimal performance.
+created: 2025-05-16
+last_update: 2025-06-10
 ---
-
-# Data Storage
-
 A table consists of data parts sorted by primary key.
 
 When data is inserted in a table, separate data parts are created and each of them is lexicographically sorted by primary key. For example, if the primary key is `(CounterID, Date)`, the data in the part is sorted by `CounterID`, and within each `CounterID`, it is ordered by `Date`.

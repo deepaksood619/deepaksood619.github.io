@@ -1,14 +1,10 @@
 ---
 slug: /technologies/kafka/security/11-security-recommendations
 title: Essential Kafka Security Recommendations
-description: Discover key security recommendations and a checklist to protect your
-  Kafka cluster from potential vulnerabilities.
-created: '2026-01-25'
-last_update: '2026-01-25'
+description: Discover key security recommendations and a checklist to protect your Kafka cluster from potential vulnerabilities.
+created: 2026-01-25
+last_update: 2026-01-25
 ---
-
-# Security Recommendations
-
 Before you go, we want to provide you with a couple of general recommendations as well as a security checklist. The checklist won't cover all use cases but it should serve as a useful outline.
 
 ## Education

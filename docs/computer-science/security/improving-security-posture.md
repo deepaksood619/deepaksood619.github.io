@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/security/improving-security-posture
 title: Enhancing Your Security Posture
-description: Learn how to improve your organization's security posture with effective
-  assessments, team formation, and training.
-created: '2023-11-26'
-last_update: '2024-05-24'
+description: Learn how to improve your organization's security posture with effective assessments, team formation, and training.
+created: 2023-11-26
+last_update: 2024-05-24
 ---
-
-# Improving Security Posture
-
 ### 1. Assessment of Initial Security State
 
 - Conduct a thorough assessment of the existing security posture, including vulnerability assessments, penetration testing, and risk analysis.

@@ -1,12 +1,10 @@
 ---
 slug: /education/competitors/india-edtech/physicswallah-analysis
 title: PhysicsWallah Company Analysis
-description: Explore PhysicsWallah's journey from a startup to a $2.8B unicorn, highlighting
-  its funding, valuation, and profitability.
-created: '2026-05-09'
-last_update: '2026-06-08'
+description: Explore PhysicsWallah's journey from a startup to a $2.8B unicorn, highlighting its funding, valuation, and profitability.
+created: 2026-05-09
+last_update: 2026-06-08
 ---
-
 ## Company Overview
 
 - **Founded:** 2016 (YouTube channel started 2014)

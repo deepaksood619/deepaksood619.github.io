@@ -1,12 +1,10 @@
 ---
 slug: /ai/data-visualization/d3-data-driven-documents
 title: D3 (Data Driven Documents)
-description: Discover D3.js, a powerful JavaScript library for creating dynamic, interactive
-  data visualizations using HTML, CSS, and SVG for your web projects.
-created: '2023-03-05'
-last_update: '2024-02-26'
+description: Discover D3.js, a powerful JavaScript library for creating dynamic, interactive data visualizations using HTML, CSS, and SVG for your web projects.
+created: 2023-03-05
+last_update: 2024-02-26
 ---
-
 https://www.freecodecamp.org/learn/data-visualization
 
 D3, or D3.js, stands for Data Driven Documents. It's a JavaScript library for creating dynamic and interactive data visualizations in the browser.

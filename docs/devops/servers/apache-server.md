@@ -1,14 +1,10 @@
 ---
 slug: /devops/servers/apache-server
 title: Overview of Apache HTTP Server
-description: Discover the features and history of the Apache HTTP Server, a widely
-  used and customizable open-source web server.
-created: '2023-03-05'
-last_update: '2025-04-27'
+description: Discover the features and history of the Apache HTTP Server, a widely used and customizable open-source web server.
+created: 2023-03-05
+last_update: 2025-04-27
 ---
-
-# Apache Server
-
 ## Apache HTTP Server
 
 The [Apache HTTP Server](https://httpd.apache.org/), also known as Apache HTTPd, is a widely used open source web server that is extremely customizable. Its functionality can be extended through modules that suit a wide range of use cases, from serving [dynamic PHP content](https://wiki.apache.org/httpd/php) to acting as a [forward or reverse proxy](https://httpd.apache.org/docs/current/mod/mod_proxy.html).

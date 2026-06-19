@@ -1,12 +1,10 @@
 ---
 slug: /databases-sql/aws-redshift/deep-dive-best-practices
 title: Deep dive / Best practices
-description: Explore essential best practices and optimizations for enhancing AWS
-  Redshift performance, from insert strategies to query design and table management.
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Explore essential best practices and optimizations for enhancing AWS Redshift performance, from insert strategies to query design and table management.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
 ## Insert performance
 
 https://stackoverflow.com/questions/16485425/aws-redshift-jdbc-insert-performance

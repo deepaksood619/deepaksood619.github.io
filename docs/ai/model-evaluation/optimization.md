@@ -1,12 +1,10 @@
 ---
 slug: /ai/model-evaluation/optimization
 title: Optimization
-description: Master optimization techniques in machine learning, focusing on loss
-  functions, gradient descent, and performance metrics for effective business decision-making.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Master optimization techniques in machine learning, focusing on loss functions, gradient descent, and performance metrics for effective business decision-making.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
 ## Learn how to
 
 - Quantify model performance using loss function

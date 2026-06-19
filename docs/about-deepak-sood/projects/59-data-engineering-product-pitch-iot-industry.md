@@ -1,14 +1,10 @@
 ---
 slug: /about-deepak-sood/projects/59-data-engineering-product-pitch-iot-industry
 title: IoT Data Engineering Solutions
-description: Explore tailored data engineering services to tackle IoT data challenges
-  and unlock real-time insights for your business.
-created: '2024-03-17'
-last_update: '2024-12-18'
+description: Explore tailored data engineering services to tackle IoT data challenges and unlock real-time insights for your business.
+created: 2024-03-17
+last_update: 2024-12-18
 ---
-
-# Data Engineering Product Pitch IoT Industry
-
 ## Top Questions
 
 Questions tailored for selling data engineering services specific to the IoT industry:

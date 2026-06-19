@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/readme
 title: Knowledge
-description: Explore a diverse range of knowledge across history, geography, biology,
-  physics, law, language, and more, including resources like games and multimedia.
-created: '2023-03-05'
-last_update: '2024-12-18'
+description: Explore a diverse range of knowledge across history, geography, biology, physics, law, language, and more, including resources like games and multimedia.
+created: 2023-03-05
+last_update: 2024-12-18
 ---
-
 - [General](general/readme.md)
 - [History](history/readme.md)
 - [Geography](geography/readme.md)

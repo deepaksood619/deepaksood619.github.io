@@ -1,14 +1,10 @@
 ---
 slug: /frontend/react/react-native
 title: React Native Overview and Tools
-description: Discover Expo and Interaction Manager in React Native, essential tools
-  for efficient app development and user interaction management.
-created: '2023-03-05'
-last_update: '2026-03-27'
+description: Discover Expo and Interaction Manager in React Native, essential tools for efficient app development and user interaction management.
+created: 2023-03-05
+last_update: 2026-03-27
 ---
-
-# React Native
-
 ## Expo
 
 Expo is a production-grade React Native Framework. Expo provides developer tooling that makes developing apps easier, such as file-based routing, a standard library of native modules, and much more.

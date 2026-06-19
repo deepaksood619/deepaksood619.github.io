@@ -1,14 +1,10 @@
 ---
 slug: /management/project-management/pert-and-cpm
 title: PERT and CPM Methodologies
-description: Explore PERT and CPM methodologies to enhance project management and
-  efficiently schedule tasks for successful project completion.
-created: '2023-03-21'
-last_update: '2023-12-05'
+description: Explore PERT and CPM methodologies to enhance project management and efficiently schedule tasks for successful project completion.
+created: 2023-03-21
+last_update: 2023-12-05
 ---
-
-# PERT & CPM
-
 ## PERT - Program Evaluation and Review Technique
 
 The program (or project) evaluation and review technique (PERT) is a statistical tool used in [project management](https://en.wikipedia.org/wiki/Project_management), which was designed to analyze and represent the [tasks](https://en.wikipedia.org/wiki/Task_(project_management)) involved in completing a given [project](https://en.wikipedia.org/wiki/Project).

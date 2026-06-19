@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/testing/terms
 title: Comprehensive Software Testing Terms
-description: Explore key software testing terminology including acceptance, accessibility,
-  and agile testing for effective quality assurance.
-created: '2023-03-05'
-last_update: '2025-04-27'
+description: Explore key software testing terminology including acceptance, accessibility, and agile testing for effective quality assurance.
+created: 2023-03-05
+last_update: 2025-04-27
 ---
-
-# Terms
-
 ## A
 
 - [Acceptance Testing](https://www.tutorialspoint.com/software_testing_dictionary/acceptance_testing.htm)

@@ -1,14 +1,10 @@
 ---
 slug: /devops/monitoring/istio/architecture
 title: Understanding Istio Architecture
-description: Explore how Istio enhances microservice communication using sidecar proxies
-  and a control plane for better traffic management.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore how Istio enhances microservice communication using sidecar proxies and a control plane for better traffic management.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Architecture
-
 Istio works by having a small network proxy sit alongside each microservice. This so-called "sidecar" intercepts all of the service's traffic, and handles it more intelligently than a simple layer 3 network can. Istio uses the [Envoy](https://www.envoyproxy.io/) proxy as its sidecar. Envoy was originally written at Lyft and is now a [CNCF project](https://landscape.cncf.io/). The whole set of sidecars, one per microservice, is called the*data plane*. The work of the sidecars is coordinated by a small number of central components called the*control plane*. Control and data plane architectures are very common in distributed systems, from network switches to compute farms.
 
 After deploying Istio in a Kubernetes cluster, Istio takes over the communication between services with sidecar proxies. The communication between services is no longer through Kube-proxy but through Istio's sidecar proxies. The request process is like this: First, a client request is captured and redirected to the sidecar proxy by iptables. Then, the sidecar proxy chooses a backend pod according to the service discovery information and routing rules obtained from the control plane, and forwards the request to it.

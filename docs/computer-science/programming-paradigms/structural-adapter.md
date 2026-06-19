@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/programming-paradigms/structural-adapter
 title: Understanding Structural Adapter Design Pattern
-description: Learn how the Structural Adapter pattern simplifies language translation
-  by integrating multiple adapters through a facade for efficient design.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Learn how the Structural Adapter pattern simplifies language translation by integrating multiple adapters through a facade for efficient design.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Structural - Adapter
-
 If there are 3 languages that need to be typed and you know a 4th language than you will not write the same thing 3 times everytime you have to write something, what we do it to create an adapter for the three languages that sit infront of 3 classes that will translate from 4th language to their specific language. All the translations will be handled by the adapter.
 
 But in this design pattern also we have to make 3 calls to the 3 adapters everytime. So to solve this we use facade design pattern. When using interfaces we follow facade design pattern. We will make one call to function and this function will call all other functions in the adapter.

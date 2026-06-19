@@ -1,13 +1,10 @@
 ---
 slug: /ai/pandas/commands
 title: Commands
-description: Explore the DataFrame.describe method to generate descriptive statistics
-  for datasets, summarizing central tendency, dispersion, and shape, while handling
-  mixed data types.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the DataFrame.describe method to generate descriptive statistics for datasets, summarizing central tendency, dispersion, and shape, while handling mixed data types.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 `DataFrame.describe(percentiles=None, include=None, exclude=None)`
 
 Generates descriptive statistics that summarize the central tendency, dispersion and shape of a dataset's distribution, excludingNaNvalues.

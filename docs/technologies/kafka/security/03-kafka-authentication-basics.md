@@ -1,14 +1,10 @@
 ---
 slug: /technologies/kafka/security/03-kafka-authentication-basics
 title: Kafka Authentication Essentials
-description: Learn the basics of Kafka authentication to secure client and broker
-  connections in your Kafka-based system.
-created: '2026-01-25'
-last_update: '2026-01-29'
+description: Learn the basics of Kafka authentication to secure client and broker connections in your Kafka-based system.
+created: 2026-01-25
+last_update: 2026-01-29
 ---
-
-# Kafka Authentication Basics
-
 One way that Kafka provides security is through built-in authentication. Similar to checking an ID, authentication is the act of verifying the identity of an entity requesting access to a system component. In a Kafka-based system, there are many different interactions that begin with participants authenticating the components with which they are communicating.
 
 For example, when a connection is established between a client (a user, application, or service) and a broker, each side of the connection will usually wish to verify the other. The same holds true when two brokers connect—each may verify the other. A final authentication scenario is a broker accessing ZooKeeper, whereby the broker may be required to authenticate before being allowed to access sensitive cluster metadata.

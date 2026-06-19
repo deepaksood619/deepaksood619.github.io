@@ -1,14 +1,10 @@
 ---
 slug: /networking/others/data-formats
 title: Understanding Hierarchical Data Format
-description: Learn about Hierarchical Data Formats (HDF), focusing on HDF5 structures,
-  datasets, and the benefits of using advanced file organization.
-created: '2023-03-05'
-last_update: '2026-02-12'
+description: Learn about Hierarchical Data Formats (HDF), focusing on HDF5 structures, datasets, and the benefits of using advanced file organization.
+created: 2023-03-05
+last_update: 2026-02-12
 ---
-
-# Data formats
-
 ## Hierarchical Data Format
 
 Hierarchical Data Format(**HDF**) is a set of file formats (**HDF4**,**HDF5) designed to store and organize large amounts of data

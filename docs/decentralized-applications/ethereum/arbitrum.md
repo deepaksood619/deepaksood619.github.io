@@ -1,12 +1,10 @@
 ---
 slug: /decentralized-applications/ethereum/arbitrum
 title: Arbitrum
-description: Arbitrum is a leading layer-2 scaling solution for Ethereum, enhancing
-  transaction speed and reducing costs in the DeFi ecosystem through optimistic rollups.
-created: '2023-03-05'
-last_update: '2023-07-10'
+description: Arbitrum is a leading layer-2 scaling solution for Ethereum, enhancing transaction speed and reducing costs in the DeFi ecosystem through optimistic rollups.
+created: 2023-03-05
+last_update: 2023-07-10
 ---
-
 Arbitrum is currently the fourth-largest blockchain in terms of the total value locked (TVL) into its decentralized finance (DeFi) ecosystem
 
 Arbitrum is a layer-2 scaling solution for Ethereum, designed to increase the scalability and performance of the Ethereum network. It is a sidechain that runs parallel to the Ethereum mainchain, but with its own consensus mechanism and infrastructure.

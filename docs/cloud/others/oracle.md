@@ -1,12 +1,10 @@
 ---
 slug: /cloud/others/oracle
 title: Oracle
-description: Discover Oracle Cloud Infrastructure, a robust platform offering AI,
-  autonomous databases, and secure, cost-effective solutions for enterprise workloads.
-created: '2023-03-05'
-last_update: '2026-03-18'
+description: Discover Oracle Cloud Infrastructure, a robust platform offering AI, autonomous databases, and secure, cost-effective solutions for enterprise workloads.
+created: 2023-03-05
+last_update: 2026-03-18
 ---
-
 Become an Autonomous Database Specialist
 
 ## Oracle Cloud Infrastructure (OCI)

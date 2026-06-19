@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/snowflake/data-loading-using-copy-into-from-aws-s3
 title: Efficient Data Loading with COPY INTO
-description: Learn how to use COPY INTO to load data from AWS S3 into Snowflake for
-  efficient batch processing and error handling.
-created: '2025-10-16'
-last_update: '2025-10-18'
+description: Learn how to use COPY INTO to load data from AWS S3 into Snowflake for efficient batch processing and error handling.
+created: 2025-10-16
+last_update: 2025-10-18
 ---
-
-# Data Loading Using COPY INTO from AWS S3
-
 ## Overview
 
 COPY INTO is a bulk loading command in Snowflake used to load data on demand from external storage like Amazon S3 into Snowflake tables. Unlike Snowpipe (which provides continuous auto-ingestion), COPY INTO is manual or scheduled but gives more control, better error handling, and batch loading performance.

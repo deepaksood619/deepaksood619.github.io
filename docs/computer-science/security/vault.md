@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/security/vault
 title: Secure Secrets Management with Vault
-description: Vault provides a unified solution for secure secret storage and access
-  control, ensuring the safety of your API keys, passwords, and more.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Vault provides a unified solution for secure secret storage and access control, ensuring the safety of your API keys, passwords, and more.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Vault
-
 Vault is a tool for securely accessing *secrets*. A secret is anything that you want to tightly control access to, such as API keys, passwords, or certificates. Vault provides a unified interface to any secret, while providing tight access control and recording a detailed audit log.
 
 Vault was built to solve the secret sprawl problem in a user-friendly and auditable way. Just as immutable infrastructure gives operations certainty in server configurations and eliminates drift, Vault gives security certainty in when, where, and how secrets are being used across a system. It is the central source of security truth for modern architectures.

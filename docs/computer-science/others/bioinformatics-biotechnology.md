@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/others/bioinformatics-biotechnology
 title: Exploring Bioinformatics and Biotechnology
-description: Discover the Protein Data Bank (PDB) and RCSB's role in structural bioinformatics
-  and large biological molecule research.
-created: '2023-03-05'
-last_update: '2024-07-22'
+description: Discover the Protein Data Bank (PDB) and RCSB's role in structural bioinformatics and large biological molecule research.
+created: 2023-03-05
+last_update: 2024-07-22
 ---
-
-# BioInformatics/BioTechnology
-
 ## PDB - Protein Data Bank
 
 The**Protein Data Bank**(**PDB**) is a [crystallographic database](https://en.wikipedia.org/wiki/Crystallographic_database) for the three-dimensional structural data of large biological molecules, such as [proteins](https://en.wikipedia.org/wiki/Protein) and [nucleic acids](https://en.wikipedia.org/wiki/Nucleic_acid). The data, typically obtained by [X-ray crystallography](https://en.wikipedia.org/wiki/X-ray_crystallography), [NMR spectroscopy](https://en.wikipedia.org/wiki/Nuclear_magnetic_resonance_spectroscopy_of_proteins), or, increasingly, [cryo-electron microscopy](https://en.wikipedia.org/wiki/Cryo-electron_microscopy),

@@ -1,12 +1,10 @@
 ---
 slug: /economics/fundamentals/intro
 title: Intro
-description: Explore the basics of economics, including market dynamics, government
-  roles, and the impact of transactions on our economy for a deeper understanding.
-created: '2023-03-05'
-last_update: '2026-06-09'
+description: Explore the basics of economics, including market dynamics, government roles, and the impact of transactions on our economy for a deeper understanding.
+created: 2023-03-05
+last_update: 2026-06-09
 ---
-
 [**https://en.wikipedia.org/wiki/Outline_of_economics**](https://en.wikipedia.org/wiki/Outline_of_economics)
 
 Crash Course - [Economics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtPNZwz5_o_5uirJ8gQXnhEO)

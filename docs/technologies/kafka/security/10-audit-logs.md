@@ -1,14 +1,10 @@
 ---
 slug: /technologies/kafka/security/10-audit-logs
 title: Understanding Audit Logs
-description: Discover how audit logs enhance system security by tracking events and
-  providing insights into potential threats and attacks.
-created: '2026-01-25'
-last_update: '2026-01-25'
+description: Discover how audit logs enhance system security by tracking events and providing insights into potential threats and attacks.
+created: 2026-01-25
+last_update: 2026-01-25
 ---
-
-# Audit Logs
-
 Up until now, we have dealt with protecting your data, your system, and its resources with respect to specific events: the login process as well as access to resources after a successful login.
 
 However, your system may be targeted in some manner outside of these more orderly sequences. For example, a rogue client may spawn fake messages or you may experience a DDoS-style attack on broker resources. If one of these happened, how would you know you had been targeted, and how could you identify the perpetrators as well as the sequence of events? Furthermore, is there a way that you can prevent future attacks?

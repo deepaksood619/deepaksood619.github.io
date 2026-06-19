@@ -1,14 +1,10 @@
 ---
 slug: /about-deepak-sood/projects/27-wso2-case-studies
-title: 'WSO2 Case Studies: Fintech Solutions'
-description: Explore how a mid-sized digital bank improved fraud detection and transaction
-  processing with WSO2's event-driven architecture.
-created: '2026-04-28'
-last_update: '2026-04-28'
+title: "WSO2 Case Studies: Fintech Solutions"
+description: Explore how a mid-sized digital bank improved fraud detection and transaction processing with WSO2's event-driven architecture.
+created: 2026-04-28
+last_update: 2026-04-28
 ---
-
-# WSO2 Case Studies
-
 ## Case Study 1: Fintech - Real-Time Fraud Detection & Transaction Routing
 
 **The Challenge:** A mid-sized digital bank was struggling with high latency in their fraud detection system. Their existing architecture used synchronous REST calls, meaning the customer’s payment would "hang" while several security checks were performed. If any one check failed or timed out, the entire transaction failed.

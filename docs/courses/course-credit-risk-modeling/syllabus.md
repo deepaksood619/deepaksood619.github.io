@@ -1,12 +1,10 @@
 ---
 slug: /courses/course-credit-risk-modeling/syllabus
 title: Course - Credit Risk Modeling
-description: Master credit risk modeling with our comprehensive course covering credit
-  scoring, fraud detection, and prevention techniques to enhance financial decision-making.
-created: '2023-03-05'
-last_update: '2024-09-24'
+description: Master credit risk modeling with our comprehensive course covering credit scoring, fraud detection, and prevention techniques to enhance financial decision-making.
+created: 2023-03-05
+last_update: 2024-09-24
 ---
-
 - [Intro](courses/course-credit-risk-modeling/intro.md)
 - [Credit and Debt](courses/course-credit-risk-modeling/credit-and-debt.md)
 - [Decision Areas and Credit Scorecards](courses/course-credit-risk-modeling/decision-areas-and-credit-scorecards.md)

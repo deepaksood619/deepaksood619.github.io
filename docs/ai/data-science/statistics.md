@@ -1,13 +1,10 @@
 ---
 slug: /ai/data-science/statistics
 title: Statistics
-description: Discover essential statistical methods for data preparation and model
-  evaluation in machine learning, including outlier detection, data sampling, and
-  cross-validation.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Discover essential statistical methods for data preparation and model evaluation in machine learning, including outlier detection, data sampling, and cross-validation.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 ## Statistics in Data Preparation
 
 Statistical methods are required in the preparation of train and test data for your machine learning model.

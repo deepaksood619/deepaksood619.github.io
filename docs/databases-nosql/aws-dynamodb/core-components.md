@@ -1,12 +1,10 @@
 ---
 slug: /databases-nosql/aws-dynamodb/core-components
 title: Core components
-description: 'Discover the core components of DynamoDB: tables, items, attributes,
-  primary keys, and secondary indexes for efficient data management and querying flexibility.'
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Discover the core components of DynamoDB: tables, items, attributes, primary keys, and secondary indexes for efficient data management and querying flexibility.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
 In DynamoDB, tables, items, and attributes are the core components that you work with. A **table** is a collection of **items**, and each item is a collection of **attributes**. DynamoDB uses primary keys to uniquely identify each item in a table and secondary indexes to provide more querying flexibility. You can use DynamoDB Streams to capture data modification events in DynamoDB tables.
 
 ## Tables, Items, and Attributes

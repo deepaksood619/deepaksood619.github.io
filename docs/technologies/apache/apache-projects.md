@@ -1,14 +1,10 @@
 ---
 slug: /technologies/apache/apache-projects
 title: Comprehensive Guide to Apache Projects
-description: Explore a wide array of Apache projects, including tools for HTTP servers,
-  stream processing, and data management.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Explore a wide array of Apache projects, including tools for HTTP servers, stream processing, and data management.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
-# Apache Projects
-
 - [HTTP Server](http://httpd.apache.org/)
 
 ## A

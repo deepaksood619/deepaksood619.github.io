@@ -1,12 +1,10 @@
 ---
 slug: /ai/llm/interview-prep/interview-questions
 title: Interview Questions
-description: Explore the architecture of Transformers, featuring encoders, decoders,
-  and self-attention layers, essential for understanding machine translation.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Explore the architecture of Transformers, featuring encoders, decoders, and self-attention layers, essential for understanding machine translation.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 ## Can you provide a high-level overview of Transformers' architecture?
 
 Let’s begin by looking at the model as a _single black box_. In a machine translation application, it would take a sentence in one language, and output its translation in another, as illustrated below,

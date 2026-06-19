@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/searching-sorting/shell-sort
 title: Understanding Shell Sort Algorithm
-description: Explore the Shell Sort algorithm, an efficient in-place sorting method
-  that enhances Insertion Sort by allowing multiple position swaps.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the Shell Sort algorithm, an efficient in-place sorting method that enhances Insertion Sort by allowing multiple position swaps.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Shell Sort
-
 - In-place comparison sort
 - Not Stable
 

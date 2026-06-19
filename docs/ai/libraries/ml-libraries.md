@@ -1,12 +1,10 @@
 ---
 slug: /ai/libraries/ml-libraries
 title: Libraries
-description: Discover the Deep Graph Library (DGL), a powerful Python package for
-  easy deep learning on graphs, supporting top frameworks like PyTorch and TensorFlow.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Discover the Deep Graph Library (DGL), a powerful Python package for easy deep learning on graphs, supporting top frameworks like PyTorch and TensorFlow.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
 ## Deep Graph Library (DGL)
 
 Python package built to ease deep learning on graph, on top of existing DL frameworks.

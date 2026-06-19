@@ -1,12 +1,10 @@
 ---
 slug: /languages/golang/syntax
 title: Syntax
-description: Explore Go language syntax, including reserved words and the defer statement
-  for executing functions after nearby functions return for better code management.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore Go language syntax, including reserved words and the defer statement for executing functions after nearby functions return for better code management.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 ## Reserved Words
 
 | break    | default     | func   | interface | select |

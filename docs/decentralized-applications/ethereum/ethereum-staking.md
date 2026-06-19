@@ -1,12 +1,10 @@
 ---
 slug: /decentralized-applications/ethereum/ethereum-staking
 title: Ethereum  Staking
-description: Discover how Ethereum's shift to Proof of Stake enhances energy efficiency,
-  lowers node costs, and paves the way for sharding and faster transactions.
-created: '2023-03-05'
-last_update: '2024-03-18'
+description: Discover how Ethereum's shift to Proof of Stake enhances energy efficiency, lowers node costs, and paves the way for sharding and faster transactions.
+created: 2023-03-05
+last_update: 2024-03-18
 ---
-
 ## Why did Ethereum switch to PoS?
 
 - Reduce Energy Requirements

@@ -1,14 +1,10 @@
 ---
 slug: /technologies/apache-airflow/intro
 title: Introduction to Airflow Workflows
-description: Explore Airflow, a powerful platform for authoring, scheduling, and monitoring
-  workflows using directed acyclic graphs (DAGs).
-created: '2023-03-05'
-last_update: '2025-10-24'
+description: Explore Airflow, a powerful platform for authoring, scheduling, and monitoring workflows using directed acyclic graphs (DAGs).
+created: 2023-03-05
+last_update: 2025-10-24
 ---
-
-# Airflow
-
 Airflow is a platform to programmatically author, schedule and monitor workflows.
 
 Use airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The airflow scheduler executes your tasks on an array of workers while following the specified dependencies. Rich command line utilities make performing complex surgeries on DAGs a snap. The rich user interface makes it easy to visualize pipelines running in production, monitor progress, and troubleshoot issues when needed.

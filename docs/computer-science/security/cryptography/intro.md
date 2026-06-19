@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/security/cryptography/intro
 title: Understanding Cryptography Basics
-description: Explore the fundamentals of cryptography, its importance in securing
-  secrets, and how to maintain integrity over time.
-created: '2023-03-05'
-last_update: '2024-03-11'
+description: Explore the fundamentals of cryptography, its importance in securing secrets, and how to maintain integrity over time.
+created: 2023-03-05
+last_update: 2024-03-11
 ---
-
-# Cryptography
-
 Dance like no one is watching; encrypt like everyone is. Encrypt everything."
 
 If you have a secret and wish to keep it a secret until your death, how do you guarantee its cryptographic integrity until that time, especially with computing advances that could make today's state-of-the-art encryption crackable? And how do you enable the secret to be released, but only after death?

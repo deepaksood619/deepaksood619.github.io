@@ -1,12 +1,10 @@
 ---
 slug: /databases-nosql/mongodb/overview
 title: Overview
-description: Discover the essentials of MongoDB, including databases, collections,
-  and documents, and learn how they dynamically organize data for flexible applications.
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Discover the essentials of MongoDB, including databases, collections, and documents, and learn how they dynamically organize data for flexible applications.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
 ## Database
 
 Database is a physical container for collections. Each database gets its own set of files on the file system. A single MongoDB server typically has multiple databases.

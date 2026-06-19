@@ -1,14 +1,10 @@
 ---
 slug: /technologies/flink/readme
 title: Comprehensive Guide to Apache Flink
-description: Explore Apache Flink's architecture, processing models, and more with
-  our detailed resources and guides.
-created: '2025-12-15'
-last_update: '2026-03-03'
+description: Explore Apache Flink's architecture, processing models, and more with our detailed resources and guides.
+created: 2025-12-15
+last_update: 2026-03-03
 ---
-
-# Apache Flink
-
 - [intro](technologies/flink/intro.md)
 - [architecture-key-components](technologies/flink/architecture-key-components.md)
 - [processing-model](technologies/flink/processing-model.md)

@@ -1,14 +1,10 @@
 ---
 slug: /data-structures/hierarchical-data-structure/k-ary-heap-d-ary-heap-d-way-heap
-title: 'Understanding K-ary Heaps: Structure and Types'
-description: Explore the properties, types, and functionalities of k-ary heaps, generalizations
-  of binary heaps with multiple children per node.
-created: '2023-03-05'
-last_update: '2023-04-11'
+title: "Understanding K-ary Heaps: Structure and Types"
+description: Explore the properties, types, and functionalities of k-ary heaps, generalizations of binary heaps with multiple children per node.
+created: 2023-03-05
+last_update: 2023-04-11
 ---
-
-# k-ary heap / d-ary heap / d-way heap
-
 K-ary heaps are a generalization of binary heap(K=2) in which each node have K children instead of 2.
 
 Properties:

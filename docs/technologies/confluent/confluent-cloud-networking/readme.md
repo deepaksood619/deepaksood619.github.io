@@ -1,14 +1,10 @@
 ---
 slug: /technologies/confluent/confluent-cloud-networking/readme
 title: Confluent Cloud Networking & Security Guide
-description: Explore comprehensive resources on Confluent Cloud networking, security,
-  and VPC configurations to enhance your Kafka deployment.
-created: '2025-12-10'
-last_update: '2026-03-11'
+description: Explore comprehensive resources on Confluent Cloud networking, security, and VPC configurations to enhance your Kafka deployment.
+created: 2025-12-10
+last_update: 2026-03-11
 ---
-
-# Confluent Cloud Networking and Security
-
 1. [01-introduction](technologies/confluent/confluent-cloud-networking/01-introduction.md)
 2. [02-confluent-cloud-overview](technologies/confluent/confluent-cloud-networking/02-confluent-cloud-overview.md)
 3. [03-secure-public-endpoints](technologies/confluent/confluent-cloud-networking/03-secure-public-endpoints.md)

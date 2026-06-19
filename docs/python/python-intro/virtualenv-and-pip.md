@@ -1,14 +1,10 @@
 ---
 slug: /python/python-intro/virtualenv-and-pip
 title: Using VirtualEnv and Pip Effectively
-description: Learn how to create isolated Python environments with virtualenv and
-  manage packages with pip for efficient project development.
-created: '2023-03-05'
-last_update: '2026-04-28'
+description: Learn how to create isolated Python environments with virtualenv and manage packages with pip for efficient project development.
+created: 2023-03-05
+last_update: 2026-04-28
 ---
-
-# virtualenv & pip
-
 ## VirtualEnv
 
 virtualenv is a tool to create isolated Python environments. We can create a new Python environment to run a Python/Django/whatever app and install all package dependencies into the virtualenv without affecting your system's site-packages

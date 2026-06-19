@@ -1,12 +1,10 @@
 ---
 slug: /ai/llm/rag/rag-retrieval-augmented-generation
 title: RAG - retrieval-augmented generation
-description: Discover how RAG enhances AI through retrieval-augmented generation,
-  empowering large language models with accurate, contextually relevant information.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover how RAG enhances AI through retrieval-augmented generation, empowering large language models with accurate, contextually relevant information.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 Presentation - [Empowering GenAI with RAG](https://docs.google.com/presentation/d/1s8lM_3jm6eF_SbWRSzGjREO3QN7RZcgeUM_zA6TH-J8/edit#slide=id.p1)
 
 RAG is an AI framework for retrieving facts from an external knowledge base to ground large language models (LLMs) on the most accurate, up-to-date information and to give users insight into LLMs' generative process.

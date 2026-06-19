@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/distributed-system/readme
 title: Understanding Distributed Systems
-description: Explore the essentials of distributed systems, including CAP theorem,
-  consensus protocols, and key vocabulary for a comprehensive understanding.
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Explore the essentials of distributed systems, including CAP theorem, consensus protocols, and key vocabulary for a comprehensive understanding.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
-# Distributed System
-
 - [Intro](computer-science/distributed-system/intro.md)
 - [Vocabulary](vocabulary)
 - [CAP Theorem](cap-theorem)

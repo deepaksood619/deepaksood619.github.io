@@ -1,12 +1,10 @@
 ---
 slug: /economics/investment-frameworks/mental-models/marginal-utility-analysis
 title: Marginal Utility / Analysis
-description: Explore marginal utility analysis to understand how businesses evaluate
-  costs and benefits for maximizing profits and making informed decisions.
-created: '2023-03-05'
-last_update: '2026-06-09'
+description: Explore marginal utility analysis to understand how businesses evaluate costs and benefits for maximizing profits and making informed decisions.
+created: 2023-03-05
+last_update: 2026-06-09
 ---
-
 ## Marginal Analysis
 
 - Marginal analysis is an examination of the additional benefits of an activity compared to the additional costs incurred by that same activity. Marginal refers to the focus on the cost or benefit of the next unit or individual, for example, the cost to produce one more widget or the profit earned by adding one more worker.

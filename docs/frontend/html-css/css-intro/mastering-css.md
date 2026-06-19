@@ -1,14 +1,10 @@
 ---
 slug: /frontend/html-css/css-intro/mastering-css
 title: Mastering CSS Fundamentals
-description: Learn the essentials of CSS, including rule sets, style sheets, and the
-  box model to enhance your web design skills.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Learn the essentials of CSS, including rule sets, style sheets, and the box model to enhance your web design skills.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
-# Mastering CSS
-
 ## The Anatomy of a Rule Set and three types of Style Sheets
 
 - Selector

@@ -1,14 +1,10 @@
 ---
 slug: /data-structures/hierarchical-data-structure/readme
 title: Overview of Hierarchical Data Structures
-description: Explore various hierarchical data structures like heaps, trees, and their
-  applications in efficient data management.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Explore various hierarchical data structures like heaps, trees, and their applications in efficient data management.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
-# Hierarchical Data Structure
-
 - [Binary Heap](binary-heap)
 - [k-ary heap / d-ary heap / d-way heap](k-ary-heap-d-ary-heap-d-way-heap)
 - [Binomial Heap](binomial-heap)

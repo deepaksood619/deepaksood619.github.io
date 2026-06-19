@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/business/collaborative-intelligence
 title: Collaborative Intelligence
-description: Explore the three types of attention and their impact on collaborative
-  intelligence to enhance learning, thinking, and problem-solving abilities.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Explore the three types of attention and their impact on collaborative intelligence to enhance learning, thinking, and problem-solving abilities.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Dawna Markova and Angie
 
 - There are 3 kinds of attention

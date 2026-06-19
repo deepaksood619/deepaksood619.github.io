@@ -1,14 +1,10 @@
 ---
 slug: /technologies/git/theory
 title: Understanding Git Theory and Management
-description: Explore Git best practices, including handling images, submodules, and
-  subtrees for efficient repository management.
-created: '2023-03-05'
-last_update: '2025-05-01'
+description: Explore Git best practices, including handling images, submodules, and subtrees for efficient repository management.
+created: 2023-03-05
+last_update: 2025-05-01
 ---
-
-# Theory
-
 ## Learnings
 
 - git is not made for handling huge number of images, it can bloat up .git directory

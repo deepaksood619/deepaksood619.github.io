@@ -1,14 +1,10 @@
 ---
 slug: /networking/networking-concepts/intro
 title: Understanding Network Connections and Packets
-description: Explore the fundamentals of network connections and learn how packets
-  transmit data across networks efficiently.
-created: '2023-03-05'
-last_update: '2024-02-26'
+description: Explore the fundamentals of network connections and learn how packets transmit data across networks efficiently.
+created: 2023-03-05
+last_update: 2024-02-26
 ---
-
-# Intro
-
 ## Connection
 
 In networking, a connection refers to pieces of related information that are transfered through a network. This generally infers that a connection is built before the data transfer (by following the procedures laid out in a protocol) and then is deconstructed at the at the end of the data transfer.

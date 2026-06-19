@@ -1,14 +1,10 @@
 ---
 slug: /networking/mqtt/retained-messages
 title: Understanding MQTT Retained Messages
-description: Learn how MQTT retained messages ensure subscribers receive the latest
-  topic updates even when no new messages are published.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Learn how MQTT retained messages ensure subscribers receive the latest topic updates even when no new messages are published.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Retained Messages
-
 In MQTT, the client that publishes a message has no guarantee that a subscribing client actually receives the message. The publishing client can only make sure that the message gets delivered safely to the broker. Basically, the same is true for a subscribing client. The client that connects and subscribes to topics has no guarantee on when the publishing client will publish a message in one of their topics of interest. It can take a few seconds, minutes, or hours for the publisher to send a new message in one of the subscribed topics. Until the next message is published, the subscribing client is totally in the dark about the current status of the topic. This situation is where retained messages come into play.
 
 A retained message is a normal MQTT message with the retained flag set to true. The broker stores the last retained message and the corresponding QoS for that topic.**Each client that** subscribes to a topic pattern that matches the topic of the retained message receives the retained message immediately after they subscribe. The broker stores only one retained message per topic

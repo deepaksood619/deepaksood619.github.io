@@ -1,14 +1,10 @@
 ---
 slug: /python/django/advanced
 title: Advanced Django Techniques
-description: Explore advanced Django concepts like atomic transactions, custom related
-  names, and decorators for improved application development.
-created: '2023-03-05'
-last_update: '2025-11-01'
+description: Explore advanced Django concepts like atomic transactions, custom related names, and decorators for improved application development.
+created: 2023-03-05
+last_update: 2025-11-01
 ---
-
-# Advanced
-
 1. Atomic Transactions
 2. Using `+` as the related_name when we do not want django to automatically create related_name
 3. Using decorators

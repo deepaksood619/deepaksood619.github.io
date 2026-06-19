@@ -1,14 +1,10 @@
 ---
 slug: /management/people-management/culture
 title: Building a Strong Organizational Culture
-description: Explore key principles of a thriving workplace culture that prioritizes
-  trust, independence, and radical candor.
-created: '2023-03-05'
-last_update: '2026-06-06'
+description: Explore key principles of a thriving workplace culture that prioritizes trust, independence, and radical candor.
+created: 2023-03-05
+last_update: 2026-06-06
 ---
-
-# Culture
-
 Culture eats strategy for breakfast - Peter Drucker
 
 Strong norms lesser rules

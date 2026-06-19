@@ -1,12 +1,10 @@
 ---
 slug: /about-deepak-sood/projects/49-data-practical-use-cases
 title: Data Practical Use Cases
-description: Explore effective data engineering use cases for data warehousing, ETL
-  processes, and real-time data processing solutions.
-created: '2024-07-30'
-last_update: '2024-12-18'
+description: Explore effective data engineering use cases for data warehousing, ETL processes, and real-time data processing solutions.
+created: 2024-07-30
+last_update: 2024-12-18
 ---
-
 ## Data Engineering
 
 ### Data Warehousing and ETL Processes

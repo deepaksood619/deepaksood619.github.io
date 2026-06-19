@@ -1,12 +1,10 @@
 ---
 slug: /mathematics/probability/normal-distributions
 title: Normal Distributions
-description: Discover the significance of normal distributions in probability theory,
-  statistics, and their applications in the natural and social sciences.
-created: '2023-03-05'
-last_update: '2025-10-24'
+description: Discover the significance of normal distributions in probability theory, statistics, and their applications in the natural and social sciences.
+created: 2023-03-05
+last_update: 2025-10-24
 ---
-
 In [probability theory](https://en.wikipedia.org/wiki/Probability_theory), the normal(or Gaussian or Gauss or Laplace--Gauss) distribution is a very common [continuous probability distribution](https://en.wikipedia.org/wiki/Continuous_probability_distribution). Normal distributions are important in [statistics](https://en.wikipedia.org/wiki/Statistics) and are often used in the [natural](https://en.wikipedia.org/wiki/Natural_science) and [social sciences](https://en.wikipedia.org/wiki/Social_science) to represent real-valued [random variables](https://en.wikipedia.org/wiki/Random_variable) whose distributions are not known. A [random variable](https://en.wikipedia.org/wiki/Random_variable) with a Gaussian distribution is said to be normally distributed and is called a normal deviate.
 
 The normal distribution is useful because of the [central limit theorem](https://en.wikipedia.org/wiki/Central_limit_theorem). In its most general form, under some conditions (which include finite [variance](https://en.wikipedia.org/wiki/Variance)), it states that averages of samples of observations of [random variables](https://en.wikipedia.org/wiki/Random_variables) independently drawn from independent distributions [converge in distribution](https://en.wikipedia.org/wiki/Convergence_in_distribution) to the normal, that is, become normally distributed when the number of observations is sufficiently large. Physical quantities that are expected to be the sum of many independent processes (such as [measurement errors](https://en.wikipedia.org/wiki/Measurement_error)) often have distributions that are nearly normal. Moreover, many results and methods (such as [propagation of uncertainty](https://en.wikipedia.org/wiki/Propagation_of_uncertainty) and [least squares](https://en.wikipedia.org/wiki/Least_squares) parameter fitting) can be derived analytically in explicit form when the relevant variables are normally distributed.

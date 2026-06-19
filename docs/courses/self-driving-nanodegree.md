@@ -1,12 +1,10 @@
 ---
 slug: /courses/self-driving-nanodegree
 title: Self-Driving Nanodegree
-description: Master computer vision, deep learning, and sensor fusion in the Self-Driving
-  Nanodegree to build autonomous vehicle capabilities and enhance real-world applications.
-created: '2023-03-05'
-last_update: '2025-02-03'
+description: Master computer vision, deep learning, and sensor fusion in the Self-Driving Nanodegree to build autonomous vehicle capabilities and enhance real-world applications.
+created: 2023-03-05
+last_update: 2025-02-03
 ---
-
 ## Part - 1
 
 [Computer Vision, Deep Learning, and Sensor Fusion](https://classroom.udacity.com/nanodegrees/nd013/parts/edf28735-efc1-4b99-8fbb-ba9c432239c8)

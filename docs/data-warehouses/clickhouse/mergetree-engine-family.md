@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/clickhouse/mergetree-engine-family
 title: MergeTree Engine Family Overview
-description: Discover the core features of the MergeTree engine family in ClickHouse
-  for high-performance data storage and retrieval.
-created: '2025-05-16'
-last_update: '2025-06-10'
+description: Discover the core features of the MergeTree engine family in ClickHouse for high-performance data storage and retrieval.
+created: 2025-05-16
+last_update: 2025-06-10
 ---
-
-# MergeTree Engine Family
-
 Table engines from the MergeTree family are the core of ClickHouse data storage capabilities. They provide most features for resilience and high-performance data retrieval: columnar storage, custom partitioning, sparse primary index, secondary data-skipping indexes, etc.
 
 Base [MergeTree](https://clickhouse.com/docs/engines/table-engines/mergetree-family/mergetree) table engine can be considered the default table engine for single-node ClickHouse instances because it is versatile and practical for a wide range of use cases.

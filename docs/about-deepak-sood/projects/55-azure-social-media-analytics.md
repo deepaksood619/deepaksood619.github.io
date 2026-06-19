@@ -1,14 +1,10 @@
 ---
 slug: /about-deepak-sood/projects/55-azure-social-media-analytics
 title: Azure Social Media Monitoring Platform
-description: Learn how Azure Synapse can help build an effective social media analytics
-  platform for businesses.
-created: '2024-07-12'
-last_update: '2026-03-27'
+description: Learn how Azure Synapse can help build an effective social media analytics platform for businesses.
+created: 2024-07-12
+last_update: 2026-03-27
 ---
-
-# Azure Social Media Analytics
-
 Social Media is changing the ways we consume the internet. Users from almost every background have a social media presence and dedicate a significant amount of time to using social media.
 
 So, it becomes equally important for businesses including enterprises to monitor social media metrics. This not only helps in staying informed about trends but also helps in gathering customer feedback and building a brand reputation.

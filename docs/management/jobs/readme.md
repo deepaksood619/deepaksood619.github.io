@@ -1,14 +1,10 @@
 ---
 slug: /management/jobs/readme
 title: Essential Job Hunting Resources
-description: Explore key resources for effective job hunting, including career tips,
-  resume pointers, and company insights.
-created: '2023-08-29'
-last_update: '2026-03-16'
+description: Explore key resources for effective job hunting, including career tips, resume pointers, and company insights.
+created: 2023-08-29
+last_update: 2026-03-16
 ---
-
-# Job Hunting
-
 - [Career](management/jobs/career.md)
 - [Companies](management/jobs/companies.md)
 - [Questions to Company](management/jobs/questions-to-company.md)

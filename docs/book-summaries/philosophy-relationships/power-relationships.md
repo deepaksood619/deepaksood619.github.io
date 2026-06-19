@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/philosophy-relationships/power-relationships
 title: Power Relationships
-description: Discover 26 essential laws for building power relationships through great
-  conversations, integrity, and trust, enhancing both personal and professional connections.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover 26 essential laws for building power relationships through great conversations, integrity, and trust, enhancing both personal and professional connections.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Andrew Sobel and Jerold Panas
 
 26 irrefutable laws for building extraordinary relationships

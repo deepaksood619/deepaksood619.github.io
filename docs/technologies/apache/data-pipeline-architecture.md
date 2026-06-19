@@ -1,14 +1,10 @@
 ---
 slug: /technologies/apache/data-pipeline-architecture
 title: Data Pipeline Architecture with Kafka
-description: Explore an effective data pipeline architecture integrating Kafka Connect
-  and MQTT Broker for seamless data integration and processing.
-created: '2023-03-05'
-last_update: '2024-02-23'
+description: Explore an effective data pipeline architecture integrating Kafka Connect and MQTT Broker for seamless data integration and processing.
+created: 2023-03-05
+last_update: 2024-02-23
 ---
-
-# Data Pipeline Architecture
-
 ![image](../../media/Technologies-Apache-Data-Pipeline-Architecture-image1.jpg)
 
 ![image](../../media/Technologies-Apache-Data-Pipeline-Architecture-image2.jpg)

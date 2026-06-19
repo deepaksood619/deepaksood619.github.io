@@ -1,13 +1,10 @@
 ---
 slug: /ai/move-37/4-model-free-learning
 title: 4. Model Free Learning
-description: Explore Model Free Learning, focusing on associative learning and uncertainty
-  representation through mathematical models to enhance understanding of learning
-  processes.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore Model Free Learning, focusing on associative learning and uncertainty representation through mathematical models to enhance understanding of learning processes.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
 ![image](../../media/4.-Model-Free-Learning-image1.jpg)
 
 ![image](../../media/4.-Model-Free-Learning-image2.jpg)

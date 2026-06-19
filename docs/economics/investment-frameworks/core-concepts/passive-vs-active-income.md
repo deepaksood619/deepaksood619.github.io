@@ -1,12 +1,10 @@
 ---
 slug: /economics/investment-frameworks/core-concepts/passive-vs-active-income
 title: Passive vs Active Income
-description: Discover the key differences between passive and active income to optimize
-  your financial strategy for long-term wealth and independence.
-created: '2026-06-09'
-last_update: '2026-06-11'
+description: Discover the key differences between passive and active income to optimize your financial strategy for long-term wealth and independence.
+created: 2026-06-09
+last_update: 2026-06-11
 ---
-
 **Category:** Investment Frameworks
 **Type:** Core Concept
 **Last Updated:** 2026-06-08

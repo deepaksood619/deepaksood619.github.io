@@ -1,12 +1,10 @@
 ---
 slug: /ai/llm/prompting/context-engineering
 title: Context Engineering
-description: Discover the importance of context engineering in AI, focusing on systematic
-  orchestration to enhance performance and optimize retrieval for successful applications.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover the importance of context engineering in AI, focusing on systematic orchestration to enhance performance and optimize retrieval for successful applications.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 Context engineering is rapidly becoming a crucial skill for AI engineers. It's no longer just about clever prompting; it's about the systematic orchestration of context.
 
 Here’s the current problem:

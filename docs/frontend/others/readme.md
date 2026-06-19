@@ -1,14 +1,10 @@
 ---
 slug: /frontend/others/readme
 title: Web Development Resources Overview
-description: Explore essential resources including JQuery, NextJS, Gatsby, Node.js,
-  and more for efficient web development and frameworks.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore essential resources including JQuery, NextJS, Gatsby, Node.js, and more for efficient web development and frameworks.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
-# Others
-
 - [JQuery](jquery)
 - [Frontend Frameworks](frontend-frameworks)
 - [Static Site Generators](static-site-generators)

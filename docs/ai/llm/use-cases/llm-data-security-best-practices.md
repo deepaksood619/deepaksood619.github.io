@@ -1,12 +1,10 @@
 ---
 slug: /ai/llm/use-cases/llm-data-security-best-practices
 title: LLM Data Security Best Practices for Organizationsc
-description: Discover essential LLM data security best practices for organizations
-  to safeguard sensitive information and prevent data leaks in AI adoption.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover essential LLM data security best practices for organizations to safeguard sensitive information and prevent data leaks in AI adoption.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 With growing AI adoption, employees increasingly upload sensitive data to public LLM platforms. This creates data leakage risks, especially in smaller companies lacking formal AI governance. Here are architecture-level best practices to protect sensitive data when integrating LLMs.
 
 ## Core Architecture Patterns

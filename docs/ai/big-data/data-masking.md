@@ -1,13 +1,10 @@
 ---
 slug: /ai/big-data/data-masking
 title: Data Masking
-description: Discover how data masking enhances data security by obscuring sensitive
-  information to comply with privacy regulations like GDPR while maintaining data
-  utility.
-created: '2024-11-18'
-last_update: '2024-11-18'
+description: Discover how data masking enhances data security by obscuring sensitive information to comply with privacy regulations like GDPR while maintaining data utility.
+created: 2024-11-18
+last_update: 2024-11-18
 ---
-
 ## What is data masking?
 
 Data masking is the process of hiding data by modifying its original letters and numbers. Due to regulatory and privacy requirements, organizations must protect the sensitive data they collect about their customers and operations. Data masking creates fake versions of an organization's data by changing confidential information. Various techniques are used to create realistic and structurally similar changes. Once data is masked, you can’t reverse engineer or track back to the original data values without access to the original dataset.

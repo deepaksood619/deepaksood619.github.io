@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/science/power-sex-suicide
 title: Power, Sex, Suicide
-description: Explore Nick Lane's "Power, Sex, Suicide," uncovering the vital role
-  of cellular respiration and mitochondria in life’s energy processes.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Explore Nick Lane's "Power, Sex, Suicide," uncovering the vital role of cellular respiration and mitochondria in life’s energy processes.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Nick Lane
 
 - Multicellular organisms are called eukaryotes, and each of their celss contains a nucleus. These are what humans and animals are made up of.

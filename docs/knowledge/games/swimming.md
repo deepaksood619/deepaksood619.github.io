@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/games/swimming
 title: Swimming
-description: Discover essential swimming techniques, from warm-up exercises to building
-  water comfort with breathing and floating skills for all levels.
-created: '2023-05-28'
-last_update: '2024-02-05'
+description: Discover essential swimming techniques, from warm-up exercises to building water comfort with breathing and floating skills for all levels.
+created: 2023-05-28
+last_update: 2024-02-05
 ---
-
 ### 0. Warm Up Exercises
 
 #### Out of water

@@ -1,14 +1,10 @@
 ---
 slug: /devops/kubernetes/concepts-and-overview/readme
 title: Kubernetes Objects Overview
-description: Explore the essential Kubernetes objects, their roles, and how they help
-  manage your cluster's desired state effectively.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Explore the essential Kubernetes objects, their roles, and how they help manage your cluster's desired state effectively.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
-# Concepts & Overview
-
 ## Kubernetes Objects
 
 We use **Kubernetes API objects**to describe our cluster'sdesired state: what applications or other workloads you want to run, what container images they use, the number of replicas, what network and disk resources you want to make available, and more.

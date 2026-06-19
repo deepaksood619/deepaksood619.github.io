@@ -1,14 +1,10 @@
 ---
 slug: /about-deepak-sood/projects/90-stashfin-tech-stack-infra
 title: Stashfin Tech Stack and Infrastructure
-description: Explore Stashfin's comprehensive tech stack and infrastructure, including
-  languages, frameworks, databases, and DevOps tools.
-created: '2023-03-05'
-last_update: '2024-12-18'
+description: Explore Stashfin's comprehensive tech stack and infrastructure, including languages, frameworks, databases, and DevOps tools.
+created: 2023-03-05
+last_update: 2024-12-18
 ---
-
-# Stashfin Tech Stack / Infra
-
 ## Stashfin Infra Diagram
 
 ![image](../../media/stashfin-infra.drawio.jpg)

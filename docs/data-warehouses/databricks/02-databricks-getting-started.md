@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/databricks/02-databricks-getting-started
 title: Getting Started with Databricks Widgets
-description: Learn the essentials of Databricks input widgets including text, dropdown,
-  combobox, and multiselect in just 5 minutes.
-created: '2023-03-07'
-last_update: '2025-06-10'
+description: Learn the essentials of Databricks input widgets including text, dropdown, combobox, and multiselect in just 5 minutes.
+created: 2023-03-07
+last_update: 2025-06-10
 ---
-
-# Databricks in 5 minutes
-
 ## Databricks Input Widget Parameters
 
 There are 4 types of widgets:

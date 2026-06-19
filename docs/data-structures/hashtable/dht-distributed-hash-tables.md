@@ -1,14 +1,10 @@
 ---
 slug: /data-structures/hashtable/dht-distributed-hash-tables
 title: Understanding Distributed Hash Tables
-description: Discover the principles of Distributed Hash Tables (DHTs) and how they
-  facilitate efficient key-value data retrieval in decentralized systems.
-created: '2023-03-05'
-last_update: '2025-12-16'
+description: Discover the principles of Distributed Hash Tables (DHTs) and how they facilitate efficient key-value data retrieval in decentralized systems.
+created: 2023-03-05
+last_update: 2025-12-16
 ---
-
-# DHT - Distributed Hash Tables
-
 A distributed hash table(DHT) is a class of a decentralized [distributed system](https://en.wikipedia.org/wiki/Distributed_computing) that provides a lookup service similar to a [hash table](https://en.wikipedia.org/wiki/Hash_table): (key, value) pairs are stored in a DHT, and any participating [node](https://en.wikipedia.org/wiki/Node_(networking)) can efficiently retrieve the value associated with a given key.Keysare unique identifiers which map to particularvalues, which in turn can be anything from addresses, to [documents](https://en.wikipedia.org/wiki/Electronic_document), to arbitrary [data](https://en.wikipedia.org/wiki/Data_(computing)). Responsibility for maintaining the mapping from keys to values is distributed among the nodes, in such a way that a change in the set of participants causes a minimal amount of disruption. This allows a DHT to [scale](https://en.wikipedia.org/wiki/Scale_(computing)) to extremely large numbers of nodes and to handle continual node arrivals, departures, and failures.
 
 DHTs form an infrastructure that can be used to build more complex services, such as [anycast](https://en.wikipedia.org/wiki/Anycast), cooperative [Web caching](https://en.wikipedia.org/wiki/Web_cache), [distributed file systems](https://en.wikipedia.org/wiki/Distributed_file_system), [domain name services](https://en.wikipedia.org/wiki/Domain_name_system), [instant messaging](https://en.wikipedia.org/wiki/Instant_messaging), [multicast](https://en.wikipedia.org/wiki/Multicast), and also [peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer)[file sharing](https://en.wikipedia.org/wiki/File_sharing) and [content distribution](https://en.wikipedia.org/wiki/Content_distribution) systems. Notable distributed networks that use DHTs include [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent_(protocol))'s distributed tracker, the [Coral Content Distribution Network](https://en.wikipedia.org/wiki/Coral_Content_Distribution_Network), the [Kad network](https://en.wikipedia.org/wiki/Kad_network), the [Storm botnet](https://en.wikipedia.org/wiki/Storm_botnet), the [Tox instant messenger](https://en.wikipedia.org/wiki/Tox_(protocol)), [Freenet](https://en.wikipedia.org/wiki/Freenet), the [YaCy](https://en.wikipedia.org/wiki/YaCy) search engine, and the [InterPlanetary File System](https://en.wikipedia.org/wiki/InterPlanetary_File_System).

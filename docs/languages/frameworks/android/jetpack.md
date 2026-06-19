@@ -1,12 +1,10 @@
 ---
 slug: /languages/frameworks/android/jetpack
 title: Jetpack
-description: Discover Jetpack, a robust suite of libraries and tools that simplify
-  Android app development with efficient architecture and seamless integration features.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Discover Jetpack, a robust suite of libraries and tools that simplify Android app development with efficient architecture and seamless integration features.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
 Jetpack is a set of libraries, tools and architectural guidance to help make it quick and easy to build great Android apps. It provides common infrastructure code so you can focus on what makes your app unique.
 
 1. **Foundation**

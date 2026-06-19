@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/other-topics/politics/types-of-governments
 title: Types of Governments
-description: Explore the different types of governments, including monarchy and democracy,
-  and understand power dynamics and citizen engagement in governance.
-created: '2023-03-05'
-last_update: '2026-05-02'
+description: Explore the different types of governments, including monarchy and democracy, and understand power dynamics and citizen engagement in governance.
+created: 2023-03-05
+last_update: 2026-05-02
 ---
-
 turtles move slow, the government moves slower
 
 Power is a prized possession of governments. They can let go of at least some of it and enjoy the lightness it creates in both the governed and the governing.

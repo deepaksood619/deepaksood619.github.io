@@ -1,14 +1,10 @@
 ---
 slug: /technologies/confluent/cluster-linking
 title: Cluster Linking for Data Replication
-description: Discover how Cluster Linking enables seamless data replication across
-  clusters with Confluent Cloud for enhanced availability and sharing.
-created: '2026-03-04'
-last_update: '2026-03-23'
+description: Discover how Cluster Linking enables seamless data replication across clusters with Confluent Cloud for enhanced availability and sharing.
+created: 2026-03-04
+last_update: 2026-03-23
 ---
-
-# Cluster Linking
-
 Cluster Linking allows you to directly connect clusters and perfectly mirror topics, consumer offsets, and ACLs from one cluster to another.
 
 Cluster Linking on Confluent Cloud is a fully-managed service for replicating data from one Confluent cluster to another. Programmatically, it creates perfect copies of your topics and keeps data in sync across clusters. Cluster Linking is a powerful geo-replication technology for:

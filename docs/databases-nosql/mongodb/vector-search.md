@@ -1,12 +1,10 @@
 ---
 slug: /databases-nosql/mongodb/vector-search
 title: Vector Search
-description: Discover how vector search enables semantic searching of data using machine
-  learning for enhanced accuracy and relevance in intelligent applications.
-created: '2023-12-18'
-last_update: '2026-03-27'
+description: Discover how vector search enables semantic searching of data using machine learning for enhanced accuracy and relevance in intelligent applications.
+created: 2023-12-18
+last_update: 2026-03-27
 ---
-
 Build intelligent applications powered by semantic search and generative AI over any type of data.
 
 ### Vector search

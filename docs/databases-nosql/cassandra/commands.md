@@ -1,12 +1,10 @@
 ---
 slug: /databases-nosql/cassandra/commands
 title: Commands
-description: Explore essential Docker commands for running and managing Cassandra
-  clusters, utilizing nodetool and cqlsh to ensure smooth database operations.
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Explore essential Docker commands for running and managing Cassandra clusters, utilizing nodetool and cqlsh to ensure smooth database operations.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
 ```bash
 docker run --name cas1 -p 9042:9042 -e CASSANDRA_CLUSTER_NAME=MyCluster -e CASSANDRA_ENDPOINT_SNITCH=GossipingPropertyFileSnitch -e CASSANDRA_DC=datacenter1 -d cassandra
 

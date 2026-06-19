@@ -1,13 +1,10 @@
 ---
 slug: /languages/php/codeigniter/intro
 title: CodeIgniter
-description: Discover CodeIgniter, a lightweight PHP framework that simplifies web
-  app development with its powerful MVC structure, security features, and extensive
-  libraries.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Discover CodeIgniter, a lightweight PHP framework that simplifies web app development with its powerful MVC structure, security features, and extensive libraries.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
 CodeIgniter is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications. CodeIgniter was created by EllisLab, and is now a project of the British Columbia Institute of Technology.
 
 ## Features

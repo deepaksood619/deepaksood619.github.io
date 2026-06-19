@@ -1,12 +1,10 @@
 ---
 slug: /languages/frameworks/stacks
 title: Stacks
-description: Explore the essential components of the Java stack, including Zookeeper,
-  Mesos, YARN, and more, to enhance your system coordination and resource management.
-created: '2023-03-05'
-last_update: '2026-03-27'
+description: Explore the essential components of the Java stack, including Zookeeper, Mesos, YARN, and more, to enhance your system coordination and resource management.
+created: 2023-03-05
+last_update: 2026-03-27
 ---
-
 ## Java stack
 
 - [Zookeeper](http://zookeeper.apache.org/) handles much of the system co-ordination (perhaps with a bit of help from higher-level abstractions like [Helix](http://helix.incubator.apache.org/) or [Curator](http://curator.incubator.apache.org/)).

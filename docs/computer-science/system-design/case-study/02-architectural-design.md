@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/system-design/case-study/02-architectural-design
 title: High-Level Architectural Design Overview
-description: Explore our architectural design featuring a Split-Enrich-Merge pattern
-  to streamline loan application processing.
-created: '2026-01-29'
-last_update: '2026-01-29'
+description: Explore our architectural design featuring a Split-Enrich-Merge pattern to streamline loan application processing.
+created: 2026-01-29
+last_update: 2026-01-29
 ---
-
-# Architectural Design
-
 ![Architectural Design](../../../media/Screenshot%202026-01-29%20at%2011.06.59%20PM.png)
 
 ## High-Level Architecture Diagram Description

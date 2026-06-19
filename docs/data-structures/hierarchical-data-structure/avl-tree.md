@@ -1,14 +1,10 @@
 ---
 slug: /data-structures/hierarchical-data-structure/avl-tree
 title: Understanding AVL Trees for Efficient Searching
-description: Learn about AVL Trees, a self-balancing Binary Search Tree that ensures
-  efficient O(Logn) operations for searching, insertion, and deletion.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Learn about AVL Trees, a self-balancing Binary Search Tree that ensures efficient O(Logn) operations for searching, insertion, and deletion.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# AVL Tree
-
 AVL tree (named after inventors **A**delson - **V**elsky and **L**andis) is a self-balancing Binary Search Tree (BST) where the difference between heights of left and right subtrees cannot be more than one for all nodes.
 
 ![image](../../media/AVL-Tree-image1.jpg)

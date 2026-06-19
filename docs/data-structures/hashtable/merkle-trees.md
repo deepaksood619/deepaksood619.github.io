@@ -1,14 +1,10 @@
 ---
 slug: /data-structures/hashtable/merkle-trees
 title: Understanding Merkle Trees
-description: Learn about Merkle trees, a data structure for efficient data verification
-  and integrity in distributed systems.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Learn about Merkle trees, a data structure for efficient data verification and integrity in distributed systems.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Merkle Trees
-
 A merkle tree, also known as a binary hash tree, is a data structure used for efficiently summarizing and verifying the integrity of large sets of data.
 
 A Merkle tree is a [hash-based data structure](https://brilliant.org/wiki/hash-based-data-structure/) that is a generalization of the [hash list](https://brilliant.org/wiki/hash-list/). It is a [tree](https://brilliant.org/wiki/trees-basic/) structure in which each leaf node is a hash of a block of data, and each non-leaf node is a hash of its children. Typically, Merkle trees have a branching factor of 2, meaning that each node has up to 2 children.

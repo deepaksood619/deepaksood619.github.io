@@ -1,14 +1,10 @@
 ---
 slug: /networking/networking-concepts/questions
 title: Key Networking Questions Explained
-description: Explore essential networking questions covering forwarding techniques,
-  queueing structures, ALOHA protocol, WiFi, modulation, and performance metrics.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore essential networking questions covering forwarding techniques, queueing structures, ALOHA protocol, WiFi, modulation, and performance metrics.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Questions
-
 1. Where would you use exact-match packet forwarding? Where would you use longest-prefix? Whyis 2-choice better than standard hashing?
 
 2. What are the different types of queueing structures in a router? What are the pros and cons of each? Explain the HoL blocking problem in input-queued routers.

@@ -1,14 +1,10 @@
 ---
 slug: /frontend/react/react-dom
 title: Understanding React DOM and Virtual DOM
-description: Learn how React DOM enhances web development by optimizing browser updates
-  through the use of a virtual DOM.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Learn how React DOM enhances web development by optimizing browser updates through the use of a virtual DOM.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# React DOM
-
 ## What is DOM?
 
 DOM, abbreviated as Document Object Model, is a World Wide Web Consortium standard logical representation of any webpage. In easier words, DOM is a tree-like structure that contains all the elements and it's properties of a website as its nodes. DOM provides a language-neutral interface that allows accessing and updating of the content of any element of a webpage.

@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/testing/mocking
 title: Understanding Mocking in Testing
-description: Explore the different ways dependencies affect testing with examples
-  of side-effects, return values, and exceptions.
-created: '2023-03-05'
-last_update: '2026-03-27'
+description: Explore the different ways dependencies affect testing with examples of side-effects, return values, and exceptions.
+created: 2023-03-05
+last_update: 2026-03-27
 ---
-
-# Mocking
-
 ## The Abstract Pattern of the Problem
 
 A dependency of the function we want to test can have an effect in three different ways: By side-effects, return values or exceptions.

@@ -1,12 +1,10 @@
 ---
 slug: /ai/ml-algorithms/classification
 title: Classification
-description: Learn about classification, a crucial machine learning technique for
-  accurately assigning classes to unseen records using training and test sets.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Learn about classification, a crucial machine learning technique for accurately assigning classes to unseen records using training and test sets.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
 https://neptune.ml/blog/evaluation-metrics-binary-classification
 
 ## Classification

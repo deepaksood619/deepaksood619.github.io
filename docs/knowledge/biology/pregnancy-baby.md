@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/biology/pregnancy-baby
 title: Pregnancy / Baby
-description: Explore essential pregnancy tips, baby movement tracking, and supportive
-  resources for expecting parents to navigate this beautiful journey.
-created: '2023-04-03'
-last_update: '2026-06-03'
+description: Explore essential pregnancy tips, baby movement tracking, and supportive resources for expecting parents to navigate this beautiful journey.
+created: 2023-04-03
+last_update: 2026-06-03
 ---
-
 ## Pregnancy
 
 https://www.youtube.com/watch?v=F_ssj7-8rYg

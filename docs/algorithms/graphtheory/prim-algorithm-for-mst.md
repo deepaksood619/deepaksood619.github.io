@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/graphtheory/prim-algorithm-for-mst
 title: Understanding Prim's Algorithm for MST
-description: Learn about Prim's Algorithm for minimum spanning trees, including properties,
-  lazy and eager implementations, and data structures used.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Learn about Prim's Algorithm for minimum spanning trees, including properties, lazy and eager implementations, and data structures used.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
-# Prim's Algorithm for MST
-
 ## Properties
 
 - For Undirected graph

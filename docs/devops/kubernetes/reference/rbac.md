@@ -1,14 +1,10 @@
 ---
 slug: /devops/kubernetes/reference/rbac
 title: Understanding RBAC in Kubernetes
-description: Explore Role-Based Access Control (RBAC) in Kubernetes with essential
-  commands and references for effective authorization management.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore Role-Based Access Control (RBAC) in Kubernetes with essential commands and references for effective authorization management.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# RBAC
-
 ![image](../../../media/DevOps-Kubernetes-RBAC-image1.jpg)
 
 ![image](../../../media/DevOps-Kubernetes-RBAC-image2.jpg)

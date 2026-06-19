@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/biology/gastro-problems
 title: Gastro Problems
-description: Discover the causes, symptoms, and implications of celiac disease, a
-  chronic autoimmune disorder affecting the digestive system due to gluten intolerance.
-created: '2025-06-22'
-last_update: '2026-05-04'
+description: Discover the causes, symptoms, and implications of celiac disease, a chronic autoimmune disorder affecting the digestive system due to gluten intolerance.
+created: 2025-06-22
+last_update: 2026-05-04
 ---
-
 ## Celiac Disease - https://www.medicalnewstoday.com/articles/38085.php
 
 Celiac disease is a chronic digestive disorder resulting from an immune reaction to gliadin, a gluten protein found in wheat, barley, rye, and sometimes oats.

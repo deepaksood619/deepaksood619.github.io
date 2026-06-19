@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/others/digital-circuits
 title: Understanding Digital Circuits and Karnaugh Maps
-description: Explore digital circuits and learn how Karnaugh maps simplify Boolean
-  algebra for efficient circuit design.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore digital circuits and learn how Karnaugh maps simplify Boolean algebra for efficient circuit design.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Digital Circuits
-
 ## Karnaugh Maps
 
 TheKarnaugh map(KMorK-map) is a method of simplifying [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra) expressions.[Maurice Karnaugh](https://en.wikipedia.org/wiki/Maurice_Karnaugh) introduced it in 1953as a refinement of [Edward Veitch](https://en.wikipedia.org/wiki/Edward_Veitch)'s 1952Veitch chart, which actually was a rediscovery of [Allan Marquand](https://en.wikipedia.org/wiki/Allan_Marquand)'s 1881logical diagramakaMarquand diagrambut with a focus now set on its utility for switching circuits. Veitch charts are therefore also known asMarquand--Veitch diagrams, and Karnaugh maps asKarnaugh--Veitch maps(KV maps).

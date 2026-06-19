@@ -1,12 +1,10 @@
 ---
 slug: /psychology/sleeping-positions
 title: Sleeping Positions
-description: Explore the impact of sleeping positions on musculoskeletal, neurological,
-  and respiratory health to improve your sleep quality and overall well-being.
-created: '2026-06-10'
-last_update: '2026-06-10'
+description: Explore the impact of sleeping positions on musculoskeletal, neurological, and respiratory health to improve your sleep quality and overall well-being.
+created: 2026-06-10
+last_update: 2026-06-10
 ---
-
 **Clinical Biomechanics, Neurological Integration, and Behavioral Modification of Sleep Posture**
 
 ## Introduction

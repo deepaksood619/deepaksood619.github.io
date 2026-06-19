@@ -1,12 +1,10 @@
 ---
 slug: /economics/taxation/income-tax
 title: Income Tax
-description: Explore income tax slabs, rates, and surcharges for individuals and HUFs
-  under 60 years, including additional cess for effective financial planning.
-created: '2025-02-27'
-last_update: '2026-05-18'
+description: Explore income tax slabs, rates, and surcharges for individuals and HUFs under 60 years, including additional cess for effective financial planning.
+created: 2025-02-27
+last_update: 2026-05-18
 ---
-
 | Income Tax Slabs        | Tax Rate for Individual & HUF Below the Age Of 60 Years |
 |------------------------|------------------------------------------------|
 | Up to ₹2,50,000*       | Nil                                                     |

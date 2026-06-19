@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/personal-development/game-changers
 title: Game Changers
-description: Discover how leaders and innovators use biohacking to optimize their
-  body and mind, aligning life goals for success and fulfillment.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover how leaders and innovators use biohacking to optimize their body and mind, aligning life goals for success and fulfillment.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Dave Asprey
 
 What Leaders, Innovators, and Mavericks do to win at life

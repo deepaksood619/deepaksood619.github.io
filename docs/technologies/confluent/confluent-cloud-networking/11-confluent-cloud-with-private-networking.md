@@ -1,14 +1,10 @@
 ---
 slug: /technologies/confluent/confluent-cloud-networking/11-confluent-cloud-with-private-networking
 title: Access Confluent Cloud with Private Networking
-description: Learn how to use the Confluent Cloud Console effectively with private
-  networking configurations for secure access.
-created: '2026-01-28'
-last_update: '2026-02-12'
+description: Learn how to use the Confluent Cloud Console effectively with private networking configurations for secure access.
+created: 2026-01-28
+last_update: 2026-02-12
 ---
-
-# Use the Confluent Cloud Console with Private Networking
-
 [Access Confluent Cloud with private networking \| Confluent Documentation](https://docs.confluent.io/cloud/current/networking/ccloud-console-access.html)
 
 [Configure a VPC Peered Cluster (Hands-On Tutorial)](https://developer.confluent.io/courses/confluent-cloud-networking/configure-vpc-peering/)

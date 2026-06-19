@@ -1,13 +1,10 @@
 ---
 slug: /economics/taxation/gst
 title: GST
-description: Learn about GST registration, tax obligations, and input tax credit claims
-  for businesses with revenue exceeding Rs. 40 lakhs for goods and Rs. 20 lakhs for
-  services.
-created: '2025-02-05'
-last_update: '2025-09-04'
+description: Learn about GST registration, tax obligations, and input tax credit claims for businesses with revenue exceeding Rs. 40 lakhs for goods and Rs. 20 lakhs for services.
+created: 2025-02-05
+last_update: 2025-09-04
 ---
-
 Businesses must register for GST and pay taxes on their taxable items and services if their annual revenue exceeds **Rs.** **40 lakhs for goods and Rs.** **20 lakhs for services**.
 
 [GST Registration | Online GST Registration Process](https://cleartax.in/s/gst-registration)

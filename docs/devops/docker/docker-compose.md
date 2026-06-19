@@ -1,14 +1,10 @@
 ---
 slug: /devops/docker/docker-compose
 title: Essential Docker-Compose Commands
-description: Learn how to install and use Docker-Compose to manage multi-container
-  applications efficiently.
-created: '2023-03-05'
-last_update: '2026-04-03'
+description: Learn how to install and use Docker-Compose to manage multi-container applications efficiently.
+created: 2023-03-05
+last_update: 2026-04-03
 ---
-
-# docker-compose
-
 ## Commands
 
 Define and run multi-container applications with Docker.

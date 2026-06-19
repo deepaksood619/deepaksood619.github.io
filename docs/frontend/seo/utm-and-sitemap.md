@@ -1,14 +1,10 @@
 ---
 slug: /frontend/seo/utm-and-sitemap
 title: Understanding UTM and SiteMap
-description: Learn about UTM parameters for tracking marketing campaigns and how site
-  maps enhance SEO and website navigation.
-created: '2024-12-03'
-last_update: '2024-12-18'
+description: Learn about UTM parameters for tracking marketing campaigns and how site maps enhance SEO and website navigation.
+created: 2024-12-03
+last_update: 2024-12-18
 ---
-
-# UTM and SiteMap
-
 ## Urchin Tracking Module(UTM)
 
 Urchin Tracking Module(UTM) parameters are five variants of [URL parameters](https://en.wikipedia.org/wiki/Query_string) used by marketers to track the effectiveness of online [marketing campaigns](https://en.wikipedia.org/wiki/Marketing_campaign) across traffic sources and publishing media. They were introduced by [Google Analytics](https://en.wikipedia.org/wiki/Google_Analytics)' predecessor [Urchin](https://en.wikipedia.org/wiki/Urchin_(software)) and, consequently, are supported [out-of-the-box](https://en.wikipedia.org/wiki/Out_of_the_box_(feature)) by Google Analytics. The UTM parameters in a URL identify the campaign that refers traffic to a specific website, and attributes the browser's [website session](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#HTTP_session) and the sessions after that until the campaign attribution window expires to it. The parameters can be parsed by analytics tools and used to populate reports.Example URL, UTM parameters highlighted, after the question mark `(?)`:

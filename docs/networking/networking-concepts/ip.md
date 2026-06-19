@@ -1,14 +1,10 @@
 ---
 slug: /networking/networking-concepts/ip
 title: Understanding IP Addresses
-description: Learn about IP addresses, their components, and the classification of
-  IPv4 addresses into different classes A through E.
-created: '2023-03-05'
-last_update: '2026-01-26'
+description: Learn about IP addresses, their components, and the classification of IPv4 addresses into different classes A through E.
+created: 2023-03-05
+last_update: 2026-01-26
 ---
-
-# IP
-
 IP addresses are typically made of two separate components. The first part of the address is used to identify the network that the address is a part of. The part that comes afterwards is used to specify a specific host within that network.
 
 Where the network specification ends and the host specification begins depends on how the network is configured. We will discuss this more thoroughly momentarily.

@@ -1,14 +1,10 @@
 ---
 slug: /technologies/kafka/use-cases
 title: Kafka Use Cases Explained
-description: Discover how Kafka serves as a powerful tool for messaging and website
-  activity tracking with high throughput and fault tolerance.
-created: '2025-12-15'
-last_update: '2025-12-15'
+description: Discover how Kafka serves as a powerful tool for messaging and website activity tracking with high throughput and fault tolerance.
+created: 2025-12-15
+last_update: 2025-12-15
 ---
-
-# Use Cases
-
 ## Messaging
 
 Kafka works well as a replacement for a more traditional message broker. Message brokers are used for a variety of reasons (to decouple processing from data producers, to buffer unprocessed messages, etc). In comparison to most messaging systems Kafka has better throughput, built-in partitioning, replication, and fault-tolerance which makes it a good solution for large scale message processing applications.

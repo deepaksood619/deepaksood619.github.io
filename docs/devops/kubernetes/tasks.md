@@ -1,14 +1,10 @@
 ---
 slug: /devops/kubernetes/tasks
 title: Kubernetes Tasks Overview
-description: Explore essential Kubernetes tasks including monitoring, auditing, and
-  autoscaling for efficient cluster management.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore essential Kubernetes tasks including monitoring, auditing, and autoscaling for efficient cluster management.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Tasks
-
 ## Monitoring, Logging and Debugging
 
 ## Auditing

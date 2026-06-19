@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/other-topics/education-phd
 title: Education / PhD
-description: Explore India's premier PhD programs and the IB Primary Years Programme,
-  fostering inquiry-based learning and holistic child development.
-created: '2023-03-05'
-last_update: '2025-04-17'
+description: Explore India's premier PhD programs and the IB Primary Years Programme, fostering inquiry-based learning and holistic child development.
+created: 2023-03-05
+last_update: 2025-04-17
 ---
-
 Education is not preparation for life; education is life itself.
 
 School is a test for memory and not intelligence

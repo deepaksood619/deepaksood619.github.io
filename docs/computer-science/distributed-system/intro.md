@@ -1,14 +1,10 @@
 ---
 slug: /computer-science/distributed-system/intro
 title: Introduction to Computer Systems
-description: Explore the differences between centralized, decentralized, and distributed
-  systems in computing.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the differences between centralized, decentralized, and distributed systems in computing.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Intro
-
 Andrew S. Tanenbaum
 
 A Collection of independent computers that appears to its users as one computer.

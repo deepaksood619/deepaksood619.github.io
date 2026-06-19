@@ -1,14 +1,10 @@
 ---
 slug: /devops/docker/networking
 title: Understanding Docker Networking Basics
-description: Explore the Container Networking Model and Docker's native network drivers
-  for enhanced application portability.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore the Container Networking Model and Docker's native network drivers for enhanced application portability.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Networking
-
 ## Container Networking Model CNM
 
 The Docker networking architecture is built on a set of interfaces called theContainer Networking Model(CNM). The philosophy of CNM is to provide application portability across diverse infrastructures. This model strikes a balance to achieve application portability and also takes advantage of special features and capabilities of the infrastructure.

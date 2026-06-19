@@ -1,14 +1,10 @@
 ---
 slug: /data-warehouses/bigquery/documentation
 title: BigQuery Documentation Guide
-description: Explore comprehensive BigQuery documentation, including sandbox setup,
-  storage, analytics, and quickstart guides for seamless data management.
-created: '2025-01-18'
-last_update: '2025-06-14'
+description: Explore comprehensive BigQuery documentation, including sandbox setup, storage, analytics, and quickstart guides for seamless data management.
+created: 2025-01-18
+last_update: 2025-06-14
 ---
-
-# Documentation
-
 [Enable the BigQuery sandbox  \|  Google Cloud](https://cloud.google.com/bigquery/docs/sandbox)
 
 - [Product overview](https://cloud.google.com/bigquery/docs/introduction)

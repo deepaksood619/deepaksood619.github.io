@@ -1,13 +1,10 @@
 ---
 slug: /decentralized-applications/coins-tokens-chains/bitcoin
 title: Bitcoin
-description: Discover Bitcoin, the pioneering cryptocurrency blending proof-of-work
-  and distributed ledger technology, created by the enigmatic Satoshi Nakamoto in
-  2008.
-created: '2023-03-05'
-last_update: '2026-04-13'
+description: Discover Bitcoin, the pioneering cryptocurrency blending proof-of-work and distributed ledger technology, created by the enigmatic Satoshi Nakamoto in 2008.
+created: 2023-03-05
+last_update: 2026-04-13
 ---
-
 - Bitcoin (2008): first combination of proof-of-work / distributed ledger / hashchain
 - Solves Byzantine agreemeent, permissionless, Sybil-proof, reasonable cryptographic assumptions
 - Elegant in its simplicity

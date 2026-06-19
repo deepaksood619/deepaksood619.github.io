@@ -1,14 +1,10 @@
 ---
 slug: /devops/terraform/intro
-title: 'Terraform: Automate Infrastructure Creation'
-description: Use Terraform to safely manage and automate infrastructure resource creation
-  with declarative configuration files.
-created: '2023-03-05'
-last_update: '2026-03-27'
+title: "Terraform: Automate Infrastructure Creation"
+description: Use Terraform to safely manage and automate infrastructure resource creation with declarative configuration files.
+created: 2023-03-05
+last_update: 2026-03-27
 ---
-
-# Intro
-
 Declarative Programming tool for automating infrastructure resource creation
 
 Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.

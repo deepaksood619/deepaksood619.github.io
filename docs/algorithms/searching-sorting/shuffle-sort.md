@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/searching-sorting/shuffle-sort
 title: Understanding Shuffle Sort Algorithm
-description: Learn about the Shuffle Sort method for generating random permutations
-  and its advantages over traditional sorting techniques.
-created: '2023-03-05'
-last_update: '2023-03-07'
+description: Learn about the Shuffle Sort method for generating random permutations and its advantages over traditional sorting techniques.
+created: 2023-03-05
+last_update: 2023-03-07
 ---
-
-# Shuffle Sort
-
 Goal: Rearrange array so that result is a uniformly random permutation
 
 - Generate a random real number for each array entry

@@ -1,12 +1,10 @@
 ---
 slug: /decentralized-applications/coins-tokens-chains/coin-token-intro
 title: Tokens
-description: Discover how tokens streamline blockchain development, enable asset tokenization,
-  and enhance user interaction with various platforms and services.
-created: '2023-03-05'
-last_update: '2024-03-18'
+description: Discover how tokens streamline blockchain development, enable asset tokenization, and enhance user interaction with various platforms and services.
+created: 2023-03-05
+last_update: 2024-03-18
 ---
-
 ## Tokens’ key benefits
 
 The main benefit of a token is that it does not require creating a brand-new blockchain. The startup can focus on developing its platform instead of the technical aspect of a public ledger. And users don't have to use new non-custodial wallets or learn new bevaiours.

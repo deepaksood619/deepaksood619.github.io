@@ -1,13 +1,10 @@
 ---
 slug: /courses/course-data-storage-and-processing-edx
 title: Course - Data Storage and Processing - edX
-description: Enhance your skills in data storage and processing with this edX course,
-  covering database management, data visualization, time series analysis, and Big
-  Data concepts.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Enhance your skills in data storage and processing with this edX course, covering database management, data visualization, time series analysis, and Big Data concepts.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
 Master the culture of data representation, interpretation and outcomes evaluation. Learn the fundamentals of relational and NoSQL database management systems.
 
 ## Objectives

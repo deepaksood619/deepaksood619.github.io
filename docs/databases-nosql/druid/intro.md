@@ -1,13 +1,10 @@
 ---
 slug: /databases-nosql/druid/intro
 title: Druid
-description: Apache Druid is a high-performance, real-time analytics database optimized
-  for fast queries and large event data, ideal for powering analytical applications
-  and APIs.
-created: '2023-03-05'
-last_update: '2025-06-10'
+description: Apache Druid is a high-performance, real-time analytics database optimized for fast queries and large event data, ideal for powering analytical applications and APIs.
+created: 2023-03-05
+last_update: 2025-06-10
 ---
-
 Apache Druid (incubating) is a real-time analytics database designed for fast slice-and-dice analytics ("[OLAP](http://en.wikipedia.org/wiki/Online_analytical_processing)" queries) on large data sets. Druid is most often used as a database for powering use cases where real-time ingest, fast query performance, and high uptime are important. As such, Druid is commonly used for powering GUIs of analytical applications, or as a backend for highly-concurrent APIs that need fast aggregations. Druid works best with event-oriented data.
 
 - High performance, column oriented, distributed data store

@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/productivity/ultralearning
 title: UltraLearning
-description: Discover Ultralearning by Scott H. Young, a strategic approach to skill-building
-  through focused learning, deep processing, and effective feedback.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover Ultralearning by Scott H. Young, a strategic approach to skill-building through focused learning, deep processing, and effective feedback.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Scott H. Young
 
 1. **Design your project well**

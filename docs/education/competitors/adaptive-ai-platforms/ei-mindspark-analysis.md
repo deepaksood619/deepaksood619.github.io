@@ -1,13 +1,10 @@
 ---
 slug: /education/competitors/adaptive-ai-platforms/ei-mindspark-analysis
 title: EI Mindspark Analysis Overview
-description: Explore EI Mindspark's transformative impact on education in India, serving
-  over 500,000 students through innovative adaptive learning.
-created: '2026-06-07'
-last_update: '2026-06-08'
+description: Explore EI Mindspark's transformative impact on education in India, serving over 500,000 students through innovative adaptive learning.
+created: 2026-06-07
+last_update: 2026-06-08
 ---
-
-
 ## Company Overview
 
 - **Parent company:** Educational Initiatives (EI)

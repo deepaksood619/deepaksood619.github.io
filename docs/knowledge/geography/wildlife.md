@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/geography/wildlife
 title: Wildlife
-description: Explore the IUCN Red List of Threatened Species, detailing conservation
-  statuses, extinct species, and critical classifications for global wildlife preservation.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore the IUCN Red List of Threatened Species, detailing conservation statuses, extinct species, and critical classifications for global wildlife preservation.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
 ## IUCN Red List of Threatened Species
 
 The [IUCN Red List of Threatened Species](https://en.wikipedia.org/wiki/IUCN_Red_List) is the best known worldwide conservation status listing and ranking system. Species are classified by the IUCN Red List into nine groups set through criteria such as rate of decline, population size, area of geographic distribution, and degree of population and distribution fragmentation.

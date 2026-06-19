@@ -1,12 +1,10 @@
 ---
 slug: /languages/php/others
 title: Others
-description: Discover Composer, the essential PHP package manager for seamless dependency
-  management, installation, and updates in your PHP projects.
-created: '2023-03-05'
-last_update: '2024-04-16'
+description: Discover Composer, the essential PHP package manager for seamless dependency management, installation, and updates in your PHP projects.
+created: 2023-03-05
+last_update: 2024-04-16
 ---
-
 ## PHP Package Manager
 
 ## composer

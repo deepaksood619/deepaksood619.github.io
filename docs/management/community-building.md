@@ -1,12 +1,10 @@
 ---
 slug: /management/community-building
 title: Community Building
-description: Discover how to build a thriving community that aligns with business
-  objectives and enhances user engagement for lasting success in your organization.
-created: '2023-03-05'
-last_update: '2025-09-02'
+description: Discover how to build a thriving community that aligns with business objectives and enhances user engagement for lasting success in your organization.
+created: 2023-03-05
+last_update: 2025-09-02
 ---
-
 Companies like Atlassian, Glossier, Datadog, Twitch, dbt, Salesforce, Peloton, and many others have succeeded in large part due to the passionate community they built around their early products. A thriving community creates a sticky and evangelical user base, becomes a great source of ideas, and can even become a clever way to scale customer support (e.g. Airbnb):
 
 ![image](../media/Community-Building-image1.jpg)

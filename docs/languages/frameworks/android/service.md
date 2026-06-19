@@ -1,12 +1,10 @@
 ---
 slug: /languages/frameworks/android/service
 title: Service
-description: Discover the power of Android services for executing long-running background
-  operations, enhancing user experiences without a UI, and enabling interprocess communication.
-created: '2024-01-11'
-last_update: '2024-01-11'
+description: Discover the power of Android services for executing long-running background operations, enhancing user experiences without a UI, and enabling interprocess communication.
+created: 2024-01-11
+last_update: 2024-01-11
 ---
-
 A [Service](https://developer.android.com/reference/android/app/Service) is an [application component](https://developer.android.com/guide/components/fundamentals#Components) that can perform long-running operations in the background. It does not provide a user interface. Once started, a service might continue running for some time, even after the user switches to another application. Additionally, a component can bind to a service to interact with it and even perform interprocess communication (IPC). For example, a service can handle network transactions, play music, perform file I/O, or interact with a content provider, all from the background.
 
 ## Types of services

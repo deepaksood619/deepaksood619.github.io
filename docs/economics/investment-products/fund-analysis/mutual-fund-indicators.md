@@ -1,12 +1,10 @@
 ---
 slug: /economics/investment-products/fund-analysis/mutual-fund-indicators
 title: Mutual Funds Indicators
-description: Discover key mutual fund indicators like Beta, NAV, and Total Expense
-  Ratio to effectively measure risk and optimize your investment strategy.
-created: '2023-03-05'
-last_update: '2026-06-09'
+description: Discover key mutual fund indicators like Beta, NAV, and Total Expense Ratio to effectively measure risk and optimize your investment strategy.
+created: 2023-03-05
+last_update: 2026-06-09
 ---
-
 [How to Measure Mutual Fund Risk | Alpha, Beta, SD, Sharpe, R-squared, Sortino | Learn with ETMONEY](https://www.youtube.com/watch?v=eU45evtcc90)
 
 - TER - Total Expense Ratio - [How do mutual funds earn money? - YouTube](https://www.youtube.com/watch?v=hzAFmR5ll8Y)

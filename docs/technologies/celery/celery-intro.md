@@ -1,14 +1,10 @@
 ---
 slug: /technologies/celery/celery-intro
 title: Introduction to Celery Task Queue
-description: Discover Celery, an asynchronous task queue for efficient real-time operations
-  and scheduling using message passing.
-created: '2023-03-05'
-last_update: '2026-04-28'
+description: Discover Celery, an asynchronous task queue for efficient real-time operations and scheduling using message passing.
+created: 2023-03-05
+last_update: 2026-04-28
 ---
-
-# Celery Intro
-
 Celery is an asynchronous task queue/job queue based on distributed message passing. It is focused on real-time operation, but supports scheduling as well.
 
 The execution units, called tasks, are executed concurrently on a single or more worker servers using multiprocessing, [Eventlet](http://eventlet.net/), or [gevent](http://gevent.org/). Tasks can execute asynchronously (in the background) or synchronously (wait until ready).

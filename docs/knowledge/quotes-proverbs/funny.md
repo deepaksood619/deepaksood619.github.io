@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/quotes-proverbs/funny
 title: Funny
-description: Explore a hilarious train journey from Mumbai to Delhi, where unexpected
-  twists and a clever response lead to a comedic encounter!
-created: '2023-03-05'
-last_update: '2023-08-21'
+description: Explore a hilarious train journey from Mumbai to Delhi, where unexpected twists and a clever response lead to a comedic encounter!
+created: 2023-03-05
+last_update: 2023-08-21
 ---
-
 Once I was travelling by train from Mumbai to Delhi!
 
 When the train started, I was traveling alone in the AC-I coupe.

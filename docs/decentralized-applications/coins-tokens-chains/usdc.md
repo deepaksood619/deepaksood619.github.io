@@ -1,12 +1,10 @@
 ---
 slug: /decentralized-applications/coins-tokens-chains/usdc
 title: USDC
-description: Discover USDC, a regulated ERC-20 stablecoin backed 1:1 by USD, ensuring
-  transparency and availability across multiple blockchain networks.
-created: '2023-03-05'
-last_update: '2024-03-18'
+description: Discover USDC, a regulated ERC-20 stablecoin backed 1:1 by USD, ensuring transparency and availability across multiple blockchain networks.
+created: 2023-03-05
+last_update: 2024-03-18
 ---
-
 ## What is USDC?
 
 USD Coin or USDC was initially designed as an Ethereum-exclusive ERC-20 stablecoin by Coinbase and Circle in 2018. Today, it’s available in other variations, including the BSC (BEP-20) variant, Solana, Algorand, Polygon, etc. It uses the Ethereum network for token transfers and storage, which is good news if you use other ERC-20 tokens.

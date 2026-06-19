@@ -1,14 +1,10 @@
 ---
 slug: /python/python-intro/keywords
 title: Python Keywords Reference List
-description: Explore a complete list of Python keywords, their usage, and examples
-  to enhance your coding skills.
-created: '2023-03-05'
-last_update: '2023-12-05'
+description: Explore a complete list of Python keywords, their usage, and examples to enhance your coding skills.
+created: 2023-03-05
+last_update: 2023-12-05
 ---
-
-# Keywords
-
 ## Keywords
 
 | and      | exec    | not    |

@@ -1,12 +1,10 @@
 ---
 slug: /economics/investment-frameworks/stock-selection/company-evaluation-4c
 title: Company's Management
-description: Discover how effective management influences a company's value and investment
-  potential, surpassing traditional metrics like PE ratio and earnings growth.
-created: '2023-03-05'
-last_update: '2026-06-09'
+description: Discover how effective management influences a company's value and investment potential, surpassing traditional metrics like PE ratio and earnings growth.
+created: 2023-03-05
+last_update: 2026-06-09
 ---
-
 [Evaluating Company's Management For Stock Buying | ET Money](https://youtu.be/kiYqad1gz5c)
 
 While most investors focus on a company's PE ratio, it's earnings growth, return on equity etc. .. very few pay enough attention to the quality of people running that business. Presence of a sound management team is what will differentiate a good business from a great one. In Fact no one knows this better than Warren Buffett who has often said and I quote:

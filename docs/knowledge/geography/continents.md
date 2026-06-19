@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/geography/continents
 title: Continents
-description: Explore the continents' diverse areas, populations, and major cities,
-  uncovering fascinating facts about our planet's geographical regions.
-created: '2023-03-05'
-last_update: '2025-02-14'
+description: Explore the continents' diverse areas, populations, and major cities, uncovering fascinating facts about our planet's geographical regions.
+created: 2023-03-05
+last_update: 2025-02-14
 ---
-
 | **Continent** | **Area (km²)** | **Area (mi²)** | **Percent total landmass** | **Population** | **Percent total pop.** | **Most populous city** |
 |---|---|---|---|---|---|---|
 | Africa | 30,370,000 | 11,730,000 | 20.4% | 1,287,920,000 | 16.9% | Lagos,Nigeria |

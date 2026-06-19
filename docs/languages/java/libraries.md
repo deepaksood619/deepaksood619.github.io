@@ -1,12 +1,10 @@
 ---
 slug: /languages/java/libraries
 title: Libraries
-description: Explore essential Java libraries like jvisualvm, Picocli, Relience4j,
-  and Vert.x for memory visualization, command line apps, and reactive programming.
-created: '2023-03-05'
-last_update: '2026-03-27'
+description: Explore essential Java libraries like jvisualvm, Picocli, Relience4j, and Vert.x for memory visualization, command line apps, and reactive programming.
+created: 2023-03-05
+last_update: 2026-03-27
 ---
-
 ## jvisualvm
 
 Visualize memory footprint of java app

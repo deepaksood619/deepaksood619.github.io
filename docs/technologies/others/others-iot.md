@@ -1,14 +1,10 @@
 ---
 slug: /technologies/others/others-iot
 title: IoT Platforms Overview
-description: Explore secure and scalable IoT platforms like Mainflux, ThingsBoard,
-  and Eclipse Hono for developing intelligent solutions.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Explore secure and scalable IoT platforms like Mainflux, ThingsBoard, and Eclipse Hono for developing intelligent solutions.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
-# Others - IoT
-
 ## MainFlux
 
 Mainflux is highly secure, scalable, open-source IoT platform written in Go and deployed in Docker.

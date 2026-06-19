@@ -1,12 +1,10 @@
 ---
 slug: /book-summaries/business/the-22-immutable-laws-of-branding
 title: The 22 Immutable Laws of Branding
-description: Discover the 22 immutable laws of branding by Al and Laura Ries, covering
-  expansion, publicity, and quality for effective brand success.
-created: '2026-06-18'
-last_update: '2026-06-18'
+description: Discover the 22 immutable laws of branding by Al and Laura Ries, covering expansion, publicity, and quality for effective brand success.
+created: 2026-06-18
+last_update: 2026-06-18
 ---
-
 By Al Ries and Laura Ries
 
 - Law of Expansion (Chevrolet diluted its brand)

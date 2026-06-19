@@ -1,12 +1,10 @@
 ---
 slug: /knowledge/quotes-proverbs/finance-investing
 title: Finance / Investing
-description: Discover essential investing strategies focusing on exit points, diversification,
-  and goal-based investing to maximize your financial success and minimize risk.
-created: '2023-07-12'
-last_update: '2026-03-02'
+description: Discover essential investing strategies focusing on exit points, diversification, and goal-based investing to maximize your financial success and minimize risk.
+created: 2023-07-12
+last_update: 2026-03-02
 ---
-
 In Investing - Exit matters far more than Entry
 
 Diversification using portfolio allocation and goal based investing are the only things that works in personal finance investing

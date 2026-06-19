@@ -1,14 +1,10 @@
 ---
 slug: /technologies/kafka/others
 title: Kafka Event Storage Formats
-description: Explore Kafka's serialization and deserialization of events, and learn
-  about popular formats like Avro, Protobuf, and JSON.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Explore Kafka's serialization and deserialization of events, and learn about popular formats like Avro, Protobuf, and JSON.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
-# Others
-
 ## Storage formats: Serialization and deserialization of events
 
 Events are serialized when they are written to a topic and deserialized when they are read. These operations turn binary data into the forms you and I understand, and vice versa. Importantly, these operations are done solely by the Kafka clients, i.e., producing and consuming applications such as ksqlDB, Kafka Streams, or a microservice using the Go client for Kafka, for example. As such, there is no single "storage format" in Kafka. Common serialization formats used by Kafka clients include Apache Avro™ (with the [Confluent Schema Registry](https://docs.confluent.io/current/schema-registry/index.html)), Protobuf, and JSON.

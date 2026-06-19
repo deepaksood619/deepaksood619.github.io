@@ -1,14 +1,10 @@
 ---
 slug: /algorithms/searching-sorting/merge-sort
 title: Understanding Merge Sort Algorithm
-description: Learn about the Merge Sort algorithm, its properties, complexities, and
-  the divide and conquer approach to sorting arrays efficiently.
-created: '2023-03-05'
-last_update: '2024-02-05'
+description: Learn about the Merge Sort algorithm, its properties, complexities, and the divide and conquer approach to sorting arrays efficiently.
+created: 2023-03-05
+last_update: 2024-02-05
 ---
-
-# Merge Sort
-
 Merge sort recursively halves the given array. Once the subarrays reach trivial length, merging begins. Merging takes the smallest element between two adjacent subarrays and repeats that step until all elements are taken, resulting in a sorted subarray. The process is repeated on pairs of adjacent subarrays until we arrive at the starting array, but sorted.
 
 ## Properties

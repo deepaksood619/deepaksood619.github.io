@@ -1,13 +1,10 @@
 ---
 slug: /databases-sql/postgres/intro
 title: Intro
-description: Explore PostgreSQL, an open-source relational database that combines
-  object-oriented design with powerful SQL features for efficient web application
-  development.
-created: '2023-03-05'
-last_update: '2026-06-11'
+description: Explore PostgreSQL, an open-source relational database that combines object-oriented design with powerful SQL features for efficient web application development.
+created: 2023-03-05
+last_update: 2026-06-11
 ---
-
 ## Introduction
 
 Is a relational database management system with an object-oriented approach, meaning that information can be represented as objects or classes in PostgreSQL schemas.

@@ -1,12 +1,10 @@
 ---
 slug: /economics/personal-finance/wealth-building/personal-finance-framework
 title: Personal Finance Framework - The 4 Pillars
-description: Discover the 4 pillars of personal finance to achieve stability; protect
-  your wealth, invest wisely, manage debt, and plan for retirement effectively.
-created: '2026-06-09'
-last_update: '2026-06-16'
+description: Discover the 4 pillars of personal finance to achieve stability; protect your wealth, invest wisely, manage debt, and plan for retirement effectively.
+created: 2026-06-09
+last_update: 2026-06-16
 ---
-
 ## Overview
 
 Personal finance rests on four pillars. Most people focus only on investments while neglecting the other three equally important pillars, leading to financial instability.

@@ -1,14 +1,10 @@
 ---
 slug: /about-deepak-sood/projects/60-data-engineering-case-studies
 title: IoT Data Engineering Case Studies
-description: Explore how Kafka and Druid address the challenges of data management
-  in the IoT industry.
-created: '2024-03-17'
-last_update: '2024-12-18'
+description: Explore how Kafka and Druid address the challenges of data management in the IoT industry.
+created: 2024-03-17
+last_update: 2024-12-18
 ---
-
-# Data Engineering Case Studies
-
 ## Internet of Things (IoT)
 
 ### Challenges

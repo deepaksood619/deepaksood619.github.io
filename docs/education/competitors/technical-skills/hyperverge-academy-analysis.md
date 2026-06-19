@@ -1,13 +1,10 @@
 ---
 slug: /education/competitors/technical-skills/hyperverge-academy-analysis
 title: HyperVerge Academy Insights
-description: Discover HyperVerge Academy, a free tech bootcamp empowering under-resourced
-  learners with industry mentorship and a 100% placement rate.
-created: '2026-06-08'
-last_update: '2026-06-08'
+description: Discover HyperVerge Academy, a free tech bootcamp empowering under-resourced learners with industry mentorship and a 100% placement rate.
+created: 2026-06-08
+last_update: 2026-06-08
 ---
-
-
 ## Overview
 
 **HyperVerge Academy (HVA)** is a **100% free tech bootcamp** with a mentorship-first approach that helps "high-potential learners from under-resourced backgrounds build real, long-term careers in tech." Unlike traditional bootcamps that charge tuition or use income share agreements (ISAs), HVA is entirely **CSR-funded** by its parent company HyperVerge, operating as a "contribution engine" alongside the company's profitable "economic engine."
