@@ -26,6 +26,28 @@ const config = {
 
   onBrokenLinks: 'throw',
 
+  // Performance optimizations - Docusaurus 3.10+ faster features
+  future: {
+    // Enable v4 future flags (required for some faster features)
+    v4: {
+      removeLegacyPostBuildHeadAttribute: true,
+    },
+    faster: {
+      // Rspack bundler with persistent caching (40-60% rebuild speedup)
+      rspackBundler: true,
+      rspackPersistentCache: true,
+
+      // MDX cross-compiler caching (30-50% MDX processing speedup)
+      mdxCrossCompilerCache: true,
+
+      // Parallel static site generation (25-40% generation speedup)
+      ssgWorkerThreads: true,
+
+      // Optimize Git operations (for showLastUpdateAuthor)
+      gitEagerVcs: true,
+    },
+  },
+
   // trailingSlash: undefined, # false, true, both doesn't work
   // false gives all page errors
   // true gives linked pages error from other pages since relative path is used
@@ -197,6 +219,20 @@ const config = {
       },
     }),
     plugins: [
+      // Custom webpack config for faster rebuilds (4-16x speedup)
+      // Trade-off: ~2-3% larger bundle size
+      function(context, options) {
+        return {
+          name: 'custom-webpack-config',
+          configureWebpack(config, isServer) {
+            return {
+              optimization: {
+                concatenateModules: false, // Disable module concatenation for faster builds
+              },
+            };
+          },
+        };
+      },
       [
         '@docusaurus/plugin-pwa',
         {
