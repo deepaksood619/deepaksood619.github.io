@@ -12,6 +12,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
       - uses: actions/setup-node@v4
         with:
           node-version: 21
@@ -19,6 +20,20 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
+
+      - name: Cache Docusaurus build
+        uses: actions/cache@v4
+        with:
+          path: |
+            .docusaurus
+            node_modules/.cache
+          # Cache keyed by OS, package-lock hash, and current commit SHA
+          key: ${{ runner.os }}-docusaurus-${{ hashFiles('**/package-lock.json') }}-${{ github.sha }}
+          # Fallback to the most recent cache for this OS/dependencies if exact SHA doesn't match
+          restore-keys: |
+            ${{ runner.os }}-docusaurus-${{ hashFiles('**/package-lock.json') }}-
+            ${{ runner.os }}-docusaurus-
+
       - name: Build website
         run: npm run build
         env:

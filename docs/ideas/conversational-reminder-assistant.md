@@ -292,7 +292,7 @@ Input Layer → Understanding Layer → Storage Layer → Reminder Layer
 
 - COGS per user: ~$0.50-1.50/month (LLM API + WhatsApp API + infra)
 - Target: $9/month Pro → ~85% gross margin
-- CAC target: <$20 (WhatsApp virality + word of mouth)
+- CAC target: `<$20` (WhatsApp virality + word of mouth)
 - LTV target: $9 × 18 months = $162
 
 ---
