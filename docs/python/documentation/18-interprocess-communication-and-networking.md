@@ -1,3 +1,12 @@
+---
+slug: /python/documentation/18-interprocess-communication-and-networking
+title: Interprocess Communication and Networking Basics
+description: Explore essential concepts and libraries for interprocess communication
+  and networking in Python, including sockets, asyncio, and SSL.
+created: '2023-03-05'
+last_update: '2026-03-27'
+---
+
 # 18. Interprocess Communication and Networking
 
 - [18.1.socket - Low-level networking interface](https://docs.python.org/3/library/socket.html)

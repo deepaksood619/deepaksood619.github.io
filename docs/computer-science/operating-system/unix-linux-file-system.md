@@ -1,3 +1,12 @@
+---
+slug: /computer-science/operating-system/unix-linux-file-system
+title: Understanding Unix/Linux File System
+description: Explore the structure and purpose of key directories in the Unix/Linux
+  file system, including /bin and /boot.
+created: '2023-03-05'
+last_update: '2025-12-16'
+---
+
 # Unix / Linux File System
 
 Command - man hier (layout of filesystems)

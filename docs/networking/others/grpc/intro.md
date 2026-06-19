@@ -1,3 +1,12 @@
+---
+slug: /networking/others/grpc/intro
+title: Understanding gRPC Framework
+description: Explore gRPC, an open-source RPC system that utilizes HTTP/2 and Protocol
+  Buffers for high-performance communication.
+created: '2023-03-05'
+last_update: '2026-03-27'
+---
+
 # gRPC
 
 - RPC - Remote Procedure Call framework that uses HTTP 2.0 and Protocol Buffers

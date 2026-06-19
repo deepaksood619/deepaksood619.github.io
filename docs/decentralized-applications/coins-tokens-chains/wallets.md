@@ -1,4 +1,11 @@
-# Wallets
+---
+slug: /decentralized-applications/coins-tokens-chains/wallets
+title: Wallets
+description: Discover various types of crypto wallets, including hot and cold options,
+  to securely manage your cryptocurrencies and ensure your assets are safe.
+created: '2023-05-24'
+last_update: '2026-03-27'
+---
 
 not your keys, not your crypto
 

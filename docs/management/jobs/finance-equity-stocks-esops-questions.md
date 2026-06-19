@@ -1,3 +1,12 @@
+---
+slug: /management/jobs/finance-equity-stocks-esops-questions
+title: Understanding ESOPS and Stock Options
+description: Explore essential questions about ESOPS, restricted stock, stock options,
+  and phantom stock to maximize employee benefits.
+created: '2023-08-29'
+last_update: '2026-03-23'
+---
+
 # Finance / Equity / Stocks / ESOPS Questions
 
 ## ESOPS, Restricted Stock, Stock Options, and Phantom Stock

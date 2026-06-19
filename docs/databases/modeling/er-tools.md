@@ -1,3 +1,12 @@
+---
+slug: /databases/modeling/er-tools
+title: Essential ER Tools for Database Design
+description: Explore top ER tools and Oracle EBS documentation for efficient database
+  design and management. Enhance your data modeling skills today.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # ER - Tools
 
 https://drawsql.app (Great)

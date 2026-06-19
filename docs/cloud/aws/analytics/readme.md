@@ -1,4 +1,11 @@
-# Analytics
+---
+slug: /cloud/aws/analytics/readme
+title: Analytics
+description: Discover powerful analytics solutions with Amazon's tools, including
+  Athena, Kinesis, EMR, and more, to efficiently process and query your data.
+created: '2023-03-05'
+last_update: '2026-01-19'
+---
 
 - [Amazon Athena](cloud/aws/analytics/amazon-athena.md) - Query Data in S3 using SQL
 - [Amazon Kinesis](cloud/aws/analytics/amazon-kinesis.md)

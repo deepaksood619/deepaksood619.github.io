@@ -1,4 +1,11 @@
-# AWS Competency Program
+---
+slug: /cloud/aws/others/aws-competency-program
+title: AWS Competency Program
+description: Explore the AWS Competency Program, showcasing top partners across various
+  industries like Healthcare, Financial Services, Education, and more.
+created: '2024-08-02'
+last_update: '2025-11-05'
+---
 
 ## Industry
 

@@ -1,4 +1,11 @@
-# Storage classes
+---
+slug: /languages/c++/storage-classes
+title: Storage classes
+description: Explore C++ storage classes, including Auto, Register, and Static, to
+  understand variable scope, lifetime, and optimization in your programming projects.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
 
 https://www.tutorialspoint.com/cplusplus/cpp_storage_classes.htm
 

@@ -1,3 +1,12 @@
+---
+slug: /about-deepak-sood/projects/98-others
+title: Automated Faculty Self-Appraisal System
+description: Enhance faculty evaluation with a user-friendly web platform for streamlined
+  career advancement in higher education.
+created: '2024-09-05'
+last_update: '2025-02-02'
+---
+
 # Others
 
 ## 2024-09-03 - Manav Rachna - Sabyasachi

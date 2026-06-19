@@ -1,3 +1,12 @@
+---
+slug: /education/pedagogy/adaptive-learning-algorithms
+title: Understanding Adaptive Learning Algorithms
+description: Explore the principles of true adaptive learning algorithms, focusing
+  on IRT and BKT for effective student knowledge modeling.
+created: '2026-05-05'
+last_update: '2026-06-17'
+---
+
 # Adaptive Learning Algorithms: IRT & BKT
 
 **Core Insight:** True adaptive learning requires probabilistic modeling of student knowledge states and item difficulty. Simple rule-based systems ("get 3 wrong → go to easier content") are NOT adaptive learning.

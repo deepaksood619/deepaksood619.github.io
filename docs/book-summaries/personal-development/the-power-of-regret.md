@@ -1,4 +1,11 @@
-# The Power of Regret
+---
+slug: /book-summaries/personal-development/the-power-of-regret
+title: The Power of Regret
+description: Discover how anticipating regret shapes choices, from foundation regrets
+  about missed efforts to boldness regrets about unseized opportunities in life.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 [THE POWER OF REGRET by Daniel Pink | Core Message](https://youtu.be/CPsxbUod2UU)
 

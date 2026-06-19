@@ -1,3 +1,12 @@
+---
+slug: /data-structures/hierarchical-data-structure/segment-tree
+title: Understanding Segment Trees in Computer Science
+description: Explore how segment trees efficiently manage and query interval data
+  structures in computer science applications.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Segment Tree
 
 In [computer science](https://en.wikipedia.org/wiki/Computer_science), asegment tree, also known as a statistic tree, is a [tree](https://en.wikipedia.org/wiki/Tree_(data_structure))[data structure](https://en.wikipedia.org/wiki/Data_structure) used for storing information about [intervals](https://en.wikipedia.org/wiki/Interval_(mathematics)), or segments. It allows querying which of the stored segments contain a given point. It is, in principle, a static structure; that is, it's a structure that cannot be modified once it's built. A similar data structure is the [interval tree](https://en.wikipedia.org/wiki/Interval_tree).

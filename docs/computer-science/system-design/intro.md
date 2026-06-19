@@ -1,3 +1,12 @@
+---
+slug: /computer-science/system-design/intro
+title: Understanding Systems Design
+description: Explore the fundamentals of systems design, including architecture, modules,
+  and data to meet your project requirements.
+created: '2023-03-05'
+last_update: '2026-05-21'
+---
+
 # Intro
 
 **M**O**SC**O**W** : Must have, Should have, Could have, Would have

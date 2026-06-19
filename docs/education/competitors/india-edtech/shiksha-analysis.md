@@ -1,10 +1,12 @@
 ---
-title: Shiksha.com Competitive Analysis
-date: 2026-05-05
-type: competitor-analysis
-domain: edtech-india
-tags: [shiksha, career-counseling, college-information, india-edtech, info-edge, education-marketplace]
+slug: /education/competitors/india-edtech/shiksha-analysis
+title: Shiksha Analysis Overview
+description: Explore Shiksha's company details, ownership, scale, and educational
+  offerings in India and internationally.
+created: '2026-05-09'
+last_update: '2026-06-08'
 ---
+
 ## Company Overview
 
 **Founded:** 2008

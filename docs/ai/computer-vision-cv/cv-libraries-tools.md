@@ -1,4 +1,11 @@
-# CV - Libraries / Tools
+---
+slug: /ai/computer-vision-cv/cv-libraries-tools
+title: CV - Libraries / Tools
+description: Explore essential computer vision libraries and tools like SSD for object
+  detection and OpenCV for efficient real-time image processing.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
 
 ## SSD - Single Shot MultiBox Detector
 

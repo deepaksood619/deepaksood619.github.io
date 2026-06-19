@@ -1,3 +1,12 @@
+---
+slug: /networking/mqtt/mqtt-vs-http
+title: 'MQTT vs HTTP: Key Differences'
+description: Explore the advantages of MQTT over HTTP, including faster throughput,
+  reliability, and delivery guarantees for resource-constrained devices.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
+
 # MQTT vs HTTP
 
 - MQTT transfers data as a byte array and publish/subscribe model, which makes it perfect for resource-constrained devices and help to save battery.

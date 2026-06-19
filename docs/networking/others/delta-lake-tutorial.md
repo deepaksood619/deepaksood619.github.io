@@ -1,3 +1,12 @@
+---
+slug: /networking/others/delta-lake-tutorial
+title: Delta Lake Tutorial Guide
+description: Learn how to create and manage Delta Lake tables on Databricks with this
+  comprehensive tutorial.
+created: '2023-03-10'
+last_update: '2023-07-04'
+---
+
 # Delta Lake Tutorial
 
 ## [Tutorial: Delta Lake | Databricks on AWS](https://docs.databricks.com/delta/tutorial.html)

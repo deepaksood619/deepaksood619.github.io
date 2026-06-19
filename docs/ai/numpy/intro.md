@@ -1,4 +1,12 @@
-# Intro
+---
+slug: /ai/numpy/intro
+title: Intro
+description: Discover NumPy, a powerful library for numerical computations in Python,
+  offering multidimensional arrays and efficient mathematical operations for data
+  analysis.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
 
 https://www.tutorialspoint.com/numpy/index.htm
 

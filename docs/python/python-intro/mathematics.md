@@ -1,3 +1,12 @@
+---
+slug: /python/python-intro/mathematics
+title: Understanding nCr and Permutations in Python
+description: Learn how to calculate nCr and generate permutations in Python with simple
+  examples and optimized coding strategies.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # Mathematics
 
 ## Finding nCr for given numbers

@@ -1,3 +1,12 @@
+---
+slug: /networking/others/grpc/comparison
+title: gRPC vs REST Performance Comparison
+description: Explore the performance differences between gRPC and REST APIs in data
+  transmission speeds and implementation time.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Comparison
 
 ## Performance benchmarks

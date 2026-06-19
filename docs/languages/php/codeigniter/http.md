@@ -1,4 +1,11 @@
-# HTTP
+---
+slug: /languages/php/codeigniter/http
+title: HTTP
+description: Learn how to efficiently handle HTTP requests and responses in CodeIgniter
+  using the IncomingRequest class for streamlined data retrieval and management.
+created: '2023-03-05'
+last_update: '2026-03-27'
+---
 
 ## Working with Requests and Responses
 

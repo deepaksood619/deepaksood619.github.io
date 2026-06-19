@@ -1,4 +1,11 @@
-# Cloudflare
+---
+slug: /cloud/others/cloudflare
+title: Cloudflare
+description: Discover how Cloudflare Workers and Service Workers enable powerful HTTP
+  traffic handling and dynamic code execution at the edge for limitless possibilities.
+created: '2024-09-01'
+last_update: '2024-09-01'
+---
 
 A "Cloudflare Worker" is JavaScript you write that runs on Cloudflare's edge. A "Cloudflare Service Worker" is specifically a worker which handles HTTP traffic and is written against the Service Worker API.
 

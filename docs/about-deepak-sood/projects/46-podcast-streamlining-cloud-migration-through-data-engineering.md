@@ -1,3 +1,12 @@
+---
+slug: /about-deepak-sood/projects/46-podcast-streamlining-cloud-migration-through-data-engineering
+title: Mastering Cloud Migration with Data Engineering
+description: Join our podcast to discover effective data engineering strategies for
+  seamless cloud migration and optimal performance.
+created: '2024-10-07'
+last_update: '2024-12-18'
+---
+
 # Podcast - Streamlining Cloud Migration Through Data Engineering
 
 In the fast-evolving world of cloud computing, a successful migration isn't just about moving infrastructure—it's about handling data with precision. Data engineering plays a pivotal role in ensuring a seamless, efficient, and secure cloud migration.

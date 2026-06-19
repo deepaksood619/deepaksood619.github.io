@@ -1,4 +1,11 @@
-# Book Summaries
+---
+slug: /book-summaries/readme
+title: Book Summaries
+description: Discover concise book summaries on business, finance, personal development,
+  psychology, and more to enhance your knowledge and inspire growth.
+created: '2023-03-05'
+last_update: '2026-06-18'
+---
 
 A curated collection of book summaries organized by topic.
 

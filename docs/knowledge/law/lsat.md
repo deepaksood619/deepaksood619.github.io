@@ -1,4 +1,11 @@
-# LSAT
+---
+slug: /knowledge/law/lsat
+title: LSAT
+description: Master the LSAT, the essential exam for law school admissions, measuring
+  critical reading, reasoning, and analysis skills for success in legal education.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
 
 LSAT (Law School Admission Test) (Score - 120 to 180, above 160 is good)
 

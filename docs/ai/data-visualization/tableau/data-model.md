@@ -1,4 +1,11 @@
-# Data Model
+---
+slug: /ai/data-visualization/tableau/data-model
+title: Data Model
+description: Learn how to create effective data models in Tableau by understanding
+  the logical layer, relationships, and structuring multiple data sources efficiently.
+created: '2023-07-13'
+last_update: '2024-12-19'
+---
 
 Every data source that you create in Tableau has a data model. You can think of a data model as a diagram that tells Tableau how it should query data in the connected database tables.
 

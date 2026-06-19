@@ -1,3 +1,12 @@
+---
+slug: /technologies/kafka/kafkacat-kcat
+title: Kafkacat / Kcat Overview
+description: Explore Kafkacat, a versatile producer and consumer for Apache Kafka
+  that simplifies message handling and cluster management.
+created: '2023-03-05'
+last_update: '2026-01-28'
+---
+
 # kafkacat / kcat
 
 https://github.com/edenhill/kcat

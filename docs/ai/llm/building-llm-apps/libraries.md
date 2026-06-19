@@ -1,4 +1,11 @@
-# Libraries
+---
+slug: /ai/llm/building-llm-apps/libraries
+title: Libraries
+description: Discover the top Python libraries of 2023 for LLM training, application
+  development, data extraction, and more to enhance your AI projects effectively.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 [Top Python libraries of 2023 | Tryolabs](https://tryolabs.com/blog/top-python-libraries-2023)
 

@@ -1,4 +1,11 @@
-# Honey
+---
+slug: /knowledge/biology/nutrition/honey
+title: Honey
+description: Discover the benefits of honey, nature's original antibiotic, potent
+  for health, sleep aid, and a timeless food with remarkable properties.
+created: '2023-10-22'
+last_update: '2025-12-20'
+---
 
 1. Honey is the only food that has every single substance to sustain life.
 2. Honey doesn't ever turn bad. You can actually eat honey that was found in Egyptian tombs thousands of years ago. (if you dare) ‼️

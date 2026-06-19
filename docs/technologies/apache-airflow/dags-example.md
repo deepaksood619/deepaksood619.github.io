@@ -1,3 +1,12 @@
+---
+slug: /technologies/apache-airflow/dags-example
+title: DAGs Example in Apache Airflow
+description: Explore a practical example of using DAGs in Apache Airflow, including
+  execution timeouts and scheduling intervals.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # Dags Example
 
 https://airflow.apache.org/docs/apache-airflow/1.10.12/_api/airflow/contrib/operators/kubernetes_pod_operator/index.html

@@ -1,4 +1,11 @@
-# Aurora Documentation
+---
+slug: /databases-sql/aws-aurora/aurora-documentation
+title: Aurora Documentation
+description: Explore how to efficiently save data from Aurora MySQL to Amazon S3 using
+  the SELECT INTO OUTFILE statement in our comprehensive documentation.
+created: '2023-03-05'
+last_update: '2025-06-10'
+---
 
 https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html
 

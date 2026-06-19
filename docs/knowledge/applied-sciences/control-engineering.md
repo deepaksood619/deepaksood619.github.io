@@ -1,4 +1,11 @@
-# Control Engineering
+---
+slug: /knowledge/applied-sciences/control-engineering
+title: Control Engineering
+description: Explore control engineering, a discipline that leverages automatic control
+  theory to design systems, utilizing sensors and feedback for optimal performance.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
 
 Control engineeringorcontrol systems engineeringis an [engineering](https://en.wikipedia.org/wiki/Engineering) discipline that applies [automatic control](https://en.wikipedia.org/wiki/Automatic_control) theory to design systems with desired behaviors in [control](https://en.wikipedia.org/wiki/Control_theory) environments.The discipline of controls overlaps and is usually taught along with [electrical engineering](https://en.wikipedia.org/wiki/Electrical_engineering) at many institutions around the world
 

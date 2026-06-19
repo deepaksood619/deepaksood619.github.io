@@ -1,3 +1,12 @@
+---
+slug: /computer-science/interview-question/system-design-parking-lot
+title: 'System Design: Parking Lot Management'
+description: Explore the system design of a parking lot, including key considerations,
+  algorithms, and object-oriented design approaches.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # System Design - Parking Lot
 
 [System Design Interview Question: DESIGN A PARKING LOT - asked at Google, Facebook](https://www.youtube.com/watch?v=DSGsa0pu8-k)

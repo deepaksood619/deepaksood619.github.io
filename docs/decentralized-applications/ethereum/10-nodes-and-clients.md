@@ -1,4 +1,11 @@
-# Nodes and Clients
+---
+slug: /decentralized-applications/ethereum/10-nodes-and-clients
+title: Nodes and Clients
+description: Explore the roles of nodes and clients in Ethereum's network, including
+  execution and consensus layers, ensuring seamless transaction and data verification.
+created: '2023-03-05'
+last_update: '2023-06-22'
+---
 
 A "node" is any instance of Ethereum client software that is connected to other computers also running Ethereum software, forming a network. A client is an implementation of Ethereum that verifies data against the protocol rules and keeps the network secure.
 

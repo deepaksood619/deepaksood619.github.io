@@ -1,4 +1,11 @@
-# Sector Analysis
+---
+slug: /economics/sector-analysis/readme
+title: Sector Analysis
+description: Explore our comprehensive sector analysis to enhance your investment
+  strategies with insights on industry sectors, exchange rates, and business franchises.
+created: '2025-04-12'
+last_update: '2026-05-23'
+---
 
 - [Overview](economics/sector-analysis/overview.md)
 - [industry-sectors](economics/sector-analysis/industry-sectors.md)

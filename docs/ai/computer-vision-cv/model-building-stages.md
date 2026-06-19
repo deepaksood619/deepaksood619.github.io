@@ -1,4 +1,11 @@
-# Model Building Stages
+---
+slug: /ai/computer-vision-cv/model-building-stages
+title: Model Building Stages
+description: Learn the essential stages of model building for detecting aflatoxin
+  in corn images, from problem definition to data collection and labeling.
+created: '2024-09-17'
+last_update: '2024-09-17'
+---
 
 ## 1. Define the Problem
 

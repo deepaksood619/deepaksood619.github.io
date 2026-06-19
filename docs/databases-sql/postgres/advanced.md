@@ -1,4 +1,12 @@
-# Advanced
+---
+slug: /databases-sql/postgres/advanced
+title: Advanced
+description: Explore advanced PostgreSQL concepts including transaction wraparound,
+  ID freezing, and freezing logic integration for enhanced database performance and
+  maintenance.
+created: '2025-05-25'
+last_update: '2025-10-08'
+---
 
 1. Transaction Wraparound Problem
 2. Transaction ID Freezing

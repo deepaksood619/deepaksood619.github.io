@@ -1,4 +1,11 @@
-# Join Algorithms
+---
+slug: /languages/sql/join-algorithms
+title: Join Algorithms
+description: Discover join algorithms like nested loop and sort-merge joins, essential
+  strategies for efficiently combining data sets in relational databases.
+created: '2023-07-21'
+last_update: '2025-02-14'
+---
 
 ### [nested loop join](https://en.wikipedia.org/wiki/Nested_loop_join)
 

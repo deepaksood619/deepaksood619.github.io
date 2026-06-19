@@ -1,3 +1,12 @@
+---
+slug: /algorithms/searching-sorting/3-way-quick-sort
+title: 3-Way Quick Sort Explained
+description: Learn how 3-way quick sort efficiently handles duplicates and optimizes
+  sorting through a three-partition approach.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # 3-Way Quick Sort
 
 Properties -

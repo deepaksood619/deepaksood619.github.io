@@ -1,4 +1,11 @@
-# Weaviate
+---
+slug: /databases-nosql/vector-databases/weaviate
+title: Weaviate
+description: Discover Weaviate, the open-source vector search engine that uses semantic
+  embeddings for powerful data indexing, searching, and knowledge graph capabilities.
+created: '2025-06-23'
+last_update: '2025-06-24'
+---
 
 Open-source, cloud-native vector search engine and database designed to store, index, and search data based on semantic meaning via vector embeddings.
 

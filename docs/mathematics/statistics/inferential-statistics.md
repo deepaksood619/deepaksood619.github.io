@@ -1,4 +1,11 @@
-# Inferential Statistics
+---
+slug: /mathematics/statistics/inferential-statistics
+title: Inferential Statistics
+description: Explore inferential statistics, covering essential concepts like normal
+  distribution, central limit theorem, and how to draw conclusions from sample data.
+created: '2023-03-05'
+last_update: '2023-11-20'
+---
 
 Introduction
 

@@ -1,4 +1,11 @@
-# Microsoft BizTalk
+---
+slug: /cloud/azure/microsoft-biztalk
+title: Microsoft BizTalk
+description: Discover Microsoft BizTalk, the integration platform for automating business
+  processes, data exchange, and enabling communication between diverse software systems.
+created: '2024-06-23'
+last_update: '2025-11-09'
+---
 
 ![Microsoft BizTalk](../../media/Pasted%20image%2020240622232938.jpg)
 

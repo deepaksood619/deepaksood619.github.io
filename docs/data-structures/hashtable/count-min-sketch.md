@@ -1,3 +1,12 @@
+---
+slug: /data-structures/hashtable/count-min-sketch
+title: 'Count-Min Sketch: Efficient Event Counting'
+description: Discover the Count-Min Sketch algorithm for space-efficient frequency
+  counting of events in data streams with probabilistic accuracy.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Count-min Sketch
 
 Space efficient probabilistic based data structure.

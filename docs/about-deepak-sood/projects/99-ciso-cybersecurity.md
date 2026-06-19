@@ -1,3 +1,12 @@
+---
+slug: /about-deepak-sood/projects/99-ciso-cybersecurity
+title: CISO Cybersecurity Solutions
+description: Explore advanced CISO cybersecurity initiatives using Java, Python, and
+  media streaming technologies for innovative product development.
+created: '2023-11-25'
+last_update: '2024-12-18'
+---
+
 # CISO Cybersecurity
 
 - Implemented face detection using Viola-Jones Algorithm, corner detection using fixed points, Live Video Streaming using ffmpeg with scripting in python and product development using Java, Spring and Java-FX

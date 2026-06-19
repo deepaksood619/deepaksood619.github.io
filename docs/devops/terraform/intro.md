@@ -1,3 +1,12 @@
+---
+slug: /devops/terraform/intro
+title: 'Terraform: Automate Infrastructure Creation'
+description: Use Terraform to safely manage and automate infrastructure resource creation
+  with declarative configuration files.
+created: '2023-03-05'
+last_update: '2026-03-27'
+---
+
 # Intro
 
 Declarative Programming tool for automating infrastructure resource creation

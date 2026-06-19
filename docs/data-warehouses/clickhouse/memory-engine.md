@@ -1,3 +1,12 @@
+---
+slug: /data-warehouses/clickhouse/memory-engine
+title: Memory Engine Overview
+description: Discover the benefits and limitations of the Memory Engine, optimized
+  for high-speed data access in RAM without disk I/O.
+created: '2025-05-16'
+last_update: '2025-06-10'
+---
+
 # Memory Engine
 
 The Memory engine stores data in RAM, in uncompressed form. Data is stored in exactly the same form as it is received when read. In other words, reading from this table is completely free. Concurrent data access is synchronized. Locks are short: read and write operations do not block each other. Indexes are not supported. Reading is parallelized.

@@ -1,4 +1,11 @@
-# Indian History Timeline
+---
+slug: /knowledge/history/indian-history-timeline
+title: Indian History Timeline
+description: Explore the rich Indian history timeline, from the Indus Valley Civilization
+  to Ashoka's reign, with essential books and key historical events.
+created: '2023-03-05'
+last_update: '2025-06-09'
+---
 
 ## Books
 

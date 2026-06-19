@@ -1,3 +1,12 @@
+---
+slug: /technologies/elasticsearch/information-retrieval
+title: Understanding Information Retrieval Techniques
+description: Explore key concepts of information retrieval, including link analysis,
+  Google indexing, and the tf-idf metric for effective text mining.
+created: '2023-03-05'
+last_update: '2025-10-18'
+---
+
 # Information Retrieval
 
 ## Link Analysis and Web Search

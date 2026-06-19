@@ -1,3 +1,12 @@
+---
+slug: /computer-science/system-design/case-study/04-demo
+title: Loan Application Simulation Demo
+description: Explore how to simulate loan applications with Confluent Cloud's Datagen
+  Source Connector and create a mock credit bureau API.
+created: '2026-01-29'
+last_update: '2026-01-29'
+---
+
 # Demo
 
 ## Component 1: Traffic Generator (POS Simulator)

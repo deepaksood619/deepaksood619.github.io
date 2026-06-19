@@ -1,3 +1,12 @@
+---
+slug: /python/others/frameworks
+title: Popular Python Web Frameworks
+description: Explore Tornado and Pyramid, two powerful Python web frameworks for building
+  scalable and flexible web applications.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Frameworks
 
 ## Tornado

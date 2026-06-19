@@ -1,3 +1,12 @@
+---
+slug: /management/product-management/retail-offline-sales
+title: Boosting Retail Offline Sales
+description: Discover how in-store shoppers spend 60% more and visit more frequently,
+  enhancing your retail sales strategy.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Retail / Offline / Sales
 
 Well, a few years ago, professors at Wharton and Harvard delved into this phenomenon and found something quite interesting. Customers who visit a physical store spend more money. In fact, they spend 60% more on average per order. They’re willing to splurge on higher-priced items. Instead of simply buying casual T-shirts, they might spend more on buying formal shirts. They’re expanding their shopping basket.

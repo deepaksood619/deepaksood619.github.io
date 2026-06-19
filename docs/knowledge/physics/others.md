@@ -1,4 +1,11 @@
-# Others
+---
+slug: /knowledge/physics/others
+title: Others
+description: Explore wave-particle duality, a cornerstone of quantum mechanics revealing
+  how particles and waves coexist in the behavior of quantum-scale entities.
+created: '2023-03-05'
+last_update: '2026-05-09'
+---
 
 ## Wave-particle duality
 

@@ -1,3 +1,12 @@
+---
+slug: /management/decision-making/readme
+title: Effective Decision Making Strategies
+description: Discover effective decision-making strategies that empower you to choose
+  wisely and streamline future choices for personal and financial success.
+created: '2023-03-05'
+last_update: '2025-12-10'
+---
+
 # Decision Making
 
 Ensure that decisions are made at the level where the best information is available

@@ -1,4 +1,11 @@
-# 4A: Cash Flow Statement Comparisons
+---
+slug: /economics/accounting-for-finance/4a-cash-flow-statement-comparisons
+title: '4A: Cash Flow Statement Comparisons'
+description: Explore cash flow statement comparisons highlighting sector differences,
+  financial integrity, and the significance of cash flows in assessing firm health.
+created: '2023-03-05'
+last_update: '2025-02-27'
+---
 
 ## Cash Flows: A Life Cycle Perspective
 

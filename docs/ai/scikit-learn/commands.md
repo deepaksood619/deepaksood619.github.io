@@ -1,4 +1,11 @@
-# Commands
+---
+slug: /ai/scikit-learn/commands
+title: Commands
+description: Learn how to split your dataset for machine learning using the train_test_split
+  function from sklearn in Python for effective model training.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
 
 ```python
 from sklearn.model_selection import train_test_split

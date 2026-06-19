@@ -1,3 +1,12 @@
+---
+slug: /frontend/frontend-intro/intro
+title: Understanding HTTP and Local Storage
+description: Explore how the HTTP protocol works and learn about local storage as
+  a solution for tracking session data.
+created: '2023-03-05'
+last_update: '2024-02-26'
+---
+
 # Intro
 
 The HTTP protocol is one of the most important protocols for smooth communication between the server and the client. The main disadvantage of the HTTP protocol it is a stateless protocol that means it does not track any kind of information of response and request by the server and the client, So in order to resolve this problem, there are three ways to track useful information.

@@ -1,3 +1,12 @@
+---
+slug: /python/python-intro/input-output-template
+title: Python Input Output Template Guide
+description: Explore the Python input-output template with examples for handling lists,
+  user input, and more in this comprehensive guide.
+created: '2023-03-05'
+last_update: '2023-06-12'
+---
+
 # Input Output Template
 
 ```python

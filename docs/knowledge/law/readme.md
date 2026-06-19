@@ -1,4 +1,12 @@
-# Law
+---
+slug: /knowledge/law/readme
+title: Law
+description: Explore various branches of law, including administrative, civil, and
+  canon law, along with essential resources like the Constitution of India and LSAT
+  prep.
+created: '2023-03-05'
+last_update: '2026-01-10'
+---
 
 - [Laws](laws)
 - [Judgements](knowledge/law/judgements.md)

@@ -1,3 +1,13 @@
+---
+slug: /mathematics/probability/intro-to-probability/6-variance-conditioning-of-an-event-multiple-rv
+title: Variance and Conditioning of Events
+description: Explore variance, a key concept in probability that measures dispersion,
+  and learn about conditioning of events and multiple random variables for deeper
+  insi...
+created: '2023-03-05'
+last_update: '2023-11-09'
+---
+
 # 6. Variance; Conditioning of an event; Multiple r.v.'s
 
 Variance - Is a quantity that measures the amount of spread, of a dispersion of a probability mass function. It is defined as the expected value of the squared distance from the mean. Always non negative

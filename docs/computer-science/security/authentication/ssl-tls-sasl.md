@@ -1,3 +1,12 @@
+---
+slug: /computer-science/security/authentication/ssl-tls-sasl
+title: Understanding SSL/TLS and SASL Security
+description: Learn about SSL/TLS and SASL cryptographic protocols that ensure secure
+  communications over networks for web browsing, email, and more.
+created: '2026-01-25'
+last_update: '2026-01-26'
+---
+
 # SSL/TLS / SASL
 
 ## SSL/TLS (Tranport Layer Security)

@@ -1,4 +1,11 @@
-# Others
+---
+slug: /economics/investment-products/fund-analysis/others
+title: Others
+description: Discover balanced funds focusing on equity and debt, ESG principles,
+  and their subcategories for optimal investment strategies and returns.
+created: '2023-08-11'
+last_update: '2026-06-09'
+---
 
 ## ESG - Environmental, social and corporate governance
 

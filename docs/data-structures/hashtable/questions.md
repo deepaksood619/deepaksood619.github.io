@@ -1,3 +1,12 @@
+---
+slug: /data-structures/hashtable/questions
+title: Key Questions on Hash Tables
+description: Explore essential questions about hash tables and their advantages over
+  B-Trees for efficient data handling and indexing.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Questions
 
 ## Hash Table

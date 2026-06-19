@@ -1,4 +1,12 @@
-# SQL Databases
+---
+slug: /databases-sql/readme
+title: SQL Databases
+description: Explore SQL databases including RDBMS, normalization, partitioning, AWS
+  services, and popular systems like MySQL, Postgres, and Oracle for optimal data
+  management.
+created: '2025-06-10'
+last_update: '2025-06-10'
+---
 
 - [RDBMS](databases-sql/rdbms.md)
 - [Normalization](databases-sql/normalization.md)

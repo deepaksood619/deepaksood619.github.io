@@ -1,3 +1,12 @@
+---
+slug: /technologies/apache-airflow/dbt
+title: Unlocking Analytics with DBT
+description: Discover how DBT empowers data teams to transform and manage data workflows
+  using SQL for accurate reporting and analysis.
+created: '2025-10-12'
+last_update: '2026-06-11'
+---
+
 # DBT (Data Build Tool)
 
 Analytics engineering is the data transformation work that happens between loading data into your warehouse and analyzing it. dbt allows anyone comfortable with SQL to own that workflow.

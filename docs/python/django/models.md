@@ -1,3 +1,12 @@
+---
+slug: /python/django/models
+title: Understanding Django Models
+description: Explore how Django models serve as a definitive source for data, mapping
+  to database tables and generating an API.
+created: '2023-03-05'
+last_update: '2024-10-08'
+---
+
 # Models
 
 A model is the single, definitive source of information about your data. It contains the essential fields and behaviors of the data you're storing. Generally, each model maps to a single database table.

@@ -1,3 +1,12 @@
+---
+slug: /technologies/apache-spark/07-joins
+title: Understanding Join Operations in Spark
+description: Explore the factors affecting join performance and Spark strategies for
+  executing join operations effectively.
+created: '2023-03-05'
+last_update: '2024-12-19'
+---
+
 # Joins
 
 ### What Factors affect Join Operations?

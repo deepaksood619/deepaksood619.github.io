@@ -1,4 +1,11 @@
-# Neural Networks 3B1B
+---
+slug: /ai/ml-fundamentals/neural-networks-3b1b
+title: Neural Networks 3B1B
+description: Explore the fundamentals of neural networks, including CNNs, LSTMs, and
+  activation functions like Sigmoid and ReLU for advanced machine learning applications.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
 
 Mnemonic - Input, times Weight, add a Bias, Activate
 

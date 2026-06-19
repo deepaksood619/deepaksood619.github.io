@@ -1,3 +1,12 @@
+---
+slug: /computer-science/interview-question/system-design-google-search
+title: Google Search Engine System Design
+description: Explore the complex architecture of Google Search and master key concepts
+  for system design interviews.
+created: '2023-03-05'
+last_update: '2026-04-28'
+---
+
 # System Design of Google Search Engine
 
 ![System Design of Google Search](../../media/system-design-of-google-search.webp)

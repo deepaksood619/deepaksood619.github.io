@@ -1,3 +1,12 @@
+---
+slug: /data-structures/hierarchical-data-structure/binary-tree
+title: 'Understanding Binary Trees: Properties and Types'
+description: Explore the key properties and types of binary trees, including rooted
+  and full binary trees, and their significance in computer science.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
+
 # Binary Tree
 
 ## Properties

@@ -1,3 +1,12 @@
+---
+slug: /technologies/apache-hadoop/hadoop-mapreduce-1.0
+title: Understanding Hadoop MapReduce 1.0
+description: Explore the core components of Hadoop MapReduce 1.0, including the Job
+  Tracker and Task Tracker, to optimize data processing.
+created: '2023-03-05'
+last_update: '2024-12-12'
+---
+
 # Hadoop MapReduce 1.0
 
 ## What is Map Reduce

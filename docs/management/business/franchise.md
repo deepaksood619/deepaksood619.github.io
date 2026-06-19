@@ -1,3 +1,12 @@
+---
+slug: /management/business/franchise
+title: Top Franchise Businesses in India
+description: Discover the most profitable franchise opportunities in India, featuring
+  options for every investment level from Amul to Domino's.
+created: '2026-05-23'
+last_update: '2026-05-23'
+---
+
 # Franchise
 
 Top franchise businesses in India span several industries, ranging from low-cost options like **Amul (₹2-6 Lakhs) and Tumbledry (₹18 Lakhs) to premium, scalable brands like Domino's and Lenskart (₹20-40 Lakhs)**. These proven models offer strong brand recognition and steady demand across varying investment tiers.

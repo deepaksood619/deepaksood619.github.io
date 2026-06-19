@@ -1,3 +1,12 @@
+---
+slug: /devops/terminal-bash/sysctl
+title: Using Sysctl for Kernel Management
+description: Learn how to use sysctl to retrieve and set Linux kernel parameters at
+  runtime for optimal system performance.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # sysctl
 
 sysctl -- get or set kernel state

@@ -1,4 +1,11 @@
-# Core Tensorflow
+---
+slug: /ai/libraries/tensorflow/core-tensorflow
+title: Core Tensorflow
+description: Discover Core TensorFlow for creating, training, and evaluating machine
+  learning models with tools for lazy evaluation, graph visualization, and debugging.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
 
 tf_estimator to create, train and evaluate an ML model
 

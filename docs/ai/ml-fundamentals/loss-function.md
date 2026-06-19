@@ -1,4 +1,11 @@
-# Loss Function
+---
+slug: /ai/ml-fundamentals/loss-function
+title: Loss Function
+description: Discover the significance of loss functions in CNNs, including categorical
+  and binary cross-entropy, for enhancing model accuracy and performance.
+created: '2024-09-18'
+last_update: '2024-09-18'
+---
 
 In a Convolutional Neural Network (CNN), the **loss function** is a key component used to measure the difference between the predicted output of the network and the actual target labels (ground truth). It essentially quantifies how well or poorly the model is performing. The goal of training a CNN is to minimize this loss, meaning the model's predictions get closer to the actual targets.
 

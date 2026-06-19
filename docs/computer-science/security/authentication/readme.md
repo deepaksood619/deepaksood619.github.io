@@ -1,3 +1,12 @@
+---
+slug: /computer-science/security/authentication/readme
+title: Understanding Authentication Methods
+description: Explore various authentication methods including OAuth, OpenID, 2FA,
+  and more in our comprehensive guide.
+created: '2023-03-05'
+last_update: '2026-01-25'
+---
+
 # Authentication
 
 - [Authentication](computer-science/security/authentication/intro.md)

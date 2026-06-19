@@ -1,4 +1,11 @@
-# Intro
+---
+slug: /ai/llm/fundamentals/intro
+title: Intro
+description: Discover how large language models (LLMs) transform programming, enhance
+  tasks like text generation, and bridge the gap from information to knowledge.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 LLM makes good programmers great, and not make bad programmers good
 

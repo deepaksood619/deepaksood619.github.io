@@ -1,4 +1,11 @@
-# Social Links
+---
+slug: /about-deepak-sood/social-links
+title: Social Links
+description: Explore the professional profile of Deepak Sood, featuring his resume,
+  portfolio, and websites to connect and schedule a call for opportunities.
+created: '2023-03-05'
+last_update: '2026-03-27'
+---
 
 [Schedule a call with me - Deepak Sood | Calendly](https://calendly.com/deepaksood619/deepak)
 

@@ -1,4 +1,11 @@
-# Hello World
+---
+slug: /languages/golang/hello-world
+title: Hello World
+description: Discover the basics of a Go program, including package declarations,
+  imports, functions, and variables, with a simple "Hello, 世界" example.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
 
 ## hello.go
 

@@ -1,14 +1,12 @@
 ---
-title: Physicswallah Ltd - Comprehensive Investment Analysis
-company: Physicswallah Ltd
-ticker: NSE:PWL / BSE:544256
-sector: EdTech (Education Technology)
-analysis_type: comprehensive
-date: 2026-06-04
-analyst: Claude (LLM-generated)
-data_sources: [Screener.in, NSE, Yahoo Finance, yfinance API]
-tags: [comprehensive-analysis, indian-stocks, edtech, ipo-stock, growth-company, high-risk]
+slug: /economics/company-analysis/companies/technology/physicswallah-comprehensive
+title: PhysicsWallah Comprehensive Investment Analysis
+description: Explore the investment outlook for PhysicsWallah, a promising EdTech
+  firm with growth potential and evolving unit economics.
+created: '2026-06-06'
+last_update: '2026-06-09'
 ---
+
 - **Analysis Date:** June 4, 2026
 - **Exchange:** NSE / BSE
 - **Sector:** EdTech (Education Technology)

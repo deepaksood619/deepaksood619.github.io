@@ -1,4 +1,11 @@
-# SQL Joins
+---
+slug: /languages/sql/sql-joins
+title: SQL Joins
+description: Learn about SQL Joins, including INNER JOIN and LEFT JOIN, to efficiently
+  combine records from multiple database tables for effective data management.
+created: '2023-03-05'
+last_update: '2024-12-12'
+---
 
 The SQL Joins clause is used to combine records from two or more tables in a database. A JOIN is a means for combining fields from two tables by using values common to each.
 

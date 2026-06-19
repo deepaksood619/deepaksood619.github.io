@@ -1,15 +1,12 @@
 ---
-title: Amazon.com Inc. - Comprehensive Investment Analysis
-company: Amazon.com Inc.
-ticker: AMZN
-exchange: NASDAQ
-sector: Technology / E-commerce / Cloud Computing
-analysis_type: comprehensive
-date: 2026-06-03
-analyst: Claude (LLM-generated)
-data_sources: [Yahoo Finance, StockAnalysis.com, TradingView]
-tags: [comprehensive-analysis, us-stocks, technology, e-commerce, cloud-computing, mega-cap]
+slug: /economics/company-analysis/companies/technology/amazon-comprehensive-analysis
+title: In-Depth Amazon Financial Analysis
+description: Explore our comprehensive analysis of Amazon's market position, growth
+  potential, and investment recommendations.
+created: '2026-06-04'
+last_update: '2026-06-09'
 ---
+
 - **Analysis Date:** June 3, 2026
 - **Exchange:** NASDAQ
 - **Sector:** Technology / E-commerce / Cloud Computing

@@ -1,3 +1,12 @@
+---
+slug: /data-warehouses/bigquery/readme
+title: BigQuery Resource Guide
+description: Explore comprehensive resources on BigQuery architecture, queries, optimizations,
+  and pricing to enhance your data management.
+created: '2025-01-18'
+last_update: '2026-06-11'
+---
+
 # BigQuery
 
 - [Architecture](data-warehouses/bigquery/architecture.md)

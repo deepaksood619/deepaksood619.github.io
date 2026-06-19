@@ -1,3 +1,12 @@
+---
+slug: /about-deepak-sood/projects/37-genai-chatbot-using-bedrock
+title: High-Performance GenAI ChatBot with Bedrock
+description: Explore how NoPaperForms improved their chatbot's efficiency and scalability
+  using AWS Bedrock for higher education.
+created: '2025-04-03'
+last_update: '2025-04-06'
+---
+
 # GenAI ChatBot using Bedrock
 
 Case Study: Building a High-Performance GenAI Chatbot for Higher Education Institutions with AWS Bedrock

@@ -1,10 +1,12 @@
 ---
-title: TheJobsMap - Global Tech Job Aggregator Analysis (Preliminary)
-date: 2026-06-08
-type: competitor-analysis
-domain: job-platforms-aggregator-global
-tags: [thejobsmap, job-aggregator, tech-jobs, global, job-board, preliminary-research]
+slug: /education/competitors/job-platforms/thejobsmap-analysis
+title: TheJobsMap Analysis Overview
+description: Explore preliminary insights into TheJobsMap, a global tech job aggregator
+  with limited public information available.
+created: '2026-06-08'
+last_update: '2026-06-09'
 ---
+
 
 ## ⚠️ Research Limitation Notice
 

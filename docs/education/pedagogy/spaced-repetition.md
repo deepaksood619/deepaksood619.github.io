@@ -1,3 +1,12 @@
+---
+slug: /education/pedagogy/spaced-repetition
+title: Understanding Spaced Repetition
+description: Learn how spaced repetition enhances memory retention and combats the
+  forgetting curve for effective learning.
+created: '2026-06-17'
+last_update: '2026-06-19'
+---
+
 # Spaced Repetition
 
 Spaced repetition is a learning technique that involves reviewing information at increasing intervals over time to combat the forgetting curve and optimize long-term retention. It's one of the most evidence-based and effective methods for memorizing large amounts of information.

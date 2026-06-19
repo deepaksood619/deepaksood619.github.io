@@ -1,3 +1,12 @@
+---
+slug: /devops/monitoring/istio/intro
+title: Understanding Istio Circuit Breakers
+description: Learn how Istio's circuit breaker feature helps manage service traffic
+  and maintain application reliability.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
+
 # Istio
 
 ## Circuit Breaker

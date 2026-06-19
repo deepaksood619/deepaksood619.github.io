@@ -1,4 +1,11 @@
-# Components
+---
+slug: /ai/deep-learning/components
+title: Components
+description: Explore the essential components of deep learning networks, including
+  input, hidden, and output layers, to understand their role in data classification.
+created: '2024-09-18'
+last_update: '2024-12-19'
+---
 
 ## Components of a Deep Learning Network
 

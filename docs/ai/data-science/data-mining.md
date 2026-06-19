@@ -1,4 +1,11 @@
-# Data Mining
+---
+slug: /ai/data-science/data-mining
+title: Data Mining
+description: Discover how data mining transforms vast datasets into valuable insights,
+  leveraging automated analysis for informed decision-making across various industries.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
 
 ## Why data Mining
 

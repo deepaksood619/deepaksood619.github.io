@@ -1,3 +1,12 @@
+---
+slug: /computer-science/software-engineering/modeling-languages
+title: Understanding UML Modeling Language
+description: Explore UML, its types, and key diagrams to visualize software designs
+  effectively.
+created: '2023-03-05'
+last_update: '2025-02-02'
+---
+
 # Modeling Language
 
 ## UML (Unified Modeling Language)

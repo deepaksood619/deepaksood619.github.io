@@ -1,3 +1,12 @@
+---
+slug: /data-warehouses/snowflake/compute
+title: Understanding Snowflake Virtual Warehouses
+description: Learn about Snowflake's Virtual Warehouses, their configurations, and
+  how to optimize SQL query performance.
+created: '2024-01-05'
+last_update: '2025-06-10'
+---
+
 # Compute
 
 ## Virtual Warehouse

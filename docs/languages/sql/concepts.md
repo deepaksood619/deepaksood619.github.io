@@ -1,4 +1,11 @@
-# Concepts
+---
+slug: /languages/sql/concepts
+title: Concepts
+description: Learn about SQL predicates, which define logical conditions in queries,
+  affecting result sets through WHERE and HAVING clauses for effective data retrieval.
+created: '2023-03-05'
+last_update: '2026-06-17'
+---
 
 ## Predicate
 

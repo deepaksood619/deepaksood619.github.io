@@ -1,3 +1,12 @@
+---
+slug: /mathematics/probability/intro-to-probability/readme
+title: Probability Concepts and Techniques
+description: Explore essential probability concepts and techniques, including models,
+  independence, counting, mass functions, and expectations in our comprehensive guide.
+created: '2023-03-05'
+last_update: '2023-05-03'
+---
+
 # Intro to Probability
 
 - [Intro - Syllabus](intro-syllabus)

@@ -1,4 +1,11 @@
-# GCD / LCM
+---
+slug: /mathematics/general/gcd-lcm
+title: GCD / LCM
+description: Discover the GCD (Greatest Common Divisor) and LCM (Least Common Multiple)
+  concepts, methods, and Python implementations to enhance your math skills.
+created: '2023-11-20'
+last_update: '2025-02-14'
+---
 
 ## GCD
 

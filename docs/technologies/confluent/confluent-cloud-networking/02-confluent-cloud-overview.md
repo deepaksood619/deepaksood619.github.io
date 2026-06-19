@@ -1,3 +1,12 @@
+---
+slug: /technologies/confluent/confluent-cloud-networking/02-confluent-cloud-overview
+title: Overview of Confluent Cloud Services
+description: Explore the key features of Confluent Cloud, including the data plane
+  and control plane for data management.
+created: '2025-12-10'
+last_update: '2026-01-28'
+---
+
 # Confluent Cloud Overview
 
 ## What Connects with Confluent Cloud?

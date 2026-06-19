@@ -1,3 +1,12 @@
+---
+slug: /devops/monitoring/istio/traffic-management
+title: Effective Traffic Management with Istio
+description: Discover how Istio simplifies service traffic control, enhances reliability,
+  and enables advanced deployment strategies for robust applications.
+created: '2023-03-05'
+last_update: '2024-09-17'
+---
+
 # Traffic Management
 
 Istio's easy rules configuration and traffic routing lets you control the flow of traffic and API calls between services. Istio simplifies configuration of service-level properties like circuit breakers, timeouts, and retries, and makes it a breeze to set up important tasks like A/B testing, canary rollouts, and staged rollouts with percentage-based traffic splits.

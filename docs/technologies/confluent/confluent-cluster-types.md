@@ -1,3 +1,12 @@
+---
+slug: /technologies/confluent/confluent-cluster-types
+title: Overview of Confluent Cluster Types
+description: Explore the different Kafka cluster types offered by Confluent Cloud
+  for various use cases and scaling needs.
+created: '2026-01-19'
+last_update: '2026-01-28'
+---
+
 # Confluent Cluster types
 
 Confluent Cloud offers these Kafka cluster types:

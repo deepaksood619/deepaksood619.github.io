@@ -1,3 +1,12 @@
+---
+slug: /data-structures/hashtable/hash-functions
+title: Understanding Hash Functions and Variants
+description: Explore bad hash functions and learn about MurmurHash, a popular non-cryptographic
+  hash function for efficient data lookup.
+created: '2023-03-05'
+last_update: '2023-12-06'
+---
+
 # Hash Functions
 
 ## Bad Hash Functions

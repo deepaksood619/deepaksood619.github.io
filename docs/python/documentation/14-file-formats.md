@@ -1,3 +1,12 @@
+---
+slug: /python/documentation/14-file-formats
+title: Understanding File Formats in Python
+description: Explore various file formats in Python, including CSV and configuration
+  file parsing, with comprehensive guides and examples.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
+
 # 14. File Formats
 
 - [14.1.csv - CSV File Reading and Writing](https://docs.python.org/3.4/library/csv.html)

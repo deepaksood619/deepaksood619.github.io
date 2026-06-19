@@ -1,3 +1,12 @@
+---
+slug: /devops/kubernetes/design-patterns
+title: Comprehensive Guide to Design Patterns
+description: Explore foundational, behavioral, and structural design patterns for
+  efficient software architecture and development.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # Design Patterns
 
 ## Foundational Patterns

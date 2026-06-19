@@ -1,3 +1,12 @@
+---
+slug: /data-structures/hashtable/list-of-hash-functions
+title: Comprehensive List of Hash Functions
+description: Explore a detailed list of hash functions including CRC types, their
+  lengths, and relevant links for further information.
+created: '2023-03-05'
+last_update: '2024-03-18'
+---
+
 # List of Hash Functions
 
 ## Cyclic redundancy checks

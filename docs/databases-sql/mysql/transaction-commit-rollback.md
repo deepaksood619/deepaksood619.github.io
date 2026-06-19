@@ -1,4 +1,11 @@
-# Trasaction / Commit / Rollback
+---
+slug: /databases-sql/mysql/transaction-commit-rollback
+title: Trasaction / Commit / Rollback
+description: Learn about transaction management in MySQL, including START TRANSACTION,
+  COMMIT, ROLLBACK, SAVEPOINT, and locking statements for effective data handling.
+created: '2023-03-05'
+last_update: '2025-06-10'
+---
 
 - 13.3 Transactional and Locking Statements
 - 13.3.1 START TRANSACTION, COMMIT, and ROLLBACK Statements

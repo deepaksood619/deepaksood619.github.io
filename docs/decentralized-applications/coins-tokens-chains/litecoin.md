@@ -1,4 +1,11 @@
-# Litecoin
+---
+slug: /decentralized-applications/coins-tokens-chains/litecoin
+title: Litecoin
+description: Discover Litecoin (LTC), a fast and low-cost cryptocurrency designed
+  for secure payments, often seen as the silver to Bitcoin's gold.
+created: '2023-07-11'
+last_update: '2025-02-14'
+---
 
 Litecoin is one of the first cryptocurrencies created after Bitcoin and still strives to be the silver to Bitcoin's gold.
 

@@ -1,3 +1,12 @@
+---
+slug: /technologies/brokers/smap
+title: 'sMAP: Simple Measurement and Actuation'
+description: Discover sMAP, a solution for transmitting physical data efficiently
+  with open drivers and specifications for better accessibility.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
+
 # sMAP
 
 **sMAP: the Simple Measurement and Actuation Profile**

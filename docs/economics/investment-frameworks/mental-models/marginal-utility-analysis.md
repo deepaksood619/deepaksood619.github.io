@@ -1,4 +1,11 @@
-# Marginal Utility / Analysis
+---
+slug: /economics/investment-frameworks/mental-models/marginal-utility-analysis
+title: Marginal Utility / Analysis
+description: Explore marginal utility analysis to understand how businesses evaluate
+  costs and benefits for maximizing profits and making informed decisions.
+created: '2023-03-05'
+last_update: '2026-06-09'
+---
 
 ## Marginal Analysis
 

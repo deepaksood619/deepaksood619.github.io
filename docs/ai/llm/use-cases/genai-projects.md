@@ -1,4 +1,11 @@
-# GenAI Projects
+---
+slug: /ai/llm/use-cases/genai-projects
+title: GenAI Projects
+description: Explore GenAI projects to build and train your own Large Language Models
+  like GPT-3.5 and ChatGPT using best practices and advanced computing strategies.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 ## Projects on Large Language Models
 

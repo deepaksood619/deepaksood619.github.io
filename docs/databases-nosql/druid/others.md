@@ -1,4 +1,11 @@
-# Others
+---
+slug: /databases-nosql/druid/others
+title: Others
+description: Plywood is a JavaScript library that streamlines interactive visualizations
+  and applications for large data sets using a powerful expression language.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
 
 ## Plywood
 

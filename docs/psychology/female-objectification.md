@@ -1,4 +1,12 @@
-# Female Objectification
+---
+slug: /psychology/female-objectification
+title: Female Objectification
+description: Explore the implications of female objectification, the male gaze, and
+  effective strategies for empowering adolescent girls in India against these societal
+  pressures.
+created: '2026-06-10'
+last_update: '2026-06-10'
+---
 
 **The Pervasiveness of the Male Gaze: Sociocultural Ramifications, Self-Objectification, and Safeguarding Strategies for Adolescent Girls in India**
 

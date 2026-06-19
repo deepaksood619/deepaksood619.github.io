@@ -1,3 +1,12 @@
+---
+slug: /databases/others/technologies-tools
+title: Essential MySQL Workbench Tips
+description: Discover vital MySQL Workbench tips and tools to enhance your SQL experience
+  and streamline query management.
+created: '2023-03-05'
+last_update: '2026-03-27'
+---
+
 # Technologies / Tools
 
 ## MySQL Workbench / MySQLWorkbench

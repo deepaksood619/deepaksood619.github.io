@@ -1,3 +1,12 @@
+---
+slug: /networking/networking-concepts/osi-layers
+title: Understanding OSI Layers and Functions
+description: Explore the OSI model, its layers, and functions to enhance your understanding
+  of communication systems in networking.
+created: '2023-03-05'
+last_update: '2024-02-26'
+---
+
 # OSI Layers
 
 Mnemonic - All people seem to need data processing

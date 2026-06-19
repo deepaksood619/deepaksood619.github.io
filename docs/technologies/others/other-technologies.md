@@ -1,3 +1,12 @@
+---
+slug: /technologies/others/other-technologies
+title: Exploring Open Source Technologies
+description: Discover a comprehensive list of open-source resources and technologies,
+  including self-hosted applications and Google's Knowledge Graph.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # Other Technologies
 
 ## Opensource Free Stuff

@@ -1,4 +1,11 @@
-# General
+---
+slug: /mathematics/general/readme
+title: General
+description: Explore fundamental concepts in mathematics, including numbers, logic,
+  theorems, and advanced topics to enhance your understanding of this essential field.
+created: '2023-03-05'
+last_update: '2023-11-20'
+---
 
 - [Numbers](numbers)
 - [Greek Letters / Latin](greek-letters-latin)

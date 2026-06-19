@@ -1,4 +1,11 @@
-# Langchain
+---
+slug: /ai/llm/building-llm-apps/langchain
+title: Langchain
+description: Discover LangChain, a powerful framework for building LLM applications,
+  enhancing productivity and integrating AI seamlessly into your projects.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 [Welcome to LangChain - 🦜🔗 LangChain 0.0.180](https://python.langchain.com/en/latest/index.html)
 

@@ -1,4 +1,11 @@
-# Skiing / Sking
+---
+slug: /knowledge/games/skiing-sking
+title: Skiing / Sking
+description: Discover essential skiing techniques, terminology, and tips for mastering
+  the slopes, from stance and weight transfer to carving and freestyle tricks.
+created: '2023-03-05'
+last_update: '2023-09-17'
+---
 
 - Stance
 - Wedge

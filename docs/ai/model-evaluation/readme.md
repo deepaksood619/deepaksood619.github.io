@@ -1,4 +1,12 @@
-# Model Evaluation
+---
+slug: /ai/model-evaluation/readme
+title: Model Evaluation
+description: Explore essential model evaluation techniques, including confusion matrix,
+  bias-variance trade-off, optimization, and validation for effective AI performance
+  assessment.
+created: '2023-03-05'
+last_update: '2026-03-31'
+---
 
 - [Confusion Matrix](confusion-matrix)
 - [Bias Variance Trade Off](bias-variance-trade-off)

@@ -1,3 +1,12 @@
+---
+slug: /networking/protocols/messaging
+title: Understanding Messaging Systems
+description: Explore messaging systems like HTTP, Email, and REST, and learn how they
+  facilitate communication between apps on different machines.
+created: '2023-03-05'
+last_update: '2026-02-15'
+---
+
 # Messaging
 
 For Messaging consider it like email, not between people but between different apps on different machines. A message is typically some container-like format with some extra metadata naming the sender and the recipent(s), maybe timestamps and serial numbers. All you can do in a messaging system is basically to send a message to a particular address. Whether or when the resident at that address responds is not possible to determine -- just like email in that sense. For a large scale example of a messaging system we have the internet itself. The very much hyped REST interactions of online services is also an example where messaging is starting to show success.

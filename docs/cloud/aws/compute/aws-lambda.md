@@ -1,4 +1,11 @@
-# AWS Lambda
+---
+slug: /cloud/aws/compute/aws-lambda
+title: AWS Lambda
+description: Explore AWS Lambda, a serverless computing service that runs your code
+  in response to events, enabling scalable applications and efficient resource management.
+created: '2023-03-05'
+last_update: '2025-11-09'
+---
 
 https://docs.aws.amazon.com/lambda/latest/dg/lambda-edge.html
 

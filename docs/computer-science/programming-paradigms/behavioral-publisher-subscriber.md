@@ -1,3 +1,12 @@
+---
+slug: /computer-science/programming-paradigms/behavioral-publisher-subscriber
+title: Behavioral Publisher-Subscriber Pattern
+description: Learn about the Publisher-Subscriber pattern, where message senders and
+  receivers operate independently via a message broker.
+created: '2023-03-05'
+last_update: '2023-11-18'
+---
+
 # Behavioral - Publisher Subscriber
 
 In 'Publisher-Subscriber' pattern, senders of messages, called publishers, do not program the messages to be sent directly to specific receivers, called subscribers.

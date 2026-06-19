@@ -1,3 +1,12 @@
+---
+slug: /data-warehouses/snowflake/terms
+title: Understanding Snowflake Terms
+description: Explore key terms in Snowflake, including clone, compute credits, and
+  data sharing for improved data management and performance.
+created: '2024-01-05'
+last_update: '2025-06-10'
+---
+
 # Terms
 
 ### [**clone**](https://docs.snowflake.net/manuals/sql-reference/sql/create-clone.html)

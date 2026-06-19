@@ -1,4 +1,11 @@
-# SAP
+---
+slug: /cloud/others/sap
+title: SAP
+description: Discover SAP, the leading ERP software vendor offering innovative solutions
+  for business operations, customer relations, and comprehensive enterprise management.
+created: '2024-01-19'
+last_update: '2026-06-11'
+---
 
 SAP SE is a German multinational software company based in Walldorf, Baden-Württemberg. It develops enterprise software to manage business operations and customer relations. The company is the world's leading enterprise resource planning (ERP) software vendor. Apart from ERP software, the company also sells database software and technology (particularly its own brands), cloud-engineered systems, and other ERP software products, such as human capital management (HCM) software, customer relationship management (CRM) software (also known as customer experience), enterprise performance management (EPM) software, product lifecycle management (PLM) software, supplier relationship management (SRM) software, supply chain management (SCM) software, business technology platform (BTP) software and programming environment SAP AppGyver for business.
 

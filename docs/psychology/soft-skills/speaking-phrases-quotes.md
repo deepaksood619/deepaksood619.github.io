@@ -1,3 +1,12 @@
+---
+slug: /psychology/soft-skills/speaking-phrases-quotes
+title: Effective Speaking Phrases and Quotes
+description: Discover powerful phrases and quotes that enhance your communication
+  skills and deepen understanding.
+created: '2023-03-05'
+last_update: '2026-03-27'
+---
+
 # Speaking - Phrases / Quotes
 
 ## Quotes

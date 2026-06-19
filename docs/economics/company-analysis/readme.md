@@ -1,4 +1,11 @@
-# Company Analysis
+---
+slug: /economics/company-analysis/readme
+title: Company Analysis
+description: Discover comprehensive company analyses, sector reports, and investment
+  frameworks for Indian equities, enhancing your market intelligence for NSE/BSE stocks.
+created: '2026-06-03'
+last_update: '2026-06-16'
+---
 
 **LLM-Maintained Financial Knowledge Base** - Systematic company research, fundamental analysis, and market intelligence for Indian equities (NSE/BSE).
 

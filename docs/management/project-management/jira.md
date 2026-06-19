@@ -1,3 +1,12 @@
+---
+slug: /management/project-management/jira
+title: JIRA Project Management Platform
+description: JIRA is a customizable project management platform that streamlines task
+  tracking, Agile planning, and collaboration for diverse teams across industries.
+created: '2023-03-05'
+last_update: '2025-04-17'
+---
+
 # JIRA
 
 ## Atlassian

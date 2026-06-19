@@ -1,3 +1,12 @@
+---
+slug: /python/others/fastapi/readme
+title: 'FastAPI: High-Performance Python Web Framework'
+description: Discover FastAPI, a modern Python framework for building APIs with exceptional
+  speed and reduced bugs.
+created: '2023-03-05'
+last_update: '2026-04-28'
+---
+
 # FastAPI
 
 FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.

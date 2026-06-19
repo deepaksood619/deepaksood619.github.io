@@ -1,4 +1,11 @@
-# Finance Terms
+---
+slug: /economics/glossary/finance-terms
+title: Finance Terms
+description: Explore essential finance terms including asset classes, CFA certification,
+  and investment strategies to enhance your financial knowledge and expertise.
+created: '2023-03-05'
+last_update: '2026-06-09'
+---
 
 ## Asset Classes
 

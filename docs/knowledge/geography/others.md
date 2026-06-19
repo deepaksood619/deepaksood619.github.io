@@ -1,4 +1,11 @@
-# Others
+---
+slug: /knowledge/geography/others
+title: Others
+description: Explore the significance of seasonal solstices and understand North Korea's
+  status as a hermit kingdom in today's geopolitical landscape.
+created: '2023-03-05'
+last_update: '2026-04-25'
+---
 
 Summer Solstice - 21 June, 22 June
 

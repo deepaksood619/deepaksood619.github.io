@@ -1,4 +1,12 @@
-# History
+---
+slug: /knowledge/history/readme
+title: History
+description: Explore the diverse facets of history, from ancient civilizations to
+  modern events, through engaging resources like timelines, courses, and religious
+  studies.
+created: '2023-03-05'
+last_update: '2026-06-12'
+---
 
 - [Histomap](histomap)
 - [Crash Course World History](crash-course-world-history)

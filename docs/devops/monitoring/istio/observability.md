@@ -1,3 +1,12 @@
+---
+slug: /devops/monitoring/istio/observability
+title: Understanding Observability in Istio
+description: Explore how Istio's observability features enhance service performance
+  monitoring and control within your service mesh deployment.
+created: '2023-03-05'
+last_update: '2024-04-16'
+---
+
 # Observability
 
 O11Y - Observability

@@ -1,3 +1,12 @@
+---
+slug: /about-deepak-sood/projects/66-iot-case-studies
+title: IoT Case Studies Overview
+description: Explore the Zenatix case study addressing IoT challenges and solutions
+  in energy and asset management for small and mid-sized buildings.
+created: '2024-03-17'
+last_update: '2024-12-18'
+---
+
 # IoT Case Studies
 
 ## Zenatix Case Study

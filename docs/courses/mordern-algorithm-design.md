@@ -1,4 +1,11 @@
-# Mordern Algorithm Design
+---
+slug: /courses/mordern-algorithm-design
+title: Mordern Algorithm Design
+description: Explore modern algorithm design with topics like randomization, maximum
+  flow, approximation algorithms, and optimal stopping for efficient problem solving.
+created: '2023-03-05'
+last_update: '2024-02-01'
+---
 
 1. Randomization
 2. Amortized Analysis

@@ -1,4 +1,11 @@
-# Course - Mindshift
+---
+slug: /psychology/course-mindshift
+title: Course - Mindshift
+description: Unlock your potential with the Mindshift course, exploring hidden capabilities,
+  effective learning, and aligning your assets with new opportunities.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
 
 ## Change is Possible
 

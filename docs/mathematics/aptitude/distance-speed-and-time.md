@@ -1,4 +1,11 @@
-# Distance Speed and Time
+---
+slug: /mathematics/aptitude/distance-speed-and-time
+title: Distance Speed and Time
+description: Learn how to calculate distance, speed, and time using acceleration and
+  velocity with our easy-to-follow guide and real-world examples.
+created: '2023-03-05'
+last_update: '2023-06-07'
+---
 
 ## HOW TO CALCULATE TIME AND DISTANCE FROM ACCELERATION AND VELOCITY
 

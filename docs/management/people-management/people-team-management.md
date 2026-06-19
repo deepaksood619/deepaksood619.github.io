@@ -1,3 +1,12 @@
+---
+slug: /management/people-management/people-team-management
+title: Effective People and Team Management
+description: Discover essential strategies for successful team management, including
+  respect, trust, and mentoring.
+created: '2023-03-05'
+last_update: '2025-08-28'
+---
+
 # People / Team Management
 
 I am available anytime, I can mentor, Any help you need you can always come to me. -- Deepak

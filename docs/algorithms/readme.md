@@ -1,4 +1,11 @@
-# Algorithms
+---
+slug: /algorithms/readme
+title: Algorithms
+description: Explore a comprehensive guide to algorithms covering algorithmic complexity,
+  searching, sorting, graph theory, dynamic programming, and more.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
 
 - [General](general/readme.md)
 - [Algorithmic Complexity](algorithmic-complexity/readme.md)

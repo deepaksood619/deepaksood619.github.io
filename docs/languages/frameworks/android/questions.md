@@ -1,4 +1,11 @@
-# Questions
+---
+slug: /languages/frameworks/android/questions
+title: Questions
+description: Explore the Android Activity lifecycle, understand ContentProviders,
+  and learn common Intent use cases to enhance your app's functionality and data management.
+created: '2024-01-11'
+last_update: '2024-01-11'
+---
 
 ### Activity Lifecycle
 

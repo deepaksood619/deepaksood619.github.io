@@ -1,3 +1,12 @@
+---
+slug: /data-warehouses/databricks/30-unity-catalog
+title: Unity Catalog for Data Governance
+description: Discover Unity Catalog, a unified solution for managing data and AI assets
+  with centralized governance and seamless integration.
+created: '2023-05-15'
+last_update: '2026-02-27'
+---
+
 # Unity Catalog
 
 Unity Catalog is a unified governance solution for all data and AI assets including files, tables, machine learning models and dashboards in your lakehouse on any cloud.

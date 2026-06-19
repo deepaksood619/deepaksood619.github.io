@@ -1,4 +1,11 @@
-# Harness
+---
+slug: /ai/llm/code-generation/harness
+title: Harness
+description: Discover how an AI harness enhances LLMs into autonomous agents, improving
+  accuracy, reducing review toil, and optimizing tool usage for quality systems.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 A harness in AI/LLM is the infrastructure, tools, and orchestration code that surrounds a Large Language Model (LLM) to transform it from a chatbot into an autonomous agent. It acts as the "control plane" that manages the model's memory, context, tool usage (APIs, search), and safety boundaries.
 

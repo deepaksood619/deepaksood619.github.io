@@ -1,4 +1,11 @@
-# JMX
+---
+slug: /languages/java/jmx
+title: JMX
+description: Discover Java Management Extensions (JMX) for effective management and
+  monitoring of Java applications, enhancing their performance and maintainability.
+created: '2024-01-11'
+last_update: '2025-02-14'
+---
 
 The Java Management Extensions (JMX) API is a standard -developed through the [Java Community Process](http://www.jcp.org/en/home/index) (JCP) as [JSR 3](http://www.jcp.org/en/jsr/detail?id=3)-for managing and monitoring applications and services. It defines a management architecture, design patterns, APIs, and services for building web-based, distributed, dynamic, and modular solutions to manage Java-enabled resources. The JMX APIs make it possible to add manageability to Java-enabled equipment, from web phones to set-top boxes to network devices and servers. Using JMX technology to manage applications and services increases their value to vendors and clients by making applications easier to install, configure, and maintain.
 

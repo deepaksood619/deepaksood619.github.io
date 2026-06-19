@@ -1,3 +1,12 @@
+---
+slug: /technologies/apache/apache-hudi
+title: 'Apache Hudi: Incremental Data Processing'
+description: Discover Apache Hudi, a powerful platform for managing large analytical
+  datasets with low-latency, transactional capabilities.
+created: '2024-10-07'
+last_update: '2025-10-08'
+---
+
 # Hudi
 
 Hudi - Hadoop Upserts Deletes and Incremental

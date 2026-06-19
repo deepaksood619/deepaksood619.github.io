@@ -1,3 +1,12 @@
+---
+slug: /education/product-concepts/ai-as-mentor
+title: AI as Mentor in Education
+description: Explore how AI serves as a personalized mentor, enhancing student learning
+  and engagement across K-12 and higher education.
+created: '2025-08-11'
+last_update: '2026-06-08'
+---
+
 # AI as Mentor
 
 ## AI as Mentor: Shaping the Future of Personalized Learning

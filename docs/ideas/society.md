@@ -1,4 +1,11 @@
-# Society
+---
+slug: /ideas/society
+title: Society
+description: Explore societal dynamics through gender equality, women's empowerment,
+  and the biases impacting perceptions of gender and sex in contemporary culture.
+created: '2023-12-23'
+last_update: '2026-05-01'
+---
 
 ## Gender Equality (Women Empowerment)
 

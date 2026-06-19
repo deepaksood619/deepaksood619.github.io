@@ -1,3 +1,12 @@
+---
+slug: /frontend/seo/utm-and-sitemap
+title: Understanding UTM and SiteMap
+description: Learn about UTM parameters for tracking marketing campaigns and how site
+  maps enhance SEO and website navigation.
+created: '2024-12-03'
+last_update: '2024-12-18'
+---
+
 # UTM and SiteMap
 
 ## Urchin Tracking Module(UTM)

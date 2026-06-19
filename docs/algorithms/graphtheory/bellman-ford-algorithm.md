@@ -1,3 +1,12 @@
+---
+slug: /algorithms/graphtheory/bellman-ford-algorithm
+title: Understanding the Bellman-Ford Algorithm
+description: Learn how the Bellman-Ford algorithm calculates shortest paths in graphs
+  and handles negative cycles effectively.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # Bellman Ford Algorithm
 
 ![image](../../media/Bellman-Ford-Algorithm-image1.jpg)

@@ -1,4 +1,11 @@
-# Others
+---
+slug: /databases-sql/postgres/others
+title: Others
+description: Explore essential PostgreSQL extensions like PostGIS for geospatial data,
+  hstore for key-value storage, and pg_timetable for advanced scheduling.
+created: '2023-03-13'
+last_update: '2026-06-16'
+---
 
 ## Postgres Extensions
 

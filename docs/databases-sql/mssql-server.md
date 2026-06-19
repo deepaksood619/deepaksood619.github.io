@@ -1,4 +1,11 @@
-# MSSQL Server
+---
+slug: /databases-sql/mssql-server
+title: MSSQL Server
+description: Discover MSSQL Server's features, editions, and the unique advantages
+  of Microsoft's database solution for enterprise applications on Windows systems.
+created: '2025-05-21'
+last_update: '2025-11-09'
+---
 
 ## Intro
 

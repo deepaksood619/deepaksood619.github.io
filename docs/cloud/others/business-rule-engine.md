@@ -1,4 +1,11 @@
-# Business Rules Engine (BRE) / Decision Rule Engine
+---
+slug: /cloud/others/business-rule-engine
+title: Business Rules Engine (BRE) / Decision Rule Engine
+description: Discover how a Business Rules Engine (BRE) automates decision-making
+  by executing business rules based on regulations, policies, and operational decisions.
+created: '2023-03-05'
+last_update: '2024-06-23'
+---
 
 https://martinfowler.com/bliki/RulesEngine.html - Avoid building rule engine
 

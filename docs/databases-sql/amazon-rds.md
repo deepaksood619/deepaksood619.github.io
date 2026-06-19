@@ -1,4 +1,11 @@
-# Amazon RDS
+---
+slug: /databases-sql/amazon-rds
+title: Amazon RDS
+description: Discover Amazon RDS, a managed database service supporting MySQL, PostgreSQL,
+  and more, with RDS Proxy for enhanced scalability and resilience.
+created: '2024-04-24'
+last_update: '2026-05-09'
+---
 
 Managed Relational Database Service for MySQL, PostgreSQL, Oracle, SQL Server, and MariaDB
 

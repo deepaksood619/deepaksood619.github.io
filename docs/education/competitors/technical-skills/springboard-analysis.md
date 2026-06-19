@@ -1,12 +1,12 @@
 ---
-title: Springboard Analysis
-type: competitor-analysis
-category: technical-skills
-founded: 2013
-model: mentor-supported bootcamps
-verified: 2026-06-08
-tags: [bootcamp, mentorship, job-guarantee, curated-content]
+slug: /education/competitors/technical-skills/springboard-analysis
+title: Springboard Analysis Overview
+description: Explore Springboard's Technical Skills Bootcamp, mentorship, job guarantee,
+  and research methodology for career track success.
+created: '2026-06-08'
+last_update: '2026-06-09'
 ---
+
 
 - **Category:** Technical Skills Bootcamp with 1:1 Mentorship
 - **Business Model:** Curated third-party content + mentor pairing + job guarantee for Career Track programs

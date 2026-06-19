@@ -1,3 +1,12 @@
+---
+slug: /devops/terminal-bash/bash-metacharacters
+title: Understanding Bash Metacharacters
+description: Explore Bash metacharacters and their meanings with usage examples to
+  enhance your scripting skills.
+created: '2023-03-05'
+last_update: '2025-12-16'
+---
+
 # Bash Metacharacters
 
 | **Symbol:** | **Meaning and Usage examples:**                                                                                                                                                                                                                                                                                                                                                                                                                                    |

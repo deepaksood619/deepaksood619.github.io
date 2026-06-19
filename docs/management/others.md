@@ -1,4 +1,11 @@
-# Others
+---
+slug: /management/others
+title: Others
+description: Learn how to leverage SWOT analysis to identify strengths, weaknesses,
+  opportunities, and threats for effective business planning and strategic decision-making.
+created: '2023-03-05'
+last_update: '2025-06-14'
+---
 
 ## SWOT Analysis
 

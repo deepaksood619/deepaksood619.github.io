@@ -1,4 +1,11 @@
-# Create Table
+---
+slug: /languages/sql/ddl-data-definition-language/create-table
+title: Create Table
+description: Learn how to create SQL tables with various data types and structure
+  commands to manage and store your data effectively.
+created: '2023-03-05'
+last_update: '2026-06-17'
+---
 
 ## CREATE TABLE
 

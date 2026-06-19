@@ -1,11 +1,12 @@
 ---
-title: Conversational Reminder & Follow-up Assistant
-domain: productivity | personal-ai | communication
-status: ideation
-priority: medium
-last_updated: 2026-06-18
-tags: [reminders, ai-assistant, whatsapp, voice, todo, personal-crm, follow-up, notifications]
+slug: /ideas/conversational-reminder-assistant
+title: Intelligent Conversational Reminder Assistant
+description: Effortlessly manage your reminders and tasks using natural language with
+  our powerful conversational reminder assistant.
+created: '2026-06-19'
+last_update: '2026-06-19'
 ---
+
 > "Remind me to call Rahul tomorrow at 6pm" — typed into WhatsApp or spoken as a voice note — and the assistant handles everything.
 
 ## Problem Statement

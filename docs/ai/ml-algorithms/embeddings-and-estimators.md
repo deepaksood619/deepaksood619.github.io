@@ -1,4 +1,11 @@
-# Embeddings & Estimators
+---
+slug: /ai/ml-algorithms/embeddings-and-estimators
+title: Embeddings & Estimators
+description: Explore embeddings and custom estimators to enhance machine learning
+  model efficiency, manage sparse data, and improve accuracy with reduced dimensionality.
+created: '2023-03-05'
+last_update: '2025-02-14'
+---
 
 - Embeddings
 - Custom Estimators

@@ -1,3 +1,12 @@
+---
+slug: /data-warehouses/concepts/debezium
+title: Debezium Change Data Capture
+description: Explore Debezium, the open source platform for change data capture, enabling
+  real-time data synchronization and event processing.
+created: '2024-01-15'
+last_update: '2026-04-28'
+---
+
 # Debezium
 
 Debezium is an open source distributed platform for change data capture. Start it up, point it at your databases, and your apps can start responding to all of the inserts, updates, and deletes that other apps commit to your databases. Debezium is durable and fast, so your apps can respond quickly and never miss an event, even when things go wrong.

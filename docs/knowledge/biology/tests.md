@@ -1,4 +1,11 @@
-# Tests
+---
+slug: /knowledge/biology/tests
+title: Tests
+description: Discover essential health tests like fasting lipid profiles and blood
+  pressure checks to monitor your well-being—stay informed and healthy today!
+created: '2025-06-22'
+last_update: '2025-06-22'
+---
 
 ![image](../../media/Diseases-Tests-image1.jpg)
 

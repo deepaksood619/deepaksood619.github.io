@@ -1,3 +1,12 @@
+---
+slug: /computer-science/operating-system/parallel-processing
+title: Understanding Parallel Processing Types
+description: Explore the differences between Symmetric Multi-Processing (SMP) and
+  Massively Parallel Processing (MPP) in this comprehensive guide.
+created: '2023-03-05'
+last_update: '2024-12-19'
+---
+
 # Parallel Processing
 
 ## Parallel Processing, MPP (Massive Parallel Processing)

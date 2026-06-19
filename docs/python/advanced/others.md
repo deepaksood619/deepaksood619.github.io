@@ -1,3 +1,12 @@
+---
+slug: /python/advanced/others
+title: Understanding Mixins and Method Resolution
+description: Learn how method resolution works in Python with mixins and explore closures
+  and ensemble techniques for better programming.
+created: '2023-03-05'
+last_update: '2024-09-19'
+---
+
 # Others
 
 ## The priority of how methods are resolved is from left to right

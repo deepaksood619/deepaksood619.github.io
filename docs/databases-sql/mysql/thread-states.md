@@ -1,4 +1,11 @@
-# Thread States
+---
+slug: /databases-sql/mysql/thread-states
+title: Thread States
+description: Explore thread states in query processing, including table creation,
+  alteration, and analysis for effective MySQL server debugging and optimization.
+created: '2024-05-14'
+last_update: '2025-06-10'
+---
 
 The following list describes thread `State` values that are associated with general query processing and not more specialized activities such as replication. Many of these are useful only for finding bugs in the server.
 

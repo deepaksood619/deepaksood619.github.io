@@ -1,4 +1,11 @@
-# Others
+---
+slug: /decentralized-applications/ethereum/others
+title: Others
+description: Discover how Ethereum's scalability innovations, like rollups and proposer-builder
+  separation, enhance security while ensuring decentralized trust and censorship resistance.
+created: '2023-03-05'
+last_update: '2025-04-24'
+---
 
 ## [The Hitchhiker's Guide to Ethereum - Delphi Digital](https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum)
 

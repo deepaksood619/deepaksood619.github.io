@@ -1,4 +1,11 @@
-# Atomic Habits
+---
+slug: /book-summaries/personal-development/atomic-habits
+title: Atomic Habits
+description: Discover effective strategies in "Atomic Habits" by James Clear to build
+  good habits, break bad ones, and transform your life through small, actionable changes.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 By James Clear
 

@@ -1,3 +1,12 @@
+---
+slug: /computer-science/system-design/case-study/01-solution
+title: BNPL Strategy for Big Friendly Bank
+description: Explore Big Friendly Bank's strategic blueprint for adopting Buy Now,
+  Pay Later financing in the evolving financial services landscape.
+created: '2026-01-29'
+last_update: '2026-01-29'
+---
+
 # Solution
 
 **Big Friendly Bank: Architectural Blueprint for Real-Time Point-of-Sale Financing and Credit Decisioning**

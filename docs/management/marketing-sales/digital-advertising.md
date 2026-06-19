@@ -1,3 +1,12 @@
+---
+slug: /management/marketing-sales/digital-advertising
+title: Understanding Digital Advertising Models
+description: Explore key digital advertising pricing models like CPM, CPC, and CPV
+  to optimize your online campaigns effectively.
+created: '2024-12-18'
+last_update: '2025-04-29'
+---
+
 # Digital Advertising
 
 ## Pricing Models

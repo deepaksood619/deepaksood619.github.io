@@ -1,4 +1,11 @@
-# AWS Certified Cloud Practitioner (CCP)
+---
+slug: /courses/aws-certified-cloud-practitioner-ccp
+title: AWS Certified Cloud Practitioner (CCP)
+description: Elevate your cloud expertise with the AWS Certified Cloud Practitioner
+  (CCP) course, covering essential networking, security, and compliance topics.
+created: '2025-09-15'
+last_update: '2025-09-22'
+---
 
 CLF-02
 

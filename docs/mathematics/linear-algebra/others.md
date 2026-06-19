@@ -1,4 +1,11 @@
-# Others
+---
+slug: /mathematics/linear-algebra/others
+title: Others
+description: Explore key mathematical concepts such as matrix factorization, entropy,
+  and gradient descent to enhance your understanding of deep learning and data science.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
 
 ## Concepts
 

@@ -1,3 +1,12 @@
+---
+slug: /education/competitors/adaptive-ai-platforms/chatgpt-claude-learning-deep-research
+title: AI-Enhanced Learning with ChatGPT and Claude
+description: Explore the cognitive architecture transforming educational technology
+  through ChatGPT and Claude's dynamic learning systems.
+created: '2026-06-11'
+last_update: '2026-06-17'
+---
+
 # ChatGPT Claude Learning Deep Research
 
 **The Cognitive Architecture of AI-Assisted Learning: A Deep-Dive Analysis of ChatGPT and Claude Ecosystems**

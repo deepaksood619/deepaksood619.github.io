@@ -1,3 +1,12 @@
+---
+slug: /frontend/react/tools
+title: Essential Tools for TypeScript Development
+description: Discover key tools like TSDX, Prettier, and ESLint to simplify your TypeScript
+  and React app setup and enhance your development workflow.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # Tools
 
 [**https://medium.com/dubizzletechblog/setting-up-prettier-and-eslint-for-js-and-react-apps-bbc779d29062**](https://medium.com/dubizzletechblog/setting-up-prettier-and-eslint-for-js-and-react-apps-bbc779d29062)

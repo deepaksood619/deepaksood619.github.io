@@ -1,3 +1,12 @@
+---
+slug: /frontend/others/angularjs/08-metadata
+title: Understanding Angular Metadata
+description: Learn how Angular decorators attach essential metadata to classes, enhancing
+  functionality and organization in your applications.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # 8. Metadata
 
 Decorators are functions that modify JavaScript classes. Angular has many decorators that attach metadata to classes so that it knows what those classes mean and how they should work.

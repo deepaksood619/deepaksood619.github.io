@@ -1,3 +1,12 @@
+---
+slug: /computer-science/security/cryptography/readme
+title: Understanding Cryptography Concepts
+description: Explore essential cryptography concepts, algorithms, and techniques to
+  enhance your security knowledge and skills in the digital world.
+created: '2023-03-05'
+last_update: '2026-01-10'
+---
+
 # Cryptography
 
 - [Cryptography](computer-science/security/cryptography/intro.md)

@@ -1,3 +1,12 @@
+---
+slug: /education/technical/technical-feasibility-adaptive-platform
+title: 'Feasibility Study: Adaptive Learning Platform'
+description: Explore the highly feasible adaptive learning platform leveraging AI
+  for skill development and salary growth.
+created: '2026-05-05'
+last_update: '2026-06-08'
+---
+
 # Technical Feasibility: Adaptive Learning Platform
 
 - **Build Date:** 2026-05-05

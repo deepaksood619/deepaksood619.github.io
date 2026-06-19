@@ -1,3 +1,12 @@
+---
+slug: /frontend/react/react-router
+title: Understanding React Router Basics
+description: Explore React Router for efficient application routing with authentication,
+  validation, and component management for web and React Native.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # React Router
 
 This is of high significance as it's anentry point of your application. There can be several routes in your application and you would need functionalities like validation, authentication, redirection, etc. depending upon the requirement.

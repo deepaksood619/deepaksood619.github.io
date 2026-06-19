@@ -1,3 +1,12 @@
+---
+slug: /computer-science/operating-system/memory
+title: Understanding Memory Allocation Techniques
+description: Learn about stack and heap memory allocation, their differences, and
+  how they affect program execution.
+created: '2023-03-05'
+last_update: '2024-12-19'
+---
+
 # Memory
 
 ## Stack Allocation

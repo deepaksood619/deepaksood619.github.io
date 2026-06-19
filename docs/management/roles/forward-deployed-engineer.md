@@ -1,3 +1,12 @@
+---
+slug: /management/roles/forward-deployed-engineer
+title: Understanding Forward Deployed Engineers
+description: Discover the role of Forward Deployed Engineers in enhancing product
+  success within client environments.
+created: '2026-01-10'
+last_update: '2026-01-10'
+---
+
 # Forward Deployed Engineer (FDE)
 
 ## Core principle

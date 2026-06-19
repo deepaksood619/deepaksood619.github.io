@@ -1,3 +1,12 @@
+---
+slug: /computer-science/operating-system/caches-caching
+title: Understanding Caches and Caching
+description: Explore the fundamentals of caching, cache hits, eviction policies, and
+  why cache data cannot be the source of truth.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Caches / Caching
 
 ## Points to remeber about cache

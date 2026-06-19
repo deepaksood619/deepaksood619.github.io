@@ -1,3 +1,12 @@
+---
+slug: /devops/kubernetes/tools-scaling
+title: Kubernetes Scaling Tools Overview
+description: Explore essential Kubernetes scaling tools like Cluster Autoscaler and
+  Vertical Pod Autoscaler for optimal resource management.
+created: '2024-07-24'
+last_update: '2026-06-11'
+---
+
 # Kubernetes Scaling Tools
 
 ## Kubernetes Autoscaler

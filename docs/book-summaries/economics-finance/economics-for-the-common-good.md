@@ -1,4 +1,12 @@
-# Economics for the Common Good
+---
+slug: /book-summaries/economics-finance/economics-for-the-common-good
+title: Economics for the Common Good
+description: Explore Jean Tirole's insights on economics, biases, game theory, and
+  externalities, revealing how economic understanding shapes policy for the common
+  good.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 By Jean Tirole
 

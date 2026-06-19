@@ -1,3 +1,12 @@
+---
+slug: /data-warehouses/bigquery/others
+title: Public Datasets Overview
+description: Explore diverse public datasets including ERA5 climate data, Sentinel-2
+  satellite imagery, and NEXRAD weather data.
+created: '2025-05-25'
+last_update: '2025-06-10'
+---
+
 # Others
 
 ## Public Datasets

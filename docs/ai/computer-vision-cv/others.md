@@ -1,4 +1,11 @@
-# Others
+---
+slug: /ai/computer-vision-cv/others
+title: Others
+description: Discover the Viola-Jones object detection framework, known for its high
+  accuracy and real-time performance in reliable face detection applications.
+created: '2023-03-05'
+last_update: '2024-09-17'
+---
 
 Locally Linear Embedding
 

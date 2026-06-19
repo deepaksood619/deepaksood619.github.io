@@ -1,4 +1,11 @@
-# AWS Aurora
+---
+slug: /databases-sql/aws-aurora/intro
+title: AWS Aurora
+description: Discover Amazon Aurora, a high-performance managed relational database
+  compatible with MySQL and PostgreSQL, offering superior throughput and high availability.
+created: '2023-03-05'
+last_update: '2025-06-10'
+---
 
 For OLTP
 

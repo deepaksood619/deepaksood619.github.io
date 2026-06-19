@@ -1,4 +1,11 @@
-# TSQL / MSSQL Queries
+---
+slug: /languages/sql/tsql-mssql-queries
+title: TSQL / MSSQL Queries
+description: Explore TSQL/MSSQL queries to efficiently find the size and space usage
+  of tables, including data, index, and unused space metrics.
+created: '2025-06-09'
+last_update: '2025-06-10'
+---
 
 ## Find size of tables
 

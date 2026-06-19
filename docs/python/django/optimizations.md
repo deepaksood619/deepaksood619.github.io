@@ -1,3 +1,12 @@
+---
+slug: /python/django/optimizations
+title: Django Queryset Optimizations
+description: Discover effective optimization techniques for Django, including caching
+  strategies and best practices for working with querysets.
+created: '2024-11-21'
+last_update: '2024-12-12'
+---
+
 # Optimizations
 
 ## Caching

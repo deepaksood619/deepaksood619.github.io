@@ -1,3 +1,12 @@
+---
+slug: /computer-science/system-design/microservice-architecture/intro
+title: Understanding Microservice Architecture
+description: Explore microservice architecture, its benefits, and how it fosters independent
+  development and efficient business capabilities.
+created: '2023-03-05'
+last_update: '2025-04-20'
+---
+
 # Microservice Architecture
 
 ## What is microservices architecture?

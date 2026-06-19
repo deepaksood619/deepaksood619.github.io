@@ -1,3 +1,12 @@
+---
+slug: /management/project-management/project-contraints
+title: Project Management Constraints Explained
+description: Explore the Triple Constraint Triangle in project management, where budget,
+  deadlines, and scope impact quality and interrelate for effective project delivery.
+created: '2023-03-05'
+last_update: '2024-12-19'
+---
+
 # Project Contraints
 
 Triple Constraint Triangle (Iron Triangle of Project Management)

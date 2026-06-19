@@ -1,4 +1,11 @@
-# Poems
+---
+slug: /knowledge/quotes-proverbs/poems
+title: Poems
+description: Explore "The Cookie Thief" by Valerie Cox, a witty poem about patience,
+  surprise encounters, and the unexpected behavior of a cookie-stealing stranger.
+created: '2023-03-05'
+last_update: '2025-02-02'
+---
 
 ## The Cookie Thief by Valerie Cox
 

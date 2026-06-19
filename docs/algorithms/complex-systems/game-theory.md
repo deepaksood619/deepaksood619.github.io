@@ -1,3 +1,12 @@
+---
+slug: /algorithms/complex-systems/game-theory
+title: Understanding Game Theory Concepts
+description: Explore the key aspects of game theory, including cooperative and non-cooperative
+  games, and discover strategies like Nash Equilibrium and Shapley Value.
+created: '2023-03-05'
+last_update: '2024-09-08'
+---
+
 # Game Theory
 
 A Game is any interaction between multiple people in which each person's payoff is affected by the decisions made by others.

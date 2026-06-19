@@ -1,4 +1,12 @@
-# Masonite
+---
+slug: /languages/frameworks/masonite
+title: Masonite
+description: Discover Masonite, the modern Python web framework designed for developers,
+  offering out-of-the-box functionality and an extendable architecture for seamless
+  web application creation.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
 
 The Modern And Developer Centric Python Web Framework.
 

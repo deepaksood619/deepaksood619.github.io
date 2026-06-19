@@ -1,4 +1,11 @@
-# Graph Neural Networks (GNN)
+---
+slug: /ai/ml-algorithms/graph-neural-networks-gnn
+title: Graph Neural Networks (GNN)
+description: Explore the complexities of Graph Neural Networks (GNN) and learn why
+  analyzing graph data poses unique challenges compared to traditional datasets.
+created: '2023-03-05'
+last_update: '2025-08-02'
+---
 
 ## Why Is a Graph Difficult To Analyze?
 

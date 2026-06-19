@@ -1,4 +1,11 @@
-# Lambda Expressions
+---
+slug: /languages/java/lambda-expressions
+title: Lambda Expressions
+description: Discover lambda expressions, unnamed functions that simplify code with
+  concise syntax for handling parameters and return values in programming.
+created: '2023-03-05'
+last_update: '2023-12-06'
+---
 
 A lambda expression is an unnamed function with parameters and a body.
 

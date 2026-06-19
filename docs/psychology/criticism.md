@@ -1,4 +1,11 @@
-# Criticism / Criticizing / Criticize / Critic
+---
+slug: /psychology/criticism
+title: Criticism / Criticizing / Criticize / Critic
+description: Discover effective strategies for handling criticism, understanding different
+  types of critics, and turning feedback into constructive insights for growth.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
 
 [How to Handle Criticism, Hate and Disrespect?](https://www.youtube.com/watch?v=fnO6UfeplxE)
 

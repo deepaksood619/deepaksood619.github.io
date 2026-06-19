@@ -1,4 +1,11 @@
-# Configurations
+---
+slug: /languages/php/codeigniter/configurations
+title: Configurations
+description: Discover how to configure your CodeIgniter database for different environments
+  with easy-to-follow multidimensional array settings in application/config/database.php.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
 
 The database of the site can be configured in application/config/database.php file. Often we need to set up database for different environment like development and production. With the multidimensional array provided in the CodeIgniter, we can setup database for different environment. The configuration settings are stored in the array as shown below −
 

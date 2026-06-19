@@ -1,11 +1,12 @@
 ---
-title: IIT Madras Online BS Degree in Data Science and Applications
-institution: Indian Institute of Technology Madras
-year_launched: 2019
-source: https://study.iitm.ac.in/ds/
-type: competitor-analysis
-tags: [online-education, data-science, india, higher-education, iit]
+slug: /education/competitors/india-edtech/iit-madras-online-bs-degree
+title: IIT Madras Online BS Degree
+description: Enroll in India's first online BS degree from IIT Madras, specializing
+  in Data Science and Applications, with global recognition and flexibility.
+created: '2026-05-30'
+last_update: '2026-06-08'
 ---
+
 ## IIT Madras Online BS Degree in Data Science and Applications
 
 ## Overview

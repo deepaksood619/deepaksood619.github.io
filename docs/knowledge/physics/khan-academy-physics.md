@@ -1,4 +1,11 @@
-# Khan Academy Physics
+---
+slug: /knowledge/physics/khan-academy-physics
+title: Khan Academy Physics
+description: Explore Khan Academy Physics for comprehensive lessons on motion, forces,
+  energy, thermodynamics, electricity, magnetism, and more, ideal for all learners.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
 
 1. One-dimensional motion
 2. Two-dimensional motion

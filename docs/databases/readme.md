@@ -1,4 +1,11 @@
-# Databases
+---
+slug: /databases/readme
+title: Databases
+description: Explore essential concepts, indexing, and modeling in databases, including
+  SQL, NoSQL, and cloud options like Amazon Aurora and DynamoDB.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
 
 - [Concepts](databases/concepts/readme.md)
 - [Indexing](indexing/readme.md)

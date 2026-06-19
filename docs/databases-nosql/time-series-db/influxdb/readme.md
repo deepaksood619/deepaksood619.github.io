@@ -1,4 +1,11 @@
-# InfluxDB
+---
+slug: /databases-nosql/time-series-db/influxdb/readme
+title: InfluxDB
+description: Discover InfluxDB, a high-performance time series database optimized
+  for efficient data storage and retrieval through in-memory indexing of tag sets.
+created: '2023-03-05'
+last_update: '2025-06-10'
+---
 
 Tag sets are indexed, field sets are not. InfluxDB's speed is based on the fact that tag sets are stored in-memory, whereas the field sets are stored on-disk.
 

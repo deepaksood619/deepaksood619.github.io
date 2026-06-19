@@ -1,3 +1,12 @@
+---
+slug: /python/django/advanced
+title: Advanced Django Techniques
+description: Explore advanced Django concepts like atomic transactions, custom related
+  names, and decorators for improved application development.
+created: '2023-03-05'
+last_update: '2025-11-01'
+---
+
 # Advanced
 
 1. Atomic Transactions

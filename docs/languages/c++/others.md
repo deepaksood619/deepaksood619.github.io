@@ -1,4 +1,12 @@
-# Others
+---
+slug: /languages/c++/others
+title: Others
+description: Explore key programming concepts like Log2 utility functions and RAII,
+  a vital idiom connecting resource management to object lifetimes in object-oriented
+  languages.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
 
 ## Log2
 

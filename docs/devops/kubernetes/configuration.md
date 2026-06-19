@@ -1,3 +1,12 @@
+---
+slug: /devops/kubernetes/configuration
+title: Kubernetes Configuration Overview
+description: Explore Pod priority, preemption, and how to securely manage Secrets
+  with Sealed Secrets in Kubernetes.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Configuration
 
 ## Pod Priority and Preemtion

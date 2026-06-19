@@ -1,4 +1,11 @@
-# Life / Relationship / People
+---
+slug: /psychology/life-relationship-people
+title: Life / Relationship / People
+description: Discover the significance of kindness, trust, and thoughtful communication
+  in nurturing better relationships and understanding among people.
+created: '2023-03-05'
+last_update: '2026-06-18'
+---
 
 When working with people, assume good intentions.
 

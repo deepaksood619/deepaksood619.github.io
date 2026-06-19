@@ -1,4 +1,11 @@
-# The power of Concentration
+---
+slug: /book-summaries/productivity/the-power-of-concentration
+title: The power of Concentration
+description: Discover the transformative power of concentration to achieve peace of
+  mind, control your thoughts, and embrace positivity for personal success.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 By Thereon Q Dumont
 

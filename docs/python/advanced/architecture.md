@@ -1,3 +1,12 @@
+---
+slug: /python/advanced/architecture
+title: Understanding Python Architecture
+description: Explore how the Python interpreter processes code, from syntax checking
+  to Byte code translation and execution by the Python Virtual Machine.
+created: '2023-03-05'
+last_update: '2024-01-12'
+---
+
 # Architecture
 
 ## Working

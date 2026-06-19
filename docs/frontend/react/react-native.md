@@ -1,3 +1,12 @@
+---
+slug: /frontend/react/react-native
+title: React Native Overview and Tools
+description: Discover Expo and Interaction Manager in React Native, essential tools
+  for efficient app development and user interaction management.
+created: '2023-03-05'
+last_update: '2026-03-27'
+---
+
 # React Native
 
 ## Expo

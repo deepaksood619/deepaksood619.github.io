@@ -1,4 +1,11 @@
-# Crypto News
+---
+slug: /decentralized-applications/crypto-news
+title: Crypto News
+description: Stay updated with the latest crypto news, including trends in Bitcoin,
+  crypto winter analysis, and insights from top industry reports and sources.
+created: '2023-03-05'
+last_update: '2024-02-08'
+---
 
 - crypto winter
 - [Bitcoin Obituaries - "Bitcoin is Dead" Declared 400+ Times](https://99bitcoins.com/bitcoin-obituaries/)

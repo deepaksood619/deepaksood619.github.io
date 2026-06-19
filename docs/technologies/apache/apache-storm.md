@@ -1,3 +1,12 @@
+---
+slug: /technologies/apache/apache-storm
+title: Understanding Apache Storm Framework
+description: Explore Apache Storm, a powerful stream processing framework designed
+  for low-latency, near real-time data processing workflows.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # Apache Storm
 
 Apache Storm

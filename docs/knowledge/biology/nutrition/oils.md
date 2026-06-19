@@ -1,4 +1,11 @@
-# Oils
+---
+slug: /knowledge/biology/nutrition/oils
+title: Oils
+description: Discover the different types of oils, their processing methods, and the
+  health impacts of popular options like olive, mustard, and coconut oil.
+created: '2025-02-26'
+last_update: '2025-03-27'
+---
 
 ## Processing
 

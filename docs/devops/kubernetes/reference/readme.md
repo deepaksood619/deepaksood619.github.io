@@ -1,3 +1,12 @@
+---
+slug: /devops/kubernetes/reference/readme
+title: Understanding Kubernetes Admission Controllers
+description: Explore the role of admission controllers in Kubernetes and learn about
+  MutatingAdmissionWebhook and ValidatingAdmissionWebhook.
+created: '2023-03-05'
+last_update: '2024-07-05'
+---
+
 # Reference
 
 ## Admission Controllers

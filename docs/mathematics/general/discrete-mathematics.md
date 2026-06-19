@@ -1,4 +1,12 @@
-# Discrete Mathematics
+---
+slug: /mathematics/general/discrete-mathematics
+title: Discrete Mathematics
+description: Explore discrete mathematics, focusing on non-continuous structures like
+  integers, graphs, and logical statements, essential for computer science and advanced
+  mathematics.
+created: '2023-03-05'
+last_update: '2024-12-18'
+---
 
 Discrete mathematicsis the study of [mathematical structures](https://en.wikipedia.org/wiki/Mathematical_structures) that are fundamentally [discrete](https://en.wikipedia.org/wiki/Discrete_space) rather than [continuous](https://en.wikipedia.org/wiki/Continuous_function). In contrast to [real numbers](https://en.wikipedia.org/wiki/Real_number) that have the property of varying "smoothly", the objects studied in discrete mathematics -- such as [integers](https://en.wikipedia.org/wiki/Integer), [graphs](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)), and [statements](https://en.wikipedia.org/wiki/Statement_(logic)) in [logic](https://en.wikipedia.org/wiki/Mathematical_logic)-- do not vary smoothly in this way, but have distinct, separated values.Discrete mathematics therefore excludes topics in "continuous mathematics" such as [calculus](https://en.wikipedia.org/wiki/Calculus) or [Euclidean geometry](https://en.wikipedia.org/wiki/Euclidean_geometry). Discrete objects can often be [enumerated](https://en.wikipedia.org/wiki/Enumeration) by integers. More formally, discrete mathematics has been characterized as the branch of mathematics dealing with [countable sets](https://en.wikipedia.org/wiki/Countable_set)(finite sets or sets with the same [cardinality](https://en.wikipedia.org/wiki/Cardinality) as the natural numbers). However, there is no exact definition of the term "discrete mathematics."Indeed, discrete mathematics is described less by what is included than by what is excluded: continuously varying quantities and related notions.
 

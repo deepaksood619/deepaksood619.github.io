@@ -1,4 +1,11 @@
-# Computer Vision
+---
+slug: /ai/computer-vision-cv/readme
+title: Computer Vision
+description: Explore the fundamentals of computer vision, including pre-trained models,
+  CNNs, image labeling tools, and essential libraries to enhance your AI projects.
+created: '2023-03-05'
+last_update: '2024-09-19'
+---
 
 - [Computer Vision (CV) Intro](ai/computer-vision-cv/intro.md)
 - [Pre-Trained Models](ai/computer-vision-cv/pre-trained-models.md)

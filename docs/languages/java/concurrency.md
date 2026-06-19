@@ -1,4 +1,11 @@
-# Concurrency
+---
+slug: /languages/java/concurrency
+title: Concurrency
+description: Explore concurrency, concurrent modification, and fail-fast iterators
+  to understand how structural changes in collections can lead to exceptions.
+created: '2023-03-05'
+last_update: '2025-06-14'
+---
 
 ## Concurrent Modification
 

@@ -1,4 +1,11 @@
-# Cube Cutting
+---
+slug: /mathematics/aptitude/cube-cutting
+title: Cube Cutting
+description: Discover the fundamentals of cube cutting, including formulas for cubes
+  and cuboids, and learn how to calculate painted versus unpainted smaller cubes.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
 
 Concepts -
 

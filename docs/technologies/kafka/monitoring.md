@@ -1,3 +1,12 @@
+---
+slug: /technologies/kafka/monitoring
+title: Essential Kafka Monitoring Tools
+description: Explore key tools for monitoring and managing Kafka, including Kafka
+  Manager, Burrow, and Kafka-UI, to optimize your data streaming.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # Monitoring
 
 ## Monitoring / Management Tools

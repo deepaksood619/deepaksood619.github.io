@@ -1,3 +1,12 @@
+---
+slug: /technologies/kafka/kafka-python
+title: 'Kafka-Python Overview: Consumer and Producer'
+description: Explore the kafka-python library for Apache Kafka, including consumer
+  iterators and high-level producers for efficient stream processing.
+created: '2023-03-05'
+last_update: '2026-05-30'
+---
+
 # kafka-python
 
 Python client for the Apache Kafka distributed stream processing system. (consumer iterators)

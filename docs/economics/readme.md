@@ -1,4 +1,11 @@
-# Economics & Finance
+---
+slug: /economics/readme
+title: Economics & Finance
+description: Explore our comprehensive guide on economics and finance, covering theory,
+  investing, and personal financial planning for informed decision-making.
+created: '2023-03-05'
+last_update: '2026-06-16'
+---
 
 Comprehensive knowledge base covering economic theory, finance, investing, and personal financial planning.
 

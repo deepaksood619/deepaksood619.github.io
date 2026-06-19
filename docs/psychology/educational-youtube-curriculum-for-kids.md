@@ -1,4 +1,11 @@
-# Educational YouTube Curriculum For Kids
+---
+slug: /psychology/educational-youtube-curriculum-for-kids
+title: Educational YouTube Curriculum For Kids
+description: Discover a year-long educational YouTube curriculum for kids that fosters
+  cognitive and linguistic development through intentional media consumption.
+created: '2026-05-19'
+last_update: '2026-05-19'
+---
 
 **Strategic Implementation of Educational Digital Media for Cognitive and Linguistic Development: A Year-Long Curriculum Framework**
 

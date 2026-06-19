@@ -1,4 +1,11 @@
-# Near Protocol
+---
+slug: /decentralized-applications/coins-tokens-chains/near-protocol
+title: Near Protocol
+description: Discover NEAR Protocol, a powerful layer-one blockchain designed for
+  seamless DApps with enhanced speed, interoperability, and user-friendly features.
+created: '2023-07-10'
+last_update: '2025-02-14'
+---
 
 ## What Is NEAR Protocol (NEAR)?
 

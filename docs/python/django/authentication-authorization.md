@@ -1,3 +1,12 @@
+---
+slug: /python/django/authentication-authorization
+title: Customizing Django Authentication
+description: Learn how to customize authentication and authorization in Django, including
+  custom backends and user model extensions.
+created: '2024-09-12'
+last_update: '2026-03-27'
+---
+
 # Authentication / Authorization
 
 https://docs.djangoproject.com/en/1.11/topics/auth/customizing

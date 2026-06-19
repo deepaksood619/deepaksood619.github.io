@@ -1,3 +1,12 @@
+---
+slug: /python/python-intro/data-structure/dict-evolution
+title: Evolution of Python Dictionaries
+description: Explore the advancements in Python dictionaries from version 2.7 to 3.6,
+  including data structures and performance optimizations.
+created: '2023-03-05'
+last_update: '2023-06-26'
+---
+
 # Dict Evolution
 
 Python2.7 - Scambled (dict_size = 280)

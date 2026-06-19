@@ -1,3 +1,12 @@
+---
+slug: /technologies/flink/challenges
+title: Data Processing Challenges in Streaming Ingestion
+description: Explore challenges in small file generation and partition skew during
+  real-time data streaming and ingestion.
+created: '2025-12-15'
+last_update: '2026-01-21'
+---
+
 # Challenges
 
 ## Small file generation

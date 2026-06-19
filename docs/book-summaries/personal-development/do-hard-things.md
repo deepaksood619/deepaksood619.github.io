@@ -1,4 +1,11 @@
-# Do Hard Things
+---
+slug: /book-summaries/personal-development/do-hard-things
+title: Do Hard Things
+description: Explore tough challenges with Steve Magness as he blends traditional
+  and scientific toughness to promote resilience, mental strength, and personal growth.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 By Steve Magness
 

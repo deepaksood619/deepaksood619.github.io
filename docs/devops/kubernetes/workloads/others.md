@@ -1,3 +1,12 @@
+---
+slug: /devops/kubernetes/workloads/others
+title: Understanding Pod Disruption Budgets
+description: Learn how PodDisruptionBudget (PDB) helps maintain application availability
+  by controlling pod disruptions in Kubernetes.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Others
 
 ## Disruptions

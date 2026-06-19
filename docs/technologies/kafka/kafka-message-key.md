@@ -1,3 +1,12 @@
+---
+slug: /technologies/kafka/kafka-message-key
+title: Understanding Kafka Message Key
+description: Learn about Kafka message keys, their role in partitioning, message order,
+  and efficient load distribution in Kafka topics.
+created: '2026-01-02'
+last_update: '2026-01-25'
+---
+
 # Kafka Message Key
 
 Kafka message key is crucial for partitioning, ensuring message order, and distributing load.

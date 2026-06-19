@@ -1,4 +1,11 @@
-# Data Analysis
+---
+slug: /ai/data-science/data-analysis
+title: Data Analysis
+description: Explore data analysis techniques, including data cleansing and exploratory
+  methods, to extract valuable insights and enhance decision-making processes.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
 
 https://www.freecodecamp.org/learn/data-analysis-with-python
 

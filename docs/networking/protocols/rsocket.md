@@ -1,3 +1,12 @@
+---
+slug: /networking/protocols/rsocket
+title: Understanding RSocket Protocol
+description: Explore RSocket, a binary protocol enabling advanced message passing
+  across various transports for efficient communication.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Rsocket
 
 RSocket is a binary protocol for use on byte stream transports such as TCP, WebSockets, and Aeron.

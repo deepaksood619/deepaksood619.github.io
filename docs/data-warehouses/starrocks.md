@@ -1,4 +1,11 @@
-# StarRocks
+---
+slug: /data-warehouses/starrocks
+title: StarRocks
+description: Discover StarRocks, the fast open query engine delivering sub-second
+  analytics with standard SQL support for efficient data analysis on your lakehouse.
+created: '2025-04-20'
+last_update: '2026-03-27'
+---
 
 StarRocks is the world's fastest open query engine for sub-second, ad-hoc analytics both on and off the data lakehouse. With average query performance 3x faster than other popular alternatives, StarRocks is a query engine that eliminates the need for denormalization and adapts to your use cases, without having to move your data or rewrite SQL. A Linux Foundation project.
 

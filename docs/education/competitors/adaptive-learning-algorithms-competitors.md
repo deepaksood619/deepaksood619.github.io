@@ -1,3 +1,12 @@
+---
+slug: /education/competitors/adaptive-learning-algorithms-competitors
+title: Competitive Analysis of Adaptive Learning Algorithms
+description: Explore the landscape of adaptive learning platforms and discover the
+  key players leveraging true algorithms for personalized education.
+created: '2026-06-06'
+last_update: '2026-06-08'
+---
+
 # Adaptive Learning Algorithms Competitors - Deep Analysis
 
 **Date:** 2026-06-06

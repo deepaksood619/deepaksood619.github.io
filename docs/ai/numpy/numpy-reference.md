@@ -1,4 +1,12 @@
-# NumPy Reference
+---
+slug: /ai/numpy/numpy-reference
+title: NumPy Reference
+description: Explore the comprehensive NumPy Reference for detailed insights on array
+  objects, ndarrays, indexing, data types, and more to enhance your data analysis
+  skills.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
 
 - [**Array objects**](https://docs.scipy.org/doc/numpy/reference/arrays.html)
     - [The N-dimensional array (**ndarray**)](https://docs.scipy.org/doc/numpy/reference/arrays.ndarray.html)

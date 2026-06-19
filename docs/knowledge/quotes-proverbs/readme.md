@@ -1,4 +1,11 @@
-# Quotes Proverbs
+---
+slug: /knowledge/quotes-proverbs/readme
+title: Quotes Proverbs
+description: Discover a diverse collection of inspiring quotes and proverbs on life,
+  motivation, business, finance, and more to enrich your thoughts and ideas.
+created: '2023-03-05'
+last_update: '2026-01-10'
+---
 
 - [Life](life)
 - [Habits](habits)

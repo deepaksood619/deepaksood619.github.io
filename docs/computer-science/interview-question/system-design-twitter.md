@@ -1,3 +1,12 @@
+---
+slug: /computer-science/interview-question/system-design-twitter
+title: System Design Overview for Twitter
+description: Learn how to design Twitter's architecture, explore core features, and
+  prepare for software engineering interviews with insightful resources.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # System Design - Twitter
 
 [System Design: How to design Twitter? Interview question at Facebook, Google, Microsoft](https://www.youtube.com/watch?v=KmAyPUv9gOY)

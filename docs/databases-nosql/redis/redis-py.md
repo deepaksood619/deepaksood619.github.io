@@ -1,4 +1,11 @@
-# redis-py
+---
+slug: /databases-nosql/redis/redis-py
+title: redis-py
+description: Discover how to check pending lists in Redis using redis-py, installation
+  steps, and essential code snippets for efficient message queue management.
+created: '2023-03-05'
+last_update: '2025-06-10'
+---
 
 ### check pending list in redis
 

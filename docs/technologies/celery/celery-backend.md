@@ -1,3 +1,12 @@
+---
+slug: /technologies/celery/celery-backend
+title: 'Choosing a Celery Backend: Redis vs RabbitMQ'
+description: Explore the pros and cons of Redis and RabbitMQ backends for Celery to
+  determine the best fit for your messaging needs.
+created: '2024-05-31'
+last_update: '2024-12-12'
+---
+
 # Celery Backend
 
 ## Redis Backend

@@ -1,4 +1,11 @@
-# Coursera - Algorithms Part - 2
+---
+slug: /courses/coursera-algorithms-part-2
+title: Coursera - Algorithms Part - 2
+description: Enhance your algorithm skills with Coursera's Algorithms Part 2 course,
+  covering graph theory, depth-first search, minimum spanning trees, and more.
+created: '2023-03-05'
+last_update: '2024-02-01'
+---
 
 https://www.coursera.org/learn/algorithms-part2
 

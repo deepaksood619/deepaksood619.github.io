@@ -1,3 +1,12 @@
+---
+slug: /computer-science/programming-paradigms/behavioral-observer
+title: Understanding the Observer Pattern
+description: Learn about the observer pattern in software design, its implementation,
+  and real-world examples like social media notifications.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Behavioral - Observer
 
 The observer pattern is a software design pattern in which an object, called the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods.

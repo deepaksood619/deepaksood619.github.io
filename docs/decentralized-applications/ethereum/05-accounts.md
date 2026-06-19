@@ -1,4 +1,11 @@
-# Ethereum Accounts
+---
+slug: /decentralized-applications/ethereum/05-accounts
+title: Ethereum Accounts
+description: Discover Ethereum accounts, including externally-owned and contract accounts,
+  their functionalities, and how to store, send, and receive ETH securely.
+created: '2023-03-05'
+last_update: '2025-04-27'
+---
 
 Where ETH is stored. Users can initialize accounts, deposit ETH into the accounts, and transfer ETH from their accounts to other users. Accounts and account balances are stored in a big table in the EVM; they are a part of the overall EVM state.
 

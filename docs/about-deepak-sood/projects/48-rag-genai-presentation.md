@@ -1,3 +1,12 @@
+---
+slug: /about-deepak-sood/projects/48-rag-genai-presentation
+title: RAG and GenAI Presentation Overview
+description: Explore essential GenAI concepts and RAG techniques for developers at
+  the TFUG Ghaziabad meetup.
+created: '2024-07-30'
+last_update: '2026-06-18'
+---
+
 # RAG / GenAI Presentation
 
 TFUG - TensorFlow User Group Ghaziabad

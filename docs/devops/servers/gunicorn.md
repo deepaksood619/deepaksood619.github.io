@@ -1,3 +1,12 @@
+---
+slug: /devops/servers/gunicorn
+title: Introduction to Gunicorn Server
+description: Learn about Gunicorn, a lightweight, resource-efficient server for Python
+  applications, and its recommended worker configuration.
+created: '2023-03-05'
+last_update: '2026-03-27'
+---
+
 # Gunicorn
 
 [Gunicorn](http://gunicorn.org/) was inspired by Ruby's Unicorn server (hence the name). It modestly claims that it is "simply implemented, light on server resources, and fairly speedy." Unlike Bjoern and CerryPy, Gunicorn is a standalone server. "WORKER_COUNT" was set to be **twice the number of available of processors, plus one**. This was based on a recommendation from Gunicorn's documentation.

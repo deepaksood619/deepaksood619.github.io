@@ -1,4 +1,11 @@
-# Characteristics
+---
+slug: /ai/big-data/characteristics
+title: Characteristics
+description: 'Explore the key characteristics of Big Data: volume, variety, and velocity,
+  which shape its analysis, insights, and potential value in various fields.'
+created: '2023-11-18'
+last_update: '2024-02-26'
+---
 
 Big Data includes huge volume, high velocity, and extensible variety of data.
 

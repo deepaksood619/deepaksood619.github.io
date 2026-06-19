@@ -1,3 +1,12 @@
+---
+slug: /python/python-intro/data-structure/tuples
+title: Understanding Tuples in Python
+description: Learn the key properties of tuples, how to create them, and methods to
+  sort a list of tuples in Python.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # Tuples
 
 ## Properties

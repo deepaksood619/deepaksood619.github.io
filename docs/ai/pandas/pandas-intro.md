@@ -1,4 +1,11 @@
-# Pandas Intro
+---
+slug: /ai/pandas/pandas-intro
+title: Pandas Intro
+description: Discover the essentials of the Pandas library in Python, including DataFrame
+  concatenation, merging, and options for effective data analysis.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
 
 Pandas is an open-source, BSD-licensed Python library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
 

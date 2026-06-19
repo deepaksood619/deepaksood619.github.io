@@ -1,4 +1,12 @@
-# Architecture
+---
+slug: /databases-nosql/druid/architecture
+title: Architecture
+description: Discover Druid's cloud-friendly, multi-process architecture that offers
+  flexible scaling, enhanced fault tolerance, and efficient handling of historical
+  data queries.
+created: '2023-03-05'
+last_update: '2025-06-10'
+---
 
 Druid has a multi-process, distributed architecture that is designed to be cloud-friendly and easy to operate. Each Druid process type can be configured and scaled independently, giving you maximum flexibility over your cluster. This design also provides enhanced fault tolerance: an outage of one component will not immediately affect other components.
 

@@ -1,3 +1,12 @@
+---
+slug: /technologies/apache-spark/11-built-in-functions
+title: Essential PySpark Built-In Functions
+description: Explore key PySpark built-in functions like when(), expr(), and lit()
+  for efficient DataFrame manipulation and data processing.
+created: '2023-03-16'
+last_update: '2024-12-12'
+---
+
 # Built-In Functions
 
 - [PySpark - when()](https://sparkbyexamples.com/pyspark/pyspark-when-otherwise/)

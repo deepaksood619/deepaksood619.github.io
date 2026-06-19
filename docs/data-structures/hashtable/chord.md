@@ -1,3 +1,12 @@
+---
+slug: /data-structures/hashtable/chord
+title: Understanding Chord Protocol
+description: Explore the Chord protocol, a key algorithm for peer-to-peer distributed
+  hash tables in computing. Learn how it assigns keys to nodes.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Chord
 
 In [computing](https://en.wikipedia.org/wiki/Computing), Chordis a protocol and [algorithm](https://en.wikipedia.org/wiki/Algorithm) for a [peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer)[distributed hash table](https://en.wikipedia.org/wiki/Distributed_hash_table). A distributed hash table stores [key-value pairs](https://en.wikipedia.org/wiki/Associative_array) by assigning keys to different computers (known as "nodes"); a node will store the values for all the keys for which it is responsible. Chord specifies how keys are assigned to nodes, and how a node can discover the value for a given key by first locating the node responsible for that key.

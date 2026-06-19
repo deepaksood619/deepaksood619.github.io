@@ -1,4 +1,11 @@
-# Ideals / Dreams
+---
+slug: /about-deepak-sood/ideals-dreams
+title: Ideals / Dreams
+description: Explore the balance of dreams and financial wisdom with insights on smart
+  investments, personal growth, and affirmations for a fulfilling life.
+created: '2025-02-26'
+last_update: '2026-06-16'
+---
 
 Aim for the moon; even if you miss, you’ll land among the stars.
 

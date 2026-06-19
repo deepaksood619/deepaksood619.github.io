@@ -1,3 +1,12 @@
+---
+slug: /devops/kubernetes/workloads/readme
+title: Understanding Kubernetes Workloads
+description: Explore Pods and Controllers in Kubernetes, including their lifecycle,
+  types, and management techniques for efficient resource utilization.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # Workloads
 
 1. Pods

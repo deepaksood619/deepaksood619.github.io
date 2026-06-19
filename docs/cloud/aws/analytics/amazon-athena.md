@@ -1,4 +1,11 @@
-# Amazon Athena
+---
+slug: /cloud/aws/analytics/amazon-athena
+title: Amazon Athena
+description: Amazon Athena is a serverless interactive query service for analyzing
+  data in Amazon S3 using standard SQL, delivering rapid results without complex ETL.
+created: '2023-03-05'
+last_update: '2026-04-28'
+---
 
 **Based on Presto**
 

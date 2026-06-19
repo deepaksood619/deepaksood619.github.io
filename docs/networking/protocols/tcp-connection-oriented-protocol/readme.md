@@ -1,3 +1,12 @@
+---
+slug: /networking/protocols/tcp-connection-oriented-protocol/readme
+title: Understanding TCP Connection Protocol
+description: Explore TCP, the Connection Oriented Protocol, and learn how it reliably
+  transfers data with a three-way handshake.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
+
 # TCP (Connection Oriented Protocol)
 
 TCP stands for transmission control protocol. It is implemented in the transport layer of the IP/TCP model and is used to establish reliable connections.

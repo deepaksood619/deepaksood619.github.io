@@ -1,3 +1,12 @@
+---
+slug: /frontend/react/react-dom
+title: Understanding React DOM and Virtual DOM
+description: Learn how React DOM enhances web development by optimizing browser updates
+  through the use of a virtual DOM.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # React DOM
 
 ## What is DOM?

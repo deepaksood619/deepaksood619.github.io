@@ -1,4 +1,11 @@
-# GCP
+---
+slug: /cloud/gcp/readme
+title: GCP
+description: Explore Google Cloud Platform (GCP) services like Anthos, BigQuery, and
+  ML Services to enhance your cloud solutions and get certified for success.
+created: '2025-11-09'
+last_update: '2026-02-27'
+---
 
 - [Google Cloud Platform (GCP)](cloud/gcp/gcp-google-cloud-platform.md)
 - [Anthos](cloud/gcp/gcp-anthos.md)

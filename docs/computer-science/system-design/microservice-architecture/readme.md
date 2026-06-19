@@ -1,3 +1,12 @@
+---
+slug: /computer-science/system-design/microservice-architecture/readme
+title: Understanding Microservice Architecture
+description: Explore the fundamentals, design patterns, and examples of microservice
+  architecture for scalable application development.
+created: '2023-03-05'
+last_update: '2026-04-15'
+---
+
 # Microservice Architecture
 
 - [Mircroservice Architecture](computer-science/system-design/microservice-architecture/intro.md)

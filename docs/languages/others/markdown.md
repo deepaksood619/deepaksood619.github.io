@@ -1,4 +1,11 @@
-# Markdown
+---
+slug: /languages/others/markdown
+title: Markdown
+description: Learn how to style text for the web using Markdown, including formatting
+  options like bold, italics, headers, and lists for enhanced document presentation.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
 
 Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
 

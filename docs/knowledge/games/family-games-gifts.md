@@ -1,4 +1,11 @@
-# Family Games / Gifts
+---
+slug: /knowledge/games/family-games-gifts
+title: Family Games / Gifts
+description: Discover fun family games and gifts, perfect for game nights with kids
+  and couples, including classic card games, charades, and engaging activities.
+created: '2023-03-05'
+last_update: '2026-05-04'
+---
 
 - [couple-activities](knowledge/games/couple-activities.md)
 - [kid-games](knowledge/games/kid-games.md)

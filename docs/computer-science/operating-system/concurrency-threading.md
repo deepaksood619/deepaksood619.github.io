@@ -1,3 +1,12 @@
+---
+slug: /computer-science/operating-system/concurrency-threading
+title: Understanding Concurrency and Threading
+description: Explore the concepts of concurrency and threading, including I/O-bound
+  and CPU-bound processes for efficient program execution.
+created: '2023-03-05'
+last_update: '2025-04-17'
+---
+
 # Concurrency / Threading
 
 ## Concurrency

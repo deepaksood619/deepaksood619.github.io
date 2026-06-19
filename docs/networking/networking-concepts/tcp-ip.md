@@ -1,3 +1,12 @@
+---
+slug: /networking/networking-concepts/tcp-ip
+title: Understanding TCP/IP Model Layers
+description: Explore the TCP/IP model, its four layers, and how it differs from the
+  OSI model in network communication.
+created: '2023-03-05'
+last_update: '2024-02-26'
+---
+
 # TCP/IP
 
 The OSI Model we just looked at is just a reference/logical model. It was designed to describe the functions of the communication system by dividing the communication procedure into smaller and simpler components. But when we talk about the TCP/IP model, it was designed and developed by Department of Defense (DoD) in 1960s and is based on standard protocols. It stands for Transmission Control Protocol/Internet Protocol. TheTCP/IP modelis a concise version of the OSI model. It contains four layers, unlike seven layers in the OSI model. The layers are:

@@ -1,4 +1,11 @@
-# Ticketing / TMS
+---
+slug: /cloud/others/ticketing-tms
+title: Ticketing / TMS
+description: Discover top Ticketing Management Systems (TMS) with features like automation,
+  omnichannel support, and FAQs to enhance your customer service experience.
+created: '2023-03-05'
+last_update: '2025-07-19'
+---
 
 **Ticketing Management System (TMS)**
 

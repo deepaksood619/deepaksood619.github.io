@@ -1,4 +1,11 @@
-# Defence Mechanisms
+---
+slug: /psychology/defence-mechanisms
+title: Defence Mechanisms
+description: Explore the fascinating world of Defence Mechanisms, uncovering how our
+  minds protect us from uncomfortable truths about ourselves and our identities.
+created: '2023-09-22'
+last_update: '2023-09-22'
+---
 
 Getting to know ourselves better sounds, on the surface, like a project we might all buy into. But this is to underestimate the extent to which are, just below the surface, typically highly invested in not getting to know or feel a range of important but troubling things about who we are. Whatever lipservice we may pay to the project of self-knowledge, we would - it seems - very much like not to know a great deal about our identities.
 

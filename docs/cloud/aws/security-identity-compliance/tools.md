@@ -1,4 +1,11 @@
-# Tools
+---
+slug: /cloud/aws/security-identity-compliance/tools
+title: Tools
+description: Discover powerful AWS tools like Audit Manager and Security Hub to automate
+  security checks, streamline alerts, and enhance cloud security management.
+created: '2024-02-04'
+last_update: '2026-06-11'
+---
 
 ## AWS Audit Manager
 

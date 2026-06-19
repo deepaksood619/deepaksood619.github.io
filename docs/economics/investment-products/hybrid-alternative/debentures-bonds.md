@@ -1,4 +1,11 @@
-# Debentures / Bonds
+---
+slug: /economics/investment-products/hybrid-alternative/debentures-bonds
+title: Debentures / Bonds
+description: Explore debentures and bonds, long-term securities providing fixed interest,
+  essential in corporate finance for companies to secure funding against assets.
+created: '2023-03-05'
+last_update: '2026-06-09'
+---
 
 A long-term security yielding a fixed rate of interest, issued by a company and secured against assets.
 

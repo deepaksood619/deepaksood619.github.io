@@ -1,3 +1,12 @@
+---
+slug: /data-warehouses/bigquery/query-optimizations
+title: Effective SQL Query Optimizations
+description: Discover essential techniques for optimizing SQL queries, including column
+  selection, partitioning, and more.
+created: '2025-01-28'
+last_update: '2025-10-12'
+---
+
 # Query Optimizations
 
 ```sql

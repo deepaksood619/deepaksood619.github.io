@@ -1,4 +1,11 @@
-# Data
+---
+slug: /ai/big-data/data
+title: Data
+description: Discover the essentials of data, its attributes, types, and properties,
+  including nominal, ordinal, interval, and ratio classifications for effective analysis.
+created: '2023-11-18'
+last_update: '2024-08-07'
+---
 
 ## What is Data
 

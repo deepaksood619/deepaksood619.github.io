@@ -1,4 +1,12 @@
-# claude.md
+---
+slug: /ideas/CLAUDE
+title: claude.md
+description: Discover Claude.md, an LLM-driven wiki for comprehensive multi-domain
+  startup research, integrating sources, insights, and cross-referencing for informed
+  decision-making.
+created: '2026-05-01'
+last_update: '2026-05-23'
+---
 
 **LLM-maintained wiki for multi-domain startup research**
 

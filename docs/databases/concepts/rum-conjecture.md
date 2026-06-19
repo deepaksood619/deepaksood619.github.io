@@ -1,3 +1,12 @@
+---
+slug: /databases/concepts/rum-conjecture
+title: Understanding RUM Conjecture in Databases
+description: Explore the RUM Conjecture, focusing on Read, Update, and Memory overhead
+  in database performance optimization.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # RUM Conjecture
 
 RUM - Read Update Memory

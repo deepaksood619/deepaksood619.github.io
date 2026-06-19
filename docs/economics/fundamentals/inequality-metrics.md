@@ -1,4 +1,11 @@
-# Inequality
+---
+slug: /economics/fundamentals/inequality-metrics
+title: Inequality
+description: Explore the Gini coefficient, a key measure of income and wealth inequality,
+  developed by Italian statistician Corrado Gini, to understand economic disparities.
+created: '2023-03-14'
+last_update: '2026-06-09'
+---
 
 ## Gini Coefficient
 

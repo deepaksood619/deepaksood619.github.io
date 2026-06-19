@@ -1,4 +1,11 @@
-# Constructor
+---
+slug: /languages/c++/constructor
+title: Constructor
+description: Learn about default and copy constructors, their automatic creation by
+  the compiler, and essential differences for effective programming in C++.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
 
 1. Default Constructor
 

@@ -1,4 +1,11 @@
-# REITs and Alternative Investments
+---
+slug: /economics/investment-products/hybrid-alternative/reits-alternative-investments
+title: REITs and Alternative Investments
+description: Explore REITs and alternative investments for diversification, potential
+  higher returns, and reduced portfolio risk beyond traditional stocks and bonds.
+created: '2026-06-09'
+last_update: '2026-06-11'
+---
 
 **Category:** Investment Products
 **Type:** Hybrid / Alternative

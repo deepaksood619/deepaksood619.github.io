@@ -1,4 +1,11 @@
-# Others
+---
+slug: /databases-nosql/vector-databases/others
+title: Others
+description: Discover Elasticsearch, a powerful and scalable search engine for analyzing
+  large data volumes quickly, with rich querying and broad community support.
+created: '2025-06-23'
+last_update: '2025-08-28'
+---
 
 ## ElasticSearch
 

@@ -1,10 +1,12 @@
 ---
-title: PW Skills (PhysicsWallah) - Professional Upskilling Platform Analysis
-date: 2026-06-08
-type: competitor-analysis
-domain: technical-skills-india
-tags: [pwskills, physicswallah, coding-bootcamp, data-science, india-edtech, professional-upskilling]
+slug: /education/competitors/technical-skills/pwskills-analysis
+title: PW Skills Analysis Overview
+description: Explore the market position and offerings of PW Skills, the professional
+  upskilling arm of PhysicsWallah in India's dynamic edtech landscape.
+created: '2026-06-08'
+last_update: '2026-06-09'
 ---
+
 ## Overview
 
 **PW Skills** is the professional upskilling and technical education vertical of PhysicsWallah (PW), India's largest profitable edtech company. Launched as part of PW's diversification strategy beyond test preparation (JEE/NEET), PW Skills targets job-ready technical training in software development, data science, AI/ML, and other professional skills.

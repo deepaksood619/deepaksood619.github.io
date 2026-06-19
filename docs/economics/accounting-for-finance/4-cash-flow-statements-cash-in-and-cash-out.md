@@ -1,4 +1,11 @@
-# 4: Cash Flow Statements - Cash In and Cash Out
+---
+slug: /economics/accounting-for-finance/4-cash-flow-statements-cash-in-and-cash-out
+title: '4: Cash Flow Statements - Cash In and Cash Out'
+description: Explore the cash flow statement's role in tracking cash changes, earnings
+  comparison, reinvestment, and investor interactions for business growth.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
 
 ## The End Game with Cash Flows
 

@@ -1,4 +1,12 @@
-# JVM Architecture
+---
+slug: /languages/java/jvm-architecture
+title: JVM Architecture
+description: Explore the JVM architecture, consisting of the Class Loader Subsystem,
+  Runtime Data Area, and Execution Engine, crucial for Java's dynamic class loading
+  and execution.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
 
 ![image](../../media/JVM-Architecture-image1.jpg)
 

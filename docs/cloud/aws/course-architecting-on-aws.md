@@ -1,4 +1,11 @@
-# Architecting on AWS
+---
+slug: /cloud/aws/course-architecting-on-aws
+title: Architecting on AWS
+description: Learn to build and optimize IT infrastructure on AWS with best practices,
+  design patterns, and hands-on activities in this comprehensive course.
+created: '2023-03-05'
+last_update: '2025-11-05'
+---
 
 - 12th August to 14th August 2020
 - http://online.vitalsource.com

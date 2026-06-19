@@ -1,3 +1,12 @@
+---
+slug: /networking/protocols/dns-domain-name-system
+title: 'Understanding DNS: Domain Name System'
+description: Learn how the Domain Name System connects IP addresses to domain names,
+  enabling seamless internet navigation.
+created: '2023-03-05'
+last_update: '2026-06-17'
+---
+
 # DNS Domain Name System
 
 https://dnschecker.org

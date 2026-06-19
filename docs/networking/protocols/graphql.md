@@ -1,3 +1,12 @@
+---
+slug: /networking/protocols/graphql
+title: Introduction to GraphQL
+description: Discover how GraphQL improves data fetching, enhances developer experience,
+  and minimizes server round trips for efficient APIs.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
+
 # GraphQL
 
 GraphQL will do to REST what JSON did to XML.

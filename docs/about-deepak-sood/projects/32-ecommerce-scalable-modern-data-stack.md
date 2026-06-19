@@ -1,3 +1,12 @@
+---
+slug: /about-deepak-sood/projects/32-ecommerce-scalable-modern-data-stack
+title: Scalable Data Stack for E-Commerce
+description: Discover how we enhanced a high-growth e-commerce platform's data stack
+  using GCP for efficiency, performance, and seamless analytics.
+created: '2025-06-08'
+last_update: '2025-06-08'
+---
+
 # Ecommerce Scalable Modern Data Stack
 
 Scalable and Cost-Efficient Modern Data Stack on GCP for a High-Growth E-Commerce Platform

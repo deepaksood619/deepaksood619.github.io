@@ -1,3 +1,12 @@
+---
+slug: /computer-science/distributed-system/clocks
+title: Understanding Clocks in Distributed Systems
+description: Explore atomic broadcast and message ordering in fault-tolerant distributed
+  computing for reliable system performance.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Clocks
 
 ## Atomic Broadcast

@@ -1,3 +1,12 @@
+---
+slug: /devops/ides/jupyter-jupyterlab-notebook/template
+title: Python Data Analysis Template
+description: A versatile Python template for data analysis, incorporating libraries
+  like NumPy, Pandas, and Seaborn for efficient data modeling and visualization.
+created: '2023-03-05'
+last_update: '2025-08-28'
+---
+
 # Template
 
 ```python

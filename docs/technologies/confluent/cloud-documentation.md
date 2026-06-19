@@ -1,3 +1,12 @@
+---
+slug: /technologies/confluent/cloud-documentation
+title: Confluent Cloud Documentation Overview
+description: Explore comprehensive Confluent Cloud documentation to get started, manage
+  schemas, and deploy free clusters effectively.
+created: '2025-12-01'
+last_update: '2026-02-27'
+---
+
 # Confluent Cloud Documentation
 
 [Confluent Cloud \| Confluent Documentation](https://docs.confluent.io/cloud/current/overview.html)

@@ -1,3 +1,12 @@
+---
+slug: /algorithms/algorithmic-complexity/halting-problem
+title: Understanding the Halting Problem
+description: Explore the halting problem in computability theory, its significance,
+  and Turing's proof of its undecidability.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Halting Problem
 
 In [computability theory](https://en.wikipedia.org/wiki/Computability_theory_(computer_science)), the**halting problem** is the problem of determining, from a description of an arbitrary [computer program](https://en.wikipedia.org/wiki/Computer_program) and an input, whether the program will finish running (i.e., halt) or continue to run forever.

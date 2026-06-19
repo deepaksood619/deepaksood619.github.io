@@ -1,3 +1,12 @@
+---
+slug: /devops/terraform/others
+title: Terraform Tools and Resources
+description: Explore essential tools for Terraform, including Atlantis and Terragrunt,
+  along with helpful resources and setup guides.
+created: '2026-01-28'
+last_update: '2026-06-11'
+---
+
 # Others
 
 ## Tools

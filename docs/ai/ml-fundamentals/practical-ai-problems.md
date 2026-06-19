@@ -1,4 +1,11 @@
-# Practical AI Problems
+---
+slug: /ai/ml-fundamentals/practical-ai-problems
+title: Practical AI Problems
+description: Explore practical AI problems across industries like Netflix, from content
+  valuation to churn prediction, enhancing efficiency with innovative solutions.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
 
 ## Netflix AI Problems
 

@@ -1,4 +1,11 @@
-# Gas
+---
+slug: /decentralized-applications/ethereum/09-gas
+title: Gas
+description: Discover how gas fuels the Ethereum network, measuring the computational
+  effort for transactions and paid in ether (ETH) at variable gwei rates.
+created: '2023-03-05'
+last_update: '2024-12-19'
+---
 
 Gas is essential to the Ethereum network. It is the fuel that allows it to operate, in the same way that a car needs gasoline to run.
 

@@ -1,4 +1,11 @@
-# Commands
+---
+slug: /databases-nosql/druid/commands
+title: Commands
+description: Discover essential Druid commands, service ports, and IP configurations
+  for API management in your data environment, ensuring optimal performance and accessibility.
+created: '2023-03-05'
+last_update: '2025-08-28'
+---
 
 | **Service**             | **Port** |
 |-------------------------|----------|

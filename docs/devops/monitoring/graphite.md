@@ -1,3 +1,12 @@
+---
+slug: /devops/monitoring/graphite
+title: Understanding Graphite Architecture
+description: 'Learn about Graphite''s components: Carbon, Whisper, and Graphite-Web
+  for storing and rendering time-series data.'
+created: '2023-03-05'
+last_update: '2025-03-12'
+---
+
 # Graphite
 
 ## Graphite does two things

@@ -1,4 +1,11 @@
-# Parenting Threenager
+---
+slug: /psychology/parenting-threenager
+title: Parenting Threenager
+description: Explore the complexities of parenting a threenager, including neurobiological
+  shifts, cultural expectations, and strategies to reduce parental burnout.
+created: '2026-06-10'
+last_update: '2026-06-10'
+---
 
 **The Paradox of the "Threenager": Neurobiological Shifts, the Expectation Gap, and Evidence-Based Mitigation of Parental Burnout**
 

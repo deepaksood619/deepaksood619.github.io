@@ -1,4 +1,11 @@
-# Gross Domestic Product (GDP)
+---
+slug: /economics/fundamentals/gross-domestic-product-gdp
+title: Gross Domestic Product (GDP)
+description: Explore the definition and methods of Gross Domestic Product (GDP), a
+  key economic indicator measuring a country's total market value of goods and services.
+created: '2023-03-05'
+last_update: '2026-06-09'
+---
 
 A monetary measure of the market value of all final goods and services produced in a period (quarterly or yearly).
 

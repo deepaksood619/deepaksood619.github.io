@@ -1,3 +1,12 @@
+---
+slug: /mathematics/probability/intro-to-probability/7-conditioning-on-a-rv-independence-of-rv
+title: Conditioning and Independence of RVs
+description: Explore the relationship between conditioning and independence of random
+  variables, covering joint PMF, conditional PMF, and marginal PMFs in detail.
+created: '2023-03-05'
+last_update: '2023-05-03'
+---
+
 # 7. Conditioning on a rv; Independence of r.v.'s
 
 Joint PMF

@@ -1,4 +1,11 @@
-# Tools
+---
+slug: /languages/frameworks/android/tools
+title: Tools
+description: Explore essential tools for developers, including debugging, testing,
+  CI/CD solutions, and memory tracking to enhance your app development workflow.
+created: '2024-01-11'
+last_update: '2025-12-04'
+---
 
 - Hierarchy Viewer
 - APK Analyzer

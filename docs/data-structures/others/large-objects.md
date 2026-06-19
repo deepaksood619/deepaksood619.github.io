@@ -1,3 +1,12 @@
+---
+slug: /data-structures/others/large-objects
+title: Understanding Large Objects (LOBs)
+description: Explore the types of Large Objects, including BLOBs, CLOBs, and NCLOBs,
+  and their storage methods in databases.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Large Objects
 
 ## Types of Large Objects (LOBs)

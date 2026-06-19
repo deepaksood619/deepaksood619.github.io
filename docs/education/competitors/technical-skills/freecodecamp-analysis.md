@@ -1,10 +1,12 @@
 ---
-title: freeCodeCamp Competitive Analysis
-date: 2026-05-05
-type: competitor-analysis
-domain: coding-education
-tags: [freecodecamp, self-paced, nonprofit, open-source, web-development]
+slug: /education/competitors/technical-skills/freecodecamp-analysis
+title: FreeCodeCamp Company Analysis
+description: Explore FreeCodeCamp's mission, funding, and impact on learners, with
+  over 350,000 monthly visitors and 40,000 alumni in tech jobs.
+created: '2026-05-09'
+last_update: '2026-06-08'
 ---
+
 ## Company Overview
 
 - **Founded:** October 2014

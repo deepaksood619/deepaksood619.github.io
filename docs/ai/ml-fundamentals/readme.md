@@ -1,4 +1,12 @@
-# ML Fundamentals
+---
+slug: /ai/ml-fundamentals/readme
+title: ML Fundamentals
+description: Explore the essential ML fundamentals, including loss functions, classification,
+  neural networks, and practical AI problems to enhance your understanding of machine
+  learning.
+created: '2023-03-05'
+last_update: '2025-05-03'
+---
 
 - [Table of Contents](table-of-contents)
 - [Intro](ai/ml-fundamentals/intro.md)

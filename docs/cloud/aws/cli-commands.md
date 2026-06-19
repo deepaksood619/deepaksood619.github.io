@@ -1,4 +1,11 @@
-# CLI Commands
+---
+slug: /cloud/aws/cli-commands
+title: CLI Commands
+description: Discover essential CLI commands for AWS installation and configuration,
+  including profile setup and EC2 instance management for efficient cloud operations.
+created: '2023-03-05'
+last_update: '2026-06-03'
+---
 
 ## AWS cli (brew install awscli)
 

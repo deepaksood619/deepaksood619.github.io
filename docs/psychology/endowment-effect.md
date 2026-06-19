@@ -1,4 +1,11 @@
-# Endowment Effect
+---
+slug: /psychology/endowment-effect
+title: Endowment Effect
+description: Discover the Endowment Effect, where ownership skews perceived value,
+  impacting buying and selling decisions shaped by emotional pricing factors.
+created: '2026-05-27'
+last_update: '2026-05-29'
+---
 
 You tend to value more if you own the item, then if you have to buy that item
 

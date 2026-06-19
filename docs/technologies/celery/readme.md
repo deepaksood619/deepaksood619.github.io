@@ -1,3 +1,12 @@
+---
+slug: /technologies/celery/readme
+title: Understanding Celery Overview
+description: Explore key elements of Celery, including its intro, workers, backend,
+  and essential commands for effective task management.
+created: '2023-03-05'
+last_update: '2026-04-23'
+---
+
 # Celery
 
 - [Celery Intro](technologies/celery/celery-intro.md)

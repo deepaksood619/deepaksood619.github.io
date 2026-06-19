@@ -1,3 +1,12 @@
+---
+slug: /technologies/elasticsearch/internal-working
+title: Document Management Workflow
+description: Learn the step-by-step process for creating, indexing, and deleting documents
+  across primary and replica shards.
+created: '2023-03-05'
+last_update: '2024-11-29'
+---
+
 # Internal Working
 
 Here is the sequence of steps necessary to successfully create, index, or delete a document on both the primary and any replica shards:

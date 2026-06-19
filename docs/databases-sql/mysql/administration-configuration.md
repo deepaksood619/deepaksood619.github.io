@@ -1,4 +1,11 @@
-# Administration / Configuration
+---
+slug: /databases-sql/mysql/administration-configuration
+title: Administration / Configuration
+description: Explore essential SQL commands for effective administration and configuration
+  of database performance, including connection limits and transaction isolation settings.
+created: '2024-06-07'
+last_update: '2025-06-10'
+---
 
 ## Commands
 

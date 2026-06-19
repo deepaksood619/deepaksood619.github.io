@@ -1,3 +1,12 @@
+---
+slug: /frontend/react/state
+title: Understanding State and Props in React
+description: Learn the key differences between state and props in React components,
+  and how to manage data effectively for interactivity.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # State
 
 ## Props vs State

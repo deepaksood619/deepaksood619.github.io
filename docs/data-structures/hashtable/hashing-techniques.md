@@ -1,3 +1,12 @@
+---
+slug: /data-structures/hashtable/hashing-techniques
+title: Essential Hashing Techniques Explained
+description: Discover key hashing techniques like separate chaining and open addressing
+  for efficient data management and collision resolution.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
+
 # Hashing Techniques
 
 ## Separate chaining (open hashing)

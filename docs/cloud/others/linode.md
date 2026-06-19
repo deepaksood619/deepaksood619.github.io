@@ -1,4 +1,12 @@
-# Linode
+---
+slug: /cloud/others/linode
+title: Linode
+description: Discover Linode's Kubernetes Engine for seamless container orchestration
+  and NodeBalancers for efficient load management, ensuring high availability for
+  your applications.
+created: '2024-01-30'
+last_update: '2024-09-17'
+---
 
 ## Linode Kubernetes Engine (LKE)
 

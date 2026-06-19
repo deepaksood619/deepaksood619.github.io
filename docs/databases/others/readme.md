@@ -1,3 +1,12 @@
+---
+slug: /databases/others/readme
+title: Database Resources and Tools
+description: Explore essential database resources including monitoring, migration
+  tools, and certification courses for database professionals.
+created: '2023-03-05'
+last_update: '2024-05-16'
+---
+
 # Others
 
 - [Database Activity Monitoring (DAM)](databases/others/database-activity-monitoring-dam.md)

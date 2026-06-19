@@ -1,3 +1,12 @@
+---
+slug: /computer-science/interview-question/system-design-autocomplete-or-typeahead
+title: System Design for Autocomplete Features
+description: Explore the architecture and concepts behind designing autocomplete and
+  typeahead suggestions for search engines.
+created: '2023-03-05'
+last_update: '2023-03-29'
+---
+
 # System Design - Autocomplete or TypeAhead
 
 [System design : Design Autocomplete or Typeahead Suggestions for Google search](https://www.youtube.com/watch?v=us0qySiUsGU)

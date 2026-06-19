@@ -1,3 +1,12 @@
+---
+slug: /technologies/kafka/kafka-commands/03-kafka-consumers
+title: Understanding Kafka Consumers
+description: Explore essential Kafka consumer tools for efficient data consumption,
+  including core commands and advanced techniques.
+created: '2026-03-21'
+last_update: '2026-03-25'
+---
+
 # Kafka Consumers
 
 This module covers the tools used to read data from Kafka, ranging from simple console output to complex, schema-aware stream consumption.

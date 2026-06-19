@@ -1,3 +1,12 @@
+---
+slug: /technologies/elasticsearch/commands
+title: Essential Elasticsearch Commands
+description: Explore essential Elasticsearch commands for managing indices, documents,
+  and searches in your database.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # Commands
 
 ```json

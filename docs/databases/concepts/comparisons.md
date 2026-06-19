@@ -1,3 +1,12 @@
+---
+slug: /databases/concepts/comparisons
+title: Relational vs Non-Relational Databases
+description: Explore the key differences between relational and non-relational databases
+  to understand their applications and advantages.
+created: '2024-07-24'
+last_update: '2025-02-27'
+---
+
 # Comparisons
 
 ![image](../../media/Types-of-Databases-image1.jpg)

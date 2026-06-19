@@ -1,4 +1,11 @@
-# Server SQL Modes
+---
+slug: /databases-sql/mysql/server-sql-modes
+title: Server SQL Modes
+description: Discover how to configure MySQL server SQL modes for optimal client performance
+  and understand the implications for partitioned tables and data integrity.
+created: '2024-06-20'
+last_update: '2025-06-10'
+---
 
 The MySQL server can operate in different SQL modes, and can apply these modes differently for different clients, depending on the value of the [`sql_mode`](https://dev.mysql.com/doc/refman/8.4/en/server-system-variables.html#sysvar_sql_mode) system variable. DBAs can set the global SQL mode to match site server operating requirements, and each application can set its session SQL mode to its own requirements.
 

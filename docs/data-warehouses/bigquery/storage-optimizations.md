@@ -1,3 +1,12 @@
+---
+slug: /data-warehouses/bigquery/storage-optimizations
+title: Storage Cost Optimization Strategies
+description: Discover effective strategies for optimizing storage costs by transitioning
+  from logical to physical storage in BigQuery.
+created: '2025-01-27'
+last_update: '2025-06-10'
+---
+
 # Storage Cost Optimisation
 
 Recommendation: Move from Logical to Physical Storage

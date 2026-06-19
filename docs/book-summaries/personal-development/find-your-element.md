@@ -1,4 +1,11 @@
-# Find Your Element
+---
+slug: /book-summaries/personal-development/find-your-element
+title: Find Your Element
+description: Discover your unique passions and growth potential with Ken Robinson's
+  insights on finding happiness beyond societal expectations in "Find Your Element."
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 By Ken Robinson
 

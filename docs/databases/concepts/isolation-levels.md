@@ -1,3 +1,12 @@
+---
+slug: /databases/concepts/isolation-levels
+title: Understanding Database Isolation Levels
+description: Learn how isolation levels impact transaction integrity and user visibility
+  in database systems.
+created: '2023-03-05'
+last_update: '2025-09-03'
+---
+
 # Isolation Levels
 
 ```sql

@@ -1,4 +1,11 @@
-# R Language
+---
+slug: /languages/others/r-language
+title: R Language
+description: Explore the R language for data analysis, from variable storage and type
+  checking to data manipulation with libraries like tidyverse and CSV handling.
+created: '2023-03-05'
+last_update: '2025-03-22'
+---
 
 ## Introduction
 

@@ -1,4 +1,12 @@
-# Preliminaries
+---
+slug: /ai/ml-fundamentals/preliminaries
+title: Preliminaries
+description: Explore essential preliminaries in data manipulation, preprocessing,
+  linear algebra, calculus, automatic differentiation, and probability for effective
+  machine learning.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
 
 [2. Preliminaries](https://d2l.ai/chapter_preliminaries/index.html)
 

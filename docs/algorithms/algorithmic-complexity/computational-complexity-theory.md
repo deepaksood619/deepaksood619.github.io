@@ -1,3 +1,12 @@
+---
+slug: /algorithms/algorithmic-complexity/computational-complexity-theory
+title: Understanding Computational Complexity Theory
+description: Explore computational complexity theory, which classifies problems by
+  difficulty and quantifies their complexity using mathematical models.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Computational Complexity Theory
 
 Computational complexity theoryfocuses on classifying computational problems according to their inherent difficulty, and relating these classes to each other. A computational problem is a task solved by a computer. A computation problem is solvable by mechanical application of mathematical steps, such as an [algorithm](https://en.wikipedia.org/wiki/Algorithm).

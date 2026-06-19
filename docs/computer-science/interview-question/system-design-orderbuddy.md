@@ -1,4 +1,11 @@
-# OrderBuddy Data Infrastructure Design
+---
+slug: /computer-science/interview-question/system-design-orderbuddy
+title: OrderBuddy Data Infrastructure Design
+description: Explore OrderBuddy's zero-loss, real-time analytics architecture for
+  AI interaction with CDC pipeline and Apache Kafka.
+created: '2026-05-18'
+last_update: '2026-05-19'
+---
 
 ## Executive Summary
 

@@ -1,3 +1,12 @@
+---
+slug: /technologies/flink/interview-questions
+title: Optimizing Flink Queries Quiz
+description: Test your knowledge on effective methods to optimize Flink queries with
+  this insightful interview question.
+created: '2026-03-03'
+last_update: '2026-03-05'
+---
+
 # Interview Questions
 
 ## Question 1: Optimizing Flink Queries

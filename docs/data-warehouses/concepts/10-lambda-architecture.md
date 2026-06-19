@@ -1,3 +1,12 @@
+---
+slug: /data-warehouses/concepts/10-lambda-architecture
+title: Understanding Lambda Architecture
+description: Explore Lambda architecture, a powerful data-processing approach for
+  managing massive datasets using batch and stream-processing methods.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # Lambda Architecture
 
 Lambda architecture is a [data-processing](https://en.wikipedia.org/wiki/Data_processing) architecture designed to handle massive quantities of data by taking advantage of both [batch](https://en.wikipedia.org/wiki/Batch_processing) and [stream-processing](https://en.wikipedia.org/wiki/Stream_processing) methods. This approach to architecture xattempts to balance [latency](https://en.wikipedia.org/wiki/Latency_(engineering)), [throughput](https://en.wikipedia.org/wiki/Throughput), and [fault-tolerance](https://en.wikipedia.org/wiki/Fault-tolerance) by using batch processing to provide comprehensive and accurate views of batch data, while simultaneously using real-time stream processing to provide views of online data. The two view outputs may be joined before presentation. The rise of lambda architecture is correlated with the growth of [big data](https://en.wikipedia.org/wiki/Big_data), real-time analytics, and the drive to mitigate the latencies of [map-reduce](https://en.wikipedia.org/wiki/Map-reduce).

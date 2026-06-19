@@ -1,4 +1,11 @@
-# Cassandra
+---
+slug: /databases-nosql/cassandra/readme
+title: Cassandra
+description: Explore Cassandra, a powerful NoSQL database, with insights on design,
+  data modeling, consistency, CQL commands, and client drivers.
+created: '2025-06-10'
+last_update: '2025-06-10'
+---
 
 - [Cassandra](databases-nosql/cassandra/intro.md)
 - [Working](databases-nosql/cassandra/working.md)

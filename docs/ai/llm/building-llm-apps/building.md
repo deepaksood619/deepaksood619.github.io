@@ -1,4 +1,12 @@
-# Building
+---
+slug: /ai/llm/building-llm-apps/building
+title: Building
+description: Explore resources on building large language models from scratch with
+  tutorials, articles, and videos to deepen your understanding of this cutting-edge
+  technology.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 - [Create a Large Language Model from Scratch with Python - Tutorial - YouTube](https://www.youtube.com/watch?v=UU1WVnMk4E8)
 - [Understanding Large Language Models - by Sebastian Raschka](https://magazine.sebastianraschka.com/p/understanding-large-language-models)

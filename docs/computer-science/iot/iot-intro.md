@@ -1,3 +1,12 @@
+---
+slug: /computer-science/iot/iot-intro
+title: Introduction to Internet of Things (IoT)
+description: Explore IoT concepts including device communication, shadow files, digital
+  twins, and secure platforms for enhanced connectivity.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # IoT Intro
 
 ## Internet of Things (IoT)

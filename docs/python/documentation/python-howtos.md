@@ -1,3 +1,12 @@
+---
+slug: /python/documentation/python-howtos
+title: Essential Python HowTos
+description: 'Explore key Python HowTos: porting code, functional programming, regex,
+  and more to enhance your development skills.'
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # Python HowTos
 
 - [Porting Python 2 Code to Python 3](https://docs.python.org/3/howto/pyporting.html)

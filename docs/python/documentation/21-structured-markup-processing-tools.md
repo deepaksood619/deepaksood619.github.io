@@ -1,3 +1,12 @@
+---
+slug: /python/documentation/21-structured-markup-processing-tools
+title: Structured Markup Processing Tools
+description: Discover essential structured markup processing tools in Python, including
+  HTML and XML support for effective web development.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
+
 # 21. Structured Markup Processing Tools
 
 - [html - HyperText Markup Language support](https://docs.python.org/3/library/html.html)

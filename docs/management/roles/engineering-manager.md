@@ -1,3 +1,12 @@
+---
+slug: /management/roles/engineering-manager
+title: Mastering the Role of Engineering Manager
+description: Discover key insights to excel as an Engineering Manager and Tech Lead,
+  focusing on productivity and team success.
+created: '2023-03-05'
+last_update: '2025-05-03'
+---
+
 # Engineering Manager / Tech Lead
 
 CTO - You don't have to do anything, but you are responsible for everything

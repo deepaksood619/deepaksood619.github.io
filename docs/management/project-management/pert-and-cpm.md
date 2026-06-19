@@ -1,3 +1,12 @@
+---
+slug: /management/project-management/pert-and-cpm
+title: PERT and CPM Methodologies
+description: Explore PERT and CPM methodologies to enhance project management and
+  efficiently schedule tasks for successful project completion.
+created: '2023-03-21'
+last_update: '2023-12-05'
+---
+
 # PERT & CPM
 
 ## PERT - Program Evaluation and Review Technique

@@ -1,3 +1,12 @@
+---
+slug: /computer-science/operating-system/raid
+title: Understanding RAID Technology
+description: Learn about RAID, its levels, and how it enhances data redundancy and
+  performance in storage systems.
+created: '2023-03-05'
+last_update: '2025-02-14'
+---
+
 # RAID
 
 RAID (Redundant Array of Inexpensive Disks or Drives, or Redundant Array of Independent Disks) is a data [storage virtualization](https://en.wikipedia.org/wiki/Storage_virtualization) technology that combines multiple physical [disk drive](https://en.wikipedia.org/wiki/Disk_drive) components into one or more logical units for the purposes of [data redundancy](https://en.wikipedia.org/wiki/Data_redundancy), performance improvement, or both. This was in contrast to the previous concept of highly reliable mainframe disk drives referred to as "single large expensive disk" (SLED).

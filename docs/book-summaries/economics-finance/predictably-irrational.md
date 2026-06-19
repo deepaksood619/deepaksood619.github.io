@@ -1,4 +1,12 @@
-# Predictably Irrational
+---
+slug: /book-summaries/economics-finance/predictably-irrational
+title: Predictably Irrational
+description: Discover how our predictable irrational behaviors influence decision-making
+  and challenge traditional economic theories in Dan Ariely's insightful work, "Predictably
+  Irrational."
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 By Dan Ariely
 

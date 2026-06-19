@@ -1,3 +1,12 @@
+---
+slug: /frontend/others/nodejs/nodejs-frameworks
+title: Essential Node.js Frameworks Guide
+description: Explore key Node.js frameworks and tips for selecting the right one for
+  your development needs and project requirements.
+created: '2023-03-05'
+last_update: '2026-03-27'
+---
+
 # Nodejs Frameworks
 
 **Things to consider while selecting a node framework**

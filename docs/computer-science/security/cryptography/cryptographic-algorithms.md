@@ -1,3 +1,12 @@
+---
+slug: /computer-science/security/cryptography/cryptographic-algorithms
+title: Understanding Cryptographic Algorithms
+description: Explore essential cryptographic algorithms including stream ciphers,
+  block ciphers, symmetric, and asymmetric encryption methods.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # Cryptographic Algorithms
 
 ## Stream Ciphers (OTP)

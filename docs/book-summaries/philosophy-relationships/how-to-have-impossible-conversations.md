@@ -1,4 +1,11 @@
-# How to have impossible conversations
+---
+slug: /book-summaries/philosophy-relationships/how-to-have-impossible-conversations
+title: How to have impossible conversations
+description: Learn how to foster productive, collaborative conversations that change
+  minds through active listening and building rapport with others.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 By Peter Boghossian and James A. Lindsay
 

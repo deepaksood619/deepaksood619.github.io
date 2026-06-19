@@ -1,4 +1,11 @@
-# Quotient Rule
+---
+slug: /mathematics/calculus/quotient-rule
+title: Quotient Rule
+description: Learn the Quotient Rule in calculus, a vital technique for differentiating
+  functions expressed as the ratio of two other functions efficiently.
+created: '2023-03-05'
+last_update: '2023-11-20'
+---
 
 ![image](../../media/Quotient-Rule-image1.jpg)
 

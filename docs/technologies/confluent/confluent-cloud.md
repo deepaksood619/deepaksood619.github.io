@@ -1,3 +1,12 @@
+---
+slug: /technologies/confluent/confluent-cloud
+title: Confluent Cloud Overview
+description: Explore Confluent Cloud features including environments, data portals,
+  and stream processing with links to helpful video tutorials.
+created: '2025-12-01'
+last_update: '2026-02-27'
+---
+
 # Confluent Cloud
 
 [Overview of Confluent Cloud - YouTube](https://www.youtube.com/watch?v=SBcc5FFM3C8)

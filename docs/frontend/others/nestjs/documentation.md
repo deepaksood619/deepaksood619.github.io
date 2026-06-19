@@ -1,3 +1,12 @@
+---
+slug: /frontend/others/nestjs/documentation
+title: NestJS Documentation Overview
+description: Explore the comprehensive NestJS documentation to learn about controllers,
+  providers, middleware, and more for building robust applications.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # Documentation
 
 [**INTRODUCTION**](https://docs.nestjs.com/)

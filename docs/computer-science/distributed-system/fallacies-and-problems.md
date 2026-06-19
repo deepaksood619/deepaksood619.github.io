@@ -1,3 +1,12 @@
+---
+slug: /computer-science/distributed-system/fallacies-and-problems
+title: Understanding Fallacies of Distributed Computing
+description: Explore the key fallacies in distributed computing that programmers often
+  assume, leading to misconceptions in application development.
+created: '2023-03-05'
+last_update: '2025-02-14'
+---
+
 # Fallacies and Problems
 
 ## Fallacies of distributed computing

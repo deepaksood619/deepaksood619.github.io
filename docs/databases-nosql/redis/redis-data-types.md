@@ -1,4 +1,11 @@
-# Redis Data Types
+---
+slug: /databases-nosql/redis/redis-data-types
+title: Redis Data Types
+description: Discover the diverse data types in Redis, including strings, lists, sets,
+  and sorted sets, enhancing your key-value store capabilities for complex applications.
+created: '2023-03-05'
+last_update: '2025-06-10'
+---
 
 Redis is not aplainkey-value store, it is actually adata structures server, supporting different kinds of values. What this means is that, while in traditional key-value stores you associate string keys to string values, in Redis the value is not limited to a simple string, but can also hold more complex data structures. The following is the list of all the data structures supported by Redis
 

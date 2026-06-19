@@ -1,4 +1,11 @@
-# Redis Streams / PUBSUB
+---
+slug: /databases-nosql/redis/redis-streams-pubsub
+title: Redis Streams / PUBSUB
+description: Discover how Redis Streams and Pub/Sub enable efficient messaging and
+  event sourcing solutions, with low latency and high throughput for your applications.
+created: '2023-03-05'
+last_update: '2025-06-10'
+---
 
 ## Messaging
 

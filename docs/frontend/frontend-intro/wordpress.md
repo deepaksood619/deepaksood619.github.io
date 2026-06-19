@@ -1,3 +1,12 @@
+---
+slug: /frontend/frontend-intro/wordpress
+title: Understanding WordPress Essentials
+description: Explore WordPress, a powerful CMS that powers 34% of websites. Learn
+  about its plugins, themes, and key users.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # Wordpress
 
 https://wordpress.com/home/deepaksood619.wordpress.com

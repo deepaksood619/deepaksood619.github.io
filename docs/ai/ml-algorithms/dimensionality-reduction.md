@@ -1,4 +1,11 @@
-# Dimensionality Reduction
+---
+slug: /ai/ml-algorithms/dimensionality-reduction
+title: Dimensionality Reduction
+description: Explore dimensionality reduction techniques like PCA and SVD to overcome
+  the curse of dimensionality, improve data visualization, and enhance algorithm performance.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
 
 ## Dimensionality Reduction
 

@@ -1,3 +1,12 @@
+---
+slug: /data-structures/trie/ternary-search-tries-tst
+title: Understanding Ternary Search Tries (TST)
+description: Learn about Ternary Search Tries (TST) and how they efficiently use R-way
+  tries for large data sets.
+created: '2023-03-05'
+last_update: '2023-11-20'
+---
+
 # Ternary Search Tries (TST)
 
 Solve the problem of using large amount of data by R-way tries.

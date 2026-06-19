@@ -1,3 +1,12 @@
+---
+slug: /computer-science/software-engineering/code-smell
+title: Understanding Code Smells in Programming
+description: Learn about code smells, their impact on design quality, and how they
+  signify deeper issues in software development.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Code Smell
 
 In [computer programming](https://en.wikipedia.org/wiki/Computer_programming), acode smellis any characteristic in the [source code](https://en.wikipedia.org/wiki/Source_code) of a [program](https://en.wikipedia.org/wiki/Computer_program) that possibly indicates a deeper problem.Determining what is and is not a code smell is subjective, and varies by language, developer, and development methodology.

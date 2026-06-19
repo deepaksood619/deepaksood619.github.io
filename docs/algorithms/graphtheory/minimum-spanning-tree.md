@@ -1,3 +1,12 @@
+---
+slug: /algorithms/graphtheory/minimum-spanning-tree
+title: Understanding Minimum Spanning Tree Basics
+description: Explore the properties, applications, and greedy algorithms of Minimum
+  Spanning Trees in graph theory.
+created: '2023-03-05'
+last_update: '2026-05-25'
+---
+
 # Minimum Spanning Tree
 
 ## Properties of MST

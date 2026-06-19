@@ -1,4 +1,11 @@
-# Hackathon HackHound
+---
+slug: /ai/hackathon-hackhound
+title: Hackathon HackHound
+description: Discover how Hackathon HackHound addresses fragmented healthcare systems
+  by integrating patient data for improved care and decision-making.
+created: '2025-03-02'
+last_update: '2026-06-18'
+---
 
 ## Problem 1
 

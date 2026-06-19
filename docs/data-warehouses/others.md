@@ -1,4 +1,11 @@
-# Others
+---
+slug: /data-warehouses/others
+title: Others
+description: Discover Firebolt, a next-gen cloud data warehouse on AWS, offering super
+  fast analytics with serverless architecture and seamless SQL integration.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
 
 ## Firebolt
 

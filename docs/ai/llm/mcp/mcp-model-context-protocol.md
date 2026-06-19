@@ -1,4 +1,11 @@
-# Model Context Protocol (MCP)
+---
+slug: /ai/llm/mcp/mcp-model-context-protocol
+title: Model Context Protocol (MCP)
+description: Discover the Model Context Protocol (MCP), an open standard for seamless
+  integration of LLM applications with external data sources and tools.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 - [mcp-vs-restapi](ai/llm/mcp/mcp-vs-restapi.md)
 

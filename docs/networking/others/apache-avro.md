@@ -1,3 +1,12 @@
+---
+slug: /networking/others/apache-avro
+title: Introduction to Apache Avro
+description: Discover Apache Avro, a language-neutral data serialization system that
+  enables efficient data processing across multiple programming languages.
+created: '2023-03-05'
+last_update: '2025-12-12'
+---
+
 # Apache Avro
 
 Apache Avro is a **language-neutral fast data serialization system**. It was developed by Doug Cutting, the father of Hadoop. Since Hadoop writable classes lack language portability, Avro becomes quite helpful, as it deals with data formats that can be processed by multiple languages. Avro is a preferred tool to serialize data in Hadoop.

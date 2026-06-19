@@ -1,3 +1,12 @@
+---
+slug: /python/python-intro/data-structure/list
+title: 'Understanding Python Lists: Properties and Usage'
+description: Discover how to create, access, and modify lists in Python with this
+  comprehensive guide to properties and examples.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # List
 
 ## Properties

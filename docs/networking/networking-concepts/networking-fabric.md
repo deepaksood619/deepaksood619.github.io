@@ -1,3 +1,12 @@
+---
+slug: /networking/networking-concepts/networking-fabric
+title: Understanding Networking Fabric
+description: Explore the concept of networking fabric and its evolution from circuit-switched
+  connections to modern data networking topologies.
+created: '2023-03-05'
+last_update: '2024-02-26'
+---
+
 # Networking Fabric
 
 The networking switch fabric is the basic topology of how a network is laid out and connected to switch traffic on a data or circuit-switched network.

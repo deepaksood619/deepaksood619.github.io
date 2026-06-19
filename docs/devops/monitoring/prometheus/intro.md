@@ -1,3 +1,12 @@
+---
+slug: /devops/monitoring/prometheus/intro
+title: Overview of Prometheus Monitoring
+description: Learn about Prometheus, a powerful monitoring system for cloud-native
+  environments that collects and evaluates metrics effectively.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # Prometheus
 
 A CNCF (Cloud Native Computing Foundation) project, is a systems and service monitoring system. It collects metrics from configured targets at given intervals, evaluates rule expressions, displays the results, and can trigger alerts if some condition is observed to be true.

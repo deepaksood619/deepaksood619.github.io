@@ -1,3 +1,12 @@
+---
+slug: /technologies/confluent/confluent-private-cloud-cpc
+title: Confluent Private Cloud Overview
+description: Discover how Confluent Private Cloud enables efficient Kafka deployment
+  while reducing infrastructure costs by up to 50%.
+created: '2026-01-11'
+last_update: '2026-03-27'
+---
+
 # Confluent Private Cloud (CPC)
 
 Confluent Private Cloud is a new deployment model for platform teams in large, regulated organizations or service providers operating Kafka at scale across multiple lines of business, developer teams, or clients.

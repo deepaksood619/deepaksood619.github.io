@@ -1,3 +1,12 @@
+---
+slug: /frontend/react/hooks
+title: Understanding React Hooks
+description: Explore React Hooks for managing state and lifecycle features in function
+  components with this comprehensive guide.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
+
 # Hooks
 
 - [1. Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)

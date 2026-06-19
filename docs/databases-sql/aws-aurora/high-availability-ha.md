@@ -1,4 +1,12 @@
-# High Availability (HA)
+---
+slug: /databases-sql/aws-aurora/high-availability-ha
+title: High Availability (HA)
+description: Discover the differences between Amazon RDS Multi-AZ deployments and
+  read replicas for ensuring high availability and read scalability in your database
+  solutions.
+created: '2024-05-02'
+last_update: '2026-03-27'
+---
 
 ## RDS HA
 

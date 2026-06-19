@@ -1,4 +1,11 @@
-# Stacks
+---
+slug: /languages/frameworks/stacks
+title: Stacks
+description: Explore the essential components of the Java stack, including Zookeeper,
+  Mesos, YARN, and more, to enhance your system coordination and resource management.
+created: '2023-03-05'
+last_update: '2026-03-27'
+---
 
 ## Java stack
 

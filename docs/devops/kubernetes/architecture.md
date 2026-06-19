@@ -1,3 +1,12 @@
+---
+slug: /devops/kubernetes/architecture
+title: Kubernetes Architecture Overview
+description: Explore the essential components of Kubernetes architecture, including
+  master and worker nodes, and their roles in container orchestration.
+created: '2023-03-05'
+last_update: '2024-02-01'
+---
+
 # Architecture
 
 ## Kubernetes Architecture

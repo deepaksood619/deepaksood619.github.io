@@ -1,4 +1,12 @@
-# MySQL
+---
+slug: /databases-sql/mysql/readme
+title: MySQL
+description: Explore MySQL with comprehensive resources on data types, connection
+  handling, triggers, transactions, optimizations, and administration for efficient
+  database management.
+created: '2025-06-10'
+last_update: '2025-06-10'
+---
 
 - [MySQL](databases-sql/mysql/intro.md)
 - [Documentation](databases-sql/mysql/documentation.md)

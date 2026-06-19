@@ -1,3 +1,12 @@
+---
+slug: /computer-science/security/cryptography/hash-function-design
+title: Understanding Hash Function Design
+description: Explore the Merkle-Damgård construction for hash functions and learn
+  how it ensures collision resistance.
+created: '2023-08-14'
+last_update: '2023-12-05'
+---
+
 # Hash Function Design
 
 ### Merkle--Damgård construction

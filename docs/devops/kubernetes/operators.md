@@ -1,3 +1,12 @@
+---
+slug: /devops/kubernetes/operators
+title: Understanding Kubernetes Operators
+description: Explore what Kubernetes Operators are, how they manage applications,
+  and their role in enhancing Kubernetes functionality.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # Operators
 
 https://operatorhub.io

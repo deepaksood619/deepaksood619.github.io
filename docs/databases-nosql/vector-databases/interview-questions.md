@@ -1,4 +1,12 @@
-# Interview Questions
+---
+slug: /databases-nosql/vector-databases/interview-questions
+title: Interview Questions
+description: Explore essential interview questions on vector databases covering HNSW
+  vs. IVF, metadata filtering, quantization methods, multi-tenancy, and re-indexing
+  strategies.
+created: '2026-03-11'
+last_update: '2026-03-12'
+---
 
 ## Top 5 Vector Database Questions
 

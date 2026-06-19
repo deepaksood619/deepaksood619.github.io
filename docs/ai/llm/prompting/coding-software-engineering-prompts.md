@@ -1,4 +1,12 @@
-# Coding / Software Engineering Prompts
+---
+slug: /ai/llm/prompting/coding-software-engineering-prompts
+title: Coding / Software Engineering Prompts
+description: Enhance your coding skills with expert prompts for software engineering,
+  focusing on code reviews, optimization, and best practices for secure, maintainable
+  code.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 ## Code Review Prompt
 

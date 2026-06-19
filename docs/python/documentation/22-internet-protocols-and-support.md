@@ -1,3 +1,12 @@
+---
+slug: /python/documentation/22-internet-protocols-and-support
+title: Internet Protocols and Support Overview
+description: Explore essential internet protocols in Python, including urllib, ftplib,
+  and smtp, for efficient web and email communication.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # 22. Internet Protocols and Support
 
 21.1. webbrowser

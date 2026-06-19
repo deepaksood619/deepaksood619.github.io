@@ -1,3 +1,12 @@
+---
+slug: /algorithms/general/flocking-boids-algorithm
+title: Understanding Flocking Boids Algorithm
+description: Explore the Flocking Boids Algorithm, a fascinating model explaining
+  bird flocking behavior through simple rules for collision, centering, and velocity.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # Flocking Boids Algorithm
 
 Boids: Three simple rules lead to complex emergent flocking behavior in birds:

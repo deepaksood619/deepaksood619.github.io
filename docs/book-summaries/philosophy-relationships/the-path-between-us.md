@@ -1,4 +1,11 @@
-# The path between us
+---
+slug: /book-summaries/philosophy-relationships/the-path-between-us
+title: The path between us
+description: Explore "The Path Between Us" by Suzanne Stabile, a guide for Ones on
+  the Enneagram to find joy and balance in relationships amidst perfectionism.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 An Enneagram Journey to Healthy Relationships
 

@@ -1,3 +1,12 @@
+---
+slug: /networking/others/grpc/others
+title: Automating gRPC with Git Hooks
+description: Discover how to automate gRPC generation using git hooks and learn why
+  gRPC is preferred over REST and JSON.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Others
 
 ## How to automate grpc generation using git hooks, why grpc over REST + JSON

@@ -1,4 +1,11 @@
-# Image Formats
+---
+slug: /ai/computer-vision-cv/image-formats
+title: Image Formats
+description: Explore various image formats including EXIF, JPG, JPEG-XL, and PNG,
+  and learn their features, uses, and advantages for digital photography.
+created: '2023-03-05'
+last_update: '2025-02-14'
+---
 
 ## Exchangeable image file format (EXIF)
 

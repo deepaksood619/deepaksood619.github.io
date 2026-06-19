@@ -1,3 +1,12 @@
+---
+slug: /computer-science/others/game-development
+title: Game Development Resources and Tools
+description: Explore essential resources, tools, and tutorials for mastering game
+  development and building engaging games.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Game Development
 
 https://docs.microsoft.com/en-us/archive/msdn-magazine/2015/march/game-development-a-web-game-in-an-hour

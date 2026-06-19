@@ -1,4 +1,11 @@
-# DL Specialization
+---
+slug: /ai/deep-learning/dl-specialization
+title: DL Specialization
+description: Explore the DL Specialization on Coursera to master neural networks,
+  deep learning techniques, and build efficient AI models for real-world applications.
+created: '2023-03-05'
+last_update: '2024-09-17'
+---
 
 [**https://www.coursera.org/specializations/deep-learning**](https://www.coursera.org/specializations/deep-learning)
 

@@ -1,3 +1,12 @@
+---
+slug: /python/documentation/python-language-reference
+title: Comprehensive Python Language Reference
+description: Explore the core semantics and syntax of Python with our detailed language
+  reference guide.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
+
 # Python Language Reference
 
 Describes the syntax and "core semantics" of the language.

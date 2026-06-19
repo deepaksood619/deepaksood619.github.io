@@ -1,4 +1,11 @@
-# Algebra
+---
+slug: /mathematics/algebra/readme
+title: Algebra
+description: Explore our comprehensive guide to Algebra, covering sets, functions,
+  complex numbers, exponential and logarithmic concepts, and more.
+created: '2023-03-05'
+last_update: '2025-05-03'
+---
 
 - [Intro](mathematics/algebra/intro.md)
 - [Sets](sets)

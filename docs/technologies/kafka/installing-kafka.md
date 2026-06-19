@@ -1,3 +1,12 @@
+---
+slug: /technologies/kafka/installing-kafka
+title: 'Installing Kafka: A Step-by-Step Guide'
+description: Learn how to install Kafka effectively, configure Zookeeper ensembles,
+  and optimize your Kafka setup for better performance.
+created: '2023-03-05'
+last_update: '2024-08-12'
+---
+
 # Installing Kafka
 
 - A Zookeeper cluster is called an *ensemble*, it is recommended that ensembles contain an odd number of servers

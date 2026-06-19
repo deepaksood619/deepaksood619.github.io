@@ -1,4 +1,11 @@
-# Self Awareness
+---
+slug: /psychology/self-awareness
+title: Self Awareness
+description: Discover the importance of self-awareness and how understanding yourself
+  and others can lead to personal and professional success.
+created: '2023-03-05'
+last_update: '2025-10-08'
+---
 
 It is the ability to see ourselves clearly, to understand who we are, how other see us, and how we fit into the world
 

@@ -1,4 +1,11 @@
-# Regular Expressions / Regex
+---
+slug: /languages/others/regular-expressions-regex
+title: Regular Expressions / Regex
+description: Learn about Regular Expressions (Regex), their standards, and how regex
+  processors utilize algorithms to match patterns against strings in text searching.
+created: '2023-03-05'
+last_update: '2026-03-09'
+---
 
 Its different from wildcards (Wildcards have very few metacharacters than Regular Expressions)
 

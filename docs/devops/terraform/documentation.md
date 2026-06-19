@@ -1,3 +1,12 @@
+---
+slug: /devops/terraform/documentation
+title: AWS Provider Configuration Guide
+description: Learn how to configure the AWS provider in Terraform for effective resource
+  management and API interactions.
+created: '2023-03-05'
+last_update: '2026-02-19'
+---
+
 # Documentation
 
 ## Providers

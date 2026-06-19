@@ -1,3 +1,12 @@
+---
+slug: /education/competitors/mentorship-platforms/smaller-platforms-review
+title: Review of Smaller Mentorship Platforms
+description: Explore our consolidated review of 15+ smaller mentorship platforms,
+  covering their focus, pricing, and unique offerings.
+created: '2026-06-08'
+last_update: '2026-06-09'
+---
+
 # Smaller Mentorship Platforms - Consolidated Review
 
 **Date:** 2026-06-08

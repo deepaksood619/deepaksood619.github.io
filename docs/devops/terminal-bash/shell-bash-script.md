@@ -1,3 +1,12 @@
+---
+slug: /devops/terminal-bash/shell-bash-script
+title: Introduction to Shell/Bash Scripts
+description: Learn the fundamentals of shell/bash scripting, including file manipulation,
+  program execution, and environment setup.
+created: '2023-03-05'
+last_update: '2026-03-03'
+---
+
 # Shell/bash Script
 
 A **shell script** is a [computer program](https://en.wikipedia.org/wiki/Computer_program) designed to be run by the [Unix shell](https://en.wikipedia.org/wiki/Unix_shell), a [command-line interpreter](https://en.wikipedia.org/wiki/Command-line_interpreter). The various dialects of shell scripts are considered to be [scripting languages](https://en.wikipedia.org/wiki/Scripting_language). Typical operations performed by shell scripts include file manipulation, program execution, and printing text. A script which sets up the environment, runs the program, and does any necessary cleanup, logging, etc. is called a **wrapper**.

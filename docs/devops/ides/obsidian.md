@@ -1,3 +1,12 @@
+---
+slug: /devops/ides/obsidian
+title: Exploring Obsidian Plugins and Extensions
+description: Discover essential plugins and extensions to enhance your Obsidian knowledge
+  base experience for better productivity.
+created: '2023-03-05'
+last_update: '2026-06-17'
+---
+
 # Obsidian
 
 Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files.
@@ -33,7 +42,6 @@ Extensions that helps make obsidian better
 - Linter
 - Reading Time
 - Templater
-- Spaced Repetition (Flashcards)
 - [Regex Find/Replace](https://github.com/Gru80/obsidian-regex-replace) ⭐ 93
 - [GitHub - zsviczian/excalibrain: A graph view to navigate your Obsidian vault](https://github.com/zsviczian/excalibrain) ⭐ 961
 - [GitHub - valentine195/obsidian-leaflet-plugin: Adds interactive maps to Obsidian using Leaflet.js](https://github.com/valentine195/obsidian-leaflet-plugin) ⭐ 696
@@ -57,8 +65,13 @@ Extensions that helps make obsidian better
 - [GitHub - PaulTreanor/notes-dater: Adds created\_on and updated\_on dates of the active note to status bar](https://github.com/PaulTreanor/notes-dater) ⭐ 18
 - [GitHub - polyipseity/obsidian-terminal: Integrate consoles, shells, and terminals. · GitHub](https://github.com/polyipseity/obsidian-terminal) ⭐ 846
 - [GitHub - obsidian-community/obsidian-style-settings: A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian · GitHub](https://github.com/obsidian-community/obsidian-style-settings) ⭐ 2.3k
+- Folder organization
+	- [File Explorer Organization \| Custom Sort Revisited - YouTube](https://www.youtube.com/watch?v=VY_VPI-STlg)
+	- [What Nobody Tells You About Organizing Folders in Obsidian - YouTube](https://www.youtube.com/watch?v=RNH4zpVUm3E)
+	- [How to Manage Projects with Four Intensities - YouTube](https://www.youtube.com/watch?v=Ew7ZBu4r8vg)
+	- [A Custom Obsidian Theme To Feel More Reflective - YouTube](https://www.youtube.com/watch?v=lUZjpIhYOEw)
 
-### LearnKit
+### LearnKit - Spaced Repetition (Flashcards)
 
 #### Key features
 

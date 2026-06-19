@@ -1,3 +1,12 @@
+---
+slug: /devops/docker/containers
+title: Understanding Container Runtimes
+description: Explore container runtimes like Docker and CRI-O, their integration with
+  Kubernetes, and the role of the Open Container Initiative.
+created: '2023-03-05'
+last_update: '2026-03-27'
+---
+
 # Containers
 
 A container runtime is the component which runs the containerized application upon request. Docker Engine remains the default for Kubernetes, though CRI-O and others are gaining community support.

@@ -1,4 +1,11 @@
-# Linguistics
+---
+slug: /knowledge/language/linguistics
+title: Linguistics
+description: Explore the fascinating world of linguistics, focusing on graphemes as
+  key units in writing systems, including alphabets, abjads, and syllabaries.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
 
 [Writing Systems of the World | Abjads, Alphabets, Abugidas, Syllabaries & Logosyllabaries](https://youtu.be/Mmz42awTRsA)
 

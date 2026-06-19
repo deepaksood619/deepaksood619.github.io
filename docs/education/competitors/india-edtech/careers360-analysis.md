@@ -1,10 +1,12 @@
 ---
-title: Careers360 Competitive Analysis
-date: 2026-05-05
-type: competitor-analysis
-domain: edtech-india
-tags: [careers360, career-counseling, college-information, india-edtech, seo-dominant, information-platform]
+slug: /education/competitors/india-edtech/careers360-analysis
+title: Careers360 Company Analysis
+description: Explore Careers360's insights, scale, and coverage in the education sector,
+  serving millions of students and parents annually.
+created: '2026-05-09'
+last_update: '2026-06-08'
 ---
+
 ## Company Overview
 
 - **Founded:** 2008

@@ -1,4 +1,11 @@
-# Human History / Anthropology
+---
+slug: /knowledge/history/human-history-anthropology
+title: Human History / Anthropology
+description: Discover the key milestones in human history and anthropology, from our
+  origins to the emergence of Homo and the impact of fire on brain development.
+created: '2023-03-05'
+last_update: '2025-12-12'
+---
 
 [Human Origins 101 | National Geographic - YouTube](https://www.youtube.com/watch?v=ehV-MmuvVMU&ab_channel=NationalGeographic)
 

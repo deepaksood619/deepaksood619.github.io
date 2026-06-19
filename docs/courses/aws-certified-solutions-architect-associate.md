@@ -1,4 +1,11 @@
-# AWS Certified Solutions Architect - Associate
+---
+slug: /courses/aws-certified-solutions-architect-associate
+title: AWS Certified Solutions Architect - Associate
+description: Become an AWS Certified Solutions Architect - Associate and master cost-effective,
+  secure, and resilient cloud solutions with proven design principles.
+created: '2025-09-22'
+last_update: '2025-11-14'
+---
 
 [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 

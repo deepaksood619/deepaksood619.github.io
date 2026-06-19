@@ -1,3 +1,12 @@
+---
+slug: /devops/ides/mac
+title: Essential Mac Shortcuts and Tips
+description: Discover essential Mac shortcuts for screenshots, quick commands, and
+  more to enhance your productivity and streamline your workflow.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # Mac
 
 ## Shortcuts

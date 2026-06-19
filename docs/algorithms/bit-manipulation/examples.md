@@ -1,3 +1,12 @@
+---
+slug: /algorithms/bit-manipulation/examples
+title: Bit Manipulation Techniques Examples
+description: Explore essential examples of bit manipulation techniques including power
+  of two checks, counting bits, and generating subsets.
+created: '2023-03-05'
+last_update: '2023-12-06'
+---
+
 # Examples
 
 1. Check if a number is power of two

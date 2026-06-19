@@ -1,3 +1,12 @@
+---
+slug: /devops/ides/jupyter-jupyterlab-notebook/tools
+title: Essential Tools for Jupyter Notebooks
+description: Discover powerful tools like nteract and Papermill to enhance your Jupyter
+  notebook experience and streamline data analysis.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # Tools
 
 https://sqlnotebook.com

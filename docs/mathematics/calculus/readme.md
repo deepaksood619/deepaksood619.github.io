@@ -1,4 +1,11 @@
-# Calculus
+---
+slug: /mathematics/calculus/readme
+title: Calculus
+description: Explore the fundamentals of calculus through derivatives, functions,
+  and essential concepts, enhanced by engaging resources like 3Blue1Brown's insights.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
 
 - [Precalculus Intro](precalculus-intro)
 - [Intro](mathematics/calculus/intro.md)

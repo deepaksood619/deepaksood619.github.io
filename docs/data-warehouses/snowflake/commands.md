@@ -1,3 +1,12 @@
+---
+slug: /data-warehouses/snowflake/commands
+title: Using SnowSQL Commands Guide
+description: Learn how to effectively use SnowSQL commands for executing SQL queries
+  and managing Snowflake database operations.
+created: '2024-01-04'
+last_update: '2025-06-10'
+---
+
 # Commands
 
 ## SnowSQL (CLI Client)

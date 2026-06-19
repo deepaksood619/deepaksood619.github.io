@@ -1,3 +1,12 @@
+---
+slug: /management/product-analytics/purchase-analytics
+title: Understanding Purchase Analytics
+description: Explore price elasticity of purchase probability and its impact on consumer
+  behavior with our detailed analysis.
+created: '2025-02-27'
+last_update: '2025-02-27'
+---
+
 # Purchase Analytics
 
 ### Price elasticity of purchase probability

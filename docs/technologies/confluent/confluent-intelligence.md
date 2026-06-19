@@ -1,3 +1,12 @@
+---
+slug: /technologies/confluent/confluent-intelligence
+title: Confluent Intelligence Overview
+description: Discover how Confluent Intelligence integrates LLMs, ML, RAG, and agentic
+  AI into your streaming data workflows.
+created: '2026-01-11'
+last_update: '2026-06-19'
+---
+
 # Confluent Intelligence
 
 Confluent Intelligence enables you to seamlessly integrate large-language models (LLMs), machine learning (ML), retrieval-augmented generation (RAG), and agentic AI into your streaming data workflows.

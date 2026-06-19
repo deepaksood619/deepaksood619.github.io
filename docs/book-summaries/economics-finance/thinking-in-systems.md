@@ -1,4 +1,11 @@
-# Thinking in Systems
+---
+slug: /book-summaries/economics-finance/thinking-in-systems
+title: Thinking in Systems
+description: Explore "Thinking in Systems" by Donella H. Meadows, highlighting key
+  concepts like stocks, flows, and feedback in sustainable systems for better understanding.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 By Donella H. Meadows
 

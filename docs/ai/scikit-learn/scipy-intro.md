@@ -1,4 +1,11 @@
-# Intro
+---
+slug: /ai/scikit-learn/scipy-intro
+title: Intro
+description: Explore SciPy and Scikit-learn for scientific computing in Python, featuring
+  libraries for numerical analysis, machine learning, and advanced visualization techniques.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
 
 SciPy provides a large menu of libraries for scientific computation, such as integration, interpolation, signal processing, linear algebra, statistics, etc. It is built upon the infrastructure of Numpy
 

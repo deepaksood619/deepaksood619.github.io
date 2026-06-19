@@ -1,4 +1,11 @@
-# Connection Handling
+---
+slug: /databases-sql/mysql/connection-handling
+title: Connection Handling
+description: Learn how MySQL handles connections through user threads, enabling efficient
+  query execution and user interaction until limits are reached.
+created: '2023-03-05'
+last_update: '2025-06-10'
+---
 
 The MySQL Server (mysqld) executes as a single OS process, with multiple threads executing concurrent activities. MySQL does not have its own thread implementation, but relies on the thread implementation of the underlying OS. When a user connects to the database a user thread is created inside mysqld and this user thread executes user queries, sending results back to the user, until the user disconnects.
 

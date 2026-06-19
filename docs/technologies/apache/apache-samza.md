@@ -1,3 +1,12 @@
+---
+slug: /technologies/apache/apache-samza
+title: Overview of Apache Samza
+description: Learn about Apache Samza, a stream processing framework that leverages
+  Apache Kafka for efficient data handling and fault tolerance.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # Apache Samza
 
 Apache Samza

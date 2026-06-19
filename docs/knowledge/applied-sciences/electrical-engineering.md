@@ -1,4 +1,11 @@
-# Electrical Engineering
+---
+slug: /knowledge/applied-sciences/electrical-engineering
+title: Electrical Engineering
+description: Explore the fundamentals of electrical engineering, from magnetism to
+  telecommunications, power systems, and computer engineering innovations like transistors.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
 
 - William Gilbert: De Magnete (On a Magnet) - He was the first to describe the phenomena we now associate with electrical attraction and magnetic poles, which is why many view him as the father of electrical studies
 - Telecommunications

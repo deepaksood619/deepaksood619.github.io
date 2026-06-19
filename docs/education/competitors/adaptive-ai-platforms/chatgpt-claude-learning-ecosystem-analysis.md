@@ -1,10 +1,12 @@
 ---
-title: ChatGPT vs Claude - Learning Ecosystem Deep-Dive Analysis
-date: 2026-06-10
-type: competitor-analysis
-domain: ai-learning-platforms
-tags: [chatgpt, claude, openai, anthropic, ai-tutoring, learning-features, gpts, artifacts, canvas, plugins]
+slug: /education/competitors/adaptive-ai-platforms/chatgpt-claude-learning-ecosystem-analysis
+title: ChatGPT vs. Claude Learning Ecosystem Analysis
+description: Explore a detailed EdTech comparison of ChatGPT and Claude's features
+  designed to enhance human learning and engagement.
+created: '2026-06-11'
+last_update: '2026-06-17'
 ---
+
 > **Purpose:** Comprehensive EdTech analysis of native features, specialized modes, and top-tier plugins/skills on ChatGPT (OpenAI) and Claude (Anthropic) engineered to optimize and accelerate human learning.
 
 ---

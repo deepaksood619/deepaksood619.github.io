@@ -1,4 +1,11 @@
-# Sagemaker Lakehouse
+---
+slug: /cloud/aws/ai/sagemaker-lakehouse
+title: Sagemaker Lakehouse
+description: Discover Amazon SageMaker Lakehouse, a unified architecture that accelerates
+  analytics and AI with zero-ETL integration for seamless data accessibility.
+created: '2025-10-28'
+last_update: '2026-01-28'
+---
 
 [AWS re:Invent 2024 - \[NEW LAUNCH\] Amazon SageMaker Lakehouse: Accelerate analytics & AI (ANT354-NEW) - YouTube](https://youtu.be/LkH6ZzzA9dM)
 

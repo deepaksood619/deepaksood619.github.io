@@ -1,4 +1,11 @@
-# Overview
+---
+slug: /databases-nosql/mongodb/overview
+title: Overview
+description: Discover the essentials of MongoDB, including databases, collections,
+  and documents, and learn how they dynamically organize data for flexible applications.
+created: '2023-03-05'
+last_update: '2025-06-10'
+---
 
 ## Database
 

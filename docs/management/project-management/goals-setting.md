@@ -1,3 +1,13 @@
+---
+slug: /management/project-management/goals-setting
+title: Effective SMART Goals Framework
+description: Learn how to set effective SMART goals that are Specific, Measurable,
+  Achievable, Relevant, and Time-Bound for successful personal and organizational
+  growth.
+created: '2023-03-21'
+last_update: '2024-12-19'
+---
+
 # Goals Setting
 
 ### SMART Goals

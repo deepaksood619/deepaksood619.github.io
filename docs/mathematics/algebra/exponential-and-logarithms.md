@@ -1,4 +1,11 @@
-# 2.7. Exponential & logarithms
+---
+slug: /mathematics/algebra/exponential-and-logarithms
+title: 2.7. Exponential & logarithms
+description: Explore the fundamentals of exponential functions and logarithms, including
+  key properties, the constant e, and methods for solving exponential equations.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
 
 1. Introduction to logarithms
    - Intro to logarithms

@@ -1,3 +1,12 @@
+---
+slug: /technologies/confluent/confluent-cloud-networking/07-aws-transit-gateway
+title: Understanding AWS Transit Gateway
+description: Learn how AWS Transit Gateway enhances network flexibility and connectivity
+  across VPCs in AWS.
+created: '2025-12-10'
+last_update: '2026-01-28'
+---
+
 # AWS Transit Gateway
 
 ## When Is AWS Transit Gateway Needed?

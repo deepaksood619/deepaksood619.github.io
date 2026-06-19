@@ -1,4 +1,11 @@
-# Indexes in Postgres
+---
+slug: /databases-sql/postgres/indexes
+title: Indexes in Postgres
+description: Discover the various types of indexes in PostgreSQL, including B-tree
+  and hash indexes, to optimize data retrieval and enhance database performance.
+created: '2024-01-09'
+last_update: '2025-09-12'
+---
 
 [PostgreSQL: Documentation: 16: Chapter 11. Indexes](https://www.postgresql.org/docs/current/indexes.html)
 

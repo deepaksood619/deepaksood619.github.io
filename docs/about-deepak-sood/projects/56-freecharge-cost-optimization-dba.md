@@ -1,3 +1,12 @@
+---
+slug: /about-deepak-sood/projects/56-freecharge-cost-optimization-dba
+title: Freecharge Cost Optimization Insights
+description: Discover how Freecharge reduced AWS costs from $150K to $110K while optimizing
+  infrastructure and automating tasks.
+created: '2024-07-11'
+last_update: '2024-12-18'
+---
+
 # Freecharge - Cost Optimization and Database Administration
 
 ## Client Overview

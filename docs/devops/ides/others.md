@@ -1,3 +1,12 @@
+---
+slug: /devops/ides/others
+title: Essential Google Apps Shortcuts
+description: Discover essential shortcuts for Google Meet, Sheets, Chrome, and more
+  to enhance your productivity and streamline your workflow.
+created: '2023-03-05'
+last_update: '2026-02-27'
+---
+
 # Others
 
 ## Google Meet

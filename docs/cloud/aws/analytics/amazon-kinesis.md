@@ -1,4 +1,11 @@
-# Amazon Kinesis
+---
+slug: /cloud/aws/analytics/amazon-kinesis
+title: Amazon Kinesis
+description: Discover Amazon Kinesis for real-time streaming data processing and analytics,
+  handling high volumes from various sources for immediate insights and actions.
+created: '2024-07-11'
+last_update: '2025-11-12'
+---
 
 Work with Real-time Streaming Data
 

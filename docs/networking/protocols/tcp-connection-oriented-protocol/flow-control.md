@@ -1,3 +1,12 @@
+---
+slug: /networking/protocols/tcp-connection-oriented-protocol/flow-control
+title: Understanding TCP Flow Control
+description: Learn how TCP Flow Control manages data transmission between nodes without
+  overwhelming receivers, distinct from congestion control.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Flow Control
 
 Flow Control basically means that TCP will ensure that a sender is not overwhelming a receiver by sending packets faster than it can consume. It's pretty similar to what's normally called *Back pressure* in the Distributed Systems literature. The idea is that a node receiving data will send some kind of feedback to the node sending the data to let it know about its current condition.

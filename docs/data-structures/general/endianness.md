@@ -1,3 +1,12 @@
+---
+slug: /data-structures/general/endianness
+title: 'Understanding Endianness: Formats Explained'
+description: 'Explore endianness and its formats: Little Endian, Big Endian, Middle
+  Endian, and Bi-endian systems. Learn how data storage affects computation.'
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Endianness
 
 adjective - denoting or relating to a system of ordering bytes in a word, or bits in a byte, in which the most significant (or least significant) item is put first.

@@ -1,3 +1,12 @@
+---
+slug: /computer-science/interview-question/others
+title: Essential System Design Resources
+description: Explore a curated list of system design resources, interview questions,
+  and templates for software engineers.
+created: '2023-03-05'
+last_update: '2025-05-03'
+---
+
 # Others
 
 [Question Bank](https://docs.google.com/spreadsheets/d/1iap0smKltoGDfr8kDj6dM__jh53Ng3HJ/edit#gid=144102656)

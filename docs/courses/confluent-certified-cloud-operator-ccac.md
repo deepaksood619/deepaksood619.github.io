@@ -1,4 +1,11 @@
-# Confluent Certified Cloud Operator (CCAC)
+---
+slug: /courses/confluent-certified-cloud-operator-ccac
+title: Confluent Certified Cloud Operator (CCAC)
+description: Become a Confluent Certified Cloud Operator (CCAC) to master Confluent
+  Cloud, Kafka operations, security, and architecture with a 60-question exam.
+created: '2025-12-04'
+last_update: '2026-02-15'
+---
 
 - **60 multiple choice** questions in **90 minutes​**
 - The Certification expires after **two years**

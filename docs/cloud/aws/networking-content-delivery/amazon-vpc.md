@@ -1,4 +1,11 @@
-# Amazon VPC
+---
+slug: /cloud/aws/networking-content-delivery/amazon-vpc
+title: Amazon VPC
+description: Amazon VPC allows you to create a secure, isolated virtual network in
+  AWS, providing full control over IP addresses, subnets, and routing for your resources.
+created: '2023-03-05'
+last_update: '2026-04-21'
+---
 
 Amazon Virtual Private Cloud (Amazon VPC) lets you provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define. You have complete control over your virtual networking environment, including selection of your own IP address range, creation of subnets, and configuration of route tables and network gateways. You can use both IPv4 and IPv6 in your VPC for secure and easy access to resources and applications.
 

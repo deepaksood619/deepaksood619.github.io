@@ -1,3 +1,12 @@
+---
+slug: /devops/devops-intro/disaster-recovery
+title: Understanding Disaster Recovery Metrics
+description: Learn about RTO and RPO to effectively manage disaster recovery and minimize
+  downtime and data loss for your business.
+created: '2023-03-05'
+last_update: '2025-10-27'
+---
+
 # Disaster Recovery
 
 ## RTO - Recovery Time Objective

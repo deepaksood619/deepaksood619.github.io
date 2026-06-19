@@ -1,4 +1,11 @@
-# ID3, C4.5 and CHAID
+---
+slug: /ai/ml-algorithms/id3-c45-and-chaid
+title: ID3, C4.5 and CHAID
+description: Explore the differences and improvements of ID3, C4.5, and CHAID algorithms
+  in decision tree analysis, including handling of data issues and pruning techniques.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
 
 CHAID - Chi-Squared Automatic Interaction Detection
 

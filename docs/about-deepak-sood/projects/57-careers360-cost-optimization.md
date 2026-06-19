@@ -1,3 +1,12 @@
+---
+slug: /about-deepak-sood/projects/57-careers360-cost-optimization
+title: Careers360 AWS Cost Optimization
+description: Discover how Careers360 reduced AWS expenses and improved application
+  performance with effective cost optimization strategies.
+created: '2024-07-11'
+last_update: '2024-12-18'
+---
+
 # Careers360 Cost Optimization
 
 ## Client Overview

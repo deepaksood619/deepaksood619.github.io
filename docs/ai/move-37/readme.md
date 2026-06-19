@@ -1,4 +1,11 @@
-# Move37
+---
+slug: /ai/move-37/readme
+title: Move37
+description: Explore Move37's comprehensive resources on reinforcement learning, including
+  Markov processes, dynamic programming, Monte Carlo methods, and Q-learning algorithms.
+created: '2023-03-05'
+last_update: '2024-02-01'
+---
 
 - [Syllabus](ai/move-37/syllabus.md)
 - [Markov Decision Process](1-markov-decision-process)

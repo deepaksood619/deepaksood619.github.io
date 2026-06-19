@@ -1,11 +1,12 @@
 ---
-title: AI-Powered Assessment & Education Platforms
-date: 2026-05-02
-type: research-analysis
-domains: [edtech, hr-tech, ai-ml]
-tags: [ai-assessment, interview-prep, coding-tests, education, hiring]
-status: active
+slug: /education/product-concepts/ai-assessment-platforms
+title: AI Assessment Platforms for Founders
+description: Explore the benefits and competitive advantages of AI assessment platforms
+  for solo founders in the digital landscape.
+created: '2026-05-02'
+last_update: '2026-06-08'
 ---
+
 
 **Category Analysis for Solo Founders**
 

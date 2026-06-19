@@ -1,3 +1,12 @@
+---
+slug: /devops/devops-intro/distributed-tracing
+title: Understanding Distributed Tracing
+description: Learn how distributed tracing helps IT and DevOps teams monitor and debug
+  microservices architectures effectively.
+created: '2023-03-05'
+last_update: '2023-12-23'
+---
+
 # Distributed Tracing
 
 Distributed tracing, also called distributed request tracing, is a method used to profile and monitor applications, especially those built using a microservices architecture. Distributed tracing helps pinpoint where failures occur and what causes poor performance.

@@ -1,4 +1,11 @@
-# Python
+---
+slug: /python/readme
+title: Python
+description: Explore Python programming with comprehensive documentation, testing
+  tools, and frameworks like Django, plus advanced resources and additional content.
+created: '2023-03-05'
+last_update: '2025-11-10'
+---
 
 - [Python](python-intro/readme.md)
 - [Documentation](documentation/readme.md)

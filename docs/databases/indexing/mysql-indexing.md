@@ -1,3 +1,12 @@
+---
+slug: /databases/indexing/mysql-indexing
+title: Essential MySQL Indexing Tips
+description: Discover key MySQL indexing strategies to optimize queries, avoid common
+  mistakes, and boost database performance.
+created: '2023-03-05'
+last_update: '2024-12-23'
+---
+
 # MySQL Indexing
 
 ## Important Points / Keep in mind / Gotchas

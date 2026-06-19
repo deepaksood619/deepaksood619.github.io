@@ -1,4 +1,11 @@
-# Gradient
+---
+slug: /mathematics/calculus/gradient
+title: Gradient
+description: Explore the concept of gradient, a multi-variable generalization of the
+  derivative, representing the slope in functions of several variables.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
 
 In [mathematics](https://en.wikipedia.org/wiki/Mathematics), the **gradient** is a multi-variable generalization of the [derivative](https://en.wikipedia.org/wiki/Derivative). While a derivative can be defined on functions of a single variable, for [functions of several variables](https://en.wikipedia.org/wiki/Function_of_several_variables), the gradient takes its place. The gradient is a [vector-valued function](https://en.wikipedia.org/wiki/Vector-valued_function), as opposed to a derivative, which is [scalar-valued](https://en.wikipedia.org/wiki/Scalar-valued_function).
 

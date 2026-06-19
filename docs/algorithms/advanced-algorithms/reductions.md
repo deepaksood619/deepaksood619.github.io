@@ -1,3 +1,12 @@
+---
+slug: /algorithms/advanced-algorithms/reductions
+title: Understanding Reductions in Computation
+description: Explore how reductions classify computational problems, aid algorithm
+  design, and establish problem relationships.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # Reductions
 
 In this lecture our goal is to develop ways to classify problems according to their computational requirements. We introduce the concept of reduction as a technique for studying the relationship among problems. People use reductions to design algorithms, establish lower bounds, and classify problems in terms of their computational requirements.

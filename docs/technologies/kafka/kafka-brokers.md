@@ -1,3 +1,12 @@
+---
+slug: /technologies/kafka/kafka-brokers
+title: Understanding Kafka Brokers
+description: Learn about Kafka brokers, their role in data storage, and how they facilitate
+  scalable and reliable data streaming.
+created: '2025-12-15'
+last_update: '2026-03-03'
+---
+
 # Kafka Brokers
 
 In Kafka, **brokers** are the servers that store data and handle all data streaming requests. When you run Kafka, each instance of the Kafka server process is a **broker**. These brokers can be deployed on physical machines, cloud instances, or even Raspberry Pis. Each broker stores **partitions** of **topics**, allowing Kafka to distribute storage and processing across multiple servers for scalability and reliability.

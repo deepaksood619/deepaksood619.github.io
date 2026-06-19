@@ -1,4 +1,11 @@
-# Crash Course World History
+---
+slug: /knowledge/history/crash-course-world-history
+title: Crash Course World History
+description: Explore the key events and concepts of world history, from the Agriculture
+  Revolution to the rise and fall of the Indus Valley Civilization.
+created: '2023-03-05'
+last_update: '2025-10-01'
+---
 
 ## Crash Course World History 1
 

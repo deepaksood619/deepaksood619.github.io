@@ -1,4 +1,11 @@
-# Outline of Knowledge
+---
+slug: /knowledge/general/outline-of-knowledge
+title: Outline of Knowledge
+description: Explore the essential concepts of knowledge and wisdom, differentiating
+  between a priori and a posteriori knowledge in our comprehensive outline.
+created: '2023-03-05'
+last_update: '2025-10-24'
+---
 
 Knowledge is making the right choice with all the information.
 

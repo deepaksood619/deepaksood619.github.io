@@ -1,3 +1,12 @@
+---
+slug: /education/competitors/job-platforms/indeed-india-analysis
+title: Indeed India Job Aggregator Analysis
+description: Explore the business model and revenue streams of Indeed's India operations
+  as a leading global job aggregator.
+created: '2026-06-08'
+last_update: '2026-06-09'
+---
+
 # Indeed India Analysis
 
 **Last Updated:** June 2026

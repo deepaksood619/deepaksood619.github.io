@@ -1,4 +1,11 @@
-# Brain
+---
+slug: /psychology/brain
+title: Brain
+description: Explore the complexities of the brain, its functions, and effective exercises
+  to boost cognition and enhance creativity through engaging activities.
+created: '2023-03-05'
+last_update: '2026-02-27'
+---
 
 Left side of brain - Logic, Language, Linear (Analytical / Logical)
 

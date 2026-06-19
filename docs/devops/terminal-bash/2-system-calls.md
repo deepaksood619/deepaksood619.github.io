@@ -1,3 +1,12 @@
+---
+slug: /devops/terminal-bash/2-system-calls
+title: Understanding System Calls in Linux
+description: Explore key system calls like msync and BPF for file synchronization
+  and network packet filtering in Linux systems.
+created: '2023-03-05'
+last_update: '2026-04-28'
+---
+
 # (2) System Calls
 
 ## man syscalls

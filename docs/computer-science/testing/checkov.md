@@ -1,3 +1,12 @@
+---
+slug: /computer-science/testing/checkov
+title: 'Checkov: Streamlined IaC Security'
+description: Discover how Checkov simplifies policy-as-code with user-friendly tools
+  for scanning cloud environments and ensuring compliance.
+created: '2024-01-15'
+last_update: '2026-06-11'
+---
+
 # Checkov
 
 Policy-as-code for everyone

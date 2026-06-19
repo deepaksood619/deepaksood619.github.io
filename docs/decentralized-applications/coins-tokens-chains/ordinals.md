@@ -1,4 +1,12 @@
-# Ordinals
+---
+slug: /decentralized-applications/coins-tokens-chains/ordinals
+title: Ordinals
+description: 'Discover Ordinals: innovative NFTs inscribed directly on the Bitcoin
+  blockchain, promising to transform the crypto landscape and challenge Ethereum''s
+  NFT model.'
+created: '2023-03-14'
+last_update: '2023-06-26'
+---
 
 Ordinals are NFTs that you can mint on the Bitcoin blockchain.
 

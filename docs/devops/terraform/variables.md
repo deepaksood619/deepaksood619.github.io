@@ -1,3 +1,12 @@
+---
+slug: /devops/terraform/variables
+title: Understanding Terraform Variables
+description: Learn how to define and assign variables in Terraform for better management
+  of your infrastructure as code.
+created: '2023-03-05'
+last_update: '2024-01-12'
+---
+
 # Variables
 
 ## Defining Variables

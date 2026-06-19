@@ -1,3 +1,12 @@
+---
+slug: /networking/mqtt/mqtt-over-websockets
+title: MQTT Over WebSockets Explained
+description: Learn how MQTT over WebSockets enables real-time communication and enhances
+  mobile web applications for live data and notifications.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # MQTT over WebSockets
 
 We've seen that MQTT is ideal for constrained devices and unreliable networks and that it is perfect for sending messages with a very low overhead. Naturally, it would be quite nice to send and receive MQTT messages directly in a browser. For example, on a mobile phone.MQTT over WebSockets is the answer. MQTT over WebSockets enables the browser to leverage all MQTT features. You can use these capabilities for many interesting use cases:

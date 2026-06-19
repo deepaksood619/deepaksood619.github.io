@@ -1,4 +1,11 @@
-# Doughnut Economics
+---
+slug: /book-summaries/economics-finance/doughnut-economics
+title: Doughnut Economics
+description: Explore Doughnut Economics by Kate Raworth, a fresh perspective on sustainable
+  and equitable global economies challenging traditional economic models.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 ## Part 1: The Author
 

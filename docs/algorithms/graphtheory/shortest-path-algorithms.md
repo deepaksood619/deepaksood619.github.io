@@ -1,3 +1,12 @@
+---
+slug: /algorithms/graphtheory/shortest-path-algorithms
+title: Understanding Shortest Path Algorithms
+description: Explore various shortest path algorithms, including single source, source-sink,
+  and all pairs, along with key concepts and efficient implementations.
+created: '2023-03-05'
+last_update: '2023-08-21'
+---
+
 # Shortest Path Algorithms
 
 ## Shortest path variants

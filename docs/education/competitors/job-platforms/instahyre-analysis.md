@@ -1,3 +1,12 @@
+---
+slug: /education/competitors/job-platforms/instahyre-analysis
+title: Instahyre Tech Hiring Analysis
+description: Explore Instahyre's AI-powered hiring platform tailored for tech talent,
+  enhancing recruiter efficiency and candidate quality in India.
+created: '2026-06-08'
+last_update: '2026-06-09'
+---
+
 # Instahyre Analysis
 
 **Last Updated:** June 2026

@@ -1,4 +1,12 @@
-# Decision Tree
+---
+slug: /ai/ml-algorithms/decision-tree
+title: Decision Tree
+description: Explore decision trees, a powerful predictive modeling tool in big data
+  analytics, offering fast learning, quick predictions, and high accuracy for diverse
+  problems.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
 
 ## Decision Tree for Big Data Analytics
 

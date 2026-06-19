@@ -1,10 +1,12 @@
 ---
-title: TechKareer - Curated Tech Recruitment Platform Analysis
-date: 2026-06-08
-type: competitor-analysis
-domain: job-platforms-recruitment-india
-tags: [techkareer, recruitment, tech-hiring, curated-talent, b2b, startup-hiring, india-tech-jobs]
+slug: /education/competitors/job-platforms/techkareer-analysis
+title: TechKareer Recruitment Analysis
+description: Discover how TechKareer connects top engineering talent with businesses
+  at lower costs and faster hiring times.
+created: '2026-06-08'
+last_update: '2026-06-08'
 ---
+
 
 ## Overview
 

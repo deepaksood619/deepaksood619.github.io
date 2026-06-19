@@ -1,4 +1,11 @@
-# Swing Trading
+---
+slug: /economics/market-mechanics/trading-derivatives/swing-trading
+title: Swing Trading
+description: Discover effective swing trading strategies, including technical analysis
+  and value migration, to maximize your profits in fluctuating markets.
+created: '2024-07-08'
+last_update: '2026-06-09'
+---
 
 - Technical swing
 - Sector swing

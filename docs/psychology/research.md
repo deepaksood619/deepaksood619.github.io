@@ -1,4 +1,11 @@
-# Research
+---
+slug: /psychology/research
+title: Research
+description: Explore the importance of asking the right questions in research, the
+  DIKW pyramid, and methods like cross-sectional studies for better insights.
+created: '2023-03-05'
+last_update: '2025-05-21'
+---
 
 The main point of science is **to ask the right questions.**
 

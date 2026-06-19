@@ -1,4 +1,11 @@
-# Think Again
+---
+slug: /book-summaries/philosophy-relationships/think-again
+title: Think Again
+description: Discover how productive disagreement and critical thinking can enhance
+  relationships and foster growth in Adam Grant's "Think Again."
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 By Adam Grant
 

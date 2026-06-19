@@ -1,3 +1,12 @@
+---
+slug: /technologies/apache-hadoop/big-data-hadoop-stack
+title: Understanding the Big Data Hadoop Stack
+description: Explore the Big Data Hadoop Stack, its history, design issues, and the
+  importance of moving computation to data for effective scalability.
+created: '2023-03-05'
+last_update: '2024-12-12'
+---
+
 # Big Data Hadoop Stack
 
 ## Hadoop

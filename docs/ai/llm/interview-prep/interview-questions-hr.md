@@ -1,4 +1,11 @@
-# Interview Questions HR
+---
+slug: /ai/llm/interview-prep/interview-questions-hr
+title: Interview Questions HR
+description: Discover key interview questions for HR roles, focusing on agent orchestration,
+  LLMs, and effective communication strategies for assessing candidates.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 ## Agent Orchestration
 

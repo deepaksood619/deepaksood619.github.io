@@ -1,4 +1,11 @@
-# Questions
+---
+slug: /databases-nosql/cassandra/questions
+title: Questions
+description: Explore essential Cassandra interview questions covering features, architecture,
+  and the CAP theorem to enhance your knowledge and ace your interview.
+created: '2023-03-05'
+last_update: '2025-06-10'
+---
 
 https://www.edureka.co/blog/interview-questions/cassandra-interview-questions
 

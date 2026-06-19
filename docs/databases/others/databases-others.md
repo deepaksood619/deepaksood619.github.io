@@ -1,3 +1,12 @@
+---
+slug: /databases/others/databases-others
+title: Understanding Flat File Databases
+description: Explore the fundamentals of flat file databases, their structure, and
+  how they operate in data storage and management.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # Databases - Others
 
 ## Flat file database

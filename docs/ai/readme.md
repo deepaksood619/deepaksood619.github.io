@@ -1,4 +1,11 @@
-# AI
+---
+slug: /ai/readme
+title: AI
+description: Explore the world of AI with insights on ML algorithms, deep learning,
+  data science, NLP, computer vision, and valuable resources for learning and growth.
+created: '2023-03-05'
+last_update: '2026-04-13'
+---
 
 - [agi](ai/agi.md)
 - [Model Evaulation](model-evaluation/readme.md)

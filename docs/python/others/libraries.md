@@ -1,3 +1,12 @@
+---
+slug: /python/others/libraries
+title: Overview of PyPy and Its Benefits
+description: Discover PyPy, a fast and memory-efficient Python implementation that
+  enhances performance for Python programs.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # Libraries
 
 nose packages

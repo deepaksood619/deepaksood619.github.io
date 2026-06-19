@@ -1,3 +1,12 @@
+---
+slug: /technologies/brokers/emqtt/conf
+title: Cluster Configuration Settings Guide
+description: Explore essential cluster configuration settings, including auto-discovery
+  strategies, resource limits, and protocols for effective management.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # Conf
 
 1. Cluster name

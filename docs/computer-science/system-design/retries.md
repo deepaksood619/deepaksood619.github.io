@@ -1,3 +1,12 @@
+---
+slug: /computer-science/system-design/retries
+title: Understanding Retry Strategies in Networking
+description: Learn about linear backoff and linear jitter backoff strategies for handling
+  retry attempts effectively.
+created: '2024-05-31'
+last_update: '2024-12-19'
+---
+
 # Retries
 
 ## Linear Backoff

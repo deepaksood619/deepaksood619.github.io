@@ -1,4 +1,11 @@
-# Spring
+---
+slug: /languages/java/spring
+title: Spring
+description: Discover how Spring Boot simplifies Java application development with
+  embedded servers and seamless integration for microservices and RESTful APIs.
+created: '2023-03-05'
+last_update: '2026-06-17'
+---
 
 ## Spring Boot
 

@@ -1,3 +1,12 @@
+---
+slug: /computer-science/operating-system/coroutines
+title: Understanding Coroutines in Python
+description: Explore the concept of coroutines in Python, their benefits for non-preemptive
+  multitasking, and their role in cooperative programming.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Coroutines
 
 [Coroutines](https://www.geeksforgeeks.org/coroutine-in-python/) are general control structures where flow control is cooperatively passed between two different routines without returning.

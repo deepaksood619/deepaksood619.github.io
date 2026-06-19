@@ -1,3 +1,12 @@
+---
+slug: /frontend/frontend-intro/pwa
+title: Overview of Progressive Web Apps
+description: Discover the key features of Progressive Web Apps, including offline
+  access, installation options, and seamless performance across devices.
+created: '2024-06-26'
+last_update: '2025-02-14'
+---
+
 # PWA: Progressive Web Apps
 
 - Look great on all screen sizes

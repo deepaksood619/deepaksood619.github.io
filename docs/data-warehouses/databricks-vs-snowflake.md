@@ -1,4 +1,11 @@
-# Databricks vs Snowflake
+---
+slug: /data-warehouses/databricks-vs-snowflake
+title: Databricks vs Snowflake
+description: Compare Databricks and Snowflake to discover their unique features, from
+  scalable storage to security, and find the best fit for your data needs.
+created: '2026-05-29'
+last_update: '2026-05-29'
+---
 
 ### Snowflake Pros
 

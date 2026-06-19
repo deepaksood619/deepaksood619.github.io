@@ -1,3 +1,12 @@
+---
+slug: /databases/indexing/readme
+title: Comprehensive Guide to Indexing
+description: Explore various indexing techniques and resources for databases including
+  MySQL, Postgres, and MongoDB to enhance query performance.
+created: '2023-03-05'
+last_update: '2025-06-10'
+---
+
 # Indexing
 
 - [Indexing](databases/indexing/intro.md)

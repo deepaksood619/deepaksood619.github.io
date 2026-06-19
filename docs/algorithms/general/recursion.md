@@ -1,3 +1,12 @@
+---
+slug: /algorithms/general/recursion
+title: Understanding Recursion Concepts
+description: Explore the fundamentals of recursion, including starter functions, base
+  cases, and decision patterns in programming.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Recursion
 
 https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-recursion-part-2

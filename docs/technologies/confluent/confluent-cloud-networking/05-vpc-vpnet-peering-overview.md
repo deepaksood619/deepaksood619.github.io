@@ -1,3 +1,12 @@
+---
+slug: /technologies/confluent/confluent-cloud-networking/05-vpc-vpnet-peering-overview
+title: VPC/VNet Peering Overview
+description: Explore the VPC/VNet peering options for Confluent Cloud, including setup,
+  benefits, and connectivity with AWS, Google, and Azure.
+created: '2025-12-10'
+last_update: '2026-01-28'
+---
+
 # VPC/VNet Peering – Overview
 
 ![VPC-VNet-Peering-overview](https://images.ctfassets.net/gt6dp23g0g38/4R6ePYoUHsNZ0oi5jxqEsK/b7bd9a6d397abe0e01e4ae9f3df0528e/VPC-VNet-Peering-overview.jpg)

@@ -1,4 +1,11 @@
-# The 3-Minute Rule
+---
+slug: /book-summaries/business/the-3-minute-rule
+title: The 3-Minute Rule
+description: Master the art of concise pitching with Brant Pinvidic's 3-Minute Rule,
+  answering key questions to engage and impress your audience effectively.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 By Brant Pinvidic
 

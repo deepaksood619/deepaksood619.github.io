@@ -1,4 +1,11 @@
-# Parameters / Configurations / Optimizations
+---
+slug: /databases-sql/postgres/parameters-configuration-optimization
+title: Parameters / Configurations / Optimizations
+description: Explore vital SQL parameters and optimizations to enhance performance,
+  including time zones, transaction isolation, and execution time settings.
+created: '2023-03-13'
+last_update: '2025-06-17'
+---
 
 ### Variables
 

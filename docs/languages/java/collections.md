@@ -1,4 +1,11 @@
-# Collections
+---
+slug: /languages/java/collections
+title: Collections
+description: Explore the collections framework, a unified architecture for managing
+  data, featuring interfaces, implementations, and algorithms for efficient data manipulation.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
 
 A*collection*--- sometimes called a container - is simply an object that groups multiple elements into a single unit. Collections are used to store, retrieve, manipulate, and communicate aggregate data.
 

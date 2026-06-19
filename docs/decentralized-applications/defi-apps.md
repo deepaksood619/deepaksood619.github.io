@@ -1,4 +1,11 @@
-# DeFi Apps
+---
+slug: /decentralized-applications/defi-apps
+title: DeFi Apps
+description: Discover DeFi apps like Yearn Finance, a yield aggregator on Ethereum
+  that maximizes returns through automated liquidity allocation and farming strategies.
+created: '2023-07-23'
+last_update: '2025-10-14'
+---
 
 [Liquidity Mining](decentralized-applications/liquidity-mining.md)
 

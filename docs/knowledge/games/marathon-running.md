@@ -1,4 +1,11 @@
-# Marathon / Running
+---
+slug: /knowledge/games/marathon-running
+title: Marathon / Running
+description: Explore effective home running exercises and boost your VO₂ max with
+  insights from Coach Ravinder, featuring India Running, Runizen, and Evantik.
+created: '2023-03-05'
+last_update: '2026-05-18'
+---
 
 https://www.youtube.com/watch?v=b-iGZPtWXzE
 

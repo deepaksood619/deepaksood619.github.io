@@ -1,3 +1,12 @@
+---
+slug: /education/product-concepts/quiz-app-prompt
+title: Logo Quiz App Development
+description: Create an engaging infinite real-time logo quiz app using Python, FastAPI,
+  React, and PostgreSQL for live leaderboard functionality.
+created: '2025-07-29'
+last_update: '2026-06-08'
+---
+
 # Quiz App Prompt
 
 ## Logo Quiz App using Google ADK

@@ -1,3 +1,12 @@
+---
+slug: /management/jobs/questions-to-company
+title: Essential Questions for Job Interviews
+description: Discover key questions to ask during interviews, ensuring informed decisions
+  and insightful discussions.
+created: '2023-08-29'
+last_update: '2026-03-16'
+---
+
 # Questions to company
 
 Always don't say yes to any offer at that time, always sleep over it

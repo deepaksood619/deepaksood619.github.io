@@ -1,4 +1,11 @@
-# Unit 2 - Solved Problems
+---
+slug: /mathematics/probability/intro-to-probability/unit-2-solved-problems
+title: Unit 2 - Solved Problems
+description: Explore solved problems in conditional probability and chess tournaments,
+  including dice outcomes and strategic match procedures in this detailed study guide.
+created: '2023-03-05'
+last_update: '2023-05-03'
+---
 
 ## Conditional probability example
 

@@ -1,3 +1,12 @@
+---
+slug: /algorithms/general/algorithms-questions
+title: Challenging Algorithms Questions for Practice
+description: Explore a curated list of algorithms questions, including recursion,
+  chip firing games, and more to enhance your problem-solving skills.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Algorithms Questions
 
 ## Homework Problems

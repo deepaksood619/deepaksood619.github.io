@@ -1,3 +1,12 @@
+---
+slug: /data-structures/hashtable/hash-tables
+title: Understanding Hash Tables
+description: Explore hash tables, a data structure designed for fast key-value data
+  storage and retrieval with constant-time performance.
+created: '2023-03-05'
+last_update: '2024-11-28'
+---
+
 # Hash Tables
 
 hash tables, a data structure that achieves constant-time performance for core symbol table operations, provided that search keys are standard data types or simply defined.

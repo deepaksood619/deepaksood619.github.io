@@ -1,4 +1,11 @@
-# Government Terms
+---
+slug: /economics/fundamentals/government-terms
+title: Government Terms
+description: Explore essential government terms like equitable distribution and digital
+  public goods, including UPI, Aadhaar, and government e-marketplace.
+created: '2023-03-05'
+last_update: '2026-06-09'
+---
 
 ## Equitable Distribution
 

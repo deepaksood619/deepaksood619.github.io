@@ -1,4 +1,11 @@
-# The Knowledge Illusion
+---
+slug: /book-summaries/psychology/the-knowledge-illusion
+title: The Knowledge Illusion
+description: Explore the illusion of knowledge as Sloman and Fernbach reveal how our
+  understanding is shaped by cognitive biases and collective intelligence.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 By Steven Sloman & Philip Fernbach
 

@@ -1,10 +1,12 @@
 ---
-title: Software-Focused Solo Founder Startup Analysis
-date: 2026-05-02
-type: research-analysis
-tags: [startup-ideas, solo-founder, software, devtools, ai, edtech]
-status: active
+slug: /ideas/software-startup-analysis
+title: Software Startup Analysis for Solo Founders
+description: Explore high-potential software startup ideas tailored for solo founders
+  with engineering and AI skills.
+created: '2026-05-02'
+last_update: '2026-06-08'
 ---
+
 **Analysis Date:** 2026-05-02
 
 **Context:** Analyzing startup opportunities for solo founder with:

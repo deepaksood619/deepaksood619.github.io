@@ -1,3 +1,12 @@
+---
+slug: /frontend/others/angularjs/11-services
+title: Understanding Application Services
+description: Explore the role of services in applications, including examples and
+  best practices for component architecture.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # 11. Services
 
 *Service* is a broad category encompassing any value, function, or feature that your application needs.

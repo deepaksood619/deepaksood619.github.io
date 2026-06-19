@@ -1,3 +1,12 @@
+---
+slug: /data-structures/hierarchical-data-structure/fibonacci-heap
+title: Understanding Fibonacci Heaps in Data Structures
+description: Explore Fibonacci heaps, their properties, and efficient priority queue
+  operations, including amortized time complexities for various operations.
+created: '2023-03-05'
+last_update: '2023-04-11'
+---
+
 # Fibonacci Heap
 
 ## Key Points

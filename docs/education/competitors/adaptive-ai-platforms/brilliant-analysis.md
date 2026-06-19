@@ -1,10 +1,12 @@
 ---
-title: Brilliant.org Competitive Analysis
-date: 2026-05-27
-type: competitor-analysis
-domain: edtech-global
-tags: [brilliant, stem-education, interactive-learning, freemium, problem-solving, gamification]
+slug: /education/competitors/adaptive-ai-platforms/brilliant-analysis
+title: Brilliant Analysis of Brilliant Worldwide
+description: Explore Brilliant Worldwide, Inc., the leading math and coding tutor
+  with over 10 million users and 100,000+ five-star reviews.
+created: '2026-05-27'
+last_update: '2026-06-08'
 ---
+
 ## Company Overview
 
 - **Founded:** 2012

@@ -1,4 +1,11 @@
-# Startup Quotes
+---
+slug: /knowledge/quotes-proverbs/startup-quotes
+title: Startup Quotes
+description: Discover powerful startup quotes that inspire innovation, highlight productivity,
+  and emphasize the importance of problem-solving for entrepreneurial success.
+created: '2023-03-05'
+last_update: '2026-05-05'
+---
 
 If you have to spell your startup name every time you say it, it's a bad name
 

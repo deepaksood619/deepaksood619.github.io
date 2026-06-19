@@ -1,14 +1,12 @@
 ---
-title: Ather Energy Limited - Fundamental Analysis
-company: Ather Energy Limited
-ticker: NSE:ATHERENERG
-sector: Automobile - Electric Two-Wheelers
-analysis_type: fundamental
-date: 2026-06-03
-analyst: Claude (LLM-generated)
-data_sources: [Screener.in, NSE]
-tags: [fundamental-analysis, indian-stocks, electric-vehicles, auto, small-cap, ather-energy, loss-making, growth-stock]
+slug: /economics/company-analysis/companies/energy/ather-energy-fundamental
+title: Ather Energy Fundamental Analysis 2026
+description: Explore Ather Energy's growth potential and risks in the electric scooter
+  market with our detailed fundamental analysis.
+created: '2026-06-03'
+last_update: '2026-06-09'
 ---
+
 - **Analysis Date:** June 3, 2026
 - **Exchange:** NSE
 - **Sector:** Automobile - Electric Two-Wheelers (E2W)

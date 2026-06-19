@@ -1,3 +1,12 @@
+---
+slug: /data-structures/hierarchical-data-structure/space-partitioning-trees
+title: Understanding Space-Partitioning Trees
+description: Explore space-partitioning trees like quadtrees and BSP trees for efficient
+  2D space division and various applications.
+created: '2023-03-05'
+last_update: '2023-04-11'
+---
+
 # Space-partitioning trees
 
 Use a tree to represent a recursive subdivision of 2d space

@@ -1,3 +1,12 @@
+---
+slug: /python/documentation/07-binary-data-services
+title: Understanding Binary Data Services in Python
+description: Explore Python's binary data services, including struct and codecs, for
+  effective byte interpretation and manipulation.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
+
 # 7. Binary Data Services
 
 - [**struct - Interpret bytes as packed binary data**](https://docs.python.org/3/library/struct.html)

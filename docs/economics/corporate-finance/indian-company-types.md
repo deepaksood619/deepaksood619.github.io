@@ -1,4 +1,12 @@
-# Indian Company Types
+---
+slug: /economics/corporate-finance/indian-company-types
+title: Indian Company Types
+description: Explore various types of companies in India, including proprietorships,
+  partnerships, private and public limited companies, and more, to find the best fit
+  for your business.
+created: '2023-07-12'
+last_update: '2026-06-09'
+---
 
 ## Types of companies in India
 

@@ -1,4 +1,11 @@
-# Geometry Foundations
+---
+slug: /mathematics/geometry/geometry-foundations
+title: Geometry Foundations
+description: Explore the essentials of Geometry Foundations, including Euclidean geometry,
+  angles, polygons, and area, to build a solid understanding of geometric principles.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
 
 [Intro to Euclidean geometry](https://www.khanacademy.org/math/geometry/hs-geo-foundations#hs-geo-intro-euclid)
 

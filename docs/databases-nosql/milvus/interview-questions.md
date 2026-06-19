@@ -1,4 +1,11 @@
-# Interview Questions
+---
+slug: /databases-nosql/milvus/interview-questions
+title: Interview Questions
+description: Discover essential interview questions about Milvus architecture, core
+  components, indexing types, and search performance for successful database management.
+created: '2025-06-24'
+last_update: '2025-07-03'
+---
 
 ### Architecture & Core Concepts
 

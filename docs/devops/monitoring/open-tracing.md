@@ -1,3 +1,12 @@
+---
+slug: /devops/monitoring/open-tracing
+title: Understanding OpenTracing Essentials
+description: Discover what OpenTracing is, its API specification, and how it aids
+  in distributed tracing without locking you into specific frameworks.
+created: '2023-03-05'
+last_update: '2023-12-23'
+---
+
 # Open Tracing
 
 ## What is OpenTracing?

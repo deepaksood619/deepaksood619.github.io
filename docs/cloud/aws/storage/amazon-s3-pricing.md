@@ -1,4 +1,11 @@
-# Amazon S3 Pricing
+---
+slug: /cloud/aws/storage/amazon-s3-pricing
+title: Amazon S3 Pricing
+description: Discover Amazon S3 pricing options, including costs for Standard, Intelligent-Tiering,
+  Glacier, and more, tailored for your data storage needs.
+created: '2024-06-04'
+last_update: '2026-06-09'
+---
 
 - S3 Standard (Frequently accessed data) - $0.023 per GB
 - S3 Intelligent-Tiering - $0.023per GB

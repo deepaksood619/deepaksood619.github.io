@@ -1,4 +1,11 @@
-# Defining Constants
+---
+slug: /languages/java/defining-constants
+title: Defining Constants
+description: Learn how to define constants in Java with a private constructor to prevent
+  object instantiation, enhancing code integrity and clarity.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
 
 ```java
 public class Constants{

@@ -1,4 +1,11 @@
-# Data Sources
+---
+slug: /ai/data-visualization/tableau/data-sources
+title: Data Sources
+description: Discover how to refresh data sources in Tableau Desktop, including Live
+  Connections, Extracts, and Published Data Sources for real-time updates.
+created: '2023-07-14'
+last_update: '2025-02-14'
+---
 
 ## Refresh Data Sources
 

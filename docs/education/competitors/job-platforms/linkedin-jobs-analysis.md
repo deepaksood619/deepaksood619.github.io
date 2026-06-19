@@ -1,3 +1,12 @@
+---
+slug: /education/competitors/job-platforms/linkedin-jobs-analysis
+title: LinkedIn Jobs India Insights
+description: Explore LinkedIn's job board performance in India, its revenue streams,
+  and the impact of Microsoft’s acquisition.
+created: '2026-06-08'
+last_update: '2026-06-09'
+---
+
 # LinkedIn Jobs India Analysis
 
 **Last Updated:** June 2026

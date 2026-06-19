@@ -1,4 +1,11 @@
-# Big Data
+---
+slug: /ai/big-data/intro
+title: Big Data
+description: Discover the world of big data, its challenges, and its impact on data
+  processing, analysis, and statistical power in modern technology.
+created: '2023-03-05'
+last_update: '2026-01-25'
+---
 
 Big data is a term used to refer to [data sets](https://en.wikipedia.org/wiki/Data_set) that are too large or complex for traditional [data-processing](https://en.wikipedia.org/wiki/Data_processing) [application software](https://en.wikipedia.org/wiki/Application_software) to adequately deal with.
 

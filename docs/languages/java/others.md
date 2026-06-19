@@ -1,4 +1,11 @@
-# Others
+---
+slug: /languages/java/others
+title: Others
+description: Explore Java's generics, iterators, and comparator interface to enhance
+  code efficiency by avoiding runtime errors and implementing flexible data sorting.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
 
 Jshell for java REPL (Read-Eval-Print Loop, interactive toplevel or language shell)
 

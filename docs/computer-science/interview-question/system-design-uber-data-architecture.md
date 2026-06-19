@@ -1,3 +1,12 @@
+---
+slug: /computer-science/interview-question/system-design-uber-data-architecture
+title: Uber Data Architecture System Design
+description: Explore Uber's sophisticated data infrastructure, covering messaging,
+  streaming, and OLAP for enhanced real-time decision-making.
+created: '2024-10-19'
+last_update: '2025-06-10'
+---
+
 # System Design of Uber Data Architecture
 
 Uber's real-time data infrastructure is a cornerstone of its business operations, processing massive amounts of data every day.

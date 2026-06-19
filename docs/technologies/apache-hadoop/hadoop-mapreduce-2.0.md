@@ -1,3 +1,12 @@
+---
+slug: /technologies/apache-hadoop/hadoop-mapreduce-2.0
+title: Hadoop MapReduce 2.0 Overview
+description: Explore Hadoop MapReduce 2.0, a powerful framework for processing large
+  data sets through map and reduce functions.
+created: '2024-12-12'
+last_update: '2024-12-12'
+---
+
 # Hadoop MapReduce 2.0
 
 ## Introduction

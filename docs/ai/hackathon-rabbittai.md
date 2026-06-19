@@ -1,4 +1,12 @@
-# Hackathon Rabbitt AI
+---
+slug: /ai/hackathon-rabbittai
+title: Hackathon Rabbitt AI
+description: Join Hackathon Rabbitt AI to create a personalized banking and insurance
+  chatbot that understands financial needs and recommends tailored BFSI products for
+  Indians.
+created: '2025-07-10'
+last_update: '2025-07-17'
+---
 
 ## 1 - Personalized Banking & Insurance AI Advisor
 

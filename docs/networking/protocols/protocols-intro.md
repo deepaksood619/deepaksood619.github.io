@@ -1,3 +1,12 @@
+---
+slug: /networking/protocols/protocols-intro
+title: Introduction to Communication Protocols
+description: Explore essential communication protocols like MAC and IP addresses,
+  key to device identification and internet functionality.
+created: '2023-03-05'
+last_update: '2024-01-04'
+---
+
 # Protocols Intro
 
 ## Media Access Control (MAC Address)

@@ -1,3 +1,12 @@
+---
+slug: /networking/protocols/rest-representational-state-transfer-restful
+title: Understanding RESTful Architecture
+description: Explore RESTful architecture, its stateless nature, and the separation
+  of client and server for efficient web communication.
+created: '2023-03-05'
+last_update: '2024-12-19'
+---
+
 # REST Representational State Transfer / RESTFul
 
 REST + JSON over HTTP

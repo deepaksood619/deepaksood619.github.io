@@ -1,3 +1,12 @@
+---
+slug: /frontend/react/intro
+title: Introduction to ReactJS
+description: Explore ReactJS, a powerful JavaScript library for building user interfaces
+  with features like code reusability and Virtual DOM.
+created: '2023-03-05'
+last_update: '2024-12-18'
+---
+
 # Intro
 
 ![image](../../media/react-Intro-image1.jpg)

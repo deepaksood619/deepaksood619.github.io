@@ -1,3 +1,12 @@
+---
+slug: /networking/mqtt/publish-subscribe-and-unsubscribe
+title: Understanding Publish-Subscribe in MQTT
+description: Learn how to effectively use publish, subscribe, and unsubscribe functions
+  in MQTT for seamless data communication.
+created: '2023-03-05'
+last_update: '2025-03-04'
+---
+
 # Publish, Subscribe & Unsubscribe
 
 ## Publish

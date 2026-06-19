@@ -1,4 +1,11 @@
-# Geography
+---
+slug: /knowledge/geography/readme
+title: Geography
+description: Explore the diverse aspects of geography, including continents, countries,
+  Indian states, rivers, wildlife, and insights on relocation and living choices.
+created: '2023-03-05'
+last_update: '2026-06-06'
+---
 
 - [Continents](continents)
 - [Countries](countries)

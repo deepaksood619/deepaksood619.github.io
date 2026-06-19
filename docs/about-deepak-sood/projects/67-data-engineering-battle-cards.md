@@ -1,3 +1,12 @@
+---
+slug: /about-deepak-sood/projects/67-data-engineering-battle-cards
+title: Data Engineering Migration Services
+description: Explore key benefits and features of migration services for seamless
+  database transitions tailored for IT leaders and database administrators.
+created: '2024-07-11'
+last_update: '2024-12-18'
+---
+
 # Data Engineering - Battle Cards
 
 ## Battle Card 1: Migration Services

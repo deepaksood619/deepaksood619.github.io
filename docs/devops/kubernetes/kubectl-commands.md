@@ -1,3 +1,12 @@
+---
+slug: /devops/kubernetes/kubectl-commands
+title: Essential Kubectl Commands Guide
+description: Explore essential kubectl commands for Kubernetes deployment and management,
+  along with installation and usage details.
+created: '2023-03-05'
+last_update: '2026-06-03'
+---
+
 # kubectl Commands
 
 ## Installation

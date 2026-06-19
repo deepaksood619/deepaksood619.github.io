@@ -1,4 +1,11 @@
-# DQL - Data Query Language
+---
+slug: /languages/sql/dql-data-query-language/readme
+title: DQL - Data Query Language
+description: Explore DQL (Data Query Language) to master SQL queries, including order
+  selection, filtering with NULL, and distinct data retrieval techniques.
+created: '2023-03-05'
+last_update: '2024-05-26'
+---
 
 ## Gotchas / Keep in mind
 

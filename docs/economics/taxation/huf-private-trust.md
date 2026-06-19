@@ -1,4 +1,11 @@
-# HUF / Private Trust
+---
+slug: /economics/taxation/huf-private-trust
+title: HUF / Private Trust
+description: Learn about HUF (Hindu Undivided Family) and its benefits, including
+  tax-free gifts, joint income management, and the role of the Karta.
+created: '2024-03-06'
+last_update: '2025-10-12'
+---
 
 ## HUF
 

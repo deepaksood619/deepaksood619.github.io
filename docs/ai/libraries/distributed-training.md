@@ -1,4 +1,11 @@
-# Distributed Training
+---
+slug: /ai/libraries/distributed-training
+title: Distributed Training
+description: Discover the key strategies for distributed training, including data-parallel
+  and model-parallel approaches, to optimize machine learning model performance.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
 
 ## Architecture of Distributed Training
 

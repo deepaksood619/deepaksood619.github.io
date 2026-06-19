@@ -1,3 +1,12 @@
+---
+slug: /data-warehouses/concepts/readme
+title: Data Warehouse Concepts Overview
+description: Explore essential data warehouse concepts, including SCD, architectures,
+  schemas, and ETL processes for effective data management.
+created: '2025-06-10'
+last_update: '2026-04-25'
+---
+
 # Concepts
 
 - [Intro](data-warehouses/concepts/01-intro.md)

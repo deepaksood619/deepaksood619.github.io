@@ -1,4 +1,11 @@
-# Algorithms
+---
+slug: /ai/move-37/algorithms
+title: Algorithms
+description: Explore essential algorithms like Brute Force, Value Iteration, and Policy
+  Iteration, along with visual aids to enhance your understanding.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
 
 1. Brute force algorithm
 

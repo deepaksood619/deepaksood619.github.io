@@ -1,4 +1,11 @@
-# Amazon Interview Prep Guide
+---
+slug: /cloud/aws/amazon-interview-prep-guide
+title: Amazon Interview Prep Guide
+description: Master Amazon interview prep with our guide on behavioral questions,
+  the STAR method, and showcasing your personal contributions using data-backed examples.
+created: '2025-10-16'
+last_update: '2025-10-18'
+---
 
 **1. Prepare for Behavioral Questions**
 

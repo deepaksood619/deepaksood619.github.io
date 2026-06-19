@@ -1,4 +1,11 @@
-# IAM
+---
+slug: /cloud/azure/iam
+title: IAM
+description: Discover how Identity and Access Management (IAM) enhances security with
+  Role-Based Access Control in Azure, ensuring proper user authentication and authorization.
+created: '2024-03-21'
+last_update: '2025-11-24'
+---
 
 [What is identity and access management (IAM)? - Microsoft Entra | Microsoft Learn](https://learn.microsoft.com/en-us/entra/fundamentals/introduction-identity-access-management)
 

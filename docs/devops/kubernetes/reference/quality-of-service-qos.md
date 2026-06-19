@@ -1,3 +1,12 @@
+---
+slug: /devops/kubernetes/reference/quality-of-service-qos
+title: Understanding Quality of Service (QoS)
+description: Learn about Kubernetes Quality of Service (QoS) classes and CPU requests
+  using millicores for efficient resource management.
+created: '2024-07-05'
+last_update: '2025-05-08'
+---
+
 # Quality of Service (QoS)
 
 CPU requests are made in CPU units, each unit being a millicore / millicpu, using mille - the Latin word for thousand. Thus a request for .7 of a CPU would be 700 millicore.

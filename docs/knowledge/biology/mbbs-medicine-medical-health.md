@@ -1,4 +1,11 @@
-# MBBS / Medicine / Medical / Health
+---
+slug: /knowledge/biology/mbbs-medicine-medical-health
+title: MBBS / Medicine / Medical / Health
+description: Explore the comprehensive MBBS curriculum covering pre-clinical, para-clinical,
+  and clinical phases, essential for aspiring medical professionals.
+created: '2023-03-05'
+last_update: '2026-06-17'
+---
 
 Shared decision making
 

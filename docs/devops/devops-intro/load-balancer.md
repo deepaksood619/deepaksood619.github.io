@@ -1,3 +1,12 @@
+---
+slug: /devops/devops-intro/load-balancer
+title: Understanding Load Balancers
+description: Learn how load balancers optimize computing resource distribution, enhancing
+  performance and reliability across systems.
+created: '2024-01-19'
+last_update: '2026-03-27'
+---
+
 # Load Balancer
 
 In computing, load balancing improves the distribution of workloads across multiple computing resources, such as computers, a computer cluster, network links, central processing units, or disk drives. Load balancing aims to optimize resource use, maximize throughput, minimize response time, and avoid overload of any single resource. Using multiple components with load balancing instead of a single component may increase reliability and availability through redundancy. Load balancing usually involves dedicated software or hardware, such as a multilayer switch or a Domain Name System server process.

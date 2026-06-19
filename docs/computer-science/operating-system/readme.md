@@ -1,3 +1,12 @@
+---
+slug: /computer-science/operating-system/readme
+title: Understanding Operating System Concepts
+description: Explore key operating system concepts, memory management, concurrency,
+  and more for a comprehensive understanding of system functionality.
+created: '2023-03-05'
+last_update: '2025-06-22'
+---
+
 # Operating System
 
 - [Intro](computer-science/operating-system/intro.md)

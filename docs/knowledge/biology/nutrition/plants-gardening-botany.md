@@ -1,4 +1,11 @@
-# Plants / Gardening / Botany
+---
+slug: /knowledge/biology/nutrition/plants-gardening-botany
+title: Plants / Gardening / Botany
+description: Discover a diverse selection of indoor plants, gardening tips, and eco-friendly
+  projects like growing plants in coconuts to enhance your home and garden.
+created: '2025-11-09'
+last_update: '2026-06-07'
+---
 
 Aloe vera, English ivy air purifying plants
 

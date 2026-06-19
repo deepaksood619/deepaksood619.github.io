@@ -1,3 +1,12 @@
+---
+slug: /management/people-management/leadership-interview-questions
+title: Essential Leadership Interview Questions
+description: Discover key interview questions to assess leadership skills and capabilities
+  for successful team management.
+created: '2023-11-23'
+last_update: '2023-11-23'
+---
+
 # Leadership Interview Questions
 
 ### Can you tell me about a time when you demonstrated leadership capabilities on the job?

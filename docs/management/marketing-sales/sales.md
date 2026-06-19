@@ -1,3 +1,12 @@
+---
+slug: /management/marketing-sales/sales
+title: Effective Sales Models in SaaS
+description: Explore bottoms-up and top-down sales strategies for SaaS, enhancing
+  your product's enterprise adoption and revenue potential.
+created: '2023-03-29'
+last_update: '2026-06-18'
+---
+
 # Sales
 
 - Feet on street

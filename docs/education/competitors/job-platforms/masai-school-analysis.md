@@ -1,3 +1,12 @@
+---
+slug: /education/competitors/job-platforms/masai-school-analysis
+title: Masai School Bootcamp Review
+description: Explore Masai School's innovative Pay After Placement model, detailing
+  costs, guarantees, and job placement strategies in India.
+created: '2026-06-08'
+last_update: '2026-06-08'
+---
+
 # Masai School - Pay After Placement Bootcamp Analysis
 
 **Last Updated:** June 2026

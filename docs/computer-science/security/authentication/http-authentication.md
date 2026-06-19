@@ -1,3 +1,12 @@
+---
+slug: /computer-science/security/authentication/http-authentication
+title: Understanding HTTP Authentication
+description: Explore the HTTP authentication framework, including Basic authentication
+  and various schemes for secure client-server communication.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # HTTP Authentication
 
 [RFC 7235](https://tools.ietf.org/html/rfc7235) defines the HTTP authentication framework which can be used by a server to [challenge](https://developer.mozilla.org/en-US/docs/Glossary/challenge) a client request and by a client to provide authentication information.

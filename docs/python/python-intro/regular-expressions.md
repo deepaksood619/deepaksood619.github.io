@@ -1,3 +1,12 @@
+---
+slug: /python/python-intro/regular-expressions
+title: Understanding Regular Expressions in Python
+description: Learn how to use Python's re module for regular expressions, including
+  compiling patterns and utilizing metacharacters for powerful string operations.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Regular Expressions
 
 ## Pythons Metacharacters

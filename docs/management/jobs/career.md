@@ -1,3 +1,12 @@
+---
+slug: /management/jobs/career
+title: Mastering Your Career Skills
+description: Enhance your career by mastering essential skills and increasing your
+  career capital for better job negotiations and work flexibility.
+created: '2023-08-29'
+last_update: '2026-05-23'
+---
+
 # Career
 
 Understand how your job works, once you understand your career, create projects that will force improvement in specific skills

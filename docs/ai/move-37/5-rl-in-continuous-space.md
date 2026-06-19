@@ -1,4 +1,11 @@
-# 5. RL in Continuous Space
+---
+slug: /ai/move-37/5-rl-in-continuous-space
+title: 5. RL in Continuous Space
+description: Explore Augmented Random Search (ARS) for RL in continuous space, utilizing
+  genetic evolution and random noise for superior locomotion performance.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
 
 ## Augmented Random Search (ARS)
 

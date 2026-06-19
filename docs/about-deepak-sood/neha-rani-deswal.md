@@ -1,4 +1,11 @@
-# Neha Rani Deswal
+---
+slug: /about-deepak-sood/neha-rani-deswal
+title: Neha Rani Deswal
+description: Discover Neha Rani Deswal, a Microsoft Software Engineer specializing
+  in scalable backend services and innovation in cloud infrastructure.
+created: '2025-08-04'
+last_update: '2025-10-28'
+---
 
 LinkedIn - [linkedin.com/in/neha-rani-deswal/](https://www.linkedin.com/in/neha-rani-deswal/)
 

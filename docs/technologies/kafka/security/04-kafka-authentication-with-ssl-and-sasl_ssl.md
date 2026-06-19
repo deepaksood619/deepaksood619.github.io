@@ -1,4 +1,11 @@
-# Kafka Authentication with SSL and SASL_SSL
+---
+slug: /technologies/kafka/security/04-kafka-authentication-with-ssl-and-sasl_ssl
+title: Kafka Authentication with SSL and SASL_SSL
+description: Learn how to enable SSL for Kafka, ensuring secure client-broker authentication
+  with TLS and certificates.
+created: '2026-01-25'
+last_update: '2026-01-25'
+---
 
 ## Enabling SSL for Kafka
 

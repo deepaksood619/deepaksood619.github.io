@@ -1,10 +1,12 @@
 ---
-title: Ei Mindspark (Educational Initiatives) Competitive Analysis
-date: 2026-06-06
-type: competitor-analysis
-domain: edtech-india
-tags: [ei-mindspark, educational-initiatives, adaptive-learning, india-edtech, misconception-diagnosis, tarl, government-edtech, evidence-based, j-pal]
+slug: /education/competitors/adaptive-ai-platforms/ei-mindspark-analysis
+title: EI Mindspark Analysis Overview
+description: Explore EI Mindspark's transformative impact on education in India, serving
+  over 500,000 students through innovative adaptive learning.
+created: '2026-06-07'
+last_update: '2026-06-08'
 ---
+
 
 ## Company Overview
 

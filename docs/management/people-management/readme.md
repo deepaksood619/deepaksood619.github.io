@@ -1,3 +1,12 @@
+---
+slug: /management/people-management/readme
+title: Effective People Management Strategies
+description: Explore key aspects of people management including team dynamics, leadership
+  styles, and onboarding strategies for successful teams.
+created: '2023-03-21'
+last_update: '2023-12-10'
+---
+
 # People Management
 
 - [People / Team Management](management/people-management/people-team-management.md)

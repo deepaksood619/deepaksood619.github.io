@@ -1,4 +1,12 @@
-# Comparison
+---
+slug: /languages/frameworks/comparison
+title: Comparison
+description: Discover the key differences between Python and Node.js to choose the
+  best technology for your project, focusing on scalability, speed, and application
+  suitability.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
 
 ## Python vs Nodejs
 

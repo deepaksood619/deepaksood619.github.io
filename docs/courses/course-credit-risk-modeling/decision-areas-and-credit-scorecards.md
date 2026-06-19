@@ -1,4 +1,11 @@
-# Decision Areas & Credit Scorecards
+---
+slug: /courses/course-credit-risk-modeling/decision-areas-and-credit-scorecards
+title: Decision Areas & Credit Scorecards
+description: Explore essential decision areas and credit scorecards to enhance underwriting,
+  claims processing, credit risk scoring, and optimize business performance.
+created: '2023-03-05'
+last_update: '2024-02-01'
+---
 
 ## Decision Areas
 

@@ -1,3 +1,12 @@
+---
+slug: /management/roles/others
+title: Leadership Insights for CTOs and Architects
+description: Explore essential insights for CTOs and solutions architects, focusing
+  on strategy, execution, and effective problem-solving.
+created: '2023-03-21'
+last_update: '2024-12-23'
+---
+
 # Others
 
 ## CTO

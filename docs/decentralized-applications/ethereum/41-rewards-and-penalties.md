@@ -1,4 +1,11 @@
-# Rewards and Penalties
+---
+slug: /decentralized-applications/ethereum/41-rewards-and-penalties
+title: Rewards and Penalties
+description: Discover how rewards and penalties impact Ethereum 2.0 validators, including
+  block rewards, their roles, and the effects of staking on payouts.
+created: '2023-09-13'
+last_update: '2025-02-02'
+---
 
 There are two primary roles for a validator: 1) checking new blocks and "attesting" to them if they are valid, 2) proposing new blocks when selected at random from the total validator pool. If the validator fails to do either of these tasks when asked they miss out on an ether payout. Validators are also sometimes tasked with signature aggregation and participating in sync committees.
 

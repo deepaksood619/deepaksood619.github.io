@@ -1,4 +1,11 @@
-# Relocation Analysis: India's IT Hubs
+---
+slug: /knowledge/geography/rent-relocation-analysis-indias-it-hubs
+title: 'Relocation Analysis: India''s IT Hubs'
+description: Explore India's top IT hubs and compare climate, real estate, and labor
+  costs to Noida for a smart relocation decision.
+created: '2026-05-25'
+last_update: '2026-05-26'
+---
 
 ## Deep Research Prompt
 

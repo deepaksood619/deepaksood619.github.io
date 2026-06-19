@@ -1,10 +1,12 @@
 ---
-title: CENTURY Tech Competitive Analysis
-date: 2026-06-06
-type: competitor-analysis
-domain: edtech-uk
-tags: [century-tech, anastasia-ai, adaptive-learning, uk-edtech, school-platform, cognitive-neuroscience, personalized-learning, teacher-tools, spaced-repetition]
+slug: /education/competitors/adaptive-ai-platforms/century-tech-analysis
+title: Century Tech Company Overview
+description: Explore Century Tech, a B Corp certified edtech firm transforming education
+  with AI-driven solutions for over 1,000 schools globally.
+created: '2026-06-07'
+last_update: '2026-06-08'
 ---
+
 
 ## Company Overview
 

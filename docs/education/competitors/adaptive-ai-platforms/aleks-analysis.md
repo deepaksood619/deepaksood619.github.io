@@ -1,10 +1,12 @@
 ---
-title: ALEKS Competitive Analysis
-date: 2026-06-06
-type: competitor-analysis
-domain: edtech-global
-tags: [aleks, adaptive-learning, knowledge-space-theory, stem-education, mcgraw-hill, personalized-learning, higher-ed, k12, cat]
+slug: /education/competitors/adaptive-ai-platforms/aleks-analysis
+title: ALEKS Company Overview and Analysis
+description: Discover the history, ownership, and impact of ALEKS in education, serving
+  millions of students globally since 1994.
+created: '2026-06-07'
+last_update: '2026-06-08'
 ---
+
 ## Company Overview
 
 - **Full name:** Assessment and LEarning in Knowledge Spaces

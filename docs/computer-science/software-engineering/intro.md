@@ -1,3 +1,12 @@
+---
+slug: /computer-science/software-engineering/intro
+title: Understanding Life-Critical Systems
+description: Explore life-critical systems in software engineering, focusing on dependability,
+  safety-critical elements, and real-world examples.
+created: '2023-03-05'
+last_update: '2026-01-11'
+---
+
 # Software Engineering
 
 ## Life Critical System

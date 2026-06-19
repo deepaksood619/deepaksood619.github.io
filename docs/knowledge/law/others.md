@@ -1,4 +1,11 @@
-# Others
+---
+slug: /knowledge/law/others
+title: Others
+description: Explore legal services including divorce lawyer costs, RPAD, and writ
+  jurisdiction in India for comprehensive legal guidance and support.
+created: '2023-03-05'
+last_update: '2026-01-10'
+---
 
 RPAD (Registered Post with Acknowledgement Due)
 

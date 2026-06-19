@@ -1,3 +1,12 @@
+---
+slug: /technologies/kafka/security/07-hands-on-setting-up-encryption
+title: Hands-On Kafka Encryption Setup
+description: Learn to set up SSL/TLS encryption for Kafka data in motion with this
+  step-by-step guide and practical exercise.
+created: '2026-01-25'
+last_update: '2026-04-28'
+---
+
 # Hands On: Setting Up Encryption
 
 In this exercise, we’ll show you how to put a lot of the things we’ve talked about so far into practice. First, we’ll set up our Kafka environment to use SSL/TLS to encrypt our data in motion by creating certificates, and then we'll configure our brokers to use SSL.

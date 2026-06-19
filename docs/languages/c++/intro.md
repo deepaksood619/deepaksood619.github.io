@@ -1,4 +1,11 @@
-# Intro
+---
+slug: /languages/c++/intro
+title: Intro
+description: Explore C++ as a compiled and statically typed language, learn about
+  source files, and understand key operators like '<<' for outputting data.
+created: '2023-03-05'
+last_update: '2026-06-17'
+---
 
 C++ is a **compiled language**. For a program to run, its source text has to be processed by a compiler, producing object files, which are combined by a linker yielding an executable program. A C++ program typically consists of many source code files (usually simply called source files).
 

@@ -1,3 +1,12 @@
+---
+slug: /computer-science/system-design/addressing-failures
+title: Understanding Cascading Failures
+description: Learn how cascading failures occur in systems, their causes, and how
+  to prevent them from escalating.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Addressing Failures
 
 ## Cascading Failures

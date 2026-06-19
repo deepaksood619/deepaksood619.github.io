@@ -1,3 +1,12 @@
+---
+slug: /data-warehouses/bigquery/architecture
+title: Key Components of Modern Architecture
+description: Explore the essential components of modern architecture, including Dremel,
+  Colossus, and BigQuery, focusing on compute and state separation.
+created: '2025-01-18'
+last_update: '2025-06-10'
+---
+
 # Architecture
 
 - Dremel - The execution engine

@@ -1,4 +1,12 @@
-# Thoughts / Future / Ideas / Vision / Prediction
+---
+slug: /ideas/thoughts-future-ideas-vision-prediction
+title: Thoughts / Future / Ideas / Vision / Prediction
+description: Explore future predictions on declining book readership, standardized
+  diversity, reduced travel, changing land prices, and the impact of robotics and
+  AI.
+created: '2023-03-05'
+last_update: '2026-05-05'
+---
 
 1. Over time people will reduce reading books (Books will die)
 2. Diversity among humans will decrease, and everything will become standardized

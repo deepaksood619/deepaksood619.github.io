@@ -1,4 +1,11 @@
-# Databricks SQL
+---
+slug: /languages/sql/databricks-sql
+title: Databricks SQL
+description: Explore Databricks SQL to master essential concepts like set operators,
+  ORDER BY, and DISTRIBUTE BY for efficient query optimization in your data analytics.
+created: '2023-05-15'
+last_update: '2023-11-05'
+---
 
 [SQL language reference | Databricks on AWS](https://docs.databricks.com/sql/language-manual/index.html)
 

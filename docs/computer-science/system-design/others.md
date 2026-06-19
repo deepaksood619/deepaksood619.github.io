@@ -1,3 +1,12 @@
+---
+slug: /computer-science/system-design/others
+title: Understanding GridFTP in Grid Computing
+description: Explore GridFTP, an advanced file transfer protocol designed for high
+  performance and reliability in grid computing applications.
+created: '2023-03-05'
+last_update: '2026-03-27'
+---
+
 # Others
 
 ## Grid FTP

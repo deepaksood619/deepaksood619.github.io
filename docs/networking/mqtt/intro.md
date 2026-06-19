@@ -1,3 +1,12 @@
+---
+slug: /networking/mqtt/intro
+title: Overview of MQTT Features
+description: Discover MQTT's lightweight protocol ideal for M2M and IoT, featuring
+  publish-and-subscribe messaging with flexible quality of service options.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
+
 # Intro
 
 ## Features

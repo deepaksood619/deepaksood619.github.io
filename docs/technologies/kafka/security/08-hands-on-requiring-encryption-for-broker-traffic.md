@@ -1,3 +1,12 @@
+---
+slug: /technologies/kafka/security/08-hands-on-requiring-encryption-for-broker-traffic
+title: Requiring SSL Encryption for Kafka Broker Traffic
+description: Learn how to configure SSL encryption for Kafka broker traffic and ensure
+  secure communication between clients and brokers.
+created: '2026-01-25'
+last_update: '2026-01-25'
+---
+
 # Hands On: Requiring Encryption for Broker Traffic
 
 In the previous exercise, we enabled SSL on our Kafka brokers. Now we'll take it even further by creating the Kafka client truststore and importing the CA, configuring the Kafka client to encrypt data in transit using SSL, and requiring SSL for client-broker traffic.

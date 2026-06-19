@@ -1,3 +1,12 @@
+---
+slug: /education/competitors/mentorship-platforms/adplist-analysis
+title: 'ADPList: Free Design Mentorship'
+description: Discover ADPList, the fastest-growing free mentorship platform connecting
+  designers and product managers with industry experts.
+created: '2026-06-08'
+last_update: '2026-06-09'
+---
+
 # ADPList - Design & Product Mentorship Platform
 
 **Company:** ADPList (Amazing Design People List)

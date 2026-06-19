@@ -1,4 +1,11 @@
-# Personality
+---
+slug: /psychology/personality
+title: Personality
+description: Explore the depths of personality with MBTI and RIASEC assessments to
+  discover your unique traits and career paths that align with your interests.
+created: '2023-03-05'
+last_update: '2026-06-18'
+---
 
 Class is permanent and form is temporary
 

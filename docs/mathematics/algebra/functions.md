@@ -1,4 +1,11 @@
-# 2.1 Functions
+---
+slug: /mathematics/algebra/functions
+title: 2.1 Functions
+description: Explore essential concepts in functions, including combining, composing,
+  shifting, stretching, and finding inverses to enhance your mathematical understanding.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
 
 1. Combining functions
 2. Composing functions

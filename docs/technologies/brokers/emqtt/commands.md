@@ -1,3 +1,12 @@
+---
+slug: /technologies/brokers/emqtt/commands
+title: Essential Git and Docker Commands for EMQX Setup
+description: Learn key Git and Docker commands to set up and run EMQX, along with
+  HTTP API usage for your MQTT projects.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Commands
 
 `git clone -b master https://github.com/emqx/emqx-docker.git`

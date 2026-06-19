@@ -1,4 +1,12 @@
-# Good Economics for Hard Times
+---
+slug: /book-summaries/economics-finance/good-economics-for-hard-times
+title: Good Economics for Hard Times
+description: Discover how Nobel laureates Banerjee and Duflo tackle pressing economic
+  issues in "Good Economics for Hard Times," offering research-based insights on immigration
+  and trade.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 "Good Economics for Hard Times: Better Answers to Our Biggest Problems" is a book by Nobel laureates Abhijit V. Banerjee and Esther Duflo, published in 2019. The book tackles pressing economic issues and offers insights grounded in rigorous research. Here's a summary of its key themes and ideas:
 

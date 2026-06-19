@@ -1,4 +1,12 @@
-# Kapacitor
+---
+slug: /databases-nosql/time-series-db/influxdb/kapacitor
+title: Kapacitor
+description: Kapacitor is an open-source data processing framework for alerts, ETL
+  jobs, and anomaly detection within the TICK stack, supporting both streaming and
+  batch data.
+created: '2023-03-05'
+last_update: '2025-06-10'
+---
 
 Kapacitor is an open source data processing framework that makes it easy to create alerts, run ETL jobs and detect anomalies. Kapacitor is the final piece of the [TICK stack](https://influxdata.com/time-series-platform/)
 

@@ -1,4 +1,11 @@
-# Investing Tips and Learning Resources
+---
+slug: /economics/learning-resources/investing-tips-resources
+title: Investing Tips and Learning Resources
+description: Discover essential investing tips from Warren Buffett and valuable learning
+  resources to enhance your financial literacy and investment strategies.
+created: '2026-06-09'
+last_update: '2026-06-09'
+---
 
 **Category:** Learning Resources
 **Last Updated:** 2026-06-08

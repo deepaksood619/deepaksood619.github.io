@@ -1,3 +1,12 @@
+---
+slug: /devops/kubernetes/services-loadbalancing-and-networking/services
+title: Understanding Kubernetes Services
+description: Learn about Kubernetes Services, their role in managing Pods, and how
+  they enable stable access and load-balancing.
+created: '2023-03-05'
+last_update: '2024-05-31'
+---
+
 # Services
 
 A Kubernetes **Service** is an abstraction which defines a logical set of **Pods** and a policy by which to access them - sometimes called a microservice.

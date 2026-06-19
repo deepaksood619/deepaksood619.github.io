@@ -1,3 +1,12 @@
+---
+slug: /about-deepak-sood/projects/50-use-cases-aiml-logistics-warehousing
+title: AIML Use Cases in Logistics
+description: Explore how AI/ML enhances logistics and warehousing through demand forecasting
+  and inventory optimization for improved efficiency.
+created: '2024-07-17'
+last_update: '2024-12-18'
+---
+
 # Use Cases: AIML in Logistics and Warehousing
 
 To achieve 100% On-time Delivery (OTD) and reduce delivery lead time using AI/ML, consider the following use cases and solutions:

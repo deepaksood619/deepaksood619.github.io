@@ -1,4 +1,12 @@
-# Time Series
+---
+slug: /databases-nosql/time-series-db/readme
+title: Time Series
+description: Explore various time series databases like TimeScaleDB and InfluxDB,
+  covering administration, tools, query languages, and key concepts for effective
+  data management.
+created: '2025-06-10'
+last_update: '2025-06-10'
+---
 
 - [Time Series Databases](databases-nosql/time-series-db/time-series-databases.md)
 - [TimeScaleDB](databases-nosql/time-series-db/timescaledb.md)

@@ -1,4 +1,12 @@
-# Others
+---
+slug: /knowledge/other-topics/politics/others
+title: Others
+description: Explore key political concepts such as brinkmanship, skepticism, and
+  the impact of media on free speech in our comprehensive overview of contemporary
+  topics.
+created: '2023-03-05'
+last_update: '2025-04-08'
+---
 
 ## Free Speech
 

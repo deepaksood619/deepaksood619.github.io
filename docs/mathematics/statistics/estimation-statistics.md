@@ -1,4 +1,11 @@
-# Estimation Statistics
+---
+slug: /mathematics/statistics/estimation-statistics
+title: Estimation Statistics
+description: Explore estimation statistics as a powerful alternative to hypothesis
+  testing, focusing on effect size, interval estimation, and uncertainty measurement.
+created: '2023-03-05'
+last_update: '2024-12-18'
+---
 
 Estimation statistics may be used as an alternative to statistical hypothesis tests. Statistical hypothesis tests can be used to indicate whether the difference between two samples is due to random chance, but cannot comment on the size of the difference. A group of methods referred to as new statistics are seeing increased use instead of or in addition to p-values in order to quantify the magnitude of effects and the amount of uncertainty for estimated values. This group of statistical methods is referred to as estimation statistics. Estimation statistics is a term to describe three main classes of methods.
 

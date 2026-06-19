@@ -1,4 +1,11 @@
-# CDN (Content Delivery Network)
+---
+slug: /cloud/others/cdn-content-delivery-network
+title: CDN (Content Delivery Network)
+description: Boost your website's performance, scalability, and security with a CDN,
+  ensuring faster load times and reduced latency for an enhanced user experience.
+created: '2023-12-10'
+last_update: '2025-02-27'
+---
 
 ## Why Do We Need a CDN for Your Application?
 

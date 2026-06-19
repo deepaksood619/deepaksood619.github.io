@@ -1,4 +1,12 @@
-# Nutanix Hybrid Cloud
+---
+slug: /courses/nutanix-hybrid-cloud
+title: Nutanix Hybrid Cloud
+description: Explore Nutanix Hybrid Cloud and learn about hyper-converged infrastructure,
+  software-defined systems, and how to optimize your IT environment with Udacity's
+  scholarship program.
+created: '2023-03-05'
+last_update: '2024-02-01'
+---
 
 Udacity - Hybrid Cloud Scholarship Foundation Course Nanodegree Program (23 June 2020)
 

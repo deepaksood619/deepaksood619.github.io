@@ -1,3 +1,12 @@
+---
+slug: /about-deepak-sood/projects/86-stashfin-customer-support
+title: Stashfin Customer Support Enhancements
+description: Discover Stashfin's improved customer support with proactive communication,
+  real-time assistance, and user-friendly resources.
+created: '2023-12-01'
+last_update: '2024-12-19'
+---
+
 # Stashfin Customer Support
 
 ### Improvements

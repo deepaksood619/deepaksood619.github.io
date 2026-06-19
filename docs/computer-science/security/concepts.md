@@ -1,3 +1,12 @@
+---
+slug: /computer-science/security/concepts
+title: Key Concepts of Security Services
+description: Explore essential security services concepts like data confidentiality,
+  integrity, and the relationship between authenticity and non-repudiation.
+created: '2023-03-05'
+last_update: '2026-06-06'
+---
+
 # Concepts
 
 ## Security Services

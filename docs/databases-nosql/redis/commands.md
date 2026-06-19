@@ -1,4 +1,11 @@
-# Commands
+---
+slug: /databases-nosql/redis/commands
+title: Commands
+description: Learn how to install and configure Redis with Docker and explore Redis
+  Insight for enhanced management of your Redis databases.
+created: '2023-03-05'
+last_update: '2026-05-18'
+---
 
 ## Installation
 

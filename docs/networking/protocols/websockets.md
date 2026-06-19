@@ -1,3 +1,12 @@
+---
+slug: /networking/protocols/websockets
+title: Understanding WebSockets Protocol
+description: Explore WebSockets, a full-duplex communication protocol, and its role
+  in modern web applications.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # WebSockets
 
 WebSocket is a computer [communications protocol](https://en.wikipedia.org/wiki/Communications_protocol), providing [full-duplex](https://en.wikipedia.org/wiki/Full-duplex) communication channels over a single [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) connection. The WebSocket protocol was standardized by the [IETF](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force) as [RFC](https://en.wikipedia.org/wiki/Request_for_Comments) 6455 in 2011, and the WebSocket [API](https://en.wikipedia.org/wiki/Application_programming_interface) in [Web IDL](https://en.wikipedia.org/wiki/Web_IDL) is being standardized by the [W3C](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium).

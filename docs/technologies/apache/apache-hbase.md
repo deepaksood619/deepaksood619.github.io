@@ -1,3 +1,12 @@
+---
+slug: /technologies/apache/apache-hbase
+title: Overview of Apache HBase
+description: Discover Apache HBase, an open-source distributed database modeled after
+  Google Bigtable and built for Hadoop.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Apache HBase
 
 HBaseis an [open-source](https://en.wikipedia.org/wiki/Open-source), [non-relational](https://en.wikipedia.org/wiki/Non-relational_database), [distributed database](https://en.wikipedia.org/wiki/Distributed_database) modeled after [Google's](https://en.wikipedia.org/wiki/Google)[Bigtable](https://en.wikipedia.org/wiki/Bigtable) and written in [Java](https://en.wikipedia.org/wiki/Java_(programming_language)). It is developed as part of [Apache Software Foundation](https://en.wikipedia.org/wiki/Apache_Software_Foundation)'s [Apache Hadoop](https://en.wikipedia.org/wiki/Hadoop) project and runs on top of [HDFS (Hadoop Distributed File System)](https://en.wikipedia.org/wiki/Hadoop_Distributed_File_System), providing Bigtable-like capabilities for Hadoop. That is, it provides a [fault-tolerant](https://en.wikipedia.org/wiki/Fault-tolerant) way of storing large quantities of [sparse](https://en.wikipedia.org/wiki/Sparse_file) data (small amounts of information caught within a large collection of empty or unimportant data, such as finding the 50 largest items in a group of 2 billion records, or finding the non-zero items representing less than 0.1% of a huge collection).

@@ -1,4 +1,11 @@
-# The Tangled Tree
+---
+slug: /book-summaries/science/the-tangled-tree
+title: The Tangled Tree
+description: Discover the connections of life in "The Tangled Tree," exploring symbiogenesis,
+  phylogenetics, and the complexities of cellular evolution.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 By David Quammen
 

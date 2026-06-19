@@ -1,4 +1,11 @@
-# Gemini Code Assist (GCA) / Gemini CLI
+---
+slug: /ai/llm/code-generation/gemini-code-assist-gca-gemini-cli
+title: Gemini Code Assist (GCA) / Gemini CLI
+description: Discover Gemini Code Assist (GCA) and Gemini CLI, empowering developers
+  with AI-driven code assistance, multi-agent systems, and future enhancements.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 - GCA - gemini context add .
 - [Context7 - Up-to-date documentation for LLMs and AI code editors](https://context7.com/?q=python)

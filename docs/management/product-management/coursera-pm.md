@@ -1,3 +1,12 @@
+---
+slug: /management/product-management/coursera-pm
+title: Coursera Product Management Specialization
+description: Enhance your product management skills with applied projects, market
+  analysis, and real-world PM strategies on Coursera.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Coursera - PM
 
 https://www.coursera.org/specializations/real-world-product-management

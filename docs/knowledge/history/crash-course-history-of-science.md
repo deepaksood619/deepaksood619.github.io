@@ -1,4 +1,12 @@
-# Crash Course History of Science
+---
+slug: /knowledge/history/crash-course-history-of-science
+title: Crash Course History of Science
+description: Explore the fascinating evolution of scientific thought from natural
+  philosophers to Socrates, Plato, and Aristotle in this engaging Crash Course History
+  of Science.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
 
 Nullius in verba - in no one words
 

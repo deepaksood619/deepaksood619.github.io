@@ -1,3 +1,12 @@
+---
+slug: /technologies/confluent/confluent-cloud-security/ip-filtering
+title: Enhanced Security with IP Filtering
+description: Explore how IP Filtering enhances security for Confluent Cloud by controlling
+  access through trusted IP addresses.
+created: '2026-01-28'
+last_update: '2026-01-28'
+---
+
 # IP Filtering
 
 IP Filtering is an authorization feature that provides Confluent Cloud organizations with enhanced security by allowing access to your resources only from trusted source networks. You can create IP filters for your Confluent Cloud organization that allow inbound requests based on the included IP groups (lists of [CIDR blocks](https://docs.confluent.io/cloud/current/_glossary.html#term-CIDR-block)) defining your trusted source networks. All incoming API requests that originate from IP addresses not included in your IP filters are denied.

@@ -1,3 +1,12 @@
+---
+slug: /data-structures/hierarchical-data-structure/kd-trees
+title: Understanding Kd-Trees in Computer Science
+description: Explore the fundamentals of kd-trees, a versatile data structure for
+  organizing points in k-dimensional space for efficient search operations.
+created: '2023-03-05'
+last_update: '2023-04-11'
+---
+
 # Kd-trees
 
 In [computer science](https://en.wikipedia.org/wiki/Computer_science), a***k*-d tree**(short for*k-dimensional [tree](https://en.wikipedia.org/wiki/Tree_data_structure)*) is a [space-partitioning](https://en.wikipedia.org/wiki/Space_partitioning)[data structure](https://en.wikipedia.org/wiki/Data_structure) for organizing [points](https://en.wikipedia.org/wiki/Point_(geometry)) in a*k*-dimensional [space](https://en.wikipedia.org/wiki/Euclidean_space).*k*-d trees are a useful data structure for several applications, such as searches involving a multidimensional search key (e.g.[range searches](https://en.wikipedia.org/wiki/Range_search) and [nearest neighbor searches](https://en.wikipedia.org/wiki/Nearest_neighbor_search)).*k*-d trees are a special case of [binary space partitioning](https://en.wikipedia.org/wiki/Binary_space_partitioning) trees.

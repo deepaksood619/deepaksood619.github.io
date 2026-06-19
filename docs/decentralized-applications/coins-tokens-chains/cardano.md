@@ -1,4 +1,11 @@
-# Cardano
+---
+slug: /decentralized-applications/coins-tokens-chains/cardano
+title: Cardano
+description: Discover Cardano, a pioneering proof-of-stake blockchain that combines
+  peer-reviewed research with sustainable technology for secure decentralized applications.
+created: '2023-03-05'
+last_update: '2023-06-07'
+---
 
 Cardano is a proof-of-stake blockchain platform: the first to be founded on peer-reviewed research and developed through evidence-based methods. It combines pioneering technologies to provide unparalleled security and sustainability to decentralized applications, systems, and societies.
 

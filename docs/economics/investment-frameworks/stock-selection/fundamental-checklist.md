@@ -1,4 +1,12 @@
-# Fundamental Stock Selection Checklist
+---
+slug: /economics/investment-frameworks/stock-selection/fundamental-checklist
+title: Fundamental Stock Selection Checklist
+description: Discover a comprehensive Fundamental Stock Selection Checklist that seamlessly
+  integrates classic value investing principles with modern analysis techniques for
+  effective stock evaluation.
+created: '2026-06-09'
+last_update: '2026-06-11'
+---
 
 **Category:** Investment Frameworks
 **Type:** Stock Selection

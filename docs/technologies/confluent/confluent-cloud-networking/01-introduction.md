@@ -1,3 +1,12 @@
+---
+slug: /technologies/confluent/confluent-cloud-networking/01-introduction
+title: Confluent Cloud Networking Overview
+description: Explore connectivity options between your network and Confluent Cloud,
+  along with their benefits and trade-offs.
+created: '2025-12-10'
+last_update: '2026-01-28'
+---
+
 # Introduction
 
 ![confluent-cloud-networking-intro](https://images.ctfassets.net/gt6dp23g0g38/1ntqDwcP1q5VgraE0XUdug/445158bc26777f83d1ac9911219a8ef0/confluent-cloud-networking-intro.jpg)

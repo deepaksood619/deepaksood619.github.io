@@ -1,4 +1,11 @@
-# Amazon FSx
+---
+slug: /cloud/aws/storage/amazon-fsx
+title: Amazon FSx
+description: Experience fully managed, reliable file storage with Amazon FSx for Windows
+  File Server, featuring SMB protocol access, AD integration, and advanced replication.
+created: '2025-11-05'
+last_update: '2025-11-14'
+---
 
 ## Amazon FSx for Windows File Server
 

@@ -1,4 +1,11 @@
-# The Status Game
+---
+slug: /book-summaries/psychology/the-status-game
+title: The Status Game
+description: Discover Will Storr's "The Status Game," an insightful exploration of
+  the dynamics of prestige, dominance, and humiliation in shaping human behavior.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 by Will Storr
 

@@ -1,3 +1,12 @@
+---
+slug: /computer-science/operating-system/concurrency-problems
+title: Understanding Concurrency Problems
+description: Explore key concurrency problems like deadlock, resource starvation,
+  and priority inversion to improve system performance and efficiency.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Concurrency Problems
 
 ## Problems

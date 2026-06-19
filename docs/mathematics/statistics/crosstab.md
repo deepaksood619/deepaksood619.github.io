@@ -1,4 +1,11 @@
-# Crosstab
+---
+slug: /mathematics/statistics/crosstab
+title: Crosstab
+description: Discover the power of crosstabs in data analysis, showcasing the relationship
+  between multiple variables through contingency tables for insightful insights.
+created: '2023-08-21'
+last_update: '2025-02-14'
+---
 
 A _crosstab_ is a table showing the relationship between two or more variables. Where the table only shows the relationship between two categorical variables, a crosstab is also known as a _contingency table_.
 

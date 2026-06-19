@@ -1,4 +1,12 @@
-# Networking
+---
+slug: /cloud/azure/networking
+title: Networking
+description: Discover Azure network foundation services like Azure Virtual Network,
+  Private Link, and DNS for seamless connectivity and robust infrastructure in the
+  cloud.
+created: '2025-12-12'
+last_update: '2026-01-21'
+---
 
 ## Azure network foundation services
 

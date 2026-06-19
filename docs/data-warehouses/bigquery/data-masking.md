@@ -1,3 +1,12 @@
+---
+slug: /data-warehouses/bigquery/data-masking
+title: Understanding Data Masking in BigQuery
+description: Explore the challenges of data masking in BigQuery, focusing on managing
+  user access to sensitive information while balancing security and flexibility.
+created: '2025-02-20'
+last_update: '2025-06-10'
+---
+
 # Data Masking
 
 Upon inspecting the data available across different tables in BigQuery and the number of users with access to it, the need to mask sensitive information—such as payment details, user information, and vendor contact details—becomes evident. The most direct approach is to set up custom roles in BigQuery and configure specific permissions to control access to different datasets.

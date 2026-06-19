@@ -1,10 +1,12 @@
 ---
-title: Knewton Alta (Wiley) Competitive Analysis
-date: 2026-06-06
-type: competitor-analysis
-domain: edtech-higher-ed
-tags: [knewton, knewton-alta, wiley, adaptive-learning, higher-education, bayesian-inference, knowledge-graph, personalized-homework, stem, api-to-product]
+slug: /education/competitors/adaptive-ai-platforms/knewton-alta-analysis
+title: Knewton Alta Analysis Overview
+description: Explore Knewton Alta's journey, product focus, and impact on higher education
+  STEM in this comprehensive analysis.
+created: '2026-06-07'
+last_update: '2026-06-08'
 ---
+
 
 ## Company Overview
 

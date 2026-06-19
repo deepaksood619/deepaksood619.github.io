@@ -1,3 +1,12 @@
+---
+slug: /devops/devops-intro/finops
+title: Understanding FinOps in Cloud Management
+description: Explore FinOps, the discipline enhancing collaboration between finance
+  and IT for optimized cloud spending and value-driven decision-making.
+created: '2024-03-07'
+last_update: '2025-03-18'
+---
+
 # FinOps
 
 FinOps (or cloud FinOps) is an evolving cloud financial management discipline and cultural practice that aims to maximize business value in hybrid and multicloud environments.

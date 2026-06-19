@@ -1,4 +1,11 @@
-# Others
+---
+slug: /databases-sql/aws-aurora/others
+title: Others
+description: Explore SSL/TLS encryption for secure DB connections, advanced auditing
+  techniques, and Aurora Auto Scaling to optimize your database performance seamlessly.
+created: '2023-03-05'
+last_update: '2026-05-18'
+---
 
 ## Connecting
 

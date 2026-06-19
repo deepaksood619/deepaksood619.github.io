@@ -1,3 +1,12 @@
+---
+slug: /computer-science/others/computer-graphics
+title: Understanding Computer Graphics Techniques
+description: Explore essential computer graphics concepts including shading, ray tracing,
+  and rendering pipelines to enhance your digital projects.
+created: '2023-03-05'
+last_update: '2023-12-28'
+---
+
 # Computer Graphics
 
 1. Vertex Shading

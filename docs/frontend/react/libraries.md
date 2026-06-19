@@ -1,3 +1,12 @@
+---
+slug: /frontend/react/libraries
+title: Essential JavaScript Libraries and Tools
+description: Discover key JavaScript libraries and editors for streamlined development,
+  including React Query, React Router, and more.
+created: '2023-03-05'
+last_update: '2026-03-27'
+---
+
 # Libraries
 
 ## TODO

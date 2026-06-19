@@ -1,4 +1,11 @@
-# Community / Meetups Organize Checklist
+---
+slug: /management/community-meetups-organize-checklist
+title: Community / Meetups Organize Checklist
+description: Effortlessly organize your community meetups with our comprehensive checklist,
+  covering everything from speaker selection to final logistics.
+created: '2025-05-21'
+last_update: '2025-05-21'
+---
 
 ### 5 Weeks Before
 

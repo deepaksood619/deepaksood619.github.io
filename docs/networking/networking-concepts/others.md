@@ -1,3 +1,12 @@
+---
+slug: /networking/networking-concepts/others
+title: Overview of Interface Definition Languages and Spine Switches
+description: Explore key interface definition languages and the role of spine switches
+  in modern data center architectures.
+created: '2023-03-05'
+last_update: '2024-02-07'
+---
+
 # Others
 
 ## Interface Definition Languages

@@ -1,4 +1,11 @@
-# Interview Questions
+---
+slug: /languages/sql/interview-questions
+title: Interview Questions
+description: Explore essential interview questions for eCommerce analytics, covering
+  customer data, order management, and effective schema design for success.
+created: '2025-11-01'
+last_update: '2025-11-12'
+---
 
 ## Sample Schema - Ecommerce Analytics
 

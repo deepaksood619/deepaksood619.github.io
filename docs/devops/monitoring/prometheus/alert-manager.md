@@ -1,3 +1,12 @@
+---
+slug: /devops/monitoring/prometheus/alert-manager
+title: Understanding Alert Manager Features
+description: Learn how Alertmanager centralizes alert management, handling grouping,
+  inhibition, flapping, and routing for effective notification delivery.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # Alert Manager
 
 The [Alertmanager](https://github.com/prometheus/alertmanager) ⭐ 8.5k handles alerts sent by client applications such as the Prometheus server. It takes care of deduplicating, grouping, and routing them to the correct receiver integration such as email, PagerDuty, or OpsGenie. It also takes care of silencing and inhibition of alerts.

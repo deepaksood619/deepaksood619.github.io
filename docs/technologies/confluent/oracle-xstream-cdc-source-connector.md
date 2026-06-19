@@ -1,4 +1,11 @@
-# Oracle Xstream CDC Source Connector
+---
+slug: /technologies/confluent/oracle-xstream-cdc-source-connector
+title: Oracle XStream CDC Source Connector
+description: Learn how to configure and use the Oracle XStream CDC Source Connector
+  for real-time data streaming and change detection.
+created: '2026-04-03'
+last_update: '2026-04-23'
+---
 
 - [Oracle XStream CDC Source](https://docs.confluent.io/cloud/current/connectors/cc-oracle-xstream-cdc-source/index.html)
 	- [Overview](https://docs.confluent.io/cloud/current/connectors/cc-oracle-xstream-cdc-source/cc-oracle-xstream-cdc-source-features.html)

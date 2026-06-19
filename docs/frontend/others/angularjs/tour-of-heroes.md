@@ -1,3 +1,12 @@
+---
+slug: /frontend/others/angularjs/tour-of-heroes
+title: Understanding Angular Framework Basics
+description: Explore key Angular concepts like directives, expressions, controllers,
+  and two-way binding to enhance your web development skills.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # Tour of Heroes
 
 ## Directives

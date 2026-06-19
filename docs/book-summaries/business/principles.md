@@ -1,4 +1,11 @@
-# Principles
+---
+slug: /book-summaries/business/principles
+title: Principles
+description: Discover Ray Dalio's essential principles for success that empower you
+  to embrace reality, refine your decisions, and effectively navigate life's challenges.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 By Ray Dalio (Amarjeet)
 

@@ -1,3 +1,12 @@
+---
+slug: /computer-science/security/authentication/jwt
+title: Understanding JSON Web Tokens (JWT)
+description: Learn about JSON Web Tokens (JWT) for secure information transmission
+  and authentication in RESTful APIs.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # JWT
 
 JSON Web Token (JWT) is an open standard ([RFC 7519](https://tools.ietf.org/html/rfc7519)) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be verified and trusted because it is digitally signed. JWTs can be signed using a secret (with theHMACalgorithm) or a public/private key pair usingRSAorECDSA

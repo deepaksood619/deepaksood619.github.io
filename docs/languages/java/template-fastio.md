@@ -1,4 +1,12 @@
-# Template FastIO
+---
+slug: /languages/java/template-fastio
+title: Template FastIO
+description: Discover the FastIO template in Java for efficient input handling with
+  BufferedReader and StringTokenizer, perfect for competitive programming and performance
+  optimization.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
 
 ```java
 import java.io.BufferedReader;

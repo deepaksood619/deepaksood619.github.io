@@ -1,4 +1,11 @@
-# Others
+---
+slug: /mathematics/general/others
+title: Others
+description: Explore the concept of arity in logic, mathematics, and computer science,
+  focusing on the number of arguments or operands a function requires.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
 
 ## Arity
 

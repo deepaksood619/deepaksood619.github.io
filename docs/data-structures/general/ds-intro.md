@@ -1,3 +1,12 @@
+---
+slug: /data-structures/general/ds-intro
+title: Introduction to Data Structures
+description: 'Explore the types of data structures: implicit, explicit, and succinct,
+  and understand their significance in computer science.'
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # DS Intro
 
 ## Types

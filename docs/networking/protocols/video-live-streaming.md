@@ -1,3 +1,12 @@
+---
+slug: /networking/protocols/video-live-streaming
+title: Video and Live Streaming Tools
+description: Explore essential tools for video and live streaming, including Zoom,
+  Jitsi, Google Meet, and more for seamless online communication.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # Video / Live Streaming
 
 ## Tools

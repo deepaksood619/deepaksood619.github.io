@@ -1,4 +1,11 @@
-# Storage
+---
+slug: /cloud/aws/storage/readme
+title: Storage
+description: Explore comprehensive AWS storage solutions like Amazon S3, EBS, EFS,
+  and Glacier for effective data management and cost-efficient cloud storage.
+created: '2023-03-05'
+last_update: '2025-11-14'
+---
 
 1. [Amazon S3](cloud/aws/storage/amazon-s3.md) (Blob storage)
 	1. [amazon-s3-storage-classes](cloud/aws/storage/amazon-s3-storage-classes.md)

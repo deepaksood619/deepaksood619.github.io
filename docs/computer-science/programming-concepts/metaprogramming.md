@@ -1,3 +1,12 @@
+---
+slug: /computer-science/programming-concepts/metaprogramming
+title: Understanding Metaprogramming Techniques
+description: Explore metaprogramming, a technique allowing programs to treat code
+  as data, enhancing flexibility and reducing development time.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # Metaprogramming
 
 Metaprogramming is a programming technique in which computer programs have the ability to treat programs as data. It means a program can be designed to read, generate, analyze or transform other programs, or even itself while running. In some cases, it allows programmers to minimize the number of lines of code to express a solution, thus reducing the development time. It also allows programs greater flexibility to efficiently handle new situations without recompilation.

@@ -1,3 +1,12 @@
+---
+slug: /networking/others/file-formats-comparisons
+title: 'Avro vs Protobuf: File Format Comparison'
+description: Explore the differences between Avro and Protobuf for serialization,
+  including ease of use and impact on domain models.
+created: '2023-03-05'
+last_update: '2026-04-28'
+---
+
 # File Format Comparisons
 
 ## Avro vs Protobuf

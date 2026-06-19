@@ -1,3 +1,12 @@
+---
+slug: /computer-science/others/gamification
+title: Understanding Gamification Elements
+description: Explore key game elements like feedback, goals, and points used in non-game
+  contexts to enhance user engagement.
+created: '2023-03-05'
+last_update: '2025-12-16'
+---
+
 # Gamification
 
 The use of game elements and game design techniques in non-game contexts

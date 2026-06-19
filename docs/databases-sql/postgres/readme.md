@@ -1,4 +1,12 @@
-# Postgres
+---
+slug: /databases-sql/postgres/readme
+title: Postgres
+description: Explore comprehensive resources on Postgres, including architecture,
+  SQL commands, replication, table partitioning, and the latest PostgreSQL versions
+  for optimized performance.
+created: '2025-06-10'
+last_update: '2026-05-12'
+---
 
 - [Intro](databases-sql/postgres/intro.md)
 - [Documentation](databases-sql/postgres/documentation.md)

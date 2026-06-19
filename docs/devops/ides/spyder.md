@@ -1,3 +1,12 @@
+---
+slug: /devops/ides/spyder
+title: Using Spyder's Help Features
+description: Learn how to access help for objects in Spyder using Cmd+I or automatic
+  suggestions in Preferences.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # Spyder
 
 Here you can get help of any object by pressing**Cmd+I**in front of it, either on the Editor or the Console.

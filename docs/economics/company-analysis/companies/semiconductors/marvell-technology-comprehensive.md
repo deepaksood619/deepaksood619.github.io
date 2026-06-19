@@ -1,15 +1,12 @@
 ---
-title: Marvell Technology Inc - Comprehensive Analysis
-company: Marvell Technology Inc
-ticker: NASDAQ:MRVL
-sector: Semiconductors
-industry: Semiconductor Equipment & Materials
-analysis_type: comprehensive
-date: 2026-06-09
-analyst: Claude (LLM-generated)
-data_sources: [Yahoo Finance, Google Finance, Company Reports]
-tags: [comprehensive-analysis, us-stocks, semiconductors, ai-chips, data-center]
+slug: /economics/company-analysis/companies/semiconductors/marvell-technology-comprehensive
+title: Marvell Technology Stock Analysis
+description: Explore Marvell Technology's investment outlook, current valuation, and
+  key market drivers influencing its stock performance.
+created: '2026-06-09'
+last_update: '2026-06-09'
 ---
+
 - **Analysis Date:** June 9, 2026
 - **Exchange:** NASDAQ
 - **Sector:** Technology - Semiconductors

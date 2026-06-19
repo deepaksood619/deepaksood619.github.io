@@ -1,3 +1,12 @@
+---
+slug: /devops/docker/dockerfiles
+title: Essential Dockerfile Guide
+description: Learn how to create portable Docker images with best practices for writing
+  efficient Dockerfiles and effective container management.
+created: '2023-03-05'
+last_update: '2026-04-03'
+---
+
 # Dockerfiles
 
 Creating portable images

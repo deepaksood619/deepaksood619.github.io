@@ -1,4 +1,11 @@
-# Others
+---
+slug: /ai/data-visualization/tableau/others
+title: Others
+description: Discover essential Tableau optimizations, alerting features, and latest
+  updates to enhance performance and data-driven decision-making.
+created: '2023-08-11'
+last_update: '2025-08-28'
+---
 
 ## Optimizations
 

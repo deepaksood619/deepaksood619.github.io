@@ -1,4 +1,11 @@
-# Exercise / Stretching
+---
+slug: /knowledge/biology/exercise-stretching/intro
+title: Exercise / Stretching
+description: Discover effective exercise and stretching techniques to enhance body
+  function, improve health, and build essential habits for a vibrant life.
+created: '2023-03-05'
+last_update: '2024-12-16'
+---
 
 Your entire life happens inside your body. It's the one home you will always occupy and can never sell.
 

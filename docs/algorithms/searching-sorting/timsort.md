@@ -1,3 +1,12 @@
+---
+slug: /algorithms/searching-sorting/timsort
+title: Understanding TimSort Algorithm
+description: Discover the efficient TimSort algorithm, its applications in Python
+  and Java, and its optimal performance in real-world sorting tasks.
+created: '2023-03-05'
+last_update: '2023-12-06'
+---
+
 # TimSort
 
 - Hybrid algorithm which uses binary insertion sort and improved merge sort by using galloping in a combination.

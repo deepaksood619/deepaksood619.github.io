@@ -1,4 +1,11 @@
-# Trilemma
+---
+slug: /decentralized-applications/trilemmas
+title: Trilemma
+description: Explore the blockchain trilemma of decentralization, security, and scalability,
+  and learn how developers navigate these trade-offs in blockchain design.
+created: '2023-08-26'
+last_update: '2025-02-14'
+---
 
 ## The Scalability Trilemma / Blockchain Trilemma
 

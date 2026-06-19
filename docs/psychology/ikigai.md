@@ -1,4 +1,11 @@
-# Ikigai
+---
+slug: /psychology/ikigai
+title: Ikigai
+description: Discover your ikigai by exploring the intersection of passion, mission,
+  vocation, and profession to lead a fulfilling, balanced life.
+created: '2024-07-24'
+last_update: '2024-07-24'
+---
 
 ![image](../media/Life-Relationship-People-image7.jpg)
 

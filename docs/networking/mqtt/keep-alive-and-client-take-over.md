@@ -1,3 +1,12 @@
+---
+slug: /networking/mqtt/keep-alive-and-client-take-over
+title: Understanding TCP Half-Open Connections
+description: Explore the concept of half-open TCP connections and their impact on
+  MQTT communication reliability.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Keep Alive & Client Take-Over
 
 ## The problem of half-open TCP connections

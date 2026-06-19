@@ -1,3 +1,12 @@
+---
+slug: /computer-science/operating-system/compilers
+title: Understanding LLVM Compilers
+description: Discover the LLVM compiler infrastructure project, focusing on its modular
+  technologies for optimizing programming languages.
+created: '2023-03-05'
+last_update: '2024-12-19'
+---
+
 # Compilers
 
 LLVM - The **LLVM** compiler infrastructure project is a "collection of modular and reusable [compiler](https://en.wikipedia.org/wiki/Compiler) and [toolchain](https://en.wikipedia.org/wiki/Toolchain) technologies" used to develop compiler [front ends](https://en.wikipedia.org/wiki/Compiler#Front_end) and [back ends](https://en.wikipedia.org/wiki/Compiler#Back_end).

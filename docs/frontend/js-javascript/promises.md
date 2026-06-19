@@ -1,3 +1,12 @@
+---
+slug: /frontend/js-javascript/promises
+title: Understanding JavaScript Promises
+description: Explore JavaScript promises, async/await, and how to avoid callback hell
+  for cleaner, more efficient code.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Promises
 
 1. Is single threaded

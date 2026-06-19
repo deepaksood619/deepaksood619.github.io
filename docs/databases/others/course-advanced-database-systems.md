@@ -1,3 +1,12 @@
+---
+slug: /databases/others/course-advanced-database-systems
+title: Advanced Database Systems Course Overview
+description: Explore advanced database concepts, including concurrency control, indexing,
+  and query optimization in this comprehensive course.
+created: '2023-03-05'
+last_update: '2023-08-11'
+---
+
 # Course - Advanced Database Systems
 
 1. Course Introduction and History of Databases

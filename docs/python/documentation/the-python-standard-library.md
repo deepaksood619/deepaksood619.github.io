@@ -1,3 +1,12 @@
+---
+slug: /python/documentation/the-python-standard-library
+title: Exploring The Python Standard Library
+description: Discover the essentials of the Python Standard Library, including built-in
+  functions, data types, and modules for various applications.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # The Python Standard Library
 
 ## Documentation

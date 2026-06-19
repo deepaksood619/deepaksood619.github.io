@@ -1,4 +1,11 @@
-# Tokenomics
+---
+slug: /decentralized-applications/tokenomics
+title: Tokenomics
+description: Explore the fundamentals of tokenomics, including supply, utility, scarcity,
+  and incentives, to understand what makes cryptocurrencies valuable.
+created: '2023-07-21'
+last_update: '2025-02-02'
+---
 
 The thing that I think is more interesting, personally, is that there are _different_ fundamentals in crypto. The underlying elements that make a cryptocurrency valuable, from a token’s supply to how it’s issued to if it is designed to be inflationary or deflationary to its utility all come together to create what’s known as its tokenomics, a portmanteau of token + economics.
 

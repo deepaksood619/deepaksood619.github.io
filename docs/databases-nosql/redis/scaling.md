@@ -1,4 +1,11 @@
-# Scaling
+---
+slug: /databases-nosql/redis/scaling
+title: Scaling
+description: Discover how to implement Redis replication with master-slave configurations
+  and Sentinel for high availability and scalability in your Kubernetes environment.
+created: '2024-07-12'
+last_update: '2026-06-11'
+---
 
 ## Replication/Clustering
 

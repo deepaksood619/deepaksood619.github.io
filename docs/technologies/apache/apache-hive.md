@@ -1,3 +1,12 @@
+---
+slug: /technologies/apache/apache-hive
+title: Overview of Apache Hive
+description: Discover Apache Hive, a powerful data management tool for Hadoop that
+  simplifies big data querying with HiveSQL.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Apache Hive
 
 - Hive is a distributed data management for Hadoop

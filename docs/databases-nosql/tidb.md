@@ -1,4 +1,12 @@
-# tidb
+---
+slug: /databases-nosql/tidb
+title: tidb
+description: Discover TiDB, the open-source NewSQL database offering MySQL compatibility,
+  horizontal scalability, and Hybrid Transactional and Analytical Processing for high
+  availability.
+created: '2024-06-23'
+last_update: '2026-06-11'
+---
 
 TiDB ("Ti" stands for Titanium) is an open-source NewSQL database that supports Hybrid Transactional and Analytical Processing (HTAP) workloads. It is MySQL compatible and features horizontal scalability, strong consistency, and high availability.
 

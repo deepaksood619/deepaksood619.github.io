@@ -1,4 +1,11 @@
-# Flutter
+---
+slug: /languages/frameworks/flutter
+title: Flutter
+description: Discover how Flutter empowers developers to create seamless Android and
+  iOS apps with real-time databases, serverless architecture, and Firebase integration.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
 
 Flutter is used to develop apps that run on Android and iOS and deliver the same user experience. Flutter will also be able to target Fuchsia, the upcoming OS from Google
 

@@ -1,4 +1,11 @@
-# Loan Management System (LMS)
+---
+slug: /cloud/others/loan-management-system-lms
+title: Loan Management System (LMS)
+description: Discover our Loan Management System (LMS) for efficient disbursements,
+  repayments, and interest accrual, optimized for secure and streamlined lending processes.
+created: '2024-09-12'
+last_update: '2026-06-11'
+---
 
 - Disbursements
 - Repayments

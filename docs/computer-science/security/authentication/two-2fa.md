@@ -1,3 +1,12 @@
+---
+slug: /computer-science/security/authentication/two-2fa
+title: Understanding 2FA with Google Authenticator
+description: Learn how Google Authenticator enhances your account security through
+  effective two-factor authentication methods.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # 2FA  / 2-Factor Authentication
 
 How does Google Authenticator (or other types of 2-factor authenticators) work?

@@ -1,3 +1,12 @@
+---
+slug: /frontend/frontend-intro/performance
+title: Building a Hyper-Light Website
+description: Learn how to optimize your website's performance with a hyper-light page
+  strategy for faster load times and improved user experience.
+created: '2024-06-05'
+last_update: '2025-01-24'
+---
+
 # Performance
 
 ### Steps to build a hyper-light website

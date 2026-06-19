@@ -1,3 +1,12 @@
+---
+slug: /devops/others/kong
+title: 'Kong: High-Performance API Gateway'
+description: Discover Kong, the scalable and cloud-native API Gateway that enhances
+  microservices with load balancing, authentication, and more.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # Kong
 
 Kong is a cloud-native, fast, scalable, and distributed Microservice Abstraction Layer *(also known as an API Gateway, API Middleware or in some cases Service Mesh)*. Made available as an open-source project in 2015, its core values are high performance and extensibility.

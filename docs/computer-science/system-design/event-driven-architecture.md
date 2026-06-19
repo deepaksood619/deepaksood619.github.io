@@ -1,3 +1,12 @@
+---
+slug: /computer-science/system-design/event-driven-architecture
+title: Understanding Event Driven Architecture
+description: Explore event driven architecture and event sourcing, detailing how events
+  are recorded and processed in various applications.
+created: '2023-03-05'
+last_update: '2024-12-16'
+---
+
 # Event driven architecture
 
 ## Event Driven Architecture / Event Sourcing

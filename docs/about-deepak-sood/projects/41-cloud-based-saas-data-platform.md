@@ -1,3 +1,12 @@
+---
+slug: /about-deepak-sood/projects/41-cloud-based-saas-data-platform
+title: Cloud-Based SaaS Data Platform
+description: Build a scalable and secure cloud-based SaaS data platform for diverse
+  industries to efficiently manage large-scale datasets.
+created: '2025-01-16'
+last_update: '2025-11-04'
+---
+
 # Cloud Based SAAS Data Platform
 
 ## Question

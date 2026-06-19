@@ -1,4 +1,11 @@
-# Page Rank
+---
+slug: /ai/big-data/page-rank
+title: Page Rank
+description: Discover the significance of PageRank, a method for rating web page importance
+  through link analysis, essential for effective information retrieval on the web.
+created: '2024-02-26'
+last_update: '2024-02-26'
+---
 
 https://towardsdatascience.com/pagerank-algorithm-fully-explained-dc794184b4af
 

@@ -1,3 +1,12 @@
+---
+slug: /management/marketing-sales/marketing-tools
+title: Essential Marketing Tools for Success
+description: Explore top AI tools and Martech solutions to enhance your marketing
+  campaigns and strategies effectively.
+created: '2025-04-29'
+last_update: '2026-06-11'
+---
+
 # Marketing Tools
 
 ## AI Tools

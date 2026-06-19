@@ -1,3 +1,12 @@
+---
+slug: /python/django/cheatsheet
+title: Django User Authentication Cheatsheet
+description: Learn how to implement single-user login in Django to prevent multiple
+  logins with the same credentials.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # Cheatsheet
 
 ![image](../../media/django-Cheatsheet-image1.jpg)

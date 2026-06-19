@@ -1,3 +1,12 @@
+---
+slug: /frontend/react/code-commands-snippets
+title: Understanding Dependencies and Commands in Code
+description: Explore the differences between dependencies, devDependencies, and peerDependencies
+  in code, along with essential commands for package management.
+created: '2023-03-05'
+last_update: '2023-11-20'
+---
+
 # Code / Commands / Snippets
 
 dependencies are the packages your project depends on

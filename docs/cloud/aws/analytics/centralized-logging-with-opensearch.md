@@ -1,4 +1,12 @@
-# Centralized Logging with OpenSearch
+---
+slug: /cloud/aws/analytics/centralized-logging-with-opensearch
+title: Centralized Logging with OpenSearch
+description: Discover how Centralized Logging with OpenSearch simplifies log data
+  collection, visualization, and analysis through intuitive pipelines and dashboards
+  on AWS.
+created: '2025-11-10'
+last_update: '2025-11-10'
+---
 
 Centralized Logging with OpenSearch helps organizations collect, ingest, and visualize log data from various sources using Amazon OpenSearch Service. This AWS Solution provides a web-based console, which you can use to create log ingestion pipelines with a few clicks. Log ingestion pipelines include log collection agent deployment, log enrichment without writing codes, buffer layer creation, and OpenSearch index configuration. After logs are stored in OpenSearch Service, the solution automatically generates ready-to-use dashboards for analyzing AWS service logs and application logs in different formats (for example, Nginx, JSON, and Spring Boot). In combination with other AWS services, this solution provides you with a turnkey environment to begin logging and monitoring your AWS applications.
 

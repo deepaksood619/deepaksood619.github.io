@@ -1,4 +1,11 @@
-# Coursera - Algorithms Part - 1
+---
+slug: /courses/coursera-algorithms-part-1
+title: Coursera - Algorithms Part - 1
+description: Master the fundamentals of algorithms with Coursera's Algorithms Part
+  - 1 course, covering dynamic connectivity, analysis methods, and more.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
 
 https://www.coursera.org/learn/algorithms-part1
 

@@ -1,4 +1,12 @@
-# Think and Grow Rich
+---
+slug: /book-summaries/economics-finance/think-and-grow-rich
+title: Think and Grow Rich
+description: Discover "Think and Grow Rich" by Napoleon Hill, featuring 13 principles
+  for success, including desire, persistence, and the mastermind concept, to achieve
+  your goals.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 By Napolean Hill
 

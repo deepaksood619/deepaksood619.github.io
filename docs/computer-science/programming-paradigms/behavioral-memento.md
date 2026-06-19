@@ -1,3 +1,12 @@
+---
+slug: /computer-science/programming-paradigms/behavioral-memento
+title: Understanding the Behavioral Memento Pattern
+description: Learn how the Memento design pattern enables state saving and restoration
+  in applications, ensuring seamless user experiences.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Behavioral - Memento
 
 Memento is a behavioral design pattern that allows you to save and restore the past states of the objects without revealing the details of their implementation

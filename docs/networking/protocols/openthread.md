@@ -1,3 +1,12 @@
+---
+slug: /networking/protocols/openthread
+title: Understanding OpenThread Protocol
+description: Explore OpenThread, a low-power wireless mesh networking protocol designed
+  for secure IoT interoperability and efficient device communication.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # OpenThread
 
 ## Thread

@@ -1,4 +1,12 @@
-# Consensus Protocols
+---
+slug: /decentralized-applications/consensus-protocols
+title: Consensus Protocols
+description: Explore key consensus protocols like Proof of Work and Proof of Stake,
+  which enhance blockchain security and incentivize participation through staking
+  rewards.
+created: '2023-03-05'
+last_update: '2025-02-14'
+---
 
 ## Proof of Work (PoW)
 

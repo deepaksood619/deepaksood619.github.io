@@ -1,3 +1,12 @@
+---
+slug: /technologies/apache-spark/04-key-points
+title: Understanding Spark Dataframes
+description: Learn the key features of Spark dataframes, including distributed computation
+  and the differences with Pandas dataframes.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # Key points
 
 ## Spark Dataframes

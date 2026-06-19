@@ -1,4 +1,11 @@
-# Google Professional Cloud Architect (PCA)
+---
+slug: /courses/google-professional-cloud-architect-pca
+title: Google Professional Cloud Architect (PCA)
+description: Become a certified Google Professional Cloud Architect and master cloud
+  architecture skills with expert resources and sample questions to enhance your career.
+created: '2023-03-20'
+last_update: '2024-12-19'
+---
 
 [Professional Cloud Architect Certification  |  Google Cloud](https://cloud.google.com/certification/cloud-architect)
 

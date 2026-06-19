@@ -1,3 +1,12 @@
+---
+slug: /devops/terraform/readme
+title: Comprehensive Terraform Guide
+description: Explore our complete Terraform guide featuring intro, documentation,
+  variables, examples, and commands for efficient cloud infrastructure management.
+created: '2023-03-05'
+last_update: '2026-01-28'
+---
+
 # Terraform
 
 - [Intro](devops/terraform/intro.md)

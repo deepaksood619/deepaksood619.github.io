@@ -1,3 +1,12 @@
+---
+slug: /python/python-intro/strings
+title: Python Strings and Methods Overview
+description: Explore Python string formatting, constants, and built-in methods to
+  enhance your programming skills with the latest features and best practices.
+created: '2023-03-05'
+last_update: '2026-06-17'
+---
+
 # Strings
 
 ## fstrings

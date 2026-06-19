@@ -1,4 +1,11 @@
-# Sample Code
+---
+slug: /decentralized-applications/development/sample-code
+title: Sample Code
+description: Explore this informative Python sample code for Ethereum transactions
+  using Web3 and Infura, including private key and address validation.
+created: '2023-08-26'
+last_update: '2023-08-29'
+---
 
 ```python
 import os

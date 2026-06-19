@@ -1,3 +1,12 @@
+---
+slug: /algorithms/graphtheory/kruskal-algorithm-for-mst
+title: Kruskal's Algorithm for Minimum Spanning Tree
+description: Discover Kruskal's Algorithm for finding the Minimum Spanning Tree with
+  step-by-step illustrations and insights.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # Kruskal's Algorithm for MST
 
 ![image](../../media/Kruskal's-Algorithm-for-MST-image1.jpg)

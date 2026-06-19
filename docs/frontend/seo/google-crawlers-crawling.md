@@ -1,3 +1,12 @@
+---
+slug: /frontend/seo/google-crawlers-crawling
+title: Understanding Google Crawlers and Crawling
+description: Learn how Google crawlers operate, their features, and use cases for
+  effective web data extraction and analysis.
+created: '2024-09-01'
+last_update: '2025-11-19'
+---
+
 # Google Crawlers / Crawling
 
 [How Google Search crawls pages - YouTube](https://www.youtube.com/watch?v=JuK7NnfyEuc)

@@ -1,4 +1,11 @@
-# Computer Vision / CV Intro
+---
+slug: /ai/computer-vision-cv/intro
+title: Computer Vision / CV Intro
+description: Explore key concepts in computer vision including image augmentation,
+  object detection, fine-tuning, and advanced techniques like R-CNNs and SSD.
+created: '2023-03-05'
+last_update: '2025-02-09'
+---
 
 1. [13.1. Image Augmentation](https://d2l.ai/chapter_computer-vision/image-augmentation.html)
 2. [13.2. Fine-Tuning](https://d2l.ai/chapter_computer-vision/fine-tuning.html)

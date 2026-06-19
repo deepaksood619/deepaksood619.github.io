@@ -1,10 +1,12 @@
 ---
-title: Unacademy Competitive Analysis
-date: 2026-05-04
-type: competitor-analysis
-domain: edtech-india
-tags: [unacademy, test-prep, india-edtech, b2c, marketplace]
+slug: /education/competitors/india-edtech/unacademy-analysis
+title: Unacademy Company Analysis 2025
+description: Explore Unacademy’s journey from a $3.44B valuation to acquisition by
+  upGrad, examining its market position and future prospects.
+created: '2026-05-04'
+last_update: '2026-06-08'
 ---
+
 ## Company Overview
 
 - **Founded:** 2015

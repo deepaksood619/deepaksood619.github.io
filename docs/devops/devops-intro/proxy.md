@@ -1,3 +1,12 @@
+---
+slug: /devops/devops-intro/proxy
+title: Understanding Proxy Load Balancing
+description: Explore how proxy load balancing enhances service availability, traffic
+  management, and supports A/B testing and canary releases.
+created: '2024-01-19'
+last_update: '2024-12-19'
+---
+
 # Proxy
 
 The initial use case for the proxy is just load balancing: spread the incoming requests across the active set of pods. In addition to making the service IP highly available, this also enables splitting traffic across versions for canary testing and more generally for A/B testing. It is also the mechanism used for a progressive rollout of a new version.

@@ -1,4 +1,12 @@
-# Keys
+---
+slug: /languages/sql/keys
+title: Keys
+description: Discover the essential role of DBMS keys in uniquely identifying rows
+  and establishing relationships between tables, including types like Primary and
+  Super Keys.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
 
 ## Keys
 

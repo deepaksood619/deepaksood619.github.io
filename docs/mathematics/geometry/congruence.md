@@ -1,4 +1,11 @@
-# Congruence
+---
+slug: /mathematics/geometry/congruence
+title: Congruence
+description: Explore the principles of congruence in geometry, including triangle
+  properties, transformations, and essential theorems to enhance your understanding.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
 
 [Transformations & congruence:Congruence](https://www.khanacademy.org/math/geometry/hs-geo-congruence#hs-geo-trans-and-congruence)
 

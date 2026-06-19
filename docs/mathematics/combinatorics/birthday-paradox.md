@@ -1,4 +1,11 @@
-# Birthday Paradox
+---
+slug: /mathematics/combinatorics/birthday-paradox
+title: Birthday Paradox
+description: Discover the surprising Birthday Paradox, where just 23 people create
+  a 50% chance of shared birthdays, revealing insights into math misconceptions.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
 
 ## Problem - Exponents aren't intuitive
 

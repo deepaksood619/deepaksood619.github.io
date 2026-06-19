@@ -1,4 +1,11 @@
-# Microsoft Excel / Google Sheets
+---
+slug: /courses/microsoft-excel-google-sheets
+title: Microsoft Excel / Google Sheets
+description: Master Microsoft Excel and Google Sheets with essential features like
+  formulas, pivot tables, charts, and data import/export for efficient data management.
+created: '2023-03-05'
+last_update: '2026-03-11'
+---
 
 [Do Something .new \| A Domain Exclusively for Shortcuts](https://whats.new/)
 

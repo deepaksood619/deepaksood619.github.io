@@ -1,4 +1,12 @@
-# Business / Management
+---
+slug: /knowledge/quotes-proverbs/business-management
+title: Business / Management
+description: Explore essential principles of business and management, emphasizing
+  vision, accountability, marketing, and the balance between short-term gains and
+  long-term success.
+created: '2023-03-05'
+last_update: '2025-09-04'
+---
 
 97.42% is a fictional number that figuratively conveys the idea of a significant percentage
 

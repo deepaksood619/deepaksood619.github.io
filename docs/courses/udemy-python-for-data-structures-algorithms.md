@@ -1,4 +1,11 @@
-# Udemy - Python for data structures algorithms
+---
+slug: /courses/udemy-python-for-data-structures-algorithms
+title: Udemy - Python for data structures algorithms
+description: Master Python for data structures and algorithms on Udemy, covering arrays,
+  stacks, linked lists, trees, sorting, searching, and more.
+created: '2023-03-05'
+last_update: '2024-02-01'
+---
 
 1. Array Sequences
 2. Stacks, Queues, and Deques

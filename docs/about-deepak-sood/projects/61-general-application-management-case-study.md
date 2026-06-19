@@ -1,3 +1,12 @@
+---
+slug: /about-deepak-sood/projects/61-general-application-management-case-study
+title: Optimizing Application Management Case Study
+description: Explore OpsTree's innovative strategies in application management and
+  SRE principles that transformed TechInnovate's operations.
+created: '2024-03-17'
+last_update: '2024-12-18'
+---
+
 # General Application Management Case Study
 
 ## Title

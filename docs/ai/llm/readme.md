@@ -1,4 +1,11 @@
-# LLM
+---
+slug: /ai/llm/readme
+title: LLM
+description: Explore LLM fundamentals, app-building techniques, and agent frameworks
+  to harness the power of large language models for innovative applications and solutions.
+created: '2023-05-08'
+last_update: '2026-06-18'
+---
 
 ## Fundamentals
 

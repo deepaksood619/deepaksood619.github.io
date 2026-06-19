@@ -1,4 +1,12 @@
-# AWS SDP (Service Delivery Program)
+---
+slug: /cloud/aws/others/aws-sdp
+title: AWS SDP (Service Delivery Program)
+description: Discover how the AWS Service Delivery Program validates partners with
+  expertise in delivering specialized AWS services like Amazon RDS and serverless
+  solutions.
+created: '2025-09-17'
+last_update: '2025-11-05'
+---
 
 [AWS Service Delivery Specializations](https://aws.amazon.com/partners/programs/service-delivery/)
 

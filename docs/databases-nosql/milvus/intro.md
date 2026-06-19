@@ -1,4 +1,11 @@
-# Intro
+---
+slug: /databases-nosql/milvus/intro
+title: Intro
+description: Discover Milvus, the fast, scalable open-source vector database for efficient
+  storage, indexing, and searching of high-dimensional data in AI applications.
+created: '2025-06-23'
+last_update: '2025-06-24'
+---
 
 Milvus is an open-source vector database designed to store, index, and search high-dimensional data (like embeddings from AI models). It helps you quickly find items that are “similar” — based on meaning, image features, sound, etc.
 

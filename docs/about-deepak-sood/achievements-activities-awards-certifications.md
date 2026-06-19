@@ -1,4 +1,11 @@
-# Achievements / Activities / Awards / Certifications
+---
+slug: /about-deepak-sood/achievements-activities-awards-certifications
+title: Achievements / Activities / Awards / Certifications
+description: Explore my achievements and certifications in data engineering, project
+  delivery, and business scaling, showcasing a proven track record of successful initiatives.
+created: '2023-03-05'
+last_update: '2026-01-16'
+---
 
 ## Courses / Certifications
 

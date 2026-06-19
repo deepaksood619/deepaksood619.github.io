@@ -1,4 +1,12 @@
-# Oracle Database
+---
+slug: /databases-sql/oracle-database
+title: Oracle Database
+description: Discover Oracle Database, a powerful, non-open-source solution widely
+  used in banking for large applications, offering comprehensive technology and business
+  functionalities.
+created: '2025-02-27'
+last_update: '2026-04-23'
+---
 
 - Oracle corporation owns Oracle DB, and the code is not open source.
 - Oracle DB is for large applications, particularly in the banking industry. Most of the world's top banks run Oracle applications because Oracle offers a powerful combination of technology and comprehensive, pre-integrated business applications, including essential functionality built specifically for banks.

@@ -1,3 +1,12 @@
+---
+slug: /python/documentation/02-built-in-functions
+title: Essential Python Built-in Functions
+description: Explore essential Python built-in functions, from abs() to staticmethod(),
+  to enhance your coding efficiency and effectiveness.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # 2. Built-in Functions
 
 1. abs()

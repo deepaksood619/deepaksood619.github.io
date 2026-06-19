@@ -1,3 +1,12 @@
+---
+slug: /algorithms/data-compression/others
+title: Understanding Zstandard Compression
+description: Explore Zstandard, a fast lossless compression algorithm by Facebook,
+  for efficient real-time data compression.
+created: '2023-03-05'
+last_update: '2026-03-27'
+---
+
 # Others
 
 ![image](../../media/data-compression-Others-image1.jpg)

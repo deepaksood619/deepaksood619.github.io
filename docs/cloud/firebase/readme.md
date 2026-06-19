@@ -1,4 +1,12 @@
-# Firebase
+---
+slug: /cloud/firebase/readme
+title: Firebase
+description: Explore Firebase's powerful tools like Analytics, Notifications, and
+  Google Signals for enhanced data tracking and personalized user engagement across
+  devices.
+created: '2023-03-05'
+last_update: '2026-04-28'
+---
 
 - [Firebase Analytics](cloud/firebase/firebase-google-analytics.md)
 - [Automatic Collection Events](cloud/firebase/automatic-collected-events.md)

@@ -1,3 +1,12 @@
+---
+slug: /devops/others/other-tools
+title: Essential Tools for DevOps Management
+description: Explore valuable resources and tools like Portainer, OpenShift, and EnMasse
+  for efficient DevOps and container management.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # Other Tools
 
 ## Resources

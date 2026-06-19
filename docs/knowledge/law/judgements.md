@@ -1,4 +1,11 @@
-# Judgements
+---
+slug: /knowledge/law/judgements
+title: Judgements
+description: Explore landmark judgments in Indian legal history, including key cases
+  from 1967 to 2023, and stay updated with essential rulings for 2025.
+created: '2024-01-30'
+last_update: '2026-01-10'
+---
 
 ## 5 Landmark cases
 

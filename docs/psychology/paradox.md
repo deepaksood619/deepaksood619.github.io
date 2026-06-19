@@ -1,4 +1,11 @@
-# Paradox
+---
+slug: /psychology/paradox
+title: Paradox
+description: Explore the intriguing world of paradoxes, including the omnipotence
+  paradox and the barber paradox, uncovering their logical implications and consequences.
+created: '2024-01-12'
+last_update: '2026-01-25'
+---
 
 [**Omnipotence paradox**](https://en.wikipedia.org/wiki/Omnipotence_paradox "Omnipotence paradox"): Can an [omnipotent](https://en.wikipedia.org/wiki/Omnipotent "Omnipotent") being create a rock too heavy for itself to lift?
 

@@ -1,4 +1,11 @@
-# 0 Accounting for Finance
+---
+slug: /economics/accounting-for-finance/0-accounting-for-finance
+title: 0 Accounting for Finance
+description: Explore the fundamentals of accounting for finance through engaging webcasts
+  that focus on financial statement analysis and valuation perspectives.
+created: '2023-03-05'
+last_update: '2025-08-20'
+---
 
 [Accounting 101 (taught by a non-accountant)](https://www.youtube.com/playlist?list=PLUkh9m2BorqmKaLrNBjKtFDhpdFdi8f7C)
 

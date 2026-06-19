@@ -1,3 +1,12 @@
+---
+slug: /computer-science/security/vulnerabilities
+title: Understanding Key Security Vulnerabilities
+description: Explore critical security vulnerabilities like Spectre, Meltdown, and
+  Heartbleed that threaten server security and data integrity.
+created: '2023-03-05'
+last_update: '2025-02-14'
+---
+
 # Vulnerabilities
 
 1. Spectre

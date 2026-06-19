@@ -1,4 +1,11 @@
-# FCM Notifications
+---
+slug: /cloud/firebase/fcm-notifications
+title: FCM Notifications
+description: Discover how Firebase Cloud Messaging (FCM) enables reliable, cost-free
+  cross-platform messaging and access detailed delivery reports for your notifications.
+created: '2024-02-29'
+last_update: '2025-11-09'
+---
 
 Firebase Cloud Messaging (FCM) is a cross-platform messaging solution that lets you reliably send messages at no cost.
 

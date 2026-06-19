@@ -1,3 +1,12 @@
+---
+slug: /algorithms/data-compression/lzw-compression
+title: Understanding LZW Compression Techniques
+description: Explore LZW compression, its properties, and applications in data compression
+  algorithms, including its role in gzip and Druid.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
+
 # LZW Compression
 
 LZF belongs to a family of compression codecs called "simple Lempel-Ziv" codecs. Since LZ compression is also the first part ofdeflatecompression (which is used, along with simple framing, forgzip), it can be viewed as "first-part of gzip" (second part being Huffman-encoding of compressed content).

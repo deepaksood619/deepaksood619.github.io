@@ -1,4 +1,11 @@
-# Gold / Diamond / Gold ETF
+---
+slug: /economics/investment-products/hybrid-alternative/gold-physical-digital
+title: Gold / Diamond / Gold ETF
+description: Explore the latest import duties, taxes, and customs regulations on gold
+  and diamond investments, including Gold ETFs, in India and Dubai.
+created: '2025-10-16'
+last_update: '2026-06-13'
+---
 
 ## Physical Gold
 

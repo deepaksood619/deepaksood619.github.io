@@ -1,3 +1,12 @@
+---
+slug: /devops/ansible/commands
+title: Essential Ansible Commands Guide
+description: Discover key Ansible commands for managing hosts, creating inventory
+  files, and executing playbooks effectively.
+created: '2023-03-05'
+last_update: '2024-10-08'
+---
+
 # Commands
 
 ## Final Commands

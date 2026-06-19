@@ -1,3 +1,12 @@
+---
+slug: /technologies/confluent/confluent-platform
+title: Confluent Platform Overview
+description: Explore the Confluent Platform, including secrets management, licenses,
+  and quick installation guide for seamless integration.
+created: '2025-12-01'
+last_update: '2026-04-21'
+---
+
 # Confluent Platform
 
 - Confluent Secrets and Identity Management (CSID)

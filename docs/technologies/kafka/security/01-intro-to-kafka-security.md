@@ -1,3 +1,12 @@
+---
+slug: /technologies/kafka/security/01-intro-to-kafka-security
+title: Understanding Kafka Security Essentials
+description: Learn the key aspects of Apache Kafka security, including authentication,
+  authorization, encryption, and audit logs for safe production deployment.
+created: '2026-01-25'
+last_update: '2026-01-25'
+---
+
 # Introduction to Kafka Security
 
 Security is a primary consideration for any system design, and Apache Kafka® is no exception. **Out of the box, Kafka has relatively little security enabled**, so you need a basic familiarity with authentication, authorization, encryption, and audit logs in Kafka in order to securely put your system into production. This course has been created to quickly get you up to speed on what you need to know.

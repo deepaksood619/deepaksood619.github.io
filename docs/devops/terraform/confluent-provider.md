@@ -1,3 +1,12 @@
+---
+slug: /devops/terraform/confluent-provider
+title: Confluent Terraform Provider Guide
+description: Simplify your Apache Kafka deployment with the Confluent Terraform Provider
+  to manage Kafka clusters, ACLs, and more efficiently.
+created: '2026-01-28'
+last_update: '2026-06-11'
+---
+
 # Confluent Provider
 
 Simplify Apache Kafka Terraform deployment with the Confluent Terraform Provider. Manage Environments, Kafka Clusters, Kafka Topics, Kafka ACLs, Service Accounts, and more in Confluent.

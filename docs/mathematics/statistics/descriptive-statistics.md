@@ -1,4 +1,11 @@
-# Descriptive Statistics
+---
+slug: /mathematics/statistics/descriptive-statistics
+title: Descriptive Statistics
+description: Explore the essentials of descriptive statistics, including central tendency,
+  variability, visualization techniques, and methods for summarizing data effectively.
+created: '2023-03-05'
+last_update: '2026-06-09'
+---
 
 Levels of measurement
 

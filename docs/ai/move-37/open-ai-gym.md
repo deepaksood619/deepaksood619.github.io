@@ -1,4 +1,11 @@
-# Open AI Gym
+---
+slug: /ai/move-37/open-ai-gym
+title: Open AI Gym
+description: Explore Open AI Gym's environments like FronzenLake-v0 and BipedalWalker-v2,
+  where agents navigate challenges for rewards and optimal performance.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
 
 ## FronzenLake-v0
 

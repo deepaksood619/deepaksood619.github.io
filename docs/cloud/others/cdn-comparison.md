@@ -1,4 +1,11 @@
-# CDN Comparison
+---
+slug: /cloud/others/cdn-comparison
+title: CDN Comparison
+description: Compare top CDNs like Cloudflare, Amazon CloudFront, Akamai, and Fastly,
+  reviewing features, pricing, and performance to find the best fit for your needs.
+created: '2024-09-01'
+last_update: '2025-02-27'
+---
 
 - [Cloudflare](cloud/others/cloudflare.md) - [cloudflare.com/network/](https://www.cloudflare.com/network/)
 - [Amazon Cloudfront](cloud/aws/networking-content-delivery/amazon-cloudfront.md) - [Amazon Cloudfront Locations](https://aws.amazon.com/cloudfront/features/)

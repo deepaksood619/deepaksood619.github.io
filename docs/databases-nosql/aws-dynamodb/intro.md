@@ -1,4 +1,11 @@
-# AWS DynamoDB
+---
+slug: /databases-nosql/aws-dynamodb/intro
+title: AWS DynamoDB
+description: Amazon DynamoDB is a fully managed NoSQL database service that offers
+  high performance, scalability, and durability for internet-scale applications.
+created: '2023-03-05'
+last_update: '2026-03-27'
+---
 
 DynamoDB is a managed NoSQL database service provided by Amazon Web Services. As it is managed by Amazon, users do not have to worry about operations such as hardware provisioning, configuration, and scaling. The offering primarily targets key-value and document storage.
 

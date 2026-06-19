@@ -1,3 +1,12 @@
+---
+slug: /about-deepak-sood/projects/29-woocommerce-ai-assistant-product-journey
+title: WooCommerce AI Assistant Overview
+description: Transform your e-commerce management with an AI assistant that simplifies
+  store operations through conversational dialogue.
+created: '2026-04-15'
+last_update: '2026-04-16'
+---
+
 # WooCommerce AI Assistant - Product Journey
 
 ## The Vision

@@ -1,3 +1,12 @@
+---
+slug: /computer-science/operating-system/others
+title: Understanding Bank Switching in Computing
+description: Explore the concept of bank switching and its significance in maximizing
+  memory usage in computer systems and video game consoles.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Others
 
 ## Interrupt Coelesing

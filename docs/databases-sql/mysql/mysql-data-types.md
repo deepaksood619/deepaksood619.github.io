@@ -1,4 +1,12 @@
-# MySQL Data Types
+---
+slug: /databases-sql/mysql/mysql-data-types
+title: MySQL Data Types
+description: Explore MySQL data types, including numeric, date, and time formats,
+  their syntax, attributes, and handling of out-of-range values for effective database
+  management.
+created: '2023-03-05'
+last_update: '2025-11-24'
+---
 
 ## 11.1 Numeric Data Types
 

@@ -1,3 +1,12 @@
+---
+slug: /education/pedagogy/learning-intro
+title: Introduction to Autodidactic Learning
+description: Discover the power of self-directed learning with expert insights and
+  practical strategies for effective knowledge acquisition.
+created: '2023-03-05'
+last_update: '2026-06-18'
+---
+
 # Learning - Intro
 
 https://guides.lib.uoguelph.ca/c.php?g=697430&p=4949569

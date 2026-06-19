@@ -1,4 +1,11 @@
-# Stored Procedure
+---
+slug: /languages/sql/stored-procedure
+title: Stored Procedure
+description: Discover how stored procedures enhance RDBMS efficiency by enabling centralized
+  logic, data validation, and access control for seamless application integration.
+created: '2023-03-05'
+last_update: '2024-12-01'
+---
 
 A **stored procedure** (also termed **proc, storp, sproc, StoPro, StoredProc, StoreProc, sp, or SP**) is a [subroutine](https://en.wikipedia.org/wiki/Subroutine) available to applications that access a [relational database management system](https://en.wikipedia.org/wiki/Relational_database_management_system)(RDBMS). Such procedures are stored in the database [data dictionary](https://en.wikipedia.org/wiki/Data_dictionary).
 

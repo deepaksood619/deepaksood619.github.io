@@ -1,4 +1,11 @@
-# Amazon DevOps Guru
+---
+slug: /cloud/aws/analytics/amazon-devops-guru
+title: Amazon DevOps Guru
+description: Enhance your application's performance and availability with Amazon DevOps
+  Guru, a machine learning service that identifies operational issues in real-time.
+created: '2024-04-24'
+last_update: '2025-02-14'
+---
 
 [Amazon DevOps Guru](https://aws.amazon.com/devops-guru/) - Improve application availability with ML-powered cloud operations
 

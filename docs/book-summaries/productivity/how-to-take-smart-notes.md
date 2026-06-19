@@ -1,4 +1,11 @@
-# How to Take Smart Notes
+---
+slug: /book-summaries/productivity/how-to-take-smart-notes
+title: How to Take Smart Notes
+description: Learn how to take smart notes using the Zettelkasten system for better
+  organization, creativity, and in-depth understanding of your ideas.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 By Sönke Ahrens
 

@@ -1,4 +1,11 @@
-# Concepts
+---
+slug: /databases-nosql/time-series-db/influxdb/concepts
+title: Concepts
+description: Explore InfluxDB's innovative in-memory indexing and Time-Structured
+  Merge Tree (TSM) for efficient time-series data handling and storage optimization.
+created: '2023-03-05'
+last_update: '2025-06-10'
+---
 
 ## In-memory indexing and the Time-Structured Merge Tree (TSM)
 

@@ -1,4 +1,11 @@
-# Taxation - Foreign
+---
+slug: /economics/taxation/taxation-foreign
+title: Taxation - Foreign
+description: Explore foreign taxation, including income tax for freelancers, foreign
+  source income, and reporting foreign investments in this comprehensive guide.
+created: '2025-02-05'
+last_update: '2026-04-21'
+---
 
 [Foreign Exchange Explained.](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxJV-DziYCl4tF4vRedUdxTx3zszD8H1en)
 

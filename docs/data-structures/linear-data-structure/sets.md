@@ -1,3 +1,12 @@
+---
+slug: /data-structures/linear-data-structure/sets
+title: Understanding Sets in Symbol Tables
+description: Explore the concept of sets in symbol tables, including applications
+  like spell checkers and exception filters.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
+
 # Sets
 
 Application of Symbol table.

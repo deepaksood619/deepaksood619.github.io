@@ -1,4 +1,11 @@
-# Commands / Influx Query Language (InfluxQL)
+---
+slug: /databases-nosql/time-series-db/influxdb/commands-influx-query-language-influxql
+title: Commands / Influx Query Language (InfluxQL)
+description: Discover essential InfluxQL commands for data exploration, management,
+  continuous queries, and mathematical functions to optimize your InfluxDB experience.
+created: '2023-03-05'
+last_update: '2025-06-10'
+---
 
 1. [Sample data](https://docs.influxdata.com/influxdb/v1.7/query_language/data_download/)
 2. [Data exploration](https://docs.influxdata.com/influxdb/v1.7/query_language/data_exploration/)

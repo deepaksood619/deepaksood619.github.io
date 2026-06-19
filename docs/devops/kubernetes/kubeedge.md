@@ -1,3 +1,12 @@
+---
+slug: /devops/kubernetes/kubeedge
+title: 'KubeEdge: Empowering Edge Computing'
+description: Discover how KubeEdge extends Kubernetes to the Edge, enhancing app deployment
+  and data processing for IoT devices.
+created: '2023-03-05'
+last_update: '2025-11-04'
+---
+
 # KubeEdge
 
 KubeEdge is an open source system for extending native containerized application orchestration capabilities to hosts at Edge.It is built upon kubernetes and provides fundamental infrastructure support for network, app. deployment and metadata synchronization between cloud and edge. It also supportsMQTTand allows developers to author custom logic and enable resource constrained device communication at the Edge. KubeEdge consists of a cloud part and an edge part.

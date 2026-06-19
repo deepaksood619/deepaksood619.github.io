@@ -1,4 +1,11 @@
-# Roadmap
+---
+slug: /ai/deep-learning/roadmap
+title: Roadmap
+description: Explore a comprehensive roadmap for mastering deep learning, covering
+  neural networks, optimizers, activation functions, and key frameworks like Keras.
+created: '2024-09-21'
+last_update: '2024-10-19'
+---
 
 ![complete roadmap to prepare for deep learning](../../media/Screenshot%202024-09-20%20at%2011.18.50%20PM.jpg)
 

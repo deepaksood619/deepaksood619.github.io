@@ -1,3 +1,12 @@
+---
+slug: /networking/mqtt/mqtt-5.0
+title: Key Features of MQTT 5.0
+description: Explore the enhancements in MQTT 5.0, focusing on scalability, error
+  reporting, extensibility, and performance improvements for large systems.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # MQTT 5.0
 
 - Enhancements for scalability and large scale systems in respect to setups with 1000s and millions of devices.

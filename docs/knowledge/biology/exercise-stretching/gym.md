@@ -1,4 +1,11 @@
-# Gym
+---
+slug: /knowledge/biology/exercise-stretching/gym
+title: Gym
+description: Unlock your strength training potential with essential tips on compound
+  lifts, mind-muscle connection, and optimal workout strategies for muscle growth.
+created: '2023-03-05'
+last_update: '2025-08-11'
+---
 
 - The best exercise for gaining strength is not missing workouts
 - Ego-lifting

@@ -1,4 +1,12 @@
-# DuckDB
+---
+slug: /databases-nosql/duckdb
+title: DuckDB
+description: Discover DuckDB, the open-source SQL database optimized for analytics,
+  offering high performance, embedded functionality, and support for diverse data
+  formats.
+created: '2024-12-15'
+last_update: '2026-06-11'
+---
 
 DuckDB is an open-source, high-performance, in-process SQL database management system (RDBMS) for analytics:
 

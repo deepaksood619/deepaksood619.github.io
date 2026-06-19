@@ -1,3 +1,12 @@
+---
+slug: /networking/mqtt/scaling
+title: Scaling MQTT Brokers Effectively
+description: Learn about scaling out MQTT brokers through bridging to prevent single
+  points of failure and enhance message forwarding.
+created: '2023-03-05'
+last_update: '2023-11-26'
+---
+
 # Scaling
 
 In a brokered architecture it's critical to avoid a single point of failure and to think about scaling out, since typically only one broker node is used. In the context of MQTT there are two different popular strategies applicable:

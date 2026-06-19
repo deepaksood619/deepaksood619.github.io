@@ -1,3 +1,12 @@
+---
+slug: /devops/kubernetes/workloads/pod-lifecycle
+title: Understanding Pod Lifecycle in Kubernetes
+description: Explore the essential components of pod lifecycle in Kubernetes, including
+  phases, conditions, statuses, and more.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Pod Lifecycle
 
 - [Pod phase](https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#pod-phase)

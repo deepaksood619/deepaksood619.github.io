@@ -1,4 +1,11 @@
-# Model Limitations / Problems
+---
+slug: /ai/llm/fundamentals/limitations-problems
+title: Model Limitations / Problems
+description: Discover the limitations of AI models, including hallucinations and outdated
+  information, impacting their accuracy and reliability in generating responses.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 ## Hallucinations
 

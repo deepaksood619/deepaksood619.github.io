@@ -1,3 +1,12 @@
+---
+slug: /education/competitors/job-platforms/preplaced-analysis
+title: Preplaced Mentorship Job Placement Analysis
+description: Explore Preplaced’s mentorship-driven job placement model in India, offering
+  personalized guidance and supportive network connections.
+created: '2026-06-08'
+last_update: '2026-06-08'
+---
+
 # Preplaced - Mentorship-Driven Job Placement Analysis
 
 **Last Updated:** June 2026

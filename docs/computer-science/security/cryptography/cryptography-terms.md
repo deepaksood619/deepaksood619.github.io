@@ -1,3 +1,12 @@
+---
+slug: /computer-science/security/cryptography/cryptography-terms
+title: Essential Cryptography Terms Explained
+description: Discover key cryptography terms and techniques, including substitution,
+  transposition, and random number generation methods.
+created: '2023-03-05'
+last_update: '2026-05-18'
+---
+
 # Cryptography Terms
 
 ## Cryptographic Techniques

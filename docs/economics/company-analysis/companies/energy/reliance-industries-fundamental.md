@@ -1,14 +1,12 @@
 ---
-title: Reliance Industries Limited - Fundamental Analysis
-company: Reliance Industries Limited
-ticker: NSE:RELIANCE
-sector: Oil & Gas / Conglomerate
-analysis_type: fundamental
-date: 2026-06-03
-analyst: Claude (LLM-generated)
-data_sources: [Screener.in, Web Research]
-tags: [fundamental-analysis, indian-stocks, oil-gas, conglomerate, large-cap, reliance]
+slug: /economics/company-analysis/companies/energy/reliance-industries-fundamental
+title: Reliance Industries Fundamental Analysis
+description: Discover Reliance Industries' investment potential with a fundamental
+  score of 7.8/10 and a medium-term buy recommendation.
+created: '2026-06-03'
+last_update: '2026-06-09'
 ---
+
 - **Analysis Date:** June 3, 2026
 - **Exchange:** NSE/BSE
 - **Sector:** Oil & Gas / Conglomerate (Diversified across O2C, Retail, Digital Services, New Energy)

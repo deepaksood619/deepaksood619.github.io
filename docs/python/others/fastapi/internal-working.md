@@ -1,3 +1,12 @@
+---
+slug: /python/others/fastapi/internal-working
+title: Understanding FastAPI Internal Working
+description: Explore FastAPI's internal workings, including concurrency and path operation
+  functions for optimal performance.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Internal working
 
 ## Concurrency

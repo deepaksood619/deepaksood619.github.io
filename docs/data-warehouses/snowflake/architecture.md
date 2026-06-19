@@ -1,3 +1,12 @@
+---
+slug: /data-warehouses/snowflake/architecture
+title: Understanding Snowflake Architecture
+description: Explore how Snowflake provides a self-managed data platform with cloud
+  infrastructure for effortless data processing and storage.
+created: '2024-01-04'
+last_update: '2025-06-10'
+---
+
 # Architecture
 
 ## Data Platform as a Self-managed Service

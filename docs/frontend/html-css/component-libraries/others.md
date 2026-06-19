@@ -1,3 +1,12 @@
+---
+slug: /frontend/html-css/component-libraries/others
+title: Bootstrap and MaterialUI Resources
+description: Explore Bootstrap and MaterialUI features, templates, and essential links
+  for modern web development.
+created: '2023-03-05'
+last_update: '2025-04-24'
+---
+
 # Others
 
 ## Bootstrap

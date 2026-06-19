@@ -1,3 +1,12 @@
+---
+slug: /frontend/others/angularjs/09-data-binding
+title: Understanding Data Binding in Angular
+description: Explore how Angular's data binding simplifies synchronizing your template
+  and component, enhancing efficiency and reducing errors.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # 9. Data Binding
 
 Without a framework, you would be responsible for pushing data values into the HTML controls and turning user responses into actions and value updates. Writing such push/pull logic by hand is tedious, error-prone, and a nightmare to read as any experienced jQuery programmer can attest.

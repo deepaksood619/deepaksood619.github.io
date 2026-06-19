@@ -1,3 +1,12 @@
+---
+slug: /education/competitors/job-platforms/coursera-degrees-india-analysis
+title: Coursera Degrees India Analysis
+description: Explore Coursera's strategic partnerships with top Indian institutions
+  for online degree programs and job skills development.
+created: '2026-06-08'
+last_update: '2026-06-08'
+---
+
 # Coursera Degrees - India Market Analysis
 
 **Last Updated:** June 2026

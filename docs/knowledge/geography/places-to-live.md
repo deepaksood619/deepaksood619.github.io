@@ -1,4 +1,11 @@
-# Places to live
+---
+slug: /knowledge/geography/places-to-live
+title: Places to live
+description: Discover the best places to live with welcoming communities, good climate,
+  excellent infrastructure, and opportunities for families and businesses.
+created: '2026-05-14'
+last_update: '2026-05-19'
+---
 
 ## Things needed for a new country
 

@@ -1,4 +1,11 @@
-# PowerBI
+---
+slug: /ai/data-visualization/powerbi
+title: PowerBI
+description: Discover how Power BI transforms data into interactive dashboards and
+  reports, leveraging DAX for insightful analysis and efficient data management.
+created: '2023-03-05'
+last_update: '2025-10-08'
+---
 
 ## Questions
 

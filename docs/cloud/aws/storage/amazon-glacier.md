@@ -1,4 +1,11 @@
-# Amazon Glacier
+---
+slug: /cloud/aws/storage/amazon-glacier
+title: Amazon Glacier
+description: Discover Amazon Glacier, a low-cost, secure cloud storage solution for
+  data archiving and long-term backup with powerful query-in-place functionality.
+created: '2025-10-24'
+last_update: '2025-11-12'
+---
 
 ### Low-cost Archive Storage in the Cloud
 

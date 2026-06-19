@@ -1,3 +1,12 @@
+---
+slug: /technologies/kafka/kafka-commands/00-kafka-setup
+title: Kafka Single Node Docker Setup
+description: Learn how to set up a single-node Confluent Kafka client using Docker
+  with Zookeeper and Control Center configurations.
+created: '2026-03-21'
+last_update: '2026-03-21'
+---
+
 # Kafka Setup
 
 ## Kafka confluent single node client setup

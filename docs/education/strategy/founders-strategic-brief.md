@@ -1,3 +1,12 @@
+---
+slug: /education/strategy/founders-strategic-brief
+title: Founder's Strategic Brief for Education Startup
+description: Explore our education startup's strategic direction, focusing on AI-native
+  learning for professionals seeking skill development.
+created: '2026-05-05'
+last_update: '2026-06-13'
+---
+
 # Founder's Strategic Brief - Education Startup
 
 - **Date:** 2026-06-07 (Updated)

@@ -1,4 +1,12 @@
-# Finance / Investing
+---
+slug: /economics/personal-finance/readme
+title: Finance / Investing
+description: Discover essential finance and investing strategies, including protection
+  methods, retirement planning, and wealth-building techniques for lasting financial
+  security.
+created: '2023-03-05'
+last_update: '2026-06-13'
+---
 
 - Protection
 	- [emergency-fund](economics/personal-finance/protection/emergency-fund.md)

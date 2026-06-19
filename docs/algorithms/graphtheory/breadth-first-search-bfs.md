@@ -1,3 +1,12 @@
+---
+slug: /algorithms/graphtheory/breadth-first-search-bfs
+title: Understanding Breadth First Search Algorithm
+description: Learn how the Breadth First Search (BFS) algorithm traverses tree structures
+  level by level, with examples and code snippets.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Breadth First Search (BFS)
 
 BFS "is an algorithm for traversing or searching tree data structure. It starts at the tree root and explores the neighbor nodes first, before moving to the next level neighbors."

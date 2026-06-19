@@ -1,3 +1,12 @@
+---
+slug: /algorithms/advanced-algorithms/travelling-salesman-problem
+title: Understanding the Travelling Salesman Problem
+description: Explore the complexities of the Travelling Salesman Problem and discover
+  methods for finding sub-optimal solutions in computational challenges.
+created: '2023-03-05'
+last_update: '2023-12-06'
+---
+
 # Travelling Salesman Problem
 
 The Traveling Salesman Problem is a well known challenge in Computer Science: it consists on finding the shortest route possible that traverses all cities in a given map only once. Although its simple explanation, this problem is, indeed, NP-Complete. This implies that the difficulty to solve it increases rapidly with the number of cities, and we do not know in fact a general solution that solves the problem. For that reason, we currently consider that any method able to find a sub-optimal solution is generally good enough (we cannot verify if the solution returned is the optimal one most of the times).

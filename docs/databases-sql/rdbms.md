@@ -1,4 +1,11 @@
-# RDBMS
+---
+slug: /databases-sql/rdbms
+title: RDBMS
+description: Learn about RDBMS, which structures data into tables with rows and columns,
+  using common data types like INTEGER, TEXT, DATE, and REAL for efficient organization.
+created: '2023-03-05'
+last_update: '2025-06-10'
+---
 
 A relational databaseis a database that organizes information into one or more tables. Here, the relational database contains one table.
 

@@ -1,4 +1,11 @@
-# Natural Language to SQL / Generative BI / GenBI
+---
+slug: /ai/llm/use-cases/natural-language-to-sql-generative-bi-genbi
+title: Natural Language to SQL / Generative BI / GenBI
+description: Explore Natural Language to SQL with Generative BI tools like Dataherald
+  and SQLCoder, transforming queries into actionable insights effortlessly.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 Unified NLQ (Natural Language Query)
 

@@ -1,4 +1,11 @@
-# Books / Blinkist - Productivity
+---
+slug: /book-summaries/productivity/books-blinkist-productivity
+title: Books / Blinkist - Productivity
+description: Discover essential productivity insights from Blinkist's top books, including
+  strategies for recharging, deep connections, and focused work.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 ## Blinkist - Get your shit together by Sarah Knight (2 Jan 2019)
 

@@ -1,4 +1,11 @@
-# Diet
+---
+slug: /knowledge/biology/nutrition/diet
+title: Diet
+description: Explore the complex relationship between diet, insulin resistance, and
+  exercise, and learn how our brains adapt in a feast-famine environment.
+created: '2023-07-10'
+last_update: '2026-06-16'
+---
 
 Humans evolved for Feast - famine
 

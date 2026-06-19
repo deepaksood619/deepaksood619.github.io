@@ -1,3 +1,12 @@
+---
+slug: /about-deepak-sood/projects/28-woocommerce-ai-assistant-technical-deep-dive
+title: WooCommerce AI Assistant Insights
+description: Explore the technical architecture behind a multi-agent AI system for
+  e-commerce, built with Claude Code and GSD workflows.
+created: '2026-04-15'
+last_update: '2026-04-16'
+---
+
 # WooCommerce AI Assistant - Technical Deep Dive
 
 ![WooCommerce AI Assistant Architecture](../../media/Pasted%20image%2020260415011007.png)

@@ -1,10 +1,12 @@
 ---
-title: Sana Labs Competitive Analysis
-date: 2026-06-06
-type: competitor-analysis
-domain: edtech-enterprise
-tags: [sana-labs, enterprise-learning, bayesian-irt, semantic-search, corporate-lms, ai-personalization, knowledge-decay, sweden]
+slug: /education/competitors/adaptive-ai-platforms/sana-labs-analysis
+title: Sana Labs Company Overview
+description: Explore Sana Labs' growth, funding, and acquisition by Workday, along
+  with key statistics and recognitions in the AI technology sector.
+created: '2026-06-07'
+last_update: '2026-06-08'
 ---
+
 
 ## Company Overview
 

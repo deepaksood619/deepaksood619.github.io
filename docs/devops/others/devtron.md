@@ -1,3 +1,12 @@
+---
+slug: /devops/others/devtron
+title: 'DevTron: Microservices Management Tool'
+description: Optimize your microservices lifecycle with DevTron's intuitive interface
+  for CI, CD, security, and observability across Kubernetes.
+created: '2024-05-16'
+last_update: '2026-04-28'
+---
+
 # DevTron
 
 Devtron deeply integrates with products across the lifecycle of microservices, i.e., CI, CD, security, cost, debugging, and observability via an intuitive web interface.

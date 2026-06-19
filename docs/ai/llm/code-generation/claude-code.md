@@ -1,4 +1,11 @@
-# Claude Code
+---
+slug: /ai/llm/code-generation/claude-code
+title: Claude Code
+description: Discover Claude Code for deep coding insights, plugins, and hands-on
+  tutorials that enhance productivity and streamline your development process.
+created: '2026-06-18'
+last_update: '2026-06-19'
+---
 
 [Claude Code: Deep Coding at Terminal Velocity \\ Anthropic](https://www.anthropic.com/claude-code)
 

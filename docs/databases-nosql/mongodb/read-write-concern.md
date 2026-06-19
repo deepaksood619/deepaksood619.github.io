@@ -1,4 +1,11 @@
-# Read / Write Concern
+---
+slug: /databases-nosql/mongodb/read-write-concern
+title: Read / Write Concern
+description: Explore MongoDB's read concern levels, including local and available,
+  to manage data consistency and isolation in replica sets effectively.
+created: '2024-01-15'
+last_update: '2025-06-10'
+---
 
 ## Read Concern
 

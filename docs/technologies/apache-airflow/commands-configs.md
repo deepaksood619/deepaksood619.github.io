@@ -1,3 +1,12 @@
+---
+slug: /technologies/apache-airflow/commands-configs
+title: Airflow Commands and Configurations Guide
+description: Explore essential Apache Airflow commands and configurations for effective
+  task management and orchestration.
+created: '2023-03-05'
+last_update: '2026-03-27'
+---
+
 # Commands / Configs
 
 ```python

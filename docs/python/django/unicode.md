@@ -1,3 +1,12 @@
+---
+slug: /python/django/unicode
+title: Understanding Unicode String Conversion Methods
+description: Explore the three key methods for string conversion in Python's Unicode
+  handling, including __str__(), __unicode__(), and __repr__().
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Unicode
 
 There are 3 built-in methods for string conversion -

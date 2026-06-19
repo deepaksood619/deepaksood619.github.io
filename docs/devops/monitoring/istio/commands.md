@@ -1,3 +1,12 @@
+---
+slug: /devops/monitoring/istio/commands
+title: Essential Istioctl Commands Guide
+description: Discover key commands for installing and managing Istio, including installation,
+  verification, and status checks.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Commands
 
 ```bash

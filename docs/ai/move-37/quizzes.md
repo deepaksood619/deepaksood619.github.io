@@ -1,4 +1,11 @@
-# Quizzes
+---
+slug: /ai/move-37/quizzes
+title: Quizzes
+description: Explore a variety of engaging quizzes that test your knowledge and entertain,
+  perfect for all ages and interests. Discover and challenge yourself today!
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
 
 ![image](../../media/Quizzes-image1.jpg)
 

@@ -1,4 +1,12 @@
-# Schedules
+---
+slug: /knowledge/law/constitution-of-india/schedules
+title: Schedules
+description: Explore the various Schedules of the Indian Constitution, detailing states,
+  emoluments, territorial jurisdiction, and governance structures essential for understanding
+  India's framework.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
 
 Schedules - Additional details (like languages list)
 

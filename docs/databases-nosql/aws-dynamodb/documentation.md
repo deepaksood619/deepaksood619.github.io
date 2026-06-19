@@ -1,4 +1,11 @@
-# Documentation
+---
+slug: /databases-nosql/aws-dynamodb/documentation
+title: Documentation
+description: Explore essential Amazon DynamoDB documentation on partitions, data distribution,
+  and best practices for designing efficient partition keys for optimal performance.
+created: '2023-03-05'
+last_update: '2025-06-10'
+---
 
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html
 

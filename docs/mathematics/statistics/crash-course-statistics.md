@@ -1,4 +1,11 @@
-# Crash Course Statistics
+---
+slug: /mathematics/statistics/crash-course-statistics
+title: Crash Course Statistics
+description: Master statistics with Crash Course by exploring Z-scores, confidence
+  intervals, T-distribution, and margin of error for better data analysis.
+created: '2023-03-05'
+last_update: '2025-04-03'
+---
 
 [Statistics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
 

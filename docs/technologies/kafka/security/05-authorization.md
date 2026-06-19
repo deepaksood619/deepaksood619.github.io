@@ -1,3 +1,12 @@
+---
+slug: /technologies/kafka/security/05-authorization
+title: Understanding Authorization in Kafka
+description: Learn how authorization works in Kafka, including access control lists
+  and client permissions after authentication.
+created: '2026-01-25'
+last_update: '2026-01-26'
+---
+
 # Authorization
 
 Authorization determines what an entity can do on a system once it has been authenticated. Consider an ATM, once you successfully authenticate with your card and PIN, you are able to access your accounts only, not all of the accounts on the machine.

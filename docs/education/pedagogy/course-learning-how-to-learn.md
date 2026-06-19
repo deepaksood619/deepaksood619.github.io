@@ -1,3 +1,12 @@
+---
+slug: /education/pedagogy/course-learning-how-to-learn
+title: Master Learning Techniques Course
+description: Discover effective learning strategies like chunking, memory techniques,
+  and overcoming procrastination in this comprehensive course.
+created: '2023-03-05'
+last_update: '2026-05-05'
+---
+
 # Course - Learning How to Learn
 
 Key Chunks discussed in the course from which you can recall whole course

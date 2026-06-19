@@ -1,4 +1,11 @@
-# Financial Journey Till 2026
+---
+slug: /about-deepak-sood/financial-journey-till-2026
+title: Financial Journey Till 2026
+description: Discover my financial journey to 2026, exploring resilience, family values,
+  and strategic pivots towards achieving lasting financial independence.
+created: '2026-03-09'
+last_update: '2026-04-28'
+---
 
 The path to financial independence is rarely a straight line. For me, it has been a story of shifting mindsets, career pivots, and learning how to manage risk without losing my mind.
 

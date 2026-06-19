@@ -1,3 +1,12 @@
+---
+slug: /computer-science/general/uuid-guid
+title: Understanding UUID and GUID
+description: Learn about UUIDs and GUIDs, their uniqueness, generation methods, and
+  how they simplify identification in computer systems.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # UUID / GUID
 
 A **Universally Unique IDentifier (UUID)** is a [128-bit](https://en.wikipedia.org/wiki/128-bit) number used to identify information in computer systems. The term **Globally Unique IDentifier(GUID)** is also used, typically in software created by Microsoft.

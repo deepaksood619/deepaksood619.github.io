@@ -1,3 +1,12 @@
+---
+slug: /management/product-management/intro
+title: Insights on Product Development
+description: Explore key insights from industry leaders on innovation, product success,
+  and team management in project development.
+created: '2023-03-05'
+last_update: '2026-04-30'
+---
+
 # Intro
 
 Only the best is good enough -- lego group

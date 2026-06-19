@@ -1,3 +1,12 @@
+---
+slug: /python/python-intro/file-io
+title: Understanding File IO in Python
+description: Learn how to efficiently handle file operations in Python, including
+  reading, writing, and appending data to files.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # File IO
 
 https://towardsdatascience.com/knowing-these-you-can-cover-99-of-file-operations-in-python-84725d82c2df

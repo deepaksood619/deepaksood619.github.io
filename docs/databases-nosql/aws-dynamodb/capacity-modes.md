@@ -1,4 +1,11 @@
-# Capacity Modes
+---
+slug: /databases-nosql/aws-dynamodb/capacity-modes
+title: Capacity Modes
+description: 'Discover DynamoDB''s capacity modes: Provisioned for stable workloads
+  with Auto Scaling, and On-Demand for flexible, easily switchable performance.'
+created: '2024-04-17'
+last_update: '2025-06-10'
+---
 
 DynamoDB has two capacity modes, Provisioned and On-Demand. You can switch between these modes once every 24 hours.
 

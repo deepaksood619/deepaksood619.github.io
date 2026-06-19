@@ -1,4 +1,11 @@
-# Normal Distributions
+---
+slug: /mathematics/probability/normal-distributions
+title: Normal Distributions
+description: Discover the significance of normal distributions in probability theory,
+  statistics, and their applications in the natural and social sciences.
+created: '2023-03-05'
+last_update: '2025-10-24'
+---
 
 In [probability theory](https://en.wikipedia.org/wiki/Probability_theory), the normal(or Gaussian or Gauss or Laplace--Gauss) distribution is a very common [continuous probability distribution](https://en.wikipedia.org/wiki/Continuous_probability_distribution). Normal distributions are important in [statistics](https://en.wikipedia.org/wiki/Statistics) and are often used in the [natural](https://en.wikipedia.org/wiki/Natural_science) and [social sciences](https://en.wikipedia.org/wiki/Social_science) to represent real-valued [random variables](https://en.wikipedia.org/wiki/Random_variable) whose distributions are not known. A [random variable](https://en.wikipedia.org/wiki/Random_variable) with a Gaussian distribution is said to be normally distributed and is called a normal deviate.
 

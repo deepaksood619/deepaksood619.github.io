@@ -1,4 +1,11 @@
-# ML Classification
+---
+slug: /ai/ml-fundamentals/ml-classification
+title: ML Classification
+description: Explore the key types of machine learning classification algorithms,
+  including parametric and non-parametric methods, to enhance your data analysis skills.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
 
 ## Types of ML Algorithms
 

@@ -1,4 +1,11 @@
-# Recipe
+---
+slug: /knowledge/biology/nutrition/recipe
+title: Recipe
+description: Discover tips and a delicious grilled chicken and paneer recipe that
+  enhances flavor while minimizing heat—perfect for every home cook!
+created: '2023-03-05'
+last_update: '2026-02-19'
+---
 
 ## Tips
 

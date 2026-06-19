@@ -1,3 +1,12 @@
+---
+slug: /devops/kubernetes/cluster-administration/others
+title: Understanding Kubernetes Network Model
+description: Explore the Kubernetes network model, which simplifies pod communication
+  and enhances service discovery without the need for NAT.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # Others
 
 ## Kubernetes Network Model

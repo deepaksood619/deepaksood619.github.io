@@ -1,3 +1,12 @@
+---
+slug: /computer-science/programming-paradigms/readme
+title: Exploring Programming Paradigms
+description: Dive into various programming paradigms, including OOP, functional programming,
+  and design patterns with clear examples and explanations.
+created: '2023-03-05'
+last_update: '2023-11-18'
+---
+
 # Programming Paradigms
 
 - [Types of Programming Paradigm](types-of-programming-paradigm)

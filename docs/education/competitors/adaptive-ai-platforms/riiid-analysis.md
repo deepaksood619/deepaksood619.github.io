@@ -1,10 +1,12 @@
 ---
-title: Riiid Competitive Analysis
-date: 2026-06-06
-type: competitor-analysis
-domain: edtech-korea
-tags: [riiid, santa-toeic, deep-knowledge-tracing, ednet-dataset, ai-tutoring, test-prep, korea-edtech, adaptive-learning, b2b-api]
+slug: /education/competitors/adaptive-ai-platforms/riiid-analysis
+title: Riiid Company Analysis
+description: Explore Riiid's innovative AI-driven education solutions, funding achievements,
+  and market position in personalized tutoring.
+created: '2026-06-07'
+last_update: '2026-06-17'
 ---
+
 
 ## Company Overview
 

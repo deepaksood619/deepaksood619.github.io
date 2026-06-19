@@ -1,3 +1,12 @@
+---
+slug: /databases/concepts/mvcc-multiversion-concurrency-control
+title: Understanding MVCC in Databases
+description: Explore how MultiVersion Concurrency Control (MVCC) enables transaction
+  isolation and data consistency in database systems.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # MVCC, MultiVersion Concurrency Control
 
 The DBMS maintans physical versions of a single logical object in the database:

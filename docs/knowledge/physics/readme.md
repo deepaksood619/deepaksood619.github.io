@@ -1,4 +1,11 @@
-# Physics
+---
+slug: /knowledge/physics/readme
+title: Physics
+description: Explore the fascinating world of physics, from acoustics to astrophysics,
+  with resources like Crash Course and Khan Academy for in-depth learning.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
 
 - [Intro](knowledge/physics/intro.md)
 - [Crash Course Physics](crash-course-physics)

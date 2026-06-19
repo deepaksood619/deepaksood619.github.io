@@ -1,4 +1,11 @@
-# Ranking
+---
+slug: /mathematics/statistics/ranking
+title: Ranking
+description: Explore effective strategies for assigning rankings in competitions,
+  addressing ties and ordinal measurements for precise and fair evaluations.
+created: '2023-03-07'
+last_update: '2023-06-22'
+---
 
 ## Strategies for assigning rankings
 

@@ -1,4 +1,11 @@
-# Intro
+---
+slug: /languages/php/intro
+title: Intro
+description: Discover PHP, a versatile programming language for web development, initially
+  created in 1994 by Rasmus Lerdorf, now pivotal in dynamic website creation.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
 
 PHPis a [general-purpose programming language](https://en.wikipedia.org/wiki/General-purpose_programming_language) originally designed for [web development](https://en.wikipedia.org/wiki/Web_development). It was originally created by [Rasmus Lerdorf](https://en.wikipedia.org/wiki/Rasmus_Lerdorf) in 1994;the PHP [reference implementation](https://en.wikipedia.org/wiki/Reference_implementation) is now produced by The PHP Group.PHP originally stood forPersonal Home Page, but it now stands for the [recursive initialism](https://en.wikipedia.org/wiki/Recursive_initialism) PHP: Hypertext Preprocessor.
 

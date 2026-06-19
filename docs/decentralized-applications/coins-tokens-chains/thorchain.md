@@ -1,4 +1,11 @@
-# ThorChain
+---
+slug: /decentralized-applications/coins-tokens-chains/thorchain
+title: ThorChain
+description: THORChain enables seamless swaps between major cryptocurrencies like
+  Bitcoin and Ethereum, while securing transactions with its native RUNE token.
+created: '2023-06-23'
+last_update: '2023-06-23'
+---
 
 THORChain is a settlement layer that facilitates swaps between Bitcoin, Ethereum, BNB Chain, Avalanche, Cosmos Hub, Dogecoin, Bitcoin Cash, Litecoin
 

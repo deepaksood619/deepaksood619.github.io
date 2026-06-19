@@ -1,4 +1,11 @@
-# Pricing / Costs
+---
+slug: /ai/llm/fundamentals/pricing-costs
+title: Pricing / Costs
+description: Discover monthly costs for hosting Llama 3B and multimodal APIs, covering
+  usage, performance needs, data types, and hosting preferences.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 Hosting Llama 3 Billion parameters or similar other multimodal  and used the exposed API's initially for development purposes, what would be the monthly cost.
 

@@ -1,3 +1,12 @@
+---
+slug: /networking/others/grpc/readme
+title: 'Understanding gRPC: A Comprehensive Guide'
+description: Explore gRPC fundamentals, concepts, guides, and commands to enhance
+  your networking knowledge and capabilities.
+created: '2023-03-05'
+last_update: '2025-02-27'
+---
+
 # gRPC
 
 - [gRPC](networking/others/grpc/intro.md)

@@ -1,4 +1,11 @@
-# SQL Data Types
+---
+slug: /languages/sql/sql-data-types
+title: SQL Data Types
+description: Explore SQL data types in Databricks, including promotion, downcasting,
+  and crosscasting, to effectively manage and manipulate your data.
+created: '2023-05-31'
+last_update: '2025-07-19'
+---
 
 ## SQL data type rules
 

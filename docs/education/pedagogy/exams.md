@@ -1,3 +1,12 @@
+---
+slug: /education/pedagogy/exams
+title: Strategies to Ace Exams
+description: Learn effective strategies like spacing and retrieval practice to enhance
+  your exam performance and retention.
+created: '2023-03-05'
+last_update: '2026-05-05'
+---
+
 # Exams
 
 ## The strategy to ace Exams

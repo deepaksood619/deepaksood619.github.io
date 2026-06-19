@@ -1,4 +1,11 @@
-# Analytical Queries
+---
+slug: /languages/sql/dql-data-query-language/analytical-queries
+title: Analytical Queries
+description: Discover how analytic queries enhance data analysis by utilizing aggregate
+  functions, OVER clauses, PARTITION BY, and window frame clauses for precise calculations.
+created: '2023-05-28'
+last_update: '2023-12-05'
+---
 
 Aggregate functions perform calculations based on sets of rows
 

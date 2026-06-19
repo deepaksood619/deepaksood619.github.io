@@ -1,3 +1,12 @@
+---
+slug: /python/documentation/12-data-persistence
+title: Understanding Data Persistence in Python
+description: Explore Python's data persistence methods, including object serialization
+  with pickle, and its comparisons with other modules.
+created: '2023-03-05'
+last_update: '2025-02-02'
+---
+
 # 12. Data Persistence
 
 - [**12.1.pickle - Python object serialization**](https://docs.python.org/3/library/pickle.html)

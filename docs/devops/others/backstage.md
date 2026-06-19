@@ -1,3 +1,12 @@
+---
+slug: /devops/others/backstage
+title: Streamline Development with Backstage
+description: Backstage is an open platform that empowers teams to manage software
+  and accelerate project delivery with centralized tools and templates.
+created: '2024-07-15'
+last_update: '2026-06-11'
+---
+
 # Backstage
 
 Internal Developer Portal (IDP)

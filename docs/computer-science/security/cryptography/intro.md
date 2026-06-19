@@ -1,3 +1,12 @@
+---
+slug: /computer-science/security/cryptography/intro
+title: Understanding Cryptography Basics
+description: Explore the fundamentals of cryptography, its importance in securing
+  secrets, and how to maintain integrity over time.
+created: '2023-03-05'
+last_update: '2024-03-11'
+---
+
 # Cryptography
 
 Dance like no one is watching; encrypt like everyone is. Encrypt everything."

@@ -1,3 +1,12 @@
+---
+slug: /technologies/confluent/replicator
+title: Key Insights on Replicator
+description: Discover essential information about Replicator's features, including
+  hybrid cloud support and robust monitoring capabilities.
+created: '2026-03-04'
+last_update: '2026-03-05'
+---
+
 # Replicator
 
 [15 Things You Should Know About Replicator](https://www.confluent.io/blog/15-facts-about-confluent-replicator-and-multi-cluster-kafka-deployment/)

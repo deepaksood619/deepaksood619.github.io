@@ -1,3 +1,12 @@
+---
+slug: /education/pedagogy/concentration-mindfulness-attention-focus-hard-work
+title: Mastering Concentration and Mindfulness
+description: Learn essential techniques to enhance your concentration, mindfulness,
+  and focus for greater productivity and success in your daily work.
+created: '2023-03-05'
+last_update: '2026-06-18'
+---
+
 # Concentration / Mindfulness / Attention / Focus / Hard Work
 
 I think, therefore I am distracted.

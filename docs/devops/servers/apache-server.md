@@ -1,3 +1,12 @@
+---
+slug: /devops/servers/apache-server
+title: Overview of Apache HTTP Server
+description: Discover the features and history of the Apache HTTP Server, a widely
+  used and customizable open-source web server.
+created: '2023-03-05'
+last_update: '2025-04-27'
+---
+
 # Apache Server
 
 ## Apache HTTP Server

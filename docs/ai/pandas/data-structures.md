@@ -1,4 +1,11 @@
-# Data Structures
+---
+slug: /ai/pandas/data-structures
+title: Data Structures
+description: Explore the pandas DataFrame, a versatile two-dimensional data structure
+  for storing and manipulating labeled tabular data with aligned arithmetic operations.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
 
 `*class* pandas. **DataFrame** (*data=None*,*index=None*, *columns=None*, *dtype=None*, *copy=False*)`
 

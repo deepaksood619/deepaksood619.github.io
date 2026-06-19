@@ -1,3 +1,12 @@
+---
+slug: /frontend/others/static-site-generators
+title: Exploring Static Site Generators
+description: Discover the top static site generators, including Astro, and learn how
+  to build faster websites with advanced features.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # Static Site Generators
 
 [GitHub - myles/awesome-static-generators: A curated list of static web site generators.](https://github.com/myles/awesome-static-generators) ⭐ 3.7k

@@ -1,3 +1,12 @@
+---
+slug: /computer-science/operating-system/memory-layout
+title: Understanding Memory Layout in C Programs
+description: Explore the typical memory layout of C programs, including text, data,
+  stack, and heap segments for efficient programming.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Memory Layout
 
 A typical memory representation of C program consists of following sections.

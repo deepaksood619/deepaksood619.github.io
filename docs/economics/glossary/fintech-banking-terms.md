@@ -1,4 +1,11 @@
-# Fintech / NBFC / Banking Terms
+---
+slug: /economics/glossary/fintech-banking-terms
+title: Fintech / NBFC / Banking Terms
+description: Explore essential banking and fintech terms, including CASA ratio, NPA,
+  and asset-liability management, to enhance your financial understanding and literacy.
+created: '2023-03-05'
+last_update: '2026-06-09'
+---
 
 ## Banking Parameters
 

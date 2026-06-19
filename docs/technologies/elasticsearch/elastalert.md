@@ -1,3 +1,12 @@
+---
+slug: /technologies/elasticsearch/elastalert
+title: 'ElastAlert: Anomaly Detection Framework'
+description: ElastAlert helps monitor Elasticsearch data, triggering alerts for anomalies
+  and patterns through customizable rules and alert types.
+created: '2023-03-05'
+last_update: '2024-11-29'
+---
+
 # ElastAlert
 
 ElastAlert is a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch.

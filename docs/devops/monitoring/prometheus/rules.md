@@ -1,3 +1,12 @@
+---
+slug: /devops/monitoring/prometheus/rules
+title: Understanding Prometheus Rules
+description: Learn about Prometheus recording and alerting rules for efficient data
+  management and dashboard performance.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Rules
 
 Prometheus supports two types of rules which may be configured and then evaluated at regular intervals: recording rules and [alerting rules](https://prometheus.io/docs/prometheus/latest/configuration/alerting_rules/).

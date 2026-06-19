@@ -1,4 +1,11 @@
-# Alibaba Cloud
+---
+slug: /cloud/others/alibaba-cloud
+title: Alibaba Cloud
+description: Discover Alibaba Cloud's MaxCompute, a fully managed platform for efficient
+  large-scale data warehousing, enabling cost-effective querying and robust security.
+created: '2024-12-06'
+last_update: '2025-02-27'
+---
 
 ## MaxCompute
 

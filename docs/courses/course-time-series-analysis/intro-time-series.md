@@ -1,4 +1,11 @@
-# Intro - Time Series
+---
+slug: /courses/course-time-series-analysis/intro-time-series
+title: Intro - Time Series
+description: Explore time series analysis with QQ-Plots, ACF, PACF, and more to assess
+  data distribution, seasonal decomposition, and model reliability.
+created: '2023-03-05'
+last_update: '2024-12-19'
+---
 
 ### QQ-Plot (Quantile-Quantile Plot)
 

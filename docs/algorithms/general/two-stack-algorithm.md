@@ -1,3 +1,12 @@
+---
+slug: /algorithms/general/two-stack-algorithm
+title: Two-Stack Algorithm for Infix Evaluation
+description: Learn how the Two-Stack Algorithm effectively evaluates infix expressions
+  using value and operator stacks.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # Two-Stack Algorithm
 
 Goal: Evaluate Infix Expressions

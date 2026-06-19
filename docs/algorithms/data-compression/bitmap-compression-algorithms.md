@@ -1,3 +1,12 @@
+---
+slug: /algorithms/data-compression/bitmap-compression-algorithms
+title: Bitmap Compression Techniques Overview
+description: Explore efficient bitmap compression algorithms like WAH and EWAH to
+  optimize storage for data warehousing and retrieval operations.
+created: '2023-03-05'
+last_update: '2023-12-06'
+---
+
 # Bitmap Compression Algorithms
 
 1. Byte-aligned Bitmap Code

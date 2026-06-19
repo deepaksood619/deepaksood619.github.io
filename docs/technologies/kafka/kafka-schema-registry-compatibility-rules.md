@@ -1,4 +1,11 @@
-# Kafka Schema Registry Compatibility Rules
+---
+slug: /technologies/kafka/kafka-schema-registry-compatibility-rules
+title: Kafka Schema Registry Compatibility Rules
+description: Discover essential Kafka Schema Registry compatibility rules to manage
+  schema changes and ensure smooth message processing in your applications.
+created: '2025-12-15'
+last_update: '2026-03-18'
+---
 
 The Schema Registry supports **compatibility rules** that help manage schema changes gracefully:
 

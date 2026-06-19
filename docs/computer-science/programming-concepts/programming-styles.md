@@ -1,3 +1,12 @@
+---
+slug: /computer-science/programming-concepts/programming-styles
+title: Understanding Duck Typing in Programming
+description: Explore the concept of duck typing, emphasizing interfaces over types
+  for more flexible and polymorphic code design.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Programming Styles
 
 ## duck-typing

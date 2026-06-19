@@ -1,4 +1,11 @@
-# ETL in Redshift
+---
+slug: /databases-sql/aws-redshift/etl-redshift
+title: ETL in Redshift
+description: Discover how to efficiently use ETL in Redshift with AWS Data Pipeline
+  and RDS for seamless data integration and real-time synchronization.
+created: '2023-11-20'
+last_update: '2025-06-10'
+---
 
 ### AWS Data pipeline
 

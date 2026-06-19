@@ -1,4 +1,11 @@
-# Tools
+---
+slug: /decentralized-applications/tools
+title: Tools
+description: Explore essential tools for decentralized finance, including crypto explorers,
+  market trackers, and payment services to empower your blockchain journey.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
 
 The future of decentralized finance lies in the hands of those who dare to challenge the status quo.
 

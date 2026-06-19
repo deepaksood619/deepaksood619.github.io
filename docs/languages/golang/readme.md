@@ -1,4 +1,11 @@
-# golang
+---
+slug: /languages/golang/readme
+title: golang
+description: Explore Golang with our comprehensive guide covering basics, syntax,
+  data types, testing, tools, examples, and interview questions.
+created: '2023-03-05'
+last_update: '2024-11-28'
+---
 
 - [Intro](languages/golang/intro.md)
 - [Hello World](hello-world)

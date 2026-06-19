@@ -1,3 +1,12 @@
+---
+slug: /python/documentation/03-built-in-constants
+title: Understanding Built-in Constants in Python
+description: 'Learn about Python''s built-in constants: False, True, and None, and
+  their roles in the language''s syntax and data handling.'
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # 3. Built-in Constants
 
 A small number of constants live in the built-in namespace. They are:

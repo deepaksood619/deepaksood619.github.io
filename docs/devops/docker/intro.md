@@ -1,3 +1,12 @@
+---
+slug: /devops/docker/intro
+title: Introduction to Docker Containerization
+description: Explore Docker, a lightweight tool for deploying portable applications
+  using isolated containers across various platforms.
+created: '2023-03-05'
+last_update: '2025-07-28'
+---
+
 # Intro
 
 Docker is a tool for deploying isolated, or containerized, applications. Docker containers are similar to virtual machines in a sense, but much more lightweight both in size and resource consumption.

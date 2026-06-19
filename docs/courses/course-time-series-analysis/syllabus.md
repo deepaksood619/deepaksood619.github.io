@@ -1,4 +1,11 @@
-# Course - Time Series Analysis
+---
+slug: /courses/course-time-series-analysis/syllabus
+title: Course - Time Series Analysis
+description: Master Time Series Analysis in Python with our comprehensive course,
+  covering data visualization, transformation, and forecasting techniques.
+created: '2023-03-05'
+last_update: '2024-02-01'
+---
 
 https://365datascience.teachable.com/p/time-series-analysis-in-python
 

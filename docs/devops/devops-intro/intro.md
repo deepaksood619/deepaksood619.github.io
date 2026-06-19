@@ -1,3 +1,12 @@
+---
+slug: /devops/devops-intro/intro
+title: Introduction to DevOps Practices
+description: Explore the fundamental practices of DevOps, including automation, monitoring,
+  and the roles of DRI and SRE in software development.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # Intro
 
 DRI - Designated Response Individuals

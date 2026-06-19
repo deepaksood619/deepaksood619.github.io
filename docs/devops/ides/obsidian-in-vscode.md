@@ -1,3 +1,12 @@
+---
+slug: /devops/ides/obsidian-in-vscode
+title: Integrating Obsidian with VS Code
+description: Discover how to enhance your workflow by integrating Obsidian with VS
+  Code using Foam and Markdown All in One extensions.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # Obsidian + VS Code
 
 ## Extension - Foam

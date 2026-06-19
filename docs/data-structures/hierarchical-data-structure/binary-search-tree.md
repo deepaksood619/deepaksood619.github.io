@@ -1,3 +1,12 @@
+---
+slug: /data-structures/hierarchical-data-structure/binary-search-tree
+title: Understanding Binary Search Trees
+description: Explore the structure of Binary Search Trees, their properties, and how
+  they facilitate efficient data storage and retrieval.
+created: '2023-03-05'
+last_update: '2023-11-09'
+---
+
 # Binary Search Tree
 
 Properties -

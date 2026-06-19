@@ -1,3 +1,12 @@
+---
+slug: /computer-science/programming-concepts/others
+title: Key Computing Concepts Overview
+description: Explore essential concepts in computing, including relationships, loitering,
+  reentrancy, fuzzing, and Conway's Law for better understanding.
+created: '2023-03-05'
+last_update: '2026-01-16'
+---
+
 # Others
 
 ## Relationships

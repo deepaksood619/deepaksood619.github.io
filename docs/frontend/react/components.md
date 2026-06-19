@@ -1,3 +1,12 @@
+---
+slug: /frontend/react/components
+title: React Component Naming Conventions
+description: Learn proper conventions for naming React components, including formatting
+  and file structure.
+created: '2023-03-05'
+last_update: '2023-12-06'
+---
+
 # Components
 
 - Always component name should start with Capital letter

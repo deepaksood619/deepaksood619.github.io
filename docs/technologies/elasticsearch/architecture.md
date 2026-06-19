@@ -1,3 +1,12 @@
+---
+slug: /technologies/elasticsearch/architecture
+title: Understanding Elasticsearch Architecture
+description: Learn about Elasticsearch clusters and nodes, their roles, and how they
+  work together to manage data effectively.
+created: '2023-03-05'
+last_update: '2024-11-29'
+---
+
 # Architecture
 
 ## Cluster and Node

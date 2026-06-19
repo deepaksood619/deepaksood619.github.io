@@ -1,3 +1,12 @@
+---
+slug: /data-structures/graph/undirected-graph
+title: Understanding Undirected Graphs and Their Properties
+description: Explore the fundamentals of undirected graphs, including paths, cycles,
+  and the handshaking lemma, along with key properties and examples.
+created: '2023-03-05'
+last_update: '2023-11-20'
+---
+
 # Undirected Graph
 
 ## Undirected Graphs

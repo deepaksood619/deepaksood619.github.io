@@ -1,3 +1,12 @@
+---
+slug: /devops/kubernetes/others
+title: Cloud Cluster Pricing and Kaniko Overview
+description: Explore our pricing for GKE, AKS, and EKS clusters, plus learn about
+  Kaniko for building Kubernetes container images.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # Others
 
 ## Pricing

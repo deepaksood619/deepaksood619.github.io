@@ -1,4 +1,11 @@
-# Interview Questions
+---
+slug: /ai/data-visualization/tableau/interview-questions
+title: Interview Questions
+description: Discover essential Tableau interview questions, covering components,
+  calculated fields, dimensions, and measures to enhance your data visualization skills.
+created: '2025-01-20'
+last_update: '2025-01-30'
+---
 
 ## Basic Tableau Questions
 

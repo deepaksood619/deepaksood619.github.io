@@ -1,3 +1,12 @@
+---
+slug: /frontend/js-javascript/others
+title: Understanding Debouncing in JavaScript
+description: Learn how debouncing improves performance in JavaScript by limiting function
+  execution frequency for better user experience.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Others
 
 ## Debouncing in JavaScript

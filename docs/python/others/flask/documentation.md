@@ -1,3 +1,12 @@
+---
+slug: /python/others/flask/documentation
+title: Flask Documentation Overview
+description: Explore the comprehensive documentation for Flask, Jinja template engine,
+  and Werkzeug WSGI toolkit for effective development.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
+
 # Documentation
 
 Flask depends on the [Jinja](https://www.palletsprojects.com/p/jinja/) template engine and the [Werkzeug](https://www.palletsprojects.com/p/werkzeug/) WSGI toolkit. The documentation for these libraries can be found at:

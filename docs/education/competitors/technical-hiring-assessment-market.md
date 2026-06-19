@@ -1,18 +1,12 @@
 ---
-title: Technical Hiring Assessment Market Analysis
-date: 2026-05-03
-type: competitor-analysis
-domains:
-  - hr-tech
-  - edtech
-  - b2b-saas
-tags:
-  - technical-hiring
-  - developer-screening
-  - market-size
-  - b2b
-status: active
+slug: /education/competitors/technical-hiring-assessment-market
+title: Technical Hiring Assessment Market Insights
+description: Explore the growing technical hiring assessment market, driven by practical
+  coding assessments and remote hiring trends.
+created: '2026-05-03'
+last_update: '2026-06-08'
 ---
+
 ## Market Overview
 
 **Market:** Technical hiring assessment and developer screening platforms

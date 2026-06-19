@@ -1,11 +1,12 @@
 ---
+slug: /education/product-concepts/ai-mock-interview-platform
 title: AI Mock Interview Platform
-domain: edtech
-status: ideation
-priority: high
-last_updated: 2026-05-02
-tags: [ai, interview-prep, job-seekers, voice-ai, hr-tech]
+description: Revolutionize your job preparation with unlimited AI-driven mock interviews
+  and receive detailed feedback on technical and communication skills.
+created: '2026-05-02'
+last_update: '2026-06-08'
 ---
+
 ## Problem Statement
 
 Job seekers preparing for technical interviews face several challenges:

@@ -1,3 +1,12 @@
+---
+slug: /technologies/apache-spark/99-others
+title: Understanding DecimalType in Data Science
+description: Explore the DecimalType() in PySpark, focusing on precision, scale, and
+  how it manages arbitrary-precision decimal numbers.
+created: '2023-03-05'
+last_update: '2025-02-14'
+---
+
 # Others
 
 ## Data Types

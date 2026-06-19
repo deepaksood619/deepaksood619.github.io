@@ -1,3 +1,12 @@
+---
+slug: /computer-science/interview-question/coding-interview-questions
+title: Essential Coding Interview Questions and Examples
+description: Explore crucial coding interview questions with examples and platforms
+  to ace your interviews at top tech companies.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # Coding Interview Questions
 
 Platforms

@@ -1,3 +1,12 @@
+---
+slug: /python/others/sqlalchemy/orm
+title: Understanding ORM in SQLAlchemy
+description: Explore how SQLAlchemy's Object Relational Mapper connects Python classes
+  to database tables, streamlining data management and queries.
+created: '2023-03-05'
+last_update: '2025-05-29'
+---
+
 # ORM
 
 ## ORM (Object Relational Mapper)

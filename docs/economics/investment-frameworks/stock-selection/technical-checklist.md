@@ -1,4 +1,12 @@
-# Technical Analysis Checklist
+---
+slug: /economics/investment-frameworks/stock-selection/technical-checklist
+title: Technical Analysis Checklist
+description: Discover a comprehensive technical analysis checklist to systematically
+  evaluate stock trading opportunities using key indicators like MACD, RSI, and Bollinger
+  Bands.
+created: '2026-06-09'
+last_update: '2026-06-11'
+---
 
 **Category:** Investment Frameworks
 **Type:** Stock Selection

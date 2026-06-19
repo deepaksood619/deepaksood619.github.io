@@ -1,4 +1,11 @@
-# Others
+---
+slug: /ai/model-evaluation/others
+title: Others
+description: Explore key model evaluation techniques like K-S, Out Of Time Validation,
+  and K-fold Cross Validation to enhance performance in supervised learning.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
 
 ## K-S Model Evaluation
 

@@ -1,4 +1,12 @@
-# Data Visualization
+---
+slug: /ai/data-visualization/intro
+title: Data Visualization
+description: Explore data visualization techniques, from exploratory to explanatory
+  graphics, to communicate complex information clearly and effectively through visual
+  means.
+created: '2023-03-05'
+last_update: '2026-06-17'
+---
 
 ## Exploratory and Explanatory visualization
 

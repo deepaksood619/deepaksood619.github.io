@@ -1,4 +1,11 @@
-# Scala
+---
+slug: /languages/others/scala
+title: Scala
+description: Discover Scala, a concise programming language that supports functional
+  programming and offers a strong static type system, compiling to Java bytecode.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
 
 Scalais a [general-purpose](https://en.wikipedia.org/wiki/General-purpose_programming_language)[programming language](https://en.wikipedia.org/wiki/Programming_language) providing support for [functional programming](https://en.wikipedia.org/wiki/Functional_programming) and a strong [static](https://en.wikipedia.org/wiki/Static_typing)[type system](https://en.wikipedia.org/wiki/Type_system). Designed to be concise, many of Scala's design decisions aimed to address [criticisms of Java](https://en.wikipedia.org/wiki/Criticism_of_Java).
 

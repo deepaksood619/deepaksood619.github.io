@@ -1,3 +1,12 @@
+---
+slug: /data-structures/trie/questions
+title: Trie Data Structure Questions and Tasks
+description: Explore key tasks related to Trie data structures including word counting,
+  dictionary formation, and T9 dictionary building.
+created: '2023-03-05'
+last_update: '2023-11-20'
+---
+
 # Questions
 
 - Count total number of words in Trie

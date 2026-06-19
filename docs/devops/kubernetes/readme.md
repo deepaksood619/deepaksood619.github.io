@@ -1,3 +1,12 @@
+---
+slug: /devops/kubernetes/readme
+title: Kubernetes Documentation Overview
+description: Explore comprehensive Kubernetes documentation, including architecture,
+  workloads, services, and networking concepts.
+created: '2023-03-05'
+last_update: '2025-06-10'
+---
+
 # Kubernetes
 
 - [Intro](devops/kubernetes/intro.md)

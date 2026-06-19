@@ -1,4 +1,11 @@
-# Legacy and Estate Planning
+---
+slug: /economics/personal-finance/wealth-building/legacy-estate-planning
+title: Legacy and Estate Planning
+description: Ensure your wealth is distributed as you wish with effective legacy and
+  estate planning, safeguarding your loved ones' financial future after you're gone.
+created: '2026-06-09'
+last_update: '2026-06-11'
+---
 
 **Category:** Personal Finance
 **Type:** Wealth Building

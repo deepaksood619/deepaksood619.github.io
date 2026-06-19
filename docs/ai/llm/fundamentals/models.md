@@ -1,4 +1,11 @@
-# Models
+---
+slug: /ai/llm/fundamentals/models
+title: Models
+description: Explore generative and discriminative models, their differences, types
+  like voice models, and how they learn to generate and classify data effectively.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 - [voice-models](ai/llm/fundamentals/voice-models.md)
 

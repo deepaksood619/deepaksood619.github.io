@@ -1,4 +1,11 @@
-# First Things First
+---
+slug: /book-summaries/productivity/first-things-first
+title: First Things First
+description: '"Discover effective time management strategies in ''First Things First''
+  by Covey, highlighting task lists, personal organizers, and values clarification."'
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 By Stephen Covey, A. Roger Merrill, and Rebecca R. Merrill
 

@@ -1,3 +1,12 @@
+---
+slug: /networking/others/protocol-buffers-protobuf
+title: Understanding Protocol Buffers Protobuf
+description: Learn about Protocol Buffers (protobuf), Google's efficient method for
+  serializing structured data and enhancing program communication.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
+
 # Protocol Buffers Protobuf
 
 Protocol Buffers are a way of encoding structured data in an efficient yet extensible format. Google uses Protocol Buffers for almost all of its internal RPC protocols and file formats.

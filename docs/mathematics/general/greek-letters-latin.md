@@ -1,4 +1,11 @@
-# Greek Letters / Latin
+---
+slug: /mathematics/general/greek-letters-latin
+title: Greek Letters / Latin
+description: Explore the vital connection between Greek letters and Latin symbols,
+  enhancing your understanding of their significance in language and science.
+created: '2023-03-05'
+last_update: '2025-12-16'
+---
 
 | **Name**                                                                                                                    | **Symbol** | **Name**                                                                                                                    | **Symbol** | **Name**                                                                                                                  | **Symbol** | **Name**                                                                                                                    | **Symbol** | **Name**                                                                                                                    | **Symbol** |
 |--------|-------|---------|-------|--------|-------|--------|-------|-------|-------|

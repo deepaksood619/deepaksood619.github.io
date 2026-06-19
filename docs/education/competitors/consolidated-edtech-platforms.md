@@ -1,13 +1,12 @@
 ---
-title: Consolidated EdTech Competitor Analysis
-type: competitor-analysis
-tags:
-  - edtech
-  - ai-tutors
-  - lms
-  - upskilling
-date: 2026-05-04
+slug: /education/competitors/consolidated-edtech-platforms
+title: Consolidated EdTech Platforms Overview
+description: Explore a comprehensive analysis of top edtech competitors in AI tutoring,
+  learning platforms, upskilling, and LMS sectors.
+created: '2026-05-04'
+last_update: '2026-05-23'
 ---
+
 Comprehensive overview of edtech competitors across AI tutoring, learning platforms, upskilling, and LMS categories. Analysis based on publicly available information from company homepages and product pages.
 
 ## AI Tutors & Learning Assistants

@@ -1,3 +1,12 @@
+---
+slug: /data-structures/linear-data-structure/dequeue
+title: Understanding Double-Ended Queues (Deques)
+description: Learn about double-ended queues (deques) and how they allow item manipulation
+  from both ends of the data structure.
+created: '2023-03-05'
+last_update: '2023-04-11'
+---
+
 # Dequeue
 
 ## Dequeue

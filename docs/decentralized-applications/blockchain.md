@@ -1,4 +1,11 @@
-# Blockchain
+---
+slug: /decentralized-applications/blockchain
+title: Blockchain
+description: Discover how blockchain technology transforms transactions into a decentralized
+  network, enhancing trust and direct interactions without intermediaries.
+created: '2023-03-05'
+last_update: '2026-06-17'
+---
 
 Inventor - Satoshi Nakamoto
 

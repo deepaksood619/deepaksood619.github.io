@@ -1,4 +1,11 @@
-# Other NoSQL Databases
+---
+slug: /databases-nosql/others
+title: Other NoSQL Databases
+description: Explore various NoSQL databases like Aerospike and BoltDB, offering high-performance
+  solutions for key-value storage and OLTP workloads.
+created: '2023-03-05'
+last_update: '2025-06-10'
+---
 
 ## Aerospike
 

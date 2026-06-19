@@ -1,4 +1,12 @@
-# About Deepak Sood
+---
+slug: /about-deepak-sood/readme
+title: About Deepak Sood
+description: Discover Deepak Sood's professional journey including his experience,
+  projects, publications, and achievements, along with insights into his values and
+  personality.
+created: '2024-12-18'
+last_update: '2026-05-01'
+---
 
 - [Experience](about-deepak-sood/experience.md)
 - [Projects](about-deepak-sood/projects/readme.md)

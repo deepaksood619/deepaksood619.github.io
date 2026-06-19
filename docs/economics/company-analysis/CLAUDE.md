@@ -1,4 +1,12 @@
-# Company Analysis Knowledge Base
+---
+slug: /economics/company-analysis/CLAUDE
+title: Company Analysis Knowledge Base
+description: Discover an LLM-maintained financial analysis repository for systematic
+  company research, fundamental analysis, and market intelligence in structured markdown
+  files.
+created: '2026-04-15'
+last_update: '2026-06-06'
+---
 
 **LLM-maintained financial analysis repository** - Systematic company research, fundamental analysis, and market intelligence stored as structured markdown files.
 

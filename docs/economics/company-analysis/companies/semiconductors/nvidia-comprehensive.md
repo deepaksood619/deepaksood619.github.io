@@ -1,15 +1,12 @@
 ---
-title: NVIDIA Corporation - Comprehensive Analysis
-company: NVIDIA Corporation
-ticker: NASDAQ:NVDA
-sector: Semiconductors
-industry: AI & GPU Computing
-analysis_type: comprehensive
-date: 2026-06-09
-analyst: Claude (LLM-generated)
-data_sources: [Yahoo Finance, Google Finance, Company Reports]
-tags: [comprehensive-analysis, us-stocks, semiconductors, ai-chips, gpu, data-center, gaming]
+slug: /economics/company-analysis/companies/semiconductors/nvidia-comprehensive
+title: 'NVIDIA Stock Analysis: June 2026'
+description: Explore our comprehensive analysis of NVIDIA, highlighting its investment
+  recommendation, financial performance, and growth potential.
+created: '2026-06-09'
+last_update: '2026-06-09'
 ---
+
 - **Analysis Date:** June 9, 2026
 - **Exchange:** NASDAQ
 - **Sector:** Technology - Semiconductors (AI/GPU)

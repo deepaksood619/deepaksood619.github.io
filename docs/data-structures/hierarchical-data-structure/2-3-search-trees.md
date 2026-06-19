@@ -1,3 +1,12 @@
+---
+slug: /data-structures/hierarchical-data-structure/2-3-search-trees
+title: 'Understanding 2-3 Search Trees: Properties and Operations'
+description: Explore the structure and properties of 2-3 search trees, including search
+  and insertion methods for efficient data management.
+created: '2023-03-05'
+last_update: '2023-04-11'
+---
+
 # 2-3 Search Trees
 
 ## Properties

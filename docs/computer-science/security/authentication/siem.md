@@ -1,3 +1,12 @@
+---
+slug: /computer-science/security/authentication/siem
+title: Understanding SIEM Technology
+description: Discover how SIEM solutions enhance security by monitoring, analyzing,
+  and responding to threats in real-time.
+created: '2024-01-19'
+last_update: '2025-02-14'
+---
+
 # SIEM
 
 Security information and event management, SIEM for short, is a solution that helps organizations detect, analyze, and respond to security threats before they harm business operations.

@@ -1,3 +1,12 @@
+---
+slug: /technologies/kafka/kafka-producers
+title: Understanding Kafka Producers
+description: Learn how Kafka producers create and send messages to topics and partitions
+  in a Kafka ecosystem.
+created: '2023-03-05'
+last_update: '2026-01-28'
+---
+
 # Kafka Producers
 
 The producer is the creator of the message in Kafka

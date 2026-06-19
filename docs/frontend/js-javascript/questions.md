@@ -1,3 +1,12 @@
+---
+slug: /frontend/js-javascript/questions
+title: Understanding JavaScript Events and Functions
+description: Learn about event delegation, bubbling, and the differences between 'target'
+  and 'currentTarget', along with function definitions and expressions.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Questions
 
 ### Event Delegation

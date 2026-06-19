@@ -1,4 +1,11 @@
-# Stable Coins
+---
+slug: /decentralized-applications/coins-tokens-chains/stable-coins
+title: Stable Coins
+description: Discover the key differences between top stablecoins like USDT, USDC,
+  and BUSD, and learn how they function in the crypto ecosystem.
+created: '2023-08-11'
+last_update: '2025-11-09'
+---
 
 [USDT vs. USDC vs. BUSD: What are the similarities and differences?](https://cointelegraph.com/learn/usdt-vs-usdc-vs-busd-what-are-the-similarities-and-differences)
 

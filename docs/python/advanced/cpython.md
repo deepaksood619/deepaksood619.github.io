@@ -1,3 +1,12 @@
+---
+slug: /python/advanced/cpython
+title: Understanding CPython's Call Stack
+description: Explore how CPython's stack-oriented virtual machine utilizes evaluation
+  and block stacks during function execution.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # CPython
 
 CPython is a stack-oriented virtual machine

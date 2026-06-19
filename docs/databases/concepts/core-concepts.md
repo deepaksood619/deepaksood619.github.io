@@ -1,3 +1,12 @@
+---
+slug: /databases/concepts/core-concepts
+title: Essential Database Concepts Explained
+description: Explore key database concepts like CRUD operations, idempotency, and
+  transaction logs to enhance your understanding of database management systems.
+created: '2023-03-05'
+last_update: '2025-04-27'
+---
+
 # Core Concepts
 
 CRUD - Create, Read, Update, Delete

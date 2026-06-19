@@ -1,3 +1,12 @@
+---
+slug: /computer-science/testing/iperf3-testing
+title: Iperf3 Network Performance Testing
+description: Learn how to measure and tune network performance using Iperf3 for reliable
+  throughput assessments.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # iperf3 Testing
 
 ## iperf (Network throughput)

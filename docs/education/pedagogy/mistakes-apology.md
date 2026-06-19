@@ -1,3 +1,12 @@
+---
+slug: /education/pedagogy/mistakes-apology
+title: 'Learning from Mistakes: The AAR Method'
+description: Discover the After-Action Review (AAR) method to effectively analyze
+  mistakes and improve future outcomes.
+created: '2023-03-05'
+last_update: '2026-05-05'
+---
+
 # Mistakes / Apology
 
 Never make the same mistake twice.

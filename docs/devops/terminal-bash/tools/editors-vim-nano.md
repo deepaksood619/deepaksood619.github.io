@@ -1,3 +1,12 @@
+---
+slug: /devops/terminal-bash/tools/editors-vim-nano
+title: 'Editors: VIM and NANO Basics'
+description: Learn how to comment and uncomment multiple lines in VIM while exploring
+  helpful commands for efficient editing.
+created: '2023-03-05'
+last_update: '2026-03-31'
+---
+
 # Editors - VIM / NANO
 
 ## VIM

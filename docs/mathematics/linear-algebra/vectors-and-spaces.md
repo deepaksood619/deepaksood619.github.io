@@ -1,4 +1,11 @@
-# Vectors and Spaces
+---
+slug: /mathematics/linear-algebra/vectors-and-spaces
+title: Vectors and Spaces
+description: Explore the fundamentals of vectors and spaces, including vector definitions,
+  operations, and the significance of magnitude and direction in mathematics.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
 
 ## [Vectors](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces#vectors)
 

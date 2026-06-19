@@ -1,3 +1,12 @@
+---
+slug: /education/competitors/india-edtech/masters-union-analysis
+title: 'Masters'' Union: Business Education Revolution'
+description: Discover Masters' Union, a new-age business school in India offering
+  experiential MBA alternatives with real-world projects.
+created: '2026-05-04'
+last_update: '2026-06-08'
+---
+
 # Masters' Union - New-Age Business School
 
 **Comprehensive Competitor Analysis**

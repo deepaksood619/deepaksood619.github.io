@@ -1,3 +1,12 @@
+---
+slug: /computer-science/programming-paradigms/others
+title: Behavior-Driven Development Overview
+description: Explore Behavior-Driven Development (BDD), a collaborative Agile process
+  enhancing software projects through shared understanding and concrete examples.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Others
 
 ## Behavior-driven development

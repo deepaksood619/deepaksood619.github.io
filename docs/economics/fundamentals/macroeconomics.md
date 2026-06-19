@@ -1,4 +1,12 @@
-# Macroeconomics
+---
+slug: /economics/fundamentals/macroeconomics
+title: Macroeconomics
+description: Explore macroeconomics, the study of aggregate economic indicators like
+  GDP, unemployment, and national income that shape economies on regional and global
+  scales.
+created: '2023-03-05'
+last_update: '2026-06-16'
+---
 
 Macroeconomics (from the Greek prefix makro-meaning "large" +economics) is a branch of [economics](https://en.wikipedia.org/wiki/Economics) dealing with the performance, structure, behavior, and decision-making of an [economy](https://en.wikipedia.org/wiki/Economy) as a whole. This includes regional, national, and global economies. Macroeconomists study aggregated indicators such as [GDP](https://en.wikipedia.org/wiki/Gross_domestic_product), [unemployment rates](https://en.wikipedia.org/wiki/Unemployment#Measurement), [national income](https://en.wikipedia.org/wiki/National_income), [price indices](https://en.wikipedia.org/wiki/Price_index), and the interrelations among the different sectors of the economy to better understand how the whole economy functions. They also develop models that explain the relationship between such factors as [national income](https://en.wikipedia.org/wiki/National_income), [output](https://en.wikipedia.org/wiki/Output_(economics)), [consumption](https://en.wikipedia.org/wiki/Consumption_(economics)), [unemployment](https://en.wikipedia.org/wiki/Unemployment), [inflation](https://en.wikipedia.org/wiki/Inflation), [saving](https://en.wikipedia.org/wiki/Saving), [investment](https://en.wikipedia.org/wiki/Investment_(macroeconomics)), [international trade](https://en.wikipedia.org/wiki/International_trade), and [international finance](https://en.wikipedia.org/wiki/International_finance).
 

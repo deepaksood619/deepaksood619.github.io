@@ -1,3 +1,12 @@
+---
+slug: /databases/indexing/heaped-storage
+title: Understanding Heaped Storage in Databases
+description: Learn about heaped storage, its characteristics, and how to manage data
+  without a clustered index effectively.
+created: '2025-05-29'
+last_update: '2025-05-29'
+---
+
 # Heaped storage
 
 Heaped storage is a term for tables that live on the database with no clustered index. The data is stored in no particular order and new data simply gets added as it comes in.

@@ -1,3 +1,12 @@
+---
+slug: /computer-science/operating-system/memory-mapping-mmap
+title: Understanding Memory Mapping with mmap
+description: Discover how mmap allows efficient file access by mapping files directly
+  into memory, enhancing performance for developers.
+created: '2023-03-05'
+last_update: '2026-03-27'
+---
+
 # Memory Mapping mmap
 
 ## Memory Mapping (mmap)

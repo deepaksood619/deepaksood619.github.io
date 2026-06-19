@@ -1,10 +1,12 @@
 ---
-title: Testbook Competitive Analysis
-date: 2026-05-05
-type: competitor-analysis
-domain: edtech-india
-tags: [testbook, test-prep, government-exams, india-edtech, b2c, test-series]
+slug: /education/competitors/india-edtech/testbook-analysis
+title: Testbook Analysis Overview
+description: Explore Testbook's journey, market position, and impressive growth as
+  India's largest government exam test series platform.
+created: '2026-05-09'
+last_update: '2026-06-08'
 ---
+
 ## Company Overview
 
 - **Founded:** 2014

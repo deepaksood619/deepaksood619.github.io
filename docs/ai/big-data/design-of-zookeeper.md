@@ -1,4 +1,11 @@
-# Design of Zookeeper
+---
+slug: /ai/big-data/design-of-zookeeper
+title: Design of Zookeeper
+description: Explore the design of Zookeeper, a critical service for coordinating
+  distributed applications, highlighting its architecture, design goals, and applications.
+created: '2023-03-05'
+last_update: '2024-02-26'
+---
 
 Zookeeper - Service for coordinating processes of distributed applications
 

@@ -1,14 +1,12 @@
 ---
-title: Suzlon Energy Ltd - Comprehensive Investment Analysis
-company: Suzlon Energy Ltd
-ticker: NSE:SUZLON / BSE:532667
-sector: Renewable Energy (Wind Power)
-analysis_type: comprehensive
-date: 2026-06-04
-analyst: Claude (LLM-generated)
-data_sources: [Screener.in, NSE, Yahoo Finance, yfinance API]
-tags: [comprehensive-analysis, indian-stocks, renewable-energy, wind-power, turnaround-story]
+slug: /economics/company-analysis/companies/energy/suzlon-energy-comprehensive
+title: Suzlon Energy Investment Analysis
+description: Discover why Suzlon Energy is a compelling buy in the renewable energy
+  sector with strong growth and attractive valuations.
+created: '2026-06-06'
+last_update: '2026-06-09'
 ---
+
 - **Analysis Date:** June 4, 2026
 - **Exchange:** NSE / BSE
 - **Sector:** Renewable Energy - Wind Power

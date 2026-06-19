@@ -1,3 +1,12 @@
+---
+slug: /frontend/seo/types-of-seo
+title: Understanding Black Hat SEO Practices
+description: Explore various Black Hat SEO tactics that can harm your site's reputation
+  and lead to search engine penalties.
+created: '2024-12-03'
+last_update: '2024-12-03'
+---
+
 # Types of SEO
 
 ## Black Hat SEO

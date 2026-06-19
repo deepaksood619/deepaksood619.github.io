@@ -1,4 +1,11 @@
-# Commands
+---
+slug: /languages/php/codeigniter/commands
+title: Commands
+description: Learn how to set up a Docker environment for CodeIgniter 4 with PHP and
+  Composer using a streamlined Dockerfile and essential commands.
+created: '2023-03-05'
+last_update: '2023-07-11'
+---
 
 ## Dockerfile
 

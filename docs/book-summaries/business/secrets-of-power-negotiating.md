@@ -1,4 +1,11 @@
-# Secrets of Power Negotiating
+---
+slug: /book-summaries/business/secrets-of-power-negotiating
+title: Secrets of Power Negotiating
+description: Unlock negotiation success with Roger Dawson's expert strategies, including
+  effective gambits and techniques for every stage of the deal-making process.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 By Roger Dawson
 

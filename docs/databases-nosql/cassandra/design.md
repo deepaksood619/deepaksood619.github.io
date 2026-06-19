@@ -1,4 +1,11 @@
-# Design
+---
+slug: /databases-nosql/cassandra/design
+title: Design
+description: Explore the key concepts of design in distributed systems, focusing on
+  partitioning, membership management, and node integration in Cassandra clusters.
+created: '2023-03-05'
+last_update: '2026-01-28'
+---
 
 ## Partitioner
 

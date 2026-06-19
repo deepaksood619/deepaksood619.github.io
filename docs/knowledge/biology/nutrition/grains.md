@@ -1,4 +1,11 @@
-# Grains
+---
+slug: /knowledge/biology/nutrition/grains
+title: Grains
+description: Discover the versatile uses of semolina in dishes like upma, pasta, and
+  couscous, and learn about its varieties including rawa and its nutritional benefits.
+created: '2025-02-26'
+last_update: '2026-06-06'
+---
 
 ## Semolina / Sooji
 

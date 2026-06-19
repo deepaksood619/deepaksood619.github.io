@@ -1,3 +1,12 @@
+---
+slug: /technologies/kafka/security/readme
+title: Apache Kafka Security Guide
+description: Explore essential resources for securing your Apache Kafka® systems,
+  including authentication, encryption, and hands-on tutorials.
+created: '2026-01-25'
+last_update: '2026-01-25'
+---
+
 # Security
 
 [Kafka Security 101 \| Secure and Maintain Your Apache Kafka® Systems - YouTube](https://www.youtube.com/playlist?list=PLa7VYi0yPIH2t3_wc1tm1rHDO9tbtfX1T)

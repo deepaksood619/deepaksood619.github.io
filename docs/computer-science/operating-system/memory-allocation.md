@@ -1,3 +1,12 @@
+---
+slug: /computer-science/operating-system/memory-allocation
+title: Understanding Memory Allocation
+description: Explore dynamic and automatic memory allocation, including heap and stack
+  memory, to manage variable lifetimes in programming.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Memory Allocation
 
 ## Dynamic memory allocation

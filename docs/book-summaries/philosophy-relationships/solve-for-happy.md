@@ -1,4 +1,11 @@
-# Solve for Happy
+---
+slug: /book-summaries/philosophy-relationships/solve-for-happy
+title: Solve for Happy
+description: Discover how to engineer your happiness by understanding perception versus
+  reality, embracing self-observation, and overcoming negative thinking patterns.
+created: '2026-06-18'
+last_update: '2026-06-18'
+---
 
 Engineer your path to joy by Mo Gawdat (26 June 2018)
 

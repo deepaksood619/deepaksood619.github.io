@@ -1,3 +1,12 @@
+---
+slug: /data-structures/hashtable/merkle-trees
+title: Understanding Merkle Trees
+description: Learn about Merkle trees, a data structure for efficient data verification
+  and integrity in distributed systems.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Merkle Trees
 
 A merkle tree, also known as a binary hash tree, is a data structure used for efficiently summarizing and verifying the integrity of large sets of data.

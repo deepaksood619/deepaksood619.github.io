@@ -1,3 +1,12 @@
+---
+slug: /devops/monitoring/telegraf/commands-and-configs
+title: Telegraf Commands and Configurations
+description: Explore essential Docker commands and configurations for setting up Telegraf
+  efficiently in your InfluxDB environment.
+created: '2023-03-05'
+last_update: '2024-10-08'
+---
+
 # Commands & Configs
 
 ## Telegraf

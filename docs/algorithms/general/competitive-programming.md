@@ -1,3 +1,12 @@
+---
+slug: /algorithms/general/competitive-programming
+title: Essential Competitive Programming Questions
+description: Explore a curated list of competitive programming questions across categories
+  like Two Pointers, Binary Search, and Hashmap for effective practice.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
+
 # Competitive Programming Questions
 
 ### Two Pointers

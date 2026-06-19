@@ -1,4 +1,11 @@
-# Parenting - Teen Brains, Social Media
+---
+slug: /psychology/parenting-teen-brains
+title: Parenting - Teen Brains, Social Media
+description: Explore the neurobiological and psychological impacts of social media
+  on teen development, navigating challenges like defiance and maturity during adolescence.
+created: '2026-05-29'
+last_update: '2026-06-07'
+---
 
 **The Neurobiological and Psychological Foundations of Adolescent Development: Navigating Defiance, Social Media, and the Path to Maturity**
 

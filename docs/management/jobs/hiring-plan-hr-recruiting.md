@@ -1,3 +1,12 @@
+---
+slug: /management/jobs/hiring-plan-hr-recruiting
+title: Comprehensive Hiring Plan for HR
+description: Explore top platforms and services for effective HR recruiting and streamline
+  your hiring process.
+created: '2023-12-10'
+last_update: '2026-06-02'
+---
+
 # Hiring Plan + HR / Recruiting
 
 ## Platform / Services / Vendor

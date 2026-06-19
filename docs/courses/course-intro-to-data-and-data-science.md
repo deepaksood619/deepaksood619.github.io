@@ -1,4 +1,11 @@
-# Course - Intro to Data and Data Science
+---
+slug: /courses/course-intro-to-data-and-data-science
+title: Course - Intro to Data and Data Science
+description: Enroll in our Intro to Data and Data Science course to master data analytics,
+  predictive modeling, and business intelligence for impactful decision-making.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
 
 https://365datascience.com
 

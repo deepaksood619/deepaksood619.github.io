@@ -1,4 +1,11 @@
-# Asset Classes Overview
+---
+slug: /economics/investment-frameworks/core-concepts/asset-classes-overview
+title: Asset Classes Overview
+description: Explore the key asset classes including equities and fixed income to
+  build a diversified investment portfolio and understand market behaviors effectively.
+created: '2026-06-09'
+last_update: '2026-06-13'
+---
 
 **Category:** Investment Frameworks
 **Type:** Core Concept

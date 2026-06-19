@@ -1,4 +1,11 @@
-# Course - Feature Engineering
+---
+slug: /courses/course-feature-engineering
+title: Course - Feature Engineering
+description: Learn essential techniques in feature engineering to enhance ML model
+  accuracy by transforming raw data into valuable features for optimal performance.
+created: '2023-03-05'
+last_update: '2024-04-29'
+---
 
 Introduction
 

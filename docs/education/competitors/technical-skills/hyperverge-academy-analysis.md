@@ -1,10 +1,12 @@
 ---
-title: HyperVerge Academy - Free CSR-Funded Tech Bootcamp Analysis
-date: 2026-06-08
-type: competitor-analysis
-domain: technical-skills-india-social-impact
-tags: [hyperverge-academy, free-bootcamp, csr-education, social-impact, mentorship, india-edtech, web-development, data-science]
+slug: /education/competitors/technical-skills/hyperverge-academy-analysis
+title: HyperVerge Academy Insights
+description: Discover HyperVerge Academy, a free tech bootcamp empowering under-resourced
+  learners with industry mentorship and a 100% placement rate.
+created: '2026-06-08'
+last_update: '2026-06-08'
 ---
+
 
 ## Overview
 

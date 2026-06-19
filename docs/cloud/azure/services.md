@@ -1,4 +1,12 @@
-# Services
+---
+slug: /cloud/azure/services
+title: Services
+description: Explore our 258 comprehensive services, including AI and machine learning
+  solutions like Azure Bot Service and Bing Custom Search for innovative application
+  development.
+created: '2023-03-05'
+last_update: '2025-12-12'
+---
 
 Total Services - 258
 

@@ -1,3 +1,12 @@
+---
+slug: /technologies/kafka/releases-upgrades-changelogs
+title: Apache Kafka Releases and Changelogs
+description: Explore the latest updates and changes in Apache Kafka, including features
+  from versions 2.4 and 4.0.
+created: '2025-12-15'
+last_update: '2026-05-26'
+---
+
 # Releases / Upgrades / Change logs
 
 [Apache Mail Archives](https://lists.apache.org/list.html?dev@kafka.apache.org)

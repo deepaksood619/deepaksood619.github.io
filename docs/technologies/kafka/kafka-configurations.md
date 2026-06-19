@@ -1,3 +1,12 @@
+---
+slug: /technologies/kafka/kafka-configurations
+title: Comprehensive Kafka Configurations
+description: Explore essential Kafka broker configurations to optimize log retention
+  and message replication.
+created: '2026-01-28'
+last_update: '2026-06-11'
+---
+
 # Kafka Configurations
 
 ## Broker Configurations

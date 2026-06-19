@@ -1,4 +1,11 @@
-# Mythology
+---
+slug: /knowledge/other-topics/mythology
+title: Mythology
+description: Explore the legend of Akshay Patra, the divine vessel from the Mahabharata
+  that provides the Pandavas with endless food, symbolizing abundance in mythology.
+created: '2023-12-28'
+last_update: '2025-07-03'
+---
 
 ## Akshay Patra
 

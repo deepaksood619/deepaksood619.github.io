@@ -1,4 +1,11 @@
-# Youtube / Podcasts / Magazine / Apps
+---
+slug: /knowledge/youtube-podcasts-magazine-apps
+title: Youtube / Podcasts / Magazine / Apps
+description: Discover engaging YouTube channels, podcasts, and apps that explore science,
+  technology, and exploration through captivating content and expert insights.
+created: '2023-03-05'
+last_update: '2026-06-16'
+---
 
 ## Youtube
 

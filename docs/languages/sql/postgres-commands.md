@@ -1,4 +1,11 @@
-# Postgres Commands
+---
+slug: /languages/sql/postgres-commands
+title: Postgres Commands
+description: Discover essential Postgres commands for database management, including
+  installation, querying, user creation, and listing tables.
+created: '2023-03-05'
+last_update: '2026-03-21'
+---
 
 ```bash
 brew install postgresql

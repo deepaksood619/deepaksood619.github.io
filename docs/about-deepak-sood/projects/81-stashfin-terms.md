@@ -1,3 +1,12 @@
+---
+slug: /about-deepak-sood/projects/81-stashfin-terms
+title: Understanding Stashfin Terms
+description: Learn key Stashfin terms such as Free Credit Period, Promise to Pay,
+  and Days Past Due to manage your finances effectively.
+created: '2023-12-06'
+last_update: '2025-02-15'
+---
+
 # Stashfin Terms
 
 - FCP - Free Credit Period

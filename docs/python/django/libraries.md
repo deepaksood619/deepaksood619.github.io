@@ -1,3 +1,12 @@
+---
+slug: /python/django/libraries
+title: Exploring Django Channels
+description: Discover how Django Channels enhances Django with WebSockets and asynchronous
+  communication for modern web applications.
+created: '2023-03-05'
+last_update: '2026-04-28'
+---
+
 # Libaries
 
 https://dev.to/sm0ke/django-framework-popular-extensions-a-short-list-130

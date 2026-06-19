@@ -1,3 +1,12 @@
+---
+slug: /data-warehouses/concepts/03-slowly-changing-dimension-scd
+title: Understanding Slowly Changing Dimensions
+description: Explore Slowly Changing Dimensions (SCD) in data warehousing, including
+  Type 1 and Type 2 implementations for effective historical data management.
+created: '2023-03-05'
+last_update: '2025-06-10'
+---
+
 # Slowly Changing Dimension (SCD)
 
 A Slowly Changing Dimension (SCD) is a dimension that stores and manages both current and historical data over time in a data warehouse. It is considered and implemented as one of the most critical ETL (Extract Transform Load) tasks in tracking the history of dimension records.

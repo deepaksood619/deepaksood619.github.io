@@ -1,3 +1,12 @@
+---
+slug: /algorithms/general/1d-range-search
+title: 1D Range Search Operations
+description: Explore 1D range search strategies for insertions, deletions, and queries
+  in databases with geometric interpretations.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # 1d Range Search
 
 ## Operations

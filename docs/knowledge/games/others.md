@@ -1,4 +1,11 @@
-# Others
+---
+slug: /knowledge/games/others
+title: Others
+description: Explore top PC games, console insights, and essential multiplayer options,
+  plus reviews and guides for an ultimate gaming experience across platforms.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
 
 ## PC Games
 

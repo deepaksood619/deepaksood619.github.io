@@ -1,3 +1,12 @@
+---
+slug: /about-deepak-sood/projects/63-mlops-master-document
+title: MLOps Comprehensive Guide
+description: Explore MLOps practices and tools for efficient deployment, monitoring,
+  and management of machine learning models in production.
+created: '2024-03-17'
+last_update: '2024-12-18'
+---
+
 # MLOps Master Document
 
 ## Introduction

@@ -1,3 +1,12 @@
+---
+slug: /technologies/kafka/use-cases
+title: Kafka Use Cases Explained
+description: Discover how Kafka serves as a powerful tool for messaging and website
+  activity tracking with high throughput and fault tolerance.
+created: '2025-12-15'
+last_update: '2025-12-15'
+---
+
 # Use Cases
 
 ## Messaging

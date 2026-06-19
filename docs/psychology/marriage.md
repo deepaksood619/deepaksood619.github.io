@@ -1,4 +1,11 @@
-# Marriage
+---
+slug: /psychology/marriage
+title: Marriage
+description: Explore insightful relationship quotes on marriage, emphasizing the importance
+  of compatibility, independence, and building a strong partnership.
+created: '2026-01-26'
+last_update: '2026-02-12'
+---
 
 ## Relationship Quotes
 

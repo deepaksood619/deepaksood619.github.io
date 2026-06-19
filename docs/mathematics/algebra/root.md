@@ -1,4 +1,11 @@
-# Root
+---
+slug: /mathematics/algebra/root
+title: Root
+description: Explore the concept of roots in mathematics, including square and cube
+  roots, and learn how to find the base number from exponential equations.
+created: '2023-03-05'
+last_update: '2023-11-20'
+---
 
 Roots get back the base number from the solution of an exponential equation.
 

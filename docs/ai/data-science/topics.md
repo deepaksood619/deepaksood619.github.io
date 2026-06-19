@@ -1,4 +1,11 @@
-# Topics
+---
+slug: /ai/data-science/topics
+title: Topics
+description: Explore DBSCAN, a popular density-based clustering algorithm that effectively
+  groups closely packed points while identifying outliers in low-density areas.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
 
 ## DBSCAN
 

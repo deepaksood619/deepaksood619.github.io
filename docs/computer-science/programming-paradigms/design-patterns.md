@@ -1,3 +1,12 @@
+---
+slug: /computer-science/programming-paradigms/design-patterns
+title: Understanding Design Patterns in Software
+description: Explore key design patterns, principles, and categorizations to enhance
+  your software development skills.
+created: '2023-03-05'
+last_update: '2025-05-03'
+---
+
 # Design Patterns
 
 ## Gang of Four (GOF)

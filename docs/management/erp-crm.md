@@ -1,4 +1,11 @@
-# ERP / CRM
+---
+slug: /management/erp-crm
+title: ERP / CRM
+description: Explore the benefits of CRM systems for enhancing customer experience,
+  automating tasks, and boosting sales through improved data insights and communication.
+created: '2025-07-17'
+last_update: '2026-06-11'
+---
 
 ## Customer Relationship Management (CRM)
 

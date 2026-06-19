@@ -1,3 +1,12 @@
+---
+slug: /algorithms/advanced-algorithms/multi-armed-bandit-mab
+title: Understanding Multi-Armed Bandit (MAB)
+description: Explore the Multi-Armed Bandit problem and its applications in optimizing
+  resource allocation under uncertainty.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Multi Armed Bandit (MAB)
 
 The multi-armed bandit (MAB) is a classic problem in decision sciences. Effectively, it is one of optimal resource allocation under uncertainty.

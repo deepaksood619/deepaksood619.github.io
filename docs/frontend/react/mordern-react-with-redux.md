@@ -1,3 +1,12 @@
+---
+slug: /frontend/react/mordern-react-with-redux
+title: Modern React with Redux Guide
+description: Explore the fundamentals of React and Redux, from components to state
+  management, in this comprehensive tutorial for developers.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
+
 # Mordern React with Redux
 
 ## An Intro to React

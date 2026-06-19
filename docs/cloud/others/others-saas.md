@@ -1,4 +1,11 @@
-# Others - SAAS
+---
+slug: /cloud/others/others-saas
+title: Others - SAAS
+description: Discover essential SaaS resources, including free tools, stock photos,
+  online assessments, and reviews to enhance your development and business strategies.
+created: '2023-03-05'
+last_update: '2026-06-13'
+---
 
 - blogtrottr - RSS Online Feed
 - Videos - https://animoto.com

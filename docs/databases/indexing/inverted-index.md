@@ -1,3 +1,12 @@
+---
+slug: /databases/indexing/inverted-index
+title: Understanding Inverted Indexes
+description: Explore the concept of inverted indexes in computer science, their role
+  in fast full text searches, and comparison with forward indexes.
+created: '2023-03-05'
+last_update: '2025-10-24'
+---
+
 # Inverted Index
 
 In [computer science](https://en.wikipedia.org/wiki/Computer_science), an inverted index (also referred to as postings file or inverted file) is an [index data structure](https://en.wikipedia.org/wiki/Index_(database)) storing a mapping from content, such as words or numbers, to its locations in a [database file](https://en.wikipedia.org/wiki/Table_(database)), or in a document or a set of documents (named in contrast to a [forward index](https://en.wikipedia.org/wiki/Forward_index), which maps from documents to content). The purpose of an inverted index is to allow fast [full text searches](https://en.wikipedia.org/wiki/Full_text_search), at a cost of increased processing when a document is added to the database. The inverted file may be the database file itself, rather than its [index](https://en.wikipedia.org/wiki/Index_(database)). It is the most popular data structure used in [document retrieval](https://en.wikipedia.org/wiki/Document_retrieval) systems, used on a large scale for example in [search engines](https://en.wikipedia.org/wiki/Search_engine).

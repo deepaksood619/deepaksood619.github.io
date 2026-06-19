@@ -1,3 +1,12 @@
+---
+slug: /technologies/kafka/kafka-streams
+title: Understanding Kafka Streams Concepts
+description: Explore the relationship between Kafka's storage and processing layers,
+  and learn how event streams and tables transform raw data.
+created: '2023-03-05'
+last_update: '2025-12-20'
+---
+
 # Kafka Streams
 
 Topics live in Kafka's storage layer - they are part of the Kafka "filesystem" powered by the brokers. In contrast, streams and tables are concepts of Kafka's processing layer, used in tools like [ksqlDB](https://ksqldb.io/) and [Kafka Streams](https://docs.confluent.io/current/streams/index.html). These tools process your events stored in "raw" topics by turning them into streams and tables - a process that is conceptually very similar to how a relational database turns the bytes in files on disk into an RDBMS table for you to work with.

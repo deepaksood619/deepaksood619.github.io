@@ -1,4 +1,11 @@
-# Charts
+---
+slug: /ai/data-visualization/charts
+title: Charts
+description: Explore various chart types including Pareto, area, control, and Sankey
+  diagrams to effectively visualize data and enhance your analytical insights.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
 
 ## Graphic Types
 

@@ -1,3 +1,12 @@
+---
+slug: /networking/protocols/others
+title: Networking Protocols Overview
+description: Explore key networking protocols including LWM2M, HSTS, and Fibre Channel
+  for efficient data communication and security.
+created: '2023-03-05'
+last_update: '2025-09-15'
+---
+
 # Others
 
 ## LWM2M - Light Weight Machine-to-Machine

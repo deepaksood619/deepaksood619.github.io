@@ -1,3 +1,12 @@
+---
+slug: /python/others/flask/flask-sqlalchemy
+title: Integrating Flask with SQLAlchemy
+description: Learn how to seamlessly integrate Flask with SQLAlchemy for efficient
+  database management and ORM in Python web applications.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Flask-sqlalchemy
 
 https://github.com/pallets/flask-sqlalchemy

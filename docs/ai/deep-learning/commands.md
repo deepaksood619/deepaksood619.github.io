@@ -1,4 +1,11 @@
-# Commands
+---
+slug: /ai/deep-learning/commands
+title: Commands
+description: Explore essential Python libraries like NumPy, H5py, and Matplotlib for
+  scientific computing, data manipulation, and data visualization in your projects.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
 
 ## Libraries
 

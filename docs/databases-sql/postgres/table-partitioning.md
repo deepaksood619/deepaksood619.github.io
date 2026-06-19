@@ -1,4 +1,11 @@
-# Table Partitioning
+---
+slug: /databases-sql/postgres/table-partitioning
+title: Table Partitioning
+description: Discover how PostgreSQL's table partitioning improves data management
+  with declarative methods, partition keys, and efficient data storage solutions.
+created: '2023-03-26'
+last_update: '2025-06-10'
+---
 
 [PostgreSQL: Documentation: 15: 5.11. Table Partitioning](https://www.postgresql.org/docs/current/ddl-partitioning.html)
 

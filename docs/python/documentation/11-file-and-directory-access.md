@@ -1,3 +1,12 @@
+---
+slug: /python/documentation/11-file-and-directory-access
+title: Understanding File and Directory Access
+description: Explore Python's modules for managing disk files and directories, including
+  pathlib and its features for portable path manipulation.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
+
 # 11. File and Directory Access
 
 The modules described in this chapter deal with disk files and directories. For example, there are modules for reading the properties of files, manipulating paths in a portable way, and creating temporary files. The full list of modules in this chapter is:

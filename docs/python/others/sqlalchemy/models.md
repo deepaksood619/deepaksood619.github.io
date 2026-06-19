@@ -1,3 +1,12 @@
+---
+slug: /python/others/sqlalchemy/models
+title: Understanding SQLAlchemy Models
+description: Learn how to define Declarative Mappings in SQLAlchemy to create Python
+  object models and their corresponding database structures.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Models
 
 https://docs.sqlalchemy.org/en/14/orm/quickstart.html

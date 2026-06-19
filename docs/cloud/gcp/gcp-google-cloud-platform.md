@@ -1,4 +1,12 @@
-# GCP / Google Cloud Platform
+---
+slug: /cloud/gcp/gcp-google-cloud-platform
+title: GCP / Google Cloud Platform
+description: Explore Google Cloud Platform (GCP) resources, including cheat sheets,
+  GitHub projects, and cloud architecture guidance to enhance your cloud computing
+  skills.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
 
 [Google Cloud Developer Cheat Sheet](https://googlecloudcheatsheet.withgoogle.com/)
 

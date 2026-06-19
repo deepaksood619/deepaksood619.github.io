@@ -1,3 +1,12 @@
+---
+slug: /devops/devops-intro/feature-toggles-flags
+title: Understanding Feature Toggles and Flags
+description: Learn how feature toggles allow developers to test and manage software
+  features dynamically during development.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
+
 # Feature Toggles / Flags
 
 A feature toggle (also feature switch, feature flag, feature flipper, conditional feature, etc.) is a technique in [software development](https://en.wikipedia.org/wiki/Software_development) that attempts to provide an alternative to maintaining multiple [source-code](https://en.wikipedia.org/wiki/Source_code) branches (known as feature branches), such that a feature can be tested even before it is completed and ready for release. Feature toggle is used to hide, enable or disable the feature during run time. For example, during the development process, a developer can enable the feature for testing and disable it for other users.

@@ -1,4 +1,11 @@
-# Examples
+---
+slug: /ai/pandas/examples
+title: Examples
+description: Explore various examples of loading CSV files in Pandas, including handling
+  headers, using custom names, and managing errors for efficient data processing.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
 
 ```python
 ## Loading a csv in pandas

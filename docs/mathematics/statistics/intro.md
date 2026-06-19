@@ -1,4 +1,11 @@
-# Intro
+---
+slug: /mathematics/statistics/intro
+title: Intro
+description: Discover how statistics shape our lives, influencing policies, healthcare
+  decisions, and personal choices through effective data analysis and interpretation.
+created: '2023-03-05'
+last_update: '2024-02-05'
+---
 
 Statistics is a subfield of mathematics. It refers to a collection of methods for working with data and using data to answer questions.
 Eyeball statistics

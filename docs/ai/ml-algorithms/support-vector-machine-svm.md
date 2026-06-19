@@ -1,4 +1,11 @@
-# Support Vector Machine (SVM)
+---
+slug: /ai/ml-algorithms/support-vector-machine-svm
+title: Support Vector Machine (SVM)
+description: Discover how Support Vector Machine (SVM) optimally separates data points
+  using hyperplanes and margins for effective classification in machine learning.
+created: '2023-03-05'
+last_update: '2023-03-07'
+---
 
 A hyperplane is a line that splits the input variable space. In SVM, a hyperplane is selected to best separate the points in the input variable space by their class, either class 0 or class 1.
 

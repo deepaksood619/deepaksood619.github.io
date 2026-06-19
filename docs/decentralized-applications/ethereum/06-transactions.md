@@ -1,4 +1,11 @@
-# Transactions
+---
+slug: /decentralized-applications/ethereum/06-transactions
+title: Transactions
+description: Discover how Ethereum transactions work, from cryptographically signed
+  instructions to state changes in the Ethereum network, including ETH transfers.
+created: '2023-03-05'
+last_update: '2025-05-08'
+---
 
 Transactions are cryptographically signed instructions from accounts. An account will initiate a transaction to update the state of the Ethereum network. The simplest transaction is transferring ETH from one account to another.
 

@@ -1,4 +1,11 @@
-# Others
+---
+slug: /databases-nosql/aws-dynamodb/others
+title: Others
+description: Discover how PartiQL enhances DynamoDB queries with SQL compatibility
+  and explore Amazon DynamoDB Accelerator for up to 10x performance improvements.
+created: '2023-03-05'
+last_update: '2025-06-10'
+---
 
 ## PartiQL
 

@@ -1,4 +1,11 @@
-# Crypto Exchanges
+---
+slug: /decentralized-applications/crypto-exchanges
+title: Crypto Exchanges
+description: Explore the world of crypto exchanges, focusing on decentralized exchanges
+  (DEX) and aggregators to access diverse trading pools in one dashboard.
+created: '2023-04-11'
+last_update: '2025-11-19'
+---
 
 ## Decentralized Exchange (DEX)
 

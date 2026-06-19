@@ -1,3 +1,12 @@
+---
+slug: /data-structures/general/mutable-immutable-data-structures
+title: Mutable vs. Immutable Data Structures
+description: Explore the advantages of immutable data structures, including minimized
+  storage overhead and efficient sequential writes.
+created: '2023-03-05'
+last_update: '2023-12-05'
+---
+
 # Mutable/Immutable Data Structures
 
 ## Immutable Data Structure

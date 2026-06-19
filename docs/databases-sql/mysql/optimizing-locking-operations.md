@@ -1,4 +1,12 @@
-# Optimizing Locking Operations
+---
+slug: /databases-sql/mysql/optimizing-locking-operations
+title: Optimizing Locking Operations
+description: Discover effective strategies for optimizing locking operations in MySQL,
+  addressing internal and external locking, concurrent inserts, and table locking
+  issues.
+created: '2023-03-05'
+last_update: '2026-06-17'
+---
 
 - 8.11 Optimizing Locking Operations
 - 8.11.2 Table Locking Issues

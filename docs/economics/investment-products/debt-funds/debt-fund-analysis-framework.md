@@ -1,4 +1,12 @@
-# Debt Mutual Funds Analysis
+---
+slug: /economics/investment-products/debt-funds/debt-fund-analysis-framework
+title: Debt Mutual Funds Analysis
+description: Explore our comprehensive Debt Mutual Funds Analysis, covering YTM, coupon
+  rates, and strategies for selecting optimal funds to enhance returns and minimize
+  risks.
+created: '2023-03-05'
+last_update: '2026-06-09'
+---
 
 [How to select a debt mutual fund?](https://www.youtube.com/watch?v=8R4yoe2dRIQ)
 

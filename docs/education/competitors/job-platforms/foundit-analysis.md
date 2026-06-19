@@ -1,3 +1,12 @@
+---
+slug: /education/competitors/job-platforms/foundit-analysis
+title: Foundit Job Board Analysis
+description: Explore the transition of Monster India to Foundit, its market focus,
+  and insights into its operations across Asia and the Middle East.
+created: '2026-06-08'
+last_update: '2026-06-09'
+---
+
 # Foundit (formerly Monster India) Analysis
 
 **Last Updated:** June 2026

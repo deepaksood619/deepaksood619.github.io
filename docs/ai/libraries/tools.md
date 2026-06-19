@@ -1,4 +1,11 @@
-# Tools
+---
+slug: /ai/libraries/tools
+title: Tools
+description: Discover essential tools like AutoML for automated machine learning and
+  MLflow for streamlined development, experimentation, and model deployment.
+created: '2023-03-05'
+last_update: '2026-06-11'
+---
 
 ## AutoML (Automated Machine Learning)
 
