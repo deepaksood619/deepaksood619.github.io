@@ -1,6 +1,6 @@
 ---
 slug: /computer-science/testing/load-performance-testing-qa-tools
-title: Essential Load Testing Tools & Techniques
+title: "Essential Load Testing Tools & Techniques"
 description: Explore top load and performance testing tools, including GTmetrix and Lighthouse, along with effective Bash scripts for CPU load generation.
 created: 2023-03-05
 last_update: 2026-03-27

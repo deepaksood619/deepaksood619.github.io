@@ -1,7 +1,7 @@
 ---
 slug: /ideas/donations
 title: Donations
-description: Explore the power of donations to express gratitude, support others, and enrich your life while helping those in need. Join our community of givers today!
+description: "Explore the power of donations to express gratitude, support others, and enrich your life while helping those in need. Join our community of givers today!"
 created: 2023-10-22
 last_update: 2026-06-18
 ---

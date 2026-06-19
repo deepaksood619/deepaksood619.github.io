@@ -1,6 +1,6 @@
 ---
 slug: /ai/computer-vision-cv/mnist-for-ml-beginners-tensorflow
-title: MNIST For ML Beginners | TensorFlow
+title: "MNIST For ML Beginners | TensorFlow"
 description: Learn how to train a simple Softmax Regression model using the MNIST dataset in TensorFlow to recognize handwritten digits efficiently.
 created: 2023-03-05
 last_update: 2024-02-05

@@ -1,6 +1,6 @@
 ---
 slug: /psychology/human-psychology-and-thinking
-title: Human Psychology & Thinking
+title: "Human Psychology & Thinking"
 description: Explore human psychology, including attention-seeking behavior, self-image challenges, and the complexities of conformity and skepticism in modern society.
 created: 2023-03-05
 last_update: 2026-04-16

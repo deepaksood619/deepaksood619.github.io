@@ -1,7 +1,7 @@
 ---
 slug: /book-summaries/productivity/organize-tomorrow-today
 title: Organize Tomorrow Today
-description: Unlock your potential with "Organize Tomorrow Today" by Jason Selk & Tom Bartow, focusing on prioritizing tasks and mastering daily productivity.
+description: "Unlock your potential with \"Organize Tomorrow Today\" by Jason Selk & Tom Bartow, focusing on prioritizing tasks and mastering daily productivity."
 created: 2026-06-18
 last_update: 2026-06-18
 ---

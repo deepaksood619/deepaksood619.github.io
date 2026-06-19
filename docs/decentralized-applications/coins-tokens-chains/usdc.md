@@ -1,7 +1,7 @@
 ---
 slug: /decentralized-applications/coins-tokens-chains/usdc
 title: USDC
-description: Discover USDC, a regulated ERC-20 stablecoin backed 1:1 by USD, ensuring transparency and availability across multiple blockchain networks.
+description: "Discover USDC, a regulated ERC-20 stablecoin backed 1:1 by USD, ensuring transparency and availability across multiple blockchain networks."
 created: 2023-03-05
 last_update: 2024-03-18
 ---

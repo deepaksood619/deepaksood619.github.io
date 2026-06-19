@@ -1,6 +1,6 @@
 ---
 slug: /technologies/confluent/confluent-cloud-networking/readme
-title: Confluent Cloud Networking & Security Guide
+title: "Confluent Cloud Networking & Security Guide"
 description: Explore comprehensive resources on Confluent Cloud networking, security, and VPC configurations to enhance your Kafka deployment.
 created: 2025-12-10
 last_update: 2026-03-11

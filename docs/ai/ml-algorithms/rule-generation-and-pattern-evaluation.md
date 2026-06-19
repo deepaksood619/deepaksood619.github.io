@@ -1,6 +1,6 @@
 ---
 slug: /ai/ml-algorithms/rule-generation-and-pattern-evaluation
-title: Rule generation & Pattern Evaluation
+title: "Rule generation & Pattern Evaluation"
 description: Explore rule generation and pattern evaluation in data mining, focusing on monotonic functions and their importance in analyzing itemset support and frequency.
 created: 2023-03-05
 last_update: 2024-02-05

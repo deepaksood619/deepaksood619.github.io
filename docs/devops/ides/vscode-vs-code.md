@@ -5,7 +5,7 @@ description: Explore VSCode debugging, online environments, and tools for effect
 created: 2023-03-05
 last_update: 2025-02-15
 ---
- Remove empty lines - `Regex - ^(s)*$`
+Remove empty lines - `Regex - ^(s)*$`
 
 ## Debugging Python
 

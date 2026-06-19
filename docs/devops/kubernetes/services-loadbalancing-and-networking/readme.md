@@ -1,6 +1,6 @@
 ---
 slug: /devops/kubernetes/services-loadbalancing-and-networking/readme
-title: Kubernetes Services, Load Balancing & Networking
+title: "Kubernetes Services, Load Balancing & Networking"
 description: Explore key concepts of Kubernetes networking, including services, load balancing, and pod communication.
 created: 2023-03-05
 last_update: 2026-03-27

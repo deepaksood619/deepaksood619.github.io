@@ -1,7 +1,7 @@
 ---
 slug: /algorithms/advanced-algorithms/a-search-algorithm
-title: A* Search Algorithm Overview
-description: Explore the A* search algorithm, its applications in pathfinding, and how it compares to other algorithms like Dijkstra's and BFS.
+title: "A* Search Algorithm Overview"
+description: "Explore the A* search algorithm, its applications in pathfinding, and how it compares to other algorithms like Dijkstra's and BFS."
 created: 2023-03-05
 last_update: 2024-02-05
 ---

@@ -1,6 +1,6 @@
 ---
 slug: /ai/ml-algorithms/association-rules-and-apriori-algorithm
-title: Association Rules & Apriori Algorithm
+title: "Association Rules & Apriori Algorithm"
 description: Learn about Association Rules and the Apriori Algorithm, key concepts in data mining for predicting item occurrences from transaction data.
 created: 2023-03-05
 last_update: 2024-02-05

@@ -1,6 +1,6 @@
 ---
 slug: /about-deepak-sood/paper-publications-references
-title: Papers & Publications
+title: "Papers & Publications"
 description: Explore the impactful research on empowering Community Health Workers in rural India, focusing on maternal and child health through peer learning strategies.
 created: 2023-03-05
 last_update: 2025-02-14

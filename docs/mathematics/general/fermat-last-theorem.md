@@ -1,7 +1,7 @@
 ---
 slug: /mathematics/general/fermat-last-theorem
 title: Fermat's Last Theorem
-description: Explore Fermat's Last Theorem, a pivotal concept in number theory asserting no three positive integers can satisfy a² + b² = c² for n > 2.
+description: "Explore Fermat's Last Theorem, a pivotal concept in number theory asserting no three positive integers can satisfy a² + b² = c² for n > 2."
 created: 2023-03-05
 last_update: 2023-12-05
 ---

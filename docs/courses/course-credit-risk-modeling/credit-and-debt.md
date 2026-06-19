@@ -1,6 +1,6 @@
 ---
 slug: /courses/course-credit-risk-modeling/credit-and-debt
-title: Credit & Debt
+title: "Credit & Debt"
 description: Discover the key concepts of credit and debt, including credit risk, consumer factors, and default risk, to make informed financial decisions.
 created: 2023-03-05
 last_update: 2025-10-01

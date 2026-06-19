@@ -1,7 +1,7 @@
 ---
 slug: /algorithms/graphtheory/graph-search
 title: Understanding Graph Search Algorithms
-description: Explore popular graph search algorithms like A*, Dijkstra's, and Greedy Best First Search for efficient pathfinding in games.
+description: "Explore popular graph search algorithms like A*, Dijkstra's, and Greedy Best First Search for efficient pathfinding in games."
 created: 2023-03-05
 last_update: 2023-08-21
 ---

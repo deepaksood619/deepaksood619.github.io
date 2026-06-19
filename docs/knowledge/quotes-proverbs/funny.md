@@ -1,7 +1,7 @@
 ---
 slug: /knowledge/quotes-proverbs/funny
 title: Funny
-description: Explore a hilarious train journey from Mumbai to Delhi, where unexpected twists and a clever response lead to a comedic encounter!
+description: "Explore a hilarious train journey from Mumbai to Delhi, where unexpected twists and a clever response lead to a comedic encounter!"
 created: 2023-03-05
 last_update: 2023-08-21
 ---
