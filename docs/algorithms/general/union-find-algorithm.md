@@ -5,8 +5,6 @@ description: Learn about the Union-Find algorithm: its operations, properties, a
 created: 2023-03-05
 last_update: 2023-12-06
 ---
-# Union-Find Algorithm
-
 A union-find algorithm is an algorithm that performs two operations on a disjoint-set data structure -
 
 1. Find - Determine which subset a particular element is in.

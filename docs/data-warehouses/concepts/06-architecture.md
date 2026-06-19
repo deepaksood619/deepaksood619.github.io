@@ -5,8 +5,6 @@ description: Explore the three main types of data warehouse architectures: singl
 created: 2023-03-05
 last_update: 2025-06-10
 ---
-# Architecture
-
 There are mainly three types of Datawarehouse Architectures: -
 
 ## Single-tier architecture

@@ -222,7 +222,7 @@ Tools that transcribe voice and extract actionable items.
 
 ### Core Architecture
 
-```
+```text
 Input Layer → Understanding Layer → Storage Layer → Reminder Layer
 ```
 

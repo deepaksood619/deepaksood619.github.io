@@ -61,7 +61,7 @@ last_update: 2026-06-19
 
 ### Three-Part System
 
-```
+```text
 ┌─────────────────────────────────────────────────────┐
 │ 1. STABLE SLUGS (Docusaurus URLs)                  │
 │    Fixed forever, independent of file location     │
@@ -360,7 +360,7 @@ const sidebars = {
 
 Result: **Alphabetical order** (not learning order)
 
-```
+```text
 ❌ Current sidebar (alphabetical):
 - Advanced Topics
 - Applications
@@ -370,7 +370,7 @@ Result: **Alphabetical order** (not learning order)
 
 **Desired sidebar (logical order):**
 
-```
+```text
 ✅ Desired:
 1. Introduction
 2. Fundamentals
@@ -410,7 +410,7 @@ sidebar_position: 25   # New section (no renumbering needed)
 
 **Per-folder numbering:**
 
-```
+```text
 docs/ai/llm/
 ├── intro.md                (sidebar_position: 10)
 ├── fundamentals/
@@ -442,7 +442,7 @@ docs/ai/llm/
 
 **Migrate from:**
 
-```
+```text
 01-intro.md
 02-getting-started.md
 03-advanced.md

@@ -5,8 +5,6 @@ description: Explore edge computing: optimizing data processing near its source 
 created: 2023-03-05
 last_update: 2024-01-19
 ---
-# Edge Computing
-
 Edge computingis a method of optimizing [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing) systems by performing data processing at the edge of the network, near the source of the data.
 
 This reduces the communications bandwidth needed between sensors and the central datacenter by performing analytics and knowledge generation at or near the source of the data.

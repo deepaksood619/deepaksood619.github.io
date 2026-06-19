@@ -5,8 +5,6 @@ description: Learn about Graphite's components: Carbon, Whisper, and Graphite-We
 created: 2023-03-05
 last_update: 2025-03-12
 ---
-# Graphite
-
 ## Graphite does two things
 
 1. Store numeric time-series data

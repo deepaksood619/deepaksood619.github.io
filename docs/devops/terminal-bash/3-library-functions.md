@@ -5,8 +5,6 @@ description: Explore library functions like setvbuf for stream buffering operati
 created: 2023-03-05
 last_update: 2023-03-07
 ---
-# (3) Library Functions
-
 ## setvbuf
 
 setbuf, setbuffer, setlinebuf, setvbuf - stream buffering operations

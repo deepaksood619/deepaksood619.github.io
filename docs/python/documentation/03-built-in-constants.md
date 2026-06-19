@@ -5,8 +5,6 @@ description: Learn about Python's built-in constants: False, True, and None, and
 created: 2023-03-05
 last_update: 2023-03-07
 ---
-# 3. Built-in Constants
-
 A small number of constants live in the built-in namespace. They are:
 
 ## False

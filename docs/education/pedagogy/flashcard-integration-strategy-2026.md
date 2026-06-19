@@ -32,7 +32,7 @@ last_update: 2026-06-19
 
 **The Shift:**
 
-```
+```text
 Old: Write notes → Occasionally re-read → Forget 80%
 New: Write notes → LLM generates flashcards → Daily review → Internalize 80%
 ```
@@ -46,7 +46,7 @@ Think of your PKM as **two-layer system:**
 
 **Workflow:**
 
-```
+```text
 Encounter concept → Note (context + examples) → Flashcards (core facts) → Daily review → Mastery
                                                         ↓
                                               Update note if gaps found
@@ -104,7 +104,7 @@ I | This example demonstrates that LLMs may have knowledge but lack consistent r
 
 **Structure:**
 
-```
+```text
 docs/
 ├── ai/
 │   ├── llm/
@@ -143,7 +143,7 @@ docs/
 
 **Structure:**
 
-```
+```text
 docs/
 ├── ai/
 │   ├── llm/
@@ -173,7 +173,7 @@ docs/
 
 **Structure:**
 
-```
+```text
 docs/
 ├── ai/
 │   ├── llm/
@@ -248,14 +248,14 @@ I | Source: intro.md#what-is-llm |
 
 Bad:
 
-```
+```text
 LLM: "Generate flashcards from this 2000-word note on transformers"
 Result: 50 low-quality cards, many overlapping
 ```
 
 Good:
 
-```
+```text
 LLM: "Generate flashcards for the 'Self-Attention Mechanism' section (300 words)"
 Result: 5 high-quality cards, each testing distinct concept
 ```
@@ -305,7 +305,7 @@ cards:
 
 **Prompt 1: Generate Cards from Note Section**
 
-```
+```text
 You are generating LearnKit flashcards from a knowledge note section.
 
 Note: {note_title}
@@ -342,7 +342,7 @@ I | {Insight} | Source: {note}#{section} |
 
 **Prompt 2: Update Cards When Note Changes**
 
-```
+```text
 You are updating LearnKit flashcards after a note edit.
 
 Old section content:
@@ -370,7 +370,7 @@ Changelog comment:
 
 **Prompt 3: Generate Cloze Cards from Definitions**
 
-```
+```text
 Extract definition-style facts and generate cloze deletion flashcards.
 
 Content:
@@ -532,13 +532,13 @@ I | Emphasizes the "Large" in LLM | Source: intro.md#training-data |
 
 **Note → Flashcards (Daily)**
 
-```
+```text
 Note updated → LLM detects changed sections → Regenerate affected cards → Update flashcards.md
 ```
 
 **Flashcards → Notes (Weekly)**
 
-```
+```text
 Struggle with card → Flag in LearnKit → LLM analyzes →
   If card is bad: Regenerate
   If concept is hard: Enhance source note with examples/analogies
@@ -958,7 +958,7 @@ def improve_notes_from_flashcard_struggles():
 
 **Implement this structure:**
 
-```
+```text
 docs/
 ├── ai/
 │   ├── llm/

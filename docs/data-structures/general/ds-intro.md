@@ -5,8 +5,6 @@ description: Explore the types of data structures: implicit, explicit, and succi
 created: 2023-03-05
 last_update: 2023-12-05
 ---
-# DS Intro
-
 ## Types
 
 ### Implicit Data Structure

@@ -316,7 +316,6 @@ graph TD
 ## Questions to Explore
 
 [Aggregated "Questions & Gaps" sections from child notes]
-```
 
 **LLM Workflow:**
 
@@ -632,7 +631,7 @@ After human review → `confidence: medium/high`
 
 Use custom system prompts to match your writing style:
 
-```
+```text
 You are maintaining Deepak's knowledge vault. His style:
 - Concise, bullet-heavy
 - Prefers diagrams to prose

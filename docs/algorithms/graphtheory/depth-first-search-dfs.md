@@ -5,8 +5,6 @@ description: Explore Depth First Search (DFS) algorithm: its time complexity, tr
 created: 2023-03-05
 last_update: 2023-08-21
 ---
-# Depth First Search (DFS)
-
 Time Complexity: O(V+E) where V is number of vertices in the graph and E is number of edges in the graph.
 
 DFS "is an algorithm for traversing or searching tree data structure. One starts at the root and explores as far as possible along each branch before backtracking.

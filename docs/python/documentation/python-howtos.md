@@ -5,8 +5,6 @@ description: Explore key Python HowTos: porting code, functional programming, re
 created: 2023-03-05
 last_update: 2023-03-07
 ---
-# Python HowTos
-
 - [Porting Python 2 Code to Python 3](https://docs.python.org/3/howto/pyporting.html)
 - [Porting Extension Modules to Python 3](https://docs.python.org/3/howto/cporting.html)
 - [Curses Programming with Python](https://docs.python.org/3/howto/curses.html)
