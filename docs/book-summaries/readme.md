@@ -144,6 +144,7 @@ Biology, evolution, genetics, climate change, and social impact.
 - [The Tangled Tree](science/the-tangled-tree.md)
 - [The Uninhabitable Earth](science/the-uninhabitable-earth.md)
 - [Who We Are and How We Got Here](science/who-we-are-and-how-we-got-here.md)
+- [the-infinity-machine](book-summaries/science/the-infinity-machine.md)
 
 ---
 

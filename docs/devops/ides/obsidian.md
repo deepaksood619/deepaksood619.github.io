@@ -3,7 +3,7 @@ slug: /devops/ides/obsidian
 title: Exploring Obsidian Plugins and Extensions
 description: Discover essential plugins and extensions to enhance your Obsidian knowledge base experience for better productivity.
 created: 2023-03-05
-updated: 2026-06-17
+updated: 2026-06-21
 ---
 Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files.
 
@@ -37,7 +37,9 @@ Extensions that helps make obsidian better
 - Editing Toolbar / Obsidian Markdown formattting Assistant
 - Linter
 - Reading Time
-- Templater
+- [GitHub - SilentVoid13/Templater: A template plugin for obsidian · GitHub](https://github.com/SilentVoid13/Templater)
+	- [Some of My Best Templates · SilentVoid13/Templater · Discussion #1754 · GitHub](https://github.com/SilentVoid13/Templater/discussions/1754)
+- [GitHub - platers/obsidian-linter: An Obsidian plugin that formats and styles your notes with a focus on configurability and extensibility. · GitHub](https://github.com/platers/obsidian-linter)
 - [Regex Find/Replace](https://github.com/Gru80/obsidian-regex-replace) ⭐ 93
 - [GitHub - zsviczian/excalibrain: A graph view to navigate your Obsidian vault](https://github.com/zsviczian/excalibrain) ⭐ 961
 - [GitHub - valentine195/obsidian-leaflet-plugin: Adds interactive maps to Obsidian using Leaflet.js](https://github.com/valentine195/obsidian-leaflet-plugin) ⭐ 696
@@ -102,6 +104,8 @@ Turn notes into study-ready material without leaving Obsidian.
 ## Themes
 
 - [Ultimate guide to best Obsidian themes | Elizabeth Butler](https://elizabethbutlermd.com/5-of-the-best-custom-minimalist-digital-note-taking-themes-for-obsidian-in-2022/)
+	- Minimal Things
+		- [GitHub - kepano/obsidian-minimal-settings: Settings plugin to control colors and fonts in Minimal Theme · GitHub](https://github.com/kepano/obsidian-minimal-settings)
 - [7+ Obsidian Themes for a Drastic Design Facelift!](https://akshayhallur.com/blog/best-obsidian-themes)
 - Things (current)
 	- [GitHub - colineckert/obsidian-things: An Obsidian theme inspired by the beautifully-designed app, Things.](https://github.com/colineckert/obsidian-things) ⭐ 982

@@ -11,5 +11,8 @@
   "obsidian-reading-time",
   "obsidian-regex-replace",
   "obsidian-style-settings",
-  "learnkit"
+  "learnkit",
+  "templater-obsidian",
+  "omnisearch",
+  "obsidian-linter"
 ]

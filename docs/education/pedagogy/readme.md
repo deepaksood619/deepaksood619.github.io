@@ -19,3 +19,6 @@ updated: 2026-06-11
 - [adaptive-learning-platform](education/pedagogy/adaptive-learning-platform.md)
 - [adaptive-learning-algorithms](education/pedagogy/adaptive-learning-algorithms.md)
 - [note-taking-second-brain-pkm-zettelkasten](education/pedagogy/note-taking-second-brain-pkm-zettelkasten.md)
+	- [flashcard-integration-strategy-2026](education/pedagogy/flashcard-integration-strategy-2026.md)
+	- [pkm-scaling-recommendations-2026](education/pedagogy/pkm-scaling-recommendations-2026.md)
+	- [stable-urls-sidebar-ordering-strategy-2026](education/pedagogy/stable-urls-sidebar-ordering-strategy-2026.md)
